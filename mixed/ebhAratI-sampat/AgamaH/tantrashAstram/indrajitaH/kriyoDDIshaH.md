@@ -26,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1NTk4MjYyMzc
 
 **भाषाटीकासमेतः।**
 
-**![](../books_images/U-IMG-1721311771Screenshot2024-07-18194052.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721311771Screenshot2024-07-18194052.png"/>**
 
 **आनन्दशिखरारूढं पार्वत्या सह शंकरम्।  
 पप्रच्छ गिरिजा कान्ता पुनर्नत्वा वृषध्वजम्॥ १ ॥**

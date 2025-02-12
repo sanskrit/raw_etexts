@@ -48,7 +48,7 @@ Parvatipuram. Vizag Dt.
 
 **॥परशुरामचरितम्॥**
 
-![](../../../books_images/U-IMG-1695881393Annotation2023-09-28113344.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1695881393Annotation2023-09-28113344.png"/>
 
 **'परित्राणाय साधूनां विनाशाय च दुष्कृताम्।  
 धर्मसंस्थापनार्थाय सम्भवामि युगे युगे॥'**

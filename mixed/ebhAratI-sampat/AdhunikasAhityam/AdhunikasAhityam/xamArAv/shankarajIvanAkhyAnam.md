@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI
 
 शङ्करजीवनाख्यानम् ।
 
-![](../../../books_images/U-IMG-169700116311-10-2023.png)
+<MISSING_FIG href="../../../books_images/U-IMG-169700116311-10-2023.png"/>
 
 सन १९३९.  
 
@@ -41,7 +41,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI
 
 **॥ ग्रन्थार्पणम् ॥**  
 
- ![](../../../books_images/U-IMG-1697100922Screenshot(11).png)
+ <MISSING_FIG href="../../../books_images/U-IMG-1697100922Screenshot(11"/>.png)
 
 अदृष्टपितृसौख्यायाः शैशवादपि या मम।  
 जनकस्थानमापन्ना स्वयं बोधमजीजनत्॥
@@ -56,7 +56,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI
 
 ( केलकरोपनाम्ना चिन्तामणिसूनुना नृसिंहशर्मणा कृतः )
 
-![](../../../books_images/U-IMG-1697101110Screenshot(12).png)
+<MISSING_FIG href="../../../books_images/U-IMG-1697101110Screenshot(12"/>.png)
 
 महाराष्ट्रभुवः कण्ठमुक्ताहारनिभाः पुरा।  
 पण्डिताः पण्डितोपाव्हा जाताः शङ्करनामकाः॥१॥
@@ -151,7 +151,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI
 अध्येतॄन् निखिलान् सद्यः कुरुतात् कार्यतत्परान्।  
 इत्याशास्य मया सोऽयं ग्रन्थस्तेभ्यः समर्प्यते॥३१॥
 
-![](../../../books_images/U-IMG-169710069911.10.2023_22.29.32_REC.png)
+<MISSING_FIG href="../../../books_images/U-IMG-169710069911.10.2023_22.29.32_REC.png"/>
 
 **श्रीशङ्करजीवनाख्याने विषयानुक्रमणिका।**
 
@@ -178,11 +178,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI
 
 **शङ्करजीवनाख्यानम्।**
 
-![](../../../books_images/U-IMG-169712036612.10.2023_19.48.41_REC.png)  
+<MISSING_FIG href="../../../books_images/U-IMG-169712036612.10.2023_19.48.41_REC.png"/>  
 
 ग्रन्थगताः काश्चन सूक्तयः॥
 
-![](../../../books_images/U-IMG-169712102112.10.2023_19.59.41_REC.png)
+<MISSING_FIG href="../../../books_images/U-IMG-169712102112.10.2023_19.59.41_REC.png"/>
 
 [TABLE]
 
@@ -199,7 +199,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI
 नमः शङ्करदेवाय निराकारस्वरूपिणे।  
 गुरवे विबुधेड्याय क्षमादितनुधारिणे॥
 
-![](../../../books_images/U-IMG-1698313318Screenshot2023-10-26150939.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1698313318Screenshot2023-10-26150939.png"/>
 
 —सौ. क्षमा राव.—
 
@@ -929,7 +929,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI
 यत्रासीदुक्तपूर्वो यः सीतारामः सहोदरः।  
 पालयन् शीलसम्पन्नो वृत्तिमर्थकरीं निजाम्॥१७॥
 
-![](../../../books_images/U-IMG-1698313640Screenshot2023-10-26151706.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1698313640Screenshot2023-10-26151706.png"/>
 
 **—॥ नवोढा श्रीमती उषादेवी ॥—**
 
@@ -2826,7 +2826,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI
 
 **शुद्धाशुद्धिपत्रम्।**
 
-![](../../../books_images/U-IMG-1697691247Untitled3.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1697691247Untitled3.png"/>
 
 |        |             |             |
 |:------:|:-----------:|:-----------:|
@@ -2848,7 +2848,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NDY4MTU3ODI
 
   **सौक्षमया प्रणीताः संस्कृतग्रन्थाः।**
 
-**![](../../../books_images/U-IMG-169772063019.10.2023_18.33.17_REC.png)**
+**<MISSING_FIG href="../../../books_images/U-IMG-169772063019.10.2023_18.33.17_REC.png"/>**
 
 १. सत्याग्रहगीता  
 २. कथापञ्चकम्  

@@ -29,7 +29,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3NDM0NTQ3NjY
 
 ***SHRI YANTRA***
 
-![](../books_images/U-IMG-1726478658SREE.png)
+<MISSING_FIG href="../books_images/U-IMG-1726478658SREE.png"/>
 
 [TABLE]
 
@@ -196,7 +196,7 @@ in his commentary itself to Saccidānanda-Vāsanā and Cidānanda Vāsanā as hi
 |  १९   | उदाहरिष्यामः                   | १९  | सप्तशतो ०   |
 |      |                               |  ३   | मुदा०      |
 
-![](../books_images/U-IMG-1725364872Screenshot2024-08-26232450.png)
+<MISSING_FIG href="../books_images/U-IMG-1725364872Screenshot2024-08-26232450.png"/>
 
 **KĀMA-KALĀ-VILĀSA**  
 **BY**  
@@ -238,7 +238,7 @@ then why should the Brahman alone be called Paramātmā? To meetthis the latter 
   **Protect ye**. He has this power. Mantra is so called, because it
 protects or saves by thinking (*Manana*) on it (*Mananāt trāyate*). Puṇyānanda says: ‘May Parames'vara protect ye’. Protection is one of the powers of Paramātmā. May the Great Lord who is Illumination (*Prakās'a*) protect ye.The Ācāryā²⁰has also power to illuminate, Mantra also has the power of illumination. Therefore the unity of the Devatā, Guru, and Mantra is here shown.
 
-**![](../books_images/U-IMG-1725275935Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725275935Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -325,7 +325,7 @@ Similarly if the ***Parās'akti*** were not united with ***Paras'iva***, She cou
 
   ***Āgama*** says : ‘Without S'iva there is no Devī. Without Devī there is no S'iva. As between moon and moonbeam there is no difference, so there is no difference between S'iva and S'akti.’
 
-**![](../books_images/U-IMG-1725448492Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725448492Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -355,7 +355,7 @@ than the subtile is eternal Beingness (***Sattva***), Thou verily art That.’ *
 
   **Her form is manifested.....letter (Ha)** (*Anuttara-vimarsa-lipilakṣya-vigrahā*). By ***Anuttara-lipi*** is meant the letter before which there is no other, and that is the letter *A*. By *Vimars'a-lipi* is meant the last letter which is Ha. By the union of *A* and *Ha* (*Aham=I*) Her Self (*Vigraha=Svarūpa*) becomes known (*Lakṣya=Visible*). The sense of these words is that the Para-s'akti is ‘I-ness’ (*Ahamātmika*) within whom (i.e. between the letters *A* and *Ha*) are all the letters of the alphabet (*Antar-garbhita-samasta-varṇa-kadaṁbaka*.) Her form is the fifty letters beginning with *A-kāra* and ending with *Ha-kāra* (*Akārādi-hakārānta-pañcās'ad-akṣara-rūpinī*). She is the Mother (*Janayitrī*) of all the universe consisting of ***Varṇa, Pada,*** *Mantra* and of *Kalā*, *Tattva*, *Bhuvana*. She is the supreme object of veneration (*Parā bhattārikā,* the innermost self of all things *(Samastabhūtāntarātmā*). Everywhere in the Vedānta She appears spoken of as‘I’ (*Ahamahamityevākāreṇa*). This is what has been said in this verse. So it has been said in the *Kānva-s'ruti*: “This Brahman verily in the beginning was. It knew Itself (*Tadātmānam eva veda*), ‘I Brahman am’.‘A is Brahman, from That came *Aham* (i.e., I).’ The worship of Ātmā is the meditation 'I am all' (*Pārnāham-bhāvabhāvanā*), and should be kept very secret. *S'ruti* enjoins that it should be learnt only from the mouth of the Guru.
 
-**![](../books_images/U-IMG-1725449653Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725449653Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -395,7 +395,7 @@ UPON the mass of the rays of the Sun Paras'iva bein reflected in the pure *Vimar
 
 [^12]: "She limits, that is, is beyond both."
 
-**![](../books_images/U-IMG-1725464277Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725464277Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -408,7 +408,7 @@ UPON the mass of the rays of the Sun Paras'iva bein reflected in the pure *Vimar
 
 * 3.. **Sva-svarupa-prkās’atvāt** may also mean: Because She makes manifest the svarāpa of Brahman (Sva=Brahman=Ātman) in Her as in a Mirror.*  
 
-![](../books_images/U-IMG-1725464075Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1725464075Screenshot2024-08-08063503.png"/>
 
 **VERSE 5**
 
@@ -430,7 +430,7 @@ UPON the mass of the rays of the Sun Paras'iva bein reflected in the pure *Vimar
 
 composed of Thirty-six Tattvas. The meaning, by the rule of *Pratyāhāra*, is that from the union of *Prakās'a* and *Vimars'a* which is *Ahaṁkāra*, within which are the many letters of the alphabet, emanates the whole universe consisting of Word (*S'abda*) and its Meaning (*Artha*). So also says *S'ruti*³: ‘The letterless (*Avarṇa*) full of meaning (*Nihitārtha*) by union with S'akti in various ways generates many letters (Vaṛṇa)’. In another Upanisad⁴ occurs this text : ‘Who art thou?’ ‘It is I (*Ahaṁ*) (the reply): All this is surely I (*Ahaṁ*)’. Therefore the term ‘*Ahaṁ*’ or ‘I’ denotes all things (*Sarvābhidhānaṁ=Sarvavācakam).'*
 
-![](../books_images/U-IMG-1725517141Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725517141Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -490,7 +490,7 @@ again it is said, ‘Oh Paras’ivā, I make obeisance to Thy supreme Kalā, whe
 
   The *Vijñānabhattāraka* also says : “By passing through the different Mandalas (of the *S’rīcakra*) where the gross letters (*Sthūlavarṇa*) are rising up to Arddhendu, Bindu, Nādānta¹⁵and to the S’ūnya in the *Bindurūpa-cakra*, one becomes S’iva.”¹⁶
 
-^(**![](../books_images/U-IMG-1725524624Screenshot2024-08-10134504.png)**)
+^(**<MISSING_FIG href="../books_images/U-IMG-1725524624Screenshot2024-08-10134504.png"/>**)
 
 **NOTES**
 
@@ -521,7 +521,7 @@ again it is said, ‘Oh Paras’ivā, I make obeisance to Thy supreme Kalā, whe
 ¹⁵For these terms see Woodroffe's “*Garland of Letters*.”  
 ¹⁶The gross letters in *Vaikharī* form are in the outer *Mandalas* and passing through the subtler forms of *Sabda*, the *Sabdabrahman* and then *Sūnya* is attained.
 
-![](../books_images/U-IMG-1725529765Screenshot2024-08-04235410.png)
+<MISSING_FIG href="../books_images/U-IMG-1725529765Screenshot2024-08-04235410.png"/>
 
 **VERSE 8**
 
@@ -553,7 +553,7 @@ Now this is the *Vidyā* of Kāmakalā which deals with the sequence of the Cakr
 
   In the *Svacchanda Tantra* also occur Texts like the following—‘When (the *Sādhaka*) is united in the same abode with his Devatā⁶, then for him there is no more birth or death. He attains the state of true Devotion and becomes the Lord of the Universe (*Cakra*)’.
 
-**![](../books_images/U-IMG-1725531696Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725531696Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -569,7 +569,7 @@ Now this is the *Vidyā* of Kāmakalā which deals with the sequence of the Cakr
 
 **  6that is*, here Tripurā.*
 
-![](../books_images/U-IMG-1725531682Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1725531682Screenshot2024-08-08063503.png"/>
 
 **VERSE 9**
 
@@ -617,7 +617,7 @@ Having spoken of to the all-pervadingness (*Sarvātmatva*) and all-creativeness 
   In this way it is established that from Brahman, which is the White and Red Bindus, which are *Prakāsa* and *Vimarsa*, all this (universe) originated.  
   *Āgama* also says : 'I bow to the *Mahāpitha²*of *Samvit³*which is S'iva and S'akti *(S'ivasakti-padās'raya*)⁴ wherefrom emanate countless world-rays⁵ made manifest (*Vilasita*) or flashed forth by Creative Will *(Icchā-s'akti*)
 
-![](../books_images/U-IMG-1725536157Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725536157Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -627,7 +627,7 @@ Having spoken of to the all-pervadingness (*Sarvātmatva*) and all-creativeness 
   ⁴ Lit., the refuge which is the feet or place of S'iva and S'akti.  
   ⁵ From the Effulgent Consciousness imaged as a Mass of Light which is all Wisdom and Power, rays shoot forth which are the worlds, as, it is said elsewhere, sparks from the great central fire.*
 
-![](../books_images/U-IMG-1725536139Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1725536139Screenshot2024-08-08063503.png"/>
 
 **VERSE 11**
 
@@ -642,7 +642,7 @@ As the two Bindus are indistinguishable and inseparable, so also are ***Vidyā**
 
   So it has been said in *Tantrasadbhāva*: ‘All Mantras consist of letters (***Varnātmaka***). They again, O beloved, are at base S'akti. S'akti again is Mātṛkā and She again is S'ivātmikā. She the Mātṛkā who in the world appears possessed of the energy and brilliance of the Supreme *(**Paratejah**-**samanvitā**)* pervades all this universe beginning from Brahmā and ending with *Bhuvana*.’
 
-**![](../books_images/U-IMG-1725536496Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725536496Screenshot2024-08-08063503.png"/>**
 
 **VERSE 12**
 
@@ -665,7 +665,7 @@ WORD (***Vāk***) and its meaning (***Artha***) are always united, They are S'iv
  **Threefold** (*Tridhā-vibhaktau)*. The united *Prakās*’*a* and *Vimars*’*a* are divided in three ways *(Vibhaktau=Prithagbhūtau*). These three ways or forms are the three Bījas. The three *Bījas* are *Vāgbhava*, *Kāmarāja* and *S‘akti Bīja*. The meaning of this is that Mahātripurasundarī who is Brahman as *Kāmakalā* composed of the three Bindus collectively (*Bindutrayasamaṣtībhūtā*), is the object of adoration of all.
 
  The *Vāmakes’vara³*says : ‘Tripurā is known by the three *Tattvas* (*Tattvatrayavinirdiṣtā*) and is the threefold S‘akti of the three letters (*Varṇa*-*sakti*-*trayātmikā*)⁴. *Vāgīsvarī* which is Jñānasakti is in *Vāgbhavabīja* and is *Mokṣa-rūpiṇī* or Liberation itself, that is, grantor of Liberation. *Kāmakāla* is in *Kāmarāja* (*Bija*) which is *Kriyā S’akti* (*Kriyātmikā*) and *Kāmarūpā* (as *Kāma* or Will, that is, grantor of desires). *Icchā* which is the *Parā S’akti* is in *S’akti Bīja* and is *S’iva*-*rūpiṇi⁵*. Such is Devī Mahātripurasundarī who is the three *Akṣaras* (*Bījas*), who loosens the bondage to this world, and is known by the tradition handed down by the line of Gurus to their disciples (*Pāraṁparyeṇa vijñātā*)’.  
-**![](../books_images/U-IMG-1725536876Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725536876Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -720,7 +720,7 @@ as Knower (*Mātṛ*), Knowing (*Māna*), Known (*Meya*) and true Knowledge (*Pr
 
  In the *Catuh-satī*¹³She is spoken of as the Devī Tripurā who is Knowledge as Supreme experience itself (*Svasaṁvit*).
 
-![](../books_images/U-IMG-1725542980Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725542980Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -781,7 +781,7 @@ SOUND, Touch, Form, Taste, Smell these are the subtle ***Bhūtas*.** (Of these) 
 
   So ***Āgama*** says : ‘There is some, only one Supreme Mahes'vara whose name is ***Prakās'a*** and the name of whose *S'akti* is ***Vimars'a***, She is called *Nityā* by the wise. She the Devī whose name is ***Vimars'a*** becomes fivefold as Ether (***Ākās'a***), Air (***Anila***), the Seven-flamed (***Saptārcih***) Fire, Water (***Salila***) and Earth (***Avanī***). By the increase of Guṇas, one by one, She reaches the number of the *Tithis* (fifteen). The Devī who is *Vimars'a* (***Vimars'a*-*rūpiṇī***) is known as the sixteenth (*Soda'sī*). The Parames'varī who is Mahātripurasundarī undergoes these sixteen forms, the last of which is *Citrā*. She spreads Herself alt over (the ***Cakra***). The subject is only here hinted at. It should be known from One's own *Āgama*. He who worships these Devīs one after the other day by day, from *Pratipat* to *Pūrṇimā* attains, oh beloved, good fortune (*Saubhāgya*).’
 
-![](../books_images/U-IMG-1725544454Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725544454Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -793,7 +793,7 @@ SOUND, Touch, Form, Taste, Smell these are the subtle ***Bhūtas*.** (Of these) 
 
 *  ⁴2-4-12.*
 
-![](../books_images/U-IMG-1725544489Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1725544489Screenshot2024-08-08063503.png"/>
 
 **VERSE 18**
 
@@ -819,7 +819,7 @@ total of all these make 36 letters which are the limbs⁴. This ***Vidyā*** as 
 
  *S'ruti* says that ***Kādi*** also possesses the double quality *(**Ubhayātmakatva**)* that is, as immanent and transcendent and as collective and individual (***Vyaṣti–samaṣtirūpatvaṁ***). The difference between the two is that in the first part of ***Hādi*** there are five vowels and seven consonants, whereas in the first part of *Kādi* there are seven vowels and five consonants. So that in both *Vidyās* the total in the first section is equally twelve each. Both *Vidyās* therefore possess the double character. The method relating to the worship of both the *Vidyās* should be learnt from the mouth of the Guru.
 
-**![](../books_images/U-IMG-1725560501Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725560501Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -831,7 +831,7 @@ total of all these make 36 letters which are the limbs⁴. This ***Vidyā*** as 
 
 *  ⁴ The grand total is thus 15 vowels and 21 consonants=36 letters*
 
-**![](../books_images/U-IMG-1725560542Screenshot2024-08-27092409.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725560542Screenshot2024-08-27092409.png"/>**
 
 **VERSE 19**
 
@@ -848,7 +848,7 @@ VEDYĀ is also like this—She is the subtle Devī Tripura-sundarī. The Great Y
 
 separateness (***Abheda=aikya**=one-ness*) of Vidyā, that is, the Mantra of fifteen letters, and ***Vedyā***, that is, Tripurasundarī. So it has been said in *Catuhsatī¹*: “Whatever S'akti is spoken of as being in any particular category (***Padārtha***), that S'akti is the Devī Sarves'varī (the S'akti of S'iva), and He who is with Her is the Great Lord (*Mahesvara*). She the Vidyā who is ***Bhūtaguṇātmikā²***spreads Herself out by the fifteen letters of which Her mantra is composed and which is divided into groups of five (which are of ***Vāgbhava***), six (which are of *Kāmarāja*), and four (which are of *S'akti*) letters³. According to the number of vowels and consonants (of which her Mantra consists) She is of thirty-seven aspects (***Saptatrims'at- prabhedinī***). By these thirty-seven aspects or variations She appears as Thirty-six Tattvas. The Vidyā Itself should be thought of as the State of S'iva Himself which excels all **Tattvas**⁴.
 
-![](../books_images/U-IMG-1725601795Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725601795Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -877,7 +877,7 @@ Having previously spoken of the oneness of the Vidyā and Devatā the author wis
 
   This same (***Saiva***) Parā S'akti so described (***Evaṁbhūtalakṣaṇā***) is again known in three different aspects. That is what is said in the passage **when manifest &c. &c. Pashyanti and others** (***Spaṣtā pas'yantyāditrimātrikātmā***). By “Manifest” (***Spaṣtā***) Her first appearance as something objective is meant. By the expression “and others” Madhyamā and Vaikharī are intended. It is She Who as Vaikharī which is power of expression (***Abhilāpasvarūpiṇi***), is the S'akti which is in the form of the mass of fifteen letters (***Pañcadasākṣararasimayī***)*⁶*and in all the many different words used in the Vedas and Tantras and in ordinary life. So it has been said in ***Subhagodayavāsanā*** : “Parā as Pas'yantī is the creeper born in the earth⁷ as Madhyamā She is the fragrance from the flower-bunch and as Vaikharī She is the letter of the alphabet (***Akṣamālā***). Thus does She excel all.” In this wise, as Trimātṛikā, She becomes the Cakra that is, becomes one with the Cakra of three parts⁸.
 
-**![](../books_images/U-IMG-1725603667Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725603667Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -933,7 +933,7 @@ two in their gross form. The grossness of the ***Cakra*** is in its expansions b
 
   Thus it is established that the ***Cakra*** is the form (***Rūpa***) of the *Devatā*
 
-**![](../books_images/U-IMG-1725610109Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725610109Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -946,7 +946,7 @@ two in their gross form. The grossness of the ***Cakra*** is in its expansions b
   ⁵ **Chāndogya,** 3-14-1.  
   ⁶ **Bṛhadāraṇyaka,** 2-4-6.*
 
-![](../books_images/U-IMG-1725610934Screenshot2024-08-26232450.png)
+<MISSING_FIG href="../books_images/U-IMG-1725610934Screenshot2024-08-26232450.png"/>
 
 **VERSES 22, 23 & 24**
 
@@ -1000,7 +1000,7 @@ The S'aktis Parā to S'āntā are ten if considered individually and are collect
 
   In this way the inseparateness of Cause and Effect is established.
 
-**![](../books_images/U-IMG-1725619317Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725619317Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -1056,7 +1056,7 @@ INthis way the united Kāma and Kalā are the (three) letters whose own form (**
 
   The wise know no difference between the Maheśī and the Cakra. Parā Herself is the subtle form of both these (Devatā and Cakra). There is no difference between the two in the gross form also.
 
-![](../books_images/U-IMG-1725618794Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725618794Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1126,7 +1126,7 @@ She is the nine sounds (*Navanādamayī*). This will be understood from the foll
 
 She is (also) called Rodhinī because she obstructs the path of Liberation (***Mokṣamārga-nirodhanāt***)¹⁸. Aṁbikā's form is that of a portion of the moon,—She is Ardha-candrikā, the half-moon. The Parā-S'akti who is one does in this way appear as three. From them¹⁹ as thus distinguished (***Ābhyo viviktābhyah***) have originated the nine group of letters (***Navavargakāh***) which are associated (***Yuktāh***) with them. It is She (***Parāsakti Kuṇdalī***) who is thought of in nine ways being indicated by the nine groups (***Navavargopalakṣitā***) ”²⁰.
 
-![](../books_images/U-IMG-1725617874Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725617874Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1170,7 +1170,7 @@ She is (also) called Rodhinī because she obstructs the path of Liberation (***M
 
 *²⁰ The text seems in part correct. Madras edition throws no light on the right reading, but quotes the passage practically in the same terms.*
 
-**![](../books_images/U-IMG-1725617859Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725617859Screenshot2024-08-08063503.png"/>**
 
 **VERSE 28**
 
@@ -1188,7 +1188,7 @@ THE first (i.e. subtle ***Madhyamā***) is the cause (***Kāraṇa***) and the o
 
   The same thing becomes different only as an object of speech. When anything is spoken of it becomes of two kinds¹.
 
-**![](../books_images/U-IMG-1725623187Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725623187Screenshot2024-08-10134504.png"/>**
 
 **NOTE**
 
@@ -1210,7 +1210,7 @@ meant the aforementioned three Cakras³ which are a mass of light (***Tejorāsim
 
   These two lights become **spread forth** (***Vitata***) as the **two Cakrasof ten triangles (each)**. These are the inner and outer Cakras of ten triangles each which also are of boundless brilliance (*Niravadhika-Tejomaṇdala*). **The two lights** (*Kānti-dvitaya*) relate to these two. two Cakras are called *Sarvarakṣākara* (All-protector) and *Sarvārtha-Sādhaka* (All-accomplisher). By **Spread** (*Vitata*) is meant evolved (*Pariṇata*). So it has been said (*Nitāyṣoda*. VI, 15 : “The Cakra of ten triangles is the form of the manifested light of the nine triangles”⁴. The ten letters of the Ta-varga and *Ta*-varga are the triangles in the inner Cakra of ten triangles and the ten letters of Ca-varga and Ka varga are the triangles in the outer Cakra.
 
-![](../books_images/U-IMG-1725631723Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725631723Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1222,7 +1222,7 @@ meant the aforementioned three Cakras³ which are a mass of light (***Tejorāsim
 
 * ⁴Navatrikoṇa-spurita-prabhārupadashārakam. The nine triangles taken individually and collectively with the Bindu make ten.*
 
-![](../books_images/U-IMG-1725631709Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1725631709Screenshot2024-08-08063503.png"/>
 
 **VERSE 31**
 
@@ -1246,13 +1246,13 @@ PARĀ, Pas'yantī and Madhyamā in her form or aspect as (the unuttered) gross l
 
   After giving a description of the Cakras beginning with the Bindu and ending with the Cakra of fourteen triangles, he here speaks of the appearance of Vaikharī S'akti. The Nature (*Lakṣaṇa*) of Parā and other S'aktis has already been described. What is said here is that Vaikharī¹who is all-sound (*Sarva–s'abdātmikā*) is the creatrix (*Nirmātrī*) of the entire universe (***Akhilaprapañca***) which is composed of the collectivity of the letters (***Akṣara**-**rās'imaya***) beginning with A and ending with Kṣa. *Vaikharī* has been spoken of (*Nityāṣoda*. VI. 40) as pervading the universe or as the “world-form (*Vis'va-vigrahā*).”
 
-**![](../books_images/U-IMG-1725634566Screenshot2024-07-28221953.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725634566Screenshot2024-07-28221953.png"/>**
 
 **NOTE**
 
 *  ¹Madhyamā as Sūkṣmā is Navanāda-mayi and as Sthūlā, Nava-vargātmā. The letters are formed as Madhyamā but unuttered. See vv, 26 and 27 ante. Madhyamā as the unuttered gross letters in the evolution of speech is the stage iminediately preceding Vaikharī.*
 
-*![](../books_images/U-IMG-1725634596Screenshot2024-08-08063503.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1725634596Screenshot2024-08-08063503.png"/>*
 
 **VERSE 33**
 
@@ -1270,7 +1270,7 @@ THE eight groups of letters beginning with the Ka group which are Vaikharī Śak
 
  **Should always be borne in mind.** (***Saṁcityam***) that is, should be meditated upon (***Sarvadā bhāvanīyam***).
 
-**![](../books_images/U-IMG-1725635042Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725635042Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -1296,7 +1296,7 @@ THE (three) circles¹ are the transformations **(*Vikāra*)** of the three light
 
   **The three mothers Pasyanti and others here rest** ***(Pasyantyādi-tri-mātṛ-vis'rāntih)***. The meaning of this is that the three S'aktis Pashyantī, Madhyamā and Vaikharī are up to this place luminous (***Vijṛmbhamānā***), that is, they function from the Trikoṇa to the Bhūpura. This has been fully dealt with in the **Vāmakeśvara** (***Nityaṣoda*. Ch. VI. 36-40**).
 
-![](../books_images/U-IMG-1725637881Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725637881Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1306,7 +1306,7 @@ THE (three) circles¹ are the transformations **(*Vikāra*)** of the three light
 
 *  ³As to the place of these S'aktis there are divergent views*
 
-**![](../books_images/U-IMG-1725637896Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725637896Screenshot2024-08-08063503.png"/>**
 
 **VERSE 35**
 
@@ -1333,7 +1333,7 @@ MOVEMENT is either Pada-vikṣepa¹or Kramodaya and is therefore said to be of t
  So it has been said:
 
  “The light (*Mahah=Tejah*) of Tripurā is (it is so declared) divided in many million ways but in the midst of these shines transcendent Mahātripura–sundari Herself.”  
-**![](../books_images/U-IMG-1725638751Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725638751Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -1375,7 +1375,7 @@ who are part of the ocean of Conciousness-bliss (***Cidā-nanda-samud-rātmaka**
 
   Also *Āgama* (*Nityaṣod x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.*  
 “Such is the Tejas (x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.x.xCCakra iscomposed, the S'aktis therei  
-![](../books_images/U-IMG-1726469823Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726469823Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1416,7 +1416,7 @@ SHE (who is) Devī Tripura-sundarī abides in the ***Bindu-maya-cakra.*** (There
  So the Vāmakes'vara (*Nityāṣoda*. VI. 53) says:
 
   “The resplendent one holding in her hand the noose (*Pās'a*) which is Will *(Icchā-s'akti*), the goad (*Aṅkus'a*) which is Knowledge (*Jñāna-s'akti*) and the arrows and the bow which is Action (***Kriyā-s'akti***).”  
-**![](../books_images/U-IMG-1725646015Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725646015Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -1444,7 +1444,7 @@ SHE (who is) Devī Tripura-sundarī abides in the ***Bindu-maya-cakra.*** (There
 
  The couple (***Mithuna***) who are the united **Kāma** and **Kāmes'varī** assume the forms of ***Mitreshanātha-kāmes'varī, Uddīṣanātha-Bajres’varī***and ***S'aṣthīs'anātha-Bhagamālinī*** as the three pairs (***Mithuna***) of the Divya, Siddha and Mānava lines (**of Gurus**)³.
 
-![](../books_images/U-IMG-1725646124Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725646124Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1454,7 +1454,7 @@ SHE (who is) Devī Tripura-sundarī abides in the ***Bindu-maya-cakra.*** (There
 
 * Under V. 52 post the names of the three Gurus and their S'aktis are given differently. Possibly one or other portion of the text is incorrect.*
 
-**![](../books_images/U-IMG-1725646147Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725646147Screenshot2024-08-08063503.png"/>**
 
 **VERSE 40**
 
@@ -1475,7 +1475,7 @@ THOSE that abide in the Cakra of eight triangles are Vas'inī and the others¹ w
 (***Puryaṣtaka*** = Eightfold body) is so called because of the eight which compose it. They are as the ***Svacchanda*** ***Tantra*** says:
 
   “Citi, Citta, Caitanya, Cetanā, Indriya-karma, Jīva, Kalā and S'arīra³.  
-**![](../books_images/U-IMG-1726469866Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726469866Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -1495,7 +1495,7 @@ As for Her powers, they having assumed the forms of Sarvajña and others abide i
 **  Her powers**^(**1**)(*Viṣaya-vṛttayah*) are in close proximity to the Cakra of eight triangles.
 
 **  They** (*Tāh*). By this is emphasized their well-known power (to assist the Sādhaka) to maintain the identity of his self and the (Supreme) Ātmā **(*Svātmaikyarūpa-rakṣaṇa-dhāriṇītvena prasiddhāh*).²** **Having assumed the form of Sarvajna and others** (*Sarvajñādisvarūpaṁāpannāh*) these powers become the ten S'aktis ***Sarvajnā*** and others and abide in the Cakra of ten triangles known by the name of *Sarva-rakṣākara*. They are called ***Nigarbhayoginīs³***and are white and clear **like the autumnal moon** (*S'aradindu-sundarākārāh*).  
-**![](../books_images/U-IMG-1725640423Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725640423Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -1505,7 +1505,7 @@ As for Her powers, they having assumed the forms of Sarvajña and others abide i
 
 * ³The expression Nigarbha has been defined by Bhāskararāya under VII. 48 and VIII. 157 Nityāṣoda.*
 
-**![](../books_images/U-IMG-1725640437Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725640437Screenshot2024-08-08063503.png"/>**
 
 **VERSE 42**
 
@@ -1518,7 +1518,7 @@ THE Yoginīs in the series of angles outside this (last) are those the first of 
  In the series of angles (Paṅktioṇeṣu). By this we are to understand that the angles of the triangles of which the *Sarvārthasādhakacakra* is composed are in proximity to the triangles of the *Sarvarakṣākara*-*cakra*. The Yoginīs in this Cakra (***Sarvārthasādhaka***) are called *Kulakaulas¹*and they are the ten S'aktis ***Sarvasiddhipradā*** and others.
 
  **They are the objects of the jnanendriyas and karmendriyas of the Devi** (*Devī-dhī-karmendriyaviṣaya-mayāh*). These ten S'aktis are the objects of sense perception such as sound is of hearing and the like. They are clad in white raiment and their adornment is also white (*Vis'ada-veṣa-bhūṣādhyāh*). The sense of this is that these S'aktis are inseparate from or identical with (*Abhedarūpāh*) the Mantra, the Devatā and the Sādhaka's²self and are white, clad in white raiment and grant Siddhi.  
-**![](../books_images/U-IMG-1725645625Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725645625Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -1533,7 +1533,7 @@ THOSE (S'aktis) who have their places in the Cakra of fourteen triangles are the
 **COMMENTARY**
 
  This Cakra of fourteen triangles is called *Sarva-saubhāgyadāyaka* (Giver of All-prosperity). The fourteen¹**instruments** (***Manukaraṇa***) of the Devī are five of Jñāna (Pañca-jñānendriyāṇī), the five of Karma (Pañca-karmendriyāṇi) and *Manas*, *Buddhi*, *Ahaṁkāra*, *Citta*. **Un-folding Movements** (*Vivaraṇa*-*sphuraṇa*). The movements (*Sphuraṇa*) of the senses are in the **Cakra of fourteen triangles** (*Bhuvanāracakra*) as the **Saktis** therein. The Devī Herself is in this Cakra as the fourteen Devatās who are Her fourteen instruments. The S'aktis or Devatās are *Sarvasaṁkṣobhiṇī* and others. They are called Sampradāya-yoginīs because they are forms of the Ādis'akti (***Ādis'aktimayatvena***). **They should be meditated** upon as unmanifest (***Avyakta***).  
-**![](../books_images/U-IMG-1725646298Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725646298Screenshot2024-08-10134504.png"/>**
 
 **NOTE**
 
@@ -1548,13 +1548,13 @@ AVYAKTA, Mahat, Ahaṁkṛiti and the (*five*) Tanmātras having assumed womanly
   By **Avyakta** (unmanifest) is meant the ***Avyakta-tattva* i.e.*Prakṛti***, by **Mahat** or *Mahattattva* is meant Buddhi and by ***Ahamkriti*** is meant *Ahaṁkāra-tattva*. The **Tanmatras** are the five Tanmātras of Pṛthivī and others. These make eight. These eight have in this Cakra **assumed womanly forms** (*Svīkṛtāṅganākārāh*). They are forms of the Devī (*Devyātmikā*).
 
   They are called *Guptatara-yoginīs* because they are within¹ (*Antaranga-bhūtā*) the *Mūla-devī*. These eight S'aktis who are Anaṅga-kusumā and others abide in the Cakra of eight petals which is called *Sarvasaṁkṣhobhana*. **Abide resplendent** (***Jayanti***) i.e. they are there excelling all (*Sarvotkarṣeṇa vartante*).  
-**![](../books_images/U-IMG-1725646332Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725646332Screenshot2024-08-10134504.png"/>**
 
 **NOTE**
 
 * ¹Antaraṅga=lit. comprehended; inseparable.*
 
-**![](../books_images/U-IMG-1725646348Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725646348Screenshot2024-08-08063503.png"/>**
 
 **VERSE 45**
 
@@ -1564,14 +1564,14 @@ THE Bhūtas, the ten Senses and Mind (Manas) are the sixteen variations (*Vikār
 
   By the Bhutas is meant the elements of “Earth” and others (***Prithivyādīn**i*). The **ten senses** are the sense of perception and action (*Jñānakarmobhayalakṣaṇa*). These fifteen and **Mind (Manas) are the sixteen variations of the Devi** which are in the Cakra of sixteen petals which is called *Sarvās'āparipūraka*, as the sixteen S'aktis *Kāmākarṣinī* and others (*Kāmākarsinyādiṣodaṣaṣaktyākāreṇa*). In the Cakra called *Sarvās'āparipūraka* (Fulfiller of All-hopes)²dwell the ***Gupta-yoginīs, Kāmākarṣinī*** and others who are the vowels (***Svarāt-mikāh***)
 
-.**![](../books_images/U-IMG-1725646332Screenshot2024-08-10134504.png)**
+.**<MISSING_FIG href="../books_images/U-IMG-1725646332Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
  * ¹Cf. Bhāvanopaniṣad, (Ṛk. 13).  
   ²Or, that which fills up all the points of compass, that is, all space.*
 
-![](../books_images/U-IMG-1725646405Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1725646405Screenshot2024-08-08063503.png"/>
 
 **VERSE 46**
 
@@ -1593,7 +1593,7 @@ ALL the Mudrās including Trikhaṇdā are Saṁvit and excel all. They are in t
 
  These Mudrās are the Queens (*Adhiṣthāna*-*nāyikā*) of the nine Cakras beginning with the square (*Caturasrādi*) and ending with the Bindu (*Baindavānta*). This has been dealt with in the Vāmakes'vara (*Nityāṣoda*. VI. 57-71)³where it is shown how *Cit S'akti*, when She makes manifest and cognises the Universe as “This” on Herself as the basis assumes the forms of the several Mudrās there mentioned.
 
-**![](../books_images/U-IMG-1725646332Screenshot2024-08-10134504.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725646332Screenshot2024-08-10134504.png"/>**
 
 **NOTES**
 
@@ -1603,7 +1603,7 @@ ALL the Mudrās including Trikhaṇdā are Saṁvit and excel all. They are in t
 
 * ³The commentator quotes only the beginning and end of the passage. The Mudrās require a more full treatment and that is why a brief summary is given here.*
 
-***![](../books_images/U-IMG-1725646544Screenshot2024-07-18063849.png)***
+***<MISSING_FIG href="../books_images/U-IMG-1725646544Screenshot2024-07-18063849.png"/>***
 
 **VERSE 47**
 
@@ -1613,7 +1613,7 @@ HER nine Ādhāras¹are transformed (***Pariṇata***) into nine Cakras. The S'a
 
  The nine Adharas are *Akula², Mūlādhāra, Svādhiṣṭhāna, Maṇipūra, Anāhata, Vis'uddha, Laṁbikā, Ājñā* and *Bindu*. These are the Adhāras of the Devī in the sense that She as the Upāsaka (*Upāsaka-svarūpiṇī*) possesses these. Similarly the (nine) S'aktis of the nine Nāthas become the nine Mudrās.
 
-![](../books_images/U-IMG-1725646588Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725646588Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1621,7 +1621,7 @@ HER nine Ādhāras¹are transformed (***Pariṇata***) into nine Cakras. The S'a
 
 * ²The red lotus of thousand petals below the Mūlādhāra corresponding to the white Sahasrāra lotus. Cf. Bhāvanopāniṣad (Ṛk—13): ‘Ādhāranavakaṁ mudrās'aktayah’ and Bhāskararāya's note thereto.*
 
-**![](../books_images/U-IMG-1725646572Screenshot2024-08-04235410.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725646572Screenshot2024-08-04235410.png"/>**
 
 **VERSE 48**
 
@@ -1631,13 +1631,13 @@ HER seven Dhātus skin and the rest and Her form manifest as the forms of the ei
 
 **Seven Dhatus skin and the rest**. (*Tvagādi-saptadhātavah*). These seven Dhātus of the Devī and Her form (*Akāra*) assume the shape of **the eight Matrikas Brahmi, and others** and abide in the middle section of the Bhūpura (*Madhyama-bhūbimba-niketanagāh*).
 
-![](../books_images/U-IMG-1725646619Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725646619Screenshot2024-08-10134504.png"/>
 
 **NOTE**
 
 *¹*Bhūbimba*=the disc or circle of the *Bhūpura* which is the square and forms the base of the Śricakra. These Śaktis are in the middle circle. The *Bhāvanopaniṣad (Ṛk—12)* says :—*Kāma-krodha-lobha-moha-mada-mātsarya-puṇya-pāpamayāBrāhmyādyaṣtaśaktayah.* And the *Tantrarāja* also says :—*Urmayah puṇyapape ca Brāhmyādyā mātarah smṛtāh.**
 
-*![](../books_images/U-IMG-1725646659Screenshot2024-08-25122041.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1725646659Screenshot2024-08-25122041.png"/>*
 
 **VERSE 49**
 
@@ -1651,7 +1651,7 @@ HER (eight) Powers, ***Aṇimā*** and others, assume the forms of beautiful you
 
  **Being of secondary nature** (*Guṇabhāvena*)².These not being of a nature as important as the Highest Aim which is *Mokṣa* are to be considered negligible and ultimately discarded (*Guṇa-bhāvena=Upasarjanībhāvena*). **Are in the last section of the Bhupura**, (*Antyabhūniketanagāh*). That is they are in the lowest (of the three) sections of the square. By worshipping Paramātmā in this manner the Sādhaka becomes the Great Lord (Parameśvara) Himself.
 
-![](../books_images/U-IMG-1725646675Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725646675Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1687,7 +1687,7 @@ HER (eight) Powers, ***Aṇimā*** and others, assume the forms of beautiful you
 
  If *Paramagurunirvisheshabindvātmā* be read as two words as *Paramaguruh* and *Nirvisheshabindvātmā* then the meaning will be that the Paramaguru which is another name for Ādinātha is the transcendent (*Nirvishesha-Nishprapancha*) Bindu who is indicated by (*Lakshana*) Sat, Chit and Ānanda. So it has been said :—
 
- “The Supreme Ether—(*Ākāsa*) which is the Bindu which is transcendent (*Niṣprapancha*), is Sat, Chit and Ānanda, One without a second (*Nirābhāsa*), in whom there is no distinction of subject and object[^15](*Nirvikalpa*) and is imperishable (*Nirāmaya*.)”
+ “The Supreme Ether—(*Ākāsa*) which is the Bindu which is transcendent (*Niṣprapancha*), is Sat, Chit and Ānanda, One without a second (*Nirābhāsa*), in whom there is no distinction of subject and object[^15] (*Nirvikalpa*) and is imperishable (*Nirāmaya*.)”
 
 [^15]: "Knower and object of knowledge."
 
@@ -1699,7 +1699,7 @@ sense of this is that it is the Paramātmā who of His own will divided His own 
 
  “He divided this Ātmā into two; thereby arose Husband and Wife”.
 
-![](../books_images/U-IMG-1725359465Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725359465Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1823,7 +1823,7 @@ and is one with Bhagamālini who is the Devatā of the ***Śakti Bīja*** there.
 
   “Those, who after having fully realised Her offer oblations (to Her) in the Śrīcakra which is inseparate from their body, with wine which has been converted by purification into nectar,¹⁰ become delirious in the excess of their joy, dwell in the high region where there is neither pain nor sorrow and enter the Supreme Light of Tripurā.”
 
-![](../books_images/U-IMG-1725360132Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725360132Screenshot2024-08-10134504.png"/>
 
 **NOTES**
 
@@ -1868,7 +1868,7 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 
  *This is the end of **Kamakalavilasa** written by Sri Puṇyānanda Yogī.*
 
-**![](../books_images/U-IMG-1725351176Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725351176Screenshot2024-08-08063503.png"/>**
 
 **COMMENTARY**
 
@@ -1878,7 +1878,7 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 
  *This is the end of* **Cidvalli** *composed by* *Srī Natanānandanātha.*
 
-**![](../books_images/U-IMG-1725351176Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725351176Screenshot2024-08-08063503.png"/>**
 
 **Books By**
 
@@ -2496,7 +2496,7 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 **अस्याः कामकलाया व्याख्या पूर्वैरुदाहृतानेका।  
 अस्मिन् तथापि स भक्त्यानटनानन्दोऽपि भावयामास॥**
 
-![](../books_images/U-IMG-1725264416Screenshot2024-07-08185832.png)
+<MISSING_FIG href="../books_images/U-IMG-1725264416Screenshot2024-07-08185832.png"/>
 
 **पुण्यानन्दमहात्मा कामकलारूप बिन्दुमुक्त्वैवम्।  
 बिन्दोर्विकसनरूपं श्रीचक्रं नाम वक्तुमुद्युङ्क्ते।**
@@ -3410,7 +3410,7 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 
 इत्याद्यागमानुसंधानेन स्वस्वरूपसत्तासंप्रदायित्र्यै;**विमर्शरूपिण्यै;** हकारोऽन्त्यः कलारूपो विमर्शाख्यः प्रकीर्तितः”इति **संकेतपद्धत्युक्त**रीत्या अनुत्तरानन्दविश्रान्तिस्थानभूतशक्तिपररूपिण्यै; **कामेश्वर्यै**; “सा कामा सर्वकामा काम एव लोका एव पुराणी तस्मात् त्रिपुरा”इत्युपनिषदुक्तरीत्या, “सर्वदा सर्वप्रकारेण सर्वाभीष्टप्रदायिन्यै स्वात्मभूतायै विद्यान्तरे तन्महामनुरिति सैव शब्दा तनुः अस्य सवर्णरूपा परमा त्रिपदाभिधाभावा त्रिगुणा त्रिवर्गरूपा नित्या निर्मला निष्प्रपञ्चा आत्मविद्या विभुर्वरविद्या य एवं वेद विद्वान् भवति। अथाहुर्विद्वांस इति। रहो रहस्यमिति। शिवोऽयमिति । स एवेमानि भूतानि सृजति रक्षति
 
-![](../books_images/U-IMG-1725334861Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1725334861Screenshot2024-08-10134504.png"/>
 
 ***¹“सम्यग्ज्ञानक्रियाप्राणमन्त्रमुद्रायथास्थितिम्।  
 गृणात्युपदिशत्यर्थं तद्वीर्यं चेत्यतो गुरुः॥***
@@ -3605,7 +3605,7 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 
 **॥शुभमस्तु॥**
 
-**![](../books_images/U-IMG-1725338501Screenshot2024-08-13192002.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725338501Screenshot2024-08-13192002.png"/>**
 
 **श्रीगणेशाय नमः**
 
@@ -3774,7 +3774,7 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 भारतीदीक्षितसूनुना भासुरानन्दनाथदीक्षाभिधानेन भास्कररायेण विरचिता  
 श्रीनाथनवरत्नमालाव्याख्या मञ्जूषा समाप्ता।
 
-![](../books_images/U-IMG-1725290529Screenshot2024-08-14125713.png)
+<MISSING_FIG href="../books_images/U-IMG-1725290529Screenshot2024-08-14125713.png"/>
 
 **APPENDIX 1**
 
@@ -4336,7 +4336,7 @@ THIS is the end of the description by Puṇyānanda of the playful movements of 
 | हंस०            | हंसपारमेश्वरम्     |
 | अम्बा०          | अम्बास्तवः         |
 
-![](../books_images/U-IMG-1725435152Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1725435152Screenshot2024-07-18063849.png"/>
 
 **APPENDIX 5**
 

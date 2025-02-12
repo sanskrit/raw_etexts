@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMDE0NDc3MjU
 
 **॥मीरालहरी॥**
 
-![](../../../books_images/U-IMG-169667930607-10-2023.png)
+<MISSING_FIG href="../../../books_images/U-IMG-169667930607-10-2023.png"/>
 
 **सन १९४४.**
 
@@ -28,7 +28,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMDE0NDc3MjU
 
 " ग्रन्थार्पणम् "
 
-![](../../../books_images/U-IMG-1696915752IMG_20231010_105824.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696915752IMG_20231010_105824.jpg"/>
 
 वशंवदा यद्रसनाग्ररङ्गे  
 मनोहरा नृत्यति देववाणी।  
@@ -94,7 +94,7 @@ the comforts of a palace and the hardships of thefores t; dainty morsels in plat
 
 **मीरालहरी ।**
 
-![](../../../books_images/U-IMG-1697095086Untitled2.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1697095086Untitled2.png"/>
 
 **पूर्वखण्डः।**
 
@@ -839,13 +839,13 @@ the comforts of a palace and the hardships of thefores t; dainty morsels in plat
 
 ॥इति सौ० क्षमायाः कृतिषु सव्याख्यायां मीरालहर्यां पूर्वखण्डः॥
 
-![](../../../books_images/U-IMG-1697089503Untitled1.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1697089503Untitled1.png"/>
 
 मीरालहरी।  
 
 उत्तरखण्डः
 
-![](../../../books_images/U-IMG-1697092797Annotation2023-10-12120741.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1697092797Annotation2023-10-12120741.jpg"/>
 
 वागश्रावि तयाहि संस्तुतचरी दिव्या विविक्ताक्षरा  
 बाले मानुषवल्लभेन सह ते यात्रेह निर्वर्तिता।  

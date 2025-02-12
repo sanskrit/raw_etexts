@@ -64,7 +64,7 @@ of the second verse of the Cidgagana-candrikā is identical with the last line o
 
  Another traditional account records that Kālidāsa was left an orphan by the death of his parents in the prime of their lives. Brought up by a cowherd in his helpless condition, the boy though very handsome, remained illiterate. Bhīmaśukla, the king of Benares, had a daughter named Vāsantī, who was the most accomplished lady of the day. She had taken a solemn vow not to take anyone as her husband who would not be well versed in all arts and sciences. The king’s ministers, who were vanquished by her in learned discussions, cleverly got her married to this Kālidāsa by a stratagem. Soon after, the princess discovered the trick that had been played on her. she, however, being a devotee of Kālī , the Goddess out of pity for her marked upon Kālīdāsa’s tongue the Māntrika letters
 
-![](../books_images/U-IMG-1726478317Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726478317Screenshot2024-08-10134504.png"/>
 
 * \*It would not be perhaps quite irrelevant to point out in this connexion that the concluding line of the Cidgagana-candrika which runs as*
 
@@ -79,7 +79,7 @@ of the second verse of the Cidgagana-candrikā is identical with the last line o
  The Sloka 305 of the work, as quoted above, states that it is more or less a continuation of Kramastuti by Siddhanātha who is also known as Śambhunātha. This has also been said by Pṛthvīdharācārya in his Bhuvaneśvarī Stotra.† So there can be no doubt that the *Cidgagana-candrikā* of Kālidāsa was composed after the Kramastuti. But Abhinavaguptapāda also composed another work named Kramastotra. This work is not the same as that of Śambhunātha’s. Kramastotra by Abhinavaguptapāda was composed in the 66th year of Kāshmīr. The concluding lines of Kramastotra clearly state this.
 
   Again, it is known that Śambhunātha and Abhinavaguptapāda lived and wrote in the same age. To be a little more precise, it should be made clear that from Śambhunātha Abhinavaguptapāda gathered a complete knowledge of the purport and mystery of the Tantras, and then began writing Tantra-Nibandhas. Abhinavagupta did not feel ashamed to admit this in many places of his numerous works.++Now  
-![](../books_images/U-IMG-1726481016Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726481016Screenshot2024-08-10134504.png"/>
 
  Religion and Philosophy of Kālidāsa by Narasiṁha lengar, B. A, M. R. A. S.,—Vide Indian Antiquary, Vol. XXXIX, 1910.
 
@@ -101,7 +101,7 @@ Abhinavagupta composed Bṛhat-pratyabhijña-vimarśinī in 1014 A. D. The last 
  It will not be out of place here to make a passing reference to Mātṛgupta who is regarded as the Kālidāsa of Kāshmīr. Mātṛgupta lived during the time of Emperor Harṣa-Vikramāditya of Ujjayini, and later on was made the king of Kāshmīr by the great Emperor. He belonged to the ‘Trika’ School of Kāshmīr and finally renounced the world after the death of his patron Vikramāditya. A detailed account of his life may be obtained from Kalbaṇa’s Rājataraṅgiṇī.\* Again, in the Prabandha-Koṣa by Rājaśekhara it is stated that there were three poets of the name of Kālidāsa, Abhinava-Kālidāsa, and Nava-Kālidāsa. (9th-10th century A.D.)†
 
  Poet Kālidāsa’s name has been almost a household word of India, so much so that different types of works belonging to  
-![](../books_images/U-IMG-1726485104Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726485104Screenshot2024-08-10134504.png"/>
 
 ***इत्यागमं सकलशास्त्रमहानिधानाच्छ्रीशम्भुनाथवदनादधिगम्य सम्यक्।  
 शास्त्रे रहस्यरससन्ततिसुन्दरेऽस्मिन् गम्भीरवाचि रचिता विवृतिर्मयेयम्।***
@@ -121,7 +121,7 @@ Abhinavagupta composed Bṛhat-pratyabhijña-vimarśinī in 1014 A. D. The last 
 
 different ages composed by different unknown authors have been wrongly ascribed to him. There is a work on astronomy named Jyotirvidābharaṇa that also passes in hisname. But eminent authorities like Dr. Bhau Dāji and others are of opinion that this work was written by some later author. The attempt to ascribe this Cidgagana-candrikā also to Poet Kālidāsa, seems to have been inspired by some later scribe or scholar who did not think of the chronological discrepancies involved in the matter.
 
-![](../books_images/U-IMG-1726509926Screenshot2024-09-13233757.png)
+<MISSING_FIG href="../books_images/U-IMG-1726509926Screenshot2024-09-13233757.png"/>
 
 **CHAPTER II**
 
@@ -152,7 +152,7 @@ different ages composed by different unknown authors have been wrongly ascribed 
  In course of time the links in the chain of Gurus and Śiṣyas of the Tāntrika schools snapped and in consequence thereof the secret principles of the Tantras gradually became unintelligible to the average person. This fact created greater opportunities for misrepresentation and degradation of the Tāntrika creed and as a result the public lost all faith in it.
 
  The position of the Vedas, which also deals with the cult of worship, has been fully discussed in the Āgamaśāstras.\* and explained by Rāghavabhaṭṭa in the very beginning of his illuminating commentary on Śāradātilaka. Without fully knowing the significance of the mantras, one cannot proceed with the rituals. To know the meaning of the mantras one must, as a  
-![](../books_images/U-IMG-1726535429Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726535429Screenshot2024-08-10134504.png"/>
 
 ***\*तत्र सर्वासु श्रुतिषु काण्डत्रयं कर्म्मोपासनाब्रह्मभेदेन—  
 अत एतदुपासनाकाण्डमेवागमशास्त्रात्मकं गरीय इति सिद्धम्***
@@ -163,7 +163,7 @@ a principle, understand fully the significance of Śabda (sound). To grasp fully
 
  The average reader would, therefore, experience great difficulty in understanding the meaning of many abstruse passages in the text, and the uninitiated would feel helpless in determining the real object of the text. Adopting, however, the method followed by Svāmipāda, a summary of the abstruse principles of Tantra as explained in some of the standard works on the subject is given in the next chapter.
 
-![](../books_images/U-IMG-1726535975Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1726535975Screenshot2024-08-08063503.png"/>
 
 **CHAPTER III**
 
@@ -173,7 +173,7 @@ a principle, understand fully the significance of Śabda (sound). To grasp fully
 
  On studying Cidgagana-candrikā it will be found that the author has composed this work to eulogise the worship of some great Female Divinity and has named the Divinity by the appellation of Ādyā-Śakti Kālī. The Divinity adored by the Sādhaka is Kāli. She is none other than Parabrahman (of the Upaniṣads) to the Sādhaka. This very Kālī is the Ādyā Śakti of Parabrahman which has been described as Māyā in Vedānta, Prakṛti in Sāṅkhya and Adṛṣṭa in Nyāya. This Ādyā Śakti is known in the Tantra as Śakti. In the Āgamaśāstras no great differentiation is made between Śakti and Śaktimat.+ Śakti, as worshipped in the Āgamas, is described to be above all religion, beyond all proof and is described in the
 
-![](../books_images/U-IMG-1726536083Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726536083Screenshot2024-08-10134504.png"/>
 
 *\***स्वात्मैव देवता प्रोक्ता मनोज्ञा विश्वविग्रहा।  
 न्यासस्तु देवतात्मत्वात् स्वात्मनो देहकल्पना॥***
@@ -215,7 +215,7 @@ Upaniṣads as Parabrahman. The object of our author’s adoration is thus Parab
  So what is described in the Vedas in the shape of a Male under the epithets of Parabrahman, Paramātman, Puruṣa, Sat, Cit, Ānanda etc., is mentioned in Āgamaśāstras in the form of a Divine Female, as Kāli Caṇḍi, etc.
 
  It is believed that the whole universe does not fall to pieces due to the preserving power of the Great Preserver Parabrahman. The same Parabrahman is worshipped in the Āgamas as Prakāśa, Vimarśa, Kāli, Caṇḍi, etc. With all the differences regarding the  
-![](../books_images/U-IMG-1726537373Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726537373Screenshot2024-08-10134504.png"/>
 
 ***\* कालो अश्वो वहति सप्तरश्मिः सहस्राक्षोअजरो भूरिरेताः।  
 समारोहन्ति कवयो विपश्चितस्तस्य वा भुवनानि विश्वाः॥***
@@ -250,7 +250,7 @@ principle of worship, the Āgamas and the Vedas agree on this one point at least
 
  All those different forms of the Ādyā Śakti Kālī mentioned in the Āgamaśāstras, particularly those forms prevalent in Kashmir, are discussed in the Śāstras for the moral benefit of the Upāsaka. Of these different forms the most important images and names are dealt with in the Cidgagana-candrikā. In the Tantrāloka twelve, thirteen, sixteen and seventeen different forms of the Adya Śakti are enumerated.\* The following are their respective names (1)
 
-![](../books_images/U-IMG-1726537373Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726537373Screenshot2024-08-10134504.png"/>
 
 **\*“द्वादशारं महाचक्रं रश्मिरूपं प्रकीर्त्तितम्।  
 नाम चैव प्रवक्ष्यामि रश्मीनान्तु यदास्थितम्॥**
@@ -264,8 +264,8 @@ Sṛṣti-Kālī, (2) Sthiti-Kālī, (3) Saṃhāra-Kālī, (4) Rakta-Kālī (5)
 
  What has been said above regarding the twelveth and thirteenth forms of Kālī, are discussed in the Kramastuti with their forms and dhyānas. These dhyānas are also given in the Tantrāloka. The dhyānas of the fourteen kinds of Kālī are given in the beginning of the Cidgagana-candrikā from the Tantrāloka. So these are not again given here in details. The secrets of these forms have been very clearly discussed by Abhinavaguptapāda in his Tantrāloka and in the commentary on Tantraloka by Mahā-Māhesvara Jayaratha.
 
-![](../books_images/U-IMG-1726554047Screenshot2024-08-08063503.png)  
-![](../books_images/U-IMG-1726554129Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726554047Screenshot2024-08-08063503.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1726554129Screenshot2024-08-10134504.png"/>
 
 *\***“सृष्टिकाली च संहारे सृष्टौ सा परमेश्वरी।  
 स्थितिकाली तथा घोरा ततः संहारकालिका॥***
@@ -286,7 +286,7 @@ Sṛṣti-Kālī, (2) Sthiti-Kālī, (3) Saṃhāra-Kālī, (4) Rakta-Kālī (5)
  In the beginning all the Śāstras existed in the yet unlettered thought and experience of the Supreme Deity in the form of the Parā Vāk (that is beyond all thought and speech).
 
  Next, as the Universe derives a more tangible manifestation the Parā Vāk\* appears in that thought and experience which is  
-![](../books_images/U-IMG-1726564814Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726564814Screenshot2024-08-10134504.png"/>
 
 *\* Para Vāk, ‘the ‘All-transcending Word’ that is beyond all objective thought and speech in all their forms, not excluding even the Avyakta, the most germinal of them.”*
 
@@ -299,7 +299,7 @@ to be and which still cannot be conceived of. The Parā Vāk now appears in anot
  3. Doctrine of the unity from one standpoint, and multiplicity from another, of these principles in accordance with their logic. (Bhedābheda).†
 
  Of these sixtyfour Śaiva Śāstras most disappeared with the growing influence of Kali age and with the disappearance of Ṛṣis, people began to sink into spiritual darkness. The Tantrāloka notes that Śiva took pity on men and appeared on the Kailāsa Mountatain in the guise of Śrīkaṇṭhaand asked Durvāsas to broadcast the essence of the Śāstras among the people of the universe. The sage’s three ‘mind-born’ sons began to teach anew the Śivāgama. Of these sons Tryambaka was to preach Abheda or Advaya (*Monistic Philosophy*). It is this philosophy which is spoken of as the Trika System of thought.  
-![](../books_images/U-IMG-1726505319Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726505319Screenshot2024-08-10134504.png"/>
 
  * \*Kashmir Shaivaism–the Kashmir series of Texts and Studies.  
  † See Hindu Realism pp. 5.10, by J. O. Chatterjee. B. A. (Oantab)*
@@ -354,7 +354,7 @@ technically called the Tattvas, (lit., thatness or whatness, namely, of everythi
  6. Principles of the personal subject-object, viz., Prakṛti—the rest of all feelings (that is, affection in the widest sense of the term, or the principle of affection in general) and Puruṣa, the individual self.
 
  7. Six principles of subjective limitation, viz. Kāla (time or the determinant of ‘when’), Rāga (attachment), Niyati (restriction  
-![](../books_images/U-IMG-1726489062Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726489062Screenshot2024-08-10134504.png"/>
 
  *\* “तस्य भावस्तत्त्वमिति भिन्नानां वर्गाणां वर्गीकरणनिमित्तं यदेकमविभक्तं भाति तत् तत्त्वम्, यथा गिरिवृक्षपुरप्रभृतीनां नदीसरःसागरादीनाञ्च पृथिवी-रूपत्वमरूपत्वं चेति”।Pra, Vi, \[III, i, 2.*
 
@@ -364,7 +364,7 @@ or regulation), Vidyā (limited knowledge), Kalā (art i. c. the power or author
 
  When these Tattvas are made clear, it is easy to know that the manifested Universe consists, from the Trika point of view, of the above general priciples or Tattvas. Consisting of these factors, the Universe is only a manifestation of the Power or Śakti of Parama Śīva,—or more precisely, of Parama Śiva Himself in His aspect as Śakti.
 
-![](../books_images/U-IMG-1726488231Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1726488231Screenshot2024-08-08063503.png"/>
 
 **CHAPTER XVI**
 
@@ -393,7 +393,7 @@ After the manifestation He allows the universe to vanish, as if by magic, from H
 
  It is true that the Śiva-Śakti Tattvas owe their origin to Parama Śiva in as much as they develop a knowledge which is other than Parā Saṃvit; still they hold their existence for an eternal space of time. They have no destruction in Pralaya but abide in the bosom of Parama Śiva as the seed of the universe that would come to be. If this view regarding the seed of the universe as discussed further, it will be seen that the Śiva-Tattva may be
 
-![](../books_images/U-IMG-1726487955Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1726487955Screenshot2024-08-10134504.png"/>
 
  *\* Vide Pra. Hṛdaya, p. 8.*
 
@@ -409,7 +409,7 @@ September, 1987.
 
 **ARNOLDAVALON.**
 
-![](../books_images/U-IMG-1726487186Screenshot2024-08-04234543.png)
+<MISSING_FIG href="../books_images/U-IMG-1726487186Screenshot2024-08-04234543.png"/>
 
  Arthur Avalon, the late editor of the Āgamānusandhāna Samiti, more than six years ago thought of publishing Cidgagana-candrikā which is traditionally ascribed to Kālīdāsa. His Highness the Late Mahārājādhirāja Rameshvara Singh Bāhādur of Darbhanga, the then President of the Āgamānusandhāna Sāmiti, whose knowledge of and reverence for the ancient Hindu Śastras was very great also desired the publication of this work which had hitherto been unpublished.
 
@@ -1005,7 +1005,7 @@ September, 1987.
 
 **॥श्रीरस्तु॥**  
 **चिद्गगनचन्द्रिका**  
-**![](../books_images/U-IMG-1726372462Screenshot2024-09-14100002.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726372462Screenshot2024-09-14100002.png"/>**
 
 **आदि-विमर्शः।**
 
@@ -1172,7 +1172,7 @@ September, 1987.
 **॥इति आदि (सूत्र) विमर्शः॥**
 
 **द्वितीय-विमर्शः**  
-**![](../books_images/U-IMG-1726317451Screenshot2024-08-27092409.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726317451Screenshot2024-08-27092409.png"/>**
 
 मातृमेयमितिसाधनात्मिका  
 त्वत्कृतोन्मिषति या विकल्पधीः।  
@@ -2122,8 +2122,6 @@ September, 1987.
 नाद एष[^163]तव विश्वदैशिकः[^188]-  
 कोऽपि संविदि विमर्श ईश्वरः॥१४८॥
 
-[^163]: "एव"
-
 [^188]: "देशिकः"
 
 ग्रन्थिपञ्चकविभेदिनी चितिः  
@@ -2355,7 +2353,7 @@ September, 1987.
 तृतीयो विमर्शः॥श्रीः॥**
 
 **चतुर्थो विमर्शः**  
-**![](../books_images/U-IMG-1726229399Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726229399Screenshot2024-07-18063849.png"/>**
 
 सत्वज[^224]श्रुतकलावधि त्वया[^225]  
 कालवह्निभुवना मरीचयः।  
@@ -2884,8 +2882,6 @@ September, 1987.
 ग्राहकाश्च वरदे मरीचयः  
 तास्त्वदर्पितजगद्विजृम्भणाः॥२४६॥
 
-[^74]: "ततः"
-
 [^320]: "रन्ति "
 
 [^321]: "यत् पृथग्"
@@ -3005,8 +3001,6 @@ September, 1987.
 ये भवन्त्यकुल बिन्दुशालिनः।  
 ते बिदन्ति न[^49] तवाम्ब वैभवं  
 पूर्णभानमयविश्वघस्मरम्॥२६२॥
-
-[^49]: "नु"
 
 [^341]: "ये त्वमण्ड"
 
@@ -3314,7 +3308,7 @@ September, 1987.
 श्रीः**
 
 **महार्थमञ्जरीधृत-चिद्गगनचन्द्रिका वचनानि**  
-![](../books_images/U-IMG-1726290753Screenshot2024-09-14104218.png)
+<MISSING_FIG href="../books_images/U-IMG-1726290753Screenshot2024-09-14104218.png"/>
 
 हृद्गुहामभिलषन्नहन्तया  
 दृक्क्रियावपुरदृक्क्रियात् पदात्।  
@@ -3421,11 +3415,11 @@ September, 1987.
 तानुमूलबलयी कृताग्रया  
 जिह्वया कवलयन्तिते कलाम॥म० म० १४५ पृ०
 
-![](../books_images/U-IMG-1726290018Screenshot2024-09-07232047.png)
+<MISSING_FIG href="../books_images/U-IMG-1726290018Screenshot2024-09-07232047.png"/>
 
 **योगिनीहृदय टीकायां उद्धृतानि  
 चिद्गगनचन्द्रिका वचनानि।**  
-![](../books_images/U-IMG-1726287809Screenshot2024-09-14095235.png)
+<MISSING_FIG href="../books_images/U-IMG-1726287809Screenshot2024-09-14095235.png"/>
 
 यत्क्रियात्मशशिभानुमध्यगे  
 खे चरत्यनलदृष्टिधाम्नि यः।  
@@ -3456,8 +3450,6 @@ September, 1987.
 
 बिन्दुसर्गरहि[^373]ताश्च ये शुचेः।
 
-[^373]: " स्वराः सर्गविन्दुरहि।"
-
 सर्व एव शशिनः कलाः[^375] शिवे  
 योनयो बिधृतवीजतः स्वराः[^376]॥योगिनी ह्र१०३ पृ०
 
@@ -3485,10 +3477,10 @@ September, 1987.
 
 [^380]: "तत्सतां निनसभावलम्बनं।"
 
-![](../books_images/U-IMG-1726288122Screenshot2024-08-04235410.png)  
+<MISSING_FIG href="../books_images/U-IMG-1726288122Screenshot2024-08-04235410.png"/>  
 
 **सौभाग्यभास्करधृतचिद्गगनचन्द्रिकावचनानि।**  
-![](../books_images/U-IMG-1726288239Screenshot2024-09-14100002.png)
+<MISSING_FIG href="../books_images/U-IMG-1726288239Screenshot2024-09-14100002.png"/>
 
 भोक्तृभोग्यकरणोर्मिसंक्षये  
 सामरस्यरसदोहिनी शिवे॥   ललिता १६१ पृ०
@@ -3516,12 +3508,11 @@ September, 1987.
 यत्तदूर्ध्वशिखरं परं नभ-  
 स्तत्र दर्शय शिवं त्वमम्बिके॥ ललिता १५७ पृ०
 
-![](../books_images/U-IMG-1726288940Screenshot2024-09-10233600.png)
+<MISSING_FIG href="../books_images/U-IMG-1726288940Screenshot2024-09-10233600.png"/>
 
 **शुद्धिपत्रम्**  
-**![](../books_images/U-IMG-1726563455Screenshot2024-08-04235410.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1726563455Screenshot2024-08-04235410.png"/>**  
 
 [TABLE]
 
 \]
-

@@ -516,7 +516,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwNTc1Nzk3ODE
 
 डॉ. महाप्रभुलालगोस्वामिकृतभाषानुवादेन सहितः
 
-![](../books_images/U-IMG-1721230854Screenshot2.png)
+<MISSING_FIG href="../books_images/U-IMG-1721230854Screenshot2.png"/>
 
 अधिदैवाधिभूताय आत्मने सर्वमूर्त्तये।  
 सर्वातीतप्रकाशाय चिन्मात्रार्काय ते नमः॥१॥
@@ -1452,7 +1452,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwNTc1Nzk3ODE
 **इति श्रीदत्तात्रेयकारित श्री मत्परमहंसपरिव्राजकहरिपादानन्दशिष्यसन्तोषानन्दकृतकाथबोधस्य
 साजनीकृतव्याख्यारूपकाथबोधविवेकःसमाप्तः॥**
 
-![](../books_images/U-IMG-1721483372Screenshot2024-07-20191848.png)
+<MISSING_FIG href="../books_images/U-IMG-1721483372Screenshot2024-07-20191848.png"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1460,7 +1460,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwNTc1Nzk3ODE
 
 काथबोध का हिन्दी समाप्त हुआ
 
-![](../books_images/U-IMG-1721483432Screenshot2024-07-20191958.png)
+<MISSING_FIG href="../books_images/U-IMG-1721483432Screenshot2024-07-20191958.png"/>
 
 **फलश्रुतिः प्रयोगश्च**
 
@@ -1544,6 +1544,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQwNTc1Nzk3ODE
 
  सृष्टि कर पालन कर्ता दत्तात्रेय यति ब्रह्मा है, अन्यथा नहीं, स्त्रियों का धर्म उनका ध्यान है, इससे भास्कर प्रसन्न हो॥१६॥
 
-![](../books_images/U-IMG-1721484398Screenshot2024-07-20193548.png)
+<MISSING_FIG href="../books_images/U-IMG-1721484398Screenshot2024-07-20193548.png"/>
 
 \]

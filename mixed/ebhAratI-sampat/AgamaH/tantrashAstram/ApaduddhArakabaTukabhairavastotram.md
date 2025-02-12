@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 **॥ श्रीगणेशाय नमः ॥  
 आपदुद्धारक बटुक भैरव स्तोत्रम्**  
-![](../books_images/U-IMG-172080079812.07.2024_21.42.53_REC.png)
+<MISSING_FIG href="../books_images/U-IMG-172080079812.07.2024_21.42.53_REC.png"/>
 
 मेरुपृष्ठे सुखासीनं देवदेवं जगद्गुरुम्॥  
 शंकरं परिपप्रच्छ पार्वती परमेश्वरम् ॥१॥
@@ -365,7 +365,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 इति श्रीमच्छंकराचार्यविरचितं कालभैरवाष्टकं सम्पूर्णम् ॥
 
-![](../books_images/U-IMG-172095321414.07.2024_16.03.04_REC.png)
+<MISSING_FIG href="../books_images/U-IMG-172095321414.07.2024_16.03.04_REC.png"/>
 
 ॥ ऋणमोचनमंगलस्तोत्रम् ॥
 
@@ -414,7 +414,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 ॥  
 
-![](../books_images/U-IMG-172097726514.07.2024_22.44.04_REC.png)
+<MISSING_FIG href="../books_images/U-IMG-172097726514.07.2024_22.44.04_REC.png"/>
 
 हर प्रकार की पुस्तके मंगाने का पता—  
 **श्री दुर्गा पुस्तक भण्डार (प्रा०) लि०**  

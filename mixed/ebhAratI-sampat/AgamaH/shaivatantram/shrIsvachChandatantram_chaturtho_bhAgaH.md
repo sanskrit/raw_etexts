@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA4MTY4MzQ1OTc
 Kashmir Series of Texts and Studies.  
 No. XLVIII.
 
-*![](../books_images/U-IMG-1721114220Screenshot2024-07-16124449.png)*  
+*<MISSING_FIG href="../books_images/U-IMG-1721114220Screenshot2024-07-16124449.png"/>*  
 
 **THE  
 SVACCHANDA TANTRAM**  
@@ -40,7 +40,7 @@ Superintendent Research Department,**
 **JAMMU AND KASHMIR STATE,  
 SRINAGAR.**
 
-![](../books_images/U-IMG-1721114253Screenshot2024-07-16124449.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721114253Screenshot2024-07-16124449.png"/>  
 Published under the Authority of the Government of  
 His Highness Mahārājā  
 **Sir HARISINGH BAHADUR,**  
@@ -72,7 +72,7 @@ Volume IV.
 
 श्रीमाहेश्वराचार्यश्रीक्षेमराजकृतोद्योताख्यविवरणोपेतम्।
 
-**![](../books_images/U-IMG-1721114626Screenshot2024-07-16125315.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1721114626Screenshot2024-07-16125315.png"/>  
 श्रीभारतधर्ममार्तण्ड–कश्मीरमहाराज–श्रीप्रतापसिंहवर–प्रतिष्ठापिते  
 प्रत्नविद्याप्रकाश–(रिसर्च) कार्यालये  
 तदध्यक्ष–पण्डित–मधुसूदन–शास्त्रिणा**  
@@ -104,15 +104,15 @@ Jammu and Kashmir State, SRINAGAR.
 
 श्रीस्वच्छन्दतन्त्रम्।
 
-![](../books_images/U-IMG-1721060425Screenshot2024-07-15214908.png)
+<MISSING_FIG href="../books_images/U-IMG-1721060425Screenshot2024-07-15214908.png"/>
 
 श्रीमन्महामाहेश्वराचार्यश्रीक्षेमराजकृतोद्योताख्यविवरणोपेतम्।
 
-![](../books_images/U-IMG-1721060636Screenshot2024-07-15215221.png)
+<MISSING_FIG href="../books_images/U-IMG-1721060636Screenshot2024-07-15215221.png"/>
 
 (अष्टमः पटलः)
 
-![](../books_images/U-IMG-1721060852Screenshot2024-07-15215627.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721060852Screenshot2024-07-15215627.png"/>  
 
 यस्य बोधमहाम्भोधेर्ब्रह्माद्या भुवनेश्वराः।  
 अंशा मिता बुद्बुदवत्तं स्तुमः परभैरवम्॥
@@ -523,32 +523,32 @@ Jammu and Kashmir State, SRINAGAR.
 
  यद्यपि पूर्वोक्ते सर्वतन्त्रेतवाधिकारो दत्तस्तथापि यदेवं निर्णीतनिर्णेष्यमाणपटलगतरहस्यार्थपूर्णत्वात् वरमुत्कृष्टमिदं दक्षिणस्रोतः समुद्भूतभैरवतन्त्रजातमध्ये प्रधानभूतं दिव्यं सर्वभोगापवर्गप्रदं तन्त्रं, तत्त्वया गूहनीयं ज्येष्ठाशक्तिपातवतामेव प्रकाश्यं, नेतरेषामिति शिवम्॥३९॥
 
-![](../books_images/U-IMG-1721220529Screenshot2024-07-17181734.png)
+<MISSING_FIG href="../books_images/U-IMG-1721220529Screenshot2024-07-17181734.png"/>
 
 आ देवेभ्यः क्रमान्तं निखिलमिदमियच्छासनत्राणरूपं  
 विश्वं यत्संप्रसूतं परमशिवपदाल्लोकपर्यन्तमेतत्।  
 शास्त्रं वाक्यैकवाक्यस्थितमिव विगलद्भेदविश्रान्तिलब्ध  
 स्वच्छखच्छन्दधामप्रथनपरमिदं स्तात्समग्रस्य जन्तोः॥
 
-![](../books_images/U-IMG-1721220432Screenshot2024-07-16124449.png)
+<MISSING_FIG href="../books_images/U-IMG-1721220432Screenshot2024-07-16124449.png"/>
 
 **इति श्रीखच्छन्दोद्य्योते**  
 अंशकाधिकारोऽष्टमः पटलः समाप्तः॥८॥
 
-![](../books_images/U-IMG-1721220500Screenshot2024-07-17181752.png)
+<MISSING_FIG href="../books_images/U-IMG-1721220500Screenshot2024-07-17181752.png"/>
 
 अथ  
 
 श्रीखच्छन्दतन्त्रम्।
 
-![](../books_images/U-IMG-1721220697Screenshot2024-07-16125315.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721220697Screenshot2024-07-16125315.png"/>  
 
 श्रीमन्महामाहेश्वराचार्यश्रीक्षेमराजकृतोद्योताख्यविवरणोपेतम्।  
-![](../books_images/U-IMG-1721220749Screenshot2024-07-17182208.png)
+<MISSING_FIG href="../books_images/U-IMG-1721220749Screenshot2024-07-17182208.png"/>
 
 (नवमः पटलः)
 
-![](../books_images/U-IMG-1721220766Screenshot2024-07-17181734.png)
+<MISSING_FIG href="../books_images/U-IMG-1721220766Screenshot2024-07-17181734.png"/>
 
 श्रीमन्निष्कलसद्भित्तावुट्टङ्क्य सकलस्थितिम्।  
 विश्राम्यत्यकले तत्त्वेयस्तं भैरवमाश्रये॥
@@ -1519,12 +1519,12 @@ Jammu and Kashmir State, SRINAGAR.
 
  इत्यादिना पटलान्तं कटाक्षयता ग्रन्थेन कृतेति शिवम्॥
 
-![](../books_images/U-IMG-1721222173Screenshot2024-07-17181734.png)
+<MISSING_FIG href="../books_images/U-IMG-1721222173Screenshot2024-07-17181734.png"/>
 
 व्याधीनामगदं दिव्यमाधीनां मूलकर्तनम्।  
 उपद्रवाणां दलनं महादेवमुपास्महे॥
 
-![](../books_images/U-IMG-1721222153Screenshot2024-07-17181734.png)
+<MISSING_FIG href="../books_images/U-IMG-1721222153Screenshot2024-07-17181734.png"/>
 
 **इति श्रीस्वच्छन्दोद्योते**  
 नवमः पटलः समाप्तः॥९॥

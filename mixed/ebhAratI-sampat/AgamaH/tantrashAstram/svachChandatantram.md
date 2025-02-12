@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg1NDA4NzEyNTI
 
 \[
 
-![](../books_images/U-IMG-1721494577swacchatantra4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721494577swacchatantra4.jpg"/>
 
 THE KASHMIR SERIES
 
@@ -26,13 +26,13 @@ OF
 
 TEXTS AND STUDIES.
 
-![](../books_images/U-IMG-1721495132swacchatantra5.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721495132swacchatantra5.jpg"/>
 
 *Kashmir Series of Texts and Studies.*  
 
 No. XXXI.
 
-![](#)![](../books_images/U-IMG-1721494004swacchatantra1.jpg)  
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1721494004swacchatantra1.jpg"/>  
 
 THE  
 
@@ -53,7 +53,7 @@ Superintendent Research Department,
 JAMMU AND KASHMIR STATE,  
 SRINAGAR.
 
-![](../books_images/U-IMG-1721494240swacchatantra2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721494240swacchatantra2.jpg"/>
 
 Published under the Authority of the Government of  
 His Highness Lieut.-General Mahārāja  
@@ -63,7 +63,7 @@ His Highness Lieut.-General Mahārāja
 G. C. S. I., G. C. I. E.,  
 MAHĀRĀJA OF JAMMU AND KASHMIR STATE.
 
-![](#)![](../books_images/U-IMG-1721494354swacchatantra3.jpg)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1721494354swacchatantra3.jpg"/>
 
 **BOMBAY:**  
 PRINTED AT THE 'NIRNAYA-SAGAR' PRESS.  
@@ -88,7 +88,7 @@ PRINTED AT THE 'NIRNAYA-SAGAR' PRESS.
 ॐ
 
 काश्मीर-संस्कृतग्रन्थावलिः।  
-![](../books_images/U-IMG-1721495368swacchatantra6.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721495368swacchatantra6.jpg"/>
 
 ग्रन्थाङ्कः३१  
 
@@ -98,7 +98,7 @@ PRINTED AT THE 'NIRNAYA-SAGAR' PRESS.
 
 श्रीमहामहेश्वराचार्यश्रीक्षेमराजकृतोद्द्योताख्यविवरणोपेतम्
 
-![](../books_images/U-IMG-1721495554swacchatantra7.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721495554swacchatantra7.jpg"/>
 
 श्रीभारतधर्ममार्तण्ड-कश्मीरमहाराज-  
 श्रीप्रतापसिंहवर-प्रतिष्ठापिते  
@@ -111,7 +111,7 @@ PRINTED AT THE 'NIRNAYA-SAGAR' PRESS.
 मुम्बय्यां  
 'निर्णयसागर' मुद्रणालये मुद्रापयित्वा प्राकाश्यमुपनीतम्
 
-![](../books_images/U-IMG-1721495662swacchatantra3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721495662swacchatantra3.jpg"/>
 
 संवत् १९७७                             
               खैस्ताब्दः १९२१
@@ -130,7 +130,7 @@ Jammu and Kashmir State, SRINAGAR.**
 
 SRI-SWACCHANDA=TANTRAM,
 
-![](../books_images/U-IMG-1721495990swacchatantra8.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721495990swacchatantra8.jpg"/>
 
 PREFACE.  
 ————————
@@ -162,7 +162,7 @@ Srinagar, Kmr.
 
 SRI-SWACCHANDA=TANTRAM.
 
-![](../books_images/U-IMG-1721496211swacchatantra9.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721496211swacchatantra9.jpg"/>
 
 **INTRODUCTION.**
 
@@ -286,11 +286,11 @@ MADHUSUDAN KAUL.
 
 **श्रीस्वच्छन्दतन्त्रम्।**
 
-**![](../books_images/U-IMG-1721496260swacchatantra9.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1721496260swacchatantra9.jpg"/>**
 
 **श्रीमन्महामाहेश्वराचार्यक्षेमराजकृतोद्द्योताख्यविवरणोपेतम्।**
 
-**![](../books_images/U-IMG-1721496356swacchatantra10.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1721496356swacchatantra10.jpg"/>**
 
 ( प्रथमः पटलः )
 
@@ -1417,7 +1417,7 @@ MADHUSUDAN KAUL.
 'गतानुगतिकप्रोक्तव्याख्याभेदतमोऽपनुत्।  
 पराभेदरसोल्लासी स्वच्छन्दोद्द्योत उत्थितः॥'
 
-![](../books_images/U-IMG-1722213804्.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1722213804्.jpg"/>
 
 **इति श्रीस्वच्छन्दतन्त्रे**
 
@@ -1436,16 +1436,16 @@ MADHUSUDAN KAUL.
 
 **श्रीस्वच्छन्दतन्त्रस्य**
 
-![](../books_images/U-IMG-1722213962््.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1722213962््.jpg"/>
 
 श्रीमन्महामाहेश्वराचार्यश्रीक्षेमराजकृतोद्द्योताख्य-  
 विवरणोपेतस्य।
 
-![](../books_images/U-IMG-1722214074ि.png)
+<MISSING_FIG href="../books_images/U-IMG-1722214074ि.png"/>
 
 ( द्वितीयः पटलः )
 
-   ![](../books_images/U-IMG-1722214138े.png)
+   <MISSING_FIG href="../books_images/U-IMG-1722214138े.png"/>
 
 **विगलति भवदौर्गत्यं  
 मोक्षश्रीः श्रयति हृत्कजं कचति।  
@@ -1802,10 +1802,10 @@ MADHUSUDAN KAUL.
 
  एवं शुद्धतामपादितोऽपि[^12]
 
+[^12]: "ख० पु० शुद्धात्मतामिति पाठः"
+
 शिवीकार्यस्तथात्मैव  
 यथा भवति तच्छृणु॥३५॥
-
-[^12]: "ख० पु० शुद्धात्मतामिति पाठः"
 
 'शिवो भूत्वा शिवं यजेत्।'
 
@@ -2147,10 +2147,10 @@ MADHUSUDAN KAUL.
 
  अत एव सत्त्वरजस्तमांसि मूलत एवोच्छेत्तुं सिंहासनोपरि गुणमयमेव मायामसूरकं न्यसितुमाह[^30]
 
+[^30]: "ख० पु० दर्शयितुमाहेति पाठः।"
+
 अधश्छादनमूर्ध्वं च  
 रक्तं शुक्लं विचिन्तयेत्॥६५॥
-
-[^30]: "ख० पु० दर्शयितुमाहेति पाठः।"
 
 मध्ये तमो विजानीया-  
 द्गुणास्त्वेते व्यवस्थिताः।
@@ -3230,8 +3230,6 @@ MADHUSUDAN KAUL.
 इति भाविनं विधिं स्मरेत्॥
 
  'पूजा सुविपुला[^41] कार्या' इत्युक्तमसंभवद्वित्तस्तु किं कुर्यादित्याह
-
-[^41]: "ख ० पु० सुविमलेति पाठः"
 
 **अर्घ्यं पाद्यं च धूपं च  
 नित्यं तावत्समाचरेत्॥१७४॥**
@@ -4468,14 +4466,14 @@ MADHUSUDAN KAUL.
 अथ  
 
 **श्रीस्वच्छन्दतन्त्रम्**  
-![](../books_images/U-IMG-1721498434swacchatantra11.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721498434swacchatantra11.jpg"/>
 
 श्रीमन्महामाहेश्वराचार्यश्रीक्षेमराजकृतोद्द्यताख्य-  
 विवरणोपेतम् ।  
-![](#)![](../books_images/U-IMG-1721498631swacchatantra12.jpg)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1721498631swacchatantra12.jpg"/>
 
 ( तृतीयः पटलः )  
-![](#)![](../books_images/U-IMG-1721498732swacchatantra13.jpg)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1721498732swacchatantra13.jpg"/>
 
 यत्र गलत्युन्मिषते-  
 ऽशेषा संसारवासनाविस्रा।  
@@ -6645,9 +6643,9 @@ MADHUSUDAN KAUL.
 **प्रक्षिप्य चैव निर्माल्यं  
 गोमयेन स्पृशेत्प्रिये।**[^113]
 
- निष्क्रान्तं माल्यं न त्वत्र चण्डीशयोगतः॥
-
 [^113]: "ख० घ० ङ० पु० प्रविश्य चैव नैर्माल्यं गोमयेन घृषेदिति पाठः।"
+
+ निष्क्रान्तं माल्यं न त्वत्र चण्डीशयोगतः॥
 
  तत्रैव च
 
@@ -6766,7 +6764,7 @@ MADHUSUDAN KAUL.
 
  गुरुर्भवेत् शिष्यार्थमिति शेषः। 'समाधौ' इति समाधाननिमित्तमिति शिवम्॥ २९४ ॥
 
-![](../books_images/U-IMG-1721500251swacchatantra1.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1721500251swacchatantra1.jpg"/>  
 
 सन्मानसाम्बरविबोधदिनेशभाभि-  
 रामोदवद्विकसितं हृदयाम्बुजन्म।  

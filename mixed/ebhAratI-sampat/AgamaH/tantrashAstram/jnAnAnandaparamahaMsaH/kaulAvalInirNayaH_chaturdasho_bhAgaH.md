@@ -27,7 +27,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzNDA0MDM3MDU
 
 **INTRODUCTION.**
 
-![](../books_images/U-IMG-1724484213aaa.png)
+<MISSING_FIG href="../books_images/U-IMG-1724484213aaa.png"/>
 
  The author of this compilation is Jnānānanda Paramahamsa aboutwhom nothing else is known. His name so far as can be ascertained isnot connected with any other book. The *Kaulāvalī* is highly esteemedby Sādhakas of the Kaula Sampradāya. *Kaulikārchandīpikā* is anotherbook of this type, but does not go into details as does this, though itdeals with a few matters not touched upon by Jnānānanda. Manuscriptsof the *Kaulāvalī* are very difficult to obtain, as Sādhakas are unwillingto part with it. R. M. Chattopādhyāya says that he had only one manuscript on which he based his publication of the text. Through the kindintervention of Professor Roy Chaudhuri, son of the late Svāmi Vimalānanda, the loan has been obtained of a manuscript in the possession of aKaula family of Murshidabad. The text now published is based on theMurshidabad manuscript though Chattopādhyāya's text has been consulted and has been of use in spite of its deficiencies. The Editors havehad further the advantage of being able to consult original texts frompublished and unpublished Tantras and have thus been enabled to givethe correct reading in several places.
 

@@ -29,16 +29,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2ODE2NzAzMjY
 अथ  
 
 श्रीतन्त्रालोके।  
-![](../../../books_images/U-IMG-1721493784Screenshot2024-07-20221243.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721493784Screenshot2024-07-20221243.png"/>
 
 **श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाव्यटीकोपेते**  
 
-**![](../../../books_images/U-IMG-1721493829Screenshot2024-02-02112628.png)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1721493829Screenshot2024-02-02112628.png"/>**  
 
 अष्टाविंशमाह्निकम्।  
 
-![](../../../books_images/U-IMG-1721888018Screenshot2024-07-25114320.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721888018Screenshot2024-07-25114320.png"/>
 
  **समय विलोपविलुम्पनभीमवपुः सकलसम्पदां दुर्गम्।  
  शमयतु निरर्गलं वो दुर्गमभवदुर्गतिं दुर्गः॥**
@@ -4665,21 +4665,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2ODE2NzAzMjY
 इति श्रीतन्त्रालोकविवेके पर्वपवित्रकादिप्रकाशनं नाम अष्टाविंश-  
 माह्निकम्॥२८॥
 
-![](../../../books_images/U-IMG-1721548588Screenshot2024-07-21132601.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721548588Screenshot2024-07-21132601.png"/>
 
 अथ  
 
 श्रीतन्त्रालोके  
 
-![](../../../books_images/U-IMG-1721549280Screenshot2024-07-21133740.png)  
+<MISSING_FIG href="../../../books_images/U-IMG-1721549280Screenshot2024-07-21133740.png"/>  
 
 **श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाव्यटीकोपेते**  
-![](../../../books_images/U-IMG-1721549329Screenshot2024-07-21133828.png)  
+<MISSING_FIG href="../../../books_images/U-IMG-1721549329Screenshot2024-07-21133828.png"/>  
 
 एकोनत्रिंशमाह्निकम्।  
 
-![](../../../books_images/U-IMG-1721549396Screenshot2024-07-21133942.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721549396Screenshot2024-07-21133942.png"/>
 
 **भद्राणि भद्रकालः कलयतु वः सर्वकालमतुलगतिः।  
 अकुलपदस्थोऽपि हि मुहुः कुलपदमभिधावतीह प्रसभम्॥**
@@ -8294,6 +8294,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ2ODE2NzAzMjY
 इति श्रीतन्त्रालोकविवेके रहस्यविधिप्रकाशनं नाम एकोन-  
 त्रिंशमाह्निकम्॥२९॥
 
-![](../../../books_images/U-IMG-1721580896Screenshot2024-07-21222442.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721580896Screenshot2024-07-21222442.png"/>
 
 \]

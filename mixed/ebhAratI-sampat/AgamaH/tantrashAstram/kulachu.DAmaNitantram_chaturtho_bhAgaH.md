@@ -67,7 +67,7 @@ nâm.
 
   Tell me what will japa, tapa, yoga and yâga do for a manin whom Kulakundalinî awakens and for the man in whom Sheawakens not." Supremacy is claimed for Kulâchâra on theground that it is the final stage of Sâdhana in which Knowledgeis realised to be superior to ritual. Kuladharma is accordingly said to weigh more than all Yajnas and Vratas put together in the scale against it though such rituals are necessaryin the preliminary Âchâras which qualify for the last. As Jnanaalone secures liberation the Kulârnava Tantra affirms thatwithout Kuladharma liberation is not possible. With thequestion whether this claim is well founded I am not concerned but with the statement of the historical facts.As beingthe Âchâra which is claimed to be at the entry of liberation it isregarded by Kaulas as supreme and the end for those whichprecede it. Other schools take a different view of the Kaulaclaims.
 
-![](../books_images/U-IMG-1725090298OIP.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1725090298OIP.jpeg"/>
 
 CHAPTER I.
 
@@ -351,11 +351,7 @@ Vishnu and Shiva was popular, and their votaries were applauded the Kulâchâra 
 
 **1[^23]**
 
-[^23]: "A title of the Shakti of Shiva as the powerful victrix of demons. She is Mahishamardini, as the slayer of Mahisha. The Daitya Shumbha attacked Her in the form of abuffalo (Mahisha!; see Chandi."
-
 **)[^23] STOTRA.**
-
-[^23]: "A title of the Shakti of Shiva as the powerful victrix of demons. She is Mahishamardini, as the slayer of Mahisha. The Daitya Shumbha attacked Her in the form of abuffalo (Mahisha!; see Chandi."
 
 1
 
@@ -564,15 +560,15 @@ May Thou conquer !
 
   In the concluding portion of this Chapter the Devi says thatHer chief forms are represented by Mahishamardinî, Kâlî, andTripurâbhairavî, the last being considered the primary manifestation (VII. 37). This work inculcates the worship of Yoginîs as a part of Kula-worship, on Kula-days (Kulavâra) andKula-tithis, specially on the 14th day of the moon.
 
-  \The Kulavâras have been described in the Yâmalas fromwhich they have been quoted in the Tantrasâra as follows“Tuesday and Friday are Kula days while Wesdnesday is bothKula and Akula, the rest being all Akula” [(2)[^58] Again all Tithiswith an uneven number are Akula; with an even number Kulawith the exception of the second, sixth and tenth which areboth Kula and Akula.\](3)[^59]
+  \The Kulavâras have been described in the Yâmalas fromwhich they have been quoted in the Tantrasâra as follows“Tuesday and Friday are Kula days while Wesdnesday is bothKula and Akula, the rest being all Akula” [(2)[^58] Again all Tithiswith an uneven number are Akula; with an even number Kulawith the exception of the second, sixth and tenth which areboth Kula and Akula.\]^390[^59]
 
 [^58]: "Ravichandrau guruh saurish chattvârashchâkulâ matâh Bhaumashukrau kulâkhyau tu budhavârah kulâkulah. See Patala VII. 38."
 
 [^59]: "Dvitiya dashami shashthì kulâkulamudâhritam Vishamâshchakulah sarvâh sheshâshcha tithayah kulâh Similarly all Nakshatras with an even number are Kula : Vârunârdrâbhijinmûlang kulâkulamudâhritam Kulani samadhishnyâni sheshabhâny akulâni cha."
 
-  The evening rite, consisting in the offering of food to jackals,is described at length. The Devî towards the end says “Thouart the Guru of all the Tantras and neither I nor Hari. Therefore Thou art the Revealer of the Tantras. I entered into Thybody (as Shakti) and thereby Thou didst become the Lord(Prabhu). There is none but Myself who is the Mother tocreate (Kâryyavibhâvinî) (4)[^60] and therefore it is when creation
+[^390]: 3
 
-[^60]: " That is She has the disposition to act or to carry out what He wills. She alone hasKartrittva for the Father as efficient cause does not act, but the Mother in whose womb theseed of the world is sown alone does so"
+  The evening rite, consisting in the offering of food to jackals,is described at length. The Devî towards the end says “Thouart the Guru of all the Tantras and neither I nor Hari. Therefore Thou art the Revealer of the Tantras. I entered into Thybody (as Shakti) and thereby Thou didst become the Lord(Prabhu). There is none but Myself who is the Mother tocreate (Kâryyavibhâvinî) (4)[^60] and therefore it is when creation
 
 takes place that sonship is in Thee. Thou alone art the Fatherwho wills what I do (Kâryyavibhâvaka) and none else.
 
@@ -594,11 +590,11 @@ A. K. MAITRA.
 
 [TABLE]
 
-# ![](../books_images/U-IMG-172451880934.png)
+# <MISSING_FIG href="../books_images/U-IMG-172451880934.png"/>
 
 **आदर्शपुस्तकविवरणम्।**
 
-![](../books_images/U-IMG-1725091969Screenshot2024-08-16175023.png)
+<MISSING_FIG href="../books_images/U-IMG-1725091969Screenshot2024-08-16175023.png"/>
 
  पुस्तकद्वयमवलम्ब्यास्य सङ्कलनं कृतम्। तत्र “क”–संज्ञकं पुस्तकंश्रीयुक्तेन अटलविहारि-घोषमहोदयेन संगृहीतम्। “ख”–संज्ञकं कृष्णनगराधिपतेः सुगृहीतनामधेयस्य श्रीलश्रीयुक्तमहाराज-क्षौणीशचन्द्ररायवाहादुरस्य पुस्तकालयादानीतम्। उभयमेवाशुद्धिवहुलम् च्युतिदुष्टञ्च; अतउभयस्मादैकैकश्येनांशविशेषमवलम्ब्यसमीचीनतया प्रतिभातः पाठो मूलेन्यवेशि। पाठान्तरन्त्वधस्तान्निहितम्। बुद्धिमान्द्यादत्र पाठविचारणयांमया यत् स्खलितं तत्तु तन्त्रार्थरसिकैःसुधीभिः सुविचार्य्य प्रदर्शनीयम्।अवश्यम्भाविनि स्खलने परिज्ञाते तु तस्य प्रतिविधानं सम्भवि।
 
@@ -607,7 +603,7 @@ A. K. MAITRA.
 
 कुलचूड़ामणितन्त्रम्
 
-![](../books_images/U-IMG-1725092608Screenshot2024-08-16174952.png)  
+<MISSING_FIG href="../books_images/U-IMG-1725092608Screenshot2024-08-16174952.png"/>  
 
 प्रथमः पटलः।  
 
@@ -812,7 +808,7 @@ A. K. MAITRA.
 [^99]: "भक्तिमुक्तिं। क।"
 
 **नानार्थप्रसवप्राज्ञ[^100] नानार्थसंकुलाकुलम्।  
-सदाचार्य्य–परिज्ञप्त[^101](ज्ञातं) सच्छिष्य–परमास्पदम्॥३०॥**
+सदाचार्य्य–परिज्ञप्त[^101] (ज्ञातं) सच्छिष्य–परमास्पदम्॥३०॥**
 
 [^100]: "नानार्थ-प्रसविप्रज्ञः। ख।"
 
@@ -885,7 +881,7 @@ A. K. MAITRA.
 
 इति कुलचुडामणौ प्रथमः पटलः।
 
-![](../books_images/U-IMG-1725094601Screenshot2024-08-16174952.png)
+<MISSING_FIG href="../books_images/U-IMG-1725094601Screenshot2024-08-16174952.png"/>
 
 द्वितीयः पटलः।
 
@@ -1107,7 +1103,7 @@ A. K. MAITRA.
 
 इति कुलचूड़ामणौ द्वितीयः पटलः।
 
-![](../books_images/U-IMG-1725120251Screenshot2024-08-16175236.png)
+<MISSING_FIG href="../books_images/U-IMG-1725120251Screenshot2024-08-16175236.png"/>
 
 **तृतीयः पटलः।  
 —ः००ः–**
@@ -1170,7 +1166,9 @@ A. K. MAITRA.
 [^172]: " कुलपूजा पराङमुखा। ख।"
 
 **अन्ययोषा यदा वत्स! स्वयं तस्या गुरुर्भवेत्।  
-[(वामकर्णे परां दद्यान्मन्त्रेणैवाभिषेचयेत्॥१२॥](#)**
+(वामकर्णे परां दद्यान्मन्त्रेणैवाभिषेचयेत्॥१२॥[^391]**
+
+[^391]: #
 
 **मन्त्रं शृणु महादेव! यथावत् कथयामि ते।  
 वान्तान्ते(तु) त्रिपुरायैहृदयं परिकीर्त्तितम्॥१३॥**
@@ -1181,8 +1179,10 @@ A. K. MAITRA.
 **कुरु स्वाहेति मन्त्रोयं षड्विंशत्यक्षरात्मकः।  
 अनेन मनुना देवि (व!) शक्तिशुद्धिं समाचरेत्॥१५॥**
 
-**[अभिषेकाद्भवेच्छुद्धी रण्ड (ण्डाया) अतिभैरव!)](#)  
+**अभिषेकाद्भवेच्छुद्धी रण्ड (ण्डाया) अतिभैरव!)[^392]  
 ब्राह्मणीक्षत्रिया वैश्या शूद्रा च कुलभूषणा॥१६॥**
+
+[^392]: #
 
 **वेश्या नापितकन्या च रजकीयोगिनी तथा।  
 विशेष-वैदग्ध्ययुता सर्व्वा एव कुलाङ्गनाः॥१७॥**
@@ -1192,8 +1192,6 @@ A. K. MAITRA.
 
 **सिन्दूरेण लिखेद्यन्त्रं विपुलं साध्यदर्भितम्।  
 तत्र संपूज्य विधिवत् कुलं कुलरसेन[^161] च॥१९॥**
-
-[^161]: "रसेन तु। ख।"
 
 **तर्पयित्वा तदन्तःस्थं पूजयेन्निशि भावतः[^174]।  
 ततो लक्षप्रदानेन सिद्धिदा स्ता भवन्ति हि॥२०॥**
@@ -1403,7 +1401,7 @@ A. K. MAITRA.
 
 इति कुलचूड़ामणौ तृतीयः पटलः।
 
-![](../books_images/U-IMG-1725124210Screenshot2024-08-16175054.png)
+<MISSING_FIG href="../books_images/U-IMG-1725124210Screenshot2024-08-16175054.png"/>
 
 चतुर्थः पटलः।
 
@@ -1502,15 +1500,15 @@ A. K. MAITRA.
 [^217]: "कुलजनाश्रयाः। क।"
 
 **लब्धसिद्धि-समायोगाड्डाकिनीहिंसनं यदि[^218]।  
-[(अथवा दानवानाञ्च मद्भक्तानां विशेषतः।  
-वटुकानां भैरवाणां तस्य सिद्धिर्नजायते](#)॥२०॥**
+(अथवा दानवानाञ्च मद्भक्तानां विशेषतः।  
+वटुकानां भैरवाणां तस्य सिद्धिर्नजायते[^393]॥२०॥**
 
 [^218]: "डाकिन्या हिंसनं यदि। ख।"
 
+[^393]: #
+
 **ग्रामे वा नगरे वाथ हट्टे वा चत्वरेपि वा।  
 यं दृष्ट्वा युवतिर्नारीपूर्व्वदोष-विवर्जिता)[^219]॥२१॥**
-
-[^219]: "बन्धनी मध्यस्थंस्लोकद्वयं क-पुस्तके नास्ति।"
 
 **भावैक-भिन्नहृदया वक्रदृष्ट्या विलोक्य च[^220] ।  
 दृष्ट्वा[^221] मधुकरश्रेणी यथा मधुमदाकुला॥२२॥**
@@ -1910,8 +1908,6 @@ A. K. MAITRA.
 **ततः पूर्व्वोक्तरूपेण कुलक्षोभं समाचरेत्)[^293]।  
 ततो रात्रौ शून्यगेहे उद्याने वा सुरालये॥३४॥**
 
-[^293]: "वन्धनीमध्यस्थोग्रन्थःक पुस्तके नास्ति।"
-
 **आनीय कुलजां देवीं मूलमन्त्रेण दीक्षयेत्।  
 ततः पूर्वोक्तरूपेण कुलक्षोभं समाचरेत्[^295]॥३५॥**
 
@@ -2065,22 +2061,14 @@ A. K. MAITRA.
 **अनेनैव विधानेन पूजिता विश्वरूपिणी।  
 आकर्षयेद्देवकन्यां पाताले नागकन्यकाम्॥६८॥[^311]**
 
-[^311]: "वन्धनी-मध्यस्था चतुःश्लोकी ख-पुस्तके न दृश्यते। अत्र पाठानामसङ्गतता प्रायेण प्रतिभाति।पुस्तकान्तराभावात् शोधनञ्च न सम्भवेत्।"
-
 **अरण्या च महाकाली द्वितीया चेयमीरिता।  
 पूजा ध्यानं प्रयोगञ्च जपञ्चैव विशेषतः॥६९॥[^311]**
-
-[^311]: "वन्धनी-मध्यस्था चतुःश्लोकी ख-पुस्तके न दृश्यते। अत्र पाठानामसङ्गतता प्रायेण प्रतिभाति।पुस्तकान्तराभावात् शोधनञ्च न सम्भवेत्।"
 
 **समानं सर्व्वमेतस्यास्तस्या देव्या प्रकीर्त्तितम्।  
 वारिजापादिकं सर्व्वं पूर्व्वोक्तं चात्र कीर्त्तितम्॥७०॥[^311]**
 
-[^311]: "वन्धनी-मध्यस्था चतुःश्लोकी ख-पुस्तके न दृश्यते। अत्र पाठानामसङ्गतता प्रायेण प्रतिभाति।पुस्तकान्तराभावात् शोधनञ्च न सम्भवेत्।"
-
 **अरण्याय महाकन्याः पूजायां निर्मला भवेत्)\*[^311]।  
 इशाने शङ्खमासाद्य तत्र यन्त्रं विलिख्य च॥७१॥**
-
-[^311]: "वन्धनी-मध्यस्था चतुःश्लोकी ख-पुस्तके न दृश्यते। अत्र पाठानामसङ्गतता प्रायेण प्रतिभाति।पुस्तकान्तराभावात् शोधनञ्च न सम्भवेत्।"
 
 अष्टमीरात्रिमारभ्य चतुर्द्दश्यां समापयेत्।  
 अष्टोत्तरशतं[^316]म
@@ -2114,7 +2102,7 @@ A. K. MAITRA.
 
 इति कुलचुड़ामणौपञ्चमः पटलः।
 
-![](../books_images/U-IMG-1725186808th.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1725186808th.jpeg"/>
 
 **षष्ठः पटलः।**  
 
@@ -2128,12 +2116,12 @@ A. K. MAITRA.
 **गात्रेव्यापकं विन्यसेत्ततः॥१॥**
 
 **प्रथमं साधकश्रेष्ठो देवीकूटस्य मस्तके।  
-[(विलिख्य यन्त्रंपूर्व्वोक्तं पूजयेत् कुलवर्त्मना॥२॥](#)**
+(विलिख्य यन्त्रंपूर्व्वोक्तं पूजयेत् कुलवर्त्मना॥२॥[^394]**
+
+[^394]: #
 
 **पीठादि देवींप्रणमेत् पूजयेद् गन्धपुष्पकैः।  
 महाभागां ततो मूलदेवीमावरणैः सह)[^317]॥३॥**
-
-[^317]: "वन्धनी-मध्यस्थः सार्द्धश्लोकः ख-पुस्तके नास्ति।"
 
 **लक्षैकं तत्र जप्त्वा[^318]। ख।") तु उड्डीयानं ततो विशेत्।  
 तत्पीठे योगनिद्राख्यां[^319] पूजयित्वा ततो यजेत्॥४॥**
@@ -2338,7 +2326,7 @@ A. K. MAITRA.
 
 इति कुलचूड़ामणौ षष्ठः पटलः।
 
-![](../books_images/U-IMG-1725187712Screenshot2024-08-16175039.png)
+<MISSING_FIG href="../books_images/U-IMG-1725187712Screenshot2024-08-16175039.png"/>
 
 सप्तमः पटलः।  
 
@@ -2357,10 +2345,10 @@ A. K. MAITRA.
 
 देव्युवाच।[^355]
 
+[^355]: "देव्युवाच इत्यादि अति गुह्यतरा नित्येत्यन्तो ग्रन्थःक पुस्तके नास्ति। परन्तु “मातर्महिषमर्दिन्याः सङ्केतं कथयस्व मे” इत्यतः परं “कुलाचारस्य संसिद्ध्यै विद्या महिषमर्दिनी, अतिगुप्ता परा विद्या सृष्टिस्थिति-विधायिनी” ति दृश्यते।"
+
 **सृष्टिस्थिति-विनाशानामादिभूता महेश्वरी।  
 गोप्या सर्व्वप्रयत्नेन शृणु तां कथयामि ते॥२॥**
-
-[^355]: "देव्युवाच इत्यादि अति गुह्यतरा नित्येत्यन्तो ग्रन्थःक पुस्तके नास्ति। परन्तु “मातर्महिषमर्दिन्याः सङ्केतं कथयस्व मे” इत्यतः परं “कुलाचारस्य संसिद्ध्यै विद्या महिषमर्दिनी, अतिगुप्ता परा विद्या सृष्टिस्थिति-विधायिनी” ति दृश्यते।"
 
 **त्रैलोक्यवीजभूतान्ते सम्बोधनपदं ततः।  
 सृष्टिसंहारकौ वर्णौ विद्या महिषमर्दिनी॥३॥**
@@ -2729,7 +2717,7 @@ A. K. MAITRA.
 
 **॥समाप्तञ्चायं ग्रन्थः॥**  
 
-*![](../books_images/U-IMG-1725208454Screenshot2024-08-16174952.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1725208454Screenshot2024-08-16174952.png"/>*
 
 |                 |
 |:---------------:|
@@ -2741,9 +2729,14 @@ A. K. MAITRA.
 
 [TABLE]
 
-![](../books_images/U-IMG-1725296855Screenshot2024-08-16175023.png)
+<MISSING_FIG href="../books_images/U-IMG-1725296855Screenshot2024-08-16175023.png"/>
 
 [TABLE]
 
 \]
 
+[^317]: "वन्धनी-मध्यस्थः सार्द्धश्लोकः ख-पुस्तके नास्ति।"
+
+[^219]: "बन्धनी मध्यस्थंस्लोकद्वयं क-पुस्तके नास्ति।"
+
+[^60]: " That is She has the disposition to act or to carry out what He wills. She alone hasKartrittva for the Father as efficient cause does not act, but the Mother in whose womb theseed of the world is sown alone does so"

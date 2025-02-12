@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 \[
 
-![](../books_images/U-IMG-1721104276Screenshot2024-07-16100046.png)
+<MISSING_FIG href="../books_images/U-IMG-1721104276Screenshot2024-07-16100046.png"/>
 
 [TABLE]
 
@@ -30,7 +30,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **॥प्रपञ्चसारविषयविवेकः॥**  
 
-**![](../books_images/U-IMG-1720683835Screenshot2024-07-11131326.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720683835Screenshot2024-07-11131326.png"/>**
 
 |          |                                                                                                                                                                                                                                                                                                                                                                  |
 |----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -69,17 +69,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **३३.** | संतानसिद्धिम्, अपुत्रताकारणम्, पञ्चगव्यप्राशनम्, प्रतिकृतिप्राशनम्, गुरुदक्षिणाम्, सत्पुत्रलाभम्, सद्गुरुलक्षणम्, सच्छिष्यलक्षणम्, दीक्षोपदेशफलानि, साधकाचारोपक्रान्तपूर्णनिर्वाहकधनपरिपूर्णफलानि चोपदिशति त्रयस्त्रिंशपटलेन |
 
-![](../books_images/U-IMG-1720710852Screenshot2024-07-11204324.png)
+<MISSING_FIG href="../books_images/U-IMG-1720710852Screenshot2024-07-11204324.png"/>
 
-![](../books_images/U-IMG-1720259936Untitled४.png)  
+<MISSING_FIG href="../books_images/U-IMG-1720259936Untitled४.png"/>  
 
 **॥प्रपञ्चसारः॥**  
 
-**![](../books_images/U-IMG-1720684691Screenshot2024-07-11132644.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1720684691Screenshot2024-07-11132644.png"/>**  
 
 **विंशः पटलः॥**  
 
-**![](../books_images/U-IMG-1720684710Screenshot2024-07-11131326.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720684710Screenshot2024-07-11131326.png"/>**
 
 अथ प्रवक्ष्यामि च मासभेद-  
 भिन्नानि यन्त्राण्यपि संग्रहेण।  
@@ -412,11 +412,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे विंशः पटलः॥**  
 
-![](../books_images/U-IMG-1720692982Screenshot2024-07-09101742.png)
+<MISSING_FIG href="../books_images/U-IMG-1720692982Screenshot2024-07-09101742.png"/>
 
 **॥एकविंशः पटलः॥**  
 
-![](../books_images/U-IMG-1720694605Screenshot2024-07-11161259.png)
+<MISSING_FIG href="../books_images/U-IMG-1720694605Screenshot2024-07-11161259.png"/>
 
 अथोच्यते द्वादशवर्णसंज्ञो  
 मन्त्रस्तु साङ्गः सजपः सहोमः।  
@@ -706,11 +706,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे एकविंशः पटलः॥  
 
-![](../books_images/U-IMG-1720698760Screenshot2024-07-10063051.png)**
+<MISSING_FIG href="../books_images/U-IMG-1720698760Screenshot2024-07-10063051.png"/>**
 
 **॥द्वाविंशः पटलः॥**  
 
-**![](../books_images/U-IMG-1720698798Screenshot2024-07-11161259.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720698798Screenshot2024-07-11161259.png"/>**
 
 अथोच्यते श्रीकरनामधेय-  
 मष्टाक्षरं लोकहिताय तावत्।  
@@ -971,11 +971,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे द्वाविंशः पटलः॥**
 
-![](../books_images/U-IMG-1720413808img4.png)
+<MISSING_FIG href="../books_images/U-IMG-1720413808img4.png"/>
 
 **॥त्रयोविंशः पटलः॥**
 
-**![](../books_images/U-IMG-1720411503img2.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720411503img2.jpg"/>**
 
 अथ प्रवक्ष्यामि नृसिंहमन्त्र-  
 स्यानुष्टुभः संग्रहतो विधानम्।  
@@ -1282,11 +1282,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे त्रयोविंशः पटलः॥**
 
-   ![](../books_images/U-IMG-1720365947img_1.jpg)
+   <MISSING_FIG href="../books_images/U-IMG-1720365947img_1.jpg"/>
 
 **॥चतुर्विंशः पटलः॥**
 
-![](../books_images/U-IMG-1720366262img2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720366262img2.jpg"/>
 
 अथ संप्रति विष्णुपञ्जरस्य  
 प्रतिवक्ष्यामि समासतो विधानम्।  
@@ -1574,11 +1574,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे चतुर्विंशः पटलः॥**  
 
-![](../books_images/U-IMG-1720429909img3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720429909img3.jpg"/>
 
 **॥पञ्चविंशः पटलः॥**
 
-![](../books_images/U-IMG-1720372407img2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720372407img2.jpg"/>
 
 अथाभिधास्यामि मनुं समासा-  
 त्प्रासादसंज्ञं जगतो हिताय।  
@@ -1924,11 +1924,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे पञ्चविंशः पटलः॥**
 
-**![](../books_images/U-IMG-1720121635Capture.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1720121635Capture.JPG"/>**
 
 **॥षड्विंशः पटलः॥**  
 
-**![](../books_images/U-IMG-1720715119Screenshot2024-07-11131326.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1720715119Screenshot2024-07-11131326.png"/>**  
 
 अथ प्रवक्ष्यते मन्त्रो दक्षिणामूर्तिसंज्ञकः।  
 जपतामिष्टसंसिद्धिविधानसुरपादपः॥१॥
@@ -2192,11 +2192,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे षड्विंशः पटलः॥**
 
-**![](../books_images/U-IMG-1720723413Screenshot2024-07-09151321.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720723413Screenshot2024-07-09151321.png"/>**
 
 **॥सप्तविंशः पटलः॥**  
 
-![](../books_images/U-IMG-1720149976Capture3.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1720149976Capture3.JPG"/>
 
 अथ सजपहुताद्यो वक्ष्यते साधुचिन्ता-  
 मणिरभिमतकामप्राप्तिकल्पद्रुमोऽयम्।  
@@ -2443,11 +2443,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे सप्तविंशः पटलः॥**
 
-**![](../books_images/U-IMG-1720747043Screenshot2024-07-09101742.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720747043Screenshot2024-07-09101742.png"/>**
 
 **॥अष्टाविंशः पटलः॥**  
 
-![](../books_images/U-IMG-17201542932.JPG)
+<MISSING_FIG href="../books_images/U-IMG-17201542932.JPG"/>
 
 अथाखिलार्थानुततैव[^47] शक्ति-  
 र्युक्ता चतुर्विंशतितत्त्वभेदैः।  
@@ -2717,11 +2717,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे अष्टाविंशः पटलः॥  
 
-![](../books_images/U-IMG-1720748874Screenshot2024-07-08194832.png)**
+<MISSING_FIG href="../books_images/U-IMG-1720748874Screenshot2024-07-08194832.png"/>**
 
 **॥एकोनत्रिंशः पटलः॥**
 
-![](../books_images/U-IMG-1720583461Screenshot2024-07-05145341.png)
+<MISSING_FIG href="../books_images/U-IMG-1720583461Screenshot2024-07-05145341.png"/>
 
 अथ वक्ष्यामि विद्यायास्त्रिष्टुभः प्रवरं विधिम्।  
 ऋषिच्छन्दोदेवताभिरङ्गन्यासक्रमैः सह॥१॥
@@ -3153,11 +3153,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे एकोनत्रिंशः पटलः॥  
 
-![](../books_images/U-IMG-1720758730Screenshot2024-07-09151321.png)**
+<MISSING_FIG href="../books_images/U-IMG-1720758730Screenshot2024-07-09151321.png"/>**
 
 **॥त्रिंशः पटलः॥**  
 
-![](../books_images/U-IMG-1720758786Screenshot2024-07-11161259.png)
+<MISSING_FIG href="../books_images/U-IMG-1720758786Screenshot2024-07-11161259.png"/>
 
 अथाभिवक्ष्ये महितस्य मन्त्र-  
 स्यानुष्टुभः संग्रहतो विधानम्।  
@@ -3776,11 +3776,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे त्रिंशः पटलः॥ **
 
-![](../books_images/U-IMG-1720360076Screenshotवि.png)  
+<MISSING_FIG href="../books_images/U-IMG-1720360076Screenshotवि.png"/>  
 
 **॥एकत्रिंशः पटलः॥**
 
-![](../books_images/U-IMG-1720360210Screenshotवी२.png)
+<MISSING_FIG href="../books_images/U-IMG-1720360210Screenshotवी२.png"/>
 
 प्राणप्रतिष्ठानमनोर्विधानं  
 प्रवक्ष्यते संप्रति सर्वसिद्धयै।  
@@ -3795,7 +3795,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 सृष्टिः सा जगतामनादिनिधना विश्वस्य चेष्टाकरी  
 प्राणाख्या प्रकृतिः क्रियामयवपुर्देवी परा देवता।
 
-![](../books_images/U-IMG-1720431356screen5.png)
+<MISSING_FIG href="../books_images/U-IMG-1720431356screen5.png"/>
 
 **^(1.)**तद्वद्वाङ्मनसी दृशं श्रुतिमथो घ्राणं च सप्राणकं  
 सैवेहागतयामयुक्सुखचिरं तिष्ठन्तु ठद्वन्द्वकम् ।  
@@ -3904,11 +3904,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे एकत्रिंशः पटलः॥**
 
-![](../books_images/U-IMG-1720257760स्च्रीन्शोत्१.png)
+<MISSING_FIG href="../books_images/U-IMG-1720257760स्च्रीन्शोत्१.png"/>
 
 ** ॥द्वात्रिंशः पटलः॥**  
 
- ![](../books_images/U-IMG-1720779354Screenshot2024-07-11161259.png)
+ <MISSING_FIG href="../books_images/U-IMG-1720779354Screenshot2024-07-11161259.png"/>
 
 अथ यन्त्रविरचनाभि-  
 र्मन्त्रविशेषान्बहुप्रकारयुतान्।  
@@ -4307,11 +4307,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे द्वात्रिंशः पटलः॥**
 
-**![](../books_images/U-IMG-1720247992pic1.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720247992pic1.jpg"/>**
 
 **॥त्रयस्त्रिंशः पटलः॥**
 
-![](../books_images/U-IMG-1720248328pic2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720248328pic2.jpg"/>
 
 अथ संतानसंसिद्धिसमाकुलितचेतसाम्।  
 तदुत्पत्तिकरं यागं प्रवक्ष्ये गृहमेधिनाम्॥१॥
@@ -4552,15 +4552,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारः संपूर्णः॥**
 
-![](../books_images/U-IMG-1720251704pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720251704pic3.jpg"/>
 
-![](../books_images/U-IMG-1720251923pic4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720251923pic4.jpg"/>
 
 **॥श्रीः॥**
 
 **॥श्लोकानुक्रमणिका॥**
 
-**![](../books_images/U-IMG-1720252864pic2.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720252864pic2.jpg"/>**
 
 [TABLE]
 
@@ -4680,6 +4680,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 [TABLE]
 
-![](../books_images/U-IMG-1720679723pic5.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720679723pic5.jpg"/>
 
 \]

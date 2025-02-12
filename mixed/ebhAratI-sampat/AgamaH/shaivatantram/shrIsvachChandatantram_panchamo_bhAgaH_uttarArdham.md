@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwOTg1MjM1NzY
 Kashmir Series of Texts and Studies.  
 
 No. LIII.  
-![](../books_images/U-IMG-1721748342svacchhatantra3.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1721748342svacchhatantra3.jpg"/>  
 
 THE  
 
@@ -43,7 +43,7 @@ His Highness' Government
 
 JAMMU & KASHMIR,  
 SRINAGAR.  
-![](../books_images/U-IMG-1721748266svacchhatantra2.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1721748266svacchhatantra2.jpg"/>  
 
 Published under the Authority of the Government of  
 His Highness Rājarājes'vara Mahārājādhirāja  
@@ -52,7 +52,7 @@ G. C. I. E., K. C. V. O.,
 MAHĀRĀJA OF JAMMU AND KASHMIR.  
 Volume V  
 (Part B)  
-![](../books_images/U-IMG-1721748174svacchhatantra1.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1721748174svacchhatantra1.jpg"/>  
 
 BOMBAY:  
 PRINTED AT THE 'NIRNAYA SAGAR' PRESS  
@@ -70,7 +70,7 @@ PRINTED AT THE 'NIRNAYA SAGAR' PRESS
 
 ॐ  
 काश्मीर-संस्कृतग्रन्धावलिः।  
-![](../books_images/U-IMG-1721748626svacchhatantra4.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1721748626svacchhatantra4.jpg"/>  
 ग्रन्थाङ्कः ५३  
 —————
 
@@ -78,7 +78,7 @@ PRINTED AT THE 'NIRNAYA SAGAR' PRESS
 
 श्रीमहामाहेश्वराचार्यवर्य-श्रीक्षेमराजकृतोद्द्योताख्यटीकोपेतम्।
 
-![](../books_images/U-IMG-1721748797svacchhatantra5.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721748797svacchhatantra5.jpg"/>
 
 श्रीराजराजेश्वर-महाराजाधिराज-कश्मीरनरेन्द्र-श्रीहरिसिंहजी-  
 बहादुराज्ञया
@@ -91,7 +91,7 @@ PRINTED AT THE 'NIRNAYA SAGAR' PRESS
 मुम्बय्यां 'निर्णयसागर' मुद्रणालये मुद्रापयित्वा प्राकाश्यमुपनीतम्।  
 पञ्चमो भागः (उत्तरार्धम्)
 
-![](../books_images/U-IMG-1721748848svacchhatantra1.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721748848svacchhatantra1.jpg"/>
 
 संवत् १९९०.      
 
@@ -6159,6 +6159,6 @@ Jammu and Kashmir Government, SRINAGAR,**
 इति श्रीस्वच्छन्दोद्द्योते भुवनाध्वदीक्षाविधिर्नाम  
 दशमः पटलः॥१०॥
 
-![](../books_images/U-IMG-1721712833swaccha.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721712833swaccha.jpg"/>
 
 \]

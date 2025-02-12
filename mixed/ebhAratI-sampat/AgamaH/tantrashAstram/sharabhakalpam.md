@@ -29,7 +29,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 **(आकाशभैरवकल्पान्तर्गतम्)**  
 
-![](../books_images/U-IMG-1724568659Screenshot2024-08-25122041.png)
+<MISSING_FIG href="../books_images/U-IMG-1724568659Screenshot2024-08-25122041.png"/>
 
 अष्टाङ्घ्रिश्चसहस्रबाहुरनलच्छायः शिरोयुग्मभृत्  
 द्वित्र्यक्षोऽतिजवो द्विपुच्छ उदितः[^1] साक्षान्नृसिह्मः²सहः।  
@@ -41,7 +41,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 ओं नमोऽष्टपदाय सहस्रबाहवे द्विशिरसे त्रिणेत्राय द्विपक्षा-  
 याग्निवर्णाय मृगविहङ्गमरूपाय वीरशरभेश्वराय हुं फट्॥२॥
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>  
 
 *2. नृसिंहाट्टहासमसहमान इत्यर्थे नृसिह्मासहः इति पाठःयुक्तःप्रतिभाति।*
 
@@ -73,7 +73,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 दिव्यगन्धेन⁶ युक्तेन भस्मनारत्नमात्रकम्।  
 चतुरस्रगतं कृत्वा तस्मिन् भस्मनि बुद्धिमान्॥६॥
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>  
 
 6.अत्र श्लोकस्यास्य पूर्वार्धं केवलं दृश्यते। उत्तरार्धंतु अन्नैवग्रन्थे उत्तरत्र प्रसङ्गरहिततया लिखितमस्ति। एतदधिकृत्य वकव्यमुक्तमत्रैवान्यत्र॥ उपलब्धायामस्मन्मातृकायामपि संपूर्णतया दृष्टस्य श्लोकस्योत्तरार्धमेवम्—ओङ्कारं तस्य बाह्येतदनुपरिवृतंसाध्यमाकर्षयेत्तां त्रैलोक्यस्थामदृष्टां स्त्रियमपि विविधान्यशु भूतानि चैतद्” इति॥ दिव्यगन्धेनेत्यारभ्य वक्ष्यमाणमेव सङ्गतं वर्तते॥ ततः पूर्वतनः पाठभागः अन्यत्रैव वक्तव्यः; अत्र निवेशितः प्रमादादिति ज्ञायते।
 
@@ -129,7 +129,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 शरभं हृद्यथोद्वास्य शिवोऽहमिति भावयेत्।  
 इत्येवं सततं कुर्यात् स्वयमेव शिवो भवेत्॥२१॥
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
 * 1. मातृकान्तरे षोडशस्वरदेवता अत्रैव प्रकारणे प्रपञ्चिताः।अत्रमातृकायान्तु पृथक्तया उत्तरत्र वक्ष्यन्ते॥*
 
@@ -141,7 +141,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 **॥इत्याकाशभैरवकल्पे शरभेशयन्त्रपूजनविधानं नाम  
 निचत्वारिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1724579031Screenshot2024-07-11161259.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724579031Screenshot2024-07-11161259.png"/>**
 
 **शिव[^11]उवाच—**
 
@@ -198,7 +198,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 मृतकोत्थापनं पुण्यं क्रूररोगविनाशनम्।  
 ऊकारं पृथिवीबीजं श्यामं रक्षाकरं परम्॥११॥
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
 1.इतः परं “दिव्यगन्धेन युक्तेनेत्यारभ्य “षोडशारे यजेत्पश्चात्षोडशस्वरदेवताः”इत्यन्तमुक्त्वाअकारंब्रह्मदैवत्यमित्यादिकं कथ्यते मातृकान्तरे। स चानुगतः पाठ इति प्रतीयते ॥
 
@@ -227,7 +227,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 सारस्वतं विशेषेण शत्रूणां कोपनाशनम्।  
 संकारं रुद्रबीजं स्यात् रक्तं देववशङ्करम्॥१८॥
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
   3.
 
@@ -265,7 +265,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 [^26]: "स्तोभनं भवेत्॥"
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
  *1. सर्वसोके च यन्मन्त्रसिद्विदं चित्तशुद्धिदम् इति मातृकान्तर गतः पाठः।*
 
@@ -374,7 +374,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 [^45]: "स्वेच्छाभिवृद्धिदम्।"
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>  
 
 * 2. अत्रेदमर्धमुत्तरत्रान्वेयतया मातृकान्तरे दृश्यते। वकारबीजस्य विशेषवर्णनपरतया “औषधय महावीर्यवर्धनं जयवृद्धिदम् इति दृश्यते।*
 
@@ -409,7 +409,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 ⁵इति सुमति हरेर्यो मातृका देवतानां  
 द्युबलमहिमादीनादितः स्वामिवक्त्रात्।
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>  
 
 2. विद्यादिति मातृकान्तरे॥ विद्यातेजःसौभाग्यवर्धनमिति वा पाठः साधुः।
 
@@ -474,7 +474,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 पुरश्चर्याद्वयेनैव स्मरणात्सिद्धिमेति सः  
 यन्त्रं तन्त्रं विना देवि न फलं जायते जपात्॥६७॥
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
 1. एवं जपतः कीदृशी सिद्धिर्भवतीति न मातृकायां प्रपञ्चितम्।
 
@@ -520,7 +520,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 [^61]: "फट्कारम्॥"
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>  
 
  
 
@@ -569,7 +569,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 शालुवेशाय विद्महे पक्षिराजाय धीमहि।  
 तन्नो रुद्रः प्रचोदयात्॥७७॥
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>  
 
  8. भूतनाथग्रहणसमरोच्चाटनञ्चैवमेतत् इति पाठभेदाः अस्मदुपलब्धमातृकायां दृश्यन्ते॥
 
@@ -676,7 +676,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 ॥इत्याकाशभैरवकल्पे उमामहेश्वरसंवादे प्रत्यक्षसिद्धिप्रदे शरभयन्त्रमन्त्रकथनं  
 नामषट्चत्वारिंशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1724669808Screenshot2024-07-21061650.png)
+<MISSING_FIG href="../books_images/U-IMG-1724669808Screenshot2024-07-21061650.png"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
@@ -684,7 +684,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 **॥अथ जपविधिः॥**  
 
-**![](../books_images/U-IMG-1724609521Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724609521Screenshot2024-07-18063849.png"/>**
 
 **ओं रात्रिशेषे समुत्थाय गुरुं ध्यायेच्छिरोऽम्बुजे।  
 वरदाभयदं शम्भुं पक्षिराजस्वरूपकम्॥**
@@ -734,7 +734,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 [^102]: "मृगस्त्वर्धशरीरेण पक्षाभ्यां चञ्चुना द्विजः।"
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
 *2.*
 
@@ -852,7 +852,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति जपविधिः॥
 
-![](../books_images/U-IMG-1724671703Screenshot2024-07-21061650.png)
+<MISSING_FIG href="../books_images/U-IMG-1724671703Screenshot2024-07-21061650.png"/>
 
 **॥अथ (पूजा) यन्त्रक्रमः॥**
 
@@ -903,8 +903,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 तत्कोष्ठेषु च देवेशि मन्त्रवर्णान् समर्पयेत्।  
 मध्यकोष्ठे जपेत्सा[^132]लुंभावकं[^135] शरभेश्वरम्॥३१॥
 
-[^132]: "यजेत्।"
-
 [^135]: "सालुनायकम्।"
 
 आवाहनादिपूजान्तं मूलमन्त्रेण पूजयेत्।  
@@ -928,10 +926,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 [^139]: " छागबलिप्रकारो नात्र ग्रन्थे कुत्रापि प्रपञ्चितः।"
 
-![](../books_images/U-IMG-1724683752Screenshot2024-08-04235410.png)
+<MISSING_FIG href="../books_images/U-IMG-1724683752Screenshot2024-08-04235410.png"/>
 
 **॥ सामान्यार्घ्यस्थापनम्॥  
-![](../books_images/U-IMG-1724685468Screenshot2024-08-08063503.png)**
+<MISSING_FIG href="../books_images/U-IMG-1724685468Screenshot2024-08-08063503.png"/>**
 
   चन्दनादिना चतुरश्रं विलिख्य वहन् श्वासोर्ध्वं उदहस्ताभ्यां नत्स्य[^140]मुद्रया त्रिकोणवृत्तचतुरश्रात्मकं मण्डलं कृत्वा ओं “आधारशक्तये नमः” इति सम्पूज्य मूलमुच्चरन् श्रीशरभेश्वरपूजायाः[^141] सामान्यार्घ्याधारं स्थापयामीति संस्थाप[^142]तन्मध्ये नम इति जलेनापूर्य तत्र “गङ्गेचेति” मन्त्रेण तीर्थान्यावाह्य ओमिति गन्धादिमिः सम्पूज्य मूलेनाष्टधाभिमन्त्र्यधेनुयोनिमुद्रां प्रदर्ष्य[^143] (?)॥
 
@@ -949,7 +947,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 **अर्थ मन्त्रः विशोधनं यथा (?)**  
 
-**![](../books_images/U-IMG-1724610616Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724610616Screenshot2024-08-08063503.png"/>**
 
   यन्त्रात्मनोर्मध्ये चन्दनानुक्षिप्य¹वपुरस्रभूमौ मछ \[मत्स्य\] मुद्रया चतुरस्रवृत्तषट्कोणत्रिकोणात्मकमण्डलं विलिख्य तत्र वामदक्षिणाग्रेषु (?) सम्पूज्य—षट्कोणे षडङ्गैःसम्पूज्य—\[ सम्पूजयेत् \]
 
@@ -973,7 +971,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 उं उद्या (ड्याण) न पीठाय नम इति सम्पूज्य
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
 ¹विशेषार्घ्यस्थापनप्रस्तावे “अथ मन्त्रः विशोधनं यथा” इति पदानिमातृकायां दृश्यते॥ चन्दनोक्षिप्तचतुरस्रमण्डले मत्स्यमुद्रया चतुरस्रवृत्तषट्कोणत्रिकोणं विखिख्य॥
 
@@ -1082,13 +1080,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 [^149]: "धेनुयोनिमुद्रां प्रदर्श्य।"
 
 अथ द्रव्यपञ्चकशोधनानन्तरं चक्रोद्धारं कृत्वा पीठपूजां कृत्वा[^150])  
-![](../books_images/U-IMG-1724694903Screenshot2024-08-26232450.png)
+<MISSING_FIG href="../books_images/U-IMG-1724694903Screenshot2024-08-26232450.png"/>
 
 [^150]: "कुर्यात्॥"
 
 **॥अथ चक्रोद्धारः॥**  
 
-**![](../books_images/U-IMG-1724694914Screenshot2024-08-26232417.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724694914Screenshot2024-08-26232417.png"/>**
 
 त्रिकोणं विलिखेत्पूर्वं तद्बहिर्वृत्तमालिखेत्।  
 तद्बहिश्चाष्टपत्रं तु द्वादशारं ततः परम्॥३५॥
@@ -1105,7 +1103,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 त्रिकोणवृत्तमध्ये तु चत्वारि विलिखेत्क्रमात्।  
 इन्द्रमग्निं यमं चैव निर्ऋतिं वरुणं तथा॥३९॥
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
  2. पूजाद्रव्येषु मुख्यतमस्य गन्धादिपञ्चकस्य विशेषार्घ्यामृतबिन्दुभिः शोधनं कुर्यादिति॥4.भूपुरयुग्मकोल्लेखादनन्तरं तत्र यन्त्रे लेखनीयाक्षराणां विवरणमदत्वा पूजायाः कर्तव्यतात्र लिखिता॥
 
@@ -1146,7 +1144,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति यन्त्रम्॥
 
-**![](../books_images/U-IMG-1724688811Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724688811Screenshot2024-07-21061650.png"/>**
 
 यन्त्रेलेखनीयान्यक्षराणि विव्रियन्ते—
 
@@ -1172,7 +1170,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 [^159]: " षोडशारे।"
 
-  अधिदैवतबीजाः -[^160](ओं) सौं श्रौं ह्रौं ह्रां घ्रां घ्रैंज्मां पचयूं त्रैं ओं ऐं ओं कं ड्यों डं ङं ह्रों पूर्वादिगं[^161] धं स्कं मं व्यायव्यादि[^162] = त्रैं घ्र्यां वं ई इति देव बीजस्थापनं कृत्वा पीठपूजां प्राणप्रतिष्ठामावरणं[^163] च कुर्यात्—
+  अधिदैवतबीजाः -[^160] (ओं) सौं श्रौं ह्रौं ह्रां घ्रां घ्रैंज्मां पचयूं त्रैं ओं ऐं ओं कं ड्यों डं ङं ह्रों पूर्वादिगं[^161] धं स्कं मं व्यायव्यादि[^162] = त्रैं घ्र्यां वं ई इति देव बीजस्थापनं कृत्वा पीठपूजां प्राणप्रतिष्ठामावरणं[^163] च कुर्यात्—
 
 [^160]: "अधिदैवतबीजानि।"
 
@@ -1314,9 +1312,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 अवकुण्ठितो भव[^180]
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
-
 [^180]: "सम्मुखो भव।"
+
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
 * 7. ओं खें खां खं फट् नवग्रहासि प्राणग्रहासि हुं फट् सर्वशत्रु संहा(ह)रणाय शरभसालुवाय पक्षिराजाय हुंफट् स्वाहा आवाहितो भव इत्यादि।*
 
@@ -1352,7 +1350,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 पुनर्मूलान्ते इदमाचमनीयं मुखेसमर्पयामि नमः
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>  
 
 *2.स्वामिन् प्रसीद प्रसीद, स्वामिन् सर्वजगन्नाथ यावत्पूजावसानकम्। तावत्त्वं प्रीतिभावेन यन्त्रे बिम्बेऽस्मिन् सन्निधिं कुरु॥ इतिसार्वजनीन आवाहनप्रकारः॥  
   3. प्राणप्रतिष्ठां कुर्यात् इत्येव सङ्गच्छते पीठपूजायाः निर्वर्तितत्वात् “पीठपूजां”इति उद्वारः न युज्यते॥*
@@ -1397,7 +1395,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 [^189]: " कुर्यात्।"
 
-**![](../books_images/U-IMG-1724724257Screenshot2024-08-27073405.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1724724257Screenshot2024-08-27073405.png"/>**  
 
 **॥अथावरणपूजनम्॥**
 
@@ -1422,7 +1420,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति प्रथमावरणम्॥  
 
-**![](../books_images/U-IMG-1724723628Screenshot2024-07-21061650.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1724723628Screenshot2024-07-21061650.png"/>  
 
 ॥अथ द्वितीयावरणम्॥**
 
@@ -1438,9 +1436,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ओं भं भैरवं पूजयामि नमः (पुरतः)
 
-ओं [भ्रुं]("भ्रूंइति यन्त्रोल्लिखितं बीजम्।")बंडवाग्निं पूजयामि नमः (पश्चिमभागे)
+ओं भ्रुं[^250]बंडवाग्निं पूजयामि नमः (पश्चिमभागे)
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+[^250]: "भ्रूंइति यन्त्रोल्लिखितं बीजम्।"
+
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
 1, 2, 3 ओं अं चन्द्र पू०॥ ओं उं सूर्यं पू०॥ ओं मं महावह्निंपू० इति अथवा ओं चं चन्द्रं पू० ओं संसूर्यं पू० ओं रं महावह्निं इति वा युज्यते॥ यन्त्रे लेखनीयतयावर्णितबीजाक्षराणि तु घ्रां घ्रीं ऐं इति॥
 
@@ -1469,7 +1469,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति द्वितीयावरणम्॥  
 
-**![](../books_images/U-IMG-1724723107Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724723107Screenshot2024-07-21061650.png"/>**
 
 **॥अथ तृतीयावरणम्॥**
 
@@ -1516,7 +1516,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति तृतीयावरणम्॥  
 
-**![](../books_images/U-IMG-1724722444Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724722444Screenshot2024-07-21061650.png"/>**
 
 **॥अथ चतुर्थावरणम्॥**
 
@@ -1546,8 +1546,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ओं शत्रुं[^200] (?) पुलिन्दिनीं सायुधां पूजयामि नमः
 
-[^200]: "अत्र बीजानि शोधनीयानि सर्वत्र॥पूर्वतो भेदाः दृश्यन्ते॥"
-
 ओं क्ष्म्रांशास्तारं सायुधं पूजयामि नमः
 
 ओं क्ष्म्रुंक्षोभिणीं सायुधां पूजयामि नमः
@@ -1561,7 +1559,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 **अभीष्टसिद्धिं मे देहि शरणागतवत्सल।  
 भक्त्या समर्पये तुभ्यं चतुर्थावरणार्चनम्॥**
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>  
 
 *1. मध्ये एवं द्राविणीविषये प्रोक्तमपि देवतान्तराणामपि विषये युज्यत एव॥*
 
@@ -1569,11 +1567,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति चतुर्थावरणम्॥  
 
-**![](../books_images/U-IMG-1724687556Screenshot2024-07-21061650.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1724687556Screenshot2024-07-21061650.png"/>**  
 
 **॥अथ पञ्चमावरणम्॥**  
 
-**![](../books_images/U-IMG-1724687683Screenshot2024-07-11132644.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1724687683Screenshot2024-07-11132644.png"/>**  
 
   षोडशदले स्वाग्रादिप्रादक्षिण्येन पूजयेत् ।
 
@@ -1599,7 +1597,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ओं ऋ षं⁴ शिवंसाङ्गं सपरिवारंपूजयामि नमः
 
-![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
+<MISSING_FIG href="../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png"/>
 
 * 4. बीजानि संशोधनमर्हन्तीति ज्ञायते, यन्त्रे लेखनीयतयाप्रपञ्चितबीजाक्षरेभ्यः भेददर्शनात्।*
 
@@ -1627,11 +1625,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 इति सामान्यार्घ्योदकेन देवस्य दक्षिणहस्ते जलं समर्प्य मम शान्तिदाः शुभदाः सन्तु इति पुष्पाञ्जलिं समर्प्यनमेत्॥
 
 ॥इति पञ्चमावरणम्॥  
-**![](../books_images/U-IMG-1724687556Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724687556Screenshot2024-07-21061650.png"/>**
 
 **॥अथ षष्ठावरणम्॥**  
 
-**![](../books_images/U-IMG-1724680700Screenshot2024-07-08185832.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724680700Screenshot2024-07-08185832.png"/>**
 
   प्रथमभूपुरे पूर्वादि। चतुर्दिक्षु
 
@@ -1680,10 +1678,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति षष्ठावरणम्॥
 
-**![](../books_images/U-IMG-1724679694Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724679694Screenshot2024-07-21061650.png"/>**
 
 **॥अथ सप्तमावरणम्॥**  
-**![](../books_images/U-IMG-1724680700Screenshot2024-07-08185832.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724680700Screenshot2024-07-08185832.png"/>**
 
   ततः परितः वृत्तक्रमेण ब्रह्माद्या[^205] पूजयेत्
 
@@ -1765,12 +1763,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 इति सामान्यार्घ्योदकेन देवस्य दक्षिणहस्ते जलं समर्प्य मम शान्तिदाः शुभदाः सन्तु इति पुष्पाञ्जलिं समर्प्य नमेत्॥
 
 ॥इति सप्तमावरणम्॥  
-**![](../books_images/U-IMG-1724679694Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724679694Screenshot2024-07-21061650.png"/>**
 
   इत्थमावरणपूजां कृत्त्वा पाद्यार्थ्याचमनीयं दद्यात्॥
 
 **॥समष्टिपूजा[^206]॥**  
-**![](../books_images/U-IMG-1724680700Screenshot2024-07-08185832.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724680700Screenshot2024-07-08185832.png"/>**
 
 [^206]: "सर्वावरणसहिताय श्री शरभेश्चराय इदं पाद्यमित्यादिरीत्या।"
 
@@ -1780,7 +1778,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 **॥अथ बलिदानम्॥**  
 
-**![](../books_images/U-IMG-1724730860Screenshot2024-08-27092409.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724730860Screenshot2024-08-27092409.png"/>**
 
   तत्रेशानाऽऽग्नेयनिर्ऋतिवायव्यकोणेषु सामान्य[^208] (?) मण्डल - चतुष्टयं कृत्वा
 
@@ -1807,7 +1805,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति वटुकवलिः॥  
 
-**![](../books_images/U-IMG-1724731198Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724731198Screenshot2024-07-21061650.png"/>**
 
   (अथ) आग्नेयमण्डले “यां योगिनीभ्यो नमः”
 
@@ -1833,7 +1831,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
   इति पुष्पाञ्जलिं दत्त्वा नमेत्॥
 
 ॥इति योगिनीबलिः॥  
-**![](../books_images/U-IMG-1724666320Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724666320Screenshot2024-07-21061650.png"/>**
 
   अथ निर्ऋतिमण्डले क्षेत्रपालाय नमः इति क्षेत्रपालमावाह्य गन्धादिभिः सम्पूज्य
 
@@ -1846,7 +1844,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति क्षेत्रपालबलिः॥
 
-**![](../books_images/U-IMG-1724666320Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724666320Screenshot2024-07-21061650.png"/>**
 
   अथ वायव्यमण्डले "गं गणपतये नमः" इति गणपतिमावाह्य गन्धादिभिः सम्पूज्य "गणपतिबलिद्रव्याय नमः" इति बलिद्रव्यं पूजयेत्॥
 
@@ -1859,7 +1857,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति गणपतिबलिः॥  
 
-**![](../books_images/U-IMG-1724666665Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724666665Screenshot2024-07-21061650.png"/>**
 
   ततः स्ववामभागे सर्वभूतबलिं दद्यात्॥
 
@@ -1877,7 +1875,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति भूतबलिः॥  
 
-**![](../books_images/U-IMG-1724666665Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724666665Screenshot2024-07-21061650.png"/>**
 
   ओं सर्वेभ्यो बलिदेवेभ्यो नमः इति सर्वमभ्यर्च्य नाराचमुद्रां बुध्वा
 
@@ -1904,7 +1902,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इत्यारात्रिकविधिः॥
 
-**![](../books_images/U-IMG-1724667025Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724667025Screenshot2024-07-21061650.png"/>**
 
 ततः मूलमष्टोत्तरशतं जपेत्॥  
 ततः[^214]कवचस्तोत्रसहस्रनामादिपारायणं कुर्यात्॥
@@ -2146,7 +2144,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 **॥अनुबन्धः॥**
 
-**![](../books_images/U-IMG-1724659411Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724659411Screenshot2024-07-21061650.png"/>**
 
 **॥मालामन्त्रः॥**
 
@@ -2154,11 +2152,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 ॥इति मालामन्त्रः॥
 
-**![](../books_images/U-IMG-1724659411Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724659411Screenshot2024-07-21061650.png"/>**
 
 **॥अथ श्रीशरभेश्वरकवचम्॥**  
 
-**![](../books_images/U-IMG-1724659952Screenshot2024-08-04235410.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724659952Screenshot2024-08-04235410.png"/>**
 
 **शिव—(उवाच)**
 
@@ -2501,14 +2499,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 **॥इति श्रीशरभेश्वरकवचम्॥**
 
-**![](../books_images/U-IMG-1724602746Screenshot2024-08-25214835.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724602746Screenshot2024-08-25214835.png"/>**
 
 *APPENDIX*
 
 **सभाष्यम्॥**
 
 **॥निग्रह—दारुण—सप्तकम्॥  
-![](../books_images/U-IMG-1724640347Screenshot2024-07-18063849.png)**
+<MISSING_FIG href="../books_images/U-IMG-1724640347Screenshot2024-07-18063849.png"/>**
 
 ॥श्री गणेशाय नमः॥
 
@@ -2665,7 +2663,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3MDg5OTU3NzQ
 
 **॥इति श्रीआकाशभैरवकल्पे प्रत्यक्षसिद्धिप्रदे नरसिह्मकृता  
 शरभस्तुतिः समाप्ता॥**  
-**![](../books_images/U-IMG-1724687556Screenshot2024-07-21061650.png)![](../books_images/U-IMG-1724687556Screenshot2024-07-21061650.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724687556Screenshot2024-07-21061650.png"/><MISSING_FIG href="../books_images/U-IMG-1724687556Screenshot2024-07-21061650.png"/>**
 
 \]
-

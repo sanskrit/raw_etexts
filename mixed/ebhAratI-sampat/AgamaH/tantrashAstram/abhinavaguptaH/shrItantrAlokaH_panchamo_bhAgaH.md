@@ -42,18 +42,18 @@ Published by the Research Department, JAMMU & KASHMIR STATE, Srinagar.
 
 **आचार्याभिनवगुप्तपादविरचिते**
 
-![](../../../../../books_images/U-IMG-1720448472Screenshot_2024-07-08_193816-removebg-preview.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1720448472Screenshot_2024-07-08_193816-removebg-preview.png"/>
 
 **अष्टममाह्निकं**
 
 जयरथकृतविवेकाख्यव्याख्योपेतम्।
 
-![](../../../../../books_images/U-IMG-1720448500Screenshot_2024-07-08_193825-removebg-preview.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1720448500Screenshot_2024-07-08_193825-removebg-preview.png"/>
 
 जयकीर्तिरयं जयताज्जगदम्भोजं विभक्तभुवनदलम्।  
 रविरिवविकासयति यश्चिदेकनालाश्रयत्वेन॥
 
-![](../../../../../books_images/U-IMG-1720448627Screenshot_2024-07-08_195253-removebg-preview.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1720448627Screenshot_2024-07-08_195253-removebg-preview.png"/>
 
  इदानीं द्वितीयार्धेन देशाध्वनः स्वरूपं संगिरितुमुपक्रमते
 
@@ -1395,7 +1395,9 @@ Published by the Research Department, JAMMU & KASHMIR STATE, Srinagar.
 गुणतत्त्वे निलीयन्ते ततः सृष्टिमुखे पुनः।  
 पात्यन्ते मातृभिर्घोरयातनौघपुरस्सरम्॥'
 
-इति, तत् कथमेतदुक्तं [यद्भारतात्](#) अन्यद्भोगभूरेव? इत्याशङ्क्याह
+इति, तत् कथमेतदुक्तं यद्भारतात्[^90] अन्यद्भोगभूरेव? इत्याशङ्क्याह
+
+[^90]: #
 
 अत्र बाहुल्यतः कर्म-  
 भूभावोऽत्राप्यकर्मणाम्।  
@@ -2043,12 +2045,12 @@ Published by the Research Department, JAMMU & KASHMIR STATE, Srinagar.
 
  अत्र च तमःस्थाने श्रीसिद्धयोगीश्वरमतोक्तं विशदयति[^13]
 
+[^13]: " विशेषं दर्शयति इति पाठः।"
+
 सिद्धातन्त्रेऽत्र गर्भाब्धे-  
 स्तीरे कौशेयसंज्ञितम्।  
 मण्डलं गरुडस्तत्र  
 सिद्धपक्षसमावृतः॥११५॥
-
-[^13]: " विशेषं दर्शयति इति पाठः।"
 
 क्रीडन्ति पर्वताग्रे ते  
 नव चात्र कुलाद्रयः।  

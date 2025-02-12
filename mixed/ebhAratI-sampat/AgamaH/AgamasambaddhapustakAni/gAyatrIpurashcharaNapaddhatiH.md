@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDA
 
 **आनन्दाश्रममुद्रणालयस्थग्रन्थानां सूचीपत्रम्।**
 
-![](../books_images/U-IMG-172277133245-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-172277133245-removebg-preview.png"/>
 
 |     |                                                                |
 |-----|:--------------------------------------------------------------:|
@@ -122,7 +122,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDA
 
 **आनन्दाश्रमसंस्कृतग्रन्थावलिः।**  
 
-![](../books_images/U-IMG-1722855397Screenshot2024-08-05155259.png)
+<MISSING_FIG href="../books_images/U-IMG-1722855397Screenshot2024-08-05155259.png"/>
 
 **ग्रन्थाङ्कः ७३**
 
@@ -131,7 +131,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDA
 
 **गायत्रीपुरश्चरणपद्धतिः**
 
-![](../books_images/U-IMG-172277625247-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-172277625247-removebg-preview.png"/>
 
 वे० शा० रा० वैद्य इत्युपनामक रङ्गनाथशास्त्रिभिः  
 संशोधिता।
@@ -148,13 +148,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDA
 
 आयसाक्षरैर्मुद्रयित्वा  
 प्रकाशिता।  
-![](../books_images/U-IMG-1722856770Screenshot2024-08-05155405.png)
+<MISSING_FIG href="../books_images/U-IMG-1722856770Screenshot2024-08-05155405.png"/>
 
 **शालिवाहनशकाब्दाः १८३६**
 
 ख्रिस्ताब्दाः १९१४
 
-![](../books_images/U-IMG-1722856770Screenshot2024-08-05155405.png)
+<MISSING_FIG href="../books_images/U-IMG-1722856770Screenshot2024-08-05155405.png"/>
 
 (अस्याःसर्वेऽधिकारा राजशासनानुसारेण स्वायत्तीकृताः)
 
@@ -164,7 +164,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDA
 
 आदर्शपुस्तकोल्लेखपत्रिका।
 
-![](../books_images/U-IMG-172277739648-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-172277739648-removebg-preview(1"/>.png)
 
  अनयोर्गायत्रीपुरश्चरणपद्धत्योः पुस्तके यैः परहितैकपरतया प्रदत्तेतेषां नामादि प्रदृश्यते।
 
@@ -174,15 +174,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDA
 
 समाप्तेयमादर्शपुस्तकोल्लेखपत्रिका।
 
-![](../books_images/U-IMG-172277723649-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-172277723649-removebg-preview.png"/>
 
 **श्रीमच्छंकराचार्यविरचिता**
 
-![](../books_images/U-IMG-172277754248-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-172277754248-removebg-preview(1"/>.png)
 
 **गायत्रीपुरश्चरणपद्धतिः।**
 
-![](../books_images/U-IMG-172277775850-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-172277775850-removebg-preview.png"/>
 
 **सवितारं प्रणम्याऽऽदौ सावित्रीं श्रीगुरुं मुनीन्।  
 विश्वामित्रं वसिष्ठं च गायत्रीपद्धतिं ब्रुवे॥१॥**
@@ -1671,15 +1671,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDA
 
 इति श्रीमदाचार्यशंकरगुरुविरचिता सर्ववेदशास्त्रपुराणतन्त्रसंमता गायत्रीपद्धतिः समाप्ता।
 
-![](../books_images/U-IMG-1723036320Screenshot2024-08-07184130.png)
+<MISSING_FIG href="../books_images/U-IMG-1723036320Screenshot2024-08-07184130.png"/>
 
 **घारे इत्युपनामकशंकरसूरिविरचिता**
 
-**![](../books_images/U-IMG-172294230251-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172294230251-removebg-preview.png"/>**
 
 **गायत्रीपुरश्चरणपद्धतिः।**
 
-**![](../books_images/U-IMG-172294235052-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172294235052-removebg-preview.png"/>**
 
 **हेरम्बं प्रणिपत्य सद्गुणनिधिं बल्लालसंज्ञं तत।  
 नानाशास्त्रविचारणैकनिपुणं ज्ञानाब्धिपूर्णं गुरुम्॥  
@@ -2109,7 +2109,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAxNDgyMjgyNDA
 
 भवघारे इत्युपनामकबल्लालसूनुशंकरविरचितायां गायत्रीपुरश्चरणपद्धतावुपोद्घातप्रकरणम्।
 
-**![](../books_images/U-IMG-1723085625Screenshot2024-08-08082201.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723085625Screenshot2024-08-08082201.png"/>**
 
  अथ विश्वामित्रवसिष्ठकल्पानुयायी प्रयोगोलिख्यते। तत्राऽऽदौ गायत्रीपुरश्चरणप्रारम्भदिनकृत्यमुच्यते। तत्र दीक्षितो ब्राह्मे मुहूर्त उत्थाय रात्रिवासो विहायान्यत्परिधाय हस्तौ पादौ प्रक्षाल्य द्विराचम्यसमुपविश्य श्रीगुरुं ध्यायेत्। तद्यथा—ब्रह्मरन्ध्रस्थश्वेतसहस्रदलकर्णिकान्तर्गतचिदमृतमण्डलमध्यस्थहंसपीठस्थं श्रीगुरुं ध्यात्वा मानसोपचारैः संपूज्य प्रणम्य तद्रूपमात्मानं ध्यायन्गायत्रीवाच्यमात्मरूपं तेजो मूला\[धारा\]दिविधिबिलान्तं ध्यात्वा तत्प्रभाविद्धमात्मदेहं ध्यात्वा यथावदुच्चारादिमुखप्रक्षालनान्तं निर्वर्त्य नद्यादौ गृहे वा स्वशाखोक्तमार्गेणस्नात्वा तिलकादिसंध्यावन्दनान्तं निर्वर्तयेत्। ततो दीक्षितः संभृतसंभारो दर्भेष्वासीनो दर्भान्धारयमाणः प्राङ्गमुख उदङ्मुखो वाशुचीनध्यात्मविदो मन्त्रविदो ब्राह्मणानुपवेश्येष्टदेवताब्राह्मणवन्दनपूर्वकं प्रधानसंकल्पं कुर्यात्। तत्र केचन केवलं त्रिपदायाः सावित्र्याश्चतुर्विंशतिलक्षात्मकं
 

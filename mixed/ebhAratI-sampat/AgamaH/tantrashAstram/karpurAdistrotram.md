@@ -19,13 +19,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjkxOTQ3MDc
 
 [TABLE]
 
-![](../books_images/U-IMG-1722250590Screenshot2024-07-29162357.png)
+<MISSING_FIG href="../books_images/U-IMG-1722250590Screenshot2024-07-29162357.png"/>
 
 [TABLE]
 
 **PUBLISHERS’ NOTE**  
 
-**![](../books_images/U-IMG-1721726970Screenshot2024-07-11131326.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721726970Screenshot2024-07-11131326.png"/>**
 
   The Orientalists’ system of transliteration has been followed in this work.
 
@@ -41,7 +41,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjkxOTQ3MDc
 
 CONTENTS  
 
-![](../books_images/U-IMG-1721732310Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721732310Screenshot2024-07-18063849.png"/>
 
 |                                                                                     |
 |-------------------------------------------------------------------------------------|
@@ -79,7 +79,7 @@ CONTENTS
 | Appendix IV व्याख्यानोदाहृतप्रमाणग्रन्थानामनुक्रमः   |
 | Appendix V व्याख्यानोदाहृतप्रमाणवाक्यानामनुक्रमः     |
 
-![](../books_images/U-IMG-1721732831Screenshot2024-07-12171137.png)
+<MISSING_FIG href="../books_images/U-IMG-1721732831Screenshot2024-07-12171137.png"/>
 
 By the same Author  
 
@@ -285,7 +285,7 @@ borne its fruit in ***Siddhi***. The Siddha-Kaula is beyond all rules.
 
 **30, May 1922.**
 
-![](../books_images/U-IMG-1721819390Screenshot2024-07-09151321.png)
+<MISSING_FIG href="../books_images/U-IMG-1721819390Screenshot2024-07-09151321.png"/>
 
 **INVOCATION**
 
@@ -415,7 +415,7 @@ Whose hair is dishevelled (Muktakeśī)
 
   Because though Herself changeless She binds infinite numbers of Jīvas by bonds of Māyā, symbolized by Her dishevelled hair and because She makes liberated (Mukta) Brahmā, Viṣṇu and Maheśvara who are Keśa²,  
 
-![](../books_images/U-IMG-1721843025Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721843025Screenshot2024-07-18063849.png"/>
 
 ¹This is a play on the word Ghana which means mass and black or dark blue cloud. Cidghana is massive, compact, unmixed, pure Consciousness (Cit). Again She is Nirguṇa and stainless but is also Meghāṇgī (cloud-bodied) because through Adhyāsa of the three Guṇas She appears varicoloured just as a cloud in itself colourless appears white, blue, and so forth by contact with the sun’s rays. So Devī-Purāṇa says, ‘Just as the uniform cloud appears as of many colours, so does She too through the instrumentality of the Guṇas.
 
@@ -443,7 +443,7 @@ Whose hair is dishevelled (Muktakeśī)
 
   Whose upper left hand is depicted as wielding a sword,
 
-![](../books_images/U-IMG-1721842456Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721842456Screenshot2024-07-18063849.png"/>
 
 ¹White Teeth stand for the white Sattva Guṇa, the red Tougue stands for the red Rajo-Guṇa and Delusion is the Tamo-Guṇa. The meaning is, the Mahāvidyā is represented with a lolling tongue because She first destroys the Sādhaka’s Tamo-Guṇa by increasing his Rajo-Guṇa, and large teeth because by increasing his Sattva Guṇa and suppressing his Rajo- Guṇa She grants him the state of Nirguṇa-Brahman. In the Dhyāna of Tārāit is said, ‘ UgratārāHerself destroys the *Jādya* (unconscious nature) of the three worlds by putting it in her skull-cup.’
 
@@ -501,17 +501,17 @@ O Mother of the World, obeisance.
 
 **ŚRī VIMALĀNANDA-ŚVĀMĪ**
 
-![](../books_images/U-IMG-1721829758Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721829758Screenshot2024-07-18063849.png"/>
 
   ¹The Ś'vāmī also points out that the ‘Kr’ sound in this Mantra is also to be found in the word Christ and in the Mussulman’s Karīm. See Māya Tantra Ch. vii for the Yavana-Bīja.
 
 **HYMN TO KĀLĪ**  
 
-![](../books_images/U-IMG-1721829434Screenshot2024-07-18230445.png)
+<MISSING_FIG href="../books_images/U-IMG-1721829434Screenshot2024-07-18230445.png"/>
 
 (KARPŪRĀDI-STOTRA)  
 
-![](../books_images/U-IMG-1721829449Screenshot2024-07-08185832.png)
+<MISSING_FIG href="../books_images/U-IMG-1721829449Screenshot2024-07-08185832.png"/>
 
 **VERSE I**
 
@@ -563,7 +563,7 @@ Guṇa which is M. It is thus composed of Sattvaguna alone. The Jñādnasaṁkal
 
 * *Thou who should be meditated upon as of a dark (Nīla) colour because Thou art Cidākāsa and dost possess the compact Tejas Śuddhasattvaguṇa. In the Nirvāna Prakaraṇa of Yogavāśiṣṭa it is said, ‘ Because Śivāis Vyoma She is seen as black.’ Tripurāsāra- samuccaya says, ‘As heing Liberation, She who its attained by devotion (Bhakti) should be meditated on as being like the sky itself free from clouds.’
 
-![](../books_images/U-IMG-1721871846Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721871846Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -584,7 +584,7 @@ Guṇa which is M. It is thus composed of Sattvaguna alone. The Jñādnasaṁkal
   * ⁷Dhvāntadhārādhararuciructre*. Just as dark clouds, by shedding nectar-like rain, cool the earth parched by the sun’s rays, so too dost Thou, by shedding the nectar of Thy Grace, give immortality to Sādhakas tormented by the three forms of pain. *(Ādhyāmika, Ādhibhautika, Ādhidaivika)*. The *Rudrāyāmala* says, *‘Devī* is Supreme Sakti and delivers from all difficulties. She is dark with the refulgence of a million suns and is cooling like a million moons.’ (V).  
   ⁸Vimalānanda is also the name of the Commentator.
 
-![](../books_images/U-IMG-1721872449Screenshot2024-07-18230445.png)
+<MISSING_FIG href="../books_images/U-IMG-1721872449Screenshot2024-07-18230445.png"/>
 
 **VERSE 2**
 
@@ -618,7 +618,7 @@ O MAHEŚI¹ even should one of poor mind²at any time recite but once another do
 *(Mahāghorabālāvataṁse)*  
  There is however another reading given by Durgārāma-Siddhānta- vagīśa namely Mahāghorābalāvataṁse, that is whose earrings are formed of frightful arrows (Bāna)
 
-![](../books_images/U-IMG-1721879648Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721879648Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -642,7 +642,7 @@ O MAHEŚI¹ even should one of poor mind²at any time recite but once another do
 
   ¹⁰That is, to them are given eloquence and learning, riches and beauty.
 
-![](../books_images/U-IMG-1721879864Screenshot2024-07-11204324.png)
+<MISSING_FIG href="../books_images/U-IMG-1721879864Screenshot2024-07-11204324.png"/>
 
 **VERSE 3**
 
@@ -694,7 +694,7 @@ O KĀLIKĀ, O auspicious Kālikā¹with dishevelled hair,² from the corners of 
 
   The same commentator then says that there is a different reading for Dakshiṇe tryakṣareti, namely, Dakshiṇe Kāliketi which he explains in two ways (a) Dakshiṇe Kālike’ti=Dakshiṇe Kālike ati= Dakshiṇe atikālike. The last word is the vocative of Atikālikāwhich means Atikrānta (Sadṛgīkritā, made similar to) Kālikā (Meghajālaṁ; a bank of cloud) yayā(by whom) She —that is, She who looks like a bank of cloud; the whole then meaning ‘Oh Dakshiṇā who hast the appearance of a bank of clouds’ (b) Dakshiṇe Kāliketi = Dakshiṇe Kālike iti which means Oh DakshiṇāKālikā. The word ‘iti’ is Svarūpārthaka that is simply indicates that She is addressed as DakshiṇāKālika. Examples of the elision of ‘I’ after ‘E’ in Saṁdhi are Śakuntaleti and Meghajāle’pi Kāliketi.
 
-![](../books_images/U-IMG-1721885643Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721885643Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -763,7 +763,7 @@ name in the vocative case ‘ Dakshiṇe Kālike.’ The meaning of the passage 
 *‘Three eyed one (Tryaṁbaka)’*  
   \[The same commentator (Durgārāma) offers three explanations of the term Tryaṁbaka used for Śiva (a) He who has three Aṁbakas or eyes is Tryaṁbaka, (6) He who has three Mothers or Aṁbās is Tryaṁbaka. The Kālikāpurāṇa says, ‘As Hara is born of three Mothers He is known, even amongst Devas, by the title Tryambaka. (ce) Todala-Tantra says ‘the VidyāBhuvanesvarīis in Heaven, Earth, and the Nether world (Pātāla). He who delights in the Devī as threefold in three places is called Tryaṁbaka. He is with Śakti and is worshipped in all Tantras.’}
 
-![](../books_images/U-IMG-1721886259Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721886259Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -783,7 +783,7 @@ time it is she who fills the ignorant with terror (*Paśuloka-bhayaṁkarī*)—
 * ⁸Tryaṁbaka* or *Śiva*. According to Tarkālaṁkāra’s Commentary on Mahānirvāṇa-Tantra, *Tryaṁbaka* means the father of the three Devas, Brahmā, Viṣṇu, and Rudra. The Ṛgvidhāna uses it as an equivalent of Mahādeva. The Mahānirvāṇa-Tantra says: As She surveys the entire universe, which is the product of time, with Her three eyes—the Moon, Sun, and Fire—therefore She is endowed with three eyes’ (Ullasa xiii, verse 8) The Moon, Sun, and Fire are the *Icchā, Kriyā, Jñūna* and other Śaktis (see the Ṣatcakranirūipaṇa of Pūrṇanaṇda-Svāmi) and Serpent Power by a. Avalon.  
  ⁹By him who carries a flower its odour is enjoyed without seeking. By him who looks upon himself as the universal Self the powers (of Brahmā, etc.) are enjoyed’ (Commentary of Sureśvarācārya on tenth *Śloka* of *Dakṣināmūrti Stotra*)
 
-*![](../books_images/U-IMG-1721884338Screenshot2024-07-09101742.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1721884338Screenshot2024-07-09101742.png"/>*
 
 OMOTHER, they who recite Thy charming *Bīja,* composed of the first of the group of letters,’¹ followed by *Vahnī*² *Ratī³*and beautified by *Vidhu^(,4)*thrice, the *Kūrca Bīja⁵*’ twice, and there-after, O Smiling Face, the *Lajjā*⁵*Bīja* twice, followed by the two *Thas*,7 they, O Spouse of the Destroyer of the Deva of Desire⁸ contemplating Thy true form,⁹become themselves the Deva of Love whose eyes are as beautiful as the peta!s of the lotus which Lakṣmī holds in Her playful dance.¹⁰
 
@@ -838,7 +838,7 @@ I is Mahāmayā, Nādathe Generatrix by the Universe and Bindu the dispeller of 
 
   They acquire the power of assuming whatever form they desire and of charming the whole world with their beauty.
 
-![](../books_images/U-IMG-1721883207Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721883207Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -855,7 +855,7 @@ I is Mahāmayā, Nādathe Generatrix by the Universe and Bindu the dispeller of 
 
 *          *
 
-![](../books_images/U-IMG-1721976173Screenshot2024-07-11132644.png)
+<MISSING_FIG href="../books_images/U-IMG-1721976173Screenshot2024-07-11132644.png"/>
 
 O DEVĪ¹ of full breasts,²whose throuat is adorned with a garland of heads, They who meditating³recite any one or two or three of Thy very secret and excelling *Bījas* or all thereof⁴together with Thy name,⁵in the moonlike face of all such the Devī of Speech⁶ever Wanders, and in their lotus-like eyes Kamalā‘ ever plays.⁸
 
@@ -879,7 +879,7 @@ Eyes (Netra)
 
   Not to speak of themselves being wealthy, the sight of them gives wealth to others. , Bhairava Tantra says that Kamalā and the Devī of speech never forsake them for three generations downwards.  
 
-![](../books_images/U-IMG-1721881242Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721881242Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -892,7 +892,7 @@ Eyes (Netra)
  ⁷*Lakṣmi:* for them is all learning, wealth, and prosperity (seeMahānirvāṇa-Tantra, *Uliāsa*, vii, verse 50).  
   ⁸In the other words they become rich and learned.
 
-![](../books_images/U-IMG-1721220133Screenshot2024-07-16102640.png)
+<MISSING_FIG href="../books_images/U-IMG-1721220133Screenshot2024-07-16102640.png"/>
 
 O MOTHER, even a dullard becomes a poet who meditates upon Thee raimented with space,’ three-eyed**²**Creatrix of the three worlds, whose waist ⁴ is^()beautiful with a girdle made of numbers of dead men’s arms, and who on the breast of a corpse,⁵ as Thy couch in the cremation-ground,⁶enjoyest Mahākāla.⁷
 
@@ -1037,7 +1037,7 @@ NOTES
 
   ⁸ As one does not become angry with animals (Pas'u or animal and ignorant men also called Paśu) because they do wrong, so do not be angry with us. It is moreover, the part of the great to overlook the faults of their inferiors (Commentator. K. B.)
 
-![](../books_images/U-IMG-1721908733Screenshot2024-07-11204324.png)
+<MISSING_FIG href="../books_images/U-IMG-1721908733Screenshot2024-07-11204324.png"/>
 
 **VERSE 10**
 
@@ -1108,7 +1108,7 @@ Japa.’ The Sādhaka who does Japa and meditation together soon attains success
 *“Great Powers’ (Mahāsiddhinivahāh)*  
  Such as that by which is gained Sālokya, Sārūpya, Sāyujya and Nirvāṇa forms of Liberation.
 
-![](../books_images/U-IMG-1722171187Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1722171187Screenshot2024-07-18063849.png"/>
 
 NOTES
 
@@ -1146,7 +1146,7 @@ O MOTHER, Thou givest birth to and protectest the world, and at the time of diss
 
 and dissolution. The world being constituted of the three Guṇas, Brahmā, Viṣṇu and Rūdra are Her Vikṛtis.’
 
-![](../books_images/U-IMG-1722171847Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1722171847Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -1155,7 +1155,7 @@ and dissolution. The world being constituted of the three Guṇas, Brahmā, Vi�
   ³*Śiva*. The *Trimūrti* is, in fact, Her manifestation.  
   ⁴*Prāyah sakalaṁ aþi*, that is, all moving and unmoving things (Commentary, K.B.). For the Devī is *Viśvarūpiṇ*ī in the form of the whole universe. She is the objective world, *‘jadātmikā’* (Lalitā, verse 90), as well as its Cause.
 
-![](../books_images/U-IMG-1721105828Screenshot2024-07-16102640.png)
+<MISSING_FIG href="../books_images/U-IMG-1721105828Screenshot2024-07-16102640.png"/>
 
 **VERSE 13**
 
@@ -1178,7 +1178,7 @@ COMMENTARY
 *Wine’*  
  That is Rasa.
 
-![](../books_images/U-IMG-1722172244Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1722172244Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -1190,7 +1190,7 @@ COMMENTARY
   ⁵*Rati-rasa-mahānanda-niratām.* The Devī delights in creation, which is the fruit of Her union with the *Puruṣa* (Śiva). “Great Bliss,’ for, as on the physical plane *yadrūpaṁ paramānandam tan nāsti* bhuvanatraye (Mātṛkābheda-Tantra, chap. ii), it is the counterpart on that plane of the ecstatic union which produced the Universe itself. It is the reflection of the higher Bliss attainable even here by the union of Śivaśakti (in the form of Kuṇdalinī) in the *Sahasrāra*. Some read *Rasikāṁ* for *Niratām*.  
   ⁶*Viṣṇu, Śiva,* and *Brahmā* . What, then, is the use of praying to Brahmā , *Viṣṇu*, and *Śiva* when they themselves worship Her? (Commentary, K.B.). Cf. also Devibhāgavata, loc. cit. The *Devi* is Mother of all, from *Brahmdā* to the lowliest worm (*Ābrahmākhilajanani*, Lalitā 67).
 
-![](#)![](../books_images/U-IMG-1721107416Screenshot2024-07-16102640.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1721107416Screenshot2024-07-16102640.png"/>
 
 O KALĪ, spouse of Giris’a,¹ Thou art Earth, Water, Fire, Air and Ether.² Thou art all. Thou art one and beneficent.³ What can be said in praise of Thee, O Mother? Of Thy mercy show Thy favour towards me, helpless as I am. By Thy grace may I never be reborn.⁴
 
@@ -1221,7 +1221,7 @@ Earth and the rest through Thy MāyāThe Devīsūkta of the Ṛg-Veda says, ‘T
 *‘ Helþless’ (Agatikaṁ)*  
   On account of liability to rebirth despite Sādhana.
 
-![](../books_images/U-IMG-1722173829Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1722173829Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -1259,7 +1259,7 @@ Yājñavalkya-Saṁhitāsays, ‘The Moon is known to be in the Idā and the sun
 *‘ Self-produced Bīja'’ (Nijagalitavīryena)*  
  This Bīja is here the nectar which naturally flows from the thousand-petalled Lotus. The Mahānirvāṇa-Tantra says, ‘The Heart-Lotus shculd be offered for seat, the nectar (Amṛta) shed from the Sahasrāra for water to wash the feet, the mind as the offering (Arghya), Memory (Citta) is offered by way of flowers, and the vital airs (Praṇa) as and by way of incense.’ Jñānasarṁkalinī-Tantra says, ‘Libation (Tarpana) to the Supreme Liberatrix should be made from out the vessel of the Moon and Arghya should be given from out the vessel of the Sun. Compassion, wisdom, and forgiveness are flowers as is also control of the senses. So too are charity (Dayā) and religious merit. Non-injury (Ahiṁsā) to any being is an excellent flower. Bliss is a flower and so too is the worship of the Sādhaka. Whoever offers these ten flowers attains to the feet of the Liberatrix.’ In this verse Savikalpasamādhiyoga is indicated.
 
-![](../books_images/U-IMG-1722178390Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1722178390Screenshot2024-07-18063849.png"/>
 
 NOTES
 
@@ -1307,7 +1307,7 @@ in a moment, Oh Devī Parameśvari, nectar is forthwith produced. That nectar, O
 *‘Hair with its root’ (Cikuraṁ samūlaṁ)*  
   The mind with its functions. It is such Sādhaka who gains both enjoyment and Liberation.  
 
-![](../books_images/U-IMG-1722179920Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1722179920Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -1329,7 +1329,7 @@ in a moment, Oh Devī Parameśvari, nectar is forthwith produced. That nectar, O
 
   ⁶That is, he becomes a *Rajā*, and has no longer to go on foot iike common folk.
 
-![](../books_images/U-IMG-1721126712Screenshot2024-07-16102640.png)
+<MISSING_FIG href="../books_images/U-IMG-1721126712Screenshot2024-07-16102640.png"/>
 
 VERSE 17
 
@@ -1355,7 +1355,7 @@ COMMENTARY
 *"Is great’ (Prabhavati)  
  *He attains Nirvāṇa on being united with Thee who are Saccidānandarūpā. Kūrma-Purāṇa says, Brahmavādīs have learnt in all Vedas and Vedāntas the one, omnipresent, subtle (Kūtastha), immovable, absolute, endless, undecaying Brahman, the sole supreme Niṣkala-Tattva higher than the highest, eternal, auspicious, wondrous.’ Devīgitāsays ‘Oh Mountain, he in whom Parabhakti is thus generated becomes merged in Pure Consciousness.’
 
-![](../books_images/U-IMG-1722173773Screenshot2024-07-18063849.png)  
+<MISSING_FIG href="../books_images/U-IMG-1722173773Screenshot2024-07-18063849.png"/>  
 **NOTES**
 
 ^(1**)*Bhaktah*: here the Vira *Sādhaka* (V).  
@@ -1374,7 +1374,7 @@ COMMENTARY
 
 *Prabhavati:* becomes capable of creating and so forth on being merged with Thy Supreme Feet (V). The word literally means ‘ Excels.’
 
-![](../books_images/U-IMG-1721129311Screenshot2024-07-16102640.png)
+<MISSING_FIG href="../books_images/U-IMG-1721129311Screenshot2024-07-16102640.png"/>
 
 **VERSE 18**
 
@@ -1414,7 +1414,7 @@ He should move in Paramātmā with the good Śṛṅgārarasa. Becoming Ānandai
 ‘*Destroyer of Kāma’ (Smarahara)*  
   The Advaita-sādhaka attains Kaivalya by being merged in Thee ‘who art Paramātmā.
 
-![](../books_images/U-IMG-1721870885Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721870885Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -1429,7 +1429,7 @@ He should move in Paramātmā with the good Śṛṅgārarasa. Becoming Ānandai
 *  ⁵Smarahara. The destroyer of Kāma is Śiva Himself (V).*  
   That is, he becomes *Śiva* Himself, who destroyed *Smara* the *Deva* of Love (Kāma), with Fire from His central eye, when the latter, by the excitation of desire (towards Pārvatī), sought to detract him from his *yoga.* Or it may be translated ‘excels in beauty the God of Love.’
 
-![](../books_images/U-IMG-1721140936Screenshot2024-07-16102640.png)
+<MISSING_FIG href="../books_images/U-IMG-1721140936Screenshot2024-07-16102640.png"/>
 
 **VERSE 19**
 
@@ -1460,7 +1460,7 @@ O DARK One,¹ wondrous and excelling in every way,² becomes the accomplishment,
 *‘With hair and bone’ (Loma, asthi)*  
  That is the whole without omitting any part. Such Sādhakas attain the Sālokya and other forms of liberation.
 
-![](../books_images/U-IMG-1721881242Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721881242Screenshot2024-07-18063849.png"/>
 
 **NOTES**
 
@@ -1544,7 +1544,7 @@ O MOHTER, this Hymn of Thine is the source from whence originates Thy ***mantra.
 ²*Pūjā.*  
 ³That is, even his meaningless delirious talk, as in fever or madness,etc. (K.B.)
 
-     ![](../books_images/U-IMG-1721645543img_11.png)
+     <MISSING_FIG href="../books_images/U-IMG-1721645543img_11.png"/>
 
 VERSE 22
 
@@ -1589,7 +1589,7 @@ VERSE 22
 
 ***tadevatā-sūkṣatkāra-mukha* in which case the translation will be, He living in continuous bliss obtains direct Experience of the *Devatā* and is reborn life after life as Her devotee. According to the translation adopted complete liberation follows and in the other case some lower though happy state.**
 
-![](../books_images/U-IMG-1721144483Screenshot2024-07-16102640.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721144483Screenshot2024-07-16102640.png"/>  
 
 **OBEISANCE**
 
@@ -1603,7 +1603,7 @@ COLOPHON
 
 OṀ, TAT SAT, OṀ
 
-![](#)![](../books_images/U-IMG-1721144721Screenshot2024-07-16102640.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1721144721Screenshot2024-07-16102640.png"/>
 
 ¹The first Kāla is Mahākāla and the second is the produced Kāla,  
 ²Brahmā. , Viṣṇ
@@ -2663,7 +2663,7 @@ literature of which occupies a front rank in the religious life of Modern India 
 अस्य टीका विमलानन्ददायिनी स्वरूपव्याख्या च समाप्ता    
                ॥ॐ तत् सत् ॐ॥
 
-**    ![](../books_images/U-IMG-1721719296Screenshotvim.png) **
+**    <MISSING_FIG href="../books_images/U-IMG-1721719296Screenshotvim.png"/> **
 
 APPENDIX।
 
@@ -2930,7 +2930,7 @@ APPENDIX।
 **कर्पूरस्तवराजीयव्याख्यानयुगलंमुदा।  
 त्वदीयचरणाम्भोजे जगदम्ब समर्पये॥**
 
-**      ![](../books_images/U-IMG-1722169648img_11.png)**
+**      <MISSING_FIG href="../books_images/U-IMG-1722169648img_11.png"/>**
 
 **APPENDIX॥**
 
@@ -2964,7 +2964,7 @@ APPENDIX।
 **APPENDIX IV**
 
 **व्याख्यानोदाहृतप्रमाणग्रन्थानामनुक्रमः  
-![](../books_images/U-IMG-1722258753Screenshot2024-07-08185832.png)**  
+<MISSING_FIG href="../books_images/U-IMG-1722258753Screenshot2024-07-08185832.png"/>**  
 
 |                  |                       |
 |------------------|-----------------------|
@@ -3021,7 +3021,7 @@ APPENDIX।
 
 **व्याख्यानोदाहृतप्रमाणवाक्यानामनुक्रमः**  
 
-![](../books_images/U-IMG-1722258998Screenshot2024-07-08185832.png)  
+<MISSING_FIG href="../books_images/U-IMG-1722258998Screenshot2024-07-08185832.png"/>  
 
 |                          |                          |
 |:------------------------:|--------------------------|

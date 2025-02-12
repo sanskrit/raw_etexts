@@ -576,7 +576,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg0NTc1MTQ1MTE
 इति षष्ठोऽध्यायः।  
 —————
 
-![](../books_images/U-IMG-1725343705gggjjjjjk.png)
+<MISSING_FIG href="../books_images/U-IMG-1725343705gggjjjjjk.png"/>
 
 एकाक्षतामधिगतः पृथिवीमुखेषु,  
 भ्राम्यन् प्रकर्षमयते तनुजातबुद्धेः।  

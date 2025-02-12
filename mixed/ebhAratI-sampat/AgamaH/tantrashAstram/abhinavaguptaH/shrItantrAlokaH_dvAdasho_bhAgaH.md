@@ -34,17 +34,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0MzAxMDAzNDU
 
 श्रीतन्त्रालोके
 
-![](../../../books_images/U-IMG-1721217425Screenshot2024-07-17104458.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721217425Screenshot2024-07-17104458.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 
  श्रीजयरथकृतविवेकाख्यटीकोपेते
 
-![](../../../books_images/U-IMG-1721217483Screenshot2024-07-17104920.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721217483Screenshot2024-07-17104920.png"/>
 
 **त्रिंशमाह्निकम्।**
 
-![](../../../books_images/U-IMG-1721217528Screenshot2024-07-17105101.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721217528Screenshot2024-07-17105101.png"/>
 
 **सहजपरामर्शात्मकमहावीर्यसौधधौततनुम्।**  
 **अभिमतसाधकसाधकमनोऽनुगं तं मनोनुगं नौमि॥**
@@ -1091,21 +1091,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0MzAxMDAzNDU
 
  **इति श्रीतन्त्रालोकविवेके मन्त्रादिप्रकाशनं नाम त्रिंशमाह्निकम्॥३०॥**
 
-![](../../../books_images/U-IMG-1721582748Screenshot2024-07-21172433.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721582748Screenshot2024-07-21172433.png"/>
 
 अथ  
 
 श्रीतन्त्रालोके
 
-![](../../../books_images/U-IMG-1721582857Screenshot2024-07-17104458.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721582857Screenshot2024-07-17104458.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
  श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-1721582936Screenshot2024-07-17104920.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721582936Screenshot2024-07-17104920.png"/>
 
 **एकत्रिंशमाह्निकम्।**
 
-![](../../../books_images/U-IMG-1721583004Screenshot2024-07-17105101.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721583004Screenshot2024-07-17105101.png"/>
 
 विद्यामायाप्रकृतित्रिप्रकृतिकमध्वसप्तकारमिदम्।  
 विश्वत्रिशूलमभितो विकासयञ्जयति कौशिकः शंभुः॥
@@ -2431,14 +2431,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0MzAxMDAzNDU
 
 श्रीतन्त्रालोके  
 
-![](../../../books_images/U-IMG-17230066817904.png)
+<MISSING_FIG href="../../../books_images/U-IMG-17230066817904.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते
 
 **द्वात्रिंशमाह्निकम्।**  
 
-**![](../../../books_images/U-IMG-172300712679041.png)**
+**<MISSING_FIG href="../../../books_images/U-IMG-172300712679041.png"/>**
 
 शुद्धाशुद्धाध्वभिदा द्विगह्वरं मुद्रयत्यशेषजगत्।  
 संविद्रूपतया यः कलयतु स किल्विषं सतां कालः॥
@@ -3368,15 +3368,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0MzAxMDAzNDU
 
 श्रीतन्त्रालोके  
 
-![](../../../books_images/U-IMG-1723007253Screenshot_20240807_103647.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1723007253Screenshot_20240807_103647.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-172300745897042.png)
+<MISSING_FIG href="../../../books_images/U-IMG-172300745897042.png"/>
 
 चतुस्त्रिंशमाह्निकम्।  
 
-![](../../../books_images/U-IMG-172300748879041.png)
+<MISSING_FIG href="../../../books_images/U-IMG-172300748879041.png"/>
 
 सुशिवः शिवाय भूयाद्भूयोभूयः सतां महानादः।  
 यो बहिरुल्लसितोऽपि स्वस्माद्रूपान्न निष्क्रान्तः॥
@@ -3431,14 +3431,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0MzAxMDAzNDU
 **अथ**  
 
 **श्रीतन्त्रालोके  
-![](../../../books_images/U-IMG-172300757579043.png)**
+<MISSING_FIG href="../../../books_images/U-IMG-172300757579043.png"/>**
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-1723007617654.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1723007617654.png"/>
 
 **पञ्चत्रिंशमाह्निकम्।**  
-![](../../../books_images/U-IMG-172300769879044.png)
+<MISSING_FIG href="../../../books_images/U-IMG-172300769879044.png"/>
 
 तैस्तैर्भेदैरशेषमवतार्य मातृकासारम्।  
 जगदुद्धर्ता जयति विभुः सर्ववित्कोपः॥
@@ -3950,11 +3950,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0MzAxMDAzNDU
 
 **श्रीतन्त्रालोके**
 
-![](../../../books_images/U-IMG-1722178829Screenshot2024-07-28145954.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1722178829Screenshot2024-07-28145954.png"/>
 
 **षट्त्रिंशमाह्निकम्।**
 
-![](../../../books_images/U-IMG-1722178921Screenshot2024-07-28150142.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1722178921Screenshot2024-07-28150142.png"/>
 
 अंशांशिकाक्रमेण स्फुटमवतीर्णं यतः समस्तमिदम्।  
 शास्त्रं पूर्णाहन्तामर्शमयः शब्दराशिरवतु स वः॥
@@ -4170,15 +4170,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0MzAxMDAzNDU
 
 **श्रीतन्त्रालोके**
 
-![](../../../books_images/U-IMG-1722342390Screenshot2024-07-30122517.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1722342390Screenshot2024-07-30122517.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
  श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-1722342415Screenshot2024-07-30122529.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1722342415Screenshot2024-07-30122529.png"/>
 
 **सप्तत्रिंशमाह्निकम्।**
 
-![](../../../books_images/U-IMG-1722342441Screenshot2024-07-30122542.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1722342441Screenshot2024-07-30122542.png"/>
 
 यन्मयतयेदमखिलं परमोपादेयभावमभ्येति।  
 भवभेदास्त्रं शास्त्रं जयति श्रीमालिनी देवी॥

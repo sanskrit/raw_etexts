@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 **प्रथमप्रपाठके प्रथमः खण्डः।**
 
-![](../books_images/U-IMG-1720180497Screenshot2024-07-05172035.png)
+<MISSING_FIG href="../books_images/U-IMG-1720180497Screenshot2024-07-05172035.png"/>
 
 **ॐ नमः सामवेदाय।**
 
@@ -621,9 +621,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
  गोभिलेनापि, नान्दीमुखाः पितरः प्रीयन्तामिति दैवे वाचयित्वा नान्दीमुखेभ्यः पितृभ्यः पितामहेभ्यः प्रपितामहेभ्यः[^11]
 
-——————————————————————————————————————————————————————
-
 [^11]: "पितृपितामहप्रपितामहेभ्यः इति ख पुस्तके पाठः।"
+
+——————————————————————————————————————————————————————
 
 **प्रभा।**
 
@@ -760,7 +760,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 द्वितीयः खण्डः।
 
-![](../books_images/U-IMG-1720108999Screenshot2024-07-04212848.png)
+<MISSING_FIG href="../books_images/U-IMG-1720108999Screenshot2024-07-04212848.png"/>
 
 **प्रातरामन्त्रितान् विप्रान् युग्मानुभयतस्तथा।**
 
@@ -1196,7 +1196,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 तृतीयः खण्डः।
 
-![](../books_images/U-IMG-1720149264Screenshot2024-07-04212848.png)
+<MISSING_FIG href="../books_images/U-IMG-1720149264Screenshot2024-07-04212848.png"/>
 
 अक्रिया त्रिविधा प्रोक्ता विद्वद्भिः कर्म्मकारिणाम्।
 
@@ -1548,7 +1548,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 **चतुर्थः खण्डः।**
 
-**![](../books_images/U-IMG-1720696270Screenshot2024-07-11164022.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720696270Screenshot2024-07-11164022.png"/>**
 
 **उत्तरोत्तरदानेन पिण्डानामुत्तरोत्तरः।  
 भवेदधश्चाचरणादधोऽधः श्राद्धकर्मणि॥१॥  
@@ -1779,7 +1779,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 **पञ्चमः खण्डः।**
 
-![](../books_images/U-IMG-1720180497Screenshot2024-07-05172035.png)
+<MISSING_FIG href="../books_images/U-IMG-1720180497Screenshot2024-07-05172035.png"/>
 
 **असकृद् यानि कर्माणि क्रियेरन् कर्म्मकारिभिः।  
 प्रतियोगं नैव स्युर्मातरः श्राद्धमेवच॥१॥**
@@ -1971,7 +1971,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 **षष्ठः खण्डः।**
 
-**![](#)![](../books_images/U-IMG-1720753728Screenshot2024-07-11164022.png)**
+**<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1720753728Screenshot2024-07-11164022.png"/>**
 
 आधानकाला ये प्रोक्तास्तथा याश्चाग्नियोनयः।  
 तदाश्रयोऽग्निमादध्यादग्निमानग्रजो यदि॥१॥  
@@ -2305,7 +2305,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 —————
 
 **सप्तमः खण्डः।**  
-![](../books_images/U-IMG-1720783614Screenshot2024-07-12165622.png)
+<MISSING_FIG href="../books_images/U-IMG-1720783614Screenshot2024-07-12165622.png"/>
 
 **अश्वत्थोयः शमीगर्भः प्रशस्तोर्वीसमुद्भवः।  
 तस्य या प्राङ्मुखीशाखा योदीची योर्द्ध्वगाऽपि वा॥१॥**
@@ -2509,7 +2509,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 **अष्टमः खण्डः।**
 
-**![](../books_images/U-IMG-1720784974Screenshot2024-07-12171917.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720784974Screenshot2024-07-12171917.png"/>**
 
 **परिधायाहतं वासः प्रावृत्य च यथाविधि।  
 बिभृयात्प्राङ्मुखोयन्त्रमावृता वक्ष्यमाणया॥१॥**
@@ -2900,7 +2900,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 **नवमः खण्डः।**  
 
-**![](../books_images/U-IMG-1720795087Screenshot2024-07-12200746.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720795087Screenshot2024-07-12200746.png"/>**
 
 **सूर्येऽस्तशैलमप्राप्ते षट्त्रिंशद्भिरथाङ्गुलैः।  
 प्रादुष्करणमग्नीनां प्रातर्भासाञ्च दर्शने॥१॥**
@@ -3192,7 +3192,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 **दशमः खण्डः।**
 
-**![](../books_images/U-IMG-1720799178Screenshot2024-07-12171917.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720799178Screenshot2024-07-12171917.png"/>**
 
 **यथाऽहनि तथा प्रातर्नित्यं स्नायादनातुरः।  
 दन्तान् प्रक्षाल्य नद्यादौ गेहे चेत्तदमन्त्रवत्॥१॥**
@@ -3415,10 +3415,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 **उपाकर्म्मणि चोत्सर्गे स्नानार्थं ब्रह्मवादिनः।  
 यियासूननुगच्छन्ति संहृष्टाह्यशरीरिणः॥९॥**
 
-**समागमस्तु यत्रैषां [त](#)त्रान्ये[^32]बहवोमलाः।  
+**समागमस्तु यत्रैषां त[^61]त्रान्ये[^32]बहवोमलाः।  
 नूनँसर्वे क्षयं यान्ति किमुतैकं नदीरजः॥१०॥**
 
 [^32]: "तबैव इति पाठान्तरम् ।"
+
+[^61]: #
 
 ——————————————————————————————————————————————————————
 
@@ -3510,11 +3512,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 
 **अथ द्वितीयः प्रपाठकः।**
 
-**![](../books_images/U-IMG-172023427517.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172023427517.png"/>**
 
 **प्रथमः खण्डः।**
 
-![](../books_images/U-IMG-1720854482Screenshot2024-07-13123739.png)
+<MISSING_FIG href="../books_images/U-IMG-1720854482Screenshot2024-07-13123739.png"/>
 
 **अत ऊर्ध्वं प्रवक्ष्यामि सन्ध्योपासनिकं विधिम्।  
 अनर्हः कर्म्मणां विप्रः सन्ध्याहीनो यतः स्मृतः॥१॥**
@@ -3813,7 +3815,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 ——————————
 
 **द्वितीयः खण्डः।  
-![](../books_images/U-IMG-1720873941Screenshot2024-07-13180202.png)**
+<MISSING_FIG href="../books_images/U-IMG-1720873941Screenshot2024-07-13180202.png"/>**
 
 **वेदमादित आरभ्य शक्तितोऽहरहर्ज्जपेत्।  
 उपतिष्ठेत्ततो रुद्रमर्वाग्वा वैदिकाज्जपात्॥१॥**
@@ -4023,7 +4025,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2MDkwOTQ1OTE
 ————
 
 **तृतीयः खण्डः।**  
-**![](../books_images/U-IMG-1720875829Screenshot2024-07-13183334.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720875829Screenshot2024-07-13183334.png"/>**
 
 **पञ्चानामथ सत्राणां महतामुच्यते विधिः।  
 यैरिष्ट्वासततं विप्रः प्राप्नुयात् सद्म शाश्वतम्॥१॥**
@@ -4480,7 +4482,7 @@ General Secretary,
 
 **कर्मप्रदीपः।**
 
-**![](../books_images/U-IMG-1720879303Screenshot2024-07-13193125.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720879303Screenshot2024-07-13193125.png"/>**
 
 **परिशिष्टप्रकाशः।**
 

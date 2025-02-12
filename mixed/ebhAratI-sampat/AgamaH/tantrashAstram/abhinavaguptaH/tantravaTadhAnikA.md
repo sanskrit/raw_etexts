@@ -36,7 +36,7 @@ His Highness Lieut.-General Mahārāja
 Sir PRATĀP SINGH SĀHIB BAHĀDUR,  
 G. C. S. I., G. C. I. E., K. G. C. B. E., LL. D.,  
 MAHĀRĀJA OF JAMMU AND KASHMIR STATE.  
-![](../books_images/U-IMG-1720545573Untitled.png)  
+<MISSING_FIG href="../books_images/U-IMG-1720545573Untitled.png"/>  
 BOMBAY:  
 KASHMIR  
 PRINTED AT THE 'NIRNAYA-SAGAR' PRESS,  
@@ -52,13 +52,13 @@ Printed by Ramchandra Yesu Shedge, at the 'Nirnaya-sagar' Press,
 Mukund Ram Shastri for the Research Department,  
 Jammu and Kashmir State, SRINAGAR.**
 
-**![](../books_images/U-IMG-1720762057Untitled.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1720762057Untitled.png"/>**  
 **काश्मीर–संस्कृतग्रन्थावलिः ।**  
 **———**  
 **ग्रन्थाङ्कः २४**  
 **तन्त्रवटधानिका ।**
 
-![](../books_images/U-IMG-1721655555Screenshot2024-07-22190848.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721655555Screenshot2024-07-22190848.png"/>  
 **श्रीमन्महामाहेश्वराचार्यवर्य-श्रीमदभिनवगुप्ताख्याचार्य-  
 विशेषविरचिता ।**  
 **श्रीभारतधर्ममार्तण्ड-कश्मीरमहाराज-श्रीप्रतापसिंहवरप्रतिष्ठापिते  
@@ -73,7 +73,7 @@ Jammu and Kashmir State, SRINAGAR.**
 **मुम्बय्यां**  
 **निर्णयसागराख्यमुद्रणालये मुद्रापयित्वा प्राकाश्यमुपनीतः ।**
 
-![](../books_images/U-IMG-1720762211Untitled.png)  
+<MISSING_FIG href="../books_images/U-IMG-1720762211Untitled.png"/>  
 
 **संवत् १९७५                     खैस्ताब्दः १९१८**
 
@@ -94,11 +94,11 @@ Jammu and Kashmir State, SRINAGAR.**
 **श्रीसंविद्वपुषे शंकराय नमः**  
 **अथ**  
 **तन्त्रवटधानिका।**  
-**![](../books_images/U-IMG-1721656020Screenshot2024-07-22191610.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1721656020Screenshot2024-07-22191610.png"/>**  
 **श्रीमदभिनवगुप्ताख्याचार्यविशेषविरचिता ।  
 प्रथममाह्निकम् ।**
 
-**![](../books_images/U-IMG-1721656095Screenshot2024-07-22191740.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721656095Screenshot2024-07-22191740.png"/>**
 
 **प्रणम्य गुरुमीशानं सत्तन्त्रवटधानिका।  
 मयाभिनवगुप्तेन[^1] स्वशक्त्युद्दीप्तये कृता॥१॥  
@@ -361,6 +361,6 @@ Jammu and Kashmir State, SRINAGAR.**
 पूर्त्या शुद्ध्या व्याख्यया संस्कृतः स्तात्  
 पूर्णो ग्रन्थः श्रेयसे सज्जनानाम्॥३॥**
 
-**![](../books_images/U-IMG-1721669676Screenshot2024-07-22230410.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721669676Screenshot2024-07-22230410.png"/>**
 
 \]

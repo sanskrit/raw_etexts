@@ -48,15 +48,15 @@ Jammu and Kashmir Government, SRINAGAR.
 
 **श्रीतन्त्रालोके**
 
-![](../../../books_images/U-IMG-1721494420Screenshot2024-07-20222250.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721494420Screenshot2024-07-20222250.png"/>
 
 **श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते**  
-![](../../../books_images/U-IMG-1721494493Screenshot2024-07-20222408.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721494493Screenshot2024-07-20222408.png"/>
 
 **षोडशमाह्निकम्।**
 
-![](../../../books_images/U-IMG-1721494574Screenshot2024-07-20222536.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721494574Screenshot2024-07-20222536.png"/>
 
 प्रणमामि निखिलपाशप्रवाहसंभेदभेदबलभद्रम्।  
 बलभद्रं प्राणाश्वप्रचारचातुर्यपूर्णबलम्॥
@@ -2467,20 +2467,20 @@ Jammu and Kashmir Government, SRINAGAR.
 
  इति श्रीतन्त्रालोकविवेके प्रमेयप्रकाशनं नाम षोडशमाह्निकम्॥१६॥
 
-![](../../../books_images/U-IMG-1721638190Screenshot2024-07-22141857.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721638190Screenshot2024-07-22141857.png"/>
 
 **अथ**
 
 **श्रीतन्त्रालोके।**
 
-![](../../../books_images/U-IMG-1721638712Screenshot2024-07-22142749.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721638712Screenshot2024-07-22142749.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाव्यटीको पेते
 
 **सप्तदशमाह्निकम्।**
 
-![](../../../books_images/U-IMG-1721638822Screenshot2024-07-22142854.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721638822Screenshot2024-07-22142854.png"/>
 
 निजशक्तिजनितकर्मप्रपञ्चसंचारचातुरीविभवम्।  
 भवतरणबलप्रदतां समावहन्तं बलप्रदं नौमि॥
@@ -3391,22 +3391,22 @@ Jammu and Kashmir Government, SRINAGAR.
 
 इति श्रीतन्त्रालोकविवेके विक्षिप्तदीक्षाप्रकाशनं नाम सप्तदशमाह्निकम्॥१७॥
 
-![](../../../books_images/U-IMG-1721638190Screenshot2024-07-22141857.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721638190Screenshot2024-07-22141857.png"/>
 
 अथ
 
 **श्रीतन्त्रालोके**
 
-![](../../../books_images/U-IMG-1721720538Screenshot2024-07-23131137.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721720538Screenshot2024-07-23131137.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाव्यटीकोपेते
 
-![](../../../books_images/U-IMG-1721720678Screenshot2024-07-23131247.png)  
+<MISSING_FIG href="../../../books_images/U-IMG-1721720678Screenshot2024-07-23131247.png"/>  
 
 **अष्टादशमाह्निकम्।**
 
-![](../../../books_images/U-IMG-1721720785Screenshot2024-07-23131505.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721720785Screenshot2024-07-23131505.png"/>
 
 ऋतधामानमनन्तं बलावहं तं बलावहं वन्दे।  
 जगदिदममन्दमखिलं स्वमहिम्ना योऽनुगृह्णाति॥
@@ -3513,22 +3513,22 @@ Jammu and Kashmir Government, SRINAGAR.
 
 इति श्रीतन्त्रालोकविवेके संक्षिप्तदीक्षाप्रकाशनं नाम अष्टादशमाह्निकम्॥१८॥
 
-![](../../../books_images/U-IMG-1721638190Screenshot2024-07-22141857.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721638190Screenshot2024-07-22141857.png"/>
 
 **अथ**
 
 **श्रीतन्त्रालोके।**
 
-![](../../../books_images/U-IMG-1721722500Screenshot2024-07-23134429.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721722500Screenshot2024-07-23134429.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाव्यटीकोपेते
 
-![](../../../books_images/U-IMG-1721722686Screenshot2024-07-20222536.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721722686Screenshot2024-07-20222536.png"/>
 
 **एकान्नविंशमाह्निकम्।**
 
-![](../../../books_images/U-IMG-1721722709Screenshot2024-07-23134547.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721722709Screenshot2024-07-23134547.png"/>
 
 भवभेदविभवसंभवसंभेदविभेदबलवन्तम्।  
 बलवन्तं नौमि विभुं दारुणरूपग्रहाग्रहतः॥
@@ -4023,14 +4023,14 @@ Jammu and Kashmir Government, SRINAGAR.
 
 **श्रीतन्त्रालोके।**
 
-![](../../../books_images/U-IMG-1721891598654.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891598654.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-1721891650321456.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891650321456.png"/>
 
 विंशतितममाह्निकम्।  
-![](../../../books_images/U-IMG-1721891707852.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891707852.png"/>
 
 **जयति विभुर्बलदाता मूढजनाश्वासदायि येन वपुः।**  
 **बहिराद्यन्तवदपि मध्यशून्यमुल्लासितं सततम्॥**
@@ -4176,14 +4176,14 @@ Jammu and Kashmir Government, SRINAGAR.
 अथ
 
 **श्रीतन्त्रालोके**  
-![](../../../books_images/U-IMG-1721901999Untitled.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721901999Untitled.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-1721891707852.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891707852.png"/>
 
 **एकविंशतितममाह्निकम्।**  
-![](../../../books_images/U-IMG-1721902098Untitled2.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721902098Untitled2.png"/>
 
 भेदप्रथाविलापनबलेश्वरं तं बलेश्वरं वन्दे।  
 यः सकलाकलयोरपि मितात्मताया निषेधमादध्यात्॥
@@ -4754,14 +4754,14 @@ Jammu and Kashmir Government, SRINAGAR.
 
 **श्री तन्त्रालोके।**
 
-![](../../../books_images/U-IMG-1721901999Untitled.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721901999Untitled.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-1721891707852.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891707852.png"/>
 
 **द्वाविंशतितममाह्निकम्।**  
-![](../../../books_images/U-IMG-1721902098Untitled2.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721902098Untitled2.png"/>
 
 दुर्वृत्तजनकुसंस्कृतिसंहरणव्यावृतास्यतां दधतम्।  
 देवममन्दं वन्दे वन्दनमानन्दनं जगताम्॥१॥
@@ -5134,15 +5134,15 @@ Jammu and Kashmir Government, SRINAGAR.
 **अथ**
 
 **श्रीतन्त्रालोके।**  
-![](../../../books_images/U-IMG-1721901999Untitled.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721901999Untitled.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-1721902098Untitled2.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721902098Untitled2.png"/>
 
 त्रयोविंशतितममाह्निकम् ।
 
-![](../../../books_images/U-IMG-1721891707852.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891707852.png"/>
 
 आस्थाय भैरववपुर्निजाकृतेः संविभागेन।  
 विदधातु वः स भद्रं सर्वत इह सर्वतोभद्रः॥१॥
@@ -6052,14 +6052,14 @@ Jammu and Kashmir Government, SRINAGAR.
 **अथ**
 
 **श्रीतन्त्रालोके।**  
-![](../../../books_images/U-IMG-1721891598654.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891598654.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाव्यटीकोपेते  
-![](../../../books_images/U-IMG-1721891650321456.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891650321456.png"/>
 
 चतुर्विंशतितममाह्निकम्।  
-![](../../../books_images/U-IMG-1721891707852.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891707852.png"/>
 
 यः परमामृतकुम्भे धाम्नि परे योजयेद्गतासुमपि।  
 जगदात्मभद्रमूर्तिर्दिशतु शिवं भद्रमूर्तिर्वः॥१॥
@@ -6255,15 +6255,15 @@ Jammu and Kashmir Government, SRINAGAR.
 **अथ**
 
 **श्रीतन्त्रालोके।**  
-![](../../../books_images/U-IMG-1721891598654.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891598654.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-1721891707852.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891707852.png"/>
 
 **पञ्चविंशतितममाह्निकम्।**
 
-**![](../../../books_images/U-IMG-1721891650321456.png)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1721891650321456.png"/>**
 
 भीममधिष्ठाय वपुर्भवमभितो भावयन्निव यः।  
 प्रभवति हृदि भक्तिमतां शिवप्रदोऽसौ शिवोऽस्तु सताम्॥
@@ -6551,14 +6551,14 @@ Jammu and Kashmir Government, SRINAGAR.
 **अथ**
 
 **श्रीतन्त्रालोके।**  
-![](../../../books_images/U-IMG-1721891598654.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891598654.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपेते  
-![](../../../books_images/U-IMG-1721891650321456.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891650321456.png"/>
 
 **षड्विंशमाह्निकम्।**  
-**![](../../../books_images/U-IMG-1721891650321456.png)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1721891650321456.png"/>**
 
 भवति यदिच्छावशतः शिवपूजा विश्वलाञ्छनं विश्वक्।  
 विश्वं जयति स सुमनाः प्रपन्नजनमोचने सुमनाः॥१॥
@@ -7115,14 +7115,14 @@ Jammu and Kashmir Government, SRINAGAR.
 **अथ**
 
 **श्रीतन्त्रालोके।**  
-![](../../../books_images/U-IMG-1722071765Screenshot2024-07-27144528.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1722071765Screenshot2024-07-27144528.png"/>
 
 श्रीमन्महामाहेश्वराचार्याभिनवगुप्तविरचिते  
 श्रीजयरथकृतविवेकाख्यटीकोपते  
-![](../../../books_images/U-IMG-1721891707852.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891707852.png"/>
 
 **सप्तविंशतितममाह्निकम्।**  
-![](../../../books_images/U-IMG-1721891707852.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1721891707852.png"/>
 
 देवं चक्रव्योमग्रन्थिगमाधारनाथमजम्।  
 अपि परसंविद्रूढैः स्पृहणीयं स्पृहणमस्मि नतः॥
@@ -7569,6 +7569,6 @@ Jammu and Kashmir Government, SRINAGAR.
 सप्तविंशं व्यवृणोदाह्निकमेतज्जयरथाभिख्यः॥
 
 इति श्रीतन्त्रालोकविवेके लिङ्गार्चाप्रकाशनं नाम सप्तविंशमाह्निकम्॥२७॥  
-**![](../../../books_images/U-IMG-1722244413Screenshot2024-07-29132916.png)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1722244413Screenshot2024-07-29132916.png"/>**
 
 \]

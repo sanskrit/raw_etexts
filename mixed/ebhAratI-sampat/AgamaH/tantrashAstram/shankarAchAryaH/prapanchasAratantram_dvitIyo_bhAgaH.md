@@ -6830,7 +6830,7 @@ these works, because of the eminence of their authors and the intrinsic valueoft
 
 ***         ***
 
-![](../books_images/U-IMG-1723386671ebharati-design-12.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1723386671ebharati-design-12.jpg"/>
 
 **श्रीश्रीगणेशाय नमः।  
 श्रीश्रीशारदायै नमः।**

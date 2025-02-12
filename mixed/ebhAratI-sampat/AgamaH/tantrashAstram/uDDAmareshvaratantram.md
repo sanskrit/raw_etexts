@@ -39,7 +39,7 @@ His Highness' Government,
 Jammu & Kashmir.  
 SRINAGAR.
 
-![](../books_images/U-IMG-172076076524.png)
+<MISSING_FIG href="../books_images/U-IMG-172076076524.png"/>
 
 Published under the authority of the Government of  
 **His Highness Rajarajeshvara Maharajadhiraj**  
@@ -50,12 +50,12 @@ G. C. S. I., G. C. I. E., K. C. V. O., LL. D.
 PRINTED AT THE NORMAL PRESS, SRINAGAR.  
 1947 A. D.
 
-![](../books_images/U-IMG-172076087325.png)
+<MISSING_FIG href="../books_images/U-IMG-172076087325.png"/>
 
 कश्मीर-संस्कृतग्रन्थावलिः।  
 ग्रन्थाङ्कः ७०
 
-![](../books_images/U-IMG-172076102026.png)
+<MISSING_FIG href="../books_images/U-IMG-172076102026.png"/>
 
 **उड्डामरेश्वरतन्त्रम्**
 
@@ -69,14 +69,14 @@ PRINTED AT THE NORMAL PRESS, SRINAGAR.
 श्रीनगरे 'नार्मल प्रेस' मुद्रणालये मुद्रापयित्वा  
 प्राकाश्यमुपनीतम्।
 
-![](../books_images/U-IMG-172076118327.png)
+<MISSING_FIG href="../books_images/U-IMG-172076118327.png"/>
 
 कश्मीर - श्रीनगर
 
 संवत् २००४                              
               खैस्ताब्द : १९४७
 
-![](../books_images/U-IMG-172076129328.png)
+<MISSING_FIG href="../books_images/U-IMG-172076129328.png"/>
 
 (अस्य ग्रन्थस्य मुद्रापणाद्यधिकाराः प्रोक्तमहाराजवर्येः स्वायत्तीकृताः सन्ति)
 
@@ -90,13 +90,13 @@ Jammu & Kashmir Government,
 SRINAGAR.
 
 Uddamareshvara-Tantram  
-![](../books_images/U-IMG-172076148429.png)
+<MISSING_FIG href="../books_images/U-IMG-172076148429.png"/>
 
 PREFACE  
 
-![](../books_images/U-IMG-172076148429.png)
+<MISSING_FIG href="../books_images/U-IMG-172076148429.png"/>
 
- In the following pages is being presented Uddamareshvara-Tantram as No. LXX of the Kashmir Series of Texts and Studies. This edition is based on a manuscript belonging to His Highness' Private Library. It contains 26 folios. The script is Devanagari. Paper used is Kashmir made. Lines per page. are, on an average, 24 with the same number of letters per line. Size![](../books_images/U-IMG-172076161530.png) It is almost correct with the cxception of copyist's slips which are usually found in manuscripts written by illiterate and professional copyists whose knowledge is limited to mere mechanical copying.
+ In the following pages is being presented Uddamareshvara-Tantram as No. LXX of the Kashmir Series of Texts and Studies. This edition is based on a manuscript belonging to His Highness' Private Library. It contains 26 folios. The script is Devanagari. Paper used is Kashmir made. Lines per page. are, on an average, 24 with the same number of letters per line. Size<MISSING_FIG href="../books_images/U-IMG-172076161530.png"/> It is almost correct with the cxception of copyist's slips which are usually found in manuscripts written by illiterate and professional copyists whose knowledge is limited to mere mechanical copying.
 
  It begins with:—
 
@@ -256,7 +256,7 @@ Dated Pahlgam
                                 Udd. Tan. P 2
 
 उड्डामरेश्वरतन्त्रे विषयानुक्रमणी ।  
-![](../books_images/U-IMG-172076533824.png)
+<MISSING_FIG href="../books_images/U-IMG-172076533824.png"/>
 
 |                                 |                            |
 |:-------------------------------:|:--------------------------:|
@@ -402,7 +402,7 @@ Dated Pahlgam
 |   २५३ सर्पोच्चाटनमन्त्रः    | २७१ औषध्या कीटोत्पत्तियोगः |
 |                            |      २७२ कृषिनाशनयोगः      |
 
-![](../books_images/U-IMG-172080890331.png)
+<MISSING_FIG href="../books_images/U-IMG-172080890331.png"/>
 
 शुद्धिपत्रम्
 
@@ -489,7 +489,7 @@ Dated Pahlgam
 
 **उड्डामरेश्वरतन्त्रम्।**  
 
-**![](../books_images/U-IMG-172077716931.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172077716931.png"/>**
 
 उड्डीशेन समाकीर्णा योनिवृन्दसमाकुला।  
 प्रणम्य शिरसा देवी गौरी पृच्छति शङ्करम् ॥१॥  
@@ -654,12 +654,12 @@ Dated Pahlgam
 इति पार्वतीशिवसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रे प्रथमः पटलः ॥ १ ॥
 
-![](../books_images/U-IMG-172077928924.png)
+<MISSING_FIG href="../books_images/U-IMG-172077928924.png"/>
 
 अथ  
 
 द्वितीयः पटलः।  
-![](../books_images/U-IMG-172077935032.png)
+<MISSING_FIG href="../books_images/U-IMG-172077935032.png"/>
 
 श्रीपार्वत्युवाच।
 
@@ -849,13 +849,13 @@ Dated Pahlgam
 
 इति श्रीशिवपार्वतीसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रे द्वितीयः पटलः ॥२॥  
-![](../books_images/U-IMG-172080317114.png)
+<MISSING_FIG href="../books_images/U-IMG-172080317114.png"/>
 
 अथ  
 
 **तृतीयः पटलः।**
 
-**![](../books_images/U-IMG-172080320832.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172080320832.png"/>**
 
 काकस्य पक्षौ संगृह्य सर्पकञ्चुकमेव च।  
 श्मशानभस्मसंयुक्तं शत्रोरुच्चाटनं भवेत् ॥ १ ॥
@@ -889,12 +889,12 @@ Dated Pahlgam
 
 इति श्रीशिवपार्वतीसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रे तृतीयः पटलः॥ ३॥  
-![](../books_images/U-IMG-172080343624.png)
+<MISSING_FIG href="../books_images/U-IMG-172080343624.png"/>
 
 अथ  
 
 **चतुर्थः पटलः।  
-![](../books_images/U-IMG-172080347331.png)**
+<MISSING_FIG href="../books_images/U-IMG-172080347331.png"/>**
 
 अथातः संप्रवक्ष्यामि भूतवादे सुदुर्लभम्।  
 येन विज्ञानमात्रेण सर्वसिद्धिः प्रजायते॥ १॥
@@ -907,12 +907,12 @@ Dated Pahlgam
 
 इति श्रीशिवपार्वतीसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रे चतुर्थः पटलः॥ ४॥  
-![](../books_images/U-IMG-172080375124.png)
+<MISSING_FIG href="../books_images/U-IMG-172080375124.png"/>
 
 अथ  
 
 पञ्चमः पटलः।  
-![](../books_images/U-IMG-172080378332.png)
+<MISSING_FIG href="../books_images/U-IMG-172080378332.png"/>
 
 शृणु पुत्र प्रवक्ष्यामि यथा त्रैलोक्यमोहनम्।  
 परपुरुषा वशं यान्ति यथावत् कथयामि ते॥ १॥  
@@ -960,12 +960,12 @@ Dated Pahlgam
 
 इति श्रीशिवपार्वतीसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रे पञ्चमः पटलः॥ ५॥  
-![](../books_images/U-IMG-172080412724.png)
+<MISSING_FIG href="../books_images/U-IMG-172080412724.png"/>
 
 अथ  
 
 षष्ठः पटलः।  
-![](../books_images/U-IMG-172080418533.png)
+<MISSING_FIG href="../books_images/U-IMG-172080418533.png"/>
 
  कृष्णच्छागरोम-कृष्णमार्जाररोम-कृष्णकाकरोमाणि कृष्णाष्टम्यां कृष्णचतुर्दश्यां वा शनि भौमयोवीरेऽश्लेषा नक्षत्रे आर्द्रानक्षत्रे वा समभागानि कृत्वा कूपतडागनदीपयसा पेषयित्वा गुटिकां कृत्वा संग्रामे चोपविशेत्। रणपांशुना तिलकं कुर्यात्। अथानन्तरं येऽन्ये पुरुषा दर्शनं कुर्वन्ति ते कम्पयन्ति मूर्च्छयन्ति उत्पतन्ति पलायन्ते। ये पिष्ट्वा लेपं कुर्वन्ति तेषां शु(त्व)चि कापि पतति न मुञ्जति।
 
@@ -984,12 +984,12 @@ Dated Pahlgam
 
 इति श्रीशिवपार्वतीसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रे षष्ठः पटलः॥ ६ ॥  
-![](../books_images/U-IMG-172080492924.png)
+<MISSING_FIG href="../books_images/U-IMG-172080492924.png"/>
 
 अथ  
 
 **सप्तमः पटलः।  
-![](../books_images/U-IMG-172080497834.png)**
+<MISSING_FIG href="../books_images/U-IMG-172080497834.png"/>**
 
 अथौषधीकरणं निरूप्यते।
 
@@ -1024,12 +1024,12 @@ Dated Pahlgam
 इति श्रीशिवपार्वतीसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रे चाण्डालीमहौषधिवर्णनं  
 सप्तमः पटलः॥ ७ ॥  
-![](../books_images/U-IMG-172083305924.png)
+<MISSING_FIG href="../books_images/U-IMG-172083305924.png"/>
 
 अथ  
 
 **अष्टमः पटलः।  
-![](../books_images/U-IMG-172083308633.png)**
+<MISSING_FIG href="../books_images/U-IMG-172083308633.png"/>**
 
 अथान्यत् संप्रवक्ष्यामि नारीणां गर्भधारणम्। पद्मबीजं गव्यपयसा सह या नारी पिबति सा गर्भवती भवति सत्यमेव, आदित्यवारे निमन्त्रयेत्, चन्द्रवारे भक्षयेत्। पूर्वदिग्भागस्थितं शरीषमूलं गव्यघृतेन सह ऋतुसमये भक्षयेत् सा संवत्सरेण गर्भवती भवति।
 
@@ -1084,12 +1084,12 @@ Dated Pahlgam
 
 इति श्री शिवपार्वतीसंवादे वीरभद्रेश्वरतन्त्राद्धृते  
 उड्डामरेश्वरमहातन्त्रे मयूरशिखानिरूपणमष्टमः पटलः ॥ ८ ॥  
-![](../books_images/U-IMG-172083437924.png)
+<MISSING_FIG href="../books_images/U-IMG-172083437924.png"/>
 
 अथ  
 
 **नवमः पटलः।  
-![](../books_images/U-IMG-172083440633.png)**
+<MISSING_FIG href="../books_images/U-IMG-172083440633.png"/>**
 
 अथान्यत् संप्रवक्ष्यामि औषधं परमदुर्लभम्।  
 आस्फोटी नाम विख्याता नागदमनीति विश्रुता॥ १ ॥  
@@ -1466,12 +1466,12 @@ Dated Pahlgam
 
 इति श्रीपार्वतीश्वरसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरतन्त्रे यक्षिणीपटलः नवमः॥ ९॥  
-![](../books_images/U-IMG-172095495524.png)
+<MISSING_FIG href="../books_images/U-IMG-172095495524.png"/>
 
 अथ  
 
 दशमः पटलः।  
-![](../books_images/U-IMG-172095500437.png)
+<MISSING_FIG href="../books_images/U-IMG-172095500437.png"/>
 
  तत्र चेटकसाधनम्। अथ चेटका लिख्यन्ते—
 
@@ -1513,12 +1513,12 @@ Dated Pahlgam
 
 इति श्रीपार्वतीश्वरसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रेयक्षिणीचेटकनिरूपणं दशमः पटलः॥१०॥  
-![](../books_images/U-IMG-172095557424.png)
+<MISSING_FIG href="../books_images/U-IMG-172095557424.png"/>
 
 अथ  
 
 एकादशः पटलः।  
-![](../books_images/U-IMG-172095561832.png)
+<MISSING_FIG href="../books_images/U-IMG-172095561832.png"/>
 
  अथ दिग्बन्धनमन्त्रः—"वज्रक्रोधाय महादन्ताय दशदिशो बन्ध बन्ध हूं फट् स्वाहा॥" अथ योनिसंकोचनम्—
 
@@ -1545,19 +1545,22 @@ Dated Pahlgam
 मृत्तिकाभिः समस्ताभिः प्रतिमां कारयेद् दृढम्॥ १० ॥  
 कर्षयेत् प्रमदां नृणां गर्वितां तु न संशयः।  
 वैराग्यं न पुनर्याति दासीभावेन तिष्ठति॥ ११ ॥  
-दाडिमं पञ्चकोलं च लोहं वज्रोरसं [घृतम्](#)।  
+दाडिमं पञ्चकोलं च लोहं वज्रोरसं घृतम्[^11]।  
 चूर्णं भूमन्दरा शाखा दन्तनखं करोति वै॥ १२॥  
 मनःशिला प्रयङ्गुश्चरोचना नागकेसरम्।  
 नेत्राञ्जनसमायुक्तं सर्वसत्त्ववशङ्करम्॥१३॥
 
+[^11]: #
+
 इति श्रीपार्वतीश्वरसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रे योनिसंकोचनादिनिरूपणमेकादशःपटलः॥ ११ ॥  
-![](../books_images/U-IMG-172095590524.png)
+
+<MISSING_FIG href="../books_images/U-IMG-172095590524.png"/>
 
 अथ  
 
 द्वादशः पटलः।  
-![](../books_images/U-IMG-172095593434.png)
+<MISSING_FIG href="../books_images/U-IMG-172095593434.png"/>
 
  "उोंह्रीं श्रीं क्लीं द्रंचण्डोग्रे त्रिनेत्रे चामुण्डे अरिष्टे हूँ फट् स्वाहा। ह्रीं नमाम्यहं महादेवं नृसिंहं भीमरूपिणं उों नमस्तस्मै"
 
@@ -1723,12 +1726,12 @@ Dated Pahlgam
 
 उड्डामरेश्वरमहातन्त्रे मन्त्रकोषनिरूपणं  
 द्वादशः पटलः॥ १२ ॥  
-![](../books_images/U-IMG-172087127724.png)
+<MISSING_FIG href="../books_images/U-IMG-172087127724.png"/>
 
 अथ  
 
 **त्रयोदशः पटलः।  
-![](../books_images/U-IMG-172087130635.png)**
+<MISSING_FIG href="../books_images/U-IMG-172087130635.png"/>**
 
 "उों द्रीं विद्यास्तम्भिनि स्तम्भिनि छःछः स्वाहा।" इमं मन्त्रं प्रथममयुतमेकं जपेत् पश्चान्मनसा संस्मरेत्। वनमध्येऽपि भोजनं प्राप्नोति।
 
@@ -1766,12 +1769,12 @@ Dated Pahlgam
 इति श्रीशिवदेवीसंवादे वीरभद्रेश्वरतन्त्रोद्धृते  
 उड्डामरेश्वरमहातन्त्रे मन्त्रको निरूपणं  
 त्रयोदशः पटलः॥ १३ ॥  
-![](../books_images/U-IMG-172095326124.png)
+<MISSING_FIG href="../books_images/U-IMG-172095326124.png"/>
 
 अथ  
 
 चतुर्दशः पटलः।  
-![](../books_images/U-IMG-172095329331.png)
+<MISSING_FIG href="../books_images/U-IMG-172095329331.png"/>
 
  "क्लीं कामातुरे काममेखले विषयिणि वररति भगवति अमुकं मे वशं कुरु वशं कुरु क्लीं नमः स्वाहा।" अनेन मन्त्रेण भोजनकाले सप्त ग्रासान् सप्तवाराभिमन्त्रितान् भुञ्जीत। सप्तमे दिवसे स्त्री वा पुरुषो वा वशीभवति स्वं च ददाति।
 
@@ -1812,12 +1815,12 @@ Dated Pahlgam
 इति श्रीशिवप्रोक्ते वीरभद्रेश्वरतन्त्रोद्धृते उड्डामरे-
 
 श्वरमहातन्त्रे मन्त्रकोषकथनं चतुर्दशः पटलः॥ १४ ॥  
-![](../books_images/U-IMG-172084184224.png)
+<MISSING_FIG href="../books_images/U-IMG-172084184224.png"/>
 
 अथ  
 
 **पञ्चदशः पटलः ।  
-![](../books_images/U-IMG-172084191135.png)**  
+<MISSING_FIG href="../books_images/U-IMG-172084191135.png"/>**  
 
  षट्कोणं यन्त्रं लिखित्वा तत्र षट्कोणे "उों कुरुकुल्ले स्वाहा" इति मन्त्रं पूर्वकोणे लिखेत्। "कुरु" इत्यक्षरद्वयमपरकोणे लिखेत्। अक्षरैकं पूर्वावर्तक्रमेण लेखितव्यम्। ततो भूर्जपत्रे इमं मन्त्रं लिखित्वा गृहद्वारे देहल्या एकदेशे धृते सति गृहसर्पमुच्चाटयति, विवरद्वारि धृते विवरस्थो नश्यत्येव।
 
@@ -1864,7 +1867,7 @@ Dated Pahlgam
  इति श्रीशिवप्रोक्ते वीरभद्रेश्वरतन्त्रोद्धृते उड्डामरे-  
 श्वरमहातन्त्रे पञ्चदशः पटलः समाप्तमिदम्॥ १५ ॥
 
-![](../books_images/U-IMG-172084352036.png)
+<MISSING_FIG href="../books_images/U-IMG-172084352036.png"/>
 
 **श्लोकसूची**
 
@@ -2066,10 +2069,10 @@ Dated Pahlgam
 | सप्ताहं मन्त्रविद् तस्याः  | ९   | ६४(२) | हृदयं कच्छपस्यैव            | २   | २     |
 | समन्त्रं क्षिप्यति पुमात् | १२  | ३३    | होमे कृते भवेद् सिद्धा      | ९   | ३३(२) |
 
-![](../books_images/U-IMG-172120853338.png)
+<MISSING_FIG href="../books_images/U-IMG-172120853338.png"/>
 
 **तन्त्रस्थौषधिनामानि ॥**  
-![](../books_images/U-IMG-172095801024.png)
+<MISSING_FIG href="../books_images/U-IMG-172095801024.png"/>
 
 |               |            |                                             |
 |---------------|------------|---------------------------------------------|

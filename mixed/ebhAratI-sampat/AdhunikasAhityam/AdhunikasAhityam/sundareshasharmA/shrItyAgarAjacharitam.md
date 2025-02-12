@@ -31,7 +31,7 @@ wherein the purelydevotional element preponderates and weareintroducedto charact
 
  No apology will, therefore, be needed for thisventure of mine, in adding one more to the list of suchworks. In my search for a suitable theme, I felt, I wasmagnetically drawn to the life of Sri Tyaga-raja," whowas.born and bred in the Chola country, of ours. andafter fulfilling his divine mission of expounding thegreatness of Music and of reaching godhead, throughdevotion to the Nada-brahman-which is after all anaspect of the Para-brahman-attained his Samadhiafter renunciation, in the holy Panchanada-kshetra‚onthe banks of the sacred Kaveri. Most of his soul-stirring strains, are in glorification of the Hero ofValmiki's immortal epic, Sri Rama, whose name SriTyaga-raja has treated as the Taraka-mantra, wherewithto cross the ocean of worldly existence. The traditionof his being looked upon as a modern incarnation of thatsuper-human bard, Sri Valmiki, has surely sprung outof the rhapsodies of his Kritis. We are fortunatelycircumstanced in having in our midst some ‹ disciples ofthe disciples of the great one and several of theincidents narrated in the story have been culled fromthose sources. Thanks to the endeavours of lovers ofMusic, hundreds of Sri Tyaga-raja's immortal Kritishave been reclaimed for posterity and are reminding usevery day of their great author, whose life story I haveventured to present in Samskrit verse, to his countrymen and to the world at large. I have attemptedtherein to portray, to the best of my lights, the lessonsthat we learn from the life of Sri Tyaga-raja, regardingthe ideal that one should set before himself for livingthe life of a true devotee, the excellence of Bhakti-yoga,the true marks of a Bhakta and other striking featuresof a saintly life.
 
-![](../books_images/U-IMG-1726285544CCCCC.png)
+<MISSING_FIG href="../books_images/U-IMG-1726285544CCCCC.png"/>
 
 **FOREWORD**  
 **--------------**
@@ -125,7 +125,7 @@ and happy are we to have devotion to such a devoteeof such a deity!
 अभिनन्दनपत्रिका।  
 ॥श्रीत्यागराजचरितम्॥**
 
-![](../books_images/U-IMG-1724987935Screenshot2024-08-30084835.png)
+<MISSING_FIG href="../books_images/U-IMG-1724987935Screenshot2024-08-30084835.png"/>
 
  इदं किल त्यागब्रह्मेति प्रतीतस्य परमार्थभक्तप्रवेकस्य चरित्रमधिकृत्य सुन्दरेशनाम्ना कविना प्रणीतं खण्डकाव्यं स्थालीपुलाकन्यायतः पर्यशीलयम्, अविन्दं च परममानन्दथुप्। भगवत इवभागवतानामपि सुचरितं श्रूयमाणं महीयसे श्रेयसे कल्पत इतिपुराणेतिहासादिषु घण्टाघोषः। न खलु कलावस्मिञ्शमदमविवेकवैराग्यादिगुणगणभूषणोनारदादि
 महानुभावानुभावस्त्यागब्रह्मसदृशःकश्चिदासीदस्ति भविष्यतीति निश्चप्रचम्। यद्यपि द्राविड्यादिभाषाभिश्चरितमस्य निबद्धं कैश्चित्, तथाऽपि संस्कृतभाषामयंसमग्रोदन्तप्रतिपादकं निबन्धनं केनापि न रचितमिति विदितमेवसमेषाम्। तस्मात्कमनीयतममस्य कवेः कर्म श्लाघनीयमुपादेयं चसर्वेषां भवतीत्यभिप्रयन् -
@@ -139,11 +139,11 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 ----------------
 
-![](../books_images/U-IMG-1726285662DDD.png)
+<MISSING_FIG href="../books_images/U-IMG-1726285662DDD.png"/>
 
 **\।\।श्रीरामो जयति॥  
 ॥श्रीत्यागराजचरितम्॥**  
-![](../books_images/U-IMG-1725252458kkkkkhhjk.png)
+<MISSING_FIG href="../books_images/U-IMG-1725252458kkkkkhhjk.png"/>
 
 **प्रथमः सर्गः।**
 

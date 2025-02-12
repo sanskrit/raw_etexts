@@ -22,11 +22,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNDgyNjA0NjM
 
 **योगिनीतन्त्रम्‌।**
 
-**![](../../../books_images/U-IMG-172529003627.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-172529003627.jpg"/>**
 
 **प्रथमपटलः।**
 
-**![](../../../books_images/U-IMG-172529009828.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-172529009828.jpg"/>**
 
 **ॐ नमो महाभैरवाय।**
 
@@ -4325,7 +4325,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNDgyNjA0NjM
 
 **उत्तरखण्डम्‌।**
 
-**![](../../../books_images/U-IMG-172562174229.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-172562174229.jpg"/>**
 
 **प्रथमःपटलः।**
 

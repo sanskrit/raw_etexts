@@ -21,21 +21,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
 **॥पार्वतीश्वरौवंदे॥**
 
-![](../books_images/U-IMG-17200880131.png)  
-![](../books_images/U-IMG-17200881691.png)
+<MISSING_FIG href="../books_images/U-IMG-17200880131.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-17200881691.png"/>
 
 **इस पुस्तकका रजिष्टरी सब हक्क १८६७ के ऍक्ट २५  
 बमूजव यन्त्राधिकारीने अपने स्वाधीन रक्खा है.  
 *(All rights reserved by the publisher.)***
 
-![](../books_images/U-IMG-17200881691.png)
+<MISSING_FIG href="../books_images/U-IMG-17200881691.png"/>
 
 **गंगाविष्णु श्रीकृष्णदास,  
 "लक्ष्मीवेंकटेश्वर" छापाखाना,  
 कल्याण–मुंबई.**
 
 **प्रस्तावना।  
-![](../books_images/U-IMG-17200956991.png)**
+<MISSING_FIG href="../books_images/U-IMG-17200956991.png"/>**
 
 **उड्डीशं यो न जानाति स रुष्टः किं करिष्यति॥**
 
@@ -63,14 +63,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 **वेदवाणांकचन्द्रेव्दे भाद्रे मासि सिते दले॥  
 तृतीयायां सोमवारे भाषारम्भः कृतो मया॥१॥**
 
-![](../books_images/U-IMG-17201115082.png)
+<MISSING_FIG href="../books_images/U-IMG-17201115082.png"/>
 
 समस्त तंत्ररसिकोंका परमहितैषी—  
 **पंडित नारायणप्रसाद मुकुन्दरामजी**  
 **संस्कृतपुस्तकालय–बॉमबरेली**  
 **और लखीम्पुर (अवध)**
 
-   ![](../books_images/U-IMG-17201120242.png)
+   <MISSING_FIG href="../books_images/U-IMG-17201120242.png"/>
 
 **॥श्रीः॥**
 
@@ -80,7 +80,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
 **भाषाटीकासहितं।**
 
-![](../books_images/U-IMG-17201121802.png)
+<MISSING_FIG href="../books_images/U-IMG-17201121802.png"/>
 
 **मंगलाचरणम्।**
 
@@ -441,7 +441,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
 इति श्रीलंकापतिरावणविरचिते उड्डीशतंत्रे भाषायां पार्वतीश्वरसंवादे मारणप्रयोगो नाम प्रथमः पटलः॥१॥
 
-![](../books_images/U-IMG-17202744671.png)
+<MISSING_FIG href="../books_images/U-IMG-17202744671.png"/>
 
 ** अथ द्वितीयः पटलः॥२॥  
   ॥तत्रादौ अश्वमारणम्॥**
@@ -541,7 +541,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
 इति श्रीलंकापतिरावणविरचिते उड्डीशतंत्रे उमामहेश्वरसंवादे भाषायां द्वितीयः पटलः॥२॥
 
-![](../books_images/U-IMG-17202782511.png)
+<MISSING_FIG href="../books_images/U-IMG-17202782511.png"/>
 
 **अथ तृतीयः पटलः॥ ३॥  
 तत्र मोहनम्॥ ईश्वर उवाच॥**
@@ -595,7 +595,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
 इति श्रीलंकापतिरावणविरचिते उड्डीशतंत्रे भाषाटीकायां तृतीयः पटलः॥३॥
 
- ![](../books_images/U-IMG-17202811991.png)
+ <MISSING_FIG href="../books_images/U-IMG-17202811991.png"/>
 
 ** अथ चतुर्थः पटलः॥४॥**
 
@@ -670,7 +670,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
 इति श्रीलंकापतिरावणविरचिते उड्डीशतंत्रे पार्वतीश्वरसंवादे भाषायां स्तंभनप्रयोगो नाम चतुर्थः पटलः॥४॥
 
-![](../books_images/U-IMG-17202836491.png)
+<MISSING_FIG href="../books_images/U-IMG-17202836491.png"/>
 
 **अथ पंचमः पटलः॥५॥**
 
@@ -737,7 +737,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
  इति श्रीलंकापतिरावणविरचिते उड्डीशतंत्रे भाषायां विद्वेषणप्रयोगकथनो नाम पंचमः पटलः॥५॥
 
-![](../books_images/U-IMG-1720474003Screenshot2024-07-07233336.png)
+<MISSING_FIG href="../books_images/U-IMG-1720474003Screenshot2024-07-07233336.png"/>
 
 हाथसे उठाय लेवे॥२॥ वहधूलि जिसके घरमें फेंक देवे इसका उच्चाटन होवे इस प्रकार सात दिन धूलि फेंकनेसे उस घरके स्वामीका अवश्य उस घरसे वित्त उच्चाटन हो जावे॥३॥मंत्र मूलमें है जिसका दश हजार जप करनेसे सिद्धि होवे॥
 
@@ -765,7 +765,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
  इति श्रीलंकापतिरावणविरचिते उडुशितंत्रे पार्वतीश्वरसंवादे भाषायां उच्चाटनप्रयोगो नाम षष्ठः पटलः॥६॥
 
-![](../books_images/U-IMG-1720505081Screenshot2024-07-07233336.png)
+<MISSING_FIG href="../books_images/U-IMG-1720505081Screenshot2024-07-07233336.png"/>
 
 **अथ सप्तमः पटलः॥७॥ **
 
@@ -825,7 +825,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
  इति श्रीलंकापतिरावणविरचिते उमामहेश्वरसंवादे भाषायां वशीकरणप्रयोगो नाम सप्तमः पटलः॥७॥
 
-**![](#)![](../books_images/U-IMG-17204082221.png)**
+**<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-17204082221.png"/>**
 
 **अथाष्टमः पटलः॥८॥**   
 **तत्राकर्पणम् ॥ईश्वर उवाच॥**
@@ -850,7 +850,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
 इति श्रीलंकापतिरावणविरचिते पार्वतीश्वरसंवादे उड्डीशतंत्रे भाषायां आकर्षणप्रयोगो नामाष्टमः पटलः॥८॥
 
-**![](../books_images/U-IMG-17204086211.png)  
+**<MISSING_FIG href="../books_images/U-IMG-17204086211.png"/>  
 अथ नवमः पटलः॥९॥**   
 **तत्र यक्षिणीसाधनम् ॥ईश्वर उवाच॥**
 
@@ -940,7 +940,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 इति श्रीलंकापतिरावणविरचिते उड्डीशतंत्रे भाषायां यक्षिणीसाधनं नाम नवमः पटलः॥९॥
 
 **अथ दशमः पटलः॥१०॥  
-![](../books_images/U-IMG-17204116261.png)**
+<MISSING_FIG href="../books_images/U-IMG-17204116261.png"/>**
 
 **तत्रेन्द्रजालकौतुकम्॥ईश्वर उवाच॥ **
 
@@ -1267,7 +1267,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
  इति श्रीठमामहेश्वरसंवादे लंकापतिरावणविरचिते ज्योतिर्वित्पण्डितनारायणप्रसादमुकुन्दरामाभ्यां विरचितभाषाटीकान्विते इन्द्रजालकौतुकवर्णनो नाम दशमः पटलः॥१०॥
 
-![](../books_images/U-IMG-1720472998Screenshot2024-07-09023947.png)
+<MISSING_FIG href="../books_images/U-IMG-1720472998Screenshot2024-07-09023947.png"/>
 
 **प्रार्थना। **
 
@@ -1285,7 +1285,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
  **अर्थ—**इस ग्रन्थके तात्पर्यको सुनकर और यत्नपूर्वक देखकर पृथिवीमें सन्त जन प्रसन्न होवेंगे और असन्तजन कहिये असज्जन दुःखी होंवेंगे॥३॥
 
-![](../books_images/U-IMG-17205293251.png)
+<MISSING_FIG href="../books_images/U-IMG-17205293251.png"/>
 
 **॥समर्प्पणम्॥ **
 
@@ -1296,7 +1296,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzMDgzNTUyNTY
 
 **समाप्तोयं ग्रन्थः।**
 
-**![](../books_images/U-IMG-1720473630Screenshot2024-07-07233336.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720473630Screenshot2024-07-07233336.png"/>**
 
 पुस्तक मिलनेका ठिकाना—
 

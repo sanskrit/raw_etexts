@@ -32,7 +32,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyMjY1NTQzMTY
 
 **PREFATORY.**
 
-![](../books_images/U-IMG-1720431750Screenshot2024-07-08151137.png)
+<MISSING_FIG href="../books_images/U-IMG-1720431750Screenshot2024-07-08151137.png"/>
 
  The present booklet entitled the Janma Maraṇa Vichāra, which appears in public for the first time, is based on a single MS., which, along with many others,[^1] was obtained by me in Agra in 1912 A. D. It is on very old Kashmiri paper, written by one Krishṇa Swāmi of Kashmir, in Shāradā characters, about the year 4603 of the Laukika era (1527 A. D.).
 
@@ -85,7 +85,7 @@ PAṆḌDIT MUKUND RĀM SHÂSTRI.**
 
 **(ग्रन्थाङ्कः १९)**
 
-![](../books_images/U-IMG-1720433579Screenshot2024-07-08145814.png)
+<MISSING_FIG href="../books_images/U-IMG-1720433579Screenshot2024-07-08145814.png"/>
 
  अयं ग्रन्थः शैवागमग्रन्थेषु मुख्यविषयखात्माद्वैतज्ञानपद्धतिसारसंक्षेपरूपतया श्रीभट्टवामदेवाख्यमहामाहेश्वराचार्यवरेण विरचितः। श्रीभट्टवामदेवश्च श्रीयोगीश्वरापरपर्याय योगराजाचार्यस्य शिष्योऽभूत्।
 
@@ -129,11 +129,11 @@ PAṆḌDIT MUKUND RĀM SHÂSTRI.**
 
 **जन्ममरणविचारग्रन्थः।**
 
-![](../books_images/U-IMG-1720435838Screenshot2024-07-08161951.png)
+<MISSING_FIG href="../books_images/U-IMG-1720435838Screenshot2024-07-08161951.png"/>
 
 श्रीमद्भट्टवामदेवाचार्यविरचितः।
 
-![](../books_images/U-IMG-1720435879Screenshot2024-07-08162047.png)
+<MISSING_FIG href="../books_images/U-IMG-1720435879Screenshot2024-07-08162047.png"/>
 
 **सान्द्रोद्रेकक्षुभितमभितः स्वान्तमन्तर्नियम्य  
 प्रायो धन्ते नवनवरसोल्लेखमानन्दकन्दम्।  
@@ -678,7 +678,7 @@ PAṆḌDIT MUKUND RĀM SHÂSTRI.**
 
 कृतिस्तत्रभवन्महामाहेश्वराचार्यवर्यश्रीमद्भवामदेवस्य॥
 
-**![](../books_images/U-IMG-1720444745Screenshot2024-07-08184704.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720444745Screenshot2024-07-08184704.png"/>**
 
 **सद्विद्यानां संश्रये ग्रन्थविद्वद्-**
 

@@ -29,7 +29,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MDQ0OTg3ODY
 
 **श्री ६ बालशास्त्रिजीवनवृत्तान्तः**।
 
-![](../books_images/U-IMG-1699332902Untitled325.png)
+<MISSING_FIG href="../books_images/U-IMG-1699332902Untitled325.png"/>
 
 **अस्ति स्वस्तटिनीसमीपवसतिः सङ्केतभूः श्रेयसां  
 काशी नाम पुरी श्रुतिस्तुतगुणाविश्वेश्वराधिष्ठिता।  

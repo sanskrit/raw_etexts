@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDQwODk3MjI
 
 **INTRODUCTION**  
 
-**![](../books_images/U-IMG-1721611184Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721611184Screenshot2024-07-18063849.png"/>**
 
   It is intended in the “TāntrikText Series” of which the present is the first volume, to print hitherto unpublished Tantras, or Tāntrik works, or to reprint such as have become scarce or were issued in an incomplete form.
 
@@ -91,7 +91,7 @@ tains the celebrated Ṣaṭcakranirūpaṇa of Purṇānanda-svāmī being a po
 secured from the Sanskrit College Library, Calcutta, and the Govt. Manuscripts Library, Madras, respectively. The texts of the third and the fourth books (Bhūtaḍāmara and Varadā-Tantras) have been copied from original manuscripts. No second copies of Mss. of the first two books could be secured for the purpose of comparison. The text secured from the Govt. Manuscripts Library, Madras, was found to contain numerous errors which have been corrected as far as possible. The original texts of the Prakārāntara-Mantrābhidhāna and the Mātṛkānighanṇṭu of the first edition, have been revised and compared with the texts of the same works which are with the Sanskrit College Library, Calcutta. With the help of the two Mss. from the Sanskrit College Library, Calcutta, variants have been usually given in footnotes and sometimes in the body of the text within brackets. Possible corrections have been made in Mudrānighaṇṭu which in the first edition contained numerous mistakes and omissions. In the very end, in Varṇa-bījakośa the Artha of nearly five thousand Tantrika Śabdas have been added. This addition has been effected because a certain Artha is always associated with a definiteŚabda. This association of a definite Artha with a particular Śabda is unalterable. Hindu philosophers have bestowed different appellations on this unalterable association of Śabda and Artha. According to the followers of Vedanta and Mimāṁsa schools of philosophy this Śabdartha-jñāna is known as ‘vācyavācakabhāva’. The Naiyāyika philosophers call it ‘vṛtti’. This vṛtti is ‘saṅketa’and ‘lakṣaṇā’. Nityasanketa is Śakti. Other philosophers define it in different ways. If the significance of vācyavācakatva or saṅketa be not realised, it is not possible to understand the significance of a Śabda. For this reason a full knowledge of the association of sound and its significance is imperatively necessary before attempting to understand the meaning of some of those a sound. Abhidhana and Koṣa contain methods denoting the relationship of Śabda and Artha as are
 
 put forward in the Sāstrās^(\*). In Abhidhāna sometimes are found the Śaktirūpa and sometimes the Lakṣaṇārūpa forms of the relationship of Śabda and Artha. So when the true knowledge of this relationship is acquired, the significance of Śabda As Abhidhāna is essentially and Artha is fully realised. necessary for the understanding of other Śāstras, likewise Śabdārtha-jñāna is essential for the understanding of Tantra-Śāstras. The Upāsanā as denoted in the Āgamaśāstras, is absolutely impossible without a complete understanding of the significance of Mantras. The particular Upāsanā of a particular Devatāby means of a definite Mantra, as laid down in the Tantras, is not possible to be gone through unless and until the significance of that Mantra is at the very beginning realised. No fruit is derived from a Mantra if it is used without being understood. The understanding of a Mantra or a Bīja is never possible without the help of a Abhidhāna. As for example, the Ekākṣara Mantra of Kālī is क्रीँ. This is derived from the unification of क्+र्+ई+ ^(ꣲ). Wherever this Bījākṣara has been referred to in the Agamaśāstras no mention is made of this simple unification of (क्+र्+ई+ ^(ꣲ)) of which the Bījākṣara is constituted. Only a few apparently unintelligible Śabdas are given there. If the meaning of these Śabdas are not understood, this Ekākṣara Bīja of Kāli cannot be comprehended in its fullest significance. For this very reason the necessity of a Tāntrabhidhāna and Mantrābhidhāna is felt. A large number of vācaka Śabdas of Mātṛkā (Varṇamālā ) are given in the Mantrābhidhāna. As for example, the vācaka Śabda of **अ** is Keśava, Viṣṇu, Śrikaṇṭha etc. So with the help of this Abhidhana it is known that Kesava, Visṇu, etc., denote. Wherever the expressions Keśava, Viṣṇu etc., are found in the Tantras, it  
-![](../books_images/U-IMG-1721794733Screenshot2024-07-10145744.png)
+<MISSING_FIG href="../books_images/U-IMG-1721794733Screenshot2024-07-10145744.png"/>
 
 ^(\*) मन्त्रो हीनः स्वरतो वर्णतो वा मिथ्याप्रयुक्तो न तमर्थमाह ।    
  सवाग्वज्रोयजमानं हिनस्ति यथेन्द्रशत्रुःस्वरतोऽपराधात् ॥      
@@ -113,7 +113,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **सूचीपत्रम्**  
 
-**![](../books_images/U-IMG-1721612049Screenshot2024-07-10063051.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721612049Screenshot2024-07-10063051.png"/>**
 
 |                           |                         |                           |
 |:-------------------------:|:-----------------------:|:-------------------------:|
@@ -1844,7 +1844,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 **कादिमततन्त्रोक्त-वर्णसंज्ञोद्धारः**
 
 **(६० पृष्ठे मूलमनुसन्धेयम् )  
-![](../books_images/U-IMG-1721621851Screenshot2024-07-10063051.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721621851Screenshot2024-07-10063051.png"/>**
 
 **वातः  मरुत्  चरः  प्राणः  वायुः  नादः  रयः  जवी
 व्याप्तं  स्पर्शः**
@@ -1881,7 +1881,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **मुद्रानिघण्टोः सूचीपत्रम्**
 
-![](../books_images/U-IMG-1721613118Screenshot2024-07-18230445.png)
+<MISSING_FIG href="../books_images/U-IMG-1721613118Screenshot2024-07-18230445.png"/>
 
 |                   |                         |                    |
 |:-----------------:|:-----------------------:|:------------------:|
@@ -1927,7 +1927,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **सूचिपत्रं सम्पूर्णम्**
 
-![](../books_images/U-IMG-1721620956Screenshot2024-07-11161259.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721620956Screenshot2024-07-11161259.png"/>  
 
 प्रकारान्तर- कादिमततन्त्रोक्त-वर्णसंज्ञोद्धारः  
 (४० पृष्ठे मुद्रितस्यास्य अशुद्धत्वात् पुररत्र मुद्रितः )  
@@ -1964,7 +1964,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **श्रीतन्त्राभिधानम्**  
 
-**![](../books_images/U-IMG-1721537271Screenshot2024-07-10063051.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1721537271Screenshot2024-07-10063051.png"/>**  
 
 **अथ मन्त्राभिधानम्**  
 
@@ -2073,13 +2073,13 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    ई-कारो वेदमाता च क्लीबंऋ ॠ लृ लॄच वै।  
 १६ पतत्‌ सर्वं महेशानि ! पठनीयं प्रयलतः ॥२५॥
 
-![](../books_images/U-IMG-1721540461Screenshot2024-07-18103322.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721540461Screenshot2024-07-18103322.png"/>  
 
 **प्रकारान्तर-**  
 
 **मन्त्राभिधानम्**  
 
-![](../books_images/U-IMG-1721540612Screenshot2024-07-08185832.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721540612Screenshot2024-07-08185832.png"/>  
 ॐ ॥ ३५ ॥
 
 १  ओङ्कारो वर्त्तुलस्तारो वामश्च हंसकारणम्।  
@@ -2410,8 +2410,10 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^22]: "र्हासः"
 
-१२ जवनो [वेगितो](॑॑# "येगिता") वामो मानवाक्षःसदात्मकः।  
+१२ जवनो वेगितो[^103] वामो मानवाक्षःसदात्मकः।  
    हृन्मारुतेश्वरो वेगी चामोदो मदविह्वलः॥८१॥
+
+[^103]: ॑॑# "येगिता"
 
 झ॥३७॥
 
@@ -2867,7 +2869,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    छायापुत्रश्च संघातो मलयश्रीर्ललाटकः \*॥१७३॥
 
-![](../books_images/U-IMG-1721562000Screenshot2024-07-10145744.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721562000Screenshot2024-07-10145744.png"/>  
 
 \* ललाटक इत्यनन्तरम् एतत् पद्यपञ्चकं क्वचिदधिकं दृश्यते—
 
@@ -2878,7 +2880,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **एकाक्षरकोषः**  
 
-**![](../books_images/U-IMG-1721562500Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721562500Screenshot2024-07-18063849.png"/>**
 
 १  अ-कारो वासुदेवः स्यादाकारश्च पितामहः।  
    पूजायामपि माङ्गल्ये आ-कारः परिकीर्त्तितः॥१॥
@@ -2898,7 +2900,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    क-श्चात्मा च समाख्यातः कः प्रकाश उदाहृतः।  
 १२ कं शिरो जलमाख्यातं कं सुखञ्च प्रकीर्त्तितम्॥६॥
 
-![](../books_images/U-IMG-1721562416Screenshot2024-07-18103322.png)
+<MISSING_FIG href="../books_images/U-IMG-1721562416Screenshot2024-07-18103322.png"/>
 
 स्वाहा परा देवभोज्यं ठद्वयं चन्द्रयुग्मकम्।  
 ध्रुवो हरिर्देवमाता देवास्यं वह्निसुन्दरी॥ स्वाहा ॥  
@@ -3005,11 +3007,11 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **इति श्रीपुरुषोत्तमदेवविरचित-  
 एकाक्षरकोषः समाप्तः  
-![](../books_images/U-IMG-1721563389Screenshot2024-07-09101742.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721563389Screenshot2024-07-09101742.png"/>**
 
 **बीजनिघण्टुः**  
 
-![](../books_images/U-IMG-1721563468Screenshot2024-07-18230445.png)
+<MISSING_FIG href="../books_images/U-IMG-1721563468Screenshot2024-07-18230445.png"/>
 
 अथ वक्ष्ये मन्त्रकोषं यदुक्तं भूतडामरे ।  
 क्रमाद् बीजविधानञ्च श्रुत्यर्थज्ञानसम्भवम् ॥
@@ -3124,8 +3126,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 २०  उन्मत्त भैरवी रुद्रडाकिन्या च विभूषिता।  
     नादेनाऽलङ्कृता बीजं वाग्भवं बुद्धिवर्द्धनम्॥ऐँ॥  
 
-[^102]: "* (
-
 १ फड़ित्यस्त्रं प्रसिद्धं स्याज् ॥फट्॥ ज्वालाग्निर्व्यापकाङ्कुशः॥क्रों  
    शिरः स्वाहा द्विठो वह्निजाया ज्वलनवल्लभा॥  
    दक्षजानुद्वयं सेन्दुः देवास्यं वह्निसुन्दरी॥स्वाहा॥  
@@ -3189,10 +3189,10 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 **इति श्रीभैरवविरचितो बीजनिघण्टुमन्त्रकोषः  
 समाप्तः**  
 
-**![](../books_images/U-IMG-1721610080Screenshot2024-07-21064941.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721610080Screenshot2024-07-21064941.png"/>**
 
 **अथ मातृकानिघण्टुः**  
-![](../books_images/U-IMG-1721609723Screenshot2024-07-08185832.png)
+<MISSING_FIG href="../books_images/U-IMG-1721609723Screenshot2024-07-08185832.png"/>
 
 १  श्रीगणेशं नृसिंह तं भारतीमीश्वरं गुरुम् ।  
    नत्वा वक्ष्ये मातृकाणां निघण्टुं बालबुद्धये॥१॥  
@@ -3397,7 +3397,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 **प्रकारान्तर-**
 
 **मातृकानिघण्टुः  
-![](../books_images/U-IMG-1721584796Screenshot2024-07-11131326.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721584796Screenshot2024-07-11131326.png"/>**
 
 १  ध्रुवस्तारस्तथौङ्कारो मूलज्योतिः शिवोऽव्ययः।  
    वेदाद्यस्तारकोऽव्यक्तः शाखादिः प्रणवः स्मृतः॥१॥
@@ -3558,13 +3558,13 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 श्रीमध्वाचार्यविरचितो मातृका-  
 निघण्टुः समाप्तः।**  
 
-![](../books_images/U-IMG-1721583919Screenshot2024-07-10063051.png)
+<MISSING_FIG href="../books_images/U-IMG-1721583919Screenshot2024-07-10063051.png"/>
 
 **प्रकारान्तर-**
 
 **मातृकानिघण्टुः**  
 
-![](../books_images/U-IMG-1721576902Screenshot2024-07-18063849.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721576902Screenshot2024-07-18063849.png"/>  
 **श्रीभैरव उवाच —**
 
 १  निघण्टमातृकां देवि कथयस्व प्रसादतः।  
@@ -3761,13 +3761,13 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **॥ इति मातृका - निर्घण्टः समाप्तः॥**
 
-![](../books_images/U-IMG-1721575743Screenshot2024-07-21064941.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721575743Screenshot2024-07-21064941.png"/>  
 
 अथ प्रकारान्तर-
 
 वर्णनिघण्टुः  
 
-![](../books_images/U-IMG-1721575580Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721575580Screenshot2024-07-18063849.png"/>
 
 १  प्रणम्य परमानन्दं श्रीगुरुं पुरुषोत्तमम्।  
    मातृकार्ण-निघण्टुं यं प्रवक्ष्ये बालबुद्धये॥१॥
@@ -4056,7 +4056,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 **इति रुद्रयामलतन्त्रोक्त-वर्णनिघण्टुः  
 समाप्तः**  
 
-![](../books_images/U-IMG-1721573359Screenshot2024-07-11131326.png)
+<MISSING_FIG href="../books_images/U-IMG-1721573359Screenshot2024-07-11131326.png"/>
 
 अथ  
 
@@ -4064,7 +4064,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 बीजाभिधानम्  
 
-![](../books_images/U-IMG-1721573000Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721573000Screenshot2024-07-18063849.png"/>
 
 १  बीजसंकेतबोधार्थमाहृत्य तन्त्रशास्त्रतः।  
    बीजनामानि कतिचिद् वक्ष्यामि विदुषां मुदे॥  
@@ -4151,7 +4151,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 इति भूतडामरतन्त्रोक्तबीजाभिधानं
 
 **समाप्तम्**  
-![](../books_images/U-IMG-1721572241Screenshot2024-07-10063051.png)
+<MISSING_FIG href="../books_images/U-IMG-1721572241Screenshot2024-07-10063051.png"/>
 
 अथ  
 
@@ -4159,7 +4159,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **मन्त्रार्थाभिधानम्**  
 
-![](../books_images/U-IMG-1721570210Screenshot2024-07-18230445.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721570210Screenshot2024-07-18230445.png"/>  
 **शिव उवाच।**
 
 १  मन्त्रार्थं कथयाम्यद्य शृणुष्व परमेश्वरि।  
@@ -4219,12 +4219,12 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 **इति वरदातन्त्रोक्त-मन्त्रार्थाभिधानं  
 समाप्तम्**
 
-![](../books_images/U-IMG-1721569870Screenshot2024-07-09101742.png)
+<MISSING_FIG href="../books_images/U-IMG-1721569870Screenshot2024-07-09101742.png"/>
 
 अथ
 
 **मुद्रानिघण्टुः**  
-![](../books_images/U-IMG-1721569600Screenshot2024-07-08185832.png)
+<MISSING_FIG href="../books_images/U-IMG-1721569600Screenshot2024-07-08185832.png"/>
 
 १  अथ मुद्राः^(१)प्रवक्ष्यामि सर्वतन्त्रेषु गोपिताः।  
    याभिर्विरचिताभिश्च मोदन्ते मन्त्रदेवताः॥१॥
@@ -4247,7 +4247,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    नारसिंही व बाराही हयग्रैवी धनुस्तथा।  
    वाणमुद्रा ततः पर्शुर्जगन्मोहनिका परा॥७॥
 
-![](../books_images/U-IMG-1721569646Screenshot2024-07-10145744.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721569646Screenshot2024-07-10145744.png"/>  
  ^(१)
 
 मुद्रापदव्युत्पत्तिमाह यामग्ने —
@@ -4448,7 +4448,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    लिङ्गमुद्रेयमाख्याता शिवसान्निध्यकारिणी।  
    मिथः कनिष्ठिके बद्ध्वा तर्जनीभ्यामनामिके॥६९॥
 
-![](../books_images/U-IMG-1721566832Screenshot2024-07-10145744.png)
+<MISSING_FIG href="../books_images/U-IMG-1721566832Screenshot2024-07-10145744.png"/>
 
 ^(२)प्रकारान्तरवाणमुवाणमुदालक्षणां ज्ञानार्णवे—
 
@@ -4553,7 +4553,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 २० प्रसृताङ्गुलिकौहस्तौ मिथः श्लिष्टौ च सम्मुखौ।  
    कुर्यात् स्वहृदये चेयं मुद्रा प्रार्थनसंज्ञिका॥१००॥
 
-![](../books_images/U-IMG-1721566154Screenshot2024-07-10145744.png)
+<MISSING_FIG href="../books_images/U-IMG-1721566154Screenshot2024-07-10145744.png"/>
 
 \*मुद्रगरभित्यादिसार्धैकपय क्वचिन्न दृश्यते
 
@@ -4711,13 +4711,13 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **समाप्तोऽयं ग्रन्थः**  
 
-![](../books_images/U-IMG-1721543354रेखी.png)
+<MISSING_FIG href="../books_images/U-IMG-1721543354रेखी.png"/>
 
-**![](../books_images/U-IMG-1721543217उपरि.......png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721543217उपरि.......png"/>**
 
 **वर्णबीजकोषः  
 
-![](../books_images/U-IMG-1721543282चित्र.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721543282चित्र.png"/>**
 
 [TABLE]
 
@@ -4821,9 +4821,9 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **वर्णबीजकोषः समाप्तः**
 
-**_(![](../books_images/U-IMG-1721663742Screenshot2024-07-21061650.png))शुद्धिपत्रम्_(![](../books_images/U-IMG-1721663742Screenshot2024-07-21061650.png))**  
+**_(<MISSING_FIG href="../books_images/U-IMG-1721663742Screenshot2024-07-21061650.png"/>)शुद्धिपत्रम्_(<MISSING_FIG href="../books_images/U-IMG-1721663742Screenshot2024-07-21061650.png"/>)**  
 
-**![](../books_images/U-IMG-1721663727Screenshot2024-07-18230445.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721663727Screenshot2024-07-18230445.png"/>**
 
 |                    |                     |                   |                    |
 |:------------------:|:-------------------:|:-----------------:|:------------------:|

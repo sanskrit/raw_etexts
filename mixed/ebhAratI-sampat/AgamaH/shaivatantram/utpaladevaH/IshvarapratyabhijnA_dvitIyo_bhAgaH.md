@@ -55,9 +55,9 @@ Jammu and Kashmir State, SRINAGAR.**
 
 ** THE FOUNDER OF THE PRATYABHIJÑĀ SCHOOL.—**Somānanda laid the foundation stone of the Pratyabhijñā School of Kashmir. It is referred to as the valuable heirloom of the Tryambaka School. Indeed, the later writers, without any reserve or formality, acknowledge their indebtedness to him for the careful conservation of this ancestral treasure which they have so freely drawn upon. He was a disciple of Vasugupta if not actually at least in thought. For in the extant writings of Somānanda nothing is found to contradict Vasugupta's view. In fact, the latter's teachings are a mere declaration of his faith and religion which have been strengthened and supported by being logically, all the more, demonstrated by the former, to wit, Somānanda. The terminating verses of S'ivadrsṭi tell a good deal about Somānanda's descent from the Sage Durvāsas who, under the command of Śrīkantha (or Śiya), taught anew the eternal Śaiva Faith through the line of his mind-born sons Tryambaka etc. The mind-born sages continued the line of Tryambaka upto the fifteenth generation the representative whereof, however, contrary to the hereditary usage, took a Brãhmin wife who bore him a son named Sangamāditya. In the course of his peregrinations, the latter settled in Kashmir and of him was born Varsāditya. He was succeeded by Arunāditya the father of Ānanda. It is to this Ānanda that the famous founder of pratyabhijñā, i.e., Somānanda, owes his birth (see Śivadrsti, end of the 7th Āhnika).[^1]
 
-** ISVARAPRATYABHIJÑĀ AND ITS SOURCES—**Somānanda was devoutly followed by Utpaladeva one of the chief exponents of the pratyabhijñā Śāstra. He makes a frank avowal of his pupilage to Siddha Somānanda as is manifest from internal evidences of his extant writings (Cf. Sivadṛsti Vṛtti, 2nd verse[^2]). He has brought into bold relief what was given in outline by his Guru. In fact, his famous work “Isvarapratyabhijñā”is the reflection of the wisdom taught by Somānanda.[^3]There might have been other sources, known to Utpala, from which he collected the material to interweave the fabric of Īśvarapratyabhijñā. But such sources are irrevocably lost to us now. All that Somānanda tried to establish in about 740 Anustub verses in Śivadrsti has, adroitly and succintly, been taught by Utpala in a short compass of 190 Kârikâs which, on account of their brevity and terseness, take also the name of Sūtras (cf. Spandasūtras and Sānkhyasūtras which are also called the Spanda and Sānkhya Kārikās). This conciseness in form and expression popularised Īśvarapratyabhijñā which seems, in several other respects, to have far surpassed even the Śivadṛst of Somānanda. It gradually attained such conspicuity as to attract the attention of other persons of philosophical turn of mind, even, of course, outside the boundaries of Kashmir where it was first nurtured (cf. Madhavāchārya's Pratyabhijñā Darśana). The colouring of the doctrines of the Trika System in the light of Pratyabhijñā, a desideratum of the adherents of the system (for every System of religion, if it want to maintain its endurance, must be based on science and philosophy) was successfully effected by the combined exertions of Somānanda and Utpala and, later on, of Abhinava and Ksemarāja. Besides, Kashmir was the scene of Spiritual feud and foray at the time of Utpala. While advancing “Recognition”as the method for attaining the Highest End, Utpala left no stone unturned to set at naught the conceptions of the Sankhya, the Vais'esika, the Mīmāmsā and the S'abda-Brahma-Vâdins by proving them useless for the attainment of the Final Bliss. The Buddhists, Vijñāna-Vâdins as well as the Bāhyārtha-Vâdıns or the Sauttrāntikas were the chief target of his unshaken argumentary shafts as references to them are often met with. This leads us to conclude that the Pratyabhijñā S'āstra arose, firstly, to philosophically explain the System of Trika, secondly, to check the Buddhistic inroads in the domain of the S'aivaistic monism and, lastly, to popularise the System by establıshing its superionty over other Systems of philosophy in vogue at that time.
-
 [^1]: "मूर्त्या श्रीकण्ठरूपया चोदयामास मुनि दुर्वाससं नाम।ततः स भगवान्देवादादेशं प्राप्य यत्नवान्। ससर्ज मानस पुत्र त्र्यम्बकादित्यनामकम्। यावत्पंचदशः पुत्रः। स कदाचिद्रागवशात्। ब्राह्मणीमानयामास ततो जातस्तथाविधः। तनयः स च कालेन कश्मीरेष्वागतो भ्रमन्। नाम्ना स सङ्गमादित्यो वर्षादित्यस्तु तत्सुतः। तस्याप्यभूत्स भगवानरुणादित्यसंज्ञकः। आनन्दसंज्ञकस्तस्मात्। तस्मादस्मि समुद्भूतः सोमानन्दाख्य ईदृशः॥ Śivadṛṣti, end, 7th Āhnika."
+
+** ISVARAPRATYABHIJÑĀ AND ITS SOURCES—**Somānanda was devoutly followed by Utpaladeva one of the chief exponents of the pratyabhijñā Śāstra. He makes a frank avowal of his pupilage to Siddha Somānanda as is manifest from internal evidences of his extant writings (Cf. Sivadṛsti Vṛtti, 2nd verse[^2]). He has brought into bold relief what was given in outline by his Guru. In fact, his famous work “Isvarapratyabhijñā”is the reflection of the wisdom taught by Somānanda.[^3]There might have been other sources, known to Utpala, from which he collected the material to interweave the fabric of Īśvarapratyabhijñā. But such sources are irrevocably lost to us now. All that Somānanda tried to establish in about 740 Anustub verses in Śivadrsti has, adroitly and succintly, been taught by Utpala in a short compass of 190 Kârikâs which, on account of their brevity and terseness, take also the name of Sūtras (cf. Spandasūtras and Sānkhyasūtras which are also called the Spanda and Sānkhya Kārikās). This conciseness in form and expression popularised Īśvarapratyabhijñā which seems, in several other respects, to have far surpassed even the Śivadṛst of Somānanda. It gradually attained such conspicuity as to attract the attention of other persons of philosophical turn of mind, even, of course, outside the boundaries of Kashmir where it was first nurtured (cf. Madhavāchārya's Pratyabhijñā Darśana). The colouring of the doctrines of the Trika System in the light of Pratyabhijñā, a desideratum of the adherents of the system (for every System of religion, if it want to maintain its endurance, must be based on science and philosophy) was successfully effected by the combined exertions of Somānanda and Utpala and, later on, of Abhinava and Ksemarāja. Besides, Kashmir was the scene of Spiritual feud and foray at the time of Utpala. While advancing “Recognition”as the method for attaining the Highest End, Utpala left no stone unturned to set at naught the conceptions of the Sankhya, the Vais'esika, the Mīmāmsā and the S'abda-Brahma-Vâdins by proving them useless for the attainment of the Final Bliss. The Buddhists, Vijñāna-Vâdins as well as the Bāhyārtha-Vâdıns or the Sauttrāntikas were the chief target of his unshaken argumentary shafts as references to them are often met with. This leads us to conclude that the Pratyabhijñā S'āstra arose, firstly, to philosophically explain the System of Trika, secondly, to check the Buddhistic inroads in the domain of the S'aivaistic monism and, lastly, to popularise the System by establıshing its superionty over other Systems of philosophy in vogue at that time.
 
 [^2]: " ईश्वरप्रत्यभिज्ञोक्तविस्तरे गुरुनिर्मिते। शिवदृष्टिप्रकरणे करोमि पदसंगतिम्। S'. D. Vrtti."
 
@@ -494,7 +494,7 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 **क्रियाधिकारे**
 
 **द्वितीयमाह्निकम्।  
-![](../books_images/U-IMG-1721128287160702-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721128287160702-removebg-preview.png"/>**
 
 **विरोधमविरोधं च स्वेच्छयैवोपपादयन्।  
 भेदाभेदौ च यो मन्त्रतत्त्ववित्तं स्तुमः शिवम्[^92]॥१॥**
@@ -654,7 +654,7 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 
  ३४ आभासमात्रग्रहणोचितान्तः करणवेद्यत्वेऽपि तत्त्वमित्याद्यर्थे तच्छब्देन सर्वनामपरामर्शः। द्वितीये च 'तनु विस्तारे' इति धातोः परामर्शः।अत्रेत्थं योजनया स्फुटप्रतीतिः तत्त्वमिति नीलादीनां भावानां पारमार्थिक संविन्मात्रलक्षणं तत्र न कश्चित् कालत्वेऽवच्छेदोऽभेदघनत्वादेकताया अपि तत्राभावात्, तदेव यदा पुनरान्तरमाभामान्तरानामिश्रमन्तरङ्गमेकं तत्त्वं तदेव पुनर्देशकालस्वभावतोऽनेकतां यानि तत्राप्येकत्वमनपायि रूपमनुगतमेवेति, अनेकमिति व्यवहारमात्रमेकानेकमेवेत्यागमेषु पठ्यते न च विरोधः कश्चित्—प्रतीतेरखण्डनात्।
 
-तदेव सान्तर्विपरिवर्तिनः उभयेन्द्रियवेद्यत्वम्,इति वक्ष्यमाणकार्यकारणभावतत्त्वदृष्ट्या [इन्द्रियवेद्यतायामनेकम्](#)—देशाद्याभासमिश्रणात् इति, एकत्वम्[^127]—आभासान्तरामिश्रताया अन्तःकरणैकवेद्यत्वे चिन्मात्रतायाम्, अनेकत्वं पुनर्—आभासान्तरमिश्रतायाम् उभयकरणवेद्यत्वे चिदतिरिक्तताभासने च, इतिस्फुटो विषयभेदः, तस्यैव[^128] च तथात्वम् इति परामशर्बलादेव कारणाकारणवत् उपादानसहकारिवेत्[^129]। अथ व्यपदेशमात्रम्[^130] एतत् 'कारणम्
+तदेव सान्तर्विपरिवर्तिनः उभयेन्द्रियवेद्यत्वम्,इति वक्ष्यमाणकार्यकारणभावतत्त्वदृष्ट्या इन्द्रियवेद्यतायामनेकम्[^836]—देशाद्याभासमिश्रणात् इति, एकत्वम्[^127]—आभासान्तरामिश्रताया अन्तःकरणैकवेद्यत्वे चिन्मात्रतायाम्, अनेकत्वं पुनर्—आभासान्तरमिश्रतायाम् उभयकरणवेद्यत्वे चिदतिरिक्तताभासने च, इतिस्फुटो विषयभेदः, तस्यैव[^128] च तथात्वम् इति परामशर्बलादेव कारणाकारणवत् उपादानसहकारिवेत्[^129]। अथ व्यपदेशमात्रम्[^130] एतत् 'कारणम्
 
 [^127]: " अयमत्र भावः—सर्वेषामेव नीलमधुरकर्कशादीनां पदार्थानांतत्त्वतश्चिन्मयत्वात् एकैकस्य तद्धर्मयोगात् विश्वात्मत्वं विश्वशरीरत्वं च—इतीश्वरात्मतायामभिन्नत्वमेव युक्तं वक्तुं नैकत्वं तद्धि हित्वादिप्रतियोग्यपेक्षमप्रतियोगिनः कथं स्यात् तदेतदत्रोक्तं 'विश्वमेवान्तरं सत्' इत्यादिना। यदा पुनस्तस्य नीलादेरभिन्नस्यापि अन्तःकरणवेद्यतया सर्वप्रमात्रसाधारणत्वेनात्ममात्रव्यवस्थानात् यदान्तरत्वं तदैकत्वेनाभासो बहिस्त्वनेकत्वेनेति तदेतदुक्तमेकमिति, तत्रायं विभागः—सान्तर्विपरि-वर्तिनः उभयेन्द्रियवेद्यत्वमिति, अन्तःकरणवेद्यतायामेकत्वं बहिष्करणवेद्यत्वे पुनरनेकत्वमिति तदेतत्सर्वमासूर्य सूचयन्नाह—एकत्वमित्यादिना।"
 
@@ -663,6 +663,8 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 [^129]: "यथाहि उपादानस्य सहकारि सामग्र्यभावेऽनुपादानत्वम् इति।"
 
 [^130]: "ननु च कथं कारणमकारणं तस्यैवान्यत्र कारणतादर्शनात्, तस्मात् तत्क्षणं व्यपदेशमात्रमेव तत्, अकारणमिति नहि कदाचिदपि कारणमकारणं संभवति।"
+
+[^836]: #
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1023,7 +1025,7 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 
 **तृतीयमाह्निकम्।**
 
-**![](../books_images/U-IMG-1721210723160702-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721210723160702-removebg-preview.png"/>**
 
 **प्रमाणानि प्रमावेशे स्वबलाक्रमणक्रमात्।  
 यस्य वक्रावलोकीनि प्रमेये तं स्तुमः शिवम्[^206]॥१॥**
@@ -2123,7 +2125,7 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 
 **चतुर्थमाह्निकम्**
 
-**![](../books_images/U-IMG-1721286645ISWARAPRATYABHIJNA_VOL-2--1-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721286645ISWARAPRATYABHIJNA_VOL-2--1-removebg-preview.png"/>**
 
 **भावानाभासयन् कर्ता निर्मले स्वात्मदर्पणे।  
 कार्यकारणभावं च यश्चित्रं तं स्तुमः शिवम्[^460]॥**
@@ -2510,8 +2512,6 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 
 षैव वार्ता, सामान्यानामियमेव सरणिः। तस्मात् नियतिशक्त्यायत्तः शिंशपाभासवृक्षाभासयोः पूर्वनीत्या सामानाधिकरण्याभासो हेतुबलात्। ततः स्वभावोऽयं हेतुहेतुमद्भावमूल एव, तत एव सामान्येनेदमुक्तं द्रष्टव्यं—सर्वः स्वभावहेतुरुत्पत्तिमूलजः[^538],—इति। आभासा एव च वस्तु—इति च समर्थितं प्राक्। ततश्च[^553] शिंशपायामेकस्यामेव सृज्यमानायां
 
-[^538]: "नन्विति। सा हि चिन्ता कारणतानियमानियमत्वे। नहि अत्र स्वभावे हेतौ कारणतानियमानियमाभ्यां किंचित्। यथा कार्यहेतौधूमस्याग्निः कारणं तथा शिंशपात्वस्य वृक्षत्वं कारणं, वृक्षत्वात्मकमेव हि शिंशपात्वं ततश्च स्वभावहेतावन्यत्वमेव नास्ति चेति ततश्च यदुक्तम् अन्यच्चान्यत्र कथं नियमवदित्युक्तिरसंगतेत्यत्र समर्थनमाह वृक्षस्वेति अयमर्थः यदि तदात्मकमेव तत्तदवश्यं शिंशपात्वसिद्धौ तदपि सिद्धमेव भवेत् यत् किल यत्सिद्धौ न सिद्धं तच्चेत् तेन तदात्म तर्हि विश्वं विश्वेन तथा स्यात् तस्मात् न सिद्धं चेत् तत् तदवश्यमन्यत् अन्यस्य च तन्मात्रानुबन्धित्वम् अन्यत्र न युक्तमृते कार्यकारणाभ्यामिति"
-
 [^553]: "अत्रैवान्ततो नियमसमर्थनार्थं पुनरपि तादात्म्यप्रतिबन्धमाक्षिपति ततश्चेति। अयमर्थः—तादात्म्ये तावद्गमकाङ्गे हेतुसाध्ययोरव्यतिरेके गम्यगमकभाव एव दुरुपपादः। न खल्वगृहीतं लिङ्गं लिङ्गिप्रतीतिमाधातुमर्हति तत्रात्र शिंशपावृक्षत्वानुमाने लिङ्गी प्रतिभासते न वा,अप्रतिभासे तद्दुच्या तदग्रहणात् कथं तस्य तदात्मत्वं प्रतिभासे तु लिङ्गवत्प्रत्यक्ष एव सोऽर्थ इति किमनुमानेनेत्याह शाखादिपदार्थान्तराणाम सृष्टेरिति।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -2832,23 +2832,23 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 
 **ईश्वरप्रत्यभिज्ञायां**
 
-**![](../books_images/U-IMG-1721475686200701-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721475686200701-removebg-preview.png"/>**
 
 **श्रीमदाचार्योत्पलदेवविरचितायां**
 
-![](../books_images/U-IMG-1721475702200702-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721475702200702-removebg-preview.png"/>  
 **आचार्याभिनवगुप्तविरचितविमर्शिन्याख्य-**  
 **टीकोपेतायाम्**
 
-**![](../books_images/U-IMG-1721475736200703-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721475736200703-removebg-preview.png"/>**
 
 **आगमाधिकारे**
 
-![](../books_images/U-IMG-1721475762200702-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1721475762200702-removebg-preview.png"/>
 
 **प्रथममाह्निकम्।**
 
-**![](../books_images/U-IMG-1721375471ISWARAPRATYABHIJNA_VOL-2--2-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721375471ISWARAPRATYABHIJNA_VOL-2--2-removebg-preview.png"/>**
 
 **यं प्राप्य सर्वागमसिन्धुसङ्घः**  
 **  पूर्णत्वमभ्येति कृतार्थतां च।**  
@@ -3383,7 +3383,7 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 
 **द्वितीयमाह्निकम्।**
 
-![](../books_images/U-IMG-1721493443200704-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1721493443200704-removebg-preview.png"/>
 
 **अखण्डितस्वभावोऽपि विचित्रां मातृकल्पनाम्।  
 स्वहृन्मण्डलचक्रे[^707] यः प्रथयेत्तं स्तुमः शिवम्॥**
@@ -3865,19 +3865,19 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 
 **अथ**  
 **ईश्वरप्रत्यभिज्ञायां**  
-![](../books_images/U-IMG-1721496556200701-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721496556200701-removebg-preview.png"/>  
 **श्रीमदाचार्योत्पलदेवविरचितायां**
 
-![](../books_images/U-IMG-1721496570200702-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721496570200702-removebg-preview.png"/>  
 **आचार्याभिनवगुप्तविरचितविमर्शिन्याख्य-**  
 **टीकोपेतायाम्।**
 
-**![](../books_images/U-IMG-1721496590200703-removebg-preview.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1721496590200703-removebg-preview.png"/>**  
 **तत्त्वसंग्रहाधिकारे**  
-![](../books_images/U-IMG-1721496615200702-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721496615200702-removebg-preview.png"/>  
 **प्रथममाह्निकम्।**
 
-![](../books_images/U-IMG-1721496636160701-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-1721496636160701-removebg-preview(1"/>.png)
 
 **अनन्तमानमेयादिवैचित्र्याभेदशालिनम्।  
 आत्मानं यः प्रथयते भक्तानां तं स्तुमः शिवम्॥**
@@ -4033,12 +4033,12 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 
  एवं तावदीश्वररूपस्य पत्युरित्थं प्रमेयतत्त्वं,परमशिवे तु भगवति प्रमेयकथैव कथमुत्तिष्ठति, प्रमेयकथोत्थापकत्वमेव भगवतः सदाशिवेश्वरत्वम्; अतोऽधुना पशुं प्रति कीदृक् प्रमेयस्य वृत्तान्तः—इति सन्देहमपोहति श्लोकत्रयेण[^814]
 
+[^814]: "तत्र प्रथमं पीठबन्धं करोति प्रथमेन।"
+
 **ते तु भिन्नावभासार्थाः**  
 **  प्रकल्प्याः प्रत्यगात्मनः।**  
 **तत्तद्विभिन्नसंज्ञाभिः**  
 **  स्मृत्युत्प्रेक्षादिगोचरे॥८॥**
-
-[^814]: "तत्र प्रथमं पीठबन्धं करोति प्रथमेन।"
 
 **तस्यासाधारणी सृष्टि-**  
 **  रीशसृष्ट्युपजीविनी।**  
@@ -4167,24 +4167,24 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 
 **ईश्वरप्रत्यभिज्ञायां**
 
-**![](../books_images/U-IMG-1721500197200701-removebg-preview.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1721500197200701-removebg-preview.png"/>**  
 **श्रीमदाचार्योत्पलदेवविरचिताय  
-![](../books_images/U-IMG-1721500216200702-removebg-preview.png)**  
+<MISSING_FIG href="../books_images/U-IMG-1721500216200702-removebg-preview.png"/>**  
 **आचार्याभिनवगुप्तविरचितविमर्शिन्याख्य-**
 
 **टीकोपेतायाम्।  
-![](../books_images/U-IMG-1721500233200703-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721500233200703-removebg-preview.png"/>  
 तत्त्वसंग्रहाधिकारे  
-![](../books_images/U-IMG-1721500250200702-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721500250200702-removebg-preview.png"/>**
 
 **द्वितीयमाह्निकम्।  
-![](../books_images/U-IMG-1721500266160701-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1721500266160701-removebg-preview(1"/>.png)**
 
  अस्यार्थस्य स्वप्रत्ययसिद्धस्यापि गुरुपरम्परोपदेश उपोद्वलको वक्तव्यः, शास्त्रदृष्टिर्हि[^832]
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 [^832]: "१ ज्ञानक्रियाधिकारयुगलकेन तत्त्वार्थसंग्रहसहितेन स्वप्रकाशेऽपि तत्त्वे युक्त्युपबृंहिते निरूपिते स्वत इत्यंशः पूरितः आगमाधिकारेण तमेवार्थमुपोद्वलयता शास्त्रत इत्ययमंशः पूरित इत्याह शास्त्रदृष्टिर्हीति शास्त्रदृष्टिरपि तत्प्रसिद्धगुरुपरम्परोपदेशेन सम्यगागमत्वं नेयेति च परमह दन्तरालदिव्यदिव्यादिव्यादिसंबन्धमनादृत्य स्वबुद्धिमात्रपुस्तकशरणा विडम्बिता इत्याशयेन  'पुस्तकाधीतविद्याश्च गुरुक्रमविवर्जिताः। आचरन्तो दिशन्तश्च पच्यन्ते नरके चिरम्।  यातनाराजराजानां ते भोक्तारो विनिन्दिताः। तस्माद्गुरुक्रमायातं दिशन्नेति परं शिवम्।  इत्युक्तम्। ततश्च गुरुत इत्ययमंशस्तृतीयः पूरयितव्यः। तदुक्तं किरणसंहितायाम्  'स्वतोऽपि गुरुतः शास्त्राद्विमर्शस्त्रिविधः स्मृतः।'  इति श्लोकत्रयेण गुरुत इति पूरयति ॥ तत्राद्यश्लोकेन स्वगुरुपर्वक्रममुपदेशस्यापूर्वतयाप्रयासकारित्वेनावश्योपदेश्यतां च दर्शयति।"
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  १ ज्ञानक्रियाधिकारयुगलकेन तत्त्वार्थसंग्रहसहितेन स्वप्रकाशेऽपि तत्त्वे युक्त्युपबृंहिते निरूपिते स्वत इत्यंशः पूरितः आगमाधिकारेण तमेवार्थमुपोद्वलयता शास्त्रत इत्ययमंशः पूरित इत्याह शास्त्रदृष्टिर्हीति शास्त्रदृष्टिरपि तत्प्रसिद्धगुरुपरम्परोपदेशेन सम्यगागमत्वं नेयेति च परमह दन्तरालदिव्यदिव्यादिव्यादिसंबन्धमनादृत्य स्वबुद्धिमात्रपुस्तकशरणा विडम्बिता इत्याशयेन
 
@@ -4296,13 +4296,13 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 पेतायां तत्त्वसंग्रहाधिकारे गुरुपर्वक्रमाख्यं  
 द्वितीयमाह्निकम्॥२॥**
 
-**![](../books_images/U-IMG-1721501028160702-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721501028160702-removebg-preview.png"/>**
 
 **समाप्ता श्रीमदीश्वरप्रत्यभिज्ञा॥**
 
 **ओं तत्सत्।**
 
-**![](../books_images/U-IMG-1721501100200705-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721501100200705-removebg-preview.png"/>**
 
 **श्रीमत्प्रतापभूभर्तुराज्ञया प्रीतये सताम्  
 मधुसूदनकौलेन संपाद्येयं प्रकाशिता॥**
@@ -4310,4 +4310,3 @@ The author of Īśvarapratyabhijñā is Utpaladeva. This is obvious from the clo
 **\_\_\_\_\_\_\_\_\_\_\_**
 
 \]
-

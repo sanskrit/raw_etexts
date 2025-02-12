@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 \[
 
-![](../books_images/U-IMG-1720440814उपरि.......png)
+<MISSING_FIG href="../books_images/U-IMG-1720440814उपरि.......png"/>
 
 [TABLE]
 
@@ -34,7 +34,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **॥ प्रपञ्चसारविषयविवेकः॥**
 
-**![](../books_images/U-IMG-1720441172rekha2.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720441172rekha2.png"/>**
 
 |           |                                                                                                                                                                                                                                                                                         |
 |-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -93,13 +93,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **१९**. | श्रीमदष्टाक्षरमन्त्रदीक्षाविधिम्, नवशक्त्यष्टायुधपञ्चावरणजपगुणविधीन्, गुरुपूजादक्षिणाद्रव्यावरण- वीरचतुष्टयाक्षरवर्णाक्षरमूर्तीः आयुधध्यानमन्त्रवर्णचतुः षष्टिकरणपूजावरणाष्टनागावरणानि, मत्स्याद्या- विर्भावम्, अक्षरमूर्तिपूजाफलानि, चोपदिशत्येकोनविंशपटलेन ॥ |
 
-![](../books_images/U-IMG-1720448393Screenshot2024-07-08194832.png)  
+<MISSING_FIG href="../books_images/U-IMG-1720448393Screenshot2024-07-08194832.png"/>  
 
-![](../books_images/U-IMG-1720259936Untitled४.png)
+<MISSING_FIG href="../books_images/U-IMG-1720259936Untitled४.png"/>
 
 **॥ प्रपञ्चसारः ॥**
 
-**![](../books_images/U-IMG-1720259985Untitled५.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720259985Untitled५.png"/>**
 
 अकचटतपयाद्यैः सप्तभिर्वर्णवर्गै-  
 र्विरचितमुखबाहापाद
@@ -472,11 +472,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे प्रथमः पटलः॥**
 
-**![](../books_images/U-IMG-1720259867Untitled३.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720259867Untitled३.png"/>**
 
 **द्वितीयः पटलः ॥**
 
-![](../books_images/U-IMG-1720457547रेखा.png)
+<MISSING_FIG href="../books_images/U-IMG-1720457547रेखा.png"/>
 
 अथ व्यवस्थिते त्वेवं मासात्पक्षाद्दिनादपि।  
 मुहूर्तान्नाडिकायाश्च क्षणादपि च वर्धते ॥१ ॥
@@ -718,11 +718,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे द्वितीयः पटलः ॥**
 
-![](../books_images/U-IMG-1720433568Untitled.png)
+<MISSING_FIG href="../books_images/U-IMG-1720433568Untitled.png"/>
 
 **तृतीयः पटलः ॥**
 
-![](../books_images/U-IMG-1720457547रेखा.png)
+<MISSING_FIG href="../books_images/U-IMG-1720457547रेखा.png"/>
 
 अथोभयात्मका वर्णाः स्युरग्नीषोमात्मभेदतः।  
 त एव स्युस्त्रिधा भूयः सोमेनाग्निविभागशः॥ १ ॥
@@ -1003,11 +1003,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे तृतीयः पटलः॥**
 
-**![](../books_images/U-IMG-1720501172Screenshot2024-07-09102907.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720501172Screenshot2024-07-09102907.png"/>**
 
 **॥ चतुर्थः पटलः ॥**  
 
-**![](../books_images/U-IMG-1720518300रेखाडिजा.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720518300रेखाडिजा.png"/>**
 
 अथ व्यवस्थिते त्वेवमस्य शक्तित्वमिष्यते।  
 कृतकृत्यस्य जगति सततं रूढसंस्थितेः॥ १ ॥
@@ -1290,11 +1290,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे चतुर्थः पटलः ॥**
 
-![](../books_images/U-IMG-1720501447Screenshot2024-07-09103351.png)
+<MISSING_FIG href="../books_images/U-IMG-1720501447Screenshot2024-07-09103351.png"/>
 
 **॥ पञ्चमः पटलः ॥**  
 
-**![](../books_images/U-IMG-1720533342रेखाडिजा.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720533342रेखाडिजा.png"/>**
 
 अथ प्रवक्ष्ये विधिवन्मनूनां  
 दीक्षाविधानं जगतो हिताय।  
@@ -1610,11 +1610,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे पञ्चमः पटलः ॥**
 
-**![](../books_images/U-IMG-1720113818Screenshot2024-07-04225249.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1720113818Screenshot2024-07-04225249.png"/>**  
 
 **॥ षष्ठः पटलः ॥**  
 
-**![](../books_images/U-IMG-1720542627रेखी.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720542627रेखी.png"/>**
 
 अथ पुनराचम्य गुरुः  
 प्राग्वदनो विष्टरोपविष्टः सन्।  
@@ -2105,11 +2105,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे षष्ठः पटलः ॥**
 
-**![](../books_images/U-IMG-1720089232Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1720089232Capture.PNG"/>**
 
 **॥ सप्तमः पटलः ॥**  
 
-![](../books_images/U-IMG-1720524326रेखा.png)
+<MISSING_FIG href="../books_images/U-IMG-1720524326रेखा.png"/>
 
 अथाक्षराणामधिदेवतायाः  
 समस्तबोधस्थितिदीपिकायाः।  
@@ -2582,11 +2582,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे सप्तमः पटलः॥**
 
-**![](../books_images/U-IMG-172010698712.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-172010698712.PNG"/>**
 
 **॥ अष्टमः पटलः ॥**
 
-![](../books_images/U-IMG-1720516632रेखाडिजा.png)
+<MISSING_FIG href="../books_images/U-IMG-1720516632रेखाडिजा.png"/>
 
 अथ प्रवक्ष्यामि सुदुर्लभाप्त्यै  
 विद्यां विशिष्टां त्रिपुराभिधानाम्।  
@@ -2962,12 +2962,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 विधृतलिपिव्राताहित-  
 मुखकरचरणादिके प्रसीद मम॥ ६७॥[^100]
 
+[^100]: "अयं श्लोकः प्रक्षिप्त इति कश्चिद्व्याख्याता."
+
 वर्णतनोऽमृतवर्णे  
 नियतमनिर्वर्णितेऽपि योगीन्द्रैः।  
 निर्णीतिकरणदूरे  
 वर्णयितुं देवि देहि सामर्थ्यम्॥ ६८ ॥
-
-[^100]: "अयं श्लोकः प्रक्षिप्त इति कश्चिद्व्याख्याता."
 
 ससुरासुरमौलिलस-  
 न्मणिप्रभादीपिताङ्घ्रियुगनलिने।  
@@ -3020,11 +3020,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे अष्टमः पटलः ॥**
 
-**![](../books_images/U-IMG-1720573297Screenshot2024-07-10063051.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1720573297Screenshot2024-07-10063051.png"/>**  
 
 **॥ नवमः पटलः ॥**  
 
-![](../books_images/U-IMG-1720573443रेखा.png)
+<MISSING_FIG href="../books_images/U-IMG-1720573443रेखा.png"/>
 
 अथाभिवक्ष्ये[^101] सकलप्रपञ्च-  
 मूलात्मिकायाः प्रकृतेर्यथावत्।  
@@ -3382,11 +3382,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे नवमः पटलः॥**  
 
-![](../books_images/U-IMG-172063305610.07.2024_23.06.17_REC.png)
+<MISSING_FIG href="../books_images/U-IMG-172063305610.07.2024_23.06.17_REC.png"/>
 
 **॥ दशमः पटलः ॥**  
 
-**![](../books_images/U-IMG-1720683052रेखी.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720683052रेखी.png"/>**
 
 अथ वक्ष्ये संग्रहतो  
 द्वादशगुणिताख्यमद्य यन्त्रवरम्।  
@@ -3719,11 +3719,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे दशमः पटलः ॥**
 
-**![](../books_images/U-IMG-1720497362चित्र.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720497362चित्र.png"/>**
 
 **एकादशः पटलः ॥**  
 
-![](../books_images/U-IMG-1720497433रेखाडिजा.png)
+<MISSING_FIG href="../books_images/U-IMG-1720497433रेखाडिजा.png"/>
 
 अथ श्रियो मन्त्रविधिः समासतो  
 जगद्धिताय प्रतिवक्ष्यतेऽधुना।  
@@ -4029,11 +4029,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे एकादशः पटलः ॥**
 
-![](../books_images/U-IMG-1720171018Screenshot2024-07-05144607.png)
+<MISSING_FIG href="../books_images/U-IMG-1720171018Screenshot2024-07-05144607.png"/>
 
 **॥ द्वादशः पटलः॥**
 
-![](../books_images/U-IMG-1720505142रेखाडिजा.png)
+<MISSING_FIG href="../books_images/U-IMG-1720505142रेखाडिजा.png"/>
 
 अथ रमाभुवनेशिमनोभवै-  
 स्त्रिपुटसंज्ञकमन्त्रमुदीरितम्।  
@@ -4472,11 +4472,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे द्वादशः पटलः॥**
 
-**![](../books_images/U-IMG-1720525246lxm.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720525246lxm.png"/>**
 
 **॥ त्रयोदशः पटलः ॥**  
 
-**![](../books_images/U-IMG-1720588664रेखाडिजा.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720588664रेखाडिजा.png"/>**
 
 अथ वक्ष्यामि दुर्गाया मन्त्रान्साङ्गान्सदेवतान्।  
 सजपार्चाहुतविधीन्प्रीत्यर्थं मन्त्रजापिनाम्॥ १ ॥
@@ -4901,11 +4901,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे त्रयोदशः पटलः ॥**
 
-**![](../books_images/U-IMG-1720596533Screenshot2024-07-09101742.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720596533Screenshot2024-07-09101742.png"/>**
 
 **॥ चतुर्दशः पटलः ॥**  
 
-**![](../books_images/U-IMG-1720596756रेखा6.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720596756रेखा6.png"/>**
 
 अथ कथयिष्ये मन्त्रं  
 चतुरक्षरसंज्ञकं समासेन।  
@@ -5065,7 +5065,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **॥ चतुर्दशः पटलः॥**  
 
-**![](../books_images/U-IMG-1720602470रेखा.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720602470रेखा.png"/>**
 
 विधाय शशिनात्ममन्त्रयुतवामदोष्णा पुनः  
 सुधायितरसैः स्वसाध्यमभिषेचयेत्तज्जलैः॥ ३२॥
@@ -5198,7 +5198,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **॥ चतुर्दशः पटलः॥**  
 
-**![](../books_images/U-IMG-1720805000Screenshot2024-07-11161259.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720805000Screenshot2024-07-11161259.png"/>**
 
 आदित्यं रविभानू  
 भास्करसूर्यौ न्यसेत्स्वरैर्लघुभिः।  
@@ -5251,11 +5251,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे चतुर्दशः पटलः॥**
 
-![](../books_images/U-IMG-1720243994Screenshot2024-07-06110214.png)
+<MISSING_FIG href="../books_images/U-IMG-1720243994Screenshot2024-07-06110214.png"/>
 
 **॥ पञ्चदशः पटलः॥**  
 
-**![](../books_images/U-IMG-1720244156Screenshot2024-07-06110523.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720244156Screenshot2024-07-06110523.png"/>**
 
 अथ चन्द्रमनुं वक्ष्ये सजपार्चाहुतादिकम्।  
 हिताय मन्त्रिणां सार्घ्यविधानं च समासतः॥ १ ॥
@@ -5547,10 +5547,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे पञ्चदशः पटलः॥**
 
-![](../books_images/U-IMG-1720606333Screenshot2024-07-10154113.png)
+<MISSING_FIG href="../books_images/U-IMG-1720606333Screenshot2024-07-10154113.png"/>
 
 **॥ षोडशः पटलः ॥**  
-![](../books_images/U-IMG-1720606687Screenshot2024-07-06110523.png)
+<MISSING_FIG href="../books_images/U-IMG-1720606687Screenshot2024-07-06110523.png"/>
 
 अथ संग्रहेण कथयामि  
 मनुमपि महागणेशितुः।  
@@ -5926,11 +5926,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे षोडशः पटलः॥**  
 
-**![](../books_images/U-IMG-1720834466Screenshot2024-07-09101742.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720834466Screenshot2024-07-09101742.png"/>**
 
 **॥ सप्तदशः पटलः ॥**  
 
-**![](../books_images/U-IMG-1720611177Screenshot2024-07-06110523.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720611177Screenshot2024-07-06110523.png"/>**
 
 अथ मन्मथमन्त्रविधिं विधिना  
 कथयामि सहोमविधिं सजपम्।  
@@ -6179,11 +6179,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे सप्तदशः पटलः॥**
 
-![](../books_images/U-IMG-1720614706Screenshot2024-07-10180107.png)
+<MISSING_FIG href="../books_images/U-IMG-1720614706Screenshot2024-07-10180107.png"/>
 
 **॥ अष्टादशः पटलः॥**  
 
-**![](../books_images/U-IMG-1720614782Screenshot2024-07-06110523.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720614782Screenshot2024-07-06110523.png"/>**
 
 अथ प्रणवसंज्ञकं प्रतिवदामि मन्त्रं परं  
 सजापमपि सार्चनं सहुतक्लृप्ति सोपासनम्।  
@@ -6355,11 +6355,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 भवति च स ब्रह्म सर्वसंवादे॥ ३५ ॥
 
 ऋक् च तदाद्यादिः स्या-  
-त्तन्मध्यान्तं यजुश्च [मान्तादिः](#)।  
+त्तन्मध्यान्तं यजुश्च मान्तादिः[^172]।  
 सामापि[^155] तस्य भेदा  
 बहवः प्रोक्ता हि लोकवेदेषु॥ ३६ ॥
 
 [^155]: "मान्तानि । सामानि"
+
+[^172]: #
 
 उच्चार्योच्चार्य च तं  
 क्रमान्नयेदुपरि षड्द्वयान्तान्तम्।  
@@ -6509,11 +6511,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे अष्टादशः पटलः॥  
 
-![](../books_images/U-IMG-1720864021Screenshot2024-07-11204324.png)**
+<MISSING_FIG href="../books_images/U-IMG-1720864021Screenshot2024-07-11204324.png"/>**
 
 **॥ एकोनविंशः पटलः ॥**  
 
-**![](../books_images/U-IMG-1720790123Screenshot2024-07-06110523.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720790123Screenshot2024-07-06110523.png"/>**
 
 अथ पुनरभिवक्ष्ये मन्त्रमष्टाक्षराख्यं  
 सकलदुरितदुःखध्वान्तसंभेदभानुम्।  
@@ -6782,6 +6784,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3Njg1ODg2MTc
 
 **प्रपञ्चसारे एकोनविंशः पटलः॥**  
 
-**![](../books_images/U-IMG-1720836468Screenshot2024-07-10063051.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720836468Screenshot2024-07-10063051.png"/>**
 
 \]

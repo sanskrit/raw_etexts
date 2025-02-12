@@ -226,7 +226,7 @@ A. A. S.
 पञ्चमोऽध्यायः  
 जीवगोस्वामिकृत टीकोपेतः।
 
-![](../books_images/U-IMG-1725944160Screenshot2024-09-09142007.png)
+<MISSING_FIG href="../books_images/U-IMG-1725944160Screenshot2024-09-09142007.png"/>
 
 **श्रीश्रीविष्णुसहस्रनामस्तोत्रम्**  
 
@@ -1539,7 +1539,7 @@ A. A. S.
 
 **शाङ्करभाष्योपेतम्।**
 
-![](../books_images/U-IMG-1725872024Screenshot2024-09-09142007.png)
+<MISSING_FIG href="../books_images/U-IMG-1725872024Screenshot2024-09-09142007.png"/>
 
 वैशम्पायन उवाच।
 

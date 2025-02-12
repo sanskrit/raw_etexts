@@ -38,7 +38,7 @@ Sanskrit Manuscript, Trivandrum.*
 PUBLISHED UNDER THE AUTHORITY OF THE GOVERNMENT OF  
 HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
-![](../books_images/U-IMG-172500989914.png)
+<MISSING_FIG href="../books_images/U-IMG-172500989914.png"/>
 
 **अनन्तशयनसंस्कृतग्रन्थावलिः।**
 
@@ -67,7 +67,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 कोलम्बाब्दाः ११०१, क्रैस्ताब्दाः १९२५.
 
 **PREFACE  
-![](../books_images/U-IMG-172501040814.png)**
+<MISSING_FIG href="../books_images/U-IMG-172501040814.png"/>**
 
  The Vishnusamhita in 30 chapters ascribed to Vishnu is an abridgement of the voluminous work of the same name containing 108 chapters. This work is the source of Tantrasamuchchaya and other later treatises on Tantra.
 
@@ -129,7 +129,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 | १४   | बिम्बलक्षणम्‌     | २९   | समयाचारलक्षणम्‌       |
 | १५   | प्रतिष्ठापञ्चकम्‌ | ३०   | भगवतो योगः           |
 
-![](../books_images/U-IMG-172501286114.png)
+<MISSING_FIG href="../books_images/U-IMG-172501286114.png"/>
 
 **॥ श्रीः ॥**
 
@@ -137,7 +137,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 विष्णुसंहिता।
 
-![](../books_images/U-IMG-172499695614.png)
+<MISSING_FIG href="../books_images/U-IMG-172499695614.png"/>
 
 अथ प्रथमः पटलः।
 
@@ -292,7 +292,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 इति विष्णुसंहितायां प्रथमः पटलः।
 
-![](../books_images/U-IMG-172499871814.png)
+<MISSING_FIG href="../books_images/U-IMG-172499871814.png"/>
 
 अथ द्वितीयः पटलः
 
@@ -464,7 +464,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 स एव भगवान् विष्णुर्नाफलस्तदनुग्रहः।
 
 इति विष्णुसंहितायां द्वितीयः पटलः॥  
-![](../books_images/U-IMG-172500095814.png)
+<MISSING_FIG href="../books_images/U-IMG-172500095814.png"/>
 
 **अथ तृतीयः पटलः**
 
@@ -784,7 +784,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 वक्ति यन्महिमानन्त्यं न ते विष्णाविति श्रुतिः॥८९॥  
 
 इति विष्णुसंहितायां[^35] तृतीयः पटलः॥  
-![](../books_images/U-IMG-172501562214.png)
+<MISSING_FIG href="../books_images/U-IMG-172501562214.png"/>
 
 [^35]: "'यांवैभवप'"
 
@@ -894,8 +894,6 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 निग्रहानुग्रहौ चापि[^17] करोति जगतः प्रभुः।  
 एकैकोत्कर्षभेदेन पञ्चधा पञ्चशक्तिभिः॥३१॥
-
-[^17]: "'वा'"
 
 पञ्चात्मानः स्मृता[^43] ह्येते सूक्ष्मरूपा व्यवस्थिताः।  
 संसारविषयातीता योगगम्याः सनातनाः॥३२॥
@@ -1009,7 +1007,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 पुष्पालाभे तु तोयेन तोयालाभे तु चेतसा॥६३॥
 
 इति विष्णुसंहितायां चतुर्थः पटलः  
-![](../books_images/U-IMG-172501768914.png)
+<MISSING_FIG href="../books_images/U-IMG-172501768914.png"/>
 
 अथ पञ्चमः पटलः
 
@@ -1136,8 +1134,6 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 प्रथमः परमेष्ठ्यात्मा पुरुषात्मा तथापरः।  
 विश्वात्माथ[^23] निवृत्त्यात्मा सर्वात्मा पञ्च ते स्मृताः॥३४॥
-
-[^23]: "'च'"
 
 आवाहने विसर्गे च योज्याः पञ्च क्रमोत्क्रमात्।  
 प्रोक्षणे शान्तिहोमे च द्रव्यशुद्धौ च कीर्तिताः॥३५॥
@@ -1307,7 +1303,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 तदेतत् साधयत्याशु न मोघमिति धारणा॥७९॥
 
 इति विष्णुसंहितायां पञ्चमः पटलः  
-![](../books_images/U-IMG-172503140514.png)
+<MISSING_FIG href="../books_images/U-IMG-172503140514.png"/>
 
 अथ षष्ठः पटलः।
 
@@ -1589,7 +1585,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 तस्य हस्तगताः कामा इहामुत्र च योगिनः॥७९ १/२॥
 
 इति[^94] विष्णुसंहितायां षष्ठः पटलः  
-![](../books_images/U-IMG-172503768514.png)
+<MISSING_FIG href="../books_images/U-IMG-172503768514.png"/>
 
 [^94]: "'अर्चनाध्यायः॥' घ. पाठः"
 
@@ -1803,7 +1799,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 इति विष्णुसंहितायां सप्तमः पटलः॥  
 
-![](../books_images/U-IMG-1725011169Screenshot2024-08-29174255.png)
+<MISSING_FIG href="../books_images/U-IMG-1725011169Screenshot2024-08-29174255.png"/>
 
 **अथ अष्टमः पटलः।**
 
@@ -2126,7 +2122,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 विशेषतस्तु कर्तव्यं तत्र तत्रैव वक्ष्यते॥८६॥
 
 इति[^134] बिप्णुसंहितायामग्निकार्योऽष्टमः पटकः॥  
-![](../books_images/U-IMG-1725037692Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1725037692Screenshot2023-06-15124029.png"/>
 
 [^134]: "इत्यग्निकार्यपटलोऽष्टमः ख. ग. पाठः."
 
@@ -2775,8 +2771,6 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 अग्नौ हुत्वाऽखिलान् मन्त्रान् पूजयित्वा च तं प्रभुम्।  
 दर्शयेद् विधिना यं[^190] तु स ज्ञेयो देशिकोऽर्चकः॥५॥
 
-[^190]: "'यस्तु' ख पाठः"
-
 पुत्रकोऽधीत्य तन्त्राणि[^192] द्वितीयं मन्त्रमाप्नुयात्।  
 तृतीयं पूजयेद् देवमित्येवं त्रिविधः क्रमः[^193]॥६॥
 
@@ -2895,8 +2889,6 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 मनसा पूजयित्वा तु कार्यमेनं[^204] निवेदयेत्।  
 भगवन्! दीक्षितस्योक्तमाचार्यत्वेऽभिषेचनम्॥३६॥
-
-[^204]: "'तं',"
 
 तत् करिष्याम्यनुज्ञातस्त्वया सर्वार्थसिद्धये।  
 लब्धानुज्ञस्ततः कुर्यादभिषेकं यथाविधि॥३७॥
@@ -3293,8 +3285,6 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 जपेत् स्वप्नप्रदं मन्त्रं यावन्निद्रावशंगतः।  
 ततः[^237] पश्यत्यसौ स्वप्नं तद्भूमिफल[^238]सूचकम्[^214]॥६४॥
 
-[^214]: "'न' क. घ. पाठः."
-
 [^237]: " 'अ' क. पाठः."
 
 [^238]: "'ब' ख. ग. पाठः."
@@ -3406,7 +3396,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 [^247]: "'न्या' ख. ग. पाठः."
 
 इति विष्णुसंहितायां[^248] वास्तुपटलो द्वादशः ॥  
-![](../books_images/U-IMG-1725341221Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1725341221Screenshot2023-06-15123943.png"/>
 
 [^248]: "'यां भूपट्' घ. ङ. पाठः."
 
@@ -4162,7 +4152,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 इति विष्णु
 
 संहितायां चतुर्दशः पटलः॥  
-![](../books_images/U-IMG-1725431310Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1725431310Screenshot2023-06-15123943.png"/>
 
 **अथ पञ्चदशःपटलः।**
 
@@ -4564,7 +4554,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 इति विष्णु
 
 संहितायांपञ्चदशःपटलः॥  
-![](../books_images/U-IMG-1725439848Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1725439848Screenshot2023-06-15123943.png"/>
 
 अथ षोडशःपटलः।
 
@@ -5033,7 +5023,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 शतमष्टोत्तरं चात्र पर्णां दद्यात्‌ शतेशते॥१३३½॥
 
 इति विष्णुसंहितायां षोडशः पटलः॥  
-![](../books_images/U-IMG-1725515471Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1725515471Screenshot2023-06-15123943.png"/>
 
 **अथ सप्तदशः पटलः।**
 
@@ -5415,7 +5405,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 मौहुर्त्तिकोपदिष्टेन लग्नेन स्थापयेत्‌ सुधीः॥११५॥
 
 इति विष्णुसंहितायामधिवासपटलः सप्तदशः॥  
-![](../books_images/U-IMG-1725532052Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1725532052Screenshot2023-08-08170946.png"/>
 
 **अथाष्टादशःपटलः।**
 
@@ -5745,7 +5735,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 बलिं च सर्वतोदद्यात्‌ ततः शान्तिर्भविष्यति॥९६½॥
 
 **इति विष्णुसंहितायां प्रतिष्ठापटलोऽष्टादशः॥**  
-![](../books_images/U-IMG-1725537315Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1725537315Screenshot2023-06-15124029.png"/>
 
 **अथैकोनविंशःपटलः।**
 
@@ -5929,9 +5919,9 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 वियद्ग्रहोदरवर्तिभ्यों हुं फट्‌ओं[^295]
 
-गच्छतठठ। विष्णुगणानामतो बलिमुपाहरामि भद्रं नो ददत प्रीणयत स्वाहा।
-
 [^295]: " 'हू'ग. पाठः,"
+
+गच्छतठठ। विष्णुगणानामतो बलिमुपाहरामि भद्रं नो ददत प्रीणयत स्वाहा।
 
  ओन्नमो विष्णु
 
@@ -5975,7 +5965,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 गन्धादिभिरथार्चयेत्‌॥६०॥
 
 इंति विष्णुसंहितायाम्‌ एकोनविंशः पटलः॥  
-![](../books_images/U-IMG-1725607166Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1725607166Screenshot2023-06-15124029.png"/>
 
 **अथ विंशःपटलः।**
 
@@ -6340,7 +6330,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 ततः कौतुकबन्धादि कर्त्तव्यं सर्वमाचरेत्‌॥१०१½॥
 
 इति विष्णुसंहितायामुत्सवपटलो विंशः॥  
-![](../books_images/U-IMG-1725620359Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1725620359Screenshot2023-06-15124029.png"/>
 
 **अथैकविंशः पटलः।**
 
@@ -6693,7 +6683,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 संहितायामेकर्विंशः पटलः॥
 
-![](../books_images/U-IMG-1725861445Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1725861445Screenshot2023-06-15124029.png"/>
 
 **अथ द्वाविंशः पटलः।**
 
@@ -7009,7 +6999,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 तिथ्यृक्षवारराशीनां देवताश्चापि तर्पयेत्‌॥८५॥
 
 इति बिष्णुसंहितायां बलिदानविधिर्नाम द्वाविंशः पटलः॥  
-![](../books_images/U-IMG-1725863181Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1725863181Screenshot2023-06-15124029.png"/>
 
 **अथ त्रयोविंशः पटलः।**
 
@@ -7319,7 +7309,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 इति विष्णुसंहितायां विश्वार्चनं नाम त्रयोविंशःपटलः॥
 
-![](../books_images/U-IMG-1725867745Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1725867745Screenshot2023-06-15124029.png"/>
 
 **अथ चतुर्विंशपटलः।**
 
@@ -7632,8 +7622,6 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 स्वस्त्यस्तु पूजकानां तु स्वस्ति चास्तु गवामपि।  
 स्वस्त्यस्तु स्थावराणां तु[^320]जङ्गमानां तथैव च॥८९॥
-
-[^320]: "'च',"
 
 स्वस्ति चास्तु च मन्त्राणां स्वस्ति वैकर्मणामपि।  
 बलिदानं हि देवस्य विष्णोरस्मैनमो नमः॥ ९०॥
@@ -8242,8 +8230,6 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 शन्नो यादिव्या[^108]यासां च परोमात्रेति दैविके।  
 मध्येऽतोदेवसुक्तं च सर्वत्रान्ते स्वपूरणम्‌॥ ६७॥
 
-[^108]: "'व्या'"
-
 पाद्यादिमध्यपर्यन्तं स्नानम[^383]त्र प्रकीर्तितम्‌।  
 प्रतिद्रव्यं समभ्यर्च्य धूप[^384]यित्वानिवेदयेत्‌॥ ६८॥
 
@@ -8289,7 +8275,7 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 इति विष्णुसंहितायां षड्विंशः पटलः॥
 
-![](../books_images/U-IMG-17261583221.png)
+<MISSING_FIG href="../books_images/U-IMG-17261583221.png"/>
 
 **अथ सप्तविंशः पटलः।**
 
@@ -8300,8 +8286,6 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 
 सम्मृज्यसर्वतो गेहं कपिलागोमयेन च[^70]\।  
 तन्मूत्रेण च तेनात्र प्रोक्षयेच्छमिति ब्रुवन्‌॥ २॥
-
-[^70]: "'तु'"
 
 चतुर्दिक्षु त[^392]था कृत्वा सगर्भगृहमादितः।  
 तुष्णीं मन्त्रैश्च सम्प्रोक्ष्य शुद्धोदैर्मन्त्रवारिभिः॥ २॥
@@ -9772,4 +9756,3 @@ HER HIGHNESS THE MAHARANI REGENT OF TRAVANCORE.
 शुभं भूयात्‌।
 
 \]
-

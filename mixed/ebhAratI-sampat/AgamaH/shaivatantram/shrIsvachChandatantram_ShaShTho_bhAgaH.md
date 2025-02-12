@@ -32,12 +32,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MTM4ODI1MzY
 [TABLE]
 
 (All rights reserved.)  
-![](../books_images/U-IMG-1721800629Screenshot2024-07-24105945.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721800629Screenshot2024-07-24105945.png"/>  
 
 Printed by Ramchandra Yesu Shedge, at the ‘Nirnaya-sagar’ Press,  
 26-28, Kolbhat Lane, Bombay.  
 
-![](../books_images/U-IMG-1721800629Screenshot2024-07-24105945.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721800629Screenshot2024-07-24105945.png"/>  
 **Published by Pandit Madhusudan Kaul Shastri,**
 
 **M. A., M. O. L.**  
@@ -49,12 +49,12 @@ Jammu and Kashmir Government, SRINAGAR.**
 
 श्रीस्वच्छन्दतन्त्रम्।  
 
-![](../books_images/U-IMG-1721800953Screenshot2024-07-24113134.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721800953Screenshot2024-07-24113134.png"/>  
 श्रीमन्महामाहेश्वराचार्यश्रीक्षेमराजकृतोद्द्योताख्य-  
 विवरणोपेतम्।  
-![](../books_images/U-IMG-1721800996Screenshot2024-07-24113259.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721800996Screenshot2024-07-24113259.png"/>  
 (एकादशः पटलः)  
-![](../books_images/U-IMG-1721801011Screenshot2024-07-24113305.png)
+<MISSING_FIG href="../books_images/U-IMG-1721801011Screenshot2024-07-24113305.png"/>
 
 **स्वस्वरूपात्मशक्त्यैव स्वाभिन्नं संसृजञ्जगत्।  
 संहरंश्च जयत्येकः स्वच्छन्दो बोधभैरवः॥१॥**
@@ -3581,20 +3581,20 @@ Jammu and Kashmir Government, SRINAGAR.**
 
 इति श्रीस्वच्छन्दोच्योते एकादशः पटलः सम्पूर्णः॥११॥
 
-![](../books_images/U-IMG-172146208131.png)
+<MISSING_FIG href="../books_images/U-IMG-172146208131.png"/>
 
 अथ  
 
 **श्रीस्वच्छन्दतन्त्रम्।**  
 
-![](../books_images/U-IMG-172146751932.png)
+<MISSING_FIG href="../books_images/U-IMG-172146751932.png"/>
 
 श्रीमन्महामाहेश्वराचार्यश्रीक्षेमराजकृतोयोताख्यविवरणोपेतम्।  
-![](../books_images/U-IMG-172146766933.png)
+<MISSING_FIG href="../books_images/U-IMG-172146766933.png"/>
 
 ( द्वादशः पटलः )  
 
-![](../books_images/U-IMG-1721467736Untitl11gggg.png)
+<MISSING_FIG href="../books_images/U-IMG-1721467736Untitl11gggg.png"/>
 
 स्वात्मनि स्वेच्छया क्लृप्ततत्तत्तच्चस्फुटद्युतौ।  
 स्वाभिन्ना भासयन्सिद्धीः स्वच्छन्दो जयति प्रभुः॥
@@ -5585,20 +5585,20 @@ Jammu and Kashmir Government, SRINAGAR.**
 
 इति श्रीक्षेमराजविरचिते स्वच्छन्दोद्द्योते द्वादशः पटलः॥
 
-![](../books_images/U-IMG-172169821031.png)
+<MISSING_FIG href="../books_images/U-IMG-172169821031.png"/>
 
 अथ
 
 श्रीस्वच्छन्दतन्त्रम्।  
 
-![](../books_images/U-IMG-172169847932.png)
+<MISSING_FIG href="../books_images/U-IMG-172169847932.png"/>
 
 श्रीमन्महामाहेश्वराचार्यश्रीक्षेमराजकृतोद्द्योताख्य-  
 विवरणोपेतम्।  
-![](../books_images/U-IMG-172169868434.png)
+<MISSING_FIG href="../books_images/U-IMG-172169868434.png"/>
 
 (त्रयोदशः पटलः)  
-![](../books_images/U-IMG-1722405412Screenshot2024-07-24113305.png)
+<MISSING_FIG href="../books_images/U-IMG-1722405412Screenshot2024-07-24113305.png"/>
 
 परामृतरसस्फारसारसंबोधबृंहितः।  
 सर्वसंपत्प्रदः श्रीमान्खच्छन्दो जयति प्रभुः॥
@@ -6013,20 +6013,20 @@ Jammu and Kashmir Government, SRINAGAR.**
 
 इति श्रीस्वच्छन्दोयोते क्षेमराजकृते त्रयोदशः पटलः॥१३॥
 
-![](../books_images/U-IMG-172171056031.png)
+<MISSING_FIG href="../books_images/U-IMG-172171056031.png"/>
 
 अथ
 
 **श्रीस्वच्छन्दतन्त्रम्।**  
 
-**![](../books_images/U-IMG-172171161034.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172171161034.png"/>**
 
 श्रीमन्महामाहेश्वराचार्यश्रीक्षेमराजकृतोयोताख्य-  
 विवरणोपेतम्।  
-![](../books_images/U-IMG-1722410438Screenshot2024-07-24113259.png)
+<MISSING_FIG href="../books_images/U-IMG-1722410438Screenshot2024-07-24113259.png"/>
 
 (चतुर्दशः पटलः)  
-![](../books_images/U-IMG-1722410450Screenshot2024-07-24113305.png)
+<MISSING_FIG href="../books_images/U-IMG-1722410450Screenshot2024-07-24113305.png"/>
 
 मोचयति पाशजालाद्रावयति भिदं मुदं राति।  
 मुद्रयति विघ्नतस्करलुण्ठनतो मत्रसिद्धिसङ्घातम्॥  
@@ -6408,20 +6408,20 @@ Jammu and Kashmir Government, SRINAGAR.**
 
 इति स्वच्छन्दोयो मुद्राप्रकाशः चतुर्दशः पटलः॥१४॥
 
-![](../books_images/U-IMG-172171871431.png)
+<MISSING_FIG href="../books_images/U-IMG-172171871431.png"/>
 
 अथ
 
 श्रीस्वच्छन्दतन्त्रम्।  
 
-![](../books_images/U-IMG-172172103832.png)
+<MISSING_FIG href="../books_images/U-IMG-172172103832.png"/>
 
 श्रीमन्महामाहेश्वराचार्य श्री क्षेमराजकृतोयोताख्य-  
 विवरणोपेतम्।  
-![](../books_images/U-IMG-172172113435.png)  
+<MISSING_FIG href="../books_images/U-IMG-172172113435.png"/>  
 
 **(पञ्चदशः पटलः)**  
-![](../books_images/U-IMG-172172119036.png)
+<MISSING_FIG href="../books_images/U-IMG-172172119036.png"/>
 
 .......................................................।  
 ...... स्वात्म विश्रान्तेः स्वच्छन्दो जयति प्रभुः॥
@@ -6912,7 +6912,7 @@ Jammu and Kashmir Government, SRINAGAR.**
 
 इति श्रीस्वच्छन्दोद्द्योते छुम्मेकाप्रकाशः पञ्चदशः पटलः॥
 
-![](../books_images/U-IMG-1722414559Screenshot2024-07-31135909.png)
+<MISSING_FIG href="../books_images/U-IMG-1722414559Screenshot2024-07-31135909.png"/>
 
 नाम्नैव भेददृष्टिर्विधुता येनाखतन्त्रतातत्त्वा।  
 श्रीमत्स्वतत्रतत्रं भेदव्याख्यां न तत्सहते॥
@@ -6967,6 +6967,6 @@ Jammu and Kashmir Government, SRINAGAR.**
 पद्मोपजीविश्रीमत्क्षेमराजविरचितः श्रीस्वच्छन्दोद्द्योतः सम्पूर्ण इति  
 शिवम्॥
 
-![](../books_images/U-IMG-1722414674Screenshot2024-07-31135909.png)
+<MISSING_FIG href="../books_images/U-IMG-1722414674Screenshot2024-07-31135909.png"/>
 
 \]

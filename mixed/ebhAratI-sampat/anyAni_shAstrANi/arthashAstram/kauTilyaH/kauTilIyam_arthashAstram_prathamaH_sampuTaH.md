@@ -29,9 +29,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NjE0NDEzMzg
 
 [TABLE]
 
-![](../../../books_images/U-IMG-1695896631ak.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1695896631ak.jpg"/>
 
-![](../../../books_images/U-IMG-1695896813T._Ganapati_Sastri.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1695896813T._Ganapati_Sastri.jpg"/>
 
 **MM DR. T.GANAPATI SASTRI  
 (1860-1926)**
@@ -826,7 +826,7 @@ In explaining the names of the various medicinal plants he hasdepended upon Suś
 
 *A valuable work*: The importance of this work could never be
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)^(57.)*TSS* 85, p. 189
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>^(57.)*TSS* 85, p. 189
 
 ^(58.)*Ibid,* p. 214
 
@@ -838,7 +838,7 @@ In explaining the names of the various medicinal plants he hasdepended upon Suś
 
 under-rated. Dr. Franklin Edgerton was all praise for the editor. He observed: “Dr. Ganapati Sastri’s edition of the *Kauṭalīya Arthaśāstra*, with commentary, is decidedly the bestedition of that all-important work in existence; the printed text is superior, from the critical scholarly statement, to othereditions and the commentary is of primary and very greatimportance for the interpretation of the very difficult text”⁶².Prof. M. Winternitz had the good fortune of meeting thisdoyen among scholars at his desk while he was engaged in thiswork. He recalls the memorable occasion as follows. “It was agreat pleasure to me when early in November 1923, on myvisit to Trivandrum. I could discuss the subject with the greatPandit. I well remember the stately figure of the Brahmin whoreceived me in his beautiful red robe, speaking Sanskrit clearlyand distinctly so that it was not difficult for a Europeanunused to speaking Sanskrit to understand him. He was alsovery enthusiastic about the new Manuscripts of the *KauṭalīyaArthaśāstra* he had found, and he proudly pointed out to memany improvements of his text on the *editio princeps*, andshowed me the proofs of his own great commentary. The latterwas printed in Nos. 79, 80 and 82, and forms one of the gemsof the whole series. He had found not only new manuscripts ofthe text, but also considerable fragments of the ancientcommentaries of Bhaṭṭasvāmin and Mādhavayajvan. But asthese fragments proved insufficient for an edition of thecommentaries, Ganapati Sastri set to work to write a commentary of his own, making use of the ancient commentaries as faras they were available. Everybody is now convinced of the greatimportance, if not of the great age of the *Arthaśāstra* both forthe social history of the ancient India, and for the history ofIndian Literature. But anybody who has had occasion to studythe *Kauṭalīya*, knows that the work is full of difficulties, withwhich translators and interpreters of the work have hithertostruggled in vain. Hence Ganapati's *Śrīmūla*, as he called his
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(62.)A Souvenir of the Silver Jubilee Celebrations of the Dept. of Publication of Oriental manuscripts, Trivandrum 1934,P. 35
 
@@ -862,7 +862,7 @@ Such corrections can be noticed in all the pages of the copywhich substantially 
 
 *Objections*: Regarding the statement that “the word of a previous sentence joined to subsequent sentence and vice-versa”, no indication is given by him in the printed text. We have toascertain it from the corrections made by him. A few instancesmay be noted here :
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(63.)Ibid, p. 44
 
@@ -883,7 +883,7 @@ How hollow is the excuse of erroneous readings urged by him for his undertaking 
 
 [TABLE]
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**^(64.) Mysore edition, 1924, p. xxxi.
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**^(64.) Mysore edition, 1924, p. xxxi.
 
 In both the instances the sentence is wrongly split up by theMysore editor and that affects the meaning also. This isgenerally the case with all the instances cited by him. TheTrivandrum editor could print the correct text since he had thebenefit of consulting the ancient Malayalam commentary where the text is correctly quoted and explained. The fact that N.S.Vankatanathacharya, who brought out the fourth revisededition from Mysore had accepted the Trivandrum text in theabove instances indicates the sound position of the Trivandrumeditor.
 
@@ -891,7 +891,7 @@ In both the instances the sentence is wrongly split up by theMysore editor and t
 
  This needs a careful examination. Ganapati Sastri hasdeliberately split up the sentence and explained“पञ्चघटीनाम्”to mean a measure of time against the natural meaning of ‘fivepots’as given by Shama Sastri in his translation. The word*ghaṭikāsthāna* also is explained by the Trivandrum editor withan implication to the time factor. He explains it to mean“घटिकात्रयकालावस्थानं”. Now the question is why did he assumesuch a view. He knew that the Malayalam commentary alsomaintains the text as printed from Mysore and explains
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 **^(65.)**Mysore Edition, 1924
 
@@ -908,7 +908,7 @@ Regarding the mistake in translating *maryādā* as “invariablybe respected”
 
  This meaning is given by Ganapati Sastri on the basisof the following explanation of the Malayalam commen-
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(66.)The page number in this section refers to the pages of the first Mysore edition, 1909.
 
@@ -930,7 +930,7 @@ tator.⁶⁷“Senāpatiyinai asattāyullon oruttannu pūja ceyvānāykoṇteki 
 
  The meaning of परिहार as remission of tax in the secondinstance is correct and is accepted by Ganapati Sastri also. It is
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(67.)*Kauṭalīya* with Malayalam commentary, 1,p. 93
 
@@ -950,7 +950,7 @@ in the first instance that the learned scholars differ. The meanings offered by 
 
  In the second instance the word undisputedly means mintmaster. There is no difference of opinion. But in the case of the first, Shama Sastri objects to the above explanation which is really based on the Malayalam commentary as follows:⁷⁴“Lakṣaṇādhyakṣan tāpaṭipakkumavanum”. Here the malaya-
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(71.)*Kauṭalīyam* with Malayalam commentary, II, p. 34
 
@@ -972,7 +972,7 @@ lam commentator states that the officer is in charge of surveying the place. The
 
 ** (9)** “On page 60, line 30, राजवर्षं मासः पक्षो दिवसश्च ब्युष्टम् —राजवर्षादचतुष्टयं व्युष्टसंज्ञमित्यर्थः इति व्याख्यानम् ।नेयं संज्ञा सोक-
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(75.)*Kauṭalīyam*, Malayalam commentary, II p. 42
 
@@ -990,7 +990,7 @@ For the word काल in the other instances mentioned above, he gives the mean
 
  The Malayalam commentator has given the illustration as “in the fifth regnal year of king Mahāsena, in the particular month of *Hemanta*, in the first fortnight and on the fifth day, so and so has brought so much amount”etc. He further states that the regnal year may be divided into three parts, each consisting of four months. The first of the three is called *Varṣā*
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ***^(78.)Kauṭalīyam, with Malayalam Commentary II p. 124*
 
@@ -1012,7 +1012,7 @@ Here Mr. T. Ganapati Sastri takes the year to be a solar year of 365^(1/₄)days
 
  Here the real position is that Shama Sastri went by the natural import of the words whereas Ganapati Sastri depended
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(81.)Kautaliayam with Malayalam Commentary, p. 44
 
@@ -1030,7 +1030,7 @@ This means that he should secure the accounts of receipts containing the explana
 
  Here Ganapati Sastri has given a detailed explanation:⁸⁴
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(82.)Kautaliyam, with Malayalam Commentary, p. 57
 
@@ -1052,7 +1052,7 @@ For this he has his basis on the Malayalam commentary which actually states some
 
 The meaning of the first that he is a supervising officer is expressed by the terms :युक्तानामुपरि नियुक्तः । The Malayalam term ओपकारिका meaning one who gives his service is translated as तत्सहकारीby the *Śrīmūlam* commentator. One has to concede that he was depending on a traditional explanation. He could have saved himself from the embarrassment of the contradic-
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(85.)Kauṭalīya with Malayalam commentary, II, p. 60
 
@@ -1119,7 +1119,7 @@ unbiased scholarship. Without the least hesitation he acceptedthe good readings 
 
 It is true that in doing this he has obliterated the text of Shama Sastri and made the English translation incompatible with the present text. But that is a different problem. What assumes significance is that the latest editor from Mysore was able to see through the working of the mind of his predecessors In a footnote to the introduction of Shama Sastri which he reproduced in his edition, he observes:⁸⁸
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ^(87.)Mysore, 1960, p. xi
 
@@ -1195,7 +1195,7 @@ R.C. Hazra, K.P. Jayaswal, P.V. Kane, D.D. Kosambi and G.H. Sastri.
 
 **INTRODUCTION.**
 
-**![](../../../books_images/U-IMG-1696063298A.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696063298A.jpg"/>**
 
 **1. Necessity for an improved edition of the Arthasāsatra of Kautalya.**  
  It gives me great pleasure to announce that the Trivandrum Sanskrit Series has now been enriched by the addition of the important work, the Arthasāstra of Kauṭalya. An edition of this work based on a single manuscript was first brought out in the year 1909 by Mr. Shāma Sāstri. B. A., PH. D., in the Mysore Government Sanskrit Series. When I read through it with an amount of concentration which the rareness and the merit of the work would demand, I found it abounded with errors, such as, the word of a previous sentence joined to a subsequent sentence and vice versa. The work has apparently a simple style and a choice vocabulary, but the nature of the subjects dealt with is such that even a talented pandit cannot hope to easily understand it. What then will be the condition if it contains errors too? It then struck me that a fresh edition, based on sufficient manuscript materials, was indispensable.
@@ -1260,7 +1260,7 @@ Kauṭilya. But the mistake was observed and corrected by me only after the firs
 
  “It is, however, a special feature of the Bālakrīdā evidencing to its high antiquity as well as its author’s regard for ancient works, that among the multitude of works and authors that it cites as authority, there is none that is generally assigned to the Christian era, but all of them, being Vedic works and Smritis of the Vedic type and their authors, belong to the centuries that preceded Christ. Then again, when context required quotations from an authority on the Arthasāstra, our author does not resort to Kauṭilya but to Brihaspati\*and Visālāksha, the predecessors of Kauṭilya, as is seen from the following:—
 
-![](../../../books_images/U-IMG-1696396457Line.jpg) 
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/> 
 
 \*A manuscript of the work called Bārhaspatyasūtra exists in our possession and also in the Government Oriental Mss. Library Madras; and it has recently been published in Devanagari characters, in Lahore. I doubt whether that work is the Arthasāstra of Brihaspati quoted by Kautalya. For, no subject of importance pertaining to Arthasāstra is dealt with in it; its merit as a literary composition is of a poor order and the present quotations from Brihaspati are not also found in it. Besides, while Kautalya says that, according to the school of Brihaspati, the Vidyas are two viz., Vārta and Dandanīti,“ वार्ता दण्डनीतिश्चेति वार्हस्पत्याः” ( Vainayikadhikārika, Adhyaya 2) the statement“दण्डनीतिरेका विद्या” loudinthe published Bārhaspatyasūtra is a point interest havig a few numbers gathered mainly from the Arthasāstra of of Brihaspati ; just like the small work which , with some moral saying of the Arthasāstra of Kauṭilya, goas by the name of Chanakyaniti or chāṇakyasūtra and is published as a work of
 
@@ -1277,7 +1277,7 @@ Kauṭilya. But the mistake was observed and corrected by me only after the firs
 
  This, I think, is quite as it should be. For it is the proper practice of a commentator that he should supply deficiencies in the statements of an author, advisedly left out to be learnt from other sources, by having recourse to those writers who are known either as ancient or as contemporary authority to the author himself, but not to those that are posterior to the author. Visvarūpāchārya must have taken the Arthasāstra of Brihaspati and Visālāksha to be Ārsha works known to Yājnavalkya and therefore quoted from them to supplement Yājnavalkya's statements, but hot from Kauṭalya who was posterior to Yājnavalkya. And as for the fact that Kauṭalya was later than Yājnavalkya there need be no shadow of doubt. When dealing with Pratilomajaputras i.e. sons begotten by men of lower through women of higher castes, Kauṭalya defines Sūta as a son begotten by a Kshatriya through a Brāhmaṇa woman and Māgadha as a son. begotten by a Vaisya through a Kshatriya woman, and hastens to restrict the application of
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 **\***Brihaspati mentions his name in his work as does Kauṭalya.
 
@@ -3194,7 +3194,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** मन्त्रभेदो हि दूतामात्यस्वामिनानिङ्गिताकाराभ्याम् । इङ्गितमन्यथावृत्तिः । आकृतिग्रहणमाकारः ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 **मन्त्राधिकार** इति सूत्रम् । कर्मणामारम्भोपायादिकार्यनिरूपणं मन्त्रः, स इहाधिक्रियत इत्यर्थः। सर्वोपधाशुद्धा मन्त्रिणः कर्तव्या इत्युक्तम् । मन्त्रस्वरूपं तु नोक्तम् । तदिहोच्यत इति सम्बन्धः।
 
@@ -3215,7 +3215,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **तस्मान्नास्य परे विद्युः कर्म किञ्चिच्चिकीर्षितम् ।  
 आरब्धारस्तु जानीपुरारब्धं कृतमेव वा ॥**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
   तस्येति । तस्य संचरणम् इङ्गिताकारयोर्गोपनं, स च तच्च तदितीह ‘नपुंसकमनपुंसकेने’ति नपुंसकशेष एकवद्भावश्च । आयुक्तपुरुषरक्षणम् आयुत्कानां पुरुषाणां मन्त्राधिकृतानां दूतमन्त्रिप्रभृतीनां मन्त्रभेदस्थानेभ्यो रक्षणं च, आकार्यकालात् कार्यसिद्धिकालमभिव्याप्य, कर्तव्यनिति शेषः। मन्त्रभेदग्थानं प्रपञ्चयति + **तेषां हीति** । तेषाम् आयुक्तानाम्। प्रमादमदसुप्तप्रलापक मदिः प्रमादः कार्यान्तरवैयग्र्ययप्रभवमनवधानं मदो मद्यपानादिजश्चित्तविकारः सुप्तप्रलापः स्वप्नालाप कामो विषयतृष्णा एते आदयो यस्य दोषसमुदायस्य सः, उत्सेकःगर्वः, प्रच्छन्नः कुड्यान्तरितः श्रोता, अवमतः जडोऽयमित्यवज्ञातः, वाशब्दः समुच्चये, मन्त्रं भिनात्तिरहसि विमृश्य निर्णीतमर्थं बहिरुद्गिरति । तस्मादिति । तस्मात् प्रमादादेरवमतपर्यन्ताद्वर्गात्, मन्त्र रक्षेत् ।
 
@@ -3230,7 +3230,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** एतन्मन्त्रज्ञानं नैतन्मन्त्ररक्षणमिति पाराशराः। यदस्य कार्यमभिप्रेतं तत्प्रतिरूपकं मन्त्रिणः पृच्छेत् — कार्यमिदमेवमासीदेवं वा यदि भवेत् तत् कथं कर्तव्यमिति । ते यथा ब्रूयुः तत् कुर्यात् । एवं । मन्त्रोपलब्धिः संवृतिश्च भवतीति ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
  तदिदं भारद्वाजमतमाक्षिप्य विशालाक्षः प्रत्यवतिष्ठत इत्याह — **नैकस्येत्या**दि ।प्रत्यक्षपरोक्षेत्यादिवाक्येन राजकर्मणः सर्वस्य सहायसापेक्षत्वं मन्त्रिपुरोहितोत्पत्तिप्रकरणोक्तं स्मारयति । अज्ञातस्य ज्ञानं, ज्ञातस्य निश्चयेन दृढीकरणम् इदमदो वेत्यर्थयोर्द्विधाभवने सन्देहनिवर्तनम् अंशेनोपलब्धस्यांशान्तरानुमितिरित्येवञ्जातीयं कार्यं मन्त्रिसाध्यमित्याह — **अनुपलब्धस्ये**त्यादिना ।**तस्मा**दिति । तस्माद् राजवृत्तेः सहायसापेक्षत्वनियमात्, बुद्धिवृद्धैः बुद्धिप्रशस्तैः सार्धं, मन्त्रम् आसीत मन्त्रमुद्दिश्यासीत । मन्त्रशब्दस्य भावार्थत्वाद्वा ‘अकर्मकधातुभिर्योोंगे देशः कालो भावो गन्तव्योऽध्वा च कर्मसंज्ञक इति वक्तव्यम्' इति कर्मसंज्ञायां द्वितीया ।
 
@@ -3248,7 +3248,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 [^16]: "‘षः उपपन्नस्तु भ’ ग पाठः,"
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
  तदुभयमपि न सिध्यतीति वदन् नारदः प्रत्यवतिष्ठते —**नेती**ति । उभयासिद्धौ हेतुमाह — **मन्त्रिणो ही**त्यादि । व्यवहितं रूपान्तरावच्छादितस्वरूपम् ।अनादरेण ब्रुवन्ति अनास्थया कथयन्ति नतु पर्यालोच्य कथयन्ति, प्रकाशयन्ति वा भिन्दन्ति च, अस्मास्वविश्वस्तोऽयं राजास्मदनुष्ठेयमप्यर्थमस्मासु न प्रकाशयतीति कोपादिति भावः। **तस्मादि**ति । तस्माद्यथोक्तदोषप्रसङ्गात्, ये येषु कर्मसु अभिप्रेता मन्त्रणानुष्ठाननिपुणतया विश्वस्ततया चाभिमताः, तैः सह मन्त्रयेत् । तथा मन्त्रणे गुणमाइ —**तैरित्या**दि ।
 
@@ -3258,7 +3258,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कर्मणामारम्भोपायः पुरुषद्रव्यसम्पद् देशकालविभागःविनिपातप्रतीकारः कार्यसिद्धिरिति पञ्चाङ्गो मन्त्रः ! तानेकैकशः पृच्छेत् समस्तांश्च।हेतुभिश्चैषां मतिप्रविवेकान् विद्यात् । अवाप्तार्थः कालं नातिकामयेत् । न दीर्घकालं मन्त्रयेत । न च तेषां पक्ष्यैर्येषाम् अपकुर्यात् ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 महान् दोषोऽनथ येन तत् महादोषं परमानर्थहेतुभूतं राजावग्रहणादिकं, नैकान्तं नियतं न भवति, कृच्छ्रेण उपपद्यते कदाचिदुत्पाद्यमानमपि महता यत्नेनोत्पद्यते नाल्पेन यत्नेनेत्यर्थः। महादोष इति पाठे एकद्वमन्त्रिपक्षोक्तो महान् दोष इत्यर्थःकर्मधारयेण लभ्यः। उपपन्नं तु भवति मन्त्रनिश्चयेन मन्त्ररक्षणेन च उपपत्तियुक्तं भवति, अर्थाच्चिन्त्यमानं कर्म । पञ्चादिषु मन्त्रसहायेंषु को दोषस्तत्राह तत इत्यादि । ततः परेषु चतुर्भ्योऽधिकेषुपश्चादिषु
 
@@ -3276,7 +3276,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** ते ह्यस्य स्वपक्षं परपक्षं च चिन्तयेयुः। अकृतारम्भमारध्बानुष्ठितविशेषं नियोगसम्पदं च कर्मणां कुर्युः। आसन्नैः सह कार्यानि पश्येत्, अनासन्नैःसह पत्रसम्प्रेषणेनमन्त्रयेत ।इन्द्रस्य हि मन्त्रिपरिषदृषीणां सहस्रम् । स तच्चक्षुः। तस्मादिमं द्व्यक्षं सहस्राक्षमाहुः।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 माहूयान्यासन्निधाने पृच्छेत् — कस्तेऽत्राभिप्राय इति संमेल्य च सभायां तान् सर्वान् ‘कोऽत्र वोऽभिप्राय’ इति पृच्छेदित्याह — तानेकैकश इत्यादि । **हेतुभिरि**त्यादि । एषां मतिप्रविवेकान् अभिप्रायविभागान्, हेतुभिःविद्यात् कारणैः पर्यालोचयेद् अर्थनिश्चयार्थम् । अवाप्तार्थः निश्चितार्थः। अपकार्यजनबन्धुभिः सह न मन्त्रयेतेत्याह — **न च तेषामित्यादि** ।
 
@@ -3622,7 +3622,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696155004Line.jpg) **राज्ञइति ।** उत्थानम् सद्योगः, यज्ञः क्रत्वनुष्ठानं, कार्यानुशासनं व्यवहारनिर्णयः, दक्षिणा दानं, वृत्तिसाम्यं शत्रौ मित्रे च गुणदोषापेक्षया तुल्यंव्यवहरणं, दीक्षितस्य अभिषेचनम् अवभृथनिर्वर्तनं च राज्ञो व्रतम् ॥
+<MISSING_FIG href="../../../books_images/U-IMG-1696155004Line.jpg"/> **राज्ञइति ।** उत्थानम् सद्योगः, यज्ञः क्रत्वनुष्ठानं, कार्यानुशासनं व्यवहारनिर्णयः, दक्षिणा दानं, वृत्तिसाम्यं शत्रौ मित्रे च गुणदोषापेक्षया तुल्यंव्यवहरणं, दीक्षितस्य अभिषेचनम् अवभृथनिर्वर्तनं च राज्ञो व्रतम् ॥
 
  **प्रजासुख** इति । प्रजासुखे सति, राज्ञः सुखम्, अस्ति । प्रजानांहिते च सति राज्ञो हितम्, अस्ति । राज्ञः आत्मप्रियं हितं न भवति, किंतर्हि, प्रजानां प्रियं तु हितं प्रजानां प्रियमेव हितं भवति ॥
 
@@ -3639,7 +3639,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कोशगृहविधानेन वा मध्ये वासगृहं, गूढभित्तिसञ्चारं मोहनगृहंतन्मध्ये वा वासगृहं, भूमिगृहं वा आसन्नकाष्ठचैत्यदेवतापिधानद्वारमनेकसुरुङ्गासञ्चारम् । प्रासादं वा गूढभित्तिसोपानं, सुषिरस्तम्भप्रवे-**
 
-![](../../../books_images/U-IMG-1696170047Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696170047Line.jpg"/>
 **निशान्तप्रणिधि**रिति सूत्रम् । निशान्तं राजभवनं तस्य प्रणिधिः,तत्सम्बद्धमनुष्ठानमुच्यत इति सूत्रार्थः। ‘दाररक्षणं निशान्तप्रणिधौ वक्ष्यामइत्युक्तं राजपुत्ररक्षणे । तदिदानीमभिधीयते ।
 
  **वास्तुके**त्यादि । वास्तुकप्रशस्ते वास्तुविद्याभिज्ञश्लाघिते । सप्राकारपरिखाद्वारं प्राकारः सालःपरिखा दुर्गवेष्टनखातिका द्वाराणि अपवरकाणिएतैर्युक्तम् । अनेककक्ष्यापरिगतम् अनेकाभिः कक्ष्याभिः प्रकोष्ठकैः परिगतम्अन्तःपुरं कारयेत् ।
@@ -3652,7 +3652,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** जीवन्तीश्वेतामुष्ककपुष्पवन्दाकाभिरक्षीवे जातस्याश्वत्थस्य प्रतानेन वा गुप्तं सर्पा विषाणि वा न प्रसहन्ते । मार्जारमयूरनकुलपृषतो—**
 
-![](../../../books_images/U-IMG-1696186018Line.jpg)अपसारो निर्गमश्च यस्मिंस्तं तथाभूतं वा कारयेत् । प्रकारान्तरमाह — **वासगृहमि**ति । वासगृहं, यन्त्रबद्धतलावपातं यन्त्रवद्धं तलावपातं च यन्त्रेणोपरिभूमौ धारितं यन्त्रस्रंसने सत्यधोदेशनिपातुकं च कारयेत् । किमर्थम् आपत्प्रतीकारार्थंशत्रुभयप्रतिक्रियार्थम् अधःस्थितशत्रुमारणार्थमित्यर्थः । आपदिवा कारयेत् पूर्वमतादृशमप्यापत्समये वा तादृशं कारयेत् । उक्तं वासगृहकापठ्यप्रकारं शत्रुरपि तुल्यशास्त्रवेत्ता विज्ञाय चेष्टेतेति यदि शङ्का स्यात्, तदाप्रकारान्तरेण स्वबुद्धिप्रतिभातेन वासगृहं विकल्पयेदित्याह — अतोऽन्यथावेत्यादि ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696186018Line.jpg"/>अपसारो निर्गमश्च यस्मिंस्तं तथाभूतं वा कारयेत् । प्रकारान्तरमाह — **वासगृहमि**ति । वासगृहं, यन्त्रबद्धतलावपातं यन्त्रवद्धं तलावपातं च यन्त्रेणोपरिभूमौ धारितं यन्त्रस्रंसने सत्यधोदेशनिपातुकं च कारयेत् । किमर्थम् आपत्प्रतीकारार्थंशत्रुभयप्रतिक्रियार्थम् अधःस्थितशत्रुमारणार्थमित्यर्थः । आपदिवा कारयेत् पूर्वमतादृशमप्यापत्समये वा तादृशं कारयेत् । उक्तं वासगृहकापठ्यप्रकारं शत्रुरपि तुल्यशास्त्रवेत्ता विज्ञाय चेष्टेतेति यदि शङ्का स्यात्, तदाप्रकारान्तरेण स्वबुद्धिप्रतिभातेन वासगृहं विकल्पयेदित्याह — अतोऽन्यथावेत्यादि ।
 
  निर्मितस्य निशान्तस्याग्निभयपरिहारोपायमाह — **मानुषेणे**ति । मानुषेणाग्निना शत्रुनिहतस्य वा शूलारोपणमारितस्य वा मनुष्यस्यास्थित कल्माषवेणुना मथनादुत्थितेनाग्निना, त्रिःअपसव्यं परिगतं त्रीन् वारान् वामावर्तेनपरीतं, परिगमनस्य अथर्वोक्तमन्त्रोच्चारणपूर्वकत्वं तु साम्प्रदायिकमर्थगन्यम् ।अन्तःपुरम् अन्योऽग्निर्न दहति । अत्रअन्तःपुरे, अन्योऽग्निर्न च ज्वलति ।मृत्संयुक्तेन वल्मीकमृत्तिकासंमिश्रेण, वैद्युतेन भस्मना विद्युदुद्भूताग्निदग्धद्रुमभवेन भसितेन, करकवारिणा वर्षोपलजलयुक्तेन सता, अवलिप्तंच कृतलेपनमन्तःपुरं च, अन्योऽग्निर्न दहति, न चात्र ज्वलति ।
 
@@ -3662,7 +3662,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पृष्ठतः कक्ष्याविभागे स्त्रीनिवेशो गर्भव्याधिवैद्यप्रत्याख्यातसंस्थावृक्षोदकस्थानं च । बहिः कन्याकुमारपुरम् । पुरस्तादलङ्कारभूमिः मन्त्रभूमिरुपस्थानं कुमाराध्यक्षस्थानं च । कक्ष्यान्तरेष्वन्तर्वंशिकसैन्यंतिष्ठेत् ।**
 
-![](../../../books_images/U-IMG-1696227419Line.jpg)भक्षयति बिडालकेकिबभ्रुमृगाः गृहे निर्यन्त्रणविसृष्टाः सर्पान् नाशयन्ति ।शुकः, शारिका पक्षिभेदः, भृङ्गराजो वा धूम्याटोऽलिभेदो वा, सर्पविषशङ्कायांक्रोशति क्रन्दति । विषाभ्याशे विषसान्निध्ये, क्रौञ्चःपक्षिविशेषः, माद्यतिविह्वलति । जीवञ्जीवकः पक्षिभेदःग्लायति क्षीणहर्षो भवति । मत्तकोकिलःम्रियते । चकोरस्य चन्द्रिकाप्रियस्य पक्षिणः, अक्षिणी विरज्येते विरागं प्राप्नुतःस्ववर्णं त्यजत इत्यर्थः। इत्येवम् उक्तप्रकारं वस्तुतत्त्वं विदित्वा, अग्निविषसर्पेभ्यः, प्रतिकुर्वीत रक्षां विदधीत ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696227419Line.jpg"/>भक्षयति बिडालकेकिबभ्रुमृगाः गृहे निर्यन्त्रणविसृष्टाः सर्पान् नाशयन्ति ।शुकः, शारिका पक्षिभेदः, भृङ्गराजो वा धूम्याटोऽलिभेदो वा, सर्पविषशङ्कायांक्रोशति क्रन्दति । विषाभ्याशे विषसान्निध्ये, क्रौञ्चःपक्षिविशेषः, माद्यतिविह्वलति । जीवञ्जीवकः पक्षिभेदःग्लायति क्षीणहर्षो भवति । मत्तकोकिलःम्रियते । चकोरस्य चन्द्रिकाप्रियस्य पक्षिणः, अक्षिणी विरज्येते विरागं प्राप्नुतःस्ववर्णं त्यजत इत्यर्थः। इत्येवम् उक्तप्रकारं वस्तुतत्त्वं विदित्वा, अग्निविषसर्पेभ्यः, प्रतिकुर्वीत रक्षां विदधीत ।
 
  **पृष्ठत** इति । पृष्ठतः कक्ष्याविभागे राजावसथस्य पश्चाद्भागे पृथङ्निर्मितायां कक्ष्यायां, स्त्रीनिवेशः देवीवासस्थानं भवति । तस्य पृष्ठतः कक्ष्याविभागे, गर्भव्याधिवैद्यप्रत्याख्यातसंस्थाः गर्भसंस्था देवीनां गर्भावस्थायांवासार्था तस्याः पृष्ठतो व्याध्यवस्थायां वासार्था व्याधिसंस्था तस्याः पृष्ठतःअचिकित्सनीयरोगा इति वैद्येन परित्यक्तानां देवीनां वासार्था वैद्यप्रत्याख्यातसंस्था चेत्येतास्तिस्रः संस्थाः । तासां पृष्ठतः वृक्षोदकस्थानं च उद्यानतटाकादिकंच भवति । बहिः उक्तेभ्यो बहिर्देशे, कन्याकुमारपुरं कन्यानिवेशःअप्राप्तयौवनराजपुत्रनिवेशश्च भवति । इत्थं पृष्ठसन्निवेशःउक्तः । पुरस्तात्सन्निवेशमाह — **पुरस्तादि**ति । पुरस्ताद्वासभवनस्यासन्ने कक्ष्याविभागे, अलङ्कारभूमिः दृष्टिविलोभनविचित्रमण्डनयुक्तः प्रासादः, ततो मन्त्रभूमिःमन्त्रसभा,तत उपस्थानम् आस्थानमण्डपः, ततः कुमाराध्यक्षस्थानं कुमारस्थानं यूनांराजपुत्राणां स्थानम् अध्यक्षस्थानं सन्निधातृसमाहर्तृप्रभृतीनां कार्याध्यक्षाणांस्वकर्मानुष्ठानस्थानं च, भवति । कक्ष्यान्तरेषु कक्ष्याणां मध्येषु अन्तर्वेशिकसैन्यम् अन्तःपुराधिकृतानां कञ्चुकिप्रभृतीनां गणः, तिष्ठेत् ।
 
@@ -3670,7 +3670,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** मुण्डजटिलकुहकप्रतिसंसर्गंबाह्याभिश्च दासीभिः प्रतिषेधयेत् ।नचैनाःकुल्याःपश्येयुरन्यत्र गर्भव्याधिसंस्थाभ्यः । रूपाजीवाः**
 
-![](../../../books_images/U-IMG-1696238764Line.jpg)  
+<MISSING_FIG href="../../../books_images/U-IMG-1696238764Line.jpg"/>  
  **अन्तर्गृहे**त्यादि । अन्तर्गृहगतः स्ववासगृहस्थितः, नतु देवीगृहगतः,स्थविरस्त्रीपरिशुद्धाम् आप्तवृद्धपरिचारिकयापरिशोधितां देवीं पश्येत् ।काञ्चिद् नाभिगच्छेत् कामपि देवीमुद्दिश्य स्वयं तद्गृहं न गच्छेत् । देवीगृहाभिगमने दोषं निदर्शयति —**देवीगृह** इत्यादि । भ्राता कलिङ्गेश्वरस्य भद्रसेनस्य राज्ञः सोदर्यः वीरसेननामा । स हि तद्भार्यया कृतसंजल्पस्तद्गृहैकदेशनिलीनो राज्यं च जिहीर्षुर्भद्रसेनंजघानेति इतिहासः । कारूशं करूशदेशाधिपतिम् । वृद्धस्त्रीजनापरिशोधितदेवीदर्शने दोषं निदर्शयति — **लाजानि**ति । देवी, मधुनेति मधुना माक्षिकेण मिश्रिताः इति वदन्ती, लाजान्विषेण पर्यस्य मिश्रयित्वा भोजयित्वा च, काशिराजं युद्धविजितदेवीबन्धूपरोधापराधिनं, जघान । वैरन्त्यं तन्नामकं वनवासिदेशेश्वरं, देवी सपत्नीमिथ्याभिशंसनमन्युवशंवदा, विषदिग्वेन स्पर्शवेधिगरलोपलिप्तेन, नूपुरेण जघानक्रीडाभिघातमिषेण मारितवतीत्यर्थः। सौवीरं तद्देशपतिं परन्तपाख्यंमेखलामणिना काञ्चीरत्नेन विषदिग्धेन, देवी अतिवाक्पारुप्यतापिता, जघान । जालूथं राजानम् अयोध्याधिपतिं, देवी पतिदारान्तरासक्तिमन्यूपतप्ता,आदर्शेन मुकुरेण विषदिग्धेन, जघान आदर्शस्पर्शेन मुखे विसर्पमुत्पाद्यव्यापादयामास । देवी शस्त्रं वेण्यां गूढं कृत्वा विडूरथं राजानं जघान ।तस्माद् एतानि आस्पदानि व्यापत्तिनिमित्तानि, परिहरेत् ।
 
  मुण्डेत्यादि । मुण्डजटिलकुहकैः मुण्डैः बौद्धभिक्षुक्षपणकादिभिः जटिलैःशैवपाशुपतादिभिः कुहकेःमायाप्रयोक्तृभिश्च प्रतिसंसर्गंपरिचयम् अर्थाद्देवीनां, प्रतिषेधयेद् वारयेत् । बाह्याभिः दासीभिश्च प्रतिषेधयेद् अर्थात् प्रतिसंसर्गम् । **नचे**ति । कुल्याः देवीबान्धवाः, एनाः देवीः, गर्भव्याधिसंस्थाभ्योऽन्यत्र
@@ -3686,9 +3686,9 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 इति कौटलीयार्थशास्त्रे विनयाधिकारिके प्रथमाधिकरणे  
 विंशोऽध्यायः निशान्तप्रणिधिः ॥
 
-![](../../../books_images/U-IMG-16962486659.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-16962486659.jpg"/>
 
-![](../../../books_images/U-IMG-1696248425Line.jpg)  
+<MISSING_FIG href="../../../books_images/U-IMG-1696248425Line.jpg"/>  
 प्रसवव्याध्यनुमरणकालेभ्योऽन्यस्मिन् काले, न पश्येयुः । रूपेत्यादि । रूपाजीवाःवेश्याः । स्नानप्रघर्षशुद्धशरीराः स्नानेन कायमलघर्षणेन च शुद्धदेहाः । पश्येयुः,राजानं परिचर्यार्थम् । देवीनां शौचाशौचगवेषणपूर्वंपथि स्थापनं बन्धुकरणीयं के कुर्युस्ताह —**आशीतिका** इति । मातापितृव्यञ्जनाः मातापितृसधर्माणः, आशीतिका अशीतिवयस्काः, पुरुषाः, पञ्चाशत्काःपञ्चाशद्वयस्काः; स्त्रियो वा स्थविरवर्षवराभ्यागारिकाश्च वृद्धाः षण्डाश्च येऽभ्यागारिकाः कुटुम्बचिन्तकास्ते च, अवरोधानाम् अन्तःपुरस्त्रीणां शौचाशौचं विद्युःस्वामिहिते स्थापयेयुश्च, अर्थादवरोधान् ।
 
  **स्वभूमावि**ति । सर्वः देवीजनोऽन्तर्वंशिकजनश्च, स्वभूमौ आत्मनः क्लृप्ते स्थाने, वसेत्, परभूमौ न सञ्चरेत् । आभ्यन्तरः कश्चिद् जनः बाह्येनजनेन संसर्गंनच व्रजेद् गच्छेत्॥
@@ -3698,7 +3698,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 इति कौटलीयार्थशास्त्रव्याख्यायां विनयाधिकारिके प्रथमाधिकरणे  
 विंशोऽध्यायः निशान्तप्रणिधिः ॥
 
-![](../../../books_images/U-IMG-16962486659.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-16962486659.jpg"/>
 
 १८. प्रक. आत्मरक्षितकम् ।
 
@@ -3708,7 +3708,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** गुप्ते देशे माहानसिकः सर्वमास्वादबाहुल्येन कर्म कारयेत् ।तद् राजा तथैव प्रतिभुञ्जीत पूर्वमग्नये वयोभ्यश्च बलिं कृत्वा ।**
 
-![](../../../books_images/U-IMG-1696270610Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696270610Line.jpg"/>
 **आत्मरक्षितकमि**ति सूत्रम् । आत्मनो रक्षणमुच्यत इत्यर्थः । राज्ञःपुत्रदारेभ्यो रक्षणमुक्तं, तदन्येभ्य इदानीमभिधीयते ।
 
  **शयनादि**त्यादि । धन्विभिः धनुष्पाणिभिः । परिगृह्येत परिवार्येत ।कञ्चुकोष्णीषिभिः वारवाणशिरस्त्राणधारिभिः । वर्षवराभ्यागारिकैः षण्डैःराजगृहकार्याचन्तकैश्च । कुब्जवामनकिरातैः गडुलैः खर्वैर्म्लेच्छजातिविशेषैश्च ।प्रासपाणिभिः कुन्तहस्तैः ।
@@ -3721,7 +3721,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 [^28]: " मा च म  ख. पाठः"
 
-![](../../../books_images/U-IMG-1696301104Line.jpg)प्राक्, अग्नये बलिं कृत्वा वैश्वदेवं कृत्वा, वयोभ्यश्च बलिं कृत्वा पक्षिभ्यश्चबलिं दत्त्वा । तदुभयं विहितानुष्ठानार्थं विषप्रतीकारार्थं च बोद्धव्यम् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696301104Line.jpg"/>प्राक्, अग्नये बलिं कृत्वा वैश्वदेवं कृत्वा, वयोभ्यश्च बलिं कृत्वा पक्षिभ्यश्चबलिं दत्त्वा । तदुभयं विहितानुष्ठानार्थं विषप्रतीकारार्थं च बोद्धव्यम् ।
 
  विषयुक्तचिह्नान्याह —**अग्नेरि**ति । विषयुक्तस्य विषदूषितान्नसंपृक्तस्य,अग्नेः, ज्वालाधूमनीलता ज्वालाधूमयोर्नीलत्वं, शब्दस्फोटनं च चटचटाशब्दश्चभवति । विषयुक्तानां वयसां विषसंस्पृष्टान्नभक्षिणां पक्षिणां, विपत्तिश्च मरणं चभवति । **अन्नस्ये**ति । अन्नस्य विषमिश्रस्य, ऊष्मा बाष्पः, मयूरग्रीवाभः मयूरकण्ठवद् मेचकः, आशु शैत्यं सद्यः शीतत्वं, क्लिष्टस्येव वैवर्ण्यंकरसंपिष्टस्येववर्णवैरूप्यं, सोदकत्वं सिक्थैकीभावः अवैशधं वा, अक्लिन्नत्वं च असम्यक्पाकत्वं च भवति । **व्यञ्जनानामि**ति । व्यञ्जनानां सूपादीनाम्, आंशुशुष्कत्वंशीघ्रशोषः, क्वाथःअग्नियोगे तक्रादेरिवोत्क्वथनं, श्यामफेनपटलविच्छिन्नभावःश्यामस्य जायमानस्य फेनमण्डलस्य विच्छिन्नत्वं व्यञ्जनाद् विभक्ततया स्थितिः,गन्धस्पर्शरसवधश्च गन्धस्पर्शरसानां नाशश्च भवति । **द्रवेष्वि**ति । द्रवेषुयूषादिषु विषयुक्तेषु, हीनातिरिक्तच्छायादर्शनं हीनाया अतिरिक्ताया वा स्वीयच्छायाया दर्शनं, फेनपटलसीमन्तोर्ध्वराजीदर्शनं फेनपटलस्य दर्शनं सीमन्तदर्शनं विभागदर्शनम् — अर्थात् फेनपटलस्य यूषादिभ्यो विभक्तत्यावस्थानदर्शनम् — ऊर्ध्वराजीदर्शनम् उपरिरेखादर्शन च, भवति । **रसस्ये**ति ।रसस्य सर्पिस्तैलेक्षुरसादेः विषयुक्तस्य, मध्ये नीला राजी, पयसः क्षीरस्यमध्ये ताम्रा राजिः, मद्यतोययोः सुराजलयोः मध्ये काली राजिः, दघ्नःश्यामा वैदूर्यवर्णा राजिः, मधुनः माक्षिकस्य श्वेता राजिः, भवति । **द्रव्याणामि**ति । आर्द्राणां द्रव्याणाम् आम्रदाडिमफलादीनां विषयुक्तानाम्, आशुप्रम्लानत्वम् उत्पक्वभावः अतिपक्वस्येव पूतीभावः, क्वाथनीलश्यावता च क्वाथेनिष्पाके नीलत्वं कार्ष्ण्यंश्यावत्वं कापिश्यं च भवति । शुष्काणां द्रव्याणाम्
 
@@ -3731,7 +3731,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तस्मादस्य जाङ्गलीविदो भिषजश्चासन्नाः स्युः ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)आशुशातनं चूर्णीभावः, वैवर्ण्यंच भवति । कठिनानां द्रव्याणां विषयुक्तानांमृदुत्वं, मृदूनांकठिनत्वं च भवति । **तदभ्याश**इति । तदभ्याशे क्षुद्रसत्त्ववधश्च विषयुक्तद्रव्यसमीपे चरतां क्षुद्रजन्तूनां पिपीलिकादीनां मरणं चभवति । **आस्तरणे**त्यादि । आस्तरणप्रावरणानाम् आसनशयनकम्बलानांनीशाराणां च कार्पासतन्त्वाविकादिमयानां विषस्पृष्टानां, श्याममण्डलताविवर्णमण्डलयुक्तता, तन्तुरोमपक्ष्मशातनं च तन्तूनां रोम्णां च यानि पक्ष्माणिसूक्ष्मांशाः तेषां शातनं भ्रशनं च, भवति । **लोहे**त्यादि । लोहमणिमयानां लोहःसुवर्णादिः मणिः स्फटिकादिः तन्मयानां वस्तूनां विषयुक्तानां, पङ्कमलोपदेहतापङ्कमलेनोपदेहो लेपनं यस्मिंस्तत्ता, स्नेहरागगौरवप्रभाववर्णस्पर्शवधश्च स्नेहःस्निग्धत्वं रागः त्विट् गौरवं गुरुत्वं प्रभावः स्वकार्यसाधनशक्तिः वर्णः शुक्लादिःस्पर्शः श्लक्ष्णखरादिस्पर्शगुणः एतेषां नाशश्च भवति । इति विषयुक्तलिङ्गानि विषयुक्तवस्तुलक्षणानि, विज्ञेयानीति शेषः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>आशुशातनं चूर्णीभावः, वैवर्ण्यंच भवति । कठिनानां द्रव्याणां विषयुक्तानांमृदुत्वं, मृदूनांकठिनत्वं च भवति । **तदभ्याश**इति । तदभ्याशे क्षुद्रसत्त्ववधश्च विषयुक्तद्रव्यसमीपे चरतां क्षुद्रजन्तूनां पिपीलिकादीनां मरणं चभवति । **आस्तरणे**त्यादि । आस्तरणप्रावरणानाम् आसनशयनकम्बलानांनीशाराणां च कार्पासतन्त्वाविकादिमयानां विषस्पृष्टानां, श्याममण्डलताविवर्णमण्डलयुक्तता, तन्तुरोमपक्ष्मशातनं च तन्तूनां रोम्णां च यानि पक्ष्माणिसूक्ष्मांशाः तेषां शातनं भ्रशनं च, भवति । **लोहे**त्यादि । लोहमणिमयानां लोहःसुवर्णादिः मणिः स्फटिकादिः तन्मयानां वस्तूनां विषयुक्तानां, पङ्कमलोपदेहतापङ्कमलेनोपदेहो लेपनं यस्मिंस्तत्ता, स्नेहरागगौरवप्रभाववर्णस्पर्शवधश्च स्नेहःस्निग्धत्वं रागः त्विट् गौरवं गुरुत्वं प्रभावः स्वकार्यसाधनशक्तिः वर्णः शुक्लादिःस्पर्शः श्लक्ष्णखरादिस्पर्शगुणः एतेषां नाशश्च भवति । इति विषयुक्तलिङ्गानि विषयुक्तवस्तुलक्षणानि, विज्ञेयानीति शेषः ।
 
  विषप्रदस्य निग्रहाय लिङ्गान्याह —**विषे**त्यादि । शुष्कश्याववक्रताशुष्ककपिशमुखत्वम् । वाक्सङ्गः वाचि प्रतिबन्धः। प्रस्खलनम् अविषमेऽपिदेशे । वाक्यविप्रेक्षणं वाक्ये येनकेनाप्युच्यमानेऽवधानदानम् । आवेशःपरवशता । कर्मणि अनवस्थानं स्वव्यापारेऽनवस्थितिः आरब्धं कर्मानिर्वर्त्यैवान्यत्रप्रवृत्तिः । स्वभूमौ अनवस्थानं च प्रथमादिकक्ष्यानियुक्तस्य तां विहायद्वितीयादिकक्ष्यागमनं च ।
 
@@ -3743,7 +3743,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  स्नापकसंवाहकास्तरकरजकमालाकारकर्म दास्यः कुर्युः, ताभिरधिष्ठिता वा शिल्पिनः । आत्मचक्षुपि निवेश्य वस्त्रमाल्यं दद्युः, स्नानानुलेपनप्रघर्षचूर्णवासस्नानीयानि च स्ववक्षोबाहुषु च । एतेन परस्मादागतकं च व्याख्यातम् ।
 
-![](../../../books_images/U-IMG-1696327760Line.jpg) **भिषगि**ति । भिषग्, भैषज्यागाराद्औषधशालायाः, आस्वादविशुद्धंस्वयमास्वादेन निर्दोषतयावगतम्, औषधं गृहीत्वा, पाचकपेषकाभ्याम् औषधपक्तृपेष्टृभ्याम्, आत्मना च, प्रतिस्वाद्यराजसमक्षं स्वादयित्वा, राज्ञे प्रयच्छेद् दद्यात् । **पानमि**ति । पानं मद्यं, पानीयं च जलं च, औषधेन व्याख्यातम् औषधदानोक्तविधिना शोधयित्वा दातव्यमित्युक्तप्रायमित्यर्थः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696327760Line.jpg"/> **भिषगि**ति । भिषग्, भैषज्यागाराद्औषधशालायाः, आस्वादविशुद्धंस्वयमास्वादेन निर्दोषतयावगतम्, औषधं गृहीत्वा, पाचकपेषकाभ्याम् औषधपक्तृपेष्टृभ्याम्, आत्मना च, प्रतिस्वाद्यराजसमक्षं स्वादयित्वा, राज्ञे प्रयच्छेद् दद्यात् । **पानमि**ति । पानं मद्यं, पानीयं च जलं च, औषधेन व्याख्यातम् औषधदानोक्तविधिना शोधयित्वा दातव्यमित्युक्तप्रायमित्यर्थः ।
 
  **कल्पके**त्यादि । कल्पकप्रसाधकाः कल्पका नापिताः श्मश्रुशिल्पिनःप्रसाधका अलङ्कर्तारश्च, स्नातशुद्धवस्त्रहस्ताः सन्तः स्नाताः शुद्धवस्त्राः शुद्धहस्ताश्च सन्तः, समुद्रं मुद्राङ्कितम् उपकरणं क्षुरवस्त्राभरणमञ्जूषादिकम्,अन्तर्वंशिकहस्ताद् आदाय तदुपनेतृकञ्चुकिहस्ताद् गृहीत्वा, परिचरेयुः,राजानम् ।
 
@@ -3757,7 +3757,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** आप्तशस्त्रग्राहाधिष्ठितः सिद्धतापसं पश्येद्, मन्त्रिपरिषदा सामन्तदूतम् ।सन्नद्धोऽश्वं हस्तिनं रथं वारूढः सन्नद्धमनीकं गच्छेत् ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
  **कुशीलवा** इति । कुशीलवाः लङ्घनप्लवनादिनर्मवृत्तयो मनुष्यजातिभेदाः, शस्त्राग्निरसवर्जम् आयुधवह्निविषाणि प्रेक्षणीयाङ्गानि वर्जयित्वा तदन्यैरुपकरणैरित्यर्थः, नर्मयेयुः क्रीडां दर्शयेयुः, राजान्तिके । एषां कुशीलवानाम्,आतोद्यानि च वाद्यानि च, अन्तः राजभवनाभ्यन्तरे, तिष्ठेयुः, विषशङ्कापरिहारार्थं, नर्मप्रदर्शनावसरे परं तैर्गृह्येरन्नित्यभिप्रायः। अश्वरथद्विपालङ्काराश्चअश्वादीनां त्रयाणाम् अलङ्काराश्च, अन्तस्तिष्ठेयुरिति सम्बध्यते ।
 
@@ -3779,7 +3779,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)णाद्यामोचनसुभगयुद्धोचितवेषः, अश्वं हस्तिनं रथं वा आरूढः सन्, सन्नद्धम्अनीकं युद्धसज्जं सैन्यं, गच्छेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>णाद्यामोचनसुभगयुद्धोचितवेषः, अश्वं हस्तिनं रथं वा आरूढः सन्, सन्नद्धम्अनीकं युद्धसज्जं सैन्यं, गच्छेत् ।
 
  **निर्याण** इति । निर्याणे देशान्तरं प्रति गमने, अभियाने प्रवेशे च, राजमार्गम् उभयतः राजमार्गस्योभयपार्श्वयोः, दण्डिभिः वेत्रिभिः, कृतारक्षं कृतरक्षाविधानं यथा भवति तथा, अपास्तशस्त्रहस्तप्रव्रजितव्यङ्गं शस्त्रहस्ताः प्रव्रजिताःसन्न्यासिनः व्यङ्गाः अङ्गविहीनाश्च अपास्ताः राजदृष्टिगोचरादुत्सारिताः यस्मिन्कर्मणि तद् यथा भवति तथा, गच्छेत् । **न** **पुरुषेत्या**दि । पुरुषसम्बाधं जनसङ्कुलंप्रदेशं, नावगाहेत न प्रविशेत् । **यात्रेत्या**दि । यात्रासमाजोत्सवप्रवहणानि चयात्रा देवतानां, समाजो जनसमुदायः, उत्सवः इन्द्रवसन्तोत्सवादिः, प्रवहणम्उद्यानभोजनादि एतानि, दशवर्गिकाधिष्ठितानि गच्छेद् दशवर्गिकेण दशभटनायकेन अधिष्ठितानि कृत्वा गच्छेद् न त्वेकाकी परिमितपरिवारो वेत्यर्थः।
 
@@ -3806,7 +3806,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अष्टशतग्राम्या मध्ये स्थानीयं, चतुश्शतग्राम्या द्रोणमुखं,**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
  अथाध्यक्षप्रचाराख्यं द्वितीयमधिकरणमारभ्यते । यथोक्तगुणसम्पन्नोराजा सर्वाणि कार्याणि तत्तदध्यक्षद्वारेणैवाध्यक्षयितुं प्रभवतीत्यतोऽध्यक्षांस्तद्व्यापारांश्चप्राधान्येनाभिधातुमिदमधिकरणम् । तत्रेदं प्रथमं सूत्रं — **जनपदनिवेश** इति । जनश्चतुर्वर्णाश्रमजातिलक्षणः, पदं तस्य स्थानं स्थानीय-द्रोणमुख-कार्वटिक-संग्रह-ग्रामादिकं, तस्य निवेशः रचनात्राभिधीयत इति सूत्रार्थः। ‘स्वाम्यमात्यजनपददुर्गकोशदण्डमित्राणि प्रकृतिरि’त्युक्तं, तत्र स्वाम्यमात्यप्रकृतीप्रतिपादिते, जनपदप्रकृतिरिदानीमभिधीयते ।
 
@@ -3822,7 +3822,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अन्तेष्वन्तपालदुर्गाणि जनपदद्वाराण्यन्तपालाधिष्ठितानि स्थापयेत् । तेषामन्तराणि वागुरिकशबरपुलिन्दचण्डालारण्यचरा रक्षेयुः।**
 
-** ऋत्विगाचार्यपुरोहितश्रोत्रियेभ्यो ब्रह्मदेयान्यदण्डकराण्यभिरूपदायकानि प्रयच्छेत् । अध्यक्षसङ्ख्यायकादिभ्यो गोपस्थानिकानीकस्थचिकित्सकाश्वदमकजङ्घा[^30]करिकेभ्यश्चविक्रयाधानवर्जम् ।**![](../../../books_images/U-IMG-1696316066Line.jpg)महाग्रामं, स्थापयेत् निवेशयेत्, चतुश्शतग्राम्याः मध्ये, द्रोणमुखं तदाख्यंस्थानीयप्रत्यवरं ग्रामभेदं स्थापयेत्, द्विशतग्राम्या मध्ये, कार्वटिकं तदाख्यंकर्वटापरपर्यायं द्रोणमुखप्रत्यवरं स्थापयेत्, दशग्रामीसंग्रहेण ग्रामदशकसंग्रहणेन, संग्रहणं तदाख्यं कर्बटादधमं महाद्रङ्गापरपर्यायं स्थापयेत् ।
+** ऋत्विगाचार्यपुरोहितश्रोत्रियेभ्यो ब्रह्मदेयान्यदण्डकराण्यभिरूपदायकानि प्रयच्छेत् । अध्यक्षसङ्ख्यायकादिभ्यो गोपस्थानिकानीकस्थचिकित्सकाश्वदमकजङ्घा[^30]करिकेभ्यश्चविक्रयाधानवर्जम् ।**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>महाग्रामं, स्थापयेत् निवेशयेत्, चतुश्शतग्राम्याः मध्ये, द्रोणमुखं तदाख्यंस्थानीयप्रत्यवरं ग्रामभेदं स्थापयेत्, द्विशतग्राम्या मध्ये, कार्वटिकं तदाख्यंकर्वटापरपर्यायं द्रोणमुखप्रत्यवरं स्थापयेत्, दशग्रामीसंग्रहेण ग्रामदशकसंग्रहणेन, संग्रहणं तदाख्यं कर्बटादधमं महाद्रङ्गापरपर्यायं स्थापयेत् ।
 
 [^30]: " ङ्घालके  ग. पाठः"
 
@@ -3836,7 +3836,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अनुग्रहपरिहारौ चैभ्यः कोशवृद्धिकरौ दद्यात् । कोशोपघातिकौवर्जयेत् । अल्पकोशो हि राजा पौरजानपदानेव ग्रसते । निवेशसमकालंयथागतकं वा परिहारं दद्यात् ।निवृत्तपरिहारान् पितेवानुगृह्णीयात् ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 विचक्षणः चिकित्सको वैद्यः अश्वदमकः अश्वशिक्षाभिज्ञःजङ्घाकरिकःजाङ्घिकोदूरदेशगतागतजीवी एतेभ्यश्च, क्षेत्रं प्रयच्छेदिति सामर्थ्यलभ्यम् ।
 
@@ -3852,7 +3852,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सहोदकमाहार्योदकं वा सेतुं बन्धयेत् । अन्येषां वा बध्नतां भूमिमार्गवृक्षोपकरणानुग्रहं कुर्यात्, पुण्यस्थानारामाणां च । सम्भूयसेतुबन्धादपक्रामतः कर्मकरबलीवर्दाःकर्म कुर्युः। व्ययकर्मणि च भागीस्याद्, न चांशं लभेत ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 नवनवागतकुलेभ्योऽपि दद्यादित्यर्थः। **निवृत्ते**त्यादि । निवृत्तपरिहारान् प्रत्यर्पितपरिहारद्रव्यान्, पितेव, अनुगृह्णीयाद् वृद्ध्यर्थमनुग्रहद्रव्यं दत्त्वोपकुर्यात् ।
 
@@ -3868,7 +3868,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पुत्रदारमप्रतिविधाय प्रव्रजतः पूर्वः साहसदण्डः, स्त्रियं च प्रव्रा-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) मत्स्येत्यादि** । सेतुषु, उत्पद्यमानानामिति शेषः, मत्स्यप्लवहरितपण्यानांमत्स्याः प्रसिद्धाः प्लवाःकारण्डवाः जलजलजविहारिणः हरितानि पद्मोत्पलकशेरुकादीनि एषां पण्यवस्तूनां, स्वाम्यं स्वामित्वं, राजा गच्छेत्, नतु सम्भूयसेतुकारिणोऽपि । **दासे**त्यादि । अननुशृण्वतः स्वरक्षकनिदेशावधीरिणः, दासाहितकबन्धून् दासान् गर्भदास-गृहजात-क्रीत-लब्ध-दायोपगतादीन् आहितकान् स्वामिना धनग्रहणेनाधितां नीतान् बन्धून् पुत्रादींश्च, राजा, विनयंप्रणतिं, ग्राहयेत् । बालवृद्धव्याधितव्यसन्यनाथांश्च अनाथा ये बालादयःतांश्च, बिभृयात् पोषयेत् । अप्रजातां वन्ध्यां स्त्रियं, प्रजातायाः पुत्रांश्च, बिभृयात्, सा च ते च यद्यनाथा इत्यार्थम् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> मत्स्येत्यादि** । सेतुषु, उत्पद्यमानानामिति शेषः, मत्स्यप्लवहरितपण्यानांमत्स्याः प्रसिद्धाः प्लवाःकारण्डवाः जलजलजविहारिणः हरितानि पद्मोत्पलकशेरुकादीनि एषां पण्यवस्तूनां, स्वाम्यं स्वामित्वं, राजा गच्छेत्, नतु सम्भूयसेतुकारिणोऽपि । **दासे**त्यादि । अननुशृण्वतः स्वरक्षकनिदेशावधीरिणः, दासाहितकबन्धून् दासान् गर्भदास-गृहजात-क्रीत-लब्ध-दायोपगतादीन् आहितकान् स्वामिना धनग्रहणेनाधितां नीतान् बन्धून् पुत्रादींश्च, राजा, विनयंप्रणतिं, ग्राहयेत् । बालवृद्धव्याधितव्यसन्यनाथांश्च अनाथा ये बालादयःतांश्च, बिभृयात् पोषयेत् । अप्रजातां वन्ध्यां स्त्रियं, प्रजातायाः पुत्रांश्च, बिभृयात्, सा च ते च यद्यनाथा इत्यार्थम् ।
 
  **बालेत्यादि** । बालद्रव्यं बालस्य अप्राप्तव्यवहारस्य नाथहीनस्य द्रव्यं, ग्रामवृद्धाः, वर्जयेयुः नोपयुञ्जीरन् तथैव स्थापयेयुर्वर्धनार्हंचेद् वर्धयेयुश्चेत्यभिप्रायः।कियन्तं कालम् आ व्यवहारप्रापणात् व्यवहारप्राप्तिकालं यावत् ।देवद्रव्यं च देवालयद्रव्यं च, ग्रामवृद्धा वर्जयेयुः, अवधेरयोगान्नित्यम् ।
 
@@ -3882,7 +3882,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** न च तत्रारामा विहारार्थाः शालाः स्युः। नटनर्तनगायनवादकवाग्जीवनकुशीलवा वा न कर्मविघ्नं कुर्युः, निराश्रयत्वाद् ग्रामाणां,क्षेत्राभिरतत्वाच्च पुरुषाणां कोशविष्टिद्रव्यधान्यरसवृद्धिर्भवतीति ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)साहसदण्डः प्रथमः साहसदण्डः ‘पणानां द्वे शते सार्धे प्रथमः साहसःस्मृतः’इति मनूक्तलक्षणः कर्तव्यः। **लुप्तेत्या**दि । लुप्तव्यवायः निश्शेषनष्टमैथुनशक्तिः पुरुषः, धर्मस्थान् धर्मशास्त्रानुसारेण व्यवहारनिर्णयेऽधिकृतान्प्राड्विवाकादीन, आपृच्छ्य अनुज्ञाप्य, प्रव्रजेत् परिव्रजेत् सन्न्यस्येत्,अन्यथा नियम्येत अनेवंप्रव्रजन् कारागृहे निवेश्येत ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>साहसदण्डः प्रथमः साहसदण्डः ‘पणानां द्वे शते सार्धे प्रथमः साहसःस्मृतः’इति मनूक्तलक्षणः कर्तव्यः। **लुप्तेत्या**दि । लुप्तव्यवायः निश्शेषनष्टमैथुनशक्तिः पुरुषः, धर्मस्थान् धर्मशास्त्रानुसारेण व्यवहारनिर्णयेऽधिकृतान्प्राड्विवाकादीन, आपृच्छ्य अनुज्ञाप्य, प्रव्रजेत् परिव्रजेत् सन्न्यस्येत्,अन्यथा नियम्येत अनेवंप्रव्रजन् कारागृहे निवेश्येत ।
 
  अथ जनपदवासानर्हानाह — **वानेत्या**दि । वानप्रस्थादन्यः प्रव्रजितभावः वैखानसादतिरिक्तः प्रव्रजितावस्थः, अर्थाच्चतुर्थाश्रमी, अस्य राज्ञो जनपदं नोपनिविशेत नाध्यासीत । प्रतिषेधनिमित्तं तु अभिशङ्कनीयशीलत्वमुक्तप्रायम् । सुजातादन्यः सङ्घः सुष्ठुजातात् राजराज्यक्षेमायोत्पन्नात् जनसङ्घाद् अन्यो दुर्जातः जनसङ्घः, अस्य जनपदं नोपनिविशेत । सामुत्थायकादन्यः समयानुबन्धो वा समुत्थायकाः सम्भूयसेतुबन्धादिराजप्रजानुकूलकर्मकारिणः तेषां सम्बन्धी समुत्थायकःसामुत्थायकात् समयानुबन्धाद् अन्यः राजजनपदद्रोहफलःसमयानुबन्धः सङ्केतरचना च, अस्य जनपदं नोपनिविशेत ।
 
@@ -3931,7 +3931,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कुप्यप्रदिष्टानां च द्रव्याणामेकैकशो वा वनं निवेशयेद्, द्रव्यवनकर्मान्तानटवीश्च द्रव्यवनापाश्रयाः।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
  **भूमिच्छिद्रविधानमिति** सूत्रम् ।भूमिच्छिद्रं सस्याद्युत्पत्त्यनर्हाभूमिःतस्य विधानं सफलत्वसम्पादनप्रकारः उच्यत इति सूत्रार्थः। वणिक्पथप्रचारान् निवेशयेदित्युक्तमधस्तात्, निवेशनस्थानं त्वधुनाभिधीयते ।
 
@@ -3950,7 +3950,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 [^31]: " वल्लकी  ख. पाठः"
 
-![](../../../books_images/U-IMG-1696316066Line.jpg) **कुप्ये**ति । कुप्यप्रदिष्टानां कुप्याध्यक्षप्रकरणोक्तानां, द्रव्याणां शाकतिनिशादिसारदारुवर्गस्य उटजचिमियादिवेणुवर्गस्य मालतीमूर्वादिवल्कवर्गस्यचेत्येतेषाम् एकैकशो वा वनं निवेशयेत् एकैकस्य एकैकं वनं कल्पयेत् ।द्रव्यवनकर्मान्तान् अटवीश्च द्रव्यवनसम्बद्धानि कर्माणि वनानि च, द्रव्यवनापाश्रयाः द्रव्यवनोपजीविनः पुरुषाः, निवेशयेयुरिति विपरिणामेन सम्बन्धः विदध्युरित्यर्थः।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> **कुप्ये**ति । कुप्यप्रदिष्टानां कुप्याध्यक्षप्रकरणोक्तानां, द्रव्याणां शाकतिनिशादिसारदारुवर्गस्य उटजचिमियादिवेणुवर्गस्य मालतीमूर्वादिवल्कवर्गस्यचेत्येतेषाम् एकैकशो वा वनं निवेशयेत् एकैकस्य एकैकं वनं कल्पयेत् ।द्रव्यवनकर्मान्तान् अटवीश्च द्रव्यवनसम्बद्धानि कर्माणि वनानि च, द्रव्यवनापाश्रयाः द्रव्यवनोपजीविनः पुरुषाः, निवेशयेयुरिति विपरिणामेन सम्बन्धः विदध्युरित्यर्थः।
 
  **प्रत्यन्ते** इति । प्रत्यन्ते जनपदावसानदेशे, हस्तिवनं नागवनम्,अटव्यारक्षम् अटव्या आरक्षाःपरिरक्षका यस्मिंस्तत् तथाभूतं, निवेशयेत् ।नागवनाध्यक्षः, पार्वतं नादेयं सारसम् आनूपं च पर्वताश्रयं नद्याश्रयं सरोव्यपाश्रयं साम्बुदेशाश्रयं च, नागवनं, विदितपर्यन्तप्रवेशनिष्कसनं विज्ञातपरिसराभिगमनिर्गमं कृत्वा, नागवनपालैः पालयेत् । हस्तिघातिनं शबरपुलिन्दादिं, हन्युः। स्वयंमृतस्य अर्थाद्धस्तिनः, दन्तयुगम्, आहरतः उपनयतःवनेचरजनस्य, सपादचतुष्पणो लाभः पारितोषिकं, देय इति शेषः।
 
@@ -3974,7 +3974,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  **यूथेत्या**दि । यूथचरं यूथेनैव सह चरति नत्वेकाकी यस्तम्, एकचरम्एक एव चरति नतु यूथेन सह यस्तं, निर्यूथं यूथनिर्गतं, यूथपतिं, व्यालंक्रूरस्वभावं, मत्तं प्रभिन्नं, पोतं दशवर्षकं, बद्धमुक्तं च हस्तिनं, निबन्धेनविद्युःयूथचरादिहस्तीयत्तादिकं गणनपुस्तके समारोप्य तेन जानीयुरित्यर्थः।अनीकस्थप्रमाणैः प्रशस्तव्यञ्जनाचारान् हस्तिशिक्षाविचक्षणैः प्रमाणभूतैः श्लाघितलक्षणचर्यान् हस्तिनः, गृह्णीयुः, राजार्थे । हि यस्मात् कारणाद्,राज्ञां विजयः शत्रुजयः हस्तिप्रधानः हस्तिमुख्यसाधनकः।हस्तिनां मुख्यसाधनत्वं विशदयितुमाह —**परेत्या**दि । अतिप्रमाणशरीराः महाप्रमाणदेहाःअत एव प्राणहरकर्माणः, हस्तिनः, परानीकव्यूहदुर्गस्कन्धावारप्रमर्दनाः परेषां शत्रूणां सैन्यविन्यासस्य प्राकारादिदुर्गस्य राजधान्याश्च विध्वंसकाः खलु ।इतिर्हेतुवचनः गृह्णीयुरित्यनेन सम्बन्धनीयः।
 
@@ -3992,7 +3992,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** जनपदमध्ये समुदयस्थानं स्थानीयं निवेशयेद् वास्तुकप्रशस्तेदेशे नदीसङ्गमे ह्रदस्य वा अविशोषस्याङ्के सरसस्तटाकस्य वा वृत्तं दीर्घं**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  **दुर्गविधानमि**ति सूत्रम् ।दुर्गरचनोच्यत इति सूत्रार्थः। जनपदप्रकृतिरुक्ता, दुर्गप्रकृतिरधुनाभिधीयते ।
 
@@ -4004,7 +4004,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** चतुर्दण्डावकृष्टं परिखायाः षड्दण्डोच्छ्रितमवरुद्धं तद्द्विगुणविष्कम्भं खाताद् वप्रंकारयेद् ऊर्ध्वचयं मञ्चपृष्ठं कुम्भकुक्षिकं वा हस्तिभि**-
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**रस्य वा अङ्के समीपे वा । कीदृशं निवेशयेत्, वास्तुकवशेन वास्तुस्थित्यनुसारेण वृत्तं वर्तुलाकारं, दीर्घं, चतुरश्रं वा, प्रदक्षिणोदकं प्रदक्षिणवाहिसलिलं, पण्यपुटभेदनं पण्यपुटानां पण्यकरण्डानां तत्तत्पण्योत्पत्तिस्थानेभ्यःप्रहितानां भेदनं बन्धविस्रंसनम् अनन्यत्रकार्यतया सङ्केतितं यस्मिंस्तत् तथाभूतम्, अंसवारिपथाभ्यामुपेतं स्थलमार्गजलमार्गाभ्यां गम्यम् । **तस्ये**ति ।तस्य स्थानीयस्य, तिस्रः प्रथममध्यमतृतीयाः, परिखाःकारयेत्, कीदृशीः,दण्डान्तराः द्विचत्वारिंशदङ्गुल एको हस्त इति गणनया देशकालमानप्रकरणोक्तया चत्वारो हस्ता एको दण्डः दण्डमितम् अन्तरं परस्परव्यवधानं यासांताः तथोक्ताः, चतुर्दशदण्डान् द्वादशदण्डान् दशदण्डान् इत्येवंक्रमेण विस्तीर्णाः, विस्ताराद् विस्तारपरिमाणात् पादोनं चतुर्भागहीनम्, अर्धंवा, अवगाधाः निम्नाः, तदुभयानुपपत्तावाह— त्रिभागमूला वा विस्तारत्रिभागमानंमूलम् अधस्तलं निम्नत्वं यासां तास्तथाभूताः, मूले चतुरश्राः सम्यग्बद्धाः,पाषाणोपहिताः शिलारचिताः, पाषाणेष्टकाबद्धपार्श्वा वा तोयान्तिकीः आजलोदयदेशखाताः स्वतः सम्पन्नजला इत्यर्थः, आगन्तुतोयपूर्णा वा नद्याद्यागतजलसम्भृता वा, सपरिवाहा जलनिर्गममार्गोपेताः, पद्मग्राहवतीः नलिननक्रयुक्ताः।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**रस्य वा अङ्के समीपे वा । कीदृशं निवेशयेत्, वास्तुकवशेन वास्तुस्थित्यनुसारेण वृत्तं वर्तुलाकारं, दीर्घं, चतुरश्रं वा, प्रदक्षिणोदकं प्रदक्षिणवाहिसलिलं, पण्यपुटभेदनं पण्यपुटानां पण्यकरण्डानां तत्तत्पण्योत्पत्तिस्थानेभ्यःप्रहितानां भेदनं बन्धविस्रंसनम् अनन्यत्रकार्यतया सङ्केतितं यस्मिंस्तत् तथाभूतम्, अंसवारिपथाभ्यामुपेतं स्थलमार्गजलमार्गाभ्यां गम्यम् । **तस्ये**ति ।तस्य स्थानीयस्य, तिस्रः प्रथममध्यमतृतीयाः, परिखाःकारयेत्, कीदृशीः,दण्डान्तराः द्विचत्वारिंशदङ्गुल एको हस्त इति गणनया देशकालमानप्रकरणोक्तया चत्वारो हस्ता एको दण्डः दण्डमितम् अन्तरं परस्परव्यवधानं यासांताः तथोक्ताः, चतुर्दशदण्डान् द्वादशदण्डान् दशदण्डान् इत्येवंक्रमेण विस्तीर्णाः, विस्ताराद् विस्तारपरिमाणात् पादोनं चतुर्भागहीनम्, अर्धंवा, अवगाधाः निम्नाः, तदुभयानुपपत्तावाह— त्रिभागमूला वा विस्तारत्रिभागमानंमूलम् अधस्तलं निम्नत्वं यासां तास्तथाभूताः, मूले चतुरश्राः सम्यग्बद्धाः,पाषाणोपहिताः शिलारचिताः, पाषाणेष्टकाबद्धपार्श्वा वा तोयान्तिकीः आजलोदयदेशखाताः स्वतः सम्पन्नजला इत्यर्थः, आगन्तुतोयपूर्णा वा नद्याद्यागतजलसम्भृता वा, सपरिवाहा जलनिर्गममार्गोपेताः, पद्मग्राहवतीः नलिननक्रयुक्ताः।
 
  वप्रविधानमाह —**चतुर्दण्डावकृष्टमि**ति । खाताद् वप्रं कारयेत् परिखातादुद्धृतया मृदा प्राकाराधारभूतं चयं निर्मापयेत् । कथम्भूतं, परिखायाःचतुर्दण्डावकृष्टं षोडशहस्तविप्रकृष्टं, षड्दण्डोच्छ्रितं चतुर्विंशतिहस्तोन्नतम्,अवरुद्धं मृद्गलनं यथा न भवेत् तथाधस्तात् कृतसंरोधं, तद्विगुणविष्कम्भम्उच्छ्र्यद्विगुणविस्तारम्, ऊर्ध्वचयम् अधःस्थलोपरिकृशमूर्ध्वचयाख्यं, मञ्चपृष्ठम् उपर्यधस्ताच्चतुल्यवैपुल्यं मञ्चपृष्ठाख्यं, कुम्भकुक्षिकं वा ऊर्ध्वाधःकृशं
 
@@ -4016,7 +4016,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** विष्कम्भचतुरश्रमट्टालकमुत्सेधसमावक्षेपसोपानं कारयेत्, त्रिंशद्दण्डान्तरं च ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 मध्यस्थूलं कुम्भकुक्षिकाख्यं वा, हस्तिभिर्गोभिश्च क्षुण्णं प्रघातदृढीकृतं,कण्टकिगुल्मविषवल्लीप्रतानवन्तं कण्टकवद्भिस्तृणसङ्घातैः विषलताप्रतानैश्चयुक्तम् । **पांस्वि**त्यादि । पांसुशेषेण वप्रविनियुक्तावशिष्टया मृदा, वास्तुच्छिद्रंनगरवास्तुगर्तंराजवास्तुगर्तंच, पूरयेद्वा पूरयेच्च ।
 
@@ -4034,7 +4034,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** दण्डान्तरा द्विदण्डान्तरा वाचार्याःकारयेद्, अग्राह्ये देशे प्रधावितिकां निष्कुहद्वारं च ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 पानम् उत्सेधानुरूपावरोहसोपानं, त्रिंशद्दण्डान्तरं च त्रिंशद्दण्डप्रमाणमिथोव्यवधानं च ।
 
@@ -4052,7 +4052,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** प्राकारमुभयतो मण्डपकमध्यर्धदण्डं कृत्वा प्रतोलीषट्तलान्तरंद्वारं निवेशयेत् पञ्चदण्डादेकोत्तरवृद्ध्याष्टदण्डादिति चतुरश्रम् ।द्विदण्डं वा।षड्भागमायामादधिकमष्टभागं वा ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 ** बहिरि**ति । बाहिःपरिखाबहिर्भूमिषु,जानुभञ्जनीत्रिशूलप्रकरकूपकूटावपातकण्टकप्रतिसराहिपृष्ठ- तालपत्रशृङ्गाटकश्वदंष्ट्रार्गलोपस्कन्दनपादुकाम्बरीषोदपानकैः छन्नपथं कारयेत् जानुभञ्जन्यो जानुमात्रीनामधेया दारुमया यन्त्रकीलाः त्रिशूलप्रकरः सारदारुलोहनिर्मितानां तीक्ष्णत्रिशृङ्गाणामायुधविशेषाणांसमूहः कूपा अन्धवः कूटा अयश्शलाकाः अवपातास्तृणादिच्छन्ना गर्ताः कण्टकप्रतिसराः आयसाः कण्टकाचिता रज्जुविशेषाः अद्दिपृष्ठानि निर्मांससर्पपृष्ठास्थिसदृशाकाराण्ययोमयानि तीक्ष्णाग्राणि तालपत्राणि तथाविधान्येवतालपत्राकाराणि शृङ्गाटकानि त्रिकोटिकानि लौहयन्त्राणि श्वदंष्ट्रास्तदाकारायन्त्रभेदाः अर्गलानि विष्कम्भाकाराणि यन्त्राणि उपस्कन्दनानि स्खलनार्थानिकाष्ठानि पादुकाः एकपादमात्रपातपर्याप्ताः पङ्कपूरिता गर्ताःअम्बरीषाणि अग्निसम्भृततप्तभ्राष्ट्रगर्भा गर्ताः उदपानकानि दुष्पीतोदकाः कुपुष्करिण्यः एतैश्छन्नं पन्थानं कारयेत् ।
 
@@ -4066,7 +4066,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** स्तम्भस्य परिक्षेपाः षडायामा द्विगुणो निखातः चूलिकायाश्चतुर्भागः।**
 
 ** आदितलस्य पञ्च भागाःशाला वापी सीमागृहं च ।दशभागिकौ समत्तवारणौ द्वौ प्रतिमञ्चौ अन्तरम् आणिः। हर्म्यं च समुच्छ्रयादर्धतलं स्थूणावबन्धश्च । आर्धवास्तुकमुत्तमागारं त्रिभागान्तरं वा,**  
-![](../../../books_images/U-IMG-1696316066Line.jpg) **पञ्चदशेत्या**दि । एतद् व्याचक्षते — द्वादशहस्तोत्सेधस्य प्राकारसभागृहस्य पञ्चदशहस्तोत्सेधांस्तुलास्तम्भान् कुर्यात् । एवं तद्धस्तचतुर्भागाश्रयेण एकोत्तरवृद्ध्या अष्टादशहस्तपर्यन्तमुत्सेधं कुर्यात् । स एष तुलोत्सेधइति । तलोत्सेध इति पाठे उक्तमानैस्तुलास्तम्भैरुपलक्षितस्यादितलस्योच्छ्रयइत्यर्थः।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> **पञ्चदशेत्या**दि । एतद् व्याचक्षते — द्वादशहस्तोत्सेधस्य प्राकारसभागृहस्य पञ्चदशहस्तोत्सेधांस्तुलास्तम्भान् कुर्यात् । एवं तद्धस्तचतुर्भागाश्रयेण एकोत्तरवृद्ध्या अष्टादशहस्तपर्यन्तमुत्सेधं कुर्यात् । स एष तुलोत्सेधइति । तलोत्सेध इति पाठे उक्तमानैस्तुलास्तम्भैरुपलक्षितस्यादितलस्योच्छ्रयइत्यर्थः।
 
  **स्तम्भस्ये**ति।स्तम्भस्य परिक्षेपाः परिधयः षडायामाः स्तम्भोत्सेधषड्भागदीर्घाः, पञ्चदशहस्तोत्सेधस्य स्तम्भस्य परिधिमानं सार्धद्विहस्तं कल्पनीयमिति भावः। निखातो द्विगुणः स्तम्भस्य निखातायामः परिक्षेपायामद्विगुणः, पञ्चदशहस्तोत्सेधस्य पञ्चहस्त इति भावः। चूलिकायाश्चतुर्भागःचूलिका नाम स्तम्भशिखा तस्या आयामः परिक्षेपायामचतुर्भाग इत्यर्थः।
 
@@ -4081,7 +4081,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
  प्राकारसमं मुखमवस्थाप्य त्रिभागगोधामुखं गोपुरं कारयेत् ।
 प्राकारमध्ये कृत्वा वापीं पुष्करिणीद्वारं, चतुश्शालमध्यर्थान्तराणिकं
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 पञ्चदण्डचतुरश्रस्य द्वारस्य ।त्रिभागान्तरं वा पञ्चदण्डत्रिभागोऽन्तरमवकाशोयस्य तत् तथाभूतं वा, उत्तमागारं कार्यम् । इह वाशब्दात् त्रिभागद्वयान्तरपक्षार्धान्तरपक्षयोरपि सङ्ग्रह इत्याहुः। इष्टकावबद्धपार्श्वं, वामतः प्रदक्षिणसोपानम्, इतरतो दक्षिणतः, गूढभित्तिसोपानं च कार्यम् ।तृतीयतलविधिरयमधस्तलेऽपि योज्यः।
 
@@ -4105,7 +4105,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 अध्यर्धान्तराणिकम् अन्तरम् अणिश्च पूर्वोक्तादध्यर्धाधिकं यस्य तत् तथाभूतं, चतुश्शालं शालाचतुष्टयं कृत्वा, कुमारीपुरं कुमारीपुराख्यं द्वारं कारयेद्,अर्थाद् यथोक्तचतुश्शालयुक्तं द्वारमेव कुमारीपुरसंज्ञं बोद्धव्यम् । द्वितलंद्विभूमं, मुण्डहर्म्यं निश्शृङ्गं हर्म्यं, वृत्तमालिकामित्यन्ये, कृत्वा, मुण्डकद्वारंमुण्डहर्म्ययोगान्मुण्डकाख्यंद्वारं, कारयेत् । भूमिद्रव्यवशेन वा भूमिद्रव्यसम्पदनुरोधेन वा, कारयेद्, अर्थाद् यथोक्तमेकैकं द्वारम् ।**त्रिभागेत्यादि** । त्रिभागाधिकायामाः त्रिभागाधिकः स्वविस्तारमानापेक्षया तृतीयांशाभ्यधिकमानः आयामो दैर्घ्यंयासां तास्तथाभूताः, भाण्डवाहिनीः कर्मोपकरणगतागतव्यवहारार्थाः, कुल्याः कारयेत् ।
 
@@ -4123,7 +4123,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** चतुर्दण्डान्तरा रथ्याः। राजमार्गद्रोणमुखस्थानीयराष्ट्रविवीतपथाः संयानीयव्यूहश्मशानग्रामपथाश्चा- ष्टदण्डाः। चतुर्दण्डः सेतुवनपथः। द्विदण्डो हस्तिक्षेत्रपथः। पञ्चारत्नयो रथपथश्चत्वारः पशुपथो द्वौ क्षुद्रपशुमनुष्यपथः।**
 
 ** प्रवीरे वास्तुनि राजनिवेशश्चातुर्वर्ण्यसमाजीवे । वास्तुहृदयादुत्तरे नवभागे यथोक्तविधानमन्तःपुरं प्राङ्मुखमुदङ्मुखं वा कारयेत् ।**  
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
  **दुर्गनिवेश** इति सूत्रम् । दुर्गं
 परिखावप्रप्राकाराट्टालप्रतोलीन्द्रकोशदेवपथादिकं यथोक्तं तस्मिन् निवेशः राजमार्गादिविभजनपूर्वं योग्यदेशरचनीयं राजामात्यादि-दुर्गान्तर्निवासिप्रकृतिभवनसंस्थानं, तदिहोच्यत इति सूत्रार्थः।
@@ -4136,14 +4136,14 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **तस्य पूर्वोत्तरं भागमाचार्यपुरोहितेज्यातोयस्थानं मन्त्रिणश्चावसेयुः। पूर्वदक्षिणं भागं महानसं हस्तिशाला कोष्ठागारं च । ततः परं गन्धमाल्यधान्यरसपण्याः प्रधानकारवः क्षत्रियाश्चपूर्वां दिशमधिवसेयुः। दक्षिणपूर्वं भागं भाण्डागारमक्षपटलं कर्मनिषद्याश्च । दक्षिणपश्चिमं भागं कुप्यगृहमायुधागारं च । ततः परं नगरधान्यव्यावहारिककार्मान्तिकबलाध्यक्षाः पक्वान्नसुरामांसपण्याः रूपाजीवास्तालावचरा वैश्याश्च दक्षिणां दिशमधिवसेयुः। पश्चिमदक्षिणं भागं खरोष्ट्रगुप्तिस्थानं कर्मगृहं च । पश्चिमोत्तरं भाग यानरथशालाः। ततः परम्**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)  
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>  
 **स्त्वि**त्यादि । एकाशीतिपदात्मकस्य वास्तुनो मध्यमो नवभागो वास्तुहृदयं, वास्तुहृदयाद्, उत्तरे नवमागे, यथोक्तविधानं निशान्तप्रणिधिप्रतिपादितप्रकारम्, अन्तःपुरं, प्राङ्मुखम् उदङ्मुखं वा कारयेत् । **तस्ये**ति । आचार्यपुरोहितेज्यातोयस्थानम् आचार्यपुरोहितयोर्यज्ञस्थानं तोयस्थानं च, मन्त्रिणश्च, तस्य अन्तःपुरस्य, पूर्वोत्तरं भागमावसेयुः पूर्वोत्तरे भागे स्थितिं कुर्युरित्यर्थः। महानसं पाकशाला, हस्तिशाला हस्तिपृष्ठाकारं सभागृहं, कोष्ठागारं च अन्तर्गृहमपवरकाख्यं च, पूर्वदक्षिणं भागम्, आवसेयुरिति सम्बध्यते आश्रयेयुरिति च तदर्थः। तत इति । ततः परं राजभवनाद् बहिः, गन्धमाल्यधान्यरसपण्याः गन्धपण्याः माल्यपण्याः धान्यपण्याः रसपण्याश्च, प्रधानकारवः मुख्यशिल्पिनः, क्षत्रियाश्च, पूर्वां दिशमधिवसेयुः। भाण्डागारम्, अक्षपटलं रूप्याद्यायव्ययगणनस्थानं, कर्मनिषद्याश्च स्वर्णरजतशिल्पस्थानानि च, दक्षिणपूर्वं भागम्, अधिवसेयुः आश्रयेयुः। कुप्यगृहं स्वर्णरजतेतरस्थानम्, आयुधागारं च, दक्षिणपश्चिमं भागम् आश्रयेत् । **ततः पर**मिति । ततः परं, नगरधान्यव्यावहारिककार्मान्तिकबलाध्यक्षाः नगरव्यावहारिकः धान्यव्यावहारिकः कार्मान्तिकः आकरादिकर्मान्ताधिकृतः बलाध्यक्षः सेनाध्यक्षः इत्येते, पक्वान्नसुरामांसपण्याः पक्वान्नादिविक्रेतारः, रूपाजीवा वेश्याः, तालावचरा नटाः, वैश्याश्च, दक्षिणां दिशम् अधिवसेयुः। खरोष्ट्रगुप्तिस्थानं गर्दभक्रमेलककारागृहाणि, कर्मगृहं च यत्र गृहादिकं निर्मीयते च ध्वंस्यते च परीक्षाद्यर्थं तत् स्थलं च, अथवा खरोष्ट्रादिव्यापारशाला च, पश्चिमदक्षिणं भागम्, आश्रयेत् । यानरथशालाः शिबिकादियानशाला रथशालाश्च, पश्चिमोत्तरं भागम्, आश्रयेयुः। ततः परमिति । ततः परं ततः परस्तात्, पश्चिमां दिशम्,
 
 **ऊर्णासूत्रवेणुचर्मवर्मशस्त्रावरणकारवः शूद्राश्च पश्चिमां दिशमधिवसेयुः, उत्तरपश्चिमं भागं पण्यभैषज्यगृहम्, उत्तरपूर्वं भागं कोशो गवाश्वं च । ततः परं नगरराजदेवता लोहमणिकारवो ब्राह्मणाश्चोत्तरां दिशमधिवसेयुः। वास्तुच्छिद्रानुलासेषु श्रेणीप्रवहणिकनिकाया आवसेयुः।**
 
 ** अपराजिताप्रतिहतजयन्तवैजयन्तकोष्ठकान् शिववैश्रवणाश्विश्रीमदिरागृहं च पुरमध्ये कारयेत् । काष्ठकालयेषु यथोद्देशं वास्तुदेवताः स्थापयेत् । ब्राह्मैन्द्रयाम्यसैनापत्यानि द्वाराणि । बहिः परिखाया धनुश्शतावकृष्टाश्चैत्यपुण्यस्थानवनसेतुबन्धाः कार्याः, यथादिशं च दिग्देवताः।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)ऊर्णासूत्रवेणुचर्मवर्मशस्त्रावरणकारवः ऊर्णावानकारवः कार्पासतन्तुवानकारवः वेणुवानकारवः चर्मकारवो वर्मकारवः शस्त्रावरणकारव इत्येते, शूद्राश्च, अधिवसेयुः। पण्यभैषज्यगृहं पण्यगृहम् औषधशाला च, उत्तरपश्चिमं भागम्, अधिवसेत् । कोशः धान्यादिसंग्रहस्थानं, गवाश्वं च गावोऽश्वाश्च, उत्तरपूर्वं भागम् अधिवसेत् । तत इति । ततः परं, नगरराजदेवताः नगरदेवताः राजकुलदेवताश्च, लोहमणिकारवः अयस्कारवैकटिकाः, ब्राह्मणाश्च, उत्तरां दिशमधिवसेयुः। **वास्त्वि**त्यादि । श्रेणीप्रवहणिकनिकायाः श्रेणी रजकतन्तुवायतुनन्नवायादयः प्रवहणिकाः विदेशागता वणिजः तेषां समूहाः, वास्तुच्छिद्रानुलासेषु वास्तुच्छिद्रावकाशेषु आवसेयुः। वसेयुरिति श्रेयान् पाठः।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>ऊर्णासूत्रवेणुचर्मवर्मशस्त्रावरणकारवः ऊर्णावानकारवः कार्पासतन्तुवानकारवः वेणुवानकारवः चर्मकारवो वर्मकारवः शस्त्रावरणकारव इत्येते, शूद्राश्च, अधिवसेयुः। पण्यभैषज्यगृहं पण्यगृहम् औषधशाला च, उत्तरपश्चिमं भागम्, अधिवसेत् । कोशः धान्यादिसंग्रहस्थानं, गवाश्वं च गावोऽश्वाश्च, उत्तरपूर्वं भागम् अधिवसेत् । तत इति । ततः परं, नगरराजदेवताः नगरदेवताः राजकुलदेवताश्च, लोहमणिकारवः अयस्कारवैकटिकाः, ब्राह्मणाश्च, उत्तरां दिशमधिवसेयुः। **वास्त्वि**त्यादि । श्रेणीप्रवहणिकनिकायाः श्रेणी रजकतन्तुवायतुनन्नवायादयः प्रवहणिकाः विदेशागता वणिजः तेषां समूहाः, वास्तुच्छिद्रानुलासेषु वास्तुच्छिद्रावकाशेषु आवसेयुः। वसेयुरिति श्रेयान् पाठः।
 
  **अपराजिते**त्यादि । अपराजिताप्रतिहतजयन्तवैजयन्तकोष्ठकान् अपराजिता दुर्गा अप्रतिहतो विष्णुः जयन्तः सुब्रह्मण्यः वैजयन्त इन्द्रः एतेषामालयान्, शिववैश्रवणाश्विश्रीमदिरागृहं च शिवादीनां मदिरान्तानां पञ्चानां गृहं च,पुरमध्ये कारयेत् । **कोष्ठके**त्यादि । कोष्ठकालयेषु पूर्वोक्तेषु, यथोद्देशं स्वस्वदेशामतिक्रमेण, वास्तुदेवताः स्थापयेत् । ब्राह्म्येत्यादि । ब्राह्म्यैन्द्रयाम्यसैनापत्यानि ब्राह्म्यं
 ब्रह्मदेवताकमुत्तरम् ऐन्द्रं पूर्वं याम्यं दक्षिणं सैनापत्यं पश्चिममित्येतानि, द्वाराणि, अर्थात् पुरस्य । बाहिरिति । परिखाया बहिः, धनुश्शतावकृष्टाःदण्डशतविप्रकृष्टाः; चैत्यपुण्यस्थानवनसेतुबन्धाः चैत्य उद्देशवृक्षः पुण्यस्थानं तीर्थादिकं वनं सेतुबन्ध इत्येते, कार्याः। दिग्देवताश्च, यथादिशं स्वस्वदिगनुरोधेन कार्याः।
@@ -4154,7 +4154,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कर्मान्तक्षेत्रवशेन वा कुटुम्बिनां सीमानं स्थापयेत् । तेषु पुष्पफलवाटषण्डकेदारान् धान्यपण्यनिचयांश्च अनुज्ञाताः कुर्युः, दशकुलीवाटं कूपस्थानम् । सर्वस्नेहधान्यक्षारलवणभैषज्यशुष्कशाकयवस वल्लूरतृणकाष्ठलोहचर्याङ्गारस्नायुविषविषाणवेणुवल्कलसारदारुप्रहरणावरणाश्मनिचयाननेकवर्षोपभोगसहान् कारयेत् । नवेनानवं शोधयेत् ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)    
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>    
  उत्तर इत्यादि । वर्णोत्तमानां शुद्राणाम् । वर्णोत्तराणामित्यपि पाठः। पूर्वः साहसदण्डः सार्धद्विशतपणलक्षणः।
 
  पाषण्डेत्यादि । पाषण्डचण्डालानां कापालिकादीनां प्लवपुल्कसादीनां च ।
@@ -4173,7 +4173,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
  **हस्ती**त्यादि । हस्त्यश्वरथपादातं चतुरङ्गं सैन्यम्, अनेकमुख्यम् अनेके मुख्या बलप्रधाना यस्मिंस्तत् तथाभूतम् अवस्थापयेद्, दुर्गेषु । बलप्रधानानां बहुत्वे गुणमाह — **अनेके**त्यादि । एकश्चेद् बलप्रधानः स समानपुरुषान्तराभावान्निर्भयो लोभादिना परोपजापमङ्गीकृत्य कृत्स्नं बलं स्वाधिष्ठीयमानं भेदयेत्, बहवश्चेद् बलप्रधानाः ते परस्पराभिशङ्किताः परोपजापं नोपगच्छेयुरिति बहुप्रधानाधिष्ठितं बलं पराभेद्यं भवतीति भावः।
 
@@ -4195,7 +4195,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 मूलं च प्रचित्य सारदारुपञ्जरं भूमिसमत्रितलमनेकविधानं कुट्टिमदेशस्थानतलमेकद्वारं यन्त्रयुक्तसोपानं देवतापिधानं भूमिगृहं
 कारयेत् । तस्योपर्युभयतोनिषेधं सप्रग्रीवमैष्टकं भाण्डवाहिनीपरिक्षिप्तंकोशगृहं कारयेत् प्रासादं वा । जनपदान्ते ध्रुवनिधिमापदर्थमभित्यक्तैः पुरुषैः कारयेत् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  **सन्निधातृनिचयकर्मे**ति सूत्रम् । सन्निधाता द्रव्यं सञ्चित्य निधाता भाण्डागाराधिपतिः तस्य निचयकर्म द्रव्यसंग्रहरक्षणकर्म, तदिहोच्यत इति सूत्रार्थः। निचेयद्रव्यप्रसङ्गान्निचेतृव्यापाराभिधानम् ।
 
@@ -4207,7 +4207,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सर्वेषां शालाखातोदपानवच्च स्नानगृहाग्निविषत्राणमार्जारनकुलारक्षाः स्वदैवपूजनयुक्ताः कारयेत् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ध्रुवनिधिम् अनपायनिधिकम् अर्थात् प्रासादं, जनपदान्ते, अभित्यक्तैः वध्यैः पुरुषैः, कारयेत् । वध्यपुरुषा हि राज्ञा यत्नरक्षिताः निधिगुप्तिस्थानविधानरहस्यं निर्माणकाले नोद्भिन्द्युः, निर्माणनिर्वृत्त्युत्तरकाले च सद्यो मारिता भवन्तीति सोऽयं ध्रुवनिधिरनन्यवेद्यो वेदितव्यः।
 
@@ -4230,7 +4230,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सर्वाधिकरणेषु युक्तोपयुक्ततत्पुरुषाणां पणद्विपणचतुष्पणाः, परमपहारेषु पूर्वमध्यमोत्तमवधा दण्डाः।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **कोष्ठे**त्यादि । कोष्ठागारे, वर्षमानं वर्षं वृष्टिर्मीयतेऽनेनेति तथाभूतम्, अरत्निमुखम् अरत्निचतुरश्रमुखं, कुण्डं गर्तं, स्थापयेत् खानयेत् ।
 
  तज्जातेत्यादि । पुराणं नवं च, विविच्येति शेषः, रत्नं मणिमुक्कादिकं, सारं चन्दनादि, फल्गु वस्त्रादि, कुप्यं वा दारुचर्मवेणुवल्ककोष्ठोपकरणादिकं वा, तज्जातकरणाधिष्ठितः रत्नादितत्तद्वस्तुव्यवहारिवंश्यैः कायस्थैश्चोपेतः सन्, प्रतिगृह्णीयात् संगृह्णीयात् । तत्रेति । तत्र, रत्नोपधौ निर्गुणरत्नं प्रतिनिधायगुणवद्रत्नहरणे, कर्तुः कारयितुश्च, उत्तमो दण्डः पणसाहस्ररूप उत्तमसाहसः। सारोपधौ, मध्यमः मध्यमसाहसः। फल्गुकुप्योपधौ, तच्च तावच्च दण्डः यद् द्रव्यं हृतं तच्च तत्समपरिमाणं तज्जातीयमपरं चेत्युभयं दण्डो भवति ।
@@ -4258,7 +4258,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 चतुष्पणाः एकः पणः द्वौ पणौ चत्वारः पणाश्च, दण्डाः, अपहारेषु पूर्वोक्तजातीयेषु । परमपहारेषु सकृद्दण्डनात् परतोऽपहारेषु, पूर्वमध्यमोत्तमवधा दण्डाः पूर्वसाहसो मध्यमसाहस उत्तमसाहसो वधश्च दण्डाः। तत्राद्यास्त्रयो दण्डाः यथाक्रमं प्रयोक्तव्याः, वधदण्डस्तु ततोऽपि परस्तादपहारेषु प्रयोक्तव्य इति बोद्धव्यम् ।
 
  कोशेत्यादि । कोशाधिष्ठितस्य कोशाधिष्ठातुः भाण्डागाराध्यक्षस्य, कोशावच्छेदे कोशस्य सुरुङ्गाद्युपायेनापहारे, घातः वधदण्डः। तद्वैयावृत्त्यकाराणां तस्य वैयावृत्त्यकाराः विशेषेण आ समन्तादू वर्तत इति व्यावृत्तः परिचारकः तस्य कर्म वैयावृत्त्यं परिचर्या तत् कुर्वन्तः परिचारकाः तेषाम्, अर्धदण्डः। अविज्ञाते सति अर्थात् कोशाधिष्ठातृकृते कोशावच्छेदे, परिभाषणं तद्वैयावृत्त्यकाराणां सनिन्दोपालम्भः। **चोराणा**मिति । चोराणाम् अभिप्रधर्षणे कु
@@ -4283,7 +4283,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सीता भागो बलिः करो वणिक् नदीपालस्तरो नावः पट्टनं विवीतं वर्तनी रज्जूश्चोररज्जूश्चराष्ट्रम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **समाहर्तृसमुदयमस्थापनमिति** सूत्रम् । समाहर्ता विषयबल्यध्यक्षः तेन करणीयं समुदयप्रस्थापनं धनोत्पत्तिप्रवर्तनमुच्यत इति सूत्रार्थः। अर्थोपधाशुद्धः सन्निधातृकर्मणि समाहर्तृकर्मणि च नियोक्तव्य इत्युक्तं प्राक् । तद्व्यापार इदानीमभिधीयते ।
 
  दुर्गादिसप्तकं समाहर्त्रा चिन्तनीयमित्याह — **समाहर्तेत्या**दि ।
@@ -4301,7 +4301,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** इत्यायशरीरम् । मूलं भागो व्याजी परिघः क्लृप्तं रूपिकमत्ययश्चायमुखम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
  खनिमाह — **सुवर्णे**त्यादि । वज्रः हीरकः, मणिर्मरतकादिः। भूमि —धातुःप्रस्तरधातुःरसधातुश्च । स्पष्टमन्यत् ।सुवर्णादिद्वादशकं खननलभ्यत्वात् खनिशब्दवाच्यम् ।
 
  सेतुमाह — **पुष्पे**त्यादि । पुष्पवाटःकुङ्कुमादिवनं, फलवाटःवार्ताकोर्वारुकादिवाटी, अनयोः पुष्पफलशब्दाभ्यां ग्रहणं वाटशब्देन तु इक्षुवाटस्य, षण्डं कदलीक्रमुकादि, केदारःधान्यक्षेत्रं, मूलवापःआर्द्रकहरिद्रालामज्जाद्युत्पत्तिस्थलम् । पुष्पवाटादयः षट् सेतुशब्दिताः।
@@ -4319,7 +4319,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** राजवर्षंमासः पक्षो दिवसश्चव्युष्टम् । वर्षाहेमन्तग्रीष्माणां तृतीय**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 **“शरीरं सप्तधायस्य तावन्त्येव मुखानि च ।  
 प्रभेदाःसप्तषष्टिः स्युर्व्यये द्वाविंशतिः स्थिताः॥**
@@ -4344,7 +4344,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सिद्धिप्रकर्मयोगः दण्डशेषमाहरणीयं, बलात्कृतप्रतिस्तब्धमवसृष्टं च प्रशोध्यम्, एतच्छेषमसारमल्पसारं च ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**श्चत्वारो रविमासा वर्षर्तुरित्येको भागः, धनुर्मकरकुम्भमीनाख्याश्चत्वारो हेमन्त इति द्वितीयः, मेषवृषभमिथुनकुलीराख्याश्चत्वारो ग्रीष्म इति तृतीयः इत्येतेषां त्रयाणां भागानां ये प्रत्येकमष्टौ पक्षास्तेषु तृतीयपक्षे सप्तमपक्षे चैकैको दिवसो हीयते, अवशिष्टास्तु पक्षा अनूनदिवसा इति । **पृथगि**ति । अधिमासकः अधिकः सौरमासादतिरिक्तः शुक्लप्रतिपदादिर्दर्शावसान**श्चान्द्रो** मासः, पृथग्, इति कालःउक्तप्रकारो व्यवहारार्थः कालो विज्ञेयः
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**श्चत्वारो रविमासा वर्षर्तुरित्येको भागः, धनुर्मकरकुम्भमीनाख्याश्चत्वारो हेमन्त इति द्वितीयः, मेषवृषभमिथुनकुलीराख्याश्चत्वारो ग्रीष्म इति तृतीयः इत्येतेषां त्रयाणां भागानां ये प्रत्येकमष्टौ पक्षास्तेषु तृतीयपक्षे सप्तमपक्षे चैकैको दिवसो हीयते, अवशिष्टास्तु पक्षा अनूनदिवसा इति । **पृथगि**ति । अधिमासकः अधिकः सौरमासादतिरिक्तः शुक्लप्रतिपदादिर्दर्शावसान**श्चान्द्रो** मासः, पृथग्, इति कालःउक्तप्रकारो व्यवहारार्थः कालो विज्ञेयः
 
  करणीयादिषट्कमुद्दिशति — **करणीयमित्या**दि ।
 
@@ -4356,7 +4356,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  **वर्तमानः पर्युषितोऽन्यजातश्चायः। दिवसानुवृत्तो वर्तमानः। परमसांवत्सरिकः परप्रचारसङ्क्रान्तो वा पर्युषितः। नष्टप्रस्मृतमायुक्तदण्डः पार्श्वं पारिहीणिकमौपायनिकं डमरगतकस्वमपुत्रकं निधिश्चान्यजातः। विक्षेपव्याधितान्तरारम्भशेषश्च व्ययप्रत्यायः। विक्रये पण्यानामर्घष्टद्विरुपजा मानोन्मानविशेषो व्याजी क्रयसङ्घर्षे वा वृद्धिरित्यायः।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**क्तावशिष्टद्रव्यं च, आहरणीयं सुखेनाहर्तुं शक्यत्वादाहरणीयसंज्ञम् ।बलात्कृतप्रतिस्तब्धं राजवल्लभाद्याश्रयबलाददत्तं देयं प्रतिस्तब्धापरपर्यायम्, अवसृष्टं च पुरमुख्यैः कामचारादत्तंच, प्रशोध्यं प्रयत्नसाध्यत्वात् प्रशोध्यसंज्ञम् । एतद् उक्तमाहरणीयद्विकं प्रशोध्यद्विकं चेतीदं चतुष्टयामित्यर्थः, असारं प्रवेशनार्थे कृतेऽपि व्यये निष्फलम्, अल्पसारं च बहुव्ययसाध्याल्पफलं च, शेषं तत्संज्ञम् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**क्तावशिष्टद्रव्यं च, आहरणीयं सुखेनाहर्तुं शक्यत्वादाहरणीयसंज्ञम् ।बलात्कृतप्रतिस्तब्धं राजवल्लभाद्याश्रयबलाददत्तं देयं प्रतिस्तब्धापरपर्यायम्, अवसृष्टं च पुरमुख्यैः कामचारादत्तंच, प्रशोध्यं प्रयत्नसाध्यत्वात् प्रशोध्यसंज्ञम् । एतद् उक्तमाहरणीयद्विकं प्रशोध्यद्विकं चेतीदं चतुष्टयामित्यर्थः, असारं प्रवेशनार्थे कृतेऽपि व्यये निष्फलम्, अल्पसारं च बहुव्ययसाध्याल्पफलं च, शेषं तत्संज्ञम् ।
 
  आयं त्रेधा विभज्य व्युत्पादयति — **वर्तमान** इति । आयः, वर्तमानः— पर्युषितः अन्यजातश्च इति त्रिविधः। तत्र दिवसानुवृत्तः नित्यः, वर्तमानः। परमसांवत्सरिकःअतीतवर्षग्राह्यःवर्तमानवर्षे गृहीतः, परप्रचारसंक्रान्तः भूतपूर्वाध्यक्षकालप्रविष्टः यद्वा शत्रुविषयादागतः, वाशब्दःसमुच्चये, पर्युषितः तदाख्यः।नष्टप्रस्मृताद्यष्टकमन्यजात इत्याह — **नष्टे**त्यादि । नष्टप्रस्मृतं विस्मृताभिज्ञातमिति भाषाटीका । प्रशब्द इह प्रकर्षे नतु धात्वर्थविपरीतत्वे इति तत्पक्षे वक्तव्यम् ।नष्टमपगतं प्रस्मृतं विस्मृतमिति तु कोष्ठागाराध्यक्षप्रकरणे भट्टस्वामी । आयुक्तदण्डः तत्तत्कार्याध्यक्षेभ्योऽपराधिभ्यो गृहीतो दण्डः, पार्श्वं करातिरेचनलक्षणवक्रोपायलब्धं धनम् । प्रभुत्वाधिगम्यामति केचित् । पारिहीणिकं चतुष्पदविनाशितसस्यदण्डाधिगम्यं धनम्, औपायनिकम् उपायनत्वेन गृहीतं, डमरगतकस्वं डमरः शत्रुकलहविप्लवः तदवसरे शत्रुसैन्यादपहृतं धनम् अपुत्रकम् अविद्यमानदायादकं धनं, निधिश्च निधिलाभश्च, अन्यजातः अष्टावेतेऽन्यजातशब्दिताः। आयस्य प्रकारान्तरमाह — **विक्षेपे**त्यादि । विक्षेपव्याधितान्तरारम्भशेश्चविक्षेपशेषः किञ्चित्कार्यसाधनाय नियुक्तस्य सैन्यस्यार्थे व्ययितावशिष्टं धनं व्याधितशेषः भेषजशालाव्ययितशिष्टम् अन्तरारम्भशेषः दुर्गप्रासादादिनिमित्तव्ययितावशिष्टम् इत्येतत् त्रिकं, व्ययप्रत्यायः तदाख्ययोच्यते । पुनरप्यायस्य पाञ्चविध्यमाह — **विक्रय** इत्यादिना । विक्रये पण्यानामर्घवृद्धिः कप्ताभ्यधिकेन मूल्येन पण्यविक्र-
 
@@ -4364,7 +4364,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** व्ययसंजातादायव्ययविशुद्धा नीवी प्राप्ता चानुवृत्ता चेति ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 याल्लब्धमधिकं घनं विक्रेतृसकाशादुपस्थापितम्, उपजा प्रतिषिद्धविक्रयलब्धं, मानोन्मानविशेषः मानोन्मानयोर्विशेषकरणेन मेयाधिक्यसम्पादनाल्लब्धं, व्याजी विंशतिभागः पुनर्मीयमानमेयोनतापरिहारार्थमधिकतया गृह्यमाणः क्रयसंघर्षे वृद्धिः स्पर्धया मूल्यवर्धनाल्लब्धं, वाशब्दश्चकारार्थः। इत्यायः उक्तप्रकारेणायो व्याख्यातः। भाषाटीका तु नष्टप्रस्मृतादिकमन्तरारम्भशेषान्तमेकादशकमन्यजातभेद इति, व्ययप्रत्यायादिषट्कमायस्य प्रकारान्तरमिति च व्याचष्टे । तत्तु ‘विक्षेपव्याधितान्तरारम्भशेषं च व्ययप्रत्यायः’ इति कोष्ठागाराध्यक्षवक्ष्यमाणग्रन्थेन विरुध्यते ।
 
  अथ व्ययमाह — **नित्य** इति । नित्यो नित्योत्पादिकः लाभो लाभोत्पादिक इति चतुर्विधो व्ययः। तत्र दिवसानुवृत्तः प्रात्यहिको व्ययः नित्यः। **पक्षमाससंवत्सरलाभ** इति तादर्थ्यात् ताच्छब्द्यं, पक्षलाभार्थोमासलाभार्थः संवत्सरलाभार्थश्च व्ययः, लाभः लाभशब्दितः। तयोर्नित्यलाभयोः, उत्पन्नः तत्र नित्योत्पन्नो लाभोत्पन्नश्च व्ययः, नित्योत्पादिको लाभोत्पादिक इति व्यपदिश्यत इति शेषः। यथाक्रमं च संबन्धः। कॢप्तवेतनातिरेकेण एतावतो नित्यव्ययस्यैतावदिति विशेषतः कर्मकरेभ्यो यद् दीयते स व्ययो नित्यव्ययोत्पन्नत्वान्नित्योत्पादिकशब्दितः, एतावतो लाभनिमित्तव्ययस्यैतावदिति विशेवतस्तेभ्यो यद् दीयते स लाभाख्यव्ययोत्पन्नत्वाल्लाभोत्पादिकशब्दित इति विवेक्तव्यम् ।
@@ -4379,7 +4379,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** अध्यायान्ते श्लोकमाह — **एवमि**ति । एवम् उक्तैः प्रकारैः, समुदयं धनोत्पत्तिं, कुर्यात्, आयस्य वृद्धिं च, व्ययस्य ह्रासं च दर्शयेत्, समाहर्ता । स कीदृशः प्राज्ञः प्रजानुपपीडयायवृद्धिप्रदर्शने कर्मकरानुपपीडया व्ययह्रासप्रदर्शने च निपुणः। विपर्ययं च साधयेत् आयव्यययोर्वृद्धिह्रासवैपरीत्यं यदि यदृच्छयोपनमेत् तदपि वारयेदित्यर्थः, यद्वा विपर्ययं व्ययवृद्धिमपरिहार्यतया प्रसक्तां कालान्तरभाव्यायवृद्ध्युपायनिश्चयेन समर्थयेदपीत्यर्थः॥
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** अध्यायान्ते श्लोकमाह — **एवमि**ति । एवम् उक्तैः प्रकारैः, समुदयं धनोत्पत्तिं, कुर्यात्, आयस्य वृद्धिं च, व्ययस्य ह्रासं च दर्शयेत्, समाहर्ता । स कीदृशः प्राज्ञः प्रजानुपपीडयायवृद्धिप्रदर्शने कर्मकरानुपपीडया व्ययह्रासप्रदर्शने च निपुणः। विपर्ययं च साधयेत् आयव्यययोर्वृद्धिह्रासवैपरीत्यं यदि यदृच्छयोपनमेत् तदपि वारयेदित्यर्थः, यद्वा विपर्ययं व्ययवृद्धिमपरिहार्यतया प्रसक्तां कालान्तरभाव्यायवृद्ध्युपायनिश्चयेन समर्थयेदपीत्यर्थः॥
 
 इतिकौटलीयार्थशास्त्रव्याख्यासामध्यक्षप्रचारे द्वितीयाधिकरणे षष्ठोऽध्यायः  
 समाहर्तृसमुदयप्रस्थापनम्, आदितः सप्तविंशः॥
@@ -4392,7 +4392,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तत्राधिकरणानां सङ्ख्याप्रचारसञ्जाताग्रं, कर्मान्तानां द्रव्यप्रयोगे वृद्धिक्षयव्ययप्रयामव्याजीयोगस्था- नवेतनविष्टिप्रमाणं, रत्नसार-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) अक्षपटले गाणनिक्याधिकार** इति सूत्रम् ।अक्षपटले अक्षाणां द्रव्याणां पटले गणनपुस्तकलेखनादिकर्मानुष्ठानदेशे, गाणनिक्याधिकारः गाणनिका गणननियुक्तास्तेषां कर्म गाणनिक्यं तस्याधिकारः प्रस्ताव इह क्रियत इति सूत्रार्थः। अर्थोपधाशुद्धा अर्थसम्बद्धे कर्माणि नियोक्तव्या इत्युक्तमधस्तात् । स पुनरर्थव्यापार इदानीमभिधीयत इति सम्बन्धः।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> अक्षपटले गाणनिक्याधिकार** इति सूत्रम् ।अक्षपटले अक्षाणां द्रव्याणां पटले गणनपुस्तकलेखनादिकर्मानुष्ठानदेशे, गाणनिक्याधिकारः गाणनिका गणननियुक्तास्तेषां कर्म गाणनिक्यं तस्याधिकारः प्रस्ताव इह क्रियत इति सूत्रार्थः। अर्थोपधाशुद्धा अर्थसम्बद्धे कर्माणि नियोक्तव्या इत्युक्तमधस्तात् । स पुनरर्थव्यापार इदानीमभिधीयत इति सम्बन्धः।
 
 ** अक्षेत्या**दि । अध्यक्षः आयुक्तप्रधानः, अक्षपटलं तत्तदध्यक्षाणां सम्भूयस्वस्वकर्मानुष्ठानदेशं कारयेत् । कीदृशं प्राङ्मुखमुदङ्मुखं वा, दिग्द्वयोपादानं तन्मुखस्य माङ्गलिकत्वद्योतनायातादृशस्य वैपरीत्यद्योतनाय च । पुनः कीदृशं विभक्तोपस्थानं विभक्तानि उत्तममध्यमाधामातामध्यक्षाणां पृथक्स्थित्यनुकूलतया विभज्य विहितानि उपस्थानान्यन्तः कक्ष्याः यस्मिंस्तत् तथाभूतम् । पुनः कथम्भूतं, निबन्धपुस्तकस्थानं गणकपुस्तकनिवेशाधिष्ठानभूतम्।
 
@@ -4402,7 +4402,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** ततः सर्वाधिकरणानां करणीयं सिद्धं शेषमायव्ययौ नीवीम्**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**कर्मकरभृतिः, विष्टिः बलकारितं कर्म । रत्नसारफल्गुकुप्यानामर्घप्रतिवर्णकप्रतिमानमानोन्मानभाण्डं रत्नादीनां चतुर्णामर्घादिषट्कं, निबन्धपुस्तकस्थं कारयेत् । तत्र अर्घंमूल्यं, प्रतिवर्णको वर्णगुणः, प्रतिमानं माषगुञ्जादि, मानम् आकृतिपरिच्छेदः, उन्मानमूर्ध्वमानं, भाण्डं मूलधनम् ।देशग्रामजातिकुलसङ्घानां देशः पूर्वदेशमध्यमदेशादिः ग्रामः प्रसिद्धः जातिर्ब्राह्मणादिःकुलं गोत्रं सङ्घगणः एषां पञ्चानां, धर्मव्यवहारचारित्रसंस्थानं धर्मः यजनादिः स्मृत्युक्तः व्यवहारो दायभागः चारित्रं समुदाचारो देशादिप्रतिनियतो मातुलकन्यापरिणयादिलक्षणः तेषां संस्थानमविचालनं यद्वा स्वरूपं, निबन्धपुस्तकस्थं कारयेत् । राजोपजीविनां, प्रग्रहप्रदेशभोगपरिहारभक्तवेतनलाभं प्रग्रहः पूजा मन्त्रिपुरोहितादीन् प्रति प्रत्युद्गमनबहुमानः प्रदेशो वासस्थानं भोग उपायनं परिहारः करमुक्तिः भक्तम् अश्वगजपदात्यभ्यवहारः वेतनं भृतिः इत्येषां लाभं, निबन्धपुस्तकस्थं कारयेत् । राज्ञः, पत्नीपुत्राणां च पत्नीनां पुत्राणां च, रत्नभूमिः लाभं तदुपयुज्यमानानां रत्नानां भूमीनां स्थानीयादीनां च लाभं, निबन्धपुस्तकस्थं कारयेत् । निर्देशौत्पादिकप्रतीकारलाभं निर्देशं राजतत्पत्नीपुत्राणां नित्यदेयातिरिक्तं देयं सामन्तव्यपदेशाख्यम् औत्पादिकलाभम् उत्सवादिभवं धनलाभं प्रतीकारलाभं व्याध्यादिप्रशमननिमित्तं धनलाभं च, निबन्धपुस्तकस्थं कारयेत् । औत्पत्तिकेति पाठे भूकम्पनिर्घाताद्युत्पातदोषशान्त्यर्थं धनलाभमित्यर्थो बोद्धव्यः। मित्रामित्राणां, सन्धिविक्रमप्रदानादानं च मित्रेषु सन्धाय प्रदीयमानं धनम् अमित्रेषु विक्रम्य विगृह्य आदीयमानं धनं च, निबन्धपुस्तकंस्थं कारयेत् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**कर्मकरभृतिः, विष्टिः बलकारितं कर्म । रत्नसारफल्गुकुप्यानामर्घप्रतिवर्णकप्रतिमानमानोन्मानभाण्डं रत्नादीनां चतुर्णामर्घादिषट्कं, निबन्धपुस्तकस्थं कारयेत् । तत्र अर्घंमूल्यं, प्रतिवर्णको वर्णगुणः, प्रतिमानं माषगुञ्जादि, मानम् आकृतिपरिच्छेदः, उन्मानमूर्ध्वमानं, भाण्डं मूलधनम् ।देशग्रामजातिकुलसङ्घानां देशः पूर्वदेशमध्यमदेशादिः ग्रामः प्रसिद्धः जातिर्ब्राह्मणादिःकुलं गोत्रं सङ्घगणः एषां पञ्चानां, धर्मव्यवहारचारित्रसंस्थानं धर्मः यजनादिः स्मृत्युक्तः व्यवहारो दायभागः चारित्रं समुदाचारो देशादिप्रतिनियतो मातुलकन्यापरिणयादिलक्षणः तेषां संस्थानमविचालनं यद्वा स्वरूपं, निबन्धपुस्तकस्थं कारयेत् । राजोपजीविनां, प्रग्रहप्रदेशभोगपरिहारभक्तवेतनलाभं प्रग्रहः पूजा मन्त्रिपुरोहितादीन् प्रति प्रत्युद्गमनबहुमानः प्रदेशो वासस्थानं भोग उपायनं परिहारः करमुक्तिः भक्तम् अश्वगजपदात्यभ्यवहारः वेतनं भृतिः इत्येषां लाभं, निबन्धपुस्तकस्थं कारयेत् । राज्ञः, पत्नीपुत्राणां च पत्नीनां पुत्राणां च, रत्नभूमिः लाभं तदुपयुज्यमानानां रत्नानां भूमीनां स्थानीयादीनां च लाभं, निबन्धपुस्तकस्थं कारयेत् । निर्देशौत्पादिकप्रतीकारलाभं निर्देशं राजतत्पत्नीपुत्राणां नित्यदेयातिरिक्तं देयं सामन्तव्यपदेशाख्यम् औत्पादिकलाभम् उत्सवादिभवं धनलाभं प्रतीकारलाभं व्याध्यादिप्रशमननिमित्तं धनलाभं च, निबन्धपुस्तकस्थं कारयेत् । औत्पत्तिकेति पाठे भूकम्पनिर्घाताद्युत्पातदोषशान्त्यर्थं धनलाभमित्यर्थो बोद्धव्यः। मित्रामित्राणां, सन्धिविक्रमप्रदानादानं च मित्रेषु सन्धाय प्रदीयमानं धनम् अमित्रेषु विक्रम्य विगृह्य आदीयमानं धनं च, निबन्धपुस्तकंस्थं कारयेत् ।
 
  **तत** इति । सर्वाधिकरणानां सर्वेषां कर्मस्थानानाम् अर्थात् तदध्यक्षाणां, करणीयं सिद्धं शेषम् आयव्ययौ नीवीं करणीयादिषट्कं पूर्वाध्यायो-
 
@@ -4412,7 +4412,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** त्रिशतं चतुःपञ्चाशच्चाहोरात्राणां कर्मसंवत्सरः। तमाषाढीपर्य-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**क्तलक्षणम्, उपस्थानं कायस्थानां स्वस्वकार्यदर्शनार्थसन्निधानकालं, प्रचारचरित्रसंस्थानं च प्रचारो जनपदःचरित्रमाचारः संस्थानं पूर्वस्थितिरित्येतत्रिकं च, निबन्धेन प्रयच्छेत् निबन्धपुस्तके विलिख्य दद्यात् । **उत्तमे**त्यादि । उत्तममध्यमावरेषु कर्मसु, तज्जातिकं तदनुरूपम्, अध्यक्षं कुर्यात् । तत्रोतमं कर्म धनसंग्रहणं भाण्डागाराधिकारश्च मध्यमं कोष्ठागारायुधागारादिगतं कर्म, अवरं सुरासूनाद्यध्यक्षकर्म ।तज्जातिकानां बहुत्वे व्यवस्थार्थमाह — **सामुदायिकेष्वि**ति । सामुदायिकेषु एककर्मसाधकसमुदायान्तर्गतेषु बहुषु कर्मकरेषु मध्ये, अवक्लृप्तिकम् अवक्लृप्तिर्नाम असावदः कर्माध्यक्षयितुं क्षम इति नैपुणगुणकीर्त्त्युपलम्भमूला सम्भावना सास्मिन्नस्तीत्यवक्लृप्तिकस्तं यथोक्तसम्भावनाविषयमित्यर्थः। अयमभिप्रायः — कर्मकरेषु नैपुणयुक्तं समनैपुणेषु गुणयुक्तं समगुणेषु च कीर्त्तियुक्तमध्यक्षं कुर्यादिति । अवक्लृप्तिकमपि किं सर्वमेवाध्यक्षं कुर्यात्, नेत्याह — **यमुपहत्यान राजानुतप्येते**ति । राजा, यम् उपहत्य अपराधवशाद् दण्डयित्वा, नानुतप्येत पश्चात्तप्तो न भवेत्, तं तथाविधमवक्लृप्तिकमध्यक्षं कुर्यादिति सम्बन्धः। एतेन ब्राह्मणात्मबन्धुमहा सम्बन्धिनां व्युदासः सिद्धः।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**क्तलक्षणम्, उपस्थानं कायस्थानां स्वस्वकार्यदर्शनार्थसन्निधानकालं, प्रचारचरित्रसंस्थानं च प्रचारो जनपदःचरित्रमाचारः संस्थानं पूर्वस्थितिरित्येतत्रिकं च, निबन्धेन प्रयच्छेत् निबन्धपुस्तके विलिख्य दद्यात् । **उत्तमे**त्यादि । उत्तममध्यमावरेषु कर्मसु, तज्जातिकं तदनुरूपम्, अध्यक्षं कुर्यात् । तत्रोतमं कर्म धनसंग्रहणं भाण्डागाराधिकारश्च मध्यमं कोष्ठागारायुधागारादिगतं कर्म, अवरं सुरासूनाद्यध्यक्षकर्म ।तज्जातिकानां बहुत्वे व्यवस्थार्थमाह — **सामुदायिकेष्वि**ति । सामुदायिकेषु एककर्मसाधकसमुदायान्तर्गतेषु बहुषु कर्मकरेषु मध्ये, अवक्लृप्तिकम् अवक्लृप्तिर्नाम असावदः कर्माध्यक्षयितुं क्षम इति नैपुणगुणकीर्त्त्युपलम्भमूला सम्भावना सास्मिन्नस्तीत्यवक्लृप्तिकस्तं यथोक्तसम्भावनाविषयमित्यर्थः। अयमभिप्रायः — कर्मकरेषु नैपुणयुक्तं समनैपुणेषु गुणयुक्तं समगुणेषु च कीर्त्तियुक्तमध्यक्षं कुर्यादिति । अवक्लृप्तिकमपि किं सर्वमेवाध्यक्षं कुर्यात्, नेत्याह — **यमुपहत्यान राजानुतप्येते**ति । राजा, यम् उपहत्य अपराधवशाद् दण्डयित्वा, नानुतप्येत पश्चात्तप्तो न भवेत्, तं तथाविधमवक्लृप्तिकमध्यक्षं कुर्यादिति सम्बन्धः। एतेन ब्राह्मणात्मबन्धुमहा सम्बन्धिनां व्युदासः सिद्धः।
 
  अपचरदध्यक्षविषयं सामान्यन्यायमाह —**सहग्राहिण** इति । अस्य कर्मच्छेदम् अनेनाध्यक्षेणादत्तं देयशेषं सहग्राहिणःसहहतीरः, प्रतिभुवो लग्नकाः, कर्मोपजीविनः कर्मकराः संख्यायकाः, पुत्राः, भ्रातरः, भार्याः, दुहितरः, भृत्याश्च इत्येतेऽष्टौ, वहेयुः प्रापयेयुः पूर्वपूर्वाभावे यथोत्तरं द्युरित्यर्थः।
 
@@ -4422,7 +4422,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तेषामानुपूर्व्या यावानर्थोपघातः तावानेकोत्तरो दण्ड इति**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)मासोपक्रमं कल्पयेत् । ऊनं पूर्णं वा दद्यात् तं चाध्यक्षस्यान्तरालकालापगमे तावत्पर्यन्तमपूर्णं गणयेत्, पूर्णकालस्थितिपक्षे तु पूर्णं गणयेत कर्मभृतिशोधनादावित्यर्थः। अघिमासकं करणाधिष्ठितं गणकाधिष्ठितं गणकद्वारेण गणितं, कुर्यात् । प्रचारं च जनपदं च, अपसर्पाधिष्ठितं चारावेक्षितं, कुर्यात् । अपसर्पाप्रणिधाने दोषमाह — **प्रचारे**त्यादि । प्रचारचरित्रसंस्थानानि देशवृत्तान्तान् तत्पूर्वस्थितीश्च, अनुपलभमानः अपसर्पद्वारेणाविजानन्, प्रकृतः अध्यक्षः, अज्ञानेन हेतुना, समुदयं धनोत्पत्तिं, परिहापयति परिहीयमानं प्रयोजयति । पुनः केन केन हेतुनेत्यतद् **उत्थाने**त्यादिनाभिधीयते । उत्थानक्लेशासहत्वादालस्येन उद्यमखेदासहनत्वनिमित्तयालसतया शब्दादिषु इन्द्रियार्थेषु प्रमादेन गीतकामिन्यादिषु विषयेष्वनवधानप्रवृत्त्या, संक्रोशाधर्मानर्थभीरुर्भयेन निन्दाधर्मलोपानर्थोपनिपातशङ्कित्वमूलेन साध्वसेन, कार्यार्थिषु अनुग्रहबुद्धिः कामेन कार्यार्थिनोऽनुग्रहीष्यामीत्येवंबुद्धिमूलया स्वेच्छया, हिंसाबुद्धिः कोपेन नृशंसत्वनिमित्तेन क्रोधेन, विद्याद्रव्यवल्लभापाश्रयाद् दर्पेण विद्याद्रव्यराजवल्लभव्यपाश्रयनिमित्तेन मदेन, तुलामानतर्कगणिकान्तरोपघानाल्लोभेन तुलान्तरेण उन्मानदण्डविशेषेण मानान्तरेण प्रस्थादिमानसाधनविशेषेण तर्कान्तरेण संभावनाविशेषेण गणिकान्तरेण गणनविशेषेण च यदुपधानं छलनं तत्प्रयोजन लोमेनेत्यर्थः। तदेवमज्ञानालस्यप्रमादभयकामकोपदर्पलोभात्मका अष्टौ दोषाः समुदयपरिहापनानिमित्तभूता वेदितव्याः।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>मासोपक्रमं कल्पयेत् । ऊनं पूर्णं वा दद्यात् तं चाध्यक्षस्यान्तरालकालापगमे तावत्पर्यन्तमपूर्णं गणयेत्, पूर्णकालस्थितिपक्षे तु पूर्णं गणयेत कर्मभृतिशोधनादावित्यर्थः। अघिमासकं करणाधिष्ठितं गणकाधिष्ठितं गणकद्वारेण गणितं, कुर्यात् । प्रचारं च जनपदं च, अपसर्पाधिष्ठितं चारावेक्षितं, कुर्यात् । अपसर्पाप्रणिधाने दोषमाह — **प्रचारे**त्यादि । प्रचारचरित्रसंस्थानानि देशवृत्तान्तान् तत्पूर्वस्थितीश्च, अनुपलभमानः अपसर्पद्वारेणाविजानन्, प्रकृतः अध्यक्षः, अज्ञानेन हेतुना, समुदयं धनोत्पत्तिं, परिहापयति परिहीयमानं प्रयोजयति । पुनः केन केन हेतुनेत्यतद् **उत्थाने**त्यादिनाभिधीयते । उत्थानक्लेशासहत्वादालस्येन उद्यमखेदासहनत्वनिमित्तयालसतया शब्दादिषु इन्द्रियार्थेषु प्रमादेन गीतकामिन्यादिषु विषयेष्वनवधानप्रवृत्त्या, संक्रोशाधर्मानर्थभीरुर्भयेन निन्दाधर्मलोपानर्थोपनिपातशङ्कित्वमूलेन साध्वसेन, कार्यार्थिषु अनुग्रहबुद्धिः कामेन कार्यार्थिनोऽनुग्रहीष्यामीत्येवंबुद्धिमूलया स्वेच्छया, हिंसाबुद्धिः कोपेन नृशंसत्वनिमित्तेन क्रोधेन, विद्याद्रव्यवल्लभापाश्रयाद् दर्पेण विद्याद्रव्यराजवल्लभव्यपाश्रयनिमित्तेन मदेन, तुलामानतर्कगणिकान्तरोपघानाल्लोभेन तुलान्तरेण उन्मानदण्डविशेषेण मानान्तरेण प्रस्थादिमानसाधनविशेषेण तर्कान्तरेण संभावनाविशेषेण गणिकान्तरेण गणनविशेषेण च यदुपधानं छलनं तत्प्रयोजन लोमेनेत्यर्थः। तदेवमज्ञानालस्यप्रमादभयकामकोपदर्पलोभात्मका अष्टौ दोषाः समुदयपरिहापनानिमित्तभूता वेदितव्याः।
 
  परिहापितसमुदयानां दण्डचिन्तायामाह — तेषामिति । तेषाम् उक्तदोषयुक्तानामष्टानाम्, आनुपूर्व्या क्रमेण, यावान् अर्थोपघातः तत्तद्दोषबशादुपहतोयत्परिमाणोऽर्थः, तावान् एकोत्तरः तत्परिमाण एकादिगुणाधिकोऽर्थः, दण्ड
 
@@ -4430,7 +4430,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** गाणनिक्यान्याषाढीमागच्छेयुः । आगतानां समुद्रपुस्तभाण्डनीवीकानामेकत्रासम्भाषावरोधं कारयेत् । आयव्ययनीवीनामग्राणि श्रुत्वा नीवीमवहारयेत् । यच्चाग्रादायस्यान्तरवर्णे नीव्या वर्धेत, व्ययस्य वा यत् परिहापयेत्, तदष्टगुणमध्यक्षं दापयेत् । विपर्यये तमेव प्रति स्यात् ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)इति, मानवाः मनुशिष्याः, वदन्तीति शेषः । सर्वेषु दोषेष्वविशेषादष्टगुण इति पाराशराः, दशगुण इति बार्हस्पत्याः, विंशतिगुण इति शुक्रशिष्याश्च मन्यन्त इत्याह — **सर्वत्रे**त्यादि । स्वमतमाह — **यथे**त्यादि । यथापराधम् अपराधानुसारेण अपराधमहत्त्वाल्पत्वादिपर्यालोचनया दण्डः कल्पनीय इत्यभिप्रायः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>इति, मानवाः मनुशिष्याः, वदन्तीति शेषः । सर्वेषु दोषेष्वविशेषादष्टगुण इति पाराशराः, दशगुण इति बार्हस्पत्याः, विंशतिगुण इति शुक्रशिष्याश्च मन्यन्त इत्याह — **सर्वत्रे**त्यादि । स्वमतमाह — **यथे**त्यादि । यथापराधम् अपराधानुसारेण अपराधमहत्त्वाल्पत्वादिपर्यालोचनया दण्डः कल्पनीय इत्यभिप्रायः ।
 
  अथाध्यक्षाणां वार्षिकगणितप्रदर्शनकाल उच्यते —**गाणनिक्यानीति** । गाणनिक्यानि गणनाः अर्थात् तत्प्रदर्शकाः अध्यक्षाः आषाढीम् आगच्छेयुः गणनप्रदर्शनार्थमाषाढमासि आगच्छेयुः । समुद्रपुस्तभाण्डनीवीकानां समुद्रं मुद्रायुक्तं पुस्तभाण्डं निबन्धपुस्तकपेटी नीवी व्ययितशिष्टधनं च येषां तथाविधानाम् आगतानाम् अध्यक्षाणाम् एकत्रासम्भाषावराधं
 पुस्तकदर्शनस्थलेऽन्योन्यमन्त्रणशून्यमवरुध्य रक्षणं कारयेत् । आयव्ययनीवीनाम्, अग्राणि इयत्ताः, श्रुत्वा मुखत आकर्ण्य, नीवीम्, अवहारयेत् उपनाययेत् । यच्चेति । नीव्याः, अन्तरवर्णे व्ययितावशेषस्यावहारितस्य प्रकारवर्णनपुस्तके, यद् धनम्, आयस्याग्राद् अध्यक्षोक्ताद्, वर्धेत अधिकतया विभाव्येत, व्ययस्य वा अग्राद् अध्यक्षोक्ताद्, यद् धनं, परिहापयेद् परिहीणं कुर्यात्, तद् अष्टगुणम्, अध्यक्षं दापयेद् अध्यक्षसकाशाद् गृह्णीयादित्यर्थः । **विपर्यय** इति । आयस्य यथाप्राप्तादधिकतया लेखनं व्ययस्य यथाकृतादूनतयालेखनं व्ययितावशेषस्य यथास्थितादाधिक्येन लेखनं वा विपर्ययः तस्मिन् पुस्तकदृष्टे सति, तमेव प्रति स्यात् अधिकमध्यक्षस्यैव भागः **अध्यक्षायैव** देयं नतु तस्य दण्डः **कश्चिदित्यर्थः** । ‘लक्षणेत्थम्भूते’त्यादिना भागे प्रतेः कर्मप्रवचनीयता ।
@@ -4441,7 +4441,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अकृताहोरूपहरं मासमाकाङ्क्षेत् । मासादूर्ध्वं मासद्विशतोत्तरंदण्डं दद्यात् । अल्पशेषनीवीकं पञ्चरात्रमाकाङ्क्षत ततः परम् ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 क्लृप्तकालेऽनागतानां पुस्तकनीवीविरहेणागतानां चाध्यक्षाणां देयदशगुणो दण्ड इत्याह — **यथाकालमि**त्यादि । **कार्मिक** इति । कार्मिकेअध्यक्षेउपस्थिते पुस्तदर्शनार्थं यथाकालं सन्निहिते सति, अप्रतिबध्नतः अप्रतियुज्यमानस्य असम्बध्नतः, कारणिकस्य गणनाधिकृतस्य, पूर्वः साहसदण्डः ।विपर्यये अप्रतियोगदोषे कार्मिकगते सतीत्यर्थः, कार्मिकस्य द्विगुणः पूर्वःसाहसदण्डः ।
 
 **प्रचारे**त्यादि । महामात्राः राज्ञः प्रधानभूताः कर्मसहायाः, समग्राः,आवेषणमात्राः अविषमाः परस्परानुकूलाः प्रवृत्तीःसंगता आयव्ययनीवीयत्ता वाप्रचारसमं श्रावयेयुः प्रचारो जनपदः तात्स्थ्याज्जानपदाः तत्साधारणं यथाभवति तथा श्रावयेयुः, जानपदान् सदसि मेलयित्वा बोधयेयुरित्यर्थः । एषांमहामात्राणां मध्ये, पृथग्भूतः विसंवादी, मिथ्यावादी च, उत्तमदण्डम् उत्तमसाहसदण्डं, दद्यात् ।
@@ -4453,7 +4453,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** दिवसपञ्चरात्रपक्षमासचातुर्मास्यसंवत्सरैश्च प्रतिसमानयेत् ।व्युष्टदेशकालमुखोत्पत्त्यनु॑वृत्तिप्रमाणदायक- दापकनिवन्धकप्रतिग्राहकैश्चायंसमानयेत् ।
 व्युष्टदेशकालमुखलाभकारणदेययोगपरिमाणाज्ञा-**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 **कोशे**त्यादि । कोशपूर्वम् अहोरूपहरम् अर्पणीयनीवीधनपुरस्सरं क्लृप्तदिवसपुस्तकोपनेतारम् अध्यक्षं, धर्मव्यवहारचरित्रसंस्थानसंकलननिर्वर्तनानुमानचारप्रयोगैः अवेक्षेत धर्मप्रयोगादिभिरष्टभिः प्रकारैः परीक्षेत — किमसौ वस्तुतएव सद्वृत्तः उत दाम्भिक इति । तत्र धर्मः स्मृतिविहितः, व्यवहारः पूर्वपक्षोत्तरपक्षलक्षणः, चरित्रं लोकाचारः, संस्थानं पूर्वस्थितिः, सङ्कलनं सर्वधनैकीकारगणना, निर्वर्तनं कार्यनिष्पत्तिः, अनुमानं कृतेनाकृताभ्यूहः, चारा गूढपुरुषाः ।
 
@@ -4467,7 +4467,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** नीवीमवलिखतो द्विगुणः, भक्षयतोऽष्टगुणः, नाशयतः पञ्चबन्धः प्रतिदानं च । मिथ्यावादे स्तेयदण्डः । पश्चात् प्रतिज्ञाते द्विगुणः प्रस्मृतोत्पन्ने च ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)मुखानि पूर्वोक्तानि, लाभः ‘पक्षमाससंवत्सरलाभो लाभ’ इति गताध्यायोक्तः कारणं निमित्तं, देयं दानीयद्रव्यं, योगो द्रव्यापद्रव्यामिश्रणं, परिमाणमियत्ता, आज्ञापकः चोदकः, उद्धारकः ऋणग्राही ऋणं वा, निधातृकः भाण्डागारिकः, प्रतिग्राहकः ब्राह्मणादिः । नीवीविधिमाह — **व्युष्टदेशकालमुखानुवर्तने**त्यादि । तत्र रूपं द्रव्यस्य स्वरूपं, लक्षणं तच्चिह्णं,परिमाणं तन्मानं, निक्षेपभाजनं द्रव्यनिधानभाण्डं, गोपायकस्तद्रक्षः, शेषं प्रतीतम् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>मुखानि पूर्वोक्तानि, लाभः ‘पक्षमाससंवत्सरलाभो लाभ’ इति गताध्यायोक्तः कारणं निमित्तं, देयं दानीयद्रव्यं, योगो द्रव्यापद्रव्यामिश्रणं, परिमाणमियत्ता, आज्ञापकः चोदकः, उद्धारकः ऋणग्राही ऋणं वा, निधातृकः भाण्डागारिकः, प्रतिग्राहकः ब्राह्मणादिः । नीवीविधिमाह — **व्युष्टदेशकालमुखानुवर्तने**त्यादि । तत्र रूपं द्रव्यस्य स्वरूपं, लक्षणं तच्चिह्णं,परिमाणं तन्मानं, निक्षेपभाजनं द्रव्यनिधानभाण्डं, गोपायकस्तद्रक्षः, शेषं प्रतीतम् ।
 
 ** **अथ यथासम्भवं सामान्यदण्डमाह—**राजार्थ** इति । राज्ञो धनहिरण्यादिलाभरूपे प्रयोजने, अप्रतिबघ्नतः असम्बध्नतः राजार्थं पुस्तकेष्वलिखत इत्यर्थः, आज्ञां, प्रतिषेधयतो वा अननुतिष्ठतश्च, आयव्ययं, निबन्धात् क्लृप्तनियमाद्, अन्यथा प्रकारान्तरेण, कल्पयतोऽपि वा, कारणिकस्य पूर्वः साहसदण्डः ।
 
@@ -4486,7 +4486,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 विज्ञाते विषये, प्रस्मृतोत्पन्ने च पूर्वं विस्मृत्य पश्चाच्चिन्तिते च विषये, द्विगुणःस्तेयदण्डाद्विगुणः, दण्डः ।
 
@@ -4508,7 +4508,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सिद्धीनामसाधनमत्तवतारणमप्रवेशनं वा प्रतिबन्धः । तत्र दशबन्धो दण्डः ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
  **समुदयस्य युक्तापहृतस्य प्रत्यानयनमि**ति सूत्रम् । समुदयो नाम द्रव्योत्पत्तिस्थानेभ्य उत्थितं धनं, युक्ता अध्यक्षाः, युक्तापहृतस्य समुदयस्य प्रत्यानयनं पुनः प्रापणमिहाभिधीयत इति सूत्रार्थः ।
 
@@ -4530,7 +4530,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** राजद्रव्याणामन्यद्रव्येणादानं परिवर्तनं तद् उपभोगेन व्याख्यातम् ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 ** कोशे**त्यादि । कोशद्रव्याणां कोशप्रवेश्यद्रव्याणां, वृद्धिप्रयोगः वृद्ध्यर्थंप्रयोगः स्वयं वृद्धिमुपजीव्य पश्चाद् मूलं कोशेऽर्पयिष्यामीति स प्रयोगः ।पण्यव्यवहारः कोशद्रव्यैर्वाणिज्यकरणं व्यवहारः । तत्र प्रयोगव्यवहारयोःदण्डः फलद्विगुणः ।
 
@@ -4547,7 +4547,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तेषां हरणोपायाश्चत्वारिंशत् — पूर्वं सिद्धं पश्चादवतारितं, पश्चात्सिद्धं पूर्वमवतारितं, साध्यं न सिद्धम्, असाध्यं सिद्धं, सिद्धमसिद्धंकृतम्, असिद्धं सिद्धं कृतम्, अल्पसिद्धं बहुकृतं, बहुसिद्धमल्पं कृतम्,अन्यत् सिद्धमन्यत् कृतम्, अन्यतः सिद्धमन्यतः कृतं, देयं न दत्तमदेयं**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
  त्रिप्रकारमपहारमाह — **सिद्धमि**ति । सिद्धम् उत्पन्नम्, आयं, न प्रवेशयति लेख्ये नारोपयति इत्येकोऽपहारः । निबद्धं पुस्तकारोपितं व्ययं राजाज्ञप्तं पारितोषिकादिलक्षणं, न प्रयच्छति राजनिर्दिष्टाय पात्राय न ददाति,इति द्वितीयोऽपहारः । प्राप्तां हस्तगतां, नीवीं, विप्रतिजानीते नाद्यापि हस्तप्राप्तेत्यपलपति, इति तृतीयोऽपहारः । तत्र अपहारे, दण्डो द्वादशगुणः ।
 
@@ -4556,15 +4556,15 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **दतं, काले न दत्तमकाले दत्तम्, अल्पं दत्तं बहु कृतं, बहु दत्तमल्पंकृतम्, अन्यद् दत्तमन्यत् कृतम्, अन्यतो दत्तमन्यतः कृतं, प्रविष्टमप्रविष्टं कृतम्, अप्रविष्टं प्रविष्टं कृतं, कुप्यमदत्तमूल्यं प्रविष्टं, दत्तमूल्यं नप्रविष्टं, सङ्क्षेपो विक्षेपः कृतः, विक्षेपः सङ्क्षेपो वा, महार्घमल्पार्घेण्परिवर्तितम्, अल्पार्घंमहार्घेण वा, समारोपितोऽर्घः, प्रत्यवरोपितो वा,**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)**न दत्तम् अदेयं दत्तमि**ति, देयं स्वर्णरजतादिकं कस्मैचिद् दातव्यतयाराज्ञाज्ञापितं तस्मै न दत्तं, किन्तु अदेयं फल्गुकुप्यादिकं कालान्तरे कथञ्चिद्दत्तम् । **काले न दत्तमकाले दत्तमि**ति, यज्ञाद्यर्थं कस्मैचिद् दीयतामितिराज्ञाज्ञप्तं यज्ञादिकाले वर्तमाने न दत्तं किन्त्वतिक्रान्ते कथञ्चिद् दत्तं लञ्चग्रहणपीडापुरस्सरम् । **अल्पं दत्तं बहुकृतामि**ति, शतं दीयतामिति राजाज्ञायां तत् पञ्चाशतात्मसात्कारार्थया साग्रंपुस्तके विलिखितम् । **बहुदत्तमल्पं कृतमि**ति, शतं देवदत्ताय दीयतामिति राजादेशे विंशतिंस्वयं गृहीत्वाशीतिमात्रं तस्मैदत्तम् । **अन्यद् दत्तमन्यत् कृतमि**ति, राज्ञादिष्टाः शालयः कोद्रवास्तु दत्ताः । **अन्यतो दत्तमन्यतः कृतमि**ति, देवदत्तायादिष्टंयज्ञदत्ताय दत्तम् । **प्रविष्टमप्रविष्टं कृतमि**ति, कोशीनेवश्यमुपहास्तितमेवद्रव्यमनुपहस्तितमिति वा किञ्चिदेवोपहस्तितमिति वोक्त्वापहृतम्, अथवाकार्यविशेषार्थे ‘प्रजाभ्यो धनमुत्थाप्यानीयतामि’त्यादिष्टे तदुत्थाप्य नाद्याप्युत्थितमित्युक्त्वा कालहरणेनोपजीवितम् । **अप्रविष्टं प्रविष्टं कृतमि**ति, अगृहीत एव करदेभ्यः करो लञ्चं गृहीत्वा प्रविष्ट इति लिखितः । **कुप्यमदत्तमूल्यं प्रविष्टमि**ति, कुप्यं वस्त्रादिकं राजादेशाद् ऋणेन गृहीतं कथञ्चित्कालान्तरे दत्तमूल्यैकदेशं कृत्वा दत्तसमग्रमूल्यमिति पुस्तके लिखितम् । **दत्तमूल्यं न प्रविष्टमि**ति, महामूल्यदानेन क्रीतं कुप्यं तावन्मूल्यक्रीतत्वेनपुस्तकेऽनिबद्धम् अर्थादल्पमूल्यक्रीतत्वेन निबद्धमित्ययं विंशोऽपहारोपायः ।**संक्षेपो विक्षेपः कृत** इति, संक्षेपःजनसमूहदेयः पिण्डकरः विक्षेपः कृतःविप्रकीर्णकरः कृतः समूहिभ्यः प्रत्येकं विभज्य ग्राह्यः कृत इत्यर्थः, तथाकरणेहि राजद्रव्यमुपजीवितुं शक्यं ग्राम्यजनाश्चेति । **विक्षेपः संक्षेपो वेति**,जनादेकस्माद् बहुभिर्मासैरल्पशो ग्राह्यो विप्रकीर्णकरःएकस्मिन्नेव समये संपिण्ड्य ग्राह्यः कृतः, एवं हि कुर्वताध्यक्षेण राजद्रव्यमुपजीवितुं लभ्यते जनाश्चेति ।**महाघर्मल्पार्घेण परिवर्तितमि**ति, महार्घंयुग्यवाहनादि अल्पार्घेण युग्यादिनाविनिमितं विनिमायापहृतम् । **अल्पार्घंमहार्घेण** वेति, अल्पमूल्यम् अत एव
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**न दत्तम् अदेयं दत्तमि**ति, देयं स्वर्णरजतादिकं कस्मैचिद् दातव्यतयाराज्ञाज्ञापितं तस्मै न दत्तं, किन्तु अदेयं फल्गुकुप्यादिकं कालान्तरे कथञ्चिद्दत्तम् । **काले न दत्तमकाले दत्तमि**ति, यज्ञाद्यर्थं कस्मैचिद् दीयतामितिराज्ञाज्ञप्तं यज्ञादिकाले वर्तमाने न दत्तं किन्त्वतिक्रान्ते कथञ्चिद् दत्तं लञ्चग्रहणपीडापुरस्सरम् । **अल्पं दत्तं बहुकृतामि**ति, शतं दीयतामिति राजाज्ञायां तत् पञ्चाशतात्मसात्कारार्थया साग्रंपुस्तके विलिखितम् । **बहुदत्तमल्पं कृतमि**ति, शतं देवदत्ताय दीयतामिति राजादेशे विंशतिंस्वयं गृहीत्वाशीतिमात्रं तस्मैदत्तम् । **अन्यद् दत्तमन्यत् कृतमि**ति, राज्ञादिष्टाः शालयः कोद्रवास्तु दत्ताः । **अन्यतो दत्तमन्यतः कृतमि**ति, देवदत्तायादिष्टंयज्ञदत्ताय दत्तम् । **प्रविष्टमप्रविष्टं कृतमि**ति, कोशीनेवश्यमुपहास्तितमेवद्रव्यमनुपहस्तितमिति वा किञ्चिदेवोपहस्तितमिति वोक्त्वापहृतम्, अथवाकार्यविशेषार्थे ‘प्रजाभ्यो धनमुत्थाप्यानीयतामि’त्यादिष्टे तदुत्थाप्य नाद्याप्युत्थितमित्युक्त्वा कालहरणेनोपजीवितम् । **अप्रविष्टं प्रविष्टं कृतमि**ति, अगृहीत एव करदेभ्यः करो लञ्चं गृहीत्वा प्रविष्ट इति लिखितः । **कुप्यमदत्तमूल्यं प्रविष्टमि**ति, कुप्यं वस्त्रादिकं राजादेशाद् ऋणेन गृहीतं कथञ्चित्कालान्तरे दत्तमूल्यैकदेशं कृत्वा दत्तसमग्रमूल्यमिति पुस्तके लिखितम् । **दत्तमूल्यं न प्रविष्टमि**ति, महामूल्यदानेन क्रीतं कुप्यं तावन्मूल्यक्रीतत्वेनपुस्तकेऽनिबद्धम् अर्थादल्पमूल्यक्रीतत्वेन निबद्धमित्ययं विंशोऽपहारोपायः ।**संक्षेपो विक्षेपः कृत** इति, संक्षेपःजनसमूहदेयः पिण्डकरः विक्षेपः कृतःविप्रकीर्णकरः कृतः समूहिभ्यः प्रत्येकं विभज्य ग्राह्यः कृत इत्यर्थः, तथाकरणेहि राजद्रव्यमुपजीवितुं शक्यं ग्राम्यजनाश्चेति । **विक्षेपः संक्षेपो वेति**,जनादेकस्माद् बहुभिर्मासैरल्पशो ग्राह्यो विप्रकीर्णकरःएकस्मिन्नेव समये संपिण्ड्य ग्राह्यः कृतः, एवं हि कुर्वताध्यक्षेण राजद्रव्यमुपजीवितुं लभ्यते जनाश्चेति ।**महाघर्मल्पार्घेण परिवर्तितमि**ति, महार्घंयुग्यवाहनादि अल्पार्घेण युग्यादिनाविनिमितं विनिमायापहृतम् । **अल्पार्घंमहार्घेण** वेति, अल्पमूल्यम् अत एव
 
 **रात्रयः समारोपिताः, प्रत्यवरोपिता वा, संवत्सरो मासविषमः कृतः,मासो दिवसविषमो वा, समागमविषमः, मुखविषमः, धार्मिकविषमः,निर्वर्तनविषमः, पिण्डविषमः, वर्णविषमः, अर्घविषमः, मानविषमः,मापनविषमः, भाजनविषम इति हरणोपायाः ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)महाविक्रयविषयभूतं सामुद्रलवणादि पण्यं महामूल्येन अत एव अल्पविक्रयविषयेण सैन्धवलवणदिना परिवर्तितं विनिमितं, तद्धि शीघ्रविक्रयेण लाभमुत्पादयत् पण्याध्यक्षस्योपजीव्यं भवतीति । **समारोपितोऽर्घ** इति, अर्घस्ययथास्थितादर्घादतिरेचनमित्यर्थः । तथा हि करणे क्रेतारः स्वोपकारकामा भवन्तः पण्याध्यक्षस्यार्घनियामकस्योपजीव्या भवन्तीति । **प्रत्यवरोपितो वेति**, अर्घइति सम्बध्यते, अर्घप्रत्यवरोपणे हि कृते विक्रेतारः यथास्थितार्घकामा भवन्तःपण्याध्यक्षस्योपजीव्या भवन्तीति । **रात्रयः समारोपिता** इति, पञ्चरात्रवेतनंकर्मकरेभ्यो दत्त्वा सप्तरात्रवेतनं दत्तमित्येवञ्जातीयो रात्रिसमारोपः, अनेन ह्युपायेन कर्मकरेभ्यो धनमपाह्रियते । **प्रत्यवरोपिता वे**ति, रात्रय इति वर्तते, स्वाभिसकाशाद् दशरात्रव्ययं गृहीत्वाष्टरात्रव्ययो गृहीत इत्येवञ्जातीयं रात्रिप्रत्यवरोपणम्, अनेन ह्युपायेन स्वामिद्रव्यमुपजीव्यते । **संवत्सरो मासविषमः कृत**इति, अधिमासरहित एव संवत्सरःसाधिमासः कृत इत्यर्थः अनेनोपायेनाधिमासलाभोऽपह्रियते । **मासो दिवसविषमो वे**ति, अनूनदिवसो मासो दिवसोनः कृतः । **समागमविषम** इति, समागमे विषये विषमो व्यापार इत्यर्थः,तद्यथा समागतानां दृष्टानां कर्मकराणां भक्तवेतनदाने परोक्षं कमपि द्रष्टव्यमपदिश्यस्वयं तद्भक्तवेतनं गृह्णाति । **मुखविषम** इति, कुतश्चिदायमुखादुत्पन्नंद्रव्यमन्यस्मादायमुखादुत्पन्नमिति ख्यापितं तदधिकृतादुत्कोचं गृहीत्वा ।**धार्मिकविषम** इति, ‘ब्राह्मणेभ्यःप्रत्येकं पणशतं दीयतामि’ति राजादेशे पुरोहितेन पुरोहितपुरुषेण वा तदर्धापहरणम् । **निर्वर्तनविषम** इति, किञ्चित्कर्मनिर्वर्तनप्रवृत्तौ विषमाचरणमित्यर्थः, तद्यथा करदेभ्यः करोद्ग्राहकर्मनिर्वर्तनप्रसङ्गे करदान् ‘युष्माभिरद्यैव करो निर्यातयितव्य’ इत्यवरुध्य लञ्चग्रहणेन कञ्चिन्मुञ्चतीति । **पिण्डविषम** इति, पिण्डे समूहे विषमाचरणं,यथा— समूहदेये विषये समूहिनमेकं लञ्चग्रहणादिना वर्जयित्वा समूहिभ्यइतरेभ्यो देयग्रहणम् । **वर्णविषम** इति, ब्राह्मणा एवाद्योत्तीर्णाः नान्ये इत्युक्त्वा
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>महाविक्रयविषयभूतं सामुद्रलवणादि पण्यं महामूल्येन अत एव अल्पविक्रयविषयेण सैन्धवलवणदिना परिवर्तितं विनिमितं, तद्धि शीघ्रविक्रयेण लाभमुत्पादयत् पण्याध्यक्षस्योपजीव्यं भवतीति । **समारोपितोऽर्घ** इति, अर्घस्ययथास्थितादर्घादतिरेचनमित्यर्थः । तथा हि करणे क्रेतारः स्वोपकारकामा भवन्तः पण्याध्यक्षस्यार्घनियामकस्योपजीव्या भवन्तीति । **प्रत्यवरोपितो वेति**, अर्घइति सम्बध्यते, अर्घप्रत्यवरोपणे हि कृते विक्रेतारः यथास्थितार्घकामा भवन्तःपण्याध्यक्षस्योपजीव्या भवन्तीति । **रात्रयः समारोपिता** इति, पञ्चरात्रवेतनंकर्मकरेभ्यो दत्त्वा सप्तरात्रवेतनं दत्तमित्येवञ्जातीयो रात्रिसमारोपः, अनेन ह्युपायेन कर्मकरेभ्यो धनमपाह्रियते । **प्रत्यवरोपिता वे**ति, रात्रय इति वर्तते, स्वाभिसकाशाद् दशरात्रव्ययं गृहीत्वाष्टरात्रव्ययो गृहीत इत्येवञ्जातीयं रात्रिप्रत्यवरोपणम्, अनेन ह्युपायेन स्वामिद्रव्यमुपजीव्यते । **संवत्सरो मासविषमः कृत**इति, अधिमासरहित एव संवत्सरःसाधिमासः कृत इत्यर्थः अनेनोपायेनाधिमासलाभोऽपह्रियते । **मासो दिवसविषमो वे**ति, अनूनदिवसो मासो दिवसोनः कृतः । **समागमविषम** इति, समागमे विषये विषमो व्यापार इत्यर्थः,तद्यथा समागतानां दृष्टानां कर्मकराणां भक्तवेतनदाने परोक्षं कमपि द्रष्टव्यमपदिश्यस्वयं तद्भक्तवेतनं गृह्णाति । **मुखविषम** इति, कुतश्चिदायमुखादुत्पन्नंद्रव्यमन्यस्मादायमुखादुत्पन्नमिति ख्यापितं तदधिकृतादुत्कोचं गृहीत्वा ।**धार्मिकविषम** इति, ‘ब्राह्मणेभ्यःप्रत्येकं पणशतं दीयतामि’ति राजादेशे पुरोहितेन पुरोहितपुरुषेण वा तदर्धापहरणम् । **निर्वर्तनविषम** इति, किञ्चित्कर्मनिर्वर्तनप्रवृत्तौ विषमाचरणमित्यर्थः, तद्यथा करदेभ्यः करोद्ग्राहकर्मनिर्वर्तनप्रसङ्गे करदान् ‘युष्माभिरद्यैव करो निर्यातयितव्य’ इत्यवरुध्य लञ्चग्रहणेन कञ्चिन्मुञ्चतीति । **पिण्डविषम** इति, पिण्डे समूहे विषमाचरणं,यथा— समूहदेये विषये समूहिनमेकं लञ्चग्रहणादिना वर्जयित्वा समूहिभ्यइतरेभ्यो देयग्रहणम् । **वर्णविषम** इति, ब्राह्मणा एवाद्योत्तीर्णाः नान्ये इत्युक्त्वा
 
 **तत्रोपयुक्तनिधायकनिबन्धकप्रतिग्राहकदायकदापकमन्त्रिमन्त्रिवैयावृत्त्यकरानेकैकशोऽनुयुञ्जीत । मिथ्यावादे चैषां युक्तसमो दण्डः। प्रचारे चावघोषयेत् — अमुना प्रकृतेनोपहताः प्रज्ञापयन्त्विति । प्रज्ञापयतो यथोपघातं दापयेत् । अनेकेषु चाभियोगेप्वपव्ययमानः सकृदेव परोक्तः सर्वं भजेत । वैषम्ये सर्वत्रानुयोगं दद्यात् । महत्यर्थापहारे चाल्पेनापि सिद्धः सर्वे भजेत ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)तद्दिवसवेतनस्यात्मसात्करणं नावध्यक्षेण कृतम्, अथवा स्वर्णेऽष्टवर्णके ग्राह्ये नववर्णकं स्वर्णदायकाद् गृहीत्वाष्टवर्णकस्यैव राज्ञेऽर्पणं सुवर्णाध्यक्षेण कृतम् । **अर्घविषम** इति, सेनानिवेशादावर्घस्याव्यवस्थितत्वात् तं किञ्चिदधिकमपदिश्य राजार्थोपजीवनम् । **मानविषम** इति परिमाणोन्मानसाधनवैषम्यमित्यर्थः, तच्च हीनैस्तैर्देयं दत्त्वा महद्भिर्दत्तमिति ख्यापनम्, अथवा देयस्य हीनैर्दानं महद्भिः स्वीकरणम् । **मापनविषम** इति, मापनकृतं वैषम्यं मातृहस्तविशेषोत्पादितं वस्त्रादिमानविषयं वैषम्यम् । **भाजनविषम** इति, ‘आज्यपूर्णं घटशतं दीयतामि’त्युक्ते अल्पानां घटानां शतं दत्त्वा महतां घटानां शतं दत्तमिति लेखनं तेन राजद्रव्यमपह्रियत इत्ययं चत्वारिंशत्तमो द्रव्यापहरणोपायः। इतिशब्दः परिसमाप्तिवचनः, हरणोपायाः समाप्ताः, किञ्चिद्भेदेन संभवन्तोऽप्यन्ये यथोक्तेष्वेवान्तर्भवन्तीत्यभिप्रायः।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>तद्दिवसवेतनस्यात्मसात्करणं नावध्यक्षेण कृतम्, अथवा स्वर्णेऽष्टवर्णके ग्राह्ये नववर्णकं स्वर्णदायकाद् गृहीत्वाष्टवर्णकस्यैव राज्ञेऽर्पणं सुवर्णाध्यक्षेण कृतम् । **अर्घविषम** इति, सेनानिवेशादावर्घस्याव्यवस्थितत्वात् तं किञ्चिदधिकमपदिश्य राजार्थोपजीवनम् । **मानविषम** इति परिमाणोन्मानसाधनवैषम्यमित्यर्थः, तच्च हीनैस्तैर्देयं दत्त्वा महद्भिर्दत्तमिति ख्यापनम्, अथवा देयस्य हीनैर्दानं महद्भिः स्वीकरणम् । **मापनविषम** इति, मापनकृतं वैषम्यं मातृहस्तविशेषोत्पादितं वस्त्रादिमानविषयं वैषम्यम् । **भाजनविषम** इति, ‘आज्यपूर्णं घटशतं दीयतामि’त्युक्ते अल्पानां घटानां शतं दत्त्वा महतां घटानां शतं दत्तमिति लेखनं तेन राजद्रव्यमपह्रियत इत्ययं चत्वारिंशत्तमो द्रव्यापहरणोपायः। इतिशब्दः परिसमाप्तिवचनः, हरणोपायाः समाप्ताः, किञ्चिद्भेदेन संभवन्तोऽप्यन्ये यथोक्तेष्वेवान्तर्भवन्तीत्यभिप्रायः।
 
  **तत्रेति ।** तत्र हरणोपायेषु शङ्क्यमानेष्विति शेषः, उपयुक्तादीन् अष्टौ एकैकशः प्रत्येकम्, अनुयुञ्जीत पृच्छेद्—‘इदमनेनाध्यक्षेणापहृतं नवे’ति । तत्रोपयुक्तो युक्तानामुपरि नियुक्तः प्रत्ययितपुरुषः, निधायकः भाण्डागारिकः,निबन्धको लेखकः, प्रतिग्राहकः प्रतिग्रहीता, दायकः करदः, दापकः राजपुरुषः, मन्त्री युक्तस्य धीसचिवः, मन्त्रिवैयावृत्त्यकरः मन्त्रिणः कर्मकरः। **मिथ्ये**त्यादि । मिथ्यावादे च, एषाम् उपयुक्तादीनां, युक्तसमः अध्यक्षतुल्यो, दण्डः। प्रचारे च जनपदे च, अवघोषयेत् सपटहताडमवख्यापयेत् केन प्रकारेण अमुना प्रकृतेन अध्यक्षेण, उपहताः उत्कोचग्रहणादिना पीडिता जनाः, प्रज्ञापयन्तु आवेदयन्तु स्वां स्वां पीडामित्यार्थम् ; इति अनेन प्रकारेण । प्रज्ञापपयतः जनस्य, यथोपघातम् उपघातानुरोधेन, दापयेद् द्रव्यम् । अनेकेष्विति । अनेकेष्वभियोगेषु उपघातावेदनेष्वनेककृतेषु युगपत् प्राप्तेषु सत्सु, अपव्ययमानः सर्वमुपघातमात्मकृतमनभ्युपगच्छन् युक्तः, सकृदेव परोक्तः
 
@@ -4579,14 +4579,14 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)एकत्राभियोगे एकेनाभियोक्ता साक्ष्यादिभिर्विभावितः पराजितः, सर्वं भजत सर्वाभियोगार्थं यथाभागं दद्यात् । **वैषम्य** इति । अनेकेष्वभियोगेष्वेकत्र संप्रतिपत्तिरितरत्र विप्रतिपत्तिश्च वैषम्यं तस्मिन्, सर्वत्रानुयोगं दद्याद् विप्रतिपन्नेषु सर्वेष्वभियोगेषु साक्षिप्रश्नावसरं दद्याद् रागद्वेषादिनिमित्तमिथ्याभियोगशङ्कापनुत्तये । एकाभियोक्तृविषयमाह — **महती**ति **।** महति अर्थापहारे, प्रभूतस्वर्णरजतादिनानार्थापहारे केनचित् प्रज्ञापिते, अल्पेनापि सिद्धः एकदेशेनापि साक्ष्यादिभिर्विभावितापचारः, सर्वं भजेत अभियोगविषयं कृत्स्त्रमर्थं
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>एकत्राभियोगे एकेनाभियोक्ता साक्ष्यादिभिर्विभावितः पराजितः, सर्वं भजत सर्वाभियोगार्थं यथाभागं दद्यात् । **वैषम्य** इति । अनेकेष्वभियोगेष्वेकत्र संप्रतिपत्तिरितरत्र विप्रतिपत्तिश्च वैषम्यं तस्मिन्, सर्वत्रानुयोगं दद्याद् विप्रतिपन्नेषु सर्वेष्वभियोगेषु साक्षिप्रश्नावसरं दद्याद् रागद्वेषादिनिमित्तमिथ्याभियोगशङ्कापनुत्तये । एकाभियोक्तृविषयमाह — **महती**ति **।** महति अर्थापहारे, प्रभूतस्वर्णरजतादिनानार्थापहारे केनचित् प्रज्ञापिते, अल्पेनापि सिद्धः एकदेशेनापि साक्ष्यादिभिर्विभावितापचारः, सर्वं भजेत अभियोगविषयं कृत्स्त्रमर्थं
 दद्याद् अर्थाद् विप्रतिपद्यमानो युक्तः।
 
  **कृतप्रतिघातेत्या**दि **।** सूचकः अध्यक्षापचारपिशुनः कृतप्रतिघातावस्थः कृतः स्वीकृतः प्रतिघातावस्थः प्रतिघातार्थोऽवस्थः अध्यक्षोत्पाद्यानर्थप्रतीकाराः प्रतिभूर्येन स तथाभूतः भवेदिति शेषः, यद्यध्यक्षापचारं कश्चित् सूचयेत् स प्रतिघातप्रातिभाव्यं गृहीत्वैव सूचयेदित्यर्थः। स निष्पन्नार्थः सिद्धसूचितार्थः, षष्ठमंशं लभेत, साधिताद् धनात् । **द्वादशमि**ति । भृतकः भृत्यः सूचकः, द्वादशमंशं लभेत । **प्रभूतेत्या**दि । बहुप्रकारद्रव्यविषयेऽभियोगे प्रभूताभियोगाद् अभियोगविषयबहुप्रकारद्रव्यमध्याद्, अल्पनिष्पत्तौ अल्पस्यैव साक्ष्यादिभिः संसिद्धौ, निष्पन्नस्यांशं लभेत सूचकः। अनिष्पन्न इति । अनिष्पन्ने अभियुक्तेऽर्थे सर्वथैवासंसिद्धे सति, शारीरं हैरण्यं वा दण्डं मिथ्याभियोगनिमित्तं दमं, लभेत, न चानुग्राह्यः न च रक्षणीयः, निर्दोषविसृष्टाध्यक्षप्रभवेभ्योऽनर्थेभ्य इत्यार्थम् ।
 
  **निष्पत्तावि**ति **।** निष्पत्तौ सूचितार्थसत्यत्वसिद्धौ, वादम् अभियोगं, निक्षिपेद् विरमयेत् सूचकः, आत्मानं वा अपवाहयेत् आत्मानं चाभियोग-
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 
 बन्धान्मोचयेत्, अनिष्पत्तौ वादपरिसमापनमात्ममोचनं वा सूचकेन कर्तुमशक्यमित्यभिप्रायः। भट्टस्वामी तु ‘निष्पत्तौ सूचितार्थसंसिद्धौ, निक्षिपेद् अन्यत्र दूष्यादौ सञ्चारयेद्, वादं सूचकत्वापवादम् । आत्मानं वापवाहयेद् अहमेतस्मिन् काले विषयेऽत्र नासमिति प्रख्यापयेद्’इति व्याचष्टे । यदि तु अभियुक्तेनाध्यक्षेण लञ्चोपप्रलोभनाद्युपायैर्भेदं नीतः सूचकः स्वाभियुक्तार्थासाधकं राजान्तिके ब्रूयात् , तदा स वधदण्डमर्हतीत्याह — **अभियुक्तेत्यादि ।**
 
@@ -4601,7 +4601,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तस्मात् कर्तारं करणं देशं कालं कार्यं प्रक्षेपमुदयं चैषु विद्यात्ते यथासन्देशमसंहता अविगृहीताः कर्माणि कुर्युः, संहता भक्षयेयुः**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 **उपयुक्तपरीक्षे**ति सूत्रम् । उपयुक्ता युक्तानामुपरि नियुक्ताः प्रत्ययितपुरुषाः, औपरिका इति ये व्यपदिश्यन्ते, तेषां परीक्षा दोषगवेषणेति सूत्रार्थः। युक्तापहृतप्रत्यानयनोक्त्या गताध्याये युक्तानां परीक्षणीयत्वमवगतं, तत् किमुपयुक्तानामप्यस्ति, उत नेति सन्देहे प्रकरणमिदमारब्धमिति सङ्गतिः।
 
  **अमात्येत्यादि** **।** अमात्यसम्पदोपेताः ‘जानपदोऽभिजात’ इत्युक्तजानपदत्वादिगुणसमृद्धियुक्ताः। एतेनार्थोपधाशुद्धियोगमात्रेण नालमिति सूचितम् । सर्वाध्यक्षाः सर्वे अध्यक्षा उपयुक्ता युक्ताश्च, शक्तितः तत्तत्कर्मसामर्थ्यानुसारेण, कर्मसु नियोज्याः। एषां कर्मसु च, परीक्षां दोषगवेषणां नित्यं कारयेत् । अर्थोपधाशुद्धानामेव कर्मसु नियोक्तव्यत्वस्य प्रागभिधानान्नियोगानन्तरं पुनः परीक्षायाः किं कारणं, तत्राह — **मनुष्याणां चित्तानित्यत्वादिति ।**मनुष्यचित्तं स्वभावादव्यवस्थितं यतः। स्वाभाविकचित्तानित्यत्वमुक्त्वावस्थाविशेषभवमाह — **अश्वेत्या**दि । यथाहि अश्वा रथवहनकर्मानियोगदशायां साधुशीला एव सन्तस्तन्नियोगदशायां विकारं प्राप्नुवन्ति, एवं कर्मसु अनियोगदशायां सुशीला एव परिदृष्टाः नियोगदशायां शीलवैकृतं प्राप्नुवन्तीत्यर्थः।
@@ -4614,7 +4614,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अल्पायतिश्चेन्महाव्ययो भक्षयति । विपर्यये यथायतिव्ययश्च न भक्षयति इत्याचार्याः। अपसर्पेणैवोपलभ्यते इति कौटल्यः।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)स्वामिनमपृष्ट्वा न कमपि कर्मविशेषमग्निजलादिनिमित्तविपत्प्रतीकारातिरेकेण कुर्युरित्याह — **न** **चानिवेद्येत्या**दि । **प्रमादेत्या**दि । एषाम् अध्यक्षाणां प्रमादस्थानेषु स्त्रीमद्यादिव्यसनेषु दृष्टेषु, अत्ययं दण्डं, स्थापयेत सद्य एवं प्रयुञ्जीत । कियन्तं स्थापयेत्, दिवसवेतनव्ययद्विगुणं दिवसवेतनस्य प्रमाददिवससम्बन्धिनोऽध्यक्षवेतनस्य दिवसव्ययस्य प्रमादनिमित्तकतद्दिवसकर्मादर्शनजन्यस्यार्थनाशस्य च द्विगुणम् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>स्वामिनमपृष्ट्वा न कमपि कर्मविशेषमग्निजलादिनिमित्तविपत्प्रतीकारातिरेकेण कुर्युरित्याह — **न** **चानिवेद्येत्या**दि । **प्रमादेत्या**दि । एषाम् अध्यक्षाणां प्रमादस्थानेषु स्त्रीमद्यादिव्यसनेषु दृष्टेषु, अत्ययं दण्डं, स्थापयेत सद्य एवं प्रयुञ्जीत । कियन्तं स्थापयेत्, दिवसवेतनव्ययद्विगुणं दिवसवेतनस्य प्रमाददिवससम्बन्धिनोऽध्यक्षवेतनस्य दिवसव्ययस्य प्रमादनिमित्तकतद्दिवसकर्मादर्शनजन्यस्यार्थनाशस्य च द्विगुणम् ।
 
 ** यश्चैषामिति ।** एषाम् अध्यक्षाणां मध्ये, यः, अर्थं राजकार्यं, यथादिष्टं करोति स्वाम्युपदिष्टप्रकारकं निष्पादयति, सविशेषं वा करोति आदिष्टाभ्यधिकगुणयुक्तं वा निष्पादयति, सः, स्थानमानौ लभेत प्रकृष्टं पदान्तरं पूजां च प्राप्नुयात्।
 
@@ -4626,7 +4626,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** यः समुदयं व्ययमुपनयति स पुरुषकर्माणि भक्षयति । स कर्मदिवसद्रव्यमूल्यपुरुषवेतनापहारेषु यथापराधं दण्डयितव्यः।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)  यः समुदयमिति । यः, समुदयं द्रव्योत्पत्तिं, परिहापयति न्यूनयति, स राजार्थं भक्षयति । सः, अज्ञानादिभिः अज्ञानालस्यभयप्रमादकामकोपदर्पलोभैर्गाणनिक्याधिकारोक्तैः, परिहापयति चेद्, एनं, तद् हापितं द्रव्यं, यथागुणं द्विगुणं त्रिगुणम् अधिकगुणं वा अपराधानुसारिगुणं, दापयेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>  यः समुदयमिति । यः, समुदयं द्रव्योत्पत्तिं, परिहापयति न्यूनयति, स राजार्थं भक्षयति । सः, अज्ञानादिभिः अज्ञानालस्यभयप्रमादकामकोपदर्पलोभैर्गाणनिक्याधिकारोक्तैः, परिहापयति चेद्, एनं, तद् हापितं द्रव्यं, यथागुणं द्विगुणं त्रिगुणम् अधिकगुणं वा अपराधानुसारिगुणं, दापयेत् ।
 
  **यः समुदयं द्विगुणमि**ति । यः समुदयं, द्विगुणं क्ऌप्तादधिकम् उद्भावयति, सः, जनपदं भक्षयति कथमन्यथा समुदयाधिक्यमिति वा राजार्थम् उपनयति चेत् स्वोद्भावितमधिकं साकल्येन राज्ञेऽपर्यति चेत्तर्हिअल्पापराधे अल्पेऽपराधे जनपदपीडने, वारयितव्यः ‘मा पुनरेवं जानपदेभ्यः क्ऌप्ताधिकमुद्भावये’ति प्रतिषेद्धव्यः। महति द्विगुणत्रिगुणाद्युद्भावनरूपे कोशक्षयफलकजनपदकर्शनहेतावपराधे स्वयमपहरणरूपे च, यथापराधं दण्डयितव्यः। यदुक्तं—
 
@@ -4641,7 +4641,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** यो महत्यर्थसमुदये स्थितः कदर्यः सन्निधत्तं, अवनिधत्ते, अवस्रावयति वा — सन्निधत्ते स्ववेश्मनि अवनिधत्ते पौरजानपदेषु, अवस्त्रावयति परविषये —तस्य सत्री मन्त्रिमित्रभृत्यबन्धुपक्षमागतिं गतिं च द्रव्याणामुपलभेत ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg) **तस्मादिति ।** तस्मात् समुदयविषयेऽपराधे दण्डविधानात्, योऽध्यक्षः, यस्मिन्नधिकरणे, शासनस्थो नियुक्तः, सः, तस्य कर्मणः तदधिकरणसम्बद्धस्य कर्मणः, याथातथ्यं यथास्थितिम्, आयव्ययौ च व्याससमासाभ्यां संक्षेपविस्ताराभ्याम्, अस्य राज्ञः, आचक्षीत निवेदयेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> **तस्मादिति ।** तस्मात् समुदयविषयेऽपराधे दण्डविधानात्, योऽध्यक्षः, यस्मिन्नधिकरणे, शासनस्थो नियुक्तः, सः, तस्य कर्मणः तदधिकरणसम्बद्धस्य कर्मणः, याथातथ्यं यथास्थितिम्, आयव्ययौ च व्याससमासाभ्यां संक्षेपविस्ताराभ्याम्, अस्य राज्ञः, आचक्षीत निवेदयेत् ।
 
 ** मूलहरेत्या**दि **।** मूलहरतादात्विककदर्यान् प्रतिषेधयेत् मूलहरणादिकर्मणो वारयेत् । के पुनर्मूलहरादय इत्यत्राह — **यः पितृपैतामहमि**ति **।** यः, पितृपैतामहं पितृपितामहार्जितम्, अर्थम्, अन्यायेन भक्षयति दुर्विनियोगेन नाशयति, स मूलहरः। यद्यदुत्पद्यते प्रत्यक्षं लभ्यते, तत्तद् यः, भक्षयति दुर्विनियोगेन नाशयति, स तादात्विकः। यः भृत्यात्मपीडाभ्याम् अर्थम्, उपचिनोति वर्धयति, स कदर्यः। प्रतिषेधानन्तरमपि मूलहरणाद्यनुवृत्तावाह—स इति । सः मूलहराद्यन्यतमः, पक्षवांश्चेत् पक्षो बन्धुसम्पत् तद्वान् यदि, अनादेयः अग्राह्यः तद्बन्धुकोपपरिहारार्थमगृहीतधन एव स्थानादवरोपणीय इत्यर्थः। विपर्यये पक्षवत्त्वाभावे, पर्यादातव्यः सर्वस्वं हर्तव्य इत्यर्थः।
 
@@ -4656,7 +4656,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** बहुमुख्यमनित्यं चाधिकरणं स्थापयेत् ।**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)  **यश्चेति ।** यश्च परविषये अस्य कदर्यस्य, सञ्चारं द्रव्यसञ्चारणं कुर्यात्, तम्, अनुप्रविश्य अनुकूलतया प्रविश्य तन्मित्रं तद्भृत्यो वा भूत्वेत्यर्थः, मन्त्रं विद्यात् अभिसन्धिरहस्यं जानीयात् सत्री । **सुविदित** इति । सुविदिते सत्रिद्वारेण सम्यग् विज्ञाते मन्त्रे, एनं कदर्यं, शत्रुशासनापदेशेन घातयेत् शत्रुणा कदर्यमभिसम्बुध्य प्रहितं ‘प्रेषितोऽर्थः प्रतीष्टः, अवशिष्टः क्षिप्रं प्रेष्यतामि’ति लिखितवृत्तान्तं किमपि लेख्यं शत्रुविषयागतजनहस्तादन्तपालेन गृहीतोपनीतमित्येवं कूटसृष्टस्यैव शत्रुशासनस्य अपदेशेन प्रख्यापनेन हतं कारयेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>  **यश्चेति ।** यश्च परविषये अस्य कदर्यस्य, सञ्चारं द्रव्यसञ्चारणं कुर्यात्, तम्, अनुप्रविश्य अनुकूलतया प्रविश्य तन्मित्रं तद्भृत्यो वा भूत्वेत्यर्थः, मन्त्रं विद्यात् अभिसन्धिरहस्यं जानीयात् सत्री । **सुविदित** इति । सुविदिते सत्रिद्वारेण सम्यग् विज्ञाते मन्त्रे, एनं कदर्यं, शत्रुशासनापदेशेन घातयेत् शत्रुणा कदर्यमभिसम्बुध्य प्रहितं ‘प्रेषितोऽर्थः प्रतीष्टः, अवशिष्टः क्षिप्रं प्रेष्यतामि’ति लिखितवृत्तान्तं किमपि लेख्यं शत्रुविषयागतजनहस्तादन्तपालेन गृहीतोपनीतमित्येवं कूटसृष्टस्यैव शत्रुशासनस्य अपदेशेन प्रख्यापनेन हतं कारयेत् ।
 
 ** तस्मादि**ति **।** तस्माद् राजद्रव्यापहारे यथोक्तदण्डविधानात्, अध्यक्षाः, अस्य राज्ञः, कर्माणि धनसम्बद्धानि कार्याणि, संख्यायकलेखकरूपदर्शकनीवीग्राहकोत्तराध्यक्षसखाः कुर्युः संख्यायकादिसाक्षिकाः सन्तः कुर्युः। संख्यायकाः गणकाः, लेखकाः प्रसिद्धाः, रूपदर्शकाः निष्कदीनारादिरूपपरिशोधकाः, नीवीप्राहकाः व्ययितशिष्टधनग्रहणाधिकृताः, उत्तराध्यक्षा औपरिकाः।
 
@@ -4680,7 +4680,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **आस्रावयेच्चोपचितान् विपर्यस्येच्च कर्मसु ।  
 यथा न भक्षयन्त्यर्थं भक्षितं निर्वमन्ति वा ॥**
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)स्थिरश्चिरस्थायी युक्तो यस्मिंस्तत् तथाभूतं च कुर्यात् । नित्यो हि युक्तश्चिरसंवाससुलभां मित्रसम्पदमवष्टभ्यात्मदोषान् निह्नुवीत जानपदाश्च तस्य दोषान् कालान्तरात्मापकारभिया नाविष्कुर्युरिति ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>स्थिरश्चिरस्थायी युक्तो यस्मिंस्तत् तथाभूतं च कुर्यात् । नित्यो हि युक्तश्चिरसंवाससुलभां मित्रसम्पदमवष्टभ्यात्मदोषान् निह्नुवीत जानपदाश्च तस्य दोषान् कालान्तरात्मापकारभिया नाविष्कुर्युरिति ।
 
  अध्यायान्ते श्लोकानाह — **यथाही**त्यादि । अनाम्वादयितुं न शक्यम् अर्थादास्वादनपरिहारमिच्छतापि । अशक्यत्वोपपादकमाह **जिह्वातलस्थमि**ति । विनापि पुरुषयत्नेन तदुदरप्रवेशं यद्देशसन्निकर्षं लभेत तद्देशनित्यसन्निहितमित्यर्थः। अर्थ इति । योऽत्यल्पत्वाद् भक्षिविज्ञातोऽप्यनर्थापर्यवसायी मधुस्थानीयो, यश्च महत्त्वाद् वधदण्डान्तमानर्थपर्यवसायी विषस्थानीयः स उभयविधोऽपि । अर्थचरः अर्थेषु व्याप्रियमाणोऽध्यक्षः।  
 तदेवमर्थभक्षणस्याध्यक्षदुष्परिहरत्वमनेनोक्तम् ॥
@@ -4698,7 +4698,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696316066Line.jpg)ञ्जीतेत्यर्थः। आस्रावणविपर्यसनभयाञ्चाध्यक्षा अर्थभक्षणे न प्रवर्तन्ते, भक्षितंचार्थं प्रत्याहरन्तीत्यभिप्रायेणाह — यथेत्यादि । तथा आस्रावयेदित्येवं पूर्वार्धेन सम्बन्धः। सोऽयमर्थभक्षकविषयो विधिः प्रपञ्चितः।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>ञ्जीतेत्यर्थः। आस्रावणविपर्यसनभयाञ्चाध्यक्षा अर्थभक्षणे न प्रवर्तन्ते, भक्षितंचार्थं प्रत्याहरन्तीत्यभिप्रायेणाह — यथेत्यादि । तथा आस्रावयेदित्येवं पूर्वार्धेन सम्बन्धः। सोऽयमर्थभक्षकविषयो विधिः प्रपञ्चितः।
 
  येपुनरर्थचरा अपि सन्तो महान्तं यत्नमास्थाय राजजानपदार्थं न भक्षयन्ति, प्रत्युत न्यायतः परिवर्धयन्ति, तथाविधा राजप्रियहितानुष्ठानपराः स्थिराधिकाराः कर्तव्या इत्याह — **न भक्षयन्तीत्यादि ॥**
 
@@ -4714,7 +4714,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तस्मादमात्यसम्पदोपेतः सर्वसमयविदाशुग्रन्थश्चार्वक्षरो लेखवाचनसमर्थो लेखकःस्यात् । सोऽव्यग्रमना राज्ञः सन्देशं श्रुत्वा**
 
-![](../../../books_images/U-IMG-1696342237Line.jpg) **शासनाधिकार** इति सूत्रम् ।शासनं नाम लिखितकार्यार्थंतालपत्रादि, तस्याधिकारो विधिरुच्यत इति सूत्रार्थः। ‘अर्धगुणहीनः शासनहरः’इति शासनं यत् सूत्रितं दूतप्रणिधौ तदिह निरूप्यत इति सङ्गतिः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696342237Line.jpg"/> **शासनाधिकार** इति सूत्रम् ।शासनं नाम लिखितकार्यार्थंतालपत्रादि, तस्याधिकारो विधिरुच्यत इति सूत्रार्थः। ‘अर्धगुणहीनः शासनहरः’इति शासनं यत् सूत्रितं दूतप्रणिधौ तदिह निरूप्यत इति सङ्गतिः ।
 
  किं तच्छासनमित्याह —**शासने शासनमित्याचक्षत** इति । पत्रारूढोऽर्थः शासनं तस्मिन् शासनमिति व्यपदेशं कुर्वन्त्याचार्याः, नतु सन्दिष्टेऽर्थे वाचिकाख्ये इत्यर्थः । कुतः पुनः शासनवाचिकयोर्मध्ये शासनम्य निरूपणादरो नतु वाचिकस्येत्याकाङ्क्षायामाह — **शासने**त्यादि । सन्धिविग्रहयोरिति षाड्गुण्योपलक्षणम् । तेनायमर्थः — हि यस्माच्छासनमेव राज्ञां मन्त्रगुप्तिपुरस्सरषाड्गुण्यव्यापाराव्यभिचारनिर्वाहकतया प्रधानं, वाचिकं तु सन्देशहरगतप्रमादादिदोषसम्भावितमन्त्रभेदतया**व्यभिचारि**त्वान्न प्रधानमिति ।
 
@@ -4728,7 +4728,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **जातिं कुलं स्थानवयश्श्रुतानि कर्मर्द्धिशीलान्यथ देशकालौ ।  
 यौनानुबन्धं च समीक्ष्य कार्ये लेखं विदध्यात् पुरुषानुरूपम् ॥**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)इति । परलेखानुरूप्यानानुरूप्यनिश्चयविषयेऽपि श्लोकमुदाहरन्ति —
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>इति । परलेखानुरूप्यानानुरूप्यनिश्चयविषयेऽपि श्लोकमुदाहरन्ति —
 
 **“श्रुत्वा नरेन्द्रवाक्यं परभावं चावधार्य परलेखात् ।  
 लेखः खलु कर्तव्यो गुणदोषविनिश्चयज्ञेन ॥”**
@@ -4748,7 +4748,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अर्थपदाक्षराणामन्यूनानतिरिक्तता हेतूदाहरणदृष्टान्तैरर्थोपवर्णनाश्रान्तपदतेति परिपूर्णता ।**
 
-![](../../../books_images/U-IMG-1696402627Line.jpg) लेखसम्पदमाह —**अर्थक्रम** इत्यादि ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696402627Line.jpg"/> लेखसम्पदमाह —**अर्थक्रम** इत्यादि ।
 
  अर्थक्रमादीन् षड् लेखगुणान् स्वयमेव व्याचष्टे —**तत्रे**त्यादि । तत्रअर्थक्रमादीनां मध्ये । यथावदनुपूर्वक्रिया यथार्हंक्रमकरणम् । तदेव स्फुटप्रतिपत्तये विवृणोति —प्रधानस्यार्थस्य पूर्वमभिनिवेश इति । अभ्यर्हितस्यार्थस्य पूर्वंलेखनं पश्चादन्यस्येत्ययमर्थक्रमो नाम लेखगुणः ।
 
@@ -4763,7 +4763,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  वर्णसङ्घातः पदम् । तच्चतुर्विधं नामाख्यातोपसर्गनिपाताश्चेति ।तत्र नाम सत्त्वाभिधायि । अविशिष्टलिङ्गमाख्यातं क्रियावाचि । क्रियाविशेषकाः प्रादय उपसर्गाः । अव्ययाश्चादयो निपाताः ।
 
-![](../../../books_images/U-IMG-1696403842Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696403842Line.jpg"/>
 सुगमसुन्दरार्थप्रतिपादकशब्दप्रयोगो नाम माधुर्यम्, अग्राम्यशब्दप्रयोग औदार्यं, सुप्रसिद्धशब्दप्रयोगश्च स्पष्टत्वमित्याह —**सुखोपनीते**त्यादि ।
 
  शब्दप्रसङ्गात् तद्गतं पदवाक्यविभागं पदवाक्यगतं च लेखे करणीयंविशेषान्तरं निरूपयिष्यन् पदारम्भकत्वात् प्रथममक्षराणि निरूपयति — **अकारादयो वर्णास्त्रिषष्टिरि**ति । तत्र ह्रस्वदीर्घप्लुतभेदादचो द्वाविंशतिः, कादयो मावसानाःस्पर्शाख्याः पञ्चविंशतिः, यरलवा अन्तःस्थाख्यांश्चत्वारः, अयोगवाहा अनुस्वारविसर्गजिह्वामूलीयोपध्मानीयाश्चत्वारः, यमाक्षराणि चत्वारि,शषसहा ऊष्माख्याश्चत्वारः इत्येवं वर्णानां त्रिषष्टित्वंम् । यदाहुः —
@@ -4778,7 +4778,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  पदसमूहो वाक्यमर्थपरिसमाप्तौ । एकपदावरस्त्रिपदपरःपरपदार्थानुरोधेन वर्गः कार्यः । लेखपरिसंहरणार्थ इतिशब्दो वाचिकमस्येति च ।
 
-![](../../../books_images/U-IMG-1696417598Line.jpg) वाक्यस्वरूपमाह — **पदे**त्यादि । पदसमूहःपदानां सङ्घातो वाक्यम्इत्युच्यते, अर्थपरिसमाप्तौ अर्थस्य पर्यवसाने सति तेन पदसमूहेन चेदेकोविशिष्टार्थो नैराकाङ्क्ष्येण बुद्धौ प्रतिष्ठितो भवतीत्यर्थः । समासकरणविषयमाह — **एके**त्यादि । वर्गः समासः, परपदार्थानुरोधेन कार्यः परं यत् पदं समासघटकादेकस्मात् पदाद्अन्यत् समासघटकं पदं तस्य अर्थानुरोधेन अर्थमनुसृत्य कार्यः अर्थस्य समासघटकपदान्तरार्थेन सहैकीभावयोग्यतामभिलक्ष्यकार्य इत्यर्थः । पदयोः पदानां वा सति सामर्थ्येसमासः कार्यो नान्यथेत्यभिप्रायः । स च कथम्भूतः कार्यः, एकपदावरस्त्रिपदपरः समस्यमानपदातिरेकेणैकं पदम् अवरं निकृष्टं यस्मिन् स तथाभूतः अर्थाद् द्विपदावरःत्रीणिपदानि पराणि उत्कृष्टानि यस्मिन् स तथाभूतश्च कार्यः, व्यधिकपदसमासस्तुन कार्यो माधुर्याद्युक्तगुणहानात् । यदाहुः —
+<MISSING_FIG href="../../../books_images/U-IMG-1696417598Line.jpg"/> वाक्यस्वरूपमाह — **पदे**त्यादि । पदसमूहःपदानां सङ्घातो वाक्यम्इत्युच्यते, अर्थपरिसमाप्तौ अर्थस्य पर्यवसाने सति तेन पदसमूहेन चेदेकोविशिष्टार्थो नैराकाङ्क्ष्येण बुद्धौ प्रतिष्ठितो भवतीत्यर्थः । समासकरणविषयमाह — **एके**त्यादि । वर्गः समासः, परपदार्थानुरोधेन कार्यः परं यत् पदं समासघटकादेकस्मात् पदाद्अन्यत् समासघटकं पदं तस्य अर्थानुरोधेन अर्थमनुसृत्य कार्यः अर्थस्य समासघटकपदान्तरार्थेन सहैकीभावयोग्यतामभिलक्ष्यकार्य इत्यर्थः । पदयोः पदानां वा सति सामर्थ्येसमासः कार्यो नान्यथेत्यभिप्रायः । स च कथम्भूतः कार्यः, एकपदावरस्त्रिपदपरः समस्यमानपदातिरेकेणैकं पदम् अवरं निकृष्टं यस्मिन् स तथाभूतः अर्थाद् द्विपदावरःत्रीणिपदानि पराणि उत्कृष्टानि यस्मिन् स तथाभूतश्च कार्यः, व्यधिकपदसमासस्तुन कार्यो माधुर्याद्युक्तगुणहानात् । यदाहुः —
 
 **“माधुर्यमभिवाञ्छन्तः प्रसादं च सुमेधसः ।  
 समासवन्ति भूयांसि न पदानि प्रयुञ्जते ॥”**
@@ -4793,7 +4793,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  **तत्राभिजनशरीरकर्मणां दोषवचनं निन्दा । गुणवचनमेतेषामेवप्रशंसा । कथमेतदिति पृच्छा । एवम् इत्याख्यानम् । देहीत्यर्थनां ।न प्रयच्छामीति प्रत्याख्यानम् । अननुरूपं भवत इत्युपालम्भः । माकार्षीः इति प्रतिषेधः । इदं क्रियताम् इति चोदना । योऽहं सभवान्, मम यद् द्रव्यं तद् भवतः इत्युपग्रहः सान्त्वम् । व्यसनसाहाय्यमभ्यवपत्तिः । सदोषमायतिप्रदर्शनमभिभर्त्सनम् ।**
 
-![](../../../books_images/U-IMG-1696441058Line.jpg)लेखनं च ‘वाचिकमस्य लेखहरमुखाच्छ्रोतव्यम्’ इत्यादिरीत्या लेखनमितिबोद्धव्यम् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696441058Line.jpg"/>लेखनं च ‘वाचिकमस्य लेखहरमुखाच्छ्रोतव्यम्’ इत्यादिरीत्या लेखनमितिबोद्धव्यम् ।
 
  अथ लेखनीयतया सम्भावितान् अर्थान् श्लोकाभ्यामुद्दिशति — **निन्दे**त्यादि । निन्दाप्रशंसादित्रयोदशकविषयतया त्रयोदशविधा लेखार्था इत्यर्थः॥
 
@@ -4812,7 +4812,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **यथार्हगुणसंयुक्ता पूजा यत्रोपलक्ष्यते ।  
 अप्याधौ परिदाने वा भवतस्तावुपग्रहौ ॥**
 
-![](../../../books_images/U-IMG-1696530908Line.jpg) **अनुनय** इति । अर्थकृतावित्यादयो निमित्तसप्तम्यः । अर्थकरणनिमित्तोऽतिक्रमनिमित्तः पुरुषादिव्यसननिमित्त इति त्रिप्रकारो**ऽनुनयः** । तत्रसामवायिकादिकार्यमवश्यकरणीयमकुर्वाणं प्रति तत्करणार्थं मित्रेण क्रियमाणोऽनुनय आद्यः । स्ववाक्यातिक्रमकुपितं प्रति कोपप्रशमनाय क्रियमाणोऽनुनयो द्वितीयः । पितृभ्रातृपुत्रमित्रामात्यमरणादिव्यसनेप्ववश्यानुग्राह्यंपूर्वमननुगृह्य पश्चात् कार्यवशात् तं प्रति क्रियमाणोऽनुनयस्तृतीयः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696530908Line.jpg"/> **अनुनय** इति । अर्थकृतावित्यादयो निमित्तसप्तम्यः । अर्थकरणनिमित्तोऽतिक्रमनिमित्तः पुरुषादिव्यसननिमित्त इति त्रिप्रकारो**ऽनुनयः** । तत्रसामवायिकादिकार्यमवश्यकरणीयमकुर्वाणं प्रति तत्करणार्थं मित्रेण क्रियमाणोऽनुनय आद्यः । स्ववाक्यातिक्रमकुपितं प्रति कोपप्रशमनाय क्रियमाणोऽनुनयो द्वितीयः । पितृभ्रातृपुत्रमित्रामात्यमरणादिव्यसनेप्ववश्यानुग्राह्यंपूर्वमननुगृह्य पश्चात् कार्यवशात् तं प्रति क्रियमाणोऽनुनयस्तृतीयः ।
 
  भूयोऽप्यष्टौ शासनभेदान् श्लोकेनोद्दिशति — **प्रज्ञापने**त्यादि॥
 
@@ -4826,7 +4826,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **निसृष्टिस्थापना कार्यकरणे वचने तथा ।  
 एष वाचिकलेखः स्याद् भवेन्नैसृष्टिकोऽपि वा ।**
 
-![](../../../books_images/U-IMG-1696568362Line.jpg) परिदानलेखमाह — **यथार्हे**त्यादि । यत्रे यस्मिन् लेखे, यथार्हगुणसंयुक्ता उत्तममध्यमाधमसम्बोध्यतारतम्यानुसारिणी, पूजा ‘धार्मिकस्य गुणवतस्तवेदमसदृशं दुःखमुपनतं, किं कुर्मः, क्षन्तव्यमेव विवेकिभिरीदृशं कथञ्चिद्’इत्युक्तिरूपः शोककाले, ‘स्वनियोगसविशेषानुष्ठानुस्यापर्याप्तमपीदमस्माभिर्यत्किञ्चित् पारितोषिकं दीयमानं स्वीकरोतु भवानि’त्युक्तिरूपः स्वामिपरितोषकाले, स्वामिबहुमानः, उपलक्ष्यते, स परिदानलेख इति विधेयाध्याहारः,तस्यैव लक्षणीयतया क्रमप्राप्तत्वात् । तस्य विषयद्वैविध्येन द्वैविध्यं सूचयन्नाह —**अपी**ति। तौपरिदानलेखौ, अप्याधौपरिदाने वा, अपिवाशब्दौसमुच्चयाथौ, आधिर्बन्धुमरणनिमित्ता भृत्यानां मनोव्यथा परिदानं परिरक्षणंभृत्यविषयदयाविष्करणमिति यावत्, ओधौच परिदाने च, उपग्रहौस्वीकारहेतू स्वतातिशयप्रतिपत्तिहेतू, भवतः ॥
+<MISSING_FIG href="../../../books_images/U-IMG-1696568362Line.jpg"/> परिदानलेखमाह — **यथार्हे**त्यादि । यत्रे यस्मिन् लेखे, यथार्हगुणसंयुक्ता उत्तममध्यमाधमसम्बोध्यतारतम्यानुसारिणी, पूजा ‘धार्मिकस्य गुणवतस्तवेदमसदृशं दुःखमुपनतं, किं कुर्मः, क्षन्तव्यमेव विवेकिभिरीदृशं कथञ्चिद्’इत्युक्तिरूपः शोककाले, ‘स्वनियोगसविशेषानुष्ठानुस्यापर्याप्तमपीदमस्माभिर्यत्किञ्चित् पारितोषिकं दीयमानं स्वीकरोतु भवानि’त्युक्तिरूपः स्वामिपरितोषकाले, स्वामिबहुमानः, उपलक्ष्यते, स परिदानलेख इति विधेयाध्याहारः,तस्यैव लक्षणीयतया क्रमप्राप्तत्वात् । तस्य विषयद्वैविध्येन द्वैविध्यं सूचयन्नाह —**अपी**ति। तौपरिदानलेखौ, अप्याधौपरिदाने वा, अपिवाशब्दौसमुच्चयाथौ, आधिर्बन्धुमरणनिमित्ता भृत्यानां मनोव्यथा परिदानं परिरक्षणंभृत्यविषयदयाविष्करणमिति यावत्, ओधौच परिदाने च, उपग्रहौस्वीकारहेतू स्वतातिशयप्रतिपत्तिहेतू, भवतः ॥
 
  परिहारलेखमाह — **जाते**रिति । अमुकस्यकालस्यामुकब्राह्मणेभ्यःकरो न ग्राह्य इत्येवंप्रकारो यो जातिविशेषविषयोऽनुग्रहः, अमीषु नगरेषुवणिरभ्यः शुल्कममुकस्य कालस्य न ग्राह्यमित्येवंविधो यः पुरविषयः, नवागतकुटुम्बिभ्यः इयतः कालस्य न ग्राह्यः कर इत्येवंप्रायो यो ग्रामविषयः, नकोऽपि राजभागधेयोऽमुकदेशे कालस्यैतावतो ग्राह्यइत्येवञ्जातीयो यो देशविषयः, स सर्वविधोऽप्यनुग्रहो राजशासनात् प्रवृत्तः परीहारसंज्ञित इति लेखप्रकाराभिज्ञो जानीयादिति श्लोकार्थः । तत्रानुग्रहः कश्चित् कराग्रहणरूपः, कश्चित् स्वयं धनदानरूपः, कश्चिदुभयरूप इति त्रिपकारो वेदितव्यः ॥
 
@@ -4845,7 +4845,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तत्र साम पञ्चविधं — गुणसङ्कीर्तनं सम्बन्धोपाख्यानं परस्परोपकारसन्दर्शनमायतिप्रदर्शनमात्मोपनिधानमिति ।**
 
-![](../../../books_images/U-IMG-1696834604Line.jpg) प्रावृत्तिकमाह — **विविधामि**ति । विविधाम् अनेकप्रकारां, दैवसंयुक्तांयथाकालवृष्टिपातसुभि- क्षाद्यनुकूलदैवफलसिद्धिसम्बद्धाम् अग्निवात्योपप्लवादिदुर्दैवफलसिद्धिसम्बद्धां च, तत्त्वजां पारमार्थिकीम्, मानुषींचैव यातव्यसमुच्छेदादिरूपां परचक्रचोरादिजनितराज्योपद्रवादिरूपां च, तां प्रवृत्तिंप्रावृत्तिकव्यपदेशनिमित्तभूतां वार्तां, शासनं प्रति लेखविषये, द्विविधां व्यवस्यन्तिशुभाशुभात्मना द्विप्रकारां निश्चिन्वन्ति । प्रवृत्तिद्वैविध्यवचनभङ्ग्या चानयातन्निवेदनफलकस्य प्रावृत्तिकलेखस्य द्वैविध्यमभिहितं बोद्धव्यम्॥
+<MISSING_FIG href="../../../books_images/U-IMG-1696834604Line.jpg"/> प्रावृत्तिकमाह — **विविधामि**ति । विविधाम् अनेकप्रकारां, दैवसंयुक्तांयथाकालवृष्टिपातसुभि- क्षाद्यनुकूलदैवफलसिद्धिसम्बद्धाम् अग्निवात्योपप्लवादिदुर्दैवफलसिद्धिसम्बद्धां च, तत्त्वजां पारमार्थिकीम्, मानुषींचैव यातव्यसमुच्छेदादिरूपां परचक्रचोरादिजनितराज्योपद्रवादिरूपां च, तां प्रवृत्तिंप्रावृत्तिकव्यपदेशनिमित्तभूतां वार्तां, शासनं प्रति लेखविषये, द्विविधां व्यवस्यन्तिशुभाशुभात्मना द्विप्रकारां निश्चिन्वन्ति । प्रवृत्तिद्वैविध्यवचनभङ्ग्या चानयातन्निवेदनफलकस्य प्रावृत्तिकलेखस्य द्वैविध्यमभिहितं बोद्धव्यम्॥
 
  प्रतिलेखमाह — **दृष्ट्वे**ति। लेखं परस्मादागतं, यथातत्त्वं दृष्ट्वा यथावस्थितपदपदार्थानतिक्रमेण पूर्वंस्वयं वाचनया विज्ञाय, ततः प्रत्यनुमाष्यच पश्चाद् राज्ञः सकाशेऽनुवाच्य च, यथा राजवचः राज्ञ उत्तरवचनं भवति,तथा प्रतिलेखः कार्यो भवेत् ॥
 
@@ -4867,7 +4867,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** उपप्रदानमर्थोपकारः ।**
 
-![](../../../books_images/U-IMG-1696837477Line.jpg) तत्र प्रथमं सामप्रभेदं व्याचष्टे — **तत्राभिजने**त्यादि । अभिजनः कुलं,शरीरं कर्म च प्रसिद्धे, प्रकृतिः स्वभावः, श्रुतं शास्त्रजनितःसंस्कारः, द्रव्यंरथगजतुरगादिपरिग्रहः, आदिपदेन वयोरूपादिग्रहणम् । अभिजनादीनामेषांगुणग्रहणं गुणस्य वस्तुसतः स्वरूपाख्यानं, गुणागुणग्रहणमिति पाठे गुणागुणयोर्वस्तुसतोः स्वरूपाख्यानं, प्रशंसा सश्लाघमाख्यानं, स्तुतिरविद्यमानगुणकीर्तनं च, गुणसङ्कीर्तनं नाम भवति ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696837477Line.jpg"/> तत्र प्रथमं सामप्रभेदं व्याचष्टे — **तत्राभिजने**त्यादि । अभिजनः कुलं,शरीरं कर्म च प्रसिद्धे, प्रकृतिः स्वभावः, श्रुतं शास्त्रजनितःसंस्कारः, द्रव्यंरथगजतुरगादिपरिग्रहः, आदिपदेन वयोरूपादिग्रहणम् । अभिजनादीनामेषांगुणग्रहणं गुणस्य वस्तुसतः स्वरूपाख्यानं, गुणागुणग्रहणमिति पाठे गुणागुणयोर्वस्तुसतोः स्वरूपाख्यानं, प्रशंसा सश्लाघमाख्यानं, स्तुतिरविद्यमानगुणकीर्तनं च, गुणसङ्कीर्तनं नाम भवति ।
 
  सम्बन्धोपाख्यानं व्याचष्टे — **ज्ञाती**त्यादि । ज्ञातिः समानकुलोत्पन्नः, यौनो योनिकृतः सम्बन्धोविवाहाख्यः, मौखो मुखकृतः सम्बन्धोवाक्सम्बन्धःशिष्याचार्यभावलक्षणः, स्रौवः स्रुवनामकयज्ञपात्रविशेषकृतः सम्बन्धो याज्ययाजकभावरूपः, कुलं पूर्वपुरुषपरम्परा, हृदयं मनोनिबन्धः,मित्रम् उपकारकं ज्ञात्यादीनां सप्तानां सङ्कीर्तनं सम्बन्धोपाख्यानमित्युच्यते ।
 
@@ -4895,7 +4895,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अवर्गे वर्गकरणं वर्गे चावर्गक्रिया गुणविपर्यासः संप्लव इति ।**
 
-![](../../../books_images/U-IMG-1696837477Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696837477Line.jpg"/>
 
  तृतीयमुपायं व्याचष्टे — शङ्केत्यादि । मित्रेष्वेकस्यापकाराधानेनान्येषां हृदि ‘अस्मानप्यसावुच्छेत्स्यती’ति शङ्काया अपरागस्पर्धाहेतोरुत्पादनमेको भेदः, ‘त्वामविधेयमभिघातयिष्यामी’त्येवम्प्रकारं निर्भर्त्सनमपरो भेदः ।
 
@@ -4920,7 +4920,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696837477Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696837477Line.jpg"/>
 
  संप्लवमाह — **अवर्ग** इति । वर्गो यतिश्छेद इति पर्यायाः, अवर्गे वर्गायोग्ये वर्गकरणं, वर्गे वर्गयोग्ये अवर्गक्रिया च इति द्वयं, गुणविपर्यासः गुणानामर्थक्रमादिलेखगुणानां वैपरीत्यं च, संप्लवो नाम नाम्ना भवति ।
 
@@ -4938,7 +4938,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** ताम्रपर्णिकं, पाण्ड्यकवाटकं, पाशिक्यं, कौलेयं, चौर्णेयं, माहेन्द्रं, कार्दमिकं, स्रौतसीयं, ह्रादीयं, हैमवतं च मौक्तिकम् ।**
 
-![](../../../books_images/U-IMG-1696837477Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696837477Line.jpg"/>
 
 ** कोशप्रवेश्यरत्नपरीक्षेति सूत्रम् \।** कोशो भाण्डागारं तत्प्रवेशनार्हाणां रत्नानां माणिक्यमुक्ताप्रवालादीनां, रत्नग्रहणेन संग्राह्यद्रव्योपलक्षणात् सारफल्गुकुप्यानां च, परीक्षात्रोपदिश्यत इति सूत्रार्थः ।
 
@@ -4956,7 +4956,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** शीर्षकमुपशीर्षकं प्रकाण्डकमवघाटकं तरलप्रतिबन्धं चेति यष्टिप्रभेदाः ।**
 
-![](../../../books_images/U-IMG-1696837477Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696837477Line.jpg"/>
 
  मौक्तिकस्य योनीस्तिस्रआह— **शङ्ख** इत्यादि । शङ्खः शुक्तिश्चजलजौ प्रसिद्धौ । प्रकीर्णकं गजकुम्भादिकम् । आहुश्च—
 
@@ -4979,7 +4979,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  **यष्टीनामष्टसहस्रमिन्द्रच्छन्दः । ततोऽर्धंविजयच्छन्दः । शतं देवच्छन्दः । चतुष्षष्टिरहारः । चतुष्पञ्चाशद् रश्मिकलापः । द्वात्रिंशद् गुच्छः । सप्तविंशतिर्नक्षत्रमाला ।चतुर्विंशतिरर्धगुच्छः । विंशतिर्माणवकः । ततोऽर्धमर्धमाणवकः । एत एव मणिमध्यास्तन्माणवका भवन्ति । एकशीर्षकः शुद्धो हारः । तद्वच्छेषाः । मणिमध्योऽर्धमाणव-**
 
-![](../../../books_images/U-IMG-1696837477Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696837477Line.jpg"/>
 इत्येवंक्रमेणानेकैः पञ्चकैर्ग्रथिता यष्टिः प्रकाण्डकम् । प्रधानमेकं महन्मौक्तिकं मध्ये कृत्वा पार्श्वयोः क्रमकृशोत्तरोत्तरमौक्तिकैर्ग्रथिता यष्टिरवघाटकाख्या । तरलप्रतिबन्धं नाम समप्रमाणमौक्तिकगुम्फिता यष्टिः । चशब्दः समुच्चये । इति यष्टिप्रभेदाः यष्टीनां सराणां प्रभेदाः ।
 
  शीर्षकादीनां पञ्चानां यष्टीनां प्रत्येकं संख्या नियमप्रयुक्तानेकादश भेदानाह — **यष्टीनामि**ति । यष्टीनां शीर्षकादिलक्षणानामुक्तानाम्, अष्टसहस्रम् अष्टोत्तरं सहस्रम्, इन्द्रच्छन्दः तदाख्यं भूषणमुच्यते, शीर्षकेन्द्रच्छन्द उपशीर्षकेन्द्रच्छन्द इत्यादिप्रकारैर्व्यपदिश्यत इत्यर्थः । एवमुत्तरत्रापि बोद्धव्यम् । ततोऽर्धंचतुरुत्तरा पञ्चशती, विजयच्छन्दः । शतं देवच्छन्दः शतयष्टिकं देवच्छन्दाख्यम् । एकाशीत्युत्तरैर्यष्टीनामष्टभिः शतैर्युक्तो देवच्छन्द इति कचिद् व्याख्यातम् । **चतुष्षष्टिरि**त्यादिकम् **अर्धमाणवक** इत्येवमन्तमुत्तानार्थम् । **एत एवेति ।** उक्ता एवेन्द्रच्छन्दादयो, मणिमध्या माणिक्यमध्याः सन्तः, तन्माणवका भवन्ति इन्द्रच्छन्दाद्युपपदमाणवकाः भवन्ति, इन्द्रच्छन्दमाणवको विजयच्छन्दमाणवक इत्येवमादिसंज्ञायुक्ता भवन्तीत्यर्थः । **एकेत्यादि ।** एकशीर्षकःशुद्धो हारः एकानि केवलान्युपशीर्षकदिलक्षणास्पृष्टानि शीर्षकाणि शीर्षकाख्याः यथोक्तसंख्या यष्टयो यस्य स तथाभूतः अर्थाद् इन्द्रच्छन्दादिविशेष्यः शुद्धहाराख्यो भवति, इन्द्रच्छन्दशीर्षकशुद्धहारो विजयच्छन्दशीर्षक शुद्धहारो देवच्छन्दशीर्षकशुद्धहारोऽर्घहारशीर्षकशुद्धहारो रश्मिकलापशीर्षकशुद्धहार इत्यादिरीत्या व्यवहार्यो भवतीत्यर्थः । शीर्षकविषयेऽभिहितं शुद्धहारव्यपदेशमुपशीर्षकादावतिदिशति— **तद्वदि**ति । तद्वद् शीर्षकवत्, शेषा उपशीर्षकादयः, बोद्धव्या इति शेषः । एतदुक्तं भवति —एकशीर्षकवद् एकोपशीर्षक एकप्रकाण्डक एकावघाटक एकतरलप्रतिबन्ध इत्यपरे चत्वारः शुद्धहारा इन्द्रच्छन्दोपशीर्षकशुद्धहारो विजयच्छन्दोपशीर्षकशुद्धहार इत्यादिक्रमेण प्रत्येकमुपगृहीतेन्द्रच्छन्द्रविजयच्छन्दादिमंज्ञाङ्का ऊह
@@ -4990,7 +4990,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** मणिः कौटो मालेयकः पारसमुद्रकश्च ।**
 
-![](../../../books_images/U-IMG-1696837477Line.jpg) नीया इति । **मणिमध्य** इति । मणिर्मरतकादिर्मध्ये यस्य स मंणिमध्यः, अर्ध माणवकः पूर्वोक्तो दशयष्टिः, त्रिफलकः पञ्चफलको वा त्रिभिः पञ्चभिर्वास्वर्णफलकैर्युक्तो भवन्, फलकहारः फलकहारसंज्ञो भवति, स च द्विप्रकारः । **सूत्रमिति ।**शुद्धा मणिहीना, एकावली एकः सरः शीर्षकाद्यन्यतमलक्षणः, सूत्रं तदाख्या भवति । **सैवे**ति । सैव एकावल्येव, मणिमध्या सती, यष्टिः यष्टिसंज्ञा । **हेमे**त्यादि । हेममणिचित्रा हेममयैर्मणिभिराहितवैचित्र्या यष्टिः, रत्नावली तदाख्या ।**हेममणिमुक्तेत्यादि ।** हेममणिमुक्तान्तरः हेममणिमुक्ताः पूर्वंहेमगुलिका ततः पद्मरागादिरत्नं ततो मौक्तिकमित्येवंक्रमगुम्फिताः अन्तरे मध्ये यस्य स तथाभूतः, अपवर्तकः तदाख्यः ।**सुवर्णे**त्यादि । सुवर्णसूत्रान्तरं सुवर्णसूत्रम् अप्रत्युप्तमणिकं केवलस्वर्णफलकम् अन्तरे मध्ये यस्य तत् तथाभूतं, सोपानकं तत्संज्ञम् । **मणी**त्यादि । मणिमध्यं मणिसोपानकं मणियुक्तं प्रत्युप्तमणिकं मध्यं मध्यसुवर्णफलकं यस्य तत् तथाभूतं मणिसोपानकाख्यम् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696837477Line.jpg"/> नीया इति । **मणिमध्य** इति । मणिर्मरतकादिर्मध्ये यस्य स मंणिमध्यः, अर्ध माणवकः पूर्वोक्तो दशयष्टिः, त्रिफलकः पञ्चफलको वा त्रिभिः पञ्चभिर्वास्वर्णफलकैर्युक्तो भवन्, फलकहारः फलकहारसंज्ञो भवति, स च द्विप्रकारः । **सूत्रमिति ।**शुद्धा मणिहीना, एकावली एकः सरः शीर्षकाद्यन्यतमलक्षणः, सूत्रं तदाख्या भवति । **सैवे**ति । सैव एकावल्येव, मणिमध्या सती, यष्टिः यष्टिसंज्ञा । **हेमे**त्यादि । हेममणिचित्रा हेममयैर्मणिभिराहितवैचित्र्या यष्टिः, रत्नावली तदाख्या ।**हेममणिमुक्तेत्यादि ।** हेममणिमुक्तान्तरः हेममणिमुक्ताः पूर्वंहेमगुलिका ततः पद्मरागादिरत्नं ततो मौक्तिकमित्येवंक्रमगुम्फिताः अन्तरे मध्ये यस्य स तथाभूतः, अपवर्तकः तदाख्यः ।**सुवर्णे**त्यादि । सुवर्णसूत्रान्तरं सुवर्णसूत्रम् अप्रत्युप्तमणिकं केवलस्वर्णफलकम् अन्तरे मध्ये यस्य तत् तथाभूतं, सोपानकं तत्संज्ञम् । **मणी**त्यादि । मणिमध्यं मणिसोपानकं मणियुक्तं प्रत्युप्तमणिकं मध्यं मध्यसुवर्णफलकं यस्य तत् तथाभूतं मणिसोपानकाख्यम् ।
 
 ** तेनेति ।** तेन यथोक्तेन शीर्षकादिकण्ठाभरणप्रकारेण, शिरोहस्तपादकटीकलापजालकविकल्पाः शिरआदिचतुष्टयस्य कलापजालकविकल्पाः कलापः सरः जालकं सरसमूहः तयोर्विकल्पाः प्रकाराः, व्याख्याताः उक्तप्राया इत्यर्थः । अत्रायं सङ्ग्रहश्लोकः श्रीभट्टस्वामिनः
 
@@ -5011,7 +5011,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** शुद्धस्फटिकःमूलाटवर्णःशीतवृष्टिः सूर्यकान्तश्चेति मणयः ।**
 
-![](../../../books_images/U-IMG-1696837477Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696837477Line.jpg"/>
 
  त्रिविध इत्यर्थः । एवं च मणीनां योनयस्तिस्रइत्युक्तं भवति । प्रायिकं चैतत् स्फटिकवैदूर्यमरतकादीनां विन्ध्यविदूरदर्दरादिषूत्पत्तिदर्शनादित्याहुः । श्लोकं चोदाहरन्ति—
 
@@ -5030,7 +5030,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** मन्दरागप्रभः सशर्करः पुष्पच्छिद्रः खण्डो दुर्विद्धो लेखाकीर्ण इति दोषाः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  आर्याश्चात्राचार्यैरुदाहृताः—
 
@@ -5065,7 +5065,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सभाराष्ट्रकं मध्यमराष्ट्रकं कास्तीरराष्ट्रकं श्रीकटनकं मणिपन्तकमिन्द्रवानकं च वज्रम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 **“पुष्पच्छिद्रोऽथै दुर्विद्धः शर्करानुगतस्तथा ।  
 मन्दरागप्रभश्चैव जातिभेदाः प्रकीर्तिताः॥**
@@ -5092,7 +5092,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** नष्टकोणं निरश्रिपार्श्वाप्रवृत्तंच अप्रशस्तम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  वज्रस्य त्रिविधांयोनिमाह — **खनिरिति ।** खनिः खन्यमानो भूप्रदेशविशेषः, स्रोतः जलप्रवाहविशेषः प्रकीर्णकं गजदन्तमूलादि ।
 
@@ -5120,7 +5120,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** चन्दनं — सातनं रक्तं भूमिगन्धि । गोशीर्षकं कालताम्रं मत्स्यगन्धि । हरिचन्दनं शुकपत्रवर्णमाम्रगन्धि । तार्णसं च । ग्रामेरुकं रक्तंरक्तकालं वा बस्तमूत्रगन्धि । दैवसभेयं रक्तं पद्मगन्धि । जावकं च ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 **“विरूपान् मन्दरागांश्च निष्प्रभान् क्रूरदर्शनान् ।  
 दग्धांश्चोद्गारिणश्चैव वज्राञ्छत्रुषु निक्षिपेत् ॥”**
@@ -5143,7 +5143,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** लघु स्निग्धमश्यानं सर्पिःस्नेहलेपि गन्धसुखं त्वगनुसार्यनुल्वणमविराग्युष्णसहं दाहग्राहि सुखस्पर्शनमिति चन्दनगुणाः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**देशभवं च, रक्तं पद्मगन्धिचेत्यनुषज्यते । जोङ्गकं, रक्तं रक्तकालं वा,स्निग्धं स्नेहगुणयुक्त, गन्धान्तरानुक्त्यात्रापि पद्मगन्धीति सम्बध्यते । तौरूपंच, जोङ्गकमिव रक्तं रक्तकालं वा स्निग्धं पद्मगन्धि चेत्यर्थः । जावकादित्रिकं कासरूपजं बोद्धव्यम् । मालेयकं पाण्डुरक्तं, पूर्ववत् पद्मगन्धि च ।एवञ्च दैवसभेयादिमालेयकान्तपञ्चकस्य पद्मगन्धित्व युक्तं भवति । कुचन्दनंकालवर्णकं कृष्णं, गोमूत्रगन्धि गोमूत्रं हि परिणामे सुगन्धि, अपरे तुगोमूत्रं नीलोत्पलमिति सम्प्रदाय इत्याहुः । कालपर्वतकं तद्देशभवं, रूक्षं खरम्,अगुरुकालम् अगुरुवत् कृष्णं, रक्तं, रक्तकालं वा कृष्णारुणं वा । पूर्वोक्तन्यायेनात्र गोमूत्रगन्धीति सम्बन्धनीयम् । केषुचिदादर्शेषु ‘कुचन्दनं कालरूक्षमगुरुकालं रक्तं रक्तकालं वा
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**देशभवं च, रक्तं पद्मगन्धिचेत्यनुषज्यते । जोङ्गकं, रक्तं रक्तकालं वा,स्निग्धं स्नेहगुणयुक्त, गन्धान्तरानुक्त्यात्रापि पद्मगन्धीति सम्बध्यते । तौरूपंच, जोङ्गकमिव रक्तं रक्तकालं वा स्निग्धं पद्मगन्धि चेत्यर्थः । जावकादित्रिकं कासरूपजं बोद्धव्यम् । मालेयकं पाण्डुरक्तं, पूर्ववत् पद्मगन्धि च ।एवञ्च दैवसभेयादिमालेयकान्तपञ्चकस्य पद्मगन्धित्व युक्तं भवति । कुचन्दनंकालवर्णकं कृष्णं, गोमूत्रगन्धि गोमूत्रं हि परिणामे सुगन्धि, अपरे तुगोमूत्रं नीलोत्पलमिति सम्प्रदाय इत्याहुः । कालपर्वतकं तद्देशभवं, रूक्षं खरम्,अगुरुकालम् अगुरुवत् कृष्णं, रक्तं, रक्तकालं वा कृष्णारुणं वा । पूर्वोक्तन्यायेनात्र गोमूत्रगन्धीति सम्बन्धनीयम् । केषुचिदादर्शेषु ‘कुचन्दनं कालरूक्षमगुरुकालं रक्तं रक्तकालं वा
 कालपर्वतकमनवद्यवर्णं वा’ इति पाठो दृश्यतेस गन्धानुक्तेरशुद्धः प्रतिभाति । तत्रानवद्यवर्णमित्यस्य कुङ्कुमवर्णमित्यर्थः ,शेषं तु सुबोधम् । कोशकारपर्वतकं तदाख्यदेशभवं, कालं, कालचित्रं वा कृष्णकर्बुरं वा । शीतोदकीयं शीतोदकदेशभवं, पद्माभं पद्मवर्णं, कालस्निग्धं वा ।नागपवर्तकं तदाख्यदेशजं, रूक्षं खरं, शैवलवर्णं जलनीलीवर्णम् । शाकलंशाकलदेशोद्भवं, कपिलं कडारवर्णम् । इहकालपर्वतकादीनां शाकलान्तानां कुचन्दनवद् गोमूत्रगन्धित्वं द्रष्टव्यम् ।
 
  एवं जातिवर्णगन्धा उक्ताः । गुणानाह — लघ्वित्यादि । लघु अभारिकं, स्निग्धं मसृणम्, अश्यानं चिरशोषि, सर्पिःस्नेहलेपि घृतमिव देहंस्नेहेन लिम्पति यत् तथाभूतं, गन्धतुस्वंगन्धेन मोदजनकं, त्वगनुसारित्वचमनुप्रविश्य सुखकरम्, अनुल्बणं सूक्ष्मत्वादस्फुटम् अविरागि द्रव्यान्तरमिश्रणे स्वेदाद्युपघाते चाबिकृतवर्णग धम्, उष्णसहं स्वलिप्ताङ्गस्योष्णसंवेदन प्रतिबन्धि, दाहग्राहिसन्तापहरं, सुखस्पर्शनं स्पर्शे नवनीतवत् सुखाव-
@@ -5154,7 +5154,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तैलपर्णिकं — अशोकग्रामिकं मांसवर्णं पद्मगन्धि । जोङ्गकं रक्तपीतकमुत्पलगन्धि गोमूत्रगन्धि वा । ग्रामेरुकं स्निग्धं गोमूत्रगन्धि ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**हम् । इति चन्दनगुणाः अनेन प्रकारेणैकादश चन्दनस्य गुणा विज्ञेयाः ।अत्र सङ्ग्रहश्लोकं पठन्ति —
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**हम् । इति चन्दनगुणाः अनेन प्रकारेणैकादश चन्दनस्य गुणा विज्ञेयाः ।अत्र सङ्ग्रहश्लोकं पठन्ति —
 
 **“षड् गन्धा नवधा वर्णो गुणाश्चैकादश स्मृताः ।  
 चन्दनानां समासेन षोडशोत्पत्तिभूमयः ॥” इति ।**
@@ -5178,7 +5178,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पिण्डक्वाथधूमसहमविरागि योगानुविधायि च । चन्दनागुरुवच्चतेषां गुणाः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 जोङ्गकवद् रक्तपीतवर्णम् । सौवर्णकुड्यकं सुवर्णकुड्यो नाम ग्रामः कामरूपगःतत्र जातं, रक्तपीतं, मातुलुङ्गगन्धि । पूर्णकद्वीपकं पूर्णकद्वीपः कामरूपेष्वेवतत्र भवं, पद्मगन्धि, नवनीतगन्धि वा, वर्णतस्तु रक्तपीतम् ।
 
  भद्रश्रीयस्य योन्यादिकमाह — **भद्रश्रीयमित्यादि** । भद्रश्रीयं चन्दनविशेषः । भद्रश्रीयपदार्थे ‘केचित् कर्पूरमित्याहुस्तक्कोलमिति चापरे । श्रीवासकं तथा केचित् केचिल्लोहितचन्दनम् ॥’ इति विप्रतिपत्तयः स्वामिनोक्ताः ।पारलौहित्यकं कामरूपे लौहित्याख्यनदपारभवं, जातीवर्णं जातीकुसुमवर्णम् ।आन्तरवत्यं कामरूपेष्वेवान्तरवत्याख्यनदीतीरे जातम्, उशीरवर्णं लामज्जच्छायम् । उभयं पारलौहित्यकादिद्विकं, कुष्ठगन्धि च पारिभाव्याख्यौषधगन्धि च । इतिशब्दः भद्रश्रीयनिरूपण समाप्तौ ।
@@ -5193,7 +5193,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** श्यामिका कालिका कदली चन्द्रोत्तरा शाकुला चारोहजाः ।कपिला बिन्दुचित्रा वा श्यामिका । कालिका कपिला कपोतवर्णा वा ।तदुभयमष्टाङ्गुलायामम् । परुषा कदली हस्तायता । सैव चन्द्रचित्रा**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**न्तीत्याह — चन्दनागुरुवच्च तेषां गुणा इति। चन्द्रनवद् गुणाः एकादश लघुत्वादयः, अगुरुवद् गुणा अष्टौ गुरुत्वादयः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**न्तीत्याह — चन्दनागुरुवच्च तेषां गुणा इति। चन्द्रनवद् गुणाः एकादश लघुत्वादयः, अगुरुवद् गुणा अष्टौ गुरुत्वादयः ।
 
 इति सारनिरूपणम् ।  
 
@@ -5213,7 +5213,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** चर्मणां मृदु स्निग्धं बहुलरोम च श्रेष्ठम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 विंशत्यङ्गुलदीर्घा । वर्णस्त्वस्याः कालिकावत् । सैव कदली, चन्द्रचित्रा चन्द्राकारमण्डलयुक्ता, चन्द्रोत्तरा नाम भवति । प्रमाणं त्वस्याः कदलीवत् । शाकुला, कदलीत्रिभागा कदल्यपेक्षया त्रिगुणपरिमाणा त्रिहस्तायामेत्यर्थइत्येके,कदलीप्रमाणतृतीयांशप्रमाणा अष्टाङ्गुलायतेत्यर्थ इत्यपरे, कोठमण्डलचित्रारक्तमण्डलयुक्ता, कृतकर्णिकाजिनचित्रा कृतैः स्वभावकृतैः कर्णिकाजिनैश्चर्मग्रन्थिभिः चित्रा जनितशोभा । चशब्दः समुच्चये । इतिशब्द आरोहजसमाप्तौ ।
 
  त्रिप्रकारां बाह्लवेयजातिमाह — **सामूरमि**त्यादि । बाह्लवः हिमवत एकदेशः तत्र भवाश्चर्मजातयो बाह्ववेयाः । ढप्रत्ययान्तश्चायम् । षट्त्रिंशदित्यादिचीनसीसामूल्योः प्रमाणं सामूरवत् षट्त्रिंशदङ्गुलं द्रष्टव्यम् । इतिशब्दःसमाप्तौ ।
@@ -5233,7 +5233,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अष्टप्लोतिसङ्घात्या कृष्णा भिङ्गिसी वर्षवारणम्, अपसारकइति नैपालकम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** अथाविकं सप्तदशप्रकारं निरूपयिष्यन् प्रथमं रागभेदेन त्रिविधमाह — **शुद्धमि**ति । अवयो मेषा नाम लोमोपकारिणः पशवः तल्लोमभवम्आविकम् । अधिकारश्चायम् । शुद्धं शुक्लं, शुद्धरक्तं सर्वारुणं, पक्षरक्तं च एकदेशारुणं च भवति । क्रियाभेदेन चतुर्विधमाह — **खचितमि**ति । खचितंसूचिवानकर्मनिष्पादितं, वानचित्रं वानकर्मणा कृतवैचित्र्यं, खण्डसङ्घात्यं खचितानामुतानां वा बहूनां खण्डानां सङ्घातेन निष्पादितं, तन्तुविच्छिन्नं च  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** अथाविकं सप्तदशप्रकारं निरूपयिष्यन् प्रथमं रागभेदेन त्रिविधमाह — **शुद्धमि**ति । अवयो मेषा नाम लोमोपकारिणः पशवः तल्लोमभवम्आविकम् । अधिकारश्चायम् । शुद्धं शुक्लं, शुद्धरक्तं सर्वारुणं, पक्षरक्तं च एकदेशारुणं च भवति । क्रियाभेदेन चतुर्विधमाह — **खचितमि**ति । खचितंसूचिवानकर्मनिष्पादितं, वानचित्रं वानकर्मणा कृतवैचित्र्यं, खण्डसङ्घात्यं खचितानामुतानां वा बहूनां खण्डानां सङ्घातेन निष्पादितं, तन्तुविच्छिन्नं च  
 अनुतविसृष्टैस्तन्दुभिर्मध्ये कृतविच्छेदं जालकोपयोगि च ।
 
  संस्थानकृतान् दश भेदानाह — **कम्बल** इति । कम्बलः प्रसिद्धः,केचलकः वन्याशिरस्त्राणं, कौचषक इत्यपपाठः । कलमितिका गजोपर्यास्तरणं, कुलमितिकेति क्वचित् पाठः । सौमितिका कलमितिकैव कृष्णवर्णा गजपर्याणोपर्यास्तरणं, तुरगास्तरणं प्रसिद्धं, वर्णकं वर्णकम्बलः, तलिच्छकं कम्बलविशेषः, तल्लिक्थकमित्यपि पाठः । वारवाणः कञ्चुकः, परिस्तोमः कम्बलभेदो विस्तारचित्रः, यो विस्तृतवदवभासते निर्माणवैचित्र्यात् स इति व्याचक्षते, कुथ इति त्वेके । समन्तभद्रकं सन्नाहपट्टः, गजादिजघनत्राणमित्यपरे ।  
@@ -5251,7 +5251,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** एतेषामेकका॑शुक्रमध्यर्धद्वित्रिचतुरंशुकमिति ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**रेण नेपालदेशभवमाविकं निरूपितमित्यर्थः । नेपालग्रहणाच्च वक्ष्यमाणं मृगमादिकमन्यदेशजं सूचितम् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**रेण नेपालदेशभवमाविकं निरूपितमित्यर्थः । नेपालग्रहणाच्च वक्ष्यमाणं मृगमादिकमन्यदेशजं सूचितम् ।
 
  षड्विधं मृगरोमजमाह — **संम्पुटिके**ति । सम्पुटिका जङ्घात्राणं सुक्थणाभिधानमिति क्वचिट्टीकादर्शे लिखितं, सन्थनमित्यन्यत्र लिखितं दृश्यते ।चतुरश्रिका दशारहिता नवाङ्गुलिचिह्नितकोणा । लम्बरा प्रच्छदपटविशेषः ।कटवानकं स एव स्थूलसूत्रो भाष्यक इति तद्देशीयानां प्रसिद्ध इति स्वामी ।प्रावरकः पूर्वोक्त एवान्यतरतोदशो रोमावर्तक इति तद्देशप्रसिद्ध इति स्वामी ।सत्तलिका तूलिकाख्य आस्तरणविशेष इति स्वामी । इति मृगरोम अनेनप्रकारेण मृगरोमजमुक्तम् ।
 
@@ -5267,7 +5267,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** माधुरमापरान्तकं कालिङ्गकं कांशिकं वाङ्गकं वात्सकं माहिषकंच कार्पासिकं श्रेष्ठमिति ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) तेने**ति । तेन दुकूलगताध्यर्धांशुकत्वादिनिरूपणेन, काशिकं काशिदेशभवं, पौण्ड्रकं च पुण्ड्रदेशजं च, क्षौमं व्याख्यातं क्षौममेव निरूपितम्अध्यर्धांशुकद्व्यंशुकादिरूपं स्थूलं दुकूलमेव हि क्षौममिति **व्यपदिश्यत इत्य**भिप्रायः।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> तेने**ति । तेन दुकूलगताध्यर्धांशुकत्वादिनिरूपणेन, काशिकं काशिदेशभवं, पौण्ड्रकं च पुण्ड्रदेशजं च, क्षौमं व्याख्यातं क्षौममेव निरूपितम्अध्यर्धांशुकद्व्यंशुकादिरूपं स्थूलं दुकूलमेव हि क्षौममिति **व्यपदिश्यत इत्य**भिप्रायः।
 
  मगधपुण्ड्रकसुवर्णकुड्यकाख्यदेशत्रयभवां नागकेसरडहुमद्यगन्धन्यग्रोधाख्यवृक्षचतुष्टययोनिं पत्रोर्णामाह **मागधिके**ति । पत्रोर्णाःवृक्षपत्रेषुक्रिमिलालाकृता ऊर्णाः पट्टसूत्रस्य योनयः । तासां योनिभेदनिमित्तं गुणभेदमाह — **पीतिके**त्यादि । नागवृक्षिका पीतिका **नागवृक्षयोनिः** पीतवर्णा ।लैकुचीलिकुचयोनिः । बाकुली बकुलयोनिः । शेषा वटयोनिः ।
 
@@ -5286,7 +5286,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
  अध्यायान्ते श्लोकावाह—**अत** इति, **पुराणेत्या**दि च । अतः अस्मादुक्तात्मौक्तिकादिकार्पासिकान्तात् सप्तदशकात्, परेषामन्येषां, रत्नानां रत्नप्रभृतीनां, प्रमाणं माषकाङ्कलादिकं तुलामानपौतवदेशकालमानप्रकरणयोर्वश्यमाणं, मूल्यलक्षणं मूल्यं लक्षणं च, तत्र मूल्यं—
 
 **“द्वे शते यद् धृतं रत्नं तण्डुलानां प्रमाणतः ।  
@@ -5304,7 +5304,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 इतिकर्मगुह्यंकर्मरहस्यं रत्नादीनां वर्णापचारणरञ्जनघर्षणादिकम् ; उपस्कारान्शाणादीनि रत्नादिकर्मोपकरणानि देशकालपरीभोगयमिति समाहारद्वन्द्वः, तत्र देशकालौरत्नादीनामुत्पत्तिक्रयविक्रयवानुकूलौ, परीभोग उपयोगःशीतयोर्देशकालयोर्मृगरोमजमुपयोज्यम् उष्णयोः कार्पासिकमित्वेवंरूपः हिं-
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 स्राणां क्षौमाद्यपघातक्रानां मूषिकादीनां प्रतिक्रियां मार्जारोत्सर्गादिना प्रतिविधानं कृमिमूषिकादिजग्धानां वस्त्रादीनां सीवनादिना संस्करणं च, जानीयात्, अर्थात् कोशाध्यक्षः ।
 
@@ -5330,7 +5330,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  **आकराध्यक्षः शुल्बधातुशास्त्ररसपाकमणिरागज्ञस्तज्ज्ञसखो वा तज्जातकर्मकरोपकरणसम्पन्नः किट्टमूषाङ्गारभस्मलिङ्गं वाकरं भूतपूर्वमभूतपूर्वं वा भूमिप्रस्तररसधातुमत्यर्थवर्णगौरवमुग्रगन्धरसं परीक्षेत।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 आकरकर्मान्तप्रवर्तनमि**ति सूत्रम् ।आकरेषु सुवर्णाद्युत्पत्तिस्थानेषु कर्मान्ताः तदुपलम्भानुकूलाः क्रियाः आकरकर्मान्ताः तेषां प्रवर्तनमनुष्ठापनमाकरकर्मान्तप्रवर्तनं, तदिहाभिधीयत इति सूत्रार्थः ।
 
  ‘गुप्तपुत्रदारानाकरकर्मान्तेषु वासयेदि’ति पूर्वमुक्तम् । आकरकर्मान्तास्तु नोक्ताः, त इदानीमुच्यन्त इति सङ्गतिः।
@@ -5343,7 +5343,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अप्सु निष्ठ्यृतास्तैलवद्विसर्पिणः पङ्कमलग्राहिणश्च ताम्ररूप्ययोः शतादुपरि वेद्धारः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  भूमिप्रस्तररसधातुषु रसः परनिर्दिष्टोऽप्यव्यभिचरितफलरूपसुवर्णयोनित्वेन महाफलत्वादल्पायासत्वाच्चाभ्यर्हित इति कृत्वा तमेव पञ्चप्रकारं प्रथमं निरूपयति — **पर्वतानामि**ति । अभिज्ञातोद्देशानाम् अभिज्ञाताः पूर्वभूपपरिज्ञाताः आकरविद्याधीता वा उद्देशाः येषां तथाभूतानां, पर्वतानां, बिलगुहोपत्यकालयनगूढखातेषु बिलं भूविवरं गुहा देवखातगृहम् उपत्यका शैलासन्नभूमिः लयनं शिलाटङ्कनकर्मनिर्मितं गृहं गूढखातं महाशिलापिहितद्वारं बिलम् इत्येतेषु पञ्चसु, अन्तःप्रस्यन्दिनः मध्यप्रस्राविणः, जम्बूचूततालफलपक्वहरिद्राभेदहरितालक्षौद्रहिङ्गुलकपुण्डरीकशुकमयूरपत्रवर्णाः जम्बूफलादित्रिकं प्रसिद्धं पक्वहरिद्राभेदः शोधितहरिद्राभङ्गः हरितालं धातुभेदः क्षौद्रं मधु हिङ्गुलको रागद्रव्यविशेषः पुण्डरीकं सिताम्बुजं शुकमयूरपत्रे शुकपक्षमयूरपक्षौ जम्बूफलादीनां दशानां वर्ण इव वर्णो येषां ते तथाभूताः सवर्णोदकौषधिपर्यन्ताः सवर्णोदकः स्ववर्णसमानवर्णजलः सवर्णोषधिः स्ववर्णसमानवर्णौषधिश्च पर्यन्तः परिसरप्रदेशो येषां ते तथाभूताः, चिक्कणाः स्पृष्टहस्तसङ्गि नः, विशदाः शुचयः, भारिकाश्च गुरवश्च, रसाः, काञ्चनिकाः काञ्चनं सुवर्ण तत्प्रयोजनाः ।
 
@@ -5353,7 +5353,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पीतकास्ताम्रकास्ताम्रपीतका वा भूमिप्रस्तरधातवो भिन्नानीलराजीमन्तो मुद्रमाषकुसरवर्णा वा दधिबिन्दुपिण्डचित्रा हरिद्राहरीतकीपद्यपत्रशैवलयकृत्प्लीहानवद्यवर्णा भिन्नाश्चुञ्चुवालुकालेखाबिन्दु- स्वस्तिकवन्तः सगुलिका अर्चिष्मन्तस्ताप्यमाना न भिद्यन्ते बहुफेनंधूमाश्च सुवर्णधातवः प्रतीवापार्थास्ताम्ररूप्यवेधनाः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 त्युक्तं भवति । इह वेद्धार इति ‘विध विधान’ इत्यस्मात् तृच्, विधानं च रूपान्तरापादनलक्षणं विवक्षितमिति बोद्धव्यम् ।
 
@@ -5365,7 +5365,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सर्वधातूनां गौरववृद्धौ सत्त्वबुद्धिः । तेषामशुद्धा मूढगर्भा वा तीक्ष्णमूत्रक्षारभाविता राजवृक्षवटपीलुगोपित्तरोचनामहिषखरकरभमूत्र-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 प्रतीवापार्थाः प्रतीवापो नाम वेधनद्रव्यस्यावर्तमाने ताम्रे रूप्ये वा चूर्णीकृत्यमक्षेपः तदर्थास्तत्प्रयोजनाः, ताम्ररूप्यवेधनाः ताम्रस्य रूप्यस्य वा स्वर्णत्वापादकाः, अत एव सुवर्णधातवः सुवर्णहेतुभूता घातव इत्युच्यन्त इत्यर्थः ।
 
@@ -5382,7 +5382,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** गोदन्तशृङ्गमतीवापो मृदुस्तम्भनः ।**
 
-![](../../../books_images/U-IMG-1696441058Line.jpg)तौक्ष्णमूत्रं नरमूत्रमित्येके गजाश्वगोगर्दभच्छागमूत्रमित्यपरे इति स्वामी तीक्ष्णक्षारः कदल्यपामार्गादिभस्म ताभ्यां भाविताः असकृत् सेचनादिना संस्कृताः, राजवृक्षवटपीलुगोपित्तरोचनामहिषखर करभमूत्रलण्डपिण्डबद्धाः राजवृक्षः शम्याकः वटः प्रसिद्धः पीलुर्गुडफलाख्यो वृक्षः गोपित्तरोचना गोपित्तं गोरोचना च महिषखरकरभमूत्रलण्डं सैरिभगर्दभबालोष्ट्राणां मूत्रपुरीषम् एतैः पिण्डबद्धाः राजवृक्षादिकल्कैर्महिपादिमूत्रलण्डेन च सह मिश्रितैरुक्ततीक्ष्णमूत्रक्षारभावितस्यात्मनश्चूर्णैर्बद्धपिण्डा इत्यर्थः, तत्प्रतीवापाः राजवृक्षादिचूर्णकृतप्रतीवापाः, तदवलेपा वा तच्चूर्णकृतोपलेपा वा सन्तः, विशुद्धाः द्रव्यान्तरसंसर्गजदोषनिर्मुक्ताः, स्रवन्ति मूढगर्भतापहानेन सत्त्वमुद्गिरन्ति ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696441058Line.jpg"/>तौक्ष्णमूत्रं नरमूत्रमित्येके गजाश्वगोगर्दभच्छागमूत्रमित्यपरे इति स्वामी तीक्ष्णक्षारः कदल्यपामार्गादिभस्म ताभ्यां भाविताः असकृत् सेचनादिना संस्कृताः, राजवृक्षवटपीलुगोपित्तरोचनामहिषखर करभमूत्रलण्डपिण्डबद्धाः राजवृक्षः शम्याकः वटः प्रसिद्धः पीलुर्गुडफलाख्यो वृक्षः गोपित्तरोचना गोपित्तं गोरोचना च महिषखरकरभमूत्रलण्डं सैरिभगर्दभबालोष्ट्राणां मूत्रपुरीषम् एतैः पिण्डबद्धाः राजवृक्षादिकल्कैर्महिपादिमूत्रलण्डेन च सह मिश्रितैरुक्ततीक्ष्णमूत्रक्षारभावितस्यात्मनश्चूर्णैर्बद्धपिण्डा इत्यर्थः, तत्प्रतीवापाः राजवृक्षादिचूर्णकृतप्रतीवापाः, तदवलेपा वा तच्चूर्णकृतोपलेपा वा सन्तः, विशुद्धाः द्रव्यान्तरसंसर्गजदोषनिर्मुक्ताः, स्रवन्ति मूढगर्भतापहानेन सत्त्वमुद्गिरन्ति ।
 
  यवमाषतिलपलाशपीलुभस्मभिर्गोक्षीराजक्षीरैश्च सम्मिश्रिताभ्यां कदलीकन्दवनसूरणकन्दाभ्यां प्रतीवापात् स्वर्णरूप्ययोमर्दवमुपजायत इत्याह —**यवमाषे**त्यादि । इह वेत्यन्तस्य विशुद्धाः स्रवन्तीत्यनेन सम्बन्धं मत्वा वदक्षारादिभिः साधनैःपूर्ववत् पिण्डबन्धनादिविधया वा धातवो विशुद्धाः सदन्तीत्यर्थं केचिद् वर्णयन्ति ।
 
@@ -5400,7 +5400,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **काकाण्डभुजपत्रवर्णो वा वैकृन्तकधातुः ।  
 अच्छः स्निग्धः सप्रभो घोषवान् शीततीव्रस्तनुरागश्च मणिधातुः ।**
 
-![](../../../books_images/U-IMG-1696441058Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696441058Line.jpg"/>
 
  अथ ताम्रधातुमाह — **भारिक** इति । भारिकः गुरुः, स्निग्धो मसृणः, मृदुश्च, प्रस्तरधातुः पाषाणधातुः, भूमिभागो वा भूमिधातुर्वा, ताम्रधातुः ताम्रयोनिर्भवति । तस्य चतुर्विधान् वर्णानाह पिङ्गलः कपिलः, हरितो नीलः पाटल ईषद्रक्तः, लोहितो वा रक्तो वा ।
 
@@ -5422,7 +5422,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** स्तेनमनिसृष्टोपजीविनं च बद्ध्वाकर्म कारयेद्, दण्डोषकारिणं च ।**
 
-![](../../../books_images/U-IMG-1696441058Line.jpg)  
+<MISSING_FIG href="../../../books_images/U-IMG-1696441058Line.jpg"/>  
 शीततीव्रः अतिशीतस्वभावः अमेरपनयने क्षिप्रशीतो वा, तनुरागः जल्परागः मणिधातुः मणियोनिर्धातुर्भवति । इयमत्र संग्रहार्या —
 
 “**कनकं रूप्यं ताम्रं सीसं त्रपु तीक्ष्णकं च वैकृन्तम् ।  
@@ -5442,7 +5442,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** लक्षणाध्यक्षः चतुर्भागताम्रं रूप्यरूपं तीक्ष्णत्रपुसीसाञ्जनानामन्यतममाषबीजयुक्तं कारयेत् पणम्, अर्धपणं पादमष्टभागमिति ।**
 
-![](../../../books_images/U-IMG-1696441058Line.jpg)देहपीडापरिहारार्थत्वादपराधिनं प्रति उपकारो भवतीति दण्डोपकारः स उच्यते तद्वन्तं च अर्थाददत्तदण्डं, बद्ध्वा कर्म कारयेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696441058Line.jpg"/>देहपीडापरिहारार्थत्वादपराधिनं प्रति उपकारो भवतीति दण्डोपकारः स उच्यते तद्वन्तं च अर्थाददत्तदण्डं, बद्ध्वा कर्म कारयेत् ।
 
 ** व्ययक्रिये**त्यादि । व्ययक्रियाभारिकं व्ययक्रिययोर्भारिकं गुरुं गुरुधनव्ययसाध्यं गुरुप्रयत्नसाध्यं चेत्यर्थः, आकरं, भागेन दद्याद् व्ययलाभभागव्यवस्थया परेषां प्रतिपादयेत् । प्रक्रयेण वा दद्यात् अस्याकरस्यैतावत् सुवर्णादिकं राजार्थे देयमिति परिपण्य वा परेषां दद्यात् । लाघविकं लघुव्ययसाध्यं लघुश्रमसाध्यं चाकरम्, आत्मना कारयेत् स्वयं व्यापारयेत् ।
 
@@ -5454,7 +5454,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** रूपदर्शकः पणयात्रां व्यवहारिकीं कोशप्रवेश्यां च स्थापयेत् । रूपिकमष्टकं शतं, पञ्चकं शतं व्याजीं, पारीक्षिकमष्टभागिकं शतम् । पञ्चविंशतिपणमत्ययं चान्यत्र कर्तृक्रेतृविक्रेतृपरीक्षितुभ्यः ।**
 
-![](../../../books_images/U-IMG-1696441058Line.jpg)कारयेत् पणोक्तताम्राद्यर्धप्रमाणयोगेनार्धपणाख्यं तच्चतुभोगप्रमाणयोगेन पादपणं तदष्टभागप्रमाणयोगेनाष्टभागाख्यं च निर्मापयेदित्यर्थः । प्रकारान्तरार्थो वा इतिशब्दः इति कारयेदिति योज्यः त्रिपादकादिकं प्रकारान्तरमपि व्यवहारानुगुणं निर्मापयेदित्यर्थः । पादाजीवं रूप्यरूपचतुर्भागव्यवहार्यं, ताम्ररूपं ताम्रांशभूम्ना ताम्रमयं रूपं, माषकं माषकाख्यं कारयेत् । ताम्रस्यैकादश धान्यमाषाः रूप्यस्य चत्वारस्तीक्ष्णाद्यन्यतमस्यैक इति योगप्रमाणेन रूप्यरूपपणवत् षोडशधान्यमाषप्रमाणकोऽयं ताम्ररूपमाषको द्रष्टव्यः । एवं माषकोक्तताम्राद्यर्धप्रमाणयोगेनार्धमाषकं तच्चतुर्भागप्रमाणयोगेन काकणीं, तदष्टभागप्रमाणयोगेनार्धकाकणीं च कारयेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696441058Line.jpg"/>कारयेत् पणोक्तताम्राद्यर्धप्रमाणयोगेनार्धपणाख्यं तच्चतुभोगप्रमाणयोगेन पादपणं तदष्टभागप्रमाणयोगेनाष्टभागाख्यं च निर्मापयेदित्यर्थः । प्रकारान्तरार्थो वा इतिशब्दः इति कारयेदिति योज्यः त्रिपादकादिकं प्रकारान्तरमपि व्यवहारानुगुणं निर्मापयेदित्यर्थः । पादाजीवं रूप्यरूपचतुर्भागव्यवहार्यं, ताम्ररूपं ताम्रांशभूम्ना ताम्रमयं रूपं, माषकं माषकाख्यं कारयेत् । ताम्रस्यैकादश धान्यमाषाः रूप्यस्य चत्वारस्तीक्ष्णाद्यन्यतमस्यैक इति योगप्रमाणेन रूप्यरूपपणवत् षोडशधान्यमाषप्रमाणकोऽयं ताम्ररूपमाषको द्रष्टव्यः । एवं माषकोक्तताम्राद्यर्धप्रमाणयोगेनार्धमाषकं तच्चतुर्भागप्रमाणयोगेन काकणीं, तदष्टभागप्रमाणयोगेनार्धकाकणीं च कारयेत् ।
 
 ** रूपदर्शक** इति । रूपदर्शकः रूपपरीक्षकः, पणयात्रां पणदानादानप्रस्थानं, व्यवहारिकीं व्यवहारप्रयोजनां, कोशप्रवेश्यां च कोशप्रवेशनयोग्यां च, स्थापयेद् ईदृशी पणयात्रा व्यवहारार्थी ईदृशी कोशप्रवेशनार्थेति तत्सारासारभावपर्यालोचनया व्यवस्थापयेत् । इयं राजकर्तृका पणयात्रा । जानपदकारितायां तस्यां राजभाव्यमाह — **रूपिकमि**त्यादि । अष्टास्योपदा दीयते अष्टकं पञ्चास्योपदा दीयते पञ्चकम् । अष्टकं शतं पणशतेऽष्टपणग्रहणं रूपिकसंज्ञं, पणशते पञ्चपणग्रहणं व्याजीसंज्ञं, पणशतेऽष्टभागग्रहणं पारीक्षिकसंज्ञम् । रूपिकं व्याजीं पारीक्षिकं च यथोक्तलक्षणं स्थापयेद् व्यवस्थापयेत् । तत्र रूपिकं कर्मकरभृतिः, व्याजी राजभागः, पारीक्षिकं परीक्षकभूतिरिति बोद्धव्यम् । पञ्चविंशतिपणम्, अत्ययं च दण्डं च स्थापयेद् अर्थादपराधे सति । स चापराधः सन्निहिताष्टभागिकपदानुकर्षणेनाष्टभागभवं दण्डमिति व्याख्यानादष्टभागापहारलक्षणो द्रष्टव्यः । अनया दिशा चतुर्भागाद्यपहारे दण्डद्वैगुण्यादिकमुन्नेयम् । केष्वपराधिषु विषयेऽयं दण्ड इत्याकाङ्क्षायामाह — **अन्यत्र कर्तृतृविक्रेतृपरीक्षितृभ्य** इति । ये करणक्रयणादावधिकृतास्तदतिरिक्तेषु विषये । ते च जानपदा अध्यक्षपुरुषकर्मकरा वेत्यवसेयम् । अन्यत्रकर्त्रादीनां त्वपराधे द्रव्यसारासारतापेक्षो दण्डः प्रागुक्त एव ।
 
@@ -5464,7 +5464,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** आगन्तुलवणं षड्भागं दद्यात् । दत्तभागविभागस्य विक्रयः।पञ्चकं शतं व्याजीं, रूपं, रूपिकं च ।क्रेता शुल्कं, राजपण्यच्छेदानु-**
 
-![](../../../books_images/U-IMG-1696441058Line.jpg)भट्टस्वामी त्वाह — ‘तेषां त्वन्यत्रकर्त्रादीनामुक्त एव दण्डः “कूटकुरूपकंकुर्वतः कारयतो निपातयतो वा सहस्रदण्ड” इति’ इति ।ईदृशं मूलवाक्यंमृग्यम् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696441058Line.jpg"/>भट्टस्वामी त्वाह — ‘तेषां त्वन्यत्रकर्त्रादीनामुक्त एव दण्डः “कूटकुरूपकंकुर्वतः कारयतो निपातयतो वा सहस्रदण्ड” इति’ इति ।ईदृशं मूलवाक्यंमृग्यम् ।
 
 अथ खन्यध्यक्षव्यापारमाह —**खन्यध्यक्ष** इत्यादि । खन्यध्यक्षःस्वर्णरत्नाद्याकराधिकारी, शङ्खवज्रमणिमुक्ताप्रवालक्षारकर्मान्तान् शङ्खानां कर्मातान् पाटनघर्षणादिक्रियाःवज्रमणिमुक्ताप्रबालानां कर्मान्ताद् खननशोधनरञ्जनादिक्रियाः क्षाराणां कर्मान्तान् यवक्षारादीनाम् उत्पादनादिक्रियाश्च, कारयेत् । पणनव्यवहारं च शङ्खादिक्रयविक्रयव्यवहारं च कारयेत् ।
 
@@ -5483,7 +5483,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **खनिभ्यो द्वादशविधं धातुं पण्यं च संहरेत् ।**  
 **एवं सर्वेषु पण्येषु स्थापयेन्मुखसङ्ग्रहम् ॥**
 
-![](file:///C:\\Users\\ANSHUM~1\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image001.gif)लक्षणं रूपिकसंज्ञं च, दद्यादित्यनुषज्यते । क्रेतेति । क्रेता शुल्कं दद्यात्,नतु विक्रेता । राजपण्यच्छेदानुरूपं राजपण्याद् विक्रीयमाणाद् यश्छेदःयावन्नष्टं तदनुरूपं, वैधरणं वैधरणशब्दितं छिन्नपूरणं च दद्यात् । अन्यत्रक्रेता विद्यमाने राजपण्येऽन्यतो लवणं क्रीणानः, षट्छतम्, अत्ययं चदण्डंच, दद्यात् ।
+<MISSING_FIG href="file:///C:\\Users\\ANSHUM~1\\AppData\\Local\\Temp\\msohtmlclip1\\01\\clip_image001.gif"/>लक्षणं रूपिकसंज्ञं च, दद्यादित्यनुषज्यते । क्रेतेति । क्रेता शुल्कं दद्यात्,नतु विक्रेता । राजपण्यच्छेदानुरूपं राजपण्याद् विक्रीयमाणाद् यश्छेदःयावन्नष्टं तदनुरूपं, वैधरणं वैधरणशब्दितं छिन्नपूरणं च दद्यात् । अन्यत्रक्रेता विद्यमाने राजपण्येऽन्यतो लवणं क्रीणानः, षट्छतम्, अत्ययं चदण्डंच, दद्यात् ।
 
 ** विलवणमि**ति । विलवणं विड ( कृतकलवण) मृदादिमिश्रं लवणम्,अर्थात् तथाविधलवणव्यवहर्ता, उत्तमं दण्डम् उत्तमसाहसं, दद्यात् । अनिसृष्टोपजीवी च यो राजाननुमत एव लवणमुत्पाद्योपजीवति स च, उत्तमं दण्डंदद्यात् । तत्रापवादमाह — वानप्रस्थेभ्योऽन्यत्र वानप्रस्थान विहाय । तेषांत्वनिसृष्टोपजीविनां न दण्ड इत्यर्थः। **श्रोत्रिया** इति ।
 श्रोत्रियाःवेदाध्यायिनः, तपस्विनः दीनाः, विष्टयः हठकारितकर्मकारिणश्च, भक्तलवणम् अन्नाभ्यवहारमात्रपर्याप्तं लवणं, हरेयुः विनैव शुल्कं नयेयुः।
@@ -5501,7 +5501,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 द्वादशोऽध्यायः आकरकर्मान्तप्रवर्तनम्,  
 आदितः त्रयस्त्रिंशः॥
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 अश्रावितं दमं, रूपं रूप्यरूपं ताग्ररूपमिति द्विविधं, रूपिकम् अष्टकं शतं,धातुं सुवर्णरूप्यादिधातुं, पण्यं विक्रेयं च द्वादशविधम् उक्तद्वादशप्रकारम्उपादानं, संहरेत् समुत्पादयेत् । एवं सर्वेषु पण्येषु पणनगोम्बेषु मध्ये,मुखसंग्रहं मुखमिव मुखं प्रधानं सारस्तस्य संग्रहं खापयेत् ॥
 
@@ -5519,7 +5519,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  जाम्बूनदं शातकुम्भं हाटकं वैणवंशृङ्गिशुक्तिजं, जातरूपं रसविद्धमाकरोद्गतं च सुवर्णम्।
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 ** अक्षशालायां सुवर्णाध्यक्ष** इति सूत्रम्।अक्षशालायां सुवर्णरूप्यादिनिर्माणशालायां, नियुक्तः सुवर्णाध्यक्षः अर्थात् तस्य व्यापार इहाभिधीयत इति तदर्थः। प्रक्रान्तायां कोशप्रकृतौ प्रधानभूतस्य सुवर्णादेरुत्पत्तिः समनन्सराध्याययोरुक्ता।तस्यावस्थान-जाति-वर्ण-गुणशोधन-दोषपरीक्षण-परिकर्मादिकथनपूर्वमर्जनं रक्षणं चेदानीमभिधीयते।
 
@@ -5534,7 +5534,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** आकरोद्रतं सीसान्वयेन भिद्यमानं पाकपत्राणि कृत्वा गण्डिकासु कुट्टयेत्,** **कन्दलीवज्रकन्दकल्के वा निषेचयेत् ।**
 
 ** तुत्थोद्गतं गौडिकं काम्बुकं चाक्रवालिकं च रूप्यम् । श्वेतं**  
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 सुवर्णमेवोत्पन्नं, रसविद्धं रसयोगेन काञ्चनीकृतम्, आकरोद्गतं च आकरगतमृत्पाषाणादिभ्यः पातितं च । क्रियावादोत्पन्नमित्यपि केचित् । तत्पक्षे चतुर्योनित्वंबोध्यम् । अत्रायं भट्टस्वामिनः श्लोकः—
 
@@ -5555,7 +5555,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** शुद्धस्यैको हारिद्रस्य सुवर्णो वर्णकः। ततः शुल्वकाकण्युत्तरापसारिता आ चतुस्सीमान्तादिति षोडश वर्णकाः।**
 
-**सुवर्णं पूर्वं निकष्य पश्चाद् वर्णिकां निकषयेत् । समरागलेखमनि-**![](../../../books_images/U-IMG-1696396457Line.jpg)
+**सुवर्णं पूर्वं निकष्य पश्चाद् वर्णिकां निकषयेत् । समरागलेखमनि-**<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 तस्य श्वैत्यं स्निग्धत्वं मार्दवमिति त्रीन् गुणानाह —**श्वेतमि**त्यादि । दोषानाह — **विपर्यय** इति । विपर्यये दुष्टम् उक्तगुणवैपरीत्ये दोषाः कृष्णत्वरूक्षत्वखरत्वरूपाः, स्फोटनं च दुष्टं भिद्यमानत्वं च दोष इत्याहत्य चत्वारोदोषाः । **शुद्धिमाह**—तद् दुष्टं रजतंसीसचतुर्भागेन रजतप्रमाणचतुर्भागेनसीसेन, शोधयेत् ।
 
@@ -5571,7 +5571,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कालिङ्गकस्तापीपाषाणो वा मुद्गवर्णो निकषः श्रेष्ठः।समरागीविक्रयक्रयहितः । हस्तिच्छविकः सहरितः प्रतिरागी विक्रयहितः।स्थिरः परुषो विषमर्वणश्चाप्रतिरागी क्रयहितः।**
 
-** छेदश्चिक्कणः समवर्णः श्लक्ष्णो मृदुर्भ्राजिष्णुश्च श्रेष्ठः।**![](../../../books_images/U-IMG-1696396457Line.jpg)
+** छेदश्चिक्कणः समवर्णः श्लक्ष्णो मृदुर्भ्राजिष्णुश्च श्रेष्ठः।**<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 पलप्रदेशे, निकषितं, न्याय्यं भवतीति शेषः । व्याजनिकषितमाह —**परिमृदितमि**त्यादि । परिमृदितं गाढनिकषितं वर्णकोत्कर्षार्थंविक्रेता करोति ।परिलीढम् अगाढनिकषितं वर्णापकर्षार्थंक्रैता करोति, हस्तेनोन्मृष्टलीढमितिस्वामी । नखान्तराद् गैरिकेण नखान्तरनिहितेन पीतधातुना, स चूर्णितं प्रक्षिप्तचूर्णम्उत्कर्षार्थं विक्रेता तत्पक्ष्यो वा परीक्षकः करोति । त्रिविधम्उपधिं विद्यात् । उपाधिमन्यमाह —**जाती**त्यादि । गोमूत्रभावितेन जातिहिङ्गुलकेन हंसपादाख्यहिङ्गुलकविशेषेण, पुष्पकासीसेन वा किञ्चित्पीतवर्णेन हरितालेन वा,दिग्धेन लिप्तेन, अग्रहस्तेन, संस्पृष्टं सुवर्णं, श्वेतीभवति हीनवर्णंभवति । अयं क्रेतृप्रयोज्यो व्याजः।
 
@@ -5589,7 +5589,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अक्षशालामनायुक्तो नोपगच्छेत् । अभिगच्छन् उच्छेद्यः। आयुक्तो वा सरूप्यस्वर्णस्तेनैव जीयेत । विचितवस्त्रहस्तगुह्याः काञ्चनपृषतत्वष्टृतपनीयकारवो ध्मायकचरकपांसुधावकाः प्रविशेयुर्निष्कसेयुश्च । सर्वंचैषामुपकरणमनिष्ठिताश्च प्रयोगास्तत्रैवावतिष्ठेरम् । गृहीतं सुवर्णं धृतं च प्रयोगं करणमध्ये दद्यात् । सायं प्रातच लक्षितं कर्तृकारयितृमुद्राभ्यां निदध्यात् ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
  अथ तापमाह —**ताप** इति । अग्नितापितः स्वर्णभागः, बहिरन्तश्च समः समानवर्णः तापनात्पूर्वं पश्चाच्च किञ्जल्कवर्णः, कुरण्डकपुष्पवर्णो वा अम्लानकुसुमवर्णोवाश्रेष्ठः। श्यावः कपिशः, नीलश्च, अप्राप्तकः तत्संज्ञः अशुद्ध इति यावत् ।
 
@@ -5607,7 +5607,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अर्पयेत् काचकर्मणःपञ्चभागं काञ्चनं दशभागं कटुमानम् ।ताम्रपादयुक्तं रूप्यं रूप्यपादयुक्तं वा सुवर्णं संस्कृतकं तस्माद् रक्षेत् ।**
 
-** पृषतकाचकर्मणः त्रयो हि भागाः परिभाण्डं द्वौ वास्तुकम् ।चत्वारो वा वास्तुकं त्रयः परिभाण्डम् ।**![](../../../books_images/U-IMG-1696396457Line.jpg)
+** पृषतकाचकर्मणः त्रयो हि भागाः परिभाण्डं द्वौ वास्तुकम् ।चत्वारो वा वास्तुकं त्रयः परिभाण्डम् ।**<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 आत्मनोपात्तं सुवर्णं, प्रयोगं च यत्र सुवर्णं प्रयुक्तं तं पदार्थं च, करणमध्येधृतं दद्यात् करणानां राजलेखकानां स्वस्वपुस्तकेष्वर्थं लिखतां साक्षिभूतानांमध्ये तुलाधृतं कृत्वा प्रत्यर्पयेत्, अर्थात् सुवर्णाध्यक्षः। सायं प्रातश्च दैनन्द्रिनव्यापारस्यावसाने प्रारम्भे च कर्तृकारयितृमुद्राभ्यां लक्षितं कर्तृकारयित्रोः सौवर्णिकसुवर्णाध्यक्षयोर्मुद्राभ्यां चिह्नितं, स्थापयेत् सुवर्णम् । करणमध्य इत्येव ।
 
@@ -5621,7 +5621,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तपनीयं ज्येष्ठं सुवर्णं सुरागं, समसीसातिक्रान्तं पाकपत्रपक्वंसैन्धविकयोज्ज्वालितं नीलपीतश्वेतहरितशुकपोतवर्णानां प्रकृतिर्भवति ।तीक्ष्णं चास्य मयूरग्रीवाभं श्वेतभङ्गं चिमिचिमायितं पीतचूर्णितं काकणिकः सुवर्णरागः।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
  त्वष्टृकर्माह—**त्वष्ट्रि**त्यादि । त्वष्टृकर्मणः ताम्ररजतनिर्मितघनपत्रादिकर्मणः विधिरुच्यत इति शेषः। शुल्बभाण्डं ताम्रभाण्डं, समसुवर्णेन संयूहयेत् ताम्रपलतुल्यपलेन सुवर्णेनदृढपत्रीकृतेन संयोजयेत् । रूप्यभाण्डं, घनम्अङ्गुलीयककङ्कणादि, घनसुषिरं वा स्थालीकलशभृङ्गारादिकं वा, सुवर्णार्धेनअवलेपयेत् रूप्यपलशतकृतं भाण्डं पञ्चाशता सुवर्णपलैस्तनुपत्रीकृतैरेव श्लेषयेत् ।
 अवलेपविधिमुक्त्वा वासनाविधिमाह —**चतुर्भागसुवर्णमि**ति । रूप्यभाण्डमिति वर्तते । अयमर्थः — रूप्यपलशतकृतं भाण्डं पञ्चविंशतिपलसुवर्णेन चूर्णींकृतेन वालुकाहिङ्गुलकचूर्णमिश्रेण पारतयुक्तेन तुषाग्निद्रवीकृतेनवासयेत् । एवं तावत् सुवर्णस्य समस्यार्धस्य चतुर्भागस्य च योजनेन त्रिप्रकारं त्वष्टृकर्म व्युत्पादितम् ।
@@ -5632,7 +5632,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** त्रयोंऽशाः तपनीयस्य द्वात्रिंशद्भागश्वेततारमूर्छितं तत् श्वेतलोहितकं भवति । ताम्रं पीतकं करोति।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
  स्वर्णानन्तरं रूप्यमाह — **तारमित्यादि ।** उपशुद्धम् अत्यन्तशुद्धं, तारं रजतं, वाशब्दो विकल्पे।नीलादीनां प्रकृतिर्भवतीत्यनुवर्तते । तारस्याशुद्धस्य शोधनप्रकारमाह — **अस्थितुत्थ** इति । अस्थितुत्थे अस्थिचूर्णयुक्तमृत्तिकानिर्मितायां मूषायां, चतुः चतुर्वारान्, आवर्तितम्, एवं समसीसे मृत्तिकासीससमप्रमाणनिर्मिते तुत्थे चतुः, शुष्कतुत्थे ‘शुष्कतुत्थः कटुशर्करामूषा’इति मट्टस्वामी, तस्यां चतुः, कपाले शुद्धमृत्तिकामूषायां त्रिः, गोमये गोमयकृतमूषायां द्विः, एवं सप्तहशतुत्थातिक्रान्तं सप्तदशमूषावर्तितं, पश्चात्, सैन्धविकया लवणयुक्तसौराष्ट्रमृत्तिकया सह, उज्ज्वालितम् उज्ज्वलनसंस्कृतं, शुद्धमित्यार्थम् । एतस्मात् काकणी उक्तरीत्या शोधिताद् रूप्यात् काकणी, सुवर्णे प्रक्षिप्ता, उत्तरा अपसारिता अधिका सुवर्णकाकणी अपनीता भवति । इति आ द्विमाषात् सुवर्णे देयम् एवं सुवर्णकाकण्यपनयनपूर्वकरूप्यकाकणीप्रक्षेपोपचयक्रमेण अष्टकाकयधिकः सुवर्णे रूप्यप्रक्षेपः कर्तव्यः । पश्चाद्, रागयोगः रागयोगार्थो यथोक्ततीक्ष्णकाकणीप्रक्षेपः । श्वेततारं भवति एवं करणे स्वर्णं श्वेततारसमप्रभं संपद्यते । केचित्तु श्वेततारं रागार्थंभवतीति व्याचक्षते।
 
@@ -5646,7 +5646,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तीक्ष्णताम्रसंस्कारं च बुध्येत । तस्माद् वज्रमणिमुक्ताप्रवालरूपाणामपनेयिमानं च रूप्यसुवर्णभाण्डबन्धप्रमाणानि चेति ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 स्येत्येवं मिश्रयित्वावर्तनेकृते तच्छ्वेतलोहितवर्णं भवति । एवं द्वात्रिंशद्भागात्मके ताम्रे शुद्धसुवर्णस्य त्रीन् भागान् योजयित्वावर्तने कृते तत् पीतरागं भवतीति ।
 
@@ -5670,7 +5670,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 णानि च रूप्यसुवर्णाभरणादीनां संव्यूहनादीनि च ‘शुल्बभाण्डं समसुवर्णेन संयूहयेत्’ इत्यादिनोक्तानि, बुध्येतेति सम्बध्यते । इतिशब्दः प्रकारे ।
 
@@ -5690,7 +5690,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **   यथावर्णप्रमाणं निक्षेपं गृह्णीयुस्तथाविधमेवार्पयेयुः, कालान्तरादपि च तथाविधमेव प्रतिगृह्णीयुरन्यत्र क्षीणपरिशीर्णाभ्याम् ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
  **विशिखायां सौवर्णिकप्रचारं** इति सूत्रम् ।विशिखायां विशिखेह सौवर्णिकविपणिः तस्यां सौवर्णिकप्रचारः सौचर्णिकस्य सुवर्णे नियुक्तस्य प्रचारो व्यापारः, सोऽभिधीयत इत्यर्थः । पूर्वाध्याये शिल्पवत्त्वाभिजात्यप्रात्ययिकत्वादिगुणयुक्तं विशिखायां सौवर्णिकं कुर्यादित्युक्तम्। तस्य व्यापारस्तु नोक्तः । स इहोच्यत इति सम्बन्धः ।
 
@@ -5706,7 +5706,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** वर्णहीने माषावरे पूर्वःसाहसदण्डः, प्रमाणहीने मध्यमः, तुलाप्रतिमानोपधावुत्तमः, कृतभाण्डोपधौ च ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 प्रतिगृह्णीयुःस्वार्पितवर्णप्रमाणकमेव निक्षेपं प्रतिगृह्णीयुः, न तु तदभ्यधिकवर्णप्रमाणकं कालातिपातदोषापदेशेन प्रार्थयेयुः, न वा पुत्रादीनां वेतनहानिर्दण्डो वेत्यभिप्रायः । अपरा व्याख्या — कालान्तरादपि देशविभ्रमादिनिमित्ते कालातिपाते जातेऽपि, तथाविधमेव यथानिक्षिप्तमघटितमेव, अर्पयेयुःकारवः, निक्षेपकाश्च प्रतिगृह्णीयुरिति । तत्रापवादमाह — क्षीणपरिशीर्णाभ्यामन्यत्र उपभोगघृष्टं प्रच्युतावयवं च निक्षेपमपहाय ।क्षीणपरिशीर्णयोस्तु दण्डो दाप्य एव ।
 
@@ -5726,7 +5726,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सन्नामिन्युत्कीर्णिका भिन्नमस्तकोपकण्ठी कुशिक्या सकटुकक्ष्या**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
  सौवर्णिकेनाननुमतं विशिखायाम् अनुमतमपि वा विशिखातोऽन्यत्रालङ्कारादिनिर्माणं कारयतः कर्तुश्च दण्डमाह —**सौवर्णिकने**त्यादि । सापसारश्चेदिति कारयिता यदि सापसारस्तदायं दण्ड इत्यर्थः। अपसारोऽपसरणं तच्च स्वर्णादेः स्वामिशुद्धागमप्रतिपादनेन चोरशङ्काकलङ्कादात्मव्यावृत्तिः, तद्वान् सापसारः।अनपसारविषये त्वाह — **अनपसार** इति । अनपसारश्चेत् कारयिता, कण्टकशोधनाय वाक्यकर्मानुयोगादिना शुद्धाशुद्धत्व निर्णयाय, नीयेत प्रदेष्टृसन्निधिम् । कर्तुश्च स्वर्णकार्वादेरनपसारस्य, द्विशतो दण्डो भवति । तस्य द्विशतपणदण्डदानासामर्थ्ये त्वाह — **पणच्छेदनं** वेति । पणच्छेदनं पणनसाधनपञ्चाङ्गुलिच्छेदनम् ।
 
@@ -5744,7 +5744,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** मूकमूषा पूतिकिट्टःकरटकमुखं नाली सन्दंशो जोङ्गनी सुवर्चिका लवणं तदेव सुवर्णमित्यपसारणमार्गाः । पूर्वप्राणहिता वा पिण्डवालुका मूषाभेदादग्निष्ठा उद्ध्रियन्ते ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 भिन्नमस्तका सरन्ध्राग्रा सा हि वाताभिमुखं धृता वातेन नामिता भवतीति, उपकण्ठी ग्रन्थिबहुला, कुशिक्या शिक्यं तोल्यवस्तुनिवेशाधारः तत् कुत्सितं यस्याः सा, सकटुकक्ष्या अप्रवणसूत्रा, पारिवेल्ली परिवेल्लः परिचलनं तद्वती, अयस्कान्ता अयस्कान्ताख्यलोहनिर्मिता, सा हि यतः स्वर्णं ततो याति । चः समुच्चये । अष्टावेता दुष्टतुलाः । इत्थं सम्भाविताष्टविधदुष्टतुलं तुलाविषमम् ।
 
@@ -5756,7 +5756,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** गाढश्चाभ्युद्धार्यश्च पेटकःसंयूह्यावलेप्यसङ्घात्येषु क्रियते । सीसरूपं सुवर्णपत्रेणावलिप्तमभ्यन्तरमष्टकेन वद्धं गाढपेटकः । स एव पटलसम्पुटेष्वभ्युद्धार्थः । पत्रमाश्लिष्टं यमकपत्रं वावलेप्येषु क्रियते ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)मर्थः— आकरोद्गते मूकमूषायामावर्त्यमाने शुद्धसुवर्णे लोहमलहरणव्याजेन सुवार्चिकालवणक्षेपव्याजेन च त्रिपुटकादिकमपद्रव्यं प्रक्षिप्यं करटमुखादिना साधनेन शुद्धसुवर्णमपहरन्ति सुवर्णकाराः कृतकच्छायमीदृशमेव सुवर्णमाकरादुद्गतमिति वदन्त इति । हरणोपायविकल्पमाह — **पूर्वप्रणिहिता** **वे**ति । पूर्वप्रणिहिताः पूर्वमेवाग्नौ प्रक्षिप्ताः, पिण्डवालुका वा अपसारणमार्गा इति सम्बध्यते। द्रव्यधात्वनुगमपरिगृहीततच्छायाःसूक्ष्मवालुकाःद्रवीभूतेन रूब्येण सुवर्णेन वा सम्पर्कात् पिण्डतां प्रतिपन्नाः पिण्डवालुकाः। उपायीभावप्रकारमाह —**मृषाभेदादग्निष्ठा उद्ध्रियन्त इति ।** पूर्वमेवाग्निप्रक्षिप्तपिण्डवालुकाप्रमाणं सारद्रव्यमपहृत्य मूषा भिन्नत्यपदेशेन तत्सम्पृक्तास्ता एव पिण्डवालुकास्तत्स्वामिसमक्षमग्नेरुद्ध्रियन्त इत्यर्थः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>मर्थः— आकरोद्गते मूकमूषायामावर्त्यमाने शुद्धसुवर्णे लोहमलहरणव्याजेन सुवार्चिकालवणक्षेपव्याजेन च त्रिपुटकादिकमपद्रव्यं प्रक्षिप्यं करटमुखादिना साधनेन शुद्धसुवर्णमपहरन्ति सुवर्णकाराः कृतकच्छायमीदृशमेव सुवर्णमाकरादुद्गतमिति वदन्त इति । हरणोपायविकल्पमाह — **पूर्वप्रणिहिता** **वे**ति । पूर्वप्रणिहिताः पूर्वमेवाग्नौ प्रक्षिप्ताः, पिण्डवालुका वा अपसारणमार्गा इति सम्बध्यते। द्रव्यधात्वनुगमपरिगृहीततच्छायाःसूक्ष्मवालुकाःद्रवीभूतेन रूब्येण सुवर्णेन वा सम्पर्कात् पिण्डतां प्रतिपन्नाः पिण्डवालुकाः। उपायीभावप्रकारमाह —**मृषाभेदादग्निष्ठा उद्ध्रियन्त इति ।** पूर्वमेवाग्निप्रक्षिप्तपिण्डवालुकाप्रमाणं सारद्रव्यमपहृत्य मूषा भिन्नत्यपदेशेन तत्सम्पृक्तास्ता एव पिण्डवालुकास्तत्स्वामिसमक्षमग्नेरुद्ध्रियन्त इत्यर्थः ।
 
  विस्त्रावणमाह — **पश्चादित्या**दि । **पश्चाद्बन्धने पूर्वं निर्मितस्य** उत्तरकालसन्धानप्रसङ्गे, आचितकपत्रपरीक्षायां वा प्रचुरघटितपत्रपरीक्षाप्रसक्तौ वा, रूप्यरूपेण परिवर्तनं रजतभाण्डप्रक्षेपेण सुवर्णमयस्य विनिमानं, विस्रावणम् । इत्येको विस्रावणप्रकारः।अपरमाह — पिण्डेत्यादि । पिण्डवालुकानां सुवर्णाकरसम्भूतानां, लोहपिण्डवालुकाभिःलोहाकरसम्भूताभिर्वालुकाभिः परिवर्तनं वा विस्रावणम् ।
 
@@ -5768,7 +5768,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** घनसुपिरे वा रूपे सुवर्णसृन्मालुकाहिङ्गुलुककल्को वा तप्तोऽवतिष्ठते । दृढवास्तुके वा रूपे वालुकामिश्रजतुगान्धारपङ्को वा तप्तोऽव-**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)हरणप्रकारः । अथ सारार्धभागेषु लेप्येषु हरणप्रकारमाह— **पत्रामात।** पत्रं सुवर्णपत्रम्, आश्लिष्टम् एकपार्श्वयोजितं, यमकपत्रं वा उभयपार्श्वयोजितं वा अबलेप्येषु, क्रियते । बहिःपत्रमुक्त्वा गर्भपत्रमाह — शुल्बंतारं वा, पत्राणां सुवर्णपत्राणां, गर्भः क्रियते । सङ्घात्यविषयं विधिमाह — **सङ्घात्येष्विति ।** सङ्घात्येषु विषये, शुल्बरूपं ताम्रभाण्डं, सुवर्णपत्रसंहतम् एकपार्श्वंसुवर्णपत्रच्छादितं, प्रमृष्टं प्रकर्षणोज्ज्वलितं, सुपार्श्व शोभनैक पार्श्वे, क्रियते । तदेव शुल्बरूपं, यमकपत्रसंहतम् उभयपार्श्वयोः सुवर्णपत्रावच्छादितं, प्रमृष्टं, क्रियते । पूर्वस्य सुपार्श्वमिति संज्ञा समनन्तरस्य प्रभृष्टमिति संज्ञेत्येके । **ताम्रताररूपं च उत्तरवर्णक** इति । न केवलं सुवर्णपत्रं यथोक्तमवच्छादनार्थमुपयुज्यते, किन्तु ताम्रभाण्डरजतभाण्डे अपीत्यर्थः । ताभ्यां पुनवैचित्यात् कृष्णायसादिभाण्डमवच्छाद्यं भवतीत्यवगन्तव्यम् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>हरणप्रकारः । अथ सारार्धभागेषु लेप्येषु हरणप्रकारमाह— **पत्रामात।** पत्रं सुवर्णपत्रम्, आश्लिष्टम् एकपार्श्वयोजितं, यमकपत्रं वा उभयपार्श्वयोजितं वा अबलेप्येषु, क्रियते । बहिःपत्रमुक्त्वा गर्भपत्रमाह — शुल्बंतारं वा, पत्राणां सुवर्णपत्राणां, गर्भः क्रियते । सङ्घात्यविषयं विधिमाह — **सङ्घात्येष्विति ।** सङ्घात्येषु विषये, शुल्बरूपं ताम्रभाण्डं, सुवर्णपत्रसंहतम् एकपार्श्वंसुवर्णपत्रच्छादितं, प्रमृष्टं प्रकर्षणोज्ज्वलितं, सुपार्श्व शोभनैक पार्श्वे, क्रियते । तदेव शुल्बरूपं, यमकपत्रसंहतम् उभयपार्श्वयोः सुवर्णपत्रावच्छादितं, प्रमृष्टं, क्रियते । पूर्वस्य सुपार्श्वमिति संज्ञा समनन्तरस्य प्रभृष्टमिति संज्ञेत्येके । **ताम्रताररूपं च उत्तरवर्णक** इति । न केवलं सुवर्णपत्रं यथोक्तमवच्छादनार्थमुपयुज्यते, किन्तु ताम्रभाण्डरजतभाण्डे अपीत्यर्थः । ताभ्यां पुनवैचित्यात् कृष्णायसादिभाण्डमवच्छाद्यं भवतीत्यवगन्तव्यम् ।
 
  पेटकस्य परीक्षामाह — **तदुभयमिति ।** तदुभयं गाढपेटकम् अभ्युद्धार्यपेटकं च तापनिकषाभ्याम् अग्नितापननिकपघर्षणाभ्यां निशब्दोलेखनाभ्यां वा निश्शब्दं शब्दहीनं छेदनम् उल्लेखनं तीक्ष्णमुखलेखनं ताभ्यां वा, विद्यांत् । अभ्युद्धार्येविशेषमाह — अभ्युद्धार्यं, बदराम्ले कर्कन्धूफलरसे, लवणोदके वा, साद्रयन्ति निवेशयन्ति ।तथा करणे लोहितवर्णः सञ्जायत इति भाषाटीका । इति पेटकः व्याख्यात इति शेषः ।
 
@@ -5778,7 +5778,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तस्माद् वज्रमणिमुक्ताप्रवालरूपाणां जातिरूपवर्णप्रमाणपुद्गललक्षणान्युपलभेत ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)पीठबन्धे अलङ्कारे वा, वालुकामिश्रः पिण्डवालुकायुक्तः जतुगान्धारपङ्कः लाक्षासिन्दूरपङ्कः, तप्तोऽवतिष्ठते । तत्र शुद्धिमाह — तयोः घनसुषिर-दृढवास्तुक-योर्विषये, तापनं दाह, अवध्वंसनं वा ताडनं वा, शुद्धिः शोधनोपायः । सपरिभाण्डे रूपे पृषतमणिबन्धे, लवणम्, उल्कया ज्वालया, कटुशर्करया तप्तं मृदुपाषाणविशेषेण सह तप्तम्, अवतिष्ठते । तस्य, क्वाथनम् अर्थाद् बदराम्लोदके, शुद्धिः शुद्धिहेतुः । पिङ्कस्स प्रकारान्तरमाह — **अभ्रे**त्यादि । अभ्रपटलं काचमणिः, अष्टकेन द्विगुणवास्तुके लाक्षादिना द्विगुणावगाढबन्धे, रूपे, बध्यते सम्बध्यते अवतिष्ठत इत्यर्थः । तत्परीक्षामाह — तस्येति । तस्य प्रत्युप्तमणेरन्तरवच्छादितकाचस्य सुवर्णाभरणस्य, उदके निमज्जतः परीक्षार्थं बदराम्लोदके प्रक्षिप्तस्य, एकदेशः सीदति अभ्रपटलरहितोऽवयवो गुरुत्वादधो गच्छति । अर्थादेकदेशान्तरमभ्रपटलयुक्तं लघुत्वादधो न गच्छति । अभ्रपटलातिरिक्तताम्रपटलादिविषये तु सूच्या भेदनमेव शुद्धिज्ञानोपाय इत्याह — **पटलान्तरेष्विति ।**पुनः पिङ्कस्य घनसुषिराभरणविषये त्रीन् प्रकारानाह—**मणय** इति । घनसुषिराणां घनसुषिराभरणविषये, मणयः पिङ्कः काचमणयो जात्यमणिहरणोपायः, रूप्यं पिङ्कः रजतं सुवर्णहरणोपायः, सुवर्णं पिङ्कः अशुद्धं स्वर्णं शुद्धस्वर्णहरणोपायः । तत्र शोधनप्रकारमाह — तस्येत्यादि । इति **पिङ्कः** व्याख्यात इति शेषः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>पीठबन्धे अलङ्कारे वा, वालुकामिश्रः पिण्डवालुकायुक्तः जतुगान्धारपङ्कः लाक्षासिन्दूरपङ्कः, तप्तोऽवतिष्ठते । तत्र शुद्धिमाह — तयोः घनसुषिर-दृढवास्तुक-योर्विषये, तापनं दाह, अवध्वंसनं वा ताडनं वा, शुद्धिः शोधनोपायः । सपरिभाण्डे रूपे पृषतमणिबन्धे, लवणम्, उल्कया ज्वालया, कटुशर्करया तप्तं मृदुपाषाणविशेषेण सह तप्तम्, अवतिष्ठते । तस्य, क्वाथनम् अर्थाद् बदराम्लोदके, शुद्धिः शुद्धिहेतुः । पिङ्कस्स प्रकारान्तरमाह — **अभ्रे**त्यादि । अभ्रपटलं काचमणिः, अष्टकेन द्विगुणवास्तुके लाक्षादिना द्विगुणावगाढबन्धे, रूपे, बध्यते सम्बध्यते अवतिष्ठत इत्यर्थः । तत्परीक्षामाह — तस्येति । तस्य प्रत्युप्तमणेरन्तरवच्छादितकाचस्य सुवर्णाभरणस्य, उदके निमज्जतः परीक्षार्थं बदराम्लोदके प्रक्षिप्तस्य, एकदेशः सीदति अभ्रपटलरहितोऽवयवो गुरुत्वादधो गच्छति । अर्थादेकदेशान्तरमभ्रपटलयुक्तं लघुत्वादधो न गच्छति । अभ्रपटलातिरिक्तताम्रपटलादिविषये तु सूच्या भेदनमेव शुद्धिज्ञानोपाय इत्याह — **पटलान्तरेष्विति ।**पुनः पिङ्कस्य घनसुषिराभरणविषये त्रीन् प्रकारानाह—**मणय** इति । घनसुषिराणां घनसुषिराभरणविषये, मणयः पिङ्कः काचमणयो जात्यमणिहरणोपायः, रूप्यं पिङ्कः रजतं सुवर्णहरणोपायः, सुवर्णं पिङ्कः अशुद्धं स्वर्णं शुद्धस्वर्णहरणोपायः । तत्र शोधनप्रकारमाह — तस्येत्यादि । इति **पिङ्कः** व्याख्यात इति शेषः ।
 
 ** तस्मादि**ति । उच्चावचहरणोपायसम्भवात् वज्रमणिमुक्ताप्रवालरूपाणां वज्रादिरूपाणां चतुर्णां, जातिरूपवर्णप्रमाणपुद्गललक्षणानि जातिरुत्पत्तिः रूपमाकारः वर्णो रागः प्रमाणं माषकादिपरिमाणं पुद्गलमाभरणं लक्षणं लक्ष्म, एतानि, उपलभेत विद्यात् ।
 
@@ -5786,7 +5786,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** भग्नखण्डघृष्टानां संयूह्यानां सदृशेनानुमानं कुर्यात् । अव-**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg) इदानीं कृतभाण्डपरीक्षणविषयं परिकुट्टनादिकं हरणोपायचतुष्टयमाह **— कृतेत्यादि ।** पुराणभाण्डप्रतिसंस्कारे वा जीर्णभाण्डनवीकरणे वा । परिकुट्टनांदिकं लक्षयति — **पेटके**त्यादि । पेटकापदेशेन पूर्वोक्त पेटकपरीक्षणव्याजेन, पृषतं क्षुद्रगुटिकां गुणं कटकाद्यंशमल्पं, पिटकां वा बृहदंशं वा, यत् परिशातयन्ति पातयन्ति, तत् परिकुट्टनं तदाख्यम् ।द्विगुणवास्तुकानां बहुपत्रपुटघटितानां, रूपे भाण्डे, सीसरूपं सीसपत्रं सुवर्णानुलिप्तं, प्रक्षिप्य अभ्यन्तरं सुवर्णपत्रं, यदवच्छिन्दन्ति अवच्छिद्यापहरन्ति, तदवच्छेदनं नाम । घनानां घननिर्मितानां, रूप इति वर्तते, तीक्ष्णेन निशितशस्त्रेण, यदुल्लिखन्ति, तद् उल्लेखनम् । हरितालमनश्शिलाहिङ्गुलकानाम् अन्यतमचूर्णेन वा, कुरुविन्दाख्यपाषाणविशेषचूर्णेन च, वस्त्रं, संयूह्य मिश्रयित्वा, यत् परिमृद्गन्ति यत् परिघर्षयन्ति, तत् परिमर्दनं तदाख्यम् । तेन परिमर्दनेन, सौवर्णराजतानि भाण्डानि, श्रीयन्ते प्रमाणहानिं प्राप्नुवन्ति । एषां भाण्डानाम् अवरुग्णं भङ्गः, किचिद् न च भवति मतागपि न भवति च । सोऽयं विनैव भाण्डभङ्गमपहरणोपायः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/> इदानीं कृतभाण्डपरीक्षणविषयं परिकुट्टनादिकं हरणोपायचतुष्टयमाह **— कृतेत्यादि ।** पुराणभाण्डप्रतिसंस्कारे वा जीर्णभाण्डनवीकरणे वा । परिकुट्टनांदिकं लक्षयति — **पेटके**त्यादि । पेटकापदेशेन पूर्वोक्त पेटकपरीक्षणव्याजेन, पृषतं क्षुद्रगुटिकां गुणं कटकाद्यंशमल्पं, पिटकां वा बृहदंशं वा, यत् परिशातयन्ति पातयन्ति, तत् परिकुट्टनं तदाख्यम् ।द्विगुणवास्तुकानां बहुपत्रपुटघटितानां, रूपे भाण्डे, सीसरूपं सीसपत्रं सुवर्णानुलिप्तं, प्रक्षिप्य अभ्यन्तरं सुवर्णपत्रं, यदवच्छिन्दन्ति अवच्छिद्यापहरन्ति, तदवच्छेदनं नाम । घनानां घननिर्मितानां, रूप इति वर्तते, तीक्ष्णेन निशितशस्त्रेण, यदुल्लिखन्ति, तद् उल्लेखनम् । हरितालमनश्शिलाहिङ्गुलकानाम् अन्यतमचूर्णेन वा, कुरुविन्दाख्यपाषाणविशेषचूर्णेन च, वस्त्रं, संयूह्य मिश्रयित्वा, यत् परिमृद्गन्ति यत् परिघर्षयन्ति, तत् परिमर्दनं तदाख्यम् । तेन परिमर्दनेन, सौवर्णराजतानि भाण्डानि, श्रीयन्ते प्रमाणहानिं प्राप्नुवन्ति । एषां भाण्डानाम् अवरुग्णं भङ्गः, किचिद् न च भवति मतागपि न भवति च । सोऽयं विनैव भाण्डभङ्गमपहरणोपायः ।
 
  परिकुट्टनादिकृतं वर्णकणिकादिपातनम् एतावदिति कथं निर्णेतव्यं तत्राह — भग्नेत्यादि । संयूह्यानां दृढपत्रघटितभाण्डानां, भग्नखण्डघृष्टानां भ्रग्नंपरिकुट्टनशातितं खण्डमवच्छेदनहृतं घृष्टमुल्लेखनपरिमर्दनकर्मापहृतम् एषां भग्नादीनां, सदृशेनानुमानं कुर्यात् सजातीयावयवप्रमाणेन लिङ्गेनानुमितिं कुर्यात् भग्नस्यावयवस्याभग्नावयवप्रमाणेन खण्डस्याखण्डावयवप्रमाणेन घृष्टस्याघृष्टावयवप्रमाणेन चेयत्तां निश्चिनुयादित्यर्थः । अवलेप्यानामिति । अव-
 
@@ -5796,7 +5796,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** राजतानां विस्रं मलग्राहि परुषं प्रस्तीतं विवर्ण वा दुष्टमितिविद्यात् ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)लेप्यानां तनुपत्रघटितभाण्डानां यावदुत्पाटितं तावदुलाट्यानुमानं कुर्यात् यावानशोऽवच्छिद्य गृहीतस्तावन्तमपरमंशमवच्छिद्य तत्प्रतिमानेनापहृतांशमानं निश्चिनुयात् । **विरूपाणा**मिति ।विरूपाणां वा प्रचुरापद्रव्यामिश्रणेन हौनवर्णकतामापादितानां सुवर्णभाण्डानां च सदृशेनानुमानं कुर्यादित्यनुवर्तते, प्रतिमिततदीयैकांशस्य शुद्धीकरणेन वर्णहानीयत्तां विज्ञाय तत्सादृश्येन शेषांशानां वर्णहानीयत्तामभ्यूहेदित्यर्थः । शोधनप्रकारमाह — **तापनमि**ति । तापनं पत्रीकृत्याग्नौ दहनम्, उदकपेषणं च तप्तमुदके प्रक्षिप्य चुक्रिकायोजनेन कुट्टनं च, बहुशो बहुकृत्वः, कुर्याद् यावद् चैवर्ण्यमपैति तावदित्यार्थम् । इयत्तानिर्णयफलं तु ‘वर्णहीने मापकावरे पूर्वः साहसदण्ड’ इत्यादि पूर्वोक्तदण्डविधानम् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>लेप्यानां तनुपत्रघटितभाण्डानां यावदुत्पाटितं तावदुलाट्यानुमानं कुर्यात् यावानशोऽवच्छिद्य गृहीतस्तावन्तमपरमंशमवच्छिद्य तत्प्रतिमानेनापहृतांशमानं निश्चिनुयात् । **विरूपाणा**मिति ।विरूपाणां वा प्रचुरापद्रव्यामिश्रणेन हौनवर्णकतामापादितानां सुवर्णभाण्डानां च सदृशेनानुमानं कुर्यादित्यनुवर्तते, प्रतिमिततदीयैकांशस्य शुद्धीकरणेन वर्णहानीयत्तां विज्ञाय तत्सादृश्येन शेषांशानां वर्णहानीयत्तामभ्यूहेदित्यर्थः । शोधनप्रकारमाह — **तापनमि**ति । तापनं पत्रीकृत्याग्नौ दहनम्, उदकपेषणं च तप्तमुदके प्रक्षिप्य चुक्रिकायोजनेन कुट्टनं च, बहुशो बहुकृत्वः, कुर्याद् यावद् चैवर्ण्यमपैति तावदित्यार्थम् । इयत्तानिर्णयफलं तु ‘वर्णहीने मापकावरे पूर्वः साहसदण्ड’ इत्यादि पूर्वोक्तदण्डविधानम् ।
 
  पूर्वोक्ताकरोद्भवापसारणमार्गतिरेकिणोऽवक्षेपादीन् सप्तदश हरणोपायानह — **अवक्षेप** इति । अवक्षेपः हस्तलाघवेन सारमपहत्यापद्रव्यप्रक्षेपः, प्रतिमानं तद्विनिमयादि, अग्निःअग्निमध्ये हरणप्रयोगः, गण्डिका काष्ठाधिकरणी रत्नप्रतिवापाधारकाष्ठं, भण्डिका उपस्काराधारः स्वर्णद्रवनिषेकसाधनम् अधिकरणी अयस्पात्रविशेषः, पिञ्छः मयूरबर्हः, सूत्रं सुवर्णतुलातन्तुः, चेल्लं वस्त्रं, बेल्लनं कथाव्याजेन द्रष्ट्वचित्तव्याक्षेपकरणं, चेल्लबोल्लनमिति समस्तपाठे वस्त्रपटलिया, शिरः,शीर्षकंण्डूयनादि, उत्सङ्गः अङ्कः उपलक्षणाद् गुह्यप्रदेशश्च मक्षिका मक्षिकानिवारणव्याजेन निर्यासद्रवलिप्तस्वाङ्गसंश्लेषणं, स्वकार्येक्षा स्वेदादिदर्शनव्याजः, दृतिः ध्मानभस्त्रा, उदकशरावं जलपात्रम्, अग्निष्ठम् अग्निप्रक्षिप्तमपद्रव्यम् इति एवम्प्रकारं, काचम् अपहरणोपायं, विद्यात् ।
 
@@ -5811,7 +5811,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **\_\_\_\_\_\_\_\_\_\_\_**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)ग्राहि मलिनम् ।परुषं खरस्पर्शम् । प्रस्तीतं कठिनम् ।विवर्णम् अपद्रव्यमिश्रणोपहतनिजप्रभम् । एतच्छोधनप्रकारस्तु ‘अस्थितुत्थे चतुः समसीसे चतुः’ इत्यादिना पूर्वाध्याये दर्शित एव ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>ग्राहि मलिनम् ।परुषं खरस्पर्शम् । प्रस्तीतं कठिनम् ।विवर्णम् अपद्रव्यमिश्रणोपहतनिजप्रभम् । एतच्छोधनप्रकारस्तु ‘अस्थितुत्थे चतुः समसीसे चतुः’ इत्यादिना पूर्वाध्याये दर्शित एव ।
 
  अध्यायान्ते श्लोकमाह — **एवमित्या**दि । विरूपम् अपद्रव्यमिश्रण दूषितम् । अत्ययं दण्डम्। यथोद्दिष्टं ‘वर्णहीने माषकावरे’ इत्यादिना विहितप्रकारम् । प्रकल्पयेत् प्रकर्षेण कल्पयेत् अवश्यं प्रयुञ्जीतेत्यर्थः । उदाहृतौचात्र भट्टस्वामिना बार्हस्पत्यौ श्लोकौ—
 
@@ -5833,7 +5833,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पिण्डकरः, पड्भागः, सेनाभक्तं, वलिः, करः, उत्सङ्गः, पार्श्वं, पारिहीणिकम्, औपायनिकं, कौष्ठेयकं च राष्ट्रम् ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 **कोष्टागराध्यक्ष** इति सूत्रम् । कोष्ठमुदरं तेन तदर्थानि धान्यस्नेहक्षारलवणादीन्यभ्यबहार्यद्रव्याणि लक्ष्यन्ते, तेषामगारं संग्रहसंगोपनस्थानं तस्य अध्यक्षःकोष्ठागाराध्यक्षः अर्थात् **तद्व्यापारः** स इहाभिधीयत इति सूत्रार्थः ।
 
  प्रक्रान्तायाः **कोशप्रकृतेराकरकर्मान्तप्रवर्तनादिनोत्पादनरक्षणादिकमुक्तम् ।** शरीरस्थितिहेतुतया प्रधानस्य धान्यादेरुत्पादनरक्षणव्ययप्रकारादिकं तु मोक्तम् । तदिहोपदिश्यत इति सम्बन्धः । यद्वा ‘सन्निधाता कोशगृह कोष्ठागारं पण्यगृहं कुप्यगृहमायुधागारं बन्धनागारं च कारयेद्’इति कोष्ठागारकरणं पूर्वमुक्तम् । तदध्यक्षत्र्यापारस्त्वनभिहित इदानीमभिधीयत इति सङ्गतिः ।
@@ -5854,7 +5854,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कुट्टकरोचकसक्तुशुक्तपिष्टकर्म तज्जीवनेषु तैलपीडनमौरभ्रचाक्रिकेष्विक्षूणां च क्षारकर्म सिंहनिका ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)ष्पदविनाशितसस्यदण्डलभ्यम्, औपायनिकम् उपायनार्थं कौशेयादिकं, कौष्ठेयकं च राजस्थापिततटाकारामाद्युत्पन्नं च, इत्येवं दशप्रकारं राष्ट्रम् । पूर्वं समाहर्तृसमुदयप्रस्थापनाध्याये राष्ट्रान्तर्गतो बलिरुक्तः पार्श्वपारिहीणिकानि चान्यजातान्तर्गतान्युक्तानि । तेषामिह पुनःपाठः समाहर्त्रुत्पादितानामपि कोष्ठागारप्रवेश्यतां ज्ञापयितुम् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>ष्पदविनाशितसस्यदण्डलभ्यम्, औपायनिकम् उपायनार्थं कौशेयादिकं, कौष्ठेयकं च राजस्थापिततटाकारामाद्युत्पन्नं च, इत्येवं दशप्रकारं राष्ट्रम् । पूर्वं समाहर्तृसमुदयप्रस्थापनाध्याये राष्ट्रान्तर्गतो बलिरुक्तः पार्श्वपारिहीणिकानि चान्यजातान्तर्गतान्युक्तानि । तेषामिह पुनःपाठः समाहर्त्रुत्पादितानामपि कोष्ठागारप्रवेश्यतां ज्ञापयितुम् ।
 
 ** धान्यमूल्यमि**ति । धान्यमूल्यं धान्यविक्रयहिरण्यं, कोशनिर्हारः हिरण्येन धान्यक्रयः, प्रयोगप्रत्यादानं वृद्धिप्रयुक्तधान्यप्रवेशनम्, इत्येवं त्रिप्रकारं क्रयिमम् ।
 
@@ -5876,7 +5876,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** धान्यकल्पं सीताध्यक्षेवक्ष्यामः ।सर्पिस्तैलवसामज्जानः स्नेहाः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 र्तनात् तैलपीडनकर्मोपजीवनार्थं तेभ्यो यद् गृह्यते तदित्यर्थः, इक्षूणां क्षारकर्म च फाणितगुडखण्डादिकर्म च तत्कर्मोपजीविभ्यो यदुपादीयते तच्चेत्यर्थः । संहनिकेतितु व्याख्यापाठः सुप्ठु ।
 
@@ -5905,7 +5905,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** दधिधान्याम्लादिर्द्रवाम्लवर्गः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  **इक्षुविकारमेदाः** फाणितादयः क्षारवर्ग इत्याह — **फाणिते**त्यादि । गुडखण्डशर्करयोर्मध्यमावस्था मत्स्याण्डका।
 
@@ -5929,7 +5929,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कोद्रवव्रीहीणामर्धंसारः, शालीनामष्टभागोनः, त्रिभागोनो**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)** पिप्पली**त्यादि । पिप्पल्यादित्रिकं प्रसिद्धं, अजाजी जीरकः, किराततिक्तः भूनिम्बाख्य ओषधिविशेषः, गौरसर्षपः सिद्धार्थः, कुस्तुम्बुरु धान्याख्यं, चोरकः शतपुष्पानुकारी गुच्छ इति स्वामी, दमनकं कान्ताख्यं, मरुवकः पिण्डीतकः, शिग्रुकाण्डः शोभाञ्जनकाण्डः, आदिग्रहणं राजसर्षपाद्यर्थम् । इत्येवञ्जातीयः कटुकवर्गः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>** पिप्पली**त्यादि । पिप्पल्यादित्रिकं प्रसिद्धं, अजाजी जीरकः, किराततिक्तः भूनिम्बाख्य ओषधिविशेषः, गौरसर्षपः सिद्धार्थः, कुस्तुम्बुरु धान्याख्यं, चोरकः शतपुष्पानुकारी गुच्छ इति स्वामी, दमनकं कान्ताख्यं, मरुवकः पिण्डीतकः, शिग्रुकाण्डः शोभाञ्जनकाण्डः, आदिग्रहणं राजसर्षपाद्यर्थम् । इत्येवञ्जातीयः कटुकवर्गः ।
 
  **शुष्के**त्यादि । शुष्कशब्दो मत्स्यमांसयोः प्रत्येकं सम्बध्यते । शुष्कमत्स्यः शुष्कमीनः, शुष्कमांसं वल्लूरं, कन्दः सूरणादिः, मूलं शतमूलीप्रभृति, फलं वार्ताकादि, शाकं वास्तुकादि, आदिग्रहणान्माषविकारादिपरिग्रहः । इत्ययं शाकवर्गः ।
 
@@ -5947,7 +5947,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कोद्रववरकोदारकप्रियङ्गूणां त्रिगुणमन्नं चतुर्गुणं ब्रीहीणाम्**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)भागोनः प्रकृत्यष्टमांशन्यूनः, अर्धं सार इति वर्तते । तेन शालीनां प्रस्थाष्टकस्य प्रस्थत्रयं सारो भवति । वरकाणां धान्यभेदानां, त्रिभागोनः प्रस्थत्रये प्रस्थद्वयं सारो भवति । प्रियगुणां कङ्गूनाम्, अर्धं सारः नवभागवृद्धिश्च अष्टसु प्रस्थेषु प्रस्थपञ्चकं तण्डुलानां भवति । उदारकः तृणकोलकः, तुल्यः प्रियङ्गुतुल्यसारः अनवहतावस्थाप्रमाणतुल्यसारो वा भवति । तत्राद्यः शुष्कावघाते, सजलावघाते पर इति विवेकः ।यवाः, गोधूमाश्च, क्षुण्णाः सजलावहताः, तुल्याः अनवहतावस्थाप्रमाणतुल्यसाराः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>भागोनः प्रकृत्यष्टमांशन्यूनः, अर्धं सार इति वर्तते । तेन शालीनां प्रस्थाष्टकस्य प्रस्थत्रयं सारो भवति । वरकाणां धान्यभेदानां, त्रिभागोनः प्रस्थत्रये प्रस्थद्वयं सारो भवति । प्रियगुणां कङ्गूनाम्, अर्धं सारः नवभागवृद्धिश्च अष्टसु प्रस्थेषु प्रस्थपञ्चकं तण्डुलानां भवति । उदारकः तृणकोलकः, तुल्यः प्रियङ्गुतुल्यसारः अनवहतावस्थाप्रमाणतुल्यसारो वा भवति । तत्राद्यः शुष्कावघाते, सजलावघाते पर इति विवेकः ।यवाः, गोधूमाश्च, क्षुण्णाः सजलावहताः, तुल्याः अनवहतावस्थाप्रमाणतुल्यसाराः ।
 
  क्षुण्णानुक्त्वा घृष्टानाह — **तिला** इत्यादि । घृष्टाः दलिताः, तिलाः, यवाः, मुद्गमावाश्च, तुल्या इति वर्तते, अघृष्टावस्थातुल्यप्रमाणाः । गोधूमः, पञ्चभागवृद्धिः पञ्चभागेन वर्धते । सक्तवश्च भृष्टयवजाः पञ्चभागवृद्धयः । कलायचमसी कलावश्चणमेदः तस्य चमसी श्लक्ष्णचूर्णं, पादोना कलाय प्रस्थचतुष्टयस्य तच्चूर्णं प्रस्थत्रयप्रमाणं भवति । मुद्गमाषाणाम् मुद्गानां माषाणां च चमसी, अर्धपादोनाष्टभागेन ऊना भवति । शैम्बानां कुलत्थादिकोशीधान्यानाम्, अर्धं, सारः वितुषांशो भवति । मसूराणां चणविशेषाणां, त्रिभागोनः सारः प्रस्थत्रयदलने प्रस्थद्वयं सारो भवति ।
 
@@ -5969,7 +5969,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पञ्चद्रोणे शालीनां द्वादशाढकं तण्डुलानां कलभभोजनम्, एका दशकं व्यालानां, दशकमौपवाह्यानां, नवकं सान्नाह्यानाम्, अष्टकं**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 शालीनामिति भाषाटीकायां पाठो भाति । **तिमितमि**ति । तिमितं लवनाद्यवसरे केदारादावार्द्रीकृतवीह्याद्यन्नम् अपरान्नम् अपरिणतब्रीह्याद्यन्नं च द्विगुणं भवति । विरूढानाम् अङ्कुरितानां ब्रीह्यादीनाम्, अर्थादन्नम्, अर्धाधिकम् अर्धाधिकद्विगुणं भवति । अपरा व्याख्या — तिमितम् आर्द्रीकृतम्, अपरान्नं फनलाढकीचणकादि, द्विगुणं भवति । चणकादीनामेव विरूढानाम् अङ्कुरितानाम्, अर्धाधिकम् अर्धमधिकमार्द्रीकृताद् भवति इति।
 
@@ -5987,7 +5987,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** मांसपलविंशत्या स्नेहार्धकुडुबः, पलिको लवणस्यांशः, क्षार-**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)दशाढकक्रमेण साधितास्तण्डुलाः, विनियोज्याः। सान्नाह्यानां समरोचितानां, नवकं नवाढकं विंशतौ नवाढकक्रमनिष्पन्नास्तण्डुलाः । पत्तीनां पदातीनाम्, अष्टकम् अष्टाढकम् अष्टाढकक्रमनिष्पन्नास्तण्डुलाः । मुख्यानां भटप्रधानानां, सप्तकं सप्ताढकं सप्ताढकक्रमनिष्पन्नास्तण्डुलाः। देवीकुमाराणां राजपत्नीनांराजपुत्राणां च, षट्कं षडाढकं षडाढकक्रमनिप्पन्नास्तण्डुलाः । सेयं पूर्वाभ्यःप्रतिपत्तिभ्य उत्तमा प्रतिपत्तिः । राज्ञां पुनरितोऽप्युत्तमामाह — **राज्ञामिति।** राज्ञां, पञ्चकं पञ्चाढकं शालिविंशत्याढके पञ्चाढकक्रमनिष्पन्नास्तण्डुलाः भोजनार्थे विनियोज्याः। तदेवमष्टौ वर्णिकारतण्डुलानां भक्तोपयोगिन्य उक्ताः । राजभोजने पक्षान्तरमाह — **अखण्डे**त्यादि । वाशब्दः पक्षान्तरे। अखण्डपरिशुद्धानाम् अक्षतावयवानां फलीकरणविवेचनसंशोधितानां च, तण्डुलानां, प्रस्थः आढकचतुर्भागः शाल्यशीतिप्रस्थादवहननादिसंस्कृताद् यथोक्तगुणैकतण्डुलप्रस्थग्रहणक्रमेण सम्पन्नस्तण्डुल इत्यर्थः।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>दशाढकक्रमेण साधितास्तण्डुलाः, विनियोज्याः। सान्नाह्यानां समरोचितानां, नवकं नवाढकं विंशतौ नवाढकक्रमनिष्पन्नास्तण्डुलाः । पत्तीनां पदातीनाम्, अष्टकम् अष्टाढकम् अष्टाढकक्रमनिष्पन्नास्तण्डुलाः । मुख्यानां भटप्रधानानां, सप्तकं सप्ताढकं सप्ताढकक्रमनिष्पन्नास्तण्डुलाः। देवीकुमाराणां राजपत्नीनांराजपुत्राणां च, षट्कं षडाढकं षडाढकक्रमनिप्पन्नास्तण्डुलाः । सेयं पूर्वाभ्यःप्रतिपत्तिभ्य उत्तमा प्रतिपत्तिः । राज्ञां पुनरितोऽप्युत्तमामाह — **राज्ञामिति।** राज्ञां, पञ्चकं पञ्चाढकं शालिविंशत्याढके पञ्चाढकक्रमनिष्पन्नास्तण्डुलाः भोजनार्थे विनियोज्याः। तदेवमष्टौ वर्णिकारतण्डुलानां भक्तोपयोगिन्य उक्ताः । राजभोजने पक्षान्तरमाह — **अखण्डे**त्यादि । वाशब्दः पक्षान्तरे। अखण्डपरिशुद्धानाम् अक्षतावयवानां फलीकरणविवेचनसंशोधितानां च, तण्डुलानां, प्रस्थः आढकचतुर्भागः शाल्यशीतिप्रस्थादवहननादिसंस्कृताद् यथोक्तगुणैकतण्डुलप्रस्थग्रहणक्रमेण सम्पन्नस्तण्डुल इत्यर्थः।
 
    ** चतुर्भाग** इति । सूपः चतुर्भागः प्रस्थस्य प्रकृतत्वात् तच्चतुर्थांशः । सूपषोडशः सूपस्य षोडशांशप्रमाणः, लवणस्यांशः । सर्पिषस्तैलस्य वा, चतुर्भागः—सूप्रचतुर्थभागः । **एकमार्यभक्त**मिति। तदिदमेकं मध्यमप्रतिपत्तिकस्य पुरुषस्य भोजनं भवति। अवरभोजनमाह —**प्रस्थेत्यादि**। अवराणां निकृष्टानां, प्रस्थषड्भागः सूपः । अर्धस्नेहं अर्धं सूपार्धभागः स्नेहस्तैलादिः यस्य तत् । लवणं तु समानमेव । भोजनस्यान्यपदार्थतामभिप्रेत्य नपुंसकनिर्देशः । पादोनं स्त्रीणामिति। पादन्यूनमार्यपुरुषभक्तमार्यस्त्रीणाम् अवरपुरुषभक्तमवरस्त्रीणां च यथायथं बोध्यम्। **अर्धं बालानामि**ति। पूर्ववद् यथायथमार्यबालानामवरबालानां च।
 
@@ -6001,7 +6001,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** द्विगुणं महिषोष्ट्राणाम् । अर्धद्रोणं खरपृषतरोहितानाम् । आढ-**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)भागः, योज्यः। लवणस्यांशः, पलिकः पलमितः। क्षारपलयोगः क्षारस्य सुवर्चिकायवक्षारादेः पलयोगः लवणाभावे। कटुकयोगः कटुकानां पिप्पलीमरिचशृङ्गबेराणां योगः, द्विधरणिकः धरणद्वयमानः। धरणप्रमाणं तु ‘अष्टाशीतिगौरसर्षपा रूप्यमाषकः, ते षोडश धरणमि’ति पौतवाध्यक्षे वक्ष्यते। दध्नश्च, अर्धप्रस्थः प्रस्थस्यार्धंकुडुबद्वयं भवति। 
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>भागः, योज्यः। लवणस्यांशः, पलिकः पलमितः। क्षारपलयोगः क्षारस्य सुवर्चिकायवक्षारादेः पलयोगः लवणाभावे। कटुकयोगः कटुकानां पिप्पलीमरिचशृङ्गबेराणां योगः, द्विधरणिकः धरणद्वयमानः। धरणप्रमाणं तु ‘अष्टाशीतिगौरसर्षपा रूप्यमाषकः, ते षोडश धरणमि’ति पौतवाध्यक्षे वक्ष्यते। दध्नश्च, अर्धप्रस्थः प्रस्थस्यार्धंकुडुबद्वयं भवति। 
 
 ** तेने**ति। तेन उक्तयोगमानेन, उत्तरम् अधिकं मांसपलत्रिंशच्चत्वारिंशदादीनां स्नेहादियोगमानमर्धगुणद्वैगुण्यादिरूपं, व्याख्यातं विवृतप्रायम् उन्नेतुं शक्यमित्यर्थः। शाकानां वास्तुकादीनां, स चैव मांसोक्त एव, अध्यर्धगुणः सार्धगुणो, योगः। यथा — शाकपलविंशत्या पादोनकुडुबः स्नेहः अध्यर्धपलिकं लवणम् अध्यर्धपलिकं क्षारमित्यादि। शुष्काणां मांसानां शाकानां च, द्विगुणः स्नेहः मांसविषये कुडुबपरिमाणः शाकविषयेऽध्यर्धकुडुबपरिमाण इत्यादिः।
 
@@ -6017,7 +6017,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **तुलामानभाण्डं रोचनीदृषन्मुसलोलूखलकुट्टकरोचकयन्त्रपत्रकशूर्पचालनिकाकण्डोलीपिटकसम्मार्जन्यश्चोपकरणानि ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)च। आढकं प्रस्थचतुष्टयम् एणकुरङ्गाणां एणानां कुरङ्गाणां च मृगभेदानाम्। अर्धाढकं प्रस्थद्वयम्, अजैलकवराहाणाम् । अत्र पक्षान्तरमाह — द्विगुणम् उक्तार्थाढकाद् द्विगुणमेकाढकं, कणकुण्डकं वा । प्रस्थौदनः प्रस्थपरिमितगन्नं शुनाम् । हंसक्रौञ्चमयूराणाम्, अर्धप्रस्थः द्विकुडुबमन्नम्। **शेषाणामिति।** अतः उक्तेभ्यः, शेषाणां मृगपशुपक्षिव्यालानाम्, एकभक्ताद् एकदिवसभुक्तपरीक्षणाद्, अनुमानं शेषदिवसभक्तेयत्तानिश्चयं, ग्राहयेत् कारयेत्।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>च। आढकं प्रस्थचतुष्टयम् एणकुरङ्गाणां एणानां कुरङ्गाणां च मृगभेदानाम्। अर्धाढकं प्रस्थद्वयम्, अजैलकवराहाणाम् । अत्र पक्षान्तरमाह — द्विगुणम् उक्तार्थाढकाद् द्विगुणमेकाढकं, कणकुण्डकं वा । प्रस्थौदनः प्रस्थपरिमितगन्नं शुनाम् । हंसक्रौञ्चमयूराणाम्, अर्धप्रस्थः द्विकुडुबमन्नम्। **शेषाणामिति।** अतः उक्तेभ्यः, शेषाणां मृगपशुपक्षिव्यालानाम्, एकभक्ताद् एकदिवसभुक्तपरीक्षणाद्, अनुमानं शेषदिवसभक्तेयत्तानिश्चयं, ग्राहयेत् कारयेत्।
 
     पाककर्मणि निष्पन्नानामङ्गाराणाम् अवघातनिष्पतितानां तुषाणां च विनियोगमाह— **अङ्गारानि**त्यादि। अङ्गारान् तुषांश्च, लोहकर्मान्तभित्तिलेप्यानां हारयेत् लोहकर्मान्तार्थे भित्तिलेप्यकर्मार्थे च सञ्चिनुयात् । भस्मादिसंग्रहस्याप्येतदुपलक्षणम्। भस्माद्यपि हि केदारादौ दोहदाद्यर्थे विनियुज्यते। कणिकाः तण्डुलकणान्, दासकर्मकरसूपकाराणां प्रयच्छेद्भक्तार्थे। अतोऽन्यद् दासादिदत्तशेषम् औदनिकापूपिकेभ्यः सामान्यान्नपाचर्केभ्यः अपूपकर्मकरेभ्यश्च, प्रयच्छेत् तत्कर्मविनियोगार्थे ।
 
@@ -6034,7 +6034,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
     कर्मकरानाह –– **मार्जकेत्या**दि । मार्जकः भूमिसंस्कारकः,आरक्षकः कोष्ठागाररक्षी, धारकस्तुलोन्माता,नायको धान्यमाता, मापकस्तदधिष्ठाता, दायको दाता, दापकस्तदधिष्ठाता, शलाकाप्रतिग्राहको भारयष्ट्यादिप्रतिग्राही, दासः क्रीतः, कर्मकरस्तादात्विकभृतिभुक्, वर्ग उक्तजातीयगण आहितकादिः, विष्टिरिति त एते मार्जकादयो विष्टिसंज्ञिताः ।
 
@@ -6054,7 +6054,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **स्वभूमिजानां राजपण्यानामेकमुखं व्यवहारं स्थापयेत्, पर-**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
   **पण्याध्यक्ष** इति सूत्रम् । पण्यं विक्रेयं राजद्रव्यं तस्य विक्रये कये च नियुक्तः पण्याध्यक्ष इति सूत्रार्थः। सन्निधातृनिचयकर्माभिहितम्। निचितस्य राजपण्यस्य क्रयविक्रयव्यवहार इदानीमुच्यत इति सम्बन्धः। अथवा ‘सन्निघाता कोशगृहं पण्यगृहं कोष्ठागारमि’त्यादिना पण्यगृहकरणमुक्तम्। तदध्यक्षस्तदध्यक्षव्यापारो वा नोक्तः । स इहोच्यत इति सम्बन्धः। ननु च पण्याध्यक्षकर्म नाम वाणिज्यम्। तच्च कृषिपाशुपाल्यसहपाठात् सीताध्यक्षगोध्यक्षाभ्यामनन्तरं वक्तुमुचितम् । सत्यम् । किन्तु तस्येह कोष्ठागाराध्यक्षानन्तर्येण वचनं कोष्ठागाराध्यक्षस्यापि स्वव्यापाराः क्रयिमपरिवर्तकप्रामित्यकादयः पण्याध्यक्षापेक्षयानुष्ठेया इति ज्ञापनार्थम् ।
 
@@ -6071,7 +6071,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** षोडशभागो मानव्याजी । विंशतिभागस्तुलामानम् । गण्यपण्यानामेकादशभागः ।**
 
 ** परभूमिजं पण्यमनुग्रहेणावाहयेत् । नाविकसार्थवाहेभ्यश्च परिहारमायतिक्षमं दद्यात् । अनभियोगचार्येष्वागन्तूनामन्यत्र सभ्योपकारिभ्यः ।**  
-![](../../../books_images/U-IMG-1696396457Line.jpg)विषयोपनीतानाम्, अनेकमुखं, स्थापयेत् । उभयं च स्वभूमिजं परभूमिजं च, जानाम् अनुग्रहेण अनुपपीडया, विक्रापयेत्, अर्थात् पण्याध्यक्षः । स्थूलं प्रभूतमपि, लाभं, प्रजानाम्, औपघातिकम् उपघातः पीडा तत्पर्यवसायिनं, वारयेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>विषयोपनीतानाम्, अनेकमुखं, स्थापयेत् । उभयं च स्वभूमिजं परभूमिजं च, जानाम् अनुग्रहेण अनुपपीडया, विक्रापयेत्, अर्थात् पण्याध्यक्षः । स्थूलं प्रभूतमपि, लाभं, प्रजानाम्, औपघातिकम् उपघातः पीडा तत्पर्यवसायिनं, वारयेत् ।
 अजस्रपण्यानां क्षीरशाकादीनां, कालोपरोधंकालविक्रयप्रतिषेधं, संकुलदोषं वा शाकादिषु कैश्चिदानीतचरेष्वविक्रीतेष्वन्यैः शाकाद्यानयनं वा, नोत्पादयेत् ।  
 
   बह्वित्यादि । वैदेहकाः वणिजः, कृतार्घंव्यवस्थापितमूल्यं, राजपण्यं, बहुमुखंवा बहुषु स्थलेषु वा, विक्रीणीरन् । **छेदानुरूपं च वैधरणमिति ।** यदि विक्रये कश्चिच्छेदोऽर्घहानिर्भवेत् तदनुरूपं छेदतुल्यमानं, वैधरणं दद्युः। छेदप्रतिनिधेर्वैधरणमिति संज्ञा ।  
@@ -6084,7 +6084,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  परविषये तु — पण्यप्रतिपण्ययोरर्घंमूल्यं च आगमय्य शुल्कवर्तन्यातिवाहिकगुल्मतरदेयभक्त- भाटकव्ययशुद्धमुदयं पश्येत् । असत्युदये भाण्डनिर्वहणेन पण्यप्रतिपण्यार्घेण वा लाभं पश्येत् । ततः**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)उत्तरकालाबाधकं, दद्यात्। अनभियोगश्च उत्तमर्णकर्तृकाभियोगप्रतिषेधश्च, अर्थेषु ऋणादिषु विषये, आगन्तूनां देशान्तरागतानां तद्विषये अभियोगं विनैव ऋणदानं व्यवस्थाप्यमिति भावः। अत्रापवादमाह — अन्यत्र सभ्योपकारिभ्यः तदुपकारिकर्मकरानपहाय । तेषां तु परस्पराभियोगो भवत्येव।  
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>उत्तरकालाबाधकं, दद्यात्। अनभियोगश्च उत्तमर्णकर्तृकाभियोगप्रतिषेधश्च, अर्थेषु ऋणादिषु विषये, आगन्तूनां देशान्तरागतानां तद्विषये अभियोगं विनैव ऋणदानं व्यवस्थाप्यमिति भावः। अत्रापवादमाह — अन्यत्र सभ्योपकारिभ्यः तदुपकारिकर्मकरानपहाय । तेषां तु परस्पराभियोगो भवत्येव।  
 
 **  पण्याधिष्ठातार** इति। राजपण्यविक्रेतारः, पण्यमूल्यं पण्यविक्रयागतं धनम्, एकमुखम् एकस्थानागतं, काष्ठद्रोण्यां दारुपेटिकायाम्, एकच्छिद्रापिधानायाम् एकद्वाराच्छादनायां निदध्युः निक्षिपेयुः। अह्नश्च, अष्टमे चरमे, भागे, उपलक्षणात् क्रयसमयावसाने वा, पण्याध्यक्षस्य, अर्पयेयुः। किं कृत्वा, इदं विक्रीतम् इदं शेषामिति एतावद् विक्रीतम् एतावद् विक्रेयमवशिष्यत इति बोधयित्वा। तुलामानभाण्डकं तुलाप्रस्थकुडुवादिकं च, अर्पयेयुः,पण्याध्यक्षस्य।इति स्वविषये व्याख्यातमिति। एवं स्वदेशे पण्यपणनविधिर्विवृतः।
 
@@ -6095,7 +6095,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** आपदि सारमात्मानं वा मोक्षयेत्। आत्मनो वा भूमिमप्राप्तः सर्वदेयविशुद्धं व्यवहरेत्।**
 
 ** वारिपथे च यानभाटकपथ्यदनपण्यप्रतिपण्यार्घप्रमाणयात्राका लभयप्रतीकारपण्यपत्तनचारित्राण्युप- लभेत।**  
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 विक्रयद्वारेण, लाभं पश्येत्। वा अथवा, पण्यप्रतिपण्यार्घेण स्वपण्यस्यप्रतिपण्यार्घकरणेन स्वपण्यदानपूर्वकप्रियपण्यान्तरग्रहणेनेत्यर्थः, लाभं पश्येत्। तत इति। ततः लाभदर्शनानन्तरं, सारपादेन समीक्षितलाभचतुर्थांशव्ययेन, स्थलव्यवहारं सुलभापायो जलपथ इति कृत्वा स्थलपथव्यवहारं, क्षेमेणाध्वना स्थलपथेनापि चोराद्युपद्रवरहितेन, प्रयोजयेत्। अटव्यन्तपालपुरराष्ट्रमुख्यैश्च अटवीपालान्तपालपुरमुख्यराष्ट्रमुख्यैश्च सह, प्रतिसंसर्गं सोपदानं संगतं, गच्छेद् अनुग्रहार्थं तदानुकूल्यार्थम्।
 
@@ -6115,7 +6115,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 षोडशोऽध्यायः पण्याध्यक्षः,  
 आदितः सप्तत्रिंशः ॥
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**   अध्यायान्ते लोकमाह—**नदीपथे चे**ति**।** नदीपथे च न केवलं समुद्रमार्गे किन्तु नदीमार्गेऽपि, व्यवहारं वाणिज्यं, चरित्रतः तत्तद्देशाचारानुरोधेन, विज्ञाय, यतो येन पथा, लाभः, ततो गच्छेत् । अलाभम् अल्पलाभं क्षयव्ययप्रवासादिमहाक्लेशाननुरूपलाभं जलपथं, परिवर्जयेत्॥
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**   अध्यायान्ते लोकमाह—**नदीपथे चे**ति**।** नदीपथे च न केवलं समुद्रमार्गे किन्तु नदीमार्गेऽपि, व्यवहारं वाणिज्यं, चरित्रतः तत्तद्देशाचारानुरोधेन, विज्ञाय, यतो येन पथा, लाभः, ततो गच्छेत् । अलाभम् अल्पलाभं क्षयव्ययप्रवासादिमहाक्लेशाननुरूपलाभं जलपथं, परिवर्जयेत्॥
 
 इति कौटलीयार्थशास्त्रव्याख्यायाम् अध्यक्षप्रचारे द्वितीयाधिकरणे  
 षोडशोऽध्यायः पण्याध्यक्षः,  
@@ -6126,7 +6126,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** कुप्याध्यक्षोद्रव्यवनपालैः कुप्यमानाययेत्। द्रव्यवनकर्मान्तांश्च प्रयोजयेत्।द्रव्यवनाच्छिदां च देयमत्ययं च स्थापयेदन्यत्रापद्भ्यः।**
 
 ** कुप्यवर्गः — शाकतिनिशधन्वनार्जुनमधूकतिलकसालाशिंशपारिमेदराजादनशिरीपखदिरसरलता- लसर्जाश्वकर्णसोमवल्ककशाम्रप्रियकधवादिः सारदारुवर्गः।**  
-**![](../../../books_images/U-IMG-1696316066Line.jpg) कुप्याध्यक्ष** इति सूत्रम्।कुप्यं सारदारुवेणुवल्लिवल्कादि, तत्र नियुक्तः कुप्याध्यक्षः, अर्थात् तस्य व्यापारः कुप्यविषय इहोच्यत इति सूत्रार्थः। कोशप्रवेश्यरत्नपरीक्षायां रत्नसारफल्गुकुप्यान्युपक्रम्य रत्नसारफल्गुप्रतिग्रहणमुक्तं कुप्यस्य त्वनुक्तमिहोच्यत इति सम्बन्धः। अथवा ‘सन्निधाता कोशगृहमित्या’दिना कुप्यगृहविधानं पूर्वमुक्तं तदध्यक्षव्यापारस्त्वधुनोच्यत इति।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> कुप्याध्यक्ष** इति सूत्रम्।कुप्यं सारदारुवेणुवल्लिवल्कादि, तत्र नियुक्तः कुप्याध्यक्षः, अर्थात् तस्य व्यापारः कुप्यविषय इहोच्यत इति सूत्रार्थः। कोशप्रवेश्यरत्नपरीक्षायां रत्नसारफल्गुकुप्यान्युपक्रम्य रत्नसारफल्गुप्रतिग्रहणमुक्तं कुप्यस्य त्वनुक्तमिहोच्यत इति सम्बन्धः। अथवा ‘सन्निधाता कोशगृहमित्या’दिना कुप्यगृहविधानं पूर्वमुक्तं तदध्यक्षव्यापारस्त्वधुनोच्यत इति।
 
 ** कुप्याध्यक्ष** इत्यादि। कृप्याध्यक्ष, द्रव्यवनपालैः वार्क्षवनरक्षिभिः, कूप्यं सारदार्थादि, आनाययेद् आवाहयेत् ।द्रव्यवनकर्मान्तांश्च दारुनिर्मेयान् गृह शकटादिकान्, प्रयोजयेत् कार्येत् ।द्रव्यवनच्छदां च द्रव्यवनच्छेदोपजीविनां च वृक्षमर्मज्ञानां, देयं छेदनीयशिरश्शाखास्कन्धमूलभागभेदेन छेदनदुर्गतारणाद्यर्थे प्रदेयं वेतनं, स्थापयेद् एतावदिति व्यवस्थापयेत्। अत्ययं च दण्डं चाननुज्ञातच्छेदने, स्थापयेत्। किं सर्वदा, नेत्याहअन्यत्रापद्भ्य इति। शकटयुगभङ्गादिविपत्प्राप्तौ तु कालविलम्बासहयुगयोजनाद्यर्थे अननुज्ञातच्छेदनं नापराधः।
 
@@ -6146,7 +6146,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कालकूटवत्सनाभहालाहलमेषशृङ्गमुस्ताकुष्टमहाविषवेल्लितकगौ-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  वेणुवर्गमाह **—उटजे**त्यादि । उटजो महासुषिरस्तनुकण्टकः कर्कशपृष्ठः, चिमियो निस्सुषिरो मृदुत्वक्कः, चापः स्वल्पसुषिरोऽतिखरश्च, वेणुर्निष्कण्टकश्चापयोग्यः, वंशो दीर्घपर्वकः सरन्ध्रः सकण्टकश्च, सातीनकण्टकौ वेणुभेदौ, भाल्लूकः स्थूलदीर्घो महाप्रमाणो निष्कण्टकः ।
 
@@ -6168,7 +6168,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** कालायसताम्रवृत्तकांस्यसीसत्रपुवैकृन्तकारकूटानि लोहानि ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**वेल्लितकं मूलजं कृष्णरक्तं, गौरार्द्रं कन्दजं कृष्णं, बालकं पिप्पल्याकारं, मार्कटं कपिमा कारं, हैमवतं हिमवदुत्पन्नं दीर्घपत्रं, कालिङ्गकं कलिङ्गभवं यवाकृति, दारदकं दरदप्रभवं पत्रविषम्, अङ्कोलसारकम् अकोलवृक्षजं विषम्, उष्ट्रकम् उष्टमेदाकारम् इत्येवं षोडश, आदिग्रहणादनुक्तानामेकोनसप्ततिप्रकाराणां ग्रहणम् । तदेवं स्थावराणि विषाणि पञ्चाशीतिर्भवन्ति दशाश्रयाणि । तथा च भट्टस्वामिनः श्लोकः—
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**वेल्लितकं मूलजं कृष्णरक्तं, गौरार्द्रं कन्दजं कृष्णं, बालकं पिप्पल्याकारं, मार्कटं कपिमा कारं, हैमवतं हिमवदुत्पन्नं दीर्घपत्रं, कालिङ्गकं कलिङ्गभवं यवाकृति, दारदकं दरदप्रभवं पत्रविषम्, अङ्कोलसारकम् अकोलवृक्षजं विषम्, उष्ट्रकम् उष्टमेदाकारम् इत्येवं षोडश, आदिग्रहणादनुक्तानामेकोनसप्ततिप्रकाराणां ग्रहणम् । तदेवं स्थावराणि विषाणि पञ्चाशीतिर्भवन्ति दशाश्रयाणि । तथा च भट्टस्वामिनः श्लोकः—
 
 **“त्वक्कन्दपत्रपुष्पाणि फलं निर्यास एव च ।  
 मूलं सारस्तथा धातुर्बीजं चेति दशाश्रयाः॥  
@@ -6194,7 +6194,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  **भाण्डमाह —विदले**त्यादि । भाण्डं, विदलमृत्तिकामयं विदलमयं वंशवेत्रादिमयं पिटकफेलकादि मृत्तिकामयं कुलालभाण्डं घटशरावादि ।
 
@@ -6215,7 +6215,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **
 सर्वतोभद्रजामदग्न्यवहुमुखविश्वासघातिसङ्घाटियानकपर्जन्यकबाहूर्ध्वबाह्वर्धबाह्वनिस्थितयन्त्राणि ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **आयुधागाराध्यक्ष** इति सूत्रम् ।आयुधशालाध्यक्षव्यापारोऽभिधीयत इति सूत्रार्थः । कुप्यप्रसङ्गात् तदन्तर्गतायुधप्रस्तावसङ्गतिः । अथवा सन्निधातुरायुधागारकरणं पूर्वमुक्तं, तदध्यक्षस्त्वनुक्त ईहाभिधीयत इति सङ्गतिः ।
 
  **आयुधागारेत्यादि ।** आयुधागाराध्यक्षः, साङ्ग्रामिकं सङ्ग्रामप्रयोजनक, दौर्गकर्मिकं दुर्गकर्म स्वदुर्गरक्षणं तत्साधकं, परपुराभिघातिकं शत्रुदुर्गविध्वंसनानुकूलं, यन्त्रं सर्वतोभद्रजामदान्यादि, चक्रयन्त्रमिति मूलपाठश्चिन्त्यः । आयुधं शक्तिचापादि, आवरणं लोहजालादि, उपकरणं च युग्मादि च, तज्जातकारुशिल्पिभिः तज्जातैस्तत्कर्मसमर्थैः कारुभिः स्थूलकर्मकारिभिः शिल्पिभिः सूक्ष्मकर्मकारिभिश्च, तैः कीदृशैः कृतकर्मप्रमाणकालवेतनफलनिष्पत्तिभिः कृतकर्मप्रमाणकालवेतना कर्मप्रमाणं कर्तव्ययन्त्रायुषादीनां सङ्ख्यासंस्थानादिमानं कालोऽवधिः वेतनं भृतिरित्येतानि कृतानि परिभाषितानि यास्यांसा तथाभूता फलनिष्पत्तिर्यन्त्रादिनिष्पत्तिर्येषां तैस्तथाभूतैः, कारयेत् । स्वभूमौ च **स्थापयेदि**ति । कारितानि च तानि स्वायत्ते स्थाने निवेश्य रक्षेत् । स्थानपरिवर्तनं स्थानात् स्थानान्तरनिवेशनम्, आतपप्रवातप्रदानम् आतपवातविसारणं च, तेषां बहुशःअसकृत् त्रिचतुर्दिवसात्यासं, कुर्यात् । ऊष्मोपस्नेहक्रिमिभिः घर्मप्रस्वेदघुणकादिभिः, उपहन्यमानम्, अन्यथा प्रकारान्तरेणानुपघातहेतुना, स्थापयेत् । जातीत्यादि। जात्यादिभिश्च उपलभेत तानि विजानीयात् । तत्र जातिः स्वभावः पाटनादिः, रूपमृजुवक्रतादि, लक्षणं शास्त्रोक्तमुत्तमादिचिह्नं, प्रमाणं मानोन्मानतो दैर्घ्यविस्तारादिपरिच्छेदः, आगमः यतो लब्धं सः, मूल्यम् अर्घः, निक्षेपः कोशभस्त्रादिः ।
@@ -6224,7 +6224,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **पञ्चालिकदेवदण्डमूकरिकामूसलयष्टिहस्तिवारकतालवृन्तमुद्गरद्रुघणगदास्पृक्तलाकुद्दालास्फोटिमोद्धादिमोत्पादिमशतघ्नीत्रिशूलचक्राणिचलयन्त्राणि ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 सर्वतोभद्रं शकटचक्रप्रमाणं तीक्ष्णनेमि कुड्यस्थितगन्धर्वहस्तस्थं भ्रमणात् सर्वतः पाषाणान् क्षिपति । अपरे तु सिद्धभूमिकायन्त्राख्यं लघुतरपाषाणक्षेपणमाचक्षते । जामदग्न्यं मध्यरन्ध्रविनिहितमहाशरं यन्त्रम् ।बहुमुखं प्राकारोत्सेधाधिगतश्चक्रसन्निविष्टश्चर्मावृत स्त्रिचतुस्तलो धानुष्काधिष्ठानं च अट्टालको भवति, तत्र स्थिता धन्विनो नराः सर्वतः शरान् क्षिपन्ति । विश्वासघाति तिर्यगवस्थितो नगरस्य बहिःपरिघो यन्त्रविश्लेषणेन हन्ति । सङ्घाटि दीर्घकाष्ठसङ्घटितमहालकादिप्रदीपनार्थमग्नियन्त्रम् ।यानकं चक्रारूढं दण्डायतं फलककोष्ठि । पर्जन्यकमग्निप्रशमनार्थमुदकयन्त्रम्, अन्ये तु — पञ्चाशद्धस्तायतं बहिः प्राकारस्य सन्ततं यन्त्रविश्लेषणेन समीपगतं व्यापादयतीत्याचक्षते । विश्वासघातिनोऽस्य च विशेषः तत् प्रच्छन्नं लघुतरं च भवति, एतत्तु तद्विपरीतमिति। बाहुयन्त्रं पर्जन्यकार्धप्रमाणं स्तम्भद्वयं परस्पराभिमुखं यन्त्रविश्लेषणेन मारयति । ऊर्ध्वबाहु ऊर्ध्वस्थितः पर्जन्यकप्रमाणो महास्तम्भः समीपगतान् यन्त्रविश्लेषणेन हन्ति । अर्धबाहु पूर्वस्यैवार्धप्रमाणम् । इत्येवमेतानि दश स्थितयन्त्राणि’ इति ।
 
@@ -6234,7 +6234,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तालचापदारवशार्ङ्गाणि कार्मुककोदण्डद्रणा धनूंषि ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 **“व्यधितं श्रामितं चैव भारयुक्तं च कारयेत्।  
 पीडनाद् भ्रमणाद् भारात् त्रिधा यन्त्रं प्रवर्तते॥” इति।**
@@ -6277,7 +6277,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** यन्त्रगोष्पणमुष्टिपाषाणरोचनीदृषश्चायुधानि ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** ज्या आह **—** मूर्वेत्यादि । स्नायुर्वायुवाहिनी नाडी ।शेषं प्रतीतम् । तत्र वेणुविदलज्या कोदण्डस्यैव, अन्ययोस्त्वन्या इति स्वामी ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** ज्या आह **—** मूर्वेत्यादि । स्नायुर्वायुवाहिनी नाडी ।शेषं प्रतीतम् । तत्र वेणुविदलज्या कोदण्डस्यैव, अन्ययोस्त्वन्या इति स्वामी ।
 
 ** **इषूनाह **—बेण्वित्या**दि । तत्र वेणुरुटजचिमियादिः, शरो जात्यश
 
@@ -6295,7 +6295,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** हस्तिरथवाजिनां योग्याभाण्डमालङ्कारिकं सन्नाइकल्पनाश्चोपकरणानि । ऐन्द्रजालिकमौपनिषदिकं च कर्म ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** वर्माण्याह —**लोहजले**त्यादि । लोहशब्दो जालादिषु चतुर्षु प्रत्येकं सम्बध्यते । लोहजालं सशिरस्त्राणा प्रावरणी, लोहजालिका मुण्डसन्नाहः, कोहपट्टो विबाहुसन्नाहः, लोहकवचं बाहुरहितं वक्षःपृष्ठमात्रावरणं, सूत्रकङ्कटः कार्पासादिसूत्रमयः सन्नाहः, शिंशुमारकादीनां पञ्चानां चर्मखुरशृङ्गसङ्घातश्च चतुरशिल्पिघटितानि त्वक्शफविषाणानि च वर्माणि भवन्ति । तत्र शिंशुमारकः अम्बुकपिनामा जलचरः, खड्गी खड्गमृगः, धेनुको गोसदृशो गवय इति व्याख्येयं, सेरकपाठस्तु धेनुकस्थाने भाषाटीकायामुपलभ्यते । हस्ती गजः, गौर्वृषभः । **शिरस्त्राणे**त्यादि । शिरस्त्राणादयः सप्त च वर्माणि । तत्र शिरक्षाणं शिरोमात्रावरणं, कण्ठत्राणं कण्ठमात्रावरणं, कूर्पासः अर्धबाहुकः, कञ्चूको जानुपर्यन्तः, वारवाणो गुल्फपर्यन्तः, पट्टो विबाहुरलोहमयः, नागोदरिका कराङ्गुलित्राणम्, इत्येतानि देहधार्याणि । करधार्याण्यावरणान्याह—**पेटीत्या**दि । पेट्यादयो नव \। तत्र पेटी काष्ठवल्लीमयं खेटकं, चर्म चर्मफलकं, हस्तिकर्णः अवकुण्ठनफलकं तालमूलं काष्ठनिर्मितं खेटकं, धमनिका सूत्रमयी, कवाटं काष्ठमयफलकभेदः, किटिका चर्मवेणुविदलमयी, अप्रतिहतः हस्तवारकाख्यः , बलाहकान्तः अप्रतिहत एव पर्यन्तबद्धलोहपट्टः, चः समुच्चये ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** वर्माण्याह —**लोहजले**त्यादि । लोहशब्दो जालादिषु चतुर्षु प्रत्येकं सम्बध्यते । लोहजालं सशिरस्त्राणा प्रावरणी, लोहजालिका मुण्डसन्नाहः, कोहपट्टो विबाहुसन्नाहः, लोहकवचं बाहुरहितं वक्षःपृष्ठमात्रावरणं, सूत्रकङ्कटः कार्पासादिसूत्रमयः सन्नाहः, शिंशुमारकादीनां पञ्चानां चर्मखुरशृङ्गसङ्घातश्च चतुरशिल्पिघटितानि त्वक्शफविषाणानि च वर्माणि भवन्ति । तत्र शिंशुमारकः अम्बुकपिनामा जलचरः, खड्गी खड्गमृगः, धेनुको गोसदृशो गवय इति व्याख्येयं, सेरकपाठस्तु धेनुकस्थाने भाषाटीकायामुपलभ्यते । हस्ती गजः, गौर्वृषभः । **शिरस्त्राणे**त्यादि । शिरस्त्राणादयः सप्त च वर्माणि । तत्र शिरक्षाणं शिरोमात्रावरणं, कण्ठत्राणं कण्ठमात्रावरणं, कूर्पासः अर्धबाहुकः, कञ्चूको जानुपर्यन्तः, वारवाणो गुल्फपर्यन्तः, पट्टो विबाहुरलोहमयः, नागोदरिका कराङ्गुलित्राणम्, इत्येतानि देहधार्याणि । करधार्याण्यावरणान्याह—**पेटीत्या**दि । पेट्यादयो नव \। तत्र पेटी काष्ठवल्लीमयं खेटकं, चर्म चर्मफलकं, हस्तिकर्णः अवकुण्ठनफलकं तालमूलं काष्ठनिर्मितं खेटकं, धमनिका सूत्रमयी, कवाटं काष्ठमयफलकभेदः, किटिका चर्मवेणुविदलमयी, अप्रतिहतः हस्तवारकाख्यः , बलाहकान्तः अप्रतिहत एव पर्यन्तबद्धलोहपट्टः, चः समुच्चये ।
 
 ** **उपकरणान्याह **—हस्तीत्या**दि । हस्तिरथवाजिनां, योग्याभाण्डं शिक्षापरिकरभूतं कशाङ्कुशादिकम्, आलङ्कारिकम् अलङ्कारप्रयोजनकं पताकाक्षुरप्रमालादिकं, सन्नाहकल्पनाश्च वर्मतोमरशरीरावारकादयश्च, उपकरणानि । उपकरणान्तरमाह **—** **ऐन्द्रे**त्यादि । ऐन्द्रजालिकं कर्म अल्पसैन्यस्य बहुसैन्यत्वप्रदर्शनमनग्नावग्निप्रदर्शनमित्येवञ्जातीयं मायिकम्, औपनिषदिकं च औपनिषदकाधिकरणोक्तं विषधूमाम्बुदूषणप्रलम्भनादिप्रयोगतत्प्रतिक्रियालक्षण, चकारादनुक्तमन्यच्च, कर्म, उपकरणपदानुवर्तनादुपकरणसंज्ञम् ।
 
@@ -6310,7 +6310,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  **कर्मान्तानां** चेति वक्ष्यमाणश्लोकान्वयि ।लोकमाह —**इच्छामिति ।** कुप्यानां कर्मान्तानां गतप्रकृताध्यायद्वयोक्तद्रव्यसम्बन्धिनां व्यापाराणां विषये, इच्छां राजरुचिम्, आरम्भनिष्पत्तिम् आरम्भसहितां निष्पत्तिं, रजिच्छानुसारेणोपक्रममर्थसिद्धिं चेत्यर्थः । प्रयोगम् उपयोगं, व्याजं दोषं, न्याजिमिति पाठे राजपण्यविक्रयेऽन्तरग्राह्यम्, उद्दयं लाभम् ।उन्नयमिति भाषापाठश्च श्रेयान् । क्षयव्ययौच क्षयं साधनच्छेदं व्ययं कर्मकरादिभक्कादिपरिव्ययं च, जानीयात् पर्यालोचयेत्, आयुधेश्वरः आयुधागाराध्यक्षः । इदं कुप्याध्यक्षस्याप्युपलक्षणम् ॥
 
@@ -6330,7 +6330,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अर्धमाषकः, माषकः, द्वौ, चत्वारः, अष्टौमाषकाः, सुवर्णो, द्वौ, चत्वारः, अष्टौ सुवर्णाः, दश, विंशतिः, त्रिंशत्, चत्वारिंशत्, शतमिति।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 ** तुलामानपौतवमि**ति सूत्रम् ।तुलाया उन्मानसाधनस्य मानस्य प्रस्थकुडुबादेश्चपौतवम् पोतुर्मानभाण्डशोधकः तस्य कर्म अकृतकरणं कृतशोधनं चेहाभिधीयत इति सूत्रार्थः । तुलाप्रतिमानं ‘पौतवाध्यक्षे वक्ष्याम’ इत्युकं सुवर्णाध्यक्षे ।तदेतत् कुप्याङ्गत्वात् कुप्यानन्तरमभिधीयत इति सङ्गतिः ।
 
@@ -6352,7 +6352,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पञ्चत्रिंशत्पललोहां द्विसप्तत्यङ्गुलायामां समवृत्तां कारयेत् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 सुवर्णाः, अष्टौ सुवर्णाः, दश विंशतिः त्रिंशत् चत्वारिंशत् शतम् इति चतुर्दश भवन्ति ।
 
  सुवर्णोक्तं प्रतिमानविधिं रूप्येष्वतिदिशति —तेनेति । तेन सुवर्णप्रतिमानकथनेन, धरणानि व्याख्यातानि रूप्यधरणानामपि धरणं द्वे चत्वारि अष्टौ दश विंशतिः त्रिंशत् चत्वारिंशत् शतमित्येवं प्रतिमानसंख्या योज्या इत्यर्थः। एवं धरणग्रहणेन रूप्यमाषकाणामप्युपलक्षणाद् अर्धमाषको माषको द्वौ चत्वार इत्यादयः शतान्तसंख्यास्तत्राप्यूहनीयाः।
@@ -6374,7 +6374,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पञ्चपलावरा व्यावहारिकी भाजन्यन्तःपुरभाजनी च ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**ख्यां वर्तुलतयान्वितार्थां, कारयेत् । तस्याः, पञ्चपलिकं, मण्डलं चेलं, बद्ध्वा, समकरणम् अनुन्नतानवनतोभयान्तचिह्नं, कारयेत् । ततः समचिह्नात् परतः, कर्षोत्तरं पलं कर्षोऽर्धपलं पादोनपलं पलमिति, कारयेत् । ततः पलोत्तरं दशपलम् एकं पलं द्वे त्रीणि चत्वारि पञ्च षट् सप्ताष्ट नव दशेति, ततः द्वादश पञ्चदश विंशतिरिति षोडश पदानि रेखाः, कारयेत् । **तत** इति । ततः विंशतेरुपरि आ शतात् शतमभिव्याप्य, दशोत्तरं दशदशाधिकं त्रिंशच्चत्वारिंशत् पञ्चाशदित्यादिकं, कारयेत् । अक्षेषु पञ्चमदशमपञ्चदशादिषु, नद्ध्रीपिनद्धं वरत्राबन्धं वरत्राकाररेखाबन्धं, कारयेद् विशेषार्थम् । स्वामिटीकादर्शे तु नान्दीपिनद्धं स्वस्तिकमिति दृश्यते ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**ख्यां वर्तुलतयान्वितार्थां, कारयेत् । तस्याः, पञ्चपलिकं, मण्डलं चेलं, बद्ध्वा, समकरणम् अनुन्नतानवनतोभयान्तचिह्नं, कारयेत् । ततः समचिह्नात् परतः, कर्षोत्तरं पलं कर्षोऽर्धपलं पादोनपलं पलमिति, कारयेत् । ततः पलोत्तरं दशपलम् एकं पलं द्वे त्रीणि चत्वारि पञ्च षट् सप्ताष्ट नव दशेति, ततः द्वादश पञ्चदश विंशतिरिति षोडश पदानि रेखाः, कारयेत् । **तत** इति । ततः विंशतेरुपरि आ शतात् शतमभिव्याप्य, दशोत्तरं दशदशाधिकं त्रिंशच्चत्वारिंशत् पञ्चाशदित्यादिकं, कारयेत् । अक्षेषु पञ्चमदशमपञ्चदशादिषु, नद्ध्रीपिनद्धं वरत्राबन्धं वरत्राकाररेखाबन्धं, कारयेद् विशेषार्थम् । स्वामिटीकादर्शे तु नान्दीपिनद्धं स्वस्तिकमिति दृश्यते ।
 
  परिमाणीसंज्ञां तुलामाह — **द्विगुणेत्यादि ।** अतः समवृत्तायाः, द्विगुणलोहां सप्ततिपललोहां, षण्णवत्यङ्गुलायामां चतुर्हस्तदीर्घां, परिमाणीं, कारयेत् । तस्याः शतपदादूर्ध्वं समवृत्तादर्शितदिशा कर्षादिक्रमेण कृताच्छतपदात् परतः, विंशतिः, तदूर्ध्वं पञ्चाशत्, तदूर्ध्वं शतम्, अर्थाच्छतद्वयम् इति पदानि कारयेत् ।
 
@@ -6389,7 +6389,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** पूर्वयोः पञ्चपलिकः प्रयामो मांसलोहलवणमणिवर्जम् ।**
 
 ** काष्ठतुला अष्टहस्ता पदवती प्रतिमानवती मयूरपदाधिष्ठाना ।काष्ठपञ्चविंशतिपलं तण्डुलप्रस्थसाधनम् । एष प्रदेशो बह्वल्पयोः।**  
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 वरां तुला, व्यावहारिकी तदाख्या क्रयविक्रयोपयोगिनी, भाजनी तदाख्या भृत्यदेयार्था, अन्तःपुरभाजनी तदाख्या देवीकुमारादिदेयार्था च भवति । तत्र प्रथमा आयमानीतः पञ्चपलन्यूना पञ्चनवतिपला, द्वितीया व्यावहारिकीतस्तावन्न्यूना नवतिपला, तृतीया भाजनीतस्तावन्न्यूना पञ्चाशीतिपलेति विवेकः।
 
  व्यावहारिक्यादीनामपि पलादिमाने परस्परविशेषमाह — **तासामित्या**दि । तासां व्यावहारिक्यादीनाम्, अर्धधरणावरम् अर्धेनार्धेन धरणेन पूर्वपूर्वापेक्षया न्यूनं, पलं भवति । तद्यथा — दशधरणिकादायमानीपलादर्धोनं सार्धनवधरणिकं पलं व्यावहारिक्याः, ततोऽर्धोनं नवधरणिकं भाजन्याः, ततोऽर्धोनं सार्धाष्टधरणिकमन्तःपुरभाजन्या इति । द्विपलावरं द्वाभ्यां द्वाभ्यां पलाभ्यां पूर्वपूर्वतोन्यूनम्, उत्तरलोहम् उत्तरासां लोहं भवति । षडङ्गुलावराश्च षट्षडङ्गुलन्यूनाश्च, आयामाः दैर्घ्याणि भवन्ति, अर्थादुत्तरासाम् । तद्यथा — पञ्चत्रिंशत्पललोहा द्विसप्तत्यङ्गुलायामा च यद्यायमानी, तदा त्रयंर्स्त्रिंशत्पललोहा षट्षष्ट्यङ्गुलायामा च व्यावहारिकी भवति, एकत्रिंशत्पललोहा षष्ठ्यङ्गुलायामा च भाजनी, एकोनत्रिंशत्पललोहा चतुष्पञ्चाशदङ्गुलायामा चान्तःपुरभाजनीति।
@@ -6412,7 +6412,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** शुष्कसारदारूमयं समं चतुर्भागशिखं मानं कारयेत् । अन्तश्शिखं वा । रसस्य तु ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 मानव्यवस्थापनमार्गः। एतच्चकोष्ठागाराध्यक्षशेषम् असारस्याप्यमितो व्ययो न कर्तव्यः किमुत सारस्येति सामान्यज्ञापनद्वारेण प्राकरणिकेषु मानेष्ववधानोपदेशार्थं द्रष्टव्यम् ।
 
  **इति तुले**त्यादि । इति उक्तप्रकारेण, तुलाप्रतिमानं व्याख्यातं तुलाः षोडशविधाः प्रतिमानानि च चतुर्दशविधानि निरूपितानि ।
@@ -6435,7 +6435,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** चतुर्मासिकं प्रातिवेधनिकं कारयेत् । अप्रतिविद्धस्यात्ययः सपादः सप्तविंशतिपणः। प्रातिवेधनिकं काकणिकमहरहः पौतवाध्यक्षाय दद्युः।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**श्शिखं वा अन्तर्गता आमूलमुखान्तावकाशान्तःप्रविष्टा शिखा पूर्वोक्तश्चतुर्भागावकाशो यस्य तत् तथाभूतं वा, मानं कारयेत् । धान्यादिमाने चायं विकल्पः। रसस्य त्विति । अन्तश्शिखमित्यनुवर्तते । तत्र तुशब्दोऽवधारणार्थः सम्बध्यते । तदयमर्थः — रसस्य घृततैलादेरन्तश्शिखमेव मानं भवतीति ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**श्शिखं वा अन्तर्गता आमूलमुखान्तावकाशान्तःप्रविष्टा शिखा पूर्वोक्तश्चतुर्भागावकाशो यस्य तत् तथाभूतं वा, मानं कारयेत् । धान्यादिमाने चायं विकल्पः। रसस्य त्विति । अन्तश्शिखमित्यनुवर्तते । तत्र तुशब्दोऽवधारणार्थः सम्बध्यते । तदयमर्थः — रसस्य घृततैलादेरन्तश्शिखमेव मानं भवतीति ।
 
  **सुराया** इत्यादि । सुरादीनां षण्णां शिखामानम् अस्ति । किन्तु द्विगुणोत्तरा वृद्धिः द्विगुणाधिका तस्य वृद्धिः। धान्यादिषु शिखामानं यदुक्तं चतुर्भागात्मकं तदिह द्वैगुण्यं यातीत्यर्थः। अतश्च सुरादीनां प्रस्थः पञ्चभिरेव कुडुवैर्भवति, न तु धान्यानामिव चतुर्भिः। तत्रापि सुरायाः बहिश्शिखासम्भवाभावात् प्रस्थोऽन्तश्शिखोऽर्थादन्तःप्रविष्टपञ्चकुडुवः कार्यः।
 
@@ -6461,7 +6461,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **\_\_\_\_\_\_\_**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**सपादः सप्तविंशतिपणः। **प्रातिवेधनिकमिति ।** प्रातिवेधनिकं परिशोधननिमित्तं, काकणिकम्, अहरहः प्रतिदिनं, पौतवाध्यक्षाय, दद्दुः, दिवसस्यैका काकणीति क्रमेण मासचतुष्टयस्य सविंशति काकणीनां शतं शोधनकाले तुलामानव्यवहारिणोऽर्पयेयुरित्यर्थः।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**सपादः सप्तविंशतिपणः। **प्रातिवेधनिकमिति ।** प्रातिवेधनिकं परिशोधननिमित्तं, काकणिकम्, अहरहः प्रतिदिनं, पौतवाध्यक्षाय, दद्दुः, दिवसस्यैका काकणीति क्रमेण मासचतुष्टयस्य सविंशति काकणीनां शतं शोधनकाले तुलामानव्यवहारिणोऽर्पयेयुरित्यर्थः।
 
  रसादिप्रसङ्गाद् घृतादिगतं किञ्चिदाह — **द्वात्रिंशदित्यादि ।** सर्पिषः घृतस्य विलापितस्य क्रीयमाणस्य, द्वात्रिंशद्भागः अधिकतया ग्राह्य इति वाक्यशेषः। तप्तव्याजी स तप्तव्याजीसंज्ञः। तैलस्य, चतुःषष्टिभागः ग्राह्यः। **पञ्चाशद्भाग** इति । पञ्चाशद्भागो मानस्रावः तदाख्यो, द्रवाणां ग्राह्यः। द्रवसामान्यविषयोऽयं मानस्रावः सर्पिस्तैलयोर्यथोक्तव्याज्या सह समुच्चीयत इत्याहुः।
 
@@ -6483,7 +6483,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** चतुरङ्गुलो धनुर्ग्रहः। अष्टाङ्गुला धनुर्मुष्टिः।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)** देशकालमानमि**ति सूत्रम् । देशो भूमिस्तद्विकारः प्राकारस्तम्भादिः कालखुटिलवादिः तयोर्मानमिति सूत्रार्थः। ‘द्वादशहस्तादूर्ध्वमोजं युग्मं वा आ चतुर्विंशतिहस्ताद्’इति दुर्गविधाने, ‘चतुर्दण्डान्तरा रथ्याः’ ‘पञ्चारत्नयो रथपथः’ इति दुर्गनिवेशेऽन्यत्र च हस्तदण्डारत्न्यादीनां व्यवहारः कृतः। तेषां प्रमाणं तु नोक्तम् । तथा ‘पूर्वे दिवसस्याष्टभागे रक्षाविधानमायव्ययौ च शृणुयाद्’इत्येवं राजप्रणिधौ कालविभाग उक्तः। तस्य मानं तु नोक्तम् । तदुभयमिह मानप्रसङ्गादुच्यत इति सङ्गतिः।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>** देशकालमानमि**ति सूत्रम् । देशो भूमिस्तद्विकारः प्राकारस्तम्भादिः कालखुटिलवादिः तयोर्मानमिति सूत्रार्थः। ‘द्वादशहस्तादूर्ध्वमोजं युग्मं वा आ चतुर्विंशतिहस्ताद्’इति दुर्गविधाने, ‘चतुर्दण्डान्तरा रथ्याः’ ‘पञ्चारत्नयो रथपथः’ इति दुर्गनिवेशेऽन्यत्र च हस्तदण्डारत्न्यादीनां व्यवहारः कृतः। तेषां प्रमाणं तु नोक्तम् । तथा ‘पूर्वे दिवसस्याष्टभागे रक्षाविधानमायव्ययौ च शृणुयाद्’इत्येवं राजप्रणिधौ कालविभाग उक्तः। तस्य मानं तु नोक्तम् । तदुभयमिह मानप्रसङ्गादुच्यत इति सङ्गतिः।
 
  **मानाध्यक्ष** इति । मानाध्यक्षः पौतवाध्यक्षः, देशकालमानं, विद्यात् वक्ष्यमाणप्रकारेण जानीयात् ।
 
@@ -6505,7 +6505,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** गार्हपत्यमष्टशताङ्गुलं धनुः पथिप्राकारमानम् । पौरुषं च अग्निचित्यानाम् ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)  
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>  
  **द्वादशेत्या**दि । द्वादशाङ्गुला वितस्तिः तदाख्या । छायापौरुषं चेति छायापौरुषं शङ्कुप्रमाणं, तदपि द्वादशाङ्गुलमित्यर्थः। चतुर्दशेत्यादि । चतुर्थशाङ्गुलं शमसंज्ञं शलसंज्ञं परिरयसंज्ञं पदसंज्ञं च । द्विवितस्तिरिति । चतुविंशत्यङ्गुलोऽरत्निः। स प्राजापत्यो विश्वकर्मसम्मतो हस्तः।
 
 ** सधनुर्ग्रह** इति । धनुर्ग्रहयुक्तः चतुरङ्गुलाधिकः प्राजापत्यः अर्थादष्टाविंशत्यङ्गुलमानं पौतवविवीतमानं काष्ठतुलादेः पश्वर्थक्षेत्रादेश्च हस्तमानं भवति । **सधनुर्मुष्टिरि**ति । अष्टाङ्गुलाधिकः प्राजापत्यः किष्कुसंज्ञः कंससंज्ञो वा ।
@@ -6536,7 +6536,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** चत्वारिंशत् कला नाडिका ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)  
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>  
  **षट्कंस** इत्यादि । कंसषट्कप्रमाणः अर्थात् प्राजापत्यहस्ताष्टकप्रमाणः, दण्डः। सः ब्रह्मदेयातिथ्यमानं ब्रह्मदेयानाम् आतिथ्यानां च मानं भवति । ब्रह्मदेयानि ऋत्विगादिब्राह्मणदेयानि, आतिथ्यानि अतिथिभोजनार्थविसष्टक्षेत्राणि । दशदण्डेति । अर्थाच्चत्वारिंशद्धस्तप्रमाणो, रज्जुः। **द्विरज्जुक** इति । विंशतिदण्डप्रमाणः, परिदेशः।**त्रिरज्जुकमि**ति । त्रिंशद्दण्डप्रमाणं, निवर्तनं चतुरश्रनिवर्तनम् ।
 
  **एकतो द्विदण्डाधिक** इति । निवर्तनस्यैवैकपार्श्वे दण्डद्वयाधिकप्रमाणः पार्श्वान्तरेष्वनधिकप्रमाणः अर्थाद् द्वात्रिंशद्दण्डदीर्घस्त्रिंशद्दण्डविस्तारश्च मानविशेषः, बाहुस्तत्संज्ञः। **द्विधनुस्सहस्रमिति ।** धनुस्सहस्रद्वयप्रमाणं, गोरुतम् । स क्रोश इति व्यवह्रियते । **चतुर्गोरुतमिति ।** अर्थात् क्रोशचतुष्टयं योजनसंज्ञम् । इति देशमानमिति । व्याख्यातमिति शेषः।
@@ -6555,7 +6555,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** छायायामष्टपौरुष्यामष्टादशभागश्छेदः, षट्पौरुष्यां चतुर्दशभागः, चतुष्पौरुष्यामष्टभागः, द्विपौरुष्यां षड्भागः, पौरुष्यां चतुर्भागः,**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)  
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>  
  नालिकायाः प्रकारान्तर माह — **सुवर्णे**त्यादि । सुवर्णमाषकाश्चत्वारश्चतुरङ्गुलायामा इति मेयमानयोरभेदोपचारात् सुवर्णमाषकचतुष्टयप्रमाणा चतुरङ्गुलदीर्घा जलनिगमनालशलाकोच्यते, कुम्भच्छिद्रं तत्समानं जलधारकघटच्छिद्रम् आढकमम्भसः तत्कुम्भगतमाढकमितं जलम्, इतिशब्द इहाध्याहार्यः, इति वा नालिका इत्येतत्त्रि तययोगेन वा नालिका परिच्छिद्यते । यथोक्तमानशलाकायुक्तच्छिद्रात् कुम्भादाढकपरिमितं जलं छिद्रतो यावता कालेन गलति सा वा नालिकेत्यर्थः।
 
 ** द्विनालिक** इति । नालिकाद्वयं मुहूर्तः। एतदुत्तरं **पूर्वापरभागयो**र्व्याख्यानं क्रमप्राप्तम् । तत्तु न कृतं सुबोधत्वात्। तौ हि मुहूर्तान्तानामुक्तानां वक्ष्यमाणानां च दिवसादीनां यथासम्भवं पूर्वभागोत्तरभागौ भवतः। तत्र पूर्वाह्णोदिवसपूर्वभागोऽपराह्णोदिवसोत्तरभागः। तथा पूर्वरात्रो रात्रिपूर्वभागोऽपररात्रो रात्र्युत्तरभाग इत्यादि यथाव्यवहारमूह्यम् । पञ्चदशेत्यादि । पञ्चदशमुहूर्तो दिवसो रात्रिश्च भवतः, किं सर्वेषु मासेषु, नेत्याह — चैत्रे मासि आश्वयुजे मासि च अर्थाद् विषुवयोर्द्वयोः। ततः परमिति । विषुवद्द्वयादुपरि, अन्यतरो दिवसो रात्रिश्च, त्रिभिर्मुहूर्तैः षष्मासं वर्धते
@@ -6572,7 +6572,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पञ्चदशाहोरात्राः पक्षः । सोमाप्यायनः शुक्लः । सोमावच्छेदनो बहुलः ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 तु शेषाः । चतुष्पौरुष्याम् अष्टाचत्वारिंशदङ्गुलायाम्, अष्टभागः छेदः अर्धयामो गतः सप्त शेषाः । द्विपौरुष्यांचतुर्विंशत्यङ्गुलायां, षड्भागश्छेदः पञ्च नालिका गताः पञ्चविंशतिस्तु शेषाः । पौरुष्यां द्वादशाङ्गुलायां, चतुर्भागश्छेदः यामो गतः यामत्रयमवशिष्टम् । अष्टाङ्गुलायां छायायां, त्रयो दशभागाः दशधा विभक्तस्य दिवसस्य त्रयो दशमांशाः अर्थान्नवनालिकाः, छेदः, एकविंशतिस्तु नालिकाः शिष्टाः । चतुरङ्गुलायाम्, अष्टभागाः अष्टधा विभक्तस्य दिवसस्य त्रयोऽष्टमांशाः गता विज्ञेयाः, पञ्च तु शिष्टाः। अच्छायः शङ्कप्रविष्टच्छायो, मध्याह्नो भवति ।
 
@@ -6608,7 +6608,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** माघः फाल्गुनश्च शिशिरः ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)चन्द्रवृद्धिकरः पक्षः, शुक्लः तत्संज्ञः । सोमावच्छेदनः चन्द्रक्षयकरः, बहुलः तदाख्यः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>चन्द्रवृद्धिकरः पक्षः, शुक्लः तत्संज्ञः । सोमावच्छेदनः चन्द्रक्षयकरः, बहुलः तदाख्यः ।
 
  **द्विपक्ष** इति । उक्तौ शुक्लबहुलपक्षौ समुदितौ, मासः, स एव सावनः ।
 
@@ -6652,7 +6652,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
  **शिशिरादी**त्यादि । शिशिरप्रभृति ग्रीष्मान्तमृतुत्रयम्, उत्तरायणसंज्ञम् । वर्षादि हेमन्तान्तमृतुत्रयं, दक्षिणायनम् ।
 
@@ -6684,7 +6684,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** भिन्नमुद्राणामत्ययो घटिकाः स्थाने स्थानम् ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg) **शुल्काध्यक्ष** इति सूत्रम् । शुल्कः राज्ञे देयं पञ्चदशभागादि तस्य अध्यक्षः शुल्काध्यक्षः । तद्व्यापारोऽभिधीयते इति सूत्रार्थः । देशविशेषभूतदुर्गसम्बन्धित्वाद् मानपरिच्छेद्यनानाभाण्डविषयत्वाच्च शुल्कस्य देशमानानन्तरमभिधान- सङ्गतिः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/> **शुल्काध्यक्ष** इति सूत्रम् । शुल्कः राज्ञे देयं पञ्चदशभागादि तस्य अध्यक्षः शुल्काध्यक्षः । तद्व्यापारोऽभिधीयते इति सूत्रार्थः । देशविशेषभूतदुर्गसम्बन्धित्वाद् मानपरिच्छेद्यनानाभाण्डविषयत्वाच्च शुल्कस्य देशमानानन्तरमभिधान- सङ्गतिः ।
 
  **शुल्काध्यक्ष** इति । शुल्कशालाध्यक्षः, शुल्कशांलां शुल्कग्रहणावस्थानं, ध्वजं च तच्चिह्नंच, प्राङ्मुखमुदङ्मुखं वा, महाद्वाराभ्याशे प्रधानद्वारसमीपे, निवेशयेत् कारयेत् ।
 
@@ -6708,7 +6708,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** प्रतिक्रेतृभयाद् वा पण्यमूल्यादुपरि मूल्यं वर्धयतो मूल्यवृद्धिं राजा हरेद्, द्विगुणं वा शुल्कं कुर्यात् ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg) **राजेत्या**दि । राजमुद्रापरिवर्तने, नामकृते वा परिवर्तन इत्यनुषङ्गात् कार्पासादिद्रव्याणां तूलादिनामनिवेशेन नामव्यत्ययकरणे वा, सपादपणिकं पदाधिकपणदण्डं, वहनं पण्यहारकं, दापयेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/> **राजेत्या**दि । राजमुद्रापरिवर्तने, नामकृते वा परिवर्तन इत्यनुषङ्गात् कार्पासादिद्रव्याणां तूलादिनामनिवेशेन नामव्यत्ययकरणे वा, सपादपणिकं पदाधिकपणदण्डं, वहनं पण्यहारकं, दापयेत् ।
 
  **ध्वजे**त्यादि । ध्वजमूलोपस्थितस्य शुल्कशालाङ्गणगतस्य पण्यस्म, प्रमाणम् इयत्ताम्, अर्घंच, वैदेहकाः वणिजः, ब्रूयुः, एतत्प्रमाणेनेत्यादिविधया । त्रिरुद्धोषितं यथोक्तप्रकारेण वारत्रयघोषणया श्रावितं, पण्यम्, अर्थिभ्यः क्रेतृभ्यः, दद्यात्, तेनैव वैदेहकनिर्दिष्टेनार्धेण । क्रेतृसंघर्षे क्रेतृृणाम् अर्घवर्धनहेतुभूतपरस्परस्पर्धासम्भवे, मूल्यवृद्धिः वणिङ्निर्दिष्टप्रमाणादधिकं मूल्यस्य प्रमाणम्, इष्यत इति शेषः । किन्तु सशुल्का शुल्कसहिता सा मूल्यवृद्धिः, कोशं गच्छेत् राजभाण्डागारं प्राप्नुयाद् निर्दिष्टमूल्यमात्रमेव तु वैदेहकानित्यर्थः । सशुल्कमित्यपि पाठः ।
 
@@ -6733,7 +6733,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 यतगोदानव्रतदीक्षणादिषु क्रियाविशेषेषु भा
 
 ण्डमुण्डरकंगच्छेत् ।  
-![](../../../books_images/U-IMG-1696396457Line.jpg)न्न्याय्याद्, उपरि, मूल्यं वर्धयतः क्रेतुः, तन्मूल्यवृद्धिं राजा हरेत् । द्विगुणं वा शुल्कं कुर्यादिति दण्डविकल्पः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>न्न्याय्याद्, उपरि, मूल्यं वर्धयतः क्रेतुः, तन्मूल्यवृद्धिं राजा हरेत् । द्विगुणं वा शुल्कं कुर्यादिति दण्डविकल्पः ।
 
 तदिति । तदेव वैदेहकानां तत्तदपराधे यद् देयं विहितं तदेव, अष्टगुणम्, अध्यक्षस्य, छादयतः वैदेहकापराधं मैत्रीलञ्चग्रहणादिना गोपयतः, कुर्याद् राजा ।
 
@@ -6755,7 +6755,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तेषामन्यतमस्थानयने बहिरेवोच्छुल्को विक्रयः ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg) अन्यथावादिन इति । अवैवाहिकादिकमेव भाण्डं वैवाहिकादिकमिति मिथ्या व्रुवतो वाणिजः, स्तेयदण्डः चौर्यस्य यो दण्डो धर्मस्थीयविहितः सकार्यः।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/> अन्यथावादिन इति । अवैवाहिकादिकमेव भाण्डं वैवाहिकादिकमिति मिथ्या व्रुवतो वाणिजः, स्तेयदण्डः चौर्यस्य यो दण्डो धर्मस्थीयविहितः सकार्यः।
 
  कृतेत्यादि । कृतशुल्केन दत्तशुल्केन पण्यवासनेन सह, अकृतशुल्कम् अदत्तशुल्कं, निर्वाहयतः संकुले निष्क्रामयतः, इत्येकोऽपराधः, द्वितीयमेकमुद्रयेति एकस्य पण्यवासनस्य मुद्राप्रदर्शनेन तत्तुल्यरूपमपरं पण्यवासनं निर्वाहयत इत्यपरः, भित्त्वा पुटमपहरत इति पुटं पण्यवासनं कृतशुल्कं भित्त्वा तस्मिन् पण्यमकृतशुल्कं निवेश्य नयत इति तृतीयः । एवमेवमपराधिनो वैदेहकस्य, तच्च तावच्च यदेव पण्यं यत्परिमाणमपहृतं तदेव तत्प रिमाणमेव, दण्डः ।
 
@@ -6779,7 +6779,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** वैदेहकव्यञ्जनो वा सार्थप्रमाणं राज्ञः भेषयेत् । तेन प्रदेशेन राजा शुल्काध्यक्षस्य सार्थप्रमाणमुपदिशेत् सर्वज्ञत्वख्यापनार्थम् । ततः सार्वमध्यक्षोऽभिगम्य ब्रूयात् — इदममुष्यामुष्य च सारभाण्डं फल्गुभाण्डं च न निगूहितव्यम्, एष राज्ञः प्रभावः इति ।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
  विषयान्तरक्षाधिकारिणो भृतिमाह — अन्तेत्वादि । अन्तपालः, सपादपणिकां पादाधिकपणरूपां, वर्तनीं तत्संज्ञां मार्गरक्षभृर्ति, गृह्णीयात्, पण्यवहनस्य पण्यवाहिनः शकटादेः । पणिकाम् एकखुरस्य एकपणात्मिकां वर्तमी खरादेगृह्णीयात् । पशूनामर्धपणिकां गवादीनाम् अर्मपणात्मिकां, क्षुद्रपशूनां पादिकां मेषादीनां पादपणरूपाम्, अंसभारस्य माषिकां स्कन्धभारवाहिनस्ताम्रमाषात्मिकां च, वर्तनीं गृह्णीयात् । **नष्टापहृतमिति** । मुष्टनष्टं च, प्रतिविदध्याद् तस्करात् प्रत्यानीय वा तस्करानुपलम्भेस्वहस्ताद् वा दद्याद् अन्तपालः ।
 
@@ -6800,7 +6800,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **\_\_\_\_\_\_\_\_**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 **कस्मात्**, एष राज्ञः प्रभावः ईदृशो राज्ञो महिमोपलभ्यते — यत् परोक्षस्यापि भवदीयसारफल्गुभाण्डजातस्येयत्तां दिव्यदृष्ट्यावगम्यास्मभ्यमुपदिशति, इति ।
 
@@ -6828,7 +6828,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** क्षौमदुकूलक्रिमितानकङ्कटहरितालमनश्शिलाहिङ्गुलुकलोहवर्ण-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) शुल्कव्यवहार** इति । अमुकपण्यस्यैतावच्छुल्कमिति व्यवस्थाकरणं शुल्कव्यवहारः । स इहोच्यते ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> शुल्कव्यवहार** इति । अमुकपण्यस्यैतावच्छुल्कमिति व्यवस्थाकरणं शुल्कव्यवहारः । स इहोच्यते ।
 
  शुल्कमादौ त्रिधा पुनर्द्विधा च विभजते — **बाह्यमित्यादि** । चः प्रथमो भिन्नक्रमः । शुल्कं, बाह्यमाभ्यंन्तरमातिथ्यं च इति त्रिधा भवतीत्यर्थः । तत्र स्वजनपदोत्पन्नपण्यसम्बन्धि बाह्यं, दुर्गस्थानीयाद्यभ्यन्तरभूमिप्रभवपण्यसम्बन्धि आभ्यन्तरं, विदेशागतपण्यसम्बन्धि आतिथ्यम् । त्रिविधमपि तत् नैष्काम्यं निष्क्राम्यपण्यनिष्क्रमणनिमित्तं, प्रावेश्यं च प्रवेशनीयपण्यप्रवेशननिमित्तं च इति पुनः प्रत्येकं द्विविधम् । वृद्धपाठोऽयं व्याख्याभाषयोरुपलब्धः । अवृद्धपाठे तु संबन्धि लक्ष्यम् ।
 
@@ -6850,7 +6850,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **जातिभूमिषु च पण्यानामविक्रयः।  
 खनिभ्यो धातुपण्यादाने षट्छतमत्ययः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**तानश्चिनपट्टः कङ्कटः सूत्रसन्नाहः हरितालमनश्शिलाहिङ्गुलुका व्याख्याताः अञ्जनं सौवीरकादि, इदं व्याख्यायामेव पठ्यते, लोहवर्णो लोहजातिः धातुर्गैरिकादिः इत्येतेषां, चन्दनादीनां चन्दनागुरुणी प्रसिद्धे कटुकं पिप्पल्यादि किण्वावरं किण्वं मद्यबीजंतदन्तं तैलजातीयं द्रवजातम् इत्येतेषां, सुरादीनां सुरा मद्यभेदः दन्तो गजदन्तः अजिनं कृष्णचर्म क्षौमदुकूलनिकरः क्षौमनिष्पादनार्थादुकूलनिप्पादनार्थाश्च तन्तुनिकराः आस्तरणं शयनोपवेशनसाधनं प्रावरणं प्रावारः क्रिमिजातं कौशेयम् इत्येतेषाम् अजैलकस्यच अजैलकालोमजस्य च, दशभागः पञ्चदशभागो वा शुल्कं भवति ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**तानश्चिनपट्टः कङ्कटः सूत्रसन्नाहः हरितालमनश्शिलाहिङ्गुलुका व्याख्याताः अञ्जनं सौवीरकादि, इदं व्याख्यायामेव पठ्यते, लोहवर्णो लोहजातिः धातुर्गैरिकादिः इत्येतेषां, चन्दनादीनां चन्दनागुरुणी प्रसिद्धे कटुकं पिप्पल्यादि किण्वावरं किण्वं मद्यबीजंतदन्तं तैलजातीयं द्रवजातम् इत्येतेषां, सुरादीनां सुरा मद्यभेदः दन्तो गजदन्तः अजिनं कृष्णचर्म क्षौमदुकूलनिकरः क्षौमनिष्पादनार्थादुकूलनिप्पादनार्थाश्च तन्तुनिकराः आस्तरणं शयनोपवेशनसाधनं प्रावरणं प्रावारः क्रिमिजातं कौशेयम् इत्येतेषाम् अजैलकस्यच अजैलकालोमजस्य च, दशभागः पञ्चदशभागो वा शुल्कं भवति ।
 
  **वस्त्रचतुष्पदेत्या**दि । वस्त्रादयो धान्यादयश्च प्रसिद्धाः तेषां विंशतिभागः पञ्चविंशतिभागो वा शुल्कम् । अयं पूर्वोक्तश्च विकल्पो यथादेशकालं द्रष्टव्यः ।
 
@@ -6875,7 +6875,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  **पुष्पफलवाटेभ्य** इत्यादि । सुगमम् ।
 
@@ -6900,7 +6900,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तिथिषु प्रतिपादनमानैश्च कर्म कारयितव्याः । सूत्रह्रासे वेतनह्रासो द्रव्यसारात् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) सूत्राध्यक्ष** इति सूत्रम् ।सूत्रम् ऊर्णादिजो गुणः तस्य अध्यक्षः कर्तनवानादिकारयिता । तद्व्यापारोऽभिधीयत इति सूत्रार्थः । ‘कार्पासक्षौमाणां पञ्चपले पलसूत्रम्’ इत्युक्तं कोष्ठागाराध्यक्षे । तदध्यक्षस्तद्व्यापारश्चानुक्त इहोच्यते ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> सूत्राध्यक्ष** इति सूत्रम् ।सूत्रम् ऊर्णादिजो गुणः तस्य अध्यक्षः कर्तनवानादिकारयिता । तद्व्यापारोऽभिधीयत इति सूत्रार्थः । ‘कार्पासक्षौमाणां पञ्चपले पलसूत्रम्’ इत्युक्तं कोष्ठागाराध्यक्षे । तदध्यक्षस्तद्व्यापारश्चानुक्त इहोच्यते ।
 
 ** सूत्राध्यक्ष** इति । सूत्राध्यक्षः सूत्रवर्मवस्त्ररज्जुव्यवहारं सूत्रादीनां कर्तनवानादिकं, तज्जातपुरुषैः तच्छिल्पिकुलजैस्तत्कर्मकुशलैश्च पुरुषैः, कारयेत्।
 
@@ -6921,7 +6921,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** स्वयमागच्छन्तीनां वा सूत्रशालां प्रत्युषसि भाण्डवेतनविनिमयं कारयेत् । सूत्रपरीक्षार्थमात्रः प्रदीपः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** रूपैः परिच्छेदैश्च, कर्म कारयितव्याः । अथवा तिथिषु दिवसविशेषेषु पर्वादिषु अशनदानसत्कारैश्च कर्म कारयितव्याः । सूत्रह्रासे सूत्रस्य न्याय्यप्रमाणतो न्यूनत्वे, वेतनह्रासः, द्रव्यसारात् द्रव्यार्घमपेक्ष्य, कर्तव्य इति शेषः । 
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** रूपैः परिच्छेदैश्च, कर्म कारयितव्याः । अथवा तिथिषु दिवसविशेषेषु पर्वादिषु अशनदानसत्कारैश्च कर्म कारयितव्याः । सूत्रह्रासे सूत्रस्य न्याय्यप्रमाणतो न्यूनत्वे, वेतनह्रासः, द्रव्यसारात् द्रव्यार्घमपेक्ष्य, कर्तव्य इति शेषः । 
 
  **कृतकर्मेत्या**दि । इदं पदमन्यत्र व्याख्यातम् । एवम्भूतैः कारुभिश्च तन्तुवायादिभिश्च, कर्म कारयेत् । प्रतिसंसर्गं सख्यं च, गच्छेत् तत्कर्मसम्भावितच्छलप्रयोगज्ञानार्थम् ।
 
@@ -6939,7 +6939,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** रज्जुवर्तकैश्चर्मकारैश्च स्वयं संसृज्येत । भाण्डानि च वरत्रादीनि वर्तयेत् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** वा, सूत्रशालां, प्रत्युषसि ईषत्तमसिदिनमुखे, भाण्डवेतनविनिमयं तद्गृहकर्तितभाण्डग्रहणपूर्वकवेतनार्पणं, कारयेत् । **मूत्रपरीक्षार्थमात्रः** **प्रदीप** इति, सूत्रगुणपरीक्षणप्रयोजना तदन्यप्रयोजनाक्षमा मात्रा प्रकाशपरिमाणं यस्य स तथाभूतः दीपः कार्यस्तत्काल इति शेषः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** वा, सूत्रशालां, प्रत्युषसि ईषत्तमसिदिनमुखे, भाण्डवेतनविनिमयं तद्गृहकर्तितभाण्डग्रहणपूर्वकवेतनार्पणं, कारयेत् । **मूत्रपरीक्षार्थमात्रः** **प्रदीप** इति, सूत्रगुणपरीक्षणप्रयोजना तदन्यप्रयोजनाक्षमा मात्रा प्रकाशपरिमाणं यस्य स तथाभूतः दीपः कार्यस्तत्काल इति शेषः ।
 
 ** स्त्रिया** इत्यादि । स्त्रियाः, मुखसन्दर्शने मुखनिर्वर्णने, अन्यकार्यसम्भाषायां प्रकृतकार्यातिरिक्तकार्यप्रश्नादौ वा, पूर्वः साहसदण्डः । वेतनकालातिपातने भृतिदानकालातिक्रमे, मध्यमः साहसदण्डः ।अकृतकर्मवेतनप्रदाने च अकृतकर्मणामुत्कोचग्रहणेन वेतनस्य दाने च, मध्यम इत्यनुषज्यते ।
 
@@ -6954,7 +6954,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 त्रयोविंशोऽध्यायः सूत्राध्यक्षः,  
 आदितश्चतुश्चत्वारिंशः ॥
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** अध्यायान्ते श्लोकमाह — **सूत्रेत्यादि ।** सूत्रवल्कमयीः **कार्पासादि**तन्तुमयीः शणादिवल्कमयीश्च, रज्जूः, वैत्रवैणवीर्वरत्राः वेत्रमयीवेणुमयीश्चवरत्राः, कीदृशीः, सान्नाह्याः सन्नाहोपयोगिनीः, यानयुग्यस्य बन्धनीयाश्च रथादेरश्वादेश्च बन्धनयोग्याश्च, कारयेत्॥
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** अध्यायान्ते श्लोकमाह — **सूत्रेत्यादि ।** सूत्रवल्कमयीः **कार्पासादि**तन्तुमयीः शणादिवल्कमयीश्च, रज्जूः, वैत्रवैणवीर्वरत्राः वेत्रमयीवेणुमयीश्चवरत्राः, कीदृशीः, सान्नाह्याः सन्नाहोपयोगिनीः, यानयुग्यस्य बन्धनीयाश्च रथादेरश्वादेश्च बन्धनयोग्याश्च, कारयेत्॥
 
 इति कौटलीयार्थशास्त्रव्याख्यायाम् अध्यक्षप्रचारे द्वितीयाधिकरणे  
 त्रयोविंशोऽध्यायः सूत्राध्यक्षः,  
@@ -6970,7 +6970,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** षोडशद्रोणं जाङ्गलानां वर्षप्रमाणमध्यर्धमानूपानाम् । देशवा-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) सीताध्यक्ष** इति सूत्रम्।कृषिकर्माध्यक्ष इति सूत्रार्थः । ‘सीताध्यक्षोपनीतः सस्यवर्णः सीता’इत्युक्तं कोष्ठागाराध्यक्षे।तदध्यक्षस्तद्व्यापारश्चाधुनोच्यते ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> सीताध्यक्ष** इति सूत्रम्।कृषिकर्माध्यक्ष इति सूत्रार्थः । ‘सीताध्यक्षोपनीतः सस्यवर्णः सीता’इत्युक्तं कोष्ठागाराध्यक्षे।तदध्यक्षस्तद्व्यापारश्चाधुनोच्यते ।
 
  **सीताध्यक्ष** इति । सीताध्यक्षः, कृषितन्त्रशुल्ववृक्षायुर्वेदज्ञः कृषितन्त्र वृद्धपराशरादिप्रणीतं शुल्बशास्त्रं भूमिसिराज्ञानशास्त्रं वृक्षायुर्वेद आभिवेश्यादिप्रणीतः तज्ज्ञः, तज्ज्ञसखो वा, सर्वधान्यादीनि धान्यादीनि सर्वविधस्वस्वावान्तरभेदयुक्तानि, यथाकालं संगृह्णीयात् । तत्र वाल्लिक्यं कूश्माण्डादिवल्लीफलम् । शेषं प्रसिद्धम् ।
 
@@ -6988,7 +6988,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तस्योपलब्धिर्बृहस्पतेः स्थानगमनगर्भाधानेभ्यः शुक्रोदयास्तमयचारेभ्यः सूर्यस्य प्रकृतिवैकृताच्च ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 मेघाभिवृष्टोदकासारपरिपूरिते यदि तद्गतं जलं षोडशद्रोणात्मकमुपलभ्येत, तदा तावद् वर्षप्रमाणं मरुप्रायाणां भूभागानां सस्यनिष्पादनपर्याप्तं भवतीत्यर्थः । अध्यर्धं चतुर्विंशतिद्रोणम्, आनूपानां जलप्रायाणाम् । इदं जाङ्गलानूपभेदेन वर्षप्रमाणमुक्तम् । देशभेदेन तदाह — **देशवापानामिति ।** वर्षप्रमाणं वक्ष्यत इति शेषः । अर्धत्रयोदशः अर्धाधिकास्त्रयोदश वर्षप्रमाणद्रोणानि, अश्मकानाम् आरट्टानाम् ।त्रयोविंशतिः द्रोणानि, अवन्तीनां मालवानाम् । अभितम् असंख्यातं वर्षप्रमाणम्, अपरान्तानां पाश्चात्यदेशस्य । हैमन्यानां च हिमाम्बुनिष्पाद्यसस्यानां हिमवत्प्रदेशानां च, हैम्यानामिति पाठेऽप्ययमेवार्थः, कुल्यावापानां च कुल्योपनेयजलमातृकप्रदेशानां च, कालतः स्वस्वकालानुसारेण सस्यसम्पत्तिः, न तु वर्षप्रमाणापेक्षेत्यर्थः ।
 
  शोभनसंवत्सरस्य रूपमाह — **वर्षत्रिभाग** इत्यादि । वर्षत्रिभागः वर्षस्य तत्तद्देशोक्तवृष्टिप्रमाणस्य त्रिधा विभक्तस्य एकस्त्रिभागः, पूर्वपश्चिममासयोः श्रावणप्रोष्ठपदाश्वयुजकार्त्तिकाख्यमासचतुष्टये प्रथमचरमयोः श्रावणकार्त्तिकयोः भवति । शेषौ द्वौ त्रिभागौ, मध्यमयोः प्रोष्ठपदाश्वयुजयोः भवतः । सुषमारूपं सुषमायाः शोभनस्य संवत्सरस्य रूपं भवति, अर्थाद् यथोक्तं भागशो वर्षणम् ।
@@ -7010,7 +7010,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** ततः प्रभूतोदकमल्पोदकं वा सस्यं वापयेत् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 **तडिदभ्रानिलविद्युज्जलवृषितो भवति यदि च वैशाखः ।  
 सम्यग् वर्षति मघवान् धारणदिवसेषु वर्षति चेत् ॥”**
@@ -7033,7 +7033,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** स्वसेतुभ्यः हस्तप्रावर्तिममुदकभागं पञ्चमं दद्युः।स्कन्धप्रावर्तिमं चतुर्थम् । स्रोतोयन्त्रप्रावर्तिमं च तृतीयम्।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** सस्येषु विशेषमाह — **शालीत्या**दि । शाल्यादयः सप्त, पूर्ववापाः पूर्वमेव वपनीयाः ।मुद्गमाषशैम्ब्याः मध्यवापाः ।कुसुम्भादयोऽष्टौ, पश्चाद्वापाः पश्चिमकालवपनीयाः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** सस्येषु विशेषमाह — **शालीत्या**दि । शाल्यादयः सप्त, पूर्ववापाः पूर्वमेव वपनीयाः ।मुद्गमाषशैम्ब्याः मध्यवापाः ।कुसुम्भादयोऽष्टौ, पश्चाद्वापाः पश्चिमकालवपनीयाः ।
 
 ** यथर्तुवशेन वा बीजवापा** इति। य एते शाल्यादिबीजवापा उक्ताः अनुक्ताश्चान्ये, ते सर्वे तत्तद्वीजसम्यङ्निष्पत्तियोग्यकालानुरोधेन कर्तव्याः ।
 
@@ -7049,7 +7049,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** फेनाघातो बल्लीफलानां, परीवाहान्ताः पिप्पलीमृद्वीकेक्षूणां, कूपपर्यन्ताः शाकमूलानां, हरणिपर्यन्ता हरितकानां, पाल्यो लवानां गन्धभैषज्योशीरहीदेरपिण्डालुकादीनाम्।यथास्वं भूमिषु च स्थल्पाश्चानूप्याश्रौषधीः स्थापयेत्।**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>
 
 **“राजा भूमेः पतिर्दृष्टः शास्त्रज्ञैरुदकस्य च।**  
 
@@ -7071,7 +7071,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 न सर्पास्तत्र तिष्ठन्ति धूमो यत्रैष तिष्ठति ॥**
 
 **सर्वबीजानां तु प्रथमवापे सुवर्णोदकसंप्लुतां पूर्वमुष्टिं वापयेत्अमुं च मन्त्रं ब्रूयात्—**  
-![](../../../books_images/U-IMG-1696396457Line.jpg)स्थल्याश्च स्थलप्ररोहिणीश्च, अनूप्याश्च जलप्रायदेशप्ररोहिणीश्च, ओषधीः,स्थापयेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>स्थल्याश्च स्थलप्ररोहिणीश्च, अनूप्याश्च जलप्रायदेशप्ररोहिणीश्च, ओषधीः,स्थापयेत् ।
 
  बीजसंस्कारमाह — **तुषारे**त्यादि । तुषारपायनं रात्रौ तुषारे निवेशनम्,उष्णशोषणम् आतपे दिवा निवेशनं च, आ सप्तरात्रात् सप्तरात्रमभिव्याप्य,कर्तव्यमिति शेषः । इति एष प्रकारो, धान्यबीजानाम् । त्रिरात्रं पञ्चरात्रं वा, कोशीधान्यानां मुद्गमाषादीनां तुषारपायनमुष्णशोषणं च । मधुघृतसूकरवसाभिःशकृद्युक्ताभिः माध्वीकसर्पिर्वराहकायस्नेहैर्गोमययुक्तैः, काण्डबीजानाम् इक्षुप्रभृतीनां, छेदलेपः छिन्नप्रदेशलेपनम् । मधुघृतेन, कन्दानां सूरणादीनां, छेदलेपः।अस्थिबीजानां कार्पासादिबीजानां, शकृदालेपः । शाखिनाम् आम्रपनसादिवृक्षाणां, गर्तदाहः तन्निवेशगर्ते तृणादिदहनं, गोस्थिशकृद्भिःगवास्थिपुरीषैः,काले दौहृदं च पुष्पफलप्रसवार्हवयःप्राप्तौ दोहलं च, कर्तव्यमिति शेषः।
 
@@ -7103,7 +7103,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **यथाकालं च सस्यादि जातं जातं प्रवेशयेत् ।  
 न क्षेत्रे स्थापयेत् किञ्चित् पलालमपि पण्डितः ॥**
 
-![](../../../books_images/U-IMG-1696396457Line.jpg)प्रथमां बीजमुष्टिं वापयेत् । अमुं वक्ष्यमाणं च, मन्त्रं मन्त्रश्लोकं ब्रूयात्वापयन्नुच्चारयेत् ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>प्रथमां बीजमुष्टिं वापयेत् । अमुं वक्ष्यमाणं च, मन्त्रं मन्त्रश्लोकं ब्रूयात्वापयन्नुच्चारयेत् ।
 
 **प्रजापतय** इत्यादि । देवाय पर्जन्याय । ऋध्यतां वर्धताम् । ऋध्यतेरात्मनेपदमार्षम् । आद्ययोः श्लोकपादयोर्विसन्धानमपि मन्त्रत्वकृतम् । ‘प्रजापतेः काश्यपाय देवलाय नमः सदा’ इति भाषापाठः । तत्र तु नम इत्येतदनव्ययं परिकल्प्य प्रजापतेरिति षष्ठी सम्बन्धे समर्थनीया, ‘नमःस्वस्ती’ति सूत्रेस्वस्त्यादिसाहचर्येणाव्ययस्यैव नमःशब्दस्य ग्रहणात् ।
 
@@ -7127,7 +7127,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_  
 
-*![](../../../books_images/U-IMG-1696396457Line.jpg)*
+*<MISSING_FIG href="../../../books_images/U-IMG-1696396457Line.jpg"/>*
 
  **प्रकराणामिति।** प्रकराणां धान्यनिवेशस्थानानां, समुच्छ्रामान् उन्नतसन्निवेशान् कुर्वीत।वलभीर्वा तथाविधाः उच्छ्रितानि कूटागाराणि वा कुर्वीत शिरांसि च तेषां, न संहतानि कुर्वीत अन्योन्योपश्लिष्टानि न कुर्वीत, न तुच्छानि रिक्तकानि न कुर्वीत किन्तु चण्डवाताद्यपहारनिषेधार्थं लोहपाषाणादिगुरुद्रव्यगर्भाणि कुर्वीत ॥
 
@@ -7143,7 +7143,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सुराध्यक्षः सुराकिण्वव्यवहारान् दुर्गे जनपदे स्कन्धावारे वातज्जातसुराकिण्वव्यवहारिभिः कारवेदेकमुखमनेकमुखंवा विक्रयक्रयवशेन वा । षट्छतमत्ययमन्यत्र कर्तृक्रेतृविक्रेतॄणां स्थापयेत् । ग्रामादनिर्णयनमसम्पातं च सुरायाः, प्रमादभयात् कर्मसु निर्दिष्टानां, मर्यादातिक्रमभयादार्याणाम् उत्साहभयाच्च तीक्ष्णानाम् ।**
 
-** लक्षितमल्पं वा चतुर्भागमर्धकुडुबंकुटुबमर्धप्रस्थं प्रस्थं वेति ज्ञातशौचा निर्हरेयुः।![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+** लक्षितमल्पं वा चतुर्भागमर्धकुडुबंकुटुबमर्धप्रस्थं प्रस्थं वेति ज्ञातशौचा निर्हरेयुः।<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 ** सुराध्यक्ष** इति सूत्रम् । सुरा गौडी माध्वी पैष्टीत्येवं त्रिविधा तस्याअध्यक्षस्तत्सन्धानाद्यधिकृतः। स इहोच्यत इति सूत्रार्थः।
 
  समाहर्तृप्रत्यवेक्षणीये दुर्गे सुरा निर्दिष्टा । तदध्यक्षस्तद्व्यापारो वानाभिहितइदानीमभिधीयते ।
@@ -7158,7 +7158,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** न चानर्घेण कालिकां वा सुरां दद्यादन्यत्र दुष्टसुरायाः। तामन्यत्र विक्रापयेत्।दासकर्मकरेभ्यो वा वेतनं दद्यात् । वाहनप्रतिपानंसूकरपोषणं वा दद्यात् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** सामान्यविधिमाह — **पानागारेष्वि**त्यादि । वेति वाक्यपूरणे । असश्चारिणः मदकालवर्जितसम्पाताः।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** सामान्यविधिमाह — **पानागारेष्वि**त्यादि । वेति वाक्यपूरणे । असश्चारिणः मदकालवर्जितसम्पाताः।
 
 एवं गर्ह्योऽपि सुराव्यवहारश्चोरसाहसिकाद्युपलम्भसाधनत्वान्महाफलइत्यभिप्रायेणाह —**निक्षेपे**त्यादि । निक्षेपोभाण्डघटनाय दत्तम्, उपनिधिःन्यासः, प्रयोगः आधिः, अपहृतं चोरितम्, आदिशब्दाद् याचितकादि गृह्यते,एषां निक्षेपादीनाम्, अनिष्टोपगतानां साहसहृतानां च, द्रव्याणां, ज्ञानार्थंतत्त्वावगमाथम्, अस्वामिकम् अविदितस्वामिकं, कुप्यं खड्गादिकं, हिरण्यं चमद्यपाविना पानायाहितम् उपलभ्य, **निक्षेप्ता**रं कुप्यहिरण्याधातारं पुरुषम्,अन्यत्र पानागारादन्यस्मिन् प्रदेशे, व्यपदेशेन वाक्पारुष्यादिच्छलेन, ग्राहयेत् नगराध्यक्षेण । पानागार एव **तद्ग्रहणे** व्यपदेशाकरणे चान्ये चोरादयःपानशौण्डा यथोक्तकुप्यादिकमविश्वासात् तत्र नानयेयुरित्यत उक्तम् ‘अन्यत्रे’ति ‘व्यपदेशेने’ति च । अतिव्ययकर्तारम् आयाधिकव्ययकारिणम्, अनायतिव्ययम् आयतिं विना व्ययकारिणं च, ग्राहयेदित्यनुषङ्गः।
 
@@ -7174,7 +7174,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** मेदकप्रसन्नासवारिष्टमैरेयमधूनाम् ।**
 
-** उदकद्रोणं तण्डुलानामर्धाढकं त्रयः प्रस्थाः किण्वस्येति मेदकयोगः।![](../../../books_images/U-IMG-1696316066Line.jpg)**
+** उदकद्रोणं तण्डुलानामर्धाढकं त्रयः प्रस्थाः किण्वस्येति मेदकयोगः।<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  **पानागाराणी**त्यादि । पानोद्देशानि पानयोग्योत्कृष्टप्रदेशोपेतानि ।ऋतुसुखानि ऋतुषु सर्वेषु सुखानि तत्तदुचितभोग्यवस्तुसमृद्धतया सुखकराणि । शेषं सुगमम् ।
 
@@ -7197,7 +7197,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** मेषशृङ्गीत्वक्क्वाथाभिषुतो गुलप्रतीवापः पिप्पलीमरिचसम्भारस्त्रिफलायुक्तो वा मैरेयः। गुलयुक्तानां वा सर्वेषां त्रिफलासम्भारः।**
 
 ** मृद्वीकारसो मधु । तस्य स्वदेशो व्याख्यानं कापिशायनं हारहूरकमिति ।**  
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** प्रसन्नायोगमाह — **द्वादशाढकमि**त्यादि । पुत्रकत्वक्कफलयुक्तः कामरूपजनपदप्रसिद्धपुत्रकाख्यवृक्षविशेष- त्वक्फलसहितः। जातिसम्भारः ‘पाठालोध्रे’त्यादिनानुपदं वक्ष्यमाणः पाठादिप्रयोगः। शेषं सुगमम् । पूर्वत्र तण्डुलोक्तदिशा जलप्रमाणमप्यत्र पिष्टाष्टगुणमूहनीयम् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** प्रसन्नायोगमाह — **द्वादशाढकमि**त्यादि । पुत्रकत्वक्कफलयुक्तः कामरूपजनपदप्रसिद्धपुत्रकाख्यवृक्षविशेष- त्वक्फलसहितः। जातिसम्भारः ‘पाठालोध्रे’त्यादिनानुपदं वक्ष्यमाणः पाठादिप्रयोगः। शेषं सुगमम् । पूर्वत्र तण्डुलोक्तदिशा जलप्रमाणमप्यत्र पिष्टाष्टगुणमूहनीयम् ।
 
  आसवयोगमाह — **कपित्थे**त्यादि । कपित्थतुला शतपलः कप्रित्यफलसारः, फाणितं, पञ्चतौलिकं तुलापञ्चकपरिमाणं, मधुनः प्रस्थः प्रस्थपरिमाणं माध्वीकम्, इत्येवम्प्रकार आसवयोगः। एष एव कपित्थादिप्रमाणच.तुर्भागाधिको ज्येष्ठः, तच्चतुर्भागन्यूनस्तु कनिष्ठ इत्युच्यत इत्याह —पादाधिक इत्यादि । अर्थात् पूर्वोक्तो मध्यमः।
 
@@ -7214,7 +7214,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** चोचचित्रकविलङ्गगजपिप्पलीनां च कार्षिकः क्रमुकमधुकमुस्तालोध्राणां द्विकार्षिकश्चासवसम्भारः। दशभागश्चैषां बीजबन्धः।**
 
-** प्रसन्नायोगः श्वेतसुरायाः।![](../../../books_images/U-IMG-1696316066Line.jpg)**शेति नदी तत्तीरगतं नगरं च तत्र भवं कापिशायनम् । हरहूरं तदेव नगरंतत्र भवं हारहूरकम् । द्व्याख्यानमिति टीकाभाषयोः स्वरसप्रतीते पाठे आख्यानद्वयमित्यर्थः, क्लीबत्वं त्रिभुवनवत्।
+** प्रसन्नायोगः श्वेतसुरायाः।<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**शेति नदी तत्तीरगतं नगरं च तत्र भवं कापिशायनम् । हरहूरं तदेव नगरंतत्र भवं हारहूरकम् । द्व्याख्यानमिति टीकाभाषयोः स्वरसप्रतीते पाठे आख्यानद्वयमित्यर्थः, क्लीबत्वं त्रिभुवनवत्।
 
  किण्वविधिमाह — **माषकलनी**त्यादि । माषकलनीद्रोणं माषकल्कभावितमुदकद्रोणम्, आमं सिद्धं वा अक्वथितं क्वथितं वा, त्रिभागाधिकतण्डुलंत्रिभागाधिकद्रोणपरिमाणतण्डुलपिष्टयुक्तं, मोरटादीनां वक्ष्यमाणानां, कार्षिकमामयुक्तं प्रत्येकपादपलभागयुक्तं, किण्वाबन्धः किण्वयोगः।
 
@@ -7231,7 +7231,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** कुटुम्बिनः कृत्येषु श्वेतसुरामौषधार्थंवारिष्टमन्यद् वा कर्तुं लभेरन् ।**
 
 ** उत्सवसमाजयात्रासु चतुरहः सौरिको देयः । तेष्वननुज्ञातानांप्रहवणान्तं दैवसिकमत्ययं गृह्णीयात् ।**  
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 श्वेतसुराया अपि योगो भवति । किन्तु स सम्भाररहितः समकिण्वाबन्धश्चेत्याह स्वामी । सम्भारबीजबन्धावुभावपि नेत्याहु भाषा ।
 
  अथ सुराभेदाः —**सहकारसुरे**ति । सुरैव सहकारतैलयुक्ता सहकारसुरा । गुडप्रतिवापयुक्ता सुरा रसोत्तराख्या या शीधुइत्युच्यते । बीजोत्तराबीजद्रव्यमात्राधिका महासुरा । सम्भारमात्राधिका सुरा सम्भारिकी ।
@@ -7253,7 +7253,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 पञ्चविंशोऽध्यायः सुराध्यक्षः,  
 आदितः षट्चत्वारिंशः ॥
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 पिबतां, प्रहवणान्तं प्रहवणं तुष्टिभोजनं तेनोत्सवादिसमाप्तिकालो लक्ष्यते, तदवधिकमित्यर्थः, दैवसिकमत्ययं गृह्णीयात् प्रात्यहिकं दण्डं गृह्णीयात् सुराध्यक्षः । अननुज्ञातपानजनितमददिवसेषु कर्महानिनिमित्तं दण्डं कर्मकरेभ्यो गृह्णीयादिति केचिद् व्याचक्षते ।
 
@@ -7276,7 +7276,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** प्रवृत्तहिंसानामपरिगृहीतानां षड्भागं गृह्णीयात् । मत्स्यपक्षिणां दशभागं वाधिकं, मृगपशूनां शुल्कं वाधिकम् ।**
 
 ** पक्षिमृगाणां जीवत्षद्भागमभयवनेषु प्रमुञ्चेत् ।  
-![](../../../books_images/U-IMG-1696316066Line.jpg)सूनाध्यक्ष** इति सूत्रम् । सूना भक्ष्यप्राणिवधस्थानं तदध्यक्षव्यापारोऽभिधीयत इति सूत्रार्थः ! उत्तममध्यमाधमेषु कर्मसु तदनुरूपा अध्यक्षाः कार्या इत्युक्तमधस्तात् । तत्र समाहर्तृसन्निधातृप्रभृतय उत्तमाः पौतवाध्यक्षादयो मध्यमाश्चाभिहिताः । इदानीमधमकर्माध्यक्षा अभिधीयन्त इति सम्बन्धः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>सूनाध्यक्ष** इति सूत्रम् । सूना भक्ष्यप्राणिवधस्थानं तदध्यक्षव्यापारोऽभिधीयत इति सूत्रार्थः ! उत्तममध्यमाधमेषु कर्मसु तदनुरूपा अध्यक्षाः कार्या इत्युक्तमधस्तात् । तत्र समाहर्तृसन्निधातृप्रभृतय उत्तमाः पौतवाध्यक्षादयो मध्यमाश्चाभिहिताः । इदानीमधमकर्माध्यक्षा अभिधीयन्त इति सम्बन्धः ।
 
  तदाह —**सूनाध्यक्ष** इति सूनाध्यक्षः, प्रदिष्टाभयानां प्रख्यापिताहिंसानाम्, अभयवनवासिनां च ब्रह्मसोमारण्यसर्वातिथिमृगवनादिवासिनां च, मृगपशुपक्षिमत्स्यानां मृगाणां कुरङ्गादीनां पशूनां खड्गमहिषादीनां पक्षिणा मयूरादीनां मत्स्यानां च, बन्धवधहिंसायां बन्धनप्रहारमारणेषु, उत्तमम् उत्तमसाहसं, दण्डं कारयेत् । कुटुम्बिनाम्, अभयवनपरिग्रहेषु अभयवनवासिमृगादिविषये वधादौ, मध्यमं साहसं, कारयेत् ।
 
@@ -7291,7 +7291,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** मृगपशुनामनस्थि मांसं सद्योहतं विक्रीणीरन् । अस्थिमतः प्रतिपातं दद्युः । तुलाहीने हीनाष्टगुणम् ।**
 
 ** वत्सो वृषो धेनुश्चैषामवध्याः । घ्नतः पञ्चाशत्को दण्डः । क्लिष्टघातं घातयतश्च।**  
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** रक्ष्यप्राणिन आह—**सामुद्रे**त्यादि । सामुद्राः समुद्रभवाः हस्त्यश्वाद्याकृतयश्चेति विग्रहः तथाभूताः, मत्स्याः जलचरविशेषाः, तथा सारसाः सरश्चराः, नादेयाः नदीचराः, तटाककुल्योद्भवा वा तटाकभवाः कुल्याभवाश्च मत्स्याः, तथा क्रौञ्चोत्क्रोशकादयस्त्रयोदश पक्षिणः, तत्र क्रौञ्चः क्रुङ्नामाउत्क्रोशकः कुररः दात्यूहः कालकण्ठकः जीवञ्जीवकः पक्षिभेदः भृङ्गराजो धूम्याटः चकोरश्चन्द्रिकाप्रियः मदनशारिके पक्षिजातिभेदौ शेषाः प्रसिद्धाः, विहारपक्षिणः क्रीडार्थाः कुक्कुटादयः, मङ्गल्याश्चान्येऽपि प्राणिनः पक्षिमृगाः मङ्गलार्थाश्च गरुडभरद्वाजादय इतरेऽपि प्राणिनः पक्षिणो मृगाश्च, हिंसाबाधेभ्यः मारणपीडनेभ्यो, रक्ष्याः । रक्षातिक्रमे तद्रक्षणानास्थायां, पूर्वःसाहसदण्डः, सूनाध्यक्षस्य ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** रक्ष्यप्राणिन आह—**सामुद्रे**त्यादि । सामुद्राः समुद्रभवाः हस्त्यश्वाद्याकृतयश्चेति विग्रहः तथाभूताः, मत्स्याः जलचरविशेषाः, तथा सारसाः सरश्चराः, नादेयाः नदीचराः, तटाककुल्योद्भवा वा तटाकभवाः कुल्याभवाश्च मत्स्याः, तथा क्रौञ्चोत्क्रोशकादयस्त्रयोदश पक्षिणः, तत्र क्रौञ्चः क्रुङ्नामाउत्क्रोशकः कुररः दात्यूहः कालकण्ठकः जीवञ्जीवकः पक्षिभेदः भृङ्गराजो धूम्याटः चकोरश्चन्द्रिकाप्रियः मदनशारिके पक्षिजातिभेदौ शेषाः प्रसिद्धाः, विहारपक्षिणः क्रीडार्थाः कुक्कुटादयः, मङ्गल्याश्चान्येऽपि प्राणिनः पक्षिमृगाः मङ्गलार्थाश्च गरुडभरद्वाजादय इतरेऽपि प्राणिनः पक्षिणो मृगाश्च, हिंसाबाधेभ्यः मारणपीडनेभ्यो, रक्ष्याः । रक्षातिक्रमे तद्रक्षणानास्थायां, पूर्वःसाहसदण्डः, सूनाध्यक्षस्य ।
 
  मांसविक्रयविधिमाह—**मृगेत्या**दि । मृगपशूनाम्, अनस्थि अस्थिविनाकृतं, मांसं, सद्योहतम् अयातयामम् अभिनवं, विक्रीणीरन् । अस्थिमतः अस्थियुक्तस्य मांसस्य, प्रतिपातं दद्युः पातो हानिः तत्प्रतिनिधिः प्रतिपातः हीनप्रतीकारः तं दद्युः अस्थियोगहापितमांसमात्राप्रतिपूरणार्थामधिकमांसमात्रां दधुरित्यर्थः । तुलाहीने हीनाष्टगुणं तुलोन्मानच्छद्मनिमित्तहानियोगिनि मांसे हीनमांसादष्टगुणं मांसं, दद्युः । तत्र चाष्टगुणेऽष्टभाग एव हापितपूरणार्थः क्रेतुः, अवशिष्टास्तु अष्टभागाः सप्त सूनाध्यक्षस्येत्याह स्वामी ।
 
@@ -7308,7 +7308,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**विचित्रव्यथोत्पादनदारुणो वधो यथा भवेत् तथा वधं कारयतश्च उक्त एव दण्डः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**विचित्रव्यथोत्पादनदारुणो वधो यथा भवेत् तथा वधं कारयतश्च उक्त एव दण्डः ।
 
  अविक्रेयमांसान्याह—**परिसूनमि**ति । परिसूनं सूना मांसपरिनिष्पादनस्थानं तत् परिवर्जितं यस्य तत् तथाभूतम् अर्थात् सूनातिरिक्तस्थलनिहतप्राणिदेहोद्धृतं मांसं, तथा अशिरःपादास्थि शिरःपादास्थिशून्यं वनहतस्वादितावशिष्टमृगाङ्गसम्बन्धि मांसं, तथाविगन्धं दुर्गन्धि मांसं, स्वयंमृतं च रोगमृतमांसं च, न विक्रीणीरन् । अन्यथा परिसूनादिविक्रये, द्वादशपणो दण्डः ।
 
@@ -7326,7 +7326,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सौभाग्यालङ्कारद्ध्या सहस्रेण वारं कनिष्टं मध्यममुत्तमं वारो-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **गणिकाध्यक्ष** इति सूत्रम् । गणिका रूपाजीवाः तासामध्यक्षः, अर्थात् तद्व्यापार उच्यत इति सूत्रार्थः । ‘रूपाजीवाः स्नानशुद्धशरीराः परिवर्तितवस्त्रालङ्काराः पश्येदि’त्युक्तम् । तदध्यक्षस्त्वनुक्त इदानीमभिधीयते ।
 
 ** गणिकाध्यक्ष** इति । सः, गणिकान्वयां गणिकावंशभवाम्, अगणिकान्वयां वा, वाशब्देन गणिकात्वं प्रति वंशस्याप्रयोजकत्वे सूचिते गणिकात्वप्रयोजकं धर्ममाह — रूपयौवनशिल्पसम्पन्नां सौन्दर्यतरुणिमकलाकौशलशालिनी स्त्रियं, सहस्रेण गणिकां कारयेत् नवकुटुम्बस्थापनार्थरूप्यसहस्रदानेन गणिकास्थाने स्थापयेत्, वक्ष्यमाणनियोगानुष्ठानाय । अयमेकगणिकास्थापनपक्षः । अनेकगणिकास्थापनपक्षमाह — **कुटुम्बर्धेनेति ।** कुटुम्बं गणिकाकुटुम्बकर्म राजपरिचर्यालक्षणं तस्यार्धेन अर्धमेकममयानुष्ठेयम रमन्ययेत्यर्धशो विभजनेन, अथवा कुटुम्बस्थापनार्थदेयद्रव्यं कुटुम्बंं तस्यार्धेन अर्धशो दानेन, प्रतिगणिकां द्वितीयामपि कारयेत् । कुटुम्बार्धोक्त्या पूर्वोक्तस्य सहस्रस्याप्यर्धशो विभज्य दानं गणिकाप्रतिगणिकयोरुक्तप्रायम् ।
@@ -7345,7 +7345,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** भोगं दायमायं व्ययमायतिं च गणिकाया निबन्धयेत् । अतिव्ययकर्म च वारयेत् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 उत्तमस्य त्रिसहस्रग्रहणमिति बोद्धव्यम् । किमर्थं कनिष्ठादिमारोपयेदित्यत्राह—**छत्रभृङ्गारव्यजनशिबिकापीठिकारथेषु च विशेषार्थमिति** । छत्रादिग्रहणादिकर्मसु अनुष्ठानप्रतिनियमार्थं, यद्वा तेषु यथायोगमनुष्ठीयमानेषु शोभोत्कर्षार्थम् । तत्रच्छत्रादिषु षट्सु मध्ये प्रथमद्विकं नियोगस्य कनिष्ठस्य द्वितीयद्विकं मध्यमस्य तृतीयद्विकमुत्तमस्येति क्रम औचित्यादव सेयः ।
 
@@ -7365,7 +7365,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** गणिकामकामां रुन्धतो निष्पातयतो वा व्रणविदारणेन वा रूपनुपघ्नतः सहस्रदण्डः । स्थानविशेषेण वा दण्डवृद्विरा निष्क्रयद्विगुणात्। पणसहस्रं वा दण्डः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) मातृहस्तादि**ति । मातृहस्तादन्यत्र प्रियविटादिहस्ते, आभरणन्यासे आभरणानां रक्षार्थेऽर्पणे, सपादचतुष्पणो दण्डः, गणिकायाः । स्वापतेयं स्वं वस्त्रभाजनादि, विक्रयम्, आधानं वा, नयन्त्याः, सपादपञ्चाशत्पणो दण्डः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> मातृहस्तादि**ति । मातृहस्तादन्यत्र प्रियविटादिहस्ते, आभरणन्यासे आभरणानां रक्षार्थेऽर्पणे, सपादचतुष्पणो दण्डः, गणिकायाः । स्वापतेयं स्वं वस्त्रभाजनादि, विक्रयम्, आधानं वा, नयन्त्याः, सपादपञ्चाशत्पणो दण्डः ।
 
 ** चतुरित्या**दि । चतुर्विंशतिपणः तावन्मानो दण्डः, वाक्पारुष्ये वाचा पराक्रोशे । द्विगुणः अष्टचत्वारिंशत्पणः, दण्डपारुष्ये करपादलगुडताडनादौ । सपादपञ्चाशत्पणः, पणोऽर्धपणश्च सार्धपण इत्यर्थः, कर्णच्छेदने दण्डः तत्राद्यो राज्ञे देयः, द्वितीयस्तु गणिकाध्यक्षाय। त एते गणिकादण्डाः ।
 
@@ -7381,7 +7381,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** भोगं गृहीत्वा द्विषत्या भोगद्विगुणो दण्डः । वसतिभोगापहारे भोगमष्टगुणं दद्याद् अन्यत्र व्याधिपुरुषदोषेभ्यः।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**कुत इत्याह—**आ निष्क्रय**द्विगुणादिति । निष्क्रयश्चतुर्विंशतिसाहस्रः तद्द्विगुणोऽष्टाचत्वारिंशत्साहस्रः”इति । आ निष्क्रयद्विगुणादित्येतदनन्तरं ‘पणसहस्रं वा दण्डः’ इति वाक्यम् अर्थशास्त्रादर्शेषु पठ्यते । तत्तु स्वामिटीकाभाषयोरननुसंहितत्वात् पूर्वोत्तरग्रन्थानाकाङ्क्षितत्वाच्च प्रक्षिप्तं मन्यमानैर्न व्यारूयातमस्माभिः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**कुत इत्याह—**आ निष्क्रय**द्विगुणादिति । निष्क्रयश्चतुर्विंशतिसाहस्रः तद्द्विगुणोऽष्टाचत्वारिंशत्साहस्रः”इति । आ निष्क्रयद्विगुणादित्येतदनन्तरं ‘पणसहस्रं वा दण्डः’ इति वाक्यम् अर्थशास्त्रादर्शेषु पठ्यते । तत्तु स्वामिटीकाभाषयोरननुसंहितत्वात् पूर्वोत्तरग्रन्थानाकाङ्क्षितत्वाच्च प्रक्षिप्तं मन्यमानैर्न व्यारूयातमस्माभिः ।
 
 ** प्राप्ताधिकारा**मिति । लब्धच्छत्रभृङ्गारादिनियोगां, गणिक्रां, घातयतः, निष्क्रयत्रिगुणः द्वासप्ततिसाहस्रपणो, दण्डः । मातृकादुहितृकारूपदासीनां घाते कुट्टन्याः कुमार्याः प्रतिकर्मदास्या वा ताडने, उत्तमः साहसदण्डः ।
 
@@ -7403,7 +7403,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **गीतवाद्यपाठ्यनृत्तनाट्याक्षरचित्रवीणावेणुमृदङ्गपरचित्तज्ञानगनन्धमाल्यसंयूहनसम्पादनसंवाहनवैशिककलाज्ञानानि गणिका दासीरङ्गोपजीविनीश्च ग्राहयतो राजमण्डलादाजीवं कुर्यात् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
  **पुरुष**मिति । पुरुषं प्रत्याः मारयन्त्याः, चिताप्रतापः तेनैव सह चितायामारोप्य दहनम् असु प्रवेशनं वा गलमहाशिलाबन्धेन जलनिमज्जनं वा कर्तव्यम् ।
 
 ** गणिकाभरणमि**ति । गणिकाया आभरणम्, अर्थ तदन्यद् वा वस्तु, भोगं वा सम्भोगवेतनं वा, अपहरतः, अष्टगुणः अपहृतद्रव्याष्टगुणः, दण्डः । **गाणके**ति । सा, भोगम् आयतिं तन्मूलमायं, पुरुषं च कृतवासं, निवेदयेत् ।
@@ -7427,7 +7427,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**पूर्वोक्ताः, दासीरङ्गोपजीविनीश्च दासीर्गणिकातिरिक्तवेश्याः रङ्गोपजीविनीर्नटादिस्त्रियश्च, ग्राहयतः शिक्षयत आचार्यस्य, राजमण्डलादू राज्ञो यन्मण्डलं नगरग्रामादिसमूहोत्थमायजातं तत्सकाशाद् आजीवं वृत्तिं, कुर्यात् कल्पयेद् राजा । तत्र गीतवाद्ये प्रसिद्धे, पाठ्यमाख्यायिकादि, नृत्तं पदार्थाभिनयः, नाठ्यं वाक्यार्थाभिनयः, अक्षरं लिपिः, चित्रम् आलेख्यकर्म, वीणा वेणुर्मृदङ्गश्चप्रसिद्धाः, परचित्तज्ञानं परेङ्गिताकारवेदनं, गन्धमाल्यसंयूहनसम्पादने गन्धसंयूहनं गन्धयुक्तिः माल्यसम्पादनं माल्यगुम्फनं, संवाहनमङ्गमर्दनं, वैशिकं दत्तकाचार्यादितन्त्रं, कलाः उक्तातिरिक्ताश्चतुष्षष्ठ्यन्तर्गताः कलाविद्याः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**पूर्वोक्ताः, दासीरङ्गोपजीविनीश्च दासीर्गणिकातिरिक्तवेश्याः रङ्गोपजीविनीर्नटादिस्त्रियश्च, ग्राहयतः शिक्षयत आचार्यस्य, राजमण्डलादू राज्ञो यन्मण्डलं नगरग्रामादिसमूहोत्थमायजातं तत्सकाशाद् आजीवं वृत्तिं, कुर्यात् कल्पयेद् राजा । तत्र गीतवाद्ये प्रसिद्धे, पाठ्यमाख्यायिकादि, नृत्तं पदार्थाभिनयः, नाठ्यं वाक्यार्थाभिनयः, अक्षरं लिपिः, चित्रम् आलेख्यकर्म, वीणा वेणुर्मृदङ्गश्चप्रसिद्धाः, परचित्तज्ञानं परेङ्गिताकारवेदनं, गन्धमाल्यसंयूहनसम्पादने गन्धसंयूहनं गन्धयुक्तिः माल्यसम्पादनं माल्यगुम्फनं, संवाहनमङ्गमर्दनं, वैशिकं दत्तकाचार्यादितन्त्रं, कलाः उक्तातिरिक्ताश्चतुष्षष्ठ्यन्तर्गताः कलाविद्याः ।
 
 ** गणिकेत्या**दि । गणिकापुत्रान्, रनोपजीविनश्च, मुख्यान् निष्पादयेयुः प्रधानान् आचार्यादिस्थानीयान् कुर्युः । केषां, सर्वतालावचराणां च सर्वेषामपि रोपजीविनाम् ।
 
@@ -7448,7 +7448,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** मत्स्यबन्धका नौकाभाटकं षड्भागं दद्युः । पत्तनानुवृत्तं शुल्कभागं वणिजो दद्युः। यात्रावेतनं राजनौभिः सम्पतन्तः । शङ्खमुक्ताग्राहिणो नौभाटकं दद्युः, स्वनौभिर्वा तरेयुः ।**
 
 ** अध्यक्षश्चैषां खन्यध्यक्षेण व्याख्यातः ।**  
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
  **नावध्यक्ष** इति सूत्रम् । नावां यानपात्राणाम् अध्यक्ष आदेयभागाधिकृत इत्यर्थः । समाहर्तृकर्मण्यात्मरक्षितके च नावोऽभिहिताः । तदध्यक्षस्त्वनुक्त इहाभिधीयते ।
 
 ** नावध्यक्ष** इति । म, समुद्रसंयाननदीमुखतरप्रचारान् समुद्रकूलसमीपयानस्य नदीसमुद्रसङ्गमतरणम्य च मार्गान्, देवसरोविसरोनदीतरांश्च देवसरः सदाजलसमृद्धं महासरः विसरः शोप्यसरः नदी प्रसिद्धा एषां तरणमार्गांश्च, स्थानीयादिषु स्थानीयद्रोणमुखम्बार्वटिकसंग्रहग्रामेषु, अवेक्षेत ।
@@ -7469,7 +7469,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** बद्धतीर्थाश्चैताः कार्याः राजद्विष्टकारिणां तरणभयात् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **पत्तनेत्या**दि । पत्तनाध्यक्षनिबन्धं पत्तनाध्यक्षप्रतिष्ठापितं, पण्यपत्तनचारित्रं पण्यपत्तनाचारं, नावध्यक्षः, पालयेत् नातिवर्तेत ।
 
 ** मूढवाताहतामि**ति । मूढां दिङ्मोहापयातां वाताहतां विपरीतवाताकुलितां च, तां नावं, पितेव, अनुगृह्णीयात् तारयेत् । उदकप्राप्तं जलदूषितं, पण्यम्, अशुल्कम्, अर्धशुल्कं वा, कुर्यात् तच्छेदानुरूप्येण ।
@@ -7489,7 +7489,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** कृतप्रवेशाः पारविषयिकाः सार्थप्रमाणा वा विशेयुः ।**
 
 ** परस्य भार्यां कन्यां वित्तं वापहरन्तं शक्तिमाविग्नमुद्भाण्डीकृतं  
-![](../../../books_images/U-IMG-1696316066Line.jpg)** नियन्त्रणविधिमाह —**अकाल** इति । अकाले निशीथादौ, अतीर्थे अघट्टे च, तरतः पूर्वः साहसदण्डः । काले, तीर्थे च, अनिसृष्टतारिणः अननुज्ञातस्य तरतः पादोनसप्तविंशतिपणः, तरात्ययः तरणदण्डः ।
+<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** नियन्त्रणविधिमाह —**अकाल** इति । अकाले निशीथादौ, अतीर्थे अघट्टे च, तरतः पूर्वः साहसदण्डः । काले, तीर्थे च, अनिसृष्टतारिणः अननुज्ञातस्य तरतः पादोनसप्तविंशतिपणः, तरात्ययः तरणदण्डः ।
 
  तरणदण्डापवादमाह — **कैवर्ते**त्यादि । कैवर्तादीनां कैवर्तानां धीवराणां काष्ठवाहिनां तृणवाहिनां पुष्पवाटपालकानां फलवाटपालकानां षण्डपालकानां गोपालकानां च, अनत्ययः अदण्डः। सम्भाव्यदूतानुपातिनां च सम्भाव्यम् अनुपतनीयतया शक्तिं चोरादिमनुपततां दूतं राजदूतं कार्यशेषार्थमनुपततां च, अनत्यय इत्यनुषज्यते । सेनाभाण्डचारप्रयोगाणां च सेनोपकरणगूढपुरुषप्रयोगाणां च, अनत्ययः । स्वतरणैः स्वकीयैस्तरणसाधनैः बाह्वलाबूभस्त्रादिभिः, तरतां, बीजभक्तद्रव्योपस्करांश्च बीजं वापार्थं भक्तं कर्मकराशनं द्रव्यं पुष्पफलशाकादि उपस्करः बेशबारः इत्येतांश्च, अनुपग्रामाणां जलप्रचुरदेशसन्निविष्टग्रामवासिनां, तारयताम्, अनत्ययः ।
 
@@ -7507,7 +7507,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** क्लृप्तमानूपग्रामा भक्तवेतनं दद्युः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**आविग्नं सम्भ्रान्तम् उद्भाण्डीकृतं समधिकभाण्डभारवाहिनं, महाभाण्डेन मूर्ध्नि भारेणावच्छादयन्तं बृहदाकृतिना पलालादिभारेण शिरा से कृतेनावृतप्रायमुखं, सद्योगृहीतलिङ्गिनं प्रत्रजितं तत्कालकलितपरिव्राजकचिह्नम्, अलिङ्गिनं वा प्रव्रजितं सद्यःपरित्यक्तपरिव्राजकाचह्नं वा, अलक्ष्यव्याधितं व्याधितव्यपदेशिनमदृष्टव्याधिचिह्नं, भयविकारिणं वदनश्वेतीभावादिभयचिह्नयुक्तं, गूढसारभाण्डशासनशस्त्राग्नियोगं गूढसारभण्डं गूढरत्नादिद्रव्यं गूढशासनं गूढलेखं गूढशस्त्रं गूढायुधं गूढाग्नियोगं गूढोऽग्नियोगः औपनिषदवक्ष्यमाणनिष्प्रतीकारायप्रियोगद्रव्यं यस्य तं तथाभूतं च, विषहस्तं, दीर्घपथिकं दूराध्वगमनश्रान्तम् अमुद्रम् अन्तपालमुद्राराहतं च, उपग्राहयेत् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**आविग्नं सम्भ्रान्तम् उद्भाण्डीकृतं समधिकभाण्डभारवाहिनं, महाभाण्डेन मूर्ध्नि भारेणावच्छादयन्तं बृहदाकृतिना पलालादिभारेण शिरा से कृतेनावृतप्रायमुखं, सद्योगृहीतलिङ्गिनं प्रत्रजितं तत्कालकलितपरिव्राजकचिह्नम्, अलिङ्गिनं वा प्रव्रजितं सद्यःपरित्यक्तपरिव्राजकाचह्नं वा, अलक्ष्यव्याधितं व्याधितव्यपदेशिनमदृष्टव्याधिचिह्नं, भयविकारिणं वदनश्वेतीभावादिभयचिह्नयुक्तं, गूढसारभाण्डशासनशस्त्राग्नियोगं गूढसारभण्डं गूढरत्नादिद्रव्यं गूढशासनं गूढलेखं गूढशस्त्रं गूढायुधं गूढाग्नियोगं गूढोऽग्नियोगः औपनिषदवक्ष्यमाणनिष्प्रतीकारायप्रियोगद्रव्यं यस्य तं तथाभूतं च, विषहस्तं, दीर्घपथिकं दूराध्वगमनश्रान्तम् अमुद्रम् अन्तपालमुद्राराहतं च, उपग्राहयेत् ।
 
  तरवेतनविधिमाह —**क्षुद्रेत्या**दि । क्षुद्रपशुः अजादिः, मनुष्यश्च सभारः करगृहीतभारः, माषकं दधात् । शिरोभारः शिरोधार्यो भारः, कायभारः स्कन्धधार्यः, गवाश्वं च गौश्चाश्वश्च, द्वौ माषौ, दद्यादिति सम्बध्यते । उष्ट्रमहिषम् उष्ट्रश्च महिषश्च, चतुरः माषकान्, दद्यात् \। पञ्च लघुयानं लघुगन्त्री पञ्च माषकान् दद्यात् । षड् गोलिङ्गं मध्यमगन्त्री षट् माषान्, दद्यात् । सप्त शकटं दुधात् । पण्यभारः पण्यानां तुलाविंशतिः, पादं पणचतुर्भागं, दद्यात् ।
 
@@ -7528,7 +7528,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **\_\_\_\_\_\_\_**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **प्रत्यन्तेष्विति** ।विषयसीमसु, तराः तारकाः, शुल्कम्, आतिवाहिकम् अतिवाहननिमित्तं राजभाव्यं, वर्तनीं च अन्तपालदेयं च गृह्णीयुः सार्थात् । निर्गच्छतश्चामुद्रस्य सार्थस्य, भाण्डं हरेयुः । **अतिभारणे**ति । अतिभारेण पुरुषद्वयवहनीयेन भारेण युक्तस्य, अवेलायाम् अकाले, अतीर्थे अघट्टे, तरतश्च, भाण्डं हरेयुरिति वर्तते ।
 
 ** पुरुषेत्यादि** । पुरुषैः शासकनियामकादिभिः उपकरणैश्चारिष्टसेचनादिभिहींनायाम्, असंस्कृतायाम् वा सीवनादिसंस्काररहितायां वा, नावि, विषन्नायां सत्यां, नावध्यक्षः, नष्टं जलप्रलीनं लवणजातीयं, विनष्टं जलयोगदूषितरूपादिकं वा, पण्यद्रव्यम्, अभ्यावहेद् दद्यात् ।
@@ -7549,7 +7549,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** जरद्गुधेनुमर्भिणीपष्टौहीवत्सतरीणां समविभागं रूपशतमेकः पालयेत् । घृतस्याष्टौ वारकान् पणिकं पुच्छम् अङ्कचर्म च वार्षिकं दद्यादिति करप्रतिकरः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** **गोध्यक्ष** इति सूत्रम् ।गवाम् उपलक्षणया महिषादीनां गोमहिषाद्याजीवानां चाध्यक्षो गोध्यक्षः तत्कर्माभिधीयत इत्यर्थः । स्वपक्षपरपक्षवशीकरणसाधनभूतासु वार्तापदार्थेषु कृषिपाशुपाल्यवणिज्यासु कृषिवणिज्ये सीताध्यक्षपण्याध्यक्षयोरुपपादिते । पाशुपाल्यं त्वनुक्तमिहाभिधीयत इति सङ्गतिः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** **गोध्यक्ष** इति सूत्रम् ।गवाम् उपलक्षणया महिषादीनां गोमहिषाद्याजीवानां चाध्यक्षो गोध्यक्षः तत्कर्माभिधीयत इत्यर्थः । स्वपक्षपरपक्षवशीकरणसाधनभूतासु वार्तापदार्थेषु कृषिपाशुपाल्यवणिज्यासु कृषिवणिज्ये सीताध्यक्षपण्याध्यक्षयोरुपपादिते । पाशुपाल्यं त्वनुक्तमिहाभिधीयत इति सङ्गतिः ।
 
 ** गोध्यक्ष** इति । गोध्यक्षः, वेतनोपमाहिकादीन्यष्टौ उपलभेत अध्यक्षयेत् ।
 
@@ -7563,7 +7563,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** वत्सा वत्सतरा दम्या वहिनो वृषा उक्षाणश्च पुङ्गवाः । युगवाहनशकटवहा वृषभाः सूनामहिषाः पृष्ठस्कन्धवाहिनश्च महिषाः । वत्सिका वत्सतरी पष्ठौही गर्भिणी धेनुश्चाप्रजाता वन्ध्याश्च गावो महिष्यश्च । मासद्विमासजातास्तासामुपजा वत्सा वत्सिकाश्च । मासद्विमास-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**पुच्छः तमेकैकस्य पशोरेकैकपणात्मकम्, अङ्कचर्म च राजमुद्रायुक्तं मृतचर्म च, वार्षिकं वर्षदेयं, दद्यात् स्वामिने । इति करप्रतिकरः एष प्रकारः करप्रतिकरसंज्ञः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**पुच्छः तमेकैकस्य पशोरेकैकपणात्मकम्, अङ्कचर्म च राजमुद्रायुक्तं मृतचर्म च, वार्षिकं वर्षदेयं, दद्यात् स्वामिने । इति करप्रतिकरः एष प्रकारः करप्रतिकरसंज्ञः ।
 
 ** व्याधिते**त्यादि । व्याधितादीनां पञ्चानां व्याधिता रुग्णा न्यङ्गा अङ्गविकला अनन्यदोही एकेनैव दोहनीया न त्वन्येन दोहनीया दुर्दोहा पादबन्धनादिकृच्छ्रदोह्या पुत्रघ्नी स्रवद्गर्भाम्रियमाणवत्सा च इत्येतासां च, समविभागं रूपशतं पूर्वोकप्रत्येकविंशतिप्रकारं, पालयन्तः, तज्जातिकं भागं पूर्वोक्तस्यार्धंत्रिभागं वा तदनुरूपं घृतादिराजभागं, दद्युः । इति भग्नोत्सृष्टकं तदाख्यम् ।
 
@@ -7581,7 +7581,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** स्वयं हन्ता घातयिता हर्ता हारयिता च वध्यः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 महिष्यश्च । **मासे**त्यादि । मासद्विमासजाताः मासजाताः द्विमासजाताश्च तासां गोमहिषीणां, वत्साः स्तनन्धयाः, वत्सिकाः स्तनन्धय्यश्च उपजाः उपजासंज्ञिताः । तासु मासद्विमासजातान्, अङ्कयेत् तप्तमुद्रया योजयेत् । भागानुप्रविष्टकादिविषयमङ्कनमाह — मासद्विमासपर्युषितमङ्कयेदिति । ज्ञातस्वामिकस्याज्ञातस्वामिकस्य वा राजव्रजप्रविष्टस्यैकमासपरिवासे द्विमासपरिवासे वा जाते तमप्यङ्कयेद् गोध्यक्ष इत्यर्थः । चतुर्विधं लक्षणमाह — अङ्कमिति ।अङ्कं स्वस्तिकादिसन्निवेशं तप्तमुद्राकृतं कृत्रिमं, चिह्ने पुच्छश्वेतिमकालिमादि सहजं, वर्णं शुक्लकृष्णादिं, शृङ्गान्तरं च शुङ्गगतं विशेषं च, लक्षणं, निबन्धयेत् पुस्तके लेखयेत् । एवम् अनेन प्रकारेण उक्तचतुर्लक्षणीयागेन, उपजाः, निबन्धयेत् । इति एतत् सप्तदशविधं व्रजपर्यग्रं तदाख्यम् ।
 
  त्रिविधं नष्टमाह —**चोरे**त्यादि । चोरहृतम्, अन्यसूथप्रविष्टम् अवलीनं वा वने स्वयूथाद् भ्रष्टं वा, नष्टं नष्टाख्यम् ।
@@ -7602,7 +7602,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सर्पव्यालत्रासनार्थं गोचरानुपातज्ञानार्थं च त्रस्नूनां घण्टातूर्यंच वध्नीयुः ।**
 
-** समव्यूढतीर्थमकर्दमग्राहमुदकमवतारयेयुः पालयेयुश्च।![](../../../books_images/U-IMG-1696316066Line.jpg)**
+** समव्यूढतीर्थमकर्दमग्राहमुदकमवतारयेयुः पालयेयुश्च।<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **परपशूना**मिति । अराजपशूनां, राजाकेन रूपस्य परिवर्तयिता राजकीयाङ्कदानेन रूपभेदयिता, पूर्वं साहसदण्डं दद्यात् ।
 
 ** स्वदेशीयाना**मिति । तेषां, चोरहृतं, प्रत्यानीय प्रत्यर्प्य, पणिकं रूपं हरेत् रूपसंख्यानग्राह्यो दण्डं इह रूपमित्युच्यते एकैकस्य रूपस्यैकपणप्रमाणं रूपदण्डं गृह्णीयात् । परदेशीयानां परदेशपशूनामुपगतानां, मोक्षयिता तत्स्वामी, अर्धं हरेत् तन्मूल्यस्यार्धंगृह्णीयात्, अर्थादर्धंदण्डं दद्यात् ।
@@ -7629,7 +7629,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** वर्षाशरद्धेमन्तानुभयतः कालं दुह्युः । शिशिरवसन्तग्रीष्मानेककालम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** चोराद्यपहृतं रोगवार्धकप्रमीतंपशुमध्यक्षाय काले निवेदयेयुरनिवेदने मूल्यमेकैकस्य रूपस्य दद्युरित्याह — स्तेनेत्यादि ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** चोराद्यपहृतं रोगवार्धकप्रमीतंपशुमध्यक्षाय काले निवेदयेयुरनिवेदने मूल्यमेकैकस्य रूपस्य दद्युरित्याह — स्तेनेत्यादि ।
 
 ** कारणे**त्यादि । कारणमृतस्य व्याधिजरादिमृत्तस्य, अङ्कचर्मअङ्कयुक्तं चर्म, गोमहिषस्य, आहरेयुः आहृत्य दर्शयेयुः प्रत्ययार्थम् । कर्णंलक्षणं कर्णकृतं चिह्नम्, अजाविकानां बस्तोरत्राणाम्, आहरेयुः । पुच्छम् अङ्कचर्म च अश्वखरोष्ट्राणाम्, आहरेयुः । वालादीनि च नव, आहरेयुः कुप्यार्थम् । तत्र वस्तिर्मूत्राशयः, पित्तं मायुः, स्नायुः स्नावः । शेषं प्रसिद्धम् ।
 
@@ -7653,7 +7653,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **  यूथवृषं वृषेणावपातयतः पूर्वः साहसदण्डः, घातयत उत्तमः। वर्णावरोधेन दशतीरक्षा।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)द्वितीयेत्यादि।** द्वितीयकालदोग्धुरङ्गुष्ठच्छेदो दण्ड इति अयं च कालनियमो देशव्यवस्थया द्रष्टव्यः, क्वचिद् देशे ग्रीष्मेऽपि त्रिकालदोहदर्शनादित्याह स्वामी ।**दोहकालमिति**। तं प्रातः सायं च यथोक्तम्, अतिक्रामतः, तत्फलहानं तद्दिवसवेतनहानिः, दण्डः।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>द्वितीयेत्यादि।** द्वितीयकालदोग्धुरङ्गुष्ठच्छेदो दण्ड इति अयं च कालनियमो देशव्यवस्थया द्रष्टव्यः, क्वचिद् देशे ग्रीष्मेऽपि त्रिकालदोहदर्शनादित्याह स्वामी ।**दोहकालमिति**। तं प्रातः सायं च यथोक्तम्, अतिक्रामतः, तत्फलहानं तद्दिवसवेतनहानिः, दण्डः।
 
  **एतेनेति**। दोहकालातिपातनेन, नस्यदम्ययुगपिङ्गनवर्तनकालाः नस्यकालो नासावेधनकालः दम्यकालो दमनार्हकालः युगपिङ्गनकालः अदान्तस्य दान्तेन सह युगे योजनकालः वर्तनकालो मेथिबन्धनप्रचारणकालः इत्येते, व्याख्याताः तानप्यतिक्रामतस्तत्फलहानं दण्ड इत्यर्थः।
 
@@ -7670,7 +7670,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** बलीवर्दानां नस्याश्वभद्रगतिवाहिनां यवसस्यार्धभार, तृणस्य द्विगुणं, तुला घाणपिण्याकस्य, दशाढकं कणकुण्डकस्य, पञ्चपलिकं मुखलवणं, तैलकुडुबो नस्यं, प्रस्थः पानम्। मांसंतुला, दध्नश्चाढकं, यवद्रोणं, माषाणां वा पुलाकः। क्षीरद्रोणमर्धाढकं वा सुरायाः, स्नेहप्रस्थः, क्षारदशपलं शृङ्गबेरपलं च प्रतिपानम्।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** 
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** 
 **उपनिवेशे**त्यादि। उपनिवेशदिग्विभागः गवाद्युपनिवेशदिग्व्यवस्था, गोप्रचाराद् गोप्रचारदिशमनुसृत्य, बलान्वयतो वा गवां गोबलयोगमनुसृत्य च रक्षासामर्थ्याच्च चोरादिभयरहितत्वनिमित्तकं रक्षणसौकर्यमनुसृत्य च, भवति।
 
 **   अजादीनामि**ति। अजाविप्रभृतीनां षाण्मासिकीं षण्मासप्रवृद्धाम्, ऊर्णां, ग्राहयेत्।
@@ -7690,7 +7690,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **\_\_\_\_\_\_\_\_**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)   पादोनमिति ।** पादन्यूनं पूर्वोक्तं भद्रगतिबलीवर्दविधानमेव, अश्वतरगोखराणां वेसरपुङ्गवान्तरगर्दभानां भवति। **द्विगुणमिति** ।द्विगुणं भद्रगत्युक्तद्विगुणं महिषोष्ट्राणां, कर्मकरबलीवर्दानां शकटाद्युपयोगिनां पु
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>   पादोनमिति ।** पादन्यूनं पूर्वोक्तं भद्रगतिबलीवर्दविधानमेव, अश्वतरगोखराणां वेसरपुङ्गवान्तरगर्दभानां भवति। **द्विगुणमिति** ।द्विगुणं भद्रगत्युक्तद्विगुणं महिषोष्ट्राणां, कर्मकरबलीवर्दानां शकटाद्युपयोगिनां पु
 
 त्रगाणां च । **पायनार्थं च धेनूनामिति ।** पायनप्रयोजनकं यद् विधानमुक्तंतच्चचकाराद् भक्षणार्थंच, द्विगुणमिति वर्तते । कर्मकरबलीवर्दविषये धेनुविषये विधानद्वैगुण्यवचनेनाप्यपरितुष्यन् विधानसारमुपदिशति—**कर्मकामतः फलतश्च विधानमिति ।** कर्मकालपरिमाणाद्यनुसारेण कर्मकरबलीवर्दानां दुग्धबाहुल्यादिफलप्राप्त्यनुसारेण च धेनूनामशनपानविधानं द्विगुणं ततोऽप्यधिकं वा निश्चेतव्यमित्यभिप्रायः ।**सर्वेषामिति ।** सर्वपशूनां तृणोदकप्राकाम्यं तृणस्य उदकस्य च प्राकाम्यं पर्याप्तत्वं, कार्यम् । तृणोदकं प्रकाम्यमिति पाठे तृणं च उंदकं च प्रकर्षेण काम्यं दुग्धवृद्ध्यनुरूपमपेक्षणीयं, यद्वा कामः पश्वभिलाषस्तत्पूरणानुरूपमित्यर्थः । इति गोमण्डलं तत्सम्बद्धं विधाजातं, व्याख्यातं वितत्य प्रतिपादितम् ।
 
@@ -7710,7 +7710,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **कोशकोष्ठागाराभ्यां च गृहीत्वा मासलाभमश्ववाहश्चिन्तयेत् ।अश्वविभवेनायतामश्वायामद्विगुणविस्तारां चतुर्द्वारोपावर्तनमध्यां**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)अश्वाध्यक्ष** इति सूत्रम् ।अश्वाध्यक्षः सर्वाश्वनायकः अर्थात् तद्व्यापारोऽभिधीयत इति सूत्रार्थः ।स्वाम्यादिप्रकृत्यभिधानानन्तरं दण्डप्रकृतिं प्राप्तावसरां वक्तुमुपक्रमः । तत्राश्वानां प्राधान्यात् प्रथमं तदध्यक्षाभिधानम् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>अश्वाध्यक्ष** इति सूत्रम् ।अश्वाध्यक्षः सर्वाश्वनायकः अर्थात् तद्व्यापारोऽभिधीयत इति सूत्रार्थः ।स्वाम्यादिप्रकृत्यभिधानानन्तरं दण्डप्रकृतिं प्राप्तावसरां वक्तुमुपक्रमः । तत्राश्वानां प्राधान्यात् प्रथमं तदध्यक्षाभिधानम् ।
 
 **  अश्वाध्यक्ष** इत्यादि ।अश्वपतिः, पण्यागारिकं प्राभृतोपनीतं पण्यागारगतं, क्रयोपागतं क्रीतम् आहवलब्धं युद्धाहृतम्, आजातं निजाश्वोत्पन्नं, साहाय्यागतकं साहाय्यदानेन लब्धं, पणस्थितम् आधित्वेन स्थितं, यावत्कालिकं यावान् प्रयोजनकालस्तावते कालायान्यस्मादानीतं, वाशब्दश्चार्थे, इत्थं सप्तप्रकारम्, अश्वपर्यग्रम् अश्वानां प्रमाणं, कुलवयोवर्णचिह्नकर्मवर्गगमैः कुलेन पारसीककाम्बोजारट्टवनायुप्रभृतिना वयसा द्विवर्षत्रिवर्षचतुर्वर्षादिना वर्णेन शुकृकृष्णादिना चिह्णेन धवलवालफालप्रोथादिना कर्मणा सान्नाह्यादिना वर्गेण पारसीकादिभिरियद्भिरियानयं वर्ग इति वर्गीकरणेन आगमेन प्राप्तिस्थानेन च, इत्येवं सप्तभिर्विशेषैर्युक्तं, लेखयेत् ।
 
@@ -7726,7 +7726,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** बडबायाः प्रजातायास्त्रिरात्रं घृतप्रस्थपानम्, अत ऊर्ध्व सक्तुप्रस्थः स्नेहभैषज्यप्रतिपानं दशरात्रं, ततः पुलाको यवसमार्तवश्चाहारः।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**भये निष्क्रमणद्वाराणां सर्वतः सौलभ्यार्थं च परिकल्पितद्वारचतुष्टयम् उपावर्तनं प्रलुठनस्थानं मध्ये यस्यास्तां तथाभृतां, सप्रग्रीवां प्रग्रीवेण मुखप्रासादेन सहितां, प्रद्वारासनफलकयुक्तां प्रद्वाराभ्यां द्वारोभय पार्श्वगताभ्याम् आसनफलकाभ्यां युक्तां, वानरमयूरादिभिः सप्तभिर्विषप्रतीकारप्रयोजनाभिराकीर्णां,शालां मन्दुरां, निवेशयेत् निर्मापयेत्।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**भये निष्क्रमणद्वाराणां सर्वतः सौलभ्यार्थं च परिकल्पितद्वारचतुष्टयम् उपावर्तनं प्रलुठनस्थानं मध्ये यस्यास्तां तथाभृतां, सप्रग्रीवां प्रग्रीवेण मुखप्रासादेन सहितां, प्रद्वारासनफलकयुक्तां प्रद्वाराभ्यां द्वारोभय पार्श्वगताभ्याम् आसनफलकाभ्यां युक्तां, वानरमयूरादिभिः सप्तभिर्विषप्रतीकारप्रयोजनाभिराकीर्णां,शालां मन्दुरां, निवेशयेत् निर्मापयेत्।
 
 **  अश्वामेत्यादि।** अश्वायामचतुरश्रश्लक्ष्णफलकास्तारम् अश्वदैर्ध्यानुगुण्येन चतुरश्रनिर्मितं श्लक्ष्णं च फलकम् आस्तार आस्तरणं यस्मिंस्तत्तथाभूतं, सखादनकोष्ठकं खादनकोष्ठैर्यवसादिविकरणाधारभूतैस्तद्भक्षणकोष्ठैः सहितं, समूत्रपुरीषोत्सर्गं मूत्रपुरीषानवरोधसंविधानसहितम् अर्थात् किञ्चिदग्रतः समुन्नतम्, एकैकशः प्रत्यश्वं, प्राङ्मुखम् उदङ्मुखं वा स्थानं निवेशयेत्। **शालावशेनवा दिग्विभागं कल्पयेदि**ति।राजभवनस्य य उत्तरपूर्वोदिग्विभागोऽश्वशालार्थ उक्तः ‘उत्तरपूर्वंभागं कोशो गवाश्वंच’ इति, स चेदश्वानां बाहुल्यादपर्याप्तः, तदा निर्मातव्यशाला महत्त्वानुगुण्येन दिग्विभागोऽन्यः स्वीकरणीय इत्यर्थः। बडवेत्यादि। बडबानां प्रसविनीनां वृषाणां सेक्तॄणां किशोराणां षण्मासादूर्ध्वम् आ त्रिवर्षात् किशोराः तेषां च, एकान्तेषु तदन्याश्वानां तेषां चान्योन्यदृष्ट्यगोचरेषु स्थलेषु, स्थानं कल्पयेदिति वर्तते।
 
@@ -7738,7 +7738,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **   उत्तमाश्वस्य द्विद्रोणं शालिव्रीहियवप्रियङ्गूणामर्धशुष्कमर्षसिद्धं वा, मुद्रमाषाणां वा पुलाकः। स्नेहप्रस्थश्च।पञ्चपलं लवणस्य ।मांसं**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>  
 दशरात्रादिति।** दशरात्रादूर्ध्वं, किशोरस्य, घृतचतुर्भागः पादकुडुबघृतयुक्तः सक्तुकुडुबः, क्षीरप्रस्थश्च, आहारः। **आ षण्मासादिति।** आमासषट्कम् एवं कर्तव्यम्। **ततः परमिति।**षण्मासादूर्ध्वं, मासोत्तरमर्धवृद्धिः प्रतिमासं वर्षमानार्धप्रस्थः, यवप्रस्थः। आ कुतोऽयं यवप्रस्थो वर्धत इत्याह—**आ त्रिवर्षादिति। द्रोण** इति। यवद्रोणः
 त्रिवर्षादूर्ध्वम्, आ चतुर्वर्षाद्, आहारः। अत ऊर्ध्वं, चतुर्वर्षः, पञ्चवर्षो वा अश्वः, कर्मण्यः सान्नाह्यादिकर्मार्ह, पूर्णप्रमाणः पूर्णंप्रमाणं वक्ष्यमाणं यस्य स तथाभूतो भवति।
 
@@ -7750,7 +7750,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **   पादावरमेतन्मध्यमावरयोः। उत्तमसमो रथ्यो वृषश्च मध्यमः ।मध्यमसमश्चावरः।पादहीनं बडवानां पारशमानां च। अतोऽर्धंकिशोराणां च। इति विधायोगः।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**पञ्चाशत्पलिकं पञ्चाशत्पलप्रमाणम्। रसस्य मांससंस्कृतस्य, आढकं, द्विगुणं वा दघ्नः दध्याढकद्वयं वा, पिण्डक्लेदनार्थं भुक्तपुलाकक्लेदनार्थम्। क्षारपञ्चपलिकः गुलादिपञ्चपलयुक्तः सुरायाः प्रस्थः, पयसो वा, द्विगुणः प्रस्थद्वयं, प्रतिपानम् अपराह्णदेयम्। दीर्घपथभारक्लान्तानां च दीर्घाध्वलङ्घनभारवहनपरिश्रान्तानां च, खादनार्थम् अभिदीपनद्वारेण सम्यगाहारग्रहणार्थं, स्नेहप्रस्थः, अनुवासनम् अनुवासनाख्यवस्तिचिकित्सादानं, भवति ।यदुक्तं—
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**पञ्चाशत्पलिकं पञ्चाशत्पलप्रमाणम्। रसस्य मांससंस्कृतस्य, आढकं, द्विगुणं वा दघ्नः दध्याढकद्वयं वा, पिण्डक्लेदनार्थं भुक्तपुलाकक्लेदनार्थम्। क्षारपञ्चपलिकः गुलादिपञ्चपलयुक्तः सुरायाः प्रस्थः, पयसो वा, द्विगुणः प्रस्थद्वयं, प्रतिपानम् अपराह्णदेयम्। दीर्घपथभारक्लान्तानां च दीर्घाध्वलङ्घनभारवहनपरिश्रान्तानां च, खादनार्थम् अभिदीपनद्वारेण सम्यगाहारग्रहणार्थं, स्नेहप्रस्थः, अनुवासनम् अनुवासनाख्यवस्तिचिकित्सादानं, भवति ।यदुक्तं—
 
 **“वस्तिर्द्विधानुवासाख्यो निरूहश्च ततः परः।**
 
@@ -7770,7 +7770,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **  तेषां तीक्ष्णभद्रमन्दवशेन सान्नाह्यमौपवाह्यकं वा कर्म प्रयोजयेत् ।**
 
 **  चतुरश्रं कर्माश्वस्य सान्नाह्यम् ।**  
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**माकारयुक्तपाठलेखनं कोशेषु चिन्त्यम् । पारशवानामिति तु वाकारयुक्तं पठितव्यं, तदा हि पारशवशब्दंसङ्करजातिमनुष्यवचनः सङ्करजेऽश्वे वेगसराख्ये भक्त्या प्रयुक्त इति शक्यते वक्तुम् । अतोऽर्धंबडबाविधाया अर्धं, किशोराणां च । इति एवं, विधायोगः उक्तः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**माकारयुक्तपाठलेखनं कोशेषु चिन्त्यम् । पारशवानामिति तु वाकारयुक्तं पठितव्यं, तदा हि पारशवशब्दंसङ्करजातिमनुष्यवचनः सङ्करजेऽश्वे वेगसराख्ये भक्त्या प्रयुक्त इति शक्यते वक्तुम् । अतोऽर्धंबडबाविधाया अर्धं, किशोराणां च । इति एवं, विधायोगः उक्तः ।
 
 ** विधापाचकसूत्रग्राहकचिकित्सका** इति । अश्वाहारपक्तारोऽश्वपरिचारका अश्ववैद्याश्च प्रतिस्वादभाजः विधाभागिनः, अतो विधायास्तद्भजनीया मात्रापि अश्वभोज्यमात्राभिः सह संविधेयेत्यभिप्रायः ।
 
@@ -7792,7 +7792,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **    कपिप्लुतो भेकप्लुत एणप्लुत एकपादप्लुतः कोकिलसंचार्युरस्यो बकचारी च लङ्घनः।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 औपवाह्यंपञ्चधा विभजते — **वल्गन** इत्यादिना। औपवाह्याः औपवाह्याश्वमार्गाः।
 
  वल्गनमार्गं विवृणोति — **तत्रेत्यादि**। तत्र वल्गनादिषु पञ्चसु मार्गेषु मध्ये, औपवेणुकः हस्तमात्रमण्डल इति स्वामी, वर्धमानकस्तावन्मात्रमण्डलपङ्क्तिपरिपाटीवानः, यमको युगपदुभयमण्डलवल्गनः, आलीढप्लुतः एकपाद्सङ्कोचापरपादप्रसारणपूर्वप्लुतियुक्तः, पूर्वगः पूर्वार्धवल्गनः, त्रिकचाली त्रिकं पृष्ठवंशाधरः तेन पश्चार्धलक्षणात् पश्चार्धवल्गनः।
@@ -7813,7 +7813,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **  तेषां बन्धनोपकरणं योग्याचार्याः प्रतिदिशेयुः। साङ्ग्रामिकंरथाश्वालङ्कारं च सूताः। अश्वानां चिकित्सकाः शरीरष्ट्रासवृद्धिवलीकारमृतुविभक्तं चाहारम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  धोरणमाह
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  धोरणमाह
 —**काङ्क** इत्यादि। कङ्कसमानगतिः काङ्कः, वारिकाङ्क्षः हंसादिसमानगतिः। एवं मायूरादिर्व्याख्येयः। इति एवमष्टविधोधोरणः।
 
  नारोष्ट्रमाह — **संज्ञाप्रतिकार** इति। शिक्षितसङ्केतानुरूपचेष्टितः, नारोष्ट्राख्यः। इतिशब्द औपवाह्यनिरूपणसमाप्तौ।
@@ -7841,7 +7841,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 **द्विरह्नः स्नानमश्वानां गन्धमाल्यं च दापयेत् ।  
 कृष्णसन्धिषु भूतेज्याः शुक्लेषु स्वस्तिवाचनम् ॥**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **सूत्रेत्यादि** । सूत्रग्राहकादयः सप्त, स्वकर्मभिः, अश्वान्, आराधयेयुरुपचरेयुः । तत्र सूत्रग्राहकः सूत्रग्रहणाधिकृतः बेल्लनपायनोद्वर्तनादिकर्ता, अश्वबन्धकः खलीनपर्याणाद्युपकरणबन्धनाधिकृतः, यावसिकः ऋत्वनुगुणयवसप्राशयिता, विधापाचकः शालिमुद्गमाषादिपक्ता, स्थानपालः अश्वावस्थानदेशशोधकः, केशकारः कालिककेशकल्पकः, जाङ्गलीविद् विषविद्याकोविदः ।
 
  **कर्मातिक्रमे** चेति । स्वस्वकर्मणामननुष्ठानेऽन्यथानुष्ठाने वा, एषा सूत्रग्राहकादीनां, दिवसवेतनच्छेदनं कुर्यात् । नीराजनोपरुद्धं नीराजना शान्त्युदकपुष्पदीपादिना सत्कारो दुरितशान्तये वलवृद्धये च क्रियमाणः तदर्थमुपरुद्धं, चिकित्सकोपरुद्धं वा चिकित्सार्थं, वाहयतः, द्वादशपणो दण्डः । क्रियाभैषज्यसङ्गेन क्रियायाश्चिकित्सनस्य भैषज्यस्य औषधस्य च यथाकालाकरणेन, व्याधिवृद्धौ, प्रतीकारद्विगुणः प्रतिक्रियार्थव्ययद्विगुणः, दण्डः, अश्वाध्यक्षस्य । तदपराधेन क्रियाभैषज्यदोषेण, वैलोम्ये अश्वस्य विपत्तौ, पत्रमूल्यं विपन्नवाहमूल्यं, दण्डः ।
@@ -7859,7 +7859,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **\_\_\_\_\_\_\_\_**  
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 नीराजनाम् आरात्रिकाम्, आश्वयुजे मासि, कारयेत्, नवमेऽहनि नवम्याम्, यात्रादौ अवसाने वा उद्योगस्यारम्भे समाप्तौ च, व्याधौ वा अश्वमारके च, शान्तिके रतः शान्तिप्रयोजनके कर्मण्यासक्तः ॥
 
@@ -7877,7 +7877,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** हस्त्यायामचतुर श्रश्लक्ष्णालानस्तम्भफलकान्तरकं मृत्रपुरीषोत्सर्गस्थानं निवेशयेत् । स्थानसमशय्यामर्धापाश्रयां दुर्गे सान्नाह्योपवाह्यानां बहिर्दम्यव्यालानाम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **हस्त्यध्यक्ष** इति सूत्रम् । हस्त्यध्यक्षव्यापारोऽभिधीयत इति सूत्रार्थः । सङ्गतिस्त्वश्वाध्यक्षवद् द्रष्टव्या । इदं च प्रकरणमध्यायद्वयेन वितन्यते ।
 
  **इस्त्यध्यक्ष** इति । सः, हस्तिवनरक्षां गजवनप्रवेशनिषेधादिरूपां, दन्यकर्मक्षान्तानांशिक्षाग्रहणदान्तानां, हस्तिहस्तिनीकलभानां, शालादिषट्कप्रमाणं शाला कुटी स्थानम् आलानप्रदेशः शय्या संवेशस्थानं कर्म सान्नाह्यादिकं विधा आहारः यवसं हरितसस्यादि एतेषां प्रमाणं, कर्मसु आयोगं दम्यादिकर्मसु वक्ष्यमाणेषु आसक्तिं, बन्धनोपकरणं बन्धनमालानग्रैवेयकादि उपकरणम् अङ्कुशवेणुयन्त्रादि च, साङ्ग्रामिकं वर्मतोमरादिकम्, अलङ्कारं वैजवन्तीक्षुरप्रमालादिकं, चिकित्सकादिवर्गं च चिकित्सका गजवैद्याः अनीकस्थाः गजशिक्षाविचक्षणाः उपस्थायुकाः कर्मकराः तेषां वर्गं च, अनुतिष्ठेत् अवेक्षेत ।
@@ -7896,7 +7896,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सप्तारत्निरुत्सेधो नवायामो दशपरिणाहः प्रमाणतश्चत्वारिंशद्वर्षो भवत्युत्तमः । त्रिंशद्वर्षो मध्यमः । पश्चविंशतिवर्षोऽवरः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**र्गानुगुणं किञ्चिदग्रोन्नतं स्थानं, निवेशयेत् । स्थानसमशय्यां स्थानसमां शय्याम्, अर्धापाश्रयाम् अर्धम् अर्धपञ्चमहस्तः तावन्मानोऽपाश्रय उन्नतस्थानं यस्यां तादृशीं, दुर्गे दुर्गान्तः, सान्नाह्यौपवाह्यानां, बहिर्दम्यव्यालानां दुर्गबहिर्देशे दमनीयानां हिंस्राणां च, निवेशयेत् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**र्गानुगुणं किञ्चिदग्रोन्नतं स्थानं, निवेशयेत् । स्थानसमशय्यां स्थानसमां शय्याम्, अर्धापाश्रयाम् अर्धम् अर्धपञ्चमहस्तः तावन्मानोऽपाश्रय उन्नतस्थानं यस्यां तादृशीं, दुर्गे दुर्गान्तः, सान्नाह्यौपवाह्यानां, बहिर्दम्यव्यालानां दुर्गबहिर्देशे दमनीयानां हिंस्राणां च, निवेशयेत् ।
 
  कालविनियोगमाह—**प्रथमे**त्यादि । अह्नः, प्रथमसप्तमौ, अष्टमभागौ, स्नानकालौ । एतेन द्विः स्नानमुक्तम् । तद्नन्तरं विधायाः द्वितीयोऽष्टभागो भोजनस्य कालः । पूर्वाह्णे, व्यायामस्य कर्माभ्यासस्य कालः । पश्चाह्णः अपराह्णः, प्रतिपानकालः । इहापरशब्दस्याह्नशब्दपरकस्य पश्चभावकरणमार्षम् । **रात्रिभागा**विति । रात्रेर्द्वौ त्रिभागौ, स्वप्नकालौ । त्रिभागः संवेशनोत्थानिकः अवशिष्टस्तृतीयभागो दशघटिकात्मकः संवेशनोत्थानविनियोज्यः । तत्र पञ्चघटिकाः संवेशनस्य, परा उत्थानस्येति द्रष्टव्यम् ।
 
@@ -7918,7 +7918,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **यथाहस्तमवशेषः षडरात्रिःपञ्चारत्रिश्च।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** विधाविधिमाह — **तयोः पादावरो विधाविधिरि**ति । वक्ष्यमाणोसमविधाविध्यपेक्षया चतुर्भागन्यूनो विधाविधिर्मध्यमस्य, मध्यमविधापेक्षया चतुर्भागन्यूनश्चाधमस्य ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** विधाविधिमाह — **तयोः पादावरो विधाविधिरि**ति । वक्ष्यमाणोसमविधाविध्यपेक्षया चतुर्भागन्यूनो विधाविधिर्मध्यमस्य, मध्यमविधापेक्षया चतुर्भागन्यूनश्चाधमस्य ।
 
  उत्तमस्य विधाप्रमाणमाह — **अरत्नौ तण्डुलद्रोण** इति । एकस्योत्सेधारत्ने प्रमाणस्य एकस्तण्डुलद्रोणः । **अर्धाढकं तैलस्ये**त्यादि सुगमम् । रसस्य मांससंस्कृतस्य आढकं, द्विगुणं वा दध्नः रसाभावे दध्याढकद्वयं वा, पिण्डक्लेदनार्थं भुक्तपिण्डसेचनार्थम् । क्षारं दशपलिकं गुडादि दशपलप्रमाणम् । मद्यस्याढकं, द्विगुणम् आढकद्वयं वा, पयसः क्षीरस्य, प्रतिपानम् अपराह्णदेयम् । गात्रावसेकः शरीराभ्यङ्गः, तैलप्रस्थः । शिरसः, अष्टभागः तैलार्धकुडुबः । प्रादीपिकश्च प्रदीपार्थश्च, अष्टभागः । यवसस्य हरितसस्यादेः, द्वौ भारौ चत्वारिंशत् तुलाः । शष्पस्य बालतृणस्य हरितस्य, सपादौ द्वौ भारौ । शुष्कस्य यवसस्य शष्पस्य च, अर्धतृतीयो भारः सार्धं भारद्वयम् । कडङ्गरस्य शाखाबुसस्य सल्लकीपल्लवादेः, अनियमः यावत्तृप्ति दानमित्यर्थः । अनया चैकारत्न्युत्सेधोक्तया प्रक्रियया सप्तारत्न्युत्सेषस्योत्तमहस्तिनस्तण्डुलादिकडङ्गरान्तं विधाजातं सप्तगुणितं द्रष्टव्यम् ।
 
@@ -7939,7 +7939,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 रत्निः सप्तारत्न्युत्सेधापेक्षयैकारत्निन्यूनोत्सेधो मध्यममणनीयः, पञ्चारत्नि श्च मध्यमापेक्षयैकारत्निन्यूनोत्सेधोऽधमगणनीयश्च, विधापरिमाणयोगीति शेषः । तत्र मध्यमाधमयोरुत्सेधवदायामे परिणाहे चैकैकारत्निह्रासो द्रष्टव्यः ।
 
@@ -7965,7 +7965,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** औपबाह्योऽष्टविधः— आचरणः, कुञ्जरौपवाह्यः, धोरणः,**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 **कर्मस्कन्धा** इत्यादि । कर्मस्कन्धाः क्रियासमूहाः, चत्वारः चतूरूपाः। रूपाण्याह— दम्य इत्यादि ।
 
  तत्रेति । तेषु चतुर्षु मध्ये, दम्यः पञ्चविधः । ता एव विधा आह— स्कन्धगतः स्कन्धारोहप्रवणः, स्तम्भगतः आलानबन्धनसहः, वारिगतः वारिर्गजग्रहणभूमिस्तत्प्रविष्टः, अवपातगतः अवपातनार्थं कल्पितं तृणादिच्छन्नं गर्तं गतः, यूथगतो दान्तहस्तिनीसहविहारव्यसनी, चः समुच्चये ।तस्य दम्यस्य, उपविचारः उपचरणं, विक्ककर्म विक्कस्योपचरणमिव भवति । तच्च क्षीरयवसेक्षुकाण्डादिदानम् ।
@@ -7982,7 +7982,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तेषां बन्धनोपकरणमनीकस्थप्रमाणम् । आलानग्रैवेयकक्ष्या-**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**कुञ्जरान्तरेण सहौपवाह्यादिकर्ता, धोरण एकेनैव पक्षेण सर्वकर्मकरः, आधानगतिकः द्वित्रविधगतियायी सर्वगतिकुशलश्च, यष्ट्युपवाह्यः यष्ट्यैव केवलया क्रियाकारी, तोत्रोपवाह्यःसकण्टकयष्ट्या क्रियाकारी, शुद्धोपवाह्यः यष्टितोत्रनैरपेक्ष्येण पदाघातादिसंज्ञयैव केवलया सर्वकमकरः, मार्गायुकश्च मृगयुकर्मशिक्षितश्च, इति । मार्गयुक इति इस्वद्वितीयाच्कपाठो युक्तः । तस्य औपवाह्यस्य, उपविचारः उपचरणम् । तदेवाह — शारदकर्म शारदस्याप्रतिभस्य अनुरूपं कर्म । शारदश्च चतुर्विध स्थूलकुशलोहितप्राकृतभेदात् । तेन स्थूलस्य कृशीकरणं कृशस्य स्थूलीकरणं लोहितस्य मन्दाग्नेरग्निदीपनं प्राकृतस्य प्रकृतिस्थस्य स्वास्थ्यरक्षणमिति चतुष्प्रकारं शारदकर्म । हीनो निर्व्यायामस्तस्य व्यायामयोजनं हीनकर्म, नारोष्ट्रकर्म च संज्ञाशिक्षणं च ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**कुञ्जरान्तरेण सहौपवाह्यादिकर्ता, धोरण एकेनैव पक्षेण सर्वकर्मकरः, आधानगतिकः द्वित्रविधगतियायी सर्वगतिकुशलश्च, यष्ट्युपवाह्यः यष्ट्यैव केवलया क्रियाकारी, तोत्रोपवाह्यःसकण्टकयष्ट्या क्रियाकारी, शुद्धोपवाह्यः यष्टितोत्रनैरपेक्ष्येण पदाघातादिसंज्ञयैव केवलया सर्वकमकरः, मार्गायुकश्च मृगयुकर्मशिक्षितश्च, इति । मार्गयुक इति इस्वद्वितीयाच्कपाठो युक्तः । तस्य औपवाह्यस्य, उपविचारः उपचरणम् । तदेवाह — शारदकर्म शारदस्याप्रतिभस्य अनुरूपं कर्म । शारदश्च चतुर्विध स्थूलकुशलोहितप्राकृतभेदात् । तेन स्थूलस्य कृशीकरणं कृशस्य स्थूलीकरणं लोहितस्य मन्दाग्नेरग्निदीपनं प्राकृतस्य प्रकृतिस्थस्य स्वास्थ्यरक्षणमिति चतुष्प्रकारं शारदकर्म । हीनो निर्व्यायामस्तस्य व्यायामयोजनं हीनकर्म, नारोष्ट्रकर्म च संज्ञाशिक्षणं च ।
 
  **व्याल** इति । सः, एकक्रियापथः एककर्ममार्गः। तस्योपविचारः उच्यत इति शेषः । आयम्यैकरक्षः नियम्यैकेन रक्षणीयः अथवा आयम्यो दण्डस्तेनैवैकेन रक्षणीयः सः । तस्य विशेषानाह — कर्मशङ्कितःशिक्षाकाले विसंवादी, अवरुद्धः कर्मानुपयोगोपेक्षितः, विषमःयहच्छानुष्ठायी, प्रभिन्नो मददोषदुष्टः, प्रभिन्नविनिश्चयःमदाद्विधादिदोषाश्च व्याकुलीभूतः, मदहेतुविनिश्चयश्च सदामदत्वादविज्ञातमदहेतुश्च ।
 
@@ -7998,7 +7998,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** पथिव्याधिकर्ममदजराभितप्तानां चिकित्सकाः प्रतिकुर्युः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)आलाने**त्यादि । आलानादिकं बन्धनं तत्र आलानं स्तम्भः ग्रैवेयं कलापकः कण्ठबन्धः कक्ष्या वरत्रा परायणम् आरोहणालम्बरज्जुः परिक्षेपः पादपाशादिः उत्तरं द्वितीयं कलापादिकम्, आदिशब्दात् त्रिपद्यादिग्रहणम् । अङ्कुशेत्यादि । अङ्कुशादिकम् उपकरणम् । तत्र अङ्कुशः सृणिः वेणुर्दण्डः यन्त्रम् आयुधागाराध्यक्षोक्तं पाञ्चालिकादि । भूषणमाह — वैजयन्तीत्यादि । वैजयन्ती गजपताका क्षुरप्रमाला नक्षत्रमाला आस्तरणं नमतं कुथः वर्णकम्बलः आदिपदाच्छाङ्कादिग्रहणम् । साङ्ग्रामिकालङ्कारमाह — वर्मेत्यादि । वर्म कवचं तोमरश्चतुर्हस्तादिरायुधागाराध्यक्षोक्तः शरावापस्तूणी यन्त्रं नानारूपमायुधाध्यक्षोक्तम् एतदादिकः, साङ्ग्रामिकः युद्धार्थः अलङ्कारः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>आलाने**त्यादि । आलानादिकं बन्धनं तत्र आलानं स्तम्भः ग्रैवेयं कलापकः कण्ठबन्धः कक्ष्या वरत्रा परायणम् आरोहणालम्बरज्जुः परिक्षेपः पादपाशादिः उत्तरं द्वितीयं कलापादिकम्, आदिशब्दात् त्रिपद्यादिग्रहणम् । अङ्कुशेत्यादि । अङ्कुशादिकम् उपकरणम् । तत्र अङ्कुशः सृणिः वेणुर्दण्डः यन्त्रम् आयुधागाराध्यक्षोक्तं पाञ्चालिकादि । भूषणमाह — वैजयन्तीत्यादि । वैजयन्ती गजपताका क्षुरप्रमाला नक्षत्रमाला आस्तरणं नमतं कुथः वर्णकम्बलः आदिपदाच्छाङ्कादिग्रहणम् । साङ्ग्रामिकालङ्कारमाह — वर्मेत्यादि । वर्म कवचं तोमरश्चतुर्हस्तादिरायुधागाराध्यक्षोक्तः शरावापस्तूणी यन्त्रं नानारूपमायुधाध्यक्षोक्तम् एतदादिकः, साङ्ग्रामिकः युद्धार्थः अलङ्कारः ।
 
  हस्तिकर्मकरवर्गमाह — **चिकित्सके**त्यादि । चिकित्सको गजवैद्यः अनीकस्थः प्रतीतः आरोहकः शास्त्रज्ञो गजारोहः आधोरणः शास्त्राभिज्ञः कर्मकुशलः हस्तिपको हस्तिरक्षी औपचारिकश्चारणोद्वर्तनाभ्यञ्जनादिकर्ता विधापाचकः आहारपक्ता यावसिकः यवसप्रवेशकः पादपाशिकः पादबन्धकः कुटीरक्षकः शालापालनशुचीकरणाद्यधिकृतःऔपशायिक शयनशालाधिकृतः एतदादिः, औपस्थायिकवर्गः कर्मकरवर्गः ।
 
@@ -8020,7 +8020,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** दण्डहेतूनाह — **स्थानस्येत्या**दि । स्थानस्य अशुद्धिः अमार्जनं, य
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** दण्डहेतूनाह — **स्थानस्येत्या**दि । स्थानस्य अशुद्धिः अमार्जनं, य
 
 क्षसस्य अग्रहणम् आशनाभावः, स्थले स्थण्डिले शायनम्, अभागे घातः ताङनानर्हे मर्मादौ ताडनं, परारोहणम् आरोहणानधिकृतस्यारोहणम्, अकालेयानम् अनियते काले चारणम्, अभूमौ विषमदेशे यानम्, अतीर्थे नद्यादेरघट्टे अवतारणं, तरुषण्डे तरुगहने अबतारणम्, इति एवञ्जातीयानि, अत्ययस्थानानि दण्डस्य कारणानि, अर्थाद् औपस्थायिकवर्गस्याध्यक्षस्य च ।तं दण्डम्, एषां, भक्तवेतनाद्, आददीत् गृह्णीयात् ।
 
@@ -8044,7 +8044,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** देवरथपुष्यरथसाङ्ग्रामिकपारियाणिकपरपुराभियानिकवैनयिकांश्च रथान् कारयेत्।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** **रथाध्यक्ष** इति सूत्रम् । रथानाम् अध्यक्षः घटनसंस्करणाद्यधिकृतो रथाध्यक्षः अर्थात् तत्कर्माभिधीयत इति सूत्रार्थः।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** **रथाध्यक्ष** इति सूत्रम् । रथानाम् अध्यक्षः घटनसंस्करणाद्यधिकृतो रथाध्यक्षः अर्थात् तत्कर्माभिधीयत इति सूत्रार्थः।
 
  **अश्वाध्यक्षेणे**ति । अश्वाध्यक्षविधानेन, रथाध्यक्षः व्याख्यातः रथाध्यक्षविधानं व्याख्यातं रथ्यानां शालानिवेशनं विधादानं कर्मायोजनं गन्तव्याध्वपरिकल्पनं बन्धनोपकरणघटनं कर्मकरनियोजनं नीराजनमित्येवञ्जातीयमश्वाध्यक्षोक्तं कर्म रथाध्यक्षेणाप्यनुष्ठेयमित्यर्थः ।
 
@@ -8058,7 +8058,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** एतेन पत्यध्यक्षो व्याख्यातः । स मौलभृतश्रेणिमित्रामित्राटवीबलानां सारफल्गुतां विद्यात् । निम्नस्थलप्रकांशकुटखनकाकाशदिवारात्रियुद्धव्यायामं च विद्यात् । आयोगमयोगं च कर्मसु ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)इष्वस्त्रेत्यादि** । इष्वादिकल्पनाः इषूणां बाणानां सतूणीराणाम् अस्त्राणां धनुषां प्रहरणानां तोमरादीनाम् आवरणानां पल्याणादीनाम् उपकरणानां वल्गादीनां च कल्पना रचनाः, सारथिरथिकरथ्यानां कर्मसु आयोगं च यन्तृृणां रथयोक्तॄणां रथवाहानां च स्वस्वकर्मसु अभियोगातिशयं च, विद्यात् । आ **कर्मभ्यश्चे**ति । आ कर्मणां परिसमाप्तेः, भक्तवेतनं, भृतानां नित्यनियुक्तशिल्पिनाम्, अभृतानाम् आगन्तुशिल्पिनां च सपरिकर्मिणां, योग्य रक्षानुष्ठानं योग्यानां स्वकर्मण्यतिनिपुणानां शिल्पिनां यद्वा अश्वहृदयरथचर्यादिशिक्षारूपयोग्योपदेशाचार्याणाम् आरक्षा परोपजापाद् रक्षणम् अनुष्ठानं व्यापारसौष्ठवासौष्ठवमात्रां च, अर्थमानकर्म च अर्थकर्म प्रभूतधनदानं मानकर्म पारितोषिकवलयवस्त्रादिदानसत्कारं च विद्याद्आकलयेत् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>इष्वस्त्रेत्यादि** । इष्वादिकल्पनाः इषूणां बाणानां सतूणीराणाम् अस्त्राणां धनुषां प्रहरणानां तोमरादीनाम् आवरणानां पल्याणादीनाम् उपकरणानां वल्गादीनां च कल्पना रचनाः, सारथिरथिकरथ्यानां कर्मसु आयोगं च यन्तृृणां रथयोक्तॄणां रथवाहानां च स्वस्वकर्मसु अभियोगातिशयं च, विद्यात् । आ **कर्मभ्यश्चे**ति । आ कर्मणां परिसमाप्तेः, भक्तवेतनं, भृतानां नित्यनियुक्तशिल्पिनाम्, अभृतानाम् आगन्तुशिल्पिनां च सपरिकर्मिणां, योग्य रक्षानुष्ठानं योग्यानां स्वकर्मण्यतिनिपुणानां शिल्पिनां यद्वा अश्वहृदयरथचर्यादिशिक्षारूपयोग्योपदेशाचार्याणाम् आरक्षा परोपजापाद् रक्षणम् अनुष्ठानं व्यापारसौष्ठवासौष्ठवमात्रां च, अर्थमानकर्म च अर्थकर्म प्रभूतधनदानं मानकर्म पारितोषिकवलयवस्त्रादिदानसत्कारं च विद्याद्आकलयेत् ।
 
 इति स्थाध्यक्षप्रकरणं समाप्तम् ।
 
@@ -8070,7 +8070,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** स्वभूमिं युद्धकालं प्रत्यनीकमभिन्नभेदनं भिन्नसन्धानं संहतभेदनं भिन्नवधं दुर्गवधं यात्राकालं च पश्येत् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**शयुद्धं प्राकारादिकमारुह्य क्रियमाणं युद्धं दिवायुद्धरात्रियुद्धे प्रतीते । **आयोगमयोगं च कर्मस्वि**ति । पत्तीनां स्वकर्मसु ‘सर्वदेशकालशस्त्रवहनं व्यायामश्चेति पदातिकर्माणि’इति साङ्ग्रामिकाधिकरणे वक्ष्यमाणेषु तत्परत्वमव्यापारं च विद्यात् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**शयुद्धं प्राकारादिकमारुह्य क्रियमाणं युद्धं दिवायुद्धरात्रियुद्धे प्रतीते । **आयोगमयोगं च कर्मस्वि**ति । पत्तीनां स्वकर्मसु ‘सर्वदेशकालशस्त्रवहनं व्यायामश्चेति पदातिकर्माणि’इति साङ्ग्रामिकाधिकरणे वक्ष्यमाणेषु तत्परत्वमव्यापारं च विद्यात् ।
 
 इति पत्त्यध्यक्षप्रकरणं समाप्तम् ।
 
@@ -8089,7 +8089,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** विधिशेषं श्लोकेनाह — **तूर्ये**त्यादि । स्थाने गमननिवृत्तौ, याने गमने, प्रहरणे पराभिहनने च विषये, तूर्यध्वजपताकाभिः वाद्यैः शङ्खचक्रादिचिह्नैः वैजयन्तीभिश्चं, व्यूहसंज्ञाः युद्धव्यूहितस्वसैन्यस्य सङ्केतान् पराविज्ञेयान्, प्रकल्पयेद् उल्लिखेत् । उल्लिखितसङ्केताविसंवादेन स्वसैन्या वाद्यविशेषश्रवणध्वजपताकाविशेषदर्शनैः स्थानयानाद्यनुष्ठानं यथा कुर्युस्तथा तान् शिक्षयेच्चेत्यभिप्रायकमध्यक्षविशेषणमाह — **सैन्यानां विनये रत** इति ॥
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** विधिशेषं श्लोकेनाह — **तूर्ये**त्यादि । स्थाने गमननिवृत्तौ, याने गमने, प्रहरणे पराभिहनने च विषये, तूर्यध्वजपताकाभिः वाद्यैः शङ्खचक्रादिचिह्नैः वैजयन्तीभिश्चं, व्यूहसंज्ञाः युद्धव्यूहितस्वसैन्यस्य सङ्केतान् पराविज्ञेयान्, प्रकल्पयेद् उल्लिखेत् । उल्लिखितसङ्केताविसंवादेन स्वसैन्या वाद्यविशेषश्रवणध्वजपताकाविशेषदर्शनैः स्थानयानाद्यनुष्ठानं यथा कुर्युस्तथा तान् शिक्षयेच्चेत्यभिप्रायकमध्यक्षविशेषणमाह — **सैन्यानां विनये रत** इति ॥
 
 इति कौटलीयार्थशास्त्रव्याख्यायाम् अध्यक्षप्रचारे द्वितीयाधिकरणे त्रयस्त्रिंशोऽध्यायः  
 रथाध्यक्षः पत्त्यध्यक्षः सेनापतिप्रचारश्च,  
@@ -8106,7 +8106,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** द्वादशपणममुद्रो जानपदो दद्यात् । कूटमुद्रायां पूर्वः साहसदण्डः । तिरोजनपदस्योत्तमः ।**
 
 ** विवीताध्यक्षो मुद्रां पश्येत् ।**  
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
  **मुद्राध्यक्ष** इति सूत्रम् । मुद्रा नाम पण्यलेख्यादिषु करणीयो राजकीयश्चिह्नविशेषः शुल्काध्यक्षे प्रस्तुतः तस्य अध्यक्षो मुद्राध्यक्षः । स तद्व्यापारश्च तत्रानुक्त इहाभिधीयत इत्यर्थः ।
 
  **मुद्राध्यक्ष** इति। सः, मुद्रां नायं चोरः शत्रुचारो वेति प्रत्ययजननार्थं, माषकेण दद्यात् माषकं राजकोशवृद्ध्यर्थं गृहीत्वा दद्यात्, प्रवेष्ट्रे निष्क्रमित्रे च ।
@@ -8129,7 +8129,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अमित्राटवीसञ्चारं च राज्ञो गृहकपोतैर्मुद्रायुक्तैर्हारयेयुः धूमाग्निपरम्परया वा ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  मुद्राविचयस्य व्याप्यर्थमाह — **भयान्तरेषु चेति** । भयं चोरपररापसर्पचारशङ्का तद्गोचरेषु भूप्रदेशेषु कृप्येष्वकृष्येषु वा सर्वविधेषु, विवीतं स्थापयेत् । एतेन ‘अकृप्यायां भूमौ पशुभ्यो विवीतानि प्रयच्छेद्’इति भूमिच्छिद्रविधानप्रकरणोक्त्या कृप्यभूमौ विवीताभावात् तत्पथचारिषु मुद्राविचयाभावप्रसङ्ग इति शङ्का निरस्ता । चोरव्यालभयात्, निम्नारण्यानि निम्नानि गभीराणि भूच्छिद्राणि अरण्यानि च, शोधयेत् तस्करा हिंस्रमृगाश्च तत्र निलीय वसन्ति नवेति मुहुः परीक्षेत ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  मुद्राविचयस्य व्याप्यर्थमाह — **भयान्तरेषु चेति** । भयं चोरपररापसर्पचारशङ्का तद्गोचरेषु भूप्रदेशेषु कृप्येष्वकृष्येषु वा सर्वविधेषु, विवीतं स्थापयेत् । एतेन ‘अकृप्यायां भूमौ पशुभ्यो विवीतानि प्रयच्छेद्’इति भूमिच्छिद्रविधानप्रकरणोक्त्या कृप्यभूमौ विवीताभावात् तत्पथचारिषु मुद्राविचयाभावप्रसङ्ग इति शङ्का निरस्ता । चोरव्यालभयात्, निम्नारण्यानि निम्नानि गभीराणि भूच्छिद्राणि अरण्यानि च, शोधयेत् तस्करा हिंस्रमृगाश्च तत्र निलीय वसन्ति नवेति मुहुः परीक्षेत ।
 
  **अनुदक** इति । निर्जले प्रदेशे, कूपसेतुबन्धोत्सान् कूपान् उदपानान्सेतुबन्धान् जलावरोधबन्धान् उत्सान् तात्कालिकान् क्षुद्रकूपांश्च, स्थापयेत् । पुष्पफलवाटान्, चकारात् प्रपादिकं च, स्थापयेत् ।
 
@@ -8148,7 +8148,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
  व्यापारशेषं लोकेनाह — **द्रव्ये**त्यादि । द्रव्यहस्तिवनाजीवं द्रव्यवने हस्तिवने च विद्यमानो य आजीवः उपजीव्यपदार्थः कुप्याध्यक्षहस्त्यध्यक्षोपादेयव्यतिरिक्तः यवसेन्धनाङ्गारादिः तं, वर्तर्नीं दुर्गमार्गसन्तारणभृतिं, चोररक्षणं तद्भृतिं, सार्थातिवाह्यं भयस्थानेषु वाणक्सङ्घस्यातिवाहनवेतनं, गोरक्ष्यं गोरक्षानिमित्तमादेयं, व्यवहारं यथोक्तपदार्थक्रयविक्रयव्यवहारं च, कारयेत् अनुष्ठापयेत् ॥
 
@@ -8162,7 +8162,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  **समाहर्ता चतुर्धा जनपदं विभज्य ज्येष्ठमध्यमकनिष्ठविभागेन ग्रामाग्रं परिहारकमायुधीयं धान्यपशुहिरण्यकुप्यविष्टिप्रतिकरमिदमेतावदिति निबन्धयेत् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) समाहर्तृप्रचार** इति सूत्रम् । सर्वेभ्य आयस्थानेभ्यो दुर्गराष्ट्रखनिसेतुवनव्रजवणिक्पथलक्षणेभ्यो राजार्थानां सम्यगाहर्ता समाहर्ता तस्य प्रचारो व्यापारः सर्वजनपदचिन्तनरूपोऽभिधीयत इति सूत्रार्थः । एकैकार्थाध्यक्षाणां प्रतिपादनानन्तरं सर्वार्थाध्यक्षस्य प्राप्तावसरत्वात् कथनम्।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> समाहर्तृप्रचार** इति सूत्रम् । सर्वेभ्य आयस्थानेभ्यो दुर्गराष्ट्रखनिसेतुवनव्रजवणिक्पथलक्षणेभ्यो राजार्थानां सम्यगाहर्ता समाहर्ता तस्य प्रचारो व्यापारः सर्वजनपदचिन्तनरूपोऽभिधीयत इति सूत्रार्थः । एकैकार्थाध्यक्षाणां प्रतिपादनानन्तरं सर्वार्थाध्यक्षस्य प्राप्तावसरत्वात् कथनम्।
 
  **समाहर्तेत्यादि** । समाहर्ता, चतुर्धा जनपदं, विभज्य चतुर्भिरंशैः जनपदं पृथक्कृत्य, ज्येष्ठमध्यमकनिष्ठविभागेन चतुर्ष्वप्यंशेषु प्रत्येकं ज्येष्ठो मध्यमः कनिष्ट इति विभागं कुलसंख्याप्रयुक्तं ग्रामाणां सारफल्गुत्वप्रयुक्तं च विभागं कृत्वा, ग्रामाग्रं निबन्धयेत् ग्रामाणां प्रातिस्विकं सामूहिकं च परिमाणं लेखयेत्। कथं निबन्धयेदित्याह — **इदमेतावदितीति** । एतच्च ग्रामाग्रादौ सर्वत्र सम्बध्यते । अमुकग्राम ईदृग्रूप एतत्परिमाणः अमुकग्रामसमुदाय ईदृग्रूप एतत्परिमाणश्चेत्यनेन प्रकारेण । तथा परिहारकं परिहारः महादानादिनिमित्तः करमोक्षस्तद्युक्तं ग्रामाग्रम् इदमेतावदिति निबन्वयेत् एत एतावन्तो ग्रामाः करमोक्षिता इति लेखयेत् । आयुधीयं दण्डकरदायकं ग्रामाग्रम् इदमेतावदिति निबन्धयेत् एत एतावन्तो ग्रामाः एतावत आयुधीयान् प्रयच्छन्तीति लेखयेत् । धान्यादिपञ्चकप्रतिकरम् इदमेतावदिति निबन्धयेत् । प्रतिनियतः करः प्रतिकरः, स धान्यादिषु प्रत्येकं सम्बध्यते, धान्यप्रतिकरं पशुप्रतिकरं हिरण्यप्रतिकरं कुप्यप्रतिकरं विष्टिप्रतिकरं च, इदमेतावदिति निबन्धयेत् एष्वेषु ग्रामेषु अमुकामुकधान्येभ्य एतावद्भ्य एतावांस्तत्तद्धान्यप्रतिकरः प्रतिवत्सरम् उपसम्पद्यत इतेि लेखयेत् । एतावान् पशुप्रतिकरोऽमुकामुकजातीयान् वाहदोहलोमाधुपकर्तृृन् एतावतः पशून् उपनयतीति लेखयेत् । एष एतावान् हिरण्यप्रतिकरः कोशप्रवेश्यं हेमरूप्यं रूप्यरूपं ताम्ररूपं चैतावत् प्रयच्छतीति लेखयेत् । कुप्यप्रतिकर एष एतावान् एतान्येताबन्ति कुप्यद्रव्याणि वितरतीति लेखयेत् । विष्टिप्रतिकर एष एतावातावतां कर्मकरपुरुषाणामर्पणेनोपकरोतीति लेखयेत् ।
 
@@ -8170,7 +8170,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** सीमावरोधेन ग्रामाग्रं कृष्टाकृष्टस्थलकेदारारामषण्डवाटवनवास्तुचैत्यदेवगृहसेतुबन्धश्मशानसत्रप्रपापु- ण्यस्थानविवीतपथिसङ्ख्यानेन क्षेत्राग्रं, तेन सीम्नां क्षेत्राणां च मर्यादारण्यपथिप्रमाणसम्प्रदानविक्रयानुग्र- हपरिहारनिबन्धान् कारयेत् ।गृहाणां च करदाकरदसङ्ख्यानेन ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)** इत्थं कृतनिबन्धस्य जनपदस्य चतुर्भागमेकैकमेकैकः स्थानिकश्चिन्तयेदिति वक्ष्यति । चतुर्भागेऽपि ग्रामान् पञ्चशो दशशो वा विभज्य एकैकस्मिन् ग्रामविभागे स्थानिकनियम्यमवान्तरचिन्तकं गोपसंज्ञमेकैकं कुर्यादित्याह — **तत्प्रदिष्ट** इति । तेन समाहर्त्रा प्रदिष्टो नियुक्तः पुरुषः, पञ्चप्रामीं दशग्रामींवाग्रामाणामुत्तमत्वे तत्पञ्चकम् अधमत्वे तद्दशकम् अर्थान्मध्यमत्वे तत्षट्कादिकं च यथोचितं, गोपश्चिन्तयेत् गोपसंज्ञः सन् चिन्तयेत्, यश्चिन्तयति स गोपसंज्ञयोच्यत इत्यर्थः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>** इत्थं कृतनिबन्धस्य जनपदस्य चतुर्भागमेकैकमेकैकः स्थानिकश्चिन्तयेदिति वक्ष्यति । चतुर्भागेऽपि ग्रामान् पञ्चशो दशशो वा विभज्य एकैकस्मिन् ग्रामविभागे स्थानिकनियम्यमवान्तरचिन्तकं गोपसंज्ञमेकैकं कुर्यादित्याह — **तत्प्रदिष्ट** इति । तेन समाहर्त्रा प्रदिष्टो नियुक्तः पुरुषः, पञ्चप्रामीं दशग्रामींवाग्रामाणामुत्तमत्वे तत्पञ्चकम् अधमत्वे तद्दशकम् अर्थान्मध्यमत्वे तत्षट्कादिकं च यथोचितं, गोपश्चिन्तयेत् गोपसंज्ञः सन् चिन्तयेत्, यश्चिन्तयति स गोपसंज्ञयोच्यत इत्यर्थः ।
 
  कथं चिन्तयेदित्याह — सीमावरोधेनेति । नदीशैलादिसीमपरिच्छेदेन, ग्रामाग्रं ग्रामपरिमाणं, कारयेत् निबन्धयेत् । कृष्टाकृष्टाद्यष्टादशसंख्यानेन, क्षेत्राग्रं क्षेत्रपरिमाणं, कारयेत् एतावत् कृष्टमेतावदकृष्टमित्येवं कृष्टादिक्षेत्रं परिच्छिद्य निबन्धयेत् । तत्र कृष्टं कृष्टपच्यब्रीह्याद्युत्पत्तिक्षेत्रम्, अकृष्टम् अकृष्टपच्यनीवाराद्युत्पत्तिक्षेत्रं, स्थलम् उज्जटदेशः, कदारः शालेयादिक्षेत्रम्, आराम उपवनं, षण्डः कदल्यादिक्षेत्रं, वाटः इक्ष्वादिभूमिः, वनं ग्रामवास्युपजीव्यवृक्षवृन्दस्थानं, वास्तु ग्रामभूमिः, चैत्यः उद्देशवृक्षः, देवगृहादित्रयं प्रसिद्धं, सत्रम् अन्नदानशाला, प्रपानपानीयशाला, पुण्यस्थानं तीर्थादि, विवीतं गोप्रचारप्रदेशः, पन्थाः रथशकटपद्गगतागतमार्गः । तेनेति । तेन संख्यानेन, सोम्नः नदीशैलादीनां, क्षेत्राणां च मर्यादादिनिबन्धान् कारयेत् मर्यादादिपुस्तकानि लेखयेत् । तत्र मर्यादा परस्परावधिः, अरण्यमनुपजीव्यवनं, पन्थाः कृष्टादिपरस्परप्रवेशनिर्गममार्गः, प्रमाणं स्वस्वपरिमाणं, संप्रदानम् अमुकेनामुकस्य दत्तमितीदृशं, विक्रयः प्रसिद्धः, अनुग्रहः धान्याद्यृणदानेन कर्षकाणानुपकारः, परिहारः करमोक्षः । गृहाणां च करदाकरदसंख्यानेन, निबन्धान् कारयेदिति वर्तते एतावन्ति गृहाणि करदायकैर्जनैरध्युषितानि एतावन्ति चाकरदायकैरित्येवं संख्याय पुस्तकेषु लेखयेत् ।
 
@@ -8182,7 +8182,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** गोपस्थानिकस्थानेषु प्रदेष्टारः कार्यकरणं वलिग्रहं च कुर्युः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) तेषु** चेति । तेषु च गृहेषु, एतावत् चातुर्वर्ण्यम् एतावन्तोऽमुकामुकवर्णभवा जनाः, एतावन्तः कर्षकादयः पड्वर्गाश्च, एतावच्च द्विपदचतुष्पदमिदं च पिण्डेनैतावन्तो मनुष्याश्च पशवश्चैते, वसन्तीति सर्वत्र शेषः । इदं च हिरण्यविष्टिशुल्कदण्डं हिरण्यं स्वर्णरूप्यादि विष्टि कर्मकरः शुल्कः घट्टदेयं दण्डः सैन्यः इत्येतच्चतुष्टयं वार्षिकं, समुत्तिष्ठति उत्पद्यते राजार्थम्, इति अनेन प्रकारेण, निबन्धान् कारयेदिति वर्तते ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> तेषु** चेति । तेषु च गृहेषु, एतावत् चातुर्वर्ण्यम् एतावन्तोऽमुकामुकवर्णभवा जनाः, एतावन्तः कर्षकादयः पड्वर्गाश्च, एतावच्च द्विपदचतुष्पदमिदं च पिण्डेनैतावन्तो मनुष्याश्च पशवश्चैते, वसन्तीति सर्वत्र शेषः । इदं च हिरण्यविष्टिशुल्कदण्डं हिरण्यं स्वर्णरूप्यादि विष्टि कर्मकरः शुल्कः घट्टदेयं दण्डः सैन्यः इत्येतच्चतुष्टयं वार्षिकं, समुत्तिष्ठति उत्पद्यते राजार्थम्, इति अनेन प्रकारेण, निबन्धान् कारयेदिति वर्तते ।
 
  **कुलानामिति** । कुलानां च स्त्रीपुरुषाणां कुटुम्बसम्बन्धिनां च स्त्रीणां पुरुषाणां च, बालादिपरिमाणं बालवृद्धपरिमाणम् एतावद्वयस्काः स्त्रियः पुरुषाश्चेत्येवं वयःपरिच्छेदं कर्माणि वर्णजातिप्रसिद्धानि तत्परिमाणं चरित्रं देशजात्याद्याचारस्तत्परिमाम् आजीवो वृत्तिः अर्थात् तन्निमित्त आयस्तत्परिमाणं व्ययः कुटुम्बभरणार्थधनविनियोगस्तत्परिमाणं च, विद्यात्, गोपः ।
 
@@ -8196,7 +8196,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
  **समाहर्तृप्रदिष्टाश्च गृहपतिकव्यञ्जना येषु ग्रामेषु प्रणिहितास्तेषां ग्रामाणां क्षेत्रगृहकुलाग्रंविद्युः। मानसञ्जाताभ्यां क्षेत्राणि भोगपरिहाराभ्यां गृहाणि वर्णकर्मभ्यां कुलानि च । तेषां जङ्घाग्रमायव्ययौ च विद्युः । प्रस्थितागतानां च प्रवासावासकारणमनर्थ्यानां च स्त्रीपुरुषाणां चारप्रचारं च विद्युः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 गृहपतिकवैदेहकतापसव्यञ्जनाः प्रणिधय इति सूत्रम्** । गृहपतिकव्यञ्जना वैदेहकव्यञ्जनास्तापसव्यञ्जनाश्च संस्थाविशेषा गूढपुरुषोत्पत्तिप्रकरणोक्ताः, प्रणिधयः गूढपुरुषाः लक्षणया तेषां प्रणिधानानि ग्रामेषु जनपदेषु च नियोजनानि अभिधीयन्त इति सूत्रार्थः । गृहपतिकवैदेहकतापसव्यञ्जनप्रणिधय इति समस्तपाठे गृहपतिव्यञ्जनादीनां त्रयाणां संस्थाविशेषाणां प्रणिधयः प्रणिधानानि नियोजनानीति स्पष्ट एवार्थः। संस्थापञ्चके तिसृणां प्राधान्याद् ग्रहणमन्ययोरप्यभ्युपायत्वाविशेषादुपलक्षणम् । तेन कापटिकोदास्थितसंस्थयोरपि प्रणिधानं संगृहीतं द्रष्टव्यम् । संस्थाप्रणिधानं च ग्रामजनपदवृत्तान्तज्ञानस्य गोपस्थानिकप्रचारपरीक्षणस्य च समाहर्त्रवश्यापेक्षणीयम्याभ्युपायभूतं समाहर्तृप्रचारस्यैवाङ्गमिति तस्येहाभिधानसङ्गतिः ।
 
  तत्र गृहपतिव्यञ्जनप्रणिधानं तावदाह — **समाहर्तृप्रदिष्टाश्चेति ।** समाहर्त्रा नियुक्ताः, गृहपतिकव्यञ्जनाः, येषु ग्रामेषु, प्रणिहिताः नियोजिताः, तेषां ग्रामाणां, क्षेत्रगृहकुलाग्रं क्षेत्रसंख्यां गृहसंख्यां कुलसंख्यां च विद्युः । कानि कानि कथं विधुरित्याह — **मानसञ्जाताभ्यां क्षेत्राणीति** । मानेनायामविस्तारादिपरिच्छेदेन उत्पन्नसस्यपिण्डेन च क्षेत्राग्रं विद्युः । भोगपरिहाराभ्यां गृहाणि करकरमोक्षाभ्यां गृहवास्तव्यान्, विद्युः । वर्णकर्मभ्यां कुलानि च ब्राह्मणादिजात्या तथा यजनकृप्यादिकर्मणा कुटुम्बानि च विद्युः । **तेषामिति ।** कुलानां, जङ्घाग्रं जङ्घाशब्देन पादचारिणो लक्ष्यन्ते कुलसम्बन्धिनां पादचारिणां द्विपदचतुष्पदानामग्रम् इयत्ताम् आयव्ययौ च धनोत्पत्तिविनियोगौच, विद्युः ।प्रस्थितेत्यादि । प्रस्थितागतानामिति व्यस्तसमस्तविपर्यस्तग्रहणं प्रस्थितानां निजाधिवासस्थलादन्यत्र वस्तुं गच्छताम्, आगतानां वस्तुमन्य प्रदेशादागतानां, प्रस्थितागतानां वस्तुमन्यत्र गत्वा पुनः प्रत्यागतानाम्,आगतप्रस्थितानां क्वचिद् वस्तुमागत्य ततोऽन्यत्र वस्तुं प्रस्थितानां चेत्यर्थः । प्रवासावासकारणं प्रवासे अध्युष्यमाणस्थलवासपरित्यागे आवासे
@@ -8205,7 +8205,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** एवं समाहर्तृप्रदिष्टास्तापसव्यञ्जनाः कर्षकगोरक्षकवैदेहकानामध्यक्षाणां च शौचाशौचं विद्युः ।पुराणचोरव्यञ्जनाश्चान्तेवासिनश्चैत्यचतुष्पथशून्यपदोदपाननदीनिपानतीर्थायतनाश्रमारण्यशैलवनगहनेषु स्तेनामित्रमवीरपुरुषाणां च प्रवेशनस्थानगमनप्रयोजनान्युपलभेरन् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 
 तदन्यस्थलवासपरिग्रहे च कारणं, विद्युः । अनर्थ्यानां च स्त्रीपुरुषाणाम् अनाशंसनीयानां नर्तकीबन्धक्यादीनां स्त्रीणां विटकितवादीनां पुरुषाणां च प्रवासावासकारणं विद्युः । चारप्रचारं च परप्रयुक्तापसर्पप्रवृत्तिं च, विद्युः ।
 
@@ -8225,7 +8225,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**सन्धिच्छेदादिना परद्रव्यापहारिणश्चोराः ते चिराभ्यस्ततत्कर्माणः पुराणचोराः तद्वयञ्जनास्तद्वेषाः, अन्तेवासिनः तापसव्यञ्जनशिष्याः, चैत्यादिष्वेकादशसु स्थानेषु, तत्र चैत्यं देवालयः चतुष्पथं शृङ्गाटकं शून्यपदं निर्जनस्थानम् उदपानः स्रोतःप्रापितावरुद्धजंलो जलाधारः नदी प्रसिद्धा निपानम् उपकूपजलाशयःतीर्थायतनं पुण्योदकप्रदेशः आश्रमो मुनिगृहम् अरण्यं ब्रह्मसोमारण्यं शैलगहनवनगहने प्रसिद्धे एतेषु । स्थित्वेति शेषः । स्तेनामित्रप्रवीरपुरुषाणां च स्तेनानां चोराणाम् अमित्रपुरुषाणां शत्रुप्रयुक्तानां तीक्ष्णरसदादीनां प्रवीरपुरुषाणाम् अल्पानिमित्तपरमारणसाहसिकानां च, चकारादनर्थ्यस्त्री पुरुषाणां च प्रवेशनस्थानगमनप्रयोजनानि अमुष्मिन् देशे अमुष्मिन् काले प्रवेशः स्थितिर्निर्गमनमित्येतानि प्रयोजनं च, उपलभेरन् जानीयुः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**सन्धिच्छेदादिना परद्रव्यापहारिणश्चोराः ते चिराभ्यस्ततत्कर्माणः पुराणचोराः तद्वयञ्जनास्तद्वेषाः, अन्तेवासिनः तापसव्यञ्जनशिष्याः, चैत्यादिष्वेकादशसु स्थानेषु, तत्र चैत्यं देवालयः चतुष्पथं शृङ्गाटकं शून्यपदं निर्जनस्थानम् उदपानः स्रोतःप्रापितावरुद्धजंलो जलाधारः नदी प्रसिद्धा निपानम् उपकूपजलाशयःतीर्थायतनं पुण्योदकप्रदेशः आश्रमो मुनिगृहम् अरण्यं ब्रह्मसोमारण्यं शैलगहनवनगहने प्रसिद्धे एतेषु । स्थित्वेति शेषः । स्तेनामित्रप्रवीरपुरुषाणां च स्तेनानां चोराणाम् अमित्रपुरुषाणां शत्रुप्रयुक्तानां तीक्ष्णरसदादीनां प्रवीरपुरुषाणाम् अल्पानिमित्तपरमारणसाहसिकानां च, चकारादनर्थ्यस्त्री पुरुषाणां च प्रवेशनस्थानगमनप्रयोजनानि अमुष्मिन् देशे अमुष्मिन् काले प्रवेशः स्थितिर्निर्गमनमित्येतानि प्रयोजनं च, उपलभेरन् जानीयुः ।
 
  अध्यायान्ते श्लोकमाह — **समाहर्ते**ति । एवम् उक्तेन प्रकारेण, उत्थिंत उद्युक्तः समाहर्ता जनपदं चिन्तयेत्, अर्थाद् गोपस्थानिकसहायः । ताश्च संस्थाः समाहर्तृप्रदिष्टाः पूर्वोक्ताः गृहपतिकव्यञ्जनादयः संस्थाविशेषाः, जनपदं चिन्तयेयुः, चकाराद् गोपस्थानिकौ च । संस्थाश्च तांश्च तत्तद्व्यञ्जनयोनीन् संस्थाविशेषान्, अन्याः स्वयोनयः तत्तद्योनिसमानयोनयः संस्थाः, चिन्तयेयुः परीक्षेरन् । संस्थापरीक्षार्थस्य चेदं संस्थान्तरप्रणिधानस्य वचनं न तात्पर्यतो विध्यर्थं, किन्तु कर्मकराः प्रायोऽर्थलोभाद्राजार्थं वा हापयन्ति प्रजा वा परिपीडयन्तीत्यवश्यं तत्कर्मशोधने समाहर्त्रा नित्यं प्रतिजागरितव्यमित्युपदेशार्थम् । तेन संस्थाचिन्तनाय संस्थान्तरकल्पने संस्थानवस्थाप्रसङ्ग इति न चोदनीयम्॥
 
@@ -8243,7 +8243,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** धर्मावसथिनः पाषण्डिपथिकानावेद्य वासयेयुः । स्वप्रत्ययाश्च तपस्विनः श्रोत्रियांश्च ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>
 नागरिकप्रणिधिरिति** सूत्रम् । नगरे स्थानीये नियुक्तो नागरिकःतस्य प्रणिधिः प्रणिधानं व्यापारे नियोजनम् अभिघीयत इति सूत्रार्थः । सर्वसमुदयानां यथोक्तरूपाणां रक्षणीयत्वाद् तद्रक्षणस्य तदाश्रयस्थानरक्षणाधीनत्वात् स्थानीयस्य तदाश्रयस्थानत्वात् तद्रक्षणस्येहाभिधानसङ्गतिः ।
 
 ** समाहर्तृवदिति ।** नागरिकः, नगरं स्थानीयं, समाहर्तृवत् चिन्तयेत्
@@ -8259,7 +8259,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** चिकित्सकः प्रच्छन्नव्रणप्रतीकारकारयितारमपथ्यकारिणं च गृहस्वामी च निवेद्यगोपस्थानिकयोर्मुच्यते । अन्यथा तुल्यदोषः स्यात् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**  
 छान्दसांश्च , वासयेयुरिति वर्तते । स्वप्रत्ययत्ववचनं तद्वासननिमित्तस्य दोषस्य स्वगामित्वद्योतनार्थम् ।
 
 ** कारुशिल्पिन** इति । कारवः शिल्पिनश्च स्वकर्मस्थानेषु स्वजनं बासयेयुः, स्वप्रत्ययाः । वैदेहकाश्च वणिजश्व, स्वप्रत्ययाः, अन्योन्यं स्वकर्मस्थानेषु तत्पण्यवणिक् तत्पण्यवाणजमिति न्यायमनपहाय पण्यव्यवहारस्थानेषु, वासयेयुः । पण्यानाम्, अदेशकालविक्रेतारम् अदेशे अकाले च विक्रयकर्तारम् आगन्तुकं, निवेदयेयुः, नागरिकाय । अस्वकरणं च अस्वीयस्य पण्यस्य व्यवहरणं च, निवेदयेयुः ।
@@ -8276,7 +8276,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** अग्निप्रतीकारं च ग्रीष्मे मध्यमयोरह्नश्चतुर्भागयोः । अष्टभागोअग्निदण्डः । बहिरधिश्रयणं वा कुर्युः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) प्रस्थितागतौ चेति ।** प्रस्थितः स्वगृहात् कार्यान्तरेण देशान्तरं प्रस्थितः आगतः देशान्तरात् कार्यान्तरेण स्वगृहं प्राप्तः तौ च, निवेदयेत् प्रस्थानागमनकालप्रयोजनाद्याख्यानपूर्वमावेदयेत्, अर्थाद् गृहस्वामी । अन्यथा निवेदनाभावे, रात्रिदोषं भजेत रात्रौ ताभ्यां कृतस्य चौर्यादिलक्षणस्य दोषस्य भागी भवेत् । क्षेमरात्रिषु क्षेमयुक्तासु अनुपजातचौर्यासु अनिवेदनरात्रिषु, त्रिपणं पणत्रयात्मकमनिवेदनापराधदण्डं, दद्यात् । क्षेमेऽपि दण्डविधानं निवेदनानुष्ठानस्य कदाप्यव्यभिचारार्थम् ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> प्रस्थितागतौ चेति ।** प्रस्थितः स्वगृहात् कार्यान्तरेण देशान्तरं प्रस्थितः आगतः देशान्तरात् कार्यान्तरेण स्वगृहं प्राप्तः तौ च, निवेदयेत् प्रस्थानागमनकालप्रयोजनाद्याख्यानपूर्वमावेदयेत्, अर्थाद् गृहस्वामी । अन्यथा निवेदनाभावे, रात्रिदोषं भजेत रात्रौ ताभ्यां कृतस्य चौर्यादिलक्षणस्य दोषस्य भागी भवेत् । क्षेमरात्रिषु क्षेमयुक्तासु अनुपजातचौर्यासु अनिवेदनरात्रिषु, त्रिपणं पणत्रयात्मकमनिवेदनापराधदण्डं, दद्यात् । क्षेमेऽपि दण्डविधानं निवेदनानुष्ठानस्य कदाप्यव्यभिचारार्थम् ।
 
 ** पथिकेत्या**दि । पथिकोत्पथिकाश्च पथिका महामार्गचारिणो वैदेहकादिव्यञ्जनाः उत्पथिका विवीतपथचारिणः काष्ठतृणादिहारकगोपालकादिव्यञ्जनाः त उभये सञ्चाराः, बहिरन्तश्च नगरस्य विद्यमानेषु, देवगृहादिषु चतुर्षु स्थानेषु सव्रणं शस्त्राद्युत्पादितव्रणम्, अनिष्टोपकरणम् अनिष्टानि वर्जनीयान्युपकरणानि काकल्यादीनि चोरादिसाधनानि यस्य तम्, उद्भाण्डीकृतं समधिकभाण्डमारवाहिनम्, आविग्नं भीतम्, अतिस्वप्नं रात्रि व्यायामजागरवँशादतिमात्रनिदापन्नम्, अध्वक्लान्तं दीर्घाध्वसञ्चारश्रान्तम्, अपूर्वं वा अज्ञातपूर्वं वा गृह्णीयुः, अर्थान्नागरिकाय चापयेयुः ।
 
@@ -8288,7 +8288,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** तृणकटच्छन्नान्यपनयेत् । अग्निजीविन एकस्थान् वासयेत् । स्वगृहप्रद्वारेषु गृहस्वामिनो वसेयुरसम्पातिनो रात्रौ । रथ्यासु कुटव्रजाःसहस्रं तिष्ठेयुः, चतुष्पथद्वारराजपरिग्रहेषु च ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**अग्न्यतिप्रज्वलनबहुलस्फुलिङ्गोगतिहेतूनां वारणं च कुर्युः । कदा, ग्रीष्मे ग्रीष्मर्तौ, तत्रापि न सर्वदा किन्तु मध्यमयोरहश्चतुर्भागयोः दिवससम्बन्धिनोः द्वितीयतृतीययामयोः । तृणपर्णादिमयपटलावृतगृहविषयश्चायं प्रतिषेधः । निषिद्धकारिणां वण्डमाह — **अष्टभाग** इति । पणाष्टभागः, अभिदण्डः निषिद्धकालाग्निकार्यकरणनिमित्तो दण्डः । अग्निकार्यस्य पाकार्थस्थाल्यधिश्रयणस्य तदानीमवर्जनीयत्वे त्वाह — **बहिरिति ।** बहिरधिश्रयणं वा पटलानावृतावकाशाधिश्रयणं वा, कुर्युः ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**अग्न्यतिप्रज्वलनबहुलस्फुलिङ्गोगतिहेतूनां वारणं च कुर्युः । कदा, ग्रीष्मे ग्रीष्मर्तौ, तत्रापि न सर्वदा किन्तु मध्यमयोरहश्चतुर्भागयोः दिवससम्बन्धिनोः द्वितीयतृतीययामयोः । तृणपर्णादिमयपटलावृतगृहविषयश्चायं प्रतिषेधः । निषिद्धकारिणां वण्डमाह — **अष्टभाग** इति । पणाष्टभागः, अभिदण्डः निषिद्धकालाग्निकार्यकरणनिमित्तो दण्डः । अग्निकार्यस्य पाकार्थस्थाल्यधिश्रयणस्य तदानीमवर्जनीयत्वे त्वाह — **बहिरिति ।** बहिरधिश्रयणं वा पटलानावृतावकाशाधिश्रयणं वा, कुर्युः ।
 
  अग्निकार्यकरणस्य घटिकाविशेषसम्बन्धे दण्डविशेषमाह — **पाद** इति । पादःपणचतुर्भागदण्डः, पञ्चघटीनां द्वितीय तृतीययाममध्यमपञ्चघटिकानां सार्धद्वादशघटिकात ऊर्ध्वम् आ सार्धसप्तदशघटिकात् इत्यर्थः । कुम्भद्रोण्यादीनां चाकरणे कुम्भो घटो जलपूर्णः द्रोणी दारूमयो जलाधारो जलपूर्णः निःश्रेणी अधिरोहणी उच्चदेशारोहणार्था परशुः कुठारो दार्वादिच्छेदनार्थः शूर्पं प्रस्फोटनं प्रतिमुखधूमप्रसरवारणार्थम् अङ्कुशं सृणिर्दह्यमानवस्त्वाकर्षणार्थः कचग्रहणी शालापटलतृणहरणसाधनं दृतिश्चर्ममयमुदकपात्रम् इत्येतेषामग्निनिर्वापणसाधनानां ग्रीष्मकाले गृहद्वारेष्वनिवेशने, पाद इत्यनुवर्तते पणचतुर्भागो दण्डः ।
 
@@ -8304,7 +8304,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** भैषज्यव्याधिभयनिमित्तमदण्ड्याः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) प्रदीप्तमि**ति । प्रदीप्तम् अनभिधावतःप्रज्वलिताग्निकं किमपि गृहं दृष्ट्वाप्यनभिद्रवतः, गृहस्वामिनः, द्वादशपणो दण्डः भवति । षट्पणोऽवक्रयिणः भाटकेन गृहे वसतोऽनभिधावतो गृहस्वाम्युक्तदण्डार्धदण्डः । **प्रमादादि**ति । प्रमादाद् अनवधानाद्, दीप्तेषु सत्सु अर्थात् स्वगृहेष्वपि, चतुष्पञ्चाशत्पणो दण्डः । स गृहारक्षकस्येत्येके ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> प्रदीप्तमि**ति । प्रदीप्तम् अनभिधावतःप्रज्वलिताग्निकं किमपि गृहं दृष्ट्वाप्यनभिद्रवतः, गृहस्वामिनः, द्वादशपणो दण्डः भवति । षट्पणोऽवक्रयिणः भाटकेन गृहे वसतोऽनभिधावतो गृहस्वाम्युक्तदण्डार्धदण्डः । **प्रमादादि**ति । प्रमादाद् अनवधानाद्, दीप्तेषु सत्सु अर्थात् स्वगृहेष्वपि, चतुष्पञ्चाशत्पणो दण्डः । स गृहारक्षकस्येत्येके ।
 
 ** प्रादीपिक** इति । प्रदीपिका वहिना गृहसन्दीपनं तत्कर्ता, अग्निना तद्दीपितेनैव, वध्यः तदैव गृहीतश्चेत् । कालान्तरगृहीतस्याप्यग्निदाहः कण्टकशोधने वक्ष्यते — ‘विवीतक्षेत्र खलवेश्मद्रव्यहस्तिवनादीपकमग्निना दाहयेदि’ति ।
 
@@ -8320,7 +8320,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 **विषण्नालिकमुभयतोरात्रं यामतूर्यम् । तूर्यशब्दे राज्ञो गृहाभ्याशे सपादपणमक्षणताडनम् प्रथमपश्चिमयामिकम् । मध्यमयामिकं द्विगुणम् । बहिश्चतुर्गुणम् ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**
 मार्जारेत्यादिवाक्यत्रयमतिरोहितार्थम् ।
 
 ** मार्गेत्या**दि । मार्गविपर्यासे प्रसिद्धमार्गादन्येन मार्गेण शवानां नयने, शवद्वारादन्यतः शवनिर्णयने व्यवस्थितप्रेतनिर्हरणद्वारातिरिक्तद्वारेण प्रेतनिर्हरणे, पूर्वः
@@ -8337,7 +8337,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 ** चाररात्रिषु प्रच्छन्नविपरीतवेषाः पव्रजिता दण्डशस्त्रहस्ताश्च
 मनुष्या दोषतो दण्ड्याः ।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) शङ्कनीय इति** । शङ्कन्तेऽस्मिन् स्थितं पुरुषं चोरजारादित्वेनेति शङ्कनीयः तथाभूते सति, देशे निष्कुटादौ, शङ्कनीये लिङ्गे अवगुण्ठनकु
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> शङ्कनीय इति** । शङ्कन्तेऽस्मिन् स्थितं पुरुषं चोरजारादित्वेनेति शङ्कनीयः तथाभूते सति, देशे निष्कुटादौ, शङ्कनीये लिङ्गे अवगुण्ठनकु
 
 ङ्खच्छायानिलयनादिके सति, पूर्वापदाने च पूर्वकृते चौर्यादिवृत्ते च प्रतीते सति, गृहीतम् अनुयुञ्जीत तद्देशस्थं तल्लिङ्गिनं तदपदानकं च जनं दृष्टं गृहीत्वा पृच्छेत् — कस्त्वं कुतः कस्य किमर्थमिहागतोऽसीति ।
 
@@ -8355,7 +8355,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 ** बन्धनागारे च बालवृद्धव्याधितानाथानां जातनक्षत्रपौर्णमासीषु विसर्गः । पुण्यशीलाःसमयानुबद्धा वा दोषनिष्क्रयं दद्युः।**
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg) रक्षिणामि**ति । अवार्यम् अभ्यनुज्ञाताक्षणसञ्चारं सूतिकाशुश्रूषुप्रभृतिं वारयतां, वार्यं च सामान्यजनम्, अवारयतां, रक्षिणां नागरिकपुरुषाणाम्, अक्षणद्विगुणः अक्षणसञ्चारविहितदण्डद्विगुणः सार्धपणद्वयात्मकः, दण्डः । स्त्रियंदासीम् अन्यदीयाम्, अधिमेहयतां बलाद् गच्छतां रक्षिणां, पूर्वः साहसदण्डः । अदासीं गणिकाम् अधिमेहयतां, मध्यमः साहसदण्डः । कृतावरोधां दासीमदासीं वा केनचिद् भार्यात्वेन परिगृहीताम् अधिमेहयताम् उत्तमः साहसदण्डः। कुलस्त्रियम्, अधिमेहयतां, वधः प्राणवियोजनं दण्डः ।  
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/> रक्षिणामि**ति । अवार्यम् अभ्यनुज्ञाताक्षणसञ्चारं सूतिकाशुश्रूषुप्रभृतिं वारयतां, वार्यं च सामान्यजनम्, अवारयतां, रक्षिणां नागरिकपुरुषाणाम्, अक्षणद्विगुणः अक्षणसञ्चारविहितदण्डद्विगुणः सार्धपणद्वयात्मकः, दण्डः । स्त्रियंदासीम् अन्यदीयाम्, अधिमेहयतां बलाद् गच्छतां रक्षिणां, पूर्वः साहसदण्डः । अदासीं गणिकाम् अधिमेहयतां, मध्यमः साहसदण्डः । कृतावरोधां दासीमदासीं वा केनचिद् भार्यात्वेन परिगृहीताम् अधिमेहयताम् उत्तमः साहसदण्डः। कुलस्त्रियम्, अधिमेहयतां, वधः प्राणवियोजनं दण्डः ।  
 
 ** चेतनाचेतनिकमि**ति । चेतनभवमचेतनभवं च, रात्रिदोषं रात्रिदृष्टममङ्गलम्, अशंसतः अनिवेदयतः, नागरिकस्य पौरस्य, दोषानुरूपो दण्डः कल्प्यः । प्रमादस्थाने च प्रमादो रक्षिपुरुषाणां रक्षाव्यापारशैथिल्यं तस्य स्थाने, हेतुभूते मद्यपानादौ च, दोषानुरूपो दण्डः ।
 
@@ -8377,7 +8377,7 @@ Among particular is known about Visālāksha, but passages from his Arthasāstra
 
 \_\_\_\_\_\_
 
-**![](../../../books_images/U-IMG-1696316066Line.jpg)**भावाः कुतोऽपि यादृच्छिकाद् वृत्तव्यतिक्रमात् प्रसक्तकारागृहप्रवेशा इत्यार्थं, समयानुबद्धा दोषनिष्क्रयं दद्युः समयेन आयतिविशुद्धिप्रातिभाव्यसंविदा प्रतिबद्धाः कृतदोषानुरूपं हिरण्यदण्डं दद्युः, वन्धनगृहे प्रवेशाभावाय । तदिदं बन्धनगृहप्रवेशनपक्षप्रतिक्षेपकं पक्षान्तरं वाशब्दो द्योतयति ।
+**<MISSING_FIG href="../../../books_images/U-IMG-1696316066Line.jpg"/>**भावाः कुतोऽपि यादृच्छिकाद् वृत्तव्यतिक्रमात् प्रसक्तकारागृहप्रवेशा इत्यार्थं, समयानुबद्धा दोषनिष्क्रयं दद्युः समयेन आयतिविशुद्धिप्रातिभाव्यसंविदा प्रतिबद्धाः कृतदोषानुरूपं हिरण्यदण्डं दद्युः, वन्धनगृहे प्रवेशाभावाय । तदिदं बन्धनगृहप्रवेशनपक्षप्रतिक्षेपकं पक्षान्तरं वाशब्दो द्योतयति ।
 
  अध्यायान्ते श्लोकावाह **— दिवस** इति । दिवसे प्रतिदिवसं, पञ्चरात्रे वा प्रतिपञ्चरात्रं वा, बन्धनस्थान्, विशोधयेत् विशोधनं दण्डग्रहणेन दोषनिष्कयं कारयेत् । कथं, कर्मणा भारवहनशकटाकर्षणादिना दण्डदानासामर्थ्ये, कायदण्डेन शरीरताडनादिना कर्मकरणासौकर्ये, हिरण्यानुग्रहेण वा ‘हिरण्यग्रहणरूपेणानुग्रहेण वा बन्धनस्थगुणित्वे । इह केचिद् ‘विशोधयेदि’ यस्यावृत्त्या ‘बन्धनगतान् विशोधयेत् सुस्था दुःस्था वेति परीक्षेतत्यर्थान्तरमपि संगृह्णन्ति ॥  
 

@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQyMTA1NTk2ODY
 
 [TABLE]
 
-![](../../../books_images/U-IMG-1698930714Untitled123654.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1698930714Untitled123654.png"/>
 
 **SANT TUKARAMA**  
 *Statue by B. V. Talim*
@@ -255,7 +255,7 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 
 इति सौ. क्षमायाः कृतिषु श्रीतुकारामचरिते मूल पुरुषप्रशंसनो नाम प्रथमः सर्गः।
 
-![](../../../books_images/U-IMG-1699072706जज.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1699072706जज.png"/>
 
 **।द्वितीयः सर्गः।**
 
@@ -385,7 +385,7 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 
 इति सौ० क्षमायाः कृतिषु श्रीतुकारामचरिते जन्मादिसंकीर्तनो नाम द्वितीयः सर्गः।  
 
-![](../../../books_images/U-IMG-1701078035Screenshot2023-11-27150950rEVIEW.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1701078035Screenshot2023-11-27150950rEVIEW.jpg"/>
 
 **। तृतीयः सर्गः।**
 
@@ -604,7 +604,7 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 
 इति सौ० क्षमायाः कृतिषु श्रीतुकारामचरिते वाणिज्यविनाशो नाम तृतीयः सर्गः।
 
-![](../../../books_images/U-IMG-169924863178952.png)
+<MISSING_FIG href="../../../books_images/U-IMG-169924863178952.png"/>
 
 **। चतुर्थः सर्गः ।**
 
@@ -915,7 +915,7 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 
 इति सौ० क्षमायाः कृतिषु श्रीतुकारामचरिते दिनचर्यावर्णनो नाम पञ्चमः सर्गः।
 
-![](../../../books_images/U-IMG-17011700180..888.png)
+<MISSING_FIG href="../../../books_images/U-IMG-17011700180..888.png"/>
 
 **।षष्ठः सर्गः।**
 
@@ -1091,7 +1091,7 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 
 इति सौ० क्षमायाः कृतिषु श्रीतुकारामचरिते हरिगणेशभोजनो नाम षष्ठः सर्गः।
 
-![](../../../books_images/U-IMG-1701412903Screenshot2023-11-29183345.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1701412903Screenshot2023-11-29183345.jpg"/>
 
 **।सप्तमः सर्गः।**
 
@@ -1252,7 +1252,7 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 
 इति सौ० क्षमायाः कृतिषु श्रीतुकारामचरिते नष्टप्रत्यागमो नाम सप्तमः सर्गः।
 
-![](../../../books_images/U-IMG-1701425232Screenshot2023-11-29183345.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1701425232Screenshot2023-11-29183345.jpg"/>
 
 **।अष्टमः सर्गः।**
 
@@ -1389,7 +1389,7 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 
 इति सौ० क्षमायाः कृतिषु श्रीतुकारामचरिते शिवाजीसमागमोनामाष्टमः सर्गः।
 
-![](../../../books_images/U-IMG-1701415135Screenshot2023-11-29183345.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1701415135Screenshot2023-11-29183345.jpg"/>
 
 दिने दिने वृद्धि मियाय संख्या कलेच चान्द्री यतिवर्यभाजाम् ।  
 द्विषोऽपि मित्राणि बभूवुरस्य क्षमेव जैत्रो न गुणः क्षमायाम्॥१॥
@@ -1596,7 +1596,7 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 
 मोहमय्याम् १।४।४७
 
-![](../../../books_images/U-IMG-1701263065Screenshot2023-11-29183345.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1701263065Screenshot2023-11-29183345.jpg"/>
 
 **LIFE OF TUKARAMA  
 CANTO I**
@@ -2565,4 +2565,3 @@ withemotions of joy, sorrow, fear, devotion, amazement.
 [^11]: "Brahma (Creator
 
 \]
-

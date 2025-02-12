@@ -22,7 +22,7 @@ TANTRIK TEXTS
 
 [TABLE]
 
-![](../books_images/U-IMG-1721889355Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1721889355Capture.JPG"/>
 
 Printed by - NANIGOPAL DUTT
 
@@ -345,8 +345,6 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 [^27]: "Prāna, Apāna, Samāna, Udāna, Vyāna."
 
  In Her sixfold aspect She is the six Koshas[^19], six Urmis[^29], and six Rasas[^30] She it is who forms the divisions of the six-chambered Yantra (Shadgunita Yantra).
-
-[^19]: "V ante, p II"
 
 [^29]: "V. ante, p 15"
 
@@ -904,9 +902,9 @@ Who can imagine Thy supreme state[^77]?
 Adorned with crown,  
 Resplendent with conch and discus[^78]
 
-———————————————————————————————————————  
-
 [^78]: "Chakra. Both conch and discus are white and shining."
+
+———————————————————————————————————————  
 
 **1.** The forms of the Mother of the Universe are threefold. There is first the supreme (para) form of which, as the Vishnuyā
 
@@ -1069,8 +1067,6 @@ Speech, mind[^103] and knowledge^(**4**)
 Beauty and splendour  
 And all other powers[^104].
 
-[^76]: "Ishi."
-
 [^102]: "Buddhi, see page 41."
 
 [^103]: "Mati; here the acting manas."
@@ -1113,8 +1109,6 @@ Who art all[^109]
 And in the form of all[^110],  
 Who art the power in all things^(**8**),
 
-[^91]: "Maheshi"
-
 [^109]: "Samaste"
 
 [^110]: "Samastasvarūpe"
@@ -1150,8 +1144,6 @@ Oh our Great Lady[^91],
 May all our speech be of, and all our hymn to, Thee,  
 May all we do^(**2**) be homage to Thee.  
 Be ever gracious to and pardon me^(**3**).
-
-[^91]: "Maheshi"
 
 ————  
 
@@ -1487,8 +1479,6 @@ Holder of the bow, Destroyer of Keshin[^74],
 Oh Auspicious One, delighter of Nanda[^168],  
 May Thou be ever victorious.
 
-[^74]: "See last note."
-
 [^168]: "Foster father of Krishna."
 
 8
@@ -1655,8 +1645,6 @@ Gives several Mantras including that of Vishnu as "The Charmer of the whole Univ
 
 Think of a beautiful garden of Kalpa trees fragrant with the scent of flowers and musical with the humming of big bees. Therein meditate upon Ramāpati[^186], seated on Garuda[^187].") who is on a red lotus. The husband of Shrī[^96] is the colour of a full blown red hibiscus flower and shines with the radiance of ten million rising suns. He is in the full flush of beauteous youth shedding the nectar of His sweet scented presence and lovely form. Kind is He to all. He holds a conch shell, bow, club (Mushala), noose (Pāsha), discus (Chakra), sword, mace (Gadā), goad (Aṁkusha). His eyes
 
-[^96]: "Lakshmi."
-
 [^186]: "The husband of Rama or Shri or Lakshmi; that is, Vishnu"
 
 [^187]: "The bird-king who is His vehicle (vähana
@@ -1667,7 +1655,7 @@ Think of a beautiful garden of Kalpa trees fragrant with the scent of flowers an
 
 ———————————————————————————————————————
 
-are fixed in gaze upon the face of Shrī, His spouse who embraces him in the fullness of Her love[^189]. Shrī is of peerless beauty and like molten gold, joyous and decked with all jewels. She holds a lotus. Her eyes are like lotuses thirsty to drink the honey from His lotus mouth. Such is the thrill (romāncha) of Her passion that it has covered Her body with pearly beads of sweat. In attendance upon them are all the Devas with their attendants, Daityas, Rākshasas[^190], Gandharvas, Yakshas, Pannagas[^191]. See The Great Liberation p. 2 & Notes.") and the foremost of sages (Muni). Encircling Vishnu and His spouse are their househld women with heavy thighs, hips and breasts[^192], sweetly smiling. They look with ardent longing upon Him making obeisance with their soft folded hands. Pierced by the [arrows of Anamga](#) they move voluptuously[^193]. Their lips part but scarcely utter a sound for they are tremulous with passion. Their hair and clothes are in disorder. They are shameless with passion[^194]. Their whole body shakes. They breathe heavily. All steadiness is stolen from them. They are about to fall, rent as they are by the terrible arrows of Manmatha[^195]. But yet they do not fall being strengthened and raised by the beauteous glance of Vishnu. Forming lotuses as it were with their hands[^196] they go towards Him and worship His two feet and with the murmur of hardly uttered words and with eyes wet with tears of joy say to Him "Supreme Lord and Husband, be our Refuge”[^197].
+are fixed in gaze upon the face of Shrī, His spouse who embraces him in the fullness of Her love[^189]. Shrī is of peerless beauty and like molten gold, joyous and decked with all jewels. She holds a lotus. Her eyes are like lotuses thirsty to drink the honey from His lotus mouth. Such is the thrill (romāncha) of Her passion that it has covered Her body with pearly beads of sweat. In attendance upon them are all the Devas with their attendants, Daityas, Rākshasas[^190], Gandharvas, Yakshas, Pannagas[^191]. See The Great Liberation p. 2 & Notes.") and the foremost of sages (Muni). Encircling Vishnu and His spouse are their househld women with heavy thighs, hips and breasts[^192], sweetly smiling. They look with ardent longing upon Him making obeisance with their soft folded hands. Pierced by the arrows of Anamga[^266] they move voluptuously[^193]. Their lips part but scarcely utter a sound for they are tremulous with passion. Their hair and clothes are in disorder. They are shameless with passion[^194]. Their whole body shakes. They breathe heavily. All steadiness is stolen from them. They are about to fall, rent as they are by the terrible arrows of Manmatha[^195]. But yet they do not fall being strengthened and raised by the beauteous glance of Vishnu. Forming lotuses as it were with their hands[^196] they go towards Him and worship His two feet and with the murmur of hardly uttered words and with eyes wet with tears of joy say to Him "Supreme Lord and Husband, be our Refuge”[^197].
 
 [^189]: "Madotkara lit. She is in the extreme entrancement of passion."
 
@@ -1686,6 +1674,8 @@ are fixed in gaze upon the face of Shrī, His spouse who embraces him in the ful
 [^196]: "The hands are put together,"
 
 [^197]: "Bhava parameshvara patih sharanaṁ bah."
+
+[^266]: #
 
  This meditation is of a typical Vaishnava quality. It is based on the idea which is expressed in the words said by the Vaishnava Gurus or Gossains to their disciples, "I am Shyāma (Krishna) you are Rādhā.”
 
@@ -2212,7 +2202,7 @@ June 1935.
 
 ————
 
-![](../books_images/U-IMG-1722184368Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722184368Capture.JPG"/>
 
 [TABLE]
 
@@ -2667,17 +2657,17 @@ June 1935.
 मूलेऽपि क्वचित् क्वचित् पाठभेदा बन्धनीमध्यगता द्रष्टव्याः।  
 **————**
 
-![](../books_images/U-IMG-1722009626Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722009626Capture.JPG"/>
 
 ॐ  
 
 श्रीप्रपञ्चसारतन्त्रम्  
-![](../books_images/U-IMG-1722057290Capture.JPG)  
+<MISSING_FIG href="../books_images/U-IMG-1722057290Capture.JPG"/>  
 
 श्रीश्रीगुरवे नमः।  
 
 प्रथमः पटलः।  
-![](../books_images/U-IMG-1722057383Capture1.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722057383Capture1.JPG"/>
 
 अकचटतपयाद्यैः सप्तभिर्वर्णवर्गै-  
 र्विरचितमुखबाहापादमध्याख्यहृत्का।  
@@ -9667,4 +9657,3 @@ June 1935.
 —— ——
 
 \]
-

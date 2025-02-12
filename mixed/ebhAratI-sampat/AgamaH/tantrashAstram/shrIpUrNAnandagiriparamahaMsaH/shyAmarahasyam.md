@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxMzU2NjYyNzc
 
 [TABLE]
 
-![](../books_images/U-IMG-1720521726hkgx.png)
+<MISSING_FIG href="../books_images/U-IMG-1720521726hkgx.png"/>
 
 **पण्डितकुलपतिः  
 श्रीजीवानन्दविद्यासागर वि, ए,  
