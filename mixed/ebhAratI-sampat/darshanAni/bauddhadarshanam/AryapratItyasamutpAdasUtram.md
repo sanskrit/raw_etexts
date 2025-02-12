@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNjQ0MTQ4MzE
 
 \[
 
-
-
 (वैद्य ११९)  
 
 **आर्यप्रतीत्यसमुत्पादो नाम महायानसूत्रम् ।**
@@ -32,11 +30,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNjQ0MTQ4MzE
 
 **------------------------------------------**
 
-
-
 **\\Z**
-
-
-
 
 \]

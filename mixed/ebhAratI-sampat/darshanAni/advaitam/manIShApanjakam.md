@@ -12,15 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI
 
 \[
 
-
-
 ॥श्रीः॥
 
-
-
 ॥मनीषापञ्चकम्॥
-
-
 
 जाग्रत्स्वप्नसुषुप्तिषु स्फुटतरा या संविदुज्जृम्भते
 
@@ -28,13 +22,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI
 
 सैवाहं न च दृश्यवस्त्विति दृढप्रज्ञापि यस्यास्ति चे-
 
-
-
 च्चाण्डालोऽस्तु स तु द्विजोऽस्तु गुरुरित्येषा मनीषा मम॥ 1
 
 ॥
-
-
 
 ब्राहृैवाहमिदं जगच्च सकलं चिन्मात्रविस्तारितं
 
@@ -42,13 +32,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI
 
 इत्थं यस्य दृढा मतिः सुखतरे नित्ये परे निर्मले
 
-
-
 चाण्डालोऽस्तु स तु द्विजोऽस्तु गुरुरित्येषा मनीषा मम॥ 2
 
 ॥
-
-
 
 शश्वन्नश्वरमेव विश्वमखिलं निश्चित्य वाचा गुरो-
 
@@ -56,13 +42,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI
 
 भूतं भाति च दुष्कृतं प्रदहता संविन्मये पावके
 
-
-
 प्रारब्धाय समर्पितं स्ववपुरित्येषा मनीषा मम॥ 3
 
 ॥
-
-
 
 या तिर्यङ्नरदेवताभिरहमित्यन्तः स्फुटा गृह्रते
 
@@ -70,13 +52,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI
 
 तां भास्यैः पिहितार्कमण्डलनिभां स्फूर्तिं सदा भावय-
 
-
-
 न्योगी निर्वृतमानसो हि गुरुरित्येषा मनीषा मम॥ 4
 
 ॥
-
-
 
 यत्सौख्याम्बुधिलेशलेशत इमे शक्रादयो निर्वृता
 
@@ -84,13 +62,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI
 
 यस्मिन्नित्यसुखाम्बुधौ गलितधीब्र्राहृैव न ब्राहृवि-
 
-
-
 द्यः कश्चित्स सुरेन्द्रवन्दितपदो नूनं मनीषा मम॥ 5
 
 ॥
-
-
 
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
 
@@ -99,6 +73,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA0NTExNDYyNjI
 श्रीमच्छंकरभगवतः कृतौ
 
 मनीषापञ्चकं संपूर्णम्॥
-
 
 \]

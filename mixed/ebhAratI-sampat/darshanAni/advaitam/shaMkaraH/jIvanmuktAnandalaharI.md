@@ -13,11 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 \[
 
-
-
 जीवन्मुक्तानन्दलहरी
-
-
 
 पुरे पौरान्पश्यन्नरयुवतिनामाकृतिमयान्
 
@@ -27,8 +23,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ १॥
 
-
-
 वने वृक्षान्पश्यन्दलफलभरान्नम्रसुशिखान्
 
 घनच्छायाच्छन्नान्बहुलकलकूजद्द्विजगणान् ।
@@ -36,8 +30,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 भजन्घस्रोरात्रादवनितलकल्पैकशयनो
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ २॥
-
-
 
 कदाचित्प्रासादे क्वचिदपि च सौधेषु धनिनां
 
@@ -47,8 +39,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ३॥
 
-
-
 क्वचिद्बालैः सार्धं करतलजतालैः सहसितैः
 
 क्वचित्तारुण्यालङ्कृतनरवधूभिः सह रमन् ।
@@ -56,8 +46,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 क्वचिद्वृद्धैश्चिन्ताकुलित हृदयैश्चापि विलपन्
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ४॥
-
-
 
 कदाचिद्विद्वद्भिर्विविदिषुभिरत्यन्तनिरतैः
 
@@ -67,8 +55,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ५॥
 
-
-
 कदा ध्यानाभ्यासैः क्वचिदपि सपर्यां विकसितैः
 
 सुगंधैः सत्पुष्पैः क्वचिदपि दलैरेव विमलः ।
@@ -76,8 +62,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 प्रकुर्वन्देवस्य प्रमुदितमनाः संनतिपरो
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ६॥
-
-
 
 शिवायाः शंभोर्वा क्वचिदपि च विष्णोरपि कदा
 
@@ -87,8 +71,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ७॥
 
-
-
 कदा गङ्गाम्भोभिः क्वचिदपि च कूपोत्थसलिलैः
 
 क्वचित्कासारोत्थैः क्वचिदपि सदुष्णैश्च शिशिरैः ।
@@ -96,8 +78,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 भजन्स्नानं भूत्या क्वचिदपि च कर्पूरनिभया
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ८॥
-
-
 
 कदाचिज्जागर्त्यां विषयकरणैः संव्यवहरन्
 
@@ -107,8 +87,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ९॥
 
-
-
 कदाप्याशावासाः क्वचिदपि च दिव्याम्बरधरः
 
 क्वचित्पञ्चास्योत्थां त्वचमपि दधानः कटितटे ।
@@ -116,8 +94,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 मनस्वी निःसङ्गः सुजनहृदयानन्दजनको
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ १०॥
-
-
 
 कदाचित्सत्त्वस्थः क्वचिदपि रजोवृत्तिसुगत
 
@@ -127,8 +103,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ ११॥
 
-
-
 कदाचिन्मौनस्थः क्वचिदपि च वाग्वादनिरतः
 
 कदाचित्स्वानंदं हसितरभसस्त्यक्तवचनः ।
@@ -136,8 +110,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 कदाचिल्लोकानां व्यवहृतिसमालोकनपरो
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ १२॥
-
-
 
 कदाचिच्छक्तीनां विकचमुखपद्मेषु कमलं
 
@@ -147,8 +119,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ १३॥
 
-
-
 क्वचिच्छैवैः सार्थं क्वचिदपि च शाक्तैः सह वसन्
 
 कदा विष्णोर्भक्तैः क्वचिदपि च सौरैः सह वसन् ।
@@ -156,8 +126,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 कदा गाणापत्यैर्गतसकलभेदोऽद्वयतया
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ १४॥
-
-
 
 निराकारं क्वापि क्वचिदपि च साकारममलं
 
@@ -167,8 +135,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ १५॥
 
-
-
 कदा द्वैतं पश्यन्नखिलमपि सत्यं शिवमयं
 
 महावाक्यार्थानामवगतिसमभ्यासवशतः ।
@@ -176,8 +142,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 गतद्वैताभासः शिव शिव शिवेत्येव विलपन्
 
 मुनिर्न व्यामोहं भजति गुरुदीक्षाक्षततमाः ॥ १६॥
-
-
 
 इमां मुक्तावस्थां परमशिवसंस्थां गुरुकृपा
 
@@ -187,8 +151,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 
 तदा त्यागी योगी कविरिति वदन्तीह कवयः ॥ १७॥
 
-
-
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
 
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य
@@ -196,16 +158,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxNjcxODE0MDk
 श्रीमच्छङ्करभगवतः कृतौ
 
 जीवन्मुक्तानन्दलहरी सम्पूर्णा ॥
-
-
-
-
-
-
-
-
-
-
-
 
 \]

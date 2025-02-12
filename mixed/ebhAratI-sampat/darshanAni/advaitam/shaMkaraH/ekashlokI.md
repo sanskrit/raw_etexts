@@ -13,19 +13,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk5MzY5NjM0MDE
 
 \[
 
-
-
-
-
-
-
 ॥श्रीः॥
 
-
-
 ॥एकश्लोकी॥
-
-
 
 किं ज्योतिस्तव भानुमानहनि मे रात्रौ प्रदीपादिकं
 
@@ -35,8 +25,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk5MzY5NjM0MDE
 
 किं तत्राहमतो भवान्परमकं ज्योतिस्तदस्मि प्रभो॥
 
-
-
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
 
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य
@@ -44,8 +32,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk5MzY5NjM0MDE
 श्रीमच्छंकरभगवतः कृतौ
 
 एकश्लोकी संपूर्णा॥
-
-
-
 
 \]

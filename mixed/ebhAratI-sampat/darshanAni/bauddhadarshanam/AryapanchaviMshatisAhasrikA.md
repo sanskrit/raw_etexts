@@ -12,9 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NDkyMDk4NTY
 
 \[
 
-
-
-
  पञ्चविंशतिसाहस्रिका प्रज्ञापारमिता
 
 ००१०१ नमो भगवद्यै आर्यप्रज्ञापारमितायै॥  
@@ -5872,6 +5869,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NDkyMDk4NTY
 \\Z
 
 ------------------------------------------
-
 
 \]

@@ -13,23 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 \[
 
-
-
 ॥श्रीः॥
-
-
 
 ॥तत्त्वोपदेशः॥
 
-
-
 ॥श्रीः॥
 
-
-
 ॥तत्त्वोपदेशः॥
-
-
 
 तत्त्वंपदार्थशुद्ध्यर्थं
 
@@ -38,8 +28,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 शिष्यं
 
 वचोऽब्रावीत्।
-
-
 
 वाक्ये
 
@@ -53,10 +41,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 न
 
 त्वं
@@ -64,8 +48,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 देहोऽसि
 
 दृश्यत्वादुपजात्यादिमत्त्वतः।
-
-
 
 भौतिकत्वादशुद्धत्वादनित्यत्त्वात्तथैव
 
@@ -75,17 +57,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अदृश्यो
 
 रूपहीनस्त्वं
 
 जातिहीनोऽप्यभौतिकः।
-
-
 
 शुद्धनित्योऽसि
 
@@ -101,10 +77,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 न
 
 भवानिन्द्रियाण्येषां
@@ -114,8 +86,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 या
 
 श्रुतिः।
-
-
 
 प्रेरकस्त्वं
 
@@ -133,10 +103,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 नानैतान्येकरूपस्त्वं
 
 भिन्नस्तेभ्यः
@@ -144,8 +110,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 कुतः
 
 श्रृणु।
-
-
 
 न
 
@@ -157,10 +121,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 न
 
 तेषां
@@ -171,8 +131,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 च।
 
-
-
 विनाशेऽप्यात्मधीस्तावदस्ति
 
 स्यान्नैवमन्यथा॥
@@ -180,10 +138,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 6
 
 ॥
-
-
-
-
 
 प्रत्येकमपि
 
@@ -197,8 +151,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 श्रृणु।
 
-
-
 नानास्वामिकदेहोऽयं
 
 नश्येद्भिन्नमताश्रयः॥
@@ -207,17 +159,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 नानात्माभिमतं
 
 नैव
 
 विरुद्धविषयत्वतः।
-
-
 
 स्वाम्यैक्ये
 
@@ -230,10 +176,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 8
 
 ॥
-
-
-
-
 
 न
 
@@ -249,8 +191,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 चैतयोः।
 
-
-
 गतमन्यत्र
 
 मे
@@ -260,10 +200,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 9
 
 ॥
-
-
-
-
 
 क्षत्तृड्भ्यां
 
@@ -277,8 +213,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 भेदतः।
 
-
-
 तयोद्र्रष्टा
 
 पृथक्ताभ्यां
@@ -290,10 +224,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 10
 
 ॥
-
-
-
-
 
 सुप्तौ
 
@@ -308,8 +238,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 व्याप्नोति
 
 देहकम्।
-
-
 
 चिच्छायया
 
@@ -327,10 +255,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 नानारूपवती
 
 बोधे
@@ -338,8 +262,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 सुप्तौ
 
 लीनातिचञ्चला।
-
-
 
 यतो
 
@@ -353,10 +275,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सुप्तौ
 
 देहाद्यभावेऽपि
@@ -367,8 +285,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 भवान्यतः।
 
-
-
 स्वानुभूतिस्वरूपत्वान्नान्यस्तस्यास्ति
 
 भासकः॥
@@ -376,10 +292,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 13
 
 ॥
-
-
-
-
 
 प्रमाणं
 
@@ -395,8 +307,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 जनाः।
 
-
-
 बुभुत्स्यन्ते
 
 त
@@ -411,17 +321,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 विश्वमात्मानुभवति
 
 तेनासौ
 
 नानुभूयते।
-
-
 
 विश्वं
 
@@ -437,10 +341,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 ईदृशं
 
 तादृशं
@@ -452,8 +352,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 सदेव
 
 यत्।
-
-
 
 तद्ब्राहृ
 
@@ -469,10 +367,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 इदंत्वेनैव
 
 यद्भाति
@@ -482,8 +376,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 तच्च
 
 निषिध्यते।
-
-
 
 अवाच्यतत्त्वमनिदं
 
@@ -497,10 +389,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सत्यं
 
 ज्ञानमनन्तं
@@ -508,8 +396,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 च
 
 ब्राहृलक्षणमुच्यते।
-
-
 
 सत्यत्वाज्ज्ञानरूपत्वादनन्तत्वात्त्वमेव
 
@@ -519,10 +405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सति
 
 देहाद्युपाधौ
@@ -530,8 +412,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 स्याज्जीवस्तस्य
 
 नियामकः।
-
-
 
 ईश्वरः
 
@@ -543,15 +423,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अपेक्ष्यतेऽखिलैर्मानैर्न
 
 यन्मानमपेक्षते।
-
-
 
 वेदवाक्यं
 
@@ -565,10 +439,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अतो
 
 हि
@@ -576,8 +446,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 तत्त्वमस्यादिवेदवाक्यं
 
 प्रमाणतः।
-
-
 
 ब्राहृणोऽस्ति
 
@@ -593,10 +461,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 शोधिते
 
 त्वंपदार्थे
@@ -606,8 +470,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 तत्त्वमस्यादि
 
 चिन्तितम्।
-
-
 
 संभवेन्नान्यथा
 
@@ -619,15 +481,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 देहेन्द्रियादिधर्मान्यः
 
 स्वात्मन्यारोपयन्मृषा।
-
-
 
 कर्तृत्वाद्यभिमानी
 
@@ -641,10 +497,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 देहेन्द्रियादिसाक्षी
 
 यस्तेभ्यो
@@ -652,8 +504,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 भाति
 
 विलक्षणः।
-
-
 
 स्वयं
 
@@ -665,13 +515,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 वेदान्तवाक्यसंवेद्यविश्वातीताक्षराद्वयम्।
-
-
 
 विशुद्धं
 
@@ -685,17 +529,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सामानाधिकरण्यं
 
 हि
 
 पदयोस्तत्त्वमोद्र्वयोः।
-
-
 
 संबन्धस्तेन
 
@@ -707,15 +545,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 भिन्नप्रवृत्तिहेतुत्वे
 
 पदयोरेकवस्तुनि।
-
-
 
 वृत्तित्वं
 
@@ -727,15 +559,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सामानाधिकरण्यं
 
 तत्संप्रदायिभिरीरितम्।
-
-
 
 तथा
 
@@ -747,10 +573,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अयं
 
 सः
@@ -760,8 +582,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 भवति
 
 द्वयोः।
-
-
 
 प्रत्यक्त्वं
 
@@ -777,10 +597,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 परस्परविरुद्धं
 
 स्यात्ततो
@@ -788,8 +604,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 भवति
 
 लक्षणा॥
-
-
 
 लक्ष्यलक्षणसंबन्धः
 
@@ -799,15 +613,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 मानान्तरोपरोधाच्च
 
 मुख्यार्थस्यापरिग्रहे।
-
-
 
 मुख्यार्थस्याविनाभूते
 
@@ -816,10 +624,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 31
 
 ॥
-
-
-
-
 
 त्रिविधा
 
@@ -830,8 +634,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 जहत्यजहती
 
 तथा।
-
-
 
 अन्योभयात्मिका
 
@@ -847,10 +649,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 वाच्यार्थमखिलं
 
 त्यक्त्वा
@@ -860,8 +658,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 स्याद्या
 
 तदन्विते।
-
-
 
 गङ्गायां
 
@@ -879,10 +675,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 वाच्यार्थस्यैकदेशस्य
 
 प्रकृते
@@ -890,8 +682,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 त्याग
 
 इष्यते।
-
-
 
 जहती
 
@@ -903,8 +693,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
 वाच्यार्थमपरित्यज्य
 
 वृत्तिरन्यार्थके
@@ -912,8 +700,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 तु
 
 या।
-
-
 
 कथितेयमजहती
 
@@ -925,10 +711,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 न
 
 संभवति
@@ -936,8 +718,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 साप्यत्र
 
 वाच्यार्थेऽतिविरोधतः।
-
-
 
 विरोधांशपरित्यागो
 
@@ -951,17 +731,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 वाच्यार्थस्यैकदेशं
 
 च
 
 परित्यज्यैकदेशकम्।
-
-
 
 या
 
@@ -979,10 +753,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सोऽयं
 
 विप्र
@@ -992,8 +762,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 वाक्यं
 
 बोधयत्यादितस्तथा।
-
-
 
 तत्कालत्वविशिष्टं
 
@@ -1005,15 +773,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अतस्तयोर्विरुद्धं
 
 तत्तत्कालत्वादिधर्मकम्।
-
-
 
 त्यक्त्वा
 
@@ -1029,10 +791,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 तथैव
 
 प्रकृते
@@ -1043,8 +801,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 शृणु।
 
-
-
 प्रत्यक्त्वादीन्परित्यज्य
 
 जीवधर्मांस्त्वमःपदात्॥
@@ -1053,15 +809,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सर्वज्ञत्वपरोक्षादीन्परित्यज्य
 
 ततःपदात्।
-
-
 
 शुद्धं
 
@@ -1073,17 +823,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 तत्त्वमोः
 
 पदयोरैक्यमेव
 
 तत्त्वमसीत्यलम्।
-
-
 
 इत्थमैक्यावबोधेन
 
@@ -1097,10 +841,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अहं
 
 ब्राहृेति
@@ -1113,8 +853,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 तरत्यसौ।
 
-
-
 आत्मा
 
 प्रकाशमानोऽपि
@@ -1125,15 +863,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 तत्त्वमोर्बोध्यतेऽथापि
 
 पौर्वापर्यानुसारतः।
-
-
 
 तथापि
 
@@ -1151,10 +883,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अपरोक्षयितुं
 
 लोके
@@ -1162,8 +890,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 मूढैः
 
 पण्डितमानिभिः।
-
-
 
 अन्तःकरणसंशुद्धौ
 
@@ -1177,10 +903,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 वेदवाक्यैरतः
 
 किं
@@ -1190,8 +912,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 न
 
 सांप्रतम्।
-
-
 
 आचार्यवान्पुरुषो
 
@@ -1205,10 +925,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अनादाविह
 
 संसारे
@@ -1218,8 +934,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 गुरुरेव
 
 हि।
-
-
 
 अतो
 
@@ -1233,10 +947,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अद्वैते
 
 ब्राहृणि
@@ -1247,17 +957,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 सदा।
 
-
-
 तत्प्रत्यक्षात्परिज्ञातमद्वैतब्राहृचिद्धनम्॥
 
 48
 
 ॥
-
-
-
-
 
 प्रतिपाद्यं
 
@@ -1269,8 +973,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 जडम्।
 
-
-
 सुखरूपं
 
 चिदद्वैतं
@@ -1281,10 +983,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 वेदान्तैस्तद्द्वयं
 
 सम्यङ्निर्णीतं
@@ -1292,8 +990,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 वस्तुतो
 
 नयात्।
-
-
 
 अद्वैतमेव
 
@@ -1309,10 +1005,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 शुद्धे
 
 कथमशुद्धः
@@ -1322,8 +1014,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 मायामयं
 
 ततः।
-
-
 
 शुक्तौ
 
@@ -1341,10 +1031,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 विद्यते
 
 न
@@ -1359,8 +1045,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 वा।
 
-
-
 बाध्यत्वान्नैव
 
 सद्द्वैतं
@@ -1371,17 +1055,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सदसन्न
 
 विरुद्धत्वादतोऽनिर्वाच्यमेव
 
 तत्।
-
-
 
 यः
 
@@ -1397,10 +1075,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 प्रविष्टो
 
 जीवरूपेण
@@ -1410,8 +1084,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 एवात्मा
 
 भवान्परः।
-
-
 
 सच्चिदानन्द
 
@@ -1427,10 +1099,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 जीवभावमनुप्राप्तः
 
 स
@@ -1438,8 +1106,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 एवात्मासि
 
 बोधतः।
-
-
 
 अद्वयानन्दचिन्मात्रः
 
@@ -1451,10 +1117,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 कर्तृत्वादीनि
 
 यान्यासंस्त्वयि
@@ -1462,8 +1124,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 ब्राहृाद्वये
 
 परे।
-
-
 
 तानीदानीं
 
@@ -1479,10 +1139,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अत्रैव
 
 श्रृणु
@@ -1491,8 +1147,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 श्रुतिभाषितम्।
 
-
-
 कश्चिद्गान्धारदेशीयो
 
 महारत्नविभूषितः॥
@@ -1500,10 +1154,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 57
 
 ॥
-
-
-
-
 
 स्वगृहे
 
@@ -1514,8 +1164,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 प्रमत्तः
 
 सन्कदाचन।
-
-
 
 रात्रौ
 
@@ -1531,10 +1179,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 बद्ध्वा
 
 देशान्तरं
@@ -1545,8 +1189,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 वने।
 
-
-
 भूषणान्यपह्मत्यापि
 
 बद्धाक्षकरपादकः॥
@@ -1555,17 +1197,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 निक्षिप्तो
 
 विपिनेऽतीव
 
 कुशकण्टकवृश्चिकैः।
-
-
 
 व्यालव्याघ्रादिभिश्चैव
 
@@ -1577,17 +1213,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 व्यालादिदुष्टसत्त्वेभ्यो
 
 महारण्ये
 
 भयातुरः॥
-
-
 
 शिलाकण्टकदर्भाद्यैर्देहस्य
 
@@ -1597,27 +1227,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 क्रियमाणे
 
 विलुठने
 
 विशीर्णाङ्गोऽसमर्थकः।
 
-
-
 क्षुत्तृडातपवाय्वग्न्यादिभिस्तप्तोऽतितापकैः॥
 
 62
 
 ॥
-
-
-
-
 
 बन्धमुक्तौ
 
@@ -1626,8 +1246,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 देशप्राप्तावेव
 
 सुदुःखधीः।
-
-
 
 ददृशे
 
@@ -1641,17 +1259,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 तथा
 
 रागादिभिर्वर्गैः
 
 शत्रुभिर्दुःखदायिभिः।
-
-
 
 चौरैर्देहाभिमानाद्यैः
 
@@ -1661,17 +1273,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 ब्राहृानन्दे
 
 प्रमत्तः
 
 स्वाज्ञाननिद्रावशीकृतः।
-
-
 
 बद्धस्त्वं
 
@@ -1681,17 +1287,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अद्वयानन्दरूपात्त्वां
 
 प्रच्याव्यातीव
 
 धूर्तकैः।
-
-
 
 दूरनीतोऽसि
 
@@ -1703,17 +1303,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सर्वदुःखनिदानेषु
 
 शरीरादित्रयेषु
 
 च।
-
-
 
 नानायोनिषु
 
@@ -1725,10 +1319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 प्रवेशितोऽसि
 
 सृष्टोऽसि
@@ -1736,8 +1326,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 बद्धः
 
 स्वानन्ददृष्टितः।
-
-
 
 अनादिकालमारभ्य
 
@@ -1749,13 +1337,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 जन्ममृत्युजरादोषनरकादिपरम्पराम्॥
-
-
 
 निरन्तरं
 
@@ -1765,10 +1347,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अविद्याभूतबन्धस्य
 
 निवृत्तौ
@@ -1776,8 +1354,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 दुःखदस्य
 
 च।
-
-
 
 स्वरूपानन्दसंप्राप्तौ
 
@@ -1791,17 +1367,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 यथा
 
 गान्धारदेशीयश्चिरं
 
 दैवाद्दयालुभिः।
-
-
 
 कैश्चित्पान्थैः
 
@@ -1815,10 +1385,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 सः
 
 स्वस्थैरुपदिष्टश्च
@@ -1826,8 +1392,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 पण्डितो
 
 निश्चितात्मकः।
-
-
 
 ग्रामाद्ग्रामान्तरं
 
@@ -1838,10 +1402,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 72
 
 ॥
-
-
-
-
 
 गत्वा
 
@@ -1854,8 +1414,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 प्राप्य
 
 पूर्ववत्।
-
-
 
 बान्धवैः
 
@@ -1871,17 +1429,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 त्वमप्येवमनेकेषु
 
 दुःखदायिषु
 
 जन्मसु।
-
-
 
 भ्रान्तो
 
@@ -1897,13 +1449,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 वर्णाश्रमाचारपरोऽवाप्तपुण्यमहोदयः।
-
-
 
 ईश्वरानुग्रहाल्लब्धो
 
@@ -1913,17 +1459,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 विधिवत्कृतसंन्यासो
 
 विवेकादियुतः
 
 सुधीः।
-
-
 
 प्राप्तो
 
@@ -1937,10 +1477,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 पण्डितस्तत्र
 
 मेधावी
@@ -1950,8 +1486,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 वस्तु
 
 विचारयन्।
-
-
 
 निदिध्यासनसंपन्नः
 
@@ -1969,17 +1503,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 अतो
 
 ब्राहृात्मविज्ञानमुपदिष्टं
 
 यथाविधि।
-
-
 
 मयाचार्येण
 
@@ -1995,17 +1523,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 भूत्वा
 
 विमुक्तबन्धस्त्वं
 
 छिन्नद्वैतात्मसंशयः।
-
-
 
 निद्र्वन्द्वो
 
@@ -2021,10 +1543,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 वस्तुतो
 
 निष्प्रपञ्चोऽसि
@@ -2032,8 +1550,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 नित्यमुक्तः
 
 स्वभावतः।
-
-
 
 न
 
@@ -2053,10 +1569,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 न
 
 निरोधो
@@ -2072,8 +1584,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 च
 
 साधकः।
-
-
 
 न
 
@@ -2091,10 +1601,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 श्रुतिसिद्धान्तसारोऽयं
 
 तथैव
@@ -2104,8 +1610,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 स्वया
 
 धिया।
-
-
 
 संविचार्य
 
@@ -2119,17 +1623,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 साक्षात्कृत्वा
 
 परिच्छिन्नाद्वैतब्राहृाक्षरं
 
 स्वयम्।
-
-
 
 जीवन्नेव
 
@@ -2143,10 +1641,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 विचारणीया
 
 वेदान्ता
@@ -2156,8 +1650,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 गुरुः
 
 सदा।
-
-
 
 गुरूणां
 
@@ -2175,10 +1667,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 गुरुब्र्राहृ
 
 स्वयं
@@ -2188,8 +1676,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 वन्द्यो
 
 मुमुक्षुभिः।
-
-
 
 नोद्वेजनीय
 
@@ -2203,10 +1689,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 यावदायुस्त्वया
 
 वन्द्यो
@@ -2214,8 +1696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 वेदान्तो
 
 गुरुरीश्वरः।
-
-
 
 मनसा
 
@@ -2231,10 +1711,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 
 ॥
 
-
-
-
-
 भावाद्वैतं
 
 सदा
@@ -2244,8 +1720,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 न
 
 कर्हिचित्।
-
-
 
 अद्वैतं
 
@@ -2262,8 +1736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 87
 
 ॥
-
-
 
 इति
 
@@ -2282,8 +1754,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MDY2MDE0Mjg
 तत्त्वोपदेशः
 
 संपूर्णः॥
-
-
-
 
 \]

@@ -13,16 +13,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA0MDA5NjQ0Mzk
 
 \[
 
-
-
-
-
-
-
 **आलम्बनपरीक्षावृत्तिः  
 आचार्यदिङ्नागकृता**
-
-
 
 नमः सर्वबुद्धबोधिसत्त्वेभ्यः
 
@@ -110,13 +102,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA0MDA5NjQ0Mzk
 
 **इत्याचार्यदिङ्नागकृता आलम्बनपरीक्षावृत्तिः समाप्ता\\Z ।**
 
-
-
 **---------------------------------------------------------------------**
-
-
-
-
-
 
 \]

@@ -12,15 +12,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODYwOTQ3MzQ3
 
 \[
 
-
-
-
-
 **सुविक्रान्तविक्रामिपरिपृच्छा नाम सार्धद्विसाहस्रिका प्रज्ञापारमिता**
-
-
-
-
 
 ** \* १ निदानपरिवर्तः  
  \* २ आनन्दपरिवर्तो द्वितीयः  
@@ -30,20 +22,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODYwOTQ3MzQ3
  \* ६ चर्यापरिवर्तः षष्ठः  
  \* ७ अनुशंसापरिवर्तः सप्तमः**
 
-
-
 **सुविक्रान्तविक्रामिपरिपृच्छा नाम सार्धद्विसाहस्रिका प्रज्ञापारमिता।**
 
 **-----------------------------------------------------**
 
-
-
-
-
-
 **१. निदानपरिवर्तः।**
-
-
 
 एवं मया श्रुतम्। एकस्मिन् समये भगवान् राजगृहे विहरति स्म वेणुवने कलन्दकनिवापे महता भिक्षुसंघेन सार्धमर्धत्रयोदशभिर्भिक्षुशतैः, अप्रमेयासंख्यैश्च बोधिसत्त्वैर्महासत्त्वैः नानाबुद्धक्षेत्रसंनिपतितैरेकजातिप्रतिबद्धैः। तेन खलु पुनः समयेन भगवाननेकशतसहस्रया पर्षदा परिवृतः पुरस्कृतो धर्मं देशयति स्म॥
 
@@ -173,16 +156,7 @@ advayadharmaparijñayā buddhadharmaparijñā, ātmaparijñayā sarvatraidhātuk
 
 **--------------------------------------------**
 
-
-
-
-
-
-
-
 **२. आनन्दपरिवर्तो द्वितीयः।**
-
-
 
 अथ खल्वायुष्मानानन्दो भगवन्तमेतदवोचत् -उत्त्रसिष्यन्ति भगवन् अस्मिन्निर्देशे अधिमानिका निमित्तचारिण इति। अथ खल्वायुष्मान् शारद्वतीपुत्र आयुष्मन्तमानन्दमेतदवोचत्-अगतिरत्रायुष्मन् आनन्द अधिमानिकानाम्,अविषयः। न ते पुनरत्रोत्त्रसिष्यन्ति। तत्कस्माद्धेतोः ? उत्त्रस्ता एते ये पापमित्रहस्तगताः। अगतिस्तेषामत्र, अविषयः। ये पुनरायुष्मन्नानन्द अधिमानप्रहाणाय प्रतिपन्ना अधिमानप्रहाणायोद्युक्ताः, ते ह्यत्र उत्त्रसिष्यन्ति। तत्कस्माद्धेतोः ? अधिमानप्रज्ञया निरधिमानतां गवेषन्ते मानप्रहाणं च गवेषन्ते। ये पुनरायुष्मान्नानन्द मानं नोपलभन्ते न समनुपश्यन्ति न मन्यन्ते नाभिनिविशन्ते, न ते क्वचिदुत्त्रसिष्यन्ति, नापि क्वचिदुत्त्रासमाप्स्यन्ते। न च आयुष्मान्नानन्द अधिमानिकानामर्थाय इयं धर्मदेशना प्रवृत्ता। अनवकाशो ह्यत्र आयुष्मन्नानन्द अधिमानिकानाम्, ये च अधिमानप्रहाणायोद्युक्ता व्यावच्छन्ते। अधिमान इत्यायुष्मन्नानन्द अधिकारसमारोपस्यैतदधिवचनम्। येऽधिमाने चरन्ति, अधिकारसमारोपे ते चरन्ति। न ते समचारिणः। समचारिणोऽप्यस्मिन् धर्मे संशयः॥
 
@@ -235,14 +209,7 @@ atha khalvāyuṣmān śāradvatīputro bhagavantametadavocat-āścaryaṁ bhaga
 
 **--------------------------------------------------------**
 
-
-
-
-
-
 **३. तथतापरिवर्तस्तृतीयः।**
-
-
 
 अथ खलु भगवान् सुविक्रान्तविक्रामिणं बोधिसत्त्वं महासत्त्वमामन्त्रयते स्म-प्रज्ञापारमिता प्रज्ञापारमितेति सुविक्रान्तविक्रामिन् कतमा बोधिसत्त्वस्य प्रज्ञापारमिता ? या पारमिता सर्वधर्माणाम्, न सा शक्या निर्देष्टुम्। यथा पुनर्युष्माकमाजानना भविष्यति, तथा निर्देक्ष्यामि, यथा प्रज्ञापारमितायां व्यवहारपदान्यागमिष्यन्ति। न रूपं प्रज्ञापारमिता। पेयालम्। एवं न वेदना, न संज्ञा, न संस्काराः, न विज्ञानं प्रज्ञापारमिता। नाप्यन्यत्र रूपात्प्रज्ञापारमिता, यावत् नान्यत्र विज्ञानात्प्रज्ञापारमिता। तत्कस्माद्धेतोः ? यद्धि सुविक्रान्तविक्रामिन् रूपस्य पारम्, न तद्रूपम्। पेयालम्। एवं यद्वेदनायाः संज्ञायाः संस्काराणाम्, यद्विज्ञानस्य पारम्, न तद्विज्ञानम्। यथा व रूपस्य पारम्, तथा रूपम्। एवं यथा वेदनायाः संज्ञायाः संस्काराणाम्, यथा च विज्ञानस्य पारम्, तथा विज्ञानम्। यथा च विज्ञानस्य पारम्, तथा सर्वधर्माणां पारम्। यच्च सर्वधर्माणां पारम्, न ते सर्वधर्माः। यथा च सर्वधर्माणां पारम्, तथा सर्वधर्माः। तत्र सुविक्रान्तविक्रामिन् "यद्रूपस्य पारं न तद्रूपम्" इति रूपविसंयोगो ह्येष निर्दिष्टः। "यथा रूपस्य पारं तथा रूपम्" इति रूपस्वभावनिर्देशो ह्येष निर्दिष्टः। रूपयथावत्तैषा निर्दिष्टा, रूपप्रकृतिरेषा निर्दिष्टा, रूपानुपलब्धिरेषा निर्दिष्टा। एवं वेदना संज्ञा संस्काराः। "यद्विज्ञानस्य पारं न तद्विज्ञानम्" इति विज्ञानविसंयोगो ह्येष निर्दिष्टः।"यथा विज्ञानस्य पारं तथा विज्ञानम्" इति विज्ञानस्वभावनिर्देश एष निर्दिष्टः, विज्ञानयथावत्ता विज्ञानप्रकृतिर्विज्ञानानुपलब्धिरेषा निर्दिष्टा। "यच्च सर्वधर्माणां पारं न ते सर्वधर्माः" इति सर्वधर्माणामेष विसंयोगो निर्दिष्टः। "यथा च सर्वधर्माणां पारं तथा सर्वधर्माः" इति सर्वधर्मस्वभावनिर्देश एष निर्दिष्टः, सर्वधर्मयथावत्ता सर्वधर्मप्रकृतिः सर्वधर्मानुपलब्धिरेषा निर्दिष्टा। यथा च सर्वधर्मयथावत्ता सर्वधर्मप्रकृतिः सर्वधर्मानुपलब्धिः, तथा प्रज्ञापारमिता॥
 
@@ -584,15 +551,7 @@ na khalu punariyaṁ suvikrāntavikrāmin prajñāpāramitā kasyaciddharmasya h
 
 **------------------------------------------------------**
 
-
-
-
-
-
-
 **४. औपम्यपरिवर्तश्चतुर्थः।**
-
-
 
 अथ खलु भगवान् सुविक्रान्तविक्रामिणं बोधिसत्त्वं महासत्त्वमेतदवोचत्-तद्यथापि नाम सुविक्रान्तविक्रामिन् स्वप्नदर्शी पुरुषः स्वप्नस्वभावनिर्देशं च निर्दिशति, न च स्वप्नस्वभावनिर्देशः कश्चित्संविद्यते। तत्कस्माद्धेतोः ? स्वप्न एव न संविद्यते, कुतः पुनः स्वप्नस्वभावनिर्देशो भविष्यति ? एवमेव सुविक्रान्तविक्रामिन् प्रज्ञापारमितायाः स्वभावश्च निर्दिश्यते, न च प्रज्ञापारमितायाः स्वभावः कश्चित्संविद्यते। तद्यथापि नाम सुविक्रान्तविक्रामिन् स्वप्नो न कस्यचिद्धर्मस्य निदर्शनेन प्रत्युपस्थितः। एवमेव प्रज्ञापारमिता न कस्यचिद्धर्मस्य निदर्शनेन प्रत्युपस्थिता॥
 
@@ -850,13 +809,7 @@ devanāgayakṣarākṣasagaruḍagandharvairapi te rakṣaṇīyā bhavanti, te
 
 **-------------------------------------------------------------**
 
-
-
-
-
 **५. सुभूतिपरिवर्तः पञ्चमः।**
-
-
 
 अथ खल्वायुष्मान् शारद्वतीपुत्र आयुष्मन्तं सुभूतिमेतदवोचत्-किमायुष्मन् सुभूते तूष्णींभावेनातिनामयसि ? किं न प्रतिभाति ते प्रज्ञापारमितामारभ्य अयं शास्ता स्वयं संमुखीभूतः, इयं च पर्षद् भाजनीभूता गम्भीराया धर्मदेशनायाः ? शुद्धेयमायुष्मन् सुभूते पर्षत्, आकाङ्क्षति च गम्भीरं धर्मं श्रोतुम्॥
 
@@ -884,15 +837,7 @@ tatkasmāddhetoḥ ? na hi āyuṣman śāradvatīputra prajñāpāramitā rūpa
 
 **--------------------------------------------------------------------**
 
-
-
-
-
-
-
 **६ . चर्यापरिवर्तः षष्ठः।**
-
-
 
 अथ खलु भगवान् सुविक्रान्तविक्रामिणं बोधिसत्त्वं महासत्त्वमेतदवोचत्-इह खलु सुविक्रान्तविक्रामिन् बोधिसत्त्वो महासत्त्वः प्रज्ञापारमितायां चरन्न क्वचिद्धर्मे चरति। तत्कस्माद्धेतोः ? सर्वधर्मा हि सुविक्रान्तविक्रामिन् विपर्याससमुत्थिताः, अभूता असन्तो मिथ्या वितथाः। तद्यथा सुविक्रान्तविक्रामिन् कस्मिंश्चिद्धर्मे चरति, विपर्यासे स चरति। विपर्यासे चरन् न भूते चरति। न च सुविक्रान्तविक्रामिन् बोधिसत्त्वो विपर्यासचर्याप्रभावितः, अभूतचर्याप्रभावितो वा। नापि विपर्यासे वा अभूते वा चरन् बोधिसत्त्वः प्रज्ञापारमितायां चरति। यश्च विपर्यासः, सोऽभूतः। न तत्र काचिच्चर्या, तेन तत्र बोधिसत्त्वो न चरति। विपर्यास इति सुविक्रान्तविक्रामिन् वितथः। एष बालपृथग्जनैर्गृहीतः। न तथा यैस्ते ते धर्माः। ये च न तथा यथा गृहीताः, स उच्यतेऽविपर्यासोऽत्र भूत इति। न हि सुविक्रान्तविक्रामिन् बोधिसत्त्वो महासत्त्वो विपर्यासे वा अभूते वा चरति। भूतवादीति सुविक्रान्तविक्रामिन् बोधिसत्त्वोऽविपर्यासचारी। यत्र च भूतमविपर्यासः, तत्र च न काचिच्चर्या। तेनोच्यते- अचर्या बोधिसत्त्वचर्येति। सर्वचर्यासमुच्छिन्ना हि सुविक्रान्तविक्रामिन् बोधिसत्त्वचर्या। सा न शक्या आदर्शयितुम्-इयं वा बोधिसत्त्वचर्या, अनेन वा बोधिसत्त्वचर्या, इह वा बोधिसत्त्वचर्या, इतो वा बोधिसत्त्वचर्येति। नैवं बोधिसत्त्वचर्या प्रभाविता। सर्वचर्याविनिवृत्तये हि बोधिसत्त्वा बोधिसत्त्वचर्यां चरन्ति पृथग्जनचर्याविनिवृत्तये श्रावकचर्याविनिवृतये प्रत्येकबुद्धचर्याविनिवृत्तये। येऽपि ते सुविक्रान्तविक्रामिन् बुद्धधर्माः, तेष्वपि बोधिसत्त्वा न चरन्ति नाभिनिविशन्ते-इमे वा ते बोधिसत्त्वधर्माः, इह वा ते बोधिसत्त्वधर्माः, अनेन वा ते बोधिसत्त्वधर्माः, अस्य वा ते बोधिसत्त्वधर्मा इति। एवमपि सुविक्रान्तविक्रामिन् बोधिसत्त्वो न चरति। सर्वा एषां सुविक्रान्तविक्रामिन् विकल्पचर्या। न बोधिसत्त्वो विकल्पे चरति नाविकल्पे। सर्वविकल्पप्रहीणा हि बोधिसत्त्वचर्या। कल्प इति सुविक्रान्तविक्रामिन् विकल्पनैषा सर्वधर्माणाम्। न हि शक्याः सर्वधर्माः कल्पयितुम्। अकल्पिता हि सर्वधर्माः। तद्यो धर्मं कल्पयति, स विकल्पयति। न हि सुविक्रान्तविक्रामिन् धर्मः कल्पो वा विकल्पो वा। कल्प इति सुविक्रान्तविक्रामिन् एष एकोऽन्तः, विकल्प इति द्वितीयोऽन्तः। न च सुविक्रान्तविक्रामिन् बोधिसत्त्वोऽन्ते चरति, नाप्यनन्ते। यो नैव अन्ते न अनन्ते चरति, स मध्यं न समनुपश्यति। मध्यमपि सुविक्रान्तविक्रामिन् समनुपश्यन् मध्ये चरन् अन्त एव चरति। न हि सुविक्रान्तविक्रामिन् मध्यस्य काचिच्चर्या (वा किंचि)द्दर्शनं वा (निदर्शनं वा)। मध्यमिति सुविक्रान्तविक्रामिन् नापि आर्याष्टाङ्गमार्गस्यैतदधिवचनम्। न च सुविक्रान्तविक्रामिन् आर्याष्टाङ्गो मार्गः कस्यचिद्धर्मस्योपलम्भेन प्रत्युपस्थितः, नापि कस्यचिद्धर्मस्य समनुपश्यनतया॥
 
@@ -1092,20 +1037,11 @@ yeṣāṁ keṣāṁcit suvikrāntavikrāmin niśrayaśca bhavati calitaṁ ca 
 sarvaniśrayānamanyamāno'nupalabhamāno'nabhiniviśamānaḥ na kvacinniśrayamupaiti nopadiśati nābhinandati nādhyavasāya tiṣṭhati \। sa sarvaniśrayānupalipto'saktaḥ sarvadharmaniśrayaviśuddhimanuprāpnoti \।
 idaṁ suvikrāntavikrāmin bodhisattvasya sarvadharmaniśrayaviśuddhijñānadarśanaṁ prajñāpāramitāyāṁ carataḥ, yenāsya mārāḥ pāpīyāṁso'vatāraṁ na labhante, anākramaṇīyaśca bhavati sarvamāraiḥ pāpīyobhiḥ, abhibhavati ca mārān pāpīyasa iti \।\।
 
-
-
 **āryaprajñāpāramitāyāṁ caryāparivartaḥ ṣaṣṭhaḥ.**
 
 **------------------------------------------------------**
 
-
-
-
-
-
 **७. अनुशंसापरिवर्तः सप्तमः।**
-
-
 
 पुनरपरं सुविक्रान्तविक्रामिन् बोधिसत्त्व आदित एव अनुत्तरायां सम्यक्संबोधावुत्पन्ने चित्ते बहुकुशलमूलसंभारसमुदागतश्च भवति, बहुबुद्धपर्युपासितश्च भवति, बहुबुद्धपरिपृच्छकश्च भवति, कृताधिकारश्च भवति बुद्धानां भगवताम्, अध्याशयसंपन्नश्च भवति, दानसंविभागरतश्च भवति, शीलविशुद्धिगुरुकश्च भवति, क्षान्तिसौरत्यसंपन्नश्च भवति, वीर्यवांश्च भवति, वीर्यविशुद्धिगुरुकः, ध्यानविशुद्धिगुरुकश्च भवति, प्रज्ञावांश्च भवति, प्रज्ञाविशुद्धिगुरुकः। सोऽनुत्तरायां सम्यक्संबोधौ चित्तमुत्पाद्य प्रज्ञापारमितायामभियुक्तो मारान् पापीयसोऽधितिष्ठति तेन प्रज्ञाबलेन च-यथा मे माराः पापीयांसोऽवतारं न लभेरन्, मा च मे विहेठां कुर्युः। तस्याधिष्ठाने मारा अवतारं न लभन्ते, न चास्यान्तरायाय प्रत्युपस्थिता भवन्ति, नापि चित्तमुत्पादयन्ति-किमिति वयमस्य बोधिसत्त्वस्य अवतारं गवेषामहे, विहेठनां कुर्यामह इति। सचेत्तेषां चित्तमुत्पद्यतेऽन्तरायाय, ततो महाव्यसनमात्मनः संजानते, भयं च तेषां महत्प्रत्युपस्थितं भवति, संविग्नाश्च भवन्ति-मा वयं सर्वेण सर्वं न भविष्याम इति। ते तद्विहेठनाचित्तं पुनरपि प्रतिसंहरन्ति। पुनरपि तेषां ते चित्तोत्पादा अन्तर्धीयन्ते। अनेनापि सुविक्रान्तविक्रामिन् पर्यायेण बोधिसत्त्वस्य माराः पापीयांसोऽन्तरायाय प्रयुपस्थिता अवतारं न लभन्ते॥
 
@@ -1178,9 +1114,6 @@ idaṁ suvikrāntavikrāmin bodhisattvasya sarvadharmaniśrayaviśuddhijñānada
 ये धर्मा हेतुप्रभवा हेतुं तेषां तथागतो ह्यवदत्।
 
 तेषां च यो निरोधो एवं वादी महाश्रमणः॥ २॥
-
-
-
 
 7 anuśaṁsāparivartaḥ saptamaḥ \।
 
@@ -1263,7 +1196,6 @@ nirvāṇamasaktamabaddhamamuktam \। buddhajñānabalavaiśāradyāni asaktān
 atītānāgatapratyutpannāsaṅgajñānadarśanamasaktamabaddhamamuktam \।
 tatkasmāddhetoḥ ? sarvadharmāṇāṁ hi suvikrāntavikrāmin bandhanaṁ nopalabhyate \। asaṅgā abaddhā hi suvikrāntavikrāmin sarvadharmāḥ, tena teṣāṁ vimuktirnopalabhyate \। asaktā iti suvikrāntavikrāmin na teṣāṁ kaścinmocayitā, api tu yadevaṁ sarvadharmāṇāṁ darśanam, idamucyate asaṅgajñānadarśanamiti \। asaṅga iti suvikrāntavikrāmin saṅgānupalabdhiḥ \। asaṅgo'saṅgatayā, asaṅgo'saṅgabhūtatayā asaṅga ityucyate \। nātra kaścidupalabhyate, yaḥ saṁyujyeta vā badhyeta vā \। yataśca nopalabhyate yaḥ saṁyujyate vā badhyeta vā, tena asaṅga ityucyate \। abaddha iti suvikrāntavikrāmin bandhānanupalabdhitaḥ, bandhanābhūtatayā abaddha ityucyate \। na hi tatra kiṁcidbandhanaṁ vidyate, nāpi tatra kaścidupalabhyate yo baddhaḥ \। yataśca nopalabhyate yo baddhaḥ, tena abaddha ityucyate \। yaśca asakto'baddhaḥ, kutastasya muktiḥ ? yaśca na sajjate na badhyate, mukto'sau visaṁyuktaḥ śītībhūto vipramuktaḥ \।
 tatra na kācidbhūyo bandhanā \। tenocyate vimukta iti \। mokṣo'sya bhūyo na saṁvidyate \। ayaṁ suvikrāntavikrāmin bodhisattvasya sarvadharmāsaktābaddhāmuktajñānadarśanapraveśaḥ prajñāpāramitāyāṁ carataḥ \। evaṁ caran suvikrāntavikrāmin bodhisattva āsanno bhavatyanuttarāyāḥ samyaksaṁbodheḥ \। kṣipraṁ ca sa sarvajñajñānaṁ pratilabhate \। imāmahaṁ suvikrāntavikrāmin mudrāṁ sthāpayāmi bodhisattvānāṁ saṁśayacchedāya prajñāpāramitāmabhiyuktānāṁ prajñāpāramitāyāṁ caratām \। svayamimaṁ suvikrāntavikrāmin mudrānirdeśamadhiṣṭhāsyāmi, na pratibalā mama śrāvakā imāṁ prajñāpāramitāmudrāṁ paścime kāle paścime samaye paścimāyāṁ pañcaśatyāṁ dhārayitum \।\।
-
 
 atha khalu bhagavān bhadrapālasusārthavāhapūrvaṁgamāni pañcamātrāṇi bodhisattvaśatānyāmantrayate sma suvikrāntavikrāmiṇaṁ ca bodhisattvam-śakyatha yūyaṁ kulaputrāstathāgate parinirvṛte paścime kāle paścime samaye paścimikāyāṁ pañcaśatyāṁ saddharmāntardhānakālasamaye saddharmavipralope vartamāne saṁkṣīṇakāle imaṁ tathāgatasya anekakalpakoṭīniyutaśatasahasrasamudānītaṁ dharmaratnakoṣaṁ prajñāpāramitāpūrvaṁgamaṁ prajñāpāramitāprabhavaṁ prajñāpāramitāpratiṣṭhānaṁ dhārayitum, parebhyaśca vistareṇa saṁprakāśayitum ? evamukte bodhisattvā bhagavantametadavocat-śakyāmo vayaṁ bhagavan imaṁ tathāgatasya anekakalpakoṭīniyutaśatasahasrasamudānītamanuttaraṁ dharmaratnakoṣaṁ prajñāpāramitāpūrvaṁgamaṁ prajñāpāramitāprabhavaṁ prajñāpāramitāpratiṣṭhānaṁ dhārayitum, parebhyaśca vistareṇa saṁprakāśayitum \। kiṁcāpi bhagavan sa kālo mahābhayo mahākāntāro mahāghoraśca bhaviṣyati, yadbhūyasā ca tasmin samaye sattvāḥ saddharmavyavanasaṁvartanīyena karmaṇā samanvāgatā bhaviṣyanti, viṣamalobhalubdhā viṣamarāgaraktā adharmarāgaraktā īrṣyālobhaparītacetasaḥ krodhanāścaṇḍāḥ paruṣāḥ durvacasaḥ śaṭhāḥ kuhakā māyāvino'dharmacāriṇaḥ kalahabhaṇḍanavivādavigrahabahulā asaṁvarasthitāḥ lubdhā lobhābhibhūtāḥ kusīdāḥ hīnavīryā muṣitasmṛtayo'saṁprajñāstuṇḍāḥ mukharāḥ pragalbhā antarhṛdayapraticchannapāpakarmāṇaḥ utsadarāgadveṣamohā avidyāṇḍakoṣatamomohāndhakārābhibhūtā mārapakṣānukūlacāriṇaḥ pratyarthikāśca bhaviṣyanti, asya gambhīrasya dharmavinayasya dharmaratnakoṣasya apratyudgatamanaḥśīlāśca bhaviṣyanti, atha ca punarutsahāmahe vayaṁ bhagavan imaṁ tathāgatasya anekakalpakoṭīniyutaśatasahasrakuśalamūlasamudānītamanuttaraṁ dharmaratnakoṣaṁ dhārayituṁ vācayitum, ye ca tasminnantakāle parīttaparīttā api sattvā bhaviṣyanti ebhirdharmairarthikāḥ, eṣu dharmeṣu śikṣitukāmā, aśaṭhā ṛjavo'māyāvinaḥ, ye jīvitamapi parityajeyuḥ, na punareṣāṁ dharmāṇāṁ pratyarthikā bhaveyuḥ, nāpīmān dharmān pratikṣipeyuḥ, nopyebhyo dharmebhyaḥ parāṅmukhā bhaveyuḥ, teṣāmarthaṁ kariṣyāmaḥ, utsāhaṁ ca dāsyāmaḥ, eṣvevaṁrūpeṣu dharmeṣu saṁdarśayiṣyāmaḥ, samuttejayiṣyāmaḥ saṁpraharṣayiṣyāmaḥ \।\।
 

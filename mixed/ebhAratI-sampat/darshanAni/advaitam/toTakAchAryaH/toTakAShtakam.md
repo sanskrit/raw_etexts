@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNjgwMTY4NzI
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 ॥ तोटकाष्टकम् ॥ Totakashtaka of Sri Totakacharya
 
 The Totakashtaka has been composed in the Totaka meter, in which each paada (quarter) has four sagana's. Here a sa-gana is made up of two short syllables followed by a long one. The hymn naturally lends itself to be set to music. A suggested Raga is (Hindustaani) Todi.
@@ -78,18 +66,5 @@ The Totakashtaka has been composed in the Totaka meter, in which each paada (qua
 8\. Not even a single branch of knowledge has been understood by me clearly. Nor do I possess any wealth. O Teacher. quickly bestow on me the compassion which is natural to You.grace. O Teacher Sankara, be my refuge. (8)
 
 **॥ इति तोटकाष्टकं समाप्तम्॥**
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

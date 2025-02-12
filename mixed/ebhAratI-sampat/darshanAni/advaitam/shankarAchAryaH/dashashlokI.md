@@ -13,19 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 
 \[
 
-
-
 दशश्लोकी
-
-
 
 श्रीमद् शंकराचार्य
 
-
-
 ॐ तत् सत।
-
-
 
  ॥ अथ दशश्लोकी ॥
 
@@ -37,8 +29,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 
  तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ १॥
 
-
-
 न वर्णा न वर्णाश्रमाचारधर्मा
 
  न मे धारणाध्यानयोगादयोपि ।
@@ -46,8 +36,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 अनात्माश्रयाहंममाध्यासहानात्
 
  तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ २॥
-
-
 
 न माता पिता वा न देवा न लोका
 
@@ -57,8 +45,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 
  तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ ३॥
 
-
-
 न साख्यं न शैवं न तत्पाञ्चरात्रं
 
  न जैनं न मीमांसकादेर्मतं वा ।
@@ -66,8 +52,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 विशिष्टानुभूत्या विशुद्धात्मकत्वात्
 
  तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ ४॥
-
-
 
 न चोर्ध्व न चाधो न चान्तर्न बाह्यं
 
@@ -77,8 +61,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 
  तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ ५॥
 
-
-
 न शुक्लं न कृष्णं न रक्तं न पीतं
 
  न कुब्जं न पीनं न ह्रस्वं न दीर्घम् ।
@@ -86,8 +68,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 अरूपं तथा ज्योतिराकारकत्वात्
 
  तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ ६॥
-
-
 
 न शास्ता न शास्त्रं न शिष्यो न शिक्षा
 
@@ -97,8 +77,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 
  तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ ७॥
 
-
-
 न जाग्रन् न मे स्वप्नको वा सुषुप्तिः
 
  न विश्वौ न वा तैजसः प्राज्ञको वा ।
@@ -106,8 +84,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 अविद्यात्मकत्वात् त्रयाणं तुरीयः
 
  तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ ८॥
-
-
 
 अपि व्यापकत्वात् हितत्वप्रयोगात्
 
@@ -117,8 +93,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 
  तदेकोऽवशिष्टः शिवः केवलोऽहम् ॥ ९॥
 
-
-
 न चैकं तदन्यद् द्वितीयं कुतः स्यात्
 
  न केवलत्वं न चाऽकेवलत्वम् ।
@@ -127,19 +101,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM0MjE4MTYzMDM
 
  कथं सर्ववेदान्तसिद्धं ब्रवीमि ॥ १०॥
 
-
-
 ॥ इति श्रीमद् शंकराचार्यविरचितं दशश्लोकी समाप्तं ॥
-
-
-
-
-
-
-
-
-
-
-
 
 \]

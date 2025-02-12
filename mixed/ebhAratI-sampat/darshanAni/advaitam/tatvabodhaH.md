@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1ODE0NDE0Njg
 
 \[
 
-
-
 तत्त्वबोधः
 
 १॥० साधनचतुष्टयम्
@@ -649,10 +647,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI1ODE0NDE0Njg
  ज्ञानसंप्राप्तिसमये मुक्तोऽसौ विगताशयः । इति स्मृतेश्च ।
 
  इति तत्त्वबोधप्रकरणं समाप्तम् ।
-
-
-
-
-
 
 \]

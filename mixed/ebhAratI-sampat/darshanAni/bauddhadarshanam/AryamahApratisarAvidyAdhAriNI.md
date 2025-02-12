@@ -12,19 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk1ODg2MTY5MTQ
 
 \[
 
-
-
-
-
-
 **महाप्रतिसराविद्याधारणी**
-
 
 (१३०)  
 
 **आर्यमहाप्रतिसराविद्याधारणी**
-
-
 
 ओं नमो भगवत्यै आर्यमहाप्रतिसरायै ।
 
@@ -134,8 +126,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk1ODg2MTY5MTQ
 **आर्यमहाप्रतिसराविद्याधारणी समाप्ता ॥** \\Z
 
 -----------------------------------------------------
-
-
-
 
 \]

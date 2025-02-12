@@ -12,17 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDM5NTg1MTQ
 
 \[
 
-
-
-
-
 **वज्रच्छेदिका नाम त्रिशतिका प्रज्ञापारमिता।**
 
-
-
 **॥नमो भगवत्या आर्यप्रज्ञापारमितायै॥**
-
-
 
 एवं मया श्रुतम्। एकस्मिन् समये भगवान् श्रावस्त्यां विहरति स्म जेतवनेऽनाथपिण्डदस्यारामे महता भिक्षुसंघेन सार्थं त्रयोदशभिर्भिक्षुशतैः संबहुलैश्च बोधिसत्त्वैर्महासत्त्वैः। अथ खलु भगवान् पूर्वाह्णकालसमये निवास्य पात्रचीवरमादाय श्रावस्तीं महानगरीं पिण्डाय प्राविक्षत्। अथ खलु भगवान् श्रावस्तीं महानगरीं पिण्डाय चरित्वा कृतभक्तकृत्यः पश्चाद्भक्तपिण्डपातप्रतिक्रान्तः पात्रचीवरं प्रतिशाम्य पादौ प्रक्षाल्य न्यषीदत्प्रज्ञप्त एवासने पर्यङ्कमाभुज्य ऋजुं कायं प्रणिधाय प्रतिमुखीं स्मृतिमुपस्थाप्य। अथ खलु संबहुला भिक्षवो येन भगवांस्तेनोपसंक्रामन्। उपसंक्रम्य भगवतः पादौ शिरोभिरभिवन्द्य भगवन्तं त्रिष्प्रदक्षिणीकृत्य एकान्ते न्यषीदन्॥१॥
 
@@ -162,19 +154,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDM5NTg1MTQ
 
 इदमवोचद्भगवान् आत्तमनाः। स्थविरसुभूतिस्ते च भिक्षुभिक्षुण्युपासकोपासिकास्ते च बोधिसत्त्वाः सदेवमानुषासुरगन्धर्वश्च लोको भगवतो भाषितमभ्यनन्दन्निति॥३२॥
 
-
-
 **॥आर्यवज्रच्छेदिका भगवती प्रज्ञापारमिता समाप्ता॥**
 
 **-------------------------------------------------------------------------**
 
-
-
 **Vajracchedikā nāma triśatikā prajñāpāramitā.**
 
 **Namo bhagavatyā āryaprajñāpāramitāyai..**
-
-
 
 evaṁ mayā śrutam\। ekasmin samaye bhagavān śrāvastyāṁ viharati sma jetavane'nāthapiṇḍadasyārāme mahatā bhikṣusaṁghena sārthaṁ trayodaśabhirbhikṣuśataiḥ saṁbahulaiśca bodhisattvairmahāsattvaiḥ\। atha khalu bhagavān pūrvāhṇakālasamaye nivāsya pātracīvaramādāya śrāvastīṁ mahānagarīṁ piṇḍāya prāvikṣat\। atha khalu bhagavān śrāvastīṁ mahānagarīṁ piṇḍāya caritvā kṛtabhaktakṛtyaḥ paścādbhaktapiṇḍapātapratikrāntaḥ pātracīvaraṁ pratiśāmya pādau prakṣālya nyaṣīdatprajñapta evāsane paryaṅkamābhujya ṛjuṁ kāyaṁ praṇidhāya pratimukhīṁ smṛtimupasthāpya\। atha khalu saṁbahulā bhikṣavo yena bhagavāṁstenopasaṁkrāman\। upasaṁkramya bhagavataḥ pādau śirobhirabhivandya bhagavantaṁ triṣpradakṣiṇīkṛtya ekānte nyaṣīdan\।\।1\।\।
 
@@ -210,7 +196,6 @@ bhagavānāha- takiṁ manyase subhūte api nu sakṛdāgāmina evaṁ bhavati-m
 bhagavānāha-tatkiṁ manyase subhūte api nu anāgāmina evaṁ bhavati-mayānāgāmiphalaṁ prāptamiti ? subhūtirāha-no hīdaṁ bhagavan\। na anāgāmina evaṁ bhavati-mayā anāgāmiphalaṁ prāptamiti\। tatkasya hetoḥ ? na hi sa bhagavan kaściddharmo yo'nāgāmitvamāpannaḥ\। tenocyate anāgāmīti\।\।
 
 bhagavānāha- tatkiṁ manyase subhūte api nu arhata evaṁ bhavati-mayā arhattvaṁ prāptamiti ? subhūtirāha-no hīdaṁ bhagavan\। nārhata evaṁ bhavati-mayā arhattvaṁ prāptamiti\। tatkasya hetoḥ ? na hi sa bhagavan kaściddharmo yo'rhannāma\। tenocyate-arhanniti\। sacedbhagavan arhata evaṁ bhavet-mayā arhattvaṁ prāptamiti, sa eva tasyātmagrāho bhavet, sattvagrāho jīvagrāhaḥ pudgalagrāho bhavet\। tatkasya hetoḥ ? ahamasmi bhagavaṁstathāgatenārhatā samyaksaṁbuddhena araṇāvihāriṇāmagryo nirdiṣṭaḥ\। ahamasmi bhagavan arhan vītarāgaḥ\। na ca me bhagavannevaṁ bhavati- arhannasmyahaṁ vītarāga iti\। sacenmama bhagavannevaṁ bhavet-mayā arhattvaṁ prāptamiti, na māṁ tathāgato vyākariṣyadaraṇāvihāriṇāmagryaḥ subhūtiḥ kulaputro na kvacidviharati, tenocyate araṇāvihārī araṇāvihārīti\।\।9\।\।
-
 
 bhagavānāha-tatkiṁ manyase subhūte-asti sa kaściddharmo yastathāgatena dīpaṁkarasya tathāgatasyārhata-samyaksaṁbuddhasyāntikādudgṛhītaḥ ? subhūtirāha- no hīdaṁ bhagavan\। nāsti sa kaściddharmo yastathāgatena dīpaṁkarasya tathāgatasyārhataḥ samyaksaṁbuddhasyāntikādudgṛhītaḥ\।\।
 
@@ -351,11 +336,6 @@ idamavocadbhagavān āttamanāḥ\। sthavirasubhūtiste ca bhikṣubhikṣuṇ
 
 **\।\।āryavajracchedikā bhagavatī prajñāpāramitā samāptā\।\।**
 
-
-
 **------------------------------------------------------------**
-
-
-
 
 \]

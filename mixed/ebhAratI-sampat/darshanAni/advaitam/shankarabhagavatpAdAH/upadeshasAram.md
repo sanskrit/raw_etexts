@@ -13,11 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxODkyMjQ4NzA
 
 \[
 
-
-
 **॥ उपदेशसारम्॥**
-
-
 
 कर्तुराज्ञया प्राप्यते फलम्। कर्म किं परं कर्म तज्जडम् ॥१॥
 
@@ -82,8 +78,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxODkyMjQ4NzA
 जयन्ति रमणाचार्यं पादपाथोब्जरेणवः।
 
 विरजस्का विराजन्ते यच्छिरस्का नरालयः॥१॥
-
-
-
 
 \]

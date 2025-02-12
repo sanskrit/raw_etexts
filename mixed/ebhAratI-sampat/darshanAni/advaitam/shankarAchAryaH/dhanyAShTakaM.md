@@ -13,13 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwOTc0MDIzNjg
 
 \[
 
-
-
 धन्याष्टकं
-
-
-
-
 
 तज्ज्ञानं प्रशमकरं यदिन्द्रियाणां
 
@@ -86,18 +80,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwOTc0MDIzNjg
 तद्वस्तु सम्यगनिशं विमृशन्ति धन्याः ॥ ८॥
 
 ॥ इति श्रीमद् शङ्कराचार्यविरचितं धन्याष्टकं समाप्तम् ॥
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

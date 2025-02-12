@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwOTgzNzg4NTU
 
 \[
 
-
-
 ..sarvavedaantasiddhaantasaarasa.ngrahaH ..  
 ॥ सर्ववेदान्तसिद्धान्तसारसंग्रहः॥
 
@@ -3558,10 +3556,5 @@ verses 978-1006 Videhamukti, incorporeal liberation
 संपूर्णः॥  
 
 ॥ इति॥
-
-
-
-
-
 
 \]

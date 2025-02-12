@@ -13,25 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4OTM4MDQ1Mzk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ** योगावतारः**
-
-
 
 **नमस्तारायै**
 
@@ -65,23 +47,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU4OTM4MDQ1Mzk
 
 **॥ कृतिरियमार्यदिग्नागपादानामिति ॥**
 
-
-
 **-------------------------------------------------------**
 
-
-
 \\Z
-
-
-
-
-
-
-
-
-
-
-
 
 \]

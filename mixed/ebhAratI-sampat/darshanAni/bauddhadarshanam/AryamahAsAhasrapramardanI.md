@@ -12,14 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM0MzcxNDU5MzM
 
 \[
 
-
-
-
-
-
 **आर्यमहासाहस्रप्रमर्दनी**
-
-
 
 नमो भगवत्यै आर्यमहासाहस्रप्रमर्दन्यै ॥
 
@@ -1040,8 +1033,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM0MzcxNDU5MzM
 **आर्यमहासाहस्रप्रमर्दनी नम महायानसूत्रं समाप्तम् ॥\\Z**
 
 **------------------------------------**
-
-
-
 
 \]

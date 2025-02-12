@@ -13,25 +13,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MTI3NjEzMjg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 निर्गुणमानसपूजा
 
-
-
 शिष्य उवाच ॥
-
-
 
 अखण्डे सच्चिदानन्दे निर्विकल्पैकरूपिणि ।
 
@@ -65,11 +49,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MTI3NjEzMjg
 
 अन्तर्बहिः संस्थितस्य उद्वासनविधिः कुतः ॥ ८॥
 
-
-
 गुरुरुवाच ॥
-
-
 
 आराधयामि मणिसंनिभमात्मलिन्ण्गम्
 
@@ -175,25 +155,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0MTI3NjEzMjg
 
 विधूयाङ्य़ानदुःखौघं मोक्षानन्दं समश्नुते ॥ ३३॥
 
-
-
 ॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविंदभगवत्पूज्यपाद
 
 शिष्यस्य श्रीमच्छण्करभगवतः विरचिता निर्गुणमानसपूजा समाप्त ॥
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

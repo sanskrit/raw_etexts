@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4MTY2ODk4NzY
 
 \[
 
-
-
 **परा पूजाा**
-
-
 
 **अखण्डे सच्चिदानन्दे निर्विकल्पैकरूपिणि**
 
@@ -105,6 +101,5 @@ puujaa te viSayopabhogaracanaa nidraa samaadhisthitiH
 saJNcaaraHpadayoH pradakSiNavidhiH stotraaNi sarvaa giro
 
 yadyatkarma karomi tattadakhilaM shambho tavaaraadhanam..10
-
 
 \]

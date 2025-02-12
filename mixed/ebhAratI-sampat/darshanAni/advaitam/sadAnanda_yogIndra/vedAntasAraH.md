@@ -13,25 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5ODQ0MzU1NDM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 वेदान्तसारः
-
-
-
-
-
-
 
 अखण्डं सच्चिदानन्दमवाङ्मनसगोचरम् ।
 
@@ -1138,18 +1120,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5ODQ0MzU1NDM
 " विमुक्तश्च विमुच्यते " ( कठ उ ५ । १ ) इत्यादिश्रुतेः ॥ २२७॥
 
 इति सदानन्द योगीन्द्र विरचितो वेदान्तसारनाम ग्रन्थः समाप्तः ।
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE3NTQxOTcyMjQ
 
 \[
 
-
-
 प्रौढानुभूतिः
-
-
-
-
 
 प्रौढप्रौढनिजानुभूतिगलितद्वैतेन्द्रजालो गुरु
 
@@ -163,12 +157,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE3NTQxOTcyMjQ
 श्रीमच्छङ्करभगवतः कृतौ
 
 प्रौढानुभूतिः संपूर्णा ॥
-
-
-
-
-
-
-
 
 \]

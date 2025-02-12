@@ -13,15 +13,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 \[
 
-
-
 ॥श्रीः॥
 
-
-
 ॥योगतारावली॥
-
-
 
 वन्दे गुरूणां चरणारविन्दे
 
@@ -29,13 +23,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 जनस्य ये जाङ्गलिकायमाने
 
-
-
 संसारहालाहलमोहशान्त्यै॥ 1
 
 ॥
-
-
 
 सदाशिवोक्तानि सपादलक्ष-
 
@@ -43,13 +33,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 नादानुसंधानसमाधिमेकं
 
-
-
 मन्यामहे मान्यतमं लयानाम्॥ 2
 
 ॥
-
-
 
 सरेचपूरैरनिलस्य कुम्भैः
 
@@ -57,13 +43,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 अनाहताख्यो बहुभिः प्रकारै-
 
-
-
 रन्तः पृवर्तेत सदा निनादः॥ 3
 
 ॥
-
-
 
 नादानुसंधान नमोऽस्तु तुभ्यं
 
@@ -71,13 +53,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 भवत्प्रसादात्पवनेन साकं
 
-
-
 विलीयते विष्णुपदे मनो मे॥ 4
 
 ॥
-
-
 
 जालन्धरोड¬
 
@@ -87,13 +65,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 बन्धत्रयेऽस्मिन्परिचीयमाने
 
-
-
 बन्धः कुतो दारुणकालपाशात्॥ 5
 
 ॥
-
-
 
 ओड¬
 
@@ -103,13 +77,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 प्रत्यङ्मुखत्वात्प्रविशन्सुषुम्नां
 
-
-
 गमागमौ मुञ्चति गन्धवाहः॥ 6
 
 ॥
-
-
 
 उत्थापिताधारहुताशनोल्कै-
 
@@ -117,13 +87,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 संतापिताच्चन्द्रमसः पतन्तीं
 
-
-
 पीयूषधारां पिबतीह धन्यः॥ 7
 
 ॥
-
-
 
 बन्धत्रयाभ्यासविपाकजातां
 
@@ -131,13 +97,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 विशोषयन्तीं विषयप्रवाहं
 
-
-
 विद्यां भजे केवलकुम्भरूपाम्॥ 8
 
 ॥
-
-
 
 अनाहते चेतसि सावधानै-
 
@@ -145,13 +107,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 संस्तम्भितश्वासमनःप्रचारा
 
-
-
 सा जृम्भते केवलकुम्भकश्रीः॥ 9
 
 ॥
-
-
 
 सहरुाशः सन्तु हठेषु कुम्भाः
 
@@ -159,13 +117,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 कुम्भोत्तमे यत्र तु रेचपूरौ
 
-
-
 प्राणस्य न प्राकृतवैकृताख्यौ॥ 10
 
 ॥
-
-
 
 त्रिकूटनाम्नि स्तिमितेऽन्तरङ्गे
 
@@ -175,13 +129,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 ौ
 
-
-
 विहाय सद्यो विलयं प्रयाति॥ 11
 
 ॥
-
-
 
 प्रत्याह्मतः केवलकुम्भकेन
 
@@ -189,13 +139,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 प्राणः प्रतीचीनपथेन मन्दं
 
-
-
 विलीयते विष्णुपदान्तराले॥ 12
 
 ॥
-
-
 
 निरङ्कुशानां श्वसनोद्गमानां
 
@@ -203,13 +149,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 उदेति सर्वेन्द्रियवृत्तिशून्यो
 
-
-
 मरुल्लयः कोऽपि महामतीनाम्॥ 13
 
 ॥
-
-
 
 न दृष्टिलक्ष्याणि न चित्तबन्धो
 
@@ -217,13 +159,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 न धारणाध्यानपरिश्रमो वा
 
-
-
 समेधमाने सति राजयोगे॥ 14
 
 ॥
-
-
 
 अशेषदृश्योज्झितदृङ्मयाना-
 
@@ -231,13 +169,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 न जागरो नापि सुषुप्तिभावो
 
-
-
 न जीवितं नो मरणं विचित्रम्॥ 15
 
 ॥
-
-
 
 अहंममत्वाद्व्यपहाय सर्व
 
@@ -245,13 +179,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 न द्रष्टृता नास्ति च दृश्यभावः
 
-
-
 सा जृम्भते केवलसंविदेव॥ 16
 
 ॥
-
-
 
 नेत्रे ययोन्मेषनिमेषशून्ये
 
@@ -259,13 +189,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 मनश्च संकल्पविकल्पशून्यं
 
-
-
 मनोन्मनी सा मयि संनिधत्ताम्॥ 17
 
 ॥
-
-
 
 चित्तेन्द्रियाणां चिरनिग्रहेण
 
@@ -273,13 +199,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 निवातदीपा इव निश्चलाङ्गाः
 
-
-
 मनोन्मनीमग्नधियो भवन्ति॥ 18
 
 ॥
-
-
 
 उन्मन्यवस्थाधिगमाय विद्वन्
 
@@ -287,13 +209,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 पश्यन्नुदासीनतया प्रपञ्चं
 
-
-
 संकल्पमुन्मूलय सावधानः॥ 19
 
 ॥
-
-
 
 प्रसह्र संकल्पपरंपराणां
 
@@ -301,13 +219,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 आलम्बनाशादपचीयमानं
 
-
-
 शनैः शनैः शान्तिमुपैति चेतः॥ 20
 
 ॥
-
-
 
 निश्वासलोपैर्निभृतैः शरीरै-
 
@@ -315,13 +229,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 आविर्भवन्तीममनस्कमुद्रा-
 
-
-
 मालोकयामो मुनिपुंगवानाम्॥ 21
 
 ॥
-
-
 
 अमी यमीन्द्राः सहजामनस्का-
 
@@ -329,13 +239,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 मनोतिगं मारुतवृत्तिशून्यं
 
-
-
 गच्छन्ति भावं गगनावशेषम्॥ 22
 
 ॥
-
-
 
 निवर्तयन्तीं निखिलेन्द्रियाणि
 
@@ -343,13 +249,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 संविन्मयीं तां सहजामनस्कां
 
-
-
 कदा गमिष्यामि गतान्यभावः॥ 23
 
 ॥
-
-
 
 प्रत्यग्विमर्शातिशयेन पुंसां
 
@@ -359,13 +261,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 निद्रा
 
-
-
 प्रपञ्चचिन्तां परिवर्जयन्ती॥ 24
 
 ॥
-
-
 
 विच्छिन्नसंकल्पविकल्पमूले
 
@@ -373,13 +271,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 निरन्तराभ्यासनितान्तभद्रा
 
-
-
 सा जृम्भते योगिनि योगनिद्रा॥ 25
 
 ॥
-
-
 
 विश्रान्तिमासाद्य तुरीयतल्पे
 
@@ -387,13 +281,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 संविन्मयीं कामपि सर्वकालं
 
-
-
 निद्रां सखे निर्विश निर्विकल्पाम्॥ 26
 
 ॥
-
-
 
 प्रकाशमाने परमात्मभानौ
 
@@ -401,13 +291,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 अहो बुधा निर्मलदृष्टयोऽपि
 
-
-
 किंचिन्न पश्यन्ति जगत्समग्रम्॥ 27
 
 ॥
-
-
 
 सिदिं्ध तथाविधमनोविलयां समाधौ
 
@@ -415,13 +301,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 गात्रं यदा मम लताः परिवेष्टयन्ति
 
-
-
 कर्णे यदा विरचयन्ति खगाश्च नीडान्॥ 28
 
 ॥
-
-
 
 विचरतु मतिरेषा निर्विकल्पे समाधौ
 
@@ -429,21 +311,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzMjE4NzMyODk
 
 चरतु जडमते वा सज्जनानां मते वा
 
-
-
 मतिकृतगुणदोषा मां विभुं न स्पृशन्ति॥ 29
 
 ॥
-
-
 
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभग-
 
 वत्पूज्यपादशिष्यस्य श्रीमच्छंकरभगवतः कृतौ
 
 योगतारावली संपूर्णा॥
-
-
-
 
 \]

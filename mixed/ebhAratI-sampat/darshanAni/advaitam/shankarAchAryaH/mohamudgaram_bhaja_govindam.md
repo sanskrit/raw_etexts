@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjExMDAwNjc
 
 \[
 
-
-
 भज गोविन्दम्
 
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते।
@@ -140,6 +138,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM0NjExMDAwNjc
 गुरुचरणाम्बुजनिर्भरभक्तः संसाराद् अचिरात्भव मुक्तः।
 
 सेन्द्रियमानसनियमाद् एवम् द्रक्ष्यसि निजहृदयस्थं देवम् ॥ ३१॥
-
 
 \]

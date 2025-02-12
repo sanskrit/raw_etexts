@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3MjU3MzQ5NTE
 
 \[
 
-
-
 **॥ मनीषापञ्चकम्॥**
 
 अन्नमयादन्नमयम् अथवा चैतन्यमेव चैतन्यात्।
@@ -66,8 +64,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3MjU3MzQ5NTE
 यस्मिन्नित्यसुखाम्बुधौ गलित-धीः ब्रह्मैव न ब्रह्मवित्
 
 यः कश्चित्स सुरेन्द्रवन्दितपदो नूनं मनीषा मम ॥५॥
-
-
-
 
 \]

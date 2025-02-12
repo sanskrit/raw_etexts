@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 \[
 
-
-
 ॥श्रीः॥
 
 ॥उपदेशसाहस्री॥
@@ -23,23 +21,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 शिष्यानुशासनप्रकरणम्।
 
-
-
 ॥श्रीः॥
 
-
-
 ॥उपदेशपञ्चकम्॥
-
-
 
 ॥
 
 1
 
 ॥अथ मोक्षसाधनोपदेशविधिं व्याख्यास्यामो मुमुक्षूणां श्रद्दधानानामर्थिनामर्थाय।
-
-
 
 वेदो नित्यमधीयतां तदुदितं कर्म स्वनुष्ठीयतां
 
@@ -49,15 +39,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 \-
 
-
-
 मात्मेच्छा व्यवसीयतां निजगृहात्तूर्णं विनिर्गम्यताम्॥
 
 1
 
 ॥
-
-
 
 ॥
 
@@ -65,23 +51,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 ॥तदिदं मोक्षसाधनं ज्ञानं साधनसाध्यादनित्यात्सर्वस्माद्विरक्ताय त्यक्तपुत्रवित्तलोकैषणाय प्रतिपन्नपरमहंसपारिव्राज्याय शमदमदयादियुक्ताय शास्त्रप्रसिद्धशिष्यगुणसंपन्नाय शुचये ब्राहृणाय विधिवदुपसन्नाय शिष्याय जातिकर्मवृत्तविद्याभिजनैः परीक्षिताय ब्राूयात्पुनः पुनः यावद्ग्रहणं दृढीभवति।
 
-
-
 सङ्गः सत्सु विधीयतां भगवतो भक्तिर्दृढाधीयतां
 
 शान्त्यादिः परिचीयतां दृढतरं कर्माशु संत्यज्यताम्।
 
 सद्विद्वानुपसृप्यतां प्रतिदिनं तत्पादुका सेव्यतां
 
-
-
 ब्राहृैकाक्षरमथ्र्यतां श्रुतिशिरोवाक्यं समाकण्र्यताम्॥
 
 2
 
 ॥
-
-
 
 ॥
 
@@ -141,23 +121,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्यादिस्मृतिभ्यश्च।
 
-
-
 वाक्यार्थश्च विचार्यतां श्रुतिशिरःपक्षः समाश्रीयतां
 
 दुस्तर्कात्सुविरम्यतां श्रुतिमतस्तर्कोऽनुसंधीयताम्।
 
 ब्राहृास्मीति विभाव्यतामहरहर्गर्वः परित्यज्यतां
 
-
-
 देहेऽहंमतिरुज्झ्यतां बुधजनैर्वादः परित्यज्यताम्॥
 
 3
 
 ॥
-
-
 
 ॥
 
@@ -169,8 +143,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 ज्ञानाविरुद्धैश्च नियमैः।
 
-
-
 क्षुद्व्याधिश्च चिकित्स्यतां प्रतिदिनं भिक्षौषधं भुज्यतां
 
 स्वाद्वन्नं न तु याच्यतां विधिवशात्प्राप्तेन संतुष्यताम्।
@@ -179,15 +151,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 \-
 
-
-
 मौदासीन्यमभीप्स्यतां जनकृपानैष्ठुर्यमुत्सृज्यताम्॥
 
 4
 
 ॥
-
-
 
 ॥
 
@@ -195,23 +163,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 ॥अमानित्वादिगुणं च ज्ञानोपायं सम्यग्ग्राहयेत्।
 
-
-
 एकान्ते सुखमास्यतां परतरे चेतः समाधीयतां
 
 पूर्णात्मा सुसमीक्ष्यतां जगदिदं तद्बाधितं दृश्यताम्।
 
 प्राक्कर्म प्रविलाप्यतां चितिबलान्नाप्युत्तरैः श्लिष्यतां
 
-
-
 प्रारब्धं त्विह भुज्यतामथ परब्राहृात्मना स्थीयताम्॥
 
 5
 
 ॥
-
-
 
 ॥
 
@@ -251,8 +213,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्याद्याः आत्मैक्यप्रतिपादनपराः श्रुतीः।
 
-
-
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभग
 
 \-
@@ -260,8 +220,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 वत्पूज्यपादशिष्यस्य श्रीमच्छंकरभगवतः कृतौ
 
 उपदेशपञ्चकं संपूर्णम्॥
-
-
 
 ॥
 
@@ -347,12 +305,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्यादिश्रुतिभिः।
 
-
-
-
-
-
-
 ॥
 
 8
@@ -401,8 +353,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्यादिभिः श्रुत्युक्तलक्षणाविरुद्धाभिः परमात्मासंसारित्वप्रतिपादनपराभिः तस्य सर्वेणानन्यत्वप्रतिपादनपराभिश्च।
 
-
-
 ॥
 
 9
@@ -412,8 +362,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 --
 
 कस्त्वमसि सोम्य इति।
-
-
 
 ॥
 
@@ -433,8 +381,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इदानीमस्मि परमहंसपरिव्राट् संसारसागरात् जन्ममृत्युमहाग्राहात् उत्तितीर्षुरिति।
 
-
-
 ॥
 
 11
@@ -445,8 +391,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इहैव तव सोम्य मृतस्य शरीरं वयोभिरद्यते मृद्भावं वापद्यते। तत्र कथं संसारसागरादुद्धर्तुमिच्छसीति। न हि नद्याः अवरे कूले भस्मीभूते नद्याः पारं तरिष्यसीति।
 
-
-
 ॥
 
 12
@@ -456,8 +400,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 -- -
 
 अन्योऽहं शरीरात्। शरीरं तु जायते म्रियते वयोभिरद्यते मृद्भावमापद्यते शस्त्राग्न्यादिभिश्च विनाश्यते व्याध्यादिभिश्च प्रयुज्यते। तस्मिन् अहं स्वकृतधर्माधर्मवशात् पक्षी नीडमिव प्रविष्टः पुनः पुनः शरीरविनाशे धर्माधर्मवशात् शरीरान्तरं यास्यामि पूर्वनीडविनाशे पक्षीव नीडान्तरम्। एवमेवाहमनादौ संसारे देवमनुष्यतिर्यङ्निरयस्थानेषु स्वकर्मवशादुपात्तमुपात्तं शरीरं त्यजन् नवं नवं चान्यदुपाददानो जन्ममरणप्रबन्धचक्रे घटीयन्त्रवत् स्वकर्मणा भ्राम्यमाणः क्रमेणेदं शरीरमासाद्य संसारचक्रभ्रमणादस्मान्निर्विण्णो भगवन्तमुपसन्नोऽस्मि संसारचक्रभ्रमणप्रशमनाय।तस्मान्नित्य एवाहं शरीरादन्यः। शरीराणि आगच्छन्त्यपगच्छन्ति च वासांसीव पुरुषस्येति।
-
-
 
 ॥
 
@@ -481,8 +423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इदानीमस्मि परमहंसपरिव्राडिति।
 
-
-
 ॥
 
 14
@@ -493,8 +433,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 भगवन् कथमहं मृषावादिषम् इति।
 
-
-
 ॥
 
 15
@@ -504,8 +442,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 -- -
 
 यतस्त्वं भिन्नजात्यन्वयसंस्कारं शरीरं जात्यन्वयसंस्कारवर्जितस्यात्मनः प्रत्यभ्यज्ञासीः ब्रााहृणपुत्रोऽदोन्वय इत्यादिना वाक्येनेति।
-
-
 
 ॥
 
@@ -520,8 +456,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 कथं वा अहं जात्यन्वयसंस्कारवर्जितः इति।
-
-
 
 ॥
 
@@ -553,8 +487,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 लक्षणं च तस्य श्रुतिभिः स्मृतिभिश्च।
 
-
-
 ॥
 
 18
@@ -564,8 +496,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 --
 
 योऽसावाकाशनामा नामरूपाभ्यामर्थान्तरभूतः अशरीरः अस्थूलादिलक्षणः अपहतपाप्मत्वादिलक्षणश्च सर्वैः संसारधर्मैरनागन्धितः यत्साक्षादपरोक्षाद्ब्राहृ एष त आत्मा सर्वान्तरः अदृष्टो द्रष्टा अश्रुतः श्रोता अमतो मन्ता अविज्ञातो विज्ञाता नित्यविज्ञानस्वरूपः अनन्तरः अबाह्रः विज्ञानघन एव परिपूर्णः आकाशवत् अनन्तशक्तिः आत्मा सर्वस्य अशनायादिवर्जितः आविर्भावतिरोभाववर्जितश्च स्वात्मविलक्षणयोः नामरूपयोः जगद्बीजभूतयोः स्वात्मस्थयोः तत्त्वान्यत्वाभ्यामनिर्वचनीययोः स्वसंवेद्ययोः सद्भावमात्रेणाचिन्त्यशक्तित्वाद्व्याकर्ता अव्याकृतयोः।
-
-
 
 ॥
 
@@ -580,8 +510,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ;
 
 सलिलं तु स्वच्छम् अन्यत् फेनान्मलरूपात्। एवं परमात्मा नामरूपाभ्यामन्यः फेनस्थानीयाभ्यां शुद्धः प्रसन्नस्तद्विलक्षणः। ते नामरूपे अव्याकृते सती व्याक्रियमाणे फेनस्थानीये आकाशनामाकृती संवृत्ते।
-
-
 
 ॥
 
@@ -607,15 +535,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 पञ्चगुणविशिष्टा पृथिवी। पृथिव्याश्च पञ्चात्मिका ब्राीहियवाद्या ओषधयः जायन्ते। ताभ्यो भक्षिताभ्यो लोहितं श्रुक्लं च स्त्रीपुंसशरीरसंबन्धि जायते। तदुभयम् ऋतुकाले अविद्याप्रयुक्तकामखजनिर्मथनोद्भूतं मन्त्रसंस्कृतं गर्भाशये निषिच्यते। तत्स्वयोनिरसानुप्रवेशेन विवर्धमानं गर्भीभूतं नवमे दशमे वा मासि जायते।
 
-
-
 ॥
 
 21
 
 ॥तज्जातं लब्धनामाकृतिकं जातकर्मादिभिः मन्त्रसंस्कृतं पुनः उपनयनसंस्कारयोगेण ब्राहृचारिसंज्ञं भवति। तदेव शरीरं पत्नीयोगसंस्कारयोगेण गृहस्थसंज्ञं भवति। तदेव वनस्थसंस्कारेण तापससंज्ञं भवति। तदेव क्रियानिवृत्तिनिमित्तेन संस्कारेण परिव्राट्संज्ञं भवति। इत्येवं त्वत्तो भिन्नं भिन्नजात्यन्वयसंस्कारं शरीरम्।
-
-
 
 ॥
 
@@ -630,8 +554,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 '
 
 इत्यादिश्रुतिभ्यः।
-
-
 
 ॥
 
@@ -677,8 +599,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्याद्याः श्रुतयः।
 
-
-
 ॥
 
 24
@@ -719,8 +639,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्याद्याः। तस्मात् जात्यन्वयसंस्कारवर्जितस्त्वमिति सिद्धम्।
 
-
-
 ॥
 
 25
@@ -738,8 +656,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 तमहं बल्युपहारनमस्कारादिभिः वर्णाश्रमकर्मभिश्चाराध्यं संसारसागरादुत्तितीर्षुरस्मि। कथमहं स एवेति।
-
-
 
 ॥
 
@@ -773,15 +689,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्येवमाद्याः।
 
-
-
 ॥
 
 27
 
 ॥एता एव श्रुतयो भेदप्रतिपत्तेः संसारगमनं दर्शयन्ति।
-
-
 
 ॥
 
@@ -810,8 +722,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 '
 
 इति मोक्षं दर्शयन्त्यभेदविज्ञानादेव। सत्याभिसंधस्यातस्करस्येव दाहाद्यभावदृष्टान्तेन संसाराभावं दर्शयन्ति। भेददर्शनादसत्याभिसंधस्य संसारगमनं दर्शयन्ति तस्करस्येव दाहादिदृष्टान्तेन।
-
-
 
 ॥
 
@@ -843,8 +753,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इति प्रतिशाखम्। तस्मात् मृषैवैवमवादीः ब्रााहृणपुत्रोऽदोन्वयः संसारी परमात्मविलक्षण इति।
 
-
-
 ॥
 
 30
@@ -870,8 +778,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ;
 
 न परमात्मनोऽभेददर्शिनः। भेददर्शनमात्रेण च ततोऽन्यत्वम्।
-
-
 
 ॥
 
@@ -911,8 +817,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्यादिना।
 
-
-
 ॥
 
 32
@@ -922,8 +826,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 परमात्माभेददर्शनविरोधात्। आत्मा च पर एवेति प्रतिपत्तव्यो यथाश्रुत्युक्तलक्षणः।
-
-
 
 ॥
 
@@ -946,8 +848,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ?
 
 संसारी च सन् सर्वाभ्युदयनिःश्रेयससाधने अधिकृतः अभ्युदयनिःश्रेयससाधनानि कर्माणि तत्साधनानि च यज्ञोपवीतादीनि कथं परित्यजेयमिति।
-
-
 
 ॥
 
@@ -979,8 +879,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 न तूपलब्धरीति। यद्युपलब्धरि वेदना स्यात् वेदनानिमित्तं वा दाहच्छेदादि वेदनाश्रयत्वेनोपदिशेद्दाहाद्याश्रयवत्।
 
-
-
 ॥
 
 35
@@ -994,8 +892,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 --
 
 रूपसंस्कारतुल्याधी रागद्वेषौ भयं च यत्। गृह्रते धीश्रयं तस्माज्ज्ञाता शुद्धोऽभयः सदा।
-
-
 
 ॥
 
@@ -1066,8 +962,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 -- -
 
 स्मृतिभ्यश्च कर्मस्थैवाशुद्धिः नात्मस्था इति।
-
-
 
 ॥
 
@@ -1195,8 +1089,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्यादिश्रुतिभ्यः।
 
-
-
 ॥
 
 38
@@ -1235,8 +1127,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्यादिभ्यः एक एवात्मा परं ब्राहृ सर्वसंसारधर्मविनिर्मुक्तस्त्वमिति सिद्धम्।
 
-
-
 ॥
 
 39
@@ -1250,8 +1140,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 किमिदं दृश्यते श्रूयते वा साध्यं साधनं वा साधकश्चेति श्रुतिस्मृतिलोकप्रसिद्धं वादिशतविप्रतिपत्तिविषय इति।
-
-
 
 ॥
 
@@ -1323,8 +1211,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इत्याद्येकत्वविधिश्रुतिभ्यश्चेति।
 
-
-
 ॥
 
 41
@@ -1338,8 +1224,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ?
 
 ।
-
-
 
 ॥
 
@@ -1363,15 +1247,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 अनिष्टरूपः संसारो हि स इति। तद्भेददृष्टिमेवाविद्यां संसारमूलमुन्मूलयति उत्प्रत्तिप्रलयाद्येकत्वोपपत्तिप्रदर्शनेन।
 
-
-
 ॥
 
 43
 
 ॥अविद्यायामुन्मूलितायां श्रुतिस्मृतिन्यायेभ्योऽनन्तरोऽबाह्रः सबाह्राभ्यन्तरो ह्रजः सैन्धवघनवत्प्रज्ञानघन एवैकरस आत्मा आकाशवत्परिपूर्ण इत्यत्रैव एका प्रज्ञा प्रतिष्ठा परमार्थदर्शिनो भवति। न साध्यसाधनोत्पत्तिप्रलयादिभेदेन अशुद्धिगन्धोऽप्युपपद्यते।
-
-
 
 ॥
 
@@ -1387,11 +1267,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 शरीरे वा अजरामरणत्वबुद्धिः। तस्मादविद्याकार्यत्वात्सर्वकर्मणां तत्साधनानां च यज्ञोपवीतादीनां परमार्थदर्शननिष्ठेन त्यागः कर्तव्यः।
 
-
-
 कूटस्थाद्वयात्मबोधप्रकरणम्।
-
-
 
 ॥
 
@@ -1431,8 +1307,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 निमित्तपरिहारे स्यान्मोक्षोपपत्तिः।
 
-
-
 ॥
 
 46
@@ -1450,8 +1324,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 किंतु नैमित्तिकः।
-
-
 
 ॥
 
@@ -1475,8 +1347,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 यस्मिन्निमित्ते निवर्तिते नैमित्तिकाभावः रोगनिमित्तनिवृत्ताविव रोगी स्वभावं प्रतिपद्येयेति।
 
-
-
 ॥
 
 48
@@ -1490,8 +1360,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 विद्या तस्या निवर्तिका। अविद्यायां निवृत्तायां तन्निमित्ताभावात् मोक्ष्यसे जन्ममरणलक्षणात्संसारात्। स्वप्नजाग्रद्दुःखं च नानुभविष्यसीति।
-
-
 
 ॥
 
@@ -1515,8 +1383,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 इति।
 
-
-
 ॥
 
 50
@@ -1538,8 +1404,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ;
 
 विद्यमानं चाविद्यमानमिति। इयमविद्या।
-
-
 
 ॥
 
@@ -1599,8 +1463,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 आत्मनोऽप्रसिद्धत्वादेव।
 
-
-
 ॥
 
 52
@@ -1631,8 +1493,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 अहंप्रत्ययविषयस्य च आत्मनः देहे अयमहमस्मीति।
 
-
-
 ॥
 
 53
@@ -1654,8 +1514,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ?
 
 ।
-
-
 
 ॥
 
@@ -1686,8 +1544,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 नैवमात्मा इति। इमं विशेषमाश्रित्यावोचं नैवं नियन्तुं शक्यमिति।
-
-
 
 ॥
 
@@ -1739,8 +1595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 वंशस्तम्भवन्नित्यसंयुक्तौ।
 
-
-
 ॥
 
 56
@@ -1755,8 +1609,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 यस्तु परैर्देहेन संहतः कल्पित आत्मा स संहतत्वात् परार्थः। तेन असंहतः परोऽन्यो नित्यः सिद्धस्तावत्।
 
-
-
 ॥
 
 57
@@ -1764,8 +1616,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ॥तस्यासंहतस्य देहे देहमात्रतया अध्यारोपितत्वेन असत्त्वानित्यत्वादिदोषप्रसङ्गो भवति। तत्र
 
 निरात्मको देह इति वैनाशिकपक्षप्राप्तिदोषः स्यात्।
-
-
 
 ॥
 
@@ -1780,8 +1630,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 एवम्। तस्मान्न वैनाशिकपक्षप्राप्तिदोषः स्यात्।
-
-
 
 ॥
 
@@ -1821,8 +1669,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 प्रत्यक्षादिभिः देह उपलभ्यते। तस्मान्न प्रत्यक्षादिविरोधः।
 
-
-
 ॥
 
 60
@@ -1837,8 +1683,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 ।
 
-
-
 ॥
 
 61
@@ -1852,8 +1696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 आकाशे तलमलाद्यध्यारोपणदर्शनात्।
-
-
 
 ॥
 
@@ -1872,8 +1714,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ?
 
 ।
-
-
 
 ॥
 
@@ -1897,8 +1737,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 ।
 
-
-
 ॥
 
 64
@@ -1917,8 +1755,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 चितिमत्त्वात् स्वार्थ इति मयैव चितिमता आत्मनि अध्यारोपणा क्रियते सर्वानर्थबीजभूता।
 
-
-
 ॥
 
 65
@@ -1933,8 +1769,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 मा कार्षीस्तर्हि।
 
-
-
 ॥
 
 66
@@ -1945,15 +1779,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 शक्नोमि न कर्तुम्। अन्येन केनचित्प्रयुक्तोऽहं न स्वतन्त्र इति।
 
-
-
 ॥
 
 67
 
 ॥न तर्हि अचितिमत्त्वात् स्वार्थः त्वम्। येन प्रयुक्तः अस्वतन्त्रः प्रवर्तसे स चितिमान् स्वार्थः। संघात एव त्वम्।
-
-
 
 ॥
 
@@ -1968,8 +1798,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ?
 
 ।
-
-
 
 ॥
 
@@ -1988,8 +1816,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ?
 
 ।
-
-
 
 ॥
 
@@ -2029,8 +1855,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 घटोपयोगो वा घटार्थः। तस्मात् तद्विज्ञातुर्मम चन्दनादिकृतः अर्थः। अहं हि ततोऽन्यः समस्तमर्थं जानामि बुद्ध्यारूढम्।
 
-
-
 ॥
 
 71
@@ -2055,15 +1879,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 अन्योन्यार्थं कुर्वाते।
 
-
-
 ॥
 
 72
 
 ॥ननु चितिमत्त्वे समेऽपि भृत्यस्वामिनोः अन्योन्यार्थत्वं दृष्टम्।
-
-
 
 ॥
 
@@ -2099,8 +1919,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 ।
 
-
-
 ॥
 
 74
@@ -2131,8 +1949,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 कथं कूटस्थ इति संशयः।
 
-
-
 ॥
 
 75
@@ -2155,8 +1971,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 अशेषस्वविषयचित्तप्रचारोपलब्धिर्न स्यात् चित्तस्येव स्वविषये यथा चेन्द्रियाणां स्वविषयेषु। न च तथा आत्मनस्तव स्वविषयैकदेशोपलब्धिः। अतः कूटस्थतैव तवेति।
 
-
-
 ॥
 
 76
@@ -2171,8 +1985,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 उपलब्धुः कूटस्थात्मता चेति विरुद्धम्।
 
-
-
 ॥
 
 77
@@ -2186,8 +1998,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 यथा च्छिदिक्रिया द्वैधीभावफलावसानेति धात्वर्थत्वेनोपचर्यते तद्वत्।
-
-
 
 ॥
 
@@ -2215,8 +2025,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 नात्मनः कूटस्थतां प्रतिपादयितुं समर्थः।
 
-
-
 ॥
 
 79
@@ -2231,15 +2039,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 यदि उपलब्ध्युपलब्ध्रोः विशेषः। नित्योपलब्धिमात्र एव हि उपलब्धा। न तु तार्किकसमय इव अन्या उपलब्धिः अन्यः उपलब्धा च।
 
-
-
 ॥
 
 80
 
 ॥ननूपलब्धिफलावसानो धात्वर्थः कथमिति।
-
-
 
 ॥
 
@@ -2255,8 +2059,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 न त्वात्मा विक्रियोत्पादनावसान इति मयोक्तम्।
 
-
-
 ॥
 
 82
@@ -2270,8 +2072,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ?
 
 ।
-
-
 
 ॥
 
@@ -2287,8 +2087,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 तेनैव कूटस्थतामब्रावं तव।
 
-
-
 ॥
 
 84
@@ -2303,8 +2101,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 ।
 
-
-
 ॥
 
 85
@@ -2318,8 +2114,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ;
 
 किंतु अविद्यामात्रस्त्वपराध इति प्रागेवावोचम्।
-
-
 
 ॥
 
@@ -2339,8 +2133,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 ।
 
-
-
 ॥
 
 87
@@ -2350,8 +2142,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 --
 
 किं त्वनुभूयेते त्वया संततम्।
-
-
 
 ॥
 
@@ -2370,8 +2160,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 न तु संततम्।
-
-
 
 ॥
 
@@ -2407,8 +2195,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 स्वप्नभ्रान्तिलब्धानां तु अभावो दृष्टः।
 
-
-
 ॥
 
 90
@@ -2422,8 +2208,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 स्वप्नजागरितयोरिव सुषुप्ते अनुपलब्धेः। अचैतन्यस्वरूपो वा स्यामहम्।
-
-
 
 ॥
 
@@ -2459,15 +2243,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 अव्यभिचारात्।
 
-
-
 ॥
 
 92
 
 ॥ननु व्यभिचारो दर्शितो मया सुषुप्ते न पश्यामीति।
-
-
 
 ॥
 
@@ -2519,8 +2299,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 सदा तत्स्वभावत्वात्।
 
-
-
 ॥
 
 94
@@ -2530,8 +2308,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 न नित्यत्वे इति चेत्।
-
-
 
 ॥
 
@@ -2547,8 +2323,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 न नित्या इति विशेषः अवगम्यते।
 
-
-
 ॥
 
 96
@@ -2561,15 +2335,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 चेत्।
 
-
-
 ॥
 
 97
 
 ॥सिद्धा तर्हि आत्मनः प्रमातुः स्वतःसिद्धिः प्रमाणनिरपेक्षतयैवेति।
-
-
 
 ॥
 
@@ -2580,8 +2350,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ,
 
 नित्यत्वात् इति चेत्।
-
-
 
 ॥
 
@@ -2621,15 +2389,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 न इच्छावद्विषयत्वम्। स्मर्त्रिच्छावद्विषयत्वेऽपि हि उभयोः अनवस्था पूर्ववत् अपरिहार्या स्यात्।
 
-
-
 ॥
 
 100
 
 ॥ननु प्रमातृविषयावगत्यनुत्पत्तौ अनवगत एव प्रमाता स्यादिति चेत्।
-
-
 
 ॥
 
@@ -2653,8 +2417,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 न तदा आत्मनः स्वार्थत्वम्। तद्भावाभावापेक्षा हि आत्मानात्मनोः स्वार्थत्वपरार्थत्वसिद्धिः। तस्मात् आत्मनः अन्यनिरपेक्षमेव नित्यचैतन्यज्योतिष्ट्वं सिद्धम्।
 
-
-
 ॥
 
 102
@@ -2668,8 +2430,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ?
 
 ।
-
-
 
 ॥
 
@@ -2709,8 +2469,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 तथा नित्यावगतिस्वरूपेऽपि प्रमातरि प्रमातृत्वव्यपदेशो न विरुध्यते फलसामान्यादिति।
 
-
-
 ॥
 
 104
@@ -2720,8 +2478,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 --
 
 नित्यावगतिस्वरूपस्य आत्मनः अविक्रियत्वात् कार्यकारणैः असंहत्य तक्षादीनामिव वास्यादिभिः कर्तृत्वं नोपपद्यते। असंहतस्वभावस्य च कार्यकरणोपादाने अनवस्था प्रसज्येत। तक्षादीनां तु कार्यकरणैः नित्यमेव संहतत्वमिति वास्याद्युपादाने नानवस्था स्यादिति।
-
-
 
 ॥
 
@@ -2755,15 +2511,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 अवगत्यवसानप्रत्ययापेक्षसिद्धिदर्शनात्।
 
-
-
 ॥
 
 106
 
 ॥ननु देहस्यावगतौ न कश्चित् प्रत्यक्षादिप्रत्ययान्तरमपेक्षते।
-
-
 
 ॥
 
@@ -2779,8 +2531,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 सा च अवगतिः कृटस्था स्वयंसिद्धात्मज्योतिःस्वरूपेति च।
 
-
-
 ॥
 
 108
@@ -2791,8 +2541,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 अवगतिः प्रमाणानां फलं कूटस्थनित्यात्मज्योतिःस्वरूपेति च विप्रतिषिद्धम्।
 
-
-
 इत्युक्तवन्तमाह
 
 -- -
@@ -2802,8 +2550,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ?
 
 तत्त्वोपचारात्। कूटस्था नित्यापि सती प्रत्यक्षादिप्रत्ययान्ते लक्ष्यते तादथ्र्यात्। प्रत्यक्षादिप्रत्ययस्य अनित्यत्वे अनित्येव भवति। तेन प्रमाणानां फलमित्युपचर्यते।
-
-
 
 ॥
 
@@ -2847,8 +2593,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 अन्यस्य च अभावात्।
 
-
-
 ॥
 
 110
@@ -2859,8 +2603,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 नातः परं जाग्रत्स्वप्नदुःखमनुभविष्यसि। संसारदुःखान्मुक्तोऽसीति।
 
-
-
 ॥
 
 111
@@ -2869,11 +2611,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 अवगतिः समाप्ता॥
 
-
-
 परिसंख्यानप्रकरणम्।
-
-
 
 ॥
 
@@ -2889,8 +2627,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 प्रवृत्तेश्च इष्टानिष्टमिश्रफलानि कर्माणि उपचीयन्ते इति तन्मोक्षार्थम्।
 
-
-
 ॥
 
 113
@@ -2901,8 +2637,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 सामान्येन च सुखदुःखाद्यनेककर्माणः तद्विज्ञातृत्वादेव तद्विज्ञाता सर्वशब्दादिधर्मविलक्षणः।
 
-
-
 ॥
 
 114
@@ -2912,8 +2646,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 ¬
 
 मानो विद्वान् एवं परिसंचक्षीत।
-
-
 
 ॥
 
@@ -2940,8 +2672,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 '
 
 इति श्रुतेः।
-
-
 
 ॥
 
@@ -3029,8 +2759,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 
 यानि सर्वाणि उपनिषद्वाक्यानि विस्तरशः समीक्षितव्यानि समीक्षितव्यानि।
 
-
-
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
 
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य
@@ -3040,8 +2768,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxOTc0NDQ0ODE
 उपदेशसहरुायां
 
 गद्यप्रबन्धः समाप्तः॥
-
-
-
 
 \]

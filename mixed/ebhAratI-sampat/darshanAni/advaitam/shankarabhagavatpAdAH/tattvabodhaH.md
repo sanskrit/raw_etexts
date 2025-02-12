@@ -13,10 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MzQ4NDY4MTM
 
 \[
 
-
-
-
-
 **तत्वबोधः**
 
 वासुदेवेन्द्रयोगीन्द्रं नत्वा ज्ञानप्रदं गुरुम्।
@@ -260,10 +256,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MzQ4NDY4MTM
 
 तनुं त्यजतु वा काश्यां श्वपचस्य गृहे अथवा। ज्ञानसंप्राप्तिसमये मुक्तोऽसौ विगताशयः॥  
 इति स्मृतेश्च । ५॥१४
-
-
-
-
-
 
 \]

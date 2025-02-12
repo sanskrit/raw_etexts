@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 
 वेदान्तदर्शनम्
 
-
-
 प्रथमोऽध्यायःप्रथमःपादः
 
 अथातोब्रह्मजिज्ञासा१
@@ -80,8 +78,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 जीवमुख्यप्राणलिङ्गान्नेतिचेन्नोपासात्रैविध्यादाश्रितत्वादिहतद्योगात्३१
 
 इतिप्रथमःपादः
-
-
 
 द्वितीयःपादः
 
@@ -150,8 +146,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 आमनन्तिचैनमस्मिन्३२
 
 इतिद्वितीयःपादः
-
-
 
 तृतीयःपादः
 
@@ -243,8 +237,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 
 इतितृतीयःपादः
 
-
-
 चतुर्थःपादः
 
 आनुमानिकमप्येकेषामितिचेन्नशरीररूपकविन्यस्तगृहीतेर्दर्शयतिच१
@@ -304,8 +296,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 एतेनसर्वेव्याख्याताव्याख्याताः२८
 
 इतिचतुर्थःपादःइतिप्रथमोऽध्यायः
-
-
 
 द्वितीयोऽध्यायःप्रथमःपादः
 
@@ -384,8 +374,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 सर्वधर्मोपपत्तेश्च३७
 
 इतिप्रथमःपादः
-
-
 
 द्वितीयःपादः
 
@@ -482,8 +470,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 विप्रतिषेधाच्च४५
 
 इतिद्वितीयःपादः
-
-
 
 तृतीयःपादः
 
@@ -595,8 +581,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 
 इतितृतीयःपादः
 
-
-
 चतुर्थःपादः
 
 तथाप्राणाः१
@@ -644,8 +628,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 वैशेष्यात्तुतद्वादस्तद्वादः२२
 
 इतिचतुर्थःपादःइतिद्वितीयोऽध्यायः
-
-
 
 तृतीयोऽध्यायःप्रथमःपादः
 
@@ -704,8 +686,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 योनेःशरीरम्२७
 
 इतिप्रथमःपादः
-
-
 
 द्वितीयःपादः
 
@@ -792,8 +772,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 पूर्वंतुबादरायणोहेतुव्यपदेशात्४१
 
 इतिद्वितीयःपादः
-
-
 
 तृतीयःपादः
 
@@ -931,8 +909,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 
 इतितृतीयःपादः
 
-
-
 चतुर्थःपादः
 
 पुरुषार्थोऽतःशब्दादितिबादरायणः१
@@ -1041,8 +1017,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 
 इतिचतुर्थःपादःइतितृतीयोऽध्यायः
 
-
-
 चतुर्थोऽध्यायःप्रथमःपादः
 
 आवृत्तिरसकृदुपदेशात्१
@@ -1084,8 +1058,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 भोगेनत्वितरेक्षपयित्वासम्पद्यते१९
 
 इतिप्रथमःपादः
-
-
 
 द्वितीयःपादः
 
@@ -1133,8 +1105,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 
 इतिद्वितीयःपादः
 
-
-
 तृतीयःपादः
 
 अर्चिरादिनातत्प्रथितेः१
@@ -1172,8 +1142,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 विशेषंचदर्शयति१६
 
 इतितृतीयःपादः
-
-
 
 चतुर्थःपादः
 
@@ -1223,10 +1191,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODg2NDIwMTk1
 
 इतिचतुर्थःपादःइतिचतुर्थोऽध्यायः
 
-
-
 इतिवेदान्तदर्शनम्
-
-
 
 \]
