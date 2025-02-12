@@ -158,7 +158,7 @@ OR
 
 **प्रथमोऽङ्कः।**
 
-![](../books_images/U-IMG-1723948970Screenshot2024-08-18081224.png)
+<MISSING_FIG href="../books_images/U-IMG-1723948970Screenshot2024-08-18081224.png"/>
 
 **॥उपाङ्कः॥१॥**
 
@@ -934,7 +934,7 @@ End of Act I.
 \_\_\_\_\_\_  
 
 **॥ द्वितीयोऽङ्कः ॥**  
-![](../books_images/U-IMG-1723995079Screenshot2024-08-18081224.png)![](#)![](#)
+<MISSING_FIG href="../books_images/U-IMG-1723995079Screenshot2024-08-18081224.png"/><MISSING_FIG href="#"/><MISSING_FIG href="#"/>
 
 **॥ उपाङ्क १ ॥**
 
@@ -3017,7 +3017,7 @@ bliss remains always unfolded by the eternal enjoyment of His Presence, does not
 
 **पञ्चमोऽङ्कः॥**
 
-**![](../books_images/U-IMG-1723042889Screenshot(65).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723042889Screenshot(65"/>.png)**
 
 **उपाङ्क॥१॥**  
 **गोवर्धनगिरौ–वनान्तरे।**  
@@ -3446,7 +3446,7 @@ arena of dance, does He shine, disguised as a son of man. Let us hie to see Him�
 
 **षष्टोऽङ्कः॥**
 
-**![](../books_images/U-IMG-1723271470Screenshot(65).png)  
+**<MISSING_FIG href="../books_images/U-IMG-1723271470Screenshot(65"/>.png)  
 उपाङ्क॥१॥**
 
 **यमुनाकूले।**  
@@ -3838,7 +3838,7 @@ beaming with smile he is doing the music-of-the-flute to apprise people of the p
 
 **सप्तमोऽङ्कः॥**
 
-**![](../books_images/U-IMG-1723211285Screenshot2024-08-09191734.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1723211285Screenshot2024-08-09191734.png"/>  
 उपांक॥१॥  
 वनान्तरे।**
 

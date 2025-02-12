@@ -22,8 +22,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0NzI5NTAwNjk
 **॥श्रीः॥  
 अथ  
 भाषाटीकासमेतः  
-![](../books_images/U-IMG-1720517977090705-removebg-preview.png)भोजप्रबन्धः![](../books_images/U-IMG-1720517977090705-removebg-preview.png)**  
-![](../books_images/U-IMG-1720518068090706-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1720517977090705-removebg-preview.png"/>भोजप्रबन्धः<MISSING_FIG href="../books_images/U-IMG-1720517977090705-removebg-preview.png"/>**  
+<MISSING_FIG href="../books_images/U-IMG-1720518068090706-removebg-preview.png"/>
 
 ** श्रीगणेशाय नमः॥ स्वस्ति श्रीमहाराजाधिराजस्य भोजराजस्य प्रबंधः कथ्यते। आदौ धाराराज्ये सिंधुलसंज्ञो राजा चिरं प्रजाः पर्यपालयत्।तस्य वृद्धत्वे भोज इति पुत्रस्समजनि। स यदा पंचवार्षिकस्तदा पिता ह्यात्मनो जरां ज्ञात्वा मुख्यामात्यानाहूय अनुजं मुंजं महाबलमालोक्य पुत्रं चबालं वीक्ष्य विचारयामास। यदाहं राजलक्ष्मीभारधारणसमर्थं सोदरमपहाय राज्यं पुत्राय प्रयच्छामि तदा लोकापवादः। अथवा बालं मे पुत्रं मुंजोराज्यलोभाद्विषादिना मारयिष्यति। तदा दत्तमपिराज्यं वृथा। पुत्रहानिर्वंशोच्छेदश्च॥**
 
@@ -3351,7 +3351,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0NzI5NTAwNjk
 
 **इति श्रीवेरीनगरनिवासि–बुध–वसतिरामविरचितभाषाटीकायां भोजप्रबंधः समाप्तः॥**
 
-![](../books_images/U-IMG-1721048521150701-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1721048521150701-removebg-preview.png"/>
 
  यह भोजप्रबंधकी भाषाटीका जिलै-रोहतक, कसबैवेरीनिवासी पंडित वस्तीरामने बनाई है। इसका सबप्रकारका हक्क श्रीयुत श्रीकृष्णदासात्मज **गंगाविष्णुजी**सेठको दे दिया है।
 
@@ -3364,7 +3364,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0NzI5NTAwNjk
 **भोजप्रबन्धः**  
 **समाप्तः॥**
 
-**![](../books_images/U-IMG-1722351053Untitled-6.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722351053Untitled-6.png"/>**
 
 **पुस्तक मिलनेका ठिकाना—**
 
@@ -3374,4 +3374,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0NzI5NTAwNjk
 **कल्याण–मुंबई.**
 
 \]
-

@@ -34,7 +34,7 @@ EDITED BY
 
 *Retired Professor of Sanskrit, Government College, Lahore.*
 
-![](../books_images/U-IMG-1730688433Screenshot2024-11-04081636.png)
+<MISSING_FIG href="../books_images/U-IMG-1730688433Screenshot2024-11-04081636.png"/>
 
 PUBLISHED BY  
 **THE UNIVERSITY OF THE PANJAB**  

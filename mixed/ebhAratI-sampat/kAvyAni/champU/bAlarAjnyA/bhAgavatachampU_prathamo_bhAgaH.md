@@ -398,7 +398,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3OTMxNTMyMDQ
 
 **चम्पूभागवते प्रथमस्तबकस्समाप्तः॥**
 
-**![](../books_images/U-IMG-1720232004Screenshot2024-07-06074138.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720232004Screenshot2024-07-06074138.png"/>**
 
 **द्वितीयस्तबकः।**
 
@@ -582,11 +582,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3OTMxNTMyMDQ
 
 **चम्पूभागवतेद्वितीयस्तबकस्समाप्तः॥**
 
-**![](../books_images/U-IMG-1720251445Screenshot2024-07-06130533.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720251445Screenshot2024-07-06130533.png"/>**
 
 **तृतीयस्तबकः।**
 
-![](../books_images/U-IMG-1720251545Screenshot2024-01-09212823.png)
+<MISSING_FIG href="../books_images/U-IMG-1720251545Screenshot2024-01-09212823.png"/>
 
 **इत्थं जगद्गुरुकथामृतपानहृष्टः  
      सौभद्रसूनुरभिवन्द्य तपोधनेन्द्रम्।  
@@ -1078,6 +1078,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3OTMxNTMyMDQ
 
 **चम्पूभागवते तृतीयस्तबकस्समाप्तः॥**
 
-**![](../books_images/U-IMG-1720346325Screenshot2024-07-07152659.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720346325Screenshot2024-07-07152659.png"/>**
 
 \]

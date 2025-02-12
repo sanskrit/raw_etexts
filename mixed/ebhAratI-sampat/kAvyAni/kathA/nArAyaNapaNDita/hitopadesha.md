@@ -221,7 +221,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MjQ0NTY3OTM
 **इति** **प्रस्ताविका।**
 
 **  
-![](../books_images/U-IMG-1722450196Screenshot2024-07-31235259.png)**
+<MISSING_FIG href="../books_images/U-IMG-1722450196Screenshot2024-07-31235259.png"/>**
 
 **न संशयमनारुह्यनरो भद्राणि पश्यति।  
 संशयं पुनरारुह्ययदि पश्यन्न पश्यति॥७॥**

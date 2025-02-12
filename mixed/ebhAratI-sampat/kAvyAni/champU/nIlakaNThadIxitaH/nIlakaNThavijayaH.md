@@ -305,8 +305,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MzM1NjAzNjE
 
 **नादब्रह्ममयीव तत्र रुरुचे[^3] नासीरसीमा हरेः॥२२॥**
 
-[^3]: " तस्यैवइन्द्रस्यैवगुरुः बृहस्पतिः।"
-
  अपि च—
 
 **अग्रे पश्चादुभयत इति त्यक्तलोकव्यवस्थे**
@@ -3108,7 +3106,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MzM1NjAzNjE
 पञ्चम आश्वासः॥  
 समाप्तश्चायं ग्रन्थः॥
 
-![](../books_images/U-IMG-17241484035241.png)
+<MISSING_FIG href="../books_images/U-IMG-17241484035241.png"/>
 
 **श्लोकसूची।**
 
@@ -3255,6 +3253,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MzM1NjAzNjE
 | सुरासुरकरोदर                | खेनैव भ्रमयति             |
 | सौहार्दं परमेयुषा           |                          |
 
-![](../books_images/U-IMG-172414860052412.png)
+<MISSING_FIG href="../books_images/U-IMG-172414860052412.png"/>
 
 \]

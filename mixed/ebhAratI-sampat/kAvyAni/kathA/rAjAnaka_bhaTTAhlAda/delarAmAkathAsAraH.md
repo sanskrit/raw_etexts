@@ -23,13 +23,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNjY4OTU4NDc
 
 **काव्यमाला।**
 
-![](../books_images/U-IMG-1720882370देलारमा4.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1720882370देलारमा4.JPG"/>
 
 राजानकभट्टाह्लादकविरचितो
 
 **देलरामाकथासारः।**
 
-![](../books_images/U-IMG-1720882389देलारमा2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1720882389देलारमा2.JPG"/>
 
 **प्रथमः सर्गः।**
 
@@ -1929,7 +1929,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNjY4OTU4NDc
 इति देलरामाकथासारे स्वदेशराज्यप्राप्तिर्नाम त्रयोदशः सर्गः।
 
 समाप्तोऽयं ग्रन्थः।  
-![](../books_images/U-IMG-1720925174delarama55.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1720925174delarama55.JPG"/>
 
 \]
-

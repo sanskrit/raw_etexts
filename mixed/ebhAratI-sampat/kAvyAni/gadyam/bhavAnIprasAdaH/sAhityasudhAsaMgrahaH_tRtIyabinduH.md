@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 **\* साहित्य सुधा संग्रहस्य\***  
 **तृतीय बिन्दोर्भूमिका**
 
-![](../books_images/U-IMG-1720959393Screenshot_14-7-2024_17460_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1720959393Screenshot_14-7-2024_17460_www.ebharatisampat.in.jpeg"/>
 
  अयिसतत सुरभारतीहितनिहितमतयः सहृदय महोदयाः!
 
@@ -42,7 +42,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
  संवत् १६८३ वैक्र०                         
                                श्री वागीश्वरश्च**
 
-![](../books_images/U-IMG-1720958453Screenshot_14-7-2024_173041_www.ebharatisampat.in.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1720958453Screenshot_14-7-2024_173041_www.ebharatisampat.in.jpeg"/>
 
 |                                                        |
 |--------------------------------------------------------|
@@ -86,7 +86,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इति अनुक्रमणिका**
 
-**![](../books_images/U-IMG-1720959196Screenshot_14-7-2024_174253_www.ebharatisampat.in.jpeg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720959196Screenshot_14-7-2024_174253_www.ebharatisampat.in.jpeg"/>**
 
 **\* नाटकप्रयोजनम् \***
 
@@ -102,7 +102,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **तृतीयो बिन्दुः**
 
-**![](../books_images/U-IMG-1721067742Capture.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1721067742Capture.JPG"/>**
 
 **तेजोऽसि तेजो मयि धेहि।  
 वीर्यमसि वीर्यं मयि धेहि॥  
@@ -272,7 +272,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
                            यजु० ३२ अध्यायः।
 
 **प्रसन्नराघवम्।**  
-**![](../books_images/U-IMG-1721312226Screenshot2024-07-10063051.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721312226Screenshot2024-07-10063051.png"/>**
 
 **तृतीयोऽङ्कः।**
 
@@ -358,11 +358,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इति प्रवेशकः।**
 
-**![](../books_images/U-IMG-1721323406Screenshot2024-07-12171137.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721323406Screenshot2024-07-12171137.png"/>**
 
 **प्रसन्नराघवस्य**
 
-**![](../books_images/U-IMG-1720957647Screenshot_14-7-2024_171655_www.ebharatisampat.in.jpeg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720957647Screenshot_14-7-2024_171655_www.ebharatisampat.in.jpeg"/>**
 
 **चतुर्थोऽङ्कः**
 
@@ -430,7 +430,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
   ** जामदग्न्यः —**(सहर्षम्।) निवृत्ता ?
 
 **तृतीयो बिन्दुः**  
-**![](../books_images/U-IMG-1721352633Screenshot2024-07-11161259.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721352633Screenshot2024-07-11161259.png"/>**
 
   **ताण्ड्यायनः—**भगवन्! निवृत्ता सहैव चापेन।
 
@@ -876,11 +876,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इति चतुर्थोऽङ्कः**
 
-**![](../books_images/U-IMG-1721398867Screenshot2024-07-12171137.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721398867Screenshot2024-07-12171137.png"/>**
 
 **उत्तररामचरितम्।**
 
-**![](../books_images/U-IMG-1720998697Screenshot_15-7-2024_44044_www.ebharatisampat.in.jpeg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720998697Screenshot_15-7-2024_44044_www.ebharatisampat.in.jpeg"/>**
 
 **प्रथमोऽङ्कः**
 
@@ -1388,10 +1388,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 **इति महाकवि श्रीभवभूतिविरचित उत्तररामचरिते  
 प्रथमोऽङ्कः**  
 
-![](../books_images/U-IMG-1721389723Screenshot2024-07-12171137.png)
+<MISSING_FIG href="../books_images/U-IMG-1721389723Screenshot2024-07-12171137.png"/>
 
 **द्वितीयोऽङ्कः**  
-**![](../books_images/U-IMG-1721389277Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721389277Screenshot2024-07-18063849.png"/>**
 
 \[नेपथ्ये\]
 
@@ -1726,10 +1726,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इति द्वितीयोऽङ्कः।  
 
-![](../books_images/U-IMG-1721387605Screenshot2024-07-10165016.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721387605Screenshot2024-07-10165016.png"/>**
 
 **तृतीयोऽङ्कः।**  
-**![](../books_images/U-IMG-1721387864Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721387864Screenshot2024-07-18063849.png"/>**
 
 (ततः प्रविशति नदीद्वयम्। )
 
@@ -2601,10 +2601,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इति चतुर्थोऽङ्कः।**  
 
-**![](../books_images/U-IMG-1721352303Screenshot2024-07-09101742.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721352303Screenshot2024-07-09101742.png"/>**
 
 **पञ्चमोऽङ्कः।**  
-![](../books_images/U-IMG-1721352100Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721352100Screenshot2024-07-18063849.png"/>
 
 **(नेपथ्ये।)**
 
@@ -2863,6 +2863,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 **  चन्द्रकेतुः—**किं नु भवतस्तातप्रतापोत्कर्षेऽप्यमर्षः ?
 
 **  लवः—**अस्त्विहामर्षो माभूद्वा। अन्यदेतत्पृच्छामि—दान्तं हि राजानं राघवमनुशुश्रुमः। स किल नाऽऽत्मना दृप्यति नाप्यस्य प्रजा वा दृप्ता जायन्ते। तत्किं मनुष्यास्तस्य राक्षसीं वाचमुदीरयन्ति ?  
+    
 
 **ऋषयो राक्षसीमाहुर्वाचमुन्मत्तदृप्तयोः।  
 सा योनिः सर्ववैराणां सा हि लोकस्य निष्कृतिः॥२६॥**
@@ -2922,10 +2923,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इति पञ्चमोऽङ्कः।  
 
-![](../books_images/U-IMG-1721411533Screenshot2024-07-11204324.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721411533Screenshot2024-07-11204324.png"/>**
 
 **षष्ठोऽङ्कः।**  
-**![](../books_images/U-IMG-1721411776Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721411776Screenshot2024-07-18063849.png"/>**
 
 (ततः प्रविशति विमानेनोज्ज्वलं विद्याधरमिथुनम्।)
 
@@ -3293,10 +3294,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इति षष्ठोऽङ्कः।  
 
-![](../books_images/U-IMG-1721438495Screenshot2024-07-08194832.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721438495Screenshot2024-07-08194832.png"/>**
 
 ** सप्तमोऽङ्कः**  
-**![](../books_images/U-IMG-1721438529Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721438529Screenshot2024-07-18063849.png"/>**
 
 (ततः प्रविशति लक्ष्मणः )
 
@@ -3335,10 +3336,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 प्राप्तप्रसवमात्मानं गङ्गादेव्यां विमुञ्चति॥२॥**
 
 (इति निष्क्रान्तः।)  
-![](../books_images/U-IMG-1721439024Screenshot2024-07-11161259.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721439024Screenshot2024-07-11161259.png"/>  
 
 **इति प्रस्तावना।**  
-**![](../books_images/U-IMG-1721439209Screenshot2024-07-18063849.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1721439209Screenshot2024-07-18063849.png"/>**  
 
 **  रामः**—(सावेगम्) देवि ! देवि ! लक्ष्मणमवेक्षस्व।
 
@@ -3647,10 +3648,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **उत्तररामचरितं समाप्तम्**  
 
-![](../books_images/U-IMG-1721449243Screenshot2024-07-09151321.png)
+<MISSING_FIG href="../books_images/U-IMG-1721449243Screenshot2024-07-09151321.png"/>
 
 **अनर्घराघवम्**  
-**![](../books_images/U-IMG-1721449373Screenshot2024-07-18230445.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721449373Screenshot2024-07-18230445.png"/>**
 
 **द्वितीयोऽङ्कः**
 
@@ -3846,7 +3847,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 (इति निष्क्रान्तौ।)
 
 **इति विष्कम्भकः।  
-![](../books_images/U-IMG-1721480317Screenshot2024-07-11161259.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721480317Screenshot2024-07-11161259.png"/>**
 
 **\* सिद्धाश्रमवर्णनम् \***
 
@@ -4393,7 +4394,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 (श्रीमुरारे रनर्घराघवात्)
 
-![](../books_images/U-IMG-1721452898Screenshot2024-07-10063051.png)
+<MISSING_FIG href="../books_images/U-IMG-1721452898Screenshot2024-07-10063051.png"/>
 
 **श्री भर्तृहरि निर्वेदम्**
 
@@ -4573,15 +4574,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इति तृतीयोऽङ्कः।**
 
-**![](../books_images/U-IMG-1721482552Screenshot2024-07-11204324.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721482552Screenshot2024-07-11204324.png"/>**
 
 **मुद्राराक्षसम्**  
-**![](../books_images/U-IMG-1721482624Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721482624Screenshot2024-07-18063849.png"/>**
 
 **षष्ठोऽङ्कः**
 
 **राक्षसविषादः**  
-**![](../books_images/U-IMG-1721482643Screenshot2024-07-11131326.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721482643Screenshot2024-07-11131326.png"/>**
 
 (ततः प्रविशति रज्जुहस्तः पुरुषः।)
 
@@ -4798,10 +4799,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **(षष्ठोऽङ्कः।)**  
 
-**![](../books_images/U-IMG-1721487906Screenshot2024-07-10063051.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1721487906Screenshot2024-07-10063051.png"/>**  
 
 **प्रबोधचन्द्रोदयम्  
-![](../books_images/U-IMG-1721488045Screenshot2024-07-18063849.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721488045Screenshot2024-07-18063849.png"/>**
 
 **द्वितीयोऽङ्कः।**
 
@@ -5214,8 +5215,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इतिश्रीकृष्णमिश्रविरचिते प्रबोधचन्द्रोदयनाम्नि नाटके द्वितीयोऽङ्कः॥२॥**
 
-**_(![](../books_images/U-IMG-1721522825Screenshot2024-07-21061650.png))मृच्छकटिकात्_(![](../books_images/U-IMG-1721522825Screenshot2024-07-21061650.png))  
-![](../books_images/U-IMG-1721522774Screenshot2024-07-18063849.png)**
+**_(<MISSING_FIG href="../books_images/U-IMG-1721522825Screenshot2024-07-21061650.png"/>)मृच्छकटिकात्_(<MISSING_FIG href="../books_images/U-IMG-1721522825Screenshot2024-07-21061650.png"/>)  
+<MISSING_FIG href="../books_images/U-IMG-1721522774Screenshot2024-07-18063849.png"/>**
 
 **सन्धिच्छेद**
 
@@ -5376,10 +5377,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **(मृच्छकटिकस्य तृतीयाङ्कात् )**
 
-**![](../books_images/U-IMG-1721009792Screenshot_15-7-2024_7462_www.ebharatisampat.in.jpeg)**  
+**<MISSING_FIG href="../books_images/U-IMG-1721009792Screenshot_15-7-2024_7462_www.ebharatisampat.in.jpeg"/>**  
 
 **अभिज्ञान शाकुन्तलात्**  
-**![](../books_images/U-IMG-1721524870Screenshot2024-07-18230445.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721524870Screenshot2024-07-18230445.png"/>**
 
 **प्रातः काल वर्णनम्**
 
@@ -5416,7 +5417,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 **(अभिज्ञान शाकुन्तलस्यचतुर्थाऽङ्कात्।)**
 
 **सुभाषितानि**  
-**![](../books_images/U-IMG-1721525090Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721525090Screenshot2024-07-18063849.png"/>**
 
 **अन्योक्तयः**
 
@@ -5637,7 +5638,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 ऐतैरेव गुणैर्युताः परभृतास्त्यत्त्क्वाकिमेते जनाः,  
 वन्दन्ते खलु खञ्जनं कृमिभुजं चित्रा गतिः कर्मणाम्॥३९॥**
 
-**![](../books_images/U-IMG-1721526275Screenshot2024-07-11132644.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721526275Screenshot2024-07-11132644.png"/>**
 
 **सामान्यनीतिः**
 
@@ -5709,10 +5710,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc4ODcwMzM4MTE
 
 **इति सुभाषितानि**
 
-**![](../books_images/U-IMG-1721526811Screenshot2024-07-10063051.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721526811Screenshot2024-07-10063051.png"/>**
 
 **इति तृतीयो बिन्दुः**
 
-**![](../books_images/U-IMG-1721526797Screenshot2024-07-21064941.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721526797Screenshot2024-07-21064941.png"/>**
 
 \]

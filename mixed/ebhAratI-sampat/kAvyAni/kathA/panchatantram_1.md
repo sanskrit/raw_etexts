@@ -442,6 +442,8 @@ PRINTED AT THE “INDU-PRAKASH” PRESS,
 सीमा संकोचमायाति वह्नौचर्म इवाहितम्।  
 स्थिते यस्मिन्स तु त्याज्यो भृत्यो राज्यं समीहता॥९३॥
 
+ 
+
 तथा शृगालोयमिति मन्यमानेन ममोपरि स्वामिना यद्यवज्ञा क्रियते तदप्ययुक्तम्। उक्तं च यतः।
 
 कौशेयं कृमिजं सुवर्णमुपलाद्दूर्वापि गोरोमतः  
@@ -1047,10 +1049,14 @@ PRINTED AT THE “INDU-PRAKASH” PRESS,
 यस्य क्षेत्रं नदीतीरे भार्या च परसंगता।  
 ससर्पे च गृहे बासःकथं स्यात्तस्य निर्वृतिः॥२०८॥
 
+ 
+
 अन्यच्चास्माकमपि तत्रस्थानां प्रतिदिनं प्राणसंशयः। स आह। नात्र विषये विषादः कार्यः। नूनं स लुब्धो नोपायमन्तरेण वध्यः स्यात्।
 
 उपायेन जयो यादृग्रिपोस्तावन्न हेतिभिः  
 उपायज्ञोल्पकायोपिन शूरैःपरिभूयते॥२०९॥
+
+ 
 
 तथा च।
 
@@ -1355,6 +1361,8 @@ PRINTED AT THE “INDU-PRAKASH” PRESS,
 
 मृदुनातिसुवृत्तेन सुमृष्टेनातिहारिणा।  
 मोदकेनापि किं तेन निष्पत्तिर्यस्य सेवया॥२७१॥
+
+ 
 
 संजीवक आह। अथ भवान्किं वक्तुमनाः। स आह। मित्र
 
@@ -2257,7 +2265,7 @@ PRINTED AT THE “INDU-PRAKASH” PRESS,
 ———————————————
 
 **NOTES.  
-![](../books_images/U-IMG-1724063813Untitled.png)**
+<MISSING_FIG href="../books_images/U-IMG-1724063813Untitled.png"/>**
 
 P. **1**. L. 1.— शारदा is a name of Sarasvatî, the goddess of eloquence.
 
@@ -3046,7 +3054,7 @@ P. **52**. 1. 7. — सनिःश्वासेन स्थीयते, sc
 
 18.— Metre of s'l. 212: Âryâ. Whenever a planet passes through the रोहिणीशकट,the earth begins to suffer from want of rain; it becomes parched and bare and is covered with ashes and bones from the funeral piles on which the human beings that have died in consequence of the drought, are burnt. In this state it is compared here with the religious ascetics who in order to atone for their sins think it necessary to go about naked with their limbs covered with ashes, and to eat the food which they have received as alms out of human skulls carried in their hands.
 
-P. **53**. L. 1.— Metre of s'l. 213: Rathoddhatâ. The last Pâda is incorrect; it ought, instead of ending in ![](../books_images/U-IMG-1724311595Untitled.png), to end in ![](../books_images/U-IMG-1724311624Untitled1.png)रुधिरis on the margin of one Ms. explained by मङ्गलः i. e. 'the planet Mars.'
+P. **53**. L. 1.— Metre of s'l. 213: Rathoddhatâ. The last Pâda is incorrect; it ought, instead of ending in <MISSING_FIG href="../books_images/U-IMG-1724311595Untitled.png"/>, to end in <MISSING_FIG href="../books_images/U-IMG-1724311624Untitled1.png"/>रुधिरis on the margin of one Ms. explained by मङ्गलः i. e. 'the planet Mars.'
 
 4.— क्रीडित is here and elsewhere used actively in the sense of 'one who has played.'
 

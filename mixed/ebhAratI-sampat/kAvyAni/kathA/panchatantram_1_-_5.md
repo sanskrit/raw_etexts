@@ -57,6 +57,8 @@ Nothing is known which connects it definitely with any particular locality. Ther
 
  Through these two French works the names "Pilpay" and "Bidpai" became household words in the literature of European fables and stories. They are both variants, or corruptions, of the name given in the Persian *Anwari Suhaili* to the "philosopher" who is there represented as telling the stories to his royal patron; some have conjectured that the name was originally meant to represent a Sanskrit form *vidyapati*. When at last Western scholars became acquainted with the Hitopadesa and other Indian forms or offshoots of the Pañcatantra, they at once recognized that they had found Indian forms of the "Bidpai" which they already knew so well. In Europe this name is even yet sometimes applied to this cycle of stories.
 
+ 
+
 by high authorities, that the original Pañcatantra was a Buddhistic work. There is absolutely no basis for either of these theories, and no reputable Indianist of to-day holds them; yet echoes of them, or at least of the second one, are still found in the writings of uninitiated persons. The text here reprinted, with the labors (of the writer and others) on which it is based, constitutes the final refutation of such theories.
 
  A word of caution may be needed on one point. Though this is the oldest form of the Pañcatantra as a literary work, that does not mean that every story found here is presented in its oldest known form. The author of the Pañcatantra did not invent most of his stories. He took them from older sources, either literary works or (in most cases, probably) floating popular traditions. Great artist that he was, he knew how to vivify them, to animate them with the breath of his own genius; just as Shakespeare took stories from old chronicles and made immortal dramas out of them. Compare the Pañcatantra stories with the same stories told elsewhere, no matter where, and the greater cleverness of the Pañcatantra's author will, as a rule, be self-evident. But that does not necessarily mean that his version of a given story is the oldest version of that story in existence. It is the oldest in the Pañcatantra cycle, but that is all. It is older than, say the Hitopadeśa version, which is derived from it; but it may possibly not be as old as a version appearing in the Mahābhārata or in a Buddhist Jataka, which will presumably have been derived from the same popular source used by the Pañcatantra's author.
@@ -67,7 +69,7 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 
 **—————————**
 
-![](../books_images/U-IMG-1721458302Screenshot(319).jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721458302Screenshot(319"/>.jpg)
 
 पञ्चतन्त्रम्।
 
@@ -142,6 +144,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 नृपसंश्रय इष्यते बुधैर्जठरं को न बिभर्ति केवलम्॥ ७॥  
 यस्मिञ्जीवति जीवन्ति बहवः स तु जीवति।  
 वकोऽपि किं न कुरुते चञ्च्वास्वोदरपूरणम्॥८॥
+
+  
 
 अपि च
 
@@ -477,6 +481,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 
 प्रणयस्यातिभूमयः॥६४॥
 
+ 
+
 अथ पिङ्गलकःश्रद्धेयवचनत्वात्तं सादरमाह। किं भवान् वकुमिच्छतीति। सोऽब्रवीत्। अयं तावत्संजीवकस्तवोपरि दुग्धमतिः। विश्वासोपगतश्चायं मत्संनिधावाह। दृष्टास्य पिङ्गलकस्य मया सारासारता शक्तित्रयस्य। यत एनं हत्वा स्वयमेवाहं राज्यं ग्रहीष्यामीति। एतच्च वज्राशनिदुःसहतरं वचनं श्रुत्वा क्षुभितहृदयः पिङ्गलको मोहमुपागतो न किंचिदूचे। दमनकस्तु तस्याकारं दृष्ट्वैवमाह। अयं तावदेकमन्त्रिप्राधान्येन महान्दोषआपतितः। साधु चेदमुच्यते।
 
 अत्युच्छ्रिते मन्त्रिणि पार्थिवे च  
@@ -546,10 +552,14 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 **दुर्जनःप्रकृतिं याति सेव्यमानोऽपि यत्नतः।  
 स्वेदनाभ्यञ्जनोपायैः श्वपुच्छमिव नामितम्॥७८॥**
 
+ 
+
 अपि च
 
 अपृष्टस्तस्य तद्ब्रूयाद्यस्य नेच्छेत्पराभवम्।  
 एष एव सतांधर्मो विपरीतो मतोऽन्यथा॥७९॥
+
+ 
 
 अन्यच्च। येनैतदभिहितम्।
 
@@ -743,10 +753,14 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 विद्वद्भिश्चनिराश्रयव्यसिनिभिः शूरैश्च भाग्यक्षतैः  
 कालः क्रीडनकैरिवात्मरुचितैः प्रेङ्खोलयन्क्रीडति॥११४॥
 
+ 
+
 तत्सर्वथा क्षुद्रमण्डलान्तरप्रविष्टस्य मे जीवितमेव नास्ति। उक्तं च
 
 बहवः पण्डिताः क्षुद्राः सर्वे मायोपजीविनः।  
 कुर्युर्दोषमदोषंवा उष्ट्रे काकादयो यथा॥११५॥
+
+ 
 
 दमनक आह। कथं चैतत्। सोऽब्रवीत्।
 
@@ -1036,6 +1050,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 भिन्नस्वरमुखवर्णः शङ्कितदृष्टिः समुत्पतितदेहः।  
 भवति हि पापं कृत्वा स्वकर्मसंत्रासितः पुरुषः॥ १५७॥
 
+ 
+
 साधु चेदमुच्यते।
 
 **दुष्टबुद्धि**
@@ -1233,10 +1249,14 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 यद्येन युज्यते लोके बुधस्तत्तेन योजयेत्।  
 अहमन्नं भवान् भोक्ता कथं प्रीतिर्भविष्यति॥९॥
 
+ 
+
 वायस आह।
 
 भक्षितेनापि भवता नाहारो मम पुष्कलः।  
 त्वयि जीवति जीवेयं चित्रग्रीव इवानधः॥१०॥
+
+ 
 
 तेन हि न युक्तं प्रार्थयमाने माये भवतोऽनादरं कर्तुम्।
 
@@ -1301,6 +1321,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 गुणवन्मित्रनाशेन यन्मित्रमुपलभ्यते।  
 शालिस्तम्बविरोद्धारं श्यामाकमिव तत्त्यजेत्॥२४ ॥
 
+ 
+
 तच्च श्रुत्वा सत्वरं निर्गत्य सादरं परस्परं समागतौ।
 
 प्रीतिं निरन्तरां कृत्वा दुर्भेदां नखमांसवत्।  
@@ -1358,6 +1380,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 यस्यार्थास्तस्यमित्राणि यस्यार्थास्तस्य बान्धवाः।  
 यस्यार्थाः स पुमांल्लोकेयस्यार्थाः स च पण्डितः॥३१ ॥
 
+ 
+
 अपि च
 
 अर्थेन हि विहीनस्य पुरुषस्याल्पमेधसः।  
@@ -1399,6 +1423,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 निस्तेजाः परिभूयते परिभवान् निर्वेदमागच्छति।  
 निर्विण्णः शुचमेति शोकमनसो बुद्धिः परिभ्रश्यते  
 निर्बुद्धिः क्षयमेत्यहो निधनता सर्वापदामास्पदम्॥४०॥
+
+ 
 
 अपि च
 
@@ -1512,15 +1538,21 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 सधन इति किं मदस्ते गतविभवः किं विषादमुपयासि।  
 करनिहतकन्दुकसमाः पातोत्पाता मनुष्याणाम्॥ ६६॥
 
+ 
+
 तत्सर्वथा जलबुद्बुदा इवास्थिराणि यौवनानि धनानि च। यतः
 
 अभ्रच्छाया खलप्रीतिर्नवसस्यानि योषितः।  
 किंचित्कालोपभोग्यानि यौवनानि धनानि च॥६७॥
 
+ 
+
 तद्भद्र हिरण्यक। एवं ज्ञात्वा हृतेऽप्यर्थे त्वया संतापो न करणीयः। उक्तं च
 
 यदभावि न तद्भावि भावि यन्न तदन्यथा।  
 इति चिन्ताविषघ्नोऽयमगदः किं न पीयते॥६८॥
+
+ 
 
 तत्सर्वथा वृत्तिचिन्ताकुलतां परिभूय स्थीयताम्।
 
@@ -1569,6 +1601,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 यत्रासौ व्यसनमहोदधिः कृतान्तः।  
 रात्रौवा दिवसवरेऽपि वा समग्रे  
 योऽदृश्यःप्रहरति तस्य को विरोधी॥७८॥
+
+ 
 
 अपि च
 
@@ -1677,6 +1711,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 
 ज्यायान्न नमेदसमेऽसमोपनमनं महत्कष्टम्।  
 गर्हितमेतत् पुंसामतिनमनं साहसधनानाम्॥३॥
+
+ 
 
 अपि च
 
@@ -1812,6 +1848,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 अक्रुद्धस्य मुखं पापं क्रुद्धःकिं तु करिष्यति॥३४॥  
 स्वभावरौद्रमत्युग्रंक्षुद्रमप्रियवादिनम्।  
 उलूकमभिषिच्येम कथं रक्षा भविष्यति॥३५॥
+
+ 
 
 सोऽयं दृष्टदिग्दाहं करोत्यव्यपदेशक्षमश्च। उक्तं च
 
@@ -2268,6 +2306,8 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 मानोत्सेकपराक्रमव्यसनिनः पारं न यावद्गताः  
 सामर्पे हृदयेऽवकाशविषया तावत्कथं निर्वृतिः॥ ११२॥
 
+ 
+
 तदवसितकार्यारम्भस्य हि मे विश्राम्यतीव मनः। कथम्।
 
 विषितज्वरामिव हृदयं गात्रंलघुतरमिवावसितभारम्।  
@@ -2459,7 +2499,7 @@ by high authorities, that the original Pañcatantra was a Buddhistic work. There
 
 **इति लब्धनाशं नाम चतुर्थंतन्त्रं समाप्तम्॥**
 
-![](../books_images/U-IMG-1722495044123456.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1722495044123456.jpg"/>
 
 **अथापरीक्षितकारित्वं नाम पञ्चमं तन्त्रम्।**
 

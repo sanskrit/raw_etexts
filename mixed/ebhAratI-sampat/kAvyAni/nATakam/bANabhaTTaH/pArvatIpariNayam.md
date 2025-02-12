@@ -38,7 +38,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0Mjc0NDgyNzI
 महाकविश्रीबाणभट्टप्रणीतं
 
 **पार्वतीपरिणयम्।**  
-![](../books_images/U-IMG-1730384796Capture_2-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1730384796Capture_2-removebg-preview.png"/>
 
 **प्रथमोऽङ्कः।**
 
@@ -65,7 +65,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0Mjc0NDgyNzI
 
 ** नटी**— ^(१)अज्ज, इअह्मि।[][^1]    
 
-[^1]: "आर्य, इयमस्मि।'"
+[^1]: # "आर्य, इयमस्मि।'"
 
 ** सूत्रधारः**— आर्ये, अद्य खलु किमप्यभिनवं पार्वतीपरिणयं नाम रूपकं द्रष्टुमभिलषति परिषदेषा।
 
@@ -591,7 +591,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0Mjc0NDgyNzI
 
 **इति द्वितीयोऽङ्कः।**
 
-**![](../books_images/U-IMG-1730472126Capture_8-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730472126Capture_8-removebg-preview.png"/>**
 
 **तृतीयोऽङ्कः।**
 
@@ -1626,7 +1626,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0Mjc0NDgyNzI
 **इति श्रीबाणकविकृतंपार्वतीपरिणयं नाटकं संपूर्णम्॥**
 
 **श्लोकानुक्रमणी ।  
-![](../books_images/U-IMG-1730738639Capture13.PNG)**
+<MISSING_FIG href="../books_images/U-IMG-1730738639Capture13.PNG"/>**
 
 |                  |                     |                  |                     |
 |:----------------:|:-------------------:|:----------------:|:-------------------:|

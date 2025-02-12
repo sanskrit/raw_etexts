@@ -227,7 +227,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg5MDkyNDE4MTk
 
 इति प्रस्ताविका।
 
-![](../books_images/U-IMG-1720536634Screenshot2024-07-09202024.png)
+<MISSING_FIG href="../books_images/U-IMG-1720536634Screenshot2024-07-09202024.png"/>
 
 मित्रलाभः।
 
@@ -1375,7 +1375,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg5MDkyNDE4MTk
 
 **इति हितोपदेशे मित्रलाभो नाम प्रथमः कथासंग्रहः समाप्तः।**
 
-**![](../books_images/U-IMG-1721024198Screenshot2024-07-15114627.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1721024198Screenshot2024-07-15114627.png"/>**  
 
 सुहृद्भेदः।
 
@@ -2440,7 +2440,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg5MDkyNDE4MTk
 
 इति हितोपदेशे सुहृद्भेदो नाम द्वितीयः कथासंग्रहः समाप्तः।
 
-![](../books_images/U-IMG-1720837870Screenshot2024-07-13080054.png)
+<MISSING_FIG href="../books_images/U-IMG-1720837870Screenshot2024-07-13080054.png"/>
 
 **विग्रहः।**
 
@@ -3834,6 +3834,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg5MDkyNDE4MTk
 
 इति हितोपदेशे संधिर्नाम चतुर्थः कथासंग्रहः समाप्तः।
 
-![](../books_images/U-IMG-1720719771Screenshot2024-07-11231232.png)
+<MISSING_FIG href="../books_images/U-IMG-1720719771Screenshot2024-07-11231232.png"/>
 
 \]

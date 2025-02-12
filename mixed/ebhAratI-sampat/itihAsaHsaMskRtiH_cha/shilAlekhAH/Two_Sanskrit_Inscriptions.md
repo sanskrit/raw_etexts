@@ -585,7 +585,7 @@ E. g.  U U U U     U U I U      I I U I
 
 ** **In the eighth chapter of the *Revá-máhátmya* it is said that Tripuríkshetra, where Śiva flung down Tripura the Titan, lies to the north of the Narmadá.
 
-** **The twenty-ninth chapter of the same work somewhat discordantly relates as follows. The demon Báṇa, in reward of his austerities as a votary of Śiva, received from him the gift of a city. Brahmá and Vishṇu each adding another, he obtained the epithet of Tripura, or *Tgl-![](../../../books_images/U-IMG-1696068386Screenshot2023-09-30153604.png)*. When slain by Śiva, as he was traversing the heavens, a part of his carcass fell near the well-known mountain Śríśaila, in Siddhakshetra; another fragment, not far from Amarakaṇṭaka; and the remainder, in the vicinity of Gangáságara. The weapon, Aghorástra, with which he was demolished, reached the earth at a point of the Nerbudda hard by Jaleśwaratírtha, and sunk to Rasátala, the nethermost of the infernal stages. Where this tale is briefly rehearsed in the *Gaṇeśopapuráṇa—*prior section, chapter seventy-one-Báṇa carries off Pradyumna; whose father, Kṛishṇa, attacks the giant, and, after propitiating Ganeśa, overcomes the monster and takes possession of his city Śonitapura. The Vishnu-purána tells a very different story. See Wilson's translation, p. 596. Some ten chapters of the first half of the *Gaṇeśopapuráṇa*, beginning with the thirty-eighth, are taken up with Tripura or Bána.
+** **The twenty-ninth chapter of the same work somewhat discordantly relates as follows. The demon Báṇa, in reward of his austerities as a votary of Śiva, received from him the gift of a city. Brahmá and Vishṇu each adding another, he obtained the epithet of Tripura, or *Tgl-<MISSING_FIG href="../../../books_images/U-IMG-1696068386Screenshot2023-09-30153604.png"/>*. When slain by Śiva, as he was traversing the heavens, a part of his carcass fell near the well-known mountain Śríśaila, in Siddhakshetra; another fragment, not far from Amarakaṇṭaka; and the remainder, in the vicinity of Gangáságara. The weapon, Aghorástra, with which he was demolished, reached the earth at a point of the Nerbudda hard by Jaleśwaratírtha, and sunk to Rasátala, the nethermost of the infernal stages. Where this tale is briefly rehearsed in the *Gaṇeśopapuráṇa—*prior section, chapter seventy-one-Báṇa carries off Pradyumna; whose father, Kṛishṇa, attacks the giant, and, after propitiating Ganeśa, overcomes the monster and takes possession of his city Śonitapura. The Vishnu-purána tells a very different story. See Wilson's translation, p. 596. Some ten chapters of the first half of the *Gaṇeśopapuráṇa*, beginning with the thirty-eighth, are taken up with Tripura or Bána.
 
 ** **Parenthetically, M. Troyer is wrong in speaking of the "trois villes," named from Tripura, as being "du moderne pays de Tipparah" (*RájatarangiṇÍ*, iii. 610). It is stated, in the course of the legend above recounted from the *Revá-máhátmya*, that there is a Tripurapura in the neighborhood of Śríśaila. That the town vulgarly called Tipperah, which gives name to a district of Bengal, is more properly Tipura, by depravation of the Sanskrit Tripura, we have the high authority of Colebrooke. See his Remarks on the Husbandry and Internal Commerce of Bengal, London edition of 1806, pp. 28 and 30; and his Miscellaneous Essays, ii. 241. Some relevant but unverified assertions of Colonel Wilford will be found in the Asiatic Researches, xiv. 451. Of the situation of the third Tripura, or Tripurí, evidently the most noted of all, there can be little question. The Tripurí named in the *Haima-kośa* is explained by Professor Wilson, in his Sanskrit Dictionary, as being "the modern Tipperah." But the *Haima-kośa*, in my manuscript copy of the text and commentary, gives, as another designation of Tripurí, चेदिनगरि; which, in the Calcutta impression, is corrupted to वेदिनगरि. I have not access to the English or other new reprint of this vocabulary. Professor Wilson also inadvertently gives त्रैपुर, the adjective of त्रिपुरी, as an equivalent substantive.
 
@@ -784,9 +784,9 @@ assigned etymology.
 
 ** 9**. Thus I translate रप, a substantive of very rare occurrence, I am told.❋[^13]
 
-** **Saraswatí is the patroness of letters and of eloquence. The inscriptionist is celebrating the seductiveness of artful rhetoric.
-
 [^13]: " See our additional note, at the end of this article. COMM. OF PUBL."
+
+** **Saraswatí is the patroness of letters and of eloquence. The inscriptionist is celebrating the seductiveness of artful rhetoric.
 
 ** 10**. On the word गोत्र, which is used here, and elsewhere in the record before us, I have remarked at length, as also on प्रवर, in a foot-note to p. 232 of the Journal of the Asiatic Society of Bengal, for 1858.
 
@@ -1005,6 +1005,7 @@ For my former decipherment of the third stanza I substitute, with confidence :
 
   After incising वेम्बुजाम्बु—which makes sense, but militates against the metre—the engraver half deleted the first म्ब. It could scarcely have been part of his original.
 
+ 
 Limbáryá,❋[^14] not Liswáyá, is the name of the lady spoken of in the prose.
 
 [^14]: "Or Lítswáryá, as it also admits of being read; the characters of this inscription are cut in such fashion that, where no aid is to be derived from the sense, some readings must remain uncertain.-COMM. OF PUBL."
@@ -1016,10 +1017,10 @@ Limbáryá,❋[^14] not Liswáyá, is the name of the lady spoken of in the pros
  तदा, in the eighth stanza, is my own, I find; and yet right, I suspect, as against the word exhibited,सदा. It will be seen that, to avoid something worse than a vain repetition, my conjecture was not ill advised.
 
  The last verse of the inscription has प्रशस्तैयं. By deducting a stroke, so as to bring out प्रशस्तेयं, the text is healed; but only provided that प्रशस्ता is permissible in lieu प्रशस्ति; and this is exceedingly doubtful.To repeat what I have remarked elsewhere, the Sanskrit of this inscription is of very questionable purity.     
+ 
 
 Troy, N. Y., April 3rd, 1860.                    
                                    
                               F. E. H.
 
 \]
-

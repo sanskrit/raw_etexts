@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzMzA1NzYxODY
 
 **माधवचम्पूकाव्यम्।**
 
-**![](../books_images/U-IMG-1720257984Capture6.JPG)**  
+**<MISSING_FIG href="../books_images/U-IMG-1720257984Capture6.JPG"/>**  
 **प्रथमोच्छ्वासः।**
 
 **तमोगणविनाशिनी सकलकालमुद्योतिनी  
@@ -1184,7 +1184,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEzMzA1NzYxODY
 
 इति श्रीचिरञ्जीवभट्टाचार्य्य-कृतमाधवचम्पू- चतुर्थोच्छासः।
 
-![](../books_images/U-IMG-1720502730Screenshot2024-07-09105437.png)
+<MISSING_FIG href="../books_images/U-IMG-1720502730Screenshot2024-07-09105437.png"/>
 
 **पञ्चमोच्छ्वासः।**
 

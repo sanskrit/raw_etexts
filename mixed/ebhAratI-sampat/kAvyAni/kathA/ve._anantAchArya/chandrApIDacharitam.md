@@ -300,7 +300,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3NzU5Njk4OTc
 
 **चन्द्रापीडचरितं संपूर्णम्**
 
-**![](../books_images/U-IMG-1722805956Screenshot2024-08-05024209.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722805956Screenshot2024-08-05024209.png"/>**
 
 **GLOSSARY**
 

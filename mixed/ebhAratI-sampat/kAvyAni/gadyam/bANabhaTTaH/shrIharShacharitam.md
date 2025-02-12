@@ -26,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTU
 सींख (करनाल)  
 ब्रांच—लाहोर।
 
-![](../books_images/U-IMG-172509880458.png)
+<MISSING_FIG href="../books_images/U-IMG-172509880458.png"/>
 
 मुद्रक—  
 **सरदारीलाल शारदा**  
@@ -35,7 +35,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTU
 
 **ऊँ**
 
-**![](../books_images/U-IMG-1727456768Screenshot2024-09-27223551.png)नम्रनिवेदनम्‌![](../books_images/U-IMG-1727456791Screenshot2024-09-27223551.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1727456768Screenshot2024-09-27223551.png"/>नम्रनिवेदनम्‌<MISSING_FIG href="../books_images/U-IMG-1727456791Screenshot2024-09-27223551.png"/>**
 
 श्रीमाननीयाः?विद्वान्सः—  
 
@@ -132,7 +132,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTU
 
 **रामस्वरूपः**
 
-![](../books_images/U-IMG-172512642555.png)
+<MISSING_FIG href="../books_images/U-IMG-172512642555.png"/>
 
 **श्रीहर्षचरितम्**
 
@@ -140,14 +140,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTU
 
 **प्रथमः उच्छ्वासः**
 
-**![](../books_images/U-IMG-17251265032.png)**
+**<MISSING_FIG href="../books_images/U-IMG-17251265032.png"/>**
 
 **चतुर्मुख[^1] मुखाम्भोज वनहंसवधूर्मम्।  
 मानसे रमतां नित्यं सर्वशुक्लासरस्वती॥१॥**
 
 [^1]: "पद्यमिदं हलायुध वृत्तिकारेणमहाकविदण्डिना स्वसंदर्भकाव्यादर्शे अलेखि, केषुचिद–हर्षचरित पुस्तकेषु लभ्यते,न सर्वत्र।"
 
-**![](../books_images/U-IMG-172512698656.png)आशुतोषिणी![](../books_images/U-IMG-172512698656.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172512698656.png"/>आशुतोषिणी<MISSING_FIG href="../books_images/U-IMG-172512698656.png"/>**
 
 **वृन्दारकैर्वन्दितपादपीठो गौर्येकदन्ताग्निभवैरूपेतः।  
 सदाशुतोषः करुणापयोधिश्शिवंप्रतन्याद्गिरिजापतिर्नः॥**
@@ -868,9 +868,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTU
 इति श्रीबाणभट्टकृत हर्षचरित व्याख्यायां  
 आशुतोषणयां प्रथम-उच्छवासः।
 
-![](../books_images/U-IMG-1725595201Screenshot2024-09-06092936.png)
+<MISSING_FIG href="../books_images/U-IMG-1725595201Screenshot2024-09-06092936.png"/>
 
-![](../books_images/U-IMG-1725595298Screenshot2024-09-06093112.png)
+<MISSING_FIG href="../books_images/U-IMG-1725595298Screenshot2024-09-06093112.png"/>
 
 **         श्री कृष्णा जी**
 
@@ -1429,9 +1429,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTU
 इति श्रीबाणभट्टकृत हर्षचरित व्याख्यायां  
 "आशुतोषिण्यां" द्वितीय उच्छ्वासः।
 
-![](../books_images/U-IMG-17272676631.png)
+<MISSING_FIG href="../books_images/U-IMG-17272676631.png"/>
 
-**![](../books_images/U-IMG-17272681851.png)** **श्रीहर्षचरितम्![](../books_images/U-IMG-17272681851.png)  
+**<MISSING_FIG href="../books_images/U-IMG-17272681851.png"/>** **श्रीहर्षचरितम्<MISSING_FIG href="../books_images/U-IMG-17272681851.png"/>  
 तृतीय उच्छ्वासः**
 
 **निजवर्षाहितस्नेहा बहुभक्तजनान्विताः।  
@@ -2007,7 +2007,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTU
 **इति श्रीबाणभट्टकृतहर्षचरितव्याख्यायां "आशुतोषिण्यां"  
 तृतीय उच्छ्वासः।**
 
-![](../books_images/U-IMG-1729528479Screenshot2024-10-21100405.png)
+<MISSING_FIG href="../books_images/U-IMG-1729528479Screenshot2024-10-21100405.png"/>
 
 **श्रीहर्षचरितम्।**
 
@@ -2489,7 +2489,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMjE0NDc4NTU
 इति श्रीबाणभट्टकृतहर्षचरितव्याख्यायां "आशुतोषिण्यां"  
 चतुर्थ उच्छ्वासः।
 
-![](../books_images/U-IMG-173026821075.png)
+<MISSING_FIG href="../books_images/U-IMG-173026821075.png"/>
 
 \]
-

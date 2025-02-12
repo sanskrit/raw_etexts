@@ -17,6 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxODg1NDQwMjg
 \[
 
 *Sri Balamanorama Series No. 16*                   
+              
 
 ॥ श्रीः॥
 
@@ -47,6 +48,8 @@ All rights reserved by the Publisher.
 1932
 
 [TABLE]
+
+    
 
 First Edition 1931  
 Second Edition 1932
@@ -460,7 +463,7 @@ Mylapore. Madras.
 कृतौ दशकुमारचरितपूर्वपीठिकाव्याख्यायां  
 विषमपददीपिकाख्यायां तृतीय उच्छ्वासः॥
 
-![](../books_images/U-IMG-172275577643.png)
+<MISSING_FIG href="../books_images/U-IMG-172275577643.png"/>
 
 DAŚAKUMĀRACHARITA  
 
@@ -668,7 +671,7 @@ forehead, spoke with modesty.
 
 * The End of the Third Ucchvāsa known as 'The Story of Somadatta'in Daśakumāracharita, the work of Daṇḍin.*
 
-*![](../books_images/U-IMG-172295613943.png)*
+*<MISSING_FIG href="../books_images/U-IMG-172295613943.png"/>*
 
 NOTES
 

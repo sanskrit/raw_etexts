@@ -26,7 +26,7 @@ PROFESSOR E. H. JOHNSTON'S sudden death in October, 1942, was a grievous blow to
 
   "The coinage I am still in difficulty about. The typical Candra coinage is certainly connected with Vengi, and it is the earlier conch-shell and *vardhamāna* coins that beat me. The two I put at the head of the photograph are certainly the original design, but the actual specimens may be much later. The type seems to occur all over Burma and even in Siam, and it seems, from Sir R. Temple, in the *Indian Antiquary* for 1927 and 1928, that similar coins were struck in Calcutta for a king of Burma some time before 1823; but I have not checked his references yet. Do you know a pamphlet he refers to by Captain C. H. White, printed at Akyab in 1892, 'Notes and References to a Selection
 
-![](../../../books_images/U-IMG-1695878886Untitled3.jpg)
+<MISSING_FIG href="../../../books_images/U-IMG-1695878886Untitled3.jpg"/>
 
 of Symbolical and Historical Coins of Arakan'? Temple says it is in the India Office, but probably it is quite ungetatable at present. What I have written about these coins wants much reconsideration. I have got evidence from Madras of the association of the v*ardhamāna* and conch-shell with Lakṣmi, unfortunately only about the ninth century A.D."
 
@@ -44,11 +44,11 @@ PART I. THE INSCRIPTIONS
 
  (1) A votive inscription in two lines on a monastery bell found at Vesālī near Mrohaung (Plate IV, 1); for establishing the reading of certain doubtful characters use has been made of photographs supplied by the Superintendent of the Archaeological Survey, Burma. The bell has been damaged in two places, so that the name of the donor is illegible and one other character is destroyed.
 
-![](../../../books_images/U-IMG-1696070851Screenshot2023-09-30161721.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1696070851Screenshot2023-09-30161721.png"/>
 
-![](../../../books_images/U-IMG-1695630940Screenshot2023-09-25140407.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1695630940Screenshot2023-09-25140407.png"/>
 
-![](../../../books_images/U-IMG-1696070924Screenshot2023-09-30161833.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1696070924Screenshot2023-09-30161833.png"/>
 
 It is said to be now at Akyab in the charge of the Honorary Archæological Officer.
 
@@ -349,6 +349,7 @@ Candrabhiramayasasām[^46]iha Candranāmnām \।
 
 42. Īśānvayaḥ samabhavad vijitārivargaḥ
 
+  
 Śaktitrayapra\<ṇa[^59]\>-(40)yalabdhamahāpratāpaḥ\।  
    Yo Vajraśaktisutavīranarendracandraḥ  
   
@@ -473,9 +474,9 @@ Bhūpena netrojvalacīvarāṇi\।
 
 Bhikṣvāryasaṁghasya hi nā\[y\]itāni[^84]
 
-Deśe Sila-(64)meghanarādhipasya\।\।
-
 [^84]: " I do not know if hastinikāis to be taken literally. In b read netrojjvala. Näyitäni in c is odd, and däpitäni would be better."
+
+Deśe Sila-(64)meghanarādhipasya\।\।
 
 67.Read tīrthikāḥ in b. \[Tīrthikāḥ can only mean "heretics". Probably the poet meant to write tīrthakāḥ, in the sense of tirthāḥ.\]
 
@@ -537,9 +538,9 @@ hen Queen Kūverāmi (? Kūverā), \[practising?\] bounty and good deeds, for 7 
 
   2. cāryyopādhyāyānāṁ sarvvasatvānāñ ca anuttarajñānāvāptaye ti[^92]
 
-* \[Translation*.— This is a pious offering of the Buddhist friar...May the merit that is therein be for the gaining of supreme knowledge by teachers, tutors, and all beings, in company with \[his\] mother and father."\]
-
 [^92]: "[The letter before ti is certainly i, though of an unusual type, resembling a u. A similar letter occurs in Inscr. C below, line 4.]"
+
+* \[Translation*.— This is a pious offering of the Buddhist friar...May the merit that is therein be for the gaining of supreme knowledge by teachers, tutors, and all beings, in company with \[his\] mother and father."\]
 
 *C. Inscription on Stone from Sandoway *
 
@@ -572,9 +573,9 @@ dharmma hetuprabhava hetu
 
   As regards the origin of this coins present any analogy with it. coinage, it is remarkable how few Indian One might compare the reverse of No. 5
 
-![](../../../books_images/U-IMG-1695631393Screenshot2023-09-25141213.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1695631393Screenshot2023-09-25141213.png"/>
 
-![](../../../books_images/U-IMG-1695631452Screenshot2023-09-25141304.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1695631452Screenshot2023-09-25141304.png"/>
 
 with the appearance of a similar symbol on the Kulūta coin of Vīrayaśas, reproduced on Pl. XVI, 4, of Allan, British Museum Catalogue, *Coins of Ancient India;* but if the latter is rightly assigned to the first century A.D. there is a gap of some three centuries between them. The recumbent bull, presumably a Śaivite emblem, is also rare on Indian coins; of early ones I can only quote the Mālava coins, particularly V. A. Smith, *Catalogue of Coins in the Indian Museum, Calcutta*, i, Pl. XX, 18, while those of *Saśanka* (ibid., Pl. XVI, 12, and Allan, B.M. Cat., *Coins of the Gupta Dynasty,* Pl. XXIII, 14, 15, 16, and Pl. XXIV, 1) are much too late.
 
@@ -603,4 +604,3 @@ No. 5. Deva. Earliest coin with the bull on obverse.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \]
-

@@ -738,7 +738,7 @@ be cleared. The curtain is thrown off at the bidding of the king. Yaugandharāya
 ॥श्रीः॥
 
 ॥स्वप्नवासवदत्तम्॥  
-![](../books_images/U-IMG-1724348914Screenshot(70).png)
+<MISSING_FIG href="../books_images/U-IMG-1724348914Screenshot(70"/>.png)
 
 प्रथमोऽङ्कः।
 
@@ -815,7 +815,7 @@ PROLOGUE.
 र्मानार्हस्य जनस्य वल्कलवतस्त्रासः समुत्पाद्यते।  
 
 उत्सिक्तोविनयोदपेतपुरुषोभाग्यश्चलैर्विस्मितः  
-कोऽयंभोनिभृतं तपोवनमिदं ग्रामीकरोत्याज्ञया॥३॥![](file:///C:\Users\dasarath\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif)
+कोऽयंभोनिभृतं तपोवनमिदं ग्रामीकरोत्याज्ञया॥३॥<MISSING_FIG href="file:///C:\Users\dasarath\AppData\Local\Temp\msohtmlclip1\01\clip_image002.gif"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1073,8 +1073,10 @@ and pressed to receive gifts after their own liking, each one what he wishes.
 **यौगन्धरायणः—**इयं मे स्वसा। प्रोषितभर्तृकामिमामिच्छाम्यत्रभवत्या कंचित्कालं परिपाल्यमानाम्। कुतः,
 
 कार्यं नैवार्थैर्नापि भोगैर्न वस्त्रै–                
+             
 
 र्नाहकाषायं वृत्तिहेतोः प्रपन्नः।                  
+        
 
   
 
@@ -1563,7 +1565,7 @@ chatted with her. Here I spent the day with her. Here I grew wild with her. Here
 
 **प्रथमोऽङ्कः।**
 
-**![](../books_images/U-IMG-1724141590Screenshot2024-08-20134218.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724141590Screenshot2024-08-20134218.png"/>**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2121,7 +2123,7 @@ down. (Sitting) Happy is the she-Cakravāka; separated from her mate, she ceases
 
 **तृतीयोऽङ्कः।**
 
-**![](../books_images/U-IMG-1724079701Screenshot2024-08-19203058.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724079701Screenshot2024-08-19203058.png"/>**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3081,6 +3083,8 @@ go near.
 **—————————————————————————————————————————————————————————**
 
 **Vās.** Friend, do.\[So saying, Exit
+
+ 
 
 (Entering)
 
@@ -4706,7 +4710,7 @@ your idea in keeping out the queen?
 
 End of the Sixth Act.
 
-![](../books_images/U-IMG-17243449772208-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-17243449772208-removebg-preview.png"/>
 
 NOTES ON
 
@@ -4769,6 +4773,7 @@ present of श्रु to hear.In the Active voice it willbe **शृणोत�
 कुशीलवकुटुम्बस्य स्थानं यदतिशोभनम्।  
 वर्णिकाग्रहणस्थानंनेपथ्यमिति तद्विदुः॥
 
+  
 **उत्सरत**etc. This statement is made in Prākṛt.Prākṛt is generally used in Sanskrit dramas bythe female and inferior characters. It will be knownshortly that the statement is made by two soldiersof the body-guard of the princess.**उत्सरत** Imperative mood,. 2nd person plural of सृ with **उद्. उत्सरत**means ‘be off.’The direction to move off is given,because the princess is coming. The repetition ofthe word **उत्सरत**denotes the hurry with which thepeople are asked to clear out. **आर्याः** Vocative plural.**भवतु.** The Imperative mood is here used to signifythe propriety of time. **प्राप्तकाले लोट्.**Vide Pāṇini :—
 
 **प्रैषातिसर्गप्राप्तकालेषु कृत्याश्च.** The voice heard from behindthe scenes is made at a proper hour. It is in keeping with the intention which the Sūtradhāra himself was about to announce **विज्ञातं** It is known.
@@ -5405,7 +5410,7 @@ PROSODY
 
 syllables, and all दीर्घ or long vowels go to make up गुरुor long syllables. All short vowels followed by a conjunct consonant, Anusvāra or Visarga or at the end of a pāda are deemed to be long.
 
-![](../books_images/U-IMG-1724151730Screenshot2024-08-20163124.png)
+<MISSING_FIG href="../books_images/U-IMG-1724151730Screenshot2024-08-20163124.png"/>
 
  A Padya or Śloka may be either a वृत्त or जाति. Vṛtta is entirely regulated by Gaṇas or the trisyllabic combinations mentioned above. Jāti is regulated by the number of syllabic instants in each quarter.
 

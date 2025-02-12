@@ -55,14 +55,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 
 **मुम्बई–स्थः।**
 
-**![](../books_images/U-IMG-1720889343Screenshot90.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720889343Screenshot90.png"/>**
 
 **——————**
 
 **श्रीः॥**
 
 **हितोपदेशः।**  
-![](../books_images/U-IMG-1720886268Screenshot6.png)
+<MISSING_FIG href="../books_images/U-IMG-1720886268Screenshot6.png"/>
 
 **मङ्गलाचरणम्।**
 
@@ -70,7 +70,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 जाह्नवीकेनलेखेव यन्मूर्ध्नि शशिनः कला॥१॥**
 
 **प्रस्ताविका।**  
-![](../books_images/U-IMG-1720884996Screenshot९०.png)
+<MISSING_FIG href="../books_images/U-IMG-1720884996Screenshot९०.png"/>
 
 श्रुतो हितोपदेशोऽयं पाटवं संस्कृतोक्तिषु।  
 वाचां सर्वत्र वैचित्र्यं नीतिविद्यां ददाति च॥२॥
@@ -176,6 +176,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 **धर्मार्थकाममोक्षाणां यस्यैकोऽपि न विद्यते।  
 अजागलस्तनस्येव तस्य जन्म निरर्थकम्॥२६॥**
 
+ 
+
 अत्रोच्यते–
 
 आयुः कर्म च वित्तं च विद्या निधनमेव च।  
@@ -195,6 +197,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 
 न दैवमपि संचिन्त्य त्यजेदुद्योगमात्मनः।  
 अनुद्योगेन तैलानि तिलेभ्यो नाप्तुमर्हति॥३०॥
+
+ 
 
 अन्यच्च–
 
@@ -216,6 +220,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 यथा मृत्पिण्डतः कर्ता कुरुते यद्यदिच्छति।  
 एवमात्मकृतं कर्म मानवः प्रतिपद्यते॥३४॥
 
+ 
+
 अन्यच्च–
 
 **काकतालीयवत्प्राप्तं दृष्ट्वापि निधिमग्रतः।  
@@ -225,6 +231,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 न हि सुप्तस्य सिंहस्य प्रविशन्ति मुखे मृगाः॥३६॥  
 मातृपितृकृताभ्यासो गुणितामेति बालकः।  
 न गर्भच्युतिमात्रेण पुत्रो भवति पण्डितः॥३७॥
+
+ 
 
 तथा च–
 
@@ -251,6 +259,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 
 नाद्रव्ये निहिता काचित्क्रिया फलवती भवेत्।  
 न व्यापारशतेनापि शुकवत्पाठ्यते बकः॥४३॥
+
+ 
 
 अन्यच्च–
 
@@ -287,11 +297,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 
 इति कथारम्भ समाप्त।
 
-![](../books_images/U-IMG-1721043834Screenshot२३.png) 
+<MISSING_FIG href="../books_images/U-IMG-1721043834Screenshot२३.png"/> 
 
 मित्रलाभः।
 
-![](../books_images/U-IMG-1721044057Screenshot24.png)
+<MISSING_FIG href="../books_images/U-IMG-1721044057Screenshot24.png"/>
 
  विष्णुशर्मोवाच– शृणुत। संप्रति मित्रलाभःप्रस्तूयते यस्यायमाद्यश्लोक–
 
@@ -306,6 +316,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 
 शोकस्थानसहस्राणि भयस्थानशतानि च।  
 दिवसेदिवसे मूढमाविशन्ति न पण्डितम्॥२॥
+
+ 
 
 अन्यच्च, विषयिणामिदमवश्यं कर्तव्यम्–
 
@@ -674,10 +686,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 उत्तमस्यापि वर्णस्य नीचोऽपि गृहमागतः।  
 पूजनीयो यथायोग्यं सर्वदेवमयोऽतिथिः॥६५॥
 
+ 
+
 गृध्रोऽवदत्–'मार्जारो हि मांसरुचि, पक्षिशावकाश्चात्र निवसन्ति, तेनाहमेवं ब्रवीमि।’ तच्छ्रुत्वा मार्जारो भूमिं स्पृष्ट्वा कर्णौ स्पृशति, ब्रूते च–‘मयाधर्मशास्त्र श्रुत्वा वीतरागेणेद दुष्करं व्रत चान्द्रायणमव्यवसितम्। परस्परं विवदमानानामपि धर्मशास्त्राणाम् ‘अहिंसा परमो धर्म’इत्यत्रैकमत्यम्। यत–
 
 **सर्वहिंसानिवृत्ता ये नराः सर्वंसहाश्च ये।  
 सर्वस्याश्रयभूताश्च ते नराः स्वर्गगामिनः॥६६॥**
+
+ 
 
 अन्यच्च–
 
@@ -1260,6 +1276,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 **अचिन्तितानि दुःखानि यथैवायान्ति देहिनाम्।  
 सुखान्यपि तथा मन्ये दैवमत्रातिरिच्यते॥१७६॥**
 
+ 
+
 तद्भवतु, तेषा मासैर्मासत्रय मे सुखेन गमिष्यति–
 
 **मासमेकं नरो याति द्वौ मासौ मृगसूकरौ।  
@@ -1415,6 +1433,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 अम्भांसि जलजन्तूनां दुर्गंदुर्गनिवासिनाम्।  
 स्वभूमिः श्वापदादीनां राज्ञां सैन्यं परं बलम्॥२०५॥
 
+ 
+
 सखे लघुपतनक! अनेनोपदेशेन तथा भवितव्यम्–
 
 **स्वयं वीक्ष्य यथा वध्वाः पीडितं कुचकुड्मलम्।  
@@ -1430,6 +1450,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 लज्जांतावद्विधत्ते विनयमपि समालम्बते तावदेव।  
 भ्रूचापाकृष्टमुक्ताः श्रवणपथगता नीलपक्ष्माण एते  
 यावल्लीलावतीनां न हृदि धृतिमुषो दृष्टिबाणाः पतन्ति॥२०॥**
+
+ 
 
 सापि लावण्यवती तदवलोकनक्षणात्प्रभृति स्मरशरप्रहारजर्जरितहृदया तदेकचित्ताऽभवत्। तथा ह्युक्तम्–
 
@@ -1552,12 +1574,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 
 **इति विष्णुशर्म संगृहीते हितोपदेशेमित्रलाभः प्रथमः॥१॥    **
 
-**    ![](../books_images/U-IMG-1720895746screenshot222.png)**
+**    <MISSING_FIG href="../books_images/U-IMG-1720895746screenshot222.png"/>**
 
-![](../books_images/U-IMG-1720895397Screenshot१२३.png)
+<MISSING_FIG href="../books_images/U-IMG-1720895397Screenshot१२३.png"/>
 
 **सुहृद्भेदः।**  
-![](../books_images/U-IMG-1720895974Screenshot333.png)
+<MISSING_FIG href="../books_images/U-IMG-1720895974Screenshot333.png"/>
 
  अथ राजपुत्रा ऊचुः– ‘आर्य! मित्रलाभः श्रुतस्तावदस्माभिः। इदानींसुहृद्भेद श्रोतुमिच्छाम।’विष्णुशर्मोवाच– ‘सुहृद्भेदं तावच्छृणुत, यस्यायमाद्य श्लोकः–
 
@@ -1717,6 +1739,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
  दमनकः पृच्छति–‘कथमेतत्’? करटको ब्रूते–
 
 कथा २.
+
+ 
 
 ‘अस्ति वाराणस्यां कर्पूरपटो नाम रजकः। स चैकदाभिनववयस्कया वध्वासह चिरं निधुवन कृत्वा निर्भरमालिङ्गय प्रसुप्त। तदनन्तरं तद्गृहद्रव्याणि हर्तुं चौरःप्रविष्टः। तस्य प्राङ्गणे **गर्दभो** बद्धस्तिष्टति, **कुक्कुर**श्चोपविष्टोऽस्ति। अथ गर्दभ श्वानमाह– ‘सखे!भवतस्तावदय व्यापार, तत्किमिति त्वमुच्चैः शब्दं कृत्वा स्वामिन न जागरयसि?’कुक्कुरो ब्रूते– ‘भद्र! मम नियोगस्य
 
@@ -2671,7 +2695,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 
 विग्रहः ।
 
-![](../books_images/U-IMG-172113925182.jpg)
+<MISSING_FIG href="../books_images/U-IMG-172113925182.jpg"/>
 
  पुनः कथारम्भकाले राजपुत्रा ऊचुः — 'आर्य! राजपुत्राः वयम् — तद्विग्रहंश्रोतुं न कुतूहलमस्ति'। विष्णुशर्मणोक्तम् — 'यदेव भवद्भ्यो रोचते कथयामि।विग्रहं श्रूयताम्। यस्यायमाद्य श्लोकः —
 
@@ -3488,10 +3512,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
 
 इति श्रीविष्णुशर्मकृते हितोपदेशे विग्रहस्तृतीयः॥३॥
 
-![](../books_images/U-IMG-1721832758109.png)
+<MISSING_FIG href="../books_images/U-IMG-1721832758109.png"/>
 
 सन्धिः।  
-![](../books_images/U-IMG-1721838934110.png)
+<MISSING_FIG href="../books_images/U-IMG-1721838934110.png"/>
 
  पुनः कथारम्भकाले राजपुत्रैरुक्तम् — 'आर्य! विग्रह श्रुतोऽस्माभिः। सन्धिरधुनाभिधीयताम्'। विष्णुशर्मणोक्तम् — 'श्रूयताम्। सन्धिमपि कथयामि। यस्यायमाद्य श्लोकः —
 
@@ -4140,9 +4164,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3ODAxNDAxNTM
  इति विष्णुशर्मविरचिते हितोपदेशे सन्धिश्चतुर्थः॥४॥
 
 समाप्तोऽयं हितोपदेशः॥  
-![](../books_images/U-IMG-1722002320Line.png)
+<MISSING_FIG href="../books_images/U-IMG-1722002320Line.png"/>
 
-![](../books_images/U-IMG-1722002372Flower.png)
+<MISSING_FIG href="../books_images/U-IMG-1722002372Flower.png"/>
 
 **पुस्तक मिलने का ठिकाना —**
 

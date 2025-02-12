@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NTM4MDI3NjI
 
 **पञ्चतन्त्रकम् ।**
 
-![](../books_images/U-IMG-1721021864Screenshot2024-07-15110639.png)  
+<MISSING_FIG href="../books_images/U-IMG-1721021864Screenshot2024-07-15110639.png"/>  
 
 कथामुखम् ।
 
@@ -73,7 +73,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NTM4MDI3NjI
 
 **मित्रभेदः ।**
 
-![](../books_images/U-IMG-1721025065Screenshot2024-07-15120040.png)
+<MISSING_FIG href="../books_images/U-IMG-1721025065Screenshot2024-07-15120040.png"/>
 
  अथातः प्रारभ्यते मित्रभेदो नाम प्रथमं तन्त्रम्। यस्यायमादिमः श्लोकः—
 
@@ -2356,7 +2356,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NTM4MDI3NjI
 
 **मित्रसंप्राप्तिः।**
 
-**![](../books_images/U-IMG-1721228140Screenshot2024-07-17202525.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721228140Screenshot2024-07-17202525.png"/>**
 
  अथेदमारभ्यते मित्रसंप्राप्तिर्नाम द्वितीयं तन्त्रम्। यस्यायमाद्यः श्लोकः—
 
@@ -3785,6 +3785,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg3NTM4MDI3NjI
 
 **क्षुद्रमर्थपतिं प्राप्य न्यायान्वेषणतत्परौ।  
 उभावपि क्षयं प्राप्तौ पुरा शशकपिञ्जली'॥८९॥**
+
+ 
 
 ते प्रोचुः - 'कथमेतत्।' स आह–
 

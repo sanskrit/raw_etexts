@@ -242,7 +242,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  मकर आह। कथमेतत्। स आह।
 
-![](../books_images/U-IMG-1722966411Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966411Annotation2024-08-06205418.png"/>
 
 **कथा ३.**
 
@@ -251,7 +251,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 **शूरश्च कृतविद्यश्व दर्शनीयोसि पुत्रक।  
 यस्मिन्कुले त्वमुत्पन्नो गजस्तत्र न हन्यते॥३८॥**
 
-![](../books_images/U-IMG-1722966393Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966393Annotation2024-08-06205418.png"/>
 
 **कथा ४.**
 
@@ -294,7 +294,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  मकर आह। कथमेतत्। स आह।
 
-![](../books_images/U-IMG-1722966324Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966324Annotation2024-08-06205418.png"/>
 
 **कथा ५.**
 
@@ -307,7 +307,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  तत्किं श्यामलकवदत्यपमानसहनादर्धचन्द्रदानेन यास्यसि। मकर आह। कथमेतत्। स प्राह।
 
-![](../books_images/U-IMG-1722966345Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966345Annotation2024-08-06205418.png"/>
 
 **कथा ६.**
 
@@ -323,7 +323,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  मकर आह। कथमेतत्। स आह।
 
-![](../books_images/U-IMG-1722966301Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966301Annotation2024-08-06205418.png"/>
 
 **कथा ७.**
 
@@ -371,7 +371,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  मकर आह। कथमेतत्। सोऽब्रवीत्।
 
-![](../books_images/U-IMG-1722966275Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966275Annotation2024-08-06205418.png"/>
 
 **कथा ८.**
 
@@ -403,7 +403,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  शालङ्कायन आह। कथमेतत्। श्येन आह।
 
-![](../books_images/U-IMG-1722966256Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966256Annotation2024-08-06205418.png"/>
 
 **कथा ९.**
 
@@ -477,7 +477,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  मकर आह। कथमेतत्। सोऽब्रवीत्।
 
-![](../books_images/U-IMG-1722966221Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966221Annotation2024-08-06205418.png"/>
 
 **कथा १०.**
 
@@ -553,7 +553,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  वानर आह। कथमेतत्। सोब्रवीत्।
 
-![](../books_images/U-IMG-1722966199Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966199Annotation2024-08-06205418.png"/>
 
 **कथा ११.**
 
@@ -613,7 +613,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  मकर आह। कथमेतत्। सोऽब्रवीत्।
 
-![](../books_images/U-IMG-1722966164Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966164Annotation2024-08-06205418.png"/>
 
 **कथा १३.**
 
@@ -630,7 +630,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  मकर आह। कथमेतत्। सोऽब्रवीत्।
 
-![](../books_images/U-IMG-1722966123Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966123Annotation2024-08-06205418.png"/>
 
 **कथा १४.**
 
@@ -662,7 +662,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  मकर आह। कथमेतत्। सोऽब्रवीत्।
 
-![](../books_images/U-IMG-1722966105Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966105Annotation2024-08-06205418.png"/>
 
 **कथा १५.**
 
@@ -757,7 +757,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  मणिभद्र आह। कथमेतत्। ते धर्माधिकारिणः प्रोचुः।
 
-![](../books_images/U-IMG-1722966053Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722966053Annotation2024-08-06205418.png"/>
 
 **कथा २.**
 
@@ -851,7 +851,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  चक्रधर आह। कथमेतत्। सुर्वणसिद्धिराह।
 
-![](#)![](../books_images/U-IMG-1722966017Annotation2024-08-06205418.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1722966017Annotation2024-08-06205418.png"/>
 
 **कथा ४.**
 
@@ -877,7 +877,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  चक्रधर आह। कथमेतत्। सोऽब्रवीत्।
 
-![](../books_images/U-IMG-1722965976Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722965976Annotation2024-08-06205418.png"/>
 
 **कथा ५.**
 
@@ -908,7 +908,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  सुवर्णसिद्धिराह। कथमेतत्। स आह।
 
-![](#)![](../books_images/U-IMG-1722965952Annotation2024-08-06205418.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1722965952Annotation2024-08-06205418.png"/>
 
 **कथा ६.**
 
@@ -987,7 +987,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  सुवर्णसिद्धिराह। कथमेतत्। सोब्रवीत्।
 
-![](../books_images/U-IMG-1722965900Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722965900Annotation2024-08-06205418.png"/>
 
 **कथा ८.**
 
@@ -1042,7 +1042,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  सुवर्णसिद्धिराह। कथमेतत्। सोत्रवीत्।
 
-![](../books_images/U-IMG-1722965869Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722965869Annotation2024-08-06205418.png"/>
 
 **कथा ९.**
 
@@ -1058,7 +1058,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  चक्रधर आह। कथमेतत्। स आह।
 
-![](../books_images/U-IMG-1722965846Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722965846Annotation2024-08-06205418.png"/>
 
 **कथा १०.**
 
@@ -1135,7 +1135,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  चक्रधर आह। कथमेतत्। सोऽब्रवीत्।
 
-![](../books_images/U-IMG-1722965810Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722965810Annotation2024-08-06205418.png"/>
 
 **कथा ११.**
 
@@ -1172,7 +1172,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  राजाह। कथमेतत्। ते प्रोचुः।
 
-![](#)![](../books_images/U-IMG-1722965785Annotation2024-08-06205418.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1722965785Annotation2024-08-06205418.png"/>
 
 **कथा १३.**
 
@@ -1218,7 +1218,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
  चक्रधर आह। कथमेतत्। सोऽब्रवीत्।
 
-![](../books_images/U-IMG-1722965723Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722965723Annotation2024-08-06205418.png"/>
 
 **कथा १४.**
 
@@ -1257,7 +1257,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0Njk4MDU3ODU
 
 ॥एवं पञ्चतन्त्रकं नाम नीतिशास्त्रं समाप्तम्॥
 
-![](../books_images/U-IMG-1722965680Annotation2024-08-06205418.png)
+<MISSING_FIG href="../books_images/U-IMG-1722965680Annotation2024-08-06205418.png"/>
 
 **NOTES TO PANCHATANTRA IV. AND V.**
 

@@ -137,7 +137,7 @@ of the inscriptions. For these Chinese sources we are indebted to M. Rémusat (N
 
 |                                               |
 |:---------------------------------------------:|
-| ![](../books_images/U-IMG-17358844140102.png) |
+| <MISSING_FIG href="../books_images/U-IMG-17358844140102.png"/> |
 
 **BUDDHA SEATED ON THE COILS OF NÀGA**
 
@@ -167,9 +167,9 @@ century, mentions the following local tradition of Funan as regards the origin o
 
 658 A. D., relating to the foundation of Bhavapura—the capital of Kambuja. "It was there that Kaundinya, the greatest of the Brahmans, planted the javelin which he hadreceived from Açvatthâman, the son of Drona. There was a daughter of the Nâga king of the name of Somâ who founded a royal race on this earth. The great Brahman Kaundinya married her for the accomplishment of the rites."[^5]
 
- It may be suggested that this legend passed from Kambuja to Champa after the marriage of the princess of Kambuja, Çri Çarvâni, daughter of King Içânavarman, to the prince of Champa Çri Jagaddharma (afterwards king of Champa with the title of Vikrântavarman). The legend reproduces therefore the genealogical tradition.officially accepted at the Kambuja court in the 7th century."[^6]
-
 [^5]: "Inscr, of Mi So'n, No. III, B E,F.E.O., IV, 919,"
+
+ It may be suggested that this legend passed from Kambuja to Champa after the marriage of the princess of Kambuja, Çri Çarvâni, daughter of King Içânavarman, to the prince of Champa Çri Jagaddharma (afterwards king of Champa with the title of Vikrântavarman). The legend reproduces therefore the genealogical tradition.officially accepted at the Kambuja court in the 7th century."[^6]
 
 [^6]: "Finot, Sur quelques Traditions Indo-Chinoises, Bul, de C. Arch.. de l'Indochine, 1910, p. 32."
 
@@ -189,9 +189,9 @@ Thong, drove him out of his kingdom. The prince arrived in the country of Kok Th
 
 of Chao Jou-Koua, a work on Chinese trade in the 12th century, it is stated:—"They (the people of San-fo-tsi or Çrivijaya) gave the title of long-tsing' to their king." Now the word "long-tsing" according to Pelliot means "the seed of the Nâga."[^8]
 
- The old Tamil poem Manimegalai mentions a town Nâgapuram in Çavaka-nâdu which is the Tamil name for Java. Two kings of Nâgapuram are mentioned—Bhumi Chandra and Punyarâja—who claimed descent from Indra."[^9].")This Nâgi legend is found, on the other hand, among the Pallavas of Kanchi. There are two inscriptions dating from the 9th century giving the genealogy of the Pallava kings. According to the first, Açvatthaman, the son of Drona, married a Nâgi and their offspring was Skandaçiṣya, the legendary ancestor of the Pallava kings. The second inscription, found in North Arcot, says that Virukarcha married a Nâgi and obtained from her the insignia of royalty and that after him came Skandaçiṣya."[^10]In Kambuja the Nâgi is the founder of a new race of kings. At Kânchi the Nâgi gives the insignia of royalty to Virukarcha. We must also remember that there must have been a close
-
 [^8]: "G. Ferrand, L'Empire Sumatranais de Çrivijaya, p. 11."
+
+ The old Tamil poem Manimegalai mentions a town Nâgapuram in Çavaka-nâdu which is the Tamil name for Java. Two kings of Nâgapuram are mentioned—Bhumi Chandra and Punyarâja—who claimed descent from Indra."[^9].")This Nâgi legend is found, on the other hand, among the Pallavas of Kanchi. There are two inscriptions dating from the 9th century giving the genealogy of the Pallava kings. According to the first, Açvatthaman, the son of Drona, married a Nâgi and their offspring was Skandaçiṣya, the legendary ancestor of the Pallava kings. The second inscription, found in North Arcot, says that Virukarcha married a Nâgi and obtained from her the insignia of royalty and that after him came Skandaçiṣya."[^10]In Kambuja the Nâgi is the founder of a new race of kings. At Kânchi the Nâgi gives the insignia of royalty to Virukarcha. We must also remember that there must have been a close
 
 [^9]: "Dr. Vogel, The Yupa Inscriptions of King Mulavarman from Kutei (E. Borneo
 
@@ -237,9 +237,9 @@ to great riṣis.[^15]In Siam the ancestors of the people were said to be two Br
 
 from Çiva himself, that all the rulers trace their descent who since then have occupied the throne of Campâpura."[^16]
 
-*Java and Kambuja.*
-
 [^16]: "G. Maspero, Le Royaume de Champa, p. 58."
+
+*Java and Kambuja.*
 
  Finally it may be conjectured that Kambuja and perhaps Champa too received Indian immigrants and Indian culture not directly from India but from Indian colonies in Java. In the Râmâyana Java is mentioned last in the list of the countries situated in the Far East. An embassy from Java (Yatiao=Yapdiv according to Pelliot) arrived at the Chinese Court in 132 A.D.[^17]The name of the Javanese king who sent this embassy was Tiao Pien which is quite possibly the Chinese transcription of Deva Varman.[^18]This would then be the earliest embassy from the Hindu or Hinduised states of Indo-China and the Archipelago to the Imperial Court of China. And lastly, an old Khmer legend, quoted by Lagree,[^19]speaks of the Chveapre'ahm, or Java Brahmans, coming from that island to the Khmer country and founding a kingdom there (which however was ruled by a succession of six Cham kings). The Brahmans,
 
@@ -261,9 +261,9 @@ FUNAN
 
  Though the accounts of the Chinese chronicles about the origin of Funan are of a semilegendary character, they show clearly the impact of a superior civilisation on a primitive. people. We have heard of Queen Lieou-ye (the Chinese translate her name as the Willow-leaf) sharing the realm with the stranger Houen-t'ien (Kaundinya) who worshipped the spirits or the "genii" by which name the Chinese designate the gods of the Brahmanic cult. The time of his coming cannot be later than the first century A.D., as far as we can calculate from the dates of the reigns of his successors to the throne of Funan. This is the period of the first contact with India.[^21]
 
- The son of Lieou-ye and Houen-t'ien (Kaundinya) claimed allegiance from seven towns. But the control of the central power over the vassals seems to have been rather weak, for one of the successors of Houen-t'ien, Houen p'an-houang (the first part of his name shows his
-
 [^21]: "Pelliot's Le Faunan is the main authority for this chapter. See B.E.F.E.O., t. iii, p. 248 et seq."
+
+ The son of Lieou-ye and Houen-t'ien (Kaundinya) claimed allegiance from seven towns. But the control of the central power over the vassals seems to have been rather weak, for one of the successors of Houen-t'ien, Houen p'an-houang (the first part of his name shows his
 
 descent from Houen-t'ien), succeeded only in reducing the seven towns to submission by sowing discord among them. This king certainly reigned in the second century A.D. and he died at the advanced age of 90. His son P'an-p'an entrusted the cares of the state to the general Fan-man¹or Fan-che-man and when he died after a brief reign of three years the general was raised to the throne by the people.
 
@@ -281,9 +281,9 @@ descent from Houen-t'ien), succeeded only in reducing the seven towns to submiss
 
 and give them their daughters in marriage. They read their sacred books day and night."[^22]
 
- Then another country is mentioned-Pi-kien beyond Touen-sien and 8,000 li from Fanan. Pelliot thinks it was in the Irawaddy region. It is represented as producing gold, and golden vessels of enormous size were sent frequently as presents to the king of Funan by the king of Pi-kien. This King (of Pi-kien) is supposed to be a supernatural being, holy and omniscient. "He knew how to write (books like) Indian texts. The (text written by the king) had 3,000 words and resembled the sutras of the Buddha. His subjects however were cannibals."
-
 [^22]: "Pelliot, Le Founan, p. 279."
+
+ Then another country is mentioned-Pi-kien beyond Touen-sien and 8,000 li from Fanan. Pelliot thinks it was in the Irawaddy region. It is represented as producing gold, and golden vessels of enormous size were sent frequently as presents to the king of Funan by the king of Pi-kien. This King (of Pi-kien) is supposed to be a supernatural being, holy and omniscient. "He knew how to write (books like) Indian texts. The (text written by the king) had 3,000 words and resembled the sutras of the Buddha. His subjects however were cannibals."
 
 *Embassy from Funan to India.*
 
@@ -293,9 +293,9 @@ and give them their daughters in marriage. They read their sacred books day and 
 
 countries. He replied to the king's questions that it was 30,000 li from Funan and that it would take four years to go there and return to Funan. The king's curiosity was roused and he sent as ambassador to India one of his relations Su Wu.[^24]
 
- In the history of the Leang we find:—"From Funan Su Wu started from the port of Teou-Kiu-li (probably Takkola, which, according to Dr. Blagdon and other scholars, was on the western coast of the Malay Peninsula to the north of the isthmus of Kra[^25], t. ii, p. 4."); this shows how. far south in the Malay Peninsula the influence of Funan extended). He followed the great curve of the shore towards the north-west, entered a great bay on the borders of which there were several kingdoms. At the end of more than one year he reached the mouth of the river of India. He went up the stream for 7,000 li and reached his destination. The king of India was surprised and exclaimed, "What! there exist such men on the shores of the furthest seas!" He gave an order to show them. the interior of the kingdom. Afterwards he sent two persons, one of whom was Chen-song, to offer in return to Fan Chan a present of four horses of the country of the Yue-che; and he
-
 [^24]: " Ibid, p. 292."
+
+ In the history of the Leang we find:—"From Funan Su Wu started from the port of Teou-Kiu-li (probably Takkola, which, according to Dr. Blagdon and other scholars, was on the western coast of the Malay Peninsula to the north of the isthmus of Kra[^25], t. ii, p. 4."); this shows how. far south in the Malay Peninsula the influence of Funan extended). He followed the great curve of the shore towards the north-west, entered a great bay on the borders of which there were several kingdoms. At the end of more than one year he reached the mouth of the river of India. He went up the stream for 7,000 li and reached his destination. The king of India was surprised and exclaimed, "What! there exist such men on the shores of the furthest seas!" He gave an order to show them. the interior of the kingdom. Afterwards he sent two persons, one of whom was Chen-song, to offer in return to Fan Chan a present of four horses of the country of the Yue-che; and he
 
 [^25]: "Prof. Sylvain Levi, Ptolemée, Le Niddesa et La Brhantkatha, Etudes Asiatiques (1925
 
@@ -317,9 +317,9 @@ sent, back Su Wu and the others. After an absence of four years they came back."
 
 the streets, the markets, the villages, the houses, the inns and in towns one sees bells and tambours of joyous sound, rich dresses and fragrant flowers. The merchants come there by land and sea and assemble in great numbers and offer for sale jewels and all the objects of luxury which the heart can desire. To the right and left there are six great kingdoms, those of Kia-wei (Kapilavastu), Che-wei (Çravasti), etc. Several kingdoms, even though situated at a distance of 2,000 or 3,000 li from India, obey the king, as they consider this kingdom to be situated in the centre of the universe."[^28]
 
- The description of the kingdom or the title. of the king does not give anything which can be exactly identified. The only word which phonetically corresponds closely to Meou-loun, according to Prof. Sylvain Levi, is the name of a race in ancient India the Murundas. Ptolemy places the Maroundai on the left bank of the Ganges to the north of the river Sarabos or Sarayu. Prof. Levi quotes a Jaina work which names Pataliputra as the residence of the Murunda-râja. This agrees with Ptolemy's description. The name of the Murunda dynasty is found in the dynastic lists in the Puranas. There were 13 princes belonging to this dynasty and the Vayu Purana states that they ruled 350.
-
 [^28]: "Prof. Sylvain Levi on Les Murundas in Melanges, Charles de Harlez, pp. 176-185. "
+
+ The description of the kingdom or the title. of the king does not give anything which can be exactly identified. The only word which phonetically corresponds closely to Meou-loun, according to Prof. Sylvain Levi, is the name of a race in ancient India the Murundas. Ptolemy places the Maroundai on the left bank of the Ganges to the north of the river Sarabos or Sarayu. Prof. Levi quotes a Jaina work which names Pataliputra as the residence of the Murunda-râja. This agrees with Ptolemy's description. The name of the Murunda dynasty is found in the dynastic lists in the Puranas. There were 13 princes belonging to this dynasty and the Vayu Purana states that they ruled 350.
 
 years. A Jaina saint cured a Murunda king in the first century A.D., and the Murundas are mentioned as vassals in the Allahabad inscription of Samudragupta.¹
 
@@ -337,9 +337,9 @@ that we get an approximate chronology of the early kings of Funan. Unhappily thi
 
  There is a description of the country of Funan in the history of the Tsin dynasty (265-419 A.D.) which is certainly based on K'ang Tai's Book:—The territory is 3,000 li in width. There are walled cities, palaces and houses. The men are ugly and black and their hair is curly. They go about naked and bare-footed. They are simple and do not steal. They resort to agriculture. Besides they are fond of engraving ornaments and of chiselling. Many of the utensils, which they use for taking their meals, are of silver. Taxes are paid in gold, silver, pearls and perfumes. They have books, archives, etc. Their alphabet resembles that of the Hou (a Central Asiatic tribe which had the Indian alphabet). Their marriage and funeral ceremonies are on the whole the same as in Linyi (Champa).[^30]
 
- Fan Siun's reign was a long one. He sent an embassy in 287 A. D. He made an alliance with Champa. For when the Emperor wanted to reduce the military expenditure on the southern frontier, the Governor of Tonkin sent a memorial (in 280) protesting that Linyi (Champa) and Funan were neighbouring
-
 [^30]: "Le Founan, p. 254."
+
+ Fan Siun's reign was a long one. He sent an embassy in 287 A. D. He made an alliance with Champa. For when the Emperor wanted to reduce the military expenditure on the southern frontier, the Governor of Tonkin sent a memorial (in 280) protesting that Linyi (Champa) and Funan were neighbouring
 
 countries, that their tribes were very numerous, that they assisted one another, and that they did not submit to China.
 
@@ -397,9 +397,9 @@ Tripitaka.[^32]One of them was of the name of Sanghapâla or Sanghavarman. He ca
 
 of Chenla (the Chinese name for Kambuja,:—"Chen-la is south-west of Linyi (Champa,. It was originally a vassal state of Funan. The family name of the king is Kshatriya, his personal name is Chitrasena. Under his ancestors this kingdom became more and more powerful. Chitrasena reduced Funan to submission. His son Içânasena succeeded him. He lived in Içânapura."[^33]
 
- The New History of the T'ang (618-906) is the last official chronicle which mentions Funan. It says that the capital of Funan, Tomu, was suddenly seized by Chen-la and that the king of Funan had to withdraw farther south to the town of Na-fou-na (Navanagar?). The last embassy from Funan came to the court of a T'ang Emperor during the first half of the 7th century. It brought a present of two white men who belonged to a country west of Funan.[^34] After this Funan seems to have been merged in the new Khmer kingdom.
-
 [^33]: "Le Funan, p. 272."
+
+ The New History of the T'ang (618-906) is the last official chronicle which mentions Funan. It says that the capital of Funan, Tomu, was suddenly seized by Chen-la and that the king of Funan had to withdraw farther south to the town of Na-fou-na (Navanagar?). The last embassy from Funan came to the court of a T'ang Emperor during the first half of the 7th century. It brought a present of two white men who belonged to a country west of Funan.[^34] After this Funan seems to have been merged in the new Khmer kingdom.
 
 [^34]: "Ibid, p. 274."
 
@@ -421,9 +421,9 @@ THE EARLY KINGS OF KAMBUJA
 
 the yoke of Funan. The next two stanzas continue the panegyric of the descendants of Çrutavarman. In the 16th stanza we find that to this first dynasty succeeds another series of kings having Rudravarman as the chief of their branch. They are described as deriving their origin from Kaundinya and Somâ(the daughter of Soma).[^36]
 
- The inscription of Ta-Prohm[^37], 1906.")dated 1108 ç.e. (1186 A.D.), also mentions Çrutavarman as the father of Çreshṭhavarman, the sovereign (adhirâja) of Çreshṭhapura. In the 6th stanza we find:—"He was a king whom the lords of the earth, bearers of the unbreakable sceptres of Manu, should honour, excelling among the learned, the son of Çrutavarman: Çreshṭhavarman (by name), excelling in pure glory, the source of a brilliant line of kings." The next stanza gives:—"The sun of the heaven which is the family of Kambu, born on the mountain Jayâdityapura, as the sun rises from Udayagiri, he (Creshṭhavarman) caused the hearts of all living creatures to wake up as (the sun awakens) the lotus, he who is full of spirit and energy, the supreme king of Çreshṭhapura."3In the
-
 [^36]: "Ed. by Coedes, J. A., May-June, 1909."
+
+ The inscription of Ta-Prohm[^37], 1906.")dated 1108 ç.e. (1186 A.D.), also mentions Çrutavarman as the father of Çreshṭhavarman, the sovereign (adhirâja) of Çreshṭhapura. In the 6th stanza we find:—"He was a king whom the lords of the earth, bearers of the unbreakable sceptres of Manu, should honour, excelling among the learned, the son of Çrutavarman: Çreshṭhavarman (by name), excelling in pure glory, the source of a brilliant line of kings." The next stanza gives:—"The sun of the heaven which is the family of Kambu, born on the mountain Jayâdityapura, as the sun rises from Udayagiri, he (Creshṭhavarman) caused the hearts of all living creatures to wake up as (the sun awakens) the lotus, he who is full of spirit and energy, the supreme king of Çreshṭhapura."3In the
 
 [^37]: "Ed by Coedes, B.E.F.E.O. (Jan-June
 
@@ -443,7 +443,7 @@ eighth stanza is the account of the Princess Kambuja-râja-lakṣmi, "born in th
 
 Brahmadatta and Brahmasiṃha were court physicians of King Rudravarman. The sons of their sister, Dharmadeva and Siṃhadeva, were ministers of Bhavavarman and Mahendravarman. Siṃhavira, the son of Dharmadeva, was the minister of Içânavarman. Siṃhadatta, the son of Siṃhavira, was the physician of Jayavarman and was the Governor of Adhyapura (the old name of Ang Chumnik) It was the last who dedicated a temple to Çiva Vijayeçvara at this place and who was the author of this inscription.
 
- Now from Chinese sources we know that Rudravarman wasone of the last kings of Funan, that Citrasena of Chenla reduced Funan to submission and that Içânasena was his successor. The inscription of Phou Lokhon[^38](Laos) tells us that Citrasena was the earlier name of Mahendravarman before he ascended the throne. An earlier inscription[^39](without date) gives us the name of Citrasena as having dedicated a Çivalinga on the bank of the Makong. We know from an inscription of Vat Vat Chakret[^40]that Içânavarman was reigning in 626 A.D.
+ Now from Chinese sources we know that Rudravarman wasone of the last kings of Funan, that Citrasena of Chenla reduced Funan to submission and that Içânasena was his successor. The inscription of Phou Lokhon[^38] (Laos) tells us that Citrasena was the earlier name of Mahendravarman before he ascended the throne. An earlier inscription[^39] (without date) gives us the name of Citrasena as having dedicated a Çivalinga on the bank of the Makong. We know from an inscription of Vat Vat Chakret[^40]that Içânavarman was reigning in 626 A.D.
 
 [^38]: "B.E.F.E.O., t. III p. 445."
 
@@ -497,7 +497,7 @@ offering of treasures, won by the might of thebow, this linga of Tryambaka has b
 
 [^48]: "I.S.C.C., p. 30."
 
-are versed in the Sâmaveda—he, Çri-Somaçarman, consecrated (this) Tribhuvaneçvara (Lordof the three worlds—Çiva), together with (animage of) the sun, with acts of worship andofferings on a grand scale. With the Râmâyanaand the Purâna he gave the complete (Mahâ)Bhârata and arranged for a daily recitation.without interruption. As long as the glory ofTribhuvaneçvara survives, whoever[^49](participates in this reading)—may a portion (of thefruit) of this great and virtuous deed go to (thecredit of) every doer of such a pious act. Butthe mischievous wretch who takes away fromhere even a single book...."[^50]
+are versed in the Sâmaveda—he, Çri-Somaçarman, consecrated (this) Tribhuvaneçvara (Lordof the three worlds—Çiva), together with (animage of) the sun, with acts of worship andofferings on a grand scale. With the Râmâyanaand the Purâna he gave the complete (Mahâ)Bhârata and arranged for a daily recitation.without interruption. As long as the glory ofTribhuvaneçvara survives, whoever[^49] (participates in this reading)—may a portion (of thefruit) of this great and virtuous deed go to (thecredit of) every doer of such a pious act. Butthe mischievous wretch who takes away fromhere even a single book...."[^50]
 
 [^49]: "This portion is illegible."
 
@@ -623,14 +623,10 @@ Içânavarman.
 
  The inscription of Vat Chakret,[^40] dated 541 ç.e. (626 A.D.), refers to him as the reigningking. There is a touch of Vedantic philosophyin the invocation:—"May the moon-crested
 
-[^40]: "I.S.C.C., p. 40."
-
 god be victorious. He, who manifests himselfthrough the great development of the (three)qualities, Çiva, at the same time the origin(of all), himself being without origin and with.out end.¹ The deva Çrt Içânavarman was themaster of the earth, the equal of Indra in mightBy the grace of this king of kings...... the lordof Tâmrapura, who has for a long time made thethree cities Cakrânkapura, Amoghapura andBhîmapura the ornament of his feet.....by himhas been consecrated... the two gods, adored bysages, Hari and Çaṅkara... Slaves, cows,buffaloes, land, precious objects... (have beenbestowed)...In the Çaka year (548) designatedby the Vasus (8), the oceans (4) and the arrows (ofKâma-5)...having received the royal favour, forhaving thrown into shade the hostile arroganceof the vile lord of Tâmrapura, the (new lord)has consecrated here... Çiva united in body withViṣṇu." Apparently the donor had newlyacquired Tâmrapura from a hostile chief. Thecult of Hari-hara seems to have been popular inKambuja, as there are many images of thecombined deities still existing.
 
  The inscription of Svai Chuo[^40] (near PhnomPenh; also refers to Içanavarman. It is not  
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-[^40]: "I.S.C.C., p. 40."
 
  1 Compare this Vedanticinvocation with the invocation to Çiva inthe inscription at the Seven Pagodas (Burnell—South Indian Palaeography, p. 38). Burnell there says "The first four lines describe Çivain such a way that was only possible after Çaṅkara's development ofthe Vedānta."
 
@@ -852,7 +848,7 @@ Java. From the inscription of Dong-duong[^92] (Champa) it appears that there was
 
  In Kambuja the cult of the Deva-râja orRoyal God led to the Royal Chaplain enjoyinga pontifical position. And the Kambujahierarchy was established by Jayavarman II.We have seen how the priesthood of the RoyalGod became hereditary in the family of Çivakaivalya and we shall see the immense powerwielded by his descendants later on. The
 
-![](../books_images/U-IMG-173522348896_8768.png)
+<MISSING_FIG href="../books_images/U-IMG-173522348896_8768.png"/>
 
 sacerdotal dynasty almost threw the royaldynasty into the shade.
 
@@ -985,8 +981,6 @@ IV and VI of the Baku inscription containing an eulogy of the king. Then follows
 
  The Baku temple, to which we have already referred, has six brick towers smaller in size and humbler in design than those of Bakong. Bothof these ruins are at a distance of a about ten miles to the south-west of Angkor Thom, in the immediate vicinity of which was Hariharâlaya, the capital at this period[^11].
 
-[^11]: "Ibid."
-
  The architecture of Indravarman’s reign has got some peculiar characteristics, which have led M. parmentier, the head of the Archaeological Department of French Indo-China, to call it a separate school of architecture—the “art of Indravarman[^119].” It is much more allied to the early Khmer art—the art of Funan—than to the architecture of Jayavarman II’s reign. Brick towers are common both to the period of Indravarman and that of early Funan. There are also at this period no galleries joining the different portions of a temple, which is so characteristic a feature of the later monuments of Angkor Thom and Angkor Vat. The structures also, as in the early Funan period, tower up high without spreading over a wide area. The part played by the decorative art, which leaves no surface untouched as in Bayon (the chief temple of Angkor Thom), has not become. so prevalent at this time; though the simple Funan style of bare unworked surfaces has also
 
 [^119]: "Parmentier, L'Art d'Indravarman, B.E.F.E.O., t. xix, 1.2. "
@@ -1003,7 +997,7 @@ been discarded. The decorative art of Indravarman’s reign resembles wood-carvi
 
 career in much later genealogies, etc. So that the inscriptions of Indravarman are the first official “records,” which have come to light after the insriptions of Jayavarman I who reigned in the second half of the 7th century. During the interval of two centuries noteworthy changes had taken place in the appearance of the letters. They had become round in form, e.g., “v” had become almost a perfect circle. The curves had become more graceful. The flourishes had developed to a certain extent, but had not yet been superposed uniformly on all the letters, for ornamental purposes, as they would be in the next reign. Certainly there was a gain in artistic effect thereby, but it also becomes more difficult to distinguish the letters from one another. The Jihvâmuliya and Upadhmâniya had quite dropped out of use at this period. The “d” and “d” and “b” and “v” are confused with one another more than ever. The “b” is often replaced by “v” in words where “b” is required. But the language is quite correct, and no fault can be ascribed to the engraver.
 
-![](../books_images/U-IMG-1735301391Screenshot2024-12-15104840.png)
+<MISSING_FIG href="../books_images/U-IMG-1735301391Screenshot2024-12-15104840.png"/>
 
 **CHAPTER VI.**
 
@@ -1080,8 +1074,6 @@ and Kâncipura that we find examples of the other strange feature of these inscr
  But more important than this feature of digraphism is the appearance in Kambuja of this new alphabet All the alphabets of Kambuja up to this time (they differ from one another only in matters of ornamental detail) have been of unmistakably South Indian (Pallava) origin. But this new alphabet, which appears with Yaçovarman and which did not long survive him, belongs to the Nâgari class
 
 of North Indian alphabets. Now at a period, not much removed from the time of the Kambuja inscriptions (about the 7th or 8th century çaka), we find in India an alphabet used in inscriptions on monuments so far to the south as the region of the Seven Pagodas. And, as it was a case of abrupt transmission of a script from one region to another, the new system did not take root in the soil. This movement was not an isolated one. Barnell writes[^130] that inscriptions in this (Nâgari) character, both Hindu and Buddhist, occur in considerable numbers in Java. “Grants, explanatory re-marks, inscriptions on rings, and Buddhist confessions of faith have all been found in this character[^11].” In the British Museum the writer has seen an image of a goddess from Java with the name inscribed in North Indian characters remarkably like Bengali. Now this script from North India is quite different from the old Javanese characters which came from the Pallava region of Southern India. Burnell says:—“It is thus plain that the examples which occur of this character in South India and Java must be due to emigrants from the North who saw fit to leave their own country in considerable numbers. It may not be impossible to discover the causes of this immigration, which, in later times,
-
-[^11]: "Ibid."
 
 [^130]: "South Indian Paleography, p. 53."
 
@@ -1251,9 +1243,9 @@ Parama-Çivaloka (the posthumous name of Yaçovarman) founded the city of Yaçod
 
 of the Bayon exactly in the centre of the rectangular city.[^153]
 
- I shall try now to describe very briefly the magnificent ruins of the greatest city of Indo-China. A moat, 330 ft. broad, encircled the capital which had for its second line of defence a high wall of limonite. The city is a square each side of which is a little more than two miles. According to Groslier[^154], the habitations of the common people were for the greater partoutside the moat—the interior being reserved for the great temples and monasteries, the seat of the administration, and the mansions of the aristocracy. Very few cities in the whole world, in the 9th century A.D., could have rivalled Angkor in size and grandeur. Exactly in the centre of the great square rises the grand temple of the Bayon, the purest specimen of Khmer architecture. To the north of this edifice is a sort of vast forum round which are grouped other buildings. Three avenues lead from the city gates to the Bayon, and two others (there are 5 gates, two on the eastern side of the square, and one on each of the other sides) to the forum[^155]. The structures, which face the forum, are (from left to right) the Bayon, the Bapuon (built later), the Phimeanakas
-
 [^153]: "Aymonier, Histoire de l’Ancien Cambodge, 1920, p. 65."
+
+ I shall try now to describe very briefly the magnificent ruins of the greatest city of Indo-China. A moat, 330 ft. broad, encircled the capital which had for its second line of defence a high wall of limonite. The city is a square each side of which is a little more than two miles. According to Groslier[^154], the habitations of the common people were for the greater partoutside the moat—the interior being reserved for the great temples and monasteries, the seat of the administration, and the mansions of the aristocracy. Very few cities in the whole world, in the 9th century A.D., could have rivalled Angkor in size and grandeur. Exactly in the centre of the great square rises the grand temple of the Bayon, the purest specimen of Khmer architecture. To the north of this edifice is a sort of vast forum round which are grouped other buildings. Three avenues lead from the city gates to the Bayon, and two others (there are 5 gates, two on the eastern side of the square, and one on each of the other sides) to the forum[^155]. The structures, which face the forum, are (from left to right) the Bayon, the Bapuon (built later), the Phimeanakas
 
 [^154]: "Grosliar, Angkor, pp. 35-36."
 
@@ -1273,7 +1265,7 @@ ones were probably the sources of the water supply of the city.
 
 |                                                 |
 |:-----------------------------------------------:|
-| ![](../books_images/U-IMG-1735283762000011.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1735283762000011.png"/> |
 
 THE
 
@@ -1375,7 +1367,7 @@ inscription of Kedei Char[^291]. The noble Kavindrârimathana, who, as we shall 
 
 [^169]: "Aymonier Le Cambodge, t. i, pp. 246-247."
 
-[^291]: "Ibid, p. 372."
+[^291]: # "Ibid, p. 372."
 
 Çri Dharaṇîndrapakalpa, the Sten An......the ‘usher’ of the sacred court of Justice.”
 
@@ -1567,7 +1559,7 @@ king. There by the guru of the king, the chief ministers, by the principal perso
 
 Suryavarman:—“Oh! how, well versed in the Atharva (veda), his soul devoted to yoga, he bound the loyal world to himself by seven-fold threads (or by his sacrifices)! Learned in the teachings of Pâṇini, and (at the same time) most excellent, he knew to cast away the chief meaning in a word used metaphorically (or he did not care for the caste of a person who did good to others).”In the next stanzas we are introduced to one Kavîçvara (of the Saptadevakula), whose learning was his sole wealth, and who was appointed by Suryavarman to be the priest of Çambhu on Suryaparvata. His knowledge of grammar is emphasised, and he is compared with Patanjali with his 1,000 mouths (as an incarnation of Çeṣa-nâga[^292]). We should note that grammar means in these inscriptions the Sanscrit language and hence is the great importance attached to it. He is also supposed to be equal in logic to Kanâda (the atomist philosopher of India) himself (stanza 16, p. 131).
 
-[^292]: "This legend is referred to in the book on Pâtanjali by Râmabhadra Dikşita."
+[^292]: # "This legend is referred to in the book on Pâtanjali by Râmabhadra Dikşita."
 
  The record of the High Priests (the Sdok Kak Thom inscr.) gives us a curious bit of information. “During the reign of H. M. Nirvânapada (Suryavarman) the members of the family (of the High Priests) served the Royal God as before. The Sten ân Sadâçiva was the purohita of the Jagat ta Râja (the Deva-râja or
 
@@ -1757,7 +1749,7 @@ was a Viṣṇu temple, though now it has become a Hinayâna Buddhist shrine.
 
 |                                                 |
 |:-----------------------------------------------:|
-| ![](../books_images/U-IMG-1735283863000012.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1735283863000012.png"/> |
 
 ANGKOR VAT
 
@@ -1921,9 +1913,9 @@ articles, mostly medicines, to be given from the royal magazines to each patient
 
  There is a bilingual inscription in Sanscrit and Khmer found at Phimeanakas which, on account of its square letters, should also be attributed to this reign. It is addressed to a sacred açvattha tree and is a curious combination of Buddhism and Brahmanism:— "Oh sacred mahâbodhi (the tree under which Buddha attained salvation), whose root is Brahmâ, whose trunk is Çiva, and whose branches are Viṣṇu...... May thunder never strike thee, may the axe never touch thee."[^241]
 
-***Conquest of Champa and Pagan.***
-
 [^241]: "M. Coedès, Etudes Cambodgiennes, B.E.F.E.O., &. xviii, p. ii."
+
+***Conquest of Champa and Pagan.***
 
  Champa inscriptions[^242] tells us that Jayavarman VII conquered the whole country, seized the capital of Champa in 1112 ç.e. (1190 A.D.) and placed there a military governor.
 
@@ -2104,9 +2096,9 @@ to be haunted up to this time and still strike terror into the hearts of the sup
 
 is stated in the accompanying inscription to be the effigy of a lady[^255]
 
-  Identifications of distinguished men and women with Viṣṇu and the Buddhist goddess Prajñâpâramità are also referred to. In short, from the ninth to the end of the twelfth century, allusions to this practice of apotheosis of persons, held in high esteem, are quite common in our inscriptions.
-
 [^255]: "Coedès, Sar l'apotheose au Cambodge,' B. C. A. 1, 1911, p. 42"
+
+  Identifications of distinguished men and women with Viṣṇu and the Buddhist goddess Prajñâpâramità are also referred to. In short, from the ninth to the end of the twelfth century, allusions to this practice of apotheosis of persons, held in high esteem, are quite common in our inscriptions.
 
  Moreover, similar deification of living people too was not unknown. Thus Punnâgavarman consecrates an image of Çiva "which is made after his own likeness.[^256], p. 145")" King Udayâdityavarman II consecrates the liṅga Jayendravarmeçvara when his guru Jayendravarman, in whose honour the emblem was so named, was still alive[^257]. The victorious general Saṅgrâma offers to the king the spoils of war requesting him to present them "to your subtle ego who is Īçvara dwelling in a golden liṅga."
 
@@ -2312,9 +2304,9 @@ non-Buddhist monarch. So these merchants were driven away from the kingdom, and 
 
 is the name of a Gandharva and there is a Gandharva Tantra in the Viṣṇukrântâ group. Again according to the Mahâsiddhasâra Tantra, a second group of Tantras (the Açvakrântâ group) is allocated to the region extending from the Karatoyâ river (in the Dinajpur district of Bengal) to Java. Several Cina Tantras are mentioned in this group.[^283]
 
- Now we shall attempt to reinforce our argument with architectural evidence. French savants agree that though the architecture of Fu-nan resembles (especially in ornamental details) the contemporary Pallava architecture, the new type introduced by Jayavarman II has very little in common with any South Indian school. One of the characteristic features of Dravidian structures is that the outermost courts and 'gopurams' (gates) are the most magnificent, and that as we approach the main sanctuary in the interior, everything is on a much smaller scale. In Kambuja it is just the opposite. The Khmers had an eye for the perspective, and the main shrine, situated on the highest (and innermost) of a series of terraces (each rising above the last), dominates the whole structure with its lofty towers.
-
 [^283]: "A. Avalon, Principles of Tantra, Introd., p. lxiii et seq."
+
+ Now we shall attempt to reinforce our argument with architectural evidence. French savants agree that though the architecture of Fu-nan resembles (especially in ornamental details) the contemporary Pallava architecture, the new type introduced by Jayavarman II has very little in common with any South Indian school. One of the characteristic features of Dravidian structures is that the outermost courts and 'gopurams' (gates) are the most magnificent, and that as we approach the main sanctuary in the interior, everything is on a much smaller scale. In Kambuja it is just the opposite. The Khmers had an eye for the perspective, and the main shrine, situated on the highest (and innermost) of a series of terraces (each rising above the last), dominates the whole structure with its lofty towers.
 
  M. Parmentier thinks that the common element in all the architecture of the Hinduised
 
@@ -2376,11 +2368,11 @@ is bounded by the country of Jâwaga (Çrivijaya) which is the kingdom of the Ma
 
 |                                               |
 |:---------------------------------------------:|
-| ![](../books_images/U-IMG-17359687500402.png) |
+| <MISSING_FIG href="../books_images/U-IMG-17359687500402.png"/> |
 
 |                                               |
 |:---------------------------------------------:|
-| ![](../books_images/U-IMG-17359689220401.png) |
+| <MISSING_FIG href="../books_images/U-IMG-17359689220401.png"/> |
 
 |                                                                                                                                                                                                                              |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3068,4 +3060,3 @@ is bounded by the country of Jâwaga (Çrivijaya) which is the kingdom of the Ma
 **\_\_\_\_\_\_\_\_**
 
 \]
-

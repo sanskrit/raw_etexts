@@ -37,6 +37,8 @@ AT THE **"BHASKARA PRESS"**, TRIVANDRUM
 |  **CHAPTER I.**  |
 | **INTRODUCTION** |
 
+      
+
 |                                    |
 |:----------------------------------:|
 |          **CHAPTER II.**           |
@@ -6762,7 +6764,7 @@ It is also said to contain within itself the total and individual conceptions of
 
  The devotee being saved by meditation, it is called a Manthra, and it is the verbal expression of the idea of God.
 
-![](../../../../../books_images/U-IMG-1698729857Screenshot(34).png)The above quotations on the point at issue are no doubt somewhat tiresome, although the necessary explanations are not yet sufficiently complete. The subject is strictly technical and most important for the purpose ofcomprehen-ding the applicability of the Vedas and Manthras. The temptation therefore to give as full a treatment as possible is great not only on account of the amount of scientific informations imbedded therein, but more on account of the immensity of ignorance, indifference and perversity unfortunately evinced in modern days in its interpretation.
+<MISSING_FIG href="../../../../../books_images/U-IMG-1698729857Screenshot(34"/>.png)The above quotations on the point at issue are no doubt somewhat tiresome, although the necessary explanations are not yet sufficiently complete. The subject is strictly technical and most important for the purpose ofcomprehen-ding the applicability of the Vedas and Manthras. The temptation therefore to give as full a treatment as possible is great not only on account of the amount of scientific informations imbedded therein, but more on account of the immensity of ignorance, indifference and perversity unfortunately evinced in modern days in its interpretation.
 
  The inseparable association of thought and word, object and its name being psychologically established, a detailed analysis of their origin and relation is scientifically treated in Siksha, specifying also the physiological locations of sound in the human body. The direct influence of words on thought is thus a scientific fact and not a matter of blind belief. must therefore be generally conceded that if any of the existing religions in the world would recognise the efficacy of prayer, the Manthras in themselves are not useless or superstitious. Taking a more scientific and philosophical view of the subject, the ultimate object to be attained, namely Brahman must logically have its corresponding word or name and this is known as Sabda-Brahman. Of course
 
@@ -6774,7 +6776,7 @@ The Manthras are therefore variously composed and classified so as to serve diff
 
 **'अनुशोचाम एवान्यान् न भ्रान्तैर्विवदामहे'॥**
 
-![](../../../../../books_images/U-IMG-1698733256Screenshot(35).png)In this section, we have examined and sifted al most every term used in the texts appearing as descriptions of time, extending from Lava or the minutest portion to Parardhom and Parom the highest figures in the Arithmetical Notation, and have clearly found that none of them have any reference to the ordinary reckoning of time so as to lead us to the belief in their applicability to the periods of histori-
+<MISSING_FIG href="../../../../../books_images/U-IMG-1698733256Screenshot(35"/>.png)In this section, we have examined and sifted al most every term used in the texts appearing as descriptions of time, extending from Lava or the minutest portion to Parardhom and Parom the highest figures in the Arithmetical Notation, and have clearly found that none of them have any reference to the ordinary reckoning of time so as to lead us to the belief in their applicability to the periods of histori-
 
 cal incidents as commonly interpreted amongst us. The historical, archeological or geological proofs nowadays offered to establish the irrelevancies and inconsistencies in the Puranic statements, go therefore only to show the ignorance of the contents of our religious literature on the part of their Critics, without meaning anything derogatory to the scientific importance of their professed subjects. No better value or importance shall either be reasonably attached to the misdirected attempts of our native Pandits and Theosophists to explain those facts in a favourable attitude, by ununderstandable and extraneous methods virtually hood winking the public and concealing their own ignorance. We are helplessly compelled to turn round to them and say 'Physician heal thyself'.
 
@@ -6783,7 +6785,7 @@ cal incidents as commonly interpreted amongst us. The historical, archeological 
 सभायां वाचाटाः श्रुति कटुरटन्तो घटपटा-  
 न्न लज्जन्ते मन्दाः स्वयमपि तु जिहेति विबुधः॥**
 
-**![](../../../../../books_images/U-IMG-1698734959Screenshot(36).png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1698734959Screenshot(36"/>.png)**
 
 **  SECTION III.**
 
@@ -6808,7 +6810,7 @@ emancipation of the fallen man. The strange and insolent effort of the so-called
 जारे तथा निजवरे सदृशोनुरागो।  
 व्यर्थं किमर्थमसतीति कदर्थयन्ति॥**
 
- ![](../../../../../books_images/U-IMG-1698736461Screenshot(37).png)
+ <MISSING_FIG href="../../../../../books_images/U-IMG-1698736461Screenshot(37"/>.png)
 Leaving the two Bramhans, namely Para and Apara, as the highest philosophical ideas, we might commence with our enquiry lower down, regarding the Tri-Murthis, the Bramha, Vishnu and Siva, the gods whose functions are so commonly known as creation, preservation and destruction.An examination of their real significance, as could be gathered from the texts direct is likely to prove
 
 practically useful, especially as their relative superiority has constantly been a matter of serious dispute among the ordinary people, having been occasionally dragged for settlement to the courts of law. We may confine ourselves in the beginning to the original and general character of the functions assigned to the Triads, without going into the details of their subsequent transformations known as their respective incarnations. It is earnestly hoped that the following quotations will be of interest in this connection. Several of them are no doubt somewhat lengthy, but the vital importance of the subject prevents their curtailment or omission, in spite of their proving tiresome at times.
@@ -7640,7 +7642,7 @@ By devotion and Tapas, one has therefore to transform himself into all these hol
 धिक् तान् धिक् तान् धिगेतान् कथयति सततं कीर्तनस्थो मृदङ्गः॥**
 
  
-![](../../../../../books_images/U-IMG-1699280904Screenshot(40).png)Practically ample quotations are here noted for the easy comprehension of the real significance of the three terms explained above, if only there be the will to catch their correct meaning without any bias or prejudice. The difficulty ordinarily experienced by many is owing to their having been previously prepared with their own commentaries without ever dreaming of the original texts. In 99 cases out of 100 especially in religious matters, judgement before trial is exactly the state of affairs; and everybody is allowed with impunity to exercise the privilege of offering their own views even while umasked. It is the mistaken interpretation that is virtually circulated among the people, by the so-called Pundit authorities and taken for the real contents of the texts. An enquiry as to how such mistaken notions have gradually taken root in the minds of the public, might perhaps be an interesting and useful topic for the historian, but it would be out of place here, and certainly unnecessary, as a direct examination of the texts themselves is the avowed object of this little volume. When the true gist of the matter is understood, it may however be possible to discover, how these high philosophical ideas and facts have deteriorated to their present condition owing to the ignorance of the fundamental principles and formulas, which undoubtedly demand for their correct understanding, higher culture, deeper thought and greater interest than are available in the average worldly-wise man.
+<MISSING_FIG href="../../../../../books_images/U-IMG-1699280904Screenshot(40"/>.png)Practically ample quotations are here noted for the easy comprehension of the real significance of the three terms explained above, if only there be the will to catch their correct meaning without any bias or prejudice. The difficulty ordinarily experienced by many is owing to their having been previously prepared with their own commentaries without ever dreaming of the original texts. In 99 cases out of 100 especially in religious matters, judgement before trial is exactly the state of affairs; and everybody is allowed with impunity to exercise the privilege of offering their own views even while umasked. It is the mistaken interpretation that is virtually circulated among the people, by the so-called Pundit authorities and taken for the real contents of the texts. An enquiry as to how such mistaken notions have gradually taken root in the minds of the public, might perhaps be an interesting and useful topic for the historian, but it would be out of place here, and certainly unnecessary, as a direct examination of the texts themselves is the avowed object of this little volume. When the true gist of the matter is understood, it may however be possible to discover, how these high philosophical ideas and facts have deteriorated to their present condition owing to the ignorance of the fundamental principles and formulas, which undoubtedly demand for their correct understanding, higher culture, deeper thought and greater interest than are available in the average worldly-wise man.
 
  It is not very difficult to make out clearly from the various passages quoted above, that the Tri-murtis are the three different phases and conditions of one and the only entity. They are always mutually connected with and mutually dependent on each other. It must also be particularly observed that all of them stand above the level of the phenomenal and material existence which is but the product
 
@@ -7666,7 +7668,7 @@ Courts responsible for all the offences perpetrated in the world. The Tri-Murtis
 
  These passages are neither contradictions, nor even compromises, but are correct explanations of the true signi- ficance of the Tri-murtis as treated in the religious texts.Unfortunately, they cannot but be inconsistent in accordance with the current unauthorised misinterpretations. Neither the venerable authors of the sacred texts nor those who will not stoop to deliver judgment without a trial, could ever hope to satisfy these Panditasters. I fear, time has sufficiently advanced, that self-made commentaries on imaginary originals are more than we could bear any longer.
 
-![](../../../../../books_images/U-IMG-1699283337Screenshot(41).png)Like the Tri-murtis just noticed, who are treated as primary Gods in the religious literature, there are Goddesses described as their respective consorts and others to whom different functions are assigned. They refer to the Saktis or active principles underlying the processes of religious evolution and involution detailed in the texts. It is confidently hoped that an examination of the original passages referring to them will furnish us with a correct and clear idea of their significance too.
+<MISSING_FIG href="../../../../../books_images/U-IMG-1699283337Screenshot(41"/>.png)Like the Tri-murtis just noticed, who are treated as primary Gods in the religious literature, there are Goddesses described as their respective consorts and others to whom different functions are assigned. They refer to the Saktis or active principles underlying the processes of religious evolution and involution detailed in the texts. It is confidently hoped that an examination of the original passages referring to them will furnish us with a correct and clear idea of their significance too.
 
 ***Quotation No. I.***
 
@@ -7980,7 +7982,7 @@ débauchery and concubinage which the Pandit is evidently longing for as the sum
 भ्रमावेशादःकिमपि विदधत् भङ्गमसकृत्  
 स्मरापस्मारोयं भ्रमयति दृशौ घूर्णयति च॥**
 
-![](../../../../../books_images/U-IMG-1699188953Screenshot(38).png)It is clearly evident from the above few quotations that the Saktis described refer invariably to the processes of originating as well as fostering Gnana or true knowledge. They represent the latent powers of the Absolute capable of developing, when properly invoked, the necessary faculties in man leading to religious advancement in their respective directions. As stated in quotations 4 and 8 in the most unequivocal terms possible, the descriptions of these Saktis as Goddesses, are in strict conformity with the formulas followed in the Itihasas for their usual representations in a concrete form. The object of worshipping them or virtually practising the required virtues and religious devotion, is certainly the attainment of spiritual knowledge and freedom from bondage, and not the securing of material benefits especially of a kind that will undoubtedly block up the straight path to salvation, and will immensely increase the miseries consequent on avarice and greed. All the prevailing ideas of satisfying mean and selfish desires are therefore entirely out of the question and it is the complete ignorance of this fact that gives rise to most of the mistaken interpretations and ridiculous and abominable practices which generally pass under the garb of religious ceremonies and rituals.
+<MISSING_FIG href="../../../../../books_images/U-IMG-1699188953Screenshot(38"/>.png)It is clearly evident from the above few quotations that the Saktis described refer invariably to the processes of originating as well as fostering Gnana or true knowledge. They represent the latent powers of the Absolute capable of developing, when properly invoked, the necessary faculties in man leading to religious advancement in their respective directions. As stated in quotations 4 and 8 in the most unequivocal terms possible, the descriptions of these Saktis as Goddesses, are in strict conformity with the formulas followed in the Itihasas for their usual representations in a concrete form. The object of worshipping them or virtually practising the required virtues and religious devotion, is certainly the attainment of spiritual knowledge and freedom from bondage, and not the securing of material benefits especially of a kind that will undoubtedly block up the straight path to salvation, and will immensely increase the miseries consequent on avarice and greed. All the prevailing ideas of satisfying mean and selfish desires are therefore entirely out of the question and it is the complete ignorance of this fact that gives rise to most of the mistaken interpretations and ridiculous and abominable practices which generally pass under the garb of religious ceremonies and rituals.
 
 **निष्कामानामेव श्रीविद्यासिद्धिः।  
 न कदापि सकामानामिति॥**
@@ -8010,7 +8012,7 @@ is described as the same as Vishnu-bhakti in quotation 5. Urvasi, Menaka &c., ar
 **अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति।  
 नायं लोकोस्ति न परो न सुखं संशयात्मनः॥**
 
-![](../../../../../books_images/U-IMG-1699190290Screenshot(39).png)Besides the Tri-murtis and the limited number of Goddesses already noticed, there are innumerable personages whose names commonly occur in the religious texts. No less than 33 crores of Devas are said to inhabit the Swarga-loka with their consorts, rulers, administrators and religious preceptors. They have a sufficiently large number of permanent enemies known as the Asuras. Similarly, a good number of Bramha-Rishis, Deva-Rishis, Raja-Rishis and Pitris as well as their families appear in the descriptions of their respective regions. An examination of their personal characteristics and whereabouts is absolutely necessary to complete the present section. The enumeration and description of the Devas may be first examined.
+<MISSING_FIG href="../../../../../books_images/U-IMG-1699190290Screenshot(39"/>.png)Besides the Tri-murtis and the limited number of Goddesses already noticed, there are innumerable personages whose names commonly occur in the religious texts. No less than 33 crores of Devas are said to inhabit the Swarga-loka with their consorts, rulers, administrators and religious preceptors. They have a sufficiently large number of permanent enemies known as the Asuras. Similarly, a good number of Bramha-Rishis, Deva-Rishis, Raja-Rishis and Pitris as well as their families appear in the descriptions of their respective regions. An examination of their personal characteristics and whereabouts is absolutely necessary to complete the present section. The enumeration and description of the Devas may be first examined.
 
 ***  Quotation. No. I.***
 
@@ -11801,6 +11803,7 @@ angas, as well as of the processes to work out practically theinstructions conta
 लोकयात्राविधानञ्च सर्वे तदृष्टवान् ऋषिः॥**
 
  This is exactly the summary of the text in the order given.    
+  
 
 **इह सर्वमनुक्रान्तमुक्तं ग्रन्थस्य लक्षणम्॥**
 

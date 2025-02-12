@@ -20,8 +20,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA5NTc3MDM5NTE
 
 [TABLE]
 
-![](#)PREFACE TO THE FIRST EDITION.  
-![](#)![](../books_images/U-IMG-172630487511111.png)![](#)
+<MISSING_FIG href="#"/>PREFACE TO THE FIRST EDITION.  
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-172630487511111.png"/><MISSING_FIG href="#"/>
 
  The following pages have been intended to serve as a reading book for Sanskrit students preparing for the Mrtriculation Examination. They contain about 20 extraets taken from the well-known works of most of the renowned standard Sanskrit writers, beginning with Vālmîki and ending with Jagannâtha Pandit. The extracts are intended to give the student specimens of different styles and modes of thought, and will be found to display a variety of forms descriptive, moral, didactic, narrative, argumentative, epic, dramatic, lyric &c. Each extract has an intelligible beginning and an end, the subject treated therein being given in English at the commencement, and its source at the end. In selecting passages from different works I have had to abridge or condense them in several cases by leaving out single words or long compounds, or even several sentences or verses, where the omission could be made without impairing the beauty of the original or affecting the context or train of reasoning. It was found necessary to do so to prevent the extracts from being needlessly long, but in some cases even the passages so condensed became rather lengthy, and have, therefore, been divided into Parts.
 
@@ -161,7 +161,7 @@ THIRD SERIES.
 
 **कुसुममाला.**  
 
-**![](../books_images/U-IMG-172630525433333.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-172630525433333.png"/>**  
 
 प्रथमावलिः
 
@@ -665,6 +665,7 @@ XI\.
 अर्हस्यंतर्भवनपतितां कर्तुमल्पाल्पभासं  
  स्वद्योतालीविलासितनिभां विद्युदुन्मेषदृष्टिम्॥७॥
 
+                              
 Meghadu'ta.
 
 ————————————
@@ -832,6 +833,7 @@ A contrast.
 तथेति तस्याः प्रणयप्रतीतः प्रत्यग्रहीत्प्राग्रहरो रघूणाम्।  
 पूरप्यभिव्यक्तमुखप्रसादा शरीरबंधेन तिरोबभूव॥१९॥
 
+                               
 Raghuvamsha XVI.
 
 XVI\.
@@ -1343,6 +1345,8 @@ Kādambary.
 अहो तम इवेदं स्यान्न प्रज्ञायेत किंचन ।  
 राजा चेन्न भवेल्लोके विभंजन्साध्वसाधुनी॥२०॥
 
+                         
+
    Ramayana.
 
 **———————————————**
@@ -1553,6 +1557,8 @@ Part II.
 बुद्धौ कलुषभूतायां विनाशे प्रत्युपस्थिते।  
 अनयो नयसंकाशो हृदयान्नापसर्पति॥३२॥
 
+                          
+
 Mahābhārata.
 
 **—————————————**
@@ -1601,6 +1607,8 @@ Vikramorvasiyam.
 
 परस्परविरोधिन्योरेकसंश्रयदुर्लभम्।  
 संगतं श्रीसरस्वत्योर्भूतयेऽस्तु सदा सताम्॥
+
+                        
 
 Vikramorvasiyam.
 
@@ -1777,6 +1785,7 @@ Dasaratha and Visvamitra.
 **क्रुध्यन्कुलं धक्ष्यति विप्रवह्निर्यास्यन् सुतस्तप्स्यति गां समन्युम्।  
 इत्थं नृपः पूर्वमवालुलोचे ततोऽनुजज्ञे गमनं सुतस्य॥१९॥**
 
+                                 
 Bhatti-kavya I.
 
 **—————————————**
@@ -1845,6 +1854,7 @@ Draupadīand Yudhishthira.
 न समयपरिरक्षणं क्षमं ते निकृतिपरेषु परेषु भूरिधाम्नः।  
 अरिषु हि विजयार्थिनः क्षितीशा विदधति सोपधि संधिदूषणानि॥२०॥
 
+                                   
    
 
 Kiratarjuniyam I.
@@ -1964,6 +1974,8 @@ Judicial procedure.
 
 सर्वेष्वर्थविवादेषु बलवत्युत्तरा क्रिया।  
 आधौ प्रतिग्रहे क्रीते पूर्वा तु बलवत्तरा॥१५॥
+
+                    
 
  Yajnavalkyasmriti II.
 
@@ -2293,6 +2305,8 @@ A jackal fallen into an indigo-vat.
 आत्मपक्षं परित्यज्य परपक्षेषु यो रतः।  
 स परैर्हन्यते मूढो नीलवर्णशृगालवत्॥२॥
 
+                        
+
 Hitopadesa III.
 
 **——————————————**
@@ -2398,6 +2412,7 @@ General precepts of advice.
 **सनातने वर्त्मनि साधु तिष्ठतामयं हि पंथा गृहमेधिनां मतः।  
 अनेन गच्छन्नियतं महात्मनामिमं च लोकं परमं च विंदति॥२८॥**
 
+                                 
 Kamandaki-Nitisara.
 
 **———————————**
@@ -3459,6 +3474,7 @@ Part II.
 **य आत्मनाऽपत्रपते भृशं नरः स सर्वलोकस्य गुरुर्भवत्युत।  
 अनंततेजाः सुमनाः समाहितः स तेजसा सूर्य इवावभासते॥३९॥**
 
+                                   
     Mahābhārata.
 
 **—————————————**
@@ -3475,6 +3491,7 @@ King Harsha hearing of his father's illness.
 
  दृष्ट्वा पूर्वनिमित्तपरंपराविर्भूतभीतिरखिद्यत हृदयेन। कुरंगकस्तु कृतप्रणामः समुपसृत्य प्रथममाननलग्नं विषादमुपनिन्ये पश्चाल्लेखम्। तं च हर्षः स्वयमेवावाचयत्। लेखार्थेनैव च सह गृहीत्वा हृदये संतापमविग्नरूपोऽभ्यधात्। कुरंगक किं ममाद्य तातस्येति। स चाचचक्षे देव दाहज्वरो महानिति। तच्चाकर्ण्य सहसैवास्य हृदयं पफाल। कृतमनाश्च जनयितुरायुष्कामोऽपरिमितमणिकनकरजतजातमात्मपरिब र्हमशेषं ब्राह्मणसादकरोत्। अभुक्तवानेवोच्चचाल त्वरया च धावतानःपरिबर्हकोपनीतमारुह्य तुरंगममेकाक्येव प्रयातुं प्रावर्तत।
 
+                                   
          Harshacharita.
 
 **—————————————————————**
@@ -3894,6 +3911,7 @@ A poet's introduction to his poem.
 **एषास्तु चालुक्यनरेंद्रवंशसमुद्गतानां गुणमौक्तिकानाम्।  
 मद्भारतीसूत्रमिवेशितानामेकावली कंठविभूषणं वः॥१५॥**
 
+                           
 Vikramankadevacharita I.
 
 ————————————————————————
@@ -3974,6 +3992,7 @@ The sunset.
 **दिवसं भृशोष्णरुचिपादहतां रुदतीमिवानवरतालिरुतैः।  
 मुहुरामृशन्मृगधरोऽग्रकरैरुदशिश्वसत्कुमुदिनीवनिताम्॥२४॥**
 
+                                   
    Shisupalavadha IX.
 
 **——————————————**
@@ -4347,13 +4366,13 @@ Miscellaneous verses.
 
 इति प्रायो भावाः स्फुरदवधिमुद्रामुकुलिताः  
  सतां प्रज्ञोन्मेषः पुनरयमसीमा विजयते॥६६॥  
-![](../books_images/U-IMG-1726162993स्क्रीनशॉट2024-09-12174251.png)
+<MISSING_FIG href="../books_images/U-IMG-1726162993स्क्रीनशॉट2024-09-12174251.png"/>
 
 तृतीयावलिः।  
 
 THIRD SERIES.  
 
-![](../books_images/U-IMG-1726163673स्क्रीनशॉट2024-09-12175421.png)
+<MISSING_FIG href="../books_images/U-IMG-1726163673स्क्रीनशॉट2024-09-12175421.png"/>
 
 I.
 
@@ -5662,7 +5681,9 @@ An account of Kadambari.
  महाश्वेताऽब्रवीत्। महाभाग यत्तन्मया कथितममृतसंभवमप्सरसां कुलं तस्मान्मदिरेति नाम्ना मदिरायतेक्षणा कन्यकाभृत्। तस्याश्चासौ सकलगंधर्वकुलमुकुटकुड्मलपठिप्रतिष्ठितचरणो देवश्चित्ररथः पाणिमग्रहीत्। अपरिमितगुणगुणा कृष्टहृदयश्चान्यवनिता दुर्लभेनाधः कृताशेषांतः पुरेण हेमपट्टलांछनेन छत्रचामरचिन्हेन महादेवीशब्देन परं प्रीतः
 
 प्रसादमकरोत्। अन्योन्यप्रेमसंवर्धनपरयोश्च तयोर्यौवनसुखानि सेवमानयोः कालेनाश्चर्यभूतमेकजीवितमिव पित्रोरथवा सर्वस्यैव गंधर्वकुलस्य वा जीवलोकस्य दुहितृरत्नमुदपादि कादंबरीति नाम्ना। साच मे जन्मतः प्रभृत्येकासनशयनपानाशना परं प्रेमस्थानमखिलविश्रंभधाम द्वितीयमिव हृदयं बालमित्रम्। एकत्र तया मया च नृत्यगीतादिकलासु कृताः परिचयाः। शिशुजनोचिताभिश्च क्रीडाभिरनियंत्रणनिर्भरमपनीतो बालभावः। सा चामुनैव मदीयेन हतवृत्तांतेन समुपजातशोका निश्चयमकार्षीन्नाहं कथंचिदपि सशोकायां महाश्वेतायामात्मनः पाणिं ग्राहयिष्यामिति सखीजनस्य पुरतः सशपथमभिहितवती यदि कथमपि मामनिच्छंतीमपि बलात्तातः कदाचित्कस्मैचिद्दातुमिच्छति तदाहमनशनेन वा हुताशनेन वा रज्ज्वा वा विषेण वा नियतमात्मानुत्स्रक्ष्यामीति। सर्वं च तदात्मदुहितुः कृतनिश्चयं निश्चलभाषितं कर्णपरंपरया परिजनसकाशाद्गंधर्वराजश्चित्ररथः स्वयमशृणोत्। गच्छति काले समुपारूढानिर्भरयौवनामालोक्य सुतां बलवदुपतापपरवशः क्षणमपि न धृतिमलभत। एकापत्यतया चातिप्रियतया च न शक्तः किंचिदपि तामभिधातुमित्यपश्यंश्चान्यदुपायांतरमिदमत्र प्राप्तकालमिति मत्वा तया महादेव्या मदिरया सह वधार्य क्षीरोदनामानं कंचुकिनं वत्से महाश्वेते त्वद्वयतिकरेणैव दग्धहृदयानामिदमपरमस्माकमुपस्थितमिदानीं तु कादबंरीमनुनेतुं त्वं शरणमिति संदिश्य मत्समीपमद्यैव प्रत्यूषसि प्रेषितवान्। ततो मया गुरुवचनगौरवेण सखीप्रेम्णा च क्षीरोदेन सार्धं सा तरलिका सखि कादंबरि किं दुःखितमपि जनमतितरां दुःखयसि जीवंतीमिच्छसि चेन्मां तरकुरु शुरुवचनमवितथमिति संदिश्य विसर्जिता। नातिचिरं गतायां च तस्यामनंतरमेवेमांभूतिमनुप्राप्तो महाभाग इत्यभिधाय तूष्णीमामभवत्।   
-
+                                   
+                                   
+                                   
                                    
 
 Kadambari.
@@ -6479,7 +6500,7 @@ Miscellaneous verses.
 
 **NOTES**  
   
-![](../books_images/U-IMG-1726573314स्क्रीनशॉट2024-09-17114140.png)
+<MISSING_FIG href="../books_images/U-IMG-1726573314स्क्रीनशॉट2024-09-17114140.png"/>
 
 **I**
 

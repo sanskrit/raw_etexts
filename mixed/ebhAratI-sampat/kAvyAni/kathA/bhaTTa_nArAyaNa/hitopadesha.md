@@ -28,16 +28,16 @@ FROM THE LIBRARYOF
 JAMES HAUGIITON WOODS  
 1935**
 
-![](../books_images/U-IMG-1726299827100.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726299827100.jpg"/>
 
 **Printed and published by Hari Narayan Gokhale at the  
 “ARYA-BHUSHANA PRESS,”POONA. **
 
-![](../books_images/U-IMG-1726299872101.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726299872101.jpg"/>
 
 **PREFACE.**
 
-![](../books_images/U-IMG-1726300246789.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726300246789.jpg"/>
 
  The following is a Popular Edition of the Hitopadesha of Bhatta Nârâyana containing full explanatory notes, a glossary of words and a literal translation of all the verses occurring in the text and the dissolution of compounds adapted to meet the requirements of the less advanced students. By a Popular edition is meant such a one as can be easily understood without the help of a teacher even by a student who has studied the first few lessons of the 2nd book of Sanskrit Series. It is thus hoped that it will be largely availed of by the generality of students and especially by those who study privately and for whom it is chiefly intended. An experience of some years as a teacher of Sanskrit has convinced the editor that a book of this kind now presented would be generally acceptable. Hence he thinks that the publication of the book meets a long-felt want. It is prepared on the model of the Five Tantras or Panchatantra, which has been before the public for the last 3 years.
 
@@ -47,15 +47,15 @@ JAMES HAUGIITON WOODS
 
 **THE EDITOR.**
 
-![](../books_images/U-IMG-1726327494369.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726327494369.jpg"/>
 
-![](#)
+<MISSING_FIG href="#"/>
 
 **अ^(१)थ**
 
 **हितो**^(**२**)**पदेशः।**
 
-**![](../books_images/U-IMG-172630900409.jpg)**  
+**<MISSING_FIG href="../books_images/U-IMG-172630900409.jpg"/>**  
 **॥प्र^(३)स्ताविका॥**
 
 **^(४)सिद्धिः साध्ये सतामस्तु प्रसादात्तस्य धूर्जटेः।  
@@ -287,7 +287,7 @@ JAMES HAUGIITON WOODS
 ** १** Within a period of six months, in the space of six months. षण्मासानां अभ्यंतरे.ष० त० **२** नीतिशास्त्राभिज्ञानू Conversant with, or versed in, the science of politics नीतिशाने अभिशान्स० त० **३** सविनय —With modesty, modestly. विनयेन सहितं यथां तथा अव्य० **४** Even an insect ascends the heads of great men through contact with flowers (along with flowers wherein it sits ); even a stone assumes godhead, when well consecrated or installed by tho great. सुमनसंगात्(ष० त०) सुमनसःसंगात् **५** Just as on therising mountain, objects appear bright or shine by contact with the sun, so by proximity with the good, even a person of low qualities( *lit*, of an inferior or black complexion) becomes improved, There is a pun here upon the word वर्ण (1) merit quality. (2) Colour, complexion.For उदयगिरौ — another Edition reads उदयगिरेः, in that case this genitiveis to be taken with सन्निकर्षेण, by contact with the rising mountain. **६**अस्मत्पुत्राणां —अस्माकं पुत्राणां ष० त० **७** नीति..... प्रमाणम् -- you are the sole authority as regards giving them ( my sons ) instructionin politics, that is, your honour alone should decide what and how to teach. **८** विष्णुशर्मणः, goeswith समर्पितवान्, the genitive being used for the dative.**९** बहुमानपुरःसरं—very, respectfully, बहुमानः पुरःसरः यास्मिन् कर्मणि यथा तथा अव्य० **१०** समर्पितवान्Nom, Sing. Masc, of the active past participle of the caus, of ऋ with सम्, **११** इति-Here ends (the introductory portion.)
 
 **॥मित्रलाभः॥**  
-![](../books_images/U-IMG-1726501583022.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726501583022.jpg"/>
 
 **^( १)**अथ प्रासाद**^(२)**पृष्ठे सुखोपवि**^(३)**ष्टानां राजपुत्राणां पुरस्ता**^(४)**त्प्रस्ताव**^(५)**क्रमेण स पण्डितोब्रवीत्
 
@@ -2828,7 +2828,7 @@ estranged by a minister like a wristlet of orystal?.
 
 **^(६)इति हितोपदेशे सुहृद्भेदो नाम द्वितीयः कथासंग्रहः समाप्तः। **
 
-![](../books_images/U-IMG-1727519203tab.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1727519203tab.jpg"/>
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -4574,6 +4574,7 @@ with these, but should only fight,for these when fought with easily come within 
 
 ** १** So long as the moon-crested god (Shiva) remains dear to the daughter of the cold mountain (Himálaya); so long as Lakshmî shines (gives delight to) in the heart of Murári as does lightening in the clouds, so long as this golden mountain resembling a forest conflagration has the sun for its sparks, may this collection of stories composed by Náráyana remain in existence.**२** May this prosperous ruler as bright as the moon conquer his enemies, he—by whom this collection has been caused to be written and published. **३**Thus ends the 4th Collection of stories in Hitopadesha named (Sandhi) Peace. **४** Here ends the Hitopadesha. **५** May there be welfare.
 
-![](../books_images/U-IMG-1729251838Screenshot2024-10-18171342.png)
+                                  
+<MISSING_FIG href="../books_images/U-IMG-1729251838Screenshot2024-10-18171342.png"/>
 
 \]

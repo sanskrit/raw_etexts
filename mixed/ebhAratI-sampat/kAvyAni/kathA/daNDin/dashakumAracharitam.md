@@ -110,6 +110,7 @@ PART II**
 that Daṇḍin was celebrated as the author of three books. Two are our book and the K*â*vy*â*dar'sa. The third is still to seek. Pischel, who believes that it is the Mṛichchhakaṭikâ, has to deal with an important passage in the beginning of the Kâvyâdarśa, in which Daṇḍin apparently refers to a work on metre by himself called the Chhandovichiti. Daṇḍin's Chhandovichiti, has not come down to us, or has not yet been recovered, and it is evident that there is a prim*â* facie possibility that it may be
 
 —————————————————————————————————                   
+   
 
  \*Pandit Maheśchandra Nyâyaratna, in his interesting paper in the Proceedings of the Bengal Asiatic Society for 1887, p.193, holds that it is unquestionable that Vâmana is by much the older of the two writers. He does not, however, give his reasons. The Pandit has been before me with the observation that Kâvyâdarśa II. 197,
 
@@ -168,7 +169,7 @@ omitting from his compendium one half of his subject, as that has just been defi
 **PREFACE TO THE SECOND EDITION**  
 **(Parts I and II together.)**
 
-![](../books_images/U-IMG-1722596457Screenshot2024-07-30115049.png)
+<MISSING_FIG href="../books_images/U-IMG-1722596457Screenshot2024-07-30115049.png"/>
 
  The present is a revised edition in one volume ofDaṇḍin's DaŚakumâracharita. Part I, includingthe Púrvapîṭhikâ and the first three Uchchhvâsas of the work proper was edited as No. X of the Bombay Sanskrit Series by the late Dr. G. Bühler, C.I. E., as far back as 1887; Part II, No. XLII including the remaining five Uchchhvâsas was issued by the late Dr.P. Peterson. M.A., in 1891. Since the text of both parts together does not make more than 145 pages, the present edition is issued in a single volume.
 
@@ -182,7 +183,7 @@ omitting from his compendium one half of his subject, as that has just been defi
 
 **INTRODUCTION**
 
-**![](../books_images/U-IMG-1722596747Screenshot2024-07-30115049.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722596747Screenshot2024-07-30115049.png"/>**
 
 **Popularity of the** **work.**
 
@@ -732,7 +733,7 @@ the stories in question, however inconsistent with his religious meditations” 
 
 **॥अथ दशकुमारचरिते पूर्वपीठिका॥**
 
-![](../books_images/U-IMG-1722702077Screenshot2024-08-03214512.png)
+<MISSING_FIG href="../books_images/U-IMG-1722702077Screenshot2024-08-03214512.png"/>
 
 **श्रीगणेशाय नमः॥**
 
@@ -1016,7 +1017,7 @@ the stories in question, however inconsistent with his religious meditations” 
 
 **॥अथ दशकुमारचरितम्॥**
 
-![](../books_images/U-IMG-1722937253Screenshot2024-08-06150546.png)
+<MISSING_FIG href="../books_images/U-IMG-1722937253Screenshot2024-08-06150546.png"/>
 
  श्रुत्वा तु भुवनवृत्तान्तमुत्तमाङ्गना विस्मयविकसिताक्षी सस्मितमिदमभाषत। दयित त्वत्प्रसादादद्य मे चरितार्था श्रोत्रवृत्तिः। अद्य मे मनसि तमोपहस्त्वया दत्तो ज्ञानप्रदीपः। पक्वमिदानीं त्वत्पादपद्मपरिचर्याफलम्। अस्य च त्वत्प्रसादस्य किमुपकृत्य प्रत्युपकृतवती 5भवेयम्। अभवदीयं हि नैव किंचिन्मत्संबद्धम्।अथवास्त्येवास्यापि जनस्य क्वचित्प्रभुत्वम्।अशक्यं हि मदिच्छया विना सरस्वतीमुखग्रहणोच्छेषणीकृतो दशनच्छद एष चुम्बयितुमम्बुजासनास्तनतटोपभुक्तमुरःस्थलं चैतदालिङ्गयितुमिति प्रियोरसि प्रावृडिव नभस्युपास्तीर्णगुरुपयोधरमण्डला प्रौढकन्दलीमुकुलमिव रूढरागरूषितं चक्षुरु- 10ल्लासयन्ती बर्हिबर्हावलीविडम्बिना कुसुमचन्द्रकशारेण मधुकरकुलव्याकुलेन केशकलापेन स्फुरदरुणकिरणकेसरकरालं कदम्बकुङलमिवकान्तस्याधरमणिमधीरमाचुचुम्ब। तदारम्भस्फुरितया च रागवृत्त्या भूयोभूयः प्रावर्ततातिमात्रचित्रोपचारशीफरो रतिप्रबन्धः। सुरतखेदप्रसुप्रयोस्तु तयोः स्वप्नेबिसगुणनिगडितपादो जरठः कश्चिज्जालपादः 15 प्रत्यदृश्यत।प्रत्यबुध्येतां चोभौ।अथ तस्य राजकुमारस्य कमलमूढशशिकिरणरज्जुदामनिगृहीतमिव रजतशृङ्खलोपगूढं चरणयुगलमासीत्।उपलभ्यैव च किमेतदित्यतिपरित्रासविह्वला मुक्तकंण्ठमाचक्रन्द राजकन्या। येन तत्सकलमेव कन्यान्तःपुरमग्निपरीतमिव पिशाचोप-
 
@@ -1388,7 +1389,7 @@ the stories in question, however inconsistent with his religious meditations” 
 
 **॥अथ चतुर्थ उच्छ्वासः॥**
 
-![](../books_images/U-IMG-1721786158Screenshot2024-07-24072057.png)
+<MISSING_FIG href="../books_images/U-IMG-1721786158Screenshot2024-07-24072057.png"/>
 
  देव सोहमप्येभिरेव सुहृद्भिरेककर्मोर्भिमालिनेमिभूमिवलयं भ्रमन्नुपासरं कदाचित्काशीपुरीं वाराणसीम्। उपस्पृश्य च मणिभङ्गनिर्मलाम्भसि मणिकर्णिकायामविमुक्तेश्वरं भगवन्तमन्धकमथनमभिप्रणम्य प्रदक्षिणं परिभ्रमन्पुरुषमेकमायामवन्तमायसपरिघपीवराभ्यां भुजाभ्यां 5बध्यमानपरिकरमविरतरुदितोच्छूनताम्रदृष्टिमद्राक्षम्। अतर्कयं च।कर्कशोयं पुरुषः। कार्पण्यमिव वर्षति म्लानतारं चक्षुः। आरम्भश्च साहसानुवादी। नूनमसौ प्राणनिस्पृहः किमपि कृच्छ्रं प्रियजनव्यसनमूलं प्रपित्सते। तत्पृच्छेयमेनमस्ति चेन्ममापि कोपि साहाय्यावकाशस्तमेनमभ्युपपद्य इत्यपृच्छम्। भद्र संनाहोयं साहसमवगमयति। 10न चेद्गोप्यमिच्छामि श्रोतुं शोकहेतुमिति। स मां सबहुमानं निर्वर्ण्य को दोषः श्रूयतामिति क्वचित्करवीरतले मया सह निषण्णः कथामकार्षीत्।
 
@@ -1913,7 +1914,7 @@ the stories in question, however inconsistent with his religious meditations” 
      अप्राप्य दण्डिरचितं हरिशर्मा व्यलीलिखत्॥  
 ग्रन्थसंख्या २५०
 
-![](../books_images/U-IMG-1722229410Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1722229410Screenshot2024-07-09103520.png"/>
 
 ( Dec. Col. Mss. *No. 32.*  
                 1873-74.)
@@ -2105,11 +2106,11 @@ sinister arts of thieving and gambling find no place in Baṇa's list of the acc
 
  Some of these names are unintelligible, but खेचरीकला, अमरीकला, पातालसिद्धि, इन्द्रजालम् seem to mark the downward tendency of the age in which faith in occultism seems to have gained such a hold on the public mind as to have necessitated the inclusion of such arts in the scheme of a prince's education.
 
-![](../books_images/U-IMG-1722346329Screenshot2024-07-30115049.png)
+<MISSING_FIG href="../books_images/U-IMG-1722346329Screenshot2024-07-30115049.png"/>
 
 **SECOND UCHCHHVÂSA.**
 
-**![](../books_images/U-IMG-1722318185Screenshot2024-07-09103520.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722318185Screenshot2024-07-09103520.png"/>**
 
 **P. 12. L. 2.** कल्पितसोदर्येण lit. "formed as if he were a brother" of the god of love.
 
@@ -2183,7 +2184,7 @@ sinister arts of thieving and gambling find no place in Baṇa's list of the acc
 
  **P. 16. L. 1.** चिन्ताज्वरातिशयो.From the way in which सोमदत्त is introduced to the reader 'seated on a swing in the midst of damsels, there appears to be no visible sign of anxiety, unless it be on account of the disappearance of राजवाहन.
 
-![](../books_images/U-IMG-1722348684Screenshot2024-07-30115049.png)
+<MISSING_FIG href="../books_images/U-IMG-1722348684Screenshot2024-07-30115049.png"/>
 
 **THIRD UCHCHHVÂSA.**
 
@@ -2314,14 +2315,14 @@ flowers, the place where she had worshipped, the gravel bearing the imprint of h
 
                                 End of the Pûrvapîthikâ.
 
-![](../books_images/U-IMG-1722320663Screenshot2024-07-09103520.png)
+<MISSING_FIG href="../books_images/U-IMG-1722320663Screenshot2024-07-09103520.png"/>
 
 **DAŚAKUMARA-CHARITAM.**
 
-![](../books_images/U-IMG-1722320743Screenshot2024-07-30115042.png)  
+<MISSING_FIG href="../books_images/U-IMG-1722320743Screenshot2024-07-30115042.png"/>  
 **UCHCHHVÂSA 1.**
 
-![](../books_images/U-IMG-1722320759Screenshot2024-07-30115049.png)
+<MISSING_FIG href="../books_images/U-IMG-1722320759Screenshot2024-07-30115049.png"/>
 
  **P. 34. L. 1.** श्रुत्वेति। भुवनस्य जगतो वृत्तान्तं रुक्मिण्यादिभिः कृष्णस्येन्द्रस्य गुरोः पितामहस्य शकुन्तलादुष्यन्तादीनां च गान्धर्वविवाहकरणविषयां प्रवृत्तिम्। वार्ताप्रवृत्तिर्वृत्तान्त इत्यमरः। अनेन गान्धर्वविवाहेन परिणीता\[ नां\] पुण्यवत्त्वज्ञानाद्राजवाहनेन सह गान्धर्वविवाहो मम पुण्यवत्त्वं सम्पादयेदिति मतिरुत्पन्ना। तेन च तस्मिन्राजवाहनेतिरागः। अतएव त्रिभुवनसर्गयात्रासंहारस्थिताभिः प्रत्यानीयमानरागपूरामिति \[ **P. 38 L. 1**\] वक्ष्यति Bhû.Paḍ.explains भुवनवृत्तान्तम् by चतुर्दशभुवनवृत्तान्तं पातालवृत्तान्तमित्यर्थः। but wrongly. The use of Purânic tales for purposes similar to those of Râjavâhana, seems to have been very frequent. Compare, e. g., below, **P. 44. L. 3.** \[ Bühler \].  
  **P. 34. L. 6.** सरस्वतीत्यादि। सरस्वत्यामुखग्रहणेनोच्छेषणीकृतउच्छिष्टीकृतो य एष भवदीय इत्यर्थः। दशनच्छदओष्ठः। .......अम्बुजासना लक्ष्मीस्तस्याः स्तनतटोपभुक्तमिदमुरःस्थलं त्वदीयमित्यर्थः॥ Paḍ. Regarding the use of उच्छेषणSee above, note to **P. 31. L. 5.** and translate 'which has been kissed or touched,' Râjavâhana is here compared to Vishṇu, as stated in the Bhûshaṇâ. एतेन विशेषणद्वयेन विष्णुरूपवर्णनाद् भावि सार्वभौमत्वं सूचितम्। वागीशा यस्य वदने लक्ष्मीर्यस्य च वक्षसि। यस्यास्ते हृदये संवित्तं नृसिंहमहं भज इत्यर्थकेन तादृशविशेषणाक्रान्तस्य नृसिंहसूचनादन्यस्त्रीभोगराहित्यंसूचितम्।  
@@ -2456,7 +2457,7 @@ Regarding the formation of the passive of दै See Kielhorn Sk. Gr. SS. 379 C.
 
 **End of the 1st Uchchhvâsa.**
 
-![](../books_images/U-IMG-1722405864Screenshot2024-07-31112930.png)
+<MISSING_FIG href="../books_images/U-IMG-1722405864Screenshot2024-07-31112930.png"/>
 
 **SECOND UCHCHHVÂSA.**
 

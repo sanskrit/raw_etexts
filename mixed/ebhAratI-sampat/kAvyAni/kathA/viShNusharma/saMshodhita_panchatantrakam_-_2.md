@@ -1215,11 +1215,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 
 **इति श्रीविष्णुशर्मविरचिते पञ्चतन्त्रके काकोलूकीयं नाम तृतीयं तन्त्रं समाप्तम्।**
 
-**![](../books_images/U-IMG-1721553358क.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1721553358क.PNG"/>**
 
 **लब्धप्रणाशम्**
 
-![](../books_images/U-IMG-1721545316लो.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1721545316लो.PNG"/>
 
  अथेदमारभ्यते लब्धप्रणाशं नाम चतुर्थंतन्त्रम्। यस्यायमादिमः श्लोकः—
 
@@ -2062,7 +2062,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNjk4ODczMjY
 समाप्तमिदं पञ्चतन्त्रकम्।  
 शुभं भूयात्।**
 
-**![](../books_images/U-IMG-1721443514Screenshot2024-07-20081201.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721443514Screenshot2024-07-20081201.png"/>**
 
 **टिप्पणी**
 

@@ -36,7 +36,7 @@ Printer:-Ramchandra Yesu Shedge, **
 हर्षचरितम् ।  
 महाकविचूडामणिशंकरकविरचितया संकेताख्यया  
 व्याख्यया समेतम् ।**  
-**![](../books_images/U-IMG-1721981982Screenshot2024-07-26134918.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1721981982Screenshot2024-07-26134918.png"/>  
 काशीनाथ पाण्डुरङ्ग परब  
 इत्यनेन संशोधितम् ।  
 पणशीकरोपाह्वविद्वद्वरलक्ष्मणशर्मतनुजनुषा  
@@ -59,7 +59,7 @@ Printer:-Ramchandra Yesu Shedge, **
 **॥** **श्रीः** **॥**  
 **हर्षचरितम् ।**  
 **शंकरकृतया संकेताख्यया व्याख्यया समेतम्** **।  
-![](../books_images/U-IMG-1721982353Screenshot2024-07-26135530.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721982353Screenshot2024-07-26135530.png"/>**
 
 **प्रथम उच्छ्वासः ।**
 
@@ -542,7 +542,7 @@ Printer:-Ramchandra Yesu Shedge, **
 
 *इति श्रीशंकरकविरचिते हर्षचरितसंकेते प्रथम उच्छ्वासः।*
 
-![](../books_images/U-IMG-1723405833Screenshot2024-08-12031709.png)
+<MISSING_FIG href="../books_images/U-IMG-1723405833Screenshot2024-08-12031709.png"/>
 
 **द्वितीय उच्छासः।**
 
@@ -883,7 +883,7 @@ Printer:-Ramchandra Yesu Shedge, **
 
 *॥इति श्रीशंकरकविरचिते हर्षचरितसंकेते द्वितीय उच्छ्वासः समाप्तः॥*
 
-*![](../books_images/U-IMG-1723227873Screenshot2024-08-10015527.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1723227873Screenshot2024-08-10015527.png"/>*
 
 **तृतीय उच्छ्वासः**।
 
@@ -1149,4 +1149,3 @@ Printer:-Ramchandra Yesu Shedge, **
 *** स्वामिन एव प्रणयिन इति।** अनुक्तान्यपि शरीरादीनि प्रणयिनां स्वायत्तानीत्यर्थः।*
 
 \]
-

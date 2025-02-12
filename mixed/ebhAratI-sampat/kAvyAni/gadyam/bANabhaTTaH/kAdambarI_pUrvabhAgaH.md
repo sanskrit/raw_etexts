@@ -42,7 +42,7 @@ From the account given in the Harshacharita of Bana, in comparison with the desc
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![](../books_images/U-IMG-1725723042bana.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1725723042bana.PNG"/>
 
 of the life of Harshavardhana Siladitya[^6]given by Hiouen Thsang, Bana's patron is identified with the king who ruled in Kanouj from 606-648 A.D.[^7] Moreover his name is mentioned in various inscriptions which corroborates the the above date. Hence, we can conclude that the date of Bana must be assigned to the closing part of the sixth and the early part of the seventh centuries A.D.
 

@@ -19,13 +19,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2NjM4NDgwMDg
 
 **काव्यमाला ९०.**
 
-**![](../books_images/U-IMG-1724944111ल.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1724944111ल.jpg"/>**
 
 **समरपुंगवदीक्षितविरचितो **
 
 **यात्राप्रबन्धः। **
 
-**![](../books_images/U-IMG-1724944175लल.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1724944175लल.jpg"/>**
 
 **जयपुरमहाराजाश्रितेन महामहोपाध्यायपण्डितश्रीदुर्गाप्रसाद-**
 
@@ -57,7 +57,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2NjM4NDgwMDg
 
 **समरपुंगवदीक्षितः, तदीयो यात्राप्रबन्धश्व।**
 
-**![](../books_images/U-IMG-1725026102त.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1725026102त.jpg"/>**
 
  अतिरात्रयज्वावाधूलकुलजलधिकोस्तुभः कनकाठपाठबिरुदाङ्कःश्रीसमरपुगवदीक्षित- नामाय कविः षोडश्या ख्रिस्तशताब्द्या(१५७४ ख्रिस्ताब्दात्‌ परम्‌) अन्ते दक्षिणदेशे बटवनाभिधाननाम्निनगरे श्रीवेङ्कटेशादनन्तम्माया जन्म लेभेइति तदीये यात्राप्रबन्धे लिखितयाग्रन्थनायकजननकालिकया ग्रहस्थित्या, द्वितीयाश्वासे ‘सौभागिनेयः स तदा शोभायै श्रुतिसपदाम्‌। असेवत शिवाकल्पकल्पमप्पय्यदीक्षितम्‌॥’ इत्यादिनाकृतेन तदात्व एववर्तमानस्य सुप्रसिद्धस्य विद्वद्वरेण्यस्य श्रीरङ्गराजाध्वरेस्तनूद्भवस्य चित्रमीमांसाद्यनेकनि- बन्धरचयितः श्रीमदप्पयदीक्षितस्य वर्णनेन च सुस्पष्टमभ्युपगम्यते।
 
@@ -81,11 +81,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2NjM4NDgwMDg
 **केदारनाथशर्मा**  
  काव्यमालासपादकः।
 
-![](../books_images/U-IMG-1725026977ोो.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1725026977ोो.jpg"/>
 
 **यात्राप्रबन्धस्य विषयक्रमः।**
 
-**![](../books_images/U-IMG-1725027183ै.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1725027183ै.jpg"/>**
 
 **प्रथम आश्वासे (पृ. १—१९ पृ)**
 
@@ -139,13 +139,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2NjM4NDgwMDg
 
 **काव्यमाला।**
 
-**     ![](../books_images/U-IMG-1725088579ूूू.jpg)**
+**     <MISSING_FIG href="../books_images/U-IMG-1725088579ूूू.jpg"/>**
 
 श्रीसमरपुंगवदीक्षितविरचितो
 
 **यात्राप्रबन्धः।**
 
-**![](../books_images/U-IMG-1725087444ूू.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1725087444ूू.jpg"/>**
 
 **प्रथमआश्वास।**
 
@@ -5328,4 +5328,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2NjM4NDgwMDg
 ———————**
 
 \]
-

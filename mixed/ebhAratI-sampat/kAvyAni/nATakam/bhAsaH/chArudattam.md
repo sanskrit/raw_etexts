@@ -1970,7 +1970,7 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **चतुर्थोऽङ्कः।**
 
-**![](../books_images/U-IMG-1708864232Screenshot2024-02-19135503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708864232Screenshot2024-02-19135503.png"/>**
 
 **श्लोकानुक्रमणिका।**
 
@@ -2941,7 +2941,7 @@ Give this as the price of that great confidence which inspired her to make the d
 
 ***Exeunt Omnes  
 End of the Third Act.**  
-![](../books_images/U-IMG-1709033770रेखासमान.png)*
+<MISSING_FIG href="../books_images/U-IMG-1709033770रेखासमान.png"/>*
 
 **ACT IV**
 
@@ -3216,7 +3216,7 @@ A man seeking to requite another, gains his wish (*only*) through (*the latter's
 
 ***End of Act IV.***
 
-***![](../books_images/U-IMG-1709083336रेखासमान.png)***  
+***<MISSING_FIG href="../books_images/U-IMG-1709083336रेखासमान.png"/>***  
 
 **CĀRUDATTAM**  
 
@@ -3370,7 +3370,7 @@ in the open. So Cārudatta asks the maid to take the mantle and wrapping up र�
 
  I. 29. क्लिन्नखर्जूरपाण्डुः – This queer comparison is a substitute for the beautiful image कामिनीगण्डपाण्डुः ।
 
-![](../books_images/U-IMG-1709042450रेखासमान.png)
+<MISSING_FIG href="../books_images/U-IMG-1709042450रेखासमान.png"/>
 
 **Act II**
 
@@ -3499,7 +3499,6 @@ to go to **वसन्तसेना** with the pearl-necklace no such message
 
  **IV. 7⁷. अमुदंकणाडअं–अमृताङ्कनाटकम्** – We have in **पद्मप्राभृतकं**, a **भाण** attributed to **शूद्रक**, a similar remark **साधु भोः अमृतङ्को ( अमृताङ्क ? ) नाटकाङ्कः संवृत्तः** ।; to my mind the whole conversation here seems to give finality to the play and that the remark in the colophon **अवसितं चारुदत्तम्** is well justified. The author did intend to abridge the first four acts only, and make out of them a pleasing comedy—the meeting of the hero and heroine being the **कार्य** of the play which is here suggested. There is no **भरतवाक्य** at the end.
 
-![](../books_images/U-IMG-1709036322रेखाडिजा.png)
+<MISSING_FIG href="../books_images/U-IMG-1709036322रेखाडिजा.png"/>
 
 \]
-

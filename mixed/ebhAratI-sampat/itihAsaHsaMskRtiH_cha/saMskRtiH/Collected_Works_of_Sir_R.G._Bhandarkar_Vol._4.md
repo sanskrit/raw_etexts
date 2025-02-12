@@ -22,7 +22,7 @@ CLASS B, No. 4
 
 PREPARED UNDER THE SUPERVISION OF THE PUBLICATION DEPARTMENT OF THE BHANDARKAR ORIENTAL RESEARCH INSTITUTE POONA  
 
-![](../../../../../../../books_images/U-IMG-1697621404sss.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1697621404sss.png"/>
 
 POONA  
 
@@ -757,9 +757,9 @@ and General Vaiṣṇavism.**
 
  On a panel at Udayagiri, there is a figure of a four-armed god, who is probably Viṣṇu. The Inscription below bears the date. 82 G. E., i. e.. 400 A. D.[^21]
 
- There is a pillar at Bhitari in the Ghazipur District of the U. P., on which there is an Inscription which records the installation of an image of Śārṅgin and the grant of a village for its worship by Skandagupts, whose dates range between 454 and 464 A. D[^22]. Śārṅgin must have been Vāsudeva-Kṛṣṇa,Skanda- gupta himself being a Bhāgavata.
-
 [^21]: "Corp. Inser. Ind. Vol. III, p. 21."
+
+ There is a pillar at Bhitari in the Ghazipur District of the U. P., on which there is an Inscription which records the installation of an image of Śārṅgin and the grant of a village for its worship by Skandagupts, whose dates range between 454 and 464 A. D[^22]. Śārṅgin must have been Vāsudeva-Kṛṣṇa,Skanda- gupta himself being a Bhāgavata.
 
 [^22]: "Ibid. p. 52.ff."
 
@@ -1237,6 +1237,8 @@ him. But Kabīr miraculously escaped death and was eventually reconciled to Sika
 
  As to how much of this account is historical and how much legendary, it is difficult to say. But that he was a Mahomedan weaver at the beginning may be accepted as a fact. And that Shaikh Taqqi, a Mahomedan Pīr, who is mentioned in one of the Ramainīs, as stated above, was his rival and that Kabīr lived about the time of Sikandar Lodi may also be regarded as historical. As to whether Kabīr was a disciple of Rāmānanda, there is some question, as will be presently mentioned. Mr. Westcott considers it not impossible that he should have been both a Mahomedan and a Sūfi¹, but all his writings show a complete familiarity with the names occurring in Hindu religious. literature and Hindu manners and customs, so that it appears to me that there is little or nothing in Kabīr's writings calculated to show that his teachings had a Mahomedan basis. The basis appears to be purely Hindu, though Kabīr was a bold and uncompromising reformer and hurled anathemas at the Pandits, the Brāhmaṇas proud of their caste, and the teachers of the existing sects of the Hindus, and thus appears to have come under the influence of Mahomedanism.
 
+ 
+
 The dates given by various writers for the birth and death of Kabīr are conflicting. Mr. Westcott makes him live for 78 years, from 1440 to 1518 A. D.[^57], and according to Mr. Macauliffe he
 
 [^57]: "Ibid, Chronological Table, p. VII."
@@ -1363,9 +1365,9 @@ Chapter I.
 
 Chapter IV.[^61]
 
- 82 (89 B. I). The excellent retentive faculty is called Girāor Sarasvatī, and the immutable Dharma is a Vaṭa tree. Dharma consists of a triad of confluent rivers destroying sin. Oh Tulasī, conceive no dislike for these and accept these.
-
 [^61]: "The editions consulted are those published by Navalkisora at Lakhnau in 1886 and in the Bibliotheco Indica in 1897."
+
+ 82 (89 B. I). The excellent retentive faculty is called Girāor Sarasvatī, and the immutable Dharma is a Vaṭa tree. Dharma consists of a triad of confluent rivers destroying sin. Oh Tulasī, conceive no dislike for these and accept these.
 
  The triad is given by the commentator as action, knowledge, and Bhakti, or devotion.
 
@@ -2587,6 +2589,8 @@ INDEXES
 
 I. INDEX OF SANSKRIT WORDS AND PROPER NAMES
 
+ 
+
 (The Indexes have been complied by Dr. V.S. Sukthankar, M.A. Ph.D. Througout the references are to pages)
 
 [TABLE]
@@ -2658,9 +2662,9 @@ elaborate analysis of the language and contents of a Jaina religious work in Pra
 
 " Sanskrit Texts" to Prakrit philology,in which he gives his own views and a summary of those of otherscholars. In Ceylon, Mr. D'Alwis has published a work on thePali, and in India, an edition of the Prakrit Grammar of Kramadīśvara has been published in the Bibliotheca Indics, and ofthat of Hemacandra in Bombay by a Jaina priest with theassistance of a Śāstrī¹. The modern vernaculars have not yetsucceeded in attracting the attention of the learned in Europe.Essays on some points of vernacular philology by ProfessorHoernle, of Jayanarayan's College, Benares, have appearedin the Journal of the Bengal Asiatic Society. But the mostimportant work on this subject that has yet appeared is Mr.Beames's Comparative Grammar of the Modern Aryan Languages. Two volumes have been published, and the thirdand last is expected[^121]
 
-. Mr. Beames has brought his subjectdown to the pronoun; and the forthcoming volume will treatof the verb. Dr. Trump in his valuable Grammar of theSindhi language compares the grammatical forms existingin the several vernaculars, and recent grammarians of Gujarati and Marathi have made attempts in some cases to tracethe grammar of these languages from the Sanskrit throughthe Prakrit. A Gujarati Śāstrī, named Vrajalāl, has written auseful little tract on the history of his vernacular³
-
 [^121]: "Since published."
+
+. Mr. Beames has brought his subjectdown to the pronoun; and the forthcoming volume will treatof the verb. Dr. Trump in his valuable Grammar of theSindhi language compares the grammatical forms existingin the several vernaculars, and recent grammarians of Gujarati and Marathi have made attempts in some cases to tracethe grammar of these languages from the Sanskrit throughthe Prakrit. A Gujarati Śāstrī, named Vrajalāl, has written auseful little tract on the history of his vernacular³
 
 . But uponthe whole, it must be acknowledged that vernacular philology isstill in a state of infancy, and a great deal of what has beenwritten is unsatisfactory.
 
@@ -3757,6 +3761,8 @@ language as either of the other two, and both were spoken orused for ordinary pu
 
 ** छिण्णाली**
 
+ 
+
  **पोआलो** an ox; M. **पोल**.
 
  **पडच्छी**a cow that has no milk; M. **पाउशी**.
@@ -4011,6 +4017,7 @@ distinctions, though it is questionable whether they are enough tojustify the Pu
 
  **कित्येक लोक मुत्सही याणीं पदर पसरोन प्रार्थना आईसाहेबांची केली जे तुम्हीं अग्निप्रवेश केलिया नंतर संपादिलेलें राज्य लयास आजच जातें प्राण महाराज कांहींठेवीत नाहींत हा प्रकार घडतो शाहाजी महाराजांचे व शिवाजी महाराजांचें नांव जगीं नाहीसे होतें सर्वोवर साहेबीं दृष्टि देवून राजयांस वोसंगास घेऊन सादेबीं अग्नि न घेतांमानस कठिण करून राहावें। हेंकाम करून गेलिया वंशक्षय महाराजांचा वडिलींचकेला ऐसें जगीं प्रसिद्धता दिसतें तेव्हां आई साहेबांस राइविलें ।**
 
+                                   
   (From an old Bakhara or Chronical of Shivaji.)
 
  Some counsellors supplicated the lady-mother in an humbleattitude saying: 'If you will burn yourself by fire, the kingdomwhich has been acquired goes to ruin this very day; and it will
@@ -4021,6 +4028,7 @@ happen that the king will not bear life; the name of Shahaji Maharaj and Shivaji
 
  **दमयंती तो महा आश्चर्य लाग्युं अने भ्रान्ति पड़ी के आ ते स्वप्न के साचुं\। एवाअनेक विचार करती चालेछे एवामांएक अशोक वृक्ष दीठो त्यां दीन दमयंती आवीनेकहेछे के ओ प्रिपदर्शन अशोक तारा नामनो महिमा राखी मारा शोकनोनाश करीसत्यनामी था। पण कोण उत्तर आये।**
 
+                                   
    (From Mr. Mansukharāma‛s Nala-Damayantī)
 
  Damayanti felt greatly astonished and was in doubt whetherit was a reality or a dream. While moving on, engaged in varioussuch thoughts, sho saw an Aśoka tree. Going there she said "Olovely Aśoka, having regard to the greatness of thy name, destroymy *Śoka*(sorrow) and deserve that name." But who wouldanswer?
@@ -4093,13 +4101,19 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 ** के** of**केली**, from Pr **कअ** or **कय**, Skr. **कृत**, **ल** being a termination oftenused in the Prakrits.
 
+ 
+
 **ओ**, Pr, **जअ** or **जय**, Skr. **यकत्**, **क** being a suffix used in the Prakrits generally, and sometimes in Sanskrit also.
+
+ 
 
 **तुम्हि**,Apabhr. **तुम्हई**,Pr.**तुम्हे** or **तुम्हए**.Skr such a form as **तुष्मके**,by analogy, for **यूयम्**.
 
 ** आज**, Pr. **अज्ज** Skr.**अद्य**,
 
 ** जा** of **जातें**, Pr.**जा**, Skr. **या**.
+
+ 
 
 **फोही**,Pr.**कोभी**:Skr.कोभिः.
 
@@ -4155,6 +4169,8 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 ** एवो** sing of **एवा**, Apabhr. **एहु** or **एहउ** and **अइसो** Pr.**इदिसो**, Skr.**ईदृश**.
 
+ 
+
 **कर** as in No. I.
 
 ** चाल**, Pr. **चल**, Skr. **चल**.
@@ -4190,6 +4206,8 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 ** ना** of **नाले**, Pr. and Skr. **नाम**, **ल** being suffix.
 
 ** हो**, Apsbhr. **हुअउ**, Pr. **हुअओ**, Skr. **भूतः** ( **भूतकः**).
+
+ 
 
 **तर्हि**of **तर्हिजे**, Pr. **तेसिं**, Skr. **तेषाम्**.
 
@@ -4263,6 +4281,8 @@ and
 
 II\.
 
+ 
+
 हु
 
 of
@@ -4272,6 +4292,8 @@ of
 ,as in No
 
 I.
+
+ 
 
 जां
 
@@ -4320,6 +4342,8 @@ and
 .
 
  **हाथ**, Pr. **हत्थ**, Skr. **हस्त**.
+
+ 
 
 **किय** of **किये**, Pr. **किअ**, **कृत**.
 
@@ -4380,6 +4404,8 @@ and
 ** किय** as in No. V.
 
 ** जो**, Pr. **जओ**, Skr. **यकः** *i.e* **य** with the suffix **क** or **अक**.
+
+ 
 
 **हो** of **होय**or **होइ**, as in No.**I.**
 
@@ -4497,6 +4523,8 @@ VI,
 
 ** माशा**, Pr. **मसअ**, Skr, **मशक**.
 
+ 
+
 **बस** of **बसि**, as in No. VII.
 
 ** आपणा**, Pr. **अप्पण**, Skr. **आत्मन्** as in **आत्मना** &०.
@@ -4524,6 +4552,8 @@ VI,
 ** जे**as in No. I.
 
 ** ए,**Apabhr. **एह**, Pr. **एह**, Skr.**एष**, as **इह** in No. IV, and **यह** in No. VI.
+
+ 
 
 You will find that in the Marathi passage there are about 58 different words of which 26 or a few less than a half are derived from the Sanskrit through the Prakrits; in the Gujarati there are 42 out of which 23 or a few more than a half are of the latter description; in the Sindhi the proportion is 38 to 21, or somewhat greater than a half; in the Panjabi 44 to 23 or a half; in the High
 
@@ -4853,6 +4883,8 @@ Skr. **ताम्बूल** betel leaf, Pr. **तम्बोल,** H. P. **�
 
  O, **भोक** hunger, for the **भूक** or **भूख** of the others.
 
+ 
+
 Of the few instances in which **इ** is softened to **अ** in the Prakrits, the vernaculars have retained **हलद्वा** in the M. G **हलद**, H. **हलदी**, 0. **हलदी** and P. **हलहदी** or **हलदी**. Though प**डंसुआ** does not occur, still **पडा** which stands for **प्रति** a in this word is preserved in several words, as M. **पडसाद** ,'echo' for Skr. **प्रतिशब्द, पडजीभ**, 'the uvula' for Skr. **प्रतिजिह्वा,, पडछाया** Or **पडसावली**, H. **परछाई** for Skr. **प्रतिच्छाया** &o. No more instances of this change are given by the grammarians, but, as observed in the last lecture, the substitution of **अ** for **इ** or **उ** in one of the two or more places in which it occurs in some words indicates a tendency in the Prakrits towards this change. The vernaculars have got more instances.Thus:—
 
 \[Table 10: इ changed to अ\]
@@ -4865,6 +4897,8 @@ Skr.**परीक्षा** pr. **परिक्खा**; also the verb **प
 ** **M. H. G. **विखरणे-ना-वुं**. P. **विक्खरना** to scatter, Skr. **बिष्किर**, Pr. **विक्खिर** (S. **विखेरणुं** ).
 
  H.**बहलाना** to divert, amuse, Skr. **विहर**.
+
+ 
 
 H. **भभूत** holy ashes, Skr **विभूति**.
 
@@ -4935,6 +4969,8 @@ for **कयलं** . Skr. **कदलम्** .
 ** **M. **ओणवा** bent, Pr. **ओणअ**, Skr. **अवनत**.
 
  M. G. **ओलंबा** plumb, Pr. **ओलम्बअ** Skr. **अवलम्बकः**.
+
+ 
 
 M. **बोर** jujube fruit Pr. **बो**र for **बवर** or **बअर**, Skr. **बदर**.
 
@@ -5011,6 +5047,8 @@ M. **बोर** jujube fruit Pr. **बो**र for **बवर** or **बअर
  Skr. **धबल** white, Pr. **धवल**, H. P. **धौला**, M. **धवला**.
 
  Skr. **नवशिक्षित** newly learned, Pr. **नवसिक्खिअ**, H.**नौसिख**, M.**नोशिका** or **नवाशिका**.
+
+ 
 
 Skr **भवन** a dwelling, Pr. **भवण**, H. **भौन** P. **भौण**.
 
@@ -5201,6 +5239,8 @@ Similarly, though a few Sanskrit words containing **ऐ** and **ओ** do occur i
 
  M. **ओपणें** to give over, sssign, Pr. **ओप्प**, Skr. **अर्प**.
 
+ 
+
 There are a few modern instances as in:—
 
 \[Table 28: the Assimilation of vowels\]
@@ -5308,6 +5348,8 @@ syllable being dropped in virtue of a general law to be presently noticed in the
  M. **हिरवा**green from Skr. **हरित** or **हरितक**.
 
  M. **चोंच** a beak, M. (dial.) and B. **टोंच**, Skr.**चंचु**.
+
+ 
 
 Of the Prakrit words with a syllable lengthened or shortened through the influence of an accent of some sort, the vernaculars have preserved a few words. Thus:—
 
@@ -5417,6 +5459,8 @@ to the modern languages from the spoken dialects af ancient times, have also bee
  M. G. B. O.**हाड**, H. **हाड, हड्डु** or **हड्डी**, P. **हड्डु**, or **हड्डी**,S. **हडु**, or **हडि**, Pr.**अड्डी**, Skr. **अस्थि**.
 
  M. **हत्तीण**, H. G. **हाथीन**, Pr. **हत्थनी** Skr. **हस्तिनी**.
+
+ 
 
 Here also the Sindhi preserves the old endings in some cases, and has dropped them in others. In this manner, the final **आ, इ, ई, उ** and
 **ऊ** of Sanskrit and Prakrit nouns have been dropped in the vernaculars or changed to a silent **अ**.
@@ -5556,15 +5600,23 @@ Thus:—
 
  M. **दलवी** for Pr. **दलवइ**, Skr **दलपति**.
 
+ 
+
 You will have seen that the Sanskrit nouns, composed of three or more syllables, given in Table 36, with **अ** at for their penultimate. vowel and **क**or any other similar syllable ending in for the final, have dropped one syllable and become nouns ending in **आ** in Marathi, Hindi, Panjabi, and Bengali, and in Oriya also in some cases, and in **ओ**in Gujarati, Sindhi, and in the dialects of the Marathi and Hindi spoken of above. Such of them as are neuter have acquired the ending **एं** or **आं**in Marathi and in **ऊं** in Gujarati.
 
  But these are not the only nouns with a final **आ**and **ओ**and **एं, आं**and **ऊं** in these languages. There are a good many more, both substantives and adjectives, which have these endings. In the Brajabhāṣa also a great many adjectives, nominal and verbal, end in **ओ**or **औ**. The Sanskrit words from which they are derived. are not composed of three syllables, with **क** or another syllable like it preceded by an **अ**, as the final. Thus the substantives H. M. **श्चेला** ‘adisciple', **पुडा**'a parcel', **काढा** ' a decoction, and the adjectives H. **नीला**,M. **निला**'blue' H. **पीला**, M.**पिलला** ’yellow', and past participles, H. **गया** 'gone', **मुवा**'dead', M.**गेला, मेला**&c., and the corresponding Gujarati, **चेलो, पुढो, काढो, नीलो, पीलो, गयो** and **मुवो**,are
 
 derived from the Sanskrit **चेटः, पुटः, क्वाथः,नीलः, पीतलः**, &c. Similarly such neuter nouns as M. **केलें**(dial.**केलां**), G.**केलुं**M. (dial. **सोनां**), G.**सोनूं** are derived from the Skr. **कदलम्**and **सुवर्णम्**. How then did they get their **आ** and **ओ**and **आं, एं** and **ऊं** ?
 
+ 
+
 A great many nouns in our languages end in , which has now become silent; and these, as I have explained, are derived from the Sanskrit nouns ending in **अ**, the nominative termination being, because it was unaccented, at first reduced to**उ** and afterwards dropped in most of them, but preserved in Sindhi. By that same law of accentuation which brought about the elision of this **ओ**, we have seen, that nouns ending in **क** or such othersyllable preceded by **अ**come to have **आ-ओ** and **एं-आं-ऊं** for their final. By an obvious inference, therefore, those other substantives and adjectives also must have got **कः**or **कम्** in the Prakrits and the Apabhraṁśa in the forms of **ओ** or **अं**and **उ**or **उं**, though in Sanskrit they do not possess them.
 
+ 
+
 The suffix **क**, though actually found in certain words only in Sanskrit, must have been largely used in the spoken language of ancient times, since Pāṇini and his expositors allow of its being appended to all nouns and even verbs and participles, to indicate [littleness](http://# "Pāṇini, V. 3. 85, 86; V. 4. 4."), [contempt](http://# "Pāṇini, V. 3. 74, 75,"), [tenderness](http://# "Pāṇini, V.3. 76, 77."), the state of being [unknown](http://# "Pāṇini, V. 3. 73."), resemblance or [copy](http://# "Pāṇini, V. 3. 96, 97."), and a [species](http://# "Pāṇini, V. 3. 75, 87, 97.") founded on some of theseparticularities. Words formed by the addition of such a suffix in such senses cannot, of course, be much used in literary works. They are adapted for colloquial purposes, such as our Marathi Pāṇinifor Rama and Pāṇinifor Govinda are.
+
+ 
 
 Accordingly, in the Prakrits and Apabhraṃśa, which were derived from the spoken languages, we find the practice of adding the suffix to be very common. Thus in the fourth act of the Vikramorvaśīwe have Pāṇinifor Pāṇiniformed from the analogy of Pāṇini but properly Pāṇini for Pāṇini
 
@@ -5646,9 +5698,13 @@ pronounced as
 
  So also **अङ्गुष्ठकः** is **आंग्ठा**, and **श्वशुरकः,** **साम्रा** the penultimate **उ** being dropped.
 
+ 
+
 When the final is unaccented, it is the penultimate that is emphasized, but when it is accented, the penultimate is slurred over. Thus the accentuation of the penultimate leads to the elision of the final vowel, and the accentuation of the final brings about an elision or shortening of the penultimate.
 
 **ACCENT IN HINDI**
+
+ 
 
 In Hindi also the accent leads to the elision of the **अ**of the previous syllable when more than one precede the accented syllable. Thus **उबटन**‘a cosmetic’ is pronounced is pronounced as **उबटन**, **सूरखपन**as**मूरख्पन** as**मूरखपन** as **मूरख्प॑न, उबटना***inf.* 'to rub the body with a cosmetic’, as **उबट्ना करना**as **कर् ना**. The Braj present participle **करत** is pronounced as **कर॑त्** since one syllable only precedes the accented penultimate; but the Hindi **करता**is **कर् ता**as two syllables precede the accented **ता**. The accent leads to the shortening of the preceding vowels in some cases. Thus **गोपाल** 'cowherd,' and **पाताल** 'the lower regions,’ are sometimes pronounced and written as **गुपाल** and **पताल**;so does **आसिष्**become **आसीस**. In such words as **उपज**'produce,’ **उसास**'respiration,’ and **उबटन** ‘a cosmetic’, from the Pr. **उप्पज्ज, उस्सास,** and **उब्बट्टण**, Skr. **उत्पद्य**, **उच्छ्वास**, and **उद्वर्तन**, it prevents the lengthening of the initial **उ**, as by the general rule it should be long, since one member of the following double consonant is dropped. The
 
@@ -5673,23 +5729,33 @@ derived socent also shortens the preceding vowels in such instances as the follo
 
 **EXCEPTIONS TO THE ABOVE.**
 
+ 
+
 But in a great many cases the accent does not affect the preceding close vowels. The Sanskrit words **सूतक, पीतल,** &c., the first syllable of which is shortened in Marathi, retain it long in the Hindi. The words **उपज,उपजना, उसास,** and othershave their initial vowel optionally lengthened, and in a few cases, such as **ऊपर** and **ऊखल**, it is lengthened without any apparent reason. Similarly, the Hindi forms of **कीटक**and the other words in Table 6 retain the long vowel. It has also **बीडी, जूही**and **सूजी** as in Table 35, and **नीला**'blue', **पीला**‘yellow’, **सी**खा, learnt', **मीठा**'sweet', **पूछा**'asked', **मूआ** 'dead', **सीखना**'to learn, **पूछना**‘to ask', **दूसरा** &c., while in all these cases the Marathi has short **इ** and **उ**. Perhaps, this weakening of the accent as regards previous **ई** and **ऊ** is due to the development of another accentin Hindi on the initial syllable. To such an accent as this might be attributed the almost universal change of **अय**and **अव** to **ऐ** and **औ**that we have already noticed. The **अ**of the initial syllable, being accented, draws to itself the **य**or **व**of the following and
 
 deprives it of its **अ**, in which cases the **य**or **व** becomes **इ** or **उ**, and then the two form **ऐ** and **औ**.
 
 **THE ACCENT IN GUJARATI**
 
+ 
+
 The Gujarati follows the Hindi completely, sometimes shortening the preceding vowels as in **कुवो, सुवो**, and **कुमलो** 'delicate', 'tender', and dropping it as in **सस्रो** 'father-in-law', (Skr.**श्वशुरकः**) and**आङ्गुली** 'finger' (Skr. **अङ्गुलिका**), sometimes preventing their being lengthened, as in **उपज, उठघुं**, &c., and very often preserving them long as in **पूरो** 'full', **शीक्वुं, शीक्यो**, &c.
 
 **THE ACCENT IN PANJABI**
+
+ 
 
 The Panjabi also keeps the short vowel in such cases as **उचार** 'utterance', **उजाला** 'light', though a member of a double is droppedand preserves the long in such casesas **दीया** or **दीवा**, **जुआ, कीडा, पूरा, पूरी** ‘a cake', &c. It has even fewer instances of shortening than the Hindi.
 
 **THE ACCENT IN SINDHI**
 
+ 
+
 The Sindhi has **जुआ**'gambling', **डिओ**'a lamp,' **पितल**&c., but has such words as **मूतक**, 'mourning', **कीडो** 'a worm', **वीडो** 'a roll of betel leaves, (Skr. **वीटकः**), **पीतो**'drunk', &c. In a great many words such as **सुको**'dried', **वुधो**'heard', **छुतो**'touched', **दुधो**'milked', the vowel of the preceding syllable is short; but that is due not to the accent on the last syllable but to the peculiarity of the Sindhi not to lengthen the preceding vowels even when a member of a double is dropped.
 
 **THE ACCENT IN BENGALI AND ORIYA**
+
+ 
 
 The Bengali is more like the Marathi in this respect than the Hindi. Thus we have **भितर**, H. **भीतर** 'in the interior’, **शुका** dry, H. **भूका; भिजा** or **भिगा** 'wet’, H. **भीजा** or **भीगा; किडा** 'a worm', H.**कीडा; जुता** 'shoes', H.**जूता; खिला**'a nail', H. **कीला, उपजन** 'to be produced, &c. It thus shortens **इ** and **उ** in the unaccented syllables like the Marathi.
 
@@ -5697,9 +5763,13 @@ The Bengali is more like the Marathi in this respect than the Hindi. Thus we hav
 
 **THE ACCENT ON VERNACULAR TERMINATIONS**
 
+ 
+
 In Marathi the termination of the oblique form of cases and that of the plural of neuter nouns in **ए** are also accented. The reasonwhy they bear the accent will be considered hereafter. The accent on the causal termination, in consequence of which the preceding vowels are shortened in the Hindi and the Gujarati, has already been mentioned. This also seems to be the same accent that we have been considering. Thus in G. **शिवडाव**'make him sew, or **धोवडाव** 'make him wash', the **आ**being penultimate bears the accent and the final **अ**is dropped. Similarly in **धोवडाववुं**by the general rule, the final vowel being accented the penultimate **अ** is silent. It is because it is so, and the **ववुं**forms the conjunct**व्वुं**, that the **आ**looks as if emphasized just as the first **अ**of **अड्चण** and **कर् ता** is. In the Marathi and other dialectsalso, there is this accent in the case of the causal, and the preceding **ई** and **ऊ** are shortened; as in **निज्॑व्** 'make him sleep', **निजव्णें**'to make one sleep', from the original **नीज** 'sleep', in **करीव्**cause him to do **करिव्णें**or**करव्णें** ’to cause one to do', &c. In the standard Hindi the **व** is dropped, but still the way of pronunciation remains the same as it was when it existed. In **दिखाना**'to show,'for instance, the **खा** is pronounced as it would have been if the word had been **दिखावना**. And the forms with **व** exist in the Braj.
 
 **ACCENT IN VERNACULAR COMPOUNDS**
+
+ 
 
 Compounds in the vernaculars, most of which belong to the Tatpuruṣa, Karmadhāraya, or Dvandva class have an accent on the penultimate or final of the last word, as in the H. **पन् सा॑ल** 'a place where water is provided for passengers', in which the first word**पानी**becomes **पन्**, **अमरा॑ई**a forest of mango-trees', in which the **आ**of **आम**is shortened, **घुडसा॑ल** 'a stable', in which we have **घुड**for **घोडा, रन् वास** 'harem', the **रन्** of which is a shortened form of रानी, and in the G. **अधमुई**'half dead’, and the M. **अधम॑ण**’half a maund’.In the Marathi **आम्ररा॑इ,** **रानमाणू॑स,कालमांज॑र**, the **आ** of the first syllable is short though not changed to **अ**; and in **तिर्कांबटे**'an arrow and bow', the first word is **तीर्**with the **ई** shortened.
 
@@ -5730,6 +5800,8 @@ Compounds in the vernaculars, most of which belong to the Tatpuruṣa, Karmadhā
  Of the two instances of this change in the Prakrits **लावू** a 'pumpkin' exists in Hindi, and **रण्ण**in the form of **रान** in M. and P. and of **रन** in H. Medial **ऐ** is dropped in Marathi, Bengall, and Oriya in the word **बैस**, and others enumerated before. It is dropped in the G. **माशी**for H. **मौसी**(see p. 391). This elision does not appear to be due to accent since according to our theory it must fall on the **ऐ**in some at least of the cases. The change is due to the process of softening, sitice what takes place here is the simple dropping away of the close element of the diphthong.
 
 **THE AVOIDING OF THE HIATUS IN THE VERNACULARS**
+
+ 
 
 We will now briefly notice the manner in which the hiatus caused by two vowels coming together in consequence of the olision of uninitial consonants in the Prakrits is avoided. We have seen that **अ**and **इ** and **अ**and **उ** are combined into **ऐ** and **औ**in some of the dialects, and into **ए** and **ओ**in [others](http://# "Pp. 400-406."). Final unacdented **अ**and **आ**are dropped when preceded by **इ** or **उ** as in the words given in Table No. 35, and unaccented **उ** preceded by **अ**is dropped in some of the vernaculars, as in Table No. 36, and combined into **ओ**or **उ** in [others](http://# "See P. 418."). Final **इ** is preserved or changed to **य**after **अ**in some cases, and combined with it to form **ई**[others](http://# "P. 419.").
 
@@ -5810,6 +5882,8 @@ We will now briefly notice the manner in which the hiatus caused by two vowels c
  The long **आ**is preserved and changes the preceding **इ** to **इय** or **य**as in the H. **सियार** or **स्या**र 'jackal' for Pr. **सिआल**, Skr. **सुगाल**; **याह** 'marriage,’ for Pr.**विआह**, Skr.**विवाह**, &c.
 
 CONSONANTAL CHANGES IN THE VERNACULARS.
+
+ 
 
 We will now proceed to the consideration of consonantal changes; and first of those due to the process of softening. The semivowel **य्** is often softened to **इ**. In the Prakrits, **व्यजन**‘a fan' becomes **विअण** which is preserved in the H. **बेना** and **स्त्यान** is changed to for **थीण**. This word does not occur in the vernaculars, butthe Hindi and Marathi have got **थिजता**and **थिजणें** ‘to congeal' from the verb **स्त्यायते**, in which **या**is softenedto**इ**. From **व्यजन**, or rather such a word as **व्यंजन**, we have by a similar softening M. **विंजणा**, H.**विंजना**, G.**विजणो**, S, **विञिणु**. More modern instances are:-
 
@@ -5948,6 +6022,8 @@ vowel; and the vernaculars have preserved the words so changed. For instance:-
 
  Skr. **कपाट** a door, M. **कवाड**, H. **किवाड**, G. **कमाड**.
 
+ 
+
 Skr. **कटु** bitter, M. **कडु**, G. **कडवुं**,H. **कडुवा**, 8. **कडो**.
 
  Skr **कटि** waist, M. **कड**, G. **केड**.
@@ -5960,7 +6036,11 @@ Skr. **शाटिका** a garment, M. G. **साडी** H. P. **साड़�
 
  Skr. **वटः** the Banyan tree, M. G.**वड**,H. P. **वड़**,S. **बडु**.
 
+ 
+
 Skr. **त्रोट** in **त्रोटपति** to snap **तोड** in M. **तोडणें**, G. **तोडवुं**H. P. **तोड़ना**S**.तोडणु**.
+
+ 
 
 Skr. **स्फोट** in **स्फोदयति** to break, **फोड** in M. **फोडणें**.
 
@@ -5970,11 +6050,15 @@ Skr. **स्फोट** in **स्फोदयति** to break, **फोड**
 
  Skr. **पटोल** a kind of cucumber, M. **पडवल**, H. **परवल**, G. **परवल**.
 
+ 
+
 Skr. **कीटक**: a worm, M. **किडा**, G. **किडो**, H. **कीडा**.
 
  The instances in which the cerebral **ट्** resulting from an original **त्** has been softened in the Prakrits to **ड्** have been preserved by the vernaculars. The following are some of these:-
 
 \[Table 52: ट्( from original त्) softened to ड्\]
+
+ 
 
 **पड**for Pr. **पडि**, Skr. **प्रति**, in such words as H. G. **पडोसी** & neighbour, M. **पडोशी**, Skr. **प्रतिवेशी**.
 
@@ -6074,6 +6158,8 @@ the two **ठ्** is dropped, and the preceding vowel lengthened according to a
 
 \[Table 57: ड् changed to ल्\]
 
+ 
+
 Skr. **तडाग** a tank, Pr.**तलाअ**, M. G.**तलाव**, H.**तलें**,H.**तलाव**, S. B.**तलाउ**.
 
  Skr. **दाडिम** pomegranate, Pr. **दालिम**, M. **डालिंब**, G. **दालम**, H. B. **डालिम** H. **दालिम**.
@@ -6138,6 +6224,8 @@ but there are a great many in the vernaculars, so that this appears to be a pecu
 
  What the origin is of the **ड्** of these forms, which is more primitive than the **ल्** and **र्** to which it was afterwards changed, will be considered in the next lecture.
 
+ 
+
 Another peculiarly vernacular process, of which Hemacandra gives only one instance, is the transformation of **न्** into **ल्**, in which **न्** is deprived of its nasal element and the complete contact of the vocal organs avoided. Thus:—
 
 \[Table 61 Skr. न् initial changed to ल् in vernaculars\]
@@ -6150,6 +6238,8 @@ Another peculiarly vernacular process, of which Hemacandra gives only one instan
 
 \[Table 62: Skr. initial ल् changed to न् in vernaculars\]
 
+ 
+
 M. G. **नांगर** a plough or anchor, P. **मङ्गलः** or **लाङ्गल**.
 
  M. **निढल**, S. **निराडु**, Pr. **निडाल** or **णडाल**, Skr. **ललाट** forehead.
@@ -6159,6 +6249,8 @@ M. G. **नांगर** a plough or anchor, P. **मङ्गलः** or **ल
  The sibilant **स्**, whether original or derived from the Sanskrit **ञ्**, or **स्**, is in a few cases changed to **ड्** in the Prakrits. For **दिवस** 'a day' we have **दिवह** or **दिअह**, for **पाषाण** 'a stone' **पहाण**, and for **दशन्** 'ten' **दह**. These words, so changed, have come down to the vernaculars, and are found in one or other of them. The various forms of the numerals having the word **दश** at the end have been given above. Of the other words G. has **दिह** 'a day' and **दिहाडो** with the suffix **डो**, P. **दिंह** and **दिहाडा़**, and S. **डि़ंहु** and **डिहाढो**; and S. **पहणउ** 'a stone'. The Sindhi and the Panjabi have given a wider range to this process, as will be seen from the following:—
 
 \[Table 63: म्, श् or ष् changed to ह in Vernaculars\]
+
+ 
 
 S. **बहु** or **बुहो** chaff, Skr. **बुस**, M. **भुसा**.
 
@@ -6176,6 +6268,8 @@ S. **बहु** or **बुहो** chaff, Skr. **बुस**, M. **भुस�
 
  P. स**हुरा**, S. **सहुरो**, Skr **श्वशुर**, M. **सासरा** father-in-law.
 
+ 
+
 P. **तिहा** thirst, Skr. **तृषा**.
 
  P. **फाहा** or **फाही**, S. **फाहो** or **फाही** & snare noose Skr. **पाश**, M. **फांस.**
@@ -6185,6 +6279,8 @@ P. **तिहा** thirst, Skr. **तृषा**.
  The change of **म** to **वं** seems to be an almost entirely later process of which there are scarcely any instances in the Prakrits. It is seen in full operation in the Apabhraṁśa.
 
 \[Table 64 Skr. म changed to व\]
+
+ 
 
 Skr. **नाम** name, M. **नांव**, H, **नाओं**, old H. **नाऊं**, also **नाम**, P. **नांउं**, S. **नांउं** also **नामु** and **नालो**.
 
@@ -6218,6 +6314,8 @@ Skr. **नाम** name, M. **नांव**, H, **नाओं**, old H. **न�
 
  Skr. **गमन***caus.* spending, wasting. H. **गंवाना**, P. **गवाउणा**, S. **गंवाइणु**, but M. **गमवणे**.
 
+ 
+
 Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. **भौंर** or **भौंरा**, S. **भौंरु**.
 
  Skr. **पञ्चम** fifth, M. **पांचवा**, H. **पांचवां**, P. **पंजवां**, &c., and other ordinals.
@@ -6244,9 +6342,13 @@ Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. 
 |                    **सामलो** a dark-complexioned.                     |              **जमवुं** eating.              |
 |                         **जमाइ** son-in-law.                          |            **आमला** myrobalans.             |
 
+ 
+
 The reason why I consider this as a change of **वं** back to **म्** and not a preservation of the original Sanskrit and Prakrit **म्**, is that the Gujarati changes **व्** to **म्** in other cases where there is no question as to the **व्** (or **प्**) being the original sound. Thus:—
 
 \[Table 66: व् or प् changed to म् in Gujarati\]
+
+ 
 
 G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **कवाड**, Skr. **कपाट**.
 
@@ -6333,7 +6435,11 @@ G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **�
 
  Skr. **क्षण**a festival, Pr. **छण**, M.**सण**.
 
+ 
+
 According to a general rule in Marathi, **म्** is changed to **श**when followed by the palatal vowel **इ**or**ए.** This change of **ल्** to **स्** in this dialect is to be accounted for by the fact that the vocal organs of the Marathas have a predilection for the dento-palatals, **च, छ, ज, झ**, to which the Sanskrit palatals are in almost all cases reduced by them, except when they are followed by **इ, ए,** or **य्**. The Sanskrit **छ्** therefore becoming the dento-palatal **छ्** passes into **म्** which differs from it only in the contact of the vocal organs being somewhat less incomplete. The only instances in the Prakrits in which the change appears to be the same as that we have been considering are **ऊसवो** for **उच्छवो** and **ऊसुओ**for **ऊच्छओ**.
+
+ 
 
 I have already given instances of the many words with their uninitial consonants dropped which the vernaculars have inherited from the Prakrits, and shown what further changes they have undergone. This process of elision has not been continuedby any of the vernaculars unless we consider the disappearance of uninitial **व्** (which is very general in Hindi, Sindhi, and Bengali) to be an instance of the process.
 
@@ -6363,6 +6469,8 @@ I have already given instances of the many words with their uninitial consonants
 
  H, **ता-\[ना\]**, S. **ताइ-\[णु\]** to heat, Pr. **ताव**, Skr. **ताप**, M. **ताव-\[णें**\].
 
+ 
+
 H. **दुआर**, B. **दोयार** door, Pr. **दुवार** or **दुआर** Skr. **द्वार**.
 
  B. **दुइ**two, Pr.**दुवे**, Skr. **द्वौ**.
@@ -6373,17 +6481,27 @@ H. **दुआर**, B. **दोयार** door, Pr. **दुवार** or **�
 
 **THE OF THE CAUSAL TERMINATIONS IN THE VERNACULARS**.
 
+ 
+
 This elision of **व्** appears also in the Hindi causal forms such as**उठाना, चलाना**, **जलाना**, in which the **आ** only of the Prakrit or Marathi termination **आव**or **अव** is retained. The whole termination appears in the Braj and other dialects and in old books, sometimes in the form of **औ**.
 
+ 
+
 The Sindhi causal termination is **आइ**as in **बधाइणु** 'to cause toincrease.’The **इ** here as well as in some of the Sindhi words given above represents the य which according to the Prakrit rule, takes the place of the dropped **व**, and is, as shown before, changed to **ए** in the other vernaculars. The Sindhi **इ** is a shortened form of this **ए**. The termination **आइ**appears sometimes in its more original form of **आअ** as in **वठाअणु** 'to cause to take.’
+
+ 
 
 The Bengali too forms its causal by adding **आइ**as in **धराइतेछे**’is causing to be held,’ but the **इ** here seems to be an euphonic addition, which even in their primitive form the verbs take, as in **धरितेछे**‘isholding,’ so that the **व्** is here dropped and the vowel **अ**combined with the preceding as in the Hindi. In the speech of the Maratha lower classes of Southern Konkan **व्** is very often elided, and the causal termination of the Savantvadi dialect is **अय**, as in **करय** 'cause to do, which corresponds to the Sindhi **कराइ-\[णु\]**.
 
 \[Table 69 A : of म् dropped in the Vernaculars \]
 
+ 
+
 There are instances also in which the **व्** resulting from **म्**is elided:—
 
  H. **कुअंर** 'a boy,’‘a prince,’ Pr.**कुमर**, Skr. **कुमार; बायां** 'left-hand-side, Pr. **वामअ**, Skr. **वामकः**, **धुआं** ‘smoke,’ Pr. **धूमअ**, Skr. **धूमक**;**अचाना**; ‘to rinse the mouth,’ Pr. Skr. **आचम**; or **बेराना**' ‘tomock’,Skr. **विडम्ब; भुई** ‘ground,’ Skr.B.
+
+ 
 
 There are traces of this change in other dialects too, as in the Oriya **वां** for **वाम** ‘left,’ Gujarati **भांय = भूंई**, S. **भुइं**,Skr. **भूमि**, and the Marathi**भुंई** and the termination **ईं** of the locative, which is to be traced to the Pr. **म्मि**, Skr. **स्मिन्**. In all these instances we may regard **म्** as directly elided, and not the **व्** resulting from it. Hemacandra notices a few instances of the process in the Prakrits.
 
@@ -6409,6 +6527,8 @@ There are traces of this change in other dialects too, as in the Oriya **वा�
 
 \[Table 71 : Verna. ह् for Skr. घ\]
 
+ 
+
 Skr. **मेघ** rain, Pr. **मेह**, G. H. **मेह**, S. **मेहु**.
 
  Skr. **श्लाघ्**to praise, Pr, **सलाह**, H. **सराह-(ना)**.
@@ -6423,11 +6543,15 @@ Skr. **मेघ** rain, Pr. **मेह**, G. H. **मेह**, S. **मेह�
 
  M. **माहेर**, G. **महीरुं** & woman's mother's house, Pr. **माइघर** or **माइहर,** Skr. **मातृगृह**.
 
+ 
+
 G. **भौयार**, M. **भुंयार**, H. **भूंयारा** collar, Skr. **भूमिगृह**.
 
  G. **देहरुं**, M. **देव्हारा**, H. **देहरा, दिहरा** an idol-chamber, Skr.. **देवगृह**.
 
 **\[Table 72: Vernacular हfor Skr. ध\]**
+
+ 
 
 Skr. **नाथ**alord, Pr, **नाह**, old M. & H. **नाह**.
 
@@ -6449,6 +6573,8 @@ Skr. **नाथ**alord, Pr, **नाह**, old M. & H. **नाह**.
 
 \[Table 73 : Vernacular हfor Skr. ध\]
 
+ 
+
 Skr. **बधिरकः** deaf, Pr, **बहिरओ**, H. M. O. **बहिरा,** G. **बेहरो**.
 
  Skr. **दधि** curds Pr. **दहि**, H. M. G.P. O. **दहिं** S. **ड़हि**.
@@ -6465,6 +6591,8 @@ Skr. **बधिरकः** deaf, Pr, **बहिरओ**, H. M. O. **बहि�
 
 \[Table 74: Vernacular ह for Skr. भ\]
 
+ 
+
 Skr. **प्रभा** or **प्रभात** light, dawn, Pr, **पहा, पहांअ, पहाद**, H. **पह** or **पोह**, G. **पोह**, M. **पहाट**. The S. **पिरिह**must be a later form. From the same root with the prepositions **वि** and **सु** we have H. **विहान** morning, S . **सुहाउ** light, &c.
 
  Skr. **शुभ** to become to adorn, Pr. **सुह**, H. **सोह- \[ना\]**. S. **सुह-\[णु\]**
@@ -6473,19 +6601,29 @@ Skr. **प्रभा** or **प्रभात** light, dawn, Pr, **पहा,
 
  Similarly, H. **पहिचान** ‘recognise’ is from Skr. **प्रत्यभिजाना**, the consonants interchanging places; G. **वहालो** or **वाल्हो**‘dear’ from Skr. **वल्लभःसेहलो** 'easy’ from **सलभ; वेहच - \[वुं\]** to ‘distribute or divide' from **विभज्** &c.
 
+ 
+
 The existence of many such words as M. H. P. **उपाध**'injury,'H. P. **साध**‘a good man,' M. G. H. P. **मध** 'honey, H. G**लिख,लख** 'to write,' M. G. H. **नख**‘nail,’ S. **सुभाणे**'in the morning’ shows that the popular speech of Northern India has now for a long time ceased to have recourse to this process of dropping the mute element of the aspirates of the Sanskrit words, adopted from time to time from the parent language. Still, however, a few laterinstances, such as S. **पिरिह** ‘dawn,’ H. G. **माह**‘middle’ from **माध**and **मध्य**, and some of the compounds of घर noticed above show that it has not been entirely absent.
 
+ 
+
 The elision of simple mutes and of the mute element of aspirates is a natural phenomenon which one always meets with in the course of lingual development; but its operation is generally slow and it is only in consequence of its systematic occurrence. in the Prakrits that I have attributed it to an ethnological cause and have supposed that the Prakrit speakers belonged to another race than those who spoke Sanskrit and, being unused to Sanskrit sounds, caught only the initial consonants from their Sanskrit teachers and dropped the rest or the mute portion of the rest. When, however, in the course of time they became used to those sounds and the Sanskrit and Prakrit speaking races became united into one community, they ceased to be so dropped, except through the slow and gradual operation of the usual phonetiol laws; and hence it is that in modern times we find Sanskrit words, not shorn of their elements in the manner in which they were in ancient times, as indicated above.
+
+ 
 
 This elision, though it involves economy and is a natural process, constitutes a peculiarity of the Prakrits in so far as it is duel to peculiar historical incidents. We will now notice the peculiarities which do not involve economy and must be attributed to vocal predilections. Of the words in which a Sanskrit dental is changed to a cerebral in the Prakrits the vernaculars have preserved the following:—
 
 \[Table 75: Skr. Dentals changed to Cerebrals in Vernaculars\]
+
+ 
 
 Skr. **बिभीतक**myrobalan,Pr.**बहेडाओ**,M. **बेहडा**, &c. as in table 8.
 
  Skr. **पत**to fall, Pr, **पड,** M. G.H. **पड- \[णे-वुं-ना\].**
 
  Skr. **दंश**to bite, Pr. **डस**, M. H. P. G. **डस- \[णें-ना-णा-वुं\]**. From this H. E. G. **डांस**, O. **डाआंश**a mosquito, Skr. **दंश**.
+
+ 
 
 Skr. **दंश** to stick, Pr. **डक्क** (past part.), M. G.**डक
 -\[णें-वुं\] .**
@@ -6582,9 +6720,13 @@ S, **टुंठो**satisfied, Skr. **तुष्ट-\[कः\]**.
 
  H. M. **पवादा**, S. G. **पबाडो** a narrative, Skr. **प्रवाद-\[कः\]**.
 
+ 
+
 Even here the Sindhi has more instances than the others:—
 
 **\[Table 79 the same change in Sindhi\]**
+
+ 
 
 **पुटु**a son, Skr. **पुत्र**, M. **पूत**.
 
@@ -6593,6 +6735,8 @@ Even here the Sindhi has more instances than the others:—
  **निंड़**sleep, Skr. **निद्रा**, H. **नींद**.
 
  **टामो**copper Skr. **ताम्र**, H. **तांबे**, &c.
+
+ 
 
 Uninitial is changed to **ण्** in the Prakrits invariably, but when it is the beginning of a word is undergoes that change or optionally. In the vernaculars the initial remains unchanged, but when medial it becomes mostly in the Marathi, Gujarati, Sindhi, and Panjabi.
 
@@ -6637,6 +6781,8 @@ M.**नीज**,H, **नींद**,S.**निंद**sleep, Skr. **निद्
 
  P. S. G. **जण \[णा-णु-वुं\]** Skr. (causal) to give birth to, to produce.
 
+ 
+
 G.**लुण**, S.**लूण**, P.**लूण**, M. **लोण** (**सेंधेलोण**), Skr. **लवण**salt.
 
   P. M. G. **आपण**, S. **पाण**, Pr. **अप्पाण**, Skr. **आत्मान** one's self.
@@ -6645,9 +6791,13 @@ G.**लुण**, S.**लूण**, P.**लूण**, M. **लोण** (**सें
 
   M. **नणंद**, &c., as above.
 
+ 
+
 There are a few instances in which we have the original**न्** in the body of a word, as in M. G. P. **मन**,S.**मनु**, Skr. **मनः** 'mind,’G. **वानुं**'promise', for Skr.**वचन**, and G. **बेन**,as above. But the general in the rule seems to be that these four dialects have a medial **न्** place of the double **ण्** of the Prakrits, resulting from a Sanskrit conjunct of which **न्** is a member. Thus:—
 
 \[Table 82 Prk. णchanged to न् in the vernaculars\]
+
+ 
 
 Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
 
@@ -6671,6 +6821,8 @@ Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
 
  But even here in Marathi, the purely Deshastha Brahmans living in the eastern part of the Deccan or Mahārāṣṭra pronounce the **न्**as **ण्**; and the ordinary **रान, कान, पान, विनंति**, &c., of that dialect become in their mouths **राण, काण, पाण, विणंति**, &c. They have, therefore, preserved in its integrity the old habit of the Prakrit speakers to pronounce the **न्** as **ण्** throughout. On the other hand, the lower class of the Konkani population preserve the Paiśacipeculiarty of reducing **ण्** in all cases to **न्** and pronounce of, **पाणी, वाणी,कोण**, &c, as **पानी, वानी, कोन**, &c, and this peculiarity we find in its fulness in the Hindi, and next to it in the Bengali. Thus the words with a **ण्** in them in the Marathi, Gujarati, Sindhi and Panjabi, given above, have the following forms in Hindi:—
 
+ 
+
 **मानूस, दिसना, जन, कहानी, पानी, जानना, कौन, बहिन**,or**बैन, कठिन, जनना, लून** or **नून,अपना, टानना** or **तानना, ननद** or**ननदी**.
 
  And such of these words as are in use in the Bengali have the following:—
@@ -6680,6 +6832,8 @@ Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
  Other words, in some of which even in Sanskrit a **ण्** appears, are in the Hindi and Bengali thus:—
 
 \[Table 83: Original ण् preserved\]
+
+ 
 
 Skr. **ब्राह्मण**, H., **बम्हन**, or**बामन**,B.**बामुन**,but S.**बाभणु**, a Brahman.
 
@@ -6693,9 +6847,13 @@ Skr. **ब्राह्मण**, H., **बम्हन**, or**बामन**,B
 
  Still **ण्**does appear in Bengali books in a few words such as **काण**'ear', **लोण**, 'salt', &c. In the Hindi it seems to be entirely absent.
 
+ 
+
 In the principal Prakrit and the Śaurasenī, all the Sanskrit sibilants are reduced to **स्**. Sanskrit words, therefore, containing the palatal **श्**and the cerebral **ष्**, which in the Prakrits came to have the dental **स्** instead, have the last in the Hindi, Panjabi, Sindhi, Gujarati, and Marathi. But according to a law of Marathi pronunciation, this **स्**, when followed by the palatal vowel or semi-vowel **इ, ए,** or **य्**, is transformed into the palatal **श्**.The foregoing list of words contain many instances that provethese points. Thus:—
 
 \[Table 84 A: Skr. श् or ष् changed to स् in the Vernaculars\]
+
+ 
 
 Table 2. M. H. P. **दिस**, S. **डि़स**, Skr. **दृश्य**; H. **सियार**, Skr. **शृगाल**; G. H. **सींग**, P. **सिंग**, B. **सिङु**, Skr. **शृङ्ग**; H. P. **किस** Skr, **कृषिः** M. **पाउस**, H. **पावस**, Skr **प्रावष्**.
 
@@ -6705,19 +6863,27 @@ Table 2. M. H. P. **दिस**, S. **डि़स**, Skr. **दृश्य**; 
 
  Table 14. M. H. **बैस**, Skr. **उअपविश**; M. **ह्मैस**, H. **भैंस**, G.**भेंस**, Skr. **महिषी**.
 
+ 
+
 Table 24. H.**सेमल**, M.**सावरी**, Skr. **शाल्मली** ; Table 34. H. S. **साध**, Skr. **श्रद्धा**.
 
  Table 47. H. P. **परोस**, G. **पीरस**, Skr. **परिवेष**; Table 46. H **सलाई**,M. P. **सलई**, Skr. **शलाका**.
 
  Table 36. H. **साला**, P. M. **साला**, Skr. **श्यालक**;Table 63. M. **सांवला**, H. P. **सांवला**,&c., Skr. **श्यामलक** ;M. **विसावा**, &c., Skr. **विश्रा**म.
 
+ 
+
 Table 69. H. **सिहरा**, or **सेहरा** &c., Skr. **शेखर**; Table 73. H. **सोह**,S. **सुह**,Skr. **शुभ**; Table 74. P. H. M. G. **डांस**, Skr. **दंश** ;H. **सुन**,S.**सुण**,Skr. **शृण**as above. &c.
 
  H. **सीसो**, M. **शिसवा** G. **शिसम**, Skr **शिंशप** Table 65.
 
+ 
+
 Other instances are—
 
 \[Table 84 B: The same: श्or ष्changed to in the Vernaculars\]
+
+ 
 
 M. **साल**,H. **साल**,Skr. **शाला**‘a school' or 'an establishment.
 
@@ -6739,11 +6905,19 @@ M. **साल**,H. **साल**,Skr. **शाला**‘a school' or 'an estab
 
 \[Table 84 C: The Same More Modern Instances\]
 
+ 
+
 Even in words adopted later, and consequently treated somewhat differently, from the way in which they were treatedin the Prakrits, the Sanskrit **श्** and **ष्** are reduced to **स्**, as in the H. **तर्सना** 'to thirst,’ Skr. **तृष्** ; **परवेस** ‘entrance,’ Skr. **प्रवेश ; परसु** ‘ahatchet,’ Skr. **पर्शु ; निसपति**‘lord of the night,' 'the moon,' Skr. **निशापति**;S. **वंसु** ‘race,’ ‘descent,’ Skr. **वंश;वर्सणु**‘to rain,’ Skr. **वर्ष** ; **वसिकरणु** ‘to subdue,’ Skr. **वशीकरण** , P. **सोग** 'sorrow,’ Skr.**शोक; सांत** 'quietness,’ Skr. **शान्ति** ;**परमेसुर** 'God,’ Skr. **परमेश्वर**; H. **वरिस**, G. **वरस** 'a year,’ 'Skr, **वर्ष**; G, **वरसवुं** ‘to rain,’ Skr. **व**र्ष &c.
+
+ 
 
 The present speakers of the Hindi, the Panjabi, and the Sindhi retain therefore the vocal peculiarity of their Prakrit ancestors of pronouncing Sanskrit **ष्** and **श्** as **स्**.
 
+ 
+
 Of the words given above, the **सींग, सेमल, सीख** and **सेज** of the Hindi become **शिंग, शेवरी, शिक** and **शेज** in Marathi, because they are followed by a palatal vowel. Similarly, we have **शेण**‘cowdung’ Skr. **शकन्; शेगट** 'atree,’ Skr. **शिग्र ; शेवाल** 'moss,’ 'Skr. **शैवाल; शिडी** 'ladder,' Skr. **श्रेडी**, &c. Even the original **स्**of Sanskrit words is pronounced by the Marathas as **श्** under those conditions, as **शेंदूर** ‘red lead,’ Skr. **सिन्दूरः** ; **शिवणें** 'to sew,’ Skr. **सिव्** ;**माउशी**'mother's sister,’ Skr. **मातृष्वसा**, &c.
+
+ 
 
 Gujarati too shows the same tendency though it is not so decided; and we have thus **शिंग**‘a horn,’ **शिखवुं**'to learn' **सिववुं**‘to sew,’ **शिसम**‘blackwood,’ Skr. **शिंशप, शेज**,Skr. **शय्या** &c. But we have also such words as **शिंचवुं**'sprinkling,’ Skr. **सिंच, सिजववुं**'to boil,' **सिडी**‘ladder, &c. So that the Marathi rule does not seem to be strictly applicable to the Gujarati. Still the sound **श्**is as natural to the Gujaratis as to the Marathas, as is shown by such forms as **शुं**for **सुं**‘what?', **करशो**'do,’ &c., and in some provinces it is freely used for **स्**in many words.
 
@@ -6762,21 +6936,31 @@ Gujarati too shows the same tendency though it is not so decided; and we have th
 |  डांश   | डांसa mosquito. |   शेल    |           सालa dart.            |
 |   भईश   | भैंसa buffalo.  | दिवाशलाई |      दिपासलाई & fire-match.      |
 
+ 
+
 Bengali books and dictionaries contain a good many words, derived from the old Prakrits or recently adopted from Sanskrit, which contain **स्**in them. The object of the authors in these cases is to give the correct Prakrit or Sanskrit forms, and not to represent the correct Bengali pronunciation. But it is not necessary to hear a Bengali speak or read his language or even Sanskrit for a long time to arrive at the clear conviction that his vocal habits do not admit of the pronunciation of **स्** or, **ष्**,but only of **श्.**
 
 Sanskrit and Prakrit **स्** becomes **श्** in his mouth. Thus the Bengalis of the present day possess the same vocal characteristic that is attributed to their ancestors, the speakers of the Māgadhī, by the Prakrit grammarians.
 
 \[Table 85 A : श्changed to छ्in the vernaculars\]
 
+ 
+
 **श्** has a tendency to pass off into **छ्** as we observed in going over the Pali. For the Pali **छक** from the Skr. **शकृत्**‘cowdung," we have **छेणु** in S., **छाणा**in G., &, from **शकन्**, another form of the word; and for the Pali **छाप**, Skr. **शाव**‘the young of an elephant,’we have **छावा** in H. M. &c., the Pr. form being **छाव**. For the Skr. **शेव**the G. has **छेवट, छेडो**, and **छेल्लो**‘last,' 'end,’ with the suffixes. **ट, ड** and **ल** ; for Skr. **शल्ल**‘rind,’ H. has **छल्ली**, for Skr. **शण** ‘hemp,’ O. has **छण** ; for **मूत्रधार**'carpenter,’which is **सुतार**in the other dialects and must have been pronounced **शुतार**by the Bengalis, the B. has **छुतार**and O. also. Other instances may be found.
 
 \[Table 85 B : ष् changed to ख्in Hindi\]
 
+ 
+
 In Hindi Skr. **ष्**is often pronounced as **ख्** as in **भाख**for **भाष**, ‘spoken dialect', **पुरुख** for **पुरुष**, **भेख**for **वेष, विखम** for **विषम** &c. This is to be identified with the practice of the followers of the Mādhyaṁdina recension of the White Yajurveda who read the **ष्**occurring in their books throughout as **ख्**. But other dialects also have a few instances of this change, as **विख**P. M. G., **विखु**S. for Skr. **विष**.
+
+ 
 
 Of the Prakrit words in which a vowel or a mute is aspirated through the influence of an adjoining aspirate or an aspirated mute, the vernaculars have preserved the following :—
 
 \[Table 86: Mutes aspirated in the Prakrits and the Vernaculars\]
+
+ 
 
 Pr. **पनस**, M. G.**फणस**, Skr. **पनस**a Jacktree. The H. has also **फनस** but more commonly **पनस**.
 
@@ -6788,7 +6972,11 @@ Pr. **पनस**, M. G.**फणस**, Skr. **पनस**a Jacktree. The H. has 
 
 \[Table 87: Mutes aspirated in the Vernaculars\]
 
+ 
+
 M. **फरशी**, G. **फरसी**, H. **फरसा**, Skr. **परशु** an axe.
+
+ 
 
 M. G. **फांस**, H. **फांस-फांसा-फांसी**, P. **फाहा-फाही-फांसी**,P.**फासी-फाही**, S. **फांस-फांसी**, Skr. **पाश** a noose.
 
@@ -6816,19 +7004,29 @@ M. G. **फांस**, H. **फांस-फांसा-फांसी**, P. 
 
 **\[Table 86 A : Aspiration transferred\]**
 
+ 
+
 In some cases the aspirate sound is absorbed in the adjoining mute, and it ceases to exist as a separate component of a word. Thus, from the Pr. **पहुडि**, Skr. **प्रभृति**, we have the M. **पुढें**in **ह्** which the combines with **ड्**, and the M. *dial*. **फुडें**in which it combines with **प्**. In the same manner the Skr. **मेष**‘sheep' becomes, with the usual Apabhraṁśa suffix **ड**or **डअ, मेसडउ** or **मेहडउ**, which in M. and G. assumes the form of **मॆंढा**and **मॆंढा**, the **ह** combining with **ड**. and in H. and P., of **भेडा**, in which the being combined with the preceding **मे** destroys the nasal character of the sound. P. has **मेढा**also, and G. **भेडा**, and B. and O. **मेडा**as well as **भेडा**. By a similar absorption of the **ह्** sound and the reduction of the nasal to a mere Anusvāra, we have H. P. **भैंस**(masc. **भैंसा**), G. **भेंस**, B.**भंईश**, from Skr. **महिषी**‘a female buffalo,' and G. M. **भेल** from Pr. **मिस्स**, Skr. **मिश्र**with the suffix **ल**, through an intermediate form **मिहल** or **मेहल**. We have a more ancient instance of the process in the Pr. **संभर**for Skr. **संस्मर**, through the intermediate form **संम्हर**, which has been preserved by the G. in **सांभरवुं**'to remember 'or 'remind.’
+
+ 
 
 Sometimes a mute is aspirated without any appsrent resson in the Prakrits, and these instances have come down to some of the vernaculars : —
 
 \[Table 88 : Mutes aspirated\]
 
+ 
+
 Skr. **कुब्ज** humpbacked, Pr. **खुज्जो**, M. **खुजा**; but P. **कोझा**, H. **कुंजा**, B. **कुंजो**, O, **कुंजा**, S, **कुबो** ;M. **कुबड़ा** also.
+
+ 
 
 Skr. **कीलकः**a nail, Pr. **खीलओ**, M. **खिला**, G. **खिलो**, B.O. **खील** or **खिला**; the rest **कील**.
 
  Skr. **कर्पर** potsherd, an earthen cup, Pr. **खप्पर**, M. **खापर**, H. P. **खप्पर**, O. **खपरा** B. **खाबरा**.
 
  Later instances are:—
+
+ 
 
 P. **ग्वूहा**, S. **कूहा** a well, Skr. **कूपकः**.
 
@@ -6844,15 +7042,21 @@ P. **ग्वूहा**, S. **कूहा** a well, Skr. **कूपकः**.
 
 **हलू** 'slow' in M. Pr. **हलुअ**and Skr. **लघुक, हौला** in H. and P and **हलू** and **हलवे** in G.
 
+ 
+
 M. **सून** 'dsughter-in-law, Pr. **सुण्हा**, Skr. **स्नुषा**.
 
  M. **निडाल** 'forehead, Fr. **णडाल**, Skr. **ललाट**, &c.
 
  There are a good many more modern instances -
 
+ 
+
 H. **पहिचानना** to recognize Pr. **पच्चहिआण** Skr. **प्रत्यभिज्ञा-(जा) न**, P. **पछाणना**.
 
  H. **पहिरना** to dress, Pr. **परिहाण**, Skr. **परिधान** P. **पहिराउणा** to cause to dress. In both the last two syllables are assimilated and we have **पहिन्ना** also ; G. **परेवु**by the loss of **ह्**.
+
+ 
 
 G. **वहालुं**beloved, Pr. **वल्लह**, Sir, **वल्लभ**.
 
@@ -6860,7 +7064,11 @@ G. **वहालुं**beloved, Pr. **वल्लह**, Sir, **वल्ल�
 
  **बिलाडी** a cat, Skr. **बिडाल** ; **उथलपाथल** topsy-turvy, the M. form being **उलटापालट**, Pr. **उवलत्थ-ठ्ठ पल्लत्थ-ठ्ठ**. **उपर्यस्त पर्यस्त**.
 
+ 
+
 M. **शेपूट** or **शेपटी** tail, G. having **पूछडुं**or **पूछडी**, Skr. **पुच्छ**, with the suffix **ट**, the **छ्** being changed to **श्**by the usual Mrule and the palatal vowel being brought in by the palatal **श्**.
+
+ 
 
 M. **थोडकें**little, Pr.**थोक्क**, Skr.**स्तोक**, with the suffix **ड**.
 
@@ -6870,15 +7078,21 @@ M. **थोडकें**little, Pr.**थोक्क**, Skr.**स्तोक**
 
 TREATMENT OF SKR. CONJUNCTS IN THE VERNACULARS,
 
+ 
+
 We will now trace in the vernaculars the Sanskrit conjunct consonants assimilated in the Pali and the Prakrits, in the order I have observed in treating of them in the lecture on the Pali. And first I will give a few instances of those in which the second member being strong prevails over the first and is doubled.
 
 \[Table 90: Second Member of the Conjunct preserved and doubled\]
+
+ 
 
 Skr. **कर्म** act, business, Pr.**कम्म**, P. **कम्म**, S.**कमु**, H. G. M. O.**काम**.
 
  Skr. **घर्म**heat of the sun, Pr. **घम्म**, H.**घाम**, M. G. B. O. **घाम**in the sense of ‘sweat.’
 
  Skr. **चर्म** skin, leather, Pr.**चम्म**, P. **चम्म**, S. **चमु**, H. G. B. **चाम**, 0. **चम**, M. **चाम** in **चामडें**.
+
+ 
 
 Skr.**कार्य**, Pr.**कज्जं**, S. **काजु**, M. G. H. P. **काज**. The M. has, however, the dento-palatal **ज** here.
 
@@ -6887,6 +7101,8 @@ Skr.**कार्य**, Pr.**कज्जं**, S. **काजु**, M. G. H. P
  Skr. **पर्ण**a leaf, Pr. **पण्ण**, P.**पन्ना** (of a book), S. **पनु**, H. G. M. **पान**, G. **पानुं** (of a book ), P. S. O. **पान**in the sense of 'betel leaf.’
 
  Skr. **विज्ञप**to solicit, supplicate, Pr. **विण्णव**, H.G. M. **विनव-\[ना-वुं-णें\]**; H. also **विनौना**.
+
+ 
 
 Skr. **राज्ञी**a queen, Pr. **रण्णी**(?), G. P. S. M. B. O.**राणी**, H. **रानी**.
 
@@ -6946,6 +7162,8 @@ Skr. **राज्ञी**a queen, Pr. **रण्णी**(?), G. P. S. M. B. O
 
  Skr. **स्ना**to bathe, Pr. **ण्हा**or **नहा**, P. H. M.G. **न्हा- \[उणा-ना-णें-वुं\]** P. H. **नहा** also.
 
+ 
+
 Skr. **अङ्गुष्ठ**thumb, Pr. **अंगुठ्ठ**, P. **अंगूठ**, S, **आङूठो**, H. **अंगूठा**, G, **अंगूठो**, M. **आंगठा**.
 
  Skr. **विष्किर** to spread,Pr. **विक्खिर**, P. **विक्खरना**, S. **विखेरणु**, H. G. M. **विखर-\[ना-वुं-णें\]** to be scattered.
@@ -6966,6 +7184,8 @@ Skr. **अङ्गुष्ठ**thumb, Pr. **अंगुठ्ठ**, P. **अ�
 
 \(b\) Conjuncls of a dental and a heavy य्.
 
+ 
+
 Skr **सत्य** true, Pr, **सच्च**, P. H. **सच्च**, S. **सचु**, H. M. **साच**, G. **साचुं**,B. **सांचा**.
 
  Skr. **नृत्य** of **नृत्यति** to dance, Pr. **नच**, P. **नच** or **नच-\[णा\]**, S. **नच-\[णु\]**, H. M. G. **नाच-\[ना-णें-वुं\]**,B. O. **नाचिवा**.
@@ -6978,6 +7198,8 @@ Skr **सत्य** true, Pr, **सच्च**, P. H. **सच्च**, S. **�
 
  Skr. **उत्पद्य**of **उत्पद्यते** to be produced, Pr. **उप्पज्ज**, P. S. H. M. G. **पज-\[णा-णु-ना-णें-वुं\]**.
 
+ 
+
 Skr. **माद्य**of **माद्यति**to be intoxicated, Pr. **मज्ज**, M. **माजणें**.
 
  Skr. **विद्युत** lightning, Pr. **विज्जू**, M. G. **वीज**, P. **विज्ज**, S. **विजु**.
@@ -6987,6 +7209,8 @@ Skr. **माद्य**of **माद्यति**to be intoxicated, Pr. **म
  Skr. **स्विग**of **स्वराति** to sweat also to boil, Pr. **सिज्ज**, P. **सिज्जणा** to be soaked, S. **सिझणु**, H. **सिझना-सिजाना** (casual), M. **शिजणें**, G. **सिजवुं**, 0. **सिजिवा**.
 
  Skr. **वन्ध्या**abarren woman, Pr. **बंज्झा** Or **बंज्झा**, P. **वंझा**, S. **वांझ**, H.O. **वांझ**, G. **बांझ-\[णी\]**, M. **वांझ** or **वांज**, B, **बांझा**.
+
+ 
 
 Skr. **संध्या** evening, Pr. **संज्झा**, P.S. **संझा**, S. **सांझी**, H. **सांझ**, M.G, H. B. **सांज**, O. **संज**.
 
@@ -7000,6 +7224,8 @@ Skr. **संध्या** evening, Pr. **संज्झा**, P.S. **सं�
 
 \[Table 93 :व् as second member of a conjunct changed to प्प, ब्ब, ब्भ,च्च,ज्ज, ज्झ\]
 
+ 
+
 Skr. **त्व**abstract termination, Apabhr., **प्प**,H. **पा**as in **बुढापा**old age, **मोटापा** fatness, S **पो** as in **माण्हिपो**humanity, from **माण्डु**man.
 
  Skr. **त्वन** abstract terminstion, Pr. **त्तण**, Apabhr. **प्पण**, H. **पन** or **पना** as in **कुआरपन** celibacy; S. **पणु** or **पणो** as in **जालपणु** womanhood, **माण्हुअपणु** humanity ; M. **पण** or **पणा** as in **माणुसपण** or **माणुसपणा** humanity ; P. **पुण** as in **निआणपुण** childhood &c.
@@ -7009,6 +7235,8 @@ Skr. **त्व**abstract termination, Apabhr., **प्प**,H. **पा**as i
  Skr. **द्वार** door, Pr. **दार** or **बार**, P. H. G. **बार**, P. **दर** S. **दरु**. M. **दार**.
 
  Skr. **सर्व** all, Pr. **सब्ब**, H, **सब**, P. **सभ**, S. **सभु**, G. **सहु**for **सव**.
+
+ 
 
 Skr **ज्वल** to burn, Pr, **जल** or **बल**, S. **बरणु**, P. **जलना-बलणा**, H. **जलना-बलना** G. M. **जलणें** and **पोलणें** where **ब**seems to be hardened, B. O. **पोड़** in **पोडिवा**.
 
@@ -7022,17 +7250,25 @@ Skr **ज्वल** to burn, Pr, **जल** or **बल**, S. **बरणु**,
 
 **\[DENTALS CHANGED TO PALATALS\]**
 
+ 
+
 Dentals have a tendency to become palatals even when not followed by **य्** or **व्**, probably because they do so become when followed by those semi-vowels. Thus, from the Skr. **वादयति** ‘to sound' or 'play on a musical instrument,' we have P. **बजाउणा**,H. **बजाना**, M. **वाजविणें**, &c.; from Skr. **निद्रा**'sleep,’ M. **नीज**; P. H. **ओछा**;'trifling,' 'vain', S. **ओछा**,from very probably, Skr. **वृथा** ;M. **सावज**,H. **साजा**from Skr. **श्वापद** which appears even in the Prakrits to have assumed the form of **सावज**,though **सावय**is usually given; M. H. G. **छी छी**, M. **छे छे**,Pr. **छि छि**from Skr. **धिक् धिक**&c.
 
 \[Table 94: (c) The conjunct क्ष्(when the sibilant is pronounced like श्,) and त्स, and त्स्य\]
 
  Skr. **क्षण** a moment, Pr. **खण**, P. **छिण**, S. **खिण**, H. **छिन**, G. **खण**, M. (*dial.*) **खिण**a festival, Pr. **छण**, M. **छिन**, M. **सण**for **छण**.
 
+ 
+
 Skr. **क्षुरक-रिका** aknife a razor, Pr. **छुरअ-रिआ**, P. **छुरा-री**, S. **छुरी**, H. **छुरा-री**, B. O. **छोरा-छुरी**, M. **सुरी**.
 
 ** **Skr. **मक्षिका**afly, Pr.  **मक्खिआ**, P. **मक्खी**, S. **मखी**, H. G. **माखी.मच्छिआ**, H. B. O. **माछी**, M. **माशी**.
 
+ 
+
 Skr. **कुक्षि**a side of the abdomen, Pr. **कुच्छि**or **कुक्खि**, M. **कूस**; the rest **कुख** or **कोख**as in Table 5.
+
+ 
 
 Skr. **ऋक्ष**a bear, Pr. **रिच्छ**, S. **रिछु**, H. G. **रीछ**, M. **रीस**.
 
@@ -7040,11 +7276,15 @@ Skr. **ऋक्ष**a bear, Pr. **रिच्छ**, S. **रिछु**, H. G.
 
  Skr. **क्षेत्र**a field, M. **शेत** from Pr. **छेत्त**; the rest **खे**त.
 
+ 
+
 Skr. **वत्स**a calf, Pr. **वच्छ**, P. **बच्छा**, S. **वछ**, H. **बाछा, बछा, बछ**, G. **वछ, वाछ-\[रहुं\]**. B. **बाछु-\[र\]** O. **बाछु-\[री\]**, M. **वास-\[रुं\]**; P. H. **बच्चा**, S. **बचो**,B.**बाच्चा**, M.**बच-\[डें\]**, &c., in the sense of ‘the young one of any animal,’ from the same.
 
  Skr. **मत्स्य** & fish, Pr. **मच्छ**, P, **मच्छ**, S. **मछु**, H. **मछ** or **माछ**, B. O. **माछ**, M. **मासा**.
 
  Skr. **उत्सङ्ग**lap, Pr.**उच्छङ्ग**, H.**उछंग**, M. **ओसंग**.
+
+ 
 
 The conjunct **क्ष्**sometimes appears in the Prakrits, and perhaps even in Sanskrit, in the form of **झ्**. The Sanskrit **क्षर** is **ज्झर**in the Prakrits, and this we have in the H. **झरना**, M. **झरणें** and **पाझरणें**in which last **पा**stands for the preposition **प्र. क्षि**is Pr. **झिज्झ**from which we have M;**झिजणें**'to waste away', and from **क्षीण**we haveS. **झीणो**, H. **झीन**, &c.
 
@@ -7070,6 +7310,8 @@ The conjunct **क्ष्**sometimes appears in the Prakrits, and perhaps even
 
 \[Table 96: Instances where the first member of a conjunct remains\]
 
+ 
+
 Skr **भग्न-\[कः\]** fled away, Pr. **भग्ग- \[ओ\]**, H **भागा**, S. **भ**गो.
 
  Skr. **लग्न** adhered to, connected, Pr. **लग्ग**, P. **लग्गा** or **लग्ग** in **लग्गणा**, S. **लग** in **लगण**, H. M. G. **लाग-\[ना-णें-वुं\]** B. **लागा**, O **लागि**वा.
@@ -7082,19 +7324,29 @@ Skr **भग्न-\[कः\]** fled away, Pr. **भग्ग- \[ओ\]**, H **�
 
  Skr. **शून्य**void, empty, Pr. **सुण्ण**, P. **सुन्न** or **सुन्ना**, S.**सुंन**, H. **सून** or **सूना**,M. **सुना, सुंन** has acquired the sense of "insensibility" also.
 
+ 
+
 Skr. **मन्य** of **मन्यते** to regard, Pr. **मण्ण**, P. **मन्नणा**, S. **मनणु**, M. G.H. **मान-\[णें-वुं-ना\]**.
 
  Skr. **व्याख्यान** to explain, Pr. **वक्खाण**, P. **व-बखाणना**, H, **बखानना** explain or praise, S. **बखाणणु** praise, G. **वखाणवुं**, H. **वाखाणणें**.
+
+ 
 
 Skr. **अरण्य** desert, Pr. **रण्ण**, M. G. **रान**, G. **रन**, S.**रिणु**.
 
  Skr. **व्याघ्र** a tiger Pr. **वग्ध**, P. H. B. O. **बाघ**, S. **बाघु** M. G. **वाघ**.
 
+ 
+
 Skr. **अग्र** front part, Pr. **अग्ग**, S. **अगो**;H. **आगा**; P **आग्गु**before, G. **आगो**, G. **आगल** before, B. **आगे** O. **आगु**first of all.
 
  Skr.**चक्र**a wheel, Pr. **चक्क**, P. **चक्क**, S. **चकु** (both) apotter’s wheel, H. **चाक, चक्की**, in the sense of a ‘mill-stone', G. M. **चाक**, B, **चाका**.
 
+ 
+
 Skr. **पत्र** a leaf, Pr. **पत्त**, P. **पत्त**, S. **पतो** aplaying card, H. **पात, पाता, पत्त**G, **पातरुं**, M. **पातें** blade of a knife, M. **पातेरा** a collection of dry leaves.
+
+ 
 
 Skr. **चन्द्र** moon, Pr. **चन्द**, P. **चंद**. S. **चंडु**, H. G.M, B.O. **चांद**. H. **चंद** also.
 
@@ -7110,6 +7362,8 @@ Skr. **चन्द्र** moon, Pr. **चन्द**, P. **चंद**. S. **�
 
 \[Table 97: र्यis changed to ल्ल\]
 
+ 
+
 Skr. **पर्याय** rotation, turn, Pr. **पल्लाअ**, H. **पाला**, M. G.O. **पाली**.
 
  Skr. **पर्यस्त** changed, Pr. **पल्लठ्ठ**or **पल्लत्थ**, P, H. **पलटा**, P. **पलटा**, M. G. **पालट**.
@@ -7117,6 +7371,8 @@ Skr. **पर्याय** rotation, turn, Pr. **पल्लाअ**, H. **प
  Skr. **पर्यङ्क**a bedstead, Pr. **पल्लङ्क**, P. **पलंघ**, S. **पलंगु**, H. M. G. **पलंग**, B. **पालंक** or**पालंग**, O. **पलंक**.
 
  The following are instances of other cases of the same change;
+
+ 
 
 Skr. **मर्द**to squeeze, rub, knead, Pr. **मल**, P. M. G. **मल-\[ना-णें-वुं\]**, H. S. **मल- \[ना-नें-वुं\]**.
 
@@ -7130,6 +7386,8 @@ H. has **आदा** also from Pr.**अद्दअ**.
  When **क्**, the first sound of **क्ष्**, prevails and adds to itself the heavy aspiration of **ष्**, the conjunct becomes **क्ख्**. Of this change there are many instances in the vernaculars :—
 
 \[Table 98 :क्ष changed to क्ख्\]
+
+ 
 
 H. **रूस**, Skr. **वृक्ष** a tree, Pr, **रुक्ख**, P. **रुख**.
 
@@ -7157,21 +7415,33 @@ H. **रूस**, Skr. **वृक्ष** a tree, Pr, **रुक्ख**, P. *
 
  Skr. **इक्षु** sugar-cane, Pr. **उक्लु** or **इक्खु**, H. **ऊख** or**ईख**, P. **इक्ख**.
 
+ 
+
 Though accordingto Hemacandra and Vararuci, the **क्ष्** of **क्षेत्र, कुक्षि,अक्षि,क्षीर, मक्षिका**and इक्षु**i**s changed to **च्छ्**in the Mahārāṣṭrl or principal Prakrit, still we see that most of the vernaculars derive their forms of these words from such Prakrit formal as had **क्ख्** for the Sanskrit **क्ष्**. But with the exception of **इक्खु**and **खीर** which are mentioned as occurring in the Jaina sacredbooks, these forms are not given as existing in any of the dialects.
 
+ 
+
 This and other similar omissions show that the observation of the Prakrit grammarians was by no means perfect. The Marathi forms of these words, however, with the exception of **अक्षि**, which is unknown to the language, and of **क्षीर**,which is **खीर**,have **म्** or **श्**, which is representative of the Prakrit **छ्**, and hence they are the same as those given by Hemacandra and Vararuci. Here we have one of several indications that the modern Marathi is the direct daughter of the old Mahārāṣṭrlof the grammarians.
+
+ 
 
 It will be seen from the lists given above that the Hindi, Gujarati, Marathi and Bengali mostly drop one component of the doubled consonants, and to make up for the quantity thus lost, lengthen the preceding vowel. In other words, the speakers of those dialects take the same time to pronounce two syllables the latter of which contains a double consonant which the speakers of the Prakrit did; but the preceding forcible vowel utterance and the subsequent strong contact and pressure being avoided, the effect is that one of the two consonants is dropped and the previous vowel lengthened. This then is essentially a case of softening.
 
  The Sindhi drops one of the two consonants, but does not. lengthen the preceding vowel; while the Panjabi generally preserves. the doubled consonants handed down to it by the old Prakrits. The Hindi contains more instances in which the original Prakrit pronunciation is preserved than the other three dialects. Hemacandra notices in the Prakrits the softened pronunciation we have been considering in the case of only, one of which is according to him dropped and the preceding vowel is lengthened, as in **पासइ** for **पस्सइ**, Sk. **पश्यति, मीसं** for **मिस्सं**, Skr, **मिश्रम्**, &c. This lengthening of the previous vowel is in the four dialects prevented, as observed [before,](http://# "1 See pp. 424-26,") by the accent falling on a subsequent syllable.
 
+ 
+
 In the ‘Pali and the Prakrits, you will remember, the components of some conjuncts such as **र्य्, ई, र्श्, र्ष्, श्ल्, क्ल्, ग्ल्, म्ल्**, &c., are not assimilated but separated by the interposition of a vowel. The vernaculars have preserved some instances of this process:—
 
 \[Table 99 Interposition of a vowel between the members of a conjunct\]
 
+ 
+
 H. **सराहना** to praise, Pr. **सलाह** Skr. **श्लाघ**.
 
  H. **अगनी**, P. **अगन**, B. **आसुन** fire, Pr. **अगणी** Skr. **अग्नि**.
+
+ 
 
 H. **बरस, बरिस**, M. **वरीस** a year, Pr. **वरिस**, Skr. **वर्ष**. So also H. P.**वरस-\[ना-णा\]**,G. **वरसवुं**, Skr. **वर्ष**.
 
@@ -7183,11 +7453,17 @@ H. **बरस, बरिस**, M. **वरीस** a year, Pr. **वरिस**
 
  In modern times other conjuncts also are similarly dissolved, and we have a **पर्ताप**S. M., &c. 'exploit' for **प्रताप, खेतर**, P. G., &c. 'a field' for **क्षेत्र, पदमु**S. 'a lotus' for **पद्म, तियाग**P. for **त्या**ग. **तर्सु**S., others **तरास**, 'vexation' for **त्रास, धरम**'virtue' H. M. G., &c., for **धर्म**, &c.
 
+ 
+
 But the books and dictionaries of some of these languages contain a good many Sanskrit words the conjuncts in which are not changed in any way. This is due to the fact that those languages are now the spoken languages of the educated as well as the uneducated portions of the different communities, and the former pronounce the words correctly, and the forms given to them by the latter are not taken into account by the authors of those books. Again, even the latter, though they interpose a vowel between the components of some conjuncts as shown above, have, to a certain extent, become used to Sanskrit sounds and can pronounce others correctly. But in some of the provinces. the old disability of the Prakrit speakers has been inherited in certain cases by their modern descendants, whether educated or uneducated, and it is very much to be regretted that the writers of books should in such cases write words in their Sanskrit forms. which, when they are read by themselves or others, are read in a quite different way.
+
+ 
 
 The people of Sindh**¹**, whether belonging to the higher or lower classes, and the Bengalis pronounce the conjuct **क्ष्**invariably as **क्ख्**.Thus Sanskrit **नक्षत्र** as **नक्खत्रसाक्षी** as**साखी, मोक्ष** as**मोक्ख**or **मोख**,&c. The speakers of the Hindi more often pronounce as **चा** than as **क्ख्,नक्षत्र** becoming **नच्छंत्तर** with them; **साक्षी, साच्छी; मोक्ष मोच्छ ; लक्ष्मण, लच्छमन ; लक्षणा, लच्छना ; क्षत्रिय, खत्री** or **छत्री ; क्षय, छय ; क्षम, छम** ;&c. The Panjabis pronounce the first three words as **साखी**, and **मोच्छ, लक्षण** as**लच्छण, क्षत्रिय** as **खत्रि**, &c. so that they also agree with the Hindi people, but seem more inclined towardsmaking **क्ख्** of the conjunct. The Marathas, however, pronounce the **क्ष्**properly, though ordinarily they make **क्श्** of it rather than **क्-ष्**, as remarked on a former occasion. Similarly, the Bengali assimilates conjuncts the latter member of which is **व्** or **य्**, **ईश्वर**becoming **इश्शर** and **व्याख्यान बाक्खान** in his mouth. Similarly be pronounces Skr. **आत्मा** as just as his Prakrit ancestors did though it is written correctly.
 
 ASSIMILATION OF MEMBERS OF CONJUNCTS CONTAINING NASALS
+
+ 
 
 Some of the vernaculars assimilate the components of a conjunct made up of a nasal and a mute. Thus the Panjabi hast **डन्न**for **दण्ड** 'penalty **मुन्नणा** for **मुण्डना** 'to shave **सुन्न** for **सुण्ड**, Skr. **शुण्डा**'the trunk of an elephant', **कन्नहा** for **कन्धा**,Skr. **स्कन्ध**'shoulder', **बन्नह**for **बन्ध** 'binding', **खन्न**for **खन्ड** 'a piece', **भन्नणा** 'to break for **भङ्गना** or**भजना, थम्म** for **स्तम्भ** 'a pillar, &c.In the Bengali **खान** ‘a piece', one of the two **न्** sounds of **खन्न** is dropped and the preceding vowel lengthened. Similarly we have **थाम** ‘to stop’ from **स्तम्भ**. In Sindhi we have **भञु** ‘interruption',for**भङ्ग, चङो**'good' for **चङ्गो**, M. **चांगला** ;**मञुठ** 'madder' for **मञ्जिष्ट ; पिनु**'a ball’ for **पिण्ड; खनु** 'apiece of bread’ for **खण्ड ; चुमणु** 'to kiss’ for **चुम्ब**, &c. Here the Sindhi, as is usual with him, drops one component of thedoubled consonants. With this exception, the modern dialects have got no cases of the assimilation of the members of a conjuner unknown to the Prakrits, while, as shown above, the speakers of those dialects tenaciously retain the vocal habit of assimilation of their Prakrit ancestors in a few cases.
 
@@ -7211,27 +7487,45 @@ LECTURE V
 
 REMNANTS OF THE OLDER GRAMMATICAL FORMS IN THE NORTHERN VERNACULARS
 
+ 
+
 I have already directed your attention to the accent on the penultimate syllable of words in the vernaculars of Northern India and the effect it has had in mutilating and transforming the Sanskrit and Prakrit words existing in their vocabularies. Through its influence, you will remember, the final vowel or the vowel of the last syllable is shortened in some cases, and often entirely dropped and the word ends in a consonant or silent . When the consonant of the last syllable is dropped in consequence of the Prakrit law of the elision of uninitial consonants, the final vowel and the vowel of the penultimate syllable are brought together and when they are in this condition, it is possible for them to unite into one sound and thus the final vowel is dropped in some cases and combined with the preceding in others. The Sindhi, however, oftentimes resists the influence of this accent as I have already mentioned.
 
 CASE TERMINATIONS IN THE VERNACULARS.
 
+ 
+
 Now on account of these processes, the nominative singular termination **ओ** of masculine Prakrit nouns ending **अ** in is sometimes shortened to **उ**and in this form we have it in the Sindhi and in old Marathi and Hindi literature. In the other dialects. including the modern Marathi and Hindi, it is dropped except in instances such as **वाटसरु**M. and** आयसु** 'command' H. The Prakrit plural terminations **अ**and **ए** of this case are also dropped everywhere for the same reason and we have such forms as **हाथ**S., **हाथ** H., **हात** M. G. &c. for the nom. pl. and these are the sing. forms also except in the case of the Sindhi, which has **हथु**.
+
+ 
 
 In the Prakrit the plurals of the nominative and accusative cases of all nouns are alike and so are they alike in the vernaculars. The analogy came to be extended to the singulars also in the Apabhraṁśa and accordingly the singulars of the two cases. are the same in the vernaculars. An independent accusative
 
 case made up by affixing a termination to a noun is given in ordinary grammars; but it has the sense of the dative, or rather of the Sanskrit genitive, which expresses relation in general. Thus we say **मी काम करितों** M. ‘I do work,’ **हूं काम करूं छूं**G., **आंवकमुथो कर्यां** B., **मै कमकरदा** P., **मैकाम करता हूं** H., **आमि** or **मुइ काम करि** or **करिते छि** B., **मु कर्मकरु अछि** O., in which instances **काम**etc. are really accusatives and we do not use **कामास, कामने, कमखे, कमनु, कामको, कामके** and **कर्मकु**, which forms are generally referred to the accusative.
 
+ 
+
 The masculine nom, and acc. sing. form in**उ** was in the Apabhraṁśa extended by analogy to the neuter singular also; and, though the peculiar neuter plural termination was preserved, the fact shows that in the vernacular speech of the times there was a tendency to forget the distinction between the two genders. Accordingly we now find that in the Sindhi, the Panjabi, the Hindi, Bengali and Oriya the distinction is entirely lost. In Gujarati also nouns ending in **अ**have retained none of the two neuter terminations, but the Prakrit and Apabhraṁśa **इं** plural of that gender exists in the Marathi combined with the preceding **अ**into **एं** as ‘a fruit' sing., **फलें** 'fruits' pl.
 
+ 
+
 This neuter pl. termination is applied in Hindi, Sindhi, and Panjabi to the pl. of fem. nouns ending in **अ** as in **रातें**'nights' H., **जाला**‘women' S. and **गल्लां**'words' P., though the **इ**is changed to **आ**in the last two cases.
+
+ 
 
 The change of the final syllables **अओ**of Prakrit words resulting from such Sanskrit words as **आम्रातकः-को, पारदः-दो, दीपकः-को** etc. to **आ**by the dropping of the final and lengthening of the penultimate through the force of the general accent on the penultimate in some of the modern dialects such as the Marathi and the Hindi and to **ओ**, into which the two vowels are combined in consequence of the weakness of the accent in such languages as the Gujarati and the Sindhi and in some of the minor dialects of the Marathi, has already been noticed in the last lecture. Similarly the change of the Prakrit final syllables of neuter nouns **अअं**or **अयं** arising from such Sanskrit words as **कदलकम, मस्तकम्** have been changed to **एं** in the Marathi and to **उं** in Gujarati and to **आं**in some of the dialects of the Marathi. This also has been explained. The pl. of such neuter nouns, most of which are formed by
 
 the addition of **क**and may be called augmented nouns, is formed by the addition of the Apabhraṁśa **इं**, which being rendered emphatic by the nasal sound absorbs the previous **अ**or light **य** and thus wehave **केलीं** for Ap. **कअलअ+ इं**= Skr. **कदलक + आनि**.
 
+ 
+
 Fem. nouns in **इ** or **ई** add **आं** as**घोडी-घोडियां** H., **घोडिआं** P. This **यां**or **आं**represents the combination of **य**or **अ**with **इं**; such nouns as घोडीbeing derived from **घोटिका = घोडिआ**. In Panjabi after fem. nouns in **आ** the **ईं** appears distinct, as **बला** a calamity, **बलाईं** nom. pl. In Sindhi the neuter termination is added to the original Prakrit fem. pl. **उ**, shortened from **ओ**, **घोड्यूं**'mares'nom. pl. **हचा**'murder' **हचाऊं**‘murders'; **जाल**a 'woman,' **जालूं**'women' nom. pl. This last **जालां** has it also like the P. **रातां**. In Marathi also it is not very unusual to speak of women in the neuter pl. when respect is intended as **राणींसाहेब आलीं**. This transference of neuter termination to the fem. must have taken place when gendersbegan to be confused in the Apabhraṁśa period.
 
+ 
+
 The nom. pl. termination of masc. nouns, which in the Prakrit was **आ**,is preserved by the class of nouns we have been considering i. e. augmented nouns, in Sindhi and Gujarati; while the **ए** of the Prakrit acc. pl. is used for those nouns in the Marathi and its dialects and the Hindi and the Panjabi. When the two cases were thoroughly confounded, one can easily see how this came to pass. Other or unaugmented nouns have dropped both the terminations in all the languages, as has been already noticed.
+
+ 
 
 The Marathi has preserved the Apabhramsa instr. sing. **एं** which is used after nouns in **अ** and the plural **हिं**reduced to **इं**. In all the modern languages the **ह** of the Apabhraṁśaforms is dropped. These terminations are appended to the old instrumental termination **न** and we have **नें**and **नीं**which are now ordinarily used. These you will see are double forms and of such we have many in the various languages. Goan., Mal. and Cit. have **न्** for the sing. and the last has **इं**for the pl.
 
@@ -7240,6 +7534,8 @@ The Marathi has preserved the Apabhramsa instr. sing. **एं** which is used a
 where **मते**is hardly an instrumental); but here evidently the termination **ए** is confounded with the **एं** of the instrumental and we have **माझ्या मतें**lit. "by my opinion."
 
  The dative **स** is generally considered a remnant of the Skr.**स्य**and Pr.**स्स**. But I have not found it in the Jñaneśvarīand in its place we have **शीं**in the old poets, which is connected with a similar post-position in other languages which will be considered hereafter. None of the minor dialects of the languages have anything like it, but still the derivation may be correct.
+
+ 
 
 Gujarati has the old instrumental in **एं**, but it is confounded. with the corresponding **ए** of the fem. and with the locative **ए** and we have one termination for both, with the nasal dropped. The shortened Apabhraṁśa form in **इ** is found in old Gujarati. It is confounded with that in **इं**, the anusvāra being dropped.
 
@@ -7253,11 +7549,19 @@ From the chronicle of Kanhadade-prabandha given in the Gujarati School-paper.
 
 Pancopākhyāna, the story of Hiraṇyaka.
 
+ 
+
 In this latter, however, there occurs an anusvāra, which should be correct, the termination is a remnant **हिं**. The Gujarati has also the double instrumental णेंin pronouns, as **तेंणें, जेंंणें**, etc.
+
+ 
 
 The Sindhi has got the ablative terminations **आं, ओं, ऊं,अउ**and **आउ**. The first is from the pronominal instrumental **हां**of the Apabhraṁśaand **म्हा**of the Prakrit; **ओं**and **ऊं** from **हुं** of the former **अउ** and **आउ** and from the corresponding Prakrit. The locative **ए** and its shortened form **इ** are also preserved, but they are used after nouns in **अ**as in the older dialects, as **खुहि**or **खुहेपिओ**'he fell into a well.'
 
+ 
+
 The Panjabi possesses the abl. in **हुं**with the **ह** dropped and the **उं** amalgamated with the preceding **अ**into **ओं**as **घरॊं**‘from a house, the locative pl. **हिं**as **घरीं** ‘in the house,’ the instrumental pl. **हिं**as **उअसदें हथीं**‘by the hands’ and the locative sing. in **ए** as **उसदोदरगाहे**‘in his court.’ The instr. in **नें** is also ordinarily used in the form of **नैं**.
+
+ 
 
 The Hindi has scattered instances of the loc. in **एं**, but the instrumental **ने**is common. The Bengali has preserved the former. The instrumental also has **ए**, though the grammarians do not give it, as—
 
@@ -7275,7 +7579,11 @@ The Hindi has scattered instances of the loc. in **एं**, but the instrumenta
 
  'How do the moon and the sun in the form of lamps shine in the plate of the sky !’
 
+ 
+
 The Oriya also possesses the loc. in **ए**and as in the B. and G. it is confounded with the instr. in **एं**, the nasal being lost, as **हातें**'in or by the hand.’ This dialect has the Pr. abl. in **उ**also as **हातु**'from the hand.’
+
+ 
 
 The nom. pl **ओ**or **उ**of fem. nouns in **आ** or**ई** is preserved in the Mal., Goan and Cit. as **जीभ, जिभो ; साडी, साड्यो;** and **घोडी, घोड्यो** ;but the two latter are derived from the Skr. **शाटिका**and **घोटिका**which are nouns ending in **आ**. The final **आ**, which alone. remains after the elision of the consonant **क्**, is dropped in consequence of the penultimate accent and we have **साडी** and **घोडी**. The **ओ**or **उ** of the plural of the original Prakrit **साडिआओ-उ**also isdropped like the **ओ** or **उ** of **घोडओ-उ** in the ordinary Marathi **घोडा**;and, just as the previous vowel; in this latter is lengthened in consequence the accent and the resulting form is **घोडा**, so the previous **आ** of **साडिआ-ओ-उ** and **घोडिआ-ओ-उ**, being accented, remains and we have **साड्या**, and **घोड्या**for **साडिआ** and **घोडिआ**; but in the dialects of the Marathi, in which the **ओ**or **उ**Masc. nouns in the sing. is preserved, we have **घोडो**and **कांटो**etc.; so also is the **ओ-उ**of the fem. preserved and we have , **साड्यो,घोड्यो**etc.
 
@@ -8255,9 +8563,9 @@ Jñān. 13-347.
 
 Sursāgar, pada 12, page 252.[^132]
 
- 'Kānha said, "There is no other God besides the mountainGovardhan." Taking it to be the truth the king of mountainswas regarded by the cowherds as a great God."
-
 [^132]: " Lucknow Ed., 1874."
+
+ 'Kānha said, "There is no other God besides the mountainGovardhan." Taking it to be the truth the king of mountainswas regarded by the cowherds as a great God."
 
  Here **गोपनि** is agent instrumental in **नि**.
 
@@ -9165,7 +9473,7 @@ CLASS B, No. 4
 
 PREPARED UNDER THE SUPERVISION OF THE PUBLICATION DEPARTMENT OF THE BHANDARKAR ORIENTAL RESEARCH INSTITUTE POONA  
 
-![](../../../../../../../books_images/U-IMG-1697621404sss.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1697621404sss.png"/>
 
 POONA  
 
@@ -9407,8 +9715,6 @@ VAIṢṆAVISM.
 
  §The[^1] old Vedic gods became indissolubly involved in the elaborate and mechanical system of worship that had grown up.Speculations as regards the appropriateness of the rules and modest of worship, and their efficacy as regards man's good in this world and the next, became prevalent. But all this did not satisfy the religious spirit of the people. Religious speculation of a more. natural order came to be established about the close of the Hymnperiod and was continued into that of the Upaniṣads. The various problems about God, man, and the world, engaged the attention of many thinkers, and a variety of solutions was arrived at. It is generally believed that the Upaniṣads teach a system of Pantheism; but a close examination will show that they teach not one, but various systems of doctrines as regards the nature of God, man, and the world and the relations between them. The religio-philosophic systems of modern times, which are mutually inconsistent, quote texts from the Upaniṣads as an authority for their special doctrines. These references to the old books are correct in the most prominent cases, but when the advocates of the systems force into other texts of an opposite nature a meaning consistent with their own special doctrines, they are manifestly wrong. That the Upaniṣads teach not one but various systems must follow. from the fact that they are compilations just as the ṚgvedaSaṁhitāis The speculations of the old, seers were clothed by them in words, and these were handed down orally and came to form a large floating mass. When the idea of collecting these speculations arose, they were incorporated into books for the use of individual Vedic schools. Hence it is that we find certain
 
-[^1]: "[R. G. Bhandarkar s Works, Vol. IV]"
-
 verses, passages and whole sections occurring in one Upaniṣad reproduced in another¹.
 
  No doubt, the idea of the immanence of God in the world is very prominent in the Upaniṣads. But if that is what constitutes Pantheism, the liberal religious thought of the present day in Europe also must be regarded as Pantheistic. With the immanence of God is associated his transcendence also, as stated in the Vedānta-Sutra II. 1. 27.In addition to these two doctrines the Upaniṣads teach that God is the protector of all beings, is the lord of all and dwells in the heart of man, that seeing him as he is and everywhere, is eterual bliss; that this is to be attained by contemplation and the purification of the soul, and that in the blissful condition the individual soul attains to a perfect similarity with the supreme soul. They also teach the absorption of the individual soul into the supreme as of a river into the ocean, and the unconsciousness of the soul when everything but. himself fades away from his knowledge. In this respect the doctrine may be regarded as Pantheistic or as setting forth the illusory character of all phenomena. Speculation in the Upaniṣad times was very free, and it veared round even to the denial of the soul as a substance.
@@ -9427,15 +9733,11 @@ verses, passages and whole sections occurring in one Upaniṣad reproduced in an
 
 theism, so fully explained by Max Muller, and its ultimate result, the identification of the various gods, also influenced later thinkers. The conception that the supreme spirit manifests himself in various forms which we find expressed in the Upaniṣadsis a development, in the opposite direction, of the idea that one God, for instance Agni, is the same as Varuna, Mitra, Indra and Aryaman.[^2] If these several gods are one, one god may become several. This led to the conception of Incarnations or Avatāras, which plays such a prominent part in the later religious systems.
 
-[^2]: "RV. V. 3, 1—2"
-
  But for ordinary people, an adorable object, with a more distinct personality than that which the theistic portions of the Upaniṣads attributed to God, was necessary and the philosophia speculations did not answer practical needs. Thus some of the old Vedic gods, and others, which were new, became the objects of worship.
 
 II\. The Rise of a New Theistic System.
 
  §2. The tide of free speculations culminated in the east into such systems as those of Buddhism and Jainism; and though they denied the existence of God as a creator, or did not use the ides for the promotion of righteousness, and the former practically denied the existence of the human soul as a substance, still, these systems had the needful personal element in the shape of their founders. In the west, however, a theistic system with a god who had come to dwell among men arose. The various religious systems and superstitions that prevailed in the fourth century. B. C. are given in the following passage, occurring in the Niddess, which though of the nature of a commentary is regarded as one of the books of the Pall Buddhistic Canon[^3]: "The deity of the lay followers of the Ājivakas is the Ājivakas, of those of the Nighanthas is the Nighanthas, of those of the Jaṭilas (ascetics wearing long matted hair) is the Jaṭilas, of those of the Paribbājakasis the Paribbājakas, of those of the Avaruddhakas is the Avaruddhakas, and the deity of those who are devoted to an elephant, a horse, a cow, a dog, a crow, Vāsudeva, Baladeva, Puṇṇabhadda, Maṇibhadda, Aggi, Nāgas, Supaṇṇas, Yakkhas,
-
-[^3]: "This passage has been furnished to me by Mr. Dharmanand Kosambi."
 
 Asuras, Gandhabbas, Mahārājas, Canda, Suriya, India, Brahmā, Deva, Disā is the elephant, the horse, the cow, the dog, the crow, Vāsudeva, Baladeva, Puṇṇabhadda, Maṇibhadda, etc., respectively."
 
@@ -9443,21 +9745,13 @@ Asuras, Gandhabbas, Mahārājas, Canda, Suriya, India, Brahmā, Deva, Disā is t
 
  § 3. In his comment on Pāṇini IV. 3 98, Patañjali distinctly states that the Vāsudeva contained in the Sūtra is the name of the " worshipful ", i. e., of one who is pre-eminently worshipful, i. e., God.[^4] The worship of Vāsudeva must be regarded to be as old as Pāṇini.
 
-[^4]: "SeeJRAS, 1910, p. 163."
-
  In an Inscription found at Ghosundi in Rajputāna[^5]which unfortunately is in a mutilated condition, the construction of a wall round the hall of worship of Saṁkarṣaṇa and Vāsudeva is mentioned. From the form of the characters in the Inscription it appears to have been engraved at least two hundred years B. C.
 
-[^5]: "Luders, List of Brāhmī Inscriptions, No. 6."
-
  In another Inscription recently discovered at Besnagar,[^6] Heliodora represents himself to have erected a Garuḍadhvaja or a column with the image of Garuḍa at the top in honour of Vāsudeva, the god of gods. Heliodora calls himself a Bhāgavaṭa, was the son of Diya, was a native of Takṣaśila and is spoken of as an ambassador of the Yavana and as such came on a political mission from. Aṁtalikita to Bhagabhadra who must have ruled over EasternMalwa. In this Inscription occurs the name Aṁtalikita which in all likelihood is the same as Antialkidas of the Bactro-Greek coins. This name as well as the form of the characters show that it belongs to the earlier part of the second century before the
-
-[^6]: "Ibid. No. 669."
 
 Christian era. At that timeVāsudeva was worshipped as the god of gods and his worshippers were called Bhāgavatas The Bhāgavata religion prevailed in the northwestern part of India and was adopted even by the Greeks.
 
  In the Inscription No. 1 in the large cave at Nānāghāt,[^7] the names of Saṁkarṣaṇa and Vāsudeva, in a Dvandva compound, occur along with those of other deities in the opening invocation. This Inscription appears from the form of the characters to belong to the first century before the Christian era.
-
-[^7]: " Ibid. No. 1112."
 
  In the passage in the Mahabhāṣya in which Patañjali, to account for the appearance of the name Vāsudeva in Pāṇini IV. 3. 98, says that this is not the name of a Kṣatriya, but that of the Worshipful One, the question to be considered is whether Patañjali means this Vāsudeva to be quite unconnected with the Vāsudeva of the Vṛṣṇi race. From the occurrence of the names Vāsudeva and Baladeva close to each other in the passage from the Niddessa referred to above, and that of Saṁkarṣaṇa and Vāsudeva as worshipful or divine persons in a Dvandva compound in two of three above Inscriptions, it appears that the Vasudeva referred to by Patañjali as the Worshipful One must be the Vāsudeva of the race. But to account for the appearance of the name in the Sūtra, though the required form can he made up in accordance with the next Sūtra (Panini, IV. 3. 99), Patañjali says that Pāṇini looks at Vāsudeva in his capacity as a divine person and not as a Kṣatriya One must take it in this sense, since the Ghosundi Inscription noticed above, in which Saṁkarṣaṇa and Vāsudeva are associated as worshipful persons, must be older than Patañjali himself. Besides, Patañjali begins the discussion of the Sutra by first taking Vāsudeva as the name of a Kṣatriya. and raising an objection against it. This objection is answered in one way, Vāsudeva being still regarded as a Kṣatriya, and it is only optionally that he gives another explanation, that that name is not the name of a Kṣatriya, but of a divine person. This optional explanation given in the last resort must, therefore, be understood in the sense given above. And from all the accounts of the Bhagavata school contained in the whole literature it is clear that the worshipful Vāsudeva belonged to the Vṛṣṇii race.
 
@@ -9529,8 +9823,6 @@ ambassador at the court of Candragupta, the Maurya. Candragupta reigned in the l
 
  In the Bhagavadgītā (VII. 19 ) it is stated that "He who possesses knowledge gives himself up to me, believing Vāsudeva to be all" Even in the Bhāgavata Mantra of twelve syllables which is usually repeated at the present day and which is mentioned by Hemādri, it is to Vāsudeva that obeisance is made.[^8] p. 225. The Mantra is Orh nameBhagavate Visudevāya.") In Bhiṣmap.chap. 65 Brahmadeva, addressing the Supreme Spirit (Purusa Parameśvara), entreats him to become the increaser of the Yadu race, and then, referring apparently to a foregone age, he says: O Vāsudeva! this great secret I have communicated to thee through thy favour as it really is. Having created thyself as the God Saṁkarṣaṇa, thoudidst procreate thy son Pradyumna. He created Aniruddha who is Viṣṇu himself, and he created me (Brahmadeva), who am made up of Vāsudeva and created by thee. Dividing thyself in this way be born as a human being again." In the beginning of chapter 66 of the same Parvan, Prajāpati speaks of himself as having asked the supreme lord of all to dwell in the world of men as Vāsudeva (to become incarnate). This Supreme Spirit should, it is said,
 
-[^8]: "Vrntakhanda (Bibl. Ind.
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Vrntakhaṇḍa (Bibl. Ind.) p. 225. The Mantra is Orh name Bhagavate Vāsudevāya.
@@ -9568,8 +9860,6 @@ thought of identifying one god with others by regarding the latter either as for
 
  What appears to be the fact is this: The Bhagavadgītāwas composed before the doctrines of the Bhāgavata school were reduced to a system, and it was then that the three of the Prakṛtis of the Supreme were personified into Saṁkarṣaṇa, Pradyumna and Aniruddha, who were members of the family of Vāsudeva. In the prevalent worship, however, Saṁkarṣaṇa alone. is found associated with Vāsudevain early times, as is seen from the Inscriptions, and the passage from the Niddesa noticed in the beginning.[^9] Patañjali also notices, under Pāṇini II. 2. 34, a verse in which it is stated that certain musical instruments are sounded in a gathering in the temple of Dhanapati, Rāma and Keśava.
 
-[^9]: "Ante, p. 3. [N. B. U.] [R. G. Bhandarkar s Works, Vol. IV.]"
-
 Here Rāma and Keśava are Balarāma and Vāsudeva-Kṛṣṇa, and it is clear that there were festive gatherings at their temples in Patañjali's time. If the passage in Patañjali under Pāṇini VI. 3. 6, "Janārdana with himself as the fourth", i. e., with three companions, may be taken to allude to the three Vyūhas, then it must be understood that the four Vyūhas, Vāsudeva, Saṁkarṣaṇa, Pradyumna and Aniruddha, were known in Patañjali's time. Still it is doubtful, and it may be taken for granted that the two Vyūhas, Vāsudeva and Saṁkarṣaṇa, only were known up to the time of the latest Inscription which is to be referred to about the beginning of the first century before the Christian era, so that the system of four Vyūhas was not fully developed up to that time.
 
  If this reasoning is correct, it will be seen that the date of the Bhagavadgītāwhich contains no mention of the Vyūhas, or personified forms, is much earlier than those of the Inscriptions, the Niddesa and Patañjali, i. e., it was composed not latter than the beginning of the fourth century before the Christian era. How much earlier it is difficult to say. At the time when the Gītāwas conceived and composed, the identification of Vāsudeva with Nārāyaṇa had not taken place, nor had his being an incarnation of Viṣṇu come to be acknowledged, as appears from the work itself. When his Virāj or universe-form was shown to Arjuna, as represented in the eleventh chapter, he is twice addressed by the latter as Viṣṇu on account of his dazzling brilliance, which rendered everything hot, and filled the whole universe. Here Viṣṇu is alluded to as the chief of the Ādityas and not as the supreme being, and Vāsudeva was Viṣṇu in this sense, as mentioned in chapter 10, because the best thing of a group or class is represented to be his Vibhūti or special manifestation.
@@ -9586,8 +9876,6 @@ V. Substance of the Bhagavadgītā.
 
  The condition of mind in the Yoga mode is a determined will. Those who according to the precepts of the Veda perform rites for fulfillment of various desires, cannot have a determined steadfast will. For attaining such a will one should think only of the deed to be done and not of the fruits to be derived from it. With a concentrated mind and without any attachment to other objects one should devote oneself to the deed alone. By such devotion to acts with a determined will, man finally attains inflexibility of will becomes Sthitaprajn̄a), and all his desires being uprooted, he attains complete serenity of soul or the Brāhmīcondition. When he is in this condition at the time of death, he obtains comes to the same doctrine as that quiescence in Brahman. This stated in the Kaṭha and Bṛhadāraṇyaka-Upaniṣads, that when all desires in the heart are uprooted, the mortal becomes immortal and attains to Brahman.[^10] The discipline, however, prescribed for
 
-[^10]: "Yada sarve pramucyante kama yesya brdi sritah, KU,VI. 14, and also BU. IV. 4. 7."
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Yadāsarve pramucyante kāmāỵesỵa hṛdi sritāḥ, KU, VI. 14, and also BU. IV. 4. 7.
@@ -9599,8 +9887,6 @@ the attainment of this end is not simply moral, but religious also, since it is 
  Then a question is asked what it is that prompts man to sin. The reply is that it is desire and anger which are all-powerful and envelop a man's spiritual existence. Desire acts through the senses, but intelligence is superior to the senses, and superior to this latter is the will (Buddhi) and the soul is superior to Buddhi. Knowing oneself to be higher than Buddhi, one should curb oneself by efforts and kill desire which acts through the series, viz., senses, intellect, will. Here the superiority of one faculty over another is an idea borrowed from the Kaṭha-Upaniṣad. In connection with the teaching that action should be done disinterestedly, Bhagavat makes the closest possible approach to the Sāṁkhya doctrine that the soul being deluded by egoism (Ahaṁkāra) regards himself as the agent of the actions done by the qualities of nature (Prakṛti), and that, misled by the qualities of nature, he forms an attachment to the qualities and actions..
 
  § 13. Chapter IV. The chapter begins with Bhagavat's mention of his communication of this system to Vivasvat in the first instance, as alluded to above.[^11] Incidentally the question of his ex
-
-[^11]: "Ante. p. 1.[ N. B. U.]"
 
 istence at the time of Vivasvat comes up, and he then explains hisbeing born again and again, and assuming incarnations for the destruction of the wicked by means of his Prakṛti. They who know the incarnations and the celestial deeds of Bhagavat, are released from the body and are not born again. By means of knowledge, men, being purified and their passions destroyed, and being devoted to him and resorting to him and resting on him, attained to the condition of Bhagavat. Bhagavat resorts to men in the manner in which they resort to him; men everywhere follow his path.
 
@@ -9629,8 +9915,6 @@ the three qualities and the conditions resulting from them proceed from him. Bha
  For the idea of all existing things being strung together in the Supreme, we may compare MU. II. 2.5, and BU. III. 8. 3-4; 6-7. Ordinary people are represented as resorting to other deities, led by several desires. The Bhagavat confirms their faith in their deities, and the fruits that they get from them are perishable. Here appears the same idea as that noticed in chap. IV and to be noticed in chap. IX, viz, that the worshippers of other gods are really Bhagavat's worshippers, and that there is a principle of unity in all religions.
 
  § 17. Chapter VIII.[^12] Arjuna begins by putting questions about the three subjects mentioned in the last verse of the last chapter, and about Brahman and Adhyātma. Bhagavat then explains these. About perceiving him at the time of death he says: "He who leaves his body while remembering me at the time of death, attains to the same condition as mine." Finally he states that he who departs this life, while meditating on the all-knowing, eternal ruler, who is smaller than the smallest thing, who is the protector of all, whose form is unthinkable, whose brilliance is like that of the sun, and who is beyond all darkness—with devotion, his whole soul gathered between the brows with the power of concentration, reaches that Supreme Being, who is higher than the highest. He then mentions the attainment of the Unchangeable, with the mind concentrated, and the reaching of the final goal after leaving the body by means of a Yoga process and by the utterance of the syllable 'Om' and the remembrance of Bhagavat all the while. Bhagavat is easily attainable by one who meditates on him with asingleness of mind and is devoted to him. Every being is subject to transmigration, but is free from it when he reaches Bhagavat.
-
-[^12]: "[R. G. Bhandarkar s Works, Vol. IV.]"
 
  During the night of Brahman all these things are resolved into the indiscrate (Avyakta), and, when the day dawns; they spring out again from it. There is another substance, different from the Avyakta and itself indiscrate (Avyakta), which is not destroyed when all others are destroyed. This substance which is indiscrete, is unchangeable and that is the highest resting place, which being attained to, there is no return. That is Bhagavat's highest abode. Thatsuprame soul, in whom all these beings are and who has spread out all this, is to he attained by single-minded devotion. Then he proceeds to mention the two paths. Those who die while the sun is in his northern course (Uttarāyaṇa) go to Brahman, and those who die while he is in his southern course (Dakṣināyana) go to the orb of the moon, from which the soul returns.
 
@@ -9752,8 +10036,6 @@ into existence. I am not inclined to dissolve Vāsudeva and Arjuna into solar my
 
  § 32. The word Nārāyaṇais similar to Nāḍāyaṇa, which last is formed by P. IV. 1. 99 and means the Gotra Nāḍāyaṇa. The termination is significative and means in this case the resting place or the place to which Nāḍa or a collection of Naḍas go. So Nārāyaṇameans the resting place or goal of Nāra or a collection of Nāras[^13]. In theNārāyaṇīya (XII. 341) Keśava or
 
-[^13]: "1 See Medhātithi s commentary on Manu 1.10."
-
 Hari says to Arjuna that he is known as the resting place or goal of men (Narāṇām). The word Nṛor Naṛa is also used to denote gods as manly persons, especially in the Vodas, so that Nārāyaṇa may be construed as the resting place or goal of gods. There is a tradition which connects Nārāyaṇa with the primeval waters. Manu (1.10), and also Hari in the above passage say that the waters were called Nārās because they were the sons of Nara, and, since they were the first resting place of Brahmāin the first case and of Hari in the second, the two were called Nārāyaṇas. The Purāṇas, such as the Vāyu and the Viṣṇu, agree with Manu. Again there is a tradition that Brahmadeva sprang from the lotus in the navel of Nārāyaṇa or Viṣṇu (M Bh. III, 12, 34 and XII 349. 18), In the Vāyu-Purāṇa Nārāyaṇa is represented as prior to Avyakta or matter in an undeveloped form, and from Avyakta sprang the mundane egg, and from the latter arose Brahmadeva.
 
  All these traditions in various forms seem to go back to RV. X. 82.5 and 6, which may be thus translated: "Prior to the sky, prior to this earth, prior to the living gods, what is that embryo. which the waters held first and in which all the gods existed? The waters held that same embryo in which all gods exist or find themselves; on the navel of the unborn stood something in which. all beings stood". In this we have first the waters mentioned; on those waters stood the embryo, which corresponds to the Brahmāof the later tradition, who created everything; and the unborn corresponds to Nārāyaṇa from whose navel he sprang. In this embryo all the gods, it is said, found themselves. This corresponds to the Naras, men or gods, whose goal or resting place was Nārāyaṇa, so that this confirms the identity between Brahmāand Nārāyaṇa mentioned by Manu and some of the Purāṇas. Nārāyaṇa therefore, who,by the other authorities cited above, is considered prior to Brahmadeva and to the Svayaṁbhūof Manu, is another. person and has a cosmic character and is not a historical or mythological individual. This idea of Nārāyaṇa was developed in the period of the later Brāhmaṇas and Āraṇyakas.
@@ -9763,8 +10045,6 @@ Hari says to Arjuna that he is known as the resting place or goal of men (Narā�
 jāpati tells him to sacrifice again, and the substance of the whole. is that Nārāyaṇaplaced himself in all the worlds, in all the gods, in all the Vedas and in all the vital airs, and they were placed in him. This shadows forth the rising of Nārāyaṇato the dignity of the Supreme Soul, who pervades all and in whom all things. exist and who in the beginning sent forth all the gods, being himself their receptacle or resting place as indicated in RV. X. 82. 6. In another place (XIIL 6. 1) Puruṣa Nārāyaṇais mentioned as having conceived the idea of a Pañcarātra Sattra (continued sacrifices for five days) as the means of obtaining superiority over all beings and becoming all beings. He performed the sacrifices and attained to that dignity. Here also Nārāyaṇa's becoming the Supreme Ruler and becoming all are spoken of, Nārāyaṇais represented as the author of the Puruṣasūkta (RV. X. 90). This appears to be as much a fanciful representation, as that of Viśvakarman and others as authors of other hymns As in these last cases, it has a connection with the deity to which the hymn refers, so that Nārāyaṇa is another name of the Puruṣa, and these two names are associated together, as we have seen, in the above citations from the Śatapatha-Brāhmana. In the Taittiriya-Āraṇyaka (X. 11) Nārāyaṇais described with all the attributes of the Supreme soul, which are usually found mentioned in the Upaniṣads.
 
  In the Mahābhārata and Purāṇas, he figures as the supreme god, especially in connection with the creation; mythologically he is represented as lying on the body of a huge serpent in the ocean. of milk, the original conception of his connection with the primeval waters being still kept to. Nārāyaṇathus became an object of worship. In the Ghosuṇḍi Inscription noticed before[^14], there is what appears to be a dedication of an enclosure to Nārāyaṇa(Nārāyaṇa-Vāṭikā),
-
-[^14]: "Ante,p.4  [N.B.U.]"
 
  §33. The heaven of this Nārāyaṇawas the Śvetadvīpa or white. island. In the Kathāsaritsāgara (54. 19, 21, 23) Naravāhanadatta is represented to have been carried to the white island by Devasiddhi and to Hari reposing on the body of the serpent Śeṣa and attended by Nārada and other devotees. In another place in the same work (115, 101-3) certain gods are spoken of as having gone to Śvetadvīpa and seen Hari in a house made of great gems,
 
@@ -9791,8 +10071,6 @@ are warriors at the same time was brought into connection with the two interlocu
 whole earth, and so the gods got the whole earth. Here a miraculous power has been attributed to Viṣṇu, though he is not necessarily the Supreme Spirit.
 
  In the Maitri-Upaniṣad (VI. 13) food is called the form of Bhagavad-Viṣṇu, which sustains the universe. In the Kaṭha-Upaniṣad (III. 9) the progress of the human soul is compared to a journey, and the end of the path which he traverses is called. the highest place of VViṣṇu (Paramam padam). This is the final goal and the abode of eternal bliss, and the use of the word in this sense lends support to the view that the elevation of Viṣṇu to the dignity of the Supreme Being was due to the fact that the expression was capable of being used to denote this sense. Some time after, Viṣṇu became even a household god. In the ceremony of the seven steps contained in the marriage ritual, the bridegroom has to say to the bride, when she puts forth a step :" May Viṣṇu lead you or be with you." This formula occurs in the Gṛhya-sūtras of Āpastamba, Hiraṇyakeśin and Pāraskara, but not in that of Āśvalāyana. In epic times Viṣṇu grew to be in every respect. the Supreme Spirit; and Vāsudeva is identified with Viṣṇu. In chapters 65 and 66 of the Bhīṣmaparvan noticed before[^15], the Supreme Spirit is addressed as Nārāyaṇa and Viṣṇu and is identified with Vāsudeva.
-
-[^15]: "Ante, pp. 13 and ff. [N. B. U.]"
 
  In the Anugītā portion of the Āśvamedhikaparvan (chap.53-55) Kṛṣṇa, while returning to Dvārakā, meets on the way a sage of the name of Uttaṅka of the Bhṛgu race. The sage asks Kṛṣṇa whether he had established peace between the contending kinsmen, Pāṇḍus and Kurus, and established affectionate relations between them. Kṛṣṇa replies that the Kurus had been destroyed and the Pāṇḍus were in possession of the supreme sovereignty. The sage got angry and said that he would pronounce a curse against Kṛṣṇa , but if he explained to him the philosophy of the soul (Adhyātma), he would desist. Kṛṣṇa then does explain this philosophy at the request of Uttaṅka and shows him his universal form (Virāt svarūpam). The Svarūpa is the same as, or similar to, that shown to Arjuns according to the Bhagavadgītā, but it is here called the Vaiṣṇava form (Rūpa), which name does not occur. in the other passage. Thus then between the period of the Bhāga
 
@@ -9825,15 +10103,9 @@ herd. It is the name of a race, whose original oooupation was the tending of cow
 
  The descendants of the old Ābhīras are called Āhirs at the present day, and we have now Āhirs following the occupation of carpenters, goldsmiths, cowherds and even priesthood. At one time they founded a kingdom in the nothern part of the Maratha country, and an Inscription of the ninth year of the Ābhīra king. Iśvarasena, the son of Ābhīra Śivadatta, is found at Nasik[^16]. From the form of the characters the Inscription probably belongs. to the end of the third century. The Purāṇas mention a dynasty of Ābhīras composed of ten [princes](http://3 "See Vāyu-Purāṇa, vol. II, chap. 37, page 453, Bibl. Ind,"). Another Inscription of an earlier date is found at Gundā[^17]in Kathiavad, in which the charities of Rudrabhūti, a general, who is called an Ābhīra, are mentioned. The Inscription belongs to the reign of a Kṣatrapa
 
-[^16]: "Lūders, List of Brāhmī Inscriptions, Nr. 1137."
-
-[^17]: "Lūders, List of Brāhmī Inscriptions, Nr. 963."
-
 king of the name of Rudrasiṁha, who held power in Śaka 102 corresponding to 180 A. D.
 
  If then about the end of the second century and in the third, the Ābhiras enjoyed high political position, they must have migrated into the country in the first century. They probably brought with them the worship of the boy-god and the story of his humble birth, his reputed father's knowledge that he was not his son, and the massacre of the innocents.The two last correspond to Nanda's knowing that he was not the father of Kṛṣṇa and Kaṁsa's killing all children. The stories of Kṛṣṇa's hoyhood, such as that of killing Dhenuka, a demon in the form of a wild ass, were brought by Ābhiras[^18], and others were developed after they came to India. It is possible that they brought with them the name Christ also, and this name probably led to the identification of the boy-god with Vāsudeva-Kṛṣṇa, The Goanese and the Bengalis often pronounce the name Kṛṣṇa as Kuṣṭo or Kriṣṭo, and so the Christ of the Ābhiras was recognised as the Sanskrit Kṛṣṇa.
-
-[^18]: "Journal of the Royal Asiatic Society for 1907, p. 981."
 
  The dalliance of Kṛṣṇa with cowherdesses, which introduced an element inconsistent with the advance of morality into the Vāsudeva religion, was also an after-growth, consequent upon the freer intercourse between the wandering Ābhīras and their more civilised Āryan neighbours. Morality cannot be expected. to be high or strict among races in the condition of the Ābhīras at the time and their gay neighbours took advantage of its looseness. Besides, the Ābhīrawomen must have been fair and handsome as those of the Āhir-Gavaliyas or cowherds of the present day are.
 
@@ -9867,8 +10139,6 @@ great Upaniṣad of Brahman, springs forth from it for the redemption of the wor
 
  §40. The book called Nāradapañcarātra, published by the Asiatic Society of Bengal, contains the Saṁhitācalled Jñānāmṛitasāra. The glories of the boy Kṛṣṇa are sung in this work. Nārada desiring to know Kṛṣṇa's greatness and the methods of his worship is recommended to go to Śaṁkara, or Śiva, and seek instruction from him. Nārada repairs to Kailāsa and enters the palace of Śaṁkara, which has seven gates. At these gates there are pictures and sculptures relating to the scenes of Kṛṣṇa's childhood and his various deeds in the cow-settlement, such as Vṛṇḍavana, Yamunā, Kṛṣṇa's sitting on the Kadamba tree with the garments of the cowherdesses and their return from bath in the Yamunā river in a naked condition, the destruction of the serpent Kāliya, the holding up of the Govardhana mountain on the palm of his hand, the journey to Mathurā and the lamentations of the. Gopīs and his foster-parents, etc. Sculptures representing some of these events were discovered on a pillar excavated at Mandor near Jodhpur about two years ago[^19]. The age of the pillar has been considered not earlier than the fourth century A. D. The idea of imagining such sculptures on the gates of Śiva's palace could have. occurred to a writer only when the practice of adorning gates and pillars with such sculptures had become general. The Jñānāmṛtasāra, therefore, could not have been earlier than fourthcentury and appears to me to be considerably later, as will be presently shown.
 
-[^19]: "Archeological Survey of India, Annual Report, 1905-1906. p. 135    8.[R.G. Bhandarkar s Works, Vol. IV]"
-
  Goloka or the world of cows is the heaven in which Kṛṣṇa dwells and which is reached by those who adore him, and several Mantras are given in this book, the reciters of which are rewarded. with a place in that heaven. The servitude of Hari through devotion is the highest Mukti or absolution according to this work. There are six modes of adoring Hari; viz., (1) remembrance of him, (2) utterance, ( of his name and glory ). ( 3 ) salutation, (4) resorting to his feet, (5) constant worship of him with devotion, and (6) surrender of the whole soul to him. The Bhāgavata-Purāṇa adds three more, viz., hearing (his praise ), servitude, and companionship (Ṡakhyam). These last two are preliminary to
 
 the surrendering of the whole soul. In this book Rādhā is mentioned as the highest of the women whom Kṛṣṇa loved, and she is represented to have been formed by the original lord becoming two, one of which was Rādhā (IL 3. 24ff.). The exaltation of this woman is thus one of the main objects of this Saṁhitā.
@@ -9880,8 +10150,6 @@ XI\. The Avatāras of Viṣṇu or Nārāyaṇa.
  § 41. An Avatāra or incarnation of a god differs from mereidentification of two gods in this, that in the former case the god that is considered an incarnation acts like a human being, or even a brute, at the same time that he has the miraculous powers of a god. The transition, however, from the idea of identification to that of incarnation is easy. The person in the flesh is identified with the god who is a mere spirit, so that the habit of thought which in Vedic times led to the identification of some of the Vedic deities with Agni, has been at work even in this conception of the Avatāras.
 
  The Avatāras of Nārāyaṇaor Viṣṇu are variously given by the various authorities. In the passage in the Nārāyaṇīyatranslated above[^20],' six only are given, viz, the boar, the manlion, the dwarf, Rāma of the Bhṛgu race,Rāma Dāśarathi and that assumed for the destruction of Kaṁsa (Vāsudeva-KṛṣṇaThis passage is followed after a short interval by another in which the incarnations are given as ten, the additions being Haṁsa (swan), Kūrma (turtoise), and Matsya (fish) in the beignning and Kalkin at the end. The one preceding Kalkin is called Sātvata, i. e.. Vāsudeva-Kṛṣṇa. This passage, following so closely on the
-
-[^20]: "Ante, p. 9 [N. B. U.]"
 
 first, appears to be interpolated when the number of Avatāras became fixed at ten.
 
@@ -9902,27 +10170,15 @@ and General Vaiṣṇavism.**
 
  There is a pillar at Bhitari in the Ghazipur District of the U. P., on which there is an Inscription which records the installation of an image of Śārṅgin and the grant of a village for its worship by Skandagupts, whose dates range between 454 and 464 A. D[^22]. Śārṅgin must have been Vāsudeva-Kṛṣṇa,Skanda- gupta himself being a Bhāgavata.
 
-[^21]: "Corp. Inser. Ind. Vol. III, p. 21."
-
-[^22]: "Ibid. p. 52.ff."
-
  A temple of Viṣṇu was erected in 456 A. D. by Cakrapālita, son of Parṇadatta, appointed viceroy of Surāṣṭra or Kathiavad by Skandagupta. The Inscription, which records this, opens with an invocation of Viṣṇu in the Vāmana or the dwarf incarnation[^23].
-
-[^23]: "Ibid. p. 56ff."
 
  In an Inscription at Eran in the Sagar district, C. P., belonging to the reign of Budhagupta and bearing the date 165 G. E., corresponding to 483 A. D., Mātrviṣṇu and his younger brother Dhanyaviṣṇuare represented to have erected & Dhvajastambha or flag-
 
 staff in honour of the god Janārdana. Mātṛviṣṇu is called a great devotee of Bhāgavat (Atyanta-Bhagavad-bhakta[^24]). The god Janārdana must therefore be Vāsudeva-Krṣṇa.
 
-[^24]: "Ibid. p. 88 ff."
-
  A copper-plate Inscription of A. D. 495, found near the village. of Khoh in Baghelkhand, records the grant of a village, by a chief named Jayanātha, to Bhagavat for repairs to the temple of that god and for the performance of ordinary ceremonies[^25].
 
-[^25]: "Ibid. p. 121 ff."
-
  An Inscription on an iron pillar near Kutub Minar at Delhi speaks of that pillar as a flag-staff to Viṣṇu erected by a great king named Candra, who enjoyed universal sovereignty and was a great devotee of Viṣṇu. The Inscription is not dated, but if the Candra referred to here was Candragupta II, it belongs to the latter part of the fourth century or the beginning of the fifth[^26].
-
-[^26]: "Ibid. p. 339 ff."
 
  In his Meghadūta (v. 15) Kalidāsa compares the cloud adorned with a piece of a rain-bow, with Viṣṇu in the shape of the cow-herd. adorned with a shining peacock feather. Here there is an identification of Gopāla-Krṣṇa with Viṣṇu; and, if the Vikramāditya who was the patron of Kalidāsa was Candragupta II of the Gupta Dynasty, this must be considered to be a record belonging to the early part of the fifth century.
 
@@ -9930,17 +10186,9 @@ staff in honour of the god Janārdana. Mātṛviṣṇu is called a great devote
 
  In Śaka 500, Maṅgalīśa, a prince belonging to the early Cālukya dynasty of the Deccan, got a cave scooped out, in which a temple to Viṣṇu was constructed, and an image of Viṣṇu was installed in it. The provision for the performance of Nārāyaṇabali (offerings to Nārāyaṇa) was made by assigning the revenues of a village for the purpose[^27]. In this cave-temple there are figures. of Viṣṇu and Nārāyaṇa lying on the body of a serpent, with Lakşmīrubbing his feet, and of the Boar and Narasiṁha incarna
 
-[^27]: "Ind. Ant. Vol. III. p. 305; Vol. VI. p. 363,"
-
 tions, and of Harihara in which the peculiar marks of Hari, or Viṣṇu, and of Hara, or Śiva, are combined[^28].
 
-[^28]: "Fergusson and Burgess, Cave Temples, p. 407."
-
  In mentioning the priests who are qualified to install and conseorate the images of certain gods, Varāhamihira says that this function in the case of Viṣṇu should be assigned to Bhāgavatas[^29]. Bhāgavatas were thus recognised in his time as the peculiar worshippers of Viṣṇu. Varāhamihira died in Śaka, i. e. 587 A.D.[^30]
-
-[^29]: "Br. S. 60. 19."
-
-[^30]: "Bhau Daji. Lit. Remains, p. 240."
 
  Amarasiṁha, the author of the well-known Kośa or thesaurus, was a Buddhist. After giving the words expressive of gods. generally, when he comes to the names of particular gods, he begins by giving those of Buddha and proceeds next to give the names Viṣṇu, Nārāyaṇa etc., of which we have thirty-nine. After finishing these he says that Vāsudeva was his father. This means that the thirty-nine names proviously given are the names of Vāsudeva. If we examine these, we shall find that hefore Amare's time Vāsudeva had already been identified with Viṣṇu and NārāyaṇaExcept the name Dāmodara, there is no other con- necting Vāsudeva with Gokula, and the etymology of Dāmodara which connects him with that cow-settlement is doubtful. While Kaṁsārāti, or the enemy of Kaṁsa, does occur, we have no such name as Pūtanāri, the enemy of Pūtanā, or any other derived. from the names of the many demons he slew while he was a boy. There are also no names of incarnations except the doubtful one, Balidhvaṁsin, which however, has been interpreted by one. commentator as the destroyer of ignorance by means of Bali or oblations. There are, of course, several names derived from those. of other demons, such as Madhuripu and Kaitabhajit, but these are not the enemies destroyed by Viṣṇu in his incarnations as they are usually mentioned. After giving the name of the father of Vāsudeva-Kṛṣṇa, Amara proceeds to mention those of Saṁkarsana, or Baladeva, and afterwards of Pradyumna and Aniruddha. Thereafter he mentions those of Lakṣmi, the wife of Nārāyaṇa or Viṣṇu, then those of the weapons of the god and his ornaments, and ends with the names of Garuḍa, the vehicle of Viṣṇu After
 
@@ -9954,8 +10202,6 @@ finishing these he proceeds to the other great god of the Hindus, Śambhu or Śi
 
  There is an Inscription in a cave at Pabhosa, about 32 miles south-west of Allahabad, which probably had a human figure. above and runs thus: "The maker of the images of Sri-Kṛṣṇa andthe milk-maids". The date is uncertain, but the Inscription is referred to the seventh or eighth century by Bühler[^31].
 
-[^31]: "Ep. Ind., Vol. II. p., 182."
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Vide my 'Peep into the Early History of India', JBBRAS, Vol. XX. p. 305;
@@ -9967,8 +10213,6 @@ finishing these he proceeds to the other great god of the Hindus, Śambhu or Śi
  At Osia, 32 miles north of Jodhpur, there is an old temple adjoining to the house of the local Jahagirdar. On two pilasters. projecting from the shrine into the Sabhāmaṇḍapa, are two images of deities both seated on Garuḍa. Both have four hands, but one. of them holds a conch-shell, the discus, the mace and the lotus, and the other bears a plough-share and a mace in his two hands, the other two being empty. The last has his head canopied by a five-hooded serpent. They are apparently Vāsudeva and Saṁkarṣaṇa. The temple cannot be later than the ninth century³.
 
  In a work called Dharmaparīkṣā, Amitagati, the author, who was a Digambara Jaina, says that there were according to the legendary lore current among the Jainas sixty-three eminent men: the twelve supreme sovereigns, the twenty-four Arhats (Jinas), and nine Rāmas, nine Keśavas, and the nine enemies of these mine. The last of the Viṣṇus ( Keśavas) was the son of Vāsudeva, and his Brāhmaṇa devotees call him the pure, the supreme being. They say: "He who meditates upon the god Viṣṇu, who is allpervading, a whole without parts, indestructible and unchangeable, who frees a man from old age and death, is free from misery".He is traditionally known to have ton forms or incarnations. These ten forms are the same as mentioned in the Varāha and AgniPurāṇas[^32] and which are now generally accepted. Thus Buddha had come to be recognised as an incarnation of Viṣṇu before
-
-[^32]: "See above [p. 59 N. B. U. ]"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -9992,12 +10236,6 @@ XIII\. The Cult of Rāma.
 
  Amitagati also speaks in 1014 A. D., as we have seen[^33], of Rāma's being regarded as the all-knowing, all-pervading protector of the world. The Vāyu-Purāṇa, which is the earliest work of that class, must have been written about the fifth century; so that the belief in Rāma's being an incarnation of Viṣṇu existed. in all probability in the early centuries of the Christian Era. But there is no mention of his name in such a work as that of Patañjali, nor is there any old Inscription in which it occurs. Amarasiṁha, too, has no place for him in his scheme of Brāhmaṇic gods. These circumstances, as well as those mentioned above, show that, though he was regarded as an Avatāra, there was no cult in his honour. Still, as depicted by Vālmīki, Rāma was a high-souled hero, and poets, including those nameless ones. who wrote Purāṇas in the names of old Ṛṣi, particularly Bhavabhūti, still more highly exalted his character. Rāma, therefore, won a place in the heart of the Indian people, and that must have. soon led to the foundation of the cult. But when this took place it is difficult to say. Madhva or Ānandatīrtha, the founder of a sect to be noticed hereafter, is represented to have brought the image of Digvijaya Rāma from Badarikāśrama and sent Naraharitīrtha to Jagannātha about the year 1264 A. D[^34]., to bring what was called the original idols of Rāma and Sits. The cult of Rāma, therefore, must have come into existence about the eleventh century. There exist manuals giving the modes of worship by means of Mantras or formulae and magic circles, like those proscribed in the Sātvata-Saṁhitāfor the worship of Vāsudeva. The ceremony in connection with his birth on the 9th of the bright half of Caitra is given in his Vratakhaṇḍa[^35].")by Hemādri, who flourished in the thirteenth century. That writer, as well as Vṛddhā-Hārita⁴, gives the modes of worshipping him as an incarnation along with others on certain occasions, so that it appears that his worship as an incarnation has been of a longer duration than that based on terms of equality with Vāsudeva-Kṛṣṇa.
 
-[^33]: "Ante, p. 64 [N. B. U. ]"
-
-[^34]: "See below."
-
-[^35]: "P.941 (Bibl. Ind.
-
  Twenty-four images, differing from each other in the order in which the four objects, viz., the conch-shell, disous, mace
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -10007,8 +10245,6 @@ XIII\. The Cult of Rāma.
 and lotus, are placed in the four hands of the principal god Vāsudeva or Viṣṇu, are mentioned by both those authors, and the twenty-four names¹ corresponding to the twenty-four images. Keśava, Nārāyaṇa, Govinda, etc., which include those of the four Vyūhas, are repeated by us at the beginning of every ceremony that we perform at the present day; that is, obeisance is made to the twenty-four forms of the god by using the word Namaḥ (salutations) after the dative of each of the names, and the sense is 'Saluations to Keśava, Nārāyaṇa, etc,'. The name of Rāma, however, is not included in them, while two other Avatāras, Narasiṁha and Vāmana, are mentioned. Every Śrāddha ceremony is wound up by the expression May Janārdana-Vāsudeva, who is a form of the ancestors, or the father, grandfather and great grandfather, be satisfied by this act". All this shows that Vāsudevism has penetrated into every one of our ordinary ceremonies, which include a repetition even of Vedic Mantras, while this is not at all the case. with the cult of Rāma, which is, therefore of a modern growth.
 
  There is a work, entitled the Adhyātma-Rāmāyaṇa, which Ekanātha[^36], a Mahārāṣṭra saint, who flourished in the sixteenth century, calls a modern treatise, composed of excerpts from older writings and having no pretence to be considered as emanating from the old Ṛṣis. The object of this work throughout has. been to set forth the divinity of Rāma. The first book of it com- prises what is called Rāmahṛdaya, which which was narrated to Hanūmat by Sītā, who says that as the original Prakṛti, she does every thing and did all the deeds mentioned in the Rāmayaṇa, while Rāma as the only existing soul is inactive, unchangeable and blessed, and is a mere witness of her deeds. After she has concluded, Rāma explains the threefold nature of the knowing spirit, viz., (1) the original, (2) that conditioned by Buddhi or
-
-[^36]: "See his Bhāvārtha-Rāmāyaṇa,Āraṇyakāṇḍa."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10023,8 +10259,6 @@ XIV\. Vāsudevism or Vaiṣṇavism in the South,
 two centuries before Ānandatīrtha to account for the reputation of the sacred character which it acquired in his time. It cannot be very much older, for its style often looks modern and in copying from the older Purāṇas it falls into mistakes, such as the one pointed out by me in another place¹. The Draviḍa devotees, therefore, noticed in the Bhāgavata, must have mostly flourished before the eleventh century.
 
  These devotees, who are known by the name of Ālvārs, are generally reckoned as twelve in number and are divided into three classes by S. Krishnaswami Aiyengar[^37] in accordance with the received chronology which he follows to determine. their sequence, though in itself it assigns a preposterously high antiquity to them. Their names, Tamil and Sanskrit, are as follows:—
-
-[^37]: "Ind. Ant. Vol, XXXV, p. 228."
 
 |         |                      |                            |
 |---------|----------------------|----------------------------|
@@ -10044,17 +10278,11 @@ two centuries before Ānandatīrtha to account for the reputation of the sacred 
 
  The date of the first, ordinarily given, is B. C. 4203 and of the last, B. C. 2706, and the others range between these two. Not only are these dates fanciful, but even the sequence shown above is unreliable. Krishnaswami places the last in the earlier half of the eighth century A. D., and all the preceding ones impliedly before that date. But there is distinct evidence to show that Kulaśekhara flourished much later. He was a king of Travancore, and one ofthe works composed by him styled Mukundamāla contains a verse from the Bhāgavata-Purāṇa (XI. 2. 36)[^38].
 
-[^38]: "Kāyena vācāmanasendriyair vā, etc."
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Early History of the Deccan (Second Edition), pp. 32-33. \[=Vol. III, p. 46 of this Edition-N. B. U.\]
 
  Again in an Inscription on a tablet, existing in a temple at Narēgal in the Dharwar district, translated by Dr. Fleet[^39], it is stated that Permāḍi of the Sinda dynasty vanquished Kulaśekharāṅka, besieged Chaṭṭa, pursued Jayakśin, and seized upon the royal power of Poysala and invested Dhorasamudra, the capital of the Poysala dynasty. In another Inscription[^40]this Permāḍi is represented to be a vassal of Jagadekamalla II, whose dates range between A. D. 1138 and 1150. While the former was in power as Mahāmaṇḍaleśvara in the seventh year of Jagadekamalla, i. e., in A. D. 1144, a certain grant was made by a body of sellers of betel. leaves and nuts. The Kulaśekharāṅka, mentioned as being. vanquished by this Permāḍi, must be a prince reigning on the western coast, as the others, Jayakeśin, the Kadamba prince of Goa, the Hoysala king, and so forth, were. Putting this statement and the quotation from the Bhāgavata-Purāṇa together, it appears. highly probable that the Ālvār Kulaśekhara lived in the first half of the twelfth century. The sequence, therefore, given above cannot be implicitly believed in.
-
-[^39]: "JBBRAS, Vol. XI. p. 244."
-
-[^40]: "Ibid. p. $51,"
 
  Still it may be admitted that the earliest Ālvārs flourished about the time of the revival of Brāhamaṇism and Hinduism in the North, which extended up to the Maratha country, as wel have shown from Inscriptions and antiquarian remains, and must have extended still farther to the South. The earliest Ālvārs may be placed before about the fifth or sixth century, but there is nothing to show that Vaiṣṇavism had not penetrated to the Tamil country earlier, i. e., about the first century. But an impetus, such as the rise of the Ālvārs indicates, could in all probability come. only from the energy of the revival. The hostile relations into which the Ālvārs and the Śaiva saints, Nāyanmārs, came with the Buddhists and Jainas, lend support to the view we have. advocated.
 
@@ -10073,8 +10301,6 @@ XV\. Rāmānuja.
  § 46. Rāmānuja was born in Śaka 938 corresponding to 1016. or 1017 A. D. In his youth he lived at Kāñcīpura or Conjeevaram and was a pupil of Yādavaprakāśa, who was an Advaita philosopher and therefore professed spiritual monism. Rāmānuja whose inclinations were towards Vaiṣṇavism, was dissatisfied with the teachings of his master, and the ultimate result was his seperation from him. He applied himself to the study of the Prabandhas of the Ālvārs and drank in their spirit. When he became a successor of Yāmunācārya, he lived at Śrīraṅgam, near Trichinopoly, and did his life's work there. He is said to have gone on a pilgrimage to the noted holy places of Upper India. In the latter. years of his age he was subjected to persecution by the Cols Fprince of his time, who wanted him to renounce Vaiṣṇavism for Śaivism, in consequence of which he took refuge in 1096 A. D. in the dominions of the Hoysala Yādava princes, who reigned in Mysore and whose capital was Dvarasamudra, the modern Halebid. There he converted Vitthala Deva, popularly called Biṭṭi Deva, Biṭṭi being, in all likelihood, the corruption of Viṭṭhala or Viṭṭhi. This took place in 1098 A. D. Viṭṭhala Deva was not the reigning prince, but administered some of the frontier provinces in the name of his brother Ballāla, who was on the
 
 throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after his conversion to Vaiṣṇavism. This is the ordinary account. But what appeurs true is that his name was originally Viṣṇu, which was corrupted into Biṭṭu or Biṭṭi in the Kanarese, the vernacular of the district, so that his original name Biṭṭi Deva is the same as Viṣṇu Deva which he is represented to have assumed after his conversion. He reigned from 1104 to 1141 A. D[^41]. Rāmānuja composed the following works: Vedāntasāra,—Vedārthasaṁgraha, Vedāntadīpa, and commentaries, or Bhāṣyas, on the Brahṁasūtras and the Bhagavadgītā³.
-
-[^41]: "Imperial Gazetteer, Vol. XVIII, p. 173,"
 
  § 47.The Vedāntic theory, or the theory based upon the Brahmasūtras and the Upaniṣads, which Rāmānuja set up to provide scope for the feeling of Bhakti, or love for God and the spirit of worship, was that there are three eternal principles, the individual or animal soul (Cit), the insensate world (Acit), and the Supreme Soul (Īśvara).
 
@@ -10110,15 +10336,9 @@ throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after
 
  V. Idols or images set up in houses, villages, towns, etc., made up of a material chosen by the worshipper, in which he dwells. with a body not made up of matter[^42].
 
-[^42]: "Yatīndramatadīpikā, 9."
-
  Other authorities leave out Vāsudeva from the Vyūhas and have the other three only. The Arthapañcaka has another form. of the Antaryāmin, in which form he dwells in everything and rules over all, is bodiless, all-pervading and store of all good attributes, and is called Viṣṇu, Nārāyaṇa, Vāsudeva³, etc.
 
  Self-consciousness, knowledge, union as a soul with a body, agency, are attributes common to the supreme and individual souls[^43]. The latter is self-illumined, joyous, eternal, atomic, imperceptible to the senses, unthinkable, devoid of parts, unchangeable, the substratum of knowledge, subject to God's control, depending on God's existence for his own existence and an attribute of God[^44]. This description of the individual soul differs agreat deal from that of SŚaṁkarācārya, who attributes no agency or substantiality to it; and the dependence on God in a variety of ways cannot, of course, be thought of under the doctrine of spiritual monism. The soul's being an atom is also denied by Śamkara's school and various others. The souls are many and are divided into:—
-
-[^43]: "yat.8"
-
-[^44]: "Tattvatraya"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10136,8 +10356,6 @@ throne¹. Viṭṭhala Deva or Biṭṭi Deva was called Viṣṇuvardhana after
 
  Some of those who desire final deliverance seek the consciousness of their pure soul only (Kevalin), and others eternal bliss. Of these latter, some are Bhaktas, who seek to attain God by resorting to Bhakti with all its details, having first of all studied the Vedas and acquainted themselves with the Vedānta and the philosophy of rites (Karman). The three upper orders alone can practise Bhakti, but not the Sūdras. Others are Prapannas, who are those who take refuge in God, feeling themselves poor and helpless. Of Prapannas, some seek the first three objects of life, while the rest, finding no happiness in these, renouncing everything worldly, desire eternal bliss ( Mokṣa) alone, and, seeking the advice of a preceptor and acquiring from him the impulse to action, fling themselves on the will of God, not having the power of going through the Bhakti process and being helpless. This Prapatti or surrender to God can be practised by all orders, including Śūdras[^45].
 
-[^45]: "Yat.8."
-
  What are necessary for the efficacy of the method of Bhakti, 
 
 are Karmayoga or the performance of actions, and Jñānayoga or the acquisition of knowledge Karmayoga is the performance of all acts, rites and ceremonies without regard for the fruit resulting from them. These are the worship of the deity, practice of austerity, pilgrimage to holy places, giving in charity and sacrifices.
@@ -10148,8 +10366,6 @@ are Karmayoga or the performance of actions, and Jñānayoga or the acquisition 
 
  Prapatti consists in the resolution to yield, the avoidance of opposition¹, a faith that God will protect, acceptance of him as saviour or praying him to save and sense of helplessness resulting in throwing one's whole soul on him². Prapatti thus comes to selfsurrender[^46].
 
-[^46]: "Yat. 7."
-
  The Arthspañcaka mentions a fifth way called Acāryābhimanāyoga, which is for one who is unable to follow any of the others, and consists in surrendering oneself to an Ācārya or preceptor and being guided by him in everything. The preceptor goesthrough all that is necessary to effect his pupil's deliverance as a mother takes medicine herself to cure an infant.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -10159,8 +10375,6 @@ are Karmayoga or the performance of actions, and Jñānayoga or the acquisition 
 2.There is another ronding hare which should be translated as"throwing one-self upon him and a feeling of helplessness." Thus there are six constituents of Prapatti. These are;(1)Ānukūlyasya saṁkalpaḥ (2) prātikūlyasya varjanam, (3) rakṣiṣyantīti viśvāso (4) gōptṛvavaraṇaṁ tathā, (5)ātmanikṣepa - (6) karpaṇneṣaḍvidhāśaraṇāgatiḥ.
 
  Sixteen modes of worship are to be practised by the devotees of Viṣṇu, as stated in a passage quoted from the Padma-Purāṇa by a recent writer of the Rāmānuja school. Eight of these are the same. as those included in the nine modes of Bhakti enumerated in al previous Section[^47]as mentioned in the Bhāgavata-Purāṇa, Sakhya, or friendship or companionship, boing omitted. The other eight are : (1) imprinting the marks of the conch-shell and the discus. and other weapons of Hari on the body; (2) the making of a vertical mark on the forehead; (3) repeating of Mantras on the occasion; (4) drinking the water used in washing the feet of Hari; (5) the eating of the offerings of cooked food made to him; (6) doing service to his devotees: (7) the observance of fast on the 11th of the bright and dark halves of each lunar month; (8) laying Tulasi leaves on the idol of Hari.
-
-[^47]: "Ante, p. 57. [N. B. U.]"
 
  A text from the Hārītasmṛti is also quoted giving nine modes of worship (Bhakti), three of which are common to it with the Bhāgavata-Purāṇa. The other six are the same as the eight in the above, the first two being combined and the third being omitted. The vertical mark on the forehead mentioned above consists of two lines made with white earth and a connecting cross line at the bottom, with, in the middle, a yellow line made with turmeric powder or a red line composed of the same material reddened by mixing it with lime.
 
@@ -10173,8 +10387,6 @@ are Karmayoga or the performance of actions, and Jñānayoga or the acquisition 
  In keeping with this distinction is the idea of Prapatti or self-surrender held by the two Sects. The first maintains that Prapatti is one of the ways resorted to by the devotee and begins with him. The southern School holds that it is not one of the ways, but it is. a frame of mind which characterises all those who seek absolution, and reject all other ways in favour of this. Those who resort to other ways have not arrived at the right mood which leads to God. When a soul is in this frame of mind, God himself takes. entire possession of him, while by the other ways, man, as it were, makes approaches towards him. The Vaḍakalai lays down that Prapatti is for those who cannot follow other ways, such as Karmayoga, Jñānayoga and Bhaktiyoga, while the Tenkalai holds that it is necessary for all, whether able or not, to follow the other ways. The first School says that one should give himself up to God when one finds other ways, which have been resorted to, to be fruitless. The second holds that self-abandonment to God. should precede the trial of other ways Self-assertiveness is the characteristic of the first, but it is forbidden by the second and self- abandonment is enjoined. The northerners say that the six ways of Prapatti or self-surrender given above are preliminaries to the Prapatti which results from them. The southerners say that Prapatti must take place first and then the six follow as results.
 
  The nothern School teaches that a person belonging to an inferior caste should be treated well only so far as conversation by words is concerned. The southerners say that they should be. admitted to an equal treatment in all respects and no distinction be made. The syllable Om should be omitted from the eight- syllabled Mantra, according to the Vaḍakalai, when taught to others than Brāhmaṇas; the Tenkalai does not make this distinction and provides for the teaching of the whole Mantra in the same form to all[^48].
-
-[^48]: "This Mantra is "
 
  § 49. It will be seen from the short summery here given that Rāmānuja derives his metaphysical doctrines from texts in the Upaniṣads and from the Brahmasūtras, while his theory of the external world is that adopted by the Purāṇas and based on the twenty-four elements of the Sāṁkhya system. His Vaiṣṇavism is the Vāsudevism of the old Pāñcarātra system combined with the Nārāyaṇa and Viṣṇu elements. The last name does not occur. often in the literature of his school. The most prominent name is NNārāyaṇa, though Vāsudeva takes his proper place when the Supreme Soul and the Vyūhas are spoken of. The name of Gopālakṛṣṇa is conspicuous by its absence, and Ramānuja's system is free from that repulsive form which Vaiṣṇavism assumes when Rādhāand other cowherdesses are introduced. Rāma too does not appear to be a favourite deity. Rāmānuja's doctrines as to the way of reaching the Supreme Soul are the same as, or amplified forms of, those in the Bhagavadgītā. But in this system Bhakti is reduced to the form of a continuous meditation on the Supreme Soul. It thus corresponds to the Upāsanãs, or meditations, described by Bādarāyaṇa, and does not mean a boundless love for God, as the word is commonly understood, though the meditation that is enjoined implies tacitly a feeling of love.
 
@@ -10208,19 +10420,11 @@ town of Rajatapīṭha a family known by the name of Madhyageha.Mādhva's father
 
  The date of his death given in the list preserved in several of the Maṭhas, or establishments of the sect, is Śaka 1119, and as he lived for seventy-nine years, the death of his birth has been given as Śaka 1040. But these statements are open to serious doubts. There is an Inscription in the Kūrmeśvara temple at Śrīkūrmam in the Chicacole Taluka of the Ganjam District, in which Naraharitīrṭha is represented to have constructed a temple and placed in it an idol of Yogānandanarasiṁha in the year Śaka 1203[^49].The first person therein mentioned is Puruṣottamatīrṭha, who is the same as Acyutaprekṣa[^50], then his pupil Ānandatīrṭha, and the last is Narabaritīrṭha, the pupil of Ānandatīrtha. This Narabaritīrṭha is considered by some, to have been the ruler of Orissa. But this arises from a confusion between him and a king bearing the same name, in the slightly modified form of Narasiṁha, who was the actual ruler of the country from about Śaka 1191 to
 
-[^49]: "Ep. Ind., Vol. VI, pp. 260 ff."
-
-[^50]: "Mādhvavijaya, VI, 33."
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Kallianpur in the Udipi Taluka of the district of South Kanara is stated to be the birth-place of Madhva. It was probably the same as the Rajatapīṭhaof the Madhvavijnya. (Imp. Gas, Vol. XIV, page 314.)
 
 1225\. He is mentioned in an Inscription at Śrīkūrmam of Naraharitīrtha himself, hearing the date Śaka 1215, which is represented as the eighteenth year of the king's reign[^51]. He was Narasiṁha II, and was the prince panegyrised in a work on rhetoric, the Ekāvali². Naraharitīrtha's other dates gathered from other Inscriptions range between Śaka 1186 and 1212[^52]. All these epigraphical records confirm the truth of the tradition that Naraharitīrtha was sent by Ānandatīrtha to Orissa. He appears to have. hold a very high position there.
-
-[^51]: "Ep. Ind., Vol. VI, page 262, note."
-
-[^52]: "Ep. Ind., Vol. VI, p. 266."
 
  Now if Naraharitīrtha's active period extended from Śaka 1186 to 1215, his master could not have died in Śaka 1119, i. e., fully 67 years before. It seems, therefore, reasonable to take the date. given in Madhva's Mahābhāratatātparyanirṇaya, which is 4300 of the Kali age, to be the correct date of his birth. It corresponds to Śaka 1121, which, bearing in mind the fact that some use the current year of an era and some the past, we must regard as equivalent to Śaka 1119, the date given in the lists for Ānandatīrtha's death. But instead of taking it as the date of his death, we shall have to regard it as the date of his birth. He lived for 79 years according to the current account, so that his death must be placed in Śaka 1198⁴. The two dates may, therefore, be taken as settled.
 
@@ -10237,8 +10441,6 @@ town of Rajatapīṭha a family known by the name of Madhyageha.Mādhva's father
 with some modifications of their own¹. God is a substance. The supreme soul possesses innumerable or an infinite number of qualities. His functions are eight, viz., (1) creation, (2) protection, (3) dissolution, (4) controlling all things, (5) giving knowledge, (6) manifestation of himself, (7) tying beings down to the world, (8) redemption. He is omniscient, expressible by all words, and entirely different from the individual souls and the inanimate world. He possesses the holy form made up of knowledge, joy, etc., independent of every thing, and one only, assuming different forms. All his forms are his full manifestations, and he is identically the same with his incarnations in qualities, parts, and actions. Lakṣmīis distinct from the Supreme Soul, but entirely dependent on him. She is eternal and blessed (Makta) like the Supreme Soul and is his consort. She has various forms, but no material body, and is thus like the Supreme Soul, and like him ist expressible by all words. She possesses the same extension in space. and time as the Supreme Soul, i. e., is concomitant with him.
 
  Jīvas or individual souls go through the usual succession of existences and are characterised by ignorance or other defects. They are innumerable individually, or as members of groups, such as Ṙjus[^53] who are fit for attaining Brahmahood, and others who are fit for the attainment of the dignity of Rudra, Garuḍa, Asuras, or demons, etc. They are of three kinds: (1) fit for attaining final bliss, (2) always going through the circle of existences, and (3) fit for the conditon of darkness. The gods, Ṛṣis, and the manes, and the best of men, belong to the first class, ordinary men belong to the second class, and demons, ghosts, and the vilest of men, etc., to the the third class. All these individual souls are distinct from each other and from the Supreme Soul.
-
-[^53]: "Ṙjus are a class of gods."
 
  Creation begins when the Supreme Soul disturbs the equilibrium of the Prakṛti, which then develops into all the other principles of the Samkhya system, as modified by the Purāṇas, until the mundane egg is produced. Then placing the sentient and non-
 
@@ -10290,8 +10492,6 @@ saurabha, which is a short commentary on the Brahmasūtras, and also a small wor
 
  § 52. Nimbārka's Vedāntic theory is monistic as well as pluralistic. The inanimate world, the individual soul and God are distinct from one another as well as identical. Identical they are in the sense that the first two have no independent existence, but are dependent on God for their existence and action. The theory of the Brahmasūtras that Brahman is the material cause of the universe, is thus understood: To be the material cause of an effect is (1) to possess the capacity of assuming the form of that effect, and (2) to be fitted to do so. Brahman possesses various capacities which are of the nature of the animate and inanimate worlds. These in a subtle form constitute its natural condition. This satisfies the first of the two requirements. The capacities again contain in them the rudiment of the effect, i. e., the world, in a subtle form. This meets the second requirement. By realising these capacities. and bringing the subtle rudiment into a gross form, Brahman becomes the material cause of the world. Rāmānuja's theory of Brahman forming with the animate and inanimate world a composite personality and of its being the material cause in so far as the bodily portion of the composite personality becomes developed, is rejected by the school[^54]. For a further knowledge of the system, I will here give a translation of the Daśaśloki.
 
-[^54]: "See Keśava s commentary, Br, S. I. 4. 23."
-
  I. Jīva, or the individual soul, is knowledge, dependent on Hari, and is in a condition to be associated with, or dissociated from, a body; is an atom, different in different bodies, and is a knower and numberless.
 
  It is called knowledge here to show that it is able to know
@@ -10338,10 +10538,6 @@ no superior lord. This Bhakti is of two kinds: the highest is one, and the other
 
 Bhakti comprehends all the Yogas of Rāmānuja's system. Rāmānuja, as we have already remarked[^55], changes the original sense of Bhakti and renders it equivalent to the Upāsanā, or the meditation prescribed in the Upanṣiads. But Nimbārka keeps to the original sense. His doctrines make a nearor approach to the Tenkalai, or Southern Learning, of the Rāmānujiyas. But the great difference between the two teachers is, that, while Rāmānuja confines himself to Nārāyaṇa and his consorts Lakṣmi, Bhū and Līlā, Nimbārka gives almost an exclusive prominence to Krṣṇa and his mistress, Rādhā, attended on by thousands of her female companions. Thus the fourth element of Vaiṣṇavism which we have mentioned[^56] rises to the surface in Vaiṣṇavism about this. time, and retains its place in Northern India, including Bengal, except in the case of those sects whose favourite deity is Rāmaand not Krṣṇa; and to these for the present we will now turn our attention, coming back again to Krṣṇaism later on.
 
-[^55]: "[Ante, p. 80. N. BU.]"
-
-[^56]: "[Ante, p. 49. N. B. U. ]"
-
  Nimbārka's system is known by the name of Sanakasaṁpradāya, or the tradition originating with Sanaka. Though Nimbārka was a Southerner, he lived at Vṛndāvana near Mathurā, which accounts for the preference given by him to the RadhaKrṣṇaform of Vaiṣṇavism. His followers are scattered over the whole of Northern India, and exist in large numbers near Mathurāand in Bengal. They wear two perpendicular lines of Gopīcandana with a black spot in the middle on the forehead, and use a necklace and rosary of the wood of the Tulasīplant. They are divided into two classes, the ascetics and householders. This distinction appears to have originated at the time of Harivyāsadeva, after whom, as I have observed in a note, the successors of Nimbārka were divided into two branches. The reason for the division was probably this new distinction.
 
 XVIII\. Rāmānanda.
@@ -10380,9 +10576,9 @@ him. But Kabīr miraculously escaped death and was eventually reconciled to Sika
 
  As to how much of this account is historical and how much legendary, it is difficult to say. But that he was a Mahomedan weaver at the beginning may be accepted as a fact. And that Shaikh Taqqi, a Mahomedan Pīr, who is mentioned in one of the Ramainīs, as stated above, was his rival and that Kabīr lived about the time of Sikandar Lodi may also be regarded as historical. As to whether Kabīr was a disciple of Rāmānanda, there is some question, as will be presently mentioned. Mr. Westcott considers it not impossible that he should have been both a Mahomedan and a Sūfi¹, but all his writings show a complete familiarity with the names occurring in Hindu religious. literature and Hindu manners and customs, so that it appears to me that there is little or nothing in Kabīr's writings calculated to show that his teachings had a Mahomedan basis. The basis appears to be purely Hindu, though Kabīr was a bold and uncompromising reformer and hurled anathemas at the Pandits, the Brāhmaṇas proud of their caste, and the teachers of the existing sects of the Hindus, and thus appears to have come under the influence of Mahomedanism.
 
-The dates given by various writers for the birth and death of Kabīr are conflicting. Mr. Westcott makes him live for 78 years, from 1440 to 1518 A. D.[^57], and according to Mr. Macauliffe he
+ 
 
-[^57]: "Ibid, Chronological Table, p. VII."
+The dates given by various writers for the birth and death of Kabīr are conflicting. Mr. Westcott makes him live for 78 years, from 1440 to 1518 A. D.[^57], and according to Mr. Macauliffe he
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10391,10 +10587,6 @@ The dates given by various writers for the birth and death of Kabīr are conflic
 13 \[ R. G. Bhandarkar's Works, Vol. IV. \]
 
 was born in Saṁvat 1455, corresponding to A. D. 1398[^58], and ha died in A. D. 1518[^59], having lived for 119 years, five months and twenty-seven days. In a footnote he quotes from an original work the date Śaka 1370, corresponding to 1448 A. D., as the date of his death. Sikandar Lodi was on the throne of Delhi from 1488 to 1517 A. D. The last of the three dates does not harmonise with this, and so it must be given up. Rāmānanda, we have seen, is spoken of as having been born in 1298 A. D. and died in 1411 A. D. If Mr. Westcott's date for Kabīr's birth is true, Kabīr cannot have been a disciple of Rāmānanda. If that of Mr. Macauliffe is accepted, it is just possible that he should have so become, for at the time of Rāmānanda's death, Kabīr must have been thirteen years of age, and he is represented in one of the legends to have been but a boy when he was accepted as a disciple by the old sage. The date 1518 A. D. given by both the writers for his death may be accepted as correct. But if that of his birth given by Mr. Macauliffe is also accepted, we shall have to suppose that Kabīr lived for 119 years; Rāmānanda also according to the dates given in the last section lived for 113 years. Whether both of them lived. such long lives might well be questioned. But, until we have more evidence, the dates for Rāmānanda already noticed, and for Kabīr as given by Mr. Macauliffe may be provisionally accepted, and thus Kabīr might be considered to have really been a disciple of Rāmānanda, though of course, being a boy of thirteen, he could not have taken part in his master's disputations with Pandits. In Kabīr's works, however, so far as I have seen them, Rāmānanda's namedoes not occur, though the name Rāmaas that of the Supreme Being and also the relation of the individual soul with Rāma, as well as his refutation of the doctrine of God's being Videha or Nirguṇa, i. e., without attributes, must have been borrowed from Rāmānanda's doctrines, which again are based on Rāmānuja's system.  
-
-[^58]: "The Sikh Religion, &c., Vol. VI. p. 122."
-
-[^59]: "Ibid. pp. 139-40."
 
  § 58. We now give a translation of a few passages illustra tive of the teachings of Kabīr³.
 
@@ -10482,8 +10674,6 @@ inspires him with the corresponding thoughts (calculated to enable him to achiev
 
  Senāthe barber, a follower of Rāmānanda, is also reported to have founded a sect. He too is known in the Maratha country[^60].
 
-[^60]: "See Wilson s Hindu Religions."
-
 XXI\. Tulasīdās.
 
  § 60. Another person who contributed to the propagation of the cult of Rāmaover Northern Indis, was the famous Tulasīdās, whom we will now briefly notice. Tulasīdās belonged to the Saravaryāor Sarayūparīṇa caste of Brāhmaṇas and was born in Saṁvat 1589, corresponding to 1532 A. D., under an inauspicious constellation. He was abandoned by his parents and was picked. up by a Sādhu, or a pious man, in whose company he visited many places in India. His father's name was Ātmārāma Śukla Dūbe, his mother's Hulasī, and his own Rāma Bōta. His father-in-law was a man of the name of Dīnabandhu Pāṭhaka, and hist wife was called RatnāvalīHis son's name was Tāraka.
@@ -10507,8 +10697,6 @@ Chapter I.
 Chapter IV.[^61]
 
  82 (89 B. I). The excellent retentive faculty is called Girāor Sarasvatī, and the immutable Dharma is a Vaṭa tree. Dharma consists of a triad of confluent rivers destroying sin. Oh Tulasī, conceive no dislike for these and accept these.
-
-[^61]: "The editions consulted are those published by Navalkisora at Lakhnau in 1886 and in the Bibliotheco Indica in 1897."
 
  The triad is given by the commentator as action, knowledge, and Bhakti, or devotion.
 
@@ -10542,13 +10730,9 @@ XXII\. Vallabha.
 
 1535, corresponding to 1479 A.D.[^62] That son was known as Vallabha.
 
-[^62]: "Yajñeśvara,Āryavidyāsudhākara."
-
  Vallabha lived for some time in Vṛndāvana and for some time. at Mathurā. About that time it is alleged that Gopāla-Krṣṇa manifested himself on the Govardhana Hill by the name of Devadamana, called also Śrī-Nāthajī. The God told Vallabha in at dream to come and see him, informing him that his companions in the cow-settlement, when he became incarnate as Krṣṇa, were born again in the present age, and commissioned him to make. them his attendants, that he might sport with them as in the former age. Accordingly, Vallabha went and saw Devadamana or Śrī-Nāthajī. Śrī-Nāthajī commanded him to erect a shrine for himself and to promulgate the method of worshipping him, without which a man would not be admissible to the Puṣṭimārga, or the path of divine grace, which Vallabha had founded. The meaning of this seems to be that Vallabha connected his system with a special manifestation of Krṣṇa known by the name of Śrī-Nāthajī².
 
  Vallabha's Vedāntic theory is the same as that of an earlier. author of the name of Viṣṇusvāmin. This Viṣṇusvāmin is said. to have been the son of the councillor of a Draviḍa chief dependent upon the Emperor of Delhi[^63]. Nābhājīin his Bhaktamālāmakes Jñānadeva, Nāmdeva, Trilocana, and lastly Vallabha his successors⁴. The first was Jñānadeva, who is represented as a follower of his system (Saṁpradāya). He was one of three sons born to a man, who became a householder after he had assumed the order of an ascetic. He was, therefore, excommunicated and was not allowed to learn the Vedas. But he himself by his miraculous. power made a male buffalo repeat the Vedas. This story is the same as that related of the Jñānadeva of Mahārāṣṭra, the author of a Vernacular commentary on the Bhagavadgita. But the Marathas do not know of Viṣṇusvāmin as his Guru, or teacher,or of Jñānadevabeing his successor or follower. If, however, the tradition reported by Nābhājīis correct, Viṣṇusvāmin must have lived about the middle of the thirteenth century. The date of the commentary above alluded to is śaka 1212, corresponding to 1290 A. D.
-
-[^63]: "Yajñeśvara,Āryavidyāsudhākara, p. 228."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -10672,8 +10856,6 @@ XXIV\. Debasement of Vaiṣṇavism.
 
  This Rādhā is not mentioned by name in the Harivaṁśa, Viṣṇu-Purāṇa and the Bhāgavata. In the last, however, among the cowherdesses engaged in Kṛṣṇa's amorous sports in Vṛndāvana on an autumnal moonlight night, there was one with whom the youthful god carred on his dalliance further, after he had become invisible to the rest. This woman became proud of Kṛṣṇa's special attachment for her, whereupon the god disappeared from her also. Here was contained a suggestion which probably led to the creation of Rādhāin later times. In the apocryphal Nāradapañcaāátra-Saṁhitā, as mentioned before[^64], the one single lord is represented to have become two, one a woman and the other a man, who was he himself. He then bad amorous intercourse with her. The woman was Rādhā. In the Brahmavaivarta-Purāṇa she has been made to spring from the primordial body of Kṛṣṇa forming its left. side, and is eternally associated with him in his amorous sports in this world as well as the world of cows (Goloka). The name of Rukmiṇi occurs in the ordinary form of Kṛṣṇaism, but in the systems named above it is entirely absent. The introduction of Rādhā's name, and her elevation to a higher position even than Kṛṣṇa's, operated as a degrading element in Vaiṣṇavism, not only because she was a woman, but also because she was originally a mistress of the cowhard god, and her amorous dealing were of an overt character.
 
-[^64]: "[Ante, p. 58 N. B. U.]"
-
  In the Rāma cultus, Sītāis a dutiful and loving wife, and is
 
 benignant towards the devotees of her husband. She holds a postition entirely subordinate to Rāma, while Rādhāis often preferredto Kṛṣṇa. There is no amorous suggestion in her story as in that of Rādhā, and consequently the moral influence of Rāmaism is more wholesome. Kabīr does not, so far as I know, mention the name of Sītāat all. He was a strict monotheist, and his Rāma was the supreme lord (Sāheb) only. Those other teachers who followed him maintain the same attitude, so that the Rāma cultus represents a saner and purer form of Hindu religious thought than Rādhākṛṣnaism.
@@ -10682,15 +10864,9 @@ XXV\. Nāmadev and Tukārām.
 
  § 71. The popular Vaiṣṇavism of the Maratha country centres itself round the shrine of Viṭhobāat Paṇḍharpur, which is a city situated on the banks of the Bhīmāor Bhīmarathī. The full name of the god is Viṭṭhal, which is not a Sanskrit name, but the etymology is clear enough. It is stated that the corruption of the Sanskrit name Viṣṇu in the Canarese language is Viṭṭhu, and this looks probable, since Kṛṣṇa is corrupted into Kuṣṭa in the Goanese dialect and Kuṭṭa, Kiṭṭi, or Kṛṣṭa in the Canarese; and we have seen that Viṣṇu, the first portion of the name of the. Hoysala prince Viṣṇuvardhana, was corrupted to Viṭṭi or Biṭṭi[^65]. The terminations bāand la are appended to the name Viṣṇu or Viṭṭu to indicate additional sense such as tenderness or reverence. When the shrine was established, we have not the means of determining, but we have clear evidence of its being in existence in the middle of the thirteenth century. In a copperplate Inscription of the reign of Kṛṣṇa of the Yādava dynasty of Devagiri, it is stated that Malliseṭṭi, a general and viceroy of the king, made, while engaged on a military expedition, the grant of a village in the Belgaum district at Pauṇḍarīkakśetra, a holy place situated on the Bhīmarathī, in the vicinity of the god Viṣṇu, in the year. 1171 of the Śaka era corresponding to 1249 A.D[^66]. Now if the Pauṇḍarīkakśetra was situated on the Bhīmarathī or Bhīmāriver, it is certainly not unreasonable to suppose that is was the same as Paṇḍharīwhich is the alternative name of Paṇḍharpur; and
 
-[^65]: "See above, p. 72."
-
-[^66]: "Indian Antiquary, Vol. XIV, p. 68ff."
-
 the god in whose vicinity the grant was made must therefore. have been Viṭṭhal , or Viṭhobā, here mentioned by his Sanskrit name and not the popular Canarose corruption. In another Inscription on stone, existing at Paṇḍharpur itself and dated 1192 Śaka, which corresponds to 1270 A. D., Bhānu the son of Keśava, is represented to have performed an Aptoryāma sacrifice in Pāṇḍuraṅgapura, in consequence of which crowds of people, and Viṭṭhal a together with the gods, were greatly gratified¹.Here we have another name of Paṇḍharpur, and that was probably given to it because it was the city of Pāṇḍuraṅga.
 
  Pāṇḍaraṅga, or Pāṇḍuraṅga, is according to Hemacandra a name of Rudra or Śiva[^67]. And we have a temple of Śiva at Paṇḍharpur, and pilgrims have to visit it first before going to that of Viṭhoba or Viṭṭhal Pāṇḍuraṅga, which is the same as the Pāṇḍuraṅga of Hemcandra, is however in modern times a popular name for Viṭṭhal .Whether then the city was called. Pāṇḍuraṅgapura on account of it containing the temple of Viṣṇu or Viṭṭhal , or that of Śiva is doubtful. But from the wording of the Inscription, in which Viṭṭhal a and Pāṇḍuraṅgapuraare mentioned independently, it would appear as if Viṭṭhal had no connection with the name, and it was given to the city on account of its containing a Śiva temple. But when Viṭhoba's importance increased in later times so vastly that Śiva was thrown entirely into the shade, Panduranga became identical with Viṭṭhala.
-
-[^67]: "Deśnāmamālā,VI. 23."
 
  The name Pauṇḍarīkaoccuring in the first Inscription seems to owe its origin to a man named Pauṇḍarīka, the popular legend about whom is to the following effect. The region about Paṇḍharpur was, it is said, a forest of the name of Diṇḍiravana. There lived a man of the name of Pauṇḍalīka, who spent all his time in the service of his aged parents, and the god Kṛṣṇawas pleased. with his devotion to them. In the meantime, while Kṛṣṇa Was living at Dvāraka, he remembered Rādhā, who was the object of
 
@@ -10744,8 +10920,6 @@ image is regarded as God, but the true God is wholly different. If a stone-god f
 
 form the sum and substance of it. Nāmdev wrote songs in Hindīalso and some of these are incorporated in the Grantha-Sāheb, or the Bible of the Sikhs. I will here translate two of these[^68]:—
 
-[^68]: "Tukaram Tatya s edition."
-
  No. 2352. "He is one, \[but\] fills and encompassess many; wherever you look yon find him there. There is scarcely one who understands him, all being deluded by the variegated picture. drawn by Māyā(delusive power). Everything is Govinds, everything is Govinda, there is nothing without Govinda. Just as there is one thread and on it are woven breadthwise and length- wise hundreds of thousands of beads, so is everything woven in the lord. The waves, the foam, and the bubbles of water are not different from water. All this extent of the universe is the sport. of Parabrahma, and when we think of it, is not different from it. Illusive phantoms and the objects seen in dreams are regarded as real. When by the instruction of my Guru my mind awoke, I accepted the truth. Reflecting in your mind, see this all to be the creation of Hari, says Nāmdev; in the inside of every indivi- dual thing there is one Murari alone without any interstice."
 
  No.2353. " The pitcher is filled and the water brought to bathe the god. There were forty-two hundreds of thousands of animals in it; there was already Viṭṭhal in them. Whom shall I bathe? Wherever we go there is Viṭṭhal and he over sports in joy. Flowers have been brought and wreaths woven of them for worshipping God. First of all the flowers were smelt by the bees, there was Viṭṭhal there; what shall I do? Milk has been brought and cooked for the offering of Khīr² to God. The milk was first tasted by the calf, in it was Viṭṭhal, what shall I do? Here is Viṭṭhal, there is Viṭṭhal, there is no world without Viṭṭhal. This place and that, thou hast filled. Thou hast filled the whole world, says Nāmāhumbly"³.
@@ -10759,8 +10933,6 @@ form the sum and substance of it. Nāmdev wrote songs in Hindīalso and some of 
 3.These two hymns have been translated by Macauliffe in Vol. VI, pp. 41-42 of the Sikh Religion. The readings in the Bombay Ed. have been compared with those in the Grantha-Sāheb, pp. 427-28 of the Lucknow Ed. of 1893,
 
  § 73. The date assigned to the birth of Nāmdev is, as we have seen, Śaka 1192, that is 1270 A. D. This makes him a contemporary of Jñāndev, the author of the Jñāndevī, which was finished. in 1290 A. D. But the Marāṭhīof the latter work is decidedly archaic, while that of Nāmdev's writings has a considerably more. modern appearance. Nāmdev's Hindi too looks more modern. than that of the thirteenth century, when the poet Canda flourished¹. What this is due to, it is difficult to say. But it appears probable that the traditional date of Nāmdev's birth-Śaka 1192-has been pushed backwards and that he is represented as a contemporary of Jñāndev. We have seen in a former section[^69]that Nabhāji in naming the successors of Viṣṇusvāmin places. Jiandey first and Nāmdev afterwards. If we are to judge from Nāmdev's Marāṭhī and Hindī, his date must be put later by about. a century.
-
-[^69]: "[ Ante, p. 109.-N. B. U.]"
 
  Some conception, however, of the time when Nāmdev flourished may be formed from the strong and definite sentiments as to the futility of idol-worship, which his instructor is represented (in one of the hymns translated) to have expressed. Khecar, or Visoba Khecar as he is usually called, appears to have been an uncom- promising opponent of idol-worship from the accounts given of him in the existing biographies. All previous writers, including Rāmānuja, as well as a great many that followed, excused idol- worship in some way or other. If then Khecar's attitude towards it was definitely hostile, he and his pupil Nāmdev must have flourished when the Mahomedan influence had for the first time become very powerful. The Mahomedans established themselves in the Deccan in the beginning of the fourteenth century of the Christian era, and their hatred of idol-worship must have taken about a hundred years to make its way into the understanding of religious Hindus.
 
@@ -10825,8 +10997,6 @@ What possibility is there of my mental power reaching Him, whose light it is tha
  There is peace and pure indescribable bliss in seeing God:—
 
  Second coll., No. 1411. " Oh Nārāyaṇa, the peace arising. from rest is truly not to be attained without thy feet; even if modes and methods are followed for crores of Kalpas[^70], bliss will not ensue. The bliss of bliss, which is interminable and boundless, which is enjoyed by Hari and Hara, manifest to me, oh thou ! the
-
-[^70]: "A long fabulous period."
 
 sustainer of my soul, oh omniscient, those feet of thine I which produce it \],"
 
@@ -11007,8 +11177,6 @@ his ruling powers, who alone is the cause of production and growth (1). There is
 
  As formerly remarked[^71],a verse and a half in this chapter occurs word for word in the thirteenth chap, of the BhG. It also deserves remark that the proper names of the supreme being that occur are Īśāna, Īśa, and Śiva, and the epithet Bhāgavat, that is used also, deserves notice (11, 12, 15, 17, 20). In verso 20, which occurs also in the MU., there is Īśam for Ātmanaḥwhich is indicative of the peculiarity of this Upaniṣadwhich we have noticed. There are two verses from the Puruṣasūkta (RV. X. 90),
 
-[^71]: "Ante, p. 31. [N. B. U.]"
-
  The fourth chapter opens with the expression of the desire that he who, himself being without form, creates many forms with a certain purpose, in whom in the end as well as in the beginning the universe exists, may endow the adorers with a holy will. Then follows the identification of this supreme soul with fire, sun, wind, moon and a variety of other objects (2-4). We have then the metaphor of one male goat lying down with the female goat and another male goat abandoning her after enjoyment, which represents the soul in the worldly and the delivered conditions (5).
 
  We have next the verse about two birds, the friends and companions of each other, resting on the same tree, one eating the fruit of that tree, and the other simply looking on without eating, which occurs in the RV. (I. 164. 20) and in the MU. (III. 1. 1). The next verse about the weak soul being deluded and in grief and being delivered from his sorrows when he sees the other. soul, who is the ruler (Īśa), occurs in the MU. also (III. 1. 2) but not in the RV.
@@ -11038,8 +11206,6 @@ subtle forms in accordance with his qualities and the qualities of his actions a
 period in its most mature form with a God distinctly personal at the centre. The attributes of the Supreme Soul are often given in very general terms, and he is referred to by the non-sectarian general name Deva, but as ofton that Deva is identified with Rudra, Śiva, Īśāna and Maheśvara, and his powers are spoken of as Īśānīs; but there is no indication whatever that these names have been given. for the purpose of raising Rudra-Śiva to the supreme godhead to the exclusion of another god. Names indicative of Rudra-Śiva appear to have been used, since he was invested with a personality perceived and acknowledged by all. This Upaniṣad, therefore, is not a sectarian treatise like others promulgated in later times, and is often quoted by Śaṁkarācārya, Rāmānuja and other writers of the different schools, and not by those of one schoolonly.
 
  It must have been composed before the BhG., since the latter contains, as already stated[^72], a verse and a half from it, and the nature of the religio-philosophic speculations contained in it, though essentially Upaniṣadic, make a nearer approach to the later Bhakti School than those of any of the older treatises of the class. The description of the godhead and of the final pure serenity are instinct with the glow of love and admiration, and the treatise ends with an expression of self-surrender to the god, who makes himself manifest in one's own intelligence. The Śvetāśvatara-Upaniṣad, therefore, stands at the door of the Bhakti School, and pours its loving adoration on Rudra-Śivainstead of on Vāsudeva-Krṣṇa, as the BhG. did in later times when full swing. Vāsudeva-Kṛṣṇa the Bhakti doctrine was in full swing. had a historic basis; and the circumstances which led to his being invested with the supreme godhesd, occurred in later times, while in the age, in which the Śvetiśvatare-Upaniṣad was composed, Rudra-Śiva was alone in the field as the supreme god, and the germs of Bhakti, or love, which manifested themselves at the time,were directed towards him; but when Vāsudeva-Kṛṣṇa also came into the field, he appealed more to the hearts of men as the
-
-[^72]: "Ante, p. 31, and p. 153. [N. B. U. ]"
 
 god who had come to dwell amongst them; consequently the germs of Bhakti speedily developed, and he became the object of the heightened feelings in preference to the other.
 
@@ -11081,8 +11247,6 @@ spared nothing when he was propitiated. Whenever a man conceived a desire for an
 
  It will be seen that the object of worship in Śaivism is the Liṅga, or phallus. We have found no trace of this characteristic in the earlier literature, so far as we have examined it¹, and the first time we meet with it is in this passage from the Anuśāsanaparvan. We have had occasion in a previous section[^73] to remark that Rudra-Śiva had a close connection with stragglers in the forest, with Vrātyas, or those who were not included in the Aryan community, and with the wild tribe of the Niṣādas, and also that the gods of these last were amalgamated with Rudra. Rudra's partiality for serpents and his being the lord of spirits or Bhūtas, were probably due to the influence of the serpent-worship and the devilry of the savage tribes.
 
-[^73]: "[Ante, p. 149 N. B. U. ]"
-
  There are two places in the RV., in one of which Indra is prayed to not to allow those whose god is Śiśna, to disturb the rites of the singers (VII. 24. 5); and in another he is represented. to have conquered the riches of a city after killing those whose god is Śiśna. Here evidently those whose god was Siśna, or phallus, are meant as the enemies of the Vedic Aryas, who disturbed their holy rites. Notwithstanding all that is said about the matter, my own belief is that the persons here referred to were really some tribe of the aborigines of the country, who worshipped. the phallus. Just then, as the Rudra-Śiva cult borrowed several elements from the dwellers in forests and stragglers in places outof the way, so it may have borrowed this element of phallicworship from the barbarian tribes with whom the Āryas came in contact. This element, however, does not appear to have come. in all at once, especially among the learned classes, whose beliefs. are represented in the literature which we have examined.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -11092,10 +11256,6 @@ spared nothing when he was propitiated. Whenever a man conceived a desire for an
  The Liṅga worship had, it appears, not come into use at the time. of Patañjali; for, the instance he gives under P.V. 3.99, is that of an image or likeness (Pratikṛti) of Śiva as an object of worship, and 2001 not of any emblem of that god. It seems to have been unknown. oven in the time of Wema-Kadphises, for, on the reverse of his coins, there is a human figure of Śiva with a trident in the hand; and there is also an emblem, but it is Nandin or the bull, and not a Liṅga or phallus. But this element must have crept in early enough among ordinary people, who were in closer communication with the uncivilised tribes, and gradually made its way to the higher classes, of whose creed it subsequently became an article. And it is this final stage of its adoption by the higher classes that is represented in Upamanyu's discourse in the Mahābhārata.
 
  From all that we have brought forward from the post-Saṁhitāliterature, it will appear that Rudra-Śiva was a deity whose. worship was common to all Āryas, and who was not at first a sectarian god. As above remarked[^74],he was in charge of the field before the Vaiṣṇava or Vāsudevic deities came in to contest his supremacy. The Gṛhyasūtras, which, as we have seen, give directions as to the adoration of Rudra under various circumstances, cannot be considered as belonging to any Śaiva sect. In the time of Patañjali, images of Śiva, Skanda and Viśākha. made sometimes of precious metals, were kept for common worship by certain religious persons who derived an income from them[^75]. The images of Śiva here alluded to cannot have been meant for the use of a particular sect.
-
-[^74]: "Ante, p. 157f. [N. B. U.]"
-
-[^75]: "See his comment on P. V. 3. 99."
 
 V. Origin and Diffusion of the Śaiva Sects and the  
 Several Classes of Śiva Worshippers.
@@ -11110,8 +11270,6 @@ Several Classes of Śiva Worshippers.
 
  There is another Inscription, usually called the CintraPraśasti, which states that Śiva became incarnate in the form of Bhaṭṭāraka Śrī-Lakulīśa, and dwelt at Kārohaṇa in the Lāṭa country. There appeared in bodily form four pupils of his of the names of Kuśika, Gärgya, Kauruṣa and Maitreya for the strict performance of the Pāśupata vows, and they became originators of four branches. The date of the first Inscription is Vikrama 1028, or 971 A. D., and the second was composed between A. D. 1274 and 1296. In another Inscription dated 943 A. D., found at Hemāvatīin the Sira Taluka, Mysore, Lakulīśa is represented to have been born again as Muninātha Chilluka to preserve the memory of his name and doctrines[^76].
 
-[^76]: "See JBBRAS, Vol. XXII, pp. 151-153."
-
  Mādhava calls the Pāśupata system that he explains in his Sarvadarśanasaṁgraha, Nakulīśa-Pāśupata, and quotes a few words from what appears to be a work attributed to him. From all this it appears that there lived a certain person, of the name of Lakulin (the holder of a Lakuṭa, or Laguḍa, or Lakula, i. e., a club) who founded a Pāśupata system. Four schools sprang out of it, and their reputed founders, whether historical or legendary, were considered his pupils. Lakulin ist the same as Nakulin, and the fact that his rise has been represented by the Purāṇas to be contemporaneous with Vāsudeva-Kṛṣṇa, points to the inference that traditionally the system was intended. to take the same place in the Rudra-Śiva cult that the Pāñcarātra did in the Vāsudeva-Kṛṣṇacult. We may, therefore, place the rise of the Pāśupata school mentioned in the Nārāyaṇīya about a century after that of the Pāñcarātra system, i. e., about the second century B. C.
 
  § 90. Before we proceed further, we will notice the extent of the diffusion of the creed. At the end of the commentary on the Vaiśeṣikasūtras, the author Prśsastapāda ntakes his obeisance to Kaṇāda, the author of the Sūtras, and characterises him as having composed the Vaiśeṣikasūtras after propitiating Maheśvara by the
@@ -11122,15 +11280,11 @@ greatness of his Yoga (meditation or concentration), and Ācāra (practice). The
 
  Haribhadra, an old Jaina author, speaks in his Ṣaḍdarśanasamuccaya, of the schools of Gotama and Kaṇāda as professing the Śaiva faith. But his commentator Guṇaratna, (who flourished. in the latter part of the fourteenth century[^77]), calls the Vaiśeṣikās Pāśupatas and the other school Śaivas. This last must be a mistake, since Bhāradvāja of the Nyāya school is specifically spoken of as a Pāśupatācārya, as we have seen.
 
-[^77]: "lnd. Ant. Vol. XI, pp. 255-256."
-
  The Chinese traveller Hiuen-Tsiang in the middle of the seventh century mentions the Pāśupatas twelve times in in his book. In some places he saysthat there were temples of Maheśvara at which the Pāśupatas worshipped; in one or two temples, he says that they resided. And at Benares he found about ten thousand sectaries who honoured Maheśvara, besmeared their bodies with ashes, went naked and tied their hair. in knots. These and those who lived in temples must have been like the Bairāgis, or ascetics, of modern times, who had given up the world; but probably the others mentioned by him were the
 
 followers of the Pāśupata faith who lived the ordinary life of householders.
 
  In the copper-plate charter of Nāgavardhana, nephew of Pulakeśin II of Mahārāṣṭra, who ascended the throne in 610 A. D., and was living in 639 A. D., a grant is recorded of a village near Igatpuri in the Nasik District for the worship of the god Kāpāleśvara i. e., the lord of the wearers of garlands of skulls, and for the maintenance of the Mahāvratins residing in the temple. It will hereafter be shown that the name Mahāvratin, or observer of the grent vow designated the Kāpālikas or Kālāmukhas. Thus there. is evidence of the existence in the middle of the seventh centuryof the sect of Kāpālikas in Mahārāṣṭra[^78].
-
-[^78]: "JBBRAS, Vol. XIV, p. 26,"
 
  In the Karhad grant of Kṛṣṇa III of the Rāṣtrakūṭadynasty, the king mentions his having granted in Śaka 880 (=958 A. D.), a village to Gaganaśiva, the practiser of great austerities, who was fully versed in all the Śivasiddhāntas and was the pupil of Īśānaśiva, who was an Ācārya, or preceptor, and the head of the establishment at Valkaleśvara in Karahāṭa. These holy men and their establishment seem to have belonged to the Śaiva sect and not to the Pāśupata. The evidence for the existence of Kālāmukha and Śaiva sects in Mysore, in the latter part of the twelfth century, will be given in the next section.
 
@@ -11152,21 +11306,7 @@ doctrines, contained in works not written by the followers of the systems except
 
  The same conclusion is to be deduced from the Mysore Inscriptions that have been published, the only difference being that the original teacher is called Lakulin or Lakulīśa. In one Inscription dated 943 A. D., referred to above, it is stated that Lakulīśa, being afraid that his name and doctrines would be forgotten, became incarnate as Muninātha Cilluks[^79]."). This appears to be a general name applicable to all systems. In another dated 1078 A. D. one ascetic is called an ornament to the Lākula school and another is spoken of as "a hand to Lākula"[^80]. This appears to be the general name and does not point to a specific sect. In a third dated 1103 A. D. Someśvara-Sūri ist spoken of as having caused the Lākula doctrine (Siddhānts) to bloom. He is called a Naiyãyikaand Vaīśeṣika[^81]."). This shows
 
-[^79]: "Ep. Carn. Vol. XII, p. 92 (Translation
-
-[^80]: "Ep. Carn. Vol. VII, Sikarpur Taluq No. 107."
-
-[^81]: "Ep. Carn. Vol. VIII. Pt. I, p.64, (Translation
-
 that he belonged to the specific Pāśupata seot. In a fourth dated 1177 A. D. certain ascetics are called upholders of the Lākulāgamasamaya, i. e., the system based upon a work of Lākulin, and adherents of Kālāmukhas[^82].").Here evidently the Kālāmukhas are called Lākulas, which is the same as Pāśupatas. The names of the ascetics mentioned in this Inscription end in the word śakti and jīya, which appear to be characteristic of the Kālāmukha sect. In a fifth dated 1183 A. D. is noticed a grant to Nāgaśiva-Paṇḍita, who is called an upholder of the Lākula system, and the names of his preceptors in the two preceding generations end in the suffix śiva. Nagaśiva is praised for emipence in Āgama and in Śivatattva³. From the ending suffix śiva in these names and the mention of a proficiency in Āgama and in Śivatattva, it appears that Nāgaśiva was a follower of the Śaiva school and at the same time he was a Lākula, or Pāśupata. A sixth dated 1199 A. D. notices a grant of land to Bammadeva, son of Nāgarāsi, the promoter of the system based upon the work. of Lākulin[^83]. The sufflx rāśi is found in a great many names of the devotees of Śiva. Whether it is a characteristic of a specific sect is not clear, but it appears that the bearers of it belong to the Pāśupata, or the Kālāmukha school. In a seventh dated 1213 A. D. a certain religious man is represented as the upholder of the system known by the name of Vāgi-Lākula, i. e. the systemof the learned Lākulin[^84]. In an eighth dated 1285 A. D. the grantor is called a supporter of the new system of Lākulin[^85]."). This perhaps refers to the later school of Lingāyatas.
-
-[^82]: "Ep. Carn. Vol. V, Pt. I. p. 135 (Translation
-
-[^83]: "Ep. Carn. Vol. V. Arsikere Taluq No. 103."
-
-[^84]: "Ep. Carn. Vol. V, Arsikere Taluq No. 46."
-
-[^85]: "Ep. Carn. Vol. XII, p. 45 (Translation
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -11175,8 +11315,6 @@ that he belonged to the specific Pāśupata seot. In a fourth dated 1177 A. D. c
  Thus it will be seen that Lākula was the general name by which the Śaiva sects were called, and the specific name Kālāmukha is associated with the general name in one case. This general name has for its basis the historical fact, noticed above, that a person of the name of Lākulin or Lakulīsafounded a Śaiva system corresponding to the Pāñcarātra system, which the Vāyuand Liṅga Purāṇas consider to be contemporaneous with it. The other general name Pāśupata arose by dropping the name of the human individual Lākulin and substituting that of the god Pāśupati, whose incarnation he was believed to be, as is done in the texts of the MBh. quoted above. But that the Śaiva system had a human founder is confirmed by the fact that the name of his work, the Pañcādhyāyī, or Pañcārthavidyā, has been handed down, as will be shown immediately below, and probably the work is extant, even if it has not yet been discovered, as Mādhava mentions a gloss on the perpetual commentary (Bhāṣya) on it, which also will be noticed below.The conclusion therefore appears to be that a certain historical person was the founder of the main Śaiva system which was the same as that explained by Mādhava as Nakulīśa-Pāśupata, and that three other systems arose out of it in later times.
 
  The commentators of Śaṁkara state that there were four of these schools bearing the names of Śaiva, Pāśupata, Kārukasiddhāntin and Kāpālika. Vācaspati, however, calls the third. Kāruṇikasiddhāntin. Rāmānuja and Keśava Kāśmīrin mention the same four schools, but call Kāruṇikasiddhāntin by the name of Kālāmukha. The word Kāruka is probably a corruption of Kāuruṣya, the name of the third of the four (according to the Purāṇas) pupils of Lakuliśa, or this last name may be the Sanskritised form of the original Kāruka[^86]. The Śaiva school, however, is called Siddhāntamärga and the Kālāmuklas are called Mahāvratadharas."). A work of the name of
-
-[^86]: "These four schools are mentioned in the Vayaviyasambit of the Siva- Purina (II. 24, 177
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -11226,25 +11364,17 @@ aberrant or irregular people. This character did impress itself on the mode of w
 
  I. Now the lord (Pati) is Śiva. Śiva acts, being impelled. thereto by the deeds (Karman) of souls, and produces things to be enjoyed or suffered and their means. The exercise of his He does! creative power thus depends on the Karman of man. everything; therefore, he is omniscient. God has not a body like that of an individual soul which has the fetters of taint and Karman, etc.; but he has a body made up of powers, certain specific five formulas (Mantras[^87] and In the Mahämäräynolya Up. 17. The commentator considers these to refer to the five facos of Śiva, respectively. They are Badyojita, Vāmadeva, Aghora, Tasparuṣa and Īśāna. They are also called forms of ŚivaOne of the Dānas, or charitable gifts, mentioned by Hemādri (DānakhaṇḍaVol. I, pp. 789-798 Bibl. Ind.) consists of üve images made of gold or other motal fashioned in a particular manner of these five forms of Śiva. In giving each a certain verse bas to be repeated. These five forms are Ident fed in a Śaiva treatise with the earth, water, fire, wind an d ather, respectively, and they are considered as the creators of these elements la another, viz., Virn-Śaiva-Cintamani, Sholapur 1908 A. D.")) being imagined to be thedifferent parts of his body. These five are his powers and are also considered his different forms, and by these he does the five actions. which are creation, existence or protection, destruction, concealment, and benefaction. The following four partake of the nature. of Śiva: (1) formulas (Mantras), (2) the deity presiding over the formulas (Mantreśvara), (3) the great god (Maheśvara), and (4) delivered souls (Mukta).
 
-[^87]: "These five formulas, or Mantras, are contained in the TA. (X. 13-47
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.These five formulas, or Mantras, are contained in the TA. (X. 43-47) and In the Mahānārāyaṇīya Up. 17. The commentator considers these to refer to the five faces of Śiva, respectively. They are Sadyojāta, Vāmadeva, Aghora, Tasparuṣa and Īśāna. They are also called forms of Śiva One of the Dānas, or charitable gifts, mentioned by Hemādri (Dānakhaṇḍa Vol. I, pp. 789-798 Bibl. Ind.) consists of five images made of gold or other motal fashioned in a particular manner of these five forms of Śiva. In giving each a certain verse bas to be repeated. These five forms are Ident fed in a Śaiva treatise with the earth, water, fire, wind an d ather, respectively, and they are considered as the creators of these elements la another, viz., Vīra-Śaiva-Cintāmani, Sholapur 1908 A. D.
 
  II. The Paśu is the individual soul, who is atomic and known.by the name of Kṣetrajña (self-conscious) and others. It is eternal and all-pervading. It is not incapable of action nor is it one only, as is maintained by other schools of philosophy. When the fetters are removed, he becomes Śiva, possessing eternal and -boundless knowledge and power of action. The Muktas, or delivered ones, are Śivas, who have so become by the favour of him who is eternally Mukta, and is a person with five formulas. (Mantras ) for his body, i. e. he is identified with the god Śiva himself. Though they become Śivas, they are not independent. but depend upon the eternal god, Śiva. Paśu is of three kinds: (1) Vijñānākala, who has shaken off his connection with all the organs (Kalāḥ[^88]) in consequence of the destruction of the impression of deeds done, by means of knowledge, meditation, asceticism, or by the enjoyment or suffering of the fruit (Bhoga), and has simple taint (Mala). The second is Pralayākala, whose organs are destroyed by the dissolution of the world. He has both impression of deeds (Karman) and taints (Mala). The third is Śakala, who has all the three fetters, taint (Mala), impression of deeds. (Karman), and material cause (Māyā). Vijñanākala is of two kinds (1) one whose taint (Kaluṣa) has ended, and (2) another whoso taint (Kaluṣa) has not ended. The first are those, who, their taint (Kaluṣa) having ended, are elevated to the position of Vidyeśvaras. The Vidyeśvaras are eight and are as follows: (1) Ananta, or endless, (2) atomic, (3) the most excellent Śiva, (4)
 
-[^88]: "1. See previous section."
-
 the one-eyed. (5) the one Rudra, (6) he with the three forms, (7) Śrīkaṇṭha, and (6) Śikhaṇḍin. Another author says that Śiva invests the Samāptakaluṣa (one whose taint has ended) with Vidyeśatva, which is of eight kinds, and the Asamāptakaluṣa (one whose taint has not onded) he raises to the dignity of fomulas. (Mantras) which are seven crores. Pralayākala is also of two kinds. The first is one whose two fetters have matured (and about to be shaken off), and the second is different from him. The first attains Mokṣa, and the second, entangled with Puryaṣṭaka, undergoes many births in accordance with his impressisn of deeds. (Karman). The Puryaṣṭaka is a subtle body, wich is composed of elements which are variously enumerated. Of those who have the Puryaṣṭaka, some, who are virtuous, are raised to Bhuvanapatitva by Maheśvara Ananta. Sakala is also of two kinds: (1) one whose taint (kaluṣa) is matured, and (2) one whose taint (kaluṣa) is not matured. The first is raised to the dignity of Mantreśvara of 118 Mantras, i. e of so many kinds. Parameśvara, assuming the form of his preceptor by the process of initiation. and the use of power calculated to counteract the matured taint, confers Mokṣa. Those Aṇus or atomio souls, whose taint has not ripened (i. e. is not in a condition to be wiped away), are made to suffer or enjoy in accordance with their Karman.
 
  III. Pāśa (fetter) is of four kinds: (1) Mala, or taint (2) Karman, or the impression of deeds, (3) Māyā, or material cause, and (4) Rodhaśakti, or obstructive power. Mala, or tsint, is that which conceals the knowing and acting power of the soul and is like the husk enveloping a grain of rice. Karman is the impression of deeds done for the attainment of fruit. It is righteous or un- righteous. It is unbeginning, ever continuing in succesion in the manner of seed and its sprout. Māyāis that into which the whole creation resolves itself at the time of dissolution and from which it springs out at the time of recreation. The obstructive power is the power of Siva which, because it regulates the three other fetters and conceals the true nature of the soul, is itself called a fetter. It performs its function, because it is the principle. of speech by means of which names are given to things and thus. their nature is determined[^89].
 
-[^89]: "Śambhudeva s Saivasiddhāntadīpikā, Sholupar 1909,"
-
  § 94. This constitutes the first part of the system (Vidyāpāda), the nature of the other three parts has been succinetly given above. A few details are these[^90]: The second part (Kriyapāda) treats of the accomplishment of Mantra, the twilight adorations, worship, muttering of formulas (Japa), throwing oblations into the fire, acossional ceremonies for the attainment of eternal bliss, anointing of the preceptor and of the person ontering on a course of action for final emancipation (Sādhaka), and one's own initiatory ceremonies necessary to fit one for a wordly and for an eternal life. In the third, or the Yoga part are mentioned the thirty-six principles; the deities presiding over them; the lords of the different worlds; the individual soul; the all-ruling soul, the power (Śakti); the direct perception of Māyāand Mahāmāyā, which are the causes of the world; the attainment of the miraculous powers, minuteness, lightness, eto. for those who concern themselves with the worldly element; the methods of the restraint. of the breath, abstraction, meditation, concentration, and absorption in thought (Samādhi); and the positions of the circles in the body beginning with the root-circle (Mūlādhara, or navel). The fourth part treats of penances, a purificatory ceremony (Pavitrāropaṇa), the foundation, and the natures of Śivaliṅga, of the visible Liṅga of Umā and Maheśvara, and of the lord of Gaṇas, or groups, such as Skanda and Nandin, of the rosary used for the muttering of formulas, and the funeral Śrāddhas. This last part appears to contain matters subsidiary to, and explanatory of, the actions enjoined in the second part. The proscribed actions mentioned above are: (1) the eating of the residue of what is offered to another deity; (2) the vilification of (a) Śiva, (b) of the devotees of Śiva, (c) of the system of Śiva and (d) of the practices enjoined. in the Śaiva system; (3) the enjoyment of things belonging to God; (4) the killing of animals.
-
-[^90]: "From the same work."
 
  § 95.The doctrines of the Śaiva school are more moderate and rational than those of the Pāśupāta school. This last, as well as the two extreme schools to be mentioned next, are called Atimārgika, or schools that are away from the path or go astray, and are spoken of by Śaṁbhudeva, quoted in the above paragraph, as revealed by Rudra. The Śaiva schools he calls the Siddhāntaśāstra, or the true
 
@@ -11280,8 +11410,6 @@ to Vasugupta by Śiva himself or by a Siddha, or perfected humanbeing. They were
 
  $ 98. Kallaṭa lived in the reign of Avantivarman[^91], 854 A. D.,wherefore his Guru's literary activity must be referred to the beginning of the ninth century. The followers of this school boldlydeny the necessity of God's having a prompting cause, such asKarman, or a material cause, like the Pradhāns, for the creation ofthe world. Neitherdo they admit that he is himself the materialcause, as the Vedāntasūtras maintain, nor do they think thatsome principle of illusion, such as Māyā, generates appearanceswhich are false. God is sccording to them independent andcreates merely by the force of his will all that comes into existence. He makes the world appear in himself, as if it were distinct from himself, though not so really, as houses or even townsappear in a mirror, and is as unaffected by it as the mirror is by
 
-[^91]: "Buhler, Report of a Tour made in Kashmir, p 78."
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\. For these various traditions see my Report on the Search for SanskritManuscripts during 1883-84, p. 77f. \[=Volume II of this Edition p 199f.N. B.U.\]
@@ -11304,13 +11432,7 @@ the images reflected in it. Neither does he exist only as realisedin the world, 
 
  The impurity vanishes when by means of intense contemplation the vision of the highest being breaks in upon the mind ofthe devotee and absorbs all finite thought. When this conditionbecomes stable, the individual soul is free and becomes thesupreme soul. The breaking in of the vision is called Bhairava,because it is his and is caused by him[^92].
 
-[^92]: "Śivasūtravimarśinī; I. 5."
-
  §99. The founder of the Pratyabhijñāschool of KāśmīraŚaivism was Somānanda, the work written by whom is calledŚivadṛṣṭi. But the principal treatise of the school was composedby his pupil Udayākara, and contains verses which are calledSūtras. On these Sūtras there are glosses and detailed explanations by Abhinavagupta, the pupil of the pupil of Somananda[^93].Abhinavagupta wrote between 993 and 1015 A. D[^94]., whereforeSomānanda must be taken to have lived in the first quarter of thetenth century.
-
-[^93]: "Bitbler, Report of a Tour made in Kasmir; extract from Nos. 465-66, p. OLX."
-
-[^94]: "1bid. pp. 81-82."
 
  The doctrines of the creation of the world and of the relationsbetween the individual and supreme souls set forth by thisschool are the same as those maintained by the preceding one.But the way of the perception of the identity is recognition.according to this system. There is an Upanṣiad text⁵, fromwhich it follows that every thing shines when He shines and
 
@@ -11366,21 +11488,9 @@ Basava, who was the son of Mādirāja, a Brāhmaṇa supposed to be of the Ārā
 
 choose a Guru, or preceptor, it is necessary to place four metallicvessols full of water at the four cardinal points and one in themiddle. This last belongs to the person to be consecrated as Guruor preceptor, who is supposed to represent an old Ācārya, orteacher, of the name of Viśvarādhya, and the other four to fourother priests chosen as having been brought up in the schools ofRevaṇasiddha, Marulasiddha, Ekorāma and Paṇḍitārādhya andconnected with certain Maṭhas, or establishments[^95]. The same.list is given in another treatise[^96]. These five vessels. are consocrated to the five faces or forms of Śiva, Sadyojāta, otc, mentioned in a former section[^97]. The Ācāryas, or teachers, named aboveare believed to have sprung from the five forms of Śiva in thisKali age[^98]. Others bearing other names, born in other ages of theworld, are also mentioned, but with these we have nothing to doOf these five teachers three at least are mentioned as having preceded Basavs in the passage quoted at the beginning of thissection.
 
-[^95]: "Vivekacintāmaṇi Pūrvabhāga, Sholapur 1909 A. D. pp. 230 ff."
-
-[^96]: "Vīraśaivācārapradīpikā, Poona 1905 A. D., pp. 33-37."
-
-[^97]: "P. 177. note 1."
-
-[^98]: "Pañcācāryapañcamotpattiprakaraṇa, Bombay 1903 A. D. p. 1."
-
  It will thus appear that the Vīraśaiva, or Liṅgāyat, systemcame into existence before Basava. It is affiliated to the moderateor sober school of Śaivas known by the name of Śaivadarśana, orSiddhāntadarśana as it is called by its followers; and especiallyto the later form of it alluded to before[^99]. But its technical terms,Sthala, Aṅga, Liṅga, etc. and its ideas are entirely different fromthose of that school as explained by Mādhava and others. Andthese terms we do not meet with elsewhere, so that thismodern school. When it originated, it is difficult to say. But it was clearly in a militant condition in the time of Basava. Itmust, therefore, have originated about a hundred years before.The names of two at least of the five teachers as given above endin the word arä
 
-[^99]: "§ 95."
-
 dhya, while in other books all the five have thatepithet attached to their names[^100]. This was the name of a sectallied to the Liṅgāyats.
-
-[^100]: "Pañcācāryapañcamotpattiprakaraṇa p. 35."
 
  Of the five Ācāryas represented by the five metallic vessels,Mr. Brown¹ does not mention the middle one and calls all the otherfour Ārādhyas, so that all the five preceptors honoured at the timeof initiation and other ceremonies belong to the Ārādhya sect,which, according to Mr. Brown, was a sect of the Vīraśaiva creed.There has been a good deal of ill-feeling between the Ārādhyasand the ordinary Liṅgāyats, and that appears to be due to theretention by the former of some Brāhmaṇic rites, such as repeating the holy Gāyatrīmantra and wearing the sacred thread. Butthe very name Ārādhya, which means one to be adored or worshipped, shows that, before the contention between the two sects.arose the Ārādhyas enjoyed very great respect.
 
@@ -11424,10 +11534,6 @@ iva. In thisrespect also it resembles Rāmānuja's system.
 
  § 104. The highest class of Liṅgāyats is composed of those whocall themselves Liṅgi-Brāhmaṇas, the other castes or classes whowear the Liṅgabeing simply their followers. The Liṅgi-Brāhmaṇas consist of two main classes, the Ācāryasand the Pañcamas.The legendary account given of these is as follows. The Ācāryaswere originally five in number and sprang from the five faces,Sadyojāta, etc., of Śiva spoken of in a former section[^101]. They arethe same as those mentioned above as having a metallic vesselplaced in their names on the occasion of any holy ceremony.From these five have sprung up all the priestly classes nowexisting. These five had five Gotras, viz. Vīra, Nandin, Vṛṣabha,Bhṛṅgin, and Skanda, who were originally persons almost as highas Śive himself. From the Īśāna face of Śiva sprang a Gaṇeśvara(leader of a group), who had five faces. From these five faces.sprang five Pañcamas, known by the names of Makhāri, Kālāri,Purāri, Smarāri, and Vedāri, which, the reader will remember,were the names of Śiva himself given to him on account of certaindeeds done by him. From these arose others who are called.Upapañcamas. Each Pañcama has to connect himself with oneof the five Ācāryas as his Guru. The Gotra of the Guru is hisGotra, and there can be no marriage relation between the members of the same Gotra. These Pañcamas have got Gotra, Pravarsand Śākhāof their own, and the Liṅgāyats thus seem to havecopied the Brṅhmanic system. The Pañicamas are spoken of asthe true devotees of Śiva[^102].
 
-[^101]: "Ante. p. 177nl [N. B. U.]"
-
-[^102]: "Pañcācāryapañcamotpattiparakaraṇa."
-
  According to the ordinary acccunt the true Liṅgāyats aredivided into four classes: (1) Jaṅgamas, or priests, (2) Śīlavants,
 
 or pious, (3) Banjigs, or traders, and (4) Pañcamsālis. The secondand the third classes are based on the occupation or mode of lifefollowed so that even here, there are only the two classes mentioned in the work referred to above. The members of the first orĀcārya class are popularly called Jaṅgamas. Of these there aresome who are called Viraktas (passionless) and who devote themselves to contemplation and other religious exercises and live a lifeof celibacy and asceticism. They maintain a convent (Maṭha)and are adored by all people.
@@ -11466,10 +11572,6 @@ The head monk of the Chitaldrug convent alladed to above was on avisitation to P
 
  In an Inscription in the Rājarājeśvara temple at Tanjore theking Rājarājadeva, after whom the temple was named, makes adaily allowance for the support of the reciters or singers of theTiruppadiyam or the Padigams of Tiruñānasambandba, beforethe twenty-ninth year of his reign². The date of Rājarāja'saccession to the throne has been determined by the mention of alunar eclipse in one of his inscriptions to be 984-5 A. D[^103]. Thisis consistent with the fact mentioned in another Inscription[^104] thathe conquered Satyāśraya, who was the immediate successor ofTailapa, the founder of the later Cālukya dynasty of Mahārāṣṭra,and died in Śaka 930, or 1008 A. D. Thus before the twenty-ninthyear of Rājarāja, i. e. before 1013 A. D., the Padigams of Sambandha had come to be looked upon as so sacred that the recitation or singing of them was considered an act of religious meritlike the repetition of the Śatarudriya by the followers of theBrāhmaṇic Veda. This character the hymns of Sambandhacould not have acquired unless they had come into existenceabout four hundred years before the beginning of the eleventhcentury. This is consistent with the conclusion arrived at byMr. Pillai that Sambandha flourished in the seventh century.
 
-[^103]: "Ind. Ant., Vo . XXIII, p. 297."
-
-[^104]: "South-Ind. Inscrs., Vol. II, p. 2."
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\. The above account is mostly taken from the able paper of P. SundaramPillai published in the Ind. Ant. Vol. XXV, pp. 113ff. It is to be regrettedthat Mr. Pillai does not give us precise information as to whether it wasthe Buddhists against whom Sambandha direcss bis attacks or the Jainas.
@@ -11477,8 +11579,6 @@ The head monk of the Chitaldrug convent alladed to above was on avisitation to P
 2.South-Indian Inscriptions ed. by E. Hultzsch, Vol. I. p. 252, No. 65.
 
  The Inscriptions in the temples at Kāñcipura contain evidenceof Śaivism being in a flourishing condition in the sixth century.The Pallava king Rājasiṁha constructed a temple, and the godinside was named after him Rājasiṁheśvara. Rājasiṁha appears.from some of the Inscriptions to have been a contemporary of theearly Cālukya prince Pulakeśin I[^105], who may be referred toabout the year 550 A. D., as his son Kīrtivarman I, came to thethrone about the year 567 A. D.².
-
-[^105]: "South-Ind. Insers.. Vol. I, p. 11."
 
  The Śaivism that prevailed in the Tamil country seems tohave been generally of the ordinary kind, since the hymns in theDevāram sing the praises of Śiva and exhibit forvent devotionalfeeling, but there must have been some Darśana or system ofphilosophy also, since in an Inscription in the Rājasiṁheśvaratemple at Kāñci Atyantakāma, which was another name of Rājasiṁha, is represented as proficient in the system of the Śaivasiddhāntas. And the last species of the Śaiva Iterature detailedabove is, it will have been seen, called Siddhāntaśāstra composedby Santāna-Ācāryas. These must be philosophical works onŚaivism. And the system therein taught appears in all likelihoodto be the same or similar to the Śaivadarśana, which has alreadybeen explained. But what exactly the system taught by theSiddhāntas was, we have not the means of finding out, as none ofthe works is available for examination.
 
@@ -11510,8 +11610,6 @@ creating, illuding, etc. were conceived of as goddesses as thenoun Śakti is of 
 
  § 110. The Tantras inculcating the worship of the goddess inthese various forms, constitute a considerable body of literature.We will here notice the formation, doctrines and practices of aschool based on one of these forms, that which we have calledsensual. The goddess here is called Ānandabhairavī, Tripurasundarī, and Lalitā. Her dwelling is thus described. There isan ocean of nectar, in which there are five celestial trees. Thenthere is a row or enclosure of Nīpa or Kadamba trees, in themidst of which is a pavilion made of jewel stones. In thatpavilion is situated a palace made of the wish-giving stone,where lies the great Īśānī, the great Tripurasundarī, on a couch,which is Śiva, with Maheśana for its coverlet and Sadaśiva forits pillow. The legs of the couch are Brahmadeva, Hari, Rudraand Īśvara. These are spirits discharging certain functions contsined in the essence of Maheśvara¹. This is a mythologicalexplanation of certain figures in the mystic cirles and of technical terms. The goddess is thus elevated to the highest position.Ānandabhairava or Mahābhairava, which is the name given toŚiva, is the soul of, or is composed of, the nine collections ofthings of which the world is made up, such as time and itsvarious forms (Kālavyūha), existing things like the blue substance (Kulavyūha), names (Nāmavyūha), perception (Jñāvyūha), the five faculties, viz. consciousness, heart, will, intelligence, and mind (Cittavyūha). Mahābhairava is the soul of thegoddess; therefore she also is the soul of, or composed of, thenine collections. Buth, therefore, constitute one entity. Whenthere is Sāmarasya, or community of joy or intonse love betweenthem, creation follows. The female olement, or Mahābhairavī,however, is predominant in the process of creation and the maleelement, or Mahābhairava, in the work of destruction[^106].
 
-[^106]: "Ibid. v. 34."
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Saundaryalaharīwith Lakṣmīdhara's commentary, Mysore Ed, comment. on vv. 8 and 92.
@@ -11528,13 +11626,7 @@ followers of the Śakti school justify their appellation by thebelief that God i
 
  Tripurasundarīis propitiated and eventually attained byassuming the vow (Dīksā) of a devoted worship of her. Thisvow is of three kinds. The first consists in fully concentratingthe mind on the Devī as sitting on the lap of Siva in the Mahāpadmavana (a garden of lotuses), as possessed of a body whichis pure joy and is the original cause of all, and as identical withone's own self. The second is the Cakrapūjā, the worship bymeans of the mystic circles, which is a Bāhyayāga, or materialworship and the third consists in studying and knowing thetrue doctrine. The second is the proper Śakti ceremonial. Itconsists in the worship of a picture of the female organ drawnin the centre of another consisting of a representation of ninesuch organs, the whole of which forms the Śrīcakra The picturesare drawn on a Bhūrja leaf or a piece of silken cloth or on a gold.leaf[^107]. With reference to this worship it must be observed thatthere are two classes of Śāktas: (1) Kaulika and (2) Samayin.The former worship the gross material object, while the latterhave a recourse to imagery. The worship of the pictures justmentioned is resorted to by ancient (Pūrva) Kaulas, while themodern (Uttara) Kaulas worship the organ of a living beautifulwoman. The Kaulas worship their goddess by offering to her,and themselves using, wine, flesh, honey (Madhu ), fish and suchother things. Tke Samayins, of course, abstain from suchpractices. There are even Brāhmaṇas, who secretly profess thedoctrines of the Sakta school and worship the goddess Tripurasundarīin accordance with the Pūrva-Kaula or Uttara-Kaula.way. There are no distinctions of caste when the worship of theBhairavīcakra is going on. Men of all castes become Brāhmaṇas,but they resume their own castes when the worship is over[^108].There are several more innocent and decorous modes of worshipping the goddess under the names of Lalits and Upāṅgalalitāmentioned in the ordinary religious books. The worshipof the latter comes off on the fifth lunar day of Āśvina and of
 
-[^107]: "Saundaryalaharīv. 41, commentary."
-
-[^108]: "Aufrecht s Oxf. Cat. p. 92, n."
-
 the former for the first ten days. The latter, when so worshippedby women, wards off widowhood[^109].
-
-[^109]: "See Hemādri Vratakhaṇḍa."
 
 **XIV. The Sect of Gāṇapatyas.**
 
@@ -11549,8 +11641,6 @@ After bathing oblations of mustard oil extracted afresh should beoffered to the 
  The form of the ceremony contained in the Sūtra is unquestionably more ancient than that contained in the other work.But the difference between the two shows that during the periodthat had elapsed between the composition of the Sūtra and that ofthe Smṛti, the four Vināyakas had become one Gaṇapati-Vināyaka,having Ambikāfor his mother. It will thus be seen that, in hisown nature, this last god is an unfriendly or malignant spirit,but capable of being made friendly and benignant by propitiatoryrites. In this respect, he resembles Rudra himself. That theVināyakas had come to be objects of faith before the Christianera, may be taken to follow from the occurrence of the ceremonymentioned above in a Gṛhyasūtra. But the one Gaṇapati-Vināyaka, the son of Ambikā, was introduced into the Hindu pantheonmuch later.
 
  None of the Gupta Inscriptions which I subjected to anexamination on a former occasion¹ contains any mention of hisname or announces any gift or benefaction in his honour. Butin two of the caves at Ellora, there are groups of images of Kāla, Kālī, the Seven Mothers or Śaktis, and Gaṇapati². These cavesare to be referred to the latter part of the eighth century. So thatbetween the end of the fifth and the end of the eighth centurythe Gaṇapati cult must have come into practice, and the Smṛtiof Yajñavalkya. must have been written not earlier than thesixth century. Another Inscription, and an old relic, whichindicate the prevalence of the worship of Gaṇapati, are found ata place called Ghaṭiyālā, 22 miles north-west of Jodhpur. Thereis a column there, on the top of which there are four images ofGaṇapati facing the four quarters. In the opening sentence ofthe Inscription engraved on it, an obeisance is made to Vināyaka.The date of the inscription is Vikrama-Saṁvat 918 = A. D. 862[^110].
-
-[^110]: "Ep. Ind. Vol. IX. pp. 277ff."
 
  When and how the god came to have the elephant's head, it isdifficult to determine. The images in the cave-temples at Ellorahave that head, and Bhavabhūti also in the beginning of theeighth century describes him, in the opening stanza of theMālatīmādhava, as possessed of such a head. Rudra-Śiva andthe gods allied with him were connected closely with forests andwild places, in which elephants also were found. The hide wornby Rudra and by his consort also in one of her forms was thehide of an elephant, and it perhaps suited the fancy of some mento place the head of that animal over the body of a god originallymischievous. Gaṇapati's reputation for wisdom is, I believe, tobe attributed to the confusion between him and Bṛhaspati, whoin ṚV. II. 23. 1 is called Gaṇapati. Bṛhaspati, of course, is theVedic god of wisdom, and is called the sage of sages.
 
@@ -11574,13 +11664,7 @@ After bathing oblations of mustard oil extracted afresh should beoffered to the 
 
 ** **§ 113. Another god whose worship was extensively practisedin ancient times, but is now rare, is Skanda or Kārttikeya. Thegeneral belief is that he was the son of Śiva and Pārvatī. Butin the Rāmāyaṇa he is represented as the son of the god of fireand Gaṅgā(I. chap 37). The foetus was thrown by Gaṅgāon the Himavat mountain, and it was nourished by the sixstars constituting the constellation of Kṛttikā (Pleiades), andwas thus called the son of the Kritikās or Kārttikeya. Inthe MBh. (Vanaparvan, chap. 229) also he is represented as theson of Fire, but the mother was Agni's true wife Svāhā, who hadassumed the forms of the wives of six Ṛṣis, whom Agni loved.But here he is called the son of Śiva also, as Agni is a form ofthat god. There are other stories connecting him with Śiva andPārvatī as his parents. But whatever the legend may have beenthere is no question that he was connected with Śiva, and wasthe leader of one of his Gaṇas. There is a Liṅgāyat traditionreported in the section on that sect[^111]that he was a founder of a
 
-[^111]: "[Ante, p. 196 N. B. U.]"
-
 Gotra, and was a form of Śiva himself. His having the peacockfor his vehicle is also consistent with his connection with Śiva,as peacocks are found in forests of which Rudra and hisattendants were gods. His being the leader of the army of the gods was an idea probably suggested by his being the leader of aGaṇa of Rudra. And in historical times he has been associatedwith Śiva. Under P. V. 3. 99, Patañjali mentions the images ofŚiva, Skanda and Viśakha as being worshipped in his time. Onthe reverse of the coins of the Kuṣana prince Kaniṣka, there arefigures with their names in Greek letters of Skando, Mahaseno,Komaro and Bizago[^112].The first is Skanda, and because he wasthe commander of the army of the gods, he was also called.The third isMahāsena, which is the second name on the coin.Kumāra, which is also a name of Skanda, and the fourth is theSkr. Viśākha. If the first three were the names of one deity only,there was no necessity for giving three names and three figures.These, therefore, must have been regarded as three different godsas Viśākha undoubtedly was from his being mentioned separatelyfrom Skanda by Patañjali. In the story in the MBh. referred toabove Viśākha is mentioned as having arisen from the right sideof Skanda when it was struck by Indra's thunderbolt. This isindicative of the tendency to make the two as one person; andthey appear to have been so made in later times. Or, looking tothe fact that there are two names of Buddha on the coins, the above three may have been the names of one single deity. There arealso three indications of the prevalence of the worship of Skandaor Māhasena in the early centuries. In the year 414 A. D. wasbuilt a Pratolt, or gallery, in the temple of Svāmi-Mahāsena byone Dhruvaśarman at Bilsād[^113]. Several holy observances and vows in the name of Kumāra and Kārttikeya are mentioned inHemādri's Vratakhaṇḍa, and the worship of that god has notbecome obsolete even at the present day.
-
-[^112]: "See JBBRAS, Vol. XX, p. 385."
-
-[^113]: "Ib.p. 395."
 
 **XVI. The Sect of Sauras and the Northern Sun-Worship.**
 
@@ -11589,8 +11673,6 @@ Gotra, and was a form of Śiva himself. His having the peacockfor his vehicle is
 but reasonable to expect that the worship of such a deity shouldnot become obsolete in later times, since the orb of the sun isdaily seen in the sky. In two passages in ṚV. (VII. 60. 1; 62.2)the singer wishes the rising sun to declare him sinless to Mitra,Varuṇa, and other gods. This idea probably arose from the factthat the rising sun by his bright light discloses everything thathas been done in the darkness of the previous night, and thenceit developed into a belief that the sun destroys sins. Kauṣītakiis represented to have adored the sun in the morning, at midday,and in the evening, and having made offerings of water withflowers, sandal, etc. or without (Arghya), prayed for the removalof his sins (KBU. II. 7). And this is what we do or are expectedto do in our twilight and midday adorations.
 
  Water is sipped by repenting a formula expressive of a wishthat the Sun, Manyu and Manyupati may protect the adorer fromsins (AG. Pariśiṣṭa I. 3, and TA. X. 25. 1). After that, three offeringsof water with or without the other ingredients are made to the sunafter repeating the Gāyatrī, and then the water is whirled roundhis head by the adorer by repeating the Mantra "That Āditya isBrahman[^114]" Āśvalāyana directs that, while adoring the morningtwilight, one facing the east should repeat the Gāyatrī-Mantratill the whole disc of the sun has risen, and in the evening withhis face towards the west till the whole has gone down and thestars have begun to appear (AG. III. 7. 4—6).
-
-[^114]: "Asāv ādityo Brahma."
 
  In the Upanayana ceremony, when the boy is invested withthe sacred thread and other badges of a student's life, he is madeto look at the orb of the sun, when the preceptor, addressing thatdeity, prays "Oh god Savitar, this is thy student, protect him.May he not die " (AG. I. 20. 6). Khādira prescribes the adoration of the sun for the enjoyment of riches and for the attainmentof fame (Khādiragṛhyasūtra IV. 1. 14 and 23). The hymnaddressed by Yudhiṣṭhira to the sun after he entered his forestresidence, and his having obtained a vessel from him for theproduction of all the food wanted by him, his family andfollowers, are well-known.
 
@@ -11612,11 +11694,7 @@ vehicle, to Śākadvīpa, brought some Magas from it and installedthem into the 
 
  Now these Magas are the Magi of ancient Persia, and thename Jaraśasta mentioned above as occurring in the Bhaviṣyapurāṇaconnects them with the Avesta prophet Zarathushtra.The Avyaṅga, which according to the Purans they wore roundtheir waist, was the same as the Aivyāonghen of the Avestalanguage, which last signifies the Kusti worn by the Parsees atthe present day. Albērūnī, speaking of the Persian priestsMagians, says that they existed in India and were called Magas[^115].The idea of locating them on a continent called Śākadvīpamusthave arisen from the fact that they were foreigners like theŚakas, with whom the Indians had been familiar since thesecond or third century before the Christian era.
 
-[^115]: "Sachau s Translation, Vol. I, p. 21."
-
  Evidently then the worship of the sun or Mihira-worship wasbrought into India by the old Persian priests Magi, but at whoseinstance and under what circumstances they came it is difficultto say. The legendary tradition of their having been brought bySāmba was current in the first half of the twelfth century, as wehave seen from the Inscription. The temple on the Candrabhāgāreferred to above was that which existed at Multan, and a glowingdescription of which is given by the Chinese traveller HiuenTsiang. Four centuries later it was seen by Albērūnī[^116]. Itexisted till the seventeenth century, when it was finally destroyedby Auranzeb. Multan is the same as the Sanskrit Mūlasthāna,and this name may have been given to the place, because the
-
-[^116]: "Ibid, Vol. I, p. 116."
 
 new worship of the sun was first organised there and it was itsoriginal seat.
 
@@ -11626,15 +11704,11 @@ new worship of the sun was first organised there and it was itsoriginal seat.
 
  The form of the idol of the sun worshipped in such temples isdescribed by Varāhamihira (Bṛhatsaṁhitā, chap. 58), but thefeatures mentioned by him which have a significance for ourpresent purpose are that his feet and legs should be enclosed orcovered up to the knees and he should be dressed in the fashionprevalent in the North (v. 46), and that he should be encircledby an Avayṅga (v. 47). Accordingly the images of the sunthat are found in the temples mentioned above havebootsreaching up to the knees, and a girdle round the waist withone end hanging downwards[^117]. This last is a Persian feature,as we have already seen, and the other also must have the sameor similar origin. It certainly is not Indian. The features of the idol of the sun and the fact of Magas, who were descendedfrom the Persian Magi, being its priests point unmistakably tothe conclusion that the cult was introduced into Indis fromPersis, and I believe that the construction of so many templeswas also due to the foreign influence. For, in the account of theSaura systems we have given above, there is not the remotestallusion to a temple of the sun. According to all appearances,therefore, the cult prevalent in Northern India was entirelydistinct from those systems. It does not appear to have allieditself with any one of these latter. But it was accepted by themass of the Hindus as a general worship of the sun, and thefeelings which it evoked could not have been different from thosewhich the indigenous worship gave rise to. And the manner inwhich devotion to the sun is expressed in the Inscriptions whichwe find in some of the temples, has nothing special or foreign init. The Magas themselves, the priests of the new cult, weregradually thoroughly Hinduised until they became undistinguishable from the other Hindus and formed only a separatecaste.
 
-[^117]: "Ibid., Plate LVI."
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.Burgess, Architectural Antiquities of Northern Gujrat, London 1903.
 
  In the copper-plate grant of Harṣavardhana, who lived in themiddle of the seventh century, his father Prabhākarvardhana,his grandfather Ādityavardhana and his great-grandfather Rājyavardhana are all styled great devotees of the sun (Paramādityabhakta)[^118]. This is an evidence to show that the sun cult, probablymade up of a mixture of the indigenous and foreign forms,prevailed in the beginning of the sixth century and was professedby great princes.
-
-[^118]: "Epigraphia Indica, Vol. I, pp. 72-73."
 
 **XVII. Résumé of Śaivism & Other Minor Systems, Part II.**
 
@@ -11671,8 +11745,6 @@ immanence and transcendency are not incompatible or inconsistent with each other
 
  But even this partial Pantheism is only one of the doctrinesset forth in the Upaniṣads. As mentioned in the beginning theycontain the rudiments not only of one system of religious philosophy, but of a good many and even of Buddhism.WhenBrahman or the Supreme Soul is affirmed to be distinct from theworld and thus there is a denial of the partial Pantheism I havespoken of, that soul is represented as dwelling in the externalworld and in the soul of man; that is to say. Theism is taughtwith the immanency of God in the world and in man. Forinstance in the BU. III. 7. 7-30[^119] we have first "He who dwelling.in the earth is distinct from it, whom the earth does not know,whose body the earth is, and who, being in the inside, controls theearth, is the indestructible controlling soul". In the followingpassages up to 30 we have precisely the same statement about water,
 
-[^119]: "Mādhyaṁdina recension."
-
 fire, the sky, wind, the sun, the moon and stars, the quarters, thelightning, thunderbolt, all the worlds, all the Vedas, all 'sacrifices,all beings, the vital breath, speech, the eye, the ear, the mind, theskin, light, darkness, the seminal fluid, and the (individual) soul.Here the inward controlling soul is mentioned as distinct fromthe earth and all the rest, up to the individual soul, and still asdwelling in them, controlling them from the inside, and havingthese for his body. The whole section winds up with the affirmation that this controlling soul is not seen, but is the seer is notheard, but hears; is not apprehended by thought, but apprehendsby thought; is not known, but knows; there is no other seer, noother hearer, no other apprehender, and there is no other knower.Herein are brought out the peculiar points of Hindu Theism :God is the only seer, the only hearer, and the only knower, thatis, he is all-seeing, all-hearing, and all-knowing; and nobody cansee him, hear him, or know him. He is distinct from all objects,but dwells in them and controlls them. Texts expressive of suchan immanency are to be found in many places in the Upaniṣads.God being thus distinct from the world, though immanent, canbe the object of devoted meditation, and can be attained by meansof truth, knowledge and purity. Mere immanency of this naturedoes not at all constitute the Pantheism formulated by Spinoza.There is therefore no ground whatever for regarding as aninterpolation the occurrence of texts expressive of it in sucha theistic work as the Bhagavadgītā.
 
  We have noticed above the manner in which Bādarāyaṇaremoves the inconsistency between God's developing himself intothe world, while at the same time he is transcendent, and hisbeing a simple spirit without parts. Śaṁkarācārya fairly explains,I think, Bādarāyaṇa's view. But raising a further objection, hebrings in his own doctrine eventually, that the so-called development of Brahman into the world is fancied by ignorance and isnot true, that is, the world is an illusion. There are two doctrinesative of the relation of God to the world, the so-calledPariṇāmavāda and the Vivartavāda. The former implies realdevelopment and the latter, an illusive development. This last isthe doctrine of Śaṁkarācārya, wherefore his system should becalled Singularism rather than spiritual monism; while the first
@@ -11684,8 +11756,6 @@ himself acknowledges at the end of his comment onII. 1. 14 that the author of th
  Śaṁkarācārya's Vivartavāda it was which the later schools ofVaiṣṇavism and Śaivism contended against; for even accordingto him, it leaves no scope for the relation of the ruler and theruled, i. e., God and the devotee, in the condition of reality whenall illusion is dispelled and one spirit alone exists (II. 1.14).Most of them adopted Bādarāyaṇa's Pariņāmavāda, but thedistinctness of God, man and the world, which was necessary forthe validity of their doctrines of worship and devotion, theysecured by qualifying the mode of development. By this qualification they also steered clear of the inconsistency pointed outby Bādarāyaṇa in II. 1. 26, so that his mode of satisfaction wasnot necessary for them. Rāmānuja lays down that the rudimentsof the individual souls and of the insensate world exist in Godhimself as his characteristics or body, and with these he developsinto the world, thus giving rise to the three distinct substances, the material world, the individual soul, and God as the controller.Nimbārka maintains that the other two substances do notcharacterise God or form his body, but are dependent upon himfor their existence, and in a subtle form constitute his power orcapacity, which develops into the animate and inanimate world.Viṣṇusvāmin, and therefore Vallabha, hold that the highest God,or Parabrahman, manifests himself as the material world, theindividual soul, and the supreme controller, but in the course ofdeve opent his attributes of intelligence and joy are concealeby his mysterious power, and thus is produced the materialworld, while, his joy alone being concealed, individual souls
 
 come into existence, and when the three are manifest or unconcealed, he becomes the supreme controller. Vallabha adds twoother forms of Parabrahman or Puruṣottama, as mentioned inthe section[^120] on this system. Madhva rejects the doctrine ofGod being the constituent cause of the world and consequentlythat of his development, and lays down the five eternaldistinctions between God, man, and the world and betweendifferent individuals and objects involved in the last twoOf the older Śaiva schools, the Pāśupata brings in thePradhāna of the Sāṁkhyas with its developments as the materialcause of the world, with Paśupati as the efficient cause. ŚrīkaṇthaŚivācārya in his comment on Br. S. II. 2. 38, states that accordingto his predecessors, a certain branch of the philosophy based onthe sacred texts revealed by Śiva (Āgamas) held Śiva to be onlythe efficient cause of the world. This must be a reference to theŚaiva school which, as we have already stated, was a dualisticor pluralistic school. The Vāyavīyasaṁhitāaccording to himstates that Śakti, or power, first originates um Śiva, thenceMāyā, thence Avyakta (I. 7. 3). By Māyāis to be understoodthe wonderful creative power of Śiva, as is evident from thefollowing verse 4, and Avyakta means the Pradhāna, as appearsfrom that verse as well as verse 7. He gives another verse whichsets forth that everything from the Śakti to the earth is producedfrom the essence of Śiva, so that Śiva through the Śakti is boththe efficient and the constituent cause of the world. This Śaktiis brought in by those who hold creation to be the development ofŚiva, while it is not wanted for those Śaiva philosophers whowould keep the creative principle Maya or Pradhāna as distinctfrom Śive and undergoing independent development. Śrīkaṇthaexplains the expression Śiva alone existed' occurring in ŚU. IV.18, under 1. 4. 27, by 'Śiva, with whom the Śakti (the power) inthe form of the animate and the inanimate world was united,alone existed so as to form one entity', so that he here understands Śiva as possessed of the Śakti to be the constituent cause.In this respect his doctrine is similar to that of Nimbārka. Butimmediately afterwards he speaks of the Cit and the Acit formingthe body of Siva and thus puts forth the same theory as that
-
-[^120]: "[ Ante, p. 112-N. B. U.]"
 
 of Rāmānuja. Practically he makes no distinction between thetwo. The theory of the Liṅgāyats is the same as the first formof the theory set forth by Śrīkaṇṭha Śivācārya. Śiva as qualifiedby the Śakti is the creator, that is, is the efficient and the constituent cause of the world. The Kaśmīr Śaivism attributes theproduction of the world to the will of God without anymaterial cause, or affirms that God makes the world appear inhimself.
 
@@ -11729,6 +11799,8 @@ of Rāmānuja. Practically he makes no distinction between thetwo. The theory of
 INDEXES
 
 I. INDEX OF SANSKRIT WORDS AND PROPER NAMES
+
+ 
 
 (The Indexes have been complied by Dr. V.S. Sukthankar, M.A. Ph.D. Througout the references are to pages)
 
@@ -11802,8 +11874,6 @@ elaborate analysis of the language and contents of a Jaina religious work in Pra
 " Sanskrit Texts" to Prakrit philology,in which he gives his own views and a summary of those of otherscholars. In Ceylon, Mr. D'Alwis has published a work on thePali, and in India, an edition of the Prakrit Grammar of Kramadīśvara has been published in the Bibliotheca Indics, and ofthat of Hemacandra in Bombay by a Jaina priest with theassistance of a Śāstrī¹. The modern vernaculars have not yetsucceeded in attracting the attention of the learned in Europe.Essays on some points of vernacular philology by ProfessorHoernle, of Jayanarayan's College, Benares, have appearedin the Journal of the Bengal Asiatic Society. But the mostimportant work on this subject that has yet appeared is Mr.Beames's Comparative Grammar of the Modern Aryan Languages. Two volumes have been published, and the thirdand last is expected[^121]
 
 . Mr. Beames has brought his subjectdown to the pronoun; and the forthcoming volume will treatof the verb. Dr. Trump in his valuable Grammar of theSindhi language compares the grammatical forms existingin the several vernaculars, and recent grammarians of Gujarati and Marathi have made attempts in some cases to tracethe grammar of these languages from the Sanskrit throughthe Prakrit. A Gujarati Śāstrī, named Vrajalāl, has written auseful little tract on the history of his vernacular³
-
-[^121]: "Since published."
 
 . But uponthe whole, it must be acknowledged that vernacular philology isstill in a state of infancy, and a great deal of what has beenwritten is unsatisfactory.
 
@@ -12420,22 +12490,6 @@ dialectical variety of the nature of those we find in the differentversions of t
 
  **अतिकंतं अंतलं[^122]लाजानो विद्यालयातं नाम निखमिसु । हिदा मिगविया अंनानिचएदिसानि[^123] अभिलामानि हुंवंति[^124] नं ।स देवानं पिये पियदसी लाजा दसवसभिसते संते[^125]निखमि[^126]संबोधिं ।तेनता धंमपाता होता[^127] इयंहोति समनबा[^128]मनानं दसने च दाने च[^129]वुढानं दसने च हिलनपटिबिधाने च ।**
 
-[^122]: "देवानं पिया Kh."
-
-[^123]: " हेडिसानि Kh."
-
-[^124]: "हुसुfor हुवंतिनं Kh."
-
-[^125]: "Dh. om."
-
-[^126]: "निखमिठा Kh."
-
-[^127]: "ततेस for हेता इयं Dh."
-
-[^128]: "बंभ Kh."
-
-[^129]: "बुधानं Kh."
-
  We here observe the varieties mentioned before, the changeof **र्** to **ल्** and the nominative in **ए**. We also see **निखमिसु**for**त्रेयासु एदिसनि**for **एतारिसानि, बुधानं** or **बुढानं** **(=वृद्धानां)** for **थैरांन** and **बंभन**or **बाभन** for **ब्राह्मण**. So then here we have another dialect.
 
  Kapurdigiri or Śahbazgarhi version:—
@@ -12739,8 +12793,6 @@ longer in the original seat of the race, and was connected with theancestors of 
 
  The nom., acc., and instr. cases of nouns in **अ** are the same as in Pali; but here the nom. pl. form **वच्छा** is optionally transferred to the acc. pl. also, thus giving another instance of the strong. tendency to confuse the nom, and acc. that I have spoken of The dat. sing. in **आय** like that in Pali, is preserved in solitary instances in which it has the sense of " for the sake of ". The abl. sing., besides the general forms mentioned above, has the old one ending in T, as in Pali, and a new one in **आहि** which is used in the plural also. This **आहि** is used in Sanskrit in the words **दक्षिणाहि** and उत्तराहि,[^130]which have an ablative signification. It must in its origin be considered the same as the instr. termination **भिस्**. The loc, sing. besides the general form has, as in Pali, the old one in g. The voc. sing. has also the two Pali forms, **देवा देवा** and another **देवो** the same as the nom. sing.
 
-[^130]: "Prof. Lassen derives them differently."
-
 **Masculine Nouns in द and उ**
 
  The nom. pl. has a form made up according to the analogy of neuter nouns or nouns ending in **इन्**;as **अग्गिणो** and **साहुणो**, This does not exist in the Pali, the analogy being there extended to the gen. and loo. sing. only. The Prakrit has also the two Pali forms **अग्गी** and **अग्गयो**, which latter is transformed into **जग्गओ** and **अग्गउ** and **साहु** and **साइवो**, the latter appearing also in the form of **साहओ** and **साहउ**. The acc. pl. has also the neuter form for
@@ -12866,8 +12918,6 @@ language as either of the other two, and both were spoken orused for ordinary pu
 
 ** अक्का** a sister, M., आका[^131],a term of honour used for an elder sister.
 
-[^131]: " M.-Marathi; G.-Gujarati; H-Hindi."
-
 ** अग्घाडो**an herb; M. **आघाडा.**.
 
  **अवडो** awell; M. **आड**.
@@ -12899,6 +12949,8 @@ language as either of the other two, and both were spoken orused for ordinary pu
  **छिण्णालो**
 
 ** छिण्णाली**
+
+ 
 
  **पोआलो** an ox; M. **पोल**.
 
@@ -13154,6 +13206,7 @@ distinctions, though it is questionable whether they are enough tojustify the Pu
 
  **कित्येक लोक मुत्सही याणीं पदर पसरोन प्रार्थना आईसाहेबांची केली जे तुम्हीं अग्निप्रवेश केलिया नंतर संपादिलेलें राज्य लयास आजच जातें प्राण महाराज कांहींठेवीत नाहींत हा प्रकार घडतो शाहाजी महाराजांचे व शिवाजी महाराजांचें नांव जगीं नाहीसे होतें सर्वोवर साहेबीं दृष्टि देवून राजयांस वोसंगास घेऊन सादेबीं अग्नि न घेतांमानस कठिण करून राहावें। हेंकाम करून गेलिया वंशक्षय महाराजांचा वडिलींचकेला ऐसें जगीं प्रसिद्धता दिसतें तेव्हां आई साहेबांस राइविलें ।**
 
+                                   
   (From an old Bakhara or Chronical of Shivaji.)
 
  Some counsellors supplicated the lady-mother in an humbleattitude saying: 'If you will burn yourself by fire, the kingdomwhich has been acquired goes to ruin this very day; and it will
@@ -13164,6 +13217,7 @@ happen that the king will not bear life; the name of Shahaji Maharaj and Shivaji
 
  **दमयंती तो महा आश्चर्य लाग्युं अने भ्रान्ति पड़ी के आ ते स्वप्न के साचुं\। एवाअनेक विचार करती चालेछे एवामांएक अशोक वृक्ष दीठो त्यां दीन दमयंती आवीनेकहेछे के ओ प्रिपदर्शन अशोक तारा नामनो महिमा राखी मारा शोकनोनाश करीसत्यनामी था। पण कोण उत्तर आये।**
 
+                                   
    (From Mr. Mansukharāma‛s Nala-Damayantī)
 
  Damayanti felt greatly astonished and was in doubt whetherit was a reality or a dream. While moving on, engaged in varioussuch thoughts, sho saw an Aśoka tree. Going there she said "Olovely Aśoka, having regard to the greatness of thy name, destroymy *Śoka*(sorrow) and deserve that name." But who wouldanswer?
@@ -13236,13 +13290,19 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 ** के** of**केली**, from Pr **कअ** or **कय**, Skr. **कृत**, **ल** being a termination oftenused in the Prakrits.
 
+ 
+
 **ओ**, Pr, **जअ** or **जय**, Skr. **यकत्**, **क** being a suffix used in the Prakrits generally, and sometimes in Sanskrit also.
+
+ 
 
 **तुम्हि**,Apabhr. **तुम्हई**,Pr.**तुम्हे** or **तुम्हए**.Skr such a form as **तुष्मके**,by analogy, for **यूयम्**.
 
 ** आज**, Pr. **अज्ज** Skr.**अद्य**,
 
 ** जा** of **जातें**, Pr.**जा**, Skr. **या**.
+
+ 
 
 **फोही**,Pr.**कोभी**:Skr.कोभिः.
 
@@ -13298,6 +13358,8 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 
 ** एवो** sing of **एवा**, Apabhr. **एहु** or **एहउ** and **अइसो** Pr.**इदिसो**, Skr.**ईदृश**.
 
+ 
+
 **कर** as in No. I.
 
 ** चाल**, Pr. **चल**, Skr. **चल**.
@@ -13333,6 +13395,8 @@ about the mountain (Govardhana) to present one or two cowseach. And it was resol
 ** ना** of **नाले**, Pr. and Skr. **नाम**, **ल** being suffix.
 
 ** हो**, Apsbhr. **हुअउ**, Pr. **हुअओ**, Skr. **भूतः** ( **भूतकः**).
+
+ 
 
 **तर्हि**of **तर्हिजे**, Pr. **तेसिं**, Skr. **तेषाम्**.
 
@@ -13406,6 +13470,8 @@ and
 
 II\.
 
+ 
+
 हु
 
 of
@@ -13415,6 +13481,8 @@ of
 ,as in No
 
 I.
+
+ 
 
 जां
 
@@ -13463,6 +13531,8 @@ and
 .
 
  **हाथ**, Pr. **हत्थ**, Skr. **हस्त**.
+
+ 
 
 **किय** of **किये**, Pr. **किअ**, **कृत**.
 
@@ -13523,6 +13593,8 @@ and
 ** किय** as in No. V.
 
 ** जो**, Pr. **जओ**, Skr. **यकः** *i.e* **य** with the suffix **क** or **अक**.
+
+ 
 
 **हो** of **होय**or **होइ**, as in No.**I.**
 
@@ -13640,6 +13712,8 @@ VI,
 
 ** माशा**, Pr. **मसअ**, Skr, **मशक**.
 
+ 
+
 **बस** of **बसि**, as in No. VII.
 
 ** आपणा**, Pr. **अप्पण**, Skr. **आत्मन्** as in **आत्मना** &०.
@@ -13667,6 +13741,8 @@ VI,
 ** जे**as in No. I.
 
 ** ए,**Apabhr. **एह**, Pr. **एह**, Skr.**एष**, as **इह** in No. IV, and **यह** in No. VI.
+
+ 
 
 You will find that in the Marathi passage there are about 58 different words of which 26 or a few less than a half are derived from the Sanskrit through the Prakrits; in the Gujarati there are 42 out of which 23 or a few more than a half are of the latter description; in the Sindhi the proportion is 38 to 21, or somewhat greater than a half; in the Panjabi 44 to 23 or a half; in the High
 
@@ -13996,6 +14072,8 @@ Skr. **ताम्बूल** betel leaf, Pr. **तम्बोल,** H. P. **�
 
  O, **भोक** hunger, for the **भूक** or **भूख** of the others.
 
+ 
+
 Of the few instances in which **इ** is softened to **अ** in the Prakrits, the vernaculars have retained **हलद्वा** in the M. G **हलद**, H. **हलदी**, 0. **हलदी** and P. **हलहदी** or **हलदी**. Though प**डंसुआ** does not occur, still **पडा** which stands for **प्रति** a in this word is preserved in several words, as M. **पडसाद** ,'echo' for Skr. **प्रतिशब्द, पडजीभ**, 'the uvula' for Skr. **प्रतिजिह्वा,, पडछाया** Or **पडसावली**, H. **परछाई** for Skr. **प्रतिच्छाया** &o. No more instances of this change are given by the grammarians, but, as observed in the last lecture, the substitution of **अ** for **इ** or **उ** in one of the two or more places in which it occurs in some words indicates a tendency in the Prakrits towards this change. The vernaculars have got more instances.Thus:—
 
 \[Table 10: इ changed to अ\]
@@ -14008,6 +14086,8 @@ Skr.**परीक्षा** pr. **परिक्खा**; also the verb **प
 ** **M. H. G. **विखरणे-ना-वुं**. P. **विक्खरना** to scatter, Skr. **बिष्किर**, Pr. **विक्खिर** (S. **विखेरणुं** ).
 
  H.**बहलाना** to divert, amuse, Skr. **विहर**.
+
+ 
 
 H. **भभूत** holy ashes, Skr **विभूति**.
 
@@ -14078,6 +14158,8 @@ for **कयलं** . Skr. **कदलम्** .
 ** **M. **ओणवा** bent, Pr. **ओणअ**, Skr. **अवनत**.
 
  M. G. **ओलंबा** plumb, Pr. **ओलम्बअ** Skr. **अवलम्बकः**.
+
+ 
 
 M. **बोर** jujube fruit Pr. **बो**र for **बवर** or **बअर**, Skr. **बदर**.
 
@@ -14154,6 +14236,8 @@ M. **बोर** jujube fruit Pr. **बो**र for **बवर** or **बअर
  Skr. **धबल** white, Pr. **धवल**, H. P. **धौला**, M. **धवला**.
 
  Skr. **नवशिक्षित** newly learned, Pr. **नवसिक्खिअ**, H.**नौसिख**, M.**नोशिका** or **नवाशिका**.
+
+ 
 
 Skr **भवन** a dwelling, Pr. **भवण**, H. **भौन** P. **भौण**.
 
@@ -14344,6 +14428,8 @@ Similarly, though a few Sanskrit words containing **ऐ** and **ओ** do occur i
 
  M. **ओपणें** to give over, sssign, Pr. **ओप्प**, Skr. **अर्प**.
 
+ 
+
 There are a few modern instances as in:—
 
 \[Table 28: the Assimilation of vowels\]
@@ -14451,6 +14537,8 @@ syllable being dropped in virtue of a general law to be presently noticed in the
  M. **हिरवा**green from Skr. **हरित** or **हरितक**.
 
  M. **चोंच** a beak, M. (dial.) and B. **टोंच**, Skr.**चंचु**.
+
+ 
 
 Of the Prakrit words with a syllable lengthened or shortened through the influence of an accent of some sort, the vernaculars have preserved a few words. Thus:—
 
@@ -14560,6 +14648,8 @@ to the modern languages from the spoken dialects af ancient times, have also bee
  M. G. B. O.**हाड**, H. **हाड, हड्डु** or **हड्डी**, P. **हड्डु**, or **हड्डी**,S. **हडु**, or **हडि**, Pr.**अड्डी**, Skr. **अस्थि**.
 
  M. **हत्तीण**, H. G. **हाथीन**, Pr. **हत्थनी** Skr. **हस्तिनी**.
+
+ 
 
 Here also the Sindhi preserves the old endings in some cases, and has dropped them in others. In this manner, the final **आ, इ, ई, उ** and
 **ऊ** of Sanskrit and Prakrit nouns have been dropped in the vernaculars or changed to a silent **अ**.
@@ -14699,15 +14789,23 @@ Thus:—
 
  M. **दलवी** for Pr. **दलवइ**, Skr **दलपति**.
 
+ 
+
 You will have seen that the Sanskrit nouns, composed of three or more syllables, given in Table 36, with **अ** at for their penultimate. vowel and **क**or any other similar syllable ending in for the final, have dropped one syllable and become nouns ending in **आ** in Marathi, Hindi, Panjabi, and Bengali, and in Oriya also in some cases, and in **ओ**in Gujarati, Sindhi, and in the dialects of the Marathi and Hindi spoken of above. Such of them as are neuter have acquired the ending **एं** or **आं**in Marathi and in **ऊं** in Gujarati.
 
  But these are not the only nouns with a final **आ**and **ओ**and **एं, आं**and **ऊं** in these languages. There are a good many more, both substantives and adjectives, which have these endings. In the Brajabhāṣa also a great many adjectives, nominal and verbal, end in **ओ**or **औ**. The Sanskrit words from which they are derived. are not composed of three syllables, with **क** or another syllable like it preceded by an **अ**, as the final. Thus the substantives H. M. **श्चेला** ‘adisciple', **पुडा**'a parcel', **काढा** ' a decoction, and the adjectives H. **नीला**,M. **निला**'blue' H. **पीला**, M.**पिलला** ’yellow', and past participles, H. **गया** 'gone', **मुवा**'dead', M.**गेला, मेला**&c., and the corresponding Gujarati, **चेलो, पुढो, काढो, नीलो, पीलो, गयो** and **मुवो**,are
 
 derived from the Sanskrit **चेटः, पुटः, क्वाथः,नीलः, पीतलः**, &c. Similarly such neuter nouns as M. **केलें**(dial.**केलां**), G.**केलुं**M. (dial. **सोनां**), G.**सोनूं** are derived from the Skr. **कदलम्**and **सुवर्णम्**. How then did they get their **आ** and **ओ**and **आं, एं** and **ऊं** ?
 
+ 
+
 A great many nouns in our languages end in , which has now become silent; and these, as I have explained, are derived from the Sanskrit nouns ending in **अ**, the nominative termination being, because it was unaccented, at first reduced to**उ** and afterwards dropped in most of them, but preserved in Sindhi. By that same law of accentuation which brought about the elision of this **ओ**, we have seen, that nouns ending in **क** or such othersyllable preceded by **अ**come to have **आ-ओ** and **एं-आं-ऊं** for their final. By an obvious inference, therefore, those other substantives and adjectives also must have got **कः**or **कम्** in the Prakrits and the Apabhraṁśa in the forms of **ओ** or **अं**and **उ**or **उं**, though in Sanskrit they do not possess them.
 
+ 
+
 The suffix **क**, though actually found in certain words only in Sanskrit, must have been largely used in the spoken language of ancient times, since Pāṇini and his expositors allow of its being appended to all nouns and even verbs and participles, to indicate [littleness](http://# "Pāṇini, V. 3. 85, 86; V. 4. 4."), [contempt](http://# "Pāṇini, V. 3. 74, 75,"), [tenderness](http://# "Pāṇini, V.3. 76, 77."), the state of being [unknown](http://# "Pāṇini, V. 3. 73."), resemblance or [copy](http://# "Pāṇini, V. 3. 96, 97."), and a [species](http://# "Pāṇini, V. 3. 75, 87, 97.") founded on some of theseparticularities. Words formed by the addition of such a suffix in such senses cannot, of course, be much used in literary works. They are adapted for colloquial purposes, such as our Marathi Pāṇinifor Rama and Pāṇinifor Govinda are.
+
+ 
 
 Accordingly, in the Prakrits and Apabhraṃśa, which were derived from the spoken languages, we find the practice of adding the suffix to be very common. Thus in the fourth act of the Vikramorvaśīwe have Pāṇinifor Pāṇiniformed from the analogy of Pāṇini but properly Pāṇini for Pāṇini
 
@@ -14789,9 +14887,13 @@ pronounced as
 
  So also **अङ्गुष्ठकः** is **आंग्ठा**, and **श्वशुरकः,** **साम्रा** the penultimate **उ** being dropped.
 
+ 
+
 When the final is unaccented, it is the penultimate that is emphasized, but when it is accented, the penultimate is slurred over. Thus the accentuation of the penultimate leads to the elision of the final vowel, and the accentuation of the final brings about an elision or shortening of the penultimate.
 
 **ACCENT IN HINDI**
+
+ 
 
 In Hindi also the accent leads to the elision of the **अ**of the previous syllable when more than one precede the accented syllable. Thus **उबटन**‘a cosmetic’ is pronounced is pronounced as **उबटन**, **सूरखपन**as**मूरख्पन** as**मूरखपन** as **मूरख्प॑न, उबटना***inf.* 'to rub the body with a cosmetic’, as **उबट्ना करना**as **कर् ना**. The Braj present participle **करत** is pronounced as **कर॑त्** since one syllable only precedes the accented penultimate; but the Hindi **करता**is **कर् ता**as two syllables precede the accented **ता**. The accent leads to the shortening of the preceding vowels in some cases. Thus **गोपाल** 'cowherd,' and **पाताल** 'the lower regions,’ are sometimes pronounced and written as **गुपाल** and **पताल**;so does **आसिष्**become **आसीस**. In such words as **उपज**'produce,’ **उसास**'respiration,’ and **उबटन** ‘a cosmetic’, from the Pr. **उप्पज्ज, उस्सास,** and **उब्बट्टण**, Skr. **उत्पद्य**, **उच्छ्वास**, and **उद्वर्तन**, it prevents the lengthening of the initial **उ**, as by the general rule it should be long, since one member of the following double consonant is dropped. The
 
@@ -14816,23 +14918,33 @@ derived socent also shortens the preceding vowels in such instances as the follo
 
 **EXCEPTIONS TO THE ABOVE.**
 
+ 
+
 But in a great many cases the accent does not affect the preceding close vowels. The Sanskrit words **सूतक, पीतल,** &c., the first syllable of which is shortened in Marathi, retain it long in the Hindi. The words **उपज,उपजना, उसास,** and othershave their initial vowel optionally lengthened, and in a few cases, such as **ऊपर** and **ऊखल**, it is lengthened without any apparent reason. Similarly, the Hindi forms of **कीटक**and the other words in Table 6 retain the long vowel. It has also **बीडी, जूही**and **सूजी** as in Table 35, and **नीला**'blue', **पीला**‘yellow’, **सी**खा, learnt', **मीठा**'sweet', **पूछा**'asked', **मूआ** 'dead', **सीखना**'to learn, **पूछना**‘to ask', **दूसरा** &c., while in all these cases the Marathi has short **इ** and **उ**. Perhaps, this weakening of the accent as regards previous **ई** and **ऊ** is due to the development of another accentin Hindi on the initial syllable. To such an accent as this might be attributed the almost universal change of **अय**and **अव** to **ऐ** and **औ**that we have already noticed. The **अ**of the initial syllable, being accented, draws to itself the **य**or **व**of the following and
 
 deprives it of its **अ**, in which cases the **य**or **व** becomes **इ** or **उ**, and then the two form **ऐ** and **औ**.
 
 **THE ACCENT IN GUJARATI**
 
+ 
+
 The Gujarati follows the Hindi completely, sometimes shortening the preceding vowels as in **कुवो, सुवो**, and **कुमलो** 'delicate', 'tender', and dropping it as in **सस्रो** 'father-in-law', (Skr.**श्वशुरकः**) and**आङ्गुली** 'finger' (Skr. **अङ्गुलिका**), sometimes preventing their being lengthened, as in **उपज, उठघुं**, &c., and very often preserving them long as in **पूरो** 'full', **शीक्वुं, शीक्यो**, &c.
 
 **THE ACCENT IN PANJABI**
+
+ 
 
 The Panjabi also keeps the short vowel in such cases as **उचार** 'utterance', **उजाला** 'light', though a member of a double is droppedand preserves the long in such casesas **दीया** or **दीवा**, **जुआ, कीडा, पूरा, पूरी** ‘a cake', &c. It has even fewer instances of shortening than the Hindi.
 
 **THE ACCENT IN SINDHI**
 
+ 
+
 The Sindhi has **जुआ**'gambling', **डिओ**'a lamp,' **पितल**&c., but has such words as **मूतक**, 'mourning', **कीडो** 'a worm', **वीडो** 'a roll of betel leaves, (Skr. **वीटकः**), **पीतो**'drunk', &c. In a great many words such as **सुको**'dried', **वुधो**'heard', **छुतो**'touched', **दुधो**'milked', the vowel of the preceding syllable is short; but that is due not to the accent on the last syllable but to the peculiarity of the Sindhi not to lengthen the preceding vowels even when a member of a double is dropped.
 
 **THE ACCENT IN BENGALI AND ORIYA**
+
+ 
 
 The Bengali is more like the Marathi in this respect than the Hindi. Thus we have **भितर**, H. **भीतर** 'in the interior’, **शुका** dry, H. **भूका; भिजा** or **भिगा** 'wet’, H. **भीजा** or **भीगा; किडा** 'a worm', H.**कीडा; जुता** 'shoes', H.**जूता; खिला**'a nail', H. **कीला, उपजन** 'to be produced, &c. It thus shortens **इ** and **उ** in the unaccented syllables like the Marathi.
 
@@ -14840,9 +14952,13 @@ The Bengali is more like the Marathi in this respect than the Hindi. Thus we hav
 
 **THE ACCENT ON VERNACULAR TERMINATIONS**
 
+ 
+
 In Marathi the termination of the oblique form of cases and that of the plural of neuter nouns in **ए** are also accented. The reasonwhy they bear the accent will be considered hereafter. The accent on the causal termination, in consequence of which the preceding vowels are shortened in the Hindi and the Gujarati, has already been mentioned. This also seems to be the same accent that we have been considering. Thus in G. **शिवडाव**'make him sew, or **धोवडाव** 'make him wash', the **आ**being penultimate bears the accent and the final **अ**is dropped. Similarly in **धोवडाववुं**by the general rule, the final vowel being accented the penultimate **अ** is silent. It is because it is so, and the **ववुं**forms the conjunct**व्वुं**, that the **आ**looks as if emphasized just as the first **अ**of **अड्चण** and **कर् ता** is. In the Marathi and other dialectsalso, there is this accent in the case of the causal, and the preceding **ई** and **ऊ** are shortened; as in **निज्॑व्** 'make him sleep', **निजव्णें**'to make one sleep', from the original **नीज** 'sleep', in **करीव्**cause him to do **करिव्णें**or**करव्णें** ’to cause one to do', &c. In the standard Hindi the **व** is dropped, but still the way of pronunciation remains the same as it was when it existed. In **दिखाना**'to show,'for instance, the **खा** is pronounced as it would have been if the word had been **दिखावना**. And the forms with **व** exist in the Braj.
 
 **ACCENT IN VERNACULAR COMPOUNDS**
+
+ 
 
 Compounds in the vernaculars, most of which belong to the Tatpuruṣa, Karmadhāraya, or Dvandva class have an accent on the penultimate or final of the last word, as in the H. **पन् सा॑ल** 'a place where water is provided for passengers', in which the first word**पानी**becomes **पन्**, **अमरा॑ई**a forest of mango-trees', in which the **आ**of **आम**is shortened, **घुडसा॑ल** 'a stable', in which we have **घुड**for **घोडा, रन् वास** 'harem', the **रन्** of which is a shortened form of रानी, and in the G. **अधमुई**'half dead’, and the M. **अधम॑ण**’half a maund’.In the Marathi **आम्ररा॑इ,** **रानमाणू॑स,कालमांज॑र**, the **आ** of the first syllable is short though not changed to **अ**; and in **तिर्कांबटे**'an arrow and bow', the first word is **तीर्**with the **ई** shortened.
 
@@ -14873,6 +14989,8 @@ Compounds in the vernaculars, most of which belong to the Tatpuruṣa, Karmadhā
  Of the two instances of this change in the Prakrits **लावू** a 'pumpkin' exists in Hindi, and **रण्ण**in the form of **रान** in M. and P. and of **रन** in H. Medial **ऐ** is dropped in Marathi, Bengall, and Oriya in the word **बैस**, and others enumerated before. It is dropped in the G. **माशी**for H. **मौसी**(see p. 391). This elision does not appear to be due to accent since according to our theory it must fall on the **ऐ**in some at least of the cases. The change is due to the process of softening, sitice what takes place here is the simple dropping away of the close element of the diphthong.
 
 **THE AVOIDING OF THE HIATUS IN THE VERNACULARS**
+
+ 
 
 We will now briefly notice the manner in which the hiatus caused by two vowels coming together in consequence of the olision of uninitial consonants in the Prakrits is avoided. We have seen that **अ**and **इ** and **अ**and **उ** are combined into **ऐ** and **औ**in some of the dialects, and into **ए** and **ओ**in [others](http://# "Pp. 400-406."). Final unacdented **अ**and **आ**are dropped when preceded by **इ** or **उ** as in the words given in Table No. 35, and unaccented **उ** preceded by **अ**is dropped in some of the vernaculars, as in Table No. 36, and combined into **ओ**or **उ** in [others](http://# "See P. 418."). Final **इ** is preserved or changed to **य**after **अ**in some cases, and combined with it to form **ई**[others](http://# "P. 419.").
 
@@ -14953,6 +15071,8 @@ We will now briefly notice the manner in which the hiatus caused by two vowels c
  The long **आ**is preserved and changes the preceding **इ** to **इय** or **य**as in the H. **सियार** or **स्या**र 'jackal' for Pr. **सिआल**, Skr. **सुगाल**; **याह** 'marriage,’ for Pr.**विआह**, Skr.**विवाह**, &c.
 
 CONSONANTAL CHANGES IN THE VERNACULARS.
+
+ 
 
 We will now proceed to the consideration of consonantal changes; and first of those due to the process of softening. The semivowel **य्** is often softened to **इ**. In the Prakrits, **व्यजन**‘a fan' becomes **विअण** which is preserved in the H. **बेना** and **स्त्यान** is changed to for **थीण**. This word does not occur in the vernaculars, butthe Hindi and Marathi have got **थिजता**and **थिजणें** ‘to congeal' from the verb **स्त्यायते**, in which **या**is softenedto**इ**. From **व्यजन**, or rather such a word as **व्यंजन**, we have by a similar softening M. **विंजणा**, H.**विंजना**, G.**विजणो**, S, **विञिणु**. More modern instances are:-
 
@@ -15091,6 +15211,8 @@ vowel; and the vernaculars have preserved the words so changed. For instance:-
 
  Skr. **कपाट** a door, M. **कवाड**, H. **किवाड**, G. **कमाड**.
 
+ 
+
 Skr. **कटु** bitter, M. **कडु**, G. **कडवुं**,H. **कडुवा**, 8. **कडो**.
 
  Skr **कटि** waist, M. **कड**, G. **केड**.
@@ -15103,7 +15225,11 @@ Skr. **शाटिका** a garment, M. G. **साडी** H. P. **साड़�
 
  Skr. **वटः** the Banyan tree, M. G.**वड**,H. P. **वड़**,S. **बडु**.
 
+ 
+
 Skr. **त्रोट** in **त्रोटपति** to snap **तोड** in M. **तोडणें**, G. **तोडवुं**H. P. **तोड़ना**S**.तोडणु**.
+
+ 
 
 Skr. **स्फोट** in **स्फोदयति** to break, **फोड** in M. **फोडणें**.
 
@@ -15113,11 +15239,15 @@ Skr. **स्फोट** in **स्फोदयति** to break, **फोड**
 
  Skr. **पटोल** a kind of cucumber, M. **पडवल**, H. **परवल**, G. **परवल**.
 
+ 
+
 Skr. **कीटक**: a worm, M. **किडा**, G. **किडो**, H. **कीडा**.
 
  The instances in which the cerebral **ट्** resulting from an original **त्** has been softened in the Prakrits to **ड्** have been preserved by the vernaculars. The following are some of these:-
 
 \[Table 52: ट्( from original त्) softened to ड्\]
+
+ 
 
 **पड**for Pr. **पडि**, Skr. **प्रति**, in such words as H. G. **पडोसी** & neighbour, M. **पडोशी**, Skr. **प्रतिवेशी**.
 
@@ -15217,6 +15347,8 @@ the two **ठ्** is dropped, and the preceding vowel lengthened according to a
 
 \[Table 57: ड् changed to ल्\]
 
+ 
+
 Skr. **तडाग** a tank, Pr.**तलाअ**, M. G.**तलाव**, H.**तलें**,H.**तलाव**, S. B.**तलाउ**.
 
  Skr. **दाडिम** pomegranate, Pr. **दालिम**, M. **डालिंब**, G. **दालम**, H. B. **डालिम** H. **दालिम**.
@@ -15281,6 +15413,8 @@ but there are a great many in the vernaculars, so that this appears to be a pecu
 
  What the origin is of the **ड्** of these forms, which is more primitive than the **ल्** and **र्** to which it was afterwards changed, will be considered in the next lecture.
 
+ 
+
 Another peculiarly vernacular process, of which Hemacandra gives only one instance, is the transformation of **न्** into **ल्**, in which **न्** is deprived of its nasal element and the complete contact of the vocal organs avoided. Thus:—
 
 \[Table 61 Skr. न् initial changed to ल् in vernaculars\]
@@ -15293,6 +15427,8 @@ Another peculiarly vernacular process, of which Hemacandra gives only one instan
 
 \[Table 62: Skr. initial ल् changed to न् in vernaculars\]
 
+ 
+
 M. G. **नांगर** a plough or anchor, P. **मङ्गलः** or **लाङ्गल**.
 
  M. **निढल**, S. **निराडु**, Pr. **निडाल** or **णडाल**, Skr. **ललाट** forehead.
@@ -15302,6 +15438,8 @@ M. G. **नांगर** a plough or anchor, P. **मङ्गलः** or **ल
  The sibilant **स्**, whether original or derived from the Sanskrit **ञ्**, or **स्**, is in a few cases changed to **ड्** in the Prakrits. For **दिवस** 'a day' we have **दिवह** or **दिअह**, for **पाषाण** 'a stone' **पहाण**, and for **दशन्** 'ten' **दह**. These words, so changed, have come down to the vernaculars, and are found in one or other of them. The various forms of the numerals having the word **दश** at the end have been given above. Of the other words G. has **दिह** 'a day' and **दिहाडो** with the suffix **डो**, P. **दिंह** and **दिहाडा़**, and S. **डि़ंहु** and **डिहाढो**; and S. **पहणउ** 'a stone'. The Sindhi and the Panjabi have given a wider range to this process, as will be seen from the following:—
 
 \[Table 63: म्, श् or ष् changed to ह in Vernaculars\]
+
+ 
 
 S. **बहु** or **बुहो** chaff, Skr. **बुस**, M. **भुसा**.
 
@@ -15319,6 +15457,8 @@ S. **बहु** or **बुहो** chaff, Skr. **बुस**, M. **भुस�
 
  P. स**हुरा**, S. **सहुरो**, Skr **श्वशुर**, M. **सासरा** father-in-law.
 
+ 
+
 P. **तिहा** thirst, Skr. **तृषा**.
 
  P. **फाहा** or **फाही**, S. **फाहो** or **फाही** & snare noose Skr. **पाश**, M. **फांस.**
@@ -15328,6 +15468,8 @@ P. **तिहा** thirst, Skr. **तृषा**.
  The change of **म** to **वं** seems to be an almost entirely later process of which there are scarcely any instances in the Prakrits. It is seen in full operation in the Apabhraṁśa.
 
 \[Table 64 Skr. म changed to व\]
+
+ 
 
 Skr. **नाम** name, M. **नांव**, H, **नाओं**, old H. **नाऊं**, also **नाम**, P. **नांउं**, S. **नांउं** also **नामु** and **नालो**.
 
@@ -15361,6 +15503,8 @@ Skr. **नाम** name, M. **नांव**, H, **नाओं**, old H. **न�
 
  Skr. **गमन***caus.* spending, wasting. H. **गंवाना**, P. **गवाउणा**, S. **गंवाइणु**, but M. **गमवणे**.
 
+ 
+
 Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. **भौंर** or **भौंरा**, S. **भौंरु**.
 
  Skr. **पञ्चम** fifth, M. **पांचवा**, H. **पांचवां**, P. **पंजवां**, &c., and other ordinals.
@@ -15387,9 +15531,13 @@ Skr, **भ्रमर** bee, H. **भंवरा** Or **भौंरा**, P. 
 |                    **सामलो** a dark-complexioned.                     |              **जमवुं** eating.              |
 |                         **जमाइ** son-in-law.                          |            **आमला** myrobalans.             |
 
+ 
+
 The reason why I consider this as a change of **वं** back to **म्** and not a preservation of the original Sanskrit and Prakrit **म्**, is that the Gujarati changes **व्** to **म्** in other cases where there is no question as to the **व्** (or **प्**) being the original sound. Thus:—
 
 \[Table 66: व् or प् changed to म् in Gujarati\]
+
+ 
 
 G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **कवाड**, Skr. **कपाट**.
 
@@ -15476,7 +15624,11 @@ G. **कमाड** a door, H. **किवाड**, M. **कवाड**, Pr. **�
 
  Skr. **क्षण**a festival, Pr. **छण**, M.**सण**.
 
+ 
+
 According to a general rule in Marathi, **म्** is changed to **श**when followed by the palatal vowel **इ**or**ए.** This change of **ल्** to **स्** in this dialect is to be accounted for by the fact that the vocal organs of the Marathas have a predilection for the dento-palatals, **च, छ, ज, झ**, to which the Sanskrit palatals are in almost all cases reduced by them, except when they are followed by **इ, ए,** or **य्**. The Sanskrit **छ्** therefore becoming the dento-palatal **छ्** passes into **म्** which differs from it only in the contact of the vocal organs being somewhat less incomplete. The only instances in the Prakrits in which the change appears to be the same as that we have been considering are **ऊसवो** for **उच्छवो** and **ऊसुओ**for **ऊच्छओ**.
+
+ 
 
 I have already given instances of the many words with their uninitial consonants dropped which the vernaculars have inherited from the Prakrits, and shown what further changes they have undergone. This process of elision has not been continuedby any of the vernaculars unless we consider the disappearance of uninitial **व्** (which is very general in Hindi, Sindhi, and Bengali) to be an instance of the process.
 
@@ -15506,6 +15658,8 @@ I have already given instances of the many words with their uninitial consonants
 
  H, **ता-\[ना\]**, S. **ताइ-\[णु\]** to heat, Pr. **ताव**, Skr. **ताप**, M. **ताव-\[णें**\].
 
+ 
+
 H. **दुआर**, B. **दोयार** door, Pr. **दुवार** or **दुआर** Skr. **द्वार**.
 
  B. **दुइ**two, Pr.**दुवे**, Skr. **द्वौ**.
@@ -15516,17 +15670,27 @@ H. **दुआर**, B. **दोयार** door, Pr. **दुवार** or **�
 
 **THE OF THE CAUSAL TERMINATIONS IN THE VERNACULARS**.
 
+ 
+
 This elision of **व्** appears also in the Hindi causal forms such as**उठाना, चलाना**, **जलाना**, in which the **आ** only of the Prakrit or Marathi termination **आव**or **अव** is retained. The whole termination appears in the Braj and other dialects and in old books, sometimes in the form of **औ**.
 
+ 
+
 The Sindhi causal termination is **आइ**as in **बधाइणु** 'to cause toincrease.’The **इ** here as well as in some of the Sindhi words given above represents the य which according to the Prakrit rule, takes the place of the dropped **व**, and is, as shown before, changed to **ए** in the other vernaculars. The Sindhi **इ** is a shortened form of this **ए**. The termination **आइ**appears sometimes in its more original form of **आअ** as in **वठाअणु** 'to cause to take.’
+
+ 
 
 The Bengali too forms its causal by adding **आइ**as in **धराइतेछे**’is causing to be held,’ but the **इ** here seems to be an euphonic addition, which even in their primitive form the verbs take, as in **धरितेछे**‘isholding,’ so that the **व्** is here dropped and the vowel **अ**combined with the preceding as in the Hindi. In the speech of the Maratha lower classes of Southern Konkan **व्** is very often elided, and the causal termination of the Savantvadi dialect is **अय**, as in **करय** 'cause to do, which corresponds to the Sindhi **कराइ-\[णु\]**.
 
 \[Table 69 A : of म् dropped in the Vernaculars \]
 
+ 
+
 There are instances also in which the **व्** resulting from **म्**is elided:—
 
  H. **कुअंर** 'a boy,’‘a prince,’ Pr.**कुमर**, Skr. **कुमार; बायां** 'left-hand-side, Pr. **वामअ**, Skr. **वामकः**, **धुआं** ‘smoke,’ Pr. **धूमअ**, Skr. **धूमक**;**अचाना**; ‘to rinse the mouth,’ Pr. Skr. **आचम**; or **बेराना**' ‘tomock’,Skr. **विडम्ब; भुई** ‘ground,’ Skr.B.
+
+ 
 
 There are traces of this change in other dialects too, as in the Oriya **वां** for **वाम** ‘left,’ Gujarati **भांय = भूंई**, S. **भुइं**,Skr. **भूमि**, and the Marathi**भुंई** and the termination **ईं** of the locative, which is to be traced to the Pr. **म्मि**, Skr. **स्मिन्**. In all these instances we may regard **म्** as directly elided, and not the **व्** resulting from it. Hemacandra notices a few instances of the process in the Prakrits.
 
@@ -15552,6 +15716,8 @@ There are traces of this change in other dialects too, as in the Oriya **वा�
 
 \[Table 71 : Verna. ह् for Skr. घ\]
 
+ 
+
 Skr. **मेघ** rain, Pr. **मेह**, G. H. **मेह**, S. **मेहु**.
 
  Skr. **श्लाघ्**to praise, Pr, **सलाह**, H. **सराह-(ना)**.
@@ -15566,11 +15732,15 @@ Skr. **मेघ** rain, Pr. **मेह**, G. H. **मेह**, S. **मेह�
 
  M. **माहेर**, G. **महीरुं** & woman's mother's house, Pr. **माइघर** or **माइहर,** Skr. **मातृगृह**.
 
+ 
+
 G. **भौयार**, M. **भुंयार**, H. **भूंयारा** collar, Skr. **भूमिगृह**.
 
  G. **देहरुं**, M. **देव्हारा**, H. **देहरा, दिहरा** an idol-chamber, Skr.. **देवगृह**.
 
 **\[Table 72: Vernacular हfor Skr. ध\]**
+
+ 
 
 Skr. **नाथ**alord, Pr, **नाह**, old M. & H. **नाह**.
 
@@ -15592,6 +15762,8 @@ Skr. **नाथ**alord, Pr, **नाह**, old M. & H. **नाह**.
 
 \[Table 73 : Vernacular हfor Skr. ध\]
 
+ 
+
 Skr. **बधिरकः** deaf, Pr, **बहिरओ**, H. M. O. **बहिरा,** G. **बेहरो**.
 
  Skr. **दधि** curds Pr. **दहि**, H. M. G.P. O. **दहिं** S. **ड़हि**.
@@ -15608,6 +15780,8 @@ Skr. **बधिरकः** deaf, Pr, **बहिरओ**, H. M. O. **बहि�
 
 \[Table 74: Vernacular ह for Skr. भ\]
 
+ 
+
 Skr. **प्रभा** or **प्रभात** light, dawn, Pr, **पहा, पहांअ, पहाद**, H. **पह** or **पोह**, G. **पोह**, M. **पहाट**. The S. **पिरिह**must be a later form. From the same root with the prepositions **वि** and **सु** we have H. **विहान** morning, S . **सुहाउ** light, &c.
 
  Skr. **शुभ** to become to adorn, Pr. **सुह**, H. **सोह- \[ना\]**. S. **सुह-\[णु\]**
@@ -15616,19 +15790,29 @@ Skr. **प्रभा** or **प्रभात** light, dawn, Pr, **पहा,
 
  Similarly, H. **पहिचान** ‘recognise’ is from Skr. **प्रत्यभिजाना**, the consonants interchanging places; G. **वहालो** or **वाल्हो**‘dear’ from Skr. **वल्लभःसेहलो** 'easy’ from **सलभ; वेहच - \[वुं\]** to ‘distribute or divide' from **विभज्** &c.
 
+ 
+
 The existence of many such words as M. H. P. **उपाध**'injury,'H. P. **साध**‘a good man,' M. G. H. P. **मध** 'honey, H. G**लिख,लख** 'to write,' M. G. H. **नख**‘nail,’ S. **सुभाणे**'in the morning’ shows that the popular speech of Northern India has now for a long time ceased to have recourse to this process of dropping the mute element of the aspirates of the Sanskrit words, adopted from time to time from the parent language. Still, however, a few laterinstances, such as S. **पिरिह** ‘dawn,’ H. G. **माह**‘middle’ from **माध**and **मध्य**, and some of the compounds of घर noticed above show that it has not been entirely absent.
 
+ 
+
 The elision of simple mutes and of the mute element of aspirates is a natural phenomenon which one always meets with in the course of lingual development; but its operation is generally slow and it is only in consequence of its systematic occurrence. in the Prakrits that I have attributed it to an ethnological cause and have supposed that the Prakrit speakers belonged to another race than those who spoke Sanskrit and, being unused to Sanskrit sounds, caught only the initial consonants from their Sanskrit teachers and dropped the rest or the mute portion of the rest. When, however, in the course of time they became used to those sounds and the Sanskrit and Prakrit speaking races became united into one community, they ceased to be so dropped, except through the slow and gradual operation of the usual phonetiol laws; and hence it is that in modern times we find Sanskrit words, not shorn of their elements in the manner in which they were in ancient times, as indicated above.
+
+ 
 
 This elision, though it involves economy and is a natural process, constitutes a peculiarity of the Prakrits in so far as it is duel to peculiar historical incidents. We will now notice the peculiarities which do not involve economy and must be attributed to vocal predilections. Of the words in which a Sanskrit dental is changed to a cerebral in the Prakrits the vernaculars have preserved the following:—
 
 \[Table 75: Skr. Dentals changed to Cerebrals in Vernaculars\]
+
+ 
 
 Skr. **बिभीतक**myrobalan,Pr.**बहेडाओ**,M. **बेहडा**, &c. as in table 8.
 
  Skr. **पत**to fall, Pr, **पड,** M. G.H. **पड- \[णे-वुं-ना\].**
 
  Skr. **दंश**to bite, Pr. **डस**, M. H. P. G. **डस- \[णें-ना-णा-वुं\]**. From this H. E. G. **डांस**, O. **डाआंश**a mosquito, Skr. **दंश**.
+
+ 
 
 Skr. **दंश** to stick, Pr. **डक्क** (past part.), M. G.**डक
 -\[णें-वुं\] .**
@@ -15725,9 +15909,13 @@ S, **टुंठो**satisfied, Skr. **तुष्ट-\[कः\]**.
 
  H. M. **पवादा**, S. G. **पबाडो** a narrative, Skr. **प्रवाद-\[कः\]**.
 
+ 
+
 Even here the Sindhi has more instances than the others:—
 
 **\[Table 79 the same change in Sindhi\]**
+
+ 
 
 **पुटु**a son, Skr. **पुत्र**, M. **पूत**.
 
@@ -15736,6 +15924,8 @@ Even here the Sindhi has more instances than the others:—
  **निंड़**sleep, Skr. **निद्रा**, H. **नींद**.
 
  **टामो**copper Skr. **ताम्र**, H. **तांबे**, &c.
+
+ 
 
 Uninitial is changed to **ण्** in the Prakrits invariably, but when it is the beginning of a word is undergoes that change or optionally. In the vernaculars the initial remains unchanged, but when medial it becomes mostly in the Marathi, Gujarati, Sindhi, and Panjabi.
 
@@ -15780,6 +15970,8 @@ M.**नीज**,H, **नींद**,S.**निंद**sleep, Skr. **निद्
 
  P. S. G. **जण \[णा-णु-वुं\]** Skr. (causal) to give birth to, to produce.
 
+ 
+
 G.**लुण**, S.**लूण**, P.**लूण**, M. **लोण** (**सेंधेलोण**), Skr. **लवण**salt.
 
   P. M. G. **आपण**, S. **पाण**, Pr. **अप्पाण**, Skr. **आत्मान** one's self.
@@ -15788,9 +15980,13 @@ G.**लुण**, S.**लूण**, P.**लूण**, M. **लोण** (**सें
 
   M. **नणंद**, &c., as above.
 
+ 
+
 There are a few instances in which we have the original**न्** in the body of a word, as in M. G. P. **मन**,S.**मनु**, Skr. **मनः** 'mind,’G. **वानुं**'promise', for Skr.**वचन**, and G. **बेन**,as above. But the general in the rule seems to be that these four dialects have a medial **न्** place of the double **ण्** of the Prakrits, resulting from a Sanskrit conjunct of which **न्** is a member. Thus:—
 
 \[Table 82 Prk. णchanged to न् in the vernaculars\]
+
+ 
 
 Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
 
@@ -15814,6 +16010,8 @@ Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
 
  But even here in Marathi, the purely Deshastha Brahmans living in the eastern part of the Deccan or Mahārāṣṭra pronounce the **न्**as **ण्**; and the ordinary **रान, कान, पान, विनंति**, &c., of that dialect become in their mouths **राण, काण, पाण, विणंति**, &c. They have, therefore, preserved in its integrity the old habit of the Prakrit speakers to pronounce the **न्** as **ण्** throughout. On the other hand, the lower class of the Konkani population preserve the Paiśacipeculiarty of reducing **ण्** in all cases to **न्** and pronounce of, **पाणी, वाणी,कोण**, &c, as **पानी, वानी, कोन**, &c, and this peculiarity we find in its fulness in the Hindi, and next to it in the Bengali. Thus the words with a **ण्** in them in the Marathi, Gujarati, Sindhi and Panjabi, given above, have the following forms in Hindi:—
 
+ 
+
 **मानूस, दिसना, जन, कहानी, पानी, जानना, कौन, बहिन**,or**बैन, कठिन, जनना, लून** or **नून,अपना, टानना** or **तानना, ननद** or**ननदी**.
 
  And such of these words as are in use in the Bengali have the following:—
@@ -15823,6 +16021,8 @@ Skr. **अरण्य**, Pr. **रण्ण**, M. G. **रान** wilderness.
  Other words, in some of which even in Sanskrit a **ण्** appears, are in the Hindi and Bengali thus:—
 
 \[Table 83: Original ण् preserved\]
+
+ 
 
 Skr. **ब्राह्मण**, H., **बम्हन**, or**बामन**,B.**बामुन**,but S.**बाभणु**, a Brahman.
 
@@ -15836,9 +16036,13 @@ Skr. **ब्राह्मण**, H., **बम्हन**, or**बामन**,B
 
  Still **ण्**does appear in Bengali books in a few words such as **काण**'ear', **लोण**, 'salt', &c. In the Hindi it seems to be entirely absent.
 
+ 
+
 In the principal Prakrit and the Śaurasenī, all the Sanskrit sibilants are reduced to **स्**. Sanskrit words, therefore, containing the palatal **श्**and the cerebral **ष्**, which in the Prakrits came to have the dental **स्** instead, have the last in the Hindi, Panjabi, Sindhi, Gujarati, and Marathi. But according to a law of Marathi pronunciation, this **स्**, when followed by the palatal vowel or semi-vowel **इ, ए,** or **य्**, is transformed into the palatal **श्**.The foregoing list of words contain many instances that provethese points. Thus:—
 
 \[Table 84 A: Skr. श् or ष् changed to स् in the Vernaculars\]
+
+ 
 
 Table 2. M. H. P. **दिस**, S. **डि़स**, Skr. **दृश्य**; H. **सियार**, Skr. **शृगाल**; G. H. **सींग**, P. **सिंग**, B. **सिङु**, Skr. **शृङ्ग**; H. P. **किस** Skr, **कृषिः** M. **पाउस**, H. **पावस**, Skr **प्रावष्**.
 
@@ -15848,19 +16052,27 @@ Table 2. M. H. P. **दिस**, S. **डि़स**, Skr. **दृश्य**; 
 
  Table 14. M. H. **बैस**, Skr. **उअपविश**; M. **ह्मैस**, H. **भैंस**, G.**भेंस**, Skr. **महिषी**.
 
+ 
+
 Table 24. H.**सेमल**, M.**सावरी**, Skr. **शाल्मली** ; Table 34. H. S. **साध**, Skr. **श्रद्धा**.
 
  Table 47. H. P. **परोस**, G. **पीरस**, Skr. **परिवेष**; Table 46. H **सलाई**,M. P. **सलई**, Skr. **शलाका**.
 
  Table 36. H. **साला**, P. M. **साला**, Skr. **श्यालक**;Table 63. M. **सांवला**, H. P. **सांवला**,&c., Skr. **श्यामलक** ;M. **विसावा**, &c., Skr. **विश्रा**म.
 
+ 
+
 Table 69. H. **सिहरा**, or **सेहरा** &c., Skr. **शेखर**; Table 73. H. **सोह**,S. **सुह**,Skr. **शुभ**; Table 74. P. H. M. G. **डांस**, Skr. **दंश** ;H. **सुन**,S.**सुण**,Skr. **शृण**as above. &c.
 
  H. **सीसो**, M. **शिसवा** G. **शिसम**, Skr **शिंशप** Table 65.
 
+ 
+
 Other instances are—
 
 \[Table 84 B: The same: श्or ष्changed to in the Vernaculars\]
+
+ 
 
 M. **साल**,H. **साल**,Skr. **शाला**‘a school' or 'an establishment.
 
@@ -15882,11 +16094,19 @@ M. **साल**,H. **साल**,Skr. **शाला**‘a school' or 'an estab
 
 \[Table 84 C: The Same More Modern Instances\]
 
+ 
+
 Even in words adopted later, and consequently treated somewhat differently, from the way in which they were treatedin the Prakrits, the Sanskrit **श्** and **ष्** are reduced to **स्**, as in the H. **तर्सना** 'to thirst,’ Skr. **तृष्** ; **परवेस** ‘entrance,’ Skr. **प्रवेश ; परसु** ‘ahatchet,’ Skr. **पर्शु ; निसपति**‘lord of the night,' 'the moon,' Skr. **निशापति**;S. **वंसु** ‘race,’ ‘descent,’ Skr. **वंश;वर्सणु**‘to rain,’ Skr. **वर्ष** ; **वसिकरणु** ‘to subdue,’ Skr. **वशीकरण** , P. **सोग** 'sorrow,’ Skr.**शोक; सांत** 'quietness,’ Skr. **शान्ति** ;**परमेसुर** 'God,’ Skr. **परमेश्वर**; H. **वरिस**, G. **वरस** 'a year,’ 'Skr, **वर्ष**; G, **वरसवुं** ‘to rain,’ Skr. **व**र्ष &c.
+
+ 
 
 The present speakers of the Hindi, the Panjabi, and the Sindhi retain therefore the vocal peculiarity of their Prakrit ancestors of pronouncing Sanskrit **ष्** and **श्** as **स्**.
 
+ 
+
 Of the words given above, the **सींग, सेमल, सीख** and **सेज** of the Hindi become **शिंग, शेवरी, शिक** and **शेज** in Marathi, because they are followed by a palatal vowel. Similarly, we have **शेण**‘cowdung’ Skr. **शकन्; शेगट** 'atree,’ Skr. **शिग्र ; शेवाल** 'moss,’ 'Skr. **शैवाल; शिडी** 'ladder,' Skr. **श्रेडी**, &c. Even the original **स्**of Sanskrit words is pronounced by the Marathas as **श्** under those conditions, as **शेंदूर** ‘red lead,’ Skr. **सिन्दूरः** ; **शिवणें** 'to sew,’ Skr. **सिव्** ;**माउशी**'mother's sister,’ Skr. **मातृष्वसा**, &c.
+
+ 
 
 Gujarati too shows the same tendency though it is not so decided; and we have thus **शिंग**‘a horn,’ **शिखवुं**'to learn' **सिववुं**‘to sew,’ **शिसम**‘blackwood,’ Skr. **शिंशप, शेज**,Skr. **शय्या** &c. But we have also such words as **शिंचवुं**'sprinkling,’ Skr. **सिंच, सिजववुं**'to boil,' **सिडी**‘ladder, &c. So that the Marathi rule does not seem to be strictly applicable to the Gujarati. Still the sound **श्**is as natural to the Gujaratis as to the Marathas, as is shown by such forms as **शुं**for **सुं**‘what?', **करशो**'do,’ &c., and in some provinces it is freely used for **स्**in many words.
 
@@ -15905,21 +16125,31 @@ Gujarati too shows the same tendency though it is not so decided; and we have th
 |  डांश   | डांसa mosquito. |   शेल    |           सालa dart.            |
 |   भईश   | भैंसa buffalo.  | दिवाशलाई |      दिपासलाई & fire-match.      |
 
+ 
+
 Bengali books and dictionaries contain a good many words, derived from the old Prakrits or recently adopted from Sanskrit, which contain **स्**in them. The object of the authors in these cases is to give the correct Prakrit or Sanskrit forms, and not to represent the correct Bengali pronunciation. But it is not necessary to hear a Bengali speak or read his language or even Sanskrit for a long time to arrive at the clear conviction that his vocal habits do not admit of the pronunciation of **स्** or, **ष्**,but only of **श्.**
 
 Sanskrit and Prakrit **स्** becomes **श्** in his mouth. Thus the Bengalis of the present day possess the same vocal characteristic that is attributed to their ancestors, the speakers of the Māgadhī, by the Prakrit grammarians.
 
 \[Table 85 A : श्changed to छ्in the vernaculars\]
 
+ 
+
 **श्** has a tendency to pass off into **छ्** as we observed in going over the Pali. For the Pali **छक** from the Skr. **शकृत्**‘cowdung," we have **छेणु** in S., **छाणा**in G., &, from **शकन्**, another form of the word; and for the Pali **छाप**, Skr. **शाव**‘the young of an elephant,’we have **छावा** in H. M. &c., the Pr. form being **छाव**. For the Skr. **शेव**the G. has **छेवट, छेडो**, and **छेल्लो**‘last,' 'end,’ with the suffixes. **ट, ड** and **ल** ; for Skr. **शल्ल**‘rind,’ H. has **छल्ली**, for Skr. **शण** ‘hemp,’ O. has **छण** ; for **मूत्रधार**'carpenter,’which is **सुतार**in the other dialects and must have been pronounced **शुतार**by the Bengalis, the B. has **छुतार**and O. also. Other instances may be found.
 
 \[Table 85 B : ष् changed to ख्in Hindi\]
 
+ 
+
 In Hindi Skr. **ष्**is often pronounced as **ख्** as in **भाख**for **भाष**, ‘spoken dialect', **पुरुख** for **पुरुष**, **भेख**for **वेष, विखम** for **विषम** &c. This is to be identified with the practice of the followers of the Mādhyaṁdina recension of the White Yajurveda who read the **ष्**occurring in their books throughout as **ख्**. But other dialects also have a few instances of this change, as **विख**P. M. G., **विखु**S. for Skr. **विष**.
+
+ 
 
 Of the Prakrit words in which a vowel or a mute is aspirated through the influence of an adjoining aspirate or an aspirated mute, the vernaculars have preserved the following :—
 
 \[Table 86: Mutes aspirated in the Prakrits and the Vernaculars\]
+
+ 
 
 Pr. **पनस**, M. G.**फणस**, Skr. **पनस**a Jacktree. The H. has also **फनस** but more commonly **पनस**.
 
@@ -15931,7 +16161,11 @@ Pr. **पनस**, M. G.**फणस**, Skr. **पनस**a Jacktree. The H. has 
 
 \[Table 87: Mutes aspirated in the Vernaculars\]
 
+ 
+
 M. **फरशी**, G. **फरसी**, H. **फरसा**, Skr. **परशु** an axe.
+
+ 
 
 M. G. **फांस**, H. **फांस-फांसा-फांसी**, P. **फाहा-फाही-फांसी**,P.**फासी-फाही**, S. **फांस-फांसी**, Skr. **पाश** a noose.
 
@@ -15959,19 +16193,29 @@ M. G. **फांस**, H. **फांस-फांसा-फांसी**, P. 
 
 **\[Table 86 A : Aspiration transferred\]**
 
+ 
+
 In some cases the aspirate sound is absorbed in the adjoining mute, and it ceases to exist as a separate component of a word. Thus, from the Pr. **पहुडि**, Skr. **प्रभृति**, we have the M. **पुढें**in **ह्** which the combines with **ड्**, and the M. *dial*. **फुडें**in which it combines with **प्**. In the same manner the Skr. **मेष**‘sheep' becomes, with the usual Apabhraṁśa suffix **ड**or **डअ, मेसडउ** or **मेहडउ**, which in M. and G. assumes the form of **मॆंढा**and **मॆंढा**, the **ह** combining with **ड**. and in H. and P., of **भेडा**, in which the being combined with the preceding **मे** destroys the nasal character of the sound. P. has **मेढा**also, and G. **भेडा**, and B. and O. **मेडा**as well as **भेडा**. By a similar absorption of the **ह्** sound and the reduction of the nasal to a mere Anusvāra, we have H. P. **भैंस**(masc. **भैंसा**), G. **भेंस**, B.**भंईश**, from Skr. **महिषी**‘a female buffalo,' and G. M. **भेल** from Pr. **मिस्स**, Skr. **मिश्र**with the suffix **ल**, through an intermediate form **मिहल** or **मेहल**. We have a more ancient instance of the process in the Pr. **संभर**for Skr. **संस्मर**, through the intermediate form **संम्हर**, which has been preserved by the G. in **सांभरवुं**'to remember 'or 'remind.’
+
+ 
 
 Sometimes a mute is aspirated without any appsrent resson in the Prakrits, and these instances have come down to some of the vernaculars : —
 
 \[Table 88 : Mutes aspirated\]
 
+ 
+
 Skr. **कुब्ज** humpbacked, Pr. **खुज्जो**, M. **खुजा**; but P. **कोझा**, H. **कुंजा**, B. **कुंजो**, O, **कुंजा**, S, **कुबो** ;M. **कुबड़ा** also.
+
+ 
 
 Skr. **कीलकः**a nail, Pr. **खीलओ**, M. **खिला**, G. **खिलो**, B.O. **खील** or **खिला**; the rest **कील**.
 
  Skr. **कर्पर** potsherd, an earthen cup, Pr. **खप्पर**, M. **खापर**, H. P. **खप्पर**, O. **खपरा** B. **खाबरा**.
 
  Later instances are:—
+
+ 
 
 P. **ग्वूहा**, S. **कूहा** a well, Skr. **कूपकः**.
 
@@ -15987,15 +16231,21 @@ P. **ग्वूहा**, S. **कूहा** a well, Skr. **कूपकः**.
 
 **हलू** 'slow' in M. Pr. **हलुअ**and Skr. **लघुक, हौला** in H. and P and **हलू** and **हलवे** in G.
 
+ 
+
 M. **सून** 'dsughter-in-law, Pr. **सुण्हा**, Skr. **स्नुषा**.
 
  M. **निडाल** 'forehead, Fr. **णडाल**, Skr. **ललाट**, &c.
 
  There are a good many more modern instances -
 
+ 
+
 H. **पहिचानना** to recognize Pr. **पच्चहिआण** Skr. **प्रत्यभिज्ञा-(जा) न**, P. **पछाणना**.
 
  H. **पहिरना** to dress, Pr. **परिहाण**, Skr. **परिधान** P. **पहिराउणा** to cause to dress. In both the last two syllables are assimilated and we have **पहिन्ना** also ; G. **परेवु**by the loss of **ह्**.
+
+ 
 
 G. **वहालुं**beloved, Pr. **वल्लह**, Sir, **वल्लभ**.
 
@@ -16003,7 +16253,11 @@ G. **वहालुं**beloved, Pr. **वल्लह**, Sir, **वल्ल�
 
  **बिलाडी** a cat, Skr. **बिडाल** ; **उथलपाथल** topsy-turvy, the M. form being **उलटापालट**, Pr. **उवलत्थ-ठ्ठ पल्लत्थ-ठ्ठ**. **उपर्यस्त पर्यस्त**.
 
+ 
+
 M. **शेपूट** or **शेपटी** tail, G. having **पूछडुं**or **पूछडी**, Skr. **पुच्छ**, with the suffix **ट**, the **छ्** being changed to **श्**by the usual Mrule and the palatal vowel being brought in by the palatal **श्**.
+
+ 
 
 M. **थोडकें**little, Pr.**थोक्क**, Skr.**स्तोक**, with the suffix **ड**.
 
@@ -16013,15 +16267,21 @@ M. **थोडकें**little, Pr.**थोक्क**, Skr.**स्तोक**
 
 TREATMENT OF SKR. CONJUNCTS IN THE VERNACULARS,
 
+ 
+
 We will now trace in the vernaculars the Sanskrit conjunct consonants assimilated in the Pali and the Prakrits, in the order I have observed in treating of them in the lecture on the Pali. And first I will give a few instances of those in which the second member being strong prevails over the first and is doubled.
 
 \[Table 90: Second Member of the Conjunct preserved and doubled\]
+
+ 
 
 Skr. **कर्म** act, business, Pr.**कम्म**, P. **कम्म**, S.**कमु**, H. G. M. O.**काम**.
 
  Skr. **घर्म**heat of the sun, Pr. **घम्म**, H.**घाम**, M. G. B. O. **घाम**in the sense of ‘sweat.’
 
  Skr. **चर्म** skin, leather, Pr.**चम्म**, P. **चम्म**, S. **चमु**, H. G. B. **चाम**, 0. **चम**, M. **चाम** in **चामडें**.
+
+ 
 
 Skr.**कार्य**, Pr.**कज्जं**, S. **काजु**, M. G. H. P. **काज**. The M. has, however, the dento-palatal **ज** here.
 
@@ -16030,6 +16290,8 @@ Skr.**कार्य**, Pr.**कज्जं**, S. **काजु**, M. G. H. P
  Skr. **पर्ण**a leaf, Pr. **पण्ण**, P.**पन्ना** (of a book), S. **पनु**, H. G. M. **पान**, G. **पानुं** (of a book ), P. S. O. **पान**in the sense of 'betel leaf.’
 
  Skr. **विज्ञप**to solicit, supplicate, Pr. **विण्णव**, H.G. M. **विनव-\[ना-वुं-णें\]**; H. also **विनौना**.
+
+ 
 
 Skr. **राज्ञी**a queen, Pr. **रण्णी**(?), G. P. S. M. B. O.**राणी**, H. **रानी**.
 
@@ -16089,6 +16351,8 @@ Skr. **राज्ञी**a queen, Pr. **रण्णी**(?), G. P. S. M. B. O
 
  Skr. **स्ना**to bathe, Pr. **ण्हा**or **नहा**, P. H. M.G. **न्हा- \[उणा-ना-णें-वुं\]** P. H. **नहा** also.
 
+ 
+
 Skr. **अङ्गुष्ठ**thumb, Pr. **अंगुठ्ठ**, P. **अंगूठ**, S, **आङूठो**, H. **अंगूठा**, G, **अंगूठो**, M. **आंगठा**.
 
  Skr. **विष्किर** to spread,Pr. **विक्खिर**, P. **विक्खरना**, S. **विखेरणु**, H. G. M. **विखर-\[ना-वुं-णें\]** to be scattered.
@@ -16109,6 +16373,8 @@ Skr. **अङ्गुष्ठ**thumb, Pr. **अंगुठ्ठ**, P. **अ�
 
 \(b\) Conjuncls of a dental and a heavy य्.
 
+ 
+
 Skr **सत्य** true, Pr, **सच्च**, P. H. **सच्च**, S. **सचु**, H. M. **साच**, G. **साचुं**,B. **सांचा**.
 
  Skr. **नृत्य** of **नृत्यति** to dance, Pr. **नच**, P. **नच** or **नच-\[णा\]**, S. **नच-\[णु\]**, H. M. G. **नाच-\[ना-णें-वुं\]**,B. O. **नाचिवा**.
@@ -16121,6 +16387,8 @@ Skr **सत्य** true, Pr, **सच्च**, P. H. **सच्च**, S. **�
 
  Skr. **उत्पद्य**of **उत्पद्यते** to be produced, Pr. **उप्पज्ज**, P. S. H. M. G. **पज-\[णा-णु-ना-णें-वुं\]**.
 
+ 
+
 Skr. **माद्य**of **माद्यति**to be intoxicated, Pr. **मज्ज**, M. **माजणें**.
 
  Skr. **विद्युत** lightning, Pr. **विज्जू**, M. G. **वीज**, P. **विज्ज**, S. **विजु**.
@@ -16130,6 +16398,8 @@ Skr. **माद्य**of **माद्यति**to be intoxicated, Pr. **म
  Skr. **स्विग**of **स्वराति** to sweat also to boil, Pr. **सिज्ज**, P. **सिज्जणा** to be soaked, S. **सिझणु**, H. **सिझना-सिजाना** (casual), M. **शिजणें**, G. **सिजवुं**, 0. **सिजिवा**.
 
  Skr. **वन्ध्या**abarren woman, Pr. **बंज्झा** Or **बंज्झा**, P. **वंझा**, S. **वांझ**, H.O. **वांझ**, G. **बांझ-\[णी\]**, M. **वांझ** or **वांज**, B, **बांझा**.
+
+ 
 
 Skr. **संध्या** evening, Pr. **संज्झा**, P.S. **संझा**, S. **सांझी**, H. **सांझ**, M.G, H. B. **सांज**, O. **संज**.
 
@@ -16143,6 +16413,8 @@ Skr. **संध्या** evening, Pr. **संज्झा**, P.S. **सं�
 
 \[Table 93 :व् as second member of a conjunct changed to प्प, ब्ब, ब्भ,च्च,ज्ज, ज्झ\]
 
+ 
+
 Skr. **त्व**abstract termination, Apabhr., **प्प**,H. **पा**as in **बुढापा**old age, **मोटापा** fatness, S **पो** as in **माण्हिपो**humanity, from **माण्डु**man.
 
  Skr. **त्वन** abstract terminstion, Pr. **त्तण**, Apabhr. **प्पण**, H. **पन** or **पना** as in **कुआरपन** celibacy; S. **पणु** or **पणो** as in **जालपणु** womanhood, **माण्हुअपणु** humanity ; M. **पण** or **पणा** as in **माणुसपण** or **माणुसपणा** humanity ; P. **पुण** as in **निआणपुण** childhood &c.
@@ -16152,6 +16424,8 @@ Skr. **त्व**abstract termination, Apabhr., **प्प**,H. **पा**as i
  Skr. **द्वार** door, Pr. **दार** or **बार**, P. H. G. **बार**, P. **दर** S. **दरु**. M. **दार**.
 
  Skr. **सर्व** all, Pr. **सब्ब**, H, **सब**, P. **सभ**, S. **सभु**, G. **सहु**for **सव**.
+
+ 
 
 Skr **ज्वल** to burn, Pr, **जल** or **बल**, S. **बरणु**, P. **जलना-बलणा**, H. **जलना-बलना** G. M. **जलणें** and **पोलणें** where **ब**seems to be hardened, B. O. **पोड़** in **पोडिवा**.
 
@@ -16165,17 +16439,25 @@ Skr **ज्वल** to burn, Pr, **जल** or **बल**, S. **बरणु**,
 
 **\[DENTALS CHANGED TO PALATALS\]**
 
+ 
+
 Dentals have a tendency to become palatals even when not followed by **य्** or **व्**, probably because they do so become when followed by those semi-vowels. Thus, from the Skr. **वादयति** ‘to sound' or 'play on a musical instrument,' we have P. **बजाउणा**,H. **बजाना**, M. **वाजविणें**, &c.; from Skr. **निद्रा**'sleep,’ M. **नीज**; P. H. **ओछा**;'trifling,' 'vain', S. **ओछा**,from very probably, Skr. **वृथा** ;M. **सावज**,H. **साजा**from Skr. **श्वापद** which appears even in the Prakrits to have assumed the form of **सावज**,though **सावय**is usually given; M. H. G. **छी छी**, M. **छे छे**,Pr. **छि छि**from Skr. **धिक् धिक**&c.
 
 \[Table 94: (c) The conjunct क्ष्(when the sibilant is pronounced like श्,) and त्स, and त्स्य\]
 
  Skr. **क्षण** a moment, Pr. **खण**, P. **छिण**, S. **खिण**, H. **छिन**, G. **खण**, M. (*dial.*) **खिण**a festival, Pr. **छण**, M. **छिन**, M. **सण**for **छण**.
 
+ 
+
 Skr. **क्षुरक-रिका** aknife a razor, Pr. **छुरअ-रिआ**, P. **छुरा-री**, S. **छुरी**, H. **छुरा-री**, B. O. **छोरा-छुरी**, M. **सुरी**.
 
 ** **Skr. **मक्षिका**afly, Pr.  **मक्खिआ**, P. **मक्खी**, S. **मखी**, H. G. **माखी.मच्छिआ**, H. B. O. **माछी**, M. **माशी**.
 
+ 
+
 Skr. **कुक्षि**a side of the abdomen, Pr. **कुच्छि**or **कुक्खि**, M. **कूस**; the rest **कुख** or **कोख**as in Table 5.
+
+ 
 
 Skr. **ऋक्ष**a bear, Pr. **रिच्छ**, S. **रिछु**, H. G. **रीछ**, M. **रीस**.
 
@@ -16183,11 +16465,15 @@ Skr. **ऋक्ष**a bear, Pr. **रिच्छ**, S. **रिछु**, H. G.
 
  Skr. **क्षेत्र**a field, M. **शेत** from Pr. **छेत्त**; the rest **खे**त.
 
+ 
+
 Skr. **वत्स**a calf, Pr. **वच्छ**, P. **बच्छा**, S. **वछ**, H. **बाछा, बछा, बछ**, G. **वछ, वाछ-\[रहुं\]**. B. **बाछु-\[र\]** O. **बाछु-\[री\]**, M. **वास-\[रुं\]**; P. H. **बच्चा**, S. **बचो**,B.**बाच्चा**, M.**बच-\[डें\]**, &c., in the sense of ‘the young one of any animal,’ from the same.
 
  Skr. **मत्स्य** & fish, Pr. **मच्छ**, P, **मच्छ**, S. **मछु**, H. **मछ** or **माछ**, B. O. **माछ**, M. **मासा**.
 
  Skr. **उत्सङ्ग**lap, Pr.**उच्छङ्ग**, H.**उछंग**, M. **ओसंग**.
+
+ 
 
 The conjunct **क्ष्**sometimes appears in the Prakrits, and perhaps even in Sanskrit, in the form of **झ्**. The Sanskrit **क्षर** is **ज्झर**in the Prakrits, and this we have in the H. **झरना**, M. **झरणें** and **पाझरणें**in which last **पा**stands for the preposition **प्र. क्षि**is Pr. **झिज्झ**from which we have M;**झिजणें**'to waste away', and from **क्षीण**we haveS. **झीणो**, H. **झीन**, &c.
 
@@ -16213,6 +16499,8 @@ The conjunct **क्ष्**sometimes appears in the Prakrits, and perhaps even
 
 \[Table 96: Instances where the first member of a conjunct remains\]
 
+ 
+
 Skr **भग्न-\[कः\]** fled away, Pr. **भग्ग- \[ओ\]**, H **भागा**, S. **भ**गो.
 
  Skr. **लग्न** adhered to, connected, Pr. **लग्ग**, P. **लग्गा** or **लग्ग** in **लग्गणा**, S. **लग** in **लगण**, H. M. G. **लाग-\[ना-णें-वुं\]** B. **लागा**, O **लागि**वा.
@@ -16225,19 +16513,29 @@ Skr **भग्न-\[कः\]** fled away, Pr. **भग्ग- \[ओ\]**, H **�
 
  Skr. **शून्य**void, empty, Pr. **सुण्ण**, P. **सुन्न** or **सुन्ना**, S.**सुंन**, H. **सून** or **सूना**,M. **सुना, सुंन** has acquired the sense of "insensibility" also.
 
+ 
+
 Skr. **मन्य** of **मन्यते** to regard, Pr. **मण्ण**, P. **मन्नणा**, S. **मनणु**, M. G.H. **मान-\[णें-वुं-ना\]**.
 
  Skr. **व्याख्यान** to explain, Pr. **वक्खाण**, P. **व-बखाणना**, H, **बखानना** explain or praise, S. **बखाणणु** praise, G. **वखाणवुं**, H. **वाखाणणें**.
+
+ 
 
 Skr. **अरण्य** desert, Pr. **रण्ण**, M. G. **रान**, G. **रन**, S.**रिणु**.
 
  Skr. **व्याघ्र** a tiger Pr. **वग्ध**, P. H. B. O. **बाघ**, S. **बाघु** M. G. **वाघ**.
 
+ 
+
 Skr. **अग्र** front part, Pr. **अग्ग**, S. **अगो**;H. **आगा**; P **आग्गु**before, G. **आगो**, G. **आगल** before, B. **आगे** O. **आगु**first of all.
 
  Skr.**चक्र**a wheel, Pr. **चक्क**, P. **चक्क**, S. **चकु** (both) apotter’s wheel, H. **चाक, चक्की**, in the sense of a ‘mill-stone', G. M. **चाक**, B, **चाका**.
 
+ 
+
 Skr. **पत्र** a leaf, Pr. **पत्त**, P. **पत्त**, S. **पतो** aplaying card, H. **पात, पाता, पत्त**G, **पातरुं**, M. **पातें** blade of a knife, M. **पातेरा** a collection of dry leaves.
+
+ 
 
 Skr. **चन्द्र** moon, Pr. **चन्द**, P. **चंद**. S. **चंडु**, H. G.M, B.O. **चांद**. H. **चंद** also.
 
@@ -16253,6 +16551,8 @@ Skr. **चन्द्र** moon, Pr. **चन्द**, P. **चंद**. S. **�
 
 \[Table 97: र्यis changed to ल्ल\]
 
+ 
+
 Skr. **पर्याय** rotation, turn, Pr. **पल्लाअ**, H. **पाला**, M. G.O. **पाली**.
 
  Skr. **पर्यस्त** changed, Pr. **पल्लठ्ठ**or **पल्लत्थ**, P, H. **पलटा**, P. **पलटा**, M. G. **पालट**.
@@ -16260,6 +16560,8 @@ Skr. **पर्याय** rotation, turn, Pr. **पल्लाअ**, H. **प
  Skr. **पर्यङ्क**a bedstead, Pr. **पल्लङ्क**, P. **पलंघ**, S. **पलंगु**, H. M. G. **पलंग**, B. **पालंक** or**पालंग**, O. **पलंक**.
 
  The following are instances of other cases of the same change;
+
+ 
 
 Skr. **मर्द**to squeeze, rub, knead, Pr. **मल**, P. M. G. **मल-\[ना-णें-वुं\]**, H. S. **मल- \[ना-नें-वुं\]**.
 
@@ -16273,6 +16575,8 @@ H. has **आदा** also from Pr.**अद्दअ**.
  When **क्**, the first sound of **क्ष्**, prevails and adds to itself the heavy aspiration of **ष्**, the conjunct becomes **क्ख्**. Of this change there are many instances in the vernaculars :—
 
 \[Table 98 :क्ष changed to क्ख्\]
+
+ 
 
 H. **रूस**, Skr. **वृक्ष** a tree, Pr, **रुक्ख**, P. **रुख**.
 
@@ -16300,21 +16604,33 @@ H. **रूस**, Skr. **वृक्ष** a tree, Pr, **रुक्ख**, P. *
 
  Skr. **इक्षु** sugar-cane, Pr. **उक्लु** or **इक्खु**, H. **ऊख** or**ईख**, P. **इक्ख**.
 
+ 
+
 Though accordingto Hemacandra and Vararuci, the **क्ष्** of **क्षेत्र, कुक्षि,अक्षि,क्षीर, मक्षिका**and इक्षु**i**s changed to **च्छ्**in the Mahārāṣṭrl or principal Prakrit, still we see that most of the vernaculars derive their forms of these words from such Prakrit formal as had **क्ख्** for the Sanskrit **क्ष्**. But with the exception of **इक्खु**and **खीर** which are mentioned as occurring in the Jaina sacredbooks, these forms are not given as existing in any of the dialects.
 
+ 
+
 This and other similar omissions show that the observation of the Prakrit grammarians was by no means perfect. The Marathi forms of these words, however, with the exception of **अक्षि**, which is unknown to the language, and of **क्षीर**,which is **खीर**,have **म्** or **श्**, which is representative of the Prakrit **छ्**, and hence they are the same as those given by Hemacandra and Vararuci. Here we have one of several indications that the modern Marathi is the direct daughter of the old Mahārāṣṭrlof the grammarians.
+
+ 
 
 It will be seen from the lists given above that the Hindi, Gujarati, Marathi and Bengali mostly drop one component of the doubled consonants, and to make up for the quantity thus lost, lengthen the preceding vowel. In other words, the speakers of those dialects take the same time to pronounce two syllables the latter of which contains a double consonant which the speakers of the Prakrit did; but the preceding forcible vowel utterance and the subsequent strong contact and pressure being avoided, the effect is that one of the two consonants is dropped and the previous vowel lengthened. This then is essentially a case of softening.
 
  The Sindhi drops one of the two consonants, but does not. lengthen the preceding vowel; while the Panjabi generally preserves. the doubled consonants handed down to it by the old Prakrits. The Hindi contains more instances in which the original Prakrit pronunciation is preserved than the other three dialects. Hemacandra notices in the Prakrits the softened pronunciation we have been considering in the case of only, one of which is according to him dropped and the preceding vowel is lengthened, as in **पासइ** for **पस्सइ**, Sk. **पश्यति, मीसं** for **मिस्सं**, Skr, **मिश्रम्**, &c. This lengthening of the previous vowel is in the four dialects prevented, as observed [before,](http://# "1 See pp. 424-26,") by the accent falling on a subsequent syllable.
 
+ 
+
 In the ‘Pali and the Prakrits, you will remember, the components of some conjuncts such as **र्य्, ई, र्श्, र्ष्, श्ल्, क्ल्, ग्ल्, म्ल्**, &c., are not assimilated but separated by the interposition of a vowel. The vernaculars have preserved some instances of this process:—
 
 \[Table 99 Interposition of a vowel between the members of a conjunct\]
 
+ 
+
 H. **सराहना** to praise, Pr. **सलाह** Skr. **श्लाघ**.
 
  H. **अगनी**, P. **अगन**, B. **आसुन** fire, Pr. **अगणी** Skr. **अग्नि**.
+
+ 
 
 H. **बरस, बरिस**, M. **वरीस** a year, Pr. **वरिस**, Skr. **वर्ष**. So also H. P.**वरस-\[ना-णा\]**,G. **वरसवुं**, Skr. **वर्ष**.
 
@@ -16326,11 +16642,17 @@ H. **बरस, बरिस**, M. **वरीस** a year, Pr. **वरिस**
 
  In modern times other conjuncts also are similarly dissolved, and we have a **पर्ताप**S. M., &c. 'exploit' for **प्रताप, खेतर**, P. G., &c. 'a field' for **क्षेत्र, पदमु**S. 'a lotus' for **पद्म, तियाग**P. for **त्या**ग. **तर्सु**S., others **तरास**, 'vexation' for **त्रास, धरम**'virtue' H. M. G., &c., for **धर्म**, &c.
 
+ 
+
 But the books and dictionaries of some of these languages contain a good many Sanskrit words the conjuncts in which are not changed in any way. This is due to the fact that those languages are now the spoken languages of the educated as well as the uneducated portions of the different communities, and the former pronounce the words correctly, and the forms given to them by the latter are not taken into account by the authors of those books. Again, even the latter, though they interpose a vowel between the components of some conjuncts as shown above, have, to a certain extent, become used to Sanskrit sounds and can pronounce others correctly. But in some of the provinces. the old disability of the Prakrit speakers has been inherited in certain cases by their modern descendants, whether educated or uneducated, and it is very much to be regretted that the writers of books should in such cases write words in their Sanskrit forms. which, when they are read by themselves or others, are read in a quite different way.
+
+ 
 
 The people of Sindh**¹**, whether belonging to the higher or lower classes, and the Bengalis pronounce the conjuct **क्ष्**invariably as **क्ख्**.Thus Sanskrit **नक्षत्र** as **नक्खत्रसाक्षी** as**साखी, मोक्ष** as**मोक्ख**or **मोख**,&c. The speakers of the Hindi more often pronounce as **चा** than as **क्ख्,नक्षत्र** becoming **नच्छंत्तर** with them; **साक्षी, साच्छी; मोक्ष मोच्छ ; लक्ष्मण, लच्छमन ; लक्षणा, लच्छना ; क्षत्रिय, खत्री** or **छत्री ; क्षय, छय ; क्षम, छम** ;&c. The Panjabis pronounce the first three words as **साखी**, and **मोच्छ, लक्षण** as**लच्छण, क्षत्रिय** as **खत्रि**, &c. so that they also agree with the Hindi people, but seem more inclined towardsmaking **क्ख्** of the conjunct. The Marathas, however, pronounce the **क्ष्**properly, though ordinarily they make **क्श्** of it rather than **क्-ष्**, as remarked on a former occasion. Similarly, the Bengali assimilates conjuncts the latter member of which is **व्** or **य्**, **ईश्वर**becoming **इश्शर** and **व्याख्यान बाक्खान** in his mouth. Similarly be pronounces Skr. **आत्मा** as just as his Prakrit ancestors did though it is written correctly.
 
 ASSIMILATION OF MEMBERS OF CONJUNCTS CONTAINING NASALS
+
+ 
 
 Some of the vernaculars assimilate the components of a conjunct made up of a nasal and a mute. Thus the Panjabi hast **डन्न**for **दण्ड** 'penalty **मुन्नणा** for **मुण्डना** 'to shave **सुन्न** for **सुण्ड**, Skr. **शुण्डा**'the trunk of an elephant', **कन्नहा** for **कन्धा**,Skr. **स्कन्ध**'shoulder', **बन्नह**for **बन्ध** 'binding', **खन्न**for **खन्ड** 'a piece', **भन्नणा** 'to break for **भङ्गना** or**भजना, थम्म** for **स्तम्भ** 'a pillar, &c.In the Bengali **खान** ‘a piece', one of the two **न्** sounds of **खन्न** is dropped and the preceding vowel lengthened. Similarly we have **थाम** ‘to stop’ from **स्तम्भ**. In Sindhi we have **भञु** ‘interruption',for**भङ्ग, चङो**'good' for **चङ्गो**, M. **चांगला** ;**मञुठ** 'madder' for **मञ्जिष्ट ; पिनु**'a ball’ for **पिण्ड; खनु** 'apiece of bread’ for **खण्ड ; चुमणु** 'to kiss’ for **चुम्ब**, &c. Here the Sindhi, as is usual with him, drops one component of thedoubled consonants. With this exception, the modern dialects have got no cases of the assimilation of the members of a conjuner unknown to the Prakrits, while, as shown above, the speakers of those dialects tenaciously retain the vocal habit of assimilation of their Prakrit ancestors in a few cases.
 
@@ -16354,27 +16676,45 @@ LECTURE V
 
 REMNANTS OF THE OLDER GRAMMATICAL FORMS IN THE NORTHERN VERNACULARS
 
+ 
+
 I have already directed your attention to the accent on the penultimate syllable of words in the vernaculars of Northern India and the effect it has had in mutilating and transforming the Sanskrit and Prakrit words existing in their vocabularies. Through its influence, you will remember, the final vowel or the vowel of the last syllable is shortened in some cases, and often entirely dropped and the word ends in a consonant or silent . When the consonant of the last syllable is dropped in consequence of the Prakrit law of the elision of uninitial consonants, the final vowel and the vowel of the penultimate syllable are brought together and when they are in this condition, it is possible for them to unite into one sound and thus the final vowel is dropped in some cases and combined with the preceding in others. The Sindhi, however, oftentimes resists the influence of this accent as I have already mentioned.
 
 CASE TERMINATIONS IN THE VERNACULARS.
 
+ 
+
 Now on account of these processes, the nominative singular termination **ओ** of masculine Prakrit nouns ending **अ** in is sometimes shortened to **उ**and in this form we have it in the Sindhi and in old Marathi and Hindi literature. In the other dialects. including the modern Marathi and Hindi, it is dropped except in instances such as **वाटसरु**M. and** आयसु** 'command' H. The Prakrit plural terminations **अ**and **ए** of this case are also dropped everywhere for the same reason and we have such forms as **हाथ**S., **हाथ** H., **हात** M. G. &c. for the nom. pl. and these are the sing. forms also except in the case of the Sindhi, which has **हथु**.
+
+ 
 
 In the Prakrit the plurals of the nominative and accusative cases of all nouns are alike and so are they alike in the vernaculars. The analogy came to be extended to the singulars also in the Apabhraṁśa and accordingly the singulars of the two cases. are the same in the vernaculars. An independent accusative
 
 case made up by affixing a termination to a noun is given in ordinary grammars; but it has the sense of the dative, or rather of the Sanskrit genitive, which expresses relation in general. Thus we say **मी काम करितों** M. ‘I do work,’ **हूं काम करूं छूं**G., **आंवकमुथो कर्यां** B., **मै कमकरदा** P., **मैकाम करता हूं** H., **आमि** or **मुइ काम करि** or **करिते छि** B., **मु कर्मकरु अछि** O., in which instances **काम**etc. are really accusatives and we do not use **कामास, कामने, कमखे, कमनु, कामको, कामके** and **कर्मकु**, which forms are generally referred to the accusative.
 
+ 
+
 The masculine nom, and acc. sing. form in**उ** was in the Apabhraṁśa extended by analogy to the neuter singular also; and, though the peculiar neuter plural termination was preserved, the fact shows that in the vernacular speech of the times there was a tendency to forget the distinction between the two genders. Accordingly we now find that in the Sindhi, the Panjabi, the Hindi, Bengali and Oriya the distinction is entirely lost. In Gujarati also nouns ending in **अ**have retained none of the two neuter terminations, but the Prakrit and Apabhraṁśa **इं** plural of that gender exists in the Marathi combined with the preceding **अ**into **एं** as ‘a fruit' sing., **फलें** 'fruits' pl.
 
+ 
+
 This neuter pl. termination is applied in Hindi, Sindhi, and Panjabi to the pl. of fem. nouns ending in **अ** as in **रातें**'nights' H., **जाला**‘women' S. and **गल्लां**'words' P., though the **इ**is changed to **आ**in the last two cases.
+
+ 
 
 The change of the final syllables **अओ**of Prakrit words resulting from such Sanskrit words as **आम्रातकः-को, पारदः-दो, दीपकः-को** etc. to **आ**by the dropping of the final and lengthening of the penultimate through the force of the general accent on the penultimate in some of the modern dialects such as the Marathi and the Hindi and to **ओ**, into which the two vowels are combined in consequence of the weakness of the accent in such languages as the Gujarati and the Sindhi and in some of the minor dialects of the Marathi, has already been noticed in the last lecture. Similarly the change of the Prakrit final syllables of neuter nouns **अअं**or **अयं** arising from such Sanskrit words as **कदलकम, मस्तकम्** have been changed to **एं** in the Marathi and to **उं** in Gujarati and to **आं**in some of the dialects of the Marathi. This also has been explained. The pl. of such neuter nouns, most of which are formed by
 
 the addition of **क**and may be called augmented nouns, is formed by the addition of the Apabhraṁśa **इं**, which being rendered emphatic by the nasal sound absorbs the previous **अ**or light **य** and thus wehave **केलीं** for Ap. **कअलअ+ इं**= Skr. **कदलक + आनि**.
 
+ 
+
 Fem. nouns in **इ** or **ई** add **आं** as**घोडी-घोडियां** H., **घोडिआं** P. This **यां**or **आं**represents the combination of **य**or **अ**with **इं**; such nouns as घोडीbeing derived from **घोटिका = घोडिआ**. In Panjabi after fem. nouns in **आ** the **ईं** appears distinct, as **बला** a calamity, **बलाईं** nom. pl. In Sindhi the neuter termination is added to the original Prakrit fem. pl. **उ**, shortened from **ओ**, **घोड्यूं**'mares'nom. pl. **हचा**'murder' **हचाऊं**‘murders'; **जाल**a 'woman,' **जालूं**'women' nom. pl. This last **जालां** has it also like the P. **रातां**. In Marathi also it is not very unusual to speak of women in the neuter pl. when respect is intended as **राणींसाहेब आलीं**. This transference of neuter termination to the fem. must have taken place when gendersbegan to be confused in the Apabhraṁśa period.
 
+ 
+
 The nom. pl. termination of masc. nouns, which in the Prakrit was **आ**,is preserved by the class of nouns we have been considering i. e. augmented nouns, in Sindhi and Gujarati; while the **ए** of the Prakrit acc. pl. is used for those nouns in the Marathi and its dialects and the Hindi and the Panjabi. When the two cases were thoroughly confounded, one can easily see how this came to pass. Other or unaugmented nouns have dropped both the terminations in all the languages, as has been already noticed.
+
+ 
 
 The Marathi has preserved the Apabhramsa instr. sing. **एं** which is used after nouns in **अ** and the plural **हिं**reduced to **इं**. In all the modern languages the **ह** of the Apabhraṁśaforms is dropped. These terminations are appended to the old instrumental termination **न** and we have **नें**and **नीं**which are now ordinarily used. These you will see are double forms and of such we have many in the various languages. Goan., Mal. and Cit. have **न्** for the sing. and the last has **इं**for the pl.
 
@@ -16383,6 +16723,8 @@ The Marathi has preserved the Apabhramsa instr. sing. **एं** which is used a
 where **मते**is hardly an instrumental); but here evidently the termination **ए** is confounded with the **एं** of the instrumental and we have **माझ्या मतें**lit. "by my opinion."
 
  The dative **स** is generally considered a remnant of the Skr.**स्य**and Pr.**स्स**. But I have not found it in the Jñaneśvarīand in its place we have **शीं**in the old poets, which is connected with a similar post-position in other languages which will be considered hereafter. None of the minor dialects of the languages have anything like it, but still the derivation may be correct.
+
+ 
 
 Gujarati has the old instrumental in **एं**, but it is confounded. with the corresponding **ए** of the fem. and with the locative **ए** and we have one termination for both, with the nasal dropped. The shortened Apabhraṁśa form in **इ** is found in old Gujarati. It is confounded with that in **इं**, the anusvāra being dropped.
 
@@ -16396,11 +16738,19 @@ From the chronicle of Kanhadade-prabandha given in the Gujarati School-paper.
 
 Pancopākhyāna, the story of Hiraṇyaka.
 
+ 
+
 In this latter, however, there occurs an anusvāra, which should be correct, the termination is a remnant **हिं**. The Gujarati has also the double instrumental णेंin pronouns, as **तेंणें, जेंंणें**, etc.
+
+ 
 
 The Sindhi has got the ablative terminations **आं, ओं, ऊं,अउ**and **आउ**. The first is from the pronominal instrumental **हां**of the Apabhraṁśaand **म्हा**of the Prakrit; **ओं**and **ऊं** from **हुं** of the former **अउ** and **आउ** and from the corresponding Prakrit. The locative **ए** and its shortened form **इ** are also preserved, but they are used after nouns in **अ**as in the older dialects, as **खुहि**or **खुहेपिओ**'he fell into a well.'
 
+ 
+
 The Panjabi possesses the abl. in **हुं**with the **ह** dropped and the **उं** amalgamated with the preceding **अ**into **ओं**as **घरॊं**‘from a house, the locative pl. **हिं**as **घरीं** ‘in the house,’ the instrumental pl. **हिं**as **उअसदें हथीं**‘by the hands’ and the locative sing. in **ए** as **उसदोदरगाहे**‘in his court.’ The instr. in **नें** is also ordinarily used in the form of **नैं**.
+
+ 
 
 The Hindi has scattered instances of the loc. in **एं**, but the instrumental **ने**is common. The Bengali has preserved the former. The instrumental also has **ए**, though the grammarians do not give it, as—
 
@@ -16418,7 +16768,11 @@ The Hindi has scattered instances of the loc. in **एं**, but the instrumenta
 
  'How do the moon and the sun in the form of lamps shine in the plate of the sky !’
 
+ 
+
 The Oriya also possesses the loc. in **ए**and as in the B. and G. it is confounded with the instr. in **एं**, the nasal being lost, as **हातें**'in or by the hand.’ This dialect has the Pr. abl. in **उ**also as **हातु**'from the hand.’
+
+ 
 
 The nom. pl **ओ**or **उ**of fem. nouns in **आ** or**ई** is preserved in the Mal., Goan and Cit. as **जीभ, जिभो ; साडी, साड्यो;** and **घोडी, घोड्यो** ;but the two latter are derived from the Skr. **शाटिका**and **घोटिका**which are nouns ending in **आ**. The final **आ**, which alone. remains after the elision of the consonant **क्**, is dropped in consequence of the penultimate accent and we have **साडी** and **घोडी**. The **ओ**or **उ** of the plural of the original Prakrit **साडिआओ-उ**also isdropped like the **ओ** or **उ** of **घोडओ-उ** in the ordinary Marathi **घोडा**;and, just as the previous vowel; in this latter is lengthened in consequence the accent and the resulting form is **घोडा**, so the previous **आ** of **साडिआ-ओ-उ** and **घोडिआ-ओ-उ**, being accented, remains and we have **साड्या**, and **घोड्या**for **साडिआ** and **घोडिआ**; but in the dialects of the Marathi, in which the **ओ**or **उ**Masc. nouns in the sing. is preserved, we have **घोडो**and **कांटो**etc.; so also is the **ओ-उ**of the fem. preserved and we have , **साड्यो,घोड्यो**etc.
 
@@ -17400,8 +17754,6 @@ Sursāgar, pada 12, page 252.[^132]
 
  'Kānha said, "There is no other God besides the mountainGovardhan." Taking it to be the truth the king of mountainswas regarded by the cowherds as a great God."
 
-[^132]: " Lucknow Ed., 1874."
-
  Here **गोपनि** is agent instrumental in **नि**.
 
 सबनि देख्यो प्रकट मूरति सहस्रभुजा पसारि।  
@@ -18052,8 +18404,6 @@ of the Mahābhāṣya says that it is the duty of a Brähmapa to studythe Vedas 
 
  The Prakrits must have begun to be formed about that time,but did not then attain any distinctive character; and thevernacular speech probably did not finally leave the Pali stagetill a very long time afterwards. About the time when theInscriptions in the cave-temples were composed, the Pali was,as I have stated, a sacred and literary language. The longer andmore important of the Inscriptions are therefore in that language.But in a good many of the shorter Inscriptions, especially of private individuals, we have words exhibiting Prakrit characteristics[^133].
 
-[^133]: "Such are काणमोअस for काणभोजप, पवइतिफाअ for पवजितिकायाः महामोयस forमहाभोजस्य, भयंत forवैयिका for वेदिका, पटिक for प्रतिफ &c."
-
 The growth of the specifio Prakrits, therefore, must be referredto the early centuries of the Christain era; and we maytherefore infer that about the time our first dramatic plays werewritten they were actually the spoken dialects of those classes ofthe people whose representatives use them in those works,… .
 
  About the sixth or seventh century the Apabhraṁśa wasdeveloped in the country in which the Brajbhäṣäprevails inmodern times; or, if the speeches in that dialect contained in thefourth act of the Vikramorvaśiya were really composed by Kālidāsa, which, as remarked in a former lecture, we have the gravestreasons for doubting, its growth must be assigned to a somewhatearlier period. Daṇḍin mentions the Apabhraṁśa, and a goodmany verses fiom his Kāvyādarśa are found in Vāmana'sAlaṁkāravṛtti; and if this be the same Vāmana that lived atthe court of Jayäpiḍa, king of Kāsmir, who reigned from 751A. C. to 782 A. C., Daṇḍin must have flourished before the eighthcentury.
@@ -18303,4 +18653,3 @@ INDEX OF SANSKRIT AND OTHER WORKS
 [TABLE]
 
 \]
-

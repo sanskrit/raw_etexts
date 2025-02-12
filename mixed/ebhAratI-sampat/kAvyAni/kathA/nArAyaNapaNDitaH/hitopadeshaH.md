@@ -91,7 +91,7 @@ A. K. Lithographers, Delhi
 
 **कहानियोंकी अनुक्रमणिका**
 
-**![](../books_images/U-IMG-1721502633Screenshot2024-07-21004022.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721502633Screenshot2024-07-21004022.png"/>**
 
 [TABLE]
 
@@ -428,7 +428,7 @@ A. K. Lithographers, Delhi
 **हितोपदेशः**  
 **भाषानुवादसमलंकृतः**
 
-**![](../books_images/U-IMG-1721502495Screenshot2024-07-21003753.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721502495Screenshot2024-07-21003753.png"/>**
 
 **प्रस्ताविका**
 
@@ -2775,7 +2775,7 @@ A. K. Lithographers, Delhi
 
 **हितोपदेशः**
 
-**![](../books_images/U-IMG-1721062453Screenshot(303).jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1721062453Screenshot(303"/>.jpg)**
 
 ** सुहृद्भेदः २**
 
@@ -5993,7 +5993,7 @@ A. K. Lithographers, Delhi
 
 **हितोपदेशः**
 
-**![](../books_images/U-IMG-1721836062Screenshot2024-07-24211627.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721836062Screenshot2024-07-24211627.png"/>**
 
 **संधिः ४**
 
@@ -7738,4 +7738,3 @@ Bengal Sanskrit Association
 |   स्थानमुत्सृज्य गच्छन्ति   | १७४ |      हीयते हि मतिस्तात       | ४२  |
 
 \]
-

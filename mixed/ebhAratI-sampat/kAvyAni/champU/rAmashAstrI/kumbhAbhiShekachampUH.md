@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MDYyMTcxMjc
 **॥ श्रीः ॥  
 ॥ कुम्भाभिषेकचम्पूः ॥**
 
-**![](../../../books_images/U-IMG-1720262261Screenshot2024-07-06160659.png)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1720262261Screenshot2024-07-06160659.png"/>**
 
 **एकत्रोत्पलकङ्कणाङ्गदमणीमञ्जीरताटङ्ककै-  
 रर्धोद्भासिकिरीटहाररशनाक्षौमाङ्गरागादिभिः।  
@@ -413,10 +413,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MDYyMTcxMjc
 मण्डिकल् रामशास्त्रिणा विरचिते कुम्भाभिषेकचम्पूप्रबन्धे  
 **प्रथमस्तरङ्गः॥**
 
-**![](../../../books_images/U-IMG-1720588443Capture.JPG)**
+**<MISSING_FIG href="../../../books_images/U-IMG-1720588443Capture.JPG"/>**
 
 द्वितीयस्तरङ्गः॥  
-![](../../../books_images/U-IMG-1720588616Capture2.JPG)
+<MISSING_FIG href="../../../books_images/U-IMG-1720588616Capture2.JPG"/>
 
 ततः सभायामुपसंहृतायां  
 सर्वेऽपि भोक्तुं सहसोदतिष्ठन्।  
@@ -774,6 +774,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4MDYyMTcxMjc
 
 ओं तत्सत्॥
 
-![](../../../books_images/U-IMG-1720340670Screenshot2024-07-07135405.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1720340670Screenshot2024-07-07135405.png"/>
 
 \]

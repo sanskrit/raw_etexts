@@ -61,7 +61,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyMzY1NzU5ODc
 
 6. पृथ्वी— सीताया जननी विश्वम्भरा
 
-![](../books_images/U-IMG-1727539501vaidehi2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1727539501vaidehi2.JPG"/>
 
 **प्रघट्टकः— वाल्मीकेराश्रमः**
 
@@ -210,7 +210,7 @@ T. S. NARAYANASASTRI,
 
 **\_\_\_\_\_\_\_\_\_\_\_**
 
-![](../books_images/U-IMG-1727283859Screenshot2024-09-25223024.png)
+<MISSING_FIG href="../books_images/U-IMG-1727283859Screenshot2024-09-25223024.png"/>
 
 **श्रीमदुत्तररामचरितनाटके**
 
@@ -366,7 +366,7 @@ T. S. NARAYANASASTRI,
 
 \[इति निष्क्रान्तः\]
 
-![](../books_images/U-IMG-1727619685वैदेहि26.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1727619685वैदेहि26.JPG"/>
 
 **प्रथमः प्रघट्टकः**
 
@@ -1271,6 +1271,6 @@ T. S. NARAYANASASTRI,
 
 \[इति निष्क्रान्ताः सर्वे\]
 
-![](../books_images/U-IMG-1727666821वैदेहि76.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1727666821वैदेहि76.JPG"/>
 
 \]

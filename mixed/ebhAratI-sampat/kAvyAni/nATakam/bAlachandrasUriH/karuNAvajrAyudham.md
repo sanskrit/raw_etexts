@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyODcwMTQ4NDU
 
 **॥ प्रास्ताविकनिवेदनम् ॥**
 
-**![](../books_images/U-IMG-1724836216Screenshot2024-08-25193415.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724836216Screenshot2024-08-25193415.png"/>**
 
  अस्य सुललितवाक्यरचनाचातुर्येण जनमनोरञ्जकस्य सुप्रसिद्धपरोपकृतिसारभूतक रुणाप्राधान्यस्य करुणावज्रायुधाभिधेयस्य नाटकस्य के कविकोटिकोटीराः प्रणेतार इत्येतद्विषयस्य निर्णयस्तु प्रस्तुतप्रबन्धप्रान्तगतस्य—
 
@@ -50,7 +50,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyODcwMTQ4NDU
 
 **पात्राणि ।**
 
-**![](../books_images/U-IMG-1724836216Screenshot2024-08-25193415.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724836216Screenshot2024-08-25193415.png"/>**
 
 कलहंसः ..............................................................................नृत्यकारौ
 
@@ -98,13 +98,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyODcwMTQ4NDU
 
 ॥ न्यायाम्भोनिधिश्रीमद्विजयानन्दसूरिभ्यो नमः ॥
 
-**![](../books_images/U-IMG-1724836216Screenshot2024-08-25193415.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724836216Screenshot2024-08-25193415.png"/>**
 
 **श्रीबालचन्द्रसूरिविरचितं**
 
 **करुणावज्रायुधनाटकम् ।**
 
-**![](../books_images/U-IMG-1724836216Screenshot2024-08-25193415.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724836216Screenshot2024-08-25193415.png"/>**
 
 **देवः पायादपायात्प्रथमजिनपतिः सर्वगीर्वाणसेव्यः**
 
@@ -284,7 +284,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyODcwMTQ4NDU
 
 **॥ प्रस्तावना ॥**
 
-**![](../books_images/U-IMG-1728921643ooooo.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728921643ooooo.png"/>**
 
 ( ततः प्रविशति "का कामधेनुः " (१७) इति पठन्कलहंसः कलकण्ठश्च)
 
@@ -1212,8 +1212,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyODcwMTQ4NDU
 [^32]: "चतुर्दशीनिशायामसुरयुद्धोपार्जितपापस्य शोधिंकर्तुं धर्मशालायां स्वामी विशेषध्यानपरः संजातः।"
 
  **देवी**—(ख)[^25] तदो तदो।
-
-[^25]: "ततस्ततः।"
 
 **प्रियंवदा**—(ग)[^34] तत्थ ट्ठियस्स सामिणो मणोवेगेण गयणंगणाओ ओअरिअ भयभरिअमाणसो कंपमाणसव्वंगो संकोचिअखंधबंधो ताएहि मं ताएहि मं ति मनुस्सभासाए भासमाणो एगो पारेवओ तिहुअणिक्कसरणं चरणमूलमल्लीणो।
 

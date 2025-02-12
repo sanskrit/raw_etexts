@@ -27,7 +27,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 **द्वितीयबिन्दोर्भूमिका**
 
-![](../books_images/U-IMG-1720632967Design_Ebharati.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720632967Design_Ebharati.jpg"/>
 
  अयिगीर्वाणवाणीप्रणयिनः सहृदयमहाभागाः!
 
@@ -62,16 +62,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 द्वितीय चैत्र सुदि रामनवम्याम्                    
                       विदुषां वशंवदौ  
 सं० १९८३ वैक्रमाब्दे                         
+                      
 
 **भवानीप्रसादः-**  
 
 कांगड़ी गुरुकुल विश्वविद्यालयस्य                    
+                    
 
 **वागीश्वरश्च**  
 
 पञ्चकुटीरे
 
-![](../books_images/U-IMG-1721566341Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1721566341Capture.JPG"/>
 
 **अनुक्रमणिका**
 
@@ -210,7 +212,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 | ११०. |             उचित शिष्टाचारः             |
 | १११. |               सुभाषितानि                |
 
-![](../books_images/U-IMG-1720720776Design_ebharati_1.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720720776Design_ebharati_1.jpg"/>
 
 **ॐ**
 
@@ -218,7 +220,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 द्वितीय बिन्दुः
 
-![](../books_images/U-IMG-1720721864design_ebharati-2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720721864design_ebharati-2.jpg"/>
 
 **पुरुष सूक्तम्**
 
@@ -323,7 +325,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 **स्थापना।**
 
-**![](../books_images/U-IMG-1720723202design_e_bharati.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720723202design_e_bharati.jpg"/>**
 
 (ततः प्रविशति काञ्चुकीयः)
 
@@ -523,6 +525,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 **—**यदाज्ञापयति महाराजः। (निष्क्रान्तः)
 
+ 
+
 **दुर्योधनः–**
 
 वयस्य! कर्ण!
@@ -535,6 +539,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 [^10]: "नारीमृदूनि स्त्रीवचन विक्लवानि । वृत्तौनारीशब्दो नारीसमवेतवचनक्रियावर्ती ।"
 
 (ततः प्रविशति वासुदेवः काञ्चुकीयश्च)
+
+ 
 
 वासुदेवः—
 
@@ -567,6 +573,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 **—**
 
 (प्रविश्य) कथं कथं मां दृष्ट्वा संभ्रान्ताः सर्वक्षत्रियाः। अलमलं संभ्रमेण। अलमलं संभ्रमेण स्वैरमासतां भवन्तः
+
+ 
 
 दुर्योधनः
 
@@ -605,6 +613,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 ** दुर्योधनः—**
 
 बादरायण! अपनीयतां किल चित्रपटः।
+
+ 
 
 **काञ्चुकीयः—**
 
@@ -676,12 +686,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 स्यालं तवगुरोर्भूपं कंसं प्रति न ते दया।  
 कथमस्माकमेवं स्यात् तेषु नित्यापकारिषु॥२६॥
 
+ 
+
 **वासुदेवः—**
 
 अलं तन्मद्दोषतो ज्ञातुम्।
 
 कृत्वा पुत्रवियोगार्तां बहुशो जननीं मम।  
 वृद्धंस्वपितरं बद्ध्वा हतोऽयं मृत्युना स्वयम्॥२७॥
+
+ 
 
 **दुर्योधनः—**
 
@@ -694,6 +708,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 पलायमानस्य भयातुरस्य  
 शौर्यं तदेतत् क्व गतं तवासीत्॥२८॥
+
+ 
 
 **वासुदेवः—**
 
@@ -719,6 +735,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
  दुर्योधनः—
 
 न जाने।
+
+ 
 
 वासुदेवः—
 
@@ -796,6 +814,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
  अयमशक्तः। मातुल! बध्यतामयं केशवः। कथं पराङ्मुखः पतति।
 
  भवतु, अहमेव पाशैर्बध्नामि। (उपसर्पति)
+
+ 
 
 **वासुदेवः—**
 
@@ -888,6 +908,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 ** वासुदेवः—**
 
 सुदर्शन! रोषात् समुदाचारो नावेक्षितः। गम्यतां स्वनिलयमेव।
+
+ 
 
 **सुदर्शनः—**
 
@@ -1010,7 +1032,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 **\* अर्जुन विलापः \***
 
-**![](../books_images/U-IMG-1721139897ebharati-design-7.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1721139897ebharati-design-7.jpg"/>**
 
 **सूत उवाच**
 
@@ -1116,7 +1138,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 \*वसन्तसेना-गृह-वर्णनम्\*
 
-![](../books_images/U-IMG-1720876776Design_EBhrati_4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720876776Design_EBhrati_4.jpg"/>
 
 ** विदूषकः—**
 
@@ -1150,6 +1172,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
  चेटी—
 
+ 
+
 एवेत्वार्यः। इमं द्वितीयं प्रकोष्ठं प्रविशत्वार्यः।
 
 ** विदूषकः—**
@@ -1159,6 +1183,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
  आश्चर्यं भोः' इहापि द्वितीये प्रकोष्ठे पर्यन्तोपनीतयवसबुसकवलसुपुष्टास्तैलाभ्यक्तविषाणा बद्धाः प्रवहणबलीवर्दाः। अयमन्यतरोऽवमानित इव कुलीनो दीर्घं निःश्वसिति सैरिभः। इतश्चापनीतयुद्धस्य मल्लस्येव मर्द्यते ग्रीवा मेषस्य। इत इतोऽपरेषामश्वानां केशकल्पना क्रियते। अयमपरः पाटच्चर इव दृढबद्धो मन्दुरायां शाखामृगः। इतश्च कूरच्युततैलमिश्रं पिण्डं हस्ती प्रतिग्राह्यते मात्रपुरुषैः। आदिशतु भवती।
 
  चेटी—
+
+ 
 
 एत्वेत्वार्यः। इमं तृतीयं प्रकोष्ठं प्रविशत्वार्यः।
 
@@ -1200,6 +1226,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
  विदूषकः—
 
+ 
+
 आदिशतु भवती।
 
 ** चेटी—**
@@ -1230,6 +1258,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
  चेटी—
 
+ 
+
 एत्वेत्वार्यः। इममष्टमं प्रकोष्ठं प्रविशत्वार्यः।
 
  विदूषकः—
@@ -1252,6 +1282,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
  चेटी—
 
+ 
+
 आर्य, एषा खल्वस्माकमार्याया माता।
 
 ** विदूषकः—**
@@ -1271,6 +1303,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
  भगवँश्चातुर्थिक, एतेनोपकारेण मामपि ब्राह्मणमवलोकय।
 
  चेटी—
+
+ 
 
 हताश, मरिष्यसि।
 
@@ -1293,7 +1327,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 **\* वासवदत्ता \***
 
-![](../books_images/U-IMG-1721141911ebharati-Design-8.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721141911ebharati-Design-8.jpg"/>
 
 **सरस्वतीस्तुतिः**
 
@@ -1384,6 +1418,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 **\* सन्ध्यावर्णनम् \***
 
+ 
+
 ततः क्रमेण च रजोलुठितोत्थितकुलायार्थिपरस्परकलहविकलकलविङ्ककुलकलकलवाचालशिखरेषु शिखरिषु वसतिसाकाङ्क्षेषुध्वाङ्क्षेषु, अनवरतदह्यमानकालागरुधूपपरिमलोद्गारेषु वासागारेषु, दूर्वाञ्चिततटिनीतटनिविष्टविदग्धजन-प्रस्तूयमानकथाश्रवणोत्सुकशिशुजनकलकलरवनिवारणश्रद्धेषु वृद्धेषु, आलोलिकातरलरसनाभिः कथितबहुकथाभिर्जरतीभिरतिलघुकरताडनजनितसुखे ताभिरनुगते शिशयिषमाणे शिशुजने, सन्ध्यावन्दनोप-
 
 विष्टेषु शिष्टेषु, रोमन्थमन्थरकुरङ्गकुटुम्बकाध्यास्यमानम्रदिष्ठगौष्ठीनपृष्टासु अरण्यस्थलीषु, निद्राविद्राणद्रोणकाककुलकलितकुलायेषु ग्रामतरुनिचयेषु, कापेयविकलकपिकुलकलिलेषु आरामतरुषु, निर्जिगमिषति जरत्तरुकोटरकुटीरकुटुम्बिनि कौशिककुले, तिमिरतर्जननिर्गतासुदहनप्रविष्टदिनकरकरशाखास्विव प्रस्फुरन्तीषु दीपलेखासु, मुखरितधनुषि वर्षति शरनिकरमशेषसांसारिकशेमुषीमुषि मकरध्वजे, शम्भलीभाषितभाजि भजति भूषां भुजिष्याजने, सैरन्ध्रीबध्यमानरशनाकलापजल्पाकजघनस्थलासु जनीषु, विश्रान्तकथानुबन्धतया प्रवर्तमानानेककथकजनगृहगमनत्वरेषु चत्वरेषु, समासादितकुक्कुटेषु किरातगृहनिष्कुटेषु, कृतयष्टिसमारोहणेषु बार्हणेषु, विहितसन्ध्यासमयव्यवस्थेषु गृहस्थेषु, सपदि संकोचोदञ्चदयाञ्चदुच्चकेसरकोटिसंकटकुशेशयोदरकोटरकुटीरकुटिलशायिनि षट्चरणचक्रे, अनेनैव पथा भगवता भास्वता गन्तव्यमिति सर्वतः पट्टमयैर्वसनैः परिवृता मणिकुट्टिमालिरिव विरचिता वरुणेन रवेः, कालकरवालकृत्तस्य दिवसमहिषस्य रुधिरधारेव, विद्रुमलतेव चरमार्णवस्य, रक्तकमलिनीव गगनतटाकस्य, काञ्चनकेतुरिव कन्दर्परथस्य, मञ्जिष्ठारागारुणपताकेव गगनहर्म्यस्थलस्य, लक्ष्मीरिव स्वयंवरगृहीतपीताम्बरा, भिक्षुकीव तारानुरागरक्ताम्बरधारिणी, बभ्रुरिव कपिलतारका, भगवती सन्ध्या समदृश्यत।
@@ -1414,7 +1450,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 (वासवदत्तायाः)  
 
-![](../books_images/U-IMG-1720963809Design_ebharati-5.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720963809Design_ebharati-5.jpg"/>
 
 **\* श्री पुलकेशिनःशिलालेखः\***
 
@@ -1570,11 +1606,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 येनायोजि नवेऽश्मस्थिरमर्थविधौ विवेकिना जिनवेश्म।  
 स विजयतां रविकीर्तिः कविताश्रितकालिदासभारविकीर्तिः॥३७॥
 
-![](../books_images/U-IMG-1721035426ebharati_Design-6.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721035426ebharati_Design-6.jpg"/>
 
 **\* हर्षचरितम् \***
 
 **\* देव्या यशोवत्या श्चितारोहण निश्चयः \***
+
+ 
 
 प्रशान्ते च मन्युवेगे सस्नेहमुत्थापयामास सुतम्। हस्तेन चास्य प्ररुदितस्य दृष्टिमुन्ममार्ज। स्वयमपि राजतराजहंसास्यसमुद्गीर्णेन पयसा प्रक्षाल्य मुखकमलं फलमूकलोकविधृते वासःशकले शुचिनि समुन्मृज्य पाणी सुतवदनविनिहितनिभृतनयनयुगला चिरं स्थित्वा पुनः पुनरायतं निश्वस्यावादीत्।
 
@@ -1644,7 +1682,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 (षष्ठोच्छ्वासात्)
 
-![](../books_images/U-IMG-1721203480ebharati_design-9.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721203480ebharati_design-9.jpg"/>
 
 **कादम्बरी**
 
@@ -1720,6 +1758,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 अलब्धवैदग्ध्यविलासमुग्धया धिया निबद्वेयमतिद्वयी कथा॥१९॥
 
 **\* शूद्रकवर्णनम् \***
+
+ 
 
 'आसीदशेषनरपतिशिरःसमभ्यर्चितशासनः पाकशासन इवापरः, चतुरुदधिमालामेखलाया भुवो भर्ता, प्रतापानुरागावनतसमस्तसामन्तचक्रः, चक्रवर्तिलक्षणोपेतः, चक्रधर इव करकमलोपलक्ष्यमाणशङ्खचक्रलाञ्छनः, हर इव जितमन्मथः, गुह इवाप्रतिहतशक्तिः, कमलयोनिरिव विमानीकृतराजहंसमण्डलः, जलधिरिव लक्ष्मीप्रसूतिः, गङ्गाप्रवाह इव भगीरथपथप्रवृत्तः, रविरिव प्रतिदिवसोपजायमानोदयः मेरुरिव सकलोपजीव्यमानपादच्छायः, दिग्गज इवानवरतप्रवृत्तदानार्द्रीकृतकरः, कर्ता महाश्चर्याणाम्, आगमः काव्यामृतरसानाम्, उदयशैलोमित्रमण्डलस्य, उत्पातकेतुरहित-
 
@@ -2426,7 +2466,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 इति
 
-![](../books_images/U-IMG-1721491229Capture5.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1721491229Capture5.JPG"/>
 
 **सुभाषितानि**
 
@@ -2491,14 +2531,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 आत्मनो जन्मनः क्षेत्रं पुण्यं रामाः सनातनम्।  
 ऋषीणामपि का शक्तिः स्रष्टुं रामामृते प्रजाम्॥१६॥
 
-![](../books_images/U-IMG-1721506937Ebharati_Design_10.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721506937Ebharati_Design_10.jpg"/>
 
 अपि मुदमुपयान्तो वाग्विलासैः स्वकीयैः  
 परभणितिषु तोषं यान्ति सन्तः कियन्तः।  
 निजघनमकरन्दस्यन्दपूर्णालवालः,  
 कलशसलिलसेकं नेहते किं रसालः॥१७॥
 
-![](../books_images/U-IMG-1721506937Ebharati_Design_10.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721506937Ebharati_Design_10.jpg"/>
 
 वार्ता च कौतुकवती विमला च विद्या,  
 लोकोत्तरः परिमलश्च कुरङ्गनाभेः।  
@@ -2507,7 +2547,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 प्रसन्नराघवात्
 
-![](../books_images/U-IMG-1721506937Ebharati_Design_10.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721506937Ebharati_Design_10.jpg"/>
 
 न जातु कामान्न भयान्न लोभात्,  
 धर्मं त्यजेज्जीवितस्यापि हेतोः।  
@@ -2516,11 +2556,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE3MzY1NTI4MzA
 
 उद्भटः
 
-![](../books_images/U-IMG-1721506937Ebharati_Design_10.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721506937Ebharati_Design_10.jpg"/>
 
 **इति द्वितीयो बिन्दुः**  
 
-![](../books_images/U-IMG-1721506937Ebharati_Design_10.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721506937Ebharati_Design_10.jpg"/>
 
 \]
-

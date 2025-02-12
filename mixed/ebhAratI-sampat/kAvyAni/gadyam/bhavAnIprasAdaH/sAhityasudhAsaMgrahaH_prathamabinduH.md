@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 [TABLE]
 
 **पूर्वाभाषणम्  
-![](../books_images/U-IMG-1720850002Screenshot2024-07-13112307.jpg)**
+<MISSING_FIG href="../books_images/U-IMG-1720850002Screenshot2024-07-13112307.jpg"/>**
 
  मानुषवाङ्मयमात्रेरसात्मिका हि वाणी मानवानां मनांसिबलाद्वशीकरोत्येव, परं सुरवाणीसाहित्यस्य सुमनांसि केनाप्यपूर्वेण सौरभेण सहृदयानां हृदयानि यथाह्लादयन्ति मदयन्ति च, न तथेतरासांभाषाणां कविताकलापः। गीर्वाणवाणीसाहित्य-सुधामास्वादमास्वादं यमानन्दं चेतोऽनुविन्दते, तस्य शतांशमपि नोपलभ्यतेऽन्यत्रेत्यत्र देववाणी विशारदा एव प्रमाणम्। संस्कृतवाण्यां विविधभावप्रादुर्भावसमर्थानां शब्दानां कोशस्य विशालताऽत्र प्रथमो हेतुः। यथानानार्थ-व्यञ्जकैरनन्तशब्दैःविविधाः परः संख्याः श्लेषादयोऽलंकाराःसंस्कृतसाहित्ये निर्मीयन्ते, विविधरसानां परिपाकश्च जायते, तथा मितार्थशब्दकृच्छ्रताक्षीणकलेवरासु परवाक्षु भवितुं नार्हति। संस्कृतसाहित्ये हि शब्दालङ्काराणामर्थालङ्काराणाञ्च या संख्या दरीदृश्यते,तेषामवान्तरभेदानाञ्च यो विस्तरो वरीवर्ति, नवानां दशानां वारसानां यथाविध परिपोषश्च जायते, तदितरभाषा- कवितायां लेशतोऽपि न कुत्रापि प्राप्यते। इतरभाषासु वृत्तमयमेव वाङ्मयं कवितापदभाग्भवति, तत्रैव चमत्कृतेरुपलम्भात्, परं संस्कृतसाहित्येगद्ये पद्ये च द्वयोः समाना कविताश्रीर्विराजते, उभयत्र रमणीयार्थप्रतिपादकशब्दानां विलासात्।
 
@@ -48,9 +48,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
   अवसाने चेदं पुनरुक्तवदेवयत्स्वक्षुद्रमत्यनुरूपं कृतोऽप्ययंसंग्रहः परमकृपालूनां प्राक् प्रशंसितानां महाशयानामेव साहाय्येनप्रस्तुतं रूपं प्राप। माननीयमित्रमुपाचार्यो विद्वद्वरेण्यः श्रीराम देवमहोदयोऽप्यस्यक्रमविधौ प्रचुरं साहाय्यं दत्तवानिति तस्यापि बहु कृतज्ञोऽस्मि। अस्य संग्रहस्य मुद्रणे ये दृष्ट्यादिदोषा दृश्येरंस्ते दयादाक्षिण्याद्युदारगुणैः सुधीभिः समाधेयाः।
 
-![](../books_images/U-IMG-17218822707.png)
+<MISSING_FIG href="../books_images/U-IMG-17218822707.png"/>
 
-![](../books_images/U-IMG-1721478625इमगे.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1721478625इमगे.jpg"/>
 
 |                            |
 |----------------------------|
@@ -125,7 +125,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 **(यजुर्वेदात् २२-२२)**
 
-![](../books_images/U-IMG-1720630730image13.jpg)सौमनस्यसूक्तम् ![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>सौमनस्यसूक्तम् <MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
 सहृदयं सांमनस्य मविद्विषं कृणोमि वः।  
 अन्यो अम्यमभि हर्यत वत्सं जातमिवाध्न्या॥१॥
@@ -156,7 +156,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 **(अथर्ववेदात् ३-३०)**
 
-![](../books_images/U-IMG-1720630730image13.jpg) ब्रह्मचर्यसूक्तम् ![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/> ब्रह्मचर्यसूक्तम् <MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
 ब्रह्मचारीणश्चरति रोदसी उभे,  
 तस्मिन् देवाः संमनसो भवन्ति।  
@@ -205,9 +205,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 (अथर्ववेदात् ११–५)
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
-पृथिवीसूक्तम्![](../books_images/U-IMG-1720630730image13.jpg)
+पृथिवीसूक्तम्<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
 सत्यं बृहद्रतमुग्रं दीर्क्षांतपो ब्रह्मयज्ञःपृथिवींधारयन्ति।  
 सा नो भूतस्य भव्यस्य पत्न्युरुं लोकं पृथिवी नः कृणोतु॥१॥
@@ -294,9 +294,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 (अथर्ववेदात् १२-१)
 
-**![](../books_images/U-IMG-1720630730image13.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
-**दकार–त्रयोपदेशः![](../books_images/U-IMG-1720630730image13.jpg)**
+**दकार–त्रयोपदेशः<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
+
+ 
 
 त्रयाः प्राजापत्याः प्रजापतौ पितरि ब्रह्मचर्य्यमूषुर्देवा मनुष्याअसुराः। उषित्वा ब्रह्मचर्यं देवा ऊचुः “ब्रवीतु नो भवानिति” तेभ्यो हएतदक्षरमुवाच "द" इति। "व्यज्ञासिष्टा ३ इति" "व्यज्ञा-
 
@@ -308,9 +310,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 (शतपथ ब्राह्मणात्)
 
-**![](../books_images/U-IMG-1720630730image13.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
-**सत्यमहिमा![](../books_images/U-IMG-1720630730image13.jpg)**
+**सत्यमहिमा<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
   नाभानेदिष्टं वैमानवं ब्रह्मचर्यं वसन्तं भ्रातरो निरभजन्। सोऽब्रवीदेत्यकिं मह्यमभाक्तेति। एतमेव निष्ठावमववदितारमित्यब्रुवन्। तस्माद्धाप्येतर्हि पितरं पुत्रा निष्ठावोऽववदितेत्येवाचक्षते।स पितरमेत्याब्रवीत् त्वां ह वाव मह्यं तताभाक्षुरिति। तं पिताब्रवीत्। मा पुत्रक तदाद्वथाः। अङ्गिरसो वा इमे स्वर्गाय लोकायसत्रमासते। ते षष्ठं षष्ठमेवाहरागत्य मुह्यन्ति। तानेते सूक्तेषष्ठेऽहनि शंसय तेषां यत्सहस्रं सत्रपरिवेषणं तत्ते स्वर्यन्तो दास्यन्तीति।तथेति तानुपैत्प्रतिगृणीत मानवं सुमेधस इति। तमब्रुवन् किंकामो वदसीति। इदमेव वः षष्ठमह प्रज्ञापयानीत्यब्रवीदथ यद्व एतत्सहस्रंसत्रपरिवेषणं तन्मे स्वर्यन्तोऽदत्तेति। तथेति। तानेते सूक्तेषष्ठेऽहन्यशंसयत्। ततो वै तेप्र यज्ञमजानन् प्र् स्वर्गं लोकम्। तद्यदेते सूक्ते षष्ठेऽहनि शंसति यज्ञस्य प्रज्ञात्यै स्वर्गस्य लोकस्यानुस्यात्यै। तं स्वर्यन्तो
 
@@ -322,11 +324,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 (ऐतरेय ब्राह्मणात् ५-२-१४)
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
 सप्तविकार–विजय–विधानं
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
   जायमानो ह वै ब्राह्मणः सप्तेन्द्रियाण्यभिजायन्ते,
 
@@ -340,19 +342,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 (गोपथब्राह्मणात् २-२)
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
-आत्मज्ञान–महिमा![](../books_images/U-IMG-1720630730image13.jpg)
+आत्मज्ञान–महिमा<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
   स वा एष महानजआत्मा योऽयं विज्ञानमयः प्राणेषु। य एषोऽन्तर्हृदय आकाशस्तस्मिञ्छेते सर्वस्य वशी सर्वस्येशानः सर्वस्याधिपतिःस न साधुना कर्म्मणा भूयान्नो एव असाधुना कनीयान् एष सर्वेश्वरएष भूताधिपतिरेष भूतपाल एषसेतुर्विधरण एषां लोकानामसम्भेदाय तमेतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन तपसाऽनाशकेनैमेव विदित्वा मुनिर्भवति एतमेव प्रव्राजिनो लोकमिच्छन्तःप्रव्रजन्ति एतद्ध स्म वै तत्पूर्वे विद्वांसः प्रजां न कामयन्ते किं प्रजयाकरिष्यामो येषां नोऽयमात्माऽयं लोक इति ते ह स्म पुत्रैषणायाश्चवित्तेषणायाश्च लोकैषणायाश्च व्युत्थायाऽथ भिक्षाचर्यंचरन्ति याह्येव पुत्रैषणा सा वित्तैषणा या वित्तैषणा सा लोकैषणोभे ह्येते एषणेएव भवतः। स एषनेति नेत्यात्माऽगृह्योन हि गृह्यतेऽशीर्य्यो न हिशीर्य्यतेऽसङ्गो न हि सज्यतेऽसितो न व्यथते न रिष्यत्येतमु हैवैते नतरत इत्यतः पापमकरवमित्यतः कल्याणमकरवमित्युभे उ हैवैष एते तरति नैनं कृताकृते तपतः॥२२॥
 
 (बृहदारण्यकोपनिषदः ४-४-२२)
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
 आत्मज्ञानेन मोक्षाधिगमः
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
 आत्मानं रथिनं विद्धि शरीरं रथमैव तु।  
 बुद्धिन्तु सारथिं विद्धि मनः प्रग्रहमेव च॥१॥
@@ -395,9 +397,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 (कठोपनिषदः ३-१)
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
-वर्षावर्णनम्![](../books_images/U-IMG-1720630730image13.jpg)
+वर्षावर्णनम्<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
 अयं स कालः संप्राप्तः समयोऽद्य जलागमः।  
 संपश्य त्वं नभो मेघैः संवृतं गिरिसंनिभैः॥१॥
@@ -523,9 +525,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 ( श्री वाल्मीकि–रामायणस्य  
 किष्किन्धाकाण्ड–२८ सर्गात्)
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
-शरद्वर्णनम् ![](../books_images/U-IMG-1720630730image13.jpg)
+शरद्वर्णनम् <MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
 शाखासु सप्तच्छदपादपानां प्रभासु तारार्कनिशाकराणाम्।  
 
@@ -612,9 +614,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 **(श्री वाल्मिीकि–रामायणस्य  
 किष्किन्धाकाण्ड३० सर्गात्)**
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
-हेमन्तवर्णनम्**![](../books_images/U-IMG-1720630730image13.jpg)**
+हेमन्तवर्णनम्**<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
 **वसतस्तस्य तु सुखं राघवस्य महात्मनः।  
 शरद्व्यपाये हेमन्त ऋतुरिष्टः प्रवर्तत॥१॥**
@@ -691,9 +693,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 (श्री वाल्मीकि रामायणस्य)  
 (अरण्यकाण्ड १६ सर्गात्)
 
-![](../books_images/U-IMG-1720630730image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
-चन्द्रवर्णनम्![](../books_images/U-IMG-1720630730image13.jpg)
+चन्द्रवर्णनम्<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>
 
 ततः स मध्यंगतमंशुमन्तं ज्योत्स्ना वितानं मुहुरुद्वमन्तम्।  
 ददर्श धीमान्भुवि भानुमन्तं गोष्ठे वृषं मत्तमिव भ्रमन्तम्॥१॥
@@ -719,11 +721,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 (श्री वाल्मीकिरामायणस्य)  
 सुन्दरकाण्ड ५म सर्गात्
 
-![](../books_images/U-IMG-1720759063Screenshot2024-07-12100710.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720759063Screenshot2024-07-12100710.jpg"/>
 
-**![](../books_images/U-IMG-1720630730image13.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
-**श्रीकृष्णार्जुनसंवादः![](../books_images/U-IMG-1720630730image13.jpg)**  
+**श्रीकृष्णार्जुनसंवादः<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**  
 
 **प्रथमोऽध्यायः**  
 
@@ -1121,9 +1123,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 **( इति भगवद्गीतायाः द्वितीयोऽध्यायः  
 श्री व्यासकृतमहाभारतात् )**
 
-**![](../books_images/U-IMG-1720630730image13.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
-**सुशब्द–प्रयोग–महिमा** **![](../books_images/U-IMG-1720630730image13.jpg)**
+**सुशब्द–प्रयोग–महिमा** **<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
 **यस्तु प्रयुङ्क्ते कुशलो विशेषे,  
 शब्दान् यथावद् व्यवहारकाले।  
@@ -1139,9 +1141,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 (श्री पातञ्जल महाभाष्यात् १-१-१)
 
-**![](../books_images/U-IMG-1720630730image13.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
-**काल विभागः![](../books_images/U-IMG-1720630730image13.jpg)**
+**काल विभागः<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
   सन्ति च खल्वपिकालविभागाः। तिष्ठन्ति पर्वताः स्थास्यन्तिपर्वतास्तस्युःपर्वता इति। किं शक्यन्त एते शब्दाः प्रयोक्तुमित्यतःसन्ति कालविभागाः। नाऽवश्यं प्रयोगादेव। इह हि भूतभविष्यद्वर्त-
 
@@ -1169,9 +1171,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 (श्री पातञ्जल महाभाष्यस्य  
 अ० ३-पा० २-आ० २ वर्तमाने लट् सूत्रात्)
 
-**![](../books_images/U-IMG-1720630730image13.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
-**ऐषणात्रय–व्याख्या** **![](../books_images/U-IMG-1720630730image13.jpg)**
+**ऐषणात्रय–व्याख्या** **<MISSING_FIG href="../books_images/U-IMG-1720630730image13.jpg"/>**
 
   "इह खलु पुरुषेणाऽनुपहतसत्वबुद्धिपौरुषपराक्रमेण हितमिहचामुष्मिंश्चलोके समनुपश्यता तिस्र एषणाः पर्येष्टव्या भवन्ति॥१॥
 
@@ -2803,7 +2805,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 कुवलयितगवाक्षां लोचनैरङ्गनानाम्॥८८॥**
 
 **इत्येकादशः सर्गः  
-![](../books_images/U-IMG-1721538943स्स्स्स्.jpg)**
+<MISSING_FIG href="../books_images/U-IMG-1721538943स्स्स्स्.jpg"/>**
 
 **द्वादशः सर्गः।**
 
@@ -3114,7 +3116,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 **इति द्वादशः सर्गः**
 
-**![](../books_images/U-IMG-1721232529Screenshot2024-07-11204324.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721232529Screenshot2024-07-11204324.png"/>**
 
 त्रयोदशः सर्गः
 
@@ -3570,7 +3572,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 **अभिज्ञान शाकुन्तलचम्पूः**  
 
-**![](../books_images/U-IMG-1721279229Screenshot2024-07-18103322.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721279229Screenshot2024-07-18103322.png"/>**
 
 **या सृष्टिः स्रष्टुराद्या वहति विधिहुतं या हवि, र्या च होत्री,  
 ये कालं विधत्तः, श्रुतिविषयगुणा या स्थिता व्याप्य विश्वम्।  
@@ -3779,7 +3781,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 **अर्थो हि कन्या परकीय एव तामद्य संप्रेष्य परिग्रहीतुः।  
 जातो ममाऽयं विशदः प्रकामं प्रत्यर्पितन्यास इवाऽन्तरात्मा॥२८॥**
 
-![](../books_images/U-IMG-1721264952Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721264952Screenshot2024-07-18063849.png"/>
 
  अथैकदा राजाऽधिकारखेदं निरूप्य विवारयामास—“सर्वः प्रार्थितमधिगम्य सुखी सम्पद्यते जन्तुः राज्ञान्तु चरितार्थतादुःखोत्तरैव। कुतः—
 
@@ -3899,7 +3901,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 इति वदन् शयनभूमिं जगाम।
 
-![](../books_images/U-IMG-1721290700Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721290700Screenshot2024-07-18063849.png"/>
 
   शक्राऽवताराभ्यन्तरवासी कश्चिद्धीवरो जालोद्गालादिभिर्मत्स्यबंधनोपायैः कुटुम्बभरणमकरोत्। एकस्मिन्दिवसे तेन रोहितमत्स्यः खण्डशः कल्पितः। तदा तस्योदराभ्यन्तरे रत्नभासुरमङ्गुलीयकं तेन दृष्टम्। पश्चाद्विक्रयाय तद् दर्शयन् नागरिकेण राजश्यालेन चौर्याऽपराधे निगृहीतः स यथायथमङ्गुलीयकाऽऽगमं तस्मै न्यवेदयत्। श्यालोऽपि तस्याङ्गुलीयकस्य विस्रगन्धमाघ्राय मत्स्योदरसंस्थितमेव तदिति निश्चित्य धीवरं निरोद्धुं रक्षिणावादिश्य राजकुलं जगाम। तत्र राज्ञे यथागमनमङ्गुलीयकं निवेद्य राजशासनमादायप्रतिनिवृत्तः—“मुच्यतामेष जालोपजीवी, उपपन्नः किलाऽ- ङ्गुलीयकस्याऽऽगमः, एष भर्त्राङ्गलीयकमूल्य संमितो दापितः प्रसादः” इत्युक्त्वा पुरुपं बन्धनादुन्मुच्यार्थं तस्मै प्रायच्छत्। ततः “सत्यमूढपूर्वा मया तत्रभवती रहसि शकुन्तला मोहाच्च प्रत्यादिष्टा” इति स्वाङ्गुलीयकदर्शनादनुस्मृत्य पश्चात्तापमुपगतो दुष्यन्तः कुत्रापि निर्वृतिमलभमानः शिशिरातपच्छेदरमणीये प्रमदवनोद्देशे आत्मानं विनोदयितुं सह विदूषकेणगतः। तदैव प्रतीहारी पत्रहस्ता प्रविवेश विज्ञापयामास च—“देव ! अमात्यो विज्ञापयति—अर्थजातस्य गणनाबहुलतया एकमेव पौरकार्यमवेक्षितं तद्देवः पत्रारूढं प्रत्यक्षीकरोतु” इति। ततो राजा पत्रिकां गृहीत्वावाचयत्—“समुद्रव्यवहारी सार्थवाहो धनमित्रो नाम नौव्यवसने विपन्नः। अनपत्यश्च किल तपस्वी। राजगामी तस्यार्थसञ्चयः” इति। अनन्तरमुवाच
 
@@ -4135,11 +4137,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 **इति अभिज्ञानशाकुन्तलम्।**  
 
-**![](../books_images/U-IMG-1721305707Screenshot2024-07-11204324.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721305707Screenshot2024-07-11204324.png"/>**
 
 हिमालय वर्णनम्  
 
-![](../books_images/U-IMG-1721305826Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1721305826Screenshot2024-07-18063849.png"/>
 
 अस्त्युत्तरस्यां दिशि देवतात्मा हिमालयो नाम नगाधिराजः।  
 पूर्वापरौतोयनिधी वगाह्य स्थितः पृथिव्या इव मानदण्डः॥१॥
@@ -4182,7 +4184,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 “पार्वती तपस्या
 
 ”  
-![](../books_images/U-IMG-1721315676Screenshot2024-07-09151321.png)
+<MISSING_FIG href="../books_images/U-IMG-1721315676Screenshot2024-07-09151321.png"/>
 
 तथा समक्षं दहता मनोभवं पिनाकिना भग्नमनोरथा सती।  
 निनिन्दरूपं हृदयेन पार्वती प्रियेषु सौभाग्यफला हि चारुता॥
@@ -4419,7 +4421,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 (कुमारसंभवस्य पञ्चम सर्गात्)
 
 **पार्वती परिणयः  
-![](../books_images/U-IMG-1721316362Screenshot2024-07-18063849.png)**
+<MISSING_FIG href="../books_images/U-IMG-1721316362Screenshot2024-07-18063849.png"/>**
 
 अथौषधीनामधिपस्य वृद्धौ तिथौ च जामित्रगुणान्वितायाम्।  
 समेतबन्धुर्हिमवान्सुताया विवाहदीक्षाविधिमन्वतिष्ठत्॥१॥
@@ -4598,7 +4600,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 **बुद्धवैराग्यम्**  
 
-**![](../books_images/U-IMG-1721287610Screenshot2024-07-10063051.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721287610Screenshot2024-07-10063051.png"/>**
 
 **ततः कदाचिन्मृदुशाद्वलानि पुंस्कोकिलोन्नादितपादपानि।  
 शुश्राव पद्माकरमण्डितानि शीते निबद्धानि स काननानि॥१॥**
@@ -4815,7 +4817,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 \* सुभाषितानि\*  
 
-![](../books_images/U-IMG-1721240035Screenshot2024-07-10063051.png)
+<MISSING_FIG href="../books_images/U-IMG-1721240035Screenshot2024-07-10063051.png"/>
 
 अथ सुभाषितप्रशंसा
 
@@ -5509,6 +5511,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkyMTIzOTI4NzA
 
 (शूद्रकस्य)
 
-![](../books_images/U-IMG-1720630889image24.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1720630889image24.jpg"/>
 
 \]

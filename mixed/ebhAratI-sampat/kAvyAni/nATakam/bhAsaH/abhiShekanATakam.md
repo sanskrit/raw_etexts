@@ -76,7 +76,7 @@ and 2. That writer was the great Bhasa owned by Bana and Kalidasa, as their wort
 
  5. The style and language are strikingly similar.
 
- 6. In many of these plays the device of 'Unintentional Dramatic replies' (पताकास्थान)and the figure of speech मुद्रा[^6](*Paranomasia)* for the opening verse, are used.
+ 6. In many of these plays the device of 'Unintentional Dramatic replies' (पताकास्थान)and the figure of speech मुद्रा[^6] (*Paranomasia)* for the opening verse, are used.
 
 [^6]: " See Panca, Pratijna, Svapna & Pratima."
 
@@ -1211,6 +1211,7 @@ ACT V (शोकाङ्कः)
 
 ** राक्षसः—**यदज्ञापयति महाराजः।
 
+                                   
         (निष्क्रान्तः)
 
 ** रावणः—**त्वमपि तावद् वानरमानय।
@@ -1694,9 +1695,9 @@ ACT V (शोकाङ्कः)
 
 (प्रविश्य) **नीलः—**यदाज्ञापयति महाराजः। (निष्क्रम्य, प्रविश्य) जयतु देवः! क्रमान्निवेश्यमानासु सेनासुवृन्दपरिग्रहेषु परीक्ष्यमाणेषु पुस्तकप्रामाण्यात् कुतश्चिदप्यविज्ञायमानौ द्वौ वनौकसौ गृहीतौ। वयं न जानीमः कर्तव्यम्।देवस्तस्मात् प्रमाणम्।[^123]
 
-** रामः—**शीघ्रं प्रवेशयत्वेतौ।
-
 [^123]: "तस्माद्देव एव प्रमाणम्."
+
+** रामः—**शीघ्रं प्रवेशयत्वेतौ।
 
 ** नीलः—**यदाज्ञापयति देवः।                    
    (निष्क्रान्तः)
@@ -2345,9 +2346,9 @@ ACT V (शोकाङ्कः)
 
 ** रामः**—अनुगृहीतोऽस्मि[^166]
 
- **अग्निः**—भद्रमुख! अभिषेकार्थमित इतो भवान्।
-
 [^166]: "नमोऽस्तु सर्वदेवेभ्यः."
+
+ **अग्निः**—भद्रमुख! अभिषेकार्थमित इतो भवान्।
 
 ** रामः**—यदाज्ञापयति[^167] भगवान्।        
                                 
@@ -2405,9 +2406,9 @@ ACT V (शोकाङ्कः)
 
 **षष्ठोऽङ्कः**[^171]
 
-अभिषेकनाटकं समाप्तम्
-
 [^171]: "अयमेव रामप्रवेशादारभ्य सप्तमोऽङ्कः."
+
+अभिषेकनाटकं समाप्तम्
 
 ––––––––––––
 
@@ -3734,6 +3735,8 @@ The play is so named as it deals with the three *Abhishekas* of Sugriva, of Vibh
 
  Mention is made here of the characters coming upon the stage at the commencement of the actual play. This device is called प्रयोगातिशय. स्थापना is the name used by Bhasa for the prologues of his plays. These are marked for beingvery brief and for the absence of any mention of the names of either the poet or his patron.
 
+ 
+
 Page 2
 
 . **sl**. 5 recounts the test Rama underwent to convince Sugriva of his capacity to kill Valin. / 17. सोपस्नेहतया........*of*.प्रतिमाii. **sl**. 7.नादेन .... *of*. I 2; but **sl.** 8. which is actually what Sugriva roars out to invite Valin, breathes a very noble and affectionate sentiment. Sugriva is not quite at fault in taking Valin's wife because he believed then that Valin was dead. Yet Valin had expelled him from his country.**sl**. 10. नालं मामभिमुखमेत्य refers to the fact that Valin could not be slain by any one in a face to face fight, by virtue of a boon to him. / 19. अस्य जनस्य–seeing that argument with Valin is no good, Tara asks for a personal favour, as it were. **sl**. 11. Valin speaks of his great might here. His taking the leading part in the अभृतमन्थनis not told in any of the popular Puranas. **Page 4**. हं मम वशनुवर्तिनी भव—the wife, in Bhasa's times, had to obey the husband so implicitly that even a queen had no voice in matters other than purely household. *of.* Pratijna II. **sl**. 12 म़़ञ्चक्षुष्पथमासाध—Valin expects only an अभिमुखयुद्ध. *l*9. Note Sugriva's respect for his elder brother, even when he has gone to fight with him. **sl.** 14. Lakshmana does not like Sugriva's fighting with his own elder brother. That is why he says वानरत्वात् and सतां विहाय वृत्तम्.**Page5**. / 4 परिवीत—परि+वि+ई+त्त्क=hit down.This roof is rarely used in classical literature. / 5 शरे नामश्क्षरणि—*of.*पंचरात्र
@@ -3790,4 +3793,3 @@ ACT VI
  **Sl**. 1 is a split verse. Bhasa is fond of using suchverses; *of*. प्रतिमाiii 1; पञ्चi 57. **sl** 2. Warfield compared to an ocean. **sl**. 3 d. वज्र—इन्द्रा's (thunder-bolt) weapon made of the bones of दधीच, by which he chopped the wings of the mountains. **sl**. 4 demons attack the monkey forces. **sl**. 5 is like vii, a split verse and graphically describes the fight. **sl**.16 रावण in fighting mood. उदयशिखरि— the mountain supposed to be at the eastern horizon, behind which the sun and moon appear to rise. **sl.**7 राम in his fighting pose. क्रौञ्च यथा &c. see note on i 24. **sl**. 8 the fight begins. **sl.**9-11 the fight between रामon foot and रावणin his chariot. **sl**. 12 राम in इन्द्र's chariot driven by मातलि. त्रिपुरवधाय—मय had built three cities of gold, silver and iron in the sky, air and earth for demons. At the request of the gods, शिवburnt down these cities with their inhabitants. **sl.**13-17 the fight. Note the metre suggestive of the manner of the fight. **sl.**18 Rejoicing in the heavens at रावण's death. **P. 39**प्रतिज्ञार्णव— the vow of promise to free the sages of their troubles from demons by slaying Ravana. *of*. आश्चर्यचूडामणिvii 11. **sl**. 20 क्षय— house. राम is reluctant to see सीता for two reasons– 1. long separation between himself and सीता; and 2. her stay in the house of his enemy. /10 note the implicit obedience of . **sl**. 22 gives राम's definition of a true friend. While विभीषण is trying to advocate the cause of सीता before राम, लक्ष्मण has informed सीता of राम's attitude and she has decided to throw herself into fire with राम's permission. / 22 प्रतिव्रतायाः.... This is ample to show that राम has no doubt of her purity; only the points mentioned in sl 20 prevent him from accepting her. **sl**. 23 धर्मस्नेहान्तरे.... *of*. p. 13 / 20 & प्रतिज्ञा ii 7. / 8 आश्चर्यमाश्वर्यम् *of.* आ. चूडामणि vii **sl**. 24 सीता enters into the pyre gladly. **sl**. 25 सीता's appearance after the अग्निप्रवेश. I 25 Rama salutes the Fire god who recognises राम as the great नारायणin P 41/1; but it is significant that he immediately addresses him राजेन्द्र and पुरुषोत्तम in **sl**. 27 just as वरुण did in p. 27 // 2-3 (iv). **sl**. 28 अग्नि reveals that सीता is goddess लक्ष्मी. of राघवत्वेऽभवत्सीता रुक्मिणी कृष्णजन्मनि। अन्येषु चायतारेषु विष्णोरेषानपायिनी॥**sl**. 29 रामा's explanation as to why he allowed सीता's अग्निप्रवेश. **sl.** 30-31. राम is clearly identified with नारायण. The गान is similar to that in the आश्चर्यचूडामणि **sl**. 32 प्रतिज्ञार्णव of. vi 19. **sl.** 33 of. आ.चूडामणिv13. **sl.** 34 The circumstances in which रामis consecrated on the seashore alone is very significant. Even Bharata arrives there to participate in the rejoicing occasion.
 
 \]
-

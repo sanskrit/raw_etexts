@@ -17,11 +17,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NzU5MDIwMjE
 
 [TABLE]
 
-![](../books_images/U-IMG-1724749557dddfsa.png)
+<MISSING_FIG href="../books_images/U-IMG-1724749557dddfsa.png"/>
 
 **प्रास्ताविक**
 
-![](../books_images/U-IMG-1694178979untittled.png)
+<MISSING_FIG href="../books_images/U-IMG-1694178979untittled.png"/>
 
  प्रस्तुत पुस्तक माझ्या एका मराठी कादंबरीचा अनुवाद आहेमालवण येथील टोपीवाला हायस्कूलांतील संस्कृत अध्यापक रा. लाटकरशास्त्री यांनीतो केला आहे व त्याबद्दल मी त्यांचा ऋणी आहे.वास्तविक या कादंबरीचें संस्कृतांत भाषांतर करण्याची कल्पना मुलांतमला सुचलेली नाही. रा. लाटकरशास्त्री यांनीं माझी मराठी कादंबरीवाचली. त्याचा संस्कृत अनुवाद करावा अशी स्वतंत्रपणे त्यांनाचइच्छा झाली. आणि तो करण्याला त्यांनीं माझी संमति मागितली, तीमी दिली. पण यांत माझा त्यांच्यावर कांहीउपकार झालेला नसूनत्यांचाच उपकार मजवर झालेला आहे. कारण एवढे भाषांतर करणेंहे किती श्रमाचें आणि तें छापविणें किती खर्चाचें आहे याचीकल्पना कोणासहि येईल.
 
@@ -61,9 +61,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NzU5MDIwMjE
 
 **वा. आ. लाटकरशास्त्री**
 
-**![](../books_images/U-IMG-1694184156untittled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1694184156untittled.png"/>**
 
-![](../books_images/U-IMG-1698324562untittled.png)
+<MISSING_FIG href="../books_images/U-IMG-1698324562untittled.png"/>
 
 **M. S. ANEY, B. A. B. L., M. L. A. (Central)  
 19, Feroz Shah Road, New Delhi.**
@@ -336,7 +336,7 @@ S. M. T. T. College, **}** **G. S. Huparikar**, M. A., B. T.
 
 **इतिदितीयः परिच्छेदः।**
 
-![](../books_images/U-IMG-1722649834सिंहः.png)
+<MISSING_FIG href="../books_images/U-IMG-1722649834सिंहः.png"/>
 
 **तृतीयःपरिच्छेदः।**
 

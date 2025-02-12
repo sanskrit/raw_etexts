@@ -21,9 +21,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczOTEzNTA2Mjc
 
 PREFACE
 
-![](../../../../../books_images/U-IMG-1701084542aaaaaa.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1701084542aaaaaa.png"/>
 
- ![](../../../../../books_images/U-IMG-1700717412aaaaaa.png)HE following stories of ancient India have been taken from the two great epics of this country and some of the principal *puranas.* They aretold in the words of the authors themselves, sometimes as they are narrated in the ancient books and occasionally with omissions where the narrative was unduly long or required compression. In the *Ramayana,* apart from the main story which has been a source of solace to millions in the land, there are few anecdotes of sufficient importance to interest and instruct the reader. It will be scarcely consistent with the object of this publication to issue a collection of Aryan stories without giving a place to the story of that great epic which has moulded the lives and guided the aspirations of hundreds of generations in this vast continent. A modern composition giving the story of that poem within the limits of a few pages can never possess the charm or command the authority of Valmiki's verse. I have decided therefore to include the story of the *Ramayana* in the language of Valmiki in an abbreviated form, keeping only to the main incidents so that the thousands of young men who complete their school and college education at the present day with no more knowledge of India's greatest epic than they might have gathered on the laps of their grandmothers, might learn to appreciate and admire and treasure in their hearts the lofty morality, the heroic deeds and the sublime poetry that adorn the stately verse of the foremost poet of the land. Hundreds of beautiful passages and innumerable scenes of surpassing loveliness have necessarily been sacrificed in this endeavour to give to the hurried modern world in a brief compass a taste of the splendidproduct of the greatest poetic genius that has yet been born inI
+ <MISSING_FIG href="../../../../../books_images/U-IMG-1700717412aaaaaa.png"/>HE following stories of ancient India have been taken from the two great epics of this country and some of the principal *puranas.* They aretold in the words of the authors themselves, sometimes as they are narrated in the ancient books and occasionally with omissions where the narrative was unduly long or required compression. In the *Ramayana,* apart from the main story which has been a source of solace to millions in the land, there are few anecdotes of sufficient importance to interest and instruct the reader. It will be scarcely consistent with the object of this publication to issue a collection of Aryan stories without giving a place to the story of that great epic which has moulded the lives and guided the aspirations of hundreds of generations in this vast continent. A modern composition giving the story of that poem within the limits of a few pages can never possess the charm or command the authority of Valmiki's verse. I have decided therefore to include the story of the *Ramayana* in the language of Valmiki in an abbreviated form, keeping only to the main incidents so that the thousands of young men who complete their school and college education at the present day with no more knowledge of India's greatest epic than they might have gathered on the laps of their grandmothers, might learn to appreciate and admire and treasure in their hearts the lofty morality, the heroic deeds and the sublime poetry that adorn the stately verse of the foremost poet of the land. Hundreds of beautiful passages and innumerable scenes of surpassing loveliness have necessarily been sacrificed in this endeavour to give to the hurried modern world in a brief compass a taste of the splendidproduct of the greatest poetic genius that has yet been born inI
 
 ndia, if not in all the world.Care,however, has been taken to preserve some specimens of Valmiki's inimitable painting of scenes and characters. In the case of the *Mahabharata* and of the *Puranas* from which most of the selections have been made, the task has been comparatively easy. The *Mahabharata* and the *Bhagavata* are more in the nature of collections of stories which have been strung together by a very slender thread than in the nature of single stories with occasional anecdotes. There are about forty of them within the covers of this volume. They are now presented to the world as illustrative of the ideals of duty, the force of character, the spirit of self-sacrifice, and the philosophy of life which have inspired, and guided the destinies of, millions of the human race. The book isnecessarily incomplete without the story of the heroes and heroines who played such a great part in the history of India that they have retained a permanent hold on the national consciousness which no lapse of centuries can loosen. But the history of the "Great war" cannot be told in the language of Vyasa in less than a volume by itself.
 
@@ -92,13 +92,13 @@ CONTENTS
 | Yakshaprasna—The problems of life                     |
 | Ramacharitam—The Indian Hero                          |
 
-![](../../../../../books_images/U-IMG-1700802063aaaaaa.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1700802063aaaaaa.png"/>
 
 ॥ श्रीः ॥
 
 \।\। विषयसूचिका \।\।
 
-![](../../../../../books_images/U-IMG-1700804794aaaaaa.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1700804794aaaaaa.png"/>
 
 |                           |
 |---------------------------|
@@ -154,13 +154,13 @@ CONTENTS
 | रामचरितम्—सुन्दरकाण्डम्|     |
 | रामचरितम्—युद्धकाण्डम् |      |
 
-![](../../../../../books_images/U-IMG-1701153797aaaaaa.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1701153797aaaaaa.png"/>
 
  **॥ श्रीः ॥**
 
 **॥ भारतमहिमा ॥**
 
-![](../../../../../books_images/U-IMG-1696867703ebharati1.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1696867703ebharati1.jpg"/>
 
 श्रीमद्वसुधावनितावदनसरोजायमाननिजरूपम् ।  
 हृद्यानवद्यविद्याविद्योति विभाति भारतं वर्षम् ॥१॥
@@ -278,11 +278,11 @@ CONTENTS
 
 **\।\।आर्यचरित्रम्\।\।**
 
-**![](../../../../../books_images/U-IMG-169695246199UPPER.jpg)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-169695246199UPPER.jpg"/>**
 
 **\।\। हरिश्चन्द्रोपाख्यानम् \।\।**
 
-![](../../../../../books_images/U-IMG-169695254999LOWER.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-169695254999LOWER.jpg"/>
 
 धर्मपक्षिण ऊचुः ॥
 
@@ -539,11 +539,11 @@ CONTENTS
 
 **इति प्रथमोऽध्यायः ॥**
 
-![](../../../../../books_images/U-IMG-1700916023aaaaaa.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1700916023aaaaaa.png"/>
 
 द्वितीयोऽध्यायः ॥
 
-![](../../../../../books_images/U-IMG-1700916256aaaaaa.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1700916256aaaaaa.png"/>
 
 जैमिनिरुवाच ॥
 
@@ -1603,7 +1603,7 @@ CONTENTS
 
 **॥ सत्यपरिपालनम् ॥**
 
-**![](../../../../../books_images/U-IMG-1702219833k.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1702219833k.PNG"/>**
 
 ऋषिरुवाच॥
 
@@ -3004,7 +3004,7 @@ CONTENTS
 
 इति द्वितीयोऽध्यायः ॥
 
-![](../../../../../books_images/U-IMG-1696833678Screenshot2023-10-09121041.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1696833678Screenshot2023-10-09121041.png"/>
 
 **तृतीयोऽध्यायः ॥**
 
@@ -3132,7 +3132,7 @@ CONTENTS
 
 **इति तृतीयोऽध्यायः ॥**
 
-**![](../../../../../books_images/U-IMG-1696848373Screenshot2023-10-09124647त.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1696848373Screenshot2023-10-09124647त.png"/>**
 
 **चतुर्थोऽध्यायः ॥**
 
@@ -3327,7 +3327,7 @@ CONTENTS
 
 इतिचतुर्थोऽध्यायः ॥
 
-**![](../../../../../books_images/U-IMG-1696867171Screenshot2023-10-09212902ख.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1696867171Screenshot2023-10-09212902ख.png"/>**
 
 पञ्चमोऽध्यायः ॥
 
@@ -3440,7 +3440,7 @@ CONTENTS
 
 **इति पञ्चमोऽध्याय ॥**
 
-**![](../../../../../books_images/U-IMG-1696869870Screenshot2023-10-09221403अ.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1696869870Screenshot2023-10-09221403अ.png"/>**
 
 **षष्ठोऽध्यायः ॥**
 
@@ -3546,7 +3546,7 @@ CONTENTS
 
 इति षष्ठोऽध्यायः ॥
 
-![](../../../../../books_images/U-IMG-1696871860Screenshot2023-10-09224722.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1696871860Screenshot2023-10-09224722.png"/>
 
 **सप्तमोऽध्यायः ॥**
 
@@ -3666,7 +3666,7 @@ CONTENTS
 
 इति सप्तमोऽध्यायः ॥
 
-![](../../../../../books_images/U-IMG-1696914345Screenshot2023-10-10103451.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1696914345Screenshot2023-10-10103451.png"/>
 
 अष्टमोऽध्यायः ॥
 
@@ -4154,7 +4154,7 @@ CONTENTS
 
 इतिप्रथमोऽध्यायः॥
 
-**![](../../../../../books_images/U-IMG-1697015878Screenshot2023-10-11144722त.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1697015878Screenshot2023-10-11144722त.png"/>**
 
 **द्वितीयोऽध्यायः ॥**
 
@@ -4327,7 +4327,7 @@ CONTENTS
 
 इति द्वितीयोऽध्यायः ॥
 
-![](../../../../../books_images/U-IMG-1697025787Screenshot2023-10-111731094.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697025787Screenshot2023-10-111731094.png"/>
 
 **तृतीयोऽध्यायः ॥**
 
@@ -4477,7 +4477,7 @@ CONTENTS
 
 इति तृतीयोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1696861473Screenshot2023-10-09195417.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1696861473Screenshot2023-10-09195417.png"/>
 
 **चतुर्थोऽध्यायः॥**
 
@@ -4591,7 +4591,7 @@ CONTENTS
 
 **॥ चक्षुस्तीर्थवर्णनम् ॥**
 
-**![](../../../../../books_images/U-IMG-1696864328Screenshot2023-10-09204140.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1696864328Screenshot2023-10-09204140.png"/>**
 
 चक्षुस्तीर्थमिति ख्यातं रूपसौभाग्यदायकम्।  
 यत्र योगेश्वरोदेवी गौतम्या दक्षिणे तटे॥१॥
@@ -5061,7 +5061,7 @@ CONTENTS
 **\_\_\_\_\_\_\_\_\_\_**
 
 **॥अरुणसुतसत्यव्रतचरित्रम्॥**  
-![](../../../../../books_images/U-IMG-1696904449Screenshot2023-10-10075023.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1696904449Screenshot2023-10-10075023.png"/>
 
 अरुणस्य सुतःश्रीमान्सत्यव्रत इति स्मृतः।  
 सोऽभूदिच्छाचरःकामी मन्दात्मा ह्यतिलोलुपः॥१॥
@@ -5235,7 +5235,7 @@ CONTENTS
 
 **इति प्रथमोऽध्यायः॥**
 
-**![](../../../../../books_images/U-IMG-1703223708w.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703223708w.PNG"/>**
 
 **द्वितीयोऽध्यायः॥**
 
@@ -5399,7 +5399,7 @@ CONTENTS
 
 **इतिद्वितीयोऽध्यायः॥**
 
-**![](../../../../../books_images/U-IMG-1697098900Screenshot2023-10-12135111.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1697098900Screenshot2023-10-12135111.png"/>**
 
 **तृतीयोऽध्यायः॥**
 
@@ -5564,7 +5564,7 @@ CONTENTS
 कुरुष्वैवं स्थिते यत्ते रोचते वसुधाधिप॥४१॥
 
 **इति प्रथमोऽध्यायः॥**  
-![](../../../../../books_images/U-IMG-1697117863Screenshot2023-10-12190732.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697117863Screenshot2023-10-12190732.png"/>
 
 **द्वितीयोऽध्यायः॥**
 
@@ -5661,7 +5661,7 @@ CONTENTS
 
 **इति द्वितीयोऽध्यायः॥**
 
-**![](../../../../../books_images/U-IMG-1697119724Screenshot2023-10-12193831.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1697119724Screenshot2023-10-12193831.png"/>**
 
 **तृतीयोऽध्यायः॥**
 
@@ -5771,7 +5771,7 @@ CONTENTS
 
 **॥ नकुलोपाख्यानम्॥**
 
-**![](../../../../../books_images/U-IMG-1697123211Screenshot2023-10-12203640.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1697123211Screenshot2023-10-12203640.png"/>**
 
 जनमेजय उवाच॥
 
@@ -6239,11 +6239,11 @@ CONTENTS
 
 **नवतितमोऽध्यायः**
 
-**![](../../../../../books_images/U-IMG-1703304665w.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703304665w.PNG"/>**
 
 **॥ युधिष्ठिरशक्रसंवादः॥**
 
-![](../../../../../books_images/U-IMG-1697185895Screenshot2023-10-13140122.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697185895Screenshot2023-10-13140122.png"/>
 
 वैशम्पायन उवाच॥
 
@@ -6396,7 +6396,7 @@ CONTENTS
 
 **॥ शिविचरित्रम्॥**
 
-![](../../../../../books_images/U-IMG-1697206185Screenshot2023-10-13193918.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697206185Screenshot2023-10-13193918.png"/>
 
 लोमश उवाच॥
 
@@ -6426,7 +6426,7 @@ CONTENTS
 
 इति प्रथमोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1703305625x.PNG)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703305625x.PNG"/>  
 
 **द्वितीयोऽध्यायः**
 
@@ -6807,7 +6807,7 @@ CONTENTS
 
 **इतिद्वितीयोऽध्यायः॥**
 
-![](../../../../../books_images/U-IMG-1697280419Screenshot2023-10-14161617.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697280419Screenshot2023-10-14161617.png"/>
 
 तृतीयोऽध्यायः॥
 
@@ -6863,7 +6863,7 @@ CONTENTS
 
 **इति तृतीयोऽध्याय॥**
 
-![](../../../../../books_images/U-IMG-1697282656Screenshot2023-10-14165346.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697282656Screenshot2023-10-14165346.png"/>
 
 **चतुर्थोऽध्यायः॥**
 
@@ -6951,7 +6951,7 @@ CONTENTS
 
 **इति चतुर्थोऽध्यायः॥**
 
-![](../../../../../books_images/U-IMG-1697345558Screenshot2023-10-15102223.png)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697345558Screenshot2023-10-15102223.png"/>  
 
 **पश्चमोऽध्यायः॥**
 
@@ -6980,7 +6980,7 @@ CONTENTS
 
 **इति षष्ठोऽध्यायः॥**
 
-![](../../../../../books_images/U-IMG-1697346380Screenshot2023-10-15103608.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697346380Screenshot2023-10-15103608.png"/>
 
 **सप्तमोऽध्यायः॥**
 
@@ -7050,7 +7050,7 @@ CONTENTS
 
 **॥ ययातिचरितम् ॥**
 
-**![](../../../../../books_images/U-IMG-1697351501Screenshot2023-10-15120130.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1697351501Screenshot2023-10-15120130.png"/>**
 
 श्रीपराशर उवाच ॥
 
@@ -7090,7 +7090,7 @@ CONTENTS
 
 **॥द्रौपदीयुधिष्ठिरसंवादः॥**
 
-**![](../../../../../books_images/U-IMG-1703383735w.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703383735w.PNG"/>**
 
 द्रौपद्युवाच॥
 
@@ -7211,7 +7211,7 @@ CONTENTS
 
 इति प्रथमोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1697372685Screenshot2023-10-15175409.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697372685Screenshot2023-10-15175409.png"/>
 
 क्रुध्यन्तमप्रतिक्रुध्यन्द्वयोरेषचिकित्सकः।  
 मूढो यदि क्लिश्यमानः क्रुध्यतेऽशक्तिमान्नरः॥१०॥
@@ -7319,7 +7319,7 @@ CONTENTS
 
 इति द्वितीयोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1697374323Screenshot2023-10-15182137.png)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697374323Screenshot2023-10-15182137.png"/>  
 
 **तृतीयोऽध्यायः**॥
 
@@ -7461,7 +7461,7 @@ CONTENTS
 
 इति तृतीयोऽध्याय॥
 
-![](../../../../../books_images/U-IMG-1697433745Screenshot2023-10-16105207.png)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697433745Screenshot2023-10-16105207.png"/>  
 
 **चतुर्थोऽध्यायः॥**
 
@@ -7602,7 +7602,7 @@ CONTENTS
 इति श्रीमहाभारते आरण्यपर्वणि द्रौपदीयुधिष्ठिरसंवादे  
 २४-३१अध्यायाः॥
 
-![](../../../../../books_images/U-IMG-1703485335w.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703485335w.PNG"/>
 
 **॥सावित्र्युपाख्यानम्॥**
 
@@ -7739,7 +7739,7 @@ CONTENTS
 
 इति प्रथमोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1696908002Screenshot2023-10-10084636.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1696908002Screenshot2023-10-10084636.jpg"/>
 
 **द्वितीयोऽध्यायः॥**
 
@@ -7979,7 +7979,7 @@ CONTENTS
 
 **इति तृतीयोऽध्याय॥**
 
-![](../../../../../books_images/U-IMG-1696930296Screenshot2023-10-10150056.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1696930296Screenshot2023-10-10150056.jpg"/>
 
 चतुर्थोऽध्यायः॥
 
@@ -8114,7 +8114,7 @@ CONTENTS
 
 **इति चतुर्थोऽध्यायः॥**
 
-![](../../../../../books_images/U-IMG-1703513112w.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703513112w.PNG"/>
 
 पञ्चमोऽध्यायः॥
 
@@ -8658,7 +8658,7 @@ CONTENTS
 
 इति पञ्चमोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1697092324Screenshot2023-10-12120130.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697092324Screenshot2023-10-12120130.jpg"/>
 
 षष्ठोऽध्यायः॥
 
@@ -8843,7 +8843,7 @@ CONTENTS
 
 इति षष्ठोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1697108418Screenshot2023-10-12162951.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697108418Screenshot2023-10-12162951.jpg"/>
 
 **सप्तमोऽध्यायः॥**
 
@@ -8909,7 +8909,7 @@ CONTENTS
 इति श्रीमहाभारते आरण्यकपर्वणि पतिव्रतामाहात्म्ये सावित्र्युपाख्यानम्  
 २९२-२९८ अध्यायाः॥
 
-![](../../../../../books_images/U-IMG-1703515733y.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703515733y.PNG"/>
 
 **॥शैव्याचरित्रम्॥**
 
@@ -9074,11 +9074,11 @@ CONTENTS
 इति श्रीविष्णुपुराणे तृतीयांशे  
 अष्टादशोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1697472012Screenshot2023-10-16212929.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697472012Screenshot2023-10-16212929.jpg"/>
 
 **॥पतिव्रतामाहात्म्यम्॥**
 
-![](../../../../../books_images/U-IMG-1697475495Screenshot2023-10-16222744.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1697475495Screenshot2023-10-16222744.jpg"/>
 
 पुत्र उवाच॥
 
@@ -9349,11 +9349,11 @@ CONTENTS
 इति श्रीमार्कण्डेयपुराणे पतिव्रतामाहात्म्ये  
 **षोडशाध्यायः॥**
 
-![](../../../../../books_images/U-IMG-1698254647Screenshot2023-10-25225326.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1698254647Screenshot2023-10-25225326.jpg"/>
 
 **॥सुकन्याचरित्रम्॥**
 
-![](../../../../../books_images/U-IMG-1698337296Screenshot2023-10-26215108.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1698337296Screenshot2023-10-26215108.jpg"/>
 
 व्यासः॥
 
@@ -9465,11 +9465,11 @@ CONTENTS
 
 इति प्रथमाऽध्याय॥
 
-![](../../../../../books_images/U-IMG-1698421642Screenshot2023-10-27211648.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1698421642Screenshot2023-10-27211648.jpg"/>
 
 द्वितीयोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1698420225Screenshot2023-10-27205318.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1698420225Screenshot2023-10-27205318.jpg"/>
 
 व्यास उवाच॥
 
@@ -9688,11 +9688,11 @@ CONTENTS
 
 द्वितीयोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1698494786Screenshot2023-10-28173247.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1698494786Screenshot2023-10-28173247.jpg"/>
 
 तृतीयोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1698494847Screenshot2023-10-28173707.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1698494847Screenshot2023-10-28173707.jpg"/>
 
 व्यास उवाच॥
 
@@ -9919,7 +9919,7 @@ CONTENTS
 
 इति तृतीयोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1703519151w.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703519151w.PNG"/>
 
 च्यवन उवाच॥
 
@@ -9991,7 +9991,7 @@ CONTENTS
 
 चतुर्थोऽध्यायः॥
 
-![](../../../../../books_images/U-IMG-1698567531Screenshot2023-10-29134831.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1698567531Screenshot2023-10-29134831.jpg"/>
 
 व्यास उवाच॥
 
@@ -10185,7 +10185,7 @@ CONTENTS
 इति श्रीदेवीभागवते महापुराणे सप्तमस्कन्धे  
 २-५ अध्यायाः॥
 
-![](../../../../../books_images/U-IMG-1703586808y.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703586808y.PNG"/>
 
 **॥नलोपाख्यानम्॥**
 
@@ -11195,7 +11195,7 @@ CONTENTS
 प्रविवेश महारण्य मृगो राजाप्यथाद्रवत् ॥१९॥
 
 **इति प्रथमोऽध्यायः ॥  
-![](../../../../../books_images/U-IMG-1703651241y.PNG)**
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703651241y.PNG"/>**
 
 **द्वितीयोऽध्यायः ॥  
 —————**
@@ -11462,7 +11462,7 @@ CONTENTS
 **इति श्रीमहाभारते शान्तिपर्वणि राजधर्मानुशासनपर्वणि ऋषिभगतासु  
 १२५ - १२८- अध्यायाः ।**  
 
-**![](../../../../../books_images/U-IMG-1703653500y.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703653500y.PNG"/>**
 
 ॥सौभरिचरित्रम्॥  
 
@@ -11755,7 +11755,7 @@ CONTENTS
 हसन्त प्रीतमनसोजग्मुस्व स्वनिकेतनम् ॥२८॥
 
 **इति प्रथमोऽध्यायः ॥  
-![](../../../../../books_images/U-IMG-1703656939k.PNG)**
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703656939k.PNG"/>**
 
 **द्वितीयोऽध्यायः ॥  
 ——————**
@@ -11928,7 +11928,7 @@ CONTENTS
 
 **॥कृतघ्नोपाख्यानम्॥**  
 
-**![](../../../../../books_images/U-IMG-1703657919k.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703657919k.PNG"/>**
 
 युधिष्ठिर उवाच ॥
 
@@ -12095,7 +12095,7 @@ CONTENTS
 पूजितो यास्यति प्रातर्विधिदृष्टेन कर्मणा ॥२५॥
 
 **इति द्वितीयोऽध्यायः ॥**  
-![](../../../../../books_images/U-IMG-1703658698y.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703658698y.PNG"/>
 
 **तृतीयोऽध्यायः ॥**  
 **————————**
@@ -12155,7 +12155,7 @@ CONTENTS
 दर्शनं राक्षसेन्द्रस्य काङ्क्षमाणो द्विजस्तदा ॥२६॥
 
 **इति तृतीयोऽध्यायः ॥  
-![](../../../../../books_images/U-IMG-1703661994k.PNG)**
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703661994k.PNG"/>**
 
 **चतुर्थोऽध्यायः ॥  
 —————**
@@ -12273,7 +12273,7 @@ CONTENTS
 
 इति चतुर्थोऽध्याय ॥
 
-![](../../../../../books_images/U-IMG-1703663204k.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703663204k.PNG"/>
 
 पञ्चमोऽध्यायः ॥  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -12451,7 +12451,7 @@ CONTENTS
 
 १६८-१७३ अध्यायाः ॥
 
-![](../../../../../books_images/U-IMG-1703664010w.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703664010w.PNG"/>
 
 **॥ जडभरतोपाख्यानम् ॥**  
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -13094,11 +13094,11 @@ CONTENTS
 
 ७ –१४ अध्यायाः ॥
 
-![](../../../../../books_images/U-IMG-1703683899z.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703683899z.PNG"/>
 
 **॥प्रह्लादचरित्रम् ॥**
 
-**![](../../../../../books_images/U-IMG-17036839691.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17036839691.PNG"/>**
 
 तस्य दैत्यपतेः पुत्राश्चत्वारः परमाद्भुताः।  
 प्रह्लादोऽभून्महांस्तेषां गुणैर्महदुपासकः ॥१॥
@@ -13409,7 +13409,7 @@ CONTENTS
 तानाह करुणो मैत्रो महाभागवतोऽसुरः ॥५७॥
 
 **इति द्वितीयोऽध्यायः ॥  
-![](../../../../../books_images/U-IMG-1703685026z.PNG)**
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703685026z.PNG"/>**
 
 **तृतीयोऽध्यायः ॥  
 \_\_\_\_\_\_\_\_**
@@ -13561,7 +13561,7 @@ CONTENTS
 एताभ्यां गुरुपुत्राभ्यां बालानामपि हीश्वरौ ॥२९॥
 
 **इति तृतीयोऽध्यायः ॥  
-![](../../../../../books_images/U-IMG-1703741392w.PNG)**
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703741392w.PNG"/>**
 
 चतुर्थोऽध्यायः ॥  
 \_\_\_\_\_\_\_\_\_\_\_\_
@@ -13783,7 +13783,7 @@ CONTENTS
 
 इति चतुर्थोऽध्यायः॥  
 
-![](../../../../../books_images/U-IMG-1703746521z.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703746521z.PNG"/>
 
 पञ्चमोऽध्यायः॥  
 
@@ -14199,7 +14199,7 @@ CONTENTS
 
 **इति पञ्चमोऽध्यायः ॥**  
 
-**![](../../../../../books_images/U-IMG-1703748146w.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703748146w.PNG"/>**
 
 **षष्ठोऽध्यायः ॥  
 \_\_\_\_\_\_**
@@ -14759,7 +14759,7 @@ CONTENTS
 
 **इति षष्ठोऽध्यायः ॥**  
 
-**![](../../../../../books_images/U-IMG-1703823743z.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703823743z.PNG"/>**
 
 **सप्तमोऽध्यायः ॥  
 \_\_\_\_\_\_\_\_\_\_\_**
@@ -14820,7 +14820,7 @@ CONTENTS
 एकान्तित्वाद्भगवति नेच्छत्तानमुरोत्तमः ॥५४॥
 
 **इति षष्ठोऽध्यायः ॥  
-![](../../../../../books_images/U-IMG-1703823955z.PNG)**
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703823955z.PNG"/>**
 
 **सप्तमोऽध्यायः ॥  
 \_\_\_\_\_\_\_\_**
@@ -15071,11 +15071,11 @@ CONTENTS
 इति श्रीमद्भागवते महापुराणे सप्तमस्कन्धे प्रह्लादचरित्रे  
 ४-१० **अध्यायाः** ॥
 
-![](../../../../../books_images/U-IMG-17038248481.PNG)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-17038248481.PNG"/>  
 
 **॥ ध्रुवचरित्रम् ॥**  
 
-**![](../../../../../books_images/U-IMG-1703824892z.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703824892z.PNG"/>**
 
 अथातकीर्तये वंशं पुण्यकीर्तेःकुरूद्वह ।  
 स्वायंभुवस्यापि मनोर्हरेरशांशजन्मनः ॥१॥
@@ -15405,7 +15405,7 @@ CONTENTS
 दौत्तानपादिर्मथि संगतात्मा ॥७७॥
 
 **इति प्रथमोऽध्यायः ॥**  
-![](../../../../../books_images/U-IMG-1703826542w.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703826542w.PNG"/>
 
 द्वितीयोऽध्यायः ॥  
 —————
@@ -15736,10 +15736,10 @@ CONTENTS
 इति श्रीमद्भागवते महापुराणे चतुर्थस्कन्ध ध्रुवचरित्रनाम  
 ८-९ **अध्यायौ॥**  
 
-**![](../../../../../books_images/U-IMG-1703829394w.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703829394w.PNG"/>**
 
 **॥मार्कण्डेयोपाख्यानम्॥  
-![](../../../../../books_images/U-IMG-17038294491.PNG)**
+<MISSING_FIG href="../../../../../books_images/U-IMG-17038294491.PNG"/>**
 
 दिलीप उवाच ॥
 
@@ -16106,7 +16106,7 @@ CONTENTS
 मार्कण्डेयजन्माश्वान्नाम  
 २३६ **अध्यायः ॥**
 
-**![](../../../../../books_images/U-IMG-17038308721.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17038308721.PNG"/>**
 
 **॥ कुचेलोपाख्यानम् ॥**  
 
@@ -16411,7 +16411,7 @@ CONTENTS
 इति श्रीभागवते दशमस्कन्धे उत्तरार्धे कुचेलोपाख्याने  
 ८०-८१ **अध्यायौ॥**
 
-![](../../../../../books_images/U-IMG-1703860192w.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703860192w.PNG"/>
 
 **॥च्यवनोपाख्यानम् ॥**  
 
@@ -16504,7 +16504,7 @@ CONTENTS
 
 **इति प्रथमोऽध्यायः ॥**  
 
-**![](../../../../../books_images/U-IMG-17038606621.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17038606621.PNG"/>**
 
 **द्वितीयोऽध्यायः ॥  
 ————**
@@ -16694,11 +16694,11 @@ CONTENTS
 इति श्रीमहाभारते अनुशासनपर्वणि च्यवनोपाख्याने  
 ५०-५१ **अध्यायौ ॥**  
 
-![](../../../../../books_images/U-IMG-1703861448w.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703861448w.PNG"/>
 
 ॥ गौतमीलुब्धकसंवादः ॥  
 
-![](../../../../../books_images/U-IMG-17043621211.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17043621211.PNG"/>
 
 युधिष्ठिर उवाच॥
 
@@ -17059,10 +17059,10 @@ CONTENTS
 इति श्रीभारत आनुशासनिक पर्वणि  
 **प्रथमोऽध्यायः ॥**  
 
-**![](../../../../../books_images/U-IMG-1703911597w.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703911597w.PNG"/>**
 
 **॥ परीक्षित्सर्पदंशनम्॥**  
-![](../../../../../books_images/U-IMG-1703911656k.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703911656k.PNG"/>
 
 परीक्षिदपि राजर्षिः प्रजाःसर्वाःसुधार्मिकः ।  
 अपालयच्च राजेन्द्रो षष्टिर्वर्षाण्यतन्द्रितः ।  
@@ -17163,7 +17163,7 @@ CONTENTS
 
 इति प्रथमोऽध्यायः ॥  
 
-![](../../../../../books_images/U-IMG-1703911943w.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703911943w.PNG"/>
 
 **द्वितीयोऽध्यायः॥**  
 
@@ -17630,10 +17630,10 @@ CONTENTS
 इतिश्रीदेवाभागवते महापुराणेद्वितीयस्कन्धे  
 ८-१० **अध्यायाः॥**
 
-**![](../../../../../books_images/U-IMG-1703914600k.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703914600k.PNG"/>**
 
 ॥ तापत्रयवर्णनम्॥  
-![](../../../../../books_images/U-IMG-17039146832.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17039146832.PNG"/>
 
 श्रीपराशर उवाच ॥
 
@@ -17826,11 +17826,11 @@ CONTENTS
 इति श्रीविष्णुपुराणे षष्टांशः पञ्चमाध्यायः आध्यात्मिका  
 तापत्रयनात्रम्सनप्रकारः ॥
 
-![](../../../../../books_images/U-IMG-17039161831.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17039161831.PNG"/>
 
 **॥ कीटोपाख्यानम् ॥**  
 
-**![](../../../../../books_images/U-IMG-17039162182.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17039162182.PNG"/>**
 
 युधिष्ठिर उवाच॥
 
@@ -17932,7 +17932,7 @@ CONTENTS
 तच्छोतुमहमिच्छामि त्वत्तः श्रेयस्तपोधनः ॥२९॥
 
 **इति प्रथमोऽध्यायः ॥**  
-![](../../../../../books_images/U-IMG-17040015421.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040015421.PNG"/>
 
 **द्वितीयोऽध्यायः ॥**  
 **————————**
@@ -18005,7 +18005,7 @@ CONTENTS
 
 **इति द्वितीयोऽध्यायः ॥**  
 
-**![](../../../../../books_images/U-IMG-1704001955w.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1704001955w.PNG"/>**
 
 **तृतीयोऽध्यायः ॥  
 —————**
@@ -18073,11 +18073,11 @@ CONTENTS
 
 इति श्रीमहाभारते अनुशासनपर्वणि कीटोपाख्यान  
 ११७-११९ **अध्यायाः ॥**  
-![](../../../../../books_images/U-IMG-17040023683.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040023683.PNG"/>
 
 **॥ श्रीशुकचरितम् ॥**  
 
-**![](../../../../../books_images/U-IMG-17040024143.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17040024143.PNG"/>**
 
 युधिष्ठिर उवाच ॥
 
@@ -18160,7 +18160,7 @@ CONTENTS
 
 **इति द्वितीयोऽध्यायः ॥**  
 
-**![](../../../../../books_images/U-IMG-17040026892.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17040026892.PNG"/>**
 
 तृतीयोऽध्यायः॥  
 —————
@@ -18385,7 +18385,7 @@ CONTENTS
 तस्मिन्वै वर्तसे ब्रह्मन् किमन्यत्परिपृच्छसि ॥४७॥
 
 **इति चतुर्थोऽध्यायः ॥**  
-![](../../../../../books_images/U-IMG-17040065583.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040065583.PNG"/>
 
 **पञ्चमोऽध्यायः ॥**  
 ———————
@@ -18577,7 +18577,7 @@ CONTENTS
 
 इति पञ्चमोऽध्याय ॥
 
-![](../../../../../books_images/U-IMG-17040072551.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040072551.PNG"/>
 
 **षष्ठोऽध्यायः ॥**
 
@@ -18704,7 +18704,7 @@ CONTENTS
 
 इति षष्ठोऽध्यायः ॥
 
-![](../../../../../books_images/U-IMG-17040079093.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040079093.PNG"/>
 
 **सप्तमोऽध्यायः ॥  
 —————**
@@ -18869,7 +18869,7 @@ CONTENTS
 
 **इति सप्तमोऽध्याय ।**
 
-![](../../../../../books_images/U-IMG-17040088451.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040088451.PNG"/>
 
 **अष्टमोऽध्यायः ॥**
 
@@ -18972,7 +18972,7 @@ CONTENTS
 
 इति अष्टमोऽध्यायः ॥
 
-![](../../../../../books_images/U-IMG-17040093933.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040093933.PNG"/>
 
 **नवमोऽध्यायः ॥**
 
@@ -19111,7 +19111,7 @@ CONTENTS
 
 **॥शुकवैराग्योपदेशः॥**  
 
-**![](../../../../../books_images/U-IMG-17040108023.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17040108023.PNG"/>**
 
 युधिष्ठिर उवाच ॥
 
@@ -19513,11 +19513,11 @@ CONTENTS
 
 इति श्रीमहाभारते शान्तिपर्वणि  
 ३२१ **अध्यायः ॥**  
-![](../../../../../books_images/U-IMG-17040120974.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040120974.PNG"/>
 
 **॥ चतुर्विंशतिगुरूपाख्यानम् ॥**  
 
-**![](../../../../../books_images/U-IMG-1704012155k.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1704012155k.PNG"/>**
 
 अत्राप्युदाहरन्तीममितिहासं पुरातनम् ।  
 अवधूतस्य सवादःयदोरमिततेजसः ॥१॥
@@ -19684,7 +19684,7 @@ CONTENTS
 गृहेषु खगवत्सतस्तमारुढच्युतः विदुः ॥५१॥
 
 **इति प्रथमोऽध्यायः ॥**  
-![](../../../../../books_images/U-IMG-17040192953.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040192953.PNG"/>
 
 **द्वितीयोऽध्यायः॥**  
 
@@ -19850,7 +19850,7 @@ CONTENTS
 
 **इति द्वितीयोऽध्यायः॥**  
 
-**![](../../../../../books_images/U-IMG-17040203433.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17040203433.PNG"/>**
 
 **तृतीयोऽध्यायः ॥  
 —————**
@@ -19997,11 +19997,11 @@ CONTENTS
 इति श्रीमद्भागवतेएकादशस्कन्धे  
 ७-९ **अध्यायाः ॥**  
 
-**![](../../../../../books_images/U-IMG-17040211383.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17040211383.PNG"/>**
 
 ॥**गुरुभक्तिमहिमा** ॥
 
-![](../../../../../books_images/U-IMG-17040211813.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17040211813.PNG"/>
 
 एतस्मिन्नन्तरकश्चिद्दपिर्धौम्यो नामापोदस्तस्य शिष्यास्त्रयो वभूवुरुपमन्युरारुणिर्वैदश्चेति । स एक शिष्यमारुणि पाश्चाल्यप्रेषयामास 'गच्छकेदारखण्डं वधान' इति । स उपाध्यायेन संदिष्टआरुणि पाश्चात्यस्तत्र गत्वा तत्केदारखण्ड बहु नाशकत ।स क्लिश्यमानोऽपश्यदुपाय भवस्वेव करिष्यामीति । स तत्र संविवेश केदारखण्डे ।शयाने च तस्मिस्तदुक तस्थौ । ततः कदाचिदुपाध्याय आपोदो धौम्य शिष्यावच्छत 'क्व आरुणि पाश्चात्योगतः' इति । तौ त प्रत्यूचु, भगवंस्त्वयैव प्रेषितो गच्छ केदारखण्डं बधानेति । स एवमुक्तस्तौ शिष्यौ प्रत्युवाच 'तस्मात्तत्र सर्वे गच्छामो यत्र स गत ' इति । स तत्र गत्वा तस्याह्वानानाय शब्द चकार 'भो आरुणे पाश्चात्य, क्वासि ।वत्सैहि' इति । स तच्छ्रुत्वा आरु णिरुपाध्यायवाक्य तस्मात्केदारखण्डात्सहसोत्थाय तमुपाध्यायमुपतस्थे ।प्रोवाच चैनम ।'अयमस्म्यत्र केदारखण्डे नि सरमाणमुढक- मवारणीय संरोद्धु सविष्टो भगवच्छदं श्रुत्वैव सएवमुक्त उपाध्याय प्रत्युवाच 'यस्माद्भवान्केदारखण्ड विदार्योत्थितस्तस्मादुद्दालक एव नाम्ना भवान्भविष्यतीत्युपाध्यायेनानु-गृद्दीत ।यस्माच्च त्वया महूचनमनुष्ठितं तस्मा च्छ्रेयोऽवाप्स्यसि । सर्वे च ते वेदा प्रतिभास्यन्ति । सर्वाणि च धर्मशास्त्राणि ' इति । स पत्रमुपाध्यायेनोक्त इष्ट देशं जगाम।
 
@@ -20022,6 +20022,8 @@ CONTENTS
  अथापरःशिष्यस्तस्यैवापोदस्य धौम्यस्य बैदो नाम। तमुपाध्यायः समादिदेश 'वत्स बैद, इहास्यता तावन्मम गृहे कांचित्कालं शुश्रूषुणा च भवितव्य श्रेयस्ते भविष्यति' इति । स तथेत्युक्त्वा गुरुकुले दीर्घकालं गुरुशुश्रूषणपरोऽवसत् ।
 
  गौरिव नित्यं गुरुणा धूर्षु नियोज्यमानः शीतोष्णक्षुत्तृष्णादुःखसहः सर्वत्राप्रतिकूलस्तस्य महता कालेन गुरुःपरितोष जगाम । तत्परितोपाश्चश्रेयः सर्वज्ञतां चावाप ।एषातस्यापि परीक्षा बैदस्य । स उपाध्यायेनानुज्ञात समावृत्तस्तस्माद्गृ हाश्रमं प्रत्यपद्यत । तस्यापिस्वगृहे वसतस्त्रयः शिष्याःबभूवु ।स शिष्यान्न किंचिदुवाच, कर्म वा क्रियतां गुरुशुश्रूषा वेति । दुःखाभिज्ञो हि गुरुकुलवासस्य शिष्यान्परिक्लेशेन योजयितुं नेयेष। अथ कस्मिंश्चित्काले बैदं ब्राह्मणं जनमेजय पौग्यश्च क्षत्रियायुपेत्योपाध्यायं वरयाञ्चक्रतुः । सकदाचिद्याज्यकार्येणाभित्रस्थित उत्तङ्कनामान शिष्यं नियोजयामास 'भो यत्किचिदस्मद्गृहे परिहीयते, तदिच्छाम्यहमपरिहीयमानं भवता क्रियमाणम्' इति । स एवं प्रतिसदिश्योत्तद्ध वैदः प्रवासं जगाम॥
+
+ 
 
 अथोत्तङ्कः शुश्रूषुर्गुरुनियोगमनुतिष्टमानो गुरुकुले वसति स्म । स तत्र वसमान उपाध्यायस्त्रीभि सहिताभिराहूयोक्तः'उपाध्यायानी ते ऋतुमती । उपाध्यायश्च प्रोषितः । अस्या यथायमृतुर्वन्ध्यो न भवति तथा क्रियताम् । एषाविषीदति' इति । एवमुक्तताः स्त्रियः प्रत्युवाच 'न मया स्त्रीणां वचनादिदमकार्य करणीयम् । नह्यहमुपाध्यायेन सन्दिष्टोऽकार्यमपि त्वया कार्यम्' इति । तस्य पुनरुपाध्यायः कालान्तरेण गृहमाजगाम तस्मात्प्रवासात्। सतु तद्वृत्तं तस्याशेषमुपलभ्य प्रीतिमानभूत् । उवाच चैनम् 'वत्सोत्तङ्क, किं ते प्रियं ते करवाणीति । धर्मतो हि शुश्रूषितोऽम्मि भवता । तेन प्रीतिः परस्परेण
 
@@ -20093,10 +20095,10 @@ CONTENTS
 इति श्राममहाभारते आदिपर्वणि पौष्यपर्वणि  
 **तृतीयोऽध्यायः ॥**
 
-![](../../../../../books_images/U-IMG-17041035904.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17041035904.PNG"/>
 
 **॥ यक्षप्रश्नः ॥**  
-![](../../../../../books_images/U-IMG-1704103653w.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1704103653w.PNG"/>
 
 जनमेजय उवाच ॥
 
@@ -20167,7 +20169,7 @@ CONTENTS
 
 **इति प्रथमोऽध्यायः ॥**  
 
-**![](../../../../../books_images/U-IMG-17041045533.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17041045533.PNG"/>**
 
 **द्वितीयोऽध्यायः ॥  
 ——————**
@@ -20326,7 +20328,7 @@ CONTENTS
 
 **इति द्वितीयोऽध्यायः ॥**  
 
-**![](../../../../../books_images/U-IMG-1704105936k.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1704105936k.PNG"/>**
 
 **तृतीयोऽध्यायः ॥  
 —————**
@@ -20912,7 +20914,7 @@ CONTENTS
 
 **इति तृतीयोऽध्यायः॥**  
 
-**![](../../../../../books_images/U-IMG-1704117946k.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1704117946k.PNG"/>**
 
 **चतुर्थोऽध्यायः॥  
 —————**
@@ -21042,10 +21044,10 @@ CONTENTS
 इति श्रीमहाभारते आरण्यकपवणि आरणयपर्वणि  
 ३००-३१३ **अध्यायाः ॥**
 
-**![](../../../../../books_images/U-IMG-17041188974.PNG)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-17041188974.PNG"/>**
 
 **॥ रामचरितम् ॥**  
-![](../../../../../books_images/U-IMG-17041190125.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17041190125.PNG"/>
 
 **बालकाण्डम् ।**  
 
@@ -22273,7 +22275,7 @@ CONTENTS
 
 **आरण्यकाण्डम् ।**
 
-![](../../../../../books_images/U-IMG-1704190447z.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1704190447z.PNG"/>
 
 प्रविश्य तु महारण्यं दण्डकारण्यमात्मवान् ।  
 ददर्श रामो दुर्धर्षस्तापसाश्रममण्डलम् ॥१॥
@@ -22493,7 +22495,7 @@ CONTENTS
 
 **किष्किन्धाकाण्डम् ।**
 
-![](../../../../../books_images/U-IMG-17041799316.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-17041799316.PNG"/>
 
 स तां पुष्करिणीं गत्वा पद्मोत्पलझषाकुलाम् ।  
 रामः सौमित्रिसहितो विललापाकुलेन्द्रियः ॥१॥
@@ -22670,7 +22672,7 @@ CONTENTS
 
 सुन्दरकाण्डम् ।  
 
-![](../../../../../books_images/U-IMG-1704178228z.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1704178228z.PNG"/>
 
 ततो रावणनीतायाः सीतायाः शत्रुकर्शनः ।  
 इयेषपदमन्वेष्टुंचारणाचरितेपथि ॥१॥
@@ -23467,6 +23469,6 @@ CONTENTS
 
 इति श्रीरामायणे युद्धकाण्डः ॥  
 
-![](../../../../../books_images/U-IMG-1704172835z.PNG)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1704172835z.PNG"/>
 
 \]

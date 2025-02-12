@@ -38,16 +38,16 @@ WITH INTRODUCTION. ENGLISH TRANSLATION. ETC.
 
 **THE GENEALOGY OF BANA**
 
-![](../books_images/U-IMG-1724671198kadambari-removebg-preview.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1724671198kadambari-removebg-preview.jpg"/>  
 
-![](../books_images/U-IMG-17246704541.png)
+<MISSING_FIG href="../books_images/U-IMG-17246704541.png"/>
 
 **Portion Prescribed for the**
 
 **Mysore University B.A., B.Sc., and Honours Exms. '54**
 
 **Para No. 34 to para No. 61 inclusive  
-![](../books_images/U-IMG-17246704541.png)  
+<MISSING_FIG href="../books_images/U-IMG-17246704541.png"/>  
 -: PRINTERS :-**
 
 **1. SREE BHARATH POWER PRESS. MYSORE  
@@ -85,7 +85,7 @@ WITH INTRODUCTION. ENGLISH TRANSLATION. ETC.
 
 **कादम्बरी..रसज्ञानामाहारोऽपि न रोचते ।**
 
-**![](../books_images/U-IMG-172390875414.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172390875414.png"/>**
 
 **॥ श्रीः ॥**
 
@@ -167,14 +167,14 @@ WITH INTRODUCTION. ENGLISH TRANSLATION. ETC.
                                    
                       (सावशेषम्)
 
-![](../books_images/U-IMG-172472751653.png)
+<MISSING_FIG href="../books_images/U-IMG-172472751653.png"/>
 
  **श्लेषे केचन शब्दगुम्फविषये केचिद्रसे चापरेऽ-  
  लङ्कारे कतिचित्सदर्थविषये चान्ये कथावर्णने ।  
 आ सर्वत्र गभीरधीरकविताविन्ध्याटवी चातुरी-  
     सञ्चारी कविकुम्भिकुम्भभिदुरो वाणस्तु पञ्चाननः ॥**
 
-![](../books_images/U-IMG-172472751653.png)
+<MISSING_FIG href="../books_images/U-IMG-172472751653.png"/>
 
 **BANA AND HIS KADAMBARI**  
 ————

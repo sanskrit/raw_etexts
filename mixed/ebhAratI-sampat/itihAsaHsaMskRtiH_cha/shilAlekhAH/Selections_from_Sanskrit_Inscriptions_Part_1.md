@@ -16,6 +16,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA2NDY1MzEzOTg
 
 \
 
+
+
 **SELECTIONS**
 
 From
@@ -23,6 +25,10 @@ From
 **Sanskrit Inscriptions.**
 
 Part I-Text
+
+
+
+
 
 BY  
 **D. B. Diskalkar**
@@ -41,17 +47,45 @@ B. A.
 
 Government Epigraphist for India:  
 
+
+
+
+
+
+
+
 Price Re.1.
 
 1925\.
 
+
+
+
+
 (All rights reserved.)  
+
+
+
+
+
+
+
 
 Printed at the Aryabhushan Press by Anant
 
 Vinayak Patwardhan and Published by
 
 D. B. Diskalkar at Rajkot.
+
+
+
+
+
+
+
+
+
+
 
 **Dedicated**
 
@@ -61,20 +95,34 @@ D. B. Diskalkar at Rajkot.
 
 **my parents.**
 
+
+
+
+
 **PREFACE.**
 
 The importance of Epigraphy for building up the early history of India is unquestionable and can hardly be gainsaid. A good deal of the accurate information which we now possess in regard to ancient India is undoubtedly derived from the study of inscriptions but for whicheven the names of emperors like Samudragupta the great "who conquered nearly all India and whose alliance extended from the Oxus to Ceylon" would have been cast into oblivion. The connected accounts of several periods in early Indian History which it has now become possible to write is the outcome of patient and minute study of inscriptions chiefly. So the value of these documents for the history of Ancient India is admitted by all but I doubt if it has been fully recognised generally although scholars like the late Professor Buhler emphasized it long ago. The discovery of authentic inscriptions of ascertainable age and origin like that of Harisheṇa or Vatsabhaṭṭi and the Girnār*praśasti* shows how hollow the old theory of Renaissance of Sanskrit literature was; for it proves beyond doubt that the Kāvya literature must have been in full swing not only in the Gupta epoch but even before the commencement of the Christian [era[^1].The composition of such inscriptions presupposes the existence of some *Alaṅkāra-śāstra.* For instance the *praśasti* of Harisheṇa i. e., the Allahabad pillar inscription of Samudragupta is a birst class little Kāvya which is artistically finished in every respect and places its author, namely, Harisheṇa in line with Kālidāsa and Daṇḍin. Some of the poetic figures in this composition remind us of Subandhuand Bāṇa and in the choice of words it is, perhaps, unsurpassed; for where do we find more concise and more graphic a picture, than what it gives of the situation in which Samudragupta is ordained by his father to be his successor? We are quite
 
 [^1]: "*See also Prof. Hermann Jacobi on Cultural, Linguistic and Literary Historical gleanings from the Kautiliya; Ind. Ant, Vol LIII, pp. 128 to 146. In this contribution the Professor concludes that the 4th Century B.C. should belong to the Classical period, maturing to full development."
 
+
+
+
+
 justified to remark like Buhler that the verse which describes this situation is one of the best productions which our Kavis have given us 'in the domain of miniature portraits.'
 
+
+
 The Girnār inscription of the reign of Mahākshatrapa Rudradāman, which was probably written between 160 and 170 A. C., is a much older work and also written in the Kāvya style. It possesses all the chief characteristics of the *Vaidarbhī rīti* which Danḍin has laid down in his *Kāvyādarśa*and are mentioned in Bharata's *Nāṭyaśāstra.* There is no use of multiplying examples. The fact is that the inscriptions which have been published so far supply material not only for building the history of Ancient India but for the history of Indian Kāvya or the artificial poetry of the court, nay, for all the departments of Indian Research.This being the case it behoves every Indologist to facilitate the study of inscriptions and popularise Epigraphy. Mr. Diskalkar, therefore, has done a highly useful work in bringing out this edition and placing the texts of some of the very important inscriptions before the public. They are no doubt all published and fully discussed already but the books which contain their accounts are rather costly and not easily accessible to general public. This compilation of Mr. Diskalkar will obviate such drawbacksand place the texts of very valuable documents within an easy reach of every student who would care to study them. His choice has been a very happy one for he has selected such of the inscriptions as are useful not only for the history of some of the old dynasties but for the study of the evolution of the Kāvya literature as well. In the present volume he gives the texts only adding references to the publications where they have already appeared. Their critical account he has reserved for the next volume he is preparing. I am sure, his work will be of immense useto those for whom it is intended.
+
+
 
    Fernhill, Nilgiris, }        *H. Krishna Sastri,*  
 Dated 27th April 1925.}      
 
 Government Epigraphist for India.
+
+
 
 **INTRODUCTION.**
 
@@ -83,9 +131,14 @@ This
 
 [^2]: "*See Dr. Buhler s essay on  The Indian Inscriptions and the Antiquity of Indian Artificial Poetry  published in the Indian Antiquary of 1913."
 
+
+
 has eventually been the means of proving that classical literature was cultivated in India at a comparatively later date although the earliest compositions in the Sanskrit language must go back several millenia before the Christian era.  
 
+
  The present edition of the text of Sanskrit inscriptions has been undertaken with a twofold object in view. In the first place it is proposed to give a selection of Sanskrit inscriptions from the second century to the eighth century A. D. in their chronologicalorder. The selection of texts has been made more with a view to illustrate passages possessing literary merit than owing to their historical or religions importance. Only the text of each inscription is given here as the notes and translations are reserved for a separate volume. The characters used are Devanāgari which are easily understood by the students of Indian Universities for whom the book is mainly intended. Corrections have been made in the forms of the words as found in the inscriptions so as to remove the orthographical peculiarities in the originals and bring the composition in a line with the language of standard Sanskrit literature. Another purpose expected to be served by the edition is to popularise Indian Epigraphy. The student of Sanskrit literature in the Indian Universities is at present completely ignorant of the ancient records of this country the study of which is limited to a small circle of Epigraphists. If this edition serves to demonstrate to the student of literature that some of the inscriptions at least possess real poetical merit and are besides of a special value as a means to determine the historical sequence of Classical Literature, the Epigraphists' interest will be shared by the student of Literature. The wider study of Indian inscriptions by an ever increasing band of scholars is sure to give much needed stimulus to research in the domain of the literary and social history of India during the period represented by the inscriptions. The gain to the history of Sanskrit literature by a more thorough study of inscriptions
+
+
 
 cannot be exaggerated. Even the most wellknown of Classical poets viz. Kālidāsa has leftno record as to the time when and the place where he lived. We owe it to an inscription[^3] that we now know the posterior limit to which he can be assigned, viz. 634 A. D. The inscriptions of the Gurjara-Pratihāra kings, Mahendrapāla and Mahīpāla, who, we know,ruled during the last decade of the ninth century and in the beginning of the tenth century of the Christian era enable us to fix the time of the dramatist and post Rājaśekhar, whose pupils and patrons they were. In this way inscriptions have been of great use to us in determining the approximate period of many of our Classical authors.
 
@@ -93,13 +146,19 @@ cannot be exaggerated. Even the most wellknown of Classical poets viz. Kālidās
 
 I must express my obligations to the several scholars on whose devoted labours the subject matter of this edition is based. I express my sincere thanks to Sir John Marshall, the Director General of Archaeology in India, for his courtesy in allowing me to copy the inscriptions from Government publications issued by the Archeological Department, and to the proprietors of other Journals from which the remaining inscriptions are copied. My special thanks are due to Rao Bahadur H. Krishna śastri, Government Epigraphist for India who kindly consented at my request to write a preface to this small edition. I am also indebted to my friend, Mr. K. N. Dikshit M. A.; Superintendent Archeological Survey W. C. Poona for making many valuable suggestions in this work.
 
+
+
      Rajkot   }              D. B. D
 
 ISKALKAR.  
 
 20th March 1925.}  
 
+
+
+
 CONTENTS.  
+
 
 No. **1.** Girnār Rock Inscription of Rudradāman,
 
@@ -137,6 +196,8 @@ No. 8. Haraha Stone Inscription of Īśānavarman,
 
 of Mālava Saṃvat 611 (555 A. D.)  
 (Epigraphia Indica, Vol. XIV, p. 115.)
+
+
 
 No. 9. Valabhī CopperplateInscription of Dharasena I.
 
@@ -176,6 +237,10 @@ No. 15. Rāgim Copperplate Inscription of Tīvaradeva,
 of the 7th yr. of his reign (of the last quarter of the 8th cent. A. D.)  
 (Fleet's Gupta Inscriptions, No. 81).
 
+
+
+
+
 SELECTIONS
 
 From
@@ -183,6 +248,10 @@ From
 **Sanskrit Inscriptions.**
 
 Part I - Text.
+
+
+
+
 
 **No. 1.**
 
@@ -198,11 +267,21 @@ Part I - Text.
 ........ मवजातेनाकृत्रिमेण सेतुबन्धेनोपपन्नं सुप्रतिविहितप्रणालीपरीवाहमीढविधानं च त्रिस्कन्धं........नादिभिरनुग्रहैर्महत्युपचये वर्तते । तदिदं राज्ञो महाक्षत्रपस्य सुगृहीतनाम्नः स्वामि**चष्टनस्य** पौत्रस्य राज्ञः क्षत्रपस्य **जयदाम्नः** पुत्रस्य राज्ञो महाक्षत्रपस्य गुरुभिरभ्यस्तनाम्नो **रुद्रदाम्नो** वर्षे द्विसप्ततितमे ७२ मार्गशीर्षबहुलप्रतिपदायां ...... सृष्टवृष्टिना पर्जन्येनैकार्णवभूतायामिव पृथिव्यां कृतायां गिरेरूर्जयतः **सुवर्णसिकतापलाशिनी**प्रभृतीनां नदीनामतमात्रोद्वृत्तैर्वेगैः सेतुम ...... यमाणानुरूपप्रतीकारमपि गिरिशिखरतरुतटाट्टालकोपतल्पद्वारशरणोच्छ्रयविध्वंसिना
 युगनिधनसदृशपरमघोरवेगेन वायुना प्रमथितसलिलविक्षिप्तजर्ज्जरीकृताव ...... क्षिप्ताश्मवृक्षगुल्मलताप्रतानमानदीतलादित्युद्घाटितमासीत् । चत्वारि हस्तशतानि विंशदुत्तराण्यायतेनैतावन्त्येव विस्तीर्णेन पञ्चसप्ततिहस्तानवगाढेन भेदेन निःसृतसर्वतोयं मरुधन्वकल्पमतिभृशं दुर्दर्शनंः ...... ... स्यार्थे **मौर्यस्य** राज्ञः चन्द्रगुप्तस्य राष्ट्रियेण वैश्येन **पुष्यगुप्तेन** कारित**मशोकस्य मौर्यस्य** कृते **यवनराजेन तुषास्फेना**-
 
+
+
 धिष्ठाय प्रणालीभिरलङ्कृतं तत्कारितया च राजानुरूपकृतविधानया तस्मिन्भेदे दृष्टया प्रणाड्याविस्तृतसेतु... ... ...णागर्भात्प्रभृत्यविहतसमुदितराजलक्ष्मीधारणागुणतः सर्ववर्णैरभिगम्य रक्षणार्थं पतित्वे वृतेनाप्राणोछ्वासात्पुरुषवधनिवृत्तिकृतसत्यप्रतिज्ञेनान्यत्र संग्रामेष्वभिमुखागतसदृशशत्रुप्रहरणवितरणत्वाविगुणरिपु... ... ... धृतकारुण्येन स्वयमभिगतजनपदप्रणिपतितायुषशरणदेन दस्युव्यालमृगरोगादिभिरनुपसृष्टपूर्वनगर-निगमजनपदानां स्ववीर्यार्जितानामनुरक्तसर्वप्रकृतीनां पूर्वापराक**रावन्त्यनूपनीवृदानर्त्तसुराष्ट्रश्वभ्र\[म\]रुकच्छसिन्धुसौवीरकुकुरापरांतनिपादा**दीनां समग्राणां तत्प्रभावाद्य ...... र्थकामविषयाणां विषयाणां पत्या सर्वक्षत्राविष्कृतवीरशब्दजातोत्सेकाविधेयानां **यौधेयानां** प्रसह्योत्सादकेन **दक्षिणापथ**पतेः **सातकर्णे**र्द्विरपि निर्व्याजमवजित्यावजित्य सम्बन्धाविदूरतयानुत्सादनात्प्राप्तयशसा भा... प्तविजयेन भ्रष्टराजप्रतिष्ठापकेन यथार्थहस्तोच्छ्रयार्जितोर्जितधर्मानुरागेण शब्दार्थगान्धर्वन्यायाद्यानां विद्यानां महतीनां पारणधारणविज्ञानप्रयोगावाप्तविपुलकीर्तिना तुरगगजरथचर्यासिचर्मनियुद्धाद्या ......... परबललाघवसौष्ठवक्रियेणाहरहर्दानमानानवमानशीलेन स्थूललक्षेण यथावत्प्राप्तैर्बलि-शुल्कभागैःकनकरजतवज्रवैडूर्यरत्नोपचयविष्यन्दमानकोशेन स्फुटलघुमधुरचित्रकान्तशब्दसमयोदारालंकृतगद्यपद्य.........नप्रमाणमानोन्मानस्वर-गतिवर्णसारसत्त्वादिभिः परमलक्षणव्यञ्जनैरुपेतकान्तमूर्तिना स्वयमधिगतमहाक्षत्रपनाम्ना नरेन्द्रकन्यास्वयंवरानेकमाल्यप्राप्तदाम्नामहाक्षत्रपेण **रुद्रदाम्ना** वर्षसहस्राय गोब्राह्म ...... र्थं धर्मकीर्तिवृद्ध्यर्थं चापीडयित्वा करविष्टिप्रणयक्रियाभिः पौरजानपदं जनं स्वस्मात्कोशान्महता धनौघेनानतिमहता च कालेन त्रिगुणदृढतरविस्तारायामं सेतुं विधाय सर्वतटे ........सुदर्शनतरं कारितमिति । अस्मिन्नर्थे **महाक्षत्रपस्य** मतिसचिवकर्मसचिवैरमात्यगुणसमुद्युक्तैरप्यतिमहत्त्वाद्भेदस्यानुत्साहविमुखमतिभिः प्रत्याख्यातारम्भं पुनःसेतुबन्ध-
+
+
+
+
 
 नैराश्याद्धाहाभूतासु प्रजास्विहाधिष्ठाने पौरजानपदजनानुग्रहार्थं पार्थिवेन कृत्स्नानामा**नर्त्तसुराष्ट्राणां** पालनार्थं नियुक्तेन **पह्लवे**न कुलै
 
 पपुत्रेणामात्येन **सुविशाखे**न यथावदर्थधर्मव्यवहारदर्शनैरनुरागमभिवर्द्धयताशक्तेन दान्तेनाचपलेना-विस्मितेनार्येणाहार्येण स्वधितिष्ठता धर्मकीर्तियशांसि भर्तुरभिवर्द्धयतानुष्ठितमिति ।
+
+
+
+
 
 **No. 2.  
 Meharauli Posthumous Iron Pillar Inscription of Chandra.  
@@ -234,6 +313,10 @@ Not dated ( of about 340 ? A,D. )**
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
+
+
 **No. 3.**
 
 **Allahabad Stone Pillar Insc**
@@ -241,6 +324,7 @@ Not dated ( of about 340 ? A,D. )**
 **ription of Samudragupta**
 
 **Not dated (of about 350 A. D.)**  
+
 
 यः कुल्यैः स्वै... ......तस.........
 
@@ -290,6 +374,10 @@ Not dated ( of about 340 ? A,D. )**
 
 पश्वात्तापं व --------------- स्याद्वसन्तम् ॥ ६ ॥
 
+
+
+
+
 उद्वेलोदितबाहुवीर्यरमसादेकेन येन क्षणा-
 
 दुन्मूल्या**च्युतनागसेन**---- ---- ---- ---- ।
@@ -312,11 +400,17 @@ Not dated ( of about 340 ? A,D. )**
 
 ष्टपुरकमहेन्द्रगिरिकौट्टूरकस्वामिदत्तै-रण्डपल्लकदमनकाञ्चेयकविष्णुगोपावमुक्तकनीलराजवैङ्गेयकहस्तिवर्मपालक्ककोग्रसेनदैवराष्ट्रक-कुबेरकौस्थलपुरकधनञ्जयप्रभृतिसर्व**दक्षिणापथ**राजग्रहणमोक्षानुग्रहजनितप्रतापोन्मिश्रमाहाभाग्यस्य,
 
+
+
 **रुद्रदेवमतिलनागदत्तचन्द्रवर्मगणपतिनागनागसेनाच्युतनन्दिबलवर्माद्यनेकार्यावर्त**राजप्रसभोद्धरणोद्धृत्तप्रभावमहतः, परिचारकीकृतस**र्वाटविक**राजस्य, **समतटवाककामरूपनेपालकर्तृपुरा-**दिप्रत्यन्तनृपतिभि**र्मालवार्जुनायनयौधेयमाद्रकाभीरप्रार्जुनसनकानीककाकखरपरिका**दिभिश्चसर्वकरदानाज्ञाकरणप्रणामागमनपरितोषितप्रचण्डशासनस्य, अनेकभ्रष्टराज्योत्सन्नराजवंशप्रतिष्ठापनोद्भूता-निखिलभुवनविचरणशान्तयशसः, दैवपुत्रशाहिशाहानुशाहिशकमुरुण्डैः सैंहलकादिभिश्च सर्वद्वीपवासिभि-रात्मनिवेदनकन्योपायनदानगरुत्मदङ्कस्वविषयमुक्तिशासनयाचनाद्युपायसेवाकृतबाहुवीर्यप्रसरधरणि-बन्धस्य, पृथिव्यामप्रतिरथस्य; सुचरितशतालङ्कृतानेकगुणगणोत्सिक्तिभिश्चरणतलप्रमृ-
+
+
 
 ष्टान्यनरपतिकीर्तेः साध्वसाधूदयप्रलयहेतुपुरुषस्याचिन्त्यस्य, भक्त्यवनतिमात्रग्राह्यमृदुहृदयस्यानुकम्पावतोऽनेकगोशतसहस्रप्रदायिनः, कृपणदीनानाथातुरजनोद्धरणमन्त्रदीक्षाद्युपगतमनसः, समिद्धस्य विग्रहवतो लोकानुग्रहस्य धनदवरुणेन्द्रा
 
 न्नकसमस्य स्वभुजबलविजितानेकनरपतिविभवप्रत्यर्पणानित्यव्यापृतायुक्तपुरुषस्य, निशितविदग्धमतिगान्धर्वललितै व्रीडितत्रिदशपतिगुरुतुम्बुरुनारदादेर्विद्वज्जनोपजीव्यानेककाव्यक्रिया-भिःप्रतिष्ठितकविराजशब्दस्य, सुचिरस्तोतव्यानेकाद्भुतोदारचरितस्य लोकसमयक्रियानुविधानमात्रमानुषस्य लोकधाम्नो देवस्य महाराजश्री**गुप्त**प्रपौत्रस्य महाराजश्री**घटोत्कच**पौत्रस्य महाराजाधिराजश्री**चन्द्रगुप्त**पुत्रस्य **लिच्छवि**दौहित्रस्य महादेव्यां **कुमारदेव्या**मुत्पन्नस्य महाराजाधिराजश्री**समुद्रगुप्त**स्य सर्वपृथिवीविजयजनितोदयव्याप्तनिखिलावनितलां कीर्तिमितस्त्रिदशपतिभवनगमनावाप्तललितसुखविचरणामाचक्षाण इव भुवो बाहुरयमुच्छ्रितः स्तम्भः । यस्य
+
+
 
 प्रदानभुजविक्रमप्रशमशास्त्रवाक्योदयै-
 
@@ -326,9 +420,13 @@ Not dated ( of about 340 ? A,D. )**
 
 निरोधपरिमोक्षशीघ्रमिव पाण्डु गाङ्गं पयः ॥ १ ॥
 
+
+
 एतच्च काव्यमेषामेव भट्टारकपादानां दासस्य समीपपरिसर्पणानुग्रहोन्मीलितमतेः खाद्यटपाकिकस्य महादण्डनायकध्रुवभूतिपुत्रस्य सान्धिविग्रहिककुमारामात्य महादण्डनायक**हरिषेण**स्यसर्वभूतहितसुखायास्तु \। अनुष्ठितं च परमभट्टारकपादानुध्यातेन महादण्डनायक**तिलभट्टकेन** ।
 
 \_\_\_\_\_\_\_
+
+
 
 **No. 4.**
 
@@ -339,6 +437,8 @@ Not dated ( of about 340 ? A,D. )**
 **457 A. D.**
 
 **)**
+
+
 
 श्रियमभिमतभोग्यां नैककालापनीतां
 
@@ -383,6 +483,10 @@ Not dated ( of about 340 ? A,D. )**
 आर्तो दरिद्रो व्यसनी कदर्यो
 
 दण्ड्योन वा यो भृशपीडितः स्यात् ॥ ६ ॥
+
+
+
+
 
 एवं स जित्वा पृथिवीं समग्रां
 
@@ -436,6 +540,10 @@ Not dated ( of about 340 ? A,D. )**
 
 स्वस्था यथा नोन्मनसो बभूवुः ।
 
+
+
+
+
 पूर्वेतरस्यां दिशि **पर्णदत्तं**
 
 नियुज्य राजा धृतिमांस्तथाभूत् ॥ १३ ॥
@@ -484,6 +592,10 @@ Not dated ( of about 340 ? A,D. )**
 
 यत्रोपमा तस्य गुणैः क्रियेत ।
 
+
+
+
+
 स एव कार्त्स्न्येनगुणान्वितानां
 
 बभूव नृृणामुपमानभूतः ॥ १९ ॥
@@ -531,6 +643,10 @@ Not dated ( of about 340 ? A,D. )**
 यो ----------- **पर्णदत्ता**-
 
 त्सन्यायवानत्र किमस्ति चित्रम्
+
+
+
+
 
 मुक्ताकलापाम्बुजपद्मशीता-
 
@@ -584,6 +700,10 @@ Not dated ( of about 340 ? A,D. )**
 
 सुदर्शनं -------------------॥ ३१ ॥
 
+
+
+
+
 -------------- वणे स भूत्वा
 
 पितुः परां भक्तिमपि प्रदर्श्य ।
@@ -636,6 +756,8 @@ Not dated ( of about 340 ? A,D. )**
 
 रथचरणसमाह्वक्रौञ्चहंसासधूतम् ।
 
+
+
 विमलसलिल ---------------
 
 भुवि त --------------- र्कःशशी च ॥ ३८ ॥
@@ -650,7 +772,13 @@ Not dated ( of about 340 ? A,D. )**
 
 इति **सुदर्शन**तटाकसंस्कारग्रन्थरचना समाप्ता ।
 
+
+
 \_\_\_\_\_\_\_\_\_\_\_
+
+
+
+
 
 **No. 5.  
 Mandasore Stone Inscription of Kumaragupta**
@@ -658,6 +786,8 @@ Mandasore Stone Inscription of Kumaragupta**
 **and Bandhuvarman**
 
 **of Malava Sam529 ( 473 A. D. )**
+
+
 
 यो वृत्त्यर्थमुपास्यते सुरगणैः सिद्धैश्च सिद्ध्यार्थिभि-
 
@@ -686,6 +816,8 @@ Mandasore Stone Inscription of Kumaragupta**
 कुसुमभरानततरुवरदेवकुलसभाविहाररमणीयात् ।
 
 **लाट**विषयान्नगावृतशैलाज्जगति प्रथितशिल्पाः ॥ ४ ॥
+
+
 
 ते देशपार्थिवगुणापहृताः प्रकाश-
 
@@ -741,6 +873,8 @@ Mandasore Stone Inscription of Kumaragupta**
 
 न्याभान्ति दीर्घवलभीनि सवेदिकानि ।
 
+
+
 गान्धर्वशब्दमुखराणि निविष्टचित्र-
 
 कर्माणि लोलकदलीवनशोभितानि ॥ ११ ॥
@@ -788,6 +922,8 @@ Mandasore Stone Inscription of Kumaragupta**
 अद्यापि चान्ये समरप्रगल्भाः
 
 कुर्वन्त्यरीणामहितं प्रसह्य ॥ १७ ॥
+
+
 
 प्राज्ञा मनोज्ञवधवः प्रथितोरुवंशा
 
@@ -843,6 +979,8 @@ Mandasore Stone Inscription of Kumaragupta**
 
 बभूव गोप्तानृप**विश्ववर्मा** ॥ २४ ॥
 
+
+
 दीनानुकम्पनपरः कृपणार्तवर्ग-
 
 सन्धाप्रदोऽधिकदयालुरनाथनाथः ।
@@ -895,6 +1033,8 @@ Mandasore Stone Inscription of Kumaragupta**
 
 वह्निप्रतापसुभगे जललीनमीने ।
 
+
+
 चन्द्रांशुहर्म्यतलचन्दनतालवृन्त-
 
 हारोपभोगरहिते हिमदग्धपद्मे॥ ३१ ॥
@@ -935,6 +1075,8 @@ Mandasore Stone Inscription of Kumaragupta**
 
 शशिभान्वोरभ्युदयेष्वमलमयूखायतनभूतम् ॥ ३८ ॥
 
+
+
 वत्सरशतेषु पञ्चसु विंशत्यधिकेषु नवसु चाब्देषु ।
 
 यातेष्वभिरम्यतपस्यमासशुक्लाद्वितीयायाम् ॥ ३९ ॥
@@ -946,6 +1088,10 @@ Mandasore Stone Inscription of Kumaragupta**
 पुष्पोद्गमैरभिनवैरधिगम्य नून-
 
 मैक्यं विजृम्भितशरे हरपू(धू)तदेहे ॥ ४० ॥
+
+
+
+
 
 मधुपानमुदितमधुकरकुलोपगीतनगणैकपृथुशाखे ।
 
@@ -969,6 +1115,8 @@ Mandasore Stone Inscription of Kumaragupta**
 
 स्वस्ति कर्तृलेखकवाचकश्रोतृभ्यः । सिद्धिरस्तु ।
 
+
+
 No. 6.
 
 Mandasore Stone Pillar Inscription of Yas'odharman
@@ -978,6 +1126,7 @@ Not dated (
 of about 632 AD
 
 )  
+
 
 वेपन्ते यस्य भीमस्तनितभयसमुद्भ्रान्तदैत्या दिगन्ताः
 
@@ -1002,6 +1151,10 @@ of about 632 AD
 निन्द्याचारेषु योऽस्मिन्विनयमुषियुगे कल्पनामात्रवृत्त्या
 
 राजस्वन्येषु पांसुष्विव कुसुमबलिर्नावभाषे प्रयुक्तः ।
+
+
+
+
 
 स श्रेयोधाम्निसम्राडिति मनुभरतालर्कमान्धातृकल्पे
 
@@ -1055,6 +1208,8 @@ of about 632 AD
 
 \_\_\_\_\_\_\_\_\_\_
 
+
+
 No. 7.
 
 Mandasore Stone Inscription of Yas'odharman
@@ -1068,6 +1223,7 @@ of Malava Sam 589 (
 532A. D.
 
 )  
+
 
 स जयति जगतां पतिः पिनाकी
 
@@ -1112,6 +1268,10 @@ of Malava Sam 589 (
 आजौजिती विजयते जगतीं पुनश्च
 
 श्री**विष्णुवर्धन**नराधिपतिः स एव ।
+
+
+
+
 
 प्रख्यात **औलिकरलाञ्छन** आत्मवंशो
 
@@ -1167,6 +1327,10 @@ of Malava Sam 589 (
 
 वरःहदासं यमुदाहरन्ति ॥ १२ ॥
 
+
+
+
+
 सुकृतिविषयितुङ्गं रूढमूलं धरायां
 
 स्थितिमपगतभङ्गां स्थेयसीमादधानम् ।
@@ -1218,6 +1382,10 @@ of Malava Sam 589 (
 स धुरमयमिदानीं दोषकुम्भस्य सूनु-
 
 र्गुरु वहति तदूढां धर्मतो धर्मदोषः॥ २० ॥
+
+
+
+
 
 स्वसुखमनतिवाञ्छन्दुर्गमेऽध्वन्यसङ्गां
 
@@ -1271,6 +1439,10 @@ of Malava Sam 589 (
 
 सत्कूपंस्तावदास्ताममृतसमरसस्वच्छविष्यन्दिताम्बुः ॥ २७ ॥
 
+
+
+
+
 धीमा**न्दक्षो** दक्षिणः सत्यसन्धो
 
 ऱ्हीमान्छूरो वृद्धसेवी कृतज्ञः ।
@@ -1283,6 +1455,9 @@ of Malava Sam 589 (
 
 \_\_\_\_\_\_\_\_\_\_\_  
 
+
+
+
 No. 8.
 
 Haraha Stone Inscription of Isānavarman
@@ -1292,6 +1467,8 @@ of Malaya Samvat 611 (
 555 A. D.
 
 )
+
+
 
 लोकाविष्कृतिसंक्षयस्थितिकृतां यः कारणं वेधसां
 
@@ -1324,6 +1501,10 @@ of Malaya Samvat 611 (
 लोकस्थितीनां स्थितये स्थितस्य
 
 मनोरिवाचारविवेकमार्गे ।
+
+
+
+
 
 जगाहिर यस्य जगन्ति रम्याः
 
@@ -1379,6 +1560,10 @@ of Malaya Samvat 611 (
 
 राजन्राजकमण्डलाम्बरशशिः**श्रीशानवर्मा** नृपः ॥ ११ ॥
 
+
+
+
+
 लोकानामुपकारिणारिकुमुदव्यालुप्तकान्तिश्रिया
 
 मित्रास्याम्बुरुहाकरद्युतिकृता भूरिप्रतापत्विषा ।
@@ -1431,6 +1616,10 @@ of Malaya Samvat 611 (
 
 बाणैस्तावदवस्थितं स्मृतिभुवः कान्ताशरीरक्षतौ ।
 
+
+
+
+
 लक्ष्म्यां तावदकाण्डभङ्गजभयं त्यक्तं परापाश्रयं
 
 यावन्नाविरकारि यस्य जनताकान्तं वपुर्वेधसा ॥ १८ ॥
@@ -1471,6 +1660,10 @@ of Malaya Samvat 611 (
 
 \_\_\_\_\_\_\_\_\_
 
+
+
+
+
 **No. 9.**
 
 **Valabhi Copperplate Inscription of Dharasena ( I )**
@@ -1481,6 +1674,8 @@ of Malaya Samvat 611 (
 
 **)**
 
+
+
 स्वस्ति । विजयस्कन्धावारा**द्भद्रपत्तन**वासकात्प्रसभप्रणचतामित्राणां **मैत्रकाणा**मतुलबलसपत्न-मण्डलाभोगसंसक्तसंप्रहारशतलब्धप्रतापः प्रतापोपनतदानमानार्जवोपार्जितानुरागानुरक्त-मौलभृतश्रेणिबलावाप्तराज्यश्रीः परममाहेश्वरः श्रीसेनापति**भटार्कः**,
 
 तस्य सुतस्तत्पादरजोरुणावनतपवित्रीकृतशिराः शिरोवनतशत्रुचूडामणिप्रभाविच्छुरित-पादनखपङ्क्तिदीधितिर्दीनानाथकृपणजनोपजीव्यमानविभवः परममाहेश्वरः श्रीसेनापति**धरसेनः**,
@@ -1489,11 +1684,17 @@ of Malaya Samvat 611 (
 
  सिंह इव तस्यानुजः स्वभुजबलपराक्रमेण परगजघटानीकानामेकविजयी शरणैषिणां शरणमवबोद्धा शास्त्रार्थतत्त्वानां कल्पतरुरिव सुहृत्प्रणयिनां यथाभिलषितकामफलभोगदः परमभागवतो महाराजश्री**ध्रुवसेनः**,
 
+
 तस्यानुजस्तच्चरणारविन्दप्रणतिप्रविधौताशेषकल्मषःसुविशुद्धस्वचरितोदकप्रक्षालिताशेषकलि-कलङ्कःप्रसमनिर्जितारातिपक्षप्राथितमहिमा परमादित्यभक्तः श्रीमहाराज**धरपट्टः**,
 
 तस्य सुतस्तत्पादसपर्यावाप्तपुण्योदयः शैशवात्प्रभृति खड्गद्वितीयबाहुरेव समदपरगज-घटास्फोटनप्रकाशितसत्वनिकषस्तत्प्रभावप्रणतारातिचूडारत्नप्रभासंसक्तसव्यपादनखपङ्क्ति-दीधितिः सकलस्मृतिप्रणीतमार्गसम्यक्परिपालनप्रजाहृदय रञ्जनादन्वर्थराजशब्दो रूपकान्तिस्थैर्यधैर्यबुद्धि-
 
+
+
+
  
+
+
 
 सम्पद्भिःस्मरशशाङ्काद्रिराजोदधित्रिदशगुरुधनेशानतिशयानः शरणागताभयप्रदानपरतया तृणवदपास्ताशेषस्वकार्यफलः प्रार्त्थ्यनाधिकार्थप्रदानन्दितविद्वत्सुहृत्प्रणयिहृदयः पादचारीव सकलभुवनमण्डलाभोगप्रमोदः परममाहेश्वरो महाराज श्री**गुहसेनः**,
 
@@ -1501,6 +1702,10 @@ of Malaya Samvat 611 (
 
 अस्तु वस्संविदितं यथा मया मातापित्रोः पुण्याप्यायनायात्मनश्चैहिकामुष्मिकयथाभिलषितफलावाप्तये **वलभ्या**माचार्यभदन्त**स्थिरमति**कारितश्री**बप्पपादीयविहारे** भगवतां बुद्धानां पुष्पधूपगन्धदीप-तैलादिक्रियोत्सर्पणार्थं नानादिगभ्यागतार्यभिक्षुसङ्घस्य च चीवरपिण्डपातग्लानभैषजाद्यर्थ विहारस्य च खण्डस्फुटितविशीर्णप्रतिसंस्करणार्थं हस्तवप्राहरण्यां महेश्वरदासेनकग्रामो धाराखेटस्थल्यां च देवभद्रिपल्लिकाग्रामः सोद्रङ्गौ सोपरिकरौ सवातभूतप्रत्यांयौसधान्यभागभोगहिरण्या-देयौसोत्पद्यमानविष्टिकौ सदशापराधौसमस्तराजकीयानामहस्तप्रक्षेपणीयौ भूमिछिद्रन्यायेन ।
 चन्द्रार्कार्णवसारीत्क्षितिस्थितिपर्वतसमकालीनौ उदकातिसर्गेण देवदायौनिसृष्टौ । यत उचितयादेवविहारस्थित्या भुञ्जतः कृषतः कर्षयतः प्रतिदिशतो वा न कैश्चिद्व्याघाते वर्तितव्यौ। आगामिभद्रनृपतिभिरस्मद्वंशजैरन्यैर्वानित्या-
+
+
+
+
 
 न्यैश्वर्याण्यस्थिरं मानुष्यं सामान्यं च भूमिदानफलमवगच्छद्भिरयमस्मद्दायोऽनुमन्तव्यः परिपालयितव्यश्च। यश्चैनभाच्छिद्यादाच्छिद्यमानं वानुमोदेत स पञ्चभिर्महापातकैस्सोपपातकैः संयुक्तः स्यादित्युक्तं च भगवता वेदव्यासेन व्यासेन ।
 
@@ -1540,7 +1745,11 @@ of Malaya Samvat 611 (
 
 \_\_\_\_\_
 
+
+
  
+
+
 
 **No. 10.**
 
@@ -1596,6 +1805,8 @@ of Malaya Samvat 611 (
 
 यदेषामवधिर्भूमेरतिक्रान्ता पराक्रमैः ॥ ११ ॥
 
+
+
 शक्त्यापि पूर्वं विजिता भूमिरम्बुधिमेखला ।
 
 प्रभुत्वेक्षमया येन सैव पश्चादजीयत ॥ १२ ॥
@@ -1648,6 +1859,8 @@ of Malaya Samvat 611 (
 
 यो लब्धवान्प्रसादेन स्वामिनोरुभयोरपि ॥ २४ ॥
 
+
+
 न किंचित्स्वाम्यसंभुक्तमाप्नं येन कदाचन ।
 
 भोजनं वसनं ---- यानाद्याभरणानि वा ॥ २५ ॥
@@ -1692,6 +1905,10 @@ of Malaya Samvat 611 (
 
 ये नरा हर्तुमिच्छन्ति ते यान्तु नरकं चिरम् ॥ ३५ ॥
 
+
+
+
+
 **No. 11.**
 
 **Bānskherā Copperplate Inscription of Harsha.**
@@ -1713,6 +1930,8 @@ of Malaya Samvat 611 (
 
   विदितमस्तु यथायमुपरिलिखितग्रामः स्वसीमापर्यन्तः सोद्रङ्गःसर्वराजकुलाभाव्यप्रत्यायसमेतः सर्वपरिहृतपरिहारो विषयादुद्धृतपिण्डः
 
+
+
 पुत्रपौत्रानुगश्चन्द्रार्कक्षितिसमकालीनोभूमिछिद्रन्यायेन मया पितुः परमभट्टारकमहाराजाधिराजश्री**प्रभाकरवर्धन**देवस्य मातुर्भद्वारिकामहादेवीराज्ञीश्री**यशोमती**देव्या ज्येष्ठभ्रातृपरमभट्टारकमहाराजाधिराजश्री**राज्यवर्धन**देवपादानां चपुण्ययशोभिवृद्धये भरद्वाजसगोत्रबह्वृचच्छन्दोगसब्रह्मचारिभट्टवालचन्द्रभद्रस्वामिभ्यां प्रतिग्रहधर्मेणाग्रहारत्वेन प्रतिपादितो विदित्वा भवद्भिः समनुमन्तव्यः प्रतिवासिजानपदैरप्याज्ञाश्रवणविधेयैर्भूत्वा यथासमुचिततुल्यमेयभागभोगकरहिरण्यादिप्रत्याया एतयोरेवोपनेयाः सेवोपस्थानं च करणीयमित्यपि च ।
 
 अस्मत्कुलक्रममुदारमुदाहरद्भि-
@@ -1727,7 +1946,13 @@ of Malaya Samvat 611 (
 
 हर्षेणैतत्समाख्यातं धर्मार्जनमनुत्तमम् ॥ २ ॥
 
+
+
 दूतकोऽत्र महाप्रमातारमहासामन्तश्रीस्कन्दगुप्तः ।महाक्षपटलाधिकरणाधिकृतमहासामन्तमहाराज-भानुसमादेशादुत्कीर्णमीश्वरेणेदमिति \। संवत् २० २ कार्तिक वदि १ । स्वहस्तो मम महाराजाधिराजश्री**हर्षस्य** ।
+
+
+
+
 
 **No. 12.**
 
@@ -1740,6 +1965,8 @@ of Malaya Samvat 611 (
 **634 A. D.**
 
 **)**
+
+
 
 जयति भगवा**ञ्जिनेन्द्रो** वीतजरामरणजन्मनो यस्य ।
 
@@ -1785,6 +2012,8 @@ of Malaya Samvat 611 (
 
 प्रापितावमृथमज्जनं बभौ ॥ ८ ॥
 
+
+
 **नलमौर्यकदम्ब**कालरात्रि-
 
 स्तनयस्तस्य बभूव **कीर्तिवर्मा** ।
@@ -1826,6 +2055,8 @@ of Malaya Samvat 611 (
 वरुणबलमिवाभूदागतं यस्य वाचा ॥ १३ ॥
 
 तस्याग्रजस्य तनये नहपानभावे
+
+
 
 स्वतनयगतराज्यारम्भयत्नेन सार्द्धं
 
@@ -1879,9 +2110,15 @@ of Malaya Samvat 611 (
 
 दण्डोपनतसामन्तचर्याचार्या इवाभवन् ॥ २२ ॥
 
+
+
+ 
+
  
 
 (CARE : Pages ३८ तथा ३९(52 &53 in this PDF)are repeated)
+
+
 
 अपरिमितविभूतिस्फीतसामन्तसेना-
 
@@ -1935,6 +2172,8 @@ of Malaya Samvat 611 (
 
 प्राकारान्तरितप्रतापमकरोद्यः**पल्लवा**नां पतिम् ॥ २९ ॥
 
+
+
 **कावेरी** दृतशफरीविलोलनेत्रा
 
 **चोलानां** सपदि जयोद्यतस्य यस्य ।
@@ -1980,6 +2219,10 @@ of Malaya Samvat 611 (
 स विजयता **रविकीर्तिः**कविताश्रित-
 
 **कालिदासभारवि**कीर्तिः ॥ ३७ ॥
+
+
+
+
 
 **No. 18.**
 
@@ -2035,6 +2278,8 @@ of Malaya Samvat 611 (
 
 सा बभूव विनयादरुन्धती ॥ ६ ॥
 
+
+
 श्रीर्बन्धकी स्थाणुरता च गौरी
 
 वैधव्यदुःखोपहता रतिश्च।
@@ -2080,6 +2325,10 @@ of Malaya Samvat 611 (
 मार्गशीर्षशुद्धपञ्चम्यां प्रतिष्ठा वासुदेवस्य ॥ १३ ॥
 
 नमः पुरुषोत्तमाय ।
+
+
+
+
 
 **No. 14.**
 
@@ -2135,6 +2384,8 @@ of Malaya Samvat 611 (
 
 प्रोद्यद्धूलीजलौघभ्रमितगुरुमहामत्तमातङ्गशैलः ।
 
+
+
 भीमः श्री**शानवर्म**क्षितिपतिशाशनः सैन्यदुग्धोदसिन्धु-
 
 र्लक्ष्मीसंप्राप्तिहेतुः सपदि विमथितो मन्दरीभूय येन ॥ ८ ॥
@@ -2182,6 +2433,8 @@ of Malaya Samvat 611 (
 लक्ष्मीसत्यसरस्वतीकुलगृहं धर्मस्य सेतुर्दृढः
 
 पूज्यो (?) नास्ति स भूतले ----------- सद्गुणैः ॥ १६॥
+
+
 
 चक्रंपाणितलेन सोऽप्युदवहत्तस्यापि शार्ङ्गं धनु-
 
@@ -2233,6 +2486,8 @@ of Malaya Samvat 611 (
 
 सत्यभर्तृव्रता यस्य मुखोपधानतापसी ।
 
+
+
 ---------- ज्ञः सकलरिपुबलध्वंसहेतुर्गरीया-
 
 न्निस्त्रिंशोत्खातघातश्रमजनितजडोऽप्यूर्जितस्वप्रतापः ।
@@ -2281,6 +2536,10 @@ of Malaya Samvat 611 (
 
 ------- मिता सम्यग्धार्मिकेण सुधीमता ॥ ३० ॥
 
+
+
+
+
 ERRATA.
 
 |          |          |                |                |
@@ -2307,5 +2566,9 @@ ERRATA.
 
 \_\_\_\_\_\_\_\_\_
 
+
 \]
+
+
+
 
