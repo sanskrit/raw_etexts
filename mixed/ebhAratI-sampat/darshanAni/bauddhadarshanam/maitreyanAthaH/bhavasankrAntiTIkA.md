@@ -13,7 +13,26 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYzOTQ3OTMyODM
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **मैत्रेयनाथकृता भवसङ्क्रान्तिटीका**
+
+
+
 
 नमः सर्वज्ञाय
 
@@ -257,6 +276,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYzOTQ3OTMyODM
 
 **-------------------------------------------------------**
 
+
+
 **\\Z**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

@@ -13,7 +13,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1NDkyNjY3MzM
 
 \[
 
+
+
+
+
+
+
 **धर्मकीर्तिप्रणीता सन्तानान्तरसिद्धिः**
+
+
 
 बुद्धिपूर्वां क्रियां दृष्ट्वा स्वदेहेऽन्यत्र तद्ग्रहात् ।  
 ज्ञायते यदि धीश्चित्तमात्रेऽप्येष नयः समः ॥
@@ -59,5 +67,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1NDkyNjY3MzM
 **-------------------------------------------------------**
 
 \\Z
+
+
+
 
 \]

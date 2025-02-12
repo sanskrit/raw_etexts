@@ -12,9 +12,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA0Njc0NjU4OTI
 
 \[
 
+
+
+
+
 **प्रसादप्रतिभोधव**
 
 ( शतपञ्चाशत्क) मातृचेट
+
 
 सर्वदा सर्वथा सर्वे यस्य दोषा न सन्ति ह ।  
 सर्वे सर्वाभिसारेण यत्र चावस्थिता गुणाः ॥ १
@@ -478,5 +483,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA0Njc0NjU4OTI
 \\Z
 
 --------------------------------------------------
+
 
 \]

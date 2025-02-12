@@ -13,10 +13,18 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3OTA4Nzk4
 
 \[
 
+
+
+
+
 **पञ्चक्रमः**
+
+
 
 **\[१\]  
 वज्रजापक्रमः प्रथमः**
+
+
 
 ओं नमो बुद्धाय
 
@@ -192,8 +200,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3OTA4Nzk4
 
 **--------------------------------------**
 
+
+
+
+
 **\[२\]  
 अनुत्तरसन्धिरित्यपरनामा सर्वशुद्धिविशुद्धिक्रमः द्वितीयः**
+
+
 
 नमः श्रीवज्रसत्त्वाय
 
@@ -396,8 +410,16 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3OTA4Nzk4
 
 **------------------------------------------------**
 
+
+
+
+
+
+
 **\[३\]  
 स्वाधिष्ठानक्रमः तृतीयः**
+
+
 
 नमः श्रीवज्रगुरवे
 
@@ -514,8 +536,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3OTA4Nzk4
 
 **------------------------------------------**
 
+
+
+
+
 **\[४\]  
 अभिसम्बोधिक्रमः चतुर्थः**
+
+
 
 नमः श्रीवज्रसत्त्वाय
 
@@ -611,11 +639,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3OTA4Nzk4
 कृतिरियमाचार्यनागार्जुनपादानाम् ।  
 ग्रन्थप्रमाणमस्य श्लोकाश्चत्वारिंशत् ।
 
+
+
+
+
 \[५\]  
 
 **युगनद्धक्रमः पञ्चमः**
 
 **नमः श्रीवज्रधराय**
+
+
 
 फलहेत्वात्मकं नाथं सर्वद्वन्द्वविवर्जितम् ।  
 प्रणम्य लिख्यते सम्यग्युगनद्धक्रमोत्तमः ॥ ५.१ ॥  
@@ -718,5 +752,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY3OTA4Nzk4
 **शुभमस्तु**
 
 \\Z
+
+
 
 \]

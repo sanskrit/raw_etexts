@@ -14,7 +14,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MjgwNTg3MzU
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **समाधिसंभारपरिवर्तः**
+
+
 
 लोकनाथाय नमः
 
@@ -60,5 +78,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MjgwNTg3MzU
 **---------------------------------------------------**
 
 \\Z
+
+
+
+
+
+
+
+
+
+
+
 
 \]

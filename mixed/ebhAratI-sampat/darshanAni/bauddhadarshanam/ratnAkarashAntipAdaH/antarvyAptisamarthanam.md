@@ -13,7 +13,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwNjE0MjIzNjI
 
 \[
 
+
+
+
+
+
+
 **अन्तर्व्याप्तिसमर्थनम् ।**
+
+
 
 ओं नमो बुद्धाय ।
 
@@ -93,5 +101,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgwNjE0MjIzNjI
 कृतिरियं रत्नाकरशान्तिपादानामिति ॥ ० ॥ \\Z
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+
+
 
 \]

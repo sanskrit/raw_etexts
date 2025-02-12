@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyOTQ3NTExNjA
 
 \[
 
+
+
+
+
 **चीवरवस्तु**
+
+
 
 (म्स्विइ ३ )(२३९ ८ = ग्ब्म् ६.७९१.८) चीवरवस्तुनि पिण्डोद्दानम्\* ।
 
@@ -488,5 +494,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyOTQ3NTExNjA
 **॥ चीवरवस्तु समाप्तम्\* ॥\\Z**
 
 **------------------------------------------------------------**
+
+
+
+
+
 
 \]

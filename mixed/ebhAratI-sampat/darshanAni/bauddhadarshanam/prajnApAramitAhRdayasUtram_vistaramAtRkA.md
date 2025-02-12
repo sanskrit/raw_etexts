@@ -12,8 +12,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NzI2NTM0MTg
 
 \[
 
+
+
+
+
+
+
 **प्रज्ञापारमिताहृदयसुत्रम्।  
 \[विस्तरमातृका\]**
+
+
 
 **॥नमः सर्वज्ञाय॥**
 
@@ -27,7 +35,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc2NzI2NTM0MTg
 
 **इति प्रज्ञापारमिताहृदयसूत्रं समाप्तम्।**
 
+
+
 **--------------------------------------------------------**
+
+
 
 **Prajñāpāramitāhṛdayasutram\।  
 \[vistaramātṛkā\]**
@@ -49,6 +61,13 @@ idamavocadbhagavān\। ānandamanā āyuṣmān śāriputraḥ āryāvalokiteś
 
 **iti prajñāpāramitāhṛdayasūtraṁ samāptam\।**
 
+
+
 **--------------------------------------------------------------**
+
+
+
+
+
 
 \]

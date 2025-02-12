@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU5MTIwMzAw
 
 \[
 
+
+
 **कौशिकप्रज्ञापारमितासूत्रम्।**
+
+
 
 नमो सर्वबुद्धबोधिसत्त्वेभ्यः॥
 
@@ -73,7 +77,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU5MTIwMzAw
 
 **-----------------------------------------**
 
+
+
+
+
 **Kauśikaprajñāpāramitāsūtram**
+
+
 
 namo sarvabuddhabodhisattvebhyaḥ\।\।
 
@@ -140,5 +150,7 @@ idamavocadbhagavān\। āttamanā āyuṣmān sāriputraḥ śakro devānāmind
 **kauśikanāma prajñāpāramitā samāptā.**
 
 **---------------------------------------**
+
+
 
 \]

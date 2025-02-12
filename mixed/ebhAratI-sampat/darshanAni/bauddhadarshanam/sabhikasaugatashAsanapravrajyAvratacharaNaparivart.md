@@ -12,7 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM3MjExMDA4OTY
 
 \[
 
+
+
+
+
 ** सभिकसौगतशासनप्रव्रज्याव्रतचरणपरिवर्तः**
+
 
 (सम् ४ ब्४ः अद्दितिओनल्वेर्सेस्)  
 अथाशोको महाराजः श्रोतुं सुभाषितं पुनः ।  
@@ -488,5 +493,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM3MjExMDA4OTY
 
 इति सभिकसौगतशासनप्रव्रज्याव्रतचरणपरिवर्तो नाम नवमोऽध्यायः समाप्तः ॥  
 \\Z
+
+
+
 
 \]

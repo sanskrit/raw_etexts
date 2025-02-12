@@ -15,6 +15,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4MzAyMzkwMjg
 
 \[
 
+
+
+
+
+
+
 दशाकुशलकर्मपथदेशना
 
 नमो रत्नत्रयाय
@@ -44,6 +50,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4MzAyMzkwMjg
 
 **----------------------------------------------**
 
+
+
 **\\Z**
+
+
+
 
 \]

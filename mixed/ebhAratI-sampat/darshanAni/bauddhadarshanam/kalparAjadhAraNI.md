@@ -12,7 +12,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMTY5Mjc5MzU
 
 \[
 
+
+
+
+
+
+
 **महामणिविपुलविमानविश्वसुप्रतिष्ठितगुह्यपरमरहस्यकल्पराजधारणी**
+
 
 १७२४ (पृष्ठ ५३ )  
 १ यितव्याः ॥ द्वातृंशति शरावा पूरयितव्याः ॥ चत्वारि तैलानि चत्वारि घृतम् । चत्वारि  
@@ -85,5 +92,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIzMTY5Mjc5MzU
 \\Z
 
 ------------------------------------------------------
+
 
 \]

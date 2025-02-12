@@ -14,7 +14,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMzNjc0MjM3Nzk
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **सत्यद्वयावतारनाम**
+
+
 
 ॥ नमो महाकारुणिकाय ॥
 
@@ -84,5 +102,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMzNjc0MjM3Nzk
 **तेनैव पण्डितेन अनुवादकेन वीर्यसिंहेन चानूद्य संशोध्य च निर्णीतः।**
 
 **---------------------------------------------------**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

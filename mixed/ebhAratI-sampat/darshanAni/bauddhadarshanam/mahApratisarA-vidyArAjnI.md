@@ -12,7 +12,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDEwMTM5NzU5
 
 \[
 
+
+
+
+
 **महाप्रतिसरा विद्याराज्ञी**
+
 
 नमो भगवत्यै आर्यमहाप्रतिसरायै । नमः सम्यक्संबुधेभ्यः ॥
 
@@ -396,7 +401,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDEwMTM5NzU5
 
 **--------------------------------------------**
 
+
+
 **अथातो विद्यावरस्य रक्षाविधानकल्पं व्याख्यास्यामि सर्वसत्वानुकम्पकया ।**
+
+
 
 जनरक्षाविधानेन महासिद्धिर्भविष्यति ।  
 यत्र यत्र कृता रक्षा भवत्यबद्धो न संशयः ॥  
@@ -573,5 +582,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDEwMTM5NzU5
 
 **-------------------------------------------  
 \\Z**
+
+
 
 \]

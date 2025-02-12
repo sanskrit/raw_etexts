@@ -12,7 +12,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQxOTQ3NzY4MTQ
 
 \[
 
+
+
+
+
+
+
 **पोषधवस्तु**
+
 
 (२५६)
 
@@ -1353,5 +1360,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQxOTQ3NzY4MTQ
 
 fओलिओस्६७ अन्द्६८ अरे लोस्त्.  
 \\Z
+
+
+
 
 \]

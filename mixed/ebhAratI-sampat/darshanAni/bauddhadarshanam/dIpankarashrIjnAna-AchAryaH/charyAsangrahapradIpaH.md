@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NjA1OTExMDE
 
 \[
 
+
+
+
+
 **चर्यासङ्ग्रहप्रदीपः**
+
+
 
 नमो लोकेश्वराय
 
@@ -64,8 +70,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4NjA1OTExMDE
 
 एवं स्थविर ! कर्त्तव्यम् ।२३, अ ।
 
+
+
 **चर्यासङ्ग्रहप्रदीपो महापण्डिताचार्य - दीपङ्कर - श्रीज्ञानकृतः समाप्तः ।\\Z**
 
 **----------------------------------------------**
+
+
+
+
+
 
 \]

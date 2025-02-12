@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzNzY1MTA5Nzc
 
 \[
 
+
+
+
+
+
+
 **नित्यकर्मपूजाविधिः**
+
+
 
 ओं नमः श्रीवज्रसत्त्वाय ।
 
@@ -221,6 +229,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzNzY1MTA5Nzc
 
 **----------------------------------------------**
 
+
 \\Z
+
+
+
 
 \]

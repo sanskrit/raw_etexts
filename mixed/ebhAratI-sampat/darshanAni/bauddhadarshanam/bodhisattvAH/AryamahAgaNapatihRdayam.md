@@ -13,6 +13,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwMzExNjkyODk
 
 \[
 
+
+
+
+
 (१०)
 
 **नमो भगवते आर्यमहागणपतिहृदयाय ।**
@@ -50,5 +54,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwMzExNjkyODk
 **आर्यमहागणपतिहृदयं समाप्तम् ॥\\\\Z**
 
 **---------------------------------------------------------------------------**
+
+
+
+
+
 
 \]

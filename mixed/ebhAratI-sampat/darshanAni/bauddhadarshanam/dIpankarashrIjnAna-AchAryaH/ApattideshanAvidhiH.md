@@ -14,7 +14,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5MDA5NDEzODE
 
 \[
 
+
+
+
+
 **आपत्तिदेशनाविधिः**
+
+
 
 नमो बुद्धाय
 
@@ -30,6 +36,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5MDA5NDEzODE
 
 **----------------------------------------------------------**
 
+
+
 **\\Z**
+
+
+
 
 \]

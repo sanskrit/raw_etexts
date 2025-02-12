@@ -13,9 +13,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyNDYyNTc4OTQ
 
 \[
 
+
+
+
+
 **पिण्डीक्रमः**
 
 **आचार्यनागार्जुनप्रणीतः**
+
+
 
 नमः सर्वज्ञाय
 
@@ -512,5 +518,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyNDYyNTc4OTQ
 **। कृतिराचार्यश्रीनागार्जुनपादानाम् । \\Z**
 
 **-------------------------------------------**
+
+
+
 
 \]

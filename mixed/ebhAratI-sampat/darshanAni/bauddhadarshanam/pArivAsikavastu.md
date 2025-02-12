@@ -12,6 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc4MTIwOTc4MzU
 
 \[
 
+
+
+
+
+
+
 (८९)  
 
 **वस्तुत्रयस्य पिण्डोद्दानम्\* ।**
@@ -19,9 +25,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc4MTIwOTc4MzU
 अभिवादनं च षष्टिश्च अशुद्धश्चोदनाहि च ।  
 अधार्मिकश्च शाक्यश्च ग्लानकः कलहेन च ॥
 
+
 (९१)  
 
 **पारिवासिकवस्तु**
+
+
 
 (९३)  
 पारिवासिकवस्तूद्दानम्\* ।
@@ -92,5 +101,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc4MTIwOTc4MzU
 **पारिवासिकवस्तु समाप्तम्\* ॥\\Z**
 
 **--------------------------------------------**
+
+
+
 
 \]

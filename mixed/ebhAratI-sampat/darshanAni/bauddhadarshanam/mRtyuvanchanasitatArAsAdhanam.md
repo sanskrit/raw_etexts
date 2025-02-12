@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NzI2MTM5OTA
 
 \[
 
+
+
+
+
+
+
 **मृत्युवञ्चनसिततारासाधनम् ॥**
+
+
 
 मृत्युदोषैरलिप्तः स्यात्ताराहृच्चक्रभावकः ।  
 लाभी च सर्वसिद्धीनां षण्मासावधि तत्परः ॥ १ ॥  
@@ -49,5 +57,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NzI2MTM5OTA
 
 **------------------------------------------**  
 \\Z
+
+
+
 
 \]

@@ -13,7 +13,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg4MjExODQwNDM
 
 \[
 
+
+
+
+
+
+
 **गुरुक्रियाक्रमः**
+
+
 
 सर्वबुद्धबोधिसत्त्वेभ्यो नमः
 
@@ -30,5 +38,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg4MjExODQwNDM
 **संक्षिप्तगुरुक्रियाक्रमः महापण्डिताचार्यदीपङ्करश्रीज्ञानविरचितः समाप्तः ॥**
 
 \\Z
+
+
+
 
 \]

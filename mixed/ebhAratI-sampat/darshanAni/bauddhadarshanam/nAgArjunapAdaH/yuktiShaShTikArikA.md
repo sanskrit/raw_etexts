@@ -13,9 +13,26 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjgwNzM1OTg
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **अथ युक्तिषष्टिकारिका नाम ।**
 
+
 **मञ्जुश्रिकुमारभुताय नमः ।**
+
+
 
 नमस्तस्मै मुनीन्द्राय प्रतीत्योपाददेशिने ।  
 येनानेना विधानेन निषिद्धावुदयव्ययौ ॥
@@ -152,5 +169,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjgwNzM1OTg
 
 **-----------------------------------------------**  
 \\Z
+
+
+
+
+
+
+
+
+
+
+
 
 \]
