@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE0MjAyNzM3MTc
 
 \[
 
-
-
 शाट्यायनीयोपनिषत्
-
-
 
 शाट्यायनीब्रह्मविद्याखण्डाकारसुखाकृति ।
 
@@ -319,10 +315,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE0MjAyNzM3MTc
 ॐ शान्तिः शान्तिः शान्तिः ॥ हरिः ॐ तत्सत् ॥
 
 इति शाट्यायनीयोपनिषत्समाप्ता ॥
-
-
-
-
-
 
 \]

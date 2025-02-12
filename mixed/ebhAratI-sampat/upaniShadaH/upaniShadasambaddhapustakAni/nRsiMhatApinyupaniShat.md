@@ -12,15 +12,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4
 
 \[
 
-
-
-
-
-
-
 **अथ द्वितीयः खण्डः।**
-
-
 
 तं वा एतमात्मानं जाग्रत्यस्वप्नमसुषुप्तं
 
@@ -128,13 +120,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4
 
 --------------------------
 
-
-
-
-
 तृतीयः खण्डः।
-
-
 
 तस्य ह वै प्रणवस्य या पूर्वा मात्रा सा प्रथमः
 
@@ -216,13 +202,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4
 
 -----------------------------
 
-
-
-
-
 **अथ चतुर्थः खण्डः।**
-
-
 
 तं वा एतमात्मानं परमं ब्रह्मोङ्कारं
 
@@ -275,10 +255,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4
 इति चतुर्थः खण्डः ॥ ४॥
 
 --------------------------
-
-
-
-
 
 **अथ पञ्चमः खण्डः।**
 
@@ -396,11 +372,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4
 
 ---------------------------
 
-
-
 षष्ठः खण्डः।
-
-
 
 ते देवा इममात्मानं ज्ञातुमैच्च्हंस्तान्हासुरः
 
@@ -470,11 +442,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4
 
 ------------------------
 
-
-
 सप्तमः खण्डः
-
-
 
 देवा ह वै प्रजापतिमब्रुवन् भूय एव नो
 
@@ -584,13 +552,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU1MTExNjE4
 
 --------------------------
 
-
-
-
-
 अष्टमः खण्डः।
-
-
 
 अथ तुरीयेणोतश्च प्रोतश्च ह्ययमात्मा
 

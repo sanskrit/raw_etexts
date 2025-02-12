@@ -11,13 +11,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNzU2MjY5MTE
 
 \[
 
-
-
 चाक्षुषोपनिषत्
-
-
-
-
 
 अस्याश्वक्षुषी विद्यायाः अहिर्बुध्न्य ऋषिः ।
 
@@ -26,8 +20,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNzU2MjY5MTE
 क्षू
 
 रोगनिवृत्तये विनियोगः ।
-
-
 
 ॐ चक्षुः चक्षुः चक्षुः तेजस्थिरोभव । मां पाहि पाहि ।
 
@@ -73,10 +65,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNzU2MjY5MTE
 
 ॐ नमो भगवते आदित्याय ।
 
-
-
-
-
 ऋग्वेद
 
 चक्षुर्नो देवः सविता चक्षुर्न उत पर्वतः ।
@@ -97,13 +85,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwNzU2MjY5MTE
 
 चक्शोः सूर्यो अजायत
 
-
-
 ।)
-
-
-
-
-
 
 \]

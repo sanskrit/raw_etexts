@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIwNzU2ODM4
 
 \[
 
-
-
 मुक्तिकोपनिषत्
-
-
 
 ईशाद्यष्टोत्तरशतवेदान्तपटलाशयम् ।
 
@@ -338,11 +334,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIwNzU2ODM4
 
 ----------------------
 
-
-
 **द्वितीयोऽध्यायः।**
-
-
 
 तथा हैनं श्रीरामचन्द्रं मारुतिः पप्रच्च्ह ।
 
@@ -711,7 +703,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIwNzU2ODM4
 इति मुक्तिकोपनिषत्समाप्ता ॥
 
 -------------------------
-
-
 
 \]

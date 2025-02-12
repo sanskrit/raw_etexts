@@ -12,15 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4ODM4ODI5NTc
 
 \[
 
-
-
-
-
-
-
 गायत्रीरहस्योपनिषत् ।
-
-
 
 ॥ गायत्रीरहस्योपनिषत् ॥
 
@@ -61,8 +53,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4ODM4ODI5NTc
 सर्वेभ्यो वेदेभ्यः सर्वे लोका अभवन् ।
 
 सर्वेभ्यो लोकेभ्यः सर्वे प्राणिनोऽभवन् ।
-
-
 
 अथातो गायत्री व्याह्ऱृतयश्च प्रवर्तन्ते ।
 
@@ -276,8 +266,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4ODM4ODI5NTc
 
 निमेषोऽहोरात्रमिति वाग्देवीं गायत्रीं शरणमहं प्रपद्ये ।
 
-
-
 य इदं गायत्रीरहस्यमधीते तेन क्रतुसहस्रमिष्टं भवति ।
 
 य इदं गायत्रीरहस्यमधीते दिवसक्ऱृतं पापं नाशयति ।
@@ -305,32 +293,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk4ODM4ODI5NTc
 इति गायत्रीरहस्योपनिषत् समाप्ता ॥
 
 --------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

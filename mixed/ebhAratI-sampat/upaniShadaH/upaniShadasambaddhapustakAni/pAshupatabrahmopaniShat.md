@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MzIzNzk3NTM
 
 \[
 
-
-
-
-
 पाशुपतब्रह्मोपनिषत् ।
-
-
 
 पाशुपतब्रह्मविद्यासंवेद्यं परमाक्षरम् ।
 
@@ -43,8 +37,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MzIzNzk3NTM
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
 हरिः ॐ ॥
-
-
 
 अथ ह वै स्वयंभूर्ब्रह्मा प्रजाः सृजानीति कामकामो जायते
 
@@ -361,14 +353,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MzIzNzk3NTM
 इति पाशुपतब्रह्मोपनिषत्समाप्ता ॥
 
 -------------------------------------
-
-
-
-
-
-
-
-
-
 
 \]

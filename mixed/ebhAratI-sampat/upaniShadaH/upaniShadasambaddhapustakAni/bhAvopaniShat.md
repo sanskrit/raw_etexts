@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQxMDY5ODg5OTM
 
 \[
 
-
-
-
-
 ॥ अथ भावोपनिषत् ॥
-
-
 
 ॐ भद्रं कर्णेभिः शृणुयाम देवाः ।
 
@@ -41,8 +35,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQxMDY5ODg5OTM
 स्वस्ति नस्तार्क्ष्योऽरिष्टनेमिः । स्वस्ति नो बृहस्पतिर्दधातु ।
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
-
-
 
 आत्मानमखण्दमण्दलाकारमवृत्य सकलब्रह्मान्दमन्दलं
 
@@ -165,16 +157,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQxMDY5ODg5OTM
 ॥ इति भावोपनिषत् ॥
 
 ------ ------ ------ ------
-
-
-
-
-
-
-
-
-
-
-
 
 \]

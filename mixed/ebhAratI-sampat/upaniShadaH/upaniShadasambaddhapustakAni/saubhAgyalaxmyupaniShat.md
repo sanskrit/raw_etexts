@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ5NjU2NDE3NzQ
 
 \[
 
-
-
-
-
 सौभाग्यलक्ष्म्युपनिषत् ।
-
-
 
 सौभाग्यलक्ष्मीकैवल्यविद्यावेद्यसुखाकृति ।
 
@@ -319,10 +313,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ5NjU2NDE3NzQ
 इति श्रीसौभाग्यलक्ष्म्युपनिषत्समाप्ता ॥
 
 -------------------------------
-
-
-
-
-
 
 \]

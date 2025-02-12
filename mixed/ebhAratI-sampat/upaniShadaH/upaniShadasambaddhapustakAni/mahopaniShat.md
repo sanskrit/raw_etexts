@@ -12,13 +12,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5NDQ0NzU4
 
 \[
 
-
-
 महोपनिषत् ।
 
 **प्रथमोऽढ्यायः**
-
-
 
 यन्महोपनिषद्वेद्यं चिदाकाशतया स्थितम् ।
 
@@ -104,11 +100,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5NDQ0NzU4
 
 -------------------------
 
-
-
 **द्वितीयोऽध्यायः।**
-
-
 
 शुको नाम महातेजाः स्वरूपानन्दतत्परः ।
 
@@ -426,13 +418,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5NDQ0NzU4
 
 ----------------------------
 
-
-
-
-
 **तृतीयोऽध्यायः।**
-
-
 
 निदाघो नाम मुनिराट् प्राप्तविद्यश्च बालकः ।
 
@@ -668,13 +654,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5NDQ0NzU4
 
 --------------------------
 
-
-
-
-
 **चतुर्थोऽध्यायः।**
-
-
 
 निदाघ तव नास्तन्यज्ज्ञेयं ज्ञानवतां वर ।
 
@@ -1240,13 +1220,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5NDQ0NzU4
 
 -----------------------------
 
-
-
-
-
 **अथ पञ्चमोऽध्यायः।**
-
-
 
 ऋभुः ॥ अथापरं प्रवक्ष्यामि शृणु तात यथायथम् ।
 
@@ -2008,8 +1982,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5NDQ0NzU4
 
 --------------------------------
 
-
-
 अथ षष्ठोऽध्यायः।
 
 अन्तरास्थां परित्यज्य भावश्रीं भावनामयीम् ।
@@ -2379,13 +2351,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5NDQ0NzU4
 इति महोपनिषत्समाप्ता॥
 
 -------------------------------
-
-
-
-
-
-
-
-
 
 \]

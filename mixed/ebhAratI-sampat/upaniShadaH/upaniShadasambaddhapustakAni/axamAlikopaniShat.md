@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMyNjY1MTQwNjk
 
 \[
 
-
-
-
-
 अक्षमालिकोपनिषत् ।
-
-
 
 अकारादिक्षकारान्तवर्णजातकलेवरम् ।
 
@@ -297,10 +291,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMyNjY1MTQwNjk
 इत्यक्षमालिकोपनिषत्समाप्ता ॥
 
 --------- ----------- ----------
-
-
-
-
-
 
 \]

@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1Njk1NjUw
 
 \[
 
-
-
 ॥ अथ केनोपनिषत् ॥
-
-
 
 ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः
 
@@ -94,13 +90,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1Njk1NjUw
 
 **------------ ------------**
 
-
-
-
-
 **द्वितीयखण्डः।**
-
-
 
 यदि मन्यसे सुवेदेति दहरमेवापि
 
@@ -134,11 +124,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1Njk1NjUw
 
 **------------ --------- ---------- --------**
 
-
-
 **द्वितीयखण्डः।**
-
-
 
 ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो
 
@@ -214,13 +200,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1Njk1NjUw
 
 ------------ --------- ----------- ---------
 
-
-
-
-
  **चतुर्थः खण्डः।**
-
-
 
 सा ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति
 
@@ -264,8 +244,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1Njk1NjUw
 
 **----------- ---------- ------- ----------**
 
-
-
 ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः
 
 श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि ।
@@ -283,9 +261,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ1Njk1NjUw
  ॐ शान्तिः शान्तिः शान्तिः
 
 **॥ इति केनोपनिषत् ॥**
-
-
-
-
 
 \]

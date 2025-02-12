@@ -12,15 +12,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc5MzUzMjE4
 
 \[
 
-
-
-
-
 ॥ पैङ्गलोपनिषत् ॥
 
 ** प्रथमोऽध्यायः।**
-
-
 
 शुक्ल
 
@@ -146,13 +140,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc5MzUzMjE4
 
 **---------------------------**
 
-
-
-
-
 **अथ द्वितीयोऽध्यायः।**
-
-
 
 अथ पैङ्गलो याज्ञवल्क्यमुवाच सर्वलोकानां
 
@@ -334,13 +322,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc5MzUzMjE4
 
 --------------------------------
 
-
-
-
-
 **अथ तृतीयोऽध्यायः।**
-
-
 
 अथ हैनं पैङ्गलः प्रपच्च्ह याज्ञवल्क्यं
 
@@ -449,8 +431,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc5MzUzMjE4
 तृतीयोऽध्यायः ॥ ३॥
 
 -----------------------------------
-
-
 
 अथ हैनं पैङ्गलः प्रपच्च्ह याज्ञवल्क्यं ज्ञानिनः किं
 
@@ -608,12 +588,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc5MzUzMjE4
 
 ॐ पूर्णामद इति शान्तिः ॥
 
-
-
 इति पैङ्गलोपनिष्त्समाप्ता ॥
-
-
-
-
 
 \]

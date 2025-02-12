@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MjMyNjc4OTE
 
 \[
 
-
-
 क्शुरिकोपनिषत्
-
-
-
-
 
 कैवल्यनाडीकान्तस्थपराभूमिनिवासिनम् ।
 
@@ -135,8 +129,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA4MjMyNjc4OTE
 तेजस्विनावधीतमस्तु मा विद्विषावहै ॥
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
-
-
-
 
 \]

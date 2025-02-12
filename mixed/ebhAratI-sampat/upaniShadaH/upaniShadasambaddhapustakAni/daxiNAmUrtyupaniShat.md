@@ -12,15 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE1OTk4ODU5NzA
 
 \[
 
-
-
-
-
-
-
 दक्षिणामूर्त्युपनिषत् ।
-
-
 
 यन्मौनव्याख्यया मौनिपटलं क्षणमात्रतः ।
 
@@ -116,11 +108,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE1OTk4ODU5NzA
 
 मन्त्रेण न्यासः ।
 
-
 \[  
 
 ब्रह्मर्षिन्यासः ।
-
 
 \]  
 
@@ -225,14 +215,5 @@ c
 इति दक्षिणामूर्त्युपनिषत्समाप्ता ॥
 
 ----------- ------------
-
-
-
-
-
-
-
-
-
 
 \]

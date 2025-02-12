@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA1ODA4OTg3NzI
 
 \[
 
-
-
-
-
 पञ्चब्रह्मोपनिषत् ।
-
-
 
 ब्रह्मादिपञ्चब्रह्माणो यत्र विश्रान्तिमाप्नुयुः ।
 
@@ -201,12 +195,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA1ODA4OTg3NzI
 इति पञ्चब्रह्मोपनिषत्समाप्ता ॥
 
 ----------------------------
-
-
-
-
-
-
-
 
 \]

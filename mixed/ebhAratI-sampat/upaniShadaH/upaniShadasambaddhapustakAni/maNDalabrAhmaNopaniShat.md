@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3OTI5OTQ4
 
 \[
 
-
-
 मण्डलब्राह्मणोपनिषत् \।
-
-
 
 बाह्यान्तस्तारकाकरं व्योमपञ्चकविग्रहम् ।
 
@@ -28,11 +24,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3OTI5OTQ4
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
-
-
 **प्रथमः ब्राह्मणः।**
-
-
 
 ॐ याज्ञवल्क्यो ह वै महामुनिरादित्यलोकं जगाम ।
 
@@ -180,15 +172,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3OTI5OTQ4
 
 ------------------------
 
-
-
-
-
 अथ
 
 द्वितीयं ब्राह्मणम्
-
-
 
 अथ ह याज्ञवल्क्य आदित्यमण्डलपुरुषं पप्रच्च्ह ।
 
@@ -358,11 +344,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3OTI5OTQ4
 
 -------------------------------
 
-
-
 तृतीयं ब्राह्मणम् ।
-
-
 
 याज्ञवल्क्यो महामुनिर्मण्डलपुरुषं पप्रच्च्ह
 
@@ -414,8 +396,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3OTI5OTQ4
 
 ----------------------------
 
-
-
 अथ ह याज्ञवल्क्यो मण्डलपुरुषं पप्रच्च्ह
 
 व्योमपञ्चकलक्षणं विस्तरेणानुब्रूहीति । स
@@ -441,8 +421,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3OTI5OTQ4
 सम्यगेतन्न जानाति स योगी नामतो भवेत् ॥ १॥
 
 इति चतुर्थं ब्राह्मणम् ॥ ४॥
-
-
 
 सविषयं मनो बन्धाय निर्विषयं मुक्तये भवति ।
 
@@ -489,7 +467,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjU3OTI5OTQ4
 इति मण्डलब्राह्मणोपनिषत्समाप्ता ॥
 
 -------------------------
-
-
 
 \]

@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0NTA1MzY3OTk
 
 \[
 
-
-
-
-
 शाण्डिल्योपनिषत् ।
-
-
 
 शाण्डिल्योपनिषत्प्रोक्तयमाद्यष्टाङ्गयोगिनः ।
 
@@ -937,10 +931,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY0NTA1MzY3OTk
 इति शाण्डिल्योपनिषत्समाप्ता ॥
 
 -------------------------------
-
-
-
-
-
 
 \]

@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc3NTM1ODc3
 
 \[
 
-
-
 रामरहस्योपनिषत् \।
-
-
 
 कैवल्यश्रीस्वरूपेण राजमानं महोऽव्ययम् ।
 
@@ -40,13 +36,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc3NTM1ODc3
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
-
-
-
-
 **प्रथमोऽध्यायः।**
-
-
 
 ॐ रहस्यं रमतपतं वासुदेवं च मुद्गलम् ।
 
@@ -150,11 +140,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc3NTM1ODc3
 
 ---------------------------
 
-
-
 **द्वितीयोऽध्यायः।**
-
-
 
 सनकाद्या मुनयो हनूमन्तं पप्रच्च्हुः ।
 
@@ -610,11 +596,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc3NTM1ODc3
 
 ------------------------------------
 
-
-
 चतुर्थोऽध्यायः।
-
-
 
 सनकाद्या मुनयो हनूमन्तं पप्रच्च्हुः ।
 
@@ -788,13 +770,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc3NTM1ODc3
 
 ------------------------------------
 
-
-
-
-
 श्रीरामरहस्योपनिषत् ।
-
-
 
 सनकाद्या मुनयो हनूमन्तं पप्रच्च्हुः ।
 
@@ -886,8 +862,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc3NTM1ODc3
 
 ॐ सत्यमित्युपनिषत् ॥
 
-
-
 ॐ भद्रं कर्णेभिः श्रुणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।
 
 स्थिरैरङ्गैस्तुष्टुवा
@@ -905,11 +879,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc3NTM1ODc3
 इति श्रीरामरहस्योपनिषत्समाप्ता ॥
 
 ----------------------------
-
-
-
-
-
-
 
 \]
