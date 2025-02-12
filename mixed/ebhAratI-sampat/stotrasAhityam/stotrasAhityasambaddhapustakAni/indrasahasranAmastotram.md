@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3NjUzNDI1Mjc
 
 \[
 
-
-
 \<doc id="15489" url="https://sa.wikisource.org/wiki?curid=15489" title="इन्द्रसहस्रनामस्तोत्रम्"\>
 
 इन्द्रसहस्रनामस्तोत्रम्
@@ -506,6 +504,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3NjUzNDI1Mjc
 \</poem\>
 
 \</doc\>
-
 
 \]

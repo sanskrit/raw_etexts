@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxMDk2NTY1NjE
 
 \[
 
-
-
 \<doc id="10765" url="https://sa.wikisource.org/wiki?curid=10765" title="गोपालहृदयस्तोत्रम्"\>  
 गोपालहृदयस्तोत्रम्
 
@@ -86,6 +84,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxMDk2NTY1NjE
 \</poem\>
 
 \</doc\>
-
 
 \]

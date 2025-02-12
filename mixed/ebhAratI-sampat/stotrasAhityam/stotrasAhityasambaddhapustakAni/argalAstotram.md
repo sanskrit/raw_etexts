@@ -12,12 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzM5NTAzNTA
 
 \[
 
-
-
-
 अर्गलास्तोत्रं
-
-
 
 अथार्गलास्तोत्रम्
 
@@ -124,10 +119,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEwMzM5NTAzNTA
 
 स तु सप्तशतीसंख्यावरमाप्नोति सम्पदाम् ॥२५॥  
 इति देव्या अर्गलास्तोत्रं सम्पूर्णम् ।
-
-
-
-
-
 
 \]

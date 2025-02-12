@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcxNDIwMzI3OTQ
 
 \[
 
-
-
-
-
 आर्यापञ्चदशीस्तोत्रम्
-
-
 
 करकलितचापबाणां कल्हाराङ्घ्रिं नमामि कल्याणीम् .
 
@@ -85,10 +79,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcxNDIwMzI3OTQ
 
 इत्यानन्दनाथपादपद्मोपजीविना काश्यपगोत्रोत्पन्नेनान्ध्रेण  
 त्यागराजनाम्ना विरचितमार्यापञ्चदशीस्तोत्रं संपूर्णम्
-
-
-
-
-
 
 \]

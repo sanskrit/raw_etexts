@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NjIzOTA1NjU
 
 \[
 
-
-
 \<doc id="10762" url="https://sa.wikisource.org/wiki?curid=10762" title="गोपालस्तुतिः"\>  
 गोपालस्तुतिः
 
@@ -47,6 +45,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NjIzOTA1NjU
 \</poem\>
 
 \</doc\>
-
 
 \]

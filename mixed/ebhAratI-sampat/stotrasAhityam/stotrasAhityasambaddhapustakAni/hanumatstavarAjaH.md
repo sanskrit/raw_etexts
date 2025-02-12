@@ -12,10 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MTc4MTM1MDg
 
 \[
 
-
-
 हनुमत्स्तवराजः
-
 
 श्रीगणेशाय नमः ।  
 हनुमानुवाच ।  
@@ -46,9 +43,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MTc4MTM1MDg
 इदं हनुमता प्रोक्तं मन्त्रराजात्मकं स्तवम् ।  
 पठेदनुदिनं यस्तु स रामे भक्तिमान्भवेत् ॥ १३॥  
 ॥ इति हनुमत्कल्पे श्रीहनुमन्मन्त्रराजात्मकस्तवराजः सम्पूर्णम् ॥
-
-
-
-
 
 \]

@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3MjA5MDkyOTg
 
 \[
 
-
-
-
 आर्त्तत्राणस्तोत्रम्
-
 
 ॥  
 आर्त्तत्राणस्तोत्रम् ॥
@@ -54,10 +50,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA3MjA5MDkyOTg
 कारुण्यादवनीतले सुरनदीमापूरयत् पावनीम्  
 ॥  
 इति श्रीमदप्पयदीक्षितविरचितं गङ्गाधरस्तोत्रम् अथवा आर्त्तत्राणस्तोत्रम् सम्पूर्णम् ॥
-
-
-
-
-
 
 \]

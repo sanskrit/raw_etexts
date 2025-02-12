@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2NzE0NjI5MDA
 
 \[
 
-
-
-
 गायत्री सहस्रनामावली
-
 
 .. गायत्री सहस्रनामावली ..  
 १ ॐ \*अचिन्त्यलक्षणायै नमः ।  
@@ -1027,8 +1023,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2NzE0NjI5MDA
 १००६ ॐ वरारोहायै नमः ।  
 १००७ ॐ श्रीगायत्र्यै नमः ।  
 १००८ ॐ परांविकायै नमः ।
-
-
-
 
 \]

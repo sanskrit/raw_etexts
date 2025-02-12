@@ -12,10 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQwNTQxMzYxMzU
 
 \[
 
-
-
 दत्त भावसुधारसस्तोत्रम्
-
 
 श्री दत्त भावसुधारस स्तोत्रम् ।  
 दत्तात्रेयं परमसुखमयं वेदगेयं ह्यमेयं  
@@ -267,9 +264,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQwNTQxMzYxMzU
 ॥ इति श्री परमहंस परिव्राजकाचार्य श्री श्री श्री  
 वासुदेवानन्द सरस्वती यति वरेण्य विरचितं श्री दत्त  
 भावसुधारस स्तोत्रं संपूर्णम् ॥
-
-
-
-
 
 \]

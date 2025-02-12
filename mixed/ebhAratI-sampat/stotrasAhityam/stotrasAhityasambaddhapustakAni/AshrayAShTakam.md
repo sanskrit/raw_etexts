@@ -12,12 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY1Mzk5MTEyNTA
 
 \[
 
-
-
-
 आश्रयाष्टकम्
-
-
 
 गिरिचरं करुणामृत सागरं
 
@@ -83,10 +78,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY1Mzk5MTEyNTA
 हरिहरात्मजमीश्वरमाश्रये ॥ ८ ॥  
 ॥  
 आश्रयाष्टकं सम्पूर्णम् ॥
-
-
-
-
-
 
 \]

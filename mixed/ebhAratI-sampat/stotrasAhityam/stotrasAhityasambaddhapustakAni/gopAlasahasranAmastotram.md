@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk5NDcxODU1ODA
 
 \[
 
-
-
 \<doc id="15649" url="https://sa.wikisource.org/wiki?curid=15649" title="गोपालसहस्रनामस्तोत्रम्"\>  
 गोपालसहस्रनामस्तोत्रम्
 
@@ -442,6 +440,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk5NDcxODU1ODA
 \</poem»
 
 \</doc\>
-
 
 \]

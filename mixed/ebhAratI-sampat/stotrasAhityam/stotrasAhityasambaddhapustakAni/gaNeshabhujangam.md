@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMxMDY2NjQwOTI
 
 \[
 
-
-
-
 गणेशभुजङ्गम्
-
 
 रणत्क्षुद्रघण्टानिनादाभिरामं  
 चलत्ताण्डवोद्दण्डवत्पद्मतालम् .  
@@ -54,8 +50,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMxMDY2NjQwOTI
 पठेद्यस्तु मर्त्यो लभेत्सर्वकामान् .  
 गणेशप्रसादेन सिध्यन्ति वाचो  
 गणेशे विभौ दुर्लभं किं प्रसन्ने .. ९ ..
-
-
-
 
 \]

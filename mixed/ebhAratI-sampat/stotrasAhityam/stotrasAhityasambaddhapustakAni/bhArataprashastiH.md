@@ -13,11 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4NDEzMTQwMzE
 
 \[
 
-
-
 [TABLE]
-
-
 
 **PREFATORY NOTE**
 
@@ -29,11 +25,7 @@ THE Inauguration and Proclamation of the Indian Republic on the 26th January 195
 
 C. KUNHAN RAJA
 
-
-
 [TABLE]
-
-
 
 I. भारतभूमिः
 
@@ -62,8 +54,6 @@ I. भारतभूमिः
 आरामैः सुमनोहरैर्विपणिभिर्दीपावलीभिर्महा-  
 रथ्याभिश्च जलाशयैर्विलसति स्तम्भैश्चहम्यैंर्युता॥५॥
 
-
-
 I. INDIA
 
  On this auspicious day, this India, freed from the chain of the supreme authority of foreigners cast on her legs by force, having suffered various humiliations for a century and a half, now has once more ascended to the honoured position of a Republic, worthy of herself, revered by all.
@@ -75,8 +65,6 @@ I. INDIA
  The birth-place of holy personages like Jina and Buddha who are Teachers of Religions, the fountain of wisdom, the centre for the spread of that (wisdom) in the whole world, a permanent homeland of peace for the followers of the Islamic, Christian and Jewish Religions, may this country that gave shelter to the followers of the Parsi Religion, shine for ever.
 
  The city that was far-famed for prosperity in the Mahabharata as Indraprastha, now glows in this world as the New Delhi, the Capital City of India, having very beautiful gardens, shops, brilliant lights, big streets, tanks, columns and mansions.
-
-
 
 II\. राष्ट्रपतिः
 
@@ -105,8 +93,6 @@ II\. राष्ट्रपतिः
 देहास्वास्थ्यमनेकबन्धुविरहं दैन्यं च कारागृहे  
 सेहे; भारतमुख्यपौरपदवीं काले फलं चाप्तवान्॥१०॥**
 
-
-
 **II. THE PRESIDENT**
 
  There shines in the City of Delhi, the first President elected by the people through their representatives according to their free choice, who is well-known as Rajen Babu, an ocean of benevolence, endowed with all the good qualities of a ruler of rulers (Rajendra), bearing the name of Rajendra with the by-name of Prasad, having a radiant face from which proceed graceful (Prasada) looks.
@@ -118,8 +104,6 @@ II\. राष्ट्रपतिः
  His scholarship in the multitude of political science is, indeed, saturated with the essence of literary accomplishments; in him the steady determination to stick to Truth is completely free from all motives for the attainment of personal ends; his attachment to the maintenance of the chains of ancient traditions is pure; it looks as if he is the Dharma ofIndia itself, bearing a body.
 
  He, having taken his place in the forefront in the great battle called Satyagraha that lasted for a very long period in this country, for the purpose of winning freedom for their own (land), he suffered ill-health, separation from a large number of relatives and friends, and humiliation in prison. In course of time, he attained the fruit in the form of becoming the First Citizen of India.
-
-
 
 III\. मुख्यमन्त्री
 
@@ -148,8 +132,6 @@ III\. मुख्यमन्त्री
 राज्यस्याभ्युदयोन्मुखे च विषये बोधोऽपि कालोचितः  
 सन्त्यस्मिन्निति राष्ट्रनायकगुणाः सर्वेऽप्यनन्याश्रयाः॥१५॥
 
-
-
 III\. THE PRIME MINISTER
 
  Here is the great Prime Minister, with a serene heart, who through his share grandeur, destroys the impetuosity (Jawa-hara) of persons who are engaged in bringing misery to the country, who entertains (Lalayan) those who are in childhood; to him, his father, who could know the real truth, gave the charming name of Jawahara followed by Lal, which is literally true, adorned with the by-name of Nehru.
@@ -161,8 +143,6 @@ III\. THE PRIME MINISTER
  Living in mansions surrounded by a variety of luxuries or in a prison, lauded in all the three worlds or vilified by evil minded people everywhere, enticed by material pleasures or surrounded on all sides by dangers, the brave hero never allows his heart to undergo any modification.
 
  Proficiency in the paths of diplomacy, the spreading fame that surpasses the whole world, extreme courtesy to his own countrymen, feeling of being just a brother even to the lowliest, intellect awake to the needs of the times, in matters conducive to the good of the country: in this way, there abide in him all the qualities of a leader of his country, unseen in any other person.
-
-
 
 IV\. उपमुख्यमन्त्री
 
@@ -191,8 +171,6 @@ IV\. उपमुख्यमन्त्री
 धत्ते सोदरनिर्विशेषममतां पूर्णो विना कैतवं  
 ग्रामस्थेष्वपि कर्षकेषु, किमसावास्ते न सर्वोत्तमः॥२०॥**
 
-
-
 IV\. DEPUTY PRIME MINISTER
 
  In taming the enemies who rush forward like a maddened elephant, a lion of terrible looks, to those who revel in pleasures (or serpents) after exploiting the good people, a magic spell that never fails in its effect, in crushing the rulers of the country who have dropped down from the paths of justice, a Parasurama: such a hero, Patel, now occupies the position of Deputy Prime Minister, here.
@@ -205,8 +183,6 @@ IV\. DEPUTY PRIME MINISTER
 
  Not merely in name, but also through his benevolence, he is the favourite (Vallabha) of the world; though he occupies the elevated position of being a Sardar acquired through family heritage, he bears a feeling of equality not at all different from that of a brother, in full and without qualification even towards the peasants living in the villages. Does he not thus remain the greatest of all?
 
-
-
 **v. उद्घोषणदिनम्**
 
  कलियुगे ५०५० तमवर्षे (१८४४८४२ कलिदिने) २००६ तमे विक्रमसंवत्सरे, १८७१ तमे शकवर्षे विरोधिनामसंवत्सरे मकरे सौरमासे १३ दिने माघेचान्द्रमासे शुक्लाष्टम्यां १९५० क्रिस्तुवर्षे जनवरिमासे २६ दिने भारतजनराज्यमुद्घोषितम्।
@@ -215,12 +191,9 @@ IV\. DEPUTY PRIME MINISTER
 
  उदयवेलायां ग्रहस्फुटानि—  
 
-
 [TABLE]
 
 ** सूचना—**दक्षिणदेशे प्रचलता मार्गेण गणितमिदम्।
-
-
 
 **V. PROCLAMATION DAY**
 
@@ -230,13 +203,7 @@ IV\. DEPUTY PRIME MINISTER
 
 [TABLE]
 
-
-
-
-
 ***Note—**These calculations are based on the system current in South India. The first two columns represent the Rasis and the Degrees that have already been covered.*
-
-
 
 **VI. शुभाशंसा**
 
@@ -252,8 +219,5 @@ IV\. DEPUTY PRIME MINISTER
 **VI. GREETINGS**
 
  Ever looked after by great heroes of such sovereign power and power for deliberations and with such talents and great glory, adorned with wisdom and art resplendent with wealth, producing prosperity and welfare, bestowing full friendliness on all the countries, may the land of India as a Republic continue vigilant in her own position.
-
-
-
 
 \]

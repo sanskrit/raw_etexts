@@ -13,13 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUzMDY2ODE0NTI
 
 \[
 
-
-
-
-
 अहल्याकृतरामस्तोत्रम्
-
-
 
 श्री गणेशाय नमः ।
 
@@ -140,10 +134,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUzMDY2ODE0NTI
 
 ॥  
 इति श्रीमदध्यात्मरामायणे अहल्याविरचितं रामचन्द्रस्तोत्रं सम्पूर्णम॥
-
-
-
-
-
 
 \]

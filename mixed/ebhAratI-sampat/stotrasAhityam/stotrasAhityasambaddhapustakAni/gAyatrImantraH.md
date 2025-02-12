@@ -12,18 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1NTAyNTQ5MDI
 
 \[
 
-
-
-
 गायत्रीमन्त्रः
-
 
 ॐ भूर्भुवः स्वः  
 तत्सवितुर्वरेण्यम्  
 भर्गो देवस्य धीमहि।  
 धियो यो नः प्रचोदयात्॥
-
-
-
 
 \]

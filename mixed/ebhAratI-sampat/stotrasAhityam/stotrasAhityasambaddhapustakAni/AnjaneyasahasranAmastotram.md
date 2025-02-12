@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyNzIzOTQ3Nzc
 
 \[
 
-
-
-
 आञ्जनेयसहस्रनामस्तोत्रम्
-
 
 ॥  
 श्री आञ्जनेयसहस्रनामस्तोत्रम् ॥
@@ -640,10 +636,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyNzIzOTQ3Nzc
 सर्वान् कामानवाप्नोति वायुपुत्रप्रसादतः ॥ १३४॥  
 ॥  
 श्री आञ्जनेयसहस्रनामस्तोत्रं हनुमत्सहस्रनामस्तोत्रं च सम्पूर्णम् ॥
-
-
-
-
-
 
 \]

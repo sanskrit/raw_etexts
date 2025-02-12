@@ -12,12 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MDk2OTAzOTA
 
 \[
 
-
-
-
 अर्धनारीश्वरस्तोत्रम्
-
-
 
 चाम्पेयगौरार्धशरीरकायै  
 कर्पूरगौरार्धशरीरकाय ।
@@ -74,8 +69,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MDk2OTAzOTA
 
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
 श्रीमच्छंकरभगवतः कृतौ अर्धनारीश्वरस्तोत्रम् सम्पूर्णम् ॥
-
-
-
 
 \]

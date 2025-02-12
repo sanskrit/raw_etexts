@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMTE4MTA1ODQ
 
 \[
 
-
-
-
 गोरक्षशतकम्
-
 
 ॐ गोरक्ष-शतकं वक्ष्ये भव-पाश-विमुक्तये ।  
 आत्म-बोध-करं पुंसां विवेक-द्वार-कुञ्चिकां ॥ १ ॥  
@@ -216,8 +212,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIzMTE4MTA1ODQ
 अद्वयत्वं व्रजेन्नित्यं योगवित्परमे पदे ॥ १०० ॥  
 भव-भय-वने वह्निर्मुक्ति-सोपान-मार्गतः ।  
 अद्वयत्वं व्रजेन्नित्यं योगवित्परमे पदे ॥ १०१ ॥
-
-
-
 
 \]

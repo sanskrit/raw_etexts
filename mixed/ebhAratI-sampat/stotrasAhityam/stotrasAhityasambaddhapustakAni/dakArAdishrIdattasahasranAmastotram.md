@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2MjA5NjYxNzU
 
 \[
 
-
-
 दकारादि श्री दत्तसहस्रनाम स्तोत्रम्
 
         ॥ अथ ध्यानम॥  
@@ -342,6 +340,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2MjA5NjYxNzU
 ॥ इति श्री परम पूज्य परमहंस परिव्राजकाचार्य  
 श्री श्री श्री मद्वासुदेवानन्द सरस्वती यति वरेण्य  
 विरचित दकारादि दत्त सहस्रनामस्तोत्रम् ॥
-
 
 \]

@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzNzgzMTE5NDg
 
 \[
 
-
-
-
 गायत्रीसहस्रनामस्तोत्रम् (देवीभागवतम्)
-
 
 नारद उवाच -  
 भगवन्सर्वधर्मज्ञ सर्वशास्त्रविशारद ।  
@@ -355,8 +351,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzNzgzMTE5NDg
 ब्रह्मसायुज्यदं नॄनां सत्यं सन्त्य न संशय ॥ १६५॥  
 ॥ इति श्रीदेवीभागवते महापुराणे द्वादशस्कन्धे  
 गायत्रीसहस्रनाम स्तोत्रकथनं नाम षष्ठोऽध्यायः ॥
-
-
-
 
 \]

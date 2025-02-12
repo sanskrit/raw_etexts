@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3MzUwODk0NDQ
 
 \[
 
-
-
 \<doc id="10614" url="https://sa.wikisource.org/wiki?curid=10614" title="गोविन्ददामोदरस्तोत्रम्"\>  
 गोविन्ददामोदरस्तोत्रम्
 
@@ -53,6 +51,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ3MzUwODk0NDQ
 \</poem\>
 
 \</doc\>
-
 
 \]

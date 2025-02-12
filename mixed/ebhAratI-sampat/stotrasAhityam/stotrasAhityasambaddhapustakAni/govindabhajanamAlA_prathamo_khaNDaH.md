@@ -13,11 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5NjM0OTg1MjY
 
 \[
 
-
-
 [TABLE]
-
-
 
 **GOVINDA BHAJANA MALA**
 
@@ -29,8 +25,6 @@ LODD GOVINDAS
 PREFACE
 
   It is recognised by all religionists that the end and aim of human existence is to realise the divine Yogins, Vedantists, Philosophers and even Scientists have chalked out various paths leading to the realisation of divinity and sages endowed with powers of introspection have in the interest of spiritual evolution of humanity preached holy precepts with a view to create in man yearning for higher ideals One of such religious instructors― the famous Sankara viz, Sri Sankaracharya in one of his popular works "Dvadasamanjarı” had made his observation describing most beautifully and in the pithiest manner certain phases of worldly experiences giving a clear idea of the transitory and ephemeral character of the world and its possessions and giving warning as to the futility of life and the disappointments to be faced therein Later on, some of Sri Sankaracharya's disciples such as Hasthamalaka, Suresvara Padmapada etc. continuing
-
-
 
 the tenor of his work said to have composed some more stanzas found in the stotra entitled either— Chaturdasa manjari or Charpatapanjari The Chaturdasamanjari, is said to have been composed of by 14 disciples of Sri Sankaracharya, according to South Indian publication Out of these 14 stanzas, I have omitted one stanza composed by Yogananda, I have taken 13 stanzas composed by 13 disciples of Sri Sankaracharya, as noted on the Stanzas given in this Book
 
@@ -49,8 +43,6 @@ the tenor of his work said to have composed some more stanzas found in the stotr
 
  In the Bombay publication of Charpatapanjarika we find 17 stanzas There seems to be some con
 
-
-
 fusion and though there is some doubt, as to the correctness of one thing with the other, I have taken a popular view and proceeded with this work of Govinda Bhajana Mala I have taken all these publications into consideration and settled the stanzas in the order in which I have given in this, my book, compiled and entitled "Govinda Bhajana Mala" I have taken stanzas from both the Panjaris and out of the 14 stanzas composed by 14 desciples of Sri Sankaracharya, I have taken those composed by 13 of the following desciples—
 
  1 Padmapadhacharya 2 Nityanandha, 3 Throtakacharya, 4, Hasthamalaka, 5 Warthikakara, 6 Anandagiri, 7 Drudhabhakta, 8 Nithyanatha, 9 Surendra (alias) Mandanamisra 10 Bharathivamsa 11 Sumathi 12, Medhatithi13 Subodha
@@ -59,8 +51,6 @@ fusion and though there is some doubt, as to the correctness of one thing with t
 
  It will be seen that I have taken the 12 stanzas by Sankara from Dwadasamanjarika and 13 by his disciples as stated above and the rest are those composed of by Sankara and his followers as will be found in Bombay publication Dwadasamanjarika and Chaipatapanjarika Stotras besides giving those composed of by my humbleself I find a considerable
 
-
-
 difference between the publications of Bombay and those in South India with Tamil and Canarese translations 7 stanzas of those contained in Bombay publication are missing in South Indian publications and 7 stanzas that are published in South Indian Dwadasamanjari do not find place in Bombay publications.
 
  Thus I have given 50 stanzas in this book in all, as mentioned above, embodying certain observations in the light of the present day experiences All these stanzas have been divided into five groups under the following heads :—
@@ -68,8 +58,6 @@ difference between the publications of Bombay and those in South India with Tami
 1.  Futility of life and the transient nature of the world 2.  The disappointinents in life 3.  Advice and warning 4.  Caution against misguidance and malpractices 5.  Hints for attaining spiritual knowledge and devotion to God
 
  The keynote of the whole work consists in emphasising the efficacy of the praise of God— Lord Govinda in leading the path of devotion and for the attainment of spiritual knowledge Sankara opines that one should not be engrossed in mere literary attainment" and worldly lore but he should devote himself to Govinda in view of the transitory nature
-
-
 
 of human existence with its limited duration involving varieties of troubles and disappointments which as well described in the following sloka :—
 
@@ -88,8 +76,6 @@ of human existence with its limited duration involving varieties of troubles and
 
  We are aware that the span of human life mostly extends to about hundred years Half of this is naturally spent in sleep Of the remaining 50 years, half the portion is used up in childhood and old age The remaining portion of the few years is subjected to diseases, sufferings, bereavements, servitude etc Life being thus akin to Waves
 
-
-
 flickering on the water, where is the happiness for mortals? The above is the idea contained in the following sloka—
 
 आयुर्वर्षशतंनृणां परिमितं रात्रौ तदर्धगतम्।  
@@ -101,8 +87,6 @@ flickering on the water, where is the happiness for mortals? The above is the id
  Of the various names of God, the name Govinda seems to have fascinated Sri Sankara and his disciples as one, most appropriate and efficacious to recite for the purpose of devotion to God in view of its great significance and importance Perhaps. His Holiness Sri Sankara has adopted the word Govinda on account of the importance attached to this name of God in Gopalatapani Upanishad in which it is found **गोविन्द नाम्नामृत्युर्विभेति** means Yama is afraid of the person uttering the name of Govinda
 
  Though the names Govinda and Gopala appear to be synonymous, yet the former has a wider significance than the latter and is more comprehensive in its meaning Besides, the great name Govinda is one, that appeals to God most, as has been declared by Sree Krishna when Draupadi addressed Him in the name of Govinda according to the following popular sloka—
-
-
 
 शंखचक्रगदापाणे द्वारकानिलयाच्युत।  
 गोविन्दपुण्डरीकाक्ष रक्ष मां शरणागतम्॥
@@ -117,8 +101,6 @@ flickering on the water, where is the happiness for mortals? The above is the id
  2 The promptor of the senses.  
  3 The master of the highest knowledge of Vedas  
  4 and one that has raised the globe of the earth from the abyss below in the form of Varaha in Varaha Avatara as observed in Mahabharata
-
-
 
 गोविन्दता भगवता गोविन्देनामितौजसा।  
 वराहरूपिणाचान्तर्विक्षोभितजलाविलम्॥
@@ -135,8 +117,6 @@ flickering on the water, where is the happiness for mortals? The above is the id
  As promptor of the senses and giver of energy for action, Brihaspati says—
 
 गोशब्देनोदिता जिह्वा तत्प्रवेशोहि तालुणि
-
-
 
  Govinda is the Lord of Vedas and Upanishads and as such he is the giver of knowledge In Vishnu Thilaka, it is found—
 
@@ -155,8 +135,6 @@ which means, Lord Govinda can be known only through the knowledge of Vedas, for 
 
  The soul of man issaved from visiting Yamaloka by uttering the name Govinda and will have an easy walk over through Archiradımarga leading to Goloka or Vaikuntha by getting purified from sins if any, avoiding Dhoomadimarga and I here point out what Yama instructs his retinue regarding the word Govinda He, Yama has issued strict orders to his subordinates not to
 
-
-
 approach or molest the devotees of Govinda as stated in the following quotation from the Vishnu Purana—
 
 ये तिष्ठन्तस्वपन्तश्च गच्छन्तश्चलितेक्षुतेः।  
@@ -173,8 +151,6 @@ approach or molest the devotees of Govinda as stated in the following quotation 
 
  He has further observed in Panḍavagitha as follows—
 
-
-
 अक्षरं हि परंब्रह्म गोविन्देत्यक्षरत्रयं।  
 तस्मादुच्चरितं येन ब्रह्मभूयाय कल्पते॥
 
@@ -186,8 +162,6 @@ approach or molest the devotees of Govinda as stated in the following quotation 
  It means that giving away in charity a crore of cows at the time of eclipse in Benares or living for thousands of Kalpas on the banks of the Ganges, in Benares and Piayag or the performance of the ten thousand yagas on the gift of gold of the height of the great mountain Meru— all these cannot equal in value to the efficacy of the utterance of the name Govinda
 
  The above qualifications are sufficient to illustrate the spiritual and godly value for uttering the name of Lord Govinda for the purification and elevation of the human soul I may also add that the greatness and the glory of Lord Govinda surpasses easy conception when we consider His creation and even one of the several Brahmandas created by him comprising different compositions of different elements with a number of sub-worlds and planets and stars attached thereto with their different movements and rotations suited to different tracts or areas in the huge form of Visva or cosmos or what is popularly known as Virat or Visvaroopa
-
-
 
  It will be interesting to note that when Govinda in the form of Balakrishna was found eating his splendid sott butterlike mud on the bank of Yamuna near Gokula village he was taken to task by Yasoda and on being scolded by mother Yasoda, he opened his mouth and showed to his mother as to what contained in his mouth and body as observed in Srimath Bhagavatha in 10th book, chapter 8, slokas 39 and 40 The mother Yasoda did not see the mud, but she saw the following comprising of all kinds of astronomical planes and planets and the various worlds consisting of the several parts of Virat, in the mouth of Lord Govinda
 
@@ -203,8 +177,6 @@ approach or molest the devotees of Govinda as stated in the following quotation 
 
  The name Govinda is further said to have the
 
-
-
 efficacy of curing disease as proclaimed by the greatest medical authority Dhanvantariand, so the medical men will be well advised to submissively appeal to Almighty Lord Govinda before administering medicines and seek His help for success so that they can be more correct in treating the cases and thereby obtain greater success
 
  Further Suka says with reference to this crown–name of God Lord Govinda **चिन्तामणिश्च गोविन्दो** which means the head name of God
@@ -214,8 +186,6 @@ efficacy of curing disease as proclaimed by the greatest medical authority Dhanv
 अस्त्रं सर्वसमर्थश्चगोविन्दः कवचं मतम्॥
 
 Thus even in the Vishnu Sahasranama of Srimad Bhagavata we find the importance of the word Govinda as also found in 180th stanza which is as follows:—
-
-
 
 इंद्रधेनुस्तुतिप्राप्तगोविन्देन्द्राभिधानवान्।  
 व्रतादिधर्मसंसक्तनंदक्लेशविनाशकः॥
@@ -234,8 +204,6 @@ IV लोकेशं परमेशं प्रणमत गोविन्�
 
  I have also annexed to this Govinda Bhajana Mala both the Stotras of Sri Sankara and Sri Brahmananda Swami to enable the readers to make
 
-
-
 use of those stotras as well, in addition to the Govinda Bhajana Mala compiled and published by me
 
  I have great pleasure in placing before such of the readers as are acquainted with the Gujarathi language, the Gujarathi Govind Bhajana, given in this book which I trust will be interesting to them by inspiring additional devotion, by uttering the Same in their own mother tongue
@@ -245,8 +213,6 @@ use of those stotras as well, in addition to the Govinda Bhajana Mala compiled a
  I should like to point out that Sri Sankaracharya was the disciple of Sri Govind Bhagavat padacharya A happy coincidence of Sri Sankaracharya's Guru also having been given the name of Govinda
 
  In this connection, I may be permitted to casually mention that my forefathers particularly adored Lord Govinda and my great grandfather was named Govindas, meaning the servant of Govinda and subsequently my late lamented and much esteemed father Dewan Bahadur Lodd Krishnadas was pleased to give my humble-self also the same name Govindas As such, I as the servant of God Govinda feel it my duty to inculcate the value and importance of the name Lord
-
-
 
 Govinda for the benefit of seekers after truth. The selection made from the valuable stotras by Sri Sankaracharya and his disciples are published in an order which I consider suitable and appropriate with some additions of my own as mentioned aboveIt only remains for me to add that I shall feel that my humble labour in this direction is repaid if it kindles the earnest readers the spark of devotion and enables them to realise their religious duty and strive towards attaining eternal bliss Especially by such of the educated men or Shastris or Purohits or Priests that are either indifferent or encourage lethargy in the matter of devotion to God owing to pride or their being well placed in circumstances for the time being or owing to their inner thinking power being developed in to agnostic views due to Westernly ideas
 
@@ -260,8 +226,6 @@ Govinda for the benefit of seekers after truth. The selection made from the valu
 
 LODD GOVINDAS
 
-
-
 **NOTICE**  
 **—————**
 
@@ -270,8 +234,6 @@ LODD GOVINDAS
  As regards the observations made by me in this book, they are not intended to apply or reflect in any way to any class or profession in general but only to such of the individuals as are of the nature described in this book I state this, lest I may not be misunderstood by any section or class of people In fact I have done my best in good faith in the interest of people and for the good of the public.
 
 L G.
-
-
 
 Derivations, Definitions and the Meanings  
 of the word Govinda
@@ -295,8 +257,6 @@ of the word Govinda
 
  ७ विन्दति इति विन्दः पालकः स्वामी वा गवां स्वामी वा गोसमूहानां विन्दः गवाध्यक्षः गोविन्दः।
 
-
-
  **८ गवां शास्त्रमयीनां वर्णानां विन्दः पतिः गोविन्दः।**
 
  ९ गौः वाणी तां विन्दति इति गोविन्दः।
@@ -318,8 +278,6 @@ of the word Govinda
 
   नष्टां च धरणींपूर्वं गोविन्दोयस्सलब्धवान्।  
   नष्टां वै धरणींपूर्व अविन्दत् यत्गुहागताम्॥
-
-
 
   गोविन्द इति तेनाहं देवैः वाग्भिरभिष्टुतः।
 
@@ -347,8 +305,6 @@ of the word Govinda
 ५ गोविन्दं गोकुलानन्दं वन्दे वृन्दावनप्रभुम्।  
  सच्चिदानन्दकन्दं तं मुकुन्दं लोकनायकम्॥
 
-
-
 ६ गोविन्दे जायते भक्तिः नराणां क्षीणपाप्मनाम्।  
  जन्मान्तरसहस्रेण तपोध्यानसमाधिभिः॥
 
@@ -358,14 +314,10 @@ of the word Govinda
 ८ गोविन्द गोविन्द हरे मुरारे गोविन्द गोविन्द रथाङ्गपाणे।  
  गोविन्द गोविन्द मुकुन्द कृष्ण गोविन्द गोविन्द नमो नमस्ते॥
 
-
-
 नारदं प्रति गोविन्द माहात्म्यम् सदाशिव उवाच।
 
  गोविन्दनामसदृशं न त्यागो न व्रतं मुने।  
  न संकल्पो नापि शौचं न पुण्यो न फलं तदा॥
-
-
 
 Radhika says in reply to Yasoda
 
@@ -373,8 +325,6 @@ Radhika says in reply to Yasoda
  ज्ञानसिंधुसमूहश्च गोविन्दस्तेन कीर्तितः॥**
 
 **(ब्रह्म वै कृ. ज ख १,१,१६,५२,५५,६०)**
-
-
 
 **गोविन्दभजन नवरत्न मालिका।**  
 
@@ -401,8 +351,6 @@ Radhika says in reply to Yasoda
 ४ आशनू भवन आकाश सूधी रच्यूं  
  मूढ ए मूलथी भीत काची
 
-
-
  **अंग जोबन गयुं पलित पिंजर थयुं  
  तोये समज्यो नही बात साची     (स)**
 
@@ -424,8 +372,6 @@ Radhika says in reply to Yasoda
 ८ ध्यान धर हरि तणूं अल्पमति आलसू  
  जेथकी जन्मना दुःख जाये
 
-
-
  अवर धंधोकरे अर्थ कांइ नव सरे  
  माया देखाडीने मृत्युव्हाये     (स)
 
@@ -434,11 +380,7 @@ Radhika says in reply to Yasoda
  भक्त आधीन छे, श्यामसुंदर सदा  
  ते तारा कारज सिद्ध करशे    (स)
 
-
-
 \_\_\_\_\_\_\_\_\_\_
-
-
 
 ॥श्रीगोविन्दाय नमः॥
 
@@ -467,8 +409,6 @@ LODD GOVINDAS.
  कालः क्रीडति गच्छत्यायुः  
    तदपि न मुंचत्याशावायुः॥भज॥
 
-
-
 ३ पुनरपि रजनी पुनरपि दिवसः  
    पुनरपि पक्षः पुनरपि मासः।  
  पुनरप्ययनं पुनरपि वर्ष  
@@ -488,8 +428,6 @@ LODD GOVINDAS.
    व्यस्तं गात्रं कष्टचरित्रम्।  
  रुष्टं मित्रं दुष्टकलत्रं  
    तदपि न मुंचति माया चित्रम्॥भज॥
-
-
 
 ७ यावद्वित्तोपार्जनसक्तः  
    तावन्निजपरिवारो रक्तः।  
@@ -511,8 +449,6 @@ LODD GOVINDAS.
   आत्मार्थं वा भार्यार्थं वा  
    पुत्रार्थं वा मित्रार्थं वा॥भज॥
 
-
-
 ११ अर्थः कुरुते शत्रु मित्रं  
    मित्रं शत्रुं पुत्रकलत्रम्।  
   गुरुजनबन्धून्नानाचित्रं  
@@ -532,8 +468,6 @@ LODD GOVINDAS.
    का मे माता को मे तातः।  
   इति परिभावय सर्वमसारं  
    विश्वं त्यक्त्वा स्वप्नविचारम्॥भज॥
-
-
 
 १५ बालस्तावत् क्रीडासक्तः  
     तरुणस्तावत् तरुणीरक्तः।  
@@ -555,8 +489,6 @@ LODD GOVINDAS.
   नष्टे द्रव्ये कः परिवारः  
    ज्ञाते तत्वे कः संसारः॥भज॥
 
-
-
 १९ माकुरु धनजनयौवनगर्वं  
     हरति निमषात् कालः सर्वम्।  
   मायामयमिदमखिलं हित्वा  
@@ -576,8 +508,6 @@ LODD GOVINDAS.
     सङ्गरतो वा सङ्गविहीनः।  
   यस्य ब्रह्मणि रमते चित्तं  
    नन्दति नन्दति नन्दत्येव॥भज॥
-
-
 
 २३ अर्थयुतो वा क्षेत्रयुतो वा  
     सकलत्रो वा सत्पुत्रो वा।  
@@ -599,8 +529,6 @@ LODD GOVINDAS.
   पश्यन्नपिच न पश्यति मूढः  
     उदरनिमित्तं बहुकृतवेषः॥भज॥
 
-
-
 २७ रमणीलंपटधनहरनिपुणं  
     केवलगुरुपदमठमदघूर्णम्।  
  नानाडंबरकलिमलपूर्ण  
@@ -620,8 +548,6 @@ LODD GOVINDAS.
     पञ्चमहूणकुसङ्गतिदग्धम्।  
   शश्वद् दुष्टान्नाशनपुष्टं  
     त्यज दुर्ब्राह्मणमधमं भ्रष्टम्॥भज॥
-
-
 
 ३१ क्षत्रं वैश्यमसंस्कृतरूढं  
     वेदविरुद्धा चरणं मूढम्।  
@@ -643,8 +569,6 @@ LODD GOVINDAS.
   नीतिविहीनं निर्दयचित्तं  
    त्यज भज रामं धार्मिकचित्तम्॥भज॥
 
-
-
 ३५मूढ जहीहि धनागमतृष्णां  
     कुरु सद्बुद्धिं मनसि वितृष्णाम्।  
   यल्लभसे निजकर्मोपात्तं  
@@ -664,8 +588,6 @@ LODD GOVINDAS.
     व्यर्थं कुप्यसि मय्यसहिष्णुः।  
   भव समचित्तः सर्वत्र त्वं  
     वाञ्छस्यचिराद्यदि विष्णुत्वम्॥भज॥
-
-
 
 ३९ का ते कान्ता धनगतचिन्ता  
     वातुल किं तव नास्ति नियन्ता।  
@@ -687,8 +609,6 @@ LODD GOVINDAS.
   सङ्कटहरणं संपत्करणं  
     तस्य स्मरणे नहि नहि मरणम्॥भज॥
 
-
-
 ४३ सुरमन्दिरतरुमूलनिवासः  
     शय्याभूतलमंजिनं वासः।  
   सर्वपरिग्रहभोगत्यागः  
@@ -708,8 +628,6 @@ LODD GOVINDAS.
     केचिद्बाला लालितरतयः।  
   केचिड्डोलायितहतमतयः  
     केऽपि न सन्त्यर्चितयदुपतयः॥भज॥
-
-
 
 ४७ चिन्तयसवं चिदचिद्रूपं  
     तनुरिति तस्य हरेरनुरूपम्।  
@@ -731,8 +649,6 @@ LODD GOVINDAS.
   ममताऽहंकृतिमलिनं लोको  
     निन्दति निन्दति निन्दत्येव॥भज॥
 
-
-
 ५१ सुमसुकुमारं शोभितमारं  
     रतिसुखसारं युवतिशरीरम्।  
   गतजीवितमतिघोर विकारं  
@@ -752,8 +668,6 @@ LODD GOVINDAS.
     निस्सङ्गत्वे निर्मोहत्वम्।  
   निर्मोहत्वे निश्चलतत्वं  
     निश्चलतत्वे जीवन्मुक्तिः॥भज॥
-
-
 
 ५५ दुस्सङ्गत्वे व्यामोहित्वं  
     व्यामोहित्वे चलचित्तत्वम्।  
@@ -775,8 +689,6 @@ LODD GOVINDAS.
   दुर्नयवादिनमविनयपूर्णं  
     त्यज धननिगरणमकरं तूर्णम्॥भज॥
 
-
-
 ५९ सत्य विहीनं धर्मविहीनं  
     दानदयाकुल शौच विहीनम्।  
   निजदुर्बुद्धिंन्यायषिहीनम्  
@@ -796,8 +708,6 @@ LODD GOVINDAS.
     दुष्टविहारे दुर्व्यापारे।  
   न्यायविवाद्यन्यायाचारे  
     दुष्परिहारे पाहि मुरारे॥भज॥
-
-
 
 ६३ भजसिवृथा विषयेषु दुराशा  
      विविधविचित्रमनोरथकोशाम्।  
@@ -819,8 +729,6 @@ LODD GOVINDAS.
   सकृदपि येन मुरारिस मर्चा  
      तस्य यमः किं कुरुते चर्चाम्॥भज॥
 
-
-
 ६७ कुरुते गङ्गा सागरगमनं  
      व्रतपरिपालनमथवा दानम्।  
   भक्तिज्ञानविहीनस्तेन  
@@ -841,8 +749,6 @@ LODD GOVINDAS.
   शश्वद्कृत्वा ब्रह्मविचारं  
      गन्तव्यं हि (सु) ब्रह्मागारम्॥भज॥
 
-
-
 ७१ संसारार्णवसङ्गं त्यक्त्वा  
     भगवद्भक्तिमजस्रं कृत्वा।  
   ब्रह्माण्डस्य पतिं (च) सुविदित्वा  
@@ -858,11 +764,7 @@ LODD GOVINDAS.
   लाड् गोविन्दैर्योजितमेतत्  
     गोविन्दस्य तु जीयात् भजनम्॥
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 श्रीमद् शंकराचार्यविरचित
 
@@ -884,8 +786,6 @@ LODD GOVINDAS.
    कुन्दाभामलमन्दस्मेरसुधानन्दं सुहृदानन्दम्।  
  वन्द्याशेषमहामुनिमानसवन्द्यानन्दपदद्वन्द्वं  
    वन्द्याशेषगुणाब्धि प्रणमतगोविन्दं परमानन्दम्॥
-
-
 
 ४ मृत्स्नामत्सीहेति[^1] यशोदाताडनशौचवसंत्रासं  
     व्यादितवक्त्रालोकितलोकालोकचतुर्दशलोकालम्।  
@@ -911,8 +811,6 @@ LODD GOVINDAS.
  निर्धूतद्वयशोकविमोहं बुद्धबुद्धेरप्यन्तस्थं  
     सत्तामात्रशरीरं प्रणमत गोविन्दं परमानन्दम्॥
 
-
-
 ८ कान्तकारणकारणमादिमनादिकालमनाभासं  
   
 कालिन्दीगतकालियशिरसि[^3]मुहुर्नृत्यन्तंच सुनृत्यन्तं।  
@@ -925,8 +823,6 @@ LODD GOVINDAS.
 गोविन्दाच्युतमाधव विष्णो गोगुलनायक कृष्णेति।  
 गोविन्दाड्घ्रिसरोज ध्यान सुधाजलधौत समस्ताधो  
 गोविन्दं परमानन्दामृतमन्तस्थं स समभ्योति॥
-
-
 
 **श्री गोविन्द पञ्चरत्नम्।  
 ——————**
@@ -949,8 +845,6 @@ LODD GOVINDAS.
 ४ रमाकांतं कांतं भवभयभयांतं भवसुखं  
    दुराशांतं शांतं निखिलहृदिभांतं भुवनपम्।
 
-
-
  विवादांतं दांतं दनुजनिचयांतं सुचरितं  
     सदा तं गोविन्दं परमसुखकन्दं भजत रे॥
 
@@ -959,18 +853,10 @@ LODD GOVINDAS.
  स्वनिष्ठं धर्मिष्ठं गुरुगुणगरिष्ठं गुरुवरं  
     सदा तं गोविन्दं परमसुखकन्दं भजत रे॥
 
-
-
 ——————
-
-
-
-
 
 त्यजन्तु बान्धवाः सर्वे निन्दन्तु गुरवो जनाः।  
 तथापि परमानन्दो गोविन्दो मम जीवनम्॥
-
-
 
 STRIKING REMARKS
 
@@ -989,8 +875,6 @@ LODD GOVINDAS.
 ——————————————————————————————————  
 
 HINDI PRACHAR PRESS, TRIPLICANE, MADRAS
-
-
 
 **श्री गोविन्दाय नमः।**
 
@@ -1022,8 +906,6 @@ Death, danger, disease and difficulties approach you
 Pray to Lord Govinda  
 Pray to Lord Govinda Pray to Lord Govinda  
 Oh Ignorant and foolish minded man
-
-
 
 नलिनीदलगतजलमतितरलं[^4]तद्वज्जीवितमतिशयचपलम्।  
 विद्धि व्याध्यभिमानग्रस्तं लोकं[^5] शोकहतं च समस्तम्॥१॥
@@ -1063,8 +945,6 @@ Pray to Lord Govinda
 Pray to Lord Govinda Pray to Lord Govinda  
 Oh Ignorant and foolish minded man
 
-
-
 **पुनरपि रजनी पुनरपि दिवसः पुनरपि पक्षः पुनरपि मासः।  
 पुनरप्ययनं पुनरपि वर्षं तदपि न मुंचत्याशामर्षं॥३॥**
 
@@ -1098,8 +978,6 @@ Nityanatha
 
 Do not think for a moment that during the cycle of your births you will easily get Human birth again unless and until you qualify yourself for the same by acquiring sufficient quantum of virtue (not money) in this birth Note that your sins should not outweigh your virtues, lest you should be rottang in the births of lower species such as the beast, the bird,
 
-
-
 Samsara which is the most difficult ocean to be crossed(4)
 
 Pray to Lord Govinda  
@@ -1124,8 +1002,6 @@ Oh Ignorant and foolish minded man
 
 **Lodd Govindas.**
 
-
-
 भज गोविन्दं भज गोविन्द गोविन्द भज मूढमते।  
 
 **              **
@@ -1133,8 +1009,6 @@ Oh Ignorant and foolish minded man
 ——————————————————————————————————
 
 the reptile, the insect, the plant etcKnow that according to scientific calculations the number of varieties of lives is fixedat 84,00,000.
-
-
 
  Though one's eyes become blind, ears become deaf, body becomes weak and shattered and thus the life is subjected to sufferings, though friends become inimical and wife wicked, still Maya or illusion does not leave him!(6)
 
@@ -1149,8 +1023,6 @@ On Ignorant and foolish minded man
 
 Sankara's disciple
 
-
-
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते।
 
  \*Note that as long as there is capacity in you for earning wealth, so long are your relations and dependents attached to you, and after your body gets weak and disabled, persons in your very house flee away from you and do not pay heed to your words(7)
@@ -1164,8 +1036,6 @@ Oh Ignorant and foolish minded man
  \*
 
 All are prone to fall on their knees before you and dance attendance on you and honour you when success is with you but the very same persons are likely to be the first to throw stones of malice on you when failure works its cloud upon you
-
-
 
 यावत्
 
@@ -1209,8 +1079,6 @@ Note that even your own loving wife (or wives) that clasps and clings to you, is
 
  ♰♰Sri Sankaracharya seems to have used the word uifa or fear appropriately which includes the fear of wealthy men
 
-
-
  Always consider wealth as an evil In fact there is no real happiness in wealth by itself Men possessing wealth have to be afraid of even theirown sons, who may be a source of menace This is the order of the day (9)
 
 Pray to Lord Govinda  
@@ -1230,8 +1098,6 @@ Lodd Govindas
 
 from their own sons mutilating the estate by claiming a division of the same, having regard to the baneful aspect of the Hindu Law that gives enormous trouble in the management of properties to parents which eventually results in the destruction of properties and the reputation of the family often owing to the instigation of interested extraneous agencies including some exceptional selfish lawyers The joint family system of Hindu Law when applied to families consisting merely of the father and his son or sons is sufficiently troublesome, and when it isextended to brothers and other collateral families and their descendants the curse knows no bounds Of course we have the other aspect of Hindu Law set out in Dayabhaga which has to be appreciated as it serves to keep the estates in tact
 
-
-
 and when you are to be turned out of your own house for being buried or burnt to be reduced into dust or ashes you will leave all your wealth in its place or places Why then bother yourself so much in vain for the sake of wealth whether it is in the interests of yourself, your son, your wife, your friend or others (10)
 
 Pray to Lord Govinda  
@@ -1245,17 +1111,11 @@ Lodd Govindas
 
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते।
 
-
-
  \*Wealth makes friends of foes and foes of friends and also makes enemies of wives, sons, relations and even preceptors and thus creates varieties of wonders and even converts virtue into vice in various ways Ah! What a strange thing! (11)
 
 —————————————————————————————————————————
 
-
-
 \* Those who are nearest and dearest to you and those whom you trusted as one with you, in your affluence and influence, happiness and good name may become ungrateful to you when you are in difficulties Remember that your best friends and selfish gurus and priests who have been seeking your help may turn against you and prove traitors to you in spite of their having been placed under deep obligations to you
-
-
 
 Pray to Lord Govinda  
 Pray to Lord Govinda Pray to Lord Govinda  
@@ -1288,8 +1148,6 @@ Oh Ignorant and foolish minded man
  ♰♰ **तदिह भ्रातः, यदिद**
 
  Your sons and daughters whom you have reared with loving care may also become ungrateful to you
-
-
 
 whom do you belong? And whence did you come Just consider and think of the eternal truth, without being dcluded (13)
 
@@ -1329,8 +1187,6 @@ Sri Sankaracharya
 
  (After undergoing sufferings from within the womb of the mother), In boyhood one is given to play, in youth one is addicted to women, in old
 
-
-
 age one is engrossed in cares and anxieties, but none at any stage of life thinks of devoting himself to the Almighty God (15)
 
 Pray to Lord Govinda  
@@ -1365,8 +1221,6 @@ Sankara's disciple.
 
  With great pleasure and delight one has
 
-
-
 recourse to the enjoyment of women and as the result thereof the body gets emaciated and is subjected to diseases Although submission to death is inevitable in this world, yet it is a pity that sinful acts are not abandoned(17)
 
 Pray to Lord Govinda  
@@ -1388,7 +1242,6 @@ Oh Ignorant and foolish-minded man
 
 माकुरु धनजनयौवनगर्वं हरति निमेषात् कालः सर्वम्।  
 मायामयमिदमखिलं हित्वा ब्रह्मपदं त्वं प्रविश विदित्वा॥  
-                              
 
 Sri Sankaracharya
 
@@ -1399,8 +1252,6 @@ Sri Sankaracharya
  \*
 
 क्षीणे वित्ते
-
-
 
  Do not be carried away by the pride of your wealth, relations, friends and youth They are easily snatched away by Time in a moment Knowing therefore that these are transitory and full of illusions, cast them aside, realise the Brahman and attain salvation (19)
 
@@ -1426,8 +1277,6 @@ Oh Ignorant and foolish minded man
 
 Lodd Govindas
 
-
-
 भज गोविन्दंभज गोविन्दं गोविन्दंभज मूढमते॥२१॥
 
  Remember that death is certain Certain is death Do think of death every day in your mind (which will prevent you from committing wrongful acts Always chant the Mrutyunjaya Mantra and conquer Yama, the god of death and gloriously attain salvation, (without any recourse to Yamaloka) (21)
@@ -1444,8 +1293,6 @@ Anandagiri
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते।
 
  Be he a person who has devoted himself to practising Yoga, be he a person who is immersed in the enjoyment of life and women, be he a person merged in the company of his family comprising sons, wives, brothers etc, or be he a person who has discarded the society of men, so long as his mind is absorbed in the devotion of the Omnipotent and Omnipresent Almighty, he is bound to enjoy, enjoy and enjoy Brahmananda (Supreme bliss)(22)
-
-
 
 Pray to Lord Govinda  
 Pray to Lord Govinda Pray to Lord Govinda  
@@ -1474,8 +1321,6 @@ Bharatıvamsa
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते।
 
  By giving up desires, anger, greed and passion, investigate regarding your Own Self as to “who am I and what am I"? Those that are devoid of the knowledge of the Self are fools and are to suffer in Hell (24)
-
-
 
 Pray to Lord Govinda  
 Pray to Lord Govinda Pray to Lord Govinda  
@@ -1510,8 +1355,6 @@ Trotakacharya
 
  There are different kinds of Monks, Sanyasins, Priests and Acharyas Some having their hair grown wild or plaited, others having their hair cut in different forms, and others with completely shaven
 
-
-
 heads, clad in Kavi or Bhagava-coloured cloth and other various garbs and put on numerous deceitful appearances, after all for the sake of belly Though capable of understanding things these fools do not care to realise the Truth(26)
 
 Pray to Lord Govinda  
@@ -1529,8 +1372,6 @@ Lodd Govindas
 
  It is a wonder that audacity and selfishness have advanced to such an extent with some, that they claim themselves to be Almighty GodWhat a specimen of the Incarnation of Ignorance! What
 
-
-
 greater Apachara or insult can be offered than this to God(27)
 
 Pray to Lord Govinda  
@@ -1538,8 +1379,6 @@ Pray to Lord Govinda Pray to Lord Govinda
 Oh Ignorant and foolish minded man
 
 —————————————————————————————————————————
-
-
 
 Sri Devakinandanacharya was constantly quoting
 
@@ -1556,11 +1395,7 @@ Sri Devakinandanacharya was constantly quoting
 **^(2 b) आचिनोति च शास्त्रार्थ आचारे स्थापयत्यपि।  
    स्वयमाचरते यस्मादाचार्यस्तेन सोच्यते॥**
 
-
-
 He who is thoroughly conversant with the Shastraic lore, who establishes true Dharma among the people in practice, and who himself observes the ideal Dharma according to Shastras in conformity with the saying "Example is better than precept" is called an Acharya
-
-
 
 सद्गुरु चरणे निर्भरभक्तः संसारादचिराद्भव मुक्तः।  
 सेन्द्रियमानसनियमादेवं द्रक्ष्यसि निजहृदयस्थं देवम्॥
@@ -1589,8 +1424,6 @@ Oh Ignorant and foolish minded man
 
  The word (Gu) means darkness or ignorance, and the word (Ru) means the Remover he is the Remover of Ignorance Hence a Guru is so called as
 
-
-
 प्राणायामं प्रत्याहारं नित्यानित्यविवेकविचारम्।  
 जाप्यसमेतसमाधिविधानं कुर्ववधानं महदवधानम्॥
 
@@ -1615,8 +1448,6 @@ Lodd Govindas.
 
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते॥३०॥
 
-
-
  In all religious matters give up the bad Brahmin who has spoiled himself by ceasing to perform his religious duties including the important Panchayajnas, the five daily religious rites viz, the Brahma Yajna, the Deva Yajna, the Pitri Yajna, the Manushya Yajna and the Bhuta Yajna as well as other sacred Yagas and who has degraded himself by constantly mingling with bad Panchamas and Hunas and who has taken to frequently eat any kind of impure and unwholesome food both against science and religion and who is sacrilegious and represents a bad type of a Brahmin and who is designated as a Durbrahmana by Shastras (30)
 
 केचिदज्ञानतो नष्टाःकेचिन्नष्टाः प्रमादतः।  
@@ -1631,14 +1462,10 @@ Oh Ignorant and foolish minded man
 **¹मुख दग्ध परान्नेन हस्तौ दग्धौ प्रतिग्रहात्।  
 मनो दग्ध परस्त्रीभि ब्रह्मशाप कुत कलौ॥**
 
- 
-
 The mouth is polluted by eating the food of others, the hands are polluted by receiving unworthy and unholy gifts, and the mind is polluted by the thought of other's wives Where is the efficacy of a Brahmin's curse in this Age of Kali?
 
 **ज्ञान च सत्य च दम श्रुत च ह्यमात्सर्यमह्नीस्तितिक्षानसूया।  
 यज्ञ च दान च धृतिश्शमश्च महाव्रता द्वादश ब्राह्मणस्य॥**
-
-
 
 Spiritual Knowledge, Truth, Self-control, Learning, Freedom from Malice, Fearlessness, Endurance, Unenviousness. Sacrifice, Charity, Firmness of Mind, Tranquillity— these are the twelve essential virtues of a Brahmin.
 
@@ -1664,8 +1491,6 @@ Lodd Govindas.
 
  Oh Lord Vishnu! Protect the Kshatriya and the Vysya who are devoid of Samskaras, but who nominally perform them without uttering Veda Mantras ignorantly in contravention of Shastraic Ordinances¹ and fail to perform the Karmas properly. Also protect the poverty-stricken people of the Bharata Land— Poor Moneyless Indians. 31
 
-
-
 सन्ध्याहीनोऽशुचिर्नित्यमनर्हःसर्वकर्मसु।  
 यदन्यत्कुरुते कर्म न तस्य फलभाग्भवेत्॥
 
@@ -1689,8 +1514,6 @@ Oh Ignorant and foolish minded man
 
  **सस्क्रियते ज्ञानयोग्यतामापद्यते पुरुषस्य चित्तमनेनेति संस्कारः**
 
-
-
  All Samskaras put together, are 40 in number including all religious duties and pious obligations. Several Samskaras play a great part as a guiding factor in Hindu law.
 
  God Vishnu distinctly says:
@@ -1713,15 +1536,11 @@ Oh : Ignorant and foolish-minded man.
 
  It is said that Yama the God of Death takes away only the life of man whereas the bad Doctor takes away both life and money.
 
-
-
  Many Doctors do not realise that disease is latent in the bodies of all men including their own bodies as Disease is only the forerunner of the inevitable Decease Understand that God is the true Doctor without whose help diseases can not be cured and who is also the Physician for curing that foremost of all diseases viz, the bond that binds one to this world as mentioned in Vishnu Sahasranama **वेद्यो वैद्यस्सदा योगी॥**
 
  The nervousness and inability of several Doctors is observed when epidemics of virulent type break out with powerful bacteria causing innumerable loss of lives without yielding to any treatment Hence the help of Almighty is indispensable
 
  Instead of being content merely with the limited know ledge of physiology and chemistry and the study of organism with its mechanism and metabolism without the spiritualism attached there to and the ideas coming under the crude cate gory of Law of Nature, the Doctors will do well to study the finer subject of the Subtle and Astral body as well And in addition to prescribing mixtures to patients they may advance the study of the mixtures of the elements (which vary from 5 to 27) and the proportionate compositions and the processes thereof It is further necessary to make a study of the mind with its five divisions known as Antahharana, Manas, Buddhi, Chitta, and Ahankara It is also desirable to observe the several divisions of the vital airs in the body known as Prana, Apana, Vyana, Udana and Samana and their respective locations such as in the chest, in the lower part, in the whole body, in the neck and in the navel and their functions of breathing, expelling, perspiring, speechi fying and digesting respectively, together with the five subdivi sions of the five airs defined as Naga, Kurma, Krikara, Deva datta and Dhananjaya discharging the functions of be lching
-
-
 
 the opening of the eyes, producing appetite, causing yawning and assimilating food respectively, as also their connections. with the five organs of action or senses, viz., the senses of sight, hearing, smelling, taste and touch and also the Antahkarana which is said to be the sense of senses or heart of hearts. It is essential to investigate the Atma, Soul or Spirit represented by the Finest Air, Ether or Akasa instead of being engaged only with the dissection work of lifeless body which is after all a temporary tenement of True Man.
 
@@ -1743,8 +1562,6 @@ the opening of the eyes, producing appetite, causing yawning and assimilating fo
  20 lakhs kinds of immoveable lives such as trees etc and  
  4 lakhs kinds of other lives including men.
 
-
-
 जलजा नवलक्षन्तु दशलक्षन्तु पक्षिणः।  
 कृमिका रुद्रलक्षन्तु स्थावर लक्षविंशातः॥  
 त्रिशल्लक्ष गवादीनां चतुर्लक्षन्तु मानवाः।
@@ -1763,8 +1580,6 @@ Lodd Govindas
 Pray to Lord Govinda  
 Pray to Lord Govinda Pray to Lord Govinda  
 Oh Ignorant and foolish minded man
-
-
 
 अन्यायार्जितवित्तासक्तं न्यायाजीविनमर्थासक्तम्।  
 नीतिविहीनं निर्दयचित्तं त्यज भज रामं धार्मिकचित्तम्॥
@@ -1787,8 +1602,6 @@ Sri Sankaracharya.
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते॥३५॥
 
  Oh: Fool: Give up your thirst for always acquiring money. Develop noble and generous mentality and cultivate the spirit of contentment. Make yourself happy with whatever money you are
-
-
 
 able to earn by honest and righteous means by discharging your duty as is ordained by Shastras
 
@@ -1814,8 +1627,6 @@ Lodd Govindas
 
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते॥३६॥
 
-
-
  Day by day we come across multifarious new and novel laws created by varieties of men and a number of complicated and conflicting rulings which make matters of private and public work often difficult to carry out Avoid litigation and the innumerable and graduated Law-Courts Pity there are numerous Councils and committees many of whose members indulge in prolonged and perverse discussions and keep on twisting them involving waste of time without any sub-tantial relief to the people(36)
 
 Pray to Lord Govinda  
@@ -1831,8 +1642,6 @@ Lodd Govindas
 
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते॥३७॥
 
-
-
  Do not associate with the furious fanatics who have developed sectarian pride and jealousy to a high degree and have become haughty and envious and foment quarrels and anger and who conduct themselves in contravention to the noble principles of religion and philosophy without destroying the six inner enemies in man, namely, Kama, Krodha, Lobha, Moha, Mada and Matsarya(37)
 
 Pray to Lord Govinda  
@@ -1842,8 +1651,6 @@ Oh Ignorant and foolish-minded man
  It is surprising that among certain classes of people the sub-sectarian fury has advanced to such an extent as to ignore the value of religious symbols and put Namam (Tilak) on the buttocks of an elephant instead of on the forehead as reported in a case It is not proper that the worshippers of One God, the sons of one Father, and the brothers of the same Faith should indulge in quarrels It is unfortunate that many of these persons are found fighting for shadows in Civil and Criminal Courts in the name of Religion May good sense prevail with these Krodhacharis of the south, Lobhacharyas of Karnatak, Mohanandas of Upper India and Kamasastrulus of the Andhra and the Saddharma Viruddhacharyas of Western India
 
  Note what Gita says
-
-
 
 क्रोधाद्भवति संमोह समोहात्स्मृतिविभ्रमः।  
 स्मृतिभ्रशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥
@@ -1868,8 +1675,6 @@ Oh Ignorant and foolish minded man
 यस्माद्विश्वमिद सर्व तस्य शक्त्या महात्मन।  
 तस्मादेवोच्यते विष्णुर्विशधातो प्रवेशनात्॥
 
-
-
 The etymological meaning of the word Vishnu is as onder—
 
 विश्वव्यापनशीलत्वात् विष्णुरित्यभिधीयते॥
@@ -1887,8 +1692,6 @@ The etymological meaning of the word Vishnu is as onder—
 
 **स्वयभू शभुरादित्य पुष्कराक्षो महास्वन॥**
 
-
-
  Even in Siva Sahasranama which also occurs in the same Anusāsanıka Parva of Maha Bharata, Siva is addressed by the several names used for Vishnu, and he is also called Krishna(See 130th name in Siva Sahasranama)
 
 अदन्तेदन्तरचना फलभेदाय नार्हति।  
@@ -1900,8 +1703,6 @@ The etymological meaning of the word Vishnu is as onder—
 आददाति सुमभेदमावहत्ये.. मेवफलमिष्टमथिनाम्॥
 
  Vasudeva and Vamadeva are two marvellous Kalpaka trees which put forth different kinds of flowers but bear one and the same kind of fruit to votaries according to their desires The only difference between the words **वासुदेव** and **वामदेव** is in the letters **सु** and **म**which form the word **सुम**meaning Flower The idea prevailing among some of the Sri Vaishnavas that the Vishnu comprised in the Hindu Trinity is separate from the Lord of Vaikuntha, seems to be an unnecessary factor in the matter of devotion, in view of the fact that Vishnu is so called because of His All-pervading
-
-
 
 Nature on one side, and the protective character on the other It must be remembered that the Trinity Vishnu need not be treated as a separate Vishnu, because He has the same function of protection reserved to Himself which is the main function of that Lord of Vaikuntha If the power of protection had been delegated to Siva and the work of destruction to Vishnu then there could have been the justification of treating the Trinity Vishnu as a separate Vishnu
 
@@ -1921,8 +1722,6 @@ Nature on one side, and the protective character on the other It must be remembe
 
 (Gita Chap. 4, Slo 21.)
 
-
-
  See also the following verse of Mukapanchasatiwhich is an amplification of the idea **सर्वत्र समबुद्वय.**
 
 शिव शिव पश्यन्ति सम श्रीकामाक्षिकटाक्षिना पुरुषा।  
@@ -1938,8 +1737,6 @@ Padmapada
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते॥३९॥
 
  Oh Mad man, why are you always anxıously immersed in the thought of women and wealth? Of what avail will they be to you in your ultimate eternal loneliness? Is there nobody to check you and give you proper advice? Think of Niyanta, the God and follow His commandments Consider that in all the three worlds association with the virtuous is the only thing that serves the purpose of a ship to cross the ocean of Samsara Think over and over that women and wealth will not come to your rescue when you or your soul will be in distress owing to your sinful acts 39
-
-
 
 Pray to Lord Govinda  
 Pray to Lord Govinda Pray to Lord Govinda  
@@ -1958,8 +1755,6 @@ Pray to Lord Govinda
 Pray to Lord Govinda Pray to Lord Govinda  
 Oh Ignorant and foolish-minded man
 
-
-
  1 **रमणीरमणम्** In verse 26 of this book Sri Sankaracharya refers to monks as putting on deceitful appearances with kavi clothes for the sake of belly, but now-a-days we find also a number of henpecked men putting on several appearances with cloaks and collars and neckties, not only for the sake of mere belly but also for several unnecessary luxuries and gratification of lust, waiting to carry out the commandments of their better halves like an Aide-de-camp in waiting
 
  In Mahanirvanatantia it is said—
@@ -1977,8 +1772,6 @@ Oh Ignorant and foolish-minded man
 
  It is said that one has always to attend to the important duty of devotion to God and not to be carried away by the attractions of women The idea is that one should not become a prey to the
 
-
-
 infatuation due to women Instead of punctually and readily attending to your darling damsels every evening that wait at the doors of your office at 5-30 P.M sharp, with the motor car or carriage to take you out for drives, cinemas, dramas or games, it is highly desirable to punctually perform at least your evening prayer and thereafter attend to your pleasures or engagements instead of following the funny Gujarati proverb which says "Everything is merged in one's own self and his wite"
 
 हू अने मारीवहु, अने एमा आव्युसहु।
@@ -1989,8 +1782,6 @@ infatuation due to women Instead of punctually and readily attending to your dar
 अन्तर्याति निजायु काल कि जानाति नर पशुशील॥
 
  The advice is given not to be led towards lustful life and the low-levelled lulling love attached thereto Do not therefore flirt which only gets you
-
-
 
 dirt and ultimately you are hurt by the attraction of skirt
 
@@ -2012,8 +1803,6 @@ Mahanirvanatantra
 
  It is surprising to find the inconsistent thought prevailing among a section of educated men for encouraging the Western alcoholic drinks in the name of the broad-minded cosmopolitan views while discouraging Indian alcoholic drinks by advising the labourers not to indulge in them in the
 
-
-
 name of the moral and scientific uplift of the country, not to speak of taking to eat the nonrequired animal food in the hope of bringing about in admixture of nationalities even by extending matrimonial relationship with or without samskaras with foreign nations Indeed— A Really REVOLUTIONARY JUMP
 
  Of the three W's women, wine and wealth, the first two Ws can be had, but only at the enormous sacrifice of the last W Where is the necessity for all these vagueries' We cannot help deploring the effects of crooked civilization
@@ -2029,8 +1818,6 @@ name of the moral and scientific uplift of the country, not to speak of taking t
  The above stanza is a specimenof their degenerate mentality
 
  3 **परधनहरण** Money-making tacticsMoneymaking methods of the present day have become so numerous that they have grown into a science and it is practically developing into money knocking
-
-
 
 philosophy The noble idea of **परद्रव्येषु लोष्टवत्** has been displaced by the modern ideal **परद्रव्येषु लड्डुवत्** and the idea of **धर्मे सर्व प्रतिष्ठितम्** has been substituted by **अर्थे सर्व प्रतिष्ठितम्।**
 
@@ -2051,8 +1838,6 @@ philosophy The noble idea of **परद्रव्येषु लोष्ट
 
  It is said in some Sanskrit works—
 
-
-
 अर्थार्थी जीवलोकोऽयं श्मशानमपि सेवते।
 
  Viz love for money leads low-minded men to long for lucrative jobs even in cemetaries, but these low deals should not be encouraged howevei much one may be merged in the desire of acquiring wealth "Honesty is the best policy" is certainly a worthy rule to be followed though sometimes dishonesty pays to unscrupulous persons God has given an apt description of such avaracious persons in the Gita (Chap 16 Sloka 12) as follows—
@@ -2063,8 +1848,6 @@ philosophy The noble idea of **परद्रव्येषु लोष्ट
  The tendency of the modern times seems to be to cheat one another and to cultivate a Kleptomaniac mentality which ought to be discouraged in the interests of society and individual character On the other hand it is desirable' to encourage the ideals of honesty, equity and generosity particularly amongst those socalled educated men that require to be truly educated
 
  It is better to suffer from some valvulai disease of the heart than to entertain any fraudulent thought in the valves of the heart which is the sanctum sanctorum and the seat of God See what is stated in Uttara Narayaniya
-
-
 
 हृदय तद्विजानीयात् विश्वस्यायतन महत्॥
 
@@ -2087,8 +1870,6 @@ philosophy The noble idea of **परद्रव्येषु लोष्ट
 
  Men of evil deeds, the ignorant and ignoble men will not attain Me, as they are divorced ofunderstanding by Maya, and as they are men of demoniac nature.
 
-
-
 The iniquity of selfishness has been described by Bhartriharı as follows—
 
 एते सत्पुरुषाः परार्थघटकाः स्वार्थान्परित्यज्यये  
@@ -2106,8 +1887,6 @@ The iniquity of selfishness has been described by Bhartriharı as follows—
 Lodd Govindas.
 
 भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते॥४२॥
-
-
 
  Seeka good, virtuous and pious and true Guru Do righteous and charitable acts Maintain the practice of speaking wholesome truth and observe sacred Dharma Take shelter under the feet of Lord Hari which are the means of removing the teu of the worldly bonds Is not your death absolutely certain? (42)
 
@@ -2129,8 +1908,6 @@ Oh Ignorant and foolish minded man
 
  Become yourself your own Guru and first study yourself, your own body, your own acts, your own self, your own Maker, your own Death and try to realise your own probable state "after Death" These enquiries will be sufficient to rouse your
 
-
-
 mind to secure Supreme Knowledge and then gradually you become your own Guru
 
  Note that the analysis of your own actions good and bad, the idea of calculating your own virtues and sins, the cause of your own birth, existence and sufferings and death-these ideas will help you to a great extent in advancing devotion and philosophy Add to your pocket diary the thought of death as a daily remembrancer which will greatly help you to think of your Maker, and lead to salvation It is no use depending upon those who are professional Gurus of various types, whether Brahmin or Non-Brahmin, married crunmarried, educated or uneducated, young or old, man or woman and those who have formed into communities and taken to live on Guruism from generations and who are fondly proud of being called Gurus
@@ -2141,8 +1918,6 @@ mind to secure Supreme Knowledge and then gradually you become your own Guru
 दुर्लभोऽयं गुरुर्देवि शिष्यहृत्तापहारक॥
 
  Some of these Gurus are inclined to advice you not to acquire knowledge, not to study philosophy, not to observe Karmas, not to practice Yoga, but only to devote yourself to them with blind faith
-
-
 
 and entirely depend upon them only in the name of Achalabhakti and satisfy their desires as if they have taken a permanent lease of Vaikuntha or that of Mukti
 
@@ -2158,8 +1933,6 @@ and entirely depend upon them only in the name of Achalabhakti and satisfy their
 (Haridasa, a follower of the Vallabha School)
 
  Most of the professional Gurus are merged in worldly and family affairs and Samsaric turmoils
-
-
 
 and yet desire to be treated on a par with God simply because of the following sloka:—
 
@@ -2182,16 +1955,12 @@ Mahanirvanatantra.
 
  Viz. a person should take to the life of Sanyasin or renunciation only when his Vairagya is fully matured by giving up all concerns. Look at how Vairagya ought to be cultivated as described by Sri Sankaracharya:—
 
-
-
 ब्रह्मादिस्थावरान्तेषु वैराग्य विषयेष्वनु।  
 यथैव काकविष्ठाया वैराग्य तद्वि निर्मलम्।
 
  It is only when you disregard every thing in the whole of the universe like the dung of a crow you can be considered to have gained real Vairagya.Where is the necessity for collecting money like taxes for enjoying paraphernalia— that too for Sanyasins against all principles of simplicity?
 
  But we find a number of persons taking to the lite of Sanyasins, Bairagis, Sadhus, Pandarams etc, with the internal object of gaining wealth on one side and enjoying royal paraphernalia on the other and leading a princely life with a number of worldly requirements and pleasures instead of discarding them Many are found to be keenly watching to jump at the office of Mathadhipatis for securing varıous desires with an inwardly attachment towards the worldly matters with an outwardly detachment Some of them keep on gradually increasing their personal wealth and indirectly enriching their family members, being mostly engrossed in the management of properties with a number of schemes and engaged in litigation, correspondence, accounts, law courts, and what not Different kinds of problems concerning private, personal, Matam and Devasthanam properties keep them engaged, more than family men. The Sanyasın's Samsaia is found
-
-
 
 to be more extensive than the Samsara of family men.
 
@@ -2203,8 +1972,6 @@ to be more extensive than the Samsara of family men.
  The curiosity of renunciation is observed when we find some of the monks or Sanyasins going about to receive alms or Bhiksha by driving in Palanquins One does not understand why this royal life to be combined with begging! Then again we find them carrying on Pooja from place to place and not even observing Chatur masyam and making Pooja to girls and giving sarees to women during Navaratri festivals, etc, occasions, why this Kamya Vratha for Sanyasins ?
 
  What a pity that even Sanyasins are meiged in Moh and even become Dandies as described
-
-
 
 above while calling themselves Tridandies **(त्रिदण्डि)** and Dandies **(दण्डिः)**
 
@@ -2224,8 +1991,6 @@ above while calling themselves Tridandies **(त्रिदण्डि)** and 
 ब्रह्मद्वेषः खलजनरतिः प्राणिनां निर्दयत्वम्  
 माभूदेवं मम पशुपते जन्मजन्मान्तरेऽपि॥
 
-
-
  Finding that it is difficult to observe all the austerities and it is impossible to lead the life of propel Sanyaşam in the Kali Yuga, Shastras have condemned the taking of Sanyasam as stated below in Parasara Smriti—
 
 अश्वालम्भ गवालम्भ सन्यास पलपैतृकम्।  
@@ -2234,8 +1999,6 @@ above while calling themselves Tridandies **(त्रिदण्डि)** and 
  But this condemnation of SanyasiAshrama I got over by several explanations just in the same manne as justifications are offered by several lawyers regarding then actions
 
  As a result of the advance of Kali it is regrettable to find that among those married and unmarried Mathadhipathis and Acharyas some take to singing, some to dance, some to play on musical instruments, even such as Tabla drums, some take to the rearing of birds and animals, some are found fond of chewing tobacco, eating musk pil's with betel nuts, addicted to scents and cairying gold snufi boxes and sticks with gold handles, themselves deched in silk cloths, some decked with jewels including those worn by women, some constantly attending cinemas and theatres, engrosed in naunch girls, and some even go to the length of entering into civil mannages with dancing gifls, in addition to the mairied wife, not
-
-
 
 to speak of the great interest evinced by somein encouraging amoroussongs and a number of mischievous acts consisting of throwing Gulal powder on young females and pouring coloured water with silver and gold syringes during holy festivals, and some convicted for thefts and other criminal offences, while others are engaged in wasting public monies in personal comforts, pleasures and litigations and the enjoyment of high lite, where is the necessity to approach such Acharyas having such hobbies as stated above, no matter to whatever sect or religion they may belong
 
@@ -2248,8 +2011,6 @@ to speak of the great interest evinced by somein encouraging amoroussongs and a 
 
 तस्करजारविदूषकधूर्ता मस्करिमौनिदिगबरवृत्त।  
 गुप्तसतीसुतधनमदमत्ता गुरव किं परवञ्चकचित्ता॥
-
-
 
  Regarding professional Gurus in Viswagunadaisam we find that several of them do not care as to what kind of money they get so long as they amass wealth, as pointed out in the following—
 
@@ -2266,8 +2027,6 @@ to speak of the great interest evinced by somein encouraging amoroussongs and a 
 
  Swami Dayananda Saraswati, the founder of Arya Samaj remarks in his book Satyarthaprakash
 
-
-
 that by the mere burning of a particular portion of the body, a man cannot get salvation, in connection with the Mantra. **अतप्ततनोर्न तदामो अश्नुते**.
 
 **The assumed despatch work.**
@@ -2278,8 +2037,6 @@ that by the mere burning of a particular portion of the body, a man cannot get s
 
 कश्चन लोके करपुटपात्रः पातुं सुतमाश्रितमठसत्रः।  
 तस्मिन् वृद्धे सति सकलत्रः शपति हि रण्डासुत इति पुत्रः॥
-
-
 
  Thus having taken even to the life of a beggar by receiving alms in his palms and living in Matams and Satrams, by sacrificing all self-respect for the sake of his family and progeny, the deluded man gets the reward of abuses in his old age by his own son and daughter-in-law or wife and son who call him—**रण्डा पुत्रः (मुण्डाकोडुका** in Telugu.) What a horrible sore disappointment!
 
@@ -2294,8 +2051,6 @@ that by the mere burning of a particular portion of the body, a man cannot get s
 अहो मोहस्य माहात्म्यं तत्रैकः शिष्यतां गतः॥
 
  Both are unacquainted with Shastric lore and both are immersed in ignorance. Oh; The power of delusion, that one chooses to become a disciple of the other!
-
-
 
  One must understand that the technical and titular Gurus cannot be real Gurus as mentioned in Visvagunadarsa.
 
@@ -2313,8 +2068,6 @@ that by the mere burning of a particular portion of the body, a man cannot get s
 यस्यैव स्फुरणं सदात्मकमसत्कल्पार्थकं भासते  
 साक्षात्तत्त्वमसीति वेदवचसा यो बोधयत्याश्रितान्।
 
-
-
 यत्साक्षात्करणाद्भवेन्नपुनरावृत्तिर्भवाम्भोनिधौ  
 तस्मै श्रीगुरुमूर्तये नम इदं श्रीदक्षिणामूर्त्तये॥
 
@@ -2329,8 +2082,6 @@ that by the mere burning of a particular portion of the body, a man cannot get s
 
 अज्ञाननाशने दक्ष दीक्षित भक्तरक्षणे।  
 वटमूलाश्रय त्र्यक्ष दक्षिणामूर्तिमाश्रये॥
-
-
 
  Definition and the qualities of a Guru:—
 
@@ -2352,8 +2103,6 @@ that by the mere burning of a particular portion of the body, a man cannot get s
 
  Note that in view of preventing vagaries of persons calling themselves gurus and misleading the innocent people, the Almighty was pleased to assume the form of Guru Dattatreya with the highest qualified ideal of celibate life representing the Trinity for the spiritual elevation of mankind. Even among Vaishnavas we find that Sanyasins
 
-
-
 take their Ashrama in the temple of Dattatreya at Melkote and other places.
 
  If one is unable to procure a proper Guru the best thing will be to submit to the Lord of Universe, the Great God and obtain Mantropadesam from Him who will surely inspire in your mind the utility of the Mantra.
@@ -2365,8 +2114,6 @@ take their Ashrama in the temple of Dattatreya at Melkote and other places.
  The Tamil Saint Perialvar confirms this view by saying _(![](../books_images/U-IMG-17247569057827.png))viz. the Lord Vishnu Himself comes there to initiate the deserving disciple in the form of earthly Guru.
 
  Under these circumstances, the best thing is to think and meditate upon that Guru of Gurus,
-
-
 
 Lord Govinda, the Supreme Teacher of Gita and get necessary knowledge and wisdom inspired by Him with mantras, tantras and yantras and obtain eternal salvation in Vaikuntha, Kailasa, Goloka, or other lokas according to the different creeds
 
@@ -2386,8 +2133,6 @@ Lord Govinda, the Supreme Teacher of Gita and get necessary knowledge and wisdom
 सुरासुरैरचितपादपद्म सनातन लोकगुरु स्मरामि॥
 
  I give hereunder the slokas relating to the genealogies of different Acharyas, who are also called Gurus in view of their having inculcated different main schools of philosophic thought among the followers of Hinduism.
-
-
 
 **Sri Sankaracharya's Parampara.  
 शङ्कर पञ्चरत्नम्।**
@@ -2420,8 +2165,6 @@ Lord Govinda, the Supreme Teacher of Gita and get necessary knowledge and wisdom
  राम पद्मविलोचन मुनिवर नाथ शठद्वेषिणम्  
  सेनेश श्रियमिदिरा सहचर नारायण सश्रये॥
 
-
-
 २. आदौजगदाधारः शेषः तदनु सुमित्रानंदनवेषः।  
   तदुपरि धृतहल मुसल विशेषः तदनन्तरमभगवद्गरुरेषः॥
 
@@ -2448,8 +2191,6 @@ Lord Govinda, the Supreme Teacher of Gita and get necessary knowledge and wisdom
   आनन्दतीर्थमतुलं भजे तापत्रयापहम्॥  
   चित्रैः पदैश्च गंभीरैः वाक्यैर्मानैरखण्डितैः  
   गुरोर्भावं व्यञ्जयन्ती भाति श्रीजयतीर्थवाक्॥
-
-
 
 ३ अथिकल्पितकल्पोऽयंप्रत्यर्थिगजकेसरी।  
  व्यासतीर्थगुरुर्भूयात् अस्मदिष्टार्थसिद्धये॥  
@@ -2478,8 +2219,6 @@ Lord Govinda, the Supreme Teacher of Gita and get necessary knowledge and wisdom
 
 **Lord Govindas**
 
-
-
 ४ तापत्रयापहरण तरण भवाब्धेश्चेतोविशुद्धिकरण स्मरण यदीयम्।  
  गोपीशभावभरण करुण निजेषु स्वाचार्यवर्यचरण शरण प्रपद्ये॥
 
@@ -2502,8 +2241,6 @@ Lodd Govindas
  निष्प्रत्यूहानृशस्यात् नियतरसतया नित्यशेषित्वयोगात्  
  आचार्यः सद्भिरप्रत्युपकरणधिया देववत्स्यात् उपास्यः॥
 
-
-
 ** Qualifications of Sishya:—**
 
 १ सद्बुद्धि साधुसेवी समुचितचरित तत्वबोधाभिलाषी  
@@ -2524,8 +2261,6 @@ Lodd Govindas
 
  What a pity that certain section of Vaishnavas in advancing Bhakti or devotion have gone to the extent of mixing up the ideas of sexual love
 
-
-
 between certain Gurus and disciples which are still in vogue without being condemned and eradicated by eminent thinkers of religion and devotion
 
  It will be surprising to find that some of these Vaishnavas in dealing with devotion describe various details pertaining to sexual enjoyments such as kissing, drinking the lip–nectar, embracing and the sexual intercourse of the Goddess with God as if the God and the Goddess can be reduced to the level of an ordinary man and that of an animal Claiming to be a woman before God by acknowledging one's own weakı ess in the name of Nayaka Nayikibhavam is one thing but this ought not to make anybody indulge in the description of the animal sexual life between God and Goddess The following 9 forms of devotion do not inculcate such vulgar ideas
@@ -2538,8 +2273,6 @@ between certain Gurus and disciples which are still in vogue without being conde
 तद्भक्तजनवात्सल्य पूजाया चानुमोदनम्।  
 सुमना अर्चयेन्नित्य तदर्थे दम्भवर्जनम्॥
 
-
-
 तत्कथाश्रवणे रागस्तदर्थे चाह्नविक्रिया।  
 तदनुस्मरण नित्यं यस्तन्नाम्नोपजीवति॥  
 भक्तिरष्टविधा ह्येषा           
@@ -2547,8 +2280,6 @@ between certain Gurus and disciples which are still in vogue without being conde
  (गोतमीयतन्त्रे)
 
  It is deplorable that they speak with the greatest delight in describing the love between God and Goddess (Radha and Krishna) in a form which is hardly decent Where is the necessity for men or women to indulge in the descript on of sexual pleasures between God and Goddess which are fallen to the lot of man and beast alike as per the saying **आहारनिद्राभयमैथुनं च सामान्यमेतत् पशुभिर्नराणाम्**, and hence this ought to have nothing to do in the sphere of innocent and holy devot on and high morality It is surprising that all requisites for devotion such as the ideal of renunciation, the ideal of service, the ideal of awe and reverence and the ideal of surrender before the Lord of Vaikuntha are totally abandoned To get one's self merged in the description of sexual pleasures and desires in the name of devotion, is nothing short of complete ignorance and subjecting one's own self to the abject influence of sexual ideas and exc tements is certainly not the correct method of devotion The following instance given in Radhika Stotram known as "Premamruta Rasayana"
-
-
 
 in one of the Vallabha Sampradaya works known as Brihatstotra Sarıt Sagara part 2, will point out the vagueries of this aspect of the so-called devotion which lays stress on sexual enjoyments and details relating thereto, including reference to postures
 
@@ -2568,8 +2299,6 @@ in one of the Vallabha Sampradaya works known as Brihatstotra Sarıt Sagara part
 रा इत्यादानवचनो धा च निर्वृतिवाचक।  
 यया प्राप्नोति मुक्तिंच साच राधा प्रकीर्तिता॥
 
-
-
  Is it proper even to imagine the thoughtless thought by describing her as one engrossed in sexual enjoyment when She is the giver of salvation?
 
  Radha is worshipped by Radha Sahasranama found in Narada Pancharatra as also by the other Radha Sahasranama given in Radha Tantra just in the same manner as the Lakshmi Sahasranama, Lalita Sahasranama etc
@@ -2579,8 +2308,6 @@ in one of the Vallabha Sampradaya works known as Brihatstotra Sarıt Sagara part
  Thus to discourage the observance of Daily Prayers ordained by all Shastras and the study of Vedas is not at all advisable especially when so many foreign influences are already working against our Hindu Religion
 
  Already Messrs A B C D & Co have monopolised the whole field of intellect and literature to such an extent that a large number of educated men are devoid of Sanskrit and Vedic knowledge and cannot express Veda Mantras properly and fluently in spite of having high university degrees
-
-
 
  I give the following Chatu sloka that deals with the A B C D Mahatmya, which shows to what extent it leads after having destroyed our mother language, our biblical knowledge, our homely life and our noble Dharma
 
@@ -2595,8 +2322,6 @@ in one of the Vallabha Sampradaya works known as Brihatstotra Sarıt Sagara part
 Non-duality A Speciality**
 
  It will be interesting to observe that after the disciple undergoes the necessary Samskaras by offering the sacrifice of all the 24 elements from the body and becomes highly qualified by being initiated in the right royal keen spiritual knowledge of Brahman and having been directed to give up all ideas of I-ness (ego) and my-ness viz **अहन्ता** and **ममता** and after the disciple realises the impor
-
-
 
 tance of Hamsassoham **(हंमः सोहम्)** the Guru will find no difference between himself and his disciple The Guru then has to address the diciple **तत्वमसि** and prostrate before the diciple as per following—
 
@@ -2619,8 +2344,6 @@ Gurus and Acharya**
 भूप्रदक्षिणषट्केन काशीयात्राशतेन च।  
 यत्फलं लभते मर्त्ये तत्फलं मातृवन्दने॥
 
-
-
 नान्नोदकसमं दानं नैका (नद्वा) दया पर व्रतम्।  
 न गायत्र्या परो मंत्र न मातुर्दैवत परम्॥
 
@@ -2639,8 +2362,6 @@ Gurus and Acharya**
  The Father is the Dharma, Father is the heaven, and Father is the highest penance When the Father is pleased all the Gods are propitiated.
 
  The Father is the originator of the body. He is the initiator of the son into the knowledge of Brahma He is actually the giver of body and the root–cause for the due discharge of religious duties He is therefore the highest god to be worshipped
-
-
 
  Sri Rama though incarnation of God has set the splendid example of Pitri Bhakti as one of the highest principles of morality and duty inculcated in the great epic Sri Ramayana and has acquired a world wide reputation as such a dutiful son
 
@@ -2663,8 +2384,6 @@ Gurus and Acharya**
 
  A Father is called **महागुरु**. It is ordained by Shastras that it is the father, who has to give Brahmopadesam to a son and not others
 
-
-
  Thus the parents are worshipped like God if not more than God as they are the visible Cause of our Existence, as the Cause of. Creation, the Brahman
 
  In christianity God is called Father, and in Hinduism Goddess is addressed as Mother
@@ -2672,8 +2391,6 @@ Gurus and Acharya**
  It is unnecessary to point out as to how even God is less regarded when compared with parents as can be seen from the most popular history of Pundarika, who while shampooing the legs of his parents, God having seen his Pitri Bhakti, was pleased and appeared in the form of Sri Vitthalnatha Swami in Pandarpoor, when the young boy who would not divert his attention from the service offered to parents and therefore got hold of a brick lying by his side which was thrown in His front offering the same for a seat to be occupied by the God Sri Vitthalnatha who with great pleasure got up on the brick and stand even to this day attracting millions of people that go to worship Him from all parts of India and is popularly known as Pundarikavarada. May Pundarikasha help us!
 
  It is a wonder to see why the Pada pooja with cash money is encouraged to add to the Moha of Sanyasins. It is ordained by Shastra
-
-
 
 to perform the Pada Pooja of the parents, the mother and the father of course in preference to Acharyas but that is not attended to except on rare occasions, such as the performance of Samskaras, Vratas, etc, and such practice of the high religious order VIZ, the Pada Pooja to parents is chiefly observed in Telugu country
 
@@ -2692,8 +2409,6 @@ to perform the Pada Pooja of the parents, the mother and the father of course in
  It is said that the lord husband has to be worshipped as per— **शिवत्वेन पति ध्यात्वपूनयेद्दिव्यनामभिः**Atri Smriti says.—**शङ्करादपि विष्णोर्वा पतिरेवाधिकस्त्रिया**
 
  For further particulars see my Patipujavidhan regarding Pati Pooja, Pati Bhaktı, PatiSeva etc.
-
-
 
  When, thus salutation to the feet of parents and husband in preference to any Guru or Acharya is enjoined by the Shastras why encourage Pada Pooja to Acharyas and that too constantly with money instead of flowers!
 
@@ -2719,8 +2434,6 @@ to perform the Pada Pooja of the parents, the mother and the father of course in
 
  Sadachaia— practice of sacred custom— not the unnecessary agita
 
-
-
 tion of forcibly shoving Panchamas into the interior of temples near the idols even against theirwill, before qualified
 
  **3. सत्य वचनम्**
@@ -2742,16 +2455,12 @@ tion of forcibly shoving Panchamas into the interior of temples near the idols e
 स धन्य पुरुषो लोके स कृती परमार्थवित्।  
 ब्रह्मनिष्ठ सत्यसन्धो यो भवेद्भुवि मानव॥
 
-
-
 **5 श्री हरिचरणम् – THE FEET OF GOD.**
 
 \(a\) Adoration at the feet of God
 
 कदा पुन शङ्खरथाङ्गकल्पक-  
 ध्वजारविन्दाङ्कुशवज्रलाञ्छनम्।
-
-
 
 त्रिविक्रम त्वच्चरणाम्बुजद्वय  
 मदीयमूर्धानमलकरिष्यति॥
@@ -2771,8 +2480,6 @@ tion of forcibly shoving Panchamas into the interior of temples near the idols e
 
 ध्वजातपत्र कमल वज्राख्य चाकुशो यव।  
 स्वस्तिक चोर्ध्वरेखा चाष्टकोण चक्रमेव च॥
-
-
 
 चिह्नानि वामचरणे गोविन्दस्याद्भुतानि च।  
 इन्द्रचाप त्रिकोण च कलश चार्धचन्द्रकम्॥
@@ -2799,8 +2506,6 @@ tion of forcibly shoving Panchamas into the interior of temples near the idols e
 **न नाकपृष्ठ नच सार्वभौम न पारमेष्ठ्य न रसाधिपत्यम्।  
 न योगसिद्धिर्नपुनर्भव वा वाञ्छन्ति यत्पादरजः प्रपन्नाः॥**
 
-
-
  The real devotees of the Almighty do not care for the pleasures of paradise or to secure the acquisition of kingdom or the office of Brahma or the attainment of Siddhis or even the absence of rebirths but aspire for the Dust of the Feet of God.
 
 **(e) The description of the full leg of God**
@@ -2817,8 +2522,6 @@ tion of forcibly shoving Panchamas into the interior of temples near the idols e
 **(f) Prostration at the Feet of God in feminine form**
 
  I think I should take advantage of further prostrating before the Feet of the Almighty who is also adored in the feminine form Thus I give
-
-
 
 the prayer of the Feet of Goddess Kamakshi given in Mookapanchasatı in the well–known Padaravindasatakim—
 
@@ -2843,8 +2546,6 @@ the prayer of the Feet of Goddess Kamakshi given in Mookapanchasatı in the well
 तनीयास पांसु तव चरणपङ्केरुहभव  
 विरिञ्चिस्सञ्चिन्वन्विरचयति लोकानविकलम्।
 
-
-
 वहत्येन शौरि कथमपि सस्त्रेण शिरसा  
 हरस्सड्क्षुद्यैन भजति भसितोद्धूलनविधिम्॥
 
@@ -2860,8 +2561,6 @@ the prayer of the Feet of Goddess Kamakshi given in Mookapanchasatı in the well
 
  Delightfully do I give the splendid Stanza for taking the delicious **पाद तीर्थ** Pada Teertha of God which is the holiest of all holy waters, holier than all holy rivers, full of all virtues, on the drop of which when taken or put in your mouth with the holiest of holy leaves, the holy basil sometimes. containing the splendid fragrance of saffron and purified camphor, you are bound to be taken to
 
-
-
 heaven provided of course your devotion for Him is really real Remember that there is nothing equal to the sacred reertha for purifying your mind and soul, for destroying your sins and for giving you salvation A few drops of the sacred Teertha is the best medicine which cannot be secured by all researches in all the laboratories of the world by any Platonic scientist It is the richest and the priceless medicine nct for diseases but a real cure for deceases A sure remedy for unostentatious religious men giving much longer lease than the leases of 999 years at least for enjoing the celestial pleasures of Devalokas before actual final Mukti
 
  Firstly I give the Veda Mantra that can be used for taking the Pada Theertha of God or even Mahaprasada of God on which Vidyaranya has dealt with his commentary.
@@ -2873,8 +2572,6 @@ heaven provided of course your devotion for Him is really real Remember that the
 
 गंगापुष्कर नर्मदाच यमुना गोदावरी गोमती  
 तुंगाद्वारवती प्रयागबदरी वाराणसी सिंधुभि।
-
-
 
 कन्यासेतु सरस्वती प्रभृतिभि ब्रह्माण्डमध्ये जले  
 तीर्थस्नानमनन्तकोटिफलदं श्रीविष्णु पादोदकम्॥
@@ -2897,8 +2594,6 @@ heaven provided of course your devotion for Him is really real Remember that the
 
  Look at the humblest and sincerest method of submission to the Great God and the confessions made of the follies and failings one is bound to commit at least to some extent and the catholic manner in which one begs to Almighty to excuse
 
-
-
 him of all or any of them and enable him to secure the merit for obtaining salvation by worshipping His Feet.
 
 अमर्याद क्षुद्रश्चलमतिरसूयाप्रसवभू  
@@ -2916,8 +2611,6 @@ him of all or any of them and enable him to secure the merit for obtaining salva
 
 पुण्योऽहं पुण्यकर्माहं पुण्यात्मा पुण्यसंभव।
 
-
-
 **Form of Prostrating at the Feet of Hari.**
 
  Apart from the manner in which the Feet of the Almighty have to be worshiped by several sets of thousard names each (Sahasranamas) and sometimes even by a lakh of names with 108 and more varieties of beautiful flowers and the sacred holy basil and the other sacred and scented leaves, one has to offer his prayers in the humblest form according to the description given below with real devotion, real attachment, real submission, real obedience and real faithfulness without playing any tricks even with God as is done by manv Purohits and Archakas and thus prostrate at His feet
@@ -2931,8 +2624,6 @@ him of all or any of them and enable him to secure the merit for obtaining salva
 
 उरसा शिरसा दृष्ट्या मनसा वचसा तथा।  
 पद्भ्यां कराभ्यांजानुभ्यां प्रणामोऽष्टाङ्ग ईरित॥
-
-
 
  One has to prostrate before God by the chest, by the head, by the eyes, by mind, by speech, by the legs, by the folded hands and by the knees bent Thus the eight elements are required for a proper Namaskara or prostration The happy and sublime result of such Namaskara is as under—
 
@@ -2953,15 +2644,11 @@ him of all or any of them and enable him to secure the merit for obtaining salva
 
  But having regard to the unnecessary **query** put by the people merged in worldly **worries** being engaged in lands, Khushki and **Tarı** and finding large amounts for payments of **Vari**and coming across people acting like **Nari,** and many
 
-
-
 a Brahmin found fond of eating **Kari,** and taking to the taste of spiced **Curry,** vitamin advocates engaged in eating **Berry** and **Cherr**y, though others indulge in eating **Poori** and **Kachori,** and generally possessing the pride of wealth **Verri**, where is the time to think of **Hari?** But remember that all Civilized acts done in **hurry** contribute towards causing your death also in **hurry** and you are never free to think of **HariBury** all your infatuated ideas to be always **merry** but devote yourself to **Hari** Do not always be fond of driving in **Garry** and ever be anxious to see your wife **carry** and keep on fondly longing to seethe children **marry** disregarding the sufferings that make you feel **sorry,** but think of Lord **Hari** Unless you detach yourself from **Pari**however much **Sundari** and take to **Dari,** how can you get salvation at the feet of Lord **Hari?** Nothing like seeking the help of **Hari** as Sri Sankara has sought by addressing Him as **Murari** (Vide stanza 4 of this book)
 
 —————————————————————————————————————————
 
 \* Vari= ![](../books_images/U-IMG-1724759567782716.png) = taxes, Nari=![](../books_images/U-IMG-1724759636782717.png) = fox, Kari = _(![](../books_images/U-IMG-1724759749782718.png)) = or meat, spiced Curry =_(![](../books_images/U-IMG-1724759813782719.png))= hot vegetables, Kachori =**कचोरी** = cake made of wheat and black gram, Khushki & Tari = **खुष्की** & **तरी**dry and wet lands, Verri =_(![](../books_images/U-IMG-1724759895782720.png))= Madness, Garry =**गाडी**= Carriage, Pari = Nymph or Fairy, Sundari, = **सुन्दरी**Beautiful Lady, Darı = **दरी** = Cave
-
-
 
 Oh Lord Hari: Thou art——
 
@@ -2994,8 +2681,6 @@ Oh Lord Hari: Thou art——
 
  To whoever is born, death is certain and birth is as certin to whoever dies, unless one is specialised in the art of securing salvation
 
-
-
  Remember that you do not allow sins to accumulate by your misdeeds, lest,
 
 यमकिंकरकरशुले लोले पतदभिघातविपाले फाले।  
@@ -3019,8 +2704,6 @@ Lodd Govindas
 **भीषास्माद्वातः पवते भीषोदेति सूर्यः।  
 भीषास्मादग्निश्चेन्द्रश्च मृत्युर्धावति पञ्चम इति॥**
 
-
-
  Meaning Yama will run away from you owing to the terror of Almighty Vishnu From His fear the wind blows, from His fear the sun rises, from His fear fire burns, from His fear Indra pours water and fifthly Yama likewise runs away from His terror
 
 Pary to Lord Govinda  
@@ -3038,8 +2721,6 @@ Oh Ignorant and foolish-minded man
 **2 धरणी धरणम्**
 
  The rame of Dharanidharana is given to Lord Vishnu for various reasons viz because on account of His having held up the world in the form of Varaha and also in view of His holding this world along with other worlds in His body The marvellous aspect of the wonderful scientific arrangement made by Vishnu, the Lord of Universe is evident from the fact of the power of gravitation given to this as also the
-
-
 
 other worlds working with their different rotations and revolution but for which splendid arrangement the several worlds visible through huge telescopes and non-visible, may dash with each other and smash into pieces
 
@@ -3063,11 +2744,7 @@ other worlds working with their different rotations and revolution but for which
 
  In the following four Charama Slokas, which are considered to be the most important devotional
 
-
-
 keynotes for securing protection at the hands of God who has made the following promises during His several incarnations
-
-
 
 As **Krishna** He assures—
 
@@ -3076,16 +2753,12 @@ As **Krishna** He assures—
 
 (Srimad Bhagavad Gita)
 
-
-
 As **Rama** He assures—
 
 सकृदेव प्रपन्नाय तवास्मीति च याचने।  
 अभयं सर्वभूतेभ्यो ददाम्येतद्व्रतं मम॥
 
 (Sri Ramayana )
-
-
 
 As **Varaha** He assures—
 
@@ -3102,8 +2775,6 @@ As **Varaha** He assures—
 **सत्यं ब्रवीमि मनुजा स्वयं मूर्ध्वबाहुः।  
 योमा मुकुन्द नरसिंह जनार्दनेति॥**
 
-
-
 जीवन् जपत्यनुदिनंमरणे ऋणीव ।  
 पाषाणकाष्ठ सदृशाय ददामि मुक्तिम्॥
 
@@ -3119,8 +2790,6 @@ As **Varaha** He assures—
 तपसा मनसा तेन बभूव मनसा च सा॥
 
  This Manasa Devi, after having performed the pooja of Siva in Kailasa for thousand years obtain
-
-
 
 ed the AshtakshariMantra of SriKrishna as per the following authority—
 
@@ -3148,8 +2817,6 @@ ed the AshtakshariMantra of SriKrishna as per the following authority—
 **सदा विषयकामस्य, देहारामस्य सर्वदा।  
 दुष्टस्वभाववामस्य, श्रीकृष्ण शरण मम॥३॥**
 
-
-
 ससारसर्पद्रष्टस्य, धर्मभ्रष्टस्य दुर्मते।  
 लौकिकप्राप्तिकष्टस्य, श्रीकृष्ण शरणं मम॥४॥
 
@@ -3171,8 +2838,6 @@ ed the AshtakshariMantra of SriKrishna as per the following authority—
 
  Forgetful of Religious duties that I am, blinded by worldly pursuits, ignorent of Self, drowned in the ocean of Samsara, full of disappoint
 
-
-
 ments and engaged in misdeeds with my mind concentrated on evil thoughts devoid of discrimination fortitude and devotion and led away by the unbridled horses of sense organs, may Sri Krishna be my Refuge
 
  I further point out the Panchaksharı Mantra of Sri Krishna, which is also a very valuable and sacred Mantra for the devotees of Krishna which may be used with great advantageIt is **कृष्ण तवास्मि**
@@ -3189,8 +2854,6 @@ ments and engaged in misdeeds with my mind concentrated on evil thoughts devoid 
 
  As I think it will be interesting to give the Veda Mantra of Sri Krishna which occurs in Rig Veda and which having regard to the elasticity of Sanskrit language with its various
 
-
-
 grammars and certain principles of Mecmamsa such as Sruti, Linga, Vakya, Prakarana etc, the Mantra can be used for Krishna just in the same manner as the Vedic Rama Mantra for Rama on which commentary also has been written
 
  The Vedic Krishna Mantra
@@ -3204,8 +2867,6 @@ grammars and certain principles of Mecmamsa such as Sruti, Linga, Vakya, Prakara
  कृष्ण कृष्णपरमात्मान नियान नियन्तार उद्दिश्य (कामक्रोधादि) अरिषड्वर्गस्य हर्तार तथाभूत, सुपर्णा सु शोभन पर्ण पूरण (व्यापन इति यावत्) येषां ते तथोक्ता भगवत चैतन्याशा दैवी संपत्ति विशिष्टा जीवा इति यावत् अप शुक्ररूपा (आपो मे रेतसि श्रिता इति श्रुते) वसाना ऊर्ध्वरूपेण वारयन्त ऊर्ध्वरेतस इत्यर्थ दिवप्रकाशमान वैकुण्ठलोक उत्पतन्ति उद्दिश्य गच्छन्ति ते सज्जीवा ऋतस्य सदनात् पुण्यलोकात् आववृत्रन् आगतवन्त आदित् अत एव घृतेन तेषां पुण्येन पृथिवी इयंभूमि व्युद्यते विविध उद्यते सिक्ता सती सस्यादिभि आढ्या भवति। पूर्वं पुण्यलोकात् आगत्य स्वरूपवैभव सानिध्येन भूमि समृद्धा कृत्वा तदनु कृष्णोद्देशेन पुनरावृत्तिरहित वैकुण्ठं प्राप्नुवन्तीति भावः
 
  The virtuous souls who have conquered the six inner enemies, who carry happiness wherever
-
-
 
 theypervade and who by the control of passions have conserved their energy after coming to the Earth from the higher world and purifying the Earth by their presence and making it yield plenty of crops and the like for the benefit of mankind, march towards the Heaven to reach Lord Krishna, the Controller of the Universe, to such Krishna do I pray
 
@@ -3222,10 +2883,6 @@ theypervade and who by the control of passions have conserved their energy after
 वृन्दावनान्तचरमम्बुजकोमलाक्षम्।  
 विष्णुं प्रपन्नजनचातककालमेघम्  
 दीनार्तिखण्डनमखण्डविभूतिनाथम्॥
-
-
-
-
 
 It is stated in Shastras—
 
@@ -3253,8 +2910,6 @@ It is stated in Shastras—
 
  Sri Krishna, the particular name of Sri Maha Vishnu has acquired very great popularity and a
 
-
-
 peculiar glory and high superiority of all the names of God Because out of the four kinds of Avataras, viz, Abhinnavatara, Bhinnavatara, Avishtavatara and Amsavatara, He is the fullest Avatara or Sampurnavatara as per the following authority found in Maha Bharata, Udyoga Parva
 
 कृष्णो हि पूर्णकलया सभूतो लोकगुप्तये।  
@@ -3278,8 +2933,6 @@ peculiar glory and high superiority of all the names of God Because out of the f
  तयोरैक्यात् परं ब्रह्म कृष्ण इत्यभिधीयते॥
 
 (Krishnopanishad)
-
-
 
 (२) कृषिर्निर्वाणिवचनो णकारोमोक्ष एव च।  
   अकारो दातृवचन तेन कृष्ण इति स्मृत॥
@@ -3313,8 +2966,6 @@ peculiar glory and high superiority of all the names of God Because out of the f
 
                         *(शान्ति पर्व १६३-४९)*
 
-
-
  It will be worth noting to find that all people including Vaishnavas, Smarthas and others at the completion of all Karmas conclude them by statingthe words **सर्व श्रीकृष्णार्पणमस्तु** dedicating everything to Lord Krishna
 
  Lord Krishna has fascinated the largest number of people in the world and is adored not only by persons belonging to several cults of Vaishnavism but also by a large number of Saivas, Smarthas and Saktas, not to speak of persons other than those of the Hindu nation, and Sri Krishna has been highly admired as the Great Author of Srimad Bhagavad Gita and the Great Teacher of the essence of philosophies contained therein. He is the Grandmaster of Yogins He is worshipped not only by the nine methods of devotion, but also by other methods, one of them being to love Him as a "Little Son" i.e, by **पुत्र वात्सल्यं** consistently with His very First Childhood at the Beginning of the Creation as per the sloka— **वटस्य पत्रस्य पुटे शयान वालं मुकुन्द मनसा स्मरामि**
@@ -3323,9 +2974,6 @@ peculiar glory and high superiority of all the names of God Because out of the f
 
 **अय नेता सुरम्यान सर्वल्लक्षणान्वित।  
 रुचिरस्तेजसा युक्तो बलीयान्वयसान्वित॥**  
-
-
-
 
 विविधाद्भुतभाषावित् सत्यवाक्य प्रियवद।  
 वावदूकस्सुपाण्डित्यो बुद्धिमान्प्रतिभान्वित॥
@@ -3357,8 +3005,6 @@ peculiar glory and high superiority of all the names of God Because out of the f
 त्रिजगन्मानसाकर्षो मुरलीकलकूजित।  
 असमानर्द्धिरूपश्रीविस्मापितचराचर॥
 
-
-
 गोविन्दस्य गुणाह्येते चतु षष्टिरुदाहृता॥
 
  I now give the horoscope of Sri Krishna which will be interesting from the astronomical historical and other points of view
@@ -3374,8 +3020,6 @@ peculiar glory and high superiority of all the names of God Because out of the f
 Zodiac of Sri Krishna.
 
 [TABLE]
-
-
 
  In this connection I also give the following **एकश्लोकी भागवतम्** which is so popular and which gives in a nutshell the history of Sri Krishna.
 
@@ -3401,17 +3045,12 @@ Zodiac of Sri Krishna.
 प्राणप्रयाणसमये कफवातपित्तै  
 कण्ठावरोधनविधौ स्मरण कुतस्ते॥
 
-
-
  One has to certainly consider the position that he may become absolutely unable to think of God at the time of his death when doctors will be pouring all sorts of uselessmixtures in the mouth and inserting needles on your body in the name of injections and doing operations on you before ever Yama or his Kinkaras think of pricking or kicking you, when your throat will get clogged by phlegm, when your brain will be in the full delirium and when you will be totally unable to speak or pay any attention to the thought of God If you have been leading a good life and secured the favour of God it is possible that you will be engrossed in the thought of God at the time of your death and obtain salvtion as stated in Bhagavad Gita, Chap 8, Slo 5
 
 अन्तकाले च मामेव स्मरन् मुक्त्वा कलेबरम्।  
 य प्रयाति मद्भावं याति नास्त्यत्र संशय॥
 
  Note that one has to lead such yogic life so as to be able to control his mind in such a manner as to concentrate and meditate upon Him at the time of death with a view to get bliss In Gita Chap 8, Slo 9 and 10 Sri Krishna prescribes the following method to be adopted for gaining the above purpose He says—  
-
-
-
 
 प्रयाणकाले मनसाचलेन  
  भक्त्या युक्तो योगबलेन चैव।  
@@ -3427,8 +3066,6 @@ Zodiac of Sri Krishna.
 विना यस्य स्मृया कृमिशत जनिं याति स विभु  
 शरण्यो लोकेशो मम भवतु कृष्णोऽक्षिविषय॥
 
-
-
  May that Sri Krishna, the Refuge and the Lord of Universe appear before my eyes, without meditating on whom men become equal to a beast Just as a pig and the like; without knowing whom men get into the fear of rebirths and re-deaths; and without remembering whom they get the lives of worms
 
  I may add the following sloka for the readers attention—
@@ -3438,21 +3075,15 @@ Zodiac of Sri Krishna.
 
  Unlike the other Avataras Sri Krishna has played such a wonderful part in the annals of History, Religion, Philosophy and Yoga that he has opened the eyes of the world as to how the God has to be worshipped Krishna is worshipped as a Child as Balakrishna He is worshipped along with cows as GopalakrishnaHe is worshipped as one playing the flute asMuraleedhar Krishna or VenugopalakrishnaHe is worshipped with conch and discus **शंम्ब चक्र** etc, as Maha Vishnu. He isworshipped as Yogeshvara, the Master of Yogins and as the Teacher as Gitacharya as propounder of profound knowledge of the essence of philosophy He is worshipped as a
 
-
-
 charotees as Parthasarathy. (of course the Driver of the whole Universe.) He is worshipped as the holder of the Govardhana mountain on the tip of his little finger and who is also worshipped as Virat, the Controller of several globes and whose main residence is in Goloka said to be over and above Vaikuntha.
 
  Think of the glory of Sri Krishna, the Mighty Ruler of the Universe and His Huge, Unlimited, Grand, Blazing Dazzling, Baffling, Terrific and yet Loving Form shown to Arjuna and others by blessing them with the specially capacitated powerful divine vision to be able to see His Whole Form in one glance, so that your veneration towards Him will advance further and further. Worship Him, the Foremost Deity and leave every thing unto His hands, by trusting Him and this is all that can be done in this world and this course itself is the greatest achievement. I may suggest to adore Him by performing His Pooja, with my Srouta Maha Pooja Vidhan provided one knows the Veda Mantras and if one requires a complete set of necessary requisites for the Pooja the same may be taken from my Pati Pooja Vidhan, 3rd edition.
 
  Also perform Archanas of Sri Krishna with Krishna Ashtottara Satanama, Krishna Sahasra-
 
-
-
 nama, Prachanda Krishna Sahasranama, Bhagavatheeya Krishna Sahasranama, being the thousand names of Sri Maha Vishnu inclusive of various Leelas displayed in the ten Avataras described in Srimad Bhagavata, or with the popular Bharatheeya Vishnu Sahasranama, Gopala Sahasranama or Vasudeva Sahasranama, with plenty of fresh fragrant flowers or gold and silver made flowers or real pearls or diamonds and other precious stones or with gold and silver coins and occasionally with a lakh of lotuses just as the Pooja of Siva is performed with a lakh of Bilva tri-petals according to your love, devotion and purse with a liberal mind without playing any duplicity Do not forget the holy basil, the garland of which is worn by Sri Krishna, who is therefore called **तुलसीदास भूषण**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 *\*As regards Sri Krishna's birth, there are slight changes of certain planets in His horoscope and some differences are found which require scrutiny by able astronomers Some say, it was 100 years BK (before Kalı) Viz before the closing of Duapara Yuga i.c in8, 63, 900th year of the Duaparayuga that Sri Krishna made His appearance in the form of a baby and Vishnu as per the following, sloka—*
 
@@ -3461,8 +3092,6 @@ nama, Prachanda Krishna Sahasranama, Bhagavatheeya Krishna Sahasranama, being th
 
 शुक्रस्य स्थिर लग्नके सुखगते सूर्ये विधौ लग्नगे  
 धर्मस्थान गते तु मङ्गलखगे ज्ञेपत्य भावाश्रिते॥
-
-
 
 Also worship the God by offering the following best metaphysical flowers containing the splendid fragrance of noble qualities as wellwhich are so dear to Lord Krishna
 
@@ -3490,8 +3119,6 @@ Also worship the God by offering the following best metaphysical flowers contain
 
  *But in some books it is also found that Sri Krishna was born in 647th year after the Kali Yuga era started I have given the above information just to enlighten my Krishna Bhakta friends*
 
-
-
  These great flowers offered to Him will surely elevate you in the estimation of God
 
  Better to perform the Pada Pooja of that Guru of Gurus and Jagadgurus Though not daily, at least now and again, do perform the Archana, and enjoy the mental and physical happiness for the present and the everlasting bliss in future, consistently with the saying **संसारे किसार कंसारेश्चरण कमलपरिभजनम्।** Note, Sri Krishna is the Guru of all the three Lokas according to following verse—
@@ -3505,8 +3132,6 @@ Also worship the God by offering the following best metaphysical flowers contain
 
 श्रीकृष्ण कृष्ण कृष्णेति कृष्ण नाम सदा जपेत्  
 आनन्द परमानन्द वैकुण्ठ तस्य निश्चितम्॥
-
-
 
 Krishna's Assurance of Insuring your Soul.
 
@@ -3527,8 +3152,6 @@ Lord Krishna as Friend.
  I bow to that True Friend God Krishna who is beautiful, plentiful, and merciful
 
  Don't seek the friendship of those who may become your traitors no matter whether he be a club-friend, a hotel-friend, a theatre-friend, a game friend, a horse orpigeon race-friend, a masonic-friend, or even a theosophical-friend— no use of all these worldly friends, who may surely some day or other disappoint you and your centred hopes in them will be suddenly frustrated If you want a true friend make friends with Sri Krishna, the nicest
-
-
 
 of the nice Person who will be your ultimate Solace and Relief
 
@@ -3553,8 +3176,6 @@ God and His Sweetness.
 
  His face is sweet, His speech sweet, His eyes sweet, His crawling sweet, His garment sweet, and
 
-
-
 Whose smile is sweet, to such Lord of sweetness do I pray
 
 चरण मधुर शरण मधुर तरण मधुर भरण मधुरम्।  
@@ -3575,8 +3196,6 @@ Whose smile is sweet, to such Lord of sweetness do I pray
 पाणी मधुरौ पादौ मधुरौ ^(२)वेणुर्मधुरो रेणुर्मधुर।  
 माला मधुरा लीला मधुरा मधुराधिपतेरखिल मधुरम्॥
 
-
-
  I also pray to Him whose hands are sweet, leg sweet, His playing melodius music on the flute Is So sweet, Whose foot dust also sweet, Whose Vaijayanti and flower garland and gem necklaces sweet and Whose illusory movements (Leelas) are sweet
 
  Thus if one posesses a good command over senses,he may be quite satisfied with the sweet prayer given by me without hankering much after Jalebi, Jangri, Gulabjam, Ladu etc, eatables, which if excessively taken will ultimately produce the much harmful sugar, in your body (diabetes) and you will be subjected to its concomitant carbuncles and will have recourse to insoline injections and operations
@@ -3594,8 +3213,6 @@ Whose smile is sweet, to such Lord of sweetness do I pray
  नासाग्रे नवमौक्तिक करतले वेणुं करे कङ्कणम्।  
  सर्वाङ्गे हरिचन्दनं च कलयन् कण्ठे च मुक्तावलि**  
 ** श्रीकृष्ण कमलापति र्विजयते गोपाल चूडामणिः॥**
-
-
 
 the peacocks, the parrots and the various birds, and beasts, throwing them into lull
 
@@ -3622,8 +3239,6 @@ the peacocks, the parrots and the various birds, and beasts, throwing them into 
 १. नासाकंठमुरस्तालु जिह्वा दंताश्चस्पृशन्।  
  षड्जःसंजायते यस्मात्तस्मात् षड्ज इति स्मृतः॥
 
-
-
 City— where He was born and worshipped as Balakrishna, the Sweet
 
  The above, is one of the forms of praying to God May such Sweet God give us everything sweet and dear to us
@@ -3640,8 +3255,6 @@ Hamchuna Kaz Malik Malak Boode
  European ladies seeing the running race horses with their binoculars give expression to the words "how sweet and how dear he is" to a particular horse and several things likewise Let us ascribe sweetness to the movements of God
 
  May the sweet Baby with its sweet speech, fond of sweets possessing automatically adjustable body with the belly containing Universe and playing balls in the shape of several worlds as His cricket, tennis, badminton and golf help us who
-
-
 
 are like babies with the limited knowledge granted to us according to His sweet-will
 
@@ -3664,7 +3277,6 @@ With His powerful disc and terrible mace,
 Try to personally see His moonlike face,  
 And keep on seeking after His merciful grace**  
 
-                                
 *(LG)*
 
 **कृष्णवर्णं त्विषाऽकृष्ण साङ्गोपाङ्गास्त्र पार्षदम्।  
@@ -3672,13 +3284,9 @@ And keep on seeking after His merciful grace**
 
 ** **I have narrated the subject of devotion to God from the standard stand-point of His being the Holder of Tremendous All-round Powers, the Terrible Commander-General, the Most Revered,
 
-
-
 the Greatest of the Great, the Cause of Creation and our Existence, and the Blesser of all blisses I have therefore not dealt with the popular aspect of His Childish **play**, the youthful **gay**, even with cowherd's **hay,** stealing butter in the **day** and drinking milk and **whey** and saying **nay**, keeping every one at **bay,** come whoever **may,** crushing every demon in the **way,** though they stand in **array,** regardless of **fray**; yet hiding in the house of Nanda with han **grey,** discarding the defrauding priests requiring **pay,** and the selfish Vaishnavas shouting **Jay, Jay** and **Jay** for the sake of Prasadams **tray** and to which they have fallen a **prey,** without caring to sincerely pray. Remember His excellent **play,** while eating **clay**, making the universe **display** (in His tiny mouth) to His mother's utmost **dismay.** Worship Him straight **away** in any form you **may** without causing **delay.**
 
  See the announcement of the salvation army boldly advertised in placards "I am not ashamed' to obtain salvation at the hands of God etc. This christian idea may be adopted even by Krishnian friends, and worked out by means of a journal for the uplift of the Hindu or Sanatanadharma.
-
-
 
  No non-sense of sexual enjoyments attributed to Krishna in his boyhood of the age of about 12 by any ill disposed persons need be considered.
 
@@ -3692,8 +3300,6 @@ the Greatest of the Great, the Cause of Creation and our Existence, and the Bles
  As regards the esoteric and allegorical meanings of the word Krishna, His weapons and His Mantras etc, I refer to my book Gopalatapaniand Krishnopanishads in English The Vedic Krishna Gayatri may be found in the Upanishads and as regards other Pauranic Krishna Gayatıis, they may be referred to Mantra Maharnava etc
 
  I conclude the subject of Sri Krishna by giving the following 'Krishna Darsana Mahatmya" which applies only, if you secure the Darsana or Pranama of thc Original Krishna, but not at the hands of money extracting, misleading and Prasad greedy priests, Acharyas or Vaishnavas respectively that keep on idols with
-
-
 
 the ulterior object of maintaining themselves and who waste the monies of God in enjoying sexual pleasures by making the idol a scape-goat to suit their selfish purposes and beastly desires
 
@@ -3723,8 +3329,6 @@ the ulterior object of maintaining themselves and who waste the monies of God in
 
                       (गोपाल पूर्वतापनि उपनिषद्.)
 
-
-
 श्रीराम।
 
  A few words regarding the All-pervading, All-merciful and All mighty God who is also worshipped with the name and in the form of Rama, will be of much interest to Rama-Bhaktas, and I therefore deal with the subject with reference to the word, the history and the period of Rama
@@ -3748,8 +3352,6 @@ the ulterior object of maintaining themselves and who waste the monies of God in
 \(2\) राशब्दस्तत्पदार्थ स्यात् मकारस्त्वपदार्थक  
   तयोस्सयोजनमसि तत्वं तत्वविदो विदु॥
 
-
-
 \(3\) रा शब्दो विश्व वचन मश्चापीश्वरवाचकः।  
   विश्वेषा ईश्वरो योहि तेन राम प्रकीर्त्तित॥
 
@@ -3770,8 +3372,6 @@ the ulterior object of maintaining themselves and who waste the monies of God in
 
  Accordingly Siva has said while addressing Paivati—
 
-
-
 श्रीराम राम रामेति रमे रामे मनोरमे।  
 सहस्रनामभिस्तुल्यं रामनाम वरानने॥
 
@@ -3785,8 +3385,6 @@ the ulterior object of maintaining themselves and who waste the monies of God in
  Thus when the word "Ra" is pronounced by opening the mouth the sins are expelled, and for fear of the possibility of their re-entry the syllable "Ma" formed by the closing of the lips serves the purpose of a door
 
  Not only this, but also when the name Rama is fixed on to the tongue— the gate— it serves the purpose of Gem Light, throwing light outside the mouth on one side and inside the throat on the other and thus removes the outwardly worldly infatuations and the inwardly ignorance as stated below—
-
-
 
 राम नाम मणि दीपधर, जीह देहरी द्वार।  
 तुलसी भीतर बाहिरो, जो चाहत उजियार॥
@@ -3803,9 +3401,6 @@ the ulterior object of maintaining themselves and who waste the monies of God in
 **नायणाय यदृतेक्षराष्टक यद्विहाय नशिवायपञ्चकम्।  
 यद्युतं भवति मुक्तिद् द्वयंतद्द्द्वयं हृदि विभावयेऽद्वयम्॥**  
 
-
-
-
  It will be seen that the holy eight-lettered Mantra of the Ashtakshari **ओं नमो नारायणाय** is not potent without the vital syllable **रा** as it will become **नारायण**and conseqently not capable of conferring Mukti (Ayana) Likewise the holy five lettered PanchakshariMantra **नमश्शिवाय**useless without the vital syllable **म** as it will become **नशिवाय** and therefore not capable of producing the desired result besides losing its auspiciousness **(शिवं=मङ्गलं)** Thus both the important Vaishnava and Saiva Mantras become fruitless without the letters **रा** & **म** being the living principles of both the Mantras.
 
  In this age of Kali there is no higher Dharma or Duty laid down than to pronounce the word Rama which is the remover of all sins of mankind Hence with great reverence one should always utter the word Rama with its two letters and obtain salvation as stated below
@@ -3819,8 +3414,6 @@ the ulterior object of maintaining themselves and who waste the monies of God in
 
  Further the sweetness of the word Rama is proclaimed as follows—
 
-
-
 अक्षर (आखर) मधुरमनोहर दोऊ।  
 वर्ण विलोचन जन जिय जोऊ॥  
 
@@ -3832,8 +3425,6 @@ the ulterior object of maintaining themselves and who waste the monies of God in
  Apart from what has been stated above regarding the value of the word Rama, it is such that even if one twists the same topsy-turvy and expresses it wrongly he gets all advantages and benefit as per the following instance.
 
  Valmeeki informed Sri Rama that he was formerly a hunter and on an occasion when he came across Sapta Rishis, he wanted to kill them but the Rishis requested him to ascertain whether his family members for whose support he was accumulating sins were prepared to share in his sins He asked them and got a negative answer On his narrating this to Sapta Rishis they advised and initiated him to make prayer with Rama Nama, but Valmeeki forgot the correct
-
-
 
 pronounciation and began uttering **मरा, मरा**, in the place of **राम, राम,**but all the samehe secured the best result and subsequently became the great author of Sri Ramayana (Vide Ananda Ramayana)
 
@@ -3851,8 +3442,6 @@ But God alone comes to your rescue when,
 Hence dissociate yourself before you are gone  
 Note how sweet is son when he is born,  
 But when he gets his mischievous horn (attains majority)
-
-
 
 कूजन्त रामरामेति मधुर मधुराक्षरम्।  
 आरुह्यकविता शाखा वन्दे वाल्मीकि कोकिलम्॥
@@ -3881,8 +3470,6 @@ giving up your infatuation for your wife, son and others**
 
  It is surprising that the belly filling infatuated Brahmins offer their blessings to the infatuated persons to sufier in the midst of infatuation with the wordings **त्रिपीडास्तु दिने दिने** viz, may the three sufferings be daily attending on you— worries due to wife, son and beggars
 
-
-
 वनेच रामो वसुधाच राम नदीस्तरामो न भय स्मराम।  
 इतीरयन्तो विपिने किराता मुक्ति गता रामपदानुषङ्गात्॥
 
@@ -3897,8 +3484,6 @@ giving up your infatuation for your wife, son and others**
 
 **रामेति रामभद्रेति रामचंद्रेतिवा स्मरन्।  
 नरो नलिप्यते पापै भुक्ति मुक्ति च विन्दति॥**
-
-
 
  It is observed in the Shastras—
 
@@ -3920,16 +3505,12 @@ giving up your infatuation for your wife, son and others**
 
  The name Rama is one which has converted a large number of devotees into great souls, particularly in the Mahratta Country, where the great Bhakta Tukaram is said to have gone to
 
-
-
 Vaikuntha directly with his physical body (See the pictures that are available of his Vaikuntha Gamana) We have two great Ramadasas one belonging to Bhadrachalam in the Nizam's Dominions, the other to the Mahratta Country, besides the great Tulasidas whose splendid literary production of Ramayana in pure Hindi language is highly admired by a large section of learned men and translated even in English, German and French languages by European authors Moreover the Ramayana of Valmeeki has been written in English by Mr Griffith
 
  The name of Rama has attracted even Mohammedans, and Kabirdas is one that took into his heart the attachment for Rama in a manner that his devotion was admired not only by the public at large, but also God Rama was pleased with him and conferred bliss on him For the sake of being initiated in the Rama Taraka Mantra, kings have sacrificed their kingdoms like Tanisha Badsha, though a born Mohammedan The following stanza indicates the high order of Ramabhakti
 
 मज्जीव मदनुग्रह मदधिप मद्भावन मत्सुस्व  
 मत्तात मम सद्गुरुं मम वर मोहान्ध्यविच्छेदनम्।
-
-
 
 **मत्पुण्यं मदनैकबाधवजनं मज्जीवनं मन्निधि  
 मत्सिद्धिं मम सर्वकर्म सुकृत राम भजे तारकम्॥**
@@ -3947,8 +3528,6 @@ even Thibet
 
  The word Rama is the Hindu national name of God which when made to ring in the ears and around the physical body has the peculiar magnetic effect of purifying the mind besides stimulating the mental body and the astral body even after the
 
-
-
 physical body of a man becomes dead body so as to enable the post martem lite with its Linga body to shake off the Kamalaukic troubles and Yamayathana tortures and have an easy access to. Vaikuntha through the Parshadas or the messengers of God Maha Vishnu without any more rotting for rebirths in any kind of womb of any life Therefore the name of Rama may be used at the time of death because of the absence of conditions required for using the Pranava Mantra (Om) with its full knowledge and which Mantra ought to be chanted and meditated upon before leaving the physical body by any man of intelligence if he cares to possess the key note of obtaining salvation as stated by the Great Guru Sri Krishna in Bhagavad Gita (Chap 8 Slo 13)
 
 ओमित्येकाक्षर ब्रह्म व्याहरन् मामनुस्मरन्।  
@@ -3959,8 +3538,6 @@ physical body of a man becomes dead body so as to enable the post martem lite wi
 ओतप्रोतसमस्तवस्तुनिचय ओंकारबीजाक्षर  
 
 ओंकारप्रकृति षडक्षरहित ओंकारकन्दाकुरम्।
-
-
 
 ओंकारस्फुटभूर्भुवस्सवरित ओघत्रयाराधित  
 ओंकारोज्ज्वलसिहपीठनिलय राम भजे तारकम्॥
@@ -3977,9 +3554,6 @@ Rama Mantras
 कि तैर्लोभवितानमात्रविफलैस्ससारदुःखावहै।  
 एकस्सन्नपि सर्वमत्रफलदो लोभादिभिःप्रोज्झित  
 श्रीरामश्शरण ममेति सतत मत्रोऽयमष्टाक्षर॥**  
-
-
-
 
  In Skhanda Purana, Valmeeki Ramayana Mahatmyam, the very first stanza also deals with seeking shelter under Rama, without which there is no other refuge in this world
 
@@ -4002,9 +3576,6 @@ Rama Mantras
 प्रकृति पुरुष मन्त्रो मुक्तिमार्गैकमन्त्र  
 सकलनिगम मन्त्रो राम रामेति मन्त्र॥**  
 
-
-
-
  I think I ought to give the Veda Mantra of Sri Rama found in the Rig Veda also—
 
 भ॒द्रो भ॒द्रया॒ सच॑मान॒ आगा॒त् स्वसा॑र जा॒रो अ॒भ्येति॑ पश्चा॒त्।
@@ -4017,8 +3588,6 @@ Rama Mantras
 
  The blessed is Rama and the blessed dame isSitaAttended by her he goes (to the forest by order of his father) Then (paschat) the Jara who is Ravana approaches the sister who is Sita and who is called sister because he ought to have looked
 
-
-
 upon Rama's wife as such as the mother of the Then (the bridge was built, and whole world fire Ravan was killed, and Sita entered into the during her ordeal) Agni (took her up and said that she was pure, and) stood about (abhi) Rama, shining with his brilliant colours
 
 **Rama's Reign and History**
@@ -4029,19 +3598,13 @@ upon Rama's wife as such as the mother of the Then (the bridge was built, and wh
 
  A reference to the planetary conjunctions at the time of Rama's birth and His rule if cal- culated properly by means of astronomical and astrological survey, will give at least about a
 
-
-
 100 thousand years but not a few years before christianity While certain implements and instru ments exhibited in museums out of archeological interest admittedly prove their existence of over 10,000 years and this evidence is sufficient to establish the existence of a civilization earlier than the period of 10000 and more years ago; where is the difficulty in recognising a still older cıvılızation prevailing at the reign of Rama when it is based upon accurate scientific calculations of astronomy? And as such the educated Indians need not be confounded by the confusion created by misleading historians calling as mythology, to such history of Rama with its admirable, ancient civilization of the highest order with all the noble principles of mankind which cannot even be easily imitated today in spite of abundant education with a number of universities
 
  The European authors that are unable to guage the voluminous quantum of Vedas and the number of Sakhas but are only guided by their restricted knowledge of the available portion of the Rig Veda now in print, and those depending on Rajatarangini, the History of Kashmire and some references in Raghuvamsa by Kalidasa are not sufficiently competent to establish precisely
 
-
-
 the period of Rama's date It is certain that they do admit as to the life and adventures of Rama and they further admit that the "Greeks did not acquire any intimate knowledge of India," That being so it is no use their approximately fixing any period they like, whether 13th or 14th century BC The minimum period of 20 years for each reign of kings and fixing 1182 B C as the period of the rule of Damodara, the II, one of the kings of Kashmire, and so also fixing the period of Rama to Sumitra is not a proper thing While Queen Victoria's reign has covered more than a period of 60 years and witnessed the celebration of her Diamond Jubilee, the imaginary average of 20 years of giving for each reign to the ancient kings of India cannot be depended upon Thus fixing even 16th century BC is not the correct method to arrive at a conclusion regarding this most ancient epic Ramayana. It is known to all that Sri Krishna who took His incarnation long after Rama was born about the end of Dwapara. The latest date assigned to Krishna's birth according to ancient authorites viz, the one given in the astrononical work known as Kha-Manikya is 647 A K.
 
  Further the Kuru Pandavas period is definitely
-
-
 
 known as 653 years after Kali Yuga as in Raj Tarangini
 
@@ -4053,9 +3616,6 @@ known as 653 years after Kali Yuga as in Raj Tarangini
  Mr Griffith also concurs with me and says regarding the birth of Rama "I leave to astronomersto examine whether the parts of the description agred with one another, and if this be the case thence to deduce the date"
 
  One has to bear in mind the destruction of a large number of books from time to time, at the several conquests of India and the heavy loss of knowledge caused by the destruction of several Sakhas of the Vedas, and the works on astronomy and astrology, engineeling and Dhanurveda the ancient military science, combined with the applications of Archery, Sastras and Astias and the varieties of electric airships (Vimanas) of several descriptions with automatic arrangements and a good  
-
-
-
 
 lot of literature on various subjects, and how we are handicapped without getting much information regarding history and science But all the same as stated by me, if the movements of planets with their natural rotations on the scientific basis of astronomy are taken into account, we must necessarily come to a definite conclusion as to the period of Rama's Life References by Rishis made in Vedas and Puranas as the Drashtas or the Seers of Mantras should not be confounded with the mention made in them earlier or later in view of the fact and admissions found even by the European authors as to the saint's eyes piercing through the past, present and future, who are therefore called Trikala Jnani
 
@@ -4071,8 +3631,6 @@ Through countless years from Manu's days
 वैवस्वतोमनु नार्म माननीय मनीषिणाम्॥
 
  We know that (Svayambhuva) Manu is the famous law giver and whose laws are respected even today
-
-
 
  The following is the horoscope of Sri Rama which may be interesting to calculate in fixing the period of His birth or incarnation
 
@@ -4095,8 +3653,6 @@ With heavenly marks of grace impressed
 
  Rama was born when five planets were in ascendency with their fullest power and in the Lagna of the
 
-
-
 sign Cancer **(कटक)**, in which there were two planets the Jupiter **(गुरु)** and the Moon **(चन्द्र)** In the 4th house Libra **(तुला)** is the Saturn **(शनि)** In the 6th house Sagittarius **(धनुस्)** is the Descending Node **(केतु)** In the 7th house Capricorn **(मकर)** is Mars **(कुज)** In the 9th house Pisces **(मीन)** is Venus **(शुक्र)** In the 10th house the sign Aries **(मेष)** is the Sun **(सूर्य)**, and in the 12th house the sign Gemini **(मिथुन)** are Mercury **(वुध)** and the Ascending Node **(राहु)**
 
 ** **When we have got the other details on record such as the performance of Sri Rama's Upanayara which took place in the year Parabhava **(पराभव)** Chaitra Sukla Panchami and His marriage was performed on **मार्ग शीर्ष शुक्ल पञ्चमि** with that lady of ladies, and the queen of queens, the fire-like Pativratha— the Great, Sita who was not born viviparous, but came out from the Earth following authority—
@@ -4108,9 +3664,6 @@ sign Cancer **(कटक)**, in which there were two planets the Jupiter **(ग�
 
 **सीतामुखे समुत्पन्ना बालभावेन सुन्दरी ।  
 सीतामुखोद्भवात्सीता इत्यस्यै नाम चाकरोत्॥**  
-
-
-
 
 why should there be any apprehension of mythology in the face of such vivid historical and biographical evidence?
 
@@ -4124,8 +3677,6 @@ why should there be any apprehension of mythology in the face of such vivid hist
 
  The European author's remarks against the highest devoted, faithful and highly cultured and most intelligent Hanuman and his comrades as barbarians are extremely uncharitable and deserve condemnation especially in view of their Darvinian admission as to their heredity
 
-
-
  Look at the notes given below being an extract from the Diary of Rama which will clearly bring out the biographical aspect of Ramayana without alluding to mythology. I do not give the English months as I think it is unnecessary but only the Hindu months
 
 Rama's Diary.
@@ -4137,8 +3688,6 @@ Rama's Diary.
  During the 13th year of Vanavas went to Panchavati
 
  On the 8th of **माघ शुक्ल** afternoon, Her most Celestial, Majesty Queen Sita was taken away stealthily by Ravana. In the month of Ashadha Rama made friends with Sugriva and after killing Vali went to Pravarshana Mountain and stayed there for 4 months Gave strict directions to the
-
-
 
 staff to search for Sita On the 11th of Marga Seersha Sukla Hanuman crossed the sea and arrived in Lanka On the 13th he met Sita in the Asoka. Garden and presentedt he ring to her On the 14th he set fire to Lanka and took Chudamani from Sita and returned and joined his army On the 6th of Marg Seersha in the next fortnight Hanuman returned to Kishkindha, On the 7th, information was publishied of Sita's whereabouts
 
@@ -4154,8 +3703,6 @@ staff to search for Sita On the 11th of Marga Seersha Sukla Hanuman crossed the 
 
  On the 13th day of the Bright Half of Phalguna Indrajit was killed On the full moon day
 
-
-
 of Phalguna Ravana himsell started for war By the 8th of Chaitra Krishna Rama killed all the commanding military officers of Ravana
 
  For 18 days Rama had a severe **\***fight with Ravana and on Chaitra Sukla 14th Ravana was killed by Rama with 31 special arrows
@@ -4170,12 +3717,7 @@ of Phalguna Ravana himsell started for war By the 8th of Chaitra Krishna Rama ki
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
-
-
 \*The renowned Rama-Ravana war of Ramayana commenced on the 12th bright fortnight of Phalguna and ended on the 14th of the dark fortnight of Chaitra, thus occupying a period of 1 month and 18 days Valmeeki could not quote any example to this war and therefore he describes the same in the following manner—
-
-
 
 ceremonies having been performed by His Lordship the Archbishop Vasishtha accompanied by the chaplains that stood in array. When they came to Ayodhya, Rama's age was 41 and Sita's age 32. On the 9th day of Bhadrapada Sita conceived. On Chaitra Sukla 12th Sita was sent of away to Valmeeki Ashrama with Lakshmana. On the 9th day of Ashadha the twins Kusa and Lava were born to Sita.
 
@@ -4201,8 +3743,6 @@ Rama's expressio :—
 हा हा कदानु भवितासि पदं दृशोर्मे॥**
 
 ** **They are not the meaningless and pointless expressions generally blabbered by many without knowing the use of language though in vernaculars.
-
-
 
  Here is the popular stanza being an epitome of the whole history of Rama which will satisfy the busy body westernised professionals who want every thing in a nutshell
 
@@ -4231,8 +3771,6 @@ With flowery trees encircling shade,
 See beyond that feather brake,  
 The gleaming of a lilied late
 
-
-
 Rama's Speech.
 
  His most Gracious, Highest Majestic, Imperial Celestial, and Holiest Holiness, Sri Rama has delivered several speeches before the selected audience the most important subjects such as morality, devotion and philosophy required for mankind His Rama Gita is one of the subjects of philosophy expounded by Him.
@@ -4251,8 +3789,6 @@ Though faults and folly blot his fame,
 Pity and help he still may claim  
 Ever to and and welcome those,
 
-
-
 Who pray for shelter, friends or foes  
 No, yield him, be he proud or meek,  
 The shelter which he comes to seek,  
@@ -4265,8 +3801,6 @@ Rama's Happy Rule.
 
  Rama's great qualities are so praiseworthy that they were really godly, morally manly, truly gentlemanly, sincerely friendly, generously stately and nobly kindly His patience was so marvellously cool that he would have to invite anger to enter in him for killing the wicked demoniac persons and Rakshasas His management of affairs was mostly personal and met with quick disposals without putting the people to engage lawyers and submit long memorials to be thrown away into waste paper baskets People never had to rach their brains for finding properties to be set apart for the sake of payment of taxes by foregoing their comforts and conveniences by sacrificing a decent portion of their income and for any auspicious functions to be celebrated in their houses they had not to borrow monies paying heavy interest for the same, in consequence thereof No troubles from the Corporations or Municipalities or Local Boards
 
-
-
  Rama's supervision was so acute that all matters were disposed of immediately without making anybody to wait, wait and wait till dooms day His treatment to people was extremely considerate and full of mercy and sympathy without relegating kindness to animals and not to men as the organisation of the SPCA of to day without any society for the prevention of cruel treatment to men in the midst of a large number of selfish men
 
  Owing to His Dharmic conduct and truthful character everything was found in plenty, regular umely rain, water sources full, bumper crops; labour and manure cheap, and agriculture in abundance, milk plentiful, no forest troubles, and everything was found strictly in accordance with the Shastra
@@ -4275,8 +3809,6 @@ Rama's Happy Rule.
 गावोऽपि दुग्धसपन्नापादपा फलशालिन॥ (म-नि-तन्त्र)
 
  The gold was so cheap that the currency coin was worth about 300/- rupees Sri Rama possessed the store of Dharma, stock of morality, treasure of knowledge, repository of truth, office of justice and he was the sacrificer of his own
-
-
 
 personal comforts But for his high moral principles and kindness towards subjects and the sincere welfare of the people in his heart he would not mhave ruled for such a long period as 11,000 years maintaining utmost peace and highest order
 
@@ -4295,9 +3827,6 @@ personal comforts But for his high moral principles and kindness towards subject
 **न मिथ्या भाषिण केचिन्न प्रमादरता क्वचित्।  
 न चौरा न परद्रोहकारका न दुराशया॥ ( म-नि-तन्त्र)**  
 
-
-
-
  No vain talk and false speeches, no idlemongering, no thefts, no deceptions, no cheating and no coveting
 
 न मत्सरा नातिरुष्टा नातिलुब्धा न कामुका।  
@@ -4309,8 +3838,6 @@ personal comforts But for his high moral principles and kindness towards subject
 
  The proof of the friendly spirit maintained among the living beings in Ramarajya could be seen in the lion and the elephant drinking water together on the shores of the same river without hurting each other, in the cow and the tiger freely roaming about in the forest with a friendly attitude, the former being able to graze fearlessly without being molested by the latter and in the wolt and the lamb moving closely. People were not to die in early age and young men would
 
-
-
 not succumb to death before old men and this was the rule of the Rule of Rama
 
  Untruth was an extraordinary thing and a rarity No teachers to teach falsehood like some of the lawyers and no false affidavits encouraged No false statement, no false speeches, no false assurances, no false promises, no false hopes held out, no false engagements (with Indians), no diplomatic tactics tantamounting to ultimate dishonesty, no insincerity with the expressions of sweet words Selfishness was never allowed to spring or sprout, but was generally burried down underground
@@ -4319,13 +3846,9 @@ not succumb to death before old men and this was the rule of the Rule of Rama
 
  The heroism of men comprised in actually waking the sleeping tiger in his den and then killing him, unlike the present day Shikar of making a number of arrangements before hand and thereafter shooting the animals in a womanly manner in company with women and getting hold of the dead body of the tiger and gettting
 
-
-
 photographed and exhibiting their false heroism. Many animals such as elephants, horses, dogs, parrots andeven serpents were found to be faithful till a few centuries ago, but to-day see how we find a large number of men faithless, not possessing the good qualities of even animals. Unfortunately even the best breed of horses are fast disappearing with the advent of the motor-car
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 In regard to the matter of the loss of knowledge referied to by me in page 145 I find that several tables for the calculations of the places of the planets are missing from the time of Vikramarha and it would appear that errors are being committed by astrologers for the last thousand (1000) years. It is therefore necessary that the position of astrology and astronomy should be reconciled and calculations arrived at Unfortunately there had been neither nautical almanacs nor Hindu Observatories for a long time 1 comparative study, however, of the Hindu and Western systems will greatly benefit the students of astronomy
 
@@ -4335,9 +3858,6 @@ Wednesday—
 
 **మధుమాసము సితపక్షము  
 బుధవారము "క్షమి కటకము పునర్వసు నక్షా**  
-
-
-
 
 and electricity Scarcely do we come across to day the faithful Arab horse, the juvenile Pegu pony, the Kathiawar dancing horses or the Australian whalers or the intelligent class of parrots, except the circus demonstrations of animals trained for the purpose
 
@@ -4358,8 +3878,6 @@ and electricity Scarcely do we come across to day the faithful Arab horse, the j
 विष्णोरर्धं महाभागं पुत्रमैक्ष्वाकवर्धनम्॥**
 
  There is difference of opinion with regard to Rama's Amsas of Vishnu, some stating as ¼, as ½ some & others as¼ of the Amsa Valmıkı makes one full Vishnu in the **चतुरायतन** of Rama as follows (i.e) Rama half, Lakshmana ¼, Bharata 1/8 & & Satrughna 1/8th making in all the full Vishnu Note that we find the horoscopes of Bharata, Lakshmana & Satrughna, the brothers of Sri Rama, as also that of Sita, given in several works, as such it is a mistake to call this ancient history of Rama as mythology
-
-
 
  Thus I have given the ideal of good nature that generally prevailed in ancient times  
  *But look at the deplorable conditions of the present black age of Kali as noted in Subhashita Ratna Bhandagara.*
@@ -4385,8 +3903,6 @@ and electricity Scarcely do we come across to day the faithful Arab horse, the j
 विद्यानिपुणा क्यमित्यन्ये हृद्या धनिनो वयमित्यन्ये।  
 सत्कुलजाता वयमित्यन्ये तेषु कलि परिपूर्णं मन्ये॥
 
-
-
  While condemning pride Mandodari says to Ravana as per the following Urdu poem—
 
 नाश हो जाता हये वोह जिसको के आता हपे गुरूर।  
@@ -4396,8 +3912,6 @@ and electricity Scarcely do we come across to day the faithful Arab horse, the j
 
  Remember, in those best precious times of the Ideal Civilization all people spoke and wrote the gods' language the pure Girvana unlike the latterly adulterated languages that have been changing from time to time and are supposed to be improving century after century by philologists as they go on tracing the origin and derivations of the words from Sanskrit etc It will be further interesting to find that the then expert philologists were also in a position to study the language of animals which is one of the 64 arts **(चतुष्षष्ठिकला)** that an able man has to learn It is called **(सर्वभृतऋतज्ञान)** Sarvabhuta Ritajnana The wonder was that certain animals were also in a position to make their wants easily understood and obtain comfort and redress, but owing to gradual degeneration, things were changed and again had to improve and within the past few centuries mostly materialistic thought is found progressive We are coming from steamship to railways, railways to motor cars,
 
-
-
 motors to airships according to the development of taste and advancements of the West. At the same time we have given up the study of our military science, Dhanurveda and Gaja and Asva Shastras and Nauka sastra (**नाका शास्त्र** navigation) and Pakshi Shastras Ayurveda the science of medicine was in full swing along with surgery The glory of our Silpas istra (Architecture— **शिल्पशास्त्र**) can be easily seen from the splendid strong spaciously built temples of Tanjore, Madura and several parts of India
 
  From the most ancient civilization prevalent at the time of Rama's rule it is clear that it was full of moral principles comprising all in all religion, devotion, faithfulness, sincerity, love, affection, sympathy, charity, friendly spirit and heroism, so far as men were concerned Only Rakshasas, or whatever race of the South they might have belonged to, were considered to be uncharitable, full of tricks and dishonesty and hence their leaders were killed time after time
@@ -4406,8 +3920,6 @@ Sri Rama's rule had peace and rest,
 Ten thousand years Ayodhya blest  
 The happy land no murrain knew,  
 The flocks and herds increased and grew
-
-
 
 No widowe mourned her murdered mate,  
 No house was ever desolate  
@@ -4425,8 +3937,6 @@ So calm and so happy was the time
 
                                  (ऋ० अष्ट० १ अ० ३ व० ४ म० १ )
 
-
-
  The construction of motor cars, steamships and airships worked out by steam, electricity and Vayu created in a particular manner, can be found in them There were special varieties of Vimanas made for the special use of semi-gods and kings with their special names and for special purposes They were intended to finish the travel of the whole world within 3 days in accordance with the following Rig Veda Mantra—
 
 तिस्रक्षपस्त्रिरहाति व्रजद्भिर्नासत्या भुज्युमूहथु पतङ्गै।  
@@ -4434,13 +3944,9 @@ So calm and so happy was the time
 
                        (ऋ० अष्ट० १ अ० ४ व० ४ म० ४ )
 
- 
-
 It is observed that Asvin played a great part in the constructions of these conveyances contributing towards what is called Jerfery and Turfery, meaning negative and positive
 
  The power of Vayu was so generated, and handled with the particular systems and mechanisms, according to the knowledge, that existed among the ancient people They had their own ideas of the Thermometer, Barometer the chemical and condensing Hygrometers, which were discovered by Sanctorio, Toricelli Mon-de-Saucer, the western scientists in the years 1590 AD 1643 AD and so on. The ancient scientists that were able to drive Vimanas with their own fashion of simplified methods, by controlling the power of Vayu, understood the physical properties of air, and gaseous atoms thereof the elasticity and the temperature
-
-
 
 of the air, the compressibility, the atmospheric pressure the conduction, the corruction, the distribution of terrestrial temperature, the subject of radiation, the dew point, the wind and storms, the fogs and clouds, such as the cirrus, the cumulus, the stratus and the hail and all such details pertaining to Vay uchakra Shastra, **(वायुचक्रशास्त्र)** which was practically mastered by them, but for which they would not have been able to travel from world to world
 
@@ -4456,13 +3962,9 @@ Victorious over the god of gold***
 
  Sri Rama's good name and His goodness and His goodwill has been so greatly admired that a number of Ramayanas have been compiled by several authors after the original Ramayana written by Valmeeki They comprise Adhyatma Ramayana, Ananda Ramayana, Adbhuta Ramayana, Agnivesya Ramayana, the splendid Yoga Vasishta Ramayana, Mantra Ramayana, Moola Ramayana, Kadamba Ramayana, Tatva Sangraha Ramayana, Sata Kandhara Ramayana, Sahasra
 
-
-
 Kandhara Ramayana, Kamba Ramayana in Tamil poetry, Tulasidas Ramayana in Hindi poems, Bhaskara Ramayana, Sahasranama Ramayana, Ranganatha Ramayana, Gopinatha Ramayana and Molla Ramayana in Telugu poems There are also **मौद्गल्यरामायणम्, भार्गवरामायणम्, हनुमद्रामायणम्** in Sanskrit **निरोष्ठगमायण** is in Marathi by Moropunth Ramayana written before Valmeekiis referred to in Buddha charita by Asva Ghosha But we must note that Valmeeki was of the **समकाल**contemporary of Sri RamaHence all importance attaches Valmeeki. There isalso च्यवन रामायण Iunderstand that there is a large collection of 108 Ramayanas out of which 25 are available in a Muth in the north It is said that there is also **जैनरामायणम्** in Prakrit, **बौद्ध रामायणम्**in Pali and even **क्रैस्तव गमायणम्** and **यवन रामायणम्** Only some reference is found in connection with **बोधायन रामायणम्** and **भरद्वाज रामायणम्**
 
  There is also the work called **रामायणसंग्रह** by Narayana Pandit dealing on Dvaita philosophy besides the **रामचरितमानसम्** and so on including several miscellaneous minor Ranayanas &c It is found in books **चरितं रघुनाथस्य शतकोटि प्रविस्तरं** but when you take the following sloka into consideration it will be seen that this refers only to the number of Letters that occur in Ramayana at a rough calculation
-
-
 
 ततस्सवर्णयामास राघव ग्रन्थकोटिभि।  
 एकैक मक्षरप्रोक्त महापातक नाशनम्॥
@@ -4480,11 +3982,8 @@ And the Grihya Sutras of Katyayana,
 The Srouta Sutras of Asvalayana,  
 As also those of Latyayana, (लाट्यायन)
 
-
-
 Without forgetting the Sutras of Satyayana,  
 
-                              
 (शाठ्यायन)
 
 And works of Apasthamba and Maitrayana,  
@@ -4500,8 +3999,6 @@ Finally secure the highest Ayana, (Moksha )
 
  We have also the philosophical works called Ramatapan Upanishad, Ramarahasyopanishad, Ramopanishad and Rama Gita There is one of the best Pooja books known as Ramarchana Chandrika and Ramotsava Ratnakara as well dealing with festivals Read Ramaparıcharya by Vibhishana and Rama Nataka by Arunachala Kavi Read also Rama Chandrika by Kesavdas and Sita Ramashtaka by Ramadas of Bhadrachalam and Dasa Bodha and Samasa Atmaram by Swami Rama Das of Vadgaon or Jambu, the Guru of the Great Shivaji Rama Karnamritam is said to be the ear nectar
 
-
-
 poems Rama Raksha Stotra is generally used by a large number of people for alleviating any sufferings and for obtaining **¹**Rama Rakshana Read Rama Kavacham and other Rama Stotras Rama Hridayam is worth retaining in one's heart I may draw the reader's attention to my humble booklet known as Rama Mala which seems to have been liked by many officials and others for morning and occasional prayers It can be used for Dhyana and Prarthana as well It will serve the purpose of Ramamrita Gutika— **(रामामृतगुटिका)** Read Rama's adventures and His marvellous anecdotes and theరామన్నాట
 
 interesting & Ramannata **बालक्रीडा**of the Bala-Rama (Young Rama) exhibited to the sur prise of Ramajanani(Kausalya) and others
@@ -4514,12 +4011,9 @@ Ramified aptly for the use of
 **Ramean-Ramists**  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
  1 **राम रक्षण** (Sans)— protection by Rama  
  2 **रामामृतगुटिका** (Guj) - a nectar-like small work  
  3 Ramous-having lateral divisions of the word Rama Ramiformed— being the offshoots of the word Rama jumbled Ramified— divided Ramean—Concerning Rama Ramists— the followers and devotees of Rama
-
-
 
  I hasten to proceed to give the various usages being the offshoots of the word Rama, commencing from firstly the propitious Sri Rama, secondly the auspicious Sri Ramajayam and thirdly Sri Ramaya Namaha **(श्रीरामायनम)**
 
@@ -4529,14 +4023,11 @@ Ramified aptly for the use of
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
  1 **रामक्रिया** the Karnatak Raga having three branches viz **शुद्ध, सिधु** & **नाग॥ रामकुण्ड**— also an enclosed spot in Godavari near Nassik  
  2 **रामकली** (Sans)— a raga  
 **   षडूज ग्रहाशकान्यासा पूर्णा रामकली (किरी) मता॥**  
  3 Rama Thamma (Tel)— a parrot, also called Rama Chiluka (రామచిలుక)  
  The easy learning parrot having sweet note, a special specie with blue head, green wings, golden breast, scarlet body and long tail with feathers of a purple colour
-
-
 
 (రామచిలుక) and the large राम नगरी (Mahrathi) parrot (having red wings) if you are rearing them
 
@@ -4550,8 +4041,6 @@ Ramified aptly for the use of
 
  Even a parrot may be considered a better leader, as he leads you towards the path of religion, than the noisy Social Deform Leader, that drags you in the field of sin, by infusing the spirit of going in for spirits, the spirit of sacriligious atutude, and the spirit of inter-marriages by sacrificing the
 
-
-
 singh Visit Rama Mandir in Ayodhya, the **¹**Ramadhama **(रामधाम)** and its rampart, one of the Jerusalems of the Hindus. Ent Rama Prasadam and Ramamritam **(पचामृत)** Visit Ramakot, the village of Swami Ramaprasadji as also ^(**2**)Ramagiri mountain(Chitrakuta) and enjoy the ramble, by having a good Ramna **रामना**(Hindi) travel. See Rama Leela
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -4563,8 +4052,6 @@ national spirit, and the spirit of spiritualism, with the result that an ugly lo
  1 **राम धाम** (Hindi)— The abode of Sri Rama **रामविनानुधामकयुं छे** meaning no place without Rama  
  2 **राम गिरि** (Sans)— a mountain  
 **  (चक्रे ) स्निग्धच्छायात्तरुषु वसतिं रामगिर्याश्रयेषु॥ (निघन्टु)**
-
-
 
 the national heroic play during Dasara Festival in Northern India and the interesting Rama Nataka performed even by Mohammedans of Malacca and Java of the South
 
@@ -4584,16 +4071,11 @@ the national heroic play during Dasara Festival in Northern India and the intere
 
  4 Ramachhagal (Beng)— long beared Goat
 
-
-
 in the false hope of rejuvenation Eat Ramathadu (**रामताडु**Tel) fruit for cooling the system Daily walk atleast 3 Ramaiyas (**रामैया** Guj) i.е4½ to 6 miles Play with a strong round ball, like Ramagotilo (**रामगोटिलो** Guj)
 
  Keep a faithful Ramosi (**रामोसि** Guj. Sepoy) to attend on you and a clever Rami **(रामी**Guj) gardener Decorate the garden with bowers w th Ramaseethala (**रामशीतला** Beng) creepers and even grow some Rama Senaka (**रामसेनक भूनिम्ब** _(![](../books_images/U-IMG-172475703978271.png))Tamil) plant, as also Ramuluka (రాములుక) root for occasional use and the Rama plant, a Lind of cactus for heart tonic Use a Ramaiya **(रामयो** Guj), the trunkless bucket for piccota and have Ramamu (**राममु** Tel) deers in the gardens as also a large number of Ramasalika **(रामशालिक**Beng) buds Enjoy the sight of Ramaka (**रामका** Guj the beautiful ) Ramadhanush (**रामधनुष** Urdu, rainbow)
 
  Give Bhoori or Bhooyasi (**भूरि** or **भूयसि**) at least at one Ram (**राम** Guj an anna) to each Brahmin beggar and half a Ram to each Ramakı (**रामकि** Guj) bairagi women (a wife of an anchorite) Take care of the reckless uncared for Ramagovalia (**रामगोवालिया** Guj ) boys  
-
-
-
 
  Visit Rama Khand (**रामखण्ड** Hin) an ancient sacred place and the Ramakshetra (**रामक्षेत्र**) in the south, as also the Rama temple situated in Ramatek (**रामटेक** Hin) which is also known as Ramagiri (**रामगिरि** Hin) in Nagpur District, as referred to by the poet Kalidas in his **मेघदूत**Kavya in addition to the Ramagiri (**रामगिरि**) known as Compteh Chitrakuta in Bundelkhand. Also visit the place called Ramusha (**रामुषा** Tam) See Ramantali (**रामन्टाली** Mala) the French fort on the mountain and the Ramasila (**रामशिला** Hin) the mountain Rock near Gaya which is considered a very holy place Better to engage the services of Ramoti (രാമൊടീ
 
@@ -4602,8 +4084,6 @@ in the false hope of rejuvenation Eat Ramathadu (**रामताडु**Tel) f
 ) two Malayali servants and also a Ramaka (**रामक** Sans) messenger, say a delivery peon in addition to Ramandi (_(![](../books_images/U-IMG-172475752778272.png))) Tamilian servant Lead a sacred Ramajivan life and maintain Ramarajya administration, the Kingdom of the greatest happiness and security enabling the people to enjoy full freedom and protection.
 
  Make Ramabhajana (**रामभजन**) Take Ramayana Rasa and take Rama Rasayana medicine (**रामरसायन**) Prostrate before Rama Charana (**रामचरण**) and submit to Rama Sarana (**रामशरण**) and avoid Janana Marana (**जनन, मरण**)
-
-
 
 శ్రీ రామశణుశణుక శ్రీరామా శరణు శరణు చిత్త మునిడురా.  
 కోడికి లంతయునిచ్చుచు ఘోగా పదనిపుడు తొలగ గొట్టుము రామా.
@@ -4617,8 +4097,6 @@ in the false hope of rejuvenation Eat Ramathadu (**रामताडु**Tel) f
 चाले शची प्रथम रामण मोढवालाःगाती विवाहकिन्नरियोरुपाला
 
  And with the help of Ramakripa **(रामकृपा)** your triple sufferings due to 3 fevers viz **आध्यात्मिक**
-
-
 
 **आधिदैविक** and **आधिभौतिक** will subside The following isthe definition of the abovesaid three temperatures which have to be tempered by improving the temperamants afte: realizing the temporal troubles and the temporary character of life and by resisting temptations and by temporising the situation by meditating upon God, residing in the temple of your heart
 
@@ -4636,8 +4114,6 @@ in the false hope of rejuvenation Eat Ramathadu (**रामताडु**Tel) f
 
  In addition to constant utterance of Rama Nama take to Rama Taraka Mantra Write the Rama Mantra with the Buiyakshara Ram
 
-
-
 **(बीजाक्षर राम)** on Bhoorjapatra **(भूर्जपत्र)** the leaf or peel of the bark of Ramavallabha (a birch tree—**रामबल्लभ**Sans) Enclose the same in a gold or silver ta ısman and tie it on the arm or round the neck
 
 उत्तिष्ठताशु सफल कुरुतात्मजन्म  
@@ -4654,13 +4130,9 @@ in the false hope of rejuvenation Eat Ramathadu (**रामताडु**Tel) f
 
  Develop Rama Bhaktı and think of Rama even during Ramya **(राम्या** Hin) meaning nights Ramanam **(रामणम्)** also denotes the night time in Mala-
 
-
-
 yalam As a true devotee of Lord Rama become Ramadasa **(रामदास)** with all submission and by performing Pooja of Sri Rama become a Rama Svaka (**रामसेवक** Sans) and get into the rank of Ramaduta **(रामदूत)** like the favourite Hanuman and befriend Rama & become Rama Sakha (**रामसखा** Hin) and Rama Sako (**रामसको** Uriya) like Colonel Sugriva and also try to get treated by Rama with brotherly affection similar to Vibhishana and get promoted to the position of becoming Rama Priya **(रामप्रिय)** dear to Rama, like His dear **रामप्रिया** Rama**(राम )** who occupies the place in the chest of Rama and thence allow to be entered in the heart of Rama and merge yourself with all the atoms of your Atman, the spark of your spirit, in the Hugest of Huge, all playing, all moving, and all prevailing Ramic System of Rama, the Delight of the Worlds and get more delighted by securing the highest Ananda and enjoy the most delightful Brahmananda **(ब्रह्मानन्द)** the perfect bliss like the ever delightful Sachhidananda Moorti— Sri Rama.
 
  I mention this because as the result of followng the directions given herein, one is bound to obtain salvation as per Rama Pratijna **(राम प्रतिज्ञा)** and it is my positive Ramabana **(रामबाण)** prediction for securing Moksha and I confirm this opi-
-
-
 
 nion as Ramala **(रामल)** or a fortune teller regarding the subject of the Greatest Fortune of the Highest Order (Ramala **रमल**=Geomancy)
 
@@ -4668,8 +4140,6 @@ Ramic Ablutions.
 
  Live in Rama Vilas Clean your teeth with Rama Babul (**रामबबूल** Hin) or Rama Kanta (**राम काण्टा** Hin) or Karuvelam (_(![](../books_images/U-IMG-172475770478273.png))) or Baval (**बावल** in Gujarati) plant's stick vegetable brush. Take bath in Rama Teertha **(रामतीर्थ)** and in Rama Kunda **(राम कुण्ड)** an enclosed spot in the bank of Godaveri river in Nassik and in Ramadhara (**रामधारा**Tam) waterfalls and also in Ramasaras (**रामसरस** Tam) lahke Wear Ramakathi (**रामकाठी** Mar) dhoti having white silk border and a cloth dyed in Rampat bark(**रामपत्** Hin) Apply Rama Raksha (**रामरक्षा** Mar) ashes which have been charmed by the recital over them of the hymns of Rama Raksha Stotra and also make Tilak with Ramaraj_(![](../books_images/U-IMG-172475781378274.png))
 _(![](../books_images/U-IMG-172475788478275.png))(**रामरज** Hin the yellow clay used by Vaishnavas available on the bank of Mandakını **(मन्दाकिनी)** near Chitrakuta Take seat on the plank of Ramsar (**रामसर** Urdu) wood Put on the Ram(**रामा** Guj) upper cloth or Dupta imprinted with Rama names all over and wear the necklet containing the Ramanami (**रामनामी**Guj) pendant as also a ring containing the name of Rama besides putting
-
-
 
 on enamelled Rama Pagala (**रामपगला** Guj) the emblem of Rama's feet as the insignia of Rama as also the silk Rama Pavitri (**रामपवित्री** Guj) as Yajnopavita
 
@@ -4680,8 +4150,6 @@ on enamelled Rama Pagala (**रामपगला** Guj) the emblem of Rama's fe
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Definitions of Taraka †
-
-
 
 **तारकम् :— तारक्त्वात तारको भवति, तदेव तारकं ब्रह्मत्वं विद्धि, तदेव उपास्यमिति ज्ञेयं, गर्भ जन्म जरामरण संसार, महद्भयात् सन्तारयतीति तस्मादुच्यते, तारकमिति। (श्रीराम उत्तरतापनो उपनिषत्।)**
 
@@ -4695,8 +4163,6 @@ Definitions of Taraka †
  Therefore turn the beads of your mind first and there-after turn the beads of rosary and states the following Doba—
 
 (see footnote on Page 155 )
-
-
 
 ध्यायामि राममभिराम गिरामरन्द  
 धारामदघ्न मितराममरेर्विराम।  
@@ -4714,8 +4180,6 @@ Definitions of Taraka †
 **मनका फेरत जनमगयो गयो न मनका फेर।  
 करका मनका छोडकर मनका मनका फेर॥**
 
-
-
 though he commands **(शंख चक्र)** etc, weapons Because He is the holder of the bow, He is called Kodandapani **(कोदण्डपाणी)**
 
 जसे चातकाला घनाचेचि पाणी  
@@ -4730,8 +4194,6 @@ though he commands **(शंख चक्र)** etc, weapons Because He is the h
 
  Perform Archana with Rama Ashtottara Satanama with Ramadooti flowers (**रामदूतो**— Sans नागपुष्पीin Hindi and_(![](../books_images/U-IMG-172475798078276.png))in Tamil Tiaridium Indicum) and Rama Sahasranama with Rama Mandara (**राममन्दार** Mar) flowers, a variety of calatropis gigantia or procera and in addition worship Him with Ra-kara Ramasahasranama and Ma-kara Ramasahasranama, just like the Ka-kara Kalika Sahasranama, Ga-kara Ganapati Sahasranama and the Da-kara Durga Sahasranama with the yellow tufted Ramatha (**रामाठा** Mar) flowers (abound in
 
-
-
 Mahabaleshvar hills and called Guidin Cicerophala) and Rama Babhal (**राम बाभल** Ben) flowers, a variety of Acacia along with Rama Tulasi (**राममतुलसी** Sans Ocymum Gratissimum) respectively You may also use Rama Tulasi (**रामतुलसी** Hin) the holy basil having white stalk and put on Rama the Thulisi garland which is so dear to Him and concentrate your thought on Sri Rama stating the following Sloka :—
 
 इन्द्रनीलमणि सन्निभ देह वन्द्यमान चरण मुनिवृन्दै।  
@@ -4745,13 +4207,9 @@ Ramic Naivedyam.
 
  Offer Rama Phal (**रामफल** Guj) red custard apple also called bullocks—heart—fruit, sweet sop- (Annona— reticuleta) Sita Phal (**सीताफल** Guj —
 
-
-
 custard apple), and Maruthi Phal (**मारुतो फल** Mar. Mola Anona Cheri) Rama Rambha (**रामरम्भा** Ben.) plantains, (a large variety) the Rama Bhog (**राम भोग**Hin) mangoes and also the Rama Kela (**राम केला**Hin) the best mangoes of Bengal and Mithila and which name also applies to certain kind of plantain Offer Rama Jamoon (**राम जामून** Hin ), a splendid kind of Jambul fruits(_(![](../books_images/U-IMG-172475809478277.png))) and the Ramasara (**राम सार** Hin Sachharum—sara) sugarcane together with the variety of Ramarasa dalı (**रामरसडाली** Mar), in addition to Rama Anjir (**रामअजीर** Hin) a kind of figs and also the Raman fruits the pomegranates to SriRama
 
  Offer Rama Sagar rice (**रामसागर**Tel) boiled, at least of the quantity of one Ramalingam (லிங்கம்)viz one Marakal of 6 measures and Shakkar Pongal made of Raman Samba (**रामन्शम्बा**Tam) rice and Ramaroti (**रामरोटी** Guj. **मालपुआ**) made of Sita Sal rice Offer also Ramachakra **(रामचक्रा)** made of black gram flour, called Bara or Vada and Vadis containing Ramathil (**रामतिल** Hin white sessamum) and wheat Angakhari containing Ramajamani (**राम जमानी** Hin) Ajvayan (अज्वायिन्_(![](../books_images/U-IMG-172475819278278.png)))Offer cakes made of Rama Jav (**राम जव** Hin) and the preparations of the Ramabilas (**राम बिलास** Hin) food grain Ramaka
-
-
 
 jara **(रामकजरा** Hin) rice also may be used in offering Kesari Bhath Also offer Ramagola, (**रामगोला** Mar) a flour ball of parched rice made up in butter milk See that you also get fine vegetables prepared of Rama Turai (**रामतुरै**urdu ![](../books_images/U-IMG-172475829078279.png)), Rama Thorai(**रामतोरै** Beng ![](../books_images/U-IMG-1724758355782710.png)), Ramuluka (**रामुलुका** Tel) called Brihati (**बृहती**) or brinjals and Rama Nanuva (**रामननुआ** Hin ![](../books_images/U-IMG-1724758487782711.png)कद्दु)together with Rama Bathhua **(राम वथुवा)** greens and Ramam (Sans), the Potherb (Chenopodium album) and place them all before Rama in the Naivedyam
 
@@ -4760,8 +4218,6 @@ jara **(रामकजरा** Hin) rice also may be used in offering Kesari Bh
  Also offer Payasam made of milk of Rama Dhenu **(रामधेनु)** white cow of the type of **कामधेनु** fed by Ramuluka grass and Rami hay See that it contains Ramatha (**रामठ** Mar **आखरोड**) wal-nut along with almonds, pistachios and saffron
 
  Present the above by putting in gold and silver vessels and new earthenware Ramapatra (**रामपात्र** Guj) including Ramayyu plates **(रामैयु)** if required Offer pure light drinking water perfumed
-
-
 
 with kus-kus and rose water, cooled and taken from the pot covered with Raman Buzharu (**रामण वुझारु**)
 
@@ -4776,8 +4232,6 @@ with kus-kus and rose water, cooled and taken from the pot covered with Raman Bu
 
  Let Ramamanees the gem damsels play on musical instruments See that you do not fail to entertain Sri Rama by playing on Rama Veena (Lute.)
 
-
-
  Exhibit best Nritya or dance by the expert **\***Ramajani (**रामजनी** Guj dancing girl) in Rajopachara See that the dance is made by wearing Ramjhole (**रामझोल** Hin. Pazeb) a toda ornament producing harmonius jingling sound
 
  Offer Mantra Pushpa with Vedic Rama Mantra and †Rama Gayatri with Rama Ban **(राम बाण)** etc, varieties of flowers above mentioned to Rama and also to Ramapatni **(रामपत्नी)** with Sita Gayatri and portions from Sitopanishad, to Lakshmana with Lakshmana Gayatrı and quotations from Seshopanishad and to Hanuman with Hanumath Gayatri etc You may read Hindi poetry composed on Rama by Ramakavi **(रामकवि)** and any fine poetry in the metre of Ramageethi having 36 letters or Matras, as also in Ramaleela metre
@@ -4786,18 +4240,14 @@ with kus-kus and rose water, cooled and taken from the pot covered with Raman Bu
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
 **\* रामजनी सन्यासिनी पटुपटवा की बाल।  
  केशव नायक नायिका सखि कर ही सबकाल॥**
 
 **† रामगायत्री**  
 
-
 **दाशरथाय विद्महे सीतावल्लभाय धीमहि तन्नो राम, प्रचोदयात्॥**
 
  Sita and Lakshmana's Gayatri also may be used
-
-
 
 Rama Sakshatkara Mantras ending with**"तस्मैवै नमो नमः"** uttered by Brahma as mentioned by Yajnyavalkya referred toin RamottaratapiniUpanishad
 
@@ -4817,8 +4267,6 @@ Ramic Prarthana.
 
  A word regarding lotuses. Look out also to get lotuses for Mantra Pushpa and Prarthana
 
-
-
 which are so dear to Lord Lakshmipati that loves them Lotuses are also called Tammulu (తమ్ములు) in Telugu and so also the younger brothers are called "Tamnulu" Sri Rama having looked upon Vibhishana, as His younger brother and treated Sugriva also similarly, though both of them were the younger brothers of His enemies Ravana and Vali, the rising sun looked towards lotuses of the world, which were his Tammulu, which cannot bloom without his rays, on the morning on which Rama started from Sethu for war The following Telugu stanza deals with both the classes of Tammulus in a curiously interesting manner—
 
 తిమ్ములలో కోన నీ వ్రనొకతమ్ము 2 వంచువిరోధి తమ్మునిక్షా  
@@ -4829,9 +4277,6 @@ which are so dear to Lord Lakshmipati that loves them Lotuses are also called Ta
  Keep all Pooja Samans in a nice box, made of Ramatejpat (रामतेजपात्) wood and see what best use can be made of Rameshu **(रामेषु)** which in Hindi means a kind of **ईख्र**
 
  Decorate a nice Mantapam— Arbour, with Rampion (राम्पियां Rfe) flowers, viz, Raiponce  
-
-
-
 
 bell flowers, and perform the Pooja of Ramatanka **(रामटङ्क)** which is called Ramating Mohar (_(![](../books_images/U-IMG-1724758647782712.png))) in Tamil, containing Rama Pattabhishekam en-graved on it, on Dhanatrayodası **(धनत्रयोदशि)** day, the 13th day of the waning fortnight of the Asvin month and as the result of the Pooja, you will get plenty of Ramaprataps **(रामप्रताप)** రామప్రతాపము
 
@@ -4848,15 +4293,11 @@ bell flowers, and perform the Pooja of Ramatanka **(रामटङ्क)** whi
 
 ) profit in the year Also occasionally make Pooja of the goddess Ramajayanti **(रामजयन्ति)** together with Ramasvasrı **(रामस्वसृ)** Parvati Offer Naivedyam to Mahalakshmi by placing large delicious Rambour (**राम्बूर्** Fre) apples **(बृहद्वदरीफल)** and Ramaquin (**रामक्यां** Fre) cakes made of cheese in golden Ramasse-miettes (**रामास्मियेत्** Fre) tray Give Dakshina to Purohits one Rama **(राम)**— a covert name for one rupee in Marathi and one Sita, i.e, half a rupee to Sumangalees
 
-
-
 Rama Pada Teertha— राम पादतीर्थम्।
 
  Sip Rama Pada Teertha, a real Ramarasa(**रामरस** Sans) and get purified thereby and receive the best blessings of Rama by His Ramavara the Rama's boon (రామవరము), so that you will be in a position to give a heavy Ramatola (**रामटोला** Mar) blow to Yamahınkaras, producing a loud Ramaratta (**रामरट्टा** Mar.) sound which will certainly frighten them to run away and Ramadootas **रामदूत** will receive you with much consideration and respect and will take your soul directly to any place of bliss you like or Vaikuntha, the Ramanivas or Ramadhama **रामधाम**proper, throughthe Grand Express ArchiradiTrunk Road or Devayana Mail in one of the splendid airships, specially manufactured and suitable to any atmosphere and able to cross any region, without allowing to be molested by Yama or his ervants You may either Join away in the Light Body of God Rama with a rapid photographic flash or stay for such time as you may be destined without recourse to Dhoomadı Marga owing to Ramapratap, the splendour of Rama according to the assurance of Ramavakya **(रामवाक्य)**
 
  I have already dealt with the subject of the holy foot water of God in page 84 of this book,
-
-
 
 yet in connection with the Rama Pada Teertha also, I am inclined to give further authorities on the subject As per Sandilya Sutra No 67, theimportant work on Bhakti—Meeramsa, We find—
 
@@ -4874,8 +4315,6 @@ yet in connection with the Rama Pada Teertha also, I am inclined to give further
 तिस्र कोट्योर्धकोटी च तीर्थानि भुवनत्रये॥
 
  But God's Pada Teertha excels all the 3½crores of Teerthas situated in the three worlds It is an instrument, that enables the man to float off the Samsara
-
-
 
 **गोविन्दचरणद्वन्द्व मधुनो महदद्भुतम्।  
 यत्पायिनो न मुह्यन्ति मुह्यन्ति तदपायिन॥**
@@ -4897,8 +4336,6 @@ yet in connection with the Rama Pada Teertha also, I am inclined to give further
 
  Instead of man spoiling the system of his body by drugging with medicines against the fine principles of science and getting all kinds of disadvantages due to drugs, it is better to drink the medicine of Rama Rasayana by following the rules of
 
-
-
 hygiene and Law of Nature in view of the fact that in spite of any kind and any number of medicines, the man is bound to pass away from this world, as per the stanza given below—
 
 इद शरीर परिणाम पेशल पतत्यवश्य श्लथ सन्धि जर्जरम्।  
@@ -4907,8 +4344,6 @@ hygiene and Law of Nature in view of the fact that in spite of any kind and any 
  Oh! bad-minded selfish fool, your body is bound to undergo the changes in system according to the Law of Nature and is bound to fall down owing to death and the usual decay Why spoil your body by taking medicines which are mostly palliatives and only convert one disease into another? Take the medicine of Rama (Krishna) Rasayana, as Rama's help is essential to get you all energy and vitality even if you take the medicines prepared and prescribed by the best of doctors Remember that the latest advanced scientists advocate only naturopathy by condemning all schools of medicine such as allopathy, homeopathy, chromopathy, hydropathy and electropathy
 
  Firstly understand the value of Ramapada **(रामपद)** the word Rama, that serves the purpose of a stepping stone in procuring Rama Pada **(रामपाद)** Rama's Feet and gradually secure Ramapada
-
-
 
 **(रामपद)** the abode of Sri Rama, described in the Vedas as**तद्विष्णोः परमं पद** which you will procure quickly by your realising the miracle of Ramapada Seva **(रामपादसेवा)** and the sanctity of Rama Pada Teertha, **(रामपादतीर्थ)** which gets you (**रामता** Mar) or Ramaship viz, the virtuous qualities of Rama and ultimately obtains Ramapadavi (**रामपदवी**) the very Ramatva (**रामत्व** Hin ) viz., Sayujya as per the following authority of RamatapaniUpanishad **रामतापनी उपनिषद—**
 
@@ -4924,8 +4359,6 @@ And bring them back from Yama's hall.
 
  See how Rama conferred boons upon his duti- ful servants and warriors who were killed in the war as per the following :—
 
-
-
 Their strength repaired, their gashes healed  
 Whose torrents dyed the battle-field  
 Restored from Rama's dark domain  
@@ -4937,8 +4370,6 @@ The Vanar regions filled the plain
 
  It is desirable to secure the pictures of Rama containing thousands of names of Rama written therein and preserve them as curios
 
-
-
 **श्री राम रामेति जना ये जपन्ति च सर्वदा।  
 तेषां भुक्तिश्च मुक्तिश्च भविष्यति न सशय॥**
 
@@ -4946,8 +4377,6 @@ The Vanar regions filled the plain
 
 भजे लक्ष्मण प्राण रक्षाविदक्ष भजे तोषितानेक गीर्वाण पक्षम्।  
 भजे घोर संग्राम सीमाह ताक्ष भजेराम नामालि सप्राप्त रक्षम्॥
-
-
 
  Write, write and write Rama's names on fine Ramette (**रामेत्** Fre.) note paper, whatever the number of Rame (**राम्** Fre) meaning reams of paper may be exhausted and Ramasser (**रामासर** Fre) meaning, gather all information pertaining to Rama like Ramandadı (రామండాడి) congregations.
 
@@ -4967,8 +4396,6 @@ And get peace and prosperity to pour like rain.
 
  Though according to the derivation of the word **रामयतीतिरामः** it is clear that He is everywhere
 
-
-
 yet, when Gajendra was extremely suffering from the agony due to the clutch of the technically law-discussing omnivorous crocodile and felt utterly hopeless and much disgusted, he began to accuse the Omnipotent and Omnipresent God; so much so that he expressed a serious doubt as to the very existence of that all pervading God and stated as follows—
 
 కలడందురు హీనులయెడ  
@@ -4981,9 +4408,6 @@ yet, when Gajendra was extremely suffering from the agony due to the clutch of t
 అంతా రామమయం ఈ జగదంతా రామమయం॥
 
  Note that the all-pervading powerful Rama seated from His Universally and Automatically situated "Everywhere" Throne makes every one to bow Him even unconsciously and gives every one whatever that pleases Him according to the services rendered to Him as per the popular Hindi saying—  
-
-
-
 
 रामझरूखेबैठके सबका मुजरालेत।  
 जैसी जिस्की चाकरी वैसा उस्कृदेत॥
@@ -5000,15 +4424,11 @@ yet, when Gajendra was extremely suffering from the agony due to the clutch of t
 
  It is regrettable that club has become a substitute for a temple, and service to God is converted into service to belly and in some instances it can be said to be a dignified toddy-shop along with its being a rendezvuous for discussions resulting only in No Rehef to countrymen but cosmopolitan ideas are misapplied in carrying out the imitation of European life, and many of their good things are lost sight of, such as their conservatism of keenly attending to service in
 
-
-
 church on all important days and their promptitude, punctuality etc From the king to peasant they attend church service on Sundays, X-mas days and even on coronation days, whereas many of our educated men of status and position think it beneath their diginity to go to temples, which they think are intended for the illiterate folk Though holders of cosmopolitan views, many a European does not like the European ladies marrying Indians and the ladies so married are not admitted in society The Indian who expresses cosmopolitan views has no stamina to correspond with Europeans of status and position to enter into matrımonial relation with his son or daughter The utmost cosmopolitan work turned out is by taking to the liqours and disagreeable animal food encouraging Jiva Himsa and smoking of cigars
 
  Look at the striking paragraph, published in the "Sunday Times" of the 4th June 1933, page 8, coloumn 3. under the heading of "Sodden with Drink" from which will be observed the effect of the modern civilisation and the pleasures of society.
 
  "Night after night they drink"says Dr. Salter M P, "and sitting in the smoking room
-
-
 
 of the House of Commons soak all evening until they become stupid"
 
@@ -5020,28 +4440,19 @@ of the House of Commons soak all evening until they become stupid"
 
  Don't have recourse to Ramaduhai (**रामदुहाई**Hin & **रामनी आण** Guj) i.e, taking oath on Rama's name Strictly stick to true speech like Ramavachana (**राम वचन**Guj) and as per Ramavachakam (![](../books_images/U-IMG-1724759119782714.png)) but if you are given to speak untruth, perhaps you may have to become a. Ramajana (**रामजन** Hin) or a Varnasankara or take the life of a Ramcat (Eng) in the next birth Who knows you may not become a dog and drag the Ramase (**रामास** Fre) cart used by Esquimos on the ice-bergs near the north pole?
 
-
-
  Neither speak untruth nor submit yourself to the arrows of Ramila **(रामिल**) the Cupid as you have to control the senses for getting Vyragya and developing Ramabhakti **(रामभक्ति)** Do not commit any sin which may subject you to be attacked by Ramakka (![](../books_images/U-IMG-1724759222782715.png) Tam) a kind of pox Avoid the trade of Rama, meaning indigo in Sanskrit which is against Shastras.
 
  If you wish to become Ramnable (**राम्नाबल** Fr.) viz, reclaimable, you will have to perform Prayaschittams and make Ramabhakti**(रामभक्ति)** and only by uttering his names and seeking his favour your sins will be washed and your situation becomes Ramandable (**रामान्दाबल्**Fre) i.e repairable In fact the Rama-nama is a substitute for a number of (krichhras) **कृच्छ्र**and when one does not find the requisite, quantity of gold or silver to be given in connection with Prayaschittam ceremony he can utter the names of God in its stead, and derive the requisite virtue.
 
  Don't adopt the modern civilized methods of speaking untruth as there is no greater sin than that Leave it to such of those educated men having black heart along with black coat, who take pleasure in speaking untruth and keep on encouraging the same and fomenting strife and thereby
 
-
-
 earn money on one side and spend away in diabetes on the other God save the people from the hands of those, who are the Teachers of Untruth and who are often found indulging in various technicalities What a wonder that the law market has become full of law touts, even having no holidays during principal days Sunday is the day on which mischievous work is more vigorously turned out Parents' ceremonies is a forgotten empire. Many of these selfish lot of men will only **टीच्** you **अनीति** butsubsequently **चीट्**vou and practice Ramailage (**रामिलाज्** Fre) on you, meaning scrape off even the hair of your skins until you become totally penniless Never submit to their Ramadouer (**रामदोर्** Fre) or cajolaries Carefully watch their shrewdness and the plans of deception which are practised in a nice manner like the Raminagrobis (**रामिनाग्राबिस्** Fre) the Grimalkin How deplorable it is when we find the continuous rampancy (Eng) and the over-spread of such men that has brought ruination of many people and families. Do not even look at them, but treat them as Ramji (**रामजी** Per.) decoy birds, who are always engrossed in their refined ways of decoity It is hoped that Rama will soon reform the rougishness of the wrong men running in the world, robbing
-
-
 
 the people by rubbing on any side they like for rupees, annas and pies, which alone is their motto or Ramath Gamath
 
  So long as you are connected with such men, it is no use of annointing Ramollissante (**रामोलिस्यन्थ्** Fre) emolient to the hair and for the body or applying Remollissement (**रामोलिस्मेन्थ्** Fre) to soften the brain as it will be subjected to worries and annoyances due to the associations of demoniac persons
 
  Avoid hanging upon these cunning men, who make use of you as a tool to gain their machinations in your name under certain privileges and in the name of instructions, for which you are not responsible You should also observe as to the wrong done to you by some by secretly giving out your facts to your opponents thougn engaged by you Instead of spoiling your time and money in bad ways sacrificing all noble principles and submitting yourself to all humiliations at the hands of these crafty men and knocking about to their houses like a dog and carrying heavy bundles like an ass even by sacrificing your ablutions, prayers and the duty of worshipping God how peaceful and honourable will it be to become a Ramapanth (**राम्पान्थ्** Fre) of Rama viz,  
-
-
-
 
 Ramadasa instead of becoming a slave of these men and others
 
@@ -5059,8 +4470,6 @@ Ramadasa instead of becoming a slave of these men and others
 मज्जन्मन फलमिद मधुकैटभारे मत्प्रार्थनीय मदनुग्रह एष एव।  
 त्वद्भृत्य भृत्य परिचारक भृत्य भृत्य भृत्यस्य भृत्य इतिमाॅ स्मर लोकनाथ॥
 
-
-
  Thus become a true slave and servant of God, unlike the methods of adopting the meaningless official forms, which are followed only under compulsion, like "Your most obedient servant," the sincerity of which is known to all, and the wordings of addressing any person as Dear Sir", "Yours sincerely" and even "Fraternally", the forms amounting to mere formality without conveying true meanings thereof.
 
  Look at the Mahatmya of those becoming the Dasas of God as described in Padmottara Purana:—
@@ -5072,8 +4481,6 @@ Ramadasa instead of becoming a slave of these men and others
 
  If there are any disputes in the family they may be referred to a Ramabata **(रामबटाइ)** arbitration, rather than depending upon a number of Judges changing from time after time and keeping up the endless litigation concomitantly with the endless Samsara to continue for ever, if not for
 
-
-
 generations like Ramachaki **(रामचाकी)** the whirligig and the whirlpool.
 
  Do not use Ramathhathhiyun articles (**रामठाठियुं** Guj) or live in a dilapidated house
@@ -5082,15 +4489,11 @@ generations like Ramachaki **(रामचाकी)** the whirligig and the whi
 
  There are several Ramayanas composed in Gujarati poems, such as those by (1) Giridhar, (2) Vishnudas and (3) Uddhava, and the other known as Ahalya Ramayana These are so beautifully sung in different Ragas that Bhaktırasa and Veerarasa exuberantly ooze out like streams of water, and people were found to be kept spell bound while hearing the Ramayana, Mahabharatha, and the popular Okhaharan, etc But unfortunately since recent times people having become mad after becoming Matriculates and Graduates, with the main idea of entering into service the taste
 
-
-
 for oriental literatures has died out. What a pity that in the face of "hand to mouth" eking out livelihood through the means of English education and in spite of numerous disappointments without getting service in Government or other public institutions, still people have taken a fancy to this formal machanical education of a limited scope.
 
  Just as Kabir was the Mohammedan Ramabhakta there was also an other Mohammedan Ramabhakta known as Suleman Bhagat The names of Sita and Rama have been somehow or other very popular and they seem to have been imbibed, from the time one is in the womb of his mother In every village Ramayana was being read and heard every year and many a Brahmin families lived thereby. No doubt many Kavis, Sanths, Vyasas and others performing splendid Bhajana are not to be found to-day to our regret.
 
  Show regard to a Ramayani(**रामायणी** Guj) the Ramayana Expounder and respect the ancient Rishi Ramoda (**रामोद** Hin.) Teach Ramayana to boys and girls and give instructions to those who are desirous of learning any of the works on Rama given by me in pages 168 and 169 of this book.
-
-
 
  The name of that one God Rama who took Ramavatara find place in all the 18 Puranas from which it can be gathered as to the extent of his popularity The following is the Sanskritised Gujarati stanza, which I quote here from the Giridhar Ramayana :—
 
@@ -5103,16 +4506,12 @@ for oriental literatures has died out. What a pity that in the face of "hand to 
 
  Dont become indifferent regarding important matters by uttering the words, RamayaswastiRavanayaswasti **(रामायस्वस्ति रावणायस्वस्ति)** meaning let Rama prosper or Ravana prosper, as no sane man would like to have Ravanarajya, full of
 
-
-
 injustice, misrule and anarchy besides extraordinary exhorbitance. Always expect to enjoy the happiness of Ramarajya and prostrate before Him as under—
 
 श्रीरामचद्र रघुपुंगव राजवर्य राजेन्द्र राम रघुनायक राघवेश।  
 राजाधिराज रघुनदन रामराज भोरामभद्र सुरराजनमोस्तु तुभ्यम्॥
 
  Thinhing that I may be doing some substantial service to the cause of Rama and Ramabhaktas by entering deeply into the subject of Ramacharcha **(रामचर्चा)** which has however developed itself into a Ramakahani(**रामकहानी** Hin.) a long story as it were But when my Ramaabhimani **(रामाभिमानि)** and Ramanamabhimani **(रामनामाभिमानि)** friends will take into account that the labour spent by me in this direction is worthy of consideration in view of the deep interest theyare bound to evince owing to their love for Rama. I hope they will not feel it cumbersome or tedious but the more they come across with the Ramic usages the greater will they like them By investigating and introducing the Ramic usages derived from the word Rama, as a devotee of Rama I thought, I will be following at least a portion of the work of Valmeeki who though expressed Mara-Mara in the place of Rama-Rama
-
-
 
 yet derived the virtue of uttering Rama-Rama I am sure that Rama Bhaktas will like this long Rama nama Malika given by me though the same may appear to be like Ramaragada (**रामरगडा** Mar) owing to the overcrowding of the words connected with the name of Rama Somehow or other I have entered into this Ramasamudra **(रामसमुद्र)** which I have to rammer through in the ears of Rama's devotees by the grace of Rama, along with the Samsarasamudra.
 
@@ -5122,15 +4521,11 @@ yet derived the virtue of uttering Rama-Rama I am sure that Rama Bhaktas will li
 
  The utterance of the word Rama is the passport to get at the Rampe (**राम्प्** Fre) viz, the
 
-
-
 flight i.e. the ladder that leads to Ramadham Hence it is essential to be Rampante (**राम्पान्थ्** Fre) and study the Ramic literature to gain the purpose of becoming a Ramankandan **(ராமன் கண்)** the seer of Rama (like the seers of Mantras the Rishis) and obtain salvation
 
  One may even prostrate before thethree Ramas viz., Sri Rama, Balarama and Parasurama along with the main Rama of Trimoorthi Swarupa the controller of the Trinity that likes to be called Sitarama, Janakirama etc. He is also Jayarama
 
  Owing to the popularity of Rama, the word Rama has been connected with many names There are several proper names such as— Surya Ram, Govind Ram, Bala Ram, Ichha Ram, Mansukh Ram, Daya Rama, Siva Ram, Sankar Ram, Raja Ram and so forth, which are well known to the people The name given to one of the intelligent commedians in the court of an Andhra king was called Tenali Rama who is also known with reversible designation Vikatakavi**विकटकवि** 5 4 3 2 1 and it so happens that a glutton is called a Sapat Rama and a squat figure known as Ramassee **(रामासी)** in French is called a DadiRaman and is generally applied to a person
-
-
 
 of lethargic temperament Dandaga Raman is one who claims his pay without doing work. Note that one of the names of the Mohammedan months is called Ramadhan (**रामधान्** Urd.) and a machine for driving stone is named a Rammer (Eng) and the barrel of a gun styled a Ramrod in English language
 
@@ -5144,9 +4539,6 @@ of lethargic temperament Dandaga Raman is one who claims his pay without doing w
 
 **दुखे भजे सहु रामने सुखे भजे न कोय।  
 सुखे भजे जो रामने दुख शुं करवाहोय॥**  
-
-
-
 
  The following popular song sung like national anthem by Ramabhaktas is also given below—
 
@@ -5171,8 +4563,6 @@ of lethargic temperament Dandaga Raman is one who claims his pay without doing w
 
  Remember that you are bound to be carried. away in Ramadoli (**रामडोलि** Guj ) or Rama palan—
 
-
-
 quin when you become forcibly Ramasaran (**रामशरण** Guj) i.e., meeting with death, by giving up all your wealth, cars, chariots, elephants, horses and lands and note that the only person that will accompany you is Rama and none else Ramabandhu is the only Bandhu that will follow you and the rest of the Bandhus though blood relatives will stop away at a distance and be of no help to your soul Your kinsmen and friends can only create a Rampage (**राम्पेज्** Eng) meaning a wild commotion and that too for a while and soon after your body is burnt or burried, they begin to forget you and you are gradually totally forgotten Sri Sankaracharya has appropriately said the following stanza which I give hereunder with slight modification for the best consideration of my readers having regard to the fleeting nature of Samsara
 
 किवानेन धनेन वाजिकरिभि प्राप्तेन राज्येन कि  
@@ -5182,29 +4572,21 @@ quin when you become forcibly Ramasaran (**रामशरण** Guj) i.e., meeti
 
  In view of the fact that great importance is attached to the word Rama and being connected with ever so many things including the last Carrier better if possible to use Rambans bamboos (**रांबांस**
 
-
-
 Hindi.) and ropes made of Ramasanda (**रामसंडा** Hin) grass to be in coherence with the Ramadoli, even in regard to Vaikuntha Yatra
 
  One has to bear in mind the impermanence of the world with all its paraphernalia, wealth and power, the fleeting nature of life and the degrading influences of senses and also a numberless unforeseen miseries and troubles that beset the life of any man from cradle to grave. One is sure to be disgusted when he comes across with the vexatious disappointments of life with surprising constant breaches of promises and trusts by the worldly minded friends and relations Undoubtedly there are two stupidities attached to the general biain common to men who are fallen into the pit of Maya with its peculiar misleading attractions and attachments and secondly the idea of enjoying longevity of life in spite of crippled conditions.
 
  It is surprising to see the people pursuing their submission to the influence of the infatuations of the illusory and ill-directing Maya that reduces any able man even into an idiotic position. It is indeed a great wonder that in spite of being cheated by an untrustworthy wife and unworthy sons, fraudulent priests and faithless servants, the man
 
-
-
 gets entangled again and again in the whirligig, and the disappointments become all the more keener, while ingratitude takes the place of gratefulness, uncharitable treatment is substituted for kindness, heartless insinuations are returned for sympathetic considerations and Adharma plays an active part for religion in view of the modern changes goingon These damnable qualities can be attributed only to the devilish Kalas (**कला—** arts) of the demoniac Khalas (**खला—**wicked) and their Chhalas (**छला—**deceptions) which are the Balas (**बला—**Pests) due to the Kalı of the 20th century that throws you in the tangle of annoyances In spite of butcherical treatments and deadly defeats of hopes, people dance at the inconceivable Mayavic influences without being able to realize the exact point of truth
 
  Under these circumstances we cannot do better than to surrender to God's will as it is no use depending upon our wills Even the wills though reduced in writings and executed in stamp papers and registered by consulting special law books on Wills cannot be depended upon as they are only subjected to disputes in the refined law courts and ultimately dwindled down and hardly acted upon We are therefore bound to submit to the proverb "Man proposes God disposes"
-
-
 
  One of the greatest wonders of our existence also consists in our not being able to know where we were and where we are when we are fast asleep The sleep is said to be the brother of death as stated in Koran We must know that the body granted to us by God is only an instrument for doing good work and obtaining salvation as per the Sanskrit saying
 
 धर्मार्थकाममोक्षाणा भजन मानुष वपु।
 
  It is not only the vessel or utensil to be made use of for the four important requisites of life but also utilised as the vessel the boat for crossing the ocean of Samsara A Gujarati song given below will point out the advisability of offering prayers to Sita Rama and uttering the names of Rama and Krishna and to take advantage of the opportunity afforded to men, possesing the high human life instead of having been shelved into any animal life It clearly indicates as to how the man slowly but surely loses his life every minute and second after second at the same time pointing out as to the death god seated in the body gradually eating away the body and the life and unnoticeably causing your death without fail.
-
-
 
 सीता रामने भजीने ल्हावो लीजियेरे, मुखे राम कृष्ण राम कृष्ण कीजियेरे (सीता)  
 तारो अवसर पल पल जायछेरे, ताराघटमा बेठोने काल खाय छेरे (सीता)
@@ -5216,16 +4598,11 @@ gets entangled again and again in the whirligig, and the disappointments become 
 
  Taking into consideration that to think of Rama, to utter the name of Rama, including those twisted names of Rama together with the shades of the word Rama in varieties of ways,
 
-
-
 and to know closely of Him,and to gain only His favour is the only bestthing, I could do, I allowed my mind to be saturated with the Ramic names and I got into the strain of Ramadhoon (**रामधुन** Guj) and completed the above compilation of this special treatise with all Ramish (**रामिष्**Per) cheerfulness The modern Civilised people generally take to the hobbies of making collections of several kinds of curiosities such as stamps, ancient coins, rare precious stones, books, manuscripts, and so forth, whereas myself having already dealt with the above items exhaustively now entered into the field of making the collection of Ramic names for the benefit of God's servants and Ramis (**रामी** the lovers) of Rama and I hope Rama will be pleased with my humble work and give me at least a small space of the size of a millimetre in His rosy lotusy feet
 
  As regards the names of Rama, I wish to point out that we have a regular Vrata called **राम नाम ग्रहण व्रतम्,** in which one makes the Sankalpa as, **मम एतज्जन्म जन्मान्तरार्जित सकलदुरितोपशम पूर्वक, अक्षय्य विष्णु लोक निवास सिध्यर्थ श्रीराम नामोच्चारण रूप व्रतं करिष्ये।** This Vrata is observed for a period of 12 years
 
  Besides Rama Navami Vratam and Rama Nama Vratam we have also Rama Nama Lekhana Vratam viz, writing of Rama's names as already  
-
-
-
 
 stated in this book page 181 for which there is also the Udyapanam prescribed and the story relating thereto given
 
@@ -5237,8 +4614,6 @@ stated in this book page 181 for which there is also the Udyapanam prescribed an
  It will be interesting to find that Rama's name is given in charity to Brahmins besides pictures and idols
 
  I thought I will be worrying my Rama, with this subject concerning innumerable names, but thinking again that He is all in all active, all in all energetic, all in all inspiring, all in all strong, all in all working, all in all pervading, all in all moving and all in all playing Rama, and ever possessing these qualities He will not feel tiresome, I have indulged in this Ramanamic subject I recommend my readers that in addition to the Rama Sahasranamas they will also do well to perform Archana with the Rama Sahasranama arranged in alphabetical order (Vide Pooja Samuchchaya published in Bombay page 131) and enjoy the pleasant thought of worship combined with innocence, peace, purity
-
-
 
 and duty I also recommend that Sri Rama's**मत्र संपुटित अष्टोत्तरशत** **नामार्चन** may be performed, of which one instance is given below—
 
@@ -5260,16 +4635,12 @@ and duty I also recommend that Sri Rama's**मत्र संपुटित �
 
  My readers will be astonished to see me repeating the same subject of RamaNama again and again having in a way closed it It looks to me that it is very difficult to conclude this chapter being the subject matter of Rama, who always
 
-
-
 is found to be playing in some form or other in the universe and secondly, the subject is one with which one should not be disgusted, especially when we bring to our recollection regarding the statement made by Parvatı saying that She is not contented by drinking the nectar of Ramarasayana—
 
 त्वन्मुखाद्गलितराम तत्वामृत रसायनम्।  
 पिबतो मे मनो देव न तृप्यति भवापहम्॥
 
  Thirdly, it is The Thing that one has to be ever seeking after, to be pure and virtuous and derive happiness It is the best thought to be entertained in the mind—a thought far superior to the thoughts suggested to be encouraged by way of remembrances in Christmas and New Year cards regarding friends, loves and lovers with all attractions in the fancy cards Comparatively the thought of God has to be entertained and kept ever green in the minds of men. Thus it will be seen that no question arises as to why it is repeated by whomsoever it may be Our heterodox friends realize the value of God, His name, its repetition and offerings made to Him when they are found in the troublous turmoils being tremendously afraid of Him at the critical juncture. When Goddess Parvati, the wife of that
-
-
 
 great Siva expreses that She has not been content with the Rama's names and has to continue the repetition further, it is no wonder that a particle of. a dust-like my humblest of humbleself to feel it a disgust in repeatedly thinking or speaking on the name of Rama which is sweeter in sound than the musical repeaters, contained in watches, clocks bells etc See the following—
 
@@ -5291,15 +4662,11 @@ great Siva expreses that She has not been content with the Rama's names and has 
 गच्छन्स्तिष्ठन् श्वसन् नृत्यन् भुञ्जानो वापि मानव।  
 मुच्यते रघुनाथस्य कीर्तनान्नान्यतो द्विज॥
 
-
-
  Even those including the several high class Brahmins, comprising hatwalas and batwalas (criketeer), heatwalas (hot tempered) and meatwalas, hootwalas (hooting out anybody) and bootwalas, coatwalas and boatwalas, (always travelling in sea) that mock at religion and God—should think for a moment that when they are found dead, their corpses are removed by uttering the name of Rama. Look at this contrast!
 
  The other wonder is that even after becoming Christians, distinctions are made between Brahmin Christians and Non-Brahmin Christians and Poojas of Rama, Ganesha, etc, are performed by the converts. Maintaining Hinduism after becoming Christians This wisdom is marvellous and one has to enquire as to in which bazaar it is sold!
 
  It is further wonderful to observe the inconsistency prevailing in every Brahmin being addressed as Maharaj A Brahmin cook is called a Maharaj, a Paricharaka, a Brahmin tailor, a Brahmin Mithaiwala, and even uneducated Dhore like Gore that would have never performed Sandhya in his life time expect to be called as Maharaj Even Mama professionals desire to be addressed as such!
-
-
 
  If People give up their "Pride", which is their chief ideal of life and their ideas of "Dont care for devotional duty in the face of the worldly "The duty",— encouraged by the thought that Truth lies only in worldly pleasures denying the existence of a Ruler, as observed by Prof Max Muller in his translation of Bhagavad Gita, p 115" and give up their insatiated desires, vanity and ostentatiousness being engaged in unholy observances— all in delusion— they will certainly realize the value of devotion and will think of the name of God which is the most essential part of man's duty
 
@@ -5312,15 +4679,11 @@ great Siva expreses that She has not been content with the Rama's names and has 
 
  The cleverness of some of the demoniac men has to be fully depreciated when we take their perverse intellgence in creating a deep interest in the minds of people to find a way to destroy themselves and their own properties Though destruction after destruction is caused and the loss
 
-
-
 of wealth 1S clearly noticed, troubles fully experienced, hurled into dishonour and disrepute, still these Karmarakshasas and Brahmarakshasas or even Charmaral shasas, who do not understand the Marma of Dhar a whether they are Varmas, Sharmas or others would not pity the sufferers, but continue their game of instigation for maintaining mischievous and litigeous practice "To obtain heaps of wealth unfairly for enjoying (their) objects of desires" as stated by Pro Max-Muller
 
  They are really pests that appear as best friends without allowing you to rest, but keep you always in unrest One cannot test at first until gets grief in his chest with all disgust These sinners are actually treated as guests by the poor deluded youngsters that get into their nests wearing a vest with some false ideas of the west and this continues until everything is converted into jest
 
  Somehow or other owing to misdirected, and irreligious education such devilish work of Rakshasic Maya is considered as befitting to their illbred upstartic disposition and ill intentioned mentality whatever may be the degree of education received Sri Rama, Sita, Vibhishana and others have already narrated a good deal for practicing high ideals of noble life and given extremely valuable advice to mankind in that great epic
-
-
 
 Ramayana, the book of the highest civilization of Hindus
 
@@ -5340,8 +4703,6 @@ Ramayana, the book of the highest civilization of Hindus
 परिहासेनया भक्त्या सल्लापाद्धेलनेनवा।  
 स्मरन् रामेति सतत जीवन्मुक्ता न सशय॥
 
-
-
 Suta says as pointed out in Ramotsavaratnakara—
 
 भक्तिर्मुक्ति विधायिनी भगवत श्रीरामचन्द्रस्य हे  
@@ -5360,8 +4721,6 @@ Suta says as pointed out in Ramotsavaratnakara—
 निन्दितस्य पुमान् लोकेस्वात्माप्येन निगर्हते॥
 
  Doing Ramakaj **(रामकाज)** or Ramakarya **(रामकार्य)** or Ramakainkarya **(रामकैंकर्य)** is our duty towards the Ramani Rama **(रमणी)** the beautiful Rama, the Ramano Rama (**रमणो**Pal) the playing Rama, the Ramaniyo Rama (**रमणीयो** Pal) the charming Rama, the Ramaniyako Rama (**रमणीयको**
-
-
 
 Pal) the pleasant Rama, the Ramih Rama (**रामिह**— Ara ) the armed Rama and the Rami **रामी** (Arabic
 
@@ -5395,8 +4754,6 @@ Pal) the pleasant Rama, the Ramih Rama (**रामिह**— Ara ) the armed R
 वलीधर्मराजायेकरी, ते धर्म रामायण खरी।  
 अनेक रामायण थया, अनेक कवियो विस्तरी॥
 
-
-
 and Persian) the Archer Rama and who is auspicious Ramabhadra **(रामभद्र)** the moon-like Ramachandra **(रामचन्द्र)** the gem-like Ramaratna **(रामरत्न)**, the Lord of the world Ramanatha **(रामनाथ)** and the domineer of Lakshmi the Rama Ramana **(रमा रमणा)**
 
  To such Rama properly propitiate, profoundly piaise, pressingly pray, promptly prostrate, promulgate his preternatural prowess as He is the proverbial Paramatma, Pranajeevana and Prasannatma and prominently prosper Benediction and invocation will obtain approbation and secure protection at the hands of Sri Rama
@@ -5410,8 +4767,6 @@ and Persian) the Archer Rama and who is auspicious Ramabhadra **(रामभद
 
 वाचाभिरामं वदनाभिराम पट्टाभिराम विजयाभिरामम्।  
 लीलाभि राम परमाभि राम सत्याभि रामं प्रणमामि नित्यम्॥
-
-
 
 आनदराम रघुवशनाथ कोदण्डराम रणरङ्ग धीरम्।  
 कल्याणराम करुणाकरत श्रीरामचद्र शरण प्रपद्ये॥
@@ -5443,8 +4798,6 @@ His head, his brow, his stately neck,
 His plighted word he never forgets,  
 On erring sense a watch he sets
 
-
-
 Good, resolute and pure, and strong,  
 He guards mankind from scathy and wrong,  
 And lends his aid and never in vain,  
@@ -5467,8 +4820,6 @@ And Justice self in human mould
 
  (1) Child as He was, of course decked with splendid garments, and ornaments set with effulgent precious stones in addition to His being the natural beauty of beauties, and as the descent (Avatar) of God, Rama had also worn a neck ornament containing lion's and tiger's nails, which are said to ward off evil eyes On the chest of the child the mark of the foot of Bhrigu Maharishi
 
-
-
 called Bhugu Lanchhan was also noticedSee the Marathi Dindi **दिण्डि** fare given below—
 
 तवचरणाची मुद्राहृदयी धारणकरिता भूषणहोयी।  
@@ -5480,15 +4831,11 @@ called Bhugu Lanchhan was also noticedSee the Marathi Dindi **दिण्डि
 
  (3) The Boy Rama was very fond of playing kites and on a certain day, He prepared an exquisitely grand kite and made it fly, fly and fly so much so that it went higher, higher and higher, passing one region after another and reached fight up to Indra Loka Seeing the charming kite with
 
-
-
 a number of decorations Jayantithe wife of Indra's son held up the kite and retained the same with her Knowing this the Boy Rama directed His mighty monkey companion, the powerful son of the wind-god who flew with marvellous velocity brought back the kite and handed over to Sri Rama
 
  (4) Once upon a time certain merchants brought jewels and the Young Rama took away one of them and threw it into a well He was asked to get the same back, when Rama said, go and take it Servants got down in the well, and there was seen a tree grown containing several branches, each branch having bunches of jewels of the same type This created a great wonder in the city and people thronged in large numbers and took away jewels after jewels and were found immensely pleased
 
  (5) On another occasion certain hunter brought some birds for sale and the Boy Rama caught hold of them and allowed them to fly away and on the hunter complaining this to the parents, two pieces of feathers which were in the hands of Rama were burried in the sand and some water was sprinkled over it, with the result that a plant had grown and bore fruits from which hundreds of
-
-
 
 birds began to fly making tremendous noise with sweet notes being heard throughout the city
 
@@ -5499,9 +4846,6 @@ birds began to fly making tremendous noise with sweet notes being heard througho
  (8) While Rama was taking His bath in the Sarayu river in company with a number of playmates, a big crocodile swallowed Him, at the instigation of Ravana, but the Little Folk Rama immediately slew the huge crocodile and came out by tearing its belly to the surprise of all that witnessed the incident
 
  (9) When Rama was playing on the bank of the River Sarayu, Ravana came in the form of a large bird with the intention of carrying Him away which Rama at once understood and hit with His bow without any arrow and Ravana was thrown away at a very long distance and for 7 days he was unconcious and he was very much ashamed after regaining his consciousness  
-
-
-
 
  (10) As a Baby He was found playing in the cradle and when Kausalya went to offer Naivedyam to the family deity Lakshmi Narayana, Rama was found eating the Naivedyam and when she got alarmed and came back in search of the Baby Rama, she found it in the cradle, which created a great puzzle in the mind of Kausalya
 
@@ -5515,8 +4859,6 @@ birds began to fly making tremendous noise with sweet notes being heard througho
 परित्राणाय साधूना जातोराम स्वय हरि॥
 
  The only one incident require to be pointed out is as to how Rama appeared in hundreds and thousands of similar forms at one and the same time in different places and simultaneously accorded interview to a large number of people who were anxious to pay their respects personally to Him, when He returned to Ayodhya, which is one of His miraculous deeds
-
-
 
 **SEVERAL DESCRIPTIONS OF RAMA.**
 
@@ -5550,8 +4892,6 @@ birds began to fly making tremendous noise with sweet notes being heard througho
 काल कालाग्निरुद्र रिपुकुलदहनं विघ्नविच्छेद दक्ष  
 भीम भीमाट्टहास सकलभयहर रामचन्द्र भजेहम्॥
 
-
-
 **(5) Rama, the Hero**
 
 कोदण्डनिर्मुक्तशराग्रखण्डन प्रचण्डशश्वद्भुजदण्डहिण्डनम्।  
@@ -5580,8 +4920,6 @@ birds began to fly making tremendous noise with sweet notes being heard througho
 सर्वस्वमे रामचन्द्रो दयालुर्नान्य जाने रामचन्द्र विनाहम्॥  
 
                                (नैव जाने न जाने)
-
-
 
 \(10\) Rama, as the Giver of Bliss
 
@@ -5612,8 +4950,6 @@ Suited to all the fashions of the day
 English being liked in every way  
 What is in language for really to pray  
 Be true to your religion and hail with jay ( जय) LG
-
-
 
 **English Rama Stotra.**
 
@@ -5646,8 +4982,6 @@ The Lord of Ne'er beginning days, (अनादि)
 On earth below, in heaven above  
 Great joy shall crown his faith and love
 
-
-
 फलश्रुति।
 
  Blessings will attend to the person, whether man or woman that reads or hears the above Stotra He who reads the above Stotra will be absolved from all his or her sins, and he or she shall obtain all health, wealth and strength and his or her desires will be amply fulfilled
@@ -5675,8 +5009,6 @@ from Adversities.**
 
 3 శ్రీరామరామరామా ! శ్రీరామా రామరామ సీతారామా।  
  శ్రీరామయనుచువేడితి ।ఘోరా పదనిపుడు తొలఁగంగొట్టుము రామా॥
-
-
 
 4 శ్రీ రామాజయరామా।శ్రీరఘురామా మనోజ్ఞ గుణరామా ।  
 ధీరశిఖామణిరామా। ఘోరాపదనిపుడు తొలఁగఁగొట్టుము రామా॥
@@ -5711,8 +5043,6 @@ King Rama reached Ayodhya's gate
 With merry noise of shells and drums  
 And joyful shouts, he comes, he comes,
 
-
-
 And happy maids in ordered bands  
 Threw grain and gold with liberal hands  
 Neath gorgeous flags that waved in rows,  
@@ -5746,8 +5076,6 @@ And Vamadeva wise and good,
 Whose holy hands in order shed  
 The pure sweet drops on Rama's head
 
-
-
 Then priests and maids and warriors, a॥  
 Approaching at Vasishtha's call,  
 With sacred drops bedewed their king,  
@@ -5779,8 +5107,6 @@ Gave largest to the Brahmans, kind
 And steeds unnumbered, wealth untold  
 Of robes and pearls and gems and gold
 
-
-
 A jewelled chain, whose lusture passed  
 The glory of the sun, he cast  
 About his friend Sugrivas nech  
@@ -5811,8 +5137,6 @@ And with their honours well content
 Homeward their steps the chieftains bent.  
 Ten thousand years Ayodhya, blest  
 With Rama's rule, and peace and rest
-
-
 
 **పట్టాభిషేక పంచరత్నం.**
 
@@ -5847,8 +5171,6 @@ With Rama's rule, and peace and rest
 
                    (Devi Puranam)
 
-
-
 **5 नहिनहिमरणम्।**
 
  We know, that not an iota moves without His pleasure and that the God of death is entirely under the control of that God of Gods, which is established by the following verse:—
@@ -5867,8 +5189,6 @@ With Rama's rule, and peace and rest
 परिहरमधुसूदन प्रपन्नान् प्रभुरहमन्यनृणा न वैष्णवानाम्॥
 
  He quietly tells in their ears and orders them not to approach Vaishnavas (meaning the devotees of the all pervading God), by sending for his emissaries holding nooses in their hands
-
-
 
 सुरमन्दिरतरुमूलनिवासः शय्याभूतलमजिनं वासः।  
 सर्वपरिग्रह भोगत्यागः कस्यसुखं न करोति ^(\*)विरागः॥  
@@ -5916,32 +5236,7 @@ and cultured mind with its sub divisions known as Manas, Buddhi, Chitta, Ahankar
 
  At least try to lead a simple life in accordance with the' "Plain living and High thinking' without the materialistic selfish notion of "High living and Low thinking", being always merged in selfishly eating, selfishly drinking, self-praising, self-conceipt and self-aggrandisement without realising the value of self-control and self-denial, i.eselflessness and the value of Vairagya
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyMjc4NzIwOTA
 
 \[
 
-
-
-
 गङ्गासहस्रनामस्तोत्रम्
-
 
 विनास्नानेनगङ्गायानृणाञ्जन्मनिरर्थकम् ।  
 उपायान्तरमस्त्यन्योनिस्नानफलंलभेत् ॥ १॥  
@@ -444,8 +440,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyMjc4NzIwOTA
 इतिश्रीस्कान्दमहापुराणे एकाशीतिसाहस्र्यां  
 संहितायाचतुर्थेकाशीखण्डेपूर्वार्द्धेगङ्गासहस्रनाम  
 कथनंनामैकोनत्रिंशत्तमो अध्यायः ॥
-
-
-
 
 \]

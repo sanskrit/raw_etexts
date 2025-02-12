@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY1MjM5MTY1MjE
 
 \[
 
-
-
 \<doc id="10772" url="https://sa.wikisource.org/wiki?curid=10772" title="गोपालाक्षयकवचम्"\>  
 गोपालाक्षयकवचम्
 
@@ -58,6 +56,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY1MjM5MTY1MjE
 \</poem\>
 
 \</doc\>
-
 
 \]

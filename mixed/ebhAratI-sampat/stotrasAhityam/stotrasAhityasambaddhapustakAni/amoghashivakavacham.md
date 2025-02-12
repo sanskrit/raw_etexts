@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4NDExNjkzMTA
 
 \[
 
-
-
-
 अमोघशिवकवचम्
-
 
 अमोघशिवकवचम् -
 
@@ -163,8 +159,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4NDExNjkzMTA
 धारयस्व मया दत्तं स्द्य श्रेयो ह्रावाप्स्यसि॥४०॥
 
 इति श्रीस्कंदमहापुराणे एकाशीतीसाहस्त्रयां तृतीये ब्रह्मोत्तरखंडे अमोघ शिवकवचं संपूर्णं।
-
-
-
 
 \]

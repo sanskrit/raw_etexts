@@ -12,9 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2MDI3MjU5ODI
 
 \[
 
-
-
-
 गौर्याष्टोत्तरशतनामस्तोत्रम्
 
 ..गौर्याष्टोत्तरशतनामस्तोत्रम्  
@@ -70,8 +67,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2MDI3MjU5ODI
 गौरीप्रसादजननमात्मज्ञानप्रदं नृणाम् .. २४..  
 भक्त्या प्रपठतां पुंसां सिध्यत्यखिलमीहितम् .  
 अन्ते कैवल्यमाप्नोति सत्यं ते भार्गवेरितम् .. २५..
-
-
-
 
 \]

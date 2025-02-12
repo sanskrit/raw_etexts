@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc1MzIwMTM3Mjk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 श्रीरामरक्षास्तोत्रम्‌ ॥ - Shri Ram Raksha Stotram
 
 ॥ श्रीरामरक्षास्तोत्रम्‌ ॥
@@ -173,15 +161,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc1MzIwMTM3Mjk
 इति श्रीबुधकौशिकविरचितं श्रीरामरक्षास्तोत्रं संपूर्णम्‌ ॥
 
 ॥ श्री सीतारामचंद्रार्पणमस्तु ॥  
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -12,12 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2Mzk5NTMzNzM
 
 \[
 
-
-
-
 अङ्गारकस्तोत्रम्
-
-
 
 अस्य श्री अङ्गारकस्तोत्रस्य ।
 
@@ -53,10 +48,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2Mzk5NTMzNzM
 सर्वा नश्यति पीडा च तस्य ग्रहकृता ध्रुवम् ॥ ७॥  
 ॥  
 इति श्रीस्कन्दपुराणे अङ्गारकस्तोत्रं संपूर्णम् ॥
-
-
-
-
-
 
 \]

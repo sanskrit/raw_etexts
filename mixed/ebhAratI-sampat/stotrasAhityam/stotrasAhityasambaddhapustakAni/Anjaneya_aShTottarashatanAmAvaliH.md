@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODc0ODIzOTI
 
 \[
 
-
-
 आञ्जनेय अष्टोत्तरशतनामावलिः
 
 ॐ मनोजवं मारुततुल्य वेगं, जितेन्द्रियं बुद्धिमतां वरिष्ठम् ।  
@@ -130,7 +128,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg0ODc0ODIzOTI
 ॐ लोकपूज्याय नमः ।  
 ॐ जाम्बवत्प्रीतिवर्धनाय नमः ।  
 ॐ सीतासमेत श्रीरामपाद सेवदुरन्धराय नमः ।  
-
-
 
 \]

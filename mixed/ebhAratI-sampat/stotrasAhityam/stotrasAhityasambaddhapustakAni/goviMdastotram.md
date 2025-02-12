@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNjkyNDk0MDQ
 
 \[
 
-
-
-
 गोविन्दस्तोत्रम्
-
 
 श्री कल्याणी देवी विरचितम् ।  
 श्रीवर बालक रिङ्खणतत्पर पद्मदलायतलोचन देव ।  
@@ -28,8 +24,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxNjkyNDk0MDQ
 अद्वयविक्रम गोविन्दकिङ्कर श्रीमध्ववल्लभ गुरुतर नमः ।  
 कुन्तलसन्ततिराजितसन्मुख देवकिनन्दन गोविन्द वन्दे ॥ ४॥  
 ॥ इति श्रीमत्कल्याणीदेवी विरचितं गोविन्दस्तोत्रं संपूर्णम् ॥
-
-
-
 
 \]

@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM4NTMyMDY5NjM
 
 \[
 
-
-
-
-
 एकश्लोकिरामायणम्
-
-
 
 आदौ रामतपोवनादिगमनं हत्वा मृगं कांचनं
 
@@ -28,10 +22,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM4NTMyMDY5NjM
 पश्चाद्रावणकुंभकर्णहननमेतद्धि रामायणम् ॥  
 ॥  
 एकश्लोकि रामायणं संपूर्णम् ॥
-
-
-
-
-
 
 \]

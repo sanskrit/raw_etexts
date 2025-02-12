@@ -13,23 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NjIzNzU3MDI
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 इन्द्रकृतश्रीरामस्तोत्रम्
-
-
 
 इन्द्र उवाच
 
@@ -89,16 +73,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NjIzNzU3MDI
 ॥  
 इति श्रीमदध्यात्मरामायणे युद्धकाण्डे त्रयोदशसर्गे  
 इन्द्रकृतश्रीरामस्तोत्रं सम्पूर्णम् ॥
-
-
-
-
-
-
-
-
-
-
-
 
 \]

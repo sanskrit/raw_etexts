@@ -12,12 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY5OTI2OTcyNzc
 
 \[
 
-
-
-
-
 अष्टादशशक्तिपीठस्तोत्रम्
-
 
 ॥  
 अष्टादशशक्तिपीठस्तोत्रम् ॥
@@ -46,8 +41,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY5OTI2OTcyNzc
 सर्वरोगहरं दिव्यं सर्वसम्पत्करं शुभम् ॥
 
 इति अष्टादशशक्तिपीठस्तुतिः ।
-
-
-
 
 \]
