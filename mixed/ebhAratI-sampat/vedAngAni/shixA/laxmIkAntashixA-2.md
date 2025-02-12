@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDEyMDE4MTQ2NjY
 
 \[
 
-
-
 lakshmikanta_shiksha_2  
 लक्ष्मीकान्त शिक्षा  
 प्रणम्य नारायणपादपङ्कजे  
@@ -80,6 +78,5 @@ lakshmikanta_shiksha_2
 वारुण्या वरुणी विष्टो विष्टा वक्ता वपाविशि  
 वेतसे वत्सरो वज्री वाचो विंशस्तु वि  
               इति लक्ष्मीकान्त शिक्षा समाप्ता
-
 
 \]

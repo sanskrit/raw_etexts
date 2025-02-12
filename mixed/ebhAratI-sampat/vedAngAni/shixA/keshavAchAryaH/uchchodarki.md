@@ -13,23 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg5MTgwMTQwMTY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **उच्चोदर्कि**
-
 
 नित्याभिनिहतक्षैप्रपूर्वोदात्तस्य संग्रहः  
 क्रियते हस्तविन्यासभेदोच्चारणसिद्धये १  
@@ -59,18 +43,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg5MTgwMTQwMTY
 **इति श्री केशवाचार्यविरचितमुच्चोदर्कि संपूर्णम् ।**
 
 **-------------------------------------------------**
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

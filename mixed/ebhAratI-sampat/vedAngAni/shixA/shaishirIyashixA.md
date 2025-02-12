@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIxMTk5OTExNTQ
 
 \[
 
-
-
-
-
-
 **शैशिरीयशिक्षा**
-
 
 हरिः श्रीगणपतये नमः अविघ्नमस्तु  
 हरिः श्रीगणपतये नमः अविघ्नमस्तु  
@@ -383,13 +377,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIxMTk5OTExNTQ
 सञ्चिन्त्य देवं पठते द्विजो यः  
 स याति विष्णोः परमं पदं तत् ओं
 
-
-
 ** इति शैशिरीयशिक्षा समाप्ता ।**
 
 **---------------------------------------------------**
-
-
-
 
 \]

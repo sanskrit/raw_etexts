@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0ODI2NTc2MjA
 
 \[
 
-
-
-
 **कात्यायनशिक्षा**
-
 
 यदुदात्तात्परं नोचं स्वार्यं तत्परतो न चेत्  
 उदात्तात्स्वरितं वा स्याद्यत्र स्यात्स्वरितं वदेत् १  
@@ -45,6 +41,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE0ODI2NTc2MjA
 यन्नीचं पदकाले तत्संहितायां तथैव च  
 उक्तं वा नीचहीनं चेत्पितृश्रवणं तद्भवेत् १३  
        इति महर्षिकात्यायनप्रणीता शिक्षा समाप्ता
-
 
 \]

@@ -13,12 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2MTUwNjIwNTQ
 
 \[
 
-
-
-
-
 **वासिष्ठशिक्षा ।**
-
 
 परं स्वराच्चानुस्वराद्व्यञ्जनं व्यञ्जने परे  
 द्विरूपमिष्यते रेफात् स्वरपूर्वात्परञ्च तत्  
@@ -48,8 +43,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc2MTUwNjIwNTQ
 ** इति वासिष्ठशिक्षा समाप्ता ।**
 
 **------------------------------------------------**
-
-
-
 
 \]

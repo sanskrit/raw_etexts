@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0NTIzMzc3NjA
 
 \[
 
-
-
 Dvitvalakshanam  
 द्वित्वलक्षणम्  
 पदादौ पदमध्ये वा स्थितस्योष्मपरस्य वै  
@@ -40,7 +38,5 @@ Dvitvalakshanam
 दीर्घस्वरात्पदान्तस्था या भक्तिरुपजातयः  
 सापि पूर्वस्वराङ्गः स्याद् दोषावस्तर्हिविष्मति ११  
                  इति द्वित्वलक्षणं समाप्तम्  
-
-
 
 \]

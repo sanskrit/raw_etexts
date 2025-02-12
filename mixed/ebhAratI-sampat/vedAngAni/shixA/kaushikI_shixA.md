@@ -12,10 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE0NTE0NjAyNzM
 
 \[
 
-
-
-
-
 **कौशिकी शिक्षा**  
   
 प्रथमः श्लोकः  
@@ -25,12 +21,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE0NTE0NjAyNzM
 करेण ताडितस्याङ्गं तद्वत्कालेषु रङ्गयोः  
 अहीनप्रहारोज्ञो यथा आ ई ऊ इति निदर्शनम्  
 
-
 **इति कौशिकी शिक्षा समाप्ता ।**
 
 **-----------------------------**
-
-
-
 
 \]

@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY1MzQxMzg2MDE
 
 \[
 
-
-
 kauhaliya_shiksha  
 कौहलीय शिक्षा  
 अथ शिक्षां प्रवक्ष्यामि कौहलीयमतानुगाम्  
@@ -183,7 +181,5 @@ kauhaliya_shiksha
 शिक्षामिमां तु योऽधीते वेदतत्त्वप्रकाशिकाम्  
 अतुलामश्नुते कीर्त्तिं परे ब्रह्मणि लीयते ८१  
       कौहलीयशिक्षा समाप्ता  
-
-
 
 \]

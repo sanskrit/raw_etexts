@@ -12,12 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA1MTIwOTUyMzk
 
 \[
 
-
-
-
-
 **आत्रेयशिक्षा**
-
 
 अथ आत्रेय शिक्षा तृतीयो भागः  
 प्रथमौ श्लोकौ  
@@ -30,13 +25,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA1MTIwOTUyMzk
 प्रथमस्य द्वितीयत्वं पूर्वं कुर्वीत पण्डितः  
 धूद्वक्ष्णौ द्वन्द्वक्ष्णषमित्यत्र अनुस्वारो विधर्मतः
 
-
-
 **इत्यात्रेयशिक्षा**
 
 **-----------------------------------------**
-
-
-
 
 \]

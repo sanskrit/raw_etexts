@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY5ODg2MTg1MjA
 
 \[
 
-
-
 paniniya_shiksha  
 पाणिनीय शिक्षा  
 अथ शिक्षां प्रवक्ष्यामि पाणिनीयं मतं यथा  
@@ -140,6 +138,5 @@ paniniya_shiksha
 
        इति परिभाषा  
 इति पाणिनीय शिक्षा
-
 
 \]

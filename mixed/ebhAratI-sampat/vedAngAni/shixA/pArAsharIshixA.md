@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ1NjQ0NTg1NjA
 
 \[
 
-
-
 parashara_shiksha  
 पाराशरीय शिक्षा  
 पाराशरीशिक्षा  
@@ -337,7 +335,5 @@ parashara_shiksha
 इति पाराशरेणोक्तं विप्राणां हितकाम्यया  
 शिष्याणामुपकाराय परलोकहिताय च १६०  
        इति पाराशरीशिक्षा समाप्ता  
-
-
 
 \]

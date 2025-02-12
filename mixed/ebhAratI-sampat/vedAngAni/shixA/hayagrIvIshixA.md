@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA3MjUwMjY3NDk
 
 \[
 
-
-
 hayagrivi_shiksha  
 हयग्रीवी शिक्षा  
 क्रमे यथोक्ते पदजातमेव द्विरभ्यसेदुत्तरमेव पूर्वम्  
@@ -63,6 +61,5 @@ hayagrivi_shiksha
 सदा जटाया इति सर्वसंमतत् ११  
 इति द्वितीयो वर्गः  
 मूलशिक्षा समाप्ता
-
 
 \]

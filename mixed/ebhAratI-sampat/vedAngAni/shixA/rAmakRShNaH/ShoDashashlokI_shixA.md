@@ -13,23 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzNTE0MjgwNTA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **षोडशश्लोकी शिक्षा**
-
 
 अथ शिक्षाँ प्रवक्ष्यामि वाच उच्चारणे विधिम्  
 यथा संव्यवहारेषु स्वयं प्रोक्ता स्वयम्भुवा १  
@@ -69,16 +53,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzNTE0MjgwNTA
 ** इति रामकृष्णविरचिता षोडशश्लोकी शिक्षा समाप्ता ।**
 
 **-----------------------------------------------**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -12,14 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI3NTQ0MTIyMzU
 
 \[
 
-
-
-
-
-
-
 **जटापटलकारिका**
-
 
 शैशिरीये समाम्नाये व्याडिनैव महर्षिणा  
 जटाद्या विकृतीरष्टौ वक्ष्यन्ते नातिविस्तरम् १  
@@ -57,8 +50,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI3NTQ0MTIyMzU
 **इति जटापटलकारिका**
 
 **----------------------------------**
-
-
-
 
 \]

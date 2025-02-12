@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc2NTUzNDY2MDk
 
 \[
 
-
-
 keshavi_padyatmika_shiksha  
 केशवीपद्यात्मिका शिक्षा  
 अनुदात्तादुदात्तश्चेत्स्वरितोत्तर एव च  
@@ -61,6 +59,5 @@ keshavi_padyatmika_shiksha
 प्रीत्यर्थं सुधियां कारिकावली निर्म्मला शुभा २१  
   इति श्रिमदास्तिकमहर्षिवंशोद्भवज्ञगोकुलचन्द्रसुतदैवज्ञकेशवरामकृता- 
               कारिकावली सम्पूर्णा
-
 
 \]

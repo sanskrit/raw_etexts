@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ2MzQxNzA4MjQ
 
 \[
 
-
-
 amoghanandini_bori_shiksha  
 अमघानन्दिनी शिक्षा  
 अथ अमोघानन्दिनी शिक्षा द्वितीयो भागः  
@@ -42,6 +40,5 @@ amoghanandini_bori_shiksha
 लक्ष्यानुसारिणी ह्येषा कृता वाजसनेयिनाम्  
 अमोघानन्दसंज्ञेयं पूजनीया मनीषिभिः ५७  
        इति अमघानन्दिनी शिक्षा समाप्ता
-
 
 \]
