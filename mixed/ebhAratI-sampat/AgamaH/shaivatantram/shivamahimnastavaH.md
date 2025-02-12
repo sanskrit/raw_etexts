@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNjA1OTc4ODg
 
 \[
 
-
-
 ***शिवमहिम्नस्तवः***
 
 महिम्नः पारं ते परमविदुषो यद्यसदृशी  
@@ -173,7 +171,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNjA1OTc4ODg
 
 परिशिष्टम्ः आद्दितिओनल्वेर्सेसिनल्ल्ंष्ष्(!!) बुत्नोतिन् थे इन्स्च्रिप्तिओन्
 
-
 असितगिरिसमं स्यात्कज्जलं सिन्धुपात्रे  
 सुरतरुवरशाखा लेखनी पत्रमुर्वी ।  
 लिखति यदि गृहीत्वा शारदा सर्वकालं  
@@ -233,8 +230,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxNjA1OTc4ODg
 कीर्तनेन हि रुद्रस्य पापं याति सहस्रधा ।  
 प्रचण्डपवनेनैव धनं जलदमण्डलम् ॥ आद्द्\_१५  
 
-
 ----------------------------------------
-
 
 \]

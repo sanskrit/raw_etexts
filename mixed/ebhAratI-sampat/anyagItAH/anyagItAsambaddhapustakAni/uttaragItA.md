@@ -16,11 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMxMDA1NTM4Njg
 
 \[
 
-
-
 [TABLE]
-
-
 
 THE UTTARA GĪTĀ
 
@@ -28,18 +24,9 @@ OR
 
 THE INITIATION OF ARJUNA
 
-
-
-
-
-
 [TABLE]
 
-
-
 **PUBLISHERS' NOTE**
-
-
 
 THE Uttara Gītā, as its name implies, and as the first few lines of Chapter I explain, is the subsequent instruction, coming after that set forth in the Bhagavad-Gītā.
 
@@ -47,12 +34,8 @@ THE Uttara Gītā, as its name implies, and as the first few lines of Chapter I 
 
  This translation of Babu Rai Baroda K. Laheri, F.T.S., appeared in *Lucifer*, November and December, 1892.
 
-
-
 THEOSOPHICAL PUBLISHING HOUSE  
 ADYAR, MADRAS, INDIA
-
-
 
 ERRATA
 
@@ -60,39 +43,27 @@ ERRATA
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 THE UTTARA GĪTĀ
 
 उत्तरगीता
 
 ![](../books_images/U-IMG-1722946555line5.png)
 
-
-
 **प्रथमोऽध्यायः**  
 
 CHAPTER I
 
-
-
 ARJUNA, after the successful issue of the battle of Kuru-Kṣetra, amidst the pleasures of rank, riches, and prosperity, had forgotten the priceless instructions imparted to him by Sri Krishna, on the eve of that memorable battle. He now asks Keśava again to propound to him the secrets of the Brahma jñāna.
-
-
 
 ** अर्जुन उवाच—**
 
 **यदेकं निष्कलं ब्रह्म व्योमातीतं निरञ्जनम्।  
 अप्रतर्क्यमविज्ञेयं विनाशोत्पत्तिवर्जितम्॥१॥**
 
-
-
 **कैवल्यं केवलं शांतं शुद्धमत्यंतनिर्मलं।  
 कारणं योगनिर्मुक्तं हेतुसाधनवर्जितम्॥२॥  
 हृदयाम्बुजमध्यस्थं ज्ञानज्ञेयस्वरूपकम्।  
 तत्क्षणादेव मुच्येत यज्ज्ञानाद्ब्रूहि केशव॥३॥**
-
-
 
 **ARJUNA ASKED:**
 
@@ -100,16 +71,12 @@ ARJUNA, after the successful issue of the battle of Kuru-Kṣetra, amidst the pl
 
 [^1]: "Keśava means the manifested Logos, the union of Viṣņu, Brahmā and Maheśvara, or the combined Sattva, Rajas, and Tamas Gunas. The word“Keśava"
 
-
-
 that which combines the fact of knowledge and the thing knowable in Itself.
 
 ** श्रीभगवानुवाच—**
 
 **साधु पृष्टं महाबाहो बुद्धिमानसि पाण्डव।  
 यन्मां पृच्छसि तत्त्वार्थमशेषं प्रवदाम्यहम्॥४॥**
-
-
 
 SRĪ BHAGAVĀN SAID:
 
@@ -119,8 +86,6 @@ SRĪ BHAGAVĀN SAID:
 योगेन गतकामानां भावना ब्रह्म चक्षते॥५॥**
 
  5. He is called Brahman, who, devoid of all desires, and by the process of Yoga, sits in that state of meditation in which he assimilates his own Self-mantra (Praṇava or Aum) with the Haṁsa (Paramātman).
-
-
 
 **शरीरिणामजस्यान्तं हंसत्वं पारदर्शनम्।  
 हंसो हंसाक्षरं चैतत्कूटस्थं यत्तदक्षरम्।  
@@ -132,8 +97,6 @@ SRĪ BHAGAVĀN SAID:
 अकारस्य तु लुप्तस्य कोऽर्थः संप्रतिपद्यते॥७॥**
 
  7. The word "Kākīn" is the compound of *ka* + *aka* + *in*. The first syllable *Ka* means happiness, the second *Aka* means misery, and the third *In* denotes possessing: therefore one that possesses happiness and misery— the Jīva— is called "Kākīn". Again
-
-
 
 the vowel a at the end of the syllable *Ka* is the conscious manifestation of Mūla-Prakṛti or the Jīva form of the Brahman; therefore when this a disappears, there remains only the *K*, which is the One great indivisible Bliss— Brahman.
 
@@ -147,8 +110,6 @@ the vowel a at the end of the syllable *Ka* is the conscious manifestation of M�
 **आत्मानं स्वमयं कृत्वा न किंचिदपि चिन्तयेत्॥९॥**
 
  9. Conceive so much of the manifested Ākāśa (sky) as can be brought within the range of one's own mental view, as one undivided Brahman then merge the Ātman into it, and it, into your own self; this done, i.e., when the Ātman is made one with the
-
-
 
 Ākāśa, think of nothing else— as moon, stars, etc.—in the sky[^2].
 
@@ -166,9 +127,6 @@ the vowel a at the end of the syllable *Ka* is the conscious manifestation of M�
 तत्र संस्थं मनः कृत्वा तं ध्यायेत्पार्थ ईश्वरम्॥११॥**
 
   11. Freed from both nostrils, where the life-breath disappears, there (i.e., in the  
-
-
-
 
 heart) fix thy mind, O Pārtha[^4],and meditate upon the All-Supreme Īśvara.
 
@@ -189,8 +147,6 @@ heart) fix thy mind, O Pārtha[^4],and meditate upon the All-Supreme Īśvara.
 
  14. Although the body of the meditator may now and then become somewhat unsteady at the time of meditation, yet he is to consider that the Paramātman is immovable. This is the sign of the Samādhi.
 
-
-
 **अमात्रं शब्दरहितं स्वरव्यञ्जनवर्जितम्।  
 बिन्दुनादकलातीतं यस्तं वेद स वेदवित्॥१५॥**
 
@@ -200,8 +156,6 @@ heart) fix thy mind, O Pārtha[^4],and meditate upon the All-Supreme Īśvara.
 लब्धशान्तिपदे देहे न योगो नैव धारणा॥१६॥**
 
  16. He that has acquired Vijñāna (the Supreme Knowledge) by the aid of Jñāna, i.e., the knowledge derived from books of Philosophy and instruction from a Guru, and has learned to place the object of this knowledge in his heart, and he that has acquired peace of mind, such a person requires no Yoga for further practice, and no meditation for further conception.
-
-
 
 **यो वेदादौ स्वरः प्रोक्तो वेदान्ते च प्रतिष्ठितः।  
 तस्य प्रकृतिलीनस्य यः परः स महेश्वरः॥१७॥**
@@ -218,8 +172,6 @@ heart) fix thy mind, O Pārtha[^4],and meditate upon the All-Supreme Īśvara.
 
   19. As a husbandman throws away the husks, after thrashing out the corn, so does also an intelligent person give up the study of books after he has attained knowledge from them.
 
-
-
 **उल्काहस्तो यथा कश्चिद्रव्यमालोक्य तां त्यजेत्।  
 ज्ञानेन ज्ञेयमालोक्य पश्चाज्ज्ञानं परित्यजेत्॥२०॥**
 
@@ -234,8 +186,6 @@ heart) fix thy mind, O Pārtha[^4],and meditate upon the All-Supreme Īśvara.
 न चास्ति किंचित्कर्तव्यमस्ति चेन्न स तत्त्ववित्॥२२॥**
 
  22. Thrice fortunate is the Yogīwho has thus satiated his thirst by the nectar of knowledge; he is henceforth bound to no
-
-
 
 Karma, as he has become the knower of the Tattvas.
 
@@ -254,8 +204,6 @@ Karma, as he has become the knower of the Tattvas.
 
   25. As long as one does not see within himself that sublime Rūpa which is purer than
 
-
-
 purity itself, and which beams forth like a smokeless light, he should continue his meditations with a steady mind, fixing his thoughts upon that Rūpa (form).
 
 **दूरस्थोऽपि न दूरस्थःपिण्डस्थः पिण्डवर्जितः।  
@@ -271,8 +219,6 @@ purity itself, and which beams forth like a smokeless light, he should continue 
 **तिलमध्ये यथा तैलं क्षीरमध्ये यथा घृतम्।  
 पुष्पमध्ये यथा गन्धः फलमध्ये यथा रसः॥२८॥**
 
-
-
 **तथा सर्वगतो देही देहमध्ये व्यवस्थितः।**  
 **मनस्थो देहिनां देवो मनोमध्ये व्यवस्थितः।**  
 **काष्ठाग्निवत्प्रकाशेत आकाशे वायुवच्चरेत्॥२९॥**
@@ -283,8 +229,6 @@ purity itself, and which beams forth like a smokeless light, he should continue 
 **मनसा मन आलोक्य स्वयं सिध्यन्ति योगिनः॥३०॥**
 
   30. Though the Jīvātmandwells in the heart, yet it has its abode in the mind; and though dwelling in the heart it is itself mindless. The Yogī, who sees such an Ātman in his own heart through the help of his own mind, gradually becomes a Siddha himself.
-
-
 
 **आकाशं मानसं कृत्वा मनः कृत्वा निरास्पदम्।  
 निश्चलं तद्विजानीयात्समाधिस्थस्य लक्षणम्॥३१॥**
@@ -301,8 +245,6 @@ purity itself, and which beams forth like a smokeless light, he should continue 
 शून्यभावितभावात्मा पुण्यपापैः प्रमुच्यते॥३३॥**
 
  33. He that contemplates the Ātman as No-thing above, No-thing below, No-thing in the middle, and No-thing all round, his state is called the state of Samādhi. (That is Nirālamba, non-supported or self-supported samādhi.) The Yogī who thus realizes the
-
-
 
 No-thingness of the Ātman becomes free from all virtue and vice.
 
@@ -324,8 +266,6 @@ ARJUNA ASKED :
 
   35. That which is full above, full below, full in the middle, and full all round, is the
 
-
-
 All-full Ātman and he that contemplates the Ātman thus, is said to be in the state of Samādhi.
 
 ** अर्जुन उवाच—**
@@ -346,8 +286,6 @@ ARJUNA SAID:
 
  37. He who, after purifying his mind, contemplates the pure Paramātman, and looks unto his own Self as the one vast undivided whole of the manifested universe, becomes happy by knowing the Brahman.
 
-
-
 ** अर्जुन उवाच—**
 
 **अक्षराणि समात्राणि सर्वे बिन्दुसमाश्रिताः।  
@@ -365,13 +303,9 @@ ARJUNA ASKED:
 ओंकारध्वनिनादेन वायोः संहरणान्तिकम्।  
 निरालम्बं समुद्दिश्य यत्र नादो लयं गतः॥ ४०॥**
 
-
-
 ŚRĪ BHAGAVĀN SAID:
 
   39 & 40. Light exists in the voice of the ceaseless Sound, and Manas (thought) in that light; the Space where the Manas disappears
-
-
 
 (merges in itself) is the Supreme Foot of Viṣṇu. Aiming at the unknowable, where the Sound of the Praṇava, led up on high by the Life-Air, disappears, that Space is called the Supreme Foot of Viṣṇu.
 
@@ -391,8 +325,6 @@ ARJUNA ASKED:
 ताश्चैव मनसा सर्वे नित्यमेवाभिमानतः।  
 जीवेन सह गच्छन्ति यावत्तत्त्वं न विन्दति॥४३॥**
 
-
-
 ŚRĪ BHAGAVĀN SAID:
 
   42 & 43. The destiny produced by the result of virtue and vice, the Essence of the five Bhūtas— the mind (lower mind), the five senses, and the controlling genii (Devatas) of the five organs of Karma, all these by reason of the Ahaṅkāra (personality) of the mind accompany the Jīva as long as it remains ignorant of the knowledge of the Tattvas.
@@ -410,8 +342,6 @@ ARJUNA ASKED:
 
 **मुखनासिकयोर्मध्ये प्राणः संचरते सदा।  
 आकाशः पिबते प्राणं स जीवः केन जीवति॥४५॥**
-
-
 
 ŚRĪ BHAGAVĀN SAID:
 
@@ -431,8 +361,6 @@ ARJUNA ASKED:
 **आकाशो ह्यवकाशश्च आकाशव्यापितं च यत्।  
 आकाशस्य गुणः शब्दो निःशब्दं ब्रह्म उच्यते॥४७॥**
 
-
-
 ŚRĪ BHAGAVĀN SAID:
 
   47. O Arjuna, the Ākāśa is called Śūnya (vacuum), because it means the want or absence of things or anything. This Ākāśa has the quality of Sound, but that which gives it the power of Sound (as emptiness cannot produce any sound), though Itself Sound-less, is the unknown and unknowable Brahman.
@@ -451,8 +379,6 @@ ARJUNA ASKED:
 **अघोषमव्यञ्जनमस्वरं चाप्यतालुकण्ठोष्ठमनासिकं च।  
 अरेखजातं परमूष्मवर्जितं तदक्षरं न क्षरते कथंचित्॥**
 
-
-
 ŚRĪ BHAGAVĀN SAID:
 
   49. That letter is called indestructible which is self-pronouncing, i.e., without the effort of any pronunciation, which is neither vowel nor consonant, which is beyond the eight places of pronunciation, which is not subject to long or short accents, and which is thoroughly devoid of the Uṣma Varṇas (i.e., the four letters, Śa, Ṣa, Sa, and Ha, called Uṣma on account of their pronunciation depending greatly on the help of Vāyu or air-meaning, therefore, subject to no air or breath).
@@ -465,8 +391,6 @@ ARJUNA ASKED:
 ARJUNA ASKED:
 
   50. Tell me, O Krishna, how, by closing their external senses and knowing that Brahman, which lies concealed in every matter and every substance, the Yogīs realize Nirvāṇa Mukti (i.e., absolute freedom from every kind of bondage)?
-
-
 
 ** श्रीभगवानुवाच—**
 
@@ -484,10 +408,6 @@ ARJUNA ASKED:
 
  52. As long as the Tattvas are not known to a person, so long it is necessary for him to practise concentration of mind by shutting out external senses, but once he thoroughly attains the knowledge of the Tattvas he identifies himself with the Universal Soul.
 
-
-
-
-
 **नवच्छिद्रकृता देहाः स्रवन्ति गलिका इव।  
 नैव ब्रह्म न शुद्धं स्यात्पुमान्ब्रह्म न विन्दति॥५३॥**
 
@@ -497,8 +417,6 @@ ARJUNA ASKED:
 उभयोरन्तरं ज्ञात्वा कस्य शौचं विधीयते॥५४॥**
 
  54. Thy body itself is exceedingly impure, but that which takes a body (Jīvātman) is purity itself; he that has known the difference of the real nature of these two never troubles himself with the question of purity; for, whose purity, should he search after? (The Jīvātman is always pure.)
-
-
 
 **द्वितीयोऽध्यायः**
 
@@ -522,8 +440,6 @@ ARJUNA ASKED:
 
  2. As water in water, milk in milk and (clarified) butter in butter, so, the Jīvātman
 
-
-
 and Paramātman become one in union without any distinction and difference.
 
 **जीवे परेण तादात्म्यं सर्वगं ज्योतिरीश्वरम्।  
@@ -539,8 +455,6 @@ and Paramātman become one in union without any distinction and difference.
 ARJUNA ASKED:
 
   4. When, by acquiring knowledge, the knower becomes the object of knowledge itself, then he frees himself from all bondage by the virtue of his knowledge, and what need is there for for practice of Yoga or meditation?
-
-
 
 ** श्रीभगवानुवाच—**
 
@@ -561,8 +475,6 @@ ARJUNA ASKED:
 **स बाह्यमभ्यन्तरनिश्चलात्मा**  
 **अंतर्मुखः पश्यति तत्वमैक्यं॥७॥**
 
-
-
   7. Ātman is Sūkṣma like the Ākāśa, and therefore it cannot be seen by the eyes, nor can the Inner Ātman which is like the Vāyu (air) be seen either; but he who has been able to fix his Inner-Ātman by the Nirālamba Samādhi, and has learned to direct the course of his external senses inward, can know the unity of the Ātman and Antarātman (Inner Soul or Mind.)
 
 **यत्र यत्र मृतो ज्ञानी येन केनापि मृत्युना।  
@@ -574,8 +486,6 @@ ARJUNA ASKED:
 नत्वेकदेशवर्तित्वं अन्वयव्यतिरेकतः॥९॥**
 
   9. Know by the process of Anvaya and Vyatireka that the Ātman which pervades the whole body is beyond the three states of consciousness-waking, dreaming and dreamless sleep.
-
-
 
  \[In the state in which although the material consciousness is absent, still the presence of the Ātman is perceived as a witness to that state, this process is called the Anvaya; whereas the ignorance by which the man in the Sthūla Śarīra, does not perceive the presence of the Ātman, although it is ever-present, is called Vyatireka. This twofold process exists in each of the above-mentioned three states of consciousness.\]
 
@@ -591,8 +501,6 @@ ARJUNA ASKED:
 
  11. On the right side spreads the Piṅgalā Nāḍi (i.e., from the sole of the right foot right
 
-
-
 up to the top of the head where the Sahasrāra[^7]exists), it is bright and shining like a great circle of Fire (or the Sun); this product of virtue (Piṅgalā) is called the vehicle of the Devas. (Meaning, that those who can fix their mind in this Nāḍi, can journey through the sky like Devas; therefore it is called the "Deva-Yāna" or the vehicle of the Devas.)
 
 [^7]: "For clairvoyant description of the six centres in the human body please see "
@@ -601,8 +509,6 @@ up to the top of the head where the Sahasrāra[^7]exists), it is bright and shin
 पितृयानमिति ज्ञेयं वाममाश्रित्य तिष्ठति॥१२॥**
 
   12. On the left side stretches forth the Iḍa (i.e., from the sole of the left foot up to the Sahasrāra at the top of the head), the brightness of this Nāḍi is comparatively less, like the disk or circle of the Moon; it dwells with the breath of the left nostril, and it is called the vehicle of the Pitṛs. (Meaning, that those who can fix their mind in this Nāḍi , can ascend the Pitṛ Loka and no further; hence it is called Pitṛ-Yāna" or the vehicle of the Pitṛs.)
-
-
 
 **गुदस्य पृष्ठभागेऽस्मिन्वीणादण्डस्य देहभृत्।  
 दीर्घास्थि मूर्ध्निपर्यन्तं ब्रह्मदण्डीति कथ्यते॥१३॥**
@@ -618,16 +524,10 @@ up to the top of the head where the Sahasrāra[^7]exists), it is bright and shin
 
   \[That Nāḍi that takes its origin from the Sahasrāra, and growing gradually finer, descends through the canal of the spinal column, is called the Suṣumnā. At first nine sets of smaller Nāḍis spring from it and spread
 
-
-
 towards the eyes and other organs of sense, etc.; afterwards from each joint of the spinal column to which the pairs of ribs are attached, one on either side, and underneath each rib, there are successively stretched thirty-two sets of Nāḍis, with innumerable branchlets covering the whole body like a network; these produce the sense of touch and perform other necessary work requisite for the upkeep of the Sthula Śarīra. These Nāḍis are so fine in their texture that if 400 of them be collected and tied together, still they cannot be seen by the naked eye; though so fine, still they are, like pipes, hollow and in this space there exists a certain substance, like oil, in which the Caitanya reflects; for this reason the Rṣis call the Suṣumnā the parent of all these smaller Nāḍis, the Jñāna-Nāḍi, and consider it to be just like a tree with its innumerable branches covering the whole of the human body, the root being upwards -at the Sahasrāra-and the branches downwards.\]
-
-
 
 **तस्य मध्यगताः सूर्यसोमाग्निपरमेश्वराः।  
 भूतलोका दिशःक्षेत्रसमुद्राः पर्वताः शिलाः॥**
-
-
 
 **द्वीपाश्च निम्नगा वेदाःशास्त्रविद्याकलाक्षराः।  
 स्वरमन्त्रपुराणानि गुणाश्चैते च सर्वशः॥  
@@ -637,8 +537,6 @@ towards the eyes and other organs of sense, etc.; afterwards from each joint of 
  16. The Sun, the Moon, and the other Devatas, the fourteen Lokas of Bhur, Bhuvar, etc., the ten directions, East, West, etc., the sacred places, the seven oceans, the Himālaya and other mountains, the seven Islands of Jambu, etc., the seven sacred rivers, Gangā, etc., the four Vedas, all the sacred philosophies, the sixteen vowels and twenty-four consonants, the Gāyatri and other sacred Mantras, the eighteen Purāṇas and all the Upa-Purāṇas included, the three Gunas, Mahat itself, the root of all the Jīvas , the Jīvas and their Ātman, the ten breaths, the whole world, in fact, consisting of all these, exists in the Suṣumnā.
 
  \[As all outward objects that are cognizable by the human senses are reflected in the Suṣumnā Nāḍi, therefore the Ṛṣis call this body the "microcosm". For instance, when you see the sun, moon, or the stars, you do not actually go near to them in order to see,
-
-
 
 but you see them because they are reflected in your Suṣumnā Nāḍi. If your mind had the power to go out of your body, in order to see them, then you would be able to see all and everything that lies in the "Royal Road," and in such a case you would know all and every occurrence that takes place in every quarter of this globe, nay, and somewhere else, in this vast universe.\]
 
@@ -651,8 +549,6 @@ but you see them because they are reflected in your Suṣumnā Nāḍi. If your 
 **कर्ममार्गेण सुषिरास्तिर्यञ्चः सुषिरात्मकाः॥१८॥**
 
   18. In this human body there exist seventy-two thousand Nāḍis which admit of sufficient
-
-
 
 space for entrance into them through Vāyu; the Yogis alone become acquainted with the true nature of these Nāḍis by the virtue of their Yoga-Karma.
 
@@ -668,8 +564,6 @@ space for entrance into them through Vāyu; the Yogis alone become acquainted wi
 
   \[Of the nine sets of nerves springing from the Suṣumnā, at first one set enters into the organ of sight, but it forms into a circle before
 
-
-
 branching out and entering into both the eyes, this circle is called Agni-Loka. Similarly the circle which the second set of the nerves makes before entering into the nostrils, is known by the name of Amarāvatī or the capital of Indra-Loka.\]
 
 **याम्या संयमनी श्रोत्रे यमलोकः प्रतिष्ठितः।  
@@ -680,8 +574,6 @@ branching out and entering into both the eyes, this circle is called Agni-Loka. 
   \[Yama-Loka means the sphere of Death, because there exists such a delicate place near the ear that a slight injury is likely to cause death to a person; hence this sphere is called Yama-Loka.
 
  Nairṛta-Loka is also called Rākṣo-Loka. At the side of Yama-Loka there exists a place the nerves of which enable a person to masticate hard things such as meat, etc.; hence this place is known by the name of Nairṛta-Loka or Rākṣo-Loka.\]
-
-
 
 **विभावरी प्रतीच्यां तु पृष्ठे वारुणिका पुरी।  
 वायोर्गन्धवती कर्णपार्श्वे लोकः प्रतिष्ठितः॥२२॥**
@@ -694,8 +586,6 @@ branching out and entering into both the eyes, this circle is called Agni-Loka. 
 
 **सौम्या पुष्पवती सौम्ये सोमलोकस्तु कण्ठतः।  
 वामकर्णे तु विज्ञेयो देहमाश्रित्य तिष्ठति॥२३॥**
-
-
 
   23. On the north side of Suṣumnā, extending from the throat up to the left ear, and in the sphere of Kubera, known by the name of Puṣpavatī, exists the Candra-Loka.
 
@@ -710,8 +600,6 @@ branching out and entering into both the eyes, this circle is called Agni-Loka. 
 अनामयमधश्चोर्ध्वं मध्यमं तु बहिः शिवम्॥२५॥**
 
   25. Like the dreadful fire at the time of Pralaya, the eternal dwells at the sole of the feet; the same all-pure eternal imparts
-
-
 
 blessing both above, below, in the middle, in and out (of the body).
 
@@ -729,10 +617,6 @@ blessing both above, below, in the middle, in and out (of the body).
 
   27. The lower portion of the thigh (Jānu) is called Mahātala; the upper portion of it
 
-
-
-
-
 (Uru) is called Rasātala, and the loin (Kaṭi) is termed Talātala. In this way it is proper to know the seven Pātālas that exist in the human body.
 
 **कालाग्निरकं घोरं महापातालसंज्ञया।  
@@ -747,8 +631,6 @@ blessing both above, below, in the middle, in and out (of the body).
   29. Bhūr-Loka exists in the navel; in the armpit[^9] exists the Bhuvar, while the Svarga-Loka, with the sun, moon, and stars, dwells in the heart.
 
 [^9]: "This localizes a great nervous and magnetic centre that directs every motion of the arms."
-
-
 
 **सूर्यसोमसुनक्षत्रं बुधशुक्रकुजाङ्गिराः।  
 मन्दश्च सप्तमो ह्येष ध्रुवोऽन्तः स्वर्गलोकतः।  
@@ -770,8 +652,6 @@ blessing both above, below, in the middle, in and out (of the body).
 
 [^10]: "That is, like the egg of Brahmā."
 
-
-
 up by Fire, the Air swallows up the Fire, and the Ākāśa drinks the Air in turn; but the Ākāśa itself is assimilated in the Mind, the Mind in Buddhi, the Buddhi in Ahaṅkāra, the Ahaṅkāra in Citta, and the Citta in Kṣetrajña (i.e., Ātman or Spirit).
 
  \Ahaṅkāra here means "self-consciousness," Mahat, or the Third Logos; it corresponds to the Mind in the human principles. Citta means the "abstract consciousness," the Second Logos, corresponding to Buddhi of the human principles. Kṣetra-jňa, or the knower of the planes, means the Spirit or the First Logos, corresponding to the Ātman of the human principles of the exoteric Theosophy. Mind here means the Kāma Mind, and Buddhi means the faculty of ascertaining truth.
@@ -779,10 +659,6 @@ up by Fire, the Air swallows up the Fire, and the Ākāśa drinks the Air in tur
  According to the definition given by Śri Śaṅkarāchārya in his *Viveka-[Chūdāmani[^11]*,the Mind, Buddhi, Ahaṅkāra, and Citta are the four handmaids of Antaḥkaraṇa; the quality of Mind is to doubt, that of Buddhi is to ascertain, Citta retains or keeps, while
 
 [^11]: "Text in Devanagiri and Translation in English by Mohini Mohan Chatterji, F.T.S. Published by the Theosophical Publishing House, Adyar, Madras, India."
-
-
-
-
 
 Ahaṅkāra expresses its self-consciousness or shows "I-am-ness". The place of the mind is the throat, that of Buddhi the mouth, Citta dwells in the navel, while Ahaṅkāra resides in the heart[^12].\]
 
@@ -801,8 +677,6 @@ Ahaṅkāra expresses its self-consciousness or shows "I-am-ness". The place of 
 **घटाकाशमिवात्मानं विलयं वेत्ति तत्त्वतः।  
 स गच्छति निरालम्बं ज्ञानालोक्यं न संशयः॥३६॥**
 
-
-
  36. He who has been able to acquire the knowledge of the Tattvas that the Jīvātman is absorbed in the Paramātman, even as the Ākāśa of the Pot is absorbed in the Mahākāśa, becomes undoubtedly free from the chain of ignorance, and goes into the sphere of the Light of Supreme Knowledge and Wisdom.
 
 **तपेद्वर्षसहस्राणि एकपादस्थितो नरः।  
@@ -818,8 +692,6 @@ Ahaṅkāra expresses its self-consciousness or shows "I-am-ness". The place of 
 
   Those that constantly chant the four Vedas and read other religious works and yet fail to realize "I am that Brahman," they are like the
 
-
-
 spoons that are used for every cooking operation, but yet remain without a single taste of the foods they prepare.
 
  As the ass bears the burden of sandal (wood), whereby he feels only the weight of the load and not the virtue of the sandal, even so is the case of the (nominal) readers of the many Śāstras, because they do not understand the *real* meaning of them, but carry them about like the beast of burden.
@@ -834,8 +706,6 @@ spoons that are used for every cooking operation, but yet remain without a singl
 
  39. At the time when the body oscillates backward and forward, the Brāhmaṇa who hesitates to believe that he is Brahman fails
 
-
-
 to understand the great subtle Ātman, even if he be conversant with the four Vedas.
 
  \[At the time of practising meditation, when the Suṣumnā commences dancing up and down the spinal cord by the force of the uprising Fire of Brahmā, then the Liṅga Śarīra within begins to move, which necessarily moves or swings the physical body; if at such a time one fails to consider himself "I am That" his study of the Vedas and Śāstras is simply useless.
@@ -844,8 +714,6 @@ to understand the great subtle Ātman, even if he be conversant with the four Ve
 
 **गवामनेकवर्णानां क्षीरं स्यादेकवर्णकम्।  
 क्षीरवद्दृश्यते ज्ञानं देहिनां च गवां यथा॥४०॥**
-
-
 
  40. Although the cows may be of different colours, but the colour of their milk is one and the same; even so in the case of the Jīva, the bodies may look different, but the Ātman is one and the same in all.
 
@@ -860,8 +728,6 @@ to understand the great subtle Ātman, even if he be conversant with the four Ve
 तृप्ताः कामेन वाध्यंते चांते वा निशि निद्रया॥४२॥**
 
  42. In the morning a man performs the necessities of life, in the middle of the day he fills his stomach with food, in the evening he satisfies the cravings of his sexual desire, and afterwards falls into the embraces of deep sleep— such is the case with the beasts also.
-
-
 
 **नादबिंदुसहस्राणि जीवकोटिशतानि च।  
 सर्वंच भस्मनिर्धूतं यत्र देवो निरंजनः॥४३॥**
@@ -880,10 +746,6 @@ to understand the great subtle Ātman, even if he be conversant with the four Ve
 **मनसो ह्युन्मनीभावाद्द्वैतं नैवोपलभ्यते।  
 यदा यात्युन्मनीभावं तदा तत्परमं पदम्॥४६॥**
 
-
-
-
-
  46. When the Mind becomes free from all desires and passions, then only the idea of duality ceases. When there arises that state of Advaita feeling (all in One and One in all), there dwell the supreme Feet of the Brahman.
 
 **हन्यान्मुष्टिभिराकाशं क्षुधार्तः खण्डयेत्तुषम्।  
@@ -891,22 +753,11 @@ to understand the great subtle Ātman, even if he be conversant with the four Ve
 
  47. As an hungry person simply wastes his energy in vain when he strikes the air with blows for food, so also a reader of the Vedas and other Śāstras simply wastes his time and energy, if, notwithstanding his study, he fails to realize that "I am Brahman".
 
-
-
-
-
 ![](../books_images/U-IMG-1724214539line5.png)  
-
-
-
 
 **तृतीयोऽध्यायः**
 
 CHAPTER III
-
-
-
-
 
 **श्रीभगवानुवाच—**
 
@@ -919,8 +770,6 @@ CHAPTER III
 
 **पुराणं भारतं वेदशास्त्राणि विविधानि च।  
 पुत्रदारादिसंसारो योगाभ्यासस्य विघ्नकृत्॥२॥**
-
-
 
  2. The Purāṇas, the Bhārata, the Vedas, and various other Śāstras, wife, children, and family are simply so many obstacles on the path of Yoga-practice.
 
@@ -939,8 +788,6 @@ CHAPTER III
 **पृथिव्यां यानि भूतानि जिह्वोपस्थनिमित्तकम्।  
 जिह्वोपस्थपरित्यागे पृथिव्यां किं प्रयोजनम्॥५॥**
 
-
-
  5. Out of all the beautiful objects that exist in this world, most are intended either to please the tongue or give pleasures to sex: if you can relinquish the pleasures of both these, then where is the necessity of this world for you. (Meaning that these two constitute the essence of selfishness in a man's mind; discard them, and you get rid of the selfish feeling, thereby living for virtue and the good of humanity alone.)
 
 **तीर्थानि तोयपूर्णानि देवान्पाषाणमृन्मयान्।  
@@ -952,8 +799,6 @@ CHAPTER III
 प्रतिमा स्वल्पबुद्धीनां सर्वत्र समदर्शिनाम्॥७॥**
 
  7. Agni or Fire is the god of the twice-born who are given to sacrifice; the Munis call the Ātman within them their god, the less
-
-
 
 intelligent portion worship the idols, but the Yogis see Brahman equally everywhere— both in the fire, within themselves, in idols, and all around.
 
@@ -972,8 +817,6 @@ intelligent portion worship the idols, but the Yogis see Brahman equally everywh
 
  10. As the serene bright sky is observable with all its panorama of forms, names, and colours, so he who is able to realize the idea that "I am Brahman "— in spite of all forms,
 
-
-
 names, and colours— alone can see the Eternal Paramātman actually.
 
 **अहमेकमिदं सर्वं इति पश्येत् परं सुखं।  
@@ -984,8 +827,6 @@ names, and colours— alone can see the Eternal Paramātman actually.
 सर्वत्र परमात्मानं ब्रह्मात्मा परमात्मनाम्॥११॥**
 
  11. The Yogi, while meditating, should contemplate that "I am the whole universe": in this manner he shall see that Paramātman— the Abode of Supreme Bliss— with the eyes of his knowledge. As long as he shall think of the Ākāśa and identify himself with it, so long shall he consider the All-Pervading Paramātman like the Ākāśa itself, for the Great Subtle Production from the Portal of Mokṣa, the All-full Abode of Nirvāṇa, the Eternal Paramātman dwells in the heart of all Jīvas, in the form of the Ray of Knowledge -the Spiritual Soul-in man; this Paramātman should be known as the Brahmātman of the Paramātman-knowing Yogis.
-
-
 
 **अहं ब्रह्मेति यः सर्वंविजानाति नरः सदा।  
 हन्यात्स्वयमिमान्कामान्सर्वाशी सर्वविक्रयी॥१२॥**
@@ -1000,8 +841,6 @@ names, and colours— alone can see the Eternal Paramātman actually.
 ऋतुकोटिसहस्राणां ध्यानमेकं विशिष्यते॥१३॥**
 
  13. Where the Yogis stay for one second or even half a second, that place becomes sacred like Kuru-Kśetra, Prayāga and Naimiṣāraṇya because the thought of Spirituality for one brief second has a greater effect than one thousand millions of sacrifices.
-
-
 
 **ब्रह्मज्ञानान्नान्यदस्ति निर्दहेत् पुण्यपापके।  
 मित्रामित्रे सुखं दुःखं इष्टानिष्टे शुभाशुभे।  
@@ -1018,36 +857,12 @@ names, and colours— alone can see the Eternal Paramātman actually.
 अश्मानं च हिरण्यं च शाकं शाल्योदनं तथा।  
 समानं चिन्तयेद्योगी यदि चिन्त्यमपेक्षते॥१६॥**
 
-
-
  16. O Arjuna, the Yogi should not think about or concern himself for his maintenance; if, however, such a thought is necessary at all, then let him beg for alms simply to maintain his body, and protect himself from cold by the clothes of charity; to him diamond and stones, green vegetables and coarse rice, and all other objects in this world, are of equal value (i.e., he becomes indifferent to all).
 
 **भूतवस्तुन्यशोचित्वे पुनर्जन्म न विद्यते॥१७॥**
 
  17. O Arjuna, he who does not covet material objects, never takes birth again in this world.
 
-
-
-
-
-
-
 ![](../books_images/U-IMG-1724215719line5.png)
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-

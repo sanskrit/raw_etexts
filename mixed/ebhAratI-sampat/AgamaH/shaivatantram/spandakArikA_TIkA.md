@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0OTM4MDI5MjM
 
 \[
 
-
-
 ***स्पन्दकारिका टीका***
 
 प्रथमो निःष्यन्दः
@@ -185,8 +183,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0OTM4MDI5MjM
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
 गन्धर्व-नगरम् । द्सो सन्स्क्रितर्छिवे
-
 
 \]

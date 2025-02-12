@@ -15,30 +15,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MjI2NTU3MjM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 ![](../../../../../../../../../books_images/U-IMG-1698209865Oct25.png)  
-
 
 **॥श्रीशारदाम्बा, शृङ्गगिरि॥**
 
 [TABLE]
-
-
 
 |                                                                                 |
 |:-------------------------------------------------------------------------------:|
@@ -46,12 +29,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MjI2NTU3MjM
 
 **॥ श्रीसच्चिदानन्दशिवाभिनवनृसिंहभारतीस्वामिनः ॥**
 
-
-
 ![](../../../../../../../../../books_images/U-IMG-1695821235Screenshot2023-09-27185532.png)
 
 **॥श्री श्रृङ्गेरीजगद्गुरुसंस्थानम्॥**
-
 
  श्रीमत्परमहंसपरिव्राजकाचार्यवर्यपदवाक्यप्रमाणपारावारपारीण यमनियमासनप्राणायामप्रत्याहारध्यानधारणसमाध्यष्टांगयोगानुष्ठाननिष्ठतपश्चक्रवर्त्यनाद्यविच्छिन्नगुरुपरंपराप्रप्तड्दर्शनस्थापनाचार्य व्याख्यानसिंहासनाधीश्वर सकलनिगमागमसारहृदयसांख्यत्रयप्रतिपादक वैदिकमार्गप्रवर्तक सर्वतन्त्रस्वतन्त्रादिराजधानी विद्यानगरमहाराजधानी कर्णाटकसिंहासनप्रतिष्ठापनाचार्य श्रीमद्राजाधिराजगुरुभूमण्डलाचार्य ऋश्यशृङ्गपुरवराधीश्वर तुङ्गभद्रातीरवासिश्रीमद्विद्याशंकरपादपद्माराधक श्रीजगद्गुरु
 
@@ -96,15 +76,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MjI2NTU3MjM
   पुस्तकस्यास्य प्रकाशने यदीयमेव महत्तरं साहाय्यमनन्यथासिद्धतया कारणभावमवलम्बते तेषामास्तिकधुरीणानां महतांवादान्यानाम् उपकारं प्रति शास्त्री सोऽयमनिर्यातनीयमाधमर्ण्यंमन्मुखेन महाजनानवजिगमिषयतीति च प्रस्तुवन् काव्यरत्नमेतदास्तिकसमक्ष-मुपहारीकृत्यात्मनो धन्यतां
 सम्पादयितुमभिलषति॥
 
-
-
 सहृदयसमुदायदासः  
 **अनन्तनारायणशास्त्री**  
 गोश्रीराजकीयाङ्गलकलाशालासंस्कृताध्यापकः
 
 **॥श्रीरामो विजयते॥**  
 FOREWORD.
-
 
  SRI SANKARA, the founder or rather the expounder of theAdvaita system of philosophy, is God Sankara himself.God Sankara as Dakshinamurty revealed to the Rishis ofold, Parabrahmatattvam by his Chinmudra, his studiedsilence and his illuminating smile, and this had the effectof dispelling their doubts and conveying Brahmatattvamto them. God Sankara, an Ocean of mercy, feeling thatthe instruction then imparted, though suited to that time,ceased to have the same effect later on, decided to appearas Sri Sankara in this sinful age of Kali, to impart thesame instruction in a manner suited to this age. Theway was prepared for it by Vyasa Bhagawan, the greatgrandson of Vasishtha by his Brahmasutras and by LordSri Krishna by his Bhagavad Gita. The word of God, theUpanishads, proclaimed to the world from the very beginning the grand truth. Sri Sankara's Bhashyas on theabove three viz., Brahmasutras, Bhagavad Gita and theUpanishads have revealed Parabrahmatattvam to the world for all time to come.  
  Birth and Death are two undoubted facts true of allbeings. What is birth? What is death? Let us takeman. What is he? He is the body plus Jiva. He is said tobe born when the body comes out of the womb with Jiva.When Jiva parts company with the body, it is calleddeath. The question naturally arises whether with deaththe body alone ceases to exist or also Jiva and whetherJiva comes into existence only when the body gets life inthe mother's womb. That the human body has a beginningand an end is unquestionable. Is the same true of Jiva?The body is mortal, and no one mistakes a dead body fora man. Did Jiva enter the body, and did he leave it?That is to say, was Jiva in existence before the body, anddoes he exist after the body? If the answer is in the affirmative, the further question arises whether Jiva is mortalor immortal. IfJiva is immortal, then arises the questionwhether Jiva is one with God or independent of God and therefore one with limited vision. In other words, whatis Jiva, how do you account for Jiva's enjoyment ofpleasures and suffering of pains while in the human body,and what becomes of him when he is outside the humanbody and before he enters it again! These are the variousquestions which concern man. Sri Sankara has furnished as with suitable answers to the various questions in hismemorable Bhashya and thus fulfilled the object of hisAvatara.  
@@ -114,7 +91,6 @@ FOREWORD.
  Sri Nrisimha Bharati Swami followed closely on thefootstep: of Sri Sankara, and in the course of his toursthrough the presidency he took care to impress on theaudience the importance of the Vedas and the danger ofdoubting their authority. The Swamigal's vast learning,superior intelligence, boundless wisdom, uncommon kindness and above all his winning manners attracted verylarge audience wherever he went. The disciples hadimplicit confidence in his teachings, and the reform whichHis Holiness was able to effect is such as to earn the lasting gratitude of the thousands who came under his beneficent influence. Mr. Sastriar has in lucid language recounted the various things that happened during theSwamigal's tours at various places, and it is unnecessaryfor me to mention them here. The rich and the poor, theyoung and the old received equal attention from theSwamigal. The poor were the object of his bounty wherever he went. Sir Seshadri lyer and Mr. V. P. MadhavaRao, the late A. Ramachandra Iyer and C. R. Pattabirama Iyer were among his disciples. Prominent educatedpeople in all districts paid homage to him. Kaladi, thebirthplace of Sankara is now a place of pilgrimage solelythrough the efforts of this great Swamigal. The idea ofbuilding a temple for Sri Sankara and a Saradalaya atKaladi occurred to him and him alone. Royal familiesof Mysore, Travancore and Cochin paid homage to him.  
  The Swamigal was responsible for the founding of thevarious schools for the study of Sastras in differentparts of the Presidency. The Chamarajendra SanskritCollege, Mysore is also due to the suggestion of His Holiness. The celebration of Sankara Jayanti was first begun by thelate Swamigal, and I went to Kaladi on two or threeoccasions under the Swamigal's orders to celebrate it therewith the help of the late Srinivasa Sastrigal of Nadukaveri, a pandit of eminence. Sankara Jayanti is nowcelebrated throughout the presidency, andand Sankara'sname has become a household-word.  
  I ought not to close this foreword of mine withoutmaking prominent mention of the Holy Saint who presides over the Mutt just now. The Sankara Matham atBangalore was founded by the late Swamigal, and a Sanskrit College is located therein which is maintained by theMutt. His Holiness Sri Chandrasekhara BharatiSwamigal, the present head of the Mutt, received his education in this institution. He was an ideal pupil, and Isay thison the testimony of his teachers BrahmasriVirupaksha Sastrigal (now the head of a mutt), Brahmasri Subrahmanya Sastrigal and Brahmasri VaidyanathaSastrigal, all eminent pandits. When I met them at theInstallation of the present head of the mutt, they spoke tome in glowing terms of the superior intelligence, admirable modesty and other remarkable qualities of their pupil.The late Swamigal bas laid us undera deep debt ofgratitude by the choice of a successor whose crudition.wisdom and Vairagya command the highest respect fromhis disciples. He who was an ideal pupil is now an idealteacher. I am speaking from personal experience,having heard some of his learned lectures. On the dayof the Installation he made an eloquent speech in Sanskrit, and the fluency and ease with which he spoke areinimitable. HeHe is a Paramahamsa by pre-eminence. Although the head of a rich mutt, the wealth and influence of the mutt do not count in his estimation. Duringhis last tour I had the good fortune to do Puja to him atmy house in Mrityunjayapuram, Trichur. In the courseof a lecture then delivered, he explained the meaning of theword Mrityunjaya. He observed Mrityunjaya ordinarilymeans one who has conquered death. The word Mrityumust be understood, he said, to mean Pramada or Delusion and quoted the memorable passage from Sanatsujatiyam -- **प्रमादं वै मृत्युमहं ब्रवीमि**Death, therefore, is theresult of the Delusion or the mistaken notion that bodyis Alman. The present Sanskrit College at Kaladi owesits existence to the present Swamigal.
-
 
 *20th September,* 1934.  
 *Mylapore, Madras.*
@@ -260,17 +236,13 @@ FOREWORD.
 आस्तामम्बाहृदयकमलोल्लासिनी ज्ञानशक्त्यै  
 धत्तां शुद्धं पदसरसिजं मङ्गलं सर्वदाप्तम्॥२७॥
 
-
-
 ———:0:———  
-
 
 ॥श्रीरामो विजयते॥
 
 **॥धर्मपद्धतिः॥**
 
 \_\_\_\_\_\_\_\_\_\_\_
-
 
 श्रीरस्माभिः सकलशुभदा प्रार्थ्यते सौख्यहेतोः  
 सा च स्वास्थ्याद्भवति नितरां तच्च लोभादिहानात्।  
@@ -1467,7 +1439,6 @@ FOREWORD.
 **---------------**  
 **पूर्वभागे तृतीयः सर्गः**
 
-
 पुरीं विचित्रामथ पुष्पपूर्णै-  
 र्नवैर्वितानैर्महिलासुगीतैः।  
 सुराङ्गनागीतसमैरुदात्तां  
@@ -2002,8 +1973,6 @@ FOREWORD.
 
 **       
 ---------------------**
-
-
 
 अथैकदन्तेन युतं षडाननं  
 श्रिया युतं पङ्कजलोचनं हरिम्।  
@@ -2956,7 +2925,6 @@ FOREWORD.
 ॥इति श्रीजगद्गुरुसच्चिदानन्दशिवाभिनवश्रीनृसिंहभारतीविजये  
 पूर्वभागे पञ्चमः सर्गः॥
 
-
 **पूर्वभागे षष्ठः सर्गः**  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3453,7 +3421,6 @@ FOREWORD.
 ॥इति श्रीजगद्गुरुसच्चिदानन्दशिवाभिनवश्रीनृसिंहभारतीविजये  
 पूर्वभागे पष्ठः सर्गः॥
 
-
 **॥पूर्वभागे सप्तमः सर्गः॥**
 
 ग्रामं तमभ्येत्य गुरुः प्रहृष्टो  
@@ -3932,7 +3899,6 @@ FOREWORD.
 ॥इति श्रीजगद्गुरुसच्चिदानन्दशिवाभिनवनृसिंहभारतीविजये  
 पूर्वभागे सप्तमः सर्गः॥
 
-
 **॥पूर्वभागे अष्टमः सर्गः॥**  
 **----------------**
 
@@ -4282,7 +4248,6 @@ FOREWORD.
 पूर्वभागे अष्टमः सर्गः॥  
   
 **पूर्वभागे नवमः सर्गः**
-
 
 गत्वा ततो धवलवृक्षनिरस्ततापं  
 ग्रामं पुटार्जुनमुदग्वदनां स्रवन्तीम्।  
@@ -4842,8 +4807,6 @@ FOREWORD.
 ॥इति श्रीजगद्गुरुसच्चिदानन्दशिवाभिनवश्रीनृसिंहभारतीविजये  
 पूर्वभागे नवमः सर्गः॥
 
-
-
 **पूर्वभागे दशमः सर्गः**  
 ----------------------------
 
@@ -5377,8 +5340,6 @@ FOREWORD.
 |     १७     |       लसतु       |       लषतु       |
 |     ९      |     प्रणम्य      |      समस्तं      |
 
-
-
 |            |              |               |
 |:----------:|:------------:|:-------------:|
 | **पङ्किः** | **अशुद्धम्** |  **शुद्धम्**  |
@@ -5404,8 +5365,6 @@ FOREWORD.
 |     १३     | -वास्तव्या-  |  -वास्तव्य-   |
 |     १४     |   वरद्रुम-   |   वटद्रुम-    |
 
-
-
 |            |               |              |
 |:----------:|:-------------:|:------------:|
 | **पङ्किः** | **अशुद्धम्**  | **शुद्धम्**  |
@@ -5418,11 +5377,7 @@ FOREWORD.
 |     ४      |    -सद्मनः    |    सद्म च    |
 |     १६     |  राङ्कभासि-   | राङ्कवभासि-  |
 
-
-
 [TABLE]
-
-
 
 **श्रीरामो विजयते।**  
 **श्रीसच्चिदानन्दनृसिंहभारतीविजये  
@@ -5964,8 +5919,6 @@ FOREWORD.
 आवाह्योक्त्वा नियमसरणिं रामचन्द्रं विशिष्टां  
 सर्वज्ञोऽसौ गुरुसुरपतिः शृङ्गशैलं प्रतस्थे॥१०७॥
 
-
-
 इति श्रीनृसिंहभारतीविजये द्वितीये भागे  
 कुम्भाभिषेककथनं नाम  
 प्रथमः सर्गः॥
@@ -6115,8 +6068,6 @@ FOREWORD.
 र्भूतार्थवाग्भिः परिगीयमानः।  
 तेने स सीमातिगकान्तिजुष्टं  
 गुरोर्महार्घं महमद्भुतस्य॥२८॥
-
-[^1]: " सत्यार्जवह्नीदमशमविद्याः."
 
 तस्मिन्महे सुन्दरशिष्यभास्व-  
 द्भक्तेश्च वैशाखविशिष्टलक्ष्म्याः।  
@@ -6362,7 +6313,7 @@ FOREWORD.
 प्रणाय्य शिष्याभिमतं गुरुः सः॥७६॥
 
 प्रियंवदः सर्वबुधोपलम्भ्यः  
-स [सातयं](http://॑ "सातयं सुखजनकम् ।  अनुपसर्गालिम्प —  इत्यादिना सातेः रूपम्।") सर्वजनाभिवन्द्यम्।  
+स [सातयं]("सातयं सुखजनकम् ।  अनुपसर्गालिम्प —  इत्यादिना सातेः रूपम्।") सर्वजनाभिवन्द्यम्।  
 भव्यप्रसादं भवमुक्तिहेतुं  
 भवस्य सच्छिष्यकरे व्यतारीत्॥७७॥
 
@@ -6427,10 +6378,9 @@ FOREWORD.
 प्यपचितिममितार्थां सत्यधर्मप्रचारे॥८९॥
 
 शुचिहिमकरवक्त्रः फुल्लपद्मायताक्षः  
-शुकगुरुगुरुपूजां प्राप [साधारणीयाम्](http://॑ "साधारणीयां साधारणसंवत्सरभवाम्॥")।  
+शुकगुरुगुरुपूजां प्राप [साधारणीयाम्]("साधारणीयां साधारणसंवत्सरभवाम्॥")।  
 परिरचयितुकामश्चक्रवर्ती यतीनां  
 निधिमभिनवभासामार्थपाल्याग्रहारम्॥९०॥
-
 
 इति श्रीनृसिंहभारती विजये  
 द्वितीये भागे द्वितीयः सर्गः।
@@ -6801,8 +6751,6 @@ FOREWORD.
 ताण्डवाय गुरुरत्नसंभवः[^2]  
 कौस्तुभाभमददादतिप्रियम्॥७२॥
 
-[^2]: "रत्नसंभवः समुद्रः।"
-
 सोऽत्यशेत वसुनैव नापरान्  
 किंतु भक्तिविनयश्रियापि च।  
 द्विस्त्रिरप्युपचचार तं गुरुं  
@@ -6918,8 +6866,6 @@ FOREWORD.
 हृदयपदविमर्शी प्राप कर्णाटराज्ये  
 प्रचुरकनकदायिक्षेत्रकोलार्प्रदेशम्॥९५॥
 
-
-
 इति श्रीनृसिंहभारती विजये  
 द्वितीये भागे तृतीयः सर्गः।
 
@@ -6928,7 +6874,6 @@ FOREWORD.
 **चतुर्थः सर्गः।**
 
 ![](../../../../../../../../../books_images/U-IMG-1696428142Screenshot2023-10-04193134.png)
-
 
 तत्राधिकारी प्रथमः श्रीकण्ठेश्वरसंज्ञितः।  
 आसीदनन्यसुलभप्रीतिपात्रं गुरोस्तदा॥१॥
@@ -7288,7 +7233,6 @@ FOREWORD.
 
 **पञ्चमः सर्गः।**  
 **\_\_\_\_\_\_\_\_\_**  
-
 
 आचार्यस्तदनु समस्तराजकीयैः  
 गायद्भिर्गमनसमर्हगीतजालम्।  
@@ -7923,8 +7867,6 @@ FOREWORD.
 प्रतिष्ठितः श्रीलघुचन्द्रिकादिषु।  
 कुमारिलाद्युक्तिषु विश्रुतः सुधी-  
 र्भिषग्व[^6]राख्यो भवतामुभाविह॥४१॥
-
-[^5]: "सुब्रह्मण्यः"
 
 [^6]: "वैद्यनाथः"
 
@@ -10381,8 +10323,6 @@ FOREWORD.
 श्रीमीनाक्षी रक्षतु।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 श्रीबालमनोरमा प्रेस्, मैलापूर्, मड्रास्
 
@@ -10410,8 +10350,6 @@ FOREWORD.
 |     ३७     |          वैराधि          |         वैरोधि          |
 |     ५०     |       श्रद्धाभक्ती       |     श्रद्धाभक्त्या      |
 |     ७६     |         माचान्तु         |         मागन्तु         |
-
-
 
 |            |                   |                |
 |:----------:|:-----------------:|:--------------:|
@@ -10441,21 +10379,10 @@ FOREWORD.
 |     २५     |      विद्यां      |     विद्या     |
 |     २७     |   भक्ते लोकगुरौ   | भक्तेर्लोकगुरौ |
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
+[^5]: "सुब्रह्मण्यः"
 
+[^2]: "रत्नसंभवः समुद्रः।"
 
-
-
-
+[^1]: " सत्यार्जवह्नीदमशमविद्याः."

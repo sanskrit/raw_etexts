@@ -16,18 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3NDU5NjM5NDk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
  *Poona Oriental series no.88*
 
 **॥ श्री॥**
@@ -272,11 +260,7 @@ Makar Samkranta,
 **श्रीनिवासंप्रणीतेयं 'गान्धीगीता'शुभाशया।  
 भारतीयसमुन्नत्यैसदा स्याच्छान्तिदायिनी॥ १४ ॥**
 
-
-
 **![](../books_images/U-IMG-1723397467jkjhjhsdhjgfghgjhdfg112454.jpg)**
-
-
 
 **॥ श्रीरस्तु॥**
 
@@ -2579,8 +2563,6 @@ Makar Samkranta,
 वसन्ति मां जन्मभूमिं च मत्वा  
 मत्पुत्रास्ते बान्धवा युष्मदीयाः॥ ३६ ॥**
 
-
-
 **अन्येऽप्येवं पारसीकादयश्च  
 यैःस्वीकृताहं बत मातृबुध्द्या।**  
 **मोदन्तां ते सर्व एवैक्यभावे  
@@ -2612,8 +2594,6 @@ Makar Samkranta,
 **॥ इति श्रीगान्धीगीतायां मातृदर्शनयोगो नाम  
 सप्तदशोऽध्यायः॥ १७ ॥  
 ———**
-
-
 
 **अथ अष्टादशोऽध्यायः।**
 
@@ -2655,8 +2635,6 @@ Makar Samkranta,
 
 **ये नियुक्ता परैरत्र राज्ययन्त्रस्य रक्षणे।**
 
-
-
 **ये चास्मदीयास्तेषां वै सेवका वशगास्त्विह॥ ११ ॥**
 
 **ते युष्मान्विविधोपायैर्भीषयिष्यन्ति पुत्रकाः।  
@@ -2695,8 +2673,6 @@ Makar Samkranta,
 **कार्यस्य मा विरामोऽस्तु त्यक्त्त्वाभीतिं यतव्रताः।  
 राजशासनमेवैषां यतध्वं रोद्धूमग्रतः॥ २३ ॥**
 
-
-
 **सर्वतोऽप्येककालेन दृष्ट्वा लोकान्मुत्थितान्‌।  
 शस्त्रैःप्राणापहरणे यतेरन्राज्यरक्षकाः॥ २४ ॥**
 
@@ -2734,8 +2710,6 @@ Makar Samkranta,
 इति ज्ञातापि समितो विरोधो दृश्यते सदा॥ ३५ ॥**
 
 **उदारास्त्वांग्लनेतारोराष्ट्रेशान्तिमभीप्सवः।**
-
-
 
 **सर्वेषां हितमुद्दिश्ययत्किंचित्साधयन्ति ते॥ ३६ ॥**
 
@@ -2777,8 +2751,6 @@ Makar Samkranta,
 
 **यथा मात्रा भाषितं तत्तथा सर्वमभूत्किल।**
 
-
-
 **आदौ कारागृहे बद्धो महात्मा राजसेवकौः॥ ४७ ॥**
 
 **आंग्लामात्यनियोगेन पश्चात्तैरेव संमता।  
@@ -2818,8 +2790,6 @@ Makar Samkranta,
 
 **यूयं भेदैःसमक्रान्ताः कलहेच रताः सदा।**
 
-
-
 **येनांग्लानां सुखं राज्यं हिन्दभूमौप्रवर्तते॥ ५९ ॥**
 
 **तन्न जानीथ दुर्भाग्यं किमितः स्थान्महत्तरम्‌।  
@@ -2858,8 +2828,6 @@ Makar Samkranta,
 **अस्पृश्य इति नामापि न श्रूयेत यथा तथा।  
 तेषां समुद्यमं दृष्ट्वा महात्मा मुदितोऽभवत्‌॥ ५० ॥**
 
-
-
 **सर्वे हरिजना एते बान्धवा हिन्दुधर्मिणः।  
 विष्णुभक्ताश्च सन्तश्च राष्ट्रस्य हितकारिणः॥ ७१ ॥**
 
@@ -2896,8 +2864,6 @@ Makar Samkranta,
 
 **हिन्दुमुस्लीमयोरैक्यंन कदापि भविष्यति।  
 तेन स्वातन्त्र्यलाभश्चकस्यापि सुलभो न हि॥ ५ ॥**
-
-
 
 **यावद्भेदोभवेल्लोके तावदांग्लायशस्विनः।  
 स्वार्थ संसाधयन्तीह विरोधस्तत्र दुर्बलः॥ ६ ॥**
@@ -2936,8 +2902,6 @@ Makar Samkranta,
 
 **अत्रान्तरे राज्ययन्त्रे नवीना घटनाकृता।  
 आंग्लैराष्ट्रप्रभेदाय याभवत्कलहाय च॥ १७ ॥**
-
-
 
 **हिन्दवो बहुसंख्याका मुस्लीमाश्चाल्पसंख्यकाः।  
 तथापि मा भूदन्यायो मुस्लीमेष्विति हेतुना॥ १८ ॥**
@@ -2979,8 +2943,6 @@ Makar Samkranta,
 एकोनविंशोऽध्यायः॥ १९ ॥  
 —————**
 
-
-
 **अथ विंशोऽध्यायः।**
 
 **संजय उवाच।**
@@ -3020,8 +2982,6 @@ Makar Samkranta,
 
 **आंग्लानां भारते राज्यं तेषामेव हिताय तत्‌।**
 
-
-
 **राजप्रतिनिधिश्चापि तेषामादेशकार्यसौ॥ १२ ॥**
 
 **तेन चैषां मतं ज्ञात्वा स्वीकृता युद्धघोषणा।  
@@ -3059,8 +3019,6 @@ Makar Samkranta,
 
 **पूर्वसागरभागेऽपि जपानीया जिगीषवः।  
 जित्वा द्वीपानि बहुशो देशांश्चापि ततोऽजयन्‌॥ २४ ॥**
-
-
 
 **तत्रत्या ये युरोपीया न पर्याप्ता बलेन ते।  
 तस्मात्प्रपूर्वदिग्भागोजपानीयैर्वशीकृतः॥ २५ ॥**
@@ -3100,8 +3058,6 @@ Makar Samkranta,
 
 **एव जयाशा युध्यद्भिराग्लैर्दृष्टा यदा शुभा।**
 
-
-
 **भारतीयास्तदैवैभिःसर्वत्राप्यवहेलिताः॥ ३७ ॥**
 
 **उद्‌घोषयन्ति सर्वत्र स्वकीयं न्यायपालनम्‌।  
@@ -3140,8 +3096,6 @@ Makar Samkranta,
 **महात्मा संन्निरुद्धोऽपि नैव शान्तः कथंचन।  
 तत्र दवैवशात्तस्य भार्या साध्वी मृता तदा॥ ४९ ॥**
 
-
-
 **सर्वदा सर्वकार्येषु सा पत्युःसहचारिणी।  
 मातेव राष्ट्रेसर्वत्रसंमता वंदिता जनैः॥ ५० ॥**
 
@@ -3178,8 +3132,6 @@ Makar Samkranta,
 
 **एवं तेषां राज्यतृष्णा वर्धते सा दिने दिते।  
 विरोधस्तत्र सुस्पष्टो राष्ट्रियाणां समञ्जसः॥ ८ ॥**
-
-
 
 **हिमशैलात्सागरान्तमखण्डं सृष्टिनिर्मितम्‌।  
 विस्तीर्णं भारतं वर्षमेकात्म्यमपि तत्र हि॥ ९ ॥**
@@ -3219,8 +3171,6 @@ Makar Samkranta,
 
 **नष्टो हिटलरश्चापि नष्टा अनुचरास्तथा।**
 
-
-
 **वृथा विश्वजिगीषापि नष्टा स्मृतिपथं गता॥२१॥**
 
 **द्वितीयेऽपि महायुद्धे यशो लब्ध्वैवमन्ततः।  
@@ -3258,8 +3208,6 @@ Makar Samkranta,
 
 **तथापि राष्ट्रियांस्त्यक्त्वा केवलैर्मुस्लिमैःसह।  
 दुष्करं कार्यमित्येव मतमांग्लैःप्रदर्शितम्‌॥ ३३ ॥**
-
-
 
 **तेनाधिकतरो रोषो मुस्लीमानां च हिन्दुषु।  
 घाताय सर्वथा युक्ता राष्ट्रकार्यस्य ते तदा॥ ३४ ॥**
@@ -3299,8 +3247,6 @@ Makar Samkranta,
 
 **यावन्न प्राप्यतेऽस्माकमुद्दिष्टं राष्ट्रखण्डनम्‌।**
 
-
-
 **प्रतिकुर्मस्तावदेव सभासु प्रवदन्ति ते॥ ४६ ॥**
 
 **तत्रापि तेषां कौटिल्यं सुस्पष्टं दृश्यते जनैः।  
@@ -3338,8 +3284,6 @@ Makar Samkranta,
 
 **॥ इति श्रीगान्धीगीतायां मुस्लीमाभियोगो नामैकाविंशोध्यायः॥ २१ ॥  
 ————**
-
-
 
 **अथ द्वाविंशोऽध्यायः।**
 
@@ -3380,8 +3324,6 @@ Makar Samkranta,
 **सर्वेषां संमतं पूर्वं मोतीलालजिनादिभिः।  
 यत्प्रस्तुतं देशकार्यं तदिदानीं सविस्तृतम्॥ ११ ॥**
 
-
-
 **पाकिस्तानं विना शान्तिर्देशे नैव भवेत्क्वचित्‌।  
 वदन्ति प्रकटं लोके मुस्लीमास्ते जिनादयः॥ १२ ॥**
 
@@ -3418,8 +3360,6 @@ Makar Samkranta,
 
 **महात्मनः संमता ये हिन्दराष्ट्रस्यमंत्रिणः।  
 साम्येन सर्वंपश्यन्तो न च्युता स्वीकृवाद्व्रतात्‌॥ २ ॥**
-
-
 
 **आंग्ल एवास्तु हिन्दस्य कंचित्कालप्रशासकः।  
 इति हेतोः प्राक्तनोऽसौबाटनः संनियोजितः॥ ३ ॥**
@@ -3459,8 +3399,6 @@ Makar Samkranta,
 
 **राष्ट्रे सर्वत्र मुस्लीमाः सुखेन विचरन्ति ते।**
 
-
-
 **न केऽपि तैर्विरुध्यन्ते स्वकीयत्वेन संमतैः॥ १५ ॥**
 
 **पाकिस्ताने तु सर्वत्र भीषिता हिन्दवस्तदा।  
@@ -3498,8 +3436,6 @@ Makar Samkranta,
 
 **अत्रत्यान्मुस्लिमान्हत्वा निष्कृतिर्न भवेद्यतः।  
 अतः शान्तिं समाश्रित्य युक्तं प्राप्तस्य सेवनम्‌॥ २७ ॥**
-
-
 
 **इत्येवमादिभिर्वाक्यैर्लोकेषु शममिच्छति।  
 तन्मतेनैव वर्तन्ते हिन्दभूमेः प्रशासकाः॥ २८ ॥**
@@ -3539,8 +3475,6 @@ Makar Samkranta,
 
 **इत्येव नीतिमाश्रित्यभेदः सर्वत्र कारितः।**
 
-
-
 **मुस्लीमानां धुरीणैःस फलितो भारते यथा॥ ४० ॥**
 
 **तथा सौराष्ट्रदेशेऽपि जुनागडनृपः खलः।  
@@ -3577,8 +3511,6 @@ Makar Samkranta,
 
 **एकरूपाः प्रजाः सर्वाहिन्दराष्ट्रेसमागताः।  
 मन्त्रिणोऽपि सदा तासां सुखायासंश्च तत्पराः॥ ५१ ॥**
-
-
 
 **भागाराज्याधिपस्त्वत्र दीर्घं मन्त्रं स्वमन्त्रिभिः।  
 कृत्वा हिन्देन प्राग्वच्चसंबन्धं निश्चिकाय सः॥ ५२ ॥**
@@ -3619,8 +3551,6 @@ Makar Samkranta,
 
 **तेनव्याकुलितो गान्धी महात्मा स्वयमाचरत्‌।**
 
-
-
 **प्रायोपवेशनं स्वेषां शुध्यर्थं शान्तये तथा॥ ६३ ॥**
 
 **आदावेव स वार्धक्यात्क्षीणशक्तिर्विशेषतः।  
@@ -3659,8 +3589,6 @@ Makar Samkranta,
 **आक्षिप्य गुलिकाश्चास्य देहे जर्जरिते तदा।  
 प्राणैर्व्ययोजयद्यावन्न ज्ञातं कैरपि क्वचित्‌॥ ७५ ॥**
 
-
-
 **क्षणादेवापतद्‌ भूमौ'हरे राम!'इति ब्रुवन्‌।  
 समदृष्टिः प्रशान्तात्मा सर्वभूतहिते रतः॥ ७६ ॥**
 
@@ -3696,8 +3624,6 @@ Makar Samkranta,
 
 **महात्मनो हि मरणे राष्ट्रे सर्वत्र विप्लवः।  
 स मुस्लीमहितायैव भवेदिति सुनिश्चितम्‌॥ ३ ॥**
-
-
 
 **संजय उवाच। **
 
@@ -3737,8 +3663,6 @@ Makar Samkranta,
 **भ्रष्टाः स्त्रियोहृता संपज्जीवनं कष्टमेव तत्‌।  
 केचनैव कथंचिञ्च हिन्ददेश समागताः॥ १५ ॥**
 
-
-
 **मन्त्रिणश्च सुसंमूढा मरणेन महात्मनः।  
 त्राणार्थं प्रार्थिवाश्चैतैर्निवेद्य नृपकारितम्‌॥ १६ ॥**
 
@@ -3776,8 +3700,6 @@ Makar Samkranta,
 दिने दिने वर्धते सा जीवने दैन्यकारिणि॥ २७ ॥**
 
 **केवलंवणिजो लोके विपुलं धनमाप्नुवन्‌।**
-
-
 
 **न्यायान्यायसपश्यन्तः केवलं स्वहिते रताः॥ २८ ॥**
 
@@ -3817,8 +3739,6 @@ Makar Samkranta,
 **निजामोऽपि यदा नैव हितबुद्धिं समाशृणोत्।  
 यदा च तत्प्रजाः सर्वास्तेन व्याकुलिता भृशम्‌॥ ४० ॥**
 
-
-
 **तदासावपि दण्डार्हःकृतो वैहिन्दमन्त्रिभिः।  
 ज्ञापितश्च सभास्वेवं भाषणैर्विविधैस्तथा॥ ४१ ॥**
 
@@ -3856,8 +3776,6 @@ Makar Samkranta,
 तमोव्याप्तश्च लोकोऽयं तेन व्याकुलितो भवेत्‌॥ ५२ ॥**
 
 **पश्चाद्वायुर्जवेनैतान्मेघानुद्धूय सर्वतः।**
-
-
 
 **सूर्यप्रकाशे सर्वांश्च सुखितान्संकरोति ह॥ ५३ ॥**
 
@@ -3898,8 +3816,6 @@ Makar Samkranta,
 **पाकिस्तानप्रणेतापि जिना कालवशं गतः।  
 हिन्दूनां पीडनायैव तदीयास्तु सदोद्यताः॥ ६४ ॥**
 
-
-
 **निःसार्यन्ते बलात्सर्वं हिन्दवस्त्राणमीप्सवः।  
 हिन्दभूमिमाश्रयन्ति पाकीयानां हिताय तत्‌॥ ६५ ॥**
 
@@ -3921,8 +3837,6 @@ Makar Samkranta,
 **॥ इति श्रीगान्धीगीतायां सर्वमङ्गलयोगो नाम चतुविंशोऽध्यायः॥२४ ॥**
 
 **॥ समाप्तेयंगान्धीगीता॥**
-
-
 
 **शुद्धिपत्रम्।**
 
@@ -3953,10 +3867,6 @@ Makar Samkranta,
 |  'वैयर्थ्य'   |  'वैयर्थ्यं'  |
 |    'हितं'     |    'हि तं'    |
 
-
-
-
-
 |                 |                  |
 |:---------------:|:----------------:|
 |   'राष्ट्रीय'   |   'राष्ट्रीय'    |
@@ -3982,8 +3892,6 @@ Makar Samkranta,
 
 ![](../books_images/U-IMG-1723913501zjhjk.jpg)
 
-
-
 Notes.
 
  1 This ध्यानserves also as a short introduction to the main work.
@@ -4008,8 +3916,6 @@ Notes.
 
  11 Everything is done by the representatives of the people, but solely in the name of the king who individually is powerless in the actual administration
 
-
-
 or direction of the subjects of national interest.
 
  12 The machinery of rule in India, as developed by the English, left no scope for any individual bias.
@@ -4028,8 +3934,6 @@ or direction of the subjects of national interest.
 
  19 Queen Victoria’s proclamation, when the ruling powers of India, were taken over from the East India Company.
 
-
-
  20 The socalled Anarchists of Bengal.
 
  21 Session of the Indian National Congress, at Calcutta, where under the presidentship of Dadabhoy Nowroji, a resolution was passed, declaring “Swarajya”—Homerule–as the goal of the National movement, accepting bycott of foreign goods, as one of the means to that end.
@@ -4047,8 +3951,6 @@ or direction of the subjects of national interest.
  27 Jagadishchandra Bose, the famous scientist of India.
 
  28 Even those, who, with good motives, worked, but failed, deserve praise. “Not failure, but low aim is crime,”
-
-
 
  29 Lala Lajpat Rai, Lion of Punjab.
 
@@ -4078,8 +3980,6 @@ or direction of the subjects of national interest.
 
  42 For some time, the trinity consisting of (1) Lal ( Lajpatrai ), (2) Bal ( Lokamanya Tilak ) and (3) Pal ( Bipinchandra ), led the Indian Nation.
 
-
-
  43 Round Table Conference, held in England in 1931, where Indian leaders of different political parties were invited to discuss the new constitution of the socalled “Svaraj.” No agreement could be arrived at after long and numerous meetings, and, at last, “Communal Award” was graciously granted to the Indian Nation, by Mr.Macdonald’s Government, in 1932.
 
  44 Mahatma’s fast, which brought about the Poona Pact, by which the depressed classes joined hands with the National Congress, on 26th September 1932.
@@ -4091,8 +3991,6 @@ or direction of the subjects of national interest.
  47 The constitution of 1935, which provided for weightage to minorities,i.e.the Muslims, so that where they were in a majority they could easily capture the Government of the Provinces, while in others, where they were in minority, special additional seats were given to them, the result being that muslims became powerful in all the provinces of India.
 
  48 The second world war, which subsequently engaged almost all the Nations of the world.
-
-
 
  49 Sanskritised form for “Germans”
 
@@ -4111,8 +4009,6 @@ or direction of the subjects of national interest.
  56 The ‘Atom bomb’ which brought the war to a deplorable end.
 
  57 ‘Amraka’ a sanskritised form for Americans.
-
-
 
  58 ‘Direct action’ of the Muslims, which started with killing of Hindus in Bengal, and the trouble took a serious form in other places, also.
 
@@ -4136,25 +4032,10 @@ or direction of the subjects of national interest.
 
  68 Making it impossible for the Hindus to stay in Eastern Pakistan, the recent shifting of lacs of
 
-
-
 Hindus to West Bengal, has added to the difficulties of the Indian Government.
 
  69 Being originally intended to be an imitation of the Bhagavadyita, this Gita also closed with 18th Adhyaya; but the manuscript lay with the author, for so many years, without its having any body to publish it, So that when, sometime back, the Hon. Shri Mavalankar read the manuscript, he suggested that the text be brought upto-date, including all the important developments in the National struggle for independence; and the author readily accepted the kind suggestion, adding six more Adhyayas, Thus bringing the total to 24.
 
-
-
 ![](../books_images/U-IMG-1723916743kjkkkklk.jpg)
-
-
-
-
-
-
-
-
-
-
-
 
 \]

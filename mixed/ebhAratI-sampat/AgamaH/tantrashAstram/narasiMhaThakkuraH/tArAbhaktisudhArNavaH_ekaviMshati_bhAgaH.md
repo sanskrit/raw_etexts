@@ -16,28 +16,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NDM0MTQyNTk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 INTRODUCTION— Printed by NANIGOPAL DUTT,  
 At the Emerald Printing Works,  
 15, D. L. Roy STREET;  
 CALCUTTA.
-
-
 
 INTRODUCTION
 
@@ -49,8 +33,6 @@ CHAPTER I
 
  The book opens with the customary homage (contained in the benedictory verses) to the Supreme Being and to the Guru who is an embodiment of Śiva. Just as there are obstacles and impediments to all actions, so also there are means of removing them. The ancient Indian authors are generally found to follow the practice of writing out benedictory verses or passages (Maṅgala) at the very beginning of the treatises, mainly intended to impart a smooth, unhampered finisto their works. A benediction usually consists of hymns addressed to the cherished deity or to the Supreme Divinity. The old authors firmly believed that such benedictions were essential to the removal of all obstructions which hampered the progress of any book to its expected end.
 
-
-
  Besides, the benedictory verses serve a practical purpose, almost in all cases they give in a nutshell the subject-matter of the work, *i.e.*, they serve the purpose of a prelude.
 
  Then comes the subject-matter. This commences with the story of Nīla Sarasvatī in the form of a dialogue between the great God Mahādevaand His divine consort Pārvatī. Nīla Sarasvatī, as described, is the Supreme Knowledge incarnate (**महाविद्या**) through whose grace Brahmā revealed the four Vedās, Vyāsa, the Mahābhārata and other sages—their sacred works.Her sovereignty in the domain of knowledge is held to be unquestionable, and nobody who is not favoured with her gracious look can ever aspireafter or attain success in this realm.
@@ -59,23 +41,17 @@ CHAPTER I
 
 [^1]: "In Tārārṇava mention is made of Vaśiṣṭa once having worshipped Tārā Devī.Matsya-Sūkta (मत्स्यसूक्त
 
-
-
 Upāsanā. Tārā-Mantras are therefore the seeds or indispensable particles of Tārā-sādhanā. The nature and forms (*i.e.* **आकार**s and **प्रकार**s) of the Mantras are accurately described. Briefly though lucidly are also stated the wonderful powers the Mantras possess, which they confer from time to time on the successful practisers.
 
 CHAPTER II
 
  Havingspoken in the first Chapter of the Mantras and the spiritual powers they possess, this Chapter first points out how the Mantras are to be learnt whereby these powers may beattained and utilised with gradual steps towards self-realisation. But, learning implies in any case the necessity of an efficient teacher. For, no correct knowledge is possible, unless there is the assistance of a teacher who himself knows the subject thoroughly and accurately. Such a teacher in the realm of spiritual training is known by the name of Guru or the Spiritual Guide who, by his perfect knowledge of the art, not only imparts correct training in the surest possible way, but also awakens in the disciple a special spiritual force by dint of his advanced spiritual powers. But, as it is not always possible to ascertain who is such a Sat (true and fit) Guru,it is necessary for an intending disciple to have an idea about the marks or the qualifications generally found in a Sat Guru, whereby he may, more assuredly than usual, proceed upto a right person for the purpose. The text, therefore, turns upon the marks of a worthy Guru from whom the Mantras with the attending observances are to be learnt. This implies possession of divine powers, divine virtues, divine beauty (**देववत् प्रियदर्शनः**) and unqualified knowledge of everything. The Guru must be (**1**) **सर्वजीवदयापरः**—kind towards all beings; (**2**) **आज्ञासिद्धः**—getting whatever he may command or desire; (**3**) **त्रिकालज्ञः**—the knower of the past, present and the future; (**4**) **सर्वमन्त्रविधानवित्**—the knower of all Mantras by names and processes; (**5**) **सर्वागमार्थतत्त्वज्ञः**—the knower of
 
-
-
 the contents of all Āgamas, must also be a Kaulika (**कौलिकः**) which means one whose conduct is determined by a firm belief in the five elements (earth, water, fire, air, space orĀkāśa), Nature and Jīva (Being) as being one with Paramātman. The Guru is thus far from being a mortal though he exists in a mortal frame. He is an epitome of excellences—the veritable channel between Heaven and Earth through which the Ultimate Good descends.
 
  Now, it is important to find out a true Guru; it is equally Important to find out a true disciple. For, everybody is not fit for every matter of training. A Mantra without a true disciple is likely to fall off useless like a seed sown in a barren plot or a plot overgrown with weeds. Hence comes the necessity of ascertaining the primary virtues or characteristics of a person, which mark a true disciple showing his fitness for the initiation. Some of the virtues enumerated are :—an earnest desire for the Truth, unwavering faith in the Guru, simplicity, unquestioning obedience to the Guru, a desire to do good to all creatures, etc. All these are dealt with in their proper order and instructive verses are cited from different texts. Incidentally, the qualities in an unworthy Guru and the marks of an unworthy disciple are also enumerated throwing adequate light on the subject. This topic along with details of time, place and the processes of initiation covers as many as thirteen or fourteen subheads from the beginning of the Chapter.
 
  The rest of the Chapter is devoted to an eulogy of special places (e. g., **शिवालयः**) bearing influence upon initiation and to giving directions for testing, selecting and purifying (by **वास्तुयागः**or worship of the presiding deities of the site) the site for the erection of a Dikṣā-maṇḍapa. Vāstuyāga removes all obstacles, thus helping the speedy advent of the spiritual power. Definite instructions are laid down for the erection of the Maṇḍapa and making Vedī, Mekhalā and sacrificial holes (Kuṇḍa) of various types used in different rites. Much stress
-
-
 
 is laid on the dimensional accuracy and description in each case is given in full detail.
 
@@ -89,8 +65,6 @@ CHAPTER III
 
  Thus it appears that Dīkṣā the full meaning of which is the removal of ignorance or vice, is treated somewhat differently for practical purposes. Like anything else, it has had its progressive stages of development. The
 
-
-
 primary initiation i.e., the Mantra or the Mantras given at the first stage, therefore does not make much difference in the person initiated. But it brings gradual changes in him and when the first Mantras are practised for some time and the expected development is reached, the Guru gives further Mantras and enjoins stricter ritual observances for greater spiritual developments of the disciple, and so on. The different forms of Dīkṣā(**दीक्षाभेद**s)given by the texts, which have a bearing on this point are Kriyāvatī, Varṇamayī, Kalāvatīand Vedhamayī. The first is for the ordinary disciple, the second is for persons who are above the average rank. Kalāvatīis for disciples of a still higher competency and the Vedhamayīis for the highest class of aspirants. By the last kind, viz., Vedhavatī, a disciple equals himself with the Guru or Śiva which is the highest perfection.
 
  Besides the above four, the text mentions another ten kinds of initiation which come under the generic title of ÁṇavīDīkṣā.It also dilates separately on what is known as Pūrṇābhiṣeka or full initiation course, Mantra-saṁskāra i.e., a process which prescribes with some other rites a minimum number of repetitions of a Mantra before it can be expected to work appreciably on the mind of the disciple, and Ari-Mantra-tyāga which is a particular form of ceremony for discarding a hostile Mantra for the avoidance of any evil consequences.
@@ -98,8 +72,6 @@ primary initiation i.e., the Mantra or the Mantras given at the first stage, the
 CHAPTER IV
 
  We find here due emphasis laid on the conduct and the personal feeling of the disciple towards the Guru. As in the spiritual region success depends entirely on regular operation of the Mantras and other rituals, it is indispensable that the disciple must have an implicit reverence for the Guru and pay undivided attention to whatever the spiritual preceptor may say or direct to do. Towards this end, not only shall
-
-
 
 he carefully observe every bit of usual discipline In keeping with his natural filial piety, he must, as it is observed in the text, even try to think himself unseparated from the Guru. While meditating, he must think himself within the Guru and the Guru within himself, without which the full realisation is impossible. It may be noted in this connection that although the Tāntrika sādhanādiffers from all other systems in many respects, in the matter of Guru-bhakti it has retained its dignified position intact and yields to none, not even to the Vaiṣṇava system, the whole cult of which is based upon Bhakti. The following couplet which represents the theme in a nutshell justifies the above; —
 
@@ -112,8 +84,6 @@ he carefully observe every bit of usual discipline In keeping with his natural f
 
  The Chapter then turns to a disciplinary discussion and proceeds to a relation of the natural difference of human tendency viewed in Tantra Philosophy in three different aspects viz., Devabhāva, Vīrabhāva and Paśubhāva, which determine the categorical position of a disciple. A person having ‘Devabhāva’ or naturally divine tendency is rarely met with in the present age viz., Kali yuga (**कलियुगः**). The people therefore having fallen into the other two
 
-
-
 classes—Vīrabhāva and Paśubhāva, the Tāntrik Sādhanāhas developed mainly two branches known as Vīrāchāra and Paśvāchāra of which there is a brief description.
 
 CHAPTER V
@@ -122,21 +92,15 @@ CHAPTER V
 
  Now, as a Pūjā or worship has a collective sense requiring a Pūjaka (worshipper),Pūjā-sthāna (the place of worship), Pūjā-dravya (the articles for offering) Mantra and Devatā,—the question as to the way in which these should
 
-
-
 be primarily dealt with, naturally presents itself for consideration. The text, therefore, relates the importance of a purification regarding the above five things which is known as Pañcaśuddhi. In the case of the Pūjaka, śuddhi is taken to mean Ātma-śuddhi i.e, a matter of self-purification in the external aspect. Thereupon it gives rules for Āsana (the manner of sitting), discusses offering of wine or its substitutes in the (Tārā) worship, and describes the principles of Prānāyāma (an act of breath-control) and Bhūta-śuddhi.
 
  The function attached to Bhūta-śuddhi requires a bit of explanation. Bhūtas mean the main gross elements of which every concrete thing in the universe is composed. These are five in number being Earth, Water, Fire, Air and Ākāśa. Human body which is thus composed of these five elements is called Pāñca-bhautika or briefly Bhautika i.e., one being formed of five Bhūtas or simply Bhūtas. In the sphere of sādhanā, this Bhautika deha or material body is regarded as aśuddha or impure. Hence, a śuddhi or purification is deemed necessary, whereby the sādhaka or worshipper acquires a tentative right in the sādhanā. But, Bhūta- śuddhi must not be confused with ordinary Ātma-śuddhi as referred to above in connection with Pañca-śuddhi. The principle underlying here (Bhūta-śuddhi) demands that the sādhaka must try by meditation to give up his knowledge about his Bhautika or material body and also endeavour to realize his oneness with the Ultimate Source of the universe i.e., Śabda-Brahman which is a comparatively grosser manifestation of Śakti (Conscious Energy) of Tāntrika Upāsanā. The text, giving necessary details on this point, passes on to another function of characteristic importance, which is called Nyāsa.
 
  The word Nyāsa literally means ‘giving up’ or ‘placing’ whence its philosophical meaning is deduced which means self-submission, that is to say, the sādhaka must submit, give up or place himself entirely upon the object of his meditation—
 
-
-
 the Guru, Mantra or Devatā. This, of course, involves some ritual process subject to prescribed conditions. Nyāsa, thus in its narrow sense, comes to mean a defined ritual process. Now, as there are stages in every progressive effort before full development isattained, Nyāsa has got naturally different forms under different names, all however pointing to the same goal— complete self-submission on the part of the sādhaka. The text describes over a dozen such varieties among which Mātrikā, Rudra, Ṛṣi, Kara, Añga and Vyāpaka are worth mentioning. Of these, Mātrikā-nyāsa is an elaborate ritual process. It involves a worship of Mātrikāor Sarasvatī Devī whose body is composed of the Letters of the Alphabet. It should be noted in this connection that every Mantra has got a Ṛṣi of its own i.e, its discoverer whose name is mentioned first, then the Chandaḥ and then the Devatā. In this case the letters taken together form the Mantra of which Brahmā is the Ṛṣi, Gāyatrī is the Chandaḥ and the Devatāis Sarasvatī, The text describes in fulldetail the manner in which the Mātrikāhas to be performed. It also states definitely the various parts of the body where the Nyāsa has to be applied. Each variety is given its proper place in the description.
 
  Next, it deals with the common ritual formalities connected with a Tāntrika form of worship, which include among other things certain purificatory processes (e.g., **मन्त्रशुद्धिः, द्रव्यशुद्धिः, सुगशद्धिः**)**,** sanctions about offering of substitutes (**अनुकल्पः**) and suitable arrangement of offerings and utensils (e.g., **द्रव्यसाधनम्, कलससंस्थापनं, पात्रसंस्थापनम्**). Then it gives certain Mantras and lays rules for Tarpaṇa (an act of propitiation), Tattva-śuddhi (a purification of the sādhaka’s own system—the different elements of which it is composed), Balidāna (offering), Āvāhana (invitation), Dhyāna (meditation), Prāṇapratiṣṭhā(installing life into the image) and the like. It also enumerates the different articles which have to be arranged or collected for the purpose of worship or Pūjā and gives necessary information about other matters.
-
-
 
  Then comes the topic of Rosary which helps the sādhaka to keep a record of the number of the Mantras repeated (**जपसंख्या**). The rosary may be differently made. Some of themare said to have particular influence on the sādhaka’s meditative progress. Like other things this rosary also has its Saṁskāra-vidhis i.e., some specified rules for purification which have all been detailed in this Chapter.
 
@@ -148,15 +112,11 @@ the Guru, Mantra or Devatā. This, of course, involves some ritual process subje
 
 Having discussed incidentally in the previous Chapter (see **उपचारविधिः**) the three Tattvas, namely Mātsya (fish), Māmsa (flesh) and Mudrā(fried articles of food) of the total *five* indispensable for Śakti-worship, this Chapter now makes a special reference to the remaining two Tattvas—Madya and Pañcama-makāra. i.e., drinking (wine) and the sexual intercourse respectively. Herein we meet with the restrictive injunctions or the rigid ritual discipline which a sādhaka belonging to this category must unerringly observe while he lays his hands on
 
-
-
 these two things. It must, however, be noted in this connection that a sādhaka has no right to accept *anything* for himself without purifying it with Mantras and actually treating it as an offering to the Guru or Śakti. Thus, while the question of drinking comes up, like anything else, he has to make an offering of wine to the Guru or the Goddess or to both according to the śāstric manner. The text, therefore, upon opening the discussion, first tells us of a function called “Pātrārpaṇa” which means a sacrifice of the pot i.e., offering of a pot containing the drinking material to the Guru (or Goddess) before the sādhaka can take it for himself. The Mantras, the processes in detail, etc., are laid down, which are to be followed for this purpose.
 
  Again a sādhaka cannot drink (even subject to the above condition) as much as he likes. He must know the ways of drinking, know its effects, its evil effects, the authoritative sanctions therefor and the stage upto which the tranquillity and balance of the mind is not affected. He is allowed to drink so long as he does not lose this tranquillity[^2]. If he does, he falls below the standard and turns himself unfit for the Śakti-worship. The different ways of drinking stated, are—Divyapāna, Virapāna and Paśupāna, Divyapāna is a drinking that is done before the Goddess (i. e., after regular sacrifice or worship as indicated above and taking it as Devīprasāda). Virapāna is what is done by the Vīrasādhakas upon a Mudrāsana (a yogic process) and Paśupāna means a reckless way of drinking, done only by a Paśu or a man of beastly habits, which does nothing but degrading him day by day. Seven different stages called Ullāsas or intoxicating moods are stated. These are Ārambha, Taruṇa, Yauvana, Prauḍha, Prauḍhānta, Unmanaḥ and Anavasthā—each succeeding one being gradually stronger than its predecessor. The last means ‘senselessness’.An intelligent sādhaka must know these so as to be able to preserve himself from these pitfalls. If he does that, if he drinks
 
 [^2]: "This does not apply to pūrnābhiṣikta sādhakas,"
-
-
 
 only up to the śāstric sanctions retaining his mental equilibrium, then and then only will it help him to retain his strength and energy to be directed towards a solid spiritual effort for ultimate success. The text furnishes different views with information in detail from different sources.
 
@@ -166,8 +126,6 @@ only up to the śāstric sanctions retaining his mental equilibrium, then and th
 स्वकीयां परकीयां वा नाक्वष्य ब्रह्मणो यजेत्॥**
 
  A Vipra (or Dvija) even in Vamāgama (i. e., following the Vāmācāra system), must never drink, nor take meat, nor shall he worship the Brahman with the Pañcama-makāra in collaboration either withhis own wife or with any other woman.
-
-
 
  Again—
 
@@ -192,17 +150,11 @@ CHAPTER VII
 
 [^3]: "The word ‘Nimitta’ means efficient cause. But here it is taken to imply the motive or purpose which moves an efficient cause."
 
-
-
-
-
 actual ceremony takes place. These as well as the procedure to be followed on the day of the ceremony or the actual Pūjā-day are definitely stated. Then it gives certain relative information including Pavitrāropaṇa (a connected rite) and injunctions for Pīṭhārcaṇa or the worship of the Goddess (i.e., Śakti or TārāDevī) in specially noted places, e.g., Kāmarūpa. Next it comes to Kumārī-pūjā.
 
  Kumārī-pūjāis a peculiar formof worship of Tārāor Ādyā-Śakti in which the image is to be an unmarried girl of seven, eight or nine years subject to some difference of opinion regarding the age so stated. Certain auspicious marks are mentioned for the selection of the girl. By the way, the inauspicious marks are also enumerated, which disqualify a girl from being selected for the purpose. After the selection is made, the sādhaka has to dress her in beautiful clothes and valuable ornaments, collect necessary materials and worship, according to the prescribed manner, Śakti, in as many as her fifty different aspects, being supposed to exist in the girl who serves for the image. These different aspects of Śakti, the Mantras for the Pūjā, the processes to be followed, the Stotras or the hymns to be sung are all stated in regular order in this Chapter. There is also a remarkable description of the very many blessings which the sādhaka is entitled to, for this Pūjā. The sādhaka can, if he so desires, also have a forecast of the good or evil results if any (the latter arising in case of a mistake or violation of the Pūjārules or being the normal consequences of the time) by certain indications of which there is an elaborate description.
 
  Then, there is the mention of another form of Śakti-worship called Śivābali. The fit place for this worship is the foot of a Vilva tree, an open field or a cremation-ground. The time is the evening, the main offer being animal-flesh cooked or uncooked. After the worship is finished, the flesh so offered before the Goddess is to be given away to Śivās or vixens,
-
-
 
 whence the name Śivābali i.e an offering to Śivās or she-foxes.
 
@@ -211,8 +163,6 @@ whence the name Śivābali i.e an offering to Śivās or she-foxes.
 CHAPTER VIII
 
  This Chapter deals with Puraścaraṇa which may briefly be described as an act of adapting the Mūla-mantra by a certain number of repetitions (generally one *lac*) according to the Śāstric injunctions. It is said that no Mantra ever brings siddhi (i.e., the desired spiritual achievement) unless the Puraścaraṇa is practised according to the Śāstric methods. Usually, there is no strictly defined place for this rite. The sādhaka can do it even in his own house provided he takes care to select a solitary seat to avoid any disturbance. But, certain places are recommended, where it becomes more effective. Some of the recommended places which come under the sub-head ‘Deśa’ are—Kṣetra (an open field or the place of Dīkṣā), Tīrtha (a holy place), Vana (forest), Ārāma (garden), Devālaya (temple), the river-side, the lake-side, the summit of a mountain or any other solitary site. Some places are also discouraged as being unfit for this purpose, the notable ones being the places usually visited by kings, ministers, state-officials or other men of high rank, as well as a broken temple, a broken house, a dry garden and the like. The compiler cites different texts to show the different views (e.g.,**भूमिग्रहणम् मैत्रादिविचारः**) bearing essential information on the subject. The Chapter then gives a detailed description of the manner in which the Japa or repetition of the Mantra is to be done. Next, it passes on to the peculiarities which are to be practised by the Vīrāchārīsādhakas in connection with the Puraścaraṇa they have to make of their Mantras. A notable peculiarity is a worship of Aṣṭa-śakti for which a Vīra-śādhaka has to select eight girls or women each from the following
-
-
 
 classes :—(1) Brāhmaṇī, (2) Kṣattriyā, (3) Vaiśyā, (4) Śūdrā, (5) a harlot, (6) a daughter of a barber, (7) a washer-woman and (8) a Yoginī(a lady observing celibacy or taking to the life of yoga). He has to invite them in his own house, welcome, and satisfy them by giving good dresses, good ornaments and worship them as being eight different aspects of Śakti or TārāDevīaccording to the manner indicated. While doing so, he should also invoke the grace of the Goddess for his Mantra-siddhi by singing a hymn in the left ear of each of these women, whom he takes to be the symbol of the Goddess. The hymn to be sung is narrated in the Chapter.
 
@@ -223,8 +173,6 @@ classes :—(1) Brāhmaṇī, (2) Kṣattriyā, (3) Vaiśyā, (4) Śūdrā, (5) 
 CHAPTER IX
 
  Occasional touches are given in the previous Chapters on Vīrasādhana or the manner of spiritual endeavour of the Vīra-sādhakas. The remaining part of the cult is described in this Chapter which, owing to its peculiar characteristics, of course deserves a special treatment. The portion comes under two heads, namely Citā-sādhana-vidhi (or Vīrasādhana as per the Index) and Śava-sādhana-vidhi. The function in both the cases is more or less a matter of Puraścaraṇa to be practised in a cremation-ground subject to other ritual observances detailed in the text. The text says that when other efforts fail, this should be practised by sādhakas, which will bring him siddhi (success) without fail. But, in order to do so, a
-
-
 
 sādhaka must be sufficiently strong in mind and body, very brave, pure, kind-hearted and ever eager to do good to all creatures ; for, as Bhairava says—‘it is for this class of sādhakas alone that Vīra-sādhana or this peculiar cult is related’.
 
@@ -240,15 +188,11 @@ CHAPTER X
 
  (1) Śānti-Karma, (2) Vaśya-Karma, (3) Stambhana, (4) Dveṣaṇa, (5) Uccāṭana and (6) Māraṇa.
 
-
-
  No. 1, is a pacific action for averting some impending evil. No. 2, is an act of controlling (e. g., controlling an opponent—a lion, a tiger and the like).No. 3, is an act of stopping a kinetic force. No. 4, implies creating enmity. No. 5, is bringing about a mental disorder in a person; and No. 6, means killing (an enemy).
 
  Besides the above, a few more appear in the texts, e. g., Puṣṭi, Ākarṣaṇa etc., which may, of course, be classed with some one or other of the above six. For, Puṣṭi (nourishment or improvement) may be classed with Śānti-Karma and Ākarṣaṇa (attracting a person by spiritual force) may be classed with Vaśya. For each of these Karmas an appropriate time is prescribed. Thus, a Wednesday or a Thursday being the second, third, fifth or the seventh day (of the New Moon or Full Moon) is the appropriate day for a Śānti-Karma; and so on for others. It should be noted that much stress has been laid by Tantra and some other schools of Oriental Philosophy on the selection of appropriate time, place etc., for almost every work whether ritual or ordinary. The object behind, roughly seems to be this: since every individual being or object in the universe is a manifestation of the one and the same Creative Energy, whatever somebody does or attempts to do, causes a tension in the creative atmosphere; and certain forces which are favourably affected, favour the completion of the work, while there are hostile forces which try to create obstacles in the way.
 
  Some writers on Oriental Philosophy claim to have discovered many of these forces, their influencing time, place and actions as well as the means to be adopted to avert any untoward influence caused by a force or forces hostile to a particular undertaking. Hence, along with the fixing of particular time, place, and other things, a preliminary worship of the presiding Deities of time, place etc., is recommended in every case of important work to secure a favourable atmosphere for the work so as to obtain an unhampered success.In speaking about Kāmya-Karmas the text first mentions the opportune time
-
-
 
 and then enjoins a preliminary worship of the presiding Deities of Tithis (an astronomical division of time-lunar day, approximately 24 hours) and Nakṣatras (stars); and before passing on to place and other particulars, relates some important matters concerning the procedure to be adopted in such Karmas. Within these, fall an injunction for the Cakrapūjā in Kāmya-Karmas, a description of the various Cakras (Cakras are some Tāntrika figures supposed to be the favourite seats of gods and goddesses), and a warning to sādhakas for refraining from Kāmya-Karmas which are evidently obstacles to higher spiritual progress. The text then defines suitable sites, six forms of Āsanas (sitting postures) namely, Padmāsana, Svastika, Vikaṭa, Kukkuṭa, Vajra and Bhadraka. It also dilates on the different kinds of seats e. g., leopard-skin, deer-skin and the like, each having a special efficacy in respect of a particular class of Kāmya-Karmas. Thus, as stated by the text, a piece of elephant-skin is an efficacious seat for performing an act of Stambhana while a buffalo-skin seat is required for Māraṇa or an act of killing a foe. Then there is the mention of peculiar Mudrās, Kuṇḍas, speciality in Mantra-japa, particular rosaries, an account of repetitions to be made of the Mantras, the rules for the making of the rosaries, special effects of some special Kuṇḍas, and of the particulars of Homa in full detail, which are all necessary in connection with the Kāmya-Karmas. The text further describes some particular Homas for several other objectives.
 
@@ -257,8 +201,6 @@ and then enjoins a preliminary worship of the presiding Deities of Tithis (an as
  Then comes a description of the Yantra and the Kavaca which (being almost similar in character[^4]) mean some Mantra
 
 [^4]: "The Yantra is a kind of mystic figure drawn on prescribed materials and may also be used as an amulet,"
-
-
 
 or hymn to be read (in the case of Kavaca only) or preserved according to the Śāstric manner as a means of protection from evils. The Yantra may be of various kinds, being antidote to various evils, It may also be one of general character being a precaution against all evils, Its preparation is to be made by a competent sādhaka who knows the methods of the preparation. The wearer or beneficiary may be anyone who has belief in its efficacy and who follows the rules prescribed therefor.
 
@@ -269,8 +211,6 @@ or hymn to be read (in the case of Kavaca only) or preserved according to the Ś
  The Mantras for the consecration of the Khadga, (indications) foreboding good or evil when the sacrifice is made, and in the case of any evil indication the necessity of pacific rites, the classes of animals which are fit for the sacrifice, a sanction about the kinds of Bali-pātra (a pot to contain the blood-offering) that should be used—all these are given their appropriate places in the description.
 
  The text also describes the animals which cannot be used
-
-
 
 for sacrificial purposes. As a general rule, diseased or female animals cannot be sacrificed.
 
@@ -287,8 +227,6 @@ CHAPTER XI
 
  So long as he does not open his (consecrated) fist, he paralyzes (the action of) everything, fire, water or a foe.This is the highest kind of Stambhana.
 
-
-
  The text then describes a few other Mantras called the Mahā-mantras and the Gupta-ṣoḍaśi-mantra, and the Dhyāna etc.,of Nīla-sarasvatī (i. e., TārāDevī in her one prominent aspect). When the sādhaka arrives at the position of practising these, he attains the highest powers i. e., the eight siddhis which are :—  
 
 (1) Animā(the power to reduce himself to as small a size as an atom).  
@@ -304,8 +242,6 @@ CHAPTER XI
 
  The book is based on the following manuscripts, and especially on No, A.
 
-
-
 (A) A manuscript up to the eleventh Paṭala containing 341 folios and generally accurate. It is in the Government Sanskrit College Library, Calcutta.
 
 (B) An incomplete manuscript up to folio 216 and very inaccurate. It is also in the Government Sanskrit College Library, Calcutta.
@@ -315,8 +251,6 @@ CHAPTER XI
  As this edition is based practically on one manuscript only (vide, No. A) it is quite possible that in the reading of the text as adopted here some inaccuracies have crept in which if kindly pointed out by the sympathetic readers will be gratefully acknowledged and corrected in the next edition.
 
  For the publication of this book we owe a great debt of gratitude to Mr. Amiya Kumar Chakravati, B.A., for his invaluable suggestions who, inspite of his heavy work took special care and great pains to read the proofs of the Introduction.
-
-
 
 **श्रीः**
 
@@ -331,17 +265,9 @@ CHAPTER XI
 
 **श्रीमन्नरसिंह-ठक्कुर-विरचितः**
 
-
-
-
-
 पणिडतप्रवर—
 
 **श्रीपञ्चानन तर्क-सांख्य-वेदान्ततीर्थ-सम्पादितः**
-
-
-
-
 
 **७।ए चाल्तावागान लेनस्थ-**
 
@@ -359,15 +285,11 @@ CHAPTER XI
 **ल्युजाक एण्ड को०**  
 नं० ४६ ग्रेट रासेल ष्ट्रीट
 
-
-
 कलिकातानगयां  
 नं० ५, शिमला स्ट्रीटस्थ  
 **महाराष्ट्र-मुद्रण-यन्त्रालये**  
 पं० श्रीचन्द्रशेसर पाठकेन  
 मुद्रितः
-
-
 
 **सूचीपत्रम्**
 
@@ -398,8 +320,6 @@ CHAPTER XI
 |   एकाशीतिपदं वास्तुचक्रम्    |         दिनकृत्यम्‌         |
 |  चतुःषष्टिपदं वास्तुचक्रम्   |         अध्वशोधनम्‌         |
 |          वास्तुबलिः          |    वीरदीक्षायां विशेषः     |
-
-
 
 |                              |                               |
 |:----------------------------:|:-----------------------------:|
@@ -435,8 +355,6 @@ CHAPTER XI
 |         तारादिन्यासः         |       इन्द्रादिध्यानम्‌        |
 |                             |           बलिदानम्‌            |
 
-
-
 |                              |                            |
 |:----------------------------:|:--------------------------:|
 |          **विषयः**           |         **विषयः**          |
@@ -470,8 +388,6 @@ CHAPTER XI
 |       कुमारीस्तोत्रम्‌        |   योनिचक्रम्‌| फणिचक्रम्‌    |
 |        कुमारीपूजाफलम्‌        |       अष्टवर्गचक्रम्‌       |
 
-
-
 |                                          |                            |
 |:----------------------------------------:|:--------------------------:|
 |                **विषयः**                 |         **विषयः**          |
@@ -498,10 +414,7 @@ CHAPTER XI
 |                स्तोत्रम्‌                 |        तारिणीकल्पः         |
 |              स्पर्शमन्त्रः               |         पूजाक्रमः          |
 
-
 ——————
-
-
 
 ![](../books_images/U-IMG-1720787278१.png)
 
@@ -512,8 +425,6 @@ CHAPTER XI
 **प्रथमस्तरङ्गः**
 
 **मङ्गलाचरणम्‌**
-
-
 
 सौनासीरमणिप्रवीणजलदग्रामाभिरामछविं  
 नृत्यत्पीतपटद्वयैककपटप्रोद्यत्परागोज्ज्वलम्।  
@@ -537,8 +448,6 @@ CHAPTER XI
 नैपुण्यमन्यजनतो न विभाति किं मे।  
 मध्येसमुद्रमुपजातमहामणीनां  
 भ्यासो गुणेन गुणिनां किमु कौतुकाय॥
-
-
 
 **विद्याप्रशंसा**
 
@@ -588,8 +497,6 @@ CHAPTER XI
 
 एतस्मिन्नेव काले च कैलासशिखरस्थितम्‌।
 
-
-
 पार्वती प्राह देवेशंदेवीप्रकृतिसुन्दरी।  
 वक्षःस्थलेसमासीना पृच्छतिस्म नगात्मजा॥
 
@@ -635,8 +542,6 @@ CHAPTER XI
 नासाध्यं मेनिरे किञ्चित्‌ कवयः शुद्धबुद्धयः।  
 वादे सदसि या वाचः स्तम्भिनी प्रतिवादिनाम्‌॥
 
-
-
 विद्याहानिकरी देविविदुषां बलिदानतः।  
 हास्याय या सदस्यानामशुद्धमपि जल्पयेत्‌।  
 वादिनं वापि राजानं मन्त्रिणं वशमानयेत्‌।  
@@ -655,7 +560,6 @@ CHAPTER XI
 दीर्घोकारसमायुकक्तंहकारं योजयेत्ततः॥
 
 फट्कारंच ततो द्द्यात्‌ सम्पूर्णःसिद्धमन्त्रकः।  
-
 
  सपरं हकारं। चतुथस्वर ईकारः। इन्दुरर्धचन्द्रः। बिन्दुरनुस्वारः। दीर्घेण ऊकारेण समायुक्तं हकारं तेन हूं।
 
@@ -686,8 +590,6 @@ CHAPTER XI
 अस्त्रहीनमिदं नीलसरस्वत्या विनिर्दिशेत्।
 
 कामेशी ईकारः।
-
-
 
 त्र्यक्षरोऽसौ महामन्त्रः फट्कारान्तो हृदि स्थितः।  
 पञ्चरश्मिसमायुक्तोऽथाज्ञानेन्धनदाहकः॥
@@ -747,8 +649,6 @@ CHAPTER XI
 
 जाते कृष्णावतारे तु पुनः शापात्‌ प्रमुच्यते।
 
-
-
 इति तन्त्रान्तरवचनात्‌ कृष्णावतारपयेन्तमेव शाप इति तु तत्त्वम्‌।
 **मत्स्यसूक्ते—**
 
@@ -805,8 +705,6 @@ CHAPTER XI
 **इति महामहोपाध्यायठक्कुर-श्रीनरसिंह-विरचिते ताराभक्ति-  
 सुधार्णवे प्रथमस्तरङ्गः॥१॥**
 
-
-
 **द्वितीयस्तरङ्गः**
 
 ![](../books_images/U-IMG-1720848259२.png)
@@ -850,8 +748,6 @@ CHAPTER XI
 अस्याधिकारः पूजायां न गुरुत्वेकदाचन॥
 
 इति भावचूड़ामणिवचनात्‌। द्विविधः कुलाचारनिन्दकोऽनिन्दकश्च। शाक्तदीक्षापरमेतत्। गुरुलक्षणं कुलार्णवे—
-
-
 
 श्रीगुरुः परमेशानि शुद्धवेशो मनोहरः।  
 सर्वलक्षणसंयुक्तःसर्वावयवशोभितः॥
@@ -897,8 +793,6 @@ CHAPTER XI
 
 क्रोधमोहपरित्यागी विरागी वीरवन्दितः।  
 निगमागमवेत्ताच प्रसन्नवरमानसः॥
-
-
 
 सर्वाश्रमपरित्यागी ललनार्चनतत्परः।  
 ईद्गग्लक्षणसंयुक्तं पूजयेद्गुरुमादरात्‌॥
@@ -959,8 +853,6 @@ CHAPTER XI
 **देवीमते—**
 
 आचार्यःशैवशास्त्रज्ञःशिवदेशसमुद्भवः।
-
-
 
 ब्रह्मचारी गृहस्थो वा शिवभक्तिपरायणः॥  
 यजमानानुकूलर्क्षजन्मा देशिक उच्यते।
@@ -1025,8 +917,6 @@ CHAPTER XI
 वैश्यः स्यात्‌ तेन कार्यःस्याद्द्वयोर्नित्यमनुग्रहः।  
 सजातीयेन शूद्रेण तादृशेन महामते।
 
-
-
 अनुग्रहाभिषेकौच कार्यौशुद्रस्य सर्वदा॥
 
 वर्णोत्तमेऽथ च गुरौ सति वा विश्रुतोऽपि वा।  
@@ -1073,8 +963,6 @@ CHAPTER XI
 वशिष्ठोऽपिस्वपुत्राय मत्पित्रे दत्तवान्‌ स्वयम्‌॥
 
 इति मत्स्यसूक्तवचनमपि संगच्छते।स्त्रीसकाशान्मन्त्रग्रहणं प्रशस्तम्‌।
-
-
 
 स्त्रियो दीक्षा शुभा प्रोक्ता मातुश्चाष्टगुणा स्मृता।
 
@@ -1130,8 +1018,6 @@ CHAPTER XI
 अनुकूलक्रियायुक्तमप्रमतंविचक्षणम्।  
 हितसत्यमितस्निग्धभाषिणं मुक्तदूषणम्‌॥
 
-
-
 सकृदुक्तगृहीतार्थं चतुरं बुद्धिविस्तरम्।  
 गृहतल्पासनोत्सङ्गनिर्विकारमसेवकम्‌॥
 
@@ -1177,8 +1063,6 @@ CHAPTER XI
 रहस्यभेदकंचापि देवकार्यार्थधातकम।  
 मार्जारवकवृत्तिं च रन्ध्रान्वेषणतत्परम्‌॥
 
-
-
 मायान्वितं कृतघ्नं च प्रच्छन्नान्तरदायकम्।  
 विश्वासघातकं देवद्रोहिणं पापकारिणम्‌॥
 
@@ -1223,8 +1107,6 @@ CHAPTER XI
 
 इत्यादिविगुणोपेतंगुरुःशिष्यं परित्यजेत्‌।  
 स्नेहाद्वा लोभतो वापि यदि गृह्णाति दीक्षयेत्‌॥
-
-
 
 तस्मिन गुरौ सशिष्ये तुदेवताशाप आपतेत्।  
 तस्मादेवंविधं शिष्यं न गृह्णीयात्‌ कथञ्चन।  
@@ -1272,8 +1154,6 @@ CHAPTER XI
 समुपदेश्यःपुत्त्रश्च व्यत्ययी वसुदस्तथा।
 
 व्यत्ययी मन्त्रान्तरं दत्त्वामन्त्रान्तरग्राहकः।**उक्तं चान्यत्र—**
-
-
 
 गुरुश्रुश्रूषया विद्या पुष्कलेन धनेन वा।  
 अथवा विद्यया विद्या चतुर्थी नोपपद्यत॥ इति।
@@ -1332,8 +1212,6 @@ CHAPTER XI
 
 इति शिष्यलक्षणम्‌
 
-
-
 **अथ दीक्षाविधिः**
 
 **महाकपिलपञ्चरात्रे—**
@@ -1390,8 +1268,6 @@ CHAPTER XI
 एकाब्देन भवेद्योग्यो ब्राह्मणोऽब्दद्वयान्‌ नृपः।  
 वैश्यो पर्षैस्त्रिभिःशूद्रश्चतुर्भिर्वत्सरैर्गुरोः॥
 
-
-
 स शुश्रूषुः परिग्राह्योदीक्षायागव्रतादिषु।
 
 **तन्त्रराजे—**
@@ -1446,8 +1322,6 @@ CHAPTER XI
 मातङ्गिन्युग्रतारा च कालिका श्यामला तथा।  
 छिन्नमस्ता च बाला च दातव्या सर्ववर्णके॥
 
-
-
 तारादिस्तु गणेशश्च हरिद्रासंज्ञकस्तथा।   
 त्रिवर्णेष्वेव दातव्यः पुरन्ध्रीणां विशेषतः॥
 
@@ -1497,8 +1371,6 @@ CHAPTER XI
 
 ज्ञानं स्यात्‌ कार्तिके सौख्यं मार्गशीर्षेभवेत्‌ किल।  
 पौषे ज्ञानक्षयो माघेभवेन्मेधाविवर्धनम्॥
-
-
 
 फाल्गुनेसर्वसिद्धिःस्यान्मलमासं विवर्जयेत्‌।
 
@@ -1553,8 +1425,6 @@ CHAPTER XI
 दीक्षां न कारयेद्विद्वानन्यमासे तु कारयेत।
 
 **इति मासनिर्णयः**
-
-
 
 **अथ पक्षनिर्णयः**
 
@@ -1620,8 +1490,6 @@ CHAPTER XI
 चतुर्थींनवमीं षष्टीमष्टमीं च चतुर्दशीम्‌।  
 पौर्णमासीं विना रोषा हिता उक्ता मुमुक्षुषु॥
 
-
-
 **तत्त्वसारसंहितायाम्‌—**
 
 तां तां तिथिं समालोच्य तद्भक्तांस्तत्रदीक्षयेत्‌।
@@ -1680,7 +1548,6 @@ CHAPTER XI
 
 ऐशवैष्णवहस्ताश्च दीक्षायान्तु शुभावहाः।  
 
-
  वासवं ज्येष्ठा। वायुःस्वातिः। मित्रमनुराधा।पित्र्यंमघा। त्वाष्ट्रंचित्रा। नैर्ऋतं मुलम्‌। ऐशमार्द्रा। वैष्णवं श्रवणम्‌।
 
 **अगस्त्यसंहितायाम्‌—**
@@ -1692,8 +1559,6 @@ CHAPTER XI
 
 त्रीण्युत्तराणि रोहिण्यः पुष्यकं मृगशीर्षकम्।  
 हस्ता स्वातिगनुराधा मघामूलंच रेवती॥
-
-
 
 अभिजिच्छ्र्वणं चेति दीक्षानक्षत्रमुत्तमम्।
 
@@ -1759,8 +1624,6 @@ CHAPTER XI
 मन्त्राद्यारम्भणंमेषे धनधान्यप्रदं भवेत्‌।  
 वृषे मरणमाप्नोति मिथुनेऽपत्यनाशनम्‌॥
 
-
-
 कर्कटे सर्वसिद्धिः स्यात्‌ सिंहे मेधाविनाशनम्‌।  
 कन्या लक्ष्मीप्रदा नित्यं तुलायां सर्वसिद्धयः॥
 
@@ -1820,8 +1683,6 @@ CHAPTER XI
 
 विद्यादीक्षापरं नैव तिथिवारादिशोधनम्‌।  
 यदैवेच्छा तथा दीक्षा गुरोराज्ञानुसारतः॥
-
-
 
 **अथापवादःक्रियाकाण्डशेखरै—**
 
@@ -1889,9 +1750,6 @@ CHAPTER XI
 
 तुलसीनिकटे विल्वमूले धात्रीतलेतथा।  
 
-
-
-
 अनादिदेवसान्निध्ये महाक्षेत्रे गवां गृहे॥  
 देवीपूजादिने वापि नास्ति कालस्य निर्णयः।
 
@@ -1948,8 +1806,6 @@ CHAPTER XI
 
 नसिद्धारिर्नतारा चन राशियक्रशोधनम्‌।  
 न ऋणं न धनं चक्रंन मासमनियमस्तथा॥
-
-
 
 न पक्षतिथिनक्षत्रंत्याज्यौ वारौ कूजार्कजौ।
 
@@ -2017,8 +1873,6 @@ CHAPTER XI
 दीयते ज्ञानमत्यन्तं क्षीयते पापसञ्चयः।  
 तस्माद्‌ दीक्षेति संप्रोक्ता वाञ्छितार्थप्रसाधिनी॥
 
-
-
 ज्ञानंदीव्यं यतो दद्यात्‌ कुर्यात्‌ पापक्षयं नॄणाम्‌।  
 तेन दीक्षेति लोकेऽस्मिन्‌ कीर्त्तितातन्त्रपारगैः॥
 
@@ -2078,8 +1932,6 @@ CHAPTER XI
 
 अशुद्धाःशूद्रकल्पाहि ब्राह्मणाः कलिसम्भवाः।
 
-
-
 तेषामागममार्गेस्यात्‌ सिद्धिर्नश्रौतवर्त्मना॥
 
 तस्मादावश्यकी दीक्षा पूर्वोक्तानेकवाक्यतः।  
@@ -2130,8 +1982,6 @@ CHAPTER XI
 
 वातप्लवा तथा भूभिर्नित्यमुद्वेगकारिणी।  
 पूर्वप्लवा वृद्धिकरी वरदा तूत्तरप्लवा॥
-
-
 
 **गौतमीयतन्त्रे—**
 
@@ -2188,8 +2038,6 @@ CHAPTER XI
 अपरेष्वपि कार्येषु यागहोमादिकेषु च।  
 वास्तुमण्डलकं कुर्यात्‌ सूत्रयित्वा समंगुरुः॥
 
-
-
 **शारदायां—**
 
 राक्षसंवास्तुनामानं हत्वाऽधिष्ठायतत्तनुम्‌।  
@@ -2244,8 +2092,6 @@ CHAPTER XI
 
 सत्यो वृषान्तरीक्षौचदिशिप्राच्यां व्यवस्थिताः।
 
-
-
 अग्निःपूषा च वितथो यमश्च गृहरक्षकः॥
 
 गन्धर्वो भृङ्गराजश्च मृगो दक्षिणदिग्गताः।  
@@ -2285,8 +2131,6 @@ CHAPTER XI
 |  अहिः   |   रुद्रः   |    शोषः    |  असुरः  |  वरुणः  | पुष्पदन्तः | सुग्रीवः  |      जयः      |     मृगः      |
 |  रोगः   | पापयक्ष्मा |    शोषः    |  असुरः  |  वरुणः  | पुष्पदन्तः | सुग्रीवः  |   दौवारिकः    |     पिता      |
 
-
-
 इत्युक्तम्‌। ब्रह्माणमिति कोष्ठचतुष्टयेएकाकारतया मार्जिते। एकाशीतिपदपक्षेतुसोमशम्भुः—
 
 मध्ये नवपदो ब्रह्मा शेषास्तु पदिकाः स्मृताः।  
@@ -2309,8 +2153,6 @@ CHAPTER XI
 **चतुःषष्टिपदंवास्तुचक्रम्‌**
 
 ![](../books_images/U-IMG-1721058215१.png)
-
-
 
 पायसैर्मधुरैःसर्वान्‌ संयजेन्मधुरान्वितैः।  
 तत्तद्द्रव्यैर्वामतिमान्‌ पूजयेद्दोषशान्तये॥
@@ -2353,8 +2195,6 @@ CHAPTER XI
 
 वृषो बन्धूकपुष्पाभः कुन्दाभश्चान्तरिक्षकः।  
 उद्याद्दिनकराभोऽग्निःपूषा रक्ताब्जसन्निभः॥
-
-
 
 वितथश्चेन्द्रचापाभो विद्युद्वर्णोगृहरक्षकः।  
 यमश्चाञ्जनसङ्काशो गन्धर्वःपद्मरागवत्‌॥
@@ -2400,8 +2240,6 @@ CHAPTER XI
 
 माषौदनं समांसञ्चगन्धादिक्षीरसंयुतम्।  
 गृहाणेमं महीभृत्‌ त्वंसर्वदोषं प्रणाशय॥
-
-
 
 एवंमध्ये तु संपूज्य ईशानादिबलिं हरेत्‌॥
 
@@ -2452,8 +2290,6 @@ CHAPTER XI
 
 मांसं पुष्पादिसंयुक्तं माषभक्तादिसंयुतम्‌।
 
-
-
 गृहाणेमं बलिं स्कन्दरक्षोविघ्नंनिवारय॥
 
 श्वमांसं पिष्टकैर्युक्तंपक्वमांसोदकान्वितम्‌।  
@@ -2500,8 +2336,6 @@ CHAPTER XI
 
 मांसौदनं गन्धमाल्ययुतं वस्त्रादिभूषितम्‌।
 
-
-
 वितथैमं बलिं गृह्णवास्तुदोषंविनाशय॥
 
 मत्स्यमांसयुतंभक्तं गन्धपुष्पाद्यरङ्कृतम्‌।  
@@ -2547,8 +2381,6 @@ CHAPTER XI
 गृहाणेमं बलि हृद्यंमृगवाह नमोऽस्तु ते॥
 
 इदंतु कृशरान्नं मे दुग्धगन्धादिसाधितम्।
-
-
 
 पातालेश गृहाणेमं विघ्नमत्र प्रणाशय॥
 
@@ -2598,8 +2430,6 @@ CHAPTER XI
 
 तत्पार्श्वदेभ्यश्च ततः सर्वेभ्य इति संयुतम्‌।
 
-
-
 भूतेभ्यश्च क्रमाद्भूयः प्रादक्षिण्याद्‌ क्षिपेद्बलिम्‌॥
 
 द्विषत्पिशाचवेताल-रक्षोरक्षाभयार्त्तिहा।  
@@ -2638,8 +2468,6 @@ CHAPTER XI
 
 सन्धिद्वयेच प्राक्प्रत्यक्सूत्रमध्ये तु विन्यसेत्‌।  
 सूत्रं दक्षोत्तरंतेषामग्रैःप्रागादि कल्पयेत्‌॥
-
-
 
 **क्रियासारेऽपि—**
 
@@ -2696,8 +2524,6 @@ CHAPTER XI
 **महाकपिलपञ्चरात्रे तु—**
 
 उच्छ्रायो हस्तमानं स्यात्‌ सुसमं च सुशोभनम्‌।इत्युक्तम्।
-
-
 
 **शारदायाम्‌—**
 
@@ -2761,8 +2587,6 @@ CHAPTER XI
 
  नेहस्तमान मण्डपादु बहिर्द्वारेष तोरणचतुष्टयंकुर्यात्‌।
 
-
-
 **तदुक्तं—**
 
 मण्डपद्वारबाह्ये च वेदिमानेन दिक्क्रमात्।  
@@ -2812,8 +2636,6 @@ CHAPTER XI
 
 शूलेन चिह्निताः कार्याद्वाराशास्वाःस्वमस्तके।  
 ऋृजु वैमध्यशूलं स्यात्‌ किञ्चिद्वक्रं च पक्षयोः॥
-
-
 
 उभयं तत्समाख्यातं त्र्यङ्गुलंरोपयेत्‌ तदा।
 
@@ -2874,8 +2696,6 @@ CHAPTER XI
 कलशौर्घटिकाभिश्चसाधारैः कर्करैस्तथा॥
 
  तत्र प्रतितोरणमेकैकः कलशः श्याष्यः। प्रतिद्वारपार्श्वद्वौद्वौ। प्रतिकोणं
-
-
 
 चैकैकः। तदुक्त—गन्धपुष्पाम्बरोपेतान्‌ कुम्भांस्तेषु विनिक्षिपेत्‌।
 
@@ -2943,8 +2763,6 @@ CHAPTER XI
 
 **इति मण्डपलक्षणम्‌**
 
-
-
 **अथ कुण्डानि**
 
 **शारदायाम्‌—**
@@ -2999,8 +2817,6 @@ CHAPTER XI
 कोणसूत्रद्वयंदद्यात्‌ प्रमाणं तेन लक्षयेत्‌।  
 चतुरस्त्रंभवेत्‌ कुण्डं सर्वलक्षणलक्षितम॥
 
-
-
 **तथा—**
 
 अनेन जनयेत्‌ सर्वकुण्डानि मनुवित्तमः।
@@ -3034,8 +2850,6 @@ CHAPTER XI
  एवञ्च चतुर्विंशत्यङ्गुलान्येकहस्तस्य व्यासः २४ चतुस्त्रिंशद्द्विहस्तस्य ३४ एकचत्वारिंशदङ्गुलानि पञ्चयवाश्च त्रिहस्तस्य ४१ अष्टचत्वारिंशदङ्गुलानि चतुर्हस्तस्य ४८ त्रिपञ्चाशङ्गुलानि षड्यवाश्च पञ्चहस्तस्य ५३ अष्टपञ्चाशदङ्गुलानि सप्तयवाश्च षड्ढ़स्तस्य ५८ त्रिषष्टिरङ्गुलानि चत्वारो यवाश्च सप्तहस्तस्य ६३ सप्तषष्टिरङ्गुलानि सप्तयवाश्चाष्टहस्तस्य ६७द्वासप्ततिरङ्गुलानि नवहस्तस्य ७२ पञ्चसप्ततिरङ्गुलानि सप्तयवाश्च दशहस्तस्य ७५। द्विहस्तादिकुण्डानि तु प्रयोगोपयुक्तानि प्रसङ्गादत्रोक्तानि दीक्षायामेकहस्तकुण्डस्यैवोपयोगात्‌।
 
 **इति चतुरस्रकुण्डलक्षणम्‌**
-
-
 
 **अथ योनिकुण्डलक्षणम्‌**
 
@@ -3083,8 +2897,6 @@ CHAPTER XI
 अन्यानि तु वनानि विसंवादिक्षेत्रफलकानीत्युपेक्षितानि।
 
 **इति वृत्तकुण्डलक्षणम्‌**
-
-
 
 **अथ षट्कोणकुण्डलक्षणम्‌**
 
@@ -3137,8 +2949,6 @@ CHAPTER XI
 
 तन्मध्ये दिक्ष्वष्टसूत्रदानादष्टास्रकं समम्।
 
-
-
  वचनान्तराणि तु विसंवादिक्षेत्रफलकानि विषमसूत्रप्रतिपादकानीत्युपेक्षितानि।
 
 **इत्यष्टकोणकुण्डलक्षणम्‌**
@@ -3188,8 +2998,6 @@ CHAPTER XI
 
 ** **यत्तु—‘हस्तमात्रंखनेत्‌ तिर्यगूर्ध्वंमेखलया सहे’ति मोहशुरे
 ‘व्यासात्‌ खातः करः प्रोक्तो निम्नंतिथ्यङ्गुलेन त्विति विश्वकर्मणि ‘कुण्डं जिनाङ्गुलैस्तिर्यगूर्ध्वं मेखलया सहे’ति प्रथमतन्त्रे, ‘खातंकुण्डप्रमाणं स्यादूर्ध्व्ंमेखलया सहे’ति
-
-
 
 सिद्धान्तशेखरे च प्रोक्तम्‌ तत्तुस्वल्पतरहोमविषयं, सुकुमारमालत्यादिपुष्पहोंमविषयं चेत्येषध्येयम्‌। **गौतमीये—**
 
@@ -3250,8 +3058,6 @@ CHAPTER XI
 कुण्ठषड्भागिका त्वाद्या द्वितीयाष्टांशका स्मृता।  
 तृतीया द्वादशांशा स्यादिति।
 
-
-
 **योगिनीहृदये—**
 
 मेखला श्रृणुदेवि हस्तादिषु विशेषतः।  
@@ -3306,8 +3112,6 @@ CHAPTER XI
 **पञ्चमेखलापक्षेतन्मानमुक्तं लक्षणसंग्रहे—**
 
 मेखलाः पञ्च वैकार्याः षड्पञ्चान्धित्रिपक्षकेः।
-
-
 
 **सिद्धान्तशेखरेऽपि—**
 
@@ -3377,8 +3181,6 @@ CHAPTER XI
 
 तत्षडङ्गुलमायामं विस्तारं चतुरङ्गुलमिति।
 
-
-
  क्रियासारवचनं चैकमेखलपक्ष इति राघवभट्टाः। वस्तुतस्तु षट्चतुर्द्वयगुलेति समुच्चितमेवायामादिष्वन्वेति। तदुक्तं पञ्चरात्रे—
 
 अर्काङ्गुलोच्छ्रयां योनिं विदध्यात्‌ तावदायताम्।
@@ -3441,8 +3243,6 @@ CHAPTER XI
 **पञ्चरात्रेऽपि—**
 
 स्थलादारभ्यनालं स्याद्बाह्ममेखलया समम्‌॥
-
-
 
 **प्रयोगसारे तु —**
 
@@ -3507,8 +3307,6 @@ CHAPTER XI
 एकांशेन मितः कण्ठः सप्तभागमितं मुखम्‌।  
 वेदित्र्यंशेन विस्तारःकण्ठस्य परिकीर्त्तितः॥
 
-
-
 अग्रंकण्ठसमानं स्यान्मुखे मार्गं प्रकल्पयेत्।  
 कनिष्ठाङ्गुलिमानेन सर्पिषो निर्गमाय च॥
 
@@ -3560,8 +3358,6 @@ CHAPTER XI
 स्रुचं बाहुप्रमाणेन होमार्थं विदधीत वै।
 
  इत्यगस्त्यसंहितावचनात्‌। “षट्त्रिंशदङ्गुलास्रुक्‌ स्यादि’ति फेत्कारिणीवचनाच्च। वेदीत्र्यंशेन वेदीतृतीयभागेन नत्वंशत्रयेण वेदीपदवैयर्थ्यापत्तेः।अत्र दलानां
-
-
 
 खननं नास्ति प्रमाणाभावात्‌। स्रुवमधिकृत्यैव मन्त्रमुक्तावल्याम्‌—
 
@@ -3620,8 +3416,6 @@ CHAPTER XI
 
 गुरुर्विशुद्धःप्रागेव शद्धाहात्‌ सप्तमेऽहनि।
 
-
-
 सङ्कल्प्योपोष्य कर्त्तव्यमङ्कुरारोपणं शुभम्‌॥
 
 कूर्यान्नान्दीमुखंश्राद्धं पूर्वेद्युः स्वस्तिवाचनम्‌।  
@@ -3677,8 +3471,6 @@ CHAPTER XI
 
 अङ्गुलैःक्रमशस्तानि शुभान्यावेष्ट्यतन्तुना।  
 प्रक्षाल्य देशिकस्तेषु पदेष्वाहितशालिषु॥
-
-
 
 सुगन्धदर्भकूर्चेषुपश्चिमादि निवेशयेत्‌।
 
@@ -3738,8 +3530,6 @@ CHAPTER XI
 गन्धादिभिश्च कुद्दालंपूजयित्वा दिनान्तरे।  
 गीतनृत्यसमायुक्तं गजवाजिसमन्वितम्‌॥
 
-
-
 गुर्वादयो रथारूढ़ागजारूढ़ास्तथाऽपरे।  
 गत्वा तीरं तड़ागस्य नद्याःपुष्पवनस्य वा॥
 
@@ -3793,8 +3583,6 @@ CHAPTER XI
 
 प्रजापतिं शालीबीजे त्वनन्तं सर्षपेऽर्चयेत्‌।  
 इन्द्रं श्यामे तु मासे च वरुणं तु नगात्मजे।
-
-
 
 **सिद्धान्तशोखरे—**
 
@@ -3850,8 +3638,6 @@ CHAPTER XI
 श्यामलानि च कुब्जानि वर्जयेदशुभानि च।  
 अवृष्टिं कुरुते कृष्णं धूम्राभं कलहं तथा॥
 
-
-
 अपूर्णंजननाशं चदुर्भिक्षंश्यामलाङ्कुरम्‌।  
 तिर्यग्गते भवेद्व्याधिः कुब्जे शत्रुभयं भवेत्‌॥
 
@@ -3873,8 +3659,6 @@ CHAPTER XI
 द्वितीयस्तरङ्गः**
 
   **—————**
-
-
 
 **तृतीयस्तरङ्गः**
 
@@ -3929,8 +3713,6 @@ CHAPTER XI
 तेनैवताड़नं कुर्याद्वर्मणाऽभ्युक्षणं मतम्‌।  
 चन्दनागुरुकर्पूरैर्धूपयेदन्तरं सुधीः॥
 
-
-
 विकिरान्‌ विकिरेत्‌ तत्र सप्तजप्तांश्छराणुना।  
 लाजचन्दनसिद्धार्थ-भस्मदूर्वाङ्कुराक्षताः॥  
 विकिरा इति सन्दिष्टाः सर्वविघ्नोघनाशकाः॥
@@ -3978,8 +3760,6 @@ CHAPTER XI
 
 आद्यंस्यात्‌ कर्णिकास्थानं केशराणां द्वितीयकम।  
 तृतीयं तत्र पत्राणामुक्तांशेनदलाग्रकम्‌॥
-
-
 
 बाह्यावृत्तान्तरालस्य मानं यद्‌ विधिना सुधीः।  
 निधाय केशराग्रेषुपरितोऽर्द्धनिशाकरान्‌॥
@@ -4029,8 +3809,6 @@ CHAPTER XI
 तेजो वैरक्तवर्णं स्याच्छ्यामं वायुः प्रकीर्त्तितः॥
 
 आकाशं कृष्णवर्णञ्चपञ्चमं तु महामुने।
-
-
 
 सितेऽधिदेवता रुद्रो रक्ते ब्रह्माधिदेवता॥
 
@@ -4085,8 +3863,6 @@ CHAPTER XI
 पीतं पूर्वेसितं देयं पश्चिमेऽप्युत्तरे तथा।  
 रक्तं तु दक्षिणे कृष्णं पाटलंवह्निसंस्थितम्‌॥
 
-
-
 नैर्ऋृत्ये नीलवर्णं तु वायव्ये धूम्रवर्णकम्‌।  
 ईशेगौरं विनिर्दिष्टमष्टपत्रेष्वयं क्रमः॥
 
@@ -4135,8 +3911,6 @@ CHAPTER XI
  हेमादीति। आदिपदाद्राजतादि। चोरो भट उरग इति प्रसिद्धः। कपिर्गेढीमनेति प्रसिद्धः। महाकपिलपञ्चरात्रे—
 
 सौवर्णं कलशं रम्यं रौप्यं ताम्रमथापि वा।
-
-
 
 निर्दोषंमृन्मयं चापि चन्दनेन विलेपितमिति॥
 
@@ -4190,8 +3964,6 @@ CHAPTER XI
 
 वायव्यांपूजयेद्‌ देवीं भोगमोक्षैकभूमिकाम्।
 
-
-
 भवानीं तु यदा मध्ये ऐशान्यां माधवंयजेत्‌॥
 
 आग्नेय्यां पार्वतीनाथंनैऋृत्यां गणनायकम्‌।  
@@ -4239,8 +4011,6 @@ CHAPTER XI
 
  अत्र वैश्वदेवपदेन नित्यहोम एवउच्यते। सर्वदेवसम्बन्धित्वव्युत्पत्तेरिति कौमुदीकृतः। नित्यहोमाद् भिन्नएवायंवह्निसंस्कारश्रुतेः। “अग्न्याधानादिकं कर्म
 
-
-
 नित्यहहोमे न विद्यते” इति वशिष्ठसंहितायां नित्यहोमे वह्णिसंस्कारनिषेधात्‌। एतद्धोमानन्तरं च लौकिकाग्नौ—
 
 परिषिच्य ततो देवि नित्यहोमं समाचरेत्‌।  
@@ -4285,8 +4055,6 @@ CHAPTER XI
 
 प्राङ्मुखो मूलमन्त्रेण देशिकेन्द्रश्चरुं पचेत्‌।  
 स्रुवेणाज्येनसंस्विन्नेदद्यात्‌ तप्ताभिधारणम्‌॥
-
-
 
 मूलेन पश्चात्‌ तत्पात्रं कवचेनाऽवतारयेत्‌।  
 अस्त्रजप्ते कुशास्तीर्णे मण्डले विधिवद्गुरुः॥
@@ -4341,8 +4109,6 @@ CHAPTER XI
 वृद्धिस्तापो मृतिर्वित्तंक्षयं शान्तिर्गदो धनम्‌॥
 
 सुखवृद्धिः परं दुःखं फलान्येतानि शंसति।
-
-
 
 **वायवीयसंहितायामपि—**
 
@@ -4406,8 +4172,6 @@ CHAPTER XI
 यज्जाग्रतो दूरमुदेति दैवमावृत्यमन्त्रान्‌ प्रयतस्मिरेतान्‌।  
 लब्धैकभुग्दक्षिणपार्श्वशायी स्वप्नं परीक्षेत यथोपदेशम्‌॥
 
-
-
 भगवन्‌ देवदेवेश शूलभृद्वृषवाहन।  
 इष्टानिष्टेसमाचक्ष्व मम सुप्तस्य शाश्वतः॥
 
@@ -4468,8 +4232,6 @@ CHAPTER XI
 
 क्षितिलाभः क्षतं चाब्धितरणं चाग्निपूजनम्‌।
 
-
-
 होमश्च ज्वलिते वह्नौसंग्रामे विजयस्तथा॥
 
 हंसकोकमयूराणां रथारोहणमेव च।
@@ -4519,8 +4281,6 @@ CHAPTER XI
 
 लाजाः सिद्धार्थका बीजं नवभाण्डं च पायसम्‌।  
 उपासन्नोऽप्यथाचार्योगायत्री वरसंगता॥
-
-
 
 सर्वे स्वप्ने शुभाः प्रोक्ताः सिद्धिमोक्षफलप्रदाः।
 
@@ -4582,8 +4342,6 @@ CHAPTER XI
 खरोष्ट्रमहिषानाञ्चदर्शनारोहणक्रिया।  
 पातनावेशनाभ्यङ्गंदक्षिणाशागतं तथा॥
 
-
-
 वमनं रुधिरादीनां लाभस्तेषां तथैव च।  
 अङ्गभङ्गोऽथ निद्रा च यमकिङ्करदर्शनम्‌॥
 
@@ -4638,8 +4396,6 @@ CHAPTER XI
 कुट्टनंहेति मन्त्रेण वर्ममन्त्रेण मार्जनम्‌।  
 विलेपनं कलारूपकल्पनं तदनन्तरम्‌।  
 त्रिसूत्रीकरणं पश्चाद्‌ हृदयेनाऽर्चनं मतम्‌॥
-
-
 
 अस्त्रेण वज्रीकरणं हृन्मन्त्रेण कुशैःशुभैः।  
 चतुष्पथं तनुत्रेण तनुयादक्षपाटनम्‌॥
@@ -4700,8 +4456,6 @@ CHAPTER XI
 वागीश्वरीमृतुस्नातां नीलेन्दीवरसन्निभाम्‌।  
 वागीश्वरेण संयुक्तामुपचारैःप्रपूजयेत्‌॥
 
-
-
 **गणेश्वरविमर्शिण्याम—**
 
 शक्तिवीजेन वागीशीं वागीशं साध्यमन्त्रतः।
@@ -4758,8 +4512,6 @@ CHAPTER XI
 
 पात्रान्तरेण पिहिते ताम्रपात्रादिके शुभे।  
 अग्निप्रणयनं कुर्याच्छरावेतादृशेऽपि वा॥
-
-
 
 **स्मुतिसारे तु—**
 
@@ -4826,8 +4578,6 @@ CHAPTER XI
 
 शिवबीजधिया तस्यायोनौ वह्निंविनिक्षिपेत्‌।
 
-
-
 **त्रिपुरासारसमुच्चये—**
 
 योनावेनं विन्यसेत्‌ स्वाभिवक्त्रंपश्चादग्निं मूलमन्त्रेण मन्त्री।
@@ -4882,8 +4632,6 @@ CHAPTER XI
 जिह्वास्तास्त्रिविधाः प्रोक्ता गुणभेदेन कर्मसु।  
 हिरण्या गगना रक्ता कृष्णान्या सुप्रभा मता।
 
-
-
 बहुरूपाऽतिरक्ता च सात्त्विक्यो यागकर्मसु॥
 
  वह्निःरेफः। इरो यकारः। अर्धीशो दीर्घोकारः। अत्र—सात्त्विकरसनायां बहुरूपातिरक्तयोः पौर्वापर्यंबीजक्रमानुरोधेन न तु न्यासक्रमानुरोधेन बहुरूपायाः सर्वाङ्गेन्यसनीयत्वात्‌। तदुक्तं तन्त्रान्तरे—
@@ -4930,8 +4678,6 @@ CHAPTER XI
  अधिदेवतोक्तिस्तत्तज्जिह्वास्थाने न्यासार्थंपूजार्थं च।
 
 जिह्वासु त्रिदशादीनां तत्तत्कार्यसमाप्तये।
-
-
 
 जुहुयाद्वाञ्छितांसिद्धिं दद्युस्ता देवतामयाः॥
 
@@ -4986,8 +4732,6 @@ CHAPTER XI
 त्रिधाग्रीवंत्रिपादाब्जंहव्यकव्यविनाशकम्‌॥
 
 ब्रह्माध्वर्यूद्गातृहोतृ-चतुःश्रृङ्गविराजितम्‌।
-
-
 
 पाञ्चरात्रं पाशुपतं कापिलं च महामतम्‌॥
 
@@ -5049,8 +4793,6 @@ CHAPTER XI
 
 **तन्त्रान्तरे—**
 
-
-
 बाह्येऽथ स्थण्डिलं च त्रिपरिधिसहितंप्रागुदप्राप्रवर्भम्‌।
 
 **त्रिपुरासारसमुच्चयेऽपि—**
@@ -5106,8 +4848,6 @@ CHAPTER XI
 वैदूर्यवर्णा गगना प्राच्यां दिशि व्यवस्थिता।  
 तरुणादित्यसंकाशा रक्ता जिह्वाऽग्निदिक्स्थिता॥
 
-
-
 कृष्णा नीलाब्जसङ्काशा नैऋृत्यां दिशि संस्थिता।  
 सुप्रभा पद्मारागाभा वारुण्यां दिशि संस्थिता॥
 
@@ -5158,8 +4898,6 @@ CHAPTER XI
 
 कोणषट्के च मध्ये च जिह्वाभिः केशरेष्वपि।  
 अङ्गमन्त्रैस्ततो बाह्येअष्टाभिर्मूर्त्तिभिः क्रमात्‌।
-
-
 
 मेखलाश्रितदर्भेषु दिक्पतीन्‌ पूर्वतो यजेत्‌॥
 
@@ -5212,8 +4950,6 @@ CHAPTER XI
 **शारदायाम्‌—**
 
 पश्चादादाय पाणिभ्यां स्रुक्स्रुवौतावधोमुखौ।
-
-
 
 त्रिशः प्रतापयेद्वह्नौदर्भानादाय देशिकः॥
 
@@ -5275,8 +5011,6 @@ CHAPTER XI
 
 दीप्तेन दर्भयुग्मेन नीराज्याऽज्यंसवर्मणा।
 
-
-
 अग्नौ विसर्जयेद्दर्भमभिद्योतनमीरितम्॥
 
 घृते प्रज्वलितान्‌ दर्भान्‌ प्रदर्श्याऽस्त्राणुना गुरुः।  
@@ -5329,8 +5063,6 @@ CHAPTER XI
 
 मध्यादाज्यं समादाय वह्नेर्भालविलोचने।
 
-
-
 जुहुयादग्नीषोमाभ्यांस्वाहेति हृदयाणुना॥
 
 हृन्मन्त्रेण स्रुवेणाऽज्यं भागादादाय दक्षिणात्‌।  
@@ -5381,8 +5113,6 @@ CHAPTER XI
 शुभेषु स्युर्विवाहान्ताः क्रियास्ताः क्रूरकर्मसु।  
 मरणान्ताः समुद्दिष्ठा वह्नेरागमवदिभिः॥
 
-
-
 ततश्च पितरौ तस्य सम्पूज्यात्मनि योजयेत्‌।  
 समिधः पञ्च जुहुयान्मूलाग्रघृतसंप्लुताः॥
 
@@ -5430,8 +5160,6 @@ CHAPTER XI
 प्रादेशमात्रा वाऽलामे होतव्याः सकला अपीति॥
 
  एवञ्चसकलसंस्कारशेषे तत्पित्रोर्विसर्जनं नालापनयनीये पञ्चसमिद्धोमञ्च वदन्‌ शारदाकारो बध्रामैव। अत्र गोदानानन्तरं समावर्तनमपि कर्त्तव्यम्‌। तदुक्तं
-
-
 
 **गणेश्वरविमर्शिन्याम्‌—**
 
@@ -5498,8 +5226,6 @@ CHAPTER XI
 ततःपीठंसमभ्यर्च्य देवताया हुताशने।  
 अर्चयेद्‌ वहिरूपां तां देवतामिष्टदायिनीम्‌॥
 
-
-
 **वीरचूड़ामणौतु—**
 
 पश्चात्पीठदेवतानामेकैकाज्याहुतीस्ततः।  
@@ -5556,8 +5282,6 @@ CHAPTER XI
 
 स्रुवेणाज्यं समित्पाण्या स्रुचाशोषं करेण वा।  
 तत्र दिव्येन होतव्यं तीर्थेनार्षेण वातथेति॥
-
-
 
 **महाकपिलपञ्चरात्रे—**
 
@@ -5619,8 +5343,6 @@ CHAPTER XI
 
 प्रदक्षिणास्त्यक्तकम्पाश्छत्राभाः शिखिनः शिखाः।  
 शुभदा यजमानस्य राज्यस्यापि विशेषतः॥
-
-
 
 कुन्देन्दुधवलो धूमो वह्नैःप्रोक्तः शुभावहः।  
 कृष्णःकृष्णगतेर्वर्णोयजमानं विनाशयेत्‌॥
@@ -5689,8 +5411,6 @@ CHAPTER XI
 
 निवृत्ताद्याःकलाः पञ्च कलाध्वेति प्रकीर्तितः॥
 
-
-
 तत्त्वाध्वा बहुधा भिन्नाः शैवाद्यागममेदतः।  
 षट्त्रिंशच्छैवतत्त्वानि द्वात्रिंशद्वैष्णवानि तु॥
 
@@ -5733,8 +5453,6 @@ CHAPTER XI
  भुवनानि चतुर्दश। ‘भुवनाध्वेति कथितो भुवनानि चतुर्दशे’ति गौतमीयतन्त्रवचनात्‌। वायवीयसंहितायान्तु—
 
  आधाराद्युन्मन्यन्तं च भुवनाध्वा प्रकीर्त्तितः।इत्युक्तम्‌।
-
-
 
 तथा वर्णाध्वेति वदन्त्यर्णानादिक्षान्तान्मनीषिणः।  
 वर्णसिंहः पदाध्वा स्यान्मन्त्राध्वा मन्त्रराशयः॥
@@ -5791,8 +5509,6 @@ CHAPTER XI
 अभावे तु घृतस्यैव होमद्रव्येण पूरयेत्‌।  
 तस्योपरि घृतं दद्यात्‌ तदूर्ध्वंकुङ्कुमादिकम्‌
 
-
-
 **तूर्णायागे—**
 
 मूलंनमोऽन्तमुच्चार्यवामपादपुरःसरम्‌।  
@@ -5837,8 +5553,6 @@ CHAPTER XI
 कर्मान्तरेऽपि सम्प्राप्ते सन्निधिं कुरु सादरम्॥
 
 इति मन्त्रेण संप्रार्थ्यवह्निमुद्वासयेदपीति।
-
-
 
 **शारदायाम्‌—**
 
@@ -5909,8 +5623,6 @@ CHAPTER XI
 अथैशान्यां दिशि यदा मन्त्रविन्‌ न्यस्तविग्रहम्‌।  
 पीठस्य चतुरस्नायां वेद्यां दर्भाग्रपाणिना॥
 
-
-
 अभिषिञ्चेत्‌ स्वकं शिष्यमात्मतत्त्वानुवर्त्तिनम्‌।
 
 **सोमशम्भौ—**
@@ -5969,8 +5681,6 @@ CHAPTER XI
 
 न्यासजालं तस्य देहे गुरुःसंन्यस्य यत्नतः।  
 दक्षकर्णेवदेन्मन्त्रंत्रिवारं पूर्णमानसः॥
-
-
 
 **कुलामृते—**
 
@@ -6032,8 +5742,6 @@ CHAPTER XI
 
 त्रिदिनं निवसेद्‌ भक्त्यासिद्धये गुरुसन्निधौ।  
 अन्यथा तद्गतं तेजो गुरुमेति न संशयः॥
-
-
 
 **मन्त्रतन्त्रप्रकाशो—**
 
@@ -6098,8 +5806,6 @@ CHAPTER XI
 
 दण्डवत्‌ प्रणतं शिष्यं सर्वाचारांश्च शिक्षयेत्‌।
 
-
-
 **तन्त्रान्तरे—**
 
 स्नानसन्ध्ये सदाचारं नित्यं काम्यं तथैव च।  
@@ -6148,8 +5854,6 @@ CHAPTER XI
 
 गण्डूषतत्त्वसंयुक्तस्तदाऽर्होऽयं शिवार्चने।
 
-
-
 अन्यथा नैव सिद्धिः स्यात्‌ सविकल्पस्य पार्वति॥  
 गण्डूषदाने शिष्यस्य विकल्पोयदि जायते।
 
@@ -6192,8 +5896,6 @@ CHAPTER XI
  इति वचनात्‌ पुस्तकादपि मन्त्रज्ञानं सिद्धिजनकमिति वाच्यम्‌। तत्रेतिकर्त्तव्यतयोः शास्त्रेण ज्ञानविधानात्‌ ‘मन्त्र’मित्यस्य ‘प्रसाधयेदि’त्यनेनैवाऽन्वयात्‌।
 
 **इति क्रियावतीदीक्षाविधिः**
-
-
 
 **अथ वर्णमयी दीक्षा**
 
@@ -6246,8 +5948,6 @@ CHAPTER XI
 ततो वेधमयीं वक्ष्ये दीक्षां संसारमोचनीम्।  
 ध्यायेच्छिष्यतनोर्मध्ये मूलाधारे चतुर्दले॥
 
-
-
 त्रिकोणमध्ये विमले तेजस्त्रयधिजृम्भिते।  
 बलयत्रयसंयुक्तां तड़ित्कोटिसमप्रभाम्‌॥
 
@@ -6297,8 +5997,6 @@ CHAPTER XI
 
 आणवी बहुधेत्युक्त्वातद्भेदमधुनोच्यते।
 
-
-
 स्मार्त्तीमानसिकी यौगी चाक्षुषी स्पार्शनी तथा॥  
 वाचिकी मान्त्रिकीहोत्री शास्त्री चेत्यभिषेचिकी।
 
@@ -6345,8 +6043,6 @@ CHAPTER XI
 
 स्वयं मन्त्रतनुर्भूत्वा सक्रमंमन्त्रमादरात्‌।  
 दद्याच्छिष्याय सा दीक्षा मान्त्री मलविघातिनी॥
-
-
 
 **अथ होत्रीदीक्षा**
 
@@ -6401,8 +6097,6 @@ CHAPTER XI
 अभिषिञ्चेद्गुरुःशिष्यंनामास्मै प्रदिशेत्‌ स्वयम्‌।  
 पूर्णाभिषेकख्यातोऽयमाचार्यत्वप्रदायकः॥
 
-
-
 **सारसंग्रहे—**
 
 अयंपूर्णाभिषेकः स्यात्‌ साधकाभीष्टसिद्धिदः।
@@ -6454,8 +6148,6 @@ CHAPTER XI
 
 इमं मन्त्रं पठन्‌ मन्त्रमभिषिञ्च्याज्जलैःशुभैः।  
 तावत्‌ स्रोमिति मन्त्रेण वषड़न्तेन संपुटम्‌॥
-
-
 
 सहस्रंसंजपेन्मन्त्रं विमलीकरणं त्विदम्‌।  
 स्वधाशिखापुटंमन्त्रं सहस्रं संजपेत्‌ सुधीः॥
@@ -6511,8 +6203,6 @@ CHAPTER XI
 आयाहि तेजसां नाथ हव्यवाह वरप्रद।  
 गृहाण पुष्पधूपादिबलिमेनं सुपूजितम्‌॥
 
-
-
 प्रेतराज समायाहि भिन्नाञ्जनसमद्युते।  
 बलिं दत्तंगृहीत्वेमं सुप्रीतो वरदो भव॥
 
@@ -6557,8 +6247,6 @@ CHAPTER XI
 स्नायात्‌ पूजितकुम्भस्यतोयैर्मन्त्रमयैःशुभैः।  
 भूयश्चान्येन तोयेन कुम्भमापूर्य संयतः॥
 
-
-
 तन्मध्ये मन्त्रपत्रं च निक्षिप्याऽथ प्रपूजयेत्‌।  
 तं कुम्भं निन्मगातीरे शुद्धे वाऽन्यजलाशये॥
 
@@ -6568,13 +6256,10 @@ CHAPTER XI
 नश्यन्त्येव न सन्देहः क्रमाच्चित्तप्रसन्नता।  
 जायतेऽतीवसम्पन्नो वर्धते तत्‌ कुलंक्रमात्‌॥  
 
-
 **इति महामहोपाध्याय-ठक्कुर-श्रीनरसिंहविरचिते ताराभक्ति-  
 सुधार्णवे तृतीयस्तरङ्गः॥३॥**
 
 **—————**
-
-
 
 **चतुर्थस्तरङ्गः**
 
@@ -6626,8 +6311,6 @@ CHAPTER XI
 
 पादुकामासनं वस्त्रं वाहनं छत्रचामरे।  
 दृष्टागुरोर्नमस्कुर्यान्न तद्भोगाय कल्पयेत्‌॥
-
-
 
 उक्तानुक्तेषुकार्येषु नोपेक्षां कारयेत्‌ प्रिये।  
 सवसद् यद्गुरुर्ब्रूयात्‌ तत्‌ कार्यमविशङ्क्या॥
@@ -6684,8 +6367,6 @@ CHAPTER XI
 स्नानादि मानसं शौचं पूजनं चापि तर्पणम्।  
 सर्वएव शुभःकालोनाशुभोविद्यते क्वचित्‌॥
 
-
-
 नविशेषोदिवा रात्रौन सन्ध्यायां नवा निशि।  
 सर्वदा पूजयेद्देवीमस्नातः कृतभोजनः॥
 
@@ -6731,8 +6412,6 @@ CHAPTER XI
 
 अन्यमन्त्रार्चनश्रद्धामन्यमन्त्रस्य पूजनम्‌।  
 कुलस्त्रीवीरनिन्दां च तद्द्रव्यस्यापहारणम्‌॥
-
-
 
 स्त्रीषु रोषं प्रहारञ्च वर्जयेन्मतिमान्‌ सदा।  
 स्त्रीमयं च जगत्‌ सर्वंस्वयं तावत्‌ तथा भवेत्‌॥
@@ -6786,8 +6465,6 @@ CHAPTER XI
 आममांसं सुराकुम्भंमत्तेभंसिद्धलिङ्गिनम्‌।  
 सहकारमशोकं च क्रीड़ालोलाः कुमारिकाः॥
 
-
-
 एकवृक्षंश्मशानञ्च समूहं योषितामपि।  
 नारीं च रक्तवसनां दृष्ट्वाबन्देत भक्तितः॥
 
@@ -6837,8 +6514,6 @@ CHAPTER XI
  पूर्वदोषयोः सतोरेव उभयत्यागे दोषाधिक्यमिदम्‌।
 
 विण्मूत्रोच्छिष्टं शङ्काभिर्युक्तःकर्मकरोति यत्‌।
-
-
 
 तपोऽर्चनादि तत्सर्वमपवित्रंभवेत्‌ प्रिये॥
 
@@ -6893,8 +6568,6 @@ CHAPTER XI
 
 प्रकाशाद्बलहानिः स्यात्‌ प्रकाशाद्देवहिंसनम्।
 
-
-
 प्रकाशान्मृत्युलाभः स्यान्न प्रकाश्यं कदाचन॥
 
 पूजाकाले महेशानि यदि कोऽप्यत्र गच्छति।  
@@ -6943,8 +6616,6 @@ CHAPTER XI
 वीरभावोमहादेव कथ्यते श्रृणुभैरव।  
 निर्द्वन्द्वमानसो भूत्वा हृदाकामकला तनुः॥
 
-
-
 निशासु पूजा प्रवरा हेतुयुक्ता सदैव हि।  
 निजं कुलं समाधाय स्वयं भैरवरूपधृक्‌॥
 
@@ -6986,8 +6657,6 @@ CHAPTER XI
 
 तत्तत्कल्पविधानेन तत्‌ तद्यत्नेन पूजयेत्‌।  
 विसर्जनं विधायाऽन्ते स्वकुलेयोजयेत्‌ ततः॥
-
-
 
 तद्बिम्बरसपानेन अमृतंभुज्यते मया।  
 तच्चकोररसास्वादे सम्मदो मम जायते॥
@@ -7034,8 +6703,6 @@ CHAPTER XI
 विना हेतुमनास्वाद्य क्षोभयुक्तोमहेश्वरः।  
 न पूजा मम सम्पर्कंन ध्यानमनुचिन्तनम्‌॥
 
-
-
 तस्माद्भुक्त्वाच पीत्वा च पूजयेत्‌ परमेश्वरीम्‌।  
 नात्र प्रच्युतिदोषोऽस्ति नापरं दोषभूषणम्‌॥
 
@@ -7081,8 +6748,6 @@ CHAPTER XI
 यद्यन्नसत्‌ पुरा प्राक्तंसंकेतमन्त्रसाधने॥
 
 अञ्जनं गुटिकादिं च कुर्याद्‌ वीरो महाबलः।
-
-
 
 दिव्ये वीरे न भेदोऽस्ति यद् भेदंतत्‌ तु कथ्यते॥
 
@@ -7131,8 +6796,6 @@ CHAPTER XI
 
 न परद्रव्यलोभी स्यान्न भोगे मानसं भजेत्‌।
 
-
-
 सिन्धुतीरेपर्वते वा कानने च सुरालये॥
 
 विल्वमूले विविक्ते च पुण्यक्षेत्रेच शोभने।  
@@ -7179,8 +6842,6 @@ CHAPTER XI
 
 तथापि तत्र मे शङ्काजायते तत्‌ पदे पदे।
 
-
-
 वरं कुलं परित्याज्यंवरं स्वकुलहिंसनम्‌॥
 
 वरं स्वकुलहानिस्तु वरं स्वकुलकुट्टनम्‌।  
@@ -7209,8 +6870,6 @@ CHAPTER XI
 सुधार्णवे चतुर्थस्तरङ्गः॥४॥**
 
 **![](../books_images/U-IMG-1720848236line.jpg)**
-
-
 
 **पञ्चमस्तरङ्ग**
 
@@ -7262,8 +6921,6 @@ CHAPTER XI
 **सुरेन्द्रसंहितायाम्—**
 
 ऋृषिर्हंसो व्यक्तपूर्वोगायत्रंछन्दउच्यते।
-
-
 
 देवतापरमादित्यो हंसो हं बीजमुच्यते॥
 
@@ -7317,8 +6974,6 @@ CHAPTER XI
 
 विशुद्धे धूम्रपत्रे च कलापत्रे स्वरान्‌ न्यसेत्‌।
 
-
-
 प्राणशक्त्यात्मकौवन्देसहस्रं च समर्पयेत्॥
 
 आज्ञायां विद्युदाभायां शुभौ हक्षौनियोजयेत्‌।  
@@ -7370,8 +7025,6 @@ CHAPTER XI
 **अथ स्नानम्‌**
 
  तच्चत्रिविधम्‌। आदकमान्त्रमानसभेदात्‌। तत्रादौ प्रधानत्वादौदकंनिरूप्यते।
-
-
 
 **नारदपञ्चरात्रे—**
 
@@ -7426,8 +7079,6 @@ CHAPTER XI
 
 त्रिकोणं मूलमन्त्रेण सावित्रे हंसकंजपन्‌।
 
-
-
 दक्षावर्त्तक्रमेणैव लिखेद्देवि समाहितः॥
 
  मूलबीजेनति। मन्त्रान्तरे। सावित्रेसूर्यमन्त्रे। हंसकं हंस इति मन्त्रम्‌। अङ्कुशमुद्रा च—
@@ -7480,8 +7131,6 @@ CHAPTER XI
 विधाय वैदिकं स्नानं ततस्तान्त्रिकमाचरेत्‌।  
 मृदमस्त्रेण चादाय तेन तामभिषिच्य च॥
 
-
-
 शिखामन्त्रेण संशोध्य मन्त्रयेन्मूलमन्त्रतः।  
 मूर्धादिपादपर्यन्तं विलिप्य च तया वपुः॥
 
@@ -7526,8 +7175,6 @@ CHAPTER XI
 
 त्रिधा देवीं समुत्तीर्यजलाद्धौते शुभाम्बरे।  
 परिधायाऽथ तिलकं कृत्वा सन्ध्यां समाचरेत्‌॥
-
-
 
 **संप्रार्थयेदिति—**
 
@@ -7575,8 +7222,6 @@ CHAPTER XI
 कुर्वीत मानसं स्नानं सर्वत्र विहितं च यत्‌॥
 
 सर्वत्रसर्वविद्यासु।
-
-
 
 **नारदपञ्चरात्रे—**
 
@@ -7635,8 +7280,6 @@ CHAPTER XI
 आचम्य प्राङ्मुखो भूत्वा उपविश्य च मन्त्रवित्‌।  
 वैदिकीं तान्त्रिकीं कुर्यात्‌ ततः सन्ध्यां समाहितः॥
 
-
-
 **शैवागमे—**
 
 प्राणायामत्रयं कृत्वा मूलमन्त्रेण मन्त्रवित्‌।  
@@ -7684,8 +7327,6 @@ CHAPTER XI
  शिवबीजं हकारः। वायुबीजं यकारः। जलबीजं वकारः। पृथ्वीबीजंलकारः।
 वह्निबीजंरेफः।एतेषां च सानुस्वाराणां बीजत्वम्‌। सजलं वामहस्तंदक्षहस्तेन संपुटीकृत्य एभिर्बीजैस्त्रिधा जलमभिमन्त्रयेत्‌।
 तत्त्वमुद्राअनामाङ्गुष्ठयोगेनभवति। तथा च हस्तस्थमेव जलं मूलमन्त्रेण सप्तधा मूर्ध्नि क्षिपेदित्यर्थः।
-
-
 
 तदत्र कुमारीकल्प यामलयोर्विकल्पो-गुरुक्रमपरिच्छेद्यः।**वीरचूड़ामणौ—**
 
@@ -7741,8 +7382,6 @@ CHAPTER XI
 
 संक्षेपसन्ध्यामथवा कुर्यान्मन्त्री ह्यशक्तितः।  
 सायं प्रातश्च मध्याह्नेकृष्णं ध्यात्वा मनुंजपेत्‌॥
-
-
 
 इति सन्ध्यात्रयं प्रोक्तं कर्मिणां सिद्धिदायकम्‌।
 
@@ -7801,8 +7440,6 @@ CHAPTER XI
 यन्त्रराजं जले ध्यात्वा तत्र देवीं निधाय च।  
 देवषिपितृपूर्वांतुसायुधां सपरिवाराम्‌॥
 
-
-
 जले वा तर्पयेद्‌ देवीं गृहे वा तर्पयेत्‌ सुधीः।  
 गुरुपङ्क्तिं च सन्तर्प्यवटुकादींश्च तर्पयेत्‌॥
 
@@ -7845,8 +7482,6 @@ CHAPTER XI
 
  मार्त्तण्डभैरवायेत्येकदेशग्रहणम्‌।तन्मन्त्रस्तु ह्रींहंसः मार्त्तण्डभैरवाय प्रकाशशक्तिसहिताय इदमर्घंस्वाहेति।
 
-
-
 **तन्त्रराजोत्तरे—**
 
 संस्मृत्य भैरवं देवं मार्त्तण्डाख्यमुमापतिम्।  
@@ -7883,8 +7518,6 @@ CHAPTER XI
 **अथ पूजा**
 
  सा चत्रिविधा उत्तममध्यमकनिष्ठभेदात्। तथोचोक्तंफेत्कारिणीतन्त्रे—
-
-
 
 शक्तिभिर्मूर्त्तिभिश्चैव लोकपालैश्च संयुतः।  
 पीठयन्त्रक्रमाद्यागो नित्ययागः स उत्तमः॥
@@ -7933,8 +7566,6 @@ CHAPTER XI
 कुम्भीपाके तु मज्जेते तावुभौकमलानने॥
 
 पुण्यस्त्रियो गृहस्थाश्च यद्येवंकुर्युरन्वहम्।
-
-
 
 संसारान्न निवर्त्तन्ते विध्यतिक्रमदोषतः॥
 
@@ -7986,8 +7617,6 @@ CHAPTER XI
 
 पञ्चक्रोशान्तरे यत्र न लिङ्गान्तरमीक्षते।
 
-
-
 तदेकलिङ्गमाख्यातं तत्र सिद्धिरनुत्तमा॥
 
 **श्मशानादिकमुक्तं त्रिशक्तिरत्ने—**
@@ -8036,8 +7665,6 @@ CHAPTER XI
 
 महाविद्याविशेषेण जपमात्रेण सिद्धिदा।  
 तत्रस्थः साधयेद्योगी विद्यां त्रिभवमोचनीम्॥
-
-
 
 **हरगौरीसंवादे—**
 
@@ -8094,8 +7721,6 @@ CHAPTER XI
 
 ताराभेदैस्त्रिभिःपीत्वा मायया क्षालयेत्‌ करम्‌।
 
-
-
 स्त्रींह्रूंओष्ठौ द्विरुन्मृज्य फट्कारैः क्षालयेत्‌ करम्‌॥
 
 आस्यनासेक्षणश्रोत्र-नाभिवक्षःशिरोभुजान्।  
@@ -8146,8 +7771,6 @@ CHAPTER XI
 विलुम्पन्ति सदालुब्धा न गृह्णन्ति च देवताः॥
 
 ॐअपसर्पन्तु ते भूता ये भूता भुवि संस्थिताः।
-
-
 
 ये भूता विघ्नकर्त्तारस्ते नश्यन्तु शिवाज्ञया॥
 
@@ -8201,8 +7824,6 @@ CHAPTER XI
 कूर्मोऽत्रदेवता देवि आसनोपनिवेशने।  
 विनियोगश्च कथितः पठेद्धृत्वासनं मतः॥
 
-
-
 पृथ्वि त्वया धृता लोका देवि त्वं विष्णुना धृता।  
 त्वं च धारय मां भद्रेपवित्रं कुर चासनम्‌॥
 
@@ -8253,8 +7874,6 @@ CHAPTER XI
  षण्मासनिःसृतपदेन मृदुकम्बलस्य पुनरभिधानमादरातिशयार्थम्‌। चितातदन्तोक्तिः प्रसङ्गात्‌। **श्रीक्रमेऽपि—**
 
 षण्मासानन्तरं यावद्दशमासाच्चपूर्वकम्‌।
-
-
 
 गर्भच्युतं मृतं बालंगर्भाष्टमात्‌ परं शवम्‌॥
 
@@ -8307,8 +7926,6 @@ CHAPTER XI
 
 मृतासनं विना देवि यो जपेत्‌ कालिकां नरः।  
 तावत्‌ स नारकी ज्ञेयो यावदाहूतसंप्लवम्‌॥
-
-
 
  वस्तुत इदंवीरपरम्‌। अत्र शवासनेष्वैच्छिको विकल्पः। काष्ठासनं विहितेतरं निषिद्धम्‌। **ब्रह्मयामले—**
 
@@ -8366,8 +7983,6 @@ CHAPTER XI
 विना हेतुकमास्वाद्य क्षोभयुक्तो महेश्वर।  
 न पूजामासनं कुर्यान्न चध्यानं न चिन्तनम्‌॥
 
-
-
 तस्माद्भुक्त्वा च पीत्वा च पूजयेत्‌ परमेश्वरीम्‌।
 
 **कुलार्णवेऽपि—**
@@ -8415,8 +8030,6 @@ CHAPTER XI
 
 यत्रावश्यं विनिर्द्दिष्टं मदिरादानपूजनम्‌।  
 ब्राह्मणस्ताम्रपात्रेषु मधु मद्यं प्रकल्पयेत्॥ इति
-
-
 
 **कुलचूड़ामणौ—**
 
@@ -8473,8 +8086,6 @@ CHAPTER XI
 
  वाम इत्युपलक्षणम्‌। वीरचूड़ामण्युक्तपूजितयन्त्रोपरीत्यपि द्रष्टव्यम्‌।
 
-
-
 **समयाचारे— **
 
 वामस्कन्धे करं दत्त्वातदङ्केदेहमात्मनः।  
@@ -8528,8 +8139,6 @@ CHAPTER XI
 
 कुसुमं विष्णुमन्त्रेण स्वाङ्गुल्यग्रेण साधकः।
 
-
-
 विमर्दनार्थंगृह्णीयात्‌ करशोधनकर्मणि॥
 
 प्रासादेन तु मन्त्रेण कराभ्यां पुष्पमर्दनम्‌।  
@@ -8568,8 +8177,6 @@ CHAPTER XI
  विज्ञेयंतन्त्रान्तरादिति शेषः। ब्रह्मबीजमुद्धरति—वासुदेव ओकारः। इन्दुरर्धचन्द्रः। बिन्दुरनुस्वारः तेन ॐ। आद्यदन्त्यःतकारः। व्यञ्जनं स्वरशून्यम्‌।प्रान्तदन्त्यार्णःसकारः। स एवपूर्वंयस्य तेन सत्‌। प्रणवोत्तरं प्रणवान्ते। आद्यदन्त्यद्वयं तकारद्वयं। तत्रविशेषमाह—पश्चाद्द्वितीयतकारः। व्यञ्जनंस्वरशून्यः। तेन ॐतत्सदिति निष्पण्णम्‌।
 
 करशुद्धिं समाप्याऽथ कुर्यात्‌ तालत्रयं ततः।
-
-
 
 ऊर्ध्वाधं मूलमन्त्रेण दिग्बन्धमपि देशिकः॥  
 तेन संजनितं तेजो रक्षां कुर्यात्‌ समन्ततः।
@@ -8618,8 +8225,6 @@ CHAPTER XI
 
  कुल्लुकामन्त्रश्च मन्त्रोद्धारप्रकरणे एवोक्तः। तेन त्र्यक्षरीनीलसरस्वतीरूपकुल्लुकामन्त्रं च विलिख्यशिरसि धृत्वा नित्यार्चनं कुर्यादिति पर्यव्यसितोऽर्थः। ब्रह्मसंहितायान्तु—तारिणी कुल्लुका प्रोक्ता सर्वसिद्धिप्रदा सदा।
 
-
-
 तस्योद्धारमहं वक्ष्येशृणुष्वैकमना मुने॥
 
 प्रणवं पूर्वमुद्धृत्यपद्मेयुग्मं तथैवच।  
@@ -8662,8 +8267,6 @@ CHAPTER XI
 
  इत्यादिना तत्पूजनादेर्वैगुण्यापादकत्वमवधार्यते। तेना“ऽतिरात्रेपोड़शिनंगृह्णाति”“नातिरात्रे षोड़शिनं गृह्णाती”त्यादिवत्‌ विकल्पोऽवधार्यते। अतिरात्रेषोड़शिग्रहणपक्षे फलभूमाकल्पनवदत्रापि फलसिद्धौतदननुष्ठानलक्षणाप्रामाण्यापत्तेः। अत एव“प्राप्नोति तत्फलं सम्यगि”त्यभिधानं संगच्छते।वस्तुतस्तु“मन्त्रकाल”
 
-
-
 इति वचनाद्भार्यावचनसमभिव्याहारात्‌ पुरश्चरणवैगुण्यापादकतैव तत्‌पूजनस्यन तु नित्यपूजावैगुण्यापादकतापि। तन्त्रचूड़ामणिवचनविरोधात्‌।एवं स्तोत्रप्रकरणाम्नानात्‌ पाठाङ्गतैव तन्नामग्रहणादेरित्यूह्यम्‌। तेन नित्यपूजायां प्रसक्ततत्पूजनस्य पुरश्चरणादौ निषेधः सम्भवत्यन्यथाऽप्रसक्ततत्प्रतिषेधापत्तेः। न चपञ्चायतनदीक्षापक्षप्राप्ततत्पूजननिषेधोऽयं नित्यपूजायामेवेति वाच्यम्‌। तन्त्रचूड़ामणिविरोधात्‌। अत्र पञ्चायतनदीक्षाया निषेधाच्च। अत एवाधिकारिनिन्दार्थमप्रसक्तस्यापि तत्पूजनस्य निषेधः। अयज्ञीयवैभाषा इतिवदिति परास्तम्‌।
 
  किंच—“वर्जयेद्वैष्णवं कल्पमि”त्यनेन न तत्पूजायां निषेधोऽपि तु तत्‌कल्पस्येतिकर्त्तव्यता। तथा च विष्णुमन्त्रोक्तेतिकर्त्तव्यतया देवीपूजनं वर्जयेदित्यर्थः।अत एवान्यमन्त्रेतिकर्तव्यतयाऽन्यमन्त्रोपासनस्यासम्भवमाशङ्क्यतत्रैवोक्तम्—“वर्जयेत्तुलसीदलमि”ति। तथाच तुलसीदलादिना पूजैव तत्कल्पदार्थः। सच नासम्भावित इति तस्मिन्निषेधः शक्यः कर्तुमिति तदभिप्रायः। एवं चनित्यार्चनकालेनैमित्तिकपुरश्चरणाद्यर्चनकालेऽपि हरिपूजनमङ्गम्‌। तदभावेदेवीपूजाफलाभाव इति पर्यवसितम्‌। एवं च “यानि नामानी”त्यादिना अनङ्गव्यवायदोषपरिहारार्थं स्तोत्रपाठसमये हरेरपि नाम मध्ये न ग्राह्यम्‌। किमुतान्यस्य। प्राप्नोतीत्यादिसम्भावनायामाचमनानुकल्प-विष्णुनामग्रहणप्राप्तौच यान्येवप्रसङ्गादत्रोपनिबद्धानि तान्येव ग्राह्यानि नत्वन्यानि। एवं च “वेदो वे”ति न्यायान्‌“न गृह्णीयाद्धरेर्नाम” इत्यत्रापि स्त्रोत्रानुपात्तहरिनामग्रहणनिषेधः। अथवा अर्थवादमात्रस्यानर्थक्यात्‌ नामसम्भावनायां हरेः स्वत्त्वास्पदीभूतं तुलसीदलमपि नगृह्णीयात्‌। न स्वीकुर्यान्न स्पृशेदपीत्यर्थः।
@@ -8682,8 +8285,6 @@ CHAPTER XI
 
 वामनासेरितं वायुंज्वलितेनापि वह्निना।  
 संशोष्य देहंसंदह्य सपापं दक्षया ततः॥
-
-
 
 रेचयेत्‌ तु बधूबीजं पीताभं वायुरूपिणम्‌।  
 हृदि ध्यायन्‌ पठन्‌ दक्षनासया पूरितानिलैः॥
@@ -8738,8 +8339,6 @@ CHAPTER XI
 
 एवं समस्तदेहादिप्रपञ्चं परमात्मनि।
 
-
-
 प्रविलाप्य परब्रह्मरूपे तिष्ठेत्‌ कियत्‌ क्षणम्‌॥
 
 ततः पुरुषनिभं पापमनादिभवसञ्चितम्‌।  
@@ -8793,8 +8392,6 @@ CHAPTER XI
 ध्यात्वा तां हंसमन्त्रेण प्रणवेनाऽथवा पुनः।  
 कूर्चबीजेन वा देवि दृढंविभावयेद्गुरुः॥
 
-
-
 एकीभावंतयोः कृत्वा जीवात्मपरमात्मनोः।  
 विचिन्त्य शून्यं परमं पार्थिवांशं जलैर्गतम्‌॥
 
@@ -8845,8 +8442,6 @@ CHAPTER XI
 लिङ्गं कार्यहृदिस्थं तु चैतन्यं सर्वसाक्षिणम्‌।  
 प्रणवेन विनिःसार्यब्रह्मरन्ध्राद्बहिर्बुधः॥
 
-
-
 तैनैव संपुटीकृत्य मस्तकोपरि धारयेत्‌।  
 चैतन्यरहितं देहं बाह्यमभ्यन्तरं तथा॥
 
@@ -8895,8 +8490,6 @@ CHAPTER XI
 **वशिष्ठसंहितायाम्‌—**
 
 सोहं मन्त्रेण तामाद्यां नादान्ते सिद्धभाविताम्‌।
-
-
 
 ध्यात्वैवं ब्रह्मरन्ध्रात्‌ तु हृदि जीवकलां न्यसेत्‌॥
 
@@ -8952,8 +8545,6 @@ CHAPTER XI
 
 ततो विचिन्तयेद् देवीं जीवभूतां जगन्मयीम्‌।
 
-
-
 रक्ताब्धिपोतारुणमध्यसंस्थां पाशाङ्कुशाविक्षुशरासबाणान्‌।  
 शूलंकपालंदधतीं कराब्जै रक्तां त्रिनेत्रां प्रणमामि देवीम्‌॥
 
@@ -9005,8 +8596,6 @@ CHAPTER XI
 
 पञ्चाशल्लिपिभिर्विभक्तमुखदोःपन्मध्यवक्षस्थलां  
 भास्वन्मौलिनिबद्धचन्द्रशकलामापीनतुङ्गस्तनीम्‌।
-
-
 
 मुद्रामक्षगुणंसुधाढ्यकलशं विद्यांच हस्ताम्बुजै-  
 र्बिभ्राणां विशदप्रमां त्रिनयनां वाग्देवतामाश्रये॥
@@ -9060,8 +8649,6 @@ CHAPTER XI
 
  अन्तर्मातृकान्यासो मनसैव कार्यः। “पुष्पैरनामया वापि मनसा वा न्यसेदमूनि”ति मन्त्रतन्त्रप्रकाशवचनात्‌। अनमया साङ्गुष्ठया।
 
-
-
 अङ्गुष्ठानामिकाभ्यांतु न्यासः सर्वत्र सम्मतः।
 
  इति पद्यवाहिनी(?)वचनात्‌। अत्रैवंव्यवस्था—पुष्पैर्देवतामूर्त्तौ, अनमयास्वदेहे, मनसा मूलाधारादिषु। इदञ्चऋृष्यादिकरषड़ङ्गन्यासबहिर्मातृकादिव्यतिरिक्तेषु, तत्र मुद्रान्तरविधानात्‌। कुलार्णवे—
@@ -9112,8 +8699,6 @@ CHAPTER XI
 
 पञ्चाशद्वर्णविन्यासः क्रमादुक्तो मनीषिभिः।  
 सविसर्गःसोभयश्च रहस्यं तत्‌ तु कथ्यते॥
-
-
 
 वित्तप्रदो बिन्दुयुतो विद्यादौ बिन्दुवर्जितः।  
 पुत्रप्रदः सविसर्गःसोभयो भक्तिदायकः॥
@@ -9172,8 +8757,6 @@ CHAPTER XI
 सिन्दूरकान्तिममिताभरणां त्रिनेत्रां विद्याक्षसूत्रमृगपोतवरान्‌ दधानाम्‌।  
 पार्श्वस्थितां भगवतीमपि काञ्चनाङ्गींध्यायेत्कराब्जधृतपुस्तकवर्णमालाम्‌॥
 
-
-
 **अथ मातृकान्यासमुदाः**
 
 **तन्त्रान्तरे—**
@@ -9222,8 +8805,6 @@ CHAPTER XI
 ताराषोढ़ां प्रवक्ष्यामि सर्वतन्त्रेषु गोपिताम्‌।  
 सर्वविघ्नोपशमनोसर्वपापप्रणाशिनीम्‌॥
 
-
-
 महादारिद्र्यशमनीं सर्वसम्पत्प्रदायिनीम्‌।  
 सर्वकामप्रदां नित्यां सर्वसाम्राज्यदायिनीम्‌॥
 
@@ -9270,8 +8851,6 @@ CHAPTER XI
 भुजङ्गेश-पिनाकीश-खङ्गीशाख्यवकास्तथा।  
 श्वेतभृग्वीशनकुलिशिवाः संवर्त्तकस्तथा॥
 
-
-
 एतेरुद्राः स्मृतारक्ता धृतशूलकपालकाः। इति।
 
  बिन्दुयुक्तैरित्यादि। तेन ह्रींत्रीं हूं अं श्रीकण्ठेशाय नमः। ह्रीं त्रींहूं आंअनन्तेशाय नमः इत्यादयःप्रयोगाः। केचित्‌ तु पूर्णोदर्यादिशक्तिसहितानेतान्‌न्यसन्ति। शक्तयश्च शारदायाम्‌—
@@ -9315,8 +8894,6 @@ CHAPTER XI
 
 टवर्गेण कण्ठकुपे पीतवर्णं बृहस्पतिम्‌।  
 गलदेशे तवर्गेण पाण्डरं भार्गवं न्यसेत्‌॥
-
-
 
 नाभिदेशे पवर्गेण नीलवर्णं शनिं न्यसेत्‌।  
 शवर्गेण धूम्रवर्णंराहुं वक्त्रेन्यसेत्‌ ततः॥
@@ -9364,8 +8941,6 @@ CHAPTER XI
 
 तारा चोग्रामहोग्रा च वज्रा कालीसरस्वती।  
 कामेश्वरी च चामुण्डा इत्यष्टौ तारिणी मताः॥
-
-
 
 सर्वत्रादौत्र्यक्षरीं तु समुच्चार्य क्रमेण तु।  
 स्वरयुग्मेन वर्गेण भूषितेन च बिन्दुना॥
@@ -9415,8 +8990,6 @@ CHAPTER XI
 
 **इति नीलतन्त्रोक्तताराषोढ़ान्यासः।**
 
-
-
 **अथ रुद्रयामलोक्तताराषोढ़ान्यासः**
 
 **रुद्रयामले—**
@@ -9460,8 +9033,6 @@ CHAPTER XI
 
  तत्र सम्प्रदायानुसारी प्रयोगः।अं कं आकाशतत्वात्मिकायै रोहिणीरुपायैनमः शिरसि। आं खं वायुतत्त्वात्मिकायैमृगशिररूपायैनमो मुखे। इंगं तेजस्तत्त्वात्मिकायैआर्द्रारूपायैनमो हृदि। ईं घं जलतत्त्वात्मिकायै पुनर्वसुरूपायै नमो
 
-
-
 गुह्य। उं ऊं पृथिवीतत्त्वात्मिकायैपुष्यरुपायैनमः पादयोः। ऊं चं घ्राणतत्त्वात्मिकायै अश्लेषारुपायैनमो नसोः। ऋं छं रसनातत्त्वात्मिकायैमघारूपायैनमो जिह्वायाम्‌। ऋृं जं चक्षुस्तत्त्वात्मिकायै पूर्वफल्गुनीरूपायैनमश्चक्षुषोः। लृंझं त्वक्‌तत्त्वात्मिकायैउत्तरफल्गुनीरूपायैनमः सर्वाङ्गे। लृृंञं श्रोत्रतत्त्वात्मिकायैहस्तारुपायैनमः श्रोत्रयोः। एं टं गन्धतत्त्वात्मिकायैचित्रारूपायैनमो नसोः। ऐं ठं रसतत्त्वात्मिकायैस्वातीरूपायै नमो जिह्वायाम्‌। ओं डं रूपतत्त्वास्मिकायै विशाखारूपायैनमश्चक्षुषोः। औंढंरसतत्त्वात्मिकायै स्वातीरूपायै नमः सर्वाङ्गे। अं णं शब्दतत्त्वात्मिकायैज्येष्ठारूपायैनमः श्रोत्रयोः। अः तं उपस्थतत्त्वात्मिकायै मूलारूपायैनमो लिङ्गे। अं थं पायुतत्त्वात्मिकायैपूर्वाषाढ़रूपायै नमो गुह्ये। आं दं पादतत्त्वात्मिकायैउत्तराषाढ़ारूपायैनमः पादयोः। इं धं पाणितत्त्वात्मिकायै श्रवणारूपायै नमो हस्तयोः। ईं नं वाक्‌तत्त्वात्मिकायै धनिष्ठारूपायै नमो मुखे। उं पं आनन्दतत्त्वात्मिकायैशतभिषारूपायैनमो लिङ्गे। ऊं फं विसर्गतत्त्वात्मिकायै पूर्वभाद्रपदरूपायैनमो गुह्ये। ऋं बं गतितत्त्वात्मिकायै उन्तरभाद्ररूपायै नमः पादयोः। ऋंभं आदानतत्त्वात्मिकायैरेवतीरूपायैनमो हस्तयोः। लृं मं वचनतत्त्वात्मिकायै अश्विनीरूपायैनमो मुखे। लृृंएं ऐंॐ यं रं लं वं अधस्तत्त्वात्मिकायैभरणीरूपायै नमो नाभ्यादिपादपर्यन्तं न्यसेत्‌। औं अं अः शं षं सं हं लंक्षं ऊर्ध्वतत्त्वात्मिकायै कृत्तिकारूपायैनमो नाभ्यादि-मस्तकपर्यन्तं न्यसेत्‌।
 
 **इति तारकान्यासः**
@@ -9494,8 +9065,6 @@ CHAPTER XI
 ऋष्यादीन्‌ विन्यसेद्‌ देवि चतुर्थीहृदयान्तकान्‌।
 
 चतुर्थी विभक्तिः। हृदयं नमः।
-
-
 
 **सारसंग्रहे— **
 
@@ -9550,8 +9119,6 @@ CHAPTER XI
 मध्यमातर्जनीभ्यां स्यादङ्गमुद्राः स्मृता अपि।
 
 मध्यमातर्जनीभ्यामुध्वोर्ध्वक्रमेण तालत्रयं कुर्यादित्यर्थः।
-
-
 
 **स्वतन्त्रे— **
 
@@ -9612,8 +9179,6 @@ CHAPTER XI
 स्फाटिकादौ स्थिररेखारूपमपि यन्त्रं प्रशस्तम्‌। अत एव सारसंग्रहे—
 
 ताम्रे द्वादशकंवर्षं स्फाटिकादौतु सर्वदा।
-
-
 
 तेषां मध्ये स्फाटिकंतु सर्वसिद्धिप्रदं भवेत्॥
 
@@ -9682,8 +9247,6 @@ CHAPTER XI
 सयोनि गोमयेनाष्टपत्रमब्जं सुशोभनम्‌ ।  
 भूपुरं वसुवज्राढ्यं यन्त्रमेकजटात्मकमिति ॥
 
-
-
  भूपुरमप्यधिकमुक्तम्‌। एवं च षट्कोणत्रिकोणयोर्विकल्पः। समुच्चय एवेति वीरचुड़ामणिमतं वक्ष्यते।
 
 **नीलतन्त्रे—**
@@ -9741,8 +9304,6 @@ CHAPTER XI
 
 योगिनीमूलमन्त्रेण तत्र पुष्पाञ्जलिं क्षिपेत्‌।
 
-
-
 अशून्यंकुसुमैः कुर्याच्छून्यं विघ्नं विनिर्दिशेत्‌॥
 
 योगिनीमूलमन्त्रो यथा—भेरवतन्त्रे—
@@ -9780,8 +9341,6 @@ CHAPTER XI
 नानालङ्कारभूषाढ्यंमुनिदेवैश्च भूषितम्‌।  
 शिवाभिर्बहुमांसास्थिमोदमानाभिरन्ततः।  
 चतुर्दिक्षु शवान् मुण्डान्‌ चिताङ्गारास्थिविभूषितान्‌॥
-
-
 
 केशरेषु पीठशक्तयः पूज्याः। **ताश्च सिद्धसारस्वते—**
 
@@ -9842,8 +9401,6 @@ CHAPTER XI
 पूजाद्रव्याणिसंप्रोक्ष्य मूलास्त्राद्भिर्विधानतः।  
 दर्शयेद्‌ धेनुमुद्रांच द्रव्यशुद्धिः प्रकीर्त्तिता॥
 
-
-
 **अथ विशेषशुद्धिः**
 
 **कुलार्णवे— **
@@ -9880,8 +9437,6 @@ CHAPTER XI
 देव्याः प्रीतिकरं चैव मध्यमं तदुदाहृतम्॥
 
 क्षुद्राणि तानि सर्वाणि अधमान्याहुरुत्तमाः।
-
-
 
 **तथा—**
 
@@ -9947,8 +9502,6 @@ CHAPTER XI
 यदि विप्रो भवेत्‌ त्रस्तः कुरपूजापरायणः।  
 तदानेन विधानेन कुर्यात्‌ कूलसमुद्भवम्‌॥
 
-
-
 अपरापुष्पगर्भेतु कुलस्थानं मनोहरम्‌।  
 हयारिकुसुमे देव स्वयमस्ति सदाशिवः॥
 
@@ -10002,8 +9555,6 @@ CHAPTER XI
 पुष्पैर्देवाः प्रसीदन्तिपुष्पे देवाश्च संस्थिताः।  
 किञ्चातिबहुनोक्तेन पुष्पस्योक्तिर्मतल्लिका॥
 
-
-
 परं ज्योतिः पुष्पगतं पुष्पेणैव प्रसीदति।  
 त्रिवर्गसाधनं पुष्पं पुष्टिश्रीस्वर्गमोक्षदम्‌।  
 पुष्पमूले वसेद्‌ ब्रह्मा पुष्पमध्ये तु केशवः॥
@@ -10053,8 +9604,6 @@ CHAPTER XI
 
 पुष्पं कोकनदं पद्मं जवा बन्धूकमेव च।  
 सर्वेषां पुष्पजातीनां रक्तपुष्पं विशिष्यते॥
-
-
 
 **क्रियासारे—**
 
@@ -10108,8 +9657,6 @@ CHAPTER XI
 निषिद्धं विहितं विष्णोः शिरीषं शुक्लपुण्ड्रकम्‌॥
 
 नरसिंहस्य पूजायां निषिद्धं केतकीद्वयम्।
-
-
 
 शिरीषबन्धूकविभीतकानां मदन्तिकाकेतकिपुण्ड्रकाणाम्‌।  
 करञ्जसर्जेन्द्रमहीरुहाणां कुन्दस्यपुष्पाणि शिवे प्रशस्तम्‌॥
@@ -10169,8 +9716,6 @@ CHAPTER XI
 पूजयेत्‌ परमेशानि पुष्पाभावात्‌ तु पत्रकैः।  
 पत्राणामप्यलाभे तु द्रुमगुल्मोद्भवादिभिः।  
 तद्भुवामप्यलाभे तु तत्फलेन प्रपूजयेत्‌।
-
-
 
 अक्षतैर्वाजलैर्वापि तदभावे तु सर्षपैः॥  
 सितैस्तेषामप्यलाभे मानसं पूजनं चरेत्‌।
@@ -10233,8 +9778,6 @@ CHAPTER XI
 
 योनिद्वयं समालिख्य तदुन्तर्ब्रह्मरन्ध्रकम्‌।
 
-
-
 वृत्तेनवेष्टयित्वा तु चतुरस्रेण वेष्टयेत्‌॥
 
 अर्घ्योदकेन संप्रोक्ष्य तत्र संस्थाप्य यन्त्रिकम्‌।  
@@ -10277,8 +9820,6 @@ CHAPTER XI
 अमृतां प्रजपेन्मन्त्री सप्तधा कूर्ममुद्रया॥
 
 अमृतं च ततो नीत्वा कर्पूराद्येन वासयेत्‌।
-
-
 
 किञ्चिदुत्थाप्यान्यपात्रेण निःक्षिप्य ज्वलनं क्षिपेत्‌॥
 
@@ -10323,8 +9864,6 @@ CHAPTER XI
 द्वादशधा जपेन्मन्त्रं शुक्रशापविमुक्तये।
 
   इत्युक्तम्‌। तदनयोः शुक्रशापविमोचनप्रकारयोर्विकल्पः। तुल्यार्थयोः
-
-
 
 समर्थयोः समुच्चयासम्भवात्‌ ततः ॐ वां वींवूं वैंवौंवः ब्रह्मशापविमोचितायै सुधादेव्यै नमः इत्यनेन वा दशवारजप्तेन ब्रह्मशापविमोचनं ह्रींश्रीं क्रां क्रीं क्रूं क्रैं क्रौं क्रःसुरे कृष्णशापंमोचय अमृतंस्रावय स्रावय स्वाहा इत्यनेन द्वादशवारजप्तेनकृष्णशापविमोचनंकुर्यात्‌।
 
@@ -10376,8 +9915,6 @@ CHAPTER XI
 
 एवं ध्यात्वा स्वमन्त्रेण पूजयेत्‌।
 
-
-
 **मन्त्रौचोक्तौतन्त्रे—**
 
 शिवचन्द्रौ मातृकान्तं तथा मलववह्नयः।  
@@ -10420,8 +9957,6 @@ CHAPTER XI
 
   अकथेत्यादित्रिकोणे षोड़शस्वरान्‌ वामपंक्तो ककारादिषोड़शवर्णानधःपंक्तौ थकारादिषोड़शवर्णान्‌ दक्षिणपंक्तौ हलक्षान् मध्ये लिखित्वा पूर्वोक्तविधिना कुण्डलिनीमुत्थाप्य शिवे संयोज्य तद्गलितामृतधारां वहन्नासापुटेन द्रष्यमध्ये
 
-
-
 पतितां ध्यात्वा द्रव्यममृतमयं ध्यायेदित्यर्थः। अतृतामन्त्रः कुलार्णवे उक्तः—
 
 वाग्भवं पावनो भूमिः पुष्टिबिन्दुसमन्विता।  
@@ -10460,8 +9995,6 @@ CHAPTER XI
 **भावचुड़ामणौ—**प्रकारान्तरेण शोधनमुक्तम्‌। **तथाहि—**
 
 घटं च हेतुद्रव्येण पूरयेदित्यनुव्रतौ(?)।
-
-
 
 तत्र यन्त्रं विलिख्यादौ यद्यत्‌ कुलसमुद्भवम्।  
 ध्यात्वेष्टदेवतां तत्र जपेदष्टोत्तरंशतम्‌।  
@@ -10518,8 +10051,6 @@ CHAPTER XI
 
 महाशङ्खंनालिकेरंसौवर्णं राजतं तथा।
 
-
-
 ताम्रंशुक्त्युद्भवं वापि पात्रंतत्र निधापयेत्‌॥
 
  विलसदिति। गन्धर्वगीकारः। ओजापूकादि ओड्यान-जालन्धर-पूर्णगिरिकामरूपाणि तेषां च पूजनं स्वाग्रादिप्रादक्षिण्येन चतुरस्ररेखासु सम्प्रदायात्‌। अङ्गपूजने तन्मन्त्रेषु सर्वान्ते नमस्कार एवयोज्यः न तु जात्यन्तरम्‌। “अङ्गमन्त्रैर्नमोऽन्तकै"रित्यादेरावरणपूजायां तथा दर्शनात्‌। शक्तौ त्रिकोणे। मूलत्रिभेदतः मूलखण्डयेण पूजनम्‌। आधारशक्तिरीकारः। यन्त्रिका आकारः। तत्पूजनं च दशकलात्मकवह्निपूजनमेव। पात्रभेदः कुलार्णवेऽप्युक्तः—
@@ -10564,8 +10095,6 @@ CHAPTER XI
 
 आनन्दभैरवं ध्यात्वा समभ्यर्च्यविधानतः।  
 पूजयेत्‌ पञ्चरत्नानि कुलद्रव्याणि निःक्षिपेत्‌॥
-
-
 
 रचयेत्‌ पूर्ववच्छेषभयमर्घ्यविधिः स्मृतः।
 
@@ -10616,8 +10145,6 @@ CHAPTER XI
 
 क्रोधबीजास्त्रबीजाभ्यामाधारे क्षालितं शुभम्‌।
 
-
-
 महाशङ्खं तथा मन्त्री स्थापयेत्‌ स्त्रीं पठन्‌ ततः॥
 
 शिवां दीर्घत्रयोपेतां कालीब्रह्मारमान्विताम्‌।  
@@ -10644,8 +10171,6 @@ CHAPTER XI
 
 गन्धवुष्पाक्षतान्‌ क्षिप्त्वा त्रिखण्डां दर्शयेत्‌ पुनः।  
 पीयूषरोचिषो मन्त्री मण्डलंतत्र पूजयेत्‌॥
-
-
 
 तारं शक्तिरमेशक्तिमजुस्वारविभूषिताम्‌।  
 मूलंतृतीयं भैरव्याःक्रोधबीजसमुज्ज्वलम्‌॥
@@ -10696,8 +10221,6 @@ CHAPTER XI
 पूर्णापूर्णामृताचेति कथिताः कुलनायिके।  
 सौम्याःकामप्रदायिन्यःषोड़शस्वरजाः कलाः॥
 
-
-
   यादिवर्णेत्थेति। बिन्दुयुतान्‌ यादिदशवर्णान्‌ पूर्वंदत्त्वा अग्निकलाः। कादिठान्तान्‌ भादिडान्तान्‌ प्रतिलोमवर्णांश्च बिन्दुयुक्तानादौ दत्त्वासूर्यकलाः। अकारादिषोड़शस्वरान्‌-बिन्दुयुतान्‌ आदौ दत्त्वा चन्द्रकलाश्चपूज्या इत्यर्थः।
 
 **तथा (मेरुतन्त्रे)— **
@@ -10745,8 +10268,6 @@ CHAPTER XI
 **स्थापनक्रमश्चोक्तस्तन्त्रे—**
 
 श्रीपात्रघटयोर्मध्ये सर्वपात्राणि स्थापयेत्‌।
-
-
 
 गुरुपात्रं घटस्यान्ते तदन्ते भोगपात्रकम्॥
 
@@ -10796,8 +10317,6 @@ CHAPTER XI
 जातीकर्पूरकक्कोल-बहुमूलतमालकान्॥
 
 चूर्णयित्वा यथान्यायं क्षिपेदाचमनीयके।
-
-
 
 माक्षिकं शर्करा सर्पिर्दधिक्षीरयुतं तथा॥
 
@@ -10854,8 +10373,6 @@ CHAPTER XI
 
 सुखानन्दः परानन्दः पारिजातः कुलेश्वरः।
 
-
-
 विरूपाक्षः केरवी च कथितं तारिणीकुलम्॥
 
 आनन्दनाथशब्दान्ता गुरवः सर्वसिद्धिदाः।  
@@ -10897,8 +10414,6 @@ CHAPTER XI
 
 —————————————————————————————————————  
 **\*** तान्त्रिकप्रयोगोऽयम्‌। बहुषु ग्रन्थेषु तथैव दर्शनात्‌।
-
-
 
 शुध्यन्तामित्यादि। ॐ वायुतेजःसलिलभूम्यात्मानो मे शुध्यन्तामित्यादि सप्तमन्त्रान्‌ परामृशन्‌ हस्ताभ्यां सप्तधा सर्वाङ्गेस्पृशेदिति तत्त्वशुद्धिः।
 
@@ -10950,8 +10465,6 @@ CHAPTER XI
 
 ज्वालामुखंच सर्वान्ते विघ्नान् नाशय नाशय।
 
-
-
 सर्वोपचारसहितं बलिं गृह्ण द्विधा पदम्‌॥
 
 वह्निजायान्वितो मन्त्रो वटुकस्य समीरितः।  
@@ -11000,8 +10513,6 @@ CHAPTER XI
 समुच्चरन्‌ बलिं दद्यान् मुद्रया तत्त्वसंज्ञया।
 
  इदं च सम्प्रदायानुरोधेनोक्तम्‌। वस्तुतः पुरश्चरणप्रकरणे वक्ष्यमाणवीरचूड़ामण्युक्तमन्त्रैरेव वटुकादिबलिदानं युक्तम्‌। तस्यैवात्रासाधारणत्वात्।
-
-
 
 **अथावाहनम्**
 
@@ -11057,11 +10568,8 @@ CHAPTER XI
 
 शिवाभिर्बहुमांसास्थि-मोदमानाभिरन्ततः।
 
-
-
 चतुर्दिक्षु शवा मुण्डाश्चिताङ्गारास्थिभूषिताः॥  
 तन्मध्ये भावयेद्‌ देवीं यथोक्तध्यानयोगतः।
-
 
 **नीलतन्त्रे—**
 
@@ -11108,8 +10616,6 @@ CHAPTER XI
 
 धुम्राभनागसंदोह-कृतकेयूरसत्वराम्‌।  
 सुवर्णवर्णनागेन कङ्कणोज्ज्वपाणिकाम्॥
-
-
 
 शुभ्रवर्णमहादेव-कृतसद्विमलासनाम्‌।  
 निर्यन्त्रणभिया तद्वत्संकुवत्प्रपदात्मिकाम्‌॥
@@ -11160,8 +10666,6 @@ CHAPTER XI
 प्रत्यालीढ़पदार्पिताङ्घ्रिशवहृद् घोराट्टहासा वरा  
 खङ्गेन्दीवरकर्त्रीखर्परभुजा हूंकारबीजोद्धवा।
 
-
-
 खर्वा नीलविशालपिङ्गलजटाजूटोग्रनागैर्धृता  
 जाड्यंन्यस्य कपालके त्रिजगतां हन्त्युग्रतारा स्वयम्‌॥
 
@@ -11208,8 +10712,6 @@ CHAPTER XI
 
 महापाटलाभेन नागेन वृत्तां विभूषां च पादद्वयेसंदधानाम्‌।
 
-
-
 चिरं चिन्तयामीदृशं चारुरूपाममेयामदोषामपारां ससाराम्‌॥
 
 सुरश्रेणिमौलिप्रभारञ्जिताङ्घ्रिंनताशेषदोषापहामिष्टदात्रीम्‌।  
@@ -11217,7 +10719,6 @@ CHAPTER XI
 
 सदैवं स्तवं यः पठेदेकचित्तो वशस्तस्य लोको भवेत्‌ तन्न नूनम्‌।  
 न दारिद्र्यपापे न वा दुर्मतिः स्याल्लभेतापि मोक्षं तथा धर्मकामौ॥
-
 
 **अथ प्राणप्रतिष्ठा**
 
@@ -11227,7 +10728,6 @@ CHAPTER XI
 सन्निरोधनमित्युक्तं सम्मुखीकरणं तथा॥
 
 विधाय स्वस्वमुद्राभिः प्राणस्थापनमाचरेत्‌।
-
 
 **आसां लक्षणमुक्तं लक्षणसंग्रहे—**
 
@@ -11259,15 +10759,12 @@ CHAPTER XI
 अत एवाभिपूर्णाया दैवतायाः प्रपूजने।  
 सादरं सम्मुखीभावमावाहनमिहोच्यते॥
 
-
 अत एव आवाहनमुद्राप्रदर्शनादेव।
 
 **तथा—**
 
 विभोर्निवेशनं यन्त्रे स्थापनं कथितं बुधैः।  
 पूजां प्रयुज्यमानां तु गृहीत्वाऽनुग्रहादिकम्॥
-
-
 
 कर्त्तुं सामर्थ्यमस्यास्तु तत्‌ सान्निध्यं प्रचक्षते।  
 आकर्मकाण्डपर्यन्तंसान्निध्यं हि विभोश्च यत्‌॥
@@ -11319,8 +10816,6 @@ CHAPTER XI
 
 परिवर्त्यकरौकृत्वा कनिष्ठाकृष्टमध्यमाम्‌।  
 अनामयोर्युगं चाधस्तर्जनीयुगलं पृथक्।
-
-
 
 अन्योन्यं निविड़ंबद्ध्वा अङ्गुष्ठाग्रेऽनामिके।  
 दैत्यानां धूमकेत्वाख्या मुद्रैषा कथिता प्रिये॥
@@ -11382,8 +10877,6 @@ CHAPTER XI
 **प्रपञ्चसारे—**
 
 सपर्या त्रिविधा प्रोक्ता तासामेकतमं श्रयेत्‌।
-
-
 
 त्रिविधा षोड़श-द्श-पञ्चोपचारभेदात्‌॥
 
@@ -11451,8 +10944,6 @@ CHAPTER XI
 माक्षिकं शर्करा सर्पिर्दधि क्षीरयुतं तथा।  
 मधुपर्कं कल्पयित्वा प्रदद्याद्विधिपूर्वकम्‌॥
 
-
-
 सर्वतः क्षौद्रमधिकं दधिसर्पिःसिताः समम्‌।  
 क्षीरं तु सर्वतः स्वल्पं मधुपर्क उदाहृतः॥
 
@@ -11510,8 +11001,6 @@ CHAPTER XI
 **ज्ञानार्णवे—**
 
 पुष्पैःपर्युषितैर्देवि नार्चयेत्‌ स्वर्णजैरपि।
-
-
 
 निर्माल्यभूतैरुच्छिष्टैःकुसुमैः परमेश्वरि॥
 
@@ -11573,8 +11062,6 @@ CHAPTER XI
 
 धूपभाजनमस्त्रेण प्रोक्ष्याऽभ्यर्च्य हृदाणुना।
 
-
-
 अस्त्रेण पूजितां घण्टां वादयन्‌ गुग्गुलुं दहेत्॥
 
 गुग्गुलुपदं विहितधूपद्रव्यमात्रोपलक्षकम्‌।
@@ -11635,8 +11122,6 @@ CHAPTER XI
 
  पारावतभ्रमाकारंदीपं नेत्रादि दर्शयेत्‌।
 
-
-
 दक्षिणे सर्पिषा दीपं तिलतैलेन वामतः॥
 
 सितावर्त्तिर्दक्षिणतोरक्तावर्त्तिस्तु वामतः।
@@ -11693,8 +11178,6 @@ CHAPTER XI
 
 पक्षिमांसं वरारोहे डिम्बं नानासमुद्भवम्‌।
 
-
-
 कृष्णछागं महामांसं गोधिकां हरिणीं तथा।  
 जलजे मत्स्यमांसे च गण्डकीमांसमेव च।  
 नानाव्यञ्जनदुग्धानि व्यञ्जनानि बहूनि च॥
@@ -11748,8 +11231,6 @@ CHAPTER XI
 अशक्तौ मनसा दद्यादेतत्कर्म न लोपयेत्‌॥
 
 वुल्लुकं विधिवद् दद्यात्पञ्चमुद्रां प्रदर्शयेत्।
-
-
 
 पुनश्च चुल्लुकंदद्याद्दत्त्वा ताम्बूलमुत्तमम्‌॥
 
@@ -11811,8 +11292,6 @@ CHAPTER XI
 
 मन्त्रास्तु ॐ प्राणाय स्वाहेत्यादयः।** तदुक्तंचन्द्रिकायाम्‌—**
 
-
-
 प्राणापानसमानोदानव्यानास्तारपूर्वकाः।  
 चतुर्थ्यग्निवधूयुक्ताः प्राणमन्त्राः स्मृता अमी॥
 
@@ -11864,8 +11343,6 @@ CHAPTER XI
 दद्याच्च विमलंगन्धं मूलमन्त्रेण साधकः॥
 
 अङ्गुष्ठतर्जनीभ्यां तु यन्त्रे पुष्पं निवेदयेत्‌।
-
-
 
 **तथा—**
 
@@ -11935,8 +11412,6 @@ CHAPTER XI
 
 आवाहा पूजयेत्‌ तस्यामङ्गमावरणैः सह।
 
-
-
 बिन्दुमध्ये महेशानि त्रिशक्तिं च प्रपूजयेत्‌॥
 
 रतिं प्रीतिं प्रियां कान्तिं पुष्पबाणधनुर्धरम्‌।  
@@ -11994,8 +11469,6 @@ CHAPTER XI
 
 चतुरस्रेलोकपालान् तदस्त्राणि च तद्बहिः।
 
-
-
 **त्रिकोणे मत्स्यसूक्ते तु विशेषः—**
 
 कामेश्वर्यादिकाःपूज्यस्त्रिकोणे वह्निमण्डले।  
@@ -12030,8 +11503,6 @@ CHAPTER XI
 
 ईशानकोणं देवेशि तदाग्नेयं न संशयः।  
 पश्चिमाभिमुखो मन्त्री यदा चक्रं समुद्धरेत्‌॥
-
-
 
 पश्चिमाशा तदा ज्ञेया पूर्वशैव न संशयः।  
 वायुकोणं तदाऽऽग्नेयमीशानं राक्षसं भवेत्॥
@@ -12075,8 +11546,6 @@ CHAPTER XI
 
 पद्मनाभंदन्तिवक्त्रं पुस्तकंवरदाभयम्‌।  
 पाशं च विधृतं देवं त्रिनेत्रं वरदं शुभम्‌॥
-
-
 
 श्वेतां त्रिनेत्रां वरदां पुस्तकामयधारिणीम्‌।  
 मामकां वलयदेवेन संयुक्तेन विभाषिताम्‌॥
@@ -12124,8 +11593,6 @@ CHAPTER XI
 
 ** केचित्‌ तु—**कालीप्रकरणोक्त-ब्राह्मी-नारायणीत्याद्यष्टकमेवात्र पृज्यं “यथा काली तथा तारे”त्युक्तेरिति वदन्ति। तासां च ध्यानं तत्रैव वक्ष्यते।
 
-
-
 **अथेन्द्रादिध्यानम्‌**
 
 **तूर्णायागे—**
@@ -12171,8 +11638,6 @@ CHAPTER XI
 
 पाणिमूले सुसंलग्ने शाखाः सर्वाःप्रसारिताः।  
 लोकेशानामियं मुद्रा तेषामर्चासु दर्शयेत्‌॥
-
-
 
 **तूर्णायागे—**
 
@@ -12235,8 +11700,6 @@ CHAPTER XI
 
 अक्षोभ्यस्य मनुं त्यक्त्वा देवीं तारां जपेद्यदि।
 
-
-
 सिद्धिहानिर्भवेत्‌ तस्य रौरवं नरकं व्रजेत्‌॥
 
 **तथा—**
@@ -12283,8 +11746,6 @@ CHAPTER XI
 मणिपुरे सदा अव्यात्‌ शिवस्य गृहिणी च मे॥
 
 अनाहताम्बुजं मेऽव्यादिन्द्रादिदशदेवता।
-
-
 
 विशुद्धचक्रे सततं रक्षां करोतु मे रविः॥
 
@@ -12344,8 +11805,6 @@ CHAPTER XI
 
 अशुद्धा तु भवेदत्रसा माला निष्फला भवेत्‌।
 
-
-
 चित्रिणी विशतन्त्वाभा ब्रह्मनाड़ीगता तु या॥
 
 तया संग्रथिता ध्येया सर्वकामफलप्रदा।  
@@ -12397,8 +11856,6 @@ CHAPTER XI
 
 पञ्चाशद्भिःकर्मसिद्धिःस्यात्‌ तथा चतरुत्तरैः।  
 सप्तविंशतिभिश्चाक्षैःसर्वसाधारणो जपः॥
-
-
 
 **मन्त्रतन्त्रप्रकाशे—**
 
@@ -12461,8 +11918,6 @@ CHAPTER XI
 नोल्लङ्घ्येच्च गणनां किञ्चित्‌ संकोचयेत्‌ तलम्‌।  
 नित्यं जपं करे कुर्यान्‌ न तु काम्यं कदाचन॥
 
-
-
 काम्यमपि करे कुर्याद्यदि माला न विद्यते।
 
 न विद्यत इति। न विहिताऽस्तीत्यर्थः।** **
@@ -12514,8 +11969,6 @@ CHAPTER XI
 सौभाग्यं स्फारिकी माला मौक्तिकैर्विहिता श्रियम्‌॥
 
 निर्मिता शङ्खमणिभिः कुरुते कीर्त्तिमव्ययाम्‌।
-
-
 
 सर्वैरेभिर्विरचिता माला स्यान्‌ मुक्तये नृृणाम्‌॥
 
@@ -12576,8 +12029,6 @@ CHAPTER XI
 
 त्रयोदश्यांतथा कुर्याच्छिवस्याऽपि सुरेश्वरि।
 
-
-
 **अथ मालासंस्कारः**
 
 **योगिनीतन्त्रे—**
@@ -12632,8 +12083,6 @@ CHAPTER XI
 
 आदौ पूर्वदिनेशक्तिव्यतिरिक्तपरमिति ज्ञेयम्‌।
 
-
-
 अश्वत्थपत्रेर्नवकैःपद्माकारेण कल्पिते।  
 सूत्रे मणींश्च गन्धाद्भिःक्षालितांस्तत्र निःक्षिपेत्‌॥
 
@@ -12659,7 +12108,6 @@ CHAPTER XI
 
 तन्मध्ये स्थापयेन्‌ मारां मातृकां मूलमुच्चरन्।  
 क्षालयेत्‌ पञ्चगव्येन सद्योजातेन सज्जलैः॥  
-
 
 **तन्त्रे—**
 
@@ -12695,8 +12143,6 @@ CHAPTER XI
 
 एको मेरस्तत्र देयः सर्वेभ्यः स्थूलसम्भवः।  
 विन्यसेत्‌ क्रमवस्तस्मात्‌ सर्पाकारा च सा यतः॥
-
-
 
 ब्रह्मग्रन्थियुतं कुर्यात्‌ प्रतिबीजं यथाविधि।  
 अथवा ग्रन्थिरहितंदृढ़रज्जुसमन्वितम्‌॥
@@ -12746,8 +12192,6 @@ CHAPTER XI
 क्षालयेत्‌ पञ्चगव्येन सद्योजातेन सज्जलैः।
 
  इति वचनात्‌। वर्षयेच्चन्दनागुरुगन्धाद्यैरिति। लेपयेच्चन्दनसौगन्धिकस्तूरी-
-
-
 
 कुङ्कुमादिभिरिति। मुद्राष्टकमावाहन्यादिकम्‌। अनन्तरं पूजाभिधानात्‌। अन्यमण्यादिष्वप्ययं संस्कार इति वदन्ति।
 
@@ -12799,8 +12243,6 @@ CHAPTER XI
 
 शिल्पिनं पूजयेदादौ वस्त्रगन्धानुलेपनैः।  
 संहृष्टः कारयेन्‌मालां विशुद्धां वर्णरूपिणीम्॥
-
-
 
 यथायोग्यं वेधवतीं मालां कुर्याद्विचक्षणः।
 
@@ -12855,8 +12297,6 @@ CHAPTER XI
 
 हृदयेन नम इति मन्त्रेण। **रुद्रयामले—**
 
-
-
 नाक्षतैर्हस्तपर्वैर्वान धान्यैर्नच पुष्पकैः।  
 न चन्दनैर्मृत्तिकया जपसंख्यां तु कारयेत्‌॥
 
@@ -12893,8 +12333,6 @@ CHAPTER XI
 **शैवागमे—**
 
 अष्टोत्तरसहस्रंतु तदर्धं त्रिशतं तु वा।
-
-
 
 अष्टोत्तरशतं वापि जपेन्‌ नित्यमतन्द्रितः॥
 
@@ -12942,8 +12380,6 @@ CHAPTER XI
 
 आद्योऽप्युपांशुरुच्चैश्च द्विविधः परिकीर्त्तितः।  
 द्वितीयोऽथ द्विधा ज्ञेयो जिह्वाचित्तप्रभेदतः॥
-
-
 
 मन्त्रमुच्चारयेद्‌ वाचा स उक्तो वाचिको जपः।  
 शन्नैरुच्चारयेन्‌ मन्त्रमीषदोष्ठौप्रचालयेत्‌॥
@@ -12996,8 +12432,6 @@ CHAPTER XI
 भोगश्लोकंपरित्वा च दक्षहस्तेन शम्भवे।  
 मूलमन्त्रार्घ्यतोयेन वरहस्ते समर्पयेत्‌॥
 
-
-
  शम्भवे इत्युपलक्षणम्‌। या यत्र देवता सा तत्र बोध्या। वरहस्ते प्रधानहस्ते। तेन पुंदेवताया दक्षिणहस्ते स्त्रीदेवताया वामहस्ते समर्पयेदिति। “देवीनां वामहस्ते तु देवानां दक्षिणेऽर्पयेदि"ति यामलवचनात्‌।** **
 
 **शैवागमे—**
@@ -13045,8 +12479,6 @@ CHAPTER XI
 गौरी चम्पकवर्णाच कृशाङ्गी कूलपूजिता।  
 सर्वानन्दस्वरूपा च सर्वसङ्कटतारिणी॥
 
-
-
 नित्या नित्यमयी नन्दाभद्रा नीलसरस्वती।  
 गायत्री सुचरित्रा कौलव्रतपरायणा॥
 
@@ -13091,8 +12523,6 @@ CHAPTER XI
 
 मान्या मानवती धन्या कन्या हिमगिरेस्तथा।  
 अपर्णापद्मपत्राक्षी नागयज्ञोपवीतिनी॥
-
-
 
 महाशङ्खधरा कान्ता कमनीया नगात्मजा।  
 ब्रह्माणी वैष्णवी शम्भोर्जाया गङ्गाजलेश्वरी॥
@@ -13139,8 +12569,6 @@ CHAPTER XI
 शूलिनी शूलहस्ता च मयूरवरवाहना।  
 महामांसरता रक्ता रक्तखर्परधारिणी॥
 
-
-
 रक्ताम्बरधरा रामा रमणी सुरनायिका।  
 परमानन्ददा ज्येष्ठा योगिनीगणसेविता॥
 
@@ -13185,8 +12613,6 @@ CHAPTER XI
 
 चन्द्रानना महोग्रा च चारुमूर्धजशोभिता।  
 मनोज्ञा माधवी मान्या माननीया महद्गुणा॥
-
-
 
 ज्येष्ठा मघा च पुष्या च धनिष्ठा पूर्वफाल्गुनी।  
 रक्तबीजादिहन्त्री रक्तबीजविनाशिनी॥
@@ -13233,8 +12659,6 @@ CHAPTER XI
 या विद्या सुन्दरी नीतिसुन्दरी गुणसुन्दरी।  
 मल्लिकाहाररसिका मल्लिकाहारशोभिता॥
 
-
-
 नव चम्पकवर्णाभा नागकेशरशोभिता।  
 जवाकुसुमसङ्काशाजवाकुसुमशोभिता॥
 
@@ -13279,8 +12703,6 @@ CHAPTER XI
 
 सर्वचक्रेश्वरी सर्वासर्वमन्त्रमयी सदा।  
 सहस्रनयनप्राणा सहस्रननयनप्रिया॥
-
-
 
 सहस्रशीर्षा सुसमा सदम्भासर्वभक्षिका।  
 षष्टिका षट्सुचक्रस्था षड्वर्गफलदायिनी॥
@@ -13327,8 +12749,6 @@ CHAPTER XI
 छकारवर्णनिलया छकाराद्या छलप्रिया।  
 छद्मिनी छद्मनिरता छद्माछद्मनिवासिनी॥
 
-
-
 जगन्नाथप्रिया जीवा जगन्नाथरता जरा।  
 जीर्णा जीमूतवनिता जीमूतैरुपशोभिता॥
 
@@ -13373,8 +12793,6 @@ CHAPTER XI
 
 दीर्घनेत्रा दीर्घकचा दीर्घनासा च दीर्घिका।  
 दारिद्र्यदुःखशमनी दुष्टासुरनिषूदिनी॥
-
-
 
 दम्भिका दम्भहा दम्भा दनुजेन्द्रविनाशिनी।  
 धनधान्यप्रदाधन्या धनेश्वरवरप्रदा॥
@@ -13421,8 +12839,6 @@ CHAPTER XI
 पुष्पप्रिया पुष्परता पौष्पीपानपरायणा।  
 पुष्पप्रीता च पुष्पेज्या पुष्पदामविभूषणा॥
 
-
-
 पुण्यदा पूर्णिमा पुण्या पुण्यकोटिफलप्रदा।  
 पुराणागमवेद्या च पुराणागमगोपिता॥
 
@@ -13467,8 +12883,6 @@ CHAPTER XI
 
 यमराजस्वसा योगमार्गानन्दप्रवर्धिनी।  
 यादवान्दकरिणी यादवानन्दवर्धिनी॥
-
-
 
 यज्ञप्रीता यज्ञमयी यज्ञकर्मविभूषणा।  
 रामप्रिया रामरता रामतोषणतत्परा॥
@@ -13515,8 +12929,6 @@ CHAPTER XI
 सिन्दूरकरवीराद्यैः पुष्पैर्लोहितकैःशुभाम्।  
 योऽर्चयेद् भक्तिभावेन तस्याऽसाध्यं न किञ्चन॥
 
-
-
 वातस्तम्भं जलस्तम्मं गतिस्तम्भं विवस्वतः।  
 वह्नेःशैत्यं करोत्येष स्तवस्यास्य च कीर्त्तनात्॥
 
@@ -13561,8 +12973,6 @@ CHAPTER XI
 
 अपूप-पिष्ट-संयुक्तैर्नैवेद्यैश्चयथोचितैः।  
 निवेदितं च यद्द्रव्यं भोक्तव्यंचावधानतः॥
-
-
 
 न चेत्‌ तद्भुज्यते मोहाद्भोक्तुं नृत्यन्ति देवताः।  
 अनेनैव विधानेन योऽर्चयेत्‌ परमेश्वरीम्‌॥
@@ -13614,8 +13024,6 @@ CHAPTER XI
 विधिवद्‌ वह्निमानीय क्रव्यादांशं परित्यजेत्‌।  
 ततश्च मन्त्रमुच्चार्यकुण्डे वा स्थण्डिलेऽपि वा॥
 
-
-
 भूमौ वा संस्तरेद्वह्निं व्याहृतित्रितयेन तु।  
 आहुतित्रयमुत्क्षिप्यषड़ङ्गहवनं ततः॥
 
@@ -13664,8 +13072,6 @@ CHAPTER XI
 **रत्नेश्वरीविद्यापि तत्रैवोक्ता—**
 
 श्रीबीजंच पराबीजं संलिखेन्‌ मनुवित्तमः।
-
-
 
 गसौच मपलाः पश्चादिन्द्रस्थाः क्रमतो लिखेत्॥
 
@@ -13719,8 +13125,6 @@ CHAPTER XI
 साष्टाङ्गश्चाथ पञ्चाङ्गः पूजाकर्मसु सम्मतः।  
 हस्ताभ्यां चरणाभ्यां च जानुम्यां चक्षुषा तथा॥
 
-
-
 मूर्ध्नादृष्ट्यातथा वाचा चित्तेनाऽष्टाङ्गईरितः।  
 हस्त-जानु-शिरो-वाक्य-धीभिः पश्चाङ्ग ईरितः॥
 
@@ -13764,8 +13168,6 @@ CHAPTER XI
 प्रवेश्य द्वादशान्तस्थ-सहस्रारसरोरुहे।  
 व्रिश्रम्य मध्यनाड्यां तामानीय हृदयाम्बुजे॥
 
-
-
 संस्थाप्य सम्यक्‌ सम्पूज्य स्वात्मानं तन्मयं स्मरेत्‌।
 
 **संहारमुद्रायथा—**
@@ -13796,11 +13198,9 @@ CHAPTER XI
 
 **—————————————————————————————————————**
 
-
 **दैवाल्लुब्धमातृकान्तरात्‌ संगृहोतोऽष्टचत्वारिंशदधिकशततमपत्रेऽमुद्रितांशोऽत्र मुद्र्यते—**
 
   ब्राह्मणस्य सदानिषेधः। क्षत्रियस्य संग्रामकाले विकलस्य संग्रामासम्भवात्‌। वैश्यस्य धनप्रयोगकाले अन्यथा विकलतया विंशतिदाने कर्तव्ये शतादिदानापत्तेः। “शूद्रैर्नैव कदाचन”। सर्वदैव पेयेत्यर्थः। अन्यथा—“सर्वाः शूद्रस्य संप्रोक्ता यत्र वा तद्‌ भुविर्भयेत्‌” इति वचनेन विरोधापत्तेः। एवं “पूजनीया कलौ देवी केवलैरासवै” रित्यत्र “सर्ववर्णै”रित्यन्वेति। सर्ववर्णशब्दश्चब्राह्मणेतरपर इत्यवधातव्यम्‌।
-
 
 **अथ—**
 
@@ -13810,8 +13210,6 @@ CHAPTER XI
  भैरवतन्त्रेण क्षीरादिपदानामासवविशेषे परिभाषणात्‌ ब्राह्मणस्यापि तत्राधिकारः प्रतीयत इति चेत्‌। अत्र प्रतिभाति— क्षीरादिना कथं मैरेयफलमित्यत्रेदं वचनम्‌। तेन क्षीरवृक्षसमुद्भूतंवार्क्षंमैरेयमित्यर्थः। एवमग्नेऽपि। अन्यथा क्षीरवृक्षपदादेर्वैपरीत्येन प्रयोगापत्तेः।
 
  “अनुवाद्यमनुकृत्वा तु न विधेयमुदीरयेत्‌”इति न्यायात्‌ तण्डुलोद्भवमोदनः। तेन
-
-
 
 शूद्रस्यापि ओदनस्थाने आसवमेव। तथाच तेन पृथगोदनं ब्राह्मणादिभिरासवं च न देयमित्यर्थः। लिखितवचनात्‌। "आमं शूद्रस्य पक्वान्नंपक्वमुच्छिष्टमुच्यते” इत्यादिस्मृतेश्चेति। न च शुक्रशापस्य ब्राह्मणविषयत्वेन सुरायां तदुद्धारविधानानुपपत्तिरिति वाच्यम्‌। शूद्रमात्रस्य तदधिकारे शास्त्रसिद्धे शुक्रशापोद्धारविधानस्यादृष्टार्थत्वात्‌। किं च “ऐन्द्र्यागार्हपत्यमुपतिष्ठत" इत्यादौ लिङ्गापेक्षया श्रुतेरिव शापमोचनविधानकल्प्यमैरेयदानविधानापेक्षया “ब्राह्मणो मदिरां दत्त्वे"त्यादिनिषेधविधेः श्रौतस्य बलवत्त्वंयुक्तिसाम्यादिति। एवं च वास्तुयागादौ सुराप्राकारक(?)मन्त्रस्यापि पाठोऽदृष्टार्थं एव। वज्रपुष्पाभावेऽपि “वज्रपुष्पं प्रतीच्छ स्वाहे”त्यादिमन्त्रवदिति। ब्राह्मणेतरवर्णानामासवालाभे विजयोपादानमप्युक्तंविजयाकल्पे—
 
@@ -13847,8 +13245,6 @@ CHAPTER XI
 सव मेऽथ ततो ब्रूयात्‌॰॰॰॰॰॰॰॰॰॰॰॰॰।  
 ॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॰॥
 
-
-
 सप्तधा चार्पयेद् ब्रह्मरन्ध्रे मन्त्रं समुच्चरन्‌।  
 गुरुपद्मेसहस्रारे तथा तत्त्वाख्यमुद्रया॥
 
@@ -13883,8 +13279,6 @@ CHAPTER XI
 **कुस्भसम्भवः—**
 
 **————————**
-
-
 
 **षष्ठस्तरङ्गः**
 
@@ -13939,8 +13333,6 @@ CHAPTER XI
 
 पानभेदफलोल्लासप्रमाणस्थितिलक्षणम्‌।
 
-
-
 अविज्ञायाचरेद्यस्तु स भवेदापदांपदम्॥
 
 **पानभेदस्तत्रैव—**
@@ -13994,8 +13386,6 @@ CHAPTER XI
 
  मुद्रां शुद्धिम्‌। द्वितीयेनेति सहयोगे तृतीया।
 
-
-
 चर्वणेनविना पानं केवलंविषभक्षणम्‌।
 
  चर्वणंभर्जितचणकादीनाम्‌।
@@ -14046,8 +13436,6 @@ CHAPTER XI
  अत्र ज्येष्ठकनिष्ठता सतीर्थ्यानामुपदेशक्रमेणैव। तथाहि— रुद्रयामले—
 
 बालोऽपि दीक्षितः पूर्वंज्येष्ठः सुत कुलागमे।
-
-
 
 द्विजोऽपि दीक्षितः पश्चादन्त्यजः पूर्वदीक्षितात्‌॥
 
@@ -14104,8 +13492,6 @@ CHAPTER XI
 
 मालाकारस्य कन्या च नवकन्याः प्रकीर्त्तिताः।
 
-
-
 एतासु काञ्चिदानीय ततस्तद्योनिमण्डले॥
 
 पूजयित्वा महादेवीं ततो मैथुनमाचरेत्‌।
@@ -14156,8 +13542,6 @@ CHAPTER XI
 योगमुद्राधरा नार्यो चर्मकारी च चित्रिणी॥  
 चतुर्वर्णसमायुक्ता उत्तमा पर्वतोद्भवा।
 
-
-
 वामभागे समालिख्य उत्तमं पद्मवर्त्तुलम्‌॥
 
 श्वेतरक्तसमायुक्तं नीलंसिन्दूरचर्चितम्‌।  
@@ -14203,8 +13587,6 @@ CHAPTER XI
 कामेशी चैव वज्रेशी परा तु भगमालिनी॥
 
 भ्रुवोर्मूले महेशानि पञ्चबाणान्‌ प्रपूजयेत्‌।
-
-
 
 द्रामाद्यां द्राविणीं मूर्ध्नि द्रीमाद्यां क्षोभिणीं पदे॥
 
@@ -14254,8 +13636,6 @@ CHAPTER XI
 
 गणेशं च कुलाध्यक्षं तथा लक्ष्मीं सरस्वतीम्‌।
 
-
-
 त्रिकोणेषु च सम्पूज्य वसन्तं मदनं प्रिये॥
 
 स्तनयोः पूजयेत्‌ पश्चान्‌ मुखे तस्याः कलाधरम्‌।  
@@ -14304,8 +13684,6 @@ CHAPTER XI
 
 पृष्ठवंशात्‌ समारभ्य शिरोऽन्तं कामचापकम्‌
 
-
-
 विन्यस्य विधिवन्‌ मन्त्री पूजयेत्‌ तत्‌ तु मूर्धनि॥
 
 धर्मात्मकंसमुच्चार्यकामचापपदं ततः।  
@@ -14352,8 +13730,6 @@ CHAPTER XI
 
 पूजयामीत्युड्डीयाने पूजयेद्हृदि सुव्रते।
 
-
-
 श्रीपदं च समालिख्यजालन्धरपदं ततः॥
 
 महापीठे समालिख्य नादहीना रमा ततः।  
@@ -14399,8 +13775,6 @@ CHAPTER XI
 ततः परानन्दमयो भूत्वा निर्भरमानसः॥
 
 चिन्तयेन्निजविद्याया बीजं मूर्ध्नि सरोजके।
-
-
 
 ततस्तस्या योनिमध्ये मूलमन्त्रश्चसाधकः॥  
 पुष्पाञ्जलित्रयं दत्त्वा ततः क्षोभं विचिन्तयेत्‌।
@@ -14453,8 +13827,6 @@ CHAPTER XI
 
 नमःपदं समुच्चार्यसंयमनीं दक्षजानुनि।
 
-
-
 बलक्रिया समादिष्टा वामे विकरणाय च॥
 
 नमोऽन्ते वृद्धिमुच्यार्यदक्षिणे स्फिचिविन्यसेत्‌।  
@@ -14503,8 +13875,6 @@ CHAPTER XI
 निवृत्तिंच प्रतिष्ठां चविद्यां शान्तिं तथैव॥
 
 शान्त्यतीतां चसम्पूज्यषड़ङ्गावरणं यजेत्‌।
-
-
 
 समग्रविद्यामुच्चार्यनन्दिकेशं प्रपूजयेत्‌॥
 
@@ -14556,8 +13926,6 @@ CHAPTER XI
 पूर्णाहुतिं रतान्ते च जुहुयान्‌ मनुनाऽमुना॥
 
 प्रकाशाकाशहस्ताभ्यामवलम्ब्योन्मनीस्रुचा।
-
-
 
 धर्माधर्मौकलास्नेहंपूर्णवह्नौजुहोम्यहम्॥  
 स्वाहान्तोऽयं भवेन् मन्त्रो घोरपातकमुक्तिदः।
@@ -14613,8 +13981,6 @@ CHAPTER XI
 
 मथनं तर्पणं विद्धि वीर्यपातो विसर्जनम्‌।  
 दशद्रव्येण संशोध्य शिवशक्तिमयं प्रिये॥
-
-
 
 बीजामृतं परं ब्रह्मरूपं विक्षिप्य सुन्दरि।  
 अर्घ्यपात्रामृते मुक्तो निर्विकल्पःसदानघः॥  
@@ -14675,8 +14041,6 @@ CHAPTER XI
 
 मधुभाण्डसहस्रैस्तु मांसभारशतैरपि।
 
-
-
 नैव तुष्टा भवेद्देवि भगलिङ्गामृतादृते॥
 
 **देवीयामले—**
@@ -14732,8 +14096,6 @@ CHAPTER XI
 
 मा कुरुष्यात्र सन्देहं वेदोक्तंशाक्तमुत्तमम्‌।
 
-
-
 अस्ति सर्वज्ञकल्पोऽसौ मतङ्गो मुनिसत्तमः॥
 
 वर्षाणामयुतं वत्स तप उग्रं चचार ह।  
@@ -14780,8 +14142,6 @@ CHAPTER XI
 
 न दोषस्तत्रविज्ञेयः सर्वं ते श्रुतिचोदितम्‌।
 
-
-
 देवीमुद्दिश्य मोक्षार्थं कृतं यद्दोषवर्जितम्‌॥
 
 एतच्छास्त्रमिदं दिव्यंन वाच्यं श्रुतिचोदितम्‌।  
@@ -14825,8 +14185,6 @@ CHAPTER XI
 
 यानि शास्त्राणि दृश्यन्ते लोकेऽस्मिन्‌ विविधानि च।
 
-
-
 श्रुतिस्मृतिविरुद्धानि निष्ठा तेषां हि तामसी॥
 
 कापालं पञ्चरात्रं च यामलं वाममार्हतम्।  
@@ -14836,8 +14194,6 @@ CHAPTER XI
  इति कूर्मपुराणवचनानि वेदस्तुतिमात्रपराणि न त्वागमाप्रामाण्यबोधकानि। वस्तुतः “कापालं पञ्चरात्रं चे”त्यादिकूर्मपुराणवचनेन वेदामूलकत्वबोधनात्‌ ईश्वरप्रणीतत्वेन वेदवत्‌ स्वातन्त्रयेणैवागमानां प्रामाण्यम्‌। ईश्वरेण वेदस्य प्रणयनाच्च। प्रासादश्रीकरादिमन्त्रे वैदिकमन्त्राणामङ्गत्वप्रतिपादनमिति नागमानां वेदोपजीवकतेति रहस्यम्‌।
 
  ननु श्रुतिस्मृतिलोकविरुद्धानां वागमानामप्रामाण्यं वज्रलेपायितमिति चेत्‌। न। तद्विरोधस्यैवाभावात्‌। सौत्रामणिवाजयेपादौ सुराग्रहणस्य महाव्रते—“धर्ममनुप्रपन्ना गतागतं कामकामा लभन्ते” इत्यादिवचनात्‌ सकलवेदस्याप्यप्रामाण्यप्रसङ्गात्‌। अर्थवादानां स्वार्थे प्रामाण्याभावात्‌। भारतादिविरोधाश्च। अन्यथा—“एवं त्रयीशब्दानध्वर्यवः कारयन्त्येतस्मिन्नहनि प्रभूतमन्नं दद्याद् राजपुत्रेण चर्माव्याधयन्त्याघ्नन्ति भूमिदुन्दुभिं पत्त्यश्वकाण्डवीणाभूतानां(?) च मैथुनं ब्रह्मचारिपुंश्चल्योःसम्प्रवादः” इत्याश्वलायनभाष्ये ब्रह्मचारिपुंश्चलीसमागमस्य छान्दोग्योपनिषदादौ वामदेव्युपासने परकलत्रग्रहणस्यापि प्रतिपादनात्‌। तथाहि छान्दोग्योपनिषदि—“उपमन्त्रयते स हिङ्कारो ज्ञपयते स प्रस्तावः स्त्रिया सह शेते स उदुगीथः प्रति स्त्रीं सह शेते स प्रतिहारः कालं गच्छति तन्निधनं पारं गच्छति तन्निधनमेतद्वामदेव्यं मिथुने प्रोतम्‌॥१॥ स य एतद्वामदेव्यं मिथुने प्रोतं वेद मिथुनीभवति मिथुनान्मिथुनात्‌ प्रजायते सर्वमायुरेति ज्योग्जीवति महान्‌ प्रजया पशुभिर्भवति महान्‌ कीर्त्या न काञ्चन परिहरेत्‌ तद्व्रतम्‌” ॥२॥ तथा —“योषा वाव गौतमाग्निस्तस्या उपस्थ एव समिद् यदुपमन्त्रयते स धूमो योनिर्चिर्यदन्तः करोति तेऽङ्गारा अभिनन्दा विस्फुलिङ्गास्तस्मिन्नेतस्मिन्नग्नौ देवा रेतो जुहति तस्या आहुतेर्गर्भः सम्भवती”ति। बृहदारण्यकेऽपि—“स ह प्रजापतिरीक्षां चक्रे हन्तास्मै प्रतिष्ठां कल्पयानीति स स्त्रियं ससृजे तां सष्ट्वाऽध उपास्त तस्मात्‌ स्त्रियमध उपासीत स एतं प्राध्बं प्रावाणमात्मन एव समुदपारयत्‌ तेनेनामभ्यसृजत्॥ तस्या वेदिरुपस्थो लोभानि बर्हिश्चर्माधिषवणे समिद्धो मध्यतस्तौ मुष्कौ स यावान्‌ ह वै वाजपेयेन यजमानस्य लोको भवति तावानस्य लोको भवति य एव विद्वानधोपहासं चरत्यासां स्त्रीणां सुकृतं वृङ्क्तेऽथ य इवमविद्वानधोपहासं चरत्यास्य स्त्रियः सुकृतं वृञ्जते॥ एतद्ध
-
-
 
 स्म वै तद्विद्वानुद्दालक आरुणिराहैतज्ञ स्म वै तद्विद्वान्नाको मौद्गल्य आहैतद्ध स्म वै तद्विद्वान् कुमारहारित आह बहवो मर्या ब्राह्मणायना निरिन्द्रिया विसुकृतोऽस्माल्लोकात्‌ प्रयन्ति य इदमविद्वांसोऽधोपहासं चरन्ती”ति। एवं गोमेधाश्वमेधनरमेधादिवन्नरादिवरैप्यविरोधः। कूर्मपुराणादीनां च तात्पर्याभिव्यक्तिरहितानां प्रतीयमान-विरुद्धार्थकानेकतन्त्र-प्रणयन-प्रयुक्तब्राह्मणप्रतारणसम्पादितगोतमकर्त्तव्यताकानि तन्त्राणीतेतत्‌परत्वम्‌। तदुक्तं लिङ्गपुराणे—
 
@@ -14858,8 +14214,6 @@ CHAPTER XI
 
 **इति महामहोपाध्याय-ठक्कुर-श्रीनरसिंह-विरचिते**  
 **ताराभक्तिसुधार्णवे षष्ठस्तरङ्गः॥६॥**
-
-
 
 **सप्तमस्तरङ्गः**
 
@@ -14919,8 +14273,6 @@ CHAPTER XI
 
 यथा विष्णुतिथौ विष्णुः पूजितो वाञ्छितप्रदः।
 
-
-
 तथा कुलतिथौ दुर्गा पूजिता वाञ्छितप्रदा॥
 
 कुलतिथाविति वारनक्षत्रयोरुपलक्षणम्‌। **कुलवारादयो यामले उक्ताः—**
@@ -14969,8 +14321,6 @@ CHAPTER XI
 
 दृश्यतेऽपि यदा भाग्यात्‌ तदार्चांमनसाचरेत्‌।  
 पर्वते विपिनोद्देशे निर्जने मण्डपे तथा॥
-
-
 
 चतुष्पथे श्मशाने वा गच्छन्‌ साधकसत्तमः।  
 ध्यात्वा देवीं मनुं जप्त्वा नत्वा स्थाने व्रजेत ततः॥
@@ -15022,8 +14372,6 @@ CHAPTER XI
 
 षष्ठी भाद्रपदे मासि कृष्णाश्विनचतुर्दशी।
 
-
-
 कार्त्तिके नवमी शुक्ला मार्गे कृष्णा तु पञ्चमी॥
 
 पौषे तु पूर्णिमा देवि माघे सितचतुर्थिका।  
@@ -15069,8 +14417,6 @@ CHAPTER XI
 
 संस्थाप्य कलशं तत्र कांस्यपात्रं निधापयेत्‌ ।  
 ज्वालयेदत्र दीपं तु स्थूलवर्तिकमुत्तमम्॥
-
-
 
 ध्यात्वा दीपे महादेवीमर्चयेदुपचारकैः।  
 साग्रं सहस्रं मतिमान्‌ प्रजपेत्‌ कुलमन्त्रकम्‌॥
@@ -15119,8 +14465,6 @@ CHAPTER XI
 
 लक्ष्यद्वयं जपेन् मन्त्री तारिणी यत्र तिष्ठति।
 
-
-
 निस्पृहस्थिरचित्तेन सिद्धिर्भवति तत्क्षणात्॥
 
 समाहृतां मृत्तिकां च अक्षतं च तथैव च।  
@@ -15168,8 +14512,6 @@ CHAPTER XI
 एकैकमर्पयेद् विद्वान्‌ परिवारगणाय च॥
 
 अथवैकं तु संस्थाप्य मध्ये तमभितो नव।
-
-
 
 देव्यै समर्पयेन मन्त्री मूलोच्चारणपूर्वकम्‌॥
 
@@ -15221,8 +14563,6 @@ CHAPTER XI
 न तस्य दुर्मतेः सिद्धिर्विपरीतं च जायते।  
 भूताः प्रेताः प्रनृत्यन्ति क्षुधासंपीड़ितोदराः॥
 
-
-
 अस्माकं भाग्ययोगेन चेत्‌ कश्चित्‌ साधकोऽधमः।  
 सुप्ते जनार्दने कुर्याद् दमनारोपणं विधिम्‌॥
 
@@ -15271,8 +14611,6 @@ CHAPTER XI
 कामनेत्रसमुद्भूत रतिनेत्रजलाप्लुत।  
 ऋषिगन्धर्वसिद्धानां विमोहक नमोऽस्तु ते॥
 
-
-
 शिवकार्ये समुच्छिद्य नेतव्योऽसि शिवाज्ञया।  
 इत्यामन्त्र्य शिवं कामं तत्र सम्पूजयेत्‌ सुधीः॥
 
@@ -15316,8 +14654,6 @@ CHAPTER XI
 **रहस्ये उक्ता— **
 
 अङ्गुष्ठेन कनिष्ठाग्रं बद्ध्वा शिष्टाङ्गुलित्रयम्‌।
-
-
 
 प्रसारयेत्‌ त्रिशूलाख्यमुद्रेयं परिकीर्त्तिता॥
 
@@ -15365,8 +14701,6 @@ CHAPTER XI
 कर्त्तव्यं च यथालाभं पूर्णं पर्व तवाज्ञया।  
 विज्ञापनाख्यमन्त्रेण त्रिपुरां परितोषयेत्‌॥
 
-
-
 ततः सम्पूजयेद् देवीं गन्धपुष्पाक्षतादिभिः।  
 नैवेद्यं विधिवद् दत्त्वा श्रीविद्यां प्रार्थयेत्‌ ततः॥
 
@@ -15400,8 +14734,6 @@ CHAPTER XI
 
 दमनं नवधा कुर्यात्‌ पूजयेत्‌ तदनन्तरम्‌।  
 आनन्देश्वरबीजेन ततो भिन्नेन सुन्दरि॥
-
-
 
 आनन्देश्वरीबीजेन नवधा बिन्दुना सह।  
 नवप्रकारसंभिन्नं दमनं पूजयेत्‌ क्रमात्‌॥
@@ -15443,8 +14775,6 @@ CHAPTER XI
 अश्वमेधसहस्रस्य राजसूयशतस्य च॥
 
 तत्फलं समवाप्याऽसौ देववद् दिवि मोदते।
-
-
 
 **तथा— **
 
@@ -15503,8 +14833,6 @@ CHAPTER XI
 
 आम्नायेष्वथ सवषु प्रशस्तं सितमेव वा।
 
-
-
 कुमारीकर्त्तितं सूत्रमतिप्राशस्त्यकारकम्‌॥
 
 पतिमत्या कृतं मध्यमधमं विधवाकृतम्‌।  
@@ -15550,8 +14878,6 @@ CHAPTER XI
 
 सद्योऽधिवासने वापि कुर्यात्‌ तु परमेश्वरि।  
 रात्रौ समयिभिः सार्धं नित्यपूजाद्यनन्तरम्‌॥
-
-
 
 ऊर्ध्वसिंहासनैर्मन्त्रैःसूत्रपातं तु वामतः।  
 स्थापयित्वाऽस्त्रवर्माभ्यां कृत्वा रक्षावगुण्ठने॥
@@ -15601,8 +14927,6 @@ CHAPTER XI
 
 नैवेद्यधूपदीपानां कर्त्तव्या भूयसी स्थितिः॥  
 आकारणीया-यत्नेन स्वस्ववर्ग्यास्तु देशिकैः।
-
-
 
 कुसुमैस्तोरणं कार्यं बहिरन्तर्गृहस्य च॥
 
@@ -15659,8 +14983,6 @@ CHAPTER XI
 
 कात्यायनीं कामभूमौ कामाभ्यां कामदापिनीम्‌।
 
-
-
 जालन्धरे च पूर्णेशीं पूर्णशैले च चण्डिकाम्‌॥
 
 कामरूपां तु चौहारे पूज्या दिक्करवाहिनीम्।  
@@ -15709,8 +15031,6 @@ CHAPTER XI
 
 न केवलं पूजयेत्‌ तां भोजयेच्चापि यत्नतः।  
 व्यङ्गता वाप्यकरणाव्‌ पूज्ञायाः परिकीर्त्तिता।
-
-
 
 करणात्‌ साङ्गताऽपि स्यादन्यस्मिन्नकृतेऽपि हि॥
 
@@ -15764,8 +15084,6 @@ CHAPTER XI
 गीतवादित्रनिर्घोषैरानन्दादरपूर्वकम्‌।  
 नीत्वा पूजागृहद्वारि कुमारीस्ता अयुग्मिकाः॥
 
-
-
 पञ्च वा सत्त वा चापि नवैकादश वा पुनः।  
 मुक्यैका तासु कर्त्तव्या या स्यात्‌ सर्वाङ्गसुन्दरी॥
 
@@ -15815,8 +15133,6 @@ CHAPTER XI
 गृहीत्वा दक्षचरण-विनिःक्षेपपुरःसरम्॥
 
 भीपङ्क्त ताः कुमारीस्ताः श्लोकरूपं मनुं पठन्‌।
-
-
 
 पूजागृहान्तः शनकैर्नमन्मौलिः प्रवेशयेत्‌॥
 
@@ -15870,8 +15186,6 @@ CHAPTER XI
 चण्डकापालिनी कालचक्रेश्वर्यप्यनन्तरम्‌।  
 गुह्यकाली ततः कात्यायनी कामाख्यया सह॥
 
-
-
 चामुण्डा सिद्धिलक्ष्मीश्च कुब्जिका तदनन्तरम्‌।  
 मातङ्गी तदनु ज्ञेया चण्डेश्चर्यथ कीर्त्यते॥
 
@@ -15923,8 +15237,6 @@ CHAPTER XI
 ततोऽर्घस्थापनं कुर्यान्नित्यके यदुदाहृतम्‌।  
 पूजोपकरणस्यापि शुद्धिरुका पुरोक्तवत्॥
 
-
-
 **तथा— **
 
 ततो ध्यानं प्रकुर्वीत कुमार्या वक्ष्यमाणकम्‌।\*[^6]
@@ -15975,8 +15287,6 @@ CHAPTER XI
 
 प्रतिग्राहश्च हिन्दोला तथा सीमन्तवर्त्तिका।
 
-
-
 गोरोचना-गृगमदौ कर्पूरं कुङ्कुमं तथा॥
 
 एवमादीनि चान्यानि यावच्छक्यानि सुन्दरि।  
@@ -16024,8 +15334,6 @@ CHAPTER XI
 पुनरष्टौ सर्वशेषे ङेन्ता दैवीर्यजेत्‌ प्रिये॥
 
 महामाया कालरात्रिस्ततो वै सर्वमङ्गला।
-
-
 
 पूज्या डमरुका पश्चाद्राजराजेश्वरी तथा॥  
 सम्पत्प्रदा भगवती कुमारी तदनन्तरम्‌।
@@ -16077,8 +15385,6 @@ CHAPTER XI
 
 नान्यत्र च मनो दद्यात्‌ संवाधं नेव कल्पयेत्‌।
 
-
-
 कोलाहलं निषेधेत अमङ्गल्यानि यानि च॥
 
 रुदितापानवायुं च प्रयत्नेन विवर्जयेत्‌।  
@@ -16124,8 +15430,6 @@ CHAPTER XI
 
 महारुद्राय संहारकर्त्तृत्वमददः शिवे।  
 देवेभ्यश्चापि दैत्यानां नाशने वक्षतामपि॥
-
-
 
 अन्तर्यामिन्यसीशानि त्रिलोकीवासिनामपि।  
 निवेदयामि किं तेऽहं सर्वकर्मैकसाक्षिणि॥
@@ -16173,8 +15477,6 @@ CHAPTER XI
 फलं मांसविशेषस्य भिन्नं मिश्रं ब्रुवे हि तत्‌।  
 अर्थलाभस्तु वाराहे खाङ्गे तु विजयो रणे॥
 
-
-
 माहिषेण तु मांसेन राज्यप्राप्तिर्भवेद् ध्रुवम्‌।  
 आरोग्यं हारिणेनाशु कार्ष्णसारेण वाग्मिता॥
 
@@ -16221,8 +15523,6 @@ CHAPTER XI
 
 अभाषणे त्वामयाः स्युर्विपदो बहुभाषणे।
 
-
-
 उपसर्गा बहुविधाश्चेष्टया करपादयोः॥  
 अतिलज्जा विनाशाय तथा निर्लज्जताऽशुभा॥
 
@@ -16266,8 +15566,6 @@ CHAPTER XI
 कुमारी भासते वीतभयं मन्दाक्षसाध्वसा॥
 
 प्रजायन्ते तदा तस्य विषयेषु षड़ीतयः।
-
-
 
 व्यत्यासं यदि भक्ष्यस्य कुर्वते करचालनैः॥
 
@@ -16315,8 +15613,6 @@ CHAPTER XI
 
 कुर्वीत वा बाहुरिकां पार्ष्णिघृष्टिं करोति वा।
 
-
-
 महान्तं ग्रासमादत्ते मुखं व्यादाय तिष्ठति॥
 
 अन्नोपरि क्षुतं धत्ते जृम्भणं वा मुहुर्महुः।  
@@ -16363,8 +15659,6 @@ CHAPTER XI
 
 परीक्ष्य यत्नतस्तस्माद्राज्ञा स्वस्य शुभाशुभम्‌।
 
-
-
 अर्चातोऽपि विशेषेण भोजनेन सुरेश्वरि॥
 
 जाते शुभे समीचीनं वृत्ते तदितरत्र हि।  
@@ -16410,8 +15704,6 @@ CHAPTER XI
 
 इच्छा ज्ञाना क्रिया दुर्गा नव नामभिरीरिताः।  
 पूर्ववत्‌ पूजयेन्‌ मन्त्री जपेत्‌ साग्रं सहस्रकम्॥
-
-
 
 यदि सा क्षोभमायाति स्वयमेव विलासिनी।  
 तया सह नयेद्रात्रिं वासरं वा निशातधीः॥
@@ -16462,8 +15754,6 @@ CHAPTER XI
 
 तत्रैव सर्वशक्तीनां प्रीतिः परमदुर्लभा।  
 पशुशक्तिर्नरे शक्तिः पक्षिशक्तिश्च भैरव॥
-
-
 
 पूजिता विगुणं कर्म सगुणं कारयेद् यतः।  
 तेन सर्वप्रयत्नेन कर्त्तव्यं पूजनं महत्‌॥
@@ -16517,8 +15807,6 @@ CHAPTER XI
 खादित्वोत्थाय तिष्ठत्सु शिवावृन्देषु तत्र हि।  
 दण्डवत्‌ प्रणमेत्‌ सर्वाः स्वेष्टदेवीधिया स्वयम्‌॥
 
-
-
 पुष्पाञ्जलिं समादाय गन्धचन्दनचर्चितम्।  
 उत्थाय मुक्तचिकुरो मीलिताक्षो दिगम्बरः॥
 
@@ -16567,8 +15855,6 @@ CHAPTER XI
 
 न कस्मैचित्‌ प्रवक्तव्यं यदीच्छेच्छाश्वतं सुखम्‌।
 
-
-
 निर्जने चैव कर्त्तव्यं च मानुषसन्निधौ॥
 
 किं वा पक्षिपतङ्गादि-दर्शने नैव कारयेत्‌।  
@@ -16614,8 +15900,6 @@ CHAPTER XI
 तदा तं सहसा ज्ञात्वा मन्त्रं दैवं गुरुं त्यजेत्‌।
 
  शकलादिदोषास्तूपलक्षणमात्रम्‌। अन्येऽपि तत्तच्छास्त्रोक्ता बोद्धव्याः। अदुष्टमन्त्रत्यागे—“क्षमस्व मातस्तत् पापं हर दैवि कृपां कुरु”। इति क्षमाप्यतामेव विद्यां गृह्णीयादिति विशेषः।
-
-
 
 **तथा— **
 
@@ -16668,8 +15952,6 @@ CHAPTER XI
 जपेदष्टसहस्रं तु क्षुद्रजन्तुवधे कृते।
 
  अष्टसहस्रमष्टोत्तरसहस्रम्‌। क्षुद्रजन्तवः उक्तभिन्ना छागादयः। यत्‌ तु—“छागदिहनने जप्यात्‌ त्रिसहस्र”मिति तन्त्रान्तरे उक्तं तदभ्यासकृतविषयम्‌।
-
-
 
 **त्रिशक्तिरत्ने—**
 
@@ -16726,8 +16008,6 @@ CHAPTER XI
 निन्दने समयानां च योगिनी-वीरयोः शिवः।  
 शास्त्राणां मन्त्रिणां स्त्रीणां सहस्रं जपमाचरेत्‌॥
 
-
-
 वामदक्षिणसिद्धान्ते शैवव्रतधरे हते।  
 चतुष्कोटिमितं मन्त्री जपन्‌ शुध्यति किल्विषात्‌॥  
 आद्यादिनिन्दने मन्त्री दशावर्त्तेन शुध्यति॥
@@ -16778,8 +16058,6 @@ CHAPTER XI
 
 मोक्षदे पदमुच्चार्य चक्षुरादि समुच्चरेत्‌।
 
-
-
 प्रेतताम समुच्चार्य वदेदावाहयामि च॥
 
 अनेनावाहयेत्‌ प्रेतं तत्र प्राणांश्च विन्यसेत्‌।  
@@ -16824,8 +16102,6 @@ CHAPTER XI
 पुण्यपापे परेतस्य जुहुयान्‌ मन्त्रमुच्चरन्‌॥
 
 ततः पूर्णाहुतिं दत्त्वा योजयेत्‌ परमे पदे।
-
-
 
 शिवशक्त्यात्मके शुद्धे पुनरावृत्तिवर्जिते।  
 सच्चित्सुखमये साक्षात्‌ तत्त्वातीते निराकुले।  
@@ -16872,8 +16148,6 @@ CHAPTER XI
 
 निःक्षिपेन्‌ निखनेत्‌ क्वापि विशुद्धे धरणीतले।
 
-
-
 केनापि कीकशेनाऽस्य प्रतिमां पादुकेऽथवा॥
 
 कृत्वा सम्पूजयेन्‌ मन्त्री गुरुभक्तिपरायणः।  
@@ -16911,8 +16185,6 @@ CHAPTER XI
 सुधार्णवे नैमित्तिकविधिः सप्तमस्तरङ्गः॥७॥**
 
 **—————**
-
-
 
 **अष्टमस्तरङ्गः**
 
@@ -16973,8 +16245,6 @@ CHAPTER XI
 
 एवं ध्यात्वा हविष्याशी जपेल्लक्षचतुष्टयम्‌।
 
-
-
 रहस्यमालामादाय जपेद् वा लक्षमेव च॥
 
 **वैशम्पायनसंहितायाम्‌—**
@@ -17017,8 +16287,6 @@ CHAPTER XI
 
 गुरोराज्ञां समादाय शुद्धान्तःकरणो नरः।  
 ततः पुरस्क्रियां कुर्यात् मन्त्रसंसिद्धिकाम्यया॥
-
-
 
 **तथा—**
 
@@ -17074,8 +16342,6 @@ CHAPTER XI
 क्षीरवृक्षमयान्‌ कीलानस्त्रमन्त्राभिमन्त्रितान्।  
 निखनेद्‌ दशदिग्भागे तेष्वस्त्रं च प्रपूजयेत्‌॥
 
-
-
 क्षेत्रे च कीलिते मन्त्री न विघ्नैः परिभूयते।  
 क्षेत्रपालादिकांस्तत्र पूजयेद् विधिवित्तमः॥
 
@@ -17118,8 +16384,6 @@ CHAPTER XI
 याभ्यै इति पदं पश्चान्‌ नैर्ऋत्यै मनुं पुनः॥
 
 वारुण्य वायवी चेति कौवेरीशानभैरवी।
-
-
 
 आदो मन्त्रं समुच्चार्य पुनर्देवीं वदेत्‌ प्रिये॥
 
@@ -17166,8 +16430,6 @@ CHAPTER XI
 
 हृद्योदनादि पक्वान्नमाज्यं मधु सशर्करम्।  
 सर्वत्र विधिवत्‌ कुर्याद् दुग्धेनोत्सर्गमाचरेत्‌॥
-
-
 
 **यामले— **
 
@@ -17232,8 +16494,6 @@ CHAPTER XI
 
 पञ्चाशद्वर्णरुपेण क्षेत्रेशा विश्वविग्रहाः।
 
-
-
 तस्मात्‌ तत्‌ सगुणं क्षेत्रं सिद्धये स्यान्न चान्यथा॥
 
 विगुणश्चेन् मुखस्थोऽपि न तेन सिद्धिमाप्नुयात्‌।  
@@ -17289,8 +16549,6 @@ CHAPTER XI
 
 शैलराजस्तृतीये स्याच्चतुर्थे वासुकिः स्मृतः।
 
-
-
 अर्थकृत् पञ्चमे प्रोक्तः शक्तिकृत्‌ षष्ठ ईरितः॥
 
 पद्मयोनिः सप्तमे स्यान्‌ महाशङ्खोऽष्टमे मतः।  
@@ -17342,8 +16600,6 @@ CHAPTER XI
 
 नियमव्यतिरेकेण यद् यत्‌ कर्म करोति यः।  
 किञ्चिदप्यस्य न फलं सिध्यत्यक्रमदोषतः॥
-
-
 
 न्यूनातिरिक्तकर्माणि न फलन्ति कदाचन।  
 यथाविधि कृतानीह तत्कर्माणि फलन्ति हि॥
@@ -17408,8 +16664,6 @@ CHAPTER XI
 पशुभावे स्थिता मन्त्राः केवला वर्णरूपिणः।  
 सौषुम्णध्वन्युच्चरिताः प्रभुत्वं प्राप्नुवन्ति ते॥
 
-
-
 मन्त्राक्षराणि चित्सूत्रे प्रोतानि परिभावयेत।  
 तामेव परमव्योम्नि परमामृतसंज्ञके॥
 
@@ -17469,8 +16723,6 @@ CHAPTER XI
 मन्त्रैकशरणो विद्वान्‌ मनसैव सदाऽभ्यसेत्।  
 न दोषो मानसे जाप्ये सर्वदेशेऽपि सर्वदा॥
 
-
-
 **उत्तरतन्त्रे—**
 
 जपादौ पूजयेन्‌ मालां तोयैरभ्युक्ष्य यत्नतः।  
@@ -17520,8 +16772,6 @@ CHAPTER XI
 
 चरिते चैव विद्धेषः स्फुटिते व्याधिसस्भवः।  
 हस्तच्युते महाविघ्नः सूत्रछेदे विनश्यति॥
-
-
 
 **तथा—**
 
@@ -17581,8 +16831,6 @@ CHAPTER XI
 
 एवं जपं तथा कृत्वा दशांशमसितोत्पलैः।
 
-
-
 आज्याक्तैर्जुहुयान्‌ मन्त्री तदु दशांशेन तर्पयेत्‌॥
 
 कालागुरुद्रवोपेतैर्विमलैर्गन्धवारिभिः।
@@ -17639,8 +16887,6 @@ CHAPTER XI
 
 यद् यदङ्गं भवेद्भग्नं तत्संख्याद्विगुणो जपः।
 
-
-
 होमाभावे जपः कार्यो होमसंख्याचतुर्गणः॥
 
 विप्राणां क्षत्रियाणां च रससंख्यागुणः स्मृतः।  
@@ -17696,8 +16942,6 @@ CHAPTER XI
 पुरश्चरणकाले च परशक्तिं प्रपूजयेत्‌।  
 दीक्षिते वस्त्रपुष्पाद्यैर्भोज्यैः पायससम्भवैः॥
 
-
-
 शून्यगेहे समानीय चार्ध्योदकविशोधितम्‌।  
 अमृतीकरणं कृत्या शक्तीरभिमुखं नयेत्‌॥
 
@@ -17744,8 +16988,6 @@ CHAPTER XI
 **शक्तिस्तोत्रम्‌**
 
 मातर्देवि नमस्तेऽस्तु ब्रह्मरूपधरेऽनघे।
-
-
 
 कृपया हर विघ्नं मे मन्त्रसिद्धिं प्रयच्छ मे॥
 
@@ -17794,8 +17036,6 @@ CHAPTER XI
 
 एका चेद् युवती तत्र पूजिता वा विलोकिता।  
 सर्वा एव तदा देव्यः पूजिताः कुलभैरव॥
-
-
 
 इदं च पुरश्चरणस्यादौ मध्ये चान्ते च कर्त्तव्यम्‌। तथाहि तत्रैव—
 
@@ -17848,8 +17088,6 @@ CHAPTER XI
 
 तीव्रशुद्धिं दृढ़ाचारां मुक्तकेशीं दिगम्बराम्‌।
 
-
-
 योगमुद्राधरां वापि योगाचारपरायणाम्‌॥
 
 ईदृशीं मन्त्रसंयुक्तं यागकाले प्रपूजयेत्‌।  
@@ -17896,8 +17134,6 @@ CHAPTER XI
 
 ऊर्ध्बकेशं तथा नीलं दिव्यौघांश्च प्रपूजयेत्‌।
 
-
-
 मत्स्यं कूर्मं वशिष्ठं च महेश्वरानन्दमेवच॥
 
 तारां भानुमतीं चापि जयां विद्यां महोदरीम्‌।  
@@ -17942,8 +17178,6 @@ CHAPTER XI
 ध्यानार्चनमनावस्था वीरपानमनुत्तमम्‌॥
 
 भासक्तलोलुपो दम्भो मन्त्रार्थे अप्रसङ्गतः।
-
-
 
 कामुकः कार्यनिर्देशे पशुपानं तदुच्यते॥
 
@@ -17996,8 +17230,6 @@ CHAPTER XI
 अस्मिन्नर्थे भवेन् मन्त्री यदि नोद्विग्नमानसः।  
 सेत्स्यतीति च विश्वस्स्तदासौ सिद्धिमाग्भवेत्‌॥
 
-
-
  दीक्षापुरश्चरणाद्यारम्भदिने समाप्तिदिने वा रात्रौ स्वप्नं प्रार्थयेत्‌। तत्प्रकारस्तु दीक्षायाग एवोक्तः।
 
 **अथ सिद्धिचिह्नानि**
@@ -18048,8 +17280,6 @@ CHAPTER XI
 क्षणं किलिकिलारावं हंसबर्हिरवं तथा॥
 
 क्षणं मेघोदयं पश्येत्‌ क्षणं रात्रिन्दिनि सति।
-
-
 
 रात्रौ च दिवसालोकं ससूर्यं क्षणमीक्षते॥
 
@@ -18106,8 +17336,6 @@ CHAPTER XI
 
 जपो मातृकया प्रातःकालान्‌ मध्यन्दिनावधि।
 
-
-
 रात्रौ याममितः कार्यःपयोमूलफलाहृतिः॥
 
 चतुर्थयामे कर्त्तव्यामालामन्त्रे दशांशतः।  
@@ -18161,8 +17389,6 @@ CHAPTER XI
 अथवाऽन्यप्रकारेण पुरश्चरणमुच्यते।  
 अष्टम्यांवा चतुर्दश्यां पक्षयोरुभयोरपि॥
 
-
-
 सूर्योदयात्‌ समारभ्य यावत्‌ सूर्योदयान्तरम्‌।  
 तावज्जप्त्वा निरातङ्कं सर्वसिद्धीश्वरो भवेत्‌॥
 
@@ -18213,8 +17439,6 @@ CHAPTER XI
 सम्पूर्णां दक्षिणां दत्त्वामन्त्रसिद्धिमवाप्नुयात्‌।  
 ततः प्रयोगान्‌ कुर्वीत मन्त्रवित्‌ कल्पनोदितान्‌॥
 
-
-
  अत्र स्पर्शपदं स्पर्शज्ञानपरमन्यथा तत्समयस्य सूक्ष्मत्वात्‌ अननुष्ठानलक्षणमप्रामाण्यंस्यात्‌।
 
 चक्षुषा दर्शनं राहोर्यत्‌ तद् ग्रहणमुच्यते।  
@@ -18261,8 +17485,6 @@ CHAPTER XI
 
 अत्र प्रतिपदादि-नवम्यन्तं जपः प्रतिभाति।
 
-
-
 **कालीतन्त्रे— **
 
 अथवाऽन्यप्रकारेण पुरश्चरणमुच्यते।  
@@ -18299,8 +17521,6 @@ CHAPTER XI
 सुधार्णवेऽष्टमस्तरङ्गः॥८॥
 
 ——————
-
-
 
 **नवमस्तरङ्गः**
 
@@ -18356,8 +17576,6 @@ CHAPTER XI
 
 कृतोष्णीषश्च मूलेन सिन्दूरेणोर्ध्वपुण्ड्रकम्‌।
 
-
-
 इष्टदेवं गुरुं नत्वा यात्रा प्रहरमध्यतः॥
 
 कार्या च साधकैःसार्धहृदि मन्त्रं परामृशन्।  
@@ -18406,8 +17624,6 @@ CHAPTER XI
 पाद्यादिभिश्चमन्त्रज्ञो बलिं पश्चान्निवेदयेत्‌॥
 
 शब्दबीजं ततः पश्चात्‌ श्मशानाधिपतत्परम्‌।
-
-
 
 इममन्ते सामिषान्नं बलिं गृह्णपदं ततः॥
 
@@ -18458,8 +17674,6 @@ CHAPTER XI
 
 पीठमास्तीर्य तस्मिन्‌ वैबलूवीरासनस्ततः।
 
-
-
 वीरार्दनेन देवेशि लोष्टान् दिक्षु विनिःक्षिपेत्।  
 कूर्चबीजद्वयं देवि मायायुग्मं ततः परम्।  
 कालिके घोरदंष्ट्रे च प्रचण्डे चण्डनायिके॥
@@ -18507,8 +17721,6 @@ CHAPTER XI
 भूतप्रेतपिशाचानां विघ्नेषु शान्तिकारकः॥
 
 इति क्षिप्त्वा तिलांस्तत्र चतुर्भागैः शिवादितः।
-
-
 
 ततः सप्तपदं गत्वा पुनस्तत्रैव संविशेत्‌।  
 एवं तत्रापि सम्पूज्य पूजयेन्‌ मनुमुत्तमम्‌॥
@@ -18565,8 +17777,6 @@ CHAPTER XI
 पातय-द्वितर्य वर्मफड़न्तः समुदाहृतः।  
 एकपञ्चाशदर्णोऽयमघोरास्त्रमयो मनुः॥
 
-
-
 हालाहलं समुद्धृत्य सहस्रारस्वरूपकम्‌।  
 वर्मास्त्रान्तं महामन्त्रं सुदर्शनस्य कीर्त्तितम॥
 
@@ -18612,8 +17822,6 @@ CHAPTER XI
 पुनं प्रक्षालितं कृत्वा जपस्थानं समानयेत्‌॥
 
 कुशशय्यां परिस्तीर्यतत्र संस्थापयेच्छवम्।
-
-
 
 एलालवङ्गकर्पूर-जातीखदिरसार्द्रकैः॥
 
@@ -18661,8 +17869,6 @@ CHAPTER XI
 
 त्राहि मां देवदेवेश शवानामधिपाधिप।
 
-
-
 इति पादतले तस्य त्रिकोणं चक्रमालिखेत्‌॥
 
 तदोत्थातुंन शक्नोति शवोऽपि निश्चलो भवेत्‌।  
@@ -18709,8 +17915,6 @@ CHAPTER XI
 
 बान्धवास्तत्र आयान्ति देवरुपधरास्ततः।
 
-
-
 स्त्रीपुत्रसेवकादींश्च गृहीत्वा नीयते परैः॥
 
 रुदन्ति पुत्रकाःसर्वे भ्रातरोऽनुजशिष्यकाः।  
@@ -18755,8 +17959,6 @@ CHAPTER XI
 
 संप्रक्षाल्यच संस्थाप्य जुटिकां मोचयेत्‌ पदे।  
 पदचक्रं मार्जयित्वा पूजाद्रव्यं जले क्षिपेत्‌॥
-
-
 
 शवं जलेऽथ गर्त्ते वा निःक्षिप्य स्नानमाचरेत्‌।  
 ततस्तु स्वगृहे गत्वा बलिं दत्त्वा दिनान्तरे॥
@@ -18804,8 +18006,6 @@ CHAPTER XI
 इह भुक्त्वा वरान्‌ दिव्यानन्ते याति हरेः पदम्‌ ॥  
 अनङ्गं साङ्गमपि वा निष्कलं सफलं च वा।
 
-
-
 कृत्वा साधनमेवैतच्छक्तैः प्रियतमो भवेत्॥
 
 शवाभावे श्मशाने वा कर्त्तव्या वीरसाधना।  
@@ -18820,8 +18020,6 @@ CHAPTER XI
 सुधार्णवे वीरसाधनविधिर्नवमस्तरङ्गः॥९॥
 
 —————
-
-
 
 **दशमस्तरङ्गः**
 
@@ -18871,8 +18069,6 @@ CHAPTER XI
 शृणु देवि प्रवक्ष्यामि वारतिथ्यर्क्षदेवताः।  
 रवौ सूर्य-शिवौ देवि चन्द्रे सोमान्तकौ ततः॥
 
-
-
 भौमे च मङ्गल-गुहौ बुध-विष्णु ततः परे।  
 परे गुरु-चतुर्वक्त्रौ भृगौ शुक्र-पुरन्दरौ।  
 मन्दे शनैश्चरः कालो वारेशा देवि कीर्त्तिताः॥
@@ -18920,8 +18116,6 @@ CHAPTER XI
 
 अभ्यर्च्य देवताभिष्ट्वामात्मरक्षार्थमद्रिजे।  
 जपेन्‌ मन्त्रं प्रसन्नात्मा सहस्रं साष्टकं प्रिये॥
-
-
 
 मां रक्ष रक्ष चेत्युक्त्वा प्रणस्य विसृजेच्छिवे।  
 अन्येः सहृद्भिः सुस्निग्धैरात्मरक्षां तु कारयेत्‌॥
@@ -18973,8 +18167,6 @@ CHAPTER XI
 भौमस्य च शनेर्वापि राहोर्वा चेद् दशा भवेत्‌।  
 तदा तु मारणं कर्म कुर्यान् मान्त्रिकसत्तमः॥
 
-
-
 शत्रोरशुभनक्षत्रे चन्द्रे वारे तिथौ तथा।  
 लग्ने तत्तत्प्रयोगादि काले स्वस्य शुभे तथा॥
 
@@ -19020,8 +18212,6 @@ CHAPTER XI
 
 तेन मन्त्राद्यवर्णेन नाम्नश्चाद्यक्षरेण च।  
 गणयेद् यत्‌ तु षष्ठं वाप्यष्टमं द्वादशं तु वा॥
-
-
 
 रिपोर्मन्त्राद्यवर्णं स्यात्‌ तन्न तस्य हितं भवेत्‌।
 
@@ -19070,8 +18260,6 @@ CHAPTER XI
 अरिसुसिद्धमन्त्रस्तु कुलोत्सादनकृद् भवेत्‌॥
 
 अर्यरिः स्वात्माहा मन्त्रः संप्राप्त्यैव सुनिश्चितम्‌।
-
-
 
 **पिङ्गलामते तु—**
 
@@ -19131,8 +18319,6 @@ CHAPTER XI
 तदा मन्त्रं समारभ्य समं यावत्‌ प्रयोजयेत्‌।  
 आद्यन्तयोः सिद्धवर्णो मन्त्रे यस्मिन्‌ वरानने॥
 
-
-
 अचिरेणैव कालेन स भवेत्‌ सर्वसिद्धिदः।  
 साध्यान्तादियुतो यस्तु सोऽतिकृच्छ्रेण सिध्यति॥
 
@@ -19177,8 +18363,6 @@ CHAPTER XI
 अरिसंपुटितः सिद्धः सुसिद्धोऽपि तथा भवेत्‌॥
 
 सर्वनाशकरो ज्ञेयः साधकस्य न संशयः।
-
-
 
 सिद्धेनाऽन्तरितः साध्यः सुसिद्धान्तरितो भवेत्‌॥
 
@@ -19235,8 +18419,6 @@ CHAPTER XI
 
 कुलाकुलपरीक्षायां प्रकारः कथ्यतेऽधुना।
 
-
-
 वाय्वग्निभूजलाकाशाः पञ्चाशल्लिपयः क्रमात्‌॥
 
 पञ्च ह्रस्वाः पञ्च दीर्घा बिन्द्वन्ताः सन्धिसम्भवाः।  
@@ -19286,8 +18468,6 @@ CHAPTER XI
 
 एवं बुद्धा बुधो मन्त्रं विधिनात्मनि योजयेत्‌।
 
-
-
 **अथ योनिचक्रम्‌**
 
 अश्वेभाजफणिद्वयं श्ववृषभुङ्मेषौतवो मूषिक-  
@@ -19336,8 +18516,6 @@ CHAPTER XI
 चवर्गश्च तथा सिंहष्टवर्गश्चैव कुक्कुरः।  
 तवर्गो नाग इत्युक्तो मूषिकश्च पवर्गकः॥  
 यवर्गश्च गजो ज्ञेयः शवर्गोऽप्यज-मेषकौ।
-
-
 
 गरुड़-भुजगयोर्वैरं तथा च गज-सिंहयोः॥
 
@@ -19389,8 +18567,6 @@ CHAPTER XI
 
 शून्ये मृत्युं विजानीयात्‌ तस्माच्छुन्यं परित्यजेत्‌।
 
-
-
 **कादिमते ऋणशोधनप्रकारः**
 
 यथा—
@@ -19431,8 +18607,6 @@ CHAPTER XI
 
 पातयेद् दिक्षु दुर्गां व वाणीं तारां च भैरवीम्‌।  
 कर्णसूत्रस्योभयत ईशानादिषु योजयेत्॥
-
-
 
 त्रिपुरां भुवनेशीं च पीठेशीं चैव त्र्यम्बकम्।  
 वासुदेवं श्रियं चैव छिन्नमस्तां च चण्डिकाम्‌॥
@@ -19480,8 +18654,6 @@ CHAPTER XI
 ऋतवः स्युर्वसन्ताद्या अहोरात्रं दिने दिने॥
 
 वसन्त-ग्रीष्म-वर्षाख्य-शरद्धेमन्त-शैशिराः।
-
-
 
 हेमन्तः शान्तिके प्रोक्तो वसन्तो वश्यकर्मणि॥
 
@@ -19535,8 +18707,6 @@ CHAPTER XI
 
 पीतं स्तम्भनकार्येषु धूम्रमुच्चाटने स्मरेत्‌।
 
-
-
 उन्मादे शक्रगोपाभं कृष्णं मारणकर्मणि॥
 
 आसनं श्वेतरूपन्तु सात्त्विकं समुदाहृतम्।  
@@ -19586,8 +18756,6 @@ CHAPTER XI
 वामोरूपरि दक्षिणं तु चरणं संस्थाप्य वामं तथा  
 याभ्योरूपरि पश्चिमेन विधिना धृत्वा कराभ्यां दृढम्‌।
 
-
-
 अङ्गुष्ठौ हृदये निधाय चिवुकं नासाग्रमालोकयेत्‌।  
 तत्तद्व्याधिविघाकारि यमिनां पद्मासनं प्रोच्यते॥
 
@@ -19634,8 +18802,6 @@ CHAPTER XI
 मुशलाशनिखङ्गाख्याः शान्तिकादिषु दर्शयेत्‌॥
 
 हस्तौ तु सम्मुखो कृत्वा सन्नतावुन्नताङ्गुली।
-
-
 
 तलान्तर्मिलिताङ्गुष्ठौमुद्रैषा पद्मसंज्ञिका॥
 
@@ -19684,8 +18850,6 @@ CHAPTER XI
 तोयस्य पावकस्योर्ध्वं गतिस्तिर्यग् नभस्वतः।  
 गतिर्व्याम्नों भवेन् मध्ये भूतानामुदयः स्मृतः॥
 
-
-
 धरणेरुदये कुर्यात् स्तम्भनंं वश्यमात्मवित्‌।  
 शान्तिकं पौष्टिकं कर्म तोयस्य समये वसोः॥
 
@@ -19730,8 +18894,6 @@ CHAPTER XI
 अग्निकार्ये जपेत्‌ स्वाहा नमः सर्वत्र चार्चने॥
 
 शान्ति-पुष्टि-वश-द्वेषाकृष्टट्युच्चाटनमारणे।
-
-
 
 स्वधा स्वाहा वषट्‌ हूं च वौषट्‌ फट्‌ योजयेत्‌ क्रमात्‌॥)
 
@@ -19779,8 +18941,6 @@ CHAPTER XI
 
 यदुच्चनीचस्वरितैः शब्दैः स्पष्टपदाक्षरैः।  
 मनुमुच्चारयेद् वाचा स उक्तो वाचिको जपः॥
-
-
 
 शनैरुच्चारयेन मन्त्रमीषदोष्ठौप्रचालयेत्‌।  
 किञ्चिच्छ्रवणयोग्यः स्यादुपांशुः स जपः स्मृतः॥
@@ -19838,8 +18998,6 @@ CHAPTER XI
 
 मुक्तिं च तनुते तद्वत्‌ स्फाटिक्यप्यक्षमालिका।
 
-
-
 **सारस्वते— **
 
 पद्मरागोद्भवां लाभे पुष्कले च धने तथा।  
@@ -19889,8 +19047,6 @@ CHAPTER XI
 होमप्रयोगे कुण्डानि तत्तत्कर्मानुरूपतः।  
 दर्शितानि बुधैः सम्यगीर्यते विधिवन्मया॥
 
-
-
 सर्वसिद्धिकरं कुण्डं चतुरस्त्रमुदाहृतम्‌।  
 पुत्रप्रदंयोनिकुण्डमर्धेन्द्वाभं शुभप्रदम्‌।  
 शत्रुक्षयकरं त्र्यस्रं वर्त्तुलं शान्तिकर्मणि॥
@@ -19935,8 +19091,6 @@ CHAPTER XI
 
 राजस्यो रसना वह्नेर्विहिता वश्यकर्मसु।  
 विश्वमूर्त्ति-स्फुलिङ्गिन्यौ धूर्मवर्णा मनोजवा॥
-
-
 
 लोहिता च करालाख्या काली तामस्य ईरिताः।  
 एताः सप्त नियुज्यन्ते कूरकर्मसु मन्त्रिभिः॥
@@ -19989,8 +19143,6 @@ CHAPTER XI
 
 अथ वक्ष्ये महादेवि होमकर्मसु सिद्धिदम्‌।
 
-
-
 अग्निचक्रं वरारोहे सर्वचक्रेषु गोपितम्‌॥
 
 नवग्रहमयो बह्निस्ते च वह्निमया ग्रहाः।  
@@ -20036,8 +19188,6 @@ CHAPTER XI
 
 गुरुःस्यादर्थलाभाय राहुर्हानिकरो मतः।  
 केतुना मृत्युमाप्नोति ह्यग्निचक्रे सदैव हि॥
-
-
 
 त्रयं त्रयं च गणयेत्‌ सूर्यर्क्षाद्दिनभावधि।  
 कुण्डे च स्थण्डिले चैव होतव्यं देशिकोत्तमैः॥
@@ -20090,8 +19240,6 @@ CHAPTER XI
 गुड़ेन प्रियता प्रोक्ता चम्पकैः पाटले रमा ।  
 पुत्रहोमे सुतावाप्तिः करवीरैस्त्रियो वशाः॥
 
-
-
 आयुष्करी भवेद् दूर्वा गुडुची रोगशान्तिदा।  
 तिला अपि तथा प्रोक्ताः सौभाग्यं गन्धहोमतः॥
 
@@ -20138,8 +19286,6 @@ CHAPTER XI
 
 कार्पासनिम्बैस्तक्राक्तैर्नरकेशैस्तथापि वा।  
 एकीकृत्य हुनेन्‌ मन्त्री शत्रुमारणकाङ्क्षया॥
-
-
 
 जुहुयात्‌ सार्षपैस्तैलैरथवा शत्रुमारणे।  
 रोहीवीजैस्तिलोपेतैरुच्चारे जुहुयान्नरः॥
@@ -20188,8 +19334,6 @@ CHAPTER XI
 उष्णोदकं समारीचं मारण-स्तम्भयोर्भवेत्॥
 
 द्वेषोच्चाटनयोः प्रोक्तं जलं मेषसृजायुतम्।
-
-
 
 तर्पणद्रव्यमाख्यातमिदमागमपारगैः॥
 
@@ -20244,8 +19388,6 @@ CHAPTER XI
 गद्यपद्यमयी वाणी सभायां तस्य जायते।  
 पद्मावतीमनुं जप्त्वा सहस्रं प्रयतोऽब्रवीत्‌॥
 
-
-
 चतुष्पथे बलिं दद्यात्‌ स स्याद् द्रुतकविर्धुवम्।  
 शताभिजप्तमात्रेण रोचनातिलकं नरः॥
 
@@ -20292,8 +19434,6 @@ CHAPTER XI
 
 धूम्राभां पूजयेद् वायुमण्डले पूजिता तथा।  
 उन्मादयति शत्रूणां बलं बुद्धिं न संशयः॥
-
-
 
 **सुरेन्द्रसंहितायाम्‌— **
 
@@ -20342,8 +19482,6 @@ CHAPTER XI
 ततश्चराचरं सर्वं ज्ञात्वा सर्वज्ञतां लभेत्‌।  
 ततो जपेन्‌ महाविद्यां वाफ्पतिर्जायते नरः॥
 
-
-
 वादे सदसि या वाक्यस्तस्भिनी प्रतिवादिनाम्‌।  
 तत्पण्डितघटाटोप-तेजःप्रतिहतप्रभः॥
 
@@ -20389,8 +19527,6 @@ CHAPTER XI
 
 विभीतकेन निम्बेन शत्रुं मारयते क्षणात्‌।  
 सर्षपं राजिलवणं मरीचं हिङ्गुरर्कजम्‌॥
-
-
 
 मारणे चाभिचारे च तत्तद्द्रव्यमुदाहृतम्।  
 एकैकं फलपुष्पादि द्राक्षा चैव तु पञ्चकम्‌॥
@@ -20446,8 +19582,6 @@ CHAPTER XI
 अष्टसिद्धिकरं साक्षान्‌ महापातकनाशनम्‌।  
 हविष्याशी मुक्तकेशो जपेदयुतमादरात्‌॥
 
-
-
 गद्यपद्यमयी वाणी तस्य सर्वविधा भवेत्।
 
 **सिद्धतारस्वते—**
@@ -20502,8 +19636,6 @@ CHAPTER XI
 
 एवं यः कुरुते कर्म स स्याद् द्रुतकविर्ध्रुवम्‌।
 
-
-
 अर्धरात्रे ततो नित्यं बलिं दधाच्चचतुष्पथे॥
 
 प्रणवं पूर्वमुल्लिख्य हृल्लेखां च ततःपरम्‌।  
@@ -20553,8 +19685,6 @@ CHAPTER XI
 
 आदौ संस्कारः कर्त्तव्यस्तदन्ते विलिखेन्‌ मनुम्‌।
 
-
-
 गन्धचन्दनपुष्पैश्च पूजयेत्‌ तारिणीं शिवाम्‌॥
 
 उत्तराभिमुखो भूत्वा स्थापयेत्‌ पीठमुत्तमम्‌।  
@@ -20601,8 +19731,6 @@ CHAPTER XI
 कृपया हर विघ्नं मे मन्त्रसिद्धिं प्रयच्छ मे॥
 
 मितिमातृमये देवि मितिमातृबहिष्कृते।
-
-
 
 एके बहुविधे देवि विश्वरूपे नमोऽस्तु ते॥
 
@@ -20651,8 +19779,6 @@ CHAPTER XI
 
 स्थापयेद्‌ द्वारदेशेच अशोकदक्षिणत्वचम्।  
 एतानि स्थापयित्वा तु जम्बुत्वचं सलोमकम्॥
-
-
 
 यः स्थापयेत्‌ सदा द्वारे तस्य विघ्नविनाशनम्‌।  
 निशाभागे त्रयोदश्यां पूजयित्वा तु तारिणीम्‌॥
@@ -20706,8 +19832,6 @@ CHAPTER XI
 तिथिक्रमेण संख्याभिर्लताभिर्वेष्टितो यदि।  
 तदा मासेन सिद्धिः स्यात्‌ सहस्रजपमानतः॥
 
-
-
 अष्टम्यां च चतुर्दश्यां द्विगुणं यदि जप्यते।  
 तदैव महती सिद्धिर्देवानामपि दुर्लभा॥
 
@@ -20756,8 +19880,6 @@ CHAPTER XI
 दूर्वाकाण्डेन वा लिख्यात्‌ कुशमूलेन वा पुनः॥
 
 वेष्टितं पीतवस्त्रेण जतुना परिवेष्टयेत्‌।
-
-
 
 बध्नीयात्‌ पट्टसूत्रेण शिशूनां कण्ठभूषणम्‌॥
 
@@ -20812,8 +19934,6 @@ CHAPTER XI
 
 बध्नीयात्‌ पट्टवस्त्रेण शिशूनां कण्ठभूषणम्‌।
 
-
-
 स्त्रीणां वामकरे धार्यं पुसां सव्यकरे तथा॥
 
 बन्ध्याऽपि लभते पुत्रं निर्धनो धनमाप्नुयात्‌।  
@@ -20862,8 +19982,6 @@ CHAPTER XI
 
 विवस्वानतितेजस्वी सर्वज्ञो भगवान्‌ भवः।
 
-
-
 जगद् विजयतेऽनङ्गो जगदानन्दकृच्छशी॥
 
 कलयत्यखिलं कालो यस्य वीर्येण भैरवि।  
@@ -20910,8 +20028,6 @@ CHAPTER XI
 येन मायासुरी दैवी गान्धर्वी मानुषी प्रभो॥
 
 यक्षविद्याधराणां च राक्षसी दानवी तथा।
-
-
 
 न वाधन्ते कूटमायाशस्त्राण्येनं तथा कुरु॥
 
@@ -20960,8 +20076,6 @@ CHAPTER XI
 
 स्वाहान्तोऽयं भयङ्करी श्रीमद्भुवनतारिणी।
 
-
-
 श्यामां द्वादशहस्तां च रक्तवस्त्रां शवासनाम्‌॥
 
 खङ्गकर्त्तृधरां नित्यां संस्मरेद हृदयाम्बुजे।  
@@ -20989,36 +20103,20 @@ CHAPTER XI
 
  ॐ ह्रीं हूं क्षौं सर्वविघ्नानुयुत्सादय विदार्य हूं फट्‌ स्वाहा विघ्नतारा दिक्षु मां पातु सर्वदा॥ॐ ह्रीं स्त्रीं आः सुरेखे हूं वज्ररेखे ठः हूं फट्‌ स्वाहा पातु भुवि प्रीता मां सुरेखोग्रतारिणी॥ इत्यष्टौ कुल्लुकामन्त्रान् विन्यस्य साधकोत्तमः। चतुरशीतिभेदांस्तान्‌ मूलस्थान् विग्रहे न्यसेत्‌॥ ॐ शिरो मे ह्रीं स्त्रीं हूं फट् पातुमां पञ्चतारिणी। या देव्येकजटा नाम त्र्यैलोक्ये जाड्यहारिणी॥ नेत्रयोर्ह्रींस्त्रीं हुं पातु नीला देवी त्रिलोचना। भाले श्रीं ह्रीं स्त्रीं हं सः हूं फट्‌ स्वाहा भीमतारिणी॥ भ्रुर्वोर्मध्यं पातु नित्यंॐ ह्रीं हंसः सहीं सहुं । फट् स्वाहा ज्ञानतारा या अज्ञानेन्धनदाहिनी। ॐ ह्रीं हंसः श्रीं हं सः स्त्रीं हुं फट् श्रीं प्राणतारिणी। पातु मां नासिकामध्ये सर्वापत्क्षयकारिणी। क्लीं ह्रीं स्त्रीं हुं ॐ क्लीं हुं फट् पातु मोहनतारिणी॥ मुखपद्मेऽङ्कुशाम्भोज-वराभयकराम्बुजा। ॐ ह्रीं हुं फट्‌ पातु ओष्ठं लम्बोष्टी विश्वमोहिनी॥ आं ह्रीं ऐं हूं हूं हसस्त्रीं फट् टअधरं पातु मे सदा। अनन्ततारिणी देवी भोगमोक्षफलप्रदा। ऐंॐहूं ऐं स्त्रीं ह्रीं फट्हूं ऐं वाक्तारिणी परा॥ मां पातु वाक्प्रदा देवी वचने मङ्गलप्रदा। ॐ तारे स्त्रीं महातारे हूं तारिण्युप्रतारिणी॥ रश्च रक्ष जगत्तारे हुं फट्‌ तारिणी
 
-
-
  पाहि माम्‌।ॐ ह्रीं श्रीं ज्रीं स्त्रीं ह्रीं फट् ऐं ह्रीं वद वाग्विभवप्रदे॥ सर्वज्ञाज्ञापय स्त्रीं हूं जिह्वां मे रक्ष तारिणी। ऐं हीं हूं स्त्रीं हसस्त्रीं फट्‌ वाचीं चण्डोग्रतारिणी॥ पातु मे चिवुकं देवी चण्डभीतिविनाशिनी॥ ॐ कलह्रींहूं हसस्त्रीं क्लीं क्लीं फट्‌ कालतारिणी। कपोलौ पातु मे उग्रा स्वर्णाभा नागकुण्डला॥ ॐयुं हूं हूं श्रीं हसस्त्रीं क्लीं ह्रीं हुं ह्रींहूं फट् ऐं सदा। कर्णौ पातु महामाया विद्या श्रीशब्दतारिणी॥ॐ श्रीं ग्लौ गं हूं हसस्त्रीं ऐं गण्डौ पातु मे सदा। पद्मयुग्मवराभीतिधारिण्यभयतारिणी॥ ॐ क्लीं किलि किलि स्त्रीं फट् कण्ठं पातु सुतारिणी श्रीं श्रीं ह्रीं ऐं स्त्रीं च्लूं हसस्त्रीं हूं फट्‌ स्त्रीं हूं क्षें हूं करालिनी रक्ष रक्ष महातारे हूं फर्ट् स्वाहा ककुत्स्थलम्‌॥ ॐ ज्रीं ह्रीं स्त्रीं हूं हूं सस्त्रीं हूं फट्‌ ग्रीवां रक्ष तारिणी॥ ॐ ह्रीं हूं त्रीं क्लीं हसस्त्रीं भस्त्रीं भस्त्रीं जये जये महोग्रे पिङ्गलजटे ह्रीं स्त्रीं हूं फट्‌ स्वाहाऽवतु स्कन्धौ मे जयदा पातु देवी विजयतारिणी॥ ॐ हूं ह्रींत्रींह्रीं द्रां द्रीं क्लृं हं सः ऐं हुंफट्‌। बाहुमूले पातु नित्यं मम सा जयतारिणी॥ ॐ द्रां द्रीं दाविणि क्लिन्ने द्रावय द्रावय द्रुतम्‌। सर्वशत्रून् महामाये महातारिणि ह्रीं सह्रीं फट्‌ स्वाहा बाहुमध्यं मे पातु विद्रावतारिणी॥ ॐ ह्रीं क्षंभमलवरयूं श्रीं क्षीं हूं सह्रों सः फट्‌। करौ पातु सिद्धितारा मम सर्वार्थसाधिनी। आं ह्रीं क्रों हूं हसस्त्रीं फट्‌ अङ्गुलीर्ऋद्धितारिणी॥ ॐ खफ्रें स्त्रीं हूं हं सः क्ष्रींनखानखण्डतारिणी॥ ॐ ह्रीं हूं द्रां द्रीं हं च्लूं स्त्रीं सः खफ्रें चण्डयोगिनि योगेश्वरि महातारे तारकासुरमर्दिनि मदय प्रमथान्‌ दुष्टान्‌ मम शत्रून्‌ विदारय शोषय त्रोटय क्षां क्षीं धूं धूं बन्धय बन्धय सर्वारिष्ट संहर स्त्रीं करौ महोग्रतारिणी पातु मे विजयानन्ददायिनी खङ्गधारिणी॥ ॐ स्त्रींहूं यरलवसहूं हसक्षमलवयूं ह्रीं ह्रीं ॐ कुक्षिदेशं मे पातु योगिनीतारिणी॥ ॐ ह्रींह्रीं हूं हूं स्त्रीं स्त्रीं सः क्लीं क्लीं विमोक्षदे हंसः क्लीं सहीं पाहि मां पार्श्वयोर्भृगुतारिणी स्वाहा हंसः॥ ॐ ह्रीं स्त्रीं हूं फट् सोऽहं महोप्रतारिणी। पाहि मां हृदयासन्ना प्राणशक्त्युपवृंहिता॥ ॐ तारे तारय त्रीं हूं हंसस्त्र्यैलोक्यत्राणकारिणी। हूं फट्‌ स्वाहा स्तनद्वन्दं रक्ष मे विजयप्रदे॥ ॐ क्षां हूं कलहस्त्रीं फट्‌ कालरुद्रनिवारिणी। रक्ष रक्ष हूं फट्‌ ऐं हूं उदरं रुद्रतारिणी॥ ॐ ह्रीं भस्त्रीं हसस्त्रींफट्‌ नाभिं मे जीवतारिणी। ह्रीं क्लीं हूं सहस्त्रीं फट् लिङ्गं प्रजनतारिणी ॥ ॐ ह्सौंह्रींहसस्त्रीं हूं हूं क्लीं स्त्रीं फट् सदा मम। आधारं पातु सा देवी त्र्यैलोक्याधारतारिणी॥ ॐ हूं ह्रीं स्त्रीं जम्भिनि श्री ह्रीं वशिनि क्लीं मोहिनि द्रां द्राविणि मे शत्रून्‌ हन द्रावय मोहय क्षोभय
-
-
 
 क्षोभय हूं हं द्रुतं जम्भय जम्भय तारे तारिणि रुद्रास्थिधारिणि ब्रह्मरूपिणि ब्रह्मविष्णुशिवत्राणकारिणि क्षींफट्‌ अम्बिके रक्षिणि तारिणि देवि त्रिखण्डं पातु मे सदा। हूं ह्रीं स्त्रीं श्रीं हसस्त्रीं ह्रीं हूं फट्‌ स्वाहा ममाऽवतु। नितम्बस्थूलसर्वाङ्गी सर्वदा सर्वतारिणी ह्रां हूं ह्रीं क्लीं ब्लूं स्त्रीं हूं फट्‌ ऊरूमे भङ्गतारिणी॥ ॐ झिंज्रीं क्रीं हसस्त्री फट् हूं ह्रीं जम्भय मोहय स्तम्भय द्रावय द्रां द्रीं क्लीं च्लूं सः शश्रुपक्षगान्‌ मम जानुयुगं रक्ष देवी जम्भकतारिणी ॥ ॐ श्रीं हूं ह्रींजी झिं श्रीं हूं हूं ममाऽवतु। जङ्घायुग्मं महादेवी पातु सा भ्रमतारिणी ॥ ॐ ह्रीं गां गीं ग्लौं गूंगैं गौं ग्लौ हूं स्त्रीं फट्‌ परमेश्वरी। गुल्फयुग्मं सदा पातु देवी श्रीगणतारिणी॥ ॐ हूं फट्‌ पादपृष्ठं पातु परोक्षतारिणी ॥ ॐ हूं ह्रीं फट् महातारा पातु मे चरणाङ्गुलीः॥ ॐ ह्रीं स्त्रीं ग्लौं लंहसस्त्रीं हूं फ्ट्स्वाहास्वरूपिणी। पादाधः पातु मे नित्यं देवी श्रीभूमितारिणी॥ ॐ क्षौं क्षीं हूं ह्रीं स्त्रीं ह्सौ फ्रें फट्‌ ईश्वरि। तुरु तुरु स्त्रीं श्रीं ह्रीं हूं वज्रतेजोमये ऐं फट्‌ सर्वास्त्रशस्त्रवारिणि सर्वप्रहरणनिसूदिनि सर्वकृत्याभिचार-ग्रहारिष्टनिवारिणि सर्वास्त्राणि स्तम्भय स्त्रीं मर्दय ह्रीं विदारय भञ्जय द्रां बन्धय क्लूं सन्तापय ह्सौं हः फट्‌ महोग्रतारिणीविद्या रोमकूपानि मेऽवतु। सर्वायुधकरा देवी सर्वतोऽभयदायिनी॥ ॐ ह्रीं भ्रूं त्रूं रूं व्रूं हूं नमो भगवति दंष्ट्रिणि भीमवक्त्रे महोग्ररूपे कालिके केलिनिश्चले क्लुं क्लुं क्लुंविद्युज्जिह्ने हूं हूं कटिश्रोणिमांसाभरणे विशालमुण्डमालाधारिणि द्रावय द्रावय महारौद्रिपरभट-गजाश्वहृच्छोषिणि अखिलदृष्टिमूषिणि निखिलास्त्रपरीवर्त्तकारिणि भ्रुकुटीकृतनयने विषमनेत्रे महारक्तवसामांसवसामेदोपलिप्तगात्रे कहकहमहमहर्भ्रुदभ्रूदनानाजीमूतवर्णे विस्रवद्घण्टावकीर्णदेहे शवमांसप्रिये बिम्बे बिम्बे रणबिम्बे रौद्ररूपेह्रौं ह्रौं हूः कुन्त कुन्त आकर्षय आकर्षय धुनु धुनु हें हः खफ्रें विजृम्भिति हूं क्षौं नमो जय त्र्यैलोक्यविजये हूं फट्‌ स्वाहा त्र्यैलोक्यविजया तारा सर्वाङ्गं मे सदाऽवतु॥ ॐ ह्रीं स्त्रीं चां चीं चैं हूं फट्‌ श्रीं ह्रीं महेश्वरि हूं विध्यत्प्रभे विद्ये विजयानन्ददाऽवतु॥ ॐ ह्रीं स्त्रीं चां चीं चैं हूं फट् श्रीं ह्रीं महेश्वरि हूं विद्यत्प्रभे विद्ये विजयानन्ददायिनि चिदानन्दमये देवि चेतने चित्स्वरूपिणि हंसः हंसां हंसीं हूं सः पातु चैतन्यतारिणी॥ इति त्रिर्व्यापकं कृत्वा अष्टाधारान्‌ प्रविन्यसेत्‌। शिवशक्त्यात्मकैर्वर्णैस्तारिणीमन्त्रसंयुतैः॥ ॐ ह्रीं स्त्रीं डां डीं डूं डैं डः डरलकसहै हूं वं शं षं सं ग्लौ भूमितत्त्वात्मिके डाकिनि तारिणि कालाग्निरद्रसहिते ममाधारं सदाऽवतु। ऐं ह्रीं श्रीं हसखफ्रें ह्सौ यरलवसहूं हसौं हसखफ्रें श्रीं ह्रीं ऐं
 ॐआधारवासिनि कालाग्निरुद्रसहिते ममाधारं रक्ष रक्ष स्वाहा।
 
-
-
 ॐ ह्रीं हुं रां रीं रुं रैं रौं रः स्त्रीं रडलकसहैं ऐं ह्रीं श्रीं हसखर्फ्रे स्त्रीं लवरयूं ह्सौ सः फट्‌ श्रीं ह्रीं ऐं वं भं मं यं रंं लं राजसि आप्याश्रये ब्रह्मणा सहिते पाहि अधिष्ठानं जगन्मयि विघ्नान् मे जलजान्‌ छिन्धि रक्ष राकिनि तारिणि॥ ॐ स्त्रीं ह्रीं लां लीं लूं लैंलौं लः फट्‌ ह्सौः सः फट्‌ लडरकसहौं ह्रैं ह्रः ऐं ह्रीं श्रीं सहखर्फ्रे हसौः हसक्षमलवरयूं ह्सौः हसखप्रें श्रीं ह्रीं ऐं डं ढं णं तं थं दं धं नं पं फं सात्त्विके जीवात्मरूपिणि श्रीं ह्रीं रुद्रानन्दप्रदायिनि तेजोमये ज्वलत्कालानलदीप्ते महेश्वरि मणिपूरं सदा पाहि देवि लाकिनि तारिणिॐ ह्रीं हूं कां कीं कूं कैं कौं कः स्त्रीं ह्सौं सः क्लीं कलडरसहौं हूं श्रीं ऐं ह्रीं श्रीं हसखफ्रें ह्सौं ह्सौं हसक्षमलवरयूं ह्सौं हसखफ्रें श्रीं ह्रीं ऐं कं खं गं घं ङं चं छं जं झं ञं टं ठं फट्‌ परतत्त्वात्मिके देवि जगच्चैतन्यकारिणि। विष्णुवक्षःस्थलावासे कमले कमलालये। क्लींकारे कामदे देवि प्राणशक्तिप्रबोधिनि। अनाहतं रक्ष नित्यं देवि काकिनि तारिणि॥ॐ ह्रीं त्रीं हूं ह्रीं श्रीं हौं हैं स्त्रीं ह्सौः फट्‌ परापरे सां सीं सूं सैं सौं सः ह्रीं सः सडरलकहौं ह्रीं ह्रंऐं ह्रीं श्रीं हसखफ्रें ह्सौं क्षमलवरयूं हसौं हसखफ्रें श्रीं ह्रीं ऐं ह्रीं फट्‌ परापरापरे अं आं इं ईं उं ऊं ऋृं ऋृृं लृं लृृं एं ऐं ओं औं अं अः फट्‌ आकाशात्मिके देवि विद्युन्मति-विरोचने हिरण्यगर्भाश्रये देवि ग्लौः हूं विशुद्धं पाहि मे सदा। चण्डमण्डलसङ्काशे देवि साकिनि तारिणि॥ ॐ ह्रीं स्त्रीं हुं हां हीं हूं हैं हौं हः फट् श्रीं हसकलरडैं ऐं ह्रीं श्रीं हसखफ्रें ल्हौः ह्रीं त्रीं फट्‌ ठं ठः स्फुर स्फुर लव प्रक्ष सहस्त्रीं हसौं हसखफ्रें श्रीं ह्रीं ऐं हं क्षं हं सः हुं सोहं ह्रीं फट्‌ मनोमये ब्रह्मतारालये ईशे सदाशिवहृदिस्थिते साभिलाषं मनो नित्यं पाहि हाकिनि तारिणि॥ ॐ ह्रीं स्त्रीं हंयां यीं यूं यैं यौं यः सौं हं हं सीं स्त्रीं ह्सौं ऐं ह्रीं श्रीं हूं हसखफ्रें ह्सौं भगवत्यम्ब-चिन्मये बुद्धितत्त्वात्मिके हसक्षमलवरयूं हसक्षमलवरयीं ह्सौं सहखफ्रें श्रीं ह्रीं ऐं प्रज्ञां रक्ष जगन्मये निखिलप्रपञ्चरुपिणि हंसः सोहं ह्सौं सः फट् जगत्तत्त्वात्मिके देवि एकपत्रं ममाऽवतु॥ ॐ हीं स्त्रीं हुं जगद्धात्रि जगदानन्ददायिनि ह्रां ह्रीं हूं ह्रैं ह्रौं ह्रः स्त्रीं फट्‌ जगदाहादरूपिणि ह्रींकारं मे अहंतत्त्वं पातु सञ्चित्‌स्वरूपिणी ऐं ह्रीं श्रीं हसखफ्र ह्रीं हूं क्लीं सः हसौं स्त्रीं फट्‌ अघोरमुखि तारे हूं सर्वप्रत्ययकारिणि ह्सौ ऐं ह्रीं हसखफ्रें सक्लीं हूं श्रीं ह्सौं ह्रीं ऐं सः सहस्राराधिष्ठिते हूं ह्रीं महाशिवविभूषणे रक्ष रक्षाहङ्कृतिं मे जगच्चैतन्यतारिणि॥ ॐ ह्रीं हूं स्त्रीं हसस्त्रीं हसकलह्रीं ह्सौं तारिणि ब्रह्मतारिणि हसौं हसखफ्रें हश्चीं भ्रीं ह्रीं ऐं परमे परमे परे घोरे घोरे महाघोरे अघोरे घोररूपिणि घोरघोरतरे भस्रां भस्रीं हूं हुं परमेश्वरि चिदानन्दपरब्रह्मतारिणि श्रीं सः ह्रीं सः फट्‌ परमे शिवपर्यङ्के शुद्धपद्मा-
-
-
 
 सनस्थिते सहजानन्दसुस्निग्धे पाहि मामुप्रतारिणी। नवताराः प्रविन्यस्य षड़ङ्गं विन्यसेत्‌ पुनः॥ ऐं क्लीं सौं ॐ हसस्त्रीं हूं ह्रीं स्त्रीं फट्‌ स्वाहा हृदयेऽवतु खङ्गोत्पलवराभीतिधरा भैरवतारिणीं ऐं क्लीं सौः इं ऐं कलह्रीं हसकलह्रीं सक्लीं क्लीं ह्रीं हूं ह्रीं स्त्रीं हूं क्लीं सौः मातङ्गिनि मोहिनि ह्रीं श्रीं हूं ऐं वज्रवैरोचनीये हूं हूं ऐं हूं फट्‌ स्वाहा ह्रीं शिरसे पातु देवि खङ्गोप्रतारिणि ॥ॐ इं ऐं कलह्रीं श्रीं ह्रीं हूं स्त्रीं हुंफट् श्रीं हसकलह्रीं स हूं ह्रीं शिखां पाहि मम त्र्यैपुरतारिणि ह्रीं स्त्रीं हूं श्रीं ह्रीं त्रीं ऐं वज्रवैरोचनीये हूं हुं फट्‌ स्त्राहा वज्रतारे ममाङ्के वज्रतां कुरु। कवचं मम सर्वाङ्गं रक्ष श्रीवज्रतारिणि॥ ॐ हूं ह्रीं ऐं क्लीं सौः नमो मातङ्गतारिणीश्वरि। सर्वमुखरञ्जनि श्रीं सर्वसत्त्ववशङ्करी स्त्रीं सर्वस्त्रीपुरुषवशङ्करि सर्ववैरिवशङ्करि ह्रीं क्लीं ह्रीं हूं हूं हस्त्रीं सर्वराजवशङ्करि सर्वदुष्टवशङ्करि ऐं क्लीं सौः नेत्रमण्डले सदास्थिता पाहि तारे मातङ्गि विश्वमोहिनि॥ ॐ ह्रीं स्त्रीं हूं फट् क्रीं कीं क्रीं हूं हुं ह्रीं ह्रीं ह्सौः स्त्रीं ह्रः फट् स्त्रीं हुं ह्रीं ॐ कालि कालि ॐ ॐ ॐ ह्रः स्त्रीं हूं खर्फ्रे क्षौं क्षः स्त्र्यौं स्त्र्यः सहैं हं सः नमो भगवति सस्फृं प्रचण्डबालिके खङ्गशूलगदाधरे हूं हूं ह्रें ह्रैं सर्वशक्तिधरे सर्वारिसूदनि रक्तमांसाशने भीमे खर्पखट्वाङ्गधारिणि मां रक्ष रक्ष विजये मम शत्रुन्‌ विनाशय विनाशय सर्वदुष्टानरिष्टान्‌ निवारय सर्वग्रहयक्षभूतक्रूरमातृभयं हन कुष्माण्ड-भैरव-क्षेत्रपाल-डाकिन्युरङ्गमान्‌ निवारय निवारय खेचरान् ब्रह्मराक्षसान् ये मां हिंसन्ति प्रत्यक्षं कृत्याद्रोहस्य कारकाः परोक्षे वा तान्‌ ज्वल ज्वालिनि हूं हन क्षयं नय नय प्रमर्दय प्रमर्दय प्रणाशय प्रणाशय शोषय शोषय भ्रुं रूं क्षीं क्षौःं भ्रैं फट्‌ करद्वयम्‌। कालिकामन्त्रतो न्यस्य गायत्र्या व्यापकं चरेत्‌॥ ह्रीं स्त्रीं हूं फट् एकजटे विद्महे ह्रीं स्त्रीं हूं परे नीले विकटदंष्ट्रे ह्रीं धीमहि॥ ॐ ह्रीं स्त्रीं हूं फट् ऐं सः स्त्रीं तन्नस्तारे प्रचोदयान्‌ मां पाह्युग्रतारिणि ॥ ॐ अक्षोभ्यः शिरः पातु सर्वदा क्षोभकारकः । पूर्वे ऐं ह्रीं श्रीं ॐ मां रोचनः पातु सर्वदा॥ ऐं ह्रीं श्रीं ॐ पश्चिमेऽव्यात्‌ सर्वदा सिद्धिनायकः। ऐं ह्रीं श्रीं हुं फट्आग्येय्यां नामको मां सदाऽवतु॥ ऐंहीं श्रीं हूं फट् नैऋृत्यां मां पातु मामकः सदा। ऐं हीं श्रींहुंफट्‌ वायव्यां पातु पावकः। सदा ऐं ह्रींश्रीं हुंफट्‌ ऐशान्यां तारकः पातु मां सदा। तद्बहिः पूर्वदिग्भागे ऐं ह्रीं श्रीं ॐ नमो नमो ब्रह्माणि रक्ष रक्ष हंसवाहिनि हंसिनि आं ह्रीं क्रों ह्रीं ह्सैं स्त्रीं सः असिताङ्गनिषेविते रक्ष रक्ष महामाया हंसः सोऽहंस्वरूपिणी। आग्नेय्यां ऐं ह्रीं श्रीं ह्रौं स्त्रीं हूं फट् इं ह्रीं नमो नमो माहेश्वरि वृषारुढ़ेशूलहस्ते ममाभये हें हौं हूं ह्रीं श्रीं रक्ष रक्ष मां रुरुभैरवभूषणे ऐं ह्रीं श्रीं ॐ ह्रीं हूं स्त्रीं ऐं नमो भगवति ह्रीं ह्रीं कौमारि मां रक्ष रक्ष दक्षिणे शिखि-
 
-
-
 वाहने शक्तिहस्ते ऐं ह्रीं ह्रैं चण्डभैरवभूषिते ऐं ह्रीं श्रीं ह्रीं हुं फट्‌॥ॐ ग्लौं नमो भगवति स्रुवं वाराहि मां रक्ष रक्ष दंष्ट्रायुधे महाबले उन्मत्तसहिते विद्ये नेऋृत्यां रक्ष मां सदा। ऐं ह्रीं हूंॐ क्लीं हैं हं सः सोहं नमो नमो भगवति वैष्णवि श्रीं ह्रीं श्रीं गरुडवाहिनि चक्रायुधे मां रक्ष रक्ष ऐंजौं हौं हं सौः सः फट् मायासहस्रपरिवर्त्तिनि क्रोधभैरवभैरवि प्रतीच्यां रक्ष देवेशि सर्वविघ्नान्‌ निवारय ऐं ह्रीं श्रीं ॐह्रीं ह्रीं द्रीं त्रीं ह्स्रैंऐं त्रां इं ऊं ह्रीं नमो नमो भगवत्यजिते ऐन्द्रि गजराजोपरिस्थिते वज्रहस्ते हैं ह्सौं मम वैरिविनाशिनि कपालिसहिते रक्ष वायव्यां दिशि मां सदा। ऐं ह्रीं श्रींॐ स्त्रीं हूं फट् चां चां चीं चैं नमो भगवति श्रीं चामुण्डे शववक्षःस्थे खट्वाङ्गायुधधारिणि ह्रौं ह्रीं ह्सौं भीषणाख्ये उदीच्यां रक्ष मां सदा ऐं ह्रीं श्रीं ऊं इं लंह्रींॐ ह्रीं स्रीं स्त्रीं हूं फट् नमो नमो भगवति महालक्ष्मि पद्मासनसंस्थिते परे पद्मायुधधरे ॐ ह्रीं ह्क्लीं ह्क्लीं ह्सैं हस्त्रीं विभूतिदे संहारभेरवानन्दे ऐशान्यां पाहि मां सदा। ऐं हैं हौं हेतुकः पातु पूर्वे ऐं वंहूं फट् ह्रौं स्लौं सः फट् आग्नेये त्रिपुरान्तकः क्लौं हूं याम्ये ऐं वं वह्णिवेतालः पातु मां भयाद् दक्षिणेऽव्यादग्निजिह्वः ऐं अं कं नैऋृत एव मे हूं ह्रीं क्रें इं कां भ्रूं ह्रीं हूं कालाक्षः पातु मां सदा। वायुकोणे ऐं मं हुं मतयो भेरवोऽवतु। उदीच्यां एं ऐं हुं फट्‌ एकपादः सदाऽवतु ऐं भीमा मां पातु भीमवटुक ऐशान्यां पातु मां सदा । ॐ तारे तारे महातारे उत्तारे भयतारिणी।ॐ ह्रीं श्रीं ज्रीं हूं क्रों वंक्रों लं वज्राश्मास्त्राणि मर्दय मर्दय द्रावय ह्रीं हः कहकह विमोडय विमोडय हसस्त्रीं फट् स्वाहैन्द्रास्त्रात्‌ पाहि तारिणी॥ ॐ तारे वं विश्वतारे ह्रीं स्त्रीं वारुणतारिणी। वं क्रों वं क्रोंअग्न्यस्त्राणि स्तम्भय द्रावय द्रुतं परिवर्त्तय कर्तयाशु भ्रामयास्त्रं विदारय सङ्कोचय छेदय स्त्रीं सर्वशत्रुन् विनाशय अग्न्यस्त्रेभ्यः पाहि मां त्वं वह्निस्तम्भनतारिणी॥ ॐह्रीं तारे महातारे कालदण्डविनाशिनि हूं क्रों यं क्रों हसकों फट्‌ दण्डास्त्राणि निवारय भञ्जय त्रोटय क्षुन्न छिन्धि छिन्धि विपाटयास्त्रं स्तम्भय स्तम्भय क्ष्रीं ह्रीं याम्यास्त्राद् रक्ष तारिणी॥ ॐ क्लीं ह्रीं त्रीं विष्णुतारे सर्वासुरविदारिणि असुरास्त्राणि सर्वाणि निवारय विदारय भञ्जय त्रोटय कुन्तं मर्दय त्रोटय द्रुह सर्वासुरप्रररणेभ्य आः सुरेखे सुरेखे हूं वज्ररेखे विदारिणि क्षीं क्षीं क्षुं ह्रीं हुं फट्‌ ह्सौः कृत्याद्रोहं प्रणाशय मायाव्युहं विदारय त्रीं त्रासिनि मां रक्ष आसुरास्त्रेभ्य ईश्वरि॥ ॐ ह्रीं श्रीं हुं महातार ह्रं ह्रः कों वं क्रों वं क्रों क्षूं क्षौं वषट्‌ ज्वल ज्वल शूलिनि क्ष्वीं दुष्टग्रहभयापहे हुं फट् स्वाहा वरुणास्त्रकृत्याद्रोहान्‌ निवारय शोषय क्षोभयक्ष्य्चं फट्‌ भिन्दि भिन्दि विलोपय आप्यदुर्गा आपदोऽस्मान्‌ दुगे दुर्गे रक्षिणि फट्
-
-
 
 स्वाहा मां पश्चिमे पातु श्रीदुर्गोत्तारिणी तु या॥ ॐ ह्रीं श्रीं भीमतारा या ज्ञेया गिरिवराश्रया। महाकटा महावेगा महाधीरा महावला। ह्रां ह्रां स्थां स्थीं महोच्छुष्मा वाद्यस्त्राणि विनाशय। धूं धूं धूमावति क्लिन्ने क्लेदय द्रावयाऽहितान्‌ आधारतारिणि छिन्धि समीरास्त्राणि मे रिपोः॥ ॐ ह्रीं हूं वज्रवैरोचनीये वज्रतारिणी हूं हूं फट्‌ स्वाहा हैं सक्लीं गदां चूर्णय भञ्जय यक्षास्त्राणि यक्षमायां द्रीं द्रावय द्रीं विमोचय उदीच्यां रक्ष मां देवि परितो वज्रतारिणि॥ॐ ह्रीं स्त्रीं क्लीं स्त्रीं कालरुद्रशक्तितत्त्वस्वरुपिणि ह्रैं ह्रौ क्षौं महातारे तारिणि ब्रह्मस्वरुपिणि प्रचण्डे प्रमथास्त्राणि भञ्जय ह्रीं हः खण्डय रौद्रकृत्यापशूनुग्रान्‌ प्रमथान्‌ सर्पराक्षसान् ब्रह्मराक्षसवेतालानुत्सारय निवारय रुद्रास्त्रेभ्यः सदा पाहि मां त्वं प्रचण्डतारिणी॥ॐ ह्रीं हं सः क्रों ॐ हंसः छ्रां सोहं क्रीं वषट् हक्लीं सक्लीं हसक्लीं फट्‌ हूं स्त्रीं ब्रह्मोग्रतारिणि द्रुतं ब्रह्मास्त्राण्युपशान्तिं त्वं नय विश्वात्मिके शिवे वेदोदिताः क्रियाः सर्वाः कृत्याद्रोहफलप्रदाः। ये मामुद्दिश्य कुर्वन्ति तांस्तान्‌ हिंसन्तु हिंसकान्‌। प्रचण्डतारिणी चक्रभीत्या क्रोधाग्निधर्षिताः॥ ॐ ह्रीं स्त्रीं हूं हसस्त्रीं ह्रीं गां गीं गूं गैं गौं गः सः फट् ऐं ह्रीं श्रीं हूं स्लूं सुपर्णे क्रों अम्बान्तां सहौं ह्सौः हंसः सोहं नागबाणान्‌ हन संहन द्रां द्रीं ह्रीं च्लूं स्त्रीं हसस्त्रीं खैं खैं क्षः तार्क्ष्यतारिणि विषसर्पभयास्त्राणि संहराखिलभीतिहेतिनागपाशान्‌ संहरैहि देवि श्रीतार्क्ष्यतारिणी। इति शत्रोरस्त्रदुर्गंनिराकृत्य विशुद्धधीः। पठेदिमं महामन्त्रं सर्वभीतिविनाशनम्‌॥ ॐ ह्सौं वसहूं कलह्रीं हसस्त्रीं फट्‌ नरान्त्रमालाभरणभूषिते महाकौलिनि महाब्रह्मवादिनि महाधनोन्मादकारिणि महाभोगप्रदे अस्मदीयं शरीरं वज्रमयं कुरु कुरु दुर्जनान्‌ हन हन महीपालान् क्षोभय क्षोभय परचक्रं भञ्जय भञ्जय जयङ्करि गगनगामिनि यमलवरयूं हयमलवरयूं भमलवरयूं शमलवरयूं क्षमलवरयूं भमलवरयूं हसक्षमलवरयूं सहक्षमलवरयूं हंसः सोहं हूं ह्रीं स्त्री ह्सौं द्रां द्रीं हूं त्रां त्रीं त्रूं त्र्यैं त्रौं त्रः श्रीमत्कुल्लुकतारिणी सर्वत्र मां रक्ष रक्ष स्वाहा॥ ॐ हीं स्त्रीं श्रीं ह्रीं महादेवि अश्वारुढ़ा जयप्रदा वाहनानि पातु नित्यं मम सवार्थसाधिनी। ह्रीं हैं सुरेखे देवि हूं हूं फट् रथं ममाऽवतु रां रीं रूं रैं रौं रः रक्षिणि हूं फट् परमानन्दतारिणि॥ ॐ हूं पुष्पकेतु राजार्हते गतागतायै सम्यगुदितायै सप्रहराशिनक्षत्रायै उदितादित्यमण्डलवर्त्तिन्यै नित्यचैतन्योदितायै ह्रीं त्रीं परज्योतिस्तारायै हूं फट्‌ स्वाहा ह्रीं ज्योतिस्तारिणि क्लिन्ने क्लेदिनि मे ध्वजं सदा रक्ष रक्ष वैरिपक्षान्‌ क्षयं कुरु नमोऽस्तु ते॥ ॐ क्लीं कामाकर्षिणी मां पातु सवार्थसाधिनी तेजआकर्षिणी बुद्ध्याकर्षिणी ज्ञानाकर्षिणी चित्ताकर्षणदेवी च मोहा-
 
-
-
 कर्षकरूपिणी तपआकर्षिणी शस्त्राकर्षिणी भूताकर्षिणी वाहनाकर्षिणी मन्त्राकर्षिणी क्षेत्राकर्षिणी दुर्गाकर्षणरूपा च रत्नाकर्षणरूपिणी॥ अहङ्काराकर्षिणी च योगाकर्षणरूपिणी। विद्याकर्षणरूपा च श्रद्धाकर्षणरूपिणी॥ओजआकषिणी चैव स्तम्भिनी मोहिनी तथा। द्राविणी क्षोभिणी चैव वशीकरणरूपिणी॥ आकर्षिणी सम्मोहिनी पञ्चवाणेश्वरी परा। सर्वरूपा महातारा समरे पातु मां सदा॥ अरण्ये प्रान्तरे भीमे निरालम्बे जलप्लवे। वराभयाम्भोजहस्ता पातु मामुग्रतारिणी॥ विषमे सङ्कटे घोरे कान्तारे पर्वतालये। खङ्गाम्भोजधरा देवी पातु मां दुर्गतारिणी॥ सिंहव्याघ्रसमाकीर्णे कानने भीषणालये। भीमदंष्ट्रा पातु नित्यं खङ्गखर्परधारिणी॥ सभायां शास्त्रवादे तु रिपुसंघसमाकुले। मुष्टियन्त्रितहस्ता मां पातु नीलसरस्वती॥ खर्वा प्रत्यालीढपदा शवासनगता शिवा। मुष्टिहस्ता स्मृस्ता देवी सद्यः स्तम्भयतेऽखिलान्‌॥ क्षरत्पीयूषकलिका सौम्यस्मेराम्बुजानना। रोगेभ्यः पातु मां नित्यं देवी याऽमृततारिणी॥ प्रमथेभ्यः पिशााचेभ्यो राक्षसेभ्यो ग्रहादपि। ब्रह्मराक्षसवेताल-कुष्माण्डादिभ्य एव च॥ सर्वत्र रक्ष मां देवि सिंहास्याद् भूततारिणी॥ ॐ पूर्वस्यां दिशि चाग्नये दक्षिणे नैर्ऋृते तथा॥ वारणे चैव वायव्ये कौबेरे रौद्रगौरवे। छिद्रस्थानेषु सर्वेषु रन्ध्रदेशेषु च क्रमात्‌॥ कर्त्तृखर्पधरा देवी पातु मामुग्रतारिणी। सैन्यानि वाहनान्येव गजाश्वादीनि मेऽवतु॥ उग्रापत्तारिणी देवी सर्वमङ्गलदायिनी। गोत्रं मित्राणि मे रक्ष पत्नीः प्रणयशालिनीः॥ महोग्रतारिणी पातु सर्वभीतिविनाशिनी॥ ॐ हुङ्कारवीजोद्भवे लोलजिह्ने भयङ्करि। कर्त्तृखर्पधरे उग्रे उग्रतारे नमोऽस्तु ते॥ आकाशनिलये तारे त्र्यक्षरे ब्रह्मवादिनि। सिद्धानां शुद्धिदे शुद्धे नमस्ते चोग्रतारिणि॥ सर्वत्र रक्ष मां देवि भयेभ्यश्चोग्रतारिणि। प्रसादादुग्रताराया न मां हिंसन्ति हिंसकाः॥ ॐ ह्रीं ह्रीं हूं स्त्रीं हसस्त्रीं स्फुर स्फुर हसस्त्रीं फट्‌ प्रस्फुर प्रस्फुर स्त्रीं ह्रीं चट चर हूं ह्रीं श्रीं हसकलरीं प्रचट प्रचट हूं ह्रीं कह कह क्ष्रींक्षीं क्रो हूं वम वम स्त्रीं हूं मे रिपून्‌ घातय घातय हूं फट्‌ क्लीं क्रों ठः क्षीं सः हसक्षमलवरयूं हसक्षमलवरयीं हसखफ्रें ह्सौं सहूं हंसः सोहं हूं फट् सोहं सर्वाह्गं मेऽवतु तारिणी। पातु मे सर्वदा नित्या सर्वमन्त्रप्रबोधिनी। भैरवी सुन्दरी काली मातङ्गी छिन्नमस्तका॥ नीलसरस्त्रती चेति मन्त्रषट्कमुदाहृतम्‌। इति ते कथितं वत्स कथितं देवदुर्लभम्‌॥ त्र्यैलोकक्यविजयं नाम ब्रह्ममन्तैकविग्रहम्‌। अनेन कवची भूत्वा भावयन्नुग्रतारिणीम्‌। आधारस्थां परां शक्तिमाकुच्यानीय यत्नतः॥ षड़ङ्गसहितां मूर्ध्नि परानन्दे निमील्य च। सहजानन्दजं तेज आंत्माभेदेन
-
-
 
 भावय॥ शिवोऽहं भैरवश्चाष्टं नित्यानन्दोऽहमव्ययः। संहर्त्ताऽहं रिपूणां वै महोप्रतारिणी ह्यहम्‌॥ सर्वशक्तिमयो ब्रह्मरूपोऽहं तारिणीमयः। इत्यात्मानं भावयस्त्वं मन्त्राण्यरिषु योजय॥ ब्रह्ममन्त्रं स्मरन् मन्त्रतेजोभिरुज्ज्वलान्यपि। दह्यन्त्यविरलान्येव स्वशुष्कान्यनलो यथा॥ ब्रह्ममन्त्रैः पुटं कृत्वा यो जपेत्‌ तारिकामनुम्‌। कवचं वा तारिकायास्तस्य सिद्धिर्भवेद ध्रुवम्‌॥ ॐ क्लीं ह्रीं ऐं क्लीं सौं कएईलह्रीं हसकहलह्रीं स्त्रीं ऐं क्रों ह्रीं हुं श्रीमदेकजटे ब्रह्मषोड़शीस्वरूपिणि
 त्रिपुरसुन्दरि ह्रीं त्रीं हूं फट् कएईलह्रीं स्त्रीं हूं नीलसरस्वति महातारे सर्वसिद्धि प्रयच्छ ॐ ह्रीं क्लीं लौं स्त्रीं फट् स्वाहा।
@@ -21056,8 +20154,6 @@ CHAPTER XI
 तद्बहिर्दिगस्त्रतारान् सिद्धमन्त्रमुदाहृतम्‌॥
 
 इन्द्रादीनां मनून्‌ बाह्ये सूर्यात्‌ फट्कारगर्भितान्।
-
-
 
 तद्बह्निः कवचं योज्यं लिखेद् गन्धाष्टकैः सुधीः।  
 भूर्जत्वचि कृतावश्यो लिखेद्धेमशलाकया॥
@@ -21102,8 +20198,6 @@ CHAPTER XI
 
 शत्रुतां तस्य ये मूढ़ाः कुर्वन्ति दिग्विदिक्स्थिताः।  
 आत्मकोपाग्निना दग्धाः प्रणश्यन्ति सबान्धवाः॥
-
-
 
 कृत्याद्रोहाः शमं यान्ति साधकस्यास्य दर्शनात्।  
 मुच्यन्ते रोगिणो रोगैर्विषमप्यमृतायते॥
@@ -21150,8 +20244,6 @@ CHAPTER XI
 इतीदं कवचं वत्स कथितं तव भक्तितः।  
 मम प्राणाधिकं ह्येतद्‌ गोप्तव्यं तत्‌ प्रयत्नतः॥
 
-
-
 राज्यं देयं शिरो देयं नेदं कवचमद्भुतम्‌।  
 न कस्मैचित्‌ प्रदातव्यं सत्यं सत्यंशिखिध्वज॥
 
@@ -21197,8 +20289,6 @@ CHAPTER XI
 स्थापयित्वाऽर्चयेद्धीमानुपचारैरुदाहृतैः॥
 
 पुरश्चरणमेतस्य शतार्द्धेनोपपद्यते।
-
-
 
 यथोक्तकुण्डे विहिते स्थापयित्वा हुताशनम्‌॥
 
@@ -21255,8 +20345,6 @@ CHAPTER XI
 
 स्नात्वा सङ्कल्पयेन्मन्त्री गुरोरर्चनमाचरेत।
 
-
-
 गुरुमन्त्रेण विलिखेद् यन्त्रं स्वर्णशलाकया॥
 
 पञ्चगव्यं ततः कृत्वा शिवमन्त्रेण मन्त्रितम्‌।  
@@ -21305,8 +20393,6 @@ CHAPTER XI
 मधुपायससंयुक्तो मधुरत्रयलोलितः॥
 
 सात्त्विको मांसरहितः शेषमन्यत्‌ पुरोक्ततत्‌।
-
-
 
 ब्राह्मणो नियतः शुद्धः सात्त्विकं बलिमाहरेत्॥
 
@@ -21358,8 +20444,6 @@ CHAPTER XI
 
 खङ्गायाऽसुरनाशाय शक्तिकार्याय तत्पर।  
 पशुश्छेद्यस्तया शीघ्रं खङ्गनाथ नमोऽस्तु ते॥
-
-
 
 ततस्तु ताम्रपात्रस्थ-कुशाक्षतजलादिकम्।  
 गृहीत्वा मूलमुच्चार्य सङ्कल्प्य पशुमुत्सजेत्‌॥
@@ -21414,8 +20498,6 @@ CHAPTER XI
 
 कृष्णसारस्य रुधिरैः शूकरस्य च शोणितैः।
 
-
-
 प्राप्नोति सततं देवी तृप्तिं द्वादशवार्षिकीम्॥
 
 अजाविकानां रुधिरैःपञ्चविंशतिवार्षिकीम्‌।  
@@ -21462,8 +20544,6 @@ CHAPTER XI
 
 नाति देवो बलिं तं तु दाता मृत्युमवाप्नुयात्।
 
-
-
 हस्तेन छेदयेद् यस्तु प्रोक्षितं साधकः पशुम्‌॥
 
 पक्षिणं वा ब्रह्महत्यां समाप्नोति सुदुःसहाम्‌।  
@@ -21509,8 +20589,6 @@ CHAPTER XI
 
 पशुस्त्वं बलिरूपेण मम भाग्यादुपस्थितः।  
 प्रणमामि ततः सर्वरूपिणं बलिरूपिणम्॥
-
-
 
 चण्डिकाप्रीतिदानेन दातुरापद्विनाशनम्‌।  
 चामुण्डाबलिरूपाय बले तुभ्यं नमोऽस्तु ते॥
@@ -21560,8 +20638,6 @@ CHAPTER XI
 रुधिराणि प्रदद्यात्‌ तु भूतिकामो नरोत्तमः।  
 हयमेधमृते दद्यान्न कदाचिद् बलिं हयम्‌॥
 
-
-
 तथा दिक्पालमेधेषु गजं दद्यान्नराधिपः।  
 न कदाचित्‌ तथा देव्यै प्रदद्याद्धहस्तिनौ॥
 
@@ -21606,8 +20682,6 @@ CHAPTER XI
 छिन्नलाङ्गुलकर्णादि भग्नशृङ्गं तथैव च॥
 
 भग्नदन्तादिष्तं चापि न दद्यात् तु कदाचन
-
-
 
 सिंहं च दक्षिणे दद्यान्‌ महिषं वितरेत्‌ पुरः॥
 
@@ -21656,8 +20730,6 @@ CHAPTER XI
 **इति महामहोपाध्याय-ठक्कुर-श्रीनरसिंह-विरचिते ताराभक्ति-सुधार्णवे **  
 **काम्यविधिर्नाम दशमस्तरङ्गः॥१०॥**
 
-
-
 **एकदशस्तरङ्गः**
 
 **अथ ताराभेदाः**
@@ -21703,8 +20775,6 @@ CHAPTER XI
 तत्र पूजां विधायादौ सप्तलक्षं जपेन्‌ मनुम्‌।  
 तस्य दर्शनमात्रेण वैरिष्विन्द्रइवाऽपरः॥
 
-
-
 दशदशगुणं जप्त्वा रोचनातिलकं यदि।  
 राजानोऽपि च दासत्वं कि पुनः क्षुद्रमानुषाः॥
 
@@ -21749,8 +20819,6 @@ CHAPTER XI
 
 जलाद् भयं भवेन्नैव उग्रताराप्रसादतः।  
 दंष्ट्रिणां भयमुत्पन्ने दृढ़ंभूत्वा जपेन्‌ मनुम्‌॥
-
-
 
 प्रणवं पूर्वमुद्धृत्य उग्रतारे ततः परम्‌।  
 मां तारय तारय स्वाहा दशवारान्‌ जपेन्‌ मनुम्‌॥
@@ -21800,8 +20868,6 @@ CHAPTER XI
 लुलाप-खर-शार्दूलवश्या मन्त्राः प्रकाशिताः ।  
 सिद्धिमन्त्रस्तु तारायाः कथितो भुवि दुर्लभः॥
 
-
-
 धनुर्विद्यावश्यमन्त्रं खड्गवश्यं तथैव च।  
 शस्त्रनिवारिणी विद्या काण्डनिवारिणी तथा॥
 
@@ -21847,8 +20913,6 @@ CHAPTER XI
 एवं विधिक्रमेणैव मासमेकं प्रपूज्य च॥
 
 मासान्ते च बलिं दत्त्वा करे धृत्वा तु कार्मुकम्‌।
-
-
 
 यस्योद्देशो क्षिप्यते तु यद् गात्रे पतति खलु॥
 
@@ -21896,8 +20960,6 @@ CHAPTER XI
 बीजखण्डाप्रसादेन राजवल्लभतां व्रजेत्‌।  
 उग्रजटाप्रसादेन हृष्टिः पुष्टिः प्रजायते॥
 
-
-
 श्रीवज्रिणीप्रसादेन वज्रदेहो भविष्यति।  
 महाकालीप्रसादेन गुटिका चैव सिध्यति॥
 
@@ -21943,8 +21005,6 @@ CHAPTER XI
 शम्भुपत्नी महेशानि चतुर्वर्गेषु यो जपेत्‌॥
 
 काललक्षं जपेन्‌ मन्त्रमेवमुक्तेन वर्त्मना।
-
-
 
 ध्यानपूजादिकं सर्वं पूर्ववत्‌ समुपाचरेत्‌॥
 
@@ -21996,8 +21056,6 @@ CHAPTER XI
 
 हृल्लेखा चास्त्रमन्त्रान्ते बह्निजायावधिर्मनु।  
 अष्टाक्षरः परः प्रोक्तो वेदमातुरनुत्तमः॥
-
-
 
 पञ्चाङ्गं चास्य मन्त्रस्य पञ्चबीजेन कल्पयेत्‌।  
 अस्त्रं शेषाक्षरैर्न्यस्य कृतकृत्यो भवेन्नरः॥
@@ -22051,8 +21109,6 @@ CHAPTER XI
 श्यामवर्णां द्विनयनां द्विभुजां वरपङ्कजे।  
 दधानां बहुवर्णाभिर्बहुरुपाभिराबृताम् ॥
 
-
-
 शक्तिभिः स्मरेवदनां स्फुरन्मौक्तिकभूषणाम्‌।  
 रत्नपादुकयोर्न्यस्तपादाम्बुजयुगां स्मरेत्‌॥
 
@@ -22102,8 +21158,6 @@ CHAPTER XI
 गद्यपद्यमयीं वाणीं कथयामि विधायिनीम्‌॥
 
 चतुर्लक्षं जपेद् यस्तु सिद्ध्योऽष्टौ भवन्ति हि
-
-
 
 ध्यानपूजादिकं सर्वं पूर्ववत्‌ समुपाचरेत्‌॥
 
@@ -22157,8 +21211,6 @@ CHAPTER XI
 
 मन्त्रशास्त्रेषु संप्रोक्तत्तथा दीर्घेण वर्मणा।
 
-
-
 पुटितं च वधूबीजमपरोऽसौ गुणाक्षरः॥
 
 **तन्त्रशेखरे— **
@@ -22209,8 +21261,6 @@ CHAPTER XI
 पूर्वोक्ते पूजयेत्‌ पीठे पूर्ववत् परमेश्वरीम्‌।  
 विद्याकामश्चरेद्धोमं शर्करापायसैः शुभैः॥
 
-
-
 रक्तां ध्यायेदिमां वश्ये स्तम्भे स्वर्णनिभां स्मरेत्‌।  
 धूम्रामुच्चाटने ध्यायेत्‌ कृष्णां मारणकर्मणि॥
 
@@ -22250,8 +21300,6 @@ CHAPTER XI
 
  वाक्‌ ऐंकारः। शक्तिः ह्रींकारः। कमला श्रींकारः। कामः क्लीं। भृगुः सकारः। औबिन्दुमण्डित औकारानुस्वारयुक्तः। पञ्चबाणः क्लींकारः। परावाचौ ह्रींऐंरुपौ। कुटिलान्ता फकारान्ता बकारः। इन्द्रो लकारः। वामकर्णो दीर्घ ऊकारः। लवो बिन्दुः। तेन ब्लूं। स्त्रीमात्मकः स्त्रीं। नीलतारे स्वरूपम्। सरस्वतीत्यपि स्वरूपम्‌। अत्री दकारौ रेफयुतौ । दीर्घ आकारः।
 
-
-
 वामनेत्र ईकारः। इन्दुरनुस्वारः तैर्युतो। तेन द्रां द्रीं। कामबीजं क्लीं। बलौ बकार-लकारौ। षष्ठस्वर ऊकारः। कुण्डलमनुस्वारः। चन्द्रः सकारः। सर्गो विसर्गवान्‌। पञ्चवाण ऐकारः। तदाद्यं बीजपञ्चकं ऐं क्लीं ब्लूं स्त्रीं सः इत्यात्मकम्। सौरिति स्वरूपम्‌। परा ह्रींकारः । वह्निजाया स्वाहा। तथा—
 
 ऋृष्यादाःपूर्वमुक्ताः स्युः पूर्ववन्न्यासकल्पनम्‌।  
@@ -22290,8 +21338,6 @@ CHAPTER XI
 खेचरी भूचरी सिद्धा कामाख्या हिङ्गुला बला॥
 
 जया च विजयाऽजिता नित्यायुक्ताऽपराजिता ।
-
-
 
 विलासिनी तथा घोरा चित्रा मुग्धा कुलेश्वरी॥
 
@@ -22339,8 +21385,6 @@ CHAPTER XI
 
 शम्मुर्हकारः। जीवः सकारः। कल इति स्वरूपम्‌ । ईशो हकारः। अग्नी
 
-
-
 रेफः। मण्डितेत्यनन्तरमकारप्रश्लेषः। तेन च बिन्दुरूपं लक्ष्यते। बिन्दुमालिनी ईकारः। तेन हसकलह्रीं। वाक्‌ ऐं। वह्निसुन्दरी स्वाहा। शेषं स्वरूपम्‌।
 
 वाग्रुद्धः कुलजे शब्दः सरस्वति शिरो नमः।  
@@ -22378,8 +21422,6 @@ CHAPTER XI
  भूधरो बकारः। भूधरो लकारधरः। वामकर्णं ऊकारः। इन्दुखण्डोऽर्धचन्द्रः। तेन ब्लूं। भग एकारः। तद्वत्‌ तद्युक्तम्‌। चन्द्रोऽर्धचन्द्रः। तद्वत्‌ तद् युक्तम्। नीरं वकारः। तेन वें। तृतीयकं त्रींकरः। क्रोधः हुंकारः।
 
 वाग्भवो वाग्युतः शम्भुर्हींपुनः किलियुग्मकम्‌।
-
-
 
 विच्चे नवाक्षरीमेनां किलिनाम्नीं समर्चयेत्॥
 
@@ -22427,8 +21469,6 @@ CHAPTER XI
 खट्वाङ्गं मुशलं दोर्भिः शत्रुभक्षणमानसाम्‌॥
 
 भक्तानां वरदात्रीं च रक्षयन्तीं च साधकम्‌।
-
-
 
 अनेन ध्यानयोगेन तत्‌ तत्‌ कर्म समाचरेत्‌॥
 
@@ -22479,8 +21519,6 @@ CHAPTER XI
 
 पुनश्चतुर्मुखं देवि तकारेण विभूषितम्‌।
 
-
-
 स्वरेणैव चतुर्थेन चन्द्रखण्डेन च प्रिये॥
 
 लाच्छितं वै महाबीजं चतुर्वर्गफलप्रदम्।  
@@ -22526,8 +21564,6 @@ CHAPTER XI
 निर्लपं निर्गुणं शुद्धमात्मानं देवतामयम्‌।  
 सर्वपापविनिर्मुक्तं देहं संचिन्त्य साधकः॥
 
-
-
 शरीरस्य विशोधेन प्राणायामं चरेत्‌ ततः।  
 अघोरमूलबीजेन प्राणायामत्रयंस्मरेत्‌॥
 
@@ -22571,8 +21607,6 @@ CHAPTER XI
 
 एताः स्मृताश्चतुर्थ्यन्ता नमोऽन्ताश्च विचक्षणैः।  
 देहपीठे ततोदेवीं ध्यायेत्‌ सुस्थिरमानसः॥
-
-
 
 कृष्णां लम्बोदरीं भीमां नागकुण्डलशोभिताम्।  
 रक्तमुखीं ललज्जिह्वां रक्ताम्बधरां कटौ॥
@@ -22620,8 +21654,6 @@ CHAPTER XI
 षड़ङ्गेनैव देवेशि पूजयित्वा तु पार्वतीम्‌।  
 क्षेत्रपालं भैरवं च गणनाथं महान्तकम्।
 
-
-
 एतच्चतुष्टयं देवि यजेद् द्वारचतुष्टये।  
 पूर्वाद्यष्टदले देवि एतान्‌ सम्पूज्य साधकः॥
 
@@ -22668,24 +21700,4 @@ CHAPTER XI
 
 **—————**
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-

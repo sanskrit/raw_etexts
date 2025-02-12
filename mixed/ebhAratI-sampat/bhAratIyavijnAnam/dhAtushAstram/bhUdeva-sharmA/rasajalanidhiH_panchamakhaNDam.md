@@ -17,37 +17,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMwNTM1ODM1NDk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **तमसो मा ज्योतिर्गमय**  
-
 
 ## **SANTINIKETAN VISWA BHARATI LIBRARY** 954.1:54 R 183 B
 
 V5
 
-
-
-
-
 ## **RASA-JALA-NIDHI** OR OCEAN OF INDIAN CHEMISTRY, MEDICINE & ALCHEMY.
-
 
 **VOL. V**
 
-
 COMPILED IN SANSKRIT
-
 
 **BY  
 BHUDEB MUKHERJEE M.A. (triple)**
@@ -58,21 +38,17 @@ Rasa'cha'rya Sa'nkhya-Veda'nta-tirtha
 
 Formerly Lecturer, Post Graduate classes, Calcutta University.
 
-
-
 **WITH ENGLISH TRANSLATION **
 
 **BY THE AUTHOR.**
 
 { All rights reserved by the author }  
 
-
 Pablished by the Author,
 
 20, Grey Street,
 
 Calcutta.
-
 
 To be had of-                   
 
@@ -94,17 +70,11 @@ To be had of-
 | **Mr. Arthur Probsthain, esq.**                                                           |
 | **41, Great Russell Street, London, W.C.,**                                               |
 
-
-
 Printed by J. N. Dey, at the
 
 SREEKRISHNA PRINTING WORKS,
 
 259, Upper Chitpore Road, Calcutta.
-
-
-
-
 
 ## **PREFACE**
 
@@ -140,17 +110,9 @@ The 10th February, 1938
 
 [TABLE]
 
-
-
-
-
 **रसजलनिधिः ।**
 
 **(पञ्चमखण्डम् )**
-
-
-
-
 
 वैद्यकुलपति-
 
@@ -162,30 +124,17 @@ The 10th February, 1938
 
 विरचितः ।
 
-
-
 **कल्यन्द ५०३६**
 
 २० संख्यक ग्रे ष्ट्रीट् इत्याख्यया सूचिते निजनिर्मितवासस्थले कलिकातानगय्याँ
 
 ग्रन्थकारेण प्रकाशितोऽयं ग्रन्थः ।
 
-
-
 तेनैव सर्वसत्वमस्य संरक्षितम् ।
 
-
-
-
-
 [TABLE]
 
 [TABLE]
-
-
-
-
-
 
 **INTRODUCTION.**
 
@@ -201,7 +150,6 @@ In his "Chemistry in Iraq and Persia," Mr Stapleton has observed that most of th
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
    Mr. Stapleton has based his conclusion mainly on the ground that Ar-Razi and some of his Persian predecessors were acquainted with a good deal of metallic chemistry before the composition of what he considers, on the anthority of Sir P. C. Roy, to be the earliest treatise on the metallic chemistry of the Hindus, viz. Rasa ratna'kara, which, Dr. Sir P. C. Roy wrongly considers to have been compiled in the tenth century A. D. Mr. Stapleton, however, admits that Ar-Razi was acquainted with Charaka and Sushrata, the two well-known treatises on the science of vegetable chemistry and medicine of the Hindus, and even made use of them in his medical works. It is, therefore, only in the field of mineral chemistry and alchemy, and not in the field of vegetable chemistry and medicine, that Mr. Stapleton claims priority for Ar-Razi and a few of his more ancient countrymen.
 
   This is a view taken by Mr. Stapleton prior to the publication of my Rasa-jala-nidhi. In the preface of vol. 1 of my book, I have maintained that chemistry and alchemy began to be cultivated by the ancient Indians even from the dawn of Indian civilization, which, according to the Pur'anas, took place sometime after the commencement of the present Kalpa, i.e., about 1950,000000 years ago. This will appear to be incredible to many people.
@@ -215,8 +163,6 @@ In his "Chemistry in Iraq and Persia," Mr Stapleton has observed that most of th
  His work was published before the publication of my as Jala-Nidhi, in which I have claimed a great antiquity for Indian Chemistry, organic and inorganic.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
  In order to satisfy Mr. Stapleton, I propose to deal here with only a few of the points justifying my conclusion that metallic chemistry and alchemy, based on the use of mercury, was known to the Indians, long before the time of Ar-Razi, who died late in the first quarter of the tenth century A. D.
 
@@ -252,8 +198,6 @@ The Maha'bha'rata definitely says that the War began with Bhishma as the command
   The same remark applies to Sushruta also who has been referred to in the Maha bharata, which was composed about 3130 B. C.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
    Yudhisthira, finding out that the Sun had ceased his journey towards the South and that he had commenced his northward journey, went to Bhishma followed by his brothers, his mother Kunti, Sri Krishna, Vidura, and other relations and priests with all the necessary preparations. Bhishma, beholding Yudhisthira surrounded by his people, welcomed him thus.
 
@@ -336,9 +280,6 @@ The date of the Mahabharata War 3139 B. C.
 | 22. Ripunjaya                   50      2183        2133       |
 |                             1006                                   |
 
-
-
-
 |                                                                                             |
 |:-------------------------------------------------------------------------------------------:|
 |                                  **II. PRADYOTA DYNASTY.**                                  |
@@ -352,10 +293,6 @@ The date of the Mahabharata War 3139 B. C.
 |                                                                 |
 |-----------------------------------------------------------------|
 |                               138 |
-
-
-
-
 
 |                                                                                               |
 |:---------------------------------------------------------------------------------------------:|
@@ -373,10 +310,6 @@ The date of the Mahabharata War 3139 B. C.
 |   10. Mahanandi                  43       167        1635   |
 |                                              360                 |
 
-
-
-
-
 |                                                                                    |
 |:----------------------------------------------------------------------------------:|
 |                               **IV. NANDA DYNASTY.**                               |
@@ -384,8 +317,6 @@ The date of the Mahabharata War 3139 B. C.
 | 1. Maha Padma Nanda             88     1635       1547 |
 |  2. Sumalya & his seven brothers.     12      1547       1535   |
 |                                        100         |
-
-
 
 |                                                                                              |
 |:--------------------------------------------------------------------------------------------:|
@@ -405,9 +336,6 @@ The date of the Mahabharata War 3139 B. C.
 |    12. Brihadradha                 87      1306      1219     |
 |                                             316                |
 
-
-
-
 |                                                                                                |
 |:----------------------------------------------------------------------------------------------:|
 |                                     **VI. SUNGA DYNASTY.**                                     |
@@ -424,9 +352,6 @@ The date of the Mahabharata War 3139 B. C.
 |    10. Devabhuti                    10      929       919    |
 |                                              300                |
 
-
-
-
 |                                                                                                |
 |:----------------------------------------------------------------------------------------------:|
 |                                    **VII. KANVA DYNASTY.**                                     |
@@ -436,8 +361,6 @@ The date of the Mahabharata War 3139 B. C.
 | 3. Narayana                      12        856       844 |
 | 4. Susarma                      10        844       834 |
 |                                              85   |
-
-
 
 |                                                                                                                                                                               |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -478,10 +401,6 @@ The date of the Mahabharata War 3139 B. C.
 |                                        33. Pulomon                     7        335        328                                         |
 |                                                                         5054 or 506 inround figures.                                                                         |
 
-
-
-
-
 |                                                                                                |
 |:----------------------------------------------------------------------------------------------:|
 |                                     **IX. GUPTA DYNASTY**                                      |
@@ -496,9 +415,6 @@ The date of the Mahabharata War 3139 B. C.
 |   8. Kumara Gupta II                 44     127          83   |
 |                                              245               |
 
-
-
-
 **INTRODUCTION**
 
  The composition of the Mahabharata, therefore, appears to have taken place about 5077 years back or 3139 B. C., at the latest.
@@ -512,8 +428,6 @@ The date of the Mahabharata War 3139 B. C.
 Bhela, Charaka, Sushruta, etc. were only compilers and not original authors.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
  It would be interesting to note in this connection. that not even the slightest portion of the medicalprinciples and pharmacology found in Bhela, Charaka, etc., has been discarded by later authors as incorrect or defective. If this fact is borne in mind, the question which would naturally arise in our minds is this" "-such a highly developed system of chemistry and medicine (mainly herbal), as found in Bhela and Charaka grow all on a sudden? The reply is, of course, in the negative. The experimental stage of Indian Chemistry and medicine must have covered many a century of observations, experiments, and formation of hypo-theses and theories.
 
@@ -540,7 +454,6 @@ An attempt to identify some of the Chemistsmentioned in Rasa ratna-samuch-chaya
 The chemist. according to the first reading is Ramachandra. He is "Visharada" according to the second. In view of other evidences showing that king Ramachandra was a distinguished chemist, we have accepted the first reading.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
   The twenty-seven persons named above were renowned authors of chemical treatises as well as
 
 (B)
@@ -560,8 +473,6 @@ These wereesmpilers ofchemicaltreatises.
 Most of these works are no longer extant.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **(1) Adima.**
 
@@ -590,7 +501,6 @@ The reason why this identification is made
 
 .\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
  Chandra was about 32 generations ahead, of Judhisthira, who flourished about 3139 B. C. The date of Chandra may, therefore, be approximately fixed to be not less than 5000 B. C. He was the author of a treatise named "Rasa-chandrodaya" from which the preparation of "Chandrodaya Makaradhwaja" has been obtained.
 
 (8) Ravana, King of Lanka.
@@ -598,8 +508,6 @@ The reason why this identification is made
     The third chemist in the list "A" is Ravana, acquainted king of Lanka. Ravana was acquainted with the with the preparation of "Madanananda Modaka," the famous process of incinerating aphrodisiac and tonic which contains, inter alia, mercury, sulphur, and mica. Invention of some other medicines named "Pratapa Lankeswara," "Lankeswara Rasa", "Lanka-dhipeswara Rasa", etc. is attributed to Ravana. These medicines which contain incineratd mercury, mica, sulphur, orpiment etc., are excellent remedies for leprosy, etc. This shows that Ravana was acquainted with the process of incinerating mercury, (see Nityanath). The authorship of the booklet "Arkaprakasa" is attri- buted to him. The reference to the treatment of "Phiranga" disease or syphilis found in Arka- prakasha, does not prove that this book is of modern origion. Some are of opinion that the name "Phiranga" was given to the disease prevalent amongst the "Pheringees" (contraction of "French") an epithet applied by the Indians to the earliest Europeans coming to India. This assumption is far from satisfactory-the French were not the first of the Europeans who came to India. The word "Phirangaroga" appears to me to be a corruption
 
 .\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 He flourished prior to 5000 BC. and was the author of RasaChandrodaya, not extant now.
 
@@ -615,7 +523,6 @@ of "Priya'nga roga" "Priya'nga" means the limb which is dear. "Priya'nga-roga", 
 .\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 an elaborate treatment of which found in treatises composed long before the arrival of the phirangas or Europeans.
-
 
 The name phiranga might have been submitted for the ancient name "upadansa."
 
@@ -767,8 +674,6 @@ He quotes from Nityanatha who owes his debt to Nagarjuna's Rasaratnakara. which 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 As regards the exact date of Nagarjuna, we feel constrained to make a few observations which might be taken into consideration in arriving at a final decision on the point:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -812,7 +717,6 @@ Baraha mihira lived. according to the Indian almanas, in the 1st Century B.C.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
  The fact that almanacs in the different parts of India have all along agreed, even before the intro- duction of the printing press with regard to the exact number of years following the commencement of the era shows that no such mistake was commit ted, consciously or unconsciously, in the calculation of the "Samvat" and the other eras recorded in the Indian almanacs. Those who have had an opportunity of looking into manuscript almanacs, prepared long before the introduction of the printing press into India, will, I have no doubt, endorse my views. In the absence of the printing press, the railways, and the other means of communication between the different parts of tl is vast country, the makers of almanacs could not have been uniform in a particular mistake, all over the country. Having regard to all these facts, we have, I believe, no justification for repudating the evidence furnished by the almanacs about the age of Baraha-mihira and his patron, the king who instituted the "Samvat" era.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -822,7 +726,6 @@ In the absence of printing press and easy means of communications, makers of alm
 all over India, could not have been uniform in making a mistake about the number of years regarding the Vikrama Samvat.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
 
  Baraha-mihira, as has already been said, lived about 57 B. C., according to the Indian almanacs. He was indebted to Nityanatha, and Nityanatha was indebted to Nagarjuna, who must have flourished, at
 least a few centuries before Baraha-mihira. If we are not quite wrong in the line of arguments followed here, I do not see any reason why the testimony borne by the Raja-tarangini with regard to the age of Nagarjuna should be discredited. In such a case, we shall have to accept, as a matter of course, the third or the fourth conclusion stated above.
@@ -841,7 +744,6 @@ Nagarjuna cannot, therefore, be later than the 4th Century B. C.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
   He was the author of Rasa-Prakasa-Sudhakara and was a resident of a fort, called "Jeerna", situated in Surat (Surarastra). He may be placed in the first century B. C.
 
   The problem of the age of Nityanatha is some- what puzzling. He must have flourished, as has previously been shown, between the 3rd century B. C. and the 4th century A. D. His compilation, viz., Rasa-ratnakara, No. 2 which, is one biggest of all the ancient compilations does not bear any mark of indebtedness to Jasodhara, and the vice versa. It appears that the interval between the times of these two chemists was so short that the fame of one's work could not possibly reach the ears of the other, especially on account of the distance between the provinces to which they belonged, viz., Bengal and Gujrat respectively.
@@ -851,8 +753,6 @@ Nagarjuna cannot, therefore, be later than the 4th Century B. C.
 He lived probably in the 3rd century B.C., and complied a very important treatise. His name is not included in the list.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
   His name has not been included in the list of chemists given at the outset of Rasa-ratna-samuchchaya. In all probability, Bagbhat, the author of Rasa-ratna-samuchchaya, had no knowledge of Nityanatha's works.
 
@@ -869,8 +769,6 @@ Tradition identifies this great chemist with the Guru of Sankaracharys. philosop
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
-
  (2) In the colophon at the end of one of the three manuscripts discovered, it is stated that the book was written by Bhikshu Govinda, at a respectful request made by Madana-ratha, king of the Kiratas, who himself was a great chemist. This is followed by an expression "Let Tathagata (Buddha) be for what is good." From this Dr. Roy has inferred that Govinda, the author of Rasa-hridaya, was of the Buddhistic persuasion. "We have no valid reasons", says Dr. Roy, "to believe that Sankara, the sturdy champion of Brahminical faith......should have sat at the feet of a Guru of the opposite creed".
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -879,7 +777,6 @@ Tradition identifies this great chemist with the Guru of Sankaracharys. philosop
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
  To the first of the points raised by Dr. Roy against the identification of Govinda, the author of Rasa-hridaya, with Govinda, the spiritual guide of Sankaracharya, our reply will be only a repetition of what we have already proved beyond the shadow of a doubt that long before the death of Baraha- mihira, who died, according to Dr. Roy himself, in 587 A. D., chemical knowledge of the Hindus had attained such a state of development as has not been surpassed by anything contributed by later compilers.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -887,7 +784,6 @@ Tradition identifies this great chemist with the Guru of Sankaracharys. philosop
 Reply to Dr. Roy: (1) The chemical knowledge of the Hindus reached its climax long before the 8th century.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
 
   Our reply to the second point raised by Dr. Roy is that (a) Govinda, the preceptor of Sankaracharya was a Bhikshu or Sannyasi, and as such, did not belong to any particular creed or caste. A real Sannyasi has no caste and no creed-his is a universal religion Apart from that, a real Hindu, not to speak of an ascetic like Sankaracharya while adhering rigidly to the customs and manners prescribed by his forefathers, which are calculated to foster the well-being of the society as a whole, should always be ready to learn from wise men of any creed or caste. Instances of this mentality are not rare even in our days. Moreover, to say that "Let Tathagata be for the good," which the author might have said to please the Buddhist king, does not indicate that the former wa of Buddhistic persuasion. We should not forget that Buddha has all along been revered by the Hindus as an incarnation of the Deity. It cannot be said that Jayadeva was the earliest person to whom the idea occurred for the first time. He could not have taken, defiance of the religious notions existent at his time, the bold step of composing a hymn to Buddha, regarding him as an incarnation of the supreme Deity. The field had evidently been prepared for the attitude which was taken by Jaydeva, one of the most ardent devotees of Vishnu. As a matter of fact Sakya-sinha, one of the several Buddhas, did not introduce any new system of religion into India. He himself was a Hindu and only adopted the philosophy enunciated by the previous Buddhas who were nothing but a class of wise Hindus. The activity of Sankaracharya was not directed against Hindus. Buddha himself, but against the Buddhistic philosophy, which was not propounded by Sakya-sinha but had been in existence for several centuries before his birth, and against the awfully corrupt practices resorted to by the Buddhists of later days, in direct contravention of the teachings of the Buddhas. What led to the popularity of Sakya-Sinha, the Buddha was his piety, his self-renunciation, his denunciation of the practice of animal sacrifices, which, of course, had never been approved of by the society as awhole, and the simple mode of his teaching the ignorant mass, which presented a contrast to the attitude the Indian sages generally take in keeping themselves aloof from the society.
 
@@ -901,9 +797,6 @@ Reply to Dr. Roy: (1) The chemical knowledge of the Hindus reached its climax lo
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
-
-
  Taking all these facts into consideration, we cannot discard the truth of the time-honoured tradition that Govinda, the chemist, was the spiritual guide of Sankaracha'ya, especially in view of the fact that the age of the chemist Govinda coincides with that of Govinda; the philosopher of the 11th century A. D.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -911,7 +804,6 @@ Reply to Dr. Roy: (1) The chemical knowledge of the Hindus reached its climax lo
 Govinda, the chemist was therefore, no other than Govinda, the philosopher.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
  The books which Govinda is said to have com- piled are two, viz., Rasa-Hridaya and Rasa-Sa'ra. The authorship of Rasa-sa'ra is attributed by Dr. Roy to a different Govinda. We have been giving our careful attention to this point, and decide to wait before we arrive at a decision on this matter.
 
@@ -927,16 +819,11 @@ Bagbhat, the senior, author of "Astanga-Hridaya" flourished about 3139 B.C.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
-
-
  According to the principle we have already adopted in determining the age of the chemists mentioned in group A, we may place Bagbhat, the junior, in the 11th or 12th century, A. D. This agrees well with the statement made by Kalhana, author of Raja-tarangini, that Bagbhat lived at the time of King Jayasinha (1199-1211 A. D.)  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Bagbhat, the junior, author of Rasaratas- samuchchaya, lived in the 11th or 12th century, A.D.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 It appears that Ananta Deva Sari (not Madananta Ananta Deva Suri, as stated erroneously in Dr. Sir P. C. Roy's book), author of Rasa Chintamani, was a contemporary of Bagbhat. There is no trace of anything being borrowed by Ananta Deva from Bagbhat, and the vice versa. At the end of his book, Ananta Deva mentions that he was a s a physician of great repute and lived in the Kanakachala or mount of Kanaka (modern Kanakhala). We have no hesitation in assuming that he also flourished in the 12th century A, D.
 
@@ -946,14 +833,9 @@ Ananta Deva Suri Deva Suri who livedin the mount of Kanaka (Kanak hala) might be
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
  Thus, we see that almost all we know of Hindu Chemistry is to be found in works compiled even before the advent of the Mahomedans in India. A lot of treatises on metailic chemistry was, of course, compiled during the Mahomedan period of the Indian history, but these treatises do not contain anything original. Even if we find something new and original in the books compiled during the Mahomedan period, it cannot be said that these things were learnt from Mahomedans and are of external origing On the other hand, these things had been transinitted verbally, from time out of memory, through generations of chemists, and compiled by the authors who thought it desirable to put them in writing.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Almost all we know of Hindu chemistry was compiled in treatises even before the arrival of the Mahommedans in India. New things found for the first time in treatises compiled in theMahomedan period do not indicate that they are of foreign origin, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
 
 ## Rasa-jala-nidhi. 
 
@@ -965,7 +847,6 @@ Rasa-jala-nidhi, my own compilation, contains many things that are new but not o
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
 ## **Ar-Ruzi.**
 
  Next we turn our attention to the chemistry in Iraq and Persia, as culled from Mr. Stapleton's remarkable paper on Ar-Razi, and examine whether Ar-Razi's works bear any trace of the debt due to India. This debt, however, is not denied in the field of vegetable chemistry. Mr. Stapleton says that Ar-Razi was acquainted with both Sushruta and Charaka. What Mr. Stapleton is not prepared to admit is that Ar-Razi was indebted to the Hindus for his knowledge of metallic alchemy as well. The reasons why I am inclined to say that Ar-Razi was equally indebted to the Indians for his knowledge of metallic chemistry are as follows-
@@ -976,8 +857,6 @@ Ar-Razi was acquainted with Charaka and Sushruta. It will appear from the follow
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
   (1) Ar-Razi uses the word "marqua shisha" to denote pyrites. The word is clearly a corruption of the Indian "makshika" which means the same thing i.e., pyrites. It will be seen that the word "makshika" is to be found in Charaka, Sushruta, and all the other books on Indian medicine.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -986,13 +865,10 @@ Ar-Razi was acquainted with Charaka and Sushruta. It will appear from the follow
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
  (2) Shakk (arsonic or oxide of arsenic)-This is evidently a corruption of the Indian "shankha" which means "gouripashana" or sulphide of arsenic. The word in Sanskrit has two meanings viz., conch shell and arsenic stone. Mr. Stapleton says (vide footnote, page 352) that the late Mahamahopadhyaya Pandit Satish Chandra Vidyabhushana reported to him that the word "shankha" in Sanskrit possessed only one meaning, viz., "conch shell," and "that it is never applied to a poison." The late Pandit probably looked for the word in a dictionary which does not contain many of the technical terms mainly used in astrology, chemistry, etc. The ancient books on Indian chemistry are full of references to "sankha visha" or "shankhi," meaning Sulphide of Arsenic,  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 (2) His "shakk" is nothing but the Sanskrit "Shankha" (arsenic stone).  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
  (3) Quili-The Persian word means an alkali (from Persian "Alquili"). The Indian word "khara" which is of a more ancient origin, means the same thing. The word quili is therefore a corruption of "khara" or "khari".
 
@@ -1058,8 +934,6 @@ Ar-Razi was acquainted with Charaka and Sushruta. It will appear from the follow
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
  I find in Mr. Stapleton's book that according to Al-Masudi, the ancient Sabians had some connection with India. They went on pilgrimage to a temple of Saturn in Brahmanabad, the then capital of the Sind province. It was situated in an old channel of the Indus (left bank) about 40 miles N. E. of the modern Hyderabad, and therefore only about 100 miles to the south of Mohenjo-dero, where many relics of prehistoric civilization have recently been discovered. Mr. Stapleton appears to be of opinion that the city, of Brahmanabad (literally, a settlement of the Brahmanas) which contained a temple of Saturn to which the Sabians used to go on pilgrimage was an ontpost of Mesopotamian civilization. This is a conclusion which I do not think is warranted by Al-Masudi's statement that "the Sabians had some connection with India and that they went on pilgrimage to a temple of Saturn in Brahmanabad or Al-Mansura". We are inclined to draw from the above statement a conclusion which is quite the reverse of what Mr. Stapleton has arrived at. It appears to me that the ancient Sabians or Chaldrians were originally an offshoot of the Indian race and that they could not cut off their connection with India for several centuries after they had settled in Mesopotamia. They used to go on pilgrimage to the land on which they were dependent for their origin and culure; otherwise they would not have taken the trouble of going on pilgrimage to a temple of Saturn in India, while they had their own temples in Mesopotamia itself. As a matter of fact, worship of planets and erection of temples for the purpose of such worship were prevalent through ont India oven from the commencement of Indian civilization. There are many such temples even to this day in India, Calcutta has got at least one temple of Saturn where the image of the planet is worshiped by hundreds of votaries. It is on the Nimtalaghat Street. The earliest temple of Saturn existent to this day is the famous temple of "Konarak" in Orrisa. It is now in ruins and has long been abandoned. The name "Konarak" has been a puzzle to the general public. It has been explained in many ways. None of these explanations is satisfactory. The real meaning of the word "Kana- rak Mandir" is the temple of the planets Saturn and Sun. The word is a compound one and consists of two words, viz., Kona (Saturn) and Arka (Sun). The word "Kona" has two different meanings, viz., (1) an angle, and (2) Saturn. The second meaning is not familiar to us, but it is to be found in the Puranas[^5], Whatever that may be, the temple of "Konarka" was a temple dedicated to the two planets viz., Saturn and Sun. According to the Puranas, it was built by Shamba, son of Sree Krishna, with a view to worship the planets in the hope that the action might lead to his being cured of leprosy from which he had been suffering. Shamba was born about 5000 years ago, i. e., a few years after the commence- ment of the Kali era which began to be counted 5028 years ago.
 
 [^5]: "कोणोन्तः पिङ्गलोबभूः कृष्णो रौद्रोऽन्तको यमः । शौरिः गर्नवरो मन्दः पिप्पलादन संस्तुतः ॥ "
@@ -1108,7 +982,6 @@ Proof of a racial and cultural dependence of the West on India -
  It is also to be found in Kubjika tantra which must have been compiled prior to 400 A. D.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
- 
 
   As to the contention that quick-silver is nowhere found native in India, I am to point out that Rasa- prakasa Sudhakara and Rasa-ratnasamuchchaya, etc., testify to the fact there had been mines of mercury in the Himalayas and in the eastern hills, in days long gone by. These must have been exhausted long ago. Cinnabar used to be imported into India from Dardestan, a province to the north of Kashmir, for the purpose of extraction of mercury, after it had been extinct in India proper.
 
@@ -1133,7 +1006,6 @@ Dhatu Vidya or Dhatu Veda (industrial or applied chemistry)
 
 Roga-chikitsa (treatment of diseases)  
 Rasayana chikitsa (treatment for the cure and prevention of senile decay)  
-
 
 ## Measures of Weight.
 
@@ -1167,10 +1039,6 @@ Rasayana chikitsa (treatment for the cure and prevention of senile decay)
 | 2 dronas                   "         "       surpa                                                                                                                                                              |
 | 2 surpas                   "         "       droni, bahi, or goni                                                                                                                                               |
 | 4 dronis or gonis             "         "       khari                                                                                                                                                                  |
-
-
-
-
 
 **अथ परिमाणानि ।**
 
@@ -1232,16 +1100,6 @@ Rasayana chikitsa (treatment for the cure and prevention of senile decay)
 
 **द्रोणोचतुष्टयं खारी कथिता सूक्षबुद्धिभिः**
 
-
-
-
-
-
-
-
-
-
-
 **ॐ नमः शिवाय ।**
 
 **रसजलनिधिः ।**
@@ -1257,8 +1115,6 @@ Rasayana chikitsa (treatment for the cure and prevention of senile decay)
 **नित्यानन्दनिकेतनं निखिलविश्वाधीश्वरं चिन्मयं**
 
 **योगीन्द्रोरसि नित्यवासकुशलं वन्देऽर्द्धनारीश्वरम् ॥**
-
-
 
 ## **RASA-JALA-NIDHI.**
 
@@ -1288,7 +1144,6 @@ I bow down to that one and eternal Being who is conceived of by his devotees as 
 **अथ रक्तपित्त चिकित्सा ।**
 
 **कतिपया मुष्टियोगाः ।**
-
 
 **  (१) वृषपत्राणि निष्पीड्य रसं समधुशर्करम् । पिवेत् तेन शमं याति रक्तपित्तं सुदारुणम् ॥**
 
@@ -1322,8 +1177,6 @@ I bow down to that one and eternal Being who is conceived of by his devotees as 
 
  (10) Hæmorrhage is stopped by the eating of powdered a'malaki fruits, mixed with an equal quantity of sugar.
 
-
-
 **अथ रक्तपित्ते रसप्रयोगः ।**
 
 **  सपटीलकहिंगुलं सक्षौद्रं रक्तपित्तनुत् ।I**
@@ -1332,9 +1185,7 @@ I bow down to that one and eternal Being who is conceived of by his devotees as 
 
  Cinnabar, mixed with the juice of patola and honey, cures hæmeptosis.[^7]
 
-
 [^7]: "*Minerals and gems forming ingredients of a medicine should always be purified or incinerated after purification, as the case may be, in accordance with the procedures laid down in the first three volumes."
-
 
 **आयसादि रसः ।**
 
@@ -1378,8 +1229,6 @@ kukkuradru, kit\*kira'ta (marigold), roots of meghana'da, visalyakarani, udumbar
 द्राक्षाचन्दनपद्मानि मुस्तातिक्रामृतापि च। धावी वालमुशीरञ्च लोध्रेन्द्रयवपर्पटाः ॥ । परुषकं प्रियंगुश्च यवासो वासकस्तथा । मधुकं कुलकं चापि किरातो धान्तकं तथा ॥ एषां क्काथो निहन्त्येव' ज्वरं पित्तसमुत्थितम्। तृणां दाहं प्रलापञ्च रक्तपित्तं भ्रमं क्रमम् ॥ मूर्च्छां कर्द्दिं तथा शूलं मुखशोषमरोचकम् । कासं श्वासञ्च हल्लासंनाशयेन्नावसंशयः ॥
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **कला नाम रसेव्द्रः परिकीर्तितः । सर्वपैत्तगदध्वंसो वातपित्तगदापहः ॥ अन्तर्वाह्यमहादाहविध्वंसनमहाक्षमः । ग्रीष्मकाले शरत्काले विशेषेण प्रशस्यते ॥ कुरुते नाग्निमान्द्यं च महातापज्वरं हरेत् । श्रमं मूर्च्छां हरत्याशु स्त्रीणां रक्तमहास्रवम् ॥ ऊर्द्धाघोरक्तपित्तञ्च रक्तवान्तिं विशेषतः । मूत्रकृच्छ्रानि सर्वाणि नाशयेन्नात्रसंशयः ॥**
 
@@ -1431,8 +1280,6 @@ kukkuradru, kit\*kira'ta (marigold), roots of meghana'da, visalyakarani, udumbar
 
   **शर्करातिलसंयुक्तं त्रिकत्रययुतन्त्वयः । रक्तपित्तं निहन्त्याशु चाम्लपित्तहरं परम् ॥**
 
-
-
 ## *Sarkara'dyam lauham.*
 
  One part, each, of sugar, sesamum seeds, trikatu (maricha, shunthi, and pippali, combined in equal quantities), triphala' (haritaki, a'malaki, and bibhitaki, combined in equal quantities), and trimada ( roots of chitraka, musta', and biranga, combined in equal quantities), and five parts of iron are to be mixed together, and taken in suitable doses (say, six ractis a day). This medicine cures ractapittam and amlapittam.
@@ -1444,8 +1291,6 @@ kukkuradru, kit\*kira'ta (marigold), roots of meghana'da, visalyakarani, udumbar
 ## *Sama-sharkara-lauham.*
 
   Four parts of iron, sixteen parts of milk, eight parts of clarified butter, and four parts of sugar are to be mixed together and heated in a copper pot, till the compound turns semi-solid. The heat is then to be removed and one part of powdered biranga is to be mixed with the compound. When perfectly cooled, four parts of honey are to be mixed with it. The medicine, thus prepared, is to be kept in an earthen pot in which clarified butter used to be kept previously. Dose, six ractis a day, to be gradually increased (say, upto one fourth of a tola', each). This medicine is to be taken with cocoa-nut water or with sugar dissolved with water. It cures hæmeptosis, amlapittam, and weakness due to blood shed from wounds. It increases beauty and nutrition.
-
-
 
 **शतमूल्यादि लौहम् ।**
 
@@ -1499,8 +1344,6 @@ liquors, garlics , beans, food incongenial by combination, pungents, sours, salt
 **अथ राजयक्ष्मलक्षणम् ।**
 
   **अंसपार्श्वाभितापश्चसन्तापः करपादयोः। अग्निमान्द्यं ज्वरोऽरुचिवांन्ति शोणितपूययोः ॥ सत्वहानिश्च दौर्वल्यं रोगराजस्य लक्षणम् । स्वरभेदोऽनिलाच्छूलं सङ्कोचश्वांसपार्श्वयोः ॥ ज्वरो दाहोऽतिसारश्च पित्तान्द्रत्तस्य चागमः । शिरसः परिपूर्णत्वमभक्तछन्द एव च ॥ कासः कण्ठस्य चोद्धंसो विज्ञयेः कफकोपतः ॥ दोषाणां च समावेशाल् लक्षणानां तथैव च ॥ प्रत्यष्ठीला तथाष्ठीला चापि क्षपस्य सूचके ॥**
-
-
 
 ## **CHAPTER II.**
 
@@ -1565,8 +1408,6 @@ liquors, garlics , beans, food incongenial by combination, pungents, sours, salt
 
 ** (४) सुगन्धां वा पिवेत् खादेत् सर्ववान्तिप्रशान्तये ।**
 
-
-
 *Specifics for stopping vomiting :-*
 
   (1) Vomiting is stopped by swallowing roots of ma'tulunga, fried paddy devoid of husk and powdered, rock salt, powdered pippali-all of these pestled together with water and mixed with honey; or
@@ -1576,8 +1417,6 @@ liquors, garlics , beans, food incongenial by combination, pungents, sours, salt
  (3) one eighth tola' of borax mixed with the juice of ka'kama'chi; or
 
  (4) juice of leaves of sugandha' ( tulsi piant ).
-
-
 
 **क्षयरोगे रसप्रयोगः ।**
 
@@ -1656,8 +1495,6 @@ rasa,\*The general principle in regard to phthisis is that no pungents. (such as
 
  **द्विनिष्कं रससिन्दुरं तदर्द्धं हेमजारितम्। निष्कदूयं गन्धकञ्च मर्द्दयेच्चित्रकद्रवैः । कुमारिकाद्रवैर्यामं छागदुग्धैस्त्रियामकम्। मुक्ताविद्रुमङ्गानां निष्कं निष्कं विमिश्रयेत्। गोलकं पुरयेद् भाण्डेरुद्धा गजपुटे पचेत्। स्वांङ्गशीतं विचूण्र्याथ भक्षयेद्रक्तिकाद्वयम्। मधुना क्षयरोगघ्नं वातपित्तसमुद्भवम्। अजापघृतञ्चानुपिवेच्छर्करा मधुसंयुतम् ॥**
 
-
-
 ## Shosa'nala rasa.
 
  Half a tola' of rasa-sinduram (see page 105, vol I), one fourth tola' of gold, and half a tola' of sulphur are to be rubbed together with the juice or decoction of chitraka and juice of kanya', for three hours, and with goats' milk for nine hours. The compound is next to be mixed with one fourth tola', each, of pearls, corals, and tin, and made into a lump which is to be put inside an earthen vessel, the mouth of which is to be closed, as usual, and then heated by Gajaputam. When cooled of itself by radiation of heat, the medicine is to be taken out, and taken in doses of two ractis, each, with a few drops of honey. This medicine cures phthisis due to an abnormal excess of va'yu and pittam. Clarified butter prepared from goats' milk, mixed with sugar and honey, is to be drunk just after taking the medicine.
@@ -1681,9 +1518,6 @@ rasa,\*The general principle in regard to phthisis is that no pungents. (such as
    One part of gold, incinerated in such a way as makes it incapable of being restored to its original condition, two parts, each, of incinerated mercury and pearls, four parts of sulphur, five parts of copper-pyrites, four parts of silver, seven parts of corals, and two parts of borax are to be rubbed together, for three days, with the juice of ma'tulunga and made into a Iump which is to be dried by an intense heat of the sun. This lump is then to be pnt inside a vessel filled with salt, the month of the vessel being closed by means of an earthen basin, mud, and rags, as usual. Heat is then to be applied to the vessel for twelve hours. When the vessel is cooled after removal of heat, the medicine is to be taken out, powdered, and mixed with either one sixty fourth its quantity of diamond or one sixteenth its quantity of vaikra'ntam (garnet), if diamond is not available. Dose, three ractis, each, to be taken with honey and a little of powdered maricha or pippli. This medicine cures all sorts of diseases, especially phthisis, fevers, gulma, bidradhi (a kind of tumour), iudigestion, hoarseness, cough. aversion to food, vomiting, hysteria, giddiness, eight great diseases (viz. leprosy, paralysis, stone disease, gonorrhoea and spermatorrhoea, fistula, udara rogas, piles, and grahani): diseases due to artificial poisons (see page 292, vol. 111), anemia, jaundice, and all other diseases due to an abnormal excess of pittam.
 
    Diet, strengthening and nutritions, as prescribed in phthisis (see close of this chapter).  
-
-
-
 
 **राजमृगाङ्क रसः ।**
 
@@ -1735,8 +1569,6 @@ rasa,\*The general principle in regard to phthisis is that no pungents. (such as
 ## Sureshwara rasa.
 
   One tola' of purified mercury is to be rubbed with the juices of bhanga and ginger till the mercury becomes condensed. It is then to be subjected to bha'vana' with the juices of jalakarua (a'khukarni or karnachhid) and ka'kama'chi, and mixed with four tola's of powdered sulphur, well-purified with the juice of bhringara'ja. The compound is then to be rubbed with eight tola's of goats' milk, and made into pills, two ractis in weight, each. This medicine cures phthisis, hemeptosis, cough and aversion to food. Diet, milk and soup of goat's meat (not both taken at the same meal).
-
-
 
 **वामदेव रसः ।**
 
@@ -1876,7 +1708,6 @@ Equal quntities of gold, orpiment, sulphur, copper-sulphate, copper-pyrites, cal
 
   Each of the following seven things is to be rubbed for nine hours with the juice of cha'ngeri, and reduced to ashes separately by being burnt by putam : - ( 1 ) one tola' of essence of calamine (i. e., zinc) melted and thrown upon 3/8 tola of molten gold, both being thus mixed together; (2) one and half tola' of mercury mixed with two tola's of sulphur, both being rubbed together ; (3) 3/8 tola' of powdered coral (4) 3/8th tola' of powdered pearl (5) half a tola' of incinerated iron ; (6) 3/4 tola' of incinerated lead ( 7 ) and one tola' of incinerated copper. These seven different materials are to be mixed with (8) half a tola' of condensed indigo, ( 9 ) half a tola' of incinerated mica, (10) half a tola' of incinerated load-stone, (11) half a tola' of purified orpiment, ( 12 ) one tola' of seedsof ankolla, (13) one tola' of seeds of kanguni, (14) one tola' of copper sulphate, (15) two tola's of borax, and (16) five tola's of incinerated cowri-shell. All these sixteen materials are then to be rubbed together with 128 tola's of the juice of the big lime fruit. When dried, the compound is to be put inside eight earthen basins. (In other words, it is, first of all, to be put inside two earthen basins, the joint of which is to be closed by mud and rags, and usual. The putam, thus prepared, is then to be put inside two other earthen basins, the joint being closed, as before. Four more earthen basins are to be made use of in the same way, måking the total number of earthen basins eight). The putam, thus prepared, is to be put inside a deep pit filled with (256 x 64) tola's of husk of paddy and 8000 tola's of cowdung cakes, and the whole thing is to be set fire to. The putam, thus burnt, is to be taken out only when the fire is completely extinguished and the asses are perfectly cooled by a natural radiation of heat. Twelve ractis of this medicine is to be mixed with the same quantity of purified sulphur, previously subjected to bha'vana' with the decoction of one fourth its weight of maricha. This compound is then to be kept on a piece of betel leaf, smeared with honey, and then licked by the patient. Diet is to be given every three hours commencing from the expiry of one hour after taking the medicine; otherwise, enkindled hunger may at once consume the dha'tus or constituent parts of the body. The patient is to avoid all injurious deeds and articles of food stuff for 48 days after taking one dose of the medicine, after which he may have his own way as regards deeds and diet. If he takes one dose of this medicine at the commencement of every year, he may protect himself from senile decay for twelve years. This is a very good medicine for consumption.
 
-
 **महाबीरपोट्टत्नी रसः**
 
 ** निष्कौ** **द्वौ तुत्यभागस्य रसादेकं सुसंस्कृतात् । निष्कं विवस्यद्वौ तीक्ष्णात् कर्षांशं गन्धमौक्तिकात् ॥ अग्निपर्णीहरित्नताभृङ्गार्द्रसुरसारसः । मर्द्दितं लाङ्गलीकन्दप्रलिप्ते संपुटे पचेत् ॥ अर्द्धपादं च पोट्टल्याः काकिन्यौ द्वे विषस्य च । लिहेन्मरिचचूर्णं च मधुना पोट्टलीसमम् ॥ क्षयग्रहण्यतीसारवह्निद्दौर्व्वल्यकासिनाम्। पाण्डुगुल्मवतां श्रेष्ठो महावीरो हितो रसः ॥ अतिस्थूलस्य पूयासृक्कक्रामणुद्वमतः क्षये । न योजयेत् क्षीररसान् विरुद्धोपक्रमत्वतः ॥**
@@ -1899,8 +1730,6 @@ Equal quntities of gold, orpiment, sulphur, copper-sulphate, copper-pyrites, cal
 
 [^14]: "* visa karanja or dahara karanja."
 
-
-
 **अथ राजयक्ष्मरोगे पथ्यानि ।**
 
 ** दोषाधिकस्य वलिनो मृदुशुद्धिरादौ गोधृममुद्गचणकारुणशालयश्च । छागस्य मांसनवनीतपयोघृतानि क्रव्यादमांसमपि जांगलजा रसाश्च ॥\*[^15] पक्वानि पापितसिताम्रफलानि धात्री खर्जुरपौष्करपरूषकनारिकेलम् । शोभाञ्जनञ्च कुलकं नवतालशस्यं द्राक्षाफलानि मिषयोऽपि च माणिमन्थम् ॥ सिंहास्यपत्रमपि गोमहिषीघृतं च च्छागाश्रयाश्च तदवस्करमूत्रलेपः । मत्स्यण्डिका शिखरिणी सुसिता रसाला कर्पूरकं मृगमदः सितचन्दनञ्च ॥ अभ्यञ्जनानि सुरभोगयनुलेपनानि स्नानानि वेशरचनान्यवगाहनानि । हर्म्यं स्रजं प्रियकथा मृदुगन्धवाहो गीतानि लास्यमपि चन्द्ररुचो विपञ्ची ॥ मुक्तामणिप्रचुरभूषणधारणं च होमः प्रदानममरद्विजपूजनानि । हृद्यान्नपानमपि पथ्यगणः क्षयेषु ॥**
@@ -1921,8 +1750,6 @@ Diet and deeds beneficial in phthisis.
 
   purgation, suppression of calls of nature, mental and physical labour, association with wife, fomenting, the body,using collyrium, keeping late hours at night, performance of daring acts, exposure to the rays of the sun (except in the frizid climate), taking of food or drink, not mixed with clarified butter or animal fat, taking meals at irregular times and in excessive quantities; betel leaves, water melon, kulattha grams, ma'sa grams, garlics, spronts of bamboos, hingu, sours, bitters, astringents, pungents, all sorts of pot herbs, alkalis. articles of food-stuff incongenial by combination (see page 9, Vol. IV), beans, karkota, all bida'hi articles (see page 7, Vol. IV), betel nuts, pippali brinjals, taking of oil, sleeping in day time, bilva fruit, anger, sexual intercourse, grief, vexation, envy, and jealousy.
 
-
-
 **अथ कासरोगाधिकारः ।**
 
 **अथ कासनिदानम् ।**
@@ -1932,8 +1759,6 @@ Diet and deeds beneficial in phthisis.
 ## Cough. Its causes.
 
   The pra'na va'yn or the air which works the respiratory system may be deranged by one or more of the following:- (1) entrance of smoke into the mouth and the nostrils: (2) the rasa or chyle (i. e., the essence of the food digested in the stomach) moving upwards by the pressure of gas formed in the stomach, (3) excess of physical or mental exercise, (4) eating of food devoid of animal fat, (5) entrance of food into wrong places by hasty swallowing, and (6) suppression of calls of nature including sneezing. Thus deranged, pra'na va'yu follows the uda'na va'yn (i. e., the wind which governs the brain), is vitiated by kapha and pittam, causes sounds resembling those caused by broken bell-metal, and comes out abruptly through the mouth mixed with phlegm. This is what is meant by ka'sa (cough). There are five different kinds of cougb, viz. that caused by each of the following:-an abnormal excees of (a) va'yu, (b) pittam, and (e) kapha, (d) ulcers, and (e) consumption. Cough, if neglected, becomes gradually malignant aud leads ultimately to consumption. This disease is preceded by a sensation felt in the throat and mouth of being pricked with the ears, as it were, of barley and difficulty in swallowing food.
-
-
 
 **अथ कास चिकित्सा \।**
 
@@ -2233,8 +2058,6 @@ Agni rasa.
 
   application of douche, snuff, letting out of blood, physical exercise, cleaning of the teeth by rubbing, exposure to the sun's rays, impure air, dust, walking, articles of food-stuff not easily digestible, those which are termed bida'hi (see page 7 Vol. IV), and all sorts of coarse food, not softened with butter or clarified butter; suppression of calls of nature and of belching, yawning, coughing, and vomiting, fish, tubers in general, mustard seeds, gourds (ala'bu), apodika', impure food, water, and other drinks; articles of food stuff incongenial by combination, and those which are heavy and cold.
 
-
-
 **अथ हिक्काश्वासरोगाधिकारः ।**
 
 **अथ हिक्काश्वास- निदानम् ।**
@@ -2250,8 +2073,6 @@ Agni rasa.
    eating of articles of food-stuff of the following des- cription; (a) those which are called "bida'hi" (see page 7, vol. IV); (b) those which are not easily digested; (c) those which cause flatulence and inactivity of the stomach; (d) those which are coarse and devoid of animal fat; and (e) those which increase phlegm ; eating and drinking in excess of cold substance; dwelling in cold places; inhaling of dust and smoke ; exposure to drafts of wind ; physical exercise; lifting or carrying of heavy material; suppression of calls of nature; and actions tending to irritate the body, such as fasting.
 
  Wind arising out of the stomach, and already much vitiated by phlegm and pittam, and sometimes obstructed in its upward movement by accumulated phlegm, comes to a stand-still, and is confined in the lungs. This wind vitiates those passages which carry food and fluids, and tries to move in wrong directions, giving rise to difficulty in breathing or asthma.
-
-
 
    **अय हिक्काश्वास- चिकित्सा \।**
 
@@ -2325,8 +2146,6 @@ Agni rasa.
 **वीरेन्द्र रसः ।**
 
 **  सूतकं गन्धकं लौहं विषमभ्रकमेव च । विड़ङ्ग रेणुकं मुस्तमेलाग्रन्थिककेशरम् ॥ त्रिकटु त्रिफला शुल्वभस्मजैपालचित्रकम् । एतानि समभागानि द्विगुणो दीयते गुड़ः ॥ कासे श्वासे कफे गुल्मे प्रमेहे विषमज्वरे । सूतायां ग्रहणीदोषे शुले पाराड़मये तथा । हस्तपदादिदाहेषु वीरेन्द्ररसः शस्यते ॥**
-
-
 
 ##     Iatro chemical treatment of hiccongh and asthma. Birendra rasa.
 
@@ -2544,8 +2363,6 @@ butter-- \*Fish is not coarse It should not therefore he seasoned with butter or
 ## Treatment of hoarseness.
 
   Pestled leaves of badari, mixed with rock-salt and fried with clarified butter, is to be licked in cough and hoarseness.
-
-
 
 **मृगनाभ्यादिरवलेहः ।**
 
@@ -2779,7 +2596,6 @@ Iatro chemical treatment.
 
  Such parpatis as Bajra, Bijaya, Mahesha, Jibendra, etc., taken with hingu and pestled jeera', cure urograha.
 
-
 **ञ्यम्वकाभ्रम**
 
   **अभ्रं मोचकमारितं पलमितं व्याघ्री वला गोक्षुरम् कन्यापिप्पलीमूलंभृङ्गवृषकाः पत्र तथा वादरम् । धात्रीरात्निगुड़ुचिकाः पृथगतः सत्वै पलांशैर्युतं संमर्द्द्यातिमनोरमं सुवलितं कृत्वा यदा सेवितम् ॥ बासोत्थं कफपित्तजं स्वरगतं यश्च त्रिदोषात्मकमत्युश्चैर्वदतो हतं बहुविधं पानीयदोषोद्भवम् । कासं श्वासमुरोग्रहं सयकृतं हिक्कां तृषां कामलामर्शसि प्रहणीज्वरं वहुविधं शोथं क्षयञ्चार्व्वुदम् ॥ हन्ति त्र्यम्बकमभ्रमद्भुततरं वृष्यातिवृष्यं परम् । बह्णेर्वृद्धिकरं रसायनवरं सर्वामयध्वंसि तत् ॥**
@@ -2799,7 +2615,6 @@ Dictary.
 **अथाम्लपित्ताधिकारः \।  
 अस्य निदानम् ।**
 
-               
 **विरुद्धदुष्टाम्लविदाहिपित्तप्रकोपिपानान्नभुजो विदग्धम् । पित्तं स्वहेतूपचितं पुरा यत् तदम्लपित्तं प्रवदन्ति सन्तः ॥ अविपाकक्लमोत् क्लेशतिक्ताम्लोद्गारगौरवैः । हृत्कण्ठदाहारुचिभिश्चाम्लपित्तं वदेद्भिषक् ॥ तृड़् दाहमूर्च्छाभ्रममोहकारि प्रयात्यधो वा विविधप्रकारम् । हल्लासकोठानलसादहर्षस्वेदाङ्गपीतत्वकरं कदाचित् ॥ वान्तं हरित्पीतकनीलकृष्णमारक्तरक्ताभमतीव चाम्लम् । मांसोद्काभन्त्वतिपिच्छिलाच्छं श्लेष्मानुजातं विविधं रसेन ॥ भुक्ते विदग्धे त्वथवाप्यभुक्ते करोति तिक्ताम्लवमिं कदाचित् । उद्रारमेवंविधमेव कण्ठहृत्कुक्षिदाहं शिरसोरुजञ्च ॥ करचरणदाहमौष्ण्यं महतीमरुचिं ज्वरञ्च कफपित्तम् । जनयति कण्डूमण्डलपिड़काशतनिचितगात्ररोर्गानचयम् ॥**
 
 ## Amlapittam or Acidity and Biliousness.   Its causes and symptoms:-
@@ -2844,8 +2659,6 @@ A few herbal remedies.
 
    Four hundred tola's, each of the juice of kusma'nda and cow's milk, add thirty two tola's of powdered a' malaki are to be boiled together by miid heat till the whole thing is condensed. This compound is then to be mixed with thirty two tola's of sugar and two tola's of aconite. This medicine cures amlapittam. (Dose, one fourth of a tola' to half a tola', a day).
 
-
-
 **अथ अम्लपित्ते रसप्रयोगः ।**
 
 **अम्लपित्तान्तको रसः ।**
@@ -2857,8 +2670,6 @@ A few herbal remedies.
 ## Amlapitta'ntaka rasa.
 
  One part, each, of incinerated mercury, copper, and iron, and three parts of powdered haritaki are to be mixed together, and made into pills, six ractis in weight, each, to be taken with honey.
-
-      
 
 **सर्व्वतोभद्रलौहरसः ।**
 
@@ -3025,8 +2836,6 @@ Shulam (all shorts of pain in the belly including colic).
 Treatment of shulam
 
   The following may be adopted as so many methods of treatment of shulam :-vomiting, fasting, fomenting, decoctions of prescribed herbs, phalabarti (a paste prepared by pestling together madana fruit, pippali, knstha, hacha', white mustard seeds, molasses, and alkalis, and entered into the_rectum), and pills referred to later on.
-
-  
 
    **कतिपया मुष्टियोगाः ।**
 
@@ -3235,11 +3044,7 @@ Mahesh rasa.
 
  Manduram is to be heated highly and immersed at once in the decoction of triphala'. It is then to be powdered very
 
-
-
 (book page no 162 , 163 missing)
-
-
 
  **तु छानयेत् । भक्षयेन्मधुसर्पिर्भ्यां यथाग्न्येतत् प्रयोजयेत् ॥ माषकं त्रिगुणं वाथ चतुर्गुणमथापि वा । छागस्य पयसः कुर्य्यादनुपानमभावतः ॥ गवां घृतेन दुग्धेन चतुःषष्टिगुणेन च। पक्तिशूलं निहन्त्येतन्मासेनैकेन निश्चितम् ॥ लौहामृतमिदं श्रेष्ठं ब्राह्मणा निर्म्मितं पुरा। ककारपूर्व्वकं यञ्च यञ्चाम्लं परिकीर्त्तितम्। सेव्यं न भवेदत्र मांसञ्चा नूपसम्भवम् ॥**
 
@@ -3367,8 +3172,6 @@ Mahesh rasa.
 
  One tola' of purified sulphur is to be rubbed with three-fourths of a tola' of purified mercury, and made into a black powder' with which are to be mixed sixteen tola's of mandura, incinerated with cow's urine, four tola's of mica, and one tola', each, of the powder of the following:-biranga, musta', triphala', guruchi, roots of danti, roots of trivrit, roots of chitraka, and trikatu. All these are then to be rubbed together with the juice of mandukaparni and a tittle of honey and clarified butter. Pills are then to be made six ractis, twelve ractis, or eighteen ractis in weight, each, to be taken with cow's milk or cold water. This medicine cures all sorts of shulam including parina'ma and annadrava, consumption, amlapittam, grahani, jeerna jwara, ractapittam, and loss of power of digestion.
 
-
-
 **शूलसंयमन रसः ।**
 
  ** शुद्धसूतं तथा गन्धं फलत्रयकटुत्रयम् । विडङ्गमुस्तकञ्चैव त्रिवृता दन्तीचित्रकम् ॥ आखुपर्णी ग्रन्थिकं च प्रत्येकं कर्षसभ्मितम् । पलं कृष्णाभ्रचूर्णस्य मृतायश्च चतुर्गुणम् ॥ घृतेन मधुना पिष्ट्वा वटिकां कोलसम्मिताम्। एकैकां वटिकां खादेत् प्रातरुत्थाय नित्यशः ॥ अनुपानं गवां क्षीरं नीरं वा नारिकेलजम् । सर्व्वशूलं निहन्त्याशु शूलसंयमनो रसः ॥ एकजं द्वन्द्वजञ्चैव तथैव सान्निपातिकम् । परिणामोद्भवं शुलमामवातोद्भवं तथा॥ कार्श्यवैवर्ण्यलस्यतन्द्रारुचिविनाशनम् । साध्यासाध्यं निहन्त्याशु भास्करस्तिमिरं यथा ॥**
@@ -3392,8 +3195,6 @@ Diet and deeds beneficial in shulam :-
 Articles of food-stuff and deeds injurious in shulam :-
 
   food and drinks incongenial by combination, keeping late hours at night, taking meals at irregular hours and in unusual quantities, food not softened with clarified butter or any other animal fat, bitters, astringents, cold food, heavy food, physical exercise, sexual intercourse, wine, pulses, excess of salt, sesamum seeds, suppression of calls of nature, grief, and anger.
-
-
 
 **अथ गुल्माधिकारः ।**
 
@@ -3565,12 +3366,9 @@ Articles of food-stuff and deeds injurious in shulam :-
 
    **वातकारीणि सर्व्वाणि विरुद्धान्यशनानि च।वल्लूरं मूलकं मत्स्यान् मधुराणि फलानि च ॥ शुष्कशाकं शमीधान्यं विष्टम्भीणि गुरुणि च ।अधोवातशकृन्मूत्रश्रमश्वाशाश्रुधारणम् । वमनं जलपानञ्च गुल्मरोगी परित्यजेत् ॥**
 
-
  Articles of food-stuff and actions considered injurious in Gulma :-
 
    everything which serves to increase va'yu, food incongenial by combination, dry meat, stiff radish or carrot, fish, sweet fruits, dry pot-herbs, pulses and beans, food causing flatulence and not easy to digest, suppression of calls of nature in respect of the downward passage of wind, stool, urine, quick respiration due to physical labour, and tears,--vomiting, and drinking of water.             
-  
-  
 
 **क्रिमिरोगाधिकारः ।**
 
@@ -3673,8 +3471,6 @@ Krimihara rasa.
 
   One part, each, of mercury, sulphur, maricha, ja'tiphala, lavanga, pippali, orpiment, shunthi, and tin; nine parts of iron, and eighteen parts of biranga are to be mixed together (and taken in doses of six ractis, a day). This medicine cures worms in the stomach and intestines, piles, aversion to food, dull-ness of the digesting heat, cholera, swelling due to anemia, shulam, fever, hiccough, asthma, and cough.
 
-
-
 **क्रिमिविघातन रसः ।**
 
   **रसगन्धाजमोदानां क्रिमिघ्नब्रह्मबीजयोः । एकद्वित्रिचतुःपञ्च तिन्दोर्वीजस्य षट् क्रमात् ॥ संचूणर्य मधुना सर्व्वं रसं क्रिमिविघातनम् । खादन् पिपासुस्तोयञ्च मुस्तानां क्रिमिशान्तये ।आखुपर्णीकषियं वा प्रपिवेच्छर्करान्वितम् ॥**
@@ -3757,8 +3553,6 @@ Krimihara rasa.
 
    vomiting, suppression of vomiting, articles of food-stuff incongenial by combination, sleeping in day time; drinking of liquid food, food pestled and baked (pistakam), indigestion, clarified butter, ma'sha-grams, curd, pot-herbs, meat, milk, sours, and sweets.  
 
-
-
   
 **अथ पाण्डुरोगाधिकारः ।**
 
@@ -3837,8 +3631,6 @@ Cause and symptoms of halimaka (Janduice of a malignant type):
   (9) Jaundice is cured very quickly by sniffing the juice of kanya',
 
   (10) Jaundice is cured by taking the leaves of guruchi, pestled with butter-milk.
-
-
 
   **पाण्डुकामलादिरोगे रसप्रयोगः ।**
 
@@ -4183,8 +3975,6 @@ Deeds and articles of food-stuff injurious in anemia :-
 
   Letting out of blood, smoking, suppression of vomiting, fomentation, sexual intercourse, beans, pot herbs (except those mentioned in the preceding paragraph ), hingu, ma'sagrams, drinking of water in excess, paste or cake of sesamum and mustard seeds, wine, eating of earth, sleeping in day-time, articles of food-stuff acrid and saline in taste; drinking of water of rivers issuing out of the Sahya and Vindhya ranges, sours of all sorts, impure water, food incongenial by combination, food considered heavy and bida hi (see page 7, Vol. IV).
 
-
-
 **अथारोचकाधिकारः ।**
 
 **अथारोचक-निदानम् ।**
@@ -4215,15 +4005,11 @@ Deeds and articles of food-stuff injurious in anemia :-
 
  (3) Powdered bira salt (see page 286, Vol. III), mixed with honey and juice of pomegranate, kept in the mouth for sometime, every day, removes aversion to food, however malignant.
 
-
-
 **अरोचके रसप्रयोगः ।**
 
 **शुलोचनाभ्रम् ।**
 
  **पलं सुजीर्णं गगनन्तु वज्रकं तेजोवतीकोलमुशीरदाड़िमम् । धात्र्यम्ललोणीरुचकं पृथग्दशपलोन्मितं मर्द्दितमेव सेवितम् ॥ अरोचकं वातकफत्रिदोषजं पित्तोद्भवं गन्धसमुद्भवं नृणाम्। कासं स्वराघातमुरोप्रहं रुजं श्वासं वलासं यकृतं भगन्दरम् ॥ प्लीहाग्रिमान्धं श्वयथुं समीरणं मेहं भृशं कुष्ठमसृग्दरं क्रिमिम् । शूलाम्लपित्तक्षयरोगमुद्धतंसरक्तपितं वमिदाहमश्मरीम् ॥ निहन्ति चार्शांसि सुलोचनाभ्रकं र्वलप्रदं वृष्यतमं रसायनम् ॥**
-
-
 
 ## Iatro-chemical remedies Sulochana' bhram.
 
@@ -4254,8 +4040,6 @@ Articles of food-stuff and actions injurious in arochaka ;-
 
  suppression of calls of nature in respect of cough, yawning, hunger, and tears, food not palatable, letting out of blood, anger, greed, fear, grief, bad odour, and unpleasant sight.
 
-
-
 **अथ छर्द्दिरोगाधिकारः ।**
 
 **अथ छर्दिनिदानम् ।**
@@ -4276,8 +4060,6 @@ Articles of food-stuff and actions injurious in arochaka ;-
 
 **  (१) पिष्ट्वा धात्रीफलं द्राक्षां शर्कराञ्च पलोन्मिताम्। दत्त्वा मधु पलञ्चापि कुड़वं सलिलस्य च । वाससा गालितं पीतं हन्ति छिर्द्दिं त्रिदोषजाम् ॥ ( २ ) गुड़ूच्या रचितं हन्ति हिमं मधुसमन्वितम् । दुर्निवाराम छिर्द्दिं त्रिदोषजनितां वलात् ॥ (३) अश्वत्थवल्कलं शुष्कं दग्धं निर्वापितं जले। तज्जलं पीतमात्रं हि वान्तिं जयति दुर्जयाम् ॥ (४) जात्या रसः कपित्थस्य पिप्पलीमरिचान्वितः । क्षौद्रेण युक्तः शमर्येल्लेहोऽयं छर्दिमूल्वणाम् ॥ यष्ट्याह्वं चन्दनोपेतं सम्यक्क्षीरप्रपेक्तिम् । तेनैवालोड्य पातव्यं रुधिरच्छर्दिनाशनम् ॥**
 
-
-
 ## Treatment of vomiting.
 
 ## Simple remedies.
@@ -4291,8 +4073,6 @@ Articles of food-stuff and actions injurious in arochaka ;-
  (4) Vomiting is put a stop to by drinking the real juice (i. e., juice prepared without water) of kapittha, mixed with pippali, maricha, and honey.
 
  (5) Jastimadhu and red sandal are to be pestled with milk. Drinking of this liquid puts a stop to vomiting of blood.
-
-
 
 **रसप्रयोगः ।**
 
@@ -4322,8 +4102,6 @@ Baman'mrita rasa.
 
   One part, each, of mercury, sulphur, iron, jasti-madhu, sandal wood, a'malaki, small ela', lavanga, tangana, pippali, and jata'ma'nsi are to be mixed together and subjected to bha'vana', for seven days, each, with the juices of bida'ri and ikshu (sugar cane). The compound is then to be rubbed for three hours with goat's milk. Dose, two ractis, each, to be taken with the juice of the tuber of bida'ri. This medicine cures vomiting due to an excess of va'yu or pittam or both, and even vomiting of blood.
 
-
-
 **छर्दिहर रसः ।**
 
   **गन्धक मारितं लौहं तालकं स्वर्णमाक्षिकम् । एकत्र भस्मतां नीतं तृष्णाच्छर्दिनिवारकम् ॥**
@@ -4331,8 +4109,6 @@ Baman'mrita rasa.
 Chardihara rasa.
 
   Equal quantities of iron, incinerated with sulphur, orpiment, and copper-pyrites, mixed together, and reduced to ashes, cure thirst and vomiting,
-
-
 
 **छर्द्दिरोगे पथ्यानि ।**
 
@@ -4342,8 +4118,6 @@ Chardihara rasa.
 
   Purgation, vomiting, fasting, bath, rubbing the body, paste prepared from fried paddy devoid of husk; shastika rice, sha'li rice, mudga grams, kala ́ya grams, wheat, barley and honey- all these (seven) of more than one year's but not more than three years' standing (except honey which should be as old as possible); soup of the meat of the following;-hare, peacock, tittiri, la'ba, beasts and birds called ja'ngala (i. e., wild, viz. deer, etc.), syrups, fruit juice and other drinks of agreeable taste, smell, and appearance; sha'raba ra'ga, khara juice, kaʼmbalika juice (see page 117), wine, tender leaves of the cane plant, dhanya', cocoa-nut, ripe lemon fruit, a'malaki, ripe mangoes, ripe kola fruits, ripe grapes, ripe kapittha; haritaki, pomegranaces, citrus, ja'tiphala, ba'laka, nimba, ba'saka, sugar, shatapuspa', na'gakeshara, and other articles of food-stuff, healthy and pleasing; washing the face of the patient with cold water and smearing his face with musk and sandal, after he takes his food; enjoying the rays of the moon, smearing the body with sweet scents, pastes or unguents, inhaling sweet smelling flowers, being treated with sights, sounds, tastes, smells, and touches pleasing to the mind.
 
-
-
 **छर्द्दिरोगेऽपथ्यानि ।**
 
  **नस्यं वस्तिं स्वेदनं स्नेहपानं रक्तस्त्रावं दन्तकाष्ठं नवान्नम् । वीभत्सेक्षां भीतिमुद्वेगमुष्णं स्निग्धासात्म्याहृद्यवैराधिकान्नम् ॥ शिम्बी विम्वीकोषतक्यो मधुकं चित्रामेलां सर्षपान् देवदालोम् । व्यायामञ्च च्छत्रिकामञ्जनञ्च छर्द्यां सत्यां वर्ज्जयेदप्रमत्तः ॥**
@@ -4351,7 +4125,6 @@ Chardihara rasa.
 Diet and deeds injurious in vomiting (chhardi).
 
   taking of snuffs, application of douche, fomentation, drinking of clarified butter and other fatty substances; taking out of blood, cleansing the teeth by brushes made of woodsticks, new rice, unpleasant sight, fear, anxiety, food of the following description ;-hot, fatty, unaccustomed, disagreeable, and incongenial by combination (see page 9, Vol. IV), beans, bimbi, fruits, kosha'taki, madhuka fraits, indraba'runi, ela', mustard seeds, devada'li, physical exercise, mushrooms, and application of collyrium in the eyes.
-
 
 **अथ तृष्णारोगाधिकारः ।**
 
@@ -4369,8 +4142,6 @@ Thirst.
 
   **(१) आम्रजम्बूकषायं वा पिवेन् माक्षिकसंयुतम् । छर्द्दिं स प्रणूदति तृष्णाञ्चैवापकर्षति ॥ ( २ ) प्रातः शर्करयोपेतः क्वाथो धन्याकसम्भवः । जयेत् तृष्णां तथा दाहं कुर्य्यात् स्त्रोतोविशोधनम् ॥ (३) केशरं मातुलुङ्गस्य सक्षौद्रं दाड़िमीयुतम् । क्षणमात्रेण दुर्वारां तृष्णां कंवलतो जयेत् ॥ (४) दाहतृष्णाप्रशमनं मधुगण्डूषधारणम् ॥**
 
-
-
 ## Treatment of Thirst.
 
 ## Simple Remedies.
@@ -4383,15 +4154,11 @@ Thirst.
 
   (4) A little of honey, as much as is contained in the hollow of the palm, is to be kept in the mouth, for pacification of thirst and heating sensation.
 
-
-
 **रसप्रयोगः ।**
 
 **मीनध्वज रसः ।**
 
  **रसगन्धककर्पूरैः शैलोशीरमरीचकैः । ससितैः क्रमवृद्धैश्व सूक्ष्मं कृत्वा त्वहर्मुखे ॥ त्रिगुप्रमितं खादेत् पिवेत् पर्य्युषिताम्वु च । भृशं तृष्णां निहन्त्येवमश्विभ्याञ्च प्रकाशितम् ॥**
-
-
 
 ## Iatro-chemical remedies.
 
@@ -4435,7 +4202,6 @@ Diet and deeds salutary in thirst :-
 
 **अथ मेदोरोग-निदानम् ।**
 
-
 **अव्यायामदिवास्वप्नश्लेष्मलाहारसेविनः । मधुरोऽन्नरसः प्रायः स्नेहाम्मेदः प्रवर्द्धयेत् ॥ मेदसावृतमार्गत्वात् पुष्यन्त्यन्ये न धातवः । मेदस्तु चीयते तस्मादशक्तः सर्वकर्मसु ॥ क्षुद्रश्वासतृषामोहस्वप्रक्रथनसादनैः । युक्तः क्षुत्स्वेददुर्गन्धैरल्पप्राणोऽल्पमैथुनः ॥ मैदस्तु सर्वभूतानामुदरेऽवस्थिषु स्थितम् । अतश्वोदरे वृद्धिः प्रायो मेदस्विनो भवेत् ॥ मेदसावृतमार्गत्वाद् वायुः कोष्ठे विशेषतः । चरन् सन्धुक्षयत्यग्रिमाहारं शोषयत्यपि ॥ तस्मात् स शीघ्रं जरयत्याहारमभिकांक्षति । विकारांश्चाप्नुते घोरान् कांश्चित् कालव्यतिक्रमात् ॥**
 
 ##  Medas (Obesity).
@@ -4450,16 +4216,11 @@ The following are the symptoms of obesity:-
 
  shortness of breath, thirst, bewilderment, sleepiness, difficulty in breathing, weariness, hunger, perspiration, bad odour coming out of the body, loss of strength, and loss of power of sexual intercourse. The belly and the bones are the natural seat of fat, which, therefore, accumulates in those places. The proper passages for the movement of wind in the stomach having been blocked by fat, the confined wind increases the digesting heat and consumes food very quickly. A fatty man, therefore, hankers after food more quickly and oftener than a man in a normal state of health. In case, he does not take food at the time he craves for it, he is attacked by several ailments.
 
-
-
 **अथ मेदोरोग-चिकित्सा ।**
 
 **मुष्टियोगाः ।**
 
-
  ** (१) श्रमचिन्तानव्यवायाध्य-क्षौद्रजागरणप्रियः । हन्त्यवश्यमतिस्थौल्यं यवश्यामाकभोजनः ॥ (२) प्रातर्मधुयुतं वारि सेवितं स्थौल्यनाशनम् । उष्णमन्नस्य मण्डं वा पिवन् कुशतनुर्भवेत् ॥ (३) सचव्यजीरकव्योषहिंगुसौवर्ञ्चलानलाः । मस्तुना शक्तवः पीता मेदोघ्रा वह्निदीपनाः ॥ (४) फलत्रयं त्रिकटुकं सतैलं लवणान्वितम्। षन्मासादुपयोगेन कफमेऽनिलापहम् ॥ (५) वदरीपत्रकल्केन पेया काञ्जिकसाधिता । (६) स्थौल्यनुत् स्यात् साग्रिमन्थरसं वापि शिलाजतु ॥ ( ७) गोमूत्रपिः७७७७७ विनिहन्ति कुष्ठं वर्णोज्ज्वलं गोपयसा च युक्तम् । कक्षाविदौर्गन्ध्यहरं पयोभिः शस्तं वशीकृद् रजनीद्वयेन ॥ (८) चिञ्चापत्रस्वरसम्रक्षितं कक्षादियोजितं जयति । पुटदग्धहरिद्राद्वर्त्तनमचिराद्देहदौर्गन्ध्यम् ॥ (९) शिरीषलामज्जकहेमलोघ्रैस्वग्दोषसंस्वेदहरः प्रघर्षः । पत्राम्वुलोहाभयचन्दनानि शरीरदौर्गन्ध्यहरः प्रदेहः ॥ (१०) वासादलरसो लेपाच्छङ्खयूर्णेन संयुतः । विल्वपत्रसो वापि गात्रदौर्गन्ध्यनाशनः ॥**
-
-
 
 ## Treatment of obesity
 
@@ -4572,8 +4333,6 @@ Deeds and diet salutary in obesity
 
  ** वातो रुक्षान्नपानानि लङ्घनं प्रमिताशनम् । क्रियातियोगः शोकश्च वेगनिद्राविनिग्रहः ॥ नित्यं रोगो रतिनित्यं व्यायामो भोजनाल्पता । भीतिर्धनादिचिन्ता च कार्श्र्यकारणमीरितम् ॥ शुष्कस्फिगुदरग्रीवो धमनीजालसन्ततिः । त्वगस्थिशोषोऽतिकृशः स्थूलपर्वाननो मतः ॥**
 
-
-
 ## Thin-ness.
 
 ## Its causes :-
@@ -4581,8 +4340,6 @@ Deeds and diet salutary in obesity
    an abnormal excess of va'yu, food and drinks, coarse and unmixed with clarified butter, etc., fasting, in-sufficient meal, excessive use of purgatives, vomiting, etc., grief, suppression of calls of nature and sleep, frequent illness, sexual intercorse in excess, physical exercise, regulated diet, fear, and brooding over loss of riches, etc.
 
     The following are the symptoms of a very thin man :- dryness of the buttock, belly, and shoulder, prominence of the nerves all over the body, dryness of skin and bones, swelling of the joints and the face.
-
-
 
 **अथ कार्य-चिकित्सा ।** **    **
 
@@ -4595,8 +4352,6 @@ Deeds and diet salutary in obesity
 ## Simple remedies.
 
   Such medicines as are considered tonics and aphrodisiacs are to be used. Pestled roots of ashwagandha', taken with milk or clarified butter, or oil, or comfortably hot water, does away with thinness.
-
-
 
 **कार्श्यरोगे रसप्रयोगः ।**
 
@@ -4626,19 +4381,13 @@ Deeds and diet salutary in obesity
 
   It is quite the reverse of that in obesity.
 
-
-
-
 **अथ दाहरोगाधिकारः \।**
 
 **अथ ढाहरोगलक्षणम् \।**
 
-
    **त्वचं प्राप्तः स पानोष्मा पित्तरक्ताभिमूच्छितः । दाहं प्रकुरुते घोरं पित्तवत् तत्र भेषजम् ॥ कृत्स्त्रदेहानुगं रक्तमुद्रिक्तं दहति ध्रुवम् । स उष्यते तृष्यते वा ताम्राभस्ताम्रलोचनः । लोहगन्धाङ्गवदनो[^22] वह्निनेवावकीर्य्यते \।\। पिन्तज्वरसमश्चास्य नैरुजस्य विधिः स्मृतः ॥ तृष्णानिरोधादन्धातौ क्षोणे तेजः समुद्धतम् । सवाह्याभ्यन्तरं देहं प्रदहेन मन्दचेतसः । संशुष्कगलताल्वोष्ठो जिह्वां निष्कृष्य वेपते ॥ असृजः पूर्णकोष्ठस्य दाहोऽन्यः स्यात् सुदुस्तरः ॥ धातुतयोक्तो यो दाहस्तेन मूर्च्छातृद्दितः । क्षामस्वरः क्रियाहीनः स सोदेद् भृशपीडितः । मर्म्मभिघातजोऽप्यस्ति सोऽसाध्यः सप्तमो मतः । सर्व्व एव च वर्ज्याः स्युः शीतगात्रस्य देहिनः ॥**
 
 [^22]: "लोहमित्यत्र रक्त  अगुरु वा ।"
-
-
 
 ## Da'ha (sensation of heat)
 
@@ -4658,14 +4407,11 @@ Deeds and diet salutary in obesity
 
  A patient is to be given up as hopeless, if he suffers from any kind of sensation of heat while his skin becomes cold.
 
-
-
 **अथ दाहरोग चिकित्सा ।**
 
 **मुष्टियोगाः ।**
 
  **(१) शतधौतघृताभ्यक्तो लेपो वा यवशक्तुभिः । कोलामलकयुक्तै र्वा धान्याम्लैरपि बुद्धिमान् ॥ दाहं निवारयेत् सम्यग् योग्येन भेषजेन च ॥ (२) चन्दनाम्बुकणस्यन्दि तालवृन्तोपवोजितः । सुप्याद्दाहाद्दितोऽम्भोज कदलीदलसंस्तरे ॥ (३) अवगाहेताम्बुपूर्णां द्रोणीं दाहाद्दिंतोनरः ॥ (४) पाययेत् कमलस्याम्भः शर्कराम्भः पयोऽपि च \। क्षीरमित्तुरसश्चापि कारयेत् वित्तजिद्विधिम् ॥ (५) परिषेकावगाहेषु व्यजनानाञ्च सेवने । शस्यते शिशिरं तोयं दाहतृष्णोपशान्तये ॥ (६) शतधौतघृतस्य लेपतो दवथुर्नाशमुपैति तत्क्षणात् । अथवा पिचुमर्द्दपत्रजस्वरसप्रोत्थितफेनलेपतः ॥ (७) पलाशस्य वदर्य्या वा निम्वस्य मृदुपल्लवैः । अम्लपिष्टैः प्रलेपोऽयं हन्याद् दाहयुतं ज्वरम् ॥ (८) घृतभृष्टाम्लपिष्टा च धात्री लेपाच्च दाहनुत् । (१) जिह्वातालुगलक्लोमशोषे मूर्धनि तु दापयेत् । केशरं मातुलुङ्गस्य मधुसैन्धवसंयुतम् ॥ (१०) अथ गोतक्रसंसिक्तशीतलीकृतवाससा । काञ्जिकार्द्र पटेन वा गुण्ठनं दाहनाशनम् ॥ (११) उत्तानसुप्तस्य गभीरताम्रकांस्यादिपात्रं विनिधाय नाभौ । तत्त्राम्वुधारा बहुला पतन्ती निहन्ति दाहं त्वरितं सुशीता ॥ (१२) पित्तज्वरेण तप्तस्य क्रियां शीतां समाचरेत् ॥**  
-
 
 Treatment of da'ha.
 
@@ -4695,8 +4441,6 @@ Treatment of da'ha.
 
 (12) The sensation of heat felt in fever due to pittam is pacified by cooling actions (such as application of ice-bag on the head, etc).
 
-
-
 **दाहान्तको रसः ।**
 
 ** सूतात् पश्चार्कतश्च कं कृत्वा पिण्डं सुशोभनम् । जम्वीरस्वरसेर्मईंयं सूततुल्यञ्च गन्धकम् ॥ नागवल्लीदलैः पिष्ट्रा ताम्रपिण्डं प्रलेपयेत् । प्रपुटेद् भूधरे यन्त्रे यावद् भस्मत्वमाप्नुयात् ॥ द्विगुञ्जमाई कद्रावैस्त्रूयषणेन च योजयेत् । निहन्ति दाहसन्तापं मूर्च्छीं च पित्तसम्भवाम् \।\।**
@@ -4707,8 +4451,6 @@ Treatment of da'ha.
 
   Five parts of purified mercury and one part of thin copper foil (or fine wires of copper) are to be rubbed together with lime juice, and made into a lump, which is to be coated all round with a paste made of five parts of sulphur, pestled with the juice of betel-leaves. The lump is then to be dried and heated by Bhudhara Jantram ( seo page 262, vol. I), till the lump is reduced to ashes. This medicine cures da'ha and loss of consciousness due to pittam, if taken in doses of two ractis, each, with a few drops of honey, a little of ginger juice, and a little of powdered trikatu.
 
-
-
 **सुधाकर रसः ।**
 
  **सिन्दूराभ्रकहेमानि मौक्तिकं त्रिफलाम्भसा । शतपुत्रीरसेनापि मर्द्दयेत् सप्तसप्तधा । ततो रक्तिमितां कुर्य्याद् वटीं छायाप्रशोषिताम् । एकैकां योजयेत् तान्तु यथादोषानुपानतः ॥ रसः सुधाकरः सोऽयं हन्ति दाहं महावलम् । प्रमेहानपि वातास्त्रं वलशुक्रकरः परः ॥**
@@ -4716,8 +4458,6 @@ Treatment of da'ha.
 Sudha'kara rasa,
 
    Equal quantities of rasa-sinduram, mica, gold, and pearls are to be rubbed together, for seven times, each, with the decoction of triphala' and juice of the roots of shata'bari, Pills are then to be made, one racti in weight, each, to be dried in the shed. If taken with suitable adjuncts, this medicene cures da'ha, prameha (spermatorrea), and ba'ta-racta (a kind of leprosy). It increases strength and semen.
-
-
 
 **दाहरोगे पथ्यानि ।**
 
@@ -4736,8 +4476,6 @@ Sudha'kara rasa,
 
  food and drinks incongenial by combination (see page 9, vol. IV ), anger, suppression of calls of nature, riding on back of horses or elephants, walking, taking alkalis, things which increase pittam, physical exercise, exposure to the rays of the sun, butter-milk, betel leaves, honey, hingu (asafoetida), sexual intercourse, pungents, acrids, and hot food.
 
-
-
 **अथ मद्यपानजनितविकाराधिकारः ।**
 
 **अथ मदात्ययादिलक्षणम् ।**
@@ -4745,8 +4483,6 @@ Sudha'kara rasa,
   **क्रुद्धेन भीतेन पिपासितेन शोकाभितप्तेन बुभुक्षितेन । व्यायामभाराध्यपरिक्षतेन वेगावरोधाभिहतेन चापि ॥ अत्यम्वुभक्षावततोदरेण साजीर्णभुक्तेन तथावलेन । उष्णाभितप्तेन च सेव्यमानं करोति मद्यं विविधान् विकारान् ॥ मदात्ययं परमद्दं मदाजीर्णमथापि वा मदविभ्रममुग्रञ्च तेषां वक्ष्यामि लक्षणम् ॥ हिक्काश्वासशिरःकम्पपार्श्वशूलप्रजागरैः । विद्याद्वहुप्रलापस्य वातप्रायं मदात्ययम् ॥ तृष्णादाहज्वरस्वेदमोहातिसारविभ्रमैः । विद्याद्धरितवर्णस्य पित्तप्रायं मदात्ययम् ॥ छर्दंयरोचकहल्लासतन्द्रास्तैमित्यगौरवैः । विद्याच्छीतपरीतस्य कफप्रायं मदात्ययम् ॥ ज्ञे यस्त्रिदोषजश्चापि सर्व्वलिङ्गै र्मदात्ययः । श्लेष्मोच्छ्रयोऽङ्गगुरुता विरसास्यता च विण्मूत्रसक्तिरथ तन्दिररोचकश्च । लिङ्गं परस्य च मदस्य वदन्ति तज्ज्ञास्तृष्णा रुजा शिरसि सन्धिषु चापि भेदः ॥ आध्मानमुग्रमथ चोद्रिरणं विदाहः पानेऽजरां समुपगच्छति लक्षणानि ॥ हृद्गात्त्रतोदकफसंस्त्रवकण्ठधूमा मूर्च्छावमीमदशिरोरुजनप्रदेहाः । द्वेषः सुरान्नविकृतेषु च तेषु तेषु तत् पानविभ्रममुशन्त्यखिलेषु धीराः[^23] ॥**
 
 [^23]: " प्रदेहः कफेन लिप्तास्यता । सुरानविकृतेषु इति सुरासु सर्वासु मयेषु तथा अविकृते ! पिष्टकादिषु च ।"
-
-
 
 ## Madya-pa'na-bika'ra.
 
@@ -4799,8 +4535,6 @@ These evil effects are of four different kinds, viz:-
  (f) Intoxication caused by taking of betel nuts with such ailments as vomiting, loss of consciousness, and diarrhoea, is pacified by drinking cold water as much as the patient likes.
 
  (g) Intoxication caused by taking betel-nuts is also pacified by smelling cowdung found dried in pasturage, or by drinking cold water, or by taking salt. Irritation in the mouth caused by lime (taken with betel leaves or otherwise) is cured by sugar kept in the mouth.
-
-
 
 **रसप्रयोगः ।**
 
@@ -4876,8 +4610,6 @@ These evil effects are of four different kinds, viz:-
 
   (g) Fainting fits due to poison :-These are caused by the vehemenee of the properties of poison (see page 308, vol. III). The following are the symptoms of such swoons ;-trembling, sleeping, thirst, and appearance of darkness. The properties characterising a particular poison appear, much augmanted, in a swoon caused by that poison.
 
-
-
 **अथ मूर्च्छारोगचिकित्सा ।**
 
 **मुष्टियोगाः ।**
@@ -4921,8 +4653,6 @@ Simple remedies.
 
  Incinerated mercury, mixed with honey and pippali, cures moorchha'. Pouring of cold water on the head and abrupt torture are also to be adopted.
 
-  
-
    **मूर्च्छादिरोगे पथ्यानि ।**
 
  **सेकावगाहौ मणयः सहाराः शीताः प्रदेहा व्यजनानिलश्र्च । शीतानि पानानि च गन्धवन्ति धारागृहं शीतमरीचिरोचिः ॥ धूमोऽञ्जनं नावनमस्रमोक्षो दाहश्च सूचीपरितोदनानि । रोम्नां कचानामपि कर्षणानि नखान्तपीड़ा दशनोपदंशः ॥ नासामुखद्वारमरुनिरोधो विरेचनच्छर्द नलड्घनानि । क्रोधो भयं दुःखकरी च शय्या कथा विचित्रा च मनोहराणि ॥ छाया नभोऽम्भः शतधौतसपिंर्मृदूनि तिक्तानि च लाजमण्डः । जीर्णा यवाः लोहितशालयश्च कौम्भं हविमुद्गसतीनयूषाः ॥ धन्वोद्भवा मांसरसाश्च रागाः सषाड़वा गव्यपयः सिता च । पुराणकुष्माण्डपटोलमोचहरीतकीदाड़िमनारिकेलम् ॥ मधूकपुष्पाणि च तण्डुलीय मुपदिकान्नानि लघूनि चापि । प्रकृष्टनीरं सितचन्दनानि कर्पूरनीरं हिमवालुका च ॥ प्रत्युश्चशब्दोऽद्भुतदर्शनानि गीतानि वाद्यान्यपि चोत् कटानि । श्रमः स्मृतिश्चिन्तनमात्मबोधो धैर्य्यञ्च मूर्च्छयेत्पश्यवर्गः ॥**
@@ -4959,7 +4689,6 @@ Difference between sannya'sa and moorchha', etc.
 
   Victims of intoxication or fainting fit may recover their senses even without treatment, but a victim of sannya'sa can never regain his senses without instantaneous treatment
 
-
 **अथ सन्न्यास चिकितसा ।**
 
 **मुष्टियोगाः ।**
@@ -4990,8 +4719,6 @@ Diet, etc, in Sannya'sa.
 
 **  मूर्च्छा पित्ततमःप्राया रजःपित्तानिलाद् भ्रमः । तमोवातकफात् तन्द्रा निद्रा श्लेष्मतमोभवा ॥ चक्रवद्भ्रमतो गात्रं भूमौ पतति सर्व्वदा । भ्रमरोग इति ज्ञेयो रजःपित्तानिलात्मकः ॥ यदा तु मनसि क्लान्ते कर्मात्मानः क्लमान्विताः। विषयेभ्यो निवर्त्तन्ते तदा स्वपिति मानवः । इन्द्रियार्थेव्वसंवित्तिर्गोरवं जृम्भणं क्लमः । निद्रार्त्तस्येव यस्येहा तस्य तन्द्रां विनिर्दिशेत् ॥**
 
-
-
 ## Bhrama (Vertigo), Nidra' (Sleeping disease), and Tandra' (Drowsiness).
 
 ## Their causes and symptoms.
@@ -5006,13 +4733,9 @@ Diet, etc, in Sannya'sa.
 
     In drowsiness, there is absence of perception of the objective world, appearance of heaviness of the body, yawning, fatigue, and the other characteristics of sleep.  
 
-
-
 **अथ भ्रम चिकित्सा ।**
 
 **  शतावरीपलामूलद्राक्षासिद्धं पयः पिवेत्। ससितं भ्रमनाशाय बीजं वाट्यालकस्य वा ॥ पिवेद् दुरालभाक्काथं सघृतं भ्रमशान्तये। त्रिफलायाः प्रयोगो या प्रयोगः पयसोऽपि वा ॥ रसायनानां कौम्भस्य सर्पिषो वा प्रशस्यते ॥ शुण्ठीकृष्णाशताह्नानां साभयानां पलं पलम् । गुड़स्य षट्पलान्येबा गुड़िका भ्रमनाशिनो ॥ ताम्रं दुरालभाक्कार्थैः पीतन्तु घृतसंयुतम् । निवारयेद् भ्रमं शीघ्रं संशयोऽत्र न विद्यते ॥**
-
-
 
 ## Treatment of Vertigo.
 
@@ -5049,8 +4772,6 @@ Treatment of sleepiness and drowsiness.
 
   **चिन्ताशोकादिकाभिर्दोषाः क्रुद्धा हृत्स्त्रोतसि स्थिताः । कृत्वा स्मृतेरपध्वंसमपस्मारं प्रकुर्वते ॥  । तमःप्रवेशसंरम्भदोषोद्रकेहतस्मृतेः । अपस्मार इति क्षेयो गदो घोश्चतुर्विधः ॥ हृत्कम्पः शून्यता स्वेदो ध्यानं मूर्च्छा प्रमूढ़ता। निद्रानाशश्च तस्मिंश्च भविष्यति भवत्यथ ॥ कम्पते प्रदशेद्दन्तान् फेनोद्वामी श्वसित्यपि । परुषारुणकृष्णाणि पश्येद्रुपाणि चानिलात् ॥ पीतफेनाङ्गवक्ताक्षः पीतासृग्रूपदर्शकः । सतृष्णोष्णानलव्याप्तलोकदर्शी च पैत्तिकः ॥ शुक्लफेनाङ्गवक्ताक्षः शीतहृष्टाङ्गजो गुरुः । पश्येच्छुक्लानि रूपाणि श्लैष्मिको मुच्यते चिरात् ॥ सर्वैरेतैः समस्तैश्च लिङ्गैर्ज्ञे यस्त्रिदोषजः ॥**
 
-
-
 Apasma'ra (Epilepsy).
 
 Its causes and symptoms.
@@ -5073,15 +4794,11 @@ Its causes and symptoms.
 
  All the symptoms, stated above, combine in this disease.
 
-
-
 **अथापस्मार - चिकित्सा।**
 
 **मुष्टियोगाः ।**
 
  **(१) वातिकं वस्तिभिः प्रायः पैत्तं प्रायो विरेचनैः। श्लैष्मिकं वमनप्रायैरपस्मारमुपाचरेत् ॥ मनोह्वा तार्क्ष्यजञ्चैव शकृत् पारावतस्य च । अञ्जनं हन्त्यपस्मारमुन्मादञ्च विशेषतः ॥ (३) यष्टिहिङ्गुवचावक्र-शिरीषलशुनामयैः। साजामूत्रैरपस्मारे सोन्मादे नावनाञ्जने ॥ (४) निगुण्डीभववन्दाक नावनस्य प्रयोगतः । उपैति सहसा नाशमपस्मारों महागदः ॥(५) कपिलानां गवां मूत्रं नावनं परमं हितम् । श्वशृगालविड़ालानां सिंहादी नाञ्च शस्यते ॥ (६) पुष्पोद्धृतं शुनः पित्तमपस्मारघ्नमञ्जनम् । तदेव सर्पिषा युक्तं धूपनं परमं स्मृतम् ॥ (७) चूर्णैः सिद्धार्थकादोनां भक्षितैरथवापि तैः । गोमूत्रपिष्टैः सर्वाङ्ग-लेपैः शाम्यत्यपस्मृतिः ॥ (८) तैलेन लशुनं सेव्यं पयसा च शतावरी । ब्राह्मोरसश्च मधुना सर्वापस्मारभेषजम् ॥ (९) यः खादेत् क्षीरभक्ताशी माक्षिकेण वचारजः । अपस्मारं महाघोरं सुचिरोत्थं जयेद् ध्रुवम् ॥ (१०) कुष्माण्डकफलोत्थेन रसेन परिपेषितम्। अपस्मारविनाशाय यष्ट्याह्नं स पिवेत् त्र्यहम् ॥ ' (११) मांस्यास्तु नावनाद् धूमादशनाच्च महागदः। अपस्दारश्चिरोत्थोऽपि सद्य एव विनश्यति ॥ (१२) कायस्थान् शारदान् मुद्गान् मुस्तोशीरयवांस्तथा । सव्योषान् वस्तमूत्रेण पिष्ट्रा वत्तिं प्रकल्पयेत् ॥ अपस्मारे तथोन्मादे सर्पदष्ट गरार्दिते । विषपोते जलमृते चैताः स्युरमृतोपमाः ॥ (१३) श्वेतापराजितावीजं विजयावोजमेव च । नरमूत्रेण संपिष्य नस्यं दद्याद्भिषम्वरः ॥ (१४) श्वेतापराजितावीजं कर्णे वद्धा सदा वुधः । निर्गुण्डीमूलकं जग्ध्वा ह्यपस्मराद्विमुच्यते ॥**
-
-
 
 ## Treatment of epilepsy
 
@@ -5105,8 +4822,6 @@ Its causes and symptoms.
 (12) Equal quantities of nirgu,ndi, mudga grams harvested in sharat (corresponding to 15th of August to 15th of October), musta', ushira, barley, and trikatu are to be pestled with goat's urine, made into pills, and dried. A little of this pill is to be rubbed (with honey) and applied in the eyes as a collyrium. Such a treatment acts as a nectar in apasma'ra, insanity, snake bite, affection with artificial poisons (see page 292, Vol. III), drinking of poison, and loss of conciousness by drowning.  
 (13) Epilepsy is cured by the seeds of white apara'jita' or bhanga', pestled with man's urine and used as a snuff.             
                 (14)Epilepsy is eared by keeping seeds of white aparajita bound with the ears, and by taking, internally, roots of nirgundi.
-
-
 
 **अपस्मारे रसप्रयोगः।**
 
@@ -5155,8 +4870,6 @@ Chaturbhuja rasa.
 
   Two parts of incinerated mercury, aud one part of gold, realgar, musk, and orpiment, are to be rabbed together for: one day with the juice of kanya' and made into a lump, which is to be wrapped up in leaves of eranda, and kept hidden in a heap of paddy for three days. It is then to be taken out, powdered, and taken in doses of one raeti, each, rabbed with honey and powdered triphala'. A regular use of this medicine does away with all the diseases and senile decay. It cures, especially, apasma'ra (and unma'da), fever, cough, waste, dyspepsia, consumption, shaking of the hands, head, and other parts of the body.
 
-
-
 **महारूद्र रसः।**
 
  **रसगन्धशिलातुत्थकान्तहेमाव्धिफेनकम् । रजनीतेजनीवीजं कर्षमात्रं पृथगयुतम् ॥ निम्बुद्रवाद्रं तेन वै लिप्तां ताम्रपलोन्मिताम्। पार्त्री न्युव्जां सुभान्डान्तारूद्ध्वा खर्परके घृताम् ॥ भस्मनापूर्य्य भान्डान्तर्धृत्वाऽधो द्विनिशं पचेत् । स्वाङ्गशीतं विचूणर्याथ रसोऽपस्मारनाशनः ॥ वल्लमस्योदये दद्याद्वाव्योषविड़ङ्गयुक्। अनुपेयमजामूत्रं ततोऽर्द्धप्रद्दरे गते ॥**
@@ -5164,8 +4877,6 @@ Chaturbhuja rasa.
 Maha'rudra rasa.
 
   One tola', each, of mercury, sulphur, copper-sulpphate, ka'nta iron (load-stone), gold, samudra-phena (sepia officinalis), haridra', and seeds of tejani (murba ) are to be rubbed together with lemon juice, and made into a paste, with which is to be smeared the inner surface of a small pot made of four tola's of pure and thin copper foil. This pot is then to be kept inside an earthen vessel, the month of the former being kept. downwards. The vacant space inside the earthen vessel is then to be filled up with ashes, and the month of the vessel is to be closed by means of an earthen basin with mud and rags. When dried, the vessel is to be placed upside down npon fire, and heated for two days. When cooled, the copper pot is to be taken out, and powdered. This medicine cures apasma'ra, if taken, in doses of three ractis, with honey, bacha', trikatu, and biranga. A little of goats' urine is to be drunk, one and half hour after taking this medicine.
-
-
 
 **अपस्माररोगे पथ्यानि ।**
 
@@ -5189,8 +4900,6 @@ Articles of food-stuff and deeds injurious in apasma'ra:-
 
   **मदयन्त्युद्धता दोषा यम्मादुन्मार्गमागताः । मानसोऽयमतो व्याधिरुन्माद इति कीर्त्तितः ॥ स चाप्रबृद्भस्तरुणो मदसंज्ञां विभर्ति च ॥ एकैकशः सर्वशश्च दोषैरत्यर्थमूच्छितैः ॥ मानसेन च दुःखेन विषेण प्रेतसंक्रमैः । उन्मादः सप्तसंख्यश्च स्मरोन्माद स्तथाष्टमः ॥ प्राक् पञ्चके यानि निदानकानि तान्येव पूर्वं कथितानि पश्चात् । विषादिजानां विषयं ब्रवीमि ॥ मदं स्मरोत्थं ललनागदो वै ॥ विरुद्धदुष्टाशुचिभोजनानि प्रधर्षणं देवगुरुद्विजानाम् । उन्मादहेतुभयहर्ष पूर्वो मनोऽभिघातो विषमाश्च चेष्टाः ॥ तैरल्पसत्त्वस्य मलाः प्रदुष्टा वुद्धेनिवासं हृदयं प्रदूष्य । स्रोतांस्यधिष्ठाय मनोवहानि प्रमोहयन्त्याशु नरस्य चेतः ॥ धीविभ्रमः सत्वपरिप्लवश्च पर्याकुला द्दष्टिरधीरता च ।अवद्धवाक्तं हृदयञ्च शून्यं सामान्यमुन्मादगदस्य लिङ्गम् ॥ रुक्षाल्पशीतान्नविरेक धातुक्षयोपवासैरनिलोऽतिबृद्धः । चिन्तादिदुष्टं हृदयं प्रदूष्य वुद्धिं स्मृतिञ्चाप्युपहन्ति शीघ्रम् ॥ अस्थानहास्यस्मितनृत्यगीतवागङ्गविक्षेपणरोदनानि । पारुष्यकार्श्यारुणवर्णताश्च जीर्णे वलञ्चानिलजस्य रुपम् ॥ अजीर्णकटम्लविदाहिशीतैर्भोज्यैश्चितं पित्तमुदीर्णवेगम्। उन्मादमत्युग्र मनात्मकस्य हृदि स्थितं पूर्ववदाशु कुर्य्यात् ॥ अमर्षसंरम्भविनग्नभावाः सन्तर्जनातिद्रवणौष्णयरोषाः । प्रच्छायशीतान्नजलाभिलाषः पीता च भाः पित्तकृतस्य लिङ्गम् ॥ सम्पूरणैर्मन्दविचेष्टितस्य सोष्मा कफो मर्मणि संप्रदुष्टः । वुद्धिं स्मृतिञ्चाप्युपहत्य चित्तं प्रमोहयन् संजनयेद्वि कारम् ॥ वाक्चेष्टितं मन्दमरोचकश्च नारीविविक्तप्रियता च निद्रा । छर्द्दिश्च लाला च वलञ्च भुक्ते नखादिशौक्लञ्च कफात्मके स्यात् ॥ यः सन्निपातप्रभवोऽतिघोरः सर्वैः समस्तेः स च हेतुभिः स्यात् । सर्वाणि रुपाणि विभत्तिं ताद्दग् विरुद्धभैषज्यविधिर्विवज्यः ॥ चौरैर्नरेन्द्रपुरुषैररिभिस्तथान्यैर्वित्रासितस्य धनवान्धवसंक्षयाद्वा । गाढ़ं क्षते मनसि च प्रियया रिरंसो र्जायेत चोत्कटतमी मनसो विकारः ॥ चित्रं ब्रवीति च मनोऽनुगतं विसंज्ञो गायत्ययं हसति रोदिति चापि मूढः । रक्तेक्षणो हतवलेन्द्रियभाः सुदीनः । श्यावाननो विषकृतेऽथ भवेद्विसंज्ञः ॥ अवाञ्ची वाप्युदञ्ची वा क्षीणमांसवलो नरः । जागरुको हासन्देहमुन्मादेन विनश्यति ॥अमर्त्यवाग्विक्रमवीर्य्यचेष्टो ज्ञानादिविन्हानवलादिभिर्यः ।उन्मादकालोऽनियतश्च यस्य भूतोत्थमुन्मादमुदाहरेत् तम् ॥**
 
-
-
 ##  Unma'da (Insanity) Its causes and indications.
 
  An abnormal excess of the three doshas make their way upwards through improper channels (causing an obstruction of the sense-carrying passages), resulting in the unsoundness of the mind. This is a mental disease, and is called insanity. In its primary and undeveloped stage, it is called mada (distraction).
@@ -5212,7 +4921,6 @@ Insanity due to pittam.
  Insanity due to kapha.
 
   If a man who takes no physical exercise, sits idle, and is in the habit of taking too much of food, his kapha in the heart, combined with pittam, gets vitiated, which destroys his intelligence, memory, and imagination, leading to insanity.                   
-                                  
 
    The following are the symptoms of this disease :-very little desire to speak, aversion to food, love for women, love for solitude, sleep, vomiting, discharge of saliva, increase of strength just after taking meal, and whiteness of the nails.
 
@@ -5237,8 +4945,6 @@ Insanity due to combination of the three doshas.
    Insanity due to intensity of sexual desire (or nympho-mania).
 
   It will be dealt with in its proper place along with the other female-diseases.
-
-
 
 **अधोन्मादरोग चिकित्सा ।**
 
@@ -5277,8 +4983,6 @@ Insanity due to combination of the three doshas.
 Maheshwar dhupa.
 
  (11) Equal quantities of shree basta (exadation of sarala or pine tree), deva-da'ru, saffron, musta', katuki, mustard, leaves of nimba, madana fruit, bacha', brihati, kantaka' ri, dried skin of snake, cotton seeds, barley seeds, husks of paddy, cow's horn, fur of asses, tails of peacock, cats' stool, fur of goats, and clarified butter prepared from goats' milk are to be rubbed together, and subjected to bha'vana' with asses' urine. All sorts of insanity are enrod by inhaling the smoke of this compound.
-
-
 
 **उन्मादरागे रसप्रयोगः ।**
 
@@ -5354,7 +5058,6 @@ Bhuta'nkusha rasa.
 
  Four tola's, each, of incinerated mercury, roots of orange, roots of danti, pa’tha', samudra-phenam, roots of arka, and incinerated horn of deer are to be rubbed together for three days with the decoction of twelve tolas' of triphala'. The compound is then to be rubbed for five days, each, with the decoction of amla-betasa and milk of arka. It is then to be rubbed for twenty one days with the juice of durba' grass. This medicine cures insanity and epilepsy, if taken in doses of nine ractis, each, with the decoction of roots of chitraka ( or trikatu, according to another text).
 
-
 ** पथ्यापथ्यविधिः ।  
  उन्मादरोगे पथ्यापथ्यविधिः ।  
 अपस्मार रोगवत् ।**
@@ -5362,10 +5065,6 @@ Bhuta'nkusha rasa.
 ## Diet, etc. in insanity.
 
 ## The same as in apasmaʼra.
-
-
-
-
 
 **अथामवाताधिकारः ।**
 
@@ -5382,8 +5081,6 @@ Bhuta'nkusha rasa.
 [^26]: " *Physical excercise is ordinarily beneficial to those who take fatty food. What is objectionable is taking physical exercise before the fat is digested, partially at least. Physical exercise increases va yu which evaporates the fat if undigested."
 
   In a'maba'ta, predominanee of pittam, va'yu, and kapha causes, respectively:- (a) sensation of heat and redness of the skin, (b) colic pain, and (c) numbness, heaviness, and itches.
-
-
 
 **आमवात-चिकित्सा ।**
 
@@ -5498,7 +5195,6 @@ Ba'neshwara rasa.
 
  Five palas, each, of iron and guggulu and two and half palas of mica are to be boiled, by mild heat, in a vessel made of iron or earth, with a decoction prepared from fifteen palas of triphala' previously boiled with 240 palas, of water and reduced by boiling to 30 palas. When the watery portion is almost dried up, twelve and half palas, each, of clarified butter and juice of shata'bari, and twenty five palas of milk are to mixed with the compound and heated slowly, as before. An iron ladle is to be used for turning and rolling the compound in course of the boiling. When the compound turns semi-solid, half a pala of each of the following, duly powdered, is to be thrown into the compound, mixed together, and rolled by means of the ladle, till the boiling is completed:-biranga, shunthi, dhanya', essence of guruchi, jeera', panchakola, trivrti, danti, triphala' and musta. Kajjali or black powder made of two and half tola's, each, of mercury and sulphur is to be rubbed together with the compound, a little before it is completely cooled. The compound is then to be kept in an earthen pot with its inner side smeared with clarified butter. (Dose, according to age and strength, say, one fourth of a tola' for an adult). This medicine is to be taken, rubbed with a little of clarified butter and honey. A decoction of guruchi, shunthi, and roots of eranda (2/3 tola', in weight, each, total two tola's, to be boiled with 32 tola's of water and reduced by boiling, as usual, to 8 tola's) is to be drunk after taking this medicine. This medicine cures rheumatism, gout, sciatica, pain in the intestine, thighs, feet, and the finger-joints; lameness, gulma, swelling, and anemia.  
 
-
 **वातविध्वंसन रसः ।**
 
 ** प्रक्षिप्य गन्धं रसतुल्यभागं कलाप्रमाणं च विषं समन्तात् । कृशानुतोयेन च भावयित्वा वल्लं ददीतास्य मरुत्प्रशान्त्यै ॥ अपस्मारे तथोन्मादे सर्वाङ्गव्यथनेऽपि च । देयोऽयं वल्लमात्रस्तु सर्ववातनिवृत्तये ॥**
@@ -5515,7 +5211,6 @@ Diet and deeds salutary in rheumatism :-
 
  fomentation without rubbing of oil, fasting, drinking of oil, application of douche, external application of prescribed drugs duly pestled, purgation, entering into the rectum of prescribed drugs duly pestled, old sha'li rice and kulattha grams, old wine, soup of meat of wild animals, all sorts of things having the property of pacifying va'yu and kapha, butter-mlk, punarnaba', castor oil (for internal and external use), garlics, patola, leaves of sha'lincha, kaʼrabella, baʼrta'ku, shigru, bot water, pa'ribhadra leaves, gokshura, briddha-da’raka, bhalla'taka, dow's urine, ginger; pungents, bitters, and those which increase power of digestion.  
 
-
 **आमवातेऽपयानि !**
 
  **दधिमत्स्यगुड़क्षीरोपोदिकामाष पिष्टकम् ।दुष्टनीरं पूर्व्ववातं विरुद्धान्यशनानि च ॥ असात्म्यं वेगरोधञ्च जागरं विषमाशनम् ।वर्ज्जयेदामवातार्त्तो गुव्वभिष्यन्दकारि च ॥**
@@ -5523,10 +5218,6 @@ Diet and deeds salutary in rheumatism :-
 Diet and deeds injurious in rheumatism.
 
   Curd, fish, molasses, milk, white basil, mashagrams, (Phased lous Radiatns) cake prepared of rice, unfiltered water, wind blowing from eastern horizen, incongenial foods, unholesome diet and deeds, heavy food, keeping late hour at night, suppression of calls of nature.
-
-
-
-
 
 ## **ALPHABETICAL**
 
@@ -5561,8 +5252,6 @@ A
 |     Aurba'gni rasa                                        261 |
 |      Aurba'nala rasa                                       261 |
 |    A'yasa'di rasa                                          5 |
-
-
 
 B
 
@@ -5610,7 +5299,6 @@ B
 |            Byadhi baʼrana keshari rasa                             27 |
 |     Byosa'di lauham                                      214 |
 
-
 c
 
 |                                                                                                  |
@@ -5628,8 +5316,6 @@ c
 |  Chatustaya rasa                                     78 |
 |   Chinta'-hara rasa                                  113,188 |
 
-
-
 D
 
 |                                                                                                    |
@@ -5642,7 +5328,6 @@ D
 | Dha'tri lauham                                       136 |
 |    Dha'tryadi lauham                                    166 |
 |  Dipta'mara rasa                                       187 |
-
 
 G
 
@@ -5661,8 +5346,6 @@ G
 |-----------------------------------------------------------------------------------------------|
 | Gura mandaram                                      158 |
 
-
-
 H
 
 |                                                                                                |
@@ -5674,16 +5357,12 @@ H
 | Hicca-na'shana rasa                                    96 |
 | Hridaya'rnava rasa                                    114 |
 
-
-
 I
 
 |                                                                                               |
 |----------------------------------------------------------------------------------------------:|
 |                                                                                          Page |
 | Indra-brahma rasa                                    299 |
-
-
 
 J
 
@@ -5697,8 +5376,6 @@ J
 |     Jata'yu lauham                                        259 |
 |    Jayapa'la rasa                                        234 |
 | Joga-ra'ja ...                                          216 |
-
-
 
 K
 
@@ -5764,8 +5441,6 @@ L
 | Lokapa'la rasa                                        49 |
 |     Lokeshwara rasa                                      46 |
 |       Lokeshwara pottali rasa                                  37 |
-
-
 
 M
 
@@ -5854,8 +5529,6 @@ R
 |     Ratnagarbhr pottali rasa                                  39 |
 |      Ratnakarandaka rasa                                    79 |
 
-
-
 S
 
 |                                                                                                     |
@@ -5931,8 +5604,6 @@ T
 |         Tryambaka'bhram                                     120 |
 |           Tryusana'di manduram                                  222 |
 
-
-
 U
 
 |                                                                                               |
@@ -5943,8 +5614,6 @@ U
 |    Unma'da-gaja keshari rasa                              311 |
 | Unmatta-parpati rasa                                   310 |
 
-
-
 V
 
 |                                                                                                        |
@@ -5953,9 +5622,6 @@ V
 |    Vaidya ra'ja rasa                                        48 |
 | Va'ta'ri rasa                                           323 |
 |        Vidya'nkusha rasa                                     187 |
-
-
-
 
 **औषधानां सूचीत्रम्**
 
@@ -5982,8 +5648,6 @@ V
 |     अक्षमण्डूरम                                            २१४ |
 |      अक्षादि लौहम्                                          १६४ |
 
-
-
 आ
 
 |                                                                                                      |
@@ -5995,10 +5659,7 @@ V
 | आरोग्यस्प्रगर रसः                                       २३० |
 |   आयसादि रसः                                           ५ |
 
-
-
 इ  
-
 
 |                                                                                                         |
 |--------------------------------------------------------------------------------------------------------:|
@@ -6014,7 +5675,6 @@ V
 | उन्मत्त पर्पटी रसः                                        ३१० |
 |       उन्मादगजकेशरी रसः                                     ३११ |
 |      उन्मादभअन रसः                                         ३१२ |
-
 
 ओ
 
@@ -6061,9 +5721,7 @@ V
 |   क्रिमिशूलारि रसः                                         २०४ |
 |  क्रिमिहर रसः                                           २०१ |
 
-
 ख  
-
 
 |                                                                                                  |
 |-------------------------------------------------------------------------------------------------:|
@@ -6083,7 +5741,6 @@ V
 | गुल्मवजू रसः                                           १८० |
 | गुल्मशार्दूल रसः                                         १५२ |
 | गुदमण्डूरम                                            १५८ |
-
 
 च
 
@@ -6106,8 +5763,6 @@ V
 |-----------------------------------------------------------------------------------------------------:|
 |                                                                                                 page |
 | छहिर रसः                                           २४८ |
-
-
 
 ज
 
@@ -6434,44 +6089,4 @@ V
 |--------------------------------------------------------------------------------------------------------------|
 | क्षेमेन्द्र रसः                                             ४४ |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

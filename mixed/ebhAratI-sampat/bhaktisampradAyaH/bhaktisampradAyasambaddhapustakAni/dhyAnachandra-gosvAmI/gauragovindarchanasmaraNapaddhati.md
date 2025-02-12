@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNDIwMTc5MzE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 गौरगोविन्दर्चनस्मरणपद्धतिः
 
 ध्यानचन्द्र गोस्वामी गौरगोविन्दर्चनस्मरणपद्धति  
@@ -1121,7 +1109,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNDIwMTc5MzE
 चेष्टास्याः स्मरसंक्रीडासङ्कल्पवर्त्मवीक्षणं ।  
 सखीविनोदवार्त्ता च मुहुर्दूतिक्षणादयः । । २५४ । ।
 
-
 उदाहरणं यथा (ऊण्५.७८)  
 रतिक्रीडाकुञ्जं कुसुमशयनीयोज्ज्वलरुचिं  
 वपुः सालङ्कारं निजं अपि विलोक्य स्मितमुखी ।  
@@ -1542,19 +1529,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzNDIwMTc5MzE
 
 स्मरेदेवं क्रमेणैव सिद्धदेहेन साधकः ।  
 ससाधनेन पद्मस्य व्रजेशौ केशरस्थितौ । । ३६२ । ।
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -15,19 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ1OTE5NzM3ODU
 
 \[
 
-
-
-
-
-
-
 [TABLE]
-
-
-
-
-
-
 
 **INTRODUCTION**  
 
@@ -44,8 +32,6 @@ in number who have originated from the solar, lunar, and fiery letters.
  Vv. 18-20 deal with Purashcharana.
 
  Vv. 21-33 give the names of the 38 Kalâs in couples (Kalârūpa-mithunîbhûtâ) which are the Shaktis of the Mâtrikâ letters previously spoken of.
-
-
 
  There are sixteen of these which belong to the lunar letters, *i. e* the vowels. These are with very slight variation as given in Mahânirvâna Tantra (VI. 25).
 
@@ -71,8 +57,6 @@ in number who have originated from the solar, lunar, and fiery letters.
 
  *Chapter XX.* This chapter deals with the 15th Nityâ Jvâlâmâlinî (Garlanded with Flames). Her Vidyâ (given in Chapter III vv. 64-71) consists of 63 letters and runs thus :—Ong Namo (Obeisance) Bhagavati (All-powerful) Jvâlâmâlini Devadevi (Devi of the Devas) Sarvabhûta-samhârakârike
 
-
-
 (Who withdraws all creation into Herself) Jâtavedasi (Origin of Veda) jvalanti (Kindling) jvala jvala (Kindle Kindle) prajvala prajvala Hrîng Hrîng Hûng Rang Rang Rang Rang Rang Rang Rang Jvâlâmâlini Hûm Phat Svâhâ.
 
  V. 3 speaks of Nyâsa with her Mantra.
@@ -90,8 +74,6 @@ in number who have originated from the solar, lunar, and fiery letters.
  Ghasmarâ(Devourer), Vishvakavalâ (Universe-swallower), Lolâkshī(Hungry-eyed), Lola-jihvik (Hungry-tongued), Sarva-bhakshâ (All-devouring), Sahasrâkshī(Thousand-eyed), Niksangâ (Companionless), Samhitipriyâ (Who delights to Destroy) are to be worshipped in the Ashtâsra (Figure of eight angles).
 
  Achintyâ(Incomprehensible) and seven other Shaktis namely, Aprameyâ(Immeasureable), Pûrnarûpa (All-comprehending), Durâsadâ (Difficult of attainment), Sarvagâ (All-pervading), Siddhirûpâ(Image of Success), Pâvanâ (Purifying) and Ekarūpinî (Whose form is one) are to be worshipped in the lotus of eight petals.
-
-
 
  In the corners and doors of the squares are to be worshipped the eight Shaktis Brâhmî and others.
 
@@ -113,8 +95,6 @@ in number who have originated from the solar, lunar, and fiery letters.
 
  Vv. 12-29 describe Kâmyahoma, that is, Homa for the attainment of one's desire.
 
-
-
  Vv. 30-37 speak of Nigrahahoma, i. e. Homa to punish an enemy.
 
  Vv. 38 and 39 caution the man who practises magic with a view to injure another (Abhichâra) that he should protect himself and explain how this is necessary.
@@ -135,8 +115,6 @@ in number who have originated from the solar, lunar, and fiery letters.
 
  Vv. 88-96 speak of the sacrificial offering (Vali) to the Devīand the fifty couples (Panchâshan-mithuna) and the fruit gained thereby.
 
-
-
  Vv. 97-100 describe what the offerings to the Mithunas should be.
 
  *Chapter XXII*. This chapter speaks of the rites relating the Validevatâ (Receiver of Offerings) of the sixteen Nityâs. This Devī, Kurukullâ, is inseparate from each of the Nityâs. Her Mantra which has been given in Chap III (Vv. 89-93) is of 25 letters This Mantra of 25 letters can be made into two others one of 7, another of 13 letters, by dropping out some of the letters—there are thus three Mantras of Kurukullâ. Her Vidyâ is therefore called Trikhandâ. Her Dhyâna is given in verses I0-12. Her hair is loose and dishevelled (Vikîrnakuntalâ) She is naked. She is red and the embodiment of Bliss (Ânandavigrahâ). She holds in her four hands an arrow, a bow, a noose and a quiver (Tûna). She is surrounded by Shaktis who, as in the case of the Nityâs, resemble herself in form and colour and carry the same weapons. They have just had the first bath after cessation of Pushpa (Ritusnâta) and are quick with desire (Sphurad-yoni). Their eyes are red with the excitement of Bliss (Madânandârunekshanâ).
@@ -150,8 +128,6 @@ in number who have originated from the solar, lunar, and fiery letters.
  Vv. 24 to 27 give the daily worship of, and specific to, Kurukullâ. The Mantra to be used is the same as that of Târâ
 
  Vv. 28 to 30 set out the Dhyâna of Târâ-shakti. She is dark hued (Shyâma-varnâ), has three eyes and two hands with one of which she makes the gesture of granting boons and with the other she holds a lotus. She is surrounded by Shaktis of various colours and forms. She has a smiling face and is adorned with gems and pearls. Her lotus feet rest on two jewelled footstools. This is apparently also the Dhyâna of Kurukullâ in her daily specific worship.
-
-
 
  V. 31 speaks of the articles to be used in daily Homa, and 32 and the first line of v 33 deal with Purashcharana. The second line of 33 and V. 34 say that it is only those who have done Purashcharana who are qualified for any ritual (Prayoga) for the attainment of any desire.
 
@@ -175,8 +151,6 @@ in number who have originated from the solar, lunar, and fiery letters.
 
  Vv. 13-15 give her Dhyâna in Nityapūjâ (daily worship). She should be meditated upon along with her attendants (Parivâra). She has the head of a boar (Kolâsyâ) and her body which from her throat downward is that of woman, is of the colour of molten gold. Her hair is of a burning tawny colour. She has three eyes and eight arms. She holds her hands the Discus (Chakra), the Conchshell (Shangkha) the Lotus (Ambuja), the Noose (Pâsha), the Mace (Mushala), the Plough (Shīra) and makes the gesture of Dispelling Fear (Abhaya) and Granting Boons (Vara). She is seated on the in to be back of Garuda. Her Shaktis or attendants are meditated upon as like herself. In her worship (vv. 16-18) for
 
-
-
 the attainment of any specific object she must be meditated upon as seated on a lion, a tiger, an elephant, a horse or Garuda. She is to be meditated upon according to the Sâdhaka's aim as being of a dark green, red, yellow, black or smoky purple hue. Her attendants are also to be meditated upon in the same way.
 
  V. 19 says that she is to be meditated upon as yellow in colour when Paralysing (Stambhana) as of dark green hue and seated on a lion (vv. 20-24) in a difficult pass (Durgama-mârga).
@@ -197,8 +171,6 @@ the attainment of any specific object she must be meditated upon as seated on a 
 
  In verses 6 and 7 it is said that there are countless minor or subsidiary Shaktis which originate from the five “elements”
 
-
-
 (Bhûta) Kshiti and others and the Gunas Sattva and others. They are in them individually or in their combinations and in this way are countless. It is only a few of them who are dealt with in this chapter.
 
  In verses 8-11 it is said that the Earthy Ones (Bhaumâkârâ) are yellow in colour, raiment and ornament and paralyze (Stambḥanakârikâ) The Water-produced Ones (Âpyâ) who are Sâttvikâ, are white and grant Knowledge (Jnâna), Peace (Shânti), Wealth (Shrī), Fame (Kīrti), Good Fortune (Saubhâgya) and Liberation (Moksha). The Fiery Shaktis are red and Râjasâ and grant the powers of Subjugation (Vashya), Attraction (Âkarshana) and Peace (Shânti). The Aerial Shaktis are smoky purple (Dhûmrâ) and the Etherial Shaktis (Nâbhasâ) are blue.
@@ -215,8 +187,6 @@ the attainment of any specific object she must be meditated upon as seated on a 
 
  The rest of the chapter gives different Dhyânas appropriate for the attainment ofdifferent aims. In propitiary rites (Shubhakarma) the Devīappears with a smiling face and in rites in which evil to others is aimed at (Ashubhakarma) she appears fearsome of aspect and everything about her awakens fear.
 
-
-
  *Chapter XXV*. In this Chapter it is stated that the 16 Nityâs along with the (36 consonant) letters which are the manifested 36 Tattvas, and the Mantras which are formed by the letters, as also the Yantras are one with Time (Kâla). The Prayogas with these are also given.
 
  In verse 3 it is said that the vowels are the 16 Nityâs and the 35 consonants Ka to K*sha* along with the first vowel A (अ) (which is both vowel and consonant) are the thirty-six Tattvas. The nine groups into which the letters are divided are the nine Nâthas or Gurus. The 16 vowels are divided (v. 4) into two groups of 8 letters each. But the vowels make one group when they are considered in connection with the Mâtris Vashinī and others. The consonant letters are divided into seven groups of five each.
@@ -232,8 +202,6 @@ the attainment of any specific object she must be meditated upon as seated on a 
  Verses 14 to 16 contain directions for drawing the Ghatikâyantra and for the writing therein of the Vidyâ in the order of the Yugas and so forth.
 
  Verses 17 and 18 classify the 576 letters into three sections representing three parts of Tripurâ Mantra.
-
-
 
  After giving some rituals (verses 19-24), verses 25 and 26 give some particulars about the mode of calculation of time which is explained at great length by the commentary. It is there said on the authority of an older text that the duration of the year is 365 days, 15 Dandas, 30 Palas and 22
 
@@ -259,8 +227,6 @@ Vipalas, (A Danda = 24 minutes). The same authority says that the duration of th
 
 * Chapter XXVI*. This Chapter deals with the worldpervading nature of the Mantras (Mantra-vyâptı) and of the oneness of the 16 Nityâs with the Matrikâs. It deals first
 
-
-
 (verses 5-10) with the origin of sound as Nâda (See “Garland of Letters”) and how from its Parâ stage it changes into Vaikharî. This passage has been quoted in the Shatchakranirûpana and translated in the “Serpent Power” (P. 31).
 
  Verses 11-16 say that by uniting each of the 16 vowels with each of the 36 consonants we get 576 letters (16× 36). By uniting these letters in different ways all the Mantras, words, sentences and languages are formed. There is no one who can fully describe the greatness (Mahâtmya) of Sound.
@@ -279,8 +245,6 @@ Vipalas, (A Danda = 24 minutes). The same authority says that the duration of th
 
  Verses 54 and 55 begin the subject of Am*rit*eshvarî Devî and verse 56 gives her Vidyâ or Mantra. Verses 57-62 speak of the six aspects of Amriteshvarî-vidyâ. The Dhyâna of Amriteshvarî is given in Verses 64-66. She is like pure
 
-
-
 crystal. Her body is moist with the nectar flowing from the Moon on her forehead She is dressed in pure (white) raiment, and holds in her hands a water lily, a lotus, the full moon and a jar of nectar. She is seated, decked with jewels set with pearls, in the middle of a lotus of 16 petals and is surrounded by 160 attendant Shaktis. It is to be noted that in the text all the adjective words are in the plural because the Devî has six aspects.
 
  Verses 67-70 give some rituals and 71 and 72 the mode of worship with her Mantra (Vidyâsâdhanâ). Verses 73 and 74 speak of the mode of formation of Lotus-shaped Yantras (Padma-yantras), and Verses 75-82 of 6 kinds of Vajra-yantras and their rites. The rest of the Chapter deals with formation of other Yantras and rituals.
@@ -298,8 +262,6 @@ crystal. Her body is moist with the nectar flowing from the Moon on her forehead
  Verses 20 and 21 state that a man breathes 360 times in one Nâdikâ (= Danda = 24 minutes) and as there are 60 Nâdikâs in a day he breathes 21,600 times daily.
 
  Verses 22 to 24 describe how man's breathing affects and is affected by the five Bhûtas during the day. The verses which follow to verse 34 deal with the same subject of breathing and in greater detail.
-
-
 
  Verses 35 to 44 have as their subject the Nâdîchakra and the place of Kundalınî therein.
 
@@ -323,8 +285,6 @@ crystal. Her body is moist with the nectar flowing from the Moon on her forehead
 
  Verses 81 and 82 give the signs of a Siddha.
 
-
-
  Verses 83 to 100 describe the signs of approaching death so that men may prepare themselves for it when it comes. The Gaurī-kânchalikâ Tantra which is a Medical Tantra give the signs more fully.
 
  Among other signs given in this book the following may be noted. If a man without cause changes his nature such as a miser becomes liberal and so on, when a man cannot see the polar star, when a man on the eye balls being pressed on either side of the bridge of his nose does not see the half-moon-like lights, when on closing his ears he does not hear the sound of Kundalinî and so on.
@@ -345,8 +305,6 @@ crystal. Her body is moist with the nectar flowing from the Moon on her forehead
 
  Verses 23 to 30 relate to some rituals Verses 31 to 33 describe the order in which Bhûmi, Kâlachakra and Mahâvyoma are, and of the places of the planets in Kâlachakra.
 
-
-
   Verses 34 to 42 describe Nityâloka and the place there of the Devî and her attendants as also of Vârâhî and Kurukullâ.
 
   Verses 37 to 41 contain a Dhyâna of Lalitâ. She is in the garden of Kalpa trees where all the six seasons prevail. She is surrounded by countless Shaktis of Music (Sangîta-shakti) who are singing, playing on musical instruments and dancingShe is seated on a throne set with gems and in her eyes are seen her enjoyment of the dancing and music. Her face is illumined with a pure smile, Her body shows the bliss which is had on partaking of the “Natural Wine” (Sahajâsava), She regards with a kindly gaze good Sâdhakas. Around her are elephants and horses decked with variegated clothing, golden fly whisks and the like. She is surrounded by other Nityâs who are like unto Herself.
@@ -365,8 +323,6 @@ crystal. Her body is moist with the nectar flowing from the Moon on her forehead
 
   Verses 10-12 give general rules regarding the making of the Ma*nd*apa and also the places where the altar (Vedî) and Ku*nd*a are to be made and verses 20-22 give the measurements.
 
-
-
   Verses 23-27 speak of the making of the square-shaped Ku*nd*a and other Ku*nd*as within it and verses 28-31 give other details. Verses 32 and 33 describe the semicircular, verses 34 and 35 the triangular, verses 36-39 the Yoni Ku*nd*a, verses 40-41 the five-sided (pentagonal), verses 42-43 the six-sided (hexagonal, verses 44-46 describe the seven-sided and verses 47-51 the octagonal (Ashtâsra) Ku*nd*as respectively
 
   Verses 52-57 give the dimension of the Ku*nd*a for making ten million Homas (Kotihomaku*nd*a), the number of priests required therefor and other details and Verse 58 speaks of the depth (Khâta-mâna) of the Ku*nd*as and verses 59-61 give the measure of the sacrificial String (Mekhalâ-mâna). Verses 62-66 speak of the Svarûpa of the Yoni-ku*nd*a and how to make it. The Yoni is in shape like the leaf of the Ashvattha tree (*Ficus relegiosa*). It is said here that the Yoni is the great place (Pada) of the Tattva which is the Cause (Kâranabhūta) and therefore the oblations should be made into it. The word Pada is defined by the Commentator to mean the place of origin (Udaya) and absorption or rest (Vishrânti) and he says it is great (Mahat, because it is complete (Pūrna). By offering oblations into the Yoni full fruit is obtained within a short time.
@@ -380,8 +336,6 @@ crystal. Her body is moist with the nectar flowing from the Moon on her forehead
   *Chapter XXX*.—This chapter deals with the Vâstudevatâs (Devatâs of the homestead) of the sixteen Nityâs, with their Chakra and mode of worship therein of the Devî.
 
   Verses 4-10 give their origin. Of old there was an Asura by name Vâstupuru*sh*a whose form was a square (Chaturasrâk*r*iti).
-
-
 
 He was all-destructive (Sarva-nâsha-k*r*it). All the Devas tried to kill him. But by reason of the boon (Vara) granted by Shakti and Shiva he could not be destroyed by them. Then the Devas came to Shiva for his destruction. They said : Tell us now of how the pride, born of the sense of indestructability, of this Asura can be destroyed. Unless you do this the universe (Vishva) will be distressed by him. They having said this Shiva replied His destruction is difficult. He should be buried underground and fifty-three Devas should remain on him; then only will he not be able to move. From those who are averse to the worship of these Devas, they will take (the fruits of) their good acts and do them evil. Therefore these Devatâs should daily be worshipped.
 
@@ -397,8 +351,6 @@ He was all-destructive (Sarva-nâsha-k*r*it). All the Devas tried to kill him. B
 
   In verses 51-55, however, something on this matter is said. It is here stated that in the Mūlâdhâra of all animals is Fire
 
-
-
 (Pâvaka) and in the heart is Sun (Prabhâkara). In the head below the Brahmarandhra is the Moon (Chandramâ). The First (Âdyâ) Nitya (1. e. Lalitâ) pervades these three (Trayâtmaka). The oneness of these three along with their Lights (Tejas,) with the Mind should be meditated upon. The letters of Sun, Moon and Fire should then be offered as oblation into the Light (Tejas) which has been kindled in manner stated above.
 
  Verses 56-60 show how this oblation should be made.
@@ -411,8 +363,6 @@ He was all-destructive (Sarva-nâsha-k*r*it). All the Devas tried to kill him. B
 
  In Verses 73-80 it is said that others also may attain Siddhi after many births who worship the Devī with devotion, but fools who are proud of their learning and wealth go the downward path, birth after birth. When all sin arising from ignorance and wicked longings is destroyed then there arises devotion
 
-
-
 (Bhakti) for the Nityâs. It is by the power of that Bhakti that a man becomes a Jivanmukta. Even Devatis are what they are by the power of that Bhakti The Lokapâlas derive their respective places from this. Even Shiva meditates upon Her. All Devatas owe their existence to Her and their bodies are but of Her substance.
 
  Verse 81 says that Supreme (Para) Homa is possible only for the Siddhas and in verse 82 it is stated that Bhakti in the Nityâs is possible only for those whose sins are all destroyed and who serve the knowers of Tat, that is, the Gurus who realise the Supreme Essence (Viditaparamartha).
@@ -422,8 +372,6 @@ He was all-destructive (Sarva-nâsha-k*r*it). All the Devas tried to kill him. B
  In Verse 89 it is said that Para Homa is the dissolution of the mind which now accepts and now rejects (Sangkalpa-vikalpa-kârana-bhûta) into that which vascillates not (Nirvikalpa) and which is the common aim of both Gross (Sthûla) and Subtle (Sûkshma) Homas.
 
  Verses 90-93 establish the oneness of Sthûla and Sûkshma Homa with Para Homa. It is here said that the articles of
-
-
 
 Homa offered in Sthûla Homa when burnt become one with the Fire into which they are offered Sûkshma Homa, it is said, is the realisation of the oneness of all sound and whatever is signified thereby with the object of Knowledge, the Knower, and the act of Knowing Para Homa is that whereby is effected the total absorption, into the Changeless (Avikârini) Pure Being (Paramârthâtmani = Sattâmâtrasvarûpe), which is the Mahâshakti inseparate from one's Self and is the Light which shines without being fed by any fuel.
 
@@ -449,8 +397,6 @@ Homa offered in Sthûla Homa when burnt become one with the Fire into which they
 
  The rest of the Chapter gives details of different kinds
 
-
-
 of Homa and of the times when the same should be done and of the materials to be used therein.
 
  Here there are a number of trees mentioned by name.
@@ -475,8 +421,6 @@ of Homa and of the times when the same should be done and of the materials to be
 
  Verse 11 gives the Mrityunjayavidyâ (Mrityunjaya is Shiva as Conqueror of Death). His Dhyâna is given in
 
-
-
 Verses 13 and 14. He is seated on a lotus the stalk, the petals and the pericarp of which are respectively, the first, second and third letters of his Vidyâ. His body is bathed with nectar. On his forehead is a Kalâ of the Moon. He is white in colour and is holding in his hands a deer, a rosary of Aksha seeds, and a noose (Pâsha) and is making the gesture of Exposition (Chintâ = Vyâkhyâna-mudrâ) He should be meditated upon upon as one with the meditator (Svaikyena bhâvayet).
 
  Verse 15 gives the Vidyâ of Triputâ and verses 15-20 her rituals and Dhyâna She is red and gracious of aspect, carrying in her six hands a flowery arrow, a goad, two lotuses (one in each) a noose and a sugar cane bow. She has a bright gem-set crown on her head. She is surrounded by Shaktis singing sweetly, decked in love-provoking fashion (Shringâra-bhushâ) and carrying fly whisks (Châmara), mirrors, and so forth
@@ -497,8 +441,6 @@ Verses 13 and 14. He is seated on a lotus the stalk, the petals and the pericarp
 
  Verse 84 makes the important statement that Lalitâ assumed a male form (Pungrûpa) as *Krishna* and by enveloping all women (Sarva-nârî-samârambhât) enchanted the whole world.
 
-
-
 K*rishna* was surrounded by his Shaktis (i. e the Shaktis of Lalitâ). He assumed six different forms (Shod*h*i kalpayad vapuh).
 
   The names of the six forms are Siddhagopîla, Kâmarâja gopâla, Manmatha-gopâla, Kandarpa-gopâla, Makaraketanagopâla and Manobhava-gopâla. The last five, namely, Kâmarâja, Manmatha, Kandarpa, Makaraketana, Manobhava were, it is stated in Chapter VII, vv. 23-33, created by the Dêvi Lalitâ. They are Her five arrows of desire representing Her five senses of knowledge. (Jnânâtmakân = panchendriyajnânavigrahân).
@@ -513,17 +455,11 @@ K*rishna* was surrounded by his Shaktis (i. e the Shaktis of Lalitâ). He assum
 
   The Validevîs are (verse 3) the Shaktis who lead us astray (Unmârgapravartikâ*h* shaktaya*h*) by making us believe that which is not *That* to be *That* (Atasmin tadbuddhing janayitvâ). Panchami (= Vârâhî) occupies the place of the Father (Janakâtmikâ) as she (as the commentary says) protects us from evil (Anabhimata) and Kurukullâ is Mother as she gives us what is good (Abhimata). The aims of human existence (Purashârthâ*h*) are ocean-like on account, as the Commentary says, of their greatness and boundlessness. The body is an island
 
-
-
 of (nine) gems (verse 5). The nine gems are Ojas, Shukra, Majjâ, Asthi, Medas, Mângsa, Roma, Tvak, Rudhira. Resolutions (Sangkalpâh) are like the wish-granting trees, for any action undertaken with resolution isfruitful. The Âdhâras (that is, the Six Chakras or centres in the body) are the Seasons. \[This is so because by the Union of Sus*h*umnâ with I*d*â and Pingalâ, which are Moon and Sun, time may be measured in the Chakras\]. Time which is Âtmâ (Kâlâtmâ=Kâlasvarûpâtmâ) along with the Planets, the Constellations, the Zodiac (Râshichakra) move west (*LIt*. faces west), therefore the Sâdhaka faces East (when he is doing Sâdhanâ).
 
   The Tâttvika aspect (Svarûpa) of Kâla is dealt with in the 36th. Chapter. In verse 6 it is said the Knower (Jnâtâ) is one's Self (Svâtmâ) i. e. the worshipper; Knowledge (Jnâna) is the offering (Arghya) ; the Object of Knowledge (Jneya) which is the Shrîchakra (See Tantrik Texts, vol. X) is outside the Knower. The worship of the Shrîchakra is the unification of these three (viz. the Knower, the Knowledge and the Object of Knowledge). Here is shown the identity of different parts of the Sâdhaka's Self with different parts of the Shrîchakra for which see pp 5-8 of Introduction to Part I (vol. VIII of T. T.). Verses 7-11 say that the Siddhis (A*n*imâ etc.) in the Shrîchakra are the Rasas Sh*r*ingâra and others together with Niyati; the six Ūrmis (Hunger, Thirst, Sorrow, Delusion Decay and Death) together with Pu*n*ya (Virtue or Merit) and Pâpa (Sin) are the eight mothers Brahmî and others. The (five) Bhūtas, the (ten) Indriyas (Senses) and Mind (Manas) are the (16) Kalâs of Nityâ. The functions of the five Organs (Indriyas) of Action (Karma) such as Speech (Vachana), Taking (Âdâna), Walking (Gamana), Emission (Visarga) and Bliss (Ânanda) together with the three Dos*h*as namely Vâyu, Pitta and Kapha, (See Introduction to Vol III of Tantrik Texts) are the eight Shaktis Ananga-kusumâ and others. The fourteen Nâ*d*îs mentioned in the 27th Chapter are the fourteen Shaktis Ks*h*obhi*nî*and others The ten Vâyus (Prâna, Apâna, Samâna, Vyâna, Udâna; Nâga, Kûrma, Krikara, Devadatta, Dhananjaya) are the ten Shaktis Sarva-siddhi-pradâ and others. The ten Fires (seven of which are in the Dhâtus and three in the Dos*h*as) are the Shaktis Sarvajnâ and others; Heat and Cold, Happiness and Pain, Wish or Desire (Ichchhâ) and the three Gu*n*as (Sattva, Rajas, Tamas) are the Shaktis Vashinî and others. The (five) flowery Arrows are (five) Tanmâtras. The Mind (Manas) is the Sugarcane Bow (Iks*h*udhanu*h*). Attachment (Râga) is the Noose
 
-
-
 (Pâsha). Repulsion (Dves*h*a) is the Goad (Ankusha). The Text in Verse 12 then proceeds to state that Avyakta, Mahat, Ahamk*r*iti (Prak*r*iti-tattva, Buddhi-tattva, Ahamkâra-tattva) are the Devîs Kâmeshvarî, Vajreshvarî and Bhagamâlinî, and Samvit (=Sakalâtmaka-chaitanya=the supreme, all-embracing Consciousness) is Kâmeshvara. One's own Âtmâ\[which remains as the one Sat after having absorbed within itself all the Vikalpas which is the world (Vishva-vikalpa)\] is the DevîLalitâ whose body is the Universe (Vishva-vigrahâ). Meditation on Her which is the same as meditation on one's Self (Tadvimarsha=Svâtma-vimarsha) is Redness (Lauhitya). Bhâskararâya in his commentary to the Bhâvanopais*h*ad *R*ik 29 (See Tantrik Text Vol. XI pp. 54, 55) has dealt with this. Kâmeshvara he says is like crystal and therefore the part which is white (Shuklachara*n*a). The Commentator says that attachment of mind to anything (Râga) is Redness. The Consummation of worship (Upâsti) is meditation on one's Self. Siddhi is attained when thought does not wander (from the contemplation of the identity of one's Self with the Object of worship) The Mudrâs (Yoni Mudrâ and others) signify (verse 14) faith (Bhâvanâ) in the greatness (Vaibhava) of the object of worship. For the attainment of this Bhâvanâ, what is necessary is action (Kriyâ). Though action passes (Chalatve’pi), it yet produces steadiness. Prayogas (Rites done to avert evil and induce what is good) help in the dissolution of indiscrimination (Aviveka) which is the cause of all distinctions (Vikalpa) into Vimarsha. Yantras and Mantras (verse 16) help to produce steadiness in the belief of one's unity or oneness with the Âtmâ (Svâtmatve). Worshipping or saying prayers thrice daily (Sandhyâ) rids man of the notion of beginning, middle and end (Âdimadyânta-majjana, i.e. it leads one into Timelessness). The other Shaktis (i. e. the Guptayoginîs) who dwell in the Chakra produce the belief in the multifariousness of the Universe. By Nyâsa (v. 18) the body is made like that of the Devatâs. \[Nyâsas tu devatâtvena svâtmano dehakalpanam\] Japa produces a sense of identity with the Devatâ. \[Japas tanmayatâ-rûpabhâvanam\]. By Homa is destroyed the sense of multifariousness. (The Commentator here says :—there are different kinds of ornaments made of gold but they are all gold. The Bhâvanopanis*h*ad, R*i*k 32, T T Vol X, p. 59 says that Homa is the dissolution into the Âtmâ of all Vikalpas or Distinctions such as “Thou” and “I,” “Is” “Is not,” “Should be done” and“Should not be done” and the like\]. Tarpa*n*a is the Contentment (T*r*ipti) caused by the realisation of the identity of all things with one's Self. (i. e. Tarpa*n*a leads to this realisation). \[Es*h*âm anyonya-
-
-
 
 sambheda-bhâvanang tarpa*n*ang sm*r*itam\]. The Bhâvanopani*sh*ad says that the Contemplation on the object thereof as one with one's Self (Abheda-bhâvanâ) is Tarpa*n*a. Abhisheka is (i. e. leads to) the final removal of the pain arising from Moha, Ajnâna and the like \[Moha is defined in the Commentary to mean “the absence of the knowledge of the rightness and wrongness (Kartavyâkartavyajnânâbhâva) of action arising out of overwhelming desire\]. Vidyâ is Âtmâ which is the abode of all (Sarvâshraya) as all things are one with It. This is Great (Mahân) as it is All-pervading (Vibhu). Upadesha (instruction i. e. spiritual instruction) is (i. e. leads to) the removal of all attributes (Upâdhi). Dakshinâ (to the Guru) is (implies) inseparateness (Bheda-shûnyatvam) between the two (Guru and Shis*hy*a). Service (of the Guru) is (i. e. causes) steadfastness (Sthairya) of Self-knowledge. The fifteen Nityâs are the fifteen lunar days (Tithis) in the evolution (Parinâma) of Time. The five fingers are the five Elements (Panchabhûtas). Their intimate connection with one another is (as appearing in Kara-mudrâ or Mudrâ made with the hands and fingers) indicative of the manifoldness (Prapanchatâ = *lit* five-foldness) of the Âtmå.
 
@@ -537,8 +473,6 @@ to oneness in the Supreme sense : Tâdâtmya-paramârtha-melana). By the Bindu (
   Verses 34-43 show how the Mantras can be arranged in a Yantra The Commentary deals with this in very great detail.
 
   Verses 44-45 contains six questions by the Devî (1) relating to the meaning of the five kinds of Mantras—as Sthûla, Sûks*h*ma and Para; (2) how the Sâdhana of these Mantras can be adequately carried out; (3) wherein lies the in-efficacy of their
-
-
 
 Sâdhanâ; (4) how inefficacy may be rectified; (5) what are signs of the Siddha; (6) what is Siddhi
 
@@ -554,13 +488,9 @@ Sâdhanâ; (4) how inefficacy may be rectified; (5) what are signs of the Sidd
 
   In Verse 64-66 it is said that the meanings of Mantras are of three kinds. Upâsakas also are of three kinds. The Siddhas know the oneness of Mantras with Parâ rising as they do through different stages such as Pashyantî and the like and returning again by the very nature of their oneness (Tâdâtmya) to Parâ. The Sâdhyas seek to know the meanings of Mantras according to the rules of grammar and the like. The Sâdhakas meditate on the identity in the Mantras of, on the one hand, the five Bhûtas which are that which is denoted by speech (Vâchya) and are aspects of Avyakta (Avyaktâtmaka) with, on the other hand, the letters (Ak*sh*aras), which are that which denotes (Vâchaka) as they are the Shaktis of Avyaktanâda.
 
-
-
   Verses 67-69 speak of the transcendental significance of Mantras (Mantra-vîryam = Mantrâ*n*âm paramârtha-svarûpam). By a knowledge of this man becomes liberated whilst living (Jîvan-mukta). By a knowledge of this, Mantras may be made efficacious. Verses 70-72 give the thirteen causes whereby a Mantra becomes inefficacious and verses 73-75 note the traits of a man who has attained Siddhi in Mantra. He neither hates nor is attached to anything greatly. He is neither over-sorrowful nor over-joyful. He is neither over-affectionate nor envious. He is not overcome by any calamity. He makes others happy and avoids giving pain. His body is merely a vehicle for his Self. He meddles not in the affairs of others. To him loss and gain are the same and he is always contented. He can enjoy a thing and yet give it away. Verses 76-79 describe other powers of a man who is Mantrasiddha. It is here said that it is only a man of this kind who should do any rite (Prayoga). Verses 80-83 say that just as between men and men and Devas and Devas there exists enmity—so also is it between Mantras and Mantras. It shows how such enmity arises and between what Mantras. Verses 84-86 explain how owing to the fault of the Upâsaka a Mantra may become inimical and if so how this evil can be remedied. Verses 87-88 state how a Mantra may be made propitious. Verse 89 gives direction about the making of amulets and verse 90instructs as to how to use the same. Verses 91 to 100 give the names of fifty Herbs (O*sh*adhi) one for each of the fifty letters of the alphabet. These are classified in five. groups of ten each. Each of such groups belongs to one of the five elements (Bhûtas).
 
   *Chapter XXXVI*. This is the last Chapter. It begins with twenty questions (Vv. 1-6) by the Devî. She asks Shiva about (1) The true nature (Svarûpa) of the sixteen Nityâs, of Shiva himself, of Her own Self and of the other Devatâs. (2) How the same can be known (3) What is the form of the Universe (Kimâkâram vishvam). (4) What are the merits (Punyas) and demerits (Pâpas) of creatures. (5) How or by what acts are they caused. (6) What are the causes which lead to their being born. (7) What is Liberation, (Mukti). (8) What is the world of birth and death (Samsâra). (9) Who gets Mukti. (10) What is the cause of bondage. (11) How is one liberated thereform. (12) What is the root of Samsâra (13) What are the Tattvas. (14) What is intelligence (Dhî) (15) What are the Indriyas (Senses.) (16) What are Prâ*n*as. (17) What is Jîva (18) What is Para, (i. e what is beyond Jîva). (19) What is Time
-
-
 
 (Kâla) and (20) What are the planets (Graha). The Devi ends Her questions by asking that Her questions may be answered in a manner authorised by the Vedas, the (Dharma) Shâstras, the Purânas and the Âgamas.
 
@@ -571,8 +501,6 @@ Sâdhanâ; (4) how inefficacy may be rectified; (5) what are signs of the Sidd
   The second line of verse 12 and verse 13 answer the second question. It is here said that by the annihilation of evil desires (Durvâsanâ), the unchanging (Sthira) Âtmâ manifests Itself. This Âtmâ is eternal (Nitya) true and therefore without a second and great (Mahân i. e. not limited by time and space) It may also be attained by means laid down in Nityâ-hridaya Tantra (i. e Yoginî-h*ri*daya) Verse 14 answers the 3rd question. The Here Shiva says :—Shabda and Buddhi are of two kinds transcendental (Paramârtha-rûpa) and non-transcendental (Aparamârtha-rûpa); the latter pervades truth and untruth. The universe therefore appears to be so. Shiva answers the 4th question in the first line of verse 15 by saying “It is on account of the two fold character of Shabda and Buddhi that creatures become virtuous and sinful. Shabda and Buddhi and the Prapancha are the same in that which is true (Satya) and what is untrue”.
 
   In the second line of verse 15 and verse 16 He answers the 5th and 6th questions. He says : “That the exercise or functioning (Vyâpâra) of the senses (Indriyas) of a man who is prompted by true Jnâna is Pu*n*ya. It is Pâpa when the mind takes that to be right which is not so. It is from the latter that
-
-
 
 various kinds of birth emanate.” In verse 17 He answers four questions. True knowledge (Yâthârthye jnânam arthânâm) is Mukti. The reverse of this (Tadviparîtatâ) is Sams*r*iti (= Samsâra). Liberation therefrom is by Buddhi. Desire is bondage.
 
@@ -587,8 +515,6 @@ which is Manmayi (Shivamayî) is Chit. \[The commentator says that it is Dhî or
 
   Verse 39 answers the 16th, 17th and 18th questions. The different manifestations (Vij*r*imbha*n*a) of Chaitanya caused by the action thereon of Buddhî and the five Bhûtas are the Prâ*n*as (ie the Vâyus,—Prâ*n*a, Apâna, Samâna, Vyâna, Udâna). Jîva is the witness thereof (Tat-sâks*h*ibhûta) \[The Commentary says Jîva is that which goes not the way suggested by the body and
 
-
-
 senses (Deha and Indriya)\]. Para is Tattva (Tattvâtmaka) because Tat is Truth. \[The Commentary says that when Buddhi which in itself is apprehension of objects (Upalabdhi-svarûpinî) knows that the body and the senses are not the Self and is not affected thereby and thus resumes its true nature—as it were a fire which does not burn—then it is called Para\].
 
   Verses 40-47 answer the 19th question. Kâla, it is said, possesses all the qualities above enumerated as regards Buddhi. Shiva says “Whatever the two letters in the word Kâla signify that is My Body. I cannot easily describe or show it to Thee, but will try to do so by illustration. Day succeeds night because of the movements by rotation of the sun, the moon and the other heavenly bodies. Therefore it is not right to speak of Time (Kâla) as identical with night and day (Tan-mayatâ-rûpam). Lava, Tru*t*i and other divisions of time are merely fractions of universal Time. The one nature (Rûpa) of Kâla is that Chit which has neither beginning nor end. Lava, Tru*t*i and the like are merely measures of (Anumîyate) Kâla. That is the true nature (Svarûpa) of Kâla, which is gained or known (Yat tu labhyate) by meditating thereon (Bhâvanât) according to the capacity of one's intelligence (Svabuddhyâ) Nothing more can be said about this.”
@@ -597,15 +523,11 @@ senses (Deha and Indriya)\]. Para is Tattva (Tattvâtmaka) because Tat is Truth.
 
   In verses 50 to 54 the Devî says: “Lord though Thou hast answered my queries yet I have not gained a complete knowledge of the universe (Prapanchâtma-viveka)”. Then She proceeds to ask twelve more questions. Who is born and who dies? Why is one born and why does he die? If the Jîva is of the formless omnipresent Âtma, then how and where does it exist (Kathang sthiti*h*)? How and where do Kâla and Paramâtmâ abide? Is it the Liberated or the others who are born? Where are the five Bhûtas? Are they in the bodies (Dehes*h*u) or outside them? How does the Jîva enter the body and how does it leave the body? To these Shiva replies (Vv. 55-56) that as a result of the actions (Karma-vipâkata*h*) caused by the variety of Buddhi (Buddhivaividhyena) about which I have spoken both birth and death take place. (The Commentater
 
-
-
 adds that the cause of birth and death (Janana-marana-kâra*n*am) of the Jîva is the Egoism (Abhimâna) that the body is the Self\]. The relation between Supreme (Para) and the Universe (Vishva) is like fire in a piece of heated metal. Kâla and Para are one with the other (Tâdâtmya). The Liberated (Muktâh) never become Jîvas on any account, nor are any born who have not previously been born (Apûrvâh) Buddhi makes its individualising impress on the form of Jîva, just as a seal (Mudrikâ) makes its mark on a bit of bees’ wax (Madhûchchhishta)
 
   The Text (Vv. 59, 60) then deals with Earth, Water, Fire, Air and Ether, the last of which is all pervading (Sarvaga) and One with Time (Kâla-tâdrûpyata*h*). They are in bodies.
 
   The coming (Âgati) of the Jîva (V. 61), into the body composed of the five Elements, is the result of the union of the Vîryas (Seeds), that is, Shukra and Sho*n*ita of the father and mother. Their union (Tâdâtmyam sangatam) manifests as the individualised Chit. When, as in the case of the Siddhas, there is a cessation (Virania*n*a) of that which produces the sense of I ness (Ahamiti upalabdi*h*) which is the result of Prârabdhakarma, death is like sleep and there is no change when they leave the body. \[The Commentator says—By the Will (Svechchhayâ) of the impartite Chit (Anavachchhinnachit). that is the Svarupa of Buddhi which is apprehension (Upalabdhisvarûpa) in bodies, becomes Jîva and goes out through the senses (Indriya-dvârâ vahırgatâ) and experiences (Anubhavati) the things of the Objective World (Vis*h*ayân). This is the Wakeful State (Jâgradavasthâ). When it detaches itself from the senses and remaining in the heart experiences whatever is therein, it is said to be in a Dreamful State (Svapnâvasthâ). When it detaches itself from the heart also and rests (Vishrâmyati) in the Consciousness (Chaitanya) which is the Paramârtha, it is said to be in a state of Dreamless Sleep (Sus*h*uptyavasthâ). To the Siddha who is Chitsvarûpa, to whom birth and death are like the reflection of the Moon in water, the latter is therefore like dreamless sleep\]. For they know the true relation of body and Self by the initiation (i. e. by Vedha or Drug Dîkshâ) of the good Guru. In the case of the ordinary man, (Itara = Pâmara), the Sâdhyas and the Sâdhakas this is not so. \[The Commentary says that the Sâdhyas, though they are initiated by a good Guru (Sad-guru-ka*t*âk*she* satyapı), are yet by reason of their propensities occupied in ritual and averse from making any attempt to know the true nature of the body and the Âtmâ. The Sâdhakas although they, by the initiation of the Sad-guru, have attained some apprehension of the Paramârtha, are not fully rid of their natural propensities\] These three classes
-
-
 
 only lose their attachment for the body when severed therefrom (by death).
 
@@ -616,8 +538,6 @@ only lose their attachment for the body when severed therefrom (by death).
   Verses 69-71 state, that without the help of the Sadguru and one's own efforts nothing can be gained. Through the aid of both, man realises his Svarûpa. The Devî then (V. 72) asks—What is gained by the service of the Sad-guru ? Verses 73-81 give in reply the forty-seven qualities acquired by the service of the Sad-guru which produces Self-knowledge (Âtmajnâna) Such a man looks upon all as himself (Âbhırûpya- Sarvâtmabhâva). He is free from all doubts in spite of conflicting Shrutis. He is full of contentment as he has realized himself and has a feeling of his Completeness (Pari-pûrnatâ). He is always merciful and free from both attachment (Râga) and hatred (Dves*h*a) He is easily accessible and free from pride, and is self-controlled (Niyata-shîla). He is grateful. His concern is Truth and not the affairs of others. He is honest and humble (Ârjava). He seeks not wealth. His attachment, to anything outside himself, is only to the extent necessary for the preservation of his body. He is free from procrastination and meanness and excessive longings.
 
   He does not indulge in idle converse and useless pursuits, nor in harmful enjoyment. He avoids the society of the deceitful. He delights in talking of the aims of humanity (Purus*h*iârtha) and in thought of the same. It is not in him to take what belongs to another. He is full of faith (Âstikya) and ever thinks of the world to come (Paraloka). He is constantly engaged in worshipping, singing hymns of praise of, and in conversation regarding the greatness (Vaibhava) of, the Devatâs. He avoids sin and seeks merit. He is indifferent to the praise and censure of others, and is free from all
-
-
 
 attachment. He desires nothing and is never agitated. He regrets nothing (Anâks*h*epa or, if the variant reading Anapek*sh*a be taken, he depends on no one or is free from partiality), He is always alert. He conceals nothing (the Âgamas and the like) from the believers, but, does conceal them from the non-believers He praises and upholds the Guru, the Vidya (Mantra), the Âgamas and the customs. These are the signs of Siddhas. The ignorant calumniate them.
 
@@ -635,11 +555,7 @@ and nayptercount be communicated for gain.
 
   The second chapter which deals with the Nâthas (i. e. the Gurus of the three classes namely the Divya, the Siddha and the Mânava-see Chapter 36) ends with a verse stating that the Vyâpti of this chapter is “Water” (Toyatattva). By its Niphâlana, that Tattva is completely mastered (Svâtma-sat-k*r*itam). The third chapter which deals with Nityoddhâra (i e. gives the formation of the Vidyâs or Mantras of the sixteen Nityâs and of Vârâhî and Kurukullâ) in its last verse states that the Vyâpti is “Fire” (Vahnitattva). The Vyâpti of the fourth chapter, which speaks of the identity of Lalitâvidyâ
 
-
-
 with the Gurus and so forth, is “Air” (Vâyutattva); and the Vyâpti of chapter V, which speaks of the daily worship (Nityâpûjâ) of Lalitâ, is “Ether” (Vyomatattva) Chapter VI deals with the rites which are Naimittaka (occasional) and Kâmya (1. e. for gaining objects of desire). The Vyâpti of this chapter is “Smell” (Gandhatattva) which is the Gu*n*a of Bhûmi or P*r*ithivî. Chapter VII contains ritual rules relating to the worship of Kâmeshvarî, the second Nityâ̂, who is the first of the Nityâ̂ is who are the limbs of Lalitâ. This chapter is “Fluidity” (Rasatattva). The eighth chapter which gives the ritual of the third Nityâ̂, Bhagamâlinî, is “Form” (Rûpatattva). The ninth chapter describes the rituals of Nityâ̂-klinnâ. Its Vyâpti is “Touch” (Sparsha-tattva). The tenth chapter relates to Bherun*d*â. The Vyâpti is ”Sound” (Shabdatattva). The eleventh chapter deals with Vahnivâsinî The Vyâpti is the “Genital Organ” (Yonitattva) The twelfth chapter gives the rules of worship of the seventh Nityâ̂ Mahâvajreshvarî. The Vyâpti of this is “Anus” (Pâyutattva). The thirteenth chapter relates to the eighth Nityâ̂ named Dûtî. The Vyâpti is “Feet” (Pâdatattva).The fourteenth chapter gives the rules relatingthe worship of the ninth Nityâ, Tvaritâ The Vyâpti is the “Hands” (Panitattva). The tenth Nityâ̂ is Kûlasundarî. The firteenth chapter contains the rules (Vidhâna) relating to her worship. The Vyâpti is “Speech” (Vâktattva). The eleventh Nityâ̂ is Nityâ̂ The sixteenth chapter contains the rituals relating to her worship. The Vyâpti of this is “Vital” Function (Prâ*n*atattva). The seventeenth chapter deals with twelfth Nityâ̂ named Nîlapatâkâ the Vyâpti of which is “Tongue” (Jihvâtattva). The thirteenth Nityâ̂ is Vijayâ̂. The eighteenth chapter contains the rules relating to her Sâ̂dhanâ̂ and the Vyâpti here is “Eye” (Netratattva). The nineteenth chapter contains the rituals of Sarvamangalâ̂. The Vyâpti of this chapter is sense of “Smell” (Ghrâ*n*atattva). The twentieth chapter relates to Jvâlâmâlinî. The Vyâpti of this chapter is “Sense of Hearing” (Shrotratattva). The next chapter deals with the last of the sixteen Nityâs by name Chitrâ̂. The Vyâpti is “Egoism.” (Ahangkâratattva). The twenty-second chapter contains details of the rituals relating to Kurukullâ̂. The Vyâpti is Buddhitattva. The twenty-third chapter relates to Vârâhî. The Vyâpti is “Mind” (Manastattva). The twenty-fourth chapter contains various meditations (Dhyâ̂na) of the sixteen Nityâs and the Vyâpti of this chapter is Prakrityatmamayî The twenty-fifth is the Mâ̂t*r*ikâpti chapter and describes how the thirty six consonant (Vyanjana) letters are thirty-six Tattvas and how the Mantras and Yantras are formed and in this way demonstrates the identity of the sixteen Nityâs with the Mât*r*ikâs and
-
-
 
 Time (Mâtrikâtmakatva and Kâlâtmakatva). The Vyâpti of this chapter is Puru*sh*âtmamayî. The twenty-sixth speaks of the Greatness (Vaibhava) of Mantra. The Vyâpti is Niyamâtmamayî. The twenty-seventh chapter demonstrates the identity of the sixteen Nityâs as also of the Mâtrikas, the Nâthas, the Shrîchakra and the Shaktis with Prâ*n*a, The Vyâpti is Kâlatattvamayî. The twenty-eighth chapter speaks of the identity of the sixteen Nityâs with Time and Space (Kâla and Loka). The Vyâpti is Râgatattvamayî. The twenty-ninth chapter contains directions relating to the mode of making of Ma*nd*apas and Ku*nd*as for doing Homa to the sixteen Nityâs and the Vyâpti of this chapter is Vidyâtattva. The Vyâpti of the thirtieth chapter which describes Vâstu-Devatâ-chakra of the sixteen Nityâs is Kalâtattvamayî. The thirty-first chapter contains rituals relating to crushing an enemy (Arimardana Homa) and the Vyâptiof this chapter is Mâyâtattvamayî. The Vyâpti of the thirty-second chapter is Shuddhavidyâ. The subject of the chapter is Saumya Homa, that is, Homa done with the object of attaining wealth, prosperity, a life free from trouble and the like. The thirty-third chapter speaks of some Yantras by which objects of desire may be gained. The Vyâpti is Îshvarâtmamayî. The next chapter speaks of certain rites whereby extraordinary results are obtained. The Vyâpti is Sadâshivamayî. The thirty-fifth chapter speaks of the identity of the sixteen Nityâs with the Sâdhaka. It is called the Vâsanâpatala. The Vyâpti is Shakti-tattvamayî. The thirty-sixth chapter says that the Siddha in the Vidyâs of the sixteen Nityâs is one with the Paramârtha or supreme Brahman. The Vyâpti is Shivatattvamayî.
 
@@ -658,108 +574,47 @@ OXFORD,
 
 **VALON.**
 
-
-
-
-
 **सूचीपत्रम्।**
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-
-
-
-[TABLE]
-
-
 
 **समाप्तमिदं सूचीपत्रम्।**
-
-
 
 **शुद्धिपत्रम्।**
 
@@ -768,30 +623,15 @@ OXFORD,
 
 [TABLE]
 
-
-
-
-
-
-
 [TABLE]
 
-
-
-
-
-
 [TABLE]
-
-
 
 [TABLE]
 
 ![](../books_images/U-IMG-1723628826Screenshot2024-07-09101742.png)
 
 **समाप्तमिदं शुद्धिपत्रम्।**
-
-
 
 **ऊनविंशपटलम्।**  
 
@@ -817,8 +657,6 @@ OXFORD,
 
  सुवर्णेत्यादिभिः स्थिता इत्यन्तैः पञ्चभिः श्लोकैर्देव्याः सपरिवाराया नित्यसपर्य्यामण्डलनिर्म्माणगर्भं नित्यपूजाध्यानादिकमुपदिशति। तत्र नेत्रद्वयप्रेङ्खद्दया-
 
-
-
 **द्विभुजां स्वासनां पद्मे त्वष्टषोड़शतद्द्वयैः।  
 पत्रैरुपेते सचतुर्द्वाग्भूसद्मयुग्मगे॥५॥**
 
@@ -839,8 +677,6 @@ OXFORD,
 भरां रक्तारुणकारुण्यभरसूर्य्यामृतांशुनेत्रद्वयां इत्यर्थः। स्वासनां पद्मे वक्ष्यमाणरूपे मण्डले सुखस्थितां इत्यर्थः। अष्टषोड़शतद्द्वयैः पत्रैः तद्द्वयैरिति षोड़शद्वयैरिति यावत्। द्वात्रिंशत्पत्त्रैरित्यर्थः। एतदुक्तंभवति आन्तरक्रमादष्टपत्रैः षोड़शपत्रैः द्वात्रिंशत्पत्रैरुपेत इति। सचतुर्द्वारभूसद्मयुग्मगे चतुर्दिक्षु चतुर्द्वारयुतचतुरस्रद्वयमध्यगे इत्यर्थः। तन्नित्यसपर्य्याामण्डलनिर्म्माणक्रमो यथा। यथामानमन्तर्बहिर्विभागरूपं चतुर्दिग्गतचतुर्द्वारोपेतं समचतुरस्रद्वयं कृत्वा तन्मध्ये द्वात्रिंशद्दलं पद्मं तदन्तः षोडशदलं पद्मं तदन्तरष्टदलं च पद्म कृत्वा तत्कर्णिकायां देवीमष्टपत्रादिषु परिवारशक्तीश्चावाह्य पूजयेदित्यर्थः। वामेन करपङ्कजेनेति शेषः। शक्तिभिः नित्यावरणशक्तिभिः। षट्सप्ततिभिः अष्टत्रिंशन्मिथुनरूपाभिः। अन्याभिरित्यक्षरोत्यशक्तिविशेषणम्। अक्षरोत्थाभिः वक्ष्यमाणाभिरमृताद्याभिः सोमसूर्य्याग्निरूपाक्षरशक्तिभिः अन्विताम्। प्रयोगेष्विति सम्बन्धः। अन्यदा नित्यसपर्य्यास्विति सम्बन्धः। उक्तशक्तिकां वक्ष्यमाणभद्रादिशक्तिकां स्मरेदिति प्रकरणशेषः। शक्तीः नित्यपूजावरणशक्तीः। एतदुक्तम् भवति नित्यसपर्य्यायां भद्रादिशक्तिसहितामेव प्रयोगादिषु ताभिश्च वक्ष्यमाणाभिरमृतादिभिर्मातृकाक्षरोत्थाभिः सोमसूर्य्याग्निकलाख्याभिरष्टत्रिंशन्मिथुनरूपतः षट्सप्ततिभिः शक्तिभिश्चान्वितां प्रोक्तरूपतो ध्यात्वा पूजयेदिति॥८॥
 
  भद्रामित्यादिभिः सहस्रकमित्यन्तैर्नवभिः श्लोकैःनित्यसपर्य्यावरणपञ्चकशक्ति-
-
-
 
 **कलाञ्च पूरिणीं नित्याममृतां जीवितां दयाम्।  
 अशोकाममलां पूर्णं पुण्यां भाग्यामथोद्यताम्॥१०॥**
@@ -863,8 +699,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 नामानि पूजासमापनादिकञ्चोपदिशति। तत्र भद्रामित्यादिना श्रोकेनाष्टपत्रपूज्यशक्त्यष्टकनामान्युपदिशति। कलामित्यादिना श्लोकेन षोडशदलपूज्यशक्तिषु द्वादशशक्तिनामान्युपदिशति॥ विवेकामित्यादिना श्रोकेनावशिष्टशक्तिचतुष्टयनामानि सर्वाः शक्तीरग्रादिप्रादक्षिण्यात् पूजयेदिति चोपदिशति। तत्राष्टयुग्मके षोड़शदलेषु। कामिनीमित्यादिना श्लोकेन द्वात्रिंशद्दलपूज्यशक्तिष्वेकादशशक्तिनामान्युपदिशति। पवित्रामित्यादिना श्लोकेनावशिष्टासु एकविंशतिशक्तिषु नवशक्तिनामान्युपदिशति। वरदामित्यादिना श्लोकेनावशिष्टासु दादशशक्तिषु दशशक्तिनामान्युपदिशति। तत्र वागीश्वरीमिति सप्तविंशतिशक्तिनाम। निर्म्मलामित्यादिना श्लोकेनावशिष्टशक्तिद्वयं तत्पूजादिकञ्चोपदिशति। तत्र षोड़शद्वये द्वात्रिंशद्दलेष्वित्यर्थः। प्राग्वत् प्रदक्षिणादग्न्यादिलोकपालाख्या इन्द्रादीशान्ता अष्टौ शक्तीः स्त्रीरूपाः द्वारेषु पार्श्वद्वयसहितेषु पश्चिमादिचतस्रः पश्विमादिचतुर्दिग्गतद्वारेषु चतुर्षु प्रतिद्वारं चतस्रः चतस्रश्च पूजयेदित्यर्थः। चतस्त्र इति शब्दस्यार्थद्वयवशाद्द्विरन्वयो भवति तेनान्यदा चतस्र इत्यनन्तब्रह्मनियतिकालशक्तय उच्यन्ते। प्रोक्तविग्रहाः सम्भूय विंशतिशक्तीश्च पूजयेदित्यर्थः। नित्यानित्यापटलोक्तारम्भ-
-
-
 
 **ब्राह्म्याद्या लोकपालाख्याः शक्तीर्द्धारेषु पूजयेत्।  
 पश्चिमादिचतुर्द्दिक्षु चतस्रः प्रोक्तविग्रहाः॥१६॥**
@@ -889,8 +723,6 @@ OXFORD,
 
  प्राग्वदित्यादिभिरुदितानित्यन्तैस्त्रिभिः श्लोकैः पुरश्चरणविधानं कृतपुरश्चरणस्यप्रयोगविधानयोग्यतां अन्यथाकरणे प्रत्यवायादिकमुपदिशति। तत्र प्राग्वत् कृतसन्ध्यात्रयपूजनादिभिः। वा विकल्पे अन्यथा प्रोक्तसाधनादीनामकरणे तस्य साधकस्य नैष्फल्यादिकं विदध्याद्विद्येति शेषः। तेन कारणेन तां मूलविद्याम् आराध्य नित्योपासनादिभिः संसाध्य पुरश्वर्य्यपश्चात् साधनादेः मङ्गलान् प्रयोगानिति शेषः। मङ्गलोदितान् सर्व्वमङ्गलोक्तान्। एतत्सर्व्वमङ्गलापटलोक्तान्मङ्गलान् प्रयोगानित्यर्थः॥२०॥
 
-
-
 **प्रयोगार्था वर्णशक्तीर्वक्ष्ये देवीः शृणु प्रिये।  
 सोमसूर्य्याग्निरूपाश्च तास्त्वष्टत्रिंशदेव ताः॥२१॥**
 
@@ -909,8 +741,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
  प्रयोगेत्यादिभिर्भवेदित्यन्तैस्त्रयोदशभिः श्लोकैरष्टत्रिंशत्कलारूपमिथुनीभूताः प्राक् प्रस्तुतां मातृकाक्षरशक्तीःप्रयोगार्थमुपदिशति। तत्र प्रयोगार्थाः। पूर्व्वप्रयोगेष्वित्यन्तं स्मारयति। वर्णशक्तीः मातृकायाः ताः पूर्वोक्तरूपसंख्या मिथुनरूपतः सोमसूर्य्याग्निरूपाः मातृकायाः वक्ष्यमाणक्रमाः अक्षरविभागतः तद्रूपास्ता मिथुनीभूताः शक्तीः॥ अमृतेत्यादिना श्लोकेन षोड़शसु सोमकलासु चतुर्दशशक्तीरुपदिशति। तत्र पूषेति टावन्ता। पुष्टीरतिः पुष्टिः रतिः इति पदच्छेदः॥पूर्णेत्यादिना श्लोकेन शिष्टकलाद्वयनामनीतासामेकैकस्याः षोड़शस्वराणामेकैकस्य क्रमाद्योजनादिकमुपदिशति। तत्र कामदायिन्यः इष्टप्रदाः। अत्र बहुवचनं षोड़शत्वापेक्षया। सस्वराःस्वराणां षोड़शानामेकैकस्य क्रमेणादौ योजनातः॥ तपिनीत्यादिना श्लोकेन सूर्य्यकलाद्वादशनामाज्युपदिशति। क्रमादुद्दिष्टाद्विलोमतः भादिडान्तानि द्वादशाक्षराणि विलोमरूपाणि तासां मूलोक्षक्रमाणां आदौ प्राग्वद्योजयेदित्यर्थः॥ धातेत्यादिना श्लोकेन द्वादशार्कनामसु दशनामान्युपदिशति। तत्रसमनन्तरः नवमस्य दशम इत्यर्थः। त्वष्टेत्यादिना श्लोकेन शिष्टनामद्वयं तदक्षराणि चोपदिशति। तत्र कादिठान्तार्णतनवः अनुलोमतः ककारादिठकारान्ताक्षरद्वादशकं तन्नामादौ योजयेदित्यर्थः। तत्र तन्मन्त्रयोजनाक्रमः पूर्वोक्ततपिन्यादिशक्तितदक्षरसहितः। यथाक्रमं कं भं धातृतपिनीभ्यां नमः इत्यादयः ठं डं विष्णु
-
-
 
 **धातार्य्यमा च मित्रश्च वरुणः शौभगस्तथा।  
 विवस्वानिन्द्रपूषार्काः पर्जन्यः समनन्तरः॥२६॥**
@@ -934,8 +764,6 @@ OXFORD,
 
 क्षमाभ्यां नमः इत्यन्ता द्वादशमन्त्रा एवं द्वादशमिथुनरूपेणार्ककला देवताश्चतुर्विंशतिः॥ धूम्रेत्यादिना श्लोकेन वह्निकलादशकनामान्युपदिशति। तत्र हव्यकव्यवहे हव्यवहा कव्यवहा च। यादिक्षान्ताक्षरमयाः यकारादिक्षकारान्ताक्षरदशकपूर्वा इत्यर्थः। तेषां दशानां वह्नीनां वासनोक्तानि पञ्चत्रिंशे वासनापटले अग्निर्वह्निरित्यादिनोक्तानि। एतदुक्तं भवति यकारादि-क्षकारान्ताक्षरदशकं क्रमेण वह्निकलानामेकैकस्या आदावेकमेकं वह्निनामानि च तद्वत् योजयेदिति। तन्मन्त्रा यथा यं अग्निधूम्रार्चिर्भ्यां नमः इत्यादयः क्षं ग्रासकव्यवहाभ्यां नमः इत्यन्ता दशमन्त्राः एवं वह्निकलादेवतामिथुनदशकरूपत्वात् विंशतिः द्वाविंशन्मिथुनानि सौराणि द्वादश आग्नेयानि दश एवं सम्भूय कादिक्षान्ताक्षराणां दाविंशन्मिथुनानीत्यर्थः। प्रोक्तक्रमेण तत्र क्रमोऽस्माभिर्दर्शितः। स्वतन्त्रत्वात् स्वयं राजन्ते इति निर्वचनात् स्वतन्त्राः स्वरमयत्वात् तत्सदृशनामरूपाः शक्तिनामानि पुमन्तानि योजयेदित्यर्थः। एतदुक्तं भवति स्वराणां स्वतन्त्रत्वात्तदधिष्ठात्र्यस्तु शक्तयः सोमकलाः पूर्वोक्ता अमृताद्याःषोड़श स्वतन्त्राः तेन तत्पतयस्तत्सदृशरूपनामानः तस्माच्छक्तिनामानि पुमन्तानि योजयेदित्यर्थः। पतदुक्तं भवति स्वरादिकानि
 
-
-
 **मिथुनान्येवमुक्तानि त्रिंशदष्टक्रमेण वै।  
 तानि संपूज्य तत्तेजस्त्रयात्मनि जले शिवे॥३२॥**
 
@@ -953,8 +781,6 @@ OXFORD,
 तानि स्त्र्यन्तान्येव योजनीयानि। तन्मन्त्रा यथा अंअमृतामृताभ्यां नम इत्यादयःअःपूर्णामृतपूर्णामृताभ्यां नम इत्यन्ताः षोडश। एतानि सोमकलामिथुनानि सर्वमिथुनानामादौ पूज्यानि। अत्र सूर्य्यकलाशक्तिमिथुनानां प्रत्येकं वर्णद्वयात्मकत्वं तन्मिथुनं भेदविवक्षयोपपन्नम्। अन्येषां मिथुनानामेकाक्षरात्मकत्वं मिथुनैक्यविवक्षया चोपपन्नम्। त्रिंशदष्टौ अष्टविंशदित्यर्थः। एतदुक्तं भवति सोमकलाशक्तिमिथुनषोडशकेन सूर्य्यकलामिथुनद्वादशकेन वह्निकलादशकेन चैवमष्टत्रिंशन्मिथुनैःषट्सप्ततिः कला मातृकाक्षराः सन्ति। तान्युक्तक्रमेण विनियुञ्ज्यादिति तत्तेजस्त्रयात्मनि प्रोक्तमिथुनार्च्चनतः। शिवे इति सम्बुद्धिः। प्रोक्तानि सर्व्वतन्त्रेषूक्तानि स्वाभिमतानीत्यर्थः। अभ्यर्च्य तत्क्रमतः तत्तेजस्त्रयं देव्यात्मता सर्व्वदेवतानां सोमसूर्य्याग्निमयमातृकाक्षररूपत्वात् तत्तद्देवतात्मतेत्यर्थः। अभिषेच्यस्येति शेषः॥३३॥
 
  वातेत्यादिभिर्वदामि ते इत्यन्तैस्त्रिभिः श्लोकैः मूलविद्यायाः स्वरूपबाहुल्योपदेशं तद्विनियोगप्रस्तावञ्च करोति। तत्र वाताद्यैर्ग्रासमायान्तैरकाराद्यैः क्षकारान्तैः मातृकाविसराक्षरैः प्रोक्तसंख्यैरित्यर्थः। शतैः पञ्चभिः पञ्चशतैरित्यर्थः। एतदुक्तं भवति अकारादीनां षोड़शानां स्वराणां ककारादिक्षकारान्तानां पञ्चत्रिंशताञ्चप्रत्येकं षोडशस्वरयोजनतः षोडशानां षोडशानाञ्चैवं सम्भूय षट्सप्तत्यधिकपञ्चशतसंख्यानां मातृकाविसराक्षराणां मूलविद्याया आदौ क्रमशः प्रत्येकं योजनतः षट्सप्तत्यधिकपञ्चशतसंख्यानि विद्यारूपाणि भवन्ति इति। तस्या वलस्थाने मूलविद्यायाश्चतुर्द्दशस्वरस्थाने स्वरान् षोडश योजयेत्। षोडशस्वरान् क्रमशः
-
-
 
 **रूपाणि नित्याविद्याया जायन्ते परमेश्वरि।  
 तैर्यन्त्राणि प्रयोगांस्तु फलानि च वदामि ते॥३६॥**
@@ -977,8 +803,6 @@ OXFORD,
 
  वृत्तद्वयमित्यादिभिः क्रमादित्यन्तैः षड्भिः श्लोकैःप्रोक्तसंख्याविद्यारूपैरेकैका- वृत्तितश्चतुश्चत्वारिं- शदधिकशतयन्त्राण्युपदिशति। तत्र अस्य वृत्तद्वयस्य। तद्वहिः षट्कोणाद्वहिः। तद्वहिः अष्टपत्राब्जद्वहिः। तत्त्रयं वृत्तत्रयं कृत्वेति सर्व्वत्रान्वयः। तेषु स्थानेषु विद्याकूटान् भूलविद्यायाः प्रोक्तसङ्केतरूपानित्यर्थः। उक्तक्रमेण वक्ष्यमाणक्रमेण। तेष्वाद्यं प्रोक्तसंख्येषु कटेष्वाद्यं मध्यतः सर्वमध्यतः साध्यसमेतं सकारस्याधस्ताद्वकारमालिख्य तयोर्मध्यान्तरालप्रदेशे च साधकादित्रयं लिखेदित्यर्थः। वहिर्मध्यात् चत्वारि चत्वारि प्रतिकोणं तानि च मध्यलिखिताक्षरादीनि सम्भूय षट्कोणलेखनीयाक्षराणि चतुर्विंशतिः। वहिः षट्कोणात् प्रत्येकं पञ्च पञ्च प्रतिदलं पञ्च पञ्चाक्षराणि लिखेदित्यर्थः। सम्भूयाष्टपत्र लेखनीयाक्षराणि चत्वारिंशत्। सम्भूयाष्टपत्रलेखनीयाक्षराणि चत्वारिंशत्। एवं सम्भूयचास्मिन् यन्त्रे लेखनीयाक्षराणि चतुःषष्टिः। वहिःअष्टपत्रात्। वृत्तान्तरयुगे अष्टपत्रवाह्यगतवृत्तत्त्रयान्तरालवीथीद्वये।मायया विसर्जनीयेन। स्वेन विन्दुना। अन्तःषड़न्तरालेषु अन्तर्गतषट्कोणषडन्तरालेषु पर्य्यायदिनसम्भवे
 
-
-
 **अन्तःषड़न्तरालेषु पर्य्यायदिनसम्भवे।  
 नित्ये लिखेदग्रतस्तु प्रादक्षिण्येन सर्वतः॥४१॥**
 
@@ -994,8 +818,6 @@ OXFORD,
 
   एवमित्यादिभिर्वदेदित्यन्तैश्चतुर्भिः श्लोकैः पूर्वोक्तानां चतुश्चत्वारिंशदधिकशतसंख्यानां यन्त्राणामेवाक्षरन्यास- स्थानभेदेन जातानां यन्त्राणां संख्यामन्यनित्यापञ्चदशकस्याप्येवं क्रमेण यन्त्राणि सम्भवन्तीति चोपदिशति। तत्र एवमुक्तप्रकारेण अन्यानि कूटानि प्रोक्तानि पूर्वेषां पूर्वोक्तसंख्यानां यन्त्राणां मध्यलिखितकूटाक्षरा-
 
-
-
 **त्रयोदशमितैर्लक्षैः सप्तविंशतिसंख्यकैः।  
 सहस्त्रैश्च शतेनापि चतुर्भिस्तानि संख्यया॥४४॥**
 
@@ -1005,8 +827,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 दुपरितनमुपरितनं कूटाक्षरमुपरितनानां प्रोक्तसंख्यानां यन्त्राणां मध्ये मध्ये लिखेदित्यर्थः। तदन्यानि तत्तत्प्रथमप्रथमयन्त्रेषु मध्यमध्यलिखिताक्षरादीनि चतुःषष्टिसंख्यानि। सप्तविंशतिसंख्यकैः सहस्त्रैः सप्तविंशतिसहस्रैरित्यर्थः। तैर्यन्त्रैः। एतदुक्तं भवति यथा पूर्वोक्तानां चतुश्चत्वारिंशदधिकशतानां यन्त्राणां प्रथमस्य यन्त्रस्य मध्येसषोडशद्विशताधिकनवसहस्रसंख्यानां विद्यारूपकूटाक्षराणां प्रथमं मध्ये विलिख्य तद्वहिः स्थानेषु प्रोक्तेषु लिखितैर्मध्यलिखितप्रथमाक्षरादिकैश्चतुःषष्टिकूटैः प्रथमं यन्त्रम्। द्वितीयं पञ्चषष्टितमकूटाटिकैर्वहिर्लिखितैश्चतुःषष्टिकैः एवं क्रमेण सर्वप्रथमकूटे कर्णिकास्थ एवोक्तसंख्यानि यन्त्राणि लिखितानि। तथा द्वितीयं कूटं तत्प्रथमस्य यन्त्रस्य मध्ये विलिख्य वहिस्तदादिकैश्चतुःषष्टिकैश्चतुःषष्टिकैर्लिखितैश्चतुश्चत्वारिंशदधिकशतसंख्यानि यन्त्राणि जायन्ते। एवं तेषां तेषां तथा तथा एकैककूटमध्यस्थ एव लेखनात् प्रोक्तसंख्यानि यन्त्राण्येवमेव। मध्यतः प्रोक्तसंख्यानां सर्वेषां कूटानां क्रमात् यावत्तत्तत्क्रमेण कूटसंख्यावृत्तिलेखनतः। सषोडशद्विशताधिकनवसहस्रसंख्ययन्त्राणां चतुश्चत्वारिंशदधिकशतकं सम्भूय त्रयोदशलक्षं चतुरुत्तरशताधिकसप्तविंशतिसहस्रोत्तरं यन्त्राणि भवन्तीति। तत्र पूर्वपूर्वचतुश्चत्वारिंशदधिकशतयन्त्रप्रथम प्रथमयन्त्रमध्यमध्यलिखितकूटात् पूर्व्वपूर्व्वकूटाक्षराणि तत्तच्चरमचरमयन्त्रस्य चरमचरमाक्षराणि भवन्ति इति॥ एवमासान्तु नित्यानां यन्त्राणि स्युः पृथक् पृथक्। एतदुक्तं भवति षोडशानां नित्यानां प्रत्येकं हृल्लेखावतीनां दशानां तस्यां हृल्लेखायामेवं सर्व्वमङ्गलावदाद्यन्तयोर्मातृकाविसरस्वरषोडशकयोजनतः सर्व्वमङ्गलोक्तसंख्यानि तस्या रूपाणि भवन्ति। तैस्तद्वत् तत्संख्यानि यन्त्राणि च विधेयानि। हृल्लोखाविहीनानां यन्त्राणां पञ्चानां सर्व्वमङ्गलावदाद्यक्षराणामाद्यन्तयोर्मातृकाविसरस्वरयोजनतस्तत्संख्यानि रूपाणि तैस्तत्संख्यानि च यन्त्राणि भवन्ति। ततस्तैस्तैस्तास्ताः सिद्धयश्च भवन्तीति। तत्र भेरुण्डाकुलसुन्दरीनित्ययोराद्या-
-
-
 
 **तस्मादाभिरसाध्यानि न कदाचिच्चकुत्रचित्।  
 विद्यन्ते तेषु यत्किञ्चिद्वक्ष्येकः शेषतो वदेत्॥४६॥**
@@ -1025,8 +845,6 @@ OXFORD,
 क्षरस्य हलमात्राभावात् मातृकाविसरमादिं कृत्वा तस्य विद्याक्षरस्य स्थाने प्रत्येकंषोडशस्वरयोगेन तत्तत्संख्यां सम्पादयेदित्युपदेशः। एवमत्रातिरहस्यमपि नाथाज्ञया सर्वं विविच्य समीचीनमुक्तमस्माभिः। आभिः पञ्चदशनित्याभिः असाध्यानि काय्याणि कदाचित् काले कुत्रचित् स्थाने च तेषु कार्य्येषु यत्किञ्चिदेकदेशतः। अतः कः शेषतो वदेत् साकल्येन तत्साध्यानि कार्य्याणि अहमपि वक्तुं न शक्नोमोत्यर्थः॥४६॥
 
  नाथात्मकानीत्यादिभिर्जपादिनेत्यन्तैस्त्रयोदशभिः श्लोकैःप्रोक्तयन्त्राणां विनियोगप्रकारानुपदिशति। तत्र नाथात्मकानि येन नवसंख्यया आहरणे यन्त्राणां निःशेषत्वात् तानि यन्त्राणि नवक्रमैर्भित्त्वा नवकं नवक विभज्येत्यर्थः। षोडशधा भित्वेति मिलित्वेति सम्बन्धः। पूर्व्वविभक्तं नवकंषोड़शकं षोड़शकंविभज्य विनियोगं कुर्य्यात्। तेन षोड़शभिः षोड़शभिर्नवकैर्विनियोगं कुर्य्यादित्युक्तं भवति। विशालामध्यविन्यासं प्रतिकोष्ठं यन्त्रविनिर्माणयोग्यमध्यविकाशं विधाय नवकोष्ठकम्। यथा प्राक् प्रत्यग्दक्षिणोदक् च चतुर्भिः सूत्रैःसमान्तरालमास्फालितैर्नवकोष्ठानि कुर्य्यादिति। प्रागादिमध्यपर्यन्तं प्रादक्षिण्यक्रमात् लिखेत्। नवानि नवसु प्राग्दिग्गतपङ्क्तिस्थकोष्ठ त्रयमध्यकोष्ठमारभ्य मध्यमध्यस्थकोष्ठान्तं प्रादक्षिण्ये ना(मु)युक्तक्रमं नवयन्त्राणि लिखेदित्यर्थः। तेषु नवसु यन्त्रेषु त्र्यक्षराणि प्रथमेषु नवसु क्रमेणाश्विन्यादीनि नव नक्षत्राणि द्वितीयनवके मघादीनि नव नक्षत्राणि तृतीयनषके मूलादीनि नव नक्षत्राणिएवं यावत् फलावाप्त्युपरितनेषु नवकेष्वपि
-
-
 
 **ततः प्राप्ते वाञ्छितार्थे स्वात्मन्युद्वास्य देवताः।  
 चक्रं प्रक्षाल्य तत्तोयं केदारादिषु निक्षिपेत्॥५१॥**
@@ -1050,8 +868,6 @@ OXFORD,
 
 सर्व्वत्र कार्य्येषु नक्षत्राणि नव क्रमेण पुनःपुनर्लिखेत्। सप्तम्या विभक्त्या सप्तमीविभक्त्यन्तं नक्षत्रलेखनमिति यावत्। नाथानेकस्मिन्नेकमेकंदेवोरिति यन्त्र वाहुल्यापेक्षया बहुवचनम्। नाथान्देवौः पूजयेदित्युरत्र लोकेनान्वयः। तत्क्रमात् प्रागादिक्रमात् प्रोक्तवासरं मण्डलानि तानि देवताः प्राग्वद्बहुवचनम्। केदारादिषु केदारमिति क्षेत्रमुच्यते। आदिशब्दः उद्याननिष्कुटादिविषयः। एवमित्यादिभिरुक्तार्थः। सौम्यकर्म्माणि वक्ष्यमाणवश्यादीनि। अनया प्रोक्तप्रक्रिययेत्यर्थः। परसंख्येत्यादिना एतदुक्तंभवति। सर्व्वमङ्गलामेतामन्तरेणान्यासां पञ्चदशानां नित्यानां प्रोक्तक्रमतो निर्मितानां परसंख्यापूर्वोक्तसंख्यासमेतानां यन्त्राणामप्युक्तक्रमतोऽयमेव विनियोगक्रम इति। तथा लक्ष्मीप्राप्त्यै तेषु यन्त्रेषु तत्क्रमात् प्रागुक्तक्रमतः पोडासु सतीषु तच्छान्त्यै पीड़ाशान्त्यै यथाक्रमं नवनवक्रमतः तेषु तेषु यन्त्रेषु वश्यादिषूक्तेषु अन्येष्वपि चेत्यर्थः। नवप्राकारयुक्तानि षोडशषोड़शनवकानीत्यर्थः। प्रथमादिषु तिथिषु पूजयेदित्युत्तरत्नान्वयः। प्रथमे नवके
 
-
-
 **निर्म्माय नव यन्त्राणि तत्र तत्राच्चयेच्छिवाम्।  
 तेषु तेषूक्तकार्य्येषु तत्तत् सम्प्राप्तिहेतवे॥५७॥**
 
@@ -1064,8 +880,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 एषा सर्व्वमङ्गला षोडशयन्त्रनवकविन्यासार्थ मण्डलं सम्प्रदायप्राप्तं लिख्यते यथा प्राक्प्रत्यग्दक्षिणोदक्कपञ्चपञ्च सूत्राणि स्वेष्टमानात् समान्तरालानि कृत्वा तेषु षोड़शसु कोष्ठेषु प्रत्येकंमध्ये मध्ये तिर्य्यगूर्द्धञ्च समान्तरालरेखाद्वयविन्यासेन नवनव कोष्ठानि कृत्वा तेषु षोड़शस्वीशानादिमध्यान्तं प्रवेशगत्या तदन्तर्गतेषु (नवसु नवसु कोष्ठेषु प्रागादिप्रादक्षिण्यप्रवेशगत्या मध्यान्तञ्चैवं क्रमात्तेषु सर्वत्र यन्त्राणि कल्पयेदिति। सम्भृयैतदुक्तं भवति प्रोक्तसंख्यानां यन्त्राणां नवधाहरणनिःशेषतया नव नव यन्त्राणि पूर्वोक्तनवकोष्ठमण्डले प्रागादिप्रादक्षिण्यान्मध्यपर्यन्तं विलिख्य तद्यन्त्रमध्ये सप्तमीविभक्त्यन्तान्यश्विन्यादीनि मघादीनि मूलादीनि च नवनवनक्षत्राणि तत्तत्साध्यसहितान्यालिख्यैवंक्रमेण पुनः पुनर्विलिख्योपरितननवकेष्वपि तत्तन्नक्षत्रे तद्यन्त्रार्च्चनादिकं यावत् फलावाप्ति कुर्य्यात्। किञ्च प्रागुक्तयन्त्रनव नवषोड़शकंप्रागुक्तनवकोष्ठगर्भे षोड़शकोष्ठे मण्डले प्रागुक्तक्रमेण विलिख्य प्रतिपदादिपञ्चदश्यन्तं पञ्चदशसु तिथिषु प्रतितिथि एकस्मिनेकस्मिन्नवके द्वितीयनवकादिषु पञ्चदशसु नवकेष्वभ्यर्च्य सर्वासु तिथिषु पूर्व्वमीशदिग्गतप्रथमनवकेष्वर्च्चयेत्। एवं यावत् फलाप्ति तदुपरितनान्यपि नवकषोड़शकान्यालिख्य तिथिषु पूजनात् सर्व्वफलावाप्तिकरी सर्व्वमङ्गलेति। अत्र परसंख्यावान्तरसंख्याचतुश्चत्वारिंशदधिकशतरूपा नव संख्याभरणतश्च निःशेषा भवति परसंख्यापि तथैव। तेन नाथात्मकत्वं षोड़शनित्यात्मकत्वं चैषामिति सम्प्रदायः॥५८॥
-
-
 
 **लघुमन्त्रक्रियाञ्चासां पूजां सर्वार्थसिद्धिदाम्।  
 पूर्णामनतिविस्तारं मङ्गलां ब्रूहि मे शिव॥६०॥**
@@ -1088,8 +902,6 @@ OXFORD,
 
   वृत्तस्येत्यादिना समास्त्रकामित्यन्तेनार्द्धाद्येन श्लोकद्वयेन द्वादशास्त्रचक्रनिर्माणक्रममुपदिशति। अत्र आयामवि- स्तारद्वये त्वेकतुरीयतः आयामविस्तारयोरन्यतमस्य चतुर्थांशमानत इत्यर्थः। तेषु चिह्नेषु सूत्राणि द्वादशेति शेषः। त्रयं चिह्नानां द्वादशकोणचक्रमिति शेषः। तेषां मर्मसु सूत्राणां द्वादशानां रेखाद्वयसङ्गतिस्थानेषु मध्ये सर्व्वमध्ये योनिं स्वाभिमुखं त्रिकोणम्। एतदुक्तं भवति श्रभोष्टमानेन भ्रमेण वृत्तंनिष्पाद्य तस्य व्यासार्द्धं चतुर्विंशतिधा विभज्य तेष्वंशेषु
 
-
-
 **वृत्तं विधाय चिह्नानि तेषु सूत्राणि पातयेत्।  
 त्रयमन्तरतो मुक्ता तेन द्वादशकोणकम्॥६५॥**
 
@@ -1108,8 +920,6 @@ OXFORD,
 
  प्राग्वदित्यादिना यजेदित्यन्तेन श्लोकद्वयेन तच्चक्रे प्रोक्तशेषां लघुपूजामुपदिशति। तत्र प्राग्वन्मध्यस्थाया उपरितनाः तत्कोणेषु सर्व्वमध्यस्थत्रिकोणत्रये प्रदक्षिणम् अग्रादि। अन्याः तिसृभ्यो नित्याभ्यः। अन्येषु वाह्यस्थेषु कोणेषु द्वादशसु द्वादश नित्या इति शेषः। क्रमात् यथाक्रमं अग्रात् प्रदक्षिणमिति पूर्व्वत्र सम्बन्धः। वलिं दद्यात् पूजान्त एव यथाविधि अन्नादिद्रव्यैर्मुद्रया च सप्ताक्षर्य्या केवलया कुरुकुल्लयेति शेषः। अस्य पदस्य वलिं दद्यात् इत्यत्रान्वयः। पूजान्तरा। केवलां ललितां ललितानित्यायाः तृतीयखण्डस्यापि ललितेति नाम तामित्यर्थः। एतत्प्रधाननित्यायामङ्गित्वपूजने अन्यासां पञ्चदशानामङ्गित्वपूजने तत्तद्विद्यां जपेदित्यर्थः। ललिताविद्याया- स्तृतीयखण्डात्मकत्वमन्यस्य खण्डद्वयस्य तृतीयपटले स्वयमेवोपदिष्टवान्। एवमुक्तं भवति प्रागुक्ते द्वादशास्त्रे चक्रे मध्ययोनिमध्ये ललितां विद्यातृतीयखण्डेनाभ्यर्च्य तद्योनिकोणत्रये अग्रादिप्रादक्षिण्यात् तिस्रः
 
-
-
 **नित्यानां ललिताद्यानां षोडशानाञ्च नामभिः।  
 नित्यासप्ताक्षरीभिः स्युर्विद्याः पूजासु सर्वदा॥६९॥**
 
@@ -1127,8 +937,6 @@ OXFORD,
 कामेश्वरीवज्रेश्वरीभगमालिनीःसमाराध्य तत्तद्विद्याभिरन्या द्वादशनित्या नित्य क्लिन्नादीःद्वादशकोणे- ष्वग्रादिप्रादक्षिण्येन तत्तद्विद्याभिरर्च्चयेत्। कुरुकुल्लासप्ताक्षर्य्या वलिमन्ते दत्त्वा केवलतृतीयखण्डं जपेत्। अन्यासां पञ्चदशानां अङ्गाङ्गित्वपूजनेषु तदुपरितनास्तिस्रस्तद्विद्याभिः प्राग्वदभ्यर्च्य तदुपरितना द्वादशनित्या यथाक्रमं द्वादशकोणेषु तत्तद्विद्याभिरर्च्चयित्वा सर्वासां कुरुकुल्ला सप्ताक्षर्य्या वलिं दत्त्वा तत्तदविद्यां जपेत्। तत्र पूजने अन्तर्द्वादशे अन्तः द्वादशकोणे मध्यस्थां पूजयेदिति॥६८॥
 
  नित्यानामित्यादिभिरुदिता इत्यन्तैः पञ्चभिः श्लोकैर्नित्यानां षोडशानां नामरूपा विद्याःप्रत्येकं तदक्षरसंख्यास्ताभिर्नामरूपविद्याभिश्च तस्मिन् दादशारे चक्रे पूजाविधानञ्चोपदिशति। तत्र नामतस्तृतीयपट- लप्रोक्तत्रिपुरसुन्दरीत्यादिनामभिः। नित्या सप्तक्षराणि स्युः। नित्या इत्यक्षरद्वयं प्रागुक्तसप्ताक्षरीति स्युरित्यनयोः पूर्वापरयोरन्वयः। तेन इति प्रोक्तप्रकारविद्याः स्युरित्यर्थः। सर्व्वदा नित्यंताभिर्नामरूपाभिरित्यर्थः। विद्यात्रयस्यापि दशपञ्चकमित्यत्रान्वयः। पञ्चम्या इत्यादि पदत्रयं विद्यापदविशेषणं प्राग्वत् त्रयोदशाक्षराणि। एकादश्या इत्यादित्रयं प्राग्वत् द्वादशोदिता वर्णा इति शेषः। एतदुक्तं भवति षोड़शानां नित्यानां तृतीयपटले षोडशविद्योपदेशे यस्याःत्रिपुरसुन्दरीत्यादिरूपं यन्नाम प्रोक्तं तत्तदन्ते नित्यासप्ताक्षरीति सर्वासां नवाक्षरयोजनमादौ सम्प्रदायात् सर्वासाम् प्रत्येकं
-
-
 
 **पञ्चम्याश्च नवम्याश्च त्रयोदश्यास्त्रयोदशी।  
 एकादश्यास्तु साष्टम्याः षोडश्या द्वादशोदिताः॥७३॥**
@@ -1150,8 +958,6 @@ OXFORD,
 
  एतदित्यादिभिः कोणत इत्यन्तैरष्टभिः श्लोकैः षोड़शनित्यानामविद्याभिः
 
-
-
 **तद्वज्रं द्विबिधं प्रोक्तं कोष्ठकोणात्मभेदतः।  
 कोणात्मवज्रनिर्मााणप्रयोगाः परतः शिवे॥७७॥**
 
@@ -1167,8 +973,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 ललिताचतुर्विंशतिभेदैश्च कोष्ठरूपवज्रयन्त्रनिर्माणक्रममुपदिशति। तत्रएतद्वक्ष्यमाणं ते वक्ष्यामीति शेषः। तेन यन्त्रेण तन्त्रोक्तमखिलं साधयेत्। षोड़शनित्याविद्याक्षरमयत्वात्। परतः यन्त्रपटले। तयोः कोष्ठकोणात्मकयोःयद्यन्त्रं सुराङ्घ्रि पसम इति स्वातन्त्र्यं सममित्यर्थः। तेषु कोष्ठेषु नवविंशत्यधिकपञ्चशतसंख्येषु कोणेषु कोणदिक्षु। षड़्भिः सहितानीति शेषः षट्षष्टिकोष्ठानीत्यर्थः। पूर्व्ववत् मध्ये वञ्चरूपं यथा भवेत्तथेत्यर्थः। तेषु पञ्चषष्यधिकद्विशतसंख्येषु कोष्ठेषु च चतुष्टयैः प्रतिदिशं अधोमध्यवायारम्भात् सर्वाधःस्थपङ्क्तिस्थ-कोष्ठपञ्चकमध्यकोष्ठरूपवाह्यकोष्ठादारभ्य चित्रादिललितान्तिकं नामविद्याक्षराणि सम्भूय पञ्चविंशत्यधिकद्विशतसंख्यानीत्यर्थः। अवशिष्टेषु चतुर्विंशतिकोष्ठेष्वित्यर्थः। ललितार्णचतुर्भेदजनितामित्यस्य चतुर्विंशतिमित्रान्वयः। नामशक्तियुक् तत्चतुर्विंशतिगतहृल्लेखोदरे प्राग्वन्नाम लिखेदित्यर्थः। ललितां तार्त्तीयां साध्यगर्भांप्राग्वत् हृल्लेखागतसाध्यां। मध्यकोणतः मध्ये च त्रिकोणेष्वित्यर्थः। तेन प्रतिलोमतश्चतुर्विंशतिरूपां विद्यां लिखेदित्यर्थः। एवं कृते अनुलोमरूपाश्चतुर्विंशतितया लिखिता मध्ये भवन्तीति यावत्। तामेव त्रिकोणचतुष्टयेषु च लिखेदित्यर्थः। एतदुक्तं भवति प्राक्प्रत्यग्दक्षिणोदक्कसमान्तरालानि चतुर्विंशतिसूत्राण्यास्फाल्य नवविंशत्यधिकपञ्चशतकोष्ठानि सम्पाद्य तेषु चतसृषु कोणदिक्षु प्रतिकोणदिशं षट्षष्टिषट्षष्टिसंख्यानि च एवं सम्भूय चतुःषष्यधिकद्विशतसंख्यानि कोष्ठानि मध्ये वज्ररूपेण मार्जयित्वा मध्ये वज्र
-
-
 
 **तेषु प्राग्वत्त्रिकोणानि चतुर्दिक्षु चतुष्टयैः।  
 कोष्ठैर्विधायाधो मध्ये वाह्यारम्भात् प्रदक्षिणम्॥८१॥**
@@ -1190,8 +994,6 @@ OXFORD,
 रूपावशिष्टेषु पञ्चषष्ट्यधिकद्विशतेषु कोष्ठेषु प्राग्वच्चतुर्दिक्षु कोष्ठचतुष्टयमेवंसम्भूय षोड़शकोष्ठानि मार्जयित्वा तत्र समत्रिरेखं त्रिकोणचतुष्टयं कृत्वा शिष्टेष्वेकोनपञ्चाशदधिकद्विशतसङ्ख्यप्रकोष्ठेषु सर्वाधःस्थपङ्क्तिकोष्ठ- पञ्चकमध्यकोष्टमारभ्य प्रादक्षिण्यप्रवेशगत्या मुक्तक्रमं चित्रादिललितान्तानि षोड़शनित्यानामरूपविद्याक्षराणि पञ्चविंशत्यधिकद्विशतसङ्ख्यानि यावत्सङ्ख्यापरिसमाप्त्या विलिख्यान्तरावशिष्टेषु चतुर्विंशतिकोष्ठेषु पूर्व्वलिखि- तानन्तरकोष्ठाद्यमुपात्तंप्रदक्षिणप्रवेशगत्या ललिताचतुरक्षरभेदजनितं तत्तत् हृल्लेखोदरस्थसाधकादित्रयसहितं विद्याचतुर्विंशतिकमनुलोमरूपा तत्प्रथमभूता ललिता मध्ये यथा भवेत्तथा विलोमतः समालिख्य सर्व्वमध्यगतानुलोमरूपललिता हृल्लेखोदरे प्राग्वत् नामत्रयं लिखित्वा तामेव चतुर्दिग्गतत्रिकोणचतुष्टयेऽपि साध्यगर्भां समालिखेत् इति॥८३॥
 
  एवमित्यादिना भवेदित्यन्तेन श्लोकद्वयेन पूर्वोक्तयन्त्रप्रयोगफलान्युपदिशति। तत्र लोहत्रयादिषु आदिशब्दो रत्नादिविषयः। संस्थाप्य निधाय प्राणप्रतिष्ठादिपुरःसरं अमङ्गलकथा अमङ्गलमिति शब्दस्तस्मिन्निति शेषः॥८५॥
-
-
 
 **पूजाचक्रे च तासान्तु नामानि प्रतिकोणके।  
 विलिख्य मध्ये ललितां साध्यगर्भां समालिखेत्॥८६॥**
@@ -1218,8 +1020,6 @@ OXFORD,
 
   प्रागुक्तेत्यादिना शान्तये इत्यन्तेनाध्यर्द्धेन श्लोकद्वयेन प्रागुक्तवज्रयन्त्रद्वादशकोणचक्रयोरभिषेकविधानतो वा भव्यानि फलान्युपदिशति। तत्र तद्वर्णभूरुहं तदङ्गिविद्यावर्णप्रोक्तौषधिर्द्वादशकोणे वज्जे वा ललिताया एव विद्याया अङ्गिरूपतया जन्मर्क्षेषु त्रिजन्मसु पूर्व्वसम्पत्समृद्ध्यै पूर्वोक्तफलसमृद्धये॥८१॥
 
-
-
 **तथान्यदपि देवेशि प्रयोगं सर्वपावनम्॥८१॥**
 
 **दारिद्र्यवनदावाग्निं पापाव्धिवड़वानलम्।  
@@ -1242,10 +1042,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
   तथान्यदपीत्यादिभिः क्षणादित्यन्तैरर्द्धाद्यैः षड़्भिः श्लोकैः सर्व्वमङ्गलानित्याया आद्यन्तयोर्मातृकाविसर- षोड़शस्वरयोजनतो जनितानां प्रोक्तसंख्यानां विद्यानां जपादिना फलमुपदिशति। तत्र प्रयोगे वक्ष्यामीति शेषः। दारिद्र्यवनदावाग्निं दारिद्र्यंनामातुष्टिः। पापो नामाविमृश्यकारिता। सङ्गीच इति दुर्वासना। सन्तोषः स्वरूपानुभवः। प्रागुक्ताक्षरसम्भिन्नां मातृकाविसरषोड़शस्वरैराद्यन्तयोः सम्भिन्नामिति। विद्यां सर्व्वमङ्गलां च करोति भिन्नक्रमः। पूजयेच्च सर्व्वमङ्गलां नित्यां सौरभाद्यैः सलिलैरिति पूर्वत्रान्वयः। शुभ्रैरिति तिलतण्डुलयोर्विशेषणम्। संस्थाप्य द्वादशगुणितादिष्वन्यतम इत्यर्थः। प्रोक्ताम्बुपूर्णं मूलविद्याक्षरौषधिक्वाथाम्बुभिः। समुद्रगावहत्सलिलसरिदम्बुभिर्वा पूर्णं समस्तं तत्प्रोक्तसंख्यारूपमेकवारं एकावृत्तितः संजप्येत्यत्रान्वयः। तैर्जलैर्घोराभिचारकत्यादिदुः खेभ्यः। आदिशब्दो ग्रहादिविषयः। तम् अभिषिक्तम्॥९७॥
-
-
-
-
 
 **समुद्रगासरित्ताये ताः समावर्त्तयेत् स्थितः।  
 कण्ठमात्रेमज्जनात्तु[^2]प्राग्जन्माद्यैर्विमुच्यते॥९८॥**
@@ -1279,10 +1075,6 @@ OXFORD,
 **अत्र यन्त्राणि लक्षाणि त्रयोदश तथा पुनः।  
 षडुत्तरशतेनापि सहस्रमुनिविंशकम्॥**
 
-
-
-
-
 **अथ षोड़शनित्यासु पञ्चदश्युदिता तु या।  
 तद्विधानं शृणु प्राज्ञे ज्वालामालिन्युदाहृता॥१॥**
 
@@ -1302,8 +1094,6 @@ OXFORD,
   एकेत्यादिना श्लोकेन कराङ्गन्यासमुपदिशति। तत्र आदितः मूलबिद्यायाः। एतदुक्तं भवति मूलविद्याया आदिभूतेन प्रणवाक्षरेण हृदयं तदुपरिगतेनाक्षरद्वयेन शिरस्तदुपरिगताक्षरचतुष्केण शिखां तदुपरिगताक्षरपञ्चकेन कवचं तदुपरिगताक्षरचतुष्टयेन नेत्राणि तदुपरिगताक्षर दशकेनास्त्रं एवंक्रमेण भिन्नैः सजातिभिः मूलविद्याक्षरेष्वादितः सम्भूय षड्विंशत्यक्षररूपैः षड्भिर्मन्त्रैः षड़ङ्गानि करन्यासपूर्वं न्यसेदिति॥३॥
 
   ज्वलदित्यादिभिरन्वितामित्यन्तैः त्रिभिः श्लोकैर्देव्याः सपरिवाराया नित्यसपर्य्याध्यानमुपदिशति। अत्र षड़्वक्त्रां ऊर्द्धपरचतुर्दिगन्तानि एतानि। द्वादश-
-
-
 
 **पाशाङ्कुशौ खड़्गखेटौ चापवाणौ गदाधरौ।  
 शूलवह्नीवराभीती दधानां करपङ्कजैः॥५॥**
@@ -1331,8 +1121,6 @@ OXFORD,
 
  इच्छेत्यादिभिः समीरितमित्यन्तैः पञ्चभिः श्लोकैःनित्यसपर्य्यायां पञ्चावरणशक्तिं तत्पूजाञ्चोपदिशति। तत्र क्रमात् अग्रादिप्रादक्षिण्येन षट्कोणे षट्कोणकोणेषु नित्यानित्यापटलोक्तबन्निर्ऋत्यादिदिग्गतकोणक्रमेण घस्मरादिकाः अनन्तरश्लोके
 
-
-
 **वहिरष्टच्छदेष्वेताः पूजयेच्च प्रदक्षिणम्।  
 अचिन्त्यामप्रमेयाञ्च पूर्णरूपां दुरासदाम्॥११॥**
 
@@ -1355,8 +1143,6 @@ OXFORD,
 
   एवमित्यादिभिर्ध्रुवमित्यन्तैः सप्तभिः श्लोकैर्दशयन्त्रनिर्माणोपदेशं तद्विनि-
 
-
-
 **पूजाचक्रे वहिर्भूतं चतुरस्रे त्वखण्डिते॥१५॥**
 
 **विधाय तत्र विलिखेदक्षराणि यथाविधि।  
@@ -1375,8 +1161,6 @@ OXFORD,
 
 योगादिप्रस्तावञ्च करोति। तत्र यन्त्राणि वक्ष्यमाणानि। चतुरस्त्रे त्वखण्डिते विधाय चतुर्द्वारस्यान्तरेखाखण्डनमन्तरेण चतुरस्रद्वयं विधायेत्यर्थः। तत्र यन्त्रे अक्षराणि ज्वालामालिनीविद्यायाः। यथाविधि वक्ष्यमाणविधिना। सर्व्वमध्ये त्रिकोणमध्ये।तारगर्भे विद्यादिभूतप्रणवमध्ये।शक्तिं मूलविद्यापञ्चचत्वारिंशदक्षररूपां हृल्लेखात्रयं विद्याद्वितीयाक्षरादि। त्रिषु कोणेषु त्रिकोणस्येत्यर्थः। षट्सु कोणेष्विति शेषः। षट्कं पूर्वोक्तत्रयादुपरितनम्। अष्टसु कोषेष्वित्यन्वयः। अष्टकं प्रागुक्तषट्कादुपरितनं वहिरप्येवम्। अष्टपत्रेषु प्रागुक्ताष्टकादुपरितनमष्टकं लिखेदिति यावत्। वाह्ये दिक्षु नवक्रमात् चतुरस्रे प्रतिदिशं नवनवक्रमेण चतुर्दिक्षु सम्भूय षट्त्रिंशदक्षराणि प्रागुक्तषट्चत्वारिंशत्तमाक्षरहृल्लेखाविधुराणि लिखेदित्यर्थः। मूलाक्षरैस्त्रिषष्टिसंख्यैः। तेन यन्त्रेण। अकारादीत्यादिना समन्वितमित्यन्तेनाध्यर्द्धन श्लोकेन एतदुक्तं भवति अकारादिक्षकारान्तैः षट्त्रिंशत्संख्यैरक्षरैः प्रत्येकं षोड़शस्वरयोगतः षट्सप्तत्यधिकपञ्चशतसंख्यैर्मातृकाविसराक्षरैः चतुर्वर्गाक्षरचतुःषष्टिक्रमतः प्रागुक्तयन्त्रे विद्याक्षरसमेत तत्तत्स्थानलिखितैस्त्रिषष्टिभिः सर्वमध्यलिखितचतुःषष्टितमलेखनतञ्च नव यन्त्राणि प्रागुक्तैःकेवलमूलविद्याक्षरैरेकं यन्त्रं सम्भूय दशयन्त्राणि संजातानीति। तेषां यन्त्राणां। विनियोगाद् यन्त्राणामित्यन्वयः। फलावाप्तिं विनियोगात्। यैर्बिनियोगैः।
 
-
-
 **शिष्टमेवं लिखेन्मध्ये साध्याक्षरसमन्वितम्।  
 एवं यन्त्राणि जायन्ते दश तेषामनुक्रमात्॥२०॥**
 
@@ -1386,8 +1170,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
   दशयन्त्रविरचनाक्रमो यथा अन्तर्वहिर्विभागेन अखण्डितंचतुरस्रद्वयं यथामानं कृत्वा तदन्तरष्टदलपद्मं सवृत्तं कृत्वा तदन्तर्बृत्ताद्दिग्विदिक्स्पृष्टास्पृष्टकोणमष्टकोणं प्राग्वत् कृत्वा तदन्तः सवृत्तं प्राग्वत् षट्कोण कृत्वा तदन्तः सवृत्तं त्रिकोणं समत्रिरेखं कृत्वा तत्र सर्व्वमध्यत्रिकोणमध्ये मूलविद्याया आद्याक्षरं प्रणवमालिख्य तदुदरे विद्यायाः षट्चत्वारिंशत्तमाक्षररूपां हृल्लेखां नामगर्भामालिख्य त्रिकोणस्य त्रिकोणेष्वग्रादिप्रादक्षिण्येन विद्याद्वितीयाक्षरादीनि त्रीण्यक्षराण्यालिख्य तद्वहिः षट्कोणस्य कोणेषु षट्स्वग्रादिप्रादक्षिण्येन पूर्वलिखितोपरितनानि षड़क्षराणि समालिख्य तद्वहिरष्टकोणस्याष्टकोणेषु प्राग्वत् क्रमेण षट्कोणलिखिताक्षरादुपरितनान्यष्टाक्षराण्यालिख्य तद्वहिरष्टदलपद्मस्याष्टसु पत्रेषु अग्रादिप्रादक्षिण्येन पूर्वलिखिताक्षरादुपरितनान्यष्टाक्षराण्यालिख्य सर्ववाह्यगतचतुरस्रद्वयान्तरवीथ्यांपूर्वलिखिताक्षरादुपरितनान्यक्षराणि मध्यलिखितहृल्लेखावर्जं पश्चिमादिप्राग्वत् प्रतिदिशं नव नव क्रमेण चतसृषु दिक्षु षट्त्रिंशदक्षराण्यालिख्य एवं मूलविद्यायास्त्रिषष्टिसंख्यान्यक्षराण्यालिख्य तेन यन्त्रेण सर्ववाञ्छितानि साधयेत्। एतत् प्रथमं यन्त्रम्। प्रागुक्तयन्त्रस्थमूलविद्याक्षरैः सार्द्धं षट्सप्तत्यधिकपञ्चशतसंख्यमातृकाक्षरेष्वादितश्चतुर्वर्गाक्षराणि चतुःषष्टिसंख्यानि विद्याक्षरस्थानेषु द्विषष्टिसंख्येषु त्रिरादिषष्टिसंख्यानि मध्ये पुनरपि शिष्टमेकमक्षरं लिखेत्। एवं कृते मध्ये द्वे अक्षरे दृश्येते। एतद्द्वितीयं यन्त्रम्। एवमन्यान्यपि मातृकाविसराक्षराणि पूर्वलिखितचतुर्वर्गाक्षरचतुःषष्टिकोपरितनोपरितनचतुर्वर्गाक्षरचतुःषष्टि- कालेखनतो यावत्परिसमाप्ति पूर्वोक्ताभ्यां यन्त्राभ्यां सह दश यन्त्राणि सम्भवन्ति तैरिष्टेषु विनियोगान् कुर्य्यादिति॥२१॥
-
-
 
 **द्वितीयादीनि यन्त्राणि मातृकार्णयुतानि वै।  
 क्रमान्नवग्रहाणां स्युस्तत्तद्वारेषु तद्दिशि॥२२॥**
@@ -1410,8 +1192,6 @@ OXFORD,
 
   आद्ये मातृकाविसराक्षररहिते। प्रोक्तक्रमं प्रागुक्ततत्तद्ग्रहप्राप्तदिग्विलेखनं मध्ये देवीपूजनादिकं। सर्वेषां नवानां ग्रहाणाम्। तान् ग्रहान् तत्तन्नामालेखनस्था-
 
-
-
 **प्रीताः क्रूरा अपि क्रूरस्थानस्था अपि सर्वदा।  
 सौम्याः सौम्यगतानान्तु फलान्येव वितन्वते॥२७॥**
 
@@ -1433,8 +1213,6 @@ OXFORD,
 
   दशस्वित्यादिभिः सुखीत्यन्तैः सप्तभिः श्लोकैः प्रोक्तदशयन्त्रैः स्वस्थावेशप्रकारादिकमुपदिशति। तत्र दशस्वपि च एकस्मिनेकस्मिन्निति शेषः। अर्च्चितेषु तत्तलिखितविद्याक्षरादिकैः। वा विकल्पे। मुग्धाम् स्वलितेन्द्रियां। तथाविधः सुशुभावयवत्स्वलितेन्द्रियत्वादियुक्तं। विद्यया ज्वालामालिन्याः शतवारमभ्यर्चेत्यर्थः। स्पृष्टशीर्षं आवेश्य तथार्चयेत् शतवारं पूर्वोक्तार्चनाप्रकार एव। अथापिवेति विकल्पार्थः। यावत् कार्य्याबसानकं देवतायाः समावेशावधि तस्मिन् देवता समाविष्टाधिकरणद्वये तां देवतामुपचारैः सम्पूज्येति पूर्वत्रान्वयः। प्रागुक्तैः षोडशभिः। विद्यया मूलविद्यया उपचारमन्त्रभूतया प्रजपन् विद्यामिति शेषः
 
-
-
 **ततस्तामुपचारैस्तैः प्रागुक्तैर्विद्यया वशी।  
 पूजयेत्तां ततः पृच्छेदभीष्टं कथयेच्च सा॥३२॥**
 
@@ -1455,8 +1233,6 @@ OXFORD,
 तां देवतां। सा देवता। अन्यद्वाञ्छितं सा देवता। तां देवतां प्राग्वत् षोड़शोपचारैः सम्पूज्येति शेषः। तां विद्यां पूर्णात्मा देवतास्वैक्येन। एतदुक्तं भवति प्रोक्तेषु दशसु यन्त्रेषु अन्यतमस्मिन् प्राग्वत् सम्पूजिते मध्ये प्रोक्तरूपं कुमारं कन्यकां वा संस्थाप्य मूलविद्ययाभ्यर्च्य शतवारं प्रोक्तैः पुष्पैर्गन्धादिभिश्चतच्छिरः स्पृशन् मूलविद्यां शतवारं जपित्वा पुनरपि प्राग्वदभ्यर्च्य गुग्गुलधूपं देवतासमावेशावधि दत्त्वा देवतासमाविष्टे तस्मिन्नधिकरणद्वये अन्यतमस्मिंस्तां देवतां षोड़शभिरुपचारैर्मूलविद्ययाभ्यर्च्य तां विद्यां जपेत् तां देवतामात्मनोऽभीष्टं भूतं भवद्भविष्यच्च पृच्छेत् तया सर्वस्मिन् प्रश्नजाते कथिते सति प्राग्वदुपचारैरभ्यर्च्य प्राग्वत् स्वात्मन्युद्वास्य पूर्णाशयः सुखीविचरेदिति॥३४॥
 
   तथेत्यादिना अपयाति चेत्यन्तेन श्लोकद्वयेन रोगावेशार्थं षट्कोणयन्त्रनिर्माणं तत्प्रयोगादिकमुपदिशति। तत्र दाहकं विद्यागतं सप्तकृत्वः प्रोच्चार्य्यमाणं रेफम्। तत्रषट्कोणमध्ये गदिनं रोगिणं उदीरितक्रमात् विद्यायन्त्रलिखिताक्षरसप्तकाभ्यां रोगमावेश्येत्यन्वयः। तत्कारणं रोगकारणं तत्स्वावेशकारणं। तस्य मन्त्रिणः। अपयाति रोग इति शेषः। एतदुक्तं भवति श्रभीष्टमानभ्रमेण वृत्तं निष्पाद्य तत्र प्रागुक्तक्रमात् षट्कोणं कृत्वा तन्मध्ये षट्सु कोणेषु च मूलविद्यागतं रेफसप्तकमालिख्य तैर्विद्यया च तद्यन्त्रमभ्यर्च्य तत्र मध्ये रोगिणं
-
-
 
 **प्रथमं स्त्रीकपालस्य मध्यस्थं तापयेन्निशि।  
 जपन् विद्यां स्मरन् साध्यां सद्य आकृष्यतेऽथ सा॥३७॥**
@@ -1481,8 +1257,6 @@ OXFORD,
 
   सर्व्वासामित्यादिभिस्तत इत्यन्तैस्त्रिभिः श्लोकैर्वक्ष्यमाणरूपस्य वेधद्वयस्य साधारणरूपं यामलवेधमुपदिशति। तत्र सर्वासां षोड़शानां नित्यानामुपदेशे विद्यादेवतयोरैक्यरूप्यात्। तं शिष्यंतत्तच्चक्रस्य तत्तन्नित्यसपर्य्याचक्रस्य वा अत्रोक्त-
 
-
-
 **वह्निज्वालापरीताङ्गं भावयन्निन्द्रियाण्यपि।  
 मनःषष्ठानि चाकर्षेन्मनसा प्राग्वदात्मनि॥४२॥**
 
@@ -1500,8 +1274,6 @@ OXFORD,
 दशयन्त्रेष्वन्यतमस्य वेत्यर्थः। अत्र नित्यसपर्य्याचक्रस्योपादानं गुरोर्भावनासिद्धित्व शिष्यविषयम्। विद्याजपान्वितम् तत्तन्नित्यानां। वह्निज्वालापरीताङ्गं भावयेत् नित्यसपर्य्याचक्रगतश्चेत्तं केवलाग्निज्वालाहत्तरूपं शिष्यं प्रोक्तयन्त्रदशकान्यतमगतश्चेत्तत्तद्गतरेफसप्तकरूपवह्निज्वालावृत्तरूपं च भावयन् इत्यर्थः। इन्द्रियाणि ज्ञानरूपाणि श्रोत्रादीनि पञ्चमतः षष्ठानि मनो येषां षष्ठन्तानीति। मनसा भावनया प्राग्वत् प्राणप्रतिष्ठोक्तप्रक्रियया स्वात्मन्याकृष्य ततो विसंज्ञं भुवि निपातितं तन्मुखेऽर्घ्यजलं चिप्त्वा समुत्थाप्य ततः प्रागुक्तप्रक्रिययाधारत्रये विद्यान्तेजस्त्रयरूपिणींस्वान्तादावाह्य संस्थाप्य तज्जीवकर्णे विद्यां वदेदिति॥४३॥
 
   एष इत्यादिभिः सम इत्यन्तैः सप्तभिः श्लोकैः त्रिविधे वेधेद्विवेधरूपादिकमुपदिशति। तत्र एषःपूर्वोक्तसामान्य- रूपो यामलवेधः। त्रिधा प्रोक्तरूपेण स्वात्मना वक्ष्यमाणाभ्यां च प्रत्ययकारकः गुरुदेवतात्मैकाविश्वासकारकः। द्वयोः शाक्तशाम्भवयोः। ऐक्यात्मयामलात् प्रोक्तरूपयोर्द्वयोः शाक्तशाम्भवयोरैक्यात्मरूपाद् यामलादित्यर्थः। मूलाधारादिस्थानेषु षट्स्विति शेषः। ब्रह्मरन्ध्रके एवं सम्भूय सप्तसु स्थानेष्वित्यर्थः। स्मर टाहार्णकान् सप्तेत्युक्तेति शिष्यस्य स्वभावनीयगुरूपदेशतः। दाहार्णकान् मूलविद्यागतरेफसप्तकं प्रागवदग्निज्वालाष्टताङ्गत्वादितः। एतत् सर्व्ववेधसाधारणं विदध्यादुक्तरूपतः। सिद्धविद्यया उपदेष्टव्यया। एतदुक्तं भवति प्रागुक्तयन्त्रमध्यगतंशिष्यं गुरुर्मूलाधारादिब्रह्मरन्ध्रान्तस्थानसप्तके विद्यागतरेफसप्तकं स्मरेत्युक्त्वा प्राग्वदुपदेष्टव्यविद्यया वीक्ष्य भावनादिना भुवि
-
-
 
 **विदध्याच्छाक्तवेधन्तु देशिकः सिद्धविद्यया।  
 शाम्भवन्तु शृणु प्राज्ञे वेधमद्भुतविग्रहम्॥४६॥**
@@ -1521,8 +1293,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 निपातितंप्राग्वदुत्थाप्य तत्तद्विद्यां वदेत्। एष शाक्तवेध इति। तत्र शाम्भवमित्यादिभिः सम इत्यन्तैः शिष्टैरर्द्धाद्यैश्चतुर्भिः श्लोकैरपुनरावृत्तिवारं शाम्भववेधं आमलवेधफलञ्चोपदिशति। तत्र शाम्भवं वक्ष्यमाणरूपमद्भुतविग्रहं सद्यः अपुनरावृत्तिकरत्वात्। तूष्णीं संस्थापितंप्रागुक्तशाक्तवेधभावनादिराहित्येन। तत्तच्चक्रे नित्यसपर्य्याचक्रादिषु। तदात्मना शिष्यात्मरूपेण। स्वयं गुरुः प्रविश्य सर्वात्मभावनया तद्देहं शिष्यदेहं प्रविश्येत्यन्वयः। एकीभूत्वा शिष्यात्मादिभिः पुनः स्वात्मादिभिः शिष्यात्मादीनामेकीकरणस्थैर्य्यानन्तरं स्वके देहे गुरुरिति शेषः समागत्य स्वके इत्यत्रान्वयः। आत्मरूपेण स्वात्मरूपेण स्वात्मविलापनेनेत्यर्थः। तदात्मानं शिष्यात्मानं कृतन्यासजपार्च्चःस्वात्मनस्तत्तनुं शिष्यतनुम् मृतामित्यर्थः। वह्निना दहेन्मृतत्वादग्निसात् कुर्य्यादित्यर्थः। शाम्भवो वेधः प्रोक्तरूपः। एतदुक्तं भवति तत्तच्चक्रादिषु सद्गुरुः प्रागुक्तभावनाविरहितं तूष्णीं शिष्यं स्थापयित्वा तदात्मरूपेण तद्देहं सर्वात्मभावनया प्रविश्य तदात्मादिभिरेकीभूत्वा पुनः स्वशरीरमागत्य स्वात्मनि शिष्यात्मानं निःशेषं विलीनं विभाव्य कृतन्यासादिकः शिष्यशरीरंमृतं श्मशानं नीत्वाग्निसात् कुर्य्यादित्यर्थः। एष शाम्भवो वेधः केवलमोक्षोच्छोरिति। प्रोक्तः प्रागेव विसंज्ञो निपतेदित्यादिना। वेधत्रयं वेधस्तु स्वात्मना सच्चिदानन्दस्फुरणरूपपरिपूर्णपराहन्तात्मना शिष्यात्मनः सङ्कचितरूपस्य एकीकरणतः पूर्वोक्त-
-
-
 
 **रक्तचन्दनपङ्केन लिखित्वा प्रथमं शिवे।  
 लोहैर्विरचिते पट्टे फलकायां शिलातले॥५१॥**
@@ -1546,8 +1316,6 @@ OXFORD,
 [^3]: " त्वभावसिद्धि सूचकमिति पाठः मूलश्लोके तद्दिवेच्यम्।"
 
   रक्तचन्दनमित्यादिभिः साधयेदित्यन्तैः त्रयोविंशत्या श्लोकैर्दशभिर्यन्त्रैः वश्यादिप्रयोगानुपदिशति। तत्र रक्तचन्दनेत्यादिभिः शिवे इत्यन्तैः पञ्चभिः श्लोकैः तेषु प्रथमयन्त्रेण साध्यान्युपदिशति। तत्र प्रथमं यन्त्रमिति शेषः। लोहैर्विरचिते पट्टे तत्रापि कुचन्दनमेव द्रव्यं फलकाशिलातलयोरपि तदेव।वा विकल्पे। तत्र यन्त्रमध्ये। शक्तिभिः नित्यपूजावरणोक्तादिभिः। दिनम् एकमिति शेषः। मण्डलं प्राग्वत् इष्टं वक्षमाणवश्यादिकं। ईप्सितं लाभमित्यन्वयः। अन्यत् प्रोक्तेभ्यःअर्चनान्नित्योक्तक्रमतः। प्रोक्तान् षष्ठपटले काम्यप्रकरणप्रोक्तान् वक्ष्यप्रमाणान् प्रमेहादींश्च। अन्यानि चाखिलान् अखिलान् अन्यानीति सामानाधिकरण्यमागमत्वादर्थानीति शेषः। शिवे इति देवीसम्बुद्धिः॥५५॥
-
-
 
 **द्वितीयं दरदे कृत्वा प्रोक्तेषूच्चं गते रवौI  
 पूजयेत् प्रोक्त्रकालेन फलान्युक्तान्यवाप्नुयात्॥५६॥**
@@ -1574,8 +1342,6 @@ OXFORD,
   द्वितीयमित्यादिभिर्मानस इत्यन्तैश्चतुर्भिः श्लोकैर्द्वितीययन्त्रसाध्यान्युपदिशति। तत्र द्वितीयं यन्त्रं। प्रोक्तेषु प्रथमयन्त्रप्रोक्तलोहादिषु तेष्वपि दरदमेव द्रव्यम्।उच्चं गते उच्चराशिभूतमेषस्थे आदित्ये चैत्रमास इत्यर्थः। तत्रापि उच्चकाले पूजयेद्देवींनित्यपूजाक्रमत इति शेषः। प्रोक्तकालेन दिनादितः। उक्तानि वश्यादीनि। विलिख्य द्वितीयं यन्त्रं तत्रापि इदमेव द्रव्यं स्पृशन् यन्त्रं। नित्याविद्यां ज्वालामालिनीविद्यां। तद्वासिताम्बुभिः यन्त्रोषितजलैः। पाकजातं अन्नादि। उक्तदिनम्—अत्यन्तसंयोगे द्वितीया प्राग्वद्दिनानि। त्रिविधैर्दोषत्रयानुबन्धात्। मूत्रपालीति तत्त्राकारमेहवारिको रोगविशेषः। स्वस्थमानसः आधिराहित्यात्॥५८॥
 
   तृतीयमित्यादिना विनश्यतीत्यन्तेन श्लोकद्वयेन तृतीययन्त्रप्रयोगेण वैरिनिग्रहमुपदिशति। तत्र तृतीयं यन्त्र। तले फलकायामित्यर्थः। तत्र यन्त्रखननप्रदेशे। प्रोक्तैर्दिनादिभिः। तत् यन्त्रं। सलिले न जलाशये विनश्यति तदा दाहज्वरेण रिपुरित्यर्थः॥६१॥
-
-
 
 **चतुर्थं रोचनापङ्कैरालिख्योक्तप्रपूजनात्।  
 प्राप्नोति विजयं प्रोक्तेष्वखिलेषु सुनिश्चितम्॥६२॥**
@@ -1605,8 +1371,6 @@ OXFORD,
 
   सप्तममित्यादिना शक्तय इत्यन्तेन श्लोकद्वयेन सप्तमयन्त्रप्रयोगेण लक्ष्मीप्राप्ति-
 
-
-
 **तद्दिनैरिन्दिरा तस्य सर्वलोकातिशायिनी।  
 भवत्येव महेशानि विचित्रा यन्त्रशक्तयः॥६८॥**
 
@@ -1635,8 +1399,6 @@ OXFORD,
 
   विलिखेदित्यादिना श्लोकेन दशमयन्त्रेण प्रागुक्तनवमयन्त्रवाच्यफलान्यनेन प्राप्तुंप्रयोगादिकमुपदिशति। तत्र प्रोक्तद्रव्यैः सर्वैः प्रथमयन्त्रप्रोक्तकुचन्दनादिभि-
 
-
-
 **प्रोक्तेषु दशसु प्रोक्तद्रव्यैरालिख्य तेषु तु।  
 संस्थाप्य कुम्भं विधिना जपित्वोग्रे ग्रहे तदा॥७४॥**
 
@@ -1662,8 +1424,6 @@ OXFORD,
 
   सुवर्णेत्यादिभिर्विधानत इत्यन्तैस्त्रिभिः श्लोकैर्यन्त्राङ्कितसुवर्णपट्टादिदानेन तत्
 
-
-
 **षोड़श द्वादश नव षट् त्रिनिष्कप्रकल्पितम्।  
 नित्यार्चकस्य नित्यानामेकां पूजयितुंतु वा॥७९॥**
 
@@ -1687,8 +1447,6 @@ OXFORD,
 
  मेषादीत्यादिना भुनीत्यन्तेन श्लोकद्वयेन प्रोक्तेषु दशसु यन्त्रेषु एकस्मिन्नेकस्मिन् यन्त्रे त्रिवासरं क्रमात् द्वादशसु मासेषु भास्करादिदेवतार्च्चनादवाप्यानि फलान्युपदिशति। तत्र मेषादिराशिगे भानावित्युक्त्या चैत्रमासमारभ्येति प्रत्येकं त्रित्रिबासम् एकस्मिन् एकस्मिन् यन्त्रे त्रिदिनमित्यर्थः। एवं प्रतिमासमेकावृत्तिर्भवति। पूजयेत् भास्करसहितां देवीं। तत्र भास्करार्च्चनस्थानं प्राग्वदिति॥८३॥
 
-
-
 **यद्राशौ यो ग्रहस्तिष्ठत्येको द्वौवहवोऽथवा।  
 तद्दिनेषु तदुच्चेषु कालेषु च तदर्चनात्॥८४॥**
 
@@ -1711,8 +1469,6 @@ OXFORD,
   नवस्वित्यादिना आप्नुयुरित्यन्तेन श्लोकद्वयेन प्रोक्तेषु द्वितीयादिनवयन्त्रेषु प्राग्वद्ग्रहपूजया शत्रुमर्द्दनमुपदिशति। तत्र तत्तत् क्षोभं विलिख्यान्तः साध्यस्य शत्रोः प्रतिकूलं ग्रहं कर्णिकास्थाने देवदत्तम् आदित्यः क्षोभयत्वित्यादि। वैरिमर्दनप्रयोगे उपरागे ग्रहणे रविचन्द्रयोरित्यन्वयः। आप्नुयुः शत्रवः॥८७॥
 
   विद्येत्यादिभिर्विभञ्जकमित्यन्तैः पञ्चभिः श्लोकैः सर्व्वविद्याक्षरौषधभस्मसाधनतद्विनियोगादिकमुपदिशति। तत्र कर्षं निष्कत्रयम् एतन्मानमपुनरुक्तानां विद्याक्षरौषधानां पुनरुक्तानान्तु प्राग्वत्तदाप्तसंख्यागुणिताः। भाण्डे नवे तत् औषधं विद्यया संस्कृते तन्मूलविद्यया संस्कृते तदुदरोत्थिते भाण्डोदरोत्थिते वह्नौ हुत्वा सहस्रवारादहीनं। तत्र भस्मनि। तत्र भस्मगते यन्त्रे। देवीं तां तथा नित्याक्रमतः अर्चयेत्। तद्भस्म सर्वाभिः षोड़शनित्याभिः। तद्गृहे भस्माधिष्ठिते श्रीखण्डाद्यैः चन्दनकुङ्कुमाद्यैः। एतदुक्तं भवति नवे भाण्डे खारिमाणं पञ्चगव्यं सर्वं समांशं तत्तदुपास्यमन्त्रविद्यादिभिर्निक्षिप्य तत्र सर्व्वमन्त्रविद्यापुनरुक्ताक्षरौषधानि तत्तद्विद्याजपसहितं प्रौक्तमानतो निक्षिप्यतत्तद्विद्या संस्कृते वह्नो
-
-
 
 **विद्यया संस्कृते वह्नौततस्तदुदरोत्थिते।  
 घृतेन विद्यया हुत्वा तद्भस्मादाय तत्र वै॥८९॥**
@@ -1738,8 +1494,6 @@ OXFORD,
 
   वह्न्यक्षरेष्वित्यादिभिरितीत्यन्तैरष्टभिः श्लोकैः पञ्चभूतप्रोक्ताग्नेयाक्षरदशकस्यान्योन्यमेलितजनितसंख्याक्षरैरेक- विंशतियन्त्राणि तैर्जठराग्निवृद्धिप्रयोगादिकमुपदिशति। तत्र वह्न्यक्षरेषु पञ्चभूताक्षराणां मध्ये इत्यर्थः। तानि ईकारादिक्षकारान्तानि दश। सप्तभिः आदिगतस्वरत्रयरहितैः खकारादिवर्गद्वितीयरेफक्षाक्षरैः। पृथक् प्रति व्यञ्जनं। स्वरत्रयं इ ई ऐ इति तदादिभूतमक्षरत्रयं। तानि स्वरत्रयसहितानि व्यञ्जनानि तद्रूपाणि यथा खिँ खीँ खैँइत्यादीनि क्षिँ क्षीँ क्षैँइत्यन्तानि। तदन्तः त्रिकोणद्वयान्तः। नाम्ना सह इति शेषः साध्यादीना-
 
-
-
 **नाम्नाद्यं बिलिखेन्मध्ये षट्कोणेषु च षट् क्रमात्।  
 विलिखेदग्रमारभ्यप्रादक्षिण्येन पार्वति॥९५॥**
 
@@ -1755,8 +1509,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 मिति। आद्यंखिँइत्यक्षरं स्वरत्रययुक्तेषु एकविंशतिसंख्येषु आग्नेयव्यञ्जनाक्षरेषु आद्यं। क्रमात् एकस्मिन्नेकस्मिन्नेकैकक्रमात्। पार्व्वतीति सम्बुद्धिः। चतुर्दश तथा क्रमात् स्वस्य वामपार्श्वे अधरादि ऊर्द्धान्तञ्चैकैकंपञ्चकंदक्षिणपार्श्व ऊर्द्धाद्यधरान्तं पञ्चकमग्रे दक्षिणादिवामान्तञ्चतुष्टयं तदन्ते पञ्चदशमस्थाने साधकादित्रयं वा (च) लिखेत्। पञ्चदशस्वपि विंशतियन्त्रेषु पञ्चदशस्थानेष्वित्यर्थः। अन्येषां द्वितीयादीनामक्षराणां। तैरेकविंशतिभिः। त्रिकोणाकारके पट्टे कुक्ष्यग्निवर्द्धनप्रयोगार्थमेकविंशतियोग्याधिकरणरूपे इत्यर्थः। तानि यन्त्राणि। तद्वर्णकृतसम्पुटं प्रागुक्तैकविंशत्यक्षराणि विद्याया आद्यन्तयोरनुलोमरूपेण योजयित्वा जपेदित्यर्थः। तद्यन्त्रपट्ठंजपपूजितं उक्तरूपया विद्यया। पाकः प्राग्वदन्नादिभिर्भवति प्रदीप्तिरित्यत्रान्वयः। प्राग्जन्माघक्षयेण पूर्वजन्मपापनाशात् अभिषेकादिकृतात्। जायते प्रदीप्तिर्जायते इति निगमनरूपं। नित्यानामित्युक्त्या एष प्रयोगः सर्व्वसाधारण इत्यर्थः। इति प्रोक्ता इति शेषः। एकविंशतियन्त्रविरचनाप्रयोगक्रमो यथा पञ्चभूताक्षरेषु वह्न्यक्षराणि अन्योन्यसम्मेलनजनितैकविंशतिसंख्यानि। प्रोक्तरूपाण्यक्षराणि त्रिकोणाकारके ताम्रपट्टे वाह्याभान्तरयोगात् समत्रिरेखं त्रिकोणद्वयं प्रागग्रमालिख्य तदन्तर्व्वत्तमन्तर्गत त्रिकोणरेखात्रयस्पृष्टास्पृष्टं विधाय तदन्तः प्रागुक्तमानेन षट्कोणं विधाय तत्र लिखेत् यथा सर्बमध्ये आद्याक्षरं नामगर्भं समालिख्य तद्वहिः षट्सु कोणेषु अग्रादिप्रादक्षिण्येन षड़क्षराण्यालिख्य तद्वहिस्त्रिकोण-
-
-
 
 **सतोयभाण्डे दिनशो निक्षिपेज्जपपूजितम्।  
 तत्तोयेनान्नपाकाभिषेकतो भवति ध्रुवम्॥९९॥**
@@ -1780,16 +1532,12 @@ OXFORD,
 व्याख्यायां ज्वालामालिनो-नित्याविद्याविधानप्रकाशनपरं  
 विंशतितमं पटलं परिपूर्णंपरामृष्टम्॥२०॥**
 
-
-
 **  ग्रन्थसंख्याः—**
 
 **यन्त्राणि विंशे पटले द्वातिंशद्व्याक्रिया कृता।  
 अध्यर्द्धपादरहितं त्रिशतं ग्रन्थसंख्यया॥**
 
 **![](../books_images/U-IMG-1724167832Screenshot2024-08-08063503.png)**
-
-
 
 **एकविंशपटलम्।**  
 
@@ -1813,8 +1561,6 @@ OXFORD,
 
  विद्येत्यादिना श्लोकेन षडङ्गन्यासोपदेशं मातृकान्यासातिदेशञ्च करोति। तत्र विद्याद्यवायुना विद्यादिभूतचकारेण। दीर्घस्वरयुजा प्राग्वत्। चाँचीँइत्यादिरूपेण।यथापूर्व्वम् एतत् काकाक्षिवत् अर्थवशात् पूर्वापरयोरन्वेति तेन पूर्वत्रान्वये जाते सहितं न्यसेदित्यर्थः परत्रान्वये तत्तत् स्थानेषु प्रागुक्तेषु न्यसेच्चेत्यर्थः विद्यया प्रागुक्तन्यासक्रमातिदेशेनैकैकेनाक्षरेणान्ते युतामिति शेषः। न्यसेत् कुलसुन्दरीपटलोक्तक्रमादित्यर्थः॥४॥
 
-
-
 **उद्यदादित्यविम्बाभां नवरत्नविभूषिताम्।  
 नवरत्नकिरीटाञ्च चित्रपट्टांशुकोज्ज्वलाम्॥५॥**
 
@@ -1834,8 +1580,6 @@ OXFORD,
   तच्छक्तिभिरित्यादिना अन्तिके इत्यन्तेन श्लोकद्वयेन देव्या नित्यसपर्य्याक्रमं षड़ावरणमुपदिशति। तत्र तच्छक्तिभिः सर्व्वमङ्गलावरणचतुष्टयशक्तिभिः। तथैव[^5] अभ्यन्तराद्वाह्यनिर्गमनक्रमेणाष्टवर्गयुताः अकचटतपयशादिवर्गाष्टकपूर्वाः। तेन ब्राह्म्याणादीनां द्विरर्चनमायातं। परितः मध्यत्रिकोणाद्वहिरित्यर्थः। तद्भुजान्तिके दक्षिणाधरभुजादि वामाधरभुजान्तं प्रादक्षिण्येनेत्यर्थः। एतदुक्तं भवति पूर्वोक्तसर्व्वमध्यकर्णिकाग- तनवयोनिमध्यविशिष्टे सर्व्वमङ्गलानित्यपूजाचक्रे सर्व्वमध्ये चित्रानित्यामावाह्योपचारैरभ्यर्च्च्य तत्पृष्ठभागे प्रागुक्तान्तराले नवनाथपंक्तिं प्राग्वत्त्रित्रिक्रमतोऽभ्यर्च्यसर्व्वमध्ययोनि कोणेषु तदिच्छाज्ञानक्रिया शक्तीस्तद्वहिर्देव्यास्तत्तद्भुजान्तिके दक्षिणाधरादि वामाधरान्तं प्रादक्षिण्यात्तदायुधान्यभ्यर्च्य तद्वरिष्टसु कोणेषु अग्रादिप्रादक्षिण्येन वर्गोपेता ब्राह्म्यादीर-
 
 [^5]: "तथैवं।"
-
-
 
 **इच्छ्राज्ञानक्रियाशक्तीरर्च्चयेन्मध्यकोणतः।  
 हेतौश्च परितो[^6] देव्याः पूजयेत्तद्भुजान्तिके॥९॥**
@@ -1864,8 +1608,6 @@ OXFORD,
   सर्व्वासामित्यादिना इमा इत्यन्तेन श्लोकद्वयेन सर्वासां नित्यानां साधारणं नवनाथार्चनोपदेशं तत्तन्मण्डलादिषु प्रतिपर्व्व तदर्चनातिदेशं च कारोति। तत्र तत्तदाकारान्मध्यमध्यदेवीसदृशरूपादिकान्। तत्तन्मन्त्रैः \[ऽत्रि\] द्वितीयपटलोक्तैः। यथाविधि त्रित्रिक्रमपंक्तितः। आद्यास्यन्दजाः श्रद्यायाः ललितायाः स्वेच्छोल्लासरूपत्वात्। आसां सर्व्वगुरुमण्डल सपर्य्यादिकं तत् समानमेवेत्यर्थः॥११॥
 
   साधनमित्यादिना श्लोकेन पुरश्चरणमुपदिशति। तत्र तथा यथा ललितायाः। तदङ्गहवनं साधनाङ्गो होमः। तथा प्राग्वत्तेनाक्षरत्रिलक्षं कृतयुगे द्वादशलक्षं जपं दशांशमन्नाज्यादिभिर्होमञ्च कुर्य्यादित्यर्थः॥१२॥
-
-
 
 **काम्यहोमविधिं वक्ष्ये शृणु सर्वार्थदायकम्।  
 येनातिमन्दभाग्योऽपि श्रीमान् भोक्ता सुखी भवेत्॥१३॥**
@@ -1897,8 +1639,6 @@ OXFORD,
 
   काम्यहोममित्यादिभिश्चेतन इत्यन्तैः सप्तदशभिः श्लोकैर्नाना होमद्रव्यैस्त्रिंशत्संख्यान् मङ्गलरूपान् होमविधीनु- पदिशति। तत्र येन विधिना। तैरम्बुजैरुत्पलैः। रक्तैरक्तकुमुदैरित्यर्थः। कैरवैः सितैरिति शेषः। उत्पलैर्नीलोत्पलैः। तदक्तैराज्याक्तैश्चतुर्विधं प्राग्वद्वादित्वकवित्ववक्तृत्वज्ञातृत्वतः। लभते यत्नादयत्नादिति पदच्छेदः। ससितं खण्डशर्करामिलितं। वा विकल्पे।तद्वदिति च विकल्पार्थे तथैव धनदोपम इत्यर्थः। तद्वत् प्राग्वदन्नाज्यतिलतण्डुलसर्वारुणपुष्पवन्धूकपुष्पहोमाद्धनदोपमो भवतीत्यर्थः। सितरक्तैः पुष्पैः। गुडुच्याः प्राग्व-
 
-
-
 **तथैवान्नाज्यहोमेन सतण्डुलतिलैरपि।  
 प्रसूनैररुणैस्तद्वत्तथा वन्धूकसम्भवैः॥२१॥**
 
@@ -1929,8 +1669,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 दमृतालतया चकारेण गदाञ्जयेदित्याकृष्यते। श्रीखण्डं चन्दनं। शतपत्रकैः तन्नाम गुरुमुखादवगन्तव्यं। सा लक्ष्मीः तदन्वयगा शान्तां श्रियमवाप्नोतीर्थः। शुभैः घुणक्षतादिरहितःअखण्डितैः। निर्द्बन्द्वः निरुपमः। तथैव वस्त्रमाप्नुयादित्यर्थः। रूपाजीवाः वेश्याः। सितहोमतः शर्कराहोमतः। पापिष्ठचेतनःअविवेकी तस्य लक्ष्मीदुष्प्रापत्वात्॥२९॥
-
-
 
 **सौवीराक्तैस्तु कार्पासवीजैस्तत्कालहोमतः।  
 अर्द्धेन्दुकुण्डे नियतंविद्विष्टा रिपवोऽम्बिके॥३०॥**
@@ -1964,8 +1702,6 @@ OXFORD,
 
   सौवीरेत्यादिर्भिध्रुवमित्यन्तैरष्टभिः श्लोकैर्नवसंख्यं निग्रहहोममुपदिशति। तत्र अर्द्धेन्दुकुण्डे वक्ष्यमाणे। तद्वीजैः अरिष्टवीजैः। तत्तैलाक्तैर्निम्बतैलाक्तैः। तथा विद्विष्टा भवन्तीत्यर्थः। तद्वद्यद्वत् दन्तिनः। तत्पञ्चाङ्गैः मृत्युपञ्चाङ्गैः। तदक्तैर्निम्बतैलाक्तैः। सर्व्वविनाशवान् सर्व्वजन्तुविनाशकरः। तत्सिक्तैर्निम्वतैलाक्तैः। तद्दिनैर्मण्डलादिभिः। तद्योनिपिशितैः शत्रुनक्षत्रयोनिमांसैः। तैश्च नक्षत्रवृक्षैः। यक्षाक्षवीजानि गुरुमुखादवगन्तव्यानि। तैलाक्तैस्तिलसम्भवतैलार्क्तिं॥३७॥
 
-
-
 **एवं निग्रहहोमेषु स्वरक्षायै तथान्वहम्।  
 स्निग्धैःसम्प्राप्तसद्विद्यैर्जपहोमादि कारयेत्॥३८॥**
 
@@ -1994,8 +1730,6 @@ OXFORD,
 
  अथ यन्त्राणीत्यादिभिर्विचक्षण इत्यन्तैरर्द्धाधिकैः षड़भिः श्लोकैर्विद्याया आद्ये मातृकाविसराक्षरयोजनात् सञ्जातेषु षट्सप्तत्यधिकपञ्चशतसंख्येषु रूपेष्वादितः षोड़शाधिकचतुःशतसंख्यैस्तैः वर्गक्रमतः षड्विंशतिविधानि यन्त्रायुपदिशति। तत्र सर्वे साधकाः। स्वरयुक्तलिपिव्रातगर्भांअकारादिक्षकारान्तानि षट्सप्तत्यधिकपञ्चश- तान्यक्षराणि विद्याया आदौ एकमेकं योजयेत्। तेन तत्संख्यानि विद्यारूपाणि सम्भवन्तीत्यर्थः। उक्तेषु वक्ष्यमाणेषु। परमेश्वरीति देवीसम्बुद्धिः। तद्द्वयं वृत्तद्वयं। तद्वहिः षटकोणाद्वहिः। तन्त्रयंवृत्तत्रयं।
 
-
-
 **त्रिकोणं वृत्तयुग्मञ्च षट्कोणं तद्द्वयन्तथा।  
 तद्वहिः षड़् दलं पद्मं तत्तत्त्रयञ्च संलिखेत्॥४४॥**
 
@@ -2008,8 +1742,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 त्रिकोणेषु यन्त्रस्य सर्वमध्यत्रिकोणत्रये इत्यर्थः। अन्यानि द्वितीयादीनि। तत्रपञ्चदशसु स्थानेष्वित्यर्थः। अन्तर्वृत्तान्तरद्वन्द्वे कोणवाह्यबृत्तद्वयवीथ्यांषट्कोणवाह्यवृत्तवीथ्याञ्चेत्यर्थः। क्रियोचितान् स्तम्भनवश्यादिक्रियोचितान् पार्थिववर्णादीन्। तत्र लेखनक्रमः प्रतिवीथिकं दशदशक्रमात्। ससाध्यकर्म्मवर्णैश्च अन्ते सहितमिति शेषः। मायाविन्दुयुक्तां क्रमोत्क्रमात्। एतदुक्तं भवति प्रत्यक्षरं विसर्जनीययुक्तां प्रतिलोमां मातृकां सर्व्ववाह्यवृत्तान्तरवीथीद्वये अन्तर्वृत्तवीथ्याम् अभितः समालिख्य प्रत्यक्षरं विन्दुयुक्तामनुलोमामेव वहिर्वीथ्यामभितः समालिखेदिति। एवं षड़्विशतिविधं। क्रमोत्क्रमात् वर्गक्रमतः। षड्विंशतियन्त्रविरचनाक्रमो यथा। इष्टप्रमाणभ्रमात् वृत्तं सम्पाद्य तदनन्तरैकैकाङ्गुलमानेन वृत्तद्वयं कृत्वा तदन्तरं चतुरङ्गुलमानेन हृतं कृत्वा तत्र षड़्दलानि कृत्वा तदन्तरे एकाङ्गुलमानेन वृत्तं सम्पाद्य तद्वृत्तव्यासार्द्धमानतः प्राग्वत् षट्कोणं कृत्वा तदन्तरस्तत्सन्धिस्पृष्टास्पृष्टवृत्तं विधाय तदन्तरैकाङ्गुलमानेन वृत्तं निष्पाद्य तद्वृत्तरेखास्पृष्टत्र्यस्त्रं समरेखं त्रिकोणं विधाय तत्र सर्व्वमध्ये मूलविद्याया आदौ मातृकाविसरसंयोगसज्जातेषु षट्सप्तत्यधिकपञ्चशतसंख्येषु कूटरूपेष्वाद्यं कूटं ससाध्यनामकमालिख्य त्रिकोणस्य त्रिकोणेषु अग्रादिप्रादक्षिण्येन द्वितीयादीनि त्रीणि कूटाक्षराख्यालिख्य तद्वहिः षट्सु कोणेषु अग्रादिप्रादक्षिण्येन पञ्चमादीनि षट्कूटाक्षराण्यालिख्य तद्वहिः षट्सु यन्त्रेषु एकादशाक्षरादीनि षट्कूटाक्षराणि संलिख्य एवं षोड़शाक्षराण्येकवर्गजाति समालिख्य त्रिकोणवाह्यवृत्तद्वयान्तर- वीथ्यांषट्कोणवाह्यवृत्तद्वयान्तरवीथ्यांञ्च कर्म्मोचितानि भूताक्षराण्यग्रादिप्रादक्षिण्येन दशदशालिख्य पद्मवाह्यवृत्तत्रयान्तरवीथीद्वये विन्दुविसर्जनीययुक्तामनुलोमप्रतिलोममातृकाञ्चान्ते साध्यादिसहितां वाह्यवीथ्यारम्भतः प्राग्वद्विलिख्य प्रथमं यन्तं सम्पाद्यानन्तरमस्मिन्नेव
-
-
 
 **ससाध्यकर्म्मवर्णैश्च वहिर्वृत्तान्तरद्वये।  
 मातृकां विलिखेन्मायाविन्दुयुक्तां क्रमोत्क्रमात्॥४७॥**
@@ -2039,8 +1771,6 @@ OXFORD,
 
 [^14]: "मोक्षरूपं।"
 
-
-
 **एतद्वज्रंमहद्यन्त्रं समस्तापन्निवारणम्।  
 समस्ताभीष्टदं सर्व्वविजयश्रीप्रदं शुभम्॥५३॥**
 
@@ -2057,8 +1787,6 @@ OXFORD,
 [^18]: "गते।"
 
 [^19]: "मुक्तक्रर्म।"
-
-
 
 **सप्तविंशतिरुक्तानि यन्त्राण्येवं महेश्वरि।  
 सप्तविंशति नक्षत्रसमान्येतानि चेदपि॥५४॥**
@@ -2093,8 +1821,6 @@ OXFORD,
 
   सप्तविंशतीत्यादिभिराप्नुयादित्यन्तैः षोड़शभिः श्लोकैः सम्भूय सप्तविंशतियन्त्रैः सप्तविंशतिनक्षत्रेषु तदात्मना समर्च्चनादिकं वारेषु च तथार्च्चनं ततस्तिथिसमर्चनादिक्रमं चोपदिशति। तत्र सप्तविंशतियन्त्राणि अनन्तर पूर्वोक्तेन सह सप्तविंशति यन्त्राणणीत्यर्थः। तेन कारणेन तान्येव सप्तविंशतिनक्षत्राण्येव विभक्त्या सार्द्धमिति शेषः। तान्येवेत्यत्र एवास्यान्वयः। साध्यंप्राग्वत्तानि यन्त्राणि। तत्तद्दिनेषु तत्तद्यन्त्रप्राप्तेषु अश्विन्यादिनक्षत्रेषु। तेषां यन्त्राणाम्। परमेश्वरीति सम्बुद्धिः। स्यात्
 
-
-
 **तृतीयाद्येषु नवसु ग्रहान्नव समर्च्चयेत्।  
 देव्यात्मरूपात्तेनास्य तैर्ब्बाधा न भवेद्ध्रुवम्॥६४॥**
 
@@ -2116,8 +1842,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 अव्ययमिदमाख्यातप्रक्षेपकमवधारणार्थं। वा विकल्पे। प्रोक्तद्रव्याणि वक्ष्यमाणानि कुचन्दनादीनि। वा विकल्प। तत्र यन्त्रे निधाय प्रोक्तदिवसपूजानन्तरं। सुखी गदोति शेषः। प्रोक्तेषु क्रमान्नक्षत्रेषु कार्य्येषु च वक्ष्यमाणेषु प्रोक्तेषु सेन्दुं सकर्पूरं। द्वादशभिः कुचन्दनादिनचत्रवृक्षोत्थैर्जलैः। शुभैः शुद्धरूपैः। वा विकल्पे सूक्ष्मपेषितैर्द्रव्यैरिति शेषः। द्वितीयं यन्त्रमिति शेषः। प्रोक्तरूपतः तत्तन्नक्षत्रादिषु तत्तद्दिनपूजनाभिषेकतः। तृतीयाद्येषु तृतीययन्त्राद्येषु नवसु यन्त्रेषु एकादशान्तेष्विति शेषः। देव्यात्मरूपात् देवीमयविग्रहात् तेन कारणेन। अस्य साधकस्य। तैर्ग्रहैः। एतदुग्रहार्च्चनं तत्तद्वारेषु कर्त्तव्यमिति सम्पदायः। राहुकेत्वोर्वारौ प्राग्वत्। द्वादशेन प्रोक्तनवकात् परेण यन्त्रेणेति शेषः। प्रोक्तक्रमविधानतः तत्प्राप्तनक्षत्रतद्दिनार्च्चनादितः। त्रयोदशाद्यैः पूर्वोक्तात् परैः तिथिमयैः पञ्चदशसंख्याविशिष्टत्वात्। प्राग्वत् समर्चितैरिति शेषः। तिथिदिनाधिपान् वक्ष्यमाणरूपान्। वारेशान् कुलसुन्दरीपटलोक्तान् द्विविधान्। तां देवीं। तैर्दैवतैः तिथ्यादीनामग्निरक्षोवाय्वीशदिग्गतैः तिथिनक्षत्रवारेशद्वयपूज्यरूपैःप्रोक्तक्रमदिग्गतैःदैवतैरित्यत्रान्वयः। रोगशान्तिं प्रागुक्तां समस्ताम्। समुद्योगफलानि प्रारब्धकार्य्यफलानि॥६९॥
-
-
 
 **वाराणामधिपाः प्रोक्तास्तिथिनक्षत्रदेवताः।  
 ऋक्षवृक्षांस्तथा योनौ र्निगदे[^20] परमेश्वरि॥७०॥**
@@ -2142,8 +1866,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
  वाराणामित्यादिभिर्गजा इत्यन्तैरेकादशभिः श्लोकैःप्रागुक्तवारदेवतास्मरणपुरःसरं तिथिनक्षत्रवृक्षनक्षत्रदेवता- नक्षत्रयोनीश्चोपदिशति। तत्र प्रोक्ता कुलसुन्दरोपटले।तथा योनीर्नक्षत्रयोनोरित्यर्थः। वह्नीत्यादिना श्लोकेन तिथिदेवतासु पञ्चदशसु द्वादशदेवता उपदिशति। यम इत्यादिना लोकेनावशिष्टास्तिस्रस्तिथिदेवताः समुपदिश्य नक्षत्रदेवताप्रस्तावञ्च करोति। अश्विनावित्यादिना लोकेन सप्तविंशतिनक्षत्रदेवतासु तत्संख्यातासु द्वादशनामान्युपदिशति। तत्र शिवोऽदितिः शिवः अदितिरिति पदच्छेदः। दिनकृदित्यादिना श्लोकेन शिष्टासुपञ्च दशसंख्यासु तासु दशदेवतानामान्युपदिशति। तत्र इन्द्राग्नी इत्येकस्य नक्षत्रस्य देवते। वसव इत्यादिना श्लोकेन प्रोक्तावशिष्टदेवतापञ्चकनामोपदेशं प्रोक्तनिगमनञ्च करोति। कारस्कर इत्यादिना श्लोकेन सप्तविंशतिनक्षत्रवृक्षेषु तत्संख्येषु दशवृक्षनामान्युप्रदिशति। आमलकोदुम्बर इति दिव्यत्वात् सन्धिः आमलक उदुम्बर इत्यर्थः। पलाशेत्यादिना शिष्टेषु सप्तदशसंख्येषु तेषु एकादशवृक्षनामान्युपदिशति।
-
-
 
 **कारस्करश्चामलकोदुम्बरो जम्बुकस्तथा।  
 खदिरःकृष्णवंशौ च पिप्पलो नागरोहिणौ॥७६॥**
@@ -2171,8 +1893,6 @@ OXFORD,
 
   यदेत्यादिना श्लोकेन ज्वरादिरोगारम्भे समयज्ञानेन रोगशान्तिसमयज्ञानोपायमुपदिशति। तत्र एतदुक्तं भवति यदा ज्वरादिरोगारम्भस्तदा यस्मिन्नक्षत्रे यावत्संख्याघटिकागतास्तत्- संख्यैरहोभिर्वा तदर्द्धसंख्यैरहोभिर्वा रोगमुक्तिं जानीयादिति। अत्र सौम्येषु नक्षत्रेषु रोगारम्भश्चेत् प्रोक्तक्रमतो रोगशान्तिः। क्रूरेषु नक्षत्रेषु चेद् रोगिणो देहत्याग इति सम्प्रदायः॥८१॥
 
-
-
 **आधारे पञ्च यन्त्राणि स्वाधिष्ठाने चतुष्टयम्।  
 प्रोक्तेषु भावयेत्तानि तावन्ति मणिपूरके॥८२॥**
 
@@ -2198,8 +1918,6 @@ OXFORD,
  भावनायामित्यादिना वासरैरित्यन्तेन श्लोकद्वयेनाधारेषु भावनायामशक्तानां वहिस्तत्तदाधारपद्मानि प्राग्वत् कृत्वा तत्तन्मध्ये तत्तत्प्राप्तं यन्त्रमालिख्य तत्तत्तिथिवारनक्षत्रेषु देवीं समाराध्य प्रोक्तवासरैः प्रागुक्त सप्तविंशत्या दिनैः।प्रोक्तानि[^22] फलान्यवाप्नुयादित्युपदिशति॥८७॥
 
 [^22]: "प्रागुक्त त्रिसप्ताद्यदिनैः।"
-
-
 
 **वलिञ्च दद्यात्तेष्वेव वासरेषु यथाविधि।  
 पञ्चाशन्मिथुनानाञ्च प्रोक्तचक्रेऽर्द्धारात्रके॥८८॥**
@@ -2231,8 +1949,6 @@ OXFORD,
 
 [^23]: "भूत।"
 
-
-
 **एवं कालात्ममिथुनवलिदानेन पूजनात्।  
 स्मरणात् कीर्त्तनात् सर्ववाञ्छितानाप्नुयुर्नराः॥९६॥**
 
@@ -2253,8 +1969,6 @@ OXFORD,
 शक्तिमन्त्रवत्। चक्रगामिनां कूटानामित्यत्रान्वयः। एतदुक्तं भवति—पूर्वं पञ्चाशन्मिथुनशक्तिविद्यावदत्रोक्तय- न्त्रगतविद्याकूटशक्तीनामपि प्रोक्ताभिः प्रत्येकं पञ्चदशाक्षराभिः कूटसहिताभिर्विद्याभिः पूजनं वलिदानञ्च कुर्य्यादिति। ताः विद्या यथा प्रथमं वीजद्वयपूर्वं तत्तत्कूटमुच्चार्य ततो रूपिणोशक्तीत्युक्त्वाततः सप्ताक्षरींवदेत् तेन पञ्चदशाक्षर्य्यःषट्सप्तत्यधिकपञ्चशतविद्याः सम्भवन्ति। तैर्मन्त्रैस्तेषु कालेषु प्रागुक्त सन्ध्यात्रयादिषु। ईरितैर्वक्ष्यमाणैदेव्याश्चित्रानित्यायाः अनुग्रहप्रोक्तनैवेद्यैः षोड़शे पटले नवतितमश्लोकोक्तपायसान्नगुड़ान्नभि- न्नान्नहरिद्रान्नतिलान्नकेवलशुद्धान्नैरित्यर्थः। शिक्थकं पिण्डमित्यर्थः। प्रत्येकमित्यादिनैतदुक्तं भवति प्रधानदेवताया एव षड़भिः समेतैर्वा तस्यास्तत् परिवाराणामपि वा तस्यास्तत्परिवाराणां मिथुनानामपि युग्मस्य एकमेकं वा पृथक् पृथगिति वा वलिदाने पक्षत्रयचतुष्टयमुक्तं भवतीति। अपूपादिद्रव्यनवकं पूर्वोक्तनिवेद्यद्रव्यसहितं भवति। तन्नामानि गुरुमुखादवगन्तव्याणि। अपि वा विकल्पे। वा विकल्पार्थः। वा विकल्पार्थः। स्मरणान्मिथुनानां कालरूपित्वानुसन्धानात्॥८६॥
 
  मिथुनानामित्यादिभिरग्रणरित्यन्तेश्चतुर्भिः श्लोकैर्मिथुनवलिद्रव्याणि नित्यं देयानि तदर्च्चनफलं चोपदिशति। तत्र वलिद्रव्याणि नित्यदेयानि प्रयोगदेयानि
-
-
 
 **अहङ्कारमयीव्याप्तिरिति सम्यक् समीरिता।  
 अस्या निफालनाच्चित्ते तत्तत्त्वंस्वात्मसात् कृतम्॥१०१॥**
@@ -2277,8 +1991,6 @@ OXFORD,
 पादाधिकाद्युत्तराः स्युःपटले त्वेकविंशके॥**
 
 **![](../books_images/U-IMG-1724168415Screenshot2024-08-08063503.png)**
-
-
 
 **द्वाविंशपटलम्।**  
 
@@ -2304,8 +2016,6 @@ OXFORD,
 
   इक्ष्वित्यादिना तीरपालिकामित्यन्तेन अध्यर्द्धश्लोकेन सर्वाङ्गिनित्याया ललितायाचतुर्थादिपटलत्रयप्रोक्तपूजाक्र- मस्मारणेन अत्र अस्याःकुरुकुल्लायाः तदङ्गत्वमभिप्रैति। तत्र नित्यविनोदानन्दितां सङ्गीतादिभिः। तत्तीरेत्यादिना श्लोकपूर्वार्द्धेन प्रसङ्ग तस्तस्या ललिताया अङ्गभूतामुपरितनपटलवक्ष्यमाणविधानमस्याः कुरुकुल्लायाःपूर्वमेवाभ्यर्चनीयत्वात् पञ्चमीं वाराहीं यजेदिति प्रस्तौति। तत्र तत्तीरे इक्षुसागरतीर तस्य चतुर्णांप्रथमत्वात्। “इक्षुसागरवेलायां वाराहोमर्चयेत् ततः” इत्यागमान्तरोक्तत्वाच्च। तत्र तस्याः समवस्थानं दक्षिणपश्चिमकोणदिक् प्रदेशे ललिताभिमुखमिति सम्प्रदायः॥४॥
 
-
-
 **तत्तीरे पूजयेद्देवींपञ्चमींतीरपालिकाम्।  
 तत्सागरेषु परितो रत्नपीतचरींयजेत्॥५॥**
 
@@ -2325,8 +2035,6 @@ OXFORD,
  पूर्वेत्यादिना समर्च्चयेदित्यन्तेनाध्यर्द्धेन श्लोकेन देव्याःकुरुकुल्लायाःनित्यसपर्य्याचक्रमुपदिशति। तत्र पूर्वपश्विमदिग्वारसंयुतमित्यत्र शाखानिर्म्माणानुक्तावपि उत्तरत्र दक्षशाखादोत्युक्त्या प्रतिद्वारं शाखाद्वयोपेतत्वं चतुरस्रस्योक्तमिति सम्प्रदायः। चारु यथामानां। एतदुक्तं भवति प्राक्पश्चिमतः सशाखाद्वयद्वारयुग्मंसमचतुरस्रद्वयं कोणेषु दिक्षु च देवतास्थानचिह्नितं विधाय तन्मध्यस्थलद्दयोपेतमष्टदलं पद्मं कृत्वा तस्य कर्णिकायां नवयोनिचक्रं प्रागुक्तचतुस्त्रिपञ्च चतुरंशैः विधाय तत्राममन्त्रेण तदर्च्चयेदिति॥८॥
 
  षड़ङ्गमित्यादिना लोकोत्तरार्धेन षडङ्गन्यासमर्घ्यसाधनञ्चोपदिशति। तत्र वालया कुलसुन्दरीविद्यया सजातिकयेति शेषः। तेन षड़ङ्गेन मूलविद्यया पञ्चविंशत्यक्षरया त्रिवारादहोनमभ्यर्च्चयेच्च॥९॥
-
-
 
 **त्रिखण्डमुद्रया मूलमन्त्रेणाद्येन चावहेत्।  
 ध्यात्वेत्थंपरिवारैस्तां देवींगन्धादिभिः क्रमात्॥१०॥**
@@ -2348,8 +2056,6 @@ OXFORD,
   त्रिखण्डेत्यादिभिरीक्षणा इत्यन्तैस्त्रिभिः श्लोकैरावाहनमुद्रामन्त्रपुरःसरं देव्याः सपरिवाराया नित्यसपर्य्याध्यान-मुपदिशति। तत्र आद्येन सप्ताक्षररूपेण मन्त्रेणेति शेषः। इत्थं वक्ष्यमाणरूपतः। गन्धादिभिर्यजेदिति शेषः। नग्नां दिगम्बरां देव्या दिगम्बरत्वकथनं सच्चि (म्बि) दानन्दमयत्वात्। अनावृतत्वमित्यपस्करः सम्प्रदायार्थः। आनन्दविग्रहां सम्बिदानन्दरूपत्वात्। आयुधक्रमस्तु स्वदक्षिणाधरादित उत्तरान्तं अप्रादक्षिण्यात्। ऋतुस्नाताः स्फुरद्योन्यः एतद्देव्या अपि साधारणं तस्याः ऋतुस्नातत्वस्फुरद्योनित्वकथनं प्रागुक्तसच्चिदानन्दमयत्वनित्योल्लासातिशयत्वमिति सम्प्रदायः। अस्या ललिताङ्गत्वपूजनेऽप्येतदेव ध्यानं नतु तत्समानमिति च सम्प्रदायः॥१२॥
 
  हृल्लेखेत्यादिभिः पूजयेदित्यन्तैरध्यर्द्धैःषड्भिः श्लोकैर्देव्या उपचारपूर्वं सावरणचतुष्टयनित्यसपर्य्या- क्रममुपदिशति। तत्र हृल्लेखया सविसर्जनीययेति सम्प्रदायः। तया तत्तन्मन्त्रादिगतया अत्र सर्व्वशक्तीर्यजेदिति। स्थापनादीन् आदिशब्दः सन्निरोधादिविषयः। उपचारान् अर्घपाद्यादीन्। तदाज्ञया देव्याज्ञया। भ्रामिणींद्राविणीं यजेत्। तयोरवस्थानन्तु रत्नपोतपूर्वपश्चिमकोट्योः। दक्षशाखादि देव्याःपश्चिमाभिमुखाया दक्षिणपार्श्वशाखादिप्रादक्षिण्याच्च। यक्षिणीश्चेत्यत्र वहुवचनान्तं तासां षट्त्रिंशत् संख्याविशिष्टत्वात्। तन्मन्त्रो यथा। ह्रीःयक्षिणीरूपिणीशक्तिपादुकाः पूजयामि इति। अन्यासां तत्तत्रामान्ते पादुकां
-
-
 
 **यक्षिणीश्च तथा तारां पूर्वद्वारस्य शाखयोः।  
 व्योमवाय्वग्नितोयक्ष्मारूपिणौशक्तिसंयुतम्॥१४॥**
@@ -2377,8 +2083,6 @@ OXFORD,
 पूजयामीति ह्रीःव्योमरूपिणोशब्दशक्तिपादकां पूजयामीत्यादयः शब्दादीनां मन्त्रा वोद्धव्या इति। पूर्व्ववत् अग्रादिप्रादक्षिण्येन तथा रूपिणौशक्त्यादिसहितम् अर्चयेत्। अग्रादिप्रादक्षिण्येन अभितः प्राग्वन्मध्यत्रिकोणाद्वहिरभितस्तत्तद्भुजान्तिकेष्वप्रादक्षिण्येन यद्वा प्राग्वत् क्रमात्तन्मध्ये त्रिकोणमध्ये। सम्विदासनमिति देवताया भर्त्तृभूतं सम्बिदात्मकं पुरुषमिति सम्प्रदायः। तत्र देवतास्थानप्रकारस्त्वावरणशक्तीनामवस्थानप्रकारश्च गुरुमुखादेवावगन्तव्यः। तन्मन्त्रो यथा ह्रीःसम्बिदासनाय नमः इति। पञ्चविंशार्णमूलमन्त्रेण खण्डद्वयप्रकृतिभूतेन तृतीयेनेत्यर्थः॥१८॥
 
  तत इत्यादिना पुष्पकैरित्यन्तेनार्द्धाद्येन श्लोकद्वयेन देव्याः प्रधानदेवतारूपललिताङ्गत्वेन स्थितिमिक्ष्वादिसागरपूजाञ्चोपदिशति। तत्र तदाज्ञया कुरुकुल्लाजया परीतं भवेदिति शेषः। पश्चिमं पुष्परागमिति ललितादेव्या नित्यपूजापटलोक्तनवरत्नद्वीपाग्रखण्डस्य पुष्परागमयत्वात् तत् स्मारयति। परीयमाणे परितो
-
-
 
 **नवरत्नमयं द्वीपमित्यादि प्रागुदीरितम्।  
 एवं समर्च्चितंदेव्या ललितायाः प्रियङ्करम्॥२१॥**
@@ -2408,8 +2112,6 @@ OXFORD,
 
  देव्या इत्यादिभिः परमेश्वरीत्यन्तैश्चतुर्भिः श्लोकैर्द्देव्याः कुरुकुल्लायाः स्वतन्त्रनित्यपूजायां वलिं तद्विद्यां दशाक्षरींतथा वलिदानञ्चोपदिशति। तत्र देव्याः कुरुकुल्लायाः भूः स्वेन युक्तेति शेषः ॐ इति। मरुता युक्तो रयः ता इति। दाहश्वरान्वितः रे इति। रयो धरान्वितः तु इति। रययुग्मं मरुद्युतं ता इति। एतत्ततौयं षष्ठं स्यात्। एतस्या एव विद्यायाःरे इति तृतीय-
 
-
-
 **हंसश्च मरुता युक्तः प्रोक्ता विद्या दशाक्षरी।  
 अनयास्या वलिं दद्याद्विद्यया परमेश्वरि॥२७॥**
 
@@ -2437,8 +2139,6 @@ OXFORD,
   होममित्यादिना श्लोकेन देव्याः कुरुकुल्लाया नित्यहोमद्रव्याण्युपदिशति। तत्र वा विकल्पे॥३१॥
 
   प्राग्वदित्यादिना क्रियामित्यन्तेनाध्यर्द्धनैकेन श्लोकेन पञ्चविंशत्यर्णाया मूल-
-
-
 
 **कुर्य्यान्नित्योदितेष्वन्यतमेन हवनक्रियाम्।  
 एवं संसिद्धविद्यस्तु नित्यार्च्चनिरतस्तथा॥३३॥**
@@ -2475,8 +2175,6 @@ OXFORD,
 
   घृतेत्यादिभिः कुमुदद्वयैरित्यन्तैः सप्तभिःश्लोकैःचतुर्द्दशभिर्द्रव्यैर्होमात् नानाफलप्राप्तिमुपदिशति। तत्र ता वनिताः। तैलाक्तैस्तिलस्नेहाक्तैः। अन्यान्
 
-
-
 **उत्पलैः पूजयेद्देवि समस्तापद्विमुक्तये।  
 पद्मैःसितैर्लोहितैश्च पूजयेदिन्दिराप्तये॥४२॥**
 
@@ -2512,8 +2210,6 @@ OXFORD,
 
   उत्पलैरित्यादिभिः प्रिय इत्यन्तैर्नवभिः लोकैर्नानाद्रव्यैः पूजनैर्नानाफलप्राप्तिमुपदिशति। तत्र सितैः पद्मरित्य- न्वयः। लोहितैस्तद्वत् कुमुदाभ्यां प्राग्वज्जपादिभिरपि श्रीलाभाय। सौगन्धिकैः कह्लारैः सप्तभिः सौगन्धिकादिभिः। तथा समस्ताभीष्टलाभ इत्यर्थः। वश्यस्त्रीधनसिद्धये कर्पूरौरत्य-
 
-
-
 **वृत्तत्रयं तथाष्टारमब्जं तन्मध्यतस्तथा।  
 नवयोनिंविधायात्रमध्ये मायां ससाध्यकाम्॥५१॥**
 
@@ -2531,8 +2227,6 @@ OXFORD,
 न्वयः। मृगस्वेदमदाभ्यां मृगस्वेदेन मृगमदेन चेत्यर्थः। ततः यजनतः। तैः कर्पूरादिभिः। जग्धैर्भक्षितैः॥५०॥
 
   वृत्तत्रयमित्यादिभिः स्थापनादिभिरित्यन्तैरध्यर्द्धैस्त्रिभिः श्लोकैः पञ्चविंशत्यक्षरया तृतीयया मूलविद्यया यन्त्रनिर्म्माणोपदेशं तद्विनियोगप्रकारप्रस्तावं च करोति। तत्र तन्मध्यतः अष्टदलाब्जमध्यतः। तथा कुलसुन्दरीपटलोक्तप्रक्रियया। अत्र मध्ये सर्वमध्ययोनिमध्ये। मायां प्राग्वत् हृल्लेखां सविसर्जनीयां पञ्चविंशत्यक्षरविद्यायामेकादशाक्षरभूतां। अष्टसु कोणेषु मध्यकोणविधुरेषु मन्त्रार्णाष्टकं प्रथमद्वितीयखण्डप्रकृतिभूतपञ्चविंशत्यक्षरमूलविद्याक्षरपञ्चविंशकेषु आदितोऽक्षराष्टकमित्यर्थः। आलिखेत् अग्रात् प्रादक्षिण्यमिति सम्प्रदायः। वहिःनवयोनेः। तथा प्रागुक्तक्रमसूचकः। द्विद्विक्रमेण प्रतिदलञ्च योनिलिखित विद्याक्षरनवकादुपरितनानि षोड़शाक्षराणीति शेषः। वहिः अष्टपत्रपद्माद्वहिर्गतवृत्तत्रयान्तरालवोथीद्वये। मायया स्वगया विसर्जनीययुक्तयाविन्दुयुक्तया च। क्रमेण अनुलोमेन च। स्थापनादिभिरित्यवादिशब्दोऽभिषेकादिविषयः। यन्त्रविरचनाक्रमो यथा—अभीष्टमानभ्रमतोऽन्तर्वहिर्विभागेन वृत्तत्रयं समभ्यसूत्रं निष्पाद्य तत्राष्टदलं पद्म विधाय तत्कर्णिकायां प्राग्वत् नवयोनिचक्रं विधाय तत्र सर्वमध्यस्थयोनिमध्ये प्रथमद्वितीयखण्डप्रकृतिभूत- पञ्चविंशाक्षरटतीयमूल विद्यायामेकादशाक्षरभूतां सविसर्जनीयां हृल्लेखां साधकादित्रययुक्तामालिख्य वाह्यकोणेष्वष्टस्वग्रादिप्रादक्षिण्यात्तन्मूलविद्याक्षरेष्वादितोऽष्टौ संलिख्य तद्वहिरष्टदलेषु प्रागुक्तक्रमात् सर्वमध्यलिखितहृल्लखाविधरं शिष्टाक्षरषोड़शकं प्रतिदलंविद्यक्षरंक्रमात् समालिख्य तद्वाह्यगतवृत्तत्रयान्तरालवीथीद्वये
-
-
 
 **गुलिकीकृत्य सिक्थस्य मध्यगं तद्विधाय तु।  
 तापयेद्रात्रिषु दिनैः प्रागुक्तैःस्त्रियमानयेत्॥५५॥**
@@ -2561,8 +2255,6 @@ OXFORD,
 
   यन्त्रमित्यादिभिः सुखीइत्यन्तैरर्द्धाद्यैः सप्तभिः श्लोकैस्तस्य यन्त्रस्य प्रयोगपञ्चकमुपदिशति। तत्र यन्त्रं प्रोक्तं। आलिख्येति पदच्छेदो वा विकल्पे। सिक्थस्य मधूच्छिष्टस्य। गुलिकीक्कृत्य यन्त्रं। प्रागुक्तैर्मण्डलादिभिः। दरदेन प्राग्वत्। एतद् यन्त्रं। वा विकल्पार्थः। तत्र यन्त्रमध्ये पूजयेन्नित्यक्रमतः। प्राग्वत् वशे भवेदिति पूर्वत्र सम्बन्धः। तरक्षः व्याघ्रः तिर्य्यग्जातीश्चतुष्पदी जातीःवशयेदिति शेषः। सिन्धुतीरे समुद्रतीरे। वा विकल्पार्थः। अथवेति च तद्धत् आलिखेत्। तत्र तत्र सुसमे भूतले इति शेषः। तत्र यन्त्रेपूजयेत्प्राग्वत्। उदितैः प्राग्वत् तत्र पूजनादित्यन्वयः। तत्रेति सिन्धुतीरादिविषयः।
 
-
-
 **प्राक्प्रत्यगदक्षिणोदक्क सूत्रषट्कनिपातनात्।  
 कोष्ठेषु पञ्चविंशत्सु त्रीणि कोणेषु मार्जयेत्॥६२॥**
 
@@ -2583,8 +2275,6 @@ OXFORD,
 धनादीनां लाभाश्चेति चान्वयः। आज्ञाचरा वलालंघनीयवचनतः। वाद्वयं विकल्पार्थः॥६१॥
 
   प्राक् प्रत्यगित्यादिभिः मन्निभा इत्यन्तैर्दशभिः श्लोकैस्त्रयोदशाक्षरया द्वितीयया मूलविद्यया कोष्ठवज्रयन्त्रनिर्म्माणं तेन यन्त्रेण प्रयोगचतुष्टयञ्चोपदिशति। तत्र त्रीणि प्रतिकोणमिति शेषः। शेषैः कोष्ठैस्त्रयोदशभिरित्यत्रान्वयः। तन्मध्ये यन्त्रस्य सर्वमध्यकोष्ठ। शक्तिमायास्थां शक्तिरिति विसर्जनीय हृल्लेखाया ईकारस्यापि नाम अत्र सम्प्रदायात् प्रकरणाच्च विसर्जनीयस्य नाम मायेति च पूर्वोक्तानां नाम अत्र प्राग्वत् हृल्लेखाया मायेति नाम तेन विद्यायामेकादशाक्षरभूतविसर्जनोयहृल्लेखास्थं यथा भवति तथा इत्यर्थः। आख्यां साधकादीनां। ततः मध्यकोष्ठतः वहिरिति शेषः। विद्यां सशक्तिहृल्लेखाविधुरां द्वादशाक्षरां। तस्मिन् यन्त्रे पूजयेद्देवीमिति शेषः। यन्त्रविरचनाक्रमो यथा—प्राक प्रत्यग्दक्षिणोदक्क समान्तरालानि षटसूत्राण्यास्फाल्य पञ्चविंशतिकोष्ठानि निष्पाद्य तेषु कोष्ठेषु प्रतिकोणं प्रतिकोणंचतुर्षु कोणेषु त्रीणि त्रीणि कोष्ठानि सम्भूय द्वादशकोष्ठानि मध्ये वज्ररूपं यथा भवेत्तथा मार्जयित्वा शिष्टकोष्ठत्रयोदशके सर्वमध्यकोष्ठमध्ये त्रयोदशाक्षरद्वितीयमूलविद्याक्षरत्रयोदशके एकादशाक्षरभूतां सविसर्जनीयां हृल्लेखां प्राग्वत्
-
-
 
 **आकर्षयेन्नवागच्छेत्तत्र कामज्वराञ्छनैः।  
 अवस्थाभिश्च दशभिर्मृतिमेति सुनिश्चितम्॥६७॥**
@@ -2610,8 +2300,6 @@ OXFORD,
 
  वृत्तद्वयेत्यादिभिर्वहिरित्यन्तैर्दशभिः श्लोकैः सप्ताक्षरया प्रथमया मूलविद्यया यन्त्रनिर्म्माणक्रमं तेन यन्त्रेण प्रयागकञ्चोपदिशति। तत्र तस्य षट्कोणस्य
 
-
-
 **षड़क्षराणि विलिखेत् सप्ताक्षर्य्याः क्रमेण वै।  
 यन्त्रमेतत्तालपत्रे भूर्जे क्षौमेऽर्कपत्रके॥७३॥**
 
@@ -2634,8 +2322,6 @@ OXFORD,
 
 भूः स्वगर्भगतंभूरितिओकारः स्वमिति विन्दुः प्रथममूलविद्यादिवर्णभूतसविन्दुकत्रयोदशस्वरगर्भगतमित्यर्थः। नाम प्राग्वत्। षड़क्षराणि मध्यलिखित प्रथमाक्षरमूलप्रणवविधुराणि सप्ताक्षर्य्या मूलविद्यायाः क्रमेण अग्रादिप्रादक्षिण्यरूपेण एतल्लिखत्वेति शेषः। अथवेत्यध्याहार्य्यं। विद्यां सप्ताक्षरीं। तद्यन्त्रं। तद्दिने निक्षेपदिने। यन्त्रस्यायं विरचनाक्रमः—यथा अभीष्टमानभ्रमणेनान्तवहिर्विभागतो वृत्तद्वयं विधाय तत्रान्तवृत्तमभ्येप्राग्वत् षट्कोणं विधाय तत् षट्कोणमध्ये प्रथमभूतसप्ताक्षरमूलविद्याद्यक्षरभूतं प्रणवं प्राग्वत् साध्यगर्भमालिख्य वहिःपट्सु काणषु अग्रादिप्रादक्षिण्येन मध्यलिखितप्रणवविधुराणि मूलविद्यायाः सप्ताक्षर्य्याः(१ षड़क्षर्य्याः) षड़क्षराण्यालिखेत्। एवमेतद्यन्त्रं भूर्जादिष्वन्यतमे लिखित्वा सप्राणप्रतिष्ठं सप्ताक्षरीविद्यामयुतं जपित्वा तस्य यन्त्रस्य वल्मीकनिक्षेपणात्तत्रस्थाः सर्पाः तद्दिने एवोच्चाटिता भवन्तीति। तद्यन्त्रं ऊर्मिकादौ ऊर्मिकेत्यङ्गुलीयकम् आदौ शब्दो वलयाङ्गदाद्याभरणविषयः। रक्षतः पुरुषस्य। वृश्चिकाद्याःआद्यशब्दो लूतामूषकादिविषयः। तत्र स्थापितगृहविशेषणम्। तत् ऊर्मिकादिलिखितं यन्त्रम्। अनया प्रथमया सप्तवर्णया आसेकः अभिषेकः। क्ष्वेड़नाशनः सर्व्वविषापहरः। तद्यन्त्राधिवासिताभिरद्भिः सेकः
 
-
-
 **तद्विलिख्य नखाग्रेण नारिकेलदले स्मरन्।  
 तद्रूपंफणिनंविद्याजपपूर्व्वं नखादिना॥७९॥**
 
@@ -2653,8 +2339,6 @@ OXFORD,
 देहगमिति विषविशेषणं त्रिविधंप्राग्वत्तत्स्थावरजङ्गमकृत्रिमात्मकम्। एतदुक्तंभवति यन्त्राभिवासिताभिजप्तंजलं पीतं जठरगतविषंदेहगतं त्रिविधञ्च नाशयेदिति। तद् यन्त्रं। तद्रूपं यन्त्रं लिखितनालिकेरपत्ररूपं स्मरन्नित्यत्रान्वयः। पीड़ितं पाटितमिति दिव्यत्वादङ्गीकरणीयं यन्त्रपीड़नात् पाटनात् पीड़ितः पाटितश्चेत्यर्थ। एवमुक्तरूपतः। त्रिप्रकारं। प्राग्वत् इदं यन्त्रं वालुकासु सिकताषु। यन्त्रंप्रोक्तम् तत्रयन्त्रे। तैः ताभिरित्यर्थः। वालुकाविशेषणत्वात्। अत्रापि दिव्यत्वादचिन्त्यव्रजेत्। प्रबुद्धोपि भोगीवहिःवालुकावेष्ठनात्॥८१॥
 
   अनावृत्तानीत्यादिना महेश्वरीत्यन्तेन श्लोकद्वयेन पञ्चविंशाक्षरायां खण्डद्वयप्रकृतिभूतायां तृतीयायां मूलविद्यायां प्राग्वदपुनरुक्तंस्त्रयोदशभिरक्षरैः स्वरप्रसारणादष्टोत्तरद्विशतसंख्यैस्तैर्यन्त्राष्टकमुपदिशति। तत्र विद्यायां सर्व्वप्रकृतिभूतायां पञ्चविंशाक्षरायां मूलविद्यायां त्रयोदश तानि तु ककार उकार रेफ लकार यकार ओकार हकार सकार वकार जकार नकार शकाराक्षराणि। अवामस्पृक्तस्वरग्रहणेऽपि प्रागुक्तप्रयोजकातिलङ्घनेन संयुक्तस्यापि स्वरस्य ग्रहणे त्रयोदशेत्युक्तिप्रावल्यात् तयोरक्षरयोरनावृत्तत्वमस्त्येव। तैः अनावृत्ताक्षरैः। तानि अष्टोत्तरद्विशतसंख्यान्यक्षराणि। पूर्वाद्ययन्त्रे पूर्वोक्तेषु यन्त्रेष्वाद्ययन्त्रे। अस्मिन्नेव पटले पूर्वत्र वृत्तत्रयमित्याद्येकपञ्चाशत्तमाद्येन श्लोकत्रयेण प्रोक्ते। मध्यतः सर्वमध्यतो द्वयं। अक्षरयोः। वहिर्मध्ययोनितः। प्राग्वद्विलिखेदिति सम्वन्धः। तैः अष्टोत्तरद्विशतसंख्यैरक्षरैः। अष्टौ सम्भूय। महेश्वरीति
-
-
 
 **तानि पूर्वाद्ययन्त्रे तु विलिखेन्मध्यतो द्वयम्।  
 वहिः प्राग्वत्ततस्तैः स्यात् यन्त्राण्यष्टौ महेश्वरि॥८३॥**
@@ -2676,8 +2360,6 @@ OXFORD,
 सम्बुद्धिः। एतदुक्तंभवति पूर्वोक्तेषु यन्त्रेषु आद्ये वाह्यादभान्तरप्रवेशक्रमाद्वृत्तत्रयाष्टपत्राम्बुजनवयोनिरूपे यन्त्रे सर्वमध्ये स्वरविकृतपञ्चविंशाक्षरे मूलविद्यानावृत्ताक्षरत्रयोदशकसंजाताष्ठोत्तरद्विशतसंख्येष्वक्षरेष्वादितोऽक्षरद्वयं प्रत्यत्तरं साध्याद्युपेतमालिख्य तद्वाह्यगतकोणेष्वष्टसु सर्वमध्यलिखिताक्षरद्वयादुपरितनान्यष्टाक्षराण्यग्रात्प्रादक्षिण्ये- नालिख्य तद्वहिरष्टपत्रेषु प्रतिपत्रं द्वयंद्वयमितिक्रमेण नवयोनिविलिखिताक्षर दशकादुपरितनानि षोड़शाक्षराणि प्राग्वदालिख्य एवं' संभूय षड् विंशत्यक्षराणि क्रमाद्विलिख्य वाह्यवृत्तत्रयान्तरालवीथिद्वये प्रागवत् मातृकावेष्टनं कुर्य्यात्। एतत् प्रथमं यन्त्रं। एवमस्मिन्नेव यन्त्रे पूर्वलिखिताक्षरषड्विंशतिकादुपरितनमुपरितनमत्तरषड्विंशतिकं क्रमेणालिख्य पूर्वोक्तेन यन्त्रेण सहाष्टौ यन्त्राणि सम्पादयेदिति॥८३॥
 
   तेष्वादिभिजन्मिनामित्यन्तैः षड़्भिः श्लोकैस्तद्यन्त्राष्टकविनियोगादिकमुपदिशति। तत्र तेषु अष्ट यन्त्रेषु। आद्यं यन्त्रमिति शेषः। उदीरिते वश्याकर्षणेत्यादिषड़शीतितमश्लोकेन वक्ष्यमाणे। सप्त इति पदच्छेदः। भान्वादिवारके आदिशब्दः सोमाङ्गारकवुधवृहस्पतिशुक्रशनेश्वरविषयः तेषां वारे इत्यर्थः। प्रोक्तकर्मसु वक्ष्यमाणकर्मसु। आख्यालेखनपूर्वकं प्राग्वत् साध्यादिनामालिखनपूर्वकमित्यर्धः। वाराख्यां माध्याधः साधयेति। तदिति लेखनीयवाक्यरूपं। एतदुक्तंभवति सर्वमध्यगताक्षरद्वयमध्ये प्रत्येकस्मिन् वारे एतत्
-
-
 
 **तथा वारेषु तेषूक्तान्यालिख्याभ्यर्च्चयेच्छिवाम्।  
 वाञ्छितेषु समस्तेषु तैर्दिनैस्तान्यवाप्नुयात्॥८८॥**
@@ -2702,8 +2384,6 @@ OXFORD,
 
  प्राक्प्रत्यगित्यादिभिः शिवे इत्यन्तैः षड़भिः श्लोकैः प्रागुक्तैः स्वरप्रसारितैरष्टोत्तरद्विंशतसंख्यै- र्मूलविद्याक्षरैरविकृतमूलविद्याक्षरपञ्चविंशतिकैश्चैकविंशत्यधिकद्विशतकोष्ठरूपवज्रयन्त्रनिर्माणंतद्विनियोगांश्चोपदिशति। तत्र क्रमाद्वाविंशतिं प्राक् प्रत्यग्द्वाविंशतिं दक्षिणोदक्कद्वाविंशतिमिति एवं क्रमादित्यर्थः। तत आस्फालनतः। तेषु एकचत्वारिंशदधिकचतुःशतसंख्येषु कोष्ठषु। कोणेषु चतुर्षु। पूर्व्ववन्मध्येवज्राकारंं यथा भवति। क्रमात् पञ्चपञ्चाशत् प्रतिकोणं पञ्चपञ्चाशत् कोष्ठानि इत्येवं क्रमादिति यावत्। संभूय चतुर्षु कोणेषु विंशत्यधिकद्विशतसंख्येषु कोष्ठष्वित्यर्थः। चतुःकोष्ठैःप्रतिदिशमेकैककोष्ठमार्जनत इत्यर्थः। अन्यानि मार्ज्रनावशिष्टानीति शेषः। तेषु एकविंशत्यधिकद्विशतसंख्येषु कोष्ठष्वित्यर्थः। चतुः कोष्ठषु प्रतिदिशं एकैककोष्ठमार्जनत इत्यर्थः। प्राड्मध्यतः प्राग्दिगन्त पङ्क्तिकोष्ठेषु मध्यकोष्ठमारभ्येत्यर्थः। तानि अष्टोत्तर
 
-
-
 **मायां तदभितो मन्त्रवर्णस्त्रिस्त्रिः क्रमेण वै।  
 त्रिकोणेषु च साध्यानि लिखेद्वज्रमितीरितम्॥९३॥**
 
@@ -2716,8 +2396,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 द्विशतसंख्याति स्वरविकृतमूलविद्याक्षराणि लिखेत्। यावदक्षरपर्य्यवसानतः। मध्ये यन्त्रस्येति शेषः। नवकमध्ये नवकमध्यकोष्ठ इत्यर्थः। नामोदरां साधकादिनामगर्भां। मायां पञ्चविंशार्णमूलविद्याया एकादशाक्षरभूतां। तदभितः तदन्तर्गतमध्यकोष्ठानन्तरप्राक्पङ्क्तिमध्यकोष्ठभारभ्य प्रादक्षिण्यनिर्गमनगत्या त्रिःत्रिःक्रमेण मध्यकोष्ठवर्जंप्रतिकोष्ठ- मिति शेषः। त्रिकोणेषु चेत्यत्र चकाराच्चतुर्षु त्रिकाणेष्वपि साध्याक्षराणि मायास्थानि लिखेदिति। तद्यन्त्रंवज्जयन्त्रमिति शेषः। यन्त्रविरचनाक्रमो यथा—प्राक्प्रत्यग्दक्षिणोदक्कसमान्तरालानि द्वाविंशति द्वाविंशति सूत्राण्यास्फाल्य तेनैकचत्वारिंशदधिकचतुःशतसंख्यानि कोष्ठानि निष्पाद्य तेषु चतुर्षु कोणेषु प्रतिकोणं पञ्चपञ्चाशत्कोष्ठानि सम्भूय विंशत्यधिकद्विशतसंख्यानि काष्ठानि प्राग्वन्मध्ये वज्राकारं यथा भवति तथा तथा मार्जयित्वा ततश्चतुर्षु दिक्षु प्रतिदिशमेकैक कोष्ठमार्जनतश्चत्वारि त्रिकोणानि कृत्वा शिष्टेषु सप्तदशाधिक द्विशतसंख्येषु कोष्ठेषु सर्वप्राचीनपङ्क्तिस्थकोष्ठत्रये मध्यकोष्ठमारभ्य प्रादक्षिण्यप्रवेशगत्या युक्तक्रममष्टोत्तरशतद्विशतसंख्यानि स्वरविकृतमूलविद्याक्षराणि यावदक्षरपर्य्यवसानमालिख्य ततो मध्यतः शिष्टेषु नवसु कोष्ठषु सर्व मध्यस्थकोष्ठमध्ये पञ्चविंशार्णमूलविद्याया एकादशाक्षरभूतहृल्लेखां साध्यगर्भामालिख्य शिष्टेष्वष्टसु कोष्ठेषु मध्यकोष्ठानन्तर प्राचीनपंक्तिमध्यकोष्ठमारभ्यायुक्तक्रमं प्रादक्षिण्यनिर्गमनगत्या प्रतिकोष्ठं षड्विंशाक्षरमूलविद्याक्षराणि हृल्लेखाविधुराणि त्रीणि त्रीण्यालिख्य चतुर्दिग्गत त्रिकोण चतुष्केष्वपि मध्यकोष्ठवत् ससाध्यां हृल्लेखामालिख्य तेन यन्त्रेण वक्ष्यमाणान् विनियोगान् कुर्य्यादिति। वा विकल्प। सुसितेइति क्षौमविशेषणम्। रक्षति यन्त्रमित्यत्त्रान्वयः। तेन कर्त्तृभूतं यन्त्रमिति। प्रागुक्तानि अत्र प्रोक्तानि कार्य्याणि। प्रोक्तेन प्राग्वन्मण्डलादिना। शिवे इति देवोसम्बुद्धिः॥९५॥
-
-
 
 **तां देवींपाशसम्बद्धं साध्यमङ्कुशताड़नात्।  
 आकर्षन्तींस्वपादान्ते साञ्जलिं प्रणतिं मुहुः॥९६॥**
@@ -2747,16 +2425,12 @@ OXFORD,
 व्याख्यायां षोड़शनित्यावलिदेवतारूपकुरुकुल्लाविदद्याविधानप्रका-  
 शनपरं द्वाविंशत्पटलम् परिपूर्णं परामृष्टम्।**
 
-
-
 **  ग्रन्थसंख्या।**
 
 **द्वादशोक्तानि यन्त्राणि द्वाविंशे व्यक्रियागताः।  
 ग्रन्थाः स्युः सार्द्धपादैकचत्वारिंशच्छतद्वयाम्॥**
 
 **![](../books_images/U-IMG-1724163960Screenshot2024-08-08063503.png)**
-
-
 
 **त्रयोविंशपटलम्।**  
 
@@ -2783,8 +2457,6 @@ OXFORD,
 
   त्रिकोणत्यादिभिरितीत्यन्तैःषड़्भिः शाकर्देव्या नित्यपूजाचक्रं सावरणद्वयपूजाविधानं नित्यभजनक्रमं तत्फलञ्चापदिशति। तत्र समन्वितं चक्रमित्यस्य विशेषणं। नित्यपूजाचक्रविरचनाक्रमोयथा अभीष्टमान (प्रमाणभ्रमादन्तर्वहिर्विभागेनंकाङ्गुलान्तरालं वृत्तद्वयं विधाय तदन्तर्वृत्तमध्ये प्रागुक्तमानतः षट्कोणं विधाय तन्मध्यतः सन्धिरेखास्पृष्टास्पृष्टं बृत्तंविधाय
 
-
-
 **दशोत्तरशताक्षर्य्यावाराहीविद्यया प्रिये।  
 सर्वमध्ये समभ्यर्च्च्यवामदक्षाग्रकोणतः॥५॥**
 
@@ -2803,8 +2475,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 तन्मध्येप्राग्वत् समत्रिरेखं त्रिकोणं यथोपदेश विधाय तत्र देवीमावाह्य वक्ष्यमाणक्रमेण पूजयेदिति। स्वनाम्नावाह्य सविन्दुकहृल्लेखाद्येन नाम्ना। द्वितीयान्तेन क्रियायुक्तेन। तन्मन्त्रो यथा—ह्रीं वाराहीमावाहयामीति पूजयेत्। वक्ष्यमाणक्रमतः दशोत्तरशताक्षर्य्या तृतीयपटलोक्तया। प्रिये इति देवीसम्बुद्धिः। सर्व्वमध्ये चक्रस्य सर्वमध्यत्रिकोणमध्य इत्यर्थः। वामदक्षाग्रकोणतः देव्याः। चण्डोच्चण्डामित्युक्त्वास्वस्वनामभिः अस्याः परिवारशक्तीर्नमोऽर्न्तैर्नाममन्त्रैश्चतुर्थ्यन्तैःपूजयेदिति सम्प्रदायः। आद्यवीजान्त्यसप्राणैरित्यनेनैतदुक्तंभवतीति। क्रोधिनींस्तम्भिनीञ्चतत्तन्नामाद्याक्षरे सविन्दुके क्रों इति स्तं इति चोच्चार्य्यततस्तन्नामभ्यां चतुर्थ्यन्ताभ्यां नमोन्ताभ्यामर्चयित्वा ततश्वण्डोच्चण्डान्तु मातृकान्त्याक्षरभूतक्षकारस्य ओँकारप्रकरणप्राप्त विन्दुश्च तैः संयुतं क्षोँ इत्युच्चार्य्यतदनन्तरं पारम्पर्य्य प्रोक्त क्रोमिति चोच्चार्य्यततश्चण्डोच्चण्डायैनम इत्युक्तार्चयेदिति। क्रोधिन्यादिशक्तित्रयस्य हृल्लेखावैधुर्य्यंस्वस्वबीजाद्यत्वादिति सम्प्रदायः। वामतः अप्रादक्षिण्येन अर्चयेत्। हृल्लेखाद्यैर्नमोन्तैर्नामभिः। अत्रासांशक्तीनां सप्तानां हृल्लेखाद्यत्वं स्वस्ववीजाद्यराहित्यादिति च सम्प्रदायः। वृत्ते सर्ववाह्यगतवृत्तद्वयवीथ्यां। तदग्रे देव्या अग्रे। अभिमुखं चामरतालवृन्तसङ्गीतादिव्याहृताभिरनन्ताभिः शक्तिभिर्वृत्तद्वयवीथ्यां परितः स्थिताभिर्महालक्ष्म्यादिभिरिति सम्प्र-
-
-
 
 **जितेन्द्रियो हविष्याशी मौनीसन्ध्यासु पूजयन्।  
 विद्यां जपेल्लक्षसंख्यां तद्दशांशेन तर्पणम्॥१०॥**
@@ -2828,8 +2498,6 @@ OXFORD,
 
   ध्यायेदित्यादिभिर्विश्रुत इत्यन्तैश्चतुस्त्रिंशता श्रीकैःदेव्याः सपरिवारायाः स्वतन्त्रनित्यपूजासु ध्यानं आवाहनञ्चोप- दिशति। तत्रध्यायेदित्यादिभिः शिवे
 
-
-
 **त्रिनेत्रामष्टहस्ताञ्च चक्रशङ्खमथाम्बुजम्।  
 पाशञ्च मुशलं शीरमभयं वरदं तथा॥१४॥**
 
@@ -2852,8 +2520,6 @@ OXFORD,
   प्रयोगेष्वित्यादिना अवाप्तये इत्यन्तेन श्लोकद्वयेन सर्वप्रयोगेषु सामान्येन वाहनवर्णादिकमुपदिशति। तत्र शक्तिभिःपरिवारशक्तिभिः। सहेति शेषः। वक्ष्यमाणक्रमेण॥१७॥
 
   अरुणामित्यादिना श्लोकेन तस्या एव ध्यानमुपदिशति। तत्र अरुणाकल्पां पद्मरागादिभिः कृताकल्पाम्॥१८॥
-
-
 
 **पीतां पीताम्वरां पीतभूषणस्रग्विलेपनाम्।  
 पीतशक्त्यावृतां ध्यायेत् स्तम्भनेषु तु सर्च्चदा॥१९॥**
@@ -2884,8 +2550,6 @@ OXFORD,
 
   समरेष्वित्यादिभिर्मदोद्धतैरित्यन्तैः पञ्चभिः लोकैः समरविजयध्यानमुपदिशति। तत्र दुरन्तेषु मरणनिरोधनप्रला- पनाम जल्पविशेषः(?)। इत्थं
 
-
-
 **नखरंछुरिकां खड्गंवाणं शूलं गदां सृणिम्।  
 चक्रञ्च दक्षिणैर्विभ्रद्वाहुभिर्भीमविग्रहाम्॥२६॥**
 
@@ -2909,8 +2573,6 @@ OXFORD,
 वक्ष्यमाणप्रकारेण। छुरिकं असिधेनुं भीमविग्रहामिति देवीविशेषणम्। अन्यैःदामैः अष्टभिर्व्वाहुभिरिति शेषः। तत्र आयुधानां नामान्याराध्यमुखादवगन्तव्यानि। अत्र आयुधक्रमस्तु उभयपार्श्वयोरप्यधरादूर्द्धान्तमित्यवगन्तव्यम्। नीलां वर्णेनेति शेषः। स्वशक्तिभिः तद्वर्णाभिः शक्तिभिः सहितामिति यावत्। परिघैः देव्याः परिवारशक्तीनाञ्च दक्षिणपार्श्वोर्द्धादितृतीयभुजस्थैः। तदुपरि सेनोपरि कदलीकेतुसङ्कलंकदलीनिभगजपताकासङ्कुलंदेशमिति शेषः॥२९॥
 
   भानुमण्डलेत्यादिना ज्वरादित्यन्तेन श्लोकद्वयेण ज्वरेण रिपुमारणप्रयोगमुपदिशति। तत्र भानुमण्डलेत्यादिनै- तदुक्तं भवति। पूर्वोक्तषोड़शभुजविधृतयुधां नीलाभां देवीं भानुमण्डलमध्येनिजदक्षिणोर्द्ध्वादिचतुर्थ- जस्थशूलप्रोतारिविग्रहां तद्देहान्निःसरद्रक्ताक्ततच्छूलां विचिन्तयन्निति। अनन्यधीः एकाग्रचित्तः॥३१॥
-
-
 
 **देव्याः सपरिवाराया हेतिभिः शकलीकृतम्।  
 रिपुदेहं स्मरेत् फेरुकङ्कक्रव्यादकुक्कुरैः॥३२॥**
@@ -2937,8 +2599,6 @@ OXFORD,
 
   तार्क्ष्यारूढ़ामित्यादिना क्षणादित्यन्तेमार्द्धाधिकेन श्लोकेन रिपुसेनाविद्रावणमुपदिशति। तत्र तां देवीं। तार्क्ष्य- गणोद्दामपक्षमारुतमूर्च्छितामित्यस्य उत्तरत्र सेनामित्यनेनान्वयः। क्षणात् स्मृतिमात्रेण॥३६॥
 
-
-
 **स्मृत्वा जयेद्रिपोः सेनां दूरतो द्रावयेत् क्षणात्।  
 तथैवाष्टभुजैः खड्गान् दधानां शक्तिभिर्वृताम्॥३७॥**
 
@@ -2964,8 +2624,6 @@ OXFORD,
   विकोर्येत्यादिना नृप इत्यन्तेनार्द्धाद्येन श्लोकद्वयेनारिसेनाविनाशनध्यानमुपदिशति। तत्र अरुणवारवाणधरः अरुणकञ्चुकधरः। इत्यस्य उत्तरत्रनृप इत्यनेनान्वयः। हयैः सहित इति शेषः। त्रिशूलाग्रप्रोतपत्त्यश्ववारणैरिति शक्तिवृन्दविशेषणम्। सिंहविष्टरे स्थितां देवीमिति शेषः। एतदुक्तं भवति तरक्षादिषड़्वाहनारूढ़ैः शक्तिवृन्दैः स्वस्वकरस्थशूलाग्रप्रोते रिपुसेनापत्त्यश्ववारणैर्दर्शितक्रीड़ाविनोदां माणिक्यमण्डपान्तः सिंहासनस्थां देवीं ध्यायन्नरुणकञ्चुकधरः स्वकेशान् विकीर्य्य हयवृन्दसहितो हयारूढ़ो नृपः शत्रु सेनां स्ववलैर्नाशयेदिति॥४०॥
 
   पीतेत्यादिना क्षणादित्यन्तेन श्लोकद्वयेन पूजासु पुष्पादिविशेषेण स्तम्भनीयपञ्चाङ्गादिकं चोपदिशति। तत्र पीताभां देवीमिति शेषः। स्तम्भनाय अभिमतानामिति शेषः। अरातीनामित्यस्य गत्यादिभिः पञ्चभिः प्रत्येकमन्वयः। क्षणात् प्राग्वत्॥४२॥
-
-
 
 **अरुणामरुणैः पुष्पैरर्च्चयेन्मध्यरात्रतः।  
 निहन्तुकामः सर्वांस्तु रिपुं कुर्य्याद्वशे ध्रुवम्॥४३॥**
@@ -3001,8 +2659,6 @@ OXFORD,
 
   श्यामामित्यादिना विश्रुत इत्यन्तेनार्द्धाद्येन श्लोकेन पूजापुष्पादिविशेषेण लक्ष्मीप्राप्तिप्रयोगादिकमुपदिशति। तत्र श्यामां श्यामवर्णां। तैः श्यामवर्णैरुदितैर्वासरैरिति पूर्वत्रान्वयः॥४९॥
 
-
-
 **होमं कुर्य्यात्तथा रात्रौ चतुरस्रेऽथ कुण्डके।  
 हरिद्रामिलितैरन्नैस्तिलैर्म्माषैः सतण्डुलैः॥४७॥**
 
@@ -3026,8 +2682,6 @@ OXFORD,
 होममित्यादिभिः भूतल इत्यन्तैश्चतुर्द्दशभिः श्लोकैर्होमद्रव्यादिकविशेषैः फलविशेषादिकमुपदिशति। तत्र होममित्यादिभिस्तथेत्यन्तैस्त्रिभिः श्लोकैः स्तम्भनहोमद्रव्यविशेषानुपदिशति। तत्र तथा रात्रौ मध्यरात्रे इत्यर्थः। चतुरस्रे कुण्डपटलवक्ष्यामानलक्षणे। हरिद्रामिलितैः हरिद्राचूर्णसहितैः एतदन्नादिचतुर्णां द्रव्याणां विशेषणम्। सकलीकरणं साध्यादिनामविलेखनादिकं तालपत्राणामेव निशाघृतसमीपेतर्हरिद्राचूर्णघृतसमोपेतैः तालदलैरिति पूर्वत्रान्वयः। ईरितान् अरातिगत्यादिपञ्चकं। निशाचूर्णैः घृताक्तैर्घृतपरिप्लुतैः। तथा मण्डलादिभिः॥४८॥
 
   अर्धरात्र इत्यादिभिः भङ्गुरा इत्यन्तैस्त्रिभिः श्लोकैर्मारणप्रयोगहोमविशेषं तेन तत्र साधारणमारणप्रकार- विशेषांश्चोपदिशति। तत्र अरिवृक्ष्येर्ध्दवह्नौ शत्रुनक्षत्रवृक्षसमुद्भूतकाष्ठप्रदीप्तह्नौ। तद्योनिदेहजैः शत्रुनक्षत्रयोनिदेहसमुद्भूतैः। तद्देहसम्भूतस्नेहाक्तैः साध्ययोनिसमुद्भूत स्नेहाप्लुतैः। दिनैः प्राग्वन्मण्डलादिभिः। अन्यैर्व्याघ्रादिभिः। प्रमादैरनवधानैः। कण्टकादिभिरित्यत्रादिशब्दः शङ्कादिविषयः। निर्घातः अशनिः। प्रयोगामी प्रयोगाः अमीति दिव्यत्वात् पदच्छेदः। भङ्गुराः निष्फलाः॥
-
-
 
 **धूम्रां कङ्कसमारूढ़ांनखराद्यायुधैर्युताम्।  
 ध्यायन् रिपोरष्टमे तु राशौ छागघृताप्लुतैः॥५३॥**
@@ -3053,8 +2707,6 @@ OXFORD,
 
   वालार्काभामित्यादिभिः सुनिश्चितमित्यन्तैश्चतुर्भिः श्लोकैरैश्वर्य्यप्राप्तिकरणहोममुपदिशति। तत्र आद्यहेतिभिः संयुतां स्वतन्त्रनित्यपूजोक्तायुधाष्टकसंयुतां शिवां पञ्चमीं। सरूपवत्सारुणगोघृताक्तैः निजसदृशवत्सारुण- वर्णगोघृताप्लुतैः। शुभैः मुकुलपतितम्लानशीर्षजन्तुदूषितघ्राताङ्गस्पृष्टरहितैः प्रसूनैः इत्येतत् पूर्वत्त्रारुणैरित्यस्य विशेष्यं कर्त्तव्यं। करवीरसमुद्भूतैः अरुणैरिति शेषः। रक्तैरित्येतदुत्पलकमलपाटलानां विशेषणम्। अङ्गैः छत्रचामरादिभिः परिच्छदैः॥५५॥
 
-
-
 **अरुणां नखराद्यैस्तु युतां ध्यायन् समाहितः।  
 मध्यरात्रेहुनेत् साध्यदिङ्मुखो मरिचैस्तथा॥५९॥**
 
@@ -3077,8 +2729,6 @@ OXFORD,
 
   विलिख्येत्यादिभिरानयेदित्यन्तैश्चत्वारिंशता श्लोकैरेतद्विद्याक्षरजनितानि स्तम्भनादिकराणि अष्ट यन्त्राणि विद्यावैभवञ्चोपदिशति। तत्र विलिख्येत्यादिभिर्वाहिनीमित्यन्तैः पञ्चभिः श्लोकैर्लोकपालस्य शत्रुसेनायाश्च स्तम्भनकरं यन्त्रमुपदिशति। तत्र मध्ये भूपुरस्य। तद्वाह्ये भूपुरवाह्ये। भौमाक्षराणि पञ्चम षष्ठत्रयोदशस्वरपुरःसरकादिवर्ग- तृतीयाक्षराणि सविन्दूनि दशसंख्याणि। अभितः प्रादक्षिण्येन \[वहिः भीमाक्षरवेष्टनात् तत्र तेषु दलेषु क्रमात् अग्रादिप्रादक्षिण्यक्रमात्। ऋतुशः षट्षड़क्षराणि प्रतिदलमिति शेषः। तद्वहिः पद्माद्बहिः। तत्र वृत्तवीथ्यां। पार्थिवानर्णान् प्राग्वत्। वहिर्वृत्तयुग्मात्। तत्कोणेषु षट्कोणेषु अन्तरालेषु कोणान्तरालेषु षट्सु। मन्त्रार्णान् भूदशान्वितान् अष्टदललिखितशिष्टान् प्रागुक्त भूतदशार्ण सहितान् मूलविद्यावर्णान्। प्राग्वत् प्रतिस्थानं षट्षट्क्रमेण। अभितः अग्रादिप्रदक्षिणं बहिः षट्कोणात्। तत्र वीथ्यां। न्यस्य विलिख्य। वहिः वृत्तद्वयात्। कृत्वेति पूर्वत्रान्वयः मूलविद्यया सहेति शेषः।
 
-
-
 **विलिखेत् प्राग्वदभितो वहिर्वृत्तद्वयं लिखेत्।  
 विलोममातृकां तत्र न्यस्य भूमिपुरं वहिः॥६४॥**
 
@@ -3088,8 +2738,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 पूजयन् नित्योक्तक्रमतो देवीमिति शेषः। अरिवाहिनीं शत्रुसेनां। चकारोऽत्राध्याहार्य्यः। अयं यन्त्रविलेखनक्रमः। अभीष्टमानेन प्रोक्तलक्षणं भूपुरं विलिख्य तद्वहिस्तत्कोणाग्रस्पृष्टास्पृष्टिकया वृत्तं कृत्वा तद्वहिरेकाङ्गुल षड़ङ्गुलमानान्तरालं वृत्तद्वयं कृत्वा तत्र वाह्यविषाणवीथ्यामष्टदलं पद्मं विधाय वाह्यवृत्ताद्वहिः वृत्तमेकाङ्गुलमानेन वृत्तं कृत्वा तद्वहिस्तद्वृत्तमध्यविष्कम्भार्द्धमानेन वृत्तं कृत्वा तदन्तराले प्राग्वत् षट्कोणं विधाय षट्कोणाग्रवृत्ताद्वहिरेकाङ्गुलमानेन वृत्तं कृत्वा तद्वहिरेकाङ्गुलमानेन चतुरस्रं कृत्वासर्वमध्यस्थभूपुरमध्ये साध्यसाधककर्माण्युपर्य्यधोन्तरालक्रमेण लिखित्वा तद्वहिर्भूपुरवाह्यवृत्तद्वयवीथ्यान्मग्रादिप्रादक्षिण्येन\] भौमानि उं ऊं ओं जं डं दं वं लं व्वं इति दशाक्षराणि समालिख्य तद्वहिः पद्मदलेष्वष्टावग्रादिप्रादक्षिण्येन मूलविद्याक्षरेषु दशोत्तरशतसंख्येषु प्रतिदलं षट्षट्क्रमेणाष्टचत्वारिंशदक्षराण्यालिख्य तद्वहिर्वृत्तवीथ्यां प्राग्वत् क्रमेण भौमाचरदशकमालिख्य तद्वहिः षट्कोणेषु प्राग्वदग्रादिप्रादक्षिण्येन पूर्वमष्टदललिखितभूलविद्याक्षरशिष्टेषु अक्षरेषु द्विषष्टिसंख्येषु षट्त्रिंशदक्षराणि प्रतिकोणं षट षट्क्रमेणालिख्य तत् षट् कोणान्तरालेषु षट्सु च प्रत्यन्तरालं प्राग्वत् क्रमेणाग्रकोणोत्तरपार्श्वादिदक्षिणपार्श्वान्तं षट् कोणलिखितविद्याक्षरशिष्टाक्षरषड़्विंशतिकं भौमाक्षरदशकञ्च सम्भूय षट्त्रिंशदक्षराणि षट्षट्क्रमेणालिख्य तद्वहिर्वृत्तवीथ्यां अग्रादिप्रादक्षिण्येन विलोमां मातृकां सविसर्जनीयामालिख्य तद्वहिर्वृत्तभूपुरान्तरालवीथ्यामीशादीशान्तं प्रादक्षिण्येन मातृकाक्षराण्येकपञ्चाशत्सविन्दूनि मूलविद्याक्षरदशोत्त- रशतकं च सम्भूययैकषष्ट्युत्तरशताक्षराणि प्रतिदिशं चत्वारिंशत् चत्वारिंशदक्षराणि उत्तरस्यां दिश्येकचत्वारिंश‍दक्षराणि चालिख्य तत्र देवीमावाह्य स्वतन्त्रनित्यपूजाक्रमेण पूजयन् प्रोक्तं फलं प्राप्नोतीति॥६५॥
-
-
 
 **नवास्रं वृत्तयुग्मञ्च वस्वस्रं तद्द्वयं वहिः।  
 चतुरस्रञ्च संलिख्य मन्त्रार्णान् षट् षड़ालिखेत्॥६६॥**
@@ -3105,8 +2753,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)  
   नवास्रमित्यादिभिः परमेश्वरीत्यन्तैस्त्रिभिः श्लोकैः सर्वस्तम्भनकरं यन्त्रमुपदिशति। तत्र नवास्रं नवयोनिं। वस्वस्रं प्राग्वदष्टकोणं। तद्द्वयं वृत्तद्वयं। षट् षट् नवकोणेषु अष्टकोणेषु च प्रतिकोणमित्यर्थः। अष्टान्तरालेषु अष्टकोणान्तरालेषु एकैकं मूलविद्याक्षराणि कोणलिखितशिष्टान्यष्टौ प्रत्यन्तरालमेकमेकमित्यर्थः। वाह्यवृत्ते अष्टकोणवाह्यबृत्तद्वयान्तरालवीथ्यां। तुः समुच्चये। प्रतिलोमानुलोमकं वृत्तवीथ्यां प्रतिलोमं चतुरस्रेऽनुलोमञ्च। सर्व्वतः अक्षरलेखस्थानेषु। पूर्वमुक्तानामरातिगत्यादीनाम्। परमेश्वरीति सम्बुद्धिः। अयं यन्त्रलेखनक्रमः अभीष्टमानेन बृत्तं कृत्वा तन्मध्ये प्राग्वन्नवयोनिं कृत्वा तद्बहिरेकाङ्गुलान्तराले वृत्तद्वयं कृत्वा तद्वहिर्भूपुरद्वयरूपदिग्विदिग्गतकोणमष्टकोणं कृत्वा तद्वहिस्तत्कोणाष्टकस्पृष्टास्पृष्टिकया वृत्तं विधाय तद्धहिरेकाङ्गुलान्तराले चतुरस्रं कृत्वा सर्वमध्यस्थयोनिमारभ्य निर्गमनगत्याग्रादि प्रादक्षिण्यक्रमेण नवसु कोणेषु प्रतिकोणं षट् षट् क्रमात् मूलविद्याक्षरेषु प्रोक्तसंख्येष्वादितः पञ्चाशदक्षराख्यालिख्य तद्बहिरष्टकोणेष्वष्टसु प्राग्वत् अग्रादिप्रादक्षिण्येन पूर्वलिखितमूलविद्याशिष्टाक्षरेषु षट्पञ्चाशत्सु प्रतिकोणं षट् षट्क्रमेणाष्टचत्वारिंशद- क्षराण्यालिख्य तदष्टकोणान्तरालेषु अष्टस्वग्रकोणोत्तरपार्श्वमारभ्य तद्दक्षिणपार्श्वान्तशिष्टविद्याक्षरात्मकं प्रत्यन्तरालमेकं विलिख्य तद्वाह्यवृत्तद्वयान्तरालवीथ्यां प्राग्वदग्रादिप्रादक्षिण्येन विलोमां सविसर्जनीयां मातृकां विलिख्य तद्वहिर्वृत्तचतुरस्रान्तराले प्राग्वदीशादीशान्तं प्रादक्षिण्यात् प्रतिदिशं त्रयोदशत्रयोदशक्रमेणोत्तरस्यां दिशि द्वादशक्रमेण च सम्भूय मातृकाक्षराण्येकपञ्चाशत् सविन्दूनि समालिख्य सर्व्वत्राक्षरलेखनस्थानेषु सप्तविंशतिषु साधकादीनां नामत्रयं विलिख्य तत्र नित्यपूजाव्रमोक्ताष्टभुजां देवीमावाह्य पूजयन्नरातिगत्यादिकं स्तम्भयतीति॥६८॥
 
-
-
 **वृत्तं त्र्यास्रं पुनर्वृत्तं षड़स्रं वृत्तयुग्मकम्।  
 अष्टास्रं तद्वहिर्ब्बृत्ते इति कृत्वात्र विन्यसेत्॥६९॥**
 
@@ -3119,8 +2765,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
   वृत्तमित्यादिभिः क्षिपेदित्यन्तैस्त्रिभिः श्लोकैः स्तम्भनयन्त्रान्तरमुपदिशति। तत्र अत्र यन्त्रे एकं मध्ये सर्वमध्ये मूलविद्याप्रथमाक्षरं त्रिकोणाकारं लिखेदिति सम्प्रदायः। मध्ये सर्वमध्यस्थप्रथमाक्षररूपत्रिकोणमध्ये। क्वापि भित्त्यादिषु। तत्रैव स्थापितप्रदेशे। अयं यन्त्रविरचनाक्रमः—अभीष्टमानेन भ्रमेण बृत्तं कृत्वा तद्वहिस्तद्वृत्तविष्कम्भार्द्धमानं बृत्तं कृत्वा तदन्तराले प्राग्वत् षट्कोणं कृत्वा तद्वहिरेकाङ्गुलमानेन बृत्तं कृत्वा तद्वहिः प्राग्वत् अष्टास्त्रं कृत्वा तद्वहिस्तत्कोणाग्रस्पृष्टास्पृष्टिकया वृत्तं कृत्वा तद्वहिरेकाङ्गुलमाने च वृत्तं कृत्वा तत्त्र सर्वमध्यस्थवृत्तमध्ये मूलविद्याक्षरप्रथमाक्षरं त्रिकोणरूपं च ससाधकादित्रयमुपरि सविन्दुकं समालिख्य तद्वहिस्तिकोणकोणेषु त्रिषु मूलविद्याया द्वितीयाक्षरादिदेशमाक्षरान्तं प्रतिकोणं त्रयं त्रयमग्रादिप्रादक्षिण्येन नवाक्षराण्यालिख्य तत्कोणान्तरालेषु त्रिषु एकादशाक्षरादीनि एकोनविंशाक्षरान्तानि प्राग्वत् त्रित्रिक्रमेणाग्रकोणोत्तरपार्श्वादितद्दक्षिणपार्श्वान्तं नवाक्षराण्यालिख्य तद्वहिः षट्कोणकोणेष्वग्रादिप्रादक्षिण्येन विद्याविंशतितमाचरादीनि सप्तविंशाक्षरान्तानि प्रतिकोणं त्रित्रिक्रमेणाष्टदशाक्षराण्यालिख्य तत्कोणान्तरालेषु च प्राग्वदष्टत्रिंशाक्षरादीनि पञ्चपञ्चात्तमाक्षरान्तान्यष्टादशाक्षराण्यालिख्य तद्वहिरष्टास्रकोणाष्टके षट् पञ्चाशत्तमाक्षरादीन्येकोनाशीतितमाक्षरान्तानि चतुर्विंशत्यक्षराणि प्राग्वत्त्रित्रिक्रमेणालिख्य तदन्तरालाष्टके चाशीतितमाक्षरादीनि त्याधिकशततमाक्षरान्तानि चतुर्विंशत्यक्षरान्तानि प्राग्वदारम्भक्रमादालिख्य चतुरधिकशततमाक्षरादीनि शिष्टमूलविद्यासप्ताक्षराणि तदन्ते भौमदशाक्षराणि च सम्भूय सप्तदशाक्षराणि अष्टकोणवाह्यवृत्तद्वयान्तरालवीथ्यां प्राग्वदभितो विलिख्य तत्र देवीमावाह्य प्राग्वत् संपूज्य तद्यन्त्रं शरावादिसंपुटितं कृत्वा भित्त्यादिषु संस्थाप्य तत्र प्रतिदिनमभ्यर्च्य तत्र वलिं दत्वा पूर्वोक्तफलं प्राप्नोतीति॥७१॥
-
-
 
 **कृत्वा षड़ष्टकोणानि षट्कोणानि पृथक् पृथक्।  
 क्रमात्त्रिकोणवृत्तान्तरालान् षट्कोणसंयुतान्॥७२॥**
@@ -3138,8 +2782,6 @@ OXFORD,
 
   कृत्वेत्यादिभिर्द्धारयेदित्यन्तैश्चतुर्भिः श्लोकैः सर्व्वरोगशान्तिकरं यन्त्रमुपदिशति। तत्र षड़ष्टकोणानि षट्कोणानि अष्टकोणानीति पदच्छेदः। अन्तः षट्कोणानि वहिः अष्टकोणानि चेत्यर्थः। पृथक् पृथक् क्रमात् त्रिकोणवृत्तान्तरालान् षट्कोणयुतान् पूर्वलिखितषट्कोणाष्टकोणयोः षट् कोणसंयुतान् त्रिकोणवृत्तान्तरालप्रदेशान् पृथक् पृथक् प्रत्येकं षट् कोणानि कुर्य्यादिति ग्रन्थयोजनाक्रमः। वाह्यात् क्रमेण मध्यान्तं वाह्याष्टकोणकोणादिसर्वमध्यगतषट्कोणं कोणमध्यान्तं। नक्षत्रतिथिवारयुक साध्याक्षरलेखनस्थानेष्विति शेषः। लिपिश इत्यस्य शक्तियुतामित्यत्रान्वयः। मातृकां विसर्जनीयरहितां पञ्चाशदक्षरवतीं प्रत्यक्षरं विसर्जनीययोगात्तद्राहित्यं। शक्तिसंयुतामित्यस्याक्षरद्वयमाराध्य- मुखादवगतं लिख्यते—यथा विसर्जनीसहितां मूलविद्याक्षरसहिताञ्चेति। सप्तसु मध्येषु षट्कोणसप्तकस्य सप्तसु मध्येष्वित्यर्थः। विलिखेच्च चकारेण पूर्वोक्तयन्त्रवद्विद्याशिष्टाक्षरदशकं भौमाक्षरदशकञ्च वाह्यबृत्तवीथ्यां विलिखेदित्येकोऽर्थः। समाकृष्यत इति सम्प्रदायार्थः। प्रदक्षिणं सर्वाणि उक्ताक्षराणि मायामध्यगतं हृल्लेखया क्रोड़ीकतम्। भूतप्रेतपिशाचादिशान्त्यै आदिशब्देनापस्मारादयः। तैः कृतपीड़ाशान्त्यै गजवाजिखरोष्ट्रादि इत्यत्रादिशब्देन गोमहिषाजादयश्चतुष्पदा उच्यन्ते। अयमत्र विलेखनक्रमः—अभीष्टमानेन भ्रमेण वृत्तं कृत्वा तत्रनित्यानित्यापटले प्रोक्तानुग्रहचक्रक्रमेण षट्कोणसप्तकमालिख्य तद्वहिः प्राग्वदष्टकोणं कृत्वा तद्वहिरष्टकोणाग्रस्पृष्टास्पृष्टिकया वृत्तं कृत्वा तद्वहिरेकाङ्गुल-
 
-
-
 **प्राक्प्रत्यग्दक्षिणोदक्करेखाद्बादश संलिखेत्।  
 रेखाग्रे सर्ब्बतः शूलास्तन्मध्याग्रे च पार्श्वयोः॥७६॥**
 
@@ -3154,8 +2796,6 @@ OXFORD,
 मानेन बृत्तं कृत्वा तत्र वाह्याष्टकोणेष्वग्रकोणादि प्रादक्षिण्येन सविसर्जनीयान्मातृकावर्णानादितोष्टौ समालिख्य तेष्वेव कोणेषु मूलविद्याया आदितः षोड़शाक्षरेषु प्रतिकोणमेकमेकं चैवमष्टाक्षराण्यादितः समालिख्य तत्कोणान्तरालेषु अष्टसु मातृकाया विद्यायाश्च नवमाचरादीनि षोड़शाक्षरान्तमष्टाक्षराणि प्राग्वत् क्रमादालिख्य तदन्तः षट्कोणमारभ्य प्रादक्षिण्येन प्रतिषट् कोणं षट्सु षट्सु कोणेषु तदन्तरालेषु च षट्सु षट्सु च संभूय चतुरशीतिसंख्येषु स्थानेषु मातृकाया विद्यायाश्च सप्तदशाक्षरादीनि पञ्चाशत्तमाक्षरान्तानि चतुस्त्रिंशदक्षराणि चतुस्त्रिंशत्स्थानेष्वालिख्य शिष्टेषु पञ्चाशत्स्थानेषु पुनरप्यकारादीनि विसर्जनीयरहितानि क्षकारान्तानि प्रत्यक्षरं विसर्जनीययुक्तानि मातृकाक्षराणि पञ्चाशत् संख्यानि मूलविद्यैकपञ्चाशत्तमाक्षरादिभिः शततमाक्षरान्तैः पञ्चाशद्भिरक्षरैः सह प्राग्वत् क्रमेण समालिख्य विद्याशिष्टाक्षरदशकं भौमार्णदशकञ्च प्राग्वत् सर्ववाह्यबृत्तवीथ्यामालिख्य षट्कोणसप्तकमध्यसप्तके तत्तत्प्रयोगदिवसप्राप्तनक्षत्रतिथिवारान् सप्तम्यन्तानालिख्य तत्तदुपरि साधकादित्रयं प्राग्वदालिख्य तत्सर्वं यन्त्रं हृल्लेखाया उपरिगतचतुर्थंस्वरेण क्रोड़ीकृत्य तत्र देवीमावाह्याभ्यर्च्च्या प्रोक्तकमसन्धारणात् प्रोक्तफलसिद्धिरिति॥७५॥
 
   प्राक्प्रत्यगित्यादिभिर्द्वयोरित्यन्तैः पञ्चभिः श्लोकैः स्तम्भनकर कोष्ठयन्त्रमुपदिशति। तत्र तन्मध्याग्रे च पार्श्वयोः तत्तच्छूलं मध्यरेखाग्रे तत्तच्छ्रलमध्यरेखापार्श्वयोश्च स्तम्भय इति त्यत्रक्षराणि यथाक्रमं त्रिशूलमध्यरेखाग्रे तद्दक्षिणवामपार्श्वयोश्च मध्यकोष्ठे सर्वमध्यस्थकोष्ठमध्ये सर्वमध्येकोष्ठाधः पङ्क्तिमध्यकोष्ठमारभ्य निर्गमनगत्येत्यर्थः। भौमसमन्वितान् भौमवर्णसमन्वितान् मन्त्रवर्णान् गृहपत्तनयोर्निर्माणस्तम्भने तद्गतामङ्गलस्तम्भने वा इति शेषः। लोहदृशदोः पूर्वोक्ताधिकरणचतुष्टयस्य मध्ये तालेन हरितालेन शुभं मनोहरं क्रमतः शरावादिसंपुटनाक्रमतः यावत् फलावाप्तिस्तावत् कुर्व्वीत
-
-
 
 **गौरकेणाथ शिलायां तालेन बिलिखेच्छुभम्।  
 स्थापयेद्भित्तिमध्ये च भूमौ च क्रमतः शिवे॥७९॥**
@@ -3182,8 +2822,6 @@ OXFORD,
 
   प्राक्प्रत्यगित्यादिभिर्ध्रुवमित्यन्तैरष्टभिः श्लोकैः समस्ताभीष्टफलप्रदं महावज्रयन्त्रमुपदिशति। तत्र तैः सूत्रैः। तेषु कोष्ठेषु अष्टाविंशतिकोष्ठानि प्रतिकोणमिति शेषः। शिष्टेषु त्रयोदशाधिकशतसंख्येषु। एकैकतः एकैककोष्ठात्।
 
-
-
 **एतद्वज्रं महायन्त्रं समस्ताभीष्टसाधकम्।  
 यत्रैतत् स्थापितं लोहशिलादिलिखितं शिवे॥८५॥**
 
@@ -3200,8 +2838,6 @@ OXFORD,
 
 साध्यसाधककर्म च साध्यसाधककर्म्माणीत्यर्थः अग्रमारभ्य विलिखेदित्यनेनान्वयः। उपर्य्यधो मध्यत इति पूर्वत्र साध्यसाधककर्म चेत्यनेनान्वयः। तल्लेखनप्रकारास्तूपरिकोष्ठे साधकमधः कोष्ठे साध्यं मध्यकोष्ठे कर्म्म चेति। शेषेषु दशोत्तरशतसंख्येषु। प्राग्वत् प्रादक्षिण्यप्रवेशगत्या दशोत्तरशताक्षरान् मन्त्रार्णान् लिखेदित्यनेनान्वयः। शिलादीत्यत्रादिशब्देन भूर्जपत्रपटतालान्युच्यन्ते। पिशाचादीत्यत्रादिशब्दोऽपस्मारादिविषयः। उपप्लवाः उपद्रवाः न भवन्तीति पूर्व्वत्रान्वयः। मर्म्मादीत्यादिशब्दो द्वारभित्तिभागादिविषयः। गेहगञ्ज तत् गृहस्थापितं तद्यन्त्रमित्यर्थः। क्षुद्रादीत्यादिशब्दः पिशाचादिविषयः। अयमत्र विलेखनक्रमः—प्राक्प्रत्यग्दक्षिणोदक्क षोड़शसूत्रास्फालनेन पञ्चविंशत्यधिकशतद्वयकोष्ठानि निष्पाद्य तेषु कोष्ठषु चतुर्षु कोणेषु प्रतिकोणमष्टाविंशत्यष्टाविंशतिकोष्ठानि सम्भूय द्वादशाधिकशतसंख्यानि कोष्ठानि प्रागवन्मध्ये वज्राकारं यथा भवति तथा मार्जयित्वा तथा शिष्टेषु त्रयोदशाधिकशतसंख्येषुकोष्ठषु चतसृषु दिक्षु प्रतिदिशमेकैकं कोष्ठं सन्भूय चत्वारि कोष्ठानि मार्जयित्वा तत्र त्रिकोणानि प्राग्वत् समत्रिरेखानि कृत्वा तत्र सर्वमध्यकोष्ठे कर्म्म तदुपरितनकोष्ठे साधकं तदधःस्थितकोष्ठे साध्यञ्चालिख्य शिष्टेषु चतुर्दिग्गतत्रिकोणचतुष्टयसहितेषु दशोत्तरशतसंख्येषु कोष्ठेषु अग्रत्रिकोणादिप्रादक्षिण्यप्रवेशगत्या तत्संख्यानि मूलविद्याक्षराणि विलिख्यएतद् यन्त्रं प्रोक्ताधिकरणान्यतमगतं कृत्वा प्रोक्तषु देशेषु प्राणप्रतिष्ठादिपुरःसरमभ्यर्च्य स्थापनात् प्रोक्तफलसिद्धिरिति॥८८॥
 
-
-
 **वाय्वग्निनैऋतेशञ्च कुर्य्याद्द्वादशसूत्रकम्।  
 तैर्व्वज्ररूपकोष्ठानि एकविंशशतम्भवेत्॥८९॥**
 
@@ -3217,8 +2853,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
   वाय्वित्यादिभिर्भूतलइत्यन्तैः सप्तभिः श्लोकैर्वज्रवज्राभिधं यन्त्रं तद्विनियोगादिकञ्चोपदिशति। तत्र तैः सूत्रैस्तेषु वज्ररूपकोष्ठेषु। मध्ये सर्वमध्यस्थवज्रकोष्ठे। साध्यनाम साधककर्म्माणि अग्रान्मध्यकोष्ठाधःस्थकोष्ठारम्भतः। अभितः प्रादक्षिण्येन। अन्यानि कोष्ठानि। अक्षराणि मूलविद्याक्षराणि अन्येषु कोष्ठेषु अक्षराणि लिखेदित्यर्थः। महीवर्णपूर्वाणि पूर्वं भौमाक्षराणि विलिख्य शेषेषु कोष्ठेषु विद्याक्षराणि लिखेदित्यर्थः। शिवे इति सम्बुद्धिः। शिलादीत्यत्रादिशब्दो मूर्जपत्रपटादिविषयः। अन्यानि शत्रुस्थापितकृत्याकालभस्मादीनि प्रोक्तेषु रोगादिषु आर्त्तिषु पीड़ासु प्रोक्तरोगादिसञ्जातासु पीड़ास्वित्यर्थः। तद्बज्रं वज्रवज्रं मध्ये सर्वमध्यस्थकोष्ठमध्ये तुर्विशेषः। क्षीरद्रुक्वाथपूरितं अश्वत्थोडुम्बरप्लक्षवटानां चतुर्णं क्षीरवृक्षाणां त्वग्भिः सह क्वाथितैः प्रशमितोष्णैः खारिमाणैस्तोयैः पूरितम्। निधाय इत्यस्य पूर्वत्रान्वयः। देवीं पञ्चमीं। सलिले कुम्भस्थे इति शेषः। आत्मवान् अधिगतः। तैर्जलैर्यन्त्रविद्यादिशक्तिसंक्रमतः कलितानुभावैः। अयमत्र विलेखन क्रमः—इष्टमानभ्रमेणबृत्तं निष्पाद्य तत्र प्राक्प्रत्यग्दक्षिणोत्तरञ्च तद्वृत्तावधि ब्रह्मसूत्रद्वयमास्फाल्य प्राक्प्रत्यग्व्रह्मसूत्रस्य प्रागग्राद्दक्षिणोत्तरब्रह्मसूत्रदक्षिणाग्रान्तं तदग्रात् प्राक्पश्चिम ब्रह्मसूत्रपश्चिमाग्रान्तं तदग्राद्दक्षिणोत्तरब्रह्मसूत्रोत्तराग्रान्तं तदग्रात् प्राक्पश्चिमब्रह्मसूत्रप्रागग्रान्तं ज्यारूपं सूत्रचतुष्टयमास्फाल्य ब्रह्मसूत्रद्वयस्य वृत्तस्य च मार्जनाद्दिग्गतकोणचतुष्टयं समचतुरस्त्रं विधाय वायुदिकस्थरेखादिवह्निदिक्स्थरेखान्तं नैऋतदिक्स्थरेखादि ईशदिक्स्थरेखान्तं च समान्तरालदशसूत्रास्फालनेन वज्रवज्राकारमेकविंशत्यधिकशतसंख्यवज्ररूपकोष्ठसहितं यन्त्रं विधाय तत्र
-
-
 
 **प्रोक्तेष्वार्त्तिष्वपि तथा तद्बज्रं गौरकैर्भुवि।  
 विलिख्य मध्ये कुम्भन्तु क्षीरद्रुक्काथपूरितम्॥९३॥**
@@ -3249,8 +2883,6 @@ OXFORD,
 
   वेदाङ्गुलेत्यादिभिरनयेत्यन्तैश्चतुर्भिः श्लोकैरखिलसिद्धिकरं यन्त्रं विद्यावैभवञ्चोपदिशति। तत्र वेदाङ्गुलपरि- भ्रान्त्या प्रतिदिशं चतुरङ्गुलमानपरिभ्रान्त्या। ततस्तद्वृत्तात्। द्व्यङ्गुले द्व्यङ्गुले द्व्यङ्गुलमाने द्व्यङ्गुलमाने एकादश-
 
-
-
 **तद्यन्त्रं प्राग्वदखिलविनियोगेषु योजितम्।  
 नासाध्यमस्ति भुवने विद्यया सिद्धयाऽनया॥१००॥**
 
@@ -3269,16 +2901,12 @@ OXFORD,
 व्याख्यायां षोड़शनित्याङ्गभूतपञ्चमौविद्याविधानप्रकाशनपरं  
 त्रयोविंशं पटलम् परिपूर्णं परामृष्टम्॥२३॥**
 
-
-
   ग्रन्थसंख्या।
 
 **त्रयोविंशेतु पटले यन्त्राणि मुनिसंख्याया।  
 व्याख्याग्रन्था नेत्रशतमेकाशीतिस्तथार्द्धकम्॥**
 
 ![](../books_images/U-IMG-1723660241Screenshot2024-07-11131326.png)
-
-
 
 चतुर्विंशपचलम्।  
 ![](../books_images/U-IMG-1723660241Screenshot2024-07-11131326.png)
@@ -3306,8 +2934,6 @@ OXFORD,
 
   विद्याप्तावित्यादिना श्लोक पूर्वार्द्धेन विद्याप्राप्तिकरं शान्तिकरं मुक्तिसिद्धिकरं सामान्यध्यानमुपदिशति। तत्र इन्दुकर्पूरसन्निभाः इन्दुसन्निभाः कपूरसत्रिभाश्च कान्तिवर्णाभ्यामिति शेषः॥ विद्वेषेत्यादिना वृता इत्यन्तेनार्द्धाद्येन श्लोकेन
 
-
-
 **क्षित्यादिभूतैः सत्त्वादिगुणैरेकैकसंहतैः।  
 एकद्व्यादिसमारब्धैर्व्वर्णाकारैस्तु शक्तयः॥६॥**
 
@@ -3328,8 +2954,6 @@ OXFORD,
 
   भौमाकारा इत्यादिभिः स्मृता इत्यन्तैरर्द्धाधिकैस्त्रिभिः श्लोकैरेकैकगुणयुक्तानां पञ्चभूतशक्तीनां क्रमेण ध्यानं तत्प्रयोगांश्चोपदिशति। तत्र भौमाकारा भूमिस्वरूपाः। पीतवर्णाः विग्रहबसनभूषणानुलेपनमाल्यादिभिरितिशेषः। सर्वाः परिवारा नित्याः स्तम्भनकारकाः। भूमेरचलात्मकत्वात्। आप्या जलात्मिकाः शक्तयः। सत्त्वगुणाः सत्त्वगुणयुक्ताः। सर्वाः प्राग्वत् सिताकाराः प्राग्-
 
-
-
 **वश्याकर्षणशान्तिश्रीसौभाग्यविजयप्रदाः।  
 वायुरूपा धूम्रवर्णा सर्वा द्वेषादिकारकाः॥१०॥**
 
@@ -3349,8 +2973,6 @@ OXFORD,
   आसामित्यादिनोत्तरार्द्धेनैकद्व्यदिसमविषमांशयोगसं जातानां तासां शक्तीनां मुखभुजदेहस्वरूपभेदविधानं प्रस्तौति तत्र पार्वतीतिसम्बुद्धिः॥११॥
 
   एकवक्त्राइत्यादिना शतानना इत्यन्तेन श्लोकद्वयेन गुणानां भूतानामेकह्ब्यादिसमसमांशगुणयोगात्तासां वक्तृसंख्याभेदध्यानमुपदिशति। तत्र एकवक्त्राएकवदनयुक्ताः। चतुर्वक्त्राः प्राग्वत्। अपरा अन्याः शक्तय इति शेषः। षोड़शास्याः षोड़शमुखाः काश्चन प्राग्वत् शक्तयः। कापि प्रयोगविशेषे चत्वारिंशन्नवाननाः एकोनपञ्चाशदाननाः। एकाशीतिशताननाः एकाशीत्याननाः शताननाश्च भूतानामेकद्व्यादिदशान्तानामंशानां गुणानामेकद्व्यादिदशान्तैरंशैः समसंख्यांशक्रमेण संगुणनादेवं संजातसख्यवक्त्राःशक्तयो दशविधा दर्शिता भवन्ति। तासां मुखक्रमस्तु कण्ठपीठोपरि एकवक्त्रंचतुर्वक्त्रपक्षे तु
-
-
 
 **वहुना किं मुखभुजसंख्यासाधनवाञ्छया।  
 तथापि दर्शितं किञ्चिद्वक्त्रेभुजद्वयं द्वयम्॥१४॥**
@@ -3375,8 +2997,6 @@ OXFORD,
 
   आद्याया इत्यादिभिर्महेश्वरीत्यन्तैस्त्रिभिः श्लोकैः षोड़शनित्यानामङ्गाङ्गित्वक्रमादिकमुपदिशति। तत्र अङ्गगा मध्यनित्याङ्गगाः। आत्मविग्रहाः तत्तन्नित्या विग्रहाः। स्वान्तान्ताः तत्तन्नित्यान्ताः शेषनित्यान्ताः। तत्तद्वर्णायुधाकारवाहनैः मध्यस्थमध्यस्थनित्यावर्णायुधाकारवाहनैः। तथाविधेः तत्तद्वर्णायुधाकारवाहनैः। महेश्वरोति सम्बुद्धिः। एतदुक्तं भवति षोड़शनित्यानामङ्गाङ्गित्वध्यानेष्वङ्गिरूपेण मध्ये स्थिताया ललितायाः कामेश्वर्य्यादिपञ्चदशनित्याः परिवारत्वेन
 
-
-
 **सूक्ष्मरूपाणि च तथा कथयामि तवानघे।  
 येन ते साधकाः सर्व्वे वाञ्छितं प्राप्नुयुः क्षणात्॥१९॥**
 
@@ -3396,8 +3016,6 @@ OXFORD,
   सूक्ष्मरुपेत्यादिभिर्भावनेन वै इत्यन्तै स्त्रिभिः श्लोकैः प्रस्तावादिपुरःसरं सूक्ष्मरूपध्यानं तेन प्रयोगादि- कञ्चोपदिशति। तत्र सूक्ष्मरूपाणि तासां ध्यानानि इति शेषः। अनघे इति सम्बुद्धिः। येन सूक्ष्मध्यानानुसन्धानेन। प्रोक्तषु नित्यानित्यापटले इति शेषः। लोहितात्मैक्यविग्रहां लोहिताकारत्वेन स्वैक्यविग्रहवत्तां। तत्र तेजोनिचये। सिद्धिं अभिमतामिति शेषः। तेन भावनेनेत्यनेनान्वयः। एतदुक्तं भवति प्रोक्तेष्वाधारपद्मेषु लोहिताकारं स्वस्मादपृथग्भूतं तत्तेजोनिचयं विभाव्य तत्तेजोमध्ये साध्यसाधककर्मणां स्वरूपेण भावनया समीहितफलं प्राप्नोतीति॥२१॥
 
   परमित्यादिना श्लोकेन परध्यानमुपदिशति। तत्र अखण्डात्मविमर्शतः कटकमुकुटाद्यखिलभूषणादि- विशेषेष्वपृथक्तेन तत्तदाकारतया स्थितकनकसत्तामात्रवदिदमाकारतया प्रतीतेषु सकलपदार्थेष्वपृथक्त्वेन तत्तदाकारतया स्थित परशक्तिविमर्शतः। निर्वातदीपसङ्काशं देशकालाद्यपरिच्छिन्नतया निश्चलपूर्णप्रकाशरूपमुपलक्षब्धमिति शेषः। आत्मनात्मसमीक्षणात् अनन्धप्रकाशरूप ।
-
-
 
 **स्थूलेन साधयेत्तत्तदिष्टञ्चैव शुभाशुभम्।  
 प्रोक्तक्रमेण देवेशि सततं साध्यसाधकैः॥२३॥**
@@ -3426,8 +3044,6 @@ OXFORD,
 
   वामेत्यादिना वाञ्छयेत्यन्तेन श्लोकद्वयेनायुधसामान्धपरिमाषाक्रमादिकमुपदिशति। तत्र वामदक्षिणयोः करयोरिति शेषः। द्विभुजे द्विभुजध्याने। बराभये वराभयसंज्ञे मुद्रे एतत् प्रथमाद्विवचनं। पाशाङ्कुशौ चतुर्वाहौ चतुर्भुजध्याने। ऊर्द्धभुजवामदक्षिणे पाशाङ्कुशौ इतरयोः प्राग्वत् वराभयमुद्रे चेत्यर्थः।
 
-
-
 **चर्म्मखड्गौचाष्टभुजे गदाशूलौ दशोदिते।  
 मुखपाण्यायुधानान्तु रूपसंख्यादिवाञ्छया॥२८॥**
 
@@ -3452,8 +3068,6 @@ OXFORD,
   सर्वत्रेत्यादिभिर्महेश्वरीत्यन्तै रध्यर्ध्देश्चतुर्भिः श्लोकैः शुभाशुभकर्मसु सामान्यध्यानमुपदिशति। तत्र सर्वत्र इत्येतत्तन्त्रसामान्यं। सर्वत्रेत्याद्यर्ध्देन शुभकर्मसु ध्यानं। दंष्ट्रोग्रा इत्युत्तरार्ध्देनाशुभकर्म्मसु ध्यानम्॥३०॥
 
   शुभेष्वित्यादिना श्लोकेन श्लोकपूर्वार्द्धस्याद्यपादेन शुभकर्म्मसु ध्यानं। स्थिता इत्यादिना श्लोकावशिष्टपा- दत्रयेण तदितरध्यानम्। अपि अपिवेत्यर्थः। रत्नमयैरित्येतद्वलयादित्रयाणां विशेषणम्। दिव्यांशुकधरा इत्यत्र दिव्यत्वं तत्त्वबेदिभिः कैश्चिद्दृशा दृष्टत्वात्। सर्वाः सपरिवारा नित्याः। अत्र भूषणानां
-
-
 
 **हारग्रैवेयरत्नादिमुद्रिका नूपुरादिभिः।  
 नवरत्नमयैः सर्व्वास्तवकैश्चोपशोभिताः॥३३॥**
@@ -3485,8 +3099,6 @@ OXFORD,
 
   ऋक्षेत्यादिना श्लोकेनोच्चाटने वाहनभेदध्यानमुपदिशति। तत्र भीमा विग्रहादिभिरिति शेषः। सुदारुणाः कर्म्मणीति शेषः॥३८॥
 
-
-
 **कङ्कश्येनवकक्रौञ्चकाककौशिकवाहनाः।  
 विद्वेषणेषु सर्वास्ता घोरप्रहरणाकुलाः॥३९॥**
 
@@ -3514,8 +3126,6 @@ OXFORD,
   पिशाचेत्यादिना श्लोकेन मारणकर्मसु वाहनभेदध्यानादिकमुपदिशति। तत्र वाहनभेदेन ध्यानेनेति शेषः॥४१॥
 
   सर्वा इत्यादिभिः षोड़श इत्यन्तैःपञ्चविंशतिभिः श्लोकैर्वाहनवक्त्रायुधादिभेदेन समरविजयादिध्यानादिक- मुपदिशति। तत्र सर्वा नित्याः सपरिवाराः। वह्निवायुहस्तद्वयान्विता इत्यत्र दक्षिणवामहस्तयोर्वह्निवायुक्रमेणेति यावत्। दहन्त्याःस्वस्वकरस्थश्चापायुधसंधुक्षितेन वह्निनेति यावत्। भीमगवाभिर्भीमरावं कुर्वन्तीभिः। वेष्टिता इत्येवं तत्पूर्वत्रसर्वा इत्यनेनान्वयः। वा विकल्पे। वैरिसेनाया विनाशपलायनसंव्याहनपादपतनेष्वन्यतमेनेति यावत्। छिन्दन्त्यः मर्द्दयन्त्यः। उक्तक्रमेणारिसेनाविनाशादिचतुर्ष्वन्यतमप्रकारेण। तद्द्विगुणमुजा अष्टादशभुजाः। वा विकल्पे। वामैर्भुजैर्नवभिरिति शेषः I तर-
-
-
 
 **चतुर्म्मुखा अष्टभुजा छिन्दन्त्याः महतीं चमूम्।  
 विभाव्य वा जयं युद्धे प्राप्नोत्युक्तक्रमेण वै॥४५॥**
@@ -3548,8 +3158,6 @@ OXFORD,
 
 वारिभिः स्वस्वदक्षिणकरस्थेः खङ्गैः चिन्तयन्नित्यस्य पूर्वत्र छिन्दन्त्या इत्यनेनान्वयः। आटोपः संरम्भः। प्राप्नोतीत्यस्य पूर्वत्र विजयमित्यनेनान्वयः। प्रागुक्तक्रमयोगतः वैरिविनाशादिष्वन्यतमेन। अथवा प्राग्वत् पक्षान्तरे तथा प्राग्वद्रिपुविनाशादिना। इतरेर्दक्षिणैः पाणिभिरित्यस्य पूर्वत्रेतरैरित्यनेनान्वयः। भीमा विग्रहादिभिः। तद्भिन्नचतुरङ्गान्तासां शक्तीनां दक्षिणकरनिवहस्थनखरैर्भिन्न चतुरङ्गां। विजयमाप्नुयादित्यस्य पूर्वत्र तथा इत्यनेनान्वयः। तथा प्राग्वद्वामदक्षिणभुजनिवहक्रमेण। शूलकुठारौघैः शूलौधेःकुठारौघैश्च।प्रोक्त-
 
-
-
 **निद्रातिमिरहस्ता वा मोहयन्ती द्विषां वलम्।  
 ध्यात्वा विजयमाप्नोति नियतं समरे नृपः॥५४॥**
 
@@ -3574,8 +3182,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 क्रमात् सेनाविनाशाद्यन्यतमप्रकारेण। तथैव वामदक्षिणभुजक्रमेण चर्म्मच्छरिकानिवहैः चर्म्मनिवहैः च्छुरिकानिवहैश्च। वलं रिपूनामिति शेषः। वा विकल्पे।रोमहर्षणे वीराणामिति शेषः। निद्रातिमिरहस्ता वामदक्षिणक्रमेनेत्यर्थः। पिशाचसर्पहस्ता वामदक्षिणहस्तक्रमेणेति शेषः। अश्नुते प्राप्नोति। पाशकर्त्तरिकाभिः वामदक्षिणहस्तनिवहस्थाभिः। प्रोक्तक्रमात् प्राग्वद्वैरिसेनाविनाशाद्यन्यतमेन। अङ्कुशक्रकचाभ्यां वामदक्षिणहस्तनिवहस्थाभ्यामिति शेषः। हलैः वामभुजनिवहस्थैरिति शेषः। मुशलैः दक्षिणभुजानिवहस्थैरिति शेषः। तथा प्रागुक्तवह्निवाय्वादिषु हलमुशलान्तेष्वेकादशविधायुधद्वन्दयुक्तहस्तक्रमेण दधाना इति यावत्। ताःशक्तीः प्राग्वद्वैरिसेनाविनाशादिष्वन्यतमेन। एकदशभिर्भैदैः वह्निवाय्वादिभिरिति शेषः। वलं रिपूणामिति शेषः। विचिन्त्य इत्यस्य पूर्वत्र
-
-
 
 **विचिन्त्य जयमाप्नोति समरे सर्वदा नृपः।  
 तथा स्मरणसंयुक्तैः पूजयेत्तास्तदाऽऽग्रहे॥६१॥**
@@ -3607,8 +3213,6 @@ OXFORD,
 
   एवमित्यादिभिर्निश्चितमित्यन्तैश्चतुर्भिः श्लोकैः प्रोक्तसंख्यामन्तरेणापि वाञ्छितसंख्यवक्तृभुजादिविशेषसहिते न व्याकुलक्रमायुधादिध्यानेन समरविजयप्रयोगं तत्र साधकविशेषांश्चोपदिशति। तत्र एवं प्रोक्तक्रमेण। व्याकुलक्रम-
 
-
-
 **देवीस्तास्तरति क्षिप्रमापदो मनुजोऽथवा।  
 देवो वा राक्षसो यक्षः किन्नरो वा भुजङ्गमः॥६९॥**
 
@@ -3639,8 +3243,6 @@ OXFORD,
 
   चोरादीत्यादिर्भिर्महेश्वरीत्यन्तैःषड़्भिः श्लोकैर्नित्यानां ध्यानविशेषेण सर्वापत्तारणप्रयोगमुपदिशति। तत्र चोरादिसङ्कटे इत्यत्रादिशब्दो व्याघ्रादि विषयः। द्विविधैः सहजप्राकृताद्यैः। क्षुद्रपीड़ासु शत्रुभिः प्रयुक्तकालभङ्ग्यादिसमुद्भवपीड़ासु। अन्येषु आध्यात्मिकादितापत्रयात्मकेषु। इत्थं वक्ष्यमाणध्यानप्रकारेण। द्विभुजाभीष्टधारिकाः द्विभुजाभ्यां साधकाभीष्टं दधानाः। स्वसमानाभिः द्विनयनादिविग्रहविशेषैरिति शेषः। ता नित्याः। आसां नित्यानां। महेश्वरीति सम्बुद्धिः॥७६॥
 
-
-
 **अलङ्कृतहयारूढाः शक्तिभिश्च तथावृताः।  
 स्मेराननाश्च गायन्तीः स्मृत्वा विश्वं वशं नयेत्॥७७॥**
 
@@ -3666,8 +3268,6 @@ OXFORD,
 [^28]: " अपार ; आचार।"
 
   तथाविधेत्यादिना यश इत्यन्तेन श्लोकद्वयेन भूमिप्राप्त्यादिकप्रयोगध्यानमुपदिशति। तत्र तथाविधरथारूढाः प्राग्वदलङ्कृतरथारूढ़ा इत्यर्थः। तथा शक्तिभिराबृताः अलङ्कृतरथारूढ़शक्तिभिराबृताः। तथा सङ्गीतसंसक्तशक्तिबृन्दसमन्विताः अलङ्कृतरथारूढ़ा संगीतादिरतशक्तिवृन्दसमन्वित्ताः। भुवं अभीष्टामिति शेषः। वैरिमण्डलं शत्रुराज्यं। एवं तत्त्रिविधध्यानात् प्रोक्तक्रमालङ्कृतहयगजरथारूढ़ध्यानात्। अतुलं निरुपमम्॥८१॥
-
-
 
 **कदलीकाननेऽरण्ये निर्जने तास्तथा स्मरन्।  
 पादुकासक्तचरणा आगच्छन्ति स्वशक्तिभिः॥८२॥**
@@ -3702,8 +3302,6 @@ OXFORD,
 
   समुद्रगेत्यादिना श्लोकेन पूर्वोक्तध्यानेनासंख्यातोत्तमकनकप्राप्तिप्रयोगमुपदिशति। तत्र तथा प्राग्वत् ध्यानप्रका- रेण॥८७॥
 
-
-
 **निर्जने विपिने स्मृत्वा प्राप्नोति महिलाः शुभाः।  
 रूपयौवनशीलाढ्याः प्रेमनिघ्नास्त्वनन्यगाः॥८८॥**
 
@@ -3733,8 +3331,6 @@ OXFORD,
 
   शतेत्यादिभिरनघे इत्यन्तैः पञ्चभिः श्लोकैः समरविजयप्रयोगविशेषमुपदिशति। तत्र वाञ्छितानि स्वपरिचिन्ति- तानि। ता नित्याः। नवसु नवसंख्येषु। स्फटं सुव्यक्तं मध्यापर्य्यान्तद्बये संस्थापयेत्। तथा रथदन्तिहयानान्तु। तेषु नवसु पटेष्वश्वरथादीनां त्रयाणां मध्ये तत्तद्वामदक्षपार्श्व-
 
-
-
 **आहत्य वहयन् शृङ्गशङ्खकाहलकादिकम्।  
 वज्रादभिमुखं वैरी धावत्याशु पराजितः॥९५॥**
 
@@ -3759,8 +3355,6 @@ OXFORD,
 
   सूक्ष्मेत्यादिभिः सिद्धिकृदित्यन्तैश्चतुर्भिः श्लोकैः प्रस्तावपुरःसरं सूक्ष्मध्यानं तेन प्रयोगादिकमुपदिशति। तत्र तत् सूक्ष्मध्यानम् आधारेष्विति शेषः। तन्मध्ये नित्यानिवहात्मकतेजोमध्ये। निजवाञ्छानुरूपकं स्वसमीहितकर्म्मानुगुणम्। तथा तत्तेजोरूपतया। सुषुम्नान्तः सुषुम्नानाड़ीमध्ये। तत्निजवाच्छानुरूपं स्वसाध्यम्। वा विकल्पे। गमागमं मूलाधारादिब्रह्मरन्ध्य्रान्तं ब्रह्मरन्ध्रादिमूलाधारान्तं मुहुर्म्मुहुरारोहावरोहक्रमेणेत्यर्थः। तेन प्रोक्तोभयप्रकारेण। तयोरेव इत्यत्र एवकारेण साध्यस्य सूक्ष्मरूपध्यानप्रयोगेष्वनधिकारत्वमुच्यते॥१००॥
 
-
-
 **प्रकृत्यात्ममयी व्याप्तिरिति सम्यक् समीरिता।  
 अस्या निफालनाच्चित्ते तत्तत्त्वं स्वात्मसात्कृतम्॥**
 
@@ -3768,8 +3362,6 @@ OXFORD,
 पटलं परिपूर्णं परामृष्टम्**
 
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
-
-
 
 इति षोड़शनित्यातन्त्रेषु श्रीकादिमताख्यस्य परिपूर्णस्य तन्त्रस्य प्रपञ्चसारसिंहराज-  
 प्रकाशाभिधानेन श्रीसुभगानन्दनाथेन विरचितायां मनोरमाख्यायां  
@@ -3784,8 +3376,6 @@ OXFORD,
 व्याख्याग्रन्थाः षोड़श स्युरधिकास्ते शतद्वायात्॥**
 
 ![](../books_images/U-IMG-1724157276Screenshot2024-08-08063503.png)
-
-
 
 **अथ षोड़शनित्यानां षट्त्रिंशत्तत्त्वविग्रहैः।  
 वर्णैस्तज्जनितैर्म्मन्त्रैर्यन्त्रैः कालात्मतां क्रमात्॥१॥**
@@ -3809,8 +3399,6 @@ OXFORD,
 
 ^(१)षट्त्रिंशत्तत्त्वात्मतोपदेशात् प्रथमातिक्रमे कारणाभावादितिन्यायेन च महानित्यायाः शिवशक्त्यात्मकत्वेनो- भयात्मकत्वात् तदात्मकस्य प्रथमस्वरस्यापि स्वरव्यञ्जनात्मकदेवोभयात्मकत्त्वमस्ती त्युपस्कर सम्प्रदायाच्च।
 
-
-
 **अष्टावष्टौ स्वरे वर्गः परतः पञ्च पञ्च वै।  
 मातृृणान्तु स्वरैरेको वर्गः पूर्ववदुत्तरम्॥४॥**
 
@@ -3831,8 +3419,6 @@ OXFORD,
 
   त्रिसहस्त्रेत्यादिना श्लोकेन प्रोक्तमण्डलाब्दसमावृत्तिभिः कृतादिचतुर्युगानामब्दानां संख्यामुपदिशति। तत्र तस्य कृतयुगस्य। एतदुक्तं भवति पूर्णकालाब्दानां षट्सप्तत्यधिकपञ्चशतानां सहस्रत्रयावृत्तिजनितसंख्या- ष्टाविंशतिसहस्रा-
 
-
-
 **मायाधराग्निवातस्वैः कृताद्यर्णाः समीरिताः।  
 तान् दिनाक्षरसंयुक्तान्मध्ययोनौ समालिखेत्॥८॥**
 
@@ -3848,8 +3434,6 @@ OXFORD,
 
   मायेत्यादिभिः संयुता इत्यन्तैस्त्रिभिः श्लोकैः कृतादियुगविग्रहवर्णान् तद्वर्णानां अस्मिन् पटले वक्ष्यमाणघटिका- चक्रेषु वक्ष्यमाणघटिकावर्णैः सह लेखनक्रमादिकञ्चोपदिशति। तत्र मायाधराग्निवातस्वैः माया विसर्जनीयः, धरा उकारः, अग्निरिकारः, वातः अकारः स्वं विन्दुः। एतदुक्तं भवति अः उं इं अं इति चतुर्वर्णाः क्रमात् कृतादिचतुर्युगविग्रहा भवन्तीति। तान् युगार्णान् दिनाक्षरसंयुक्तान् घटिकानां दिवसावयवत्वात्। वक्ष्यमाणघटिकाक्षरसंयुक्तानित्यर्थः। मध्ययोनौ वक्ष्यमाणघटिकायन्त्राणामिति शेषः। दिनार्णेषु प्राग्वत् घटिकार्णेषु। स्वराः विसर्जनीयरहितवक्ष्यमाणघटिकात्मकपञ्चदश स्वराः। विन्दुरूपाः विन्द्वाकारलिखितरूपाः। वामोर्द्धदक्षपार्श्वेषु प्राग्वद्वक्ष्यमाणघटिकायन्त्राणां मध्ययोनौ देवताया इति शेषः। तत्स्थाने सर्व्वमध्ययोनिमध्ये प्राग्वत्। एतदुक्तं भवति वक्ष्यमाणघटिकाक्षरयन्त्रेषु घटिकाचरत्वेन कदाचित् स्वररूपाक्षरे लेखनीये सति तदुयन्त्राणां मध्ययोनौ देवताया वामपृष्ठदक्षपार्श्वेषु पञ्च पञ्च चाङ्गीकृतेषु तान् वर्णान् वामपार्श्वस्थांशमारभ्य अकारादीनां पञ्चदशस्वराणां स्थानं परिकल्प्य घटिकाक्षरत्वेन तत्कालायातस्वरस्थांशे एकविन्दुं तदात्मकत्वेन विलिख्य
 
-
-
 **सर्वत्र यन्त्रविन्यासप्रतिष्ठार्च्चाद्यनुग्रहे।  
 निग्रहे वास्तुविन्यासे गर्भन्यासेष्टसिद्धिकृत्॥११॥**
 
@@ -3863,8 +3447,6 @@ OXFORD,
   सर्व्वत्रेत्यादिना श्लोकेन घटिकाचक्राणां विनियोगं तत् फलानि च उपदिशति। तत्र गर्भन्यासेष्टसिद्धिकृत् गर्भन्यासे इष्टसिद्धिकृदिति पदच्छेदः। आगमानां सन्धिर्दिव्यत्वादस्माभिर्न विचारणीयः॥११॥
 
   आरभ्येत्यादिना प्रवर्त्तत इत्यन्तेन लोकद्वयेन मातृकावर्णचक्रस्य घटिकात्मकत्वेन ज्योतिश्चक्रेण व्याप्तिक्रममु- पदिशति। तत्र भानोरुदयं लङ्कायामिति शेषः। पाञ्चशत्परिवृत्तितः अकारादिक्षकारान्तानामन्त्यस्वरवर्जितानां वर्णानां पञ्चाशत् परिबृत्तितः। तस्याः परिबृत्तिरूपिण्या मातृकायाः। एतदुक्तं भवति प्रतियुगं युगप्रथमदिवसे लङ्कार्कोदयमारभ्यैकैकघटिकाक्रमेण मातृकाया अकारादिक्षकारान्तानि विसर्जनीयस्वररहितानि पञ्चाशदक्षराणि पञ्चाशद्भिः घटिकाभिरुद्यन्ति। अ ए च त य इति पञ्चमातृका घटिकापारायणे ज्ञेयाः। पुनरपि प्रथमदिवसशिष्टघटिकाभिर्दशभिरकारादिलृकारान्तानि दशाक्षराणि समुद्यन्ति। दितीयदिवसे प्राग्वदर्कोदयादेकादशाक्षरमेकारमारभ्य शिष्टचत्वारिंशदक्षराणि चत्वारिंशद्घटिकाभिः समुद्यन्ति। पुनर्द्वितीयदिवसे शेषघटिकाभिर्विंशतिभिरकारादि ङकारान्तानि विंशत्यक्षराणि समुद्यन्ति। पुनस्तृतीयदिवसे तदनन्तरं
-
-
 
 **दिवसैः पञ्चभिस्तस्याः षड़ावृत्त्या उदीरिताः।  
 एवं युगादिमारभ्य कालात्मार्णैः प्रवर्त्तते॥१३॥**
@@ -3881,8 +3463,6 @@ OXFORD,
 
   योनावित्यादिभिरयोग्यतेत्यन्तैस्त्रिभिः श्लोकैर्घटिकाचक्रविरचनाक्रमं तत्र युगपर्य्यायदिवसघटिकाभेदतो विद्यालेखनक्रमं तच्चक्रे षोड़शनित्याचेनस्यावश्यकर्त्तव्यतां तदकरणे साधकस्यायोग्यताञ्चोपदिशति। तत्र योनौ स्वाभिमुखाग्रत्रिकोणमध्ये। त्रिकोणं स्वानभिमुखाग्रत्रिकोणं। तस्मिन् तन्मध्ये। योनिं प्राग्वत्। तेषु वाह्यावरणमध्यमावरणयोर्योनित्रिकोणरूपयोस्त्रिषु कोणेषु। पर्य्यायनित्यार्णवर्णान् अनन्तरवक्ष्यमाणसंख्यासु विद्यासु गतपर्य्यायसंख्याप्राप्तविद्यार्णत्रयं दिनप्राप्तविद्यार्णत्रयञ्च। वाह्यतः वाह्यावरणमारभ्येति शेषः। मध्ये मध्यस्थयोनिमध्ये। नित्यं प्रतिदिवसम्। उत्तमा नित्यनियमित्युक्त्या प्रतिदिवसमर्च्चनस्यावश्यकर्त्तव्यतामुपदिशति। पर्वपर्वणि उक्तेषु पर्वसु प्रतिपर्वेति यावत्। मासमात्रेण तेषु पर्वसु प्रतिमासमन्यतमस्मिन् पर्वणि। अत्र मध्यमाधमपक्षयोर्विधानं राष्ट्रक्षोभदुर्भिक्षव्याध्यादिकृच्छेष्वेव अयोग्यता द्वितीये पटले सहस्त्रमित्यादिना सप्ततितमश्लोकोत्तरार्द्धेनोक्तप्रायश्चित्तमकृत्वा नित्यभजनादिषु साधकस्येति शेषः। अयमत्र घठिकाचक्रविरचनाक्रमः। इष्टमानभ्रमेण वृत्तं निष्पाद्य तत्र प्राक् प्रत्यग्वह्मसूत्रमास्फाल्य तदर्द्धमानेन प्राग्व्रह्मसूत्राग्रवृत्तसन्धिमवष्टभ्यतद्वृत्तपार्श्वयोश्चिह्नयुगं कृत्वा तच्चिह्नद्वयगताग्रयुगं तिर्य्यक्सूत्रमास्फाल्य तद-
 
-
-
 **उत्तमा नित्यनित्यं हि मध्यमा पर्वपर्वणि।  
 अधमा मासमात्रेण मासादूर्द्धमयोग्यता॥१६॥**
 
@@ -3897,8 +3477,6 @@ OXFORD,
 ग्रद्वयादारभ्य ब्रह्मसूत्रपश्चिमाग्रावधि सूत्रद्वयं विन्यस्य योनिं निष्पाद्य तद्योनिवामदक्षिणपार्श्वरेखामध्यगताग्रद्वयां तिर्य्यग्रेखां कृत्वा तदग्रद्वयात्तद्योनेः तिर्य्यग्रेखामध्यान्तसूत्रद्वयविन्यासात्त्रिकोणं निष्पाद्य तत्त्रिकोणपार्श्वद्वयमध्य- गताग्रद्वयं तिर्य्यक् सूत्रं कृत्वा तदग्रद्वयादारभ्य तत्त्रिकोणतिर्य्यग्रेखामध्यान्तं सूत्रद्वयास्फालनेन मध्ययोनिं कृत्वा ब्रह्मसूत्रवृत्तञ्च मार्जयित्वा एवं घटिकाकालात्मकं चक्रं निष्पाद्य तत्र वाह्ययोनेरग्राद्यप्रादक्षिण्येन कोणत्रयेषु पूर्वोक्तविद्यागत पर्य्यायात्तत्तद्विद्याक्षरत्रयं विलिख्य तदन्तर्गतत्रिकोणकोणेषु पूर्वाग्राद्यप्रादक्षिण्येन नित्याविद्याक्षरत्रयं विलिख्य तदन्तर्गतयोनिमध्ये तत्तदुघटिकार्णेन प्रागुक्तप्रकारेण सहितं युगार्णं विलिख्य तत्र कालात्मके चक्रे नानाज्ञानं मनोमत्स्थंतद्विद्धिइत्येकादशाक्षरवाक्यजनितसंख्या (९४६७५०५००००) भेदाभिन्ने प्रोक्तकाले षोड़श नित्याः समर्च्चयेदिति॥१६॥
 
   पूर्णमण्डलेत्यादिना क्रमादित्यन्तेन श्लोकद्वयेन पूर्णमण्डलवर्णेष्वक्षरयोगविशेषप्रक्रियावशेन जातास्त्र्यक्षरास्त्रि- पुराविद्यास्तासामनुभावञ्चोपदिशति। तत्र पूर्णमण्डलवर्णाः अ आ इत्यादीनि क्षं क्षः इत्यन्तानि षट्सप्तत्यधिक पञ्चशतसंख्यान्यक्षराणि। प्रथमे प्रथमान्यक्षराणिं विद्यानामिति शेषः। वाग्भवत्वेन भवतीत्यर्थः। आदितः क्रमात् अकारादिक्रमतः षट्त्रिशत्तत्ववर्णाः प्रागुक्ता अकारादयः क्षान्तवर्णाः। तद्द्वितीया वर्णाः कामराजात्मकाः मरुता आकारेण कृतसन्धिका इति शेषः। तृतीया लिपिरिति शेषः। तासां विद्यानां तृतीया लिपिः सर्व्वतः वक्ष्यमाणसंख्याखासु विद्यासु वह्निः वह्निसंज्ञालिपिः इकारः तासां विद्यानां शक्तिवीजत्वेन स्थिता इत्यर्थः। एवं उक्तप्रकारेण त्रिपुराः संज्ञया स्वरूपेणेति शेषः। एतदुक्तं भवति अस्मिन् पटले
-
-
 
 **एताः पुस्तकमारोप्य पीठे संस्थाप्य पूजयेत्।  
 यत्र तत्र गदालक्ष्मीग्रहदुर्भिक्षशात्रवाः॥१९॥**
@@ -3916,8 +3494,6 @@ OXFORD,
   एता इत्यादिना नित्यश इत्यन्तेन श्लोकद्वयेन तासां त्रिपुराविद्यानां विनियोगं फलानि चोपदिशति। तत्र एता विद्याः। आरोप्य विलिख्य। पीठे पूजयेदित्यत्रान्वयः। संस्याप्य प्रतिष्ठां कृत्वा। शात्रवाः शत्रव इत्यर्थः। कृत्याद्या इत्यत्राद्यशब्दः हत्यादिविषयः। पुरादिके इत्यत्त्रादिशब्दो ग्रामपत्तननगरखेटखर्व्वटगृहादिविषयः। तस्य अर्च्चकस्य॥२०॥
 
   षट्त्रिंशदित्यादिना श्लोकेनोक्तविद्यानां संख्यां तदनुसन्धातुः फलं तेन तन्त्रेण पर्थ्यायनित्यादिकं चोपदिशति। तत्र तदाबृत्तिस्तासां विद्यानां वक्ष्यमाणक्रमेण परिवृत्तिः। तदाप्तिकृत् देव्यात्मत्वं करोति इति यावत्। अत्राद्युपस्करः सम्प्रदायार्थोनाथाज्ञया लिख्यते। आसां विद्यानां देव्यात्मकत्वात्तच्छव्देन विद्योच्यते। तस्माद्दिननित्यात्मकत्वेन तासामावृत्तिः तासां दिननित्यानामेकैकस्या एव विद्यायाः पर्य्यायात्मकत्वेन प्राप्तिं करोतीति यावत्। किञ्च तासां विद्यानां पर्य्यायात्मकत्वेनावृत्तिश्च। तासामेकैकस्या एव विद्यायाः पर्य्यायात्मकत्वेन च प्राप्तिं करोति। घटिकाचक्रादिषु पर्य्यायविद्यालेखनस्थानेष्वेव पर्य्याये पर्य्यायात्मिकां विद्यां तत्तत् पर्य्यायविद्यया सह विलिखेत्। युगान्तेषु यदा दिननित्यात्वेन विद्याद्वयं भवति तदा तद्द्वयं तत् स्थानेष्वेव लिखेत्॥२१॥
-
-
 
 **स्तम्भनाद्येषु तद्वर्णास्तद्रूपा हेतिवाहनैः।  
 एतद्ग्रन्थितजापेन मन्त्राः सिध्यन्ति वर्णिनः॥२२॥**
@@ -3937,16 +3513,12 @@ OXFORD,
 
    कृतादीनामित्यादिना सिद्धये इत्यन्तेन श्लोकद्वयेन कृतादिषु चतुर्युगेष्वहर्गनानामुक्तविद्याव्याप्तिक्रमं प्रयोगेषु तत्तद्दिनपूजावश्यकर्त्तव्यतां तत्फलानि चोपदिशति। तत्र एकैकशः एकैका विद्याः। तत्त्वरूपिण्यः प्रत्येकं तत्त्वाक्षराः। प्रत्येकमक्षरत्त्रयात्मकतया ज्ञातृज्ञानज्ञेयात्मकत्वाच्चाशेषविद्यानामिति शेषः। अन्ते युगानामिति शेषः। द्विशः प्रतिदिनं द्वे द्वे विद्ये। एतदुक्तं भवति कृतादिषु चतुर्युगेषु परिवृत्तितः प्रोक्तसंख्या विद्या एकैकस्य दिवसस्य यथाक्रममेकैका विद्या भवति। तत्तद्युगान्तेषु केषुचिद्दिनेषु प्रतिदिनं द्वे द्वे विद्ये भवतः।
 
-
-
 **प्रयोगेषु तु सर्व्वत्र तत्तद्दिनप्रपूजनम्।**  
 **विशेषतो विधातव्यं जयारोग्यादिसिद्धये॥२६॥**
 
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 तत् सर्व्वमालिख्यते। यथा कृतयुगे प्रोक्तक्रमेण सप्तत्रिंशदधिकचतुःशतोत्तरत्रिंशत्सहस्र (३०४३७) संख्येषु पर्य्यायेषु गतेषु अनन्तरपर्य्याये चतुःषष्ट्युत्तरद्विशताधिकनवसहस्रसंख्यासु (९२६४) दिननित्याविद्यासु गतासु अनन्तरं ताटाईइतिरूपिणीं विद्यामारभ्य तत्पर्य्यायशेषमनन्तरपर्य्यायञ्च प्रतिदिनं विद्याद्वयं द्वयं भवति। सम्भूय कृतयुगे पर्य्याया एकोनचत्वारिंशदधिकचतुःशतोत्तरत्रिंशत्सहस्त्रसंख्या (३०४३८) भवन्ति। त्रेतायुगे च प्रोक्तक्रमेणाष्टाविंशत्यधिकाष्टशतोत्तरद्वाविंशतिसहस्रसंख्येषु (२२८२८) पर्य्यायेषु गतेषु अनन्तरपर्य्याये अष्टचत्वारिंशदधिकनवशतोत्तरषट्सहस्रसंख्यासु (६९४८) दिननित्याविद्यासु गतासु अनन्तरं ठाथाई इतिरूपिणीं विद्यामारभ्य तत्पर्य्यायशेषं अनन्तरपर्य्यायशेषञ्च प्रतिदिनं विद्याद्वयं द्वयं भवति। सम्भूय त्रेतायुगपर्य्याया एकोनत्रिंशदधिकाष्टशतोत्तरद्वाविंशतिसहस्रसंख्या (२२८२८) भवन्ति। द्वापरयुगे च प्रोक्तक्रमेणाष्टदशोत्तरशतद्वयाधिकपञ्चदशसहस्रसंख्येषु (१५२१८) पर्य्यायेषु गतेषु अनन्तरपर्य्याये द्वाविंशदधिकषट्शतोत्तरचतुःसहस्रसंख्यासु (४६२२) दिननित्याविद्यासु गतासु अनन्तरं जडाई इति रूपिणीं विद्यामारभ्य तत्पर्य्यायशेषमनन्तरपर्य्यायश्च प्रतिदिनं द्वे द्वे विद्ये भवतः। सम्भूय द्वापरपर्य्याया विंशत्यधिकशतद्वयोत्तरपञ्चदशसहस्त्रपंख्या ( १५२२०) भवन्ति। कलियुगे च प्रोक्तक्रमेण नवाधिकषट्शतोत्तर सप्तसहस्रसंख्येषु (७६०८) पर्य्यायेषु गतेषु अनन्तरपर्य्याये षोड़शाधिकशतत्रयोत्तरसहस्रद्वयसंख्यासु (२३१६) दिननित्याविद्यासु गतासु अनन्तरं घढाई इति रूपिणीं दिननित्याविद्यामारभ्य तत्पर्य्यायशेषमनन्तरपर्य्यायञ्च प्रतिदिनं द्वे द्वे विद्ये भवतः। सम्भूय कलियुगे पर्य्याया दशोत्तरषट्शताधिकसप्तसहस्रसंख्या (७६१०) भवन्ति। सम्भूय चतुर्युगपर्य्यायाः साष्टनवतिषट्सप्ततिसहस्रसंख्या (७६०८८) भवन्तीति। युगानामन्ते प्रतिदिनं दिननित्याविदद्याद्वयभजनवासना पूज्यपादमुखादवगन्तव्या। युगदिनसंख्यापि ज्योतिःशास्त्रे सिद्धान्तशिरोमणौ द्रष्टव्या। “पञ्चाङ्गरामास्तिथयः स्ववह्नी सार्द्धद्बिदस्रार्कदिनाख्यमब्दैः”। अस्यार्थः एकस्मिन् सौरवत्सरे पञ्चषष्ट्यधिकशतत्रयं दिनानि (३६५) पञ्चशददण्डाः (१५) त्रिंशत्पलाः (३०) सार्द्धद्वा
-
-
 
 विंशतिर्विपलाः (२२।३०) भवन्तीति। तत्र द्वात्रिंशत्सहस्राधिकचतुर्लक्षवर्षसंख्ये (४३२०००) कलियुगे दिनसंख्यापञ्चषष्ट्यधिकशतत्रयदिनसम्बन्धीनि अशीतिसहस्राधिकषट्सप्ततिलक्षोत्तरपञ्चदशकोटिसंख्यानि (१५७६८००००) दिनानि भवन्ति कलियुगे पञ्चदशदण्डसम्बन्ध्यशीतिसहस्राधिकचतुःषष्टिलक्षदण्डसम्बन्धीनि अष्टसहस्राधिकलक्षसंख्यानि (१०८०००) दिनानि भवन्ति कलियुगे एव त्रिंशत्पलसम्बन्धिषष्टिसहस्राधिकोनत्रिंशल्ल- क्षोत्तरकोटिसंख्यपलसम्बन्धीनि षट्शताधिकसहस्रत्रयसंख्यानि (३६००) दिनानि भवन्ति कलियुगे सार्ध्दद्वाविंशतिविपलसम्बन्धि विंशतिसहस्राधिकसप्तनवतिलक्षसंख्य (९७२००००) विपलसम्बन्धीनि पञ्चचत्वारिंश(४५)द्दिनानि भवन्ति अत्र कलियुगे दिनसम्बन्धीनि दिनानि (१५७६८००००) दण्डसम्बन्धीनि दिनानि (१०८०००) पलसम्बन्धीनि दिनानि (२६००) विपलसम्बन्धीनि दिनानि पञ्चचत्वारिंश(४५)च्चैवं सम्भूय पञ्चचत्वारिंशदधिकषट्शतोत्तरैकनवतिसहस्राधिकसप्तसप्ततिलक्षोत्तरपञ्चदशकोटि संख्यानि (१५७७९१६४५) कलियुगदिनानि भवन्ति। ततः षट्त्रिंशदधिकसप्तशतोत्तरविंशतिसहस्रसंख्यानां (२०७३६) मन्त्राणां नवाधिकषट्शतोत्तरसप्तसहस्रावृत्तिभिः (७६०९) चतुर्विंशत्यधिकशतद्वयोत्तराशीतिसहस्राधिकसप्तसप्ततिलक्षोत्त- रपञ्चदशकोटिसंख्यानि (१५७७८०२२४) दिनानि भवन्ति तदनन्तरं दशमावृत्तौ अवशिष्टेषु एकविंशत्यधिकचतुःशतोत्तरैकादशसहस्रसंख्येषु (११४२१) दिनेषु षडुत्तरेकविंशतिशतसंख्येषु (२१०६) दिनेषु एकैका विद्या भवति। पञ्चदशाधिकशतत्रयोत्तरनवसहस्रसंख्येषु (९३१५) दिनेषु द्वे द्वे विद्ये भवतः। तेन दशमपर्य्यायपूर्त्तिरिति। द्वापरादि द्वैगुण्यादिना ऊहनीयमिति। अङ्कतो यथा ३१५५८३२९० द्वापरदिनानि ४७३३७४९३५ त्रेतायुगदिनानि ६२११६६५८० सत्ययुगदिनानि। अत्रैते संग्रहश्लोकाः—
 
@@ -3958,8 +3530,6 @@ OXFORD,
   नव (९) शून्या (०) ङ्ग (६) पाताल (७) पर्य्यायदिवसाः पुनः॥  
   वेद (४) द्वि (२) नेत्र (२) खा(०) ष्टा (८) श्व(७) मुनी (७) षु (५) शशि (१) संख्यया।  
   शिष्टेषु चन्द्र (१) नेत्रा (२) ब्धि (४) भू (१) भू (१) संख्या दिनेषु च॥
-
-
 
 **धातुक्षेत्रेशयोः पूजां कुर्य्यात्तत्तदवाप्तये।  
 तत्प्रकारः प्रयोगानां पटले साधु वक्ष्यते॥२७॥**
@@ -3986,8 +3556,6 @@ OXFORD,
 
   अथ यन्त्राणीन्यादिभिरन्यवदित्यन्तैर्नवभिः श्लोकैः षट्सप्तत्यधिकपञ्चशतपूर्णमण्डलाक्षरैस्तावत्संख्याता- नामव्दानां प्रत्यब्दमेकैकशस्तावत्संख्यातानि चक्राण्युपदिशति। तत्र प्रोक्तसंख्यानि षट्सप्तत्यधिकपञ्चशत- संख्यानीत्यर्थः।
 
-
-
 **द्वादशास्त्रं नवास्रं वा स्वरे चास्रं नवास्रकम्।  
 चतुरस्रमथ त्र्यस्रमिति भेदा नव क्रमात्॥३०॥**
 
@@ -4007,8 +3575,6 @@ OXFORD,
 
 वृत्तमित्यादिना श्लोकोत्तरार्द्धेन चक्रत्रयं द्वादशास्त्रमित्यर्द्धेनचक्रचतुष्टयं तत्र स्वरे षोड़शारे चक्र इत्यर्थः। चतुरस्रमित्यादिना श्लोकोत्तरार्द्धाद्यपादेन चक्रद्वयं। एतानि प्रोक्तानि नव चक्राणि। वर्णविन्यासभेदात् अस्मित् पठले अनुलोमेत्यादिना पञ्चत्रिंशेन श्लोकेन वक्ष्यमाणतस्वार्णविन्यासभेदेन। तेषु द्वासप्ततिभेदेषु। नित्यार्णभेदतः षोड़शस्वरविन्यासभेदेन। उक्तमसंख्याः षट्सप्तत्यधिकपञ्चशतसंख्याः। एतदुक्तं भवति प्रोक्तानां वृत्तादीनां अस्रान्तानां नवानां चक्राणां च वक्ष्यमाणप्रकारेण तत्त्वाक्षरनित्याक्षरविन्यासभेदात् प्रत्येकं चतुःषष्टिरूपत्वात् सम्भूय प्रोक्तसंख्या भवन्तीति। एतेषु नवसु चक्रेषु। बृत्तस्वबृत्तरूपस्य चक्रस्य। अन्यत् वृत्तेतरं चक्रं। उन्नयेत् अष्टारविन्यासतन्मानादिकं कुण्डपटले वक्ष्यमाणप्रकारेणोहयित्वा लिखेदित्यर्थः। षड़ङ्गुलपरिभ्रान्त्या प्रतिदिशमिति शेषः। वर्त्तयेत् भ्रमयेत् यदा सप्तदशाभुवन् वृत्तानीति शेषः। तच्चक्रान्तेषु पूर्णमण्डलसंख्येषु कोष्ठेषु। अर्णान् पूर्णमण्डलवर्णान्। आदितः अ आ इत्यादिक्रमतः क्षं क्ष इत्यन्तः। चक्रविरचनाक्रमो यथा—समे तले हंसपदं विधाय तत्सन्दंशस्थानमध्यभेदेन प्राक्प्रत्यग्व्रह्मसूत्रं कृत्वा तदवष्टम्भेन षड़ङ्गुलप्रमाणसुत्रभ्रमेण वृत्तं निष्पाद्य तद्बहिरेकैकाङ्गुलान्तरालं षोड़शवृत्तानि सम्भूय सप्तदशवृत्तानि विधाय एकोनत्रिंशत्पटले वक्ष्यमाणक्रमेण
 
-
-
 **अनुलोमविलोमौ च वाह्याभ्यन्तरसंपुटे।  
 वाह्याभ्यन्तःपरावृत्तौ तथा व्याकीर्णमित्यपि॥३५॥**
 
@@ -4018,8 +3584,6 @@ OXFORD,
 
   अनुलोमेत्यादिना श्लोकेन तेषु नवषु चक्रेषु वर्णविन्यासभेदक्रममुपदिशति। तत्र अनुलोमविलोमौ च चकारः समुच्चयार्थः। तेनैव स्वराणां विन्यासभेदा आकृष्यन्ते। वाह्याभ्यान्तरसंपुटौवाह्याभ्यन्तरार्द्धयोः स्थानभेदादन्योन्यसंपुटद्वयंवाह्याभ्यन्तरपराबृत्तौ प्राग्वदर्द्धद्वयस्य मध्यकोष्ठद्वयादुभयतः प्रतिलोमानुलोमेन द्विधा लेखनं। तथा वाह्याभ्यन्तरस्थानभेदतः। एतदुक्तं भवति प्रोक्तेषु नवसु चक्रेषु वाह्यात् कर्णिकावधि प्रत्येकं षोड़शकोष्ठात्मिका वीथयः षटत्रिंशत्सख्याः परितः सम्भवन्ति। ताश्च वीथयोऽनुलोमानुलोमात्मकेषु प्रतिचक्रमष्टस्वष्टसु भेदेष्वग्रादि प्रादक्षिण्येन तत्तत्तत्त्वाक्षराणां विलेस्वनवीथयो भवन्ति। तासु वीथीष्वग्रवीथीस्थकोष्ठषोड़शके वाह्यादाभ्यन्तरप्रवेशगत्या षोड़शस्वरान् विलिख्य प्रदक्षिणक्रमयोगात्तदनन्तर- वीथीगतकोष्ठषोड़शके ककारस्य षोड़शस्वरभित्ररूपाणि प्राग्वद्बिलिख्यैवं प्रदक्षिणक्रमेण वीथीषु स्वादिक्षान्तानामक्षराणां षोड़शस्वरयोजनेन भिन्नानि रूपाणि प्रतिवीथिकं षोड़शसु कोष्ठेषु प्राग्वद्विलिखेत्। अयमनुलोमानुलोमक्रमः। एतच्चक्रं पूर्णमण्डलाख्ययुगेषु प्रथमवत्सरात्मकं। अस्मिन् एवं चक्रे षटत्रिंशत्तत्वाक्षराणां प्रत्यक्षरं षोड़शस्वरभिन्नानि रूपाणि पूर्णानि। तत्तदनुलोमक्रमवीथिस्थिताद्येष्वेवाभ्यन्तरकोष्ठारम्भतो वाह्यकोष्ठान्तं विलेखनादनुलोमविलोमाख्यं तद्युगद्वितीयसम्वत्सरात्मकं चक्रम्। अस्मिन्नेव चक्रे तासु बीथीष्वेव षट्त्रिंशत् तत्त्वाक्षराणां प्रत्यक्षरं स्वरभिन्नेषु रूपेषु वाह्यकोष्ठादिषु क्रमादष्टसु कोष्ठेषु प्रवेशगत्याष्टौ रूपाण्यनुलोमतो लिखित्वा ततः सर्वाभ्यन्तरकोष्ठादिनिर्गमनगत्या शेषेष्वष्टसु च कोष्ठेषु शेषरूपाष्टकानि क्रमाद्वि-
 
-
-
 **कर्णिकायां मरुद्वह्निनाम्ना संलिख्य सर्ब्बतः।  
 योजयेद्वाह्यकोष्ठस्थैः प्रागुक्तविधिना क्रमात्॥३६॥**
 
@@ -4027,11 +3591,7 @@ OXFORD,
 
 लिखेत्। एतच्चक्रमनुलोमवााह्यसंपुटाख्यं प्रोक्तयुगतृतीयसम्बत्सरात्मकं चक्रं भवति। अस्मिन्नेव चक्रे तासु वीथीष्वेव तत्त्वाक्षराणां प्राग्वत् षोड़शसु रूपेषु आदितः क्रमादष्टौ रूपाणि सर्वाभ्यान्तरकोष्ठादिष्वष्टसु कोष्ठेषु निर्गमनगत्या च शेषरूपाष्टकं क्रमाद्वाह्यकोष्ठारम्भतः प्रवेशगत्या च लिखेत्। एतदनुलोमाभ्यान्तरसंपुटासंख्यं तद्युगचतुर्थवत्सरात्मकं चक्रम्। अस्मिन्नेव चक्रे तास्वेव वीथीसु प्रागुक्ताक्षराणां प्राग्वत् षोड़शसु रूपेषु आदितः क्रमादष्टौ रूपाणि अष्टमकोष्ठादिसर्व्ववाह्यकोष्ठान्तम् अष्टसु कोष्ठेषु निर्गमनगत्या च नवमकोष्ठादिसर्वाभ्यन्तरकोष्ठान्तमष्टसु कोष्ठेषु शेषरूपाष्टकं क्रमात् प्रवेशगत्या च विलिखेत्। एतदनुलोमवाह्यपराबृत्ताख्यं प्रोक्तयुगपञ्चमसंवत्सरात्मकं चक्रं भवति। अस्मिन्नेव चक्रे तास्वेव वीथीषु तत्त्वाक्षराणां तेषु षोड़शस्वररूपेषु आदितः क्रमादष्टौ रूपाणि नवमकोष्ठारम्भतः सर्वाभ्यन्तरकोष्ठान्तमष्टसु कोष्ठेषु प्रवेशगत्या चाष्टमकोष्ठादिसर्ववाह्यकोष्ठान्तं शिष्टेष्वष्टसु कोष्ठेषु निर्गमनगत्या शेषरूपाष्टकानि विलिखेत्। एतदनुलोमाभ्यन्तरपरावृत्ताख्यंतद्युगषष्ठसम्वत्सरात्मकं चक्रम्। अस्मिन्नेव चक्रे प्राग्वत्तत्त्वाक्षराणां षोड़शरूपाणि प्रतिवीथिकं षोड़शसु कोष्ठेषु प्रथमे षोड़शे द्वितीये पञ्चदशे तृतीये चतुर्दशे चतुर्थे त्रयोदशे पञ्चमे द्वादशे षष्ठे एकादशे सप्तमे दशमेऽष्टमे नवमे च कोष्ठे आदितः क्रमाद्विलिखेत्। एतदनुलोमवाह्यव्याकीर्णाख्यं प्रोक्तयुगसप्तमसंवत्सरात्मकंचक्रं भवति। अस्मिन्नेव चक्रे तास्वेव वीथीषु प्रोक्ततत्त्वाक्षराणां प्रोक्तानि रूपाणि प्रतिवीथि षोड़शसु कोष्ठेषु षोड़शे प्रथमे पञ्चदशे द्वितीये चतुर्द्दशे तृतीये त्रयोदशे चतुर्थे द्वादशे पञ्चमे एकादशे षष्ठे दशमे सप्तमे नवमे अष्टमे च कोष्ठे आदितः क्रमाद्विलिखेत्। एतदनुलोमाभ्यन्तरव्या- कीर्णाख्यंतद्युगाष्टमसम्बत्सरात्मकं चक्रं भवति। अस्मिन्नेव षट्त्रिं शदरसप्तदशवृत्तात्मके चक्रे प्रतिवीथिकं षोड़शकोष्ठामिकासु षट्त्रिंशत्सु वीथिषु अग्रवीथ्यांक्षकारस्य षोड़शस्वरभिन्नानि रूपाणि वाह्यकोष्ठारम्भादाभ्यन्तर- प्रवेशगत्या क्रमाद्विलिख्यप्रादक्षिण्यक्रमायाततदनन्तरवीथ्यादिषु पञ्चत्रिंशत्सु वीथिषु लृादीनां शेषतत्त्वाक्षराणां षोड़शस्वरभिन्नानि रूपाणि प्राग्वद्विलिखेत्। एतद्विलोमानुलोमाख्यं
 
-
-
 तद्युगनवमसम्वत्सरात्मकं चक्रं भवति। अस्मिन्नेव चक्रे प्रागुक्तप्रक्रियाभि स्तत्त्वाक्षराणां स्वरभिन्नानां रूपाणां क्रमाद्विलेखनतो विलोमविलोमाख्यं विलोमवाह्यसंपुटाख्यं विलोमाभ्यान्तरसंपुटाख्यं विलोमवाह्यपरावृत्ताख्यं विलोमाभ्यान्तरपरावृत्ताख्यं विलोमवाह्यव्याकीर्णाख्यं विलोमाभ्यान्तरव्याकीर्णाख्यंतद्युगदशमसम्बत्सरा- दिषोड़शसम्वत्सरात्मकं यथाक्रममेकैकवत्सरात्मकं चक्रं भवति। भूयोऽपि तस्मिन्नेव प्रागुक्तरूपे चक्रे अग्रवीथ्यां अकारस्य षोड़शरूपाणि वाह्यतोऽभ्यन्तरप्रवेशगत्या विलिख्य प्रदक्षिणक्रमायाततदनन्तरवीथ्यादिषु सप्तदशसु वीथीषु ककारादिथकारान्तानां सप्तदशाक्षराणां प्रत्यक्षरं षोड़शस्वरभिन्नानि रूपाणि प्रागवद्विलिख्यतत्तत्क्रमा- याततदनन्तरैकोनविंशवीथ्यादिषु शिष्टास्वष्टादशसु वीथिषु क्षकारादिदकारान्तानामष्टादशाक्षराणां प्राग्वत् स्वरभिन्नानि रूपाणि प्राग्वद्विलिखेत्। एतद्वाह्यसंपुटानुलोमाख्यंतद्युगसप्तदशवत्सरात्मकं चक्रं भवति। अस्मिन्नेव चक्रे तेषां तत्त्वाक्षराणां प्राग्वत् षोड़शस्वरसहितानां रूपाणां प्रागुक्तप्रक्रियाभिर्विलेखनतो वाह्यसंपुटविलोमाख्याम् वाह्यसंपुटबाह्यसंपुटाख्याम् बाह्यसंपुटाभ्यान्तरसंपुटाख्याम् वाह्यसंपुटवाह्यपरावृत्ताख्यम् वाह्यसंपुटाभान्तरपरा- वृत्ताखाम् वाह्यसंपुटवाह्यव्याकीर्णाख्यम् वाह्यसंपुटाभ्यन्तरव्याकीर्णाख्यञ्च तद्युगाष्टादशवत्सरादि चतुर्विंशवत्सरान्तमेकैकवत्सरात्मकं चक्रं भवति। अस्मिन्नेव चक्रेप्रोक्तरूपेऽग्रवीथ्यां दकारस्य प्राग्वत् षोड़शरूपाणि प्राग्वद्वाह्यादभ्यन्तरप्रवेशगत्या विलिख्यप्रदक्षिणक्रमायाततदनन्तरवीथ्यादिषु सप्तदशसु वीथिषु धकारादीनां क्षकारान्तानां सप्तदशाक्षराणां प्रत्यक्षरं षोड़शस्वरभिन्नानि रूपाणि प्राग्वद्विलिख्यतत्तत्क्र- मायाततदनन्तरैकोनविंशवीथ्यादिषु अष्टादशसु वीथिषु थकारादीनामकारान्तानामष्टादशाक्षराणां प्राग्वत् स्वरभिन्नानि रूपाणि प्रोक्तक्रमात् विलिखेत्। संपुटाखाम् एतदाभ्यान्तरसंपुटानुलोमाख्यम् तद्युगपञ्चविंशवत्सरात्मकं चक्रं भवति। अस्मिन्नेव चक्रे तत्त्वाक्षराणां प्राग्वत् षोड़शस्वरभिन्नानां रूपाणां प्रागुक्तप्रक्रियाभिर्विलेखनादाभ्यन्तरसंपुटविलोमाख्यम् आभ्यान्तरसंपुटवाह्यसंपुटाख्यंआभ्यन्तरसंपुटाभ्य- न्तरसंपुटाख्यमाभ्यन्तरसं पुटवाह्यपरावृत्ताख्यमाभ्यन्तरसंपुटाभ्यन्तरपरावृत्ताख्यमाभ्य्यन्तर-संपुटवाह्य-व्याकीर्णाख्यमाभ्यन्तरसंपुटाभ्यन्तरव्याकीर्णाख्यम् च तदुयुगषड्विंशवत्सरादिद्वात्रिं शवत्सरान्तमेकैकवत्सरात्मकं चक्रं भवति। भूयोऽपि तस्मिन्नेव प्रोक्तरूपे चक्रेऽग्रवीथ्यां थकारस्य प्राग्वत् षोड़शरूपाणि वाह्यादभ्यन्तरप्रवेशगत्या विलिख्य
-
-
 
 **अन्येषामरविन्यासः षट्त्रिंशत् समुदीरितः।  
 अष्टास्त्रे षोड़शाराः स्युः षट्विंशद्वृत्तमन्यवत्॥३७॥**
@@ -4040,11 +3600,7 @@ OXFORD,
 
 प्रदक्षिणक्रमायाततदनन्तरवीथ्यादिषु सप्तदशसु वीथीषु तकारादीनामकारान्तानां सप्तदशाक्षराणां प्राग्वत् षोड़शरूपाणि प्राग्वद्विलिख्यतत्क्रमायाततदनन्तरै-कोनविंशवीथ्यादिषु अष्टादशसु वीथिषु दकारादीनां क्षकारान्तानां प्राग्वत् षोड़शरूपाणि विलिखेत्। एतद्वाह्यपरावृत्तानुलोमाख्यं तद्युगत्रयस्त्रिंशद्वत्सरात्मकं चक्रं भवति। अस्मिन्नेव चक्रे तेषां तत्त्वाक्षराणां प्राग्वत् षोड़श रूपाणां प्रागुक्तप्रक्रियाभिर्विलेखनतो वाह्यपरावृत्तविलोमाख्यं वाह्यपरावृत्तवाह्यसंपुटाख्यं वाह्यपरावृत्ताभ्यन्तरसंपुटाख्यं वाह्यपरावृत्तवाह्यपरावृत्ताख्यं वाह्यपरावृत्ताभ्यन्तरपरावृत्ताख्यं वाह्यपरावृत्ताभ्यन्तरव्याकीर्णाख्यम् च वाह्यपरावृत्तवाह्यव्याकीर्णाख्यं वाह्यपरावृत्ताभ्यन्तरव्याकीर्णाख्यं च तद्पुगचतुस्त्रिंशवत्रादिचत्वारिंश (४०)-वत्सरान्तं यथाक्रममेकैकवत्सरात्मकं चक्रं भवति। पुनश्च तस्मिन्नेव चक्रेऽग्रवीथ्यां क्षकारस्य प्राग्वत् षोड़शरूपाणि वाह्यादाभ्यन्तरप्रवेशगत्या विलिख्य प्रदक्षिणक्रमायाततदनन्तरवीथ्यादिषु सप्तदशसु वीथिषु लृकारादीनां दकारान्तनां सप्तदशानामक्षराणां प्राग्वत् षोड़शरूपाणि प्राग्वद्विलिख्य तत्क्रमायात तदनन्तरैकोनविंशवीथ्यादिषु अष्टादशसु वीथिषु अकखादीनां थकारान्तानामष्टादशाक्षराणां प्राग्वत् षोड़शरूपाणि विलिखेत्। एतदाभ्यन्तरपरावृत्तानुलोमाख्य- मेकचत्वारिंशद्वत्सरात्मकं चक्रं भवति। अस्मिन्नेव चक्रे तेषां तत्त्वाक्षराणां प्राग्वत् षोड़शरूपाणां प्रागुक्तप्रक्रियाभिर्विलेखनादाभ्यन्तरपरावृत्तविलोमाख्यं आभ्यन्तरपरावृत्तवाह्यसं पुटाख्यमाभ्यन्तरपरावृत्ताख्यमाभ्य- न्तरसंपुटाख्यमाभ्यन्तरपराबृत्तवाह्यपराबृत्ताख्यम् आभ्यन्तरपरावृत्तावाह्यव्याकीर्णाख्यमाभ्यन्तरपरावृत्ताभ्यन्तर- व्याकीर्णाख्यं च तद्युगद्विचत्वारिंशवत्सराद्यष्टचत्वारिंश वत्सरान्तमेकैकवत्सरात्मकं चक्रं भवति। पुनरपि तस्मिन्नेव चक्रेऽग्रवीथ्यां प्राग्वत् अकारस्य षोड़शरूपाणि वाह्यादभ्यन्तरप्रवेशगत्या विलिख्य प्रदक्षिणक्रमायाततदनन्तरवीथ्यादिषु पञ्चत्रिंशत्सु यथाक्रमं क्षकलख हगसघ षङ शच वछ लज रझ यञ मट भठ बड फढपण नत धथ दइत्येषां अक्षराणां पञ्चत्रिंशानां प्रत्यक्षरं प्राग्वत् स्वरभिन्नानि रूपाणि प्रागवद्विलिखेत्। एतद्वाह्यव्याकीर्णानुलोमाख्यं तद्युगैकोनपञ्चाशद्वत्सरात्मकं चक्रं भवति। अस्मि-
 
-
-
 न्नेव चक्रे तेषां तत्त्वाक्षराणां षोड़शस्वरभिन्नानां रूपाणां प्रागुक्तप्रक्रियाभिर्विलेखनतो वाह्यव्याकीर्णविलोमाख्यं वाह्मव्याकीर्णवाह्यसंपुटाख्यं वाह्यव्याकीर्णाभ्यन्तरसंपुटाख्यं वाह्यव्याकीर्णवाह्यपरावृत्ताख्यं वाह्यव्याकीर्णाभ्यन्तरपरावृत्ताख्यं वाह्यव्याकीर्णवाह्यव्याकीर्णाख्यं बाह्यव्याकीर्णाभ्यन्तरव्याकीर्णाख्यं च तद्युगपञ्चाशद्वत्सरादिषट्पञ्चाशद्वत्सरान्तं यथाक्रममेकैकवत्सरात्मकं चक्रं भवति। पुनरपि तस्मिन्नेव चक्रेऽग्रवीथ्यां वाह्यादभ्यन्तरप्रवेशगत्या क्षकारस्य षोड़शरूपाणि विलिख्य प्रदक्षिणक्रमायाततदनन्तरवीथ्यादिषु पञ्चत्रिंशत्सु वीथिषु यथाक्रमं अलृकहखसगषघशङझअवमचभटवलफडटपनणधतछवठ ? इत्येषामक्षराणां पञ्चत्रिंशतां प्रत्यक्षरं षोड़शरूपाणि प्राग्वद्विलिखेत्। एतदाभ्यन्तरव्याकीर्णानुलोमाख्यं तद्युगसप्तपञ्चाशद्वसत्सरात्मकं चक्रं भवति। अस्मिन्नेव चक्रे तेषां तत्त्वाक्षराणां प्राग्वत् षोड़शस्वरभिन्नानां रूपाणां प्रागुक्तप्रक्रियाभिर्विलेखनादाभ्यन्तरविलोमाख्यम् आभ्यान्तरव्याकीर्णवाह्यसंपुटाख्यम् आभ्यन्तरव्याकीर्णाभ्यन्तर- संपुटाख्यम् आभ्यन्तरव्याकीर्णंवाह्यपरावृत्ताख्यम् आभ्यन्तरव्याकीर्णाभ्यन्तरपरावृत्ताख्यम् आभ्यन्तरव्याकीर्ण- वाह्यव्याकीर्णाख्यम् आभ्यन्तरव्याकीर्णाभ्यन्तरव्याकीर्णाख्यम् एवं च तद्युगाष्टपञ्चाशद्वत्सरादिचतुःषष्टितमवत्सरान्तं यथाक्रममेकैकवत्सरात्मकं चक्रं भवति। एवं सम्भूय तस्मिन्नेव वृत्तात्मके चक्रे तद्युगप्रथमचतुःषष्टिवत्सरात्मकानि चतुःषष्टिचक्राणि भवन्ति। एवं षट्त्रिंशदस्रादीनां त्र्यस्रान्तानां अष्टानां चक्राणां प्रोक्तप्रकारलेखनभेदैः प्रतिचक्रं यथाक्रमं तय्गुचतुःषष्टिवत्सरात्मकान्येवं सम्भूय पूर्णमण्डलाख्यतद्युगवत्सरात्मकानि षट्सप्तत्यधिकपञ्चशत- संख्यानि चक्राणि भवन्ति। तत्राष्टास्रचक्रे तु षोड़शसु वीथिषु प्रतिवीथिकं षट्त्रिंशत् कोष्ठात्मिकासु अग्रवीथ्यां बाह्यादाभ्यन्तरप्रवेशगत्या अकखादीनां क्षन्तानां षट्त्रिंशत्तत्त्वात्मकानामक्षरणां प्रत्यक्षरं षोड़शस्वरूपेष्वाद्यस्वरभिन्नानि रूपाणि विलिख्य प्रदक्षिणक्रमायाततदनन्तरवीथ्यादिषु पञ्चदशसु वीथिषु शेषपञ्चदशस्वरभिन्नानि तेषां रूपाणि षट्त्रिंशत्संख्यानि प्रागुक्तक्रमप्रवेशगत्या विलिखेत्। एतदष्टास्रे चक्रे प्रथमं चक्रंभवति। एवं व्यञ्जनाक्षरस्वराक्षरविलेखनस्थानविनिमयेन पूर्वोक्तप्रकारभेदैरेवावशिष्टानि त्रिषष्टिचक्राणि परिकल्पयेदिति। कर्णिकायां प्रोक्तानां पूर्णमण्डलचक्राणामिति शेषः। मरुद्वह्नी आकारइकारावकृतसन्धिकाविति शेषः। नाम्ना सहितं साधकसाध्यकर्म्मणामिति शेषः। तल्लिखनन्तु इकारस्योदरे प्राग्वत्त्रिपंक्तिकं लिखेदिति सम्प्र-
-
-
 
 **एतत् पटे समालिख्य वहिरष्टच्छदाम्बुजम्।  
 कृत्वा दलेषु क्रमशो वाग्देव्यष्टकमालिखेत्॥३८॥**
@@ -4060,8 +3616,6 @@ OXFORD,
 दायार्थः। सर्वतः सर्वचक्रसर्ववीथिषु योजयेत्। मरुद्वह्नी इत्यन्वयः वाह्यकोष्ठस्थैः षट्त्रिंशत्तत्त्वाक्षरैरिति शेषः। प्रागुक्तविधिना क्रमात् प्रोक्तचतुःषष्टिभेदविधिना अग्रादिप्रादक्षिण्यक्रमात्। एतदुक्तं भवति प्रोक्तेषु चक्रेषु कर्णिकामध्ये साधकादिसहितम् आ ई इत्यक्षरद्वयम् कृतसन्धिकं विलिख्य तत्तच्चक्राग्रवीथिवाह्यकोष्ठस्थाक्षरादिभिः सर्ववीथिवाह्यकोष्ठस्थैरक्षरेः प्रागुक्तचतुःषष्टिभेदभिन्नैः कर्णिकागताक्षरद्वयं क्रमादयोजयेदिति। अष्टास्रे तु अग्रवीथिकोष्ठानि वाह्यानि कल्पयेदित्यानुश्रविकोऽर्थः। अन्यवत् यथा अन्य चक्रेषु चतुःषष्टिभेदभिन्नाः पारायणमन्त्रयोजनक्रमस्तथेत्यर्थः। अस्मिन् चक्रेषु श्लोके अन्यत् सर्वं पूर्वमेवास्माभिर्व्याख्यातम्॥३७॥
 
   एतदित्यादिभिः कुल इत्यन्तैस्त्रिभिः श्लोकैस्तेषां प्रोक्तानां चक्राणां साधारणं शेषरूपं तद्विनियोगांस्तत्फलानि चोपदिशति। तत्र एतदिति प्रति चक्रविषयं। वहिस्तच्चक्राणां प्रत्येकं प्रोक्तरूपाद्विहिरित्यर्थः। अष्टच्छदाम्बुजं अष्टपत्रमम्बुजमिति यावत्। अम्बुजमित्युक्त्या तदम्बुजस्य कर्णिकामध्ये प्रोक्तचक्राणां विनिर्माणात्तच्चक्रवाह्ये कर्णिकार्यमेकवृत्तं विलिख्य तद्वहिरष्टपत्राणि विलिखेदित्यर्थः। क्रमशःअग्रादिप्रादक्षिण्यक्रमतः। वाग्देव्यष्टकं वशिन्यादीनां मन्त्राष्टकं प्रोक्तरूपं विलिखेदिति पूर्वत्रान्वयः। ललितार्चनायामिति शेषः। वीजद्वयतत्तद्वर्गवीजनाम सप्ताक्षरीयुक्तमित्यर्थः। तस्य इति प्राग्वत् प्रतिचक्रविषयः। ईरितं द्वितीयपटल इति शेषः। एतदुक्तं भवति प्रतिष्ठायां द्वितीये पटले प्रोक्तरूपे प्रोक्तचक्रेषु सर्वमध्ये कर्णिकामध्ये देवतामावाह्य गन्धादिभिरभ्यर्व्य देवतापृष्ठभागे श्रीनाथशक्तीःप्रोक्तप्रक्रियया पञ्चदश नित्याश्च समभ्यर्च्य परितो हेतीश्च वहिर्वशिन्यादीः समभ्यर्च्य षट्त्रिंशदधिक-
-
-
 
 **वर्णौ षधिक्वाथजलैरापूर्य्य कलशं महत्।  
 तत्र देवीं समावाह्य संपूज्य विधिवन्निशि॥४१॥**
@@ -4082,10 +3636,7 @@ OXFORD,
 
 सप्तशतोत्तरविंशतिसहस्रसंख्यान् (२०७३६) मन्त्रांस्तच्चक्रोद्धृतक्रमादर्चयेदिति। नित्यं प्रतिदिवसं एतदनुलोमादिमङ्गलप्रदचक्रविषयम्। इतरेषां चक्राणां तत्तत्कार्य्यकाले प्रतिष्ठार्चनादि कृत्वा तत्कार्य्यपरिसमाप्तौ देवतां सपरिवारामुद्वास्य पटगतं तच्चक्रं मार्जयित्वा प्रोक्तप्रायश्चित्तादि कुर्य्यात्। पुस्तकपूजोक्तसिद्धये पूर्वोक्तपुस्तकलेखनपूजाफलसिद्धये। उभयं मातृकाचक्रार्चनं पुस्तकार्च्चनञ्च॥४०॥
 
- 
 वर्णोषधीत्यादिभिराप्नुयादित्यन्तैरष्टभिःश्लोकैस्ताभिर्विद्यादिभिरभिषेकप्रकारं तत्फलावाप्तिञ्चोपदिशति। तत्र वर्णोषधिक्वाथजलैः पञ्चत्रिंशे पटले वक्ष्यमाणाचरौषधिक्वथितजलैः। महत् खारीमानतोयपूरणीयम्। तत्र जले विधिवत् पूर्वोक्तचक्रविधानप्रक्रियया। निशि पूर्व्वेद्युरिति शेषः। नित्यानां तत्त्वविद्याःस्वराणां षट्त्रिंशत्तत्त्वाक्षरयोगजातविद्याः। आसने संस्थाप्येत्युत्तरत्नान्वयः। शक्त्या देवतात्वेन वृतया योषिता सहेति शेषः। तं शिष्यं। जन्मानुजम्मादि पौर्णमासीषु आदिशब्दो विषुवायनयुगादिविशेषदिवसविषयः। पौर्णमासीशब्दः शेषपर्वविषयः। कर्षः निष्कत्रयं। मुद्रिकां अङ्गुलीयकं। दक्षिणां अभिषेक्तुरिति शेषः। एवं प्रोक्तप्रकारेण। निरन्तरं उक्तकालानतिलङ्घनेन। वर्षं अत्यन्तसंयोगे
-
-
 
 **चतुर्व्वर्षाभिषेकेण खेचरीमेलनं भवेत्।  
 पञ्चवर्षाभिषेकेण पञ्चत्वं नाधिगच्छति॥४६॥**
@@ -4108,8 +3659,6 @@ OXFORD,
 
   जयायेत्यादिभिः सम्प्रदायत इत्यन्तैः पञ्चभिः श्लोकैश्चतुर्विधोपास्तिभेदेनफलावाप्तिं प्रपञ्चस्य तत्तच्चक्ररूपत्वं तज् ज्ञानसिद्धौ सर्वाणि फलानीष्टानि सिध्यन्तीति चोपदिशति। तत्र विद्याः प्रोक्तसंख्याःकालनित्याः। षट्त्रिंशत् एकपञ्चाशदिति तासामावृत्तिविशेषणं। वा विकल्पे। साधु अनन्यगतचित्तं यथा तेन साधनेन सर्वान् सहजप्राकृतकृत्तिमान् एधते दीप्यते यथा इवेत्यर्थः। अस्मिन् प्रकरणे तथाशब्दः पूर्वोक्तप्रकारजपादिविषयः। सर्वेषु भौमान्तरोक्षदिव्येषु। रोगादीत्यत्रादिशब्दो भूतवेतालप्रेतपिशाचापस्मारादिविषयः। कृत्यानिवारणे परोत्थापितकृत्याप्रतिनिवर्त्तने। कृत्यासमुत्पत्तौ स्वात्मरक्षार्थमिति शेषः। इत्यमिति प्रोक्तविषयः। एतच्चकारमास्थाय ग्रहर्क्षादि प्रवर्त्तते आदिशब्दो राश्यादिविषयः। एतदुक्तं भवति ज्योतिश्चकं प्रत्येकतत्तद्रेक्काणात्मकद्वादशराशिमयं भवति तेन तत्तच्चक्राणि च प्रत्येकमारत्रयात्मकद्वादशराशिमयानि भवन्ति। तस्माद् यथा द्वादशराश्यात्मके ज्योतिश्चक्रे ग्रहर्क्षादि काले काले प्रवर्त्तते तथा
 
-
-
 **तथा वाञ्छितसिद्ध्यर्थं तथा कृत्यानिवारणे।  
 तथा कृत्यासमुत्पत्तावित्थं सर्व्वार्थसिद्धिदम्॥५१॥**
 
@@ -4131,8 +3680,6 @@ OXFORD,
 
   कालप्राप्तेत्यादिना आवहेदित्यन्तेन श्लोकद्वयेन तासां विद्यानां चन्द्रक्षयवृद्धिकालभेदेन भजनविशेषं तदवश्यकर्त्तव्यतां तदकरणे प्रत्यवायञ्चोपदिशति। तत्र कालप्राप्तक्रमं प्रागुक्तसम्बत्सरचक्रदर्शितानुलोमानुलोमादिप्रकारभेदेषु तत्तत्सम्बत्सरप्राप्तप्रकारभेदक्रमं। अन्यक्रमं तत्तत्कर्मोक्तं केवलोक्तं क्रमं। तत्तत्कालप्राप्तक्रमवर्जतत्तत्कर्मानुगुणक्रमं। एतदुक्तं भवति कृष्णपक्षे काम्यकर्म्मारम्भे नित्योपासनारम्भे च तत्तत्संवत्सरात्मकचक्रप्रदर्शितक्रमं पूर्व्वमावर्त्त्य पश्चात्तत्तत्कर्म्मेक्तक्रमं भजेत्। शुक्लपक्षे तु तत्तत्कर्म्मप्राप्तक्रममेव भजेदिति। अयं कृष्णपक्षशुक्लपक्षभेदःप्रदर्शितः। अमुं पक्षभेदप्रदर्शितं क्रमं। विधातव्यं नित्यकर्म्म काम्यकर्म्म वेति शेषः। अन्यथा तत्प्रकाराकरणे॥५५॥
 
-
-
 **कृत्योत्पत्तौ शत्रुभङ्गे निग्रहे प्रतिलोमकम्।  
 कालेन प्राप्तमन्यत्र सर्वत्र समुदीरितम्॥५६॥**
 
@@ -4153,8 +3700,6 @@ OXFORD,
   कृत्योत्पत्तावित्यादिभिर्यजेदित्यन्तैस्त्रिभिः श्लोकैः प्रतिलोमानुलोमजेषु कृत्योत्पत्तिशत्रुभङ्गादिरूपाणि फलानि तद्विधानप्रायञ्चित्तञ्चोपदिशति। तत्र कालेन प्राप्तं प्रतिलोमाद्यमङ्गलयोग्यानि अनुलोमादिमङ्गलयोग्यानि च सर्व्वत्र सर्व्वकर्म्मसु वक्ष्वमाणेषु। एतदुक्तं भवति कृत्योत्पत्त्याद्यमङ्गलप्रद प्रतिलोमादिकक्रमभजनतो मङ्गलेषु कर्म्मसु क्रियमाणेषु तत्तत् कालप्राप्तक्रम इत्यवश्यकर्त्तव्यतया भजनात्तत्तदमङ्गलप्रदो न भवति। एवमनुलोमादिकमङ्गल फलप्रदक्रमभजनतः अमङ्गलकर्म्मसु क्रियमाणेषु कालप्राप्तक्रमभजनावश्यकर्त्तव्यतया भजनात्तत्तदमङ्गलफलविनाशको न भवति। संपुटद्वितयं स्वरव्यज्जनयोर्वाह्यभ्यन्तरभेदतः। परावृत्तौ प्राग्वद्भेदतः चकारः प्रागुक्तपरावृत्तक्रमद्वयसमुच्चयार्थः। समीरितः परावृत्तक्रमद्वितयक्रम इति शेषः। व्याकीर्णः प्राग्वद्भेदतः। तेषु प्रोक्तेष्वमङ्गलेषु परप्रयुक्तेष्वपि क्रमं अनुलोमात्मकं नित्यभजनक्रमं एतेष्वनुलोमादिष्वष्टसु भेदेषु स्वरव्यञ्जनयोरेकप्रकारं अनुलोमानुलोमादिको भेदः। तत्तत्कर्म्मसु शीघ्रफलप्रदो निश्चितममोघश्च भवति। एतस्मिन् पटले उत्तरत्र सर्वव्याकीर्णेत्यादिना व्याकीर्णव्याकोर्णचक्रस्यामोघत्वप्रतिपादनात् सम्प्रदायाच्च॥५८॥
 
   एतदित्यादिना तपोवनमित्यन्तेन श्लोकद्वयेन एतासु विद्यासु निष्णातस्य
-
-
 
 **श्मशाने पर्वते शून्ये विपिने क्षुद्रपीड़ने।  
 प्रतिष्ठिते यन्त्रराजे तत् स्याज्जनपदं महत्॥६१॥**
@@ -4178,8 +3723,6 @@ OXFORD,
 
   शिलायामित्यादिभिः सिद्धिदायकमित्यन्तैः पञ्चभिः श्लोकैर्ग्रामादिषु रक्षार्थंतच्चक्रस्थापनविधानं तच्चक्रस्थापनेन सर्व्वदेवतासान्निध्यसिद्ध्यादिकञ्चोपदिशति। तत्र वा वकल्पे। विलिख्य अमुलोमानुलोमाख्यचक्रमिति शेषः। निखनेत् अस्मिन् पटले ग्रामादीत्यादिपञ्चषष्टितमश्लोकादिभिस्त्रिभिः श्लोकैर्वक्ष्यमाण प्रकारेण रक्षार्थमिति शेषः। पुरादिष्वित्यत्रादिशब्दो नगरखर्वटपत्तनादिविषयः। तत्र देवालये। चक्रं अनुलोमानुलोमात्मकं मातृकाचक्रमित्यर्थः। संस्थाप्य देवतास्थापनस्थाने एकस्मिन्नेव वक्ष्यमाणप्रकारेण तस्य चक्रस्य कर्णिकामध्यगे स्थान इति शेषः। वेरं अभीष्टदेवतायाः कुर्य्यात् प्रतिष्ठापयेदित्यर्थः। सान्निध्य-
 
-
-
 ग्रामादिरक्षणे तत्र मध्ये चाष्टसु दिक्ष्वपि।  
 खात्वावटं पुनस्तेषु पाषाणैर्घटितं दृढ़म्॥६५॥
 
@@ -4192,8 +3735,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 सिद्धये देवताया इति शेषः। एतदुक्तं भवति प्रोक्तेषु वास्तुष्वभोष्टदेशे अभीष्टदेवतालयं कृत्वा तत्र देवतास्थापनस्थानमध्ये एकमवटं खात्वा तं वक्ष्वमाणप्रकारेण शिलाभिरावध्य तत्र प्रोक्तमनुलोमानुलोमात्मकचक्रं शिलादिषूक्तेष्वधि करणेषूत्कीर्ण प्राग्वत् कृतप्राणप्रतिष्ठादिकं संस्थाप्याभ्यर्च्य तत्पाषाणेनाच्छाद्य तत्र कर्णिकामध्यस्थानोपरि तत्तद्देवतावेरप्रतिष्ठापनात् तस्मिन् वेरे तत्तद्देवतासान्निध्यसिद्धिरिति। ग्रामादिरक्षणे पूर्व्वप्रस्तुते आदिशब्दः प्राग्वत्। तत्र तस्मिन्। (तस्मिन्) मध्ये सर्व्वमध्ये अवटं गर्त्तम्। मध्ये च प्रतिदिशञ्चेति शेषः। तेषु अवटेषु घटितं तत्तदन्तस्थले इति शेषः। समावाह्य प्रोक्तचक्रकर्णिकामध्ये अभीष्टनित्यामिति शेषः। अभिपूज्य तन्नित्यार्चनक्रमेण तच्चक्रगतविद्याक्रमेण चेत्यर्थः। अन्तः शिलाघटितावटानामिति शेषः। स्थापयेत् प्रतिष्ठितं चक्रं मूलविद्याया अभीष्टनित्यायाः तत् अवटगतं चक्रं पीठं शिलादिभिर्घटितं धिष्ट्याकारं। उपरि आच्छादिततलोपरि। स्थिरं शिलादिभिर्घटितत्वात्। पूजयेत्तस्मिन् धिष्ट्ये चक्रसमावाहितां नित्यां। एवं उक्तप्रकारं गन्धादिभिः। अन्यथा प्रोक्तप्रक्रियाव्यतिरेकेण। एतदुक्तं भवति ग्रामपुरनगरखेटखर्वटपत्तनादिवास्तुरक्षणे तस्मिंस्तस्मिन् वास्तुप्रदेशे सर्व्वमध्येऽष्टसु दिक्ष्वपि एवं नवसु स्थानेसु नवावटान् खात्वा तेषामन्तःस्थलानि पाषाणैरावध्य प्रोक्ताधिकरणेष्वन्यतमे रूपे अधिकरणनवके उभयानुलोमात्मकं उभयसम्पुटं वा चक्रनवकमुत्कीर्य्य कृतप्राणप्रतिष्ठादिके तस्मिन् अभीष्टां नित्यामावाह्य तत्तन्नित्याक्रमेणाभ्यर्च्च तत्तत् चक्रभेदादिभिः कालनित्याभिश्चाभ्यर्च्य एवं दिनत्रयादहीनं सम्पूज्य तत्तच्चक्रनवकमेकमेकमेकस्मिन्नेकस्मिन्नवटे संस्थाप्यावटोपरि तच्छिलाभिराच्छाद्य तत्तलोपरि शिलादिभिर्दृढ़तराणि पीठरूपाणि नव
-
-
 
 **तत्कालोक्तानि कुण्डानि नव होमेषु सर्वतः।  
 होतृृणां दक्षिणा वस्त्रभूभूषादासगोधनैः॥६८॥**
@@ -4221,8 +3762,6 @@ OXFORD,
 
   पञ्चाशदित्यादिभिरवाप्नुयादित्यन्तैरध्यर्ध्दैः सप्तभिः श्लोकैस्तासां विद्यानां
 
-
-
 **अध्यर्ध्दशतवारन्तु विद्या आवर्त्त्य भक्तितः।  
 गुणरूपादिसम्पन्नां भार्य्यां विन्दन्त्ययत्नतः॥७३॥**
 
@@ -4245,8 +3784,6 @@ OXFORD,
 
 पञ्चाशद्वारादिनवशतवारान्तमावृत्त्याधिक्येन फलाधिक्यमुपदिशति। तत्र विद्या इति पदच्छेदः। कृच्छ्रेर्व्यसनैः। विद्याः प्राग्वद्बिबिधवैभवाः फलवैबिध्यात्। अध्यर्द्धं शतवारं पञ्चाशदुत्तरशतवारमित्यर्थः। गुणरूपादीत्यत्रादिशब्देनाभिजनादि प्रोच्यते। विन्दन्ति लभन्ते साधका इति शेषः। तावत् पञ्चाशदुत्तरं शतवारं। कन्या इति प्रथमावहुवचनम्। वा समुच्चये। एधन्ते वर्द्धन्ते। सम्पदन्विता इत्येतत् कन्या इत्यस्य विशेषणं। ताःविद्याः। दारिद्य्रादकिञ्चनत्वादसन्तोषादित्यर्थः। त्रिशतैर्वारैः। चतुर्भिस्तु शतैश्चतुर्भिःशतैरित्यन्वयः। तुः ममुच्चये प्राग्वत् शेषः। पञ्चभिस्तु शतैःप्राग्वदन्वयशेषावित्यर्थः। भूपः भूमीशःषट्शतैः प्राग्वत् शेषः। नृपः दासदासीभृत्यादिभिराट्यः। तुः प्राग्वत् शेषश्च। अस्य साधकस्य। तुः प्राग्वत् शेषश्च। आसां विद्यानां। नृपाः प्रागुक्ताः। अस्य साधकस्य। एष साधकः। एवमित्यादिनैतदुक्तम्भवति नवशतवारावृत्त्यास्मिन् प्रकरणे उक्तान्यन्यानि दुर्लभान्यभीष्टानि सिध्यन्तीति॥७८॥
 
-
-
 **द्विरुक्त्या तैः षड़ङ्गानि कुर्य्यादर्णैः कराङ्गयोः।  
 विन्यस्य मातृकायुक्तां जपेद्विद्यान्तमेकशः॥७९॥**
 
@@ -4262,8 +3799,6 @@ OXFORD,
 
   रक्ता इत्यादिना स्मरेदित्यन्तेनाध्यर्ध्देन श्लोकेन तासां सर्व्वासां विद्यादेवतानां सावरणशक्तीनां ध्यानमुपदिशति। तत्र आयुधक्रमस्तूर्द्धादिवामदक्षिणक्रमेण वोध्दव्यः। षोड़शनित्यात्मकललिताध्यानसमानरूपादिध्यानादासां तादात्म्यं सम्प्रदायतीति सम्प्रदायः ! तत्सदृशा मूलदेवतासदृशाः वर्णादिभिरिति शेषः॥८०॥
 
-
-
 अष्टपत्राम्बुजं मध्ये नवयोनौ च तां यजेत्।  
 अङ्गावृत्तिं मध्ययोनावन्तरे त्वायुधावृतिम्॥८२॥
 
@@ -4276,8 +3811,6 @@ OXFORD,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   चतुरस्रद्वयमित्यादिभिः स्मरन् धियेत्यन्तैरर्द्धाद्यैश्चतुर्भिः श्लोकेस्तासां देवतानां नित्यपूजाचक्रस्य। सर्व्वसाधारणरेखारूपविन्यासरूपमनन्तरवक्ष्यमाणविशेषविभिन्ने तस्मिन् तस्मिन्नित्यपूजाचक्रे तत्तद्देवतापूजाक्रमबिधानञ्चोपदिशति। तत्र चतुरस्रद्दयमन्तर्वहिर्विभागेन द्वारद्वयविभूषितम् पूर्व्वपश्चिमयोर्द्दिशोरिति शेषः। मध्ये अन्तर्गतचतुरस्रस्येति शेषः। नवयोनौ च चकारेण पूर्व्वगते मध्येइतिशब्दमाकर्षयति। तेन तदष्टदलाम्बुजमध्यकर्णिकायां लिखितनवयोनौ। ताः तद्देवताः। मध्ययोनौनवयोनिचक्रमध्यत्रिकोणमध्ये प्रागुक्तवाह्यादिक्रमेण। अन्तरे प्राग्वन्मध्ययोनेर्वहिरभितः। पृष्ठतः मध्यदेवतायाः। चकारः समुच्चये क्रमाद्वक्ष्यामाणाक्षरलेखनक्रमात्। तथा वक्ष्यमाणप्रकारेण। विलोमतः अग्राद्यप्रादक्षिण्येन। रूपिणोशक्तिसहितैः रूपिणीशक्ति इति पञ्चाक्षरसहितैः माया हृल्लेखा सप्ताक्षरी प्राग्वत्। एतदुक्तं भवति हृल्लेखां प्रथममुच्चार्य्य ततस्तद्विद्यामव्याक्षरस्य षोड़शस्वरभिन्नेषु रूपेष्वेकमेकं यथाक्रममुच्चार्य्य तदनु रूपिणीशक्ति इति पञ्चाक्षराण्युच्चार्य्य ततः सप्ताक्षरीं योजयेत्। सर्वे मन्त्राश्चतुर्दृशाक्षरात्मका भवन्तीति। मन्त्रा यथा—ह्रीं अरूपिणीशक्तिपादुकां पूजयामि ह्रीं आरूपिणीशक्तिपादुकां पूजयामीत्यादय इति। तथा प्राग्वत्। तन्मन्त्रा यथा—ह्रीं ब्रह्माणीपादुकां पूजयामीत्यादय इति। अत्र पूजाचक्रे सर्व्वसाधारणे रेखारूपविन्यासप्रकारो यथा—अन्तर्वहिर्विभागेन प्राग्वत् चतुरस्रद्वयमुत्पाद्य तन्मध्येऽष्टपत्रमम्बुजं कर्णिकायां नवयोनिं कुलसुन्दरीपटलोक्तप्रकारेण कृत्वा तत्रात्मिन् पटले अनन्तरश्लोकादिभिर्वक्ष्यमाणक्रमादर्णान् विलिख्य तत्र ताः प्रत्येकं प्रोक्तक्रमादभ्यच्चेयेदिति। वलिप्रदानञ्च करोतु पूजान्त इति शेषः। चकारेणास्मिंस्तन्त्रे सर्व्वमाधारणेन षोड़शाक्षरेण पूजादौ वलिं प्रदद्यादित्य-
-
-
 
 **आसां वलिप्रदानञ्च करोतु कुरुकुल्लया।  
 सप्ताक्षर्य्या केवलया प्रोक्तरूपां स्मरन् धिया॥८५॥**
@@ -4294,8 +3827,6 @@ OXFORD,
 
   विलिख्येत्यादिभिः समुद्वसेदित्यन्तैस्त्रिभिः श्लोकैस्तासां विद्यानां पूर्वोक्तसाधारणरेखारूपे पूजाचक्रे पूर्व्वप्रस्तुतविशेषभूतेन विद्याक्षरन्यासेन रूपभेदं तत्तद्विनियोगं पूजापरिसमाप्तिञ्चोपदिशति। तत्र नाम्ना विद्यान्तु साध्यादित्रिकस्य सहेति शेषः। नित्यपूजाचक्रे विद्यां कालनित्यास्वन्यतमां। विद्यालेखनमेव नित्यपूजाचक्रे कर्त्तव्यमित्युक्तं भवति। मध्ये नवयोनिमध्यगतयोन्यां वाह्ये। अष्टयुग्मके सर्व्वमध्ययोन्या वहिर्भूताष्टकोणेषु तद्वहिर्भूताष्टदलेषु च। तन्मध्यार्णं तत्तन्मध्ययोनिगतविद्यामध्यमाक्षरं। स्वरैर्भिन्नं प्राग्वत् षोड़शस्वरविकृतं लिखित्वा अग्राद्यप्रादक्षिण्येन। अस्त्रिषु वृत्तचतुरस्रान्तरालगतास्त्रिषु मायया हंसेन ग्रासं हकारं लकारं क्षकारं हृल्लेखाञ्च। निर्ऋत्यादिविलोमत इत्येतत् पूर्वापरयोः काकाक्षिन्यायेनान्वेति। तत्र पूर्व्वत्रान्वये निर्ऋतिह्नीशवायुकोणे यथाक्रमं हकारादि प्रोक्तं चतुष्टयं विलिखेदिति। परत्रान्वये वक्ष्यमाणन्यक्षराणि बक्ष्यामाणप्रकारेण चतुरस्रवीक्ष्यां निर्ऋत्यादितदन्तर्विलोमतो लिखेदिति। वाताद्यर्णं हृदन्तं स्यात्। वातादि अकारादि अर्णं अर्णाहत्यर्थः। हृदन्तं सकारान्तं स्यात् स्युरित्यर्थः। मातृकायां पूर्व्वलिखितहंसाद्यक्षरत्त्रयशिष्टानीति शेषः। तत्रार्णमिति नपुंसकोक्तिर्वचनव्यत्यासश्च दिव्यत्वात्। द्वादशवाद्वशक्रमात् अकारादिसकारान्तान् वर्णान् अष्टचत्वारिंशतं चतुरस्रवीष्यां प्रतिवोथिकं द्वादश द्वादश वर्णान् विलिखेदित्यर्थः। तैर्द्वितीयपटलोक्तै-
 
-
-
 **साधयेदीभितं सर्व्वं षट्कर्म्मात्मकमीश्वरि।  
 स्तुत्वा द्वादशभिः श्लोकैस्तेः स्वान्ते ताः समुद्वसेत्॥८८॥**
 
@@ -4311,8 +3842,6 @@ OXFORD,
 
   एतासामित्यादिना श्लोकेन प्रोक्तसंख्येषु कालनित्याचक्रेषु भजनविशेषेण फलविशेषमुपदिशति। तत्र विद्यां षोड़शनित्यानां कालनित्यानाञ्च। अस्य साधकस्य। एतदुक्तं भवति षोड़शनित्याविद्याभजने तत्तद्दिनप्राप्तनित्याभजने च तत्तद्दिनप्राप्तकालनित्याचक्रस्थो जपेत्। कालनित्याविद्यास्वन्यतमभजने तच्चक्रमध्यस्थ एव नित्यशः २०७३६ जपेत्। कालनित्याविद्यासमुदायभजने षोड़शनित्याभजने च तत्तत्सम्बत्मरकालप्राप्तान्यतमचक्रेऽनुलोमानुलोमेषु चक्रेषु सर्व्वकालचक्रकारणे वृत्ताकारानुलोमानुलोमचक्रे वा स्थित्वा जपेत्। तेन प्रोक्तफलसिद्धिरिति॥८९॥
 
-
-
 **एवं कृत्वा प्रतिष्ठाप्य बिधानेनार्च्चयेट्यतः।  
 तत्राज्ञासिद्धयो लोके प्रकाशन्ते महाद्भुताः॥९१॥**
 
@@ -4325,8 +3854,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
   महाचक्रस्येत्यादिभिर्भवेदित्यन्तेश्चतुर्भिः श्लोकैः प्रागुक्तेषु महाचक्रमध्ये ललितार्च्चाक्रं तत्र तत्पूजां तत्फलं तत्रैव कालविशेषे पूजाविशेषेण फलविशेषञ्चोपदिशति। तत्र महाचक्रस्य प्रागुक्तपूर्णमण्डलयुगवत्सरात्मकानाञ्चक्राणां प्रथमरूपस्य वृत्ताकारानुलोमानुलोमात्मकस्य तत्तत्संवसरप्राप्तस्य वा। श्रीचक्रं ललितार्च्चचक्रम् त्रयस्त्रिंशे पटले वक्ष्यमाणं। उज्ज्वलं सुव्यक्ताकारं तेन महाचक्रस्य कर्णिकाव्यासविकाशमुपपन्नमिति सम्प्रदायः। तत्र महाचक्रस्य मध्यस्थश्रीचक्रमध्ये। एतदुक्तं भवति प्रागुक्तचक्रेषु तत्तत्सम्बत्सरप्राप्तं वा केवलानुलोमानुलोमात्मकवृत्ताकारं चक्रं वा ललिताचक्रनिर्म्माणयोग्यकर्णिकाविकाशं कृत्वा तत्कर्णिकायां वक्ष्यमाणलक्षणोपेतं ललितार्च्चनश्रोचक्रं बिधाय तत्र देव्यर्चनात् सर्वाभीष्टसिद्धिरिति। एवम् उक्तरूपमध्यस्थश्रीचक्रं महाचक्रमित्यर्थः। कृत्वा रत्नत्रिलोहट्टशत्स्वन्यतमेऽधिकरणे बिधानेन द्वितीयपटलोक्तप्रक्रियया। अभ्यर्च्ययेत् सपरिवारां देवीमिति शेषः। यतः यत्र देश इत्यर्थः। तत्र देश आज्ञासिद्धयः चराचरस्य जगतो निदेशवर्त्तित्वं। तथा च कृत्वा पूर्ववत् महाचक्रस्य मध्यस्थं श्रीचक्रं कृत्वेत्यर्थः। तन्मध्ये महाचक्रस्थश्रीचक्रमध्ययोनिमध्ये। क्रमैः ललितानित्यार्चनक्रमैः। मीनस्थे भास्करे सौरे फाल्गुने मासि बिधौ पूर्णे पौर्णमास्यामित्यर्थः। तुरबधारणे। तेन पूजनेन। देवी ललिता। एतदुक्तं भवति प्रोक्ते सौरफाल्गुनमासे पूर्णायां सिन्दूरादिविरचित प्रोक्तमहाचक्रमध्यस्थश्रीचक्रमध्ययोनिमध्ये प्रोक्तवर्णाम्बरविभूषणां सुन्दरीं युवतीं निवेश्य तस्यां परदेवतामावाह्म नित्यार्चनक्रमेण प्रतिवत्सरमर्चयेत् ततो ललिता देवी तुष्टाभीष्टप्रदा भवेदिति॥९३॥
-
-
 
 **नखरं क्षुरिकां खड़्गं चापशूलगदाशरान्।  
 अन्यद्वा शस्त्रमखिलं महाचक्रस्य मध्यगम्॥९४॥**
@@ -4343,8 +3870,6 @@ OXFORD,
 
   दिनत इत्यादिभिः कल्पत इत्यन्तैस्त्रिभिः श्लोकैः प्रागुक्तविद्यागशेरावृत्ति कालविशेषेण फलविशेषं ललिताया विद्याया आभिः सर्व्वविद्याभिः सत्सम्प्रदाय वत्त्वादिकञ्चोपदिशति। तत्र दिनतः वारमेकमित्यत्रान्वयः। प्रागुक्तविद्याः प्रतिदिनमेकवारं जपेदित्यर्थः। एवं वारपक्षमासषट्त्रिंशद्दिवसैः प्रत्येकमेकैकं वारमित्यर्थः। वारेक्षरावृत्तौ प्रथमं भास्कृरवारे वशिनीकामेश्वरीवर्गोंत्था विद्याः। अन्येषु षट्सु प्रतिवारं मोदिन्यादिमातृकावर्गषट्कोत्थविद्याश्च
 
-
-
 **आयुरारोग्यमैश्वर्य्यं विजयं वाञ्छितं क्रमात्।  
 लभन्ते ललिता याभिः सम्प्रदायवती भवेत्॥९७॥**
 
@@ -4359,8 +3884,6 @@ OXFORD,
   यथाक्रमं जपेत्। पक्षे त्वेकवारावृत्तौ पूर्णात्रयरूपासु पञ्चमीदशमीपञ्चदशीषु तिथिषु पंक्तिचतुष्टयचतुष्टयोत्थाःअन्यासु पंक्तिद्वयपंक्तिद्वयोत्या विद्या जपेदिति। पक्षद्वयरूपे मासे एकवारावृत्तौ पूर्वोंक्तरूपासु पूर्णासु षट्सु द्वि द्वि पङ्क्त्युत्था विद्याः। अन्यासु चतुर्विंशतितिथिषु एकैकपङ्त्युत्थाश्च विद्या जपेदिति सम्प्रदायः। नित्यात्मिकाः अनुलोमानुलोमात्मिकाः। आयुरादि फलपञ्चकं पूर्वोक्तजपप्रकारपञ्चके एकैकस्य प्रकारस्य विषयः। क्रमात् कालाद्रौत्याविलम्बनक्रमात्। लभन्ते इत्यस्य पूर्वार्द्धेनान्वयः। ललिता आद्या नित्या याभिः कालनित्याविद्याभिः। सम्प्रदायवती युगपर्य्यायदिनघटिकारूपपारम्पर्य्यभजनेनाविच्छिन्नत्वात्। आसां विद्यानां नवनाथरूपव्याप्त्या तत्तत्पारम्पर्य्यभजनादविच्छिन्नरूपतया एतत् सर्वं सर्व्वनित्याविद्योपलक्षणम्। अन्यथासम्प्रदायत्वात् असम्प्रदायत्वादिति पदच्छेदः। अन्यथा आभिर्विधुरभजने असम्प्रदायत्वात् युगादिरूपव्याप्तरूपभजनासम्भवान्नाथव्याप्तरूपपारम्पर्य्यभजनासम्भवाच्च। कृतम् असम्प्रदायेनेति शेषः। जन्मान्तरे कालान्तरे पुत्रपौत्रादिषु वा। एतदुक्तं भवति आभिर्विद्याभिः ललिताद्यानां षोड़शनित्याविद्यानां पूर्वोक्तव्याप्तिरूपज्ञानेनोपास्यमात्रतया अविच्छिन्नत्वात् सत्सम्प्रदाया भवन्ति। प्रोक्तरूपभजनवैधुर्ये भजनस्य विच्छिन्नत्वादेतत् क्रमविधुरमक्षरक्रमरहितं कृतभजनस्य साधकस्य कालान्तरे पुत्रपौत्रादिषु वा सत्सम्प्रदाया भवन्तीति॥९८॥
 
    जप इत्यादिना शिव इत्यन्तेन श्लोकद्वयेन तद्विद्याराशेरुपासनतः सकलमन्त्र सिद्धिसुपासितुवैर्भवं फलञ्चोपदिशति। तत्र तेन भजनेन कालनित्याविद्या-
-
-
 
 **तासामुपासितुर्लोके नास्ति साधनदुष्करम्।  
 नृपाणामङ्गनानाञ्च वल्लभो जायते शिवः॥१००॥**
@@ -4391,8 +3914,6 @@ OXFORD,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 षड़्विंशतिपटलम्।
 
 **अथ षोड़शनित्यानां विद्याव्याप्तिस्वरूपतः।  
@@ -4407,8 +3928,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
   पूर्व्वस्मिन् पञ्चविंशे पटले षोड़शनित्यानां मातृकाकालव्याप्तिमुपदिश्यानन्तरं षोड़शनित्यानां व्याप्तिवैभवप्रकाशिकां मन्त्रव्याप्तिं तन्मयामृतेश्वरीविद्यादिकं चोपदिशत्यथ षोड़शेत्यादिना सचराचरमित्यन्तेन श्लोकशतरूपेण षड्विंशेन पटलेन। तत्र अथ षोड़शेत्यादिभिरशेषत इत्यन्तैश्चतुर्भिः श्लोकैः पटलार्थानुपदिशति। तत्र षोड़शनित्यानामित्यस्य द्विरन्वयो भवति। यथा विद्याव्याप्तिस्वरूपतः इत्यत्र वैभवमित्यत्र च। विद्याव्याप्तिस्वरूपतः मन्त्राणां सर्व्वमन्त्राणां आभिर्विद्याभिर्व्याप्तिस्वरूपत इत्यर्थः। वैभवं षोड़शनित्यानाम्। एतदुक्तं भवति षोड़शनित्यानां विद्याभिः सर्व्वमन्त्राणां व्याप्तिस्वरूपतः तासां नित्यानां व्याप्तिस्वरूपतो वैभवं वक्ष्ये इति। तत्र मन्त्रवैभवं नादोत्पत्तिं अत्रैव पटले वक्ष्यमाणां। तद्रूपं नादस्य पश्यन्त्यादिरूपं स्थानाप्त्या कण्ठादिस्थानयोगेन। तस्य नादस्य। ततः वर्णैरित्यर्थः। वाक्यानि पदैरिति शेषः। मन्त्ररूपाणि मन्त्राणां रूपाणि तानि तु वर्णैः पदैश्च वाक्यैश्च भवन्ति। कानिचित् तेषु वर्णजानि मन्त्ररूपाणि षट्सप्तत्युत्तरपञ्चशतकोटिः कानिचिदित्युक्तिर्वर्णादिजातानां मन्त्राणामसंख्यातत्वात् प्रोक्तसंख्याया एकदेशत्वात्। तत्संख्ययन्त्राणां तत्समकोटिसंख्याविद्यया स्वात्मसंस्कारस्य क्रमं स्वाभिलषितया विद्यया अभिषेकादिभि रात्मसंस्कारस्य क्रमममृतेश्वरिदेव्या अमृतेश्वरीदेव्या इत्यर्थः। क्रममित्यत्रान्वयः। वर्णैस्तैरमृतवर्णैः। मिथनैः नित्यानित्यापटलप्रोक्तैः सार्द्धमिति
-
-
 
 **व्याप्तिं प्रयोगांस्तैः सम्यगभीष्टप्राप्तिहेतवे।  
 समुद्दिष्टक्रमेणैव सर्व्वमेतदशेषतः॥४॥**
@@ -4427,8 +3946,6 @@ OXFORD,
 
   सएवेत्यादिभिः क्षकाबधीत्यन्तैश्चतुर्भिः श्लोकैः प्रोक्तसंज्ञस्य नादस्य पश्यन्त्यादिवैखर्य्यन्तावशिष्टावस्थात्त्रयकथनपूर्व्वकमकारादिक्षकारा- न्तानामेकपञ्चाद्वर्णानामुत्पत्तिस्थानान्युपदिशति। तत्र स परावस्थो नादः। तया इच्छाशक्त्या। स्वाधिष्ठाने मेट्र्मूले। तथैव यथा स्वेच्छाशक्त्या ऊर्द्ध्वंनीतो नादः स्वाधिष्ठाने जृम्भितः पश्यन्त्याख्यो भवति। अनाहते हृदयदेशे। बुद्धितत्त्वसमेतः तस्मिन् स्थाने बुद्धेरुपलब्धिः। तथा यथा अनाहते। तया प्राग्वच्छक्त्या। विशुद्धौ कण्ठदेशतः विशद्धिसंज्ञे विशसिं कण्ठदेशे इत्यर्थः। ततः वैखर्य्यवस्थानन्तरं। जिह्वामूलाग्रपृष्ठस्थः जिह्वामूलस्थो जिह्वाग्रस्थ जिह्वापृष्ठस्थश्चेत्यर्थः। जिह्वापृष्ठस्थस्तु लकाराक्षरो भवति। क्रमात् प्रोक्तात् कण्ठताल्वोश्च स्थित इति शेषः। कण्ठौष्ठात् ल्यव्लोपे पञ्चमी कण्ठौष्ठमात्रस्थित इत्यर्थेः। दन्तोष्ठद्वयतः दन्तौष्ठद्वये स्थित इत्यर्थः।
 
-
-
 **अनाहते वुद्धितत्त्वसमेतो मध्यमाभिधः।  
 तथा तयोर्द्धनुन्नः स विशुद्धौ कण्ठदेशतः॥७॥**
 
@@ -4446,8 +3963,6 @@ OXFORD,
 एतदुक्तं भवति प्रोक्तस्थानेषु पराद्यवस्थाचतुष्टयात्मको नादः स्वेच्छावशाच्छीर्षादि प्रोक्तस्थानयुक्तोऽकारादिक्षकाराबध्येकपञ्चाशदक्षरात्मा भवतीति॥९॥
 
   आदिक्षान्तेत्यादिभिस्तद्दिशा इत्यन्तैरध्यर्द्धैः षड़्भिः श्लोकैरक्षरशब्दनिर्वचनपुरःसरं मातृकायाःस्वरव्यञ्जनात्मनावस्थानं तयोरन्योन्य- संश्लेषजनितरूपविशेषांस्तैः शब्दप्रपञ्चस्यानन्तत्वादिकञ्चोपदिशति। तत्र आदिक्षान्तरता प्रागुक्तपरारूपा मातृका। एषामक्षराणां। तेषु अक्षरेषु। स्वतन्त्रा व्यञ्जनवैधुर्य्येणाप्यक्षरस्वरूपनिष्पत्तेः। तैः स्वरैः। व्यज्यात् अक्षरत्वपूर्त्तेः प्रकाश्यमानत्वात्। तद्रूपाणि मातृकापटलोक्त- पूर्णमण्डलाक्षररूपाणि। तुरबधारणे। संख्यया उत्तरत्नान्वयः। तैः उक्तसंख्यैरक्षरैस्तैः पदैः मन्त्राश्च वर्णपदवाक्यैरिति शेषः। वेदभाषान्यभेदतः अन्यशब्द आर्षादिविषयः अस्य वाचका इत्यत्रान्वयः व्याकरणादीनां नियमादियुताः। अत्र प्रथमादिशब्दो निरुक्तादिविषयः। द्वितीयादिशब्दो व्याकरणाद्यनियतसंज्ञाशब्दकूटमन्त्रादिविषयः। तेषामक्षराणामेकयुग्मतः त्रिभिः एकेन जाता भेदाःपूर्णमण्डलसंख्या एव ५७६द्वाभ्यां जाता भेदा एतानेव पूर्णमण्डलसंख्यया संगुणय्य तस्थौ साका वाला इति ३३१७७६षड़क्षरवाक्यजनितसंख्या भवतीति। त्रिभिरक्षरैर्जाता भेदा एतानेव पूर्णमण्डलसंख्यया संगुणय्य तस्थौ धीरो नित्याकलङ्ग इति १९११०२९७६नवाक्षरवाक्यजनितसंख्या भवन्तीति। एवमुत्तरत्त्रापि तत्तद्भेदान् पूर्णमण्डलसंख्यया संगुणय्य एवं पूर्णमण्डलसंख्याबधि संगुणनादनन्ता भेदा भवन्ति। तद्रूपाणां
-
-
 
 **षोड़शानां स्वराणाञ्च षट्त्रिंशद्व्यञ्जनैः क्रमात्।  
 संयोगेनैव जायन्ते तद्रूपाणि तु संख्यया॥११॥**
@@ -4476,8 +3991,6 @@ OXFORD,
 
   ललितेत्यादिना क्रमादित्यन्तेनार्द्धाद्येन श्लोकेन ललिताचक्रस्य देवताबृन्दसंख्यां तासां तत्संख्या विद्या उपदेष्टुं प्रस्तौति। तत्र ललिताचक्रनवके वक्ष्यमाणरूपस्य श्रीचक्रस्य त्रैलोक्यमोहनचक्रादिसर्वानन्दमयचक्रान्तचतुरस्त्रादि सर्व्वमध्यान्तचक्रनवके। प्रत्येकं प्रतिचक्रं। शक्तयः गुप्तसंज्ञाः। ता गुप्तसंज्ञाः शक्तयः पुरोदिताः कोट्यः स्युः षट्सप्ततिकोट्यधिकपञ्चशतकोट्यः ( ५७६००००००० )। तत्क्रमाच्चक्रनवकक्रमात्। तासां उक्तकोटिसंख्यानां शक्तीनां। क्रमात् यथाक्रमम्॥१७॥
 
-
-
 **षट्सप्तत्या पञ्चशतं प्रथमान्यक्षराणि वै।  
 द्वितीयानि च तान्येव क्रमेण स्युरथादितः॥१८॥**
 
@@ -4488,8 +4001,6 @@ OXFORD,
 
   षट्सप्तत्येत्यादिभिस्त्रिचतुरर्णका इत्यन्तैस्त्रिभिः श्लोकैस्त्रिचतुरक्षरा विद्या उपदिश्यतास्वेकाकाराभिर्विद्याभिर्व्विना षट्सप्ततिकोट्यधिकपञ्चशतकोटिसंख्याता विद्या उपदिशति। तत्र षट्सप्तत्या पञ्चशतं प्रथमान्यक्षराणि वै। एतदुक्तं भवति अ आ इत्यादि क्षं क्षः इत्यन्तानि षट्सप्तत्यधिकपञ्चशतान्यक्षराणि वक्ष्यमाणक्रमाज्जनितसंख्याविद्यानां प्रत्येकमाद्यक्षराणि भवन्तीति। द्वितीयानि च तान्येव क्रमेण स्युग्थादितः। एतदुक्तं भवति तान्येव षट्सप्तत्यधिकपञ्चशत संख्यान्यक्षराणि वक्ष्यमाणसंख्यानां गुप्तयोगिनीविद्यानां प्रत्येकं द्वितीयाक्षराणि भवन्तीति। तृतीयानि च तान्येव तान्येव प्रोक्तसंख्यान्यक्षराणि प्रत्येकं वक्ष्यमाणसंख्यानां तासां विद्यातृतीयाक्षराणि भवन्तीति। योजयेदादितः क्रमात् क्षान्तैः षट्त्रिंशद्वर्णैः। एतदुक्तं भवति अकारादिक्षकारान्तैः षट्त्रिंशताक्षरैः प्रोक्तसंख्यानि द्वितीयाक्षराणि तेषामादितो योजयेदिति। तैः समायैरुक्तसंख्यका विद्या भवन्ति। एतदुक्तं भवति प्रोक्तप्रकारोद्धृतैस्तैर्विद्यारूपैरन्ते विसर्जनीयसहितैः प्रोक्तकोटिसंख्या एकाकारवर्णा विद्या भवन्तीति। शिष्टाः स्युरेकाकारास्तु तैः। एतदुक्तं भवति प्रोक्तप्रकारप्रोद्धृतासु विद्यासु शिष्टा विद्यास्तैरक्षरैरेकाकारा भवन्तीति। विना ताभिरेकाकाराभिर्विनेत्यर्थः। तत्कोटिसंख्याकाः प्रोक्तकोटिसंख्यास्त्रिचतुरर्णकाः चतुरक्षररूपास्त्रैपुरा भवन्तीत्यर्थः। तासु मध्यस्थाभ्यां मध्यस्थाभ्यामक्षराभ्यां एकमेकं कूटं परिकल्पयेत्। आसां प्रागुक्तगुप्तयोगिनीविद्यानां अत्र मन्त्रप्रोद्धारप्रकारः। अकारादीनां पूर्णमण्डलाक्षराणामेव प्रथमद्वितीयतृतीयाक्षरात्मनावस्थितत्वात्तेषु प्रथमाक्षरत्वेन स्थितानामक्षराणामेकैकस्य कोटिकोटिसंख्याविद्यानामाद्य- क्षरत्वं भवति। तत्तत्कोटिषु तृतीयाक्षरत्वेनावस्थितानामक्षराणां प्रत्येकं विसर्जनीययोजनात्तेषु सविसर्जनीयानि तानि षट्त्रिंशदक्षराणि सर्व्वासां विद्यानां विसर्जनीयान्तत्वविधानात् चतुर्णां विन्द्वन्तानि षट्त्रिंशदक्षराणि विसर्गान्तानि षट्त्रिंश-
 
-
-
 **विद्या भवन्ति शिष्टाः स्युरेकाकारास्तु तैर्विना।  
 ताभिस्तत्कोटिसंख्याका विद्यास्त्रिचतुरर्णकाः॥२०॥**
 
@@ -4498,8 +4009,6 @@ OXFORD,
 षट्त्रिंशदधिकसप्तशतसंख्यानि[^30] रूपाणि परित्यज्य शिष्टानि विंशतिसहस्राणि रूपाणि भवन्ति। तानि विंशतिसहस्ररूपाणि तृतीयाक्षरत्वेन स्थितैः प्रागुक्तप्रकारपञ्चशतसंख्यैरक्षरैः संगुणनात् कोटिसंख्यानि विद्यारूपाणि प्रथमाक्षरत्वेन स्थितैः षट्सप्तत्युत्तरपञ्चशतैरक्षरैः संगुणनात् पूर्णमण्डलकोटिसंख्यानि भिन्नाकाराणि चतुरक्षररूपनैपुरात्मकानि विद्यारूपाणि भवन्तीति। अत्र एकाकारत्वेन त्यक्तव्यानां विद्यानां संख्या तदुगुणितप्रकारश्च लिख्यते। यथा मध्यस्थाक्षरजनितभेदेषु रूपेषु पूर्वोक्तप्रकारेणैका-कारत्वेन परित्यक्तरूपाणि षट्त्रिंशदधिकसप्तशतानि तृतीयाक्षरत्वेन प्रोक्तपूर्णमण्डलसंख्याक्षरसंगुणनात् तुङ्गधोगुरुर्वः इति ४२३९३६ षड़क्षरवाक्य-जनितसंखानि रूपाणि मध्यस्थानि भिन्नाकाराणि विंशतिसहस्राणि रूपाणि तृतीयाक्षरेष्वेकाकारेण परित्यक्तैः षट्सप्तत्यक्षरसंख्यैः संगुणनात् नानाज्ञानाश्रमीयम् इति १५२०००० सप्ताक्षरवाक्यजनितसंख्यानि रूपाणि च सम्भूय तुङ्गधीगर्भधन्य इति १९४३९३६ साक्षरवाक्यजनितसंख्यानि रूपाणि भवन्ति। तेषां रूपाणां प्रथमाक्षरत्वेन स्थितपूर्णमण्डलसंख्या
 
 [^30]: "तानि विंशतिविंशतिसहस्ररूपाणि तृतीयाक्षरत्वेन स्थितेः प्रागुक्तप्रकार पञ्चशतसहस्रभिइत्याधिकः।"
-
-
 
 **तासामपि तु सर्ब्बासां ध्यानार्च्चायन्त्रपूजनैः।  
 पुरुषार्थास्तु सिध्यन्ति तदुक्तं मातृकायुधैः॥२१॥**
@@ -4515,8 +4024,6 @@ OXFORD,
 ज्ञरसंमुणनात् चण्डिकापूर्व्वत्र तस्थौ धीरो नित्याकलङ्क इति वाक्यजनितसंख्यां तत्त्वाक्षरैः संगुणय्य तुङ्गः पथज्ञः साधुः सदोच्चे इति ६८७९७०७१२६ दशाक्षरवाक्यञनितसंख्यासु विद्यासु एकाकारविद्यात्यागात् प्रोक्तासंख्या भवन्तीति। चण्डिका सनाथार्द्धकायोयमिति १११९७०७१३६ दशाक्षरवाक्यजनित संख्यानि रूपाणि एकाकारत्वेन त्यक्तव्यानि भवन्तीति। अत्र भेदविद्यास्वरूपं किञ्चित् प्रदर्श्यतेऽस्माभिः। यथा—स्वरतत्त्व योगपरित्यागात् प्रथमविद्यापञ्चत्रिंशत्कस्य अअकअः अअखअःइत्यादीनि अअक्षअः इत्यन्तानि तद्वितीयपञ्चत्रिंशतिकविद्यारूपाणि अआकअः अआखअः अआगअःइत्यादीनि अआक्षअः इत्यन्तानि भवन्तीति॥२०॥
 
   तासामपीत्यादिना श्लोकेनासामुक्तसंख्याविशिष्टानां विद्यानां तद्देवतानां च ध्यानं सावरणं पूजनं प्रत्येकं यन्त्रादिप्रयोगांश्च प्रागुक्तानेवातिदिशति। तत्र तासां विद्यानाञ्च तद्देवतानाञ्च ध्यानार्च्चायन्त्रपूजनैः ध्यानेनार्च्चया यन्त्रैश्च तत्पूजनेन च। तत्र यन्त्राणि तत्तद्विद्यायां तत्त्वाक्षरैः स्वरभिन्नैः। तत्र ध्यानादि मातृकापटले। एतदुक्तं भवति प्रोक्तसंख्यानां विद्यानामेकैकस्या विद्याया भजने आसां चतुरक्षरविद्यानां मध्याक्षरमध्याक्षरद्वयमेकाक्षररूपं परिकल्प्यप्राग्वत् द्विरुक्त्या षड़ङ्गानि च विन्यस्य तत्तत् पूजायन्त्रनिर्म्माणे मातृकापटले कालनित्याप्रोक्तानि चतुरस्रद्वयाष्टपत्त्राम्भुजनवयोनिरूपाणि चक्राणि विधाय तत्तन्नवयोनिमध्ययोनिमध्ये तत्तद्विद्यां प्राग्वत् ससाध्यां बिन्धस्यतद्बहिःकोणाष्टके तद्वहिर्दलाष्टके मध्याक्षरोपेततत्त्वाक्षरस्य स्वरभिन्नानि प्राग्वद्विन्यस्य शेषं प्राग्वत् कृत्वा तन्मध्ये प्राग्वदावाह्य प्राग्वत् ध्यात्वा प्राग्वत् समभ्यर्च्य प्राग्वत् वलिद्वयं दत्त्वा प्रागुक्तान् प्रयोगांश्च कृत्वा प्रागुक्तानि फलान्याप्नोतीति॥२१॥
-
-
 
 **संस्कारो मन्त्रयन्त्रार्च्चाभिषेकाद्यैस्तुनोर्यदि।  
 सा जरारोगमरणक्लेशैर्न स्पृश्यतेऽन्यथा॥२४॥**
@@ -4536,8 +4043,6 @@ OXFORD,
 
   इतीत्यादिभिर्भवेदित्यन्तैर्नवभिः श्लोकैः स्वयमाक्षिप्तं अर्थं सनिदर्शनं समा-
 
-
-
 **तदहं सुस्फुटं सम्यग्वक्ष्ये गुह्यतरं परम्।  
 यदवाप्य त्यजत्याशु संशयाख्यं महामलम्॥२८॥**
 
@@ -4553,8 +4058,6 @@ OXFORD,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 धत्ते। तत्र इत्यादिसंशयेः आदिशब्दस्त्रैगुण्यादिजपपूजादिफलभोक्तृत्वविषयः। क्षीणपाप्मनां प्रोक्तप्रकारेण संशयेन देहेन्द्रियवुद्ध्यात्मादि- विवेकस्य परमार्थलाभपर्य्यन्तत्वात्। तेषां वक्ष्ये इत्यन्वयः। यद्विशेषापादनः। यदवाप्य यद्विशेषापादनं ज्ञात्वा महामलं स्वात्मविनाशकत्वात्। देहेन्द्रियमनःप्राणसाक्षिणः आत्मनः देहेन्द्रियमनःप्राणेषूपाधिरूपेषु उपलभ्यमानस्यानादिवासनया तदीपाधिकानां गुणानां स्वगुणेन जाग्रत्स्वप्नसुषुप्त्यवस्थासु सुखदुःखरूपाणां अनुसन्धानावस्थायां जीवाख्यस्य चितः संस्कारो वक्ष्यमाणरूपः। तत्ववेदिना तत्त्वयोरुपाध्यात्मनोः परमार्थविदा सेकेन प्रोक्तबिधानेनाभिषेकेण देहे उपाधिभूते। अशुभं रोगादिपीड़ा। वीक्षणात् ज्वालामालिनीपटलवेधोक्तक्रमात् गुरोरिति शेषः। आत्मनो वुद्धेः स्वबुद्धेरित्यर्थः। अयथार्थनिकृन्तनं अतस्मिंस्तद्वूध्दिविनाशनं। उपदेशेन श्रीविद्यादीनां विद्यानां तदर्थानाञ्च वासनापटलवक्ष्यमाणेन त्रैगुण्यानामिति शेषः। तस्य शिष्यस्य। चिरारूढा जन्मतः प्रभृति मनोलग्ना। वासना परिचयः। दुस्तरां तां दुस्त्यजां वासनामित्यर्थःI धिया वुद्ध्यां स्वात्मविमर्शेन गुरूपदिष्टेन रूपेण पराहन्तारूपपरामर्शेन। एवं कृते प्रोक्तरूपसंस्कारकरणे। वुद्धिवृत्तेः संसाराज्ञानरूपिता विनाशःसंसारज्ञानस्वभावाया वुद्धिवृत्तेर्मायाद्यपोहेन संसारज्ञानाभावरूपो विनाशो भवतीत्यर्थः। स्वरूपालम्भः स्वरूपस्याग्राह्यत्वात् प्रवत्तिहान्या तन्मयता विश्रान्तिः। उभे उभावित्यर्थः। भवत उभे इति पूर्व्वत्रान्वयः। एतदुक्तं
 
-
-
 **एवं कृते वुद्धिवृत्तेः संसाराज्ञानरूपिता।  
 विनाशो नित्यशुद्धात्मस्वरूपालम्भ इत्युभे॥३२॥**
 
@@ -4566,8 +4069,6 @@ OXFORD,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 भवति देहेन्द्रियमनःप्राणसंघातात्मकोपाधिषूपलब्ध्य्याजलचन्द्रवत्तत्तदीपाधिकान्यगुणानस्वगुणत्वेनानुभवविमोहितस्य जीवात्मनश्चिद्रूपस्य तत्वविदा गुरुणा गुणसंस्कारकरणं नाम प्रोक्तरूपेणाभिषेकेण प्राक्तनजन्मादिप्राप्तौपाधिकाशुभनिराकरणं तत्कटाक्षेण वुद्धेः स्वभावप्रवृत्तिरूपान्यथाज्ञाननाशमुपदेशेन पुनः पुनरुपदिष्टप्रकारस्वात्मविमर्शेन च सुचिरारूढ़दुर्वासनाविनाशनञ्च भवेत्। एवं कृते स्वभावतो वहिर्विषयप्रवृत्ताया वुद्धिवृत्तेस्तद्विषयवृत्त्यभावरूपो विनाशः। तेनास्याः प्रत्यङ्मुखप्रवृत्तौ स्वरूपस्य वियषभूतत्वात्तस्मिन्नेव तादात्म्येन विश्रान्तिरूपो विनाशश्च इत्यभौ भवत इति। तत्र प्रतिपादितरूपतो गुरुकृतसंस्कारादिभिर्बुद्धेर्दुर्वासनाविनाशे स्वानुभवसिद्धौ च तत्र प्ररोहणाभावे अस्य वीजरूपस्य शक्तिः प्ररोहणशक्तिः न वीजरूपमित्यर्थः। तथास्याज्ञानजन्मादि अत्रादिशब्दो जरामरणादिविषयः। अन्यथाज्ञानसं सिद्धजन्मजरामरणादि। यथा वह्निस्पर्शात् शस्यानां वीजरूपस्याप्ररोहिता तथा शिष्यस्याज्ञानजन्मादि न भवतीत्यर्थः। कारणं यत्तथैवतत् यथा वह्निस्पर्शाद्वीजरूपे पूर्व्वस्यितेऽपि तत्प्ररोहस्य कारणभूता शक्तिर्दह्यते तथा अज्ञानजन्मादीनां दुर्वासनारूपं कारणं यत्तदपि दह्यत इत्यर्थः। किञ्च संस्कारादिना स्वात्मप्रकाशकारणं निदर्शनान्तरात् दृश्यत इत्यर्थः। तत्प्ररोहः कार्पासवीजप्ररोहः। पुष्पादि आदिशब्दः फलमूलादिवियषः। तथा लाक्षारागारुणवर्णं भवतीत्यर्थः। एतदुक्तं भवति यथा शस्यानां वीजस्य वह्निस्पर्शमात्रेण तत्प्ररोहकारणभूतशक्तिविनाशात् कार्य्यरूपः प्ररोहश्च न भवति तथा तस्य शिष्यस्य संसारादिप्रवृत्तिजन्मभूतस्य मनसो गुरुकृतसंस्कारात्तस्य मनसः संसृतिप्रवृत्तिवीजकारणभूतदुर्वासनानाशात्तत्कार्य्यभूतसंसृत्यादिप्रवृत्तिरपि च न भवति। यथा च कार्यास
-
-
 
 **किञ्च कार्पासवीजानि लाक्षया रञ्जितानि तु।  
 दृश्यते तत्प्ररोहश्च पुष्पादि च तथा भवेत्॥३५॥**
@@ -4590,8 +4091,6 @@ OXFORD,
 
   रहस्यमित्यादिभिः सदा इत्यन्तैरष्टाभिः श्लोकैः सकलाक्षरपदवाक्यादीनां मन्त्रस्वरूपत्वमुपदिशति। अत्र परममित्यादीनां रहितमित्यन्ता- नां षण्णां द्वितीयान्तानां पदानां रहस्यमित्येतदविशेष्यं वदामीत्यत्रान्वयः। मन्त्रविद्यास्त्वानन्तकाः मन्त्राश्च विद्याश्चप्रागुक्तप्रकारेणैकद्व्या- दियोगादनन्ता विद्यन्ते इत्यर्थः। ता मन्त्रविद्याः। साधकानाञ्च सिद्धानां इत्यस्याभीष्टाप्तये इत्यत्रान्वयः। नेतरेषां न साध्यानामित्यर्थः। कथञ्चन केनापि प्रकारेण तेषां तत्त्वज्ञाना भवात्। इतरात्मकत्वमार्ष्यात्मकत्वं। सद्वासनां साध्वसाधुचिन्ताविरहितं सदा शब्दानां साधुत्वासाधुत्वयोः सांकल्पिकत्वात्। त्वदात्मकं शक्तिरूपमित्यर्थः समुदयं नादस्य प्रागुक्तपरापश्यन्त्यादिस्वरूपाणां। विश्रान्तिः पूर्व्वोक्तानामेव। मदात्मकं शिवरूपम्। उभयात्मकम् उदयविश्रान्तिरूपशिवशक्त्यात्मकम्। आत्मस्वरूपं प्रागुक्तमहमितिरूपं। तैरक्षरैः सहेति शेषः। कालेन क्रमेण अन्यत्वदुःखार्त्तिवासनानाशतः भेदात्मकदुःखोत्पन्नार्त्तिवासनाविलयनात् पराहन्तामयं परिपूर्णाहन्तात्मकम्। सर्वस्वरूपस्वात्मविग्रहं सर्वपदार्थस्वरूपाणि
 
-
-
 **त्वदात्मकं समुदयं विश्रान्तिश्च मदात्मकम्।  
 उभयात्मकमात्मस्वरूपं नादस्य तस्य तैः॥४०॥**
 
@@ -4612,8 +4111,6 @@ OXFORD,
 
   षड़ित्यादिभिराप्नुयुरित्यन्तैः पञ्चभिः श्लोकैर्वैष्णवशैववैदिकमन्त्रैःप्रधानभूतैरेकादशभिर्ललिताविद्यया व्याप्तिमुपदिशति। तत्र षड़ष्टद्वादशार्णानां षड़क्षरस्याष्टाक्षरस्य द्वादशाक्षरस्य च वैष्णवानाम् उक्तत्रयाणां मन्त्राणामित्यन्वयः। अशेषतः पदपदार्थरूपेणापि। परतत्त्वार्थवाचकत्वात् परस्वरूपवाचकत्वात्। अभेदता व्याप्तिः ललिताविद्यया अभेदतेत्यत्रान्वयः। एतदुक्तं भवति षड़क्षरमन्त्रेण ॐ नमो विष्णवे इतिरूपेण स्ववाच्यदेवतारूपस्य व्याप्त्यर्थं विष्णुस्वरूप-
 
-
-
 **ललिताविद्यया तद्वत् प्रासादस्य त्रयात्मनः।  
 तथैव च परायाश्च गायत्र्याश्चोक्तरूपतः॥४५॥**
 
@@ -4627,8 +4124,6 @@ OXFORD,
 रसकारैरपृथग्भूतानुत्तरपरमार्थस्वरूपकथनेन ललिताविद्यया व्याप्तिरिति। गायत्र्याः सावित्र्याः उक्तरूपवत्। वैष्णवमन्त्रत्रये अशेषत इति शब्देन प्रोक्तपदपदार्थरूपेणापीत्यर्थः। एतदुक्तं भवति अनया गावत्र्या स्ववाच्यदेवतायाः सकलप्रपञ्चसवितृत्वं स्फुरत्तामात्रप्रवृत्तिरूपत्वं समस्तभेदज्ञानापोहनक्षमशक्तित्वं विश्वात्मत्वं चोच्यत इति। व्याहृतीनां गायत्र्याः पादत्रयस्य कारणभूतानां तिसृणां। एतदुक्तं भवति ताभिः स्ववाच्यदेवतायाः सन्मात्रत्वं सकलप्रपञ्चकारणत्वं तत्कारणाभेदश्चोच्यत इति। महावाक्यपरमात्माजपात्मनां महावाक्यस्य परमात्ममन्त्रस्याजपामन्त्रस्य च। एतदुक्तं भवति महावाक्येन स्ववाच्चदेवतायाः सद्रूपपरमार्थत्वपृथग्वद्भावरूपप
 
 रमार्थस्वरूपमजपामन्त्रै परमात्ममन्त्रेण स्ववाच्यदेवतायाः सकलप्रपञ्च-
-
-
 
 **विन्दुभ्यां तां तथा मायामुभयोरैक्यविग्रहम्।**  
 
@@ -4650,8 +4145,6 @@ OXFORD,
 कारणभूतेन चिद्रूपेण परमात्मना तत्तत्कार्य्यमूतप्रपञ्चात्मिकायाः स्वेच्छाशक्तेरपृथग्भूतरूपपरमार्थस्वरूपमजपामन्त्रेण स्ववाच्यदेवतायाः प्रोक्तरूपस्वेच्छाशक्त्युल्लासरूपप्रपञ्चात्मना पररूपस्य भासनं परमार्थरूपं चोच्यत इति। प्रणवस्य अनन्तरश्लोकवक्ष्यमाणरूपस्य। तद्रूपयोगात् पररूपतादात्म्यार्थसम्बन्धात् तत्तदात्मता ललिताविद्यया इति शेषः। एतदुक्तं भवति वैष्णवशैववैदिकेषु मन्त्रेषु मूलभूतानामेतेषामेकादशानां मन्त्राणां सकलकारणभूतस्य चिन्मात्रस्वरूपस्य स्वेच्छाशक्त्युल्लासविजृम्भितेन प्रपञ्चेन तादात्म्येन तादात्म्यप्रतिपादनात् ललितायाश्च तदर्थप्रतिपादकं भवतीत्यर्थः। तद्वैलोम्यसमुद्भवं प्रणवं तदात्मकयोर्विन्दुविसर्जनीयमुक्तयोर्हकार- सकारयोर्वैलोम्यकृतसन्धिसमुद्भवं प्रणवं। एतदुक्तं भवति शिवशक्तिसामरस्यविग्रहपरमार्थायाः श्रीमहात्रिपुरसुन्दरीनित्यायाः परमार्थस्वरूप- कामकलायां शिवरूपस्य विन्दोः शक्तिरूपस्य विसर्जनीयस्य चानुलोम्ययोगे परमार्थजपात्मिकां प्राणशक्तिं तद्वैलोम्ययोगात् प्रणवञ्चविजाना- नस्तत्त्वतो नित्याविद्भवतोति। इतरे एतत्सामरस्यविज्ञानरहिताः। भक्तिमन्तः नित्यासु। कालात् क्रमेण। तज्ज्ञानं सामरस्यज्ञानम्। एतदुक्तं भवति एतत्सामरस्यरूपज्ञानमन्तरेणापि तासां नित्यानां केवलं सुदृढ़या भक्त्या भजनेन क्रमेण तद्भक्तिर्भजनं तत्सामरस्यरूपपरमार्थज्ञानं ददातीति॥४८॥
 
   अभक्तीत्यादिभिर्दुःखिनः ईत्यन्तैः पञ्चभिः श्लोकैः भक्तिप्रशंसां भक्तिस्वरूप सभक्तिभजनप्रत्यवायञ्चोपदिशति। तत्र अभक्तिभजनं नित्यानामित्यत्रान्वयः।
-
-
 
 तां भक्तिं तव वक्ष्यामि रहस्यामद्भुताद्भुताम्।  
 सम्यक् फलमयीं सिद्धिमलभ्यामल्पपुण्यतः॥५१॥
@@ -4678,8 +4171,6 @@ OXFORD,
 
   दावेत्यादिना श्लोकेनामृतेश्वरीविद्यामुपदिशति। तत्र दावाम्बुर्स्वैर्भवेदाद्या ठकारवकारविन्दुभिराद्या विद्त्येर्थः॥ अन्या द्वितीया विद्येति शेषः।
 
-
-
 वासनोक्तप्रकारेण षड़् बिधा सा समीरिता।  
 अङ्गानि तासामाद्याया दीर्घस्वरनियोजनात्॥५७॥
 
@@ -4691,8 +4182,6 @@ OXFORD,
 हृद्धंसमायया सकारहकारहृल्लेखाभिर्द्वितीया विद्येत्यर्थः। ज्याकं दाहवनस्वैः स्यात्तृतीया जकारहकाररेफओकारविन्दुभिस्तृतीया विद्येत्यर्थः। एतेषां वीजानां त्रयाणामेकैकस्य विद्यात्वं विद्यते। सामृतेश्वरो पूर्व्वप्रस्तुतामृतेश्वरी विद्या इत्थमुक्तेत्यर्थः॥५६॥
 
   वासनेत्यादिभिः क्षोणकल्मष इत्यन्तःषड़्भिः श्लोकेरस्याः षड़् विधरूपभेदांस्तदङ्गानि शरीरे अमृतकलाःशरीरेषु तन्न्यासविधानक्रमञ्चोपदिशति। तत्र वासनोक्तप्रकारेण वासनापटलवक्ष्यमाणसर्व्वविद्यारूपभेदाक्तप्रकारेण षड़्विधा सा सामृतेश्वरीविद्या षड़रूपभेदा भवन्तीत्यर्थः। तद्रूपाणि यथा तत्र प्रथमं रूपं प्रोद्धारक्रमं द्वितीयं रूपन्तु प्रथमतृतीयद्वितीयकूटयोजनक्रमेण भवति। तृतीयरूपन्तु द्वितीयतृतीयप्रथमकूटयोजनक्रमेण भवति। चतुर्थरूपन्तु द्वितीयप्रथमतृतीयकूटयांजनक्रमेण भवति। पञ्चम रूपन्तु तृतीयप्रथमद्वितीयकूटयोजनक्रमेण भवति। षष्ठरूपन्तु तृतीयद्वितीयप्रथमकूटयोजनक्रमेण भवति। प्रथमरूपस्य प्रतिलोमरूपं भवतीति। तासां षण्णांविद्यानां आद्यायाः तत्तद्भेदेषु प्रथमप्रथमकूटरूपायाःदीर्घस्वरयोजनात् प्राग्वत् कराङ्गयोः प्राग्वत्। एतदुक्तं भवति अमृतेष्वरीविद्यारूपभेदेषु षट्सु प्रथमद्वितीयरूपयोर्द्वयोः प्रथमकूटस्थैवाद्यत्वात् तस्मिन् दीर्घस्वरयोजनात् ट्वांठ्वींइत्यादिभिर्जातियुक्तै रूपैस्तद्रूपभेदद्वयभजने कराङ्गन्यासादिकं कुर्य्यात्। तेषु तृतीस्तयचतुर्थयोर्द्वितोयकूटस्येवाद्यत्वात् तस्मिन् दीर्घस्वरयोजनात् स्थ्रां स्थ्नोंइत्यादिभिर्जातियुक्तै रूपैस्तद्रूपभेदद्वयभजने षड़ङ्गन्यासादिकं कुर्य्यात्। तेषु पञ्चमषष्ठयोस्तृतीयकूटस्यैवाद्यत्वात् तस्मिन् दीर्घस्वरयोजनात् ज्फां ज्फीं इत्यादिभिर्जातियुक्तै रूपैस्तद्रूपभेदद्वयभजने षड़ङ्गन्यासादिकं कुर्य्यादिति। तत्त्रयं कूटत्रयं षोड़षस्वरैः संयोज्य प्रतिकूटमिति शेषः। अमृतसंस्थानात् अनन्तरवक्ष्यमाणक्रमादमृतकलास्थितस्थानसारभ्ये
-
-
 
 अङ्गुष्ठपृष्ठतत्सन्धिलिङ्गनाभिषु हृत्स्तने।  
 गलनासाक्षिकर्णभ्रू शङ्खमूर्द्धसु वै क्रमात्॥५९॥
@@ -4706,8 +4195,6 @@ OXFORD,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 त्यर्थः अन्यत् विसर्जनीयस्वरसंयुक्तास्वरूपं तद्गतं न्यासस्थानारम्भभूतामृतस्थाने न्यसेदित्यर्थः। एतदुक्तं भवति अमृतेश्वरीविद्यायाः प्रथमद्वितीयतृतीयकूटानां प्रतिकूटं षोड़शस्वरयोजनादेकैकस्य कूटस्य षोड़शरूपाणि भवन्ति। तानि षोड़शरूपाणि वक्ष्यमाणक्रमामृतस्थानमारभ्य वक्ष्यमाणामृतकला गत्या पञ्चदशरूपाणि विन्यस्य षोड़शं रूपं पुनरप्यमृतस्थाने न्यसेदिति। पृष्ठे प्रपदे। तत्सन्धिः गुल्फजानुसन्ध्योः शङ्खे भालपार्श्वास्थिनि। दक्षवामसमारम्भात् पुंस्त्रियोरप्ययं क्रमः। शुक्ले पूर्णान्तं। एतदुक्तं भवति शुक्लपक्षे पूर्वदक्षिण पादाङ्गुष्ठमारभ्य मूर्द्धान्तं तत्तत्पार्श्वस्थेषु पञ्चदशसु प्रोक्तेषु स्थानेषु तत्प्रथमादिपूर्णान्तं पञ्चदशसु तिथिषु प्रतितिथि यथाक्रममारोहक्रमादमृतकलायाः स्थितिर्भवतीति। स्त्रियास्तु वामपादाङ्गुष्ठमारभ्य मूर्द्धान्तं तत्पार्श्वस्थेषु प्रोक्तेषु पञ्चदशसु स्थानेषु तत्प्रथमादिपूर्णान्तं पञ्चदशसु तिथिषु प्रतितिथि यथाक्रम मारोहक्रमादमृतकलायाः स्थितिर्भवतीति। एवं पुंस्त्रियोः शुक्लपक्षे समारम्भपार्श्वक्रमव्यत्यासेऽपि स्थानक्रमव्यत्यासो न भवतीति। इतरे कृष्णपक्षे मूर्द्धादि अङ्गुष्ठान्तं प्रतिलोमतः अवरोहणक्रमेणेत्यथेः। भागद्वयस्य व्यत्यासात् पुंस्त्रियोरिति शेषः। अङ्गुष्ठगा अमृतकलेति शेषः। एतदुक्तं भवति कृष्णपक्षे पुंसो वामपार्श्वमूर्द्धादिवामाङ्गुष्ठान्तं प्रोक्तेषु पञ्चदशसु स्थानेषु पूर्णान्तप्रतिपदमारभ्य दर्शान्तं पञ्चदशसु तिथिषु प्रतितिथि यथाक्रममवरोहक्रमेणामृतकलास्थितिर्भवतीति। स्त्रियास्तु दक्षिणपार्श्वमूर्द्धादि दक्षिणाङ्गुष्ठान्तं प्रोक्तेषु पञ्चदशसु स्थानेषु पूर्णान्तप्रतिपदमारभ्य दर्शान्तं पञ्चदशसु तिथिषु प्रतितिथि यथाक्रममवरोहक्रमेणामृतकलायाः स्थितिर्भवतीति। नित्यश इत्यादिना कल्मष इत्यन्तेनार्द्धाद्येनैकेन श्लोकेनैतदुक्तं भवति। अमृतेश्वरीविद्याभेदेषु षट्सु स्वभजनीयस्यै-
-
-
 
 **न्यसेत्ताः षड़्विधाः प्रोक्तक्रमान्ते न तु नित्यशः।  
 न्यासेनामृतरूपी स्यात् साधकः क्षीणकल्मषः॥६२॥**
@@ -4726,8 +4213,6 @@ OXFORD,
 कैकस्य भेदस्यैव कूटत्रयवतः प्रतिकूठञ्च षोड़शस्वरयोजनात् जातानि षोड़श षोड़शरूपाणि एवं सम्भूयाष्टचत्वारिंशद्रूपाणि प्रोक्तक्रमेणामृतकलास्थितिस्थान मारम्य पञ्चदशसु स्थानेषु पञ्चदश रूपाणि पुनरम्यारम्भस्थाने षोड़शरूपमेवं षोड़शषोड़शविभागेन त्रिशस्त्रिशः न्यसेत्। तेन साधकःप्रोक्तरूपो भवतीति॥६२॥
 
   ध्यानमित्यादिभिः परिवारिता इत्यन्तेश्चतुर्भिः श्लोकैरमृतेश्वरोध्यानं तत्पूजां तदावरणशक्तिनिवहञ्चोपदिशति। तत्र तासां अमृतेश्वरीमूर्त्तिविद्याभेदषट्कानां। यासां मूर्त्तीनां। क्लेशाः तापत्रयरूपाः। शुद्धस्फटिकसङ्गाशां मूर्त्तिमिति शेषः। दधाना इत्युपरितनश्लोकोत्तरार्द्धस्य प्रथमपादेनान्वयः। मूर्त्तेरेकवचनत्वं तासां षण्णांऐक्यपरमार्थत्वात्। अन्विता इति वहुवचनं भेदरूपाङ्गीकारेण। अत्रायुधानि ऊर्द्धादिदक्षिणवामदक्षिणवामक्रमेण। स्मेरवदनाः प्राग्वत् मूर्त्तिविशेषणं प्राग्वद्दधाना इत्यत्रान्वयः। मुक्ताभरणभूषिताः मौक्तिकमयैराभरणैरलङ्कृताः। दलमध्यगाः ताभिःषष्टिशतार्णात्मशक्तिभिः पूर्वोक्तामृताक्षरषष्ट्युत्तरशतिकाभिः शक्तिभिरित्यर्थः। एतदुक्तं भवति अभीष्टमानभ्रमेण वृत्तं निष्पाद्य वहिरेकाङ्गुलमानेन वृत्तं कृत्वा तद्वहिः पञ्चाङ्गुलमानेन वृत्तं बिधाय तद्वहिः पुनरप्येकाङ्गुलमानेन वृत्तं बिधाय एवमन्तर्वहिर्विभागेन प्रोक्तचतुष्टयेन सार्द्धं विंशतिवृत्तानि बिधाय तासु पञ्चाङ्गुलान्तरालासु दशसु वीथिषु एकस्यामेकस्यां वीथ्यां षोड़श षोड़श दलानि कृत्वा तत्र सर्व्वमध्यकर्णिकायां प्रधान-
-
-
 
 **षोड़शच्छदयुक्तानां पद्मानां दलमध्यगाः।  
 ताभिः षष्टिशतार्णात्मशक्तिभिः परिवारिताः॥६६॥**
@@ -4750,8 +4235,6 @@ OXFORD,
 
   तत्तद्विद्येत्यादिभिर्वासितैरित्यन्तैश्चतुर्भिः श्लोकैरावरणशक्तीनां पृजाविद्याःदेव्याः पूजाद्रव्याणि वलिहोमतर्पणानि चोपदिशति। तत्र तत्तद्विद्याक्षरोपेतं पूर्वोक्तसंख्यानां प्रत्येकमाद्याक्षरत्वेन योजनीयमित्यर्थः। तदर्णं प्रोक्तसंख्येष्वमृतार्णेषु एकैकं प्रोक्तसप्ताक्षर्य्या द्वितीयपटल इतिशेषः। चतुर्दशाक्षरी प्रतिविद्यमिति शेषः। कृत्वैवं एवं प्रोद्धृत्येत्यर्थः। ताभिर्विद्याभिः। प्रादक्षिण्यात् अग्रादारभ्येति शेषः। एतदुक्तं भवति अमृतेश्वरीविद्यारूपभेदषट्कभजनीयस्य रूपस्य प्रथमकूटं पूर्व्वमुच्चार्य्यानन्तरममृताक्षरेषु विन्दुयुक्ताशीतिषु चैवं सम्भूय षष्ट्युत्तरशतेषु प्रोक्तक्रमेणैकैकमक्षरमुर्च्चार्य्यानन्तरं रूपिणीशक्तिपादुकां पूजयामीति द्वादशाक्षराण्युर्च्चार्य्य एवं सम्भूय प्रतिविद्यं चतुर्दशाक्षरात्मिकाभि र्विद्याभि र्वाह्याभ्यन्तरप्रवेशगत्याग्रादिप्रादक्षिण्येनार्च्चयेदिति। सुगन्धिभिः प्रसूनैरित्यत्रान्वयः। श्रीखण्डं चन्दनं। वहिर्नित्यपूजामण्डलतः। आसां षड़्विधानाममृतेश्वरीणां। तुना आसामपि ललितात्मकत्वमुच्यते। वलियुग्मकं आद्यन्तयोर्यथाक्रमं षोड़शाक्षरमन्त्रेण कुरुकुल्लासप्ताक्षर्य्या च।तैः पायसादिभिश्चतुर्भिः॥७०॥
 
-
-
 दशलक्षं जपेद्विद्यां पयोभक्ष्यः समाहितः।  
 एवं जपादिसंसिद्धविद्यो मन्त्रौयदा जलम्॥७१॥
 
@@ -4766,8 +4249,6 @@ OXFORD,
   दशलक्षमित्यादिना सन्निभमित्यन्तेन श्लोकद्वयेन विद्यासाधनबिधानं सिद्धविद्यस्य लक्षणञ्चोपदिशति। तत्र दशलक्षं प्रतिविद्यमिति शेषः। अत्र तर्पणहोमी प्रतिविद्यं तद्दशाशाविति सम्प्रदायः। एवमुक्तप्रकारेण जपादोत्यत्रादिशब्दस्तर्पणहोमपूजादिविषयः। समुद्रजं जलमिति पूर्व्वश्लोकोक्तपदेनान्वयः। ताः षड़बिधा विद्याः। एकैकशः शतात् षड्विद्यासु तासु स्वसिद्धां स्वसिद्धामेकैकां विद्यां शतवारं जपेदित्यर्थः। एवमुक्तप्रकारजापेन तत्तीयं समुद्रजलं दुग्धसन्निभम् रसादिभिः॥७२॥
 
   तेष्वित्यादिना अनन्तका इत्यन्तेन श्लोकद्वयेन पद्मयन्त्रबिधानं तस्यानन्तसंख्यात्मकत्वञ्चोपदिशति। तत्र तेषु नित्यसपर्य्यामण्डलत्वेन प्रोक्तेष्वन्तर्वहिर्विभागस्थितेषु प्रत्येकं षोड़शदलरूपेषु दशसु पद्मेषु। तत्तद्विद्यार्णसमेतान् षड्बिधामृतेश्वविद्यासु स्वाभिमतविद्यायामेकैकेकूटसमेतान्। षष्टिसंयुतान् शतार्णान् पूर्वोक्तामृतार्णानित्यर्थः। मध्ये कर्णिकाया इति शेषः। तदाद्यं मध्यतो लिखेत् साध्याक्षरसमोपेतं स्वमध्यतः साध्याक्षरसमोपेतं तत्तद्वाह्यलिखितेष्वाद्यस्वरूपं लिखेदित्यर्थः। तेषां उक्तसंख्यानामक्षरस्वरूपाणां। अन्योन्यमम्मेदालेखनात् वासनापटलवक्ष्यमाणभेदक्रमालेखनात्। अनन्तकाःअनन्तानीत्यर्थः यन्त्राणीति शेषः। अयमत्र यन्त्ररचनाक्रमः। प्रागुक्तक्रमादन्तर्वहिर्विभागस्थितानि प्रत्येकं षोड़शदलानि पद्मानि कृत्वा तेषु षष्ट्युत्तरशतसंकख्येषु दलेषु वाह्यात् प्रवेशगत्या अग्रादग्रादिप्रादक्षिण्येनामृतेश्वरीविद्यासु षड्बिधास्वाद्यविद्याप्रथमकूटसहितानमृतार्णान् षष्ट्युत्तरशतसंख्याकान् विलिख्य तन्मध्यकर्णिकायाञ्च तेषां वाह्य दललिखिताक्षररूपेष्वाद्यदललिखिताक्षरस्वरूपं विद्याक्षरप्रथमकूटमध्यमध्यगसाध्याक्षरोपेतं लिखेत्। एतत् प्रथमं यन्त्रं। अस्मिन्नेव यन्त्रे प्रोक्तेषु दशसु
-
-
 
 **साध्याक्षरसमोपेतं यन्त्रं स्यादिष्टसिद्धिकृत्।  
 तेषामन्योन्यसम्भेदालेखनात् स्युरनन्तकाः॥७४॥**
@@ -4787,8 +4268,6 @@ OXFORD,
 
   प्राक्प्रत्यगित्यादिभिः सम्पद इत्यन्तैरष्टभिः श्लोकैः कोष्ठवज्जयन्त्रषट्कं तद्विनियोगांश्चोपदिशति। तत्र सुसमानि प्रत्येकं परस्परं समचतुरस्राणि। तत्कोणतःतस्य प्रोक्तसंख्यप्रकोष्ठस्य यन्त्रस्य चतसृषु कोणदिक्षु। चत्वारिंशत् सपञ्चकं पञ्चचत्वारिंशत् कोष्ठानीति शेषः। चतुर्भिः प्रतिदिशमिति शेषः। तेषु चतुर्षु कोणेषु। तास्ताः स्वसिद्धाः। साध्याख्यासमायुताम् साधकसाध्यकर्म्माख्यायुतामित्यर्थः। प्राड्मध्यमारम्भात् सर्व्वप्राचीनपंक्तिस्थ कोष्ठपञ्चकमध्यमकोष्ठारम्भादित्यर्थः। कोणमध्यस्थपञ्चकेत्युक्त्या कोष्ठाष्टकरूपे सप्तमावरणे चतुर्दिग्गत-
 
-
-
 **प्राग्वत् प्राङ्मध्यमारम्भात् प्रादक्षिण्यप्रवेशतः।  
 विलिखेदमृतार्णांस्तु क्रमात् षष्टिशतं प्रिये॥७८॥**
 
@@ -4804,8 +4283,6 @@ OXFORD,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 कोणे लिखेत्। वाह्यादिवह्निकोणस्थकोष्ठादि अन्यास्तु पञ्चत्रिकोणलिखितस्वसिद्धविद्याव्यतिरिक्ताः। साध्याक्षरयुतानि तत्तद्विद्याकूटाक्षराणि षट्भिर्विद्याभिः। तेषां यन्त्राणां गदादिपरिरक्षणं फलमिति शेषः। अन्यानि मङ्गलानि आयुःश्रीपुत्रधनलाभादीनि। तत्र देशे। मारी यावन्मण्डलमेकव्याधिना नाशकरोशक्तिः। अयमत्र यन्त्रविलेखनक्रमः प्राक्प्रत्यग्दक्षिणोदक्कसमान्तरालानि विंशतिसूत्राण्यास्फाल्य तेनैकषष्ट्यधिकत्रिशतकोष्ठान्युत्पाद्या तेषु चतुर्षु कोणेषु प्रतिकोणं पञ्चचत्वारिंशत्षड़्चत्वारिंशत् कोष्ठानि सम्भूयाशीत्यधिकशतकोष्ठानि प्राग्वद्विज्राकारं मार्जयित्वा शिष्टेष्येकाशीत्यधिकशतकोष्ठेषु चतसृषु दिक्षु प्रतिदिशं प्राग्वत् कोष्ठचतुष्टयं सम्भूय षोड़श कोठानि मार्जयित्वा तत्र तत्र प्राग्वत्त्रिकोणानि कृत्वा तेषु त्रिकोणेष्वमृतेश्वरीविद्यासु षट्सु प्रथमं स्वामिमतविद्यां साध्यादिसंयुक्तकूटत्रयगर्भामालिख्य शिष्टकोष्ठपञ्चषष्ट्यधिकशतैः प्राग्वत् सर्वप्राचीनपंङक्तिस्थकोष्ठपञ्चकमध्यकोष्ठमारभ्य प्रादक्षिण्यप्रवेशगत्या प्राग्वदमृतार्णषष्ट्यधिकशतके षट्पञ्चाशदधिकशताक्षराणि यावत् षष्ठावरणान्तं विलिख्य शिष्टाक्षरचतुष्टयं सप्तमावरणकोष्ठाष्टके प्रागादिचतुर्दिग्गत कोष्ठचतुष्टये कोणकोष्ठचतुष्टयवर्जं विलिखा वर्जिततत्कोणगतकोष्ठचतुष्टये मध्यकोष्ठे च सम्भूय पञ्चकोष्ठेषु वह्निकोष्ठादारभ्य मध्यकोष्ठान्तं प्रादक्षिण्येन दिगन्तत्रिकोणलिखितामृतेश्वरोविद्याशिष्टविद्यापञ्चकं प्राग्वत् ससाध्यं समालिखेत्। एतत् प्रथमं यन्त्रम् । एवं अमृतेश्वरोद्वितीयादिविद्यापञ्चके स्वाभिमतां विद्यां प्रत्येकं
-
-
 
 **तत्र चौरग्रहव्याधिमारीदुर्भिक्षशत्रवः।  
 सदा न सम्भवन्त्येवं भवन्त्येव च सम्पदः। ८२॥**
@@ -4824,8 +4301,6 @@ OXFORD,
 वहिस्त्रिकोणेषु प्राग्वद्विलिख्य तदनन्तरादि तदन्यपञ्चकस्य तदन्यपञ्चकस्य प्राङ्मध्यकोष्ठपञ्चकविलेखनात् पञ्चयन्त्राणि सम्भूय पूर्वोक्तेन सह षड़्यन्त्राणि निष्पाद्यतैः प्रोक्तान् विनियोगान् कुत्वा प्रोक्तानि फलान्यवाप्नुयादिति॥८२॥
 
   प्राक्प्रत्यगित्यादिभिः संयुत इत्यन्तैरष्टभिः श्लोकेरेकषष्टिकोष्ठात्मकवज्र यन्त्रनिर्माणं तत्र मिथुनपूजनं तत्सामान्ये फलं द्रव्यविशेषपूजनात् फलविशेषावाप्तिं कालविशेष पूजनात् फलविशेषं चोपदिशति। तत्र अभितः प्राग्वत् कोणचतुष्टये प्रतिकोणमित्यर्थः दशपञ्चसमोपेतं क्रियाविशेषणमेतत्। पञ्चदशकोष्ठाणि मार्जयेदित्यर्थः। वज्रैकषष्टिके वज्ररूपयन्त्रकोष्ठैकषष्टिके इत्यर्थः। मध्ये सर्व्वमध्यकोष्ठे। तद्दिनजां विद्यां पञ्चदशपटले प्रोक्तासु कालनित्याविद्यासु तत्तद्दिननित्यात्वेन प्राप्तां विद्याम्। आख्यासमन्वितां प्राग्वत् साधकादित्त्रयगर्भाम्। एकैकतः कोष्ठत इत्यर्थः। प्रतिदिशमिति शेषः। यथाबिधि समत्रिरेखमित्यर्थः। प्रागवत् हृल्लेखोदरे। अग्रत्रिकोणात् पश्चिमादग्रतः त्रिकोणमारभ्येत्यर्थ। उदयाक्षरात् पञ्चविंशपटलोक्तक्रमात्तत्तद्दिनेष्वर्कोदयघटिकाप्राप्ताक्षरमारभ्येत्यर्थः। क्रमतः दिवसपञ्चकषड़ावृत्ति क्रमतः। मिथुनानि नित्यानित्यापटलोक्तानि। अत्र यन्त्रे। घटिकाक्रमयोगेन तत्तदुघटिकासु प्रतिघटिकं तत्तदुघटिकाप्राप्तमिथुनक्रमादित्यर्थः। तथा नित्यानित्यापटलोक्तादिभिरित्यर्थः। अन्यजासु भूतप्रेतग्रहाद्युत्थास्वित्यर्थः। सप्तमी वहुवचनान्यन्यानि
-
-
 
 **षष्ट्यक्षराणि क्रमतो मिथुनान्यत्र पूजयेत्।  
 घटिकाक्रमयोगेन गन्धपुष्पादिभिस्तथा॥८६॥**
@@ -4849,8 +4324,6 @@ OXFORD,
 
 पदानि त्रीणि तीब्रार्त्तिषु पदविशेषणानि। तत्र यन्त्रे। मण्डलात् प्राग्वद्दिनैः। पूर्णासु त्रिबिधासु त्रिजन्मसु प्राग्वत्। एतदुक्तं भवति प्राक्प्रत्यग्दक्षिणोदक्षिणोदक् च समान्तरालानि द्वादशसूत्राण्यास्फाल्य एकविंशत्यधिकशतकोष्ठानि निष्पाद्यतेषु चतुर्षु कोणेषु प्रतिकोणं पञ्चदश पञ्चदश कोठानि सम्भूय षष्टिकोष्ठानि प्राग्वद्वाज्राकारं मार्जयित्वा शिष्टेष्वेकषष्टिकोष्ठेषु चतसृषु दिक्षु प्रतिदिशमेकमेकं कोष्ठं मार्जयित्वा तत्र तत्र समत्रिरेखानि त्रिकोणानि बिधाय तत्र पश्चिमदिग्गतत्रिकोणमारभ्य त्रिकोणसहितवाह्यावरणविंशतिकोष्ठेषु द्वितीयावरणषोड़शकोष्ठेषु तृतीयावरणद्वादशकोष्ठेषु चतुर्थावरणाष्टकोष्ठेषु पञ्चमावरणचतुष्कोष्ठेषु एवं सम्भूय षष्टिकोष्ठेषु घटिकाक्रमात्तत्तद्दिनोदयप्राप्तघटिकाक्षरात् प्रवृत्तषष्टिघटिकाक्षराणि हृल्लेखोदरे प्रादक्षिण्यप्रवेशगत्या विलिख्यसर्व्वमध्यकोष्ठे हल्लेखोरे तत्तद्दिननित्याविद्यांसाधकादिनामत्रयगर्भामालिख्यतत्तद्दिनादिप्रतिघटिकं तत्तद्वटिकामामिथुनानि नित्यानित्यापटलोक्तमन्त्रादिभिः प्रोक्तकालेषु प्रोक्तकालाबधिपूजनात् प्रोक्तफलसिद्धिरिति॥९०॥
 
-
-
 **मान्त्रिकैर्यामतो वारकल्पितैः स्वगृहे नृपः।  
 नित्याभक्तैः समीचीनैः स्निन्धैः संप्राप्तदक्षिणैः॥९२॥**
 
@@ -4872,8 +4345,6 @@ OXFORD,
 
   पूर्णाभिषेकेत्यादिभिश्चराचरमित्यन्तैः पञ्चभिः श्लोकैः द्वितीयपटलप्रोक्त पूर्णाभिषेकचक्रे पूज्यदेवतानां सचत्वारिंशच्चतुःशताधिकसह- स्रसंख्यानां तासां प्रत्येकं षोड़शाक्षरमन्त्रस्वरूपञ्चोपदिशति। तत्र चक्रे द्वितीयपटल प्रोरूक्तपे। तासां शक्तीनां। याभिः शक्तिविद्याभिः। सिद्धविग्रहः देव्यात्मा भवति।
 
-
-
 **खरोत्थाभिः सहोत्थाभिर्नित्याविद्याभिरेव तु।  
 समीरिता विषोढ़ाभिः स्वरवर्जमशेषतः॥९७॥**
 
@@ -4889,8 +4360,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 स्वरोत्याभिः पञ्चविंशपटलोक्तकालनित्याविद्यासु वशिनीवर्गजनितनित्याविदद्याभिः षट् सप्तत्यधिकपञ्चशतसंख्याभिः। सहोत्थाभिःतासु सकारहकारजनितनित्याभिस्तत्संख्याभिः नित्याविद्याभिरिति विशेष्यं। समीरिताः विद्याःविषोढाभिः स्वरवर्जं वशिनोवर्गवर्जं सकारहकारयोः षण्डाक्षरचतुष्टय चतुष्टयजनितचतुश्चत्वारिंशदधिकशतसंख्यनित्याविद्यारहिताभिरित्यर्थः। चत्वारिंशच्चतुःशतं चत्वारिंशदधिकचतुःशतं। एतदुक्तं भवति पञ्चविंशपटलोक्त २०७३६ कालनित्याविद्यावशिनीवर्गजनितषट्सप्तत्यधिक पञ्चशतसंख्या विद्यास्तासु सकारोत्थासु प्रोक्तसंख्यासु विद्यासु षण्डाक्षरजनितचतुश्चत्वारिंशदधिकशतसंख्या विद्यारहिताः शिष्टाद्वात्रिंशदुत्तरचतुःशतसंख्या विद्यास्तत्संख्यविषण्डहकाराक्षरविद्याश्च\ चतुःशतोत्तरसहस्र संख्यानित्याविद्याः। तच्छ्रीचक्राङ्गत्वेनोक्तानां विद्यानामसाधारणत्र्यक्षररूपा भवन्तीति। वीजद्वयसमन्वितं मायाश्रीवीजसमन्वितं सर्व्वादाविति शेषः। शक्तीति सहितं रूपशक्ति इति चतुरक्षरोपेतं। पूर्वोक्तासाधारणरूपत्यक्षर कालनित्याविद्यानामन्त इत्यर्थः। सप्ताक्षर्य्यन्तं सर्व्वचरमे द्वितीयपटलोक्तसप्ताक्षरीविद्यासहितमित्यर्थः। एतत् सर्व्वमसाधारणत्र्यक्षरनित्याविद्यारूपस्य विशेषणं। ताभिः पूर्व्वसंप्रस्तुताभिः। ता विद्या यथा— ह्रीं श्रीं अ आ इरूपशक्तिपादुकां पूजयामीत्यादि ह्रीं श्रीं हः क्ष ई रूपशक्तिपादुकां पूजयामीत्यन्ताः। ताः प्रोक्तसंख्याः शक्तयो ललिताश्रीचक्रस्थशक्तीनामणिमादिमहात्रिपुरसुन्दर्य्यन्तानां षण्वतिसंख्यानां प्रत्येकं पञ्चदशपञ्चदशसंख्याविभागेनावरणशक्तयो भवन्तीति।
-
-
 
 **नियमात्ममयी व्याप्तिरिति सम्यक् समीरिता।  
 अस्या निफालनाच्चित्ते तत्तत्त्वं स्वात्मसात् कृतम्॥**
@@ -4909,7 +4378,6 @@ OXFORD,
 
 परामृष्टम्॥२६॥ॐ तत्सत्॥  
 
-
 यन्त्रसंख्या—२२७७७३८५९८३६७२३२००००००
 
 ज्ञानेन निम्ना श्रोगौरीसिताङ्गा दुग्धशब्दगा।  
@@ -4918,8 +4386,6 @@ OXFORD,
 ग्रन्थसंख्याः— षड़विंशे पटले प्रोक्ता व्याख्याग्रन्थाश्चतुःशतात्।
 
 परमष्टयुतं त्रिंशदधिकं संख्यया स्फुटम्॥
-
-
 
 सप्तविंशपटलम्
 
@@ -4937,8 +4403,6 @@ OXFORD,
   पूर्व्वस्मिन् षड्विंशे पटले षोड़शनित्यानां व्याप्तिवैभवप्रकाशनपरं मन्त्रव्याप्तिं तन्मयामृतेश्वरीविद्यादिकञ्चोपदिश्यानन्तरं षोड़शनित्यानां मातृकाभूतनाथाद्यैः श्रीचक्रेण शक्तिभिश्चकालेन प्राणात्मतादिकमुपदिशत्यथषोड़शेत्यादिभिर्भवेदित्यन्तेन श्लोकशतरूपेण सप्तविंशेन पटलेन। तत्र अथ षोड़शेत्यादिभि रुपपादकानित्यन्तैस्त्रिभिः श्लोकैः पटलार्थमुपदिशति। तत्र कालेन प्राणता प्राणात्मककालत्रये‍ण तदात्मता। मातृकाभूतनाथाद्यैः आदिक्षान्तैर्विसर्जनीयरहितैः पञ्चाशद्भिर्मातृकाक्षरैः पञ्चभिर्भूतैः नवभिर्नार्थः आद्यशब्देन षट्त्रिंशत्तत्वादिभिश्च। श्रीचक्रेण नवचक्रात्मकेन शक्तिभिः तत्रस्थषस्मवतिभिरेकनवतिभिश्च। लवादीनान्तु कालस्य लवादित्रुट्युन्तानां मात्रायादुर्लक्ष्यत्वात् ज्ञातुमशक्यत्वात्तदीरितं स्वरूपमिति शेषः। तत्संख्याभिः श्वाससंख्याभिः घटिकाहोरात्रादिरूपसंजाताभिः। क्रमेण वक्ष्यमाणक्रमेण अहोरात्रस्येत्यस्य तत्संख्याभिरिति पूर्व्वत्त्रान्वयः। तद्व्याप्तिं श्वासात्मकत्वं उक्ता तेनान्यदूहयेदिति। भिन्न कर्त्तृत्वं स्वातन्त्र्यात्। अन्यन्मासवर्षादिकालरूपं विशेषात् गतिवृत्तीं श्वासानामिति शेषः। आन्तरात् भूतोदयाद्यात्मकात् वाह्यात् दक्षवामपार्श्वाद्युद्देशात् तत्तत्सिद्ध्युप
 
 पादकान् शुभाशुभसिद्धिकरान्। एतदुक्तं भवति षोड़शनित्यानां तदात्मकानां मातृकादीनां स्वरूपेण श्वासात्मकेन कालरूपेण सवाह्याभ्यन्तर-
-
-
 
 **मूलाधारोद्भवो वायुः प्राणाद्याख्यां समश्नुते।  
 स तु पञ्चविधो भूतभेदादुद्भवदेशतः॥४॥**
@@ -4965,8 +4429,6 @@ OXFORD,
 
   गुर्वित्यादिभिरीरितावित्यन्तैः सप्तभिः श्लोकैः श्वासानामुदयविशेषैः इष्टस्थान पञ्चकालविशेषैश्चैकादशविधचन्द्रसूर्य्यात्मकत्वं राह्वात्मकत्वसहितमुषदिशति। तत्र गुरुकेत्वित्यादिना श्लोकेनैतदुक्तं भबति। उभयोरपि नासापुटयोः प्राणाग्नीलाम्बुरूपेषु चतुर्षु भूतोदयेषु वामदक्षिणपुटक्रमेण प्रवाहे प्रोक्तक्रमग्रहद्वन्दात्मकत्वं व्योमोदये राहुविधुग्रहाष्टकात्मकत्वं च भवतीति। उभयस्थःउभयपुटस्थः श्वासानामेवमेवं प्रकारप्रवाहकारणं गुरुमुखादवगन्तव्यम्। वामदक्षावित्यस्य पुटाविति पूर्व्वत्रान्वयः। तयोः पुटयोरेकैकस्मिन्नपि। तथा चन्द्रसूर्य्यौ जीवः
 
-
-
 **गृहेषु चन्द्रो गुर्व्विन्दुगुरुज्ञा भास्करः परे।  
 मातृकाञ्च तथा विद्या स्वरव्यञ्जनभेदतः॥९॥**
 
@@ -4989,13 +4451,9 @@ OXFORD,
 
 भाग इत्युत्तरत्रान्वयः। तथा चन्द्रसूर्य्यावित्यर्थः। अन्यत्रयं अग्नोरव्योमात्मकं परे कुजसौरिकेत्वर्काः। तथा चन्द्रसूर्य्यो ऊर्द्धाग्रे प्रथमाद्विवचनमेतत्। तथा चन्द्रसूर्य्यौआन्तराः पक्षात्मकत्वविधुराः। एवमुक्तप्रकारेण। दशेत्यस्य आन्तरा इति पूर्व्वत्रान्वयः। वाह्याभ्यां शुक्लकृष्णरूपाभ्यां चन्द्रसूर्य्याभ्यां। चकारः समाहारे॥१२॥
 
-  
-
 तयोरित्यादिना श्लोकेन प्रोक्तचन्द्रसूर्य्यराहुशून्यानां सामान्यं फलमुपदिशति। तत्र भास्कराः शून्यरूपविधुराः॥१३॥
 
   सूर्य्येष्वित्यादिभिः परमेश्वरीत्यन्तैश्चतुर्भिः श्लोकैः चन्द्रसूर्य्यराहुशून्येषु कर्त्तव्यानि कर्म्माणि प्रश्नप्रकारविशेषे फलविशेषादिकञ्चोपदिशति। तत्र सूर्य्येषु एका दशविधेषु। मृधभोजनमैथुनैःयुद्धभोजनमैथुनैः सहेति शेषः। संग्रह इत्यस्य शस्त इति पूर्व्वत्रान्वयः। अन्यदखिलं शिष्टमङ्गलरूपकर्म्मजातं। चन्द्रे एकादशविधे। तथ्यं दृष्टं वानिष्टं वा निश्चित्य भवतीत्युक्तं अस्तीति निश्चित्य नास्तीति निश्चित्य
-
-
 
 जीवे तु कथितं तथ्यं [मेध्यदर्शश्च[^31]सिध्यति।  
 निश्चित्य भवतीत्युक्तमन्यथा चेत्तदन्यथा॥१५॥
@@ -5021,8 +4479,6 @@ OXFORD,
 
   वामे इत्यादिना शिष्ययोरित्यन्तेन श्लोकद्वयेन गुरुणा शिष्यस्य मन्त्रोपदेशकालविशेषं तदकरणे प्रत्यवायञ्चोपदिशति। तत्र देशिकशिष्य यारित्यस्य वामे इति पूर्व्वत्रान्वयः। तत्स्थाने वामभागे। तं शिष्यं तत्कर्णे वामकर्णे। अथवा पक्षान्तरे जीवगस्थाने वामदक्षिणभेदतः। तत्कर्णे जीवकर्णे। अन्यथा उक्त प्रकारद्वयवैपरीत्येन। एतद्वामभागजीवस्थापनं नित्याविद्याविधुरसमस्तमन्त्रोपदेशे नित्यानान्तु सवाराहोकुरुकुल्लानां तत्तत्पूजाचक्रे स्वपुरस्थापनमस्माभिः पूर्वोक्तमेव। अत्र श्वासानां भूतादिस्वरूपोदयावगमनोपायान्तरमाराध्यमुखादवगन्तव्यम्॥१९॥
 
-
-
 षष्ट्या युतैस्तु त्रिशतैर्निश्वासैर्नाड़िका मता।  
 तासां षष्ट्या दिनं पूर्णं तद्दिनं स्यात् पुनः पुनः॥२०॥
 
@@ -5042,8 +4498,6 @@ OXFORD,
   आरभ्येत्यादिभिर्भवन्ति हीत्यन्तैस्त्रिभिः श्लोकैः श्वासानां पुटयोः पूर्व्वपक्षप्रतिपदादिभूतेषूदयकालं पुटान्तरसंक्रमणकालक्रमं प्रोक्तनिगमनविपर्य्यासे फलञ्चोपदिशति। तत्र सप्तत्या द्विशतं प्रतिभूतं श्वासा इति। नवत्या श्वासैरन्यत्र पुटान्तरे संक्रमः पुटात् पुटसंक्रान्तकालः तदुभयपुटप्रवाहितया स राहुर्भवतीति यावत्। तत्रापि संक्रान्तपुटान्तरेपि। एवं प्रोक्तकालावधि। अतोन्यत्र संक्रान्तपुटान्तरसंक्रम इति पूर्वोक्तकालावधि। एवं प्रोक्तप्रकारपरिवृत्या पञ्चदशपरिवृत्तयः। आदौ युगानामिति शेषः। दर्शप्रतिपदं प्रति प्रतिदर्शं प्रतिप्रतिपदमित्यन्वयः प्रतिशुक्लप्रतिपदमित्यर्थः। सर्वेषां जीवानां। एतदुक्तं भवति युगादिषु शुक्लप्रतिपदि सूर्य्योंदयमारभ्य एकस्मिन् पुटे पञ्चाशदधिकत्रयोदशशत॥१३५०॥ श्वासैः पञ्चानां भूतानामुदयः। ततो नवत्या श्वासैः ना
 
 ह्यन्तरे संक्रमः। एवञ्च चत्वारिंशदधिकचतुर्द्दशशत ॥१४४०॥ श्वासै रेकावृत्तिः। एवं पञ्चदशावृत्तिषु षट्शताधिकान्येकविंशतिसहस्राणि श्वासा भवन्तीति पर्य्यवसितोऽर्थः। युगादिषु शुक्लप्रतिपदि प्रातरर्कोदयं प्रारभ्य पुटयोर्व्वामदक्षिण-
-
-
 
 एवं क्रमेण सर्व्वेषां प्राणोदय उदीरितः।  
 एतत्क्रमविपर्य्यासादभव्यानि भवन्ति हि॥२४॥
@@ -5068,8 +4522,6 @@ OXFORD,
   घटिकेत्यादिना अक्षरैरित्यन्तेन श्लोकद्वयेन
 प्रतिदिनमुदयघटिकाक्षराणि तदुघटिकाक्षराणां श्वासात्मकत्वं तेषु श्वासेषु भूताक्षरोदयक्रम- ञ्चोपदिशति। तत्र
 
-
-
 तेषु तद्भूतवर्णानां दशानामादितो दश।  
 सप्तावृत्त्या ततः शेषाःप्राणाग्नीलाम्बु
 
@@ -5085,8 +4537,6 @@ OXFORD,
 
   संख्याभिरित्यादिभिरीश्वरीत्यन्तैश्चतुर्भिः श्लोकैः प्रस्तावादिपुरःसरमहोरात्रादि श्वासानां प्रोक्तसंख्यानां कालनित्यादिश्रीचक्रस्थशक्त्य- न्तानामेकादशविधानामप्यवान्तरव्याप्तिं समव्याप्तिं तदनुसन्धानवैभवञ्चोपदिशति। तत्र संख्याभिः श्वासानामित्युत्तरत्रान्वयः। वासनाव्याप्तिं वासनाञ्च व्याप्तिं च वासनात्मिकाव्याप्तिमित्यर्थः। वक्ष्यमाणानामेकादशविधानामिति शेषः। सुन्दरीति देवीसम्बुद्धिः। यया व्याप्त्या नित्याताद्व्याप्तिविद्यानां पञ्चविंशपटलप्रोक्तसंख्यानां पूर्व्वमहोरात्रश्वाससंख्यानां मध्ये एकशः प्रतिविद्यमेकेकश्वास इत्यर्थः। ततः पूर्वोक्तश्वास-
 
-
-
 नित्याविद्याप्तितत्त्वानां संख्याः स्युः पूर्वमेकशः।  
 ततो दिनार्णाः सन्ध्याः स्युस्ततश्च घटिकार्णकाः॥३०॥
 
@@ -5098,8 +4548,6 @@ OXFORD,
 संख्यायाःपरमित्यर्थः। दिनार्णाः पूर्णमण्डलार्णाः। सन्ध्याः सन्ध्यात्रयप्राप्तैकषष्टिसंख्याः। पूर्णमण्डलश्वाससंख्यायाः परमिति शेषः। ततस्तत्संख्यायाः परं। घटिकार्णकाः षष्टिसंख्या इति शेषः। द्वादशराशयो घटिकार्णंसंख्यायाः परमिति शेषः। ततः राशिसंख्यातः। ग्रहाः नव भूतानि पञ्चसंख्यातः। मातृका भूतसंख्यातः परमिति शेषः। पञ्चाशद्विसर्जनीयविधुरा वर्णा इति शेषः। भक्तयः मातृकासंख्यातः परमिति शेषः। सैका नवतयः आयुधाष्टकस्य मिथुनचतुष्टयत्वेन गृह्यमाणत्वान्मध्यदेवताविधुरत्वाच्च। देवी ललिता सर्वात्मनां श्वाससमष्टिरूपेणं। एतदुक्तां भवति अहोरात्रात्मकानां षट्शतोत्तरैकविंशतिसहस्रसंख्यानामादितः कालनित्यारूपाः षट्त्रिंशदधिकसप्तशतोत्तरविंशतिसहस्रसंखा्याःश्वासा भवन्ति। तच्छिष्टेषु चतुःषष्ट्यधिकाष्टशतसंख्येषु श्वासेषु षठ्सप्तत्यधिकपञ्चशतसंख्यश्वासाः पूर्णमण्डलवर्णरूपा भवन्ति। तच्छिष्टेष्वष्टाशीत्यधिकद्विशतसंख्येषु श्वासेषु सन्ध्यात्रयरूपनाथतत्त्वनित्यात्मकरूपा एकषष्टिश्वासा भवन्ति। तच्छिष्टेसप्तविंशत्यधिकद्विशतश्वासेषु षष्टिश्वासा अहोरात्रषष्टिकाक्षररूपा भवन्ति। तच्छिष्टेषु सप्तषष्ट्यधिकशतश्वासेषु द्वादश श्वासा द्वादश राश्यात्मका भवन्ति। तच्छिष्ठेषु पञ्चपञ्चाशदुत्तरशतश्वासेषु नवश्वासा नवग्रहात्मका भवन्ति। तच्छिष्टेषु षट्चत्वारिंशदधिकशतश्वासेषु पञ्चश्वासाः पञ्चभूतात्मका भवन्ति। तच्छिष्टेष्वेकचत्वारिंशदुत्तरशतश्वासेषु पञ्चाशच्छ्वासाः विसर्जनीयरहिता मातृकाक्षरात्मका भवन्ति। तच्छिष्टा एकनवतिसंख्य श्वासाः प्रोक्तक्रमसंख्यश्रीचक्रस्य शक्तिरूपा भवन्ति। एवं क्रमेणाहोरात्रात्मकश्वासाः समष्टिरूपा[^33] परिच्छिन्नविग्रहविश्वरूपा ललितात्मका भवन्ति। अत्र पूज्यपादमुखादवगतोऽर्थस्तदाज्ञया लिख्यते यथा— अहोरात्रोक्तसंख्याः श्वासाः पञ्चाशदक्षरात्मिकाया मातृकाया द्वात्रिंशदधिकचतुःशतावृत्त्या तदात्मका भवन्ति। ते
 
 [^33]: "सप्तषष्टिरूपा।"
-
-
 
 सैका नवतयः प्रोक्ता देवी सर्व्वात्मना स्थिता।  
 एवं विद्यां वासनां यो भावयेत् परमेश्वरि॥३२॥
@@ -5124,8 +4572,6 @@ OXFORD,
 
   प्रागित्यादिभिः परेत्यन्तेर्दशभिः श्लोकैर्नाड़ीचक्रस्वरूपं तत्र कुण्ठलिनीस्थितिञ्चोपदिशति। तत्र प्राक्प्रोक्तमूलाधारस्य नित्यानित्यापटल- प्रोक्तस्य। मध्यगा मणौ सूत्रवन्मध्यरन्ध्रस्यूतेत्यर्थः। ब्रह्मरन्ध्रान्ता ब्रह्मरन्ध्रावसाना सुषुम्नेति पूर्व्व-
 
-
-
 त्र्यस्राग्रादुत्थिता नाड़ी कुहूर्नाम ध्वजान्तिका।  
 तद्वामदक्षपार्श्वाभ्यां सविश्वोदरवारणे ॥३७॥
 
@@ -5146,8 +4592,6 @@ OXFORD,
 त्रान्वयः। नासाग्रात् द्वादशाङ्गुले नासाग्रमारभ्य द्वादशाङ्गुलमानावधिके स्थाने ब्रह्मरन्ध्रमित्यर्थः। तदग्रात् सुषुम्नारम्भपुरोभागस्थानमारभ्य पायुगा गुदरन्ध्रावसाना। त्र्यस्त्राग्रात् मूलाधाररूपत्र्यस्राग्रकोणात् ध्वजान्तिका मेहनपर्य्यवसाना। तद्वामदक्षपार्स्वाभ्यां कुहूसंज्ञिकाया नाड्या इति शेषः। जठरान्ता विश्वोदरा जठरमध्यान्ता सर्व्वगा अधश्चोर्द्धप्रसृता सर्व्वगा वारणा। प्रोक्ते इत्यस्य विश्वोदरवारणेति पूर्व्वत्रान्वय। तद्वदनन्तरे तदनन्तरवामदक्षस्थिते। तत्तदङ्गुष्ठगे पदोः वामदक्षयोः पादयोस्तत्तदङ्गुष्ठावसानके भवत इत्यर्थः**।**
 
 तथैव तदनन्तर वामदक्षपार्श्वरम्भतः नासारन्ध्रद्वयान्तगे। एतदुक्तं भवति मूलाधारत्र्यस्रमध्यस्थसुषुम्नाया वामपार्श्वमारभ्य प्रोत्थितवक्राकारा ध्वजमूले सुषुम्नाश्लेषतो दक्षिणभागं गत्वा पुनस्तत्रापि वक्रगत्या नाभिप्रदेशे पुनरपि सुषुम्नाश्लेषतो वामभागवक्रगत्या हृदये भूयोऽपि सुषुम्नाश्लेषदक्षिणभागाष्टकाश्रयवक्रगत्या कण्ठदेशे पुनरपि सुषुम्नाश्लेषतो वामांशजत्रुमध्योर्द्धवक्रगत्या ब्रह्मरन्ध्रप्रदेशे पुनरपि सुषुम्नाग्राश्लेषतो दक्षिणवक्रगत्याधोमुखा सुषुम्ना भ्रूमध्यप्रदेशे सुषुम्नाश्लषतो वामनासारन्ध्रपर्य्यवशायिनी इड़ासंज्ञा नाड़ी भवति। पिङ्गला तु प्राग्वद्दक्षिणभागारम्भा दक्षिणवामदक्षिणवामविनिमयक्रमवक्रगत्या सुषुम्नोर्द्धाश्लेषपर्व्व-
-
-
 
 तासां प्रधाननाड़ीनां संख्या सार्द्धत्रिलक्षकम्।  
 अप्रधानाः शिरा देहे त्वसंख्या याभिरेव वै॥४२॥
@@ -5172,8 +4616,6 @@ OXFORD,
 
 रन्ध्रपायुध्वजाश्लेषपन्नासानेत्रकर्णगाः।  
 जिह्वाकर्णाक्षिनासाङ्घ्रि जठरान्ताः प्रदक्षिणात्॥इति॥४४॥
-
-
 
 मर्म्माण्यङ्गुष्ठगुल्फाङघ्रिपृष्ठजङ्घाख्यजानुषु।  
 ऊरूसीवनिकामुष्कमेट्रनाभिषु पार्श्वयोः॥४५॥
@@ -5202,8 +4644,6 @@ OXFORD,
 
   दशानामित्यादिभिः कल्प्यते इत्यन्तैः पञ्चभिः श्लोकैस्तत्प्रस्तावपुरःसरं देहस्थानां दशानां वायूनां नामानि तत्क्रियास्तदनुभाबञ्चोपदिशति। तत्र ऊर्द्धाधोगमनासक्तौपरस्परं शृङ्खलावत् वद्धस्वरूपावेककाले ईर्षयेति शेषः। प्राणापानौ प्राणापानाख्यौ। नाग इति वायुनाम कृकर इति च देवदत्तो धनञ्जयश्चति। कूर्म्म इति वायुनाम। उदान इति द्विकृत् उन्मेषनिमेषकृत्। समान-
 
-
-
 तेषां प्रसाराद्देहस्य समीचीना स्थितिर्भवेत्।  
 वैलोम्ये विकृताङ्गत्वाल्लोकैर्नाशाय कल्प्यते॥५२॥
 
@@ -5229,8 +4669,6 @@ OXFORD,
 
   तत्प्रत्यूहेत्यादिना यमइत्यन्तेनाध्यर्द्धेन श्लोकेन प्रत्यूहान् यमस्वरूपञ्चोपदिशति। तत्र तत्प्रत्यहाः योगप्रत्यहाः। सर्व्वनाशकाः स्वरूपलाभ- प्रत्यूहरूपत्वात्। आत्मापरोक्षप्रत्यूहकर्मणस्तु यमो यमः। स्वरूपापरोक्षप्रत्यूहभूतानां प्रोक्तानां कामादीनां षण्णांउद्योगेभ्य उपरमणं यमः यमाख्यमङ्गम्॥५६॥
 
-
-
 आत्मापरोक्षप्रत्यूहकर्म्मणस्तु यमो यमः।  
 तथैकादशरूपः स्यान्नियमः परिकीर्त्तितः॥५७॥
 
@@ -5251,8 +4689,6 @@ OXFORD,
   तथैकादशेत्यादिना सेवनमित्यन्तेनार्द्धाद्येन एकश्लोकेनैकादशविधनियमस्वरूपमुपदिशति। तत्र तथा यथा यमः तथा नियमः नियमाख्यमङ्गं। समता लाभहान्योः। त्रिधा शौचं मनोवाक्कायरूपतः। सन्तोषःपूर्णता॥५८॥
 
  पद्मेत्यादिभिः स्मृतमित्यन्तैञ्चतुर्भिः श्लोकैर्नामपुरःसरमष्टविधान्यासनस्वरूपाण्युपदिशति। तत्र मनस्थैर्य्यकरणे योगाभ्यास इति शेषः। साधकानि उपकारकानि। ऊर्वोरुपरीत्यादिना श्लोकेनैतदुक्तं भवति वामपादतलकनिष्ठासम्बन्धिपार्श्वस्य दक्षिणोरुमध्योपरि दक्षिणपादतलकनिष्ठासम्बन्धिपार्श्वस्य वामजङ्घोपर्य्याक्रमणेन वामोरुमध्योपरि चैवं व्यत्यासक्रमात् विन्यासेन वामजङ्घाया दक्षिणजङ्घोपर्य्याक्रमणेन च पूर्व्ववद्विन्यासाद्द्विविधं पद्मासनं भवतीति। तथा द्विविधव्यत्यासक्रमात्। तयोरूर्वोः तदन्तः पार्श्वसङ्गमात्। एतदुक्तं भवति वामपादतलाङ्गुष्ठसम्वन्धिदक्षिणोरोरधोभागस्य दक्षिणपादतलाङ्गुष्ठसम्बन्धिपार्श्वोपरि वामोरोरधोभागस्य च प्राग्वत् व्यत्यासविन्यासात् पुनः पूर्व्ववत् जङ्घाद्वयोपर्य्यन्योन्याक्रमणविन्यासात् च पादतलद्वयाङ्गुष्ठसम्बन्धिपार्श्वन्योन्याक्रमेण विन्यासाच्च द्विविधं स्वस्तिकासनं भवतीति। तलान्त इत्यादिना श्लोकेनैतदुक्तं भवति एकं पादमूर्वोरन्यतमस्याधोभागे स्वतलाङ्गुष्ठसम्बन्धिपार्श्वेन सङ्गतं कुर्य्यात्। पुनश्च वामदक्षिणव्यत्यासेनैव कुर्य्यात्। तेनैतद्द्विविधं भद्रासनं
-
-
 
 तलान्तः पार्श्वगं कुर्य्यादेकमन्यन्तु वाह्यगम्।  
 ऊर्वोरधस्तथोर्द्धे च द्विधा भद्रासनं स्मृतम्॥६२॥
@@ -5280,8 +4716,6 @@ OXFORD,
   व्यत्यस्तेत्यादिना श्लोकेनैतदुक्तं भवति जङ्घोर्द्धसंस्पर्शादूर्द्धभूतं जङ्घयोर्वत्यस्ततलकनिष्ठासम्वन्धिपार्श्वाक्रान्तभूतलयोः पादयोर्जानुदेशे स्वान्तराधिमध्ये च योगपट्टवन्धनाज्जान्वोरुपरि प्रसारितवाहुदण्डप्रकोष्ठविन्यासात् पुनःप्राग्वज्जङ्घाद्वयवाह्याभ्यन्तरस्पर्शविन्यासभेदाच्च द्विविधं वीरासनं भवतीति॥६३॥
 
   प्राणायामेत्यादिभिस्तुरीयत इत्यन्तैः पञ्चभिः श्लोकैः प्राणायामभेदांस्तद्ध्यानं तस्य स्वरूपञ्चोपदिशति। तत्र लाघवःदेहस्येति शेषः। भूतलत्यागः तूलाघटयोरेकैकस्यां पूर्वतः स्वसमानप्रमाणानि वस्तूनि निक्षिप्यान्यस्यां स्थित्वा प्राणायामेण स्वघटोन्नतिरिति सम्प्रदायार्थः। उत्तमे प्राणायामे इति शेषः। अधमे प्राणायामे मध्यमे प्राणायामे इति शेषः। अभ्यासात् कालसंयुतात् चिरकालकृतादभ्यासादित्यर्थः। उत्तममध्यमाधमाः भूयुरिति
-
-
 
 एवं मुसाधिते पश्चाद्द्वात्रिंशन्मात्रयाहरेत्
 
@@ -5314,8 +4748,6 @@ OXFORD,
   तथेत्यादिभिर्व्रजेदित्यन्तैर्नवभिः श्लोकैर्धारणासिद्धिफलानि समाधिस्वरूपसहितान्युपदिशति। तत्र तथेत्यादिना भुवीत्यन्तेन श्लोकद्वयेन
 समाधिना त्रिकालज्ञानादिधिद्ध्युपायमुपदिशति। तथा प्राग्वत्। रसाम्बुदाहव्याप्तस्वैः सहंसैः लकारवकाररेफयकारहकारैः प्रत्यक्षरं विन्दुसहितैः सहेति शेषः।
 
-
-
 एवं तैरक्षरैर्द्देहे वायुना तन्मयीकृते।  
 त्रिकालज्ञो विशुद्धात्मा सुखी जीवेच्चिरं भुवि॥७३॥
 
@@ -5338,8 +4770,6 @@ OXFORD,
   स्वेच्छेत्यादिना श्लोकेनाकाशगमनादिसिद्ध्युपायमुपदिशति। तत्र स्वेच्छाचारी अव्याहतगतिर्गृहगतो यथा गृहगतपुरुषवत् शरीरव्यासङ्गर- हितः॥७४॥
 
   एवमित्यादिभिः प्रिये इत्यन्तैस्त्रिभिः श्लोकैः स्वेच्छोत्क्रान्त्युपायद्वयमुपदिशति। तत्र देहं संत्यजेदिति शेषः। प्राणान् श्वासान् मध्यस्थसुषुम्नारन्ध्रतः नाड़ीचक्रस्येति शेषः। तथा प्राग्वत्। सर्वात्मनात्मवान् देहपरिच्छेदं संत्यज्यापरिच्छिन्नवहुरूपवान्। अथवा पक्षान्तरे। उत्तरसंप्रोक्तचूर्णास्वादनतः उत्तरत्र चतुस्त्रिंशपटले उग्रेत्याद्यात्मवानित्यन्तश्लोकत्रयप्रोक्तचूर्णस्वादनतः तेन चूर्णास्वादनरूपेण। एतदुक्तं भवति पूर्वावस्थानचारितान् प्राणान् मनसा सुषुम्नारन्ध्रमार्गेण निःशेषमाकृष्य ब्रह्मरन्ध्रात् विनिर्गमय्य वक्ष्यमाणचूर्णास्वादनसंजातानुसन्धानेन वानबच्छिन्नस्वरूपो भवतीति॥७७॥
-
-
 
 परकायप्रवेशन्तु वक्ष्ये देवि महाद्भुतम्।  
 कलौ दुःशाटकं प्रायो मार्त्त्योसिद्धिरपीश्वरि॥७८॥
@@ -5370,8 +4800,6 @@ OXFORD,
 
   आसन्नेत्यादिभिर्भवेदित्यन्तैरष्टादशभिः श्लोकैः प्रस्तावज्ञानफलपुरःसरमासन्नमृत्यचिह्नान्यपदिशति। तत्रआसन्नमृत्योः पुरुषस्य। यैः चिह्नैः। तौ साध्य-
 
-
-
 अकारणां निजां पूर्वां विमुच्य प्रकृतिं नरः।  
 समाश्रयेत्ततस्त्वव्दान्मृतिस्तस्य सुनिश्चितम्॥८५॥
 
@@ -5396,8 +4824,6 @@ OXFORD,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 साधकौ। सुगतिमित्यस्य जातमात्रत इत्यस्य चार्थो गुरुमुखादवगन्तव्यः। पूर्वां सौम्यां क्रूरां वा समाश्रयेत् पूर्व्वविपरीतामिति शेषः। ततः समाश्रयतः। ध्रुवं नक्षत्ररूपं। तदार्द्धतः षण्मासतः। नासान्तिकाक्रान्त्या नासान्तिकयोरङ्गुलिद्वयाक्रान्त्या। चन्द्रके मयूरविम्वमध्यस्थचन्द्रकरूपे ज्योतिषी। न चेदित्यस्य विलोकयति इत्युत्तरत्रान्वयः विलोकयतीत्यस्य चन्द्रके इति पूर्व्वत्रान्वयः। तस्यार्द्धर्थात् मासत्रयात्। तस्य गुल्फाधोनाड़ोद्वयस्फुरणहीनस्य। रुण्डं कबन्धं। चकारो भिन्नक्रमः। पश्यतश्चेति पक्षान्तरे। गृहक्षेत्रादिषु आदिशब्दःपुरपत्तनादिविषयः। अपि धूमो दृश्यत इत्याकृष्यते। वा विकल्पे। तं पुरुषं। पश्चात्कृतार्कः पृष्ठीकृतार्क गण्डूषे पूरितविनिर्गमितमुखजले। चापकं शक्रचापसदृशं ज्योतिः। प्रकोष्ठं कूर्परं। कूर्परमणिवन्धयोर्मध्यप्रदेशं।तौ
-
-
 
 श्लेष्मशुक्रमलानि स्युर्निमग्नानि जले यदा।  
 तस्मिन् पक्षे प्रयात्येव यमं सन्त्यज्य जीवितम्॥९२॥
@@ -5427,8 +4853,6 @@ OXFORD,
 
 जनौ। तस्मिन् पक्षे अर्द्धमासादर्वाक्। भगणैः सहेति शेषः। विकृतां कुत्सिताकारां निरोजस्कां। भानौ छिद्रं रन्ध्रं। सर्वैरपि ब्रह्मादिभिः। अकारणत इत्यस्य श्वाश्ववेरस्य दलने इत्युत्तरत्रान्वयः। परित्यागे श्वाश्ववैरस्य। अधिक्षेपशापाभ्यां
 
-
-
 द्दग्देहचक्रवालानां वैवर्ण्ये मासतो मृतिः।  
 ध्याते स्वदेववैरूप्ये मासतो निधनं भवेत्॥१००॥
 
@@ -5455,8 +4879,6 @@ OXFORD,
 
 \_\_\_\_\_\_\_\_\_
 
-
-
 अथ षोड़शनित्यानां लोकात्मत्वं वदामि ते।  
 यन्मयं विश्वमखिलं वर्त्तते सचराचरम्॥१॥
 
@@ -5479,8 +4901,6 @@ OXFORD,
 
   कालस्येत्यादिना श्लोकेन महानित्याया अपरिच्छिन्नकालात्मकत्वमन्यासां तद-
 
-
-
 लोकरूपं तत्प्रमाणं कालचक्रञ्च तादृशम्।  
 तयोरन्योन्यनित्यात्वव्याप्तिं तद्वत् स्थितिं तयोः॥५॥
 
@@ -5498,8 +4918,6 @@ OXFORD,
 
   हेमेत्यादिना आवृतेत्यन्तेनाक्षरत्रयोत्तरेण श्लोकद्वयेन लोकरूपं तन्मानञ्चोपदिशति। तत्र तस्य मेरीः। पञ्चाशच्छतयोजनाः पञ्चसहस्रयोजनानि। एतदुक्तं भवति बृत्ताकाररूपिण्या भूमेर्मध्ये हेमरूपो मेरुः पद्मस्य कर्णिकेव तिष्ठति। तस्य मेरोः परितो भूमिः प्रतिपार्श्वं पञ्च सहस्रपञ्चसहस्रयोजनात्मिका स्थिता भवति। तस्या विष्कम्भयोजना सर्व्वत्र दशसहस्रदशसहस्रयोजना भवतीति। सिन्धुभिः समुद्रैः। द्वीपैस्तत्तत्समुद्रान्तरालभूप्रदेशैर्वक्ष्यमाण्नामभिः। तत्संख्यैर्द्विगुणोत्तरेःमेरुपार्श्वमहीमानात् प्रत्येकमुत्तरोत्तरं द्विगुणमानेः। एत-
 
-
-
 लवणेक्षुसुरासर्पिर्दधिक्षीरजलात्मभिः।  
 सिन्धुभिः सप्तभिर्द्वीपैस्तत्संख्यैर्द्विगुणोत्तरैः॥८॥
 
@@ -5515,8 +4933,6 @@ OXFORD,
 
   वाह्यसलिलमित्यादिना विग्रहैरित्यन्तेन सपञ्चाक्षरत्रिपादाद्येन श्लोकद्वयेन वाह्यसलिलाम्बुधिकालचक्रयोर्मध्यस्थदेशमागं कालचक्रपरिवृत्तिकारणं तत् परिभ्रमण प्रकारं तत्कक्षाभेदान् तन्मानं राशिस्वरूपञ्चोपदिशति। तत्र वाह्यसलिलजलधेः सर्ववाह्यसलिलसमुद्रात् मध्यविस्तारमानाद्वहिरानृत्य तत्पुनः पुनरपि
 
-
-
 तच्च तन्मानवीथिभिर्युतमष्टभिरद्भुतैः।  
 तेजोमयैर्द्वादशारैर्युक्तंमेषादिविग्रहैः॥११॥
 
@@ -5530,8 +4946,6 @@ OXFORD,
 तत्सप्तद्वीपसप्तसमुद्रसमवायमध्यविष्कम्भमानात् (१६३९३७००) द्वीपाद्यात्मकंभूरूपं कालचक्रं कालात्मकं चक्रं तस्य कालात्मकत्वं तत्परिभ्रमणस्य विश्वविकारकारणत्वात्। पराशक्तिमारुतेन महानित्याया इच्छाशक्तिरूपेण मारुतेनानुप्रेरितं। एवकारेण कारणान्तरं न भवतीत्यर्थः। पश्चिमाधोपसव्यतः पश्चिमाभिमुखमूर्द्धाधःक्रमात् प्रादक्षिण्येन। तत् कालचक्रं। तन्मानवीथिभिरुत्तरोत्तरं प्रतिपार्श्वं तत्तद्विगुणद्विगुणमानवीथिभिः। अद्भूतैःसर्वाश्चर्य्यमयत्वात् केनापि अकृतत्वाच्च। तेजोमयैः ज्योतीरूपैः। द्वादशारैः भूमध्यादिपरव्योमान्त मूर्द्धार्द्धविकाशरूपैः समान्तरालैरिति शेषः। मेषादिविग्रहैः मेषादिमीनान्तराशिस्वरूपैः। एतदुक्तं भवति सर्ववाह्यसलिलजलधिवाह्यपार्श्वदयमध्यविष्कम्भमानं तद्वाह्यगतं तत्सर्वं क्रोड़ीकृत्य पराशक्तिरूपमारुतप्रेरितं पूर्वोक्तवाह्यसलिलजलधिवाह्यपार्श्ववहिर्मानात् प्रतिपार्श्वं प्राग्वद्धिगुणोत्तरमानवीथ्यष्टकं तदन्तरालाष्टकोपेतं ज्योतीरूपमेषादिराशिद्वादशारयुक्तं कालचक्रं पश्चिमाभिमुखमूर्द्धाधः प्रादक्षिण्यक्रमात् परिभ्रमतीति॥११॥
 
   तेष्वित्यादिना स्थितिरित्यन्तेनार्द्धाधिकेनैकेन श्लोकेन तत्कालचक्रवीथिषु सप्तग्रहावस्थानं तेषां स्वोक्तकालेन तच्चक्रगतराशिषु चारेण लोकस्थितिञ्चोपदिशति। तत्र तेषु वीथिषु तासु वीथिषु तेषु राशिष्वित्यर्थः। स्थिताः चन्द्रवुध शुक्रार्कभौमगुरुमन्दानां अधरोत्तरवीथिस्थितिक्रमाल्लङ्घनेन। राशिषु तद्वीथिगतेषु। प्रोक्तेन ज्योतिःशास्त्रे। तथा पूर्वाशामुखा एव। प्रयान्ति चरन्ति। तेषां ग्रहाणां स्थितिः जननसत्ताविपरिणामावृध्द्युपक्षयनाशात्मिका। एतदुक्तं भवति प्रोक्तकालचक्रगतवीथ्यष्टकं प्रोक्तक्रमाल्लङ्घनस्थित्या स्थिताः पूर्वाभिमुखास्तत्तद्ग्रहास्तत्तद्गतराशिषु स्वोक्त चकारेण लोकानामुत्पत्त्यादिरूपां स्थितिं कुर्व्वन्तोति॥१२॥
-
-
 
 प्रयान्ति तेषां चारेण लोकानां भवति स्थितिः।  
 मध्यस्थमेरौ ललिता सदैवास्ते महाद्युतिः॥१३॥
@@ -5548,8 +4962,6 @@ OXFORD,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   मध्यस्थेत्यादिभिः रूपतः इत्यन्तैरर्ध्दद्यन्तैस्त्रिभिः श्लोकैः षोड़शनित्यानां मेरुद्वीपादिपरमव्योमान्तषोड़शविधेषु देशेषु कृतयुगादिवर्षादारभ्य प्रतियुगं चतुर्युगवर्षेषु परिवृत्तिक्रममुपदिशति। तत्र सदैवास्ते सर्व्वदा सकलात्मकेन प्रधानरूपेण तिष्ठतीत्यर्थः। महाद्युतिः देशकालादिभिरनवच्छिन्नप्रकाश रूपत्वात्। तस्य मेरोः। अभितः सर्व्वतः। जलान्तस्था मेरोरनन्तरजम्बुद्वीपाद्यादिसर्ववाह्यस्थजलसमुद्रपर्य्यन्तं चतुर्द्दशस्थानस्थिताः। शेषाः कामेश्वर्य्यादयश्चतुर्द्दश ज्वालामालिन्यन्ताः। तद्वहिः सर्ववाह्यसलिलजलधेर्वहिः। अत्र षोड़शो प्रतिवर्षं प्रतिकृतयुगादिवर्षं। ता नित्या ललिता भवतीत्युत्तरत्रान्वयः। चकारः समुच्चये। इत्थं उक्तप्रकारेण। एवमित्यस्य प्रोक्तरूपत इत्यत्रान्वयः। अन्येषु त्रेतादिषु। एतदुक्तं भवति मेरुजम्बूद्वीपलवणसमुद्रप्लक्षद्वीपेक्षुरससागरशाल्मलीद्वीपसुरासमुद्र कुशद्वीपघृतसागर क्रौञ्च द्वीपदधिसमुद्र शाकद्वीपक्षीरसागरपुष्करद्वीपसलिलसमुद्र परव्योमसंज्ञकेषु षोड़शसु स्थानेषु कृतयुगादिचतुर्युगप्रथमवर्षेषु ललितादिचित्रान्ताः षोड़शनित्यास्तदात्मकत्वेन स्थित्वा तत्तद्युगद्वितीयद्वितीयवर्षेषु जम्बूद्वीपादिमेरुपर्य्यन्तेषु षोड़शसु षोड़शसु स्थानेषु ललितादिचित्त्रान्ताः षोड़श नित्यास्तिष्ठन्ति। एवं तत्तद्युगतृतीयादितृतीयादि षोड़शषोड़शवर्षान्तेषु चतुर्द्दशसु चतुर्द्दशसु वर्षेषु लवणसमुद्रादि परमव्योमान्तेषु विशिष्टेषु चतुर्द्दशसु वर्षेषु क्रमात् प्रतिवर्षं ललिता तिष्ठति। ललितास्थितस्थानान्तरालमारभ्य तत्तत्पूर्व्वपूर्व्वस्थानान्तमन्याः कामेश्वर्य्यादि चित्रान्ताः पञ्चदशनित्यास्तिष्ठन्ति। एवं वर्षषोड़शकवर्षषोड़शकेनैकामेकां परिवृत्तिं भजन्तीति॥१६॥
-
-
 
 एवं युगेषु चान्येषु वर्त्तते प्रोक्तरूपतः।  
 कालेष्वपि च मध्यादि परव्योमान्तमीश्वरि॥१७॥
@@ -5568,8 +4980,6 @@ OXFORD,
 \_
 
  कालेष्वित्यादिभिः समुदीरितमित्यन्तैरर्द्धाद्यैः पञ्चभिः श्लोकैः षोड़शनित्यानां कालचक्रमयत्वप्रकारं कालदेशैकाधिपत्यफलं कालचक्रस्य वाह्यवीथिरूपपरव्योमस्थितिं प्रोक्तनिगमनञ्चोपदिशति। तत्र कालेषु कालचक्रस्य चन्द्रस्य कक्षा भूम्योरन्तरान्तरालदेशादिताराकक्षान्तेषु षोड़शसु स्थानेषु मध्यादि चन्द्रकक्षान्तर्भूतमध्यव्योमादि। ताः षोड़शनित्याः। मध्यस्था ललिता। स्वांशतः स्वसमानमूर्त्त्यन्तरेण। अन्याः पञ्चदशनित्याः। तत्र तत्र देशे देशे काले काले च। तथा कालक्रमात् पूर्वोक्तयुगादि वर्षादि षोड़शषोड़शवर्षपरिवृत्तिक्रमेण तुर्विशेषे। कालतः परिवृत्तिकालक्रमात्। देशतः देशस्य चक्रात् कालचक्रेण। भूयुः प्राग्वत्। कालमृत्यवः हिताय मृत्यव इत्यर्थः। वाह्यस्थवीथ्यां शनैश्चरकक्षावहिर्भूतवीथ्यां। तारकाः नक्षत्राणि। तद्वहिः नक्षत्रकक्षावहिः। स्थितिः कालचक्रस्येति पूर्व्वत्रान्वयः। तत्र कालचक्रे। तदन्तिका तदवधिका परव्योमान्तभूता। अपिचेत्यनेन पूर्व्वश्लोकात् स्थितिरित्येतदाकृष्यते। तत्क्रमात् पूर्वोक्तपूर्वोक्तयुगवर्षषोड़शक्रमात्। तन्मयं नित्यामयं। एतदुक्तं भवति कृतादिचतुर्युग प्रथम प्रथमवर्षादिवर्षषोड़शषोड़शकक्रमाल्ललितादयश्चित्रान्ताः षोड़शनित्याः क्रमेण कालचक्रे चन्द्रकक्षाभूम्यन्तरालप्रदेश चन्द्रकक्षा तदन्तरालवुधकक्षा तदन्तरालशुक्रकक्षा तदन्तरालरविकक्षा तदन्तरालभौमकक्षा तदन्तराल गुरुकक्षा तदान्तराल शनिकक्षा तदन्तरालनक्षत्र कक्षाविभागेन षोड़शसु स्थानेषु देशपरिवृत्तिपरितः परिवृत्तिक्रमतः परिवर्त्तन्ते। तेन क्रमेण या या नित्या चन्द्रकक्षास्थिता सा सा नित्यैव तत्काल-
-
-
 
 कालचक्रस्य वाह्यस्थवीथ्यां तिष्ठन्ति तारकाः।  
 तद्वहिः परमव्योम स्थितिस्तत्र तदन्तिका॥२१॥
@@ -5597,8 +5007,6 @@ OXFORD,
 
  कालप्राप्तां कालचक्राधिपां। तन्मासपूर्णायां स्वजन्ममासपूर्णायां। एवं कुर्व्वाणम्
 
-
-
 राजभिर्म्मनुजैस्त्रीभिरन्यैः प्राणिभिरप्यसौ।  
 मान्यते सर्वमन्त्राश्च सिद्धाः स्युस्तत्र पूजनात्॥२७॥
 
@@ -5621,8 +5029,6 @@ OXFORD,
  जम्वित्यादिभिरधिक इत्यन्तैस्त्रिभिः श्लोकैः सप्तद्वीपगतभूरुहसप्तकनामभिः प्राप्तानि तत्तद्द्वीपनामानि तत्तत्पूजनं तत्र तत्राधिगतनित्यापूजनं तत्फलञ्चोपदिशति। तत्र भूरुहाः पादपाः। तेषां पादपानां। तत्तन्नामानि द्वीपनामानि। तन्मुखात् तत्तद्भूरुहप्रावीण्यद्वारा तत्तन्नामभिः मेरुद्वीपादिपरमव्योमान्तनामभिः प्रणवादिभिश्चतुर्थीनमोऽन्तैः। यथा ॐ मेरवे नमः इत्यादि। तत्र मेरुप्रमुखेषु षोड़शसु स्थानेषु यत्र स्थितस्तत्र तत्र काले काले पुनः स्थितं तत्र पूर्व्वं पूजयित्वा तद्वर्षे तस्मिंस्तस्मिन् वर्षे। एतदुक्तं भवति षोड़शसु नित्यासु स्वभजनीया नित्या षोड़शसु स्थानेषु यत्र स्थिता तत्र पूर्वं पूजयित्वा तत्तद्वर्षे तत्तत्स्थानगतां भावयन् तत्तन्नित्यार्च्चनक्रमात् पूजयन् प्रोक्तरूपप्रभावो भवेदिति॥३०॥
 
  मध्ये इत्यादिभिर्विद्यत इत्यन्तैस्त्रिभिः श्लोकैर्भूमिकालचक्रमहाव्योमस्थितिक्रमं कालचक्रे ग्रहाणां स्थितिं तत्कारणञ्चोपदिशति। तत्र मध्ये महाव्योम्नः
-
-
 
 सुस्थिराया भुवो मध्ये चक्रस्य भ्रमतोऽनिशम्।  
 ग्रहाणां तत्र संवासप्रचारनियतात्मनाम्॥३२॥
@@ -5651,8 +5057,6 @@ OXFORD,
 
  तयोरित्यादिभिः सुनिश्चितमित्यन्तैः नवभिः श्लोकैः नित्यालोकावस्थानं तत्र देव्याः सपरिवारायाः स्थितिं तत्तत्पूजयितुः फलञ्चोपदिशति। तत्र तयोः महीकालचक्रयोः क्वचित् प्रदेशे अब्धिचतुष्टयं इक्षुसागरादि। प्रागुक्तरूपां अङ्गपूजोक्त ललितामदृशविग्रहां। कोलवक्त्रां वाराहीं चतुर्विशेषे पोत्रीस्वरूपेणेत्यर्थः।
 
-
-
 सहजासवसम्भोगैः संजातानन्दविग्रहाम्।  
 दयामदारुणापाङ्गविलोकितसुसाधकाम्॥३९॥
 
@@ -5680,8 +5084,6 @@ OXFORD,
 
  कोटीत्यादिभिस्त इत्यन्तैर्नवभिः श्लोकैर्नित्यालोकादिमानं तत्र देवौ पूजनात् फलं परमव्योमस्वरूपनित्यावैभवविदामनुभावञ्चोपदिशति। तत्र समायामं कोट्यायामं। तन्मानाब्धिभिः प्रत्येकं कोटियोजनविस्तीर्णैरब्धिभिस्तृतीयांश मानस्य योजनतृतीयांशसहितत्रयस्त्रिंशदधिकशतत्रयोत्तरत्रयस्त्रिंशत्सहस्रा-
 
-
-
 एवं ध्यात्वार्च्चयेद्देवीं भक्त्या परमयोक्तया।  
 नरो निरस्तसंसारमूलाज्ञानो जितेन्द्रियः॥४६॥
 
@@ -5708,8 +5110,6 @@ OXFORD,
 धिकत्रयस्त्रिंशल्लक्षयोजनमानविस्तारायामसहितस्य रत्नद्वीपस्य मध्यगस्य मध्यस्य रत्नद्वीपमध्यगतपद्मरागखण्डस्य तृतीयांशे योजननवांशसहितैकादशोत्तरशताधिकैकादशसहस्रो-त्तरैकादशलक्षयोजनमानविस्तारायामसहिते मण्डपे माणिक्यमण्डपे। प्रान्तेषु पार्श्वेषु मण्डपस्येति शेषः। तथा प्राग्वत्। मत्समः शिवभूतः। उक्तया षड़विंशत्पटलोक्तया। अज्ञानं नाम दुर्वासना। आर्जवं नाम मनोवाक्कायकर्म्मणामेकाकारता। तस्य परितः साधकस्य निवासस्थानस्य परितः। स्युर्नरा इति शेषः। नित्यायाः सकलनित्यात्मिकाया महानित्यायाः। तद्धोमरूपं चिन्मयं निर्विषयज्ञानमयं। आवयोः शक्तिशिवयोः। एवं उक्तप्रकारेण। प्रोक्तं पञ्चत्रिंशत् पटले वक्ष्यत इत्यर्थः॥५१॥
 
  समस्तैत्यादिभिर्मत्सम इत्यन्तैः विंशत्या श्लोकैस्तदनुभावप्रस्ताव पुरःसरं
-
-
 
 समस्तरोगनाशाय समरे विजयाय च।  
 चोरसिंहद्वीपिगजगवयादिभयानके॥५३॥
@@ -5739,8 +5139,6 @@ OXFORD,
 
 नित्याकवचं तत्फलञ्चोपदिशति। तत्र पिशाचादीत्यत्रादिशब्देनापस्मारादय उच्यन्ते। सुखाप्तये स्वरूपलाभात्। गवयादीत्यत्रादिशब्दः शरभादिविषयः। भयानको भयङ्करः। अस्य मार्ग इत्युत्तरत्रान्वयः। दुर्भिक्षके मर्य्यादाप्राप्ताद्यपकर्षे। तथा समुच्चये। पोतादीत्यत्रादिशब्दो नावादिविषयः। असौ जपिता। निर्द्वन्द्वः शीतोष्णादिद्वन्द्वपीड़ादिरहितः अथवा निरुपमः। तदात्मकं त्वदात्मकमित्यर्थः। येन कवचेन अहमपि शिवोऽपि। सर्व्वतः वक्ष्यमाणसकलस्थानेषु। सर्व्वगा विश्वमयत्वात्। पुरतः पूर्व्वस्यां दिशि। तुः समुच्चये। अनन्तरं आग्नेयीं दिशमित्युत्तरत्रान्वयः। तथा समुच्चये। नित्यक्लिन्ना दक्षिणपार्श्वं मे पात्विति पूर्व्वत्रा-
 
-
-
 नित्या मामूर्द्धतः पातु साधो मे पातु सर्व्वदा।  
 नित्या नीलपताकाख्या विजया सर्ब्बतश्च माम्॥६१॥
 
@@ -5766,8 +5164,6 @@ OXFORD,
 
 न्वयः। अथ अनन्तरं नैऋतिमित्यर्थः। तथा समुच्चये। सा प्रागुक्तवैभवा। अनन्तरदिशं वायवीं दिशं। वामपार्श्वं उत्तरां दिशं त्वरितेत्यस्य पालयेदित्युत्तरत्रान्वयः। तुः समुच्चये। अन्यां ऐशानीं मामित्यूर्द्धाधरान्तरालस्थदिगुपलक्षणार्थं। नित्यानाम दशमीनित्या नित्येत्यर्थः। सेति नीलपताकाख्येत्युत्तरत्रान्वयः। नित्यानीलपताकाख्या नीलपताकानित्येत्यर्थः। अस्य अधो मे पात्विति पूर्व्वत्रान्वयः। सर्व्वतः प्रोक्तैकादशदिक्षु चकारेण पूर्व्वत्र पात्वित्येतदाकृष्यते। ज्वालामालिनिविग्रहा ज्वालामालिनी नित्येत्यर्थः। पालयेदित्यस्य पूर्व्वत्रान्वयः। तथा समुच्चये। अपिशब्दः समुच्चये। पापात् अविवेकात् संशयात् अनध्यवसायरूपात् अज्ञानात् सर्व्वतः सर्व्वत्र। सदा असंशयरूपेण स्तैमित्यात् शुभकर्म्मस्विति शेषः। तुः समुच्चये अशुभेषु कर्म्मसु समुद्योगादिति सम्बन्धः। तथा समुच्चये। पूर्वोक्त-
 
-
-
 तार्क्ष्यारूढ़ाश्च मां पान्तु तथा व्योमगता स्तथा।  
 भूगताः सर्वदा पान्तु माञ्च सर्वत्र सर्वदा॥६८॥
 
@@ -5792,8 +5188,6 @@ OXFORD,
 
  ग्रहाणामित्यादिभिः श्रेयस्करात्मकमित्यन्तैश्चतुर्भिः श्लोकैर्नवग्रहाणां मातृकात्मकत्वं तेषां तन्मयमण्डलसामान्यनिर्म्माणोपदेशं चन्द्रार्कात्मकत्वं इतरेषां ग्रहाणाञ्च चन्द्रार्कयोर्विशेषमण्डलप्रस्तावादिके च करोति। तत्र मातृकाबिद्याविग्रहं अकारादिक्षकारान्तमातृकाख्यविद्यास्वरूपं विग्रहं ग्रहाणामित्यर्थः। विग्रहमिति दिव्यत्वात् विग्रह इत्यर्थः। तेन कारणेन तद्धाममण्डलं तेषामावासभूतं स्वरूपं सुधास्वरैः अमृतात्मकैः षोड़शस्वरैर्मण्डलं वक्ष्यमाणरूपं। तुर्विशेषे सुधाव्यञ्जनरूपं प्राग्वत् सुधास्वरूपव्यञ्जनरूपमित्यर्थः।
 
-
-
 तेन तेषां मण्डलानि तैस्तैर्व्वर्णैर्व्वदामि ते।  
 तेषां नवानां पूजासु तन्मयं नवमण्डलम्॥७४॥
 
@@ -5814,8 +5208,6 @@ OXFORD,
 अस्य मण्डलमित्यस्येति पूर्व्वत्रान्वयः। इतरे भौमादयः। तन्मयाः चन्द्रादित्य मयाः। तेन हेतुना। तैस्तैश्चन्द्रसूर्य्यात्मकैः। नवानां पूजासु समुदायपूजासु तन्मयं मातृकात्मकं पृथक् पूजासु स्वतन्त्रपूजासु तयोश्चन्द्रार्कयोः॥७५॥
 
  प्रागित्यादिभिरनुग्रहमित्यन्तैश्चतुर्दशभिः श्लोकैर्नवग्रहाणां समुदायपूजासु मण्डलविशेषनिर्माणं तत्र तेषां पूजादिकञ्चोपदिशति। तत्र त्रिहस्तमात्रे आयामविस्ताराभ्यां। तेषु कोष्ठनवके मध्यप्रकोष्टसर्व्वमध्यकोष्ठे तद्वाह्यप्राग्दिग्गतान्तकोष्ठत्रयमध्यकोष्ठे च तन्मध्ये वृत्तत्रये सर्व्वमध्यवृत्तमध्ये ईशादि ईशादिनवकोष्ठाद्युत्तरकोष्ठान्तं। क्रमात् प्रादक्षिण्यक्रमाच्च वाताद्यष्टस्वरान् अकारादि ऋकारान्तानष्टौ स्वरान्मध्ये सर्व्वमध्यस्थकोष्ठमध्ये नभसा मकारेण वृत्तवीथ्योः वृत्तत्रयान्तरालवीथिद्वयस्वरोपेतं नभः षोड़शस्वरप्रसारितमकाराक्षरं। तत्र मण्डले द्वादशोदितैः एकोनविंशपटले धाता इत्यादिनार्द्धाद्येन षडविंशेन श्लोकेन द्वादशधा प्रोक्तैः। नमोन्तैरित्यनेन चतुर्थी विभक्त्यन्तत्वं तन्नाम्नां सूचितमेव। ते मन्त्रा यथा ॐ धात्रे नमः इत्यादि ॐ विष्णवे नमः इत्यन्ताः। सोमस्याद्यं सौमशब्दस्याद्यमक्षरं सो इत्येतत्। स्वसंयुक्तंविन्दुसंयुक्तं। तेन अस्य तन्नाम्ना इत्युत्तरत्रान्वयः। तेन चतुर्थीनमोन्तेन तन्नाम्ना तस्य प्रोक्तनाममन्त्रेण तत्र प्राचीनपंक्तिस्थकोष्ठत्रयमध्यकोष्ठगतवृत्तमध्यगतकोष्ठनवके। विलिखेत् प्राग्वदीशादि-
-
-
 
 वृत्तवीथ्योः स्वरोपेतं नभसा मातृकां लिखेत्।  
 तत्रार्कमर्च्चयेत्तस्य नामभिर्द्वादशोदितैः॥७९॥
@@ -5844,8 +5236,6 @@ OXFORD,
 
 विन्द्वाढ्यं ऋकारान्तं हकारं षोड़शस्वरयुक्तं षोड़शस्वरप्रसारितं। स्वयोगतः विन्दुयुतं। मध्यकोष्ठे सर्व्वमध्यस्थकोष्ठमध्ये। तं हकारं। दाहवह्निस्वसहितं रेफ ईकार विन्दुसहितं ह्रीं इत्यक्षरं। प्रोक्तकालेषु ग्रहप्रातिकूल्यादिषु। उपचारैः पञ्चभिः षोड़शभिर्वा। अन्येषु आग्नेयादीशान्तेषु शिष्टेषु। तथा यथा मध्यप्राक्कोष्ठयोः। तत्तद्वर्गादिवर्णं भौमादिकोष्ठेषु तत्सप्तग्रहात्मकव्यञ्जनवर्गसप्तकस्य कचटतपयश इत्याद्यक्षरसप्तकं स्वरैः प्राग्वत् प्रत्येकं प्रसारितमिति शेषः। विलिख्य प्राग्वत् वृत्तवीथ्योर्मध्यं सर्व्ववृत्तमध्यस्तवृत्तमध्यं। तथा कृत्वा प्राग्वन्नवधा कृत्वेत्यर्थः। तेषु प्रतिमण्डलजनितकोष्ठनवके। तत्क्रमात् प्राग्वदीशाद्युत्तरान्तप्रादक्षिण्यक्रमात्। तत्तद्वर्गाक्षराण्याख्यात्र्यक्षरैः तत्तद्बर्गाक्षरपञ्चकं अस्मिन्नुत्तरत्र सप्ताशीतितमश्लोकवक्ष्यमाणचतुर्थीविभक्त्यन्तग्रहनामाक्षरत्रयमेवं सम्भूयाष्टावष्टावक्षराणीत्यर्थः। मध्ये तत्तत्कोष्ठनवकसर्व्वमध्यस्थकोष्ठमध्ये। वर्गाद्यक्षरं तत्तद्वर्गा-
 
-
-
 मध्ये प्रणवगर्भस्थवर्गाद्यक्षरमालिखेत्।  
 एवं कृतेषु नवसु पूजयेच्च नवग्रहान्॥८६॥
 
@@ -5857,8 +5247,6 @@ OXFORD,
 दिभूतपूर्वोक्ताक्षरसप्तकं। नवसु मण्डलेष्विति शेषः। अग्न्यादीशान्तमित्यस्य काकाक्षिवत् पूर्व्वपरयोरन्वयः। एकदा पूजयेदिति पूर्व्वत्र अन्यदा लिखेदित्युत्तरत्र। अनुक्रमात् वक्ष्यमाणक्रमात्। तैः प्रणवादिनमोन्तैर्नाममन्त्रैः। तान् ग्रहान्। इति उक्तप्रकारतः। एतैर्नाममन्त्रैः। एवं उक्तप्रकारात्। तेषु मण्डलेषु। तेषां ग्रहाणां। ते ग्रहाः। तदनुग्रहं पूजकानुग्रहं। एतदुक्तं भवति प्राक्प्रत्यग्दक्षिणोदक्प्रत्येकमेकहस्तमानान्तरालं सूत्रचतुष्टयमास्फाल्य नव कोष्ठानि निष्पाद्य तेषु कोष्ठेषु प्रत्येकं वृत्तं कोष्ठरेखाचतुष्टयस्पृष्टास्पृष्टं कृत्वा तदन्तरेकैकाङ्गुलमानेन वृत्तद्वयं निष्पाद्य सर्व्वमध्यस्थवृत्तमध्यकर्णिकायां समान्तरालं सूत्रद्वयं प्राक्प्रत्यग्दक्षिणोदगास्फालनेन नवकोष्ठानि कृत्वा तत्र सर्व्वमध्यस्थकोष्ठ मध्यगतवृत्तत्रयकर्णिकास्थकोष्ठनवकमध्यकोष्ठे सों इत्यक्षरं साध्ययुतं विलिख्य शिष्टकोष्ठाष्टके ईशादुत्तरान्तं अं आं इं ईं उं ऊं ऋं ॠं इत्यष्टावक्षराण्यालिख्य वाह्यबृत्तवीथिद्वयान्तःवीथ्यां प्राग्वत् षोड़शस्वरप्रसारितविन्दुयुतातां मकार पंक्तिं प्रादक्षिण्यात् समालिख्य बाह्यवीथ्यां सविन्दुकां मातृकां प्राग्वत् लिखित्वा ततस्तत्प्राक्पंक्तिस्थकोष्ठवृत्तत्रयसर्वमध्यकर्णिकास्थकोष्ठनवकसर्वमध्ये कोष्ठे ह्रीं इत्यक्षरं साध्यादियुतं विलिख्य शिष्टकोष्ठाष्टके प्राग्वदीशादुत्तरान्तं ऌ ॡं एं ऐं आं औं अं अः इत्यष्टाक्षराणि लिखित्वा तत्र वाह्यवृत्तवीथिद्वयेन्तर्वीथ्यां स्वरविकृतां विन्दुयुक्तां उहकारपंक्तिं प्रादक्षिण्यक्रमाल्लिखित्वा तद्वाह्यबीथ्यां मातृकाञ्च विन्दुयुतां प्राग्वद्विलिख्य ततश्चाग्नेयादीशान्तकोष्ठसप्तकगतवृत्तत्रयमध्यकर्णिकास्थकोष्ठनवकमध्यकोष्ठे प्रणवं लिखित्वा तत् प्रणवमध्ये यथाक्रम कं चं टं तं पं यं शं इति तत्तद्वर्गाक्षराण्येकमेकं लिखित्वा तद्वहि
 
 रीशकोष्ठाद्युत्तरकोष्ठान्तं कवर्ग चवर्ग टवर्ग तवर्ग पवर्ग यवर्ग शवर्ग सप्ताक्षरपञ्चकपञ्चकं भौमाय बुधाय सौरये गुरवे राहवे शुक्राय केतवे इत्येतानि प्रत्येकं अक्षराणि सप्तनामानि यथाक्रममेकैकं संयोज्य एवं सम्भूयाष्टावष्टाक्षराणि लिखित्वा तत्तद्वाह्यवृत्तवीथिद्वये प्राग्वदन्तरन्तर्वीथ्यां तत्तद्वर्गाद्यक्षराणि स्वर-
-
-
 
 भौमं बुधं तथा सौरिं गुरुं राहुञ्च शुक्रकम्।  
 केतुमेतैस्तु सर्वत्र मन्त्रानुक्तौ च पूजनम्॥८८॥
@@ -5881,8 +5269,6 @@ OXFORD,
 
  भास्करेत्यादिभिरीश्वरीत्यन्तैर्नवभिः श्लोकैः पूजाकालं तत्प्रस्तावपुरःसरं चन्द्रार्कयोः पृथक् पूजामण्डलं तन्निर्माणद्रव्याणि तत्र पूजनञ्चोपदिशति। तत्र तद्वारद्वये यथाक्रमं रविवारे सोमवारे च। पूर्णिके पूर्णायामित्यर्थः। स्वोच्चयोः स्थितयोः आदित्ये मेषराशौ दशमभागस्थे मध्याह्नगते ऋषभराशौ तृतीयभागगते चन्द्रोनभोमध्यं गते। तन्मध्ये वृत्तयुगलान्तर्वृत्तमध्ये रेखाभिरष्टभिः संजायेत इति शेषः। अस्य एकाशीतिपदे इत्यत्रान्वयः। मध्ये तत्तत्कोष्ठ मध्ये इत्यर्थः। अमृतार्णान् अष्टमे पटले ज्याकमित्यादि षट्त्रिंशश्लोकोत्तरार्द्धप्रोक्तान् जकार झकार ठकार वकार सकारान् षोड़शस्वरविकृत्तान्। मायान्ताशीतिसंख्यातान् विसर्जनीयान्तान् अशीतिसंख्यातान्। मध्ये सर्व्वमध्यस्थकोष्ठ-
 
-
-
 वृत्तयोरन्तरा कृत्वा मातृकां ग्रथिताञ्च तैः।  
 पञ्चभिश्च लिखेत्तत्र विम्बे सोमं समर्चयेत्॥९३॥
 
@@ -5903,8 +5289,6 @@ OXFORD,
 
 मध्ये।दावगतं ठकारमध्यस्थं तत्पूर्व्वंचन्द्रमण्डलकोष्ठमध्यप्रोक्तह्रींकारं कृत्वेति भिन्नक्रमः ग्रथितं कृत्वेत्यर्थः। ग्रथितां एकान्तरितां। तैः विसर्जनीयान्तैरमृतार्णैः पञ्चभिः स्वरविकारविधुरैः एकतः अन्यतमेन रवेः कृत्वा विम्बं रवेरिति पूर्व्वत्रान्वयः। तत्र विम्वे तं रविं प्रोक्तरूपतः प्रोक्तमन्त्रोपचाराद्यैः। द्विवृत्तान्तः वृत्तद्वयं कृत्वा तदन्तरित्यर्थः। एकोनविंशं एकोनविंशतिरित्यर्थः। अस्य रेखा इति पूर्व्वत्रान्वयः। तन्मध्येषु तद्रेखाजनितकोष्ठचतुःशतकमध्येष्वित्यर्थः। प्राग्वत् ईशादिप्रादक्षिण्यप्रवेशगत्या। प्राणादिकान्नभोन्तान् ककारादिमकारान्तान् पञ्चविंशतिवर्णान्। स्वैर्विन्दुभिः स्वरैर्युतान् एकैकं षोड़शस्वरविकृतान्। तैः ककारादिमकारान्तैः स्वरविकारभिन्नैः। स्वरैर्भान्तयुतैःस्वरविकृतमकारसहितैः। वह्निदशार्णैः अग्निभूताक्षरदशकेन। लिपिं मातृकां विलिख्येत्यस्य लिपिमिति पूर्व्वत्र विशदाकारमित्युत्तरत्र च काकाक्षिवदन्वयः। तन्मध्ये मण्डलमध्ये। प्राग्वन्नाममन्त्रोपचारादिभिः। एतदुक्तं भवति त्रिहस्तायामविस्तारमानेन वृत्तं निष्पाद्य तद्वहिरेकाङ्गुलमाने च वृत्तं निष्पाद्य सर्वमध्यवृत्तमध्ये कर्णिकायां प्राक्प्रत्यग्दक्षिणोदक् च अष्टाभिरष्टाभिः रेखाभिः समान्तरालाभिरेकाशीतिकोष्ठानि निष्पाद्य तेषु कोष्ठेष्वीशदिग्गतकोष्ठादिप्रादक्षिण्यप्रवेशगत्या प्रोक्तान्यमृताक्षराणि स्वरविकृत्या अशीतिसंख्यानि मायान्तानि विलिख्य शिष्टसर्व्वमध्यकोष्ठमध्ये ठकारमालिख्य तदन्तरे प्राग्वत् ह्रीं इत्यक्षरं ससाध्यादिकञ्च विलिख्य तद्वहिर्वृत्तवीथ्यां स्वरविकारविधुरा-
 
-
-
 वृत्तयोरन्तरा तैश्च पञ्चविंशतिवर्णकैः।  
 स्वरैर्भान्तयुतैर्वह्निदशार्णैर्ग्रथितां लिपिम्॥९७॥
 
@@ -5922,8 +5306,6 @@ OXFORD,
 मृताक्षरपञ्चकग्रथितां मातृकां विन्यस्य एवमेतन्मण्डलं कर्पूरचन्दनाभ्यां विरच्य प्रोक्तकालेषु प्रोक्तनाममन्त्रेण प्रोक्तोपचाराद्यैः सोममर्च्चयेत्। ततः प्राग्वन्मानेन वृत्तद्वयं निष्पाद्य प्राग्वत्तत्कर्णिकायां प्राक्प्रत्यक्दक्षिणोदक् च समान्तराला एकोनविंशत्येकोनविंशतिरेखाः समालिख्य चतुःशतकोष्ठानि निष्पाद्य तेषु कोष्ठेष्वीशादिप्रादक्षिण्यप्रवेशगत्या ककारादिमकारान्तानि पञ्चविंशतिमक्षराणि प्रत्येकं षोड़शस्वरविकृत्या षोड़शषोड़शसंख्यातानि सम्भूय चतुःशतसंख्यातानि सविन्दुकानि विलिख्य तद्वहिर्वृत्तवीथ्यां स्वरविकारविधुरककारादिमकारान्तैः पञ्चविंशत्यक्षरैः स्वरविकृतमकाररूपषोड़शकेन वह्निभूताक्षरदशकेन सम्भूयैकपञ्चाशदक्षरैः सविन्दुकैरेकान्तरा ग्रथितां मातृकां सविन्दुकां विलिख्य एवमेतन्मण्डलं प्रोक्तरक्तचन्दनादिना विलिख्य तत्र प्रोक्तकालेषु प्रोक्तनाममन्त्रेर्द्वादशभिः प्रोक्तोपचाराद्यैरर्कञ्चार्च्चयेत्। तेन प्रोक्तफलसिद्धिभागिति॥९८॥
 
  पीठे इत्यादिभिर्विग्रहा इत्यन्तैस्त्रिभिः श्लोकैस्तन्त्रसाधारणनवग्रहमण्डललेखनस्थानविशेषोपदेशं प्रोक्तपूजातिदेशं पटलार्थनिगमनं ग्रहाणां नित्यात्मकत्वोपदेशञ्च करोति। तत्र वा बिकल्पे। अनावृते जनाद्यावरकररहिते। तत्र विशेषादेशरहिते तत्क्रमतः विशेषोपदेशक्रमतः विद्यायाः नित्यानामिति
-
-
 
 **एवं ते देवि विद्यायाः कालदेशात्मतोदिता।  
 सर्व्वात्मना सर्वदा च सैवार्च्या सर्वविग्रहां॥१०१॥**
@@ -5952,8 +5334,6 @@ OXFORD,
 अष्टाविंशे तु यन्त्राणि प्रोक्तान्येकादशात्र तु।  
 सपादाशीतिरधिका व्याख्याग्रन्थाः शतद्वयात्॥
 
-
-
 एकोनत्रिंशपटलम्।
 
 अथ षोड़शनित्यानां होमाय विधिवच्छिवे।  
@@ -5977,8 +5357,6 @@ OXFORD,
 
  भानोरित्यादिभिः कल्पयेदित्यन्तैः पञ्चभिः श्लोकैः शङ्कुच्छायया दिक्परिज्ञानक्रमं प्रस्तावसहितमुपदिशति। तत्र भानोर्गत्या आदित्यस्य दक्षिणोत्तरायणक्रम गतिभेदजातया छाययेति यावत्। कर्माणीति मण्डपकुण्डादीनीति शेषः। तद् गत्या भानुगत्या। सुसमे भूतले जलयन्त्रादिभिरिति शेषः। कृत्वेति भिन्नक्रमः।
 
-
-
 सुसमे भूतले कृत्वा वृत्तं भ्रमणरूपतः।  
 तन्मध्यं विन्दुमध्यन्तु शङ्कुं संस्थाप्य तस्य वै॥६॥
 
@@ -5994,8 +5372,6 @@ OXFORD,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 वृत्तं कृत्वेति यावत्। तन्मध्यं विन्दुमध्यं इत्येतत् क्रियाविशेषणं। बृत्तमध्यस्थ मर्द्धविन्दुमध्यं शङ्कुमध्यं यथा तथेत्यर्थः। तुरवधारणे। तस्य शङ्खोर्वृत्ते इत्येतत् पूर्वापरयोरन्वेति। पूर्वापरद्वये पूर्वापरात्मिकयोर्द्धयोर्दिशोः कृत्वा प्राग्वच्चिह्ने कृत्वेत्यन्वयः। तदभितः तच्चिह्नद्वयमभितः। तथा तद्द्वयमवष्टभ्य स्वसमान परिभ्रात्स्या तच्चिह्नद्वयान्तरालमानस्य स्वेष्टसार्द्धमानेनान्योन्यतुल्येन परिभ्रान्त्या कृत्वा वृत्तद्वयं वृत्तद्वयं कृत्वेत्यर्थः। तयोः पूर्वापरयोर्वृत्तयोः। संश्लेषसञ्चातमध्यदक्षोत्तरस्थिते इत्यस्य उत्तरत्र सन्धिद्वये इत्येतद्विशेष्यं। प्राक्प्रत्यक्सूत्रमध्ये प्राक्प्रत्यागात्मकसूत्रमध्ये। तुः समाहारे। दक्षोत्तरं दक्षिणोत्तरं तेषां मण्डपादीनां सूत्रैः अग्रैः सूत्राग्रैः। एतदुक्तं भवति जीमूतौघपरिवेष्टितभानौ दिवसे छदिरादिभिरनाबृते देशे जलयन्त्रादिभिः सूसमीकृतस्य दर्पणोदरसङ्काशस्य भूतलस्य मध्ये विन्दुं कृत्वा तदवष्टम्भतः प्रतिदिशं द्वादशाङ्गुलमानं वृत्तं निष्पाद्य तत्र षड़ङ्गुलमानपरिणाहमूलमुत्तरोत्तरपरिणाहापचयेन सूचीमात्रीकृताग्रपरिणाहमृज्वाकृति शङ्कुं द्वादशाङ्गुलमानच्छायासहितं वृत्ताकारं शिल्पिवरेण निर्म्मितं तद्वृत्तमध्यस्थ विन्दुमध्ये यथा शङ्कुमूलपरिणाहमध्यं भवति तथा संस्थाप्य तच्छृङ्कुच्छायाग्रस्य पूर्वाह्ने तद्वृत्तरेखापश्चिमभागे यत्र सम्पातस्तत्र च ततोऽपराह्ने तच्छङ्कुच्छायाग्रस्य तद्वृत्तरेखापूर्वभागे यत्र सम्पातस्तत्र च चिह्नं विधाय तत्चिह्नद्वयप्रापि यत् सूत्रं तत् पूर्वापरं परिकल्पितचिह्नद्वयावष्टम्भेन तच्चिह्नान्तरालमानस्य स्वेष्टाधिकेनार्द्धमानेनान्योन्यसमेन किञ्चिदन्योन्यसंश्लिष्टं पूर्वापरं बृत्तद्वयं विधाय तद्वृत्तरेखादक्षिणोत्तरसन्धिद्वयप्रापि प्राक्पश्चिमसूत्रमध्यगत्या तिर्य्यग्रूपेण यत्सूत्रं तद्द-
-
-
 
 राज्ञां होमाभिषेकादिप्रयोगार्थन्तु मण्डपम्।  
 विदध्यान्नवहस्तेन विस्तारायामसंयुतम्॥१०॥
@@ -6015,8 +5391,6 @@ OXFORD,
 
  राज्ञामित्यादिभिर्लक्षणमित्यन्तैर्दशभिः श्लोकैः मण्डपनिर्माणक्रमं तत्र वेदीकुण्डनिर्माणस्थानानि चोपदिशति। तत्र नवहस्तेन विस्तारायामसंयुतं नवहस्तमानविस्तारेण नवहस्तमानायामेन संयुतं। षोड़शस्तम्भसंयुक्तं प्राक्प्रत्यग्दक्षिणोदक् च प्रत्येकं समान्तरालं प्रसारितसूत्रचतुष्टयषोड़शसन्धिष्विति शेषः। चतुर्द्वारं दिक्ष्विति शेषः। छदनमालया दर्भमालया। पिहिताशषकोणं पिहिताशेषकोणभक्तिं। तत्त्रैभागैकभागतः मण्डपस्य त्रिभागैकभागतः। मध्यतः मण्डपमध्यस्थस्तम्भचतुष्टयमध्यतः। तदभितः वेदीमभितः। तथा एकत्रिंशे पटले वक्ष्यमाणमेषादिमीनान्तद्वादशराशिस्थानात्मकेषु। चः समुच्चये। कल्पयेदित्यस्य कुण्डानीत्यनेनोत्तरत्रान्वयः। चतुष्कं कुण्डानामिति शेषः। एतदुक्तं भवति प्राक्प्रत्यग्दक्षिणोदक् च नव नवहस्तमानविस्तारायामेन वाह्यकोणचतुष्टये चतुर्भिः प्रतिदिशं द्विद्विक्रमाद्दिक् चतुष्टयेष्टभिर्मध्यभक्तिमभितः कोणचतुष्टये चतुर्भिश्च सम्भूय षोड़शस्तम्भैः संयुतं निःशेषपिहितकोणचतुष्टयं प्रागादिषु मण्डपचतुर्द्वारेषु उदुम्बरवटाश्वत्थप्लक्षाख्यदुग्धतरुभिः क्रमात् कल्पितछदनमालयोपेतेन तोरणचतुष्टयेन युतं त्रिहस्तमानविस्तारायामात्मकभक्तिनवकोपेतं मण्डपं विधाय तन्मध्यचतुःस्तम्भमध्यस्थभक्तिमध्ये त्वेकहस्तमानोन्नतियुक्तां त्रिहस्तायाम-
 
-
-
 कुण्डान्यष्टौ चतुष्कञ्च तेषां रूपञ्च नामकम्।  
 निर्म्माणं सकलं वक्ष्ये यथाविधि तवानघे॥१४॥
 
@@ -6032,8 +5406,6 @@ OXFORD,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 विस्तारां दर्पणोदरसङ्काशां वेदीं विधाय तत् परितो वाह्यभक्त्यष्टके द्वादशराशिस्थानेषु प्रतिदिशं द्विद्विक्रमेण कुण्डाष्टकं प्रतिकोणमेकैकक्रमेण कुण्डचतुष्टयञ्च सम्भूय द्वादशकुण्डानि वक्ष्यमाणक्रमेण नृपाणां होमाभिषेकादिमङ्गलप्रयोगार्थं विदध्यादिति। तेषां द्वादशानां कुण्डानां रूपं चतुरस्राद्यात्मकं। कुलीरशब्देन कर्कटराशिरुच्यते। चः समाहारे। देशतः देशे। वृत्तकुण्डानि वृत्ताकाराणि कुण्डानि। स्थिरराशिषु प्रोक्तवृषादिषु चतुर्षु। विदध्याच्चतुरस्राणि चतुरस्रचतुष्टयं विदध्यादित्यर्थः कुर्य्यात् कुण्डानि तानि चत्वारि चतुरस्राणि। अनुक्रमाद्वक्ष्यमाणक्रमात् कुण्डानि कुर्य्यादित्यर्थः। उभयात्मसु प्रोक्तमिथुनादिषु चतुर्षु राशिस्थानेषु योनिकुण्डानि योन्याकारवक्ष्यमाणलक्षणकुण्डानि। मङ्गले प्रयोगे इति शेषः। अमङ्गलेषु प्रयोगेष्विति शेषः। चरेषु चरराशिस्थानेषु अर्द्धशशाङ्ककं अर्द्धचन्द्राकाराणि। स्थिरेषु स्थिरराशिषु। अपि शब्देन पूर्व्वकुण्डानीत्येतदाकृष्यते। त्रिकोणानि त्रिकोणाकाराणि। परेषु उभयराशिषु। तुर्विशेषे। चतुष्टये कोणानामिति शेषः। अष्टकोणे अष्टास्रे। एतदुक्तं भवति प्रोक्तमण्डपवाह्यस्थभक्त्यष्टके प्रागादिचतुर्दिग्गतासु चतसृषु भक्तिषु एकस्यामेकस्यां द्विद्विराशिक्रमेण कोणदिग्गतासु भक्तिष्वेकैकक्रमेण सम्भूय प्राक्पंक्तिगतस्थानद्वये तूत्तरस्थानमारभ्य प्रादक्षिण्यक्रमेणेशानकोणभक्तिपर्य्यन्तं मेषादिद्वादशराशिस्थानानि परिकल्प्य तेषु स्थानेषु मङ्गलप्रयोगे मेषकर्कटतुलामकरराशिषु वृत्तकुण्डानि चत्वारि वृषसिंहवृश्चिककुम्भराशिषु चतुरस्रकुण्डानि चत्वारि मिथुन
-
-
 
 अमङ्गलेषु कुर्वीत चरेष्वर्द्धशशाङ्ककम्।  
 स्थिरेष्वपि त्रिकोणानि परेषु तु चतुष्टये॥१८॥
@@ -6056,8 +5428,6 @@ OXFORD,
 
  मध्यमेत्यादिभिः कल्पनमित्यन्तैस्त्रिभिः श्लोक्तैरङ्गुल्यादिमानक्रमं कुण्डमानवासनाञ्चोपदिशति। तत्र मध्यमाङ्गुलीत्यादिना श्लोकेनैतदुक्तं भवति यजमानदक्षिणहस्तस्य मध्यमाङ्गुलिमध्यपर्व्वप्रदेशपरिणाहमानं त्रिधा कृत्वा तेषां त्रयाणामंशानामेकोंशः सर्व्वत्रास्मिन् तन्त्रेऽङ्गुलिमानं भवेदिति। तैश्चतुरङ्गुलिमितांशै र्मुष्टिरिति नाम वितस्तिः नाम तत्त्रिभिर्गुणैस्त्रिगुणितैर्म्मुष्टिमानांशैर्द्वादशाङ्गुलमानेरित्यर्थः। अरत्निः संज्ञा तद्द्वयेन वितस्तिद्वयेन। अङ्गुलिचतुर्विंशत्येति यावत्। हस्तः संज्ञा तद्द्वयतअरत्निद्वयेन अष्टचत्वारिंशदङ्गुलिभिरिति यावत्। शिवे इति देवीसम्बुद्धिः। तद्द्वयं हस्तद्वयं व्यामः नाम तन्मानं व्याममानं। नरोन्नतिः नराणां मानमित्यर्थः। सा नरोन्नतिस्तन्मानैः षणवत्यङ्गुलमानैः अवयवैः प्रमाणैश्च। एतदुक्तं भवति सर्वेषां कुण्डानामायाम वस्तारख्यातानां प्रत्येकं चतुर्विंशत्यङ्गुलविशिष्टत्वात् सम्भूय द्वासप्तत्यङ्गुलैश्च तैर्मेखलानामुत् सेधविस्तारयोः प्रत्येकं द्वादशाङ्गुलविशिष्टत्वलाभात् ताभ्यां सम्भूय षणवत्यङ्ग लात्म
 
-
-
 प्राक्प्रत्यक् सूत्रमास्फाल्य तन्मध्ये चिह्नकल्पनम्।  
 कृत्वा तत्पूर्वतः पश्चाद्द्वादशाङ्गुलमानतः॥२३॥
 
@@ -6075,8 +5445,6 @@ OXFORD,
 कत्वाच्च परिणाहतः षणवत्यङ्गुलात्मकत्वाच्च तत्संख्याङ्गुलमितपुरुषदेहोन्नति समानानि कुण्डानीति॥२२॥
 
  प्रागित्यादिभिर्मानत इत्यन्तैः पञ्चभिः श्लोकैः समचतुरस्रकुण्डनिर्म्माणक्रमं तच्चतुरस्रे कुण्डेऽन्यतरकुण्डनिर्म्माणं प्रस्तावसहितमुपदिशति। तत्र तन्मध्यप्राक्प्रत्यक्सूत्रमध्ये चिह्नकल्पनं कृत्वा चिह्नं कृत्वेत्यर्थः। तत्पूर्व्वतः पश्चिमाच्चिह्नात् पूर्व्वतः। पश्चाच्च द्वादशाङ्गुलमानतः प्रत्येकमिति शेषः। परं अधिकं तत्रापि उभयतः प्रोक्तद्वादशद्वादशाङ्गुलमानेपि। तयोः प्राक्प्रत्यक्चिह्नयोः अवलम्वतः अवष्टम्भतः भ्रमादित्यर्थः। तयोर्दक्षिणोत्तरहंसपदयोः तद्दक्षिणोत्तरतिर्य्यक्सूत्रमानतः द्वादशाङ्गुलद्वादशाङ्गुलमानतः अधिकमिति शेषः। तदग्राणि प्राक्प्रत्यग्दक्षिणोत्तरसूत्रचतुष्टयाग्राणि मध्यचिह्नस्य मानतः द्वादशाङ्गुलमानतः पातयेदित्यस्य चतुष्टयमित्यत्रान्वयः। एतदुक्तं भवति प्राक्कल्पितदिक्क्रमात् प्राक्प्रत्यगायतं सूत्रमास्फाल्य तन्मध्ये चिह्नं कृत्वा तच्चिह्नात् पूर्व्वतः पश्चिमतः च द्वादशाङ्गुलद्वादशाङ्गुलमाने चिह्ने कृत्वा तत्तदधिकांशं मार्जयित्वा तच्चिह्नद्वयावष्टम्भेन तत्सूत्रं तुल्यमानभ्रमेण पूर्वापरतः किञ्चिदन्योन्यसंश्लिष्टवृत्तद्वयं विधाय तयोर्दक्षिणोत्तरहंसपदग्रापि प्राक्प्रत्यग्व्रह्मसूत्रमध्यस्थहंसपदसम्भेदा दक्षिणोत्तरं सूत्रमास्फाल्य तत्रापि मध्यचिह्नाद्वादशाङ्गूलद्वादशाङ्गुलमाने दक्षिणोत्तरतश्चिह्नद्वयं विधाय तत्तदधिकांशञ्च मार्जयित्वा तत्तत्सूत्राग्रचतुष्टयावलम्वनेन द्वादशद्वादशाङ्गुलमानेन चतुर्षु कोणेष्वपि हंसपदचतुष्टयं विधाय तत्तदग्रात्तत्तद्धंसपदग्रापि प्राक्प्रत्यक्सूत्रद्वयं दक्षिणोत्तरसूत्रद्वयञ्च सम्भूय सूत्रचतुष्टयमा-
-
-
 
 चतुष्टयन्तु सूत्रं च चतुरस्रं भवेत् समम्।  
 तस्मिन्नन्यानि कुण्डानि वदामि तव मानतः॥२७॥
@@ -6102,8 +5470,6 @@ OXFORD,
 
  तेषामित्यादिभिरात्मना इत्यन्तैश्चतुर्भिः श्लोकैः सप्रस्तावं वृत्तकुण्डनिर्माणक्रमादिकमुपदिशति। तत्र तेषां कुण्डानां सुस्फुटं गमकं। शिवे इति सम्बुद्धिः। तन्मध्याष्टादशांशेन चतुरस्रमध्यसत्रमानस्याष्टादशांशेन। तिर्य्यक्सूत्राद्वहिर्दक्षिणोत्तरायततिर्य्यक्सूत्रत्रये प्राक्सूत्राद्वहिः। तथा अभितः परितः कोणेषु चतुर्षु। सा भूः। अन्यतः अन्यस्मिन् दिक्चतुष्टये इत्यर्थः। तेन वक्ष्यमाणविधानेन। सर्वाणि कुण्डानि। तत्समानि चतुरस्रपरिणाहमानसमानि। एतदुक्तं भवति प्राग्वत् समचतुरस्रं कृत्वा तन्मध्यविष्कम्भमानमष्टादशधा विभज्य तेष्वेकांशमानात् प्राग्गतदक्षिणोत्तरायाततिर्य्यक्सूत्राद्बहिः प्राक्प्रत्यगायतसूत्रं प्रागग्रं निःसार्य्य तन्मानेन चतुरस्रमध्यस्थहंसपदमध्यावलम्बनेन भ्रमाद्वृत्ताकरं कुण्डमानं कल्पयेत्। एवं कृते कोणचतुष्टये वृत्ताद्वहिर्गतं भूमिमानं दिक्चतुष्टये लभ्यते तस्मात् सर्व्वकुण्डानि वक्ष्यमाणविधानेन षणवत्यङ्गुलपरिणाहतश्चतुरस्रक्षेत्रसमानि भवन्तीति॥३१॥
 
-
-
 अर्द्धचन्द्राकृतिर्येन भवेत् कुण्डं तदीरितम्।  
 येन द्वयं चराणां स्याद्राशीनां क्रमतः शिवे॥३३॥
 
@@ -6118,8 +5484,6 @@ OXFORD,
  तन्मध्ये इत्यादिना शिवे इत्यन्तेन श्लोकद्वयेनार्द्धचन्द्राकारकुण्डनिर्माण विधानोपदेशं तस्य बृत्तकुण्डस्योक्तचरराश्यात्मकत्वनिगमनञ्च करोति। तत्र तन्मध्ये दशमांशं चतुरस्रब्रह्मसूत्रमानस्य दशमांशं। तुः समाहारे। अधऊर्द्धतः प्राक्पश्चिमतः। तन्मध्यात् पश्चिमदिग्गततिर्य्यक्सूत्रादधोऽष्टांशमाने कल्पितदक्षिणोत्तरायततिर्य्यक्सूत्रमध्यात्तथा तत्सूत्रदक्षिणोत्तराग्रावधीति यावत्। येन विधानेन इत्यनेन दक्षिणोत्तरतिर्य्यक्सूत्राग्रद्वयं चतुरस्राद्वहिस्त्रींस्त्रीनंशान् प्रसारयेदित्यर्थः। एतदुक्तं भवति चतुरस्रस्य मध्यविष्कम्भमानं दशधा विभज्य तेष्वेकैकांशं तत् प्राक् पश्चिमतः परित्यज्य चिह्नद्वयं कृत्वा तत्पश्चिमचिह्नाद्दक्षिणोत्तरायततिर्य्यक्सूत्रं तच्चतुरस्राद्वहिरप्यंशत्रयत्रयाधिकमास्फाल्य तदग्रद्वयावधि-तत्कल्पितपश्चिमसूत्रब्रह्मसूत्रसन्धिमध्यावलम्वनेन कल्पिताग्रचिह्नावध्यष्टांशमानेन भ्रमादर्द्धचन्द्राकृति कुण्डं भवेदिति। एतद्द्वयं वृत्ताकारकुण्डमर्द्धचन्द्रा कारकुण्डं च क्रमतः मङ्गलामङ्गलयोः। शिवे इति सम्बुद्धिः॥३३॥
 
  तस्यैवेत्यादिना राशिष्वित्यन्तेन श्लोकद्भयेन त्रिकोणकुण्डनिर्माणक्रममुपदिशति। तत्र तस्यैव चतुरस्रस्यैव। पार्श्वयोर्दक्षिणोत्तरयोः। तन्मानेन प्रसारितसूत्रमानेन। तद्द्वयाग्रावलम्बनात् प्रसारितपश्चिमसूत्रद्वयाग्रावलम्बनात्। एतदुक्तं भवति प्राग्वच्चतुरस्रं कृत्वा तत् ब्रह्मसूत्रं प्रागग्रं वहिर्गत्या प्रसार्य्य तच्चतुरस्रविष्कम्भमानं षोढ़ा विभज्य तेष्वेकैकांशेन पश्चिमतिर्य्यक् सूत्राग्रद्वयं पार्श्वयार्वहिः प्रसार्य्य तदग्रद्वयात् तत्सूत्रमानोपेतसूत्रद्वयस्य प्राक्प्रसारितब्रह्मसूत्रस्य च यत्र सम्पातस्तदवध्यास्फाल्य त्र्यस्रं कुण्डं कल्पयेत्। एतदमङ्गलप्रयोगे स्थिरराशिषु चतुर्षूदितमिति॥३५॥
-
-
 
 तन्मध्यपञ्चमांशेन विकाश्य ब्रह्मसूत्रकम्।  
 पूर्वतः पश्चिमद्वन्द्वं कोष्ठयोर्म्मध्यदेशतः॥३६॥
@@ -6141,8 +5505,6 @@ OXFORD,
  तन्मध्येत्यादिभिः सिद्धिकृदित्यन्तैश्चतुर्भिः श्लोकैर्योनिकुण्डनिर्माणसन्धानं तदुक्तनिगमनं तत्फलञ्चोपदिशति। तत्र तन्मध्यपञ्चमांशेन चतुरस्रस्य मध्यमानपञ्चमांशेन तत्कोणमानेन तन्मध्यकोण्योरन्तरमानेन पश्चिमाग्रकान् उत्तराग्रावधि ब्रह्मसूत्रपश्चिमाग्रादिमध्यस्थ तिर्य्यक्सूत्रोत्तराग्रावधि तथा दक्षिणाग्रावधि ब्रह्मसूत्रपश्चिमाग्रादि मध्यस्थतिर्य्यक्सूत्रदक्षिणाग्रावधि। प्रिये इति देवीसम्बुद्धिः। तन्मध्यतिर्य्यक्सूत्राग्रद्वयावष्टम्भतः चतुरस्रमध्यस्थदक्षिणोत्तर सूत्राग्रद्वयावष्टम्भेन। भद्रे इति देवीसम्बुद्धिः। एतदुक्तं भवति चतुरस्रमध्यसूत्रमानपञ्चमांशेन ब्रह्मसूत्रस्य प्रागग्रां वहिर्विकाश्य तत्कोष्ठचतुष्टयात्मकचतुरस्रपश्चिमभागस्थदक्षिणोत्तरकोष्ठयोर्द्वयोः नैऋत्यादीशान्तमाग्नेयादित्रायव्यान्तं कोणसूत्रद्वयास्फालनेन लक्षिततत्सूत्रद्वयसम्पातविदितमध्यदेशावष्टम्भत स्तत्तत्कोणावधिमानेनोत्तरकोष्ठे प्राक् ब्रह्मसूत्रपश्चिमाग्रादिदक्षिणौत्तरमध्य तिर्य्यक्सूत्रोत्तसग्रावधि तद्दक्षिणकोष्ठे तत्सूत्रापश्चिमाग्रादि तद्दक्षिणाग्रावधि च भ्रमात्तन्मव्यतिर्य्यक्सूत्राग्रद्वयमारभ्य प्राक्प्रसारितब्रह्मसूत्राग्रावधि सूत्रद्वयास्फालनेन च कल्पिततत्मङ्गलकर्मसूभयराश्यात्मकस्थानचतुष्टये प्रोक्तं योनिकुण्डमुक्तफलसिद्धिकरमिति॥३९॥
 
  तन्मध्येत्यादिना कुण्डकमित्यन्तेन श्लोकद्वयेन पञ्चास्रकुण्डनिर्म्माणविधानमुपदिशति। तत्र तन्मध्यसप्तमांशेन चतुरस्रमध्यसूत्रमानस्य सप्तमांशेन तदिति ब्रह्मसूत्रमित्यस्य विशेषणम्। मानेन विकाशितमानेन कृत्वा वृत्तं कृत्वेत्यर्थः।
-
-
 
 तत्त्र्यंशमानात्तद्वृत्ते कृत्वा चिह्नानि तत्र वै।  
 पातयेत् पञ्चसूत्राणि तत् स्यात् पञ्चास्रकुण्डकम्॥४१॥
@@ -6167,8 +5529,6 @@ OXFORD,
 
  तन्मध्येत्यादिभिः शिवे इत्यन्तैस्त्रिभिः श्लोकैः सप्तास्रकुण्डनिर्माणविधानं तत्
 
-
-
 तत् सप्तास्रं भवेत् कुण्डं चापगं वायुदिग्गतम्।  
 समस्तवैरिनाशाय प्रोक्तं कुण्डमिदं शिवे॥४६॥
 
@@ -6183,8 +5543,6 @@ OXFORD,
 फलञ्चोपदिशति। तत्र तन्मध्यदशमांशेन चतुरस्रमध्यसूत्रस्य दशमांशेन विकाश्य चतुरस्राद्वहिरिति शेषः। कृत्वा वृत्तं वृत्तं कृत्वेत्यर्थः। तथा प्राग्वत्। ततः अनन्तरमिति शेषः। तच्चतुःषष्टिभागेषु चतुरस्रमध्यसूत्रस्य चतुःषष्टिभागेषु त्रयस्त्रिंशांशमानतः त्रयस्त्रिंशदंशमानतः। चापगं चापराशिस्थानगतं। एतदुक्तं भवति प्राग्वत् समचतुरस्रं कृत्वा तन्मध्यमानं दशधा विभज्य तेष्वेकांशमानेन तद्व्रह्मसूत्रं वहिः विकाश्य तन्मानेन तच्चतुरस्रमध्यस्थहंसपदमवष्टभ्य वृत्तं कृत्वा तच्चतुरस्रमध्यसूत्रमानं चतुःषष्टिभागीकृत्य तेषु त्रयस्त्रिंशदंशमानेन ब्रह्मसूत्रं प्रागग्रादारभ्य वृत्ते सप्तचिह्नानि कृत्वा तत्र चिह्नाच्चिह्नं ज्यारूपेण सप्तसूत्राण्यास्फाल्य तत्तच्चापरूपवृत्तखण्डमार्जनादेतत् सप्तास्रं वायुदिग्गतचापराशिस्थाने प्रोक्तं वैरिनाशकरं कुण्डं भवेदिति॥४६॥
 
  तन्मध्येत्यादिभिः क्रमेण वै इत्यन्तैस्त्रिभिः श्लोकैः अष्टास्रकुण्डनिर्माणविधानं प्रोक्तकुण्डानां मेखलादिनिर्माणविधानकथनप्रस्तावसहितमुपदिशति। तत्र तन्मध्यस्य चतुरस्रमध्यसूत्रस्य। चतुर्विंशमाने चतुर्विंशांशमाने। बाह्ये चतुरस्रादिति शेषः। पूर्व्वकोणार्द्धमानतः पूर्वलिखितचतुरस्रकोणसूत्रस्यार्द्धमानेन। कोणादभितः कोणचतुष्टयादुभयोः पार्श्वयोः। कृत्वा चिह्नानि चिह्नानि कृत्वेत्यर्थः। शिवे इति सम्बुद्धिः। एतदुक्तं भवति पूर्व्ववच्चतुरस्रं विधाय तन्मध्यसूत्रमानं चतुर्विंशतिधा विभज्य तेष्वेकैकांशमानात्तद्वहिः प्रतिदिशं प्रसारितसूत्राग्रे पूर्व्ववच्चतुरस्रं प्रोक्तक्रमेण विधाय तत्कोणसूत्रस्यार्द्धमानेन वाह्यचतुरस्रे, कोणचतुष्टयव्यत्यासावष्टम्भादुभयतः प्रतिरेखं चिह्नद्वयं क्रमात् सम्भूयाष्टचिह्नानि कृत्वा तत्र चिह्नाच्चिह्नं प्राग्वत् सूत्रचतुष्कमास्फाल्य तद्वहिर्गत कोणमार्जनादीशदिक्स्थमीनराशिप्रोक्तमष्टास्रं कुण्डं कल्पयेदिति। एतेषां
-
-
 
 कुर्य्यादष्टास्रकं कुण्डमेतेषां मेखलादिकम्।  
 प्रवक्ष्यामि शृणु प्राज्ञे समुद्दिष्टं क्रमेण वै॥४९॥
@@ -6208,8 +5566,6 @@ OXFORD,
  वृत्तेत्यादिना समीरितमित्यन्तेन श्लोकद्वयेनाष्टास्रयन्त्रकुण्डादिकल्पनोपायोपदेशं प्रोक्तनिगमनञ्च करोति। तत्र वृत्तमध्यभुवः वृत्तमध्यविष्कम्भस्य। त्रिगुणं त्रिगुणितं। स्ववाञ्छितेन स्ववाञ्छितास्रिमानेन। तदस्राणि अष्टास्रयन्त्रकुण्डानि। उक्तेषु पञ्चविंशे पटले। चकारः समुच्चये। कोटिहोमादिषु वक्ष्यमाणेषु अत्रादिशब्दो महासंख्यहोमादिविषयः। एतदुक्तं भवति प्रोक्तक्रमाद्वृत्तं कृत्वा तन्मध्यविष्कम्भमानं स्वाभीष्टास्रिसंख्यया विभज्य तेषु तत्तदंशमानेन वृत्ते परितश्चिह्नानि स्वेष्टास्रिसंख्यानि विधाय तत्तच्चिह्नाच्चिह्नं ज्यारूपाणि सूत्राणि स्वेष्टास्रिसंख्यान्यास्फाल्य तत्तच्चापरूपाणि वृत्तखण्डानि मार्जयित्वा एवं मातृकापटलोक्तषट्त्रिंशास्रादियन्त्रेषु तत्तत्कुण्डेषु च कोट्यादिमहासंख्यहोमप्रोक्तकुण्डेषु च विधानं समीरितमिति॥५१॥
 
  प्रोक्तेष्वित्यादिभिरास्तिकैरित्यन्तैः षड्भिः श्लोकैः कोटिहोमकुण्डप्रमाणं होतृसंख्यां तद्धोमप्रकारं होतृदक्षिणां गुरुदक्षिणां तत्कोटिहोमकर्त्तव्यकालविशेषांस्तद्विद्यां होतृलक्षणञ्चोपदिशति। तत्र प्रोक्तेषु मङ्गलामङ्गलत्वभेदतः अन्यतमे तत्तदनुगुणे। नवहस्तप्रमाणके आयामेन विस्तारेण च। तथा वक्ष्य-
-
-
 
 गोचर्म्मद्वयमात्रन्तु भुवं गां प्रस्रुतस्तनीम्।  
 महिषीं सप्रजामश्वदासदासीविभूषणाम्॥५४॥
@@ -6237,8 +5593,6 @@ OXFORD,
 
  प्रोक्तेत्यादिना श्लोकेन कुण्डानां खातमानमुपदिशति। तत्र अरत्निः चतुर्विंशत्यङ्गुलमानं। तस्य कोटिहोमप्रोक्तनवहस्तमानकुण्डस्य॥५८॥
 
-
-
 सर्वेषां मेखलामानं वितस्त्यष्टतदर्द्धकैः।  
 विस्तारोत्सेधयोः कुर्य्याद्योनिहोत्रासनाग्रतः॥५९॥
 
@@ -6259,8 +5613,6 @@ OXFORD,
 
  वहिष्ठेत्यादिभिः समूहत इत्यन्तैरर्द्धाद्यैश्चतुर्भिः श्लोकैर्योनिस्वरूपं तन्निर्माण-
 
-
-
 **वितस्त्यायामसंयुक्तां तदर्द्धेन तु विस्तृताम्।  
 एकाङ्गुलोत्सेधयुतां मेखलोपरि सर्वतः॥६३॥**
 
@@ -6276,8 +5628,6 @@ OXFORD,
 
 क्रमं तद्वासनां महाकुण्डस्य योनेरूहेन मानक्ऌप्तिञ्चोपदिशति। तत्र वहिष्ठ मेखलामध्यात् प्रथममेखलामध्यभूतभूप्रदेशाद्वितस्तिमात्रकां कोष्ठां द्द्वादशाङ्गुलोत् सेधकल्पितनालां अश्वत्थदलसन्निभां अश्वत्थपत्राकारां वितस्त्यायामसंयुक्तां द्वादङ्गुलायामसंयुक्तां तदर्द्धेन तु विस्तृतां षड़ङ्गुलविस्तारयुतां। सर्व्वतः सर्वेषु कुण्डेषु। स्तोकं किञ्चित्। सर्व्वतः सर्व्वस्य अस्य कारणभूतस्य इत्युत्तरत्रान्वयः। एतदुक्तं भवति सर्व्वकुण्डेषु होतुरासनप्रदेशे प्रथममेखलामध्यप्रदेशभूमौ द्व्यङ्गुलायामविस्तारमेकाङ्गुलोत्सेधं चतुरस्रं पीठं मृदा कृत्वा तदाद्युपरितनमेखलाग्रान्तमध्यतनमेखलोपरिस्तरणार्थं कृतरन्ध्रान्तर्मेखलास्पर्शिवृत्ताकारं नालं कृत्वा तन्नालसम्बन्ध्युपरितनमेखलोपरि षड़ङ्गुलमानविस्तारमध्यां तत्प्रदेशादुभयपार्श्वक्रम सङ्कोचिताग्रद्वादशाङ्गु- लमानायामामेकाङ्गुलोत्सेधामश्वत्थपत्राकारां मूलात्किञ्चित् क्रमान्निम्नाग्रां योनिं कुर्य्यादिति। वृत्तकुण्डव्यतिरिक्तकुण्डानां योनिं जानीयादेवेति सम्प्रदायः। कारणभूतस्य तत्त्वस्य विश्वकारणभूतस्य जातरूपतत्वस्य पदं उदयविश्रान्तिस्थानं महत् पूर्णत्वात्। तत्रयोन्यां असौ अपरिच्छिन्नात्मिका योनिः महाकुण्डस्य कोटिहोमप्रोक्तकुण्डस्य। मान योनेरिति शेषः। समूहतः सम्यगूहेन। ऊहो यथा वितस्तिमात्रमेखलस्य कुण्डस्य नालोत्सेधमानं वितस्तिः तद्योनेर्विस्तारमानमङ्गुलषट्कं आयाममानं वितस्तिः उत्सेधमानमेकाङ्गुलं तदा हस्तमात्रमानमेखलस्य महाकुण्डस्य तत्तन्मानानि कियन्तीति तत्प्रकरणात्तन्मानानि लिख्यन्ते। नालमानमष्टचत्वारिंशदङ्गुलमानं। योनेः विस्तारमरत्निः। आयाममानं हस्तः। 
 उत्सेधमानमङ्गुलचतुष्टयञ्च। योनिकुण्डस्य तन्मेखलोपरि योनिक्लृप्तिं विनैव तत्फलसिद्धिकृदिति सम्प्रदायः॥६६॥
-
-
 
 **महाकुण्डस्य चैवैतत् कुर्य्यान्मानं समूहतः।  
 नाभिं कुर्य्यात्तु सर्व्वत्र कुण्डमध्ये विधानतः॥६६॥**
@@ -6296,8 +5646,6 @@ OXFORD,
   नाभिमित्यादिना तथेत्यन्तेनार्द्धाद्येन श्लोकद्वयेन सर्व्वकुण्डमध्ये नाभिनिर्माणविधानं तल्लक्षणं महाकुण्डस्य प्रोक्तवदूहकल्पनञ्चोपदिशति। तत्र विधानतः वक्ष्यमाणप्रकारेण। चारुविग्रहं अन्यूनाधिकमानम्। चतुर्भिः प्रतिदिशमिति शेषः। चः समुच्चये। षड़भिः षड्भिः अपि चेत्यनेन अङ्गुलैरिति पूर्वश्लोकादाकृष्यते। एतदुक्तं भवति प्रोक्तानां सर्वकुण्डानां कुण्डमध्यस्थहं सपदावलम्वनेन प्रतिदिशं दशाङ्गुलमानपरिभ्रान्त्या वृत्तं निष्पाद्य तद्वृत्तान्तराले षड़ङ्गुलोत् सेधयुतं पीठं कृत्वा तन्मध्यस्थहंसपदावलम्बनेन प्रतिदिशं चतुरङ्गुलमानेन वृत्तं निष्पाद्य तद्बहिः षड़ङ्गुलमानेन च वृत्तं कृत्वा तदन्तर्वृत्तमध्यं कर्णिकां परिकल्प्य तद्बहिःस्थवृत्तान्तरालवोथ्यामष्टदलविधानेन च सम्भूय विंशत्यङ्गुलमध्यसंस्थं नाभिपद्मं कुर्य्यादिति। महति कुण्डे कोटिहोमप्रोक्ते कुण्डे ऊहेन यदा अरत्रिमानविस्तारायामकुण्डे नाभिपद्मस्याधोदलविस्तारञ्चे षड़ङ्गुलात्मके कर्णिकामानं चतुरङ्गलात्मकं तदा नवहस्तविस्तारायाममहाकुण्डे। नाभिपद्मस्य तत्तन्मानानि कियन्तीत्यूहेन तन्मानसंख्या लिख्यते। यथा उत्सेधमानानि अष्टोत्तरशताङ्गुलसंख्यानि दलमानानि प्रतिदिशमष्टोत्तरशताङ्गुलानि कर्णिकार्द्धविस्तारमानानि द्विसप्तत्यङ्गुलानि सम्भूय पद्मविष्कम्भमानाङ्गुलानि षष्ट्युत्तरत्रिशतसंख्यानि भवन्ति। तन्नाभिपद्मं तथा तन्मानेन॥६८॥
 
  ध्यानमित्यादिना श्लोकेन सौम्यक्रौर्य्यविभागेन अग्नेर्ध्यानद्वयप्रस्तावपुरःसरं सौम्यध्यानमतिदिश्य क्रूरध्यानं प्रस्तौति। तत्र नित्यासमाकारं ध्यानं तत्तन्नित्याप्रोक्तस्थूलरूपध्यानं। प्रिये इति देवीसम्बुद्धिः॥६९॥
-
-
 
 **द्विशीर्षसप्तहस्तञ्च त्रिपादसप्तजिह्वकम्।  
 त्रिधारूपमतिक्रूरैररुणैः षड्भिरीक्षणैः॥७०॥**
@@ -6329,8 +5677,6 @@ OXFORD,
 
  सुप्रभेत्यादिना श्लोकेन वामवक्त्रजिह्वात्रयनामानि तदन्त्यजिह्वायाः सर्व्व–
 
-
-
 **सुप्रभा चातिरिक्ता च बहुरूपा च वामगा।  
 बहुरूपायां जिह्वायां होमः सर्व्वार्थसाधकः॥७६॥**
 
@@ -6361,8 +5707,6 @@ OXFORD,
 
  नक्षत्रेत्यादिना श्लोकेन क्रूरकर्म्मसु होमद्रव्याण्युपदिशति। तत्र सर्व्वत्र
 
-
-
 **प्रसूनान्येकमेकन्तु फलानि च तथा हुनेत्।  
 अन्नाज्यादि समस्तन्तु निष्कमात्रं हुनेत् क्रमात्॥८२॥**
 
@@ -6385,8 +5729,6 @@ OXFORD,
 
  प्राङमुख इत्यादिभिरुदीरित इत्यन्तैरध्यर्द्धैर्दशभिः श्लोकैः सर्व्वमङ्गलहोमानां सामान्धपुरस्ताच्चोपरिष्टाच्च तत्तद्विधिं क्रूरहोमस्यापि तत्तत्साधारणताञ्चोपदिशति। तत्र न्यस्तगात्रः तत्तन्नित्याप्रोक्तन्यासमन्त्रेरिति शेषः। तत्रस्थानि तद्योनिस्थानि कुण्डपरिसरस्थानि च। तत्र नवकोष्ठे। प्रागादिषु कोष्ठेषु। सप्त इत्यस्य जिह्वा इत्येतद्विशेष्यं। मध्ये मध्यकोष्ठे। वह्निं तथा स्मरन् नित्यहोमोक्तप्रकारेण वह्निं तत्तन्नित्यारूपं स्मरन्। अस्य पदस्य अनन्तरश्लोके पूजयेदित्यनेनान्वयः। प्रोक्तैः वह्नेर्नाम्नेति शेषः। चः समुच्चये। द्व्यक्षरादिकं शक्तिवीजलक्ष्मीवीजद्वयादिकम्। अष्टानां अग्नेश्च सप्तजिह्वानां। तन्मन्त्रा यथा ह्रीं श्रीं अग्नये स्वाहा ह्रीं श्रीं
 
-
-
 **प्राक्प्रत्यग्दक्षिणोदक् च तत्र जिह्वाः समच्चर्येत्।  
 प्रागादिषु तु सप्तापि मध्ये ‌वह्निं तथा स्मरन्‌॥८६॥**
 
@@ -6406,8 +5748,6 @@ OXFORD,
 
 हिरण्यायै स्वाहा इत्यादयः। सभाजनं भाजनसहितं क्रव्यादेम्यो नमः इति शेषः। अन्यत्‌ त्यक्तशेषं अङ्गारं। तन्मध्ये कुण्डमध्ये। दर्भैः प्राक्पश्चिमयोरुत्तराग्रैः दक्षिणोत्तरयोः प्रागग्रैश्च मध्यस्थमेखलास्विति शेषः। पलाशाश्वत्थपत्रकैः पलाशाश्वत्यथरोरन्यतरपत्रकैः। तथा घृताहुतीः पञ्चमे पटले एकोनषष्टितमश्लोकोत्तरार्द्धेन तदनन्तरश्लोकार्द्धपादेन चोक्तक्रमेण तत्तत्‌ जिह्वानां स्मरणपू्र्वं प्रतिजिह्वं नवनवाहुतीः परिवारशक्तीनामेकैकाहुतीश्च। मूलतः तत्तन्नित्याविद्यया। नाथनित्यात्मभूतजैः नवनाथपञ्चदशनित्यादिननित्यात्माष्टाक्षरपञ्चभूतात्मकैर्मन्त्रैरिति शेषः। स्वाज्ञास्थानगतां स्वभ्रूमध्यान्तर्गतद्विदलपद्माधारमध्यस्थशशक्तिरूप‌स्वरूपतादात्म्यंगतां। परिस्तरणपूर्व्वकं परिस्तरणं पूर्वादित उत्तरान्तेषु भस्मना‌‌‌‌ दग्धपरिस्तरणदर्भाणाम्‌। एतदुक्तं भवति विष्टरे प्राङ्मुखस्थितः प्राणयामपुरःसरं न्यासं कृत्वा स्थापितांर्घजलेन कुण्डं होमद्रव्यं संप्रोक्ष्य कुण्डमध्यस्थनाभिपद्मकर्णिकायां प्राक् प्रत्यग्दक्षिणोद‌क् चदर्भेण लिखितरेखाचतुष्येन नव कोष्ठानि निष्पाद्यार्घतोयेनसंप्रोक्ष्य भाजननिहित मङ्गारं हस्ते गृहीत्वा क्रव्यादेभ्यो नमः इति मन्त्रेण तस्मादङ्गारसकलं दक्षिणस्यां
 
-
-
 **तथा घृताहुतीः कृत्वा नित्या षोड़श मूलतः।  
 जुहुयादेकमेकन्तु नाथनित्यात्मभूतजैः॥९१॥**
 
@@ -6422,8 +5762,6 @@ OXFORD,
  ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 दिश्यपास्य सभाजनमङ्गारं कुण्डमभितः त्रिःप्रदक्षिणं परिभ्राम्य तन्मध्य स्थकोष्ठे तं वह्निं संस्थाप्य प्रज्वाल्य ललितादित सन्नित्याविद्यासु स्वभजनीयविद्यया परिषिच्य तत्कुण्डमध्यमेखलायाः परित उदगग्रैः प्रागग्रैश्च दर्भैःकुशैर्वा परिस्तीर्य्यपलाशाश्वत्थयोरन्यतरस्य पत्रैर्देवों परिकल्प्य मध्ये वह्निं तदभितः प्रागादिकुण्डकोष्ठेषु स्वाभिमतादिसप्तजिह्वा ध्यात्वा ह्रीं श्रीं अग्नये नमः इति मध्ये वह्निं समभ्यर्च ह्रीं श्रीं हिरण्यायै नमः इत्यादिभिः स्वाभिमतादिभिः सप्तजिह्वामन्त्रैः समभ्यर्च्य ललिताहोमे तत्तज्जिह्वास्मरणपूर्व्वं श्रीविद्यातृतीयखण्डदिननित्याभ्यां प्रतिजिह्वं नवनवाहुतीर्हुत्वा तदन्यनित्याहोमे तत्तज्जिह्वामन्त्रः स्वाहान्तैस्तासु प्रत्येकं नवनवाहुतीर्हुत्वा नित्यनैमित्तिकमङ्गलहोमेषु वह्निं तत्तन्नित्याविग्रहं मङ्गलकर्मसु तत्र प्रोक्तविग्रहं तत्पूजाक्रमेणैकैकाहुतिं स्वभजनोयविद्यया नित्यनैमित्तिकयोः षोड़शाहुतीश्च घृतेन हुत्वा काम्ये तत्तत्कर्म्मप्रोक्तद्रव्यैस्तत्तत्संख्याहुतीश्च हुत्वा ललिताहोमे नाथमन्त्रैस्तिथिनित्यया तद्दिननित्ययात्माष्टाक्षरेण भूतमन्त्रैश्च तदितरनित्याहोमे नाथमन्त्रैरेव हुत्वा प्राग्वत् परिषिच्य वह्निं देवीं विभावयन् स्वाज्ञाधारस्थशक्तिरूपमहावह्निना तादात्म्यं विभाव्य परिस्तरणदर्भादिकं तद्वह्नौ दग्ध्वा तद्भस्मना तिलकं कृत्वा तत्तन्नित्याविद्यां हृतसंख्यामावर्त्त्य प्राग्वन्न्यामं कुर्य्यादिति। क्रूरकर्मसु अभिचारादिषु॥९४॥
-
-
 
 **क्रूरकर्म्मसु होमेषु विधिरेष उदीरितः।  
 तेषु तद्धोमकरणं समाप्ते नित्यशस्तथा॥९४॥**
@@ -6447,8 +5785,6 @@ OXFORD,
 
  तेष्वित्यादिभिर्वाञ्छितमित्यन्तैरर्द्धाद्यैः षड्भिः श्लोकैः क्रूरहोमानन्तरं तत्क्षान्त्यर्थं होमः कर्त्तव्यः तदर्थं पूर्वोक्तदिननित्यामिथुनार्च्चनस्मरणसहितं सूक्ष्मपरहोमद्वयस्योत्तरपटले वक्ष्यमाणत्वप्रस्तावसहितमुक्तनिगमनं तत्फलञ्चोपदिशति। तत्र नित्यशः प्रतिदिनं। तथा उक्तप्रकारेण। विद्यया तत्तन्नित्याविद्यया। सम्पूजयेत् तत्तनित्यामिति शेषः। नित्यक्रमं तत्तन्नित्याया नित्यपूजाक्रमं। ततस्तन्नित्यपूजानन्तरं। तत्तद्दिवसविद्यया पञ्चविंशपटलोक्ततत्तद्दिनविद्यया सहेति शेषः। पूर्व्वमुदिते षोड़शपटले प्रोक्तचतुःषष्टिकोष्ठात्मके। पाहि मामिति अक्षरात्मकमन्त्रमिति शेषः। सर्व्वं क्रूरहोमानन्तरं साधककर्त्तव्यं। कुण्डादिषु समीरितं कुण्डादिषु मेखलानाभियोन्यादिनिर्माणविधानमीरितं। तुर्विशेषे। उत्तरस्मिन् द्वात्रिंशे पटले। इतरस्य स्थूलहोमस्य। तानीत्यस्योत्तरत्र प्रोक्तानीत्येतद्विशेष्यं। इत्थं होमात् प्रोक्त–
 
-
-
 **नासाध्यमस्ति होमेन नानवाप्यमपीश्वरि।  
 तस्माद्धोमेन सकलं साधयेत् सर्ववाञ्छितम्॥१००॥**
 
@@ -6471,8 +5807,6 @@ OXFORD,
 
 ग्रन्थसंख्या—**न सन्ति यन्त्राण्येकोनत्रिंशेस्मिन् पटले कृताः।  
           अध्यर्द्धत्रिंशदधिका व्याख्याग्रन्थाः शतत्रयात्॥**
-
-
 
 **त्रिंशपटलम्।**
 
@@ -6498,8 +5832,6 @@ OXFORD,
 
  चतुरस्राकृतिरित्यादिभिस्ते इत्यन्तैःसप्तभिःश्लोकैर्वास्तुदेवतोत्पत्तिकारणं तदुत्पत्तिं तत्संख्यां तत्पूजाद्यकरणे प्रत्यवायं पूजाफलञ्च तच्चक्रादिविधानकथनप्रस्तावसहितमुपदिशति। तत्र सर्व्वनाशकृत् सर्व्वप्राणिनां हिंसातत्परः।
 
-
-
 **कथयास्माकमधुना तद्बास्तुपुरुषस्य तु।  
 दर्पशान्तिं नचेत्तेन विश्वमासीदुपद्रुतम्॥६॥**
 
@@ -6523,8 +5855,6 @@ OXFORD,
 
  प्रागित्यादिभिरीरितमित्यन्तैश्चतुर्भिः श्लोकेर्वास्तुदेवताचक्रनिर्माणविधानमुपदिशति। तत्र तैः आस्फालितैः सुतैः। समानि समान्तरालानि। तेषु कोष्ठेषु नवकोष्ठानीत्यन्वयः। एकं तु कुर्य्यात् एकीकुर्य्यादित्यर्थः। तद्वह्निःएकीकृत–
 
-
-
 **तेषु मध्ये नवैकन्तु कुर्य्यात् कोष्ठानि तद्वहिः।  
 एकीकुर्य्यात्रिकोठानि दिक्षु प्रागादिषु क्रमात्॥१२॥**
 
@@ -6542,8 +5872,6 @@ OXFORD,
 नवकोष्ठकाद्वहिः वीथ्यामिति शेषः। चतुर्षु कोणेषु एकीकृतकोष्ठनवकान् वाह्यवीथिद्वयोरिति शेषः। तिर्य्यक्सूत्रचतुष्कतः कोष्ठानीत्यन्वयः। प्रतिकोणं कोष्ठद्वयस्यैकैकतिर्य्यक् सूत्रक्रमेण तत्पार्श्वयोः मध्यबीथिकोष्ठपार्श्वयोः। द्वे द्वे कोष्ठे इति शेषः। तद्वीथ्यां मध्यवीथ्यां। मध्यतः एकीकृतद्विद्विकोष्ठयोरिति शेषः। बहिर्वाह्यवोथ्यां द्वात्रिंशत् कोष्ठानीति शेषः। एतदुक्तं भवति प्राक् प्रत्यग्दक्षिणोदक् च समान्तरालं दशदशसूत्रास्फालनेनैकाशीतिसंख्यकोष्ठानि निष्पाद्य तन्मध्ये कोष्ठनवकमेकीकृत्य तदन्तरवाह्यवीथ्यां परितः षोड़शसंख्यकोष्ठात्मिकायां प्रतिदिशं त्रीणि त्रीणि कोष्ठान्येकीकृत्य तद्वीथ्यां प्रतिकोणमेकैकक्रमेणावशिष्टकोष्ठचतुष्टयं तद्वाह्यवीथिगतचतुर्विंशतिकोष्ठेषु प्रतिकोणमेकैकक्रमेण कोष्ठचतुष्टयं चैवं क्रमात् प्रतिकोणं कोष्ठद्वयं तिर्य्यक्सूत्रेण द्विधा कृत्वा सम्भूय कोणचतुष्टयस्थार्द्धकोष्ठद्वयाष्टकमेकैकक्रमाद्देवताष्टकस्थानं परिकल्प्य पुनस्तद्द्विनीथवीथ्थां तत्तत् कोणोभयपार्श्वयोः कोष्ठद्वयं कोष्ठद्वयमेकीकृत्य पुनस्तद्वीथ्यां प्रतिदिशं मध्ये शिष्टमेकैकं कोष्ठं वक्ष्यमाणक्रमादक्षरन्यासार्थं परिकल्प्यपुनस्तद्वाह्यवीथ्यां द्वात्रिंशत् कोष्ठानि द्वात्रिंशद्देवतास्थानान्येवं सम्भूयाक्षरन्यासस्थानकोष्ठचतुष्टयवर्जं त्रिपञ्चाशद्देवतास्थानानि भवन्तीति॥१४॥
 
  सर्व्वमध्ये इत्यादिभिः समीरिता इत्यन्तैर्द्वादशंभिः श्लोकैस्त्रिपञ्चाशद्वास्तुदेवतानामानि प्रोक्तचक्रे प्रोक्तस्थानेषु तासां स्थितिक्रमं तत्तन्नाममन्त्रांश्चोपदिशति। तत्र सर्व्वमध्ये एकीकृतनवकोष्ठात्मकस्थाने। तद्वहिस्तदनन्तरवीथ्यामभि
-
-
 
 प्रागादि तद्विहिश्चापि यजेदेतान् प्रदक्षिणम्।  
 आर्य्यकञ्च विवस्वन्तं मित्रमन्थंमहीधरम्॥१६॥
@@ -6572,8 +5900,6 @@ OXFORD,
 
 तस्त्वेकोकृतकोष्ठत्रयात्मककोष्ठत्रयात्मकेषु चतुर्षु स्थानेषु। एतानार्य्यकदीन्। अन्यं चतुर्थं। अष्टौ दैवतानीति शेषः।तद्वतेवह्न्यादीशान्तमभितः तदर्द्धकोष्ठद्वये वह्निकोणगतार्द्धकाष्ठद्वयादीशकोणगताद्धेकोष्ठद्वयान्तमित्यर्थः। पूर्व्ववत् प्रादक्षिण्येन। प्रिये इति सम्बुद्धिः। रुद्रतज्जयौ रुद्रो रुद्रजयश्च। ते देवाः। अष्टौ अनन्तरश्लोकवक्ष्यमाणसर्वादीन्। ताराद्यैःप्रणवाद्यैः। नमान्तैरित्यनेन तत्तन्नाम्नांचतुर्थीविभक्त्यन्तत्वं चाच्यते। तथा प्रादक्षिण्येन। अन्यान् प्रोक्तान् ब्रह्मादीन्। तथार्चयेत् प्रोक्तक्रमेण तत्तन्नाममन्त्रैरर्चयेत्। सर्वमित्यादिनोत्तरार्द्धेन पञ्च नामानि। चरकीत्यादिना पूर्व्वार्द्धनं नामत्रयं। ‌महेश्वरीति सम्बुद्धिः। वहिः सर्ववाह्यवीथ्यां। अष्टौ देवान्। दिशंप्रति प्रतिदिशमित्यर्थः ॥ ईशानेत्यादिना
 
-
-
 अग्निः पूषा च वितथो यमोऽथ गृहरक्षकः।  
 गन्धर्ब्बो भृङ्गराजश्च मृगो दक्षिणकोष्ठगः॥२३॥
 
@@ -6596,8 +5922,6 @@ OXFORD,
 एते नैऋत्यादयः। (वायुरित्यादिनोत्तरार्द्धेन नामपञ्चकम्। अर्गल इत्यादिना पूर्व्वार्द्धेन नामत्रयं। तत्र अर्गलः दितिरिति पदच्छेदः। ताः वाय्वादयः। एतदुक्तं भवति प्रोक्ते चक्रे एकीकृतनवकोष्ठमध्ये प्रोक्तरूपं ब्रह्माणं तद्वाह्यवीथ्यां प्रतिदिशमेकीकृतत्रित्रिकोष्ठात्मकस्थानचतुष्टये प्रागादितः प्रादक्षिण्यक्रमादार्यकादींश्चतुरस्तद्वीथितद्वाह्यवीथ्योः प्रतिकोणं तिर्य्यक्सूत्रास्फालनोत्पन्नार्द्धद्वयकोष्ठाष्टके वह्न्यादीशान्तं प्रादक्षिण्यक्रमात् सावित्रादीन् अष्टौ पुनस्तन्मध्यवीथीप्रतिकोणं शिटकोणपार्श्वद्वयेष्वेकीकृतकोष्ठद्वयद्वयोत्पन्नेषु अष्टसु स्थानेषु वह्न्यादीशान्तं प्रादक्षिण्येन सर्व्वादीनष्टौ पुनः सर्व्ववाह्यवीथ्यामीशानकोष्ठादिद्वा‌त्रिंशत्‌कोष्ठेषु प्रादक्षिण्येनेशादीन् द्वात्रिंशद्देवांश्च तत्तन्नाममन्त्रैः प्रणवादिभिर्नमोऽन्तैः पूजयेदिति ॥२६॥
 
  द्वितीयेत्यादिभिस्तानित्यन्तैस्त्रिभिः श्लोकैः प्रोक्तवास्तुचक्रमध्यवीथ्यां प्रतिदिशमेकैकक्रमादवशिष्टकोष्ठचतुष्टये युगादिवर्णन्यासक्रममुपदिशति। तत्र द्वितीयवीथिमध्यस्थचतुष्कं प्रतिदिशमेकैककोष्ठक्रमात् कोणसूत्रतः कोणसूत्राभ्यांतेष्वेव एकैककोष्ठस्थस्थानचतुष्कक्रमात् प्राग्वत् प्रादक्षिण्यात्। प्राच्ये प्राक्–
-
-
 
 प्राच्ये युगार्णपर्य्यायनित्यार्णानालिखेत् क्रमात्।  
 प्रागादिषु तथा दक्षे नित्यार्णाणुदयार्णकम्॥२८॥
@@ -6622,8 +5946,6 @@ OXFORD,
 
  वलिमित्यादिना श्लोकेन तेषां वलिविधानं तद्द्रव्याणि चोपदिशति। तत्र तेषां ब्रह्मादीनां। दुग्धकदलीफलापूपादिसंयुतम् एतत् क्रियाविशेषणम्।
 
-
-
 एवं सिंहगते भानौ पूर्णायां प्रतिवत्सरम्।  
 स्वगेहे वास्तुपूजायां मण्डले सर्वतः क्रमात्॥३३॥
 
@@ -6644,8 +5966,6 @@ OXFORD,
 अपूपादीत्यत्रादिशब्दो घृतादिविषयः। एतदुक्तं भवति उक्तेषु त्रिपञ्चाशत्स्थानेषु उक्तानि त्रिपञ्चाशद्दैवतान्यावाह्य गन्धपुष्पधूपदीपैरभ्यच्य पायसेन तन्त्रोक्तद्रव्यैर्वा प्रत्येकं वलिसिक्थानि निवेद्यानन्तरं अन्नानि पात्रान्तरे यथास्थानं निवेश्य रक्ताम्बरोष्णोशो खड़‌्गपाणिः खड़्गपाणिभिः पुरुषैरावृतश्चत्वरे देवतायतननदीतीरप्रख्यातवनस्पतिमूलानामन्यतमप्रदेशे स्थण्डिले यथास्थानं निक्षिप्य पश्चादनपेक्षरक्षिभिः सार्द्धं श्रीविद्याजापी गृहभेत्य न्यस्तगात्रो देवतात्मा भवेदिति ॥३२॥
 
  एवमित्यादिभिर्भवेदित्यन्तैः सप्तभिः श्लोकैः प्रतिवर्षं स्वगेहेवास्तुदेवतार्चनकालं तत्तद्दिवसे नित्याचक्रापास्तिक्रमात् तत्फलं राजादिगृहाद्येतदर्चनस्यावश्यकर्त्तव्यतां तदकरणे प्रत्यवायञ्चोपदिशति। तत्र एवं प्रोक्तक्रमात्। स्वगेहे साधकगेहे। मण्डले प्रोक्तगेहे (शक्तवक्त्रे?)। कुर्य्यादित्यस्य वास्तुपूजायामित्यनेन पूर्व्वत्रान्वयः। तद्दिवसे वास्तुदेवतापास्तिदिवसे। नित्याभक्तान् षोड़शनित्याभक्तान्। त्रयादहीनान् पुरुषत्रयादहीनान्। मधुराद्यैरित्यत्र आद्यशब्दस्त्वितररसपञ्चकविषयः। तान् भक्तान् भूतप्रेतादिकानित्यत्रादिशब्दः अपस्मारकृत्यादिविषयः। अशुभानि
-
-
 
 राजवेश्मसु सर्वत्र तथा च महिषीगृहे।  
 सचिवामात्यसेनानीभवनेषु पुरे तथा॥३८॥
@@ -6671,8 +5991,6 @@ OXFORD,
  त्रिलोहेत्यादिभिः समृद्धये इत्यन्तेरध्यर्द्धैस्त्रिभिः श्लोकैरधिकरणेषु वास्तुचक्रनिर्म्माणविधानादिकं गृहादिषु तत्प्रतिष्ठां तत्फलञ्चोपदिशति। तत्र त्रिलोहाश्मतलेषु हिरण्यरूप्यताम्राश्मतलेषु। हस्तप्रमाणके विस्तारायामाभ्यां। तत्तद्दैवतनामानि प्रोक्तानि द्वितीयान्तानीति शेषः। तेषा द्वितीयान्तत्वं पूजयामीत्यस्य तच्चक्रे लेख्यत्वेनोपदिष्टत्वात् भू
 
 म्यादिनामचतुष्टयविलेखने द्वितीयान्तत्वविधानाच्च। नायागर्भे हृल्लेखोदरे। तत्र चक्रे। तान् देवान्। क्वापि अनुपहतदेशे। तत्र स्थापितदेशे। त्रिशः त्रिवारादहीनं। खर्वटकादिष्वित्यत्रादिशब्दः पत्तनादिविषयः। विदध्यात् प्रोक्तप्रकारेण वास्तुदेवताचक्र प्रतिष्ठादिकमिति शेषः॥४२॥
-
-
 
 ततः सूक्ष्मैः पराख्यैश्च होमैः सिद्धिं शृणु प्रिये॥४३॥
 
@@ -6700,8 +6018,6 @@ OXFORD,
 
  शृण्वित्यादिभिः किञ्चनेत्यन्तैश्चतुर्भिः श्लोकैस्तद्विधानकथनप्रस्तावपुरःसरं‌ तद्विद्यानां वेदुषु प्रशस्तिं तद्वैभवादिकञ्चोपदिश्यास्मिन् पटले प्रोक्ततद्वैभवशेषस्य
 
-
-
 यज्ज्ञात्वा वनितागर्भं न प्रयाति नरोध्रुवम्।  
 यद्व्ययायासरहितमनन्यापेक्षनिर्वहम्॥४८॥
 
@@ -6727,8 +6043,6 @@ OXFORD,
 
 [^40]: "शक्तिकपाले"
 
-
-
 तेषां त्रयाणामैक्यन्तु मनसा भावयेत्तथा।  
 गमागमाभ्यां तेजोभिस्तेषामन्योन्यजैः शिवे॥५३॥
 
@@ -6747,8 +6061,6 @@ OXFORD,
 
  पुटितानित्यादिभिः सममित्यन्तैः पञ्चभिः श्लोकैः प्राणाग्निहोत्रमन्त्रादिकमुपदिशति। अत्र भानुहृद्बर्णैः कुलासनेसूर्य्यात्मकरेखास्थककारादितकारान्ताः।
 
-
-
 वह्निभानुपुटान्तःस्थैश्चान्द्रैस्तद्बद्धुनेत् क्रमात्।  
 चन्द्रभानुपुटान्तःस्थैर्व्व ह्न्यर्णैर्जुहुयात्तथा॥५७॥
 
@@ -6761,8 +6073,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  
 
 षोड़श भानुवर्णाः। हृदिति सकारः। तदासने वह्निरेखास्थानामाग्नेयाक्षराणां प्रतिलोमक्रमात् सकारस्य प्रथमभवितया तद्वाचकरूपहृच्छब्देन तदादिथकारान्ता वह्निरूपाः षोड़शवर्णाः उच्यन्ते। तस्मात् ककारादितकारान्तैः षोड़शभिर्भानुवर्णैः सकारादिथकारान्तैर्व्युत्क्रमात् षोड़शभिरग्निवर्णैश्च। स्वरान् तत्कुलासने सोमात्मकरेखास्थानकारादींश्चन्द्रात्मकान। तारेण प्रणवेन हुङ्कृतैरित्यत्र हुङ्कारस्यार्थो गुरुमुखादवगन्तव्यः। निश्चलाशयः अनन्यमनाः। तन्मन्त्रा यथा—कअसोँ, खआषोँ इत्यादयः तअःथोँ इत्यन्ताः षोड़श। वह्निभानुपुटान्तःस्थैः थकारादिसकारान्तानामनुलोमानां ककारादितकारान्तानां प्रतिलोमानां वर्णानां पुटान्तःस्थैश्चान्द्रैः स्वरैः। तद्वत् प्रणवेन हुङ्कृतैरित्यर्थः। क्रमात् अकारादिविसर्जनीयान्तक्रमात्। तन्मन्त्रा यथा—थअतो‌ँ दआणोँ इत्यादयः सअःकोँ इत्यन्ताः षोड़श। चन्द्रभानुपुटान्तःस्थैः अकारादि विसर्जनीयान्तानां सौम्यषोड़शवर्णानां तकारादिककारान्तानां भानुषोडशवर्णानां पुटान्तःस्थैर्वह्ल्यर्णैः थकारादिसकारान्तैः। तथा तारेण हुङ्कृतैरिति यावत्। तन्मन्त्रा यथा अथतोँ आदणोँ इत्यादयः अःसकोँ इत्यन्ताः षोड़श। भानुचन्द्रपुटान्तःस्थैः ककारादितकारान्तानां भानुवर्णानां विसर्जनीयाद्यकारान्तानां चन्द्रवर्णानां पुटान्तःस्थैर्वह्न्यर्णैःथकारादिसकारान्तैः। तथा प्राग्वत्तारेण हुङ्कृतैः तन्मन्त्रा यथा— कथःॐ खदंॐ गधौॐ इत्यादयः तसॐ इत्यन्ताः षोड़श। चन्द्रवह्निपुटान्तःस्थैः स्वराणां अकारादिविसर्जनीयान्तानां सकारादिथकारान्तानां च पुटान्तःस्थैः। भान्वर्णैः ककारादितकारान्तैः। अप्या तारेण हुङ्कृतैः इत्यनुकृष्यते,तन्मन्त्रा
-
-
 
 एवं द्वादशधा होममक्षरैः स्यादुदीरितैः।  
 कृत्वा तद्वाच्यमखिलमर्थरूपञ्च तैः समम्॥६०॥
@@ -6778,8 +6088,6 @@ OXFORD,
 यथा—अकसोँ आकषोँ इत्यादयः अःतथोँ इत्यन्ताः षोड़श। वह्निचन्द्रपुटान्तःस्थेः थकारादिसकारान्तानां विसर्जनीयाद्यकारान्तानाञ्च पुटान्तःस्थैः। तद्वत्तारेण हुङ्कृतैः। अप्या ककारादितकारान्तैः भान्वर्णैः। तन्मन्त्रा यथा— थकःॐ दखंॐ इत्यादयः सतॐ इत्यन्ताः षोड़श। एवमुक्तप्रकारेण षड्विधप्रकारप्रोक्तभेदानां मन्त्राणां तारेण चतुरक्षरात्मकत्वे सत्यपि सम्प्रदायेन ते कृतसन्धिका एव लिखिताः। तेषां षड्विधभेदप्रकारप्रोक्तानां प्रातिलोम्यात् षोड़शानां षोड़शमन्त्राणामिति शेषः। एवमनुलीमविलीमाभ्यां। होमं दिव्यत्वात् होमः स्वादित्यर्थः। अक्षरैस्तेजस्त्रयात्मभिरिति शेषः। उदीरितैः प्रोक्तेषु द्विनवत्युत्तरशतरूपेष्वभीष्टैः षोड़शभिमन्त्रैः। अखिलं ज्ञातृज्ञानज्ञेथात्मकं। तैर्ज्ञातृज्ञानज्ञेयात्मभिर्वाचकरूपैः त्रिभिस्त्रिभिरक्षरैः समं तदपृथग्रूपं। एतदुक्तं भवति एवं प्रोक्तेषु द्वादशेसु भेदेष्वभीष्टभेदमन्त्ररूपैस्त्रितय ज्ञानमयैर्वाचकरूपैस्त्रिभिस्त्रिभिरक्षरैस्तत्तत्तेजस्त्रयात्मकं वाच्यमखिलमर्थरूपमपृथग्रूपं कृत्वा मूलाधारस्थनिर्विकल्परूपमात्ममहावह्नौ होमः स्यादिति॥६०॥
 
  तेजस्त्रयेत्यादिना समीरितमित्यन्ते‌न श्लोकद्वयेनशक्तिशिवयोः याथात्म्यस्वरूपस्य तेजस्त्रयात्सकत्वमितरं पाञ्चभौतिकविग्रहस्वेच्छागृहीतात्मकत्वं मुक्तिस्वरूपञ्चोपदिशति। तत्र आवयोः शक्तिशिवयोः। तद्वपुः अनश्वरं वपुः। अन्यानि पाञ्चभौतिकानि। आवयोः प्राग्वत्। तन्मयीभावस्थैर्य्यं प्रोक्ततेजस्त्रयतादात्म्यभावस्थैर्य्यम्॥६२॥
-
-
 
 तत्र कुण्डलिनीं ब्रूहि स्फुटं मे परमेश्वर।  
 तां वदामि शृणु प्राज्ञे रहस्यं परमाद्भुतम्॥६३॥
@@ -6801,13 +6109,9 @@ OXFORD,
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
  तत्रेत्यादिना श्लोकपूर्वार्द्धेन कुण्डलिनीस्वरूपं देवीं पृच्छति। तत्र स्फुटं सुस्पष्टं। तामित्यादिना श्लोकात्तरार्द्धेन कुण्डलिनीस्वरूपकथनं प्रस्तीति। तत्र तां कुण्डलिनीं। रहस्यं देशिककटाक्षादृते ज्ञातुमशक्यत्वात्। परमाद्भुतम् ज्ञानात्मकत्वात्तादात्मनात्मकत्वाच्च॥६३॥
 
  भूलाधारेत्यादिभिः साधकः इत्यन्तैः षड़्भिः श्लोकैःकुण्डलिनीस्वरूपं तदनुभावञ्चोपदिशति। तत्र तेन प्राणाकारेण। सा कुण्डलिनी। महाद्युतिः विश्वप्रकाशकत्वात्। मायाशीर्षा विसर्जनीयशीर्षा। तां मायां उच्चरन्ती तदात्मना ऊर्द्ध्वोर्द्ध्वंसञ्चरन्ती। स्वगे इत्येतदुत्तरत्र सुषुम्नामध्यदेशे इत्यस्य विशेषणं। सा कुण्डलिनी। तदा अत्यासन्नतः। एवमुक्तरूपा। तुर्विशेषे। ऋजुतां याति भूलाधाराद्विनिर्गत्य तदुपरि श्रोत्रादीन्द्रियगामिनी। स्वेच्छादण्डाहता स्वेच्छाप्रेरणापर वशा। अन्यदा तस्यां प्रसुप्तभुजगाकारतया स्थितायां। निशान्धकारे भुवनस्थितिवत् अप्रकाशतया। एतदुक्तं भवति यदा स्वात्मस्फुरत्तारूपिणीबुद्ध्यात्मिका कुण्डलिनी शक्तिः मूलाधारात् प्रसुप्तभुजगाकारतां विहाय स्वेच्छाप्रेरिता
-
-
 
 एवं तां वेत्ति यो देहे देशिकादेशदर्शिताम्।  
 
@@ -6843,8 +6147,6 @@ OXFORD,
 
  इतर इत्यादिना योनिष्वित्यन्तेनार्द्धाद्यन्तेन श्लोकेनोक्तज्ञानरहितस्यापि देब्यर्चनात् कालेन तत्सिद्धिः भक्तितः तदर्चनादिरहितस्य प्रत्यवायञ्चोप–
 
-
-
 मुदैरुन्मत्तचित्तः सन्नधोधो याति योनिषु।  
 नित्यासु भक्तिर्भुवने प्रक्षीणेपापकर्म्मणि॥७५॥
 
@@ -6864,8 +6166,6 @@ OXFORD,
 दिशति। तत्र इतरः प्रोक्तज्ञानरहितः। देव्याः सर्वकारणभूताया ललितायाः। कालेन भक्त्युपासनादिगौरवलाधववशात् कालद्रौत्यविलम्वनेन। इतरः तद्वक्त्यादिरहितः। जन्मभिर्वहुभिः अपरमार्थज्ञानसर्वस्वैर्विविधजन्मभिः। मूर्खः अविवेकी। विद्याधनोद्भवैरित्येतदुत्तरत्र मुदैरित्यस्य विशेषणम्। उन्मत्तचित्तः कर्त्तव्याकर्त्तव्यज्ञानरहितः। अधोधो याति योनिषु नीचैर्नीचैर्विषयेषु परवशो भवतीत्यर्थः॥७४॥
 
  नित्यास्वित्यादिभिरन्वित इत्यन्तैरर्द्धाद्यन्तैस्त्रिभिः श्लोकैः नित्यासु भक्त्रेर्दौलभ्यं तद्भक्तिवैभवं नित्यावेभवविग्रहान्वितेनेश्वरेण तदुपास्तिं चोपदिशति। तत्र प्रक्षीणे सद्‌गुरुकटाक्षादिभिः। पापकर्म्मणि अज्ञानदुर्वासनाद्युपहतकर्मणि। यद्वलाद्भक्तिवलात्। प्रागुक्तलक्षणः जीवन्मुक्तलक्षणः। नरः प्रागुक्तलक्षणो भवेदित्यन्वयः। तां भक्तिं अस्मिन् पटले वक्ष्यमाणरुपां। देवताः— इत्यस्य भवन्तीत्यनेनान्वयः। लोकपालाद्या इत्यत्राद्यशव्दस्त्रयस्त्रिंशत्‌कोटिदेवताविषयः। तद्भक्तिप्राप्तसम्पदः उक्तरूपभक्तिप्राप्तैश्वर्य्याः। वहुना भाषणेन। सदृशाः अनघे इति च पदच्छेदः। भावयामीत्यस्य ता एव इत्यनेन पूर्वत्रान्वयः। अहं शिवः। त्रिकाले सन्ध्यात्रये। विग्रहान्वितः न्यस्तविग्रहः। अनेन लब्धज्ञानानामपि सन्ध्यात्रयोपास्तेरवश्यकर्तव्यता कथितेति सम्प्रदायार्थः॥७५॥
-
-
 
 तद्वर्णव्याप्तचक्रस्था ग्रहाश्च तद् दर्शिताः॥७९॥
 
@@ -6890,8 +6190,6 @@ OXFORD,
 
  प्रक्षीणेत्यादिना श्लोकोत्तरार्द्धेन तत्परहोमभावसिद्धानां अनुभावं हृदीकृत्य नित्यासु भक्त्युपलब्धिकरणमुपदिशति। तत्र प्रक्षोणाशेषपापानां देशिककटाक्षादिभिर्दूरीकृतदुर्वासनानां। तज्ज्ञसेविनां विदितपरमार्थनाथसेवादितत्पराणाम्॥८२॥
 
-
-
 नित्याविद्यासु भक्तानां लक्षणं शृणु सुन्दरि।  
 आमुष्भिकासंशयत्वं सन्तोषो नित्यपूर्णता॥८३॥
 
@@ -6911,8 +6209,6 @@ OXFORD,
 
  नित्येत्यादिभिस्ते इत्यन्तैः षड़्भिः श्लोकैः सप्रस्तावपुरःसरं नित्याभक्तलक्षणोपदेशं प्रोक्तनिगमनञ्च करोति। तत्र नित्याविद्यासु षोड़शनित्यानां विद्यासु। सुन्दरीति देवीसम्वुद्धिः !। आमुष्मिकासंशयत्वं परमार्थपरिज्ञानात्। सन्तोषः अवाप्तव्यविषयेछाद्यभावात्। नित्यपूर्णता देशकालाद्यनवच्छिन्नभावेन। सुखिता स्वात्मपरमानन्दानुभवरमेन। त्यागिता नेरपेक्षं। ज्ञानं सदनुसन्धानं। कृतज्ञत्वं गुरुचरणनलिनयुगलभजनपरत्वं। अलुब्धता इतरानपेक्षा। अकार्पण्यं द्रव्यविषयमुद्दिश्य महाप्रयत्नराहित्यं। अदीनत्वं अक्षुद्रभावः। परचिन्तानिरूद्यमः भेदराहित्यात्। दयालुता सर्वप्राणिषु। मनस्वित्वं उदारभावः। अवैषम्यं मनःस्थितौलाभहान्योः लाभहान्योः मनस्थिताववैषम्यमिति वान्वयः। प्रीतिः रोषाभावः सर्वप्राणिषु प्रीतिः कोपाभावश्च। कल्याणशीलता मङ्गलाचरणस्वभावता। कल्याणाभिनिवेशित्वं मङ्गलकर्म्मस्वभिनिवेशित्वं। कल्याणकीर्त्तनं मङ्गलस्वभावानां महतां नामानुभावकीर्त्तनं। अकल्याणकथालापर्वैमुख्यं अकल्याणेषु कर्म्मसु तदाचारवतां कथालापे च वैमुख्यं। स्वेच्छया स्थितिः अपराधीनतया स्थितिः। सदैश्वर्य्यं राजचोरदुर्जनारात्याद्यपहतमहिमत्वं। भोक्तृत्वं भोक्तुशक्तिमत्त्वं। नैष्ठिकत्वं सर्वदेवताविग्रहेष्वनुस्यूतनित्यात्मभावाव्यभिचारित्वं। अजिह्मता अकुटिलहृदयता। सर्वानुकूल्यं सुरनरतिर्य्य–
 
-
-
 राजयोषित्[^43] प्रभुप्राज्ञवहुमानममत्सरः।  
 सर्ब्बोत्तरत्ववाञ्छा च लक्षणानीरितानि ते॥८८॥
 
@@ -6931,8 +6227,6 @@ OXFORD,
  यद्विकल्पेत्यादिना श्लोकेन परहोमस्वरूपं स्थूलसूक्ष्महोमयोरपि तन्मयत्वं चोपदिशति। तत्र विकल्पस्वरूपं सकलविश्वविकल्पकारणस्वरूपं। निर्व्विकल्पके परस्वरूपे। निधानं विलापनं। एतदुक्तं भवति संकल्पविकल्पकारणभूतस्य मनसो निर्विकल्परूपे स्वात्मनि विलापनं परहोम इति। यन्मयं परहोममयम्॥८९॥
 
  उच्चावचेत्यादिभिः समीरित इत्यन्तैश्चतुर्भिः श्लोकैः स्थूलसूक्ष्महोमयोः परहोमेन तादात्म्यवासनां तदनुसन्धानञ्चोपदिशति। उच्चावचविकल्पानां समित्पुष्पफलादिभेदभिन्नानां वस्तूनां तद्धोमद्रव्याणां। तन्मयत्वात् होममयत्वात् अग्निमयत्वात्। ऐक्यरूपं अपृथग्भावः। एतदुक्तं भवति समिदादिसकलबस्तूनां स्थूलहोमादग्निमयत्वेनैकरूपमुदीरितमिति। तथा एकीकुर्य्यादित्यर्थः। एतदुक्तं भवति सूक्ष्महोमात् स्वमूलाधारमध्यस्थकुण्डलिनीमुखसविसर्गमहावह्नौ सकलशब्दोदयविश्रान्तिपदे नानारूपवाचकैः शब्दैः तद्वाच्यानर्थान्वेद्यवेत्तृविदात्मनैकीकुर्य्यादिति। स्थितिरित्यादिनाद्यार्द्धेन सर्वभेदविलापनात् स्थितिरेव परहोमौभवतीति मतान्तरमुच्यते। स्वात्मरूपमहावह्निज्वालारूपिषु स्वात्मरूपापृथग्भूता महाशक्तिः स्वात्मरूपवह्निः तज्ज्वाला तदिच्छा स्वात्मरूपमहाशक्तीच्छे–
-
-
 
 सूक्ष्महोमं तथा शब्दैर्नानारूपैस्तु वाचकैः।  
 वाच्यार्थानामशेषेण वेद्यवेत्तृविदात्मना॥९१॥
@@ -6959,8 +6253,6 @@ OXFORD,
  तेष्वित्यादिना रूपत इत्यन्तेन श्लोकद्वयेनोक्तकुण्डेषु सामान्येन चतुरस्रहोमकुण्डेषु शुभकर्म्महोमविधानमुपदिशति। तत्र चतुरस्त्रे उक्तरूपे। त्र्यस्रेप्रोक्तरूपे। अन्येषु कुण्डेष्विति शेषः। प्रोक्तरूपतः प्रोक्तविधानेन॥९५॥
 
  प्रागित्यादिना कृत्स्नश इत्यन्तेन श्लोकद्वयेन मङ्गलादिकर्म्मसु होतुर्दिग्विशेषाभिमुख्यमुपदिशति। तत्र प्रागुदक्शिवदिग्क्त्रःप्रागभिमुख उदगभिमुखः शिवदिगभिमुखश्च। तुर्विशेषे। दक्षिणास्यः दक्षिणदिङ‌्मुखः। तुर्विशेषे। गदे गदार्थोपक्रमे। वह्निमुखः वह्निदिङ्मुखः। वायुमुखः वायुदिङ्मुखः।
-
-
 
 उच्चाटनं वायुमुखो विद्वेषं राक्षसोन्मुखः।  
 विदध्यात् पश्चिमास्यस्तु क्रूराण्यन्यानि कृतस्नशः॥९७॥
@@ -6994,8 +6286,6 @@ OXFORD,
 परहोमविधानप्रकाशनपरं त्रिंशत् पटलं परिपूर्णं  
 परामृष्टम् ॥२९॥ ॐ तत्सत्॥
 
-
-
 एकत्रिंशपटलम्।
 
 सूक्ष्मं परं च होमं ते कथितं परमेश्वरि।  
@@ -7019,8 +6309,6 @@ OXFORD,
 
  आयुर्द्दायमित्यादिभिराप्सनाशनमित्यून्तैश्चतुर्भिः श्लोकैरभिचारकर्म्मकरणकाले ज्ञातव्यांशं तदनवेक्षणे प्रत्यवायञ्चोपदिशति। तत्र लग्नोक्तर्क्षानुगुण्यतः त्रयोदशे पटले तज्जन्मेत्यादिना षड़शीतितमश्लोकोत्तरार्द्धाद्यार्द्धद्वयेन प्रोक्तनक्षत्रनामानुगुण्यतः। तदात्मिकग्रहाणां तत्प्रयोगकाले गोचरग्रहाणां। चः समच्चये। अष्टकवर्गकं फलमिति शेषः। त्रयाणां प्रोक्तानामायुर्दायदशा–
 
-
-
 तत्पार्श्ववर्त्तिमन्त्रज्ञानालोच्य रिपुनिग्रहम्।  
 विदध्यादन्यथा शक्त्या नैष्फल्यं वात्मनाशनम्॥६॥
 
@@ -7037,8 +6325,6 @@ OXFORD,
   रिपोरित्यादिना श्लोकेनक्रूरप्रयोगारम्भकालं गृहादिषु तद्देशविशेषादिकं चोपदिशति। तत्र अष्टमलग्ने जन्मर्क्षराशेश्चन्द्रलग्नराशेर्वेति शेषः। काले तदुदयकाले। अष्टमराशिगे स्थाने अनन्तरश्लोकद्वयवक्ष्यमाणराश्यात्मकेषु स्थानेषु द्वादशसु। तद्विनाशाय रिपुविनाशाय॥७॥
 
  प्राच्यामित्यादिना सुस्थितमित्यन्तेन श्लोकद्वयेन मण्डपगृहादिसकलवस्तूनां द्वादशराश्यात्मकतामुपदिशति। तत्र वह्नौ कोणे। दक्षिणे दक्षिणदिग्देशे। तन्नि–
-
-
 
 तुलाकीटौ पश्चिमतो धनुर्वायौ तु संस्थितम्।  
 नक्रकुम्भावुत्तरतो मीन ईशे तु संस्थितम्॥९॥
@@ -7061,8 +6347,6 @@ OXFORD,
  चैत्रादीत्यादिना श्लोकेन कालचक्रे ग्रहाणां गतिक्रममुपदिशति। तत्र चैत्रादिषु तत्र दिव्यत्वात् चैत्रादिशब्दः सौरमासविषयः। तु र्विशेषे। याति एकैकसौरमासस्येकैक्रराशिभुक्तिक्रमेणेति शेषः। तथा तथाविधैः अन्यैश्चन्द्रादिभिः। ग्रहमण्डलैः ज्योतिःशास्त्रे तत्तद्ग्रहपरिवृत्तिप्रोक्तकालविशेषैरित्यर्थः॥११॥
 
  देहेष्वित्यादिना श्लोकेन सकलप्राणिनां देहस्य द्वादशराश्यात्मकत्वमुपदिशति। तत्र तद्वत् मेषादिमीनान्तक्रमेण। तान् राशीन्। द्वादशसु, स्थानेषु॥१२॥
-
-
 
 त्रयाणामानुगुण्येन कुर्य्यात् कर्माणि नान्यथा।  
 शुभाशुभानि सर्वाणि फलन्त्येवं कृते ध्रुवम्॥१३॥
@@ -7087,8 +6371,6 @@ OXFORD,
 
  सितेत्यादिभिर्वर्त्ततः इत्यन्तैरर्द्धाधिकैस्त्रिभिः श्लोकैः पुरुषाणां योषिताञ्च चित्रपरिवृत्तिक्रमस्थानान्युपदिशति। तत्र सिते इत्यादिना श्लोकेन द्वादशस्थानानि उपदिशति। सिते शुक्लपक्षे। स्तनगले स्तने च गले च। भ्रूशङ्खमू‌र्द्धमध्येषु तत्र मूर्द्धो मध्ये। शङ्खभ्रूमध्यतःशङ्खमध्ये भ्रूमध्ये च॥ कर्णेत्यदिना श्लोकेन स्थानाष्टकं तत्र सव्यकण्ठे वामकण्ठे॥ जान्वित्यादिना श्लोकेन दश स्थानानि। तत्रअङ्घ्रिपार्श्वशब्देनाङ्घ्रिपृष्ठदेश उच्यते। अङ्गुष्ठे वामपादाङ्गुष्ठे। दक्षिणे दक्षिणपादाङ्गुष्ठे।अङ्घ्रौ
 
-
-
 तिष्ठेद्विषकला पुंसि स्त्रियां वामादि वर्त्तते।  
 विषनाड्यां विषस्थाने वेधयेत् कण्टकेन तु॥१८॥
 
@@ -7106,8 +6388,6 @@ OXFORD,
 अङ्घ्रिपृष्ठे। सन्धौ तदनन्तरसन्धौ। जानुगुह्ये जानौ गुह्ये। इति उक्तप्रकारेण। सितेतरं कृष्णपक्षे। वामादि बामभागे प्रोक्तहृदयस्थानादि। एतदुक्तं भवति शुक्लपक्षप्रथमादिषु कृष्णपक्षदर्शान्तासु त्रिंशत्तिथिषु पुंसां दक्षिणभागे हृदयस्थानादिमूर्द्धान्तेषु नवसु स्थानेषु पुनस्तद्वामपार्श्वे मूर्द्धादिपादाङ्गुष्ठान्तं पञ्चदशसु स्थानेषु पुनर्दक्षिणपादाङ्गुष्ठादिनाभ्यन्तं षट्सु स्थानेषु च सम्भूय त्रिंशत् स्थानेषु च। स्त्रीणां तत्तत्तिथिषु तत्तत् स्थानेषु दक्षिणबामपार्श्व विनिमयक्रमेण च विषस्य परिवृत्तिर्भवतीनि॥१७॥
 
  विषनाड्यामित्यादिभिः सिद्धये इत्यन्तैरर्द्धाद्यैस्त्रिभिः श्लोकैः पुत्तलीप्रयोगे तद्वेधकालं तदङ्गं तत्साधनं तत्फलञ्च पुत्तलीकरणकथनप्रस्तावादिसहितं उपदिशति। तत्र विषनाड्यां सप्तविंशतिनक्षत्रेषु प्रतिनक्षत्रं विषात्मकप्रोक्तनाड़ीचतुष्टयकाले। विषस्थाने अनन्तरपूर्वोक्ते पुत्तल्या इति शेषः। तुर्विशेषे। सङ्गोचकाख्येन सङ्काच इति मत्स्यविशेषः। तीव्रेण अस्थिमयेन तद्देहजतीव्रसंज्ञकास्थिमयेन। वदरादिसमुत्थैः कण्टकैरितिशेषः। वा विकल्पे। तथा वेधयेदित्यर्थः। यत्र अङ्गेनतद्विद्धं कण्टकादिविद्धं तदङ्गं व्याधिना पीड़ितम् इत्येतदुत्तरत्र शत्रुदेहजमित्यस्य विशेष्यं। कालात् प्रयोगस्य गौरवलाघवादिना कालद्रौत्यविलम्बनात्। ध्रुवं निश्चितं। आर्त्तिना तदङ्गव्याध्युत्पन्नेनेति शेषः। पुत्तलीकरणं पुत्तलीनिर्म्माणविधानं॥२१॥
-
-
 
 भौमशुक्रबुधाश्चन्द्रो भास्करः सौम्यभार्गवौ
 
@@ -7134,8 +6414,6 @@ OXFORD,
 
  प्रथमे इत्यादिभिस्तथेत्यन्तैस्त्रिभिः श्लोकैः पुत्तलीमानविशेषानुपदिशति। तत्र प्रथमे नवके अश्विन्याद्यश्लेषान्तेषु नवसु नक्षत्रेषु। अन्यांशकेषु इतरग्रहांशकेषु। सर्वाः पुत्तल्याः चतुर्द्दशाङ्कुलोमानेन मिता इत्यर्थः। द्वितीये नवके मघादिज्येष्ठान्तेषु नवसु नक्षत्रेषु। अन्येषां चन्द्रार्करहितग्रहांशकानां। अध्यर्द्धाः स्युस्त्रयोदश पुत्तलीनामङ्गुलिसंख्या इति शेषः। तृतीये नवके मूलादिरेवत्यन्तनवसु नक्षत्रेषु। अन्येषां प्राग्वत् कुजादीनामंशकानां त्रयोदशाङ्गुलीमानानि समीरितमेवं इत्यर्थः। एकविधः सर्व्वत्रेति शेषः। प्रोक्तसंख्याक्रमस्तथा प्रथमनवके प्रोक्तसंख्यामानमेव द्वितीयतृतीयनवकयोरपौत्यर्थः॥२६॥
 
-
-
 पुत्तलीकरणे द्रव्यं चक्रिहस्तमृदान्वितम्।  
 चितामृद्भस्मलवणं शुण्ठीपिप्पलिकायुतम्॥२७॥
 
@@ -7156,8 +6434,6 @@ OXFORD,
  पुत्तलीत्यादिभिः क्रिया इत्यन्तैस्त्रिभिःश्लोकैः पुत्तलीनिर्माणद्रव्याण्यूपदिशति। तत्र चक्रिहस्तमृदान्वि‌तं कुलालकरमृत्तिकासहितं। चितामृद्भस्मलवणं श्मशानमृद्भस्मसहितं लवणं। शुण्ठीपिप्पलिकायुतं शुण्ठीपिप्पल्योर्श्चुणैर्युतम्। मरीचं मरीचचूर्णं। गृहधूमं गृहधूमचूर्णं। लसुणं रसोनरसं। एतानि शुण्ठ्याद्यष्टद्रव्याणि सर्व्वपुत्तलिकासाधारणानि। साध्यर्क्षबृक्षैः साध्यनक्षत्रप्रोक्तवृक्षैः। पिष्टैरित्येतन्माषचूर्णैरित्यस्य विशेषणं। सिक्‌थकैर्मधूच्छिष्टैः। वैरिदेहजरोमाद्यैरित्यत्राद्यशब्दो नखपादपार्श्वादिविषयः। उपेतैरित्येतद्दारूव्यतिरिक्तेषु चक्रिहस्तमृत्सहितेषु त्रिष्वन्वेति॥२९॥
 
  पुत्तलीत्यादिना नर इत्यन्तेन श्लोकद्वयेन पुत्तलीदैर्घ्यमानविभागीकरणवशात् तदवयवमानान्युपदिशति। तत्र पुत्तलीदैर्घ्यमानं तत्तदंशकवशेन प्रोक्तपुत्तलीदैर्घ्याङ्गुलमानं। एकतः एकांशेन। त्रयात् अंशत्रयेण। त्रयात् प्राग्वत्। कटिप्रपदयोरर्द्धांशेन कटिद्वयमर्द्धांशेन प्रपदद्वयञ्चेत्यर्थः। सर्व्वत्र पुत्तलीप्रयोगे। प्रयोगान् प्रोक्तान्॥३१॥
-
-
 
 पातालयोगे नीचाख्ये विषयोगे च मृत्युजे।  
 नाशयोगे च दिनजमृत्यौ क्रकचयोगके॥३२॥
@@ -7207,8 +6483,6 @@ OXFORD,
 
 वसुहस्ते विशाखार्द्रे \[बुध्या\] ब्रध्नाही याम्यनैऋते।  
          द्वन्द्वेष्वेषु चतुर्थांशाः क्रमशो मृत्यवो \[हि\] ह्निं चेत्॥
-
-
 
 चण्डीशचण्डायुधके महाशूले च काणके।  
 रक्तस्थुणे कण्टकाख्ये स्थूणे पञ्चार्कसंज्ञके॥३३॥
@@ -7268,8 +6542,6 @@ OXFORD,
 शेसर्वसारषे।  
           त्वर्केच पञ्चधूमाद्या लग्नेएतैर्युतैस्त्यजेत्॥
 
-
-
 **कुर्य्यात् प्रयोगान् प्रत्यर्थिभङ्गाय निधनाय वा।  
 निग्रहाय निरीक्ष्यैवं कुर्य्यात् सिद्धिमवाप्नुयात्॥३४॥**
 
@@ -7290,8 +6562,6 @@ OXFORD,
  एतदुक्तं भवति रिपोरायुर्दायगोचराष्टकवर्गग्रहेषु प्रतिकूलेषु पातालयोगादिभिः प्रोक्तदोषैर्दुष्टदिवसे तदष्टमराशौ विषनाड्यां वा प्रारब्धंक्रूरकर्म सद्यः फलतीति। वा समुच्चये। एवमुक्तप्रकारेण॥३४॥
 
  वश्येत्यादिभिः समीरितमित्यन्तैश्चतुर्भिः श्लोकैर्व्वश्यादिषु कर्म्मसु षट्‌सु पुत्तलीप्रयोगप्रक्रियामुपदिशति। तत्र सम्यक् सर्वावयवशोभनं। प्रोक्तयोगतः प्रोक्तमानेन रिपुदेहजरोमादियोगतः। अपिः समुच्चये। आसने होतुरासनस्थाने। पादयोः स्थाने होतुः पादविन्यासप्रदेशस्याधःस्थाने। पिष्टमृत्तरुजाः पिष्टजा मृज्जाः तरुजाः पुत्तलीः। खात्वा होतुरासनादिस्थानत्रये क्रमात्। अपिः समुच्चये। एवं प्रोक्तप्रकारेण साधारणवश्यादिषु प्रोक्तकर्म्मस्विति शेषः। एतदुक्तं भवति प्रोक्तमानाद्यलङ्घनेन साधारणद्रव्याष्टकरिपुदेहजरोमादिभिः सह पिष्टमयीं सिक्थमयीं मृण्मयीं चैव तिस्रः। साध्यनक्षत्रवृक्षेणैकां प्रोक्तद्रव्याष्टकलेपितां च सम्भूय चतस्रःपुत्तलीः कृत्वा तासु क्रमात् पिष्टमयीं होतुरासनस्याधः स्थाने मृण्मयीं होतुः पादविन्यासप्रदेशस्याधः स्थाने तरुमयीं कुण्डमध्यस्थनामिपद्मस्याधःस्थाने च स्थापयित्वा सिक्थमयीं कुण्डादुपरि तोरणतिर्य्यक् विष्कम्भदारुण्यूर्द्धपादामवाक्शीर्षामम्वरे लम्वमानामर्क–
-
-
 
 सर्पशीर्षस्रुचा होमं कुर्य्यादशुभकर्म्मसु।  
 वैरियोन्यसृजा कृत्वा तया तु जुहुयात्तथा॥३९॥
@@ -7315,8 +6585,6 @@ OXFORD,
  सर्प इत्यादिना श्लोकेन क्रूरकर्म्मसु स्रुचं चरुं चोपदिशति। तत्र सर्पशीर्षस्रुचा सर्पशीर्षकल्पितस्रुचा। अशुभकर्म्मसु विद्वेषोच्चाटनमारणादिषु। वैरियोन्यसृजा वैरिनक्षत्रप्रोक्तयोनिरु‌धिरेण। तया इत्यस्य सर्पर्शीषस्रुचा इत्येतद्विशेष्यम् ॥३९॥
 
  त्रिकोणेत्यादिभिर्भूभृत इत्यन्तैश्चतुर्भिः श्लोकैः अभिचारकर्म्मणि कुण्डं होतुरभिमुखीकरणीयां दिशं तद्देशविशेषं होतुर्नृपेण रक्षाविधानं तदकरणे प्रयोक्तुः प्रत्यवायं राष्ट्रसन्धिदेशेन तत्कर्मणः तत्करणीयत्वं तदकरणे राष्ट्रस्य प्रत्यवायञ्चोपदिशति। तत्र यमदिङ्मुख्यः दक्षिणदिङ्मुखः। तत्र अभिचारभूमौ। आत्मसिद्धये प्रयोक्तुः प्राणादिसिद्धये। अरातिनृपतिः शत्रूराजा। अमुं प्रयोक्तारं। कुर्व्वीत अभिचारमिति शेषः। तद्राष्टं अभिचारप्रयोगस्थानं राष्ट्रं। शनकैः कालक्रमेण॥४३॥
-
-
 
 अक्षद्रुमसमिद्धेग्नौ तत्फलैर्व्वा तथाहुतैः[^55]।  
 
@@ -7354,8 +6622,6 @@ OXFORD,
 
  अरुष्करेत्यादिना श्लोकेन रिपोस्तीब्रज्वरेण मारणप्रयोगमुपदिशति। तत्र अरुष्करसमिद्धेऽग्नौ अरुष्करकाष्ठसमिद्धे वह्नौ। तद्वीजैः अरुष्करवीजैः। तद‌्घृताप्लुतैः अरुष्करतैलाप्लुतैः॥४८॥
 
-
-
 सौवीराक्तैस्तु कार्पासवीजैर्होमात्तु मन्द्रजात्।  
 अरातीनामथान्योन्यकलहान्निधनं भवेत्॥४९॥
 
@@ -7380,8 +6646,6 @@ OXFORD,
  प्रागुक्तेत्यादिना विनाशयेदित्यन्तेन श्लोक‌द्वयेन पुत्तल्या होमविधानेन शत्रुविनाशनप्रयोगमुपदिशति। तत्र प्रागुक्तैरित्येतद्द्रव्यैरित्यस्य बिशेषणम्। उक्तविधानतः उक्तमानादिकं। सर्षपारुष्करघृतसंसिक्तैः सर्षपारुष्करयोस्तैलाभ्यां संसिक्तैः। निशि मध्यरात्रे इत्यर्थः। प्राग्वच्छित्त्वा नवमपटले चत्वारिंशैकचत्वारिंशच्छ्लोकद्वयेन प्रोक्तप्रकारेण द्वादशधा छित्त्वा। तदङ्गैः छिन्नैः। क्रुद्धचित्तः क्रूरचित्तः शत्रुं प्रतीति शेषः। अरुणाम्वरः काषायवस्त्रधरः। रक्त‌स्रग्गन्धपुष्पादियुतः रक्तस्रग्रक्तगन्धरक्तपुष्परक्तासनादियुतः॥५२॥
 
  अरुष्करेत्यादिना श्लोकेन वैरिणो दाहज्वरप्राप्तिप्रयोगहोममुपदिशति। तत्र तद्विजैः अरुष्करवीजैः। सर्पशीर्षकैःसर्पशिरःकल्पितस्रु॥५३॥
-
-
 
 वैरिनक्षत्रयोन्युत्थमांसैस्तद्रक्तसंप्लुतैः।  
 हवनात्तत्तरूद्भूतसमिधां हवनादपि॥५४॥
@@ -7418,8 +6682,6 @@ OXFORD,
 
  मृत्युपत्रैरित्यादिना श्लोकेन शत्रवाहनदन्तिनां रोगैर्विनाशप्रयोगहोममुप–
 
-
-
 गैरिकैः पुत्तलीं कृत्वा रिपोरष्टमराशिके।  
 प्रागुक्तकण्टकाद्यैस्तु यदङ्गं वेधयेच्छनैः॥६१॥
 
@@ -7449,8 +6711,6 @@ OXFORD,
 
  तन्नक्षत्रेत्यादिना यमालयमित्यन्तेनाध्यर्द्धेन श्लौकेन दाहज्वरेण रिपुमारणप्रयोगमुपदिशति। तत्र स्थापितेरकां स्थापितप्राणां। गर्द‌भीमेहसलिले गर्द‌भीमूत्रे। शनैः कैश्चिद्दिवसैः॥६५॥
 
-
-
 तेनोन्मादज्वरग्रस्तः प्रयाति निधनं शनैः‌।  
 तां तत्कण्टकविद्धाङ्गीं खनेत् पितृगृहे निशि॥६६॥
 
@@ -7473,8 +6733,6 @@ OXFORD,
  प्रागुक्तैरित्यादिना यमालयमित्यन्तेनाद्धाद्येन श्लोकद्वयेन सन्निपातज्वरेण रिपुमारणहोमविधानमुपदिशति। तत्र प्रागुक्तैः अस्मिन् पटले सप्तविंशादि श्लोकाभ्यां इति शेषः। तद्दव्येः पुत्तलीविधानप्रोक्तद्रव्यैः। अशेषैर्द्वादशभिः। तथा प्रोक्तमानेन। तां शत्रुनक्षत्रवृक्षनिर्म्मितां पुत्तलीं। अरातिमहीरुहैः अरातिनक्षत्रवृक्षकाष्ठैः। तत्समिद्भिः रिपुनक्षत्रवृक्षसमिद्भिः। निशि मध्यरात्रे। याति यमालयं रिपुरिति शेषः॥६९॥
 
  तथाविधेत्यादिना लक्षितमित्यन्तेन श्लोकद्वयेन पुत्तलीखननविशेषेण रिपुविनाशप्रयोगमुपदिशति। तत्र तथाविधां प्रोक्तक्रमादिभिः प्रोक्तद्रव्यद्वादशभिर्निर्म्मितां। प्रतिमां पुत्तलीं। नवम्यङ्गारदिवसे नवमीसहिताङ्गारवारे। मातृगेहे चण्डिकायतने। अग्रपीठके अग्रपीठस्याधः स्थाने। निशि मध्यरात्रे।
-
-
 
 सप्ताहान्निधनं बैरी प्रयाति निशि ताड़ितः।  
 भूताद्यैः शिरसि स्वीये निर्घातवदलक्षितम्॥७१॥
@@ -7499,8 +6757,6 @@ OXFORD,
 भूताद्यैरित्यत्राद्यशब्दः प्रेतादिविषयः। निर्घातवत् अशनिवत्। अलक्षितं एतत् क्रियाविशेषणम्॥७१॥
 
  सर्षपमित्यादिभिः शिवे इत्यन्तैः षड़भिः श्लोकैस्तापज्वरेण रिपुविनाशाय पुत्तलीप्रयोगविशेषमुपदिशति। तत्र सर्षपमित्यध्यर्द्धेन द्रव्यचतुष्टयं। साध्यर्क्षस्य वृक्षस्य शकलैः खण्डैः। अपिः समुच्चये। कृत्वेति भिन्नक्रमः। पुत्तलिकां कृत्वेत्यर्थः। ततः पश्चात् प्रोक्तद्रव्यषट्केन तद्बक्षोऽन्तः पुत्तलीवक्षःप्रदेशान्तः निधायेति भिन्नक्रमः। अरिनाम विधायेत्यर्थः।पत्रगं इत्यस्यारिनाम इत्येतद्विशेष्यं। संजप्येत्यस्य विद्यामित्यनेनान्वयः। पुत्तलीं प्रतिष्ठितप्राणां। तार्त्तीयप्रतिलोमजां तार्त्तीयखण्डस्य प्रतिलोमभेदात्मिकासु चतसृषु विद्यास्वन्यतमां। साध्यस्य साध्यनक्षत्रस्य। वधर्क्षे सप्तमनक्षत्रे। निवध्य तां पुत्तलीं निवध्येत्यर्थः। तुर्विशेषे। भानुवृक्षजतन्तुना अर्कवृक्षोद्भवतन्तुना। जीवहस्तेन प्रवहत्श्वासपुटपार्श्वहस्तेन। तां प्रतिलोमजां विद्यां। शुचौ वह्नौ। तैः सर्ष–
-
-
 
 ग्रस्तदेहोलुठन् भूमौ विसंज्ञः प्रलपन्मुहुः।  
 प्रयाति निधनं तूर्णं प्रयोगवलतः शिवे॥७७॥
@@ -7528,8 +6784,6 @@ OXFORD,
 
  तथेत्यादिना उपसर्गकैरित्यन्तेनाध्यर्द्धेन श्लोकेन तत्तत् पुत्तलीखननविशेषात् रिपुमारणप्रयोगविशेषमुपदिशति। तत्र तथा तां साध्यनक्षत्रवृक्षनिर्म्मितां
 
-
-
 निहत्य दत्त्वारातिन्तु निहन्यादुपसर्गकैः।  
 स्वगेहे वल्यधः खात्वा तदुपर्य्यग्निवर्द्धनात्॥८३॥
 
@@ -7554,8 +6808,6 @@ OXFORD,
  तामित्यादिनान्यत इत्यन्तेनार्द्धाद्येन श्लोकेन पुत्तलीविशेषरचनादुञ्चाटनप्रयोगमुपदिशति। तत्र तां साध्यर्क्षवृक्षसम्भूतां पुत्तलीं। तथाकृतरूपां प्रोक्तमानादितः। तुर्विशेषे। रुरुजङ्घास्थिसंयुतां व्याघ्रजङ्घास्थिसंयुतां। पूर्वसूत्रेण अर्कवृक्षतन्तुकृतसूत्रेण। निशि मध्यरात्रे। राशौ तदष्टमे शत्रोरिति शेषः॥८५॥
 
  तथाविधमित्यादिना तदा इत्यन्तेन श्लोकद्वयेन विद्वेषणप्रयोगमुपदिशति। तत्र तथाविधं तत्तन्नक्षत्रवृक्षनिर्म्मितं। उक्तमार्गतः तत्तदंशकानुगुणमानेन। विड़ालमूषिकाचर्म्मनद्धं विड़ालमूषिकाचर्म्मभ्यां परिणद्धं। द्वयोः वाधकवाध्यात्मकयोः क्रमादिति शेषः। साध्याख्यया युतं साध्यादिनामत्रययुतं। निखनेदित्यस्य पुत्तलिकायुगमित्यनेन पूर्वत्रान्वयः। पितृगेहे श्मशाने। अथवा विकल्पे। मातृगेहे चण्डिकायतने। नदीपूर्त्त्यां सत्यामिति शेषः॥८७॥
-
-
 
 ता एव प्राग्वदुत्थाय साध्याख्यादिसमन्विताः।  
 तद्विद्याजापसिद्धास्ताः खनेदरिगृहे पुनः॥८८॥
@@ -7585,8 +6837,6 @@ OXFORD,
 
  तत्साध्येत्यादिना नाशभागित्यन्तेनाध्यर्द्धेन श्लोकद्वयेन दूरस्थारिनिधनप्रयोगहोममुपदिशति। तत्र तत्साध्यवृक्षैः दूरस्थशत्रुनक्षत्रवृक्षैः। अष्टौ शतं अष्टोत्तरशतं। ताः पुत्तलीः। प्रागुदीरितक्षीरद्वयसिक्ताः अर्कवज्रीक्षीराभ्यां सिक्ताः।
 
-
-
 तत्तदंशककाले वा सुदूरस्थोपि नाशभाक्।  
 कथं वा मान्त्रिकवली निहन्तुं शक्यतां ब्रजेत्॥९४॥
 
@@ -7611,8 +6861,6 @@ OXFORD,
  भाग्याधिकमित्यादिना विद्यत इत्यन्तेनार्द्धाद्येन श्लोकेन भाग्याधिक्यादियुतस्य राजादिकस्य निधनप्रयोगप्रकारं देवीं पृच्छति। तत्र भाग्याधिकं प्रोक्तायुर्दायादित्रिविधग्रहानुकूल्येन देवतोपास्त्यादिनां चाधिकं। कथं केन प्रयोगतः प्रयोगे वा। देवेशेति ईश्वरसम्बुद्धिः। उपायं दिव्यत्वादुपायाः॥९७॥
 
  वदामीत्यादिना श्लोकेन पृष्टार्थकथनप्रस्ताबपुरःसरं तमर्थं स्तौति। तत्र प्राज्ञे इति सम्बुद्धिः। परं प्रोक्तप्रकारादिति शेषः॥९८॥
-
-
 
 सिद्धमन्त्रानतिस्रिग्धान् षोड़शातिस्थिराशयान्।  
 तैरवच्छिन्नदर्पन्तु होमयेद्यामदिक्–क्रमात्॥९९॥
@@ -7644,8 +6892,6 @@ OXFORD,
 
 ————
 
-
-
 द्वात्रिंशपटलम्।
 
 अथ होमं प्रवक्ष्यामि ललिताविद्यया शिवे।  
@@ -7673,8 +6919,6 @@ OXFORD,
 
  शुल्केत्यादिभिर्जीवतीत्यन्तैरर्द्धाद्यैः सप्तभिः श्लोकैः शुल्कप्रतिपदादिपूर्णान्ततिथिष्वैश्वर्य्यादिसिद्धिकरहोमं जलजपुष्पभेदैरुपदिशति। तत्र हुनेज्जुहुयादित्यर्थः। मधुरत्रयसंसिक्तैः क्षीरसर्पिर्म्मधुभिः दधिघृतमधुभिर्वा संसिक्तैः। शुभैः अमुकुलापतिताम्लानाशीर्णाजन्तुदुषितानाघ्रातानङ्गस्पृष्ठानुषितैः। नृपतिसन्निभः
 
-
-
 तेष्वेवोत्पलहोमेन श्रियमाप्नोति पुष्कलाम्॥६॥
 
 अरुणैरुत्पलैर्होमात् कन्यकां समवाप्नुयात्।  
@@ -7701,8 +6945,6 @@ OXFORD,
 
  कृष्णेत्यादिभिः हुनेदित्यन्तैरध्यर्द्धैर्नवभिः श्लोकैः कृष्णपक्षप्रतिपदादिदर्शान्तपञ्चदशतिथिरूपदिबसेषुहोमद्रव्यविशेषैर्लक्ष्मीप्राप्त्यादिसम्पत्करहोमविधानमुपदिशति। तत्र सितैः शर्करादिभिरिति यावत्। तेषु कृष्णपञ्चदशतिथिरूपदिवसेषु। हुनेत् जुहुयादिति यावत्। तद्दिनैः कृष्णतिथिपञ्चदशकरूपैःदिनैः।
 
-
-
 द्राक्षाभिर्दुग्धसिक्ताभिस्तद्दिनैर्हवनान्नरः।  
 क्षीराहारी चिरं भूमौ जीवत्यकलुषाशयः॥१३॥
 
@@ -7727,8 +6969,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 अकलुषाशयः प्रसन्नहृदयः। तद्दिनैः प्राग्वद्दिनैः। तथा शब्देन त्रिमधुराप्लावनमुच्यते। तद्दिवसेषु प्राग्वत्। तुर्विशेषे। तद्दिनैः प्राग्वत्। तैर्नारिकेलफलक्षोदैः। तद्दिनेषु प्राग्वत् कृष्णपक्षतिथिरूपेषु। सः साधकः। षड़्भिश्च तैः सितागुड़द्राक्षाखर्जूरीफलकदलीनारिकेलफलक्षादैः। तैः प्रोक्तैः षड्भिः। सवत्ससितागव्यपयोक्तैः समानवर्णवत्ससहितायाः सितवर्णायाः गोः क्षीराक्तैः। अपिः समुच्चये। तैः प्राग्वत् षड़्भिर्द्रव्यैः। तथा प्राग्वत्। तैः षड़्भिर्द्रव्यैः अविक्षीरसंप्लुतैः इति पदच्छेदः। नारिकेलक्षोदक्षीराक्तैः नालिकेरफलक्षोदोत्पन्नक्षीराक्तैः। अपिशब्देनेष्टमाप्नुयादित्येतदत्राप्याकृष्यते। तैः प्राग्वत् षड़्भिः॥१९॥
-
-
 
 नारिकेलफलक्षोदक्षीराक्तैरपि तैर्हुनेत्।  
 तथा द्वादशभिर्द्रव्यैरेकैकैः सङ्गतैस्तु वा॥२०॥
@@ -7760,8 +7000,6 @@ OXFORD,
 
  रविवारः इत्यादिभिर्मनोहरामित्यन्तैः सप्तभिः श्लोकैः अर्कवारादिषु सप्तसु सम्पत्करणहोमद्रव्याण्युपदिशति। तत्र सितान्नैः सितोपेतान्नैः। तुर्विशेषे। क्षीराक्तैः गव्याद्युक्तक्षीरेषु चतुर्ष्वन्यतमाक्तैः। तथा प्रोक्तविधानेन। घृताक्तैः
 
-
-
 शनिवारे तैलसिक्तैस्तिलैः शुद्धैस्तथेतरैः।  
 हवनाल्लभते लक्ष्मीमब्दादतिमनोहराम्॥२८॥
 
@@ -7787,8 +7025,6 @@ OXFORD,
 
  अश्विन्यादीत्यादिना क्रमादित्यन्तेनाध्यर्द्धश्लोकद्वयेनाश्विन्यादिषु नवसु नक्षत्रेषु क्रमात् सम्पत्करहोमद्रव्यनवकं तदाप्लावनद्रव्यनवकसहितमुपदिशति। तत्र हुनेत् जुहुयात्। क्रमात् एकैकक्रमात्। शालीत्यादिना
 
-
-
 महिष्यजाविकाक्षीरप्लुतैस्तैर्नवसु क्रमात्।  
 मघादिषु तथा होमं नवभिः स्यान्नवस्वपि॥३३॥
 
@@ -7808,8 +7044,6 @@ OXFORD,
  मघेत्यादिनाप्तये इत्यन्तेनार्द्धाद्येनार्द्धान्तेन च श्लोकेन मघादिषु नवसु क्रमेण सम्पत्करणहोमद्रव्याण्युपदिशति। तत्र तथा जुहुयात्। नवभिः अनन्तरवक्ष्यमाणै श्चणकादिभिः। अपिः समुच्चये। चणकैरित्यादिनाद्यर्द्धेन द्रव्यचतुष्टयं। माषान्नैः इत्याद्यर्द्धेन द्रव्यचतुष्टयमुक्तं। दुग्धान्नै \[शुद्धान्नै\] रित्याद्यर्द्धेन द्रव्यमेकं तदाप्लुतद्रव्यं तत्फलञ्च॥३४॥
 
  तथेत्यादिना ध्रुवमित्यन्तेनार्द्धाद्येन श्लोकद्वयेन मूलादिनवन‌क्षत्रेषु सम्पत्करहोमद्रव्यनवकमुपदिशति। तथा एकैकक्रमात्। तथा प्रोक्तविधानेन। पृथुकै रित्याद्यर्द्धेन द्रव्यचतुष्टयं तदाप्लवनद्रव्यञ्च। तत्र पयःप्लुतैः क्षीराप्लुतैः। शालीत्यादिनोत्तरार्द्धेन शिष्टदिवसपञ्चकहोमद्रव्यापूपपञ्चकस्य द्रव्यपञ्चकं। तत्र माषपिष्टतिलोद्भवैः एषां पिष्टोद्भवैश्च। एतानि शाल्यादीन्युत्तरत्रापूपै–
-
-
 
 अपूपैर्म्मधुराभ्यक्तैर्विजयं कीर्त्तिमिन्दिराम्।  
 आरोग्यमायुः सौभाग्यं मान्यताञ्च लभेद्ध्रुवम्॥३७॥
@@ -7838,8 +7072,6 @@ OXFORD,
 
  स्वक्षेत्रेत्यादिना तत्कुले इत्यन्तेन श्लोकद्वयेन ग्रहतृप्तिकरहोमकालं होम–
 
-
-
 सर्वदा यो हुतविधिमेनं कुर्य्याद् यथाविधि।  
 तत्तत्प्रोक्तेषु कालेषु ग्रहार्त्तिः स्यान्न तत्कुले॥४३॥
 
@@ -7860,8 +7092,6 @@ OXFORD,
 द्रव्यञ्च उपदिशति। तत्र स्वक्षेत्रगे एकत्रिंशे पटले भौमेत्यादिना श्लोकेन प्रोक्तस्वस्वराशिगते अर्कादिष्वन्यतमस्मिन् ग्रहे इति शेषः। स्वोच्चगे मेषवृषमकरकन्याकर्कटमीनतुलाराशयो रव्यादिसप्तग्रहाणां क्रमादुच्चराशयः। तेषु रव्यादिष्वन्यतमे ग्रहे स्वस्वप्रोक्तोच्चराशौ यदा स्थितः तत्काले। वा विकल्पे।ग्रहतृप्तये तद्ग्रहतृप्तये। सितमिश्रैः शर्ककामिश्रैः। तुर्विशेषे। विद्यया ललिताविद्यया। तत्तत्प्रोक्तेषु स्वस्वप्रोक्तक्षेत्रोच्चराशिषु स्थिता यदा ग्रहास्तेषु। तत्कुले साधककुले॥४३॥
 
  मासेष्वित्यादिभिर्निश्चितमित्यन्तैश्चतुर्भिः श्लोकैः त्रिजन्मसु होमजपतर्पणपूजा विधानं तेष्वन्यतमस्यावश्यकर्त्तव्यतां तदकरणे प्रत्यवायञ्चोपदिशति। तत्र मासेषु द्वादशस्विति शेषः। दूर्वामृतातिलैः तेष्वन्यतमेन द्रव्येणेत्यर्थः। नित्यं प्रतिजन्मत्रयं। तद्दिनेषु त्रिजन्मदिनेषु। विद्यां सहस्रं सहस्रवारं दिननित्यया सहेति शेषः। तस्य जपितुः। कुत्रचिद्देशे। कश्चिदित्यस्य क्लेशसम्भव इत्येतद्विशेष्यं। चन्द्रवासितैः कर्पूरमिश्रैः। वा समुच्चये। तद्दिने जन्मत्रितये। अवन्ध्यजन्मत्रितयं होमतर्पणपूजनेष्वन्यतमेनेति शेषः। यदि स्याद्वन्ध्यजन्मत्रितयं। तस्य मान्त्रिकस्य। रोगादीत्यत्रादिशब्दो भूतादिविषयः॥४७॥
-
-
 
 उच्चस्थे वा स्वराशौ वा स्थिते चन्द्रे दिवाकरे।  
 विद्यां जपेत् सहस्रं वा शतं वा पूजयेच्छिवाम्॥४८॥
@@ -7891,8 +7121,6 @@ OXFORD,
 
  विल्वेत्यादिना श्लोकेन लक्ष्मीप्राप्तिकरहोमविधानमुपदिशति। तत्र फलैरित्यादिना तृतीयावहुवचनान्तानां चतुर्णां पदानां विल्वप्रसूनैरिति विशेष्यं। विल्वप्रसूनशब्देन विल्वस्यति षष्ठ्यन्तेन सम्वन्धः। तथा त्रिमध्वक्तैः। हुनेत जुहुयात्। मा लक्ष्मीः तदन्वयगा साधकस्य वंशगामिनी॥५३॥
 
-
-
 पद्माक्षैर्मधुराभ्यक्तैर्होमात्तावद्दिनैर्नरः।  
 इन्दिरां लभते रम्यां सर्वलोकचमत्कृताम्॥५४॥
 
@@ -7919,8 +7147,6 @@ OXFORD,
  तैरेवेत्यादिना श्लोकेन गोशतप्राप्तिकरलक्ष्मीपुत्रभूमीनां प्राप्तिकरहोमद्वयविधानमुपदिशति। तत्र तैः चम्पकैः। स्वोच्चगे वृषभराशिगते। तद्दिनैः मण्डलात्। शतगुः गवां शतयुक्तः। तद्वमण्डलात्। त्रिमध्वक्तैः तैः चम्पकैरिति शेषः।लभेत् दिव्यत्वात् लभेतेत्यर्थः। त्रयं गोभूमिपुत्रवर्गाणाम्॥५७॥
 
  पाटलैरित्यादिना श्लोकेन कन्यासिद्धिकरहोमद्रव्याण्युपदिशति। तत्र तगरोत्थैः प्रागुक्तजलजपुष्पैर्नन्द्यावर्त्तपुष्पैर्वा। कुटजैर्गिरिमल्लिकापुष्पैः। अपिः समुच्चये॥५८॥
-
-
 
 तैः क्षीरमिश्रैर्हवनाच्चतुर्भिर्लभते धनम्।  
 अम्वराणि विचित्राणि महार्हाणि च तद्दिनैः॥५९॥
@@ -7949,8 +7175,6 @@ OXFORD,
  मल्लिकेत्यादिभिः सुनिश्चितमित्यन्तैस्त्रिभिः श्लोकैः प्रथमादिपञ्चम्यन्ततिथिषु सम्पत्करहोमभेदानुपदिशति। तत्र मल्लिकेत्याद्यर्द्धेन पुष्पपञ्चकं। तत्र नमेरुभिःसुरपर्णोपुष्पैः। समस्तैस्तास्वककस्यां तिथौ तत्पुष्पपञ्चकसमुदायैः। च शब्दो‌ विकल्पार्थः। तैरेव प्रोक्तपञ्चविधपुष्पैरेव। तथा एकैकशः। समस्तैश्चेति यावत्। भूषणैः सहेति शेषः। दिनैः उदितैः प्रोक्तान्मण्डलात्। एष फलकालावधि प्रकरणसमानः॥६३॥
 
  कह्लारैरित्यादिना साधकोत्तम इत्यन्तेन श्लोकद्वयेन सामान्येन नन्दादिपूर्णान्ततिथिपञ्चके प्राग्वदेकैकशः समस्तैश्च सम्पत्करपुष्यहोमविधानमुपदि–
-
-
 
 हवनाल्लभते लक्ष्मीं सभूभूषणवाहनाम्।  
 त्रिमध्वक्तैस्तथैकैकैः सर्व्वैर्व्वा साधकोत्तमः॥६५॥
@@ -7984,8 +7208,6 @@ OXFORD,
 
  मरीचैरित्यादिभिः सितान्वितैरित्यन्तैश्चतुर्भिः श्लोकैः वनिताकर्षणवशी–
 
-
-
 पाटलीकुन्दमन्दारशेफालिकुसुमोद्भवैः।  
 चम्पकाशोकपुन्नागनमेरुकुसुमैः शुभैः॥७१॥
 
@@ -8015,8 +7237,6 @@ OXFORD,
 
  आज्यैरित्यादिना श्लोकेन केवलाज्यहोमस्य फलमुपदिशति। तत्र तुर्विशेषे। दिनैरुक्तैर्मण्डलात्। चः समुच्चये॥७७॥
 
-
-
 स्नातोनुलिप्तः स्रग्वी च सितगन्धस्रगम्बरः।  
 संपूज्य देवीं हृष्टात्मा संस्कृते हव्यवाहने॥७८॥
 
@@ -8040,8 +7260,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
  स्रात इत्यादिभिः शक्तय इत्यन्तैः पञ्चभिः श्लोकैः साधकतत्कालकर्त्तव्यसहितं लक्ष्मीप्राप्तिकरहोममुपदिशति। तत्र चः समुच्चये। सितगन्ध‌स्रगम्बर इत्यत्र सितशब्दः प्रत्येकमन्वेति। देवीं ललितां। सितायाः सितवर्ण्यायाः। द्विगुणे प्रस्थद्वयमात्रे। तुर्विशेषे। सितमिति तण्डुलविशेषणम्। बा विकल्पे। सितदुग्धघृतोपेतं शर्करादुग्धघृतोपेतं। सिक्थमित्यस्य काकाक्षिन्यायेनोभयत्रान्वयः। कृत्वेति पूर्वत्र गृहीत्वे त्युत्तरत्र च। विद्यां ललिताविद्यां। श्रियं मे देहि देवीति सप्ताक्षरीविद्यां हुत्वा। तत्सिक्थकं तथा भुक्त्वासवत्ससितगोक्षीरपाचितमन्नं सितदुग्धघृतसमेतं भुक्त्वा। तद्दिनं हुतदिनं। निरन्तरं प्रतिदिवसं। नित्यशः यावज्जीवं। तदन्वयं साधककुलं। रमा लक्ष्मीः। अद्भुताः अप्रमेयवैभवाः॥८२॥
-
-
 
 सवत्सारुणवर्णाया गोः क्षीरान्नवनीतकम्।  
 तद्दिनान्नन्तु कह्लारप्रसूने विक्षिपेत्ततः॥८४॥
@@ -8067,8 +7285,6 @@ OXFORD,
 
  सवत्सेत्यादिभिर्गामिनीत्यन्तैरध्यर्द्धैःसप्तभिः श्लोकैः सम्पत्प्राप्तिकरं नवनीतसहितकह्लारादिपुष्पहोममुपदिशति। तत्र तद्दिनान्नं अनुषितं। तुर्विशेषे। कह्लारप्रसूने दीर्घिकास्थविकसितकह्लारप्रसूनोदरे। ततः दीर्घिकायाः। तन्निक्षिप्तनवनीतकह्लारप्रसूतं उद्धृत्य मौनेनेति शेषः। हुनेत् जुहुयात्। अग्नौ संस्कृते इति शेषः। तदुच्चगे काले मङ्गलाधिष्ठितराशेश्चतुर्थराश्युदयकाले। तावद्दिनैर्मण्डलात्। तथा धवलरूपायाः मवत्साया धबलबर्णाया गोः नवनीतं तद्दिनात्तमित्यर्थः। सिताम्बुजे प्राग्वत् सितपद्मे। भृगोर्दिने तत्रापि तदुच्चकाले।
 सप्तवारप्रयोगेन भृगुवारसप्तकप्रयोगेन। तथारुणासमुद्भूतं सवत्सारुणगोसमुद्भूतं नवनीतं तद्दिनात्तमिति शेषः। ततः दीर्घिकायाः उद्धृत्येत्यर्थः। तुर्विशेषे। तत् पद्मं प्राग्वन्मौनेनेत्यर्थः। अष्टभिर्वारैः रवेरिति शेषः। शिवे इति सम्बुद्धिः। तथा गुरुवारे नवनीताक्तानि नवनीतरुषितानि। उच्चे रवि–
-
-
 
 जुहुयान्नवनीताक्तान्युच्चे सूच्चगते गुरौ।  
 निरातङ्की महार्घाञ्च राजचोरापहारकैः॥९०॥
@@ -8101,8 +7317,6 @@ OXFORD,
 
  आर्द्रेष्वित्यादिभिरुदीरितैरित्यन्तैः सप्तभिः श्लोकैः निजवाञ्छितसिद्धिकर तल्लिखितपत्रहोमविधानं तद्विद्याहवनवैभवञ्चोपदिशति। तत्र निशि अर्द्धरात्रे।
 
-
-
 पक्षक्षोदैर्विलिख्येष्टं नागवल्लीदलैर्युतैः।  
 हुतैरवाप्नोति निजं वाञ्छितं प्रोक्तकालतः॥९७॥
 
@@ -8132,8 +7346,6 @@ OXFORD,
 ग्रन्यसंख्या —**द्वात्रिंशे पटले प्रोक्ता व्याख्याग्रन्थाः शतात् परम्।  
         एकाधिका सप्ततिस्तु न स्युर्य्यन्त्राणि चात्र वै॥**
 
-
-
 **त्रयस्त्रिंशपटलम्।**
 
 अथ षोड़शनित्यानामाद्या या ललितोदिता।  
@@ -8151,8 +7363,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
  पूर्व्वस्मिन् द्वात्रिंशे पटले षोड़शनित्याविद्यासिद्धानां सौम्यहोमविधानमुपदिश्यानन्तरं तेषां वाच्छितप्राप्तिकराणि ललिताविद्यायाः स्वरूपभेदसमुत्थानि कानिचिद्यन्त्राण्युपदिशत्यथषोड़शनित्यानामित्यादिनायन्त्रसिद्ध्यभिधागमेइत्यन्तश्लोकशतरूपेण त्रयस्त्रिंशेन पटलेन। तत्र अथ षोड़शेत्यादिभिः क्रमादित्यन्तैः पञ्चभिः श्लोकैः पटलार्थकथनप्रस्तावपुरःसरं तदर्थानुद्दिशति। तत्र आद्या सकलकारणभूता प्रधानेत्यर्थः। ललिता संज्ञेति शेषः। उदिता तृतीयपटले। तस्या ललितायाः। तद्विद्याभेदसम्भवैः तत्श्रीविद्यातार्त्तीयखण्डभेदसमुत्थैः। रूपैः षष्टिसमोपेतैर्नवशत्या। एतदुक्तं भवति श्रीविद्यायाः तार्त्तीयखण्डस्य चतुरक्षरभेदाः चतुर्विंशतिः। तत्पञ्चाक्षरविद्याभेदा विंशत्यधिकशतं। तत्षडक्षरभेदा विंशत्यधिकसप्तशतं। अपुनरुक्ताक्षराणां षण्णां प्रत्येकं षोड़शस्वरयोगतो भेदाः षण्णवतिः सम्भूय षष्ट्युत्तरनवशतभेदाः तैरिति। एतेषां भेदनप्रकारं पञ्चत्रिंशे पटले वक्ष्यतीति। यथाविधि अन्युनाधिक प्रमाणादिति। कृतात्मनां गुरुचरणकमलभजनभव्यचेतसां। यन्त्रं श्रीचक्रं। विश्वात्मविग्रहं पञ्चभूतत्रिधामकालात्मकत्वात्। षोड़शानां नित्यानां निर्द्धारणे षष्ठी तस्या ललितायाः। चः समाहारे। पूजाकमलचक्रकं कमलरूपं पूजा–
-
-
 
 महालिङ्गं योनियन्त्रं तथा तद्वज्रवज्रकम्।  
 तदेव च महाकारं कोष्ठयन्त्राणि च क्रमात्॥५॥
@@ -8177,8 +7387,6 @@ OXFORD,
 
  भ्रमेणेत्यादिभिरुत्तममित्यन्तैः सप्तभिः श्लोकैः श्रीचक्रस्थकर्णिकान्तर्गतत्रि–
 
-
-
 सूत्राणि नव तेषु द्वे वृत्तस्पृष्टोभयान्तके।  
 विधाय तद्द्वयोरन्तान्मध्यसूत्रान्ततः क्रमात्॥९॥
 
@@ -8198,8 +7406,6 @@ OXFORD,
 
 चत्वारिंशद्योन्यात्मकं स्थितिसंहारात्मकं प्रत्येकं पञ्चीकरणात्तद्वत्त्रिविधं मध्यचक्रद्वयमुपदिशति। तत्र चतुरस्रके एकोनत्रिंशपटलोक्तरूपे। तत्र वृत्तमध्ये तिर्य्यग्दक्षिणोत्तरं निपातयेदित्यस्य सूत्राणीत्यनेनोत्तरत्रान्वयः। नव नवसंख्यानि। तेषु तिर्यक्सुत्रेषु नवसु। द्वे पश्चिमादितृतीयसप्तमे सूत्रे। वृत्तस्पृष्टोभयान्तके वृत्तस्पृष्टोभयाग्रे। तद्द्वयोः वृत्तस्पृष्टसूत्रयोः। अन्तात् अग्रचतुष्कात् आरभ्येति शेषः। मध्यसूत्रान्ततः प्राक्प्रत्यगायतब्रह्मसूत्रस्य प्रागग्रान्तं पश्चिमाग्रान्तञ्च। क्रमात् प्रोक्तव्यत्यासक्रमात्। सूत्रचतुष्के सम्भूयेत्यर्थः। तुरवधारणे। षट्कोणं स्यात् त्रिसप्तकं ब्रह्मसूत्रस्य प्राक्प्रत्यगग्रात् तृतीयसप्तमतिर्य्यक् सूत्रद्वन्द्वदक्षिणोत्तराग्रान्तं षट्कोणं स्यात् सम्भूयेत्यर्थः। तुरवधारणे। चतुर्म्मर्मानुगुण्यतः पूर्व्वलिखित षट्कोणगतमर्मचतुष्टयभेदेन नवमप्रथमाग्राभ्यां पश्चिमादिनवमतिर्य्यक्सूत्राग्रद्वयात् प्रथमतिर्य्यक्सुत्राग्रद्वयाच्च आरभ्येत्यर्थः। तुर्य्यसप्तमकावधि तुर्य्यसप्तमसूत्रयोर्मध्यावधि । चतुर्थसूत्राग्रद्वयारम्भात् षट्सूत्राग्रद्वयारम्भात् च। तथाष्टगं द्वितीयगञ्च। अष्टमरेखामध्यान्तं द्वितीयरेखा
 
-
-
 तृतीयगं सूत्रयुगं कुर्य्यान्मर्म्मद्वयाश्रयम्।  
 मार्जयेन्मध्यगं ब्रह्मसूत्रं स्याच्चक्रमुत्तमम्॥१४॥
 
@@ -8218,16 +7424,12 @@ OXFORD,
 
  वहिरित्यादिभिः परमेश्वरीत्यन्तैः त्रिभिः श्लोकैः तद्वाह्यस्थसृष्ट्यात्मकपद्मद्वयचतुरस्रनिर्माणद्वयमुपदिशति। तत्र वहिः प्रोक्तचक्रवाह्यगतवृत्ताद्वहिः। अष्टच्छदाम्भोजमित्युक्त्या तत्कर्णिकोदरे प्रोक्तचक्रस्य विलेखनीयत्वात्तद्वहिरपि केशरार्थमेकं वृत्तं निष्पाद्य तद्वहिरष्टपत्राणीति यावत्। तथा तद्द्विगुणच्छदं षोड़शपत्रं पद्मं। अष्टपत्रकमलाद्वहिःस्थवृत्तवाह्ये षोड़शपत्त्रकमलस्य केशरार्थमेकं वृत्तं निष्पाद्य षोड़शपत्राणि षड़्भिर्वृत्तैः कर्णिकोदरे प्रोक्तमध्यचक्रद्वयनिर्माणार्थमेकं तद्वहिस्तत्संलग्नतया कर्णिकार्थमेकं तद्वहिरष्टपत्त्रपद्मकेशरार्थमेकं तत् पद्माद्वदहिस्तत्पर्य्यन्तसाम्यार्थमेकं तद्वहिः षोड़शपत्रपद्मकेशरार्थमेकं परिवेषार्थमेकं च सम्भूय षड़्भिर्वृत्तैरित्यर्थः। अष्टभिः सूत्रैःअष्टसूत्रैःपूर्वोक्तचतुरस्ररेखाचतुष्टयेन सार्द्धमस्य सूत्रैरित्युत्तरत्रान्वयः। तस्य चतुरस्रस्य। प्राक्प्रत्यग्द्वारसंयुतं प्राक्प्रत्यक्पार्श्वयोश्चतुरस्रविस्तारमानस्थानद्वयद्वारसंयुतमित्यर्थः। दक्षिणोत्तरतः चतुरस्रस्य रेखात्रयात् चतुरस्रविस्तारमानेन मध्ये तत्प्राक्पश्चिमतिर्य्यग्रूपरेखात्रयेणेत्यर्थः। तथा विधाय। कोणेषु तिर्य्यक्सूत्रैश्चतुर्भिः। तान्यनुक्रमात् द्विधा कुर्य्याच्चत्वारि पदानि इत्यन्तेनैतदुक्तं भवति चतुरस्रकोणकोष्ठचतुष्टये प्रतिकोष्ठं सूत्रास्फालनेन द्विधा कुर्य्यादिति। परमेश्वरीति सम्बुद्धिः॥१७॥
 
-
-
 **ललितार्च्चाचक्रमिदं लभ्यं सद्गुरुतः क्रमात्।  
 सुन्दरं सुसमं सर्वलक्षणैश्च समन्वितम्॥१८॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
  ललितेत्यादिभिः सिद्धिदमित्यन्तैश्चतुर्भिः श्लोकैः ललिताचक्रस्य सद्गुरुप्रसादात् लभ्यत्वं तल्लक्षणादिकञ्चोपदिशति। तत्र इदं प्रोक्तं लभ्यं सद्गुरुतः क्रमात् अविच्छिन्नपारम्पर्य्यक्रमसंसिद्धक्रमागमसमयाचारनिरतात् कृतपूर्णाभिषेकात्तत्वविदो गुरोर्द्वितीयपटले उक्तलक्षणेत्यादिभिर्धनादिभिरित्यन्तैर्द्विपञ्चाशत्तमश्लोकादिषड़्भिः श्लाकैः उक्तक्रमात्। लब्धविद्येन साधकेनेत्यर्थः। सुसमं अन्यूनाधिकप्रमाणं। सर्व्वलक्षणैः अनन्तरवक्ष्यमाणैः। अधोमुखैः त्रिकोणैः। नवभिः सम्भूय। एकसूत्रस्थैः ब्रह्मसूत्रस्थिताग्रैः। एतच्छ्रीचक्रं अतिसुन्दरं। अतएव वृत्तस्पुष्टषड़स्रंवाह्यगतचतुर्दशाराग्रेषु प्रोक्तप्रकारेण प्रथमलिखितषट्कोणाग्रषट्कं। तदस्पृष्टाष्टकं वृत्तास्पृष्टतदितरास्रष्टकं। तथाउक्तप्रकारेण। मर्मभिः अनन्तरवक्ष्यमाणलक्षणोपेतैः षड्रेखासन्धिस्थानमिति शेषः। द्वयसङ्गमात् रेखयोरिति शेषः। चतुर्विंशतियुतं सन्धिचतुर्विंशतियुतं। अयमत्र कुम्भस्थापनपक्षे त्रिहस्तमानचक्रस्य विरचनाक्रमः। सुसमे शुद्धे भूतले मध्ये हंसपदं विधाय तत्सदृशस्थानमारभ्य प्रतिपार्श्वं षट्त्रिंशदङ्गुलत्र्यङ्गुलदशाङ्गुलमानभ्रमेण वृत्तं निष्पाद्य तद्वहिस्तत्संलग्नंवृत्तं तद्वहिस्त्र्यङ्गुलदशाङ्गुलमानक्रमेण सम्भूय प्रथमनिष्पादितेन वृत्तेन सह वृत्तषट्कमलान्तरात् वाह्यतो विधाय तत्र प्राक्प्रत्यग्व्रह्मसूत्रं दक्षिणोत्तरतिर्य्यङ्मध्यस्त्रञ्च सर्व्ववाह्यवत्ताद्वहिः प्रतिदिशं दशदशाङ्गुलमानावध्यास्फाल्य तत्सूत्राग्रचतुष्टयस्य तत्सर्व्ववाह्यवृत्ते यत्रयत्र सम्पातस्तत्तत्स्पृष्ठास्प्रुष्टिकयामानं तत्सूत्राग्रचतुष्टयस्प्रुष्टास्प्रुष्टिकया च चतुश्चत्वारिंशदधिकशताङ्गुलमानैरष्टभिः सूत्रैः परितोन्तर्वहिर्विभागेन समचतुरस्रद्द्वारद्वयं कोणकोष्ठसहितं कृत्वा चतुरस्रस्य पश्चिमप्राचीनवीथोद्वये मध्यसूत्राद्दक्षिणोत्तरयोः पञ्चपञ्चाङ्गुलमानेन त्वेकैकांतिर्य्यग्रेखां कृत्वा तयोर्मध्यस्थाङ्गुलदशकमानेन समचतुरस्रद्वारद्वयं विधाय तयोर्द्वारयोर्द्दक्षिणोत्तरतो दशदशाङ्गुलमाने तिर्य्यक्सूत्रमेकमेकमास्फाल्य तञ्चतुरस्रदक्षिणोत्तरवीथ्योर्मध्यसूत्रात् प्राक्पश्चिमतो दश दशाङ्गुलमाने तिर्य्यक्सूत्रमेकैकं कृत्वा तच्चतुरस्त्रकोणकोष्ठचतुष्टये तिर्य्यग्रुपं कोणसूत्रमेकमेकं सम्भूय तच्चतुष्टयंवाह्याभ्यन्तरतो विधाय तदन्तर्दशाङ्गुलमानवृत्तवाह्यवीथ्यां दिग्विदिक्षु तदन्त–
-
-
 
 अधोमुखैः पञ्चभिश्च चतुर्भिश्च तथोर्द्ध्वगैः।  
 नवभिस्त्वेकसूत्रस्थैः स्यादेतदतिसुन्दरम्॥१९॥
@@ -8238,8 +7440,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 रालेषु च सम्भूय षोड़शदलान्यन्यान्यतुल्यमानानि सोपदलानि षोड़श निष्पाद्य तदन्तर्दशाङ्गुलमानबृत्तवीथ्यां दिग्विदिक्ष्वष्टदलानि प्राग्वद्विधाय ततः सर्व्वमध्यस्थवृत्तमध्ये दक्षिणोत्तररेखां मार्जयित्वा द्विसप्तत्यङ्गुलमानात्मकं तत्सर्व्वमध्यमस्मिन् पटले चतुर्विशश्लोकादिवक्ष्माणक्रमादष्टचत्वारिंशदंशं कृत्वातद्‌ब्रह्मसूत्रे प्रागादिषट्षट्पञ्चाशमाने तिर्य्यक्सूत्रत्रयं कृत्वा पुनरपि पश्चिमादिषट् षट् षड़ंशमाने तिर्य्यक्सूत्रत्रयञ्च विधाय तत्प्रागादितृतीयसूत्रस्य सप्तमसूत्रस्य च मध्ये वक्ष्यमाणमर्मानुगुणतिर्य्यक्सूत्रत्रयस्य स्थानं कर्त्तव्यतया मनसा परिकल्प्य तैः सह नवसु तिर्य्यक्सूत्रेषु सर्व्वपश्चिमस्थं सूत्रं प्रथमं परिकल्प्यतत्(सं)क्रमात्तेषु तृतीयसप्तमरेखाद्वयं वृत्तस्पर्शि कृत्वा तत्तृतीयसूत्राग्रद्वयादिव्रह्मसूत्रप्रागग्रवृत्तसम्पातं सूत्रद्वयं तत्सप्तमसूत्राग्रद्वयादिब्रह्मसूत्रपश्चिमवृत्तसम्पातान्तं सूत्रद्वयञ्च सम्भृय सूत्रचतुष्टयमास्फाल्य षट्‌कोणं कृत्वा पुनस्तन्नवमरेखामध्यादिप्रा‌ग्विलिखितषट्‌कोणपश्चिममर्मानुगुणगतिवशेनयावद्द्वितीयरेखोभयपार्श्वगतं सूत्रद्वयं तत् प्रथमरेखामध्यादि षट्‌कोणप्राचीन मर्मद्वयानुगुणगतिवशेन यावदष्टमरेखाग्रद्वयान्तं सूत्रद्वयं सम्भूय सूत्रचतुष्टयं मर्म्मचतुष्टयानुगुणमास्फात्य पुनर्ब्रह्मसूत्रप्रागादिप्रसारितरेखाद्वये त्वष्टमसूत्रोभयपार्श्वयोः सम्पातस्य नवमसूत्रमध्यात् प्रसारितरेखाद्वये सप्तमसूत्रोभयपार्श्वयोः सम्पातस्य चानुगुणान्नवमसूग्रोभयपार्श्वादिब्रह्मान्तञ्च सम्भूय मर्म्मचतुष्टयानुगुणं सूत्रद्वयमास्फालयेत्। तत्‌सूत्रद्वयस्य ब्रह्मसूत्रे यत्र सम्पातः तत्पश्चिमादिचतुर्थतिर्य्यक्स्त्रस्य स्थानं भवति। पुनस्तत्सप्तमसूत्रमध्यादिपश्चिमत उभयपार्श्वस्थमर्म्मद्वयानुगुण्येन यावत् प्रथमतिर्य्यक् सूत्रोभयपार्श्वं सम्भूय चतुर्मर्मानुगुण्येन सूत्रद्वयमाष्फाल्य पुनरष्टमतिर्य्यक्सूत्रमध्यमारभ्य प्रथमसूत्रमध्यात् प्रसारितसूत्रमध्यद्वयावधि प्रसृततुर्य्यतिर्य्यग्रेखाद्वयान्तं सूत्रद्वयं विन्यसेत्। पुनरष्टमरेखामध्यादिपश्चिमतः प्रसृतसूत्रद्वयस्य तुर्य्यरेखामध्यादि प्राक्‌प्रसृत सूत्रद्वयस्य च सम्पातद्वया–
-
-
 
 षड्रेखासन्धिमर्म्माख्यं सन्ध्याख्यद्वयसङ्गमात्।  
 तच्चतुर्ब्विंशतियुतं चक्रं सर्ब्बार्थसिद्धिदम्॥२१॥
@@ -8265,16 +7465,12 @@ OXFORD,
 
  विधायेत्यादिना सुन्दरमित्यन्तेन श्लोकद्वयेन ललितायाः श्रीचक्रनिर्माणे सर्व्वमध्यवृत्तान्तर्भूतचतुर्दशारादिचक्रस्य मानसङ्केतमुपदिशति। तत्र वृत्तयोर्मध्यं सर्व्वमध्यवृत्तप्राक्पश्चिमरेखयोर्मध्यब्रह्मसूत्रमिति यावत्। चत्वारिंशत् सहाष्टभिः अष्टचत्वारिंशदित्यर्थः। अस्य पदस्य विधायेत्यनेनान्वशः। प्रागादितिर्य्यक् सूत्राणि त्रीणीति शेषः। षट्सु षट्सु च पञ्चसु अंशेष्वंशेष्विति शेषः।
 
-
-
 **पश्चिमात् षट्त्रयेऽप्येवं तन्मध्ये मर्म्मयुक्तितः।  
 विदध्यात्त्रीणि सूत्राणि कुर्य्यात्तेनातिसुन्दरम्॥२५॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 पश्चिमात् पश्चिमब्रह्मसूत्राग्रस्य सर्व्वमध्यवृत्तस्य च सम्पातमानमारभ्येत्यर्थः। षट्त्रये षट्षड़ंशमानस्थानत्रये। अपिः समुच्चये।एवं त्रीणि सूत्राणि तन्मध्ये प्रागादितृतीयसूत्रस्य पश्चिमादितृतीयसूत्रस्य च मध्य। मर्मयुक्तितः मर्मभेदयुक्तिवशात् तत्तत्सूत्रस्य ब्रह्मसूत्रस्य च सम्पातस्थाने। तेन विधानेन। एवं सर्व्वमध्यस्थचक्रस्यैव मानोपदेशात्तन्मध्यचक्रतुल्यमानं वाह्यमपि प्रतिपार्श्वं चतुर्विशत्यंशं कृत्वा अष्टस्वंशेषु केशरदलपरिवेषचतुरस्रादीनां अवान्तरमानं कलशस्थापनानुगुणं यथाशोभनमिति सम्प्रदायः। विद्याप्राप्त्यादिसकलाभिषेकेष्वेककुम्भस्थापनपक्षे त्रिहस्तमानं चक्रं कर्त्तव्यं। विद्याप्राप्त्यभिषेके कलशानां नवकस्य चतुष्टयस्य वा स्थापनपक्षे पूर्णाभिषेके षण्णवतिकलशस्थापनपक्षे नवहस्तप्रमाणं चक्रं परिकल्पनीयं। एककुम्भस्थापनपक्षे सर्व्ववृत्तमध्यान्तर्भूतानि नवनाथहेतिव्यतिरिक्तानि देवतास्थानानि केशरद्वयं परिवेषं दलानि उपदलानि द्वारद्वयव्यतिरिक्तचतुरस्रञ्च प्रोक्तरजसा रज्जयेत्। पूर्णाभिषेके षण्णवतिकलशस्थापनपक्षे सर्व्वमध्यस्वाभिमुखत्रिकोणे प्रतिरेखं समान्तरालमेकमेकं चिह्नं विधाय त्रिभिः सूत्रैर्मध्ये त्वेकं परितस्त्रिकञ्च सम्भूय त्र्यस्रचतुष्टयं कुर्य्यात्। विद्याप्राप्त्यभिषेके कलशचतुष्टयस्थापनपक्षेऽप्येवं कुर्य्यात्। पुनः पूर्णाभिषेके तु एकतिर्य्यग्रेखान्योन्याभिमुखं त्र्यस्रद्वयं चतुर्षु हेतिचतुष्टयस्थापनद्वयप्रदेशेषु त्रिकोणानि विधाय अष्टदलेषु चतुरस्रादिप्रापि वहिस्त्र्यस्रंविधाय तान्यपि रञ्जयेत्। महाशङ्ख्यकलशस्थापनपक्षे प्रोक्तक्रमेण महाचक्रं कृत्वा प्राग्वत् सर्वमध्यहेतिचतुष्टयस्थानद्वारप्रदेशेषु त्रिकोणानि विधायाष्टदलेषु चतुरस्रगतदेवताष्टकस्थानेषु च वहिरग्रं त्रिकोणानि विधाय सम्भूय षण्णवतित्रिकोणेषु प्रतिरेखं समान्तरालं चिह्नत्रयं कृत्वा चिह्नाच्चिह्नंनवसूत्रास्फालनेन प्रतिकोणं वाह्याभ्यन्तरान्तं षोड़श त्रिकोणानि कृत्वा तान्यपि रञ्जयेत्। तत्र सर्व्वमध्ययोन्यां लेखनप्रकारो द्वितीयपटले व्याख्यातोऽस्माभिः। अत्र नवकुम्भस्थापने नवयोनिषु चतुष्कुम्भस्थापने मध्ययोनिस्थत्रिकोणचतुष्टये सर्व्वत्र सर्व्वमध्यस्थापनीयकुम्भएव खारिमाणतोयपूरणीयः। इतराः कलशाः द्विद्विप्रस्थमानतोयपूरणीया इति सम्प्रदायः॥२५॥
-
-
 
 त्र्यस्रंवृत्तं पञ्चदश च्छदानि च ततो वहिः।  
 अष्टपत्राम्बुजं वाह्ये दशच्छदसरोरुहम्॥२६॥
@@ -8289,8 +7485,6 @@ OXFORD,
 
  त्र्यस्रमित्यादिभिराप्नुयादित्यन्तैश्चतुर्भिः श्लोकैर्ललितायाः पद्मरूपसकलशक्त्यावरणपरिपूर्णं पूजाचक्रं तत्र पूजाफलञ्चोपदिशति। तत्र त्र्यस्त्रं स्वाभिमुखमित्यर्थः
 वृत्तत्र्यस्रद्वहिस्तत्‌कोणत्रयस्पृष्टापृष्टिकयेति यावत्। पञ्चशदच्छदानि च ततो वहिः इत्यनेनैतद्रुक्तं भवति वृत्ताद्वहिः केशरार्थं वृत्तं त्र्यस्राद्वहिः तत्कोणं कृत्वा तत्र वाह्ये पञ्चदशच्छ्दानि लिखेदित्यर्थः। अष्टपत्राम्बुजमित्युक्त्या केशरार्थं वृत्तमालिख्य तद्वहिः अष्टपत्त्राणि विलिखेदित्यर्थः। वाह्ये अष्टपत्रपद्मवाह्ये पुनर्वहिश्चतुर्दशदलं पद्मं। तद्द्विगुणच्छदं षोड़शदलपद्मं अष्टादशच्छदं प्राग्वद्विशेष्यं। सर्वत्र चक्रेषु दलानामवान्तरमाणं कुण्डपटलोक्ताष्टास्रमानवत् तत् कल्पयेत्। तत्र पुराभागे ब्रह्मसूत्रं दलमध्यं यथा तथा कुर्य्यात्। विधायेत्यस्य त्र्यस्रमित्यादिभिर्द्वितीयान्तपदैरन्वयः। तस्य पद्मचक्रस्य। मध्ये सर्व्वमध्यत्रिकोणमध्ये। तां ललितां। तथा नित्यत्वेन ऋतिकाद्युक्तक्रमेण पश्चात्तथा। अन्तस्त्रिकोणस्य प्राग्रेखावृत्तयोर्मध्ये पार्श्वयोः अन्तस्त्रिकोणपार्श्वरेखाद्वयमध्यत इत्यर्थः। अन्याः तिथिनित्या अणिमादयश्च। तथा युक्त्या। एतदुक्तं भवति सुसमे भूतले हंस पदं विधाय तत् सन्दंशस्थानमारभ्य प्रतिदिशमष्टादशाङ्गुलमानेन भ्रमेण वृत्तं निष्पाद्य तद्वृत्तमध्ये स्वाभिमुखां योनिं समरेखां निष्पाद्य तद्वहिर्द्व्यङ्गुलपञ्चाङ्गुलमानक्रमेण पूर्व्वनिष्पादितवृत्तेन सह सप्तदशवृत्तानि निष्पाद्य तत्रैकैकान्तरितासु पञ्चाङ्गुलवीथिष्वष्टस्वाभ्यन्तराद्वाह्यगत्या पञ्चदशदलाव्जेऽग्रादिप्रादक्षिण्येन तिथिनित्याः सर्ववाह्यस्थाष्टदशदलेषु प्राक्प्रत्यग्दलद्वयं द्वारस्थानं परिकल्प्यएवं क्रमाद्दिग्विदिक्षुक्रमेण प्राग्वच्चतुरावृत्त्याणिमादींस्तदन्तःषोड़शदलेषु प्राग्वन्नित्याकलाः तदन्तरष्टदलेषु प्राग्वदनङ्गकुसुमादीं स्तदन्तश्चतुर्दशदलेषु प्राग्वत् सं–
-
-
 
 एतस्मिन् पद्मचक्रस्य मध्ये तासां प्रपूजनात्।  
 महतीं श्रियमाप्नोति ज्ञानान्माञ्च समाप्नुयात्॥२९॥
@@ -8312,8 +7506,6 @@ OXFORD,
 
  घटद्वयमित्यादिभिरपमृत्युजिदित्यन्तैर्नवभिः श्लोकैरमृतघटाख्यं थन्त्रं तत् प्रयोगान् फलानि चोपदिशति। तत्र घटद्वयं वाह्याभ्यन्तरवृत्तद्वयं तन्मध्यं नवधा कृत्वा प्राक्प्रत्यग्दक्षिणोत्तरद्विद्विरेखाभ्यामिति शेषः। कोणेषु कोणकोणकोष्ठेष्वित्यर्थः। प्रथमं श्रीविद्यायाः प्रथमखण्डं। द्वितीयखण्डं दिक्षु प्राग्वत् कोष्ठेषु। मध्ये प्राग्वत् कोष्ठे तार्त्तीयं खण्डं। घटयोर्वाह्याभ्यन्तरवृत्तयोः। तिर्य्यग्रेखाः सप्तेत्यर्थः। समन्ततः परितस्तेषु कोष्ठेषु विद्यातार्त्तीयाक्षरसप्तकं
 
-
-
 तेषु प्रदक्षिणं विद्यातार्त्तीयाक्षरसप्तकम्।  
 लिखेद्विन्दुविसर्गाभ्यां मुखे पञ्चामृताम्बुजम्॥३३॥
 
@@ -8329,8 +7521,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 श्रीविद्यातार्त्तीयखण्डस्य व्यस्तरूपाक्षरसप्तकं विन्दुविसर्गाभ्यां अनुस्वारेण विसर्जनीयेन च सहेति शेषः। पञ्चामृताम्बुजं अष्टमे पटले ज्याकमित्यादिना सप्तत्रिंशश्लोकोत्तरार्द्धेन प्रोक्तामृताक्षरपञ्चकसहितमम्बुजं। आद्यनालमयं आद्यामृताक्षरसहितनालं। द्वन्द्वपत्रकेशरकर्णिकं अत्र द्वन्द्वशब्दः पत्रे समष्टितः इतरयोर्व्यष्टिरूपतश्च योज्यः। द्वितीयतृतीयाक्षरसहितं पत्रं चतुर्थामृताक्षरसहितकेशरं पञ्चमामृताक्षरसहितकर्णिकमित्यर्थः। चः समाहारे। तेनाम्बुजमित्याकृष्यते। घटाधस्तात् घटस्याधःस्थाने। मध्ये सर्व्वमध्यकोष्ठस्थतार्त्तीयखण्डोदरे साध्याक्षरोपेतं साधकसाध्यकर्मोपेतं कृत्वा तममृतघटं अमृतघटसंज्ञं तद्यन्त्रं कृत्वेत्यर्थः। अयमत्र विरचनाक्रमः। सुसमे भूतले अभीष्टमानभ्रमेण वृत्तं कृत्वा तद्वहिरेकाङ्गुलमाने च वृत्तं कृत्वा तदन्तर्मध्ये प्राक्प्रत्यग्दक्षिणोदक्कसमान्तरालं द्विद्विसूत्रास्फालनान्नव कोष्ठानि निष्पाद्य तेषु कोणकोष्ठचतुष्टये श्रीविद्याप्रथमखण्डं तद्दिक्कोष्ठचतुष्ठये तद्द्वितीयखण्डं तत् सर्वमध्यकोष्ठे तार्त्तीय खण्डं साधकसाध्यकर्मोपेतं चालिख्येत्। तत् प्राग्गत कोष्ठमध्ये चतुरङ्गुलमानेन प्राग्वद्वृत्तयोरन्तरालवीथ्योः समान्तरालं सप्तधा कृत्वा तेषु सप्तसु कोष्ठेषु श्रीविद्यातार्त्तीयखण्डस्य व्यस्त्ररूपाक्षरसप्तकं प्रागादिप्रादक्षिण्यक्रमात् विलिख्य तत् प्राग्गतकोष्ठमध्ये चतुरङ्गुलमानेन प्राग्गत् कुम्भमुखं कृत्वा तद्घटमुखेऽधोमुखं पङ्कजं घटस्याधः स्थाने तूर्द्धमुखं पङ्कजं चालिख्य तदम्बुजयोः क्रमान्नाले जं जः इत्यक्षरद्वयं तयोः पत्रे ऊं जः ऊं ठः
-
-
 
 अपमृत्युमहारोगक्षयापस्मारशान्तये।  
 त्रिवर्षमभिषेकन्तु कुर्य्याज्जन्मत्रये तथा॥३७॥
@@ -8349,8 +7539,6 @@ OXFORD,
 इत्यक्षरचतुष्टयं तयोः केशरस्थाने वं वः इत्यक्षरद्वयं तयोः कर्णिकायां सं सः इत्यक्षरद्वयञ्चालिखेत्। एतदमृतघटात्मकं यन्त्रं भवतीति। जन्मर्क्षेषु त्रिष्विति शेषः। अखिलशान्तये इत्यत्राखिलशब्देन क्रूरदशागोचरेत्यादय उच्यन्ते। चः समाहारे। महारोगशब्देन वाताद्यष्टरोगा उच्यन्ते। त्रिवर्षमित्यत्यन्तसंयोगे द्वितीया। तुर्विशेषे। तथा द्वितीयपटलोक्ताभिषेकप्रकारेण। विजयी वादद्यूत युद्धादिष्विति शेषः। सुवर्णे रजते ताम्रे तेषु त्रिष्यन्यतमे पट्टे इत्यर्थः। सिक्थलिङ्गगं मधूच्छिष्टमयलिङ्गान्तर्भूतं। क्षौद्रे कलशान्तर्गते। एतदुक्तं भवति सुवर्णरजतताम्रेष्यन्यतमाधिकरणे तदमृतघटद्वयं यन्त्रं विधाय गुलिकीकृ‌त्य प्राणप्रतिष्ठादिकं कृत्वा तत् सिक्थमयलिङ्गान्तर्निधाय तल्लिङ्गं कलशमध्ये संस्थाप्य तत्कलशं क्षौद्रेणापूर्य्य तत्कलशमुखं शरावेण पिधाय तत् क्वचित् संस्थाप्य तदुपरि मृत्पीठं विधाय तत्र प्रोक्तविधानेन स्वाभिमतफलपर्य्यन्तंदेवीं सपरिवारामभ्यर्च्य पुनः प्रोक्तफलसिद्धौ सत्यां उद्वास्य क्षमस्वेति तत् क्षौद्रादिकं विसर्जयेदिति॥३८॥
 
  तार्त्तीयेत्यादिना श्लोकेनोर्म्मिकादिषु सर्व्वरक्षाविधानमुपदिशति। तत्र तार्त्तीयविद्यापुटितं श्रीविद्याया इति शेषः। नाम साधकसाध्यकर्म्मणां। तुर्विशेषे। ऊर्मिकादावित्यत्रादिशब्दः केयूरादिविषयः। एतदुक्तं भवति। कनकमये पट्टे श्रीविद्यातार्त्तीयखण्डमनुलोमप्रतिलोममन्योन्यं रेफांशेन रेफो मायांशेन मायांशश्च यथा पुटितो भवति तथा तथालिख्य तन्मायंशे साधकं
-
-
 
 कृत्वाश्मनि तथा यन्त्रं तड़ागादिषु मध्यतः।  
 स्थापयेत्तत्र ये स्नाता नराः स्युः सुखिनोऽनिशम्॥४१॥
@@ -8374,8 +7562,6 @@ OXFORD,
  कृत्वेत्यादिना श्लोकेनामृतघटाख्ययन्त्रस्य तड़ागादिषु स्थापनं तत्फलञ्चोपदिशति। तत्र तथा प्रोक्तप्रकारेण। तड़ागादिष्वित्यत्रादिशब्दो नदीकूपादिविषयः। मध्यतः मध्ये यत्राधिष्ठिततड़ागादिषु॥४१॥
 
  प्राक्प्रत्यगित्यादिभिश्चेतन इत्यन्तैर्नवभिः श्लोकैः सिद्धवज्रयन्त्रनिर्माणं तत्प्रयोगांस्तत्तत्फलानि च तत्स्तवनसहितमुपदिशति। तत्र तेषु कोष्ठेषु कोणेषु चतुर्ष्विति शेषः। मार्जयेदित्यस्य चतुर्विंशतिकोष्ठानीत्युत्तरत्रान्वयः। चतुर्विंशतिकोष्ठानि प्रतिकोणं कोष्ठषट्कं षट्कं सम्भूयेत्यर्थः। शेषेषु कोष्ठेषु निर्द्धारणे सप्तमी। विलिखेदित्यस्य त्रिकोणानीत्यनेनान्वयः। एकतः कोष्ठतः इतिशेषः। सम्भूय चतुर्भिः। प्रागारम्भात् प्राक्त्रिकोणारम्भात्। प्रवेशतः प्रवेशगत्येति यावत्। तार्त्तीयस्य श्रीविद्यातार्त्तीयखण्डस्य भेदोत्थचतुर्व्विंशतिं पञ्चत्रिंशपटलवक्ष्यमाणप्रकारेण।चतुरक्षरात्मिका भेदोत्थचतुर्विंशतिसंख्याता विद्याः। विलोमेन अप्रादक्षिण्यान्मध्यस्थे कोष्ठे। तत् श्रीविद्यातार्त्तीयखण्डं ससाध्यं साधकसाध्य कर्मोपेतं। सिद्धवज्राभिधं सिद्धवज्रसंज्ञं। अयमत्र विरचनाक्रमः। प्राक्प्रत्यग्–
-
-
 
 समरे विजयप्राप्त्यैविभृयात्तद्विवादजे।  
 समस्ते धारयेत् क्लेशे विजयं सुखमाप्नुयात्॥४६॥
@@ -8401,8 +7587,6 @@ OXFORD,
 
  प्राक्प्रत्यगित्यादिभिः प्रिये इत्यन्तैः षड़्भिः श्लोकैः कोष्ठवज्रयन्त्रनिर्माण–
 
-
-
 तेषु कोणेषु कोष्ठानि मार्जयेत् पूर्ववत् प्रिये।  
 षट्त्रिंशच्छिष्टवज्रे तु चतुर्भिर्दिक्त्रिकोणकम्॥५२॥
 
@@ -8415,8 +7599,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 विधानमेतत्पटलोक्तयन्त्रफलकथनप्रस्तावसहितमुपदिशति। तत्र तैः सूत्रैः। तत्र यन्त्रे। तथा जायते। नवाशीतिशतद्वयं एकोननवत्यधिकं शतद्वयं। तेषु कोष्ठेषु निर्द्धारणे सप्तमी। कोष्ठानीत्यस्य षड्विंशदित्यनेनान्वयः। पूर्ववद्वज्राकारं यथा भवति तथेत्यर्थः। षट्त्रिंशत् प्रतिकोणं सम्भूय चतुश्चत्वारिंशदधिकशतसंख्यानीत्यर्थः। शिष्टवज्रे शिष्टपञ्चचत्वारिंशदधिकशतसंख्यकोष्ठात्मके वज्रे। तुर्विशेषे। चतुर्भिः कोष्ठैः प्रतिदिशमित्यर्थः। दिक्त्रिकोणकं प्रतिदिशमेकं त्रिकोणं। विधायेत्यस्य दिक्त्रिकोणकमिति पूर्वत्रान्वयः। प्राग्वहिर्मध्यात् प्राच्यां दिशि वहिर्भूतपंक्तिमध्यस्थकोष्ठात् प्राक्त्रिकोणं तत्तद्भूतपंक्तिस्थकोष्ठपञ्चके मध्यकोष्ठात्तदारम्भेत्यर्थः। प्रादक्षिण्यप्रवेशतः प्रादक्षिण्यप्रवेशगत्या। तद्द्वितीयार्द्धे भेदात् श्रीविद्यातार्त्तीयखण्डस्य पञ्चत्रिंशपटलपोक्तपञ्चाक्षरोत्पन्नभेदात् विंशत्युत्तरशतसंख्यातान्। तुर्विशेषे। ततः अनन्तरं। चः समाहारे। तार्त्तीयखण्डमिति शेषः। ससाध्यं साधकसाध्यकर्म्मयु‌‌क्तं। मध्यतः तद्वज्रयन्त्रस्य। तथा अनन्तरश्लोकवक्ष्यमाणक्रमेण। नवसु शिष्टेषु कोष्ठेषु। त्रिशः त्रिरावृत्त्या। दक्षत्रये दक्षिणभागकोष्ठत्रये। मध्ये मध्यकोष्ठत्रये। तथा समुच्चये। वामत्रये द्वितीयं कूटं साध्ये तृतीयकं मध्यत्रये पूर्व्ववल्लेख्यतृतीयकूटं ससाध्यादिकं लिखेदितर्थः। तुर्विशेषे। अयं अत्र यन्त्रविरचनाक्रमः। प्राक्प्रत्यग्दक्षिणोदक्कसमान्तरालाष्टादशाष्टादशसूत्रास्फालनादेकोननवत्युत्तरशतद्वयकोष्ठानिनिष्पाद्य तेषु प्रतिकोणं षट्त्रिंशत् षट् त्रिंशतकोष्ठक्रमेण सम्भूय चतुश्चत्वारिंशदधिकशतकोष्ठानि शिष्टमध्येवज्राकारं यथा तथा मार्जयित्वा पुनः शिष्टवज्राकारे पञ्चचत्वारिंशदधिकशतकोष्ठामके प्रतिदिशं वहिरेकत्रिक्रमेण सम्भूय कोष्ठचतुष्टयेन कोष्ठ–
-
-
 
 दक्षत्रये त्वाद्यकूटं मध्ये तार्त्तीयकं तथा।  
 वामत्रये द्वितीयञ्च लिखेत् साध्ये तृतीयकम्॥५५॥
@@ -8444,8 +7626,6 @@ OXFORD,
 
  प्राक्प्रत्यगित्यादिभिरुदितैः इन्तन्तैस्त्रयोदशभिः श्लोकैर्वज्रलिङ्गाभिधानयन्त्र–
 
-
-
 तेषु कोष्ठषु परितो मार्जयेदष्टसप्ततिम्।  
 शिष्टे चतुर्भिस्त्र्यस्रञ्च विदध्याद्दिक्षु पूर्ववत्॥६१॥
 
@@ -8461,8 +7641,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 निर्माणविधानमस्मिन् पटले प्रोक्तयन्त्राणामनुभावञ्चोपदिशति। तत्र षट्शतं पञ्चविंशति पञ्चविंशत्यधिकं षट्शतमिति यावत्। तेषु कोष्ठेषु अष्टसप्तति कोष्ठानि प्रतिकोणमित्यर्थः। शिष्टे त्रयोदशाधिकशतत्रयकोष्ठरूपे वज्रे। चतुर्भिः कोष्ठैः। पूर्ववत् एकत्रिक्रमेणेत्यर्थः। तेषु चतुर्षु अस्रेषु। तुः समुच्चये। ससाध्यां साधकसाध्यकर्मोपेतां। प्राग्वत्तथा मायावह्निमध्यांशेषु क्रमादिति यावत्। शिष्टेषु कोष्ठेषु। सर्वमध्यस्थकोष्ठस्य पश्चिमाद्येकादशात्मकतिर्य्यक् पंक्तिस्थ एकविंशतिकोष्ठेषु मध्यकोष्ठस्य। तिर्य्यग्दक्षिणोत्तरं। समीकृत्य एकीकृत्य। तयोः एकीकृतकोष्ठयोः। तथा प्राग्वत्तयोः। तथा यथाधिष्ठानपिण्डिके भवतः। द्वे द्वे कोष्ठे तिर्य्यगिति शेषः। एतदुक्तं भवति पश्चिमादि द्वादशदशमपंक्त्योस्तत्तन्मध्यकोष्ठस्योभयपार्श्वयोः एकैकं मुक्त्वा तदन्तरकोष्ठयो(र्द्वेपत्र)वृत्तयोर्मार्जयेदिति। ततः अनन्तरं। तथा प्राग्वत्। तयोः एकीकृतकोष्ठद्वयोः। अधोर्द्ध्वंदिव्यत्वादध जर्द्ध्वमिति यावत्। चः समाहारे। तथा उभयपार्श्वयोः। एतदुक्तं भवति नवमत्रयोदशपंक्त्योस्तत्तन्मध्यकोष्ठस्योभयपार्श्वयोः कोष्ठयोर्द्वयं द्वयं मुक्त्वा तदन्तरकोष्ठयोर्द्वयं द्वयं मार्जयेदिति। तदधश्चोपरि अनन्तरपूर्व्वमेकीकृतयोः कोष्ठयोरधश्चोपरि च। तथाष्टमचतुर्दशपञ्चदशपंक्तिषु तत्तन्मध्यकोष्ठयोरुभयपार्श्वयोः कोष्ठानां त्रयं केवलतिर्य्यग्रेखामार्जनेन। तुर्विशेशे।उपरितनकोष्ठद्वयमार्जनं केवलमूर्द्धत एव तिर्य्यगित्यर्थः। एकैकञ्च द्वयं द्वयं
-
-
 
 तदधश्चोपरि तथा त्वेकैकञ्च द्वयं द्वयम्।  
 एकीकृत्य पुनश्चोर्द्धे द्वे द्वे तु मार्जयेत्तथा॥६५॥
@@ -8480,8 +7658,6 @@ OXFORD,
 
 यथाक्रमतः। एतदुक्तं भवति अष्टमचतुर्द्दशपञ्चदशपंक्तिषु तत्तन्मध्यकोष्ठस्योभयपार्श्वयोः कोष्ठानां त्रयं त्रयं मुक्त्वा तदनन्तरमेकमेकं कोष्ठं मार्जयेदिति। पुनश्चोर्द्धे पूर्व्वमेकीकृतकोष्ठपंक्तिषुपरितनपंक्त्यामेकमेवेत्यर्थः। द्वे द्वे कोष्ठे अन्तःप्रथममार्जित कोष्ठस्य। तथा तिर्य्यगित्यर्थः। ततः अनन्तरं। उपरिपार्श्वयोः लिङ्गरूपकोष्ठनवकस्येत्यर्थः। दशखण्डानि रेखाभिः खण्डनात् खण्डशब्देन रेखा उच्चते तस्माद्दशभिः खण्डैः नवकाष्ठानि भवन्तीति। दशखण्डमार्जनात् नव कोष्ठान्येकीकृतानीत्यर्थः। शिष्टैर्नवभिः कोष्ठैः। तुर्विशेषे। मध्ये एकीकृतखण्ड दशकस्य। तथा इत्यस्य मार्जयेदित्यनेन पूर्व्वत्र सम्वन्धः। यथा मध्ये शिष्टैर्लिङ्गं भवेत्। तथा नवकोष्ठानि मालावदेकीकुर्य्यादित्यर्थः। एवमुक्तरूपेण चत्वारिंशद्भिः अधिष्ठानमध्यपिण्डिकालिङ्गगतैः कोष्ठैरित्यर्थः। शिष्टानि लिङ्गान्येकीकृतानि च कोष्ठानि मुक्त्वेत्यर्थः। द्विशतं दश पञ्च च अत्र चकारस्य समाहारार्थत्वादेकसंख्याधिकं (स) द्योतयतीति सम्प्रदायः। तस्मात् षोड़शाधिकं शतद्वयमित्यर्थः। पार्श्वयोरुपरि चेत्यर्थः। मृष्टानि एकीकृतानि कोष्ठानि एकविंशतियुग्मकं एकेन विंशतियुग्मं एकचत्वारिंशदित्यर्थः। मध्यस्थपंक्त्यां दशकोष्ठात्मिकायां तार्त्तीयं कूटं। ऊर्द्धादि ऊर्द्धाधःक्रमात् स्थितायां अस्य पंक्त्यामित्यत्रान्वयः। सर्व्वमध्ये अधिष्ठानपिण्डिकयोर्मध्यस्थकोष्ठे। ससाधकं साधकसाध्यकर्मोपेतं प्राग्लिखिततार्त्तीयकूटमित्यर्थः। सर्वत्र यन्त्रमात्रे। लिङ्ग–
 
-
-
 ऊर्द्धादि मायामध्यस्थं सर्वमध्ये ससाध्यकम्।  
 सर्वत्र तार्त्तीया विद्या लेखनं समुदीरितम्॥६९॥
 
@@ -8494,8 +7670,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 रूपेषु पिण्डिकोपरिष्टेषु नवसु कोष्ठेषु। इयं निर्द्धारणे सप्तमी। पार्श्वषट्के प्रतिपार्श्वं त्रित्रिक्रमेण। तुः समुच्चये। पूर्व्ववत् अनन्तरपूर्वोक्तवज्रयन्त्रवत्। विद्याशेषं श्रीविद्यायाः प्रथमकूटं द्वितीयकूटञ्च तद्दक्षिणकोष्ठत्रये वामकोष्ठत्रये च क्रमादिति यावत्। प्राग्वदारम्भतः कोष्ठवज्रयन्त्रवत्। प्राक्त्र्यस्रान्तर्गत पंक्त्यां मध्यकोष्ठमारभ्य तथा प्रादक्षिण्यप्रवेशगत्येति यावत्। तदिति वासनापटले वक्ष्यमाणं सूचयति। विंशशतं विंशत्युत्तरं शतमित्यर्थः। द्विशः पर्य्यायतः तत्र वज्रलिङ्गयन्त्रे। अयमत्र विरचनाक्रमः। प्राक्प्रत्यग्दक्षिणोदक्क समान्तरालं षड़्विंशति षड़्विंशति सूत्रास्फालनात् पञ्चविंशत्यधिकषट्शतकोष्ठानि निष्पाद्य तेषु प्रतिकोणमष्टसप्तत्यष्टसप्ततिकोष्ठं क्रमेण सम्भूय द्वादशाधिकशतत्रयकोष्ठानि शिष्टं वज्राकारं यथा तथा मार्जयित्वा पुनः शिष्टवज्राकारे त्रयोदशाधिकशतत्रयकोष्ठात्मके प्रतिदिशमेकत्रिकक्रमेण सम्भूय कोष्ठचतुष्टयेनैकैकं त्रिकोणं कृत्वा तेषु तार्तीयविद्यां प्राग्वत् साधकसाध्यकर्मोपेतां आलिख्य तच्छिष्टसप्तनवत्यधिकशतद्वयकोष्ठेषु पश्चिमादेकादशात्मकसर्व्वमध्यस्थपंक्त्यां तत्सर्व्वमध्यस्थकोष्ठस्य दक्षिणवामपार्श्वयोः तिर्य्यग्रूपेण कोष्ठत्रयं यन्त्रमूर्द्धाधोगतपश्चिमादिद्वादशपंक्तिरूपे तत्तन्मध्यप्रकोष्ठस्योभयपार्श्वयोः कोष्ठद्वयं कोष्ठद्वयं मुक्त्वा तिर्य्यग्रूपेण प्राग्वत् द्वयं द्वयंपश्चिमाद्यष्टमचतुर्दशपञ्चदशपंक्तित्रये तत्तन्मध्यकोष्ठस्योभयपार्श्वयोः कोष्ठत्रयं त्रयं मुक्त्वा त्वेकमेकं कोष्ठं पुनश्चैकीकृतकोष्ठासु पंक्तिषूपरितनपञ्चदशपंक्त्यामेवोभयपार्श्वयोस्तिर्य्यग्रूपेण कोष्ठद्वयं कोष्ठद्वयं ततश्च मालाक्रमेण लिङ्गरूपकोष्ठनवकस्योभयपार्श्वयोरुपरि च दशरेखामार्जनेन नवकोष्ठान्यष्टादशपंक्तिस्थकोष्ठेषु मध्यस्थकोष्ठपञ्चकञ्च सम्भूयैकचत्वारिंशत कोष्ठानि मध्ये चत्वारिंशद्भिः कोष्ठैः साधिष्ठानं लिङ्गं वहिर्वज्रे शिष्टानि षोड़शा–
-
-
 
 स्थापयेद्विनियोगेषु प्रोक्तेषु परमेश्वरि।  
 नासाध्यमस्ति भुवने यन्त्रैरेतैर्मयोदितैः॥७२॥
@@ -8512,8 +7686,6 @@ OXFORD,
 
  एकादीत्यादिभिस्तामित्यन्तैरष्टभिः श्लोकै मेरूलिङ्गनिर्म्माणविधानं तत् प्रयोगांस्तत्फलानि चोपदिशति। तत्र एकादिद्वयसंवृद्ध्या एककोष्ठादि प्रतिपंक्तिकंकोष्ठद्वयकोष्ठद्वयवर्द्धनेन उपर्य्युपरि इति शेषः। एकोनविंशकोष्ठान्तं एकोनविंशसंख्यकोष्ठपर्य्यन्तं एवं क्रमाभिवृद्ध्या दशमपंक्त्यामेकोनविंशतिकोष्ठानि भवन्ति तदवधीत्यर्थः। प्राग्वत् वज्रलिङ्गोक्तक्रमेण। मध्यतः सर्व्वमध्यपंक्तिमध्यगतसप्तकोष्ठानुसारेणेत्यर्थः। चः समुच्चये। चत्वारिंशद्भिः कोष्ठैरित्यर्थः। एवावधारणे। तेषु कोष्ठेषु। मूलादि सर्वाधःस्थितप्रथमकोष्ठादि। परितः अधिष्ठानोपरितनपंक्ति‍पर्य्यन्तं प्रादक्षिण्येन। मध्यान्तं मूलादिसप्तमपंक्तिमध्यकोष्ठान्तं विन्यसेदित्यत्रोत्तरश्लोके विद्या इत्यनेन सम्बन्धः। तथा क्रमात् प्रवेशगत्या विंशशतं विंशत्यधिकशतं। प्रिये इति देवीसम्वुद्धिः। लिङ्गस्य मध्यकोष्ठान्तं लिङ्गमध्यकोष्ठपर्य्यन्तं तदधोगतकोष्ठेषु सर्वेषूक्तक्रमात् विन्यस्य तदन्ते तल्लिङ्ग–
 
-
-
 विद्याद्वितीयभेदोत्था विद्या विंशशतं प्रिये।  
 लिङ्गस्य मध्यकोष्ठान्तं शिष्टं कोणेषु संलिखेत्॥७५॥
 
@@ -8526,8 +7698,6 @@ OXFORD,
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 मध्यस्थकोष्ठान्तमिति यावत्। शिष्टं विद्याचतुष्टयं कोणेषु वक्ष्यमाणचतुरस्रको‍णेषु वायव्यादिनिऋत्यन्तमिति शेषः। विधाय चतुरस्रं चतुरस्रं विधायेत्यर्थः। तुर्विशेषे। सूत्रद्वयनिपातनात् प्रतिदिशमन्तर्वहिर्विभागेनेत्यर्थः। सर्व्ववाह्ये उक्तरूपस्य वाह्ये। तदावद्धं प्रथमकोष्ठाधोरेखासम्बद्धं। तस्य चतुरस्रस्य उपरि उभयोर्मध्ये इति शेषः। समालिखेदित्यस्योत्तरत्र पर्प्यायादीनित्यनेन सम्बन्धः। सप्तकोष्ठेषु चतुरस्रप्राचीनवीथिस्थसप्तकोष्ठेषु। पर्य्यायादीनित्यत्रादिशब्दो युगघटिकार्णदिननित्यादिविषयः। अर्णकान् वर्णानित्यर्थः। नित्यपर्य्यायजनिते विद्ये। मध्ये सप्तकोष्ठेषु मध्यस्थे। तुः समुच्चये। प्रोक्तक्रमेण लिङ्गाग्रमध्यात् लिङ्गाग्रपंक्तिमध्यकोष्ठमारभ्येत्यर्थः। अभितः प्रादक्षिण्येन। पिण्डिकायां च तदधःस्थितकोष्ठानां प्रागेव विनियुक्तत्वात्। संलिखेदित्यस्योत्तरश्लोके विद्या इत्यनेन सम्वन्धः। तथा प्रवेशगत्या। कृत्वैवं मेरुलिङ्गं मेरुलिङ्गं कृत्वेत्यर्थः। तुर्विशेषे। अयमत्रविरचनाक्रमः प्रथममेकं चतुरस्रंकोष्ठं विधाय तदुपर्य्युभयपार्श्वयोः प्रतिपार्श्वमेकैकक्रमात् सम्भूय प्रतिपंक्तिकं कोष्ठद्वयाभिवृद्ध्या सर्व्वमूलादिदशमपंक्त्यामेकोनविंशति कोष्ठानि यथा तथा कृत्वा तत् दशमपंक्त्यामुभयत्र षट् षट् कोष्ठानि मुक्त्वा तन्मध्यस्थकोष्ठसप्तकानुसारेण तदुपरि प्राग्वच्चत्वारिंशद्भिः कोष्ठैः साधिष्ठानपिण्डिकं लिङ्गं तद्वहिस्तदग्रगतदक्षिणोत्तररेखया प्रथमकोष्ठाधःस्थदक्षिणोत्तररेखया च सम्बध्यतद्वाविंशतिकोष्ठप्रमाणोपेतं दक्षिणोत्तरमेकैकं सूत्रं पुनरुभयपार्श्वयोर्दशमपंक्तेर्वहिरध्यर्द्धकोष्ठप्रमाणप्रदेशाद्व‌हिर्द्वाविंशतिकोष्ठप्रमाणोपेतं प्राक्प्रत्यगेकैकं सूत्रं तद्वहिः परितस्तत्तत्सूत्राग्रावधिकञ्च सम्भूयाष्टभिः सूत्रैःपरितः समचतुरस्रद्वयं प्रतिकोणमेकैककोष्ठोपेतं यथा तथा विधाय तत्र प्राग्वद्द्वितीयभेदोत्थं विंशत्यधिकशतविद्यास्वरूपं
-
-
 
 मध्ये युगोदयार्णे तु लिखेत् प्रोक्तक्रमेण वै।  
 लिङ्गाग्रमध्यादभितः पिण्डिकायाञ्च संलिखेत्॥७८॥
@@ -8547,8 +7717,6 @@ OXFORD,
 
  प्राक्प्रत्यगित्यादिभिः इष्टदा इत्यन्तैः षड़्भिः श्लोकैर्महालिङ्गयन्त्रनिर्माण विधानादिकमुपदिशति। तत्र सुसमानि आयामविस्तारवैषम्याभावात्। तस्य कोष्ठसमुदायरूपस्य। एकपार्श्वाधोभागे अधः पंक्त्यामेकस्मिन् पार्श्वे। ततः तस्याः पंक्तेरित्यर्थः। चः समुच्चये। उपरि उपर्य्युपरीति यावत्। षट्सप्तत्येवमेकादशावधि षट्सप्ताष्टनवदशैकादशसंख्यावधीति यावत्। मार्जयेत कोष्ठानीत्यर्थः।
 
-
-
 तस्यैकपार्श्वाधोभागे पञ्च कोष्ठानि मार्जयेत्।  
 ततश्चोपरि षट्सप्तेत्येवमेकादशावधि॥८२॥
 
@@ -8565,8 +7733,6 @@ OXFORD,
 
 उपरिष्टात् अष्टमादिषु षट्सु पंक्तिष्विति शेषः। चः समुच्चये। तस्य पञ्चषड़ादिक्रमस्य। एवावधारणे। प्रतिलोमकं दशादिपञ्चकान्तक्रमादित्यर्थः। तथा कुर्य्यात् यथाधिष्ठानपिण्डिके षट्या षष्ट्या कोष्ठैस्तत्र लेख्यत्वेन वक्ष्यमाणविंशत्यधिकशतविद्याभेदसमसंख्यकोष्ठे भवतः। पार्श्वमन्यत्तेनाधिष्ठानपिण्डिके भवतः। येन क्रमेण मार्जनादधिष्ठानपिण्डिके भवतः। तेन क्रमेण तदन्यत् पार्श्वं मार्जयेदिति। चः समुच्चये उपरिष्टात्रयोदशपंक्तेरित्यर्थः। तुर्विशेषे। पञ्चविंशतिकोष्ठकैः लिङ्गं अस्योत्तरत्र भवतीत्यत्रान्वयः। अन्यानि लिङ्गरूपाणि तानि कोष्ठानि। पार्श्वस्थमार्जनात् पार्श्वस्थकोष्ठमार्जनादवशिष्टानीत्यर्थः। प्रिये इति देवीसम्बुद्धिः। तद्द्वितीयविभेदजाः विद्या इत्यर्थः। लिङ्गे पञ्चविंशतिकोष्ठात्मके प्रथमभेदोत्था तार्त्तीयस्येति शेषः। तन्मध्यस्थे लिङ्गमध्यस्थे कोष्ठे। स्ववाञ्छितं प्राग्वत् साध्यादिकम्। मध्ये अधिष्ठानपिण्डिकयोरन्तरालस्थकोष्ठत्रये। तद्दिनजां प्राग्वद्विद्याप्राप्तिदिनजां प्रयोगदिनजां वा। अनघे इति देवीसम्बुद्धिः। तत्र यन्त्रे। अयमत्र विरचनाक्रमः। प्राक्प्रत्यग्दक्षिणोदक्कसमान्तरालमेकविंशत्येकविंशतिसूत्रस्फालनाच्चतुःशतानि कोष्ठानि निष्पाद्य तदधःपंक्त्यामेकपार्श्वे पञ्चकोष्ठानि तस्मिन्नेव पार्श्वे द्वितीयादिसप्तमपंक्त्यवधि षट्सप्ताष्टनवदशैकादशकोष्ठाणि च मार्जयित्वा पुनस्तस्मिन्नेव पार्श्वे अष्टमादित्रयोदशान्त‍पंक्तिषट्के दशनवाष्टसप्तषट्पञ्चकोष्ठानि पुनस्तस्मिन्नेव पार्श्वे चतुर्दशाद्यष्टादशान्त पंक्तिपञ्चके दशदश कोष्ठानि तदुपरिगतमेकोनविंशविशात्सकं पंक्तिद्वयंच
 
-
-
 मध्ये तद्दिनजां विद्यामिति प्रोक्तं तवानघे।  
 महालिङ्गाभिधं यन्त्रं तत्र पूजाखिलेष्टदा॥८६॥
 
@@ -8582,8 +7748,6 @@ OXFORD,
 दिननित्याञ्चालिखेदिति॥८६॥
 
  समत्रिरेखामित्यादिभिरनुभावत इत्यन्तैस्त्रिभिः श्लोकैर्योनिचक्रनिर्म्माणादिकमुपदिशति। तत्र योनिं स्वाभिमुखत्र्यस्रं। तस्या योन्याः। तुर्विशेषे। मध्यतः मध्ये। तत्तत्सूत्रवशात्तत्तद्रेखानुगुणतः कुर्य्यात्। दश सूत्राणि। त्रिषु सूत्रेषु। तथा यथैकविंशत्यधिकशतयोनयः सम्भवन्ति तथेत्यर्थः। समं समान्तरालम् अन्तरालसाम्यादृते मर्मणामसम्भवात्। अत्र योनिचक्रे। परितः अग्रादिप्रादक्षिण्येन। ताः द्वितीयभेदजा विद्याः। तुः समुच्चये। अयमत्र विरचनाक्रमः स्वाभिमुखं समत्रिरेखात्मिकां योनिमुक्तवन्निष्पाद्य तद्रेखात्रयं दशभिर्दशभिश्चिह्नैः समान्तरालमेकादशधा विभज्य तद्रेखाचिह्नेषु चिह्नाच्चिह्नं तत्तत्सूत्रानुगुण्याद् यथा मर्मभेदं सम्भूय त्रिंशत्सूत्रास्फालनादेकविंशत्यधिकशतयोन्यात्मकं चक्रं विधाय तद्योनिष्वग्रादिप्रादक्षिण्यप्रवेशगत्या तार्त्तीयविद्याद्वितीयभेदान् शिष्टमध्ययोन्यां स्ववाञ्छितञ्च विन्यसेदिति। तत्र योनिचक्रे। तां ललितां विद्यां सपरिवारामित्यर्थः। प्राग्व–
-
-
 
 तत्र तामर्च्चयेत् प्राग्वत् स्थापयेच्च तथा तथा।  
 तत्र स्वेष्टमवाप्नोति योनिचक्रानुभावतः॥८९॥
@@ -8603,8 +7767,6 @@ OXFORD,
 
  समत्रिरेखमित्यादिभिः सिद्धये इत्यन्तैस्त्रिभिः श्लोकैर्वज्रवज्रयन्त्रनिर्माणविधानादिकमुपदिशति। तत्र त्र्यस्रं ऊर्द्ध्वमुखत्रिकोणं। योनिं अधोमुखत्रिकोणं। चः समुच्चये। सङ्गतम् अन्योन्यमूर्द्धाधःक्रमेण तिर्य्यग्रेखयैकयैवोभयं कुर्य्यादित्यर्थः। तत्र चक्रे। अन्यतः ऊर्द्ध्वगतत्त्र्यस्रवामरेखामारभ्याधोगतयोनिदक्षिणरेखावधि तद्दक्षिणरेखामारभ्येतरवामरेखावधि। तथा समान्तरालमिति यावत्। तिर्य्यक्सूत्रं त्र्यस्रयोन्योर्मध्यस्थं। पूर्व्वशृङ्गात् प्राग्वद् वज्रकोष्ठादारभ्येत्यर्थः। तथा प्रादक्षिणेन। ताः प्रथमभेदविद्याः। शिष्टवज्रस्थं मध्यवज्रस्थमित्यर्थः। अयमत्र विरचनाक्रमः। मध्ये हंसपदं विधाय तत् सन्दंशस्थानावगाहि प्राक्प्रत्यग् ब्रह्मसूत्रं प्राग्वदभितो जनितमत्स्यद्वयावगाहि याम्योदक्सूत्रञ्च आस्फाल्य तत्सन्दंशस्थानमारम्य याम्योदक्सूत्रोभयपार्श्वयोः समप्रमाणेन चिह्नद्वयं कृत्वा तच्चिह्नयोरन्तरे प्रमाणोपेतं सूत्रयोर्द्वयं द्वयं तच्चिह्नद्वयमारभ्य प्राक्पश्चिमयोर्ब्रह्मसूत्रावधि सम्भूय सूत्रचतुष्टयं यथा त्र्यस्रयोन्यात्मकचक्रं तथास्फाल्य तद्ब्रह्मसूत्रं तिर्य्यग्रेखां च मार्जयित्वा त्र्यस्र‌योन्योर्वामदक्षिणरेखयोर्द्वयं द्वयं चतुर्भिश्चिह्नैः पञ्चधा पञ्चधा विभज्य तच्चिह्नक्रमवशात्र्यस्र‌वामरेखादि योनिदक्षिणरेखान्तं त्र्यस्रदक्षिणरेखादि योनिवामरेखान्तञ्च सम्भूयाष्टसूत्रास्फालनेन तन्मध्ये पञ्चविंशति वज्र कोष्टानि विधाय तत्प्राकशृङ्गमारभ्य प्रादक्षिण्यप्रवेशगत्या श्रीविद्यातार्त्तीयप्रथमभेदान् शिष्टमध्ये निजवाञ्छितञ्च विन्यसेदिति। तत्र वज्रवज्रयन्त्र। पूर्णासु पञ्चमीदशमी पञ्चदशीषु॥९२॥
 
-
-
 तथा विधाय दशभिर्द्देशभिः सूत्रपातनैः।  
 द्वितीयभेदाः विलिखेत्तथा साध्यसमन्विताः॥९३॥
 
@@ -8619,8 +7781,6 @@ OXFORD,
  तथेत्यादिना सुनिश्चितमित्यन्तेनार्द्धाद्येन श्लोकद्वयेन महावज्रवज्राभिधानं यन्त्रमेवमूह्यपरतोयं यन्त्रनिर्म्माणविधानादिकञ्चोपदिशति। तत्र तथा विधाय प्रागन्योन्यसङ्गतं त्र्यस्रयोनिं विधाय। द्वितीयभेदाः विद्याः। तथा शिष्टमध्ये।अयमत्र विरचनाक्रमः। प्राग्वदन्योन्यसङ्गतं त्र्यस्रयोनिचक्रं विधाय तन्मध्ये प्राग्वद्दशसूत्रास्फालनादेकविंशत्यधिकशतवज्रकोष्ठानि निष्पाद्य प्राक्त्र्यस्रमारभ्य प्रादक्षिण्यप्रवेशगत्या विद्याद्वितीयभेदान् शिष्टमध्ये स्ववान्छितञ्चालिखेदिति। तत्र महावज्रवज्रयन्त्रे। पूजनाद्यैरित्यत्राद्यशब्दः स्थापनादिविषयः। एवमुक्तप्रकारेण। तृतीयोत्थविद्याभिः तार्त्तीयविद्यातृतीयभेदविद्याभिः। ऊहनप्रकारे त्वेकं यन्त्रमुदाहरणत्वेन लिख्यते। प्राग्वत्त्रस्रं योनिचक्रं विधाय तन्मध्ये षड्विंशतिषड्विंशतिसूत्रास्फालनादेकोनत्रिंशदधिकसप्तशतं वज्रकोष्ठानि विधाय तत्र प्राग्गतशृङ्गादिप्रादक्षिण्यप्रवेशगत्या वासनापटले वक्ष्यमाणतार्त्तीयविद्यातृतीयभेदान् विंशत्यधिकं सप्तशतं परिशिष्टेषु पुनर्नवसु कोठेषु त्रित्रिकोष्ठक्रमेण श्रीविद्याकूटत्रयं मध्यस्थतार्त्तीयकूटे प्राग्वत् स्वमनीषितं च विन्यसेदिति। एवं कोष्ठवज्रादिष्वपि ऊह्यकोष्ठानि परिकल्प्य विद्याभेदान् विषमान् न्यसेत्। ते ऊह्य परिकल्पिता यन्त्रभेदाः। एवावधारणं॥९४॥
 
  कोष्ठत्यादिभिरागमे इत्यन्तैरर्द्धाद्यैः पञ्चभिः श्लोकैर्विषमसमकोष्ठचतुरस्रचक्रेषु पंक्तिस्थमनीषितसंख्यमङ्कानालिख्य तदनुरूपसंख्यविद्याकूटलेखनादनन्तानि यन्त्राण्यमीषां सर्वेषां तन्त्रान्तरोक्तत्वञ्चोपदिशति। तत्र यथाविधीत्यनेन कोष्ठेषु विवक्षितसंख्याकलेखनस्य तन्त्रान्तरोक्तत्वं द्योतयति। नवषोड़शकोष्ठादि नवकोष्ठं षोड़शकाष्ठं षोड़शकोष्ठचक्रं चारभ्येति यावत्। सम्बर्ध्य पूर्वोक्तपूर्वोक्तचक्रवाह्ये परितः। विषमं विषमसंख्यकोष्ठात्मकं चतुरस्रं। समं
-
-
 
 **नवषोड़शकोष्ठादि संवर्द्ध्य विषमं समम्।  
 तेष्वङ्कानि समं कृत्वा पंक्तौ तेषु समालिखेत्॥९६॥**
@@ -8637,8 +7797,6 @@ OXFORD,
 द्विधाप्यालिख्य कोष्टाङ्कः संस्थाप्य पूर्ववामतः। इति।**
 
  अत्र विषमभद्रादिलक्षणमुत्तरत्र वक्ष्यति। विषमे भद्रे ऊर्द्ध्वाधोरूपतस्तिर्य्यग्रूपतश्च विषमे कोष्ठे पंक्तिकल्पिते समचतुरस्रचक्रे। भुजमध्यात् स्वदक्षिणात् स्वस्य सर्व्वदक्षिणपार्श्वस्थपंक्तिकाष्ठेषु सर्व्वमध्यस्थकोष्ठादारभ्याङ्कान् लिखेदिति। इष्टादिष्टात्तरैः परिकल्पितयोरिष्टमादौ विलिख्य ततः प्रतिकोष्ठमुत्तराधिकै (भिधै) स्तैरङ्कैर्धनजाद्युत्तरैस्तु वा अभीष्टसंख्याधनोत्पत्रैराद्युत्तरैर्वा एकपंक्तिधनसमुदायेन आद्युत्तरानयनं वक्ष्यति। तदा–
-
-
 
 विद्यातृतीयभेदोत्थांस्तत्तदङ्कानुगुण्यतः।  
 मनीषितञ्च संलिख्य तेषां मध्यस्थकोष्ठतः॥९७॥
@@ -8665,8 +7823,6 @@ OXFORD,
 
  अस्यार्थः। गर्भे तु विषमे विषमभद्रचतुष्टयसम्पाते विषमगर्भः तस्मिन्। वज्रतो लिखेत् अस्मिन् गर्भचतुष्ठये अभीष्टमेकं प्रथमं संकल्प्य तत्‌कोणस्थं द्वितीयं तत्तत् पार्श्वस्थं तृतीयं तत्‌कोणस्थं चतुर्थं संकल्प्य प्रतिवर्गं विषमभद्रोक्तक्रमादङ्कान–
 
-
-
 मुक्तक्रमाद्विलिखेदित्यर्थः। वर्गपंक्तिष्वपीत्यादि। एषु चतुष्कवर्गेषु एकपंक्तिसंख्यां त्रिभिर्हृत्वा लब्धं फलं क्वचित् संस्थाप्य भागहारशेषश्चेदेकमेतत् फले योज्यं तदाज्यं फलं सम्भवति। तत्र फलसंख्यानि कोष्ठानि प्रथमचतुर्थवर्गयोरूर्द्ध्वाधः पंक्तिषु प्रतिपंक्ति तत्तत्पंक्तिकोष्ठक्रमानतिलङ्घनेन विन्यस्येदित्यर्थः। अयं विशेष इत्यादिनार्द्धाद्येनैकेन व्यत्यस्तकोष्ठविशेषः कथितः। यथा एकवर्गपंक्तिसंख्यां द्विगुणोकृत्य त्रिभिर्विभज्य तत्फलं द्वितीयसंज्ञं भवति। शेषसंख्या क्वचित् स्थातव्या तत्र द्वितीयफलमुभयकर्णकोष्ठेष्वेकानुक्तक्रमेण प्रागेव व्यत्यस्यतत्तत्पंक्तिषु प्रथमफलोपान्तसंख्यावशिष्टसंख्या क्वचित् स्थातव्या। तया तावत् स्वकर्मकोष्ठव्यतिरिक्तकोष्ठेष्वङ्कान् प्राग्वत् क्रमात् व्यत्यस्येत्। तद्द्वितीयेत्यादिपूर्व्वस्थापिता द्वितीयफलशेषसंख्या यावत् संख्यामभीष्टपंक्तिद्वयतृतीयवर्गयोस्तिर्य्यग्रूपासु पंक्तिषु पंक्तिकोष्ठक्रमानतिलङ्घनेन व्यत्यस्येदित्यर्थः। एवं कृते सर्व्वतः साम्यं भवतीत्यर्थः। विषमगर्भालङ्घनेन लघूपायश्लोकद्वयं।
 
 **यद्वान्त्यफलसंख्यातां पंक्तिमारभ्य पंक्तिशः।  
@@ -8682,8 +7838,6 @@ OXFORD,
 तत्तच्छिरस्था वान्त्यादितद्वत्तद्वद्गजाध्वना। इति॥**
 
  अस्यार्थः। षोड़शकोष्ठात्मके समभद्रे स्ववामभागाधःस्थकोष्ठे आदिममङ्कं विन्यस्य तस्मादश्वमार्गेण ऊर्द्ध्वादि द्वितीयतिर्य्यकपंक्तौ वामतो द्वितीयकोष्ठे द्वितीयमङ्कं तत् पंक्तावेव सर्ब्बदक्षिणकोष्ठे तृतीयं सर्ब्वाधःस्थ पंक्तौ वामतस्तृ–
-
-
 
 **आयुरारोग्यविजयं विभूत्याद्यञ्च सिध्यति।  
 स्थापनाद्धारणाच्चान्यैरुपायैः साधकोनिशम्॥९९॥**
@@ -8711,8 +7865,6 @@ OXFORD,
 गुणयेत् पंक्तिकोष्ठ स्यात् पंक्तिकोष्ठेषु तत्फलम्।**
 
  इत्यर्द्धाभ्यामिष्टादिष्टोत्तरं लिखितसर्वभद्रेष्वेकैकपंक्तिस्थसमुदयाङ्कानयनं कथितं। अस्यायमर्थः। तत्र भद्रं सर्वं पंक्तिकोष्ठसंख्यास्वेकमपास्य तदर्द्धीकृत्य तत्संख्यया संगुणय्य तस्मिन्नादि संयोज्य तदेकपंक्तिकोष्ठसंख्यया गुणयेत्। तत्फलमेकपंक्तिस्थाङ्कः समुदायो भवतीति।
-
-
 
 इति देव्या यन्त्रभेदास्तवोक्ताः सर्ब्बसिद्धिदाः।  
 अशेषं देवि ते प्रोक्तं यन्त्रसिद्ध्यभिधागमे॥१००॥
@@ -8745,8 +7897,6 @@ OXFORD,
 
 –—–—
 
-
-
 **अथ षोड़शनित्यानां विद्या कौतुकिनामिह।  
 चमत्कारकरीं विद्यां वक्ष्यामि शृणु सुन्दरि॥१॥**
 
@@ -8768,8 +7918,6 @@ OXFORD,
 
  शुचिरित्यादिना विग्रहेत्यन्तेन श्लोकद्वयेन सिद्धसारस्वतविद्यास्वरूपमुपदिशति। तत्र शुचिः ऐकारः स्वेन विन्दुना सहेति शेषः। ततः अनन्तरम्-
 
-
-
 **पुनश्च हंसहृद्धंसद्वयदाहवनैरपि।  
 समायैरुदिता विद्या पञ्चार्णामृतविग्रहा॥६॥**
 
@@ -8789,8 +7937,6 @@ OXFORD,
  पटलेत्यादिना श्लोकेनास्मिन् पटले प्रोक्तानां विद्यानामङ्गध्यानयोः परिभाषोच्यते। तत्र अनुक्तानां विद्यानामित्यर्थः। निजविद्यया स्वस्वविद्यया षोढ़ाविभिन्नेनाद्यवीजेन गुरूक्तक्रमेणेत्यर्थः। मायया हृल्लेखया दीर्घस्वरषट्कभिन्नयेत्यर्थःI वा विकल्पे। आद्यामृतविग्रहा ध्यानमिति यावत्। चः समुच्चये। अनुदीरिते ध्याने इति शेषः। एतदुक्तं भवति अनुदीरिते ध्याने सति तत्तद्देवतानां ध्यानममृतेश्वरीध्यानमेवेति ॥७॥
 
  पयोब्रत इत्यादिभिर्महाद्भूतमित्यन्तैस्त्रिभिः श्लोकैर्विद्यासाधनप्रकारं सिद्धविद्यासारस्वतविद्यया दिव्यप्रयोगञ्चोपदिशति। तत्र पयोव्रतः क्षीराहारी। कुलसुन्दरीं ध्यात्वा पञ्चदशे पटले प्रोक्तकुलसुन्दरीविग्रहं ध्यात्वेत्यर्थः। सिद्धमनुः सिद्धविद्याः। अनया सिद्धसारस्वतविद्यया। मन्त्रितैः दिव्यत्वान्मन्त्रिताभिरिति यावत्। तुर्विशेषे। कन्यकां अविक्षुब्धेन्द्रियामिति यावत्। चः समुच्चये। तां कन्यां ब्रूयात् ।
-
-
 
 **गङ्गाप्रवाहवत्तस्या भारती निःसरेन्मुखात्।  
 आचष्टे च त्रिकालस्थानर्थान् पृष्टा महाद्भुतम् ॥१०॥**
@@ -8813,8 +7959,6 @@ OXFORD,
  विद्येत्यादिभिरेधत इत्यन्तैस्त्रिभिः श्लोकैः मृत्युञ्जयविद्याध्यानस्वरूपमुपदिशति। तत्र दीर्घस्वरयुजा हृदा दीर्घस्वरषड्भिन्नेन सकारेण सविन्दुनेति सम्प्रदायः। स्वात्मानं निजविग्रहं चिन्तयेदिति वक्ष्यमाणप्रकारेण ॥१२॥
 
  आद्येत्यादिनाद्यर्द्धेनैतदुक्तं भवति आद्यक्षरनालं द्वितीयाक्षरदलं तृतीयाक्षरकर्णिकमूर्द्धाधोमुखं सितकमलद्वयं सङ्कल्प्यतयोरन्तराले सितकमले इति। सुधार्द्राङ्गं तत् पद्मद्वयाक्षरमौलिस्थचन्द्रकलानिःसृतसुधार्द्राङ्गं। सुमितं वर्णतः। हरिणे-
-
-
 
 **सुसितं हरिणाक्षस्रक्चिन्तापाशकरं हरम्।  
 स्वैक्येन भावयेन्नित्यं जयदीर्घायुरेधते॥१४॥**
@@ -8843,8 +7987,6 @@ OXFORD,
 
   त्रिभिरित्यादिभिः स्मरेदित्यन्तैः पञ्चभिः श्लोकैस्त्रिपुटाविद्यायाः षड़ङ्गानि साधनक्रमं सिद्धविद्यस्य प्राप्यानि फलानि तद्ध्यानं तत्परिवारध्यानञ्चोपदिशति। तत्र त्रिभिर्वीजैर्द्विरुक्तैर्वारद्वयमुच्चारितैः। तुर्बिशेषे। त्रिसहस्रकं वाराणामिति शेषः। तेन जपेन। चः समुच्चये। नरः साधकः। अत्रायुधक्रमस्तु। दक्षिणाधोहस्तादिवामाधरहस्तान्तं प्रादक्षिण्येन वोद्धव्यः। षड़भिः सम्भूयेत्यर्थः। दधाना इत्यस्यायानन्ततततरपूर्व्वश्लोकोत्तरार्द्धेन सम्बन्धः। तस्या देव्याः।
 
-
-
 **दधानाः परितस्तस्या गायन्त्यश्चपि शक्तयः।  
 परिवार्य्यं स्थितास्ताभिर्वृतां तां स्वैक्यतः स्मरेत्॥२०॥**
 
@@ -8864,8 +8006,6 @@ OXFORD,
    भूः स्वेत्यादिना सुसाधित इत्यन्तेनाध्यर्द्धेन श्लोकद्वयेन गारुड़मन्त्रस्वरूपं तत्साधनप्रकारञ्चोपदिशति। तत्र भूः ओकारः स्वेन विन्दुना सहिता इति शेषः। एतत् काकाक्षिवत् पूर्व्वीपरयोरन्वेति। हंसदाहाभ्यां हकाररेफाभ्यां अन्योन्यसुश्लिष्टाभ्यां। मरुद्वह्निक्ष्मया क्ष्मया सहितौ मरुद्वह्नी मरुच्च वद्वह्निश्च क्ष्मा चेत्यर्थः। ते चाकार ईकार ऊकाराः तेन मरुदादिवर्णाः पृथक् पृथगिति सम्प्रदायः। तेन ह्रां ह्रीं ह्रूंइत्यक्षरत्रयं निष्पन्नं। वैरिमोहीत्यक्षराणां चतुष्कं वैरिमोहीति अक्षराणां चतुष्टयस्य स्वरूपग्रहणं। गरुड़ेति च चकारेण गरुड़ इत्यक्षरत्रयस्य च स्वरूपग्रहणत्वं द्योत्यते। जवी पकारः सवह्निग्रासः वह्निना सहितो ग्रासः वह्निरितीकारस्य संज्ञाप्याग्नेयत्वसाम्यात् सम्प्रदायाच्च ईकारः। ग्रासः इति क्षकारः ईकारसहितः क्षकार इत्यर्थः। हंसहिंसद्वयं हंस इत्यक्षरहद्वयं हिंस इत्यक्षरद्वयञ्च। तथा स्वरूपग्रहणं। त्रयोविंशार्णः त्रयोविंशतिवर्णात्मकः। उपरागे चन्द्रसूर्य्ययोरिति शेषः। सुसाधितः भवेदिति शेषः। जपतर्पणहोमार्च्चादिभिरित्यर्थः॥ २२॥
 
   फणीत्यादिना जपेदित्यन्तेनार्द्धाद्येन श्लोकद्वयेन गारुड़मन्त्रसिद्धस्य प्रयोगविशेषात् फलानि तद्ध्या- नञ्चोपदिशति। तत्र पिशाचाद्यैयरित्यत्राद्यशब्दो भूतप्रेतापस्मारकृत्यादिविषयः। चः समुच्चये। त्रिविधैरुग्रैः स्थिरकृत्रिमजङ्गमा—
-
-
 
 **विषार्त्तान् त्रिविधैरुग्रैर्मूर्च्छितांश्च गतासुकान्।  
 पालयेच्छतजप्तेन तोयेनाभ्युक्षणात् क्षणात्॥२४॥**
@@ -8891,8 +8031,6 @@ OXFORD,
   प्रणवमित्यादिना दशाक्षरीत्यन्तेनाध्यर्द्धेन श्लोकद्वयेनाश्वारूढाविद्यामुपदिशति। तत्र चरहंसाग्नी इति मध्यपदलोपी समासः। तेन चरयुतहंसाग्नी इत्यर्थः। चर एकारः हंसाग्नी इकारसहितो हकारः जवी पकारः दाहो रेफः नभश्वरौ मकारसहितो एकारः। शून्याम्बु दिव्यत्वात् शून्याम्बुनो इति यावत्। अत्र वियच्छब्दस्य पर्य्यायत्वात् सम्प्रदायाच्च शून्यमिति शकारः वकारसहितः शकार इत्यर्थः। सदाहोग्निः इकारसहितो रेफ इति यावत्। हृदम्बुमरुदन्वितः हृत् सकारः अम्बु वकारः आकारसहितः स्वकारः। हंसः हकारो मरुता युक्तः आकारसहितः॥२७॥
 
    षड़ङ्गेत्यादिभिर्विद्ययेत्यन्तैरर्द्धाद्यैः षड़भिः श्लोकैरश्वारूढ़ाविद्यया अङ्गानि
-
-
 
 **ततो यमुद्दिश्य जपं निशि कुर्य्यादयत्नतः।  
 समानयेत् स्वगेहे तमानाशात् प्रोक्तकारिणम्॥२९॥**
@@ -8921,9 +8059,6 @@ OXFORD,
 
   प्रणवमित्यादिना श्लोकेनान्नपूर्णाख्यां सप्तदशाक्षरविद्यामुपदिशति। तत्र नमसा नमः पदेन प्रणवादनन्तरं नम इत्यक्षरद्वयं। तथा समुच्चये। भगवतीति भगवति इति चतुरक्षराणि माहेश्वरीति माहेश्वरि इति चतुरक्षराणि अन्नपूर्णे स्वाहेति अन्नपूर्णे स्वाहा इति षड़क्षराणि तन्मनुः अन्नपूर्णाविद्या॥३५॥  
 
-
-
-
 **विधाय माययाङ्गानि जपेद्बिद्यामहर्मुखे।  
 सहस्रवारं नियतं न तस्य स्याद्दरिद्रता॥३६॥**
 
@@ -8950,8 +8085,6 @@ OXFORD,
 
  हंसेत्यादिना सिद्धिदावित्यन्तेन श्लोकद्वयेन नवात्सकयोर्विद्यस्वरूपमुपदिशति। तत्र हंसहृदुग्रासनभसां हकारसकारक्षकारमकाराणां। रसाम्बुव्याप्तदाहकैः लकारबकारयकाररेफैः सहितानामिति। तैरक्षरैः। तस्य नवात्मक-
 
-
-
 **तस्यैव क्ष्माक्षरं हित्त्वा वह्निं तत्र प्रयोजयेत्।  
 नवात्मिका तु ते विद्या द्वावेतौ सर्वसिद्धिदौ॥४२॥**
 
@@ -8974,8 +8107,6 @@ OXFORD,
   प्रणवमित्यादिना श्लोकेन देवीहृदयविद्यास्वरूपमुपदिशति। तत्र प्रणवं प्रथममक्षरं त्रिपुटान्त्यार्णं त्रिपुटा- विद्यायास्तृतीयाक्षरं कामवीजं। एतद्देवीहृदयविद्याया द्वितीयाक्षरमित्यर्थः। नमसा नम इत्यक्षरद्वयेन तृतीयचतुर्थाक्षरभूतेन चतुरक्षरी सम्भूयेति यावत्॥४३॥
 
   ध्यानमित्यादिभिर्विजयावहेत्यन्तैः चतुर्भिः श्लोकैः देवीहृदयध्यानं सकलमन्त्रविद्याभिस्तत्तद्देवतानां स्वप्नकथ- नफलावाप्त्यादिकञ्चोपदिशति। तत्र ध्यानमुक्तं अमुष्याः अस्या देवीहृदयविद्याया ध्यानं एवमुक्तमिति यावत्। तुर्बिशेषे। सर्व्वमङ्गलां ध्यायेदित्यर्थः। अत्रौषधयोः संज्ञा गुरुमुखादवगन्तव्या। तत्पत्रवारिणा स्वर्णपुष्पीपत्रवारिणा। भूमौ दर्भसञ्चरे मृगत्वचि वेति सम्प्रदायः। सुशुभे निद्राविरोधकरकीटादिरहिते। तल्लिप्ताज्ञाकण्ठहृत्कः प्रोक्तौषधद्वयलिप्ताज्ञाकण्ठहृत्कः तत्राज्ञेति भ्रुवोर्मध्यं। तत्र आलिप्तस्थानत्रये लिखितमायकः
-
-
 
 **देवीहृदयविद्येयं स्त्रीणां सद्यः फलप्रदा।  
 सौभाग्यलक्ष्मीकीर्त्त्यायुरारोग्यविजयावहा॥४७॥**
@@ -9003,8 +8134,6 @@ OXFORD,
 
  गौरीत्यादिभिर्द्वयादित्यन्तैश्चतुर्भिः श्लोकैः गौरीविद्यायाः साधनं ध्यानं सिद्धविद्यस्य प्रयोगविशेषान् फलभेदा- दिकञ्चोपदिशति। तत्र ध्यात्वेत्यादिनोत्तरार्द्धेन एतदुक्तं भवति प्रागुदीरिताश्वारूढ़ास्वरूपविद्यान्ता गौरीदेवी निजमनीषितं साधयतीति। तुर्विशेषे। निशया हरिद्रया। निजवामोरुदेशतः साधकस्य वामोरुदेशे। साध्यनामसमोपेतां साध्यसाधककर्म्मणा समोपेतां। एतां गौरीविद्यां। तम्मनाः साध्यमना इत्यर्थः। तथा यथासम्प्रदायभावनया। विद्यां गौर्य्या इति शेषः। तदैव अनया गौरीविद्यया। हयगौरीमनुद्वयात् अश्वारूढाविद्या गौरीविद्याद्वयतः अधिकाश्च सदृशाश्चेति यावत्॥५२॥
 
-
-
 **अग्निर्नादश्च तद्युक्तः तावेवाथ नभोधरौ।  
 एतद्द्वितीयं तौ स्यातां काकण्ठेति ततः परम्॥५३॥**
 
@@ -9026,8 +8155,6 @@ OXFORD,
  कृताङ्ग इत्यादिना दिनैरित्यन्तेनार्द्धाद्येन श्लोकेनाङ्गानि ध्यानं साधनक्रमं सिद्धविद्यस्य फलसिद्धिञ्चोपदिशति। तत्र मायया प्राग्वत् हृल्लेखया। तां देवीं लक्षप्रदाख्यां देवीं सर्व्वमङ्गलां सर्व्वमङ्गलासमानविग्रहां। कदलीपूगमध्यतः कदलीवनमध्ये पूगवनमध्ये बा। त्रिसन्ध्यार्च्चासमोपेतमिति क्रियाविशेषणम्। सा देवी लक्षदा लक्षस्वर्णप्रदा। दिनैः प्राग्वत्॥५५॥
 
  प्रणवमित्यादिना श्लोकेन निष्कत्रयप्रदाविद्यास्वरूपमुपदिशति। तत्र नवकेशां नवकेशामिति चत्वार्य्यक्षराणि। कनकवतिसंयुतं कनकवति इति पञ्चाक्षराणि स्वाहा इत्यक्षरद्वयं उच्चरेदिति शेषः। द्वादशार्णा सम्भूयेति यावत्। निष्कत्रयप्रदा प्राग्वन्नामतश्चार्थतश्च॥५६॥
-
-
 
 **नित्यशो गिरिशृङ्गस्यवटमूले त्रिलक्षकम्।  
 जपित्वा वर्णशो विद्यां फलमुक्तमवाप्नुयात्॥५७॥**
@@ -9053,8 +8180,6 @@ OXFORD,
   सिद्धेत्यादिना श्लोकेन मातङ्गेश्वरीविद्यास्वरूपमुपदिशति। तत्र सिद्धसारस्वतस्यादौ त्र्यक्षराणि सिद्धसारस्व- तमन्त्रस्यादद्यानि त्र्यण्यक्षराणि मातङ्गेश्वरीविद्याया अपि प्रथमभूतान्यक्षराणि त्रीणि तानि वाग्भवहृल्लेखाश्रीवीजानि। मावङ्गिन्यै इति चत्वार्य्यक्षराणि। स्वाहा इत्यक्षरद्वयं। त्रीणि प्रथमभूतानि वाग्भवादीनि प्रतिलोमानि। तन्मनुः मातङ्गेश्वरीविद्या॥६०॥
 
   द्वादशेत्यादिभिः स्मितामित्यन्तैः पञ्चभिः श्लोकैः तद्विद्याक्षरसंख्यां तदङ्गानि
-
-
 
 **मायाकृताङ्गो नित्यशस्तां प्रजपेदुदये रवेः।  
 सहस्रवारं तेनासौ सिद्धा सर्वं प्रयच्छति॥६२॥**
@@ -9082,8 +8207,6 @@ OXFORD,
 
   राज्यदे राज्यलक्ष्मीति सप्ताक्षराणि हृन्माया विसर्जनीयसहितः सकार इति यावत्। व्युत्क्रमात्त्रयं आद्याक्षर- त्रयं प्रतिलोमक्रमेणेत्यर्थः। षोड़शार्णा षोड़शाक्षराणि सम्भूयेति यावत्॥६७॥
 
-
-
 **ध्यात्वा तां विजयां विद्यां जपेन्नित्यञ्च पूजयेत्।  
 राज्यं प्रयच्छति प्रीता साधकायाविलम्बितम्॥६८॥**
 
@@ -9106,8 +8229,6 @@ OXFORD,
   प्रणवमित्यादिनाऽनिशमित्यन्तेन श्लोकद्वयेन महालक्ष्मीविद्यास्वरूपमुपदिशति। तत्र श्रीपुटां मायां श्रीवीज- पुटितहृल्लेखां कमले इत्यक्षरत्रयं कमलातोलये कमला इत्यक्षरत्रयात् परं लये इत्यक्षरद्वयं। प्रसीदद्वितयं प्रसीद प्रसीद इति षड़क्षराणि। आद्यत्रयं श्रीवीजपुटितहृल्लेखेति यावत्। महालक्ष्म्यै नमः इत्यक्षरषट्कं महेश्वरीति देवीसम्बुद्धिः। सप्तविंशार्णा सम्भूय इति यावत्॥७०॥
 
   वीजेत्यादिनेष्टदा इत्यन्तेन श्लोकद्वयेन तदङ्गानि तद्ध्यानं तदुपासनक्रमं तत्फलानि सर्व्वाभीष्टसिद्धिकर- भजनकालञ्चोपदिशति। तत्र वीजेत्याद्यर्द्धेनैतदुक्तं भवति अस्या विद्याया द्वितीयाद्यक्षरत्रयस्य द्विरावृत्त्या षड़ङ्गानि विहितानि स्युरिति। ध्यानञ्च विजयारूपं विजयानित्याया ध्यानमस्या अपि ध्यानमिति यावत्। विजयादोत्यत्रादिशब्दो विबिधमङ्गलत्रयगृहक्षेत्रादिविषयः। तुलास्थे तुलाराशिगते भास्करे। पूर्णायां पौर्णमास्याम्॥७२॥
-
-
 
 **ज्यासकदाहवह्निस्वान्नभो हंसो मरुद्युतः।  
 चण्डतेजश्च सङ्कर्षणवर्णाः स्युस्तदनन्तरम्॥७३॥**
@@ -9133,8 +8254,6 @@ OXFORD,
 
   आद्येनेत्यादिभिर्ध्रुबमित्यन्तैः षड्भिः श्लोकैस्तदङ्गानि तदुपासनक्रमं तत्तत्फलानि तस्या नित्योपास्यध्यानं प्रयोगध्यानादिकञ्चोपदिशति। तत्र आद्येन वीजेन प्राग्वत् स्वरभिन्नेन। तद्दशांशकं शतवारमित्यर्थः। सा सिद्धलक्ष्मीः। कृत्यादीत्यत्रादिशब्दो रोगग्रहभयादिविषयः। तस्याः सिद्धलक्ष्म्याः। देवेशीति देवीसम्बुद्धिः। मङ्गले प्रयोगे मङ्गलासमानविग्रहा। युद्धमार्गादीत्यादि-
 
-
-
 **शतशीर्षां त्रिनयनां प्रतिवक्तं भयानकाम्।  
 हस्तद्विशतसंयुक्तां स्वासमाकारशक्तिभिः॥७९॥**
 
@@ -9152,8 +8271,6 @@ OXFORD,
 शब्दो गिरिकान्तारादिपार्श्वस्थलविषयः। शृण्वित्यस्य ध्यानमिति पूर्व्वत्रान्वयः। भयानकां भीषणरूपाम्। अनन्तैः दिव्यत्वादनन्ताभिरिति यावत्। साधकाभीष्टहेतिकां तत्तत्प्रयोगानुगुणमिति यावत्॥ ८०॥
 
  प्रागित्यादिभिर्नित्यश इत्यन्तैस्त्रिभिः श्लोकैर्नित्यार्चनाचक्रनिर्म्माणादिकमुपदिशति। तत्र कृत्वा सूत्राष्टकं समान्तरालमित्यर्थः। तथा यथा प्रतिकोणमेकमेकं कोष्ठमवशिष्येत तथेत्यर्थः। तदन्तः वीथ्याभिति शेषः। त्रयं कोष्ठत्रयं। एतदुक्तं भवति। द्वितीयवीथ्यां प्रतिदिशं मध्ये एकमेकं कोष्ठमवशिष्यते तथा मार्जयेदिति। मध्यादि एतत् क्रियाविशेषणं। सर्व्वमध्यकोष्ठे आद्यमक्षरं यथा तथेत्यर्थः। मन्त्रवर्णान् षोड़श अवशिष्टानिति यावत्। नाम साध्यादीनां प्राग्वन्मध्यकोष्ठलिखितवीजोदरे इति यावत्। मध्ये इत्यनन्तरश्लोके वक्ष्यमाणत्वात्। प्रादक्षिण्यक्रमात् विलिखेदिति पूर्व्वत्रान्वयः। तत्र चक्रे अयमत्र विरचनाक्रमः। प्राक्प्रत्यग्दक्षिणोदक्कसमान्तरालं सूत्राष्टकाष्टकास्फालनादेकोनपञ्चाशत् कोष्ठात्मकं समचतुरस्त्रं विधाय तत्तद्वाह्यवीथिगतकोष्ठेषु चतुर्विंशत्यां प्रतिदिशं मध्यस्थमध्यस्थकोष्ठपञ्चपञ्चकमेकीकृत्य तदन्तर्वीथीस्थकोष्ठषोड़शके प्रतिकोणमेकमेकं तत्तदुभयपार्श्वस्थकोष्ठाभ्यां सह त्रीणि त्रीणि कोष्ठान्येकीकृत्य शिष्टसप्तदशकोष्ठेषु सर्व्वमध्यस्थकोष्ठे साध्यादिसमेतं प्रथमं वीजं तद्बाह्यवीथीस्थेषु अष्टसु कोष्ठेष्वग्रादिप्रादक्षिण्येन तद्बाह्यवीथ्यादिकोष्ठचतुष्टये प्राग्वत्
-
-
 
 **प्रादक्षिण्यक्रमान्मध्ये पूजयेत्तत्र तां सदा।  
 समस्ताभीष्टसंसिद्ध्यै सिद्धलक्ष्मी तु नित्यशः॥८३॥**
@@ -9181,9 +8298,6 @@ OXFORD,
 
   स्थिरेत्यादिना श्लोकेन सिद्धगोपालमन्त्रस्वरूपमुपदिशति। तत्र स्थिरारसाव्याप्तवनस्वैः गकारलकारय- कारऔकारविन्दुभिः कूटरूपैः। महामनुः संज्ञया वैभवेन च। प्रणवद्वयमध्यस्थः प्रणवपुटिनः॥८८॥  
 
-
-
-
 **प्रोक्तैस्तैः पञ्चभिः काममन्त्रैरेकैकतः क्रमात्।  
 पुटनान्नामतस्तस्माद्वाणैस्तैः पुटनाद्भवेत्॥५९॥**
 
@@ -9201,8 +8315,6 @@ OXFORD,
   प्रोक्तैरित्यादिभिः क्रमादित्यन्तैस्त्रिभिः श्लोकैः षड़्विधगोपालमन्त्रस्वरूपं तदङ्गानि तदाराधनक्रम- ञ्चोपदिशति। तत्र प्रोक्तैः सप्तमे पटले सहंसेत्यादिना पञ्चत्रिंशाद्येनाध्यर्द्धश्लोकद्वेनेति यावत्। एकैकतः प्रत्येकमेकैकवीजेन। नामतः सप्तमे पटले प्रथम इत्यादिना त्रिंशाद्येनाध्यर्द्धश्लोकेन प्रोक्तकामराजादिनामानि प्रोक्तकूटस्येति यावत्। वाणैः कामराजस्य पञ्चवाणमन्त्रैः। तैः पञ्चकामवीजैः। अत्र चकारः समाहार्य्यः। तुद्वयं समुच्चये। एवं उक्तक्रमात्। एतदुक्तं भवति प्रणवेन पुटितो महामनुः सिद्धगोपालसंज्ञः मन्त्रः। पञ्चसु कामवीजेष्वेकैकवीजपुटितेन महामनुना क्रमात् कामराजगोपालमन्मथगोपालकन्दर्पगोपालमकरकेतनगोपाल- मनोभवगोपालसंज्ञाः पञ्चमन्त्राश्च सम्भूय त्र्यक्षरात्मकाः षण्मन्त्राः प्रथममन्त्रेण सह सप्तगोपालमन्त्राः सन्तीति। आद्यस्तेषु सिद्धगोपालमन्त्र इत्यर्थः। पञ्चाङ्गकः नेत्रन्यासरहित इति यावत्। इतर षण्मन्त्राः कामराजगोपालाद्याः। तत्तद्वीजादिकेन महामनुनेति शेषः। स्याद्दिव्यत्वात् स्युरिति यावत्। यथाविधीति दीर्घस्वरषट्कभिन्नक्रमेणेत्यर्थः। अष्टपत्राणां मध्यस्थां एषु सप्तस्वन्यतमां॥८१॥
 
  यन्त्राणीत्यादिभिरवाप्नुयादित्यन्तैः त्रिभिः श्लोकैस्तेषां यन्त्राणि कालस्वरूपेण वारेषु सप्तसु भजनक्रमं निवेद्यविशेषादिकञ्चोपदिशति तत्र तानि सिद्धगोपालादिसंज्ञानि। तन्मन्त्रयुतमध्यानि निजनिजमन्त्रलिखित- कर्णिकानि। वारेषु
-
-
 
 **सकलेष्टप्रदा नित्यं दुग्धक्षौद्रघृतान्नकैः।  
 पायसैर्नारिकेलैश्च ससितैः कदलीफलैः॥६३॥**
@@ -9229,11 +8341,7 @@ OXFORD,
 
   उग्रगन्धामित्यादिभिरात्मवानित्यन्तैस्त्रिभिः श्लोकैर्देवतानामपरोक्षं स्वेच्छोत्क्रान्तिं वा (च) औषधप्रयोगैरु- पदिशति। तत्र उग्रगन्धामित्यादिना श्लोकेनौषधानि सप्त कर्णिकारिमित्यादिना श्लोकेनौषधानि दश। तदौषधनामान्याराध्यमुखादवगन्तव्यानि। समं सर्व्वाणि समभागानि इत्यर्थः। सितेन शर्करया। तल्लिप्त-
 
- 
-
 शंखोटमित्यपि पाठो दृश्यते।
-
-
 
 **कर्णिकारिं हंसपदीं वाराहींमृगराजकम्।  
 कोरण्टं पिप्पलं मूलं त्रिफलं चूर्णयेत् समम्॥६८॥**
@@ -9258,12 +8366,8 @@ OXFORD,
 व्याख्यायां लिङ्गयन्त्रप्रकाशनपरं चतुस्त्रिंशं पटलं  
 परिपूर्णं परामृष्टम्॥३४॥ॐ तत्सत्॥**
 
-
-
 ग्रन्थसंख्याः २३९—चतुस्त्रिंशे तु पटले व्याख्याग्रन्थाः शतद्वयम्।  
             षट्त्रिंशतायुतं प्रोक्तं यन्त्राण्यष्टौ च तत्र वै॥
-
-
 
 **पञ्चस्त्रिंशपटलम्**  
 
@@ -9282,8 +8386,6 @@ OXFORD,
 
   पूर्व्वस्मिन् पञ्चत्रिंशे पटले षोड़शनित्याविद्यासिद्धानां लोकचमत्कारान् प्रयोगान् विद्याभिरुपदिश्यानन्तरं षोड़शनित्यादीनां तत्तत्परिवारशक्त्यादीनाञ्च स्वात्मत्वेन वासनादिकं विद्यास्वरूपभेदेन प्रस्तारप्रकारादिकञ्चोपदिशति अथ षोड़शेत्यादिना सिद्धय इत्यन्तेन श्लोकशतरूपेण पञ्चत्रिंशेन पटलेन। अथ षोड़शेत्यादिभिः प्रपञ्चतेत्यन्तैः त्रयोविंशत्या श्लोकैर्गुरुपूजादिकं मुद्रादर्शनान्तं नित्यास्वरुपपरिवारन्यासजपतर्पणहोमाभिषेकोपचारादीनां वासनामुपदिशति। तत्र षोड़शनित्यानां परिवारादिसहितानां। स्वात्मत्वे देहेन्द्रियमनःप्राणाद्याकारेण प्रतीयमानात्मस्वरूपत्वे। यया वासनया। तन्मयतासिद्धिः नित्यात्मतासिद्धिः। प्रत्यक्षा अपरोक्षानुभवविषया। आद्याविमर्शमन्तरेण किञ्चिदपि सुस्फुटं ज्ञातुमशक्यत्वात्। सा रूसंवेद्यस्वरूपेत्यर्थः। विमर्शमयी विमर्शमात्रविग्रहा। एतदुक्तं भवति आद्याविमर्शविग्रहा शक्तिरेव गुरुरिति। तस्य गुरोः। रन्ध्रत्वेन नवरन्ध्रत्वेन। एतदुक्तं भवति यथा रन्ध्रैरुपादेयग्रहणमनुपादेयमोचनञ्च क्रियते तथाविमर्शपरमार्थस्य गुरोः कटाक्षे साधकानां अर्थप्रवृत्तिरनर्थादुपरतिश्च। अत्र श्रोत्रद्वयं वाक् च दिव्यं त्रयं दृग्द्वयमुपस्थं च सिद्धं उत्तरत्रयं मानुष्यमिति सम्प्रदायः। स्वमायाः अतम्मिंस्तद्धुद्धिं जनयित्वा उन्मार्गप्रवर्त्तिकाः शक्तयः। पञ्चमी ब्राह्म्यादिषु पञ्चमीत्वात् वाराहीत्यर्थः। जनकात्मिका साधकानां जनकवदभिभवस्य स्तम्भनकरी शक्तिरिति यावत्। कुरुकुल्ला माता
 
-
-
 **रत्नद्वीपो भवेद्देहो नवत्वं धातुरोमभिः।  
 सङ्कल्पाः कल्पतरवः स्वाधारा ऋतवः स्मृताः॥४॥**
 
@@ -9300,8 +8402,6 @@ OXFORD,
 
   ज्ञाता स्वात्मा पूजक इति यावत्। ज्ञानं स्वकीयं अर्घ्य पूजोपकरणमिति
 
-
-
 **श्रीचक्रे सिद्धयः प्रोक्ता रसा नियतिसंयुताः।  
 ऊर्म्मयः पुण्यपापे च ब्राह्म्याद्या मातरः स्मृताः॥७॥**
 
@@ -9317,8 +8417,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 यावत्। ज्ञेयं वहिःस्थितं ज्ञातुरिति शेषः। श्रीचक्रं पूज्यमिति यावत्। पूजनं श्रीचक्रस्येति यावत्। तेषां ज्ञातृज्ञानज्ञेयानां एकीकरणं वोधात्मकत्वेनेति यावत्। एतदुक्तं भवति स्वात्मनो भिन्नवत् प्रतीयमानज्ञातृज्ञानज्ञेयात्मकेषु त्रिष्वपि स्वात्मस्वरूपत्वेन प्रतीयमानो ज्ञाता पूजकः स्वकीयत्वेत प्रतीयमानं ज्ञानं पूजोपकरणं अर्घ्यं स्ववाह्यत्वेन प्रतीयमानं ज्ञेयं पूज्यं श्रीचक्रं। तेषां वोधात्मकत्वेनापृथग्भावः पूजनमिति। श्रीचक्रे सिद्धय इति अणिमाद्याः रसाः शृङ्गारादयो नव। नियतिसंयुताः नियतिसिद्ध्या शक्त्या सहिता वा सम्भूय दश शक्तय इत्यर्थः। ऊर्मयः वुभुक्षापिपासाशोकमोहजरामृतयः। पुण्यपापे कर्म्मणी सम्भूयाष्टौ। भूतेन्द्रियमनांसि भूतानि पञ्चेन्द्रियाणि दश च मनसा सहितानि षोड़श।कर्मेन्द्रियार्थाः वचनादानविहरविसर्गानन्दाः। दोषा वातादयः। प्रोक्ताः सप्तविंशतिपटले इति यावत्। संप्रोक्ताः प्राक्पटले। अत्रातिरहस्यार्थाः मयोक्तवासनाविमर्शिन्यां द्रष्टव्याः। वह्नयो दश धातुषु सप्तदोषेषु त्रयश्च सम्भूय दशेति यावत्। संप्रोक्ताः अस्मिन् पटले उत्तरत्राग्निरित्यादिना पञ्चाशत्तमेन श्लोकेन। गुणाः सत्त्वादयः। तन्मात्त्राः शव्दस्पर्शरूपरसगन्धाः पञ्चतत्त्वरूपाः। तेषां पुष्पसायकत्वं प्रमुखे अभिमुखरूपतया परिणामे पुरुषरूपतया वा। मनस्तत्त्वं इक्ष धनुः विषयपरमार्थस्वरूपाणां शरसमेन्द्रियाणां तत्तद्विषयेषु प्रेरकत्वात् इन्द्रियाणां तदर्थानां मनसश्च प्रवृत्तिरूपेण
-
-
 
 **वशिन्याद्याः शक्तयः स्युस्तन्मात्राः पुष्पसायकाः।  
 मनो भवेदिक्षुधनुः पाशो राग उदीरितः॥११॥**
@@ -9341,8 +8439,6 @@ OXFORD,
 
   द्वेषः स्यादङ्कुशः द्वेष्याद्वारकत्वात्। वरवर्णिनीति सम्बुद्धिः। अव्यक्ताहङ्कृतिमहदाकाराः प्रतिलोमतः महदहङ्कृतिः अव्यक्तक्रमात्तदाकारा इत्यर्थः। अत्राव्यक्तशब्देन प्रकृतितत्त्वं महच्छब्देन वुद्धितत्त्वं अहङ्कृतिशब्देनाहङ्खारत्वमुच्यते। सम्बित् कामेश्वरः सकलात्मकं चैतन्यं कामेश्वर इति यावत्। स्वात्मा विविधविश्वविकल्पात् स्वस्वरूपतया विलाप्य सद्वस्तु भासते स स्वात्मा देवता द्योतमानत्वात्। ललिता निरवद्यरूपत्वात् विश्वविग्रहा श्रातृज्ञानज्ञेयविग्रहा। तद्विमर्शः स्वात्मविमर्शः स्वात्मानुसन्धानमिति यावत्। एतदुक्तं भवति सर्व्वस्य स्वात्मन्यनुरागात् कस्मिंश्चिद्विषयेप्यनुरागादेव मनसः स्थित्यभावाच्च तदनुरागो लौहित्यमिति। इति भावना स्वात्मभावनासिद्धिः। फलमुपास्तेरिति यावत्। तुरवधारणे। अनन्यचित्तत्वं स्वात्मत्वे साधनास्थैर्थ्यादिति यावत्। मुद्राः योनिमुद्रादिसकलमुद्राः। वैभवभावनं उत्तरत्र वक्ष्यमाणप्रकारात् आत्मन इति यावत्। चलत्वेपि अनुसन्धानसमयेपि स्वप्नादावपीत्यर्थः। तन्मयत्वात् अप्रमत्तता स्वस्वरूपभावस्थैर्य्यं। (?) एतदुक्तं भवति। सतीति सम्बुद्धिः। असत्कारः स एवोपचार इति यत्तस्मात् सति सम्बुद्धिः सत्कारः
 
-
-
 **यन्त्राणि मन्त्राः सर्वत्र स्वात्मत्वे स्थैर्य्यसाधनम्।  
 सन्ध्यासु भजनं देव्या आदिमध्यान्तमज्जनम्॥१६॥**
 
@@ -9360,8 +8456,6 @@ OXFORD,
 स एवोपचार इति (?)। प्रयोगाः अभिमतसिद्धिकराः अनभिमतनिवारकाः क्रियाविशेषाः। तुरबधारणे। विकल्पानां हेतोः विकल्पानां हेतुरविवेकः तस्य। स्वात्मनि विमर्शरूपे। एतदुक्तं भवति स्वात्मत्ववासनया दुर्वासनानाशः। प्रयोगा इति यन्त्राणि मन्त्राः प्रयोगसाधनानि यन्त्राणि मन्त्राश्चेत्यर्थः सर्व्वत्र विषये। स्वात्मत्वे स्वात्मत्ववासनायामित्यर्थः। यत् स्थैर्य्यसाधनं स्थैर्य्यकरणं। एतदुक्तं भवति स्वात्मत्ववासनास्थैर्य्यसाधनं विमर्शः
 तद्वासनास्थैर्य्यपरमार्थप्रयोगसाधनभूतानां यन्त्रमन्त्राणां स्वात्मनोः विश्वात्मनोरैक्यवाक्यनिर्णीतनिरूपणपरत्वेन विमर्शात्मकत्वात्तानि तद्वासनास्थैर्य्यसाधनानीति। तत्र सकलमन्त्रात्मिकायाः श्रीविद्यायास्त- दपृथग्भावनिर्णयनिरूपणपरत्वमुत्तरत्र वक्ष्यति। सकलयन्त्रात्मकस्य श्रीचक्रस्यापि तदात्मकत्वे “कालो धामानि भूतानि नवचक्राण्यनुक्रमादिति” नित्याषोड़शिकार्णवे प्रोक्तं। आदिमध्यान्तमज्जनं (वर्जनं) अनुस्यूतरूपतया त्वपरिच्छिन्नतानुसन्धानं। एतदुक्तं भवति देव्याः सन्ध्यासु भजनं स्वात्मनः स्वपरिच्छिन्न एवेति। अन्याः गुप्तयोगिन्यः। चक्रगामिन्यः श्रीचक्रस्था या मन्त्रविभवपटलप्रोक्ताः ताः शक्तयः। तुः समुच्चये। विश्वविकल्पानां हेतवः विश्वस्य विविधविकारप्रतीतिकराः शक्तय इत्यर्थः। तुरवधारणे। स्वात्मनः स्वस्य। एतदुक्तं भवति निजदेहे देवताविग्रहभावी न्यास इति। तन्मयतारूपभावनं श्रीविद्यात्मकत्वेन मातृकामयत्वेन च स्वस्वरूपभावनं। सम्यगीरितं
 
-
-
 **मोहाज्ञानादिदुःखानामात्मन्यस्तमयो दृढम्।  
 अभिषेकस्तु विद्या स्यादात्मा सर्व्वाश्रयो महान्॥२०॥**
 
@@ -9376,8 +8470,6 @@ OXFORD,
 चतुर्थपटले कामकलारूपेण श्रीविद्यात्मकत्वं प्रथमपटले मन्त्राणां विंशतिदोषपरिहारात्मकत्वेन मातृकामयत्वं च। तच्च षड़्विंशे पटले प्रोक्तोदयविश्रान्तिस्वरूपानुसन्धानमित्यर्थः। अस्तमयः विश्रान्तिः। एतदुक्तं भवति कनकसत्तामात्रे भूषणादीनामिव स्वरूपसत्तामात्रे विश्वविकल्पानां नित्यास्थानविलापनं होम इति। तेषां प्रोक्तानां सर्वेषां। अन्योन्यसम्भेदभावनं अन्योन्यैकभावनं। नर्पणं स्वात्मनो विश्वाकारव्याप्त्यानुभवसञ्जता तृप्तिरित्यर्थः। मोहाज्ञानादिदुःखानां कामाविष्टतया कर्त्तव्याकर्त्तव्यज्ञानाभावो मोहः विसंज्ञाप्राप्तमज्ञानम् आदिशब्दस्त्वन्यथाज्ञानसाहसादिविषयः     तैरुत्पन्नदुःखानां आध्यात्मिकादीनां आत्मनि विमर्शप्रतीतिराहि- त्यात्तदैक्यनिर्णीतरूपे। अस्तमयः उपशान्तिः। दृढ़ं अपुनः प्ररोहयोग्यं। तुर्विंशेषे। सर्वाश्रयः तादात्म्यात्। महान् विभुत्वात् सर्व्वशक्तित्वाच्च। उपाधीनां देहादिविकारकारणभूताः सत्त्वादिगुण उपाधयः तेषां। तुरवधारणे। राहित्यं स्वात्मन इति शेषः। एतदुक्तं
 
 भवति रजःपङ्कादिभिराकाशस्येव सत्वादिगुणैस्तदुत्पन्नविकारैश्चलेप्यत्व भावनोपदेश इति। दक्षिणा गुरोः। भेदशून्यत्वं तस्मिन्नात्मसमर्पणात्। शुश्रूषा गुरोः स्थैर्य्यं आत्मज्ञानस्येति यावत्। तिथिरूपेण सितासितपक्षयोः परिणामावलोकनं चन्द्रमण्डले सितासितकल्पनं। एता नित्याः पञ्चदश कामेश्वरीनित्याद्याः। एतदुक्तं भवति चन्द्रमण्डले सितासितकलानां वृद्धिक्षय हेतुस्तिथिकृतः काल इति यतस्तस्मात्तिथिरूपकालात्मिकाः कामेश्वर्य्यादिनित्या इति। किञ्च तिथिनित्यानामवान्तरकालात्मकत्वं ताभिरवान्तरकालात्मिकाभिश्चन्द्रमण्डलत्वेनोपलक्षितस्य प्रपञ्चस्य कार्य्यमाणत्वं तासां महानित्यात्मकस्वस्वरू- पेणापृथक्त्वभावनया तदुपास्तिश्चोक्तेति सम्प्रदायार्थः। कनिष्ठाद्याः अङ्गुल्यः। तेषां
-
-
 
 **पृथिव्यादीनि भूतानि कनिष्ठाद्या क्रमान्मता।  
 तेषामन्योन्यसम्भेदप्रकारैस्तत्प्रपञ्चता॥२३॥**
@@ -9396,8 +8488,6 @@ OXFORD,
 अङ्गुल्यात्मकपञ्चभूतानां। अन्योन्यसम्भेदप्रकारैः अन्योन्यसम्बन्धप्रकारभेदैः। तत्प्रपञ्चता स्वात्मनो मुद्रापरमार्थरूपभेदयोगविशेषः प्रपञ्चता॥ २३॥
 
  ललिताया इत्यादिभिः तन्निफालनमित्यन्तैर्व्याकुलाक्षरक्रमलिखितैस्त्रिभिः श्लोकैराद्याया ललिताविद्याया अक्षरवाच्यमर्थमुपदिशति। तत्र ललितायाः श्रीविद्यातार्तीयखण्डस्येति यावत्। त्रिभिः परिमितः सकलार्थः सकलशब्दार्थः। शेषेण अक्षरेण। तुः समुच्चये। तेन प्रोक्तप्रकारावयवार्थाः तार्त्तीयखण्डसमुदायभावात्। इदं अनन्तरवक्ष्यमाणार्थस्वरूपं। अशेषतो जगत् कृत्स्नं तेन समष्टिरूपं। व्यष्टिरूपं जगदिति यावत्। हृल्लेखात्मकं शक्तिमयं। ईश्वरीति देवीसम्बुद्धिः। तस्याः हृल्लेखायाः। चः समुच्चये। अर्थः अक्षरवाच्यः। तुरवधारणे। कथितः अनन्तरवक्ष्यमाणश्लोके। सर्व्वतन्त्रेषु एतस्मात् तन्त्रादन्येषु गोपितः अतिरहस्यत्वात्। व्योम्ना आकाशाक्षरेण प्रथमेन प्रकाशमानत्वं आकाशस्य स्फुरणात्मकत्वात्। स्वातन्त्र्येण इतरप्रकाशनैरपेक्ष्यं। ग्रासत्मानत्वं स्वस्वरूपतया। अग्निना अक्षरेण द्वितीयेन अग्नेरपि तादात्म्येन ग्रासात्मकत्वात्। तयोः प्रकाशग्रासरूपयोः । विमर्शः तादात्म्य परमार्थमेलनं। निफालनं तादात्म्यविमर्शनिर्णीतिः। एतदुक्तं भवति। हृल्लेस्वास्थेन व्योमाक्षरेण स्वात्मनः प्रकाशरूपत्वं वह्न्यक्षरेण ग्रासात्मकत्वं तदुभयपरमार्थविमर्शरूपेण शिवशक्तिसंमेलनात्मकेन चतुर्थस्वरेण तदात्मकत्वेन तस्य परमार्थस्वरूपविन्दुना तद्वैविध्यप्रतीतिराहित्यात् तदैक्यनिर्णीतिश्च क्रियत।
-
-
 
 **अथ मन्त्रविनिर्म्माणविधानमभिधीयते।  
 मन्त्रवीर्य्यसुसिद्धानामितरेषां विशेषकृत्॥२७॥**
@@ -9420,8 +8510,6 @@ OXFORD,
 
  षड़ित्यादिभिः समुन्नयेदित्यन्तैस्त्रिभिः श्लोकैस्त्राक्षरमन्त्रमारभ्य नवांक्षरमन्त्रावधि सप्तविधस्य वीजाभिधानस्य मन्त्रजातस्य अक्षरसन्दर्भविकल्पजनितसंख्याक्रममुपदिशति। तत्र षट् त्र्यक्षरमन्त्रस्य भेदाः। एतदुक्तं भवति एकस्य द्वाभ्यां त्रिभिश्च संगुणनाज्जाताः षट्संख्याः त्र्यक्षरभेदा इति। चतुर्विंशति दिव्यत्वाच्चतुर्विंशतिरित्यर्थः। चतुरक्षरमन्त्रस्येति यावत्। त्र्यक्षरभेदषट्कं चतुर्भिः संगुणय्य चतुर्विंशतिसंख्या लब्धा इत्यर्थः। शतं विंशतिसंयुतं पञ्चाक्षरमन्त्रभेदा इति यावत्। चतुरक्षरभेदानां पञ्चभिः संगुणनाज्जाता इत्यर्थः (१२०)। सविंशति सप्तशतं विंशत्यधिकं सप्तशतमित्यर्थः (७२० ) षड़क्षरमन्त्रभेदा इति
 
-
-
 **सहस्रपञ्चकं पश्चाच्चत्वारिंशत्सहस्रयुक्।  
 त्रिशतं विंशति ततस्त्रिलक्षेण समन्वितम्॥३२॥**
 
@@ -9440,8 +8528,6 @@ OXFORD,
 
   प्रस्तारेत्यादिभिश्चोदिता इत्यन्तैर्दशभिः लोकैस्तेषां मन्त्राक्षरसन्दर्भभेदानां प्रस्तारक्रमानुपदिशति। तत्र एतेषां भेदानां। देवीति सम्बुद्धिः। एतैः प्रकारैः। एवावधारणे। मन्त्रपदभेदान् मन्त्रेषु पदानां भेदान्। त्रिर्य्यग्रेखाद्वयं सव्यदक्षिणरेखाद्वयं। एकाङ्गुलान्तरालमिति। तत्र रेखाद्वयोर्मध्ये।अधोर्द्धाः दिव्यत्वादधऊर्द्ध्वरूपा इत्यर्थः। रेखाश्चतस्रः एकैकाङ्गुलान्तरालमिति यावत्। एष त्याक्षरभेदविन्यासयतन्त्रप्रकारः। पञ्चैवमृज्वाकारा दशावधि चतुरक्षरादिभेदविन्यासे पञ्चषट्सप्ताष्टनवदशरेखाः क्रमाल्लिखेदित्यर्थः। तदधो वर्द्धयेद्रेखाः
 
-
-
 **तदधो वर्द्धयेद्रेखास्तत्तत्संख्याङ्गुलावधि।  
 तिर्य्यग्रेखास्तावतीश्च कृत्वा तेष्वङ्कमालिखेत्॥३६॥**
 
@@ -9455,8 +8541,6 @@ OXFORD,
 
 तदूर्द्ध्वाधोरेखाः अधो वर्द्धयेत्। तत्तत्संख्याङ्गुलावधि तत्तदभेदसंख्याङ्गुलावधि तत्तद्भेदसंख्याङ्गुलिभिः। तिर्य्यग्रेस्वास्तावतोश्च कृत्वा पूर्व्वलिखितद्वितीयतिर्य्यग्रेस्वाग्रैस्तावतीश्च कृत्वा पूर्व्वलिखितद्वितीयतिर्द्धयेस्तिर्य्यग्रेखादितत्तद्भेदसंख्यास्तिर्य्यग्रेस्वाश्चैकैकाङ्गुलान्तरालं लिखित्वेत्यर्थः। तेषु कोष्ठेषु अङ्कं प्रथमाक्षरस्य प्रथममङ्कं द्वितीयाक्षरस्य द्वितीयमङ्कमेवमेवमुत्तरत्राप्यक्षरसंख्यमङ्कमिति यावत्। एतदुक्तं भवति। प्राक्प्रत्यग्दक्षिणोदक् च सूत्रचतुष्टयं सप्तक्रमेणास्फालनात्तिर्य्यग् रूपेण कोष्ठत्रयकोष्ठत्रयोपेताः षट् पंक्तयो जाताः। तासु पंक्तिषु त्र्यक्षरभेदषट्कं विलिखेत्। एवमुत्तरत्रापि तिर्य्यग्रूपतत्तदक्षरसंख्यकोष्ठोपेतास्तत्तद्भेदसंख्यपंक्तीरधोधः परिकल्प्य तत्र तत्र तद्भेदान् विलिखेदिति। सव्यदक्षस्थितेष्वेषु कोष्ठष्विति यावत्। कोष्ठपंक्तिषु कोष्ठानां पंक्तिषु। अनुक्रमात् ऊर्द्ध्वाद्यधोधः। आद्ये कोष्ठे प्रतिपंक्तिष्विति यावत्। द्विद्विक्रमात् द्वद्विपंक्तिक्रमात् एकमेकं खण्डं परिकल्प्येति यावत्। चोदितान् अक्षरसंख्योपलक्षणभूतानिति यावत्। एतदुक्तं भवति। तिर्य्यग्रूपत्रित्रिकोष्ठात्मिकासु पंक्तिषु षट् (सु) सूत्राधरद्विद्विपंक्तिक्रमात् एकमेकं खण्डं परिकल्प्य प्रथमखण्डपंक्त्योराद्येत्वाद्ये कोष्ठे प्रथमप्रथममङ्कं द्वितीयखण्डपंक्तिद्वयस्याद्ये त्वाद्ये कोष्ठे द्वितोयं द्वितीयमङ्कं तृतीयखण्डपंक्तिद्वयस्याद्ये त्वाद्ये कोष्ठे तृतीयं तृतीयमङ्कं चैवं अक्षरभेदषट्कन्यासे न्यसेदिति। एतेन क्रमेण। अन्यत्र सर्व्वत्र चतुरक्षरादि नवाक्षरान्ततत्तद्भेदन्यासे इति यावत्। एतदुक्तं भवति चतुरक्षरादिनवाक्षरान्तभेदप्रस्तरि तत्तङ्भेदसंख्यास्तत्तदक्षरभेदसंख्यया विभज्य तत्तत्फलसंख्याभिः पंक्तिभिरेकमेकं खण्डं परिकल्प्य प्रथमखण्डस्य पंक्तिष्वाद्ये त्वाद्ये कोष्ठे प्रथमं प्रथममङ्गमेवं द्वितीयादिषु खण्डपंक्ति
 
-
-
 **द्वितीयादिष्वपि तथा शेषान् खण्डेषु पूरयेत्।  
 \[ तृतीयपंक्तौ तु शेषैस्त्वेवमेव समालिखेत्॥३९॥**
 
@@ -9467,11 +8551,7 @@ OXFORD,
 
 ष्वाद्ये त्वाद्ये कोष्ठे द्वितीयाद्यङ्कमेवं क्ररमादाद्याद्यकोष्ठाकारेणोर्द्धाधःक्रमपंक्त्यां चोदितानङ्कान् पूरयेदिति। द्वितीयपंक्तौप्रतिपंक्तिकं द्वितीयकोष्ठात्मकोर्द्धाधःक्रमपंक्तौ। प्रथमे खण्डे शेषांस्तु पूरयेत् आद्यखण्डलिखितं व्यतिरिक्तैरङ्गैः प्राग्वदवान्तरखण्डानि च परिकल्प्य तत्तदवान्तरात्मकैकैकखण्डे त्वेकाङ्गक्रमात् शेषाङ्कान् पूरयेदिति यावत्। द्वितीयादिष्वपि तथा शेषान् खण्डेषु पूरयेत्। द्वितीयादिखण्डेष्वपि प्राग्वदवान्तरखण्डानि च परिकल्प्यतत्तदाद्यपंक्तिविलिखिताङ्कादनन्तरा(ङ्का)द्याङ्कान् लिखितान् सर्व्वांस्तत्तत्खण्डेष्वेव पूरयेदित्यर्थः। तृतीयपंक्तौ प्रतिपंक्तिकं तृतीयतृतीयकोष्ठात्मकोर्द्धाधःक्रमपंक्तौ। तुः समुच्चये। शेषैः आद्यद्वितीयकोष्ठयोः प्रतिखण्डप्रलिखिताङ्कैः। तुरवधारणे। एतदुक्तं भवति तृतीयतृतीयकोष्ठात्मकोर्द्धाधःक्रमपंक्त्यामपि तत्तत्खण्डपंक्तिषु लिखिताङ्कसंख्या भागहारेण परिकल्पिततत्तदवान्तरावान्तरखण्डानि लिखेत् शेषाङ्केः पूरयेदिति। चतुर्थादिषु प्रतिखण्डचतुर्थपञ्चमादिकोष्ठात्मकोर्द्वाधःक्रमरूपपंक्तिष्वित्यर्थः। तथा तत्तच्छिष्टाङ्कानुगुणं तत्तदवान्तरखण्डानि परिकल्प्य तत्तत्खण्डानि तत्तच्छिष्टाङ्कैः पूरयेदित्यर्थः। नवमान्तं एवं क्रमात् प्रागुक्तनवमकोष्ठात्मकपंक्तिपर्य्यन्तं। अनभ्यस्तक्रमं विभिन्नक्रमं। अयमत्र प्रस्तारक्रमः। आदिनवाक्षराभीष्टाक्षरसंख्याकोष्ठात्मकात्मकांस्तत्तद्भेदसंख्याःपंक्तोस्तिर्य्यग्रूपेण निष्पाद्य तत्तत्पंक्तिसंख्यां तत्तदभीष्टाक्षरसंख्यया विभज्य तत्तल्लब्धसंख्याभिः पंक्तिभिरेकैकखण्डक्रमात्तत्तदक्षरसंख्यानि खण्डानि परिकल्प्यतत्तत्खण्डपंक्तिष्वाद्ये त्वाद्ये कोष्ठे प्रथमाद्यङ्कानक्षरसंख्योपलक्षितान् विन्यस्य पुनस्तत्तत्खण्डपंक्तिसंख्यामपि तत्तच्छिष्टाङ्कसंख्यया विभज्य तल्लब्धसंख्यया तत्तदवान्तरतत्तदवान्तरादिखण्डानि चैवं क्रमादूर्द्धाधः क्रमरूपोपान्त्यकोष्ठपंक्त्यामेकैकतिर्य्यक्पंक्त्यैकखण्डं यथा तथा परिकल्प्य तेष्वङ्कान्
 
-
-
 विन्यस्य तत्तत्पंक्तिषु परिशिष्टे अन्त्यकोष्ठे तत्तत्पंक्तिषु लिखितमङ्कं न्यसेदिति। अत्र षड्‌भेदप्रस्तरि उदाहरणं। अक्षरत्रयस्य भेदषट्‌कत्वं तिसृभिः संख्याभिः षट्कं विभज्य लब्धे द्वे तस्मात् द्वाभ्यां द्वाभ्यां पंक्तिभ्यामेकं खण्डं पारकल्प्य प्रथमखण्डपक्तोराद्ये कोष्ठे प्रथममङ्कं द्वितीयखण्डपंक्त्याद्याद्यकोष्ठे द्वितीयं द्वितीयमङ्कं तृतीयखण्डाद्याद्यकोष्ठे तृतीयमङ्कं विन्यस्य पुनस्तच्छिष्टाङ्कसंख्याद्वयेन प्रतिखण्डपंक्तिद्वयं विभज्य लब्धमेकं तस्मादवान्तरखण्डमेकैकपंक्त्या परिकल्प्य तत्तत्प्रथमखण्डशेषभूतद्वितीयं तृतीयं तत्तद्वितीयखण्डशेषं तृतीयं प्रथमञ्च तत्तत्तृतीयखण्डशेषं प्रथमं द्वितीयं च तत्तद्द्वितीयकोष्ठे क्रमाद्विन्यस्य तत्तदन्यकोष्ठात्मकोर्द्धाधःपंक्तिकोष्ठषट्के तत्तत्तिर्य्यग्रूपपंक्तिशेषमङ्कं तृतीयं द्वितीयं प्रथमे प्रथमं तृतीयं द्वितीये तृतीये द्वितीयं प्रथमञ्च विन्यसेत्। अङ्कतोप्यूर्द्धादिषट्पंक्तिषु न्यासः। एवमुत्तरत्रापि कल्पनीयः। अभीष्टाक्षरसंख्याभेदेषु उद्दिष्टभेदसंख्याक्रमोयं लिख्यते। अभीष्टसंख्याक्षराणि क्वचिदङ्करूपेण पंक्तिशः स्थापयित्वा तत्तद्भेदेषूद्दिष्टसंख्याखण्डगतपंक्तिसंख्यया शेषमशून्यं यथा तथा विभज्य तदशक्यं चेत् फलं शून्यं परिकल्प्य तत्तत्फलं शून्यफलञ्च क्वचित् स्थापयित्वा भूयो भूयस्तत्तदवान्तरादिखण्डगतपंक्तिप्तसंख्यया यावदेकपंक्त्या खण्डं तावत् प्राग्वदशून्यं शेषं विभज्य तत्फलं तदधोधः संस्थाप्य तत्तत्फलं सैकं कृत्वा भागहाराभावे शिष्टमेकं तत्‌फलपंक्त्यामधः संस्थाप्य पंक्तिशेषस्थापिताभीष्टसंख्याक्षराङ्गेषु प्रथमस्थानादिप्रथमफलसंख्यैस्थानगताङ्गमाहृत्य क्वचिदुद्दिष्टसंख्यभेदस्य प्रथमस्थानगतमङ्ग संस्थाप्यानन्तरं तदन्तराद्यङ्गष्वपि तत्तद्वितीयादिफलसंख्यस्थानगताङ्कंक्रमादाहृत्याहृत्य तदनन्तरपंक्तिशः स्थापनादुद्दिष्टभेदाव्मिका विद्या भवतीति। पञ्चाक्षरसंख्याभेदेषु विंशत्यधिकशतेष्वकोनाशीतितमभेदस्य स्वरुपानयने उदाहरणं। अक्षरपञ्चकस्य पंक्तिरूपेणाङ्कन्यासः १२३४५। उद्दिष्टसंख्याता तत्खण्डपंक्तिसंख्या २४। तया विभज्य लब्धानि फलानि ३ तच्छिष्टात् ७ तदवान्तर खण्डपंक्तिसंख्यया विभज्य लब्धं १ शिष्टं फलं १ तदवान्तरखण्डपंक्तिसंख्यया २ विभज्य लब्धं फलं ० फलशून्यञ्च सैकं कृत्वा तदवशिष्टञ्च संस्थाप्य न्यासः ४५१२३। क्वचित् स्थापिताक्षरसंख्यातेष्वङ्गेषु प्रथमफलोपात्तच(न्तश्च) तुर्थस्थाने त्वेकाङ्कः द्वितीयफलोपात्त(न्त)द्वितीयस्थाने द्वितीयोङ्गः तृतीयफलोपात्त (न्तत)दनंतरस्थाने तृतीयोङ्कःप्रथमफलोपात्त(न्त) चतुर्थस्थानाङ्कः तदनन्तरस्थानाङ्गः तदधःस्था-
-
-
 
 **एवं कृते भवेद्विद्या सर्वोर्द्धा वीरवन्दिते।  
 सर्व्वधस्ताद्विलोमा सा मध्यस्था व्याकुलक्रमाः॥४१॥**
@@ -9482,8 +8562,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 वशिष्टोपात्ता(न्त)ङ्कस्तदधःस्थानङ्क एवं क्रमाल्लब्धैकोनाशीतितमविद्याभेदस्वरूपन्यास। ४१२३५। अनन्तरमभीष्टसंख्याक्षरेषु उद्दिष्टभेदस्य संख्यानयनक्रमो लिख्यते। अभीष्टसंख्याक्षराण्येकद्बित्र्यादिक्रमादङ्करूपेण पंक्तिशः क्वचित् संस्थाप्य १२३४५ तेषु प्रथमस्थानादि यावतिस्थानेषूद्दिष्टभेदस्य द्वितीयादिस्थानगतं यावति स्थानेन तत्तदङ्कं परित्यज्य तत्तदङ्कगतस्थानसंख्यामप्यधोधः संस्थाप्य तेषु सर्व्वधःस्थमङ्कंमुक्त्वातदुपरिगताङ्गेष्वेकमेकं परित्यज्य ऊर्द्धादितत्तच्छिष्टैस्ततत्खण्डतदवान्तरादिखण्डगतपंक्तिसंख्यां हत्वा संयोज्य सर्व्वाधः स्थाङ्कसंयोजनाच्चोद्दिष्टविद्याभेदस्य संख्या भवतीति। उदाहरणं अङ्कशः पञ्चाक्षरन्यासः १२३४५। उद्दिष्टभेदन्यासः ४२१३५। उद्दिष्टभेदस्य प्रथमस्थानेङ्गितस्य तच्चतुर्थस्थानगताङ्क १ तदधस्थानानन्तरादि द्वितीयस्थानेष्वित्यन्तं परित्यज्य तत्स्थानसंख्याङ्कस्तदधः स्थापितः। तदनन्तरस्थाने तृतीयाङ्कस्थित्या तमपहृत्य तत्स्थानसंख्याङ्कस्तदधः स्थापितः। तदनन्तरस्थाने तच्चतुर्थाङ्कस्य स्थित्या तत्स्थानस्थः तदधः स्थापितः। तदनन्तरे तत्पञ्चमस्थानाङ्कस्य स्थित्या तत्स्थानसंख्याङ्कस्तदधः स्थापितः। तेष्वेव संस्थाङ्कात् अनेन तदुपरिगताङ्केष्वेकमेकं परित्यज्याङ्कन्यासः २३१। तदधः स्थितमङ्कं मुक्ता तैरूर्द्धाधोङ्कैःखण्डगतसंख्यापंक्तिः तदवान्तरादिखण्डगतपंक्तिश्च तैरूर्द्धादिक्रमेण न्यस्ताङ्कैर्हत्वा हत्वा संयोज्य तदधःस्थमङ्कमेकञ्च संयोज्य लब्धसंख्यास्तदुद्दिष्टभेदत्वे एकोनाशीतितमसंख्यभेदो भवति। एवं सर्व्वत्र परिकल्पनीयं। एवं कृते प्रस्तार इति यावत्। विद्या उपदिष्टक्रमस्वरूपेति यावत्। सर्वोर्द्धा प्रथमखण्डे प्रथमपंक्तिस्थेति यावत्। वीरवन्दिते इति देवीसम्बुद्धिः। सर्व्वाधस्तात् चरमखण्डे चरमपंक्त्यामिति यावत्। विलोमा प्रतिलोमक्रमा। सा विद्या। मध्यस्था सर्व्वाद्यसर्व्वचरमपंक्त्योर्मध्यस्थ मध्यस्थाः व्याकुलक्रमाः भिन्नक्रमाः। ताभिर्विद्याभिः ललिताभेदजातानि खण्डस्वरूपाणीति यावत्। तद्यन्त्रोक्तानि तद्यन्त्रपटल-
-
-
 
 **नित्यानित्याभिदाश्चापि तद्यन्त्रपटलोदिताः।  
 अन्यास्तु तत्र तत्रैव द्रष्टव्या यत्र चोदिताः॥४३॥**
@@ -9505,9 +8583,6 @@ OXFORD,
   एषामित्यादिनोदाहृतेत्यन्तेन श्लोकद्वयेन षड्विधं देवीप्रश्नमुपदिशति। तत्र एषां पञ्चप्रकाराणां मन्त्राणां पिण्ड- कर्त्तरीवीजमन्त्रमालारूपाणां। अर्थाः स्थूलसूक्ष्मपररूपा इति यावत्। एषां मन्त्राणां। सर्वेषां पिण्डादिपञ्चविधानां। तत्सम्यक्करणं मन्त्राणां सम्यक्करणं। सिद्धस्य मन्त्रविद्यादिषुवा समुच्चये ॥४५॥
 
   रेखा इत्यादिभिः शिवात्मन इत्यन्तैस्त्रिभिः श्लोकैर्मन्त्राणामक्षरवाक्यार्थज्ञानार्थमकारादिक्षकारान्तानां मातृकाक्ष- राणां पञ्चभूतात्मकत्वप्रतिपादनपरं पञ्चाशत्कोष्ठं चक्रं तत्र तेषां लेखनक्रमं भूतात्मकक्रमञ्चोपदिशति। तत्र तिर्य्यग्दक्षिणसव्यमित्यर्थः। तेषु दिव्यत्वात् तास्वित्यर्थः। रेखास्विति यावत्। अधोर्द्धदिव्यत्वादधऊर्द्ध्वा इत्यर्थः। रेखा इति यावत्। ततस्तेन लेखनेनेति यावत्। तत्र चक्रे। सव्यादिदक्षान्तं सव्यकोष्ठमारभ्य दक्षिणकोष्ठान्तं। अर्णान् तत्तदर्णान् भूताक्षराणीति यावत्। अनुक्रमादेकैपंक्त्यामेकैकभूताक्षरदशकक्रमादिति यावत्। मायाशक्त्यभिधः मायेति शक्तिरिति च संज्ञितः। सर्गःविसर्गः विसर्जनीयस्य मूलाधारादविवक्षितपूर्व्वमुत्पत्तेः। तस्मात् कारणात्तस्य विसर्जनीयस्य । अत्र चक्रे। शिवात्मनः शिवस्वरूपस्य शक्त्यात्मन इति  
-
-
-
 
 **तत्र सव्यादिदक्षान्तं लिखेदर्णाननुक्रमात्।  
 प्राणाग्नीलाम्बुस्वात्मानः पंक्तयः पञ्च कीर्त्तिताः॥४७॥**
@@ -9537,8 +8612,6 @@ OXFORD,
 
   वात इत्यादिभि र्व्योमरूपिणामित्यन्तैर्व्याकुलाक्षरक्रमलिखितैः पञ्चभिः श्लोकैः अस्मिंस्तन्त्रे समस्तमन्त्रविद्यास्व- रूपाभिधानसङ्केतरूपाणि भूतनामानि प्रत्येकं क्रमेण दश दशोपदिशति। तत्र वर्णानां मरुतां वायव्यानामक्षराणां दशानामित्यर्थः। वर्णानां तैजसामिति दिव्यत्वात्तेजसामित्यर्थः। आग्नेयानां दशानामक्षराणां। रसाइला दिव्यत्वात् न सन्धिः कृतः। भौमानां भूमिसम्बन्धिनां वर्णानां अक्षराणां। आप्यानामप्सम्बन्धिनां वर्णानां। व्योमरूपिणां प्राग्वत् व्योमानां वर्णानां आकाशात्मकानां ॥५३॥
 
-
-
 **एतैर्नामभिरेवात्र मन्त्रोद्धारः कृतः शिवे।  
 तस्मादतीव गोप्यानि नामान्येतानि सर्वदा॥५४॥**
 
@@ -9553,8 +8626,6 @@ OXFORD,
  एतैरित्यादिना रूपिण इत्यन्तेन श्लोकद्वयेन प्रोक्तानामेषां नाम्नामस्मिंस्तन्त्रे मन्त्रोद्धारकथनपरत्वेन गोप्यत्वादस्य मन्त्रस्य च परमार्थाभिधायित्वे गोप्यत्वाच्च परमेश्वरेणैवायोग्यविषयत्वासिद्ध्यै श्लोकाक्षराणां व्याकुलक्रमलेखन- प्रकारः प्रस्तूयते। तत्र एवावधारणे। अत्र तन्त्रे। शिवे इति देवीसम्वुद्धिः। तस्मात् कारणात्। उक्तनिह्नवयोगेन अनन्तरवक्ष्यमाणश्लोकोक्तनिह्नवप्रकारेण। तुः समुच्चये। पद्यं निह्नवरूपार्थगर्भमिति यावत्। एवावधारणे। उक्तरूपिणः प्रथमपटले “चतुर्भिराद्यैः संयुक्तः” इत्यादिना त्रयोविंशादिश्लोकद्वयेनेति यावत् ॥५५॥
 
  वृत्तेत्यादिना व्याकुलाक्षरक्रमालिखितेन श्लोकेन गद्यपद्यभाषात्मनां सकलसन्दर्भाणाभिद्धारूपं व्याकुलीकरण- सम्यक्‌करणयोरैकाकारमुपायमुपदिशति। तत्र वृत्तजार्णान् अनुष्टुवादिवृत्त्रोत्पत्राक्षराणि। अङ्कैः अक्षरसंख्यासमानसंख्यैः। व्यत्यस्तक्रमयोगतः परस्परमिति यावत्। तैरङ्कैः। भेदयोजने व्याकुलीकरणसम्यक्करणे। एतदुक्तं भवति अभीष्टाभीष्टवृत्तश्लोकस्य पादाक्षरपादाक्षरसंख्यानुगुणमेकद्वित्त्र्याद्यङ्कान् पंक्तिरूपेण विलिख्य तेषु द्वौद्वावङ्कौ परस्परसर्व्वमङ्कं भिन्नक्रमं यथा तथा विन्यस्य तत्तत्‌क्रमाङ्कगर्भं पद्यं कृत्वा तेन व्याकुलीकरणं सम्यक्ककरणञ्च कुर्य्यादिति। तस्योदाहरणमनुब्रुवतेति लिख्यते। अनुष्टुभः पादाक्षराण्यष्टौ तत्संख्याङ्काः पंक्तिरूपेण लिखिताः। १२३४५६७८। तेष्वङ्केषु प्रथमाष्टमौद्वितीयचतुर्थौतृतीयषष्ठौपञ्चमसप्तमौच परस्परं व्यत्यस्य जाताः क्रमाङ्काः पंक्तिरूपेण लिखिताः कटपयादिक्रमेण तत्तत्‌क्रमाङ्कगर्भश्लोकैः।
-
-
 
 **श्लोकेनानेन जनयेदनन्तान् सम्प्रदायतः।  
 नानावृत्तानभीष्टार्थान्निह्नवाय तु देशिकः॥५७॥**
@@ -9577,8 +8648,6 @@ OXFORD,
 
  अनुष्णशोतेत्यादिभिर्योगत इत्यन्तैश्चतुर्भिः श्लोकैर्नित्याविद्यासिद्धस्य तन्त्रनिष्णातस्य मनीषितदेवतात्मत्वसिद्ध्यै तत्तद्देवतानामिच्छानुरूपाणां मन्त्राणां निर्म्माणप्रकारमुपदिशति। तत्र अनुष्णशीते। उष्णशीतद्वयरहिते। रम्यविग्रहे हृदयङ्गमे। एतद्विशेषणचतुष्टयं मनः स्थिरीकरणापेक्षया देबतानिवासयोग्यापेक्षया च। वा विकल्पे। स्थित्वा प्राङ्मुखः इति सम्प्रदायार्थः। पीठमित्यस्यानन्तरवक्ष्यमाणश्लोके विन्यस्येत्यनेन सम्वन्धः। धवलितोदरं श्वेतवर्णानुलेपनेनेति यावत्। तस्मिन्पीठे। पूर्णायां पौर्णमास्यां। वा विकल्पे। शुभोदये शुभराश्युदये शुभग्रहोदये च। अस्य सम्प्रदायार्थों लिख्यते। इड़ायामेव प्रवहतः श्वांसस्य प्रवेशावस्थायामिति। कुचन्दनैः रक्तचन्दनैः। वा विकल्पे। दरदैः जातिलिङ्गैः। वा विकल्पे। उपदेशतः उपदेशक्रमात् श्रीभूतलिपीनामिति यावत्। कृत्वोक्तं मण्डलं पञ्चा-
 
-
-
 **एवमब्देतु सम्पूर्णेभीष्टदेवाय मन्त्रवित्।  
 कुर्य्यान्मन्त्रमभीष्टार्थगमकं प्रोक्तयोगतः॥६१॥**
 
@@ -9599,8 +8668,6 @@ OXFORD,
 
   मन्त्रार्था इत्यादिभिः इष्टसिद्धिदा इत्यन्तैस्त्रिभिः श्लोकै मन्त्राणां सर्वेषा-
 
-
-
 **वर्णस्योदयविश्रान्तिपदे वुद्धिनिवेशनम्।  
 एकोन्यः सर्वतः सिद्धव्युत्पत्त्यर्थाभिवीक्षणम्॥६५॥**
 
@@ -9616,8 +8683,6 @@ OXFORD,
 
   मन्त्रवीर्य्यमित्यादिभिः ईरित इत्यन्तैस्त्रिभिः श्लोकैः सकलमन्त्रविद्यागणस्य वीजभूतस्य (जीवभूतस्य) मन्त्रवीर्य्याभिधानस्य परमार्थस्य स्वरूपं तत्तज्ज्ञानेन
 
-
-
 **तेजसां शक्तिमूर्त्तीनां प्रपञ्चस्यापि कारणम्।  
 गुणत्रयममीषाञ्चयत् कारणमुदाहृतम्॥६८॥**
 
@@ -9627,8 +8692,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 तेषां सर्वेषां सम्यक्करणञ्चोपदिशति। तत्र मन्त्रवीर्य्यंमन्त्राणां परमार्थस्वरूपं। प्राज्ञे इति देवीसम्बुद्धिः। सुखास्पदंपरमार्थस्वरूपलाभात्। येन मन्त्रवीर्य्येणज्ञानानुभूतेन केवलंज्ञानमात्रमन्तरेणानुभवपर्य्यवमायिना चेत्यर्थः। जीवन्मुक्तः जोवन्नेव मुक्तः। याथात्म्यज्ञानादसङ्कोच एव मुक्तिरित्यर्थः। तेजसां सोमसूर्य्याग्निमूर्तीनां। शक्तिमूर्तीनां मूर्त्तिकारणशक्तीनां मूर्तीनाञ्च वामेच्छाज्येष्ठाज्ञानक्रियारौद्रीणां ब्रह्मविष्णुरुद्राणामित्यर्थः। प्रपञ्चस्य ज्ञातृज्ञानज्ञेयरूपस्य। अपिशब्दः समुच्चये। कारणं भूतत्रैविध्यस्येति शेषः। गुणत्रयं सत्त्वरजस्तमांसि ते यस्मिन्। मूर्तीनां प्रपञ्चस्य च त्रैविध्यगुणत्रयादिवत् स्वरूप इत्यर्थः। अमीषां गुणानां। चः समाहारे। अनेन गुणानां तेजःशक्तिमुर्तीनाञ्चेत्यर्थः। कारणं प्राग्वत्। उदाहृतं अष्टाविंशे पटले “कारणं परमेशानि तवेच्छैव तु केवलमिति।” तत्‌स्वरूपानुसन्धानसिध्दिः सकलकारणभूतेच्छाशक्त्यात्मना विद्यया स्वस्य चापृथक्त्वेनानुसन्धानसिद्धिः। सम्यक्तं आभिमुख्यकरणं। जीवः प्राणा। अनभिमुखमन्त्राणामकार्य्यकरत्वात् मन्त्रवीर्य्ययोगज्ञानमन्तरेण मन्त्रविद्यानामकार्य्यकरत्वात्। सम्प्रदायाविच्छित्त्यर्थं तत्प्रकारो नाथाज्ञया लिख्यते। प्रथमं कामकलाध्यानेन योगेन ष‌ट्त्रिंशे पटले वक्ष्यमाणपरमार्थतया स्वयं शक्तिर्भूत्वा श्रीविद्यावयवभूतसकलतेजःशक्तिमूर्त्तिर्गुणैरिदन्तानि तत्सकलानि तद्वदेकीकृत्य तदुभयमनुष्णाशीतं वाह्यदाभ्यन्तरमाभ्यन्तराद्बाह्यमिति क्रमात् स्वबुद्ध्याकृष्यैकीकृत्य तदात्मना भजनं मन्त्रवीर्य्ययोजनप्रकार इति। इतरनित्याभजने केवलहृल्लेखावयवभूतैरितरमन्त्रभजने प्रणवावयवभूतैरपि प्राग्वदेकीकुर्य्यादिति सस्प्रदायः ॥६९॥
-
-
 
 **असम्यक्त्वन्तु मन्त्राणामयोग्यकथनेन वै।  
 सदा प्रयोगाद्भजनादकाले संशयाद्भवेत्॥७०॥**
@@ -9650,8 +8713,6 @@ OXFORD,
   असम्यक्तमित्यादिभिरीरितमित्यन्तैस्त्रिभिः श्लोकैर्मन्त्रविद्यादीनां त्रयोदशविधासम्यक्तकारणं प्रागुक्तसम्यक्त- निगमनसहितमुपदिति। तत्र असम्यक्त्वं अकार्य्यकरणत्वमन्थाफलत्वं वा। मन्त्राणां मन्त्रविद्यानां। अयोग्यकथनेन प्रथमपटलप्रोक्तलक्षणरहितशिष्योपदेशेन। सदा प्रयोगात् नित्यनैमित्तिकपुरश्चरणभजनक्रममुपेक्ष्य कामतोऽनवरतप्रयोगात्। भजनादकाले नित्यनैमित्तिककाम्येषु प्रोक्तकालमुपेक्ष्य इतरकालभजनात्। संशयात् उक्तकरत्वे स्वाभिमतफलप्रदत्वे च। गुरोरवज्ञाया गुरोरनभिमतानुष्ठानात्। पापात् प्रथमपटले विशुद्धादिश्लोकत्रयोक्ताचारविपरीतानुष्ठानात्। निषिद्धाचारयोगतः तत्तत्पटलोक्तशिष्याचारस्यान्यथानुष्ठानात्। देवताद्रोहतः देवताभेदप्रतिपत्तेः। सर्व्वपरिवादानवस्थया सर्व्वजनपरिवादेन जपादिष्वनवस्थया वा। असम्प्रदायात् अनभिज्ञस्य गुरोर्वा पत्रादिषु निरीक्षणाद्वा लब्धमात्रस्वरूपात्। अज्ञानाद्देवतागुरुमन्त्राणां परमार्थस्वरूपस्य। अनेकभजनान्मन्त्रविद्यादीनां। तत्सम्यक्त्वं प्रोक्तदोषैरनभिमुखमन्त्रविद्यानामाभिमुख्यकरणं। कार्य्यं तत्तन्मन्त्रविद्यानुसन्धानमित्यर्थः ॥७२ ॥
 
    नातिद्वेष इत्यादिभिर्लक्षणमित्यन्तैस्त्रिभिः श्लोकैर्मन्त्रसिद्धानां षोड़शलक्षणान्युपदिशतिः। तत्र नातिद्वेष इत्यादिना श्लोकेन सप्त सिद्धचिह्नानि। नाति-
-
-
 
 **एकरूप्यं लाभहान्योः सदा सन्तुष्टचित्तता।  
 भोक्तृत्वं शक्तितो दानमिति सिध्दस्य लक्षणम्॥७५॥**
@@ -9683,8 +8744,6 @@ OXFORD,
 
   नराणामित्यादिभिश्चक्रत इत्यन्तैश्चतुर्भिः श्लोकैर्मन्त्रविद्यादीनामन्योन्यं सकारणं वैरमुपदिशति। तत्र चः समुच्चये। पार्व्वतीति देवीसम्बुद्धिः। एवाव
 
-
-
 **स्त्रीदैवत्या वैरिणः स्युः पुंदैवत्यस्य भूयसा।  
 स्त्रीदैवत्येषु सौम्यानां क्रूराणां स्यात् परस्परम्॥८२॥**
 
@@ -9705,8 +8764,6 @@ OXFORD,
 
   मन्त्राणामित्यादिभिः कदाचनेत्यन्तैस्त्रिभिः श्लोकैरुपासकदोषैर्मन्त्राणां देवतानां च वैरीकरणं तेषामनर्थप्राप्तिं तत्परिहारोपायञ्चोपदिशति। तत्र प्राज्ञे इति देवीसम्बद्धिः। येन वैरीकरणेन। वैषम्यभजनं अनुदिनभजनक्रमभेदादधिकक्षुद्रादिभावभेदाद्वेति यावत्। अज्ञानात् परमार्थस्वरूपस्येति यावत्। आशया फलेष्विति यावत्। तेन वैषम्यभजनेन। चः समुच्चये। तस्मात् कारणाज्जीवितं अधिष्ठानमिति यावत्। यन्निष्ठानां दिव्यत्वान्मन्त्रवीर्य्यनिष्ठानित्यर्थः ॥८६॥
 
-
-
 **गुरोः शुश्रूषया काले दीक्षया लब्धमादरात्।  
 तदाज्ञया भजेदेकरूपं मन्त्रं स्वसिद्धये॥८७॥**
 
@@ -9726,8 +8783,6 @@ OXFORD,
   यो य इत्यादिना श्लोकेन सकलतन्त्रोक्तमन्त्रविद्यादीनां सम्यक् सिद्धिकरमक्षरौषधिगुलिकारूपं प्रस्तीति। तत्र तस्य मन्त्रस्येति यावत्। वर्णौषधिविनिर्मिता गुलिकेति यावत् स्यादित्यर्थः॥ तत्तद्बर्णेत्थसंख्याभिः तत्तन्मन्त्रेष्वेकैकाक्षरस्य यावत्यो यावत्यः परिवृत्तयस्तावन्तीभिस्तदक्षरौषधीनां अंशसंख्याभिरिति यावत्। गुलिका मन्त्रसिद्धिदा तत्तन्मन्त्रसिद्धिदा इत्यर्थः॥८९॥
 
   तयेत्यादिना श्लोकेन गुलिकाविनियोगक्रममुपदिशति। तत्र तथा गुलिकया। तद्धारणं गुलिकाधारणं। तत्स्वादः तद्गुलिकाभक्षणं। तद्विलेपनं तद्गुलिकाविलेपनं। तत्पूजा तस्यां पूजा तया पूजा च। तथा सिद्धिलाभाय प्रागुक्तलक्षणसिद्धिलाभाय।न चान्यथा न संशय इत्यर्थः। अस्मिन् श्लोके प्रथमपादे त्वेकाक्षराधिक्यकरणं दिव्यत्वात्॥९०॥
-
-
 
 **सितरक्ते चन्दने च मांसी पिप्पलकस्तथा।  
 लज्जातुका शिखिशिखा दर्भाः पाटलभृङ्गकौ॥९१॥**
@@ -9758,8 +8813,6 @@ OXFORD,
   सितेत्यादिभिः सिद्धयः इत्यन्तैर्दशभिः श्लोकैरकारादिक्षकारान्तानाम
 -क्षराणामेतत्तन्त्रोदितपञ्चभूतक्रमेण वर्णानां दशदशौषधविधानान्युपदिशति। तत्र सितरक्ते चन्दने सितचन्दनं रक्तचन्दनं च। पिप्पलः अश्वत्थः। लज्जातुका कुम्भिचन्दनी। तैरौषधैः तत्तदर्च्चनं तत्तदक्षराणां तत्तद्देवतानाञ्चार्च्चनमेतत्। लघुः अगुरुः। विल्वोदुम्वरः अत्र दिव्यत्वात् विल्व उदुम्वर इति पदच्छेदः। सर्गस्य विसर्जनीयस्य अस्य भूताक्षरानन्तर्भूतत्वात् पृथग्ग्रहणं। क्षकारस्य ककारषकार योगात्मकत्वात् पृथगौषधमनुक्तं च। तेषां प्राग्वत्। पोत्री वाराही मुशलीत्यर्थः। एभिरौषधैः। तेषां प्राग्वत्। तत्तत्कार्य्यार्थसंसिद्ध्यै तत्तत्कार्य्यार्थसिद्धार्थं।
 
-
-
 **\*कक्कोलञ्च तथा रोचनाकलकिङ्कक (?)।  
 सिंही दुन्दुकयुगलमपामार्गाञ्जलिः सह ॥९९॥**
 
@@ -9778,26 +8831,18 @@ OXFORD,
 
 अञ्जलिः अञ्जलिकरी प्रसारिणी। तैरौषधैः। तेषां प्राग्वत्। कक्कोलेत्यादि श्लोकस्यान्तपादस्याक्षराधिक्यकरणं दिव्यत्वात्। अत्रौषधानामव्याख्यातानि नामान्याराध्यसुखादवगन्तव्यानि। तत्र यथासिद्धि प्रागुक्तविधानेनेत्यर्थः॥१००॥
 
-
-
 इति षोड़शनित्यातन्त्रषु श्रीकादिमताख्यस्य परिपूर्णस्य तन्त्रस्य प्रपञ्चसार-  
 सिंहराजप्रकाशाभिधानेन सुभगानन्दनाथेन विरचितायां मनोरमा-  
 ख्यायां व्याख्यायां नित्यानां स्वात्मत्ववासनायास्तत्तद्विद्यास्वरूपभेद  
 प्रकारप्रस्तारादिकस्य स्वरूपप्रकाशनपरं पञ्चत्रिंशपटलं  
 परिपूर्णं परामृष्टम्॥३५॥ ॐ तत्सत् ॥
 
-
-
   व्याख्यान ग्रन्यसंख्याः—
 
 **पञ्चत्रिंशे तु पटले यन्त्राष्टकमुदीरितम्।  
 सप्ताधिका च नवतिः व्याख्याग्रन्थाः शतत्रयम्॥**
 
-
-
 ![](../books_images/U-IMG-1723457755Screenshot2024-08-08063503.png)
-
-
 
 **षट्त्रिंशपटलम्**  
 
@@ -9816,8 +8861,6 @@ OXFORD,
 **  **पूर्व्वस्मिन् पञ्चत्रिंशे पटले षोड़शनित्यानां सपरिवाराणां स्वात्मत्वे वासनादिकमुपदिश्यानन्तरं षोड़शनित्याविद्या- सिद्धानां तत्तत् परमार्थस्वरूपादिकमुपदिशति। अथ षोड़शेत्याद्रिमदंशक इत्यन्तश्लोकशतरूपेण षट्त्रिंशेन पटलेन। तत्र अथ षोड़शेत्यादिभिः सदा इत्यन्तैर्दशभिः श्लोर्कैस्तन्त्रोक्तार्थनिगमनपुरःसरं विंशतिविधं प्रश्नं तदुत्तरस्य वक्ष्यमाणस्य स्तवनं स्वस्वरूपतस्तस्योपकरत्वञ्चोपदिशति। अथ षोड़शेत्यादिना श्लोकेन तन्त्रोक्तार्थान् देवी निगमयति। तत्र तानि विधानानि। चः समुच्चये। महेश्वरेतीश्वर सम्बुद्धिः ॥१॥
 
   तासामित्यादिना श्लोकेन परमार्थस्वरूपं तत्स्वरूपप्रकाशोपायं परमार्थ स्वरूपस्य प्रकाशकारणञ्च देवी पृच्छति। तत्र तासां षोड़शनित्यानां। ते तव शिवस्य। अत्र तच्छव्देन नित्यानुग्रहात्मकत्वं गुरुं मच्छव्देनानादिमायाकल्पितत्वादनुग्राह्यं शिष्यं प्रत्युपलक्षयतीति। \[यत् यस्मात् गुरोरिति यावत्?\] मे मम देव्याः शिष्वभूतायाः। अन्येषां सकलवेदागमेषूपदिष्टस्वरूपाणां। यथार्थतः स्वरूपाङ्गं परमार्थस्वरूपंकिमिति यावत्। एषः प्रथमः प्रश्नः। अनन्तरं परमार्थस्वरूपप्रकाशोपायं पृच्छति। कथमिति द्वितीयः प्रश्नः। विश्वं किमाकारञ्च दृश्यते इत्यनेनैतदुक्तं भवति। परमार्थस्वरूपस्यैव प्रकाशो युज्यते तथाप्यपरमार्थस्वरूपं विश्वं गगनकुसुमादिवत् संज्ञामात्रमन्तरेणैव दृश्यते तत् किमाकारमिति। एष तृतीयः प्रश्नः ॥२॥
-
-
 
 **प्राणिनां पुण्यपापानि किं रूपाणि च कैस्तथा।  
 तेषां जन्मानि केन स्युः का मुक्तिः संसृतिश्च का॥३॥**
@@ -9841,8 +8884,6 @@ OXFORD,
 
   येनेत्यादिना श्लोकेन दृष्टार्थानां वेदशास्त्रैरपि सम्बादि स्फुटकथनं प्रार्थयति। तत्र येन प्रकारेणेति यावत् कथ्यते। यदि विशेषः तत् स्वरूपं स्फुटं अनुभवयोग्यं नातिसङ्गोचविस्तरं प्रतिसङ्कोचातिविस्ताराभ्यां ज्ञातुमशक्यत्वात् ॥६॥
 
-
-
 **यत्त्वया विंशतिविधः कृतः प्रश्नः शिवेऽधुना।  
 तेषामुक्तक्रमेणैव कथयामि तवोत्तरम्॥७॥**
 
@@ -9862,8 +8903,6 @@ OXFORD,
   यत्त्वयेत्यादिभिः सदा इत्यन्तैश्चतुर्भिः श्लोकैः
 पृष्टार्थकथनपीठिकापुरःसरं तदनुभावं तदुपकरत्वञ्चोपदिशति। तत्र यत् इति हेतोः। शिवे इति देवीसम्बुद्धिः। तेषां प्रश्नानां। एवावधारणे। कथयामि तस्मादिति शेषः। यैरुत्तरैर्वक्ष्यमाणैरिति यावत्। स्वस्वरूपं परमार्थस्वरूपं। लभ्यते प्रकाशते। सम्यक् अनुभवयोग्यं। अञ्जसा यथावत्। यत् हेतोः। इतस्तन्त्रादिति शेषः। अन्यत्र सर्व्वत्र इतरेषु तन्त्रेषु वेदेषु चेति यावत्। निह्नवचक्रतः अतिरहस्यत्वादिति यावत्। अत्र अस्मिंस्तन्त्रे। अञ्जसा प्राग्वत् यथावत्। तत् स्वरूपं। दुर्व्वचं वाचामविषयम्। तुर्व्विशेषे। निदर्शनैः तत्तत्प्रकाशनपरैरिति यावत्। तैरुत्तरत्वेनोपदेष्टव्यैरर्थेः। उक्तक्रमाद्वक्ष्यमाणोपाय- योरन्यतरेणेति यावत्। दुर्जयां अनादिसिद्धत्वात्। शनैः कालक्रमात् अभ्यासवलादित्यर्थः। सत्यशुद्धस्फुटाशेषस्फुरत्तात्मा सत्यत्वं परमार्थतया शुद्धत्वमलेपकत्वात् अशेषस्फुरत्तात्वं तत्तदात्मकत्वेन भासमानत्वात्। अत्रात्मशब्दश्चतुर्ष्वपि योजनीयः। एतदुक्तं भवति। साधको द्वितीयप्रश्नस्योत्तरत्वेन वक्ष्यमाणोपाययारन्यतरेण दुर्जयां वासनां शनैर्जित्वा सत्यशुद्धस्फुटाशेषस्फुरत्तात्मा भवेदिति। गुह्यं गुहायां निहितं अन्तःप्रकाशमानत्वात्। रहस्यं केवलं गुरुकटाक्षादेव लभ्यत्वात्। परमं स्वव्यतिरिक्ताभावात्। गोपयेत् अभक्तेभ्य इत्यर्थः। सर्व्वतः प्रकारतयावत् ॥१०॥         
 
-
-
 **यजज्ञानमिदमो ज्ञानं यज्ज्ञानमहमस्तथा।  
 द्वयोरपि च यज्ज्ञानं तज्ज्ञानं विद्धि मे वपुः॥११॥**
 
@@ -9878,8 +8917,6 @@ OXFORD,
  यज्ज्ञानमित्यादिना यथार्थत इत्यन्तेनाध्यर्द्धेन श्लोकेन प्रथमप्रश्नस्योत्तरत्वेन परमार्थतः स्वरूपमुपदिशति। तत्र यज्ज्ञानं वाङ्मनसयोरविषयं चैतन्यं। इदमो ज्ञानं इदमः प्रतीतिर्यज्ज्ञानं प्राग्वत्। अहमस्तथा अहमः प्रतीतिरिति यावत्। अत्र तथा इत्यस्य काकाक्षिन्यायेन पूर्व्वत्र परत्र च सम्बन्धः। तथा तस्माद्वयोरिदन्ताहन्तयोर्ममेदमस्याहं इदमेवाहमहमेवेदमित्यादि प्रतीतिसम्वन्ध इति यावत्। अपि च किञ्चेति यावत्। तज्ज्ञानं वाङ्मनसयोरविषयं ज्ञानं विद्धि विजिज्ञासस्व इति यावत्। मे शिवस्य गुरोः। यथार्थतः यथास्वरूपत इति यावत्। एतदुक्तं भवति प्रतप्तलोहे निरवयववत् व्याप्तविश्वस्य चैतन्यस्य भूतेन्द्रियादियोगात्मकेषु देहेषु वुद्ध्यात्मनोपलब्धिस्थानात्मकं तद्देहमात्रमहमिति तदिति तद्व्याप्तिज्ञानं विश्वमिदमिति। किञ्च ममेदमित्याद्याकारेण तयोर्द्वयोरन्यान्यसम्बन्धं चानुसन्दधाति। तत्र तत्र तत्तदाकारज्ञानतया यच्चैतन्यमात्रमेव स्फुरति तच्चैतन्यं यथार्थतो मे वपुर्व्विद्धीति। तासां षोड़शनित्याना। अन्येषां देवतानामिति‌ यावत्। चैतन्यात्म चैतन्यस्वरूपं वपुरिति शेषः ॥११॥
 
  ला‌भादित्यादिना भवेदित्यन्तेनार्द्धाद्येन श्लोकेन द्वितीयप्रश्नस्योत्तरत्वेन परमार्थस्वरूपप्रकाशस्योपायं तन्त्रान्तरप्रोक्तोपायान्तरञ्च निगमनसहितमुपदिशति। तत्र एवं वासनाप्रोक्तप्रकारेण समस्तभेदेषु चैतन्यस्वरूपमात्रानुसन्धानं। वासनायाः विनाशादन्यया तथा अत एव दुर्वासनाया विनाशादिति यावत्। स्थिरः कटकमुकुटादिविकारेषु कनकसत्तामात्रप्रकाशवदिति यावत्। नित्यः कालानवच्छेदात्। अप्रतिभटः सत्यत्वात्। महान् देशानवच्छेदात्। नित्याहृदयसंप्रोक्तस्फुटोपायेन नित्याहृदयमिति षोड़शनित्यातन्त्रेषु कस्य-
-
-
 
 **शब्दस्य बुद्धेर्द्वैरूप्यात् प्रपञ्चस्य च दृश्यते।  
 द्वैरूप्यमनयोरुक्तं सत्यासत्यसम\[मय\]त्वतः॥१४॥**
@@ -9902,8 +8939,6 @@ OXFORD,
 
  यथेत्यादिना भाजनमित्यन्तेनार्द्धाद्यन श्लोकेन पञ्चमषष्ठप्रश्नयोरुत्तरत्वेन पुण्यपापकर्मस्वरूपं प्राणिनां जन्मकारणञ्चोपदिशति। तत्रार्थेषु शब्दादितन्मात्रासु। व्यापारः इन्द्रियाणामिति यावत्। एतदुक्तं भवति याथार्थ्याविदो विषयेषु तन्मात्रास्वरूपमात्राङ्गीकारात्तेनैवासङ्गाच्च तस्य तत्तद्विषयेष्विन्द्रियाणां व्यापारः पुण्यसंज्ञो भवतीति। अनर्थेषु अर्थाः शब्दादयः तेषु तन्मात्राप्रतिपत्तिमात्रमन्तरेण पुत्रादिभावा अनर्थास्तेषु। अर्थसंकल्पः याथात्म्यबुद्धिः। मनसा इत्यस्य अर्थसंकल्प इत्यनेन पूर्व्वत्र सम्बन्धः। एतदुक्तं भवति विषयेषु शब्दादितन्मात्रामात्रप्रतिपत्तिमन्तरेण पुत्रमित्रकलत्रादित्वेन तेषु मनः संयोग एव पापसंज्ञो भवतीति। तथा अयथात्मज्ञानेनेति यावत्। नानारूपाणि जरायु-
 
-
-
 **याथार्थ्ये ज्ञानमर्थानां मुक्तिस्तद्विपरीतता।  
 संसृतिर्म्मोचनं वुर्द्धेर्ब्बासना वन्ध र्द्वरितः॥१७॥**
 
@@ -9917,8 +8952,6 @@ OXFORD,
  याथार्थ्येत्यादिना श्लोकेन सप्तमादिदशमान्तानां चतुर्णां प्रश्नानामुत्तरत्वेन मुक्तेः संसृतेः बुर्द्धेर्मोचनस्य वन्धस्य च स्वरूपाण्युपदिशति। तत्र याथार्थ्ये ज्ञानमर्थानां मुक्तिः घटशरावादिविकारेषु मृत्स्रामात्रज्ञानवद्दृश्यमा- नविविधरूपेषु चित्सत्तामात्रप्रतिपत्तिर्मुक्तिरिति यावत्। तद्विपरोतता अयथात्मज्ञानमिति यावत्। मोचनं वुद्धेः अयथात्मज्ञानस्य वुद्धिधर्मत्वात्। वासना वन्धः अयथात्मज्ञानमनादिदुर्व्वासनयैवेति यावत् ॥१७॥
 
  कर्म्मक्षयादित्यादिना श्लोकेनैकादशप्रश्वस्योत्तत्वेन मुक्तिप्रदातारं मुक्तिप्रकारं चोपदिशति। तत्र कर्म्मक्षयात् अज्ञानकार्य्यत्वात् कर्म्मणः कारणकार्य्ययोरभेदोपचारात् अज्ञानक्षयादिति यावत्। सद्गुरोरित्यत्र सत्वमस्मिंस्तन्त्रे द्वितीयपटले विरच्येत्यादिभिरेकषष्टितमाद्येकादशभिः श्लोकैः प्रोक्तविधानात् कृतपूर्णाभिषेकत्वमस्मिन् पटले प्रोक्तपरमार्थस्वरूपे स्थैय्यैञ्च। गुरुत्वं प्रथमे पटले सुन्दर इत्यादिनैकोनविंशच्छोकेन प्रोक्तलक्षणसम्पूर्णत्वं। तुरवधारणे। कटाक्षोक्तिविमर्शतः कटाक्षो विंशे पटले सर्व्वासामित्यादिभिरेकचत्वारिंशादिनवभिः श्लोकैः प्रोक्तत्रिविधप्रकारेष्वन्यतमः उक्तिः श्रीविद्यायाअस्मिन् पटले प्रोक्तपरमार्थस्वरूपस्योपदेशः विमर्शस्तु प्रोक्तप्रश्नोत्तरप्रकारेण शिवस्वरूपानुसन्धानं तस्मात् कटाक्षोक्तिविमर्शैरिति यावत्। \[ प्रोक्त प्रश्नो-
-
-
 
 **संसृतेः कन्दमुदितमविवेकः परो महान्।  
 यदायेत्तमिदं जीवभुवनं परिवर्त्तते॥१९॥**
@@ -9938,8 +8971,6 @@ OXFORD,
   तत्वानीत्यादिना श्लोकेन त्रयोदशप्रश्नस्योत्तरत्वेन स्वरूपविमर्शसाधनभूतानां ज्ञातृज्ञानज्ञेयानां त्रयाणां तत्त्वात्मकं तदितरस्वरूपाणां अतत्वात्मकत्वञ्चोपदिशति। तत्र तत्वानि संज्ञयेति यावत्। तत्त्वानि सत्यानि चैतन्यस्य तादात्म्येन स्फुरणत्वात्। सर्वैरागमादिभिरिति यावत्। सर्व्वत्र सर्व्वदेहेष्विति यावत्। ज्ञातृज्ञानज्ञेयमयानि ज्ञातृज्ञानज्ञेयात्मकानि। अन्यथा अन्यानि तदितरात्मकत्वेन प्रतीतानि अन्यानि असत्यानीति यावत् ॥२०॥
 
   का च धीरित्यादिभिर्विग्रहमित्यन्तैः सप्तदशभिः श्लोकैश्चतुर्द्दशप्रश्नस्योत्तरत्वेन बुद्धेः सप्ताधिकशतगुणांस्तद- नुभावञ्चोपदिशति। तत्र तद्वस्तुष्विति शेषः।
-
-
 
 **मनोबुद्धिरहङ्कारचित्तमित्यादि नामभिः।  
 वस्तुभेदादभेदाच्च यदुक्तं सर्वतः सदा॥२२॥**
@@ -9967,8 +8998,6 @@ OXFORD,
   सत्त्वेत्यादिता श्लोकेन दश गुणाः। तत्र अतन्मयं निर्गुणमिति यावत्॥२५॥
 
   अपापमित्यादि‌ना श्लोकेनाष्टगुणाः। तत्र अपापं पुण्यरूपमिति यावत्॥२६॥
-
-
 
 **सर्वक्षोभात्मकं सर्वशान्तिरूपञ्च निर्द्दयम्।  
 सदयञ्चाविवेकात्म विवेकपरमार्थकम्॥२७॥**
@@ -10007,8 +9036,6 @@ OXFORD,
 
   निर्द्दोष इत्यादिना श्लोकेनाष्टगुणाः। तत्र सर्व्वदोषात्मा वातादित्रिदोषात्मा। सर्वेषां प्राणिनामिति यावत्॥३३॥
 
-
-
 **अस्तेयरूपस्तेयात्मा वश्योऽवश्यश्चरो मृदुः।  
 सरसं विरसं क्रूरं सौम्यं तैर्वहुभिस्तु किम्॥३४॥**
 
@@ -10032,8 +9059,6 @@ OXFORD,
 
    स्वात्मन इत्यादिना श्लोकेन पञ्चदशप्रश्नोस्योत्तरत्वेनेन्द्रियाणां स्वरूपमुपदिशति। तत्र स्वात्मनः स्वस्य मनोवृत्त्या मनोव्यापारेण सृष्टानि उपलब्धानीति यावत्। भूतशक्त्यात्मविग्रहाणि पञ्चभूतशक्तिस्वरूपाणि। तुरवधारणे। एतदुक्तं भवति स्वस्य मनावृत्त्या स्वस्यविषयग्रहणार्थमुपलब्धानि भूतशक्तिस्वरूपाणीन्द्रियाणीति ॥३८॥
 
-
-
 **भूतात्मबुद्धिसंघातशक्तिचैतन्यजृम्भणम्।  
 प्राणास्तत्साक्षिभूतो हि जीवस्तत्त्वात्मकः परः॥३९॥**
 
@@ -10055,9 +9080,6 @@ OXFORD,
 
  काल इत्यादिभिरत्र वै इत्यन्तैरष्टभिः श्लोकैरेकोनविंशत्प्रश्नस्योत्तरत्वेन कालस्वरूपादिकमुपदिशति। तत्र तुरवधारणे। पूर्ब्बं चतुर्द्दशप्रश्नस्योत्तरं तदेकमित्यादिभिरिति यावत्। यतो गुणवैविध्यं ततः गुणसमस्तवान् समस्तगुणवान्। तथापि अशक्यमपीति यावत्। समञ्जसा उद्देशत इति यावत्। अहोरात्रादीत्यत्रादिशब्दः पूर्णमण्डलादिविषयः। तुः समुच्चये। चन्द्रार्कादीत्यत्रादिशब्दो भीमादिविषयः। तेन कारणेन। तन्मयतारूपकथनं अहोरात्रादिरूपतया  
 
-
-
-
 **लवत्रुट्यादिकं ब्रूहि यैः कालो ज्ञायते मया।  
 नलिन्या पत्रनिचये सूचीविद्धेऽथ तस्य वै॥४४॥**
 
@@ -10073,8 +9095,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 कालस्वरूपकथनं। एतदुक्तं भवति चन्द्रार्कादिग्रहगतिवशात् कल्पिताहोरात्रादिविषयः कालस्य तत्त्वतो वपुर्न भवतीति। ततः तस्मात्। लवत्रुट्यादीत्यत्रादिशब्दः कलाकाष्ठादिविषयः। यत् तत्स्वरूपं भाष्यन्ते अतन्मयत्वात् खण्डकाः परिच्छेदकाः विश्वस्येति यावत्। तुरवधारणे। तत् कालस्य रूपं कालस्य ततरूपमित्यन्वयः।अत्र तच्छद्वेन तन्त्रादौ प्रोक्तं कालस्यानुभावं स्मारयति। तत् चिद्रूपं। एतदुक्तं भवति अनाद्यन्तविग्रहं तच्चित्स्वरूपं यत्तदेव कालस्य स्वरूपमिति। लवत्रुट्यादीत्यत्रादिशब्दः प्राग्वत् कलाकाष्ठादिविषयः। यैः लवत्रुट्यादिभिर्ज्ञायते अनुमीयते। तस्य नलिनीपत्रनिचयस्य लव इति संज्ञा। तत्त्रिंशदगुणितं लवादिस्वरूपं त्रिंशत्त्रिंशद्गुणितमिति यावत्। त्रुटोत्यादिशरीरवान् त्रुटिकलाकाष्ठादिसंज्ञावान् इति यावत्। एतदुक्तं भवति त्रिंशद्भिर्लवैः त्रुटिः त्रिशत्त्रुटिभिः कला त्रिंशत्कलाभिः काष्ठा त्रिंशत्काष्टाभिर्निमेषः अष्टभिर्निमेषैर्मात्रा सा मात्रा एकः श्वास इति। एकश्वासमारभ्य दिवसान्तस्वरूपं सप्तविंशे पटले कथितं दिवसादिचतुर्युगान्तस्वरूपं पञ्चविंशे पटले कथितं तस्मादिह नोच्यते। इति उक्तप्रकारेण। तस्य कालस्य। तत् स्वरूपं प्रोक्तमात्रस्य तन्त्रादावस्मिन् पटले वा स्वरूपस्येति शेषः। भावनाद्विमर्शतः। यत् स्वरूपं तत्तस्य कालस्य स्वरूपमिति यावत्। अत्र कालस्वरूपकथने ॥४७॥
-
-
 
 **ग्रहास्तु चिन्मयाः काले क्वापि चक्रभ्रमात् पुनः।  
 भूतादीनि समस्तानि विकृतानि वितन्वते॥४८॥**
@@ -10095,8 +9115,6 @@ OXFORD,
   तथापीत्यादिनोत्तरार्द्धेन प्रश्नान्तरावतारस्य पीठिकावन्धं करोति। तत्र तथापि मे कथितमपि। अधुनापीति शेषः। अद्यापीति यावत् ॥५०॥
 
   जननमित्यादिभिरुपदेशत इत्यन्तैश्चतुर्भिः श्लोकैर्द्वादशविधप्रश्नस्वरूपादिकमुपदिशति। तत्र जननमित्या- दिना श्लोकार्द्धेन प्रश्नचतुष्टयं। अरूपस्येत्यादिनार्द्धद्वयेन प्रश्नत्रयं। तस्य स्वात्मन इति यावत्। कुतो हेतोः। तत्कालपरमात्मनोः अनाद्यन्तविग्रहयोः कालपरमात्मनोः। मुक्त इत्यादिनोत्तरार्द्धेन प्रश्रद्वयं। तत्र मुक्तः जीव इति शेषः। परे जीवा इति शेषः। वा विकल्पे।एतदुक्तं भवति एते जीवाः प्रतिमैकैकमुक्ता (?) यद्यपि कालस्यानादित्वात् प्रपञ्चभावो युज्यते तथापीदानीं प्रारब्धवत् प्रपञ्चः प्रसरतीति यत्तस्मात् प्रसरणार्थं
-
-
 
 **कुतः स्थितिः कथं वा स्यात्तत्कालपरमात्मनोः।  
 मुक्तो वा जायते किन्तु परे वा सम्भवन्ति किम्॥५२॥**
@@ -10120,8 +9138,6 @@ OXFORD,
 
  प्रतप्तेत्यादिना श्लोकेन पञ्चमादिप्रश्नस्योत्तरं कथयति। तत्र अवस्थेत्यस्य काकाक्षिन्यायेन पूर्वत्रोत्तरत्र च सम्बन्धः। एतदुक्तं भवति प्रतप्तलोहपिण्डेऽग्निस्थितिवत् परविश्वयोरवस्थानमिति पञ्चमस्योत्तरं कथितं। जड़विषये परस्यावस्थानकारणं कुत इति प्रोक्तस्य षष्ठप्रश्नस्योत्तरं तादात्म्या
 
-
-
 **मुक्तास्तु जीवा न कदाप्याविर्भूयुः कुतश्चन।  
 न वापूर्व्वाः सम्भवन्ति बुद्धेः कृत्यमशेषतः॥५७॥**
 
@@ -10138,8 +9154,6 @@ OXFORD,
   मुक्ता इत्यादिना तत्परमित्यन्तेन श्लोकद्वयेनाष्टमनवमप्रश्नयोरुत्तरं कथयति। तत्र जीवा जन्तवः। तुरवधारणे। आविर्भूयुः दिव्यत्वादाविर्भूयासुरित्यर्थःI कुतश्चन हेतोरिति शेषः। अपूर्वाः जीवा इति यावत्। वुद्धेः कृत्यं अन्यथाप्रतिपत्तिरिति यावत्। अशेषतः जन्मादितत्सर्वमिति यावत्। मुद्रिकारूपमुद्रा मुद्रिकासमानरूपा मुद्रा मधूच्छिष्टमृदादिष्वारोपितेति शेषः। मधूच्छिष्टादिविग्रहं मधूच्छिष्टमृदादिस्वरूपं विग्रहं। स्वविग्रहं जीवादिरूपतः तेजोरूपतः स्वजन्तुरूपतश्चेति यावत्। बुद्धिः चित्स्वरूपस्य भूतयोगविशेषेषु उपलब्धिरिति यावत्। विशेषयति भेदयति। तत्परं तस्मादन्यं उपादानस्वरूपादन्यमित्यर्थः। एतदुक्तं भवति मधूच्छिष्टाद्यधिकरणे स्वारोपितया मुद्रिकया समानविग्रहा मुद्रा स्वाधिकरणात्मकतन्मधूच्छिष्टादिना स्वरूपात् स्वविग्रहकारणभूतमुद्रिकास्वरू- पार्थस्वस्वरूपमित्यविशेषयतीव भूतयोगविशेषेषु चित्स्वरूपस्योपलब्धिस्वरूपात्मिका बुद्धिः स्वाधिकरणात्म- कभूतसमवायात् स्वकीयोपादानात्मकं चित्स्वरूपाच्च स्वस्वरूपमन्यं विशेषयतीति यत्तस्मादेतत् सर्वं बुद्धेः कृत्यमिति॥५८॥
 
  भूमेरित्यादिना सदेत्यन्तेन श्लोकद्वयेन दशमप्रश्नस्योत्तरादिकं कथयति। तत्र कुतश्चित् इच्छाशक्तिवैभवादिति यावत्। तत्र भूम्यां। चः समुच्चये। अन्यत्र भूमेरिति शेषः। व्यक्ताव्यक्तस्थितिः व्यक्तरूपेण चाव्यक्तरूपेण च स्थितिः। एतदुक्तं भवति भूम्यामव्यक्तरूपं जलं त्वनन्तरं दृश्यते वहिरपि व्यक्तरूपं जलं कर्षणादृश्यते। भूम्यामव्यक्तरूपोग्निः सूर्यकान्ते काष्ठादिषु मथनादिना दृश्यते
-
-
 
 **वायोः सर्वत्र सततमवस्थानं त्वनेकधा।  
 व्योम सर्वगमेव स्यात् कालताद्रूप्यतः सदा॥६०॥**
@@ -10162,8 +9176,6 @@ OXFORD,
 
  तत्रेत्यादिभिः अयमित्यन्तैरर्द्धायैश्चतुर्भिः श्लोकैर्द्वादशप्रश्नावसानप्रोक्तादिशब्दस्य तात्पर्य्यप्रश्नयोरुत्तरद्वयं कथयति। तत्र तत्र देहे। प्रारब्धविरमादहमित्युपलब्धिः प्रारब्धकर्म तद्विरमात् तदभावात्। मरणं जीवानां देहान्निष्कान्तिप्रकार इति यावत्। मरणं निद्रया सममित्यस्योत्तरत्र श्लोके सिद्धानामित्यनेन सम्बन्धः। एतदुक्तं भवति अनवच्छिन्नस्य चित्स्वरूपस्य स्वेच्छया देहेषूप-
 
-
-
 **नेतरेषां स साध्यानां साधकानाञ्च कालतः।  
 पुष्यादिषु तु मासेषु षट्सु राकोपकण्ठतः॥६४॥**
 
@@ -10173,8 +9185,6 @@ OXFORD,
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)
 
 लब्धिस्वरूपा जीवभावमुपगता बुद्धिरिन्द्रियद्वारा वहिर्गता व्याप्य विश्वं यदा विषयाननुभवति तदा जाग्रदवस्था यदा पुनः सा तत्तदिन्द्रियेभ्यो निवृत्ता हृत्प्रदेशस्था तत्तद्विषयान् स्मरति तदा स्वप्नावस्था यदा पुनरसौ हृदयादपि निवृत्ता स्वपरमार्थचैतन्यस्वरूपे विश्राम्यति तदा सुषुप्त्यवस्थेति। तत्तस्मात् चित्स्वरूपस्य बुद्धिस्वरूपतया देहादिष्वनुपलब्धिसाम्यात् मरणं निद्रया सममित्यत्रैतन्मात्रमन्तरेण परमार्थतो जीवस्य देहप्राप्तिनिर्गमनादिप्रतीतिरपां पात्रे चन्द्रस्येवेति सिद्धा कृतनिश्चया भवतीति। भेदः पूर्वावस्थाया इति शेषः। प्राक् सद्गुरुकटाक्षसमये। एवावधारणे। तस्य सिद्धस्य। देहात्मविवेकाद्देहात्मनोः स्वरूपविमर्शात्। स्वर्गे स्वस्वरूपं गते सति पश्चात् कालतो देहत्यागे पूर्व्वावस्थायां भेदो न विद्यत इति न देहात्मविवेकाद्देहात्मविवेकभावात् देहविश्लेषत एव देहाभिमानत्यागः देहाभिमानरहित्यमिति यावत्। इतरेषां पामराणां। सः देहाभिमानत्यागः। अस्य कालत इत्यनेनोत्तरत्र सम्बन्धः। साध्यानां सद्‌गुरुकटाक्षे सत्यप्यनादिदुर्व्वासनावलाज्जड़क्रियातात्पर्य्येण देहात्मविवेकविमुखानां। साधकानां सद्गुरुकटाक्षादुपल- ब्धपरमार्थस्वरूपानुभूत्यां सत्यां अपि निःशेषापरिमुक्तदुर्व्वसनानाञ्च। चः समुच्चये। कालतः कालधर्म्मतः शरीरविनाशादिति यावत्। एतदुक्तं भवति पामराणां साध्यानां साधकानाञ्च देहात्मविवेकाभावाद्देहविश्लेषत एव देहाभिमानत्यागो भवति। पुष्यादिषु तु मासेषु षट्सु उत्तरायण इति यावत्। राकोपकण्ठतः शुक्लपक्षाष्टम्युत्तरार्द्धादारभ्य कृष्णपक्षाष्टमीपूर्वार्द्धान्ततिथिष्विति यावत्। सुगतित्वस्य ज्ञापकमित्यने दक्षिणायने कृष्णाष्टम्युत्तरार्द्धादारभ्य शुक्लाष्टमी पूर्व्वार्द्धान्ततिथिषु च मरणाद्दुर्गतित्वस्य ज्ञापकमिति कथितः। सिद्धः ज्ञातपरमार्थः। तुर्विशेषे। पूर्व्वतो मुक्तः तेन हेतुना अस्य सिद्धस्य निधनं देहविश्लेषः। सर्व्वदा सर्व्वतः देशतः प्रकारतश्चेति शेषः। तथा यथोत्तरायणे
-
-
 
 **यतस्तेनास्य निधनं सर्वदा सर्वतस्तथा।**
 
@@ -10197,8 +9207,6 @@ OXFORD,
   भूमिष्ठत्व इत्यादिना श्लोकेन तदुत्तरं सनिदर्शनं कथयति। तत्र आश्रयवशात् दृष्टान्तस्थलविशेषवशात् दार्ष्टान्तिके प्रकृतिविशेषवशादिति यावत्। एतदुक्तं भवति भूमिष्ठत्वे समाने आश्रयवशात्तोयानां रसभेदवद्देहवत्त्वेसमाने प्याश्रयप्रकृतिविशेषवशाद्वुद्धेर्गुणवैविध्यं जायत इति। अनन्तरमाश्रयविशेषः केन जायत इत्यादिशङ्कायामाह स च कर्म्मभिरेव वै तत्र स च आश्रयविशेषश्च जायत इति शेषः। कर्म्मभिः कर्मदृष्टान्ते तोयकार्य्यै रसादिभिरिति यावत्। दार्ष्टान्तिके बुद्धिकार्य्यैरिति यावत्। एतदुक्तं भवति तोयानां रसादिभिरेव स्थलविशेषवशाद्वुद्धेः कार्य्यैरेव प्रकृतिविशेषो भवतीति॥६८॥
 
   यथेत्यादिभिः स्वस्वरूपकमित्यन्तैस्त्रिभिः श्लोकैर्गुरुमुखादेव प्राप्यं विध्यादिकमपि सनिदर्शनं प्रतिज्ञामुप- दिशति। तत्र अश्वत्थगत इति तरुसामान्यग्रहणमन्तरेण विशेषग्रहणात् गुरोरप्यधिकारिविशेषमुपलक्षयति। इतरैः छेदनाद्यैः। क्वचित् देशे काले चेति शेषः। शुष्कमथनव्यापृतिमित्यत्र शुष्कशब्देन देहात्मविवेकात् गुरोर्देहादिषु तात्पर्य्यं। मथनव्यापृतिशब्देन शिष्यस्य तदुपास्त्या-
-
-
 
 **तथात्मज्ञानसंप्राप्तिः सद्गुरुप्राप्तितो विना।  
 न कस्यापि भवेदेषा प्रतिज्ञा विश्वतोऽनिशम्॥७०॥**
@@ -10231,8 +9239,6 @@ OXFORD,
 
   सुलभत्वमित्यादिना श्लोकेन लक्षणषट्कम्॥७४॥
 
-
-
 **आर्जवञ्चावित्तलौल्यं विषयानतिसङ्गिता।  
 अदैर्घ्यसूत्र्यामक्षौद्र्यं नात्यगाधाशयात्मता॥७५॥**
 
@@ -10262,8 +9268,6 @@ OXFORD,
 
   परस्तवनेत्यादिना श्लोकेन लक्षणषटकम्। तत्र परस्तवननिन्दासु परस्तवनेषु परनिन्दासु च॥७९॥
 
-
-
 **अगोपनं स्वभक्तानामभक्तानाञ्च गोपनम्।  
 गुरुविद्यागमाचारस्तवनं तत्प्रवर्त्तनम्॥८०॥**
 
@@ -10290,8 +9294,6 @@ OXFORD,
 
   तदित्यादिभिः सदेत्यन्तैर्नवभिः श्लोकैरात्मज्ञानवतां समाचारक्रममुपदिशति। तत्र तत्कृत्यंआत्मज्ञानवतां कृत्यं। निरस्ताशेषसंसारमौर्ख्याज्ञानाविवेकवान् निरस्ताशेषसंसारवान्। निरस्ताशेषमौर्ख्यवान्। निरस्ताशेषाज्ञानवान्। निरस्ताशेषाविवेकवान्। इति ग्रन्थयोजना। अतस्मिंस्तद्वुद्धिःसंसारः। अतस्मिंस्तदभिमानो मौर्ख्यं। तस्मिन्नतद्वुद्धिरज्ञानं। तद्विमर्शहानिरविवेकः। देशकालकुलाचारानित्यत्र देशाचारः कालाचारोऽवस्थानुगुणाचारः कुलाचारस्तानिति यावत्। गुरुराजादिकल्पितान्। गुरुराजादीत्यत्रादिशब्दःप्रथमे पटले “गुरुं तदग्रतः” इत्यादिना श्लोकेन प्रोक्तपूज्यविषयः। राजादीत्यत्रादिशब्दः तत्समानपुरुषविषयः। देहास्थैर्य्यं स्वभावत इति यावत्। अत्र
 
-
-
 **वृथा न कालं गमयेद्द्यूतस्त्रीस्वापवादतः।  
 गमयेद्देवतापूजाजपयोगस्तवादिना॥८६॥**
 
@@ -10315,8 +9317,6 @@ OXFORD,
 
 ![](../books_images/U-IMG-1723277719Screenshot2024-08-10134504.png)द्वितीयान्तानां पदानामुत्तरत्र श्लोके विमृशेदित्यनेनान्वयः। अन्यान् व्यापारान् दृष्टादृष्टानुपयुक्तानिति यावत्। कालतः क्षणात् पतितान् वन्धुचित्ताज्ञादुर्लङ्घ्यान् वन्धुभिः चित्तैः राजादिभिरपि दुर्लङ्घ्यान् कालतः क्षणात् पतितान् पुरुषादीनिति यावत्। अशुभात्मनः अशुभस्वभावान्। द्यूतस्त्रीस्वापवादत इत्यंत्र द्यूतशब्दो निर्जीवद्यूतसजीवद्यूतविषयः। स्त्रीशब्दस्तु धर्मपत्नीव्यतिरिक्तविषयः। स्वापशब्दः प्राप्तेतरविषयः। वादशब्दो जल्पवितण्डादिविषयः। स्तवादिना इत्यत्रादिशब्दः प्रदक्षिणनमस्कारादिविषयः। गुरोः कृपालापकथास्तोत्राग़मविलोकनैः गुरोः कृपायाः गुरोरालापानां च गुरोः कथाभिः गुरोः स्तोत्रैः गुरोर्लब्धागमविलोकनैश्च। तद्गुणैः गुरुगुणैः। अस्मिन् लोके चोत्तरश्लोके च तृतीयान्तानां पदानां स्तुवीतेत्यनेनान्वयः। तत्कृपाधिक्यैःगुरुकृपाधिक्यैः। तद्गुणैरित्यादि तृतीयान्तेषु त्रिषु चानन्तरश्लोके तृतीयान्तयोः पदयोः च गुरोरित्यध्याहार्य्यं। तत्र सत्यतः सत्येन वाङ्मनःकर्म्मणामेकरूपेणेति यावत्। ज्ञानादिभिरित्यत्रादिशब्दो दानादिविषयः। नित्याचिन्ता षोड़शनित्यानां स्वरूपचिन्ता। स्वात्मशुद्धिः स्ववाङ्मनःकायानां शुद्धिरिति यावत्॥९०॥
 
-
-
 **पूर्व्वोक्तद्वादशशास्त्रस्य मध्ये कृत्वा यथाबिधि।  
 योनिं तन्मध्यतो देवीं ललितां पृष्ठतो गुरून्॥९१॥**
 
@@ -10333,8 +9333,6 @@ OXFORD,
 
  पूर्वोक्तेत्यादिभिरभूदित्यन्तैः षड़्भिः श्लोकैः आत्मवतां जीवन्मुक्तानां ललितापूजाक्रममुपदिशति। तत्र पूर्वोक्तद्वादशास्त्रस्य एकोनविंशपटलप्रोक्तद्वादशास्त्रस्य मध्ये सर्व्वमध्यस्थवृत्तमध्ये अन्यूनाधिकमानमिति यावत्। योनिं स्वाभिमुखाग्रत्रिकोणं। तन्मध्यतः योनेर्मध्ये। पृष्ठतः योनेः प्राग्रेस्ववृत्तरेखयोरन्तराले। गुरून् देबीरूपतयेति यावत्। पार्श्वयोः पार्श्वरेखाद्वयवृत्तरेखान्तरालद्वये। आयुधान्यष्टौ पूजापटलोक्तवाह्यादिप्रातिलोम्येनेति यावत्। कोणेषु मध्ययोनेरग्रादिषु त्रिकोणेषु। परितः क्रमात् प्रदक्षिणक्रमात्। कामेश्वर्य्यादिकाः कामेश्वरीं भगमालिनीं वज्रेश्वरीं च ।
 तद्वहिर्द्वादशसु अस्रेष्विति यावत्। अन्याः कामेश्वरीभगमालिनीवज्रेश्वरीव्यतिरिक्ताः। तत्तन्नित्याविद्याभिः तृतीयपटलप्रोक्ताभिरिति यावत्। एवाबधारणे। वा विकल्पे। तन्नामविद्याभिः एकोनविंशपटले प्रोक्ताभिरिति यावत्। ताः नित्याः। एतदुक्तं भवति एकोनविंशपटलप्रोक्तविधानेन द्वादशास्रचक्रं विलिख्य तन्मध्यवृत्तमध्येस्वाभिमुखं समत्रिरेखं त्रिकोणं विलिख्य तन्मध्ये ललितां तन्मध्ये त्रिकोणप्राग्रेखावृत्तरेखान्तराले नाथशक्तीः तदुभयपार्श्वरेखाद्वयवृत्तरेखान्तरालद्वये वाय्वाद्यप्रादक्षिण्येन हेतीर्मध्ययोनेरग्रादिषु त्रिषु कोणेषु कामेश्वरीभगमालिनीवज्रेश्वरीश्च तद्वहिर्द्वादशास्रेषु अन्या द्वादश नित्याश्च प्रादक्षिण्येन तत्तन्नित्याविद्याभिर्नामबिद्याभिर्वा यजेदिति। तस्य आत्मवतः। नित्यनैमित्तिकादिकमित्यत्रादिशब्दः काम्यविषयः। तन्मध्येद्वादशास्रस्य मध्ये ।नबयोनिं
-
-
 
 **तन्मध्ये नवयोनिं बा विधायात्रस्थशक्तिभिः।  
 पूजयेत् प्राग्वदुभयप्रकारादेकयोगतः॥९५॥**
@@ -10357,8 +9355,6 @@ OXFORD,
 
   समस्तमित्यादिभिर्भेदिन इत्यन्तैस्त्रिभिः श्लोकैस्तन्त्रार्थवेदिनः फलं तन्त्रदाने सम्प्रदानभूतस्य वर्जनीयस्य त्रयोदशदोषांश्चोपदिशति। तत्र परमेश्वरीति देवीसम्बुद्धिः। यत्परामर्शतो भावः तन्त्रार्थविद इति शेषः। आवयोरैक्यमश्नुते शिवशक्त्योरभेदस्वरूपो भवति। तच्छब्देन तन्त्रस्यानुभाव उच्यते। तुरवधारणे। कदाचन आपत्स्वपीत्यर्थः। दम्भाय मिथ्याचाराय। प्रछन्नानयशीलिने प्रच्छन्नाय अनयशीलिने चेति यावत्। नायाचते नास्तिकाय चेति यावत्। वित्ताय अर्थार्थमिति यावत्। अदक्षाय जड़ाय। भेदिने द्विधाभावशीलाय ॥९९॥
 
-
-
 **यस्तन्त्रमेतत् सकल नित्याविद्यास्तु षोड़श।  
 शक्त्या संगृह्य बिधिवद्भजते स मदंशकः॥१००॥**
 
@@ -10380,8 +9376,6 @@ OXFORD,
 स्वरूपप्रकाशनपरं षट्त्रिंशत्पटलं परिपूर्णं  
 परामृष्टम् ॥३६॥ ॐतत्सत् ॥**
 
-
-
   ग्रन्थसंख्याः—
 
 **षट्त्रिंशे पटले ज्ञेयाः शिवतत्वमयेऽत्र च।  
@@ -10389,8 +9383,6 @@ OXFORD,
 
 **तन्त्रे प्रकरणान्यत्र श्रीमत्कादिमताह्वये।  
 शतानां नवकं त्वेकत्रिंशता च समन्वितम्॥९३१॥**
-
-
 
 **भुक्तिभूमानमाधुर्य्यभाग्यगन्धेर्द्धसिद्धिगाः।  
 संसत् सुरश्रीरित्येकविंशत्यक्षरसंख्यया॥**
@@ -10420,82 +9412,8 @@ OXFORD,
 **तां सुन्दरवरक्ष्माभृद्ब्याख्यां प्राक् सम्प्रदायतः  
 समाप्ता चेयं तन्त्रराजटीकामनोरमा ॥ॐ॥**  
 
-
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [^58]: "इत.परमधिकं पद्यार्द्धं पुस्तकान्तरे दृश्यते—मौनी तु गमयेदब्दाच्छ्रियं प्राप्नोति पुष्कलाम् ।"

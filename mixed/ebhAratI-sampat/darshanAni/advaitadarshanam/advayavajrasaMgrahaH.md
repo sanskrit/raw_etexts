@@ -15,8 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUxNjI1ODU2OTM
 
 \[
 
-
-
 [TABLE]
 
 **GAEKWAD’S ORIENTAL SERIES**
@@ -25,25 +23,17 @@ Published under the authority of
 the Government of His Highness  
 the Maharaja Gaekwad of Baroda.
 
-
-
 General Editor:  
 
 **B. Bhattacharyya, M.A., Ph.D.**
 
 **\_\_\_\_\_\_\_\_**
 
-
-
 **No. XL.**
 
 **अद्वयवज्रसंग्रहः।**
 
 **ADVAYAVAJRASAMGRAHA**
-
-
-
-
 
 EDITED WITH AN INTRODUCTION BY
 
@@ -52,8 +42,6 @@ MAHAMAHOPADHYAYA HARAPRASAD SHASTRI
 M. A., C.I.E., Hon. D.Litt., F.A.S.B.
 
 Honorary Member, Royal Asiatic Society of Great Britain and Ireland.
-
-
 
 **Oriental Institute,  
 Baroda  
@@ -180,13 +168,9 @@ of salt in a horn, taking some refreshment before going to an invitation to a di
 
  The second century B.C. was rather disastrous for Buddhism in general and specially for that sect hich was favoured by Aśoka. Three Brahmin dynasties successively reigned in Northern India. They organised militant Hinduism and persecuted the Buddhists in various ways. The Buddhists in China never pronounce the name of Pusyamitra without a curse, for he is said to have persecuted the Buddhists thrice and massacred the monks. They fled beyond his empire,
 
-
-
 to the Punjab, to Southern India, to Western India, and to some bordering countries. That was certainly not the time either for the development of the Buddhist religion or the Buddhist literature. The only isolated work of the second century is the Questions of Menander. It shows in some points an advance from the Mahāsānghika view. Other works are non est. The Lankavatāra-sūtra is sometimes attributed to this century but it is in a language almost Sanskrit, and shows an advance in some points.
 
  Then comes the great Emperor Kanişka. His conversion to Buddhism is a great event in the first century A.D. He held a synod of monks to which the primitive Buddhists were not invited. So they do not acknowledge its existence. Yuan-chwang says that in this synod a commentary was made on all Buddhist works then available, inscribed in copper leaves, and buried under a Stupa in Kāsmīra. Some Orientalists still entertain the hope of digging out these copper-plates and making use of their contents. In this synod the president was Pārsva, the then patriarch of the Buddhist church. Pārsva was succeeded by Punya-yaśas. Aśva-ghosa was the successor's successor of Pārsva. A small body called Mahā-yānists, were present in that synod, they did not however succeed in making much impression, but Aśva-ghosa some time after the synod took up their cause and wrote many works on their system. One of his works is the Mahāyāna-Sraddhotpada-Sūtra and the other work is Sūtrālankāra. This has not yet been found either in Sanskrit or in translation. The Śraddhotpādasūtra though not found in Sanskrit has been found in Chinese translation and has been translated into English. It gives within a small compass all the points in which the Mahāyāna excelled its predecessors. All the twenty sects in Aśoka's time are indis-criminately delegated to a lower position and called Hīna-yāna. Asvaghosa wrote four other small works in Buddhist Sūtra form; (1) on Anātma-vāda; (2) A sūtra on ten Akuśala Karma; (3) on the relation between the Guru and Sisya and (4) on Şaḍgati or the six stages of existence' in the world of desire. All these works have their Chinese translations. I discovered a second poem of his, Saundarānanda by name, which I have edited in the Bibliotheca Indica.
-
-
 
  Aśva-ghosa distinctly calls his works as Mahā-yāna. Mahā-yāna with him is not a sect, not a school of thought, but a theory, which later on crystallized into a school and a sect. All the great Mahā-yāna ideas are to be found in his works, though many of them not in a developed form. The Śūnya-vāda or the theory of void was there; the two kinds of truth, practical and pure, are there; but not in the developed form which was given to it by his successor Nāgarjuna. What he developed is the theory of Dharma-kāya in both its aspects: (1) The aspect of the Absolute, universal, unchanging and unchangeable; (2) The aspect of Samsara, i.e., the aspect of phenomenality changeableness, momentariness and birth and death. Asvaghosa also gives some idea of the three Kayas. Dharma-kāya, Sambhoga-kāya and Nirmāna-kāya. Dharma- kaya as explained before is the totality of the Universe to which nothing can be added and nothing can be subtracted, which is full of Prajñā, or all comprehending knowledge' and Karuña all comprehending love or activity.' Then comes Sambhoga-kāya in which aspect the Dharmakaya is said to enjoy the bliss of the Universe. This is a mysterious form which reveals itself only to the enlightened Bodhi-sattvas. This form is endowed with thirty-two Lakṣaṇas and eighty Anuvyañjanas. The third aspect is Nirmāṇa-kāya or the body of transformation.' Sākya-simha iṣ a Nirmāṇa-kāya emanating from the Universal Dharma-kāya. The idea of Tri-kāya was not in the Mahā-vastu. There when the king of Kalinga wanted Lord Buddha's help, Buddha sent some Nirmitas or duplicates' of his own self to that country. Among the Brahminists this is known as Kaya-vyūha-racanā¹,or sending forth duplicates of one's self. Of the Tri-kāyas, the Dharma-kāya is absolute, others are mere emanations from it and are ultimately absorbed in it. The difference between the Mahā-yāna and Hīna-yāna may be described here. Mahā-yāna is active, Hina-yāna is passive. Mahā-yāna takes an extended view of the Universe whereas the Hina-yāna is extremely narrow-minded. The Mahā-yāna extends
 
@@ -196,13 +180,9 @@ to the Punjab, to Southern India, to Western India, and to some bordering countr
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 its philanthrophic benevolence to all sentient beings while the Hina-yana confines itself to one man. The Mahā-yāna acts according to the spirit of Buddha's teaching, while the Hina-yāna adheres to the letters of his sermons. The Nirvana of the Maha-yāna is complete absorption in the Dharma-kāya. It is called Nirvāṇa without an abode, while that of the Hina- yāna is an escape from birth, death, and old age. It is simply Santa." A comparison of these two sects, of their aims and objects is fully given in the first chapter of Maha-yāna sūtrālamkāra of Asanga which has been edited with a translation in French, by Prof. Sylvain Levi. Asanga's work, the editor says, is based on the Sūtrālankāra of Aśva-ghosa.
 
  After Asva-ghosa comes the great propagator of Mahā-yāna Bodhi-sattva Nāgārjuna. It is said that he recovered from the nether world a complete Sūtra literature composed by Buddha in Sanskrit. This is called the Prajñā-Pāramitā which has many recensions; one is Sata-sahasrikā, one is Pañca-vimśati-Sahasrikā, one is Sapta-śatikā and one is Svalpakṣarā. The Prajñā-pāramitā eight thousand was edited by Rājā Rājendra- lala Mitra and the one of hundred thousand is in the course of publication by the Asiatic Society of Bengal. The teaching of the Prajñā Pāramita is ģūnya-vāda, pure and simple. It is written in the form of an interlocution between Buddha and one of his disciples and as it is in the form of a popular lecture, it is full of repetitions. Rājā Rājendra-lāla denounces the style of Prajñā-pāramitā as verbose. But he does not take into account the fact that they are popular lectures on subjects extremely abstruse; one cannot expect to impress on common people such abstruse ideas without hammering it into their brain and hammering by means of repetitions. The Prajñā-pāramitā 8,000 is concerned with the Sunya-vāda. It is a religious work. It treats of the merits of offering flowers, etc., on Caityas. Prajñā-pāramitā is said to be the mother of all Buddhas and Bodhi-sattvas. It generally follows the theory of Aśva-ghosa's Śraddhotpada and Nāgārjuna's Mādhyamaka-kārikā the great controversial work which made Nāgārjuna's name famous. In the very first chapter it examines everything under four heads: (i) Sat, existence (ii) Asat, Non-existence, (iii) Tadubhaya, a combination of existence and non-
-
-
 
 existence, (iv) Anubhaya, a negation of existence and non-existence. Anything that stands under the examination under these four heads is real or true, the others are false, momentary and phenomenal. That real thing is described in the very Mangalācaraṇa as Eight Noes' The Mangalācaraṇa runs thus:—
 
@@ -213,13 +193,9 @@ existence, (iv) Anubhaya, a negation of existence and non-existence. Anything th
 
  Shortly after Nāgārjuna there arose a new school of thought amongst the Mahā-yānists who were not satisfied with the Sunya-vāda. They thought that Śūnya-vāda cannot be the highest aim of human aspirations. They wanted consciousness along with it. A great monk named Maitreya-nātha wrote a very short but a very pregnant work in eight short chapters, entitled, the Abhisamayālankara-kārikā and the Prajñā-pāramitā 8,000 was converted into a larger recension in 25,000 slokas
 
-
-
 according to these Kārikās. This was the Prajñā-pāramitā which the Yogācāras took up as their standard work, and Asanga and Vasu-bandhu derived their inspiration from this historical Maitreya-nātha, and not from the future Buddha Maitreya as it is represented in Yuan-chwang's work. The new Prajñā-pāramitā is divided into 8 chapters according to the chapters in the Kārikās. The new school examined the world according to three aspects of the knowledge. These three aspects are Parikalpita, Para-tantra and Parinispanna. The first is for the ordinary man who looks upon the world from the ego-centric point of view, Para-tantra knowledge depends upon others that is, in relation to others, or in other words, upon relativity. But when relativity is banished and the absolute immerges and absorbs our own intellect, then it is called Parinispanna or finished knowledge.
 
  Buddhist philosophy has four different schools: (1) Vaibhāṣika depending on the Vibhāṣā literature prepared in the fourth synod during the reign of Kanişka. It believed in the existence of both the external and internal worlds, though as a Buddhist school both the worlds were Kṣaṇika or momentary and Śūnya; (2) Sautrāntikas base their philosophy on the Sūtranta literature of the Buddhists. They do not believe in the external world but think that it is simply a projection of the internal world which we wrongly think to be external (3) Yogācāras do not believe even in the existence of the internal world. They think that the only truth available is one single idea. We are sure of a single idea, the present idea, neither of the past nor of the future. How can there be identity if a past thing is not compared with the present? How can one pronounce that this is the same as that. Therefore this school thinks there is a chain of ideas. The ideas may be momentary but the chain is not. This chain is called the Alaya-Vijñāna and to the idealist this serve all the purpose of an ego or Atmā. (4) Last of all comes the Madhyamakas, who do not believe even in the ideas and the Ālaya-Vijñāna; they are Sunya-vadins, pure and simple. But Sunya as I have already said is neither void nor a negation of existence, but the Absolute One. They call it Śūnya, because the human language has no word to express the idea of the Absolute, which is beyond the comprehension
-
-
 
 of Man, and language concerns itself with those things which Man can and does comprehend.
 
@@ -231,15 +207,11 @@ of Man, and language concerns itself with those things which Man can and does co
 
  Two Yanas are well-known, the Mahā-and the Hina-yana. Of course, the Mahā-yānists arrogate upon themselves the title of 'great' and relegate all others as Hina-, or 'low.' The latter however, do not take this opprobrious epithet lying, they call themselves as belonging to either Śrāvaka-yāna or Pratyeka-yana and return the abuse on the Mahā-yānists by calling them Kāpālikas. The Śrāvakas hear from Buddha his Upadesa, act according to his directions and strictly follow his instructions. They cannot get Nirvāņa (even the lowest form of Nirvāņa, which they aspire to) without a Buddha. The Pratyeka-Buddhas are those who by their own exertions at times, when there were no Buddhas in the world, attain to Nirvana. They call the Mahā-yānists not Mahā-but Bodhi-sattva-yāna. That also, I believe, in derision, because according to them there can be but one or two Boddhi-sattvas in the world at a time; but every votary of Mahāyāna is a Bodhisattva. There are hundreds and thousands of Bodhisattvas at one time and at one place. Every Gubhaju in Nepal is a Bodhisattva.
 
-
-
  The The distribution of the four schools in the three Yānas was a matter of speculation among the students of Buddhism. Advaya-vajra who belonged to the eleventh century of the Christian Era, however, makes a distribution. He says that the Śrāvaka-yāna has three phases, Mṛdu, Madhya and Adhimātra or Moderate, Intermediate, and Extreme. Western Vaibhāṣikas are either moderate or intermediate Srāvakas, and the Vaibhāṣikas of Kāṣmīra are extreme Śrāvakas, Pratyeka-buddha-yāna is like the extreme Śravaka. Mahayana is of two sorts: Paramitā-naya and Mantra-naya The word Mantra-naya is often used as Mantra-yāna which is rather misleading. The Pāramitā-naya which generally goes by the name of Mahā-yāna has also three phases: moderate, intermediate and extreme. The moderate people are Sautrāntikas, the intermediate people are Yogācāras and the extremists are Madhyamakas. This, according to Advaya-vajra, is the complete distribution of the four schools into the three Yānas.
 
  The Buddhists did not believe in the aggregates. Trees they were prepared to believe but forests they did not believe. What is called Sāmānya or generality was an abomination to them. They were prepared to believe in the five elements but they would not believe a general principle as element. This is a matter of standing dispute between the Brahmins and Pūrva the Buddhists. Sabara, the commentator of Mimāmsā, quotes this theory of the Maha-yānists, and says: "anena pratyukto Mahā-yānikaḥ pakṣaḥ. In a short work, called the Sāmānya-Nirākaraṇa-Dik-Prakāśikā the Buddhists categorically refute one of the seven categories of the Vaišeşikas known as Sāmānya or generality.
 
  One of the elder contemporaries of Sakya Simha named Ajita-Keśa-Kambala started the theory that as water, molasses and the seed of wine coming together produce intoxicating effect, so earth, air, fire and water coming together produce vitality (Caitanya). There is no such thing as Ātmā. When a man dies the elements return to their proper places and the vitality is gone. So Buddha taught that man is simply an aggregate of five Skandhas or bunches: (i) Rūpa, matter, (ii) Vedană, feeling, (iii) Samjñā, conception, (iv) Saṁskārā, activity and (v) Vijñāna, consciousness. They come together
-
-
 
 by force of their previous Karma and form a human being. At death the five separate and go their own way as directed by their Karma. So there is no Atmã or soul. The five Skandhas enjoy or suffer according to their Karma. This is directly opposed to Brahmanical ideas that the aggregate (Samghāta) works for others and not for himself. As I have said before Buddha's difference with his Sāṁkhya teachers turned mainly on the point of Atma. They said it exists, it thinks, it enjoys; Prakṛti is simply a dancing girl who dances according to her own will. As soon as the seer of the dance says "Bās" there is an end of the connection between the Puruşa or the human soul and the Prakṛti the internal world, and the Puruşa becomes Absolute. Buddha says this cannot be the Puruşa is still subject to the condition of birth as it has the character of seed. The seed may remain dormant for want of requisite conditions but when these conditions are favourable it will again germinate, and so he said that the soul or Purusa is nothing but the aggregate of five Skandhas. In other words he did not believe in the existence of an ego. All that was permanent in Samkhya, Buddha made momentary. The Puruşa is distinct from the permanent matter and so its permanency also is to be destroyed, and Buddha destroyed i-
 
@@ -247,13 +219,9 @@ by force of their previous Karma and form a human being. At death the five separ
 
  Just at this point it is necessary to digress a bit to explain what the ardent Mahā-yānist philosopher did for the benefit of those who were either unable or incapable of so much study and meditation as is required to understand the subtle theories
 
-
-
 of Mahā-yāna. They invented Dhāraṇis for them. They are rather long Mantras and a philosopher said to his disciples, "Read, recite and repeat" this Dhāraṇī and you will get all the benefit of studying such and such work and practising such and such Dhyāna. The Mantras will hold you fast to your creed and so they are called Dhāraṇīs. The Dhāraṇīs generally range from fifty to hundred syllables. In the fifth or sixth century A.D. all Indians, Hindus and Buddhists alike, had Hṛdaya Mantras rather longish, certainly longer than Dhāraṇis, giving the essence of certain creeds. Thus Prabhakara Vardhana repeated the Aditya Hṛdaya Mantra, his elder son, Rajya-Vardhana, repeated the Prajñā-Pāramitā Hṛdaya Mantra and his younger son, Harṣa-Vardhana, repeated the Mahesvara Hrdaya Mantra. These Mantras are simply symbolic; they symbolised particular creeds, particular schools and particular works. If so, if it is all symbol, why not make the symbol as short as possible. So they began to take the initial letter as the symbol of the idea in the case of Buddhists, and of the deity in the case of the Hindus. But after a certain time they gave up taking the initial letters. They evolved out of the shapes of different character of the alphabet, the form of different characters of the alphabet the form of different deities. Thus अ is Viṣṇu, आwritten with a hook below is Ananta, the serpent God who often remains coiled Kuṇḍalita, इ used to be written with three dots and so that letter represented Tri-vikrama, and so on, to the end of the alphabet. These were called the Bijas and the Yogis used to evolve out of these Bijas the form of the deities whom they worshipped.
 
  But these Mantras were not so effective as the representation of the deities either on canvas or in stone. So the five Skandhas were transformed into five forms, Vairocana, Akṣobhya, Ratna-sambhava, Amitābha and Amogha-siddhi. Meditate on these and you meditate on the five Skandhas, no ego, no soul. In later Buddhism and in later iconography which rose after the full development of Mahā-yāna, Śākya Simha lost his pre-eminent position in the Buddhist pantheon. He was not much heard of. When I went first to the Svayambhū Kṣetra in company with Pandita Indrānanda, a learned Buddhist priest, my first question was : where is Śākya Simha? He is not in the Stupa where I
-
-
 
 see the five Dhyani Buddhas. My friend replied, Sakya Simha is a mere writer, like Vyāsa or Moses, he simply records the decrees of these five. There he is at some distance from the Stūpa on a high pedestal. Sakya Simha sat with a pen in hand, at the top of the old road which at one time led from below to the top of the hill. But at the head of the new staircase of 600 steps there is a big Vajra covered with gold leaf on a big Mandala. The Maṇḍala and the Vajra have more significance than the old Śakya-muni had some centuries before.
 
@@ -262,8 +230,6 @@ see the five Dhyani Buddhas. My friend replied, Sakya Simha is a mere writer, li
  The Sādhana-mālā says, that the Śaktis orfemale emanations from these Dhyani Buddhas are five, and there are five Bodhi-sattvas also emanating from them. Other emanations follow and the magnificent Buddhist Iconography is the result of these emanations. Advaya-vajra though he has got several Sadhanas in the Sadhana-mālā does not say so here, except that he speaks of the female emanations or Śaktis.
 
  Having thus given the history of Buddhism according to my own light I now proceed to give some account of the more important topics treated of in this work, such as the doctrines of the different Yānas, theory of the three Kayas, of Karuņā
-
-
 
 according to different schools of the theory, of Mahā-sukha, and of such other topics.
 
@@ -277,8 +243,6 @@ according to different schools of the theory, of Mahā-sukha, and of such other 
 
  The mild Śrävaka has his way chalked out, and he is unsympathetic. Therefore some think that he is Šākya-Buddha.
 
-
-
 Others say that any one in some future time will be a Buddha. There is none on the earth who is not to be so. Therefore there should be no remissness in attaining perfect Bodhi. Even the mild Śrāvaka will at one time become a Sambuddha. One whose way is chalked out means one who has to wait till another Buddha appears.
 
  The intermediate Śravaka is to be a future Pratyeka-Buddha and the extreme Śrāvaka is to be a Buddha in a definite but a very long period of time.
@@ -291,8 +255,6 @@ Others say that any one in some future time will be a Buddha. There is none on t
 
  The Mahāyāna is explained in three schools of thought amongst the Buddhists, Sautrāntika, Yogācāra and Mādhyamaka, described by Advaya-vajra as mild, intermediate and extreme Mahā-yāna. The mild Mahāyānist thinks that the object of senses which is an aggregate of atoms produces the knowledge of things endowed with a form (Sākāra). The peculiarity of this doctrine is that it believes in knowledge endowed with a form. How are we to believe in the three times past, present and future ? The answer is that causation proves their existence because it is capable of giving a form to the knowledge. Its form of meditation is the transcendental character of the sense organs which have retired from their object. In this matter repetition is necessary. Repetition means by right knowledge fix what mind is, and then repeat. When you repeat you find that the mind is neither here nor there. The Sautrāntikas practise the five Pāramitās but consi-
 
-
-
 der the Prajñā pārāmitā as essential even among these five. If there is no result in the five they will at least benefit sentient beings.
 
  The intermediate is Yogācāra. It thinks that there cannot be atoms because atoms will then have six sides and will be no atom. So there is no external object. Mind alone remains. There is no subject and no object, what appears is the form of the mind. If the mind assumes the colour blue, etc., what is the good of the external object; and if the mind does not assume the colour blue, etc., what is the good of acknowledging the external object? The sense-organs and their objects are naturally not outside the mind. The mind itself is perceived in the perception of form, etc. This is the doctrine of those followers of Yogācāra who believe in knowledge which is endowed with a form. But there are other followers who do not believe in that sort of knowledge. They say that knowledge has no form, it is felt within. The object of senses are not external as fools think. The mind on which Avidya plays produces the illusion of the external objects. The meditation of this class of Yogācāra is the realisation of the unitary principle in variegated form from which all phenomena is excluded. Wherever the mind goes the object goes there because where else shall it go as the mind pervades everything.
@@ -301,8 +263,6 @@ der the Prajñā pārāmitā as essential even among these five. If there is no 
 
  The impurity of the meditation of the Nirākāra school falls in with Bhāṣya-kāra's ideas. He believes in a Brahma,
 
-
-
 eternal, steeped in pleasure with pure light and without all troubles arising from diversity, name and form, etc. I am the ocean of transparent knowledge and the numerous cognitionsare only shadows. A cognition whether rising or disappearing does not produce phenomena.
 
  The extreme Mahāyānists are the Madhyamakas. There are two schools, one is called Māyopamādvaya-vāda and the other is called Sarva-dharmā-pratiṣṭhāna-vada. The first examines everything under four heads, existence, non-existence, a combination of the two and a negation of the two. That which is external to these four is truth. The meaning is, it is not existence because there is contradiction. It is not non-existence because there is illusive form. On account of a combination of these two contrary arguments it is not a combination of the two. It is not a negation of the two because that cannot be comprehended. The meditation of this school is non-duality which may be compared to illusion. The impurity of its meditation is the addition of the idea of annihilation. Their theory is the fulfilment of the six Pāramitās on the principle of Mayopamādvaya “non-duality comparable to magic."
@@ -310,8 +270,6 @@ eternal, steeped in pleasure with pure light and without all troubles arising fr
  The deliberation of the other school which believes in all phenomena to be not established is as follows: The world is not permanent, nor is it subject to destruction nor is it a combination of the two nor is it a negation of the two. When nothing is established that is truth. There can be no such theory that the mind does not know itself. According to the Mādhyamakas there can be no attribution (Āropa), so there can be no negation of the opposite (Apoha) and no injunction (Vidhi). So when everything is attributed that cannot truly exist, the knowledge which is spontaneous is said to be transcendental. That which is to be declared transcendental by hard thought cannot be called transcendental. "He who understands the world to be uncreated, his knowledge is purified by Bodhi. To him the world appears real spontaneously.
 
  It is said: When the truth flashes itself spontaneously free from all attribution by means of words such as Sūnyatā we simply emphasise that there can be no attribution.
-
-
 
  The meditation of this school is the realisation without paying the least attention to the object that comes for examination, and to which nothing can be attributed. The impurity of its meditation is the state of stupefaction in which all objects are non-existent. In this theory the realisation of the six Pāramitās without any attribution is enjoined.
 
@@ -323,8 +281,6 @@ eternal, steeped in pleasure with pure light and without all troubles arising fr
 
  As the whole world, phenomenal and noumenal, resolves into one word and one idea of Sūnyatā, so the whole world
 
-
-
 of activity in all its variety of forms resolves into one word Karuņā. The word is common to all sects of Buddhism all the Yānas and all the schools. In the two Yanas, Śrāvaka and Pratyeka, Karuņā arises from seeing all sentient beings daily beset by all sorts of original miseries and the results arising therefrom. This is what is called the Sattvālambanā Karuna, compassion for sentient beings. In the Maha-yāna in its mild and intermediate forms, namely, Sautrāntika and Yogācāra, Karuņā arises from seeing all phenomenal world as of an impermanent nature. It is called Dharmavalambanā Karuna compassion for the phenomenal world.
 
  In Mahā-yāna in its extreme from (Madhyamaka) Karuṇā is not for anybody or anything, but is a part of the nature of Bodhi which is an absolute existence. Karuņā here partakes of the same transcendental character as the Sūnyata conceived by Madhyamakas of the two schools.
@@ -332,8 +288,6 @@ of activity in all its variety of forms resolves into one word Karuņā. The wor
 **THE PRINCIPLE OF UNION (YUGANADDHA).**
 
  The pure manifestation (of Sunyatā) is known to be immutable (Avikārī) and the mutable is also not born because it is produced by causes and conditions purified by enlightenment. Form is not in the form, it is not in the eye, it is not in the consciousness of form. The relation is just as that of fuel and fire. In churning fire, the fire is not inthe plant, nor in the churning rod, nor in the hands of the operator. It is produced by causes and conditions. Does ignorance produce its progeny? Or does ignorance arise after they are born? If it does not produce before, it nothing. Thus all phenomena are without existence because they are merely causes and conditions. A Yogi believing firmly in the non-existence does not violate his vows. Because it has no existence, therefore it is not produced; because it has causes and conditions, therefore, it does not come to an end. Thus both Bhāva and Abhāva are not in existence, they appear as coupled together. The union of Sūnyata and Karuņā will not be made the subject of your own notion, they are naturally joined together in union. The wise Yogi who believes in the unsubstantial character of the world by body, mind, and speech will be regarded as dutiful even though he may neglect his ordinary duties.
-
-
 
 **V. MAHĀ-SUKHA.**
 
@@ -343,13 +297,9 @@ of activity in all its variety of forms resolves into one word Karuņā. The wor
 
  Both the truths, real and apparent, when pure is Sūnyatā which is the knowledge of Yogins. By all means with no fear of untoward results these two truths should be considered one and the same. The pure-minded Yogi should sink himself in Mantra or the meditation of Mantra. Then the whole world
 
-
-
 will appear as Māyā and as one or in a non-dual form. If he then enters existence he assumes the position of the coupled one and so becomes intent on the good of all creatures. The circle of universe looking like a Devatā with a pure mind is the means and Śūnya is Prajñā. With external and internal purity, the truth in which Prajñā and Upāya merge, the Yogi enjoys pleasure.
 
  If it is only produced by causes and conditions, it is neither existence nor Śūnyata. The manifestation of Śūnyatā is in the form of a Devatā which is naturally non-existent. Whenever there is manifestation it is a manifestation of Sunya. When the mind rocks between duality and non-duality, Vāsanā is produced. The Yogi considering himself as Heruka and standing as a worshipper for Heruka roams the world like a lion with Bhāvas for his Guru.
-
-
 
 **विषयानुक्रमणिका।**
 
@@ -377,8 +327,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 | तत्वदशक                 |
 | अमनसिकाराधारः           |
 
-
-
 **अद्वयवज्रसंग्रहः।**
 
 **१। कुदृष्टिनिर्घातनम्।**
@@ -398,8 +346,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 चिन्तामणिरिवाकम्प्यः सर्व्वसङ्कल्पवायुभिः।  
 तथापि सर्व्वसत्त्वानामशेषाशाप्रपूरकः॥
-
-
 
 फलं तत्त्वविपक्षाणां विध्यपोहविवर्ज्जनात्।  
 सम्बो(म्ब)धिर्बुड्यते धन्यो तत्पश्चात्त्वादिकर्म्माणि॥
@@ -428,8 +374,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 सम्भोगनिर्मिते हेतुर्दानशीलक्षमात्रयम्।  
 ध्यानप्रज्ञेति धर्मस्य वीर्य्यन्तुभ\[य\] योर्मतम्॥
 
-
-
  तस्माद्बोधिसत्त्वेन सुविशुद्धादिकर्म्मविहारिणा भवितव्यम्, विपर्य्यसे च नास्तिकवादप्रसङ्गः। तदुक्तम्—
 
 शुभाशुभं यद्यपि नि\[:\]स्वभावकं  
@@ -448,15 +392,11 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  तस्मादुन्मत्तव्रतस्थितानामप्यादिकर्म्म प्रवर्त्तत एव। चार्व्वाकपशोर्नष्टपरलोकस्य वचनं सर्व्वथैवायुक्तत्वात् नोदाहृतम्। भूतशैक्षं प्रति बोधिसत्त्वस्य प्रथमं दीयते पोषधम्। तदनु शिक्षोपदेश इति श्रीहेवज्रवचनात् प्रथमं तु पोषधदानम्। समन्वाहर भदन्ताचार्य्य अहमित्थंनामा अमुकनामा उपासको बुद्धंधर्म्मं सङ्घं शरणं गच्छामि यावदाबोधिसण्डतः। एवं द्विरपि त्रिरपि। एवं
 
-
-
 चिशरणगतं मां वदन्तो धारयन्विति। समन्वाहर आचार्य्यअहममुकनामोपासक इमां बेलां उपादाय यावत् श्व\[:\] सूर्य्योदयमिहान्तरे सर्व्वप्राणिबधात् परस्वहरणात् अब्रह्मचर्य्यात् तथा वाग्भेदात् अनृतात्मत्वो (दो) पजननात् पानात् विकालाशना \[त्\] मालावर्णकनृत्यगी \[२\] तलभितात् शयनासनादुच्छितात् अद्याहं विरतः करोम्यहं तावत्, तङ्गुणैरष्टभिः पोषधगाथा।
 
  गृहपतिबोधिसत्त्वस्तु रत्नत्रयशरणपुरःसरं प्राणातिपातात् अदत्तादानात् काममिथ्याचारात् मृषावादात् प्रकृतिसावद्यात् मद्यपानात् च पञ्चभ्यो विरतः श्रुति- विवेकसम्पन्नो गृहपतिबोधिसत्त्वः परिहृतदशाकुशलः पुनरकरणसम्बरवान् कुशलकर्मचारी प्रातःप्रहरे समुत्थाय मुखशौचादिकं कृत्वा रत्नचयमनुस्मरन् ॐ आः हूँ इत्यनेन आत्मयोगरक्षां कृत्वा यथाधिगमध्यानजपसंस्तवादिकं कुर्य्यात्। नामसङ्गीतिं च चिष्कालमावर्त्तयेत्।
 
 तदनु ॐ जम्भलजलेन्द्राय स्वाहा इत्यनेन परिजप्त्वाऽष्टोत्तरशतपानीयचुलुकानि जम्भलाय दद्यात्। ततो नमः समन्तबुद्धानां सर्व्वतथागतावलोकिनि ॐ सम्भर सम्भर हँ फट् स्वाहा इति मन्त्रं सप्तवारान् आवर्त्य प्रसारितदक्षिणकराङ्गुलपञ्चकविनिर्गतामृतपञ्चधाराभि \[:\] पूरितद्वारमूलनिवेशितसजलबलिभक्तशिक्थकानि मागधेन द्रोणेन प्रवर्त्ति (क) तानि पश्येत्। सकलप्रेतपिशार्चान्तर्यघनच्छटाचयं दत्त्वा बोधिसत्त्वबलिं दद्यात्। इदा \[३क\] नीं सर्व्वसत्त्वेष्वेकपुचप्रेमाकारां मैत्रीम्, दुःखादुःखहेतोः संसारसागरात् समुड्वरणवाञ्छास्वभावां करुणाम्, रत्नत्रयशरणगमनात् समुल्ल \[स\] न्मनःप्रभावां मुदिताम्, अध्यासङ्ग-
-
-
 
 परिलक्षणामुपेक्षां च विभाव्य सर्व्व सत्त्वार्थोद्युक्तचेता परिशुद्धेन गोमयेन विशुड्वेन च वारिणा ॐ आः वज्ज्ररेखे हँ इति मण्डलाधिष्ठितभूभागे चतुरस्त्रादि चतुर्णामन्यतममभिमतमण्डलकं कृत्वा तन्मध्ये विश्ववर्णाष्टदलकमलवरटके सूर्य्यमण्डलोपरि नीलहूऀकारपरिनिष्पन्नं भूस्पर्शमुद्राधरं कृष्णवर्णं अक्षोभ्यम्, तदनु पूर्व्वदले शुक्तॐकारनिष्यन्नं शुक्लवर्णं बोध्यङ्गी (ग्री) मुद्राधरं वैरोचनम्, ततो दक्षिणदले पीतचाँकारजं पीतवर्णं वरदमुद्राधरं रत्नसम्भवम्, ततः पश्चिमदले रक्तहीऀ कारसम्भूतं रक्तवर्णं समाधिमुद्गाधरं अमिताभम्, तत उत्तरदले श्यामखकारजं श्यामवर्णमभयमुद्राधरममोघसिद्धिं च भावयित्वा, ॐ आः वज्जपुष्ये हूँ इत्यनेन अभिमन्त्य सर्व्वामिष्टतरं ढौंकयेत्। एते पञ्चतथागताः काषायवस्त्रप्रावृताः सोष्णीषाः शिरतुण्डमुण्डिताः सूर्यमण्डल(वि) स्थाः। वैरोचनः परशशिमण्डली, ततश्चत्वारोऽप्क्षोभ्याभिमुखाः, अक्षोभ्यस्तु साधकाभिमुखः। एषामग्र \[३\] तः चिशरणगाथामिमां यथाधिगम् \[मा\] मुखीकुर्व्वन् तत्रेयं चिशरणगाथा—
 
@@ -473,8 +413,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 उत्पाद्यामि वरबोधिचित्तं  
 निमन्त्रयाम्यहं सर्व्वसत्त्वान्।
-
-
 
 इष्टां चरिष्ये वरबोधिचारिकां  
 बुद्धो भवेयं जगतो हिताय॥
@@ -509,8 +447,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 परेषां मनसस्तुष्टिं वर्जयेदात्मचेतसः।  
 सुखीप्रासादिको धन्यः सुखावत्यां स जायते॥
-
-
 
 स्यात् षट्‌पारमितापूरीबुद्धादिभिरधिष्ठितः।  
 
@@ -552,8 +488,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 ॐ सर्व्वतथागतमणिशतदीप्ते ज्वल ज्वल धर्मधातुगर्भे स्वाहा। प्रतिष्ठामन्त्रः।
 
-
-
  ॐ स्वभावशुद्धे आहर आहर आगच्छ आगच्छ धर्म्मधातुगर्भे स्वाहा। विसर्ज्जनमन्त्रः।
 
 ॐ आकाशधातुगर्भे स्वाहा। क्षमापनमन्त्रः।
@@ -574,8 +508,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  एतत्सर्व्वाविशिष्टपरिणामनया परिणाम्यमानं विशिष्ट-
 
-
-
 फलावाहकं भवतीति। प्रज्ञापारमितोक्तेन महापरिणामेन परिणामयेत्। तद्यथा, यथा ते तथागता अर्हन्तः सम्यक्सम्बुद्धा बुद्धज्ञानेन बुद्धचक्षुषा जानन्ति पश्यन्ति तत्कुशस्लमूलं यज्जातिकं यन्निकायं यादृशं यल्लक्षणं यत्स्वभावं यया धर्म्मतया सम्बिद्यते तथा अनुमोदे तत्कुशलमूलम्। यथा च ते तथागता अर्हन्तः सम्यक्सम्बुद्धा अभ्यनुजानन्ति परिणाम्यमानं तत्कुशलमूलमनुत्तरायां सम्यक्सम्बोधौ तथाहं परिणामयामि इति। अपरम्—
 
 अनेन चाहं कुशलेन कर्म्मणा,  
@@ -589,8 +521,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 क्षान्त्यर्थं व्याधिशान्त्यर्थं भैषज्यमिव चिन्तयेत्॥
 
  ततो यथामिलितान्येषु ॐ अकारो मुखं सर्व्वधर्माणामाद्यनुत्पन्नत्वात् ॐ आः हूँ फट् स्वाहा इत्यनेन बलिं दद्यात्। ॐ आः सर्व्वबुद्धबोधिसत्त्वेभ्यो वज्जनैवेद्ये हूँ इत्यनेन नैवेद्यं दद्यात्। ॐ हारीति महायक्षिणि हर हर सर्व्वपापान् क्षीं स्वाहा इति पठित्वा हारीतिभक्तपिण्डद्दयं दद्यात्। अग्रपिण्डाशिभ्यः स्वाहा इति अग्रपिण्डदानम्। तदनु ॐ आः हूँ इत्यनेन स्वपाचभक्तमधिष्ठाय यावद्विषादिदोषशान्त्यर्थं प्रथमतोऽनामाङ्गष्ठाभ्यामुपस्पृश्य भुञ्जीत। तदनु यथासुखं भुक्ता उत्सृष्टमन्नं ॐ उत्सृष्टपिण्डाशनेभ्यः स्वाहा। उत्सृष्टपिण्डं दद्यात्। परिशिष्टमन्नमनभिसन्धानेनैव परित्यजेत्। तथा च—
-
-
 
 वलिं दद्यान्नैवेद्यं हारीतिमग्रपिण्डकम्।  
 महाफलोपभोग्याय उत्सृष्टं पञ्चमं ददेत्॥
@@ -622,8 +552,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
   इति वचनात्।
 
-
-
  अक्षरचतुष्टयान्वितोऽयमुपासकः परिहृताकुशलकर्म्माउपचितपुण्यसम्भारो\[६\]ऽभ्यासवशात् जाग्रद्दशावत् स्वप्नेऽपि कुशलान्येव करोति।
 
 प्रतिबिम्बनिभं पश्यन् जगत् शुद्धमनाविलम्।  
@@ -649,8 +577,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  तत्रावस्थाः त्रयः—हेत्ववस्था नाम बोधिचित्तात्प्रभृति बोधिमण्डनिवेदनं यावत्। फलावस्था नाम सम्यक्सम्बोधिज्ञानोत्पत्तौ सर्व्वक्लेशगुणप्रहाणिप्राप्त्यवस्था। सत्त्वार्थक्रियावस्था नाम \[७क\] प्रथमधर्म्मचक्रप्रवर्त्तनात्प्रभृति आशासनान्तर्धानं यावत्।
 
-
-
  तत्र हेत्ववस्था त्रिविधा; आशयावस्था, प्रयोगावस्था, वसितावस्था चेति। तत्र आशयावस्था सत्त्वानिर्मोक्षप्रणिधानम्। तद्धेत\[व\]श्चत्वारः तद्यथा—
 
 गोत्र-सन्मित्रकारुण्य-दुःखाभीरुत्वहेतवः।  
@@ -670,8 +596,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 **॥कुदृष्टिनिर्घातादिवाक्यटिप्पिनिकेयं श्रीमत्पण्डितावधूताद्वयवज्रपादानां कृतिरियम्॥**
 
 ***       ***
-
-
 
 **२।मूलापत्तयः स्थूलापत्तयः।**
 
@@ -714,11 +638,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 ***       ***
 
-
-
-
-
-
 ३।तत्त्वरत्नावली।
 
 **नमः श्रीवज्रसत्त्वाय।**
@@ -738,8 +657,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  अस्ति पुद्गलो—“भारवाहो णणिच्चं भणामि णाणिच्चं भणामी”ति पुद्गलश्च रागवान् संसरतीति समप्रहाणा-
 
-
-
 याशुद्धं मतमाध्यायन्। अशुभा भावना तु शरीरस्य बिन्मूत्रशुक्रशोणि\[त\]श्लेष्मान्तान्त्र \[सिंहानक\] चिक्किणक्लमथप्लीहायकृत्प्रभृतिसमुदाय(द)रूपता निरूपयेत्। तदुक्तम्—
 
 इमं चर्म्मपुटं तावत् स्वबुद्धौ च पृथक् कुरु।  
@@ -753,9 +670,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
  मध्यमस्य दृष्टिविवृति\[ः\]पूर्व्ववत्। किञ्चित्परार्थरुचिरसौ \[९\] आनापानसमाधिना नित्यानित्यत्ववियुक्तपुद्गलदर्शनं ध्यानम्। कुम्भकेन निश्चेष्टीभावः समाधिमलं जाड्यावाहकत्वात्।
 
  श्रावक-अधिमात्रस्य बाह्यार्था\[न\]ङ्गीकारिणः शरीरस्य नैरात्म्यताव्यवस्थापनं विवृतिः। चतुरार्य्यसत्यपरिज्ञानेपुद्गलस्यं शून्यतादर्शनं ध्यानम्। अत्र च दुःखं पञ्चस्कन्धस्वरूपं ज्ञातव्यम्। समुदयो विकल्पः प्रहातव्यः, निरोध्ये विपश्यना साक्षात् कर्त्तव्यः, मार्गः शून्यतायाः सदाशिवरूपताऽध्यारोपो ध्यानमलम्। दृष्टौ पुनरस्य परार्थकारिताविशेषः। अत्र च मृदुश्रावको नियतगोत्रत्वादकारुणिकत्वात् शाक्यबुद्ध एवेत्येके।  
-
-
-
 
  अन्ये तु—
 
@@ -781,8 +695,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  इति। दृष्टिरपि पूर्व्ववत्। अयमपि चतुःकल्पासंख्येयाभिनिर्वर्त्त्यबुद्धभावः, करुणा चानयोः श्रावकप्रत्येकयोः
 
-
-
 सत्त्वावलम्बना, दुःखदुःखताविपरिणामदुःखताभ्यामहन्यहनि सत्त्वानालम्ब्य या करुणोत्पद्यते सा सत्त्वावलम्बना। श्रावकस्य देशना \[१०\] वाचकी प्रत्येकस्य तु कायिकी। तदुक्तम्—
 
 सम्बुद्धानामनुत्पादे श्रावकानां परिक्षये।  
@@ -804,8 +716,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
  मलमस्य समाधेः पूर्व्ववत्। त्रितयानुपलब्ध्या प्रज्ञापारमितास्वभावेन पञ्चपारमिताऽऽचरणं फलवैमुख्ये न सत्त्वार्थपरिणामना तद्दृष्टेरिति।
 
  मध्यो योगाचारः। तत्र साकारज्ञानवादी षट्केन युगपद् योगाचारे \[पर\]माणोः षडङ्गतेत्यादिना \[११ क\] न्यायेन परमाणूना\[म\]प्यनुपपत्तेः। चित्तमात्रमेवेदं चित्ताकारधारि ग्राह्यग्राहकभावविनिर्मुक्तं प्रकाशं प्रकाशत
-
-
 
 इति प्रतिपन्नवान्। तदुक्तं चित्तमात्रं भो जिनपुत्रा! यदुत त्रैधातुकं इति। तथाचाहुः कीर्त्तिपादाः—
 
@@ -840,8 +750,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 रूपमस्य मतं स्वच्छं निरा\[का\]रं निरञ्जनम्।  
 शक्यं तेन न हि ज्ञातुमबुद्धेन कदाचन॥
 
-
-
 विज्ञानमात्रमेवेदमित्ययं ह्युपलम्भतः।  
 स्थापयेन्न स किञ्चित् \[तु\] तन्मात्रेणावतिष्ठते॥
 
@@ -866,8 +774,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 चतुष्कोटिविर्निमुक्तं तत्त्वं माध्यमिका विदुः॥
 
  अस्य चायं अर्थः। न सद् बाधायोगात्, असदपि न चाभासनवशात्, तथा दोषाद् द्वन्द्वात् उभयमपि \[न\],नाप्यनुभयं तथा बोधाभावादिति। अपि च पूर्व्वेतरपरामर्शात्—
-
-
 
 मूर्त्तिश्चित्रे यथावस्तुशक्ति- -स्कवासङ्गः।
 
@@ -899,10 +805,7 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  अनारोपेण षट्पारमितापरिपूरणं दृष्टिः। अत्र मृदुमध्ययोर्धर्म्मावलम्बना करुणा। धर्म्मावलम्बना चानित्यताव्यसनसम्पातिनः सर्व्वधर्म्मानालम्ब्य उत्पद्यते या सा बोध्यव्या। अधिमात्रस्य च आलम्बनानिःस्वभावा मन-
 
-
-
 स्कारधर्म्माधिगमानालम्बना करुणा।कायत्रयव्यवस्था चास्य मैत्रेयनाथैरुक्ता। तथा च—  
-
 
 करोति येन चित्राणि हितानि जगतः समम्।  
 आ भवात् सोऽनुपच्छिन्नः कायो नैर्म्माणिको मुनेः॥
@@ -931,8 +834,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 एका चेयं देशन नायकानाम्।  
 उपायकौशल्य ममेवरूपं  
 यन्त्रानि यानान्युपदर्शयामि॥
-
-
 
  नागार्ज्जुनपादैरप्युक्तम्—
 
@@ -974,8 +875,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 —————
 
-
-
 ४।पञ्चतथागतमुद्राविवरणम्।
 
 नमः सर्व्वविदे।
@@ -999,8 +898,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 दृढं सारमसौशीर्यमच्छेद्याभेद्यलक्षणम्।  
 अदाहि अविनाशि च शून्यता वज्रमुच्यते॥
-
-
 
  इति। पृष्ठे रूपादिकं चेत्, \[मौ\] लज्ञानादक्षोभ्यमुद्रया तद्वज्र(या)सत्त्वं पृष्ठेऽहं तन्न - - न्न किम्। सत्त्वमिति पृष्ठ इति चेत् तर्हि करुणाभावात् उच्छेदवादप्रसङ्गः। इष्यते च—
 
@@ -1033,8 +930,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 न च विज्ञप्तिमात्रस्य कल्पिताकारशून्यता।  
 क्रियते वज्रसत्त्वेन पूर्वं तस्यानवस्थितेः॥
 
-
-
  तदेवं परमार्थसदितिशल्यापगमे सर्व्वत्राप्रतिष्ठानरूपानाभोगयुगजङ्घाद्वयवादिसम्बेदनसिद्धमध्यमकसिद्धान्तः प्रेयान्।\[१५\] अयं च सद्गुरुपादप्रसादादवगम्यते। नन्वत्र सम्बेदनसिद्धौ मायोपमाद्वयवादप्रसङ्गेन सर्व्वत्राप्रतिष्ठानमिति चेत्—
 
 **यत् प्रतीत्यसमुत्पन्नं \[नोत्पन्नं\] तत् स्वभावतः।  
@@ -1058,8 +953,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 न तस्य उत्पाद स्वभावतोऽस्ति।  
 यः प्रत्ययाधीन स शून्य उक्तः  
 यः शून्यतां जानति सोऽप्रमत्तः॥
-
-
 
  आर्य्यलङ्कावतारे—
 
@@ -1098,8 +991,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  मन्त्रतत्त्वानुसारतः। तथा चाहुर्नागार्ज्जुनपादाः—
 
-
-
 कूटागारमिदं न यत् त्रिभुवनं न प्राणिनोऽमी जनाः  
 चक्रेशोऽस्मिन् \[न\] मानुषो न विषया नाक्षाणि न ह्यादयः।  
 रूपाद्या न च धर्म्मतात्मकतया ते माण्डलेया इमे  
@@ -1116,11 +1007,7 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 ॥पञ्चतथागतमुद्राविवरणं समाप्तं इति॥
 
-
-
 **——————**
-
-
 
 **५।सेकनिर्णयः।**
 
@@ -1155,14 +1042,10 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 न सन्ति तत्त्वतो भावाः शक्तिरूपेण भाविताः।  
 शक्तिस्तु शून्यतादृष्टिः सर्व्वारोपविनाशनी॥
 
- 
-
 उच्छुष्मतन्त्रेऽपि—
 
 शिवशक्तिसमायोगात् सत्सुखं परमाद्वयम्।  
 न शिवो नापि शक्तिश्च रत्नान्तर्गतसंस्थितम्॥
-
-
 
  योगाध्यायेऽपि \[१७\]—
 
@@ -1203,8 +1086,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 बोलगर्भे च साकारं निराकारं तदग्रतः।  
 मध्यमा वर्णयन्त्येके नेति नो गुरुदर्शनम्॥
 
-
-
 वज्रगर्भे तदग्रे वा पतितं वा कपालके।  
 न चेष्टमन्तरालेऽपि तत्त्वं वित्तौ गुरोर्मुखात्॥
 
@@ -1244,9 +1125,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 येनाजातं जगद्बुद्धं बुद्धिः शुद्धैव बोधतः।  
 निजं तस्य जगत् सत्यमनाभोगेन धीमतः॥  
 
-
-
-
 अविभावितसम्बन्धो विकल्पोऽसौ प्रतीत्यजः।  
 तदेष एव निर्व्वाणे नो कृथाः चित्तविभ्रमम्॥
 
@@ -1270,11 +1148,7 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 **॥सेकनिर्णयः (निर्द्देशः) समाप्तः॥**
 
-
-
 **\_\_\_\_\_\_\_**
-
-
 
 ६।\[चतुर्मुद्रा\]।
 
@@ -1293,8 +1167,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  इति यदुक्तं तत् सङ्गतं न भवति। चत्वारः क्षणाः—विचित्र, विपाक, विलक्षण, विमर्द्द। मध्ये विलक्षणं दत्त्वा सेके बोद्धव्यम्। हठयोगे पुनः सहजविलक्षणयोरन्ते स्थितिर्बोद्धव्या। सेकहठयोगे चेदं निर्द्दिष्टं भगवता। सहजं सत्सर्व्वं सहजच्छायानुकारित्वात् सहजमित्यभिधीयते। सहजच्छाया सहजसदृशं ज्ञानं प्रतिपादयति इति। सहजं प्रज्ञाज्ञानम्। अतएव प्रज्ञाज्ञाने सहजस्योत्पत्तिर्नास्ति। यस्याः सहजं नाम स्वरूपं सर्व्वधर्म्मानामकृत्रिमलक्षणं इति यावत्। तस्मात् कर्म्ममुद्रां प्राप्य निस्पन्दफलमुत्पद्यते। सदृशस्यन्दो निस्पन्दः। सादृश्यं यथा दर्पणार्पितं मुखस्य प्रतिबिम्बं मुखं न भवति। न पूर्व्वसिद्धं नाप्यधुना-
 
-
-
 सिद्धं तदेव मुखप्रतिबिम्बं सादृश्यमात्रमापादयति तथापि लोकाः स्वमुखं दृष्टमिति कृत्वा भ्रान्त्या सन्तुष्टा भवन्ति। तथैवाचार्य्याः कुमतदाः प्रज्ञाज्ञानमासाद्य सहजमनुभूतं इति कृत्वा सन्तोषं उत्पादयन्ति, सन्तुष्टाश्च सन्तो धर्म्ममुद्राया वार्त्तामपि न जानन्ति। धर्म्ममुद्रामजानाना केवलया कर्म्ममुद्रया कृत्रिमया कथ\[२०क\]मकृत्रिमभूतं सहजाख्यं उत्पद्यते। सजातीयात् कारणात् सजातीयस्य एव कार्य्यस्य उत्पत्तिर्भवति न तु विजातीयात् यथा शालीबीजात् शाल्यङ्कुरोत्पत्तिर्भवति नतु कोद्रव्यस्य। तथा धर्म्ममुद्राया अकृत्रिमायाः सकाशात् अकृत्रिमं सहजं उत्पद्यते। तस्मात् धर्म्ममुद्रैव कारणम्। अभेदे भेदोपचारेण महामुद्रायाः। कस्मात्?तर्हि भगवतोक्तम्—
 
 एकाराकृति यद्दिव्यं मध्ये वँकारभूषितम्।  
@@ -1305,9 +1177,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 **॥कर्म्ममुद्रानिस्पन्दनिर्द्देशः प्रथमः॥१॥**
 
  ॐ—धर्म्ममुद्रा धर्म्मधातुस्वरूपा निष्प्रपञ्चानिर्व्विकल्पा अकृत्रिमा उत्पादरहिता करुणास्वभावा परमानन्दैकसुन्दरोपायभूता। प्रवाहनित्यत्वेन सहजस्वभावा या  
-
-
-
 
 प्रज्ञायाः सहजोदयत्वेन अभिन्ना या सा ध\[र्म\]मुद्रेत्यभिधीयते। अन्यत्ं लक्षणं तस्याः सङ्कुलाज्ञानान्धकारे तरणिकिरणसदृशं गुरूपदेशतः तृणतु\[ष\]समा तत्रापि भ्रान्तिशल्यवर्ज्जितं बोध्यव्यम्। सकलक्षितिजलपवनहुताशनैर्माशवलितं त्रैलोक्यैकस्वभावं निस्तरङ्गशून्यताकरुणाभिन्नं च बोध्यव्यम्। उक्तं च भगवता—
 
@@ -1328,8 +1197,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 अविकल्पितसङ्कल्प अप्रतिष्ठितमानस।  
 अस्मृत्यमनसिकार निरालम्ब नमोऽस्तु ते॥
 
-
-
  इति या सा महामुद्रेत्यभिधीयते। तया महामुद्रया अचिन्त्यस्वरूपया समयमुद्राख्यफलं जायते।
 
 **॥महामुद्रावैभल्यनिर्द्देशस्तृतीयः॥३॥\[२१\]**
@@ -1344,8 +1211,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
  समासतः चित्तं समाजरूपीति। समासतः सर्व्वधर्म्माणामेकाकारतो यदुत महासुखाकारतः चित्तमितिबोधिचित्तं समाजरूपीति। धर्म्ममुद्रामहामुद्राभिषेकरूपं वा ज्ञानं सत्समाज इत्यभिधीयते।
 
 **॥समयमुद्रापुरुषकारफलनिर्द्देशः चतुर्थः समाप्तः॥४॥**
-
-
 
 ७। सेकतान्वयसंग्रहः।
 
@@ -1362,8 +1227,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  अस्यार्थः—प्रथमं कलसाभिषेक इति, उदकमुकुटवज्रघण्टानामाचार्य्यलक्षणाः षट् कलसाभिषेकाः। बाह्यवारिणैव बाह्यमलस्य अविद्यामलक्षालनाय सिञ्चतेऽनेनेति सेकः। एषां सर्व्वेषां कलसव्यापारात् कलसाभिषेकसंज्ञा। अवैवर्त्तिकाभिषेकाश्चैते षट्तथागतस्वभावत्वात्। \[२२\] तथाहि उदकाभिषेक आदर्शज्ञानात्मकोऽक्षोभ्यस्वभावः, मुकुटाभिषेकः समताज्ञानात्मको रत्नसम्भवस्वभावः, वज्राभिषेकः प्रत्यवेक्षणाज्ञाना\[त्मकः\] अमिताभस्वभावः, अधिपत्याभिषेकः कृत्यानुष्ठानरूपो अमोघसिद्धिस्वभावः, नामाभिषेको अविद्यानिरोधात्विद्यानुगतविशुद्धधर्म्मधातुज्ञानात्मको वैरोचनस्वरूपः, आचार्य्याभिषेकस्तु वज्रज्ञानस्वभावः। अत्र च पञ्चभिषेकः पञ्चसु लोचनादिविद्यायाः व्यापारात्। अत्र च अविद्यामलक्षालनाय अक्षोभ्यरूपेण वज्राचार्य्येण वैरोचनरूपावलम्बिनि शिष्ये सलिलाभिषेको देयः। एवं सर्व्वत्राहङ्कारः, आगामिबुद्धभावो अचित्तोष्णीषबीजभूतो
 
-
-
 मुकुटाभिषेकः। द्वादशाङ्गुलिपरिमाणेन द्वादशाङ्गप्रतीत्यसमुत्पादविशुद्ध्या वज्रम्। यत्र मध्यवृत्तेर्निरुत्तरधर्म्मतासूचको हूँकारः \[२३क\]। तस्यार्थः, ह इति हेतुवियुक्तः \[ऊ\] इति ऊहापगतः, अँ इति अप्रतिष्ठितसर्व्वधर्म इति। यत्र भवसरोद्भ\[व\]मुखात् स्फुरन्ति पञ्चाररूपिणो मुनयः पञ्चस्कन्धविशुद्ध्या निष्क्रान्ता भवशरीरेण। इह च मध्याराभिमुखत उपर्यधरेण सर्व्वे रूपादयो विज्ञानात्मका इति सूच्यन्ते। एते च सर्व्वे सर्व्वात्मका इति निवे\[द\]यितुं सर्व्वत्रैव चतुरश्री। अथ ते धर्म्मस्य बुद्धा हूँनादनिवेदितात्मरूपस्य पञ्चासिविमुक्तकायाः पर्य्यन्ते चान्यत्र विस्फुरिता शून्यतानिमित्ता\[:\] प्रणिहि(हि)ततावबोधनार्थं सर्व्वत्र हुल्लिकात्रयम्। एते च आदर्शसमताप्रत्यवेक्षणाकृत्वानुष्ठानसुविशुद्धधर्म्मधातुलक्षणपञ्चज्ञानात्मका गुरूपदेशतो ज्ञेयाः। अभेद्यज्ञानसूचकं च समुदायार्थः—
 
 दृढं सारं असौशीर्यं अच्छेद्याभेद्यलक्षणम्।  
@@ -1371,13 +1234,9 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  अभेद्यं वज्रमिति हेवज्रे। अस्य च वज्राभिषेकस्य विधानं उत्पश्यमाना\[२३\]भेद्यज्ञानबीजाधानमिव विधातुं एवं वज्रघण्टाऽपि पूर्व्वाभिसन्धानेन द्वादशाङ्गुलिपरिमाण अधोमुखाम्भोजवज्रसमापत्तिनिःस्वभावेन सर्व्वधर्म्मस्वभावं प्रतिपादयितुं अभेद्यज्ञाननिगदतां धर्म्मोदयस्य बोधयितुं मूर्द्धाधोभागे च वज्रावलीयुगलमालिनी। त्रिधातुकस्वभावकूटागारतामस्य ख्यापयितुं हारार्द्धहारप्रकार अत एव पञ्चतथागताङ्कितः शून्यताकरुणाभिन्नज्ञानकारणतां आवेदयितुमपरि\[णत\]प्रज्ञामुखाख्यानम्। अस्य च धर्म्मधातुस्वरूपस्य ज्ञानस्य वैरोचनादिपञ्चतथागतात्मकतां च
 
-
-
 रूपादिपञ्चस्कन्धस्वभावतां च पृथिव्यादिपञ्चधातुरूपतां च कथयितुं ऊर्द्ध्वं पञ्चारविरचना। अत्रापि मध्यस्थिताराभिमुखाद्यभिसन्धानं पूर्व्ववत्। अथाभिषेकमनया स्वनन्त्या वज्रघण्ट्या कुर्व्वीत। अनुत्तराशेषधर्म्मबोधाद्विकारकं इह प्राधान्यख्यापनाय हेतुकताप्रतिपादनाय च \[२४क\]कारणभूतमपि वज्रघण्टाभिषेकमुल्लङ्घ्य प्रथमं वज्राभिषेकदानम्। सर्व्वधर्म्मा नामता इति प्रतिपादनार्थं भविष्यन्मुनीन्द्रपदोचितनामनिदानावदानार्थं च पूर्व्वनामव्यपनयेन स्वदेवताकुलगोत्रानुसारेण नामाभिषेकः। आचार्य्याभिषेकश्च वज्रसमय–घण्टासमय–मुद्रासमय–भव्यतानुज्ञा–व्रतव्याकरणाश्वासलक्षणः। इत\[:\] प्रभृति असंस्कृतो भेदयुगनद्धबाहिबो\[धि\]धर्म्मसमयस्त्वं इति बोधयितुं वज्रसमयः, चतुरशीतिधर्म्मस्कन्धसहस्रपरस्त्वमिति प्रतिपादनाय घण्टासमयः, स्वेष्टदेवतास्वभावस्त्वमिति ख्यापयितुं मुद्रासमयः। मण्डलतत्त्वं मण्डलविशुद्धिलक्षणं देवतात्तत्त्वं देवताविशुद्धिलक्षणं आचार्य्यपरिकर्म्म च मण्डलसाधनज्ञानं पञ्चप्रदीपं चामृतभक्षणं च भव्यतातत्त्वं च नैःस्वाभाव्यमेषामुत्पन्नक्रमपक्षतः धर्म्मचक्रप्रवर्त्तनार्थमनुज्ञा। बाह्यव्रतनिराकरणार्थं वज्रव्रतदानं \[२४\] पृथिव्यादिस्वभावतासूचनाय व्याकरणम्। तथा हि भुवो धरादे\[:\] स्वः स्वरूपं भूर्भूया इति हि भूर्भुवःस्वरित्यस्यार्थः। सर्वावरणविनिर्मुक्तः सर्व्वबुद्धबोधिसत्त्वसम\[य\]स्त्वं इतः प्रभृति बोधनार्थमाश्वासः।
 
  प्रज्ञाश्रद्धाक्षेत्रीकरणार्थं समयरक्षणार्थं च समानकालोभयसम्पादितबोधिचित्तप्रदानं गुह्याभिषेकः। प्रज्ञोपायगुह्याभ्यां दीपयत इति व्युत्पत्तिः। प्रज्ञाज्ञानमित्यत्र
-
-
 
 व्युत्पत्तिद्वयम्; प्रज्ञया ज्ञानम्, प्रज्ञैव बाह्यज्ञानम्। तत्र ग्राह्यग्राहकाकारधारणीबुद्धिश्चतुर्धातुपञ्चस्कन्धस्वरूपषड्विषयात्मकाङ्गनास्वभावा प्रज्ञा। तस्या निमित्तभूताया बोधिचित्तज्ञानमिति पूर्व्वा व्युत्पत्तिः। आकारद्वयशून्या सैव विज्ञानमित्यपरा व्युत्यत्तिः। प्रज्ञाज्ञानलक्षितसप्ताङ्गयुक्तसाध्यं चतुर्थार्थमित्येके। प्रज्ञाज्ञानमेव अभ्यस्यमानशरदमलगगनसङ्काशं चतुर्थार्थमित्यपरे। प्रज्ञाज्ञानमेव प्रकृतिरूपं विकाररूपं प्रकृतिसमुत्पादात्मकं \[२५क\] युगनद्धाद्वयवाहिसुविशुद्धस्वभावं चतुर्थार्थमित्यपरे। पक्षान्तराणि च विस्तरभया न्नोच्यन्ते। अतिगुह्यसेकसंग्रहविधानमिलितेन पुण्ययुतश्लो\[के\]ननिखिलजगतोऽस्तु विमलस्फुटसुगतसुभाषिते क्षान्ति\[:\]।
 
@@ -1385,13 +1244,7 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 **पण्डितावधूतश्रीअद्वयवज्रपादानामिति॥**
 
-
-
-
-
 **\_\_\_\_\_\_\_**
-
-
 
 ८।पञ्चाकारः।
 
@@ -1407,8 +1260,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  इतिविकल्पादेरस्पृश्यत्वात् वज्रकुली—वज्रकुलश्च लोकैः न स्पृश्यते—द्वेषवज्रश्च शिशिरमध्याह्नकटुश्रुति-
 
-
-
 आकाशशब्दचवर्गो अक्षोभ्यविशुद्धो\[२६क\] अमीबाह्याध्यात्मिकव्यवस्थेयमिति कायचतुष्टयव्यवस्था चात्रापि पूर्व्ववत्। आः वज्रधृक् हूँअस्य जापमन्त्रः।
 
  वज्रसत्त्वस्तु हूँकारजन्मा शुक्लोद्विभुज एकवक्रोवज्रवज्रघण्टाधरो मनःस्वभावः काषायरसशरीरः शरदृतुविशुद्धो यरलवाद्यात्मकः अर्द्धरात्रतः प्रभातकालपर्य्यन्तो धर्म्मधातुपरनामा।
@@ -1420,8 +1271,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
  ततः पश्चिमदले रविमण्डलोपरि रक्तहीःकाँरसम्भूतो रक्तवर्णोऽमिताभः पद्मचिह्नः समाधिमुद्राधरः संज्ञास्कन्धस्वभावो रागशरीरः शुक्रात्मकः पद्मकुली प्रत्यवेक्षणाज्ञानलक्षणो ग्रीष्मऋतुरूप आम्लरस\[श\]ìरीरः तवर्गात्मा प्रदोषवान्। जापमन्त्रश्चायं ॐ आः आरोलिक हूँ।
 
  तत उत्तरदले सूर्य्यमण्डलोपरि श्यामखँकारजः। \[श्यामवर्णोऽमोघसिद्धिः विश्ववज्रचिह्नाभयमुद्राधरः संस्कारस्कन्धस्वभावो वर्षाऋतुरूपः\] पिशितापः तिक्तरसात्मकः
-
-
 
 पवर्गविशुद्धः अर्द्धरात्रस्वभावः। अस्य च मन्त्रः ॐ आः प्रज्ञाधृक् हूँ इति।
 
@@ -1441,8 +1290,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  आग्नेयकोणदले चन्द्रमण्डलोपरि शुक्ललोँकारजा शुक्लवर्णा लोचना चक्रचिह्ना पृथ्विधातुस्वरूपा तथागतकुलोद्भवा मोहरक्ता। अस्या बीजं ॐ आः लोँहूँ स्वाहा इति।
 
-
-
  नैर्ऋत्यां चन्द्रमण्डलेापरि कृष्णमाँकारबीजसम्भूता मामकीकृष्णवर्णा कृष्णवज्रचिह्ना अब्धातुस्वभावा वज्रकुला द्वेषरक्ता। अस्या बीजं ॐ आः माँ हूँस्वाहा इति।
 
  वायव्यां चन्द्रमण्डलोपरि पाँकारबीजसम्भूता पाण्डरवामिनी रक्ता रक्तवर्णा पद्मचिह्नतेजोधातुस्वरूपा पद्मकुला रागरक्ता। अस्या बीजं ॐ आः पाँ हूँस्वाहेति।
@@ -1460,8 +1307,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 भवतु ततो जिन एष वज्रसत्त्वः॥
 
 ॥पञ्चाकारः समाप्तः॥
-
-
 
 ९।मायानिरुक्तिः।
 
@@ -1503,8 +1348,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 **॥मायानिरुक्तिः समाप्ता इति \[२९क\]॥**
 
-
-
 १०।स्वप्ननिरुक्तिः।
 
 **नमः सर्व्वज्ञाय।**
@@ -1540,8 +1383,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 *        *
 
-
-
 **११।तत्त्वप्रकाशः।**
 
 **नमो बुद्धाय।**
@@ -1576,8 +1417,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 वस्तुशून्यमजातं तु केवलं नाममात्रकम्।  
 भेदेनाख्या\[न\]सर्व्वज्ञः स्वाधिष्ठानप्रभास्वरौ॥
 
-
-
 यदेकमनयोर्ब्रूते तेनोच्छेदे निराकृतः।  
 फलतत्त्वविपक्षेषु यस्य सङ्गोन विद्यते॥
 
@@ -1590,8 +1429,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 तेनास्तु सकलो लोको युगनद्धस्य भाजनः॥
 
 **॥तत्त्वप्रकाशः समाप्तः॥**
-
-
 
 १२।अप्रतिष्ठानप्रकाशः।
 
@@ -1632,8 +1469,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 **॥अप्रतिष्ठानप्रकाशः समाप्तः॥**
 
-
-
 **१३।युगनद्धप्रकाशः।**
 
 या या स्फूर्त्तिरसौ शुद्धा बुद्धा चेत् अविकारता।  
@@ -1667,8 +1502,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 चर्य्यांकुर्य्यात् न वा कुर्य्यात् चर्य्याचारीस उच्यते॥**
 
 **॥ युगनद्धप्रकाशः समाप्तः \[३१\]॥**
-
-
 
 १४।महासुखंप्रकाशः।
 
@@ -1707,8 +1540,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 भूतकोटिं ततो विष्ट्वा युगनद्धपदं गतः।  
 युगनद्धस्थितो योगीसत्त्वार्थैकपरो भवेत्॥
 
-
-
 **शातचित् देवताकारं विश्वचक्रमुपायकम्।  
 प्रज्ञा च शून्यता प्रोक्ता साध्यतादात्म्यमिष्यते॥**
 
@@ -1730,8 +1561,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 चक्रे चक्राधिपोऽसौ जिनगुणनिलयो वज्रडाको मुनीन्द्रः॥**
 
 ॥महासुखप्रकाशः समाप्तः॥
-
-
 
 १५।तत्त्वविंशिका।
 
@@ -1767,8 +1596,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 देवताभिनिवेशश्चेद्वासनाऽत्र कथं नहि।  
 वासनैव विशुद्धा चेत् सर्व्वत्रैव तु सा तथा॥१०॥
 
-
-
 दृष्टतत्त्वः पुनर्योगीमहामुद्रापरायणः।  
 सर्व्वभावस्वभावेन विहरेत् उत्तमेन्द्रियः॥११॥
 
@@ -1800,8 +1627,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 जगदद्वयमद्यैव भूयात् तेन महासुखम्॥२०॥
 
 **॥तत्त्वविंशिका समाप्ता॥**
-
-
 
 १६।महायानविंशिका।
 
@@ -1838,8 +1663,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 विज्ञायैवं यथारूपं बुद्धादीनां समासतः।  
 भुञ्जानः सर्व्वथा सर्व्वं तत्त्ववेदी प्रसिध्यति॥११॥
 
-
-
 धर्म्मस्कन्धसहस्त्रेषु बध्यतां नाम शून्यता।  
 बद्धा नासौ परामर्शात् विनाशार्थं भवेद्गुरोः॥१२॥
 
@@ -1869,8 +1692,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 **॥महायानविंशिका समाप्ता॥**
 
-
-
 **१७। निर्बेधपञ्चक।**
 
 बुद्धं बुद्धं जगत् शुद्धं द्वन्द्वबोधे न बन्धनाः।  
@@ -1882,21 +1703,15 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 ज्ञानमनाविलं शून्यमनाभोगकृपात्मकम्।  
 प्रतीत्य जायते तच्च स्वभावाभाववर्ज्जितम्॥३॥
 
- 
-
 अनेन निर्बेधप्रतिरूपमाख्याति—
 
 धर्म्माणां शून्यता वायु\[:\] कृपा वायुर्गरीयसी।  
 वायुः सम्बरसामर्थ्यं वायुशुद्धा च सम्बृतिः॥४॥
 
- 
-
 अनेन \[३५क\] निर्भरसहजोद्भारमुद्गीरति—
 
 हा किं ब्रूमः कथं ब्रूमो ब्रूमो वा क्व नु ते जनाः।  
 वद्धा वृत्तिर्भवेद् येषामनाभोगार्थ(:)शालिनी॥५॥
-
- 
 
 एतेन करुणयाऽप्रतिष्ठितनिर्व्वचनाय धर्म्मगम्भीरनयाधिमुक्तिकपुरुषदुर्ल्लभतामावेदयति।
 
@@ -1908,8 +1723,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 **॥निर्बेधपञ्चकं समाप्तम्॥**
 
 **\_\_\_\_\_\_\_**
-
-
 
 **१८। मध्यकषट्क।**
 
@@ -1935,8 +1748,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 **।कृतिरियं महापण्डितावधूतश्रीमदद्वयवज्रपादानामिति॥**
 
-
-
 १९। प्रेमपञ्चक।
 
 प्रतिभासो वरः कान्तः प्रतीत्योत्पादमात्रकः।  
@@ -1958,8 +1769,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 ॥प्रेमपञ्चकं समाप्तम्॥
 
 \_\_\_\_\_
-
-
 
 **२०। तत्त्वदशक।**
 
@@ -1999,8 +1808,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
 ।कृतिरियं पण्डितावधूताद्वयवज्रपादानामिति॥
 
-
-
 **२१। अमनसिकाराधारः।**
 
 नमो बुद्धाय।
@@ -2016,13 +1823,9 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 
  भ्राव्यन्ते हि जगत् सर्व्वं मनसा य(स्मा)न्न भाव्यते। अर्थात् अमनसिकारेणेति गम्यते। अपर आह,
 
-
-
 तन्त्रेऽप्यस्ति, परप्रसज्यप्रतिषेधनञो विषयत्वात्अभावो वाच्यः। तन्न, प्रक्रान्तस्य प्रतिषेधः। यदि नाप्रसज्यंप्रतिसिद्ध्यत इति प्रसज्यप्रतिषेधः। यथा असूर्य्यम्पश्या राजदारा\[:।\] अयमर्थ\[:\]।एवन्नाम ता गुप्ता राजदारा यत् सूर्य्यमपि न पश्यन्तीति। अत्रन सूर्य्याभावः कृतः। किं नाम राजदाराणां यत् सूर्य्यदर्शनं प्रसज्यं तन्निषिद्धम्। अमनसिकारेऽपि नञो मनसिकरणं यद् ग्राह्यग्राहकादि प्रसक्तं तन्निषिद्धम्। न मनः, अतो न दोषः। यदा कश्चिदेवं वदति शाश्वतोच्छेदलक्षणो मन\[सि\]कारः सम्मतो भगवता। तदोच्यते, शाश्वतोच्छेदादिः मनसिकारो वाऽमनसिकारः। एतेन सर्व्वासङ्गहानिः क्रियते अमनसिकारशब्देनेति। तथाचोक्तं भगवता, अविकल्पप्रवेशाधारण्यां—केन कारणेन कुलपुत्र! अविकल्पधातुरमनसिकार इत्युच्यते सर्व्वविकल्पनिमित्तसमतिक्रान्ततामुपादायेति। एते सर्व्वविकल्पसमति\[३७\]क्रामता दर्शिता भवति अमनसिकारशब्देनेति। पर्य्युदासपक्षेऽपि न दोषः, अब्राह्मणमानयेत्युक्ते ब्राह्मणसदृशस्य क्षत्रियादेरानयनं भवति, न तु विजातीयस्यकटादेः। अत्रापिनिःस्वभाववेदनस्य संस्थितिः कृता (:)। एतेन मायोपमाद्वयवाद\[\[:\] स्थितो भवेत्। कुत उच्छेदवादप्रसङ्ग इति?
 
  यदि चात्र नञो व्युत्पत्तिरत्रक्रियते अकारप्रधानोऽमनसिकारः शाकपार्थिववत् मध्यपदलोपीसमासः, एतेन यावान् मनसिकारः सर्व्वमनुत्पादात्मक इत्यर्थः।क्व निर्दिष्टं भगवता अनुत्पादकारको अकार इति? तद् यथा उक्तं च हेवज्रे मन्त्रपटले, अकारोमुखं सर्व्वधर्मा-
-
-
 
 णामाद्यनुत्पन्नत्वात् इत्यादि। अस्यार्थः, सर्व्वधर्म्माणां आद्यनुपन्नत्वात् अकारो मुखं प्रधानं इत्यकारस्त्वनुत्पन्नलक्षणः योऽग्रः। तथा च नामसङ्गीतौ—
 
@@ -2051,8 +1854,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 यथा यथा समारोपा जायन्ते तत्त्वयोगिनः।  
 तथा तथा समारोपा हन्यन्ते तत्त्वयोगिना॥
 
-
-
 \[सहजो\]ऽकृत्रिमो यस्मात् \[तस्मात्\] सङ्गो न साहजः।  
 सुखं न सहजादन्यत् सुखं चासङ्गलक्षणम्॥
 
@@ -2074,8 +1875,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 ॥शुभं भूयात्॥
 
 —————
-
-
 
 **COMPARATIVE READINGS.**
 
@@ -2144,8 +1943,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 |        ज्ञातव्यं        |                      ज्ञातव्यः                       |
 |     उपशान्त उपशायकः     |                    उपशान्तोपशायकः                    |
 |  पापानाम्बजयेन्नित्यं   |                 पापानावर्जयेन्नित्यं                 |
-
-
 
 |                                                                   |                                                                              |
 |:-----------------------------------------------------------------:|:----------------------------------------------------------------------------:|
@@ -2218,8 +2015,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 |                               चियं                                |                                     चेयं                                     |
 |                              असंभेदा                              |                                  असंभेदाद्                                   |
 
-
-
 |                                                                                          |                                                                                    |
 |:----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
 |                                         **MS.**                                          |                                    **Printed.**                                    |
@@ -2288,11 +2083,6 @@ will appear as Māyā and as one or in a non-dual form. If he then enters existe
 |                                        ख्यान्तिः                                         |                                    क्षार्न्तिः                                     |
 |                                        अनुत्तरां                                         |                                      अनुत्तरा                                      |
 
-
-
 [TABLE]
-
-
-
 
 \]

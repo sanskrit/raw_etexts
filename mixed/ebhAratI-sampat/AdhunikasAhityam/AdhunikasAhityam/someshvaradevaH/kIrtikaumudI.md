@@ -17,11 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExMzg2NTg3NDY
 
 \[
 
-
-
 [TABLE]
-
-
 
 CONTENTS.  
 
@@ -35,15 +31,11 @@ CONTENTS.
 ABU
 -   APPENDIX C—A NOTE ON SYÂDVÂDA
 
-
-
 **INTRODUCTION**  
 \_\_\_\_\_\_\_\_\_\_\_\_
 
  *Kîrtikaumudî*, like *Vikramânkadevacharita* and*Śrîharshacharita*,is a panegyric written by a poet on his patron. In this instance thepatron is not a king, but the minister of a king. In order to interestthe reader in the poem, it is enough to mention that it was the hero ofthis panegyric and his brother who erected the justly famed *Jaina* temples on Mount Abu. If a sentimental traveller, while winding hisway to the temples through the mountain, is held enchanted by thehuge rocks sending into the skies their fantastic summits; if the thickforest, enriched by the fragrant *Champâ*, the shady *Jambu* loaded withluscious fruit, the tall *Pângârâ* covered with a dazzling blossom, thedelicious jasmine and the delicate *Śirîsha*, and made sonorous by endless varieties of the notes of birds charms the senses; if majestic naturesubdues his heart by pleasing grandeur on the way; on entering theselovely edifices he is compelled to admit that art, Nature's daughter,has charms which are her own. No better description of thesetriumphs of art can be conceived than the following:-  
  "The principal feature in each is the usual octagonal dome, forming a vestibule to the adytum, wherein the objects of worship areenshrined, and around which is a columned peristyle, roofed withnumerous domes. The whole edifice is of white marble, and the sculptured ornaments with which every part of the surface is covered, areso finely chiselled, as to suggest the idea that they have been mouldedof wax, the semi-transparent edges almost realizing, by their hardlyperceptible thickness, the mathematician's definition of a line. Thependant which hangs from the centre of the dome of the temple ofTejpal is particularly remarkable, and rivets the attention of everyvisitor. As Colonel Tod justly remarks, 'the delineation of it defies thepen, and would tax to the utmost the pencil of the most patient artist;'and he is secure in asserting that no ornament of the most florid styleof Gothic architecture can be compared with it in richness. ‘It appears like a cluster of the half-disclosed lotus, whose cups are so thin,so transparent, and so accurately wrought, that it fixes the eye inadmiration.’ The sculpture of these temples does not, however, confine itself to the representation of inanimate natural objects, it exercisesitself also upon the scenes of domestic life, the labours of navigationand commerce, and the struggles of the battle-field; and it may be safelyasserted that the student of antiquities, who should devote sufficientattention to these bas-reliefs, would be amply repaid by a large increaseof knowledge regarding many interesting points in the manners andcustoms of mediæval India."—Forbes' *Rasmala.*
-
-
 
  The present account of those great men, to whose liberality India is indebted for these artistic structures, is further interesting as being a contemporary record. Indeed, if commemoration of events of the time had been the author's aim more than showing his own skill in devising new modes of adulation and winning for his work the name of a Mahâkâvya, the purposes of antiquarian inquiry would have been better served. As it is, the poem throws some light on the obscure period when the *Aṇahillavâdâ*house was superseded by the *Dhavalakkaka* house. But before making an analysis of the facts contained in the poem, it will be well to note what is known of the author and make some estimate of the merits of his writings.
 
@@ -52,12 +44,6 @@ II\.
  The name of the author is *Someśvaradeva.* It is mentioned at the end of each canto and also in the body of the poem. At the end of each canto it is mentioned that the poet was the family-priest of the king of the *Gûrjaras*. In the beginning of the poem the poet says[^1],"*Śrî Someśvaradeva* delineates the character of *Vastupâla*, seeing that that minister's devotion to himself (*Someśvara,* the author) is extreme, that his (the minister's) family is illustrious, his personal appearance splendid, his conduct excellent, his charity accompanied by courtesy, his elevated position such as humbles his foes, his talents such as defy those of *Brihaspati,* his mercy such as crushes all germ of fear, his fame an ornament of the earth, his administration regulated by justice." He further declares, in his own way, that it was genuine admiration of his hero that prompted the poem. He says, "in consequence of the excessive joy at finding a treasure of rubies in the excellent qualifications of the great minister, the muse of Ś*ri Someśvara* is impatient to sing." Further on[^2] the poet mentions that he was the priest of *Lavaṇaprasâda* of *Dhavalakkaka*, a prince descended from one of the kings of *Anahillapura.*  
  I have met with several inscriptions composed by *Someśvara*: two in the temple on Mount Abu, built by *Vastupála's* brother, are given in the Appendix. These are dated 1297 *Samvat* or 1241 A.D. There is a third at *Dabhoi,* in the territory of His Highness the *Gâyakvâda,* on one side of the gate called *HirâBhâgola.* Greater part of it has become illegible. The stone on which it is inscribed is broken, and many
 
-[^1]: "Page 5, Sts. 45 to 48."
-
-[^2]: "Page 16, St. 84."
-
-
-
 lines are altogether effaced. It contains several verses found in the*KÎrtikaumudÎ*and in one of the inscriptions on Mount Abu. Theline in which the author's name is mentioned runs thus:—
 
 प्रशस्तिमेतां- - - - -शसंभूतभूपालपुरोहितेन्द्रः।  
@@ -65,26 +51,16 @@ lines are altogether effaced. It contains several verses found in the*KÎrtikaum
 
  It is dated 1311 *Samvat* (1255 A.D.) J*yeshṭha sudi Budha Dine.*Wednesday the...... day of the moonlight fortnight of *Jyeshṭha*. Theinscriptions in *Vastupâla's* temple on the Ś*atruñjaya* hill are the composition of this poet. I have not seen them, but from the photographswhich Dr. Bühler kindly showed to me, I find they are dated *1288Samvat* (*1232* A.D.), the 10th day of the dark fortnight of *Phâlguna.*  
 
-
-
 From this evidence it is clear that *Someśvara* was the family-priest of*Bhîmadeva* of *Aṇahillavâḍâ**Paṭṭaṇa* and of *Lavaṇaprasâda* of Dholka; and that he was patronised by the two Jaina ministers, *Vastupâla*and *Tejahpâla,* whom he entertained by his witty poems and panegyrics.The *\*Chaturvinsati prabandha of Râjasekhara* contains several anecdotes regarding *Someśvara* and his patrons, the two ministers. It appears from one of the *Prabandhas* that there was great jealousy between*Someśvara* and the J*aina Paṇḍitas* of his time. One of these *Harihara*[^3]came to the court of *Vîradhavala.* By his wit and learning hegained the favour of the king as well as of the minister *Vastupâla.*This roused the jealousy of *Someśvara,* who never attended the courtwhen *Harihara* was present. But once the king sent for *Someśvara,*and asked him to read before *Harihara* a poem consisting of onehundred and eight verses which he (*Someśvara*) had composed, forbeing inscribed on a tablet in a new temple of *Vira Nârâyaṇa,* builtby the king. *Harihara* heard the verses, and said they were good—heknew them. The king looked surprised, but *Harihara* immediatelyrecited them word for word. *Someśvara* was overwhelmed withshame. When all left the court, he went to *Vastupâla,* and assured him that the poem was really his own composition, and asked him how he could free himself from the unmerited disgrace. *Vastupâla* advised him to seek the friendship of *Harihara.* *Someśvara* was obligedto listen to the advice, and when he was thus humbled, *Harihara* oneday went to the king's court and related how he had acquired bycertain austerities the power of committing to memory, only by hear-  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[^3]: "He is mentioned in Kîrtikaumudî. See page St. 235."
-
  \*This work was written in :405 *Samvat,* or *1349* A.D., at the instance of*Mahaṇasimha* at *Dhilli* (Dehli?).
-
-
 
 ing once, any number of verses not exceeding one hundred and eight.He assured the king that the poem in question was an originalcomposition of *Someśvara.* *Someśvara's* credit was re-established.The *Prabandha* goes on to say that *Harihara,* after some days, left thecourt, being disgusted with the jealousy of *Someśvara.*  
  It will appear from the sequel that *Someśvara's* influence at the courtremained undiminished even after the accession of *Visaladeva* to thethrone of *Paṭṭaṇa,* and that he was able to prove the sincerity of hislove to his patron by saving him from the effects of the displeasure of that young king.  
  I have been told that there is a commentary on *Kâvyaprakâśa* written by *Someśvara,* and also a life of *Kumârapâla.* There is a copy of the first at Jessalmir, and one of the second in the celebrated *Bhândâra*at *Paṭṭaṇa.* I tried hard to get at this book, but to no purpose.  
 
- 
-
 As to the poetical merit of the present work, I humbly think that itdoes show that the author possessed to a certain extent 'the vision andthe faculty divine.' It must be admitted that his taste was affected bythe corrupt tendency of his age. His work is full of play upon wordsand all varieties of alliteration. But he employs these generally whenever he is writing on worn out and exhausted topics. Whenever he has got anything new to say, and he frequently has it, his expression is fappy and full of feeling. The dream of *Viradhavala,* containing the wail of the guardian deity of the kingdom of Gujerat for her past glory,is a splendid composition. It is translated into English by Dr. Bühler.—(See Indian Artiquary, page 189, volume VI., Part LXIX.)The descriptions of the morning and evening and of the seasons are also remarkable. Some of the reflexions on moral and political subjects are extremely well conceived. In describing the disinterestedness ofhis hero, he says, he (the minister) was not only free from the desire ofappropriating the wealth of the people, but was even above the temptation of praise. Many an administrator, even at the present day, maywell study the precept contained in this. In one place he expresses his wonder at the bewilderment of man who neglects his duty, though the inner soul bears direct testimony to its paramount claim by rejoicing when it is fulfilled. This is another mode of expressing the doctrine that conscience is the final ethical sanction or standard. His style is generally clear and felicitous, and—barring the puns—the writing may be regarded as one of good taste. One accustomed to read *Sanskrita* poetry may not regard an hour or two spent in reading it as ill spent.
-
-
 
  For those scholars who do not read Sanskrita I propose to give ashort abstract of the contents of this poem. It opens with an invocation of the blessing of *Vishṇu, Śiva* and *Pârvatî,* and *Śiva* and *Vishṇu* in incorporate forms, and, lastly, *Sarasvatî,* the goddess of learning. Then, after making his obeisance to poets in general, the poet goes on to mention in particular *Vâlmîki, Vyâsa, Kâlidâsa, Mâgha, Bhâravi* and *Bâna,* paying some graceful compliment to each. Then follow more modern and less generally known authors. They are *Dhanâla, Bihlana, Hemasûri, Nîlakantha, Prahlâdanadeva, Narachandra, Vijayasimha, Subhaṭa, Harihara, Yaśovîra* and *Vastupâla.* Next, afew verses are devoted to the praise of good men and to the deprecation of wicked men. Then the poet mentions that it was his sincere admiration of the virtues of *Vastupâla* and the kindness which thatminister always showed to him, which prompted him to write the poem.Thus finishing his introduction, the poet enters upon the subject of his poem. *Aṇahillapura* is described as a large city protected by a fortification. It has extensive gardens. The palaces in it are large, and the bright terraces seem as if they were all silver. On all sides are heard vedas repeated, joyful songs sung and praises chanted by bards. There is a large temple of *Mahâdeva* in it. The population is not exclusively *Faina,* for, sacrificial smoke is described as going up to heaven. Theriver *Sarasvatî* runs by its side. The women in the city are beautiful,and adorn their persons with rich ornaments. The dust raised by prancing horses is put down by the rut flowing from the temples of elephants. The palaces are lofty like mountains, and their tops are adorned by flags. Beautiful women attract the hearts of young men; yet no irregularity follows, as the administration of justice is perfect. Near the town there is a large lake surrounded on all sides by temples, and having on one side a triumphal column of enormous height.\*  
  In giving an account of *Anahillapura* kings, the poet does not begin with *Vanarája,* but begins with the accession of *Mûlarâja* to the throne. The sovereignty of Gujerat is described as having offeredherself of her free choice to *Mûlarája.* This means, I suppose, that hewas not the direct heir to the throne, but came by it through the influence of some leading men from the state. Of his exploits, his
@@ -93,8 +69,6 @@ As to the poetical merit of the present work, I humbly think that itdoes show th
 
  \*The triumphal column is now gone. One can still see the site of the lake. The basin is all filled up, but the limits are visible. It seems it extended overseveral miles, and presumably was used for agricultural and gardening purposes.
 
-
-
 defeat of the Latas under the command of their general *Bârapa* andthe seizure of his elephants and his fight with *Laksha,* called *Lâkha Phulâni,* are mentioned.\*  
  His successor was [*Châmundarâja*](http://This%20name%20is%20omitted%20in%20Vichárasreni. "† This name is omitted in Vichárasreni.").His son, *[Vallabharâja](http://1052. "1052."),*succeeded him. He was so brave that he won for himself the name of*Jagatkampana.* The next king was his brother [*Durlabharâja,*](http://1066. "1066.")whose hand never fell on the wives of other people, and never on the wealth of *Brâhmaṇas.* His successor was [*Bhimarâja,*](http://1078. "1078.")his nephew, who always kept an efficient check on the king of *Málvá,* but who spared his life though he had fallen into his hands. The crown descended after him to *[Karṇa,](http://1120. "1120.")*whose fame reached far. His son was the well-known [*Jayasiṁha,*](http://1850. "1850.")who subdued all kings. He defeated, in a battle,*Khengâra* of *Soreth,* whose bravery knew no bounds. He reduced to subjection the king of [Sindh](http://I%20am%20not%20sure%20सिन्धुपति%C2%A0means%20the%20king%20of%20Sindh;%20it%20may%20be%20a%20proper%20name. "I am not sure सिन्धुपतिmeans the king of Sindh; it may be a proper name."). He conquered and again restored the kingdom of *Arṇorâja.* The king of *Sakambhari* saw that the enemiesof *Jayasinha* atoned for their enmity with him with their lives and yielded to his power. He defeated the *Paramára* king and took *Narawarman,* the king of *Dhârâ,* a prisoner, and took possession of his city. The king of [*Mahobaka,*](http://Madanavarma. "Madanavarma.")taking a lesson from the fate of *Dhârâ,*presented him with sums of money under the colour of his being a guest. His conquests extended in all directions. The *Gouḍa* country, celebrated for ghee, fell into his hands. He conquered *Barbbara,* the chief of Demons, and got the name of [*Siddharája.*](http://Those%20that%20keep%20in%20subjection%20evil%20spirits%20are%20called%C2%A0Siddhas. "Those that keep in subjection evil spirits are calledSiddhas.")His successor was *Kumârapâla.*\।\। \।\। His valour was as great as his accomplishments. He is described as relinquishing the wealth of the deceased, by which, very probably, is meant that he extended the right of succession to more indirect descendants than was allowed by the law then prevalent. Among the kings whom he conquered were the *Jângala* king, and the kings*Ballâla* and *Mallikârjuna* of *Mâlva* and the Concan*.* The fact of his having yielded to the influence of Jainism is described by the poet as his having made a vow, at the request of kings and beasts of the forest, not
 
@@ -102,8 +76,6 @@ defeat of the Latas under the command of their general *Bârapa* andthe seizure 
 
 \* Vichârasreni of Merutunga assigns to the accession of *Mûlaraja* the date 1017 *samvat.*  
 \।\।\।\।1199 *Vicharasreni* says that at the end of the reign of *Jayasimha(Kartiksudi tritîyâ)* there was an interregnum of 3 days. *Kumârapâla* is described as the grandson of *Bhimadeva* through the male line.
-
-
 
 to take any life. His successor\* was *Ajayapâla.* He forcibly wrestedfrom the *Fangala* king, as a punishment, a gold *[Maṇḍapikát](http://Probably%20what%20is%20now%20called%20Ambari. "Probably what is now called Ambari.")* and hisfurious elephants. His return to *Hindu Orthodoxy* is described ashis having given to *Bráhmaṇas* the earth after he purified it by hisweapons. He is described as daily marrying wives, daily giving gifts,and daily punishing kings. His son was [*Mûlarája,*](http://1234.%20Chaitrâ%20Sudi%20Chaturthi. "1234. Chaitrâ Sudi Chaturthi.")
 
@@ -116,8 +88,6 @@ The king of *Dhárá* came to invade his dominions, but, finding him firm in his
  \* 1232, Dvadasi Phálguna sudi. An interregnum of 30 months and 7 daysafter the death of Kumârapâla.  
 * ¶*Arnorâja was the son of the sister of the mother of Kumarapala. This lineis called Waghela or Vyághrapalli line.
 
-
-
 how he wanted to re-establish the decaying power of *Paṭṭaṇa.* He extolled their honesty and their abilities, and told them that a conquerorcould never get peace of mind unless there be at the helm of administration really able and trustworthy men. He congratulated himself on having found two such able ministers, and pressed them to take up theresponsible duties. *Vastupâla* then humbly expressed his joy at having been so fortunate as to be held in such high estimation by the king. He ventured, however, to state that hard times had come, when bad counsellors led proud kings by dangerous ways, till both came to grief. Further, he stated that if the king would promise to be just andto control his passions, and not to lend his ear to the insinuations of wicked persons—if he would promise to rescue the kingdom from the oppression of the wicked—then he would cheerfully obey his command. If he had other views in his mind, the proud minister said, he would bid him farewell. The king heard these words of the celebrated statesman, and put into his hands the minister's seal.\* The minister, having taken charge of his duties, went to *StambhatÎrtha,* modern *Khambâyat,* pronounced by Europeans as *Cambay.* He redressed many of the wrongs committed by previous governors. During his administration low people gave up earning money by base means; the wicked turned pale; the righteous prospered. All honestly carried on their businesses in security. He put an end to piracy and stopped by constructing platforms, the promiscuous mingling† of all castes inshops where whey of curds was sold. He was liberal in his gifts. Eventhose who had been long dead came under his obligation, because he repaired the public works left behind by them. He planted groves of trees, sunk wells, and made public parks, dug tanks, built a city, and erected innumerable other works of public utility. He made no difference of caste or creed, but treated all subjects equally. While peace was thus reigning all over the kingdom, *Singhana,* the king of the *Dekkan,* having heard of the prosperity of Gujerat, ordered his army to make a depredatory excursion into the province. The whole of the population was seized by consternation. The king's army, though small, was strong, and the father and the son, *Lâvaṇaprasâda* and *Viradhavala,* dauntlessly went forth and met the enemy whenhe had advanced as far as *Bhrigukatchha* (*Bharucha* or *Broach.*)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -125,22 +95,15 @@ how he wanted to re-establish the decaying power of *Paṭṭaṇa.* He extolled
  \* It appears from one of the Prabandhas that Tejahpûla remained at thecourt, and *Vastupâla* went to *Khambûyat* as a governor.  
  †This is the meaning I attach to स्पृष्टास्पृष्टानिषेधाय विधायावधिवेदिकाम्। पुरेस्मिन्वारितस्तेन तक्रविक्रयविप्लवः॥
 
-
-
 While these two warriors were thus engaged, four kings from Marwadseized the opportunity and advanced against them. Indeed, thecondition of the father and the son was critical; with a powerful invader in the front, and a combination of four hostile kings in the rear, any other prince would have lost courage. To add to the embarassment of the position, the kings of *Godraha* and *Lâta* allied themselves. with the Marwad kings and seceded from the camp, and left these two to themselves. But *Viradhavala* and *Lavaṇaprasâda* were equal to the occasion. They pursued with great vigour, at first, the army of the *Yadus,* but, when harassed in the rear by the combined kings, they turned their forces against them. The southern army was so completely brokenthat it had not the courage to make any diversion again on the rear. While the king was thus engaged in a destructive war, *Śankha,* the son of *Sindhurâja,* sent an emissary to the minister, *Vastupâla.* He extolled the bravery of *Śankha* as shown in his contest with *Yâdavas* though unfortunately *Śankha* was taken prisoner in the contest. Further, he stated that the town of *Stambhapura* was, by right of descent, his, as his ancestors had formerly held it. He also held out to him the hope of being made a governor of the town if he surrendered it to *Śankha,* and he ended by threatening him with an instant expedition. Though *Vastupâla's* feelings of hope, fear and justice were thusappealed to, he remained firm. He refused to surrender the town, and pleaded his king's right of conquest against the hereditary title of *Śankha,* and distinctly told him that he was quite ready to take the field if *Śankha* should have the audacity to declare war.
 
-  
  
 
 This defiance of *Vastupâla* swelled the tide of *Śankha's* anger,andhe at once advanced to the side of a tank called *Vaṭakupa* *(Vaḍkuvo).*The minister defended with great bravery the town which he occupied.After some time the minister attacked the position of *Śankha,* though his army was numerous. When the battle commenced, *Bhuvanapâla* of the *Gula* family, on the side of the minister, assailed *Śankha,* who was also called *Sangrâmasimha,* but was himself attacked by *Sâmanta,* an ally of *Śankha.* The two fought desperately. *Bhuvanapâla* slew *Sâmanta,* and proceeded against *Śankha.* *Śankha* cut off his head in a single fight. This sharpened the edge of the minister's anger. Thefight now became general, and several warriors were killed on eachside. At last *Śankha,* finding the minister invulnerable, withdrew his shattered forces, and retired from the field. The minister led back his successful army, receiving congratulations of his subjects on the way. *Lâvaṇyaprasâda* too, with his valiant son, returned to his capital,
 
-
-
 having repelled the southern invader on one side, and the combinedforces of neighbouring princes on the other.  
  In honour of this victory the citizens held a great festival, to witness which, and to make his obeisance to the goddess called *Ekallavîrâ,* whose shrine was outside the town, the minister passed the principal street in the town. The minister worshipped the goddess according to the proper ceremonies, and prayed to the goddess that she might always bless by her presence his own heart and his king's arm.  
  The poet now proceeds to describe the sufferings and pleasures of the hot season, and the way in which the minister passed it—a noticeable fact, in which connexion is that a great part of the minister's leisure was spent in the company of literary men, among whom probably the author held a prominent position. His gifts to these men are described as having been princely, and more than an adequate return for the pleasure which the men afforded to him. The poet next proceeds to describe the evening and moonlight. He employs the most fanciful conceits indescribing the pleasures of the citizens. Wine seems to have played a prominent part in helping the cause of Love. Giving for some time considerable freedom to his amorous muse, the poet winds up his account of revelry by a grand conceit describing the approach of dawn. As if to atone for the revelry of the previous canto, and by way of preparing the reader for his hero's pilgrimages, the poet introduces in the eighth canto a series of moral reflexions, which are very neatly and elegantly expressed. The canto concludes with a beautiful description of the beauties of autumn. The ninth and last canto is devoted to the description of the minister's visits to the holy shrines held in reverence by*Śrâwakas.* One must keep before his mind's eye through how many different principalities of contending princes pilgrims had to pass, and how provinces were infested with marauding tribes, in order to be able to realize the importance which the poet attaches to the minister's having taken out with him a numerous band of fellow-pilgrims. In one of the *Prabandhas* the minister's retinue is described to have consisted of 4,500 carts, 700 palanquins, 700 carriages, 1,800 camels, 2,900 [*Śrîkarana*](http://May%20it%20mean%20a%20clerk%20? "May it mean a clerk ?")**(?)12,100 *Śvetâmbaras,* 1,100 *Digambaras,* 450 Jain singers, 3,300 bards.The author seems to have taken up for description only two or three holy places visited by the minister. After mentioning generally that he made rich gifts to all shrines that he came across in his way, and made repairs and additions to temples, wells, &c., where they were necessary, the poet proceeds to mention that he visited the shrine on
-
-
 
 the mountain of *Śatrunjaya.* He commemorated his visit to the holymountain by building two temples—one for *Neminâtha,* and another for *Pârśvanâtha.* In the hall of this temple were placed the images of his ancestors and friends, and equestrian statues of himself and his brothers. From *Śatrunjaya* the minister proceeded to the mountain *Raivataka,* where he offered the best incenses to the shrine of *Neminâtha;* and having lived here for many days, he went to *Prabhâsa Paṭṭaṇa,* and then worshipped *Siva,* known by the name of *Somanâtha.* He took leave of the shrine of the great *Fina* at this place, and returned to his own city (*Paṭṭaṇa)*When he arrived there, he first paid his respects to his king, and then went to his own house. Having thus completed his pilgrimage, he duly honoured the men who had accompanied him on his pilgrimage, and sent them to their own places.  
  Here the poet's narration ends. It seems strange that the poetshould have omitted to mention the famous temples on mount *Abu.* It cannot be said that the Abu temples were built later, that is, after the date of the poem; for the inscriptions in the temples on *Śatrunjaya* bear the date 1288, *Samvat,* while those in the Abu temples aredated 1287 of the same era. The *Praśasti* on these temples is composed by the author of this poem, and therefore the omission of the mention of the famous work from this panegyric seems the more strange. The only explanation that suggests itself to me is that the poet could make room for the description of one temple only, and he chose the *Śatrunjaya* temple, because the one on Mount Abu was built in the name of the wife and son of *Tejahpâla,* and may, in one sense, be regarded as a special work of *Tejahpâla.* It appears that *Someśvara,* though a friend of both the brothers, was a special favourite of*Vastupâla.* That is the only reason I can assign for no mention ofthe Abu temple being made in this poem,
@@ -149,11 +112,7 @@ IV\.
 
  Thus the poet leaves off his narration while the minister was at thehighest point of his glory. It appears from other narrations that theprosperity of this minister declined towards the end of his life. Duringthe life of *Vîradhavala* his influence was undiminished. *Vîradhavala* had two sons—*Vîråma* and *Vîsala.* *Vîrama* was not a well-behaved prince, and therefore this minister wished that the crown should descend to *Vîsala;* and notwithstanding some hesitation on the part of the old king, *Vastupâla* used his influence in helping *Vîsala* to the throne. According to the statement of one of the annalists, *Vastupâla* was so
 
-
-
 opposed to the succession of *Vîrama,* and *Vîradhavala* so oscillating,that when one night *Vastupâla* succeeded in obtaining from him apromise in favour of *Vîsala,* who was then at *Dholka,* he brought him from there to *Paṭṭaṇa,* before morning, on a fast camel, and having got him coronated early in the morning, administered to the old king a cup as a medicine, which terminated his life, and thus put the matter of succession beyond question. Another narration says that *Vîsala* was sent for after *Vîradhavala* had died, and till he came *Vastupâla* kept *Vîrama* at a distance by force of arms.*Vîrama* went for help to *Fâbâlipura* where his father-in-law ruled; but, at the instance of *Vastupâla,* was killed there. The narration says that *Vîrama* was regarded with suchfear and hatred by the minister, because he (*Vîrama*) was an implacable enemy of the *Fainas,* and favoured the *Nâgara* party at the court. If such was the case, *Vastupâla* would seem to have chosen only the less of two evils. For after the succession of *Vîsala,* too, *Vastupâla's* influence visibly declined; another minister, a Nâgar Brahman, named *N*â*gada,* was appointed, and *Vastupâla,* who, according to a stipulation which he had made when he accepted the ministership, was allowed to keep all theproperty which he possessed when he entered on his duties, retired into privacy. One of the *Prabandhas* says that it was *Someśvara,* the author of *Kirtikaumudî,* who saved *Vastupâla* from being tried by an ordeal for peculation. While *Siṁha,* a maternal uncle of *Vîsaladeva,* was passing on horseback by a Jain monastery, a servant threw down, from one of the upper floors of the building, a quantity of sweepings which fell upon the head of *Simha.* Dismounting from his horse and entering into the building, he struck the servant on his back with his long whip and went home. When the minister heard of this, he called together his men, and asked if there was any among them who would avenge the wrong. One *Bhuvanap*â*la* stepped forward, and promised to do so even at the cost of his life. The minister told him to cut off the right hand of *Sinha* and bring it to him. The daring Rajput undertook to do it, and going near *Simha,* under the pretence of delivering a message from *Vastupâla,* cut off his hand and carried it to *Vastupâla,* who ordered the same to be hung up at the top of his house. The minister foreseeing trouble, put his house in a state of defence, and called upon those to withdraw who wished to save their lives. None left the house. *Siṁha,* who belonged to the *Fethuyâ* family, called all his relatives and friends together, and set out to wreak vengeance upon *Vastupâla.* When on their way the party came to the palace, one of the elderly men went to the king and told him what had happened.
-
-
 
  The king thought *Vastupâla* would never do such a thing unlesshe had sufficient reason, and promised to inquire into the affair himself.He asked *Someśvara* how the minister could do such a thing. *Someśvara* offered to go and speak to *Vastupâla.* The king consented.*Someśvara* called upon *Vastupâla,* and explained to him how his rashact had roused all the *Jeṭhâyus.* *Vastupâla* said he was prepared forthe worst, and did not care for his life. *Someśvara* returned to thepalace, and told *Vîsaladeva* that *Vastupâla* was prepared to die in defending himself. He represented to the king how it would be nobleto overlook one fault of a man who had rendered such signal services to the state. He said that the minister's life was very valuable, andmight be spared for some critical occasion. The king relented. Heasked *Someśvara* to bring *Vastupâla* to the court. He came, but fullyarmed for fight. At his sight, the memory of all his obligations cameto *Vîsala's* mind, and he humbly pacified his anger, behaving towardshim with all the respect one would pay to his father. He stronglycensured *Siṁha* for having struck a servant of the *Śrawaka* temple, and threatened to punish him severely. Soon after this, the minister had an attack of fever. In *1287* *Samvat,* when *Narachandrasûri* died, he had predicted that .*1298* *Samvat* would be the minister's last year. The year had come. The minister made up his mind to go to *Śatrunjaya.* Before setting out on his last journey, he called theminister *Nâgada,* and recommended the followers of the *Jaina* religionto his care. The *Brâhmana* minister promised to pay all respect, to*Śvetâmbaras,* and told the minister not to be anxious on that account.*Vastupâla* started to go to *Śatrunjaya,* but became worse on the way,and died at the village of *Ankevilia.* *Tejahpâla* and *Jayantasimha,*the son of *Vastupâla,* performed the obsequies on the *Śatrunjaya* hill,and built a temple on the spot called *Svargârohanaprâsâda.*
 
@@ -161,12 +120,8 @@ V.
 
 The Jaina accounts of these ministers are naturally more detailedand faithful. There are some facts given therein to which a*Brâhmana*admirer has naturally not given prominence. It is stated in thoseaccounts that *Vastupâla* and his brothers were the fruit of the second marriage of their mother. The statement runs as follows:—In the city of *Paṭṭana,* *Haribhadrasûri,* a *Jaina* priest, while preaching once, constantly looked at a young widow, who was exceedingly beautiful, and whose name was *Kumaradevi.* One *Aśvarâja* remarked this. and, after the *Purâṇa* was over, asked him the reason. He replied that
 
-
-
 the widow was destined to be the mother of sons who would be like the sun and the moon of the J*aina* religion; *Aśvarâja,* on hearing this, went to the father of the widow and entered his service. In time hesucceeded in ingratiating himself in the favour of the widow and herfather, and married her. The prophesy was fulfilled, and he became thefather of *Vastupâla* and *Tejahpâla* and several other children. According to these accounts, when *Vastupâla* and *Tejahpâla* took up theministerial duties, they made a condition that, at the termination oftheir office, they should be allowed to retire with all the property theypossessed at the time when they entered upon their office. Theimpulse which led to the building of these temples is said to have beengiven by *Anupamâ,* the wife of *Tejahpâla.* When the ministers foundthey had amassed a good deal of wealth, they began to think how theycould keep it secure. Once while engaged in this deliberation, theydid not notice that it was growing late, and that the time of the eveningmeal had nearly gone. *Anupamâ,* after sending servants to remindthem several times, came to them, and making them leave theirdeliberation, asked them what they were thinking about. When they explained their difficulty to her, she told them that the best way to dispose of their wealth was to keep it on the top of mountains in sucha way that every body could see it, but none could misappropriateit. She explained her meaning by stating that it should be devoted tothe building of temples on mount *Abu,* *Śatrunjaya* and *Girinâr.* Theministers listened to her advice, and proceeded to execute the plan.The *Prabandhas* say that the work on mount *Abu* was progressing veryslowly, and the ministers being dissatisfied with the men in charge,went to see the state of things for themselves. When they found it wastoo cold for the workmen to go and work, at the recommendation of*Anupamâ,* they ordered that each workman should have provided forhim fire to warm himself with while he was working, and that readydinner should be provided for all the operatives in the evening.  
  The way in which *Vastupâla* and *Tejahpâla* became possessed offunds wherewith to raise these superstructures is, by the *Faina* chroniclers, described as follows:—When *Vastupâla* was appointed governorof *Stambhatîrtha,* he found that a Mehomedan merchant, whose namewas *Syed,* did not submit to his authority. He refused to see him andpay him homage, whereupon *Vastupâla* declared hostilities with him.*Syed* called *Śankha* to his aid. *Vastupâla* defeated him in a battle,though his army was more numerous. *Syed* was apprehended—all hisproperty was confiscated. When the victory and confiscation were
-
-
 
 reported to *Lavaṇaprasâda,* he ordered that all valuables should becredited to the account of the state. *Vastupâla* had reported that themerchant was so rich that even the dust in his houseगुहरेणु(whichprobably meant trifling things) was of great worth. The princeassigned the 'dust' to *Vastupâla.* Shortly after this, some of the ships of *Syed* took fire, and, it is said, a large quantity of valuable metals was reduced to रेणुdust, which, by the king's order, became the property of *Vastupâla.*
 
@@ -180,17 +135,11 @@ reported to *Lavaṇaprasâda,* he ordered that all valuables should becredited 
 When they heard this verse, and revolved in their mind the doublemeaning it conveyed, they thought it was a providential warningexpressly given to them; and foreseeing the loss of royal favour, devotedtheir money to charitable purposes. It appears from the Prabandhas that *Vastupâla* associated very much with Brâhman Panditas. This brought on him the remonstrances of *Vijayasenasûri,* their father's priest, which, being strongly supported by their mother, made them turn the current of their charity more towards the *Jaina* religion.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
- 
-
 \*The meaning of the verse is not very clear. I understand it as follows:—Oh lotus, since it is the daytime, favourable to you, open your bud and show love towards the bee that seeks your resort; at night who will come near you whenit will be dark, or when the rays of the moon will inflict upon you severe pain.  
  Several words in this verse have a double meaning. In addition to the meaning assigned in the foregoing translation, कोश means a treasure; संश्रितालौmeans on the class of protegés; दोषोदये, when an accusation is brought; निबिडराजकरप्रतापे may mean when the oppression caused by the exactions of the king isgreat. Consequently, the verse suggests the idea that a man should open his treasure and be kind to the poor about him while his prosperity lasts. No one will come near him when he is in difficulty and harassed by the accusations and demands made by the king.
 
-
-
 The society of learned Hindoo Panditas is described as having affected *Vastupâla's* religious opinions to a very great extent. One of his *Jaina* biogrophers states that he had even put on the *Anantadoraka.*\**Vijayasenasûri,* who always used to complain of *Vastupâla's* Hindoo tendencies to his mother, pointed this out as a proof of his assertion.This brought matters to a crisis. At the bidding of his mother, *Vastupâla* cut off the *Anantadoraka,* and began to abide strictly according to the advice of his hereditary religious teachers.  
  I shall briefly state here some of the important facts detailed in the *Chaturvinśatiprabandha* with regard to *Vastupâla* and *Tejahpâla* and their chiefs.  
-
-
 
 Soon after *Vîradhavala* and his minister *Tejahpâla* had commenced their victorious career, they went to *Wâmanasthalî* to conquer the ruler of the place. The two young *Rajaputs,* named *Sâṅgana* and *Châmuṇḍa* the brothers of *Jayataldevi,* the wife of *Vîradhavala,* refused to submit. *Jayataldevi,* who knew the power of her husband, advised them to averthostilities by making homage land rich presents to *Vîradhavala;* but the proud brothers would not listen. In the desperate fight which ensued, *Vîradhavala's* life was in imminent danger, and both armies raised the cry of his being killed; but all of a sudden *Vîradhavala* appeared mounted on his famous horse *Uparavaṭa,* and, accompanied by the flower of his army, proceeded personally against *Sâṅgana* and *Châmuṇda.* The two brothers manfully met him, and both were slain. The wealth for which *WâmanasthalÎ* was celebrated, the hoarded treasures of generations, fell into the hands of the king.  
 
@@ -198,34 +147,22 @@ Once three Rajaputs, *Sâmantapâla,* *Anaṅgapâla* and *Trilokasinha,bhâyâd
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 \* *Anantdoraka* is a silk cord knotted in a prescribed way, with certain spellspronounced over it; it is supposed to represent god *Vishnu.* The day fixedfor its worship is the fourteenth of the first fortnight of *Bhâdrapada.* Thecord is kept on the arm by some during the whole year.
-
-
 
 of *Bhadreśvara,* with whom *VÎradhavala* had already declared war onhis having refused to render submission.*Bhîmasiṅha* at onceaccepted their terms and entertained their services. At their instigation he sent a fresh defiance to *Vîradhavala,* and appointed *Panchagrâma* as the place of the combat. The two ministers told the king that his enemy, *Bhîmasiṅha* had strengthened his hands by securing the services of the three Rajaputs, but assured him, at the same time, that they were still more than a match for *Bhîmasiṅha's* army; and that they should set out at once for the place appointed for the battle. On the night before the battle, the three Rajaputs sent a word to *Vîradhavala* that he should keep in readiness for his protection the numerous soldiers he had kept by the three lacks of coins which he had refused them. The king politely replied that the next day's fighting would decide the question. In the battle which ensued, the three Rajaputs broke through all those that defended *Vîradhavala,* and pointed their spears at his forehead, but spared his life in consideration of the *Viḍâ* they had eaten at his court. However, *Vîradhavala* was thrown from his horse *Uparavaṭa,* who was seized by the three Rajaputs. The fighting for the day ceased, but *Vîradhavala* was none the worse for the casualties of the day. The ministersof *Bhîmasiṅha* advised him to make peace. *Bhîmasiṅha* sent back *Uparavaṭa* to *Vîradhavala.* Peace was made. By and by *Vîradhavala* became more powerful, and having conquered *Bhîmasiṅha* destroyed his power.  
  There was a king named *Ghughula,* who reigned at *Godraha,* in the district of *Mahîlaṭa.* He seized the goods of the merchants who came to trade with *Gujarat.* *Vastupâla* and *Tejahpâla* sent messengers to remonstrate with him, and advised him to abide by the commands of *Vîradhavala.* *Ghughula* in return sent a box of eye-wash and a pair of women's clothes to him, to show that he regarded him, along with other kings, as no better than his mistresses. *Vîradhavala* called together his chiefs, and asked if any one would offer to undertake an expedition against *Ghughula.* *Tejahpâla* alone offeredto go. He went and stationed his army at a distance from *Godraha.* He detached a small number of soldiers to go into the proximity of the town and seize the cows of the cowherds. When the cowherds came to the town to complain of it, *Ghughula* went at the head of a small force to punish the offenders. The minister's soldiers feigning a flight, drew *Ghughula* towards the minister's army. *Ghughula*did not perceive the manoeuvre until he came face to face with the
-
-
 
 minister's army. Without losing courage, he sent a word to hischiefs to come to his succour, and commenced fighting at once. He succeeded in dispersing the minister's army; but *Tejahpâla* with seven Rajaputs determined to conquer or to die, and held fast. The example encouraged the worsted soldiers to return to the fight. *Tejahpâla* forced his way up to *Ghughula* and challenged him to a duel. The challenge was accepted. The minister threw *Ghughula* from his horse, and took him alive. He was confined in a wooden cage and sent to the king. All his wealth was seized. *Vîradhavala* caused the box of eyewash,which *Ghughula* had sent, to be tied around his neck with a string,and he was made to wear the pair of clothes he had sent. Unable to bear this disgrace, *Ghughula* killed himself by biting off his tongue.  
  *Chaturavinśatiprabandha* says that the victory over *Ghughula* enabled *Vastupâla* to extend the sway of *Vîradhavala* to the borders ofMah*â*ṛ*â*shṭra.  
  The same *Prabandha* also mentions that *Vastupâla* was directed toproceed against [*Sultan*](http://This%20word%20is%20Sanskritized%20and%20written%20as%20सुरत्राण. "This word is Sanskritized and written as सुरत्राण.")[*Moujadin*.](http://Muisuddin%20Baharamshah. "Muisuddin Baharamshah.")Being forewarned that the armyof the *sultan* was going to enter by the side of the [*Abu*](http://The%20warning%20is%20said%20to%20be%20given%20by%20Mahanadevt. "The warning is said to be given by Mahanadevt.")mountain, hedirected *Dhârâvarsha,* the king of *Abu,* who owed allegiance to*Vîradhavala,* to keep himself in a state of readiness. He advised him to let the Mahomedans pass southwards, and then close the mountain passes against their return. The plan succeeded. The Mahomedans being attacked by *Vastupâla* in the front, and pressed by *Dhârâvarsha* in the rear, became panic-stricken. The slaughter which ensued was great. Cart-loads of their heads were sent to *Vîradhavala* at *Dholka.*  
  Some years after this, the mother of *Moujadin* started on a pilgrimage to *Mecca.* Having heard this news from his messengers, heordered his sailors to take possession of all her property and bring thesame to him. This being done, the captain of the ships employed by*Moujadin's* mother came and complained to *Vastupâla* that pirateshad robbed the property of an old Mahomedan lady, their passenger.On their stating further that she was the mother of *Moujadin,* *Vastupâla*received her with the greatest respect, and feigning to have caughtthe pirates, restored the property to her. He showed her every markof respect, and provided most carefully for her comfort and safety. On her way back to *Delhi,* she insisted upon *Vastupâla's* accompanying
 
-
-
 her. With the permission of *VÎradhavala, Vastupâla* went to *Delhi.* He was received there with great honour. He obtained from theemperor a promise to keep friendship with *Vîradhavala,* and, for himself, five large pieces of marble, of which he caused statues to bemade to be placed in *Jaina* temples. On his return *Vîradhavala* received him with great pomp and distinction. *Merutunga,* in his *Prabandhachintamaṇi,* says it was not *Moujadin's* mother, but his religious preceptor who led to the formation of friendship between him and *Vîradhavala.* *Merutunga* further says that *Vastupâla* saved the emperor's preceptor from the violence of the father and the son, *Lavaṇaprasâda* and *Vîradhavala,* as a sheep from two foxes. Such are the principal facts which may be gathered from Jain compositions.  
  It seems clear from the account given in this book and several inscriptions of the time that *Lavaṇaprasáda* and *Vîradhavala,* though they had cast *Bhîmadeva* into shade, had not yet formally assumed the title of the kings of *Paṭṭaṇa.*\* As is often the case among the Hindus, those who actually attain high power by the strength of their arm rather take a pride in keeping formally their former status, and rendering cheerfully, or even boastfully, submission to the hereditarymonarch, who has it no longer in his power to compel it by force.It may well be illustrated by the attitude of the First Maratha conquerors towards the Emperor of *Delhi,* and that of the *Peishwas* towards the *Mahârâjâs* of *Sattara.* The *Peishwa* held a grand *Durbar* at *Poona* for the assumption of the title which *Sindia* had obtained for him from the fallen emperor of *Delhi,* and no *Peishwa* ever assumed authority without going through the form of obtaining the robes of state from *Sattara.* However, those who succeed these great men by right of birth have not got for their satisfaction the true glory of personal achievements, and they become impatient of the acknowledgment of fictitious subordination. By this time the old dynasty also has generally lost its hold on the affections of the people; and a public assumption of sovereign power by the new line does not give much offence to any one. Thus, it would appear that *Vîsaladeva* put his foot on the step from which *Lavaṇaprasâda* and *Vîradhavala*kept themselves back half out of chivalry and half out of policy. In the grant of *Vîsaladeva,* the title *Mahârâjâdhirâja* is applied to him,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
- 
-
 \* One of the *Prabandhas* says that *Vastupâla* proposed to *Viradhavala* thathe should assume the title of *Mahárájá*; but *Viradhavala* did not approve of it.He said he was contented with his title of *Kâṇaka.*
-
-
 
 though up to his time the kings of the house of *Paṭṭaṇa* alone wereconsidered as entitled to it. The last mention I have found of theking of *Paṭṭaṇa* is in connection with *Lavaṇaprasâda's* having asked for money in a friendly manner from *Bhîmadeva.* There is no mention anywhere of any actual hostility between the house of *Dholka* and *Paṭṭaṇa.* *Bhîmadeva,* though personally valiant, seems to have allowed himself quietly to be superseded by his ambitious kinsmen, first inactual power and then in rank.
 
@@ -233,19 +170,13 @@ VI\.
 
  In concluding this introduction, it remains for me to acknowledgethat the publication of this book is entirely due to Doctor G. Bühler. He lent me two manuscripts, one, A, a copy of some old manuscript made for him, and another, B, which he had borrowed from Mr.Javerilâl Umiaśankara. He also handed over to me a portion ofthe poem copied out by him for the press, and obtained the permission of the Director of Public Instruction for the inclusion of this publication in the Bombay Sanskrit Series. Besides, I am indebted to him for pointing out most of the sources of information which I have embodied in these pages. In fact, but for him I should not have been able to do the little I have done. For the third manuseript I got later on, I am indebted to Mr. Vrajalal Shastri, of the Gujarat Vernacular Society. All the three manuscripts seem to be copies of the same original manuscript, the differences they show being generally due to the varying intelligence or rather ignorance of the copyists.
 
-
-
 GUJERAT COLLEGE, }                          
                 ** A. V. K.**  
 21stSeptember 1883.}                        
-                
-
-
 
 **कीर्तिकौमुदी**  
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**  
-
 
 श्रिये सन्तु सतामेते चिरं चातुर्भुजा भुजाः।  
 यामिका इव धर्मस्य चत्वारः स्फुरदायुधाः॥१॥
@@ -276,8 +207,6 @@ GUJERAT COLLEGE, }
 
 स्तुमस्तमेव वाल्मीकिं यत्प्रसादात्मशस्यते।  
 लोकैर्दाशरथं वृत्तमपि श्रवणदुःखकृत्॥१०॥
-
-
 
 स नमस्यः कथं न स्यात्सतां सत्यवतीसुतः।  
 सुपर्वोपचितं चक्रे यः स्वर्गमिव भारतम्॥११॥
@@ -312,8 +241,6 @@ GUJERAT COLLEGE, }
 श्रीभोजमुञ्जदुःखार्तां रम्यां वर्तयता कथाम्।  
 प्रह्लादनेन साह्लादा पुनश्चक्रे सरस्वती॥२१॥
 
-
-
 कवीन्द्रश्च मुनीन्द्रश्च नरचन्द्रो जयत्ययम्।  
 प्रशस्तिर्यस्य काव्येषु संक्रान्ता [हृदयादिव](http://हृदयामिव%20A,%20B,%20C. "हृदयामिव A, B, C.")॥२२॥
 
@@ -335,8 +262,6 @@ GUJERAT COLLEGE, }
 अर्जितास्ते गुणास्तेन चाहमानेन्द्रमन्त्रिणा।[^4]  
 विधेरब्धेश्च नन्दिन्यौ यैरनेन नियन्त्रिते॥२८॥
 
-[^4]: " वाहमाने A, चापमाने° B, C. C marginally notes वाहमानेन्द्रभर्दना."
-
 वस्तुपालयशोवीरौ सत्यं वाग्देवतासुतौ।  
 एको दामस्वभावोभूदुभयोरन्यथा कथम्॥२९॥
 
@@ -348,8 +273,6 @@ GUJERAT COLLEGE, }
 
 रमयन्ति न कं नाम सन्तश्छायाद्रुमा इव।  
 पुष्यन्ति स्मितपुष्पं ये सूचितोच्चैः फलोदयम्॥३२॥
-
-
 
 अमृतैर्मानसं मन्ये संपूर्णं सततं सताम्।  
 [स्यन्देनेव](http://स्पन्देनेव%20A,%20B. "स्पन्देनेव A, B.")तदीयेन वाचो मुञ्चन्ति नार्द्रताम्॥३३॥
@@ -384,8 +307,6 @@ GUJERAT COLLEGE, }
 सोस्ति कञ्चन यो दृष्टोप्यशुद्धानां विशुद्धये।  
 तेपि तिष्ठन्ति ये दृष्टाः शुद्धानामप्यशुद्धये॥४३॥
 
-
-
 कुलमुज्ज्वलमाकारंचारुमाचारमुत्तमम्।  
 दानं संमानसंपन्न[मुन्नतिं](http://सन्मान%20C. "सन्मान C.")नमिताहिताम्॥४४॥
 
@@ -418,8 +339,6 @@ GUJERAT COLLEGE, }
 
 दत्तचित्तप्रसादेषु प्रासादेषु सदा वसन्।  
 यत्र शम्भुर्न कैलासविलासमभिलष्यति॥५४॥
-
-
 
 यस्मिन्होमानलोद्धूतधूमधोरणिरुद्यता।  
 विभाति भानुकन्येव स्वर्गङ्गासंगमोन्मुखी॥५५॥
@@ -454,8 +373,6 @@ GUJERAT COLLEGE, }
 यस्य राजपथे पांसुः सिक्तः कुम्भिमदाम्बुभिः।  
 [ऊर्ध्वमभ्युद्धतोप्येति](http://ऊर्जूमभ्युद्भूतो°%20A;%C2%A0%20%C2%A0ऊर्जुमभ्युङ्गतो—परंगद्धि॰%20B. "ऊर्जूमभ्युद्भूतो° A; ऊर्जुमभ्युङ्गतो—परंगद्धि॰ B.")न रङ्गद्भिस्तुरंगमैः॥६५॥
 
-
-
 गृहीतभूरिदण्डानां विडम्बितमहीभुजाम्।  
 यत्रत्यानां नरेन्द्राणां प्रासादानां च नान्तरम्॥६६॥
 
@@ -489,8 +406,6 @@ GUJERAT COLLEGE, }
 हरप्रासादसंदोहमनो[हरमिदं](http://हरप्रसाद%20°%20B,%20C. "हरप्रसाद ° B, C.") सरः।  
 राजते नगरं तच्च राजहंसैरलंकृतम्॥७६॥
 
-
-
 सशङ्खचक्रप्रथितः प्रभूतावतारशाली कमलाभिरामः।  
 स एष कासारशिरोवतंसः कंसप्रहर्तुः प्रतिमां बिभर्ति॥७७॥
 
@@ -514,8 +429,6 @@ GUJERAT COLLEGE, }
 
 ॥इति श्रीगूर्जरेश्वरपुरोहितश्रीसोमेश्वरदेवविरचिते कीर्तिकौमुदीनाम्नि  
 महाकाव्ये नगरवर्णनो नाम प्रथमः सर्गः
-
-
 
 **॥नरेन्द्रवंशवर्णनम्॥  
 \_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -550,8 +463,6 @@ GUJERAT COLLEGE, }
 संभूतकम्पसंपत्तेर्यदातङ्केन केनचित्।  
 जगाल मालवेशस्य करवालः करादपि॥१०॥
 
-
-
 उपरुन्धन्विरुद्धानां पुरीं पुरुषपौरुषः।  
 जगत्कम्पन इत्येष विशेषज्ञैरुदीरितः॥११॥
 
@@ -585,8 +496,6 @@ GUJERAT COLLEGE, }
 विना कर्णेन तेन स्त्रीनेत्राणां न रतिः क्वचित्।  
 इतीव जज्ञिरे तेषामनुकर्ण प्रवृत्तयः॥२१॥
 
-
-
 तत्कर्णार्जुनयोर्वैरं पूर्वं कर्णः स्मरन्निव।  
 अर्जुनं गमयामास यशो देशान्तराणि यः॥२२॥
 
@@ -619,8 +528,6 @@ GUJERAT COLLEGE, }
 
 एकैव जगृहे धारा नगरी नरवर्मणः।  
 दत्ता येनाश्रुधारास्तु तद्वधूनां सहस्रधा॥३२॥
-
-
 
 धाराध्वंसप्रसङ्गेन [यस्य सांनिध्यशङ्कितः](http://यस्य%20सान्निस्यशङ्कितः%20A,%20B. "यस्य सान्निस्यशङ्कितः A, B.")।  
 प्राघूर्णकमिषाद्दण्डं महोबकपतिर्ददौ॥३३¹⁰॥
@@ -656,8 +563,6 @@ GUJERAT COLLEGE, }
 
   This verse does not occur in A. In B it stands on the margin. Itsauthority is doubtful. B reads महूनवर्मणः and हेन्नां. C also gives itmarginally; neither of the MSS. numbers it, the verse following itbeing marked 34 by both.
 
-
-
 न केवलं महीपालाः सायकैः समराङ्गणे।  
 गुणैर्लोकंपृणैर्येन निर्जिताः पूर्वजा अपि॥४२॥
 
@@ -690,8 +595,6 @@ GUJERAT COLLEGE, }
 
 भूपालो जयपालोभूत्कल्पद्रुमसमस्ततः।  
 चक्रे वसुंधरा येन काञ्चनैरनकिञ्चना॥५२॥
-
-
 
 दण्डे मण्डपिका हैमी सह मत्तैर्मतंगजैः।  
 दत्त्वा पादं गले येन जाङ्गलेशादगृह्यत॥५३॥
@@ -726,8 +629,6 @@ GUJERAT COLLEGE, }
 धवलस्य सुतेनापि तेन कृष्णानुकारिणा।  
 राष्ट्र निष्कण्टकीकर्तुमारेभे सुभटेन तत्॥६३॥
 
-
-
 विस्फुरत्तीव्रहेतीनां दवानामिव सर्वतः।  
 दुष्टानां व्यधितानिष्टं यत्कृपाणपयोधरः॥६४॥
 
@@ -760,8 +661,6 @@ GUJERAT COLLEGE, }
 
 पुरो मन्दरवद्वीक्ष्य यं निष्कम्पतया स्थितम्।  
 विनिवृत्तमुपेत्यापि धाराधीशपयोधिना॥७४॥
-
-
 
 दक्षिणः क्षोणिपालोपि घनसैन्योल्पविक्रमः।  
 येन तद्विपरीतेन परित्यजति विग्रहम्॥७५॥
@@ -796,8 +695,6 @@ GUJERAT COLLEGE, }
 समेत्य सोमेश्वरदेवनामा नमस्यते स्वस्ति निगद्य चास्मै।  
 प्रसन्नमूर्तेः [पुरतः स तस्य](http://पुरतः%20सुतस्य%20;%20A. "पुरतः सुतस्य ; A.") दृष्टादरो विष्टरमाससाद॥८५
 
-
-
 पुरस्कृतस्यास्य पुरः पुरारिप्रसादलब्धं लवणप्रसादः।  
 वीरेण तेनानुगतः सुतेन तं स्वप्नमित्थं कथयांबभूव II८६II
 
@@ -830,8 +727,6 @@ GUJERAT COLLEGE, }
 
 आस्ते सहस्तः स पुमान्न कोपि यो मामिमामुद्धरते निमप्नाम्।  
 ग्रहीतुमेते हि सतां विभूतिं शतं [वितन्वन्ति नराः कराणाम्](http://वितत्वंति%20नराकराणां%20A,%20B,%20C. "वितत्वंति नराकराणां A, B, C.")II९६II
-
-
 
 सौवस्तिको नास्ति स आमशर्मा वर्मायितं येन सुधर्मणा मे।  
 गतः स [मुञ्जीलसुत](http://मुञ्जालसुत%20%20C. "मुञ्जालसुत  C.")श्च मन्त्रैर्यः क्षत्त्रसर्पानकरोद्विदर्पान्ं॥९७॥
@@ -866,8 +761,6 @@ GUJERAT COLLEGE, }
 यस्मादमानवचरित्रपवित्रितेन  
 संभावनात्र भवता भुवनेर्जितासौ॥१०५॥
 
-
-
 एकेन केशिरिपुणा विधृतं यदुच्चै-  
 र्भरेण भङ्गुरमिवासुरभूपतीनाम्।  
 तद्वीर वीर धवलेन सुतेन भूयः  
@@ -896,9 +789,7 @@ GUJERAT COLLEGE, }
 उद्गच्छतस्तव रवेरिव संपराये  
 छायेव संमुखमुपैति न शत्रुसेना।
 
-
-
-दीपाङ्कुरा इव [दशान्त](http://॑॑# "दिशान्त० A.B.C.")मुपेयिवांस-  
+दीपाङ्कुरा इव [दशान्त](॑# "दिशान्त० A.B.C.")मुपेयिवांस-  
 स्तेजो निजं मुकुलयन्ति च मण्डलीकाः॥१११॥
 
 आनीतवानसि गुणैर्गुरुभिः स्वकीयै-  
@@ -923,8 +814,6 @@ GUJERAT COLLEGE, }
 
 इति गूर्जरेश्वरपुरोहितश्रीसोमेश्वरदेवविरचिते कीर्तिकौमुदीनाम्नि  
 महाकाव्ये नरेन्द्रवंशवर्णनो नाम द्वितीयः सर्गः॥२॥
-
-
 
 **मन्त्रिस्थापना  
 \_\_\_\_\_\_\_\_**
@@ -963,8 +852,6 @@ GUJERAT COLLEGE, }
 
 ** 2.** सरसि° A, B. C had originally the same reading, but it is changed into मानिनामन्यतःश्लाघ्यां यः श्रियं सरसिरुहाम्.
 
-
-
 यः पराभूतकर्पूरैः कीर्तिपूरैर्निरन्तरम्।  
 चिरं विरचयामास राकामाकालिकीमिह॥११॥
 
@@ -998,8 +885,6 @@ GUJERAT COLLEGE, }
 जनन्या जठरे मासानध्युवास दशैव यः।  
 हृदयाम्भोरुहे तस्य यावज्जीवमियं पुनः॥२१॥
 
-
-
 सततं सचिवश्रेणिमाणिक्यस्याङ्गसङ्गिनी।  
 कान्ता कुमारदेवीति तस्य कान्तिरिवाभवत्॥२२॥
 
@@ -1032,8 +917,6 @@ GUJERAT COLLEGE, }
 
 वृद्धिं न्यग्रोधशाखीव स प्राप्नोति यथा यथा।  
 क्षमालंकरणः केषां नाश्रयः स्यात्तथा तथा॥३२॥
-
-
 
 षड्भिरेव गुणैर्येन कापि कीर्तिपटी कृता।  
 वसुंधरा धराम्भोधिसहिता पिहिता यया॥३३॥
@@ -1070,15 +953,15 @@ GUJERAT COLLEGE, }
 अपूर्वं तस्य वैदुष्यं यद्दिक्पालैः स्वभूभुजा।  
 समानैर्दशभिः सार्धं मेने संध्यक्षराणि यत्॥४३॥
 
-
-
 शुभं स्वभावमालोके लोकेस्मिञ्चेकमेव तम्।  
 यदुक्तं[^7] तत्करोत्येव यत्कृतं तन्नवक्ति यः॥४४॥
 
 [^7]: "तदुक्तं B, A, C."
 
 उपकृत्ये कृती पुंसां वित्ते तेषां न केवलम्।  
-अपि यः [स्तुविलञ्चायां](http://॑# "स्तुतिलम्बार्योB.")सचिवो दुर्गतस्पृहः॥४६॥
+अपि यः स्तुविलञ्चायां[^195]सचिवो दुर्गतस्पृहः॥४६॥
+
+[^195]: "स्तुतिलम्बार्योB."
 
 उपकर्ता सतामन्यैरुपकारयिता च यः।  
 हरते हि मरुत्तापं हारयत्यपि वारिदैः॥४६॥
@@ -1089,8 +972,6 @@ GUJERAT COLLEGE, }
 अपूर्व मन्त्रिमाणिक्यं चाणक्यामिह[^8] मन्महे।  
 वसुधावलये येन सदानन्दोदयः कृतः॥४८॥
 
-[^8]: "चाणिक्य B, A, C."
-
 यद्यप्यनुपमा नाम प्रेयसी तस्य मन्त्रिणः।  
 मूर्त्या तथापि मन्येहमेनां मेनाङ्गजामिव॥४९॥
 
@@ -1099,8 +980,6 @@ GUJERAT COLLEGE, }
 
 भूमिभर्तुरथ कर्तुमिच्छतस्तस्य सत्पुरुष[^9]संग्रहश्रिये।  
 एकदा हृदयमागताविमौ दीप्तशीतकिरणाविवाम्बरम्॥५१॥
-
-[^9]: "तत्पुरुष°B, A."
 
 तद्गुणान्निपुणया मनीषिणामग्रणीर्धिषणया विमृश्य सः।  
 आजुहाव च समागतौ च तौ कार्यसिद्धिरविलम्बिनी सताम्॥५२॥
@@ -1111,17 +990,11 @@ GUJERAT COLLEGE, }
 तावुपायनमुपायमुपायपण्डितौ[^10]मण्डितौजसिकपद्धतेः पुरः।  
 उद्गणय्य चरणद्वयं मुदा तस्य वीरतरणेः प्रणेमतुः॥५४॥
 
-[^10]: "°मुपायमण्डिती B.D"
-
-
-
 तेन वेनतनयानुकारिणा कर्तुमात्मकरणाधिकारिणौ।  
 सप्रसादवदनेन सादरं सोदरौ समुपवेशिताविमौ॥५५॥
 
 तस्य निर्दलितभूरिभूभृतः स्वः पतिप्रति[^11]कृतेः कृतासनौ।  
 अश्वराजतनुजौ रराजतुस्तौसुरासुरगुरूपमौ पुरः॥५६॥
-
-[^11]: "°प्यति B."
 
 एतयोर्विनयनम्रमस्तकन्यस्तसंपुटितपाणिपद्मयोः।  
 निर्ममे समदशत्रुदन्तिनामङ्कुशः स कुशलानुयोजनम्॥५७॥
@@ -1141,8 +1014,6 @@ GUJERAT COLLEGE, }
 आवयोस्तु पितृपुत्रयोर्महानाहितः[^12]क्षितिभरः पुरद्रुहा।  
 तद्युवां सचिवपुंगवावयं योक्तुमत्र युगपत्समुत्सहे॥६२॥
 
-[^12]: "°नाहतः B, A, C."
-
 विद्युदञ्चलचलाचलश्रयं संनिवेश्य सचिवेषु साधुषु।  
 संप्रहारभरसंभृतश्रमाः शेरते सुखममी क्षमाभुजः॥६३॥
 
@@ -1152,17 +1023,9 @@ GUJERAT COLLEGE, }
 मत्पितुर्भुजयुगेन संयुगादाहृतां[^13]जितयुगश्रिया श्रियम्।  
 अक्षरक्षणविचक्षणौयुवां नित्यमेधयतमिद्धया धिया॥६५॥
 
-[^13]: " दाहता A, B, C."
-
-
-
 इत्युदीर्य भुजवीर्यशालिना [^14]
 मुद्रिता[^15] दशनचन्द्रिकामुना।  
 वस्तुपालवदनारविन्दतः स्यन्दते स्म मधु वाङ्मयंततः॥६६॥
-
-[^14]: "°शालिनि C."
-
-[^15]: "मुद्रता B, A, C."
 
 देव सेवकजनः स गण्यते पुण्यवत्सु गुणवत्सु चाग्रणीः\।  
 यः प्रसन्नवदनाम्बुजन्मना स्वामिना मधुरमेवमुच्यते॥६७॥
@@ -1184,7 +1047,7 @@ GUJERAT COLLEGE, }
 किं तु विज्ञपयितास्मि किंचन स्वामिना तदवधार्यतां हृदा।  
 न्यायनिष्ठुरतरा गिरः सतां श्रोतुमप्यधिकृतिस्तवैव यत्॥७२॥
 
-सा गता शुभमयी युगत्रयी [देव](http://॑# "दैव C.") संप्रति युगं [कलिः](http://॑# "कर्लोA, B, C.") पुनः।  
+सा गता शुभमयी युगत्रयी देव[^196] संप्रति युगं कलिः[^197] पुनः।  
 सेवकेषु न कृतं कृतज्ञता नापि भूपतिषु यत्र दृश्यते॥७३॥
 
 ते राजानः स्वर्गताञ्चक्रिरे यैर्वीरैर्वीरक्षमापतीनां प्रबन्धाः।  
@@ -1195,8 +1058,6 @@ GUJERAT COLLEGE, }
 
 न सर्वथा कञ्चन लोभवर्जितः करोति सेवामनुवासरं विभोः।  
 तथापि कार्यः स तथा मनीषिभिः परत्र बाधा न तथात्र वाच्यता॥७६॥
-
-
 
 पुरस्कृत्य न्यायं खलजनमनादृत्य सहजा-  
 नरीन्निर्जित्य श्रीपतिचरितमाश्रित्य च यदि।  
@@ -1226,10 +1087,6 @@ GUJERAT COLLEGE, }
 
 न्यायं[^17] निवेशयन्नुर्व्यां निर्व्याजः स्वजनः सताम्।  
 स्तम्भतीर्थं जगाम श्रीवस्तुपालो विलोकितुम्॥३॥
-
-[^17]: "न्यायंति B; °शयन्मु° B, A."
-
-
 
 स्तम्भतीर्थे² मनस्तीर्थप्रभाव इव...  
 केषाममोपनोदोषमीप्सितानि ददौ च यः॥४॥
@@ -1265,11 +1122,7 @@ GUJERAT COLLEGE, }
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 All the three copies have the first line incomplete and the second incorrect as given above. C suggests शाम्भवः to fill up the blank in the first.
-
-
 
 निशासु नीचसंभोगसंभूतधनकामना।  
 सत्यत्र मन्त्रिमाणिक्ये गाणिक्येनापि तत्यजे॥१४॥
@@ -1285,7 +1138,7 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 [^19]: "पुरेत° B."
 
-धात्रा स्थानेषु भन्गेषु [ताम्यतामाश्र](http://॑# "ताम्यताश्रB.")यः सताम्।  
+धात्रा स्थानेषु भन्गेषु ताम्यतामाश्र[^198]यः सताम्।  
 सद्वंशःसगुणञ्चायं पटावास इवाभवत्॥१८॥
 
 स्वामिना सत्प्रसादेन पाणिर्यद्यपि मुद्रितः।  
@@ -1295,9 +1148,9 @@ All the three copies have the first line incomplete and the second incorrect as 
 अर्थिनामुपशाम्यन्ति दौस्थ्यनिश्वासवायवः॥२०॥
 
 स्थानभ्रष्टस्य यः साधोराधारः सारव[^20]त्तया।  
-जटाजूटः[सुरस्रोतः](http://॑# "सरास्रोतःB सुरःस्रोतःA °श्रोत C.")प्रवाहस्येव शाम्भवः॥२१॥
+जटाजूटःसुरस्रोतः[^199]प्रवाहस्येव शाम्भवः॥२१॥
 
-[^20]: "° स्मारव° B."
+[^199]: "सरास्रोतःB सुरःस्रोतःA °श्रोत C."
 
 लोकेस्मिन्नवमन्वाने जाने वैराग्यमागताः।  
 सरस्वत्यास्पदं तीर्थमिव यं शिभियुर्गुणाः॥२२॥
@@ -1305,17 +1158,13 @@ All the three copies have the first line incomplete and the second incorrect as 
 महतां विद्यमानानां[^21] वित्तेनोपकरोति यः।  
 स्वर्गतानां जरत्पूर्त कीर्तनोद्धरणेन तु¹²॥२३॥
 
-[^21]: "वर्तमानानां C."
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ** **
 
 **12.** B reads the first line thus : स्वर्गतानां जरत्कीर्तिपूर्तनोद्धरणे ननु; but it is corrected in the same thus : स्वर्गतानां जरत्पूर्वकीर्तनोद्धरणे प्रभुः, स्वर्गतानां जरत्कीर्ति कीर्तनोद्धरणेम तु C.
 
-
-
-[प्रासादा](http://॑# "प्रसादाःB.")स्तेनदेवानामुद्धृताः कारिताच ये।  
+प्रासादा[^200]स्तेनदेवानामुद्धृताः कारिताच ये।  
 नवत्वमेव विख्यातमसंख्येष्वपि तेष्वभूत्[^22]॥२४॥
 
 [^22]: "°बुभूत् C."
@@ -1325,8 +1174,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 अकल्पयदनेकानि[^23]देवेभ्यः काननानि यः।  
 हरनेत्राग्नितापस्य यत्र न स्मरति स्मरः॥२६॥
-
-[^23]: "°दनल्पानि C."
 
 रम्भासंभावितैर्यस्य वनैर्वृषनिषेवितैः।  
 मनोज्ञसुमनोवर्मैःस्वर्गसौन्दर्यमाददे॥२७॥
@@ -1348,19 +1195,13 @@ All the three copies have the first line incomplete and the second incorrect as 
 अकारयदयं वापीरपापी[^25] यः क्रियारतः।  
 सुधाया अपि माधुर्यं यज्जलैर्गलहस्तितम्॥३२॥
 
-[^25]: "वापिरपापीकि° A, C."
-
 ताः प्रपाः कारितास्तेन यदीयं पिबतां पयः।  
 तृप्यन्त्यास्यानि पान्थानां न रूपं पश्यतां दृशः॥३३॥
 
 भवार्णवतरी[^26]ब्रह्मपुरी येनात्र निर्ममे।  
 यस्यां गायन्ति[^27]सामानि नरा नार्यस्तु तद्यशः॥३४॥
 
-[^26]: "भवार्णवरी A."
-
 [^27]: "गायति B, A."
-
-
 
 स्फुटं वेष्टयता श्रुभ्रैः कीर्तिकूटैः पटैरिव।  
 दशापि[^28]ग्राहिता येन दिशः श्वेताम्बरव्रतम्॥३५॥
@@ -1401,12 +1242,10 @@ All the three copies have the first line incomplete and the second incorrect as 
 अवधीरितधान्यसंचयानां बहुमानः शकटेषु मानवानाम्।  
 विपदामुदये हि दुर्निवारे शरणं चक्रभृदेव देहभाजाम्॥४५॥
 
-
-
 समुपैति यथा यथा समीपं रिपुराजध्वजिनी मदात्तदानीम्।  
 परतः परतस्तथा तथासौ जनता जातभयोच्छ्रया प्रयाति॥४६॥
 
-तदवेत्य जवेन यादवेन्दोर्बलमागच्छदतुच्छ[वीरगर्वम्](http://॑# "वीरवर्गम् B.")।  
+तदवेत्य जवेन यादवेन्दोर्बलमागच्छदतुच्छवीरगर्वम्[^201]।  
 भृकुटीकुटिलं चकार कोपादलिकं श्रीलवणप्रसाददेवः॥४७॥
 
 उपकण्ठमकुण्ठविक्रमस्य स्फुरदुस्रप्रसरा हिरण्मयी स्रक्।  
@@ -1414,8 +1253,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 परिपन्थिवरूथिनीं[^31]प्रभूतां स नृपस्तुच्छपरिच्छदोप्यगच्छत्।  
 बलिनाप्यरिणा रणप्रवृत्तौ सुभटानां हि पदानि संमुखानि॥४९॥
-
-[^31]: "°विरूथिनी C. "
 
 बलवारिधिराजगाम शत्रोरुपतापीतटमुर्वरोपतापी।  
 रभसादभिधावतिस्म वीरः स महीतीरमहीनबाहुशक्तिः॥५०॥
@@ -1428,8 +1265,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 रिपुसैन्यनिवेशभूः[^33]प्रजानां विदिताभूदनिवेदितापि दूतैः।  
 गगनाङ्गणगाहनोल्बणैस्तज्ज्वलितग्रामसमूहधूमकूटैः॥५२॥
 
-[^33]: "°निवेशिभूःB, A."
-
 भृगुकच्छमहीमहीनसस्यां चरतस्तानचिरेण वृष्णिवर्गान्।  
 न बहूनपि दुर्जयानजय्यः समरेमन्यत वीरकेसरी सः॥५३॥
 
@@ -1439,12 +1274,9 @@ All the three copies have the first line incomplete and the second incorrect as 
 क्षितिपान्तरविग्रहप्रसक्तौ पितृपुत्रावथ विग्रहीतुमेतौ।  
 विदितावसरैश्चिराच्चतुर्भिर्मरुभूपैः सहसोपचक्रमाते॥५५॥
 
-   
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **    24** ॰भूपलक्ष्मीनय° B, A; भूपलक्ष्मीम° C ; but C notes the reading ॰लक्ष्मीन marginally.
-
-
 
 उभयोरनयोश्चतुर्भिरेभिर्विगृहीतिर्विहिताथ सापि पृष्ठे।  
 इयतैव बुधैर्विबोधनीयं सुभटत्वं मृधमूर्ध्नि यस्य यावत्॥५६॥
@@ -1461,15 +1293,11 @@ All the three copies have the first line incomplete and the second incorrect as 
 पुरतः सरतो यदुप्रवीराननुगच्छन्समरे करीव[^34] मत्तः।  
 व्यथितः प्रतिपार्थिवैः स पश्चात्सपदि व्याववृते नृपः सकोपः॥६०॥
 
-[^34]: "गच्छत् B, A; कवीव B. "
-
-जगति ज्वलिताखिलप्रदेशः प्रचुरीभूतमलिम्लुच[प्रचारः](http://॑# "प्रचरी B, A.")।  
+जगति ज्वलिताखिलप्रदेशः प्रचुरीभूतमलिम्लुचप्रचारः[^202]।  
 स परस्परविग्रहो ग्रहाणामिव तेषामभवन्नरेश्वराणाम्॥६१॥
 
 अवलोक्य चुलुक्यपार्थिवौतौविपरीतैर्बहुभिर्नृपैः परीतौ[^35]।  
 खरशीतकराविवाम्बुवाहैर्जनतेयं मनुतेस्म दुर्दिनं तत्॥६२॥
-
-[^35]: "परीतौःB, A."
 
 वलितेपि चुलुक्यपार्थिवेस्मिन्न कृतं तैर्यदुभिः पुरः प्रयाणम्।  
 हरिणैरनुगम्यते न मार्गो हरिणा तत्क्षणमाश्रितोज्झितोपि’[^36]॥६३॥
@@ -1484,8 +1312,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 प्रसृतेथ महीभृतां विरोधे क्षयसिन्धाविव सिन्धुराजसूनुः।  
 प्रणिधिं प्रजिघाय मन्त्रिणेस्मै तृणवद्विश्वमपि स्मयेन पश्यन्॥६६॥
-
-
 
 चुलुकोद्भवभूपतेरमात्यं भयकालेपि निराकुलं तमेत्य।  
 प्रणिधिः प्रणिपत्य च प्रवीणो विनयच्छन्नमदामुवाच वाचम्॥६७॥
@@ -1520,23 +1346,17 @@ All the three copies have the first line incomplete and the second incorrect as 
 अपि[^40]वेत्ति भवानपीदृशं यत्पितृभुक्तिर्मम पत्तनं यदेतत्।  
 स्वधनग्रहणार्थमागतोहं समयज्ञोसि तदर्प्यतामिदं मे॥७५॥
 
-[^40]: "अयि B."
-
 यदि संप्रतिपत्तिरस्ति चित्ते नगरस्यास्य नियोगवासना च।  
 प्रणम द्रुतमेत्य तत्प्रसन्ने मयि दूरे न तवाधिकारमुद्रा॥७६॥
 
 अपरोपि विधास्यतेधिकारी नगरे कश्चन पैतृके मयास्मिन्।  
 भजसे यदि मां ततः स्थिरैव त्वयि मुद्रास्तु गुणाः प्रियाः प्रभूणाम्॥७७॥
 
-
-
 अथ चेतसि किंचिदन्यथा ते स्थितमास्ते तदपि प्रियंकरं नः।  
 यदसाध्यविरोधसाधनाय प्रतिभूरस्ति ममैष खड्गदण्डः॥७८॥
 
 अवलेपमलीकमाश्रितो यः प्रभुमभ्यर्थिन[^41]मन्यथा करोति।  
 कुपितेन स तेन दण्ड्यमानः सह जीवेन ददाति वित्तजातम्॥७९॥
-
-[^41]: "०मल्पार्थि०A, C."
 
 अथ स व्यथितोपि तद्वचोभिर्न विकारं प्रकटीचकार मन्त्री।  
 मलिनत्वमुपैति वातनुन्नैर्न रजोभिः सुरवाहिनीप्रवाहः॥८०॥
@@ -1549,8 +1369,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 समरैकरतेरमुष्य सत्त्वं[^42] स्तुतिकोलाहलकाहलानिनादैः।  
 श्रुतिमार्गमुपैति मर्त्यलोके सुभटानामभिधायिनां परेषाम्॥८३॥
-
-[^42]: " सत्त्वे B, A."
 
 विपरीतमतित्वमस्य मन्ये यदसावर्थयते \[ पुनः \] पुरं तत्।  
 हय सैन्यसहायतोपि सिंहान्नृपसिंहेन विगृह्य यद्गृहीतम्॥८४॥
@@ -1571,8 +1389,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 [^44]: "स्वमतो C."
 
-
-
 श्रुत्वा वचः सचिवचक्रशतक्रतोस्त-  
 द्भूयोप्यभाषत रुषा परुषाक्षरं सः।  
 आः किं ब्रवीषि मदमन्दमतिस्त्वमेवं  
@@ -1580,7 +1396,7 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 कुर्वाणस्त्वयि शस्त्रधारणमसावस्मत्पतिर्लज्जते  
 येनैकेन रणाङ्गणेवगणितः सेनाघनः सिङ्घनः।  
-तत्ते चेतसि चेद्विचारकणिका [काप्यस्ति](http://॑# " कोप्यस्ति C.") तन्मुच्यताम्  
+तत्ते चेतसि चेद्विचारकणिका काप्यस्ति[^203] तन्मुच्यताम्  
 मानोयं नयवेदिनाथ भवता वर्मेदमामुच्यताम्॥९०॥
 
 अथ सचिवमवश्यमाहवाय प्रवणमतिं मतिमानयं विदित्वा।  
@@ -1592,10 +1408,8 @@ All the three copies have the first line incomplete and the second incorrect as 
 महाकाव्ये दूतसमागमनोनाम चतुर्थः सर्गः॥४॥
 
  *                          *  
-      
 
 **युद्धवर्णनम्।**  
-
 
 कथितारिविचारेण चारेण प्रेरितस्ततः।  
 सिन्धुराजात्मजः सिन्धुर्वायुनेवोदजृम्भत॥१॥
@@ -1606,14 +1420,10 @@ All the three copies have the first line incomplete and the second incorrect as 
 भृकुटीघटना भाले तस्य भाति स्म[^46]भीषणा।  
 त्र्यक्षचक्षुर्यया जिग्ये युगान्तोद्वान्तपावकम्॥३॥
 
-[^46]: "भातिस्सभिषणा A ; ॰स्सभीषणा B, C."
-
-
-
 रुषा स्मितमुखः शङ्खः शङ्खपाणिसमच्छविः।  
 नोभवद्भीतये कस्य सितविद्युदिवाम्बुदः॥४॥
 
-स प्रतस्थे [हयोदस्तैः](http://॑# " हयोवस्त्रैः A ; हयोदस्नैःB, C.")परागपटलैर्घनैः।  
+स प्रतस्थे हयोदस्तैः[^204]परागपटलैर्घनैः।  
 प्रावृषं राजहंसानामकाले कल्पयन्निव॥५॥
 
 केतुपत्र[मयच्छत्रच्छन्ना](http://केपि......%20च्छत्रा%20A,%20C;%20°च्छत्रा%20B. "केपि...... च्छत्रा A, C; °च्छत्रा B.") तस्य पताकिनी।  
@@ -1631,8 +1441,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 संनद्धसैनिकः शङ्खोभिन्नशृङ्ख इव द्विपः[^47]।  
 सङ्गरावेशदुर्वारः संचचार शनैः शनैः॥१०॥
 
-[^47]: "संनिद्ध A, B ; भिन्नशङ्ख इवाद्विपः B, C; भिन्नशङ्ख, इवाद्विपाः A."
-
 स चौलुक्यनृपामात्यः संचरत्यरिसंचये।  
 [सैन्यमारचयामास](http://°चरयामासशश°%20A. "°चरयामासशश° A.") त्रासमुक्तेन चेतसा॥११॥
 
@@ -1640,17 +1448,15 @@ All the three copies have the first line incomplete and the second incorrect as 
 स्वःस्त्रीसंभोगमिच्छद्भिरिव धीरौर्विदध्रिरे॥१२॥
 
 संनाहः सङ्गरारम्भसंभवत्सत्त्वसंपदः।  
-[उच्छ्वसत्या](http://॑# "उच्छ्वंसात्याममात्यस्य A; उछसात्यामताव्यस्य B, C.")अमात्यस्य न मात्यस्य तनौ तदा॥१३॥
+उच्छ्वसत्या[^205]अमात्यस्य न मात्यस्य तनौ तदा॥१३॥
 
-
+[^205]: "उच्छ्वंसात्याममात्यस्य A; उछसात्यामताव्यस्य B, C."
 
 दक्षिणेनाङ्घ्रिणा क्षोणिक्षोदनाजयशंसिनम्।  
 आरुरोह जवादश्वमश्वराजाङ्गसंभवः॥१४॥
 
 श्रीवीरनृपमुद्रां[^48]यः सदा धारयते करे।  
 वीरशूद्रक[^49]मुद्रापि धृता तेन तदा हृदि॥१५॥
-
-[^48]: "नृपमुद्राय A, B."
 
 [^49]: "वीरशूरक A."
 
@@ -1663,12 +1469,10 @@ All the three copies have the first line incomplete and the second incorrect as 
 समासन्नेपि संग्रामे शौर्योद्भेदं[^50]न भाषितैः।  
 स चक्रे सचिवोत्तंसः क्रियासारा हि तादृशाः॥१८॥
 
-[^50]: "सौर्योद्भेदंA, B."
-
 स्थितं संख्यमुखे शङ्खस्तं वीक्ष्य विकसन्मुखम्।  
 पाणौरणरसोत्तालः करवालमलालयत्॥१९॥
 
-स्थितेत्र [संमुखे](http://॑# "सन्मुखे A, B, C.")शङ्खःप्रवेष्टुं नाशकत्पुरीम्।  
+स्थितेत्र संमुखे[^206]शङ्खःप्रवेष्टुं नाशकत्पुरीम्।  
 रोहिणींरोषरौद्रोपि व्यथादशरथोशनिः॥२०॥
 
 चलन्मन्त्रिबलोत्क्षिप्तः क्षोणीरेणुगणो ननु।  
@@ -1677,15 +1481,13 @@ All the three copies have the first line incomplete and the second incorrect as 
 धूलिध्वान्तोदये तस्मिन्मुखोद्योतेन मन्त्रिणः।  
 प्रतापः प्रकटीचक्रे श्रीवीरधवलप्रभोः॥२२॥
 
-प्रभूतमपि तत्सैन्यं [क्षोभायाभून्न](http://॑# "क्षोभयाभूत्र A.")मन्त्रिणः।  
+प्रभूतमपि तत्सैन्यं क्षोभायाभून्न[^207]मन्त्रिणः।  
 तेल्पेपि बहवो येषां रणारम्भे स्थितं मनः॥२३॥
 
 स्थितेन तेन धीरेण कर्तुमद्वैतमात्मनः।  
 गोष्टीक्षमः समित्यां[^51]यः स्याद्वादी सचिवो यदि॥२४॥
 
 [^51]: "समित्यांसः A."
-
-
 
 वाहिन्योस्तत्र संभेदे स कोपि तुमुलोभवत्।  
 यस्याग्रेमन्द्रतामेति सामुद्रोपि महाध्वनिः॥२५॥
@@ -1711,8 +1513,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 खङ्गिनखङ्गिभिः[^52]कुन्तपाणयः कुन्तपाणिभिः।  
 योधा योधैर्हयारूढा हयारूढैश्च संगताः॥३२॥
 
-[^52]: "खद्विनः खदिभिःA."
-
 मन्त्रीशकरसंसर्गादिव दानार्थमुद्यतः।  
 असिरुत्सृष्टवान्कोशं बद्धमुष्टिरपि क्षणात्॥३३॥
 
@@ -1723,8 +1523,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 अहिंसाव्रतभङ्गेन का स्यात्तस्यात्र वाच्यता।  
 पुरुषव्रतनिर्वाहो येन तादृक्कृतस्तदा॥३५॥
-
-
 
 अहिंसाभङ्गसंभूतां मन्त्री मार्ष्टुंमनःखिदम्।  
 चक्रे दिव्यमिव स्नानं स शूरः शरवृष्टिभिः॥३६॥
@@ -1760,12 +1558,10 @@ All the three copies have the first line incomplete and the second incorrect as 
 वियति प्रेक्षमाणाभिरप्सरोभिर्मृधं तयोः।  
 बहु मेने स्वकीयानां चक्षुषामनिमेषता॥४६॥
 
-
-
 सामन्तमन्तकस्यान्तं स नीत्वा सत्वरं पुनः।  
 समं संग्रामसिंहेन संग्रामं कर्तुमभ्यगात्॥४७॥
 
-शङ्खेन [खड्गपातैस्तैः](http://॑# "खङ्गयातैस्तैः B.") खण्डं खण्डं कृतं वपुः।  
+शङ्खेन खड्गपातैस्तैः[^208] खण्डं खण्डं कृतं वपुः।  
 संख्ये भुवनपालस्य पौरुषं न तु खण्डितम्॥४८॥
 
 स वीरो मन्त्रिवीरस्य शङ्खासिव्यस्तमस्तकः।  
@@ -1778,8 +1574,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 प्रियं विक्रामतां क्रेतुमसुभिः[^55] सुलभं यशः।  
 धृतासिः प्राविशद्वीरो वीरमः समरापणम्[^56]॥५१॥
-
-[^55]: " केतुमसुभिः A, B, C."
 
 [^56]: "समरार्पणम् A."
 
@@ -1802,14 +1596,10 @@ All the three copies have the first line incomplete and the second incorrect as 
 (भू )तलक्षेप( बुद्ध्ये) वशङ्खेनदृढमाहतः।[^59]  
 भटो भुवनसिंहस्तु सपदि त्रिदिवं गतः॥५६॥
 
-[^59]: "तलक्षेपद्वैवशङ्खेनदृढमाहतः A,B,C."
-
 प्राणेभ्योपि प्रियं शस्त्रं क्षत्नाणामिति निश्चयः।  
 तथाभ्युदयसिंहेन त्यक्तास्ते नोज्झितं तु तत्॥५७॥
 
-
-
-स्वखड्गखण्डितै[र्वीर](http://॑# "वार C; ॰र्वर्षमी° A, B, C. ")शिरोभिर्विषमीकृते।  
+स्वखड्गखण्डितैर्वीर[^209]शिरोभिर्विषमीकृते।  
 पेदे विक्रमसिंहेन क्रोधान्धेन मृधाध्वनि॥५८॥
 
 वि  म  भ्यः कुलसिंहेन दर्शनात्।  
@@ -1829,36 +1619,30 @@ All the three copies have the first line incomplete and the second incorrect as 
 आकम्पितप्रचुरपत्रनृपाङ्घ्रिपेण  
 शङ्खेन यानमपसृत्य महाबलेन॥६३॥
 
-[^60]: "°राशा B, A, C. "
-
 मन्त्रीश्वरोयमनुभूतभटोपमर्द-  
 सौवर्णपिण्ड इव सोढहुताशतापः।  
 आनन्दकन्दलितबाष्पविलोचनेन  
 लोकेन पूजितमतीव बभाज तेजः॥६४॥
 
-[संग्रामसिंहः](http://॑# "संग्रामसिंहस° B, A, C.") स महानियोगी योगी यथा योगबलेन कालम्।  
+संग्रामसिंहः[^210] स महानियोगी योगी यथा योगबलेन कालम्।  
 संहर्त्तुमायान्तमतीत्य चक्रे कुशाग्रबुद्धिः कुशलं पुरस्य॥६५॥
 
 संवीक्ष्य वीररसरोपितरोमराजि-  
-राजि[^61]क्षितिं क्षतभटामिष[मार्धगृध्राम्](http://॑# "मर्द्धिम्रभ्राम्B, C, A..")।
+राजि[^61]क्षितिं क्षतभटामिषमार्धगृध्राम्[^211]।
 
 [^61]: "राजी B."
 
-
+[^211]: "मर्द्धिम्रभ्राम्B, C, A.."
 
 मन्त्री न्यवर्तत ततः प्रमदोपहूतैः[^62]  
 सूतैः पुरः प्रतिपदोदितदोर्विभूतिः[^63]॥६६॥
 
-[^62]: "॰प्रमदोपूतैः B."
-
 [^63]: "°दौदितहोर्विभूतिः B."
 
 संधाय बन्धुजनताजनितो प[^64]रोधा-  
-[द्वीरै](http://॑# "द्वेरे B, A, C.") र्विरुद्धहृदयोपि समं नृपस्तैः।  
+द्वीरै[^212] र्विरुद्धहृदयोपि समं नृपस्तैः।  
 पुत्रेण तेन सह दुःसहपौरुषेण  
 स्वार्थांससाद नगरींलवणप्रसादः॥६७॥
-
-[^64]: "॰जानतौप॰C"
 
 प्रतिनृपतिभिर्भग्नोत्साहैर्निमग्नमिव क्वचित्  
 स च नरपतिर्वीरस्तीरं जगाम मृधाम्बुधेः।  
@@ -1875,7 +1659,9 @@ All the three copies have the first line incomplete and the second incorrect as 
 **पुरप्रमोदवर्णनम्।**
 
 श्रीवस्तुपालेन बलान्निरस्तां तां दुस्तरामापदमाकलय्य।  
-महोत्सवानामकृत प्रवृत्तिं [वीतोपसर्गः](http://॑# "वीत्तोपसर्गःA.")पुरवासिवर्गः॥१॥
+महोत्सवानामकृत प्रवृत्तिं वीतोपसर्गः[^213]पुरवासिवर्गः॥१॥
+
+[^213]: "वीत्तोपसर्गःA."
 
 गृहे गृहे धातुरसानुलेपाः समन्ततः स्वस्तिकपङ्क्तिमन्तः।  
 विरेजिरे तूर्यरवानुकूलाः[^66] कुलाङ्गनामङ्गलगीतयश्च॥२॥
@@ -1890,12 +1676,10 @@ All the three copies have the first line incomplete and the second incorrect as 
 येषां निमेषार्द्धमपि क्षपायामायान्न निद्रा रिपुविद्रवेण[^68]।  
 सुस्थीकृतानां सचिवोत्तमेन तेषां च हर्षान्तरितेयमासीत्॥४॥
 
-[^68]: "॰रिषूविद्र° B, C, A,"
-
-
-
 पुरप्रजानां प्रमदामृतेन तेनातिमात्रं शिशिरी कृतानाम्।  
-निःशेषिताशेषसरः[समृद्धिर्ग्री](http://॑# "समृद्धिग्री° A, B.")ष्मोन भीष्मोप्यभवद्भयाय॥५॥
+निःशेषिताशेषसरःसमृद्धिर्ग्री[^214]ष्मोन भीष्मोप्यभवद्भयाय॥५॥
+
+[^214]: "समृद्धिग्री° A, B."
 
 शिरीषपुष्पप्रचयच्छलेनं शुचिर्दधानो हृदयं प्रदीपः।  
 आषाढवान्बाढमपास्तकामः कर्मन्दिकल्यस्तमुपाजगाम॥६॥
@@ -1903,7 +1687,7 @@ All the three copies have the first line incomplete and the second incorrect as 
 अमात्यमालोक्य चुलुक्यभर्तुः कर्तुं स्थितं शस्त्रभृतो निरस्त्रान्।  
 मन्ये मनोभूरपि मन्दमन्दं चापक्रियाचापलमाचचार॥७॥
 
-दिङ्गण्डली [पाटलिपुष्पगन्धसंबन्धसोन्मेषमरुन्मिषेण](http://॑A "°पार्जलीपुष्पगन्ध संबधसोनमेघमरुन्मीषेण B °पार्जलि C.")।  
+दिङ्गण्डली [पाटलिपुष्पगन्धसंबन्धसोन्मेषमरुन्मिषेण](A "°पार्जलीपुष्पगन्ध संबधसोनमेघमरुन्मीषेण B °पार्जलि C.")।  
 शान्तोपतापा सचिवेन तेन संतोषतः श्वासमिव व्यमुञ्चत्॥८॥
 
 अस्मान्सुखेनोत्तरतु भ्रमन्ती कीर्तिस्तदीयेति कृशास्तटिन्यः।  
@@ -1915,18 +1699,16 @@ All the three copies have the first line incomplete and the second incorrect as 
 पीयूषबिन्दुप्रसवं[^69]स्रवन्ती गुणावलिर्यस्य गलन्तिकेव।  
 स्थितोपरिष्टादपि विष्टपस्य प्रीतिं प्रतप्तस्य तदा ददाति॥११॥
 
-[^69]: "प्रसरं C."
-
 चतुर्दिगन्ताक्रमणोद्यतस्य नयन्नयं वृद्धिमिनस्य तेजः।  
-तेनाभविष्यत्सचिवेन तुल्यः प्रजोपतापं यदि [नाकरिष्यत्](http://॑# "नाकरिष्यता B, C; °ष्यतA")॥१२॥
+तेनाभविष्यत्सचिवेन तुल्यः प्रजोपतापं यदि नाकरिष्यत्[^215]॥१२॥
 
-[संशोषि](http://॑# "सशोषि॰B, A.")ताशेषनदेनिदाघे मन्त्रीशदृष्टिः कमलाभिरामा।  
+[^215]: "नाकरिष्यता B, C; °ष्यतA"
+
+संशोषि[^216]ताशेषनदेनिदाघे मन्त्रीशदृष्टिः कमलाभिरामा।  
 तृष्णापहारं न चकार कस्य प्रपेव सन्मार्गमुपागतस्य॥१३॥
 
-पुण्डेक्षवः क्षीणरसाः[सरस्यः](http://॑# "सरस्य C.")शुष्का विशुष्काच गवां समूहाः।  
+पुण्डेक्षवः क्षीणरसाःसरस्यः[^217]शुष्का विशुष्काच गवां समूहाः।  
 चूतद्रुमो वा सचिवोत्तमो वा तदार्थिसार्थं सफली चकार॥१४॥
-
-
 
 स्वरक्षितस्याथ पुरस्य तस्य वैशेषिकीं वीक्षितुमेष शोभाम्।  
 इष्टां नमस्कर्तुमनाश्च देवीं श्रीवस्तुपालः सचिवश्वचाल॥१५॥
@@ -1950,10 +1732,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 जवेन यान्त्यास्त दवेक्षणाय[^72]कस्याश्चिदम्भोज[^73]निभेक्षणायाः।  
 काञ्ची सखीभिर्विघृता गलन्ती नितम्बतो न स्थिरता तु चित्तात्॥२०॥
 
-[^72]: "तदवेक्षणेन A."
-
-[^73]: "अम्भोजनीभे; B अम्भोजनिश A."
-
 तदा तदालोकनलोलदृष्टिः संवृण्वती स्वाङ्गकमंशुकेन।  
 हृत्कोटरान्तर्निहितस्फुलिङ्गमनङ्गमन्या प्रकटीचकार॥२१॥
 
@@ -1962,8 +1740,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 परा स्मरावेशनिवेशिताश्रुः प्रयुक्त नेत्रद्वितयाञ्जनापि[^74]।  
 सुधानिधानं सचिवप्रधानं नालोकितुं सम्यगलं बभूव॥२३॥
-
-[^74]: "द्वितयाजनापि B, C, A. "
 
 न पुष्पचापादपरोस्ति चापी यस्मादमात्यप्रणयोन्मुखीनाम्।  
 न कञ्चुके किं चन वेधचिह्नं[^75] भिन्नं मनस्तेन घनस्तनीनाम्॥२४॥
@@ -1975,15 +1751,11 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 [^76]: "मार्गोगतःB, A, C."
 
-
-
 तद्दर्शिनीनां हृदि सुन्दरीणां मनोभवक्ष्माधवकेलिसौधे।  
 प्रभूतदुर्वारपरिच्छदोपि लेभे प्रवेशं सचिवेन्दुरेकः॥२६॥
 
 मन्त्रीशमालोक्य सुलोचनानां स्वभावलोलान्यपि लोचनानि[^77]।  
 नान्यत्र कुत्रापि गतिं वितेनुर्गुणैस्तदीयैरिव बन्दितानि॥२७॥
-
-[^77]: " सुलोचनानी B, A, C."
 
 श्रीखण्ड मत्युत्सुकया कयाचिद्देहैकदेशे निहितं ततोपि।  
 घर्माम्भसा मृष्टममात्यदृष्टाविष्टाप्तिरल्पापि जडादपैति[^78]॥२८॥
@@ -1999,7 +1771,7 @@ All the three copies have the first line incomplete and the second incorrect as 
 खिन्नाध्वनि श्रोणिभरेण तावदद्य व्रजन्तं सचिवं विलोक्य।  
 कापि प्रयातुं पदमप्यशक्ता सहामुना स्वं प्रजिघाय चेतः॥३१॥
 
-ग्रहैः शुभैः सत्य[ममात्यशम्भु](http://॑# "°ममत्यशम्भुः B, A, C")र्दृष्टःस दृष्ट्या परिपूर्णयेव।  
+ग्रहैः शुभैः सत्यममात्यशम्भु[^218]र्दृष्टःस दृष्ट्या परिपूर्णयेव।  
 पुरोङ्गनानामनुरागिणीनां नेत्रत्रिभागेन विलोकितोयत्[^79]॥३२॥
 
 [^79]: "विलोकितोयम् A."
@@ -2017,8 +1789,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 तां सप्तलोकप्रणतां प्रणन्तुं जगाम दूरे स दुरापकीर्तिः।  
 न वेत्ति विद्वानपि संवसन्तीं वाणीस्वरूपेण निजे मुखाब्जे॥३६॥
-
-
 
 दुग्धेन दध्ना मधुना घृतेन खण्डेन तोयेन च [शुद्धमूर्तिम्](http://शुद्धमूर्ति%20B,%20A,%20C. "शुद्धमूर्ति B, A, C.")।  
 आनर्च[^81]देवीं सचिवः प्रसूनकर्पूरकृष्णागरुचन्दनाद्यैः॥३७॥
@@ -2043,9 +1813,11 @@ All the three copies have the first line incomplete and the second incorrect as 
 समं स मन्त्री गुणिनां गुणेन क्रीडावनं प्राप सनीडवर्त्ति॥४२॥
 
 मन्त्री तदासाद्य वनं ननन्द ग्रीष्मं महीं[^83]शोषयितुं स्थिते यत्।  
-[भ्रमद्धटीसंघटितारघट्ट](http://॑# "भ्रमत्घटीसघटीतरारघह A, भ्रमत्घटीसंघटीतरघट्ट B.") खाट्कारशब्दैः [प्रतिगर्जतीव](http://॑# "प्रतिगर्जताव A, B ; प्रतिगर्जतातवाC.")॥४३॥
+भ्रमद्धटीसंघटितारघट्ट[^219] खाट्कारशब्दैः प्रतिगर्जतीव[^220]॥४३॥
 
-[^83]: "मही A, B."
+[^219]: "भ्रमत्घटीसघटीतरारघह A, भ्रमत्घटीसंघटीतरघट्ट B."
+
+[^220]: "प्रतिगर्जताव A, B ; प्रतिगर्जतातवाC."
 
 [दीर्घेर्निदाघस्य](http://दीर्घे%20B%20;%20दीर्धैनि॰%20A%20;%20दिनैमनोभू%20C,%20B,%20A. "दीर्घे B ; दीर्धैनि॰ A ; दिनैमनोभू C, B, A.") दिनैर्मनोभूरलब्धसिद्धिर्भजति स्म सम्यक्।  
 वनस्य तस्यातिघनद्रुमस्य छायातमीं तारकितां प्रसूनैः॥४४॥
@@ -2055,8 +1827,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 [हिमासहो यस्य](http://(%20?%20)%20हिमासहीयं%20समयस्तमिश्र. "( ? ) हिमासहीयं समयस्तमिश्र.")मयस्तमिश्रहिंस्रः सहस्रांशु[रिमौ](http://°रिभौ%20B. "°रिभौ B.") समेतौ।  
 मत्वेव ते भीतिखती प्रविष्टे छायाविशिष्टं वनदुर्गमेतत्॥४६॥
-
-
 
 लीलावनेस्मिन्नवमेघलीलामरन्दाबेन्दुप्रकिरं किरन्तः।  
 विनापि वर्षासमयेन हर्षंशिखण्डिनां ताण्डवयन्ति वृक्षाः॥४७॥
@@ -2103,8 +1873,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 इति गूर्जरेश्वरश्रीसोमेश्वरविरचिते कीर्तिकौमुदीनाम्मि महाकाव्ये  
 पुरप्रमोदवर्णनो नाम षष्ठः सर्गः॥६॥
 
-
-
 **चन्द्रोदयवर्णनम्।**  
              *        *            
 
@@ -2113,7 +1881,7 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 [^89]: " निदानन्दि B, C."
 
-गम्यः सोपि [जगच्चक्षुश्चक्षुषां](http://॑# "जगञ्चक्षुषां स०B, C.") समपद्यत।  
+गम्यः सोपि जगच्चक्षुश्चक्षुषां[^221] समपद्यत।  
 कः कालवलनेनात्र निस्तेजा न हि जायते॥२॥
 
 लौहित्यं विद्रुमालीषु द्रुमालीपल्लवेषु च।  
@@ -2144,8 +1912,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 अपि तादृशमस्ताद्रिर्दिनेशं निरकाशयत्।  
 चिरं न ह्याश्रयः क्वापि प्राप्यते दिवसात्यये॥१०॥
 
-
-
 कुलायमाकुलाः सर्वे पक्षिणस्तत्क्षणादयुः।  
 कस्त्यजत्यथवा[^92] पस्त्यं सत्यां सवितुरापदि॥११॥
 
@@ -2171,8 +1937,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 स्थित्वाथ प्रस्थिता[^94]संध्या व्रजवाजिव्रजाकुला।  
 आक्रामतः[^95] परं लोकं रवेः पश्चाच्चमूरिव[^96]॥१७॥
 
-[^94]: "प्रम्लिता संघा. A, B, C."
-
 [^95]: "आक्रमिता A."
 
 [^96]: "चभूरिव B."
@@ -2181,14 +1945,16 @@ All the three copies have the first line incomplete and the second incorrect as 
 जायानुजान्वितं राममिव म्लानमभूज्जगत्॥१८॥
 
 क्व गतः सविता ध्वान्तमेतदप्यागतं कुतः।  
-एवं [सविस्मयेव](http://॑# "सविस्मयेत C.") द्यौः स्फारतारमवैक्षत॥१९॥
+एवं सविस्मयेव[^222] द्यौः स्फारतारमवैक्षत॥१९॥
+
+[^222]: "सविस्मयेत C."
 
 दीपिका अपि दीप्यन्तां स्फुरन्तु तिमिराण्यपि।  
-[तद्गतं ](http://॑# "तद्गहिं सजातीय॰ B, A.")हि सजातीयविजातीयासहं महः॥२०॥
+तद्गतं [^223]हि सजातीयविजातीयासहं महः॥२०॥
 
+[^223]: "तद्गहिं सजातीय॰ B, A."
 
-
-स्रष्टुः [सृष्टिर्वि](http://॑# "सृष्टिवि° A, B, C.")चित्रेयंयस्मात्संकेतवर्त्मना।  
+स्रष्टुः सृष्टिर्वि[^224]चित्रेयंयस्मात्संकेतवर्त्मना।  
 प्रियानभि[^97]सरन्तीनां प्रकाशकमभूत्तमः॥२१॥
 
 [^97]: "प्रियांमभि° B, A, C."
@@ -2227,8 +1993,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 मालिन्यं मार्जयामास चन्द्रमास्तिमिरैः कृतम्।  
 खलैर्दत्तं मृषादोषमिव सत्पुरुषः सताम्॥३१॥
 
-
-
 व्योमाङ्गणविकीर्णानि तमांसि तुहिनद्युतिः।  
 ममार्ज रुचिमार्जन्या कुलटाकुलकण्ठकः॥३२॥
 
@@ -2241,8 +2005,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 कणेहत्य चकोरीणां गणः पीत्वा सुधारसम्।[^100]  
 अजायत मदेनेव गुञ्जापुञ्जारुणेक्षणः॥३५॥
 
-[^100]: "सुधासवं B; सुधारसः A, C."
-
 मरीचिनिचये सान्द्रे सति सान्द्रे समन्ततः।  
 घटितं विष्टपं दन्तसंतत्या दन्तिनामिव[^101]॥३६॥
 
@@ -2253,8 +2015,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 चन्दनैश्चर्चितेव द्यौर्दिशः काशैरिव श्रिताः[^102]।  
 क्षीरेण क्षालितेवोर्वी शर्वरीशे विराजति॥३८॥
-
-[^102]: "श्रिता B, A, C."
 
 पीयूषपायसैः प्रीतं चकोरद्विजसंचयम्।  
 श्रेयोर्थं मन्मथस्येव चकार शिशिरद्युतिः॥३९॥
@@ -2267,8 +2027,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 रमयत्यखिलामुर्वीमचण्डद्युतिमण्डले।  
 कन्दर्पनृपते राज्यमेकच्छत्रभिवाभवत्॥४२॥
-
-
 
 सान्द्रे चन्द्रातपे तत्र स्फुरद्भिः कैरवाकरैः।  
 क्षीरनीरधिडिण्डीर पिण्डानां पाण्डिमा जितः॥४३॥
@@ -2292,8 +2050,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 विधृता विश्ववन्द्येन श्रीशिवेनापि[^105] मूर्धनि।  
 सा ज्योत्स्ना सुदृशां केशहस्तेन गलहस्तिता॥४८॥
 
-[^105]: "याशिवेनापि C."
-
 लग्नः पादेषु कान्तानां नखान्तं प्रतिमामिषात्।  
 याचितुं[^106]वक्रलावण्यकणिकामिव चन्द्रमाः॥४९॥
 
@@ -2311,12 +2067,8 @@ All the three copies have the first line incomplete and the second incorrect as 
 ताडपत्रश्रिया न्यस्तनीलाश्मगणवर्णया।  
 पुस्तिकेव चकास्ति स्म का चित्कामविपश्चितः॥५३॥
 
-
-
-कुचौ सुवृत्तौ धृतहारयष्टी[^107]सकञ्चुकौ रेजतु[रम्बुजाक्ष्याः](http://॑# "°रम्बुजाक्षःA.")।  
+कुचौ सुवृत्तौ धृतहारयष्टी[^107]सकञ्चुकौ रेजतुरम्बुजाक्ष्याः[^225]।  
 रतेः स्थिताया हृदि रक्षणाय स्मरप्रयुक्ताविव सौविदल्लौ॥५४॥
-
-[^107]: "धृतहारयष्टिसा° B."
 
 आकल्पिता शोभितकेलिशय्या नियुद्धभूमीव वधूवरस्य।  
 तत्रोपधानच्छलतो बभूव निवेशवेदी स्मरपार्थिवस्य॥५५॥
@@ -2330,8 +2082,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 कुरङ्गनाभीकृतपत्रभङ्गी[^108] कुचद्वयी चारुदृशश्चकाशे।  
 सुप्तोत्थितस्य स्मरकुञ्जरस्य मदाम्बुसिक्ता शयनस्थलीव॥५८॥
 
-[^108]: "भङ्गि. C."
-
 माणिक्यमुक्ताफलकाञ्चनानां काचिन्मरीचिप्रचयार्चिताङ्गी।  
 खरांशुशीतांशुहुताशनानां महःसमूहैः पिहितेव रेजे॥५९॥
 
@@ -2341,31 +2091,25 @@ All the three copies have the first line incomplete and the second incorrect as 
 [^109]: "°काभिः सूच्यत B, A."
 
 नवं वयश्चित्त[मपेतचिन्त](http://°मपेतचित्तं%20B,%20A, "°मपेतचित्तं B, A,")मिद्धःसुधांशुर्मधुरा परिस्रुत्।  
-सख्योनुकूलाश्च[^110]विलासिनीनां [खिदे तदा](http://॑# "खिर्देतदा B, A.") कान्तविलम्ब एव॥६१॥
+सख्योनुकूलाश्च[^110]विलासिनीनां खिदे तदा[^226] कान्तविलम्ब एव॥६१॥
 
 [^110]: "सखोनुकूलाश्च A."
+
+[^226]: "खिर्देतदा B, A."
 
 अनिच्छतीनां निजमानभङ्गं संगं प्रियैः सत्वरमिच्छतीनाम्।  
 अथेङ्गितज्ञस्य मनस्विनीनां दूतीजनस्यावसरो बभूव॥६२॥
 
 विद्वा[^111]नपूर्वःसितरोचिरेषः कृत[व्यलीकैः](http://ष्यलिकैः%C2%A0B. "ष्यलिकैःB.")सह कामुकै[^112]र्यः।  
-[लुप्रे](http://॑# "लुप्रेB, A, C,") प्रकोपेथ विसर्जनीये संधिं विधत्ते स्म वधूजनस्य॥६३॥
+लुप्रे[^227] प्रकोपेथ विसर्जनीये संधिं विधत्ते स्म वधूजनस्य॥६३॥
 
-[^111]: "विद्धा° A."
-
-[^112]: "कार्मुकै° B, A, C."
+[^227]: "लुप्रेB, A, C,"
 
 विभिन्नयोरह्नि रुषा रजन्यामुदञ्चदुच्चैरनुतापयोश्च।  
 स्त्रीपुंसयोः संगमनच्छलेन प्राणप्रदा कापि बभूव भूयः॥६४॥
 
-
-
 मानार्गलां[^113]कापि विलंध्यवेश्म गन्तुं प्रवृत्ता[^114]दयितस्य यावत्।  
 तावत्स एव स्वयमाजगाम कामः[^115]किमिष्टं न करोति तुष्टः॥६५॥
-
-[^113]: "मानर्गलां B, A, C."
-
-[^114]: "मतुप्रवृत्ता B; मंतुप्रवृत्ता A,"
 
 [^115]: "कामः कमि॰ B."
 
@@ -2378,7 +2122,7 @@ All the three copies have the first line incomplete and the second incorrect as 
 किं नेत्रमार्गेण मनोज्ञरूपा कर्णाध्वना वा मधुरं नदन्ती।  
 नासापथेनाथ सपुष्पवासा प्रियस्य चित्ते प्रविवेश काचित्॥६८॥
 
-अगस्तिभिः संव्यवहा[र्यतां](http://॑॑# " °र्यतांगै° B.") गतैरनुज्ञयेव द्विजचक्रवर्तिनः।  
+अगस्तिभिः संव्यवहा[र्यतां](॑# " °र्यतांगै° B.") गतैरनुज्ञयेव द्विजचक्रवर्तिनः।  
 कान्तैः समं कान्तविलोचनाजनः परिस्रुतं पातुमथोपचक्रमे॥६॥
 
 कन्दर्पकेलिप्रथमप्रयोगसंजातलज्जामुकुलीकृतानि।  
@@ -2390,9 +2134,11 @@ All the three copies have the first line incomplete and the second incorrect as 
 व्यावृत्तवस्त्वन्तरवासनाभिः कृता किरीटेपि पतत्युपेक्षा॥७१॥
 
 महाकुलानि प्रमदाकुलानि विरेजुरापानगृहाङ्गणेषु।  
-हृदि [प्रविष्ट](http://॑# "प्रविष्टःC.")स्मरचित्रपुङ्खदुःखादिवोद्घूर्णितमस्तकानि॥७२॥
+हृदि प्रविष्ट[^228]स्मरचित्रपुङ्खदुःखादिवोद्घूर्णितमस्तकानि॥७२॥
 
-अधरैरधरीकृतं वधूनां मधुमाधुर्यमवैमि [विद्रुमाभैः](http://॑# " विद्रुमाभिःB, A, C.")।  
+[^228]: "प्रविष्टःC."
+
+अधरैरधरीकृतं वधूनां मधुमाधुर्यमवैमि विद्रुमाभैः[^229]।  
 दयितैरत एव तेषु पानप्रतिपत्तिर्विहिता विहाय हालाम्॥७३॥
 
 परिजनैः प्रथमं गतमन्तिकादपसृतं वसनैर्जघनादथ।  
@@ -2401,24 +2147,16 @@ All the three copies have the first line incomplete and the second incorrect as 
 आलिङ्गितायाः सुभगेन गाढमुदूढ[^117]रम्भादलमार्दवेभ्यः।  
 स्वेदोदबिन्दुच्छलतोपरस्याः सुस्राव लावण्यमिवाङ्गकेभ्यः॥७५॥
 
-[^117]: "उद्दु° C,"
-
-
-
 सकलमपि वपुर्विभिद्यमानं मदनशरैरवलोक्य कामिनीनाम्।  
 शरणमिव रदच्छदः प्रपेदे प्रियवदनं यदलं प्रसह्य पातुम्॥७६॥
 
 मैरेयपानच्युतचेतनानां तासामसाधारणविभ्रमा[^118]णाम्।  
 नखाङ्कुशैरप्यनवाप्यसंज्ञो गम्भीरवेदी मदनद्विपोभूत्॥७७॥
 
-[^118]: "विभ्रमाङ्गो B, A, C."
-
 आह्वातुं कुसुमशरं पुरोनुवाक्या  
 दोर्वल्लीवलयरवोभवद्वधूनाम्[^119]।  
 तद्याज्यामणितमभूच्च मोहनाग्नि-  
 ष्टोमेस्मिन्मधुमधुराधरोष्ठसोमे॥७८॥
-
-[^119]: "  वाक्याद्दो° B."
 
 निगदितुं विधिनापि न शक्यते सुभटता कुचयोः कुटिलभ्रुवाम्।  
 सुरतसंयति यौ प्रियपीडितावपि नतिं न गतौ च्युतकञ्चुकौ॥७९॥
@@ -2444,17 +2182,19 @@ All the three copies have the first line incomplete and the second incorrect as 
 इति गूर्जरेश्वरपुरोहितश्रीसोमेश्वरदेवविरचिते कीर्तिकौमुदीनाम्मि  
 महाकाव्ये चन्द्रोदयवर्णनोनाम सप्तमः सर्गः॥७॥
 
-
-
 **परमार्थविचारः।**  
 
 ***        ***
 
 अथ पाथोजिनीनाथे चुम्बत्याशां बिडौजसः।  
-प्रबुद्धं पङ्कजेनेव श्रियः [पात्रेण](http://॑# "प्रायेण A.")मन्त्रिणा॥१॥
+प्रबुद्धं पङ्कजेनेव श्रियः पात्रेण[^230]मन्त्रिणा॥१॥
+
+[^230]: "प्रायेण A."
 
 कोकद्वन्द्वंतदालोक्य संगतं संममाद सः।  
-परकष्टे [प्रनष्टे](http://॑# " विनष्टे C.") हि सतां प्रीतिः प्रचीयते॥२॥
+परकष्टे प्रनष्टे[^231] हि सतां प्रीतिः प्रचीयते॥२॥
+
+[^231]: " विनष्टे C."
 
 उन्मादं वीक्ष्य पद्मानां कुमुदानां च मन्दताम्।  
 क्षणिकत्वं विभूतीनां चेतसा निश्चिकाय सः॥३॥
@@ -2467,8 +2207,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 विच्छाया[^121]स्तिमिरे तुच्छे रेजुर्दीपाश्चलच्छिखाः॥  
 पङ्कीभूते[^122]पयः शेषे स्फुरन्तः शफरा इव॥६॥
-
-[^121]: " विछया A ; विछाया° B, C."
 
 [^122]: "एकांभूते B, C, A."
 
@@ -2484,18 +2222,12 @@ All the three copies have the first line incomplete and the second incorrect as 
 न्यासीकृताः[^123]परं देशं गच्छता भास्करेण याः।  
 स्फुटं स्फटिक[^124]भूर्वह्निः प्रतिदत्ते स्म ता विभाः[^125]॥१०॥
 
-[^123]: "न्यासाकृता B, C, A."
-
 [^124]: "स्फुटिक B, C, A,"
 
 [^125]: "तां विभोः B, A, C."
 
-
-
 विवृति[^126]र्विश्वसूत्रस्यदृशां निस्तिमिरौषधी।  
 इष्टवार्ता[^127]च पद्मानां दिद्युते द्युमणिद्युतिः॥११॥
-
-[^126]: "विवृत्ति C."
 
 [^127]: "°वार्ता A, C."
 
@@ -2508,8 +2240,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 कुर्वाणः किरणाङ्कूरैरवतंस[^128]श्रियंदिशाम्।  
 नभस्त्रिभागमागच्छदब्जिनीजीवितं विभुः॥१४॥
 
-[^128]: " °रवतमंस॰ B."
-
 विलोललोचनाः प्रातर्मौलिमाल्यानि तत्यजुः।  
 लोके हि कारणेनैव गौरवं गुणिनामपि॥१५॥
 
@@ -2518,8 +2248,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 बभ्राजे भुजगाभासं त्रासयंस्तिमिरोत्करम्[^129]।  
 सुवर्णरुचिराकारः सुपर्ण इव[^130]भास्करः॥१७॥
-
-[^129]: "त्रासयस्तिमिरोत्कराम् B, A, C."
 
 [^130]: "सुवर्ण इव B, A."
 
@@ -2534,8 +2262,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 भाले तस्य विभाति स्म चान्दनी तिलकाकृतिः।  
 कृता सुकृतिनां मध्ये रेखा मुख्येव वेधसा॥२१॥
-
-
 
 आलिङ्गितः शमेनेव पृथग्भूतः कलेरिव।  
 सद्वृत्तेनेव निर्वृत्तः स तदा शुशुभे भृशम्॥२२॥
@@ -2554,7 +2280,9 @@ All the three copies have the first line incomplete and the second incorrect as 
 [^132]: "निर्वृतिम् B, C, A."
 
 मोदमानोन्तरात्मैव साक्षी यत्कर्मशर्मणे।  
-तमप्युपेक्षते धर्ममहो मूढमना [जनः](http://॑# "जनाःB, A.")॥२६॥
+तमप्युपेक्षते धर्ममहो मूढमना जनः[^232]॥२६॥
+
+[^232]: "जनाःB, A."
 
 केचिद्द्युम्नाय धावन्ति प्रद्युम्नाय च केचन।  
 नोद्युङेक्त कोपि धर्माय सर्वाभिप्रेतहेतवे॥२७॥
@@ -2567,7 +2295,7 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 [^133]: "सुलम्भा B."
 
-उच्चै[र्गर्वे](http://॑# "गर्वA..")समारोप्य नरं श्रीराशु नश्यति।  
+उच्चैर्गर्वे[^233]समारोप्य नरं श्रीराशु नश्यति।  
 दौस्थ्यदत्तावलम्बोधः स तस्मादवरोहति॥३०॥
 
 जितं लक्ष्मि त्वया यस्यै जनस्तमपि सेवते।  
@@ -2576,8 +2304,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 धनस्याधर्मलब्धस्य मुग्धोलाभेन तुष्यति।  
 सुकृतस्य दुरापस्य न तु हानिमपेक्षते॥३२॥
 
-
-
 आसाद्यते यया स्वर्गः श्रिया सन्मार्गदत्तया।  
 त्यक्त्वा तामप्यधर्मेण मूर्खाः क्रीडन्ति दुष्कृतिः॥३३॥
 
@@ -2585,7 +2311,9 @@ All the three copies have the first line incomplete and the second incorrect as 
 दत्त्वा पात्राय तद्दानफलमेवोपभुञ्जते॥३४॥
 
 पित्राद्यैरुपभुक्ता या पुत्राद्यैरपि भोक्ष्यते¹⁹।  
-कामयन्ते न तां सन्तो [ग्रामवेश्यामिव](http://॑# "ग्रामवेशामिवA.") श्रियम्॥३५॥
+कामयन्ते न तां सन्तो ग्रामवेश्यामिव[^234] श्रियम्॥३५॥
+
+[^234]: "ग्रामवेशामिवA."
 
 तस्करैर्वा दुराशैर्वा हतं संसहते धनम्।  
 कदर्यो नैव सत्कार्ये कल्पयत्यल्पमप्यदः॥३६॥
@@ -2593,7 +2321,7 @@ All the three copies have the first line incomplete and the second incorrect as 
 अन्धा एव धनान्धाः स्युरिति सत्यं तथा हि ये।  
 अन्योक्तेन्मध्वना गच्छन्त्यन्यहस्तावलम्बिनः॥३७॥
 
-धनी धनात्यये जाते [दूरं](http://॑# " दुरं B, A.")दुःखेन दूयते।  
+धनी धनात्यये जाते दूरं[^235]दुःखेन दूयते।  
 दीपहस्तःप्रदीपेस्ते तमसा बाध्यतेधिकम्॥३८॥
 
 आदावेव विकारं यः प्रदर्शयति देहिनाम्।  
@@ -2616,8 +2344,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 18 ॰भुक्तायां B, A, C; पित्राद्यै^(०) B, A, C; °रुपभोक्ष्य° B, A.
 
-
-
 मदान्धास्ते परं लोकं कथं पश्यन्तु भूभुजः।  
 तमोमण्डलमध्यस्थाश्चत्रच्छायाच्छलेन ये[^135]॥४४॥
 
@@ -2633,12 +2359,12 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 [^137]: "°द्विनिर्यास्ति B."
 
-कालेन [सौनिकेनेव](http://॑# "शौनिके॰B, A.")नीयमानो जनः पशुः।  
+कालेन सौनिकेनेव[^236]नीयमानो जनः पशुः।  
 क्षिपत्येष धिगासन्ने मुखं[^138]विषयशाद्वले॥४७॥
 
 [^138]: "शापं B, A."
 
-कायः [कर्मकरोयं](http://॑# "कमकरोयंत B, A, C.")न तत्र कार्यातिलालना।  
+कायः कर्मकरोयं[^237]न तत्र कार्यातिलालना।  
 भृतिमात्रोचि[^139]तो ह्येष प्रपुष्टो विचिकीर्षते॥४८॥
 
 [^139]: "मात्रोंचि B, A."
@@ -2658,15 +2384,13 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 [^142]: "हन्ति B, A."
 
-अविद्यामेव सेवन्ते हन्त विद्यां [व्युदस्य ते](http://॑# "व्युदस्य ये.")।  
+अविद्यामेव सेवन्ते हन्त विद्यां व्युदस्य ते[^238]।  
 ते दूत्यामनुरज्यन्ते वरारोहाविहायिनः॥५२॥
 
 तटस्थःप्रेक्षते योगी जगदस्मिन्भवार्णवे।  
 मज्जनोन्मज्जने[^143]कुर्वद्दुःकृतैः सुकृतैर्निजैः॥५३॥
 
 [^143]: " मज्जानोमज्जने कुर्वन् B, A, C."
-
-
 
 विषयामिषमुत्सृज्य दण्डमादाय ये स्थिताः।  
 संसारसारमेयोसौ बिभ्यत्तेभ्यः पलायते॥५४॥
@@ -2691,8 +2415,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 पुलिनपरिसरे[^145]सरस्वतीनामजनि समागमनं सुखञ्जनानाम्।  
 भवति यदवलोकनादनाविष्कृतहसितारिमुखं सुखं जनानाम्॥६०॥
 
-[^145]: " °परिसरस्व° B."
-
 क्षितिवलयजयोज्जिहानवीरा क्रमविरमज्जलपूरसिन्धुतीरा।  
 शरदवतरति स्म मत्तहंसा दिशि दिशि कासकदम्बकावतंसा॥६१॥
 
@@ -2702,24 +2424,20 @@ All the three copies have the first line incomplete and the second incorrect as 
 विगलितजगदापदः[^146] पयोदाः परिगलिताम्बुविभूतयो बभूवुः।  
 अहह न सहते महीयसामप्युदयमियं नियतिश्चिराय वैरा॥६३॥
 
-[^146]: "विदलित॰ ."
-
 घनमयसमयात्ययें विनिद्रः क्रतुपुरुषो भवतीति तथ्यमेव।  
 दधतुरपरथा कथं विकाशं दिनपतिरात्रिपती[^147]तदीयनेत्रे॥६४॥
 
 [^147]: "°पतिस्त° A."
 
-
-
 सरसिजसुरभिः सरःसमीरःकमलसमृद्धिसमुद्धता[^148] धरित्री।  
 कलमपि कलहंसकामिनीनां रसितमथ व्यथयांचकार पान्थान्॥
-
-[^148]: "समुद्धृता C."
 
 ६५॥
 
 कलयति कलशोद्भवे प्रवेशं मलयनगस्थगिते नभोविभागे।  
-जगदगदमभूत्पयश्च पेयं ननु महतामुदयो मुदे न [कस्य](http://॑# "कस्याःB, A, C.")॥
+जगदगदमभूत्पयश्च पेयं ननु महतामुदयो मुदे न कस्य[^239]॥
+
+[^239]: "कस्याःB, A, C."
 
 ६६॥
 
@@ -2729,14 +2447,10 @@ All the three copies have the first line incomplete and the second incorrect as 
 गवलकुवलयप्रभैःपयोदैर्वियतिवृते व्यथिते व्ययेन[^149] यस्य।  
 अधिपतिरतिमात्रमुष्णमह्नां[^150]तदिव सुसंचितमुत्ससर्ज तेजः॥६८॥
 
-[^149]: "व्यधितव्ययो न ?"
-
 [^150]: "°मुष्मण मह्नां.A."
 
 भासः सेव्याः श्वेतभासः प्र[^151]दोषे लोकाह्लादोद्दीपिका दीपकाली।  
 दुग्धैर्दिग्धा शर्करा यत्र पथ्यं दिष्ट्या दिष्टः स प्रविष्टः पृथिव्याम्॥
-
-[^151]: "°भासप्र°B, A, C."
 
 ६९॥
 
@@ -2748,8 +2462,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 भाति स्म प्रथयन्नहं प्रथमि[^152]कांतेजस्विषूत्तेजितः  
 श्यामाम्भोधरभस्मनेवशशभृ[^153]द्दिक्कामिनीदर्पणः॥
 
-[^152]: "°हं प्रथिमा°B, A, C."
-
 [^153]: "शशिभृ° C."
 
 ७१॥
@@ -2757,11 +2469,9 @@ All the three copies have the first line incomplete and the second incorrect as 
 इति श्रीगूर्जरेश्वरपुरोहितसोमेश्वरदेवविरचिते कीर्तिकौमुदीनाम्मि  
 महाकाव्ये परमार्थविचारोष्टमः सर्गः॥८॥
 
-
-
 यात्रासमागमनम्।
 
-चिकीर्षिता श्रीसचिवेन तीर्थयात्राथ सोयं शरदा [समेतः](http://॑# "सोयंसमेतः B ; सोयंसमेत A, C.")।  
+चिकीर्षिता श्रीसचिवेन तीर्थयात्राथ सोयं शरदा समेतः[^240]।  
 महात्मनामीहितकार्यसिद्धौ विधिर्विधत्ते
 
  हि सदानुकूल्यम्॥१॥
@@ -2769,7 +2479,7 @@ All the three copies have the first line incomplete and the second incorrect as 
 धर्मैकमित्रोपनिबन्धनार्थं²तेनार्थिमित्रेण चराः प्रयुक्ताः।  
 न केवलं स्वेन कृतार्थितेन परैः कृतार्थैःकृतिनः कृतार्थाः॥२॥
 
-रथानथानन्द[विसंष्ठुलो](http://॑# "विसंस्थुलो  C.")यं लोकप्रयाणप्रवणांश्चकार।  
+रथानथानन्दविसंष्ठुलो[^241]यं लोकप्रयाणप्रवणांश्चकार।  
 उपक्रमे पुण्यकृतां क्रियाणां राभस्यमभ्यस्यति को न साधुः॥३॥
 
 पाथेयवन्तः पथि योग्ययुग्याः सोपानहः सोदकभाजनाश्च।  
@@ -2798,10 +2508,7 @@ All the three copies have the first line incomplete and the second incorrect as 
       *                            
                            *  
 
-
 2 B, A, C have मन्त्रिणायें in the first line in addition to the text.
-
-
 
 न वाहनं यस्य स तस्य यानं नासीद्धनं यस्य स तस्य वित्तम्।  
 न चीवरं यस्य स तस्य वस्त्रं कल्पद्रुकल्पः प्रददौ पृथिव्याम्॥११॥
@@ -2826,14 +2533,12 @@ All the three copies have the first line incomplete and the second incorrect as 
 अनुक्रमेण प्रसृतास्य साधोः साधोरणि[^156]र्यात्रिकधोरणानाम्।  
 वैमानिकै[^157]र्व्योमनिनाकिलोकैर्भूमानयष्टिप्रतिमा व्यलोकि॥१७॥
 
-[^156]: "°रिणी A, B, C."
-
 [^157]: " वैमानिकव्यो° B, A, C."
 
 पुरश्च पृष्ठेपि च पार्श्वयोश्च परिस्फुरन्तः खरहेतिहस्ताः।  
 यात्राजनं वर्त्मनि तस्य शश्वदश्वाधिरूढाः सुभटा ररक्षुः॥१८॥
 
-[समुद्धृतै](http://॑# "समुतवृत्तै° B, C, A .")र्जीर्णजिनेन्द्रहर्म्यैर्नवैःसरोभिश्चसरोजरम्यैः।  
+समुद्धृतै[^242]र्जीर्णजिनेन्द्रहर्म्यैर्नवैःसरोभिश्चसरोजरम्यैः।  
 प्रस्थानमार्गः[^158]सचिवस्य सोभूदजानतामप्युपलक्षणीयः[^159]॥१९॥
 
 [^158]: "°मार्ग° B."
@@ -2846,12 +2551,12 @@ All the three copies have the first line incomplete and the second incorrect as 
 स पञ्चषैर्निर्विषयप्रपञ्चप्राणकैः प्रीणितभव्यलोकः।  
 धराधरं धर्मधुरंधरः श्रीशत्रुंजयं शत्रुजयी जगाम॥२१॥
 
-
-
 आरुह्य सह्यादपि सुन्दरेस्मिन्नश्मोच्चये कश्मलमुक्तचेताः।  
-मन्त्री [मिलन्म](http://॑# "°मीलन्म° B, C, A.")र्त्यकृतोपमर्दं कपर्दिनं नाम ननाम यक्षम्[^160]॥२२॥
+मन्त्री मिलन्म[^243]र्त्यकृतोपमर्दं कपर्दिनं नाम ननाम यक्षम्[^160]॥२२॥
 
 [^160]: "यज्ञम् A."
+
+[^243]: "°मीलन्म° B, C, A."
 
 स कर्दमैस्तस्य तनुं कपर्दियक्षस्य यक्षोपपदैर्विलिप्य।  
 पुष्पैरनेकैर्विलसद्विवेकस्त्रिलोकपूज्यस्य चकार पूजाम्॥२३॥
@@ -2860,21 +2565,19 @@ All the three copies have the first line incomplete and the second incorrect as 
 शृङ्गावलिव्याप्तवियन्मुखोपि सोयं सुखेनारुरुहे महीन्द्रः॥२४॥
 
 तत्रादिनाथस्य नमस्य[^161]मूर्तेःस्नान[^162]ं च पूजां च विधाय मन्त्री।  
-पुरः कुरङ्गीनयनाः प्रमोदनृत्यात्मना [नृत्य](http://॑# "नृत्यी B.")मकारयत्सः॥२५॥
+पुरः कुरङ्गीनयनाः प्रमोदनृत्यात्मना नृत्य[^244]मकारयत्सः॥२५॥
 
-[^161]: "नभस्य° B."
-
-[^162]: "स्त्रात्रं B, A, C."
+[^244]: "नृत्यी B."
 
 संश्लिष्टमष्टापदपृष्ठपट्टे तं दृष्टवान्विष्टपवन्दनीयम्।  
 अमेयतेजोमयमण्डलस्थं यथा पुमांसं परमं स मन्त्री॥२६॥
 
 विरच्यमाने सचिवेन तेन पूजाविधौपूज्यतमस्य तस्य[^163]।  
-सकुङ्कुमस्नानजलच्छलेन गल[^164]न्निवालोक्य [ततोङ्गरागम्](http://॑# "लोक्यत सोङ्गरागः(?)")॥२७॥
-
-[^163]: "तस्या A."
+सकुङ्कुमस्नानजलच्छलेन गल[^164]न्निवालोक्य ततोङ्गरागम्[^245]")॥२७॥
 
 [^164]: "गलन्मि° B."
+
+[^245]: "लोक्यत सोङ्गरागः(?
 
 न केवलं केवलिचक्रवर्ती हृञ्चक्रवर्ती सचिवस्य सोभूत्।  
 शुश्रूषया[^165]प्येष विशेषवत्या तत्याज नान्तः करणं वदीयम्॥२८॥
@@ -2882,20 +2585,16 @@ All the three copies have the first line incomplete and the second incorrect as 
 [^165]: "श्रुश्रुषया B, C, A."
 
 श्रीनाभिसूनुर्मृगनाभिमुख्यैः पूजोपहारैः प्रचुरैः प्रसन्नः।  
-मन्ये स्वभावादपि वीतरागः स [स्फीतरागः](http://॑॑# "फीतरागःB.") सचिवे बभूव ॥२९॥
+मन्ये स्वभावादपि वीतरागः स [स्फीतरागः](॑# "फीतरागःB.") सचिवे बभूव ॥२९॥
 
-स श्वेतपीतैर्वसनैर्व्यधत्त धाम्मिप्रभोस्तस्य [महापताका](http://॑# "महापताकाःB, C, A.")म्।  
+स श्वेतपीतैर्वसनैर्व्यधत्त धाम्मिप्रभोस्तस्य महापताका[^246]म्।  
 सरोजराजीरजसानुविद्धो जिग्ये यया सिद्धसरित्प्रवाहः॥३०॥
 
 धर्माय निर्मापयति स्म तस्मिन्मन्त्री धरित्रीभृति वस्तुपालः।  
 श्रीनेमिपार्श्वप्रभुहर्म्ययुग्ममयुग्मनेत्राचलशृङ्गचारु॥३१॥
 
-
-
 प्रासाद[^166]सौन्दर्यविलोकनेनसंभूतभूयस्तरसंमदानाम्।  
 विभान्ति तत्कान्तिकरम्बितानि कृतस्मितानीव दिशां मुखानि॥३२॥
-
-[^166]: "प्रसाद B, A, C."
 
 यदुत्तमाङ्गस्थितशातकुम्भकुम्भध्वजस्फूर्जदभीशुभिन्नाः।  
 अल्पेप्यनल्पा अपि वासरान्ते चिराद्विराजन्ति कराः खरांशोः॥३३॥
@@ -2936,12 +2635,8 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 25 Evidently the text ofthe last line is wrong. It appears to have been corrupted from वारीणि रीणाशुगवीजितानि.
 
-
-
 तीर्थैः समग्रैरुपचर्यमाण[^169]सिद्धैरनेकैरुपरुध्यमानम्।  
 रत्नैरनन्तैरुपचीयमानं भूतैः प्रभूतैरुपजीव्यमानम्[^170]॥४॥
-
-[^169]: "रुपवयमाणं C, A; रूपवयप्रमाणं B."
 
 [^170]: "°रुपजीयमानम् A."
 
@@ -2949,13 +2644,9 @@ All the three copies have the first line incomplete and the second incorrect as 
 तलेन धात्रीतलमाप्रुवन्तं हरन्तमन्तःकरणानि कान्त्या॥४४॥
 
 क्वचिन्नदीः[^171] काञ्चनकान्तिजुष्टाः¨[^172]क्वचिन्नदानुन्मदराजहंसान्[^173]।  
-क्वचिद्द्रुमानार्द्रफलप्रवालान्क्वचिच्च धातून्वि[विधान्दधानम्](http://॑# "विधिधानदधानम् B.")॥४५॥
+क्वचिद्द्रुमानार्द्रफलप्रवालान्क्वचिच्च धातून्विविधान्दधानम्[^247]॥४५॥
 
-[^171]: "°चित्तदीB; चिन्नदी A."
-
-[^172]: "जुष्टा B, C, A,"
-
-[^173]: "°दारुन्म॰ B, A, C. राजहंसाः"
+[^247]: "विधिधानदधानम् B."
 
 सिताम्बरं मन्त्रिवरस्तमग्रनिविष्टनिर्विष्टपयोदभङ्गया।  
 समाधिबन्धादिव[^174]निश्चलाङ्गं मुनीन्द्रतुल्यं तमगं ददर्श॥४६॥(**४३-४६ कुलकम्** )
@@ -2985,14 +2676,8 @@ All the three copies have the first line incomplete and the second incorrect as 
 निशासु यस्मिन्नवतंसितानां समीपवर्ती जगती[^176]रुहाणाम्।  
 तारागणः पुष्यति पुष्पशङ्कां मुग्धस्य सिद्धप्रमदाजनस्य॥५३॥
 
-[^176]: "जगतांरु° B, A, C"
-
-
-
 अधित्यकाधिष्ठितपानगोष्ठीगीतोत्कितो[^177]त्सङ्गकुरङ्गरुद्धः।  
 मृगीदृशां राजति यत्र रात्रिकरः करप्राप्य इव क्षपासु॥५४॥
-
-[^177]: "गीतोत्कतो° B, A, C."
 
 यस्मिन्विदग्धा अपि सिद्धवध्वः संभूतभूतेषु वनान्तरेषु।  
 फलैर्विपक्वाग्रमुखैः सदृक्षान्कीरान्विरावैरुपलक्षयन्ति॥५५॥
@@ -3008,12 +2693,10 @@ All the three copies have the first line incomplete and the second incorrect as 
 दिनाधिनाथेन[^179]पुरो निरस्तमस्तस्थिताच्चन्द्रमसञ्च बिभ्यत्।  
 यत्कन्दराः संश्रयते तमिस्रं दत्ते हि दुःस्थस्य पदं महात्मा॥१८॥
 
-[^179]: "विनाधि° B, C, A."
+फलानि पुष्पाणि मनोरमाणि[^180]यस्य द्रुमाः[^248]प्रत्यहमुद्वहन्ति।  
+अत्यन्तभक्तेषु भवत्यवश्यं श्रिये महत्यै महतामुपास्तिः[^249]॥५९॥
 
-फलानि पुष्पाणि मनोरमाणि[^180]यस्य [द्रुमाः](http://॑# "द्रुमाप्र B, A.")प्रत्यहमुद्वहन्ति।  
-अत्यन्तभक्तेषु भवत्यवश्यं श्रिये महत्यै महतामु[पास्तिः](http://॑# "°पास्ति C, B, A.")॥५९॥
-
-[^180]: "°मनोहराणि A."
+[^249]: "°पास्ति C, B, A."
 
 श्रीनेमिनाथेन जिनेश्वरेण पवित्रिते यत्र धराधरेन्द्रे।  
 हिंस्राः समुज्झन्ति [^181]परः सहस्राः स्वभावसिद्धामपि वैरबुद्धिम्॥६०॥
@@ -3036,15 +2719,11 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 [^183]: "मंत्रैव C, B, A."
 
-
-
 स्रानंस पात्रप्रतिपादितार्थस्तीर्थोदकैस्तीर्थकरस्य तस्य।  
 कृत्वा च कृष्णागरुचन्दनाद्यैर्विलेपनं धौतमलानुलेपः॥६५॥
 
 घनैः प्रसूनैर्वसनैरनूपैः[^184]पत्रैः पवित्रैरशनैः प्रधानैः।  
 नृत्तैर्वधूनां च गृहीतचिन्तैर्गानैः सदानैर्विततामपूज्यम्[^185]॥६६⁴⁷॥
-
-[^184]: "°नून° C. "
 
 [^185]: "विततान पूजाम् ?"
 
@@ -3058,8 +2737,6 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 धर्मक्रियाविस्मृतराजकार्यस्तत्रैव निन्ये[^187] स बहून्यहानि।  
 असक्तमासक्तमतीप्सितेर्थे[^188] कालातिपातं[^189]न हि वेत्ति चेतः॥६९॥
-
-[^187]: "नित्ये B."
 
 [^188]: "°मतीप्सितेर्थ° B."
 
@@ -3086,25 +2763,17 @@ All the three copies have the first line incomplete and the second incorrect as 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **   47** B omits this verse altogether :evidently a mistake as the following verse is marked 67.
-
-
 
 अस्य प्रभोः पितुरिव क्षणमप्यशक्तः[^191]  
 सोढुं वियोगमहमित्यवगम्य सम्यक्।  
-चौलुक्यचन्द्रसचिवः [शुचितैकवित्ते](http://॑॑# "श्रुचितैकचित्तेघित्वे B, C, A.")  
+चौलुक्यचन्द्रसचिवः [शुचितैकवित्ते](॑# "श्रुचितैकचित्तेघित्वे B, C, A.")  
 चित्ते निवेश्य जिननाथमथ प्रतस्थे॥७५॥
-
-[^191]: "मन्यशक्तःB, A; मभ्यशक्तःC."
 
 व्यावर्तमान[^192]मथ मानवराजमन्त्रि-  
 राजं मुदा प्रतिपथं प्रमदास्तदानीम्॥
 
-[^192]: "व्यावृत्तमान° C."
-
-पश्यन्त्यदृष्टमिव तं शतशोपि [दृष्टं](http://॑# "°मिवशतशो° B, A; दृप्ति° C.")  
+पश्यन्त्यदृष्टमिव तं शतशोपि दृष्टं[^250]  
 तृप्तिर्भवेन्न हि दृशां प्रियदर्शनेषु॥७६॥
 
 आगत्य स्वपुरं पुरन्दरसमस्यानम्य पादौ प्रभोः  
@@ -3117,21 +2786,14 @@ All the three copies have the first line incomplete and the second incorrect as 
 ( स्फीतानि ) स्वयशांसि[^194] बन्दिगदितान्याकर्णयन्कर्णव-  
 द्दानोद्दानकराम्बुजः स जयतु श्रीवस्तुपालश्चिरम्॥७८॥
 
-[^193]: "°मङ्गनाप्रण°B, A."
-
-[^194]: "स्वयशांसिगदि°. B; स्वयशांसिबन्दि°C, A."
-
 इति श्रीगूर्जरेश्वरपुरोहितश्रीसोमेश्वरदेवविरचिते कीर्तिकौमुदीमहाकाव्ये  
 यात्रासमागमनोनाम नवमः सर्ग॥९॥
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 NOTES.  
 \_\_\_\_\_\_
 
-  
 CANTO I.
 
 **St. 1. यामिकाः—**guards or watchmen. Compare the vernacular words **पाहरा** and**पाहरेकरी** which are derived from **प्रहर,** asynonym of **याम.**  
@@ -3149,8 +2811,6 @@ CANTO I.
 **St. 14.** **तमिश्वर,**when taken as one word means the moon, the lord of the night.Theexpression is also intended to be read as **तम् ईश्वरम्** meaning thewellknown Śiva. **जनितार्जुनतेजस्कम्**means 'one who sheds a white light,'and also'one who gave power to Arjuna.' The word **कुवलयप्रिय** also bears a doublemeaning: **कोः पृथिव्याः मण्डलस्य प्रिया** or **कुवलयानां कमलानां प्रिया.**  
 
 **St. 15.** **बाणध्वनौ—**on hearing the words of the poet Bâṇa. It also means onhearing the sound of a musical instrument (**वंशी**) of that name.**अनध्याय**means cessationfromstudy. It includes temporary stoppages of thelessons and alsolongholidays. They are variously enjoined by thevarious Smritis, and it would appear that, in order to avoid distraction andsecure concentration, old teachers were very
-
-
 
 liberal in granting remissions of study. The longest suspension of study, namely for one year, is enjoined for certain wild and ferocious beasts and sinners passing between the teacher and the pupil:**गजगण्डसारससिंहव्याध्रमहापापिकृतघ्नादावब्दमनध्यायः।**If a less fierce animal happens to pass between the teacher and the class, shorter holidays are granted. **अरण्यमार्जारसर्पनकुल-पञ्चनखादेरन्तरागमने त्रिरात्रम्।**The holiday referred to in the text is a short one lasting as long as the disturbing cause lasts. Yâjňavalkya enumerates thirty-seven of these as follows:
 
@@ -3179,8 +2839,6 @@ It will be seeen from the lists of **अनध्याय**that the institution
 
 **St. 19. सुमनसां श्रेष्ठम्** and **दर्पकोपचितम्** are intended to be under-
 
-
-
 stood in a double sense. The former may mean **साधूनां श्रेष्ठम्** or **देवानां श्रेष्ठम्.** The latter may be solved as **दर्पकेण अनङ्गेन उपचितम्** and also **दर्पकोपाभ्यां मदरोषाभ्यां** **चितम्.नीलकण्ठ,**the poet as well as god Śiva.  
 
 **St. 27. दन्तद्युता**—instrumental singular of **दन्तद्युत्** (feminine) construe : **दन्तद्युता** **मुखे ब्राह्मी प्रकाश्यते। स्वर्णमुद्रया करे श्रीःप्रकाश्यते**।  
@@ -3196,8 +2854,6 @@ stood in a double sense. The former may mean **साधूनां श्र�
 **St. 38.दोषज्ञ**awise man; **वकरभूमी**a place where sweepings are heaped up. **घनरासभा** means crowded with asses and qualifies **वकरभूमिः सहसाघनरा** qualifies **सभा;** it may be explained as **साघैः अघसहितैः नरैः सहिता. त्याज्या** qualifies both **सभा** and **वकरभूमी.**  
 
 **St. 40.रतवानिव वायसः.** It is considered as an ill omen to see crows pairing. The sight presages death to the person seeing it. Expiatory ceremonies are prescribed; and the popular belief is that bad consequences are averted if a false rumour regarding the death of the man seeing the crows is spread among his relatives and friends.**शान्तिसार**a book treating of expiatory ceremonies quotes the following verses from a Purâṇa:
-
-
 
 **काकस्य मिथुनं पश्येत्काकः शिरसि चेद्विशेत्।  
 शिरस्युरसि वा कुर्यात्पक्षाघातं नखैस्तथा॥  
@@ -3217,14 +2873,10 @@ is another completion of the same kind.
 **St. 64.** When taken with **कौरवेश्वरसैन्यस्य, वल्गद्गाङ्गेयकर्णस्य** is to be construed as **वल्गन्तौ गाङ्गेयकर्णौ यस्मिन् तत् ;** in which BhÎshma and Karņa are moving about; and when taken with **स्त्रीजन** as **वल्गत् गाङ्गेयं यत्र तौ वल्गद्गाङ्गेयौ। एतादृशौकर्णौ यस्य सः** **वल्गद्गाङ्गेयकर्णः**—from whose ears ornamentsof gold were hanging down.  
 **St. 67.** The beautiful damsels of the city are described as the treasure of the god of love, because they bear the stamp of his royal seal in the form of the disc of the moon reflected in their bright cheeks.
 
-
-
 **St. 76.** Both the readings can be interpreted, according to one of them the epithet means 'charming like a stream of the favour of Śiva.' The other, adopted in the text is decidedly better. It means ‘charming by the numerous temples of Śiva on its sides.' **राजहंसैरलंकृतम्** qualifies both **सरः** and **नगरम्.** When it qualifies **सरः,** **राजहंसैः**means by birds of that name, and when it qualifies it is to be understood as **राजान एव हंसास्तैः.**  
 **St. 77.** When applied to Krishṇa the epithets mean 'well-known as the holder of the discus and the conch-shell'; 'taking various incarnate forms'; and beloved of Kamalâ or Lakshmî. When applied to the lake they mean 'well known for its conchshells and chakravâka birds’; 'having numerous flights of steps'; and beautiful on account of the lotuses in it.’  
 **St. 80.** The poet regards the shining particles of foam as so many stars which have resorted to the lake to protect themselves from the heat of the sun.  
 **St. 81. श्रेयः सिन्धुरवर्णकम्बलधुरं धत्ते सरः शेखरः—**This line offers some difficulty. The meaning is clear. The lake is described, on account of the various colours it shows, as resembling a shawl made into the trappings of an elephant. **वर्ण**means the housings or trappings of an elephant. The difficulty is with regard to the final **र्** of **धुर्.**It should be **धुराम्**according to Panini V. 4, 72. There appear to be two ways out of the difficulty. Either one must have recourse to the optional nature of all rules regarding the final vowels and consonants of compounds; **समासान्तविधीनामनित्यत्वम्;** or what is nearly the same thing, one must recognise a usage sanctioning the form. See Siddhanta Koumudi, Samâsâśrayana.**विष्णुपुरं** **क्लीबत्वं लोकात्।**In Böthlingk's Pâṇini the example of **धुर्**is given as ending in a masculine termination **राजधुरः**but the Siddhânta Koumudi reads **राजधुरा**instead. It would seem best to read **धुरां**and take **श्रेयः**as a part of the compound which would then mean ‘ the foremost position among excellent shawls forming the trappings of an elephant.’
-
-
 
 CANTO II.
 
@@ -3242,8 +2894,6 @@ CANTO II.
 
 **St. 26.** Thedoubled meanings of **हरि**(a horse and a monkey)
 
-
-
 **भूभृत्** (a king and a mountain ), and **सिन्धुपति** (the king of Sindha and the ocean) deserve notice.  
 **St. 27.** The story of Agastya having drank off the ocean is well known. See M. Bh. III. chapters 96-108.  
 **St. 34.राहूचक्रे**was reduced to the state of Râhu. How Râhu tried to get ambrosia and lost his head may be seen in M.Bh. I.  
@@ -3254,8 +2904,6 @@ CANTO II.
 **St. 58.** Arbudâchala or Mt. Abu is stated to be son of the great mountain Himâlaya. He was brought there by Vaśishtha to fill up a fearful abyss which was in that place before, and into which the cow of that sage had fallen. See Arbuda-purâṇa.  
 **St. 60.** Dr. Bühler translates this verse as follows:—"That prince was never equal to Bhîmasena, the destroyer of the (Ásura) Baka, (nor) able to tame the swanlike kings (his enemies)." See Indian Antiquary, vol. VI., Part LXIX. p. 187. I would translate it thus: This prince Bhîma, who was capable of taming *swan*-like kings, can never be compared with Bhîmasena the Pâṇḍava who killed (only) Baka (a demon of that name or a *duck).*  
  Indeed Bhîma may have been a weak prince, because it was during his reign that the Dholka house established its ascendancy; but the poet does not seem to have intended to cry down Bhîma. The poet evidently wants to compare the king with his illustrious Pâṇḍava namesake and to show the superiority of the former by means of a conceit on the word. **बक**He cares more for the antithesis between **बक**
-
-
 
 and**हंस**than for the fact of Bhima having lost the kingdom. Besides Bhîma does not seem to have been quite destitute of military virtues; nor was he hostile to the poet's patron, and the poet who finds good qualities in all other princes is not likely to omit to say a good word of him.  
 **St. 67.** Mark **अस्ति.** The poet was a contemporary of this king.  
@@ -3278,8 +2926,6 @@ and**हंस**than for the fact of Bhima having lost the kingdom. Besides Bhî
 
 **St. 87. ऊढवृषध्वजस्य** is clear. It is to be solved as a **तृतीयाबहुव्रीहि.** But in order to justify the sequence of words in **रूढवृषध्वजस्य,** if that reading is adopted, the compound must be solved thus: **रूढः वृषध्वजः यत्र.**
 
-
-
 **St. 93. भुजेषु** and **दन्तेषु** are to be taken with **गूर्जरेन्द्राः** and **कुञ्जरेन्द्राः** respectively. The adjective **क्षमाभृदृलनक्षमेषु** qualifies both the locatives **भुजेषु** and **दन्तेषु, क्षमाभृत्** being in the first case taken for kings and in the second for mountains.  
 **St. 98.गन्धद्विप.**
 
@@ -3292,8 +2938,6 @@ and**हंस**than for the fact of Bhima having lost the kingdom. Besides Bhî
 **St. 110.** **दुश्चरितप्रवृत्तौ अग्रेसरी भवति** and **संगरव्यतिकरापसृतौ पश्चाङ्गवति** "which comes forward when one feels an inclination to do a wrong act, and which places itself behind when one thinks of running way from the throng of the battle-field." Being forward in bad acts and backwards in war, which are in themselves bad, are here applied to **अर्गला**and the whole verse therefore contains praise of the heroes. The poet means that high birth stands before a man when he feels inclined to rush towards an evil act, and stands behind him when he thinks of retiring ignobly from the battle-field, and thus saves him from both the evils.  
 **St. 111.दीपाङ्कुरा दशान्तमुपेयिवांसः**flames of lights which have gone to the end of their wicks.  
 **St. 112.** Mark the double sense of **गुणैः**virtues and strings. The poet hints that a conqueror who seizes a country by force should make it happy by good government, as one, who forcibly takes away a young woman from her parents, tries to keep her pleased when she becomes his wife.
-
-
 
 CANTO III
 
@@ -3308,8 +2952,6 @@ CANTO III
 **St. 17.** Mark the conceit of Aśvarâja defeating Hastirâja and the double sense of **दानार्द्रहस्तेन.**  
 **St. 20.** The verse means to say, that Aśvarâja was an incarnation of Parasurâma; and that he devoted himself especially to the service of his mother as if from a feeling of repentance for the injury done by him in his previous
 
-
-
 life to his mother Reṇukâ. For the story of Paraśurâma having killed his mother by the command of his father, Jamadagni, see M. Bh. III. Ch. 116.  
 **St. 24.स्रयीव**like the three vedas.  
 **St. 25.परेषां पुरुषाणाम्**of Brahman, Vishṇu and Maheśvara.  
@@ -3321,8 +2963,6 @@ life to his mother Reṇukâ. For the story of Paraśurâma having killed his mo
 **St. 33.** **गुण** is intended to be understood in a double sense. It may be rendered thus:—with only six threads, viz., the six means or measures of policy, he made such a wonderful fabric of fame that it covered the whole earth with its seas and mountains. **धर**amountain. The six **गुण** are **संधिविग्रहयानासनसंश्रयद्वैधीभावाः**Peace, war, expedition, taking up a position against an enemy, seeking the protection of a powerful state and keeping appearances with two enemies.  
 **St. 35. अहंकरोति**is arrogant;**त्वंकरोति**treats with disrespect,**भवान्** or **युयम्**is used when one is speaking respectfully. Therefore to address a man as **त्वम्**has the sense of speaking in disrespectful terms.  
 **St. 40.** The instances in which a prosodially long vowel is treated as short are rare. The license allowed to poets in this respect is expressed in the well-known line **अपिमाषं मषं कुर्याच्छन्दोभङ्गं निवारयन्.** There is also a rule that vowels, which are prosodially long because they are followed by conjunct consonants, may be treated as short, if they are at the end of a metrical line or if the following consonants are **प्र** and **ह.** See Pingala Sûtra.**प्रहे वा.** But here the poet undoubtedly had in his mind the rule in **वृत्तरत्नाकरः —**
-
-
 
 **पादादाविह वर्णस्य संयोगः क्रमसंज्ञकः।  
 पुरःस्थितेन तेनस्याल्लघुतापि क्वचिद्रुरोः॥**
@@ -3343,8 +2983,6 @@ The conceit, however, does not seem to be happy; because, the case of **लघ�
 
 **St. 1. श्रीवीरस्य.**This is a contraction of the name **वीरधवल.** It seems to be intended also to suggest the name of **महावीर**-
 
-
-
 **स्वामी,** the Jain TÎrthankar, whom the epithet **धरोद्धारधुरीण**would suit well in the mind of a Jain.  
 **St. 4.** This verse is imperfect. It is not easy to guess what the poet meant to express. Perhaps he intended a comparison between Stambhatîrtha and Vastupâla; both of whom are alike in absolving the sins of all and giving them what they want.  
 **St. 5.** The poet considers the waves of the ocean as curls of its brows caused by jealousy: the cause of jealousy being that the minister was, like the ocean, **समुद्र**(possessing **मुद्रा**or the royal seal), and also **सश्रीक**(possessing wealth). The ocean may be called **सश्रीक**because Shrî, LakshmÎcame out from there, or because there are rich gems in its depths.  
@@ -3359,8 +2997,6 @@ Out of these Mândi is the son of Śani, Yamakantaka of Guru, Ardhaprahâra of B
 **St. 16.** This refers to the prevention of piracy for which the coast near Khambâyat was known even in later times.  
 **St. 17.** This refers probably to some order promulgated by the minister for raising walls in front of the shops where whey of curds was sold, so that customers of low castes might not by their touch pollute the pots and so make the article unfit for the use of the higher classes. This reform does not seem to be noticed in any of the Prabandhas written by the Jains.
 
-
-
 **St. 18.** The adjectives **सद्वंशः**and **सद्गुणः** are intended to apply to the minister, and also to **पटावास,** i.e. a tent. In the latter connexion they mean ‘ having a good bamboo pole’and 'having good ropes' respectively.  
 **St. 19.मुद्रितः मुद्रा संजाता अस्थेति। उन्मुद्रितः विवृतः**an apparent contrast is intended between the two words.  
 **St. 23.** The second line means that the minister conferred obligations even upon good men who had gone to heaven by repairing old works of public utility left by them and thus resuscitating their fame arising from them.  
@@ -3374,8 +3010,6 @@ Out of these Mândi is the son of Śani, Yamakantaka of Guru, Ardhaprahâra of B
 **St. 36.** **पौषधशाला** are: Jain monasteries. These are different from temples in which no one is allowed to live.  
 **St. 37.आत्मभू**an offspring as well as love. The play upon words consists in this: the author wants to give a reason for their being without**आत्मभू**i.e. love, and gives it in
 
-
-
 such a way that it explains their being without **आत्मभू**in another sense, viz., that of an offspring.  
 **St. 39.** This stanza offered some difficulty to me. I propose to translate it as follows:—"Indeed it is clear that the Creator placed him in the centre of the world. (The expression also means made him an arbitrator in this world); and consequently all the ways of the world, i.e., religious ways, fell within his bounds;" in other words, his way of living was such that it agreed with all the religions in the world.  
 **St. 40** Construe **यो जैनोपि सवेदानां करे दानाम्भः कुरुते सः भक्तिमान् नेमौ शङ्करकेशवौ नानर्च** **इति न.** He cannot be said to have not worshipped Vishṇu and Śiva in Nemi who constantly poured the water of gifts on the hands of the followers of the Vedic religion. The meaning is that while following the religion of Neminâtha or Jainism, he gathered merit according to the religion of Vishṇu and Śiva also.  
@@ -3388,8 +3022,6 @@ such a way that it explains their being without **आत्मभू**in another
 **St. 64. चन्दनाद्रे राशा**is the south; **हिमभूभृतःआशा**is the north**. शूरः** is evidently intended to suggest the idea of **सूर**or the sun whose heat begins to increase as he goes from the north to the south.  
 **St. 65.** The intended suggestion is that of the six moral foes of man such as **काम, क्रोध,**which are natural but which, when they get powerful, good men put down by the help of **योग**self-restraint.  
 **St. 68.** The kings boldly bearing the brunt of the enemy's
-
-
 
 missiles are described as giving shelter to the missileswhen thrown and so without a shelter: a strange conceit.  
 **St. 70.** This verse is not easy to understand. I can find out some meaning from it if **सवित्री**be considered as the reading instead of **सवित्रा.**This is the translation I suggest. "When this son fell into the hands of his enemies in that terrible fight, his mother was not so much wounded in her heart on that account, as she felt ashamed by the equal strength and justice shown by the enemy in his speech."  
@@ -3405,15 +3037,11 @@ CANTO V.
 **St. 7. वटकूप**—now called Vadkuwo.  
 **St. 8. निस्वाननिस्वमानस्य**has no meaning. The reading suggested in the text was subsequently found in Vastupâlcharitain which the verse is quoted.**निस्वान** adrum and **निस्वन**sound.
 
-
-
 **St. 13.** When at the beginning of hostilities the spirit of the minister rose, his armour could not hold his body. If the reading **उच्छ्वसत्याममात्यस्य** be adopted the adjective **उच्छ्वसत्याम्** may be taken with **तनौ** instead of with **संपदः.**  
 **St. 14.** When a horse digs the ground by his right forefoot, he is believed to betoken success to the undertaking of the rider.  
 **St. 15.** The minister who always carried in his hand the **(मुद्रा)** seal of king Vîradhavala now placed in his heart the image (**मुद्रा**) of that brave hero. I cannot interpret the reading of the text. I would adopt the reading of A given in the foot-note.  
 **St. 17. अग्रे शङ्खचमूचक्रम्**must be read as one word. The compounds with **पारे**and **मध्ये**have direct authority in grammar **पारेमध्ये षष्ठ्यावा** Pâṇini II., 1-18, and **मध्येप्रहरणाङ्गणम्** means in the middle of the battle-field; **पारेरत्नाकरम्**means excelling the ocean which is the mine of gems. For **अग्रेशङ्खचमूचक्रम्** the authority is not direct. See Pâņini VIII., 4. In this Sûtra the word at the end is explained to be **अग्रे** not **अग्र**hence not **अग्रशङ्ख**&c., but **अग्रेशङ्खचमूचक्रम्.** The poet it appears took a fancy to use all similar grammatical forms in one place. The sense is, this minister who was the crest-jewel of warriors, and who (in value) was beyond the ocean which is the mine of jewels, stood in the midst of the battle-field opposed to the army of Śaṅkha.  
 **St. 20.** The reading given in the text is the one found in all the three copies. I have lately come across a tradition regarding Saturn and Daśaratha which enables me to make a guess with regard to what the reading ought to be. The story is that once upon a time Daśaratha was told by an astrologer that Saturn was going to pass through the constellation of Rohiṇî. (This passing through is called the breaking of the cart of Rohiṇîby Saturn.) He was told also that this passing would cause drought in the nation over which he ruled. He therefore made up his mind to defend the cart of Rohiṇî and prevent Saturn from passing through it. So he went to heaven and
-
-
 
 commenced a war with Saturn. Pleased with his bravery Saturn promised never to enter Rohinî. Heṇce **शङ्ख**is compared with Saturn, the town with Rohiṇî and the minister with Daśaratha. I therefore read the last line thus:—**यथा दशरथे शनि**The verse can then be easily translated. “ While the minister was in the front, Śaṅkha could not enter the town as Saturn could not enter the constellation of Rohiṇìwhen Daśaratha stood up to defend it."  
 **St. 24.** On a second thought I think the reading of A is better than the one given in the text. The construction seems to be **आत्मनः अद्वैतं कर्तुंस्थितेन धीरेण तेन गोष्ठीक्षमः वादीयदि स्यात् तर्हि सः सचिवः (एव).** If any combatant at all, then this minister alone would be capable of exchanging words with that warrior who stood up to exterminate his enemies; or (leave behind no other party except his own.) The author it appears intends to suggest the idea that if any system of religion is capable of being compared with the Vedantic doctrine which stands up to prove that nothing but the soul exists, that system is Jainism. This meaning is suggested by the terms **आत्मनः अद्वैतम्** and **स्याद्वादी. स्याद्वाद** is a distinctive feature of Jainism. For the doctrine see appendix.  
@@ -3425,8 +3053,6 @@ commenced a war with Saturn. Pleased with his bravery Saturn promised never to e
 
 **विशिखैः** means, by arrows and also by those who do not wear the tuft of hair on the crown of their head; **गुणनिर्गतैः** means by those that were discharged from the bowstring; and also by those who were beyond the three Guṇas, Sattva, Rajas, and Tamas.**परस्मिन्पुरुषेलयः चक्रे**means first, destruction was caused in the opponent; and secondly, became absorbed in the Highest Being; **विकर्त्तन**must be taken to mean a weapon from its etymology **विकृत्यते अनेन इति विकर्त्तनम्.** Its other meaning, viz., the sun, is
 
-
-
 well-known. The verse may be translated as follows:— "In that holy place, viz., the battle, arrows which were discharged from the bowstring, having broken the weapons (of the enemy) caused death in the enemy." The meaning suggested is :—"Ascetics who had become free from the three qualities of goodness, sinfulness, and ignorance, and who had become Sannyâsis, making way through the sun assimilated themselves with the Highest Being."  
 **St. 30.** **सपक्ष—**a friend **समानः पक्षः यस्य** or having feathers **पक्षैः सहितः** An arrow is **सपक्ष—**or feathered. The conceit is easy to understand.  
 **St. 31.** The doable meaning of **निर्गुण, धीर,** and **हृदि अवस्थिति—**should be noticed.  
@@ -3437,8 +3063,6 @@ well-known. The verse may be translated as follows:— "In that holy place, viz.
 **St. 35. पुरुषव्रतनिर्वाहः**carrying out of the vow of a warrior.  
 **St. 44. सेनां सीमन्तयन् —**cleaving through the enemy's army,**सीमन्त**is the line on the crown of the head which separates the hair parted on either side. **सीमन्तेन युक्तं** **करोति सीमन्तायति।**The metaphor is that he killed all thewarriors opposed to him as he forced his way through theenemy's army, so that his way was shown by a blankwhich divided the army into two.  
 **St. 49. प्राणैरुच्छ्रणोभवत्—उच्छ्रवणः**seems to mean one whoseears are out, that is, one who has emerged; hence thewhole verse purports to say that the warrior who foughton the side of the minister, having his head cut off by
-
-
 
 Śaṅkha, cleared himself from the debt of his patron's kindness at the expense of his life.  
 **St. 52.उभौ शम्भू सताम् यातौ–I** cannot translate this. The text appears to be corrupt. The sense and form of letters suggests **उभौशम्भु सभाम् यातौ सविवादौजयश्रिये** as the original reading. The meaning, if the reading were admitted would be "the foot-soldier of Śaṅkha, Jayanta, and the foot-soldier of the minister, Vîrama, contending for victory went to the court of Śiva for decision."  
@@ -3453,8 +3077,6 @@ well-known. The verse may be translated as follows:— "In that holy place, viz.
 **St. 60.** Unintelligible on account of the corruptnessof the text.  
 **St. 61.** Mark the contrast between **हीर**a gem and **शङ्ख** a shell.  
 **St. 63.स्थितम्,** though separated for metre's sake from **शङ्खेन यानमपसृत्य** must be read with it in construing.
-
-
 
 **St. 66. क्षतभटामिषमार्धगृभ्राम्**Solve as follows:– **क्षतं भटामिषं यैरेतादृशाः मृधासंबन्धिनो** **गृध्रा यस्याम् सा आजिक्षितिः  
 St. 68.** **चतुरतुरली—**the word would seem to be **खुरली,** whichmeans a cavalry exercise.
@@ -3471,8 +3093,6 @@ St. 68.** **चतुरतुरली—**the word would seem to be **खु�
 
 **St. 12.** This compares and contrasts the minister with the hot season. **चतुर्दिगन्ताक्रमणोद्यतस्य इनस्य** is **दिग्विजयप्रवृत्तस्यप्रभोः** in one case, and **दिक्क्रमणप्रवृत्तस्य रवेः** in another.
 
-
-
 The point of contrast is that the hot season oppresses the people by increasing the sun's heat, while the minister does not do so, though he extends the power of his  
 master.  
 **St. 14.पुण्ड्र**—There are two varieties of sugarcane: one is harder and smaller, another softer and larger. The latter yields a more plentiful juice. The crop of this cane is taken out in the month of April, so that the poet's description of its being dry when the heat is greatest is accurate.  
@@ -3483,8 +3103,6 @@ master.
 **St. 29.सुमनःसमृद्धिं**has two senses: plenty of flowers, which suits **मधु**or spring, and prosperity of good men,' which suits the minister.**मन्त्री.**I find it difficult to translate the second line as it is. I would read it as **रोमोद्गमोद्यन्नवमञ्जरिश्रीः.**Then I would translate the line thus:—"Another seemed beautiful like a line of **माकन्द**trees; her hair, standing erect, having the beauty of fresh blossom just coming out." **रोमोद्गमेन उद्यत्याः नवमञ्जर्याः श्रीः यस्याः सा रोमोद्गमोद्यन्नवमञ्जरिश्रीः**With the present reading one may construe as follows :—**यस्या नवमञ्जरीश्रीः रोमोद्गमः सा परा**  
 **माकन्दमालेव व्यराजत्।**But the former would seem to be better.
 
-
-
 **St. 32.** Mark the contrast between **यः पुराङ्गनानां नेत्रत्रिभागेनदृष्टः सः ग्रहैः परिपूर्णया दृशा** **दृष्टः**which makes women superior to planets.  
 **St. 41.** All manuscripts read.**समग्रेपि.**It must be taken with **देहे** in the first line. The construction would be more natural if the reading were.**समग्रॊपि.**Trans: 'When the heat caused by the season began its attack in the inside of the body of living beings, all the moisture in it being terrified, ran out in the shape of perspiration.' With **समग्रे**one must translate thus :—"When heat began its attack inside, in the whole of the body, &c."  
 **St. 43.** The sound of the Persian wheel (**आरघट्ट**modern **राहाट**) is regarded as the defiant cry of the garden against summer. **यत्** stands for **वनम्,** and is nominative to **प्रतिगर्जति**. The reasons for altering the text are obvious.  
@@ -3493,8 +3111,6 @@ master.
 **St. 48.** Mark the double sense of **कुलीनाः कौ पृथिव्याम् लीनाः** and**( प्रशस्ते ) कुले भवाः.**  
 **St. 53.** The double sense of**(अर्थ)** and the apparent contrast between giving poets much **(अर्थ)** and taking from their words even the least **(अर्थ )** will not escape notice.  
 **St. 54**. **कृप्तम्**rent.
-
-
 
 CANTO VII.
 
@@ -3516,8 +3132,6 @@ CANTO VII.
 **St. 54. सौविदल्लौ**guards of the harem.  
 The suggestive words **सुवृत्त, यष्टि** and **कञ्चुक** deserve notice.
 
-
-
 **St. 55.निवेशवेदी** the raised seat or dais made for the god of love to sit upon as the chief spectator.  
 **St. 56.** The poet means that the single string of pearls worn by a young woman on her breast was as it were a line drawn with chalk by the god of love to mark the object at which he wanted to shoot, viz., the heart.  
 **St. 63.** The reader will remember that though **विसर्जनीय**or **विसर्ग**separating two vowels may have been dropped, yet the vowels cannot combine. The moon is therefore a wonderful scholar who joins lovers and their loves after the anger, which separates them, and which is **विसर्जनीय**in the sense of that which should be given up, is dropped.  
@@ -3526,8 +3140,6 @@ The suggestive words **सुवृत्त, यष्टि** and **कञ्�
 **St. 77. गम्भीरवेदी** one who does not feel a wound unless it is very deep.  
 **St. 78. आह्वान, पुरोनुवाक्या** and **याज्या** are technical sacrificial terms. **आह्वान** is as the word signifies inviting. **पुरोनुवाक्या.—**That verse or those verses are called by this name, which follow the sacrificial direction,**अनुब्रूहि,**and which contain praises of the particular deity invoked.**याज्या**is the name of that verse or those verses which are recited immediately before an oblation is thrown into fire. It is recited after the direction **यज,** and begins with **येयजामहे**and ends with the sacrificial expression **श्रौषद्** or **वौषट्.**When sacrificial knowledge was more common among the reading classes than now, this metaphor may have oc curred naturally to the writer, and may have been more familiar than now to the reader; but it is a matter of doubtful taste thus to mix up holy and profane ideas.  
 **St. 83.** The grandeur of this verse will not escape the notice of the reader of taste. The herald, morning time, is described
-
-
 
 as drawing off the cover of darkness from the face of the sky, congratulating it upon the rising of the sun by the blithe voices of birds in the following words:—"Here comes the lord of all brilliance, who is the eye of the three worlds, who brings bloom to the beautiful lotuses, and who delivers the whole world from the ocean o insensibility."
 
@@ -3544,8 +3156,6 @@ as drawing off the cover of darkness from the face of the sky, congratulating it
 **St. 22. निर्वृत्तः** has the meaning of finished or completed. **सद्वृत्तेनेवनिर्वृत्तः**may be translated here by one who has as it were attained perfection by his good conduct.'  
 **St. 24. इति**as described in the sequel. **दत्त्वा,**&c., and**नत्वा,** &c. are intended to support.**सत्त्वाश्रितेन.**Sometimes men take an unfavourable view of the enjoyments of this life in consequence of natural malevolence or of failure in life.
 
-
-
 This **वैराग्य** would be **तामस** or **राजस;** that of this minister, who had done well all that is worth doing in this life, is described as **सात्विक.**  
 **St. 31. निकारपूर्वं धनं प्रदत्ते.**Gives money contemptuously. In order to establish the likeness between a bad donor and **पेतनाथ,**the god of death, the expression must be understood once as **निवर्णपूर्वम् धनम्** or **निधनम्** (death)**प्रदत्ते.**  
 **St. 33.** The text of this verse appears to be corrupt. When one bears in mind that the original MS. of the poem was probably in **पृष्ठमात्र** writing, one will see how easily **दुष्कृतिः**may be changed into **दुष्कृतिः**I would therefore read the last word as **दुष्कृतैः.**  
@@ -3558,8 +3168,6 @@ This **वैराग्य** would be **तामस** or **राजस;** th
 **St. 58. निबद्धमौनमुद्रैः** applies in the same sense to ascetics and clouds. **विषयेषु** **गलितरसैः** means **भोग्येषु नष्टरतिभिः** when it qualifies **मुनिभिः ;** and **देशेषु वृष्टोदकैः** when it qualifies **वारिवाहैः; विमलात्मभिः** means **शुद्धान्तःकरणैः**and **शुभ्ररूपैः.**  
 **St. 68.** The reading given in the text cannot be explained satisfactorily. I have proposed an alteration in the foot-note. If it is adopted, the meaning will be that the sun, whose heat was not spent when the sky was filled with clouds, as it were now poured out profusely the accumulated quantity.  
 **St. 70.** The idea in this verse is that Vishṇu who sleeps during the rainy season was aroused by the gabbling of the
-
-
 
 geese, who, when the autumn commenced, became anxious to get to lakes of fresh lotuses; and when he rose, Indra, the god of rains, delivered over to him the charge of the world and put back his bow, viz., the rainbow.  
 **St. 71.** The last two lines may be translated thus :—" The moon, the looking-glass of nature, being as it were polished by ashes, consisting of the dark clouds that brushed over its face, shone forth, proclaiming his first rank among bright things."
@@ -3575,8 +3183,6 @@ CANTO IX.
 **St. 29.नाभि**was the name of the father of Âdinâtha.  
 **St. 31.** **अयुग्मनेत्राचलशृङ्गचारु—अयुग्मनेत्नाचल** is **त्रिनेत्नाचल** or **शिवाचल,** i.e., the Himâlaya where Śiva dwells. The peak is Kailâsa.
 
-
-
 **St. 32. तत्** i.e., **प्रासाद.**  
 **St. 35. वृषस्थम् वृषे पुण्ये कर्मणि तिष्ठतीति वृषस्थः तम्.** It is alsopossible that the poet may regard the minister as identicalwith
 **वृषस्थ**or**शिव.** Either meaning is equally applicable.  
@@ -3588,8 +3194,6 @@ CANTO IX.
 **St. 62.** **वृष**bullocks and meritorious acts.  
 **St. 63.** There is no difficulty in the interpretation of this stanza.The main bearing of it is clear. I believe, however, it contains a suggestion which is rather deep. It turns on themeanings of **मान**and **सार.** The former means measure;the latter strength; **संसार**is in this connexion intended to be understood as **समानः सारो यस्य सः संसार.** The wholesuggestion, when brought out, would seem to be this. It isno wonder that he left below him men of his own *dimensions* when he ascended to the top of the mountain. Whatis wonderful is that he began to surpass even those whose
 
-
-
 *strength* was equal. By going up higher, a man stands higher than his equals, but his strength does not increase. Yet this was the case when the minister climbed the Raivataka mountain.  
 **St. 66. विततामपूज्यम्** unless the reading suggested in the footnote is adopted, I cannot translate this verse.  
 **St. 69. असक्तम्** would seem to require some modifying word, such as **अन्यत्र** or **विषयेषु.**  
@@ -3600,17 +3204,8 @@ would have been much better. It would have clearly explained why the body of Śi
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
-
-
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 **BOMBAY: PRINTED AT THE EDUCATION SOCIETY'S PRESS, BYCULLA.**
-
-
 
 INDEX OF NAMES OF PERSONS & PLACES  
 OCCURRING IN THE TEXT.
@@ -3640,8 +3235,6 @@ Bhidya **IV. 58,** the name of a small river, mentioned in Raghuvanśa XI. 8, an
 Bhîma **I., II. 15,** a king of Aṇahillavâḍa Paṭṭana.  
 Bhîma **II., II. 59, 60,** ditto.  
 Bhoja **I. 21, II. 16, 18,** the famous king of Dhârâ, who liberally patronised literature. Bhojaprabandha, a work, which scarcely possesses any historical value, crowds all great Sanskrit poets into his court. The name has passed into a sort of honorific title of the kings of Dhârâ.
-
-
 
 Bhṛigukachchha IV. 53, Bharukachha, Bharucha, Broach.  
 Bhuvanapâla V. 16, 43**,** a warrior, who fought on the side of Vastupâla in the battle with Śankha and died. Vastupâla built a temple in honour of his memory, and called it Bhuṇapâlavasahikâ.  
@@ -3675,8 +3268,6 @@ Hârîta IV. 28, the author of a Smṛiti.
 Hemasûri I. 18, the celebrated Hemâchârya, who converted Kumârapâla to Jainism, and who made important and large additions to Jaina literature.  
 Himâlaya I. 61, IV. 64.  
 Jagaddeva II. 99, an adventurous Paramâra prince of Dhârâ, who, prior
-
-
 
 to his accession to the throne served Siddharâja, Chauda of
 Aṇahillavâḍa Paṭṭaṇa. See Rasmala, p. 90 to p. 118. Edition of 1878.
@@ -3716,8 +3307,6 @@ Mâlava II. 10, 30, Mâlvâ.
 Mânasa I. 78, the great lake in Thibet.  
 Mithilâ I. 58, the capital of the Videhâs. It is identified with modern Tirhoot.
 
-
-
 Mlechchha II. 58, barbarous tribes. Here it is used for Mahomedans.  
 Munja I. 21, a king of Dhârâ, the uncle of the great Bhoja.  
 Munjîlasuta II. 97, written as Munjâlasuta, also.. Some able
@@ -3747,8 +3336,6 @@ Singhana IV. 43, 59, 71, 90, the name of a king of Mahârâshtra, whose invasion
 Sîta III. 16, the name of the mother of Aśvarâja, Vastupâla's father.  
 Soma III. 12, 13, 15, and V, 68, the father Aśvarâja.  
 Somasinha V. 53, the name of a soldier.
-
-
 
 Someśvara I. 46, II. 85, the author of this poem.  
 Somanâtha IX. 71, the celebrated shrine in Kathiavâd.  
@@ -3781,11 +3368,7 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ***APPENDIX A.***
-
-
 
 \।\।९०\।\। वन्दे सरस्वतीं देवीं याति या कविमानसम्।  
 नीयमाना निजं \*व ध ( वेश्म) यान (मा) नसवासिना॥१॥  
@@ -3811,8 +3394,6 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
    \* The words in brackets are proposed. The letters written at greaterthan ordinary intervals are those which appear doubtful in theinscription.
-
-
 
 एतस्मादजनि जिनाधिनाथभक्तिं  
 बिभ्राणः स्वमनसि शश्वदश्वराजः।  
@@ -3848,8 +3429,6 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 तेजःपालस्य विष्णोश्च कः स्वरूपं निरूपयेत्।  
 स्थितं जगत्रयीसूत्रं यदीयोदरकन्दरे॥१६॥
 
-
-
 जाल्हूमाऊसाऊधनदेवीसोहगावयजुकाख्याः।  
 पदमलदेवीचैषां क्रमादिमाः सप्त सोदर्याः॥१७॥
 
@@ -3882,8 +3461,6 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 स्वर्गापगाजलवलक्षितशङ्खशुभ्रा  
 बभ्राम यस्य लवणाब्धिमतीत्य कीर्तिः॥२६॥
 
-
-
 सुतस्तस्मादासीद्दशरथककुत्स्थप्रतिकृतिः  
 प्रतिक्ष्मापालानां कवलितबलो वीरधवलः।  
 यशःपूरे यस्य प्रसरति रतिक्लान्तमनसा-  
@@ -3914,8 +3491,6 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 
 श्रीधूमराजः प्रथमं बभूव भूवासवस्तत्र नरेन्द्रवंशे।  
 भूमीभृतो यः कृतवानभिज्ञान्पक्षद्वयोच्छेदनवेदनासु॥३३॥
-
-
 
 धन्धुकध्रुवभटादयस्ततस्ते रिपुद्वयघटाजितोभवन्।  
 यत्कुलेजनि पुमान्मनोरमो रामदेव इति कामदेवजित्॥३४॥
@@ -3949,8 +3524,6 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 येनोर्वीतलमुज्ज्वलं रचयताप्युत्ताम्यतामीर्ष्यया  
 सर्वेषामिह विद्विषां न हि मुखान्मालिन्यमुन्मूलितम्॥४१॥
 
-
-
 वसुदेवस्येव सुतः श्रीकृष्णः कृष्णराजदेवोस्य।  
 मात्राधिकप्रतापो यशोदयासंश्रितो जयति॥४२॥
 
@@ -3982,8 +3555,6 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 स्तेजःपाल इति स्थितिं बलिकृतामुर्वीस्थले पालयन्।  
 आत्मीयं बहु मन्यते न हि गुणग्रामं च कामन्दकि-  
 श्चाणक्योपि चमत्करोति न हृदि प्रेक्षास्पदं प्रेक्ष्य यम्॥४९॥
-
-
 
 इतश्च महं श्रीतेजःपालस्य पत्न्याश्चानुपमदेव्याः पितृवंशवर्णनम्।
 
@@ -4017,8 +3588,6 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 गुणधननिधानकलशः प्रकटोयमवेष्टितश्चखलसर्पैः।  
 उपचयमयते सततं सुजनैरुपजीव्यमानोपि॥५७॥
 
-
-
 मल्लदेवसचिवस्य नन्दनः पूर्णसिंह इति लीलुकासुतः।  
 तस्य नन्दति सुतोयमह्लणादेविभूः सुकृतवेशम पेथडः॥५८॥
 
@@ -4047,8 +3616,6 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 तन्मूर्तीर्विमलाश्मखत्तकयुता कान्तासमेता दश।  
 चौलुक्यक्षितिपालवीरधवलस्याद्वैतबन्धुः सुधी-  
 स्तेजःपाल इति व्यधापयदयं श्रीवस्तुपालानुजः॥६४॥
-
-
 
 तेजःपालः सकलप्रजोपजीव्यस्य वस्तुपालस्य।  
 सविधे विभाति सफलः सरोवरस्येव सहकारः॥६५॥
@@ -4079,8 +3646,6 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 गुरोस्तस्याशिषां पात्रं सूरिरभ्युदयप्रभुः।  
 मौक्तिकानीव सूक्तानि भान्ति यत्प्रतिभाम्बुधैः॥७१॥
 
-
-
 एतद्धर्मस्थानं धर्मस्थानस्य चास्य यः कर्त्ता।  
 तावद्दूयमिदमुदियादुदयत्ययमर्बुदो यावत्॥७२॥
 
@@ -4095,12 +3660,8 @@ Yaśovirâ I., 26, 27, a brother of Vastupâla.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 TRANSLATION.  
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
- 
 
 **(1)** I make a bow to *Sarasvatî,* the goddess of learning, who resorts.to the poet's mind (*Mânasa*), as if carried to its own abode by theinhabitant of the *Mânasa* lake (flamingo) whom she rides.
 
@@ -4139,8 +3700,6 @@ TRANSLATION.
 ** (9)** The minister *Lûṇiga*, whose refined intellect looked down even upon that of *Bṛihaspati,* was from the beginning counted among accomplished men by good judges.  
 ** (10)** His son was the excellent minister *Malladeva,* who was attached to the god *Mallideva* (one of the *Jinas*). The mind of thisminister who, by a perfect control over his passions acquired the highest knowledge, was never set on the wealth or wives of others.
 
-
-
  **(11)** Indeed the creator did not create any one who could rival*Malladeva* in the practice of piety, in supplying people's wants, and inthe re-establishment of disturbed peace.  
 ** (12)** *Malladeva's* fame, which liberated rays of the moon fromflakes of dark-blue clouds, throttled the white lustre of the tusks ofpowerful elephants.  
  **(13)** Illustriously lives the happy younger brother of this *Malladeva* who had subdued his passions, *Vastupâla* by name, who by theambrosia of his words produces a wonderful shower of pleasure; and whoeffaces from the foreheads of learned men the lines of misery writtenby destiny.  
@@ -4153,8 +3712,6 @@ TRANSLATION.
  (20) Remembering the commandment recorded in law that oneshould not venture on a journey alone, these two brothers set out together on the path of righteousness, which is infested by thieves in theform of irresistible temptations,  
  (21) May prosperity ever attend these two brothers, who looked glorious with their arms long as the yoke of a chariot, and who, beingsinless, brought back to the earth the first (*kṛit* or golden) age evenduring this fourth (*kali* or iron) age.
 
-
-
  (22) May these two brothers long enjoy health of body—thesebrothers, whose fame (bright white) spreading over the earth's entireglobe makes it look as if it were made of pearl.  
  (23) Though sprung from the same source, these two were like twoarms of the same man, yet both of them were right, and neither was the[contrary](http://*%20दक्षिण,%20वाष,%20and%20सोदर%20are%20used%20in%20a%20double%20sense. "* दक्षिण, वाष, and सोदर are used in a double sense.")(left).  
 (24) These two brothers, marking the earth in all directions withplaces of charitable endowments, put their heel with force on the neckof the iron-age.  
@@ -4165,8 +3722,6 @@ TRANSLATION.
  (29) It seems that this [king](http://The%20word%20here%20used%20for%20%20king%20%20is%20a%20name%20of%20god%20Vishnu%20also. "The word here used for  king  is a name of god Vishnu also.") (*Vîradhavala*), with only two hands,easily embraced *Lakshmî* with those two ministers at hand. (The poet's meaning seems to be that *Vîradhavala* did with two hands only what Vishṇu does with four, the two ministers who were by his side serving as two hands in addition to his own).  
  Besides,  
  (30) There is this mountain *Arbuda,* the son of the mountain*Himâlaya,* the father-in-law of *Śîva,* who stands at the head of the whole
-
-
 
 class of mountains, and who, bearing on his head the river*Mandâkinî,*mimics *Śiva,* whose brother-in-law he is.
 
@@ -4186,11 +3741,7 @@ class of mountains, and who, bearing on his head the river*Mandâkinî,*mimics *
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 \* The words used to denote kings and wings of armies are such that they may mean mountains and wings as well. Thus the description of the king applies to Indra also.
-
-
 
 ** (38)** His younger brother *Prahlâdana,* whose valour remained unsullied on the field of battle against *Sâmantasiṁha,* and whose swordwas ever prompt in defending the king of *Gujerat,* exhibited once more exploits such as those which were performed by the enemy of the greatest of demons (probably *Râvana*).
 
@@ -4217,8 +3768,6 @@ class of mountains, and who, bearing on his head the river*Mandâkinî,*mimics *
   \* The double sense of *Yaśodalyâ* *Saṅsrita* is easy to understand.  
   † ''God of Love' and 'desire' are expressed in the original by the same word,काम.
 
-
-
  **(47)** May the glorious minister *Tejahpâla* live for ever, by meansof whom all people rejoice, being freed from all cares as if by means of the wish-giving gem.
 
  **(48)** Indeed the God *Brahman* was practising (trying his apprentice hand) in order to create ultimately this minister, when he created beforehand wise politicians such as *Châṇakya,* *Bṛihaspati, Marut (!)Vyadhi-(?) Súkra* and others; otherwise, how did this *Tejahpâla*become better than all of them ?
@@ -4243,8 +3792,6 @@ class of mountains, and who, bearing on his head the river*Mandâkinî,*mimics *
 
  \* गुणि and हृद्यवस्थिति are used in a double sense.
 
-
-
  **(56)** How many are there who do not praise the excellences of thisblessed man, *Lûṇasiṁha,* the son of *Tejahpâla,* which (excellences),though bound hard by the ropes of wealth, made mischief—fame—allabout the three worlds. (The meaning is that a man not in need ofwealth does not go about to show off his excellences, yet those of thisman were known throughout the world).
 
  **(57)** (A vessel containing treasure, hidden under ground is guarded by snakes, and is such that it decreases when men live upon itscontents; but) This minister is a vessel containing a treasure of virtueswhich is open to the sight. This treasure is not attended by snakes inthe form of wicked companions. It is a treasure which increases thoughgood men live by it.
@@ -4267,11 +3814,7 @@ class of mountains, and who, bearing on his head the river*Mandâkinî,*mimics *
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 \* **विमलाश्मखत्तकयुताः** I do not understand the meaning of खत्तक. It may bean adaptation of **खत्तक.** If so, the adjective may mean with thrones of whitemarble.
-
-
 
  **(66)** The series of charitable constructions, such as wells with steps,drawing wells, ponds, gardens, tanks, temples, places for the distributionof corn and food to the needy, newly constructed, or repaired by these twobrothers at every city, by every road, and on every mountain are sonumerous that even their number cannot be ascertained. If anybodycan, the earth may know them all.
 
@@ -4295,8 +3838,6 @@ class of mountains, and who, bearing on his head the river*Mandâkinî,*mimics *
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 APPENDIX B.  
 
 \_\_\_\_\_\_\_\_\_\_\_\_
@@ -4313,8 +3854,6 @@ Copy of an inscription on a tablet fixed in a wall in the right side of the Peri
 
  ५ वित्रपुत्रमहं० श्रीलुणसिंहस्य च पुण्ययशोभिवृद्धये श्रीमदर्बुदाचलोपरि देउलवाडाग्रमे समस्तदेवकुलिकालंकृतं विशालहस्तिशालोपशोभितं श्रीलुणसिंहवसहिकाभिधानश्रीनेमिनाथदेव चैत्यमिदं कारितम्॥ छ.
 
-
-
  ६ प्रतिष्टितं श्रीनागेन्द्रगच्छे श्रीमहेन्द्रसूरिसंताने श्रीशान्तिसूरिशिष्य श्रीआनन्दसूरि श्रीअमरचन्द्रसूरिपट्टालंकरणप्रभु श्रीहरिभद्रसूरिशिष्यैः श्रीविजयसेनसूरिभिः॥छ॥अत्र च धर्मस्थाने कृतश्रावकगोष्ठिकानां नामा
 
  ७ नि यथा\।\। महं० श्रीमल्लदेवमहं० श्रीवस्तुपालमहं० श्रीतेजःपालप्रभृतिभ्रातृत्त्रय- संतानपरंपरया तथामहं० श्रीलूणसिंहसक्कमातृकुलपक्षे श्रीचन्द्रावतीवास्तव्यप्राग्वाटज्ञातीयउ० श्रीसावदेवसुतठ० श्रीशालिगतनुजठ०
@@ -4326,8 +3865,6 @@ Copy of an inscription on a tablet fixed in a wall in the right side of the Peri
 १० श्रीचन्द्रावत्याः सक्कसमस्तमहाजनसकलजिनचैत्यगोष्टि- कप्रभृति श्रावकसमुदायः॥ तथा उंवरणीकी सरउलीग्रामीयप्राग्वाट- ज्ञा० श्रे० रासल उ० आसधर तथा ज्ञा० माणिभद्र उ० श्रे० आल्हण तथा० ज्ञा० श्रे० देल्हण उ० खीम्बसी-
 
  ११ हधर्क्कटज्ञातीयश्रे०नेहा उ० साल्हा तथा ज्ञा० धउलिग उ० आसचंद्र तथा ज्ञा श्रे० वहुदेव उ० सोम प्राग्वाट ज्ञा० श्रे० सावडउ० श्रीपाल तथा ज्ञा० श्रे० जीन्दा उ० पाल्हण धर्क्कट ज्ञा० श्रे० पासु उ० सादा प्राग्वाटज्ञातीयपूना उ० सा-
-
-
 
 १२ ल्हा तथा श्रीमालज्ञा० पूना उ० साल्हाप्रभृतिगोष्ठिकाः॥ अमीभिः श्रीनेमिनाथदेवप्रतिष्ठावर्षग्रन्थियात्राष्टाहिकायां देवकीय- चैत्रवादे ३ तृतीयादिने स्नपनपूजाद्युत्सवः कार्यः॥ तथा कासन्हदग्रामीय ऊएसवालज्ञा-
 
@@ -4341,8 +3878,6 @@ Copy of an inscription on a tablet fixed in a wall in the right side of the Peri
 
  १७ जण उ० पासवीर तथा ज्ञा० श्रे० वोहडिउ० पुना तथा ज्ञा० श्रे० जसडय उ० जेगण तथा ज्ञातीय श्रे० साजण उ० भोला तथा ज्ञा० पासिल उ० पूनुय तथा ज्ञा० श्रे० राजुय० ऊ सावदेव तथा ज्ञा० दूगसरण उ० साहणीय र्ऊइसवाल.
 
-
-
  १८ ज्ञा० श्रे० सलखणऊँ महं० जोगा तथा ज्ञा० श्री देवकुंयारउ० प्रभृतिगोष्टिकाः॥ अमीभिस्तथा ६ षष्टीदिने श्रीनेमिनाथदेवस्य चतुर्थाष्टाहिकामहोत्सवः कार्यः॥ तथा मुण्डस्थलमहातीर्थवास्तव्यप्राग्वाटज्ञातीय
 
  १९ श्रेष्ठ संधीरण उ० गुणचन्द्रपाल्हा तथा श्रे० सोहिय उ०आस्वेसर तथा श्रे० जेजा उ० खांखण तथा फीलिणिग्रामवास्तव्य श्रीमाल ज्ञा० वापलगाजणप्रमुखगोष्ठिकाः। अमीभिस्तथा ७ सप्तमीदिने श्रीनेमिनाथदेवस्य पञ्चमाष्टाहिकाम
@@ -4355,8 +3890,6 @@ Copy of an inscription on a tablet fixed in a wall in the right side of the Peri
 
  २३ देल्हण उ० आल्हा तथा ज्ञा० श्रे० वाला उ० पद्मसीहतथा ज्ञा० श्रे० आंवुय उ० वोहडि तथा ज्ञा० श्रे० वोसरि उ० पून देव तथा ज्ञा० श्रे० वीरुय उ० साजण तथा ज्ञा० श्रे० पाहुय उ०जिणदेवप्रभृतिगोष्ठिकाः। अमीभिस्तथा ९ नवमीदिने
 
-
-
 २४ श्रीनेमिनाथदेवस्य सप्तमाष्टाहिकामहोत्सवःकार्यः॥ तयासाहिलवाडावास्तव्यऊइसवालज्ञातीयभेदेल्हण उ० आल्हणश्रे०नागदेव उ●आस्वदेव श्रे• काल्हण उ• आसल श्रे• वोहिम उ•लाखण श्रे• जसदेव उ• वहडा श्रे●
 
  २५ सीलण उ० देल्हण श्रे• वहुदा श्रे० महधरा उ• धनपालश्रे० पूनिग उ० वाघा श्रे० गोसल उ• वहडाप्रभृतिगोष्टिकाः। अमीभिस्तथा दशमीदिने श्रीनेमिनाथदेवस्य अष्टमाष्टाहिकामहोत्सवःकार्यः॥ तथा श्रीअर्बुदोपरिदेउलवा
@@ -4366,8 +3899,6 @@ Copy of an inscription on a tablet fixed in a wall in the right side of the Peri
  २८ तरछग्राम सिहरग्राम सालग्राम हेठउजीग्राम आखीग्रामश्रीधान्धलेश्वरदेवीय कोटडी प्रभृति द्वादश ग्रामेषु संतिष्ठमानस्थानपति तपोधन गूगुलि ब्राह्मण राठिय प्रभृति समस्तलोकैस्तथाभालिभाडाप्रभृति ग्रामेषु संतिष्ठमानश्रीप्रतीहा
 
 २९ रवंशीय सर्वराजपुत्रैश्च आत्मीयात्मीयस्वेच्छया श्रीनेमिनाथदेवस्य मण्डपे समुपविश्योपविश्य महं० श्रीतेजःपालपार्श्वात्स्वीयस्वीय प्रमोदपूर्वकं श्रीलुणसीहवसहिकाभिधानस्यास्य धर्मस्थानस्थसर्वोपि रक्षापभारः स्वीकृतः। तदेतदा
-
-
 
 ३० त्मीयवचनं प्रमाणीकुर्वद्भिरेतेः सर्वैरपि तथा एतदीयसंतानपरंपरया च धर्मस्थानमिदमाचन्द्रार्कं यावत्परिरक्षणीयम्॥ यतः।किमिह कपालकमण्डलुवल्कलसितरक्तपटजटापटलैः। व्रतमिदमुज्ज्वलमुन्नतमनसां प्रतिपन्ननिर्वहणम्॥
 
@@ -4379,8 +3910,6 @@ Copy of an inscription on a tablet fixed in a wall in the right side of the Peri
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Note.— Lines 32 and 33 which are partly unintelligible are not so carefully inscribed as the rest of the inscription. The letters arebadly shaped, and there occur in these lines five instances inwhich the single mâtrâ is written on the top of the letter towhich it belongs.
-
-
 
 **APPENDIX C.**  
 \_\_\_\_\_\_\_\_\_\_\_\_
@@ -4403,15 +3932,11 @@ An extract containing a brief statement of the doctrine ofSyâdvâda.
                                
 -स्यादस्ति च नास्ति चावक्तव्यं च।
 
-
-
  (1). Everything is, when viewed with reference to its own material,time, place, and qualities.  
  (2). Everything is non-existent when viewed with reference tomaterial, time, place, and qualities not its own, but those of others.  
  (3). Everything is, and is non-existent, when viewed alternately in the above two relations.  
 (4). Everything is beyond the sphere of speech when viewed inboth the relations at the same time.  
 (5), (6), & (7). Seem to be arrived at by combining the first threeviews, each at a time with the last.
-
-
 
 ERRATA  
 
@@ -4446,8 +3971,6 @@ ERRATA
 | 1. 6.   |  " शिलिन्ध्रै^(०)                                  |  " शिलीन्ध्रै^(०)   |
 | 1\. 14.  |  " नान्तः करणं                                     |  " नान्तःकरणं.      |
 
-
-
 **NOTES**
 
 |         |                                                                                                                                                                                                                      |
@@ -4469,201 +3992,238 @@ ERRATA
 | 1\. 14. | After 'sides' supply a comma.                                                                                                                                                                                        |
 | 1\. 19. |  ”  'as' read 'a.'                                                                                                                                                                                             |
 
-
-
-
 \]
 
+[^194]: "स्वयशांसिगदि°. B; स्वयशांसिबन्दि°C, A."
 
+[^193]: "°मङ्गनाप्रण°B, A."
 
+[^250]: "°मिवशतशो° B, A; दृप्ति° C."
 
+[^192]: "व्यावृत्तमान° C."
 
+[^191]: "मन्यशक्तःB, A; मभ्यशक्तःC."
 
+[^187]: "नित्ये B."
 
+[^184]: "°नून° C. "
 
+[^248]: "द्रुमाप्र B, A."
 
+[^180]: "°मनोहराणि A."
 
+[^179]: "विनाधि° B, C, A."
 
+[^177]: "गीतोत्कतो° B, A, C."
 
+[^176]: "जगतांरु° B, A, C"
 
+[^173]: "°दारुन्म॰ B, A, C. राजहंसाः"
 
+[^172]: "जुष्टा B, C, A,"
 
+[^171]: "°चित्तदीB; चिन्नदी A."
 
+[^169]: "रुपवयमाणं C, A; रूपवयप्रमाणं B."
 
+[^166]: "प्रसाद B, A, C."
 
+[^246]: "महापताकाःB, C, A."
 
+[^163]: "तस्या A."
 
+[^162]: "स्त्रात्रं B, A, C."
 
+[^161]: "नभस्य° B."
 
+[^242]: "समुतवृत्तै° B, C, A ."
 
+[^156]: "°रिणी A, B, C."
 
+[^241]: "विसंस्थुलो  C."
 
+[^240]: "सोयंसमेतः B ; सोयंसमेत A, C."
 
+[^152]: "°हं प्रथिमा°B, A, C."
 
+[^151]: "°भासप्र°B, A, C."
 
+[^149]: "व्यधितव्ययो न ?"
 
+[^148]: "समुद्धृता C."
 
+[^146]: "विदलित॰ ."
 
+[^145]: " °परिसरस्व° B."
 
+[^238]: "व्युदस्य ये."
 
+[^237]: "कमकरोयंत B, A, C."
 
+[^236]: "शौनिके॰B, A."
 
+[^235]: " दुरं B, A."
 
+[^233]: "गर्वA.."
 
+[^129]: "त्रासयस्तिमिरोत्कराम् B, A, C."
 
+[^128]: " °रवतमंस॰ B."
 
+[^126]: "विवृत्ति C."
 
+[^123]: "न्यासाकृता B, C, A."
 
+[^121]: " विछया A ; विछाया° B, C."
 
+[^119]: "  वाक्याद्दो° B."
 
+[^118]: "विभ्रमाङ्गो B, A, C."
 
+[^117]: "उद्दु° C,"
 
+[^229]: " विद्रुमाभिःB, A, C."
 
+[^114]: "मतुप्रवृत्ता B; मंतुप्रवृत्ता A,"
 
+[^113]: "मानर्गलां B, A, C."
 
+[^112]: "कार्मुकै° B, A, C."
 
+[^111]: "विद्धा° A."
 
+[^108]: "भङ्गि. C."
 
+[^225]: "°रम्बुजाक्षःA."
 
+[^107]: "धृतहारयष्टिसा° B."
 
+[^105]: "याशिवेनापि C."
 
+[^102]: "श्रिता B, A, C."
 
+[^100]: "सुधासवं B; सुधारसः A, C."
 
+[^224]: "सृष्टिवि° A, B, C."
 
+[^94]: "प्रम्लिता संघा. A, B, C."
 
+[^221]: "जगञ्चक्षुषां स०B, C."
 
+[^83]: "मही A, B."
 
+[^218]: "°ममत्यशम्भुः B, A, C"
 
+[^77]: " सुलोचनानी B, A, C."
 
+[^74]: "द्वितयाजनापि B, C, A. "
 
+[^73]: "अम्भोजनीभे; B अम्भोजनिश A."
 
+[^72]: "तदवेक्षणेन A."
 
+[^217]: "सरस्य C."
 
+[^216]: "सशोषि॰B, A."
 
+[^69]: "प्रसरं C."
 
+[^68]: "॰रिषूविद्र° B, C, A,"
 
+[^212]: "द्वेरे B, A, C."
 
+[^64]: "॰जानतौप॰C"
 
+[^62]: "॰प्रमदोपूतैः B."
 
+[^210]: "संग्रामसिंहस° B, A, C."
 
+[^60]: "°राशा B, A, C. "
 
+[^209]: "वार C; ॰र्वर्षमी° A, B, C. "
 
+[^59]: "तलक्षेपद्वैवशङ्खेनदृढमाहतः A,B,C."
 
+[^55]: " केतुमसुभिः A, B, C."
 
+[^208]: "खङ्गयातैस्तैः B."
 
+[^52]: "खद्विनः खदिभिःA."
 
+[^207]: "क्षोभयाभूत्र A."
 
+[^206]: "सन्मुखे A, B, C."
 
+[^50]: "सौर्योद्भेदंA, B."
 
+[^48]: "नृपमुद्राय A, B."
 
+[^47]: "संनिद्ध A, B ; भिन्नशङ्ख इवाद्विपः B, C; भिन्नशङ्ख, इवाद्विपाः A."
 
+[^204]: " हयोवस्त्रैः A ; हयोदस्नैःB, C."
 
+[^46]: "भातिस्सभिषणा A ; ॰स्सभीषणा B, C."
 
+[^203]: " कोप्यस्ति C."
 
+[^42]: " सत्त्वे B, A."
 
+[^41]: "०मल्पार्थि०A, C."
 
+[^40]: "अयि B."
 
+[^35]: "परीतौःB, A."
 
+[^202]: "प्रचरी B, A."
 
+[^34]: "गच्छत् B, A; कवीव B. "
 
+[^33]: "°निवेशिभूःB, A."
 
+[^31]: "°विरूथिनी C. "
 
+[^201]: "वीरवर्गम् B."
 
+[^26]: "भवार्णवरी A."
 
+[^25]: "वापिरपापीकि° A, C."
 
+[^23]: "°दनल्पानि C."
 
+[^200]: "प्रसादाःB."
 
+[^21]: "वर्तमानानां C."
 
+[^20]: "° स्मारव° B."
 
+[^198]: "ताम्यताश्रB."
 
+[^17]: "न्यायंति B; °शयन्मु° B, A."
 
+[^197]: "कर्लोA, B, C."
 
+[^196]: "दैव C."
 
+[^15]: "मुद्रता B, A, C."
 
+[^14]: "°शालिनि C."
 
+[^13]: " दाहता A, B, C."
 
+[^12]: "°नाहतः B, A, C."
 
+[^11]: "°प्यति B."
 
+[^10]: "°मुपायमण्डिती B.D"
 
+[^9]: "तत्पुरुष°B, A."
 
+[^8]: "चाणिक्य B, A, C."
 
+[^4]: " वाहमाने A, चापमाने° B, C. C marginally notes वाहमानेन्द्रभर्दना."
 
+[^3]: "He is mentioned in Kîrtikaumudî. See page St. 235."
 
+[^2]: "Page 16, St. 84."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^1]: "Page 5, Sts. 45 to 48."

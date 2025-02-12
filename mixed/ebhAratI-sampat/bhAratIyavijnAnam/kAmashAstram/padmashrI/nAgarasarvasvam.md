@@ -18,31 +18,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 # 
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **भूमिका**
 
@@ -68,8 +50,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
           भाद्रशुक्ला पञ्चमी  
              सं० १९८५                  
   प्रकाशक ।
-
-
 
 **॥ श्रीः ॥**
 
@@ -181,13 +161,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 प्रथमः परिच्छेदः।
 
-
-
-
-
 ![](../../../books_images/U-IMG-169781887420104.png)
-
-
 
 **द्वितीय परिच्छेद**
 
@@ -309,11 +283,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 इति तृतीयः परिच्छेदः ।
 
-
-
 ![](../../../books_images/U-IMG-169788057620212.png)
-
-
 
 **चतुर्थ परिच्छेद**
 
@@ -641,11 +611,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 इति षष्ठ परिच्छेद।
 
-
-
 ![](../../../books_images/U-IMG-169799500822103.png)
-
-
 
 **सप्तम परिच्छेद**  
 \_\_\_\_\_\_\_
@@ -689,15 +655,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 इति सप्तम परिच्छेद।
 
-
-
-
-
-
-
 ![](../../../books_images/U-IMG-169799776822104.png)
-
-
 
 **अष्टम परिच्छेद**
 
@@ -771,8 +729,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 इति नवम परिच्छेद।
 
-
-
 **दशम परिच्छेद**
 
 ![](../../../books_images/U-IMG-169800270622107.png)
@@ -788,11 +744,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 इति दशम परिच्छेद।
 
-
-
 ![](../../../books_images/U-IMG-17010663621234.png)
-
-
 
 **एकादश परिच्छेद**
 
@@ -820,15 +772,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 इति एकादश परिच्छेद।
 
-
-
-
-
-
-
 ![](../../../books_images/U-IMG-169800341022109.png)
-
-
 
 **द्वादश परिच्छेद**
 
@@ -1278,10 +1222,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 इति त्रयोदश परिच्छेद।
 
-
-
-
-
 ![](../../../books_images/U-IMG-1698127045241.png)
 
 **चतुर्दश परिच्छेद**
@@ -1429,8 +1369,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 इति चतुर्दश परिच्छेद।
 
-
-
 **पञ्चदश परिच्छेद**
 
 **![](../../../books_images/U-IMG-1698141518243.png)**
@@ -1532,8 +1470,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 इति पञ्चदश परिच्छेद।
 
 ![](../../../books_images/U-IMG-169788505920214.png)
-
-
 
 **षोडश परिच्छेद**
 
@@ -1654,8 +1590,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 ![](../../../books_images/U-IMG-1697646686Capture.JPG)
 
-
-
 **सप्तदश परिच्छेद**
 
 **![](../../../books_images/U-IMG-1697646825Capture.JPG)**
@@ -1718,8 +1652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 इति सप्तदश परिच्छेद।
 
 ![](../../../books_images/U-IMG-1697647977Capture.JPG)
-
-
 
 **अष्टादश परिच्छेद**
 
@@ -1788,13 +1720,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
   वराङ्गके मध्य 'ब्लं' बीज मन्त्रका ध्यान करने से एक सप्ताह में स्त्रीको वशीभूत करता है। वह मन्त्र कैसा सो कहते हैं। बकार उसमें बल कारक है, लकार पिण्ड और चन्द्र-बिन्दुसे अङ्कित या नाद बिन्दुसे चिह्नित, प्रकाशमान कमलकी कान्ति जैसा मनोहर अर्थात् रक्तवर्ण और प्रातः कालिक सूर्य किरणके समान उक्त मन्त्रका ध्यान करके मन्त्र सिद्ध कर लेनेपर स्त्रीको भी यमपुरी ले जाता है। अर्थात् मृत्यु होनेपर भी प्रियाका मिलन होता है।
 
-
-
 **मन्त्रका रूप—**
 
 ![](../../../books_images/U-IMG-1700892921aaaa.png)
-
-
 
 **रेफस्तं सविसर्गमीश्वरयुतं**  
 **        सान्तं पिशङ्गद्युति  
@@ -1901,8 +1829,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 इति एकोनविंश परिच्छेद।
 
 ![](../../../books_images/U-IMG-1697692413Capture.JPG)
-
-
 
 **विंशति परिच्छेद**
 
@@ -2020,8 +1946,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 ![](../../../books_images/U-IMG-1697777603Capture.JPG)
 
-
-
 **एकविशतिं परिच्छेद**
 
 **![](../../../books_images/U-IMG-1697777734Capture.JPG)**
@@ -2055,8 +1979,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
   हित् हिक् शब्दकी भांति अनुकरणात्मक शब्द (जिसमें श्वास निरोध होता है) करते हुए चुम्बनको हिक्कृत कहते है। मोती गिरनेके समान शब्द करनेसे दूत्कृत कहाता है।
 
 इति एकविंश परिच्छेद।
-
-
 
 **द्वाविंश परिच्छेद**
 
@@ -2099,8 +2021,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 **इति द्वाविंश परिच्छेद।**
 
-
-
 **त्रयोविंश परिच्छेद**
 
 **![](../../../books_images/U-IMG-1697779183Capture.JPG)**
@@ -2136,8 +2056,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 **इति त्रयोविंश परिक्छेद।**
 
 **![](../../../books_images/U-IMG-1697779829Capture.JPG)**
-
-
 
 **चतुर्विंश परिच्छेद**
 
@@ -2210,9 +2128,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 **![](../../../books_images/U-IMG-1697783965Capture.JPG)**  
 
-
-
-
 **पंचविंश परिच्छदे**
 
 **![](../../../books_images/U-IMG-1697784101Capture.JPG)**
@@ -2256,8 +2171,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 **इति पञ्चविंशति परिच्छेद।**
 
-
-
 **षड्विंशपरिच्छेद**  
 \_\_\_\_\_\_\_
 
@@ -2273,8 +2186,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 **इति षड्विंश परिच्छेद।**
 
 **![](../../../books_images/U-IMG-1697791531Capture.JPG)**
-
-
 
 **सप्तविंश परिच्छेद**
 
@@ -2297,8 +2208,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
   दूसरे कामशास्त्रके पण्डितोंने अधरमें दन्ताघातके चुम्बनको आर्द्रचुम्बित कहा है। और परस्पर स्त्री पुरुषके चुम्बनको संपुटक कहा है।
 
 **इति सप्तविंशति परिच्छेद।**
-
-
 
 **अष्टविंश परिच्छेद**
 
@@ -2407,10 +2316,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 इति अष्टाविंशति परिच्छेद।
 
-
 ![](../../../books_images/U-IMG-1697795238Capture.JPG)
-
-
 
 **एकोनत्रिंश परिच्छेद**
 
@@ -2452,11 +2358,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 **इति ऊनत्रिंशति परिच्छेद।**
 
-
-
 **![](../../../books_images/U-IMG-1701346737Screenshot2023-11-301748283.png)**
-
-
 
 **त्रिंश परिच्छेद**
 
@@ -2475,8 +2377,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
   नूपुरकी कान्तिसे प्रतिबिम्बित स्वामीका अंग हो और वह पर्यंक बन्धकी तरह स्थिर हो और स्त्री अपनी बांहसे पुरुषका कण्ठ संलग्न रखे तो काम कुशल व्यक्ति उसे सुन्दर तथा प्रशंसित पर्याङ्कबन्ध कहते हैं।
 
 **इति द्वात्रिंश परिच्छेद।**
-
-
 
 **एकत्रिंश परिच्छेद**
 
@@ -2505,8 +2405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
   शय्याशायिनी प्रिया अपने आप दोनों पांव ऊपर उठाये रहे, पीठ, कटि पश्चाद्भाग अधिक उपर ऊठाये रहे और प्रिय दोनों हाथोंसे भी वक्षस्थल ग्रहण करे तो व्याघ्र स्कन्द करण अर्थात् शेर जैसे रमण करता है, वैसा आसन होता है यह बहुत कठिन है इसमें स्त्रीको क्लेश बहुत होता है। पर, अभ्यास साध्य है।
 
 **इति एकत्रिंश परिच्छेद।**
-
-
 
 **द्वात्रिंश परिच्छेद**
 
@@ -2550,8 +2448,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 **  टि०—षष्ठं प्रहरणंतथा। सप्तमं कण्ठ शब्दश्च वधाख्यं चाष्टमंरतम्॥" अस्मिन् विषये इमे अपि विशेषा बोध्याः—यत् अन्नरसादिषड्धातु १ रस रूपः सप्तमो धातुः वीर्यंपुरुषाण्डयोःजन्यते, तच्च मैथुनेन लिंगस्यनाड़िकया बहिर्निस्सरति। स्त्री वंक्षणयोरन्तभगि स्त्र्यण्डाशयः ततो रजस उद्भवः यन्मासि मासि बहिर्निगच्छति। सुरताय पुरुषाणां ध्वजोत्थान मयोक्षितं, स्त्रीणान्तु अतथा विधित्वेपि ध्वजप्रवेशे एव तासां मन्द वेगानामपि सुरताभिलाषो जायते। सुरते आनन्द स्थानं पुरुषायां ध्वजाग्रएव, स्त्रीणान्तु गर्भासय सुखं, यत्रध्वजाग्रसंस्पर्शं मात्रेण तेषां तासांच अवर्णनीय आनन्दातिशयः स्फुरति तदुक्तं रति कल्लोलिन्यां---“उद्गर्भंं शय्या वदनान्तिस्थंचिंचाप्रसुन प्रतिमं भगान्तः। तद्ब्रह्म सौख्यास्पद माहुरार्याःस्पर्शात्परं द्रावकमंगनानाम॥” चिञ्चा प्रसून "इमली”**
 
-
-
 **त्रि-त्रिंश परिच्छेद**
 
 **![](../../../books_images/U-IMG-1697802801Capture.JPG)**
@@ -2571,8 +2467,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
   कटि तटमें, पृष्ठतलमें मुक्केके प्रहार करनेसे मुष्टिसंशक ताड़न होता है और गण्डस्थलमें पैरके अंगूठेसे ताड़न हों तो विद्धक होता है।
 
 **इति त्रयस्त्रिंश परिच्छेद।**
-
-
 
 **चतुस्त्रिंश परिच्छेद**
 
@@ -2596,8 +2490,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 ![](../../../books_images/U-IMG-1697816579Capture.JPG)
 
-
-
 **पञ्चत्रिंश परिच्छेद**
 
 **![](../../../books_images/U-IMG-1697816725Capture.JPG)**
@@ -2619,8 +2511,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 **इति पञ्चत्रिंश परिच्छेद।**
 
 ![](../../../books_images/U-IMG-1697816940Capture.JPG)
-
-
 
 **षड्त्रिंश परिच्छेद**
 
@@ -2644,8 +2534,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 **इति षट्त्रिंश परिच्छेद।**
 
 ![](../../../books_images/U-IMG-1697817350Capture.JPG)
-
-
 
 **सप्तत्रिंश परिच्छेद**
 
@@ -2765,8 +2653,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 **इति सप्तत्रिंश परिच्छेद।**
 
 ![](../../../books_images/U-IMG-1697820270Capture.JPG)
-
-
 
 **अष्ठाविंश परिच्छेद**
 
@@ -2922,8 +2808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 ![](../../../books_images/U-IMG-1701344478Screenshot2023-11-30170942ई.png)
 
-
-
 **रतिवल्लभ**
 
 **मूल्य १॥) सजिल्द २) डाक० ख० ।)**
@@ -2938,26 +2822,4 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcwMzIzNTA4ODc
 
 [TABLE]
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-

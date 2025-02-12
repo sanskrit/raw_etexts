@@ -12,23 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 \[
 
-
-
-
-
-
-
 पौष्करसंहिता
-
-
 
 अथ सप्तविंशो ऽध्यायः
 
 श्रीभगवानुवाच ---
-
-
-
-
 
 एवं कृत्वा यथाशास्त्रं दिव्यमब्जज वै पुरा \।
 
@@ -38,11 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१ \।\।
 
-
-
 पौष्करौवाच---
-
-
 
 ज्ञातुम् इच्छामि भगवान् त्वच्छासनस्थितैः \।
 
@@ -52,8 +36,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२ \।\।
 
-
-
 केषां केषां च तत् कार्यं कस्य कस्य च कीदृशम् \।
 
 विदधाति पञ्च पञ्चैव (कथंचैव)सम्यङ्निर्वर्तितं हि यत् \।\।
@@ -62,11 +44,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३ \।\।
 
-
-
 श्री भगवानुवाच ---
-
-
 
 कर्तव्यत्वेन वै कुर्यात् कर्मसन्यासिनां सदा \।
 
@@ -76,8 +54,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४ \।\।
 
-
-
 अनिर्दिष्टक्रमाणां च चतुर्थाश्रमिणां तु वै \।
 
 भगवद् पदलिप्सूनां ज्ञानिनां च तथैव हि \।\।
@@ -85,8 +61,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५ \।\।
-
-
 
 प्रीतये मन्यसिद्धानां साधकानां तु पौष्कर \।
 
@@ -96,8 +70,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६ \।\।
 
-
-
 कार्यं तत्पुत्रकाणां तु कृपया देशिकादिकैः \।
 
 कुर्याद् वै समयज्ञानां नित्यं सद्धर्मवृद्धये \।\।
@@ -105,8 +77,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७ \।\।
-
-
 
 भूयः सुजन्मलाभाय सद्विधाधिगमाय च \।
 
@@ -116,8 +86,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.८ \।\।
 
-
-
 सद्यो दुष्कृतशान्त्यर्थं कृपया नित्यम् आचरेत् \।
 
 कर्ताना (वा)कर्मसंन्यासी परिवृद्धो व्रताश्रयी \।\।
@@ -125,8 +93,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.९ \।\।
-
-
 
 न निवाणपदंनीतो दीक्षायां भोगलालस \।
 
@@ -136,8 +102,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१० \।\।
 
-
-
 निः सन्तानो ऽपि वै मन्त्री न याति सिद्धिगोचरम् \।
 
 नूनम् एतत् द्विजश्रेष्ठ सन्मार्गस्यैः क्रियापरैः \।\।
@@ -145,8 +109,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.११ \।\।
-
-
 
 सत्कर्तव्यप्रकारेण त्वनुग्राहयाः सदैव हि \।
 
@@ -156,8 +118,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१२ \।\।
 
-
-
 आतस्तुः (अतस्तु) दीक्षितानां च सर्वेषां सा मयाजिनाम् \।
 
 अवक्तव्यं च वक्तव्यं एतत् निर्वर्तनाय च \।\।
@@ -165,8 +125,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१३ \।\।
-
-
 
 श्राद्धकाले तु वै मुक्तवा तैर् अप्यन्यत्र पद्मज \।
 
@@ -176,8 +134,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१४ \।\।
 
-
-
 नाभ्यस्तव्या न योक्तव्या भक्तैः सामयिकादिभिः \।
 
 समाश्रित्य निमित्तं वै देशकालादिक्तं द्विज \।\।
@@ -185,8 +141,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१५ \।\।
-
-
 
 क्रियते यत् पितॄणां च भवत्यनृणवान् नरः \।
 
@@ -196,8 +150,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१६ \।\।
 
-
-
 आगते गतिम् आयान्ति श्राद्धाद् आह्लादसंयुताम् \।
 
 सकृद्वैकं तु बहुधा कालमादेहलक्षणम् \।\।
@@ -205,8 +157,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१७ \।\।
-
-
 
 युक्तं तिथिगणेन एव वात्सरीयेण पौष्कार \।
 
@@ -216,8 +166,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१८ \।\।
 
-
-
 संसारदुःखशान्त्यर्थं दुष्कृतक्षपणाय च \।
 
 .... \।\।
@@ -225,8 +173,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१९ \।\।
-
-
 
 व्यक्ते च इन्द्रियचक्रस्य दुःखजं दुष्कृतं हि यत् \।
 
@@ -238,8 +184,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२० \।\।
 
-
-
 अतो भूतमयं देहं समन्तरम् अस्य वै \।
 
 दुःखोपलम्भनं कल्पं यस्मात् कमलसंभव \।\।
@@ -247,8 +191,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२१ \।\।
-
-
 
 दुःखेन शाम्यते दुःख सन्यस्कन्धगते (दुःखमन्यस्कन्धगतं ) यथा \।
 
@@ -258,8 +200,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२२ \।\।
 
-
-
 निद्रक्रान्तस्वपिण्डात् वै यथा निर्गत्य पौष्कर \।
 
 वासनादेहम् आश्रित्य नानाचेष्टां करोति च \।\।
@@ -267,8 +207,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२३ \।\।
-
-
 
 भूतपिण्डं विना तासां न शान्तिम् अनुविन्दति \।
 
@@ -278,8 +216,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२४ \।\।
 
-
-
 व्यक्तिकृतं न वै देव (हं )देहभावेन देहिनाम् \।
 
 तावत् कर्मक्षयं तेषां कथमेति महामते \।\।
@@ -287,8 +223,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२५ \।\।
-
-
 
 अन्तस्तद् उपचारार्थं ज्ञानपूर्वेण कर्मणा \।
 
@@ -298,8 +232,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२६ \।\।
 
-
-
 सामान्यं वैष्णवानां च गुर्वादीनां विशेषतः \।
 
 साधारः संप्रधानाख्यः सांप्रतं विधिः उच्यते \।\।
@@ -307,8 +239,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२७ \।\।
-
-
 
 निमन्त्रितं वा संप्राप्तं नित्यम् अङ्गीकृतं त्वथ \।
 
@@ -318,8 +248,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२८ \।\।
 
-
-
 स्नानादिना पुरा कृत्वा प्रयतः संविशेत् पुनः \।
 
 स्वयम् अर्ध्याम्बुना विप्र पवित्रीकृत्य पाणिना \।\।
@@ -327,8 +255,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२९ \।\।
-
-
 
 सन्ताय कुसुमास्त्रेण मन्त्रारश्चाधिष्ठितेन च \।
 
@@ -338,8 +264,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३० \।\।
 
-
-
 समुच्चरन् नेत्रमन्त्रम् अवलोक्य अथ कद्विति (वास्त्विति ) \।
 
 निवेश्य भगवत्यग्रे (तो ऽग्रे ) प्रणवाधिष्ठितासने \।\।
@@ -347,8 +271,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३१ \।\।
-
-
 
 पूजिते वितते पूते संमुखं वोत्तराननम् \।
 
@@ -358,8 +280,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३२ \।\।
 
-
-
 यथा मन्त्रेशदिग्रश्मिप्रसरेण अभिविध्यते \।
 
 मन्त्रेण आराध्य तं ध्यात्वा ब्रूयात् संयता (त ) वाग्भव \।\।
@@ -367,8 +287,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३३ \।\।
-
-
 
 समाधाय जगन्नाथ्र हृत्पद्मगगनेर्ऽकवत् \।
 
@@ -378,8 +296,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३४ \।\।
 
-
-
 एवं कृत्वा प्रतिष्ठानं प्राग् यत्नेनात्र कर्मणि \।
 
 समुद्दिश्य पितॄन् दद्यात् दानम (मा )न्तरवेदिकम् \।\।
@@ -387,8 +303,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३५ \।\।
-
-
 
 निवेशितं द्विजेन्द्रं यद् वृत्तिस्थम् अपि मन्त्रराट् \।
 
@@ -398,8 +312,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३६ \।\।
 
-
-
 संप्रदानं पितॄणां यत् कुर्यात् सत्पात्रपिण्डकम् \।
 
 तद् दिव्यम् अमलं यस्मात् चैतन्यम् अवलंब्यते \।\।
@@ -407,8 +319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३७ \।\।
-
-
 
 तत्कालं संविभज्याश्च (थ ) तिष्ठन्ति कमलोद्भव \।
 
@@ -418,8 +328,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३८ \।\।
 
-
-
 एकस्य वा बहूनां वा प्रदद्याद् आसनोपरि \।
 
 पुनरेवासनं दाभमिग्रन्थि बहुभिः कुशैः \।\।
@@ -427,8 +335,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३९ \।\।
-
-
 
 विभोः यज्ञाङ्गदेहस्य लोमानि तु कुशाः स्मृताः \।
 
@@ -438,8 +344,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४० \।\।
 
-
-
 रश्मयो भूतदेहे तु चिन्मूर्तेः शक्तयो ऽखिलाः \।
 
 अत एव हि विप्रेन्द्र पितॄणां तु कुशासनम् \।\।
@@ -447,8 +351,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४१ \।\।
-
-
 
 श्राद्धकाले तु विहितम् आहूतानां तदूर्ध्वतः \।
 
@@ -458,8 +360,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४२ \।\।
 
-
-
 पुरा वै हेतुनानेन नृणाम् अविदितात्मनाम् \।
 
 कर्मव्यत्र कुशाजालं विहितं कमलोद्भव \।\।
@@ -467,8 +367,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४३ \।\।
-
-
 
 येषां सर्वगतं ब्रह्मन् मन्त्ररूपीश्वरो ऽच्युतः \।
 
@@ -478,8 +376,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४४ \।\।
 
-
-
 अथाश्चपरिजप्तेन भूतिनावात्मशङ्कुना \।
 
 मसृणेनाश्मचूर्णेन परिघासु यथाथवा \।\।
@@ -487,8 +383,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४५ \।\।
-
-
 
 बहिस्तदासने कार्या त्वग्रे दैर्घ्याच्छमाधिका \।
 
@@ -498,8 +392,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४६ \।\।
 
-
-
 न्यसेत् तत्राप्यभग्नाग्रान् उदङ्मूलान् कुशान् द्विज \।
 
 यस्माद् दिव्यम् उदग्भागं पित्र्यं दक्षिणसंज्ञकम् \।\।
@@ -507,8 +399,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४७ \।\।
-
-
 
 स्वकेनामृतवीर्येण नित्यं संवर्धयन्ति च \।
 
@@ -518,8 +408,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४८ \।\।
 
-
-
 वसत्यन्तः पितृगणो भागमाश्रित्य दक्षिणम् \।
 
 चित्कलांशस्वरूपेण नृणामेवं हि चोत्तरे \।\।
@@ -527,8 +415,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४९ \।\।
-
-
 
 कृतास्पदामला नित्या त्वमृताख्याक्षया कला \।
 
@@ -538,8 +424,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५० \।\।
 
-
-
 प्रदीयते पितॄणां च तत् सत्येन तु पाणिना \।
 
 ये ऽधिकृत्य जगद्योनिं मन्त्रात्मानमजं हरिम् \।\।
@@ -547,8 +431,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५१ \।\।
-
-
 
 प्रयच्छन्ति पितॄणां च तोयतर्पणपूर्वकम् \।
 
@@ -558,8 +440,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५२ \।\।
 
-
-
 कर्तव्यस्य च पारम्यं प्रकृतस्य महामते \।
 
 स्फुरत्यन्तर्गतं येषां मन्त्राराधनपूर्वकम् \।\।
@@ -567,8 +447,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५३ \।\।
-
-
 
 तत् स्वोत्तरवशाद्येषां मन्त्रसांमुख्यदिग्वशात् \।
 
@@ -578,8 +456,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५४ \।\।
 
-
-
 किन्तु पुष्करसम्भूत दुर्लभा भुवि चेतनाः \।
 
 इति चेतसि वै येषां निश्चयीकृत्य वर्तते \।\।
@@ -587,8 +463,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५५ \।\।
-
-
 
 सत्यतामुपनीये (ते )त्वेवन्यस्ये कुशाचये \।
 
@@ -598,8 +472,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५६ \।\।
 
-
-
 कुरुविन्दस्तु दर्भाग्रैर्यस्मादेतद् द्वयं द्विज \।
 
 सर्वस्य भोगजालस्य जनकं भुवनत्रये \।\।
@@ -607,8 +479,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५७ \।\।
-
-
 
 विशेषात् पितृदेवस्य श्रद्धापूतस्य वस्तुनः \।
 
@@ -618,8 +488,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५८ \।\।
 
-
-
 व्यक्तः कर्मात्मक ( त ) त्वानां मूर्तित्वेनात्मसिद्धये \।
 
 स पित्र्यस्य च दिव्यस्य व्यापारस्यातिवद्धये \।\।
@@ -627,8 +495,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५९ \।\।
-
-
 
 तत्तेजस्तिलभावेन ह्लादो वर्तत्यपात्मना \।
 
@@ -638,8 +504,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६० \।\।
 
-
-
 तिलोदकेन भावं तु गच्छतः श्राद्धकर्मणि \।
 
 श्राद्धस्य च परा रक्षा ते द्वे नित्यममार्न्त्रणाम् \।\।
@@ -647,8 +511,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६१ \।\।
-
-
 
 तत्स्वरूपविदां चै व विशेषो मन्त्रवेदिनाम् \।
 
@@ -658,8 +520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६२ \।\।
 
-
-
 तत्राद्यं चकवृत्तानि हेमाद्युत्थानि ( न्य ) संभवे \।
 
 पालाशकदलीपत्रतमालच्छदनान्यथ \।\।
@@ -667,8 +527,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६३ \।\।
-
-
 
 पुरान्य स्त्राम्बुशद्धानि शुभपर्णमयानि च \।
 
@@ -678,8 +536,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६४ \।\।
 
-
-
 आमूर्धम् अर्चयेत् पश्चाद् अर्ध्यपुष्पानुलेपनैः \।
 
 वस्त्रस्त्रग्धूपदीपैः तु दध्यन्नं फलवादिणा \।\।
@@ -687,8 +543,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६५ \।\।
-
-
 
 सताम्बूलेन वित्तेन यथाशक्ति महामते \।
 
@@ -698,8 +552,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६६ \।\।
 
-
-
 शब्दभावस्वरूपास्तु ज्ञवृत्तिस्थानविग्रहान् \।
 
 बहुत्वे सति विप्राणां पितृणामेवमाचरेत् \।\।
@@ -707,8 +559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६७ \।\।
-
-
 
 यत्र द्विजद्वयं विप्र पित्रर्थं विनिवेशितम् \।
 
@@ -718,8 +568,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६८ \।\।
 
-
-
 द्वितीये जननीयानां तथऽन्येषां तु संस्थितिम् \।
 
 सर्वेषामेकप्राप्तं तु तृप्रये यदि योजितम् \।\।
@@ -727,8 +575,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६९ \।\।
-
-
 
 ओमाद्यमस्मच्छब्दं तु पितृभ्यस्तदनन्तरम् \।
 
@@ -738,8 +584,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७० \।\।
 
-
-
 सर्वास्मिन् उपचारान्ते वं वा संस्मरन् नरम् \।
 
 नमः स्वधाथवा ब्रूयान्नमोन्तां त्वथवा स्वथवा स्वधाम् \।\।
@@ -747,8 +591,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७१ \।\।
-
-
 
 एवमेव हि यः कुर्यात् कर्तव्यत्वेन पौष्कर \।
 
@@ -758,8 +600,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७२ \।\।
 
-
-
 सत्युक्ते व्यत्यये नित्यं विहितं च स्वधा द्विज \।
 
 स्वयमेव हि सन्यासी ददाति च फलार्थिनाम् \।\।
@@ -767,8 +607,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७३ \।\।
-
-
 
 कार्यस्तेन नमस्कारः स्वधान्ते नित्यमेव हि \।
 
@@ -778,8 +616,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७४ \।\।
 
-
-
 स्वधाकारावसाने तु हितं तस्य सदा नमः \।
 
 एवम् इच्छवशेनै व संविभज्य पितॄन् द्विज \।\।
@@ -787,8 +623,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७५ \।\।
-
-
 
 पृष्ट्वा पात्रमुखेनैव सतृप्तिं च पुनः पुनः \।
 
@@ -798,8 +632,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७६ \।\।
 
-
-
 दद्यात् पूर्णेन्दुतुल्यं तद्ध्यातव्यं तत्कलाः पढन् \।
 
 सानुस्वारम् अकाराद्यैर्भिन्नं षोडशभिः स्वरैः \।\।
@@ -807,8 +639,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७७ \।\।
-
-
 
 त्वङ्कारननिनिष्टं च तत्र प्राकस्थः सतारकम् \।
 
@@ -818,8 +648,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७८ \।\।
 
-
-
 पाणिप्रक्षकनात् पूर्वं पातव्यं तेन पूर्ववत् \।
 
 येनामृतपुरान्तस्थम् अन्नवीर्यम् अनश्वरम् \।\।
@@ -827,8 +655,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७९ \।\।
-
-
 
 भवत्याप्यायकृद् ब्रह्मन् पितृदेवगणस्य च \।
 
@@ -838,8 +664,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.८० \।\।
 
-
-
 समाचम्योपसंहृत्य ऊच्छिष्टं तु यथाविधि \।
 
 पवित्रीकृत्य वसुधां पाणौ कृत्वा तिलोदकम् \।\।
@@ -847,8 +671,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.८१ \।\।
-
-
 
 प्रीणनं भगवत्यग्रे समुत्थायाचरेत् ततः \।
 
@@ -858,8 +680,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.८२ \।\।
 
-
-
 शारीरो देवताव्यूह अ ( आ )पदा ( द्यो )द्या व्यवस्थितः \।
 
 एवं सुवितते कुर्यात् कर्मत्वाराधनालये \।\।
@@ -867,8 +687,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.८३ \।\।
-
-
 
 सङ्कटे पुनरअन्यत्र यायादभ्यर्च्य मन्त्रराट् \।
 
@@ -878,8 +696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.८४ \।\।
 
-
-
 व्याप्तिशक्तयारितं भूतस्तोयाधारगतं स्मरेत् \।
 
 मन्यमर्चनपूर्वं तु तदग्र सर्वमाचरेत् \।\।
@@ -887,8 +703,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.८५ \।\।
-
-
 
 पात्राघ्राणपरेणैव तत्पात्रस्थेन भावयेत् \।
 
@@ -898,8 +712,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.८६ \।\।
 
-
-
 निर्देषं वह्निना कृत्वा हृदा दर्भाग्रकेण तु \।
 
 ध्यात्वा धाम द्रुमाकारं ज्ञस्वभावं महत् प्रभम् \।\।
@@ -907,8 +719,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.८७ \।\।
-
-
 
 द्रव्यदोषगण कृत्स्नं निर्दहन्तं समन्ततः \।
 
@@ -918,8 +728,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.८८ \।\।
 
-
-
 तत् साधनं च विहितं संस्कृतेन पुरान्निना \।
 
 द्वाभ्यां देशिकपूर्वाभ्यामे तद् विषयम् अब्जज \।\।
@@ -927,8 +735,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.८९ \।\।
-
-
 
 प्रदापनमतो ऽन्येषां तत्कालं तस्य वै हितम् \।
 
@@ -938,8 +744,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.९० \।\।
 
-
-
 एकस्या श्रयबीजस्य नानाकर्मवशात् तु वै \।
 
 नानात्वं भावयेद् बुद्धया पितृकर्मव्यतः पुरा \।\।
@@ -947,8 +751,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.९१ \।\।
-
-
 
 तेनैव तर्पणीयं तत् स्वयंभूता तदात्मना \।
 
@@ -958,8 +760,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.९२ \।\।
 
-
-
 अर्हणाग्रहगर्भौ तु द्वौ दर्भौ तालसम्मितौ \।
 
 ह्रन्मन्त्रमन्त्रितौ कृत्वा ताभ्यां सह समुद्धरेत् \।\।
@@ -967,8 +767,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.९३ \।\।
-
-
 
 रसरूपस्वभावं तत् स्थ ( स्थू )लत्वेनान्नतां गतम् \।
 
@@ -978,8 +776,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.९४ \।\।
 
-
-
 अग्नीषोमाश्रयस्थस्य पूर्वं पितृगणस्य च \।
 
 पितॄणां बीजभूतस्य ज्ञस्वभावस्य तत्त्वतः \।\।
@@ -988,8 +784,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.९५ \।\।
 
-
-
 दघात् पिण्डद्वयं चै व त्वग्नीषोमसमुद्भवम् \।
 
 नाडीस्वरूपौ तौ दर्भौ पिण्डेन सह तत्र वै \।\।
@@ -997,8 +791,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.९६ \।\।
-
-
 
 लयं नीत्वा द्वितीयेन व्यवहारधियां ( या )ततः \।
 
@@ -1010,8 +802,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.९७ \।\।
 
-
-
 क्रमेण प्रागदृष्टानां ह्रदा संज्ञापदेन तु \।
 
 एवं दृष्टस्वरूपं च ज्ञात्वा तेषां स्थितिं स्फुरम् \।\।
@@ -1019,8 +809,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.९८ \।\।
-
-
 
 प्राग्वत् स्वधावसानाघैर्मन्त्रैर् ॐकारपूर्वकैः \।
 
@@ -1030,8 +818,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.९९ \।\।
 
-
-
 पिण्डं प्रकल्पयामीति ततः पूर्ववदाचरेत् \।
 
 अञ्जनाभ्यञ्जनाद्यैस्तु ह्युपचारैः प्रपूजनम् \।\।
@@ -1039,8 +825,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१०० \।\।
-
-
 
 क्रमेण तर्पणं कुर्यात् सतिलैश्चा म्भसा ततः \।
 
@@ -1052,8 +836,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१०१ \।\।
 
-
-
 पाणियुग्मे लालारस्थे एकचिन्तः पढेद् इमम् \।
 
 ॐ नमो वः पितरो नमो वाः (
@@ -1064,8 +846,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१०२ \।\।
 
-
-
 नमो विष्णुपदस्थेभ्यः स्वधा वः पितरो नमः \।
 
 हरये पितृनाथाय ह्यग्नीषोमात्मने नमः \।\।
@@ -1073,8 +853,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१०३ \।\।
-
-
 
 सत्सोमपात्मने विष्णो नमो बर्हिषदात्मने \।
 
@@ -1084,8 +862,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१०४ \।\।
 
-
-
 पितामहाः सोमपास्त्वं त्वमन्ये प्रतितामहाः \।
 
 तुभ्यं नमो भगवते पितृमूर्ते ऽन्युताय च \।\।
@@ -1093,8 +869,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१०५ \।\।
-
-
 
 नारायणाय हंसाय विष्णो त्रिपुरुषात्मने \।
 
@@ -1104,8 +878,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१०६ \।\।
 
-
-
 न तर्पयामि सर्वेश नान्यम् आवाहयाम्यहम् \।
 
 स्तुत्वा एवं हि पितृव्यूहं भक्तया परमया पुनः \।\।
@@ -1113,8 +885,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१०७ \।\।
-
-
 
 संभवे सति सन्धानं पिण्डमूर्तेः समाचरेत् \।
 
@@ -1124,8 +894,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१०८ \।\।
 
-
-
 अनुसन्धाय वै द्वाभ्याम् एकस्मिन् वा द्विजोत्तम \।
 
 ऊष्माग्रावस्थितं ध्यात्वा पित्रयं पितृगणं क्रमात् \।\।
@@ -1133,8 +901,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१०९ \।\।
-
-
 
 प्रणवेन स्वरूपं तु समुत्थाय ततः स्वयम् \।
 
@@ -1144,8 +910,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.११० \।\।
 
-
-
 उत्तराभिमुखैश्च एव दक्षिणस्याथवा द्विज \।
 
 तदुत्तराननवशाद् ह्रन्मन्त्रं ह्रदयान् न्यसेत् \।\।
@@ -1153,8 +917,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१११ \।\।
-
-
 
 नमो ऽन्तं प्रणवाद्यं तु मरुदम्बरविग्रहम् \।
 
@@ -1166,8 +928,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.११२ \।\।
 
-
-
 बहूनां वा प्रयत्नेन स्वातन्त्रान् निर्गतो बहिः \।
 
 ध्यात्वा तया सह क्षिप्रमेकीभूतत्वमागतम् \।\।
@@ -1175,8 +935,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.११३ \।\।
-
-
 
 आत्मशक्तौ लयं नीत्वा यदि ह्यूष्माख्यलक्षणा \।
 
@@ -1186,8 +944,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.११४ \।\।
 
-
-
 प्राग्वदासनसंरुद्ध भोजयेत् पूर्ववत् ततः \।
 
 ॐ नमत्वमृतायान्नमिदं विष्णुपुरःसराः \।\।
@@ -1195,8 +951,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.११५ \।\।
-
-
 
 देवा नद्यस्तथा गावः सूर्यः सोमो वनस्पतिः \।
 
@@ -1206,8 +960,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.११६ \।\।
 
-
-
 मधुभावेन वो ऽन्यस्मिन् स्थित्वा तृप्तिं करोतु वै \।
 
 अनुज्झितासनं कुर्यात् पितॄणां प्रीणनाय च \।\।
@@ -1215,8 +967,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.११७ \।\।
-
-
 
 तस्मिन्नेवास्मि ( न् )भूभागे वस्त्वा तत्पिण्डविक्षितौ ( 
 
@@ -1228,8 +978,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.११८ \।\।
 
-
-
 यावत् प्राणविमुक्तानां पिण्डानां नोपसंहृतिः \।
 
 सोच्छिष्टानां कृता सम्यक् तदन्ते संव्रजन्ति ते \।\।
@@ -1237,8 +985,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.११९ \।\।
-
-
 
 स्वस्थानामाशिषं दत्वा श्राद्धकर्तुर्धिया द्विज \।
 
@@ -1248,8 +994,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१२० \।\।
 
-
-
 विविक्तं विवृतं मार्गं पुनरागमनाय च \।
 
 नारायणाख्यसन्मन्त्रकर्म ब्रह्मजवीकृते \।\।
@@ -1257,8 +1001,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१२१ \।\।
-
-
 
 स्वे स्वोन्द्रियरथे कृत्वा तृप्ता याताच्युतास्पदम् \।
 
@@ -1268,8 +1010,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१२२ \।\।
 
-
-
 संप्रदानं पितॄणां च पूर्वोक्तफलवर्धनम् \।
 
 समाचरेत् सदा व्यूह्य मन्त्राणां मन्त्रकर्मणा \।\।
@@ -1277,8 +1017,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१२३ \।\।
-
-
 
 नित्यं बहुत्वे द्वित्वे वा प्रयोगं कमलोद्भव \।
 
@@ -1288,8 +1026,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१२४ \।\।
 
-
-
 ह्रदाद्यङ्गाङ्गतो योज्यमङ्गि पूर्ववदब्जज \।
 
 आराध्यानाममुनेत्राणाम् ॐङ्कारः तत्क्रियान्तरे \।\।
@@ -1297,8 +1033,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१२५ \।\।
-
-
 
 अस्मिन्नर्थे विकारस्तु य उक्तो मन्त्रपूर्वकः \।
 
@@ -1308,8 +1042,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१२६ \।\।
 
-
-
 गुरोश्च साधकेन्द्रस्य मन्त्रो मम महामते \।
 
 प्रदाने स विरुद्धश्च त्वतो ऽन्यस्त्वविरुद्धकृत् \।\।
@@ -1317,8 +1049,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१२७ \।\।
-
-
 
 समयी पुत्रकादीनां वैष्णवानामपि द्विज \।
 
@@ -1328,8 +1058,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१२८ \।\।
 
-
-
 दीक्षया संस्कृतानां च दीक्षितानां महामुने \।
 
 सामान्यस्त्वथ सर्वत्र साङ्गः सिद्धः सुपूजितः \।\।
@@ -1337,8 +1065,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१२९ \।\।
-
-
 
 तेषां यश्चोपदेष्टव्यो मन्त्रव्यूहो हि तं शृणु \।
 
@@ -1348,8 +1074,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१३० \।\।
 
-
-
 एवं विश्वात्मने नेत्रमस्त्रं च परमात्मने \।
 
 एते सप्रणवाः सर्वे शूद्राणां योग्यतावशात् \।\।
@@ -1357,8 +1081,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१३१ \।\।
-
-
 
 सम्यग्वा दीक्षितानां च तेषां वै प्रणवोज्झिताः \।
 
@@ -1370,8 +1092,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१३२ \।\।
 
-
-
 असम्यक् प्रतिपन्नानां शूद्राणां तु महामते \।
 
 न खण्डयेत् तु मन्त्राणां नमस्कारो भवेत् पुनः \।\।
@@ -1379,8 +1099,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१३३ \।\।
-
-
 
 सजातेर्द्वादशार्णस्य तद्वदष्टाक्षरस्य च \।
 
@@ -1390,8 +1108,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१३४ \।\।
 
-
-
 यदा त्वभिहितो ऽष्टार्णे त्वष्टार्णेन अवतारितः \।
 
 मुख्यता द्वादशार्णस्य मन्त्रस्य विहिता तदा \।\।
@@ -1399,8 +1115,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१३५ \।\।
-
-
 
 षडक्षरस्य मुख्यत्वं भवेदुभाववशाद् अपि \।
 
@@ -1410,8 +1124,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१३६ \।\।
 
-
-
 प्रणवस्य च मुख्यत्वं द्विषडष्टषडक्षराः \।
 
 मन्त्रा हृदयपूर्वास्तु परिज्ञेयास्ततः क्रमात् \।\।
@@ -1419,8 +1131,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१३७ \।\।
-
-
 
 मन्त्राणां वर्मपूर्वाणां वाच्यत्वं यदि कल्प्यते \।
 
@@ -1430,8 +1140,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१३८ \।\।
 
-
-
 देवो जितंतामन्त्रेण चित्तस्थः सन्निधीकृतः \।
 
 योक्तव्यं तत्र च अङ्गानां मन्त्रषट्कं यथा स्थितम् \।\।
@@ -1439,8 +1147,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१३९ \।\।
-
-
 
 द्वादशाक्षरपूर्वं तु तृतीयं यत् प्रकीर्तितम् \।
 
@@ -1450,8 +1156,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१४० \।\।
 
-
-
 प्रणवः सर्वमन्त्राणामितश्च आसनकर्मणि \।
 
 द्वादशाक्षरपूर्वाणां मन्त्रसामान्यकर्मणाम् \।\।
@@ -1459,8 +1163,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१४१ \।\।
-
-
 
 दर्भातिलोदकादीनां द्रव्याणां प्रतिकर्मणि \।
 
@@ -1470,8 +1172,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१४२ \।\।
 
-
-
 अत एवोपयुक्तानां भोगानां कमलोद्भव \।
 
 विरुद्धसंग्रहो भूयस्त्वन्यास्मिन् हि क्रियान्तरे \।\।
@@ -1479,8 +1179,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१४३ \।\।
-
-
 
 गौणी व्यक्तिः यतस्तेषामामूलाच्चिदाधिष्ठिता \।
 
@@ -1490,8 +1188,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१४४ \।\।
 
-
-
 चित्सामान्यविनिर्मुक्ता ह्ययोम्यास्ते शरीरवत् \।
 
 मन्त्राणां स्थायिनो भागा यान्ति वै योग्यतां पुनः \।\।
@@ -1500,23 +1196,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१४५ \।\।
 
-
-
 कदाचिन्मन्त्रसामर्थ्यात् ज्ञानभावनया द्विज \।
 
 (
 
 इति नित्यश्राद्धविधिः )
 
-
-
-
-
 \-
 
 अथ नैमित्तिकश्राद्धविधिः -
-
-
 
 नैमित्तकमतः श्राद्धविधानमवधारय \।
 
@@ -1526,8 +1214,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१४६ \।\।
 
-
-
 सद्यः सत्पात्रसंप्राप्तिं विना नैव समाचरेत् \।
 
 एवमाद्यैर्विनिर्मुक्तं श्राद्धमब्जसमुद्भव \।\।
@@ -1535,8 +1221,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१४७ \।\।
-
-
 
 तिष्ठत्यनुग्रहार्थं च यदि संप्रार्थितं हि यत् \।
 
@@ -1546,8 +1230,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१५८ \।\।
 
-
-
 मानमात्सर्यकार्पव्यक्रोधलोभादयो ऽखिलाः \।
 
 दोषा दूरतरे त्याज्या ह्यानिष्पत्तिदिनावधि \।\।
@@ -1555,8 +1237,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१४९ \।\।
-
-
 
 शुद्धिपूर्वेण विधिना सुप्रयत्नेन चेतसा \।
 
@@ -1566,8 +1246,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१५० \।\।
 
-
-
 देशपात्रवशेनैव संपत्तो सति पद्मज \।
 
 एकाहात् सप्तरात्रं तु श्रद्धया तत् समाचरेत् \।\।
@@ -1575,8 +1253,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१५१ \।\।
-
-
 
 समाश्रित्य शुभं कालमेकाहं कमलोद्भव \।
 
@@ -1586,8 +1262,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१५२ \।\।
 
-
-
 त्रयमाश्रित्य ते श्राद्धं सानुकम्पेन चेतसा \।
 
 सत्वस्थेन कृतं शक्त्या शुद्धेन द्रविणेन च \।\।
@@ -1595,8 +1269,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१५३ \।\।
-
-
 
 नयत्यवश्यमचिरात् सत्यलोकं तदर्थितम् \।
 
@@ -1606,8 +1278,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१५४ \।\।
 
-
-
 देशपात्राश्रितु श्राद्धं जन ( नो )लोकं ददाति च \।
 
 फलं महर्लोकगति कालपात्रवशात् कृतम् \।\।
@@ -1615,8 +1285,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१५५ \।\।
-
-
 
 केवलं देशमासाद्य दत्तं स्वर्गं प्रयच्छति \।
 
@@ -1628,8 +1296,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१५६ \।\।
 
-
-
 सौम्यपात्राश्रितं श्राद्धं तद्भूलोकगतिप्रदम् \।
 
 सामान्यस्य च देशादेस्त्रितयस्य फलं त्विदम् \।\।
@@ -1637,8 +1303,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१५७ \।\।
-
-
 
 तत्र पुष्कर पुष्टिं हि प्रसिद्धं देहमब्जज \।
 
@@ -1648,8 +1312,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१५८ \।\।
 
-
-
 तथा नियमवान् सम्यक् श्राद्धहेतोर्न चान्यथा \।
 
 यदुक्तं त्रितयं श्राद्धे सविशेषं हि तत् पुनः \।\।
@@ -1657,8 +1319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१५९ \।\।
-
-
 
 भवत्युतारकं नॄणां सविज्ञानेन जन्मना \।
 
@@ -1670,8 +1330,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१६० \।\।
 
-
-
 द्वादश्याख्यो बृहत्कालः सङ्कान्त्याद्यैः परिष्कृतः \।
 
 त्रयमेतन्महाबुद्धे सविशेषतरं यदि \।\।
@@ -1679,8 +1337,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१६१ \।\।
-
-
 
 भवत्युत्तारकं नूनं देहान्तरनिवासिनाम् \।
 
@@ -1690,8 +1346,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१६२ \।\।
 
-
-
 अधिष्ठितं हि सर्गादावेकदेशात् सहाम्बुना \।
 
 तद्विशेषान्तरं देशं सिद्धिकृत् सर्वकर्मणाम् \।\।
@@ -1700,8 +1354,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१६३ \।\।
 
-
-
 तस्मिन् द्विजोचिते काले द्वादश्याख्ये भवेद्यदि \।
 
 समुहूर्तं सनक्षत्रं वैष्णवं तेन तद्भवेत् \।\।
@@ -1709,8 +1361,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१६४ \।\।
-
-
 
 प्रोत्तारकं पितॄणां च सव्यबाहुसमन्वितम् \।
 
@@ -1730,8 +1380,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१६६ \।\।
 
-
-
 पितृणां सुगतिप्राप्तिः शश्वदेव हि जायते \।
 
 वेतं ( गं ) च तं महावेगात्\[तुल्यवेगं हि\]जायते \।\।
@@ -1739,8 +1387,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१६७ \।\।
-
-
 
 देशे शुभे शुभं जन्म ज्ञानसत्कर्मणा सह \।
 
@@ -1750,8 +1396,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१६८ \।\।
 
-
-
 ज्ञात्वैवं श्राद्धदाने तु देशकालादयो गुणाः \।
 
 चित्तशुद्धिसमेताश्च समासन्नाः प्रसन्नतः \।\।
@@ -1759,8 +1403,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१६९ \।\।
-
-
 
 एतदस्त्रादिना सर्वमुपकारं हि कर्मणाम् \।
 
@@ -1770,8 +1412,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१७० \।\।
 
-
-
 ज्ञानकर्मरतानां च द्विजानामधिकारिणाम् \।
 
 पञ्चकालरतानां च स्वकर्मव्यब्जसंभव \।\।
@@ -1779,8 +1419,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१७१ \।\।
-
-
 
 यान्ति व्याघारमन्त्रेण परिक्राम्येन वै ततः \।
 
@@ -1790,8 +1428,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१७२ \।\।
 
-
-
 षाड्गुण्यविग्रहो देवः प्रभवाप्ययकृत् स्वयम् \।
 
 गुणमुक्तसमूहेन स्वरूपादच्युतेन च \।\।
@@ -1799,8 +1435,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१७३ \।\।
-
-
 
 कालादीनां समुत्थानं षाड्गुव्याद् अत एव हि \।
 
@@ -1810,8 +1444,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१७४ \।\।
 
-
-
 कालादेः सूक्ष्मभूतस्य त्वाश्रयस्यामलस्य च \।
 
 अतो ऽनयद्भगवद्भक्तास्तन्मन्त्रज्ञानतत्पराः \।\।
@@ -1819,8 +1451,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१७५ \।\।
-
-
 
 तेषां कमलसंभूत कालाद्यमखिलं हि यत् \।
 
@@ -1830,8 +1460,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१७६ \।\।
 
-
-
 बहिरन्तरवश्चापि यस्मादेतदधीश्व\[रात्\] \।
 
 विश्वस्य चापि देहत्वं पुरा ते संप्रकाशितम् \।\।
@@ -1839,8 +1467,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१७७ \।\।
-
-
 
 अध्वोपदेशद्वारेण विस्तरेण त\[द्\]एव हि \।
 
@@ -1850,8 +1476,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१७८ \।\।
 
-
-
 इच्छन्त्युतारकं शुद्धं पितरः स्वकुले पुमान् \।
 
 देशकालादयस्त्वेवमश्रित्य प्रयतः स्वयम् \।\।
@@ -1859,8 +1483,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१७९ \।\।
-
-
 
 निस्तुषैरुज्ज्वलैः शुद्धैः सक्षीरैद् अब्जसंभव \।
 
@@ -1870,8 +1492,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१८० \।\।
 
-
-
 हृदा वा द्वादशार्णेन भाण्डेष्वभिनवेषु वै \।
 
 विनिर्गतेषु वा पाकाद् भूयः स्नेहोक्षितेष्वथ \।\।
@@ -1879,8 +1499,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१८१ \।\।
-
-
 
 एवं वा साधनीयं च पुत्रशिष्यात्मना द्विज \।
 
@@ -1890,8 +1508,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१८२ \।\।
 
-
-
 शुक्लांबरधरेणैव दक्षेण शुचिनाऽत्मना \।
 
 शारीरव्याधिहीनेन क्षुत्तृष्णाविगतेन च \।\।
@@ -1899,8 +1515,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१८३ \।\।
-
-
 
 कासश्वास ....... स्वभावाथ दृक्श्रुतिहीनखर्वटैः \।
 
@@ -1910,8 +1524,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१८४ \।\।
 
-
-
 संसाधनीयं श्राद्धार्थं स्वजातीयेन वै चरुः \।
 
 अनुलोमेन विहितं वर्णानां चरुसाधनम् \।\।
@@ -1919,8 +1531,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१८५ \।\।
-
-
 
 दिव्ये पित्रये ऽब्जसंभूत प्रतिलोमश्च दोषकृत् \।
 
@@ -1930,8 +1540,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१८६ \।\।
 
-
-
 पूर्वोक्तादोशनिर्मुक्तं तेनापि कमलोद्भव \।
 
 अपिक्षयविधूना वा ( नानां ) लौस्यैकनिरतात्मनाम् \।\।
@@ -1939,8 +1547,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१८७ \।\।
-
-
 
 रजस्वलानां षण्डानां ऋत्वादीनां विशेषतः \।
 
@@ -1950,8 +1556,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१८८ \।\।
 
-
-
 विड्वराहशिवागृध्रपूर्वाणां तु स्वचारिणाम् \।
 
 तस्मात् सर्वप्रयत्नेन निवातस्थगिताम्बरे \।\।
@@ -1959,8 +1563,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१८९ \।\।
-
-
 
 निःशस्ये कुट्टिमे भूयः सुलिप्ते धवलीकृते \।
 
@@ -1970,8 +1572,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१९० \।\।
 
-
-
 विहितं चैव सर्वेषां संभवे सति सर्वदा \।
 
 अन्नव्यञ्जनभाण्डानां सर्वेषां क्रमशो द्विज \।\।
@@ -1979,8 +1579,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१९१ \।\।
-
-
 
 अन्तश्चारम्भकालो तु मध्वाज्यैः सकुशास्तिलाः \।
 
@@ -1990,8 +1588,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१९२ \।\।
 
-
-
 अष्टार्णेनाथ वस्त्रेण स्थगयेत् तान् प्रयत्नतः \।
 
 यथा न बहिरन्योत्थं बाष्पं निर्याति पद्मज \।\।
@@ -1999,8 +1595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१९३ \।\।
-
-
 
 ऊर्ध्वपुण्ड्रे कृते लिप्ते क्षालिते स्थ ( स्था )लिकाचये \।
 
@@ -2010,8 +1604,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१९४ \।\।
 
-
-
 रक्षपालं च तत्पङ्क्तौ दत्वा स्नानाद्यमाचरेत् \।
 
 अग्नेर्विप्रमवासानां पूजास्थानस्य पौष्कर \।\।
@@ -2019,8 +1611,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१९५ \।\।
-
-
 
 भाण्डानां भागपूर्वाणां सत्सहायगणस्य च \।
 
@@ -2030,8 +1620,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१९६ \।\।
 
-
-
 अपा..................... नात् प्रतिशाटकम् \।
 
 तस्याधः शाटिकायां तु विधूयात् तनुवेष्टनम् \।\।
@@ -2039,8 +1627,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१९७ \।\।
-
-
 
 अधूतं विमलं स्वच्छं.......\[विसूत्रं\]वल्कलीदिकम् \।
 
@@ -2050,8 +1636,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.१९८ \।\।
 
-
-
 सर्वत्र विषयां चैवत्वपास्य भुवनाद्बहिः \।
 
 ततो धियाभिसन्धाय मन्त्रमूर्तिगतं परम् \।\।
@@ -2059,8 +1643,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.१९९ \।\।
-
-
 
 यजाम्यनुग्रहार्थं च पितॄणां पुनरेव हि \।
 
@@ -2070,8 +1652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२०० \।\।
 
-
-
 तेभ्यः प्रागाननौ पूर्वं निवेश्यौ द्वौ द्विजोत्तमौ \।
 
 द्वादशारो धरो धाम त्रितयाधिष्ठितासने \।\।
@@ -2079,8 +1659,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२०१ \।\।
-
-
 
 अथोक्तान् सर्वसामान्यान् षडङ्गा द्विजवास्वराः \।
 
@@ -2090,8 +1668,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२०२ \।\।
 
-
-
 नियोज्य प्राङ्मुखस्थाभ्यां देहतादात्म्यताप्तये \।
 
 स्ववाचकेन सद्धाम्नो ह्येकमूर्त्यादिकात्मना \।\।
@@ -2099,8 +1675,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२०३ \।\।
-
-
 
 न्यस्तव्यं देवताव्यूहं फड्वौषट्कारसंयुतम् \।
 
@@ -2110,8 +1684,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२०४ \।\।
 
-
-
 अग्नीषोमाख्यदैवत्यं रक्षार्थं सर्वदैव हि \।
 
 अवीक्षयन्नुदग्भाग अतो ऽन्ये विनिवेश्य च \।\।
@@ -2119,8 +1691,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२०५ \।\।
-
-
 
 तत्रादौ हृदयदीनामधःपङ्क्तौ निवेश्य च \।
 
@@ -2130,8 +1700,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२०६ \।\।
 
-
-
 तस्य दक्षिणतश्चोर्ध्वे जननीयकुलस्य च \।
 
 कवचेनापरं योज्यमेकान्तं भगवन्मयम् \।\।
@@ -2139,8 +1707,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२०७ \।\।
-
-
 
 पितृनाम्ना\[द्वितीयं\]च .......तस्य दक्षिणतस्ततः \।
 
@@ -2152,8 +1718,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२०८ \।\।
 
-
-
 पितामहाभिधानेन मूर्तिमन्त्रेण पञ्चमम् \।
 
 प्रतितामहनाम्ना वै योज्यमेकायनं द्विज \।\।
@@ -2161,8 +1725,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२०९ \।\।
-
-
 
 जनके जीवभावेन तदतीतत्रयं क्रमात् \।
 
@@ -2172,8 +1734,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२१० \।\।
 
-
-
 प्रतितामहपूर्वं तु समतीतत्रयं न्यसेत् \।
 
 सामान्येन षडङ्गेन त्वेवमुक्तं स्वकेन वा \।\।
@@ -2181,8 +1741,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२११ \।\।
-
-
 
 मन्त्रेण श्राद्धदाने तु विनियोगं द्विजार्चने \।
 
@@ -2192,8 +1750,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२१२ \।\।
 
-
-
 सभोगमपवर्गं च मन्त्रैकस्मादवाप्यते \।
 
 कैवल्यं केवलं चैव द्वितीयादमलेक्षण \।\।
@@ -2201,8 +1757,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२१३ \।\।
-
-
 
 ससुहृन्मन्त्रवर्गस्य न्यसेदव्यक्तमन्त्रराट् \।
 
@@ -2212,8 +1766,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२१४ \।\।
 
-
-
 न तद्वै सविशेषं च पुनरेव\[च\]मे शृणु \।
 
 सुहृत्प्रपूर्वमिश्राणामनिरुद्धं हि वाचकम् \।\।
@@ -2221,8 +1773,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२१५ \।\।
-
-
 
 प्रद्युम्नमन्त्रवर्गस्य कामाद् द्वाभ्यां द्वयं ततः \।
 
@@ -2232,8 +1782,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२१६ \।\।
 
-
-
 मह (ता तन्मु ) दाप्तमुखेनैव तर्पणं यन्महामते \।
 
 नवमूर्त्यधिकारेण त्रिप्रकारमथोच्यते \।\।
@@ -2242,8 +1790,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२१७ \।\।
 
-
-
 समित्राणां च वात्सल्याद् द्विजानां विष्णुना न्यसेत् \।
 
 ततो वैराजमन्त्रेण मातृवर्गस्य पौष्कर \।\।
@@ -2251,8 +1797,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२१८ \।\।
-
-
 
 त्रिभिर्नारायणद्यैस्तु पित्रादीनां त्रयं क्रमात् \।
 
@@ -2264,8 +1808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२१९ \।\।
 
-
-
 पितॄणा यजमानस्य देहलाभे ( 
 
 भान् ) विनैव हि \।
@@ -2276,8 +1818,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२२० \।\।
 
-
-
 समन्त्रपञ्चकं विद्धि --------------------- \।
 
 प्रतितामहनिष्ठानां यतच्छ्राद्धं हि पौष्कर \।\।
@@ -2285,8 +1825,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२२१ \।\।
-
-
 
 प्रयच्छत्यात्मलाभं तु श्राद्धकर्तुः पितृष्वपि \।
 
@@ -2296,8 +1834,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२२२ \।\।
 
-
-
 नियोजनं द्विजेन्द्राणां पञ्चानां श्राद्धकर्मणि \।
 
 मित्रवर्गात् समारभ्य परमेतद्धि वश्वरम् \।\।
@@ -2305,8 +1841,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२२३ \।\।
-
-
 
 सामग्रीभिः समोपेतं कर्तुः पितृगणस्य च \।
 
@@ -2316,8 +1850,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२२४ \।\।
 
-
-
 कालमाजीवितं विप्र श्रद्धापूतेन चेतसा \।
 
 कृपया च समानानां संभवे सति पौष्कर \।\।
@@ -2325,8 +1857,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२२५ \।\।
-
-
 
 काम्ये ऽस्मिञ्श्राद्धदाने तु पङ्क्तया नान्यत्र योजयेत् \।
 
@@ -2336,8 +1866,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२२६ \।\।
 
-
-
 हृन्मन्त्रेणाब्जसंभूत सर्वेषां विन्यसेत् ततः \।
 
 प्रणवेन स्वनाम्ना च ज्ञात -------हृदादिषु \।\।
@@ -2345,8 +1873,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२२७ \।\।
-
-
 
 अस्त्रभूषणहेतीश पूर्वमन्त्रान् सगोचरे \।
 
@@ -2356,8 +1882,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२२८ \।\।
 
-
-
 विप्रमेकमुदग्वक्रं ( क्त्रं ) मुख्यमन्त्रेण योजयेत् \।
 
 द्वयं चोदङ्मुखं तत्र ह्रन्मन्त्रेणानुसन्ध्य च \।\।
@@ -2366,8 +1890,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२२९ \।\।
 
-
-
 सुहृम्नित्रं द्विवेतं (जेतं ) तु मातृवंशमथाब्जज \।
 
 पितृवंशं हि निःशेषं स्मरेदपरदेहगम् \।\।
@@ -2375,8 +1897,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२३० \।\।
-
-
 
 मण्डले त्वम्बुपात्रस्थ चक्रं वा नृहरिं यजेत् \।
 
@@ -2388,8 +1908,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२३१ \।\।
 
-
-
 तृप्तये पितृवर्गस्य यथा मातृकुलस्य च \।
 
 सर्वं जनमातो ऽन्येषां प्रीतये च स्वशक्तितः \।\।
@@ -2397,8 +1915,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२३२ \।\।
-
-
 
 गवा ग्रासं समुद्धृत्य दद्याद् घृतमधुप्लुतम् \।
 
@@ -2408,8 +1924,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२३३ \।\।
 
-
-
 आत्मवंशाधिकारेण कर्यादेवमतो ऽन्यथा \।
 
 पौरोहित्येन कृपया प्रीत्या वान्यस्य कस्य चित \।\।
@@ -2417,8 +1931,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२३४ \।\।
-
-
 
 निर्वर्तने तदीयं हि तत्पूर्वं विहितं कुलम् \।
 
@@ -2428,8 +1940,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२३५ \।\।
 
-
-
 आवस्तिमूर्ध्नो हृदयमाहृदो मसतकावधि \।
 
 अनिरुद्धादयो मन्त्राश्चत्वारो विनिवेश्य च \।\।
@@ -2437,8 +1947,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२३६ \।\।
-
-
 
 सुगतिप्राप्तये विप्र पितॄणां नित्यमेव हि \।
 
@@ -2448,8 +1956,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२३७ \।\।
 
-
-
 चत्वारश्चानिरुद्धान्तो योक्तव्या वा महामते \।
 
 प्रणवेन हृदि ब्रह्मन् शान्तं संविन्मयं तु वा \।\।
@@ -2457,8 +1963,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२३८ \।\।
-
-
 
 समीशनलतोयक्ष्माभूतानां व्य ( व्या ) पकं क्रमात् \।
 
@@ -2468,8 +1972,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२३९ \।\।
 
-
-
 अपेक्षयानिरुद्धाद्यं पृथिव्यादिचतुर्ष्वथ \।
 
 रक्षार्थं नृहरिं न्यस्त्वा नवमूर्तेः परं द्विज \।\।
@@ -2477,8 +1979,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२४० \।\।
-
-
 
 मूर्धास्यकण्ठहृन्नाभिगुह्यजानुद्वेय त्वथ \।
 
@@ -2488,8 +1988,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२४१ \।\।
 
-
-
 हृदम्बरे तु भगवान् वासुदेवो ऽप्यधोक्षजः \।
 
 क्ष्मान्तानां बुद्धिपूर्वाणां क्रमात् सङ्कर्षणादिकम् \।\।
@@ -2497,8 +1995,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२४२ \।\।
-
-
 
 या ( यो )क्तव्यमथवा विप्र पृथिव्यादिक्रमेण तु \।
 
@@ -2508,8 +2004,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२४३ \।\।
 
-
-
 अथ चिद्धृत्वधिष्ठाने वासुदेवं तु भावयेत् \।
 
 रसलोहितमांसानां मेदोमज्जास्थिषु द्विज \।\।
@@ -2517,8 +2011,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२४४ \।\।
-
-
 
 क्रमेण शुक्लधात्वन्तं न्यसेत् सङ्कर्षणादिकम् \।
 
@@ -2528,8 +2020,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२४५ \।\।
 
-
-
 वराहमन्त्रादारम्य सङ्कर्षणान्तमब्जज \।
 
 एवं दुष्टनिरासार्थं पूर्ववत् पात्रकं न्यसेत् \।\।
@@ -2537,8 +2027,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२४६ \।\।
-
-
 
 व्यापकत्वेन भगवान् बहिरभ्यन्तरे स्ववत् \।
 
@@ -2548,13 +2036,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२४७ \।\।
 
-
-
 सृष्टिसंहारयोगेन सप्तकं धातुसप्तके \।
 
 पौष्कर उवाच---
-
-
 
 सामान्येन स्वमन्त्रेण सति सन्निहितेन वै \।
 
@@ -2564,8 +2048,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२४८ \।\।
 
-
-
 न्यासार्चनादिमुक्तानां मन्त्राणां युज्यते कथम् \।
 
 विनियोगं चतुर्णां वा नवानां मन्त्रकर्मणि \।\।
@@ -2574,11 +2056,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२४९ \।\।
 
-
-
 श्रीभगवानुवाच---
-
-
 
 सषडङ्गो हि सामान्यः सर्वेषां विहितः सदा \।
 
@@ -2588,8 +2066,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२५० \।\।
 
-
-
 अनुज्ञातः ससर्वस्य चातुरात्म्यादिकं हि यत् \।
 
 गुरोरिच्छा स्वकीयात्र स्वमन्त्रादौ महामते \।\।
@@ -2597,8 +2073,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२५१ \।\।
-
-
 
 तत्रापि हि विशेषाय श्राद्धे द्वाभ्यां स उच्यते \।
 
@@ -2608,8 +2082,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२५२ \।\।
 
-
-
 स्वमन्त्रमुपसंहृत्य स्वधाम्ना च धिया सता \।
 
 ब्रह्मभावनया व्याप्त एवं कृत्वाऽश्रयादिकम् \।\।
@@ -2618,8 +2090,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२५३ \।\।
 
-
-
 यद्विप्रविग्रहे व्यस्तं मन्त्रव्यूहं तदात्मनि \।
 
 अथानियोजनीयं च क्षन्तु तत्पाणिपूर्वकम् \।\।
@@ -2627,8 +2097,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२५४ \।\।
-
-
 
 तत्रायं ( 
 
@@ -2640,8 +2108,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२५५ \।\।
 
-
-
 दक्षिणे करशाखासु द्वितीयं पञ्चसुन्यसेत् \।
 
 तदन्द्वा ( द्वा ) मे तृतीयं हि त्वङ्गुष्ठादिक्रमेण तु \।\।
@@ -2649,8 +2115,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२५६ \।\।
-
-
 
 तलद्वये दक्षिणादावनिरुद्धमतो न्यसेत् \।
 
@@ -2660,8 +2124,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२५७ \।\।
 
-
-
 यदा नवात्मा करयोस्तदङ्गुष्ठद्वये ऽच्युतः \।
 
 अष्ठकं च वराहन्तं प्राग्वदातर्जनेः क्रमात् \।\।
@@ -2669,8 +2131,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२५८ \।\।
-
-
 
 वामतर्जन ( नि )निष्ठं तु वासुदेवान्तमेव वा \।
 
@@ -2682,8 +2142,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२५९ \।\।
 
-
-
 हुतमप्यनलं भूतं प्राग्वत् पाव ( न )कतां नयेत् \।
 
 एवमिच्छावशेनैव मन्त्राणां परिवर्तनम् \।\।
@@ -2691,8 +2149,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२६० \।\।
-
-
 
 स्वाराध्या नवनिष्ठानां श्राद्धकाले ऽविरोधकृत् \।
 
@@ -2702,8 +2158,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२६१ \।\।
 
-
-
 सासनं पुष्पपात्रेण समूहं भगवन्मयम् \।
 
 तन्मध्येम्भश्चलं चित्तं पञ्चेन्द्रियसमन्वितम् \।\।
@@ -2711,8 +2165,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२६२ \।\।
-
-
 
 कुर्यात्तांम( तन्म )न्त्रपीठस्थं मध्ये पारे ऽथवा हृदि \।
 
@@ -2722,8 +2174,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२६३ \।\।
 
-
-
 सन्निधाने द्विजानां च विभोः सज्वलनस्य च \।
 
 भाव्यं सुयन्त्रितेनैव सर्वज्ञेनापि जन्तुना \।\।
@@ -2731,8 +2181,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२६४ \।\।
-
-
 
 एवं भूतैः द्विजेन्द्रैस्तु ( स्तैः ) बुद्धया तु सुविशद्धया \।
 
@@ -2742,8 +2190,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२६५ \।\।
 
-
-
 यस्मादब्जसमुद्भूत मानं यदुभयात्मकम् \।
 
 नासकृत् सर्वभावानां विशेषाच्छ्राद्धकर्मणि \।\।
@@ -2751,8 +2197,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२६६ \।\।
-
-
 
 समये\[तस्य\]योज्यं तत् पूरण ( णं ) सर्वकर्मणाम् \।
 
@@ -2762,8 +2206,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२६७ \।\।
 
-
-
 आदाय मनसा मान्त्रीमाज्ञां वै शिरसा सह \।
 
 हार्दमापाद्य वै श्राद्धं द्रव्योत्थं यद्वशाद् द्विज \।\।
@@ -2771,8 +2213,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२६८ \।\।
-
-
 
 सफलं स्यात् पितॄणां तु ज्ञानमूलं हि तत्त्वतः \।
 
@@ -2782,8 +2222,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२६९ \।\।
 
-
-
 मूलं विना क्ष्मां नाभ्येति पादपानां यथा तथा \।
 
 ज्ञानमाह्लादपूर्वेण फलत्याशु च वर्त्मना \।\।
@@ -2791,8 +2229,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२७० \।\।
-
-
 
 कारणं सर्वेन्द्रियाग्रामं बहिर्वृत्तिगतं हि यत् \।
 
@@ -2802,8 +2238,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२७१ \।\।
 
-
-
 स्वभावशक्त्या संपूर्य समास्ते सांप्रतं तु तत् \।
 
 स्वरूपाद् वन्दनं कुर्याद्विभोः सर्वेश्वरस्य च \।\।
@@ -2811,8 +2245,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२७२ \।\।
-
-
 
 शान्तसंवित्स्वरूपस्य स्पन्दानन्दमयात्मनः \।
 
@@ -2822,8 +2254,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२७३ \।\।
 
-
-
 सहस्त्रशशिसूर्याग्निप्रभया प्रोज्वलं स्थिरम् \।
 
 मरीचिचक्रसंपूर्णचिद्गर्भं सर्वतोमुखम् \।\।
@@ -2831,8 +2261,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२७४ \।\।
-
-
 
 चिदम्बरान्तरावस्थं सुशान्तं भगवत्पदम् \।
 
@@ -2842,8 +2270,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२७५ \।\।
 
-
-
 स्मरेन्मरीचिकोणस्थं स्वभावाह्लादपिण्डकम् \।
 
 स्वकं पितृसमूहं तु स्फुरन्तं कर्मशान्तये \।\।
@@ -2851,8 +2277,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२७६ \।\।
-
-
 
 महतः पावकाद्यद्वच्छक्तिर्दहनलक्षणा \।
 
@@ -2862,8 +2286,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२७७ \।\।
 
-
-
 तद्वदेव हि निर्यातः किन्तु सङ्क्स्पनिश्चयात् \।
 
 अग्नीषोमौ समाश्रित्य पितरश्चेश्वरेच्छया \।\।
@@ -2871,8 +2293,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२७८ \।\।
-
-
 
 प्रकाशमन्त्रराड्बाह्यं मायाकाशव\[शाद्\]द्विज \।
 
@@ -2882,8 +2302,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२७९ \।\।
 
-
-
 मूलान्तःकरणेनैव सेन्द्रियेण समाब्जज \।
 
 मायाकाशवृतेनैव हृन्मन्त्रं भ्रामयेक्त्ततः \।\।
@@ -2891,8 +2309,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२८० \।\।
-
-
 
 तद्दुः (खमु ) खादुपशान्त्यर्थं रश्मिरन्ध्रेण केनचित् \।
 
@@ -2902,8 +2318,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२८१ \।\।
 
-
-
 तत्कालं तत्कुलोद्भेतमनुभाववशाद् द्विज \।
 
 अग्नीषोमाश्रयस्थं च चित्पिण्डं तत्तु वै क्रमात् \।\।
@@ -2911,8 +2325,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२८२ \।\।
-
-
 
 अन्तःकरणबीजं तु महामोहबलोज्झितम् \।
 
@@ -2922,8 +2334,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२८३ \।\।
 
-
-
 क्ष्मान्तं नारायणाद्यैस्तु ह्यध्यक्षान्तैरधिष्ठितम् \।
 
 प्राणब्रह्मावसानैर्वा वासुदेवादिकैः क्रमात् \।\।
@@ -2931,8 +2341,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२८४ \।\।
-
-
 
 बुद्धया व्याप्तैर्यथावस्थैः प्रभवस्थितिलक्षणैः \।
 
@@ -2942,8 +2350,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२८५ \।\।
 
-
-
 यद्वशात् प्रतिपत्तिर्वै कर्तुर्भवति सुस्फुटा \।
 
 सन्निवेशवशेनातो हार्दे ऽस्मिन् पितृतर्पणे \।\।
@@ -2952,8 +2358,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२८६ \।\।
 
-
-
 स्वानुष्ठानवशेनापि मन्त्राणाम्मुदयान् स्मरन् \।
 
 अमूर्तमथवा मूर्तमधिदैवव्यवस्थया \।\।
@@ -2961,8 +2365,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२८७ \।\।
-
-
 
 चिद्बीजनिचयाधार ( रं ) ब्द्यात्मकं यत् पुरोदितम् \।
 
@@ -2974,8 +2376,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२८८ \।\।
 
-
-
 अभिन्नलक्षणेनैव प्रणवेन महामते \।
 
 ध्यायोच्चित्कर्णिकामध्ये भूमौ बीजत्वमागतम् \।\।
@@ -2983,8 +2383,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२८९ \।\।
-
-
 
 सतुर्यमपृथग्भूतैः सत्वाद्यैरनुपप्लुतम् \।
 
@@ -2994,8 +2392,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२९० \।\।
 
-
-
 प्रतितामहसंज्ञं तु चैतन्यत्वेन पौष्कर \।
 
 सुषुप्तिरूप (संज्ञ ) ताप्राप्तमीषत्कालुष्यमागतम् \।\।
@@ -3003,8 +2399,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२९१ \।\।
-
-
 
 विश्रान्तं कर्णिकाकाशदेशे चिद्भास्करोदरे \।
 
@@ -3014,8 +2408,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२९२ \।\।
 
-
-
 स्वेनान्तःकरणेनैव रञ्जितं स्वं पितामहम् \।
 
 एकारेण स्वनाम्ना च स्वप्नेनाविष्वकृतस्य च \।\।
@@ -3023,8 +2415,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२९३ \।\।
-
-
 
 संस्थितिं संस्मरेत्तस्य द्वयात्मना माश्रितस्य च \।
 
@@ -3034,8 +2424,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२९४ \।\।
 
-
-
 मनोबुद्धिरहङ्काररञ्जितं संस्मरेत्ततः \।
 
 जाग्रेणाकूलितेनैव पिता चैतन्यमब्जज \।\।
@@ -3043,8 +2431,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२९५ \।\।
-
-
 
 ब्रह्मनायन्तराकाशे ब्रह्मरन्ध्रपथावनौ \।
 
@@ -3054,8 +2440,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२९६ \।\।
 
-
-
 दैवत्यं वासुदेवं च साकारं वार्ऽकबिम्बवत् \।
 
 तदात्मना च बोद्धव्यौ विबुधौ विश्वसंज्ञकौ \।\।
@@ -3063,8 +2447,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२९७ \।\।
-
-
 
 तन्मूलं हि यतः सर्वं कर्मिणां पितृसंग्रहः \।
 
@@ -3074,8 +2456,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.२९८ \।\।
 
-
-
 मध्याह्नभास्कराकारं मूर्तं वा ज्ञानमूर्तिभृत् \।
 
 पैतामहीयमेवं हि चैतन्यं कमलोद्भव \।\।
@@ -3083,8 +2463,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.२९९ \।\।
-
-
 
 प्रद्युम्नाधिष्ठितं ध्यायेत् स्वस्थानेन पुरोदितम् \।
 
@@ -3094,8 +2472,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३०० \।\।
 
-
-
 मूर्ध्नश्छिद्रप्रवेशे तु अमूर्तं मूर्तमेव वा \।
 
 आराध्य मन्त्रेणाढ्यं वा स्थानं कुर्यादधिधिष्ठितम् \।\।
@@ -3103,8 +2479,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३०१ \।\।
-
-
 
 हृन्मन्त्रेणापरं विप्र शिरसा तत् परं तु तत् \।
 
@@ -3114,8 +2488,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३०२ \।\।
 
-
-
 शक्तिमन्त्रेण तनुतीं हृन्मन्त्रानुगतां स्मरेत् \।
 
 शिरसा सह चास्त्राख्यं शिखया सह लोचनम् \।\।
@@ -3123,8 +2495,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३०३ \।\।
-
-
 
 नवमूर्तेश्चतुष्कं तु चिद्रूपं केवलं हृदि \।
 
@@ -3134,8 +2504,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३०४ \।\।
 
-
-
 ॐ तत्सदिति चैतद्वत् कर्णिकागहनान्तरे \।
 
 व्यक्तं कण्ठावधोद्देशं कुर्याद्गरुडगादिना \।\।
@@ -3143,8 +2511,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३०५ \।\।
-
-
 
 ब्रह्मरन्ध्रग्रतं ध्यायेत् खवराहनृकेसरि\[ म्\] \।
 
@@ -3154,8 +2520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३०६ \।\।
 
-
-
 स्वभावशीतलं चोष्णं स्वादु भिन्नजलद्वयम् \।
 
 एवं भोगाप्तये कुर्यादेतस्माद्वमत्ययं हि ये ( यः ) \।\।
@@ -3163,8 +2527,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३०७ \।\।
-
-
 
 ज्ञेयं तन्मोक्षदं विप्र नित्यमेवाफलार्थिनाम् \।
 
@@ -3174,8 +2536,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३०८ \।\।
 
-
-
 न्यस्याधिदेवतात्वेन शक्तित्वेन हृदादयः \।
 
 ज्ञानादीनां हि वै यस्माद्भोग्यास्त्रीणि ( स्त्रा )बलादयः \।\।
@@ -3183,8 +2543,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३०९ \।\।
-
-
 
 ते च षड् हृदयादीनि निर्णीतानि च वै पुरा \।
 
@@ -3194,8 +2552,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३१० \।\।
 
-
-
 न्यस्त्वा मनीषितैरन्यैश्चिद्रूपैः पितृभिः सह \।
 
 सन्तर्पणं ततः पार्श्वे विश्वेदेवपुरस्सरम् \।\।
@@ -3203,8 +2559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३११ \।\।
-
-
 
 जलक्षणेन सन्तर्प्यौ प्रणवेन तु तौ पुरा \।
 
@@ -3214,8 +2568,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३१२ \।\।
 
-
-
 हृदिप्राणकलामूले प्रोच्चरत् प्रणवं स्मरेत् \।
 
 दुग्धबुद्बुदसङ्काशममृतं हिमशीतलम् \।\।
@@ -3223,8 +2575,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३१३ \।\।
-
-
 
 तरसारतयं तं च ( 
 
@@ -3236,8 +2586,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३१४ \।\।
 
-
-
 पितरो भगवद्रूपाः साकारा वह्निराकृतिः \।
 
 ब्रह्मरन्ध्रावधिं यावद्विसर्पन्तं स्मरेत ( च्च ) तत् \।\।
@@ -3245,8 +2593,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३१५ \।\।
-
-
 
 संपूर्णेन्दुत्वमापन्नं भावयेत्तत्र तद् द्विज \।
 
@@ -3256,8 +2602,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३१६ \।\।
 
-
-
 प्राणशक्तिर्ज्वलद्रूपा तदीया तच्छिरोपरि \।
 
 सूर्यमण्डलमध्यस्था युगान्तानलवत् स्मरेत् \।\।
@@ -3265,8 +2609,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३१७ \।\।
-
-
 
 तत्तेजसावलीनं तद्धयायेन्मण्डलमामृतम् \।
 
@@ -3276,13 +2618,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३१८ \।\।
 
-
-
 (
 
 अत्र ग्रन्थपात इव )
-
-
 
 मूलनिष्ठं क्रमाद्धयायेत् चेतसा निर्मलेन तु \।
 
@@ -3292,8 +2630,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३१९ \।\।
 
-
-
 तुर्यभूमिं तु पित्रादिलयध्यानधिया नयेत् \।
 
 इति भोगाप्तये कुर्याद् भूयो भूयो द्विजोत्तम \।\।
@@ -3301,8 +2637,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३२० \।\।
-
-
 
 पितॄणाममृतं श्राद्धं सर्वदुःखक्षयप्रदम् \।
 
@@ -3312,8 +2646,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३२१ \।\।
 
-
-
 अन्तर्मायाम्बराद्यन्तं क्षीणसंस्कारलक्षणम् \।
 
 आमूलादुल्लसन्तं च ऊर्ध्वदेहव्यपेक्षया \।\।
@@ -3321,8 +2653,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३२२ \।\।
-
-
 
 औदयेन क्रमेणैव सूर्यबिम्बमिवाम्बरे \।
 
@@ -3332,8 +2662,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३२३ \।\।
 
-
-
 न रोगमायाति पुनः कर्मभमौ सचित्फलः \।
 
 एवं यत् पातयेत् पिण्डं ब्रह्मक्षेत्रसमाश्चिते \।\।
@@ -3342,8 +2670,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३२४ \।\।
 
-
-
 अनन्ते विपुले पूर्णे चिद्रूपे त्वस्फुटं द्विज \।
 
 स्ववंशोत्तारकं विद्धि ज्ञानकर्मपरायणम् \।\।
@@ -3351,8 +2677,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३२५ \।\।
-
-
 
 किन्त्वसौ दुर्लभो यस्य भावनैषां हि तत्त्वतः \।
 
@@ -3364,8 +2688,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३२६ \।\।
 
-
-
 प्रवर्तेताथ सिद्धयर्थं बाह्यतश्श्राद्धकर्मणि \।
 
 मन्त्रेशवह्निविप्राणां सन्निधाने यथाक्रमम् \।\।
@@ -3373,8 +2695,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३२७ \।\।
-
-
 
 अभ्यर्थासनकर्माख्यं मन्त्रं यदवतारितम् \।
 
@@ -3384,8 +2704,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३२८ \।\।
 
-
-
 स्वयं श्राद्धात्मना भूत्वा प्रोद्धरस्व भवार्णवात् \।
 
 भुङ्क्ष त्वं शक्तिनिष्ठेन स्वयं ज्ञानादिकेन वै \।\।
@@ -3393,8 +2711,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३२९ \।\।
-
-
 
 करणेन बलाद्यं हि भोगजालं त्रिलक्षणम् \।
 
@@ -3404,8 +2720,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३३० \।\।
 
-
-
 क्रमात् पितृगणं सर्वमिदमुच्चार्य वै ततः \।
 
 ॐ ॐ ॐ ॐ पितॄणां च तृप्तये परमेश्वर \।\।
@@ -3413,8 +2727,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३३१ \।\।
-
-
 
 उत्तारणार्थमपि वै यजाम्योम्ॐ नमो नामः \।
 
@@ -3424,8 +2736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३३२ \।\।
 
-
-
 स्मरन् बाह्याम्बरावस्थं विन्यस्तं यत् परात्मनि \।
 
 ततो विभवतः सर्वैरर्ध्यपाद्यपुरस्सरैः \।\।
@@ -3433,8 +2743,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३३३ \।\।
-
-
 
 भोगैस्ताम्बूलपर्यन्तैर्मन्त्रनाथं यजेद् द्विज \।
 
@@ -3444,8 +2752,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३३४ \।\।
 
-
-
 मन्त्रमुच्चारणीयं च श्राद्धदानेषु सर्वदा \।
 
 ॐ वौषडमृताभं तु बलवीर्यमयं त्विदम् \।\।
@@ -3453,8 +2759,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३३५ \।\।
-
-
 
 तेजःस्वभावममलं भोगं भुङ्क्ष्व्ॐ नमो नमः \।
 
@@ -3464,8 +2768,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३३६ \।\।
 
-
-
 एवं यदबृहद्रूपं पाणौ कृत्वा तु पात्रगम् \।
 
 तथा चाविद्यमानं यन्मनसा वाद्य धारणा \।\।
@@ -3473,8 +2775,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३३७ \।\।
-
-
 
 पितॄणां तृप्तये ह्येवमिष्ट्वा मन्त्रेश्वरं ततः \।
 
@@ -3484,8 +2784,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३३८ \।\।
 
-
-
 ॐ नमो ऽस्मप्तितृगणात् प्रीतो भव जगन्मय \।
 
 तेषामस्त्विदमक्षय्यं यत् कृतं च त्वयाऽत्मसात् \।\।
@@ -3493,8 +2791,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३३९ \।\।
-
-
 
 इति कर्तव्यता सा वै पैत्रं स्थानात्मना नयेत् \।
 
@@ -3504,8 +2800,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३४० \।\।
 
-
-
 बहिर्हृत्कमलोद्देशे स्मरेत् पितृगणं क्रमात् \।
 
 अथान्तर्माननिष्ठं तु ह्यर्घ्याद्यैः भोगसंचयैः \।\।
@@ -3513,8 +2807,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३४१ \।\।
-
-
 
 द्रवत्पूर्णेन्दुधवलं मरीचिचयसंकुलम् \।
 
@@ -3524,8 +2816,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३४२ \।\।
 
-
-
 तेजोमये पितृव्यूहे पितृसंङ्घं हि तत् पुनः \।
 
 मध्याह्नार्कायुताभं च संस्मरेद्वि (द्वि )स्फुरत्प्रभम् \।\।
@@ -3533,8 +2823,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३४३ \।\।
-
-
 
 तद्वयापारे निवृते ऽथ रोमरन्ध्रे शनैश्शनैः \।
 
@@ -3544,8 +2832,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३४४ \।\।
 
-
-
 पीठसन्निहितं मन्त्रादादायेन्दुधिया ततः \।
 
 यायादग्निसमीपं तु ध्यायेत्तत्रोदितं प्रभुम् \।\।
@@ -3553,8 +2839,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३४५ \।\।
-
-
 
 सन्तर्प्य विधिना भक्त्या पूर्णान्तं मन्त्रराट् ततः \।
 
@@ -3564,8 +2848,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३४६ \।\।
 
-
-
 मध्वाज्यतिलदर्भाणां संपुटे रजतान्विते \।
 
 अभिमान्त्रितमाराध्यैस्ततस्तैस्ताडनादिभिः \।\।
@@ -3573,8 +2855,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३४७ \।\।
-
-
 
 नीत्वा निर्देषतां पश्चात् स्थगयेदम्बरादिना \।
 
@@ -3584,8 +2864,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३४८ \।\।
 
-
-
 क्रमात् कुशानामूर्ध्वे तु यथास्थानविभागशः \।
 
 संसिच्य प्रणवेनाथ सतिलेन तु वारिणा \।\।
@@ -3593,8 +2871,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३४९ \।\।
-
-
 
 हेमपूर्वाणि तत्राग्रे पात्राणि क्रमशो न्यसेत् \।
 
@@ -3606,8 +2882,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३५० \।\।
 
-
-
 मन्त्रपूर्वेण नाम्ना तं सनमस्केन निक्षिपेत् \।
 
 तिलास्त्वम्बुकुशाग्राणि त्विदं तेर्ऽघ्यं पठन् क्रमात् \।\।
@@ -3615,8 +2889,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३५१ \।\।
-
-
 
 प्रतितामहपर्यन्तामेवं कृत्वार्ध्यकल्पनाम् \।
 
@@ -3626,8 +2898,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३५२ \।\।
 
-
-
 पूर्ववन्नामगोत्रे तु ह्यर्ध्यमापाद्य पात्रगम् \।
 
 पृथक् पृथग्वा पात्राणामासीनद्विजसङ्खयया \।\।
@@ -3635,8 +2905,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३५३ \।\।
-
-
 
 प्रकल्पितमथ स्वं स्वं नीत्वा सार्ध्यं तु भोजनम् \।
 
@@ -3646,8 +2914,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३५४ \।\।
 
-
-
 सावशेषं तथान्येषां हस्तेर्ऽध्यं प्रतिपाद्य च \।
 
 कुर्यात् सार्ध्योदकानां च सुमर्यादासु चान्तरे \।\।
@@ -3655,8 +2921,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३५५ \।\।
-
-
 
 संस्थानं सर्वपात्रस्य दत्ते सार्ध्योदके सति \।
 
@@ -3666,8 +2930,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३५६ \।\।
 
-
-
 विसृज्य नयने स्वे वै पात्रे ऽन्यस्मिंस्ततो द्विज \।
 
 क्रमादाहृत्य तत्तोयं प्रयायादग्निसन्निधिम् \।\।
@@ -3675,8 +2937,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३५७ \।\।
-
-
 
 ततस्तदग्रे तत्पात्रं तिलाम्बुपरिपूरितम् \।
 
@@ -3686,8 +2946,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३५८ \।\।
 
-
-
 संविभज्य पितृव्यूहं तत्रोङ्कारेण भावयेत् \।
 
 विमलाम्बरसंस्थ तु यथा नक्षत्रसञ्चयम् \।\।
@@ -3695,8 +2953,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३५९ \।\।
-
-
 
 तथा कमलसंभत तस्मिन् पात्रान्तरे स्थिते \।
 
@@ -3706,8 +2962,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३६० \।\।
 
-
-
 अन्तः सर्वेश्वरं देवं स्पन्दमानं स्वतेजसा \।
 
 ततोर्ऽध्यैः कुसुमैर्गन्धैः कृत्वा तेषां पुरार्चनम् \।\।
@@ -3715,8 +2969,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३६१ \।\।
-
-
 
 मधुलिप्ते कुशाकाण्डे तत्र द्वे सलिले न्यसेत् \।
 
@@ -3726,8 +2978,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३६२ \।\।
 
-
-
 द्यावापृथिव्यौ ते पात्रे बोद्धव्ये द्विज पूरिते \।
 
 निधाय चार्ययित्वा तु स्वोत्तरोत्तरमूलतः \।\।
@@ -3735,8 +2985,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३६३ \।\।
-
-
 
 तासु सूक्ष्मपितृव्यक्तिं
 
@@ -3746,8 +2994,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३६४ \।\।
 
-
-
 स्ववृत्तिमार्गेणायातां रुद्धां कुर्यात् कुशासने \।
 
 नत्रोदितक्रमेणैव प्रभावेन विभावयेत् \।\।
@@ -3755,8 +3001,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३६५ \।\।
-
-
 
 क्वचिच्छब्दैकवृत्तौ तु पूर्वलक्षणलक्षिताम् \।
 
@@ -3766,8 +3010,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३६६ \।\।
 
-
-
 तिलोदकेन संपूर्य अर्ध्यपात्रात् कराञ्जलिम् \।
 
 धारां सन्तानवद्दद्यात् क्रमात्तद्वै पठन् द्विज \।\।
@@ -3775,8 +3017,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३६७ \।\।
-
-
 
 नाम प्रणवनिष्ठं तु एतत्ते पाद्यमस्त्विति \।
 
@@ -3786,8 +3026,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३६८ \।\।
 
-
-
 रजातलंकृतेनैव सपवित्रेण पाणिना \।
 
 व्यापकं चित्स्वरूपं तु धातुसप्रकमूर्तिधृत् \।\।
@@ -3795,8 +3033,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३६९ \।\।
-
-
 
 ब्रह्मभावनयान्तं निश्चयीकृत्य चेतसा \।
 
@@ -3806,8 +3042,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३७० \।\।
 
-
-
 संभव च लयस्थानं परमान्दलक्षणम् \।
 
 अतस्तमादौ पात्रस्थमर्ध्यपुष्पानुलेपनैः \।\।
@@ -3815,8 +3049,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३७१ \।\।
-
-
 
 प्रणवेनार्चनीयं च तेनैवापाघ वै ततः \।
 
@@ -3826,19 +3058,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३७२ \।\।
 
-
-
 सर्वेशक्त्यात्मकं यस्मात् सन्ति
-
-
 
 गृह्णन्ति नियता ( तां ) मूर्तिं कर्मणां प्रतिपत्तये \।\।
 
 पौ. सं.
 
 २७.३७३ \।\।
-
-
 
 सनाभीयाननुग्रह्यानधिकृत्याखिलान् पितॄन् \।
 
@@ -3848,8 +3074,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३७४ \।\।
 
-
-
 तथान्नमूर्तिमापन्नांस्तानपि क्रमशो यजेत् \।
 
 अलकाद्यं हि वै भाण्डं पूरितं गालिताम्भसा \।\।
@@ -3857,8 +3081,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३७५ \।\।
-
-
 
 मधुदर्भतिलोपेतं कृत्वान्नं तत्र वै स्मरेत् \।
 
@@ -3868,8 +3090,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३७६ \।\।
 
-
-
 बहिः स्वस्मिन्नुल्लसन्तं ध्यायेत्तेनांभसा सह \।
 
 कुम्भादुत्कीर्यमाणेन निर्मलं शीतशीकरम् \।\।
@@ -3877,8 +3097,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३७७ \।\।
-
-
 
 आदायाथ कराभ्यां तु प्राक्तिलं मधुसंप्लुतम् \।
 
@@ -3888,8 +3106,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३७८ \।\।
 
-
-
 तिलान् ---( ञ्जलिं )स्तेन भागवनासहितेन च \।
 
 पितॄणां क्रमशो दद्यात् तृप्तयेंभ (येंजभ )स्तु मन्त्रितान् \।\।
@@ -3897,8 +3113,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३७९ \।\।
-
-
 
 अथ प्राङ्मुखपूर्वाणां द्विजेन्द्राणां समाचरेत् \।
 
@@ -3908,8 +3122,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३८० \।\।
 
-
-
 सर्वाङ्गिकं क्रमाद्विप्र आपादान्मस्तकावधि \।
 
 अर्ध्याम्बुमिश्रितैः पुष्पैश्चन्दनाद्यैर्विलेपनैः \।\।
@@ -3917,8 +3129,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३८१ \।\।
-
-
 
 ततः स (स्तु )पक्षव्यजनैस्तेषामुद्बोध्य मारुतम् \।
 
@@ -3928,8 +3138,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३८२ \।\।
 
-
-
 तता ( तो )ऽलंकृत्य वै शक्त्या कङ्कणाद्यैर्विभूषितैः \।
 
 उपवीतान् सोत्तरीयान् दद्यात्तेषामनन्तरम् \।\।
@@ -3937,8 +3145,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३८३ \।\।
-
-
 
 शिरोमाल्यानि शुभ्राणि ततः कण्ठस्त्रजानि च \।
 
@@ -3948,8 +3154,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३८४ \।\।
 
-
-
 ततो निवेद्य वै तेषां नयनाञ्जनमुत्तमम् \।
 
 दर्शयेद्दर्पणं पश्चात् पुरतः कुसुमान् क्षिपेत् \।\।
@@ -3957,8 +3161,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३८५ \।\।
-
-
 
 सुगन्धधूपपूतेन ततस्तान् धूपयेत् क्रमात् \।
 
@@ -3968,8 +3170,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३८६ \।\।
 
-
-
 उपानहौ .......तेषां छत्त्राणि विविधानि च \।
 
 पादुकाः पादपीठानि आसनानि च तानि च \।\।
@@ -3977,8 +3177,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३८७ \।\।
-
-
 
 शयनानि विचित्राणि शिबिकाश्वादि चैव हि \।
 
@@ -3988,8 +3186,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३८८ \।\।
 
-
-
 तन्मूलमथवा शक्त्या सर्वेषां विनिवेद्य ( स )च \।
 
 समवायश्च साधारश्चेतसः परितुष्टये \।\।
@@ -3997,8 +3193,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३८९ \।\।
-
-
 
 पुनरर्ध्योदकं पाणौ दत्वा मन्त्रं समुच्चरन् \।
 
@@ -4008,8 +3202,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३९० \।\।
 
-
-
 मधुपर्केण चान्नेन श्रद्धया विविधेन च \।
 
 भक्षैः सफलमूलैस्तु पावनैः पानकैस्ततः \।\।
@@ -4017,8 +3209,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३९१ \।\।
-
-
 
 रसालाभिः सुगन्धाभिः शृतेन पयसा सह \।
 
@@ -4028,8 +3218,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३९२ \।\।
 
-
-
 प्रीतये ऽखिलविप्राणां समं कृत्वा निवेद्य च \।
 
 प्राग्वदर्ध्योदकं पाणौ दद्यात् संप्राशनाय च \।\।
@@ -4037,8 +3225,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३९३ \।\।
-
-
 
 संस्मरन् मनसा मन्त्रं प्रतिपद्य द्विजाम्भसा \।
 
@@ -4048,8 +3234,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३९४ \।\।
 
-
-
 कलां वै तुष्टये तेषां सुखबोधमहाफलम् \।
 
 तपा ( था ) धिकं धर्मशास्त्रं मोक्षशास्त्रमथोत्तमम् \।\।
@@ -4057,8 +3241,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३९५ \।\।
-
-
 
 उद्धोषयन् गुणांस्त ( द्य ) -------यस्योपयुज्यते \।
 
@@ -4068,8 +3250,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३९६ \।\।
 
-
-
 पूर्ववच्चानुसन्धाने संपन्ने सति सर्वदा \।
 
 कुर्यादुदकदानं तु भूयः सन्तर्पयेद् द्विज \।\।
@@ -4077,8 +3257,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३९७ \।\।
-
-
 
 पिण्डदानावशिष्टेन अन्नेन सह वारिणा \।
 
@@ -4088,8 +3266,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.३९८ \।\।
 
-
-
 कराञ्जलिं च संपूर्य क्षिपेत् पिण्डं ततो बहिः \।
 
 द्विजानामग्रतश्चापि सह चोदकधारया \।\।
@@ -4097,8 +3273,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.३९९ \।\।
-
-
 
 क्षिपेद् उत्तरदिग्भागान् निनयेद् अन्तकास्पदम् \।
 
@@ -4108,8 +3282,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४०० \।\।
 
-
-
 तद्वासः परिवर्त्याथ ऊर्ध्वं वा संस्मरन् हृदि \।
 
 स्वमन्त्रेणाचमेत् पश्चाद् हृन्मन्त्रेणामलात्मना \।\।
@@ -4117,8 +3289,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४०१ \।\।
-
-
 
 संपन्नमस्तु भोः सर्वं चोदयेद् आसनस्थितान् \।
 
@@ -4128,8 +3298,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४०२ \।\।
 
-
-
 अथ पूर्ववद् अब्दानाम् आचर्तव्यं यथाक्रमम् \।
 
 प्राङ्मुखाभ्यां विना सर्वैर् आचर्तव्यम् अतः स्थितैः \।\।
@@ -4137,8 +3305,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४०३ \।\।
-
-
 
 दद्यात् ताभ्यां तदन्ते ऽथ सर्वमुद्धृत्य चोदनम् \।
 
@@ -4148,8 +3314,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४०४ \।\।
 
-
-
 द्विज ( जा )नां चोदनं कुर्याद् भुक्तशेषस्य सांप्रतम् \।
 
 उच्यतां विनियोगं भोः प्रब्रूयुस्ते ह्यनाकुलाः \।\।
@@ -4157,8 +3321,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४०५ \।\।
-
-
 
 उद्धृतं त्वस्मदीयं वै भाण्डस्थं विभवेच्छया \।
 
@@ -4168,8 +3330,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४०६ \।\।
 
-
-
 तस्मिन् किंगेहमानीयं पृथक् कृत्य स्फुलिङ्गवत् \।
 
 स्वदेहाद्द्रेचकेनैव त्वनुसन्धाय वै ततः \।\।
@@ -4177,8 +3337,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४०७ \।\।
-
-
 
 ध्यात्वाअमृतपुटान्तस्थम् अमृतांशुसमं हृदा \।
 
@@ -4188,8 +3346,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४०८ \।\।
 
-
-
 प्रतिपाद्य स्वजायायाः शेषं ब्राह्मणकाम्यया \।
 
 विनियुज्योपसंहृत्य गोष्वापस्वा ( पः सु )द्विजानले \।\।
@@ -4197,8 +3353,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४०९ \।\।
-
-
 
 अंषट् ( उच्छिष्ट )भोजनपात्राणां कृत्वा प्राग्ज्वलनं ततः \।
 
@@ -4208,8 +3362,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४१० \।\।
 
-
-
 सहिरण्यं क्रमाद् दद्यात् पितृभ्यः प्रीणनाय च \।
 
 रक्षयेच्च सृगालेभ्यः सांप्रतं कमलोद्भव \।\।
@@ -4217,8 +3369,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४११ \।\।
-
-
 
 पितृकर्मणि मा ( पा ) त्रे ऽसिमन् सम्यक् स्थान क्रियात्मके \।
 
@@ -4228,8 +3378,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४१२ \।\।
 
-
-
 नाक्षय्यां वाचयेत् प्रीतिम् उद्दिष्टे ऽप्युदकक्रियाम् \।
 
 न पूर्णाहुतिदानं च न चोदक् परिवर्तनम् \।\।
@@ -4237,8 +3385,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४१३ \।\।
-
-
 
 पैत्र्यं पात्रम् अथोद्धाट्य स्वमन्त्रं हृत्कुशेशयात् \।
 
@@ -4248,8 +3394,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४१४ \।\।
 
-
-
 तत्पात्रं गगनोद्देशे तद् दूरे ( च )द्विषडङ्गुलात् \।
 
 द्वादशान्तं हि तत्पित्र्यं पात्राद् ऐक्यं यथाक्रमम् \।\।
@@ -4257,8 +3401,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४१५ \।\।
-
-
 
 संपश्येतांश्च मन्त्रेशान् ध्यायेद् ध्यानधिया पितॄन् \।
 
@@ -4268,8 +3410,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४१६ \।\।
 
-
-
 एवम् एकत्वम् आपन्नाः सह मन्त्रेण तेन ते ( ताः ) \।
 
 शशाङ्कशतसङ्काशम् अथ मन्त्रेश्वरं हरिम् \।\।
@@ -4277,8 +3417,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४१७ \।\।
-
-
 
 निरस्तावयवं ध्यात्वा शक्तयस्ततत्र वैष्टराः \।
 
@@ -4288,8 +3426,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४१८ \।\।
 
-
-
 आत्मसात् पितृमार्गेण तत्र तेनोदकेन च \।
 
 विसृ ( मृ ) ज्य नयने भूयः सपत्नीको दृशाब्जज \।\।
@@ -4297,8 +3433,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४१९ \।\।
-
-
 
 जलायैव च निक्षिप्य प्राग्दत्तं सह वारिणा \।
 
@@ -4310,8 +3444,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४२० \।\।
 
-
-
 मन्त्रेशम् अर्चयित्वा च पूर्ववत् प्रीणयेद् द्विज \।
 
 ततस्तदुपहार ( रं ) कृत्वा भोजनम् आचरेत् \।\।
@@ -4319,8 +3451,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४२१ \।\।
-
-
 
 बान्धवैः सह मन्त्रेशं ध्यायन् हृत्पुष्करोदरे \।
 
@@ -4330,8 +3460,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४२२ \।\।
 
-
-
 निरुच्छिष्टे तु भूभागे कृते संक्षालने ततः \।
 
 सो ( सौ )दनं व्यञ्जनीयं यद्दुःखा-------(यद् दर्भापूतं च पाणिना ) \।\।
@@ -4340,8 +3468,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४२३ \।\।
 
-
-
 तमाहृत्यापरस्मिन् वै पात्रे दर्भतिलान्विते \।
 
 क्षिपेद् दीपद्वितीयं तद्बहिर्वै दक्षिणेन च \।\।
@@ -4349,8 +3475,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४२४ \।\।
-
-
 
 स्मरन्मन्त्रं शुचौ देशे दत्वा दर्भास्तरं ततः \।
 
@@ -4362,8 +3486,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४२५ \।\।
 
-
-
 इत्येवं विधिनां श्राद्धं पितॄणां विहितं द्विज \।
 
 संसारदुःखशमनम् अचिराद् अपवर्गदम् \।\।
@@ -4371,8 +3493,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४२६ \।\।
-
-
 
 कृतम् एकप्रकारं च श्रद्धया चोभयात्मकम् \।
 
@@ -4384,8 +3504,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४२७ \।\।
 
-
-
 लोकधर्मस्थिता सा संपूरणे याति वासनाम् \।
 
 तस्माच्चित्रप्रसादं वै जायते येन कर्मणा \।\।
@@ -4393,8 +3511,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४२८ \।\।
-
-
 
 आचर्तव्यं प्रयत्नेन मन्त्रजैर्वितताप्तये \।
 
@@ -4404,8 +3520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४२९ \।\।
 
-
-
 और्ध्वदेहिकसंज्ञं तु व्यापारं समनन्तरम् \।
 
 पूर्वोक्तफलसिद्धयर्थं तन्मे निगदतः शृणु \।\।
@@ -4413,8 +3527,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४३० \।\।
-
-
 
 तच्चापि द्विगुणं विद्धि द्विविधं (प्रथमं ) कमलोद्भव \।
 
@@ -4424,8 +3536,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४३१ \।\।
 
-
-
 व्यक्तादिवृत्तिस्थानेषु हितं नित्यं तमेव हि \।
 
 प्राग्वद् आराधिते मन्त्रे श्रद्धया संप्रदत्तवत् \।\।
@@ -4433,8 +3543,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४३२ \।\।
-
-
 
 आतृप्तेः भगवत्प्रीतिपर्यन्तम् अमलेक्षण \।
 
@@ -4444,8 +3552,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४३३ \।\।
 
-
-
 ओदनेनात्मकेनैव भोजनं क्रिययोज्झितम् \।
 
 आहृष्टेर् अल्पसत्वानां सर्वेषां सर्वदा हितम् \।\।
@@ -4453,8 +3559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४३४ \।\।
-
-
 
 ज्वलदव्यक्तबीजान्तं निविष्ठं वर्तते ततः \।
 
@@ -4464,8 +3568,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४३५ \।\।
 
-
-
 तद् दशांशं हि वै कालं बाह्यं च दिनलक्षणम् \।
 
 समाश्रित्य क्रमेणैव कर्ता तदनुकल्पवान् \।\।
@@ -4473,8 +3575,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४३६ \।\।
-
-
 
 तत्प्राणांशानुविद्धा ( द्धं च ) ---व्यक्तम् इन्द्रियलक्षणम् \।
 
@@ -4484,8 +3584,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४३७ \।\।
 
-
-
 श्रोत्रेन्द्रियादिकाश्चैव उपस्थेन्द्रियपश्चिमाः \।
 
 यमाश्रित्य लभेताशु समतीते दशाहिके \।\।
@@ -4493,8 +3591,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४३८ \।\।
-
-
 
 एकादशे ऽह्नि विप्रेन्द्र अस्मिन् शक्तित्वमेव हि \।
 
@@ -4504,8 +3600,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४३९ \।\।
 
-
-
 विनाडि सत्यपूर्वेण तत्प्राणांशेन वै पुनः \।
 
 द्विषट्कलक्षणेनैव शेषं तत्त्वगणं द्विज \।\।
@@ -4513,8 +3607,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४४० \।\।
-
-
 
 बुद्धितत्वान्धकारं तु व्यञ्जनीयं यथाक्रमम् \।
 
@@ -4524,8 +3616,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४४१ \।\।
 
-
-
 ततस्त्वाशब्दतन्मात्रात् पञ्चभिः पञ्चकं तु वै \।
 
 तन्मात्राणां व्यञ्जनीयमाकाशाद्यम् अतः परम् \।\।
@@ -4533,8 +3623,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४४२ \।\।
-
-
 
 मासानां पञ्चकेनैव क्ष्मान्तं वै भूतपञ्चकम् \।
 
@@ -4546,8 +3634,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४४३ \।\।
 
-
-
 दन्तकाष्ठे हृदा पीते पञ्चगव्येन ते पुनः \।
 
 मन्त्रे तु विधिवत् स्थाने प्रावृते चाम्बरे तथा \।\।
@@ -4555,8 +3641,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४४४ \।\।
-
-
 
 समाचम्य हृदा न्यस्य मूलं पाणितले ततः \।
 
@@ -4566,8 +3650,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४४५ \।\।
 
-
-
 संक्षेपेण निरङ्गेण ततो हृन्मन्त्रमन्त्रिताः \।
 
 सगोत्रविहितं विप्र प्रेतानुग्रहकाम्यया \।\।
@@ -4575,8 +3657,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४४६ \।\।
-
-
 
 तोयाञ्जलिंत्रयं दद्यात् तन्नाम्ना सतिलं द्विज \।
 
@@ -4586,8 +3666,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४४७ \।\।
 
-
-
 शुद्धये शुभशान्त्यर्थं जपेद् अष्टाधिकं शतम् \।
 
 स्वमन्त्राद् अस्त्रमन्त्रं वा सामान्यं द्वादशाक्षरम् \।\।
@@ -4595,8 +3673,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४४८ \।\।
-
-
 
 नवात्मबीजसङ्घातम् एकं वा भावनावशात् \।
 
@@ -4606,8 +3682,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४४९ \।\।
 
-
-
 तीर्थोद्देशे नदीतरे गृहे बाऽयतने शभे \।
 
 अतीव श्रेयसं द्वाभ्यां प्रेतश्राद्धं यते ( जे ) त् द्विज \।\।
@@ -4615,8 +3689,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४५० \।\।
-
-
 
 विघ्नव्यूहतमोरूपं समासाद्या स्फुरादिकम् \।
 
@@ -4626,8 +3698,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४५१ \।\।
 
-
-
 तस्मात् संरक्षणीयं च ब्रह्ममन्ब्र ( न्त्र ) बलेन तु \।
 
 भास्वरेण तमोरूपम् आमूलाद् वै स्वकं बलम् \।\।
@@ -4635,8 +3705,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४५२ \।\।
-
-
 
 तिलदर्भादिकं सर्वं मन्त्रेणाराध्य वै पुरा \।
 
@@ -4646,8 +3714,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४५३ \।\।
 
-
-
 सांप्रतं सर्वसामान्यं कुर्यात् स्थानपरिग्रहम् \।
 
 ब्रह्मभावनया मूलमन्त्रं सर्वगतं स्मरेत् \।\।
@@ -4655,8 +3721,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४५४ \।\।
-
-
 
 वसुधागगनाभ्यां तु अष्टदिक्ष्वन्तरे स्मरेत् \।
 
@@ -4666,8 +3730,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४५५ \।\।
 
-
-
 ध्यायेद्गगनमान्त्रातम् अखिलं शिरसा ततः \।
 
 स्तम्भभूतं शिवं मध्ये मध्ये संसारमार्गवत् \।\।
@@ -4675,8 +3737,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४५६ \।\।
-
-
 
 ब्रह्मनाडीस्वरूपं तु ध्यातव्यम् अमलं महत् \।
 
@@ -4686,8 +3746,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४५७ \।\।
 
-
-
 संशान्तकर्मब्रह्मभ्याम् अन्योन्यस्य तु वेदने (नम् ) \।
 
 गवाक्षवत् स्मरेत् तत्र द्वारभूतं तु लोचनम् \।\।
@@ -4695,8 +3753,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४५८ \।\।
-
-
 
 भ्रमद् वह्नि स्फुल्लिङ्गो (र्मि ) सहस्त्रपरिराजितम् \।
 
@@ -4706,8 +3762,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४५९ \।\।
 
-
-
 एवम् आयतनं मन्त्रमूर्तिमन्त्रं मयोदितम् \।
 
 आधारासनपूर्वाणां मन्त्राणां सर्वकर्मणाम् \।\।
@@ -4715,8 +3769,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४६० \।\।
-
-
 
 हंसोपरमनिष्ठानां सिद्धये भावितात्मनाम् \।
 
@@ -4728,8 +3780,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४६१ \।\।
 
-
-
 उपविश्यासने दार्भे प्रणवव्याप्तिभाविते \।
 
 मूलमन्त्रेण निष्पाद्य प्राणायामं त्रिलक्षणम् \।\।
@@ -4737,8 +3787,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४६२ \।\।
-
-
 
 धारणाद्वितयेनाथ देहसंस्कारम् आचरेत् \।
 
@@ -4748,8 +3796,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४६३ \।\।
 
-
-
 अर्घ्यं पाद्यं समासाद्य प्रोक्षयेत् च तदम्भसा \।
 
 सर्वमन्त्रेण सन्ताय दर्भकाण्डगतेन च \।\।
@@ -4757,8 +3803,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४६४ \।\।
-
-
 
 निरीक्ष्य प्रोच्चरेस्तत्र दग्धं तत्तेजसा स्मरेत् \।
 
@@ -4768,8 +3812,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४६५ \।\।
 
-
-
 सानलां सेन्धनां चुल्लीं प्रोक्षयेद् अस्त्रवारिणा \।
 
 ज्वालयेन् नेत्रमन्त्रेण ततश्चोद्बोध्य वर्मणा \।\।
@@ -4777,8 +3819,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४६६ \।\।
-
-
 
 प्रक्षाल्यास्त्राम्भसा स्थालीं ताडयेत् तदनन्तरम् \।
 
@@ -4788,8 +3828,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४६७ \।\।
 
-
-
 तण्डुलान् अस्त्रमन्त्रेण क्षालयित्वा पुनः पुनः \।
 
 मध्वाज्यतिलगोक्षीरयुक्तं मूलेन निक्षिपेत् \।\।
@@ -4797,8 +3835,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४६८ \।\।
-
-
 
 दर्व्यारस्त्रमन्त्रन्यस्ताया श्रपयेद् हृदयेन तु \।
 
@@ -4808,8 +3844,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४६९ \।\।
 
-
-
 प्रक्षाल्यालिप्य नेत्रेण शिखामन्त्रेण वै ततः \।
 
 दिक्षूर्ध्वपुण्ड्रीकृत्य प्राक् कवचेनावकुण्ठ्य च \।\।
@@ -4817,8 +3851,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४७० \।\।
-
-
 
 प्रणवाधिष्ठिते कुर्यात् संस्थितं च कुशास्तरे \।
 
@@ -4828,8 +3860,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४७१ \।\।
 
-
-
 पिधाय च अस्त्रमन्त्रेण त्वेवं निष्पाद्य वै चरुम् \।
 
 तं सुसाधनकाले तु ब्रह्मास्तरणकर्मणाम् \।\।
@@ -4837,8 +3867,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४७२ \।\।
-
-
 
 हृन्मन्त्रं संप्रयोक्तव्यं मन्त्रमार्गे जपन् धिया \।
 
@@ -4850,8 +3878,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४७३ \।\।
 
-
-
 तत्र दिव्ये पुरा मन्त्रं पूर्ववत् संप्रपूज्य च \।
 
 विधिवत् प्रेतमुद्दिश्य भोगैः पूर्वोक्तलक्षणैः \।\।
@@ -4859,8 +3885,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४७४ \।\।
-
-
 
 पुरुषाशनमात्रेण पात्रसा ( त् )
 
@@ -4872,8 +3896,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४७५ \।\।
 
-
-
 दृशाग्निना तु संस्पृश्य कृत्वा सव्यञ्जनं तु वै \।
 
 विनिवेद्य विभोः प्रोक्तं तदनुग्रहकाम्यया \।\।
@@ -4881,8 +3903,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४७६ \।\।
-
-
 
 स्वशब्दमूर्तिं सुव्यक्तामोङ्कारेणाथवाम्बरात् \।
 
@@ -4892,8 +3912,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४७७ \।\।
 
-
-
 ईषन् निर्वाणशेषाग्निकणभूतं विचिन्त्य च \।
 
 किञ्चित्प्राणकलायुक्तं कर्माणिर् ( मणा )च वशीकृतम् \।\।
@@ -4901,8 +3919,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४७८ \।\।
-
-
 
 विशेषसत्तामात्रं च शनैश्चानलवर्त्मना \।
 
@@ -4912,8 +3928,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४७९ \।\।
 
-
-
 भावयेत् प्रणवेनाथ तत्त्वशक्तिगणान्वितम् \।
 
 अन्नवीर्याश्रितं ब्रह्मन् प्राणाख्यम् अविनश्वरम् \।\।
@@ -4921,8 +3935,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४८० \।\।
-
-
 
 ततस्तदूष्ममार्गेण हृन्मन्त्रेण तु संस्मरन् \।
 
@@ -4932,8 +3944,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४८१ \।\।
 
-
-
 ईषद्भावस्वरूपं तु विद्धि ज्ञानानुरञ्जितम् \।
 
 प्रेतेन सह चैकत्वं समापन्नं च तत्त्वतः \।\।
@@ -4941,8 +3951,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४८२ \।\।
-
-
 
 चिन्तयेत् तेन तं विप्र किंचिद् हृदिगतं क्रमात् \।
 
@@ -4952,8 +3960,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४८३ \।\।
 
-
-
 सांप्रतं कमलोद्भूत समूलमखिलं हितम् \।
 
 लीनमन्नोत्थिते प्राणे स्मर्तव्यं वै यथानिलम् \।\।
@@ -4961,8 +3967,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४८४ \।\।
-
-
 
 निघातवदमूर्तं तु प्राणशक्त्या द्विजेरितम् \।
 
@@ -4972,8 +3976,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४८५ \।\।
 
-
-
 आसीना ( न् )मासने त्वां ते ( शान्ते ) पूर्ववद्वयाप्तिभाविते \।
 
 यजेन्मन्त्रेशवत् पश्चात् शश्वदर्घ्यादिभिः शुभैः \।\।
@@ -4981,8 +3983,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४८६ \।\।
-
-
 
 पुष्पानुलेपनैव् धूपैर् मात्रान्तैः कमलोद्भव \।
 
@@ -4992,8 +3992,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४८७ \।\।
 
-
-
 अथानलाश्रयान्तस्थं हृन्मूर्तिं तु तम् इन्द्रियम् \।
 
 तर्पयित्वा यथान्यायं पूर्वोक्तेन क्रमेण तु \।\।
@@ -5001,8 +3999,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४८८ \।\।
-
-
 
 समाहूय ततः पात्रं पूर्वोक्तं भगवन्मयम् \।
 
@@ -5012,8 +4008,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४८९ \।\।
 
-
-
 न्यस्तमन्त्रं हृदा कृत्वा त्वर्घ्याद्यैर् अर्चयेत् ततः \।
 
 यायाद् आराधनोद्देशम् उपविश्य यथासुखम् \।\।
@@ -5021,8 +4015,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४९० \।\।
-
-
 
 हृदा तम् इन्द्रिये ध्यायेत् स्वशक्त्या मूर्ततां गतम् \।
 
@@ -5032,8 +4024,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४९१ \।\।
 
-
-
 ध्यातव्यं पूर्ववत् प्रेतं स्मर्तव्यं प्रणवेन तु \।
 
 अन्नाधिष्ठातृभावेन नीत्वा च प्रतिपद्य च \।\।
@@ -5042,8 +4032,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४९२ \।\।
 
-
-
 द्विजेन्द्रस्य च मन्त्रान्तं सह चार्घ्योदकेन तु \।
 
 अथ तत्प्राणशक्तौ तु हृदा वैकात्मतां गतम् \।\।
@@ -5051,8 +4039,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४९३ \।\।
-
-
 
 नैवेद्यं ग नरन्तस्तं (
 
@@ -5064,8 +4050,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४९४ \।\।
 
-
-
 व्यक्तये श्रौत्रवृत्तौ तु प्रयातम् अनुभावयेत् \।
 
 एवं लब्धात्मकं कृत्वा प्रेतं प्राग्विप्रविग्रहे \।\।
@@ -5073,8 +4057,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४९५ \।\।
-
-
 
 दद्यात् तदोदकं पाणौ पूर्ववत् प्राशनाय च \।
 
@@ -5084,8 +4066,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४९६ \।\।
 
-
-
 ध्यायन् धियाग्रतस्तिष्ठेद् अन्नवीर्याद्बलेन तु \।
 
 हृदा श्रोत्रेन्द्रियात् तस्य तथार्थत्वम् उपागतम् \।\।
@@ -5093,8 +4073,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४९७ \।\।
-
-
 
 निष्पन्नभोजनस्यैव द्विजेन्द्रस्य द्विजोत्तम \।
 
@@ -5104,8 +4082,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.४९८ \।\।
 
-
-
 विप्र हृत्कमलाकाशे प्रेतम् आकृष्य तेन वै \।
 
 यथामृतेन स्वहृदा श्रोत्रे सत्तासमन्वितम् \।\।
@@ -5113,8 +4089,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.४९९ \।\।
-
-
 
 अपनीते त्वथोच्छिष्टे प्रीणनं पूर्ववद् विभोः \।
 
@@ -5124,8 +4098,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५०० \।\।
 
-
-
 अस्त्रं विघ्नादिशान्त्यर्थं जपेद् अष्टाधिकं शतम् \।
 
 साङ्गम् आराधनस्थानं कुर्यान्मन्त्रेशमा (त्म ) वान् \।\।
@@ -5133,8 +4105,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५०१ \।\।
-
-
 
 संहृत्य सार्घ्यपुष्पाद्यं स्वरान्तम् अखिलं हि यत् \।
 
@@ -5144,8 +4114,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५०२ \।\।
 
-
-
 ततो मन्त्रसमाधानं स जपं तु निशागमे \।
 
 एवं (श्रोत्रं )चक्षू रसानां (सना )च घ्राणसंज्ञं चतुष्टयम् \।\।
@@ -5153,8 +4121,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५०३ \।\।
-
-
 
 चतुष्केण दिनानां तु व्यञ्जनीयं महामते \।
 
@@ -5164,8 +4130,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५०४ \।\।
 
-
-
 प्रेतश्रेयाप्तये कुर्यात् लब्धसत्तद्विजोत्तम \।
 
 एकादशे ऽथ दिवसे संप्राप्ते साधयेत् यरुम् \।\।
@@ -5173,8 +4137,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५०५ \।\।
-
-
 
 सभक्षव्यञ्नोपेतं श्रद्धया च सुसंयुतम् \।
 
@@ -5184,8 +4146,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५०६ \।\।
 
-
-
 अच्छाम्बुपूतप्रणतं भगवत्तत्त्वभावितम् \।
 
 निवेश्यासनवारे च पूजिते व्याप्तिभाविते \।\।
@@ -5193,8 +4153,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५०७ \।\।
-
-
 
 समालभ्य ततो भक्त्या चन्दनाद्यैर्विलेपनैः \।
 
@@ -5204,8 +4162,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५०८ \।\।
 
-
-
 हेमकङ्कणपूर्वैस्तु सरत्नैर्भूषणोत्तमैः \।
 
 माल्यैर्यज्ञोपवीताद्यैः शिरोवस्त्रैः सपावनैः \।\।
@@ -5213,8 +4169,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५०९ \।\।
-
-
 
 भक्ष्यव्यञ्जनहस्तं तत् कृत्वा मन्त्रेशम् अर्ययेत् \।
 
@@ -5224,8 +4178,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५१० \।\।
 
-
-
 कृत्वा भवनपर्यन्तं पूर्वम् आराधनं प्रभोः \।
 
 समाचरेत्ततो मन्त्रन्यासं विप्रवरस्य च \।\।
@@ -5233,8 +4185,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५११ \।\।
-
-
 
 उभे हस्ते ततो मूलम् अङ्गुलीषु हृदादयः \।
 
@@ -5244,8 +4194,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५१२ \।\।
 
-
-
 न्यस्त्वा पादावसाने च स्वस्थानेषु हृदादयः \।
 
 ध्यात्वा मन्त्रस्वरूपं च तदा तदभिमानयुक् \।\।
@@ -5253,8 +4201,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५१३ \।\।
-
-
 
 पितृसंज्ञासमेतेन नतिना प्रणवेन च \।
 
@@ -5264,8 +4210,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५१४ \।\।
 
-
-
 प्रतिपाद्याखिलं तस्य मृ ( प्रे )तोपकरणं हि यत् \।
 
 गोभूहेमावसानं च तोषमेति च येन तत् \।\।
@@ -5273,8 +4217,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५१५ \।\।
-
-
 
 जायते निरृणं प्रेतं\[सम्युक्त\]परं पदम् \।
 
@@ -5284,8 +4226,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५१६ \।\।
 
-
-
 व्यापारं हृदयं प्राग्वन्मूलमन्त्रेण भावयेत् \।
 
 किन्त्विन्द्रियगणान्तस्थं समायालक्षणं हि तत् \।\।
@@ -5293,8 +4233,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५१७ \।\।
-
-
 
 प्रणवं मूलमन्त्रेण प्रेतं सर्वत्र संस्मरेत् \।
 
@@ -5304,8 +4242,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५१८ \।\।
 
-
-
 बुद्धिपूर्वैर्धरान्तैस्तु कृत्वैतम् अनुरञ्जयेत् \।
 
 बुध्यार्थम् आचरेत् तत्र शिखामन्त्रेण चालिखेत् \।\।
@@ -5314,8 +4250,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५१९ \।\।
 
-
-
 व्यक्तये मनसश्चैव कवचं विहितं द्विज \।
 
 तन्मात्राणां व्यक्तये ऽथ पञ्चानामथ वै क्रमात् \।\।
@@ -5323,8 +4257,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५२० \।\।
-
-
 
 भूतानाम् अस्त्रामन्त्रं तु वादितां 
 
@@ -5336,8 +4268,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५२१ \।\।
 
-
-
 प्रेतम् आपाद्य वै पिण्डं प्राप्ते मासे त्रयोदशे \।
 
 योजना पितृमार्गे तु कार्यास्य भगवन्मये \।\।
@@ -5345,8 +4275,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५२२ \।\।
-
-
 
 यथा तथाब्जसंभूत शृणु मे गदतः स्फटम् \।
 
@@ -5356,8 +4284,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५२३ \।\।
 
-
-
 श्राद्धार्थं श्रद्धयानं तु प्रभूतं च सुसंस्कृतम् \।
 
 स्वाचान्तानथ धौताङ्घ्रीन् द्विजेन्द्रान् उपवेशयेत् \।\।
@@ -5365,8 +4291,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५२४ \।\।
-
-
 
 पुत्रकान् समयज्ञान् वा साधकानथ देशिकान् \।
 
@@ -5376,8 +4300,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५२५ \।\।
 
-
-
 सम्मुखान् मन्त्रनाथस्य चत्वारो वाप्युदङ्मुखन् \।
 
 एवं पूर्वानने द्वे तु विनिवेश्य द्विजोत्तम \।\।
@@ -5385,8 +4307,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५२६ \।\।
-
-
 
 तयोरेकस्य चास्त्रेण सकलीकरणं हि यत् \।
 
@@ -5396,8 +4316,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५२७ \।\।
 
-
-
 उदङ्मुखेभ्यस्त्वाद्यस्य न्यासकर्मणि लोचनम् \।
 
 तस्मादुपरिसंस्थास्य ( प्य )शिरसा विहितं द्विज \।\।
@@ -5405,8 +4323,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५२८ \।\।
-
-
 
 हृन्मन्त्रेण द्वितीयस्य मूलमन्त्रेण वै ततः \।
 
@@ -5416,8 +4332,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५२९ \।\।
 
-
-
 षण्णाम् अथ शिखामन्त्रं स्वा द्यखातप (खाद्यस्वान्त ) (प्र )विन्यसेत् \।
 
 ततो ऽग्निभवनान्तं तु कृत्वा भगवदर्चनम् \।\।
@@ -5425,8 +4339,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५३० \।\।
-
-
 
 पूजयेत् सविशेषं तु कृत्वैवं हि यथोदितम् \।
 
@@ -5436,8 +4348,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५३१ \।\।
 
-
-
 वर्मणा वर्ममूर्तिं च नामगोत्रद्वयं विना \।
 
 ततः स्वनाम्ना गोत्रेण कुर्याद् अन्येषु चार्चनम् \।\।
@@ -5445,8 +4355,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५३२ \।\।
-
-
 
 स्वेन स्वेन तु मन्त्रेण तत्र प्रेतं द्विजं हि यत् \।
 
@@ -5456,8 +4364,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५३३ \।\।
 
-
-
 तस्योपर्युपविष्टं तु संस्थितं पितृलक्षणम् \।
 
 पूजने विहितं तस्य शिरोमन्त्रं स्वकं द्विज \।\।
@@ -5465,8 +4371,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५३४ \।\।
-
-
 
 विप्र हृन्मन्त्रम् अभ्यर्च्य यत्तद्विद्धि पितामहम् \।
 
@@ -5476,8 +4380,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५३५ \।\।
 
-
-
 मूलमन्त्रकृतन्यासं तद्विद्धि प्रतितामहम् \।
 
 माननीयं हि तेनैव नाम्ना गोत्रेण वै सह \।\।
@@ -5485,8 +4387,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५३६ \।\।
-
-
 
 तेषां वै हृद्गतं विप्र पूजितानां च सांप्रतम् \।
 
@@ -5496,8 +4396,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५३७ \।\।
 
-
-
 यथा तत्पद्मसंभूत मत्तः समवधारय \।
 
 नैवेद्यनाशं क्रमशः प्राग्वदन्नरसात्मनाम् \।\।
@@ -5505,8 +4403,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५३८ \।\।
-
-
 
 स्वयं देवगणं चिन्त्यं समं ध्यायेद् धिया ततः \।
 
@@ -5516,8 +4412,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५३९ \।\।
 
-
-
 सामा पैत्रे ऽन्नमात्रं तु नेत्रमन्त्रं विचिन्त्य च \।
 
 एवमेव शिरोमन्त्रमुपयातं धिया स्मरेत् \।\।
@@ -5525,8 +4419,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५४० \।\।
-
-
 
 सह लोचनशक्त्या तु पात्रे हृन्मन्त्रभाविते \।
 
@@ -5536,8 +4428,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५४१ \।\।
 
-
-
 शक्तिं वै मूलमन्त्रीयैर्नैवेद्यान्तर्गतां स्मरेत् \।
 
 मन्त्रशक्तिच्छलेनैव सान्नेन प्रणवात्मना \।\।
@@ -5545,8 +4435,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५४२ \।\।
-
-
 
 मन्त्रब्रह्मणि चैकत्वं कुर्याद्वा तस्य पौष्कर \।
 
@@ -5556,8 +4444,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५४३ \।\।
 
-
-
 द्विजानाम् उपविष्टानां भक्ष्यभोज्यादिकैः सह \।
 
 गोक्षीरमात्रपर्यन्ते दद्यात्पाणौ ततो (थो )दकम् \।\।
@@ -5565,8 +4451,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५४४ \।\।
-
-
 
 भोजने संप्रवृत्तानां यस्य यच्चोपयुज्यते \।
 
@@ -5576,8 +4460,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५४५ \।\।
 
-
-
 स्वाहान्तानां ततस्तेषां तत्र स्थानं समाचरेत् \।
 
 एकत्वं त्विति शक्तीनां विधिनानेन पौष्कर \।\।
@@ -5585,8 +4467,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५४६ \।\।
-
-
 
 तत्त्वशक्तिगुणोपेतं प्रदीप्तमिव भास्करन् \।
 
@@ -5596,8 +4476,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५४७ \।\।
 
-
-
 रेच्य हृत्कमले मन्त्रतेजसा तेन तत्पुनः \।
 
 कुर्याद्युक्ततरं चैव तस्मादाकृष्य वै हृदि \।\।
@@ -5605,8 +4483,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५४८ \।\।
-
-
 
 पैतामहे विरेच्याथ हृत्पद्मोपरि वृद्धये \।
 
@@ -5616,8 +4492,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५४९ \।\।
 
-
-
 प्रतितामहहृत्पद्मगोचरौ विनिवेश्य च \।
 
 मन्त्रब्रह्मकलादीप्तं कृत्वा तत्रानयेत् हृदि \।\।
@@ -5626,8 +4500,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५५० \।\।
 
-
-
 विलाप्य प्रणवेनाथ शान्तभावनयात्मनि \।
 
 एवं कृत्वानुसन्धानं ततः प्रभृति तस्य वै \।\।
@@ -5635,8 +4507,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५५१ \।\।
-
-
 
 पितृत्वं वात्सरे श्राद्धे काल\[दिष्टे\]विशेषतः \।
 
@@ -5648,8 +4518,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५५२ \।\।
 
-
-
 नान्येषां द्विजशार्दूल पितॄणां श्राद्धकाङ्क्षिणाम् \।
 
 प्रेतत्वमुपशान्त वै जन्तोर्वाग्रस्थितस्य च \।\।
@@ -5657,8 +4525,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५५३ \।\।
-
-
 
 पितृत्वं लब्ध\[ संस्कारं\]संस्थितं चोत्तरोत्तरम् \।
 
@@ -5668,8 +4534,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५५७ \।\।
 
-
-
 और्ध्वदैहिकसंज्ञं तु विधानं भाविनामथ \।
 
 चतुर्भिश्चातुरात्मीयैर्मन्त्रैस्तद्विनिबोध मे \।\।
@@ -5677,8 +4541,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५५५ \।\।
-
-
 
 श्रोत्राद्युपस्थपर्यन्तम् इन्द्रियाणां द्विपञ्चकम् \।
 
@@ -5688,8 +4550,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५५६ \।\।
 
-
-
 अस्मिन् व्यक्तिमतः कुर्यात् साङ्कर्षणेन पौष्कर \।
 
 बुद्धितत्त्वे तृतीयेन वा व्यञ्जयेन्मनसा सह \।\।
@@ -5697,8 +4557,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५५७ \।\।
-
-
 
 क्ष्मान्तम् आकाशतन्मात्राद् अनिरुद्धेन पौष्कर \।
 
@@ -5708,8 +4566,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५५८ \।\।
 
-
-
 सपिण्डीकरणं कुर्याद् अनिरुद्धादितः क्रमात् \।
 
 चतुर्भिर्वासुदेवान्तैर्मन्त्रैर्मन्त्रविदां वर \।\।
@@ -5717,8 +4573,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५५९ \।\।
-
-
 
 एवम् इच्छेन्नवात्मज्ञः समूर्तिनवकेन यत् \।
 
@@ -5728,8 +4582,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५६० \।\।
 
-
-
 तदिदानीं समासेन एकाग्रम् अवधारय \।
 
 श्रोत्रादीनाम् इन्द्रियाणां तृप्तये क्ष्माधरं स्मृतम् \।\।
@@ -5737,8 +4589,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५६१ \।\।
-
-
 
 भूगा ( म्या ) दीनां नृसिंहं तु अस्मिन् शक्तौ खगासने \।
 
@@ -5748,8 +4598,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५६२ \।\।
 
-
-
 तन्मात्राणां सभूतानां मन्त्राणां धारणात्मकम् \।
 
 एवं तत्त्वकलायुक्तं जपं कृत्वा महामते \।\।
@@ -5757,8 +4605,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५६३ \।\।
-
-
 
 पञ्चभिस्तु वराहाद्यैः ततः संवत्सरे गते \।
 
@@ -5768,8 +4614,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५६४ \।\।
 
-
-
 पूर्वोक्तेन विधानेन ज्ञानध्यानान्वितेन च \।
 
 दिव्येनानश्वरेणैव कर्मणानेकसाधनम् \।\।
@@ -5777,8 +4621,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५६५ \।\।
-
-
 
 संविधानं द्वितीयं तत्प्रोक्तं संसूचितं मया \।
 
@@ -5788,8 +4630,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५६६ \।\।
 
-
-
 सर्वं पूर्वोदितं कृत्वा विधानं साधने चरोः \।
 
 प्रज्वाल्य पावकं कुर्यात् प्राग्वत्संस्कारसंस्कृतम् \।\।
@@ -5797,8 +4637,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५६७ \।\।
-
-
 
 ध्यात्वा तदन्तर्मन्त्रेशं समिद्भिक्तर्पयेत् क्रमात् \।
 
@@ -5808,8 +4646,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५६८ \।\।
 
-
-
 सवासम् आसनं ध्यात्वा तदूर्ध्वे कमलासनम् \।
 
 युक्तम् आद्यादिकैः प्राग्वद् विन्यसेद् अन्नगोलकम् \।\।
@@ -5817,8 +4653,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५६९ \।\।
-
-
 
 तस्मिन् पूर्वोदितं सर्वम् आपाद्य तदनन्तरम् \।
 
@@ -5828,8 +4662,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५७० \।\।
 
-
-
 दत्त्वाथ चोपसंहृत्य विनिक्षप्य जलान्तरे \।
 
 कृत्वाथ सह मन्त्रेण आत्मसादसनं ( ददनं )द्विज \।\।
@@ -5837,8 +4669,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५७१ \।\।
-
-
 
 जले ऽखिलं समाहृत्य विनिक्षिप्यानलं विना \।
 
@@ -5848,8 +4678,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५७२ \।\।
 
-
-
 श्राद्धं कुर्याद् विधानज्ञः पिण्डदानपुरस्सरम् \।
 
 संवत्सरे ऽथ निष्पन्ने पितृत्वापादनाय च \।\।
@@ -5857,8 +4685,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५७३ \।\।
-
-
 
 ध्यानं समन्त्रं पूर्वोक्तं\[तत्पितृ\]त्वाधिकं भवेत् \।
 
@@ -5868,8 +4694,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५७४ \।\।
 
-
-
 तदध्यक्षत्वभूतं यन्मन्त्रमध्यात्मलक्षणम् \।
 
 अधिभूतम् अथापन्नं पिण्डं निर्गत्य संस्मरेत् \।\।
@@ -5877,8 +4701,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५७५ \।\।
-
-
 
 तदूर्ध्वदेशे नभसि व्यापारं सन्निरीक्षयेत् \।
 
@@ -5888,8 +4710,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५७६ \।\।
 
-
-
 तन्मन्त्रेण च तत्पिण्डाद् अधिभूतमयाद् अथ \।
 
 समादायन्नमुष्टिं च तत्र तत् खण्डितं च यत् \।\।
@@ -5897,8 +4717,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५७७ \।\।
-
-
 
 स्मरेत्परिणतं सम्यम् व्यापकत्वेन सांप्रतम् \।
 
@@ -5908,8 +4726,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५७८ \।\।
 
-
-
 तदन्नं पितृपिण्डे तु तदूर्ध्वे ऽथ स्थितं नयेत् \।
 
 एवम् एकत्वम् आपन्ने प्रेते चित्प्रतिना सह \।\।
@@ -5917,8 +4733,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५७९ \।\।
-
-
 
 प्रेतपिण्डवद् अब्जोत्थ वाचर्तव्यं हि चाखिलम् \।
 
@@ -5928,8 +4742,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५८० \।\।
 
-
-
 तस्मात् तदपि -----------------तत्प्राग्वत्परतां नयेत् \।
 
 यथोक्ते ऽस्मिन् द्विजश्रेष्ठ प्राजापत्ये तु कर्मणि \।\।
@@ -5937,8 +4749,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५८१ \।\।
-
-
 
 आदे कादशाद्यावत् पितृत्वापादने दिनम् \।
 
@@ -5948,8 +4758,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५८२ \।\।
 
-
-
 किन्तु भोजनभूमौ तु द्विजप्तैरासनस्थितैः \।
 
 वचनीयं हि चाक्षय्यं तिलमिश्रेण वारिणा \।\।
@@ -5957,8 +4765,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५८३ \।\।
-
-
 
 एतावतास्य तात्पर्यं यथावत्संप्रकाशितम् \।
 
@@ -5968,8 +4774,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५८४ \।\।
 
-
-
 आसृष्टे सति रागौ चयथा स्फरति वै हृदि \।
 
 प्रत्ययावयवौ चैव -----------------पौष्कर \।\।
@@ -5977,8 +4781,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५८५ \।\।
-
-
 
 बल्यर्थं विहितं तेषाम् अन्नं पिण्डं तु सोदकम् \।
 
@@ -5988,8 +4790,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५८६ \।\।
 
-
-
 चातुर्माननिषेधं च विहितं सूतकादिके \।
 
 प्रतिषेधं गृहीतुर्वै आभूताद् अब्जसंभव \।\।
@@ -5997,8 +4797,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५८७ \।\।
-
-
 
 द्विजेन्द्राणां तु सन्येषां चातुरात्म्यैकयाजिनाम् \।
 
@@ -6008,8 +4806,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५८८ \।\।
 
-
-
 अत एवाधिकारं तु मृतके सूतके तु वा \।
 
 प्रतिग्रहे प्रदाने च तत्कालं सङ्करं विना \।\।
@@ -6017,8 +4813,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५८९ \।\।
-
-
 
 सहजा प्रतिपत्तिर्वै इत्येषामरयाजिनाम् \।
 
@@ -6028,8 +4822,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५९० \।\।
 
-
-
 मार्गम् इच्छति यस्त्वेवम् अनुसर्तृं हि चाच्युतम् \।
 
 आशौचं समतीतं चेत्ततः कुर्याद् दशाहिकम् \।\।
@@ -6037,8 +4829,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५९१ \।\।
-
-
 
 इत्युक्तम् अब्जसंभूत सर\[हस्यं\]यथा स्थितम् \।
 
@@ -6048,11 +4838,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५९२ \।\।
 
-
-
 अथ काम्य श्राद्धविधिः ---
-
-
 
 विध्यन्तरम् अथो भूयः प्रसङ्गाद् अवधारय \।
 
@@ -6061,8 +4847,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५९३ \।\।
-
-
 
 व्यवहारपदस्थं यद्विच्छिन्ना शस्त्र 
 
@@ -6074,8 +4858,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५९४ \।\।
 
-
-
 तदिदानीं समासेन यथावत्कथयाम्यहम् \।
 
 पुरा संभतसंभारः सुसहायैः समावृतः \।\।
@@ -6083,8 +4865,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५९५ \।\।
-
-
 
 मनः प्रसादजनकम् एवं वा बहवो द्विजाः (विभवाद्द्विजान्) \।
 
@@ -6094,8 +4874,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५९६ \।\।
 
-
-
 प्रावृट्काले तु वाच्यत्र शरत्काले तु माधवे \।
 
 यायाद् आयातनं विष्णोः पुष्पधूपजनाकुलम् \।\।
@@ -6103,8 +4881,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.५९७ \।\।
-
-
 
 कूलं नदनदीनां वा सान्वाद्यं सोदकं गिरेः \।
 
@@ -6114,8 +4890,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५९८ \।\।
 
-
-
 तमासाद्य तपः कुर्याद् यागं च विधिपूर्वकम् \।
 
 गणे च नागस्थाने च भूतानां च वनस्पतेः \।\।
@@ -6124,8 +4898,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.५९९ \।\।
 
-
-
 क्षेत्रवासिमुखेनैव यथाशक्त्या सदक्षिणाम् \।
 
 अपरे ऽहनि वै कुर्यात् स्वमन्त्राराधनं तु वै \।\।
@@ -6133,8 +4905,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६०० \।\।
-
-
 
 \[
 
@@ -6146,8 +4916,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६०१ \।\।
 
-
-
 विभोः प्रणमते (तो ऽ )ध्यक्षं स्वचिद् बीजान्वितस्य च \।
 
 व्यक्ताव्यक्ता\[द्य\]संज्ञस्य पिण्डम् इन्द्रिय\[संज्ञितम्\] \।\।
@@ -6155,8 +4923,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६०२ \।\।
-
-
 
 स्थापयामि सतत्त्वांशैः संधयित्वा यथाविधि \।
 
@@ -6166,8 +4932,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६०३ \।\।
 
-
-
 सुकृतस्य च भोगार्थम् अन्यथा परमेश्वर \।
 
 समुत्क्रान्तस्य मे देहात् स्थितं मारुतलक्षणम् \।\।
@@ -6175,8 +4939,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६०४ \।\।
-
-
 
 सदुःखाया (सुखदुःखा )भिलाषा च धनेन च समावृता \।
 
@@ -6186,8 +4948,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६०५ \।\।
 
-
-
 निष्क्रिया च तथा जन्तोर्वशा\[प्यवशा\]स्य च \।
 
 देहान्तरेण चाप्तेन शश्वत्कालान्तरेण वा \।\।
@@ -6195,8 +4955,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६०६ \।\।
-
-
 
 सा स्थिता दुस्सहा घोर तत्त्वतो याति संक्षयम् \।
 
@@ -6206,8 +4964,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६०७ \।\।
 
-
-
 पिण्डम् इन्द्रियसंज्ञं यन्निष्पाद्यं तन्निरामयम् \।
 
 निःसन्तानस्त्वसंदेहं निराशः कर्मजालगः \।\।
@@ -6215,8 +4971,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६०८ \।\।
-
-
 
 अधिकृत्य त्वमेवाद्य करोति (षि )त्राणम् आत्मना \।
 
@@ -6226,8 +4980,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६०९ \।\।
 
-
-
 त्वमेव लुप्तपिण्डानां शश्वद् उद्धरणक्षमः \।
 
 यतस्त्वमे (व )तत् शश्वद्\[ना\]रभ्य (म्भ )सनातन \।\।
@@ -6235,8 +4987,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६१० \।\।
-
-
 
 निष्पत्तिदिनपर्यन्तं विघ्नजालं सवासनम् \।
 
@@ -6246,8 +4996,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६११ \।\।
 
-
-
 एवम् अभ्यर्थयित्वाजं करमापूर्य वारिणा \।
 
 कुर्यात् तत् शेषपूर्णं तु आसमाप्ति तु संयमम् \।\।
@@ -6255,8 +5003,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६१२ \।\।
-
-
 
 लौकिकं व्यवहारं यद्धर्मकामार्थलक्षणम् \।
 
@@ -6266,8 +5012,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६१३ \।\।
 
-
-
 ततो ऽभिमतवृत्तौ तु कृत्वा देवार्चनं तु वै \।
 
 तदग्रतो दक्षिणे वा चलयिष्ये शि तर्पणम् \।\।
@@ -6275,8 +5019,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६१४ \।\।
-
-
 
 द्विजेन्द्रं सन्निवेश्याथ सर्वं कृत्वा यथाविधि \।
 
@@ -6286,8 +5028,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६१५ \।\।
 
-
-
 स्वगृहं\[च\]स्वचैतन्यं ध्यायेत् सान्निध्यम् आगतम् \।
 
 स्मरेद् एकं च निष्पापं प्रणवेनाप्तकालवत् \।\।
@@ -6295,8 +5035,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६१६ \।\।
-
-
 
 गतावसं यत्संस्कारं यथा शास्त्रोदितं महत् \।
 
@@ -6306,8 +5044,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६१७ \।\।
 
-
-
 अस्थिसञ्चयं तु एवं कृत्वा यथाविधि \।
 
 समाचरेत् ततः स्नानं मान्त्रम् अब्जज तत्र वै \।\।
@@ -6315,8 +5051,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६१८ \।\।
-
-
 
 द्विजेन्द्रैः कृतदीक्षैस्तु ऋग्यजुः सामसंगतैः \।
 
@@ -6326,8 +5060,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६१९ \।\।
 
-
-
 द्वादशाक्षरपूर्वेभ्यो मध्यात्प्रागुक्तलक्षणम् \।
 
 जपेद् एकतमं मन्त्रं दीक्षितस्वेकमेव हि \।\।
@@ -6335,8 +5067,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६२० \।\।
-
-
 
 स्वमन्त्राद् अस्त्रमन्त्रैर्वा एवं स्नाने कृते पुनः \।
 
@@ -6346,8 +5076,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६२१ \।\।
 
-
-
 तप्तकाञ्चनवर्णाम् अमुक्तमूर्तिं\[त\]मेव वा \।
 
 मुहूर्तार्धं मुहूर्तं वा जपन्नास्ते ह्यनन्यधीः \।\।
@@ -6355,8 +5083,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६२२ \।\।
-
-
 
 तेन कल्पाग्निकं विप्र आशौचं स्वकुलोद्भवम् \।
 
@@ -6366,8 +5092,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६२३ \।\।
 
-
-
 तत्त्वं मानसम् अन्येभ्यः संभूतानां यथाक्रमम् \।
 
 न पुनः सर्वशक्तेर्वै संभूतानां सुखानले \।\।
@@ -6375,8 +5099,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६२४ \।\।
-
-
 
 तद्धा (द्यायिनां )नां च तज्ज्ञानां द्विजानाम् अधिकारिणाम् \।
 
@@ -6386,8 +5108,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६२५ \।\।
 
-
-
 सभक्ष्यं व्यञ्जनोपेतं विभोर्यागार्थमेव च \।
 
 तर्पणार्थं हि वै वह्नेः पिण्डनिर्वापणाय च \।\।
@@ -6395,8 +5115,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६२६ \।\।
-
-
 
 यथापिवाहिकं देहं द्वितीयं भूतविग्रहम् \।
 
@@ -6406,8 +5124,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६२७ \।\।
 
-
-
 स्वयं संप्रति दत्वैवम् आदशाहादिकेन यत् \।
 
 पुरस्ताद् उपकाराय कर्मणां देहमेति तत् \।\।
@@ -6415,8 +5131,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६२८ \।\।
-
-
 
 \[
 
@@ -6428,8 +5142,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६२९ \।\।
 
-
-
 शमम् आयाति वै नूनं मन्त्रेशानां प्रसादतः \।
 
 पितृत्वापादनं तेन कर्मणा विमलेन च \।\।
@@ -6437,8 +5149,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६३० \।\।
-
-
 
 अस्माद्गुरुतरं चैव स्वयं संपादितं तु वा \।
 
@@ -6448,8 +5158,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६३१ \।\।
 
-
-
 नित्यमन्ते निवृत्ते तु स्वाराध्यं संयजेत् ततः \।
 
 अभिसन्धाय मनसा स्वयं गुरुमुखेन वा \।\।
@@ -6457,8 +5165,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६३२ \।\।
-
-
 
 कर्माधारं हि वै भावि देहं श्राद्धच्छलेन तु \।
 
@@ -6468,8 +5174,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६३३ \।\।
 
-
-
 प्राग्वदिष्ट्वाथ मन्त्रेशं भोगैः संपूर्णलक्षणैः \।
 
 सतिलाञ्जलिदानान्तैर्विधिवत् कमलोद्भव \।\।
@@ -6477,8 +5181,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६३४ \।\।
-
-
 
 पूर्वोक्तेन विधानेन भक्त्या सश्रद्धया ततः \।
 
@@ -6488,8 +5190,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६३५ \।\।
 
-
-
 सन्तर्प्य भगवद् यागाद्यो हि वाञ्छति सम्पदम् \।
 
 तस्माद् उत्तरणे हेतुर्जीवितस्य मृतस्य वा \।\।
@@ -6497,8 +5197,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६३६ \।\।
-
-
 
 न पश्यामि ऋते यागादेतस्मान्मन्त्रपूर्वकात् \।
 
@@ -6508,8 +5206,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६३७ \।\।
 
-
-
 ते ऽत्र पात्रास्त्रयो नित्यं ज्ञानकर्मपरायणाः \।
 
 मन्त्रप्रतिपरासक्ता इतिकर्तव्याच्युतिः \।\।
@@ -6517,8 +5213,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६३८ \।\।
-
-
 
 भक्तिश्रद्धासमोपेता परमुत्तारणप्लवः \।
 
@@ -6528,8 +5222,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६३९ \।\।
 
-
-
 यागं ब्रह्ममयं शुद्धं प्रतिषिद्धं परैरपि \।
 
 पतितत्वात्तु वै तेषां पिण्डदानं तिलोदकम् \।\।
@@ -6538,8 +5230,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६४० \।\।
 
-
-
 नामसंकीर्तनं चैते प्रयान्ति परमां गतिम् \।
 
 एकमुक्तं समुत्कृष्टम् अव्यापारं पराक्रमः (मम् ) \।\।
@@ -6547,8 +5237,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६४१ \।\।
-
-
 
 (
 
@@ -6560,8 +5248,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६४२ \।\।
 
-
-
 अग्नावग्रे तदन्तस्थे मन्त्रेशे तर्पिते सति \।
 
 पिण्डनिर्वापणं कुर्यात् पूर्वोक्तविधिना ततः \।\।
@@ -6569,8 +5255,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६४३ \।\।
-
-
 
 विनिवेश्यासने विप्रम् एकं शक्त्या बहूनपि \।
 
@@ -6580,8 +5264,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६४४ \।\।
 
-
-
 भोजने फलमूलैस्तु भक्ष्यैरुच्चावचैस्तथा \।
 
 पावनैर्विविधैः पानैर्लेह्यैः पेयैश्च चोष्यकैः \।\।
@@ -6589,8 +5271,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६४५ \।\।
-
-
 
 दक्षिणाभिस्तु ताम्बूलैर्वारिकुम्भसमन्वितैः \।
 
@@ -6600,8 +5280,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६४६ \।\।
 
-
-
 द्मीतिम् अभ्येति वै येन समूहं भगवन्मयम् \।
 
 ज्ञात्वा वा व्यवसायं यद् देशकालबलाबलम् \।\।
@@ -6609,8 +5287,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६४७ \।\।
-
-
 
 सह सत्पात्रलोभेन शीघ्रं यत्कर्तुम् इच्छति \।
 
@@ -6620,8 +5296,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६४८ \।\।
 
-
-
 अनेकदिवसोत्थं तु सिद्धान्नेन विना द्विज \।
 
 यथावद् अर्चनं कृत्वा पत्रपुष्पादिकैर्विभः \।\।
@@ -6630,8 +5304,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६४९ \।\।
 
-
-
 वह्नितर्पणनिष्ठं तु स्वार्थम् उद्दिश्य वै पितॄन् \।
 
 पात्रं मध्वाज्यसिक्तैस्तु संपूर्णं शालितण्डुलैः \।\।
@@ -6639,8 +5311,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६५० \।\।
-
-
 
 उपरिष्टाद्रसैर्मूर्तेः फलमूलैर्विभूषितम् \।
 
@@ -6652,8 +5322,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६५१ \।\।
 
-
-
 सस्य एकसमोपेतं वारिकुम्भसमन्वितम् \।
 
 धूपदीपादिकैर्युक्तं पूजयित्वा निवेद्य च \।\।
@@ -6661,8 +5329,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६५२ \।\।
-
-
 
 पित्रर्थं तु द्विजात्मार्थं ततो दद्यात् तिलोदकम् \।
 
@@ -6672,8 +5338,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६५३ \।\।
 
-
-
 सिद्धान्नं सद्विजेन्द्राणां पूजित -------------- \।
 
 प्रतिपाद्य क्रमेणैव पूजनीयं हि वै विभोः \।\।
@@ -6682,8 +5346,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६५४ \।\।
 
-
-
 पिण्डं मध्वाज्यसिक्तैर्वा प्राग्वद् आपाद्य तण्डुलैः \।
 
 अग्निगर्भगतस्याग्रे विभोर्दर्भसु ------- \।\।
@@ -6691,8 +5353,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६५५ \।\।
-
-
 
 -----------------------
 
@@ -6706,8 +5366,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६५६ \।\।
 
-
-
 गन्धानां पूर्ववत् कुर्यात् बुध्या च सुविशुद्धया \।
 
 प्रेतोद्दिष्टेन विधिना\[यथावदा\]त्मनात्मना \।\।
@@ -6715,8 +5373,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६५७ \।\।
-
-
 
 विधिना मन्त्रपूर्वेण वत्सरं संप्रपूर्य च \।
 
@@ -6726,8 +5382,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६५८ \।\।
 
-
-
 नानादानसमोपेतं भावश्चाद्धविभूषितम् \।
 
 यथोद्दिष्टेन मार्गेण किन्तु गोत्रसमन्विताः \।\।
@@ -6735,8 +5389,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६५९ \।\।
-
-
 
 मन्त्रान्ते विनियोक्तव्याः समशब्दपुरस्सराः \।
 
@@ -6746,8 +5398,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६६० \।\।
 
-
-
 अतःशुद्धां ज्वलद्रूपां क्वचिद् आकृतिलक्षणाम् \।
 
 क्वचिद्गोलकरूपां च मध्याह्नादित्यसन्निभात् \।\।
@@ -6755,8 +5405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६६१ \।\।
-
-
 
 क्वचिन्मन्दतराभां च तद् व्यापारवशेन तु \।
 
@@ -6766,8 +5414,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६६२ \।\।
 
-
-
 विप्रतर्पणपर्यन्तम् अखिलं पूर्वचोदितम् \।
 
 प्रा\[गो\]दन\[स्य\]पिण्डाद्यैर्वह्न्यन्ते चोपसंहृतैः \।\।
@@ -6775,8 +5421,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६६३ \।\।
-
-
 
 बन्धुभिः सह चाक्षीयाद् दत्तशिष्टं द्विजोत्तम \।
 
@@ -6786,8 +5430,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६६४ \।\।
 
-
-
 व्यापारे ऽस्मिन् समन्त्रे तु सिद्धिरस्ति विदात्मनाम् \।
 
 स्वयमात्मनि कर्तॄणां भावान्मन्त्रांश्च सा\[धितान्\] \।\।
@@ -6795,8 +5437,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६६५ \।\।
-
-
 
 येन चोपरतस्याशु यथार्थत्वं प्रयाति च \।
 
@@ -6806,8 +5446,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६६६ \।\।
 
-
-
 आपङ्क्तिसाधनात्कारि तृप्त्यन्तम् अमलेक्षण \।
 
 आचरेद् वचसा सर्वं मन्त्रोच्चारणपूर्वकम् \।\।
@@ -6815,8 +5453,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६६७ \।\।
-
-
 
 गृहाणानय संयच्छ त्वेवमाद्यं हि यद्द्विज \।
 
@@ -6826,8 +5462,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६६८ \।\।
 
-
-
 प्रणवेनार्कचन्द्राग्निसमूहद्युतिसन्निभम् \।
 
 संविशन्तं स्वयं मन्त्रमग्नौ तद्रूपलक्षणे \।\।
@@ -6835,8 +5469,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६६९ \।\।
-
-
 
 परमात्मनि वा भिन्ने चातुरात्म्यं तु विद्धि तत् \।
 
@@ -6846,8 +5478,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६७० \।\।
 
-
-
 इतीदम् उक्तम् अब्जाक्ष जीवभावस्थितस्य च \।
 
 पारत्रिकं विधानं तु मुखकल्पसमं महत् \।\।
@@ -6855,8 +5485,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६७१ \।\।
-
-
 
 अत्र पूर्वोदितं विप्र उक्तानुक्तं तु चाखिलम् \।
 
@@ -6866,8 +5494,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६७२ \।\।
 
-
-
 विधिनानेन यत्कुर्यात् पितृप्रेतमयं महत् \।
 
 प्रीतये परतस्तस्य शुभां यच्छन्ति सन्ततिम् \।\।
@@ -6875,8 +5501,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६७३ \।\।
-
-
 
 भावमन्त्रक्रियाद्रव्यैरसंपूर्णस्तु योगवत् \।
 
@@ -6886,8 +5510,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६७४ \।\।
 
-
-
 समस्तं ह्यग्रतो भक्त्या पितॄणाम् अनृणो भवेत् \।
 
 किं पुनर्ब्रह्मसन्मन्त्रं मन्त्रकर्म महामते \।\।
@@ -6896,11 +5518,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६७५ \।\।
 
-
-
 पौष्कर उवाच ---
-
-
 
 व -------पुव्येन भगवन् ब्रह्म -------------- \।\।
 
@@ -6912,11 +5530,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६७६ \।\।
 
-
-
 श्रीभगवानुवाच ---
-
-
 
 न तेषां व्रत\[चयहिः\]सूर्यबिम्बं यथा विना \।
 
@@ -6926,8 +5540,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६७७ \।\।
 
-
-
 प्रकाश -------त पूर्व -------न्दर्माग्रा ------- \।
 
 मा ---------------------------------- \।\।
@@ -6936,8 +5548,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६७८ \।\।
 
-
-
 व्यञ्जन्ति कमलोद्भूत त्वदन्येनैव सर्वदा \।
 
 भेद एवं हि विभोश्चतुर्मूर्तेः परस्य च \।\।
@@ -6945,8 +5555,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६७९ \।\।
-
-
 
 यत्तत्पिण्डार्\[थं\]कृतानां च रसानां भिन्नरूपिणाम् \।
 
@@ -6958,8 +5566,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६८० \।\।
 
-
-
 विभोः सर्वेश्वरस्यैव सर्वः सर्वासु शक्तिषु \।
 
 वर्तन्ते च यथा ---------------------- \।\।
@@ -6968,13 +5574,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६८१ \।\।
 
-
-
 (
 
 अत्र ग्रन्थपातः )
-
-
 
 ----------------------------
 
@@ -6986,8 +5588,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६८२ \।\।
 
-
-
 चिद्धनारुताः पुनः सम्यगुपकाराय कर्मणि \।
 
 ---------------------
@@ -6997,8 +5597,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६८३ \।\।
-
-
 
 -------
 
@@ -7010,8 +5608,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६८४ \।\।
 
-
-
 किन्तु कुर्वन्ति ताः कृत्याः कर्ता प -------रा \।
 
 प्रकाशशक्त्या यां शक्ति -------स्य च \।\।
@@ -7019,8 +5615,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६८५ \।\।
-
-
 
 स्वचिता रश्मिजालेन यन्मध्यादेकम् अब्जज \।
 
@@ -7030,8 +5624,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६८६ \।\।
 
-
-
 समाधिसंविधानं च लाभे वा ध्यानकर्मणि \।
 
 परमात्मा ससुद्भूत -------------- विभुः \।\।
@@ -7040,8 +5632,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६८७ \।\।
 
-
-
 स्वप्रकाशांशमात्रेण अत एवानुमीयते \।
 
 एवम् आह्लादशक्तेर्वै लवमात्रं हि चन्द्रमाः \।\।
@@ -7049,8 +5639,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६८८ \।\।
-
-
 
 ज्ञातव्यम् अरविन्दाक्ष प्रीतस्य निधि 
 
@@ -7064,8 +5652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६८९ \।\।
 
-
-
 जगत्यस्मिन् हि ये भावा अन्ये तद् अनुकारिणः \।
 
 ज्ञानादयो ऽपि लभ्यन्ते तेन शक्तिज ( च )यांशजाः \।\।
@@ -7074,8 +5660,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६९० \।\।
 
-
-
 सर्वत्र भगवानेवं सामान्यत्वेन वर्तते \।
 
 नेदं मायात्मकं रूपं जडशक्तिगुणैर्युतम् \।\।
@@ -7083,8 +5667,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६९१ \।\।
-
-
 
 भगवत्यब्जसंभूत त्वन्तल्लीनं हि विद्यते \।
 
@@ -7102,8 +5684,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६९३ \।\।
 
-
-
 व्यापारेष्वपि चान्येषु ते ऽप्येवं महिमान्वितम् \।
 
 बुध्यैवं मन्त्रपूर्वं च स ( व्या )पारं शास्त्रचोदितम् \।\।
@@ -7111,8 +5691,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६९४ \।\।
-
-
 
 कृतिं ( तं )ज्ञानात्मनाभ्येति ह्यचिरादेव कर्मणाम् \।
 
@@ -7122,8 +5700,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६९५ \।\।
 
-
-
 यद्वद्भुक्ताद्ध व ( विः)श्शूद्रात् न दोषो ज्ञानगौरवात् \।
 
 एवं स्वभावदीप्तानां निर्मलानां सदैव हि \।\।
@@ -7132,8 +5708,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६९६ \।\।
 
-
-
 नवैर्जातं न ( मनैर् ) मल्यं भवेच्छूद्रपरिग्रहात् \।
 
 यथैतदेव शूद्राणां\[न दोषो\]ज्ञानगौरवात् \।\।
@@ -7141,8 +5715,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६९७ \।\।
-
-
 
 अविरोधो ऽस्ति सर्वत्र मन्त्राणां समयैः सह \।
 
@@ -7154,8 +5726,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.६९८ \।\।
 
-
-
 त्रयीमयानांमन्त्राणां प्रवृत्तिफलदायिनाम् \।
 
 अस्ति ----------------------ष्मान्तद्विजग्रहम् \।\।
@@ -7163,8 +5733,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.६९९ \।\।
-
-
 
 अनिसर्गाद्विजश्रेष्ठ ब्रह्मतेजोविभासितम् \।
 
@@ -7176,8 +5744,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७०० \।\।
 
-
-
 अनिषेकं च संबुद्धं बोध्यं तेषां स वर्तते \।
 
 अपकारत्वम् एवास्ति -------परस्परम् \।\।
@@ -7185,8 +5751,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७०१ \।\।
-
-
 
 द्विजेन्द्राणामृगादीनां मन्त्राणां कमलोद्भव \।
 
@@ -7196,8 +5760,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७०२ \।\।
 
-
-
 संस्थितं च चतुर्थस्य शूद्रसंज्ञस्य पौष्कर \।
 
 प्रभाकरं च वाहं च तैक्ष्य ( क्ष्व्य )मध्ववशात्तु वै \।\।
@@ -7205,8 +5767,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७०३ \।\।
-
-
 
 निवर्तन्ते तथा ब्रह्मन् तेजोवर्णत्रयं तथा \।
 
@@ -7216,8 +5776,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७०४ \।\।
 
-
-
 आधारस्तदृगादीनां मन्त्राणां मन एव हि \।
 
 पवित्रता च या तेषां विद्धि सर्वेश्वरी हि सा \।\।
@@ -7225,8 +5783,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७०५ \।\।
-
-
 
 निवृत्तचक्र कास्तु वै मन्त्रास्तन्निवृत्तिफलप्रदाः \।
 
@@ -7236,8 +5792,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७०६ \।\।
 
-
-
 प्रतिषिद्धं यदर्थं वै मया ते कथितं पुरा \।
 
 पूरणैर्भगवन्मन्त्राः प्रणव --------------------- \।\।
@@ -7245,8 +5799,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७०७ \।\।
-
-
 
 सर्वज्ञपाचकास्ते वै सामान्या यद्यपि द्विज \।
 
@@ -7256,8 +5808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७०८ \।\।
 
-
-
 येन दीप्तिकारत्वं च नोद्वहन्ति महामते \।
 
 आदिदेवेन विभुना --------------------- \।\।
@@ -7265,8 +5815,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७०९ \।\।
-
-
 
 त्रिविधे शब्दराशौ तु त्रिविधा विकृतो जनः \।
 
@@ -7276,8 +5824,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७१० \।\।
 
-
-
 ऋग्यजुस्साम --------------व्यामिश्रयाजकाः \।
 
 चत्वारो ---------------------बीजपिण्डपदादिके \।\।
@@ -7286,8 +5832,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७११ \।\।
 
-
-
 मन्त्रव्यूहे सुशुद्धे च रजोमोहान्वयोज्झिते \।
 
 राजसानां हि मन्त्राणां तामसानां ------- \।\।
@@ -7295,8 +5839,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७१२ \।\।
-
-
 
 \[
 
@@ -7308,8 +5850,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७१३ \।\।
 
-
-
 मन्त्रज्ञेन त्रयाणां च भाव्यं शूद्रेण सर्वदा \।
 
 -------
@@ -7319,8 +5859,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७१४ \।\।
-
-
 
 ----------
 
@@ -7332,8 +5870,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७१५ \।\।
 
-
-
 स्वर्गनिष्ठं हि चोत्कृष्टं सफलं साङ्गसां तथा \।
 
 सिद्धसर्वज्ञमन्त्राणाम् अणिमा ---------- \।\।
@@ -7341,8 +5877,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७१६ \।\।
-
-
 
 संयुक्तम् अपवर्गेणाप्रार्थितं सर्वदैव हि \।
 
@@ -7352,8 +5886,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७१७ \।\।
 
-
-
 अपयुज्यति तत्सिध्यै फलं यस्याणिमादयः \।
 
 भागेन मह सामग्ग्र्या ------- पौष्कर \।\।
@@ -7361,8 +5893,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७१८ \।\।
-
-
 
 साक्षात्करं हि यत्तस्य कैवल्यं शाश्वतं फलम् \।
 
@@ -7372,8 +5902,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७१९ \।\।
 
-
-
 ईषद् दृष्टफलोपेतम् आत्मसंस्कारमेव हि \।
 
 जन्मोत्कर्षसमेतं च चित्तोत्कर्षफलप्रदम् \।\।
@@ -7381,8 +5909,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७२० \।\।
-
-
 
 एषां प्रधानभूतं यत्फलम् उक्तव्यपेक्षया \।
 
@@ -7392,8 +5918,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७२१ \।\।
 
-
-
 प्रत्ययार्थं हि मोक्षस्य सिद्धये संप्रकीर्तितम् \।
 
 मशनामाकरोन्मन्त्राः तत्सिद्धिस्तत्क्रियावशात् \।\।
@@ -7401,8 +5925,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७२२ \।\।
-
-
 
 क्रियाधिगम्यते शास्त्रात् --------------------- \।
 
@@ -7414,8 +5936,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७२३ \।\।
 
-
-
 भवेत्तत्साधुसंपर्कात् --------------------- भोत् \।
 
 सन्मन्त्राणां द्विजेन्द्राणां शाश्वतस्य च कर्मणः \।\।
@@ -7423,8 +5943,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७२४ \।\।
-
-
 
 क्वचित्त्रयस्य संयोग ---------------फलम् \।
 
@@ -7434,8 +5952,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७२५ \।\।
 
-
-
 मुखस्वरूपा ---------------------णान् स्थितान् \।
 
 अधिकारं क्वचित्कर्तुं स्थितं मन्त्रवशात् द्विज \।\।
@@ -7443,8 +5959,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २७.७२६ \।\।
-
-
 
 जन्मोत्कर्षक्रिया ---------- जायन्ते प्रत्ययैः सह \।
 
@@ -7454,31 +5968,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २७.७२७ \।\।
 
-
-
 मन्त्रव्यूहे तु विविधे ब्रह्मन् भोगापवर्गदे \।
 
 इति श्रीपाञ्चरात्रे श्रीपौष्करसंहितायां श्राद्धाख्यानो नाम सप्तविंशो ऽध्यायः \।\।
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
 अथ अष्टाविंशो ऽध्यायः
-
-
 
 -(
 
 अत्र ग्रन्थपात श्व )-
 
 श्री भगवानुवाच ---
-
-
 
 न वेदपाठसक्तानां न मोक्षक्रतुयाजिनाम् \।
 
@@ -7488,13 +5990,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.१ \।\।
 
-
-
 अग्निहोत्रपराणां च सर्वेषां चैव पौष्कर \।
-
-
-
-
 
 महत चाग्निहोत्रेण त्वेवमुक्ता गरीयसी \।
 
@@ -7504,17 +6000,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.३ \।\।
 
-
-
 -(
 
 अत्र भूयान् ग्रन्थपातः )
 
-
-
 श्री भगवानुवाच ---
-
-
 
 स्वर्गमार्गप्रदं चैव तथात्कृष्टफलप्रदम् \।
 
@@ -7524,8 +6014,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.४ \।\।
 
-
-
 ये पुनस्तु ततो ब्रह्मन् स्थिता तद्धर्मधर्मिणि \।
 
 त\[पार्\]चने समाधौ तु जपकर्मणि चस्तु तौ \।\।
@@ -7533,8 +6021,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.५ \।\।
-
-
 
 तेषामुन्नतचित्तानां भगवत्कर्मवेदिनाम् \।
 
@@ -7544,8 +6030,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.६\।\।
 
-
-
 गुग्गुल्वाद्यादिकैर्द्रव्यैः संपूर्णाहुतिभिः सह \।
 
 कृतं रहस्यमन्त्रैस्तु भवादुत्तारकं भवेत् \।\।
@@ -7553,8 +6037,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.७ \।\।
-
-
 
 धिष्ण्या वैकङ्कती ....... वैस्तु साधनैः \।
 
@@ -7564,8 +6046,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.८ \।\।
 
-
-
 यथावदाहृते वह्नौ नानायोन्युद्भवे तु वै \।
 
 पुरा ते विधिना सम्यक्कुण्डं सं\[स्थाप्य चैव तु\] \।\।
@@ -7574,21 +6054,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.९ \।\।
 
-
-
 अवतार्य च तन्मध्ये नानायोन्युत्थितं तु तत् \।
-
-
 
 -(
 
 अत्र ग्रन्थपातः )-
 
-
-
 पौष्कर उवाच ---
-
-
 
 योनयो भगवंश्चाग्नेः ज्ञान\[तुमिच्छामि सांप्रतम् \] \।
 
@@ -7600,11 +6072,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.१०\।\।
 
-
-
 श्रीभगवानुवाच ---
-
-
 
 यौ (यो )निरग्नेर्द्विधा सौरिप्रभवा रत्नलक्षणा \।
 
@@ -7614,15 +6082,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.११ \।\।
 
-
-
 विविधारणियोनिस्तत्तै....... नैकलक्षणा \।\।
 
 पौ. सं.
 
 २८.१२ \।\।
-
-
 
 या मन्थनक्रमेणैव जगत्यस्मिन् व्यवस्थिता \।
 
@@ -7634,15 +6098,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.१३ \।\।
 
-
-
 कदाचित्\[स्थात्तदुद्भूतिः\]कैचकी यत्जवर्जिता \।\।
 
 पौ. सं.
 
 २८.१४ \।\।
-
-
 
 त्रिप्रकारां तु पाषाणी तत्रैषा केवलाब्जज \।
 
@@ -7651,8 +6111,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.१५ \।\।
-
-
 
 \[
 
@@ -7664,8 +6122,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.१६ \।\।
 
-
-
 तृतीयावर्तयोः सम्यक् तामनं च परस्परम् \।
 
 लोहपाषाणयोनीनां\[तामनं स्यात् त\]थैव च \।\।
@@ -7674,15 +6130,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.१७ \।\।
 
-
-
 अष्टम .......पि संक्षिप्तमेकमन्थानलक्षणम् \।\।
 
 पौ. सं.
 
 २८.१८ \।\।
-
-
 
 सन्ताडनं च ............................ न्न परं हि तम् \।
 
@@ -7692,19 +6144,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.१९ \।\।
 
-
-
 (...)
-
-
 
 प्रकृष्टमपि बोद्धव्यं काल...................... \।
 
 ज्वालाग्रात्तु कचालाच्च तद्भूतिमस्त ....... \।
 
 आसां पञ्चविधं स्थानं .......न्तं ब्राह्मणाकिम् \।
-
-
 
 सदेव नानादेवैस्तु व्यक्तियुक्ता महामते \।
 
@@ -7714,8 +6160,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.२४ \।\।
 
-
-
 शक्तिभावेन वै तस्मादहर्तव्यं च पावकम् \।
 
 यथा गृही तथा\[नृभ्यां\]विरोधे नोपपद्यते \।\।
@@ -7723,8 +6167,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.२५ \।\।
-
-
 
 तस्मात्सर्वपदार्थानामादेशा (शात् )शक्तिरब्जज \।
 
@@ -7734,8 +6176,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.२६ \।\।
 
-
-
 चतुष्प्रकाराग्षैव गीयते सप्तधा पुनः \।
 
 कथा कमलसंभूत तवेदानीं निगद्यते \।\।
@@ -7743,8 +6183,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.२७ \।\।
-
-
 
 याक्षी च पार्थिवी सौरी शैखी भ्राष्ट्री तथैव च \।
 
@@ -7754,8 +6192,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.२८ \।\।
 
-
-
 स्थितिरासां द्विधा विप्र पुनरेव निगद्यते \।
 
 निर्बीजाख्या सबीजा च निर्बीजा तावदुच्यते \।\।
@@ -7763,8 +6199,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.२९ \।\।
-
-
 
 भवनी द्विप्रकारा च तत्स्थानाख्यच वै (कै )चकी \।
 
@@ -7776,8 +6210,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.३० \।\।
 
-
-
 निर्बीजेयं समाख्याता सबीजा च निगद्यते \।
 
 शैखी भ्राष्ट्री च कापाली स्वतन्त्रानललक्षणा \।\।
@@ -7786,8 +6218,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.३१ \।\।
 
-
-
 होत्रा संयोजनी चैव यदुक्तं ते मयाब्जज \।
 
 अविशेषा सुसामान्या सर्वेषां चैव सर्वदा \।\।
@@ -7795,8 +6225,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.३२ \।\।
-
-
 
 यद्यप्यब्जसमुद्भेत तथावग\[मितं\]श्रुणु \।
 
@@ -7808,8 +6236,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.३३ \।\।
 
-
-
 विहिता ब्रह्मचारीणां लोहपाषाणलक्षणा \।
 
 आधानाख्या गृहस्थानां कैचकी वनवासिनाम् \।\।
@@ -7817,8 +6243,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.३४ \।\।
-
-
 
 सावित्री च यतीनां वै त्वाराधन\[रतात्मनाम्\] \।
 
@@ -7830,8 +6254,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.३५ \।\।
 
-
-
 विहिता नयने वह्नेररणीनां परस्य च \।
 
 नृपस्य तदनुज्ञाता सामान्यान्नाभसी द्विधा \।\।
@@ -7839,8 +6261,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.३६ \।\।
-
-
 
 तद् द्वयं तदनुज्ञानं (तं )त्रितय ------- \।
 
@@ -7850,8 +6270,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.३७ \।\।
 
-
-
 शूद्रस्य क्रमसिद्ध्यर्थं विशेषात्तदनुज्ञया \।
 
 द्विजेन्द्रस्य द्विजे ------- -------------- \।\।
@@ -7859,8 +6277,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.३८ \।\।
-
-
 
 ------- ---------------
 
@@ -7872,8 +6288,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.३९ \।\।
 
-
-
 आपत्काले तु नान्यस्य यच्छेच्छूद्रस्य वान्य ------- \।
 
 -------------------------------------------- \।\।
@@ -7882,13 +6296,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.४० \।\।
 
-
-
 --- (
 
 अत्र कोशचतुष्टये ऽपि ग्रन्थपातः)---
-
-
 
 ------- ------- -------
 
@@ -7902,8 +6312,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.४१ \।\।
 
-
-
 तम्मुख्य ----------व्युत्क्रमं चाल्पसिद्धिदम् \।
 
 फलभेदेन सर्वेषां विहिता योनयो ऽ खिलाः \।\।
@@ -7911,8 +6319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.४२ \।\।
-
-
 
 एकादशाब्जसंभूत यथा तदवधारय \।
 
@@ -7922,8 +6328,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.४३ \।\।
 
-
-
 गोप --------------------यच्छत्यरणिलक्षणा \।
 
 विजेया कैचकी योनिः सुखसौभाग्यपुष्टिदा \।\।
@@ -7931,8 +6335,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.४४ \।\।
-
-
 
 बुद्धिवीर्यप्रदा भूमिः -------ख्या शत्रुनाशिनी \।
 
@@ -7942,8 +6344,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.४५ \।\।
 
-
-
 धर्मा -------शैखी भ्राष्ट्री भूमिप्रदा तु वै \।
 
 संवेदयोनिः कापाली स्थानवृद्धिकराब्जज \।\।
@@ -7951,8 +6351,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.४६ \।\।
-
-
 
 रोगोपशान्तिकामानां योनिर्भूतकरी शुभा \।
 
@@ -7962,8 +6360,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.४७ \।\।
 
-
-
 अण्डभा न्नविरोधो ऽस्ति त्वन्योन्यहरणे सति \।
 
 सर्वेषां योनयः सर्वा इच्छाकाले ह्युपस्थितौ (ते ) \।\।
@@ -7971,8 +6367,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.४८ \।\।
-
-
 
 मन्त्राराधनसक्तानामविरुद्धाः सदैव हि \।
 
@@ -7982,8 +6376,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.४९ \।\।
 
-
-
 प्रमादानुपशान्तश्चे द्योनिरन्याहरेत् पुनः \।
 
 न बलादुपरोधाच्च संग्रहस्थस्य नार्चनात् \।\।
@@ -7991,8 +6383,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २८.५० \।\।
-
-
 
 संगृहीतस्य वै भुयः प्रायश्चित्तं समाचरेत् \।
 
@@ -8002,25 +6392,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २८.५१ \।\।
 
-
-
 इति श्रीपञ्चरात्रे पौष्करसंहितायां हुताशनयोनिविभागो नाम अष्टाविंशो ऽध्यायाः \।\।
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
 अथ एकोनत्रिंशो ऽध्यायः
 
-
-
 श्रीभगवानुवाच ---
-
-
 
 प्राजापत्ये दैशिकीये शैषोत्थकरसंमिते \।
 
@@ -8030,8 +6408,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.१ \।\।
 
-
-
 यावद् अष्टकरं क्षेत्रं धिष्ण्यार्थम् उपजायते \।
 
 एवं स्यान्मानभावेन त्वेकाशीत्यधिकं शतम् \।\।
@@ -8040,8 +6416,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.२ \।\।
 
-
-
 कुण्डानां सर्व ----------------------- \।
 
 जायते ऽष्टगुणं संख्या त्वष्टदिक्संस्थिता शुभा \।\।
@@ -8049,8 +6423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.३ \।\।
-
-
 
 चतुरश्रादिभेदोत्था काम्यानां कर्मणां द्विज \।
 
@@ -8062,8 +6434,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.४ \।\।
 
-
-
 सद्रत्नमालाश्रीवत्समुकुटाङ्गदलक्षणाः \।
 
 शङ्खचक्रगदापद्मशार्ङ्गनानाशरोपमाः \।\।
@@ -8071,8 +6441,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.५ \।\।
-
-
 
 सर्वे सपीठा विहिताश्चतुस्त्रिद्वयेकमेखलाः \।
 
@@ -8082,8 +6450,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.६ \।\।
 
-
-
 तथाष्टयोनिनिर्वाहैः स्वैरङ्गैरुचिरोत्थिताः \।
 
 प्रत्येकस्वस्वकव्यासद्विद्विद्वादशसंख्यया \।\।
@@ -8091,8 +6457,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.७ \।\।
-
-
 
 भागं तम् अङ्गुलं विद्धि सर्वावयवसिद्धये \।
 
@@ -8102,8 +6466,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.८ \।\।
 
-
-
 अप्रकाशप्रकाशाख्यं भेदं तु विविधं स्मृतम् \।
 
 सद्भोगलक्षणं बन्धम् अनन्तफलम् अर्थिनाम् \।\।
@@ -8111,8 +6473,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.९ \।\।
-
-
 
 ----------
 
@@ -8124,8 +6484,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.१० \।\।
 
-
-
 प्रकाशिलक्षणन्याये तेषां स्वातो महामते \।
 
 ------------------------------
@@ -8136,8 +6494,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.११ \।\।
 
-
-
 आद्वादशाङ्गुलाः कुण्डाः करान्ते ये त्रयोदश \।
 
 सर्वाकृतिधराश्चैव जङ्गमा मेखलोज्झिताः \।\।
@@ -8145,8 +6501,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.१२ \।\।
-
-
 
 अनुकल्पे तु विहिता जङ्गमा मन्त्रतर्पणे \।
 
@@ -8156,8 +6510,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.१३ \।\।
 
-
-
 भूमावुल्लिख्य संपूर्य धान्यैर्बीजैर्मृदा तु वा \।
 
 सामग्रीविरहाद् वापि शश्वत्कर्मसमाप्तये \।\।
@@ -8166,8 +6518,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.१४ \।\।
 
-
-
 अनुकल्पानुकल्पे तु नित्यम् एवाविरोधकृत् \।
 
 त्वगन्वितैः समैः पूर्णैः सरसैः सरलैः स्थिरैः \।\।
@@ -8175,8 +6525,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.१५ \।\।
-
-
 
 दलीकृतैस्तु --------------------- \।
 
@@ -8188,8 +6536,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.१६ \।\।
 
-
-
 द्वादशाङ्गुलपूर्वाणां धातूत्थानाम् अपि द्विज \।
 
 विधेया हव्यपूरित्वे चलानाम् एवमेव हि \।\।
@@ -8197,8 +6543,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.१७ \।\।
-
-
 
 नाकुण्डं हवनं यस्मात्सिद्धिकृन्मन्त्राजिनाम् \।
 
@@ -8208,8 +6552,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.१८ \।\।
 
-
-
 हव्यभूमेर्विशेषाच्च पीते तु द्विगुणोच्छ्रिते \।
 
 तत् तद् द्विचतुरश्रं तु व्यष्टाश्रं परिमण्डलम् \।\।
@@ -8217,8 +6559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.१९ \।\।
-
-
 
 -------
 
@@ -8230,8 +6570,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.२० \।\।
 
-
-
 इष्टकाभिव् अपक्वाभिः पक्वाभिर्वा यथारुचि \।
 
 ------------------------------
@@ -8242,8 +6580,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.२१ \।\।
 
-
-
 कुर्याद्वाथ समास्तुल्या तेष्वंशं -------स्यतः क्षितः \।
 
 द्वयङ्गुलेनाधिकं जातं वासाद् वासां यथा भवेत् \।\।
@@ -8251,8 +6587,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.२२ \।\।
-
-
 
 प्राङ्मेखलाननात् देशात् तत्तद्वा पत्तदु ------- \।
 
@@ -8264,8 +6598,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.२३ \।\।
 
-
-
 त्रिभागोनम् अथार्धं च नेमिमानसितात्मना \।
 
 कुण्डानां तत्त्वतो मानाद् अवस्थानं द्वादशानां महामते \।\।
@@ -8273,8 +6605,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.२४ \।\।
-
-
 
 द्वादशाङ्गुलनिष्ठानां द्वादशानां कदाचन \।
 
@@ -8284,8 +6614,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.२५ \।\।
 
-
-
 तन्मानम् अथ नेमीनाम् उच्छ्रिता विस्तृतेरपि \।
 
 तत्समा सर्वदा योने\[ःकार्\]येण पृष्टतःकृतेः \।\।
@@ -8293,8 +6621,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.२६ \।\।
-
-
 
 किन्तु व्द्यङ्गुलमानेन प्रोन्नता पृष्ठतो ऽवधेः \।
 
@@ -8304,8 +6630,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.२७ \।\।
 
-
-
 स्वाङ्गुलांश्च तृतीयांशादुल्बणत्वेन सर्वदा \।
 
 विस्तृता मेखलामानात् पादोनात् कमलोद्भव \।\।
@@ -8313,8 +6637,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.२८ \।\।
-
-
 
 विधेयाथ त्रिभागेन तदग्रं संप्रसार्य च \।
 
@@ -8326,8 +6648,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.२९ \।\।
 
-
-
 ------------------------
 
 बिम्बप्राणप्रणालवत् \।
@@ -8338,8 +6658,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.३० \।\।
 
-
-
 समापाद्यानुपातेन समं श्लक्ष्णं गजोष्ठवत् \।
 
 समाश्रित्य स्वकं मूर्तिं विचित्रां गुणलक्षणाम् \।\।
@@ -8347,8 +6665,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.३१ \।\।
-
-
 
 निर्वहन्ति निशं बोधप्रवाहेना ----------नादिना \।
 
@@ -8358,8 +6674,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.३२ \।\।
 
-
-
 निशम्य योनिं ----------व्योम्नि रज ------- \।
 
 द्वाभ्यां गुणाभ्यां तमसो द्विनेमिविनित्ततात् \।\।
@@ -8367,8 +6681,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.३३ \।\।
-
-
 
 गुणस्याभिभवादेव ----------कं वत्सत्वमेखलम् \।
 
@@ -8378,8 +6690,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.३४ \।\।
 
-
-
 सचतुर्मेखले धिष्ण्ये मेखलासं चतसृषु \।
 
 चतुरात्मानम् अव्यक्तं तत्र प्राक् परिधेः स्वयम् \।\।
@@ -8388,8 +6698,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.३५ \।\।
 
-
-
 समः संपूर्णमूर्तीनां ममा-------मोक्षजम् \।
 
 गुणद्वयद्वयात्मानम् अच्युताद्यं क्रमात् त्रयम् \।\।
@@ -8397,8 +6705,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.३६ \।\।
-
-
 
 ---------------------
 
@@ -8410,8 +6716,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.३७ \।\।
 
-
-
 विस्तीर्णानन्तयोनीनां दूरतो वनमूर्तिनाम् \।
 
 कुण्डनामितिमारी ----------
@@ -8422,8 +6726,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.३८ \।\।
 
-
-
 विधेया वितताश्चाङ्गी-------सुस्थिरवर्तिरा \।
 
 पल्वस्तनगर्भेण तमूर्धक्षणम् आसपातयेत् \।\।
@@ -8431,8 +6733,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 पौ. सं.
 
 २९.३९ \।\।
-
-
 
 योनिश्चलस्तो ऽन्येषाम् उद्यतानां ------- \।
 
@@ -8444,11 +6744,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMDM5NTQzMDI
 
 २९.४० \।\।
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 MS.
 
@@ -8508,12 +6804,6 @@ MS.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
 संकोचः कुण्डनेभीनाम् अनुकाले त्वतः शृणु \।
 
 चतुर्भागा तु षा (सा )विप्र ह्युत्तमादिव्यपेक्षया \।\।
@@ -8521,8 +6811,6 @@ MS.
 पौ. सं.
 
 २९.४१ \।\।
-
-
 
 करायस्स (न्तः स )मितं मानम् एकैकानाङ्गुलेन वा \।
 
@@ -8532,8 +6820,6 @@ MS.
 
 २९.४२ \।\।
 
-
-
 सर्वदिक् करमानाश्चाप्यङ्गुलैः पञ्चभिर्विना \।
 
 सततव्यासमानानां नानाकारवद् आत्मनाम् \।\।
@@ -8541,8 +6827,6 @@ MS.
 पौ. सं.
 
 २९.४३ \।\।
-
-
 
 विस्तारायाम् अतुल्यानां धिष्ण्यानां मेखलासु च \।
 
@@ -8554,8 +6838,6 @@ MS.
 
 २९.४४ \।\।
 
-
-
 द्विहस्ता मूर्धतो ऽन्येषां तत्समं तु भवेच्छतम् \।
 
 एवं विचार्य च पुरा देशकालवशादिकम् \।\।
@@ -8563,8 +6845,6 @@ MS.
 पौ. सं.
 
 २९.४५ \।\।
-
-
 
 स्वसामर्थ्यं ततो व्यूहस्तत्र पातं ससिरि --- \।
 
@@ -8576,8 +6856,6 @@ MS.
 
 २९.४६ \।\।
 
-
-
 सवृत्ताष्टाश्रतुर्यान्त्री (श्रि )पीठानाम् ऊर्ध्वतो ऽब्जज \।
 
 खातो ऽष्टमेखलानां च चोनिः पीठस्य पौष्कर \।\।
@@ -8585,8 +6863,6 @@ MS.
 पौ. सं.
 
 २९.४७ \।\।
-
-
 
 क्षयवृद्ध -------प्रत्याय्य द्रुमनस्वयम् \।
 
@@ -8596,8 +6872,6 @@ MS.
 
 २९.४८ \।\।
 
-
-
 द्विशोभात्मना स्वे -------तुष्ट्यर्थं सांप्रतं नयेत् \।
 
 भगवद् वह्निशक्तेर्वै ज्वालाद्या प्रकृतिः परा \।\।
@@ -8605,8 +6879,6 @@ MS.
 पौ. सं.
 
 २९.४९ \।\।
-
-
 
 अपरा प्रकृतधिष्ण्यानां नानाकारं यथानलात् \।
 
@@ -8616,8 +6888,6 @@ MS.
 
 २९.५० \।\।
 
-
-
 का --------------विहिता विभोर्विप्राननस्य च \।
 
 हव्यं यत् पतिते कुण्डे दीयमानं हि देशिकात् \।\।
@@ -8625,8 +6895,6 @@ MS.
 पौ. सं.
 
 २९.५१ \।\।
-
-
 
 सर्वं सिद्धिदम् अग्नेर्वै हुतं यद् दहते ऽखिलम् \।
 
@@ -8636,8 +6904,6 @@ MS.
 
 २९.५२ \।\।
 
-
-
 कोटिलक्षायुतगुणं द्रव्यं यद् विहितं हुतम् \।
 
 विधूमे लेलिहाने ऽग्नौ स्वे -------स्वशयाश्रिते \।\।
@@ -8645,8 +6911,6 @@ MS.
 पौ. सं.
 
 २९.५३ \।\।
-
-
 
 सहस्त्रशतसंख्यं च जुहुयाद् द्रव्यसंग्रहम् \।
 
@@ -8656,8 +6920,6 @@ MS.
 
 २९.५४ \।\।
 
-
-
 धारावाहि ततो ऽन्येषा -------------- \।
 
 पुत्र युक्त्याम्बरस्थं च मन्त्रब्रह्माम्बुजोपरि \।\।
@@ -8666,8 +6928,6 @@ MS.
 
 २९.५५ \।\।
 
-
-
 मुख्यकल्पो विलुप्ते तु -------युक्तम् अथाब्जज \।
 
 कुण्डानां विततानां च वंशवीर्यादिकं च यत् \।\।
@@ -8675,8 +6935,6 @@ MS.
 पौ. सं.
 
 २९.५६ \।\।
-
-
 
 ---------------------------
 
@@ -8688,8 +6946,6 @@ MS.
 
 २९.५७ \।\।
 
-
-
 धर्मान्यो(न्तो )द्वहनं येन न स्वेव (स्वे न )यति भूतलम् \।
 
 संस्कारसंस्कृतं कुर्यात् कुण्डं तदनु तन्न्यसेत् \।\।
@@ -8697,8 +6953,6 @@ MS.
 पौ. सं.
 
 २९.५८ \।\।
-
-
 
 --------------------
 
@@ -8710,8 +6964,6 @@ MS.
 
 २९.५९ \।\।
 
-
-
 वह्नेवो (रो )ङ्कारवेगेन रसता सूपरि द्विज \।
 
 पातयेद् आज्यदोहं द्राक् मध्ये मन्त्रात्मनो विभोः \।\।
@@ -8719,8 +6971,6 @@ MS.
 पौ. सं.
 
 २९.६० \।\।
-
-
 
 मोक्षभोगाप्तये चैवं ब्रह्मरन्ध्रमुखे क्रमात् \।
 
@@ -8730,8 +6980,6 @@ MS.
 
 २९.६१ \।\।
 
-
-
 कृत्वा तु मन्त्रनाथस्य ब्रह्मन् अर्चनसंयुतम् \।
 
 सव्यूहव्याङ्गसंयुक्तं लाञ्छनस्यावृतस्य च \।\।
@@ -8740,8 +6988,6 @@ MS.
 
 २९.६२ \।\।
 
-
-
 कुर्याल्लब्धाधिकारो ऽथ सेवार्थम् अयुतादिकम् \।
 
 जपम् आरब्धमन्त्रस्य ब्रह्मपूर्वम् अतन्द्रितः \।\।
@@ -8749,8 +6995,6 @@ MS.
 पौ. सं.
 
 २९.६३ \।\।
-
-
 
 नियतं हि य (था श )
 
@@ -8762,8 +7006,6 @@ MS.
 
 २९.६४ \।\।
 
-
-
 पूर्वसेवाविधेरूर्ध्वं प्रीत्यर्थं पूजितस्य च \।
 
 लक्षजापादिके सिद्धे -------ब्रह्मदिने ------- \।\।
@@ -8772,8 +7014,6 @@ MS.
 
 २९.६५ \।\।
 
-
-
 समाप्ते तत्समे होमे -------विहितो ऽथवाब्जज \।
 
 अङ्गेनम् अङ्गतुल्यं वा धान्यैर्बीजैस्तिलैः फलैः \।\।
@@ -8781,8 +7021,6 @@ MS.
 पौ. सं.
 
 २९.६६ \।\।
-
-
 
 हरिणानननाराचमुद्रया जलजाख्यया \।
 
@@ -8794,8 +7032,6 @@ MS.
 
 २९.६७ \।\।
 
-
-
 षण्माससममानेन द्विगुणेनाथ पौष्कर \।
 
 चतुर्गुणेन वा शक्त्या ह्यन्तरान्तरयोगतः \।\।
@@ -8803,8 +7039,6 @@ MS.
 पौ. सं.
 
 २९.६८ \।\।
-
-
 
 शक्त --------------शतान्ते च द्विचतुष्परिपूरिते \।
 
@@ -8816,8 +7050,6 @@ MS.
 
 २९.६९ \।\।
 
-
-
 ---------------------
 
 भूरिचात्म समानयेत् \।
@@ -8827,8 +7059,6 @@ MS.
 पौ. सं.
 
 २९.७० \।\।
-
-
 
 -------
 
@@ -8840,8 +7070,6 @@ MS.
 
 २९.७१ \।\।
 
-
-
 भिन्नमन्त्रगणं सर्वम् आज्यदोहैर्मुदं नयेत् \।
 
 ध्रुवाच्चार्चितया --------------
@@ -8852,8 +7080,6 @@ MS.
 
 २९.७२ \।\।
 
-
-
 तल्लक्षणम् अथो वक्ष्ये मानमेयसमन्वितम् \।
 
 प्रसिद्धयज्ञवृक्षोत्थं न दोषैर्दृढमव्रण (त )म् \।\।
@@ -8861,8 +7087,6 @@ MS.
 पौ. सं.
 
 २९.७३ \।\।
-
-
 
 सुस्पष्टं काष्ठम् आदाय दवाग्नित्रासवर्जितम् \।
 
@@ -8874,8 +7098,6 @@ MS.
 
 २९.७४ \।\।
 
-
-
 मध्यमाङ्\[गु\]लिपर्यन्तं बाह्नोरामणिबन्धतः \।
 
 तमङ्गुष्ठोदरैर्भूयो --------------नगुण्य च \।\।
@@ -8883,8 +7105,6 @@ MS.
 पौ. सं.
 
 २९.७५ \।\।
-
-
 
 अष्टावष्टौ त्यजन् यायात् शेषास्त्वेकाधिकाहि --- \।
 
@@ -8894,8 +7114,6 @@ MS.
 
 २९.७६ \।\।
 
-
-
 तत्रैवम् अवशेषं यच्छुभं च शुभनः स्मृतः \।
 
 यूयं (थं )युग्मावशेषाच्च तृतीयाच्च मृगाधिपः \।\।
@@ -8903,8 +7121,6 @@ MS.
 पौ. सं.
 
 २९.७७ \।\।
-
-
 
 चतुष्टय स्व (श्व )वृद्धिं च पञ्चका वृषभः स्मृतः \।
 
@@ -8914,8 +7130,6 @@ MS.
 
 २९.७८ \।\।
 
-
-
 एकाख्यः सप्तकाः शुद्धेस्तत्रामी शुभदाः स्मृताः \।
 
 गजेन्द्रसिंहवृषभध्वजाद्या ये शुभप्रदाः \।\।
@@ -8923,8 +7137,6 @@ MS.
 पौ. सं.
 
 २९.७९ \।\।
-
-
 
 अशुभाय(ये )विघातार्थं स्वशुभाय(ये )विवृद्धये \।
 
@@ -8934,8 +7146,6 @@ MS.
 
 २९.८० \।\।
 
-
-
 तद् दीर्घं पञ्चधा कुर्यात् तद् विरुतारं दलेन तु \।
 
 सिद्धये मध्यदेशस्य विधेया यत्र पौष्कर \।\।
@@ -8944,8 +7154,6 @@ MS.
 
 २९.८१ \।\।
 
-
-
 आद्यकौशादयश्वागोः तद् उद्देशात् क्रमेण तु \।
 
 पत्रकेसरचक्राङ्गं भूमीनां ह्रासमाचरेत् \।\।
@@ -8953,8 +7161,6 @@ MS.
 पौ. सं.
 
 २९.८२ \।\।
-
-
 
 -------
 
@@ -8966,8 +7172,6 @@ MS.
 
 २९.८३ \।\।
 
-
-
 पञ्चमांशेन दैर्ध्यं तु तद् विस्तारसमेन तु \।
 
 द्विभागसंहतं चैव शाखादेशाग्रतो भवेत् \।\।
@@ -8975,8 +7179,6 @@ MS.
 पौ. सं.
 
 २९.८४ \।\।
-
-
 
 -------
 
@@ -8988,8 +7190,6 @@ MS.
 
 २९.८५ \।\।
 
-
-
 स्वं स्वं संवेदितं कुर्यात् तेन चावेदिकं शुभम् \।
 
 क्षितिमण्डलमध्यस्थभागेनाद्येन वै ततः \।\।
@@ -8997,8 +7197,6 @@ MS.
 पौ. सं.
 
 २९.८६ \।\।
-
-
 
 कमलं लक्षणोपेतं केवलं षोडशच्छदम् \।
 
@@ -9008,8 +7206,6 @@ MS.
 
 २९.८७ \।\।
 
-
-
 निबीजं कर्णिकाकोशम् ईषत्परिविभूषितम् \।
 
 यथोक्तलक्षणाढ्येन हेतीशेनावृतं तु वा \।\।
@@ -9018,8 +7214,6 @@ MS.
 
 २९.८८ \।\।
 
-
-
 चक्रधारावनिं कुर्यात् कोणेषूभयतो ऽङ्किताम् \।
 
 कौस्तुभैः स्वस्तिकैर्वाथ शङ्खाद्यैर्मण्डल मण्डितम् \।\।
@@ -9027,8 +7221,6 @@ MS.
 पौ. सं.
 
 २९.८९ \।\।
-
-
 
 तारात्ता (ए )गणाढ्यं वा -------------- \।
 
@@ -9040,8 +7232,6 @@ MS.
 
 २९.९० \।\।
 
-
-
 अतश्चान्तानुपातार्थम् अष्टांशं पक्षगं पुनः \।
 
 त्यक्त्वा समाचरेद्ध्रासं यथा स्याद् गजपाणिवत् \।\।
@@ -9050,8 +7240,6 @@ MS.
 
 २९.९१ \।\।
 
-
-
 अन्तरं वसुधाभ्यां --------------ष्टांशसंमितम् \।
 
 कार्यं षडंशतुल्यं वा विस्तृतैः शुभलक्षणम् \।\।
@@ -9059,8 +7247,6 @@ MS.
 पौ. सं.
 
 २९.९२ \।\।
-
-
 
 तद् विस्तारं द्विधा कृत्वा पञ्चधा वा समैः पदैः \।
 
@@ -9072,8 +7258,6 @@ MS.
 
 २९.९३ \।\।
 
-
-
 -------
 
 भागम् अभागं च पक्षयोर्वा द्वयं द्वयम् \।
@@ -9084,8 +7268,6 @@ MS.
 
 २९.९४ \।\।
 
-
-
 स्कन्धान्तरं च --------------------- \।
 
 मत्स्यवल्लांञ्छन --------------यथाक्रमम् \।\।
@@ -9094,8 +7276,6 @@ MS.
 
 २९.९५ \।\।
 
-
-
 पार्श्वाभ्याम् अन्तरं बाह्यात् शेषं कण्ठात्मना नयेत् \।
 
 यथा स्याद् गोमुखे भास -------कण्ठं महर्द्धिदम् \।\।
@@ -9103,10 +7283,6 @@ MS.
 पौ. सं.
 
 २९.९६ \।\।
-
-
-
-
 
 निर्मुक्तवेदिकानां तु शङ्खादीनां यदन्त------- \।
 
@@ -9118,8 +7294,6 @@ MS.
 
 २९.९७ \।\।
 
-
-
 वेदिकावासुधांशा (भ्यां )त्वनुपातेन शातयेत् \।
 
 स्कन्धकण्ठात् समारभ्यत्रयो ग्रीवा यथेच्छया \।\।
@@ -9127,8 +7301,6 @@ MS.
 पौ. सं.
 
 २९.९८ \।\।
-
-
 
 विधाय भागं प्रागुक्त ---------------------तम् \।
 
@@ -9138,8 +7310,6 @@ MS.
 
 २९.९९ \।\।
 
-
-
 सपादभागसमेतं कुर्यात् पञ्चाङ्गसंमितम् \।
 
 विस्तृतेर् वाधिकं किञ्चित् न्यूनं वा राजते यथा \।\।
@@ -9147,8 +7317,6 @@ MS.
 पौ. सं.
 
 २९.१०० \।\।
-
-
 
 कुम्भभागत्रयं सद्मद्वयं संशातयेत् क्रमात् \।
 
@@ -9158,8 +7326,6 @@ MS.
 
 २९.१०१ \।\।
 
-
-
 कुक्षिदेशं द्विधा चैव स्त्रगाद्यैर् अर्चयेत् ततः \।
 
 वर्तते मूलम् आश्रित्य दैर्ध्याद् भागत्रयं हि यत् \।\।
@@ -9167,8 +7333,6 @@ MS.
 पौ. सं.
 
 २९.१०२ \।\।
-
-
 
 तन्मध्यात् कण्ठदेशे प्रागाक्षिप्याङ्गं यथोदितम् \।
 
@@ -9178,8 +7342,6 @@ MS.
 
 २९.१०३ \।\।
 
-
-
 दण्डं कुर्याद् गदाकारं कण्ठविस्तारविस्तृतम् \।
 
 द्विप्रकारं यथोद्दिष्टमते-------लवणान्वितम् \।\।
@@ -9187,8 +7349,6 @@ MS.
 पौ. सं.
 
 २९.१०४ \।\।
-
-
 
 अंशकत्रितयेनैव तत्र निर्माणम् उच्यते \।
 
@@ -9198,8 +7358,6 @@ MS.
 
 २९.१०५ \।\।
 
-
-
 स्वास्तिकं लक्षणोपेतं मध्यतः कमलाङ्कितम् \।
 
 कर्णिका निचयश्श्चान्तं प्रत्यंशं रचयेत् ततः \।\।
@@ -9208,13 +7366,9 @@ MS.
 
 २९.१०६ \।\।
 
-
-
 अङ्गणे -------पेतैः सुसमैर् अन्तरीकृतैः \।
 
 (...)
-
-
 
 धाराचनविधानैवं द्विषट्कपरिनिष्ठिते \।
 
@@ -9224,8 +7378,6 @@ MS.
 
 २९.१०८ \।\।
 
-
-
 करग्रहवतीं मुष्टि--------------मरोदयलक्षणाम् \।
 
 ईषा (षन् )मानाधिकं दण्डं बाह्यम् आपूरयेत् तथा \।\।
@@ -9233,8 +7385,6 @@ MS.
 पौ. सं.
 
 २९.१०९ \।\।
-
-
 
 शतपत्रम् अधोवक्त्रं पृथुलं चोर्ध्वकर्णिकम् \।
 
@@ -9244,8 +7394,6 @@ MS.
 
 २९.११० \।\।
 
-
-
 अथवेदिक्षिपेत् पीठलक्षणं चापरं शृणु \।
 
 विहितं चार्धकल्पेयं देवपीठोपमं शुभम् \।\।
@@ -9253,8 +7401,6 @@ MS.
 पौ. सं.
 
 २९.१११ \।\।
-
-
 
 उष्णीवपदपर्यन्तम् आचाग्रेः स विभज्य च \।
 
@@ -9264,8 +7410,6 @@ MS.
 
 २९.११२ \।\।
 
-
-
 पद्मं चक्रारविन्दं वा -------लक्षणलक्षितम् \।
 
 किंतु मानं विभागं च भूयः क्षेत्रवशात् शृणु \।\।
@@ -9273,8 +7417,6 @@ MS.
 पौ. सं.
 
 २९.११३ \।\।
-
-
 
 ब्रह्मस्थानावधेः क्षेत्रं कृत्वा षङ्भागभाजितम् \।
 
@@ -9284,8 +7426,6 @@ MS.
 
 २९.११४ \।\।
 
-
-
 परिधिश्चार्धभागेन त्वर्धेन केसरावलिम् \।
 
 सार्धेन पत्रनिचयं व्योम चार्धेन तद् बहिः \।\।
@@ -9293,8 +7433,6 @@ MS.
 पौ. सं.
 
 २९.११५ \।\।
-
-
 
 पार्थिवं पुरम् अंशेन विचित्ररचनान्वितम् \।
 
@@ -9304,8 +7442,6 @@ MS.
 
 २९.११६ \।\।
 
-
-
 किञ्चित् किञ्चित् समादाय प्रो\[न्नते\]ष्ववयवेषु च \।
 
 आख्यातपरि\[तो\] ब्रह्मन् दलपादानिकं क्रमात् \।\।
@@ -9313,8 +7449,6 @@ MS.
 पौ. सं.
 
 २९.११७ \।\।
-
-
 
 निम्नतां च नयेद् ईषत् क्षेत्रात् क्षेत्रं यथोदितम् \।
 
@@ -9324,8 +7458,6 @@ MS.
 
 २९.११८ \।\।
 
-
-
 खातात्मकेसरक्षेत्रमानम् अत्र यथोदितम् \।
 
 दलजालं समापाद्य सव्योम चांशकेन तु \।\।
@@ -9333,8 +7465,6 @@ MS.
 पौ. सं.
 
 २९.११९ \।\।
-
-
 
 सचक्रनेमिवृत्तं तु सार्धेनांशेन तद् बहिः \।
 
@@ -9344,8 +7474,6 @@ MS.
 
 २९.१२० \।\।
 
-
-
 पृष्ठतस्व --------------कुर्यात् सपद्मं कैवलं तु वा \।
 
 कमलं दलजालं च मुख --------------------- \।\।
@@ -9353,8 +7481,6 @@ MS.
 पौ. सं.
 
 २९.१२१ \।\।
-
-
 
 एतत् प्रमाणनिर्माणपरि --------------------- \।
 
@@ -9364,8 +7490,6 @@ MS.
 
 २९.१२२ \।\।
 
-
-
 शतपत्रात्मनानन्तो मुष्टिस्तेनन्तवात्र धृक् \।
 
 अन्तर्बीजात्मभावेन स्थित्वा चोत्थमुखः पुनः \।\।
@@ -9373,8 +7497,6 @@ MS.
 पौ. सं.
 
 २९.१२३ \।\।
-
-
 
 पतस्कन्धं यदर्यात्मभूतप्राणमरुन्महत् \।
 
@@ -9384,8 +7506,6 @@ MS.
 
 २९.१२४ \।\।
 
-
-
 सप्तपातालनालं च त्वगमक्षात्मनाम्बुजम् \।
 
 यदाश्रित्य स्ववाहे तु ह्यमृतं जलवत् स्थितम् \।\।
@@ -9393,8 +7513,6 @@ MS.
 पौ. सं.
 
 २९.१२५ \।\।
-
-
 
 सचक्ररचनाजाले स्थितस्ते सत्रमूर्तिधृक् \।
 
@@ -9404,8 +7522,6 @@ MS.
 
 २९.१२६ \।\।
 
-
-
 निर्बीजम् अजम् अक्षोभ्यम् आद्यं स्त्रग्देवतस्याधिदैवतम् \।
 
 सत्यभूतम् अमेयं च प्रमेयम् इदम् अच्युतम् \।\।
@@ -9414,8 +7530,6 @@ MS.
 
 २९.१२७ \।\।
 
-
-
 संस्कारकाले त्वारोप्य नित्यं संमन्त्र्य तर्पणे \।
 
 दैर्घ्यम् एव तम् उज्झित्य वेदिविस्तारमेव च \।\।
@@ -9423,8 +7537,6 @@ MS.
 पौ. सं.
 
 २९.१२८ \।\।
-
-
 
 यथोक्तांशं ----------------------- \।
 
@@ -9436,8 +7548,6 @@ MS.
 
 २९.१२९ \।\।
 
-
-
 नातिस्थूलं नातिकृशं युक्तम् ऋजुगणेन तु \।
 
 एवं द्रव्यमयं कुर्यात् शुभदारमयं तु वा \।\।
@@ -9445,8 +7555,6 @@ MS.
 पौ. सं.
 
 २९.१३० \।\।
-
-
 
 स्त्रतुक्स्त्रुवानां च होमार्थं तल्लक्षणम् अथोच्यते \।
 
@@ -9456,8 +7564,6 @@ MS.
 
 २९.१३१ \।\।
 
-
-
 त्रयेंशोनं स्त्रुचा दैर्ध्याद् अष्टधा चोच्छ्रितं भजेत् \।
 
 तेन भागप्रमाणेन तद् विस्तारं विधीयते \।\।
@@ -9465,8 +7571,6 @@ MS.
 पौ. सं.
 
 २९.१३२ \।\।
-
-
 
 संविभज्य समांशैस्तत् सूत्रैः स्पष्टैर्यथाक्रमम् \।
 
@@ -9476,8 +7580,6 @@ MS.
 
 २९.१३३ \।\।
 
-
-
 वर्जयित्वाथ बाहुल्यं विस्तारार्धेन कल्प्य वै \।
 
 कुर्याद् आधारविश्रान्तं कमलं रचितान्वितम् \।\।
@@ -9485,8 +7587,6 @@ MS.
 पौ. सं.
 
 २९.१३४ \।\।
-
-
 
 तं शंखं विततास्यं तु नन्द्यावर्तं सुलक्षणम् \।
 
@@ -9496,8 +7596,6 @@ MS.
 
 २९.१३५ \।\।
 
-
-
 पाशवद्ग्रथितं मध्ये सुविभक्तं च वर्तुलम् \।
 
 चतुर्भागाननं दण्डं निर्गतं कलशाननात् \।\।
@@ -9505,8 +7603,6 @@ MS.
 पौ. सं.
 
 २९.१३६ \।\।
-
-
 
 वितानं शङ्खवक्त्राद् वा -------त्रितयसंयुतम् \।
 
@@ -9516,8 +7612,6 @@ MS.
 
 २९.१३७ \।\।
 
-
-
 पीठवत् कण्ठपीठं तु चतुरश्रं समाप्य च \।
 
 तस्मिन् पङ्कजम् उल्लिख्य चक्रवृत्तान्तरीकृतम् \।\।
@@ -9525,8 +7619,6 @@ MS.
 पौ. सं.
 
 २९.१३८ \।\।
-
-
 
 मुक्ताजालसमं सूत्रं शङ्खकोणचतुष्टये \।
 
@@ -9536,8 +7628,6 @@ MS.
 
 २९.१३९ \।\।
 
-
-
 ईषद् वक्त्रा न साष्टांशाद् ऊर्ध्वे भागसमुज्झिताम् \।
 
 पद्मवच्चोत्तमाङ्गं च ग्रीवानालं सकर्णिकम् \।\।
@@ -9545,8 +7635,6 @@ MS.
 पौ. सं.
 
 २९.१४० \।\।
-
-
 
 अनन्तकेसरप्रान्तैरावृतं कर्णिकाननम् \।
 
@@ -9556,8 +7644,6 @@ MS.
 
 २९.१४१ \।\।
 
-
-
 अविभाग --------------पृष्ठतस्तिर्यगाननम् \।
 
 कुर्याच्च कर्र्णिकामध्ये गोलकेनैव मुद्रितम् \।\।
@@ -9565,8 +7651,6 @@ MS.
 पौ. सं.
 
 २९.१४२ \।\।
-
-
 
 कौस्तुभेनाङ्कितं चैव सौरभीयाश्रिणाथवा \।
 
@@ -9576,8 +7660,6 @@ MS.
 
 २९.१४३ \।\।
 
-
-
 प्रमाणोपे --------------लक्षणं समुदाहृतम् \।
 
 स्मृतं सदाज्यहोमार्थं शेषम् अनयन्निबोधतु \।\।
@@ -9585,8 +7667,6 @@ MS.
 पौ. सं.
 
 २९.१४४ \।\।
-
-
 
 साक्षाद् अमृतमूर्तिर्वै वरुणः कमलात्मना \।
 
@@ -9596,8 +7676,6 @@ MS.
 
 २९.१४५ \।\।
 
-
-
 जगदाप्यायकृत् चन्द्रः पद्मत्चेनाग्रदेश ------- \।
 
 आनन्दाख्यं हि सामर्थ्यं ज्ञेयं तत् परमेश्वरम् \।\।
@@ -9605,8 +7683,6 @@ MS.
 पौ. सं.
 
 २९.१४६ \।\।
-
-
 
 देशिकस्तु तदान्याससाधकः संयतस्तु वा \।
 
@@ -9616,8 +7692,6 @@ MS.
 
 २९.१४७ \।\।
 
-
-
 अर्चने साग्निकार्ये तु यथोपकरणाखिलाः \।
 
 सन्नार्य स्वकरणानां तु ह्येकस्मिन् स्वाश्रये स्थिताः \।\।
@@ -9625,8 +7699,6 @@ MS.
 पौ. सं.
 
 २९.१४८ \।\।
-
-
 
 -------
 
@@ -9640,8 +7712,6 @@ MS.
 
 २९.१४९ \।\।
 
-
-
 -------
 
 कार्या --------------त्वम् अभिमताप्तये \।
@@ -9652,8 +7722,6 @@ MS.
 
 २९.१५० \।\।
 
-
-
 दमहो ----------------------------संश्रयेत् \।
 
 निषिद्ध ---------------------देहापहरणं शुभम् \।\।
@@ -9661,8 +7729,6 @@ MS.
 पौ. सं.
 
 २९.१५१ \।\।
-
-
 
 संपाद्य पदवीं याति यो ऽधिकारपदे स्थितः \।
 
@@ -9672,8 +7738,6 @@ MS.
 
 २९.१५२ \।\।
 
-
-
 आज्यस्थाली बृहद् ब्रह्मलक्षणे ------- \।
 
 कुर्यात् कमलगर्भं तु याम्ययात्रात्मतो शुभाः \।\।
@@ -9681,8 +7745,6 @@ MS.
 पौ. सं.
 
 २९.१५३ \।\।
-
-
 
 गृहीत्वात्मामृतः सम्यक् संस्तुत्वं लभते ऽग्निना \।\।
 
@@ -9692,8 +7754,6 @@ MS.
 
 २९.१५४ \।\।
 
-
-
 कुर्याद् अमलसारं च --------------ब्जज \।
 
 तत्समर्थं च तन्नालसंज्ञिताः श्रीनिषेविताः \।\।
@@ -9702,8 +7762,6 @@ MS.
 
 २९.१५५ \।\।
 
-
-
 संपाद्य नलिनीं दिव्यां प्रफुल्लैर् अर्धपुष्पितैः \।
 
 तथा मुकुलितैः पद्मैः सपद्मैर् अन्तरीकृतैः \।\।
@@ -9711,8 +7769,6 @@ MS.
 पौ. सं.
 
 २९.१५६ \।\।
-
-
 
 -------
 
@@ -9724,8 +7780,6 @@ MS.
 
 २९.१५७ \।\।
 
-
-
 चक्रव्योमत्रिभागेन निम्ना वातदलेन तु \।
 
 मूलयेद् गलदेश (स्ता )ःस्याद् अन्यमन्यं समाप्य वै \।\।
@@ -9734,8 +7788,6 @@ MS.
 
 २९.१५८ \।\।
 
-
-
 उष्णीषं चात्पलोपेतं संसिद्धा सुरभीरवैः \।
 
 सनाला नलिनी तेषां तत्पात्रं पारमेश्वरम् \।\।
@@ -9743,8 +7795,6 @@ MS.
 पौ. सं.
 
 २९.१५९ \।\।
-
-
 
 शयनासनसंज्ञं च सततं चामृतार्णवम् \।
 
@@ -9756,8 +7806,6 @@ MS.
 
 २९.१६० \।\।
 
-
-
 स्त्रग्गंधव ---तेरस्ते -------सपुष्पे चोपलद्वये \।
 
 प्रणीतादीनि पात्राणि तूपयोग्यानि यान्यपि \।\।
@@ -9766,8 +7814,6 @@ MS.
 
 २९.१६१ \।\।
 
-
-
 तानि शङ्खाब्जहेतीशसंयुक्तान्यखिलानि च \।
 
 विचित्रं रचना -------धातुदार्वमयानि वा \।\।
@@ -9775,8 +7821,6 @@ MS.
 पौ. सं.
 
 २९.१६२ \।\।
-
-
 
 यथाभिमतमानानि कुर्यात् पद्मेवतानि च \।
 
@@ -9796,8 +7840,6 @@ MS.
 
 २९.१६४ \।\।
 
-
-
 मुक्ताङ्गुलीयकं चैव भूषकं (णं )कटकादिकम् \।
 
 उत्तमाङ्गोद्वहं सर्वं शिरोष्णीषादीकं तु वै \।\।
@@ -9806,27 +7848,15 @@ MS.
 
 २९.१६५ \।\।
 
-
-
 इति श्रीपाञ्चरात्रे महोपनिषदि पौष्करसंहितायां
 
 कुण्डलक्षणं नाम एकोनत्रिंशो ऽध्यायः \।\।
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
 
 अथ त्रिंशो ऽध्यायः
 
-
-
 पौष्कर उवाच ---
-
-
 
 संजाते भगवन् लोपे भक्तानां मन्त्रसेविनाम् \।
 
@@ -9836,8 +7866,6 @@ MS.
 
 ३०.१ \।\।
 
-
-
 पातत्राणमुपायं वै श्रोतुमिच्छामि सांप्रतम् \।
 
 कृतेन येन भक्तानां जायते कृतकृत्यता \।\।
@@ -9846,11 +7874,7 @@ MS.
 
 ३०.२ \।\।
 
-
-
 श्रीभगवानुवाच ---
-
-
 
 कथं संवत्सराद्विप्र कर्मणाभिमतं फलम् \।
 
@@ -9860,8 +7884,6 @@ MS.
 
 ३०.३ \।\।
 
-
-
 यथाश्वमेधं विप्राणां सर्वेच्छापरिपूरकम् \।
 
 राजसूयं नृपाणां च भक्तानां भूषणं तथा \।\।
@@ -9869,8 +7891,6 @@ MS.
 पौ. सं.
 
 ३०.४ \।\।
-
-
 
 भूषणानां यथा मध्ये कौस्तुभं वरभूषणम् \।
 
@@ -9880,8 +7900,6 @@ MS.
 
 ३०.५ \।\।
 
-
-
 यत्पूरयति भक्तानां व्यापारं पारमेश्वरम् \।
 
 भोगमोक्षाप्तये शश्वद्भोगस्तस्मास्तु को ऽधिकः \।\।
@@ -9889,8 +7907,6 @@ MS.
 पौ. सं.
 
 ३०.६ \।\।
-
-
 
 भक्तानां सततं भक्त्या सालोक्यं विदधाति वै \।
 
@@ -9900,8 +7916,6 @@ MS.
 
 ३०.७ \।\।
 
-
-
 सायुज्यं साधकेन्द्राणां स्वमन्त्रात्मनि यच्छति \।
 
 तदुत्तरायणे ऽतीते चातुर्मासस्य मध्यतः \।\।
@@ -9909,8 +7923,6 @@ MS.
 पौ. सं.
 
 ३०.८ \।\।
-
-
 
 आदावन्ते ऽथवा कुर्याद् द्वादशीष्वखिलासु च \।
 
@@ -9920,8 +7932,6 @@ MS.
 
 ३०.९ \।\।
 
-
-
 अमावास्यास्वशेषासु तृतीयासु तथैव च \।
 
 वैष्णवेष्वथ ऋक्षेषु तत्क्षणेष्वखिलेषु च \।\।
@@ -9929,8 +7939,6 @@ MS.
 पौ. सं.
 
 ३०.१० \।\।
-
-
 
 चातुर्मास्यस्य कालस्य तूत्थान द्वादशी तु या \।
 
@@ -9940,8 +7948,6 @@ MS.
 
 ३०.११ \।\।
 
-
-
 पवित्रकं जगद्योनेः सपवित्रीकरोति च \।
 
 अतीतां वर्तमानां च एष्यां स्वकुलसन्तातिम् \।\।
@@ -9949,8 +7955,6 @@ MS.
 पौ. सं.
 
 ३०.१२ \।\।
-
-
 
 तत्र सन्निहितः साक्षान्नानानिर्माणविग्रहः \।
 
@@ -9960,8 +7964,6 @@ MS.
 
 ३०.१३ \।\।
 
-
-
 यद्यप्यब्जसमुद्भूत भक्तानां नित्यमेव हि \।
 
 नारायणस्तु मन्त्रात्मा स्थितः सन्निहितः स्वयम् \।\।
@@ -9969,8 +7971,6 @@ MS.
 पौ. सं.
 
 ३०.१४ \।\।
-
-
 
 तथापि बलवत्ता वै तत्तिथेस्तत्र कर्मणि \।
 
@@ -9980,8 +7980,6 @@ MS.
 
 ३०.१५ \।\।
 
-
-
 ग्रीष्मकालं समासाद्य यथार्कस्तीक्ष्णता व्रजेत् \।
 
 स्वरूपमजहन्नेव सन्निधानतरं विभोः \।\।
@@ -9989,8 +7987,6 @@ MS.
 पौ. सं.
 
 ३०.१६ \।\।
-
-
 
 सप्तात्रदेशकालानाम् आसृष्टेः स्थितये तु वै \।
 
@@ -10000,8 +7996,6 @@ MS.
 
 ३०.१७ \।\।
 
-
-
 कार्यं क्रियापरैर्भक्त्या साखण्डा येन जायते \।
 
 अखण्डकारी पुरुषो ज्ञानकर्मपरायणः \।\।
@@ -10009,8 +8003,6 @@ MS.
 पौ. सं.
 
 ३०.१८ \।\।
-
-
 
 भक्तिश्रद्धातथोत्साहयुक्तो योगबलैर्युक्तः \।
 
@@ -10020,8 +8012,6 @@ MS.
 
 ३०.१९ \।\।
 
-
-
 सर्वभावेन भक्तानां यत्पालयति सर्वदा \।
 
 मनोवाक्चित्तजं कुत्स्नं व्यापारं शुभलक्षणम् \।\।
@@ -10029,8 +8019,6 @@ MS.
 पौ. सं.
 
 ३०.२० \।\।
-
-
 
 परिज्ञेरायतस्तस्मात् स्वरूपं तस्य यादृशम् \।
 
@@ -10040,8 +8028,6 @@ MS.
 
 ३०.२१ \।\।
 
-
-
 यदच्छिन्नं जगधोनेरनन्तप्रसरं सितम् \।
 
 विच्छेदमकृतज्ञानामेति नानात्मना स्वयम् \।\।
@@ -10049,8 +8035,6 @@ MS.
 पौ. सं.
 
 ३०.२२ \।\।
-
-
 
 जगत्सूत्रं तु तद्विद्धि हेमसूत्रादिना तु वै \।
 
@@ -10060,8 +8044,6 @@ MS.
 
 ३०.२३ \।\।
 
-
-
 ज्ञानरागोपरक्तं च युक्तं कार्यैस्तु वीर्यजेः \।
 
 तैजसैरावृत्तं मन्त्रैर्बलेनावलितं परम् \।\।
@@ -10069,8 +8051,6 @@ MS.
 पौ. सं.
 
 ३०.२४ \।\।
-
-
 
 ऐश्वर्यमुपचारे तु संप्राप्ते शक्तितो ऽव्ययम् \।
 
@@ -10080,8 +8060,6 @@ MS.
 
 ३०.२५ \।\।
 
-
-
 ब्रह्मव्यधिपतौ विष्णौ तदाकारे प्रतिष्ठिते \।
 
 भक्त्या च विधिवद्दत्तं ददाति भगवत्पदम् \।\।
@@ -10089,8 +8067,6 @@ MS.
 पौ. सं.
 
 ३०.२६ \।\।
-
-
 
 स्थूलस्य व्यतिरिक्तस्य व्यवहारपदस्थितैः \।
 
@@ -10100,8 +8076,6 @@ MS.
 
 ३०.२७ \।\।
 
-
-
 सूक्ष्मं दृढं सितं श्लक्ष्णं सूत्रं ब्रह्मप्रसूतया \।
 
 विनिर्मितं कुमार्या वा वृद्धया वा विनीतया \।\।
@@ -10109,8 +8083,6 @@ MS.
 पौ. सं.
 
 ३०.२८ \।\।
-
-
 
 विशुद्धया विधवया संपादितमथापि वा \।
 
@@ -10120,8 +8092,6 @@ MS.
 
 ३०.२९ \।\।
 
-
-
 अवलोक्य स्मरन्मूलं विनिष्पाद्य चतुर्गुणम् \।
 
 चातुरात्म्यव्यपेक्षायामथवाष्टगूणं द्विज \।\।
@@ -10129,8 +8099,6 @@ MS.
 पौ. सं.
 
 ३०.३० \।\।
-
-
 
 भगवन्मूर्तिभेदे तु भेदभिन्नोपलक्षितम् \।
 
@@ -10140,8 +8108,6 @@ MS.
 
 ३०.३१ \।\।
 
-
-
 तन्तुभिर्विषमैविष्णोः समस्य परिवर्जयेत् \।
 
 पवित्रिकी क्रिया यस्माद्विषमा सा न कस्यचित् \।\।
@@ -10149,8 +8115,6 @@ MS.
 पौ. सं.
 
 ३०.३२ \।\।
-
-
 
 पवित्रकाणि कार्याणि तन्तुभिस्तैः सुतानितैः \।
 
@@ -10160,8 +8124,6 @@ MS.
 
 ३०.३३ \।\।
 
-
-
 मण्डलाख्यप्रधानस्य तद्गतस्तयाखिलस्य च \।
 
 कर्णिकास्थस्य च विभोः केसरच्छदगस्य च \।\।
@@ -10169,8 +8131,6 @@ MS.
 पौ. सं.
 
 ३०.३४ \।\।
-
-
 
 विभवव्यूहरूपस्य लाञ्छना स्त्रद्वयस्य च \।
 
@@ -10180,8 +8140,6 @@ MS.
 
 ३०.३५ \।\।
 
-
-
 प्रमाणेन जगन्नाथप्रतिमायां चतुष्टयम् \।
 
 द्वयं हि कुण्डानलयोः शास्त्रपीठस्य च द्वयम् \।\।
@@ -10189,8 +8147,6 @@ MS.
 पौ. सं.
 
 ३०.३६ \।\।
-
-
 
 लिपेर्वाक्तत्त्वभूतस्य शब्दतत्त्वस्य च प्रभोः \।
 
@@ -10200,8 +8156,6 @@ MS.
 
 ३०.३७ \।\।
 
-
-
 जायायां भक्तिनम्रायां रक्तायामर्चने हरेः \।
 
 संबन्धिनां च मित्राणां भगवद्धर्मसेविनाम् \।\।
@@ -10209,8 +8163,6 @@ MS.
 पौ. सं.
 
 ३०.३८ \।\।
-
-
 
 तदुत्तरसहायानां चातुरात्म्याभिलाषिणाम् \।
 
@@ -10220,8 +8172,6 @@ MS.
 
 ३०.३९ \।\।
 
-
-
 वृद्धये योषिता चैव पवित्रीकरणाय च \।
 
 पवित्रीकरणं रम्यं रचनीयं यथाक्रमम् \।\।
@@ -10229,8 +8179,6 @@ MS.
 पौ. सं.
 
 ३०.४० \।\।
-
-
 
 षडध्वपीठसंस्थस्य नानाप्रन्त्रास्पदस्य च \।
 
@@ -10240,8 +8188,6 @@ MS.
 
 ३०.४१ \।\।
 
-
-
 मुख्यमन्त्रस्य च विभोः शतेनाष्टाधिकेन च \।
 
 तन्तुना भूषणं कुर्यादर्धेनांशेन वाब्जज \।\।
@@ -10249,8 +8195,6 @@ MS.
 पौ. सं.
 
 ३०.४२ \।\।
-
-
 
 जपहोमदिका संख्या पूर्णा रिक्ता तदात्मना \।
 
@@ -10260,8 +8204,6 @@ MS.
 
 ३०.४३ \।\।
 
-
-
 हेमसद्रत्नकर्पूरमालयक्षोदकुङ्कुमैः \।
 
 सर्वौषधिसमोपेतैस्त्वगेलादिविमिश्रितैः \।\।
@@ -10269,8 +8211,6 @@ MS.
 पौ. सं.
 
 ३०.४४ \।\।
-
-
 
 पावनैर्विविधैर्द्रव्यैर्निर्व्याजपिचुना सह \।
 
@@ -10280,8 +8220,6 @@ MS.
 
 ३०.४५ \।\।
 
-
-
 बीजपूरवदब्जाक्ष आर्द्रामलकशङ्खवत् \।
 
 तदन्तरालानि पुनस्त्वविच्छिन्नेन तु तन्तुना \।\।
@@ -10289,8 +8227,6 @@ MS.
 पौ. सं.
 
 ३०.४६ \।\।
-
-
 
 विभागप्रतिपत्यर्थं ग्रन्थनीयान्यदूरतः \।
 
@@ -10300,8 +8236,6 @@ MS.
 
 ३०.४७ \।\।
 
-
-
 सूत्रभ्रमसमोपेतैर्गभैर्भूषणसंचयम् \।
 
 आराधकस्य च गुरोः सगर्भं भूषणद्वयम् \।\।
@@ -10309,8 +8243,6 @@ MS.
 पौ. सं.
 
 ३०.४८ \।\।
-
-
 
 विहितं भगवन्मन्त्रन्यासात्तादात्म्यभावनात् \।
 
@@ -10320,8 +8252,6 @@ MS.
 
 ३०.४९ \।\।
 
-
-
 अन्तरालगतं गर्भं कुर्याद्बाह्लीकरञ्जितम् \।
 
 अलंकृत्यं च सौवर्णेरूपरिष्टाच्च रूपकैः \।\।
@@ -10329,8 +8259,6 @@ MS.
 पौ. सं.
 
 ३०.५० \।\।
-
-
 
 पत्रच्छेदसमत्थैस्तु जातरूपमयैस्तु वा \।
 
@@ -10340,8 +8268,6 @@ MS.
 
 ३०.५१ \।\।
 
-
-
 खगेशतालमुसलनन्दकज्याहलादिकैः \।
 
 मन्दारकुसुमाकारैः पारिजातद्रुमोपमैः \।\।
@@ -10349,8 +8275,6 @@ MS.
 पौ. सं.
 
 ३०.५२ \।\।
-
-
 
 श्रीवृक्षाचलनागेन्द्रस्वस्तिकैश्चामरैर्घटैः \।
 
@@ -10360,8 +8284,6 @@ MS.
 
 ३०.५३ \।\।
 
-
-
 सरित्समुद्रवृषभभौगजालैस्तु सारसैः \।
 
 एकस्यैव बहुनां वा यथास्थानानुरूपतः \।\।
@@ -10369,8 +8291,6 @@ MS.
 पौ. सं.
 
 ३०.५४ \।\।
-
-
 
 धातुजे पित्तले भाण्डे वस्त्रच्छन्ने निधाय च \।
 
@@ -10380,8 +8300,6 @@ MS.
 
 ३०.५५ \।\।
 
-
-
 कृताह्निको ऽधिवासार्थं दशभ्यां प्रयतः शुचिः \।
 
 देशिकेन्द्रद्वितीयस्तु कर्तार्ध्यकुसुमोद्यतः \।\।
@@ -10389,8 +8307,6 @@ MS.
 पौ. सं.
 
 ३०.५६ \।\।
-
-
 
 सह सद्ब्रह्मघोषेण स्तुतिमङ्गलपाढकैः \।
 
@@ -10400,8 +8316,6 @@ MS.
 
 ३०.५७ \।\।
 
-
-
 वैराजभुवनाकारं मण्डपं मण्डनाङ्कितम् \।
 
 उपविश्य यथान्यायमनतर्यागानतमारभेत् \।\।
@@ -10409,8 +8323,6 @@ MS.
 पौ. सं.
 
 ३०.५८ \।\।
-
-
 
 न्यासपूर्वमशेषं तु अर्ध्याम्बुपरिकल्पनम् \।
 
@@ -10420,8 +8332,6 @@ MS.
 
 ३०.५९ \।\।
 
-
-
 कल्पयेद्ब्रह्मकूर्चं तु शोधयेद्वसुधां ततः \।
 
 स्थापनं तोरणादीनामर्चनं कुण्डसंस्कृतिः \।\।
@@ -10429,8 +8339,6 @@ MS.
 पौ. सं.
 
 ३०.६० \।\।
-
-
 
 मन्त्रास्त्रकुम्भरचना तयोर्मन्त्रावतारणम् \।
 
@@ -10440,8 +8348,6 @@ MS.
 
 ३०.६१ \।\।
 
-
-
 व्यापारमाचरेद्दिव्यं कुम्भकेन स्मरन् विभुम् \।
 
 नानिशं युज्यते यस्मात्तस्मादेषा प्रतिक्रिया \।\।
@@ -10449,8 +8355,6 @@ MS.
 पौ. सं.
 
 ३०.६२ \।\।
-
-
 
 विभाव्या मन्त्रिणा कैंभी आस्त्री रक्षार्थमेव हि \।
 
@@ -10460,8 +8364,6 @@ MS.
 
 ३०.६३ \।\।
 
-
-
 जपान्तमखिलं कृत्वा प्रयायाद्बिम्बसन्निधिम् \।
 
 अष्टाङ्गेन नमस्कृत्य यद्यादर्ध्यं तु मूर्धनि \।\।
@@ -10469,8 +8371,6 @@ MS.
 पौ. सं.
 
 ३०.६४ \।\।
-
-
 
 अनुलेपनसंयुक्तं ततः पुष्पाञ्जलिं शुभम् \।
 
@@ -10480,8 +8380,6 @@ MS.
 
 ३०.६५ \।\।
 
-
-
 पुष्पपूजादिकं सर्वं मध्याह्ने यद्विनिर्मितम् \।
 
 अपास्यादाय शिरसा अभिवन्द्य समर्च्य च \।\।
@@ -10489,8 +8387,6 @@ MS.
 पौ. सं.
 
 ३०.६६ \।\।
-
-
 
 विष्वक्सेनस्य चास्त्रेण निर्मलीकृत्य वारिणा \।
 
@@ -10500,8 +8396,6 @@ MS.
 
 ३०.६७ \।\।
 
-
-
 स्नापयेद्देवदेवेशं विधिदृष्टेन कर्मणा \।
 
 ब्रह्मकूर्चादिकैः स्नानैर्मन्त्रादानप्रकल्पितैः \।\।
@@ -10509,8 +8403,6 @@ MS.
 पौ. सं.
 
 ३०.६८ \।\।
-
-
 
 पदार्थसंमितैः शक्त्या यथावदधिवासितैः \।
 
@@ -10520,8 +8412,6 @@ MS.
 
 ३०.६९ \।\।
 
-
-
 भक्त्या क्रमोपदिष्टैस्तु भोगैः कृत्स्नैरकृत्रिमैः \।
 
 सर्वं कृत्वा प्रणामान्तं यायाधोमनिकेतनम् \।\।
@@ -10529,8 +8419,6 @@ MS.
 पौ. सं.
 
 ३०.७० \।\।
-
-
 
 तत्रानलं च संस्कृस्य कुर्याद्वै मन्त्रतर्पणम् \।
 
@@ -10540,8 +8428,6 @@ MS.
 
 ३०.७१ \।\।
 
-
-
 चरुं संश्रपयेच्चुल्यां हृदा क्षीराज्यतण्डुलैः \।
 
 समुद्धृत्याज्यपूतं तं विनिवेद्य यथाक्रमम् \।\।
@@ -10549,8 +8435,6 @@ MS.
 पौ. सं.
 
 ३०.७२ \।\।
-
-
 
 कलशस्थलवृत्तीनामेकांशं जुहुयात्ततः \।
 
@@ -10560,8 +8444,6 @@ MS.
 
 ३०.७३ \।\।
 
-
-
 तर्पयित्वाम्बुसिक्ताभिः क्रमेण जुहुयात्ततः \।
 
 तद्वदाज्यं सुपूर्णं तं (तद् )मुद्राबन्धादिकं तु वै \।\।
@@ -10569,8 +8451,6 @@ MS.
 पौ. सं.
 
 ३०.७४ \।\।
-
-
 
 कृत्वा प्रणामपर्यन्तं स्थलस्तस्याग्रतो विभोः \।
 
@@ -10580,8 +8460,6 @@ MS.
 
 ३०.७५ \।\।
 
-
-
 निवेश्य वायुदिग्भागे सर्वं सूत्रपुरःसरम् \।
 
 सितवस्त्रान्वितेनैव त्वक्षेतेनैव वर्मणा \।\।
@@ -10589,8 +8467,6 @@ MS.
 पौ. सं.
 
 ३०.७६ \।\।
-
-
 
 अर्चयित्वास्त्रमन्त्रेण स्थगयेत् कवचेन चं \।
 
@@ -10600,8 +8476,6 @@ MS.
 
 ३०.७७ \।\।
 
-
-
 दिग्विदिक्ष्वस्त्रजप्तं तु दत्त्वाज्यमनलालये \।
 
 पञ्चरङ्गेण सूत्रेण दृढेण सुसितेन वा \।\।
@@ -10609,8 +8483,6 @@ MS.
 पौ. सं.
 
 ३०.७८ \।\।
-
-
 
 प्रादक्षिणचतुष्कं तु स्मरन् वर्म समापयेत् \।
 
@@ -10620,8 +8492,6 @@ MS.
 
 ३०.७९ \।\।
 
-
-
 प्राङ्मुखस्त्वासनारूढो गुरुपाणिपरिच्युतम् \।
 
 ब्रह्मकर्चं पिबेत् पश्चाच्चरुशेषं तु भक्षयेत् \।\।
@@ -10629,8 +8499,6 @@ MS.
 पौ. सं.
 
 ३०.८० \।\।
-
-
 
 पिबेद्धॄदयसंजप्तं हेमरत्नकुशोदकम् \।
 
@@ -10640,8 +8508,6 @@ MS.
 
 ३०.८१ \।\।
 
-
-
 कुतपे कम्बलोपेते स्थित्वा च सकुशास्तरे \।
 
 जपेन्मन्त्रवरं साङ्गं पठन् स्तोत्रवरान् शुभान् \।\।
@@ -10649,8 +8515,6 @@ MS.
 पौ. सं.
 
 ३०.८२ \।\।
-
-
 
 कथां सर्वेश्वरीं पुण्यां कुर्वन्निष्पाध मण्डलम् \।
 
@@ -10668,8 +8532,6 @@ MS.
 
 ३०.८४ \।\।
 
-
-
 आसाद्य कलशोद्देशं विनिवेदनमाचरेत् \।
 
 ततो विशेषभोगानां प्रभोरामन्त्रणाय च \।\।
@@ -10677,8 +8539,6 @@ MS.
 पौ. सं.
 
 ३०.८५ \।\।
-
-
 
 दन्तकाष्ठं सताम्बूलं मुखवासांसि दर्पणम् \।
 
@@ -10688,8 +8548,6 @@ MS.
 
 ३०.८६ \।\।
 
-
-
 विनिवेश्य निधायाग्रे दक्षिणे ऽथ जग त्प्रभोः \।
 
 गुग्गुलं मृष्टधूपं च प्रकाशं ताम्रपात्रगतम् \।\।
@@ -10697,8 +8555,6 @@ MS.
 पौ. सं.
 
 ३०.८७ \।\।
-
-
 
 दृक्प्रभामण्डनं चैव हेमसूत्रं सकङ्कणम् \।
 
@@ -10708,8 +8564,6 @@ MS.
 
 ३०.८८ \।\।
 
-
-
 रसषट्कं महामूर्तेर्नेत्रवस्त्रे सितारुणे \।
 
 पश्चिमे ऽथ विभोर्दद्यात् पुव्यनद्युदकं तथा \।\।
@@ -10717,8 +8571,6 @@ MS.
 पौ. सं.
 
 ३०.८९ \।\।
-
-
 
 तीर्थतोयान्नाभोगार्थं नगमृत् श्रीफलादि यत् \।
 
@@ -10728,8 +8580,6 @@ MS.
 
 ३०.९० \।\।
 
-
-
 उत्तरे ऽथ विभोर्दद्याद्देवदेवस्य पुष्कर \।
 
 माल्यान्योषधयः सप्त बीजानि च फलानि च \।\।
@@ -10737,8 +8587,6 @@ MS.
 पौ. सं.
 
 ३०.९१ \।\।
-
-
 
 तिलतण्डुलपात्राणि क्षीरं दधिरसं घृतम् \।
 
@@ -10748,8 +8596,6 @@ MS.
 
 ३०.९२ \।\।
 
-
-
 सफलं नारिकेलं च विकारस्त्वैक्षवो ऽखिलः \।
 
 सराजते कांस्यपात्रे संभवे सति पदृमज \।\।
@@ -10757,8 +8603,6 @@ MS.
 पौ. सं.
 
 ३०.९३ \।\।
-
-
 
 यज्ञपर्णपुटे वापि विनिवेद्यमसंभवे \।
 
@@ -10768,8 +8612,6 @@ MS.
 
 ३०.९४ \।\।
 
-
-
 सितानि सोत्तरीयाणि उपवीतानि चन्दनम् \।
 
 कुङ्कुमागुरुकर्पूरश्रीखण्डैरधिवासितम् \।\।
@@ -10777,8 +8619,6 @@ MS.
 पौ. सं.
 
 ३०.९५ \।\।
-
-
 
 चतुः स्थानावतीर्णस्य दद्याद्त्रन्धपवित्रकम् \।
 
@@ -10788,8 +8628,6 @@ MS.
 
 ३०.९६ \।\।
 
-
-
 आदिमध्यावसाने तु सम्यागच्छिद्रशान्तये \।
 
 जपेन्मन्त्रवरं साङ्गं पश्चाद्वद्धाञ्जलिः पठेत् \।\।
@@ -10797,8 +8635,6 @@ MS.
 पौ. सं.
 
 ३०.९७ \।\।
-
-
 
 प्रणवदविद्ययाद्यं (द्वयाद्यं )तु स्त्रोत्रमन्त्रं निवेदयेत् \।
 
@@ -10808,8 +8644,6 @@ MS.
 
 ३०.९८ \।\।
 
-
-
 गुणप्रधान योगेश भावनाभोगविग्रह \।
 
 नारायणं परं ब्रह्म प्राणेश चतुराकृते \।\।
@@ -10817,8 +8651,6 @@ MS.
 पौ. सं.
 
 ३०.९९ \।\।
-
-
 
 सर्वगाच्युत सन्मूर्ते सर्वज्ञ पुरषोत्तम \।
 
@@ -10828,8 +8660,6 @@ MS.
 
 ३०.१०० \।\।
 
-
-
 नानामन्त्रगणोपेतः सन्निधिं भज मे प्रभो \।
 
 देवबिम्बे तु तन्मूर्तौ कलशे मण्डलक्षितौ \।\।
@@ -10837,8 +8667,6 @@ MS.
 पौ. सं.
 
 ३०.१०१ \।\।
-
-
 
 संख्यासूत्रे ऽक्षसूत्रे च पावके गुरुविग्रहे \।
 
@@ -10848,8 +8676,6 @@ MS.
 
 ३०.१०२ \।\।
 
-
-
 स्रुक्-स्रुवाद्येष्वशेषेषु एकान्तिद्विजमूर्तिषु \।
 
 विष्णु पाषदभेदेषु जन्मकर्मरतेषु च \।\।
@@ -10857,8 +8683,6 @@ MS.
 पौ. सं.
 
 ३०.१०३ \।\।
-
-
 
 श्रद्धापूतेषु दक्षेषु त्वदेकशरणेषु च \।
 
@@ -10868,8 +8692,6 @@ MS.
 
 ३०.१०४ \।\।
 
-
-
 नैमित्तिकानां नित्यानामपूर्णानां हि शान्तये \।
 
 त्वत्प्रीतये यथाशास्त्रमद्य निर्वर्तयाम्यहम् \।\।
@@ -10877,8 +8699,6 @@ MS.
 पौ. सं.
 
 ३०.१०५ \।\।
-
-
 
 पावित्रकं विधानं च सर्वकर्मप्रपूरणम् \।
 
@@ -10888,8 +8708,6 @@ MS.
 
 ३०.१०६ \।\।
 
-
-
 होमान्तमधिवासीयं कुरु सर्वं हि चात्मसात् \।
 
 त्वामर्चयाम्यहं भक्त्या सुप्त्यतीते तु जागरे \।\।
@@ -10897,8 +8715,6 @@ MS.
 पौ. सं.
 
 ३०.१०७ \।\।
-
-
 
 यथावद्ब्रह्मसूत्रान्तैभोगैर्भोगापवर्गद \।
 
@@ -10908,8 +8724,6 @@ MS.
 
 ३०.१०८ \।\।
 
-
-
 भक्तस्य मम वात्सल्यात् प्राप्तः कार्यस्त्वनुग्रहः \।
 
 एवं निमन्त्रयित्वाजमष्टाङ्गेन नमेत् क्षितौ \।\।
@@ -10917,8 +8731,6 @@ MS.
 पौ. सं.
 
 ३०.१०९ \।\।
-
-
 
 चतुः प्रदक्षिणीकृत्य हृदि मन्त्रमनुस्मरन् \।
 
@@ -10928,8 +8740,6 @@ MS.
 
 ३०.११० \।\।
 
-
-
 जयशब्दसमेतैस्तु जागरेण नयेन्निशाम् \।
 
 स्नात्वा ब्राह्ममूहूर्ते ऽथ कृतकौतुकमङ्गलः \।\।
@@ -10937,8 +8747,6 @@ MS.
 पौ. सं.
 
 ३०.१११ \।\।
-
-
 
 महता विभवेन प्राक् द्वारयागं समाचरेत् \।
 
@@ -10948,8 +8756,6 @@ MS.
 
 ३०.११२ \।\।
 
-
-
 सांस्पर्शिकै रासनाद्यैर्विविधैरौपचारिकैः \।
 
 हृदयङ्गमसंज्ञैस्तु बहुभेदविनिर्मितैः \।\।
@@ -10957,8 +8763,6 @@ MS.
 पौ. सं.
 
 ३०.११३ \।\।
-
-
 
 भक्ष्यैर्भोज्यैस्तथा लेह्यैश्चोष्यैनानाविधैरपि \।
 
@@ -10968,8 +8772,6 @@ MS.
 
 ३०.११४ \।\।
 
-
-
 पावनैः पावकस्विन्नैरुपदंशादिकान्वितैः \।
 
 गोसंभवैः स्थिरैः कांस्यपात्रैर्मध्वाज्यपूरितैः \।\।
@@ -10977,8 +8779,6 @@ MS.
 पौ. सं.
 
 ३०.११५ \।\।
-
-
 
 रसालक्षीरसंपूर्णैर्दिक्स्थितैस्तु समुद्रवत् \।
 
@@ -10988,8 +8788,6 @@ MS.
 
 ३०.११६ \।\।
 
-
-
 वरशय्यासमेतैस्तु पावनैरात्मवल्लभैः \।
 
 स्वदेशपरदेशोत्थैः क्रीडाभोगैरकृत्तिमैः \।\।
@@ -10997,8 +8795,6 @@ MS.
 पौ. सं.
 
 ३०.११७ \।\।
-
-
 
 जातरूपमयैः पात्रैर्गन्धमाल्याद्यलङ्कृतैः \।
 
@@ -11008,8 +8804,6 @@ MS.
 
 ३०.११८ \।\।
 
-
-
 कृत्वा तु भगवद्यागं विशेषाद्देवमन्दिरे \।
 
 अथ भूषणपात्रं तु आदायोद्धाट्यपूज्य च \।\।
@@ -11017,8 +8811,6 @@ MS.
 पौ. सं.
 
 ३०.११९ \।\।
-
-
 
 पवित्रकं समादाय यायात्कलशसंनिधिम् \।
 
@@ -11028,10 +8820,6 @@ MS.
 
 ३०.१२० \।\।
 
-
-
-
-
 तृतीयमुभयात्मं वै अध्यात्मदित्रयं तथा \।
 
 अनुसन्धाय वै तस्मिन् संस्मरन् हृदयाद्धिया \।\।
@@ -11039,8 +8827,6 @@ MS.
 पौ. सं.
 
 ३०.१२१ \।\।
-
-
 
 तत्राष्टाष्टकसंख्यं तु अव्यक्तं भोगसंग्रहम् \।
 
@@ -11050,8 +8836,6 @@ MS.
 
 ३०.१२२ \।\।
 
-
-
 स्वाध्यायगीतवाद्यानि व्रतानि नियमानि च \।
 
 दानान्युत्सवपूर्वाणि नानानैमित्तिकानि च \।\।
@@ -11059,8 +8843,6 @@ MS.
 पौ. सं.
 
 ३०.१२३ \।\।
-
-
 
 एतान्युभयरूपाणि पुरुषार्थप्रदानि च \।
 
@@ -11070,8 +8852,6 @@ MS.
 
 ३०.१२४ \।\।
 
-
-
 भास्वरं चिन्मयं शुद्धं यदेषां रूपमक्षयम् \।
 
 तद्भर्भेष्वनुसन्धेयं सूक्ष्मं तदनु पौष्कर \।\।
@@ -11079,8 +8859,6 @@ MS.
 पौ. सं.
 
 ३०.१२५ \।\।
-
-
 
 सूर्येन्दुवह्निसंकाशम् इयत्ता परिकल्पितम् \।
 
@@ -11090,8 +8868,6 @@ MS.
 
 ३०.१२६ \।\।
 
-
-
 सुस्थूलं व्यावहार्यं च तृतीयं सार्वलौकिकम् \।
 
 तत्तन्तुनिचयोद्देशे भावनीयं सदैव हि \।\।
@@ -11099,8 +8875,6 @@ MS.
 पौ. सं.
 
 ३०.१२७ \।\।
-
-
 
 एवमाध्यात्मिकी व्यप्तिं लक्षयित्वा तु पौष्कर \।
 
@@ -11110,8 +8884,6 @@ MS.
 
 ३०.१२८ \।\।
 
-
-
 चतुर्णामविनाभावि यद्रूपममृतोपमम् \।
 
 नानाभासगणाकीर्णं मूर्तामूर्तमनश्वरम् \।\।
@@ -11119,8 +8891,6 @@ MS.
 पौ. सं.
 
 ३०.१२९ \।\।
-
-
 
 किरीटमालाश्रीवत्सकौस्तुभानां महामते \।
 
@@ -11130,8 +8900,6 @@ MS.
 
 ३०.१३० \।\।
 
-
-
 पृख्यप्तेजो ऽनिलाकाशपञ्चानां समुदायियत् \।
 
 रमणीयं शुभं रूपं भक्तानां परितोषकृत् \।\।
@@ -11139,8 +8907,6 @@ MS.
 पौ. सं.
 
 ३०.१३१ \।\।
-
-
 
 तदस्य चाधिभूतत्वं मन्तव्यं योजनाविधौ \।
 
@@ -11150,8 +8916,6 @@ MS.
 
 ३०.१३२ \।\।
 
-
-
 प्रणवालंकृतं मन्त्रं तमुद्यतकरः पठेत् \।
 
 त्वत्प्राप्तिसाधनं देव ज्ञानं यदमलं परम् \।\।
@@ -11159,8 +8923,6 @@ MS.
 पौ. सं.
 
 ३०.१३३ \।\।
-
-
 
 भक्तिश्रद्धासमोपेता सत्क्रिया स्वत्प्रकाशिकी \।
 
@@ -11170,8 +8932,6 @@ MS.
 
 ३०.१३४ \।\।
 
-
-
 ज्ञानकर्मप्रसक्तानां भक्तानां भावितात्मनाम् \।
 
 पवित्राख्यं यथाशक्त्या त्वत्प्रसादान्मया कृतम् \।\।
@@ -11179,8 +8939,6 @@ MS.
 पौ. सं.
 
 ३०.१३५ \।\।
-
-
 
 यथोचितमिदानीं तां ध्यायस्व परमेश्वरीम् \।
 
@@ -11190,8 +8948,6 @@ MS.
 
 ३०.१३६ \।\।
 
-
-
 विध्यन्तरं मन्त्रगणाद् द्रव्यसङ्घस्त्वमेव हि \।
 
 प्राप्तिः पूरयिता पूर्णमपूर्णानां हि कर्मणाम् \।\।
@@ -11199,8 +8955,6 @@ MS.
 पौ. सं.
 
 ३०.१३७ \।\।
-
-
 
 तश्येनानेन भगवन् भवभङ्गार्दितस्य च \।
 
@@ -11210,8 +8964,6 @@ MS.
 
 ३०.१३८ \।\।
 
-
-
 विज्ञप्तो ऽसीह भगवन् अर्थिता मे परा त्वयि \।
 
 विना त्वत्परितोषेण सम्यक् ज्ञानप्रदेन च \।\।
@@ -11219,8 +8971,6 @@ MS.
 पौ. सं.
 
 ३०.१३९ \।\।
-
-
 
 आपत्काले तु संप्राप्ते बुद्धिपूर्वं मयाच्युत \।
 
@@ -11230,8 +8980,6 @@ MS.
 
 ३०.१४० \।\।
 
-
-
 यथाकालं यथावच्च भोगैर्देव यथोचितैः \।
 
 नार्चितो ऽसि यथा सम्यक् खेदश्चेतसि तेन मे \।\।
@@ -11239,8 +8987,6 @@ MS.
 पौ. सं.
 
 ३०.१४१ \।\।
-
-
 
 पूजनं भोगसंभोगैराज्यदोहैस्तु तर्पणम् \।
 
@@ -11250,8 +8996,6 @@ MS.
 
 ३०.१४२ \।\।
 
-
-
 सुक्षेत्रवापितं ह्येतदखिलार्थस्य मैऽखिलम् \।
 
 फलिष्यत्यमृतत्वेन ज्ञात्वैवं हि पुरा मया \।\।
@@ -11259,8 +9003,6 @@ MS.
 पौ. सं.
 
 ३०.१४३ \।\।
-
-
 
 अङ्गीकृतं गुरुमुखात् किन्तु सर्वेश्वर प्रभो \।
 
@@ -11270,8 +9012,6 @@ MS.
 
 ३०.१४४ \।\।
 
-
-
 मनोवाक्कायकर्मैस्तु आप्रभातामृनिशावधि \।
 
 अस्वातन्त्र्यादसामर्थ्यान्मनसश्चानवस्थिते \।\।
@@ -11279,8 +9019,6 @@ MS.
 पौ. सं.
 
 ३०.१४५ \।\।
-
-
 
 शीतोष्णवातवर्षाद्यैरन्तरायैर्ज्वरादिकैः \।
 
@@ -11290,8 +9028,6 @@ MS.
 
 ३०.१४६ \।\।
 
-
-
 आप्रवृत्तेः परानन्दप्राप्तिनिष्ठं यथाह्निकम् \।
 
 यथोक्तममराणां तु यस्मान्न घटते त्वतः \।\।
@@ -11299,8 +9035,6 @@ MS.
 पौ. सं.
 
 ३०.१४७ \।\।
-
-
 
 तस्य संपूरणार्थं तु प्रधानतरमर्चनम् \।
 
@@ -11310,8 +9044,6 @@ MS.
 
 ३०.१४८ \।\।
 
-
-
 तन्मया कृतमध्यक्षमर्चितं यदनिर्मलम् \।
 
 क्रियायोगादसंपूर्णं तन्मे निर्मलतां नय \।\।
@@ -11319,8 +9051,6 @@ MS.
 पौ. सं.
 
 ३०.१४९ \।\।
-
-
 
 ज्ञानतो ऽ ज्ञानतो वापि यथोक्तं न तु तन्मया \।
 
@@ -11330,8 +9060,6 @@ MS.
 
 ३०.१५० \।\।
 
-
-
 ओमच्युत जगन्नाथ मन्त्रमूर्ते सनातन \।
 
 रक्ष मां पुण्डरीकाक्ष क्षमस्वाज प्रसीद ओम् \।\।
@@ -11339,8 +9067,6 @@ MS.
 पौ. सं.
 
 ३०.१५१ \।\।
-
-
 
 उक्तवैवं मूलमन्त्रं तु हृदाद्यैर्लाञ्छनैः सह \।
 
@@ -11350,8 +9076,6 @@ MS.
 
 ३०.१५२ \।\।
 
-
-
 सर्वज्ञानक्रियाभोगशुभसंकल्पविग्रहम् \।
 
 मण्डलान्तर्गतस्यैवं प्रासादान्तःस्थितस्य च \।\।
@@ -11359,8 +9083,6 @@ MS.
 पौ. सं.
 
 ३०.१५३ \।\।
-
-
 
 वह्निमध्यगतस्यापि समारोप्य महामते \।
 
@@ -11370,8 +9092,6 @@ MS.
 
 ३०.१५४ \।\।
 
-
-
 यागोपकरणानां च दत्त्वा शास्त्रात्मनस्ततः \।
 
 देशिकस्य हृदारोप्य पूजितस्य च देववत् \।\।
@@ -11379,8 +9099,6 @@ MS.
 पौ. सं.
 
 ३०.१५५ \।\।
-
-
 
 परितुष्टेन तेनाथ तस्य सर्वार्थसिद्धये \।
 
@@ -11390,8 +9108,6 @@ MS.
 
 ३०.१५६ \।\।
 
-
-
 हवनान्तेर्ऽचनान्ते वा ह्यन्येषां क्रमशस्तु वै \।
 
 ततः प्रावरणैर्दानैर्यथासंपत्ति संभृतैः \।\।
@@ -11399,8 +9115,6 @@ MS.
 पौ. सं.
 
 ३०.१५७ \।\।
-
-
 
 सोपवीतोत्तरीयैश्च छत्त्रोपानत्समायुतैः \।
 
@@ -11410,8 +9124,6 @@ MS.
 
 ३०.१५८ \।\।
 
-
-
 पूजयेद्ब्राह्मणान् सर्वान् सुसूपायांस्तथा यतीन् \।
 
 त्रिरात्रादथ सप्ताहादुपसंहृत्य पौष्कर \।\।
@@ -11419,8 +9131,6 @@ MS.
 पौ. सं.
 
 ३०.१५९ \।\।
-
-
 
 महदर्चनपूर्वं तु कृत्वा पूर्णावसानिकम् \।
 
@@ -11430,8 +9140,6 @@ MS.
 
 ३०.१६० \।\।
 
-
-
 आदाय पूजिते पात्रे अर्चयित्वा यथाविधि \।
 
 जानु नी भूगते कृत्वा प्रणिपत्य च देशिकम् \।\।
@@ -11439,8 +9147,6 @@ MS.
 पौ. सं.
 
 ३०.१६१ \।\।
-
-
 
 मानयित्वार्ध्यपुष्पाद्यैः प्रणिपत्य स्वयं पुरा \।
 
@@ -11450,8 +9156,6 @@ MS.
 
 ३०.१६२ \।\।
 
-
-
 साशिषं भगवत्प्रीतिर्वाच्याचार्येण तस्य तु \।
 
 यथागमं यथाशास्त्रं प्रसादाच्चतुरात्मनः \।\।
@@ -11459,8 +9163,6 @@ MS.
 पौ. सं.
 
 ३०.१६३ \।\।
-
-
 
 त्वयि सांवत्सरं विप्र सुसंपूर्णं तदस्तु ते \।
 
@@ -11470,8 +9172,6 @@ MS.
 
 ३०.१६४ \।\।
 
-
-
 कलशद्वितयं मन्त्रं रक्षासौभाग्यमोक्षदम् \।
 
 विसर्जनं विभोः कुर्यात् पूजापूर्वं यथाक्रमम् \।\।
@@ -11479,8 +9179,6 @@ MS.
 पौ. सं.
 
 ३०.१६५ \।\।
-
-
 
 विष्वक्सेनं यजेत् साङ्गं तर्पयेत्तदनन्तरम् \।
 
@@ -11490,8 +9188,6 @@ MS.
 
 ३०.१६६ \।\।
 
-
-
 प्रकल्प्य पूर्ववत्सोमपानमच्छिद्रसिद्धये \।
 
 रुक्मराजतसद्रत्नघटिते वा विभूषिते \।\।
@@ -11499,8 +9195,6 @@ MS.
 पौ. सं.
 
 ३०.१६७ \।\।
-
-
 
 चक्राधारे तु कलशे वितते कमलोदरे \।
 
@@ -11510,8 +9204,6 @@ MS.
 
 ३०.१६८ \।\।
 
-
-
 ऊध्वार्धः कौमुदीमालामण्डलालंकृते ऽब्जज \।
 
 मकराननशेषाभिरमृताम्बुप्रवाहके \।\।
@@ -11519,8 +9211,6 @@ MS.
 पौ. सं.
 
 ३०.१६९ \।\।
-
-
 
 नदी समुद्रश्रीवृक्षमीनमाल्यैः परिष्कृते \।
 
@@ -11530,8 +9220,6 @@ MS.
 
 ३०.१७० \।\।
 
-
-
 पाद्यार्ध्याचमनस्नानदाने सावत्सरोत्सवे \।
 
 तथा सहस्रकलशैरभिषेकविधावपि \।\।
@@ -11539,8 +9227,6 @@ MS.
 पौ. सं.
 
 ३०.१७१ \।\।
-
-
 
 इत्युक्तमरविन्दाक्ष पवित्रारोपणं परम् \।
 
@@ -11550,8 +9236,6 @@ MS.
 
 ३०.१७२ \।\।
 
-
-
 तस्य निर्वर्तनाद्मक्त्या ब्राह्मणो वेदविद्यवेत् \।
 
 श्रीमानत्युग्रशशक्तिर्वै क्षत्तियो ऽच्छिन्नसन्ततिः \।\।
@@ -11559,8 +9243,6 @@ MS.
 पौ. सं.
 
 ३०.१७३ \।\।
-
-
 
 धनधान्ययुतो वैश्यः शुद्रस्तु सुखवान् भवेत् \।
 
@@ -11570,8 +9252,6 @@ MS.
 
 ३०.१७४ \।\।
 
-
-
 यावज्जीवं प्रदत्रानां प्रत्यहं तु समाः शतम् \।
 
 परमायुषि संपूर्णे तत्फलं प्रापनुयान्नरः \।\।
@@ -11579,8 +9259,6 @@ MS.
 पौ. सं.
 
 ३०.१७५ \।\।
-
-
 
 प्राप्तकालः स्वबुध्या तु आसाद्यायतनं हरेः \।
 
@@ -11590,8 +9268,6 @@ MS.
 
 ३०.१७६ \।\।
 
-
-
 यानैश्चन्द्र प्रतीकाशैर्दिव्यस्त्रीजनसंयुतैः \।
 
 वीज्यमानो दिवं याति पूज्यमानस्तथामरैः \।\।
@@ -11599,8 +9275,6 @@ MS.
 पौ. सं.
 
 ३०.१७७ \।\।
-
-
 
 भुक्त्वा भोगांस्तु विपुलान् सर्वलोकान्तरोद्भवान् \।
 
@@ -11610,8 +9284,6 @@ MS.
 
 ३०.१७८ \।\।
 
-
-
 शुभे काले शुभे देशे जायते च शुभे कुले \।
 
 निवृत्ते बाल्यभावे तु व्यक्ते करणसंग्रहे \।\।
@@ -11619,8 +9291,6 @@ MS.
 पौ. सं.
 
 ३०.१७९ \।\।
-
-
 
 बुद्धितत्त्वे प्रबुद्धे तु जन्माभ्यासवशात्तु वै \।
 
@@ -11630,8 +9300,6 @@ MS.
 
 ३०.१८० \।\।
 
-
-
 नित्यं क्रियापरो धीमान् ब्रह्मण्यः सत्यविक्रमः \।
 
 अनन्यथा विशुद्धात्मा दुष्टसङ्गविवर्जितः \।\।
@@ -11639,8 +9307,6 @@ MS.
 पौ. सं.
 
 ३०.१८१ \।\।
-
-
 
 व्याधिशोकविनिर्मुक्तः पुत्रदारादिकैर्युतः \।
 
@@ -11650,8 +9316,6 @@ MS.
 
 ३०.१८२ \।\।
 
-
-
 श्वेतद्वीपं समायाति सुराणां यत्सुदुर्लभम् \।
 
 ज्ञानिनामपि चान्येषां तत्र दृष्ट्वा जगत्पतिम् \।\।
@@ -11659,8 +9323,6 @@ MS.
 पौ. सं.
 
 ३०.१८३ \।\।
-
-
 
 परं ब्रह्मत्वमायाति तत्कर्मपरमः पुमान् \।
 
@@ -11670,8 +9332,6 @@ MS.
 
 ३०.१८४ \।\।
 
-
-
 तथानुमोदयन्त्यन्ये यान्ति ते ऽप्यमरावतीम् \।
 
 श्रुण्वन्ति ये विधानं तु पवित्रं पापनाशनम् \।\।
@@ -11679,8 +9339,6 @@ MS.
 पौ. सं.
 
 ३०.१८५ \।\।
-
-
 
 प्राप्नुवन्ति च ते पुव्यमिष्टापूर्तादिकं हि यत् \।
 
@@ -11690,8 +9348,6 @@ MS.
 
 ३०.१८६ \।\।
 
-
-
 तद्भक्ता सा सती साध्वी कर्मणा मनसा गिरा \।
 
 नित्यं भर्तरि चाद्रोहा प्रयता साङ्गतेन वै \।\।
@@ -11699,8 +9355,6 @@ MS.
 पौ. सं.
 
 ३०.१८७ \।\।
-
-
 
 पवित्तकं जगद्योनेरारोपयतिचाब्जज \।
 
@@ -11710,8 +9364,6 @@ MS.
 
 ३०.१८८ \।\।
 
-
-
 देहान्ते देवनारीणां देवानां याति पूज्यताम् \।
 
 सात्वरुन्धतिपूर्वाणामवा (वी )क् समभिवीक्षते \।\।
@@ -11719,8 +9371,6 @@ MS.
 पौ. सं.
 
 ३०.१८९ \।\।
-
-
 
 ज्ञानमासादयत्यन्ते येन यान्त्य (त्य )त्त्युतं पदम् \।
 
@@ -11730,8 +9380,6 @@ MS.
 
 ३०.१९० \।\।
 
-
-
 पितॄणां जनकादीनां नाम्ना स्नेहपुरस्तु यः \।
 
 ददाति भूषणं विप्र मन्त्री मन्त्रात्मनो विभोः \।\।
@@ -11739,8 +9387,6 @@ MS.
 पौ. सं.
 
 ३०.१९१ \।\।
-
-
 
 दुर्गतेः सुगतिं याति द्युसिन्धोरस्थिरा नरः \।
 
@@ -11750,8 +9396,6 @@ MS.
 
 ३०.१९२ \।\।
 
-
-
 स्वधा यथा पितॄणां च कर्मिणां तद्वदब्जज \।
 
 पवित्रकं क्रियाढ्यानां पावनं भूतिवर्धनम् \।\।
@@ -11759,8 +9403,6 @@ MS.
 पौ. सं.
 
 ३०.१९३ \।\।
-
-
 
 सर्वदोषभयघ्नं च सर्वोपद्रवनाशनम् \।
 
@@ -11770,8 +9412,6 @@ MS.
 
 ३०.१९४ \।\।
 
-
-
 यः सम्यग्भगवद्भक्तः कृतमन्त्रपरिग्रहः \।
 
 एवमवे प्रवृत्तौ वा जन्माभ्यासात्सदार्चने \।\।
@@ -11779,8 +9419,6 @@ MS.
 पौ. सं.
 
 ३०.१९५ \।\।
-
-
 
 अनन्यत्वेन वै विष्णोः परस्य परमात्मनः \।
 
@@ -11790,8 +9428,6 @@ MS.
 
 ३०.१९६ \।\।
 
-
-
 असन्निधानात् स्वगुरोरभावात्तस्य चाब्जज \।
 
 प्रवर्तनीयमन्येन गुरुणाभ्यर्थितेन च \।\।
@@ -11799,8 +9435,6 @@ MS.
 पौ. सं.
 
 ३०.१९७ \।\।
-
-
 
 कर्मणा मनसा वाचा नेतरस्याधमस्य च \।
 
@@ -11810,8 +9444,6 @@ MS.
 
 ३०.१९८ \।\।
 
-
-
 पवित्रारोहणादीनामर्थनीयो हि देशिकः \।
 
 मामतिप्रतिपन्नं च अन्तस्थो वेत्ति यद्यपि \।\।
@@ -11819,8 +9451,6 @@ MS.
 पौ. सं.
 
 ३०.१९९ \।\।
-
-
 
 कृतार्थमतिभक्तत्वादमुं मन्ये तदा गुरुम् \।
 
@@ -11830,8 +9460,6 @@ MS.
 
 ३०.२०० \।\।
 
-
-
 यत्रैव चित्तवृत्तीनां साम्यमस्ति त्रयस्य च \।
 
 शिष्यदेशिकमन्त्राणां तन्त्रमोक्षश्च सिद्धयः \।\।
@@ -11839,8 +9467,6 @@ MS.
 पौ. सं.
 
 ३०.२०१ \।\।
-
-
 
 ज्ञात्वैवं यस्तु भक्तानामभक्तः संप्रवर्तते \।
 
@@ -11850,8 +9476,6 @@ MS.
 
 ३०.२०२ \।\।
 
-
-
 प्रत्यक्षमेति भक्तानां भक्तिः प्रागर्जिता शनैः \।
 
 तत्सम्पर्कसमाचारान् मन्त्रदैवतनिन्दनात् \।\।
@@ -11859,8 +9483,6 @@ MS.
 पौ. सं.
 
 ३०.२०३ \।\।
-
-
 
 तस्माद्विषयसंभूतं यस्य यद्विषयं स्फुटम् \।
 
@@ -11870,8 +9492,6 @@ MS.
 
 ३०.२०४ \।\।
 
-
-
 यत्रास्ति देशिकानां च भक्तिरव्यभिचारिणी \।
 
 तत्रैव यदि शिष्याणामभिलाषो ऽस्ति पूजने \।\।
@@ -11879,8 +9499,6 @@ MS.
 पौ. सं.
 
 ३०.२०५ \।\।
-
-
 
 तदा मन्त्रवरः प्रीतः सन्निधिं कुरुतऽब्जज \।
 
@@ -11890,8 +9508,6 @@ MS.
 
 ३०.२०६ \।\।
 
-
-
 अतो ऽन्यस्य क्रियां विद्धि भक्तिपूर्वा तु सा स्मृता \।
 
 या च तद्विषया भक्तिः पतिवृत्तिसमोचिता \।\।
@@ -11899,8 +9515,6 @@ MS.
 पौ. सं.
 
 ३०.२०७ \।\।
-
-
 
 अष्टाङ्गलक्षणा पूर्णा श्रद्धापूता च मोक्षदा \।
 
@@ -11910,8 +9524,6 @@ MS.
 
 ३०.२०८ \।\।
 
-
-
 सर्वस्याहं तटस्थो ऽहमाशयं वेद्मि तत्त्वतः \।
 
 भक्तिर्मा प्रति वै ताभ्यां यदा ह्यव्यभिचारिणी \।\।
@@ -11919,8 +9531,6 @@ MS.
 पौ. सं.
 
 ३०.२०९ \।\।
-
-
 
 मन्त्रात्मनानुगृह्णामि शिष्य गुरुमुखेन तु \।
 
@@ -11930,8 +9540,6 @@ MS.
 
 ३०.२१० \।\।
 
-
-
 नाभक्तस्त्वतिभक्तेन योजनीयस्त्वदर्चने \।
 
 गुरोरंअभक्ताद्भक्तानां भक्तिरभ्येति तापनम् \।\।
@@ -11939,8 +9547,6 @@ MS.
 पौ. सं.
 
 ३०.२११ \।\।
-
-
 
 शारीरं मानसं दुःखं वर्धते च क्षणात् क्षणम् \।
 
@@ -11950,8 +9556,6 @@ MS.
 
 ३०.२१२ \।\।
 
-
-
 गुरोरअनन्यशरणाद्भक्तानां कमलोद्भव \।
 
 द्विविधं त्रिविधं दोषमचिरात् क्षयमेति च \।\।
@@ -11959,8 +9563,6 @@ MS.
 पौ. सं.
 
 ३०.२१३ \।\।
-
-
 
 अनुग्राह्यादभक्ताच्च सावलेपात् क्रियोज्झितात् \।
 
@@ -11970,8 +9572,6 @@ MS.
 
 ३०.२१४ \।\।
 
-
-
 सांमुख्यं दुःसहानां च दोषाणां दिक्षितस्य च \।
 
 तस्मात्सर्वप्रयत्नेन अदृष्टफलसिद्धये \।\।
@@ -11979,8 +9579,6 @@ MS.
 पौ. सं.
 
 ३०.२१५ \।\।
-
-
 
 विहितं यच्च तत्कार्यं शिष्येण गुरुणापि च \।
 
@@ -11990,8 +9588,6 @@ MS.
 
 ३०.२१६ \।\।
 
-
-
 लाभक्तः संत्क्रियां वेत्ति नाभक्तः शास्त्रविद्भवेत् \।
 
 नाभक्तमर्चां यागं च वह्निमर्चापयेत्तथा \।\।
@@ -11999,8 +9595,6 @@ MS.
 पौ. सं.
 
 ३०.२१७ \।\।
-
-
 
 बन्धापयेन्नमुद्रां च श्रावयेत्समयान्न हि \।
 
@@ -12010,8 +9604,6 @@ MS.
 
 ३०.२१८ \।\।
 
-
-
 विपर्ययार्थवेतॄणामपहारसरतात्मनाम् \।
 
 अभिगच्छापयेन्मोहात्स याति नरकं गुरुः \।\।
@@ -12019,8 +9611,6 @@ MS.
 पौ. सं.
 
 ३०.२१९ \।\।
-
-
 
 प्रायश्चित्तं हि पूर्वोक्तं तापार्तो नाचरेद्यदि \।
 
@@ -12030,8 +9620,6 @@ MS.
 
 ३०.२२० \।\।
 
-
-
 भक्तानामुपकाराथ पवित्रारोहणं शुभम् \।
 
 प्रावृट्काले प्रवृत्ते तु त्रेलीक्योदरवर्तिनाम् \।\।
@@ -12039,8 +9627,6 @@ MS.
 पौ. सं.
 
 ३०.२२१ \।\।
-
-
 
 मनुष्यामरसिद्धानां वक्तव्यं चानुवर्तिनाम् \।
 
@@ -12050,8 +9636,6 @@ MS.
 
 ३०.२२२ \।\।
 
-
-
 महत्यस्मिन् महाबुद्धे व्यापारे पारमेश्वरे \।
 
 विभोः शयनसंस्थस्य काले पुष्फलाकुले \।\।
@@ -12059,8 +9643,6 @@ MS.
 पौ. सं.
 
 ३०.२२३ \।\।
-
-
 
 गगने लङ्घयमाने तु सबलाकैर्वलाहकैः \।
 
@@ -12070,8 +9652,6 @@ MS.
 
 ३०.२२४ \।\।
 
-
-
 वनोपवनौद्याने हरितैः शाद्वलादिकैः \।
 
 शालिसस्यादिकैर्युक्ते पल्वलोदकशोभिते \।\।
@@ -12079,8 +9659,6 @@ MS.
 पौ. सं.
 
 ३०.२२५ \।\।
-
-
 
 पवित्रकं कृतं विष्णोरन्तः स्थस्यातितु ष्टिदम् \।
 
@@ -12090,8 +9668,6 @@ MS.
 
 ३०.२२६ \।\।
 
-
-
 अथोक्तदिवसे ताभ्यां ब्रह्मन्निर्वर्तिते सति \।
 
 रक्षणीयमवश्यं वै कर्मयागं क्रियापरैः \।\।
@@ -12100,31 +9676,15 @@ MS.
 
 ३०.२२७ \।\।
 
-
-
 इति श्रीपाञ्चरात्ते महोपनिषदि पौष्करसंहितायां
 
 पवित्रारोहणं नाम त्रिंशो ऽध्यायः \।\।
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
 
 अथ एकत्रिंशो ऽध्यायः
 
-
-
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 पवित्रारोहणं कृत्वा चातुर्मास्यं महामते \।
 
@@ -12134,8 +9694,6 @@ MS.
 
 ३१.१ \।\।
 
-
-
 शयनं देवदेवीयम् अर्चयेत् तद् विधिं शृणु \।
 
 हेमादिरत्नरवचिते सर्वाङ्गपरिशोभिते \।\।
@@ -12143,8 +9701,6 @@ MS.
 पौ. सं.
 
 ३१.२ \।\।
-
-
 
 भगवत्यनुरूपे च शयने शशिवासिते \।
 
@@ -12154,8 +9710,6 @@ MS.
 
 ३१.३ \।\।
 
-
-
 वैजयन्तीगणोपेते हेमदण्डाङ्घ्रिभूषिते \।
 
 वितानकेन दिव्येन कुङ्कुमाद्यैर्विभूषिते \।\।
@@ -12163,8 +9717,6 @@ MS.
 पौ. सं.
 
 ३१.४ \।\।
-
-
 
 शोभिते चोपरिष्टात्तु तिर्यगूर्ध्वपटावृते \।
 
@@ -12174,8 +9726,6 @@ MS.
 
 ३१.५ \।\।
 
-
-
 विदिक् चित्रपटैर्युक्ते सत्पुष्पप्रकरीकृते \।
 
 रत्नदीपसमायुक्त इत्यस्मिन् शयने स्मरेत् \।\।
@@ -12183,8 +9733,6 @@ MS.
 पौ. सं.
 
 ३१.६ \।\।
-
-
 
 श्रीरोदार्णवमध्यस्थं सहस्त्रफणमौलिनम् \।
 
@@ -12194,8 +9742,6 @@ MS.
 
 ३१.७ \।\।
 
-
-
 प्रणवेन स्वनाम्ना च वर्णान्तेन सबिन्दुना \।
 
 ध्यात्वार्चयित्वा स्तुत्वा च नमस्कृत्य प्रसाद्य च \।\।
@@ -12203,8 +9749,6 @@ MS.
 पौ. सं.
 
 ३१.८ \।\।
-
-
 
 निवेश्य तस्मिन् कर्मार्चां हारकेयूरभूषितम् \।
 
@@ -12214,8 +9758,6 @@ MS.
 
 ३१.९ \।\।
 
-
-
 प्रावृतां नेत्रवस्त्रेण मृष्टरूपैः सुधूपिताम् \।
 
 स्वबीजं मन्त्रवर्णं तु ॐ लक्ष्मीपतये नमः \।\।
@@ -12223,8 +9765,6 @@ MS.
 पौ. सं.
 
 ३१.१० \।\।
-
-
 
 समुदीर्य धिया चार्ध्यम् अङ्गोपाङ्गक्रमेण तु \।
 
@@ -12234,8 +9774,6 @@ MS.
 
 ३१.११ \।\।
 
-
-
 कर्मार्चाया अभावात्तु दर्भमञ्जरिजं शुभम् \।
 
 यथोक्तेन विधानेन विष्टरे विनिवेश्य च \।\।
@@ -12243,8 +9781,6 @@ MS.
 पौ. सं.
 
 ३१.१२ \।\।
-
-
 
 तस्मिन् मन्त्रवरं न्यस्य स्वपद्मगगनोदरात् \।
 
@@ -12254,8 +9790,6 @@ MS.
 
 ३१.१३ \।\।
 
-
-
 व्यक्तीनां मूर्तिदानेन नीत्वा ध्यानान्वितेन च \।
 
 देवाङ्गमहितं वस्त्रम् अभुक्तम् अमलात्मकम् \।\।
@@ -12263,8 +9797,6 @@ MS.
 पौ. सं.
 
 ३१.१४ \।\।
-
-
 
 क्ष्त्वोपरि समभ्यर्च्य पुष्पधूपविलेपनैः \।
 
@@ -12274,8 +9806,6 @@ MS.
 
 ३१.१५ \।\।
 
-
-
 दक्षिणे त्वभिमानाख्यां मूर्तिं तु चमरोद्यताम् \।
 
 एवं ज्ञाननिशां वामे तालवृन्तकरोद्यताम् \।\।
@@ -12283,8 +9813,6 @@ MS.
 पौ. सं.
 
 ३१.१६ \।\।
-
-
 
 उत्तमां भावयेन् निद्रां करसंवाहने रताम् \।
 
@@ -12294,8 +9822,6 @@ MS.
 
 ३१.१७ \।\।
 
-
-
 आदाय चरणे दिव्ये साक्षाछ्रीः सन्निधिस्थिता \।
 
 आनन्दं ब्रह्मणो रूपं तस्यै देवाधिदेवता \।\।
@@ -12303,8 +9829,6 @@ MS.
 पौ. सं.
 
 ३१.१८ \।\।
-
-
 
 तदन्तः स्मरणानन्दजातविस्मयलोचनाः \।
 
@@ -12314,8 +9838,6 @@ MS.
 
 ३१.१९ \।\।
 
-
-
 एवं हि देवदेवीयं शयनं कमलोद्भव \।
 
 यथोक्तं संप्रतिष्ठाप्य चातुर्मास्यपरैर्नरैः \।\।
@@ -12323,8 +9845,6 @@ MS.
 पौ. सं.
 
 ३१.२० \।\।
-
-
 
 कार्यात्र प्रत्यहं पूजा मार्जनं चोपलेपनम् \।
 
@@ -12334,8 +9854,6 @@ MS.
 
 ३१.२१ \।\।
 
-
-
 प्रदानं धूपदीपानां व्यजनेनानिलोत्थितः \।
 
 शशिचन्दनसंयुक्तशीतलोदक सत्क्रियाः \।\।
@@ -12343,8 +9861,6 @@ MS.
 पौ. सं.
 
 ३१.२२ \।\।
-
-
 
 कदलीदलकह्लारैः पद्मोत्पलविमिश्रितैः \।
 
@@ -12354,8 +9870,6 @@ MS.
 
 ३१.२३ \।\।
 
-
-
 वेणुवीणासमोपेतां गीतिं च मधुरस्वराम् \।
 
 एवं मासद्वये याते जाते मेघरवे ऽम्बरात् \।\।
@@ -12363,8 +9877,6 @@ MS.
 पौ. सं.
 
 ३१.२४ \।\।
-
-
 
 ब्रह्मन् भाद्रपदे मासि द्वादश्यां हि निशामुखे \।
 
@@ -12374,8 +9886,6 @@ MS.
 
 ३१.२५ \।\।
 
-
-
 स्थित्यर्थम् अमराणां च परिवर्तनम् आचरेत् \।
 
 दक्षिणेनाङ्गसङ्घेन त्यक्त्वा चोत्तानशायिकाम् \।\।
@@ -12383,8 +9893,6 @@ MS.
 पौ. सं.
 
 ३१.२६ \।\।
-
-
 
 योगनिद्रां समाश्रित्य प्रकुर्वन् प्रभवाप्ययौ \।
 
@@ -12394,8 +9902,6 @@ MS.
 
 ३१.२७ \।\।
 
-
-
 मूलेन्दुमण्डलाच्चाथ अपास्याच्छादनाम्बरम् \।
 
 आस्ते त्वाश्वयुजे त्वेष द्वादश्यां परमेश्वरः \।\।
@@ -12403,8 +9909,6 @@ MS.
 पौ. सं.
 
 ३१.२८ \।\।
-
-
 
 संत्यजेच्छयनं दिव्यं निशायां कार्तिकस्य (तु )च \।
 
@@ -12414,8 +9918,6 @@ MS.
 
 ३१.२९ \।\।
 
-
-
 निःशेषभुवनग्रामवीथीनां दोषशान्तये \।
 
 विचरत्यप्रमेयात्मा नन्दयंस्तान् सुरादिकान् \।\।
@@ -12423,8 +9925,6 @@ MS.
 पौ. सं.
 
 ३१.३० \।\।
-
-
 
 आवीक्षयञ्जगत्यस्मिन् स्वकृतं धर्मपद्धतिम् \।
 
@@ -12434,8 +9934,6 @@ MS.
 
 ३१.३१ \।\।
 
-
-
 विविधैरुत्सवैर्दानजपजागरणैः शुभैः \।
 
 नृत्रगीतसमोपेतैर्विलासैर्हास्यसंयुतैः \।\।
@@ -12443,8 +9941,6 @@ MS.
 पौ. सं.
 
 ३१.३२ \।\।
-
-
 
 क्रीडमानैः सुमनसैः प्रयतैः प्रणतैः प्रभोः \।
 
@@ -12454,8 +9950,6 @@ MS.
 
 ३१.३३ \।\।
 
-
-
 मासशेषं तपोनिष्ठैः समर्थैः पुनरेव हि \।
 
 स्वाश्रमे वामरक्षेत्रे रक्षणीयं महाजनैः \।\।
@@ -12463,8 +9957,6 @@ MS.
 पौ. सं.
 
 ३१.३४ \।\।
-
-
 
 ब्रह्मन् द्वादशरात्रेण षड्रात्रेण शुभेन च (वा ) \।
 
@@ -12474,8 +9966,6 @@ MS.
 
 ३१.३५ \।\।
 
-
-
 नयेन् नक्ताशनेनाथ चत्वार्येते शुभव्रताः \।
 
 मासोपवासनिरतैर्नरैः परमवैष्णवैः \।\।
@@ -12483,8 +9973,6 @@ MS.
 पौ. सं.
 
 ३१.३६ \।\।
-
-
 
 अन्ते त्रिद्वयेकरात्रं वा कार्यम् अच्युतजागरम् \।
 
@@ -12494,8 +9982,6 @@ MS.
 
 ३१.३७ \।\।
 
-
-
 सवाद्यैर्मधुरैर्नृत्तैरपहासैः तु इर्षदैः \।
 
 जयशब्दैर्नमस्कारैः करतालसमन्वितैः \।\।
@@ -12503,8 +9989,6 @@ MS.
 पौ. सं.
 
 ३१.३८ \।\।
-
-
 
 समर्चयेच्छ्रीनिवासं जुह्वान् ध्यायन् जपन्नपि \।
 
@@ -12514,8 +9998,6 @@ MS.
 
 ३१.३९ \।\।
 
-
-
 अर्ध्यैर्विलेपनैर्माल्यैर्मृष्टधूपसमन्वितैः \।
 
 ब्राह्मे मुहूर्ते द्वाश्यां मन्त्रमूर्तिं यजेद्धरिम् \।\।
@@ -12523,8 +10005,6 @@ MS.
 पौ. सं.
 
 ३१.४० \।\।
-
-
 
 शङ्खध्वानसमोपेतैर्दुन्दुभीपटहस्वनैः \।
 
@@ -12534,8 +10014,6 @@ MS.
 
 ३१.४१ \।\।
 
-
-
 महाजयजयारावैः पुनःपुनरुदीरितैः \।
 
 प्रबोधलक्षणैस्तोत्रैरुत्थाप्य शयनात्ततः \।\।
@@ -12543,8 +10021,6 @@ MS.
 पौ. सं.
 
 ३१.४२ \।\।
-
-
 
 महता विभवेनाथ मण्डलादौ यजेत्क्रमात् \।
 
@@ -12554,8 +10030,6 @@ MS.
 
 ३१.४३ \।\।
 
-
-
 महादीपैः प्रभूतैस्तु साङ्कुरैः पालिकागणैः \।
 
 फलैः पनसपूर्वैस्तु मध्वाज्यतिलचर्चितैः \।\।
@@ -12563,8 +10037,6 @@ MS.
 पौ. सं.
 
 ३१.४४ \।\।
-
-
 
 पुष्पार्ध्यचन्दनाद्यनतैर्ब्रह्मसूत्रविभूषितैः \।
 
@@ -12574,8 +10046,6 @@ MS.
 
 ३१.४५ \।\।
 
-
-
 कदम्बचूतश्रीवृक्षऋजुशाखासमन्वितैः \।
 
 तरण्डैः सूत्रसम्बधैः कुङ्कुमाद्यैःसुपूजितैः \।\।
@@ -12583,8 +10053,6 @@ MS.
 पौ. सं.
 
 ३१.४६ \।\।
-
-
 
 गोभूहेमादिकैदानैश्चित्रैः प्रावरणैः शुभैः \।
 
@@ -12594,8 +10062,6 @@ MS.
 
 ३१.४७ \।\।
 
-
-
 सपवित्रेण यानेन सचक्रेण शुभेन वा \।
 
 मन्त्रास्त्रकुम्भयुक्तेन तद्बिम्बोदरकेण वा \।\।
@@ -12603,8 +10069,6 @@ MS.
 पौ. सं.
 
 ३१.४८ \।\।
-
-
 
 ब्रह्मघोषसमेतेन गीतवाद्यान्वितेन च \।
 
@@ -12614,8 +10078,6 @@ MS.
 
 ३१.४९ \।\।
 
-
-
 परिव्राड्ब्रह्मचारीभिर्जपस्तुतिपरायणैः \।
 
 महता केतुयुक्तेन सितच्छत्त्रावृतेन तु \।\।
@@ -12623,8 +10085,6 @@ MS.
 पौ. सं.
 
 ३१.५० \।\।
-
-
 
 प्रदहन् सुरभिं धूपं पृथक् साम्यं च गुगुलुम् \।
 
@@ -12634,8 +10094,6 @@ MS.
 
 ३१.५१ \।\।
 
-
-
 ततः प्रदक्षिणीकृत्य चतुर्धां प्रणिपत्य च \।
 
 सर्वाङ्गैर्दण्डवद् भूमौ भक्त्या तु पुरुषोत्रमम् \।\।
@@ -12643,8 +10101,6 @@ MS.
 पौ. सं.
 
 ३१.५२ \।\।
-
-
 
 रथस्थं आलयस्थं तु चेतसा संस्तुवन् जपन् \।
 
@@ -12654,8 +10110,6 @@ MS.
 
 ३१.५३ \।\।
 
-
-
 दृष्टं यदेव दिग्देवं भावयेत् सर्वदिक् तथा \।
 
 चङ्क्रमेद्भवनं कृत्स्नं स्थितिं बध्नाति येन वै \।\।
@@ -12663,8 +10117,6 @@ MS.
 पौ. सं.
 
 ३१.५४ \।\।
-
-
 
 भक्तानां भगवान् भक्तौ दिक्कालाद्यैर् अनाहतः \।
 
@@ -12674,8 +10126,6 @@ MS.
 
 ३१.५५ \।\।
 
-
-
 समभ्यस्तं परिज्ञातं ददाति पदमाच्युतम् \।
 
 जानुभ्यां सहपाणिभ्यां जानुभ्यां वा समाचरेत् \।\।
@@ -12683,8 +10133,6 @@ MS.
 पौ. सं.
 
 ३१.५६ \।\।
-
-
 
 सकृत् संवत्सरस्यान्ते त्रिसन्ध्याद्वादशीषु वा \।
 
@@ -12694,8 +10142,6 @@ MS.
 
 ३१.५७ \।\।
 
-
-
 समभ्यर्च्य ततो भावम् अचिराद् एव कर्मिणाम् \।
 
 फलं यच्छति देहान्ते क्रमाल्लोकास्तु वैभवाः \।\।
@@ -12703,8 +10149,6 @@ MS.
 पौ. सं.
 
 ३१.५८ \।\।
-
-
 
 कृतेज्यः परया भक्तया प्रणम्यैवम् अधोक्षजम् \।
 
@@ -12714,8 +10158,6 @@ MS.
 
 ३१.५९ \।\।
 
-
-
 सर्वक्षेत्राभिगमनात् सर्वतीर्थाटनात् तु वै \।
 
 फलं ददाति भगवान् भक्तस्य चरणार्चितम् \।\।
@@ -12723,8 +10165,6 @@ MS.
 पौ. सं.
 
 ३१.६० \।\।
-
-
 
 प्रदक्षिणीकृता येन मूर्तिर्मन्त्रात्मनो हरेः \।
 
@@ -12734,8 +10174,6 @@ MS.
 
 ३१.६१ \।\।
 
-
-
 भगवत् कर्मदीक्षाणां भक्तानां भावितात्मनाम् \।
 
 प्रकृष्टम् एतद् व्यापारं दक्षिणं शुभवर्त्मनि \।\।
@@ -12743,8 +10181,6 @@ MS.
 पौ. सं.
 
 ३१.६२ \।\।
-
-
 
 ज्ञानगोलकतुल्यत्वात् चक्रवद् भ्रमणात् तु वै \।
 
@@ -12754,8 +10190,6 @@ MS.
 
 ३१.६३ \।\।
 
-
-
 भगवत् कर्मनिष्ठानां देवायतनवासिनाम् \।
 
 भक्तानाम् अपि वान्येषां कर्मवाग् इन्द्रियात्मकम् \।\।
@@ -12763,8 +10197,6 @@ MS.
 पौ. सं.
 
 ३१.६४ \।\।
-
-
 
 अन्तर्गर्भगृहे विष्णोर्गर्भाद् वा आननमण्डपे \।
 
@@ -12774,8 +10206,6 @@ MS.
 
 ३१.६५ \।\।
 
-
-
 वह्निस्थस्य विभोर्यस्मात् पाणिपृष्ठस्य दर्शनम् \।
 
 दोषकृन्मन्त्रमूर्तीनाम् एवं देहम् असिद्धिकृत् \।\।
@@ -12783,8 +10213,6 @@ MS.
 पौ. सं.
 
 ३१.६६ \।\।
-
-
 
 जानुप्रदक्षिणं कृत्वा अन्तः सन्निकटे विभोः \।
 
@@ -12794,8 +10222,6 @@ MS.
 
 ३१.६७ \।\।
 
-
-
 उपानत् पादुकारूढच्छत्रोष्णीषधरास्तथा \।
 
 यानाश्वशिबिकासंस्थः ताम्बूलाद्यं हि चर्वयन् \।\।
@@ -12803,8 +10229,6 @@ MS.
 पौ. सं.
 
 ३१.६८ \।\।
-
-
 
 क्रीडापक्षिहिलादण्डदर्पणं व्यञ्जनं वहन् \।
 
@@ -12814,8 +10238,6 @@ MS.
 
 ३१.६९ \।\।
 
-
-
 विलासकेलिक्रीडां च कुर्वन् कुपितमानसः \।
 
 त्वराविष्टः शुभार्थी यो लभेन् नात्र भ्रमन् फलम् \।\।
@@ -12823,8 +10245,6 @@ MS.
 पौ. सं.
 
 ३१.७० \।\।
-
-
 
 अनन्यबुद्धिना तस्मात् तग्दतेनान्तरात्मना \।
 
@@ -12834,8 +10254,6 @@ MS.
 
 ३१.७१ \।\।
 
-
-
 यस्माद् वै भूरिफलदम् अल्पक्लेशं महामते \।
 
 एकबेरम् अनन्तं च महामोक्षकरं परम् \।\।
@@ -12843,8 +10261,6 @@ MS.
 पौ. सं.
 
 ३१.७२ \।\।
-
-
 
 एवं प्रदक्षिणीकृत्य कृत्वा पुष्पाञ्जलिं ततः \।
 
@@ -12854,8 +10270,6 @@ MS.
 
 ३१.७३ \।\।
 
-
-
 पूजनीयं पुनरपि मुद्राबद्धाञ्जलिं ततः \।
 
 तर्पणीयमथाज्याद्यैर्दद्यात् पूर्णाहुतिं शुभाम् \।\।
@@ -12863,8 +10277,6 @@ MS.
 पौ. सं.
 
 ३१.७४ \।\।
-
-
 
 अर्ध्यधूपप्रदानाद्यैः क्षमयेत् पुरुषोत्तमम् \।
 
@@ -12874,8 +10286,6 @@ MS.
 
 ३१.७५ \।\।
 
-
-
 शयनं स्वगुरोर्विप्र द्विजानां तदसन्निधौ \।
 
 कृत्वा जानुद्वयं भूमौ बद्धाञ्जलिरिदं पठेत् \।\।
@@ -12883,8 +10293,6 @@ MS.
 पौ. सं.
 
 ३१.७६ \।\।
-
-
 
 देव सर्वेश्वरानादे कर्मणानेन चाखिलाम् \।
 
@@ -12894,8 +10302,6 @@ MS.
 
 ३१.७७ \।\।
 
-
-
 भोजयेद् ब्राह्मणान् पश्चाद् विविधैः पानभोजनैः \।
 
 श्रद्धया दक्षिणान्तैश्च तृप्त्यर्थं पितृसन्ततेः \।\।
@@ -12903,8 +10309,6 @@ MS.
 पौ. सं.
 
 ३१.७८ \।\।
-
-
 
 अनुयागं ततः कुर्याद् बन्धुभृत्यसमान्वितः \।
 
@@ -12914,8 +10318,6 @@ MS.
 
 ३१.७९ \।\।
 
-
-
 द्रष्टव्यम् अमरैर्देवं क्षेत्रे ब्रह्मरथे स्थितम् \।
 
 ग्रामीये नागरे स्थाने विमाने वा स्थितं प्रभुम् \।\।
@@ -12923,8 +10325,6 @@ MS.
 पौ. सं.
 
 ३१.८० \।\।
-
-
 
 इत्येवमुक्तं भक्तानां विधानं कौमुदीयकम् \।
 
@@ -12934,8 +10334,6 @@ MS.
 
 ३१.८१ \।\।
 
-
-
 पवित्रारोहणाद्यं च भक्तानां भावितात्मनाम् \।
 
 युदक्तमेवम् अखिलं यथाकमलसंभव \।\।
@@ -12943,8 +10341,6 @@ MS.
 पौ. सं.
 
 ३१.८२ \।\।
-
-
 
 अस्वातन्त्राद् असामर्थ्याद् वित्ताभावात्तु वा द्विज \।
 
@@ -12954,8 +10350,6 @@ MS.
 
 ३१.८३ \।\।
 
-
-
 वारिते ऽपि निशायां तु चातुर्मास्ये तु संयमे \।
 
 भक्तैर्निर्वहणीयं च तुलाभागावसानिकम् \।\।
@@ -12963,8 +10357,6 @@ MS.
 पौ. सं.
 
 ३१.८४ \।\।
-
-
 
 प्राक् भवेत्रुलभो (गात्तु )गस्तु द्वादश्यां विगतं यदि \।
 
@@ -12974,8 +10366,6 @@ MS.
 
 ३१.८५ \।\।
 
-
-
 कुर्याद्व्रतवरं चैव पञ्चाहमुभयोरपि \।
 
 एकादशीपूर्णिमान्ते तुलाद्वै वृश्चिकावधि \।\।
@@ -12983,8 +10373,6 @@ MS.
 पौ. सं.
 
 ३१.८६ \।\।
-
-
 
 मधुमांसपरित्यागं मदिरास्त्रीनिषेवणम् \।
 
@@ -12994,8 +10382,6 @@ MS.
 
 ३१.८७ \।\।
 
-
-
 वनदाहं च वसुधास्वातं कुद्दालकादिना \।
 
 तानं गोपशूनां च वधबन्धादिकं नृणाम् \।\।
@@ -13003,8 +10389,6 @@ MS.
 पौ. सं.
 
 ३१.८८ \।\।
-
-
 
 निशाटनम् अवर्णानां व्यवहारं तु तैः सह \।
 
@@ -13014,8 +10398,6 @@ MS.
 
 ३१.८९ \।\।
 
-
-
 उपसंहारदिवसाद् अपरे ऽहनि पद्मज \।
 
 भक्तानाम् आस्तिकानां च विहितं वत्सरं प्रति \।\।
@@ -13023,8 +10405,6 @@ MS.
 पौ. सं.
 
 ३१.९० \।\।
-
-
 
 कर्तव्यम् अभिषेकं च स्वस्तिशान्तिशुभाप्तये \।
 
@@ -13034,8 +10414,6 @@ MS.
 
 ३१.९१ \।\।
 
-
-
 जनन्या जनकेनाथ ऋत्विग्भिर्वा वयो ऽधिकैः \।
 
 गुरोरसन्निधानाच्च साधकः साधकैस्तु वा \।\।
@@ -13043,8 +10421,6 @@ MS.
 पौ. सं.
 
 ३१.९२ \।\।
-
-
 
 भद्रासने समारोप्य साम्बुजे स्वस्तिकाङ्किते \।
 
@@ -13054,8 +10430,6 @@ MS.
 
 ३१.९३ \।\।
 
-
-
 कुङ्कुमाद्यैर्विलिखिते कुसुमैर्वा सुपूरिते \।
 
 नेत्रवस्त्रैः परिच्छन्ने यथोक्तरजसा कृते \।\।
@@ -13063,8 +10437,6 @@ MS.
 पौ. सं.
 
 ३१.९४ \।\।
-
-
 
 घण्टाविधानपूर्णैस्तु प्राक्स्थितैर्वा नषैर्युते \।
 
@@ -13074,8 +10446,6 @@ MS.
 
 ३१.९५ \।\।
 
-
-
 दधिदर्पणसच्छत्रपुष्पैः सन्माङ्गलीयकैः \।
 
 सर्वबीजादिकैत्सर्वैः सुगन्धैः श्रीफलादिकैः \।\।
@@ -13083,8 +10453,6 @@ MS.
 पौ. सं.
 
 ३१.९६ \।\।
-
-
 
 मङ्गल्यगीतिभिर्वाद्यैर्ब्रह्मघोषसमान्वितैः \।
 
@@ -13094,8 +10462,6 @@ MS.
 
 ३१.९७ \।\।
 
-
-
 प्रभवाप्ययसद्ब्रह्मसदागममतस्थितैः \।
 
 अलाबुवीणाजलजैर्वंशघण्टारवैः सह \।\।
@@ -13103,8 +10469,6 @@ MS.
 पौ. सं.
 
 ३१.९८ \।\।
-
-
 
 ज्वालासुमनसः पूर्णकुम्भसद्वृक्षमञ्जरीः \।
 
@@ -13114,8 +10478,6 @@ MS.
 
 ३१.९९ \।\।
 
-
-
 दूर्वादीनपि चर्वद्भिर्गोवृषैर्बालवत्सकैः \।
 
 परितश्चावृते गोभिर्वन्दिवृन्दसमाकुले \।\।
@@ -13123,8 +10485,6 @@ MS.
 पौ. सं.
 
 ३१.१०० \।\।
-
-
 
 वृद्धये तु परां लक्ष्मी सर्वशक्तिसमन्विताम् \।
 
@@ -13134,8 +10494,6 @@ MS.
 
 ३१.१०१ \।\।
 
-
-
 भक्तानां विहितं स्नानविधिनानेन पौष्कर \।
 
 पूर्वोद्दिष्टेन विधिना अधिवास्य यथाक्रमम् \।\।
@@ -13143,8 +10501,6 @@ MS.
 पौ. सं.
 
 ३१.१०२ \।\।
-
-
 
 हेमाद्यं रत्नखचितं प्रागुक्तरचनान्वितम् \।
 
@@ -13154,8 +10510,6 @@ MS.
 
 ३१.१०३ \।\।
 
-
-
 सर्वेषां वरुणं तावद्धयेयं फणिरथस्थितम् \।
 
 वरदाभयहस्तं च प्रोग्दिरन्तं सुधारसम् \।\।
@@ -13163,8 +10517,6 @@ MS.
 पौ. सं.
 
 ३१.१०४ \।\।
-
-
 
 स्वाद्वाख्यं क्षीरसंज्ञं च (तु )एकभावत्वम् आगतम् \।
 
@@ -13174,8 +10526,6 @@ MS.
 
 ३१.१०५ \।\।
 
-
-
 वरपाणिं समुद्रं च ध्येयं सर्वत्र चाम्बुवत् \।
 
 नारायणाङ्घ्रिसंभूतां पूर्वे जनघटोद्वहाम् \।\।
@@ -13183,8 +10533,6 @@ MS.
 पौ. सं.
 
 ३१.१०६ \।\।
-
-
 
 आग्नेये कच्छपारूढां यमुनां देवपूजिताम् \।
 
@@ -13194,8 +10542,6 @@ MS.
 
 ३१.१०७ \।\।
 
-
-
 शनैः प्रवाहसंज्ञां च पाशबन्धविमोक्षणीम् \।
 
 नैरृते वृषभस्थां च पश्चिमे सिंहवक्त्रकाम् \।\।
@@ -13203,8 +10549,6 @@ MS.
 पौ. सं.
 
 ३१.१०८ \।\।
-
-
 
 ऐरावतीं तु वायव्ये कलशे तु गजस्थिताम् \।
 
@@ -13214,8 +10558,6 @@ MS.
 
 ३१.१०९ \।\।
 
-
-
 नर्मदां महिषारूढां समाङ्गां देवपूजिताम् \।
 
 वृ (दृ )षद्वतीं देविकां च परोष्णीं बडबाह्वयाम् \।\।
@@ -13223,8 +10565,6 @@ MS.
 पौ. सं.
 
 ३१.११० \।\।
-
-
 
 सिन्धुः ककुप्सु सर्वासु अष्टासु परितः क्रमात् \।
 
@@ -13234,8 +10574,6 @@ MS.
 
 ३१.१११ \।\।
 
-
-
 कुसुमैःस्तबकैर्युक्ता जलमुग्दीर्यमानसाः \।
 
 वासुदेवादिमूर्तिशैः शताष्टपरिमन्त्रितैः \।\।
@@ -13243,8 +10581,6 @@ MS.
 पौ. सं.
 
 ३१.११२ \।\।
-
-
 
 पूजितैरभिषेकं च दद्यात् सर्वफलाप्तये \।
 
@@ -13254,8 +10590,6 @@ MS.
 
 ३१.११३ \।\।
 
-
-
 नदीसमुद्रवरुणयथोक्ते पूर्वनिर्मिते \।
 
 उत्कृष्टमुक्तारत्नादये स्वस्तिकाद्यैर्विभूषिते \।\।
@@ -13263,8 +10597,6 @@ MS.
 पौ. सं.
 
 ३१.११४ \।\।
-
-
 
 द्वादशारासु मासेकेशवाद्यैरधिष्टिते \।
 
@@ -13274,8 +10606,6 @@ MS.
 
 ३१.११५ \।\।
 
-
-
 तदम्बुना तु वा कुर्यात् स्नानं चावभृथं शुभम् \।
 
 प्रत्यहं तज्जलं मूर्ध्नि धारणाद् अभिवादनात् \।\।
@@ -13284,8 +10614,6 @@ MS.
 
 ३१.११६ \।\।
 
-
-
 मुच्यते सर्वदोषेभ्यो मङ्गल्यं वृद्धिमेव च \।
 
 तीर्थेभ्यस्त्वासमुद्रेभ्यो गङ्गादिसरितो गणात् \।\।
@@ -13293,8 +10621,6 @@ MS.
 पौ. सं.
 
 ३१.११७ \।\।
-
-
 
 स्नानोत्थं फलमाप्नोति भावितात्माच्युताश्रयी \।
 
@@ -13312,8 +10638,6 @@ MS.
 
 ३१.११९ \।\।
 
-
-
 मूर्ध्नि संसिच्य शङ्खाख्यमुद्रया चोर्ध्ववक्त्रया \।
 
 अम्बुसिक्ते ऽम्बरे ऽपास्य परिधायापरे ततः \।\।
@@ -13321,8 +10645,6 @@ MS.
 पौ. सं.
 
 ३१.१२० \।\।
-
-
 
 प्राग्वदुष्णीषपूर्वैस्तु पुष्पैर्गन्धैस्तु भूषणैः \।
 
@@ -13332,8 +10654,6 @@ MS.
 
 ३१.१२१ \।\।
 
-
-
 यथोदितं पुरास्त्रेण कुर्यान्निर्भर्त्सनं ततः \।
 
 अभिनन्द्य कृतन्यासो मङ्गलार्ध्यपुरस्सरान् \।\।
@@ -13341,8 +10661,6 @@ MS.
 पौ. सं.
 
 ३१.१२२ \।\।
-
-
 
 नृपोपकरणान् सर्वान् छत्रचामरपश्चिमान् \।
 
@@ -13352,8 +10670,6 @@ MS.
 
 ३१.१२३ \।\।
 
-
-
 नमस्कृत्य जगन्नाथं परमेश्वरम् अच्युतम् \।
 
 अनलालयम् आसाद्य देशिकेन्द्रेण वै सह \।\।
@@ -13361,8 +10677,6 @@ MS.
 पौ. सं.
 
 ३१.१२४ \।\।
-
-
 
 पुष्पस्त्रग्गन्धधूपैश्च फलैर्बीजैस्तु वा (चा )ञ्जलिम् \।
 
@@ -13372,8 +10686,6 @@ MS.
 
 ३१.१२५ \।\।
 
-
-
 संस्मरन् हृदि मन्त्रेशम् उपविश्याग्निसंमुखम् \।
 
 ततो मन्त्राभिजप्तेन साम्बुना विष्टरेण तु \।\।
@@ -13381,8 +10693,6 @@ MS.
 पौ. सं.
 
 ३१.१२६ \।\।
-
-
 
 प्राग्वदामस्तकात् सर्वं स्पृशेद्धयानधिया शुचि \।
 
@@ -13392,13 +10702,9 @@ MS.
 
 ३१.१२७ \।\।
 
-
-
 गन्धपुष्पार्ध्ययुक्तं तद् दद्यान्मूर्ध्नि शिरोहृदि \।
 
 सौत्रं वा कुसुमं दार्भा (भं )
-
-
 
 स्वे ऽम्बरे मेखलासूत्रे उपवीते ऽथ कूर्परे \।
 
@@ -13408,11 +10714,7 @@ MS.
 
 ३१.१२८ \।\।
 
-
-
 (...)
-
-
 
 एवम् ऐक्यं समापाद्य सगुणेनानलेन वै \।
 
@@ -13422,8 +10724,6 @@ MS.
 
 ३१.१३० \।\।
 
-
-
 गुरुः समाचरेद्धोमं पूर्णान्तं पुनरेव हि \।
 
 मिश्रीभूतैः समिद्द्रव्यैः सप्तभिः शर्करान्वितैः \।\।
@@ -13431,8 +10731,6 @@ MS.
 पौ. सं.
 
 ३१.१३१ \।\।
-
-
 
 मध्यस्थं मन्त्रमूर्तेर्वै साष्टकं जुहुयात् शतम् \।
 
@@ -13442,8 +10740,6 @@ MS.
 
 ३१.१३२ \।\।
 
-
-
 सविष्टरम् अधोवक्त्रं स्त्रुचाम् उपरि विन्यसेत् \।
 
 स्त्रुचम् अभ्यर्च्य पुष्पाद्यैराज्यपूर्णां स्त्रुचं ततः \।\।
@@ -13451,8 +10747,6 @@ MS.
 पौ. सं.
 
 ३१.१३३ \।\।
-
-
 
 कुर्यात् पूजां सुगन्धाक्तैः पुष्पैः सार्ध्यैर्निरम्बुभिः \।
 
@@ -13462,8 +10756,6 @@ MS.
 
 ३१.१३४ \।\।
 
-
-
 पूजान्ते पातयेत् पूर्णां पुनरेव यथोदिताम् \।
 
 शतात् सहस्त्राद् अयुताल्लक्षाद् वामललोचन \।\।
@@ -13471,8 +10763,6 @@ MS.
 पौ. सं.
 
 ३१.१३५ \।\।
-
-
 
 ज्ञानात्मा पूर्वमूर्तीनां चतुर्थांश पृथक् पृथक् \।
 
@@ -13482,8 +10772,6 @@ MS.
 
 ३१.१३६ \।\।
 
-
-
 परमेश्वरकान्तासु तदर्धेन तु पौष्कर \।
 
 लाञ्छनाभरणादीनि सर्वाणि जुहुयात् क्रमात् \।\।
@@ -13491,8 +10779,6 @@ MS.
 पौ. सं.
 
 ३१.१३७ \।\।
-
-
 
 साधारासनमन्त्राणां षण्णां कालात्मरूपिणाम् \।
 
@@ -13502,8 +10788,6 @@ MS.
 
 ३१.१३८ \।\।
 
-
-
 सारस्त्राणां लोकपालानां द्वार्स्थानां कमलोद्भव \।
 
 गुरुपूर्वक्रमाद् हुत्वा अर्धम् अर्धं यथाक्रमम् \।\।
@@ -13511,8 +10795,6 @@ MS.
 पौ. सं.
 
 ३१.१३९ \।\।
-
-
 
 कार्या चैकाधिका संख्या विषमार्धस्य चाहुतेः \।
 
@@ -13522,8 +10804,6 @@ MS.
 
 ३१.१४० \।\।
 
-
-
 ब्रह्मयज्ञद्रुमोद्भूताः पूजज्ञानद्रुमोत्थिताः \।
 
 एवं क्षीरतरुभ्यो वै समिधस्त्रिमधुप्लुताः \।\।
@@ -13531,8 +10811,6 @@ MS.
 पौ. सं.
 
 ३१.१४१ \।\।
-
-
 
 जुहुयाद् विधिवन्मन्त्री नयन्मन्त्रगणं क्रमात् \।
 
@@ -13542,8 +10820,6 @@ MS.
 
 ३१.१४२ \।\।
 
-
-
 स्वबुद्धिसंख्याहोमेन स्वाङ्गं वै विश्वविघ्नजित् \।
 
 तर्पणीयश्च पूर्णान्तम् एवम् अन्ते ऽनलो द्विज \।\।
@@ -13551,8 +10827,6 @@ MS.
 पौ. सं.
 
 ३१.१४३ \।\।
-
-
 
 पूर्णान्तेन नयेत्रृप्तिं मन्त्रव्यूहे कृते हृदि \।
 
@@ -13562,8 +10836,6 @@ MS.
 
 ३१.१४४ \।\।
 
-
-
 तिलकं चोर्ध्वपुण्ड्रं वा कुर्याद् वै भूतिना शिशोः \।
 
 स्वस्थानेषु हृदा वर्म शिरोमन्त्रेण च क्रमात् \।\।
@@ -13571,8 +10843,6 @@ MS.
 पौ. सं.
 
 ३१.१४५ \।\।
-
-
 
 हृन्मन्त्रेण प्रयोक्तव्यं सर्वदा सर्वकर्मसु \।
 
@@ -13582,8 +10852,6 @@ MS.
 
 ३१.१४६ \।\।
 
-
-
 सर्वमन्त्राख्यभूतस्य विधिमेवं समाचरेत् \।
 
 कृते चास्त्रवणे वारिबिन्दवः स्त्रुङ्मुखात् च्युताः \।\।
@@ -13591,8 +10859,6 @@ MS.
 पौ. सं.
 
 ३१.१४७ \।\।
-
-
 
 दद्यात् करेण शिरसि प्रणीताभाजनात् ततः \।
 
@@ -13602,8 +10868,6 @@ MS.
 
 ३१.१४८ \।\।
 
-
-
 सकामस्य मुमुक्षोर्वै कुर्यात् सालंकृतस्य च \।
 
 काङ्क्षितं नानुजानाति सर्वज्ञो हृदये स्थितः \।\।
@@ -13611,8 +10875,6 @@ MS.
 पौ. सं.
 
 ३१.१४९ \।\।
-
-
 
 अप्रार्थितो ऽपि स्वर्गं तु भक्तानां यो ददाति च \।
 
@@ -13622,8 +10884,6 @@ MS.
 
 ३१.१५० \।\।
 
-
-
 एतावदर्थनीयं च परमेश्वरम् अच्युतम् \।
 
 जन्तुना कृतपूजेन नित्यमेव महामते \।\।
@@ -13631,8 +10891,6 @@ MS.
 पौ. सं.
 
 ३१.१५१ \।\।
-
-
 
 मम यच्छ परां भक्तिं यया त्वं मे प्रसीदसि \।
 
@@ -13642,8 +10900,6 @@ MS.
 
 ३१.१५२ \।\।
 
-
-
 इत्युक्तस्त्वरविन्दाक्ष आभिषेचनिको विधिः \।
 
 समाप्य भगवत् शास्त्रश्रवणे ऽधिकृतो भवेत् \।\।
@@ -13651,8 +10907,6 @@ MS.
 पौ. सं.
 
 ३१.१५३ \।\।
-
-
 
 अधिकारपदं दिव्यम् आसादयति वैष्णवम् \।
 
@@ -13662,8 +10916,6 @@ MS.
 
 ३१.१५४ \।\।
 
-
-
 कृते कलशदाने ऽथ सक्तुना पललादिना \।
 
 मण्डलाद्बाह्यतो दद्यात् प्रादक्षिण्येन पौष्कर \।\।
@@ -13671,8 +10923,6 @@ MS.
 पौ. सं.
 
 ३१.१५५ \।\।
-
-
 
 सर्वदिग्भगवन्भूत बलिं दत्र्वा सहाम्बुना \।
 
@@ -13682,8 +10932,6 @@ MS.
 
 ३१.१५६ \।\।
 
-
-
 कार्या पितृक्रिया प्राग्वदोदनेनानलाग्रतः \।
 
 बहिर्मण्डलवत् कुण्डाद् बलिदाने कृते सति \।\।
@@ -13691,8 +10939,6 @@ MS.
 पौ. सं.
 
 ३१.१५७ \।\।
-
-
 
 आचम्य पूजयित्वाजं कुम्भात्कुण्डाच्च मण्डलात् \।
 
@@ -13702,8 +10948,6 @@ MS.
 
 ३१.१५८ \।\।
 
-
-
 साङ्गं सपरिवारं च धूपयित्वा यथाक्रमम् \।
 
 तत् क्षान्तिप्रार्थनां कृत्वा निरम्बुकुसुमादिकैः \।\।
@@ -13711,8 +10955,6 @@ MS.
 पौ. सं.
 
 ३१.१५९ \।\।
-
-
 
 वह्निपूजां समापाद्य नमस्कृत्य यथाविधि \।
 
@@ -13722,8 +10964,6 @@ MS.
 
 ३१.१६० \।\।
 
-
-
 विसृज्य स्त्रुक्स्त्रुवे कुर्यात् परिषेचनम् अम्बुना \।
 
 यज्ञभूमेः स्वशिरसि प्रणीतोत्थम् अथोदकम् \।\।
@@ -13731,8 +10971,6 @@ MS.
 पौ. सं.
 
 ३१.१६१ \।\।
-
-
 
 अथ द्वाभ्यां च संहृत्य हृदि तत्स्थितम् अच्युतम् \।
 
@@ -13742,8 +10980,6 @@ MS.
 
 ३१.१६२ \।\।
 
-
-
 संप्राप्य यरूवसुधामानलीमपि पद्मज \।
 
 सर्वम् अम्भसि निक्षिप्य समाहृत्यार्ध्यपूर्वकम् \।\।
@@ -13751,8 +10987,6 @@ MS.
 पौ. सं.
 
 ३१.१६३ \।\।
-
-
 
 अनुग्रहार्थं शिष्यस्य अनुयागं समाचरेत् \।
 
@@ -13762,8 +10996,6 @@ MS.
 
 ३१.१६४ \।\।
 
-
-
 दत्त्वा शिष्यं ततो यायाद् आत्मयागे कृते सति \।
 
 यथावद् अद्यप्रभृति मन्त्राराधनम् आचरेत् \।\।
@@ -13771,8 +11003,6 @@ MS.
 पौ. सं.
 
 ३१.१६५ \।\।
-
-
 
 मोहालस्यादिकैर्देषैर्बुद्धिपूर्वेण चेतसा \।
 
@@ -13782,8 +11012,6 @@ MS.
 
 ३१.१६६ \।\।
 
-
-
 जपे तथाग्निभवने स्नाने दाने यथोदिते \।
 
 स्तुतिपाठे यथा शास्त्रचिन्तने श्रवणे ऽपि च \।\।
@@ -13791,8 +11019,6 @@ MS.
 पौ. सं.
 
 ३१.१६७ \।\।
-
-
 
 व्याख्याने भव्यबुद्धीनां नारायणरतात्मनाम् \।
 
@@ -13802,8 +11028,6 @@ MS.
 
 ३१.१६८ \।\।
 
-
-
 प्राणयात्रां ततः कुर्यात् नैवेद्यप्राशनादिकाम् \।
 
 कृतोपवासा ये ऽश्रन्ति प्रापणं पारमेश्वरम् \।\।
@@ -13811,8 +11035,6 @@ MS.
 पौ. सं.
 
 ३१.१६९ \।\।
-
-
 
 संप्रदानावशिष्टं च पूतदेहा नरास्तु ते \।
 
@@ -13822,8 +11044,6 @@ MS.
 
 ३१.१७० \।\।
 
-
-
 अन्वात्मतत्र्वं विज्ञेयं विहितं तस्य सर्वदा \।
 
 आत्मनैवात्मसिद्ध्यर्थं यागमन्नेन तेन च \।\।
@@ -13831,8 +11051,6 @@ MS.
 पौ. सं.
 
 ३१.१७१ \।\।
-
-
 
 सहयज्ञावशिष्टेन साम्बुना च फलादिना \।
 
@@ -13842,8 +11060,6 @@ MS.
 
 ३१.१७२ \।\।
 
-
-
 कुर्वन्ति भोजनात् पूर्वं प्रत्यहं प्राशनं तु ये \।
 
 तच्छक्रिग्रहणं प्राणे प्रयोजनवशात् तु वा \।\।
@@ -13851,8 +11067,6 @@ MS.
 पौ. सं.
 
 ३१.१७३ \।\।
-
-
 
 भावभक्तिसमायुक्ताः सन्मार्गस्था दृढव्रताः \।
 
@@ -13862,8 +11076,6 @@ MS.
 
 ३१.१७४ \।\।
 
-
-
 येषां व्रतमिदं दिव्यं नराणां पुण्यकर्मणाम् \।
 
 ते सर्वव्रतिनां मूर्ध्नि तिष्ठन्ति मखयाजिनाम् \।\।
@@ -13871,8 +11083,6 @@ MS.
 पौ. सं.
 
 ३१.१७५ \।\।
-
-
 
 मन्त्रब्रह्मात्मनोविष्णोः सम्यग्विधिनिवेदितम् \।
 
@@ -13882,8 +11092,6 @@ MS.
 
 ३१.१७६ \।\।
 
-
-
 इदं तदमृतं ब्रह्म इदम् आयुरनश्वरम् \।
 
 इदं ज्ञानमिदं वीर्यमिदं तेजस्तु वैष्णवम् \।\।
@@ -13891,8 +11099,6 @@ MS.
 पौ. सं.
 
 ३१.१७७ \।\।
-
-
 
 इदमिन्दुरखण्डं च स्थितम् अन्नात्मना स्वयम् \।
 
@@ -13902,8 +11108,6 @@ MS.
 
 ३१.१७८ \।\।
 
-
-
 हार्दानलात्मना भुङ्क्ते अध्यक्षः परमेश्वरः \।
 
 तच्छक्त्यानुगृहीतत्वात् सो ऽहं प्रकृतिगः पुमान् \।\।
@@ -13911,8 +11115,6 @@ MS.
 पौ. सं.
 
 ३१.१७९ \।\।
-
-
 
 एवमन्नदमन्नादं ज्ञेयम् अन्नं पुरः स्थितम् \।
 
@@ -13922,8 +11124,6 @@ MS.
 
 ३१.१८० \।\।
 
-
-
 यथा तथाम्बुनाभ्येति देहस्थो हुतभुक् प्रभुः \।
 
 कारणं रसम् अन्नस्य षड्गुणं षड्विधस्य च \।\।
@@ -13931,8 +11131,6 @@ MS.
 पौ. सं.
 
 ३१.१८१ \।\।
-
-
 
 आत्मब्रह्मा ततः तस्माद् ईषत् कारणेन तु \।
 
@@ -13942,8 +11140,6 @@ MS.
 
 ३१.१८२ \।\।
 
-
-
 प्रान्तपर्वैश्चतुर्धा प्राक् चातुरात्म्यव्यपेक्षया \।
 
 तुर्यापेक्षावशेनैव जुहुयाद् वाहुतित्रयम् \।\।
@@ -13951,8 +11147,6 @@ MS.
 पौ. सं.
 
 ३१.१८३ \।\।
-
-
 
 सहृदा मूलमन्त्रेण भुञ्जीयात् कवलैस्ततः \।
 
@@ -13962,8 +11156,6 @@ MS.
 
 ३१.१८४ \।\।
 
-
-
 तोयं तद्ध्यानपादाब्जपरिस्त्रुतमथापि वा \।
 
 प्रतिष्टितस्य वा पूर्वं तदाकृतिधरस्य च \।\।
@@ -13971,8 +11163,6 @@ MS.
 पौ. सं.
 
 ३१.१८५ \।\।
-
-
 
 यतः तत्सर्वम् आपन्नं सर्वदोषक्षयङ्करम् \।
 
@@ -13982,8 +11172,6 @@ MS.
 
 ३१.१८६ \।\।
 
-
-
 पावनं सर्वतीर्थेभ्यो मन्त्रेभ्यः पद्मसंभव \।
 
 अतस्तु भोजनान्ते वै हार्दाग्नेस्तर्पणं परा \।\।
@@ -13991,8 +11179,6 @@ MS.
 पौ. सं.
 
 ३१.१८७ \।\।
-
-
 
 भावभक्तिपरो नित्यं कं पिबेद् आज्यदोहवत् \।
 
@@ -14002,8 +11188,6 @@ MS.
 
 ३१.१८८ \।\।
 
-
-
 दत्रशिष्टस्य चान्नस्य प्रापणाख्यस्य वै तदा \।
 
 माहात्म्यम् एवम् अतुलं परिज्ञेयं यथोदितम् \।\।
@@ -14011,8 +11195,6 @@ MS.
 पौ. सं.
 
 ३१.१८९ \।\।
-
-
 
 यागावसाने योग्यानां भक्तानां परमेश्वरे \।
 
@@ -14022,8 +11204,6 @@ MS.
 
 ३१.१९० \।\।
 
-
-
 यो वेत्त्येवं महत्तां च नैवेद्यस्याच्युतस्य च \।
 
 विधिपूर्वं समश्राति सयात्यच्युतसाम्यताम् \।\।
@@ -14031,8 +11211,6 @@ MS.
 पौ. सं.
 
 ३१.१९१ \।\।
-
-
 
 व्रतज्ञेन जगद्योनेर्भक्तेन च विशेषतः \।
 
@@ -14042,8 +11220,6 @@ MS.
 
 ३१.१९२ \।\।
 
-
-
 अन्नदानादिना सम्यग्विधिनानेन शक्तितः \।
 
 परां प्रीतिं समभ्येति तस्य वै परमेश्वरः \।\।
@@ -14051,8 +11227,6 @@ MS.
 पौ. सं.
 
 ३१.१९३ \।\।
-
-
 
 मूर्तमन्नं परं ब्रह्म पूजितं प्रददाति यः \।
 
@@ -14062,8 +11236,6 @@ MS.
 
 ३१.१९४ \।\।
 
-
-
 व्रतपर्यन्तकाले तु स्थानेष्वायतनादिषु \।
 
 पुण्येषु सन्मुद्दूर्तेषु तिथिलग्नाश्रितेषु च \।\।
@@ -14071,8 +11243,6 @@ MS.
 पौ. सं.
 
 ३१.१९५ \।\।
-
-
 
 कृत्वाक्षयं भगवतो दत्रम् अक्षय्यम् एति च \।
 
@@ -14082,8 +11252,6 @@ MS.
 
 ३१.१९६ \।\।
 
-
-
 अपात्राणाम् अभक्तानां नास्तिकानां दुरात्मनाम् \।
 
 वर्जनीयं प्रयत्नेन स्वानुष्ठानपरेण तु \।\।
@@ -14091,8 +11259,6 @@ MS.
 पौ. सं.
 
 ३१.१९७ \।\।
-
-
 
 स्त्रीशूद्राणां पशूनां च भृक्तानां विशेषतः \।
 
@@ -14102,8 +11268,6 @@ MS.
 
 ३१.१९८ \।\।
 
-
-
 मन्त्रपूतं हि नैवेद्यं निषिद्धानां ददाति यः \।
 
 सिद्धो ऽपि याति पातिव्यमारुरुक्षुस्तु किं पुनः \।\।
@@ -14112,19 +11276,7 @@ MS.
 
 ३१.१९९ \।\।
 
-
-
-
-
-
-
 पौष्कर उवाच ---
-
-
-
-
-
-
 
 ज्ञातुमिच्छामि देवेश तत्तत् संक्षेपतो यथा \।
 
@@ -14134,19 +11286,7 @@ MS.
 
 ३१.२०० \।\।
 
-
-
-
-
-
-
 श्रीभगवानुवाच ---
-
-
-
-
-
-
 
 धनेन धर्मलब्धेन भूरिणाल्पेन वा पुनः \।
 
@@ -14156,8 +11296,6 @@ MS.
 
 ३१.२०१ \।\।
 
-
-
 भगवत्प्रीतये त्विष्टं सदस्यैः तन्मयैः सह \।
 
 क्रतुवत् स्वल्फलदा स्वर्गदा यद्यपि स्मृताः \।\।
@@ -14165,8 +11303,6 @@ MS.
 पौ. सं.
 
 ३१.२०२ \।\।
-
-
 
 सकामानां हि तत्रापि तेन तत्फलदास्तु वै \।
 
@@ -14176,8 +11312,6 @@ MS.
 
 ३१.२०३ \।\।
 
-
-
 कृच्छ्रचान्द्रायणादीनि तपांसि विविधानि च \।
 
 कृतानि भगवत्प्रीत्यै यथाभिमतदानि च \।\।
@@ -14185,8 +11319,6 @@ MS.
 पौ. सं.
 
 ३१.२०४ \।\।
-
-
 
 यावज्जीवाधिकारं तु यदेभ्यो ऽभिमतं हि यत् \।
 
@@ -14196,8 +11328,6 @@ MS.
 
 ३१.२०५ \।\।
 
-
-
 तत्फलत्याचिरेणैव दिव्यज्ञानात्मना तु वै \।
 
 पुण्यम् आसाद्य वै क्षेत्रं तत्र चागतमव्ययम् \।\।
@@ -14205,8 +11335,6 @@ MS.
 पौ. सं.
 
 ३१.२०६ \।\।
-
-
 
 स्थले वा पत्रपुष्पाद्यैर्योर्ऽचयत्यनिशं व्रती \।
 
@@ -14216,8 +11344,6 @@ MS.
 
 ३१.२०७ \।\।
 
-
-
 प्रसादाद् देवदेवस्य स्थितिः स्यात् सार्वलौकिकी \।
 
 पूजां विष्णुवद् आप्नोति यावद् जीवावधिं तु सः \।\।
@@ -14225,8 +11351,6 @@ MS.
 पौ. सं.
 
 ३१.२०८ \।\।
-
-
 
 देहावसानसमये श्वेतद्वीपं प्रयाति च \।
 
@@ -14236,8 +11360,6 @@ MS.
 
 ३१.२०९ \।\।
 
-
-
 तैर्विमानैश्च मार्गेण ह्यचिराद्यान् महामते \।
 
 सुप्रसिद्धैः सुगन्धैस्तु हृद्यैः पुष्फलैः शुभैः \।\।
@@ -14245,8 +11367,6 @@ MS.
 पौ. सं.
 
 ३१.२१० \।\।
-
-
 
 "
 
@@ -14304,8 +11424,6 @@ MS.
 
 परमतः सुधियः प्रमाणम् \।
 
-
-
 योऽर्चयत्यच्युतं भक्त्या वने वा पर्वतान्तरे \।
 
 बहवो ऽभिमतान् कामान् प्राप्नोत्यप्रार्थितांस्तु वै \।\।
@@ -14313,8 +11431,6 @@ MS.
 पौ. सं.
 
 ३१.२११ \।\।
-
-
 
 देहान्ते वासवादीनां संपूज्यो भगवानिव \।
 
@@ -14324,8 +11440,6 @@ MS.
 
 ३१.२१२ \।\।
 
-
-
 कुर्यात् कर्म धिया भक्त्या स्नानं क्षीरादिना महत् \।
 
 श्रीखण्डागुरुकर्पूरबाह्लिकेनानुलेपनम् \।\।
@@ -14333,8 +11447,6 @@ MS.
 पौ. सं.
 
 ३१.२१३ \।\।
-
-
 
 सितपीतारुणैर्दिव्यैर्दुत्तुलैर्वेष्ठनं तु वै \।
 
@@ -14344,8 +11456,6 @@ MS.
 
 ३१.२१४ \।\।
 
-
-
 विभवे सत्यलंकारैः सौवर्णै रत्नर्ञ्जितैः \।
 
 मण्डयेत् च ततः पुष्पैः स्नग्वरैश्चरणावधि \।\।
@@ -14353,8 +11463,6 @@ MS.
 पौ. सं.
 
 ३१.२१५ \।\।
-
-
 
 धूपयेद् आज्यसिक्तेन गुग्गुलेन शुभेन च \।
 
@@ -14364,8 +11472,6 @@ MS.
 
 ३१.२१६ \।\।
 
-
-
 अभुक्ताहतसुश्वेतराञ्जितैर्व्यतिवेष्टनैः \।
 
 गर्भीकृतत्वगेलाद्यैः पूजयेत् तदनन्तरम् \।\।
@@ -14373,8 +11479,6 @@ MS.
 पौ. सं.
 
 ३१.२१७ \।\।
-
-
 
 ततो मध्वाज्ययुक्तेन दध्नाभ्यर्चितम् ईश्वरम् \।
 
@@ -14384,8 +11488,6 @@ MS.
 
 ३१.२१८ \।\।
 
-
-
 पानकैः पावनैः स्वच्छैः शीतलैर्मधुरादिकैः \।
 
 त्वगेलाद्यन्विप्तैर्धृष्टैर्धूपकर्पूरवासितैः \।\।
@@ -14393,8 +11495,6 @@ MS.
 पौ. सं.
 
 ३१.२१९ \।\।
-
-
 
 नालिकेरोदकोपेतैस्तर्पणीयमनन्तरम् \।
 
@@ -14404,8 +11504,6 @@ MS.
 
 ३१.२२० \।\।
 
-
-
 अभुक्तमहतं शुक्लमथ निष्पुसनाम्बरम् \।
 
 अथ चूर्णितकर्पूरघृष्टश्रीखण्डभावितम् \।\।
@@ -14413,8 +11511,6 @@ MS.
 पौ. सं.
 
 ३१.२२१ \।\।
-
-
 
 सपूगफलमुत्कृष्टं ताम्बूलं विनिवेद्य च \।
 
@@ -14424,8 +11520,6 @@ MS.
 
 ३१.२२२ \।\।
 
-
-
 रोचना श्रीफलं पुष्पं दूर्वा धात्रीफलं दधि \।
 
 दुकूलमहतं श्वेतं दक्षिणावर्तम् अम्बुजम् \।\।
@@ -14433,8 +11527,6 @@ MS.
 पौ. सं.
 
 ३१.२२३ \।\।
-
-
 
 तमालादिदलच्छन्ने धातूत्थे वैदले ऽपि वा \।
 
@@ -14444,8 +11536,6 @@ MS.
 
 ३१.२२४ \।\।
 
-
-
 हेममानं हिरण्यं च स्वशक्त्या वातिनिर्मलम् \।
 
 जानुनी भूगते कृत्वा शिरसावनतेन तु \।\।
@@ -14453,8 +11543,6 @@ MS.
 पौ. सं.
 
 ३१.२२५ \।\।
-
-
 
 आदायोत्तानपाणिभ्यां विनिवेद्य जगत्प्रभोः \।
 
@@ -14464,8 +11552,6 @@ MS.
 
 ३१.२२६ \।\।
 
-
-
 येनाप्तिः सर्वकामानां भाविनां सत्फलार्थिनाम् \।
 
 परमात्मनि संयोज्यम् अकामानां हि येन वै \।\।
@@ -14473,8 +11559,6 @@ MS.
 पौ. सं.
 
 ३१.२२७ \।\।
-
-
 
 चामख्यजनादीनि भोगान्यन्यानि यानि च \।
 
@@ -14484,8 +11568,6 @@ MS.
 
 ३१.२२८ \।\।
 
-
-
 भेदीमृदङ्गसत्सङ्गपर्यन्तानि महान्ति च \।
 
 तत् प्रेक्ष्य स्वधिया सम्यम् चित्तानन्दप्रदानि च \।\।
@@ -14493,8 +11575,6 @@ MS.
 पौ. सं.
 
 ३१.२२९ \।\।
-
-
 
 संभवे सति सर्वाणि मनसा तदसंभवे \।
 
@@ -14504,8 +11584,6 @@ MS.
 
 ३१.२३० \।\।
 
-
-
 स्वर्गादिसत्यनिष्ठानां भुक्त्वा भोगान् यथेच्छया \।
 
 ततः कालान्तरेणैव देवीयेच्छावशेन तु \।\।
@@ -14513,8 +11591,6 @@ MS.
 पौ. सं.
 
 ३१.२३१ \।\।
-
-
 
 तद्भूतदर्शितेनैव मार्गेव महता मुने \।
 
@@ -14524,8 +11600,6 @@ MS.
 
 ३१.२३२ \।\।
 
-
-
 ज्ञानम् आसाद्य तत्रैव ह्यवतीर्याथ भूतले \।
 
 लयं च सहसा याति भगवत्यमितात्मनि \।\।
@@ -14533,8 +11607,6 @@ MS.
 पौ. सं.
 
 ३१.२३३ \।\।
-
-
 
 श्रेत्रायतनसत्तीर्थवशेनाच्युतम् अर्चनम् \।
 
@@ -14544,8 +11616,6 @@ MS.
 
 ३१.२३४ \।\।
 
-
-
 इदानीं का (ल )म माश्रित्य हरेराराधनं शृणु \।
 
 भक्तानां भवनाशार्थं विष्ण्वेकनिरतात्मनाम् \।\।
@@ -14553,8 +11623,6 @@ MS.
 पौ. सं.
 
 ३१.२३५ \।\।
-
-
 
 प्रभूतैः पावनैर्भोगैर्न्यायोपायसमार्जितैः \।
 
@@ -14564,8 +11632,6 @@ MS.
 
 ३१.२३६ \।\।
 
-
-
 नैमित्तिकेषु कालेषु नित्यमेव निराकुलैः \।
 
 दिव्यान्तरिक्षभौमाख्यशुभलग्नक्षणेष्वपि \।\।
@@ -14573,8 +11639,6 @@ MS.
 पौ. सं.
 
 ३१.२३७ \।\।
-
-
 
 द्वादशीषु विशेषेण पक्षयोरुभयोरपि \।
 
@@ -14584,8 +11648,6 @@ MS.
 
 ३१.२३८ \।\।
 
-
-
 सत्क्रियेषु अविरुद्धेषु देवतान्तरपूजनात् \।
 
 पयोमूलफलाद्यैर्वा परिविद्धाद्यवासरे \।\।
@@ -14593,8 +11655,6 @@ MS.
 पौ. सं.
 
 ३१.२३९ \।\।
-
-
 
 कोष्ठसंक्षालनार्थं तु पञ्चगव्यं ततः पिबेत् \।
 
@@ -14604,8 +11664,6 @@ MS.
 
 ३१.२४० \।\।
 
-
-
 सुवर्णदर्भसद्रत्नक्षालितेनाम्भसा सह \।
 
 एवं कृतोपवासश्च प्राग्वदाराध्य केशवम् \।\।
@@ -14613,8 +11671,6 @@ MS.
 पौ. सं.
 
 ३१.२४१ \।\।
-
-
 
 हिरण्यान्नाम्बुगोभूमिदानैः कृष्णाजिनादिकैः \।
 
@@ -14624,8 +11680,6 @@ MS.
 
 ३१.२४२ \।\।
 
-
-
 तदाज्ञां शिरसादाय यो यच्छेत् तन्मयस्य च \।
 
 भक्त्या फलार्थिनो नूनं लभेत्तु भगवत्पदम् \।\।
@@ -14633,8 +11687,6 @@ MS.
 पौ. सं.
 
 ३१.२४३ \।\।
-
-
 
 फलार्थिनो ऽस्य च पुनः कल्पकोटिशतान् बजून् \।
 
@@ -14644,8 +11696,6 @@ MS.
 
 ३१.२४४ \।\।
 
-
-
 आयुरारोग्यसद्भृत्यपुत्रपदारान्वितस्य च \।
 
 लाग्नं (यागं )मौहूर्तिकं कर्म तैय्यं यदपि विस्मृतम् \।\।
@@ -14653,8 +11703,6 @@ MS.
 पौ. सं.
 
 ३१.२४५ \।\।
-
-
 
 सशेषं प्राक् समापाद्य सावधानेन चेतसा \।
 
@@ -14664,8 +11712,6 @@ MS.
 
 ३१.२४६ \।\।
 
-
-
 पूर्णान्तम् अर्ध्यपुष्पाद्यैर्दत्तैर्हेमगवादिकैः \।
 
 द्विवासरमहर्वात्र त्रिदिनं षडहं हि यत् \।\।
@@ -14673,8 +11719,6 @@ MS.
 पौ. सं.
 
 ३१.२४७ \।\।
-
-
 
 द्वादशाहं द्विपक्षं यत् (च )क्षपयित्वा यथाविधि \।
 
@@ -14684,8 +11728,6 @@ MS.
 
 ३१.२४८ \।\।
 
-
-
 जपहोमार्चचध्यान प्रणामैः सप्रदक्षिणैः \।
 
 कथानकैस्तवैः पुण्यैः क्षपणीयमतन्द्रितैः \।\।
@@ -14693,8 +11735,6 @@ MS.
 पौ. सं.
 
 ३१.२४९ \।\।
-
-
 
 ततः प्रभातसमये रात्रौ वा पुण्यवासरे \।
 
@@ -14704,8 +11744,6 @@ MS.
 
 ३१.२५० \।\।
 
-
-
 सूर्योदयं विना रात्रौ विरुद्धमनिशं ( शनं )द्विज \।
 
 सिद्धान्नं कल्पयित्वा तु द्विजानाम् उदकान्वितम् \।\।
@@ -14713,8 +11751,6 @@ MS.
 पौ. सं.
 
 ३१.२५१ \।\।
-
-
 
 दद्याच्च भगवत्यग्रे सुसिद्धं हविषा युतम् \।
 
@@ -14724,8 +11760,6 @@ MS.
 
 ३१.२५२ \।\।
 
-
-
 कृत्वा चाघ्राय नैवेद्यं स्पृशेत् पुनरेव हि \।
 
 भोजनात् प्राक् समश्रीयाद् अशुभध्वंसनाय वै \।\।
@@ -14733,8 +11767,6 @@ MS.
 पौ. सं.
 
 ३१.२५३ \।\।
-
-
 
 वन्दनीयं सदानन्दसुखसौभाग्यसिद्धये \।
 
@@ -14744,8 +11776,6 @@ MS.
 
 ३१.२५४ \।\।
 
-
-
 व्रताद्यदिवसं कार्यमेवं व्रतदिनस्य च \।
 
 वर्जनीयं प्रयत्नेन प्रजासद्गतिकाङ्क्षिणा \।\।
@@ -14753,8 +11783,6 @@ MS.
 पौ. सं.
 
 ३१.२५५ \।\।
-
-
 
 परपीडदिनं शुद्धमुपादेयं हि सर्वदा \।
 
@@ -14764,8 +11792,6 @@ MS.
 
 ३१.२५६ \।\।
 
-
-
 ईषदाद्यदिनोपेतम् उपवासदिनं यदि \।
 
 लोके लब्धप्रतिष्ठं च तथात्वेन तु सर्वदा \।\।
@@ -14773,8 +11799,6 @@ MS.
 पौ. सं.
 
 ३१.२५७ \।\।
-
-
 
 उपवासपराणां तु न तद् दोषप्रदं भवेत् \।
 
@@ -14784,8 +11808,6 @@ MS.
 
 ३१.२५८ \।\।
 
-
-
 फलार्थिनां तद्भविनां कर्मतन्त्ररतात्मनाम् \।
 
 प्रतिषिद्धं च सिद्धत्वाद् उपवासे ऽशने ऽपि च \।\।
@@ -14793,8 +11815,6 @@ MS.
 पौ. सं.
 
 ३१.२५९ \।\।
-
-
 
 ततो ऽङ्भावं भक्तानां नतार्थं तत्प्रयान्ति च \।
 
@@ -14804,8 +11824,6 @@ MS.
 
 ३१.२६० \।\।
 
-
-
 उपवासेप्यशक्तानां कर्मब्रह्मरतात्मनाम् \।
 
 परपीडसमंविद्धि सदानं सर्वमाचरेत् \।\।
@@ -14813,8 +11831,6 @@ MS.
 पौ. सं.
 
 ३१.२६१ \।\।
-
-
 
 सोपवासवदव्यस्मिन् दिवसे भगवन्मयः \।
 
@@ -14824,8 +11840,6 @@ MS.
 
 ३१.२६२ \।\।
 
-
-
 सन्तोष्पाभ्यर्थ्यं वै क्षान्तिं वृत्त्यर्थं हि जगद्गुरोः \।
 
 दिवसार्धसमानेन तदूनेनाधिकेन वा \।\।
@@ -14833,8 +11847,6 @@ MS.
 पौ. सं.
 
 ३१.२६३ \।\।
-
-
 
 युक्तामाद्यदिनेनैवं पुरोवर्तिच वासरम् \।
 
@@ -14844,8 +11856,6 @@ MS.
 
 ३१.२६४ \।\।
 
-
-
 फलं सातिशयं तस्य उपवासात् तु जायते \।
 
 सर्वदानावसानान्तम् आपाद्य व्रतवासरे \।\।
@@ -14853,8 +11863,6 @@ MS.
 पौ. सं.
 
 ३१.२६५ \।\।
-
-
 
 तस्मिन्नेवात्मयागं तु विधेयमुपवासिना \।
 
@@ -14864,8 +11872,6 @@ MS.
 
 ३१.२६६ \।\।
 
-
-
 शिष्टं दिने ऽपरस्मिन् वै कृतं तदभवं भवेत् \।
 
 विरोधमन्यथा सि (वि )द्धि कृतकृत्यस्य देहिनः \।\।
@@ -14873,8 +11879,6 @@ MS.
 पौ. सं.
 
 ३१.२६७ \।\।
-
-
 
 अक्षीणस्य परित्यागात् प्रभावादग्रहस्य च \।
 
@@ -14884,8 +11888,6 @@ MS.
 
 ३१.२६८ \।\।
 
-
-
 ज्ञात्वा तिथीशनाथात्मा वासुदेवो ऽच्युतः प्रभुः \।
 
 पूजनीयो हि पर्वादौ सोपवासैः क्रमेण तु \।\।
@@ -14893,8 +11895,6 @@ MS.
 पौ. सं.
 
 ३१.२६९ \।\।
-
-
 
 पक्षयोरुभयोश्चैव सितपक्षे तु वेच्छया \।
 
@@ -14904,8 +11904,6 @@ MS.
 
 ३१.२७० \।\।
 
-
-
 विधिवत्पूजनीयश्च भक्तियुक्तेन चेतसा \।
 
 एवमब्ज द्विपक्षेण एकपक्षार्चने न वा \।\।
@@ -14914,8 +11912,6 @@ MS.
 
 ३१.२७१ \।\।
 
-
-
 क्षपयित्वा यथान्यायं दानैर्हैमैः स्वशक्तितः \।
 
 विधात्रात्मा द्वितीयायां तृतीयायां स्वयं हरिः \।\।
@@ -14923,8 +11919,6 @@ MS.
 पौ. सं.
 
 ३१.२७२ \।\।
-
-
 
 ततः संयमनात्माहं (नं )
 
@@ -14936,8 +11930,6 @@ MS.
 
 ३१.२७३ \।\।
 
-
-
 सप्तम्यां ज्ञानमूर्तिं वै विश्वात्मा तदनन्तरम् \।
 
 नवम्याम् अथ सिद्धात्मा धर्मात्मा भगवांसततः \।\।
@@ -14945,8 +11937,6 @@ MS.
 पौ. सं.
 
 ३१.२७४ \।\।
-
-
 
 ईशानात्माथ देवेशः सूर्यात्मा दिक्प्रकाशकृत् \।
 
@@ -14956,8 +11946,6 @@ MS.
 
 ३१.२७५ \।\।
 
-
-
 भगवान् पितृसंज्ञात्मा भेदास्त्वेते जगत्प्रभोः \।
 
 काम्यकर्माधिकारेण नित्यं चाभिमताप्तये \।\।
@@ -14965,8 +11953,6 @@ MS.
 पौ. सं.
 
 ३१.२७६ \।\।
-
-
 
 पूजनीयोर्ऽध्यपुष्पाद्यैरुपहारैः क्रियान्वितैः \।
 
@@ -14976,8 +11962,6 @@ MS.
 
 ३१.२७७ \।\।
 
-
-
 एवं हि वाग्विभूत्यर्थी देवं धातारमव्ययम् \।
 
 मोक्षविघ्नविनाशार्थं हरिं तत्सिद्धये ऽपि च \।\।
@@ -14985,8 +11969,6 @@ MS.
 पौ. सं.
 
 ३१.२७८ \।\।
-
-
 
 अधर्मशान्तये चैव यमं संयमतां ततः \।
 
@@ -14996,8 +11978,6 @@ MS.
 
 ३१.२७९ \।\।
 
-
-
 यजेच्छक्रिप्रभावार्थं षष्ठ्यां शक्तीशम् अच्युतम् \।
 
 स्वसंविदाप्तये सम्यक् तद्दिनेशमथार्चयेत् \।\।
@@ -15005,8 +11985,6 @@ MS.
 पौ. सं.
 
 ३१.२८० \।\।
-
-
 
 प्रभूतये तु विश्वात्मा त्रिविधास्वथ सिद्धिषु \।
 
@@ -15016,8 +11994,6 @@ MS.
 
 ३१.२८१ \।\।
 
-
-
 दशम्यामर्चनीयं च तद्दिनेशं महामते \।
 
 एकादेशे ऽह्नि विद्यार्थी विद्यानाथमहेश्वरम् \।\।
@@ -15025,8 +12001,6 @@ MS.
 पौ. सं.
 
 ३१.२८२ \।\।
-
-
 
 महत्तेजः प्रभावार्थं तदीशं द्वादशे ऽहनि \।
 
@@ -15036,8 +12010,6 @@ MS.
 
 ३१.२८३ \।\।
 
-
-
 कालात्मा कालमृत्यूनां विजये ऽथ यजेत्सदा \।
 
 शान्तये त्रिविधस्याथ ऋणस्य परमेश्वरम् \।\।
@@ -15045,8 +12017,6 @@ MS.
 पौ. सं.
 
 ३१.२८४ \।\।
-
-
 
 एवं पञ्चदशाहेशो माननीयः स सर्वदा \।
 
@@ -15064,8 +12034,6 @@ MS.
 
 ३१.२८६ \।\।
 
-
-
 परपीडं च विहितं तान्निष्टं वा परावृतम् \।
 
 तिथीश्वरद्वयेनैव यद्यप्युक्तं तिथिद्वयम् \।\।
@@ -15073,8 +12041,6 @@ MS.
 पौ. सं.
 
 ३१.२८७ \।\।
-
-
 
 एकादश्यादिकं चैवं तथापि द्विजसत्तम \।
 
@@ -15084,8 +12050,6 @@ MS.
 
 ३१.२८८ \।\।
 
-
-
 न केवलं हि तद्यावद् वस्तुजालं हि चापरमृ \।
 
 मनवश्चोपदेष्टारः प्रपञ्चास्यास्य पौष्कर \।\।
@@ -15093,8 +12057,6 @@ MS.
 पौ. सं.
 
 ३१.२८९ \।\।
-
-
 
 एवं प्रवर्तितं सर्वं भक्तानुग्रहकाम्यया \।
 
@@ -15104,8 +12066,6 @@ MS.
 
 ३१.२९० \।\।
 
-
-
 व्रतार्थम् उपवासानां येन संवत्सरस्य च \।
 
 संकल्पमुदकक्षेपपूर्वं कृतम् अकृत्रिमम् \।\।
@@ -15113,8 +12073,6 @@ MS.
 पौ. सं.
 
 ३१.२९१ \।\।
-
-
 
 तस्य द्वादशमे मासे अनुयागावसानिकम् \।
 
@@ -15124,8 +12082,6 @@ MS.
 
 ३१.२९२ \।\।
 
-
-
 विफलं नूनमायाति त्रयोदश्यां समर्चनात् \।
 
 इच्छयाभिमतायां वै एकादश्यां समाचरेत् \।\।
@@ -15133,8 +12089,6 @@ MS.
 पौ. सं.
 
 ३१.२९३ \।\।
-
-
 
 त्रिवर्गफलसिद्ध्यर्थं भक्त्या तावत्फलं विना \।
 
@@ -15144,8 +12098,6 @@ MS.
 
 ३१.२९४ \।\।
 
-
-
 सर्वभावेष्वसक्तत्वान्नदोषस्तस्य जायते \।
 
 यजने चात्मयागे च त्रयोदश्यां विनोदयात् \।\।
@@ -15153,8 +12105,6 @@ MS.
 पौ. सं.
 
 ३१.२९५ \।\।
-
-
 
 पूर्वप्रहरपर्यन्तकालाद् वा धर्ममिश्रितम् \।
 
@@ -15164,8 +12114,6 @@ MS.
 
 ३१.२९६ \।\।
 
-
-
 अङ्गभावं त्रयोदश्याम् उपयातं महामते \।
 
 अनुद्यमेनेच्छया तु परिहृत्य विशेषतः \।\।
@@ -15173,8 +12121,6 @@ MS.
 पौ. सं.
 
 ३१.२९७ \।\।
-
-
 
 स्वबुध्या च त्रयोदश्याम् इतिकर्तव्यतां चरेत् \।
 
@@ -15184,8 +12130,6 @@ MS.
 
 ३१.२९८ \।\।
 
-
-
 अमन्त्रज्ञस्य देवानाम् अधिकं द्विजतर्पणम् \।
 
 मन्त्रज्ञस्यार्चनं होमं जपदाने स्वशक्तितः \।\।
@@ -15193,8 +12137,6 @@ MS.
 पौ. सं.
 
 ३१.२९९ \।\।
-
-
 
 प्रीतः समाचरेद्यत्नं व्रतवांश्च क्रिया परः \।
 
@@ -15204,8 +12146,6 @@ MS.
 
 ३१.३०० \।\।
 
-
-
 भक्त्या संप्रतिपन्नानां विना शाठ्येन मायया \।
 
 व्रतिनां मुख्यतः सम्यगनुकलयं समं स्मृतम् \।\।
@@ -15213,8 +12153,6 @@ MS.
 पौ. सं.
 
 ३१.३०१ \।\।
-
-
 
 सर्वस्य हृदयस्थो वै देवः सर्वेश्वरो हरिः \।
 
@@ -15224,8 +12162,6 @@ MS.
 
 ३१.३०२ \।\।
 
-
-
 सुवर्णं रत्नमुदकं षड्रसानि तिलानि च \।
 
 आज्योपवीतातपत्रमुपानद्वस्त्रगोमहीः \।\।
@@ -15233,8 +12169,6 @@ MS.
 पौ. सं.
 
 ३१.३०३ \।\।
-
-
 
 स्त्रग्गन्धदीपधानयं च सत्फलं कामिकास्त्वमी \।
 
@@ -15244,8 +12178,6 @@ MS.
 
 ३१.३०४ \।\।
 
-
-
 कामधेनुघटैस्तस्माद् बुधश्रवणवासरे \।
 
 द्वादश्यां प्रीणनीयश्च निम्नसागररक्षितौ \।\।
@@ -15253,8 +12185,6 @@ MS.
 पौ. सं.
 
 ३१.३०५ \।\।
-
-
 
 सर्वकामाप्रये देवः सर्वसत्वहिताय च \।
 
@@ -15264,8 +12194,6 @@ MS.
 
 ३१.३०६ \।\।
 
-
-
 कामधेन्वाख्यदानेन अनेन परमेश्वरः \।
 
 प्रयोति परमां प्रीतिं जगदुद्धरणोद्यतः \।\।
@@ -15273,8 +12201,6 @@ MS.
 पौ. सं.
 
 ३१.३०७ \।\।
-
-
 
 अवेक्ष्य देशकालादीन् गृहे वायतने ऽच्युतम् \।
 
@@ -15284,8 +12210,6 @@ MS.
 
 ३१.३०८ \।\।
 
-
-
 न चेत् किन्त्वङ्गभावं तु भावशक्तिवशात् तु वै \।
 
 द्विजलं यत्र वा तीर्थं गङ्गायमुनसङ्गमे \।\।
@@ -15294,43 +12218,19 @@ MS.
 
 ३१.३०९ \।\।
 
-
-
 इति श्रीपाञ्चरात्रे महोपनिषदि पौष्करसुहितायां
-
-
 
 लोकधर्मो नाम एकत्रिंशो ऽध्यायः \।\।
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
 
 \।\।
 
 श्री \।\।
 
-
-
 अथ द्वात्रिंशो ऽध्यायः \।
 
-
-
-
-
-
-
 पौष्कर उवाच ---
-
-
-
-
-
-
 
 भगवन् भूतभव्येश नृणां सन् मन्त्रयाजिनाम् \।
 
@@ -15340,19 +12240,7 @@ MS.
 
 ३२.१ \।\।
 
-
-
-
-
-
-
 श्रीभगवानुवाच ---
-
-
-
-
-
-
 
 मन्त्रपूर्वं हि संकल्पं कृत्वा मन्त्रसमर्चने \।
 
@@ -15362,8 +12250,6 @@ MS.
 
 ३२.२ \।\।
 
-
-
 संदिष्टदेवतानां च कर्मणा मनसा गिरा \।
 
 यत्नात् निर्वहणीयं तत् शक्त्यास्वविभवेन च \।\।
@@ -15371,8 +12257,6 @@ MS.
 पौ. सं.
 
 ३२.३ \।\।
-
-
 
 अस्वातन्त्र्याद् असामर्थ्यात् जाते वै सूतकादिके \।
 
@@ -15382,8 +12266,6 @@ MS.
 
 ३२.४ \।\।
 
-
-
 संयतं गुरुपुत्रं वा भ्रातरं सहदीक्षितम् \।
 
 कनिष्ठम् अथवा ज्येष्ठम् अन्यथा कमलोद्भव \।\।
@@ -15391,8 +12273,6 @@ MS.
 पौ. सं.
 
 ३२.५ \।\।
-
-
 
 प्रायश्चित्तं भवेद् घोरं प्राक्संकल्पपरीक्षया \।
 
@@ -15402,8 +12282,6 @@ MS.
 
 ३२.६ \।\।
 
-
-
 नाख्येयमत्यये प्राप्ते सम्यक्सिद्धिपरैर्नरैः \।
 
 प्रकाशयति यो मोहान्मन्त्रमुद्रादिकं स्वकम् \।\।
@@ -15411,8 +12289,6 @@ MS.
 पौ. सं.
 
 ३२.७ \।\।
-
-
 
 इतरेषामभक्तानां तन्त्र (भ )मन्त्रेश्वरो द्विज \।
 
@@ -15422,8 +12298,6 @@ MS.
 
 ३२.८ \।\।
 
-
-
 दत्त्वा चैव महादुःखं तस्मात् यत्नेन याजकैः \।
 
 स्वमन्त्रं गोपनीयं च इतिकर्तव्यतान्वितम् \।\।
@@ -15431,8 +12305,6 @@ MS.
 पौ. सं.
 
 ३२.९ \।\।
-
-
 
 मुक्त्वा गुरुं सुतं जायां तत्शिष्यं चाप्यकृत्रिमम् \।
 
@@ -15442,8 +12314,6 @@ MS.
 
 ३२.१० \।\।
 
-
-
 तत्राति कमलोद्भूत इतिकर्तव्यतापरं (रः ) \।
 
 प्रोच्चरेन्मनसा मन्त्रं मन्त्रध्यानं तु गोपयेत् \।\।
@@ -15451,8 +12321,6 @@ MS.
 पौ. सं.
 
 ३२.११ \।\।
-
-
 
 न्मुद्राक्षसूत्रं च यथा वै सिद्धिभाग भवत् \।
 
@@ -15462,8 +12330,6 @@ MS.
 
 ३२.१२ \।\।
 
-
-
 देवार्चां स्वगृहे भक्त्या संस्कृत्य विनिवेशिताम् \।
 
 तस्यार्चने नियोक्तव्यः स्वसामर्थ्यादिके सति \।\।
@@ -15471,8 +12337,6 @@ MS.
 पौ. सं.
 
 ३२.१३ \।\।
-
-
 
 द्विजेन्द्रः पंचकालज्ञः षट्कर्मनिरतस्तु वा \।
 
@@ -15482,8 +12346,6 @@ MS.
 
 ३२.१४ \।\।
 
-
-
 शाश्वतं भवतो येन ऐहिकामुष्मिकं फलम् \।
 
 अन्यथा परोधेन न भयेन न मायया \।\।
@@ -15491,8 +12353,6 @@ MS.
 पौ. सं.
 
 ३२.१५ \।\।
-
-
 
 देवम् अर्चापयेत् प्राज्ञो नित्ये ऽप्याकस्मिके ऽपि वा \।
 
@@ -15502,8 +12362,6 @@ MS.
 
 ३२.१६ \।\।
 
-
-
 तदर्थमर्चनं येन नित्यमङ्गीकृतं पुरा \।
 
 प्रत्यवायं हि तल्लोपात् तस्य तत् फलभाग भवेत् \।\।
@@ -15511,8 +12369,6 @@ MS.
 पौ. सं.
 
 ३२.१७ \।\।
-
-
 
 ना वक्तव्यमतस्तस्माद् वृत्तिलोपं शुभेप्सुना \।
 
@@ -15522,8 +12378,6 @@ MS.
 
 ३२.१८ \।\।
 
-
-
 बहिः प्रतिष्ठितानां च स्थापितानां तु वा गृहे \।
 
 वृत्तिं भुङ्क्ते तु यां यस्य यन्निमित्तं महामते \।\।
@@ -15531,8 +12385,6 @@ MS.
 पौ. सं.
 
 ३२.१९ \।\।
-
-
 
 तन्निमितात् फलं तस्य सफल्पादेव चाखिलम् \।
 
@@ -15542,8 +12394,6 @@ MS.
 
 ३२.२० \।\।
 
-
-
 मनसा मन्त्रमूर्तेर् वै अर्थिनां गृहमेधिनाम् \।
 
 ज्ञात्वा हृदयसद्भाव द्वाभ्यां वै देवता द्विज \।\।
@@ -15551,8 +12401,6 @@ MS.
 पौ. सं.
 
 ३२.२१ \।\।
-
-
 
 विदधाति फलं सम्यक् प्रत्यवायं करोति वा \।
 
@@ -15562,8 +12410,6 @@ MS.
 
 ३२.२२ \।\।
 
-
-
 नोपेक्ष्या बुद्धिपूर्वा च सावलेपेन चेतसा \।
 
 या काचित् चातुरात्मीया मूर्तिर्वा वैभवी विभोः \।\।
@@ -15571,8 +12417,6 @@ MS.
 पौ. सं.
 
 ३२.२३ \।\।
-
-
 
 सा अर्चा तु शैलकाष्ठोत्था पटे कुडये च चित्रिता \।
 
@@ -15582,8 +12426,6 @@ MS.
 
 ३२.२४ \।\।
 
-
-
 लोपः सरक्षणीयश्च ज्ञात्वा कालं कुलोत्थि (चि )तम् \।
 
 कृत्वा स्वस्वनिवृत्तिं च श्रद्धापूतेन चेतसा \।\।
@@ -15591,8 +12433,6 @@ MS.
 पौ. सं.
 
 ३२.२५ \।\।
-
-
 
 तावद् अर्चापयेत् यावत् - कालम् अभ्येति निर्मलम् \।
 
@@ -15602,8 +12442,6 @@ MS.
 
 ३२.२६ \।\।
 
-
-
 हुत्वाग्निं विधिवत् भक्त्या गुर्वादीनां च दक्षिणा \।
 
 प्रायश्चितो ऽन्यथा विप्रभवेद् आराधकस्य वै \।\।
@@ -15611,8 +12449,6 @@ MS.
 पौ. सं.
 
 ३२.२७ \।\।
-
-
 
 अनर्चनात् तु देवानां कलितानां गृहान्तरे \।
 
@@ -15622,8 +12458,6 @@ MS.
 
 ३२.२८ \।\।
 
-
-
 शुभप्रदं ह्येवमेव किं पुनः कमलोद्भव \।
 
 विधिपूर्वं तु निःशेषं सामग्रीभिः समन्वितम् \।\।
@@ -15631,8 +12465,6 @@ MS.
 पौ. सं.
 
 ३२.२९ \।\।
-
-
 
 सह वै भोगसंपत्या भक्त्या सश्रद्धया द्विज \।
 
@@ -15642,8 +12474,6 @@ MS.
 
 ३२.३० \।\।
 
-
-
 मन्त्र - मुद्रासन - ध्यानैर् देवतानां यदर्चनम् \।
 
 तदर्थ - सिद्धिकृत् शश्वद् याजकानां यथास्थितैः \।\।
@@ -15652,8 +12482,6 @@ MS.
 
 ३२.३१ \।\।
 
-
-
 एवं ज्ञात्वा नावलेपः कार्यः संसार - भीरुणा \।
 
 अनर्चने तु देवानां काम्ये नैमित्तिके ऽब्जज \।\।
@@ -15661,8 +12489,6 @@ MS.
 पौ. सं.
 
 ३२.३२ \।\।
-
-
 
 प्रत्यहं च विशेषेण तव ()
 
@@ -15674,8 +12500,6 @@ MS.
 
 ३२.३३ \।\।
 
-
-
 दिव्यपित्र्योचितं स्नानं कृत्वा तदनु पौष्कर \।
 
 प्राणायामं जपान्तं च प्राधान्येनाभिवर्तिनाम् \।\।
@@ -15683,8 +12507,6 @@ MS.
 पौ. सं.
 
 ३२.३४ \।\।
-
-
 
 मन्त्राणां च महत् तेषां सिद्धान्ताख्यागमस्य च \।
 
@@ -15694,8 +12516,6 @@ MS.
 
 ३२.३५ \।\।
 
-
-
 तथा च कमलोद्भूत जगत्यस्मिन् हि दृश्यते \।
 
 देवासुर - मनुष्याणां व्यवहारं स्वभावजम् \।\।
@@ -15703,8 +12523,6 @@ MS.
 पौ. सं.
 
 ३२.३६ \।\।
-
-
 
 जात्युक्तैः स्वप्रणैर् युक्ता ()
 
@@ -15716,8 +12534,6 @@ MS.
 
 ३२.३७ \।\।
 
-
-
 स्वकर्मधर्मनिरता मुनयो ऽपि महामते \।
 
 न यान्ति परमां सिद्धिं विना मन्त्र पिरग्रहात् \।\।
@@ -15725,8 +12541,6 @@ MS.
 पौ. सं.
 
 ३२.३८ \।\।
-
-
 
 सैध्दान्तिकाद् अनुष्ठानात् तद्विधानां च सेवनात् \।
 
@@ -15736,8 +12550,6 @@ MS.
 
 ३२.३९ \।\।
 
-
-
 ज्ञात्वैव यत्नमातिष्ठेन् मन्त्राराधन कर्मणि \।
 
 प्रसादने गुरूणां च सिद्धान्ताद्यवगाहने \।\।
@@ -15745,8 +12557,6 @@ MS.
 पौ. सं.
 
 ३२.४० \।\।
-
-
 
 तन्निष्ठानां यतः सम्यक् कैवल्यम् अमलेक्षण \।
 
@@ -15756,8 +12566,6 @@ MS.
 
 ३२.४१ \।\।
 
-
-
 ज्ञान - कर्मरतानां च सिद्धयो विविधास्त्विह \।
 
 सर्वथा यान्ति कैवल्यं शश्वद् देहपरीक्षया \।\।
@@ -15766,19 +12574,7 @@ MS.
 
 ३२.४२ \।\।
 
-
-
-
-
-
-
 पौष्कर उवाच---
-
-
-
-
-
-
 
 नाथर् (थ )ज्ञानानुविद्धस्य ज्ञातुमिच्छामि सांप्रतम् \।
 
@@ -15788,19 +12584,7 @@ MS.
 
 ३२.४३ \।\।
 
-
-
-
-
-
-
 श्रीभगवानुवाच---
-
-
-
-
-
-
 
 वाचकान्तानिविष्टं तु मन्त्रकृव्यादिकं हि यत् \।
 
@@ -15810,8 +12594,6 @@ MS.
 
 ३२.४४ \।\।
 
-
-
 तत् तदादौ परिज्ञेयं नित्यमाराधकेन तु \।
 
 शुद्ध - संवित् - स्वरूपं च प्रस्फुरन्तं स्वतेजसा \।\।
@@ -15819,8 +12601,6 @@ MS.
 पौ. सं.
 
 ३२.४५ \।\।
-
-
 
 विषयेन्द्रियभूताख्ये नाना करणशक्तिभिः \।
 
@@ -15830,8 +12610,6 @@ MS.
 
 ३२.४६ \।\।
 
-
-
 यच्चाभिमानिके रूपे भोगे व्यक्तिं व्रजन्ति च \।
 
 तत् पुनर् भोगकैवल्य सिद्धये स्वयमेव हि \।\।
@@ -15839,8 +12617,6 @@ MS.
 पौ. सं.
 
 ३२.४७ \।\।
-
-
 
 प्रसिद्धं लक्षणेनैव वपुषा मन्त्रयाजिनाम् \।
 
@@ -15850,8 +12626,6 @@ MS.
 
 ३२.४८ \।\।
 
-
-
 सांप्रतं च प्रबुद्धैस्तु सा पद्मदललोचन \।
 
 क्षेप्तव्या भावनापेक्षो (क्षा )वस्तु तच्चासतो न हि \।\।
@@ -15859,8 +12633,6 @@ MS.
 पौ. सं.
 
 ३२.४९ \।\।
-
-
 
 सत्वं स्याद् भाव मन्त्रेण सद्भावं किन्तु साधनम् \।
 
@@ -15870,8 +12642,6 @@ MS.
 
 ३२.५० \।\।
 
-
-
 सम्यगच्युत भक्त्या वै निर्मलीकृत चेतसाम् \।
 
 यथा जलत्वं वै वह्नेर् युक्तिभिर् नोपपद्यते \।\।
@@ -15879,8 +12649,6 @@ MS.
 पौ. सं.
 
 ३२.५१ \।\।
-
-
 
 एवं जलस्य वह्नित्वं न कदाचित् प्रजायते \।
 
@@ -15890,8 +12658,6 @@ MS.
 
 ३२.५२ \।\।
 
-
-
 तदिन्द्रजालं वै मान्त्रं भक्तानां शुभवर्त्मनि \।
 
 प्रेरकं कमलोद्भूत नाना प्रत्ययलक्षणम् \।\।
@@ -15899,8 +12665,6 @@ MS.
 पौ. सं.
 
 ३२.४३ \।\।
-
-
 
 ज्ञानमूर्तिस्तु भगवान् भक्तानुग्रहकाम्यया \।
 
@@ -15910,8 +12674,6 @@ MS.
 
 ३२.५४ \।\।
 
-
-
 मुक्त्ये याजकानां तु द्विविधं वस्तुसंग्रहम् \।
 
 द्विविधेन तु भेदेन तस्मान् नित्यं समभ्यसेत् \।\।
@@ -15919,8 +12681,6 @@ MS.
 पौ. सं.
 
 ३२.५५ \।\।
-
-
 
 ज्ञानयुक्तं हि वै कर्तृ कर्मैवं सुविलक्षणम् \।
 
@@ -15930,8 +12690,6 @@ MS.
 
 ३२.५६ \।\।
 
-
-
 अभ्यर्थनादिना मन्त्रं यत्क्रमात् समुपागतम् \।
 
 मुद्रान्वितं महाबुद्धे ह्यस्तित्वेनाप्यलङ्कृतम् \।\।
@@ -15939,8 +12697,6 @@ MS.
 पौ. सं.
 
 ३२.५७ \।\।
-
-
 
 तत् प्रमादाद् अबुद्धानाम् अन्यकर्मरतात्मनाम् \।
 
@@ -15950,8 +12706,6 @@ MS.
 
 ३२.५८ \।\।
 
-
-
 अधिकं वाब्जसंभूत तत् करोत्याशुभं सदा \।
 
 मन्त्रिणाम् अचिरादेव तत्रापि कमलोद्भव \।\।
@@ -15959,8 +12713,6 @@ MS.
 पौ. सं.
 
 ३२.५९ \।\।
-
-
 
 अतिभक्तिप्रभावेन वाचस्यानेकरूपणिः \।
 
@@ -15970,8 +12722,6 @@ MS.
 
 ३२.६० \।\।
 
-
-
 तदनुग्रहसामर्थ्यात् वाञ्छितं संप्रयच्छति \।
 
 यस्मात् सद्भक्ति भूतानां प्रपन्नानां क्रमं विना \।\।
@@ -15979,8 +12729,6 @@ MS.
 पौ. सं.
 
 ३२.६१ \।\।
-
-
 
 प्रसादमेति मन्त्रेशस्त्वचिराद् भावितात्मनाम् \।
 
@@ -15990,8 +12738,6 @@ MS.
 
 ३२.६२ \।\।
 
-
-
 भक्तिश्रद्धापराणां च बोधितानां च देशिकैः \।
 
 विना गर्वोक्तिभिः चैव वाक्यैश्चित्तानुरञ्जकैः \।\।
@@ -15999,8 +12745,6 @@ MS.
 पौ. सं.
 
 ३२.६३ \।\।
-
-
 
 समुद्राणां च मन्त्राणां उपायं प्राग्यतो महत् \।
 
@@ -16010,8 +12754,6 @@ MS.
 
 ३२.६४ \।\।
 
-
-
 ततः सदास्तिकत्वं च तत् परिग्राहिणो द्विज \।
 
 संयमं भक्तिपूर्वं तु सक्रियं तदनन्तरम् \।\।
@@ -16019,8 +12761,6 @@ MS.
 पौ. सं.
 
 ३२.६५ \।\।
-
-
 
 ततश्चैवागमार्थं तु पश्चात् संवेदनं स्वकम् \।
 
@@ -16030,8 +12770,6 @@ MS.
 
 ३२.६६ \।\।
 
-
-
 आप्तः सदागमज्ञश्च सेवनीयः सदैव हि \।
 
 नित्यं मन्त्रपरेणैव दृष्टादृष्ट फलार्थिना \।\।
@@ -16039,8 +12777,6 @@ MS.
 पौ. सं.
 
 ३२.६७ \।\।
-
-
 
 संभवे सति सम्यक् च प्रत्यहं तस्य पौष्कर \।
 
@@ -16050,8 +12786,6 @@ MS.
 
 ३२.६८ \।\।
 
-
-
 यस्माद् अस्मिन् हि संसारे गुरुत्वेन प्रवर्तितम् \।
 
 ईश्वरेच्छावशात् चैवम् अच्युतं परमेश्वरम् \।\।
@@ -16059,8 +12793,6 @@ MS.
 पौ. सं.
 
 ३२.६९ \।\।
-
-
 
 तन्मुखेन महाबुद्धे यः प्रसर्पितुम् इच्छति \।
 
@@ -16070,8 +12802,6 @@ MS.
 
 ३२.७० \।\।
 
-
-
 तत् पुत्रस्य अथवा भक्त्या अनुयागविधौ सदा \।
 
 निवेदनीयं पाकाग्रं परितुष्ठेन चेतसा \।\।
@@ -16079,8 +12809,6 @@ MS.
 पौ. सं.
 
 ३२.७१ \।\।
-
-
 
 आस्तां तावन् महाबुद्धे स्वगुरुं तत्सुतं तुवा \।
 
@@ -16090,8 +12818,6 @@ MS.
 
 ३२.७२ \।\।
 
-
-
 कृताह्निकः सुसंतुष्टः शान्तचिन्तो ह्यनाकुलः \।
 
 अभ्यर्थितो ऽतिभक्तो वै चिरकालं महामते \।\।
@@ -16099,8 +12825,6 @@ MS.
 पौ. सं.
 
 ३२.७३ \।\।
-
-
 
 स्वमन्त्रसाधनाख्यं वा द्वि षडष्टषडक्षरम् \।
 
@@ -16110,8 +12834,6 @@ MS.
 
 ३२.७४ \।\।
 
-
-
 एवम् एकत्र संयोज्यम् ऊर्ध्वम् अङ्गारक्टवत् \।
 
 साङ्गं पाणितले न्यस्य तद्विज्ञानादिनां तनौ \।\।
@@ -16119,8 +12841,6 @@ MS.
 पौ. सं.
 
 ३२.७५ \।\।
-
-
 
 तद् अहङ्कारम् आलम्ब्य यस्य सानुग्रहं गृहे \।
 
@@ -16130,8 +12850,6 @@ MS.
 
 ३२.७६ \।\।
 
-
-
 मण्डलादौ तु मन्त्रेशो भोगैर् इष्टस्तथाखिलैः \।
 
 तर्पितश्चाव्निमध्ये तु आज्याद्यैर्न तथाब्जज \।\।
@@ -16139,8 +12857,6 @@ MS.
 पौ. सं.
 
 ३२.७७ \।\।
-
-
 
 समभ्येति परां प्रीतिं यथाचार्यशरीरगम् \।
 
@@ -16150,8 +12866,6 @@ MS.
 
 ३२.७८ \।\।
 
-
-
 तथा मासस्य चाब्दस्य मासषट्कस्य वा अब्जज \।
 
 मध्ये ऽभ्यर्च्यं विशेषेण स्वमन्त्रं गुरुसन्निधौ \।\।
@@ -16159,8 +12873,6 @@ MS.
 पौ. सं.
 
 ३२.७९ \।\।
-
-
 
 पितॄणां प्रीतये पश्चाद् भूतये ऽपि हि चात्मनः \।
 
@@ -16170,8 +12882,6 @@ MS.
 
 ३२.८० \।\।
 
-
-
 पादसंवाहनान्तैस्तु भोगैः पाद्यार्ध्य - पूर्वकैः \।
 
 प्रसाद्य च यथाशक्त्या मात्रवित्तं निवेद्य च \।\।
@@ -16179,8 +12889,6 @@ MS.
 पौ. सं.
 
 ३२.८१ \।\।
-
-
 
 अनुव्रज्य महाबुद्धे व्रजन्तं स्वगृहादिकम् \।
 
@@ -16190,8 +12898,6 @@ MS.
 
 ३२.८२ \।\।
 
-
-
 वर्णा द्विजेन्द्रपूर्वास्तु ब्रह्नचारि - पुरःसरा \।
 
 भैक्षुकान्तास्तु वै सर्वे सिद्धिं समुपयान्ति च \।\।
@@ -16200,15 +12906,7 @@ MS.
 
 ३२.८३ \।\।
 
-
-
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 पुरा यस्यजगन्नाथ मन्त्रमूर्तिर् गृहान्तरे \।
 
@@ -16218,8 +12916,6 @@ MS.
 
 ३२.८४ \।\।
 
-
-
 भक्त्या परिगृहीता प्राक् स्वयं वा पूर्वजैर् द्विज \।
 
 निवेशिता मन्त्रपूर्वं निक्षिप्ता वा परेण तु \।\।
@@ -16227,8 +12923,6 @@ MS.
 पौ. सं.
 
 ३२.८५ \।\।
-
-
 
 धनेनाप्ताथवान्यस्माद् अयोग्यात् तस्करादिकान \।
 
@@ -16238,8 +12932,6 @@ MS.
 
 ३२.८६ \।\।
 
-
-
 चित्तप्रसाद जनको मन्त्रः संसारदुःखहृत् \।
 
 स च तद्विनियुक्तस्तु साङ्गः सपरिवारकः \।\।
@@ -16248,17 +12940,9 @@ MS.
 
 ३२.८७ \।\।
 
-
-
 आराधकस्य भगवन् विहितं वा नवादिशा \।
 
-
-
-
-
 श्रीभगवानुवाच---
-
-
 
 स्वयं व्यक्तं हि यद् विप्र तथा मरगणैर् द्विज \।
 
@@ -16268,8 +12952,6 @@ MS.
 
 ३२.८८ \।\।
 
-
-
 तदधिष्ठित - मन्त्राणां सह तस्य च योजना \।
 
 विहिता कमलोद्भूत नृणां सन्निधिसिद्धये \।\।
@@ -16277,8 +12959,6 @@ MS.
 पौ. सं.
 
 ३२.८९ \।\।
-
-
 
 एवं सपरिवारं च न स्वमन्त्रः सदा गृहे \।
 
@@ -16288,8 +12968,6 @@ MS.
 
 ३२.९० \।\।
 
-
-
 पूजनीयं स्वमन्त्रेण लाञ्छनाङ्गान्वितेन च \।
 
 बिम्बसंरुद्ध - मन्त्रं च तद्विमुक्तमपि द्विज \।\।
@@ -16297,8 +12975,6 @@ MS.
 पौ. सं.
 
 ३२.९१ \।\।
-
-
 
 सर्वा चैव स्वयंव्यक्तपूर्णानां हि महामते \।
 
@@ -16308,8 +12984,6 @@ MS.
 
 ३२.९२ \।\।
 
-
-
 नित्यं यो यतचित्तस्तु मन्त्राराधन - कर्मणि \।
 
 देहस्थं क्षपयेत् शेषं कर्मबन्धम् अशाश्वतम् \।\।
@@ -16317,8 +12991,6 @@ MS.
 पौ. सं.
 
 ३२.९३ \।\।
-
-
 
 समः सर्वेषु भूतेषु मन्त्रेषु च विशेषतः \।
 
@@ -16328,8 +13000,6 @@ MS.
 
 ३२.९४ \।\।
 
-
-
 कस्यचित् कुत्रचित् सम्यक् यस्मान् मन्याकृतौ द्विज \।
 
 प्रसीदति स्वमात्मानं शुध्दज्ञानोदयं विना \।\।
@@ -16337,8 +13007,6 @@ MS.
 पौ. सं.
 
 ३२.९५ \।\।
-
-
 
 न निषिद्धं स्वमन्त्रेण क्वचिद् अन्यत्र पूजनम् \।
 
@@ -16348,8 +13016,6 @@ MS.
 
 ३२.९६ \।\।
 
-
-
 समाहृतां च पूजार्थं मन्त्रतन्त्रार्चने सति \।
 
 स्वमन्त्रेण न दोषो ऽस्ति तद्वद् आयतनेषु च \।\।
@@ -16357,8 +13023,6 @@ MS.
 पौ. सं.
 
 ३२.९७ \।\।
-
-
 
 मन्त्रेण भिन्नमार्गा च्च प्रतिमा मण्डलं तु वा \।
 
@@ -16368,8 +13032,6 @@ MS.
 
 ३२.९८ \।\।
 
-
-
 पुष्पदानं स्वमन्त्रेण व्यापकेन मलात्मना \।
 
 चिन्मात्रता - स्वरूपेण मन्त्राणां हि यतो ऽब्जज \।\।
@@ -16377,8 +13039,6 @@ MS.
 पौ. सं.
 
 ३२.९९ \।\।
-
-
 
 अविशेषं हि सामान्यं शब्दब्रह्ममयं वपुः \।
 
@@ -16388,8 +13048,6 @@ MS.
 
 ३२.१०० \।\।
 
-
-
 जायते शबलं भीमम् अभिचारफलप्रदम् \।
 
 अनुग्रहपरं मन्त्रं शब्दब्रह्ममयं स्वकम् \।\।
@@ -16397,8 +13055,6 @@ MS.
 पौ. सं.
 
 ३२.१०१ \।\।
-
-
 
 याज्य - याजकभावेन समभ्पेति तथाब्जज \।
 
@@ -16408,8 +13064,6 @@ MS.
 
 ३२.१०२ \।\।
 
-
-
 शब्दब्रह्मात्मना त्वास्ते तदैक्यात् च बलं कुतः \।
 
 पटव्यक्ति - द्वयेनैव विना ऐक्यं नमसो यथा \।\।
@@ -16417,8 +13071,6 @@ MS.
 पौ. सं.
 
 ३२.१०३ \।\।
-
-
 
 द्वाभ्यां शब्दस्वरूपाभ्याम् एवम् ऐक्यम् अनुग्रहात् \।
 
@@ -16428,17 +13080,9 @@ MS.
 
 ३२.१०४ \।\।
 
-
-
 स्वगृहे मण्डले यागे दिव्याद्यायतने ऽपि च \।
 
-
-
-
-
 पौष्कर उवाच---
-
-
 
 परं मार्गं न पश्यामि जगत्यस्मिन् जगन्मय \।
 
@@ -16448,15 +13092,7 @@ MS.
 
 ३२.१०५ \।\।
 
-
-
-
-
-
-
 श्रीभगवानुवाच---
-
-
 
 सत्यम् एतन्महाबुद्धे यथा संयोदितं त्वया \।
 
@@ -16466,8 +13102,6 @@ MS.
 
 ३२.१०६ \।\।
 
-
-
 हृदयावर्जको (गो )यत्र विश्रामः परमार्थतः \।
 
 तत् सन्मार्गो याञकस्य वैष्णवः स हि सात्विकः \।\।
@@ -16475,8 +13109,6 @@ MS.
 पौ. सं.
 
 ३२.१०७ \।\।
-
-
 
 स्वयमेव प्रवृत्तस्य लोकानुग्रहकाम्यया \।
 
@@ -16486,8 +13118,6 @@ MS.
 
 ३२.१०८ \।\।
 
-
-
 तस्योपचर्यते येन आगमेनाथ कर्मणा \।
 
 सन्मार्गं विद्धि तं विप्र शश्वद् ब्रह्म विभूतिदम् \।\।
@@ -16496,19 +13126,13 @@ MS.
 
 ३२.१०९ \।\।
 
-
-
 विभुर्विभवभावस्थ इच्छया वितनोति यत् \।\।
-
-
 
 प्राकृतं क्षेत्रमाश्रित्य तद्गुणं देवतात्मकम् \।\।
 
 पौ. सं.
 
 ३२.११० \।\।
-
-
 
 तन्मायीयं च निःशेषज्ञानाद्यैश्छुरितं गुणैः \।
 
@@ -16518,8 +13142,6 @@ MS.
 
 ३२.१११ \।\।
 
-
-
 तद् व्यञ्जकं हि यत् शास्त्रम् इतिकर्तव्यता च वै \।
 
 असन्मार्गं तु तं विप्र विद्धि पूर्वव्यपेक्षया \।\।
@@ -16527,8 +13149,6 @@ MS.
 पौ. सं.
 
 ३२.११२ \।\।
-
-
 
 तस्मात् परपदप्राप्तेः कारणं परमं स्मृतम् \।
 
@@ -16538,8 +13158,6 @@ MS.
 
 ३२.११३ \।\।
 
-
-
 क्षिप्रमेव प्रपन्नानां ज्ञानपूर्वेण कर्मणा \।
 
 ददाति सत्पदप्राप्तिं कर्तिणां भावितात्मनाम् \।\।
@@ -16547,8 +13165,6 @@ MS.
 पौ. सं.
 
 ३२.११४ \।\।
-
-
 
 काम्यानां कर्मणां प्राप्तौ हि अचिरेणैव पद्मज \।
 
@@ -16558,8 +13174,6 @@ MS.
 
 ३२.११५ \।\।
 
-
-
 सुसूक्ष्म - न्यूहविभवं मुक्त्वा सद्ब्रह्न - याजिनाम् \।
 
 सांसारिकं फलं हेयं स्वर्गादि - प्राप्तिलक्षणम् \।\।
@@ -16567,8 +13181,6 @@ MS.
 पौ. सं.
 
 ३२.११६ \।\।
-
-
 
 प्रार्थ्यमानं हि यज्ञाद्यैः शश्वत् तस्मान् न चाव्यते \।
 
@@ -16578,8 +13190,6 @@ MS.
 
 ३२.११७ \।\।
 
-
-
 सम्यम् संप्रतिपन्नैस्तु सन्मार्गे परिचोदिते \।
 
 तस्मात् कमलसंभूत प्रयत्नेन सदैव हि \।\।
@@ -16587,8 +13197,6 @@ MS.
 पौ. सं.
 
 ३२.११८ \।\।
-
-
 
 कुर्याद् आराधनं भक्त्या मन्त्राणां हि यथाक्षणम् \।
 
@@ -16598,21 +13206,9 @@ MS.
 
 ३२.११९ \।\।
 
-
-
 अधिभौतिकम् आध्यात्मम् अधिदेवीयम् अब्जज \।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
-
-
-
-
 
 आराधकानां भगवन् मन्त्राणां शश्वद् अर्चने \।
 
@@ -16622,8 +13218,6 @@ MS.
 
 ३२.१२० \।\।
 
-
-
 विस्तरेणार्चनात् तेषां बहुभिः कुसुमादिकैः \।
 
 किं फलं याजकानां तु अत्र मे संशयो महान् \।\।
@@ -16632,19 +13226,7 @@ MS.
 
 ३२.१२१ \।\।
 
-
-
-
-
-
-
 श्रीभगवानुवाच ---
-
-
-
-
-
-
 
 फलसाम्यं द्विजश्रेष्ठ भावभक्तिवशात् स्थितम् \।
 
@@ -16654,8 +13236,6 @@ MS.
 
 ३२.१२२ \।\।
 
-
-
 यत्फलं तद् द्विजाढ्यानां निरन्नानां तु चार्चनात् \।
 
 सदाढ्यानां च भक्तानां होमाद्यैर् अर्चनात् फलम् \।\।
@@ -16663,8 +13243,6 @@ MS.
 पौ. सं.
 
 ३२.१२३ \।\।
-
-
 
 यत् तद् विद्धि दरिद्रणां भक्तानां कुसुमादिकैः \।
 
@@ -16674,8 +13252,6 @@ MS.
 
 ३२.१२४ \।\।
 
-
-
 नृपाणां च दरिद्राणां कालं यत् तत् क्रियश्रितम् \।
 
 तत्रापि कमलोद्भूत भूतार्थम् अवधारय \।\।
@@ -16683,8 +13259,6 @@ MS.
 पौ. सं.
 
 ३२.१२५ \।\।
-
-
 
 यथालब्धेन शुद्धेन भोगजालेन वै सह \।
 
@@ -16694,8 +13268,6 @@ MS.
 
 ३२.१२६ \।\।
 
-
-
 समुद्राणां च योगस्य विस्तरात् नित्यमेव हि \।
 
 तद् याजकानां यजनम् अचिराद् भुक्तिमुक्तिदम् \।\।
@@ -16703,8 +13275,6 @@ MS.
 पौ. सं.
 
 ३२.१२७ \।\।
-
-
 
 संक्षिप्तं धारणाद्यैर् यत् तत् कृतम् चाप्यभोगदम् \।
 
@@ -16714,8 +13284,6 @@ MS.
 
 ३२.१२८ \।\।
 
-
-
 विदधाति च भक्तानां भोगहीनं परं पदम् \।
 
 तस्मात् श्रेयो ऽर्थिनां नित्यं भुक्तिमुक्ति - फलाप्तये \।\।
@@ -16723,8 +13291,6 @@ MS.
 पौ. सं.
 
 ३२.१२९ \।\।
-
-
 
 निर्व्याकुधिलया भक्त्या कालांशम् अवलब्म्य वै \।
 
@@ -16734,8 +13300,6 @@ MS.
 
 ३२.१३० \।\।
 
-
-
 सुसंपूर्णं तु यजनं धारणाद्यैः सुविस्तृतैः \।
 
 भोगैर् यद्यपि संपूर्णैः संपत्तिः सह वै नृणाम् \।\।
@@ -16743,8 +13307,6 @@ MS.
 पौ. सं.
 
 ३२.१३१ \।\।
-
-
 
 तथापि कर्मनिष्ठानां आधिक्यं चास्ति पौष्कर \।
 
@@ -16754,8 +13316,6 @@ MS.
 
 ३२.१३२ \।\।
 
-
-
 जायेते याजकानां तु नातो (त्रो )त्साहं परित्यजेत् \।
 
 द्रव्यसंपद्विना नित्यं मन्त्राराधन - कर्मणि \।\।
@@ -16763,8 +13323,6 @@ MS.
 पौ. सं.
 
 ३२.१३३ \।\।
-
-
 
 परं हि यस्य वा भावो भोगवृन्दस्य पौष्कर \।
 
@@ -16774,8 +13332,6 @@ MS.
 
 ३२.१३४ \।\।
 
-
-
 न पुनर्मोक्षनिष्ठस्य कर्मणः शाश्वतस्य च \।
 
 पुरुषार्थप्रदस्याशु खण्डनं सद्विवेकिनाम् \।\।
@@ -16784,19 +13340,7 @@ MS.
 
 ३२.१३५ \।\।
 
-
-
-
-
-
-
 पौष्कर उवाच---
-
-
-
-
-
-
 
 संसारिणां हि भक्तानां नानाकर्मरतात्मनाम् \।
 
@@ -16806,8 +13350,6 @@ MS.
 
 ३२.१३६ \।\।
 
-
-
 विस्तरेणार्चने तेषां कथं संपद्यते ऽच्युत \।
 
 अनर्चनात् त्वयोद्दिष्ट - फलं वैकल्यम् उत्तमम् \।\।
@@ -16816,19 +13358,7 @@ MS.
 
 ३२.१३७ \।\।
 
-
-
-
-
-
-
 श्रीभगवानुवाच ---
-
-
-
-
-
-
 
 क्रमयुक्तं हि यत् कर्म तच्च श्रेयस्करं नृणाम् \।
 
@@ -16838,8 +13368,6 @@ MS.
 
 ३२.१३८ \।\।
 
-
-
 मुख्यकल्पं हि विस्तारम् अनुकल्पम् अतः परम् \।
 
 समत्व घटते केन हेतुना कमलोद्भव \।\।
@@ -16847,8 +13375,6 @@ MS.
 पौ. सं.
 
 ३२.१३९ \।\।
-
-
 
 तत्रापि चा शठानां च भक्तानां भावितात्मनाम् \।
 
@@ -16858,8 +13384,6 @@ MS.
 
 ३२.१४० \।\।
 
-
-
 कर्मणाम् अनुसंधानं विना कालान्तरेण तु \।
 
 क्ष्मा - जलानलवाय्वाख्यं नाभसीयं महामते \।\।
@@ -16867,8 +13391,6 @@ MS.
 पौ. सं.
 
 ३२.१४१ \।\।
-
-
 
 धारणापञ्चकात् चैव संक्षिप्तं विहितं द्वयम् \।
 
@@ -16878,8 +13400,6 @@ MS.
 
 ३२.१४२ \।\।
 
-
-
 परापर - स्वरूपात् च ध्यानात् एकं परं महत् \।
 
 हृन्मन्त्रं सर्वमन्त्रयाणाम् उपचारक्रियाविधौ \।\।
@@ -16887,8 +13407,6 @@ MS.
 पौ. सं.
 
 ३२.१४३ \।\।
-
-
 
 कर्मणा समनस्कं च प्रणवाद्यं महामते \।
 
@@ -16898,8 +13416,6 @@ MS.
 
 ३२.१४४ \।\।
 
-
-
 स्मरणान्नेत्रयोर्मध्ये स्वोच्चारं निष्कलस्य तु \।
 
 नति - प्रणवगर्भाभिः स्वसंज्ञाभिर्यदर्चनम् \।\।
@@ -16907,8 +13423,6 @@ MS.
 पौ. सं.
 
 ३२.१४५ \।\।
-
-
 
 विधिवन् मन्त्रमूर्तीनां तत्परं क्षिप्रसंज्ञितम् \।
 
@@ -16918,8 +13432,6 @@ MS.
 
 ३२.१४६ \।\।
 
-
-
 यल्लक्षणामृतैः पिण्डैः सह संज्ञाभिर् अब्जज \।
 
 जपान्तम् अखिलं कर्म मन्त्राणां तद् बृहत् स्मृतम् \।\।
@@ -16927,8 +13439,6 @@ MS.
 पौ. सं.
 
 ३२.१४७ \।\।
-
-
 
 क्षिप्रमाद्यात् च कैवल्यं किंचित् कालान्तरेण तु \।
 
@@ -16938,8 +13448,6 @@ MS.
 
 ३२.१४८ \।\।
 
-
-
 ज्ञानादि गुणषट्कं चे इहैवाद्यं प्रयच्छति \।
 
 अणिमादि अष्टकं चैव द्वितीयम् अमलेक्षण \।\।
@@ -16947,8 +13455,6 @@ MS.
 पौ. सं.
 
 ३२.१४९ \।\।
-
-
 
 समस्तभुवनैश्वर्यं तृतीयम् अचिरात् तु वै \।
 
@@ -16958,8 +13464,6 @@ MS.
 
 ३२.१५० \।\।
 
-
-
 क्षिप्रं लक्षणपूर्वेण कालेन त्रिविधेन तु \।
 
 महत्तैव हि मन्त्रस्य स्वसंज्ञाख्यस्य यद्यपि \।\।
@@ -16967,8 +13471,6 @@ MS.
 पौ. सं.
 
 ३२.१५१ \।\।
-
-
 
 तथापि कमलोद्भूत क्षिप्रपूर्वादिकेर्ऽचने \।
 
@@ -16978,8 +13480,6 @@ MS.
 
 ३२.१५२ \।\।
 
-
-
 आराध्यं मन्त्रनाथस्य हृदादीनां तथैव च \।
 
 अन्येषाम् अन्तरङ्गाख्यं मन्त्राणां कमलोद्भव \।\।
@@ -16987,8 +13487,6 @@ MS.
 पौ. सं.
 
 ३२.१५३ \।\।
-
-
 
 प्रधानलक्षणानां च कमलासनवर्तिनाम् \।
 
@@ -16998,8 +13496,6 @@ MS.
 
 ३२.१५४ \।\।
 
-
-
 वज्रऌआञ्छन लोकेशतदस्त्राधारर्तिनाम् \।
 
 तथासनाख्य विघ्नेश पूर्वाणां द्वारवासिनाम \।\।
@@ -17007,8 +13503,6 @@ MS.
 पौ. सं.
 
 ३२.१५५ \।\।
-
-
 
 ब्रह्मचारि - गृहस्थस्य स्वतन्त्रस्य यतेरपि \।
 
@@ -17018,8 +13512,6 @@ MS.
 
 ३२.१५६ \।\।
 
-
-
 एतद् वै नैष्ठिकानां तु तच्चित्तनिरतात्मनाम् \।
 
 साधकानां सवित्तानां हितम् एकान्तवासिनाम् \।\।
@@ -17027,8 +13519,6 @@ MS.
 पौ. सं.
 
 ३२.१५७ \।\।
-
-
 
 भक्तिश्रद्धापरः सम्यग्गृहीत्वा यः समाचरेत् \।
 
@@ -17038,15 +13528,11 @@ MS.
 
 ३२.१५८ \।\।
 
-
-
 सह साधकसिद्धीभिर निर्विघ्नेन महामते \।\।
 
 पौ. सं.
 
 ३२.१५९ \।\।
-
-
 
 इति श्रीपाञ्चरात्रे सहोपनिषदि पौष्कर -
 
@@ -17054,27 +13540,11 @@ MS.
 
 द्वात्रिंशो ऽध्यायः \।\।
 
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
 
 अथ त्रयस्त्रिंशो ऽध्यायः
 
-
-
 पौष्कर उवाच ---
-
-
-
-
-
-
 
 नवमूर्तेः परिज्ञातं पूर्वंम् आराधनं मया \।
 
@@ -17084,15 +13554,7 @@ MS.
 
 ३३.१ \।\।
 
-
-
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 अनुज्झितस्वरूपस्य देवस्य चतुरात्मनः \।
 
@@ -17102,8 +13564,6 @@ MS.
 
 ३३.२ \।\।
 
-
-
 नानाफलाप्तये ब्रह्मन्नानारूपधरस्य च \।
 
 नानात्वेनार्चनं भूयः शृणु सम्यग्यथास्थितम् \।\।
@@ -17111,8 +13571,6 @@ MS.
 पौ. सं.
 
 ३३.३\।\।
-
-
 
 व्यापकं परमात्मानम् आदिदेवम् अधोक्षजम् \।
 
@@ -17122,8 +13580,6 @@ MS.
 
 ३३.४ \।\।
 
-
-
 ततः प्रभवयोगेन प्राक्पत्रादि समर्चयेत् \।
 
 चतुष्कं संकर्षणाद्यं क्रमान्नारायणान्तिम(क )म् \।\।
@@ -17131,8 +13587,6 @@ MS.
 पौ. सं.
 
 ३३.५ \।\।
-
-
 
 पुनरप्यययोगेन वन्ध्याधीरापदावधि \।
 
@@ -17142,8 +13596,6 @@ MS.
 
 ३३.६ \।\।
 
-
-
 एवम् आग्नेयपद्मे तु प्रद्युम्नाद्यं चतुष्टयम् \।
 
 शब्दब्रह्मादिदेवान्तम् अर्चनीयं सदैव हि \।\।
@@ -17151,8 +13603,6 @@ MS.
 पौ. सं.
 
 ३३.७ \।\।
-
-
 
 दक्षिणे तु अनिरुद्धाद्यं गरुडासनपश्चिमम् \।
 
@@ -17162,8 +13612,6 @@ MS.
 
 ३३.८ \।\।
 
-
-
 नारायणनृसिंहान्तं रक्षःपद्मेर्ऽचयेत् ततः \।
 
 प्रत्यग् दिक्संस्थिते पद्मे ब्रह्माद्यं क्ष्माधरान्तिमम् \।\।
@@ -17172,19 +13620,13 @@ MS.
 
 ३३.९ \।\।
 
-
-
 संकर्षणावसानान्तं विष्ण्वाद्यं मारुते ऽम्बुजे
-
-
 
 नृकेसरिं वराहं च ज्ञानाद्योदकृद्युदक् \।\।
 
 पौ. सं.
 
 ३३.१० \।\।
-
-
 
 त्रयं संकषणाद्यं यत् ईशाने क्ष्माधरादिकम् \।
 
@@ -17194,8 +13636,6 @@ MS.
 
 ३३.११ \।\।
 
-
-
 नवसंख्यम् इदं विप्र प्रथमं यत्प्रकीर्तितम् \।
 
 तदीयं जायते तस्य प्रभावं तत् कमार्चनात् \।\।
@@ -17203,8 +13643,6 @@ MS.
 पौ. सं.
 
 ३३.१२ \।\।
-
-
 
 ---------------------
 
@@ -17216,8 +13654,6 @@ MS.
 
 ३३.१३ \।\।
 
-
-
 नानाफलापितर आचिरात् जायते च फलार्थिनाम् \।
 
 स्वातन्त्र्येणार्चनात् नित्यम् एतेषां चतुरात्मनाम् \।\।
@@ -17225,8 +13661,6 @@ MS.
 पौ. सं.
 
 ३३.१४ \।\।
-
-
 
 यस्य यस्य चतुर्मूर्तेः प्रथमं यत् प्रकीर्तितम् \।
 
@@ -17236,8 +13670,6 @@ MS.
 
 ३३.१५ \।\।
 
-
-
 एतावद् उक्तं हि फलं सन्निवेशवशात् तु वै \।
 
 यतः प्रतिहतं वीर्यम् ऐश्वर्यं प्रभवाप्यये \।\।
@@ -17245,8 +13677,6 @@ MS.
 पौ. सं.
 
 ३३.१६ \।\।
-
-
 
 तं विप्रं मन्त्रमूर्तीनां मन्त्रम् अप्रतिमप्रभम् \।
 
@@ -17256,8 +13686,6 @@ MS.
 
 ३३.१७ \।\।
 
-
-
 परमेश्वरमूर्तीनां परिज्ञानवशात् सति \।
 
 अनादिनिधनो ऽनन्तः कर्मिणां प्रतिपत्तये \।\।
@@ -17265,8 +13693,6 @@ MS.
 पौ. सं.
 
 ३३.१८ \।\।
-
-
 
 तदुत्तारणसिध्यर्थं व्यूहताम् आगतः स्वयम् \।
 
@@ -17276,8 +13702,6 @@ MS.
 
 ३३.१९ \।\।
 
-
-
 अविशेषस्वरूपस्य देवस्यैव महात्मनः \।
 
 नित्यसन्निहिताशेषशक्तेर्नित्योदितस्य च \।\।
@@ -17285,8 +13709,6 @@ MS.
 पौ. सं.
 
 ३३.२० \।\।
-
-
 
 शब्दवित्संभवानन्दविशेषैर्गमितस्य च \।
 
@@ -17296,8 +13718,6 @@ MS.
 
 ३३.२१ \।\।
 
-
-
 अहेयम् अपि अभिन्नं च प्रपञ्चं परमात्मनः \।
 
 सत्यरूपस्य वै सम्यक् क्षोभं निश्रेयसप्रदम् \।\।
@@ -17305,8 +13725,6 @@ MS.
 पौ. सं.
 
 ३३.२२ \।\।
-
-
 
 यस्य सांसारिकी मायाचक्रमिच्छावशात् पुनः \।
 
@@ -17316,8 +13734,6 @@ MS.
 
 ३३.२३ \।\।
 
-
-
 यावन्नानुगृहीता वै देशिकव्यक्तिगेन च \।
 
 षाड्गुण्यमूर्तिनानेन परेण चतुरात्मना (नः ) \।\।
@@ -17325,8 +13741,6 @@ MS.
 पौ. सं.
 
 ३३.२४ \।\।
-
-
 
 अस्याराधनकाले तु बहिर्वा हृदयाम्बरे \।
 
@@ -17336,8 +13750,6 @@ MS.
 
 ३३.२५ \।\।
 
-
-
 बह्वात्मना चार्चकेन चतुर्वर्णमयेन च \।
 
 स्वरेण वाक्षरेणैव केवलेन सबिन्दुना \।\।
@@ -17345,8 +13757,6 @@ MS.
 पौ. सं.
 
 ३३.२६ \।\।
-
-
 
 बाह्योपचारनाम्ना तु सुप्रसिद्धेन केनचित् \।
 
@@ -17356,8 +13766,6 @@ MS.
 
 ३३.२७ \।\।
 
-
-
 न्यस्याङ्गानि स्वकान्यस्य प्राक् संपूर्णगुणानि च \।
 
 स्वमन्त्रैरर्चनेनैव स्थानभेदं विनाब्जज \।\।
@@ -17365,8 +13773,6 @@ MS.
 पौ. सं.
 
 ३३.२८ \।\।
-
-
 
 तस्मिन् कदम्बकुसुमसदृशे मन्त्रगोलके \।
 
@@ -17376,8 +13782,6 @@ MS.
 
 ३३.२९ \।\।
 
-
-
 व्यक्तिम् आपाद्य वै तस्यां पुनर्वर्णक्रमेण तु \।
 
 अङ्गोपाङ्गस्थितिं कुर्यात् स्थानेषु हृदयादिषु \।\।
@@ -17385,8 +13789,6 @@ MS.
 पौ. सं.
 
 ३३.३० \।\।
-
-
 
 हृदि मूर्ध्नि शिखायां च स्कन्ध्योः करमध्यतः \।
 
@@ -17396,8 +13798,6 @@ MS.
 
 ३३.३१ \।\।
 
-
-
 उरुभ्यां जानुयुग्मे च पादयोःतदनन्तरम् \।
 
 तत्र प्रणवपूर्वं तु षड्वर्णास्त्वाड्गिका मताः \।\।
@@ -17405,8 +13805,6 @@ MS.
 पौ. सं.
 
 ३३.३२ \।\।
-
-
 
 षडुपाङ्गाभिधास्त्वन्ये एतेषां लक्षणं शृणु \।
 
@@ -17416,8 +13814,6 @@ MS.
 
 ३३.३३ \।\।
 
-
-
 प्रबुद्धं भास्वरं नित्यं ज्ञानं साक्षात् तद् आच्युतम् \।
 
 स्वस्य शक्तिसमूहस्य बलाद्यस्याखिलस्य च \।\।
@@ -17425,8 +13821,6 @@ MS.
 पौ. सं.
 
 ३३.३४ \।\।
-
-
 
 उदयस्थितिसंहारकारणे ऽङ्गात्मना पुनः \।
 
@@ -17436,8 +13830,6 @@ MS.
 
 ३३.३५ \।\।
 
-
-
 मन्त्रेशामान्त्रशक्तीनाम् अनन्तानां तु तद्विज \।
 
 नानासामर्थ्यवर्गानां हृदयं रत्नदीपवत् \।\।
@@ -17445,8 +13837,6 @@ MS.
 पौ. सं.
 
 ३३.३६ \।\।
-
-
 
 आत्मप्रकाशकं चैव बलादीनां तथा च तत् \।
 
@@ -17456,8 +13846,6 @@ MS.
 
 ३३.३७ \।\।
 
-
-
 तच्छिरः सर्वमन्त्राणां श्रीमद् भोगापवर्गदम् \।
 
 या भूरिशक्तिभिः पूर्णा शक्तिर्वै पारमेश्वरी \।\।
@@ -17465,8 +13853,6 @@ MS.
 पौ. सं.
 
 ३३.३८ \।\।
-
-
 
 ऊर्ध्वतेजोवहा शुद्धा विद्धि मान्त्री शिखा तु सा \।
 
@@ -17476,8 +13862,6 @@ MS.
 
 ३३.३९ \।\।
 
-
-
 तद् एव कवचं विद्धि मन्त्राणां हि बलात्मकम् \।
 
 यद् अप्रतिहतं वीर्यम् ऐश्वर्यं प्रभवाप्ययम् \।\।
@@ -17485,8 +13869,6 @@ MS.
 पौ. सं.
 
 ३३.४० \।\।
-
-
 
 तद् विप्र मन्त्रमूर्तीनाम् अस्त्रम् अप्रतिमप्रभम् \।
 
@@ -17496,8 +13878,6 @@ MS.
 
 ३३.४१ \।\।
 
-
-
 तन्नेत्रं तत्परिज्ञानात् धाम चालक्ष्यते परम् \।
 
 हृदा सह प्रलीनं च तत्केषांचिन्महामते \।\।
@@ -17505,8 +13885,6 @@ MS.
 पौ. सं.
 
 ३३.४२ \।\।
-
-
 
 स्वकं उज्झित्य वै क्षेत्रं ज्ञानम् उद्दीपयेद् स्थितम् \।
 
@@ -17516,8 +13894,6 @@ MS.
 
 ३३.४३ \।\।
 
-
-
 क्वचिद् अङ्गचतुष्कस्य अन्तस्था (ञ्ज )जनवत्प्रभा \।
 
 वर्तते मूर्धपूर्वस्य रत्नेष्विव उपाश्रयम् \।\।
@@ -17525,8 +13901,6 @@ MS.
 पौ. सं.
 
 ३३.४४ \।\।
-
-
 
 वाचकेन विना तस्मात् तदीयाज्ञामयप्रभा \।
 
@@ -17536,8 +13910,6 @@ MS.
 
 ३३.४५ \।\।
 
-
-
 इत्याङ्गिकी स्थितिस्तावत् सर्वत्र न्यासकर्मणि \।
 
 प्रकाशिताब्जसंभूत त्वौपाङ्गं निश्चयं शृणु \।\।
@@ -17545,8 +13917,6 @@ MS.
 पौ. सं.
 
 ३३.४६ \।\।
-
-
 
 क्रोडीकरोति वै येन ज्ञानधर्मेण सर्वदा \।
 
@@ -17556,8 +13926,6 @@ MS.
 
 ३३.४७ \।\।
 
-
-
 संसिद्धम् उपचराद् वै अन्ये ऽप्येवं महामते \।
 
 उपायधर्मवद् यस्तु सिद्धिमोक्षवशात् पुनः \।\।
@@ -17565,8 +13933,6 @@ MS.
 पौ. सं.
 
 ३३.४८ \।\।
-
-
 
 पृष्ठतः सर्वदाने च ऐश्वर्यस्य फलात्मनः \।
 
@@ -17576,8 +13942,6 @@ MS.
 
 ३३.४९ \।\।
 
-
-
 द्व्यात्मकं हि यद् उल्लासं विभोः शक्त्यात्मनो द्विज \।
 
 सुतीक्ष्णम् अतिसौम्यं च तद् उपाङ्गं भुजाभिधम् \।\।
@@ -17585,8 +13949,6 @@ MS.
 पौ. सं.
 
 ३३.५० \।\।
-
-
 
 विभूतिशक्तेर्व्यक्तस्य नानाबीजस्य यन्महत् \।
 
@@ -17604,8 +13966,6 @@ MS.
 
 ३३.५२ \।\।
 
-
-
 आच्युतस्थितिशक्तिर्यत् स्वगुणं हि विलक्षणम् \।
 
 संधारकत्वम् अब्जाक्ष तत् पादाह्वम् उदाहृनम् \।\।
@@ -17613,8 +13973,6 @@ MS.
 पौ. सं.
 
 ३३.५३ \।\।
-
-
 
 सृष्टिसंस्थितिसंहारन्यासे स्वात्मनि वा प्रभोः \।
 
@@ -17624,8 +13982,6 @@ MS.
 
 ३३.५४ \।\।
 
-
-
 सा पुनः स्वल्पवर्णानाम् अधिकाक्षरवर्तिनाम् \।
 
 हीनातिरिक्तरूपापि तद् अङ्गाः परमेश्वर \।\।
@@ -17633,8 +13989,6 @@ MS.
 पौ. सं.
 
 ३३.५५ \।\।
-
-
 
 एवं भजन्ति मां नित्यं प्रक्रियार्थं तु वै पुनः \।
 
@@ -17644,8 +13998,6 @@ MS.
 
 ३३.५६ \।\।
 
-
-
 वर्णाधिकानां मन्त्राणाम् उपाङ्गेष्विदमाचरेत् \।
 
 सह द्वादशमानैव वर्णेन समुदीरणा \।\।
@@ -17653,8 +14005,6 @@ MS.
 पौ. सं.
 
 ३३.५७ \।\।
-
-
 
 सामान्यशब्दभावेन स्याद् एव हृन्मयी स्थिता \।
 
@@ -17664,8 +14014,6 @@ MS.
 
 ३३.५८ \।\।
 
-
-
 स्वख्यञ्जनमिश्रेण पिण्डीभूतेन पाणिना \।
 
 यत्र द्विजेन्द्र विहितं व्यक्तिदानं पुराणिषु \।\।
@@ -17673,8 +14021,6 @@ MS.
 पौ. सं.
 
 ३३.५९ \।\।
-
-
 
 अङ्गोपाङ्गमयी व्याप्तिः स्मर्तव्या वान्यलक्षणा \।
 
@@ -17684,8 +14030,6 @@ MS.
 
 ३३.६० \।\।
 
-
-
 या परा प्रकृतिर्वाणी चिद्रूपा निर्मलां परा \।
 
 पूरिताध्यक्षभावेन निष्कलेन महात्मना \।\।
@@ -17693,8 +14037,6 @@ MS.
 पौ. सं.
 
 ३३.६१ \।\।
-
-
 
 शरीरम् इव जीवेन स्थूलसूक्ष्माद् विलक्षणम् \।
 
@@ -17704,8 +14046,6 @@ MS.
 
 ३३.६२ \।\।
 
-
-
 देहस्थम् आत्मतत्त्वं तु भोगं विषयजं यथा \।
 
 भुनक्ति तद्वद् आदत्ते पूर्णव्यक्तिगतः प्रभुः \।\।
@@ -17713,8 +14053,6 @@ MS.
 पौ. सं.
 
 ३३.६३ \।\।
-
-
 
 सर्वथा तु स्वमन्त्रेण मन्त्रेशं मूर्तिसंस्थितम् \।
 
@@ -17724,8 +14062,6 @@ MS.
 
 ३३.६४ \।\।
 
-
-
 दानैर्विशेषयागैस्तु पितृतर्पणपश्चिमैः \।
 
 नेतव्यम् अतुलां प्रीतिं प्रयोगैः प्रतिवाचकैः \।\।
@@ -17733,8 +14069,6 @@ MS.
 पौ. सं.
 
 ३३.६५ \।\।
-
-
 
 मन्त्रेशस्यार्चनं कुर्यात् क्रमात्तदनु पौष्कर \।
 
@@ -17744,8 +14078,6 @@ MS.
 
 ३३.६६ \।\।
 
-
-
 अन्तरङ्गाङ्गयुक्तानां लाञ्छनानामपि द्विज \।
 
 भोगभूमौ तु तन्मूर्तौ किन्तु भोगावनेस्तु ते \।\।
@@ -17753,8 +14085,6 @@ MS.
 पौ. सं.
 
 ३३.६७ \।\।
-
-
 
 यथोक्तलक्षणाः सर्वे ध्यातव्यास्तु यथाक्रमम् \।
 
@@ -17764,8 +14094,6 @@ MS.
 
 ३३.६८ \।\।
 
-
-
 या परा प्रकृतिर्मान्त्री वैश्वरूप्यात्तु सा पुनः \।
 
 नानानामाक्षरत्वेन नानामूर्तित्वम् एव च \।\।
@@ -17773,8 +14101,6 @@ MS.
 पौ. सं.
 
 ३३.६९ \।\।
-
-
 
 अतो न विहितं वित्र मूर्तिदानं पृथक् पृथक् \।
 
@@ -17784,8 +14110,6 @@ MS.
 
 ३३.७० \।\।
 
-
-
 कारणानिर्गताः केचिद्वचक्तिशक्तिगुणैर्युताः \।
 
 पृथक् व्यक्तिमयाः चान्ये मन्त्रनाथास्तदिच्छया \।\।
@@ -17793,8 +14117,6 @@ MS.
 पौ. सं.
 
 ३३.७१ \।\।
-
-
 
 एकः सर्वेश्वरो ऽनन्तो जीवानाम् अनुकंपया \।
 
@@ -17804,8 +14126,6 @@ MS.
 
 ३३.७२ \।\।
 
-
-
 प्रकृत्येका तथा बह्वी ह्याधेयानां महात्मनाम् \।
 
 लोकनाथेच्छया विप्र बहुधा संव्यवस्थिता \।\।
@@ -17813,8 +14133,6 @@ MS.
 पौ. सं.
 
 ३३.७३ \।\।
-
-
 
 या परा प्रकृतिर्मान्त्री वासुदेवाख्यलक्षणा \।
 
@@ -17824,8 +14142,6 @@ MS.
 
 ३३.७४ \।\।
 
-
-
 कोशभूतत्वम् आपन्ना स्वयम् आनन्दलक्षणा \।
 
 प्रकाशैकस्वभावे तु सूक्ष्मे स्वे मन्त्रविग्रहे \।\।
@@ -17833,8 +14149,6 @@ MS.
 पौ. सं.
 
 ३३.७५ \।\।
-
-
 
 जपात् संस्मरणाद् यस्य स्वव्यक्तिस्थस्य पूजनात् \।
 
@@ -17844,8 +14158,6 @@ MS.
 
 ३३.७६ \।\।
 
-
-
 एवम् एकत्वम् आपन्नं योर्ऽचयति अच्युतं विभुम् \।
 
 नित्याकृतध(न )रस्तस्य भोगमोक्षौ करस्थितौ \।\।
@@ -17853,8 +14165,6 @@ MS.
 पौ. सं.
 
 ३३.७७ \।\।
-
-
 
 शुद्धसंवित्स्वभावानां ज्ञानादिगुणिनां तु वै \।
 
@@ -17864,8 +14174,6 @@ MS.
 
 ३३.७८ \।\।
 
-
-
 स्वेच्छया शब्दशक्तिं स्वाम् अनभिव्यक्तलक्षणाम् \।
 
 प्रकाश्य चाब्जसंभूत यस्यां मन्त्रमयं वपुः \।\।
@@ -17873,8 +14181,6 @@ MS.
 पौ. सं.
 
 ३३.७९ \।\।
-
-
 
 ते सर्वज्ञगुणैश्चाथ मन्त्रैः संप्रोक्तलक्षणाः \।
 
@@ -17884,8 +14190,6 @@ MS.
 
 ३३.८० \।\।
 
-
-
 लिपिव्यूहे तु विविधैर्बीज(जैः )पिण्डवद् आत्मिके \।
 
 केवले ऽपि च संमिश्रे भूरिसंख्ये जपात्मिके \।\।
@@ -17893,8 +14197,6 @@ MS.
 पौ. सं.
 
 ३३.८१ \।\।
-
-
 
 ज्ञशुद्धिः चिद् अधिष्ठातृवशाद् अमरपूजिता \।
 
@@ -17904,8 +14206,6 @@ MS.
 
 ३३.८२ \।\।
 
-
-
 शब्ददेहाः पुनः तु एते मन्त्रा मननधर्मिणः \।
 
 अपरिच्युतरूपाश्च नानात्वम् उपयान्ति च \।\।
@@ -17913,8 +14213,6 @@ MS.
 पौ. सं.
 
 ३३.८३ \।\।
-
-
 
 नानाकारवशाच्चैव नानासत्त्ववशाद् अपि \।
 
@@ -17924,8 +14222,6 @@ MS.
 
 ३३.८४ \।\।
 
-
-
 नानाजातिवशाच्चापि नानादेशवशात् पुनः \।
 
 नानाकालवशाद् ब्रह्मन् नानासाधनसंभ्रमैः \।\।
@@ -17933,8 +14229,6 @@ MS.
 पौ. सं.
 
 ३३.८५ \।\।
-
-
 
 मोक्षैकनिरतानां च नराणाम् आत्मसिद्धये \।
 
@@ -17944,13 +14238,7 @@ MS.
 
 ३३.८६ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 त्वयोक्तं भगवद् यागं शुद्धसत्त्वस्य कर्मिणः \।
 
@@ -17959,8 +14247,6 @@ MS.
 पौ. सं.
 
 ३३.८७ \।\।
-
-
 
 योगं तत्त्वजयार्थं वै ज्ञातुम् इच्छामि अहं पुनः \।
 
@@ -17972,13 +14258,7 @@ MS.
 
 ३३.८८ \।\।
 
-
-
-
-
 श्रीभगवान् उवाच ---
-
-
 
 प्रधानयोगम् उक्तं ते कर्मयोगाद् अनन्तरम् \।
 
@@ -17988,8 +14268,6 @@ MS.
 
 ३३.८९ \।\।
 
-
-
 तथा परमहंसस्य लोकबाह्यस्थितस्य च \।
 
 तत्त्वयोगं अतो वक्ष्ये भूमिकाभिन्नलक्षणम् \।\।
@@ -17997,8 +14275,6 @@ MS.
 पौ. सं.
 
 ३३.९० \।\।
-
-
 
 शुद्धये ऽखिलतत्त्वानां कृतदीक्षस्य पौष्कर \।
 
@@ -18008,8 +14284,6 @@ MS.
 
 ३३.९१ \।\।
 
-
-
 अपवर्गाप्तये चैव ज्ञानावरणशान्तये \।
 
 शुद्धसंवित् स्वभावेन परमात्मनि तिष्ठति \।\।
@@ -18017,8 +14291,6 @@ MS.
 पौ. सं.
 
 ३३.९२ \।\।
-
-
 
 चित्प्रकाशस्वरूपेण मन्त्रात्मनि महामते \।
 
@@ -18028,8 +14300,6 @@ MS.
 
 ३३.९३ \।\।
 
-
-
 व्याप्तः परेण विभुना सर्वशक्त्यात्मकेन तु \।
 
 यम् आच्छाद्य स्थितः सम्यग् बोध्यं तं सर्वदाब्जज \।\।
@@ -18037,8 +14307,6 @@ MS.
 पौ. सं.
 
 ३३.९४ \।\।
-
-
 
 असङ्कीर्णम् असंख्यं च वासनाशतवासितम् \।
 
@@ -18048,8 +14316,6 @@ MS.
 
 ३३.९५ \।\।
 
-
-
 समग्रं तत्त्वजालं तद् विनिवर्तति नान्यथा \।
 
 अतस्तु लब्धलक्षेण कर्मतन्त्ररतेन च \।\।
@@ -18057,8 +14323,6 @@ MS.
 पौ. सं.
 
 ३३.९६ \।\।
-
-
 
 नित्यं तत्त्वजयं कार्यं स्वरूपप्राप्तये तु वै \।
 
@@ -18068,8 +14332,6 @@ MS.
 
 ३३.९७ \।\।
 
-
-
 तत्त्वाधिष्ठातृभावेन आपादान् मस्तकावधि \।
 
 ज्ञातव्यं स्थानभेदेन दीक्षायां कथितं यथा \।\।
@@ -18078,8 +14340,6 @@ MS.
 
 ३३.९८ \।\।
 
-
-
 कदलीपुठवच्चाथ ततो मोदकवद् द्विज \।
 
 तज्जायार्थ समभ्यस्य योगम् एवम् त्रिधा अमलम् \।\।
@@ -18087,8 +14347,6 @@ MS.
 पौ. सं.
 
 ३३.९९ \।\।
-
-
 
 किन्तु चाभ्या (भ्यः)
 
@@ -18100,8 +14358,6 @@ MS.
 
 ३३.१०० \।\।
 
-
-
 षट्कोशलक्षणं विद्धि सविघ्नं ते तदात्मना \।
 
 निश्चयात् तद् जयेद् एतद् अस्त्रध्यानाद् जपाद् अपि \।\।
@@ -18109,8 +14365,6 @@ MS.
 पौ. सं.
 
 ३३.१०१ \।\।
-
-
 
 प्राणादीनां तु वायूनां कृत्वा तु विजयं पुरा \।
 
@@ -18120,8 +14374,6 @@ MS.
 
 ३३.१०२ \।\।
 
-
-
 व्यापकत्वेन चाराध्य न्यस्त्वाकारशरीरगम् \।
 
 ततः तादात्म्यम् आलम्ब्य चित्तं बाह्यस्थम् आचरेत् \।\।
@@ -18129,8 +14381,6 @@ MS.
 पौ. सं.
 
 ३३.१०३ \।\।
-
-
 
 हृत्पुण्डरीकमध्ये तु त्रिधाम भुवनोदरे \।
 
@@ -18140,8 +14390,6 @@ MS.
 
 ३३.१०४ \।\।
 
-
-
 अभ्यस्याभ्यासयोगेन प्रथमं भावयेत् ततः \।
 
 कुर्यात् तत्त्वजयाभ्यासं विधिनानेन वै द्विजः \।\।
@@ -18149,8 +14397,6 @@ MS.
 पौ. सं.
 
 ३३.१०५ \।\।
-
-
 
 प्रणवाद्यन्तरुद्धेन हृदा संज्ञापरेण वा \।
 
@@ -18160,8 +14406,6 @@ MS.
 
 ३३.१०६ \।\।
 
-
-
 जपाद् विलयम् आयाति तत्त्वज्ञानं शनैः शनैः \।
 
 आधारं प्रणवं शब्दं हृन्मन्त्रः तन्मये ततः \।\।
@@ -18169,8 +14413,6 @@ MS.
 पौ. सं.
 
 ३३.१०७ \।\।
-
-
 
 तत्त्वतो भवहृत् शब्दं तत्संज्ञं प्रणवोदरे \।
 
@@ -18180,8 +14422,6 @@ MS.
 
 ३३.१०८ \।\।
 
-
-
 एवं क्रमेण क्ष्मादीनां तन्मन्त्राणां जयं द्विज \।
 
 कुर्यात् स्वकरणानां च इन्द्रियाणां पराजयम् \।\।
@@ -18189,8 +14429,6 @@ MS.
 पौ. सं.
 
 ३३.१०९ \।\।
-
-
 
 इति त्रिदशकं जित्वा तत्त्वानां चाव्ययेन तु \।
 
@@ -18200,8 +14438,6 @@ MS.
 
 ३३.११० \।\।
 
-
-
 तमो रजः सत्त्वसंज्ञं ध्यात्वा जप्त्वा परित्यजेत् \।
 
 सूक्ष्मं संधातसंज्ञं तु स्वगुणेभ्यो विलक्षणम् \।\।
@@ -18209,8 +14445,6 @@ MS.
 पौ. सं.
 
 ३३.१११ \।\।
-
-
 
 साक्षात्कृत्वाथ संत्यज्य अव्यक्तं च जयेत् ततः \।
 
@@ -18220,8 +14454,6 @@ MS.
 
 ३३.११२ \।\।
 
-
-
 नानामतिनिविष्टस्य स्वविकल्पोत्थितस्य च \।
 
 कालतत्त्वम् अतः चिन्त्यं भूतभव्यभवात्मकम् \।\।
@@ -18229,8 +14461,6 @@ MS.
 पौ. सं.
 
 ३३.११३ \।\।
-
-
 
 सुद्धिकृद् यद् अनन्तस्य सदसद्-लक्षणस्य च \।
 
@@ -18240,8 +14470,6 @@ MS.
 
 ३३.११४ \।\।
 
-
-
 उपायलक्षणं धर्मं चतुः संख्यं हि लक्षणम् \।
 
 ज्ञानक्रियेच्छात्राणाख्यशक्तिसंज्ञं हि शाश्वतम् \।\।
@@ -18249,8 +14477,6 @@ MS.
 पौ. सं.
 
 ३३.११५ \।\।
-
-
 
 साक्षात् कुर्याद् जपाद् ध्यानाद् योगाभ्यासाद् अथोर्ध्वतः \।
 
@@ -18260,8 +14486,6 @@ MS.
 
 ३३.११६ \।\।
 
-
-
 सप्तसंज्ञं पदं दिव्यं ध्यातव्यं कर्मशान्तये \।
 
 शब्दब्रह्मावसानं च ज्ञातव्यं च सदोदितम् \।\।
@@ -18269,8 +14493,6 @@ MS.
 पौ. सं.
 
 ३३.११७ \।\।
-
-
 
 शब्दब्रह्मस्वरूपस्य परस्य परमात्मनः \।
 
@@ -18280,8 +14502,6 @@ MS.
 
 ३३.११८ \।\।
 
-
-
 शब्दब्रह्मन समभ्यस्य गुणषट्काद् अनन्तरम् \।
 
 अनुच्चार्यंम् अवर्णं तं निरावरणम् अस्वरम् \।\।
@@ -18290,8 +14510,6 @@ MS.
 
 ३३.११९ \।\।
 
-
-
 सद्ब्रह्मवाचकं तद् वै वाङ्मयातीतम् अच्युतम् \।
 
 स्वख्यञ्जनरूपाश्च सर्वेषां मूर्तिवाचकाः \।\।
@@ -18299,8 +14517,6 @@ MS.
 पौ. सं.
 
 ३३.१२० \।\।
-
-
 
 स्वविशेषाच्च बहवो दशूलक्षणलक्षिताः \।
 
@@ -18312,8 +14528,6 @@ MS.
 
 ३३.१२१ \।\।
 
-
-
 ध्वनिः कूटस्तथा स्फोटविसर्गान्ता महामते \।
 
 एभ्यः संकीर्णरूपाभ्यो यत्ने वाक्यतरात्मना \।\।
@@ -18321,8 +14535,6 @@ MS.
 पौ. सं.
 
 ३३.१२२ \।\।
-
-
 
 आमोक्षात् सर्वसिद्धीनां प्रदाता सिद्धिभाग् भवेत् \।
 
@@ -18332,8 +14544,6 @@ MS.
 
 ३३.१२३ \।\।
 
-
-
 सम्यग्वेत्ति तदाभ्यासात् स्वाराध्येनानुरञ्जनात् \।
 
 विलक्षणं च तद् ध्यानं ध्यानाध्यात्मकम् अब्जज \।\।
@@ -18341,8 +14551,6 @@ MS.
 पौ. सं.
 
 ३३.१२४ \।\।
-
-
 
 प्रकाशानन्दरूपे च नानाभूतं हि यद् बहिः \।
 
@@ -18352,8 +14560,6 @@ MS.
 
 ३३.१२५ \।\।
 
-
-
 यथा सह समं याति तत्त्वज्ञस्तु अव्यये पदे \।
 
 आत्मलाभम् अतः प्राप्य परस्मात् परमेश्वरात् \।\।
@@ -18361,8 +14567,6 @@ MS.
 पौ. सं.
 
 ३३.१२६ \।\।
-
-
 
 ज्ञानकर्मरतानां च श्रद्धासंयमसेविनाम् \।
 
@@ -18372,8 +14576,6 @@ MS.
 
 ३३.१२७ \।\।
 
-
-
 न एतद् वाच्यं अभक्ताय नास्तिकाय कदाचन \।
 
 न कुतर्कं अतिष्ठाय कर्मब्रह्मोज्झिताय च \।\।
@@ -18381,8 +14583,6 @@ MS.
 पौ. सं.
 
 ३३.१२८ \।\।
-
-
 
 आ प्रभातात् निशान्तं च व्यापारं पारमेश्वरम् \।
 
@@ -18392,8 +14592,6 @@ MS.
 
 ३३.१२९ \।\।
 
-
-
 लौकिकव्यवहारस्था बहवो ऽन्ये च नेश्वराः \।
 
 शून्यब्रह्मैकनिष्ठाय वाक्प्रपञ्चधियान्विताः \।\।
@@ -18402,13 +14600,7 @@ MS.
 
 ३३.१३० \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 तत्त्वग्रामस्य भेदैश्च हेयोपादेयलक्षणम् \।
 
@@ -18418,13 +14610,7 @@ MS.
 
 ३३.१३१ \।\।
 
-
-
-
-
 श्री भगवान् उवाच ---
-
-
 
 यथा क्षीरस्य वै स्नेहं भेदेन न तु वर्तते \।
 
@@ -18434,8 +14620,6 @@ MS.
 
 ३३.१३२ \।\।
 
-
-
 एकत्वेन पृथक्त्वेन समाधौ प्रोक्तम् अभ्यसेत् \।
 
 केवलं हि यथापूर्वम् उद्विष्टं च तदाप्तये \।\।
@@ -18443,8 +14627,6 @@ MS.
 पौ. सं.
 
 ३३.१३३ \।\।
-
-
 
 आक्षितेः करणग्रामम् इन्द्रियाख्यगणान्वितम् \।
 
@@ -18454,8 +14636,6 @@ MS.
 
 ३३.१३४ \।\।
 
-
-
 नानामूर्तिसमाख्यं च भोगक्षेत्रं हि कर्मिणाम् \।
 
 सुखदुःखगुणोपेतं मोहमायामयं दृढम् \।\।
@@ -18463,8 +14643,6 @@ MS.
 पौ. सं.
 
 ३३.१३५ \।\।
-
-
 
 अज्ञानं तु तदासक्तेर्वर्धने तु क्षणात् क्षणम् \।
 
@@ -18474,8 +14652,6 @@ MS.
 
 ३३.१३६ \।\।
 
-
-
 हेयभावनया चिन्त्यम् उपायं यद्यपि स्फुटम् \।
 
 सिद्धीनाम् आत्मलाभे तु तत्राप्यस्थिरम् एव तत् \।\।
@@ -18483,8 +14659,6 @@ MS.
 पौ. सं.
 
 ३३.१३७ \।\।
-
-
 
 सारम् आदाय वै तस्मात्साधनं योगसिद्धये \।
 
@@ -18494,8 +14668,6 @@ MS.
 
 ३३.१३८ \।\।
 
-
-
 चतुष्कम् उदं अव्यक्तं ब्रह्मप्राप्त्या निवर्तते \।
 
 अथोपकरणं दिव्यं पञ्चशक्त्योपलक्षितम् \।\।
@@ -18503,8 +14675,6 @@ MS.
 पौ. सं.
 
 ३३.१३९ \।\।
-
-
 
 कालज्ञानक्रियाख्येच्छाप्राणसंज्ञं महामते \।
 
@@ -18514,8 +14684,6 @@ MS.
 
 ३३.१४० \।\।
 
-
-
 तत्त्ववृन्दस्य विजये गुणषट्कोपलब्धये \।
 
 चातुरात्म्यपरिज्ञाने शब्दब्रह्माप्तये तु वै \।\।
@@ -18523,8 +14691,6 @@ MS.
 पौ. सं.
 
 ३३.१४१ \।\।
-
-
 
 प्रकाशानन्दलाभे तु निर्विकल्पपदाप्तये \।
 
@@ -18534,8 +14700,6 @@ MS.
 
 ३३.१४२ \।\।
 
-
-
 प्राकृतेनाच्युतीयेन साध्यसाधनवस्तुना \।
 
 तद् नास्ति यद् न च आप्नोति साक्षात्कारात्तु साधकः \।\।
@@ -18543,8 +14707,6 @@ MS.
 पौ. सं.
 
 ३३.१४३ \।\।
-
-
 
 सिद्धध्यान जयात् स्वं स्वं फलं यच्छति वै सदा \।
 
@@ -18554,8 +14716,6 @@ MS.
 
 ३३.१४४ \।\।
 
-
-
 तच्च ज्ञानादिकं षट्कं ब्रह्मतत्त्वविलक्षणम् \।
 
 अणिमाद्यष्टकं चैवम् अतो ऽन्यं रोचते हि यत् \।\।
@@ -18563,8 +14723,6 @@ MS.
 पौ. सं.
 
 ३३.१४५ \।\।
-
-
 
 प्रभवः प्रलयश्वैव ऐश्वर्यं सर्वतोमुखम् \।
 
@@ -18574,8 +14732,6 @@ MS.
 
 ३३.१४६ \।\।
 
-
-
 तत्त्वाभ्याससमाधौ तु ज्ञातव्यं तत्त्वचिन्तकैः \।
 
 शब्दब्रह्मपदाद् एव क्षित्यन्ते तत्त्वसंग्रहे \।\।
@@ -18583,8 +14739,6 @@ MS.
 पौ. सं.
 
 ३३.१४७ \।\।
-
-
 
 अध्यात्मं परमं ब्रह्म सामान्यं विद्धि सर्वदा \।
 
@@ -18594,8 +14748,6 @@ MS.
 
 ३३.१४८ \।\।
 
-
-
 स्वं स्वं स्वभावं सर्वस्य स्थूलसूक्ष्मपरात्मकम् \।
 
 विज्ञेयम् अधिभूतत्वं साक्षात्कमललोचन \।\।
@@ -18603,8 +14755,6 @@ MS.
 पौ. सं.
 
 ३३.१४९ \।\।
-
-
 
 सामान्यम् एतत् सर्वत्र ध्येयम् अध्यात्मपूर्वकम् \।
 
@@ -18614,8 +14764,6 @@ MS.
 
 ३३.१५० \।\।
 
-
-
 निस्तरङ्गं परं ब्रह्म शब्दब्रह्मणि अकृत्रिमे \।
 
 अध्यात्मं द्विज बोद्धव्यं मन्त्रकोट्या ह्यनेकशः \।\।
@@ -18623,8 +14771,6 @@ MS.
 पौ. सं.
 
 ३३.१५१ \।\।
-
-
 
 अधिदैवत्यभावेन तस्मिन्नेव सदा स्थिताः \।
 
@@ -18634,8 +14780,6 @@ MS.
 
 ३३.१५२ \।\।
 
-
-
 अध्यात्मगुणषट्काख्यं शब्दब्रह्म यथोदितम् \।
 
 चातुरात्म्यं परिज्ञेयम् अधिदैवम् अनाकृति \।\।
@@ -18643,8 +14787,6 @@ MS.
 पौ. सं.
 
 ३३.१५३ \।\।
-
-
 
 शक्तिव्यूहम् असंख्यं यद् गुणेभ्यः प्रवदन्ति तु \।
 
@@ -18654,8 +14796,6 @@ MS.
 
 ३३.१५४ \।\।
 
-
-
 प्राणशक्तेस्तु चाध्यात्मं षाड्गुण्यम् अखिलं हि यत् \।
 
 अधिदैवतम् अब्जाक्षो वासुदेवः सनातनः \।\।
@@ -18663,8 +14803,6 @@ MS.
 पौ. सं.
 
 ३३.१५५ \।\।
-
-
 
 अधिभूतम् अपानाद्या वायवो विश्वधारकाः \।
 
@@ -18674,8 +14812,6 @@ MS.
 
 ३३.१५६ \।\।
 
-
-
 ज्ञेयं तद् अधिदैवं च परः संकर्षणः प्रभुः \।
 
 सामर्थ्यम् अधिभूतं च सर्वतत्त्वाश्रितं हि यत् \।\।
@@ -18683,8 +14819,6 @@ MS.
 पौ. सं.
 
 ३३.१५७ \।\।
-
-
 
 द्वयम् ऐश्वर्यवीर्याख्यम् अध्यात्मं विद्धि पौष्कर \।
 
@@ -18694,8 +14828,6 @@ MS.
 
 ३३.१५८ \।\।
 
-
-
 महत्प्रकाशप्रसरम् अधिभूतं सदोदितम् \।
 
 तेजः शक्तिर्द्विजाध्यात्मम् अव्यक्तम् अमलेक्षण \।\।
@@ -18703,8 +14835,6 @@ MS.
 पौ. सं.
 
 ३३.१५९ \।\।
-
-
 
 अर्केन्दुवह्नित्रितयं दैवतं परिकीर्तितम् \।
 
@@ -18714,8 +14844,6 @@ MS.
 
 ३३.१६० \।\।
 
-
-
 गुणत्रयस्य चाध्यात्मं सङ्घातकरणं स्वकम् \।
 
 सत्त्वस्य दैवतं वह्नी रजसः त्वं अमृतात्प(स्प)दम् \।\।
@@ -18723,8 +14851,6 @@ MS.
 पौ. सं.
 
 ३३.१६१ \।\।
-
-
 
 तमसस्तपनो विष्णुः सत्व (त्वे )\[ज्ञाना\]धिभूतता \।
 
@@ -18734,8 +14860,6 @@ MS.
 
 ३३.१६२ \।\।
 
-
-
 महामोहं हि तमसस्त्वधिभूतं प्रकीर्तितम् \।
 
 अध्यात्मं चेतनो बुद्धेर्धर्मं सदधिदेवता \।\।
@@ -18743,8 +14867,6 @@ MS.
 पौ. सं.
 
 ३३.१६३ \।\।
-
-
 
 स वै रागं द्विजैश्वर्यम् अधिभूतं तदात्मकम् \।
 
@@ -18754,8 +14876,6 @@ MS.
 
 ३३.१६४ \।\।
 
-
-
 अधिदैवं परिज्ञेयं कालवैश्वानरो महान् \।
 
 महत्त्वम् अधिभूतं च मनसो ऽथ निरुच्यते \।\।
@@ -18763,8 +14883,6 @@ MS.
 पौ. सं.
 
 ३३.१६५ \।\।
-
-
 
 अध्यात्मं तु अहङ्कारो नृवराहः प्रजापतिः \।
 
@@ -18774,8 +14892,6 @@ MS.
 
 ३३.१६६ \।\।
 
-
-
 पञ्चानाम् इन्द्रियाणां तु अध्यात्मं च मनः स्मृतम् \।
 
 कालात्मदैवतं विद्धि अधिभूतं सुखादिकम् \।\।
@@ -18783,8 +14899,6 @@ MS.
 पौ. सं.
 
 ३३.१६७ \।\।
-
-
 
 वागादीनां द्विजाध्यात्मं व्यूहंम् इन्द्रियकं तु यत् \।
 
@@ -18794,8 +14908,6 @@ MS.
 
 ३३.१६८ \।\।
 
-
-
 व्यापारम् अधिभूतं च अष्टयोन्यात्मकं हि यत् \।
 
 तन्मात्राणां सभूतानांम् अध्यात्मम् अमलेक्षण \।\।
@@ -18803,8 +14915,6 @@ MS.
 पौ. सं.
 
 ३३.१६९ \।\।
-
-
 
 सूसूक्ष्मं करणव्यूहम् अधिदैवं निबोधतु \।
 
@@ -18814,8 +14924,6 @@ MS.
 
 ३३.१७० \।\।
 
-
-
 बोद्धव्यंम् अधिभूतं च तत्त्वभूमिजयैषिणाम् \।
 
 उक्तम् अध्यात्मपूर्वं यत् त्रितयं योगसिद्धये \।\।
@@ -18824,8 +14932,6 @@ MS.
 
 ३३.१७१ \।\।
 
-
-
 प्रभावेन क्रमेणैव तत्पुनः चतुरानन \।
 
 आप्ययेन क्रमेणैव अभ्यस्तैः सर्वयोगिनाम् \।\।
@@ -18833,8 +14939,6 @@ MS.
 पौ. सं.
 
 ३३.१७२ \।\।
-
-
 
 आ (क्षितेः)
 
@@ -18846,43 +14950,19 @@ MS.
 
 ३३.१७३ \।\।
 
-
-
 भवेत् तत्त्वजयाद् भिन्नं फलं तत्त्वं फलर्थिनाम् \।
-
-
-
-
 
 इति श्रीपाञ्चरात्रे महोपनिषदि
 
-
-
 पौष्करसंहितायां तत्त्वसमाख्यानं नाम
-
-
 
 त्रयस्त्रिंऽध्यायः \।\।
 
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
 
 अथ चतुस्त्रिंशोध्यायः
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 क्षेत्रे वायतने दिव्ये तीर्थोद्देशेन संकुत्ने \।
 
@@ -18892,8 +14972,6 @@ MS.
 
 ३४.१ \।\।
 
-
-
 भूगृहे वा गिरेः शृङ्गे गुप्ते देवगृहान्तरे \।
 
 स्वास्थ्यं मत्वैकदेशे वा गोष्ठे द्विजपरिग्रहे \।\।
@@ -18901,8 +14979,6 @@ MS.
 पौ. सं.
 
 ३४.२ \।\।
-
-
 
 अर्धरात्राद् अतिक्रान्ते काले कमत्त्रसंभव \।
 
@@ -18912,8 +14988,6 @@ MS.
 
 ३४.३ \।\।
 
-
-
 तत्र श्र्रमजये त्त्रब्धे दत्त्वार्ध्यं मन्त्रमूर्धनि \।
 
 घण्टाशब्दसमोपेतं धूपं दत्त्वा महामते \।\।
@@ -18921,8 +14995,6 @@ MS.
 पौ. सं.
 
 ३४.४ \।\।
-
-
 
 स्तुत्वा प्रदक्षिणीकृत्य शुचिस्थाने तु सास्तरे \।
 
@@ -18932,8 +15004,6 @@ MS.
 
 ३४.५ \।\।
 
-
-
 निद्रां सन्त्यज्य वै ब्रह्मन् पावने शयने स्थितः \।
 
 ब्राह्मे मुहूर्ते चोत्थाय पञ्चाङ्गं स्नानम् आचरेत् \।\।
@@ -18941,8 +15011,6 @@ MS.
 पौ. सं.
 
 ३४.६ \।\।
-
-
 
 प्लवने वाप्सु मध्ये वा सन्ध्यां कृत्वा यथाविधि \।
 
@@ -18952,8 +15020,6 @@ MS.
 
 ३४.७ \।\।
 
-
-
 दर्शयित्वोपसंहृत्य मन्त्रं हृत्कमलोदरे \।
 
 प्रतिष्ठितं नित्य मन्त्रं विना स्थल जलात्मकान् \।\।
@@ -18961,8 +15027,6 @@ MS.
 पौ. सं.
 
 ३४.८ \।\।
-
-
 
 मन्त्रान् क्रियाङ्गसंरुद्धान् संहृत्य तदनन्तरम् \।
 
@@ -18972,8 +15036,6 @@ MS.
 
 ३४.९ \।\।
 
-
-
 पाणिना तोयपूर्णेन विष्वक्सेनाय चार्प्य च \।
 
 प्राग्वद् अभ्यसि निक्षिप्य समाहृत्य तदाखिलम् \।\।
@@ -18981,8 +15043,6 @@ MS.
 पौ. सं.
 
 ३४.१० \।\।
-
-
 
 स्वदेहादुपसंहारमन्त्राणामपि चाचरेत् \।
 
@@ -18992,8 +15052,6 @@ MS.
 
 ३४.११ \।\।
 
-
-
 भगवद्यागसिध्यर्थं शुद्धेन द्रविणेन च \।
 
 याचयित्वा च पात्रेभ्यो वैष्णवेभ्यो हि नान्यथा \।\।
@@ -19002,13 +15060,7 @@ MS.
 
 ३४.१२ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 अत्यर्थेन जगन्नाथ भूयोभूयः प्रशंससि \।
 
@@ -19018,8 +15070,6 @@ MS.
 
 ३४.१३ \।\।
 
-
-
 महत्तां ज्ञातुमिच्छामि प्रमाणं लक्षणं तथा \।
 
 यथावद् धूपघण्टाभ्यां धूपाग्नेर्धारकस्य च \।\।
@@ -19028,17 +15078,9 @@ MS.
 
 ३४.१४ \।\।
 
-
-
 स्वरूपं धूपधूमस्य लक्षणं प्रत्युदीर्यताम् \।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 शब्दब्रह्मैकदेहायाः लक्षणं कमलोद्भव \।
 
@@ -19047,8 +15089,6 @@ MS.
 पौ. सं.
 
 ३४.१५ \।\।
-
-
 
 सममर्धसमं ज्येष्ठम् आयाम(धम)
 
@@ -19060,8 +15100,6 @@ MS.
 
 ३४.१६ \।\।
 
-
-
 त्रिभागेन तदुच्छ्रायाद् द्वा दशांशान्वितेन तु \।
 
 प्रमाणेन तु विस्तारं त्रिविधं तु विधीयते \।\।
@@ -19069,8 +15107,6 @@ MS.
 पौ. सं.
 
 ३४.१७ \।\।
-
-
 
 कृत्वा सूत्रपरिच्छिन्नं प्राक्प्रत्यग्दक्षिणोत्तरम् \।
 
@@ -19080,8 +15116,6 @@ MS.
 
 ३४.१८ \।\।
 
-
-
 तिर्यगूर्ध्वगतैस्सूत्रै भङ्क्त्वा संपूर्यते ततः \।
 
 तत्र पञ्चोर्ध्वसूत्राणि दद्याद् एकादशानि च \।\।
@@ -19089,8 +15123,6 @@ MS.
 पौ. सं.
 
 ३४.१९ \।\।
-
-
 
 भुजाख्यानि च वै यानि विभागम् अथ मे शृणु \।
 
@@ -19100,8 +15132,6 @@ MS.
 
 ३४.२० \।\।
 
-
-
 तत्र चक्रं च कमलं सर्वदश्यं प्रकल्प्य च \।
 
 शङ्खं कमलसंभूतं मुक्ताहारादिकं क्रमात् \।\।
@@ -19109,8 +15139,6 @@ MS.
 पौ. सं.
 
 ३४.२१ \।\।
-
-
 
 वलयत्रितयान्तस्थं मुक्ताहारं सुवर्तुलम् \।
 
@@ -19120,8 +15148,6 @@ MS.
 
 ३४.२२ \।\।
 
-
-
 शिष्टेनांशेन महता भागार्धेन तदूर्ध्वतः \।
 
 नाभिक्षेत्रान्वितं चक्रं द्वादशारं विधीयते \।\।
@@ -19129,8 +15155,6 @@ MS.
 पौ. सं.
 
 ३४.२३ \।\।
-
-
 
 केवलं कर्तरीभिर्वा मिश्रं क्ष्मामिश्रितैर्वशात् \।
 
@@ -19140,8 +15164,6 @@ MS.
 
 ३४.२४ \।\।
 
-
-
 सांशेनाथोर्ध्वभागेन कर्णिकाकेसरान्वितम् \।
 
 चतुर्विंशद्दलं पद्मम् आपाद्य कमलोद्भव \।\।
@@ -19149,8 +15171,6 @@ MS.
 पौ. सं.
 
 ३४.२५ \।\।
-
-
 
 चक्रनाभेर्दलाग्राणां वर्जयित्वान्तरं धिया \।
 
@@ -19160,8 +15180,6 @@ MS.
 
 ३४.२६ \।\।
 
-
-
 दलमध्यनिविष्टं व किञ्जल्कनिचयं शुभम् \।
 
 कुर्याद् वा कर्णिकालग्नम् उच्छ्रितं च सुसंहतम् \।\।
@@ -19169,8 +15187,6 @@ MS.
 पौ. सं.
 
 ३४.२७ \।\।
-
-
 
 ऊर्ध्वे मार्गद्वयेनाथ भागेन शुभलक्षणम् \।
 
@@ -19180,8 +15196,6 @@ MS.
 
 ३४.२८ \।\।
 
-
-
 भुवनावत्त्रियोगेन वलीभूतेन भूषितम् \।
 
 ओङ्कारावर्तरूपेण कुम्भं तस्यांशसंमितम् \।\।
@@ -19189,8 +15203,6 @@ MS.
 पौ. सं.
 
 ३४.२९ \।\।
-
-
 
 कुम्भोपर्यथ चार्धेन भागेन तु शनैः शनैः \।
 
@@ -19200,8 +15212,6 @@ MS.
 
 ३४.३० \।\।
 
-
-
 शङ्खकुम्भावधेर्विप्र शातनीयं च दिग्द्वयात् \।
 
 मत्स्यवल्लाञ्छनं चैव अर्धम् अर्धं पदद्वयात् \।\।
@@ -19209,8 +15219,6 @@ MS.
 पौ. सं.
 
 ३४.३१ \।\।
-
-
 
 चतुरंशार्धविस्तीर्णा प्रथमा भुवनावली \।
 
@@ -19220,8 +15228,6 @@ MS.
 
 ३४.३२ \।\।
 
-
-
 आ अग्रात् स्वधिया त्वीषदूर्ध्वान्तं कमलोद्भव \।
 
 अनुपातवशान्मध्यं क्षामं क्षेत्रं विधीयते \।\।
@@ -19229,8 +15235,6 @@ MS.
 पौ. सं.
 
 ३४.३३ \।\।
-
-
 
 शङ्खोपरि यथा कार्यं तथा तदवधारय \।
 
@@ -19240,8 +15244,6 @@ MS.
 
 ३४.३४ \।\।
 
-
-
 विस्तारं सार्धभागेन गदायां विहितं तु वै \।
 
 मुष्टिसंज्ञं तु यत्पीठं कुर्याद् भागोन्नतं द्विज \।\।
@@ -19249,8 +15251,6 @@ MS.
 पौ. सं.
 
 ३४.३५ \।\।
-
-
 
 चतुरश्रं तु वा श्लक्षणं चित्रकर्मविभूषितम् \।
 
@@ -19260,8 +15260,6 @@ MS.
 
 ३४.३६ \।\।
 
-
-
 तुल्यरूपं हि वा ब्रह्मन् करग्राहं च तत्र यत् \।
 
 तत्त्वष्टाग्रं (श्रं)तु वा वृत्तं सामान्यं सर्वतः स्मृतम् \।\।
@@ -19269,8 +15267,6 @@ MS.
 पौ. सं.
 
 ३४.३७ \।\।
-
-
 
 मुष्टेरूर्ध्वगतं कुर्याद् गदास्तम्भं च पूर्ववत् \।
 
@@ -19280,8 +15276,6 @@ MS.
 
 ३४.३८ \।\।
 
-
-
 मुक्तावलिगणोपेतं तीक्ष्णाश्रं(ग्रं)चतुरश्रकम् \।
 
 वलयाकृतिरूपेण युक्तं तारागणेन च \।\।
@@ -19289,8 +15283,6 @@ MS.
 पौ. सं.
 
 ३४.३९ \।\।
-
-
 
 शुक्तिवृन्दसमेतेन वर्तुलं वा समाप्य च \।
 
@@ -19300,8 +15292,6 @@ MS.
 
 ३४.४० \।\।
 
-
-
 अष्टाश्रं च सुवृत्तं वा स्वप्रमाणेन लक्षितम् \।
 
 कुर्याद् एवं गदास्तम्भम् अथ तन्मस्तकोपरि \।\।
@@ -19309,8 +15299,6 @@ MS.
 पौ. सं.
 
 ३४.४१ \।\।
-
-
 
 भागद्वयोन्नतं कुर्याद् द्विभुजं वा चतुर्भुजम् \।
 
@@ -19320,8 +15308,6 @@ MS.
 
 ३४.४२ \।\।
 
-
-
 तत्पक्षविस्तृतं कुर्याच्चतुर्भागसमं द्विज \।
 
 त्रिभागविततं चाथ पुच्छपक्षद्वयं हि तत् \।\।
@@ -19329,8 +15315,6 @@ MS.
 पौ. सं.
 
 ३४.४३ \।\।
-
-
 
 तत्समं विततं चैव मुख्यपाणियुगं तु वै \।
 
@@ -19340,8 +15324,6 @@ MS.
 
 ३४.४४ \।\।
 
-
-
 पक्षवत्प्रसृतं स्वस्थं वेदाध्ययनचिह्नितम् \।
 
 मन्त्रजातरतं चैव विधेयं वा सविस्तरम् \।\।
@@ -19349,8 +15331,6 @@ MS.
 पौ. सं.
 
 ३४.४५ \।\।
-
-
 
 प्रस्तार्यं विधिनानेन स्वयं क्षितितत्त्रे ततः \।
 
@@ -19360,8 +15340,6 @@ MS.
 
 ३४.४६ \।\।
 
-
-
 न्यूनत्वम् अतिरिक्तं वा अतो हेतोस्तदग्रतः \।
 
 पूरयेद्घृदयेनैव स्वधिया कर्मणा स्वयम् \।\।
@@ -19369,8 +15347,6 @@ MS.
 पौ. सं.
 
 ३४.४७ \।\।
-
-
 
 चलन्तं गर्भमानेन तीक्ष्णलोहेन निर्मितम् \।
 
@@ -19380,8 +15356,6 @@ MS.
 
 ३४.४८ \।\।
 
-
-
 एतावद् आद्यं विहितं निर्माणं तैजसं महत् \।
 
 व्यक्तं यत्राश्रितं कात्त्रं नाभिस्थं कमलोद्भव \।\।
@@ -19389,8 +15363,6 @@ MS.
 पौ. सं.
 
 ३४.४९ \।\।
-
-
 
 तत्र चाक्रमरावृन्दं स्वकं द्वादशकं स्मृतम् \।
 
@@ -19400,8 +15372,6 @@ MS.
 
 ३४.५० \।\।
 
-
-
 वर्णानां त्रिविधं रूपं सर्वेषां कमलोद्भव \।
 
 संस्थितं वैखरीनिष्ठं पश्यन्ती पूर्वमब्जज \।\।
@@ -19409,8 +15379,6 @@ MS.
 पौ. सं.
 
 ३४.५१ \।\।
-
-
 
 अराश्रितद्विषट्कारे वाक्स्वरूपं परं हि यत् \।
 
@@ -19420,8 +15388,6 @@ MS.
 
 ३४.५२ \।\।
 
-
-
 मध्यमाख्यस्वरूपेण नित्यमेव हि वर्तते \।
 
 अत ऊर्ध्वं चतुर्विंशत्संख्यं वर्णगुणं हि यत् \।\।
@@ -19429,8 +15395,6 @@ MS.
 पौ. सं.
 
 ३४.५३ \।\।
-
-
 
 दलजालं हि यत्पद्मं परिज्ञेयं महामते \।
 
@@ -19440,8 +15404,6 @@ MS.
 
 ३४.५४ \।\।
 
-
-
 शङ्खं यकारवर्णं समुष्टीके गदाग्रहे \।
 
 रादयःसप्त ये वर्णा हान्ताः पर्वगदात्मकाः \।\।
@@ -19449,8 +15411,6 @@ MS.
 पौ. सं.
 
 ३४.५५ \।\।
-
-
 
 क्षान्तं पतत्रिराङ्विद्धि एवं कमलसंभव \।
 
@@ -19460,8 +15420,6 @@ MS.
 
 ३४.५६ \।\।
 
-
-
 विज्ञेया भगवच्छक्तिः षाङ्गुण्यान्तर्गता हि सा \।
 
 तेजोगणसमोपेता तेजस्तद् द्रव्यरूपधृक् \।\।
@@ -19469,8 +15427,6 @@ MS.
 पौ. सं.
 
 ३४.५७ \।\।
-
-
 
 घण्टाख्यमेत द्वै विद्धि अध्यक्षीयं गुणद्वयम् \।
 
@@ -19480,8 +15436,6 @@ MS.
 
 ३४.५८ \।\।
 
-
-
 नित्योदितमनौपम्यं मनसा (स्या)दगोचरम् \।
 
 उपदेष्टुम् अतो ऽन्येषाम् अभक्तानां न युज्यते \।\।
@@ -19489,8 +15443,6 @@ MS.
 पौ. सं.
 
 ३४.५९ \।\।
-
-
 
 परस्वरूपमन्त्राणाम् एतल्लक्षणम् अब्जज \।
 
@@ -19500,8 +15452,6 @@ MS.
 
 ३४.६० \।\।
 
-
-
 नानामन्त्रस्वरूपे च वर्तते वर्णविग्रहे \।
 
 भोगमोक्षप्रदे मन्त्रे य आप्तः सद्गुरोर्मुखात् \।\।
@@ -19509,8 +15459,6 @@ MS.
 पौ. सं.
 
 ३४.६१ \।\।
-
-
 
 पञ्चस्थानगतं ज्ञेयं भक्तैर्दिव्यक्रियापरैः \।
 
@@ -19520,8 +15468,6 @@ MS.
 
 ३४.६२ \।\।
 
-
-
 धूपधूमशिखायां च घण्टाशब्दे सुलक्षणे \।
 
 स्वरूपं ज्योतिरेषां तत् भासयत्संस्थितं हृदि \।\।
@@ -19529,8 +15475,6 @@ MS.
 पौ. सं.
 
 ३४.६३ \।\।
-
-
 
 मध्यमेन स्वरूपेण अभ्युच्छिन्नं महामते \।
 
@@ -19540,8 +15484,6 @@ MS.
 
 ३४.६४ \।\।
 
-
-
 घण्टायां चाल्यमानायाम् अच्छिन्नम् अनुभूतये(यते) \।
 
 अस्याम् आश्रित्य ये संस्था ज्ञातव्यास्तु सदैव हि \।\।
@@ -19549,8 +15491,6 @@ MS.
 पौ. सं.
 
 ३४.६५ \।\।
-
-
 
 नित्यम् अर्चनकाले तु साधकैः सिद्धिलालसैः \।
 
@@ -19560,8 +15500,6 @@ MS.
 
 ३४.६६ \।\।
 
-
-
 मुक्ताहाराश्रितं शङ्खं घण्टाया वदने स्थितम् \।
 
 संस्थितं च महाबुद्धे तदूर्ध्वे गगनाश्रितम् \।\।
@@ -19569,8 +15507,6 @@ MS.
 पौ. सं.
 
 ३४.६७ \।\।
-
-
 
 चक्रं यस्मिन्नरोद्देशे द्वादशात्मा स्थितो रविः \।
 
@@ -19580,8 +15516,6 @@ MS.
 
 ३४.६८ \।\।
 
-
-
 षोडशात्मकलात्मा वै कलादेहस्तु चन्द्रमाः \।
 
 सर्वेषु वृत्तक्षेत्रेषु वरुणः स्वयमेव हि \।\।
@@ -19589,8 +15523,6 @@ MS.
 पौ. सं.
 
 ३४.६९ \।\।
-
-
 
 तत्त्वसंवलिताव्यक्तपद्मपत्राश्रितस्तु वै \।
 
@@ -19600,8 +15532,6 @@ MS.
 
 ३४.७० \।\।
 
-
-
 शङ्खाहितश्च प्रणवो विद्यां विद्धि गदाश्रितम् \।
 
 प्राणाधिदैवं गरुडम् इत्येवं देवतागणम् \।\।
@@ -19609,8 +15539,6 @@ MS.
 पौ. सं.
 
 ३४.७१ \।\।
-
-
 
 ध्यात्वाभ्यर्च्य पुरार्ध्यायैः धूपयित्वा यथाविधि \।
 
@@ -19620,8 +15548,6 @@ MS.
 
 ३४.७२ \।\।
 
-
-
 संचालनीया वैधेषु तानि मे गदतः गृणु \।
 
 गणेशपीठमध्यस्थदेवानाम् अर्चने ततः \।\।
@@ -19629,8 +15555,6 @@ MS.
 पौ. सं.
 
 ३४.७३ \।\।
-
-
 
 आहुतीकालमन्त्राणां धूपदाने विशेषतः \।
 
@@ -19640,8 +15564,6 @@ MS.
 
 ३४.७४ \।\।
 
-
-
 पूर्णाहुतिप्रदाने च मन्त्राणां च विसर्जने \।
 
 विष्वकसेनार्चनाकाले तत्पूजाप्रतिपादने \।\।
@@ -19649,8 +15571,6 @@ MS.
 पौ. सं.
 
 ३४.७५ \।\।
-
-
 
 नातो ऽन्यथा स्यात् विहितं चालनं सिद्धिमिच्छता \।
 
@@ -19660,8 +15580,6 @@ MS.
 
 ३४.७६ \।\।
 
-
-
 यथावद् अरविन्दोत्थ मुख्यम् इत्युदिनं स्फुटम् \।
 
 मुख्याभासानि चान्यानि रूपाण्यस्य निबोधमे \।\।
@@ -19669,8 +15587,6 @@ MS.
 पौ. सं.
 
 ३४.७७ \।\।
-
-
 
 यथोक्तं त्रिविधं मानं विस्तारायाम् असंज्ञितम् \।
 
@@ -19680,8 +15596,6 @@ MS.
 
 ३४.७८ \।\।
 
-
-
 संचाल्याभिमतेनैव योग्यस्थानाश्रितेन च \।
 
 पादनीरचनां विप्र सर्वासां च विधीयते \।\।
@@ -19689,8 +15603,6 @@ MS.
 पौ. सं.
 
 ३४.७९ \।\।
-
-
 
 पद्मं कुर्यात् तदूर्ध्वे तु प्रफुल्लं चोर्ध्वकर्णिकम् \।
 
@@ -19700,8 +15612,6 @@ MS.
 
 ३४.८० \।\।
 
-
-
 तत्कर्णिकाश्रितं कुर्यात् शङ्खाद्यं त्रितयं हि यत् \।
 
 वक्त्रसूत्रसमीपे तु चक्रं वा केवलं द्विज \।\।
@@ -19709,8 +15619,6 @@ MS.
 पौ. सं.
 
 ३४.८१ \।\।
-
-
 
 कृत्वा पद्मान्वितं पश्चात् शखं पूर्वं हि तत् त्रयम् \।
 
@@ -19720,8 +15628,6 @@ MS.
 
 ३४.८२ \।\।
 
-
-
 विमुक्तचक्रपद्मस्य क्षेत्रस्योपरि पद्मज \।
 
 शङ्खं गदां खगेन्द्रं च संपाद्य चतुरानन \।\।
@@ -19729,8 +15635,6 @@ MS.
 पौ. सं.
 
 ३४.८३ \।\।
-
-
 
 कवाटोपरि पद्मं तु दीर्घच्छदम् अधोमुखम् \।
 
@@ -19740,8 +15644,6 @@ MS.
 
 ३४.८४ \।\।
 
-
-
 समानेन सभूमेर्वै शङ्खं कृत्वा यथोदितम् \।
 
 गदा कार्या तदूर्ध्वे तु पन्नागारिसमन्विता \।\।
@@ -19749,8 +15651,6 @@ MS.
 पौ. सं.
 
 ३४.८५ \।\।
-
-
 
 कुर्याद् वा गरुडोद्देशे ऊर्ध्ववक्त्रं च हेतिकम् \।
 
@@ -19760,8 +15660,6 @@ MS.
 
 ३४.८६ \।\।
 
-
-
 शङ्खं च दक्षिणावर्तं वलित्रितयभूषितम् \।
 
 एकैकम् एवम् आपाद्य शङ्खचक्राम्बुजोज्झिते \।\।
@@ -19769,8 +15667,6 @@ MS.
 पौ. सं.
 
 ३४.८७ \।\।
-
-
 
 सुश्लक्ष्णवर्तुले क्षेत्रे मुक्तातारगणानने \।
 
@@ -19780,8 +15676,6 @@ MS.
 
 ३४.८८ \।\।
 
-
-
 लाञ्छितेनान्विता विप्र विघ्नविद्राविणी हि सा \।
 
 अतः सलाञ्छना कार्या नूनं भर्तृफलाप्तये \।\।
@@ -19790,31 +15684,13 @@ MS.
 
 ३४.८९ \।\।
 
-
-
 इति श्रीपाञ्चरात्रे महोपनिषदि पौष्करसंहितायां धूपघण्टालक्षणं नाम चतुस्त्रिंशोध्यायः \।\।
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
 अथ पञ्चत्रिंशोध्यायः
 
-
-
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 इत्युक्तं धूपघण्टाया लक्षणं लक्ष्मिवर्धनम् \।
 
@@ -19824,8 +15700,6 @@ MS.
 
 ३५.१ \।\।
 
-
-
 सन्निधिं भजते शश्वन्मन्त्र आराधकस्य च \।
 
 अथाङ्गुलैः स्वकैः कुर्याद् अध्वमानमयैस्तु वा \।\।
@@ -19833,8 +15707,6 @@ MS.
 पौ. सं.
 
 ३५.२ \।\।
-
-
 
 चतुर्विशतिभिर्ब्रह्मन् धूपं दाहकम् उत्तमम् \।
 
@@ -19844,8 +15716,6 @@ MS.
 
 ३५.३ \।\।
 
-
-
 स्वचतुर्थांशमानेन तद्वक्त्रम् अनलाश्त्रेयम् \।
 
 चतुरश्रं समापाद्य वृत्तं वाष्टाश्रम् अब्जज \।\।
@@ -19853,8 +15723,6 @@ MS.
 पौ. सं.
 
 ३५.४ \।\।
-
-
 
 अस्याष्टाश्रस्य वै मध्ये कुर्याच्चक्रं तु साम्बुजम् \।
 
@@ -19864,8 +15732,6 @@ MS.
 
 ३५.५ \।\।
 
-
-
 युक्तमुष्णीषपट्टेन निष्ठोद्देशात्तु कम्बुना \।
 
 चतुरश्रस्य वृत्तस्य तच्चक्रस्याथ मे शृणु \।\।
@@ -19873,8 +15739,6 @@ MS.
 पौ. सं.
 
 ३५.६ \।\।
-
-
 
 लक्षणं हि यथावस्थं सविशेषं महामते \।
 
@@ -19884,8 +15748,6 @@ MS.
 
 ३५.७ \।\।
 
-
-
 तदन्तरे ऽब्जम् अब्जोत्थनलिनीनालराजितम् \।
 
 केवलं तु सचक्रं वा विधिवद् भोगभाजितम् \।\।
@@ -19893,8 +15755,6 @@ MS.
 पौ. सं.
 
 ३५.८ \।\।
-
-
 
 आमध्याद् अष्टधा तं वै कृत्वा वै सुसमैः पुरा \।
 
@@ -19904,8 +15764,6 @@ MS.
 
 ३५.९ \।\।
 
-
-
 भ्रमन्तं कर्णिकाखातं निम्नतां च नयेद् द्विज \।
 
 तन्मानं गोलकार्धेन जानीयान्मुद्रितं यथा \।\।
@@ -19913,8 +15771,6 @@ MS.
 पौ. सं.
 
 ३५.१० \।\।
-
-
 
 तृतीयांशेन षड्भागात् परितः कर्णिकोच्छ्रितिः \।
 
@@ -19924,8 +15780,6 @@ MS.
 
 ३५.११ \।\।
 
-
-
 सप्तमांशात्तु यच्छिष्टं बहिः केसरसन्ततेः \।
 
 भागद्वयं तु वै येन दलजालं समाप्य च \।\।
@@ -19933,8 +15787,6 @@ MS.
 पौ. सं.
 
 ३५.१२ \।\।
-
-
 
 यथाभिमतसंख्यं च एवं भागेन तद्बहिः \।
 
@@ -19944,8 +15796,6 @@ MS.
 
 ३५.१३ \।\।
 
-
-
 अष्टमांशाच्चतुर्थांशं भागम् आदाय वै द्विज \।
 
 क्षेत्रस्य चोक्तमानस्य वेद्यर्थम् अनुयोज्य च \।\।
@@ -19953,8 +15803,6 @@ MS.
 पौ. सं.
 
 ३५.१४ \।\।
-
-
 
 वेद्याः कोणचतुष्के तु (च)कुर्याच्छङ्खचतुष्टयम् \।
 
@@ -19964,8 +15812,6 @@ MS.
 
 ३५.१५ \।\।
 
-
-
 स्थितिर्नैषा च विहिता वृत्तक्षेत्रस्य पद्मज \।
 
 पद्मपृष्ठाद् विनिष्क्रान्तं यथाभिमतवर्तुलम् \।\।
@@ -19973,8 +15819,6 @@ MS.
 पौ. सं.
 
 ३५.१६ \।\।
-
-
 
 वेदिकावनिपर्यन्तं चक्रनेम्यवधिं तु वा \।
 
@@ -19984,8 +15828,6 @@ MS.
 
 ३५.१७ \।\।
 
-
-
 वेदिसंधारणार्थं तु प्रोच्छ्रितं पङ्कजद्वयम् \।
 
 तन्मध्ये लक्षणोपेतं स्थितं पद्मासनादिना \।\।
@@ -19993,8 +15835,6 @@ MS.
 पौ. सं.
 
 ३५.१८ \।\।
-
-
 
 कुर्याद् आग्नेयम् आकारं तत्पादयुगलं तु वै \।
 
@@ -20004,8 +15844,6 @@ MS.
 
 ३५.१९ \।\।
 
-
-
 नालावसाने संपाद्य कर्णिकाकमले द्विज \।
 
 अर्धप्रकुल्लै रचितैः पद्मपत्रैस्तथागतैः \।\।
@@ -20013,8 +15851,6 @@ MS.
 पौ. सं.
 
 ३५.२० \।\।
-
-
 
 तन्मूले साधिका कुर्यात् तद्विस्तारां महामते \।
 
@@ -20024,8 +15860,6 @@ MS.
 
 ३५.२१ \।\।
 
-
-
 पृष्ठदेशे ऽथ पद्मस्य मरुत्क्षेत्रं सबिन्दुकम् \।
 
 कुर्याद् आधारभूतं च क्ष्माक्षेत्रस्योन्नतेः समम् \।\।
@@ -20033,8 +15867,6 @@ MS.
 पौ. सं.
 
 ३५.२२ \।\।
-
-
 
 सार्धं क्ष्माव्यासविस्तारं तत्समं द्विगुणं तु वा \।
 
@@ -20044,8 +15876,6 @@ MS.
 
 ३५.२३ \।\।
 
-
-
 आद्यं वा किङ्किणीजालं विघ्नविद्रावणं परम् \।
 
 इत्येवं सविशेषं हि लक्षणं समुदाहृतम् \।\।
@@ -20053,8 +15883,6 @@ MS.
 पौ. सं.
 
 ३५.२४ \।\।
-
-
 
 मान्त्रस्य धूपमात्रस्य सामान्यम् अथ मे शृणु \।
 
@@ -20064,8 +15892,6 @@ MS.
 
 ३५.२५ \।\।
 
-
-
 अष्टपत्रं समापाद्य व्योमक्तृविभूषितम् \।
 
 मुक्तासूत्रान्वितं वाथ एवमेव सवेदिकम् \।\।
@@ -20073,8 +15899,6 @@ MS.
 पौ. सं.
 
 ३५.२६ \।\।
-
-
 
 अन्तरा द्वादशारेण साम्बुजेनाथ वा\[हितम्\] \।
 
@@ -20084,8 +15908,6 @@ MS.
 
 ३५.२७ \।\।
 
-
-
 प्रफुल्लपत्रस्थाने तु उष्णीषांशुकभूषितम् \।
 
 वक्त्रविश्रामभूतं च आधारवलयान्वितम् \।\।
@@ -20093,8 +15915,6 @@ MS.
 पौ. सं.
 
 ३५.२८ \।\।
-
-
 
 शुद्धं सुश्लक्ष्णनालं च नलिनीरचनोज्झितम् \।
 
@@ -20104,8 +15924,6 @@ MS.
 
 ३५.२९ \।\।
 
-
-
 सर्वलोहैः स्वशक्त्या तु कृतं यच्छति वै सुखम् \।
 
 मन्त्रिणां सूगहस्थानां भक्तानां कमलोद्भव \।\।
@@ -20113,8 +15931,6 @@ MS.
 पौ. सं.
 
 ३५.३० \।\।
-
-
 
 वक्ष्ये समुद्गराख्यस्य लक्षणं तं निबोधतु \।
 
@@ -20124,8 +15940,6 @@ MS.
 
 ३५.३१ \।\।
 
-
-
 सुसमं प्राक्समापाद्य समुद्गकमिवाब्जज \।
 
 सनालं च तयोरेकम् उपरिष्टाच्च मध्यतः \।\।
@@ -20133,8 +15947,6 @@ MS.
 पौ. सं.
 
 ३५.३२ \।\।
-
-
 
 प्रकुल्लकमलेनैव अधोवक्त्रेण पद्मज \।
 
@@ -20144,8 +15956,6 @@ MS.
 
 ३५.३३ \।\।
 
-
-
 सच्छिद्रं बीजसङ्घेन युक्तम् ऊर्ध्वस्थितं हि यत \।
 
 नालम् आपाद्य मूलाद्वै विनतेन गजाङ्घ्रिणा \।\।
@@ -20153,8 +15963,6 @@ MS.
 पौ. सं.
 
 ३५.३४ \।\।
-
-
 
 नालदेशगलाद् द्वाभ्यां स्थित्यर्थं विनियोज्य च \।
 
@@ -20164,8 +15972,6 @@ MS.
 
 ३५.३५ \।\।
 
-
-
 प्रोत्थितानाम् इदानीं वै लक्ष्म शृणु यथागतम् \।
 
 प्रागायामाच्चतुर्थांशं वैतत्येन महामते \।\।
@@ -20173,8 +15979,6 @@ MS.
 पौ. सं.
 
 ३५.३६ \।\।
-
-
 
 चतुरश्रायतं क्षेत्रं निक्षिप्य वसुधातले \।
 
@@ -20184,8 +15988,6 @@ MS.
 
 ३५.३७ \।\।
 
-
-
 चतुर्धा विस्तृतेश्चैव कुर्यात्तदनु पद्मज \।
 
 अष्टभागोन्नतं पीठं प्रागुक्तरचनान्वितम् \।\।
@@ -20193,8 +15995,6 @@ MS.
 पौ. सं.
 
 ३५.३८ \।\।
-
-
 
 पादाद्युष्णीषपर्यन्तं यथाविस्तारविस्तृतम् \।
 
@@ -20204,8 +16004,6 @@ MS.
 
 ३५.३९ \।\।
 
-
-
 कमलं पीठमध्ये तु कुर्याद् द्वितयकर्णिकम् \।
 
 अष्टपत्रं सकिञ्जल्कं व्योमवृत्तविभूषितम् \।\।
@@ -20213,8 +16011,6 @@ MS.
 पौ. सं.
 
 ३५.४० \।\।
-
-
 
 विस्ताराच्चार्धभागेन पृथुलं चोन्नतेः पुनः \।
 
@@ -20224,8 +16020,6 @@ MS.
 
 ३५.४१ \।\।
 
-
-
 चतुस्श्रं तु वा रम्यं तदेव रचनान्वितम् \।
 
 स्तम्भम् आपाद्यम् एवं हि यथाभिमतम् अब्जज \।\।
@@ -20233,8 +16027,6 @@ MS.
 पौ. सं.
 
 ३५.४२ \।\।
-
-
 
 येभ्यो यद्वर्तुलं तद्वै विचित्ररचनान्वितम् \।
 
@@ -20244,8 +16036,6 @@ MS.
 
 ३५.४३ \।\।
 
-
-
 पीठतुल्यं तु विस्ताराद्द्वादशारविभूषितम् \।
 
 नाभिनेमिप्रथीयुक्तं मुक्ताहाराद्यलंकृतम् \।\।
@@ -20253,8 +16043,6 @@ MS.
 पौ. सं.
 
 ३५.४४ \।\।
-
-
 
 प्राग्वत् सकिङ्किणीकं च चक्रम् आपाद्य पद्मज \।
 
@@ -20264,8 +16052,6 @@ MS.
 
 ३५.४५ \।\।
 
-
-
 अग्रात् पीठसमं चैव बाहुल्याच्चक्रसंमितम् \।
 
 विस्ताराद् अर्धभागेन अष्टोद्देशाच्च संकटम् \।\।
@@ -20273,8 +16059,6 @@ MS.
 पौ. सं.
 
 ३५.४६ \।\।
-
-
 
 क्रमशश्चानुपातेन तद्विस्तारं विधीयते \।
 
@@ -20284,8 +16068,6 @@ MS.
 
 ३५.४७ \।\।
 
-
-
 सदाश्रवं सदाकालं विभोरर्चनकर्मणि \।
 
 जलजैः स्थलजैश्चैव प्राणिभिर् नाकजैस्ततैः \।\।
@@ -20293,8 +16075,6 @@ MS.
 पौ. सं.
 
 ३५.४८ \।\।
-
-
 
 पत्रवल्लीवितानैश्च सशङ्खैः स्वस्तिकैः कजैः \।
 
@@ -20304,8 +16084,6 @@ MS.
 
 ३५.४९ \।\।
 
-
-
 देवाङ्गनासमेतैश्च दिक्षु वेशो भवेद्बहिः \।
 
 एतत् प्रासादयुक्तस्य वृत्तपीठाननस्य च \।\।
@@ -20313,8 +16091,6 @@ MS.
 पौ. सं.
 
 ३५.५० \।\।
-
-
 
 यथावद् उपदेक्ष्यामि सन्निवेशमतोब्जज \।
 
@@ -20324,8 +16100,6 @@ MS.
 
 ३५.५१ \।\।
 
-
-
 पद्ममानोन्नोतं कुर्याद् आसनोपरि पद्मज \।
 
 स्तम्भाधारं विचित्रं च द्विव्यम् आमलसारकम् \।\।
@@ -20333,8 +16107,6 @@ MS.
 पौ. सं.
 
 ३५.५२ \।\।
-
-
 
 रचनारचितं स्तम्भं रक्तपूर्वम् अथोच्छ्रितम् \।
 
@@ -20344,8 +16116,6 @@ MS.
 
 ३५.५३ \।\।
 
-
-
 चक्रवत् कमलं कुर्चात् सकिञ्जल्कं द्विषट्पदम् \।
 
 विस्तीर्णकर्णिकं विप्र प्राग्वद् वक्त्रं तदूर्ध्वगम् \।\।
@@ -20353,8 +16123,6 @@ MS.
 पौ. सं.
 
 ३५.५४ \।\।
-
-
 
 यथोक्तरचनोपेतं परितः किन्तु वर्तुलम् \।
 
@@ -20364,8 +16132,6 @@ MS.
 
 ३५.५५ \।\।
 
-
-
 एभ्यश्चोक्तम् अथैकं वै सविधानं तदब्जज \।
 
 जलजस्थलजा यात्म्यरचना(व्योम्य )रचिता मया \।\।
@@ -20373,8 +16139,6 @@ MS.
 पौ. सं.
 
 ३५.५६ \।\।
-
-
 
 समभ्यूह्य च सा कार्या सर्वेषां सर्वदाब्जज \।
 
@@ -20384,8 +16148,6 @@ MS.
 
 ३५.५७ \।\।
 
-
-
 इदमुक्तं समासेन लक्षणं च सविस्तृतम् \।
 
 धूपदाहक्रियाङ्गस्य नानाकृतिधरस्य च \।\।
@@ -20393,8 +16155,6 @@ MS.
 पौ. सं.
 
 ३५.५८ \।\।
-
-
 
 संपाद्यैवं च संस्कृत्य नीत्वा सत्यन्तता पुनः \।
 
@@ -20404,8 +16164,6 @@ MS.
 
 ३५.५९ \।\।
 
-
-
 मूलतः स्वस्तिकास्थाने क्ष्मातत्त्वं पञ्चलक्षणम् \।
 
 सलिलं कमलं विद्धि चक्रम् अग्निं महत्प्रभम् \।\।
@@ -20413,8 +16171,6 @@ MS.
 पौ. सं.
 
 ३५.६० \।\।
-
-
 
 किङ्किणीजालमनिलम् आकाशं कर्णिकोदरे \।
 
@@ -20424,8 +16180,6 @@ MS.
 
 ३५.६१ \।\।
 
-
-
 प्राक् प्रोक्तं भावनीयं च सिद्धये ऽखिलकर्मणाम् \।
 
 चक्रस्य सकलं रूपं नाभ्यरानेमिसप्रधि \।\।
@@ -20433,8 +16187,6 @@ MS.
 पौ. सं.
 
 ३५.६२ \।\।
-
-
 
 निष्कलं हि सुवृत्तं यत् व्योमवृत्तेति गीयते \।
 
@@ -20444,8 +16196,6 @@ MS.
 
 ३५.६३ \।\।
 
-
-
 संस्कृत्य च यथान्यायं स्ववंशस्य च कीर्तयेत् \।
 
 स्वनामचिह्नितं कृत्वा प्रतिपाद्य महामते \।\।
@@ -20453,8 +16203,6 @@ MS.
 पौ. सं.
 
 ३५.६४ \।\।
-
-
 
 हरेरायतने दिव्ये सुरसिद्धनिषेविते \।
 
@@ -20464,8 +16212,6 @@ MS.
 
 ३५.६५ \।\।
 
-
-
 वादयेत् सुस्वनां घण्टां भेरीशब्दादिकैर्युताम् \।
 
 स्तोत्रेः प्रदक्षिणीकुर्याद् बहुधा दिव्यम् आलयम् \।\।
@@ -20473,8 +16219,6 @@ MS.
 पौ. सं.
 
 ३५.६६ \।\।
-
-
 
 सिद्धसंघं च तत्रस्थं शब्दब्रह्मैकम् आसनम् \।
 
@@ -20484,8 +16228,6 @@ MS.
 
 ३५.६७ \।\।
 
-
-
 कस्येदम् अचिराद्याति अमिव्यक्तिम् अनाहतम् \।
 
 भव्यानाम् उपदेशार्थं येनेदं व्यञ्जितं बहिः \।\।
@@ -20494,45 +16236,19 @@ MS.
 
 ३५.६८ \।\।
 
-
-
-
-
-
-
 इति श्रीपाञ्चरात्रे महोपनिषदि
-
-
 
 पौष्करसंहितायां धूपाधारलक्षणो नाम
 
-
-
 पञ्चत्रिंशो ऽध्यायः \।\।
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
 ॐ
-
-
-
-
 
 अथ षट्त्रिंशो ऽध्यायः \।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 भगवन् ज्ञातुम् इच्छामि त्वया यत् समुदीरितम् \।
 
@@ -20542,8 +16258,6 @@ MS.
 
 ३६.१ \।\।
 
-
-
 यद् यद् आयतनं दिव्यं सिध्दायतनम् एव च \।
 
 नृणाम् उपायभूतं यद् अज्ञानां ज्ञानिनाम् अपि \।\।
@@ -20551,8 +16265,6 @@ MS.
 पौ. सं.
 
 ३६.२ \।\।
-
-
 
 यत्राराधनपूर्वं हि मान्त्रम् अभ्येति मन्त्रिणाम् \।
 
@@ -20562,8 +16274,6 @@ MS.
 
 ३६.३ \।\।
 
-
-
 निर्विघ्नेन भवत्याशु स्नातकब्रह्मचारिणाम् \।
 
 यतीनां मुक्तसङ्गानां विरतानां गृहाश्रमात् \।\।
@@ -20572,13 +16282,7 @@ MS.
 
 ३६.४ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 आक्षितेर् भेदभिन्नं वै मायामयम् इदं जगत् \।
 
@@ -20588,8 +16292,6 @@ MS.
 
 ३६.५ \।\।
 
-
-
 नानाविभवरूपैस्तु व्याप्तव्यूहात्मपूर्वकैः \।
 
 नित्यनिर्मलषाड्गुण्यविग्रहैस्तैः स्वयं पुनः \।\।
@@ -20597,8 +16299,6 @@ MS.
 पौ. सं.
 
 ३६.६ \।\।
-
-
 
 अनुग्रहार्थं भविनाम् अकृतज्ञाल्पमेधसाम् \।
 
@@ -20608,8 +16308,6 @@ MS.
 
 ३६.७ \।\।
 
-
-
 भूचक्राक्षं गते द्वीपे ह्यनादिप्रथितं हि यत् \।
 
 क्षेत्रं स्वकर्मफलदं पुण्यं परिमितं तु वै \।\।
@@ -20617,8 +16315,6 @@ MS.
 पौ. सं.
 
 ३६.८ \।\।
-
-
 
 नृणाम् अनुग्रहार्थं तु स्थानभेदैर् अधिष्ठितम् \।
 
@@ -20628,8 +16324,6 @@ MS.
 
 ३६.९ \।\।
 
-
-
 तथा क्षेत्राधिपैः किन्तु मूर्तैर् युक्ता नवाब्जज \।
 
 बीजभावेन भूमौ वा स्थितिं कृत्वा स्थितां(रां)ततः \।\।
@@ -20637,8 +16331,6 @@ MS.
 पौ. सं.
 
 ३६.१० \।\।
-
-
 
 ज्ञानाद्यैर् वाणिमाद्यैः तु अव्यक्तैः क्ष्मानलादिकैः \।
 
@@ -20648,8 +16340,6 @@ MS.
 
 ३६.११ \।\।
 
-
-
 सहावतीर्य चासृष्टेः प्राग् व्यक्तिं यान्ति वै ततः \।
 
 स्वयम् एवात्मभावेन सर्वानुग्रहकाम्यया \।\।
@@ -20657,8 +16347,6 @@ MS.
 पौ. सं.
 
 ३६.१२ \।\।
-
-
 
 क्ष्मामण्डलोपसंहारकालं क्षेत्रवरैः सह \।
 
@@ -20668,8 +16356,6 @@ MS.
 
 ३६.१३ \।\।
 
-
-
 स्वास्मिन् स्वस्मिन् हि युगपत् क्षेत्रे क्षेमगतिप्रदे \।
 
 स्वकामनैकभूतां च मूर्तिं चैवाभिमानिकीम् \।\।
@@ -20677,8 +16363,6 @@ MS.
 पौ. सं.
 
 ३६.१४ \।\।
-
-
 
 कृत्वा वै व्यक्तिभावं च प्रमाणैर् उत्तमादिकैः \।
 
@@ -20688,8 +16372,6 @@ MS.
 
 ३६.१५ \।\।
 
-
-
 अतः तद्रूपनाम्ना वै ख्याता क्षेत्रेश्वरा भुवि \।
 
 प्रख्याताः तुल्यनाम्नान्ये देवाः सायतनास्तु वै \।\।
@@ -20697,8 +16379,6 @@ MS.
 पौ. सं.
 
 ३६.१६ \।\।
-
-
 
 एवं क्षेत्रेश्वरैः क्षेत्रैः कर्मभूमिर् अधिष्ठिता \।
 
@@ -20708,8 +16388,6 @@ MS.
 
 ३६.१७ \।\।
 
-
-
 इति युक्त्यावतीर्णा ये क्षेत्राणां क्षैत्रनायकाः \।
 
 ते ऽपि कालान्तरेणैव स्वयं दोषं शिलामयम् \।\।
@@ -20717,8 +16395,6 @@ MS.
 पौ. सं.
 
 ३६.१८ \।\।
-
-
 
 बुध्वान्तर्धानम् आयान्ति देशभंगादिकैर् द्विज \।
 
@@ -20728,8 +16404,6 @@ MS.
 
 ३६.१९ \।\।
 
-
-
 स्वयंवावनिमध्यात् तु स्वसामर्थ्येन चोदयेत् \।
 
 कुर्वन्ननम्बुनिधेर् यद्वद् अम्बुदौघम् अचोदितम् \।\।
@@ -20737,8 +16411,6 @@ MS.
 पौ. सं.
 
 ३६.२० \।\।
-
-
 
 इति मत्प्रतिपन्नानां स्वप्ने प्रत्यक्षतो ऽपि वा \।
 
@@ -20748,8 +16420,6 @@ MS.
 
 ३६.२१ \।\।
 
-
-
 तत्तत्त्वतो ऽतिभक्तनां सत्यार्थं सर्वदा भवेत् \।
 
 असत्यार्थमतो ऽन्येषां किन्तु पुष्करसंभव \।\।
@@ -20757,8 +16427,6 @@ MS.
 पौ. सं.
 
 ३६.२२ \।\।
-
-
 
 इत्युत्कर्षं भवत्येषाम् अस्तित्वेन समन्वितम् \।
 
@@ -20768,8 +16436,6 @@ MS.
 
 ३६.२३ \।\।
 
-
-
 तुष्टये ह्यास्तिकानां तु तीर्थादीनां हि सिद्धये \।
 
 क्षेत्रेशा वासुदेवास्ते स्थिताश्चोपलकुक्षिषु \।\।
@@ -20777,8 +16443,6 @@ MS.
 पौ. सं.
 
 ३६.२४ \।\।
-
-
 
 क्वचित् साक्षात् तथा चक्रशंखपद्मगदात्मना \।
 
@@ -20788,8 +16452,6 @@ MS.
 
 ३६.२५ \।\।
 
-
-
 सालग्रामे तु सहयाद्रौ तथा विष्णुपदे द्विज \।
 
 व्यावर्ते चैव कृष्णाश्वे कुक्षौ तु तुहिनाचले \।\।
@@ -20797,8 +16459,6 @@ MS.
 पौ. सं.
 
 ३६.२६ \।\।
-
-
 
 महेन्द्रे मलये विन्ध्ये पारियात्रे ऽथवार्बुदे \।
 
@@ -20808,8 +16468,6 @@ MS.
 
 ३६.२७ \।\।
 
-
-
 सिंहाचले मम क्षेत्रे पुण्ये वा सुमनोहरे \।
 
 एवं कमलसंभूत वासुदेवैर् अधिष्ठिते \।\।
@@ -20817,8 +16475,6 @@ MS.
 पौ. सं.
 
 ३६.२८ \।\।
-
-
 
 अनेकाकृतिभेदस्थैर् अनेकैकेन केन चित् \।
 
@@ -20828,8 +16484,6 @@ MS.
 
 ३६.२९ \।\।
 
-
-
 आश्रित्य क्षेत्रनाथं तु विपद्यन्ते च तत्र ये \।
 
 अवसाने तु वा चा चान्ये धरांशे मध्यमे तु वा \।\।
@@ -20837,8 +16491,6 @@ MS.
 पौ. सं.
 
 ३६.३० \।\।
-
-
 
 आद्ये वा देवदृग् दृष्टे ते प्रयान्ति क्रमेण तु \।
 
@@ -20848,8 +16500,6 @@ MS.
 
 ३६.३१ \।\।
 
-
-
 तत् सालोक्यं तु सामीप्यं सायुज्यम् अमलेक्षण \।
 
 परिग्रहविहीनं च विवेकराहितं जनम् \।\।
@@ -20857,8 +16507,6 @@ MS.
 पौ. सं.
 
 ३६.३२ \।\।
-
-
 
 शरणागतभूतं तु अपि चेन्नास्तिकं पुरा \।
 
@@ -20868,8 +16516,6 @@ MS.
 
 ३६.३३ \।\।
 
-
-
 विसंज्ञं बन्धुभिर् नीतं कारूण्यात् कमलोद्भव \।
 
 त्राहित्युक्त्वा जगन्नाथं क्षिप्त्वा स्त्रीबालपूर्वकैः \।\।
@@ -20877,8 +16523,6 @@ MS.
 पौ. सं.
 
 ३६.३४ \।\।
-
-
 
 ज्ञात्वा विमुक्तदेहं तं सह पुर्यष्टकेन तु \।
 
@@ -20888,8 +16532,6 @@ MS.
 
 ३६.३५ \।\।
 
-
-
 जित्वान्तकभटान् रौद्रान् बलात् क्षेत्रेशकिंकरैः \।
 
 नृसिंहकपिलक्रोडवामनाश्वशिरोमुखैः \।\।
@@ -20897,8 +16539,6 @@ MS.
 पौ. सं.
 
 ३६.३६ \।\।
-
-
 
 ससौम्यवदनैः पद्मशंखचक्रगदाधरैः \।
 
@@ -20908,8 +16548,6 @@ MS.
 
 ३६.३७ \।\।
 
-
-
 मुसलादितथादण्डहस्तैश्च गरूडाननै \।
 
 आनीय क्षेत्रनाथस्य त्वभिगच्छापयन्ति च \।\।
@@ -20917,8 +16555,6 @@ MS.
 पौ. सं.
 
 ३६.३८ \।\।
-
-
 
 देवक्षेत्रे त्वदीये ऽस्य विमुक्तं पाञ्चभौतिकम् \।
 
@@ -20928,8 +16564,6 @@ MS.
 
 ३६.३९ \।\।
 
-
-
 क्षैत्रनाथस्तु तद् वाक्यं समाकर्ण्याञ्च गणेरितम् \।
 
 करूणानुगतेनैव तं निरीक्ष्य तु चक्षुषा \।\।
@@ -20937,8 +16571,6 @@ MS.
 पौ. सं.
 
 ३६.४० \।\।
-
-
 
 कृतं विगतपापं तु तस्मिन्नायतने पुरा \।
 
@@ -20948,8 +16580,6 @@ MS.
 
 ३६.४१ \।\।
 
-
-
 संसर्गेण लयं नीत्वा क्रमात् कालान्तरेण वै \।
 
 द्वाभ्याम् एवं प्रकारेण यद् अन्यच्चात्मसात् कृतम् \।\।
@@ -20957,8 +16587,6 @@ MS.
 पौ. सं.
 
 ३६.४२ \।\।
-
-
 
 तत्स्थं लिङ्गवशात्कृष्य स्वशक्त्या च स्वविग्रहात् \।
 
@@ -20968,8 +16596,6 @@ MS.
 
 ३६.४३ \।\।
 
-
-
 ददाति कर्मभूमौ तु जन्म सत्कर्मिणां कुले \।
 
 सव क्षेत्रै वा परक्षेत्रे तत्र सालोकनं हि यत् \।\।
@@ -20977,8 +16603,6 @@ MS.
 पौ. सं.
 
 ३६.४४ \।\।
-
-
 
 कालात् प्राप्ताधिकारश्च कृत्वा व्याप्तां समासतः \।
 
@@ -20988,8 +16612,6 @@ MS.
 
 ३६.४५ \।\।
 
-
-
 तत् तेन कृतकृत्यं स्यात् तदर्धेन तु चापरम् \।
 
 तृतीयंम् अब्जसंभूत सम्यज्ज्ञानेन युज्यते \।\।
@@ -20997,8 +16619,6 @@ MS.
 पौ. सं.
 
 ३६.४६ \।\।
-
-
 
 ज्ञा(न)तमात्रं हि वै कालाद् इन्द्रियव्यक्तिलक्ष(णं)णात् \।
 
@@ -21008,8 +16628,6 @@ MS.
 
 ३६.४७ \।\।
 
-
-
 तीव्रभावेन वै पश्चाद्देहत्यागं व्रतादिना \।
 
 कुर्यात् क्षेत्राधिपस्याग्रे तद् वत्तं गतकल्मषम् \।\।
@@ -21017,8 +16635,6 @@ MS.
 पौ. सं.
 
 ३६.४८ \।\।
-
-
 
 पृथग्देहारणीं कृत्वा ज्ञानं यद (धर्म) मलं शुभम् \।
 
@@ -21030,8 +16646,6 @@ MS.
 
 ३६.४९ \।\।
 
-
-
 यत्प्राप्य परमं धाम वासुदेवाख्यम् एव च \।
 
 योगिनां तीर्थपुण्यानि ब्रह्मन्नापतितानि च \।\।
@@ -21039,8 +16653,6 @@ MS.
 पौ. सं.
 
 ३६.५० \।\।
-
-
 
 सदाव्याधारभावेन हयंगभावं व्रजन्ति वै \।
 
@@ -21050,8 +16662,6 @@ MS.
 
 ३६.५१ \।\।
 
-
-
 शश्वज्ज्ञानसमाकीर्णं निर्विघ्नेनाप्नुवन्ति च \।
 
 एवमाया (य) तनाद् ब्रह्मन्नुपायं भविनां परम् \।\।
@@ -21059,8 +16669,6 @@ MS.
 पौ. सं.
 
 ३६.५२ \।\।
-
-
 
 यतो ऽस्ति च अतो हेतोः सेवनीयं सदैव हि \।
 
@@ -21070,8 +16678,6 @@ MS.
 
 ३६.५३ \।\।
 
-
-
 प्रारोहजननीं शक्तिं सन्तापान् ध्वंसयन्ति च \।
 
 विना स्वरूपहानेर् वै सां ह्येवमेव हि \।\।
@@ -21079,8 +16685,6 @@ MS.
 पौ. सं.
 
 ३६.५४ \।\।
-
-
 
 स्वप्रभावेन वै सम्यक् स्वशक्तिकिरणैः शुभैः \।
 
@@ -21090,8 +16694,6 @@ MS.
 
 ३६.५५ \।\।
 
-
-
 कुर्वन्त्यनुग्रहं पश्चात् क्षीणपापस्य तस्य च \।
 
 मृदम्बुहुतभुग् वातपातैर् गगनलक्षणैः \।\।
@@ -21099,8 +16701,6 @@ MS.
 पौ. सं.
 
 ३६.५६ \।\।
-
-
 
 प्रसिद्धयंत्रितं ह्यत्र असिध्दं तद्वयं श्रुणु \।
 
@@ -21110,8 +16710,6 @@ MS.
 
 ३६.५७ \।\।
 
-
-
 सर्वद्वारोपरोधेन यद् अन्नाभासमुत्तमम् \।
 
 कालं वा देह पातीयं सन्यग् ज्ञात्वात्र पौष्कर \।\।
@@ -21119,8 +16717,6 @@ MS.
 पौ. सं.
 
 ३६.५८ \।\।
-
-
 
 कार्यम् आरादने यत्नात् तत्र भक्त्या शुभैषिणा \।
 
@@ -21130,8 +16726,6 @@ MS.
 
 ३६.५९ \।\।
 
-
-
 विलयं यान्ति वै येन त्राहि (नाघानि) जन्मनि जन्मनि \।
 
 कृतबुध्देर् मनुष्यस्य पापेनातिबलीयसा \।\।
@@ -21139,8 +16733,6 @@ MS.
 पौ. सं.
 
 ३६.६० \।\।
-
-
 
 न सञ्जाता च तत् प्राप्तिर् यद्यप्यब्जसमुद्भव \।
 
@@ -21150,8 +16742,6 @@ MS.
 
 ३६.६१ \।\।
 
-
-
 मान्यो यमभटानां च यज्ञयाजी यथा पुमान् \।
 
 आस्तां हि तावन्मनुजा नियमाद्यैर् अलंकृताः \।\।
@@ -21159,8 +16749,6 @@ MS.
 पौ. सं.
 
 ३६.६२ \।\।
-
-
 
 भावभक्तिविशेषाढ्याः प्राणिनो ऽन्येपि तत्र ये \।
 
@@ -21170,8 +16758,6 @@ MS.
 
 ३६.६३ \।\।
 
-
-
 नाप्नुवन्ति मृता विप्र सद्विवेकविवर्जिताः \।
 
 मम भक्ताय(तना)नां च इत्येषां यस्तु विन्दति \।\।
@@ -21179,8 +16765,6 @@ MS.
 पौ. सं.
 
 ३६.६४ \।\।
-
-
 
 नृणां मध्ये स धन्यो वै दुष्कृतैर् नातिबाध्यते \।
 
@@ -21190,8 +16774,6 @@ MS.
 
 ३६.६५ \।\।
 
-
-
 तानवं क्षेत्रमाहात्म्यप्रभावात् संप्रयान्ति ते \।
 
 जन्माभ्यासवशेनैव नूनं कर्मक्षयो भवेत् \।\।
@@ -21199,8 +16781,6 @@ MS.
 पौ. सं.
 
 ३६.६६ \।\।
-
-
 
 सामर्थ्यात् क्षेत्रनाथानां सक्षेत्राणां महामते \।
 
@@ -21210,8 +16790,6 @@ MS.
 
 ३६.६७ \।\।
 
-
-
 विभोराराधनार्थं तु भक्त्या कुर्वन्ति वा तपः \।
 
 साधयन्ति च मन्त्रेशं तर्पयन्ति तिलादिभिः \।\।
@@ -21219,8 +16797,6 @@ MS.
 पौ. सं.
 
 ३६.६८ \।\।
-
-
 
 यजन्ति मखैर् देवान् लभन्ते ते ऽखिलं फलम् \।
 
@@ -21230,8 +16806,6 @@ MS.
 
 ३६.६९ \।\।
 
-
-
 मन्त्रैर् जितन्ता मत्रान्तैः प्राप्तैर्वाथ गुरोर् मुखात् \।
 
 स्वकेन मन्त्रेमुख्येन विधिवत् परमेश्वरम् \।\।
@@ -21239,8 +16813,6 @@ MS.
 पौ. सं.
 
 ३६.७० \।\।
-
-
 
 आराध्यायतनस्थं च यत् यत्किञ्चिद् अधिकारिणाम् \।
 
@@ -21250,8 +16822,6 @@ MS.
 
 ३६.७१ \।\।
 
-
-
 तद् अक्षयं परिज्ञेयं भवभोगाभिलाषिणाम् \।
 
 दानान्निवृत्तरागाणां तत् पुनर् मोक्षसिद्धये \।\।
@@ -21259,8 +16829,6 @@ MS.
 पौ. सं.
 
 ३६.७२ \।\।
-
-
 
 ग्राम मण्डलदेशान्तर्मर्यादायतनवासिनाम् \।
 
@@ -21272,8 +16840,6 @@ MS.
 
 ३६.७३ \।\।
 
-
-
 संपूर्णासु स्वशक्त्या च नित्यं जन्मनि जन्मनि \।
 
 अनन्तभविकं विध्दि तत् दिव्यायतनात् पुनः \।\।
@@ -21281,8 +16847,6 @@ MS.
 पौ. सं.
 
 ३६.७४ \।\।
-
-
 
 अज्ञेयं लक्षभविकं तत् सिध्दायतनात् तु वै \।
 
@@ -21292,8 +16856,6 @@ MS.
 
 ३६.७५ \।\।
 
-
-
 दशाङ्गभविकं तद्वै कृतं यत् क्षत्रियेन तु \।
 
 तदर्धभविकं विद्धि सद्वैश्यपरिकल्पितात् \।\।
@@ -21301,8 +16863,6 @@ MS.
 पौ. सं.
 
 ३६.७६ \।\।
-
-
 
 सत्शूद्र कल्पिते विप्र दत्तम् आयतने तु वै \।
 
@@ -21312,8 +16872,6 @@ MS.
 
 ३६.७७ \।\।
 
-
-
 अनन्यशरणेभ्यो वै वर्णेभ्यः परिकल्पिते \।
 
 द्विजेन्द्रायतने दत्तं फलं तत् पुनरेव हि \।\।
@@ -21321,8 +16879,6 @@ MS.
 पौ. सं.
 
 ३६.७८ \।\।
-
-
 
 व्यामिश्रयाजिभिर् वर्णैर् निर्मितायतनास्तु ये \।
 
@@ -21332,8 +16888,6 @@ MS.
 
 ३६.७९ \।\।
 
-
-
 फलकामफले प्सूनां निष्कामानां हि पौष्कर \।
 
 सर्वायतनगो देवः सर्वमूर्तिष्ववस्थितः \।\।
@@ -21341,8 +16895,6 @@ MS.
 पौ. सं.
 
 ३६.८० \।\।
-
-
 
 मूर्त्यन्तरगतश्चापि प्रादुर्भावगतस्त्वपि \।
 
@@ -21354,8 +16906,6 @@ MS.
 
 ३६.८१ \।\।
 
-
-
 आचर्तव्यम् अतः तस्माद्यत्नेन महता द्विज \।
 
 मन्त्राराधनपूर्वेण कर्मणा चिद्विलक्षणम् \।\।
@@ -21363,8 +16913,6 @@ MS.
 पौ. सं.
 
 ३६.८२ \।\।
-
-
 
 तस्माद्विमुक्तरागाणां नृणाम् अच्युतयाजिनाम् \।
 
@@ -21374,8 +16922,6 @@ MS.
 
 ३६.८३ \।\।
 
-
-
 तदधिष्ठितचित्तस्तु यत्र यत्र यजेत् बहिः \।
 
 तत्र तत्र तदा तेषां व्यज्यते ब्रह्म शाश्वतम् \।\।
@@ -21384,13 +16930,7 @@ MS.
 
 ३६.८४ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 देवायतनजातानां नृणाम् अशुभकारिणाम् \।
 
@@ -21400,13 +16940,7 @@ MS.
 
 ३६.८५ \।\।
 
-
-
-
-
 श्रीभगवान् उवाच ---
-
-
 
 केनचित् प्राक्तनेनैव कर्मणाविमलेन च \।
 
@@ -21416,8 +16950,6 @@ MS.
 
 ३६.७६ \।\।
 
-
-
 ज्ञात्वापि क्षेत्रमाहात्म्यं विवशात् तु बलात् तु वै \।
 
 तं म्रियन्तं च तत्रास्थे (न्ते) जन्माभ्यासवशेन तु \।\।
@@ -21425,8 +16957,6 @@ MS.
 पौ. सं.
 
 ३६.८७ \।\।
-
-
 
 क्षेत्रे च पापतः तेषां संक्षिपत्यन्तकस्य च \।
 
@@ -21436,8 +16966,6 @@ MS.
 
 ३६.८८ \।\।
 
-
-
 त्वम् एव तेषां कुरूषे भुक्तशेषं हि कल्मषम् \।
 
 शमयत्यचिरादेव आचरन्ति यथाशुभम् \।\।
@@ -21445,8 +16973,6 @@ MS.
 पौ. सं.
 
 ३६.८९ \।\।
-
-
 
 भूयः प्राप्तेन देहे (भोगे) न अस्मदीये परिग्रहे \।
 
@@ -21456,8 +16982,6 @@ MS.
 
 ३६.९० \।\।
 
-
-
 करूणानुगतेनैव संशोधयति चेतसा \।
 
 एवं विगतदोषाः ते यान्ति कालान्तरेण तु \।\।
@@ -21465,8 +16989,6 @@ MS.
 पौ. सं.
 
 ३६.९१ \।\।
-
-
 
 सा\[हचर्याच्\]च साकल्यात् सत्संपर्काद्विशेषतः \।
 
@@ -21476,17 +16998,9 @@ MS.
 
 ३६.९२ \।\।
 
-
-
 समाचरन्ति तद्वस्तु सायुज्यं यान्ति येन वै \।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 तदुत्पन्ना विपद्यन्ति पापिष्ठा ह्यत्र वै यदि \।
 
@@ -21496,13 +17010,7 @@ MS.
 
 ३६.९३ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 शोधयत्यन्तकः तेषां दुष्कृतिं नातिशासनैः \।
 
@@ -21512,8 +17020,6 @@ MS.
 
 ३६.९४ \।\।
 
-
-
 मतिर् देहविपत्त्यर्था तीव्रेण मनसाब्जज \।
 
 प्रयाति पूर्ववच्छुद्धिं यथा दुष्कृतिनो नराः \।\।
@@ -21521,8 +17027,6 @@ MS.
 पौ. सं.
 
 ३६.९५ \।\।
-
-
 
 तत्र जाताश्च निर्देषा ये ऽन्यत्र विलयं गताः \।
 
@@ -21532,8 +17036,6 @@ MS.
 
 ३६.९६ \।\।
 
-
-
 संपूजयत्यसौ तेषां ब्रूयाद्बद्धाञ्जलिस्ततः \।
 
 स्थानम् आयतनं\[येषां\] भगवन्तं व्रजन्तु वै \।\।
@@ -21541,8 +17043,6 @@ MS.
 पौ. सं.
 
 ३६.९७ \।\।
-
-
 
 सालोक्यसंज्ञं विमलं भवबन्धक्षयंकरम् \।
 
@@ -21552,8 +17052,6 @@ MS.
 
 ३६.९८ \।\।
 
-
-
 भवतां संप्रयातानां शुभं तत्र भविष्यति \।
 
 तद्वासिनां यथान्येषां भगवत् तत्त्ववेदिनाम् \।\।
@@ -21561,8 +17059,6 @@ MS.
 पौ. सं.
 
 ३६.९९ \।\।
-
-
 
 एवं अब्जसमुद्भूत फलम् आयतनात् भवेत् \।
 
@@ -21572,8 +17068,6 @@ MS.
 
 ३६.१०० \।\।
 
-
-
 क्षितिः पादौ च खं नाभिर्द्यैः शिरः शशिभास्करौ \।
 
 नेत्रे लोका महत्पूर्वा विभोर्यस्य शिरोरूहाः \।\।
@@ -21581,8 +17075,6 @@ MS.
 पौ. सं.
 
 ३६.१०१ \।\।
-
-
 
 दिशः श्रोत्रे भुजाश्चैव विदिशः सर्व एव हि \।
 
@@ -21592,8 +17084,6 @@ MS.
 
 ३६.१०२ \।\।
 
-
-
 स्थितिः पादतलोद्देशे नित्याकृतिधरस्य च \।
 
 विभोर् वै राजमान्यस्य सर्वगस्य महात्मनः \।\।
@@ -21601,8 +17091,6 @@ MS.
 पौ. सं.
 
 ३६.१०३ \।\।
-
-
 
 सर्वं पदात्मकं यस्माद् भक्तानाम् अत एव हि \।
 
@@ -21612,8 +17100,6 @@ MS.
 
 ३६.१०४ \।\।
 
-
-
 चराचरम् इदं सर्वं नास्तिकानां तमोमयम् \।
 
 सुप्रसिद्धं तु वै स्थानमास्तां तावन्महामते \।\।
@@ -21621,8 +17107,6 @@ MS.
 पौ. सं.
 
 ३६.१०५ \।\।
-
-
 
 भक्त्यावस्थापिता यत्र स्थाने विप्रवरादिकैः \।
 
@@ -21632,8 +17116,6 @@ MS.
 
 ३६.१०६ \।\।
 
-
-
 हेमादिधातुलोहोत्था या काचित् प्रतिमा हरेः \।
 
 नृणां तत्र विपन्नानां तन्माहात्म्यवशात् तु वै \।\।
@@ -21641,8 +17123,6 @@ MS.
 पौ. सं.
 
 ३६.१०७ \।\।
-
-
 
 स्थितिः त्रिविष्टपे तेषाम् अनत्युत्कृष्टलक्षणा \।
 
@@ -21652,8 +17132,6 @@ MS.
 
 ३६.१०८ \।\।
 
-
-
 यथाक्रमं (कर्म) महाबुद्धे परिज्ञेयं हि मत्परैः \।
 
 साक्षाद्वृत्तिर् द्विजेन्द्रीया क्षेत्रक्षेत्रेषु जायते \।\।
@@ -21661,8 +17139,6 @@ MS.
 पौ. सं.
 
 ३६.१०९ \।\।
-
-
 
 क्षत्रियायतनाद्वि (द्वृ)द्धि जन्मामरविनिर्मिते \।
 
@@ -21672,8 +17148,6 @@ MS.
 
 ३६.११० \।\।
 
-
-
 मुनिभिर् निर्मितस्थाने अच्युतायतने ऽब्जज \।
 
 मा जन्म मौद्गलीयाच्च प्राप्नोत्याराधनान्नरः \।\।
@@ -21681,8 +17155,6 @@ MS.
 पौ. सं.
 
 ३६.१११ \।\।
-
-
 
 कल्पितं मन्त्रसिद्धेन नरेणायतनम् महत् \।
 
@@ -21692,8 +17164,6 @@ MS.
 
 ३६.११२ \।\।
 
-
-
 मन्त्रज्ञैः कल्पितान्तं च यावद् आयतनम् द्विज \।
 
 शश्वत् पापक्षयं चान्यत् क्षत्रियं तदनन्तरम् \।\।
@@ -21701,8 +17171,6 @@ MS.
 पौ. सं.
 
 ३६.११३ \।\।
-
-
 
 क्रमेण सवितानं च नातिदीर्धेण पौष्कर \।
 
@@ -21712,8 +17180,6 @@ MS.
 
 ३६.११४ \।\।
 
-
-
 अवतीर्य क्षितिं पश्चाद् भुक्तशेषं हि पद्मज \।
 
 क्षपयत्याशु तत्रैव नियमैः पूर्वदुष्कृतम् \।\।
@@ -21721,8 +17187,6 @@ MS.
 पौ. सं.
 
 ३६.११५ \।\।
-
-
 
 प्राग्वत् स्मृताः क्रमेणेव ते यान्ति परमं पदम् \।
 
@@ -21732,8 +17196,6 @@ MS.
 
 ३६.११६ \।\।
 
-
-
 विवेकिनां न विहिताः प्रायश्चित्तस्थमेव हि \।
 
 आजन्म सञ्चितानां च दुष्कृतानां क्षयाय वै \।\।
@@ -21741,8 +17203,6 @@ MS.
 पौ. सं.
 
 ३६.११७ \।\।
-
-
 
 लभन्ते तैस्तु निर्दग्धैर् देहान्ते पदम् आच्युतम् \।
 
@@ -21752,8 +17212,6 @@ MS.
 
 ३६.११८ \।\।
 
-
-
 स्वयं पापफलं ज्ञात्वा सत्त्वम् आश्रित्य शाश्वतम् \।
 
 विरूद्धचित्तबुद्धिस्तु येन याति शुभां स्थितिम् \।\।
@@ -21761,8 +17219,6 @@ MS.
 पौ. सं.
 
 ३६.११९ \।\।
-
-
 
 बलवा न्य(वद्य)दपि क्षेत्रं नॄणां शुभगतिप्रदम् \।
 
@@ -21772,8 +17228,6 @@ MS.
 
 ३६.१२० \।\।
 
-
-
 मनो बुद्धीन्द्रियगणं करणग्रामसंयुतम् \।
 
 आम्लाद्यस्य संशुद्धमन्ते वा तपसा महत् \।\।
@@ -21781,8 +17235,6 @@ MS.
 पौ. सं.
 
 ३६.१२१ \।\।
-
-
 
 कुर्वन्त्यनुग्रहं तस्य शश्वदायतनादयः \।
 
@@ -21792,8 +17244,6 @@ MS.
 
 ३६.१२२ \।\।
 
-
-
 भूगुणा अपि चादेयाः सर्वत्र विधिगौरवात् \।
 
 यथा महानुभावानाम् पुरूषाणां तु याचकाः \।\।
@@ -21801,8 +17251,6 @@ MS.
 पौ. सं.
 
 ३६.१२३ \।\।
-
-
 
 संहृष्टम् अन्नपानार्थं गुणज्ञम् अगुणं तु वै \।
 
@@ -21812,8 +17260,6 @@ MS.
 
 ३६.१२४ \।\।
 
-
-
 ज्ञात्वैवं क्षेत्रमाहात्म्यं तपोध्यानजपादिकैः \।
 
 कर्मवाक्चित्तसंतोषादुपशोभां नयेत् पराम् \।\।
@@ -21822,13 +17268,7 @@ MS.
 
 ३६.१२५ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 चतुर्भिर् वासुदेवाद्यैर् मूर्तिभिः प्रागुदीरितैः \।
 
@@ -21838,15 +17278,11 @@ MS.
 
 ३६.१२६ \।\।
 
-
-
 क्ष्मान्तं षड्विंशसंख्यं यत् तत्त्ववृन्दं पुरोदितम् व्याप्तम् ईश्वरपूर्वं वै द्वादशानाम् सह स्थितम् \।\।
 
 पौ. सं.
 
 ३६.१२७ \।\।
-
-
 
 सुस्थूलेनानुरूपेण दशकं तेन चावृतम् \।
 
@@ -21856,8 +17292,6 @@ MS.
 
 ३६.१२८ \।\।
 
-
-
 स्थितिर् एवं हि सर्वेषां देवानां भवशान्तये \।
 
 गुणषट्कसमोपेतं वैश्वरूप्यं महामते \।\।
@@ -21865,8 +17299,6 @@ MS.
 पौ. सं.
 
 ३६.१२९ \।\।
-
-
 
 स्वव्यापारवशेनैव व्यञ्जयन्ति सदैव हि \।
 
@@ -21876,8 +17308,6 @@ MS.
 
 ३६.१३० \।\।
 
-
-
 सर्वैः क्षितितलं व्याप्तं नानाकारधरैः सदा \।
 
 एकैका वैभवे मूर्तिर् अनन्तेनात्मतां यथा \।\।
@@ -21885,8 +17315,6 @@ MS.
 पौ. सं.
 
 ३६.१३१ \।\।
-
-
 
 यान्ति नानात्मनाम् एवं वाहनायुधलाञ्छनैः \।
 
@@ -21896,8 +17324,6 @@ MS.
 
 ३६.१३२ \।\।
 
-
-
 स्थितिर् नानाप्रकारा वै सर्वेषां च स्वभूतिषु \।
 
 नियतः सायुधानां च लाञ्छनानां च यद्यपि \।\।
@@ -21906,8 +17332,6 @@ MS.
 
 ३६.१३३ \।\।
 
-
-
 तथापि सर्वमूतीनां सर्वे साधारणाः स्मृताः \।
 
 यद्यप्येवं हि वै विप्र तत्रापि विनिबोध मे \।\।
@@ -21915,8 +17339,6 @@ MS.
 पौ. सं.
 
 ३६.१३४ \।\।
-
-
 
 न च अन्यभ्रान्तिशान्त्यर्थं विशेषं लाञ्छनैर् ध्वजैः \।
 
@@ -21936,8 +17358,6 @@ MS.
 
 ३६.१३६ \।\।
 
-
-
 तुल्यम् एवं त्रयाणां तु प्रादुर्भावगणं परम् \।
 
 अपरे केशवादीनां तुल्यम् उद्वहति (न्ति) द्विज \।\।
@@ -21946,17 +17366,9 @@ MS.
 
 ३६.१३७ \।\।
 
-
-
 आकारैर् लाछनैः सार्धं तद् विशेषेण वै सह \।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 श्रोतुम् इच्छामि भगवन् सर्वेषां लाञ्छनादिकम् \।
 
@@ -21966,13 +17378,7 @@ MS.
 
 ३६.१३८ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 शृणु लाञ्छनविन्यासम् आदिदेवादितः क्रमात् \।
 
@@ -21982,8 +17388,6 @@ MS.
 
 ३६.१३९ \।\।
 
-
-
 आद्यः पाणिः चतुर्णा वै दक्षिणे त्वभयप्रदः \।
 
 वरप्रदो वा भक्तानां धातव्यममलेक्षण \।\।
@@ -21991,8 +17395,6 @@ MS.
 पौ. सं.
 
 ३६.१४० \।\।
-
-
 
 वामो शङ्खोद्वहं विद्धि नानास्थित्या चतुर्ष्वपि \।
 
@@ -22002,8 +17404,6 @@ MS.
 
 ३६.१४१ \।\।
 
-
-
 कालचक्रं गदां गुर्वीम् अच्युतस्यावधारय \।
 
 लाङ्गलं मुसलोपेतं वामहस्ते सदक्षिणे \।\।
@@ -22011,8 +17411,6 @@ MS.
 पौ. सं.
 
 ३६.१४२ \।\।
-
-
 
 पश्चिमे भुजयुग्मे ऽस्य संहते च धनुः शरे \।
 
@@ -22022,8 +17420,6 @@ MS.
 
 ३६.१४३ \।\।
 
-
-
 द्वाभ्यां पश्चिमपाणिभ्यां मध्यहस्तादितः तु वै \।
 
 इत्येवं हि चतुर्मूर्तेर् एतन्मूर्त्यन्तरेषु च \।\।
@@ -22031,8 +17427,6 @@ MS.
 पौ. सं.
 
 ३६.१४४ \।\।
-
-
 
 शंखचक्रगदापद्मलांछनानां स्थितिं श्रुणु \।
 
@@ -22042,8 +17436,6 @@ MS.
 
 ३६.१४५ \।\।
 
-
-
 वामे पश्चिमगे चक्रं विद्धि शङ्खं तु दक्षिणे \।
 
 दक्षिणे मुख्यहस्ते ऽब्जं गदा तदपरे तु वै \।\।
@@ -22051,8 +17443,6 @@ MS.
 पौ. सं.
 
 ३६.१४६ \।\।
-
-
 
 एवं हि भगवान् धत्ते केशवः कमलादिकम् \।
 
@@ -22062,8 +17452,6 @@ MS.
 
 ३६.१४७ \।\।
 
-
-
 वामादौ शङ्खचक्रौ तु स धत्ते पश्चिमद्वये \।
 
 नारायणाख्यो भगवान् माधवाख्यो निबोधतु \।\।
@@ -22071,8 +17459,6 @@ MS.
 पौ. सं.
 
 ३६.१४८ \।\।
-
-
 
 मुख्ये सव्यापसव्पये तु शङ्खं धत्ते गदां प्रभुः \।
 
@@ -22082,8 +17468,6 @@ MS.
 
 ३६.१४९ \।\।
 
-
-
 मूर्तित्रयम् इदं दिव्यं कुन्देन्दुस्फटिकप्रभम् \।
 
 भगवद्वासुदेवेन सहास्य चतुरात्मना \।\।
@@ -22091,8 +17475,6 @@ MS.
 पौ. सं.
 
 ३६.१५० \।\।
-
-
 
 त्रितयस्य परिज्ञेया मोक्षदा भवभोगदा \।
 
@@ -22102,8 +17484,6 @@ MS.
 
 ३६.१५१ \।\।
 
-
-
 पद्मं मुख्यकरे वामे गदान्यस्मिन् हि दक्षिणे \।
 
 विभोर्गोविन्दसंज्ञस्य इत्येवं समुदाहृतम् \।\।
@@ -22111,8 +17491,6 @@ MS.
 पौ. सं.
 
 ३६.१५२ \।\।
-
-
 
 विन्यासं लाञ्छनानां च विष्णोरथ निबोधतु \।
 
@@ -22122,8 +17500,6 @@ MS.
 
 ३६.१५३ \।\।
 
-
-
 एवं पश्चिमहस्ताभ्यां चक्रं कौमोदकीद्वयम् \।
 
 मधुसूदनसंज्ञस्य संनिवेशम् अतः शृणु \।\।
@@ -22131,8 +17507,6 @@ MS.
 पौ. सं.
 
 ३६.१५४ \।\।
-
-
 
 पद्मं मुख्यकरे वामे पाञ्चजन्यं तु दक्षिणे \।
 
@@ -22142,8 +17516,6 @@ MS.
 
 ३६.१५५ \।\।
 
-
-
 त्रयम् एवं हि देवानां सह वै ज्ञानमूर्तिनाम् \।
 
 चातुरात्म्याद् द्वितीयां तु पद्मरागोज्ज्वलद्युतिम् \।\।
@@ -22151,8 +17523,6 @@ MS.
 पौ. सं.
 
 ३६.१५६ \।\।
-
-
 
 अथ प्रद्युम्नदेवानां त्रयाणां क्रम उच्यते \।
 
@@ -22162,8 +17532,6 @@ MS.
 
 ३६.१५७ \।\।
 
-
-
 अग्रतो वामपाणौ च चक्रम् अन्यकरे गदा \।
 
 वामे तु पश्चिमे शङ्खं पद्मं तदपरे स्मृतम् \।\।
@@ -22171,8 +17539,6 @@ MS.
 पौ. सं.
 
 ३६.१५८ \।\।
-
-
 
 विभोः त्रिविक्रमाख्यस्य वामनस्यावधारय \।
 
@@ -22182,8 +17548,6 @@ MS.
 
 ३६.१५९ \।\।
 
-
-
 वामे तु पश्चिमे पद्मं शङ्खं तत् दक्षिणे करे \।
 
 श्रीधरस्य गदा वामे मुख्यहस्ते प्रकीर्तिता \।\।
@@ -22191,8 +17555,6 @@ MS.
 पौ. सं.
 
 ३६.१६० \।\।
-
-
 
 चक्रम् अग्रे ऽपसव्याख्ये शङ्खं वामे तु पश्चिमे \।
 
@@ -22202,8 +17564,6 @@ MS.
 
 ३६.१६१ \।\।
 
-
-
 मूर्तित्रितयम् एते(तद्) वै सह च स्वामिना द्विज \।
 
 हेमधामप्रभं ज्ञेयं चातुरात्म्यतया स्थितम् \।\।
@@ -22211,8 +17571,6 @@ MS.
 पौ. सं.
 
 ३६.१६२ \।\।
-
-
 
 अतो ऽनिरूद्धमूर्तीनां त्रितयं चावधारय \।
 
@@ -22222,8 +17580,6 @@ MS.
 
 ३६.१६३ \।\।
 
-
-
 पद्मं अग्रकरे वामे तत् द्वितीये तु हेतिराट् \।
 
 सव्यापसव्यहस्ताभ्यां पश्चिमाभ्यां क्रमेण तु \।\।
@@ -22231,8 +17587,6 @@ MS.
 पौ. सं.
 
 ३६.१६४ \।\।
-
-
 
 पद्मकोशं गदां गुर्वीं पद्मनाभे निबोधतु \।
 
@@ -22242,8 +17596,6 @@ MS.
 
 ३६.१६५ \।\।
 
-
-
 वामे गदां पश्चिमगे तदन्यस्मिंश्च शङ्खराट् \।
 
 धत्ते दामोदरो वामे गदां चाग्रस्थिते शुभाम् \।\।
@@ -22251,8 +17603,6 @@ MS.
 पौ. सं.
 
 ३६.१६६ \।\।
-
-
 
 अपसव्ये ऽग्रगे शङ्खं वामे चक्रं तु पश्चिमे \।
 
@@ -22262,8 +17612,6 @@ MS.
 
 ३६.१६७ \।\।
 
-
-
 अतसीपुष्पसङ्काशम् इदं मूर्तिगणं स्मृतम् \।
 
 सहानिरूद्धदेवेन अस्यापि चतुरात्मता \।\।
@@ -22271,8 +17619,6 @@ MS.
 पौ. सं.
 
 ३६.१६८ \।\।
-
-
 
 विश्वेश्वरस्य वै विष्णोः स्थितये ऽस्मिन् जगत्त्रये \।
 
@@ -22282,8 +17628,6 @@ MS.
 
 ३६.१६९ \।\।
 
-
-
 पाणिद्वयेन चाक्रान्तौ पार्श्वद्वये पृथक् स्थितौ \।
 
 तन्मुखं च निरीक्षन्तौ गदाचक्रौ महामते \।\।
@@ -22291,8 +17635,6 @@ MS.
 पौ. सं.
 
 ३६.१७० \।\।
-
-
 
 शङ्खपाणिं च शङ्खेशं युग्मम् अन्येन हेतिना \।
 
@@ -22302,8 +17644,6 @@ MS.
 
 ३६.१७१ \।\।
 
-
-
 पांशांङ्कुशासिपद्माद्यैर् युक्तं चान्यैर् वरायुधैः \।
 
 मूर्त्यन्तराणां मूर्तीनां षोडशानाम् अतः शृणु \।\।
@@ -22312,8 +17652,6 @@ MS.
 
 ३६.१७२ \।\।
 
-
-
 मुख्यहस्ते चतुर्णां तु पाञ्चजन्यं निराकृतिम् \।
 
 सर्वदेहं हि सञ्चिन्त्य गदाचक्रे द्विजोत्तम \।\।
@@ -22321,8 +17659,6 @@ MS.
 पौ. सं.
 
 ३६.१७३ \।\।
-
-
 
 हस्तद्वयेन चाक्रान्तौ साकारं च विभोर् मुखम् \।
 
@@ -22334,8 +17670,6 @@ MS.
 
 ३६.१७४ \।\।
 
-
-
 अमूर्तमन्त्रसंस्थानम् इदानीम् अवधारय \।
 
 तम् इच्छया च स्मर्तव्यं शोभालीलावशाद् अपि \।\।
@@ -22343,8 +17677,6 @@ MS.
 पौ. सं.
 
 ३६.१७५ \।\।
-
-
 
 नानादेशजनस्थित्या आसृष्टेः संस्थितं यथा \।
 
@@ -22354,8 +17686,6 @@ MS.
 
 ३६.१७६ \।\।
 
-
-
 पश्चिमाभ्यां भुजाभ्यां तु यस्य यद्विहितं द्वयम् \।
 
 मूर्धदेशात् समाक्रान्तं निरीक्षन्तं विभोर् मुखम् \।\।
@@ -22363,8 +17693,6 @@ MS.
 पौ. सं.
 
 ३६.१७७ \।\।
-
-
 
 आज्ञाप्रतीक्षकं चैव हस्ते तं(तद्)व्यजनादिकम् \।
 
@@ -22374,8 +17702,6 @@ MS.
 
 ३६.१७८ \।\।
 
-
-
 युक्तं सम्पुटसंज्ञाख्यं मुद्रया वाब्जसंभव \।
 
 चतुर्वदनपादा वै धान(ध्यान)रूपं तु संस्थितिः \।\।
@@ -22383,8 +17709,6 @@ MS.
 पौ. सं.
 
 ३६.१७९ \।\।
-
-
 
 सर्वेषां विहिता विप्र प्रयोजनवशेन तु \।
 
@@ -22394,8 +17718,6 @@ MS.
 
 ३६.१८० \।\।
 
-
-
 प्रार्थिनश्चोपविंष्टास्तु भोगशय्यागतास्त्वथ \।
 
 चक्राम्बुरूहपीठस्था हृहि धामत्रयान्वितम् \।\।
@@ -22403,8 +17725,6 @@ MS.
 पौ. सं.
 
 ३६.१८१ \।\।
-
-
 
 द्वादशाक्षरपूर्वैस्तु वाचकैः प्रागुदीरितैः \।
 
@@ -22414,8 +17734,6 @@ MS.
 
 ३६.१८२ \।\।
 
-
-
 योर्ऽचयेत् भक्तिपूर्वं तु स्वशक्त्या विभवेन वा \।
 
 स मुक्तदोष अभ्येति तत् तत् पदम् अनामयम् \।\।
@@ -22423,8 +17741,6 @@ MS.
 पौ. सं.
 
 ३६.१८३ \।\।
-
-
 
 व्यक्तं क्षेत्रवशे यस्मिन् स्वयं बाहये ऽवतारितम् \।
 
@@ -22434,8 +17750,6 @@ MS.
 
 ३६.१८४ \।\।
 
-
-
 स्वमन्त्रजपिनो भक्ता नित्यशुद्धाः क्रियापराः \।
 
 अथ मूर्त्यन्तराणां च देवानां कमलो द्भव \।\।
@@ -22443,8 +17757,6 @@ MS.
 पौ. सं.
 
 ३६.१८५ \।\।
-
-
 
 ध्वजाद्यं य च्च संकेतं तन्मे निगदतः शृणु \।
 
@@ -22454,8 +17766,6 @@ MS.
 
 ३६.१८६ \।\।
 
-
-
 भूषितं प्रपताकेन महद् गरूडकेतुना \।
 
 महता तालवृक्षेण लाङ्गलीयेन पौष्कर \।\।
@@ -22463,8 +17773,6 @@ MS.
 पौ. सं.
 
 ३६.१८७ \।\।
-
-
 
 गोविन्दाद्यं त्रयं यद्वै विज्ञेयम् उपशोभितम् \।
 
@@ -22474,8 +17782,6 @@ MS.
 
 ३६.१८८ \।\।
 
-
-
 त्रिविक्रमाद्यं त्रितयं नित्यम् एव विभूषितम् \।
 
 कुरङ्गलाछनेनैव अनिरूद्धेन लाञ्छितम् \।\।
@@ -22483,8 +17789,6 @@ MS.
 पौ. सं.
 
 ३६.१८९ \।\।
-
-
 
 त्रयं दामोदरान्तं च हृषीकेशादिकम् हि यत् \।
 
@@ -22494,8 +17798,6 @@ MS.
 
 ३६.१९० \।\।
 
-
-
 विहिताः सर्व एवैते रूपैश्वर्येण वै सह \।
 
 वराहनारसिंहाद्यैर् देवैस्त्रिभुवनेश्वरैः \।\।
@@ -22503,8 +17805,6 @@ MS.
 पौ. सं.
 
 ३६.१९१ \।\।
-
-
 
 प्रादुर्भावान्तरोपेतैः\[देवैः\] सर्वगुणोज्वलैः \।
 
@@ -22514,8 +17814,6 @@ MS.
 
 ३६.१९२ \।\।
 
-
-
 हंसमत्स्यहयैः कूर्मसिंहसूकरसंज्ञकैः \।
 
 यथोक्तलक्षणैर् ब्रह्मन् शक्तितः प्रतिपत्तिजैः \।\।
@@ -22523,8 +17821,6 @@ MS.
 पौ. सं.
 
 ३६.१९३ \।\।
-
-
 
 वृत्तित्वेन जगत्यस्मिन् अर्चनाध्यानकर्मणि \।
 
@@ -22534,8 +17830,6 @@ MS.
 
 ३६.१९४ \।\।
 
-
-
 एवं यथोक्तवदनैर् नृशरीरैर् महाभुजैः \।
 
 नृवराहनृसिंहाख्यैर् नृवाजिवदनाभिधैः \।\।
@@ -22543,8 +17837,6 @@ MS.
 पौ. सं.
 
 ३६.१९५ \।\।
-
-
 
 अनुगृहधिया व्याप्तं भूभागम् अमलेक्षण \।
 
@@ -22554,8 +17846,6 @@ MS.
 
 ३६.१९६ \।\।
 
-
-
 स्नातकब्रह्मचारी च लाञ्छनैर् भूषितेन च \।
 
 तस्य रूपान्तरेणैव सुखानां सुखदेन च \।\।
@@ -22563,8 +17853,6 @@ MS.
 पौ. सं.
 
 ३६.१९७ \।\।
-
-
 
 त्रिविक्रमाख्यसंज्ञेन त्रैलोक्याक्रान्तमूर्तिना \।
 
@@ -22574,8 +17862,6 @@ MS.
 
 ३६.१९८ \।\।
 
-
-
 भारावतरणं येन पृथिव्यां बहुशः कृतम् \।
 
 एतैर् अन्यैर् द्विजश्रेष्ठ वक्ष्यमाणसमन्वितैः \।\।
@@ -22583,8 +17869,6 @@ MS.
 पौ. सं.
 
 ३६.१९९ \।\।
-
-
 
 सबाहयाभ्यंतरं व्याप्तं ब्रह्माण्डनिचयं हि यत् \।
 
@@ -22594,8 +17878,6 @@ MS.
 
 ३६.२०० \।\।
 
-
-
 अप्ययैः प्रभवाख्यैस्तु गौणमुख्यैः सुरेश्वरैः \।
 
 स्वभावम् अजहच्छश्वद् आकारान्तरम् आकृतेः \।\।
@@ -22603,8 +17885,6 @@ MS.
 पौ. सं.
 
 ३६.२०१ \।\।
-
-
 
 यत् तत्त्वम् अंशसंभूतं प्रादुर्भावान्तरं तु तत् \।
 
@@ -22614,8 +17894,6 @@ MS.
 
 ३६.२०२ \।\।
 
-
-
 शृणु मे गदतः सम्यक् यैर् व्याप्तम् अखिलं जगत् \।
 
 रामो ऽपरः क्षत्रजन्मा भ्रात्रा(तृ)भेदैः स्त्रिभिः सह \।\।
@@ -22623,8 +17901,6 @@ MS.
 पौ. सं.
 
 ३६.२०३ \।\।
-
-
 
 निहन्ता राक्षसानां यो मनुष्यो ऽहम् इति स्मरन् \।
 
@@ -22634,8 +17910,6 @@ MS.
 
 ३६.२०४ \।\।
 
-
-
 अपरः सीरपाणिर् वै रामः कृष्णात्मना सह \।
 
 शिशुभावं समाश्रित्य यो महद्दिव्यकर्मकृत् \।\।
@@ -22643,8 +17917,6 @@ MS.
 पौ. सं.
 
 ३६.२०५ \।\।
-
-
 
 काल्किश्च विष्णुर् भगवान् नष्टधर्मावतारकृत् \।
 
@@ -22654,8 +17926,6 @@ MS.
 
 ३६.२०६ \।\।
 
-
-
 धर्मात्मा भगवान् विष्णुः प्रादुर्भावं च शाश्वतम् \।
 
 प्रादुर्भूतं हि वै यस्मान्नराद्यं कृष्णपश्चिमम् \।\।
@@ -22663,8 +17933,6 @@ MS.
 पौ. सं.
 
 ३६.२०७ \।\।
-
-
 
 सपञ्चकालषट्कर्मम (स्व) स्वधर्मैः समन्वितम् \।
 
@@ -22674,8 +17942,6 @@ MS.
 
 ३६.२०८ \।\।
 
-
-
 चतुर्मूर्तिमयं विप्र नरो नारायणो हरिः \।
 
 कृष्णसंज्ञश्च भगवान् प्रादुर्भावोत्तरम् विभोः \।\।
@@ -22683,8 +17949,6 @@ MS.
 पौ. सं.
 
 ३६.२०९ \।\।
-
-
 
 प्रकाशितं चतुर्धा ते अतो ऽन्यम् अवधारय \।
 
@@ -22694,8 +17958,6 @@ MS.
 
 ३६.२१० \।\।
 
-
-
 तत्रैकम् अन्तराख्यं हि कृष्णनाथस्य पौष्कर \।
 
 मानुष्यत्वे ऽवतीर्णस्य त्रयम् आद्यम् अनश्वरम् \।\।
@@ -22703,8 +17965,6 @@ MS.
 पौ. सं.
 
 ३६.२११ \।\।
-
-
 
 सहस्रवदनः श्रीमान् सहस्राङ्घ्रिकरस्तथा \।
 
@@ -22714,8 +17974,6 @@ MS.
 
 ३६.२१२ \।\।
 
-
-
 जलारविन्दनाभश्च प्रादुर्भावेश्वरो महान् \।
 
 प्रभवाप्ययकृद्योगैर् बहुभेदैरूपासितैः \।\।
@@ -22723,8 +17981,6 @@ MS.
 पौ. सं.
 
 ३६.२१३ \।\।
-
-
 
 मधुकैटभमाथी च प्रादुर्भावेश्वरस्य च \।
 
@@ -22734,8 +17990,6 @@ MS.
 
 ३६.२१४ \।\।
 
-
-
 मन्दरोत्पातकृद्देव वस्त्वत्वमृताहरण स्तथा \।
 
 सुधाकलशधृक् चैव वनिताकृतिविग्रहः \।\।
@@ -22743,8 +17997,6 @@ MS.
 पौ. सं.
 
 ३६.२१५ \।\।
-
-
 
 भूयो रूपान्तरं तस्य राहोश्चिच्छेद मस्तकम् \।
 
@@ -22754,8 +18006,6 @@ MS.
 
 ३६.२१६ \।\।
 
-
-
 प्रादुर्भावान्तरोपेतं प्रादुर्भावोत्तमोत्तमम् \।
 
 समस्तसौभाग्यनिधिर् लक्ष्मीनाथः परः प्रभुः \।\।
@@ -22763,8 +18013,6 @@ MS.
 पौ. सं.
 
 ३६.२१७ \।\।
-
-
 
 न द्वितीयः प्रसन्नात्मा नृणां भोगापवर्गदः \।
 
@@ -22774,8 +18022,6 @@ MS.
 
 ३६.२१८ \।\।
 
-
-
 पुनः तदासनं चान्यद् अदष्टभेदैःश्रियान्वितः \।
 
 देवादीनां मनोवृत्तिपूरको भोगपूर्वकम् \।\।
@@ -22783,8 +18029,6 @@ MS.
 पौ. सं.
 
 ३६.२१९ \।\।
-
-
 
 भोगवान् कालनेमिघ्नः पक्षीन्द्रवरवाहनः \।
 
@@ -22794,8 +18038,6 @@ MS.
 
 ३६.२२० \।\।
 
-
-
 कालवैश्वानरः शालिनाथ (ः) पाथोनिवासिनः \।
 
 आधारशक्तिज्ञंस्य आ (अ) मूर्तस्य च वै विभोः \।\।
@@ -22803,8 +18045,6 @@ MS.
 पौ. सं.
 
 ३६.२२१ \।\।
-
-
 
 अभिमानतनुर्यो वै नानाभेदैश्च वर्तते \।
 
@@ -22814,8 +18054,6 @@ MS.
 
 ३६.२२२ \।\।
 
-
-
 ज्ञानोपदेष्टा भगवान् कपिलाक्षस्त्वधोक्षजः \।
 
 विद्यामूर्तिश्चतुर्वक्त्रो ब्रह्मा वै लोकपूजितः \।\।
@@ -22823,8 +18061,6 @@ MS.
 पौ. सं.
 
 ३६.२२३ \।\।
-
-
 
 तमंशभूतं वै सम्यक् विश्वव्यञ्जनलक्षणम् \।
 
@@ -22834,8 +18070,6 @@ MS.
 
 ३६.२२४ \।\।
 
-
-
 शङ्कराख्यो महारूद्रः प्रादुर्भावान्तरं हि तत् \।
 
 देवस्यानलशालेर् वै सर्वाधः संस्थितस्य च \।\।
@@ -22843,8 +18077,6 @@ MS.
 पौ. सं.
 
 ३६.२२५ \।\।
-
-
 
 लोकेश्वरः शान्ततनुर्बौध्दं यस्मापरं विदुः \।
 
@@ -22854,8 +18086,6 @@ MS.
 
 ३६.२२६ \।\।
 
-
-
 अग्नीषोमात्मसंज्ञस्य देवस्य परमात्मनः \।
 
 सूर्याचन्द्रमसौ विद्धि साकारौ लोचनेश्वरौ \।\।
@@ -22863,8 +18093,6 @@ MS.
 पौ. सं.
 
 ३६.२२७ \।\।
-
-
 
 तद्वक्त्रं दैवतं चान्यद्धुतभुक् परमेश्वरः \।
 
@@ -22874,8 +18102,6 @@ MS.
 
 ३६.२२८ \।\।
 
-
-
 ब्रह्माण्डभुवनं सर्वं सन्तर्पयति सर्वदा \।
 
 विश्वेशप्राणशक्तेर् वै वाय्वाख्यम् अधिदैवतम् \।\।
@@ -22883,8 +18109,6 @@ MS.
 पौ. सं.
 
 ३६.२२९ \।\।
-
-
 
 जगत्सन्धारकं चैव नानास्कन्धात्मना तु वै \।
 
@@ -22894,8 +18118,6 @@ MS.
 
 ३६.२३० \।\।
 
-
-
 नानावेशस्वरूपैश्च नानासंस्थानलक्षणैः \।
 
 नानाकार्यवशेनैव नानाकारवशेन तु \।\।
@@ -22903,8 +18125,6 @@ MS.
 पौ. सं.
 
 ३६.२३१ \।\।
-
-
 
 एवं कृतकशब्दाद्यैर् भगवांस्तत्क्षणेन च \।
 
@@ -22914,8 +18134,6 @@ MS.
 
 ३६.२३२ \।\।
 
-
-
 यथाभिमतरूपेण गुणषट्कान्वितेन च \।
 
 ज्ञस्वभावेन नित्येन स्वरूपेणामलात्मना \।\।
@@ -22923,8 +18141,6 @@ MS.
 पौ. सं.
 
 ३६.२३३ \।\।
-
-
 
 विश्वमापूरितं सर्वं सर्वानुग्रहकाम्यया \।
 
@@ -22934,8 +18150,6 @@ MS.
 
 ३६.२३४ \।\।
 
-
-
 वासुदेवादिमूर्तीनां वैश्वरूप्यम् अनश्वरम् \।
 
 योगैश्वर्यप्रभावेन अच्युतेच्छावशादपि \।\।
@@ -22943,8 +18157,6 @@ MS.
 पौ. सं.
 
 ३६.२३५ \।\।
-
-
 
 ज्ञात्वैवम् अब्जसंभूत न कार्यो हृदि विस्मयः \।
 
@@ -22954,8 +18166,6 @@ MS.
 
 ३६.२३६ \।\।
 
-
-
 दृष्टो(ष्टे)भगवदाकारे स्वयं व्यक्तादिकेन च \।
 
 क्षितिमध्ये ऽवतीर्णे च पूर्वोद्दिष्टेन वर्त्मना \।\।
@@ -22963,8 +18173,6 @@ MS.
 पौ. सं.
 
 ३६.२३७ \।\।
-
-
 
 तीर्थोद्देशेषु सर्वेषु क्षेत्रेषु विविधेषु च \।
 
@@ -22974,8 +18182,6 @@ MS.
 
 ३६.२३८ \।\।
 
-
-
 वनेषूपवनाढयेषु पातालतलभूमिषु \।
 
 लोकोन्तरेषूर्ध्वगेषु देवैर् गन्धर्वसत्तमैः \।\।
@@ -22983,8 +18189,6 @@ MS.
 पौ. सं.
 
 ३६.२३९ \।\।
-
-
 
 नास्तिका भिन्नमर्यादा मोहमायामलान्विताः \।
 
@@ -22994,8 +18198,6 @@ MS.
 
 ३६.२४० \।\।
 
-
-
 चरणाम्बुजनालं तु परामृश्यन्ति ये ऽधमा \।
 
 मज्जन्ति नरके घोरे पितृभिःसहिताश्चिरात् \।\।
@@ -23003,8 +18205,6 @@ MS.
 पौ. सं.
 
 ३६.२४१ \।\।
-
-
 
 सदायतनदेवानां मूलं ये चान्विषन्ति वै \।
 
@@ -23014,8 +18214,6 @@ MS.
 
 ३६.२४२ \।\।
 
-
-
 धृतिशक्तिमयं मूलं देवानामपि दुर्दृशम् \।
 
 तत्कथं लक्ष्यते मूढैर्यन्मूर्तद्रव्यतां गतम् \।\।
@@ -23023,8 +18221,6 @@ MS.
 पौ. सं.
 
 ३६.२४३ \।\।
-
-
 
 मानमेयैःस्वतन्त्रं च यथा तत्परम\[द्भु\]तम \।
 
@@ -23034,8 +18230,6 @@ MS.
 
 ३६.२४४ \।\।
 
-
-
 गुणैर्दिव्ययगुणोपेतैरूर्जितैः प्राकृतैर्गुणैः \।
 
 स्वयमेवं जयन्नाथैर् अवतीर्य च या स्थितिः \।\।
@@ -23043,8 +18237,6 @@ MS.
 पौ. सं.
 
 ३६.२४५ \।\।
-
-
 
 गृहीता सुस्थिरा चैव सुसिद्धैश्चापि कल्पिता \।
 
@@ -23054,8 +18246,6 @@ MS.
 
 ३६.२४६ \।\।
 
-
-
 नित्यसन्निधिमाहात्म्यात् कालं कल्पक्षयावधि \।
 
 उत्तरोत्तरता चैव जगत्यस्मिन् हि वर्तते \।\।
@@ -23063,8 +18253,6 @@ MS.
 पौ. सं.
 
 ३६.२४७ \।\।
-
-
 
 दुष्टोपशान्तिदा शक्त्या सिद्धिदा या च वै सह \।
 
@@ -23074,8 +18262,6 @@ MS.
 
 ३६.२४८ \।\।
 
-
-
 स्वयमेवावतीर्णानां तत्त्वेशानामपि क्षितौ \।
 
 अतःसंसारभीतैश्च भक्तैःसर्वेश्वरस्य च \।\।
@@ -23083,8 +18269,6 @@ MS.
 पौ. सं.
 
 ३६.२४९ \।\।
-
-
 
 गम्यैश्च तेर्ऽचनीयाश्च कालं वै जीवितावाधि \।
 
@@ -23094,8 +18278,6 @@ MS.
 
 ३६.२५० \।\।
 
-
-
 प्राप्ताधिकारैर् दीक्षान्तसमयज्ञादिकैर्नरैः \।
 
 यदैव कृतदीक्षाणाम् अधिकारसमन्वितम् \।\।
@@ -23103,8 +18285,6 @@ MS.
 पौ. सं.
 
 ३६.२५१ \।\।
-
-
 
 अच्युताराधनार्थं तु निःश्रेयसपदाप्तये \।
 
@@ -23114,8 +18294,6 @@ MS.
 
 ३६.२५२ \।\।
 
-
-
 परमेतद्धि समयम् अप्रमेयरतात्मनाम् \।
 
 सा प्रसिद्धा तु वै व्यक्ताद् आकारात् परमेश्वरात् \।\।
@@ -23123,8 +18301,6 @@ MS.
 पौ. सं.
 
 ३६.२५३ \।\।
-
-
 
 व्यूहाद् वा विभवाख्याच्च ऋते नान्यत् पुरोदितात् \।
 
@@ -23134,8 +18310,6 @@ MS.
 
 ३६.२५४ \।\।
 
-
-
 क्वचिद्भगवदंशैस्तु प्रादुर्भावैर् अधिष्ठिताः \।
 
 दृश्यन्ते पार्थिवा लिङ्गाः श्रूयन्ते च द्विजोत्तम \।\।
@@ -23143,8 +18317,6 @@ MS.
 पौ. सं.
 
 ३६.२५५ \।\।
-
-
 
 यद्यप्येवं महाबुद्धे वैष्णवानां तथापि हि \।
 
@@ -23154,8 +18326,6 @@ MS.
 
 ३६.२५६ \।\।
 
-
-
 स्वयंमुवापि ये केचित् सुरसिद्धावतारिताः \।
 
 स्कन्दरुद्रमहेन्द्राद्याः प्रतिषिद्धास्तु तेर्ऽचने \।\।
@@ -23163,8 +18333,6 @@ MS.
 पौ. सं.
 
 ३६.२५७ \।\।
-
-
 
 अन्तर्यामी च सर्वेषां देवानां पुरुषोत्तमः \।
 
@@ -23174,8 +18342,6 @@ MS.
 
 ३६.२५८ \।\।
 
-
-
 भावभक्तिवशाद् विप्र स्वक्रि (की) याधिगमादपि \।
 
 ज्ञात्वैवं भक्तिसांकर्यं न कुर्यादेवमेव हि \।\।
@@ -23183,8 +18349,6 @@ MS.
 पौ. सं.
 
 ३६.२५७ \।\।
-
-
 
 वर्जनीयं प्रयत्नेन य इच्छेद् उत्तमां गतिम् \।
 
@@ -23194,8 +18358,6 @@ MS.
 
 ३६.२६० \।\।
 
-
-
 एकान्तिनःसुतत्त्वस्था देहान्तान्नान्यान्ययाजिनः \।
 
 कर्तव्यत्वेन ये विष्णुं संयजन्ति फलं विना \।\।
@@ -23203,8 +18365,6 @@ MS.
 पौ. सं.
 
 ३६.२६१ \।\।
-
-
 
 प्राप्नुवन्ति च देहान्ते वासुदेवत्वम् अब्जज \।
 
@@ -23214,8 +18374,6 @@ MS.
 
 ३६.२६२ \।\।
 
-
-
 परिज्ञेयाः तु ते विप्रा नानामार्गगणार्चनात् \।
 
 तस्मात् संसिद्धदेहस्तु दीक्षाख्येन तु कर्मणा \।\।
@@ -23223,8 +18381,6 @@ MS.
 पौ. सं.
 
 ३६.२६३ \।\।
-
-
 
 यावज्जपाधिकारं तु नारायणपरो भवेत् \।
 
@@ -23234,8 +18390,6 @@ MS.
 
 ३६.२६४ \।\।
 
-
-
 देहान्ते वैष्णवं लोकं प्राप्नुयात् पुनरेव हि \।
 
 जन्म चासाद्य चोत्कृष्टम् आबाल्याद् द्विजसत्तम \।\।
@@ -23243,8 +18397,6 @@ MS.
 पौ. सं.
 
 ३६.२६५ \।\।
-
-
 
 भगवत्कर्मनिष्णातः तत्परस्तन्मयो भवेत् \।
 
@@ -23254,17 +18406,9 @@ MS.
 
 ३६.२६६ \।\।
 
-
-
 त्यक्त्वा देहं पुनर्जन्म नाप्नुयादिह पौष्कर \।
 
-
-
-
-
 पौष्कर उचाच ---
-
-
 
 भगवन् भूतभव्येश क्षेत्रैः क्षेत्रवरैस्सह \।
 
@@ -23274,8 +18418,6 @@ MS.
 
 ३६.२६७ \।\।
 
-
-
 वासुदेवाख्यसद्ब्रह्मतत्वाद् आरभ्य वै क्रमात् \।
 
 वक्तुमर्हसि मे शश्वत् सर्वानुग्रहकाम्यया \।\।
@@ -23284,13 +18426,7 @@ MS.
 
 ३६.२६८ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 षाड्गुण्यदेहसंज्ञेन स्वस्थेन चतुरात्मना \।
 
@@ -23300,8 +18436,6 @@ MS.
 
 ३६.२६९ \।\।
 
-
-
 या वै सर्वेश्वरी शक्तिर् ईश्वराख्या विशामनी \।
 
 ज्ञानादिभेदभिन्नेन आद्येन चतुरात्मना \।\।
@@ -23309,8 +18443,6 @@ MS.
 पौ. सं.
 
 ३६.२७० \।\।
-
-
 
 व्याप्ता चाव्यक्तलिङ्गेन भारूपेण महात्मना \।
 
@@ -23320,8 +18452,6 @@ MS.
 
 ३६.२७१ \।\।
 
-
-
 पूर्णा शक्तिसमूहेन वैभवीयेन पद्मज \।
 
 सह मूर्त्यन्तरेणैव प्रादुर्भावान्तरस्तथा \।\।
@@ -23329,8 +18459,6 @@ MS.
 पौ. सं.
 
 ३६.२७२ \।\।
-
-
 
 प्रादुर्भावमयैर्बीजैः समूहे चतुरात्मना \।
 
@@ -23340,8 +18468,6 @@ MS.
 
 ३६.२७३ \।\।
 
-
-
 वर्तते वै समासाद्य नित्यं सैवेश्वरेच्छया \।
 
 त्रैगुण्यसाम्यम् आधारम् अव्यक्ताख्यं च शाश्वतम् \।\।
@@ -23349,8 +18475,6 @@ MS.
 पौ. सं.
 
 ३६.२७४ \।\।
-
-
 
 तत्रस्थम् अभिमानाख्यरूपेण परमेश्वर म् \।
 
@@ -23360,8 +18484,6 @@ MS.
 
 ३६.२७५ \।\।
 
-
-
 द्विभुजं पुरूषाकारयुक्तम् आदित्यसन्निभैः (भम्) \।
 
 ध्वजैर् आभरणैश्चिह्नैःशङ्खचक्रादिसंज्ञितैः \।\।
@@ -23369,8 +18491,6 @@ MS.
 पौ. सं.
 
 ३६.२७६ \।\।
-
-
 
 अव्यक्ते बुद्धितत्त्वे च स्थितं व्यक्ततरं विभुम् \।
 
@@ -23380,8 +18500,6 @@ MS.
 
 ३६.२७७ \।\।
 
-
-
 लाञ्छनैर् ध्वजपर्यन्तैर् व्यक्तैर्युक्तमनश्वरैः \।
 
 अहङ्कारं समाश्रित्य अव्यक्तं कमलोद्भव \।\।
@@ -23389,8 +18507,6 @@ MS.
 पौ. सं.
 
 ३६.२७८ \।\।
-
-
 
 स्थिता मूर्त्यन्तराःसर्वे केशवाद्यास्तु वै स्मृताः \।
 
@@ -23400,8 +18516,6 @@ MS.
 
 ३६.२७९ \।\।
 
-
-
 मनस्तत्त्वं समासाद्य सम्यक् ज्ञानगुणान्विताः \।
 
 बुद्धीन्द्रियगुणं विप्र षडेते पुनरन्यथा \।\।
@@ -23409,8 +18523,6 @@ MS.
 पौ. सं.
 
 ३६.२८० \।\।
-
-
 
 पौरूषं देहमासाद्य संस्थिताः परमेश्वराः \।
 
@@ -23420,8 +18532,6 @@ MS.
 
 ३६.२८१ \।\।
 
-
-
 कर्मेन्द्रियसमूहं तु तिष्ठन्त्याश्रित्य सर्वदा \।
 
 धर्माद्या विश्वरूपान्ता ये च सर्वगुणैर्युताः \।\।
@@ -23429,8 +18539,6 @@ MS.
 पौ. सं.
 
 ३६.२८२ \।\।
-
-
 
 तन्मात्रापञ्चकं खाद्यं समाश्रित्य च संस्थिताः \।
 
@@ -23440,8 +18548,6 @@ MS.
 
 ३६.२८३ \।\।
 
-
-
 संस्थिता वै समाश्रित्य प्रागुक्ता विबुधोत्तमाः \।
 
 उक्तशेषैर् महाबुद्धे प्रादुर्भावान्तरैः सह \।\।
@@ -23449,8 +18555,6 @@ MS.
 पौ. सं.
 
 ३६.२८४ \।\।
-
-
 
 उपरागं यथासाद्य लोकत्रयसमन्वितम् \।
 
@@ -23460,8 +18564,6 @@ MS.
 
 ३६.२८५ \।\।
 
-
-
 अनुग्रहधिया चैव परया कृपया द्विज \।
 
 अन्तकाले तु बुद्धानां देवैर्व्याप्तम् अनुस्मरन् \।\।
@@ -23469,8 +18571,6 @@ MS.
 पौ. सं.
 
 ३६.२८६ \।\।
-
-
 
 अध्यक्षो दैवतं क्ष्मान्तं विग्रहं तत्त्वसंग्रहम् \।
 
@@ -23480,8 +18580,6 @@ MS.
 
 ३६.२८७ \।\।
 
-
-
 यस्माद्वै भगवच्छक्त्या त्वनुकम्पाख्यया द्विज \।
 
 आविश्य बान्धवैःस्निग्धं जन्तोः सङ्गतिसिद्धये \।\।
@@ -23489,8 +18587,6 @@ MS.
 पौ. सं.
 
 ३६.२८८ \।\।
-
-
 
 तत्तस्यानेन विधिना आपादयति वै शुभम् \।
 
@@ -23500,13 +18596,7 @@ MS.
 
 ३६.२८९ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 क्षेत्रैः क्षैत्रेश्वरोपेतैर् भूतानाम् इह यत्प्रभो \।
 
@@ -23516,13 +18606,7 @@ MS.
 
 ३६.२९० \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 कर्मभूमौ मनुष्याणां भव्याः क्षेत्राः तथा हि ये \।
 
@@ -23532,8 +18616,6 @@ MS.
 
 ३६.२९१ \।\।
 
-
-
 साम्प्रतं मे च ते शश्वदेकाग्रम् अवधारय \।
 
 आर्यावर्ते तु भूभागे पृथिव्यां पुण्यसंज्ञके \।\।
@@ -23541,8 +18623,6 @@ MS.
 पौ. सं.
 
 ३६.२९२ \।\।
-
-
 
 मध्यदेशसमोपेते चतुर्दिक्परिनिष्ठिते \।
 
@@ -23552,8 +18632,6 @@ MS.
 
 ३६.२९३ \।\।
 
-
-
 आसृष्टेरवतीर्णा येः स्वाधिष्ठानैःसहाखिलाः \।
 
 आदिदेवादयो देवा व्यक्तिविग्रहलक्षणाः \।\।
@@ -23561,8 +18639,6 @@ MS.
 पौ. सं.
 
 ३६.२९४ \।\।
-
-
 
 यत्र यत्र च भूभागे यो यस्सार्वेश्वरं वपुः \।
 
@@ -23572,8 +18648,6 @@ MS.
 
 ३६.२९५ \।\।
 
-
-
 क्षेत्रशेनान्विताश्चैव तीर्थेशेन तथैव हि \।
 
 यस्माद्देवालयोदेशात् ध्मातस्य जलजस्य च \।\।
@@ -23581,8 +18655,6 @@ MS.
 पौ. सं.
 
 ३६.२९६ \।\।
-
-
 
 भवेच्छब्दात्तवेधश्च तावत् क्षेत्रं तदुच्यते \।
 
@@ -23592,8 +18664,6 @@ MS.
 
 ३६.२९७ \।\।
 
-
-
 क्रोशाधिकसमं न्यूनं मानेनानेन येन तु \।
 
 अन्तर्वेदी च सा ज्ञेया नारायणरतात्मनाम् \।\।
@@ -23601,8 +18671,6 @@ MS.
 पौ. सं.
 
 ३६.२९८ \।\।
-
-
 
 यजने श्राद्धकरणे दाने वोत्क्रमणेर्ऽचने \।
 
@@ -23612,8 +18680,6 @@ MS.
 
 ३६.२९९ \।\।
 
-
-
 स्थितं यदेकदेशे तु दीपालोको द्विजोत्तम \।
 
 आभासयति भूभागं परतस्तद्वदेव हि \।\।
@@ -23621,8 +18687,6 @@ MS.
 पौ. सं.
 
 ३६.३०० \।\।
-
-
 
 स्वक्षेत्रं क्षेत्रनाथं च समासाद्य च वर्तते \।
 
@@ -23632,8 +18696,6 @@ MS.
 
 ३६.३०१ \।\।
 
-
-
 तत्र तावच्चतुर्मूर्तेर् मूर्त्यन्तरगणस्य च \।
 
 सन्निवेशं पृथिव्यां वै साम्प्रतं त्ववधारय \।\।
@@ -23641,8 +18703,6 @@ MS.
 पौ. सं.
 
 ३६.३०२ \।\।
-
-
 
 पुष्करं क्षेत्रमाश्रित्य पुण्डरीकाक्षसंज्ञया \।
 
@@ -23652,8 +18712,6 @@ MS.
 
 ३६.३०३ \।\।
 
-
-
 एवं क्षेत्रवरैः सर्वमेत्य विश्वेश्वरःस्वयम् \।
 
 चतुर्मूर्तिद्विजाद्यं वै आसृष्टेःसंस्थितिं क्रतौ \।\।
@@ -23661,8 +18719,6 @@ MS.
 पौ. सं.
 
 ३६.३०४ \।\।
-
-
 
 चतुर्णां मूर्तिभेदं यद् द्विषट्कपरिसंख्यया \।
 
@@ -23672,8 +18728,6 @@ MS.
 
 ३६.३०५ \।\।
 
-
-
 केशवः क्लेशहा लोके वै (द्वै) रूप्येण क्षितौ स्थितः \।
 
 अभिव्यक्तेन रूपेण गोविन्दः पुरूषोत्तमः \।\।
@@ -23682,15 +18736,11 @@ MS.
 
 ३६.३०६ \।\।
 
-
-
 भूभागपदमाश्रित्य संस्थितो नगसाहृये \।\।
 
 पौ. सं.
 
 ३६.३०७ \।\।
-
-
 
 स्थाने वृन्दावनाख्ये ऽपि द्विधैव कमलोद्भव \।
 
@@ -23700,8 +18750,6 @@ MS.
 
 ३६.३०८ \।\।
 
-
-
 मन्दराख्यगिरिं चैव आसाद्य मधुसूदनः \।
 
 भूतानाम् अनुकम्पार्थम् अवतीर्य च संस्थितः \।\।
@@ -23709,8 +18757,6 @@ MS.
 पौ. सं.
 
 ३६.३०९ \।\।
-
-
 
 यामुनं जलमाश्रित्य देवदेवस्त्रिविक्रमः \।
 
@@ -23720,8 +18766,6 @@ MS.
 
 ३६.३१० \।\।
 
-
-
 मूर्त्यन्तरं वामनाख्यं सहयाद्रौ कमलोद्भव \।
 
 स्वतत्त्वादेत्य विश्रान्तं भविनां शोकशान्तये \।\।
@@ -23729,8 +18773,6 @@ MS.
 पौ. सं.
 
 ३६.३११ \।\।
-
-
 
 नर्मदाख्यं हि चाक्रम्य जलं पापक्षयङ्करम् \।
 
@@ -23740,8 +18782,6 @@ MS.
 
 ३६.३१२ \।\।
 
-
-
 हृषीकेशस्तु भगवान् संस्थितो ऽप्यात्मना भुवि \।
 
 धराधरे ध्वजाख्ये तु क्षेत्रे कुब्जाम्रके ऽब्जज \।\।
@@ -23749,8 +18789,6 @@ MS.
 पौ. सं.
 
 ३६.३१३ \।\।
-
-
 
 पद्मनाभस्तु माध्येशस्त्ववतीर्य च संस्थितः \।
 
@@ -23760,8 +18798,6 @@ MS.
 
 ३६.३१४ \।\।
 
-
-
 गिरौ रेवतके विप्र स्वतत्त्वादेत्य वर्तते \।
 
 दामोदरस्तु भगवान् हितार्थं भावितात्मनाम् \।\।
@@ -23769,8 +18805,6 @@ MS.
 पौ. सं.
 
 ३६.३१५ \।\।
-
-
 
 एभिर् मूर्त्यन्तरैः सार्धं मूर्तिभिः विश्वमन्दिरम् \।
 
@@ -23780,8 +18814,6 @@ MS.
 
 ३६.३२६ \।\।
 
-
-
 निबोधतु महाबुद्धे सावधानेन चेतसा \।
 
 सिद्धामरार्चितं विद्धि श्वेतद्वीपे तु हंसराट् \।\।
@@ -23789,8 +18821,6 @@ MS.
 पौ. सं.
 
 ३६.३२७ \।\।
-
-
 
 मत्स्यात्मा भगवानप्सु अश्वात्मा बडबामुखे \।
 
@@ -23800,8 +18830,6 @@ MS.
 
 ३६.३१८ \।\।
 
-
-
 विज्ञातव्यो मृगेन्द्रात्मा पापहा सर्वदेहिनाम् \।
 
 सौकरीयेन रूपेण क्षेत्रे तत्संज्ञके तु वै \।\।
@@ -23809,8 +18837,6 @@ MS.
 पौ. सं.
 
 ३६.३१९ \।\।
-
-
 
 गाङ्गे शुभजले कूले सुरसिद्धनिषेविते \।
 
@@ -23820,8 +18846,6 @@ MS.
 
 ३६.३२० \।\।
 
-
-
 नौबन्धनगिरावेव मीनवक्त्रः स्थितः प्रभुः \।
 
 कृष्णाश्वे ऽश्वशिरो देवो क्षितिक्षेत्रे क्षमार्चिते \।\।
@@ -23829,8 +18853,6 @@ MS.
 पौ. सं.
 
 ३६.३२१ \।\।
-
-
 
 लवणोदधिपर्यन्ते भूभागे सिद्धसेविते \।
 
@@ -23840,8 +18862,6 @@ MS.
 
 ३६.३२२ \।\।
 
-
-
 नृहरिः कृतशौचे तु उज्जयिन्याम् अपि द्विज \।
 
 विशाखमूलसंज्ञे तु स्थाने त्वेवं स्थितस्त्रिधा \।\।
@@ -23849,8 +18869,6 @@ MS.
 पौ. सं.
 
 ३६.३२३ \।\।
-
-
 
 कोकामुखे वराहस्तु वाराहे तु नगोत्तमे \।
 
@@ -23860,8 +18878,6 @@ MS.
 
 ३६.३२४ \।\।
 
-
-
 वामनं खर्वमूर्तिं च वैश्वरूप्येण संस्थितम् \।
 
 मध्यदेशे तु गङ्गायाः कुरूक्षेत्रे तु पौष्कर \।\।
@@ -23869,8 +18885,6 @@ MS.
 पौ. सं.
 
 ३६.३२५ \।\।
-
-
 
 यामुनं कुलमासाद्य प्रादुर्भावान्तरं महत् \।
 
@@ -23880,8 +18894,6 @@ MS.
 
 ३६.३२६ \।\।
 
-
-
 नगोत्तमे महेन्द्राख्ये परश्वथकरो द्विज \।
 
 रामसंज्ञश्च भगवान् संस्थितः क्षत्रियान्तकः \।\।
@@ -23889,8 +18901,6 @@ MS.
 पौ. सं.
 
 ३६.३२७ \।\।
-
-
 
 धराधरे चित्रकूटे रक्षःक्षयकरो महान् \।
 
@@ -23900,8 +18910,6 @@ MS.
 
 ३६.३२८ \।\।
 
-
-
 रामो ऽन्यःसीरपाणिर् वै यामुनं भ्रामयञ्जलम् \।
 
 संस्थितो मानुषीयेषु भूभागेषु शुभेषु च \।\।
@@ -23909,8 +18917,6 @@ MS.
 पौ. सं.
 
 ३६.३२९ \।\।
-
-
 
 सामुद्रे ऽपि ततो द्वीपे द्वारकाख्ये ऽमरार्चिते \।
 
@@ -23920,8 +18926,6 @@ MS.
 
 ३६.३३० \।\।
 
-
-
 कल्की विष्णुश्च भगवान् स्तूयमानो द्विजैः स्थितः \।
 
 समासाद्य विपाशां च नदीं नियतमानसः \।\।
@@ -23929,8 +18933,6 @@ MS.
 पौ. सं.
 
 ३६.३३१ \।\।
-
-
 
 धर्ममूर्तिर् महात्मा वै धर्मारण्ये सुरार्चिते \।
 
@@ -23940,8 +18942,6 @@ MS.
 
 ३६.३३२ \।\।
 
-
-
 नरसंज्ञं जगन्नाथं सिद्धैः संपूजितेषु च \।
 
 भूभागेषु च रम्येषु नित्यसन्निहितः स्थितः \।\।
@@ -23949,8 +18949,6 @@ MS.
 पौ. सं.
 
 ३६.३३३ \।\।
-
-
 
 गिरौ गोवर्धनाख्ये तु देवः सर्वेश्वरो हरिः \।
 
@@ -23960,8 +18958,6 @@ MS.
 
 ३६.३३४ \।\।
 
-
-
 सालिग्रामे च भगवान् राजेन्द्राख्ये वने द्विज \।
 
 तथैव वसुधांशेन स्थितो देवव्रताभिधे \।\।
@@ -23969,8 +18965,6 @@ MS.
 पौ. सं.
 
 ३६.३३५ \।\।
-
-
 
 कृष्णो ऽपरश्चतुर्मूर्तिर् अवतीर्य धरातले \।
 
@@ -23980,8 +18974,6 @@ MS.
 
 ३६.३३६ \।\।
 
-
-
 श्वेतद्वीपे कुरूक्षेत्रे हिमवन्ताचले ऽब्जज \।
 
 वेदिकायामपि नरे विश्वरूपःस्थितः प्रभुः \।\।
@@ -23989,8 +18981,6 @@ MS.
 पौ. सं.
 
 ३६.३३७ \।\।
-
-
 
 क्षीरोदधौ पद्मनाभःशेषाहिशयनोपरि \।
 
@@ -24000,8 +18990,6 @@ MS.
 
 ३६.३३८ \।\।
 
-
-
 चतुर्धा रूपमाश्रित्य विश्वे ऽस्मिन् सैव वर्तते \।
 
 हिताय सर्वलोकानां यथावद् अवधारय \।\।
@@ -24009,8 +18997,6 @@ MS.
 पौ. सं.
 
 ३६.३३९ \।\।
-
-
 
 आसाद्य शयनं ब्रह्मन् पातालतलसंस्थितः \।
 
@@ -24022,8 +19008,6 @@ MS.
 
 ३६.३४० \।\।
 
-
-
 वटमूलं समाश्रित्य प्रयागे सुरपूजिते \।
 
 जगदेकार्णवं कृत्वा दिव्यम् आसाद्य पादपम् \।\।
@@ -24031,8 +19015,6 @@ MS.
 पौ. सं.
 
 ३६.३४१ \।\।
-
-
 
 सन्तिष्ठते स भगवांस्तस्मिंस्तीरे क्षितौ द्विज \।
 
@@ -24042,8 +19024,6 @@ MS.
 
 ३६.३४२ \।\।
 
-
-
 हिमाचलैकदेशे तु तुङ्गे वै भृगुसंज्ञके \।
 
 मधुकैटभमाथी च संस्थितः सो ऽवनीतले \।\।
@@ -24051,8 +19031,6 @@ MS.
 पौ. सं.
 
 ३६.३४३ \।\।
-
-
 
 क्षीरोदकक्षितिक्षेत्रे सुरासुरनिषेविते \।
 
@@ -24062,8 +19040,6 @@ MS.
 
 ३६.३४४ \।\।
 
-
-
 तत्रैवामृतजिद्देवः संस्थितः सिद्धसेवितः \।
 
 कान्तारूपधरश्चैव सुधाकलशधृक् तथा \।\।
@@ -24071,8 +19047,6 @@ MS.
 पौ. सं.
 
 ३६.३४५ \।\।
-
-
 
 सिद्धानां च मुनीनां च देवानां मृत्युजित् स्थितः \।
 
@@ -24082,8 +19056,6 @@ MS.
 
 ३६.३४६ \।\।
 
-
-
 सालवृक्षभुजोद्देशे सालिग्रामे स्थितो विभुः \।
 
 त्रिकूटगिरिपृष्ठे तु गम्ये गगनचारिणाम् \।\।
@@ -24091,8 +19063,6 @@ MS.
 पौ. सं.
 
 ३६.३४७ \।\।
-
-
 
 गजोद्धृतिच्छलेनैव अप्रमेयाख्यया स्थितः \।
 
@@ -24102,8 +19072,6 @@ MS.
 
 ३६.३४८ \।\।
 
-
-
 गंगासमुद्रसंयोगे क्षित्युदेशे मनोरमे \।
 
 यज्ञभुग् भगवान् देवो नैमिशे सिद्धपूजिते \।\।
@@ -24111,8 +19079,6 @@ MS.
 पौ. सं.
 
 ३६.३४९ \।\।
-
-
 
 सैन्धवारण्यम् आश्रित्य अनन्तो भगवांस्स्थितः \।
 
@@ -24122,8 +19088,6 @@ MS.
 
 ३६.३५० \।\।
 
-
-
 रक्षोगणकुलं चैव संस्थितः तज्जयैषिणाम् \।
 
 उत्पलावर्तके देशे शौरिसंज्ञो ऽच्युतःस च \।\।
@@ -24131,8 +19095,6 @@ MS.
 पौ. सं.
 
 ३६.३५१ \।\।
-
-
 
 क्षितौ समुद्रसिन्ध्वोरब्धेः सङ्गमे सिद्धसेविते \।
 
@@ -24142,8 +19104,6 @@ MS.
 
 ३६.३५२ \।\।
 
-
-
 आसाद्य सूकरक्षेत्रं देवो गरूडवाहनः \।
 
 संस्थितो गरूडारूढः पारिजातकराङ्कितः \।\।
@@ -24151,8 +19111,6 @@ MS.
 पौ. सं.
 
 ३६.३५३ \।\।
-
-
 
 सिद्धैः सुरगणैः सार्धं गगने चापि पौष्कर \।
 
@@ -24162,8 +19120,6 @@ MS.
 
 ३६.३५४ \।\।
 
-
-
 एकदेशं समासाद्य सर्वस्य वरदः स्थितः \।
 
 माल्योदपाणिर् वैकुष्ठो मगधायां महामते \।\।
@@ -24171,8 +19127,6 @@ MS.
 पौ. सं.
 
 ३६.३५५ \।\।
-
-
 
 ओड्डीन्ये पुण्यभूभागे संस्थितः पुरूषोत्तमः \।
 
@@ -24182,8 +19136,6 @@ MS.
 
 ३६.३५६ \।\।
 
-
-
 शिपिविष्टाख्यया देवः शिपिविष्टव्रते स्थितः \।
 
 प्राक्समुद्रापयाने तु भूभागे शुभलक्षणे \।\।
@@ -24191,8 +19143,6 @@ MS.
 पौ. सं.
 
 ३६.३५७ \।\।
-
-
 
 कापिलं मूर्तिम् आसाद्य वासुदेवः स्थित प्रभुः \।
 
@@ -24202,8 +19152,6 @@ MS.
 
 ३६.३५८ \।\।
 
-
-
 मणिबन्धं समासाद्य नित्यं सन्निहितः स्थितः \।
 
 मगधामण्डले विप्र महाबोधधराश्रितः \।\।
@@ -24211,8 +19159,6 @@ MS.
 पौ. सं.
 
 ३६.३५९ \।\।
-
-
 
 संस्थितो लोकनाथात्मा देवदेवो जनार्दनः \।
 
@@ -24222,8 +19168,6 @@ MS.
 
 ३६.३६० \।\।
 
-
-
 सूर्यसंज्ञस्तु भगवान् हेमशैलोपरि स्थितः \।
 
 अच्युतो वामनेत्रे तु यो ऽभिमानतनुर् विभुः \।\।
@@ -24231,8 +19175,6 @@ MS.
 पौ. सं.
 
 ३६.३६१ \।\।
-
-
 
 भगवान् सोमसंज्ञः तु सोमतीर्थाश्रमे ऽपि च \।
 
@@ -24242,8 +19184,6 @@ MS.
 
 ३६.३६२ \।\।
 
-
-
 वस्वात्मा गगने विप्र भासते त्वसुरान्तकृत् \।
 
 विष्णुनाम्ना पुनर् देवः त्वनेकायुधमण्डितः \।\।
@@ -24251,8 +19191,6 @@ MS.
 पौ. सं.
 
 ३६.३६३ \।\।
-
-
 
 जयाख्ययोज्जयिन्यां वै स्थितः पापजये नृणाम् \।
 
@@ -24262,8 +19200,6 @@ MS.
 
 ३६.३६४ \।\।
 
-
-
 चक्रपाणिस्तु भगवान् भक्तानां मोक्षदः स्थितः \।
 
 सुरोत्तमाभिधानश्च गदापाणिस्तु पौष्कर \।\।
@@ -24271,8 +19207,6 @@ MS.
 पौ. सं.
 
 ३६.३६५ \।\।
-
-
 
 सदा सन्निहितं विद्धि गङ्गाद्वारे सुरैः सह \।
 
@@ -24282,8 +19216,6 @@ MS.
 
 ३६.३६६ \।\।
 
-
-
 स्थितः पिण्डारके देवो विष्वक्सेनः सनातनः \।
 
 शुभम् आसाद्य भूभागं प्राग्ज्योतिषपुरे तथा \।\।
@@ -24291,8 +19223,6 @@ MS.
 पौ. सं.
 
 ३६.३६७ \।\।
-
-
 
 देवं विश्वेश्वराख्यं च स्थितमेत्य स्वगोचरात् \।
 
@@ -24302,8 +19232,6 @@ MS.
 
 ३६.३६८ \।\।
 
-
-
 स्वामिसंज्ञो जगन्नाथः स्थितो मन्दाकिनीतटे \।
 
 भल्लातके महायोगे ध्यायिनाम् अपवर्गदः \।\।
@@ -24311,8 +19239,6 @@ MS.
 पौ. सं.
 
 ३६.३६९ \।\।
-
-
 
 रसातले नृसिंहाख्ये देविकाया स्ततटाश्रिते \।
 
@@ -24322,8 +19248,6 @@ MS.
 
 ३६.३७० \।\।
 
-
-
 शङ्कराख्ये तु भूभागे सर्वदेवनिषेविते \।
 
 ज्ञानमूर्तिर् जगन्नाथः संस्थितःशुभकृन्नृणाम् \।\।
@@ -24331,8 +19255,6 @@ MS.
 पौ. सं.
 
 ३६.३७१ \।\।
-
-
 
 पृथिव्यां तु पितृक्षेत्रे मोचयन्तानृणत्रयात् \।
 
@@ -24342,8 +19264,6 @@ MS.
 
 ३६.३७२ \।\।
 
-
-
 एते ऽवताराः कथिता लेशतः कमलोद्भव \।
 
 एभिः क्षितितलं व्याप्तं पौनःपुन्येन च स्वयम् \।\।
@@ -24352,8 +19272,6 @@ MS.
 
 ३६.३७३ \।\।
 
-
-
 संसारिणां जनानां तु अनुग्रहधियाब्जज \।
 
 सङ्कीर्तनम् अगम्यानां त्रिसन्ध्यं नित्यम् आचरेत् \।\।
@@ -24361,8 +19279,6 @@ MS.
 पौ. सं.
 
 ३६.३७४ \।\।
-
-
 
 मतिं चक्रे(
 
@@ -24374,8 +19290,6 @@ MS.
 
 ३६.३७५ \।\।
 
-
-
 साङ्कर्यपरिहारेण द्रष्टव्यास्ते सदैव हि \।
 
 ऋषिभिः सामरैः सिद्धैः स्वाश्रमेषु महत्सु च \।\।
@@ -24383,8 +19297,6 @@ MS.
 पौ. सं.
 
 ३६.३७६ \।\।
-
-
 
 जलाशयेषु पुण्येषु पृथिव्यां विविधेषु च \।
 
@@ -24394,8 +19306,6 @@ MS.
 
 ३६.३७७ \।\।
 
-
-
 उ (मु) क्ता गताश्च ये चान्ये समुत्प्रेक्ष्य धियास्वयम् \।
 
 प्रतिष्ठिताश्च विधिवत् समन्त्राः सत्यविक्रमाः \।\।
@@ -24403,8 +19313,6 @@ MS.
 पौ. सं.
 
 ३६.३७८ \।\।
-
-
 
 स्थित्या नानाप्रकारा ये भूतभव्यादिकाख्यया \।
 
@@ -24414,8 +19322,6 @@ MS.
 
 ३६.३७९ \।\।
 
-
-
 लीलारूचिमयेनैव चित्तसौख्यप्रदेन च \।
 
 भुजाद्यायुधसन्धानकेतुभेदेन वै सह \।\।
@@ -24423,8 +19329,6 @@ MS.
 पौ. सं.
 
 ३६.३८० \।\।
-
-
 
 अलंकृतश्च भूभागो मनुजैस्त्वेवमेव हि \।
 
@@ -24434,8 +19338,6 @@ MS.
 
 ३६.३८१ \।\।
 
-
-
 आदिदेवादयश्चैते तत्त्वेशाः समुदीरिताः \।
 
 परस्मिन् भगवत्तत्वे तत्त्वभेदेन व्यवस्थिताः \।\।
@@ -24443,8 +19345,6 @@ MS.
 पौ. सं.
 
 ३६.३८२ \।\।
-
-
 
 सूर्यस्य रश्मयो यद्वद्वह्नेर्चिर्गणं यथा \।
 
@@ -24454,8 +19354,6 @@ MS.
 
 ३६.३८३ \।\।
 
-
-
 चित्सामान्यानि(न्नि)त्यशुद्धा व्यापकाः परमेश्वराः \।
 
 तत्त्वसत्तां समाश्रित्य ज्ञानाद्यैः समलंकृताः \।\।
@@ -24463,8 +19361,6 @@ MS.
 पौ. सं.
 
 ३६.३८४ \।\।
-
-
 
 अणिमाद्यष्टकोपेताः संस्थिताः स्वात्मना तु वै \।
 
@@ -24474,8 +19370,6 @@ MS.
 
 ३६.३८५ \।\।
 
-
-
 मुक्तये सर्वभूतानां विशेषेण तु वै भुवि \।
 
 आविश्वप्रभवात् कालादारभ्य प्रलयावधि \।\।
@@ -24483,8 +19377,6 @@ MS.
 पौ. सं.
 
 ३६.३८६ \।\।
-
-
 
 क्षेत्रेषु तीर्थतीरेषु शब्दब्रह्मयात्मना \।
 
@@ -24494,8 +19386,6 @@ MS.
 
 ३६.३८७ \।\।
 
-
-
 ततो व्यक्तेतरं रूपम् आश्रयन्ति च पार्थिवम् \।
 
 हितार्थं सर्वलोकानाम् अवतीर्णम् अनश्वरम् \।\।
@@ -24503,8 +19393,6 @@ MS.
 पौ. सं.
 
 ३६.३८८ \।\।
-
-
 
 जगत्यायतनाख्यायाम् अत्र सिध्यन्ति योगिनः \।
 
@@ -24514,8 +19402,6 @@ MS.
 
 ३६.३८९ \।\।
 
-
-
 सन्निधिं शक्तिभावेन नित्यं कुर्वन्ति तत्र च \।
 
 योगेश्वरामराः सिद्धाः स्मृत्वाकारं तदात्मकम् \।\।
@@ -24523,8 +19409,6 @@ MS.
 पौ. सं.
 
 ३६.३९० \।\।
-
-
 
 शैलमुद्दारूधातूत्थां व्यक्तिं संस्थापयन्ति च \।
 
@@ -24534,8 +19418,6 @@ MS.
 
 ३६.३९१ \।\।
 
-
-
 येनाच्युतीयनाम्ना वै यद्यत्स्वानान्तरं स्मृतम् \।
 
 सन्निधिस्थस्य वै रूपं शब्दमूर्तिधरस्य च \।\।
@@ -24543,8 +19425,6 @@ MS.
 पौ. सं.
 
 ३६.३९२ \।\।
-
-
 
 भिन्नात्मनां स्वयंव्यक्तिरूपेष्वव्यक्तकेषु च \।
 
@@ -24554,8 +19434,6 @@ MS.
 
 ३६.३९३ \।\।
 
-
-
 आकाराः संन्निवेशाच्च पारमेश्वरम् अन्यथा \।
 
 अन्यथा वै जगत्यस्मिन् ख्याताख्यातं च शाश्वतम् \।\।
@@ -24563,8 +19441,6 @@ MS.
 पौ. सं.
 
 ३६.३९४ \।\।
-
-
 
 एवम् आयतनानां च नित्यत्वं संप्रकाशितम् \।
 
@@ -24574,8 +19450,6 @@ MS.
 
 ३६.३९५ \।\।
 
-
-
 जाता ये मां प्रसिद्धिर् वै सति व्यक्तिवशाद् द्विज \।
 
 विना व्यक्तिस्वरूपेण शब्देनाप्यक्षयात्मना \।\।
@@ -24583,8 +19457,6 @@ MS.
 पौ. सं.
 
 ३६.३९६ \।\।
-
-
 
 व्द्यात्मनापि हि चान्यत्र शब्दव्याक्तिमयात्मना \।
 
@@ -24594,8 +19466,6 @@ MS.
 
 ३६.३९७ \।\।
 
-
-
 निर्देषं सलिलं शुद्धं पादपौषधिसंकुलम् \।
 
 स्थितिं कृत्वा स्थिरां तत्र कर्मणा मनसा ततः \।\।
@@ -24603,8 +19473,6 @@ MS.
 पौ. सं.
 
 ३६.३९८ \।\।
-
-
 
 सुलक्षणं तु पाषाणं दृष्ट्वा चान्यत्र वाहृतम् \।
 
@@ -24614,8 +19482,6 @@ MS.
 
 ३६.३९९ \।\।
 
-
-
 उपले ऽस्मिज्जगद्योनेर्विष्णोः सर्वेश्वरस्य च \।
 
 पादारविन्दमुद्रां च सम्पाद्य च मनोहराम् \।\।
@@ -24623,8 +19489,6 @@ MS.
 पौ. सं.
 
 ३६.४०० \।\।
-
-
 
 एवम् अन्ये तु मुनयः स्वस्थानेषु महामते \।
 
@@ -24634,8 +19498,6 @@ MS.
 
 ३६.४०१ \।\।
 
-
-
 निवेशं तत्र कृत्वा वै भक्तिपूतेन कर्मणा \।
 
 अपरे तु द्विजश्रेष्ठा भक्तिबृंहितमानसाः \।\।
@@ -24643,8 +19505,6 @@ MS.
 पौ. सं.
 
 ३६.४०२ \।\।
-
-
 
 कुर्वन्ति सन्निवेशं च भक्तानां हितकाम्यया \।
 
@@ -24654,8 +19514,6 @@ MS.
 
 ३६.४०३ \।\।
 
-
-
 मुद्रितेषु सहस्रारपूर्वमुद्रागणेषु च \।
 
 पाषाणैर्वा महाबुद्धेरासृष्टेः पूजनेषु च \।\।
@@ -24663,8 +19521,6 @@ MS.
 पौ. सं.
 
 ३६.४०४ \।\।
-
-
 
 कृत्वा संस्काररूपं तु न्यासं यत्रोचितं हि यत् \।
 
@@ -24674,8 +19530,6 @@ MS.
 
 ३६.४०५ \।\।
 
-
-
 ऋक्सामपूर्वैः सन्मन्त्रैर्द्विषट्कार्णसमन्वितैः \।
 
 भगवत्पदसिध्यर्थं शिष्यादीनां शुभाप्तये \।\।
@@ -24683,8 +19537,6 @@ MS.
 पौ. सं.
 
 ३६.४०६ \।\।
-
-
 
 एवं पुष्करसंभूत ग्रामाश्च विषयाखिलाः \।
 
@@ -24694,8 +19546,6 @@ MS.
 
 ३६.४०७ \।\।
 
-
-
 ऋषिभिर् मनुजैःशुद्धैः स्वयं सर्वेश्वरेण तु \।
 
 भक्तानां अनुकम्पार्थं नीताः पुण्यपदात्मताम् \।\।
@@ -24703,8 +19553,6 @@ MS.
 पौ. सं.
 
 ३६.४०८ \।\।
-
-
 
 विभवव्यूहभेदेन स्थिता चानुग्रहेच्छया \।
 
@@ -24714,8 +19562,6 @@ MS.
 
 ३६.४०९ \।\।
 
-
-
 पूर्वमन्त्रादयो मन्त्राः तत्र ये प्राङ्निरोधिताः \।
 
 बिम्बम् उज्झित्य तिष्ठन्ति तद्ब्रह्मविवराम्बरे \।\।
@@ -24723,8 +19569,6 @@ MS.
 पौ. सं.
 
 ३६.४१० \।\।
-
-
 
 संस्कारं न कृतं यावत् पूर्वं तत् स्थावरोदितम् \।
 
@@ -24734,8 +19578,6 @@ MS.
 
 ३६.४११ \।\।
 
-
-
 तद्देशजानां सर्वेषां साधकानां नृपस्य च \।
 
 द्विजेन्द्राद्यैर् अतस्माद् वणिग्भिर्वा कुटुग्बिभिः \।\।
@@ -24743,8 +19585,6 @@ MS.
 पौ. सं.
 
 ३६.४१२ \।\।
-
-
 
 देशिकैर् नरनाथेन कार्यं च भयनारानम् \।
 
@@ -24754,8 +19594,6 @@ MS.
 
 ३६.४१३ \।\।
 
-
-
 प्रातिमं विग्रहं शश्वत्सर्वेषां श्रेयसे तु वै \।
 
 निर्जनायतनानां तु धर्मार्थं यः समाचरेत् \।\।
@@ -24763,8 +19601,6 @@ MS.
 पौ. सं.
 
 ३६.४१४ \।\।
-
-
 
 दोषोपशमनं तस्य सर्वदुःखक्षयो भवेत् \।
 
@@ -24774,8 +19610,6 @@ MS.
 
 ३६.४१५ \।\।
 
-
-
 ब्रह्मण्यधिपतित्वेन आकारं चाच्युतं हि यत् \।
 
 सविशेषैः समोपेतं विभूत्यंशैः समन्वितम् \।\।
@@ -24783,8 +19617,6 @@ MS.
 पौ. सं.
 
 ३६.४१६ \।\।
-
-
 
 प्रजापतिः तम् आसाद्य संक्रान्तं बुद्धिदर्पणे \।
 
@@ -24794,8 +19626,6 @@ MS.
 
 ३६.४१७ \।\।
 
-
-
 संपन्नस्य च होमाद्यैर् देशिकैः संस्कृतस्य च \।
 
 संक्रामन् ह्यचिरात्तत्र गौणम् आकारमैश्वरम् \।\।
@@ -24803,8 +19633,6 @@ MS.
 पौ. सं.
 
 ३६.४१८ \।\।
-
-
 
 सह विन्यासकाले तु वाचकेन महात्मना \।
 
@@ -24814,8 +19642,6 @@ MS.
 
 ३६.४१९ \।\।
 
-
-
 संसिद्धभूतिदृष्टिर् वै तुल्यकालं तु भूतले \।
 
 विश्ववद्विस्मृतिं नैति शिल्पिबुद्धिसमाश्रितम् \।\।
@@ -24823,8 +19649,6 @@ MS.
 पौ. सं.
 
 ३६.४२० \।\।
-
-
 
 स हि यच्छति भक्तानां कृत्वाकारं सुलक्षणम् \।
 
@@ -24834,8 +19658,6 @@ MS.
 
 ३६.४२१ \।\।
 
-
-
 दृष्टा स्वयंव्यक्तिमतो भुवि बिम्बं तु वै बुधः \।
 
 ब्रह्मरुद्रैकसूर्याख्यम् आच्युतं विद्धि तन्महत् \।\।
@@ -24843,8 +19665,6 @@ MS.
 पौ. सं.
 
 ३६.४२२ \।\।
-
-
 
 यद् उक्तं व्यूहभेदस्थं मूर्तिभेदैः समन्वितम् \।
 
@@ -24854,8 +19674,6 @@ MS.
 
 ३६.४२३ \।\।
 
-
-
 आराधने समाधौ वा उपविष्टास्तु चोत्थिताः \।
 
 संस्थिताःस्थानकैश्चान्ये तमो(पो)मूर्तिष्वनुष्ठितैः \।\।
@@ -24863,8 +19681,6 @@ MS.
 पौ. सं.
 
 ३६.४२४ \।\।
-
-
 
 धारयत्यद्भूतं चैव लाच्छनद्वयम् इच्छया \।
 
@@ -24874,8 +19690,6 @@ MS.
 
 ३६.४२५ \।\।
 
-
-
 शङ्खचक्रगदापद्मपूर्वाद्यायुधसंग्रहात् \।
 
 यथोद्दिष्टक्रमेणेव लोकेशादिषु वै पुरा \।\।
@@ -24883,8 +19697,6 @@ MS.
 पौ. सं.
 
 ३६.४२६ \।\।
-
-
 
 ज्यादयश्चेच्छया (वा) चान्ये करैस्तिर्यक् प्रसारितैः \।
 
@@ -24894,8 +19706,6 @@ MS.
 
 ३६.४२७ \।\।
 
-
-
 मन्दभक्तिभराणां तु तिर्यक् संस्थानसंस्थितैः \।
 
 महदात्मपदं दिव्यं यद् \[अन्तस्थं हि संपदात्\] \।\।
@@ -24903,8 +19713,6 @@ MS.
 पौ. सं.
 
 ३६.४२८ \।\।
-
-
 
 येषामन्तरिता भक्तिर्नॄणां व्याभिश्रयाजिनाम् \।
 
@@ -24914,8 +19722,6 @@ MS.
 
 ३६.४२९ \।\।
 
-
-
 समः सर्वेषु भूतेषु ब्रह्मन् यद्यप्यहं सदा \।
 
 उपदेक्ष्यामि युक्त्या वै मद्भक्ता यान्ति संपदम् \।\।
@@ -24923,8 +19729,6 @@ MS.
 पौ. सं.
 
 ३६.४३० \।\।
-
-
 
 अपरैर् अष्टभेदस्थैर् वर्णैर् वा ब्राह्मणादिकैः \।
 
@@ -24934,8 +19738,6 @@ MS.
 
 ३६.४३१ \।\।
 
-
-
 प्रतिबिम्बमयीं व्यक्तिं स्वयमेवाच्युतेन वा \।
 
 जीर्णदोषं विना चैव चालनं यद् अशान्तिकम् \।\।
@@ -24943,8 +19745,6 @@ MS.
 पौ. सं.
 
 ३६.४३२ \।\।
-
-
 
 क्षतम् उत्पातपूर्वैस्तु दोषैस्तु नृपनाशकृत् \।
 
@@ -24954,8 +19754,6 @@ MS.
 
 ३६.४३३ \।\।
 
-
-
 उदयं जायते शश्वच्छान्तये किन्तु पौष्कर \।
 
 देशिकेन्द्रैर् यथाध्याताः सूर्येन्द्वनलसंनिभाः \।\।
@@ -24963,8 +19761,6 @@ MS.
 पौ. सं.
 
 ३६.४३४ \।\।
-
-
 
 प्रविशन्ति च मन्त्रेशाः प्रणवध्वनिसाधिताः \।
 
@@ -24974,8 +19770,6 @@ MS.
 
 ३६.४३५ \।\।
 
-
-
 कृता वै ध्वस्तदोषाश्च निर्विध्नं निर्मलाः पुनः \।
 
 निवेशिताः सुसिद्धाद्यैस्तीर्थैः क्षेत्रवनेषु च \।\।
@@ -24983,8 +19777,6 @@ MS.
 पौ. सं.
 
 ३६.४३६ \।\।
-
-
 
 निवारयन्ति ये मोहाद् विभवव्यूहमूर्तिषु \।
 
@@ -24994,8 +19786,6 @@ MS.
 
 ३६.४३७ \।\।
 
-
-
 ते चान्तकाले मज्जन्ति घोरे तमसि दुःसहे \।
 
 स्वल्पवित्तैर् अतः तस्माद् अल्पबोधसमन्वितैः \।\।
@@ -25003,8 +19793,6 @@ MS.
 पौ. सं.
 
 ३६.४३८ \।\।
-
-
 
 वर्जनीयं विनानेन देवं श्रेयो ऽभिवाञ्छितैः \।
 
@@ -25014,8 +19802,6 @@ MS.
 
 ३६.४३९ \।\।
 
-
-
 गृहीतःसुस्थिरस्त्वेवम् असिद्धैश्चापि कल्पितः \।
 
 दोषैः सदिग्विभङ्गाद्यैर् अन्यथात्वं न याति च \।\।
@@ -25023,8 +19809,6 @@ MS.
 पौ. सं.
 
 ३६.४४० \।\।
-
-
 
 नित्यसन्निधिमाहात्म्यात् कालं कल्पक्षयावधि \।
 
@@ -25034,8 +19818,6 @@ MS.
 
 ३६.४४१ \।\।
 
-
-
 भूत्या कान्त्या च कीर्त्या च क्रियया चाप्रमेयया \।
 
 दुष्टोपशान्तिदा शक्त्या सिद्धिदा या च वै सह \।\।
@@ -25043,8 +19825,6 @@ MS.
 पौ. सं.
 
 ३६.४४२ \।\।
-
-
 
 पौरुषायतनानां च सिद्धाख्यानां महामते \।
 
@@ -25054,8 +19834,6 @@ MS.
 
 ३६.४४३ \।\।
 
-
-
 एवं क्षेत्रेश्वराणां तु सक्षेत्राणां मयाब्जज \।
 
 प्रकाशितं रहस्यं च मुक्तये भविनां मया \।\।
@@ -25063,8 +19841,6 @@ MS.
 पौ. सं.
 
 ३६.४४४ \।\।
-
-
 
 फलार्थिनां च भविनां क्षेत्रे क्षेत्रेशसेविनाम् \।
 
@@ -25074,8 +19850,6 @@ MS.
 
 ३६.४४५ \।\।
 
-
-
 अथ भूमितले जाता प्रलयाख्ये महान्ति ते \।
 
 क्षेत्रे क्षेत्रेश्वराणां तु रहस्यम् अवधारय \।\।
@@ -25083,8 +19857,6 @@ MS.
 पौ. सं.
 
 ३६.४४६ \।\।
-
-
 
 ज्ञानाद्यैः साणिमाद्यैस्तु अव्यक्तैः क्ष्मावसानिकैः \।
 
@@ -25094,8 +19866,6 @@ MS.
 
 ३६.४४७ \।\।
 
-
-
 सहावतीर्य वा सृष्टेः प्राग्व्यक्तिं यान्ति वै ततः \।
 
 स्वयमेवार्थभावेन सर्वानुग्रहकाम्यया \।\।
@@ -25103,8 +19873,6 @@ MS.
 पौ. सं.
 
 ३६.४४८ \।\।
-
-
 
 क्ष्मामण्डलोपसंहारकालं क्षेत्रधरैः सह \।
 
@@ -25114,8 +19882,6 @@ MS.
 
 ३६.४४९ \।\।
 
-
-
 सविश्वव्यक्तिसमये प्राग्व्यक्तिं प्रवदन्ति च \।
 
 जातिजन्मतथादेशदुःखैर् देहोत्थितैः सह \।\।
@@ -25123,8 +19889,6 @@ MS.
 पौ. सं.
 
 ३६.४५० \।\।
-
-
 
 आधिव्याधिप्रपूर्वैस्तु मानसैर् दुःसहैस्तथा \।
 
@@ -25134,8 +19898,6 @@ MS.
 
 ३६.४५१ \।\।
 
-
-
 सम्यग्ज्ञानं विजानन्तो (न्तं) क्षेत्रीयानुग्रहेण वा \।
 
 आविष्कृता भवेद् भक्तिस्तीव्रभक्ताद्यनुग्रहात् \।\।
@@ -25143,8 +19905,6 @@ MS.
 पौ. सं.
 
 ३६.४५२ \।\।
-
-
 
 जायते च मतिर्नॄणाम् अन्ते क्षेत्रे द्विजाच्युते \।
 
@@ -25154,8 +19914,6 @@ MS.
 
 ३६.४५३ \।\।
 
-
-
 विवेकः पुरुषादीनाम् आयातं च (तश्च) फलाद्विभोः \।
 
 पुरुषार्थपरित्यागं न कार्यं बोधितेन वै \।\।
@@ -25163,8 +19921,6 @@ MS.
 पौ. सं.
 
 ३६.४५४ \।\।
-
-
 
 जीवनं च जगत्यस्मिन् विप्रकर्मसमन्वितम् \।
 
@@ -25174,8 +19930,6 @@ MS.
 
 ३६.४५५ \।\।
 
-
-
 तदस्तित्वं गुरुमुखात् तत्संवेदनसंयुतम् \।
 
 श्रद्दधानाश्च भक्ताश्च लभन्ते च नरोत्तमाः \।\।
@@ -25183,8 +19937,6 @@ MS.
 पौ. सं.
 
 ३६.४५६ \।\।
-
-
 
 ज्ञातव्यम् आत्मनात्मानं ततः सर्वज्ञम् ईश्वरम् \।
 
@@ -25194,8 +19946,6 @@ MS.
 
 ३६.४५७ \।\।
 
-
-
 अस्मितालक्षणं घोरं सर्वदावाञ्छितप्रदम् \।
 
 विज्ञेयम् आत्मनात्मानं तावद् यावन्निबोधितम् \।\।
@@ -25203,8 +19953,6 @@ MS.
 पौ. सं.
 
 ३६.४५८ \।\।
-
-
 
 बीजानां हि यथाकालं व्या(व्यु)प्तानां फलम् अल्पदा(दम्) \।
 
@@ -25214,37 +19962,19 @@ MS.
 
 ३६.४५९ \।\।
 
-
-
 जन्माभ्यासवशाच्चापि नूनं कर्मक्षयो भवेत् \।
 
 इति श्रीपाञ्चरात्रे महोपनिषदि पौष्करसंहितायां आयतनविचारो नाम षट्त्रिंशो ऽध्यायः \।\।
-
-
 
 (
 
 समुदित श्लोकसंख्या ४६१)
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-
 
 अथ सप्तत्रिंशो ऽध्यायः
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 पादमुद्राङ्कितानां च उपलानां जगत्प्रभो \।
 
@@ -25254,8 +19984,6 @@ MS.
 
 ३७.१ \।\।
 
-
-
 आधाराणां तथान्येषां ज्ञातुम् इच्छामि सांप्रतम् \।
 
 एवं चानादिसिद्धानां पाषाणानां जगत्पते \।\।
@@ -25263,8 +19991,6 @@ MS.
 पौ. सं.
 
 ३७.२ \।\।
-
-
 
 शङ्खाद्यैर् अङ्कितानां च लाञ्छनैः पारमेश्वरैः \।
 
@@ -25274,8 +20000,6 @@ MS.
 
 ३७.३ \।\।
 
-
-
 अन्येषां चैवमादीनां यागनिष्पत्तये तु वै \।
 
 चलानाम् अचलानां च संविधानं ममादिश \।\।
@@ -25284,13 +20008,7 @@ MS.
 
 ३७.४ \।\।
 
-
-
-
-
 श्रीभगवान् उवाच ---
-
-
 
 आपादितं पुरा द्रव्यं शिल्पिना च यतात्मना \।
 
@@ -25300,8 +20018,6 @@ MS.
 
 ३७.५ \।\।
 
-
-
 यत्र यत्रानुरूपं च तत्र तन्न्यासम् आचरेत् \।
 
 तदानुग्रहशक्त्यन्तम् आक्षितेः कमलोद्भव \।\।
@@ -25309,8 +20025,6 @@ MS.
 पौ. सं.
 
 ३७.६ \।\।
-
-
 
 मन्त्राणां सन्निधिः कार्यश्चलपीठे तु केवले \।
 
@@ -25320,8 +20034,6 @@ MS.
 
 ३७.७ \।\।
 
-
-
 आधारशक्तेर् आरभ्य मन्त्रग्रामस्य पौष्कर \।
 
 सुस्थिरे सन्निरोधं च सर्वेषां विहितं सदा \।\।
@@ -25329,8 +20041,6 @@ MS.
 पौ. सं.
 
 ३७.८ \।\।
-
-
 
 तत्रावाह्य यजेन् मन्त्रम् इष्ट्वा चोत्थापयेत् पुनः \।
 
@@ -25340,8 +20050,6 @@ MS.
 
 ३७.९ \।\।
 
-
-
 साधनात् सन्निमित्तत्वात् ज्ञानेनात्र निरोधनम् \।
 
 पुष्पाद्याहरणे काले प्रत्यहं परमेश्वरः \।\।
@@ -25349,8 +20057,6 @@ MS.
 पौ. सं.
 
 ३७.१० \।\।
-
-
 
 अनुग्रहपरस्त्वास्ते स तत्रैव खशब्दवत् \।
 
@@ -25360,8 +20066,6 @@ MS.
 
 ३७.११ \।\।
 
-
-
 पीठस्य मन्त्रविन्यासं विहितं चलपीठवत् \।
 
 सुस्थिरस्यैकयोनेर्वा वियोगे सुस्थिरस्य च \।\।
@@ -25369,8 +20073,6 @@ MS.
 पौ. सं.
 
 ३७.१२ \।\।
-
-
 
 मन्त्राणां विहितं न्यासं स्थिरपीठोदितं तु वै \।
 
@@ -25380,8 +20082,6 @@ MS.
 
 ३७.१३ \।\।
 
-
-
 प्राकृतानां तु तत्त्वानां कुर्याद् वै सन्निवेशनम् \।
 
 क्षित्यादिकानां पादान्तम् अव्यक्ताद् वा धरान्तिमम् \।\।
@@ -25389,8 +20089,6 @@ MS.
 पौ. सं.
 
 ३७.१४ \।\।
-
-
 
 सर्वतत्त्वमयं मन्त्रं तस्य वा केवलं हृदि \।
 
@@ -25400,8 +20098,6 @@ MS.
 
 ३७.१५ \।\।
 
-
-
 अथेज्यावसरे प्राप्ते मन्त्रतन्त्रे नियोजयेत् \।
 
 जडत्वविनिवृत्यर्थम् तत्त्वमन्त्रगणस्य च \।\।
@@ -25409,8 +20105,6 @@ MS.
 पौ. सं.
 
 ३७.१६ \।\।
-
-
 
 जीवभूतं तु तं विप्र नित्यं शुद्धं सदोदितम् \।
 
@@ -25420,8 +20114,6 @@ MS.
 
 ३७.१७ \।\।
 
-
-
 उपसंहृत्य तत्रस्थं निष्पन्ने वार्चने सति \।
 
 विन्यासम् उपसंहारं मान्त्रं यत्समुदीरितम् \।\।
@@ -25429,8 +20121,6 @@ MS.
 पौ. सं.
 
 ३७.१८ \।\।
-
-
 
 तीर्थक्षेत्रधराणां च विहितं तत्प्रवासनम् \।
 
@@ -25440,8 +20130,6 @@ MS.
 
 ३७.१९ \।\।
 
-
-
 अन्यत्र वाङ्कणादौ तु तस्य कुर्यात् निरोधनम् \।
 
 आधारपीठमन्त्रैस्तु लाञ्छनीयैः स्वकैः सह \।\।
@@ -25449,8 +20137,6 @@ MS.
 पौ. सं.
 
 ३७.२० \।\।
-
-
 
 अस्थिराणां प्रतिष्ठानां विशेषम् इदम् आचरेत् \।
 
@@ -25460,8 +20146,6 @@ MS.
 
 ३७.२१ \।\।
 
-
-
 कुर्यात् ततो ऽनुवेधं च आधाराच्च शिखा वि(व)धि \।
 
 सामर्थ्यशक्तसूत्रेण ईश्वरेणाक्षयेन च \।\।
@@ -25469,8 +20153,6 @@ MS.
 पौ. सं.
 
 ३७.२२ \।\।
-
-
 
 सति येन विलुप्तस्य विम्बाद्यैर् अन्वितस्य च \।
 
@@ -25480,8 +20162,6 @@ MS.
 
 ३७.२३ \।\।
 
-
-
 अप्रबुद्धः प्रबुद्धो वा तस्मिन्नायतने पुमान् \।
 
 निवेशयति यो बिम्बम् अपरं द्रव्यजं तु वा \।\।
@@ -25489,8 +20169,6 @@ MS.
 पौ. सं.
 
 ३७.२४ \।\।
-
-
 
 तद्विज्ञानानुविद्धं च जायते समनन्तरम् \।
 
@@ -25500,8 +20178,6 @@ MS.
 
 ३७.२५ \।\।
 
-
-
 प्रतीत्यायतनत्वेन भवत्याचन्द्रतारकी \।
 
 सन्निवेशं जगद्धातुर् यत्र यत्सिद्धसेवितम् \।\।
@@ -25509,8 +20185,6 @@ MS.
 पौ. सं.
 
 ३७.२६ \।\।
-
-
 
 तद् असिद्धैर्न नेतव्यम् अन्यथात्वं मलीमसे \।
 
@@ -25522,8 +20196,6 @@ MS.
 
 ३७.२७ \।\।
 
-
-
 बुध्वावनिविपर्यासमेकं कालान्तरोद्भवम् \।
 
 प्रयत्नैः सुचिकित्स्यं यत् तद् अंतर्धानशङ्कया \।\।
@@ -25531,8 +20203,6 @@ MS.
 पौ. सं.
 
 ३७.२८ \।\।
-
-
 
 प्रसन्नाद्यैः समादाय तदाज्ञां व्रतपूर्विकाम् \।
 
@@ -25542,8 +20212,6 @@ MS.
 
 ३७.२९ \।\।
 
-
-
 समापाद्य सदानं च सन्निवेश्यासने ऽपरे \।
 
 परमेश्वरम् अन्यथा जायते तस्मिन् सदे(ह) \।\।
@@ -25551,8 +20219,6 @@ MS.
 पौ. सं.
 
 ३७.३० \।\।
-
-
 
 व्याधितस्करदुर्भिक्षंराष्ट्रभङ्गपुरःसरम् \।
 
@@ -25562,8 +20228,6 @@ MS.
 
 ३७.३१ \।\।
 
-
-
 चालनं विधिपूर्वं तु तु कृतं नानिष्टदं भवेत् \।
 
 पुनरन्यत्र वा तस्मिन् स्थाने कुर्याच्च योजनम् \।\।
@@ -25571,8 +20235,6 @@ MS.
 पौ. सं.
 
 ३७.३२ \।\।
-
-
 
 यथाशास्त्रोक्तविधिना सम्यगुत्सवपूर्वकम् \।
 
@@ -25582,8 +20244,6 @@ MS.
 
 ३७.३३ \।\।
 
-
-
 स्थितं शान्तसमानौ (धौ) तु आश्रये चाक्षये सति \।
 
 चालनाद् विधिनिर्मुक्ताद् दोषः संचालकस्य यत् \।\।
@@ -25591,8 +20251,6 @@ MS.
 पौ. सं.
 
 ३७.३४ \।\।
-
-
 
 तद्धोमार्चनदाने तु स्थापनात् प्राक् समं नयेत् \।
 
@@ -25602,8 +20260,6 @@ MS.
 
 ३७.३५ \।\।
 
-
-
 गोभूसुवर्णदानं च यथाशक्त्या समाचरेत् \।
 
 धातुमृच्छैलदारूत्थं वस्त्रादिष्वतारितम् \।\।
@@ -25611,8 +20267,6 @@ MS.
 पौ. सं.
 
 ३७.३६ \।\।
-
-
 
 अकस्माद् भगवद् बिम्बं धत्ते वै म्लानतां यदि \।
 
@@ -25622,8 +20276,6 @@ MS.
 
 ३७.३७ \।\।
 
-
-
 महद्भयं सराष्ट्रस्य पूजकस्य जनस्य च \।
 
 तस्मान्मन्त्रवरं साङ्गं तन्त्रसंशोधितं च यत् \।\।
@@ -25631,8 +20283,6 @@ MS.
 पौ. सं.
 
 ३७.३८ \।\।
-
-
 
 कलशे मण्डले ऽग्नौ तु सप्ताहं तर्पयेत् क्रमात् \।
 
@@ -25642,8 +20292,6 @@ MS.
 
 ३७.३९ \।\।
 
-
-
 स्नापयित्वार्चयित्वा च विधिदृष्टेन कर्मणा \।
 
 सुवस्त्रवेष्टितां कृत्वा गव्येन हविषा ततः \।\।
@@ -25651,8 +20299,6 @@ MS.
 पौ. सं.
 
 ३७.४० \।\।
-
-
 
 आपीठात् पिण्डतां नीत्वा रञ्जयेच्चन्दनादिना \।
 
@@ -25662,8 +20308,6 @@ MS.
 
 ३७.४१ \।\।
 
-
-
 नानादेशोद्भवैश्चान्यैः सितैः पीतादिकैः शुभैः \।
 
 छायामारुतसंशुष्कैः हरितैर्भेदसंयुतैः \।\।
@@ -25671,8 +20315,6 @@ MS.
 पौ. सं.
 
 ३७.४२ \।\।
-
-
 
 पूजां यथोदितां कृत्वा भूषणैर्विविधैः सह \।
 
@@ -25682,8 +20324,6 @@ MS.
 
 ३७.४३ \।\।
 
-
-
 कुङ्कुमेनामलेंनैव कम्बलेनाविकेन वा \।
 
 सितेन सुघनेनैव अभुक्तेनाहतेन च \।\।
@@ -25691,8 +20331,6 @@ MS.
 पौ. सं.
 
 ३७.४४ \।\।
-
-
 
 शीतकाले ह्यतीते तु अपनीयाज्यकम्बलम् \।
 
@@ -25702,8 +20340,6 @@ MS.
 
 ३७.४५ \।\।
 
-
-
 भक्तानां नागरादीनां यच्छेत् संप्रार्थितं क्रमात् \।
 
 भूतये ऽशुभशान्त्यर्थं रक्षार्थं प्रार्थनं क्रमात् \।\।
@@ -25711,8 +20347,6 @@ MS.
 पौ. सं.
 
 ३७.४६ \।\।
-
-
 
 विजयेनापमृत्यूनां व्याधीनाम् उपशान्तये \।
 
@@ -25722,8 +20356,6 @@ MS.
 
 ३७.४७ \।\।
 
-
-
 यथोक्तेन विधानेन कुर्यात् स्नानम् अधिक्रमात् \।
 
 मसूरमाषचूर्णेन रजनीशालिजेन च \।\।
@@ -25731,8 +20363,6 @@ MS.
 पौ. सं.
 
 ३७.४८ \।\।
-
-
 
 समुद्वर्त्य च संक्षाष्य हविषाभ्यञ्जनादिना \।
 
@@ -25742,8 +20372,6 @@ MS.
 
 ३७.४९ \।\।
 
-
-
 शीतकेनोदकेनाथ क्षालनीयं तदालयम् \।
 
 संमार्ज्य गोमयेनैव कृत्वा बाह्योपलेपनम् \।\।
@@ -25751,8 +20379,6 @@ MS.
 पौ. सं.
 
 ३७.५० \।\।
-
-
 
 विकीर्य पत्रपुष्पाणि कुमुदोत्पलपङ्कजान् \।
 
@@ -25762,8 +20388,6 @@ MS.
 
 ३७.५१ \।\।
 
-
-
 स्तुत्वा च विविधैः स्तोत्रैः स्वरेणोच्चतरेण तु \।
 
 ततः प्रदक्षिणीकृत्य द्विचतुःसंख्ययाब्जज \।\।
@@ -25771,8 +20395,6 @@ MS.
 पौ. सं.
 
 ३७.५२ \।\।
-
-
 
 नैकं त्रिपञ्चसंख्यं च गणनाविषमं च यत् \।
 
@@ -25782,8 +20404,6 @@ MS.
 
 ३७.५३ \।\।
 
-
-
 संन्यासी दण्डवत्कुर्यात् प्रणिपातं च सर्वदिक् \।
 
 प्रदक्षिणसमोपेतं बहुधोत्थाय चाग्रतः \।\।
@@ -25791,8 +20411,6 @@ MS.
 पौ. सं.
 
 ३७.५४ \।\।
-
-
 
 विहितं स्नातकादीनाम् अन्येषाम् एवम् एव हि \।
 
@@ -25802,8 +20420,6 @@ MS.
 
 ३७.५५ \।\।
 
-
-
 नतपृष्ठशिरोजानुललाटतटहृत्करः \।
 
 गृहस्थ आचरेन्नित्यं प्रणामं सप्रदक्षिणम् \।\।
@@ -25811,8 +20427,6 @@ MS.
 पौ. सं.
 
 ३७.५६ \।\।
-
-
 
 स्मरन्नष्टाक्षरं बुद्ध्या असकृत् वितते क्षितौ \।
 
@@ -25822,8 +20436,6 @@ MS.
 
 ३७.५७ \।\।
 
-
-
 यथा तु भक्तितः कुर्यात् बद्ध्वा तु करसंपुटम् \।
 
 हृद्देशे मूर्ध्नि कम्पैस्तु सह सर्वेश्वरं स्मरेत् \।\।
@@ -25831,8 +20443,6 @@ MS.
 पौ. सं.
 
 ३७.५८ \।\।
-
-
 
 कृतेनानेन विधिना स्वशक्त्या वलितेन वा \।
 
@@ -25842,8 +20452,6 @@ MS.
 
 ३७.५९ \।\।
 
-
-
 निष्कामः शाश्वतं स्थानं प्राप्नुयात् सुरपूजितम् \।
 
 भक्तैः संपूजितं भक्त्या ये पश्यन्ति जगत्प्रभुम् \।\।
@@ -25851,8 +20459,6 @@ MS.
 पौ. सं.
 
 ३७.६० \।\।
-
-
 
 श्रद्धया चानुमोदन्ते ते ऽपि तत्फलभागिनः \।
 
@@ -25862,8 +20468,6 @@ MS.
 
 ३७.६१ \।\।
 
-
-
 द्विविधेन ह्युपायेन नान्यथा तु कथञ्चन \।
 
 समन्त्राच्च क्रियाकाण्डात् संपूर्णात् पञ्चलक्षणात् \।\।
@@ -25871,8 +20475,6 @@ MS.
 पौ. सं.
 
 ३७.६२ \।\।
-
-
 
 सम्यग्बोधपरिज्ञानात् भगवद् भक्तिरञ्जनात् \।
 
@@ -25882,8 +20484,6 @@ MS.
 
 ३७.६३ \।\।
 
-
-
 शासने त्वधिकारीणाम् अवतिष्ठेत्तु तत्त्वतः \।
 
 पारम्यं वेत्ति शास्त्रस्य मोक्षदस्याच्युतस्य च \।\।
@@ -25892,39 +20492,19 @@ MS.
 
 ३७.६४ \।\।
 
-
-
 सो ऽचिराच्छुद्धिम् आप्नोति दुष्कृतात् पूर्वसञ्चिताम् \।
 
 इति श्रीपाञ्चरात्रे महोपनिषदि पौष्करसंहितायां आयतनविचारो नाम सप्तत्रिंशो ऽध्यायः \।\।
-
-
 
 (
 
 समुदितश्लोकसंख्या ६४)
 
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-
 
 अथ अष्टात्रिंशो ऽध्यायः
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 आकाराणाम् अनन्तानां क्षितौ क्षेत्रेषु वर्तिनाम् \।
 
@@ -25934,8 +20514,6 @@ MS.
 
 ३८.१ \।\।
 
-
-
 कुर्वन्ति विबुधाः सिद्धाः स्मृत्वा स्मृत्वा तदाकृतिम् \।
 
 असत्यैर् मर्त्यधर्मस्थैः कथं कार्यं निवेशनम् \।\।
@@ -25944,17 +20522,9 @@ MS.
 
 ३८.२ \।\।
 
-
-
 स्वकुलोद्धरणार्थं च कीर्त्यर्थमपि चात्मनः \।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 साङ्गेनाराध्य मन्त्रेण ज्ञानध्यानान्वितेन च \।
 
@@ -25964,8 +20534,6 @@ MS.
 
 ३८.३ \।\।
 
-
-
 निवेशनं च मन्त्राणां द्रव्यजास्वाकृतीषु यत् \।
 
 विहिता सा प्रतिष्ठा वै मन्त्रिणाम् आप्तलक्षणा \।\।
@@ -25973,8 +20541,6 @@ MS.
 पौ. सं.
 
 ३८.४ \।\।
-
-
 
 मन्त्रसिद्धिप्रदं शश्वदन्ते मन्त्रं पदं द्विज \।
 
@@ -25984,8 +20550,6 @@ MS.
 
 ३८.५ \।\।
 
-
-
 अनुग्रहधिया चार्यप्रेरितैस्तत्सुतादिभिः \।
 
 यथोदितेन विधिना तन्मन्त्रेण महामते \।\।
@@ -25993,8 +20557,6 @@ MS.
 पौ. सं.
 
 ३८.६ \।\।
-
-
 
 सह ऋक्सामसंज्ञैस्तु मन्त्रैः स्वव्याप्तिसंयुतैः \।
 
@@ -26004,8 +20566,6 @@ MS.
 
 ३८.७ \।\।
 
-
-
 क्रियते मध्यमा सा वै प्रतिष्ठा स्वल्पभोगदा \।
 
 पदमात्रं च देहान्ते संयच्छत्यमलं शुभम् \।\।
@@ -26013,8 +20573,6 @@ MS.
 पौ. सं.
 
 ३८.८ \।\।
-
-
 
 केवलैः श्रुतिमन्त्रैस्तु यथावसरलक्षणैः \।
 
@@ -26024,8 +20582,6 @@ MS.
 
 ३८.९ \।\।
 
-
-
 देशिकेन्द्रेण वै कार्या भक्तानां परमेश्वरे \।
 
 सामान्या तु परिज्ञेया यज्ञवत् स्वर्गभोगदा \।\।
@@ -26033,8 +20589,6 @@ MS.
 पौ. सं.
 
 ३८.१० \।\।
-
-
 
 ऐहिकामुष्मिकं मान्त्रं फलं यत्कमलोद्भव \।
 
@@ -26044,8 +20598,6 @@ MS.
 
 ३८.११ \।\।
 
-
-
 तस्माद् यस्तत्त्वविज्ञानी शास्त्रज्ञः सत्क्रियापरः \।
 
 षडध्वविद् असंकीर्णः सर्वभावेन पौष्कर \।\।
@@ -26053,8 +20605,6 @@ MS.
 पौ. सं.
 
 ३८.१२ \।\।
-
-
 
 तेन प्रतिष्ठितो देवश्चलो वा सुस्थिरो बृहत् \।
 
@@ -26064,17 +20614,9 @@ MS.
 
 ३८.१३ \।\।
 
-
-
 चलस्थरविभागेन भवेत् सन्निहितः तदा \।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 देव कालान्तरेणैव द्रव्यम् एति क्षयात्मताम् \।
 
@@ -26084,17 +20626,9 @@ MS.
 
 ३८.१४ \।\।
 
-
-
 प्रतीक्ष्यते किं तत्त्वज्ञैर् अत्र मे संशयो महान् \।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 कर्मबन्धात् पृथक्कृत्य देवो देशिकमूर्तिकः \।
 
@@ -26104,8 +20638,6 @@ MS.
 
 ३८.१५ \।\।
 
-
-
 कर्मिणां कीर्तिशक्तिर्या विश्वमन्दिरपूरकी \।
 
 निरस्तदोषा महती ताम् आक्रम्य महामते \।\।
@@ -26113,8 +20645,6 @@ MS.
 पौ. सं.
 
 ३८.१६ \।\।
-
-
 
 दिव्यमन्त्रस्वरूपेण वृत्तिद्रव्यमयेषु च \।
 
@@ -26124,8 +20654,6 @@ MS.
 
 ३८.१७ \।\।
 
-
-
 तिष्ठत्यनुग्रहार्थं च सा प्रतिष्ठेति कीर्तिता \।
 
 एवं द्रव्यमयो यत्र सन्निवेशो ऽब्जसंभव \।\।
@@ -26133,8 +20661,6 @@ MS.
 पौ. सं.
 
 ३८.१८ \।\।
-
-
 
 उभयानुग्रहं नित्यं करुणाभक्तिलक्षणम् \।
 
@@ -26144,8 +20670,6 @@ MS.
 
 ३८.९९ \।\।
 
-
-
 तच्च सद् ब्रह्मनिष्ठानां द्विजानाम् आत्मसिद्धये \।
 
 कर्तव्यत्वेन वै नित्यं निषिद्धम् अमलेक्षण \।\।
@@ -26153,8 +20677,6 @@ MS.
 पौ. सं.
 
 ३८.२० \।\।
-
-
 
 तद् दोषाच्च यतस्तेषां निस्तारो हि न विद्यते \।
 
@@ -26164,8 +20686,6 @@ MS.
 
 ३८.२१ \।\।
 
-
-
 आदावेव हि तत् तस्मान्नाचर्तव्यं कृतात्मभिः \।
 
 तत्कर्मप्रतिपन्नानां चतुर्णाम् अपि तैः सदा \।\।
@@ -26173,8 +20693,6 @@ MS.
 पौ. सं.
 
 ३८.२२ \।\।
-
-
 
 कार्यं सम्यक् प्रतिष्ठानाम् अनुग्रहधिया सदा \।
 
@@ -26184,8 +20702,6 @@ MS.
 
 ३८.२३ \।\।
 
-
-
 प्राप्ते त्वाकस्मिके दोषे ह्यङ्गभङ्गादिके ऽब्जज \।
 
 भक्तानाम् अनुकम्पार्थं दिव्यैर्मन्त्रैर्बलादिकैः \।\।
@@ -26193,8 +20709,6 @@ MS.
 पौ. सं.
 
 ३८.२४ \।\।
-
-
 
 द्वादशाक्षरपूर्वैस्तु मोक्षैकफललक्षणैः \।
 
@@ -26204,8 +20718,6 @@ MS.
 
 ३८.२५ \।\।
 
-
-
 तस्मात् सर्वप्रयत्नेन कर्तव्ये ऽस्मिन् द्विजोत्तम \।
 
 त्रैविद्यैः क्षत्रियैर्वैश्यैः शूर्द्रैर्वा भगवन्मयैः \।\।
@@ -26214,8 +20726,6 @@ MS.
 
 ३८.२६ \।\।
 
-
-
 सकामैर् अथ निष्कामैः मन्त्राराधनतत्परैः \।
 
 स्नातकैः भगवद्बिम्बस्थापनार्थं सदैव हि \।\।
@@ -26223,8 +20733,6 @@ MS.
 पौ. सं.
 
 ३८.२७ \।\।
-
-
 
 पुरा प्रसादनीयं (
 
@@ -26238,8 +20746,6 @@ MS.
 
 ३८.२८ \।\।
 
-
-
 वेत्ता यो व्यूहपूर्वस्य व्यक्तस्य परमात्मनः \।
 
 सो ऽन्येषां भगवद्बिम्बस्थापने ऽधिकृतः सदा \।\।
@@ -26247,8 +20753,6 @@ MS.
 पौ. सं.
 
 ३८.२९ \।\।
-
-
 
 अनुग्रहप्रतिष्ठा चाप्यधिकारनिरूपणा \।
 
@@ -26258,8 +20762,6 @@ MS.
 
 ३८.३० \।\।
 
-
-
 अनन्याः पञ्चकालज्ञाः व्यतिरिक्ता न ये पुरा \।
 
 प्राक्सृष्टेस्तन्मुखोद्भूता द्विषट्काध्यात्मचिन्तकाः \।\।
@@ -26268,8 +20770,6 @@ MS.
 
 ३८.३१ \।\।
 
-
-
 चतुर्व्यूहपरत्वेन येषां वै प्रभवाप्यये \।
 
 कर्मणाम् अपि संन्यासं कुर्वन्त्यध्यक्षतः क्रमात् \।\।
@@ -26277,8 +20777,6 @@ MS.
 पौ. सं.
 
 ३८.३२ \।\।
-
-
 
 अतो ऽन्यो दुर्लभतरः पारम्यं यस्य तं प्रति \।
 
@@ -26296,8 +20794,6 @@ MS.
 
 ३८.३४ \।\।
 
-
-
 मुक्ताधिकारिणं तं वै लब्धलक्ष्यम् अकृत्रिमम् \।
 
 पञ्चकालरतं शुद्धं तन्त्रसिद्धान्तपारगम् \।\।
@@ -26305,8 +20801,6 @@ MS.
 पौ. सं.
 
 ३८.३५ \।\।
-
-
 
 तेन वै श्रुतिमन्त्राणां त्रयाणाम् अपि चोदना \।
 
@@ -26316,8 +20810,6 @@ MS.
 
 ३८.३६ \।\।
 
-
-
 यस्मात् अब्जसमुद्भूत मण्डलादिषु वृत्तिषु \।
 
 स्वार्थतो वा परार्थेन सदाराधनकर्मणि \।\।
@@ -26325,8 +20817,6 @@ MS.
 पौ. सं.
 
 ३८.३७ \।\।
-
-
 
 नित्यसिद्धे तदाकारे तत्परत्वे ऽपि पौष्कर \।
 
@@ -26336,8 +20826,6 @@ MS.
 
 ३८.३८ \।\।
 
-
-
 मन्त्ररूपी जगन्नाथः परमात्माच्युतः प्रभुः \।
 
 अत्यौत्सुक्यं विना विप्र मनसः प्रीतये त्वपि \।\।
@@ -26345,8 +20833,6 @@ MS.
 पौ. सं.
 
 ३८.३९ \।\।
-
-
 
 कामाप्तये ता कीर्त्यर्थं तस्य तद्विहितं द्विज \।
 
@@ -26356,8 +20842,6 @@ MS.
 
 ३८.४० \।\।
 
-
-
 इति सम्यक् समाख्यातं मुख्यकल्पम् अतः परम् \।
 
 अनुकल्पं यदत्रान्यत् तत्समासान्निबोधतु \।\।
@@ -26365,8 +20849,6 @@ MS.
 पौ. सं.
 
 ३८.४१ \।\।
-
-
 
 प्राक्प्राप्तदीक्षैः विधिवत् त्रयीधर्मस्थितैर् द्विजैः \।
 
@@ -26376,8 +20858,6 @@ MS.
 
 ३८.४२ \।\।
 
-
-
 धारणाध्यानपूर्वैस्तु लब्धलक्ष्यैस्तु कर्मणाम् \।
 
 मन्त्रमण्डलकुण्डास्त्रमुद्रादीनां कृतश्रमैः \।\।
@@ -26385,8 +20865,6 @@ MS.
 पौ. सं.
 
 ३८.४३ \।\।
-
-
 
 षडध्वव्याप्तिनिष्ठैस्तु त्यागशीलैर् अमत्सरैः \।
 
@@ -26396,8 +20874,6 @@ MS.
 
 ३८.४४ \।\।
 
-
-
 सत्कीर्तिप्रथितैः लोके तथाकीर्तिबहिष्कृतैः \।
 
 प्रतिष्ठां लभते कर्ता तैः प्रतिष्ठापने कृते \।\।
@@ -26405,8 +20881,6 @@ MS.
 पौ. सं.
 
 ३८.४५ \।\।
-
-
 
 निषिद्वम् अरविन्दाक्ष अतो ऽन्येषां हि सर्वदा \।
 
@@ -26416,13 +20890,7 @@ MS.
 
 ३८.४६ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 देव व्यामिश्रयाजित्वं प्रतिषिद्धं पुनःपुनः \।
 
@@ -26432,17 +20900,9 @@ MS.
 
 ३८.४७ \।\।
 
-
-
 तन्मात्रसंशयं जातं छेत्तुम् अर्हसि सांप्रतम् \।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 सत्यमेतन्महाबुद्धे यथा संचोदितं त्वया \।
 
@@ -26452,8 +20912,6 @@ MS.
 
 ३८.४८ \।\।
 
-
-
 यस्मात्सर्वपरत्वं हि तेषाम् अस्त्यच्युतं प्रति \।
 
 तदाश्रितत्वाद् देवानाम् अन्येषां पूजनात् तु वै \।\।
@@ -26461,8 +20919,6 @@ MS.
 पौ. सं.
 
 ३८.४९ \।\।
-
-
 
 न दोषो हि यथा लोके भ्रातृभृत्यगणस्य च \।
 
@@ -26472,8 +20928,6 @@ MS.
 
 ३८.५० \।\।
 
-
-
 ये पुनर्लोकधर्मस्थाः समबुद्धिपदोज्झिताः \।
 
 भगवत्यविशेषज्ञा नित्यं कार्यवशेन तु \।\।
@@ -26481,8 +20935,6 @@ MS.
 पौ. सं.
 
 ३८.५१ \।\।
-
-
 
 वाङ्मात्रेण परत्वं वै सर्वेषां प्रवदन्ति हि \।
 
@@ -26492,8 +20944,6 @@ MS.
 
 ३८.५२ \।\।
 
-
-
 एवं मार्गस्थितेर्लोभात् परिज्ञाय तदाशयम् \।
 
 व्यामिश्रयाजिनस्ते वै पातित्यपदसंस्थिताः \।\।
@@ -26501,8 +20951,6 @@ MS.
 पौ. सं.
 
 ३८.५३ \।\।
-
-
 
 नयन्ति नरकं नूनम् एवम् एव प्रवर्तिनः \।
 
@@ -26512,8 +20960,6 @@ MS.
 
 ३८.५४ \।\।
 
-
-
 कदाचित् तत्कृतं दोषं विदधाति च खण्डनाम् \।
 
 आस्तां तावन्महाबुद्धे कर्तव्यं भक्तिपूर्वकम् \।\।
@@ -26521,8 +20967,6 @@ MS.
 पौ. सं.
 
 ३८.५५ \।\।
-
-
 
 भक्त्या वै मन्त्रनिष्ठानां तन्मन्त्रो जपकर्मणि \।
 
@@ -26532,8 +20976,6 @@ MS.
 
 ३८.५६ \।\।
 
-
-
 स्वरादिनाधिकं चैव मन्त्रैकार्थप्रदः सदा \।
 
 अचिरात् तत्प्रयोक्तॄणां तथापि कमलोद्भव \।\।
@@ -26541,8 +20983,6 @@ MS.
 पौ. सं.
 
 ३८.५७ \।\।
-
-
 
 अतिभक्तिप्रभावाच्च वाञ्छितं संप्रयच्छति \।
 
@@ -26552,8 +20992,6 @@ MS.
 
 ३८.५८ \।\।
 
-
-
 प्रसादम् एति मन्त्रेशस्त्वचिराद् भावितात्मनाम् \।
 
 किं पुनर्वै क्रियाज्ञानसंपूर्णानां तु पौष्कर \।\।
@@ -26561,8 +20999,6 @@ MS.
 पौ. सं.
 
 ३८.४९ \।\।
-
-
 
 श्रद्धाभक्तिपराणां च बोधितानां च देशिकैः \।
 
@@ -26572,8 +21008,6 @@ MS.
 
 ३८.६० \।\।
 
-
-
 कार्यं दीक्षादिकं सर्वं भक्तानां भक्तवत्सलैः \।
 
 माम् असंप्रतिपन्नो यो मत्प्राप्त्यर्थं करोति च \।\।
@@ -26582,8 +21016,6 @@ MS.
 
 ३८.६१ \।\।
 
-
-
 मन्दमध्यमभक्तानां कामभोगरतात्मनाम् \।
 
 भविनां मामकी दीक्षा मोहाद् वा स्थापनादिकम् \।\।
@@ -26591,8 +21023,6 @@ MS.
 पौ. सं.
 
 ३८.६२ \।\।
-
-
 
 स (
 
@@ -26604,8 +21034,6 @@ MS.
 
 ३८.६३ \।\।
 
-
-
 इहैव शीघ्रम् अब्जाक्ष देहान्ते गतसद्गतिः \।
 
 घोरं प्रयाति नरकं भुक्त्वैवं दुष्कृतं महत् \।\।
@@ -26613,8 +21041,6 @@ MS.
 पौ. सं.
 
 ३८.६४ \।\।
-
-
 
 भगवन्मन्त्रमाहात्म्यात् तद्व्यापारवशात् तु वै \।
 
@@ -26624,8 +21050,6 @@ MS.
 
 ३८.६५ \।\।
 
-
-
 चीर्णदुश्चरितो भूयः प्राप्नुयान्मानुषीं तनुम् \।
 
 प्रयत्नम् आचरेच्छुभ्रं येन शान्तिम् अवाप्नुयात् \।\।
@@ -26633,8 +21057,6 @@ MS.
 पौ. सं.
 
 ३८.६६ \।\।
-
-
 
 साहङ्कारं तम् आचार्यम् अभक्तं नाधिकारिणम् \।
 
@@ -26644,8 +21066,6 @@ MS.
 
 ३८.६७ \।\।
 
-
-
 सर्वगस्त्वपि मन्त्रात्मा सर्वानुग्रहकृ \[द्ट द्विज \।
 
 यद्यप्येवं हि तत्रापि न भजेत् तत्र सन्निधिम् \।\।
@@ -26653,8 +21073,6 @@ MS.
 पौ. सं.
 
 ३८.६८ \।\।
-
-
 
 प्रतिमाम् अर्च्य देहान्तं नूनं मां न विशत्युत \।
 
@@ -26664,8 +21082,6 @@ MS.
 
 ३८.६९ \।\।
 
-
-
 अन्यदर्शनसंस्था ये नानुग्राह्या अतो ऽब्जज \।
 
 नापास्यो हि तथाऽचार्यः संसारभयभीरुणा \।\।
@@ -26673,8 +21089,6 @@ MS.
 पौ. सं.
 
 ३८.७० \।\।
-
-
 
 सम्यग्भक्तिपरेणैव डम्भरागोज्झितेन च \।
 
@@ -26684,17 +21098,9 @@ MS.
 
 ३८.७१ \।\।
 
-
-
 निर्वर्तनीयम् आमूलात् वैष्णवानां हि वैष्णवैः \।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 चतुर्णां ब्राह्मणादीनां भगवद्भाविनां विभो \।
 
@@ -26704,13 +21110,7 @@ MS.
 
 ३८.७२ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 देवार्थं वनयात्रार्थं कुर्याद् रक्षादिके शुभे \।
 
@@ -26720,8 +21120,6 @@ MS.
 
 ३८.७३ \।\।
 
-
-
 शाश्वतं वनपर्यन्ते पाषाणं वा हरेद्द्रुमम् \।
 
 चेतसा सुविशुद्धेन भगवद्यागपूर्वकम् \।\।
@@ -26729,8 +21127,6 @@ MS.
 पौ. सं.
 
 ३८.७४ \।\।
-
-
 
 सह तत्पञ्चरात्रज्ञैस्तथा ऋक्सामपूर्वकैः \।
 
@@ -26740,8 +21136,6 @@ MS.
 
 ३८.७५ \।\।
 
-
-
 संयतैर् दीक्षितैश्चापि वृक्षाद्यं प्राक् समाहरेत् \।
 
 पाषाणं धातवो मृद्वा मृदु(द्)गर्भांस्तु सेचयेत् \।\।
@@ -26749,8 +21143,6 @@ MS.
 पौ. सं.
 
 ३८.७६ \।\।
-
-
 
 वनभूमिवनोत्थानां धातूनां मृत्स्वरूपिणाम् \।
 
@@ -26760,8 +21152,6 @@ MS.
 
 ३८.७७ \।\।
 
-
-
 प्रतिमापादनार्थं च महामृत्संचये शुभे \।
 
 धातुद्रव्यमयानां च मृद्गर्भाणां हृदा सह \।\।
@@ -26769,8 +21159,6 @@ MS.
 पौ. सं.
 
 ३८.७८ \।\।
-
-
 
 तारहाटकताम्रोत्थरेणूनां कमलोद्भव \।
 
@@ -26780,8 +21168,6 @@ MS.
 
 ३८.७९ \।\।
 
-
-
 अङ्गारकाष्ठपर्यन्तं वनान्ताद् उपयुज्यते \।
 
 तत्सर्वं विधिपूर्वं तु सिद्धिकृत् स्यात् समाहृतम् \।\।
@@ -26789,8 +21175,6 @@ MS.
 पौ. सं.
 
 ३८.८० \।\।
-
-
 
 एवम् आदाय तु पुरा वृक्षपूर्वं वनावनेः \।
 
@@ -26800,8 +21184,6 @@ MS.
 
 ३८.८१ \।\।
 
-
-
 विधिवत् कर्मशालायाम् आज्ञप्तं गुरुणा यजेत् \।
 
 शिल्पिस्वामिस्वकं पश्चात् स्वोत्थितेन क्रमेण तु \।\।
@@ -26809,8 +21191,6 @@ MS.
 पौ. सं.
 
 ३८.८२ \।\।
-
-
 
 बुद्धिमान् यजमानो वा आरम्भादेव सन्त्यजेत् \।
 
@@ -26820,8 +21200,6 @@ MS.
 
 ३८.८३ \।\।
 
-
-
 नूनं कलुषबुद्धीनां न तत्संपद्यते ऽब्जज \।
 
 यद्येव परिपूर्णं वा विघ्नदोषशताकुलम् \।\।
@@ -26829,8 +21207,6 @@ MS.
 पौ. सं.
 
 ३८.८४ \।\।
-
-
 
 कर्मणा प्राक्तनेनैव सात्त्विकस्यापि पद्मज \।
 
@@ -26840,8 +21216,6 @@ MS.
 
 ३८.८५ \।\।
 
-
-
 अथ तत्र विधानं यद् विहितं तन्निबोध मे \।
 
 वर्णकैश्चित्रबिम्बस्य गालितेनाम्भसादिना \।\।
@@ -26849,8 +21223,6 @@ MS.
 पौ. सं.
 
 ३८.८६ \।\।
-
-
 
 विहितावयवानां च योजना गन्धभावितैः \।
 
@@ -26860,8 +21232,6 @@ MS.
 
 ३८.८७ \।\।
 
-
-
 मृदा मृन्मयबिम्बानां मध्वाज्यक्षीरमिश्रया \।
 
 कौशयचूर्णयुतया सुवर्णोदकसिक्तया \।\।
@@ -26869,8 +21239,6 @@ MS.
 पौ. सं.
 
 ३८.८८ \।\।
-
-
 
 दारुजस्य तु संजाते भेदे भङ्गे तु वाब्जज \।
 
@@ -26880,8 +21248,6 @@ MS.
 
 ३८.८९ \।\।
 
-
-
 सर्वदा विहितं त्यागम् अश्मजानां बृहत्क्षते \।
 
 क्षते हीषत्क्षते जाते सति रत्नशलाकया \।\।
@@ -26889,8 +21255,6 @@ MS.
 पौ. सं.
 
 ३८.९० \।\।
-
-
 
 सहेमया च विहितं घृष्टशाणस्य घर्षणम् \।
 
@@ -26900,8 +21264,6 @@ MS.
 
 ३८.९१ \।\।
 
-
-
 स्थापनं सक्षतानां च करोति मरणं ध्रुवम् \।
 
 गुरोश्च (स्स) यजमानस्य शिल्पिश्रेष्ठस्य देशिनाम् \।\।
@@ -26909,8 +21271,6 @@ MS.
 पौ. सं.
 
 ३८.९२ \।\।
-
-
 
 क्षतम् इन्द्रियचक्रस्थं कर्तुर्भवति दोषदम् \।
 
@@ -26920,8 +21280,6 @@ MS.
 
 ३८.९३ \।\।
 
-
-
 पश्चाद्द्वये तु जायायाः प्रष्ठाङ्गं भ्रातृहानिदम् \।
 
 आकटेः पायुपर्यन्तं भगिनीनां क्षयो भवेत् \।\।
@@ -26929,8 +21287,6 @@ MS.
 पौ. सं.
 
 ३८.९४ \।\।
-
-
 
 ऊरुमूलाच्च जान्वन्तं यत्र यत्र भवेत् क्षतम् \।
 
@@ -26940,8 +21296,6 @@ MS.
 
 ३८.९५ \।\।
 
-
-
 जानोः पादतलान्तं च भृत्यवर्गस्य दोषदम् \।
 
 सर्वेषाम् अनुकम्पार्थम् आत्मनश्चापि कीर्तयेत् \।\।
@@ -26950,8 +21304,6 @@ MS.
 
 ३८.९६ \।\।
 
-
-
 कर्ता कमलसंभूत क्षतम् अक्षततां नयेत् \।
 
 क्रियमाणस्य बिम्बस्य मधूच्छिष्टोज्झितस्य च \।\।
@@ -26959,8 +21311,6 @@ MS.
 पौ. सं.
 
 ३८.९७ \।\।
-
-
 
 जाते ऽवयववैकल्ये ह्यनुकल्पम् इदं शृणु \।
 
@@ -26972,8 +21322,6 @@ MS.
 
 ३८.९८ \।\।
 
-
-
 बृहद् बिम्बाद्यपेक्षायां द्रव्यत्यागं हि नोचितम् \।
 
 हेमादीनां तु धातूनाम् उत्कृष्टानां विशेषतः \।\।
@@ -26981,8 +21329,6 @@ MS.
 पौ. सं.
 
 ३८.९९ \।\।
-
-
 
 जाते ऽवयववैकल्ये शान्त्यर्थं यागम् आचरेत् \।
 
@@ -26992,8 +21338,6 @@ MS.
 
 ३८.१०० \।\।
 
-
-
 केवलं हेम हैमस्य यथालाभं क्षते क्षिपेत् \।
 
 सर्वं रत्नमयं चूर्णं द्वादशाक्षरमन्त्रितम् \।\।
@@ -27001,8 +21345,6 @@ MS.
 पौ. सं.
 
 ३८.१०१ \।\।
-
-
 
 एतत्पूर्वं तथा चान्यधातूत्थानां महामते \।
 
@@ -27012,8 +21354,6 @@ MS.
 
 ३८.१०२ \।\।
 
-
-
 यदि वै विधिनानेन क्रियमाणेन पौष्कर \।
 
 न भवेच्चित्तनैर्मल्यम् आचर्तव्यं क्रियान्तरम् \।\।
@@ -27021,8 +21361,6 @@ MS.
 पौ. सं.
 
 ३८.१०३ \।\।
-
-
 
 संमतेन गुरुणां च प्राग्वद् अर्चनपूर्वकम् \।
 
@@ -27032,8 +21370,6 @@ MS.
 
 ३८.१०४ \।\।
 
-
-
 आपाद्यम् अपरं तेन बिम्बद्रव्येण चाक्षतम् \।
 
 सर्वावयवसंपूर्णं मनोहारि विलक्षणम् \।\।
@@ -27041,8 +21377,6 @@ MS.
 पौ. सं.
 
 ३८.१०५ \।\।
-
-
 
 संभवे सति तच्छश्वद् विना कालान्तरेण तु \।
 
@@ -27052,8 +21386,6 @@ MS.
 
 ३८.१०६ \।\।
 
-
-
 स्थानम् आसादयन्त्याहुस्तस्य पूर्वपितामहाः \।
 
 प्रपितामहपूर्वास्तु विवदन्ति परस्परम् \।\।
@@ -27061,8 +21393,6 @@ MS.
 पौ. सं.
 
 ३८.१०७ \।\।
-
-
 
 प्रायशो मुक्तदोषास्तु सन्तानेन कृता वयम् \।
 
@@ -27072,8 +21402,6 @@ MS.
 
 ३८.१०८ \।\।
 
-
-
 ततः शीघ्रतरं कार्यं प्रतिष्ठाख्यं मखं महत् \।
 
 प्रीतये चातुरात्म्यानाम् अनूनां (मीषां) तत्त्ववेदिनाम् \।\।
@@ -27081,8 +21409,6 @@ MS.
 पौ. सं.
 
 ३८.१०९ \।\।
-
-
 
 ऋषीणां विबुधानां च पितृणां पद्मसंभव \।
 
@@ -27092,8 +21418,6 @@ MS.
 
 ३८.११० \।\।
 
-
-
 भिन्नागमोत्थिताद् भग्नबिम्बाद् धातुमयाद् द्विज \।
 
 कृतबिम्बान्तरं कुर्याद् एवम् आमुष्मिकादिकम् \।\।
@@ -27101,8 +21425,6 @@ MS.
 पौ. सं.
 
 ३८.१११ \।\।
-
-
 
 अतस्तदेव विहितं तद् भेदं वा तद् अन्वयात् \।
 
@@ -27112,8 +21434,6 @@ MS.
 
 ३८.११२ \।\।
 
-
-
 संस्थितानां स्वदेशे च विहितानां धनादिना \।
 
 द्रव्यप्रमाणं कर्तव्यं पूर्वैर् भेदैर् विभाजितम् \।\।
@@ -27121,8 +21441,6 @@ MS.
 पौ. सं.
 
 ३८.११३ \।\।
-
-
 
 योर्ऽथे वै बान्धवादीनां कुर्याद्वै प्रतिमां विभोः \।
 
@@ -27132,8 +21450,6 @@ MS.
 
 ३८.११४ \।\।
 
-
-
 स्वयंव्यक्तं तथा सैद्धं विबुधैश्च प्रतिष्ठितम् \।
 
 ऋते विप्रादिकैर्विप्र देवबिम्बं निवेशितम् \।\।
@@ -27141,8 +21457,6 @@ MS.
 पौ. सं.
 
 ३८.११५ \।\।
-
-
 
 विन्यस्तं तत्र यन्मन्त्रम् अङ्गमन्त्रैः सलाञ्छनैः \।
 
@@ -27152,8 +21466,6 @@ MS.
 
 ३८.११६ \।\।
 
-
-
 शप्त्वाचार्यं तथा कर्त्रा यदर्थं च प्रतिष्ठितम् \।
 
 पिशाचभूतवेतालाः सयक्षाश्चैव राक्षसाः \।\।
@@ -27161,8 +21473,6 @@ MS.
 पौ. सं.
 
 ३८.११७ \।\।
-
-
 
 स्थानं च पीठं बिम्बं च ध्वजान्तं संश्रयन्ति च \।
 
@@ -27172,8 +21482,6 @@ MS.
 
 ३८.११८ \।\।
 
-
-
 प्रतिष्ठितस्य बिम्बस्य यथा संपद्यते शुभम् \।
 
 पूजाहोमप्रदानैश्च वादित्रैः सह गीतकैः \।\।
@@ -27181,8 +21489,6 @@ MS.
 पौ. सं.
 
 ३८.११९ \।\।
-
-
 
 स्वगृहे चलबिम्बस्य पुष्पधूपादिकीं स्थितिम् \।
 
@@ -27192,8 +21498,6 @@ MS.
 
 ३८.१२० \।\।
 
-
-
 यावज्जीवावधिः कालं तत्त्वमन्त्रैर् अधिष्ठिते \।
 
 त्रैकाल्यं चलबिम्बे तु मन्त्रं मन्त्री स्वकं यजेत् \।\।
@@ -27201,8 +21505,6 @@ MS.
 पौ. सं.
 
 ३८.१२१ \।\।
-
-
 
 द्वादशाक्षरपूर्वं वा सामान्यं गुरुणां पुरा \।
 
@@ -27212,8 +21514,6 @@ MS.
 
 ३८.१२२ \।\।
 
-
-
 संहृत्यैवं यथाशास्त्रं भक्त्या भोगफलाप्तये \।
 
 निवेद्य मात्रासहितं स्वगुरोर्भवशान्तये \।\।
@@ -27221,8 +21521,6 @@ MS.
 पौ. सं.
 
 ३८.१२३ \।\।
-
-
 
 तदङ्घ्रिगौ करौ कृत्वा विज्ञाप्य नतमस्तकः \।
 
@@ -27232,8 +21530,6 @@ MS.
 
 ३८.१२४ \।\।
 
-
-
 न्यस्तव्यं वैष्णवैः पूर्णं मदनुग्रहकाम्यया \।
 
 देहसंन्यासकाले तु स्वशिष्यस्यानुकम्पया \।\।
@@ -27241,8 +21537,6 @@ MS.
 पौ. सं.
 
 ३८.१२५ \।\।
-
-
 
 एवं हि गुरुणा कार्या योग्यस्यान्यस्य चोदना \।
 
@@ -27252,8 +21546,6 @@ MS.
 
 ३८.१२६ \।\।
 
-
-
 सत्क्रियस्य च भक्तस्य तद् अभावान्महामते \।
 
 स्थितिर्वायतने विप्र विधेया गृहमेधिना \।\।
@@ -27261,8 +21553,6 @@ MS.
 पौ. सं.
 
 ३८.१२७ \।\।
-
-
 
 असंपत्तेस्तु भोगानाम् अन्नाद्यं संपरित्यजेत् \।
 
@@ -27272,8 +21562,6 @@ MS.
 
 ३८.१२८ \।\।
 
-
-
 मूर्ध्नि दत्त्वाम्बुनार्घ्यं प्राक् सपुष्पं केवलं तु वा \।
 
 अम्बुपूजेयमाद्या वै भोगानां मूलमेव हि \।\।
@@ -27281,8 +21569,6 @@ MS.
 पौ. सं.
 
 ३८.१२९ \।\।
-
-
 
 यतो रसमयाः सर्वे तद्रसः परमेश्वरः \।
 
@@ -27292,8 +21578,6 @@ MS.
 
 ३८.१३० \।\।
 
-
-
 पादयोस्तत्पुनर्दद्यात् भोगजालं यतो ऽखिलम् \।
 
 स्वकारणपुटान्तस्थम् आनन्त्यम् उपयाति च \।\।
@@ -27301,8 +21585,6 @@ MS.
 पौ. सं.
 
 ३८.१३१ \।\।
-
-
 
 अचिराद् एव भक्तानां मन्त्रिणां मन्त्रयाजिनाम् \।
 
@@ -27312,8 +21594,6 @@ MS.
 
 ३८.१३२ \।\।
 
-
-
 पुष्पधूपादयो भोगा मन्त्रान्ताः परिकीर्तिताः \।
 
 तत्रापि रसमूला वै व्यक्तिस्तेषां तदात्मिका \।\।
@@ -27321,8 +21601,6 @@ MS.
 पौ. सं.
 
 ३८.१३३ \।\।
-
-
 
 स्थितमानन्दभावेन खादीनां चैव तद्रसम् \।
 
@@ -27332,8 +21610,6 @@ MS.
 
 ३८.१३४ \।\।
 
-
-
 इत्येवं मानवीयानाम् अर्चनां कमलोद्भव \।
 
 चलानाम् अचलानां च संस्थानं समुदाहृतम् \।\।
@@ -27341,8 +21617,6 @@ MS.
 पौ. सं.
 
 ३८.१३५ \।\।
-
-
 
 मुक्त्वा द्विजेन्द्रकर्मार्चाम् अन्यां वै वैष्णवीं चलाम् \।
 
@@ -27352,8 +21626,6 @@ MS.
 
 ३८.१३६ \।\।
 
-
-
 विहितं प्रतिमानां च प्रमादजनकं च तत् \।
 
 न मूर्त्यन्तरदेवानां मूर्तयो व्यूहलक्षणाः \।\।
@@ -27361,8 +21633,6 @@ MS.
 पौ. सं.
 
 ३८.१३७ \।\।
-
-
 
 भुवनान्तर्गताः कार्या विधिना सुस्थिरेण तु \।
 
@@ -27372,8 +21642,6 @@ MS.
 
 ३८.१३८ \।\।
 
-
-
 निषिद्धं भित्तिगेहेषु उच्चस्थेषु निवेशनम् \।
 
 देवानां भवनाद्वामे उच्छ्राया\[या\]मसमं विना \।\।
@@ -27381,8 +21649,6 @@ MS.
 पौ. सं.
 
 ३८.१३९ \।\।
-
-
 
 यथोक्तं मुख्यकल्पाद् वै हेत्वपेक्षावशाद् भुवः \।
 
@@ -27392,8 +21658,6 @@ MS.
 
 ३८.१४० \।\।
 
-
-
 पूजाहवनपूर्वं च आज्ञाम् आदाय दैशिकीम् \।
 
 तथैव च समूहोत्थां भुवनान्तरवर्तिनाम् \।\।
@@ -27401,8 +21665,6 @@ MS.
 पौ. सं.
 
 ३८.१४१ \।\।
-
-
 
 सुराणाम् अर्चितानां च कदाचिन्न विरोधकृत् \।
 
@@ -27412,8 +21674,6 @@ MS.
 
 ३८.१४२ \।\।
 
-
-
 आदृष्टविग्रहाणां च पीठानाम् अशुभं भवेत् \।
 
 एवम् आयतनस्थानां गृहीतान्तरवर्तिनाम् \।\।
@@ -27421,8 +21681,6 @@ MS.
 पौ. सं.
 
 ३८.१४३ \।\।
-
-
 
 विभवव्यूहमूर्तीनां मन्त्रमूर्तेर्ऽचने सति \।
 
@@ -27432,8 +21690,6 @@ MS.
 
 ३८.१४४ \।\।
 
-
-
 आराधनार्थम् आदौ तु मन्त्रान्तम् अखिलं तु वै \।
 
 मुख्यत्वेनानुकल्पे हि यदन्यस्थण्डिलादिकैः \।\।
@@ -27441,8 +21697,6 @@ MS.
 पौ. सं.
 
 ३८.१४५ \।\।
-
-
 
 ऊनम् अष्टाष्टकाच्चापि भोगजालाद् असंभवे \।
 
@@ -27452,8 +21706,6 @@ MS.
 
 ३८.१४६ \।\।
 
-
-
 ऊनाधिकविशालार्था भगवद्यागलक्षणा \।
 
 विधेया परमा शान्तिः सततं च शुभार्थिना \।\।
@@ -27462,13 +21714,7 @@ MS.
 
 ३८.१४७ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 सर्वदोषप्रशमनी यथा कार्याथ देशिकैः \।
 
@@ -27478,13 +21724,7 @@ MS.
 
 ३८.१४८ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 सर्वदोषप्रशमनं भक्तानां भावितात्मनाम् \।
 
@@ -27494,8 +21734,6 @@ MS.
 
 ३८.१४९ \।\।
 
-
-
 यस्माद्वा स्थाप्य पीठं च विष्वक्सेनान्तम् अर्चनम् \।
 
 नोपुयज्यति वै तत्र ऋते सर्वेश्वरार्चनात् \।\।
@@ -27503,8 +21741,6 @@ MS.
 पौ. सं.
 
 ३८.१५० \।\।
-
-
 
 व्यतिरिक्ता निराशानाम् अम्बरस्थाम्बरेषु च \।
 
@@ -27514,8 +21750,6 @@ MS.
 
 ३८.१५१ \।\।
 
-
-
 पीठम् अश्रान्वितं कृत्वा पुरं त्वाचरणान्वितम् \।
 
 तत्र पूर्वोदितन्यासं कुर्याद् आधारपूर्वकम् \।\।
@@ -27523,8 +21757,6 @@ MS.
 पौ. सं.
 
 ३८.१५२ \।\।
-
-
 
 स्वदेहवत् तमालक्ष्य स्मृत्वाध्यक्षप्रकाशितम् \।
 
@@ -27534,8 +21766,6 @@ MS.
 
 ३८.१५३ \।\।
 
-
-
 यथेह च सवेद्यादि स्मृत्वा युक्तस्वविग्रहे \।
 
 न हि सांकर्यदोषो ऽस्ति अध्यक्षाधिष्ठिते सति \।\।
@@ -27543,8 +21773,6 @@ MS.
 पौ. सं.
 
 ३८.१५४ \।\।
-
-
 
 तथैवाधारशक्त्यादि विष्वक्सेनान्तम् अर्चनम् \।
 
@@ -27554,8 +21782,6 @@ MS.
 
 ३८.१५५ \।\।
 
-
-
 सर्वस्य नाम चोच्चार्य तदन्ते त्वात्मने नमः \।
 
 एवम् आसनदेवानां धर्मादीनां समर्चनम् \।\।
@@ -27563,8 +21789,6 @@ MS.
 पौ. सं.
 
 ३८.१५६ \।\।
-
-
 
 स्थानभेदस्थितानां च कृत्वा तदनु पौष्कर \।
 
@@ -27574,8 +21798,6 @@ MS.
 
 ३८.१५७ \।\।
 
-
-
 संपूर्णं शान्तये तत्स्याद् असंपूर्णम् अशान्तये \।
 
 अतः स्वशक्त्या शान्त्यर्थे सदानं वह्नितर्पणम् \।\।
@@ -27583,8 +21805,6 @@ MS.
 पौ. सं.
 
 ३८.१५८ \।\।
-
-
 
 भगवद्यागपूर्वं तु सर्वत्र विहितं सदा \।
 
@@ -27594,8 +21814,6 @@ MS.
 
 ३८.१५९ \।\।
 
-
-
 सम्यक्ततो द (र)यीं ज्ञात्वा सद्रव्यं संस्थितं शुभम् \।
 
 यथा बीजाङ्कुराभ्यां तु अनन्यत्वमनादिमत् \।\।
@@ -27603,8 +21821,6 @@ MS.
 पौ. सं.
 
 ३८.१६० \।\।
-
-
 
 फलाप्तये फलेप्सूनां जगत्यस्मिंस्तथाब्जज \।
 
@@ -27614,8 +21830,6 @@ MS.
 
 ३८.१६१ \।\।
 
-
-
 ज्ञातव्यम् अविवेकाच्च बुध्या तु सुविशुद्धया \।
 
 भगवद्वासुदेवाख्यपरस्य परमात्मनः \।\।
@@ -27623,8 +21837,6 @@ MS.
 पौ. सं.
 
 ३८.१६२ \।\।
-
-
 
 अनुग्रहार्थम् उल्लासं ज्ञानकर्मसमन्वितम् \।
 
@@ -27634,8 +21846,6 @@ MS.
 
 ३८.१६३ \।\।
 
-
-
 तत्त्वशक्तिसमोपेतं ज्ञानाद्यैरन्वितं गुणैः \।
 
 अणिमाद्यष्टकेनापि सिद्धिबीजेन वै सह \।\।
@@ -27643,8 +21853,6 @@ MS.
 पौ. सं.
 
 ३८.१६४ \।\।
-
-
 
 शान्तये सर्वदोषाणां शश्वत् परपदाप्तये \।
 
@@ -27656,8 +21864,6 @@ MS.
 
 ३८.१६५ \।\।
 
-
-
 समुद्रस्योर्मयो यद्वद् रश्मयो भास्करस्य च \।
 
 संकल्पाद् भक्तिपूर्वात् तु सूर्यवद्धृदयाम्बुजे \।\।
@@ -27665,8 +21871,6 @@ MS.
 पौ. सं.
 
 ३८.१६६ \।\।
-
-
 
 करोति नित्यम् उदयं भव्यबुद्धेः महामहे \।
 
@@ -27676,8 +21880,6 @@ MS.
 
 ३८.१६७ \।\।
 
-
-
 बहिः शुभतरैः पश्चात् भोगैर् आज्यादिकैस्ततः \।
 
 तर्पितश्चानलाधारे यथोक्तविधिनाब्जज \।\।
@@ -27685,8 +21887,6 @@ MS.
 पौ. सं.
 
 ३८.१६८ \।\।
-
-
 
 देशिकद्विजमूर्तिश्च सान्नपानधनादिना \।
 
@@ -27696,13 +21896,7 @@ MS.
 
 ३८.१६९ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 कर्मणां शान्तिकादीनाम् आधारे मण्डलादिके \।
 
@@ -27712,13 +21906,7 @@ MS.
 
 ३८.१७० \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 व्यक्तिः संपूज्यते या या ज्ञानाद्यैः सा गुणैर् युता \।
 
@@ -27728,8 +21916,6 @@ MS.
 
 ३८.१७१ \।\।
 
-
-
 संसारदुःखशान्त्यर्थं तज्जा वा सा सुशान्तये \।
 
 संयजेद् गोचरीकृत्य भक्त्या सुश्रद्धया तु वै \।\।
@@ -27737,8 +21923,6 @@ MS.
 पौ. सं.
 
 ३८.१७२ \।\।
-
-
 
 वाचकैर् द्वादशार्णाद्यैः शश्वच्चाभिमताप्तये \।
 
@@ -27748,8 +21932,6 @@ MS.
 
 ३८.१७३ \।\।
 
-
-
 शक्तिपूतैः सुसंपूर्णा तथान्यैः साधनैः स्वकैः \।
 
 शुद्धसंविन्मयं त्वेवं व्यक्तविग्रहम् आच्युतम् \।\।
@@ -27757,8 +21939,6 @@ MS.
 पौ. सं.
 
 ३८.१७४ \।\।
-
-
 
 पौरुषेण तु रूपेण स्मर्तव्यं सत्पदाप्तये \।
 
@@ -27768,8 +21948,6 @@ MS.
 
 ३८.१७५ \।\।
 
-
-
 मुञ्चन्तम् अनिशं देहाद् आलोकं ज्ञानलक्षणम् \।
 
 प्रयत्नेन विना ज्ञानं न्यासकृद् ध्यायिनां महत् \।\।
@@ -27777,8 +21955,6 @@ MS.
 पौ. सं.
 
 ३८.१७६ \।\।
-
-
 
 स्रग्वस्त्राभरणैर् युक्तं स्वानुरूपैर् अनूपमैः \।
 
@@ -27788,8 +21964,6 @@ MS.
 
 ३८.१७७ \।\।
 
-
-
 पूर्वकर्मानलार्तानांध्यायिनां स्वेदशान्तये \।
 
 स्वदत्तेन्दुचयोत्थेन ह्लादेयद् गोगणेन तु \।\।
@@ -27797,8 +21971,6 @@ MS.
 पौ. सं.
 
 ३८.१७८ \।\।
-
-
 
 विद्याकलाभिधे शक्ती संधत्ते शङ्खचक्रवत् \।
 
@@ -27808,8 +21980,6 @@ MS.
 
 ३८.१७९ \।\।
 
-
-
 अनन्तशक्तिर् भगवांस्तम् अनन्तगुणं स्मृतम् \।
 
 दृश्यदृष्टान्तसूर्येन्दुवह्नितत्त्वैर् विलक्षणम् \।\।
@@ -27817,8 +21987,6 @@ MS.
 पौ. सं.
 
 ३८.१८० \।\।
-
-
 
 स्वबोधप्रत्ययेनैव इयत्तास्य विधीयते \।
 
@@ -27828,8 +21996,6 @@ MS.
 
 ३८.१८१ \।\।
 
-
-
 ध्येयम् अस्य यदा भाति सा विद्या स्वात्मनि स्थिता \।
 
 भक्त्या यथोचितध्यानाद् एतस्माद् एव शान्तये \।\।
@@ -27837,8 +22003,6 @@ MS.
 पौ. सं.
 
 ३८.१८२ \।\।
-
-
 
 एवम् अस्य परं रूपं परमं विनिबोधतु \।
 
@@ -27848,8 +22012,6 @@ MS.
 
 ३८.१८३ \।\।
 
-
-
 धनुकुञ्चितनीलालिग (द) लिताञ्जनसन्निभैः \।
 
 कर्पूरधूसरैर्दिव्यैः पुष्पसंवलितान्तरैः \।\।
@@ -27857,8 +22019,6 @@ MS.
 पौ. सं.
 
 ३८.१८४ \।\।
-
-
 
 किरीटमकुटाक्रान्तैः शोभितं सुशिरोरुहैः \।
 
@@ -27868,8 +22028,6 @@ MS.
 
 ३८.१८५ \।\।
 
-
-
 पाणिपादतलै रक्तैर्वदनैर् अधरादिकैः \।
 
 नासाश्रवणरन्ध्रान्तैर् मुक्ताभासादिकैर् द्विजैः \।\।
@@ -27877,8 +22035,6 @@ MS.
 पौ. सं.
 
 ३८.१८६ \।\।
-
-
 
 ईषदारक्तगोक्षीरशुद्धनीलाब्जलोचनैः \।
 
@@ -27888,8 +22044,6 @@ MS.
 
 ३८.१८७ \।\।
 
-
-
 नानामन्त्रप्रभाकान्तिध्यानम् इच्छाप्रदं भवेत् \।
 
 बहिर्वै मण्डले ध्यानं भवदुःखं नयेत् क्षयम् \।\।
@@ -27897,8 +22051,6 @@ MS.
 पौ. सं.
 
 ३८.१८८ \।\।
-
-
 
 परस्माद् भगवत्तत्त्वाद् अनन्यत्वेन वर्तते \।
 
@@ -27908,8 +22060,6 @@ MS.
 
 ३८.१८९ \।\।
 
-
-
 नानाव्यक्तिस्वरूपेण भविनां मोक्षदं हि यत् \।
 
 तत्र तावत् परिज्ञेया क्रमशो वै पुरोदिताः \।\।
@@ -27917,8 +22067,6 @@ MS.
 पौ. सं.
 
 ३८.१९० \।\।
-
-
 
 निर्दिष्टलक्षणा ब्रह्मन् वराहाद्यास्तु शक्तयः \।
 
@@ -27928,8 +22076,6 @@ MS.
 
 ३८.१९१ \।\।
 
-
-
 परस्य ब्रह्मणस्त्वेवं नित्या वा व्यापकामला \।
 
 मूर्तिर्वै वासुदेवाख्या त्वभेदेन स्थिताब्जज \।\।
@@ -27937,8 +22083,6 @@ MS.
 पौ. सं.
 
 ३८.१९२ \।\।
-
-
 
 ज्वाला ज्योत्स्त्ना प्रभा यद्वत् वह्नेर् इन्दोर् विवस्वतः \।
 
@@ -27948,8 +22092,6 @@ MS.
 
 ३८.१९३ \।\।
 
-
-
 अनुग्रहार्थम् एवं वै भगवन्मन्त्रशक्तयः \।
 
 व्ययञ्जयन्ति स्वकं रूपम् आभिमानिकम् उत्तमम् \।\।
@@ -27957,8 +22099,6 @@ MS.
 पौ. सं.
 
 ३८.१९४ \।\।
-
-
 
 यमालम्ब्याचिरेणैव जपाद् ध्यानात् समर्चनात् \।
 
@@ -27968,8 +22108,6 @@ MS.
 
 ३८.१९५ \।\।
 
-
-
 साहजं प्राकृतं कर्मबन्धं कर्मात्मजं हि यत् \।
 
 संस्थितं हि यथा ताम्रं धातोरब्जज कालिकम् \।\।
@@ -27977,8 +22115,6 @@ MS.
 पौ. सं.
 
 ३८.१९६ \।\।
-
-
 
 भूत्वा सर्वज्ञशक्तिः सा स्वयं मन्त्रतरात्मना \।
 
@@ -27988,8 +22124,6 @@ MS.
 
 ३८.१९७ \।\।
 
-
-
 भक्तियुक्तम् असंबाधं शश्वद् ये चाप्नुवन्ति ते \।
 
 पिबन्ति परमं ब्रह्म ईशं मन्त्रात्मनाप्तये \।\।
@@ -27997,8 +22131,6 @@ MS.
 पौ. सं.
 
 ३८.१९८ \।\।
-
-
 
 लब्धाधिकाराः क्रमशः संप्राप्य स्वेश्वरे पदे \।
 
@@ -28008,8 +22140,6 @@ MS.
 
 ३८.१९९ \।\।
 
-
-
 ज्ञात्वैवं कमलोद्भूत ध्येयाः पूज्यास्तथैव हि \।
 
 ये प्रधानतरा मन्त्रा मूर्तयो ऽपि जगत्प्रभोः \।\।
@@ -28017,8 +22147,6 @@ MS.
 पौ. सं.
 
 ३८.२०० \।\।
-
-
 
 आराधनाज्जपाद् ध्यानात् परिज्ञानाच्च ते शुभम् \।
 
@@ -28028,8 +22156,6 @@ MS.
 
 ३८.२०१ \।\।
 
-
-
 दहन्ति वह्निवत् कर्मजालं कर्मात्मनां महत् \।
 
 एवं ज्ञात्वाब्जसंभूत सुप्रसिद्धैस्तु वाचकैः \।\।
@@ -28037,8 +22163,6 @@ MS.
 पौ. सं.
 
 ३८.२०२ \।\।
-
-
 
 द्वादशाक्षरपूर्वैस्तु षडष्टाक्षरपश्चिमैः \।
 
@@ -28048,8 +22172,6 @@ MS.
 
 ३८.२०३ \।\।
 
-
-
 स्मर्तव्या वासुदेवाख्या द्विभेदाः परमेश्वराः \।
 
 चत्वारश्चानिरुद्धान्ताश्चतुर्व्यूहव्यवस्थया \।\।
@@ -28057,8 +22179,6 @@ MS.
 पौ. सं.
 
 ३८.२०४ \।\।
-
-
 
 एवम् अन्ये वराहाद्याश्चतुर्व्यूहेन वै सह \।
 
@@ -28068,8 +22188,6 @@ MS.
 
 ३८.२०५ \।\।
 
-
-
 अनुज्झितस्वरूपस्य नानामूर्तियुतस्य च \।
 
 नानाव्यत्ययसंस्थस्य यजनं चतुरात्मनः \।\।
@@ -28077,8 +22195,6 @@ MS.
 पौ. सं.
 
 ३८.२०६ \।\।
-
-
 
 यत् तु नानार्थसिद्ध्यर्थं तथा रुचिगुणाप्तये \।
 
@@ -28088,8 +22204,6 @@ MS.
 
 ३८.२०७ \।\।
 
-
-
 प्राप्तुम् इच्छति यच्छीघ्रं धीमता तेन पौष्कर \।
 
 पूजनीयं यथावस्थम् अध्यक्षान्तं हि केवलम् \।\।
@@ -28097,8 +22211,6 @@ MS.
 पौ. सं.
 
 ३८.२०८ \।\।
-
-
 
 प्राग्वद्विभवमूर्तीनां पञ्च व्यूहाद्यपेक्षया \।
 
@@ -28108,8 +22220,6 @@ MS.
 
 ३८.२०९ \।\।
 
-
-
 सप्रद्युम्नाच्युताध्यक्षवासुदेवाद्यम् अर्चयेत् \।
 
 यः पुनर्मूर्तिपूर्वं तु इच्छेद् गुणगणं महत् \।\।
@@ -28117,8 +22227,6 @@ MS.
 पौ. सं.
 
 ३८.२१० \।\।
-
-
 
 संकल्पसिद्धयः सर्वा विविधाश्चाणिमादयः \।
 
@@ -28128,8 +22236,6 @@ MS.
 
 ३८.२११ \।\।
 
-
-
 प्रद्युम्नान्तं तु सततं समाधावर्चने हितम् \।
 
 मुख्यत्वेन तु वै यस्य चलाद्यं गुणसंग्रहम् \।\।
@@ -28137,8 +22243,6 @@ MS.
 पौ. सं.
 
 ३८.२१२ \।\।
-
-
 
 प्रतिभाति गुरोर्वक्त्रं धीरं तस्यार्चने पुनः \।
 
@@ -28148,8 +22252,6 @@ MS.
 
 ३८.२१३ \।\।
 
-
-
 षट्कं तु वीर्यपूर्वं वै इच्छत्याराधनात्तु यः \।
 
 अप्रद्युम्नं तम् अध्यक्षमच्युतं संयजेत्तदा \।\।
@@ -28157,8 +22259,6 @@ MS.
 पौ. सं.
 
 ३८.२१४ \।\।
-
-
 
 तेजःपूर्वं तु षाड्गुण्यं योर्ऽचनाद् अभिवाञ्छति \।
 
@@ -28168,8 +22268,6 @@ MS.
 
 ३८.२१५ \।\।
 
-
-
 प्रागर्चनात्तु मूर्तीनां केवलाद् अर्चनात् तु वा \।
 
 कैवल्यं भगवत्तत्त्वं मन्त्रज्ञः समवाप्नुयात् \।\।
@@ -28177,8 +22275,6 @@ MS.
 पौ. सं.
 
 ३८.२१६ \।\।
-
-
 
 मूर्तित्रयं तदन्ते यत् सर्वगं यद्यपि स्थितम् \।
 
@@ -28188,8 +22284,6 @@ MS.
 
 ३८.२१७ \।\।
 
-
-
 ज्ञात्वैवम् अर्चनीयं तु तमेव समनन्तरम् \।
 
 जाग्रद् ईश्वरम् अध्यक्षं त्वया नाथात्मना सह \।\।
@@ -28197,8 +22291,6 @@ MS.
 पौ. सं.
 
 ३८.२१८ \।\।
-
-
 
 त्रयाणाम् अच्युतादीनां प्राथम्येन तु पूजनात् \।
 
@@ -28208,8 +22300,6 @@ MS.
 
 ३८.२१९ \।\।
 
-
-
 चातुरात्मीययोगेन गुणानाम् एवम् अर्चनम् \।
 
 कुर्याद् वै विधिवन्मन्त्री यथा तदवधारय \।\।
@@ -28217,8 +22307,6 @@ MS.
 पौ. सं.
 
 ३८.२२० \।\।
-
-
 
 ज्ञानं बलमथैश्वर्यं वीर्यं च तदनन्तरम् \।
 
@@ -28228,8 +22316,6 @@ MS.
 
 ३८.२२१ \।\।
 
-
-
 बलम् ऐश्वर्यवीर्ये च तेजोनिष्ठं चतुष्टयम् \।
 
 यं य इच्छत्यभिमतं परिज्ञानाद् अवाप्नुयात् \।\।
@@ -28237,8 +22323,6 @@ MS.
 पौ. सं.
 
 ३८.२२२ \।\।
-
-
 
 तेजः शक्तिस्तथा ज्ञानं बलं वीर्यान्तम् एव हि \।
 
@@ -28248,8 +22332,6 @@ MS.
 
 ३८.२२३ \।\।
 
-
-
 ज्ञानात्मने समुच्चार्य प्रणवाद्यं पदं शुभम् \।
 
 यथा ज्ञानगुणस्योक्तं सर्वेषाम् एवमेव हि \।\।
@@ -28257,8 +22339,6 @@ MS.
 पौ. सं.
 
 ३८.२२४ \।\।
-
-
 
 अनुज्झितक्रमेणैव व्यत्ययेनोदितेन च \।
 
@@ -28268,8 +22348,6 @@ MS.
 
 ३८.२२५ \।\।
 
-
-
 भेदभिन्नं जगद्योनेर् अभेदेन यजेत् पुनः \।
 
 द्वादशारे महाचक्रे तथासंख्यच्छदोदरे \।\।
@@ -28277,8 +22355,6 @@ MS.
 पौ. सं.
 
 ३८.२२६ \।\।
-
-
 
 गुणातीतस्तु भगवान् पूर्ववत् कणिकान्तरे \।
 
@@ -28288,8 +22364,6 @@ MS.
 
 ३८.२२७ \।\।
 
-
-
 नमः प्रणवसंरुद्धैः प्रादक्षिण्येन प्राक् पदात् \।
 
 प्राप्तये गुणभूतानां षट्कयुक्तं हि यच्च ते \।\।
@@ -28297,8 +22371,6 @@ MS.
 पौ. सं.
 
 ३८.२२८ \।\।
-
-
 
 दिव्यानां चातुरात्म्यानां त्रयं संचरितं हि यत् \।
 
@@ -28308,8 +22380,6 @@ MS.
 
 ३८.२२९ \।\।
 
-
-
 उपायैस्तैः फलप्राप्त्यै तस्माद् यष्टव्यम् इच्छया \।
 
 भक्तिश्रद्धासमेतेन ज्ञानपूर्वेण कर्मणा \।\।
@@ -28317,8 +22387,6 @@ MS.
 पौ. सं.
 
 ३८.२३० \।\।
-
-
 
 स्ववर्णाश्रमधर्मेण सह सम्यक् समाधिना \।
 
@@ -28328,8 +22396,6 @@ MS.
 
 ३८.२३१ \।\।
 
-
-
 तीव्रप्रभावशान्ताच्च ज्ञानम् आराधनेन च \।
 
 देहेनानेन तेनैव ह्यनेनान्यतरेण वा \।\।
@@ -28337,8 +22403,6 @@ MS.
 पौ. सं.
 
 ३८.२३२ \।\।
-
-
 
 मन्दमन्दवशाद् भाववशाद् अमरपूजितः \।
 
@@ -28348,8 +22412,6 @@ MS.
 
 ३८.२३३ \।\।
 
-
-
 भोगैर्यथोदितैः शुद्धैः क्रियाभिर्विविधैस्ततः \।
 
 निष्पत्तौ तु क्रियाङ्गानां हृदास्त्रार्घ्यं स्वमन्त्रराट् \।\।
@@ -28357,8 +22419,6 @@ MS.
 पौ. सं.
 
 ३८.२३४ \।\।
-
-
 
 नानर्चितं विभोर्भोगं कल्पितं विनिवेद्य च \।
 
@@ -28368,8 +22428,6 @@ MS.
 
 ३८.२३५ \।\।
 
-
-
 कल्पयामीति नाम्ना तद् भोगानां विध्युपार्जनम् \।
 
 धिया निवेदनं तेषां शिरसावनतेन यत् \।\।
@@ -28377,8 +22435,6 @@ MS.
 पौ. सं.
 
 ३८.२३६ \।\।
-
-
 
 समर्पणे यद् विज्ञेयं वाचकेन हृदेश्वरात् \।
 
@@ -28388,8 +22444,6 @@ MS.
 
 ३८.२३७ \।\।
 
-
-
 हृदयङ्गमसंज्ञं यत् पञ्चकं त्वर्हणादिकम् \।
 
 कृतम् अञ्जलिमुद्रायां श्रद्धापूतेन चेतसा \।\।
@@ -28397,8 +22451,6 @@ MS.
 पौ. सं.
 
 ३८.२३८ \।\।
-
-
 
 निवेदनीयं बहुधा यथासंभवमेव वा \।
 
@@ -28408,8 +22460,6 @@ MS.
 
 ३८.२३९ \।\।
 
-
-
 वदनं नासिकारन्ध्रे स्थगयित्वाम्बरेण तु \।
 
 स्वश्वासोपहतं चैव न भवेत् तद् यथाब्जज \।\।
@@ -28417,8 +22467,6 @@ MS.
 पौ. सं.
 
 ३८.२४० \।\।
-
-
 
 सुभर्जितानां बीजानां प्रसवं न पुनर्यथा \।
 
@@ -28428,8 +22476,6 @@ MS.
 
 ३८.२४१ \।\।
 
-
-
 आस्तां तावन्महाबुद्धे कर्मसंज्ञं हिताच्चयुतम् \।
 
 फलहीनं हि चामूलाद् भवक्षयकरं परम् \।\।
@@ -28437,8 +22483,6 @@ MS.
 पौ. सं.
 
 ३८.२४२ \।\।
-
-
 
 अश्वमेधादयो यज्ञा नूनं कर्मफलप्रदाः \।
 
@@ -28448,8 +22492,6 @@ MS.
 
 ३८.२४३ \।\।
 
-
-
 ज्ञस्वभावास्तु वै यज्ञाः सम्यग्बुध्वा पराशयम् \।
 
 यछन्ति परमां शान्तिं भगवत्तत्त्ववेदिनाम् \।\।
@@ -28457,8 +22499,6 @@ MS.
 पौ. सं.
 
 ३८.२४४ \।\।
-
-
 
 स्वर्गाद्यं फलमन्येषां मर्त्यभोगं तु वेप्सितम् \।
 
@@ -28468,8 +22508,6 @@ MS.
 
 ३८.२४५ \।\।
 
-
-
 कृत्वा बुद्धिनिविष्टं तु जपादीन् श्रद्धया चरेत् \।
 
 भक्तिपूतेन विप्रेन्द्र तात्पर्येण तु वै सह \।\।
@@ -28477,8 +22515,6 @@ MS.
 पौ. सं.
 
 ३८.२४६ \।\।
-
-
 
 साङ्गं सपरिवारं च इष्ट्वैवम् अजम् अव्ययम् \।
 
@@ -28488,8 +22524,6 @@ MS.
 
 ३८.२४७ \।\।
 
-
-
 ऋङ्मयेनाथ यजुषा पूजनीयं तमेव हि \।
 
 अचिराख्ये पदे मन्त्रे तन्त्रैर् अभिमताप्तये \।\।
@@ -28497,8 +22531,6 @@ MS.
 पौ. सं.
 
 ३८.२४८ \।\।
-
-
 
 परं ब्रह्म परं धाम पवित्रं परमैश्वरम् \।
 
@@ -28508,8 +22540,6 @@ MS.
 
 ३८.२४९ \।\।
 
-
-
 व्यक्तम् अस्य परब्रह्म क्वचिन्नयनलक्षणम् \।
 
 अन्तर्निगूढमन्त्राणां वर्तते ऽन्यत्र वै बहिः \।\।
@@ -28517,8 +22547,6 @@ MS.
 पौ. सं.
 
 ३८.२५० \।\।
-
-
 
 अत एव षडङ्गानि पञ्चाङ्गानि महामते \।
 
@@ -28528,8 +22556,6 @@ MS.
 
 ३८.२५१ \।\।
 
-
-
 नेत्राख्यं भगवत्तत्त्वं यदङ्गेभ्यो ऽतिरिच्यते \।
 
 शिरो ऽम्बरे तु मन्त्राणां प्रधानेतरवर्तिनाम् \।\।
@@ -28537,8 +22563,6 @@ MS.
 पौ. सं.
 
 ३८.२५२ \।\।
-
-
 
 स्वबीजं विनियोक्तव्यं स्थित्यर्थं प्राक् प्रभात्मकम् \।
 
@@ -28548,8 +22572,6 @@ MS.
 
 ३८.२५३ \।\।
 
-
-
 औदयेन तु योगेन मन्त्राणि च परात् पदात् \।
 
 यथाक्रमस्थान्याहूय अर्चनावसरं प्रति \।\।
@@ -28557,8 +22579,6 @@ MS.
 पौ. सं.
 
 ३८.२५४ \।\।
-
-
 
 निवेश्य च यथाशास्त्रम् अस्त्रावरणपश्चिमम् \।
 
@@ -28568,8 +22588,6 @@ MS.
 
 ३८.२५५ \।\।
 
-
-
 क्रमात् प्रविलयं कुर्यात् साधकः सिद्धिम् इच्छताम् \।
 
 एवं नियन्तृशक्तिर् वै नेत्राख्या पारमेश्वरी \।\।
@@ -28577,8 +22595,6 @@ MS.
 पौ. सं.
 
 ३८.२५६ \।\।
-
-
 
 प्रभा (भ) वत्वेन मन्त्राणाम् अप्ययत्वेन वर्तते \।
 
@@ -28588,8 +22604,6 @@ MS.
 
 ३८.२५७ \।\।
 
-
-
 निषेधाख्येन बीजेन सानुस्वारेण स्वेनं च \।
 
 सहस्रानलसूर्येन्दुवराहायुतभास्वरा \।\।
@@ -28597,8 +22611,6 @@ MS.
 पौ. सं.
 
 ३८.२५८ \।\।
-
-
 
 वाच्यवाचकयोगेन माननीयं सदैव हि \।
 
@@ -28608,8 +22620,6 @@ MS.
 
 ३८.२५९ \।\।
 
-
-
 भोगबीजम् अखण्डं च प्रतीपं मन्त्रिणां पुनः \।
 
 शश्वद् अज्ञानानुसिद्धं च संप्रयच्छति पूजनात् \।\।
@@ -28617,8 +22627,6 @@ MS.
 पौ. सं.
 
 ३८.२६० \।\।
-
-
 
 नित्यमन्त्रोपसंहारवेलायाम् उदये ऽपि च \।
 
@@ -28628,8 +22636,6 @@ MS.
 
 ३८.२६१ \।\।
 
-
-
 बीजं पिण्डं पदाख्यं च तथा मन्त्रं सलक्षणम् \।
 
 भेदम् एतद्धि मन्त्राणां फलं भेदेन चान्वितम् \।\।
@@ -28637,8 +22643,6 @@ MS.
 पौ. सं.
 
 ३८.२६२ \।\।
-
-
 
 नानावाच्यस्वरूपेण यतः सर्वेश्वरः स्थितः \।
 
@@ -28648,8 +22652,6 @@ MS.
 
 ३८.२६३ \।\।
 
-
-
 वाचकानां हि वाच्यानाम् एवमस्ति परस्परम् \।
 
 आपेक्षिकं वैश्वरूप्यं संसिद्धे नियमे सति \।\।
@@ -28657,8 +22659,6 @@ MS.
 पौ. सं.
 
 ३८.२६४ \।\।
-
-
 
 विना पिण्डाक्षरैर्ब्रह्मन् संज्ञाख्यैः पदलक्षणैः \।
 
@@ -28668,8 +22668,6 @@ MS.
 
 ३८.२६५ \।\।
 
-
-
 सोपाङ्गानां तु चाङ्गानां द्वादशानां स्वसंज्ञया \।
 
 केवलानां तु षण्णां वै पञ्चानाम् अपि चेच्छया \।\।
@@ -28677,8 +22675,6 @@ MS.
 पौ. सं.
 
 ३८.२६६ \।\।
-
-
 
 ते ऽनुस्वारयुताः सर्वे कार्याः प्रणवमध्यगाः \।
 
@@ -28688,8 +22684,6 @@ MS.
 
 ३८.२६७ \।\।
 
-
-
 कर्मानुरूपमन्ते तु नमस्कारादिकं न्यसेत् \।
 
 तथा फलाभिसन्धाने नमस्कारः प्रकीर्तितः \।\।
@@ -28697,8 +22691,6 @@ MS.
 पौ. सं.
 
 ३८.२६८ \।\।
-
-
 
 संप्राप्तौ त्वणिमादीनां स्वाहाकारम् उदीरयेत् \।
 
@@ -28708,8 +22700,6 @@ MS.
 
 ३८.२६९ \।\।
 
-
-
 वश्यार्थे चापि विद्वेषे दुष्टोच्चाटनकर्मणि \।
 
 हुंफट्कारं च विहितम् अन्योन्यप्रीतये वषट् \।\।
@@ -28717,8 +22707,6 @@ MS.
 पौ. सं.
 
 ३८.२७० \।\।
-
-
 
 तृप्त्यर्थे बलिदाने च तेजसो ह्यभिवृद्धये \।
 
@@ -28728,8 +22716,6 @@ MS.
 
 ३८.२७१ \।\।
 
-
-
 मन्त्राणां कर्मसंन्यासकर्तॄणां जातयो ऽपराः \।
 
 निषिद्धास्तत्फलोपेतास्तथा सिद्धान्तिनां नृणाम् \।\।
@@ -28737,8 +22723,6 @@ MS.
 पौ. सं.
 
 ३८.२७२ \।\।
-
-
 
 मन्त्रसिद्धान्तवेतॄणां मन्त्रज्ञानां विशेषतः \।
 
@@ -28748,8 +22732,6 @@ MS.
 
 ३८.२७३ \।\।
 
-
-
 सह जातिगणेनैव विधिना मन्त्रसिद्धयः \।
 
 फलार्थिनाम् अनुज्ञाताः कामभोगरतात्मनाम् \।\।
@@ -28757,8 +22739,6 @@ MS.
 पौ. सं.
 
 ३८.२७४ \।\।
-
-
 
 प्रकृतिप्रत्ययाधीना मालामन्त्रादिकास्तु ये \।
 
@@ -28768,8 +22748,6 @@ MS.
 
 ३८.२७५ \।\।
 
-
-
 आवर्जयन्ति तज्ज्ञानां सततं चित्तम् अब्जज \।
 
 नतिनः प्रणवाद्या ये त्यागपिण्डं तथाब्जज \।\।
@@ -28777,8 +22755,6 @@ MS.
 पौ. सं.
 
 ३८.२७६ \।\।
-
-
 
 मन्त्राणां विविधार्थानां तेषां वै पारमेश्वरी \।
 
@@ -28788,8 +22764,6 @@ MS.
 
 ३८.२७७ \।\।
 
-
-
 आविश्वसाधनं कार्या तेषाम् इच्छा क्रियाब्जज \।
 
 विकासयति सद् विप्र प्रदाने मुक्तये ऽपि च \।\।
@@ -28797,8 +22771,6 @@ MS.
 पौ. सं.
 
 ३८.२७८ \।\।
-
-
 
 भक्तिक्रियापराणां च हितार्थं नित्यसेविनाम् \।
 
@@ -28808,8 +22780,6 @@ MS.
 
 ३८.२७९ \।\।
 
-
-
 दग्धाग्निनापि कुर्वन्ति सम्यग्ज्ञातक्रिये भुवि \।
 
 किं पुनस्त्वागमज्ञैस्तु भक्त्या तु विधिपूर्वकम् \।\।
@@ -28817,8 +22787,6 @@ MS.
 पौ. सं.
 
 ३८.२८० \।\।
-
-
 
 उपदेष्टा प्रबुद्धानां कुर्वन्ति च मनोहितम् \।
 
@@ -28828,17 +22796,9 @@ MS.
 
 ३८.२८१ \।\।
 
-
-
 हितं यत् पदमन्त्राणां समाश्रित्यानुपूर्वकम् \।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 ज्ञातुम् इच्छामि भगवन् कालभेदेन वै सह \।
 
@@ -28848,21 +22808,9 @@ MS.
 
 ३८.२८२ \।\।
 
-
-
-
-
-
-
 कालभेदः ---
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 कालम् एकं द्विजश्रेष्ठ तद् व्यापारवशात् पुनः \।
 
@@ -28872,8 +22820,6 @@ MS.
 
 ३८.२८३ \।\।
 
-
-
 नाडिकाकलितं यद् वै अहोरात्रं तु षडृतु \।
 
 पञ्चधा विषमांशैस्तद् आप्रभाताद् विभज्य च \।\।
@@ -28881,8 +22827,6 @@ MS.
 पौ. सं.
 
 ३८.२८४ \।\।
-
-
 
 ब्राह्मं मुहूर्तम् आसाद्य मन्त्रज्ञः प्रयतः शुचिः \।
 
@@ -28892,8 +22836,6 @@ MS.
 
 ३८.२८५ \।\।
 
-
-
 मन्त्रविन्यस्तदेहोत्थं कुर्यान् मन्त्रार्चनं ततः \।
 
 जपस्तोत्रावसानं च यावद् आदित्यदर्शनम् \।\।
@@ -28901,8 +22843,6 @@ MS.
 पौ. सं.
 
 ३८.२८६ \।\।
-
-
 
 कुर्याद् भोगार्चनं पश्चात् पुष्पमूलफलादिकम् \।
 
@@ -28912,8 +22852,6 @@ MS.
 
 ३८.२८७ \।\।
 
-
-
 प्राग्वदाराधनं मन्त्रं तृतीयप्रहरावधि \।
 
 ततश्चतुर्थप्रहरे शास्त्राध्ययनम् आचरेत् \।\।
@@ -28921,8 +22859,6 @@ MS.
 पौ. सं.
 
 ३८.२८८ \।\।
-
-
 
 चिन्तनं श्रवणोपेतं व्याख्यानं स्वधियेच्छया \।
 
@@ -28932,8 +22868,6 @@ MS.
 
 ३८.२८९ \।\।
 
-
-
 कुर्यान्मन्त्रार्चनं सम्यग्जपध्यानसमन्वितम् \।
 
 आसाद्य शयनं पश्चात् स्मरेन्मन्त्रेश्वरं हृदि \।\।
@@ -28941,8 +22875,6 @@ MS.
 पौ. सं.
 
 ३८.२९० \।\।
-
-
 
 क्षपयित्वा निशांशं तु उत्थाय शयनात् ततः \।
 
@@ -28952,8 +22884,6 @@ MS.
 
 ३८.२९१ \।\।
 
-
-
 तल्पम् आसाद्य वै भूयः प्रबुद्धः कमलोद्भव \।
 
 उत्थाय शयनं त्यक्त्वा ततः पूर्वोक्तम् आचरेत् \।\।
@@ -28961,8 +22891,6 @@ MS.
 पौ. सं.
 
 ३८.२९२ \।\।
-
-
 
 कालभेदम् इमं विद्धि शास्त्रभेदम् अथोच्यते \।
 
@@ -28972,8 +22900,6 @@ MS.
 
 ३८.२९३ \।\।
 
-
-
 क्रमागतैः स्वसंज्ञाभिब्राह्मणैर् आगमं तु तत् \।
 
 विद्धि सिद्धान्तसंज्ञं च तत्पूर्वम् अथ पौष्कर \।\।
@@ -28981,8 +22907,6 @@ MS.
 पौ. सं.
 
 ३८.२९४ \।\।
-
-
 
 नानाव्यूहसमेतं च मूर्तिद्वादशकं हि यत् \।
 
@@ -28992,8 +22916,6 @@ MS.
 
 ३८.२९५ \।\।
 
-
-
 प्रादुर्भावान्तरयुतं धृ (वृ) तं हृत्पद्मपूर्वकम् \।
 
 लक्ष्म्यादिशङ्खचक्राख्यगारुत्म्यसदिगीश्वरैः \।\।
@@ -29001,8 +22923,6 @@ MS.
 पौ. सं.
 
 ३८.२९६ \।\।
-
-
 
 सगणैर् अस्त्रनिष्ठैस्तु तं विद्धि कमलोद्भव \।
 
@@ -29012,8 +22932,6 @@ MS.
 
 ३८.२९७ \।\।
 
-
-
 विना मूर्तिचतुष्केण यत्रान्यद् उपचर्यते \।
 
 मन्त्रेण भगवद् रूपं केवलं यागसंयुतम् \।\।
@@ -29021,8 +22939,6 @@ MS.
 पौ. सं.
 
 ३८.२९८ \।\।
-
-
 
 युक्तं श्रियादिकेनैव कान्ताव्यूहेन पौष्कर \।
 
@@ -29032,8 +22948,6 @@ MS.
 
 ३८.२९९ \।\।
 
-
-
 तन्त्रसिद्धान्तसंज्ञं तच्छास्त्रं भोगापवर्गदम् \।
 
 मुख्यानुवृत्तिभेदेन यत्र सिंहादयस्तु वै \।\।
@@ -29041,8 +22955,6 @@ MS.
 पौ. सं.
 
 ३८.३०० \।\।
-
-
 
 चतुस्त्रिद्वयादिकेनैव योगेनाभ्यर्चिते तु वै (न तु) \।
 
@@ -29052,8 +22964,6 @@ MS.
 
 ३८.३०१ \।\।
 
-
-
 यच्छक्त्याराधितं सर्वं विद्धि तन्त्रान्तरं तु तत् \।
 
 एवं नानागमानां च सामान्यं विद्धि सर्वदा \।\।
@@ -29061,8 +22971,6 @@ MS.
 पौ. सं.
 
 ३८.३०२ \।\।
-
-
 
 नामद्वयं च सिद्धान्तं पञ्चरात्रेति पौष्कर \।
 
@@ -29072,8 +22980,6 @@ MS.
 
 ३८.३०३ \।\।
 
-
-
 नानाशयवशेनैव सिद्धाद्यैः प्रकटीकृतम् \।
 
 संक्षिप्तं सप्रपञ्चं च तृतीयम् उभयात्मकम् \।\।
@@ -29082,8 +22988,6 @@ MS.
 
 ३८.३०४ \।\।
 
-
-
 सेतिहासपुराणैस्तु वेदैर् वेदान्तसंयुतैः \।
 
 ये जन्मकोटिभिः सिद्धास्तेषाम् अन्तो ऽत्र वै स्मृतः \।\।
@@ -29091,8 +22995,6 @@ MS.
 पौ. सं.
 
 ३८.३०५ \।\।
-
-
 
 (
 
@@ -29104,8 +23006,6 @@ MS.
 
 ३८.३०६ \।\।
 
-
-
 सिद्धान्तसंज्ञा विप्रास्य सार्थका अत एव हि \।
 
 पुराणं वेदवेदान्तं तथान्यत्साङ्ख्ययोगजम् \।\।
@@ -29113,8 +23013,6 @@ MS.
 पौ. सं.
 
 ३८.३०७ \।\।
-
-
 
 पञ्चप्रकारं विज्ञेयं यत्र रात्र्यायते ऽब्जज \।
 
@@ -29124,8 +23022,6 @@ MS.
 
 ३८.३०८ \।\।
 
-
-
 सदागमाख्यं मूलं तु परब्रह्मप्रकाशकम् \।
 
 दिव्यसिद्धिप्रदं चैव शान्तिकृद् विघ्नकर्मणाम् \।\।
@@ -29134,37 +23030,17 @@ MS.
 
 ३८.३०९ \।\।
 
-
-
 इति श्रीपाञ्चरात्रे महोपनिषदि पौष्करसंहितायां अधिकारनिरूपणं नाम अष्टात्रिंशो ऽध्यायः \।\।
-
-
 
 (
 
 समुदितश्लोकसंख्या ३१३)
 
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-
 
 अथ एकोनचत्वारिंशो ऽध्यायः
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 प्रमाणम् आगमानां च ससंज्ञं परमेश्वर \।
 
@@ -29174,13 +23050,7 @@ MS.
 
 ३९.१ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 संक्षिप्तं त्रिप्रकारं च कनीयोमध्यमोत्तमम् \।
 
@@ -29190,8 +23060,6 @@ MS.
 
 ३९.२ \।\।
 
-
-
 पादसंज्ञं हि तच्छास्त्रं मूलाख्यं द्विगुणं च तत् \।
 
 यत् सार्धं शतसंख्यं तु तदुद्धारम् इति स्मृतम् \।\।
@@ -29199,8 +23067,6 @@ MS.
 पौ. सं.
 
 ३९.३ \।\।
-
-
 
 न्यूनभेदास्त्रयस्त्वेते ऊनाधिक्येन वै सह \।
 
@@ -29210,8 +23076,6 @@ MS.
 
 ३९.४ \।\।
 
-
-
 सार्धं शतद्वयं यद् वै परिज्ञेयं तदुत्तरम् \।
 
 बृहदुत्तरसंज्ञं च यद् एतद् द्विगुणं भवेत् \।\।
@@ -29219,8 +23083,6 @@ MS.
 पौ. सं.
 
 ३९.५ \।\।
-
-
 
 सार्धं सहस्रसंख्यं तु कल्पं तत् समुदाहृतम् \।
 
@@ -29230,8 +23092,6 @@ MS.
 
 ३९.६ \।\।
 
-
-
 एवं संज्ञान्तरास्त्वन्ये आगमाः सन्त्यनेकशः \।
 
 कल्पैकदेशास्ते सर्वे परिज्ञेयास्तथाब्जज \।\।
@@ -29239,8 +23099,6 @@ MS.
 पौ. सं.
 
 ३९.७ \।\।
-
-
 
 आ सहस्रत्रयात् सार्धात् षट्सहस्त्रं हि सोत्तरम् \।
 
@@ -29250,8 +23108,6 @@ MS.
 
 ३९.८ \।\।
 
-
-
 ये चान्ये चान्तरालं वै शास्त्रार्थेनाधिकैः शतैः \।
 
 सर्वेषां संहितासंज्ञा बोद्धव्या कमलोद्भव \।\।
@@ -29259,8 +23115,6 @@ MS.
 पौ. सं.
 
 ३९.९ \।\।
-
-
 
 सपादलक्षपर्यन्ता ये च शास्त्राण्यतोर्ध्वतः \।
 
@@ -29270,8 +23124,6 @@ MS.
 
 ३९.१० \।\।
 
-
-
 कल्पस्कन्धात् तु ते सर्वे परिज्ञेयाः क्रमेण तु \।
 
 लक्षाधिकैस्तु बहुभिः सहस्रैस्तु शतान्वितैः \।\।
@@ -29279,8 +23131,6 @@ MS.
 पौ. सं.
 
 ३९.११ \।\।
-
-
 
 सार्धकोटित्रयान्तं च तच्च तन्त्राख्यम् आगमम् \।
 
@@ -29290,8 +23140,6 @@ MS.
 
 ३९.१२ \।\।
 
-
-
 यत्रान्तरालसंख्यानाम् असंख्येयं प्रवर्तते \।
 
 युगानुसारबोधेन त्रैगुण्यवलितेन च \।\।
@@ -29299,8 +23147,6 @@ MS.
 पौ. सं.
 
 ३९.१३ \।\।
-
-
 
 दिव्याद्यवान्तरान्तेन संबन्धेन च भूरिणा \।
 
@@ -29310,8 +23156,6 @@ MS.
 
 ३९.१४ \।\।
 
-
-
 कालेन सह निर्यान्तम् असंख्यं परमेश्वरात् \।
 
 तद् वै विदितवेद्यानां सिद्धानां संस्थितं हृदि \।\।
@@ -29319,8 +23163,6 @@ MS.
 पौ. सं.
 
 ३९.१५ \।\।
-
-
 
 यैः स्वबोधप्रमाणेन कोटिसंख्यं प्रकाशितम् \।
 
@@ -29330,8 +23172,6 @@ MS.
 
 ३९.१६ \।\।
 
-
-
 यत्र यत्रेच्छया जातं मतभेदेन वै सह \।
 
 क्रियान्तराश्च बहवः शुद्धा राजस-तामसाः \।\।
@@ -29339,8 +23179,6 @@ MS.
 पौ. सं.
 
 ३९.१७ \।\।
-
-
 
 आद्यं सर्वागमानां च पारमेश्वरम् आगमम् \।
 
@@ -29350,8 +23188,6 @@ MS.
 
 ३९.१८ \।\।
 
-
-
 सिद्धान्ते भगवत् तत्त्ववेदिनः परमार्थतः \।
 
 क्रमागतश्च तैः प्राप्तं मुक्तये भविनां तु वै \।\।
@@ -29360,13 +23196,7 @@ MS.
 
 ३९.१९ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 विभोः सर्वेश्वराद्येन स्वीकृतं पारमेश्वरम् \।
 
@@ -29376,13 +23206,7 @@ MS.
 
 ३९.२० \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 सर्वेश्वरस्य च विभोर् अव्ययस्याच्युतस्य च \।
 
@@ -29392,8 +23216,6 @@ MS.
 
 ३९.२१ \।\।
 
-
-
 अपृथग्लक्षणं विद्धि स्वस्य शब्दं यथा द्विज \।
 
 ज्ञानात्मसंज्ञम् आत्मानं नीतं वै स्वेच्छया द्विज \।\।
@@ -29401,8 +23223,6 @@ MS.
 पौ. सं.
 
 ३९.२२ \।\।
-
-
 
 स्वभावमाप्तकामस्य तस्यैतत् स्ववशस्य च \।
 
@@ -29412,8 +23232,6 @@ MS.
 
 ३९.२३ \।\।
 
-
-
 गृहीतस्वयम् आत्मानम् अतीन्द्रियम् अनश्वरम् \।
 
 शब्दमूर्तिः स भगवान् स्वेच्छया स्वयमेत्य च \।\।
@@ -29421,8 +23239,6 @@ MS.
 पौ. सं.
 
 ३९.२४ \।\।
-
-
 
 विश्रान्तं ज्ञानमूर्तौ तु स च संकर्षणो विभुः \।
 
@@ -29432,8 +23248,6 @@ MS.
 
 ३९.२५ \।\।
 
-
-
 गुणं शक्तिमयं यस्य प्रकाशाख्यं तु विग्रहम् \।
 
 आभिमानिकम् अक्षोभ्यं प्रद्युम्नाख्यं तु शाश्वतम् \।\।
@@ -29441,8 +23255,6 @@ MS.
 पौ. सं.
 
 ३९.२६ \।\।
-
-
 
 महता तेन भूतेन शास्त्रं विद्युत्प्रभोज्वलम् \।
 
@@ -29452,8 +23264,6 @@ MS.
 
 ३९.२७ \।\।
 
-
-
 अथ वीर्यात्मना विप्र प्रसरं तैजसं महत् \।
 
 जनितं चानिरुद्धेति धत्ते यो ऽनश्वरं वपुः \।\।
@@ -29461,8 +23271,6 @@ MS.
 पौ. सं.
 
 ३९.२८ \।\।
-
-
 
 गुणशक्तिगुणोपेतम् अपराजितम् अक्षयम् \।
 
@@ -29472,8 +23280,6 @@ MS.
 
 ३९.२९ \।\।
 
-
-
 आदाय विधृतं तद् वै अनिरुद्धात्मना हृदि \।
 
 गुणव्यक्तिमयं देवं वागीशम् असृजत् प्रभुः \।\।
@@ -29481,8 +23287,6 @@ MS.
 पौ. सं.
 
 ३९.३० \।\।
-
-
 
 अनिरुद्धो ऽव्ययात्मा च अर्थयुग्मं तदागमम् \।
 
@@ -29492,8 +23296,6 @@ MS.
 
 ३९.३१ \।\।
 
-
-
 यदंशाद् विदितं तद् वै ज्ञानमूर्ते स्वविग्रहे \।
 
 अव्ययीकृतमाद्ये तु स्वरूपं ज्ञानमूर्तिना \।\।
@@ -29501,8 +23303,6 @@ MS.
 पौ. सं.
 
 ३९.३२ \।\।
-
-
 
 नीतं समरसत्वं च प्रतिशास्त्रे प्रकाशिते \।
 
@@ -29512,8 +23312,6 @@ MS.
 
 ३९.३३ \।\।
 
-
-
 सम्यक् समुच्चयीकृत्य नवनीतं यथो(था)दधेः \।
 
 विभोर्विद्याधिदेवस्य ब्रह्मणो ऽस्य प्रकाशितम् \।\।
@@ -29521,8 +23319,6 @@ MS.
 पौ. सं.
 
 ३९.३४ \।\।
-
-
 
 रुद्रादित्येन्द्रपूर्वाणां देवानां चोदितैर्द्विज \।
 
@@ -29532,8 +23328,6 @@ MS.
 
 ३९.३५ \।\।
 
-
-
 ब्रह्मणा नारदादीनां स्वसुतानां प्रकाशितम् \।
 
 तेभ्यो लोकत्रयान्तस्थऋषीणां भावितात्मनाम् \।\।
@@ -29541,8 +23335,6 @@ MS.
 पौ. सं.
 
 ३९.३६ \।\।
-
-
 
 स्वाभिप्रायवशेनैव नानाकालवशाद् अपि \।
 
@@ -29552,8 +23344,6 @@ MS.
 
 ३९.३७ \।\।
 
-
-
 इत्येतत् शास्त्रसंबन्धं कथितं ते यथास्थितम् \।
 
 सरहस्यं महाबुद्धे बोद्धव्यं हि यथार्थतः \।\।
@@ -29562,37 +23352,17 @@ MS.
 
 ३९.३८ \।\।
 
-
-
 इति श्रीपाञ्चरात्रे महोपनिषदि पौष्करसंहितायां आगमनिर्णयो नाम एकोनचत्वारिंशो ऽध्यायः \।\।
-
-
 
 (
 
 समुदित श्लोकसंख्या ३८)
 
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-
 
 अथ चत्वारिंशो ऽध्यायः
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 परिज्ञातं मया देव दोषोपशमनं महत् \।
 
@@ -29602,8 +23372,6 @@ MS.
 
 ४०.१ \।\।
 
-
-
 शास्त्रसंबन्धपर्यन्तं प्रसङ्गात् त्वदनुग्रहात् \।
 
 नानाधर्मप्रतिष्ठा च भविनां स्वर्गदा च या \।\।
@@ -29611,8 +23379,6 @@ MS.
 पौ. सं.
 
 ४०.२ \।\।
-
-
 
 इदानीं ज्ञातुम् इच्छामि त्वत्तः संक्षेपतस्ततः \।
 
@@ -29622,8 +23388,6 @@ MS.
 
 ४०.३ \।\।
 
-
-
 संविधानं प्रतिष्ठाख्यम् अशेषं पूर्वचोदितम् \।
 
 क्षतदोषास्तु येर्ऽचानां मधूच्छिष्टोदिताः क्रियाः \।\।
@@ -29631,8 +23395,6 @@ MS.
 पौ. सं.
 
 ४०.४ \।\।
-
-
 
 तास्त्वयोक्ताः पुरा देव मानोन्मानादिकैर्विना \।
 
@@ -29642,17 +23404,9 @@ MS.
 
 ४०.५ \।\।
 
-
-
 मया यथावन्न ज्ञातं नैपुण्येन जगत्पते \।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 नानाधर्मप्रतिष्ठानं पुरा कृत्वा तु पौष्कर \।
 
@@ -29662,8 +23416,6 @@ MS.
 
 ४०.६ \।\।
 
-
-
 सुलक्षणे तु भूभागे गव्यैर् भक्तेन वै पुरा \।
 
 प्राग्दिक्सिद्धिसमेतं तु वसुधालक्षणं च ते \।\।
@@ -29671,8 +23423,6 @@ MS.
 पौ. सं.
 
 ४०.७ \।\।
-
-
 
 स्फुटम् उक्तं प्रतिष्ठार्थं विज्ञातव्यं तद् एव हि \।
 
@@ -29682,8 +23432,6 @@ MS.
 
 ४०.८ \।\।
 
-
-
 वनौघवनसंयुक्तैर् ग्रामैः सह पुरादिकैः \।
 
 प्रतिग्रहं प्रतिष्ठार्थं पूर्ववद् विधिपूर्वकम् \।\।
@@ -29691,8 +23439,6 @@ MS.
 पौ. सं.
 
 ४०.९ \।\।
-
-
 
 संपाद्य कुसुमारामपर्यन्तं च सुविस्तरम् \।
 
@@ -29702,8 +23448,6 @@ MS.
 
 ४०.१० \।\।
 
-
-
 होराद्येन च लग्नेन मुहूर्तेनार्चितेन च \।
 
 शकुने गागने भौमे चित्तसौख्यप्रदे शुभे \।\।
@@ -29712,8 +23456,6 @@ MS.
 
 ४०.११ \।\।
 
-
-
 किञ्चिद् अध्वावशिष्टे तु वस्तव्यं च वनाद् बहिः \।
 
 शुभे ग्रहे ऽनुकूले च नक्षत्रे वासरे ऽपि च \।\।
@@ -29721,8 +23463,6 @@ MS.
 पौ. सं.
 
 ४०.१२ \।\।
-
-
 
 कुर्याद् वनप्रवेशं च तत्रेष्टा वनदेवताः \।
 
@@ -29740,8 +23480,6 @@ MS.
 
 ४०.१४ \।\।
 
-
-
 फलं (ल) पुष्पप्रदं स्थूलं सक्षीरं वा तदुज्झितम् \।
 
 नानाजाति च कर्मण्यं यज्ञाङ्गानां गुणावहम् \।\।
@@ -29749,8 +23487,6 @@ MS.
 पौ. सं.
 
 ४०.१५ \।\।
-
-
 
 सत्त्वाद्यं तद् अधिष्ठातृबलिदानपुरःसरम् \।
 
@@ -29760,8 +23496,6 @@ MS.
 
 ४०.१६ \।\।
 
-
-
 शस्त्रेण प्रहरं दद्याच्छेतव्यं शिल्पिना ततः \।
 
 चन्दनं स्यन्दनं तत्र तथा सुरभिचन्दनम् \।\।
@@ -29769,8 +23503,6 @@ MS.
 पौ. सं.
 
 ४०.१७ \।\।
-
-
 
 अगरु कर्णिकारं च काश्मर्यं रक्तचन्दनम् \।
 
@@ -29780,8 +23512,6 @@ MS.
 
 ४०.१८ \।\।
 
-
-
 श्रीपर्णी नालिकेरं च नागमातृकपीनकम् \।
 
 गव्यं कपित्थं च तथा हिम-तालतमालकम् \।\।
@@ -29789,8 +23519,6 @@ MS.
 पौ. सं.
 
 ४०.१९ \।\।
-
-
 
 बदरं खदिरं फल्गु मधूकं किंशुकद्रुमम् \।
 
@@ -29800,8 +23528,6 @@ MS.
 
 ४०.२० \।\।
 
-
-
 पिप्पलं वृक्षम् अश्वत्थं पिप्पलीविटपं महत् \।
 
 सुरदारु हरीतक्यं बकुलं चाप्युदुम्बरम् \।\।
@@ -29809,8 +23535,6 @@ MS.
 पौ. सं.
 
 ४०.२१ \।\।
-
-
 
 कालाख्यं पुष्पकूलं च वैरं चान्यत् फलद्रुमम् \।
 
@@ -29820,8 +23544,6 @@ MS.
 
 ४०.२२ \।\।
 
-
-
 तिन्दुकं बीजसारं च मातुलुङ्गद्रुमं महत् \।
 
 राजवृक्षं कोहितकं सुनाभिकुटकार्जुनम् \।\।
@@ -29829,8 +23551,6 @@ MS.
 पौ. सं.
 
 ४०.२३ \।\।
-
-
 
 सरलं कुटजः शाकः शमीश्रीवेष्टकेतकाः \।
 
@@ -29840,8 +23560,6 @@ MS.
 
 ४०.२४ \।\।
 
-
-
 सारवन्तो मखीया ये सुसिद्धा लोकपूजिताः \।
 
 ग्राह्यास्तरूत्तमाः सर्वे कर्मणि स्थापनादिके \।\।
@@ -29849,8 +23567,6 @@ MS.
 पौ. सं.
 
 ४०.२५ \।\।
-
-
 
 एकैकतालवृद्ध्या तु द्वादशान्तकरावधि \।
 
@@ -29860,8 +23576,6 @@ MS.
 
 ४०.२६ \।\।
 
-
-
 प्रयोजनवशेनैव तरवो बिम्बकर्मणि \।
 
 विहिताः क्रमशस्त्वेते स्वल्पानाम् आदिनां महत् \।\।
@@ -29869,8 +23583,6 @@ MS.
 पौ. सं.
 
 ४०.२७ \।\।
-
-
 
 केचित् फलवशेनैव विहिताश्च फलार्थिनाम् \।
 
@@ -29880,8 +23592,6 @@ MS.
 
 ४०.२८ \।\।
 
-
-
 एतैः पूर्वोदिताः कार्याः सप्ताङ्गैस्तोरणाः शुभाः \।
 
 अग्निकार्योपयोग्यानि स्रुवादीन्युदितानि वै \।\।
@@ -29889,8 +23599,6 @@ MS.
 पौ. सं.
 
 ४०.२९ \।\।
-
-
 
 अग्नाविन्धनकाष्ठानि समित्परिधयस्तथा \।
 
@@ -29900,8 +23608,6 @@ MS.
 
 ४०.३० \।\।
 
-
-
 मन्त्रबिम्बान्यशेषाणि तत्पीठानि तथैव च \।
 
 प्रासादादीनि चित्राणि प्राकारसहितानि च \।\।
@@ -29909,8 +23615,6 @@ MS.
 पौ. सं.
 
 ४०.३१ \।\।
-
-
 
 शयनान्यासनादीनि देवोपकरणानि च \।
 
@@ -29920,8 +23624,6 @@ MS.
 
 ४०.३२ \।\।
 
-
-
 केतुदण्डानि दीर्घाणि शिखराणां शिरोपरि \।
 
 आहरेत यथाशास्त्रं छायाशुष्ककृतानि च \।\।
@@ -29929,8 +23631,6 @@ MS.
 पौ. सं.
 
 ४०.३३ \।\।
-
-
 
 भङ्गभेदक्रिमिच्छिद्रसिंहऋक्षनखक्षतैः \।
 
@@ -29940,13 +23640,7 @@ MS.
 
 ४०.३४ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 भगवन् भद्रपीठानां प्रतिमानां च लक्षणम् \।
 
@@ -29956,8 +23650,6 @@ MS.
 
 ४०.३५ \।\।
 
-
-
 यथावद् ज्ञातुम् इच्छामि रथादीनां च संस्थितिम् \।
 
 प्रमाणं ध्वजदण्डानां मण्डपान् मण्डयन्ति ये \।\।
@@ -29966,13 +23658,7 @@ MS.
 
 ४०.३६ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 स्वानुकूलदिने शुद्धे गुरूणां संमतेन च \।
 
@@ -29982,8 +23668,6 @@ MS.
 
 ४०.३७ \।\।
 
-
-
 सुनिवेशेन सह वै सर्वम् आपादयेत् ततः \।
 
 यान्युक्तानि पुरा ब्रह्मन् व्यक्तिस्थानानि वै विभोः \।\।
@@ -29991,8 +23675,6 @@ MS.
 पौ. सं.
 
 ४०.३८ \।\।
-
-
 
 द्वयं तेभ्यः शुभतरं भद्रपीठम् अकृत्रिमम् \।
 
@@ -30002,8 +23684,6 @@ MS.
 
 ४०.३९ \।\।
 
-
-
 तत्र तावत् सुवर्णाद्यैर् लोहैः शुभतरैः स्मृतः \।
 
 शुभा भगवदाकाराः शैलजाः समनन्तरम् \।\।
@@ -30011,8 +23691,6 @@ MS.
 पौ. सं.
 
 ४०.४० \।\।
-
-
 
 काष्ठं लेपं तथालेख्यम् इष्टं भूतिव्यपेक्षया \।
 
@@ -30022,8 +23700,6 @@ MS.
 
 ४०.४१ \।\।
 
-
-
 सेवापराणां आप्तानां भूतये ऽमरयाजिनाम् \।
 
 मखहोमपराणां तु दिवि देवासनाप्तये \।\।
@@ -30031,8 +23707,6 @@ MS.
 पौ. सं.
 
 ४०.४२ \।\।
-
-
 
 यतीनां मुक्तसङ्गानां हृदि सर्वेश्वरे हरौ \।
 
@@ -30044,8 +23718,6 @@ MS.
 
 ४०.४३ \।\।
 
-
-
 चित्तप्रसादम् अतुलं यत्राभ्येति समर्चनात् \।
 
 यत्नेन च समापाद्य मन्त्रैः संस्कृत्य वैदिकैः \।\।
@@ -30053,8 +23725,6 @@ MS.
 पौ. सं.
 
 ४०.४४ \।\।
-
-
 
 मृद्भूतितीर्थतोयाद्यैर् मूलद्रव्यैः सुपावनैः \।
 
@@ -30064,8 +23734,6 @@ MS.
 
 ४०.४५ \।\।
 
-
-
 स्वदेहवद् उपादेयैर् नाडीव्यूहैः सवायवैः \।
 
 धातुभिः सोमसूर्याग्निसहज्ञानादिकैर्गुणैः \।\।
@@ -30073,8 +23741,6 @@ MS.
 पौ. सं.
 
 ४०.४६ \।\।
-
-
 
 गुणकारणतः क्ष्मान्तं यद् अन्यत्तत्त्वसंग्रहम् \।
 
@@ -30084,8 +23750,6 @@ MS.
 
 ४०.४७ \।\।
 
-
-
 तत्र हृत्कमलाकाशे मन्त्ररत्नप्रभोज्ज्वलम् \।
 
 ब्रह्मभावनया न्यस्तं यच्छति प्रातिमं फलम् \।\।
@@ -30093,8 +23757,6 @@ MS.
 पौ. सं.
 
 ४०.४८ \।\।
-
-
 
 श्रद्धापराणां कर्तॄणां फलताभ्येति च स्थिरम् \।
 
@@ -30104,8 +23766,6 @@ MS.
 
 ४०.४९ \।\।
 
-
-
 प्राप्नोति सद्वशाद् अन्ते ज्ञानम् आत्मप्रकाशकम् \।
 
 प्रतिमानाम् अतो मानं सांप्रतं चावधारय \।\।
@@ -30113,8 +23773,6 @@ MS.
 पौ. सं.
 
 ४०.५० \।\।
-
-
 
 तालप्रमाणाद् एकैकं ह्रासयेत् अङ्गुलं क्रमात् \।
 
@@ -30124,8 +23782,6 @@ MS.
 
 ४०.५१ \।\।
 
-
-
 एकैकं वर्धयेद् विप्र शमपर्यन्तम् अङ्गुलम् \।
 
 तालद्वयोन्नतिं यावच्चलार्चानाम् अतोर्ध्वतः \।\।
@@ -30133,8 +23789,6 @@ MS.
 पौ. सं.
 
 ४०.५२ \।\।
-
-
 
 अचलानां द्विजार्चानां व्द्यङ्गुलं व्द्यङ्गुलं क्रमात् \।
 
@@ -30144,8 +23798,6 @@ MS.
 
 ४०.५३ \।\।
 
-
-
 एकैकं तालवृद्धया तु द्वादशान्तकरावधि \।
 
 वर्धयेद् अत ऊर्ध्वं तु सपादं तालमेव च \।\।
@@ -30153,8 +23805,6 @@ MS.
 पौ. सं.
 
 ४०.५४ \।\।
-
-
 
 आधिक्येन द्विजार्चानां जायते ऽन्यच्चतुष्टयम् \।
 
@@ -30164,8 +23814,6 @@ MS.
 
 ४०.५५ \।\।
 
-
-
 तृतीयांशं तृतीयांशात् प्रतिमात्रितयस्य च \।
 
 भूयस्तदुन्नतेर् दद्यात् तालार्धं तालम् एव वा \।\।
@@ -30173,8 +23821,6 @@ MS.
 पौ. सं.
 
 ४०.५६ \।\।
-
-
 
 द्वितीयप्रतिमानां तु उच्छ्रायेण वरं भवेत् \।
 
@@ -30184,8 +23830,6 @@ MS.
 
 ४०.५७ \।\।
 
-
-
 एकैवार्चा भवेद् अन्या वर्धयेद् अत ऊर्ध्वतः \।
 
 क्रमाच्छतावधिं यावत् सांशात् तालाद्विजोत्तम \।\।
@@ -30193,8 +23837,6 @@ MS.
 पौ. सं.
 
 ४०.५८ \।\।
-
-
 
 यथाभिमत उच्छ्रायसिद्धये ऽभिमताप्तये \।
 
@@ -30204,8 +23846,6 @@ MS.
 
 ४०.५९ \।\।
 
-
-
 प्रयोजनवशाच्चापि महत्त्वं बिम्बकर्मणि \।
 
 विहितं क्रमशश्चैव स्वस्वमानादिना सह \।\।
@@ -30213,8 +23853,6 @@ MS.
 पौ. सं.
 
 ४०.६० \।\।
-
-
 
 तथा फलवशाच्चैव विज्ञेयं हि फलार्थिना \।
 
@@ -30224,8 +23862,6 @@ MS.
 
 ४०.६१ \।\।
 
-
-
 मानतो बहुधा प्रोक्तम् इत्येवं प्रतिमागणम् \।
 
 धातुमृच्छैलदारूत्थं यथासंपत्तितो द्विज \।\।
@@ -30233,8 +23869,6 @@ MS.
 पौ. सं.
 
 ४०.६२ \।\।
-
-
 
 अधिरुध्य स्ववृक्षोत्थभिन्नैर् अवयवस्थितिः \।
 
@@ -30244,8 +23878,6 @@ MS.
 
 ४०.६३ \।\।
 
-
-
 भिन्नैः स्नाय्वस्थिमांसाद्यैर्जीवानां विग्रहं यथा \।
 
 मन्त्राणाम् एवम् अब्जोत्थ व्यक्तिर्धात्वादिकी स्मृता \।\।
@@ -30253,8 +23885,6 @@ MS.
 पौ. सं.
 
 ४०.६४ \।\।
-
-
 
 अप्रबुद्धैः प्रबुद्धैर्या चतुर्वर्गफलाप्तये \।
 
@@ -30264,8 +23894,6 @@ MS.
 
 ४०.६५ \।\।
 
-
-
 चित्रशैलमयीं मुक्त्वा प्रतिमां महतीं च याम् \।
 
 मृद्धातुदारुजं विप्र घटते कथम् अन्यथा \।\।
@@ -30273,8 +23901,6 @@ MS.
 पौ. सं.
 
 ४०.६६ \।\।
-
-
 
 प्रमाणपरिशुद्धैस्तु भिन्नैर् अवयवैर् विना \।
 
@@ -30284,8 +23910,6 @@ MS.
 
 ४०.६७ \।\।
 
-
-
 भक्तिश्रद्धापराणां च पूजार्थं हि चलाचलम् \।
 
 तत्रायतनतीर्थानां यात्रायां गमने चला \।\।
@@ -30293,8 +23917,6 @@ MS.
 पौ. सं.
 
 ४०.६८ \।\।
-
-
 
 प्रतिमाप्रयतानां च दद्याद् दोषदिकं विना \।
 
@@ -30304,8 +23926,6 @@ MS.
 
 ४०.६९ \।\।
 
-
-
 अतो भिन्नासनारूढा स्वाश्रमे स्वाश्रमान्तरे \।
 
 तस्माच्चलानाम् अर्चानां भिन्नं पीठं शुभप्रदम् \।\।
@@ -30313,8 +23933,6 @@ MS.
 पौ. सं.
 
 ४०.७० \।\।
-
-
 
 चलस्थिरविभागेन विहितं सर्वम् एव हि \।
 
@@ -30324,8 +23942,6 @@ MS.
 
 ४०.७१ \।\।
 
-
-
 इदानीं सविशेषेण वक्ष्ये भङ्गासनात्तु वै \।
 
 सांप्रतं भद्रपीठानां दारुजानां च लक्षणम् \।\।
@@ -30333,8 +23949,6 @@ MS.
 पौ. सं.
 
 ४०.७२ \।\।
-
-
 
 व्यापकं हि यद् अन्येषां शैलहेमादिकात्मनाम् \।
 
@@ -30344,8 +23958,6 @@ MS.
 
 ४०.७३ \।\।
 
-
-
 कुर्याद् अङ्गुलवृद्ध्या तु भद्रपीठगणं शुभम् \।
 
 त्रिविधैर् अङ्गुलैः प्राग्वद् यथाभिमतलक्षणैः \।\।
@@ -30353,8 +23965,6 @@ MS.
 पौ. सं.
 
 ४०.७४ \।\।
-
-
 
 द्विदशाङ्गुलपर्यन्ताः सर्वे संक्षिप्तलक्षणाः \।
 
@@ -30364,8 +23974,6 @@ MS.
 
 ४०.७५ \।\।
 
-
-
 अत ऊर्ध्वं द्विहस्तान्ता मानतो वितताः स्मृताः \।
 
 आद्यार्चा क्रमशो विद्धि प्राधान्यं चोत्तरोत्तरम् \।\।
@@ -30373,8 +23981,6 @@ MS.
 पौ. सं.
 
 ४०.७६ \।\।
-
-
 
 फलाधिक्येन सह वै अर्घ्यपुष्पादिनार्चनात् \।
 
@@ -30384,8 +23990,6 @@ MS.
 
 ४०.७७ \।\।
 
-
-
 एकपादाम्बरस्था ये बोद्धव्याः पार्थिवैर्विना \।
 
 प्रनालरहितास्ते वै पादगात्रविभूषिताः \।\।
@@ -30393,8 +23997,6 @@ MS.
 पौ. सं.
 
 ४०.७८ \।\।
-
-
 
 दर्पणोदरवत् कार्याः परिशिष्टा महामते \।
 
@@ -30404,8 +24006,6 @@ MS.
 
 ४०.७९ \।\।
 
-
-
 कर्णिकाविततोपेतैः कर्णिकाकमलच्छदैः \।
 
 हंसैर्विद्याधरैश्चापि संयुक्तैर् अन्तरान्तरा \।\।
@@ -30413,8 +24013,6 @@ MS.
 पौ. सं.
 
 ४०.८० \।\।
-
-
 
 यथा शोभानुरूपेण एवं संपाद्य सांप्रतम् \।
 
@@ -30424,8 +24022,6 @@ MS.
 
 ४०.८१ \।\।
 
-
-
 तदाराध्यस्य वै कुर्याद् उत्तरेण तु सर्वदा \।
 
 स्वात्मनो दक्षिणे भागे तल्लक्षणम् अथोच्यते \।\।
@@ -30433,8 +24029,6 @@ MS.
 पौ. सं.
 
 ४०.८२ \।\।
-
-
 
 विस्तृते भद्रपीठस्य तृतीयांशेन मध्यतः \।
 
@@ -30444,8 +24038,6 @@ MS.
 
 ४०.८३ \।\।
 
-
-
 प्रोल्लसन्तं यथा भाति स्नानाभं (म्भः) निखनेत् ततः \।
 
 समांशेनाग्रतो भागैर्विभज्य सुसमैस्त्रिभिः \।\।
@@ -30454,8 +24046,6 @@ MS.
 
 ४०.८४ \।\।
 
-
-
 मूलतः कण्ठदेशाद् द्वौ भागौ बाह्याद् विशोध्य च \।
 
 त्रिधाग्रं मूलतः कृत्वा मध्यमं व्रजनिर्गतम् \।\।
@@ -30463,8 +24053,6 @@ MS.
 पौ. सं.
 
 ४०.८५ \।\।
-
-
 
 जलोपभोगकान्तो ऽपि विद्धि भागद्वयोपरि \।
 
@@ -30476,8 +24064,6 @@ MS.
 
 ४०.८६ \।\।
 
-
-
 मकराननरूपा सा त्याज्या कापिललक्षणा \।
 
 तृतीयांशेन विस्ताराद् भूगतः साङ्घ्रिसन्ततिः \।\।
@@ -30485,8 +24071,6 @@ MS.
 पौ. सं.
 
 ४०.८७ \।\।
-
-
 
 समुद्गता न वै कुर्याद् बाहुल्यरचनान्विता \।
 
@@ -30496,8 +24080,6 @@ MS.
 
 ४०.८८ \।\।
 
-
-
 भूषयेद् गात्रदेशेभ्यः पुष्पैः पत्रैस्तु साङ्कुरैः \।
 
 भवेच्छशिकलाकारलाञ्छनैः स्वधियाथवा \।\।
@@ -30505,8 +24087,6 @@ MS.
 पौ. सं.
 
 ४०.८७ \।\।
-
-
 
 कुर्यात् तदुत्तरे पद्मं सचक्रं केवलं तु वा \।
 
@@ -30516,8 +24096,6 @@ MS.
 
 ४०.९० \।\।
 
-
-
 तदाननं तथेशान्ये भागान्तेन सुसंयुतम् \।
 
 विधेयं च तथाभोगं दक्षिणावर्तलक्षणम् \।\।
@@ -30525,8 +24103,6 @@ MS.
 पौ. सं.
 
 ४०.९१ \।\।
-
-
 
 संनिवेशम (न) तःस्वाङ्गं गात्र\[मध्यान्तटगैः सह \।
 
@@ -30536,8 +24112,6 @@ MS.
 
 ४०.९२ \।\।
 
-
-
 अर्धेनार्ध्याच्च पीठात् तु विस्तीर्णं पृष्ठदेशतः \।
 
 विधेयं चतुरश्रं तु सुवृत्तं वामभागतः \।\।
@@ -30545,8 +24119,6 @@ MS.
 पौ. सं.
 
 ४०.९३ \।\।
-
-
 
 बाहुल्यवन्तं बाहुल्यात् तस्मिं\[श्चैव\] शिरो न्यसेत् \।
 
@@ -30556,8 +24128,6 @@ MS.
 
 ४०.९४ \।\।
 
-
-
 अष्टाश्रम् अथवा रम्यरचनारचितं तु वा \।
 
 बाहुल्यात् त्रिगुणाद् दीर्घं विहितं स्तम्भवेष्टनम् \।\।
@@ -30565,8 +24135,6 @@ MS.
 पौ. सं.
 
 ४०.९५ \।\।
-
-
 
 लतावितानपत्राढ्यैर् वनैर् उपवनैः सह \।
 
@@ -30576,8 +24144,6 @@ MS.
 
 ४०.९६ \।\।
 
-
-
 शङ्खचक्रगदापद्ममूर्तामूर्तैर्महामते \।
 
 साक्षसूत्रकरैर्वापि सिद्धेस्तु भगवन्मयैः \।\।
@@ -30585,8 +24151,6 @@ MS.
 पौ. सं.
 
 ४०.९७ \।\।
-
-
 
 इत्येषां रचनां कुर्याद् अपरां वाब्जसंभव \।
 
@@ -30596,8 +24160,6 @@ MS.
 
 ४०.९८ \।\।
 
-
-
 उपर्युपरि संमूढैः कर्मभिस्त्वेवमेव वा \।
 
 स्रग्दण्डवद् विधेयं वा नालं भद्रासनीयकम् \।\।
@@ -30605,8 +24167,6 @@ MS.
 पौ. सं.
 
 ४०.९९ \।\।
-
-
 
 पृष्ठदेशे तु यद् भक्तं वृत्ताद्यं परिकल्पितम् \।
 
@@ -30624,8 +24184,6 @@ MS.
 
 ४०.१०१ \।\।
 
-
-
 समत्वेनासनीयस्य विस्तारस्य महामते \।
 
 विस्तारं तस्य तेनैव सार्धेन विहितस्तु वै \।\।
@@ -30633,8 +24191,6 @@ MS.
 पौ. सं.
 
 ४०.१०२ \।\।
-
-
 
 माहेन्द्रमण्डलाकारं वृत्तं वा वसुधावने \।
 
@@ -30644,8 +24200,6 @@ MS.
 
 ४०.१०३ \।\।
 
-
-
 त्रिभागं समतुल्यं वा बुध्नदेशाच्च विस्तृतेः \।
 
 समापाद्यैव संस्कृत्य प्राग्वद् वै भवनान्वितम् \।\।
@@ -30653,8 +24207,6 @@ MS.
 पौ. सं.
 
 ४०.१०४ \।\।
-
-
 
 संनिधीकृत्य मन्त्रेशं मन्त्रं मोक्षाप्तये तु वै \।
 
@@ -30664,8 +24216,6 @@ MS.
 
 ४०.१०५ \।\।
 
-
-
 महता विभवेनैव साधकैः स्वगृहस्थितैः \।
 
 एते भेदास्य विहिता अष्टाश्राः कमलोद्भव \।\।
@@ -30673,8 +24223,6 @@ MS.
 पौ. सं.
 
 ४०.१०६ \।\।
-
-
 
 षडश्रा वर्तुलाश्चापि चतुरस्रा अथापि वा \।
 
@@ -30684,8 +24232,6 @@ MS.
 
 ४०.१०७ \।\।
 
-
-
 तदास्य सत्त्वसिद्ध्यर्थं सर्वदैवं महामते \।
 
 विभवानुगुणेनैव प्रोक्तमानात् तु साधितम् \।\।
@@ -30694,39 +24240,19 @@ MS.
 
 ४०.१०८ \।\।
 
-
-
 रचनासंनिवेशेन समभ्यूह्य समाप्य वै \।
 
 इति श्रीपाञ्चरात्रे महोपनिषदि पौष्करसंहितायां भद्रपीठलक्षणं नाम चत्वारिंशो ऽध्यायः \।\।
-
-
 
 (
 
 समुदितश्लोकसंख्या १०९)
 
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-
 
 अथ एकचत्वारिंशो ऽध्यायः
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 उक्तमार्गेण चोद्दिष्टं मान्त्रं संस्थापनं तु वै \।
 
@@ -30736,13 +24262,7 @@ MS.
 
 ४१.१ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 नृणाम् आराधकानां तु मन्त्रैकनिरतात्मनाम् \।
 
@@ -30752,8 +24272,6 @@ MS.
 
 ४१.२ \।\।
 
-
-
 अथ दार्वादिकानां तु धातूत्थानां समाहितः \।
 
 रचनासंनिवेशं च सस्तंभानां निबोधतु \।\।
@@ -30761,8 +24279,6 @@ MS.
 पौ. सं.
 
 ४१.३ \।\।
-
-
 
 तथा स्तंभविमुक्तानां भूभागाङ्घ्रिनिवेशिनाम् \।
 
@@ -30772,8 +24288,6 @@ MS.
 
 ४१.४ \।\।
 
-
-
 प्रणालं तत्समं दैर्घ्याद् विस्तृतेर्वार्धसंमितम् \।
 
 विभज्य सुसमैर् भागैर् अधमं बलवत्पुरा \।\।
@@ -30781,8 +24295,6 @@ MS.
 पौ. सं.
 
 ४१.५ \।\।
-
-
 
 स्वल्पा द्वादशसंख्यैस्तु मध्यमास्तु द्विसप्तकैः \।
 
@@ -30792,8 +24304,6 @@ MS.
 
 ४१.६ \।\।
 
-
-
 विधेयं षड्भिर् अंशैस्तु पीठं श्लक्ष्णं समं शुभम् \।
 
 सुवृत्तं चतुरश्रं वा स्वपद्मं केवलं त्वथ \।\।
@@ -30801,8 +24311,6 @@ MS.
 पौ. सं.
 
 ४१.७ \।\।
-
-
 
 चक्राम्बुरुहयुक्तं वा तदुच्छ्रायं विधीयते \।
 
@@ -30812,8 +24320,6 @@ MS.
 
 ४१.८ \।\।
 
-
-
 समं सचक्रपद्मस्य तयोः पूर्वोक्तलक्षणम् \।
 
 विहितं किन्तु विप्रेन्द्र चतुरश्रस्य कल्पयेत् \।\।
@@ -30821,8 +24327,6 @@ MS.
 पौ. सं.
 
 ४१.९ \।\।
-
-
 
 कोणेषु शङ्खनिर्माणं शङ्खाद्यं वा चतुष्टयम् \।
 
@@ -30832,8 +24336,6 @@ MS.
 
 ४१.१० \।\।
 
-
-
 चक्रपद्मवियुक्तस्य चतुराश्राश्रयस्य च \।
 
 यदुक्तं चक्रपद्माभ्याम् अर्धे तुङ्गत्वम् अब्जज \।\।
@@ -30841,8 +24343,6 @@ MS.
 पौ. सं.
 
 ४१.११ \।\।
-
-
 
 न केवलस्य विहितं मन्त्रास्पदस्य च \।
 
@@ -30852,8 +24352,6 @@ MS.
 
 ४१.१२ \।\।
 
-
-
 खातं भागं समं चैव सार्धं दैर्घ्याद् विधीयते \।
 
 जलाश्रयं तु परितः खाताद् भङ्गसमं बहिः \।\।
@@ -30861,8 +24359,6 @@ MS.
 पौ. सं.
 
 ४१.१३ \।\।
-
-
 
 सोपवीतं च विहितम् अन्तरेखाश्रयस्थिते \।
 
@@ -30872,8 +24368,6 @@ MS.
 
 ४१.१४ \।\।
 
-
-
 विहिता काष्ठवर्गाणां शैलजानाम् अपि द्विज \।
 
 भङ्गाद् विभक्तिभिर्भागैर्मात्रं यत्कल्पितं पुरा \।\।
@@ -30881,8 +24375,6 @@ MS.
 पौ. सं.
 
 ४१.१५ \।\।
-
-
 
 तन्मध्ये मुनिभिर्भागैः सर्वं पूर्वोक्तम् आचरेत् \।
 
@@ -30892,8 +24384,6 @@ MS.
 
 ४१.१६ \।\।
 
-
-
 जन्माश्रयं तु भागेन सार्धेन परितः स्मृतम् \।
 
 ततोर्ध्वम् उक्तमानं यत् तत्र तद् विहितं तु वै \।\।
@@ -30901,8 +24391,6 @@ MS.
 पौ. सं.
 
 ४१.१७ \।\।
-
-
 
 विभज्य तत् षोडशधा मध्ये भागाष्टकेन वै \।
 
@@ -30912,8 +24400,6 @@ MS.
 
 ४१.१८ \।\।
 
-
-
 परितो निखनेद् द्रोणीं ब्रह्मन् भागद्वयेन तु \।
 
 जलाश्रयं तु विहितं पादोनेन द्वयेन वा \।\।
@@ -30921,8 +24407,6 @@ MS.
 पौ. सं.
 
 ४१.१९ \।\।
-
-
 
 आपाद्य चक्रं प्रागुक्तं कमलाद्यं यथोदितम् \।
 
@@ -30932,8 +24416,6 @@ MS.
 
 ४१.२० \।\।
 
-
-
 यथायथा च विस्तारं समभ्यूह्य तथातथा \।
 
 आदाय खातपूर्वेभ्यो मध्यदेशे तु योजयेत् \।\।
@@ -30941,8 +24423,6 @@ MS.
 पौ. सं.
 
 ४१.२१ \।\।
-
-
 
 विभक्तं भवते येन क्षेत्रं चेद् अम्बुजस्य च \।
 
@@ -30952,8 +24432,6 @@ MS.
 
 ४१.२२ \।\।
 
-
-
 पद्मं साधारणाज्जालं युज्यते ऽभ्यर्चितं यथा \।
 
 इति विस्तीर्णभागानां विभागं हि यथोदितम् \।\।
@@ -30961,8 +24439,6 @@ MS.
 पौ. सं.
 
 ४१.२३ \।\।
-
-
 
 कृत्वाथ रचयेद् यत्नाद् बाहुल्यं मेखलादिकैः \।
 
@@ -30972,8 +24448,6 @@ MS.
 
 ४१.२४ \।\।
 
-
-
 शोधयित्वानुपादेन बाहुल्यं दिक्चतुष्टयात् \।
 
 त्रिचतुः पञ्च वा षड् वा ततः पुच्छाश्रितेर् भजेत् \।\।
@@ -30981,8 +24455,6 @@ MS.
 पौ. सं.
 
 ४१.२५ \।\।
-
-
 
 त्रिधा विभक्तं सोष्णीषं सपद्मं मेखलात्रयम् \।
 
@@ -30992,8 +24464,6 @@ MS.
 
 ४१.२६ \।\।
 
-
-
 कुर्याद् वै किङ्किणीजालद्वयेन नलिनीं शुभाम् \।
 
 मुनिभक्ते तु बाहुल्ये षोढा कमलसंभव \।\।
@@ -31001,8 +24471,6 @@ MS.
 पौ. सं.
 
 ४१.२७ \।\।
-
-
 
 भागेनोष्णीषवर्गं तु श्लथगात्राग्रवद् भवेत् \।
 
@@ -31012,8 +24480,6 @@ MS.
 
 ४१.२८ \।\।
 
-
-
 अधस्ताच्छुक्तिभागस्य वृत्तं कुर्यात् सकर्णिकम् \।
 
 वृत्तासनं च विहितं चतुरश्रं समन्ततः \।\।
@@ -31021,8 +24487,6 @@ MS.
 पौ. सं.
 
 ४१.२९ \।\।
-
-
 
 तदधस्त्रितयं कुर्यान्मेखलानां सुलक्षणम् \।
 
@@ -31032,8 +24496,6 @@ MS.
 
 ४१.३० \।\।
 
-
-
 स्थितिरन्तरसूत्रीया विभागजननी हिता \।
 
 सन्त्यज्योष्णीषपीठांशं गरुडं च कृताञ्जलिम् \।\।
@@ -31041,8 +24503,6 @@ MS.
 पौ. सं.
 
 ४१.३१ \।\।
-
-
 
 स्ववक्त्रेणापरेणैव युक्तं पाणिद्वयेन तु \।
 
@@ -31052,8 +24512,6 @@ MS.
 
 ४१.३२ \।\।
 
-
-
 गंगायमुनयोर् मध्ये वरुणं यादसां पतिम् \।
 
 मध्यतस्तद् उदग्भागे भद्रपीठस्य कल्पयेत् \।\।
@@ -31061,8 +24519,6 @@ MS.
 पौ. सं.
 
 ४१.३३ \।\।
-
-
 
 पार्श्वद्वये प्रमाणस्य समुद्रं रत्नपात्रधृत् \।
 
@@ -31072,8 +24528,6 @@ MS.
 
 ४१.३४ \।\।
 
-
-
 दिक्चतुष्कम् अतः शेषम् आपूर्यं किङ्किणीगणैः \।
 
 द्रव्यजे चलबिम्बे वा अङ्गुलैः परिनिर्मिते \।\।
@@ -31081,8 +24535,6 @@ MS.
 पौ. सं.
 
 ४१.३५ \।\।
-
-
 
 अथोर्ध्वं तु नृपादीनां हितं नानानिवेशनम् \।
 
@@ -31092,8 +24544,6 @@ MS.
 
 ४१.३६ \।\।
 
-
-
 नानाधर्मप्रतिष्ठानं तत्र तावत् समाचरेत् \।
 
 राजा वा साधकश्चान्यो लोकदं स्वर्गदं हि यत् \।\।
@@ -31102,8 +24552,6 @@ MS.
 
 ४१.३७ \।\।
 
-
-
 वृषोत्सर्गफलेनाशु निवृत्तिं तस्य कर्मणः \।
 
 कृत्वा तदनु वै कुर्याद् हरेः संस्थापनं पुनः \।\।
@@ -31111,8 +24559,6 @@ MS.
 पौ. सं.
 
 ४१.३८ \।\।
-
-
 
 विशेषकर्मनिचयं प्रत्यस्तम (
 
@@ -31124,8 +24570,6 @@ MS.
 
 ४१.३९ \।\।
 
-
-
 सम्यक् समाप्तो येनैव तेनान्यस्मिन् हि जन्मनि \।
 
 विवेकजं परं ज्ञानम् आप्नुयान्मोक्षसिद्धिदम् \।\।
@@ -31133,8 +24577,6 @@ MS.
 पौ. सं.
 
 ४१.४० \।\।
-
-
 
 नान्येन कर्मणा यस्माद् विषकीर्णेन कर्मणा \।
 
@@ -31144,13 +24586,7 @@ MS.
 
 ४१.४१ \।\।
 
-
-
-
-
 पौष्कर उवाच ---
-
-
 
 नानाधर्मप्रतिष्ठानं लोकानां हितकाम्यया \।
 
@@ -31160,13 +24596,7 @@ MS.
 
 ४१.४२ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 पञ्चायतनूपर्वं प्राक् कृत्वा देवालयं शुभम् \।
 
@@ -31176,8 +24606,6 @@ MS.
 
 ४१.४३ \।\।
 
-
-
 धर्मार्थम् आश्रितं तस्मिन् पुरं कुर्याद् द्विजास्पदम् \।
 
 सर्वलोकेषु सामान्यं सर्वदोषक्षयङ्करम् \।\।
@@ -31185,8 +24613,6 @@ MS.
 पौ. सं.
 
 ४१.४४ \।\।
-
-
 
 सर्वधर्मोत्तमं चैव सर्वदा सर्वकामदम् \।
 
@@ -31196,8 +24622,6 @@ MS.
 
 ४१.४५ \।\।
 
-
-
 षट्कर्मनिरतं चापि त्रयीधर्मपरायणम् \।
 
 ज्ञातिशुद्धं परिज्ञाय निर्द्वन्द्वं च परस्परम् \।\।
@@ -31205,8 +24629,6 @@ MS.
 पौ. सं.
 
 ४१.४६ \।\।
-
-
 
 दाशाग्निहोत्रसंयुक्तं वेदाध्ययनतत्परम् \।
 
@@ -31216,8 +24638,6 @@ MS.
 
 ४१.४७ \।\।
 
-
-
 सस्यशालिफलाढ्ये तु स्निग्धशष्पसमाकुले \।
 
 स्वादुतोयप्रदे देशे सुप्राकारविभूषिते \।\।
@@ -31225,8 +24645,6 @@ MS.
 पौ. सं.
 
 ४१.४८ \।\।
-
-
 
 तम् आसाद्य शुभं तत्र पूजयित्वा जगत्प्रभुम् \।
 
@@ -31236,8 +24654,6 @@ MS.
 
 ४१.४९ \।\।
 
-
-
 ताम्रशासनपूर्वं तु ब्राह्मणं विनिवेश्य च \।
 
 आसनेषु समूहन्तं पाद्यार्ध्यकुसुमैर् यजेत् \।\।
@@ -31245,8 +24661,6 @@ MS.
 पौ. सं.
 
 ४१.५० \।\।
-
-
 
 तं च धूपैः सुगन्धैश्च ताम्बूलेन महामते \।
 
@@ -31256,8 +24670,6 @@ MS.
 
 ४१.५१ \।\।
 
-
-
 द्वादशाक्षरमन्त्रेण प्रमाद्यम् इति पाठयेत् \।
 
 प्रतिष्ठासीति वै साम कुर्याद् वै प्रार्थनां ततः \।\।
@@ -31265,8 +24677,6 @@ MS.
 पौ. सं.
 
 ४१.५२ \।\।
-
-
 
 यथावद् अर्चनीयश्च मदनुग्रहकाम्यया \।
 
@@ -31276,8 +24686,6 @@ MS.
 
 ४१.५३ \।\।
 
-
-
 सहसद्धर्मचारिण्या व्यक्तवेद्यां यथागमम् \।
 
 समिदादीनि चाग्नीनाम् अग्नेर्वा शक्त्यपेक्षया \।\।
@@ -31285,8 +24693,6 @@ MS.
 पौ. सं.
 
 ४१.५४ \।\।
-
-
 
 त्रैकाल्यमा च कर्तव्यं स्वधर्मः परिपाल्यताम् \।
 
@@ -31298,8 +24704,6 @@ MS.
 
 ४१.५५ \।\।
 
-
-
 संस्कार्या स्वसुताः कन्या भृत्यामात्याः स्ववंशजाः \।
 
 वैष्णवेन विधानेन कार्यास्ते भगवन्मयाः \।\।
@@ -31307,8 +24711,6 @@ MS.
 पौ. सं.
 
 ४१.५६ \।\।
-
-
 
 आ मुहूर्तात् तु वै ब्राह्माद् यावदादित्यदर्शनम् \।
 
@@ -31318,8 +24720,6 @@ MS.
 
 ४१.५७ \।\।
 
-
-
 यागसाधनभोगानाम् उपार्जनम् अनन्तरम् \।
 
 ततः स्नानं तु विधिवद् यथोक्तं विधिना हितम् \।\।
@@ -31327,8 +24727,6 @@ MS.
 पौ. सं.
 
 ४१.५८ \।\।
-
-
 
 सायम् आभूतशुद्धिं च अन्तर्यागम् अनन्तरम् \।
 
@@ -31338,8 +24736,6 @@ MS.
 
 ४१.५९ \।\।
 
-
-
 ततो ऽग्निहवनं चैव क्रियां पैत्रीम् अनन्तरम् \।
 
 बलिदानं च भूतानाम् अतिथीनाम् अथार्चनम् \।\।
@@ -31347,8 +24743,6 @@ MS.
 पौ. सं.
 
 ४१.६० \।\।
-
-
 
 बन्धुभृत्यसमोपेतम् आत्मयागम् अनन्तरम् \।
 
@@ -31358,8 +24752,6 @@ MS.
 
 ४१.६१ \।\।
 
-
-
 आचर्तव्यं समाधानं स्वहृत्पद्मान्तरे ततः \।
 
 त्रयोदशाङ्गम् इत्युक्तम् आह्निकं भगवन्मयम् \।\।
@@ -31367,8 +24759,6 @@ MS.
 पौ. सं.
 
 ४१.६२ \।\।
-
-
 
 कार्यं वै प्रत्यहं भक्त्या क्षीयमाणे क्षपागमे \।
 
@@ -31378,8 +24768,6 @@ MS.
 
 ४१.६३ \।\।
 
-
-
 देशिकेन्द्रमुखेनैवम् आज्ञातुं गृहमेधिनाम् \।
 
 दत्त्वा निर्गत्य वै तत्र कर्ता कुर्यात् प्रदक्षिणम् \।\।
@@ -31387,8 +24775,6 @@ MS.
 पौ. सं.
 
 ४१.६४ \।\।
-
-
 
 इति ब्रह्मप्रतिष्ठानं विधानं कथितं च ते \।
 
@@ -31398,8 +24784,6 @@ MS.
 
 ४१.६५ \।\।
 
-
-
 स्वसिद्धान्तप्रतिष्ठानम् अथेदानीं निबोधतु \।
 
 मठम् आयतने कृत्वा वृत्तिपूर्वम् अकृत्रिमम् \।\।
@@ -31407,8 +24791,6 @@ MS.
 पौ. सं.
 
 ४१.६६ \।\।
-
-
 
 वणिक्कुटुम्बभृतकैर्युक्तं दासगणेन तु \।
 
@@ -31418,8 +24800,6 @@ MS.
 
 ४१.६७ \।\।
 
-
-
 तत्रान्नं व्यञ्जनोपेतं भक्ष्यकान्नादिकं बहु \।
 
 विविधं साधयित्वां प्राक् स्नात्वा तु गुरुणा सह \।\।
@@ -31427,8 +24807,6 @@ MS.
 पौ. सं.
 
 ४१.६८ \।\।
-
-
 
 द्वादशाक्षरपूर्वैस्तु मन्त्रैर् न्यस्ततनुः सुधीः \।
 
@@ -31438,8 +24816,6 @@ MS.
 
 ४१.६९ \।\।
 
-
-
 अभ्यागतान् समाहूय ब्राह्यणान् वेदपारगान् \।
 
 इदं तद् अमृतं चान्नम् इदमायुः प्रजापतिः \।\।
@@ -31447,8 +24823,6 @@ MS.
 पौ. सं.
 
 ४१.७० \।\।
-
-
 
 इदं विष्णुरिदं प्राणम् इदं जीवम् इदं परम् \।
 
@@ -31458,8 +24832,6 @@ MS.
 
 ४१.७१ \।\।
 
-
-
 पञ्चभूतजगद्योनेर् अन्नमूर्ते जनार्दन \।
 
 आ भूतसंप्लवं कालं भव सन्निहितस्त्विह \।\।
@@ -31467,8 +24839,6 @@ MS.
 पौ. सं.
 
 ४१.७२ \।\।
-
-
 
 चोदयेद् ऋङ्मयान् प्राग्वत् सामज्ञाद् द्वे परे श्रुती \।
 
@@ -31486,8 +24856,6 @@ MS.
 
 ४१.७४ \।\।
 
-
-
 तर्पयेत ततो ऽन्नेन अन्नाद् अर्चार्चितेन तु \।
 
 समूहम् उपविष्टं तु उच्छिष्टं शोधयेत् ततः \।\।
@@ -31495,8 +24863,6 @@ MS.
 पौ. सं.
 
 ४१.७५ \।\।
-
-
 
 यायात् प्रदक्षिणीकृत्य अभ्यागतगणं ततम् \।
 
@@ -31506,13 +24872,7 @@ MS.
 
 ४१.७६ \।\।
 
-
-
-
-
 ज्ञानप्रतिष्ठानम् (७७-१४३)
-
-
 
 परम् उद्धरणोपायं तथाखिलसुखप्रदम् \।
 
@@ -31524,8 +24884,6 @@ MS.
 
 ४१.७७ \।\।
 
-
-
 परिशुद्धान् समुच्चित्य पञ्चरात्रीयसञ्चयान् \।
 
 सदागमादिकान् कृत्स्नान् वेदेवदाङ्गसंयुतान् \।\।
@@ -31534,8 +24892,6 @@ MS.
 
 ४१.७८ \।\।
 
-
-
 स्मृतिस्मृत्यन्तरोपेतान् इतिहाससमन्वितान् \।
 
 आन्वीक्षकीभिर् विद्याभिः सशब्दाख्याभिसंवृतान् \।\।
@@ -31543,8 +24899,6 @@ MS.
 पौ. सं.
 
 ४१.७९ \।\।
-
-
 
 नदी (
 
@@ -31556,8 +24910,6 @@ MS.
 
 ४१.८० \।\।
 
-
-
 ग्रथयित्वासिताद्येन सूत्रेण सुदृढेन तु \।
 
 सुस्थिरे सुप्रसिद्धे च नृपनागरसेविते \।\।
@@ -31565,8 +24917,6 @@ MS.
 पौ. सं.
 
 ४१.८१ \।\।
-
-
 
 द्विजोषितेभ्यः संकीर्णे सत्समूहेन पालिते \।
 
@@ -31576,8 +24926,6 @@ MS.
 
 ४१.८२ \।\।
 
-
-
 सकवाटार्गलोपेतं सुधाधवलितं शुभम् \।
 
 कञ्जस्थया वागीश्वर्या भूषितं चित्रभूषया \।\।
@@ -31585,8 +24933,6 @@ MS.
 पौ. सं.
 
 ४१.८३ \।\।
-
-
 
 शङ्खचक्रगदापद्मकरप्रोद्यतया तया \।
 
@@ -31596,8 +24942,6 @@ MS.
 
 ४१.८४ \।\।
 
-
-
 वरदाभयदायिन्या सिद्धाद्यैर्वान्तया परैः \।
 
 ततः प्राग्वत् कृतन्यासः शुक्लाम्बरधरः शुचिः \।\।
@@ -31605,8 +24949,6 @@ MS.
 पौ. सं.
 
 ४१.८५ \।\।
-
-
 
 लोहयन्त्रायने तस्मिन् प्रणवाधिष्ठिते ऽर्चिते \।
 
@@ -31616,8 +24958,6 @@ MS.
 
 ४१.८६ \।\।
 
-
-
 पूजितांस्तु समालब्धान्नेत्रवस्त्रैस्तु वेष्टितान् \।
 
 द्वादशाक्षरमन्त्रेण पूजयित्वा पठेद् इदम् \।\।
@@ -31625,8 +24965,6 @@ MS.
 पौ. सं.
 
 ४१.८७ \।\।
-
-
 
 विशुद्धज्ञानदेहाय विष्णवे परमात्मने \।
 
@@ -31636,8 +24974,6 @@ MS.
 
 ४१.८८ \।\।
 
-
-
 अज्ञानाम् उपकारार्थं प्रबोधजननाय च \।
 
 मुक्त्वा त्वामेवम् अक्षय्यं क्षयवन्तो ऽमरादयः \।\।
@@ -31645,8 +24981,6 @@ MS.
 पौ. सं.
 
 ४१.८९ \।\।
-
-
 
 उक्त्वैवम् अर्चयेद् भूयो वेदवेदान्तविग्रहम् \।
 
@@ -31656,8 +24990,6 @@ MS.
 
 ४१.९० \।\।
 
-
-
 प्रत्यहं परया भक्त्या विद्यापीठस्य चाग्रतः \।
 
 शब्दब्रह्ममयं पीठं भद्रपीठे पुरोदिते \।\।
@@ -31665,8 +24997,6 @@ MS.
 पौ. सं.
 
 ४१.९१ \।\।
-
-
 
 नियुक्तं चार्चने कुर्याद् अप्रमत्तं द्विजोत्तम \।
 
@@ -31676,8 +25006,6 @@ MS.
 
 ४१.९२ \।\।
 
-
-
 सञ्चारदाने ऽर्थिनां च संचयं तत्र संचयेत् \।
 
 शासनावनिबन्धां च तस्य वृत्तिं सुपुष्कलाम् \।\।
@@ -31685,8 +25013,6 @@ MS.
 पौ. सं.
 
 ४१.९३ \।\।
-
-
 
 कृत्वा तच्छासनं दद्याद् ज्ञानकोशानुपालने \।
 
@@ -31696,8 +25022,6 @@ MS.
 
 ४१.९४ \।\।
 
-
-
 मन्त्रद्वयं पुरोद्दिष्टं स्वयं बद्धाञ्जलिः पठेत् \।
 
 अज्ञानतिमिरान्धानां जनानाम् अविवेकिनाम् \।\।
@@ -31705,8 +25029,6 @@ MS.
 पौ. सं.
 
 ४१.९५ \।\।
-
-
 
 शास्त्रपीठप्रतिष्ठानात् ज्ञानम् एति च निर्मलम् \।
 
@@ -31716,8 +25038,6 @@ MS.
 
 ४१.९६ \।\।
 
-
-
 प्रीतिम् आयातु परमां फलं मे नोपयुज्यते \।
 
 विद्यापीठप्रतिष्ठानम् इदं सम्यक् प्रकाशितम् \।\।
@@ -31725,8 +25045,6 @@ MS.
 पौ. सं.
 
 ४१.९७ \।\।
-
-
 
 फलार्थिनां ज्ञाननिष्ठं फलं यच्छति चेप्सितम् \।
 
@@ -31736,8 +25054,6 @@ MS.
 
 ४१.९८ \।\।
 
-
-
 प्रतिष्ठापनपूर्वं च स्वर्गदं हि फलार्थिनाम् \।
 
 कर्मसन्यासिनां विष्णोस्तत्पुनस्तत्पदप्रदम् \।\।
@@ -31745,8 +25061,6 @@ MS.
 पौ. सं.
 
 ४१.९९ \।\।
-
-
 
 कारणं जगताम् ईशो भूतः सर्वेश्वरो ऽच्युतः \।
 
@@ -31756,8 +25070,6 @@ MS.
 
 ४१.१०० \।\।
 
-
-
 समासाद्य स्वरूपेण जगत्याम् अवतिष्ठते \।
 
 तन्मयं देहम् आश्रित्य यत्सत्याह्लादम् उत्तमम् \।\।
@@ -31765,8 +25077,6 @@ MS.
 पौ. सं.
 
 ४१.१०१ \।\।
-
-
 
 सामराणाम् ऋषीणां च मनुष्याणां महामते \।
 
@@ -31776,8 +25086,6 @@ MS.
 
 ४१.१०२ \।\।
 
-
-
 दावानलस्थस (प्र) करीं नानाव्यक्तमयैः स्वरैः \।
 
 प्रवालपत्रकुसुममारुताम्बुविमिश्रितैः \।\।
@@ -31785,8 +25093,6 @@ MS.
 पौ. सं.
 
 ४१.१०३ \।\।
-
-
 
 अजङ्गमां पादपाख्यां पत्रपुष्फलप्रदाम् \।
 
@@ -31796,8 +25102,6 @@ MS.
 
 ४१.१०४ \।\।
 
-
-
 अपरां जङ्गमां मूर्तिं सौरभं संश्रितास्पदाम् \।
 
 ततस्तद् उत्थितैस्तावत् पञ्चौपनिषदात्मकैः \।\।
@@ -31805,8 +25109,6 @@ MS.
 पौ. सं.
 
 ४१.१०५ \।\।
-
-
 
 मन्त्रितैः पञ्चभिर्मन्त्रैर्गोमयाद्यैर् यथाक्रमम् \।
 
@@ -31816,8 +25118,6 @@ MS.
 
 ४१.१०६ \।\।
 
-
-
 शुद्धये ऽपि च तत्खातं पर्युक्ष्य परितः पुरा \।
 
 नयेत् पावनतां पश्चाद् अम्बुना परिपूरिताम् \।\।
@@ -31825,8 +25125,6 @@ MS.
 पौ. सं.
 
 ४१.१०७ \।\।
-
-
 
 क्ष्मागतेनाथवाद्ये(प्ये)न को (
 
@@ -31838,8 +25136,6 @@ MS.
 
 ४१.१०८ \।\।
 
-
-
 संभवे सति हे(है)मेन देशकालवशाद् अपि \।
 
 क्रीतेन ताटकीयेन पल्लवे(ष्वने)नोद्धृतेन वा \।\।
@@ -31847,8 +25143,6 @@ MS.
 पौ. सं.
 
 ४१.१०९ \।\।
-
-
 
 गोब्राह्मणानां सांमूल्यं (
 
@@ -31860,8 +25154,6 @@ MS.
 
 ४१.११० \।\।
 
-
-
 बहुकाले जलस्थायी यथाभिमतविस्तृतः \।
 
 कार्यो वै सर्वदिक्सेव्यो ऽनवस्था जायते यथा \।\।
@@ -31869,8 +25161,6 @@ MS.
 पौ. सं.
 
 ४१.१११ \।\।
-
-
 
 कुलस्त्रीजनवृद्धानां स्नेहम् आहरतां भृशम् \।
 
@@ -31880,8 +25170,6 @@ MS.
 
 ४१.११२ \।\।
 
-
-
 सार्धकार्मुकतुल्यं वा एकज्यानिष्ठमेव वा \।
 
 धनुर्द्वयात् समारभ्य यावद् धनुःशतं तु वै \।\।
@@ -31889,8 +25177,6 @@ MS.
 पौ. सं.
 
 ४१.११३ \।\।
-
-
 
 विहिते खातविस्तारे ह्यत ऊर्ध्वं यथा च ते \।
 
@@ -31900,8 +25186,6 @@ MS.
 
 ४१.११४ \।\।
 
-
-
 चतुरश्रायतं चैव आपाद्य शुभलक्षणम् \।
 
 समूभागवशाच्चैव पदवीगणभूषितम् \।\।
@@ -31909,8 +25193,6 @@ MS.
 पौ. सं.
 
 ४१.११५ \।\।
-
-
 
 वृक्षवल्लीगणोपेतं शाड्वलस्थलभूषितम् \।
 
@@ -31920,8 +25202,6 @@ MS.
 
 ४१.११६ \।\।
 
-
-
 एवं कृत्वा यथोद्दिष्टं यत्र गोविग्रहक्षितौ \।
 
 अवधार्य च सन्धार्य खातह्रासं च कुर्वती \।\।
@@ -31929,8 +25209,6 @@ MS.
 पौ. सं.
 
 ४१.११७ \।\।
-
-
 
 कालं प्रवृत्तिपर्यन्तं तर्पयन्ती च तज्जलम् \।
 
@@ -31940,8 +25218,6 @@ MS.
 
 ४१.११८ \।\।
 
-
-
 प्रत्यग्भागस्थितः कर्ता गुरुणा ब्राह्मणैः सह \।
 
 तदुद्धृतेनाम्भसाथ अथवान्येन सांप्रतम् \।\।
@@ -31949,8 +25225,6 @@ MS.
 पौ. सं.
 
 ४१.११९ \।\।
-
-
 
 मृदा गोमययुतया तत्कालं लेपयेत् स्थलम् \।
 
@@ -31960,8 +25234,6 @@ MS.
 
 ४१.१२० \।\।
 
-
-
 पूर्वदक्षिणसौम्यानां दिग्भागानां यथाक्रमम् \।
 
 होमार्थम् ऋग्यजुःसामपाठकान् विनिवेश्य च \।\।
@@ -31969,8 +25241,6 @@ MS.
 पौ. सं.
 
 ४१.१२१ \।\।
-
-
 
 स्थलेषु वालकीयेषु कुण्डेषु सुशुभेषु वा \।
 
@@ -31980,8 +25250,6 @@ MS.
 
 ४१.१२२ \।\।
 
-
-
 मृत्पिण्डम् एकम् आदाय स्वातमध्यात् तु पात्रकम् \।
 
 कौशेयकुसुमोपेते आसने विनिवेश्य च \।\।
@@ -31989,8 +25257,6 @@ MS.
 पौ. सं.
 
 ४१.१२३ \।\।
-
-
 
 तोयपूर्णं तदूर्ध्वे तु कलशं काञ्चनोदरम् \।
 
@@ -32000,8 +25266,6 @@ MS.
 
 ४१.१२४ \।\।
 
-
-
 पुष्पस्रङ्मञ्जरीदूर्वादर्भबीजफलोदकम् \।
 
 सितोपवीतम् आशुभ्रं नेत्रम् उष्णीषभृन्न्यसेत् \।\।
@@ -32009,8 +25273,6 @@ MS.
 पौ. सं.
 
 ४१.१२५ \।\।
-
-
 
 पार्थिवेन च शून्येन जीवयुक्तेन भावयेत् \।
 
@@ -32020,8 +25282,6 @@ MS.
 
 ४१.१२६ \।\।
 
-
-
 नारायणं परां मूर्तिम् उत्थितां मधुरध्वनेः \।
 
 पद्ममन्ते नियोक्तव्यम् अस्य बीजत्रयस्य च \।\।
@@ -32029,8 +25289,6 @@ MS.
 पौ. सं.
 
 ४१.१२७ \।\।
-
-
 
 नारायणाय भगवंस्ततो भूतात्मने नमः \।
 
@@ -32040,8 +25298,6 @@ MS.
 
 ४१.१२८ \।\।
 
-
-
 द्वादशाक्षरमन्त्रेण अथवाष्टाक्षरेण तु \।
 
 षडक्षरेण संपाद्य पूर्णान्ता हवनक्रिया \।\।
@@ -32049,8 +25305,6 @@ MS.
 पौ. सं.
 
 ४१.१२९ \।\।
-
-
 
 अर्चयित्वा यथाशक्ति गुरुपूर्वान् द्विजोत्तमान् \।
 
@@ -32060,8 +25314,6 @@ MS.
 
 ४१.१३० \।\।
 
-
-
 कर्ता विनिक्षिपेत् पूर्वं मृत्पिण्डं पुष्करोदरे \।
 
 कलशोदकम् उत्कीर्य इमं मन्त्रम् उदीरयेत् \।\।
@@ -32069,8 +25321,6 @@ MS.
 पौ. सं.
 
 ४१.१३१ \।\।
-
-
 
 आमूर्ते भगवन् नाथ वासुदेवामृतात्मने \।
 
@@ -32080,8 +25330,6 @@ MS.
 
 ४१.१३२ \।\।
 
-
-
 मामकस्याञ्जसा त्राणं नाथ सानुगसंयुतान् \।
 
 देवान् पितॄन् ससाध्यांश्च भूतान्याप्यायिता सदा \।\।
@@ -32089,8 +25337,6 @@ MS.
 पौ. सं.
 
 ४१.१३३ \।\।
-
-
 
 फलेन तु इहोत्थेन यातु प्रीतिं परां भवान् \।
 
@@ -32100,8 +25346,6 @@ MS.
 
 ४१.१३४ \।\।
 
-
-
 इत्युक्त्वा पाठयेत् साम ध्रुवाद्यौ ऋङ्मयांस्ततः \।
 
 प्रतिष्ठासीति वै साम सामज्ञान् ब्राह्मणोत्तमान् \।\।
@@ -32109,8 +25353,6 @@ MS.
 पौ. सं.
 
 ४१.१३५ \।\।
-
-
 
 पूजनैर् विविधैः पश्चात् तदुत्थेन तु साम्भसम् \।
 
@@ -32120,8 +25362,6 @@ MS.
 
 ४१.१३६ \।\।
 
-
-
 प्रसाद्य दानपूर्वेण देशिकान् विभवे सति \।
 
 दीनानाथांस्तथा भृत्याननन्तफलसिद्धये \।\।
@@ -32129,8 +25369,6 @@ MS.
 पौ. सं.
 
 ४१.१३७ \।\।
-
-
 
 सुवर्णवसुधादानं यथाशक्त्या समाचरेत् \।
 
@@ -32140,8 +25378,6 @@ MS.
 
 ४१.१३८ \।\।
 
-
-
 वधबन्धोत्थितं दोषं धनदण्डोत्थितं च यत् \।
 
 विचारणीयं लोकानाम् अर्थयित्वा नरेश्वरम् \।\।
@@ -32149,8 +25385,6 @@ MS.
 पौ. सं.
 
 ४१.१३९ \।\।
-
-
 
 किन्तु वी (वि) ध्यन्तरम् इदं विहितं सति संभवे \।
 
@@ -32160,8 +25394,6 @@ MS.
 
 ४१.१४० \।\।
 
-
-
 आरामसंप्रतिष्ठायां संस्कृत्य स्नानकर्मणाम् \।
 
 समालभ्य स्वलंकृत्य उपवेत्य यथाविधि \।\।
@@ -32169,8 +25401,6 @@ MS.
 पौ. सं.
 
 ४१.१४१ \।\।
-
-
 
 वाससा वेष्टितं कृत्वा पुष्पस्रक्परिभूषितम् \।
 
@@ -32180,13 +25410,9 @@ MS.
 
 ४१.१४२ \।\।
 
-
-
 तेन याति परं कर्ता पारं संसारवारिधेः \।
 
 फलमूलान्नादिप्रतिष्ठा (१४३-२१९)
-
-
 
 फलमूलान्नप्रतिष्ठां शृणु वक्ष्ये फलार्थिनाम् \।
 
@@ -32196,8 +25422,6 @@ MS.
 
 ४१.१४३ \।\।
 
-
-
 सद्यःप्रीतिकरं हृद्यं प्राणदं प्राणिनामपि \।
 
 उत्पत्तावपि संस्कारे रसम् अन्नस्य कीर्तितम् \।\।
@@ -32205,8 +25429,6 @@ MS.
 पौ. सं.
 
 ४१.१४४ \।\।
-
-
 
 अन्नाद् भवन्ति भूतानि तस्मात् सर्वं प्रतिष्ठितम् \।
 
@@ -32216,8 +25438,6 @@ MS.
 
 ४१.१४५ \।\।
 
-
-
 आत्मना सह लोके ऽस्मिन् स्वर्लोके ब्रह्मसंज्ञिते \।
 
 यावज्जीवं च नीरोगो वसेद् दुःखविवर्जितः \।\।
@@ -32225,8 +25445,6 @@ MS.
 पौ. सं.
 
 ४१.१४६ \।\।
-
-
 
 पुत्रदारधनैर् अन्नैर् वृद्धिं याति क्षणात् क्षणम् \।
 
@@ -32236,8 +25454,6 @@ MS.
 
 ४१.१४७ \।\।
 
-
-
 देवता ऋषयः सिद्धास्तस्य संचिन्तयन्ति च \।
 
 नित्यम् एव परां वृद्धिमायुषः सह चोन्नताम् \।\।
@@ -32245,8 +25461,6 @@ MS.
 पौ. सं.
 
 ४१.१४८ \।\।
-
-
 
 हृष्टः पुष्टस्ततो भूत्वा तृप्तो भवति सर्वदा \।
 
@@ -32256,8 +25470,6 @@ MS.
 
 ४१.१४९ \।\।
 
-
-
 याति चन्द्रप्रतीकाशैर्विमानैर्देवनिर्मितैः \।
 
 स्वर्गादौ सर्वलोके तु स्थित्वा कल्पशतान् बहून् \।\।
@@ -32265,8 +25477,6 @@ MS.
 पौ. सं.
 
 ४१.१५० \।\।
-
-
 
 कालात् पुनर् इहायाति देशे सर्वोत्तमे शुभे \।
 
@@ -32276,8 +25486,6 @@ MS.
 
 ४१.१५१ \।\।
 
-
-
 जायते रूपवान् वाग्मी विद्याज्ञानपरायणः \।
 
 द्विषताम् अपि सर्वेषां पूज्यः प्रियतरः सदा \।\।
@@ -32285,8 +25493,6 @@ MS.
 पौ. सं.
 
 ४१.१५२ \।\।
-
-
 
 शीलवाञ् शौर्यसंपन्नो धृत्युत्साहसमन्वितः \।
 
@@ -32296,8 +25502,6 @@ MS.
 
 ४१.१५३ \।\।
 
-
-
 एकान्ती धर्मवेत्ता वै नारायणपरायणः \।
 
 त्रिवर्गम् अखिलं भुक्त्वा यथाभिमतलक्षणः \।\।
@@ -32305,8 +25509,6 @@ MS.
 पौ. सं.
 
 ४१.१५४ \।\।
-
-
 
 जन्माभ्यस्तं शुभं कर्म कृत्वानन्तगुणं पुनः \।
 
@@ -32316,8 +25518,6 @@ MS.
 
 ४१.१५५ \।\।
 
-
-
 न हि वै कूपवापीनां सुरभीणां च पूजनम् \।
 
 दद्याच्छुद्धं हि तादात्म्यं विधानं सर्वम् आचरेत् \।\।
@@ -32325,8 +25525,6 @@ MS.
 पौ. सं.
 
 ४१.१५६ \।\।
-
-
 
 नीत्वाङ्गभावम् अस्मिंश्च गोगणं भगवद्गृहे \।
 
@@ -32336,8 +25534,6 @@ MS.
 
 ४१.१५७ \।\।
 
-
-
 प्रीत्यर्थं सुरभीणां तु प्रतिपाद्यं तु शासनम् \।
 
 तम् अग्निं गोव्रजोपेतं धृतदीपसमन्वितम् \।\।
@@ -32345,8 +25541,6 @@ MS.
 पौ. सं.
 
 ४१.१५८ \।\।
-
-
 
 देववत् पालनीयं च यावद् आचन्द्रतारकम् \।
 
@@ -32356,8 +25550,6 @@ MS.
 
 ४१.१५९ \।\।
 
-
-
 षडशीतिमुखाद्यं वै कालम् आसाद्य पुण्यदम् \।
 
 कुण्डं सुलक्षणं कृत्वा दिव्याद्यैर्वेष्णवैर्गृहे \।\।
@@ -32365,8 +25557,6 @@ MS.
 पौ. सं.
 
 ४१.१६० \।\।
-
-
 
 स्वयं प्रतिष्ठिते वापि धर्मस्कन्धेषु वै पुरा \।
 
@@ -32376,8 +25566,6 @@ MS.
 
 ४१.१६१ \।\।
 
-
-
 ऋग्यजुःसहसामैस्तु देवदेवप्रशंसकैः \।
 
 एवं होता शनैश्चापि संपठेच्छान्तिके कृते \।\।
@@ -32385,8 +25573,6 @@ MS.
 पौ. सं.
 
 ४१.१६२ \।\।
-
-
 
 घृताद्यैर् अक्षतैः पीतैः सितकृष्णान्वितैस्तिलैः \।
 
@@ -32396,8 +25582,6 @@ MS.
 
 ४१.१६३ \।\।
 
-
-
 आहुतीनां तु जुहुयात् सहस्राद् अयुतावधि \।
 
 शताद्यं च सहस्रान्तं ताम्रजेन स्रुवेण तु \।\।
@@ -32405,8 +25589,6 @@ MS.
 पौ. सं.
 
 ४१.१६४ \।\।
-
-
 
 पालीयेनाष्टमांशेन धृतं तु जुहुयात् ततः \।
 
@@ -32416,8 +25598,6 @@ MS.
 
 ४१.१६५ \।\।
 
-
-
 नारायणस्तु वेदात्मा सहवेदमुखेन तु \।
 
 ददात्यभिमतान् कामान् उपायं नैष्ठिकं तु वै \।\।
@@ -32425,8 +25605,6 @@ MS.
 पौ. सं.
 
 ४१.१६६ \।\।
-
-
 
 एवं कृते तु संपाद्याद् बध्नीयाद् धिषणोपरि \।
 
@@ -32436,8 +25614,6 @@ MS.
 
 ४१.१६७ \।\।
 
-
-
 एकाहं वा स्वशक्त्या तु तद् विधानम् अथोच्यते \।
 
 निर्धूमे वितते कुण्डे दृढैः काष्ठैस्तु याज्ञिकैः \।\।
@@ -32445,8 +25621,6 @@ MS.
 पौ. सं.
 
 ४१.१६८ \।\।
-
-
 
 कृत्वाग्निं मेखलाभूमेर् अधिकं शिबिकोपमम् \।
 
@@ -32456,8 +25630,6 @@ MS.
 
 ४१.१६९ \।\।
 
-
-
 कटाहकं योजनीयं काष्ठजे वलये दृढे \।
 
 स्थिरवंशचतुष्पादे पदवीसहनक्षमे \।\।
@@ -32465,8 +25637,6 @@ MS.
 पौ. सं.
 
 ४१.१७० \।\।
-
-
 
 अङ्गुलैर् अथ मानीयैश्चतुःसंख्यैस्तु चोन्नतम् \।
 
@@ -32476,8 +25646,6 @@ MS.
 
 ४१.१७१ \।\।
 
-
-
 तत्प्रमाणसमोपेतं मध्यमे तु कटाहके \।
 
 वेधं कुर्याच्च लोहेन वस्त्रापूतम् अथाहरेत् \।\।
@@ -32485,8 +25653,6 @@ MS.
 पौ. सं.
 
 ४१.१७२ \।\।
-
-
 
 व्याजहीनं घृतं हव्यं सुगन्धि शुभलक्षणम् \।
 
@@ -32496,8 +25662,6 @@ MS.
 
 ४१.१७३ \।\।
 
-
-
 प्रवहं दिनरात्रीयं कालं यत् त्रिविधं स्मृतम् \।
 
 एतावद् उक्तम् आरभ्य देवम् आत्मानं अक्षमम् \।\।
@@ -32505,8 +25669,6 @@ MS.
 पौ. सं.
 
 ४१.१७४ \।\।
-
-
 
 आप्रभाता\[न्तम\]थवाद्यं वाहरयेत् प्रहरं घृतम् \।
 
@@ -32516,8 +25678,6 @@ MS.
 
 ४१.१७५ \।\।
 
-
-
 प्रहराणां चतुष्कं वा स्वसामर्थ्याद्यपेक्षया \।
 
 आदौ षट्प्रस्थमानात् तु चतुःप्रस्थान्तमेव हि \।\।
@@ -32525,8 +25685,6 @@ MS.
 पौ. सं.
 
 ४१.१७६ \।\।
-
-
 
 प्रवाहम् आहरेच्छक्त्या पालिकं तु घृतस्य वा \।
 
@@ -32536,8 +25694,6 @@ MS.
 
 ४१.१७७ \।\।
 
-
-
 पवित्रम् अमृतं ब्रह्म आज्यम् अध्यात्ममेव हि \।
 
 अधिदेवं परं वह्निर् अधिभूतं च गोगणम् \।\।
@@ -32545,8 +25701,6 @@ MS.
 पौ. सं.
 
 ४१.१७८ \।\।
-
-
 
 स्मृतम् उक्तं ममैवं हि वसु मत्वा स्वरूपधृक् \।
 
@@ -32556,8 +25710,6 @@ MS.
 
 ४१.१७९ \।\।
 
-
-
 स्वदरिद्रम् इमं लोकं कृत्स्नं वै यत्प्रभावतः \।
 
 विततेन तु पात्रेण स्थगयित्वा कटाहकम् \।\।
@@ -32565,8 +25717,6 @@ MS.
 पौ. सं.
 
 ४१.१८० \।\।
-
-
 
 दैवत्वेनार्चनीयं च भगवान् पुरुषोत्तमः \।
 
@@ -32576,8 +25726,6 @@ MS.
 
 ४१.१८१ \।\।
 
-
-
 अनुग्रहकरस्त्वास्ते स्वयं श्रद्धावतां नृणाम् \।
 
 आरम्भाद् एव निष्पत्तिपर्यन्तं शुभकर्मणाम् \।\।
@@ -32585,8 +25733,6 @@ MS.
 पौ. सं.
 
 ४१.१८२ \।\।
-
-
 
 अर्चयित्वा नमस्कृत्य द्वादशार्णेन चाच्युतम् \।
 
@@ -32596,8 +25742,6 @@ MS.
 
 ४१.१८३ \।\।
 
-
-
 नैवेद्यं मधुपर्काद्यं सभक्ष्यं सफलं महत् \।
 
 अथ सर्वेश्वरं भक्त्या विभुम् आयतनस्थितम् \।\।
@@ -32605,8 +25749,6 @@ MS.
 पौ. सं.
 
 ४१.१८४ \।\।
-
-
 
 महता विभवेनैव स्नानपूर्वेण कर्मणा \।
 
@@ -32616,8 +25758,6 @@ MS.
 
 ४१.१८५ \।\।
 
-
-
 रहस्यमन्त्रपूवैस्तु साष्टार्णद्वादशाक्षरैः \।
 
 जानुभ्याम् अवनिं कृत्वा नतमूर्धाग्रतो भवेत् \।\।
@@ -32625,8 +25765,6 @@ MS.
 पौ. सं.
 
 ४१.१८६ \।\।
-
-
 
 तदेकक्षेम पूर्वं तु विनिवेश्य इदं पठेत् \।
 
@@ -32636,8 +25774,6 @@ MS.
 
 ४१.१८७ \।\।
 
-
-
 तारेयं परमा शक्तिस्वमिया(स्वामित्वा)देव पूजितः(ता) \।
 
 वासाद्याननम् आग्नेयतुल्यं यज्ञस्य वै फलम् \।\।
@@ -32645,8 +25781,6 @@ MS.
 पौ. सं.
 
 ४१.१८८ \।\।
-
-
 
 सुमहद्गोकुलोपेतं ग्रामं यद् विषयोदितम् \।
 
@@ -32656,8 +25790,6 @@ MS.
 
 ४१.१८७ \।\।
 
-
-
 यथा नोच्छिद्यते चैव कीर्तिधर्मपरं महत् \।
 
 नृपेणैतत् तथा कार्यं यशोधर्मविवृद्धये \।\।
@@ -32665,8 +25797,6 @@ MS.
 पौ. सं.
 
 ४१.१९० \।\।
-
-
 
 षट्काद् यद् अधिकं चैव सशुभं कीर्तितं त्रयम् \।
 
@@ -32676,8 +25806,6 @@ MS.
 
 ४१.१९१ \।\।
 
-
-
 धर्मज्ञैः पालनीयं च विच्छेदो न भवेद् यथा \।
 
 यस्माद् वह्निमुखेनैव त्रयस्त्रिंशत्तु कोटयः \।\।
@@ -32685,8 +25813,6 @@ MS.
 पौ. सं.
 
 ४१.१९२ \।\।
-
-
 
 प्रत्यहं तृप्तिम् अतुलां विबुधानां प्रयान्ति च \।
 
@@ -32696,8 +25822,6 @@ MS.
 
 ४१.१९३ \।\।
 
-
-
 प्रीतिम् अभ्येति भगवान् उपहारैस्तु सात्त्विकैः \।
 
 परमादित्यवत् सर्वम् आभासयति तेजसा \।\।
@@ -32705,8 +25829,6 @@ MS.
 पौ. सं.
 
 ४१.१९४ \।\।
-
-
 
 प्रभावाच्चैव दीपस्य नित्यं सन्निहितस्य च \।
 
@@ -32716,8 +25838,6 @@ MS.
 
 ४१.१९५ \।\।
 
-
-
 तिथिष्वर्च्यस्तु भगवान् कलशे मण्डने ऽनले \।
 
 सोपवासः शुचिः स्नातः कृतकौतुकमङ्गलः \।\।
@@ -32725,8 +25845,6 @@ MS.
 पौ. सं.
 
 ४१.१९६ \।\।
-
-
 
 प्रणवादिनमोन्तेन मन्त्रेणानेन भक्तितः \।
 
@@ -32736,8 +25854,6 @@ MS.
 
 ४१.१९७ \।\।
 
-
-
 गोहितो गोपतिर्गोप्ता सर्वमावृत्य च स्थितः \।
 
 ततो ऽनुलिप्ते भूभागे कुतपः केवलं तु वा \।\।
@@ -32745,8 +25861,6 @@ MS.
 पौ. सं.
 
 ४१.१९८ \।\।
-
-
 
 अभुक्तमहतं शुद्धं प्रस्तीर्यं सतिलाक्षतम् \।
 
@@ -32756,8 +25870,6 @@ MS.
 
 ४१.१९९ \।\।
 
-
-
 तद् बहिस्तेजसं दद्यात् पूर्णं प्रागादितः क्रमात् \।
 
 पात्राष्टकं पयः शालिदध्यक्षतरसैस्तिलैः \।\।
@@ -32765,8 +25877,6 @@ MS.
 पौ. सं.
 
 ४१.२०० \।\।
-
-
 
 घृतेन सर्वबीजैस्तु वस्त्रैर्यवनिका बहिः \।
 
@@ -32776,8 +25886,6 @@ MS.
 
 ४१.२०१ \।\।
 
-
-
 जातबीजशरावाश्च पूर्णकुम्भमुखस्थिताः \।
 
 पूर्णशाखासमेताश्च तरुशाखाभ्यलंकृताः \।\।
@@ -32785,8 +25893,6 @@ MS.
 पौ. सं.
 
 ४१.२०२ \।\।
-
-
 
 दिक्षु प्रज्वलितैर् दीपैः सह न्यस्य ऋगादिकैः \।
 
@@ -32796,8 +25902,6 @@ MS.
 
 ४१.२०३ \।\।
 
-
-
 सालंकृतां सवस्त्रां च घण्टाचामरभूषिताम् \।
 
 सरत्नहेमकुमुदां तच्छृङ्गपरिभूषिताम् \।\।
@@ -32805,8 +25909,6 @@ MS.
 पौ. सं.
 
 ४१.२०४ \।\।
-
-
 
 मुक्ताप्रवाललाङ्गूलां रजताङ्घ्रिम् अभिप्रियाम् \।
 
@@ -32816,8 +25918,6 @@ MS.
 
 ४१.२०५ \।\।
 
-
-
 एवम् एवाथ वीर्यध्वं सुरभिं कृतमण्डनाम् \।
 
 यौवनस्थामधृष्टां च वामभागे वृषस्य च \।\।
@@ -32825,8 +25925,6 @@ MS.
 पौ. सं.
 
 ४१.२०६ \।\।
-
-
 
 कांस्योपदोहसंयुक्तां पूर्वेद्युर् अधिवासिताम् \।
 
@@ -32836,8 +25934,6 @@ MS.
 
 ४१.२०७ \।\।
 
-
-
 चत्वारो धेनवः स्थाप्याः प्रागादौ तत्र संमुखम् \।
 
 सुशक्तिविभवोपेता दुग्धदोहप्रदक्षमाः \।\।
@@ -32845,8 +25941,6 @@ MS.
 पौ. सं.
 
 ४१.२०८ \।\।
-
-
 
 सगर्भाश्च सवत्साश्च प्रसूताश्च सकृत् सकृत् \।
 
@@ -32856,8 +25950,6 @@ MS.
 
 ४१.२०९ \।\।
 
-
-
 हेतिना च तदीयेन चन्दनेनात्वचोत्सृजेत् \।
 
 वृष्णिक्षेत्रसमेतं च तस्य चासंभवात् तु वै \।\।
@@ -32865,8 +25957,6 @@ MS.
 पौ. सं.
 
 ४१.२१० \।\।
-
-
 
 आनुगुण्यं यथाशक्त्या तन्मूल्यं तु न कल्प्य च \।
 
@@ -32876,8 +25966,6 @@ MS.
 
 ४१.२११ \।\।
 
-
-
 वस्त्रालंकरणोपेतं मूल्यं च सुरभीयकम् \।
 
 वसुधां वसुधार्थं वा वृषोपकरणं हि यत् \।\।
@@ -32885,8 +25973,6 @@ MS.
 पौ. सं.
 
 ४१.२१२ \।\।
-
-
 
 प्रणिपाद्य गुरोर्भक्त्या वृषभं सुरभिं त्यजेत् \।
 
@@ -32896,8 +25982,6 @@ MS.
 
 ४१.२१३ \।\।
 
-
-
 लोहेनानलतप्तेन मुद्रणीयं क्षणेन च \।
 
 एवं कृत्वा वृषत्यागं तदुद्देशेन वै पुनः \।\।
@@ -32905,8 +25989,6 @@ MS.
 पौ. सं.
 
 ४१.२१४ \।\।
-
-
 
 प्रभूतम् अन्नदानं च दद्याच्चैव सदक्षिणम् \।
 
@@ -32916,8 +25998,6 @@ MS.
 
 ४१.२१५ \।\।
 
-
-
 वृषोत्सर्गं हि यः कुर्याद् ब्रह्मलोकं व्रजत्यसौ \।
 
 वृषो हि भगवान् धर्मो लोके कामार्थबन्धतः \।\।
@@ -32925,8 +26005,6 @@ MS.
 पौ. सं.
 
 ४१.२१६ \।\।
-
-
 
 तेन त्यक्तेन संत्यक्तं जन्मदुःखं हि शाश्वतम् \।
 
@@ -32936,8 +26014,6 @@ MS.
 
 ४१.२१७ \।\।
 
-
-
 तद् विशेषाच्च तिस्रो याः शक्तयो मदनात्मिकाः \।
 
 बुद्धिर् अस्मीति पूर्वा च पञ्चेन्द्रियम् अथापरा \।\।
@@ -32945,8 +26021,6 @@ MS.
 पौ. सं.
 
 ४१.२१८ \।\।
-
-
 
 विनिवर्तन्ति सर्वास्ता गोत्वमाश्रित्य ये स्थिताः \।
 
@@ -32956,8 +26030,6 @@ MS.
 
 ४१.२१९ \।\।
 
-
-
 उक्तम् अब्जसमुद्भूत इदानीम् अवधारय \।
 
 अपवर्गप्रदं दिव्यं सूचितं यत् पुनः पुनः \।\।
@@ -32966,43 +26038,21 @@ MS.
 
 ४१.२२० \।\।
 
-
-
 प्रतिष्ठापनम् अब्जाक्ष आच्युतं भुक्तिमुक्तिदम् \।
-
-
 
 इति श्री पौष्करसंहितायां नानाधर्मप्रतिष्ठानं नाम एकचत्वारिंशो ऽध्यायः
 
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-
 
 अथ द्विचत्वारिंशो ऽध्यायः
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 द्वादशाक्षरपूर्वैस्तु मन्त्रैः सर्वेश्वरः पुरा \।\।
 
 पौ. सं.
 
 ४२.१ \।\।
-
-
 
 आराध्यो भगवान् भक्त्या वेद्यां वा कलशे स्थले \।
 
@@ -33012,8 +26062,6 @@ MS.
 
 ४२.२ \।\।
 
-
-
 भगवान् विश्वकर्मात्मा सगणेशं तु याजयेत् \।
 
 विविधैर् उपचारैस्तु पुष्पधूपानुलेपनैः \।\।
@@ -33021,8 +26069,6 @@ MS.
 पौ. सं.
 
 ४२.३ \।\।
-
-
 
 विसर्जने कृते विष्णौ सानले कमलोद्भव \।
 
@@ -33032,8 +26078,6 @@ MS.
 
 ४२.४ \।\।
 
-
-
 यथाप्रसन्नबुद्ध्या तु शश्वन्निर्वर्तयन्ति च \।
 
 तैर् अपि प्रयतैः स्नातैः तर्पणीयः स्वकः पतिः \।\।
@@ -33041,8 +26085,6 @@ MS.
 पौ. सं.
 
 ४२.५ \।\।
-
-
 
 ततः परिगृहीतव्यं क्षेत्रं त्वभिमतं द्विज \।
 
@@ -33052,8 +26094,6 @@ MS.
 
 ४२.६ \।\।
 
-
-
 निःशल्यम् अनुकूलं च स्थपतीनां च संमतम् \।
 
 समादाय प्रतिष्ठार्थं यथाभिमतविस्तृतम् \।\।
@@ -33061,8 +26101,6 @@ MS.
 पौ. सं.
 
 ४२.७ \।\।
-
-
 
 महेन्द्रो ऽपांपतिर्वायुर्विर्त्तपेशानदिक्षु च \।
 
@@ -33072,8 +26110,6 @@ MS.
 
 ४२.८ \।\।
 
-
-
 पञ्चायतनपूर्वं तु शुभं देवगृहं महत् \।
 
 सिद्धये तत्स्वमार्गात् तु विमार्गात् तदसिद्धये \।\।
@@ -33081,8 +26117,6 @@ MS.
 पौ. सं.
 
 ४२.९ \।\।
-
-
 
 एतावद् अर्थनान्मुक्तं अतो ऽन्येषां तु दोषकृत् \।
 
@@ -33092,8 +26126,6 @@ MS.
 
 ४२.१० \।\।
 
-
-
 स्फुरत्यविरतं बुद्धौ गुरुं तं शास्त्रतः स्वयम् \।
 
 शुभे ऽनुकूले नक्षत्रे नमस्कृत्याच्युतं विभुम् \।\।
@@ -33101,8 +26133,6 @@ MS.
 पौ. सं.
 
 ४२.११ \।\।
-
-
 
 निर्वर्त्य नित्यं विघ्नेन पूर्वम् अर्चापयेद् द्विज \।
 
@@ -33112,8 +26142,6 @@ MS.
 
 ४२.१२ \।\।
 
-
-
 सांलंकारैश्व सोष्णीषैः सितांबरधरैस्तथा \।
 
 समालभनमाल्यैश्च भूषितैः साङ्गुलीयकैः \।\।
@@ -33121,8 +26149,6 @@ MS.
 पौ. सं.
 
 ४२.१३ \।\।
-
-
 
 शङ्खवादित्रनिर्घोषैर् गीतिभिर् माङ्गलीयकैः \।
 
@@ -33132,8 +26158,6 @@ MS.
 
 ४२.१४ \।\।
 
-
-
 समादाय शुचिः कर्ता देशिकेन सह द्विज \।
 
 स्थानम् आसाद्य सर्वेषां वासुदेवं हृदि स्मरन् \।\।
@@ -33141,8 +26165,6 @@ MS.
 पौ. सं.
 
 ४२.१५ \।\।
-
-
 
 पुण्याहं वाचयित्वा च गायत्रीत्रितयादिकम् \।
 
@@ -33152,8 +26174,6 @@ MS.
 
 ४२.१६ \।\।
 
-
-
 श्रीसूक्तेन समोपेतं भद्रश्रीसामम् उत्तमम् \।
 
 कर्मारम्भेण सह वै स्वस्ति भो इत्ययं पठेत् \।\।
@@ -33161,8 +26181,6 @@ MS.
 पौ. सं.
 
 ४२.१७ \।\।
-
-
 
 चमषट्कांस्ततोदीर्य शान्ताद्यास्तदनन्तरम् \।
 
@@ -33172,8 +26190,6 @@ MS.
 
 ४२.१८ \।\।
 
-
-
 बहिः क्षेत्रस्य चैशान्यां प्राच्यां वा कमलोद्भव \।
 
 ततां पर्णकुटीं कृत्वा वातवृष्टिक्षमां शुभाम् \।\।
@@ -33181,8 +26197,6 @@ MS.
 पौ. सं.
 
 ४२.१९ \।\।
-
-
 
 तत्र पुष्पार्घ्यधूपाद्यं कृत्वा वै भद्रपीठगम् \।
 
@@ -33192,8 +26206,6 @@ MS.
 
 ४२.२० \।\।
 
-
-
 नारायणम् अपां मूर्तिं हेमाद्ये कुतपे शुभे \।
 
 सन्निधीकृत्य संपूज्य सरित् तीर्थाम्बुपूजिते \।\।
@@ -33201,8 +26213,6 @@ MS.
 पौ. सं.
 
 ४२.२१ \।\।
-
-
 
 हेमसर्वौषधीरत्र दर्भवर्गस्रगन्विते \।
 
@@ -33212,8 +26222,6 @@ MS.
 
 ४२.२२ \।\।
 
-
-
 साधारम् आसनं ताभ्यां ज्ञात्वा कुर्यात् तदर्चनम् \।
 
 हृदि मन्त्रेश्वरं सास्त्रं पूजयित्वा यथाविधि \।\।
@@ -33221,8 +26229,6 @@ MS.
 पौ. सं.
 
 ४२.२३ \।\।
-
-
 
 न्यस्तव्यम् आसने कौम्भे प्राणवन्मनसा सह \।
 
@@ -33240,8 +26246,6 @@ MS.
 
 ४२.२५ \।\।
 
-
-
 मन्त्रत्रयं तु सामान्यं सर्वत्र विहितं द्विज \।
 
 षडष्टाक्षरमन्त्रं यत् तथा वै द्वादशाक्षरम् \।\।
@@ -33249,8 +26253,6 @@ MS.
 पौ. सं.
 
 ४२.२६ \।\।
-
-
 
 हेतीशं यत् सहस्रारं परिज्ञेयं तदायुधम् \।
 
@@ -33260,8 +26262,6 @@ MS.
 
 ४२.२७ \।\।
 
-
-
 अस्त्रं तदङ्गम् आपाद्यं सविशेषम् इदं शुभम् \।
 
 साङ्गं समर्चयित्वा तु भोगैर् मात्रावसानिकैः \।\।
@@ -33269,8 +26269,6 @@ MS.
 पौ. सं.
 
 ४२.२८ \।\।
-
-
 
 सत्सूक्तैर् यजुभिः सामैर् यथावसरलक्षणैः \।
 
@@ -33280,8 +26278,6 @@ MS.
 
 ४२.२९ \।\।
 
-
-
 सहस्रशतसंख्यं यत् पूर्णान्तैः साक्षतैस्तिलैः \।
 
 कुण्डमन्त्रास्त्रदृक्पूतैरेवं कुर्यात् तु देशिकः \।\।
@@ -33289,8 +26285,6 @@ MS.
 पौ. सं.
 
 ४२.३० \।\।
-
-
 
 स्थलेषु वालुकाद्येषु प्रागादौ विनिवेश्य च \।
 
@@ -33300,8 +26294,6 @@ MS.
 
 ४२.३१ \।\।
 
-
-
 ऋग्वेदाद्याश्चतस्रो ये ईशाद् वायुपथावधि \।
 
 भक्त्या क्रियापरा याज्या होमार्थं क्षेत्रसंग्रहे \।\।
@@ -33309,8 +26301,6 @@ MS.
 पौ. सं.
 
 ४२.३२ \।\।
-
-
 
 होतव्यं भ्रमिलिङ्गैस्तैर् मन्त्रैर् आज्यादिकं बहु \।
 
@@ -33320,8 +26310,6 @@ MS.
 
 ४२.३३ \।\।
 
-
-
 होतव्यम् अपरैर् विप्रैः स्मरन् सर्वेश्वरं हरिम् \।
 
 उपद्रष्टा चतुष्कोणे एकैकं विनियोज्य च \।\।
@@ -33329,8 +26317,6 @@ MS.
 पौ. सं.
 
 ४२.३४ \।\।
-
-
 
 होमार्थं सर्वकुण्डेषु मन्त्रविन्यस्तविग्रहम् \।
 
@@ -33340,8 +26326,6 @@ MS.
 
 ४२.३५ \।\।
 
-
-
 विश्वकर्मकुलोद्भूतान् आहूयाग्रे निवेश्य च \।
 
 पञ्चगव्यादिनाभ्युक्ष्य सिताम्बरधरांस्तु वै \।\।
@@ -33349,8 +26333,6 @@ MS.
 पौ. सं.
 
 ४२.३६ \।\।
-
-
 
 माल्यचन्दनसोष्णीषैर् भूषिताङ्गुलिकादिकान् \।
 
@@ -33360,8 +26342,6 @@ MS.
 
 ४२.३७ \।\।
 
-
-
 कार्पासं सुदृढं सूत्रं सहस्राराभिमान्त्रितम् \।
 
 स्थपतीनां करे दद्यात् सह चैकशलाकया \।\।
@@ -33369,8 +26349,6 @@ MS.
 पौ. सं.
 
 ४२.३८ \।\।
-
-
 
 प्रोक्षितान् पञ्चगव्येन सहस्राराभिमन्त्रितान् \।
 
@@ -33380,8 +26358,6 @@ MS.
 
 ४२.३९ \।\।
 
-
-
 जपन्नस्त्रं सचक्रं च त्रिधा कुर्यात् प्रदक्षिणम् \।
 
 प्राक्पदात् तत्पदं यावत् सह घण्टारवैः शुभैः \।\।
@@ -33389,8 +26365,6 @@ MS.
 पौ. सं.
 
 ४२.४० \।\।
-
-
 
 क्षेत्रमानम् अथादाय करैर् अभिमतैस्ततः \।
 
@@ -33400,8 +26374,6 @@ MS.
 
 ४२.४१ \।\।
 
-
-
 ईशकोणादि तत्सूत्रं चतुर्दिक्षु प्रसार्य च \।
 
 शङ्कुभिर्यज्ञदारूत्थैर् मुद्रयेच्च दिशाष्टकम् \।\।
@@ -33409,8 +26381,6 @@ MS.
 पौ. सं.
 
 ४२.४२ \।\।
-
-
 
 ततो भूतबलिं दद्यात् प्रादक्षिण्येन बुद्धिमान् \।
 
@@ -33420,8 +26390,6 @@ MS.
 
 ४२.४३ \।\।
 
-
-
 भूतक्रूरम् इति प्रोक्तं तेन भूतबलिं हरेत् \।
 
 भूतानि राक्षसा वापि ये ऽत्रं तिष्ठन्ति केचन \।\।
@@ -33429,8 +26397,6 @@ MS.
 पौ. सं.
 
 ४२.४४ \।\।
-
-
 
 ते सर्वे ऽद्यापगच्छन्तु स्थानं कुर्यामिमं हरेः \।
 
@@ -33440,8 +26406,6 @@ MS.
 
 ४२.४५ \।\।
 
-
-
 मृदङ्गोर्ध्वसमाकारान् पाण्डुमृद्ग्रहणक्षमान् \।
 
 नचाङ्गहोमास्युस्तीक्ष्णान् कुद्दालाख्यखनित्रकान् \।\।
@@ -33449,8 +26413,6 @@ MS.
 पौ. सं.
 
 ४२.४६ \।\।
-
-
 
 सुदृढान् यज्ञकाष्ठोत्थान् हस्तिपादांश्च पूजयेत् \।
 
@@ -33460,8 +26422,6 @@ MS.
 
 ४२.४७ \।\।
 
-
-
 संस्मृत्य द्वादशार्णेन भगवान् भूतभावनः \।
 
 अधिभूताधिदेवाख्यं स्मरेद् अध्यात्मलक्षणम् \।\।
@@ -33469,8 +26429,6 @@ MS.
 पौ. सं.
 
 ४२.४८ \।\।
-
-
 
 सप्तद्वीपवतीं तत्र समुद्रादिसमन्विताम् \।
 
@@ -33480,8 +26438,6 @@ MS.
 
 ४२.४९ \।\।
 
-
-
 शक्तिभिः शब्दनिष्ठाभिः सर्वभाभिः समावृताम् \।
 
 ब्रह्मबीजसमेतेन लकारेण सबिन्दुना \।\।
@@ -33489,8 +26445,6 @@ MS.
 पौ. सं.
 
 ४२.५० \।\।
-
-
 
 स्वसंज्ञानातियुक्तेन मानयित्वा पुरा ततः \।
 
@@ -33500,8 +26454,6 @@ MS.
 
 ४२.५१ \।\।
 
-
-
 सामर्थ्यं यद् भगवतो विष्णोः सर्वेश्वरस्य च \।
 
 परम् अध्यात्मरूपं च वाराहं वैष्णवं महत् \।\।
@@ -33509,8 +26461,6 @@ MS.
 पौ. सं.
 
 ४२.५२ \।\।
-
-
 
 एतावद् उक्तं सामान्यं ध्यानं क्षितिपरिग्रहे \।
 
@@ -33520,8 +26470,6 @@ MS.
 
 ४२.५३ \।\।
 
-
-
 चतुरश्रे चतुर्मूर्तिव्यक्तिव्यूहं विचिन्त्य च \।
 
 चतुरश्रायते ध्यायेद् दिव्यं विद्यागमंन्विदम् \।\।
@@ -33529,8 +26477,6 @@ MS.
 पौ. सं.
 
 ४२.५४ \।\।
-
-
 
 वृत्तशान्तोदितं चक्रं संवृतावयवं स्मरेत् \।
 
@@ -33540,8 +26486,6 @@ MS.
 
 ४२.५५ \।\।
 
-
-
 पुर्यष्टकं यद् अमलं कालपुष्करदेहभृत् \।
 
 नाभिरन्ध्रोद्भवं विष्णोः स्थितम् अष्टदिगात्मनाम् \।\।
@@ -33549,8 +26493,6 @@ MS.
 पौ. सं.
 
 ४२.५६ \।\।
-
-
 
 देवालये द्विजाष्टाश्रे स्मर्तव्यं वसुधागृहम् \।
 
@@ -33560,8 +26502,6 @@ MS.
 
 ४२.५७ \।\।
 
-
-
 षडक्षरेण संरोध्य मुद्रां बद्धा द्विजाच्युतम् \।
 
 अधिध्यानसमाधानाद् यावत् कलशसन्निधिम् \।\।
@@ -33569,8 +26509,6 @@ MS.
 पौ. सं.
 
 ४२.५८ \।\।
-
-
 
 प्राग्वद् विलक्षणैर् भोगैर् अथाष्टार्णेन पूजयेत् \।
 
@@ -33580,8 +26518,6 @@ MS.
 
 ४२.५९ \।\।
 
-
-
 सर्वकर्मसमाध्यर्थं क्षेत्रे क्षेत्रीकृते सति \।
 
 कुर्यात् पादप्रतिष्ठां वै सुशुभे दिवसे परे \।\।
@@ -33589,8 +26525,6 @@ MS.
 पौ. सं.
 
 ४२.६० \।\।
-
-
 
 अथ कर्मकरा दक्षा नियोक्तव्याः क्रमेण तु \।
 
@@ -33600,13 +26534,7 @@ MS.
 
 ४२.६१ \।\।
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 एवं परिगृहीते तु क्ष्मांशे शल्योज्झिते सति \।
 
@@ -33615,8 +26543,6 @@ MS.
 पौ. सं.
 
 ४२.६२ \।\।
-
-
 
 शुद्धिं सोपेक्षते किञ्चित् कृत्रिमाम् उदपासर \।
 
@@ -33628,8 +26554,6 @@ MS.
 
 ४२.६३ \।\।
 
-
-
 संकीर्णा तत् प्रसूतैश्च मूलैर्व्याप्ता निरन्तरैः \।
 
 ज्ञातं तस्यापि बालत्वं शुद्धिर्वै भाविनी स्मृता \।\।
@@ -33637,8 +26561,6 @@ MS.
 पौ. सं.
 
 ४२.६४ \।\।
-
-
 
 त्यक्ता सरित्प्रवाहैर् न नगरग्रामदेशिकाः \।
 
@@ -33648,8 +26570,6 @@ MS.
 
 ४२.६५ \।\।
 
-
-
 स्वात्वा वै भावम् उद्धृत्य दाद्याद् अभ्येति मृच्छुभाम् \।
 
 सितामशर्करां स्निग्धां (जलान्तर्निखनेत वा ) \।\।
@@ -33657,8 +26577,6 @@ MS.
 पौ. सं.
 
 ४२.६६ \।\।
-
-
 
 दृष्ट्वा जलं समभ्यर्च्य तर्पयेद्यादसांपतिम् \।
 
@@ -33668,8 +26586,6 @@ MS.
 
 ४२.६७ \।\।
 
-
-
 स्थित्यर्थम् उपलैः सर्वैः सह संपूर्यते मृदा \।
 
 मृदोपलैश्च संपूर्य जातिषु स्निग्धया तया \।\।
@@ -33677,8 +26593,6 @@ MS.
 पौ. सं.
 
 ४२.६८ \।\।
-
-
 
 आकोटय पौनः पुन्येन बालाद् वै वापरिसेचना (त्) \।
 
@@ -33688,8 +26602,6 @@ MS.
 
 ४२.६९ \।\।
 
-
-
 बालवत्ससमेतं च वृषेन्द्रगणसंयुतम् \।
 
 सतोयाः शालयश्चैव प्रभूततृणसंचयम् \।\।
@@ -33697,8 +26609,6 @@ MS.
 पौ. सं.
 
 ४२.७० \।\।
-
-
 
 विकीर्य सतिलं तत्र सन्त्यक्ते गोमयादिकैः \।
 
@@ -33708,8 +26618,6 @@ MS.
 
 ४२.७१ \।\।
 
-
-
 समर्चयित्वा सूर्यात्मा प्राग्वद् दिक्सिद्धिम् आचरेत् \।
 
 प्रासादं भगवद् रूपसमेतं कमलोद्भव \।\।
@@ -33717,8 +26625,6 @@ MS.
 पौ. सं.
 
 ४२.७२ \।\।
-
-
 
 यथाभिमतदिग्वक्त्रं निश्चयीकृत्य वै पुरा \।
 
@@ -33728,8 +26634,6 @@ MS.
 
 ४२.७३ \।\।
 
-
-
 दिक्त्रये तदलाभे तु सौम्ययाम्यदिगायतम् \।
 
 आनुगुण्याय शुद्धिं च सुखं निर्बाधमिश्रितम् \।\।
@@ -33737,8 +26641,6 @@ MS.
 पौ. सं.
 
 ४२.७४ \।\।
-
-
 
 शरैः काशैः शरैः कूर्चैर् अच्छिन्नं वा परैस्तु वा \।
 
@@ -33748,8 +26650,6 @@ MS.
 
 ४२.७५ \।\।
 
-
-
 सप्तषट्पञ्चहस्तं च विभवानुगुणं ततः \।
 
 चतुर्हस्तं तु वै सार्धं चतुर्हस्तम् अथापि वा \।\।
@@ -33757,8 +26657,6 @@ MS.
 पौ. सं.
 
 ४२.७६ \।\।
-
-
 
 सुविस्तृतै (ते) ष्षडंशेन सर्वेषां परिवर्ज्य च \।
 
@@ -33768,8 +26666,6 @@ MS.
 
 ४२.७७ \।\।
 
-
-
 चतुर्विंशतिमांशेन स्वेन स्वेन महामते \।
 
 तद् विस्तारोच्छ्रिते सर्वे कोणस्तम्भेषु भूषयेत् \।\।
@@ -33777,8 +26673,6 @@ MS.
 पौ. सं.
 
 ४२.७८ \।\।
-
-
 
 तन्मानेन समारोप्य स्तम्भानां शिरसोपरि \।
 
@@ -33788,8 +26682,6 @@ MS.
 
 ४२.७९ \।\।
 
-
-
 सर्वे स्थूलाब्जसंभूताश्चतुर्दिक्तोरणान्विताः \।
 
 तृतीयांशेन वै पीठात् तोरणाविस्तृतिर्भवेत् \।\।
@@ -33797,8 +26689,6 @@ MS.
 पौ. सं.
 
 ४२.८० \।\।
-
-
 
 सुविस्तृतैस्त्रिभागेन सर्वेषां उन्नतिः स्मृता \।
 
@@ -33808,8 +26698,6 @@ MS.
 
 ४२.८१ \।\।
 
-
-
 सान्तरालप्रमाणेन सस्तंभास्तोरणाखिलाः \।
 
 विनिवेश्याः क्षितौ कृत्वा सर्वे चैव सुलक्षणाः \।\।
@@ -33817,8 +26705,6 @@ MS.
 पौ. सं.
 
 ४२.८२ \।\।
-
-
 
 चतुरश्रास्त्वथो देशा ह्यष्टाश्रा मध्यतो द्विज \।
 
@@ -33828,8 +26714,6 @@ MS.
 
 ४२.८३ \।\।
 
-
-
 वीथी प्राक्पश्चिमा भागा उभयोः पीठसंमिता \।
 
 सोत्तरं दक्षिणं भागम् एकैकं पीठवर्तकम् \।\।
@@ -33837,8 +26721,6 @@ MS.
 पौ. सं.
 
 ४२.८४ \।\।
-
-
 
 कृत्वैवं भगवद् यागमण्डपं सर्वकर्मणा \।
 
@@ -33848,8 +26730,6 @@ MS.
 
 ४२.८५ \।\।
 
-
-
 वर्तुलं चतुरश्रं वा प्रकाशाख्यं सुलक्षणम् \।
 
 शङ्खचक्रगदापद्मैश्चिह्निते मेखलावनौ \।\।
@@ -33857,8 +26737,6 @@ MS.
 पौ. सं.
 
 ४२.८६ \।\।
-
-
 
 द्रव्याणाम् अधिवासार्थं तत्समीपस्थितां महीम् \।
 
@@ -33868,8 +26746,6 @@ MS.
 
 ४२.८७ \।\।
 
-
-
 चतुष्कं स्नानकुंभानां सोषधीनां निवेशने \।
 
 अन्यत्र शयनं तस्मिन् स्नानपीठे तु विन्यसेत् \।\।
@@ -33877,8 +26753,6 @@ MS.
 पौ. सं.
 
 ४२.८८ \।\।
-
-
 
 स्नानकुंभसमीपं तु स्नानद्रव्यसमन्वितम् \।
 
@@ -33888,8 +26762,6 @@ MS.
 
 ४२.८७ \।\।
 
-
-
 सद्वारं सगवाक्षं च सकवाटं हि सार्गलम् \।
 
 कृत्वैवं अधिवासार्थं प्राकारवलयं महत् \।\।
@@ -33897,8 +26769,6 @@ MS.
 पौ. सं.
 
 ४२.९० \।\।
-
-
 
 प्रासादक्षेत्रमानं च सन्त्यज्य परितः स्थितम् \।
 
@@ -33908,8 +26778,6 @@ MS.
 
 ४२.९१ \।\।
 
-
-
 अनुकल्पे तु वै कुर्यात् प्राच्यां दिङ्मण्डलाद्बहिः \।
 
 तत्पाश्चात्ये तु वा भागे एकपीठाः सतोरणाः \।\।
@@ -33917,8 +26785,6 @@ MS.
 पौ. सं.
 
 ४२.९२ \।\।
-
-
 
 स्तम्भा वा पृथक्पीठा विविक्ताश्च परस्परम् \।
 
@@ -33928,8 +26794,6 @@ MS.
 
 ४२.९३ \।\।
 
-
-
 चतुरश्रं तु वा कल्प्यं गदामेखलम् अब्जज \।
 
 पद्माद् उत्तरदिग्भागे शङ्खं कोणचतुष्टये \।\।
@@ -33937,8 +26801,6 @@ MS.
 पौ. सं.
 
 ४२.९४ \।\।
-
-
 
 एष पादप्रतिष्ठायां कुण्डानां संस्थितिः स्मृता \।
 
@@ -33948,8 +26810,6 @@ MS.
 
 ४२.९५ \।\।
 
-
-
 संस्थितिं शृणु कुण्डानां विविधा दिग्विदिक्षु च \।
 
 महविभवसौभाग्यआयुरारोग्यवृद्धये \।\।
@@ -33957,8 +26817,6 @@ MS.
 पौ. सं.
 
 ४२. ९६ \।\।
-
-
 
 सिद्धये सर्वकर्माणां विघ्नानां विनिवृत्तये \।
 
@@ -33968,8 +26826,6 @@ MS.
 
 ४२.९७ \।\।
 
-
-
 गदाद्वन्द्वद्वयोपेतं प्राग्दिक्तुर्याश्रमेव च \।
 
 चक्रदक्षिणदिग्विप्र शङ्खं प्रत्यग्गते ततः \।\।
@@ -33977,8 +26833,6 @@ MS.
 पौ. सं.
 
 ४२.९८ \।\।
-
-
 
 पद्मम् उत्तरदिग्भागे यथाभिमतपल्लवम् \।
 
@@ -33988,8 +26842,6 @@ MS.
 
 ४२.९९ \।\।
 
-
-
 विमुक्तकमलं कुर्यात् त्रिकोणं पूर्ववर्तुलम् \।
 
 होमार्थं यातुदिक्कुण्डम् अष्टाश्रं वायवे पदे \।\।
@@ -33997,8 +26849,6 @@ MS.
 पौ. सं.
 
 ४२.१०० \।\।
-
-
 
 धिष्ण्यं श्रीवत्ससंज्ञं यत् प्राग्वद् अर्धेन्दुलक्षणम् \।
 
@@ -34008,8 +26858,6 @@ MS.
 
 ४२.१०१ \।\।
 
-
-
 अतो ऽपरं संनिवेशम् एकाग्रम् अवधारय \।
 
 धिष्ण्यं पूर्वपदे वृत्तम् आग्नेय्यां कौस्तुभाकृतिम् \।\।
@@ -34017,8 +26865,6 @@ MS.
 पौ. सं.
 
 ४२.१०२ \।\।
-
-
 
 चक्रं दक्षिणदिग्भागे शार्ङ्गाकारं तु यातुदिक् \।
 
@@ -34028,8 +26874,6 @@ MS.
 
 ४२.१०३ \।\।
 
-
-
 उदग्दिक्कमलाकारं श्रीवत्साकारनीशगम् \।
 
 विस्तारसममानं तु सर्वेषां विहितं तु वै \।\।
@@ -34037,8 +26881,6 @@ MS.
 पौ. सं.
 
 ४२.१०४ \।\।
-
-
 
 प्राग्वद् द्वादशमांशं तु ओष्ठार्धं परिमृज्य च \।
 
@@ -34048,8 +26890,6 @@ MS.
 
 ४२.१०५ \।\।
 
-
-
 समेखला वै विषमाः सर्वेषां पूर्ववद् द्विज \।
 
 यथोक्तलक्षणा कार्या योनिः पिप्पलपत्रवत् \।\।
@@ -34057,8 +26897,6 @@ MS.
 पौ. सं.
 
 ४२.१०६ \।\।
-
-
 
 मध्यदेशे सुवृत्तं च तुर्यं श्रीवत्सलक्षणम् \।
 
@@ -34068,8 +26906,6 @@ MS.
 
 ४२.१०७ \।\।
 
-
-
 संपाद्य मानयुक्तं वा तर्पणे सर्वकर्मणाम् \।
 
 वास्त्वङ्गविबुधानां च लोकेशानां महामते \।\।
@@ -34077,8 +26913,6 @@ MS.
 पौ. सं.
 
 ४२.१०८ \।\।
-
-
 
 विघ्नेशद्वारपालानां क्षेत्रेशस्य तथा क्षितेः \।
 
@@ -34088,8 +26922,6 @@ MS.
 
 ४२.१०९ \।\।
 
-
-
 ततो ऽन्तरात् सबाह्यं च ऊर्जनं परिभूषयेत् \।
 
 सुविचित्रैर् ध्वजै रम्यैर्वैजयन्तीगणैश्च तैः \।\।
@@ -34098,8 +26930,6 @@ MS.
 
 ४२.११० \।\।
 
-
-
 प्रोच्छ्रितैः कदलीरूपैर् द्रुमाङ्गैः पावनैर् दृढैः \।
 
 सवस्त्रैः पूर्णसुघटैः पुष्पैर्वै मञ्जरीगणैः \।\।
@@ -34107,8 +26937,6 @@ MS.
 पौ. सं.
 
 ४२.१११ \।\।
-
-
 
 वितानैविविधाकारैर् विनानलगृहं तु वै \।
 
@@ -34126,8 +26954,6 @@ MS.
 
 ४२.११३ \।\।
 
-
-
 मध्वाज्यदधिसक्षीरसुपूर्णैः कांस्यभाजानैः \।
 
 उपकुंभाननस्थैश्च हरितैः पालिकागणैः \।\।
@@ -34135,8 +26961,6 @@ MS.
 पौ. सं.
 
 ४२.११४ \।\।
-
-
 
 शालितण्डुलपात्रैस्तु सहिरण्यैः फलोद्वहैः \।
 
@@ -34146,8 +26970,6 @@ MS.
 
 ४२.११५ \।\।
 
-
-
 सत्सुगन्धैस्त्वगेलाद्यैः पात्रैः पूगफलैस्ततः \।
 
 मधूकबदरीलाक्षा३सुभिस्त्रिफलैः फलैः \।\।
@@ -34155,8 +26977,6 @@ MS.
 पौ. सं.
 
 ४२.११६ \।\।
-
-
 
 यथा तत्प्रभवैः पुष्पैः बहुभिः प्रकरीयकैः \।
 
@@ -34166,8 +26986,6 @@ MS.
 
 ४२.११७ \।\।
 
-
-
 भूमयः पीठबाह्यास्तु सर्वदिक्परिवार्य च \।
 
 संप्रवेश्याखिलं तत्र संभारं भूरिसंभृतम् \।\।
@@ -34175,8 +26993,6 @@ MS.
 पौ. सं.
 
 ४२.११८ \।\।
-
-
 
 शुभे ग्रहे ऽनुकूले च नक्षत्रे सुस्थिरे ततः \।
 
@@ -34186,8 +27002,6 @@ MS.
 
 ४२.११९ \।\।
 
-
-
 प्रासादाङ्घ्रिप्रतिष्ठार्थं कर्ता वै भगवन्मयः \।
 
 कृताह्निको द्विजेन्द्राद्यैर् देशिकेन समन्वितः \।\।
@@ -34195,8 +27009,6 @@ MS.
 पौ. सं.
 
 ४२.१२० \।\।
-
-
 
 भेरीपटहवादित्रशङ्खशब्दादिकैः सह \।
 
@@ -34206,8 +27018,6 @@ MS.
 
 ४२.१२१ \।\।
 
-
-
 द्वारपालार्चनं कृत्वा यागागारं प्रविश्य च \।
 
 संस्मृत्य स्वासने व्याप्तिम् अर्चयित्वोपविश्य च \।\।
@@ -34215,8 +27025,6 @@ MS.
 पौ. सं.
 
 ४२.१२२ \।\।
-
-
 
 मध्यपीठसमीपे तु प्राङ्मुखं पश्चिमे पदे \।
 
@@ -34226,8 +27034,6 @@ MS.
 
 ४२.१२३ \।\।
 
-
-
 उदग्दक्षिणदिग्यन्त्रं यजुर्वेदांस्तु योजयेत् \।
 
 प्राङ्मुखं पश्चिमे भागे सामज्ञान्विनियोज्य च \।\।
@@ -34235,8 +27041,6 @@ MS.
 पौ. सं.
 
 ४२.१२४ \।\।
-
-
 
 सह चैकायनैर् विप्रैर् मूर्तिसंज्ञोपलक्षितैः \।
 
@@ -34246,8 +27050,6 @@ MS.
 
 ४२.१२५ \।\।
 
-
-
 निवेश्याथर्ववेदांश्च सर्वे द्विद्विकसंख्यया \।
 
 पृष्ठतः सुसहायाद्यैः सम्यग्ज्ञानप्रतीक्षकः \।\।
@@ -34255,8 +27057,6 @@ MS.
 पौ. सं.
 
 ४२.१२६ \।\।
-
-
 
 उपदेष्टा च मन्त्राणां द्विजादीनां समर्चने \।
 
@@ -34266,8 +27066,6 @@ MS.
 
 ४२.१२७ \।\।
 
-
-
 ततः समाचरेत् न्यासं द्वादशाक्षरमूर्तिना \।
 
 मन्त्राभिमानशक्तिं वै समालम्ब्य धिया ततः \।\।
@@ -34275,8 +27073,6 @@ MS.
 पौ. सं.
 
 ४२.१२८ \।\।
-
-
 
 अथाष्टाक्षरपूर्वैस्तु मन्त्रैः श्रुतिमयैस्ततः \।
 
@@ -34286,8 +27082,6 @@ MS.
 
 ४२.१२९ \।\।
 
-
-
 पाद्यार्घ्यैः पञ्चगव्यं च कृत्वाभ्यर्च्य द्विजातये \।
 
 समालंभनपुष्पाद्यैः सवस्त्रैर् अङ्गुलीयकैः \।\।
@@ -34295,8 +27089,6 @@ MS.
 पौ. सं.
 
 ४२.१३० \।\।
-
-
 
 सपवित्रकैस्तु हेमाढ्यैर् धूपयित्वा यथाक्रमम् \।
 
@@ -34306,8 +27098,6 @@ MS.
 
 ४२.१३१ \।\।
 
-
-
 दत्त्वाज्ञांयर्जमानस्य कर्मभूमौ स्थितानि च \।
 
 सुवर्णराजतोत्थानि नवताम्रमयानि वा \।\।
@@ -34315,8 +27105,6 @@ MS.
 पौ. सं.
 
 ४२.१३२ \।\।
-
-
 
 शैलजान्यनुकल्पे तु मृत्कुम्भान्यथवाब्जज \।
 
@@ -34326,8 +27114,6 @@ MS.
 
 ४२.१३३ \।\।
 
-
-
 विस्तृते मध्यतस्तच्च द्व्यङ्गुलद्व्यङ्गुलोन्नतम् \।
 
 वक्त्रम् अङ्गुलषट्केन तत्रास्यं त्र्यङ्गुलं स्मृतम् \।\।
@@ -34335,8 +27121,6 @@ MS.
 पौ. सं.
 
 ४२.१३४ \।\।
-
-
 
 मेखलोपरितो ज्ञेया त्र्यङ्गुला कमलोद्भव \।
 
@@ -34346,8 +27130,6 @@ MS.
 
 ४२.१३५ \।\।
 
-
-
 फलैश्च विविधैश्चैव सह संपूर्य वै मृदा \।
 
 आकोट्य खादिरैः काष्ठैः प्रबलैर् अम्बुसञ्चिताः \।\।
@@ -34355,8 +27137,6 @@ MS.
 पौ. सं.
 
 ४२.१३६ \।\।
-
-
 
 पूरणार्थम् अशेषात् तु कृत्वा खातं तु साधकम् \।
 
@@ -34366,8 +27146,6 @@ MS.
 
 ४२.१३७ \।\।
 
-
-
 भूषयेच्च ध्वजैर् अन्यैर् वैजयन्तीः समुत्क्षिपेत् \।
 
 शोभयेत् कदलीपूर्वैर् द्रुमाङ्गैः पावनैर् दृढैः \।\।
@@ -34375,8 +27153,6 @@ MS.
 पौ. सं.
 
 ४२.१३८ \।\।
-
-
 
 वस्त्रैः पूर्णघटैः पुष्पैः कौशेयैर् मञ्जरीगणैः \।
 
@@ -34386,8 +27162,6 @@ MS.
 
 ४२.१३९ \।\।
 
-
-
 लग्ने स्थिरे स्थिरांशे च परिशुद्धे गुणान्विते \।
 
 प्रासादाङ्घ्रिप्रतिष्ठार्थं कर्ता वै भगवन्मयः \।\।
@@ -34395,8 +27169,6 @@ MS.
 पौ. सं.
 
 ४२.१४० \।\।
-
-
 
 कृताह्निको द्विजेन्द्राद्यैर् देशिकेन समन्वितः \।
 
@@ -34406,8 +27178,6 @@ MS.
 
 ४२.१४१ \।\।
 
-
-
 वन्दिवृन्दसमोपेतैर् गीयमानैश्च मङ्गलैः \।
 
 सामऋग्यजुपूर्वास्तु प्रशस्ताः पाठयेच्छ्रुतीः \।\।
@@ -34415,8 +27185,6 @@ MS.
 पौ. सं.
 
 ४२.१४२ \।\।
-
-
 
 सहसंभृतसंभारक्ष्माकृतं क्ष्मामलं विशेत् \।
 
@@ -34426,8 +27194,6 @@ MS.
 
 ४२.१४३ \।\।
 
-
-
 अथाष्टाक्षरपूर्वैस्तु मन्त्रैः श्रुतिमयैः सह \।
 
 पादार्घ्यपञ्चगव्यं तु कृत्वाभ्यर्च्य द्विजोत्तमम् \।\।
@@ -34435,8 +27201,6 @@ MS.
 पौ. सं.
 
 ४२.१४४ \।\।
-
-
 
 स्थपतिश्चार्घ्यपुष्पाद्यैः प्रवर्तेत सुकर्मणि \।
 
@@ -34446,8 +27210,6 @@ MS.
 
 ४२.१४५ \।\।
 
-
-
 गायत्रीसामपूर्वं च कनिक्रन्दम् उदीर्य च \।
 
 एवम् ओङ्कारपूर्वं च कर्माकरम्भम् अनन्तरम् \।\।
@@ -34455,8 +27217,6 @@ MS.
 पौ. सं.
 
 ४२.१४६ \।\।
-
-
 
 पठेद् एकायनं पश्चात् शिवसंकल्पम् एव च \।
 
@@ -34466,8 +27226,6 @@ MS.
 
 ४२.१४७ \।\।
 
-
-
 भद्रश्रीसाम सामज्ञः शताद्यौ कृत्यधर्मवित् \।
 
 विभज्य पूर्ववत् क्षेत्रं पवित्रीकृत्य सांप्रतम् \।\।
@@ -34475,8 +27233,6 @@ MS.
 पौ. सं.
 
 ४२.१४८ \।\।
-
-
 
 पवित्रमन्त्रैर् अखिलैर् वैदिकैः पाञ्चरात्रिकैः \।
 
@@ -34486,8 +27242,6 @@ MS.
 
 ४२.१४९ \।\।
 
-
-
 मण्डलं पार्थिवे पीठे विनिवर्त्य चतुः समे \।
 
 अशुभं सर्वतोभद्रं वश्यागारद्वयान्वितम् \।\।
@@ -34495,8 +27249,6 @@ MS.
 पौ. सं.
 
 ४२.१५० \।\।
-
-
 
 भद्रपीठासनस्थं च सोदकं च घटद्वयम् \।
 
@@ -34506,8 +27258,6 @@ MS.
 
 ४२.१५१ \।\।
 
-
-
 द्वादशाक्षरमन्त्रेण भगवान् पुरुषोत्तमः \।
 
 श्रुत्युक्तैर् मन्त्रमुख्यैस्तु तदस्त्रपरके घटे \।\।
@@ -34515,8 +27265,6 @@ MS.
 पौ. सं.
 
 ४२.१५२ \।\।
-
-
 
 मन्त्रैर् हेतीशलिङ्गैस्तु चतुर्वेदसमुत्थितैः \।
 
@@ -34526,8 +27274,6 @@ MS.
 
 ४२.१५३ \।\।
 
-
-
 अवतार्य बहिः कुर्यात् पूजनं प्राग्यथोदितम् \।
 
 पूर्णाहुतिं विनाग्नौ तु तर्पयित्वा यथाविधि \।\।
@@ -34535,8 +27281,6 @@ MS.
 पौ. सं.
 
 ४२.१५४ \।\।
-
-
 
 यजेद् वास्तु नराद्यं वै सुरसङ्घं तदङ्गकम् \।
 
@@ -34546,8 +27290,6 @@ MS.
 
 ४२.१५५ \।\।
 
-
-
 तिलानाम् आज्यसिक्तानाम् आज्यस्य तदनन्तरम् \।
 
 सामरैर् वास्तुलिङ्गैस्तु मन्त्रैर् देवव्रतादिकैः \।\।
@@ -34555,8 +27297,6 @@ MS.
 पौ. सं.
 
 ४२.१५६ \।\।
-
-
 
 सुसमं कलशानां तु नवकं त्वथ धातुजम् \।
 
@@ -34566,8 +27306,6 @@ MS.
 
 ४२.१५७ \।\।
 
-
-
 शैलजं मृन्मयोत्थं वा सुपक्वं सुदृढं शुमम् \।
 
 भृङ्गारतुल्यम् अष्टाश्रं शङ्खाकारं तु वोच्छ्रितम् \।\।
@@ -34575,8 +27313,6 @@ MS.
 पौ. सं.
 
 ४२.१५८ \।\।
-
-
 
 वलिहीनं विरक्तास्यं द्रव्याणां ग्रहलक्षणम् \।
 
@@ -34586,8 +27322,6 @@ MS.
 
 ४२.१५९ \।\।
 
-
-
 अधिवास्याम्बरच्छन्नान् सद्यो वान्ये ऽहनि द्विज \।
 
 क्रमशः पूरयेद् द्रव्यैस्तल्लिङ्गैः श्रुतिसंपठैः \।\।
@@ -34595,8 +27329,6 @@ MS.
 पौ. सं.
 
 ४२.१६० \।\।
-
-
 
 गायत्र्याष्टाक्षरेणैव द्वादशाक्षरविद्यया \।
 
@@ -34606,8 +27338,6 @@ MS.
 
 ४२.१६१ \।\।
 
-
-
 धातुभिश्चाखिलैर् धान्यैर् अथान्यैः पारतादिकैः \।
 
 सिद्धार्थकान्वितैर् बीजैर् धान्यैर् नीवारपूर्वकैः \।\।
@@ -34615,8 +27345,6 @@ MS.
 पौ. सं.
 
 ४२.१६२ \।\।
-
-
 
 कर्पूरमलयक्षोदकुङ्कुमागरुमिश्रितैः \।
 
@@ -34626,8 +27354,6 @@ MS.
 
 ४२.१६३ \।\।
 
-
-
 एवं संपूज्य संस्कृत्य चतुर्णां मध्यतो न्यसेत् \।
 
 पद्मासनगतां लक्ष्मीं निधिभिः परिवारिताम् \।\।
@@ -34635,8 +27361,6 @@ MS.
 पौ. सं.
 
 ४२.१६४ \।\।
-
-
 
 चतुर्णाम् अथ चान्येषां रत्नराट् कौस्तुभाभिधः \।
 
@@ -34646,8 +27370,6 @@ MS.
 
 ४२.१६५ \।\।
 
-
-
 भगवान् सर्वशक्त्यात्मा एकस्मिन् परिचिन्तयेत् \।
 
 षडक्षरेण मन्त्रेण निष्कलं शब्दविग्रहम् \।\।
@@ -34655,8 +27377,6 @@ MS.
 पौ. सं.
 
 ४२.१६६ \।\।
-
-
 
 ब्राह्मं चतुष्पदं क्षेत्रं नयेद् अष्टच्छदात्मना \।
 
@@ -34666,8 +27386,6 @@ MS.
 
 ४२.१६७ \।\।
 
-
-
 रत्नकुंभचतुष्कं तु दिक्चक्रेष्वष्टदिक्षु च \।
 
 प्रादक्षिव्येन प्राग्भागान् मन्त्रान् वा लौकिकान् द्विज \।\।
@@ -34675,8 +27393,6 @@ MS.
 पौ. सं.
 
 ४२.१६८ \।\।
-
-
 
 लक्ष्यं कुम्भचतुष्कं यद् ईशाद् वायुपदावधि \।
 
@@ -34686,8 +27402,6 @@ MS.
 
 ४२.१६९ \।\।
 
-
-
 चतुष्कं हृदयाद्यं वै रत्नकुंभगतं यजेत् \।
 
 चतुर्णां मन्त्रम् एकं तु श्रीकुम्भानां तु पूजयेत् \।\।
@@ -34695,8 +27409,6 @@ MS.
 पौ. सं.
 
 ४२.१७० \।\।
-
-
 
 पुरतो नेत्रमन्त्रैस्तु मध्यकुम्भे च तस्य च \।
 
@@ -34706,8 +27418,6 @@ MS.
 
 ४२.१७१ \।\।
 
-
-
 विधाननवकं दद्यात् ताम्रं वा शैलजं समम् \।
 
 सुवृत्तं चतुरश्रं वा सुधनं द्वादशाङ्गुलम् \।\।
@@ -34715,8 +27425,6 @@ MS.
 पौ. सं.
 
 ४२.१७२ \।\।
-
-
 
 चतुश्शक्तिनिरुद्धं च तत्र मध्यगते धटे \।
 
@@ -34726,8 +27434,6 @@ MS.
 
 ४२.१७३ \।\।
 
-
-
 प्रभासा वैश्वरी दिक्षु ज्ञानशक्त्यामृता च सा \।
 
 विदिग्घटसमूहे तु स्मरेद् आनन्दलक्षणा \।\।
@@ -34735,8 +27441,6 @@ MS.
 पौ. सं.
 
 ४२.१७४ \।\।
-
-
 
 क्रियाख्या याच्युती शक्तिः शुद्धा शक्तस्य जन्मदा \।
 
@@ -34746,8 +27450,6 @@ MS.
 
 ४२.१७५ \।\।
 
-
-
 निधीनां निधिनाथानां मन्त्रं साङ्गं यजेत् ततः \।
 
 मुद्रां प्रदर्शयेत् मान्त्रीं सर्वसामर्थ्यलक्षणाम् \।\।
@@ -34755,8 +27457,6 @@ MS.
 पौ. सं.
 
 ४२.१७६ \।\।
-
-
 
 द्वादशाक्षरमन्त्रेण जप्तव्यं च समाचरेत् \।
 
@@ -34766,8 +27466,6 @@ MS.
 
 ४२.१७७ \।\।
 
-
-
 यजुर्ज्ञं त्वथ सञ्चोद्य युज्यतेति च यद्यजुः \।
 
 ऋचं च पौरुषं सूक्तं सामज्ञो विष्णुसंहिताम् \।\।
@@ -34775,8 +27473,6 @@ MS.
 पौ. सं.
 
 ४२.१७८ \।\।
-
-
 
 अथर्वायेति षट्पाद्य द्विजम् एकायनं ततः \।
 
@@ -34786,8 +27482,6 @@ MS.
 
 ४२.१७९ \।\।
 
-
-
 नमस्कारसमोपेतं ततः साम रथन्तरम् \।
 
 आहुत्वा (हा) हर्षपूर्वं वै ऋन्वेदं समुदीरयेत् \।\।
@@ -34795,8 +27489,6 @@ MS.
 पौ. सं.
 
 ४२.१८० \।\।
-
-
 
 प्रतिष्ठासीति वै साम सामज्ञो ऽथ उदीरयेत् \।
 
@@ -34806,8 +27498,6 @@ MS.
 
 ४२.१८१ \।\।
 
-
-
 आपाद्यम् अथ सर्वेषां सुधालेपेन चैव हि \।
 
 दिगष्टकं मुद्रणीयं क्षेत्रं शक्त्यष्टकेन तु \।\।
@@ -34815,8 +27505,6 @@ MS.
 पौ. सं.
 
 ४२.१८२ \।\।
-
-
 
 शिलान्तः सन्निरोधेन शिलानामसमास्तु वा \।
 
@@ -34826,8 +27514,6 @@ MS.
 
 ४२.१८३ \।\।
 
-
-
 स्नानाद्यैः संस्कृतं पूर्वं वासस्त्रग्वर्णभूषिता \।
 
 रत्नाष्टकासनस्था च अष्टानां च सुविन्यसेत् \।\।
@@ -34835,8 +27521,6 @@ MS.
 पौ. सं.
 
 ४२.१८४ \।\।
-
-
 
 मन्त्रम् अक्षरभेदेन प्रणवाद्यन्तणं तु वै \।
 
@@ -34846,8 +27530,6 @@ MS.
 
 ४२.१८५ \।\।
 
-
-
 प्रणवेन स्वनाम्ना च नमो ऽन्तेन महामते \।
 
 बलवीर्यवती नित्या अनन्ताख्या स्थिरा ध्रुवा \।\।
@@ -34855,8 +27537,6 @@ MS.
 पौ. सं.
 
 ४२.१८६ \।\।
-
-
 
 सन्ध्याख्या धृतिसंज्ञा च स्थितिर्नाम्ना द्विजाष्टमी \।
 
@@ -34866,8 +27546,6 @@ MS.
 
 ४२.१८७ \।\।
 
-
-
 हये च विद्या ऋक्सूक्ता ब्रूयाद् एकायनं ततः \।
 
 यदिवायो सवेत्यादिव हुत्वैवं कमलोद्भव \।\।
@@ -34875,8 +27553,6 @@ MS.
 पौ. सं.
 
 ४२.१८८ \।\।
-
-
 
 दत्त्वा पूर्णाहुतिं ब्रूयात् मन्त्रम् आश्राविकं हि यत् \।
 
@@ -34886,8 +27562,6 @@ MS.
 
 ४२.१८९ \।\।
 
-
-
 न्यस्तश्रियादिकैर् नाममन्त्रैः सर्वैः समन्वितम् \।
 
 एषां बुद्धिः सप्तधेति मन्त्रम् एकायनं पठन् \।\।
@@ -34895,8 +27569,6 @@ MS.
 पौ. सं.
 
 ४२.१९० \।\।
-
-
 
 दद्याद् आहुतिकं सर्वं कर्मणां पूरणाय च \।
 
@@ -34906,8 +27578,6 @@ MS.
 
 ४२.१९१ \।\।
 
-
-
 अनुकल्पमतो वक्ष्ये सर्वेषां च हितावहम् \।
 
 एतस्मिन् कलशे सर्वम् अन्यक्षेत्रगणार्चितम् \।\।
@@ -34915,8 +27585,6 @@ MS.
 पौ. सं.
 
 ४२.१९२ \।\।
-
-
 
 मन्त्रव्यूहं यथोक्तं च स्थलगोपलगं न्यसेत् \।
 
@@ -34926,8 +27594,6 @@ MS.
 
 ४२.१९३ \।\।
 
-
-
 निवेश्य मध्यतस्तस्मिन् दद्यात् कोशं सुधादिकम् \।
 
 वर्णकैः कुंकुमाद्यैस्तु तत्रोर्ध्वे ऽब्जं लिखेत् ततः \।\।
@@ -34935,8 +27601,6 @@ MS.
 पौ. सं.
 
 ४२.१९४ \।\।
-
-
 
 भूभागं खातशेषं यत् समन्तात् समतां नयेत् \।
 
@@ -34946,8 +27610,6 @@ MS.
 
 ४२.१९५ \।\।
 
-
-
 पञ्चरङ्गेण सूत्रेण शङ्कुभिर् याज्ञिकैर् दृढैः \।
 
 अस्त्रमन्त्रेण मन्त्रज्ञो जीमूतम् अथ संपठेत् \।\।
@@ -34955,8 +27617,6 @@ MS.
 पौ. सं.
 
 ४२.१९६ \।\।
-
-
 
 चतुः स्त्रक्चन्दनोपेतां बलिं वै साच्च कामिकीम् \।
 
@@ -34966,8 +27626,6 @@ MS.
 
 ४२.१९७ \।\।
 
-
-
 द्वादशाक्षरमन्त्रेण त्रिस्थानस्थं च मन्त्रराट् \।
 
 क्षान्त्वा तदोपसंहृत्य प्राग्वदर्चनपूर्वकम् \।\।
@@ -34975,8 +27633,6 @@ MS.
 पौ. सं.
 
 ४२.१९८ \।\।
-
-
 
 सांसारीनां बहिर्यावद् आचरेत् स्थपतिं पुनः \।
 
@@ -34986,8 +27642,6 @@ MS.
 
 ४२.१९९ \।\।
 
-
-
 दद्याद् द्विजेन्द्रपूर्वाणाम् अशनं दक्षिणादिकम् \।
 
 अन्येषाम् अर्थिनाम् अन्नं धनदानं स्वशक्तितः \।\।
@@ -34995,8 +27649,6 @@ MS.
 पौ. सं.
 
 ४२.२०० \।\।
-
-
 
 नानादेशवशाच्चैव कुर्याद् एवं गृहासनम् \।
 
@@ -35008,37 +27660,17 @@ MS.
 
 ध्वजासनावसानं च विभज्य स्वधिया ततः \।
 
-
-
 इति श्रीपाञ्चरात्रे महोपनिषदि पौष्करसंहितायां प्रासादस्य पादप्रतिष्ठा नाम द्विचत्वारिंशो ऽध्यायः \।\।
-
-
 
 (
 
 समुदित श्लोकसंख्या २०१)
 
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
-
-
 
 अथ त्रिचत्वारिंशो ऽध्यायः
 
-
-
-
-
 श्रीभगवानुवाच ---
-
-
 
 प्रासादावासतः कोणे समारभ्य यथारुचि \।
 
@@ -35048,8 +27680,6 @@ MS.
 
 ४३.१ \।\।
 
-
-
 ग्रहिकासप्रतोलीकं केवलं वामरान्वितम् \।
 
 प्रासादे तु चतुद्वारे चतुर्मूर्तिर् अलंकृते \।\।
@@ -35057,8 +27687,6 @@ MS.
 पौ. सं.
 
 ४३.२ \।\।
-
-
 
 द्विद्विकं तु प्रतोलीनां दिक्षु प्राकारगं हितम् \।
 
@@ -35070,8 +27698,6 @@ MS.
 
 ४३.३ \।\।
 
-
-
 एकरूपं हि वा नानालक्षणं भगवद्वशात् \।
 
 यथाभिमतमानं च प्रासादाभासमात्रकम् \।\।
@@ -35079,8 +27705,6 @@ MS.
 पौ. सं.
 
 ४३.४ \।\।
-
-
 
 पक्वेष्ठकाश्मदारुत्थं तत्र कोणचतुष्टये \।
 
@@ -35090,8 +27714,6 @@ MS.
 
 ४३.५ \।\।
 
-
-
 परस्परमुखं कुर्याद् द्वारोद्देशद्वये ततः \।
 
 सान्तरं दिक्त्रये कुर्यात् प्रासादानां द्विकं द्विकम् \।\।
@@ -35099,8 +27721,6 @@ MS.
 पौ. सं.
 
 ४३.६ \।\।
-
-
 
 सपीठाद् देवमानाच्च द्वारोच्छ्रायम् उदाहृतम् \।
 
@@ -35110,8 +27730,6 @@ MS.
 
 ४३.७ \।\।
 
-
-
 नानाहृस्वप्रमाणानां पीठेनोन्नतिमानयेत् \।
 
 वैतत्येनोन्नतत्त्वेन लक्षणानियमोज्झितम् \।\।
@@ -35119,8 +27737,6 @@ MS.
 पौ. सं.
 
 ४३.८ \।\।
-
-
 
 द्वारं सुखप्रवेशं च संकटानां गुणावहम् \।
 
@@ -35130,8 +27746,6 @@ MS.
 
 ४३.९ \।\।
 
-
-
 विस्तारायामयोश्चैव आदायाङ्गुलसन्ततिम् \।
 
 शुभाय ऋक्षलाभार्थं गुणयेच्च परस्परम् \।\।
@@ -35139,8 +27753,6 @@ MS.
 पौ. सं.
 
 ४३.१० \।\।
-
-
 
 शोधयेद् वाथ लाभार्थं मुष्टिभिश्चाङ्गुलिस्थितिः \।
 
@@ -35150,8 +27762,6 @@ MS.
 
 ४३.११ \।\।
 
-
-
 ध्वजशार्दूलवृषभगजेन्द्राः क्रमशो हि ते \।
 
 एवं नक्षत्रलाभार्थं शोभयेत् तां स्थितिं पुनः \।\।
@@ -35159,8 +27769,6 @@ MS.
 पौ. सं.
 
 ४३.१२ \।\।
-
-
 
 आदेकात् सप्तविंशान्तं शेषान्तं हृष्टम् आचरेत् \।
 
@@ -35170,8 +27778,6 @@ MS.
 
 ४३.१३ \।\।
 
-
-
 नूनम् अङ्गुलराशैर् वै शुभऋक्षाय सिद्धये \।
 
 विचार्यैवं पुरा सम्यक् कुर्याद् भूमिसुरालयम् \।\।
@@ -35179,8 +27785,6 @@ MS.
 पौ. सं.
 
 ४३.१४ \।\।
-
-
 
 शयनासन आसीनः सुपर्णस्थस्य वा विभोः \।
 
@@ -35190,8 +27794,6 @@ MS.
 
 ४३.१५ \।\।
 
-
-
 उपविष्टं तु याम्यायां पश्चिमे या दिगुत्थितम् \।
 
 उदग्दिग्दक्षिणद्वारे प्रासादे गरुडासनम् \।\।
@@ -35199,8 +27801,6 @@ MS.
 पौ. सं.
 
 ४३.१६ \।\।
-
-
 
 चतुष्टयं चतुर्णां तु कोणानां यत् प्रकीर्तितम् \।
 
@@ -35210,8 +27810,6 @@ MS.
 
 ४३.१७ \।\।
 
-
-
 स्वबोधपरिमाणेन सत्त्वेनाभिमतेन च \।
 
 कलासक्ता इयत्ताख्याः परिच्छेदवशात् स्मृतम् \।\।
@@ -35219,8 +27817,6 @@ MS.
 पौ. सं.
 
 ४३.१८ \।\।
-
-
 
 तम् आस्थापनसंज्ञं च विशेषं कमलोद्भव \।
 
@@ -35230,8 +27826,6 @@ MS.
 
 ४३.१९ \।\।
 
-
-
 उद्वर्तनाभ्यञ्जनेन मृद्भूतिगोमयादिना \।
 
 शिल्पिदोषोपशमने स्नानमात्रे कृते सति \।\।
@@ -35239,8 +27833,6 @@ MS.
 पौ. सं.
 
 ४३.२० \।\।
-
-
 
 निष्पन्ने नेत्रदाने तु स्नाने संपादिते परे \।
 
@@ -35250,8 +27842,6 @@ MS.
 
 ४३.२१ \।\।
 
-
-
 निवेशनेन मन्त्रं यद् विविधं सांप्रतं कृतम् \।
 
 त्रितये चैकतां प्राप्ते वज्रलेपेन पौष्कर \।\।
@@ -35259,8 +27849,6 @@ MS.
 पौ. सं.
 
 ४३.२२ \।\।
-
-
 
 प्रोक्ते लग्नोदये मन्त्रन्यासम् आचरणात् तु वै \।
 
@@ -35270,8 +27858,6 @@ MS.
 
 ४३.२३ \।\।
 
-
-
 प्रासादान्तरभित्तीनां लिखितं वाम्बरादिके \।
 
 सिध्यर्थं साधकेन्द्रैस्तु सिद्धिकालावधिं तु वै \।\।
@@ -35279,8 +27865,6 @@ MS.
 पौ. सं.
 
 ४३.२४ \।\।
-
-
 
 चलबिम्बस्य यन्मन्त्रं न्यासं वै सासनस्य च \।
 
@@ -35290,8 +27874,6 @@ MS.
 
 ४३.२५ \।\।
 
-
-
 तं विप्र चलनाख्यं तु स्थितिस्थापनम् एव च \।
 
 क्ष्माभङ्गैर् जलपूर्वैस्तु दोषैर्या चातिदूषिता \।\।
@@ -35299,8 +27881,6 @@ MS.
 पौ. सं.
 
 ४३.२६ \।\।
-
-
 
 उद्धृत्य योजनान्यत्र स्थाने तु शुभलक्षणे \।
 
@@ -35310,8 +27890,6 @@ MS.
 
 ४३.२७ \।\।
 
-
-
 विद्युत्प्रपातपूर्वैस्तु दोषैर्या चाभिदूषिता \।
 
 तदुत्थानकृते शश्वन्निर्देषे चासने स्थितिम् \।\।
@@ -35319,8 +27897,6 @@ MS.
 पौ. सं.
 
 ४३.२८ \।\।
-
-
 
 तत्समा लक्षणाढ्या च प्रतिमान्या महामते (हे) \।
 
@@ -35332,8 +27908,6 @@ MS.
 
 ४३.२९ \।\।
 
-
-
 बोद्धव्यं तद् विशेषं च स्थापनोत्थापनं तु वै \।
 
 ज्ञानसङ्घोज्झितत्वाच्च एकदिक्सममीक्षणात् \।\।
@@ -35341,8 +27915,6 @@ MS.
 पौ. सं.
 
 ४३.३० \।\।
-
-
 
 प्राधान्येनाथ दिक्चक्रं स्वगात्रैर् इह वासनात् \।
 
@@ -35352,8 +27924,6 @@ MS.
 
 ४३.३१ \।\।
 
-
-
 प्रतिष्ठाख्यविशेषाश्च बहवः सर्वसिद्धिदाः \।
 
 सामान्यसन्निवेशाच्च तद् विशेषगुणात् तु वै \।\।
@@ -35361,8 +27931,6 @@ MS.
 पौ. सं.
 
 ४३.३२ \।\।
-
-
 
 स्थितं चाक्षरया शुद्ध्या सामान्यार्च्चा फलार्थिनाम् \।
 
@@ -35372,8 +27940,6 @@ MS.
 
 ४३.३३ \।\।
 
-
-
 चातुरात्म्यप्रतिष्ठा च ज्ञानं यच्छति शाश्वतम् \।
 
 यत्प्राप्य न पुनर्जन्म पुनरेवाप्नुयान्नरः \।\।
@@ -35381,8 +27947,6 @@ MS.
 पौ. सं.
 
 ४३.३४ \।\।
-
-
 
 फलकामस्तु यः कुर्याच्चतुर्मूर्तिनिवेशनम् \।
 
@@ -35392,8 +27956,6 @@ MS.
 
 ४३.३५ \।\।
 
-
-
 पैतृकं मातृकं चैव जायाख्यं सप्तसंख्यकम् \।
 
 कुलम् उद्धरते तस्मिन् जन्मप्राप्तौ क्षितौ पुनः \।\।
@@ -35401,8 +27963,6 @@ MS.
 पौ. सं.
 
 ४३.३६ \।\।
-
-
 
 धर्मोपेतां हरेर् भक्तिम् आश्रय (त्य)
 
@@ -35416,8 +27976,6 @@ MS.
 
 ४३.३७ \।\।
 
-
-
 समुत्तरति वै येन घोरात् संसारसंकटात् \।
 
 रूपम् आद्यप्रतिष्ठाया इत्युक्तं द्विजसत्तम \।\।
@@ -35425,8 +27983,6 @@ MS.
 पौ. सं.
 
 ४३.३८ \।\।
-
-
 
 विशेषसन्निवेशेभ्यस्त्विदानीम् अवधारय \।
 
@@ -35436,8 +27992,6 @@ MS.
 
 ४३.३९ \।\।
 
-
-
 जन्मासाद्य समुत्कृष्टम् आचरेत् पुनरेव हि \।
 
 दैवी ब्रह्मप्रतिष्ठाद्या या परस्मिन् हि जन्मनि \।\।
@@ -35445,8 +27999,6 @@ MS.
 पौ. सं.
 
 ४३.४० \।\।
-
-
 
 प्राग्वद् यच्छति विज्ञानं परमेशपदाप्तिगम् \।
 
@@ -35456,8 +28008,6 @@ MS.
 
 ४३.४१ \।\।
 
-
-
 यज्ञोत्तमस्य दिव्यस्य सफलस्याब्जसंभव \।
 
 अच्युतस्याविनाशस्य भवक्षयकरस्य च \।\।
@@ -35465,8 +28015,6 @@ MS.
 पौ. सं.
 
 ४३.४२ \।\।
-
-
 
 भेदं यद् वस्तुमात्रेण स्थितं तद् अवधारय \।
 
@@ -35476,8 +28024,6 @@ MS.
 
 ४३.४३ \।\।
 
-
-
 आदीक्षितानां प्राग्विप्र भीतानां मरणादिके \।
 
 व्यवहारस्थितानां च प्रतिष्ठाद्या महामते \।\।
@@ -35485,8 +28031,6 @@ MS.
 पौ. सं.
 
 ४३.४४ \।\।
-
-
 
 निर्वर्जिताः प्रयच्छन्ति फलमुक्तं हि यन्मया \।
 
@@ -35496,8 +28040,6 @@ MS.
 
 ४३.४५ \।\।
 
-
-
 भक्त्या प्राप्ताधिकाराणां नित्यं आराधनं प्रति \।
 
 सम्यक्समाधिनिष्ठानाम् इह जन्मैकशेषिणाम् \।\।
@@ -35505,8 +28047,6 @@ MS.
 पौ. सं.
 
 ४३.४६ \।\।
-
-
 
 विकल्पक्षीणचित्तानां प्रतिष्ठा विहिताब्जज \।
 
@@ -35516,8 +28056,6 @@ MS.
 
 ४३.४७ \।\।
 
-
-
 यावज्जीवावधिं कालं तेषाम् आस्थापनं तु वै \।
 
 विहितं परितोषार्थं बुद्धेर् बुद्धिमतां वर \।\।
@@ -35525,8 +28063,6 @@ MS.
 पौ. सं.
 
 ४३.४८ \।\।
-
-
 
 ज्ञात्वैवं धर्मलब्धेन धनेन च बलेन च \।
 
@@ -35536,8 +28072,6 @@ MS.
 
 ४३.४९ \।\।
 
-
-
 विश्वावासपदावासं दक्षिणाननम् आस्थितम् \।
 
 पीठस्थम् उपविष्टं च प्राग्द्वारे निरृते गृहे \।\।
@@ -35545,8 +28079,6 @@ MS.
 पौ. सं.
 
 ४३.५० \।\।
-
-
 
 एवं खगेशपृष्ठस्थं वायुदिङ्मन्दिरे हितम् \।
 
@@ -35556,8 +28088,6 @@ MS.
 
 ४३.५१ \।\।
 
-
-
 प्रजापतित्वम् आपन्ना उक्तदिग्विनिवेशनात् \।
 
 स्थितिं त्रिविष्टपादीनाम् उपरिष्टात् तु शाश्वतीम् \।\।
@@ -35565,8 +28095,6 @@ MS.
 पौ. सं.
 
 ४३.५२ \।\।
-
-
 
 विहायसगतिं दिव्यां यानगात् प्राप्यते पुमान् \।
 
@@ -35576,8 +28104,6 @@ MS.
 
 ४३.५३ \।\।
 
-
-
 फलदिक्संस्थिताः सर्वे नगराणां फलार्थिनाम् \।
 
 उत्कृष्टजन्मूपर्वं तु जन्म चात्मप्रकाशकम् \।\।
@@ -35585,8 +28111,6 @@ MS.
 पौ. सं.
 
 ४३.५४ \।\।
-
-
 
 तद् विद्धि भवशान्त्यर्थम् अचिराद् एव पद्मज \।
 
@@ -35596,8 +28120,6 @@ MS.
 
 ४३.५५ \।\।
 
-
-
 नृसिंहकपिलक्रोडमूर्तयो वा महामते \।
 
 प्राग्वद्विदिक्चतुष्केषु चतुर्णां विहितं क्रमात् \।\।
@@ -35605,8 +28127,6 @@ MS.
 पौ. सं.
 
 ४३.५६ \।\।
-
-
 
 वाजिवक्त्रं तु मुक्तानां सिंहादीनां निवेशनम् \।
 
@@ -35616,8 +28136,6 @@ MS.
 
 ४३.५७ \।\।
 
-
-
 मीनवामननाथानां देवानां प्राक्फलाप्तये \।
 
 विदिक्षु विनियोक्तव्यं यथोद्दिष्टक्रमेण तु \।\।
@@ -35625,8 +28143,6 @@ MS.
 पौ. सं.
 
 ४३.५८ \।\।
-
-
 
 त्रिवित्रमकुठारास्त्रकरं कान्तावपुर्धरम् \।
 
@@ -35636,8 +28152,6 @@ MS.
 
 ४३.५९ \।\।
 
-
-
 एतावद् उक्तनियमम् अतो ऽन्ये ये ऽखिलास्तु वै \।
 
 प्रादुर्भावान्तराश्चैव प्रादुर्भावाब्जसंभव \।\।
@@ -35645,8 +28159,6 @@ MS.
 पौ. सं.
 
 ४३.६० \।\।
-
-
 
 गुरूणां संमतेनैष योक्तव्यं नान्ययाजकैः \।
 
@@ -35656,8 +28168,6 @@ MS.
 
 ४३.६१ \।\।
 
-
-
 द्वाराग्रे मण्डपाभासं सोपानपदवीयुतम् \।
 
 वेदीविभूषितं कुर्यात् स्थितम् आराधनाश्रयम् \।\।
@@ -35665,8 +28175,6 @@ MS.
 पौ. सं.
 
 ४३.६२ \।\।
-
-
 
 भोगानां स्थितये ऽन्येषां वातवृष्टिक्षमं शुभम् \।
 
@@ -35676,8 +28184,6 @@ MS.
 
 ४३.६३ \।\।
 
-
-
 पञ्चानां वा नवानां च एकस्मिन् वा घटोदके \।
 
 सर्वरत्नमयोपेते न्यस्तं यत्परमेश्वरम् \।\।
@@ -35685,8 +28191,6 @@ MS.
 पौ. सं.
 
 ४३.६४ \।\।
-
-
 
 आङ्गं सलाञ्छनं मान्त्रं परिवारसमन्वितम् \।
 
@@ -35696,8 +28200,6 @@ MS.
 
 ४३.६५ \।\।
 
-
-
 मन्त्रबिम्बप्रतिष्ठार्थं कालविघ्नोपशान्तये \।
 
 अन्यथा जायते विघ्नम् अनिवार्यं महामते \।\।
@@ -35705,8 +28207,6 @@ MS.
 पौ. सं.
 
 ४३.६६ \।\।
-
-
 
 गच्छन्ति सन्निधिं मन्त्रा नित्यं त्रैकाल्यम् अर्चनात् \।
 
@@ -35716,8 +28216,6 @@ MS.
 
 ४३.६७ \।\।
 
-
-
 पदानि प्राङ्कणे चैव देवानां विनिवेशने \।
 
 उक्तानि पद्मसंभूत इदानीम् अवधारय \।\।
@@ -35726,8 +28224,6 @@ MS.
 
 ४३.६८ \।\।
 
-
-
 मध्यदेशे तु तद्भूमेः प्रासादे ऽभिमते तते \।
 
 सन्निवेशवशेनैव नानासंज्ञावसंस्थितः \।\।
@@ -35735,8 +28231,6 @@ MS.
 पौ. सं.
 
 ४३.६९ \।\।
-
-
 
 पीठब्रह्मवशास्थानस्त (म्भ) म्ब 
 
@@ -35750,8 +28244,6 @@ MS.
 
 ४३.७० \।\।
 
-
-
 बोद्धव्यं सा प्रतिष्ठा च दिग्व्यूहपरिपूरकी \।
 
 धृतिशक्तिस्वरूपेण अमूर्तेनात्ययात्मना \।\।
@@ -35760,8 +28252,6 @@ MS.
 
 ४३.७१ \।\।
 
-
-
 स्थितये प्रक्रियार्थं च ब्रह्मपाषाणताम्रता \।
 
 सर्वं ब्रह्मशिलानिष्ठम् आक्षितेः कमलोद्भव \।\।
@@ -35769,8 +28259,6 @@ MS.
 पौ. सं.
 
 ४३.७२ \।\।
-
-
 
 व्याप्तमामूलतश्चैव तेनामूर्तेन वै पुनः \।
 
@@ -35782,8 +28270,6 @@ MS.
 
 ४३.७३ \।\।
 
-
-
 एकस्याच्युतबीजस्य भिन्नेषु प्रतिवस्तुषु \।
 
 संस्थिता स्थितिर् अच्छिन्ना सा प्रतिष्ठित एव हि \।\।
@@ -35791,8 +28277,6 @@ MS.
 पौ. सं.
 
 ४३.७४ \।\।
-
-
 
 भिन्नानां व्यूहमूर्तीनां केवला (द्य) खिलस्य च \।
 
@@ -35802,8 +28286,6 @@ MS.
 
 ४३.७५ \।\।
 
-
-
 एकस्मिन् विश्वपीठे तु स्थितिरेकस्य चेच्छया \।
 
 प्रतिष्ठाख्यं विशेषं तत् स्थापनं समुदाहृतम् \।\।
@@ -35811,8 +28293,6 @@ MS.
 पौ. सं.
 
 ४३.७६ \।\।
-
-
 
 चिच्छक्तिम् अनुविद्धं च अव्यक्तं तत्त्वसंग्रहम् \।
 
@@ -35822,8 +28302,6 @@ MS.
 
 ४३.७७ \।\।
 
-
-
 बिम्बसंस्कारकाले तु अधिवासाभिधे द्विज \।
 
 अचलत्वेन सन्मन्त्रं चलभावनया पुनः \।\।
@@ -35831,8 +28309,6 @@ MS.
 पौ. सं.
 
 ४३.७८ \।\।
-
-
 
 साङ्गं सलाञ्छनं चैव कृत्वा अभिमतं तु वै \।
 
@@ -35842,8 +28318,6 @@ MS.
 
 ४३.७९ \।\।
 
-
-
 समाहरेत् कृतार्थत्वान्नित्यं कालान्तरेण वा \।
 
 सदाख्यम् अपरं तत्त्व .................... \।\।
@@ -35851,8 +28325,6 @@ MS.
 पौ. सं.
 
 ४३.८० \।\।
-
-
 
 नानासंज्ञं तथा नानाप्रमाणं तद्वदेव हि \।
 
@@ -35862,8 +28334,6 @@ MS.
 
 ४३.८१ \।\।
 
-
-
 बह्वीभिर्भूमिकाभिस्तु चित्रिताभिर् अलंकृतम् \।
 
 आपादभूमेरण्डान्तम् अनुरूपं च यत्त्रयम् \।\।
@@ -35871,8 +28341,6 @@ MS.
 पौ. सं.
 
 ४३.८२ \।\।
-
-
 
 उत्तरोत्तरतः कुर्याद् भूर्भुवस्वादिकोत्थितैः \।
 
@@ -35882,8 +28350,6 @@ MS.
 
 ४३.८३ \।\।
 
-
-
 नगैन्द्रैर् नागराजैस्तु सुशुभैर् नलिनीवनैः \।
 
 मुरजशृङ्खलाबद्धैर् दिव्यैर् नानालतागृहैः \।\।
@@ -35891,8 +28357,6 @@ MS.
 पौ. सं.
 
 ४३.८४ \।\।
-
-
 
 पुरुजाद्यैर् जलोद्भूतैः प्राणिजालैस्तथैव हि \।
 
@@ -35902,8 +28366,6 @@ MS.
 
 ४३.८५ \।\।
 
-
-
 वारणाः शबराश्चैव हंसपद्मसमाश्रितैः \।
 
 शङ्खस्वस्तिककह्लारपूर्वैर् अन्यैस्तु वारिजैः \।\।
@@ -35911,8 +28373,6 @@ MS.
 पौ. सं.
 
 ४३.८६ \।\।
-
-
 
 नन्दिकैः केसरै रम्यैः शतपत्रवद् उत्थितैः \।
 
@@ -35922,8 +28382,6 @@ MS.
 
 ४३.८७ \।\।
 
-
-
 भूमिगाभूमिगैः सर्वैः समुद्रैः सरितान्वितैः \।
 
 नवोपकरणैर् देवैश्चन्द्रार्कज्वलनादिकैः \।\।
@@ -35931,8 +28389,6 @@ MS.
 पौ. सं.
 
 ४३.८८ \।\।
-
-
 
 प्रादुर्भावान्तरैर् द्विव्यैः प्रादुर्भावसमन्वितैः \।
 
@@ -35944,8 +28400,6 @@ MS.
 
 ४३.८९ \।\।
 
-
-
 महर्जनस्तपःसत्यलोकनाथैर् महाप्रभैः \।
 
 ध्यानमौनपरैर् ब्रह्मन् वह्निदेवयुतैर् द्विजैः \।\।
@@ -35953,8 +28407,6 @@ MS.
 पौ. सं.
 
 ४३.९० \।\।
-
-
 
 इत्येवम् आदिकैश्चान्यैर् जङ्घास्तम्भवतीः शुभाः \।
 
@@ -35964,8 +28416,6 @@ MS.
 
 ४३.९१ \।\।
 
-
-
 गर्भगृहाम्बरमध्यात् कुर्याच्चक्राम्बुजाङ्कितम् \।
 
 पितामहाद्यैर् विबुधैः सिद्धविद्याधरैः सह \।\।
@@ -35973,8 +28423,6 @@ MS.
 पौ. सं.
 
 ४३.९२ \।\।
-
-
 
 पुष्पजपमालाधरैः प्रह्वैश्चामरैर् व्यजनोद्धतैः \।
 
@@ -35984,8 +28432,6 @@ MS.
 
 ४३.९३ \।\।
 
-
-
 खगेशवेदवेदाङ्गैर् अक्षसूत्रकराङ्कितैः \।
 
 आवार्यावरकत्वेन चक्रपद्माद्बहिः स्थितैः \।\।
@@ -35993,8 +28439,6 @@ MS.
 पौ. सं.
 
 ४३.९४ \।\।
-
-
 
 अन्तर्भित्तिगणं सर्वदेवदैत्यादिकैर्गणैः \।
 
@@ -36004,8 +28448,6 @@ MS.
 
 ४३.९५ \।\।
 
-
-
 प्रणवेन स्वनाम्ना च नतिनिष्ठेन तत्र वै \।
 
 सन्निरोध्य च तन्मन्त्रं भूलोकं पादमाक्षिति \।\।
@@ -36013,8 +28455,6 @@ MS.
 पौ. सं.
 
 ४३.९६ \।\।
-
-
 
 एवं प्रासादपीठे तु भुवर्लोकं यथास्थितम् \।
 
@@ -36024,8 +28464,6 @@ MS.
 
 ४३.९७ \।\।
 
-
-
 स्तम्भं च तलपं चैव चरणं जङ्घमेव च \।
 
 स्थानं स्थूणं च पादं च पर्यायवचनास्त्विमे \।\।
@@ -36033,8 +28471,6 @@ MS.
 पौ. सं.
 
 ४३.९८ \।\।
-
-
 
 जनर्लोकं च तद् वेद्यांतस्तपःसंज्ञं 
 
@@ -36046,8 +28482,6 @@ MS.
 
 ४३.९९ \।\।
 
-
-
 भावयेच्च परां व्याप्तिमेव वै साप्तलौकिकीम् \।
 
 भुवनोर्ध्वमयीं विप्र प्रासादे ऽभिमते तु वै \।\।
@@ -36055,8 +28489,6 @@ MS.
 पौ. सं.
 
 ४३.१०० \।\।
-
-
 
 अनुविद्धं पादपाद्यैर् अन्यैस्वत्तास्वरूपकैः \।
 
@@ -36066,8 +28498,6 @@ MS.
 
 ४३.१०१ \।\।
 
-
-
 भूर्लोकांशं विना ब्रह्मंस्तथान्यैर् उज्झितं हि तत् \।
 
 रजस्तमोमहत्त्वाच्च ईषत् सत्त्वगुणात् तु वै \।\।
@@ -36075,8 +28505,6 @@ MS.
 पौ. सं.
 
 ४३.१०२ \।\।
-
-
 
 सत्त्वैकगुणरूपाणाम् अन्येषाम् अत एव हि \।
 
@@ -36086,8 +28514,6 @@ MS.
 
 ४३.१०३ \।\।
 
-
-
 कूर्मब्रह्मात्मसंज्ञायां शिखायां च पदत्रयम् \।
 
 न्यस्तव्यं जाग्रदाद्यं यद् रत्नन्यासे कृते सति \।\।
@@ -36095,8 +28521,6 @@ MS.
 पौ. सं.
 
 ४३.१०४ \।\।
-
-
 
 तुर्यब्रह्मपदोपेतं मन्त्राध्वप्रतिमासने \।
 
@@ -36106,8 +28530,6 @@ MS.
 
 ४३.१०५ \।\।
 
-
-
 आनाभेमूर्धपर्यन्तं कलाध्वं भावयेत् ततः \।
 
 तद् ब्रह्मरन्ध्रकमले मन्त्रब्रह्मतलक्षितौ \।\।
@@ -36115,8 +28537,6 @@ MS.
 पौ. सं.
 
 ४३.१०६ \।\।
-
-
 
 कर्णिकायां परं ब्रह्म सामान्यं शाश्वतं विभुम् \।
 
@@ -36126,8 +28546,6 @@ MS.
 
 ४३.१०७ \।\।
 
-
-
 प्रासादानां तु सा सिद्धिः शिखान्तानां महामते \।
 
 प्रतिमानां सपीठानां साधिभूतादिलक्षणम् \।\।
@@ -36135,8 +28553,6 @@ MS.
 पौ. सं.
 
 ४३.१०८ \।\।
-
-
 
 तत्राध्यात्मं हि भगवान् मूर्तं शान्तं मम आच्युतम् \।
 
@@ -36146,8 +28562,6 @@ MS.
 
 ४३.१०९ \।\।
 
-
-
 अधिभूतं द्विजाव्यक्तं सर्वतत्त्वमयं हि तत् \।
 
 विद्याकलादिकैश्चान्यैः परार्थैर (खि) लैः सह \।\।
@@ -36155,8 +28569,6 @@ MS.
 पौ. सं.
 
 ४३.११० \।\।
-
-
 
 सबीजे विलये यद्वत् सुसूक्ष्माद्यैर् व्यवस्थितः \।
 
@@ -36166,8 +28578,6 @@ MS.
 
 ४३.१११ \।\।
 
-
-
 तद्वत्प्रासाददेहे तु ते देवाधिष्ठिते स्मृताः \।
 
 सर्वशक्तिमये विप्र शुद्धं सत्सत्त्वलक्षणैः \।\।
@@ -36175,8 +28585,6 @@ MS.
 पौ. सं.
 
 ४३.११२ \।\।
-
-
 
 यथोपचाद् विहितं मन्त्रं सर्वेश्वराद् विभोः \।
 
@@ -36186,8 +28594,6 @@ MS.
 
 ४३.११३ \।\।
 
-
-
 मन्त्रमूर्तेस्तथा विद्धि उपचारात् तु तद्गृहम् \।
 
 संस्कृतस्य त्वतो यत्नात् सपीठस्य यथाविधि \।\।
@@ -36195,8 +28601,6 @@ MS.
 पौ. सं.
 
 ४३.११४ \।\।
-
-
 
 देववत् स्थापनं तस्य विहितं सत्त्वजस्य च \।
 
@@ -36206,8 +28610,6 @@ MS.
 
 ४३.११५ \।\।
 
-
-
 प्रासादस्य च पीठं तत् परिज्ञेयं यदात्मकम् \।
 
 एकीभूतत्वम् आपन्नं सुधालेपैस्तु सायसैः \।\।
@@ -36215,8 +28617,6 @@ MS.
 पौ. सं.
 
 ४३.११६ \।\।
-
-
 
 पक्वेष्टकासमेतैश्च स्थिरमृच्चोपलैस्तथा \।
 
@@ -36226,8 +28626,6 @@ MS.
 
 ४३.११७ \।\।
 
-
-
 रञ्जितं रागजालेन फलं यच्छति शाश्वतम् \।
 
 जीर्णत्वाच्च कृतं भूयः स्वयंव्यक्तादिभिर्द्विज \।\।
@@ -36235,8 +28633,6 @@ MS.
 पौ. सं.
 
 ४३.११८ \।\।
-
-
 
 आकारेष्वाच्युतीयेषु विविधेष्वर्चितेषु च \।
 
@@ -36246,8 +28642,6 @@ MS.
 
 ४३.११९ \।\।
 
-
-
 तोयाशयेशया वृक्षा क्षेत्रं पुष्करमादियत् \।
 
 पौनःपुन्येन सद्भक्तैः कृतदुष्कृतशान्तये \।\।
@@ -36255,8 +28649,6 @@ MS.
 पौ. सं.
 
 ४३.१२० \।\।
-
-
 
 अनाद्यज्ञानसंसर्गात् कालह्रासवशाद् अपि \।
 
@@ -36266,8 +28658,6 @@ MS.
 
 ४३.१२१ \।\।
 
-
-
 देहान्ते यान्ति ते स्वर्गं राज्यदोषैर् अनावृताः \।
 
 कालेनेत्य पुनः स्वर्गात् ज्ञानम् आसाद्य निर्मलम् \।\।
@@ -36275,8 +28665,6 @@ MS.
 पौ. सं.
 
 ४३.१२२ \।\।
-
-
 
 येन सांसारिकं दुःखं दुःसहं नाशमेति च \।
 
@@ -36286,8 +28674,6 @@ MS.
 
 ४३.१२३ \।\।
 
-
-
 सवित्तानां च भक्तानां नृपाणाम् अपि पद्मज \।
 
 सर्वाध्वभावनोपेतम् आस्तां तावत् सुरालयम् \।\।
@@ -36295,8 +28681,6 @@ MS.
 पौ. सं.
 
 ४३.१२४ \।\।
-
-
 
 भुवनाध्वमयीं व्याप्तिम् आपादयति केवलात् \।
 
@@ -36306,8 +28690,6 @@ MS.
 
 ४३.१२५ \।\।
 
-
-
 लक्ष्म्या लक्षणयुक्तस्य स्थपतेरशठस्य च \।
 
 प्रागुक्तं लभते कर्ता सुसंपूर्णफलं द्विज \।\।
@@ -36315,8 +28697,6 @@ MS.
 पौ. सं.
 
 ४३.१२६ \।\।
-
-
 
 प्रासादानाममन्त्रं तु स्वयं शिल्पिकरात् तु वै \।
 
@@ -36326,8 +28706,6 @@ MS.
 
 ४३.१२७ \।\।
 
-
-
 फलं सर्वस्वदानाद् वा लभते विधिपूर्वकात् \।
 
 मृदा दार्विष्टकाद्यैस्तु स्वल्पं वा मध्यमं महत् \।\।
@@ -36335,8 +28713,6 @@ MS.
 पौ. सं.
 
 ४३.१२८ \।\।
-
-
 
 प्रमाणलक्षणोपेतं सुराकीर्णं सुरालयम् \।
 
@@ -36346,8 +28722,6 @@ MS.
 
 ४३.१२९ \।\।
 
-
-
 दिग्विदिक्सान्तराद् बाह्याद् युक्तं प्रस्थापितैः परैः \।
 
 विभवव्यूहसंज्ञैस्तु प्रादुर्भावान्तरास्तु वा \।\।
@@ -36355,8 +28729,6 @@ MS.
 पौ. सं.
 
 ४३.१३० \।\।
-
-
 
 अवनीचलनाद्यैस्तु दोषैः संचालितं यदि \।
 
@@ -36366,8 +28738,6 @@ MS.
 
 ४३.१३१ \।\।
 
-
-
 कुर्याद् यथावद् उद्धारं गुरूणां संमतेन तु \।
 
 राजा वा तद् अमात्यो ऽन्यः सद्भक्तश्च नृपाज्ञनया \।\।
@@ -36375,8 +28745,6 @@ MS.
 पौ. सं.
 
 ४३.१३२ \।\।
-
-
 
 व्रतार्चनादिकार्याणां लब्ध्वानुज्ञां परां विभोः \।
 
@@ -36386,8 +28754,6 @@ MS.
 
 ४३.१३३ \।\।
 
-
-
 द्वादशाक्षरमन्त्रेण स्वर्गेशं भगवान् हरिः \।
 
 अयुतं त्वयुतार्धं च शतम् अर्धाधिकं तु वा \।\।
@@ -36395,8 +28761,6 @@ MS.
 पौ. सं.
 
 ४३.१३४ \।\।
-
-
 
 अथानुकूले नक्षत्रे नृपस्य नगरस्य च \।
 
@@ -36406,8 +28770,6 @@ MS.
 
 ४३.१३५ \।\।
 
-
-
 त्रैगुण्यं यच्छते हस्तम् अर्चयित्वा यथाविधि \।
 
 तर्पयित्वा च देहान्ते समिद्भिर्बहुभिः क्रमात् \।\।
@@ -36415,8 +28777,6 @@ MS.
 पौ. सं.
 
 ४३.१३६ \।\।
-
-
 
 भुवनाध्वमयं शक्तिर्व्यक्तिसङ्घं यथोदितम् \।
 
@@ -36426,8 +28786,6 @@ MS.
 
 ४३.१३७ \।\।
 
-
-
 तर्पयित्वार्चयित्वा च साधिभूताधिकं तु वै \।
 
 भूतशक्तिगणं तद्वत् सुसूक्ष्मम् अपरं हि यत् \।\।
@@ -36435,8 +28793,6 @@ MS.
 पौ. सं.
 
 ४३.१३८ \।\।
-
-
 
 देवपीठालयं विप्र रुद्धं कुर्याद् यथाक्रमम् \।
 
@@ -36446,8 +28802,6 @@ MS.
 
 ४३.१३९ \।\।
 
-
-
 प्रणवाद्यैर् नमो ऽन्तैश्च व्यक्तिस्थं पुनरेव हि \।
 
 प्रातिमं रक्ष भगवन् मन्त्रवृन्दं हि चाध्वजम् \।\।
@@ -36455,8 +28809,6 @@ MS.
 पौ. सं.
 
 ४३.१४० \।\।
-
-
 
 उदुम्बरार्धमानस्थं दिग्विदिग्भूमिकं हि यत् \।
 
@@ -36466,8 +28818,6 @@ MS.
 
 ४३.१४१ \।\।
 
-
-
 सम्यक् तदपरिज्ञानाद् अनुसन्धानम् आचरेत् \।
 
 तद् उत्थापनकाले तु कृतन्यासस्तु सांप्रतम् \।\।
@@ -36475,8 +28825,6 @@ MS.
 पौ. सं.
 
 ४३.१४२ \।\।
-
-
 
 उपोद्धरणलिङ्गैश्च साष्टाङ्गैर् वेदिकैस्तथा \।
 
@@ -36486,8 +28834,6 @@ MS.
 
 ४३.१४३ \।\।
 
-
-
 सुसंमते ऽर्चिते कुंभे हेमाद्यैर् मूर्तिके तु वा \।
 
 निरोध्योदकसंपूर्णे पूजयेत् प्रत्यहं ततः \।\।
@@ -36495,8 +28841,6 @@ MS.
 पौ. सं.
 
 ४३.१४४ \।\।
-
-
 
 संपन्नोत्पत्तये सम्यगवतार्य यथोद्धृतात् \।
 
@@ -36506,8 +28850,6 @@ MS.
 
 ४३.१४५ \।\।
 
-
-
 नृपेन्द्रराष्ट्रस्थानानां गोद्विजानां च वृद्धये \।
 
 यत्पदप्राप्तये शश्वत् सखिलस्याखिलस्य च \।\।
@@ -36515,8 +28857,6 @@ MS.
 पौ. सं.
 
 ४३.१४६ \।\।
-
-
 
 प्रासादप्रतिमानां च एवम् उत्थापनं द्विज \।
 
@@ -36526,8 +28866,6 @@ MS.
 
 ४३.१४७ \।\।
 
-
-
 जायते शुभशान्त्यर्थम् इहलोके परत्र च \।
 
 अतो ऽन्यथा महान् दोषो भवेद् वै पद्मसंभव \।\।
@@ -36535,8 +28873,6 @@ MS.
 पौ. सं.
 
 ४३.१४८ \।\।
-
-
 
 प्रासादग्राहिकानां च बहिश्चाभ्यन्तरे तु वा \।
 
@@ -36546,8 +28882,6 @@ MS.
 
 ४३.१४९ \।\।
 
-
-
 प्राग्वन्न्यस्तस्वमन्त्राणां समाहरणम् आचरेत् \।
 
 मणिना सूर्यकान्तेन आदित्याद् अनलं यथा \।\।
@@ -36555,8 +28889,6 @@ MS.
 पौ. सं.
 
 ४३.१५० \।\।
-
-
 
 समाहृतेषु मन्त्रेषु चाल्यमानेषु पौष्कर \।
 
@@ -36566,8 +28898,6 @@ MS.
 
 ४३.१५१ \।\।
 
-
-
 प्राक्तनेनैव पापेन प्रायश्चित्तं चरेत् तदा \।
 
 चित्तप्रसादजनकं कीर्तिशर्मकरं तु वै \।\।
@@ -36575,8 +28905,6 @@ MS.
 पौ. सं.
 
 ४३.१५२ \।\।
-
-
 
 तत्रैकरात्रपूर्वं तु त्रिरात्रं षडहन्तु वै \।
 
@@ -36586,8 +28914,6 @@ MS.
 
 ४३.१५३ \।\।
 
-
-
 स्नानादिहवनान्तेन कर्मणावहितेन (तु) च \।
 
 तिलानि सहिरण्यानि दानं सरजतानि च \।\।
@@ -36595,8 +28921,6 @@ MS.
 पौ. सं.
 
 ४३.१५४ \।\।
-
-
 
 शान्तिपूर्वं द्विजेन्द्राणां साज्यक्षीरोदनादिकम् \।
 
@@ -36606,8 +28930,6 @@ MS.
 
 ४३.१५५ \।\।
 
-
-
 सदानमेवं निर्वर्त्य व्रतं वै देशिकादिजम् \।
 
 वसेद् आश्रित्य वै क्षेत्रं प्रसिद्धं सिद्धसेवितम् \।\।
@@ -36615,8 +28937,6 @@ MS.
 पौ. सं.
 
 ४३.१५६ \।\।
-
-
 
 सुप्रसिद्धं तु वा तीर्थम् एकाहं वा दिनत्रयम् \।
 
@@ -36626,8 +28946,6 @@ MS.
 
 ४३.१५७ \।\।
 
-
-
 कालं मुहूर्तसंज्ञं यत् प्रतिसन्ध्यात्रयं तु वै \।
 
 पूर्णम् आयतने कुर्याद् दिव्ये वा सिद्धसंज्ञके \।\।
@@ -36635,8 +28953,6 @@ MS.
 पौ. सं.
 
 ४३.१५८ \।\।
-
-
 
 सति वै भक्तिसाम्ये तु प्रायश्चित्तम् इदं स्मृतम् \।
 
@@ -36646,8 +28962,6 @@ MS.
 
 ४३.१५९ \।\।
 
-
-
 उत्तरोत्तरम् आधिक्यं जपकर्मणि वै स्मृतम् \।
 
 शूद्रविट्क्षत्रविप्राणां भक्तानां नान्ययाजिनाम् \।\।
@@ -36655,8 +28969,6 @@ MS.
 पौ. सं.
 
 ४३.१६० \।\।
-
-
 
 उक्तं ह्येतत् प्रकाशे तु अथ यावत्प्रसन्नताम् \।
 
@@ -36666,8 +28978,6 @@ MS.
 
 ४३.१६१ \।\।
 
-
-
 यावत्प्रसादम् आयाति स्वबुद्धिर् मनसा सह \।
 
 अप्रकाशे द्विषट्कार्णं मन्त्रम् अष्टाक्षरं हि यत् \।\।
@@ -36675,8 +28985,6 @@ MS.
 पौ. सं.
 
 ४३.१६२ \।\।
-
-
 
 षडक्षरं द्विजश्रेष्ठ क्रमात् सन्ध्यात्रयं तु वै \।
 
@@ -36686,8 +28994,6 @@ MS.
 
 ४३.१६३ \।\।
 
-
-
 त्रिमन्त्रसहितां शक्त्या स्नानकाले त्वनन्यधीः \।
 
 अष्टार्णमुक्तसंख्यं तु प्रातर्मध्ये दिनक्षये \।\।
@@ -36695,8 +29001,6 @@ MS.
 पौ. सं.
 
 ४३.१६४ \।\।
-
-
 
 देशकालं तु वै कुर्यात् प्रतिस्नानं तु वै सकृत् \।
 
@@ -36706,8 +29010,6 @@ MS.
 
 ४३.१६५ \।\।
 
-
-
 जघनान्तमधःकायं संप्रक्षाल्यामृताम्भसा \।
 
 अधोवासः परित्यज्य शुभम् आदाय चाम्बरम् \।\।
@@ -36715,8 +29017,6 @@ MS.
 पौ. सं.
 
 ४३.१६६ \।\।
-
-
 
 दिनत्रयं च षडहमष्टाहो द्वादशाह्विकम् \।
 
@@ -36726,8 +29026,6 @@ MS.
 
 ४३.१६७ \।\।
 
-
-
 क्रमम् एतन्महाबुद्धे मनसः शुद्धिकारणम् \।
 
 फलेनानुगतं भूयो विध्यन्तरम् अथोच्यते \।\।
@@ -36735,8 +29033,6 @@ MS.
 पौ. सं.
 
 ४३.१६८ \।\।
-
-
 
 संक्षिप्तं सर्वसामान्यं यथाभिमतभूमिकम् \।
 
@@ -36746,8 +29042,6 @@ MS.
 
 ४३.१६९ \।\।
 
-
-
 उत्तरोत्तरपूर्वाभ्यां न्यूनं न्यूनतरावधि \।
 
 भागैस्त्रिदशपर्यन्तैर् भक्तैः पञ्चशतादिकैः \।\।
@@ -36755,8 +29049,6 @@ MS.
 पौ. सं.
 
 ४३.१७० \।\।
-
-
 
 भित्तय्ॐऽशद्वयेनैव पञ्चाङ्गाद् अन्तरं तु हि \।
 
@@ -36766,8 +29058,6 @@ MS.
 
 ४३.१७१ \।\।
 
-
-
 विद्धि षट्करमानस्य भूभागस्य च कल्पना \।
 
 अष्टमांशोज्झितैर् भागैर् गर्भं सप्तपदं तु वै \।\।
@@ -36775,8 +29065,6 @@ MS.
 पौ. सं.
 
 ४३.१७२ \।\।
-
-
 
 परिज्ञेयं चतुर्भिर्वै तच्छिष्टैर् भित्तय्ॐऽशकैः \।
 
@@ -36786,8 +29074,6 @@ MS.
 
 ४३.१७३ \।\।
 
-
-
 भागत्रयेन सार्धेन भित्तिव्यूहं समापयेत् \।
 
 साङ्गं पञ्चकरं गर्भक्षेत्रं नवपदात् तु वै \।\।
@@ -36795,8 +29081,6 @@ MS.
 पौ. सं.
 
 ४३.१७४ \।\।
-
-
 
 शेषेण करसङ्घेन भित्तयः परिकीर्तिताः \।
 
@@ -36806,8 +29090,6 @@ MS.
 
 ४३.१७५ \।\।
 
-
-
 करद्विद्वितयेनैव भित्तिसङ्घं विधीयते \।
 
 एकादशकरक्षेत्रात् गर्भं सार्धं च षट्करम् \।\।
@@ -36815,8 +29097,6 @@ MS.
 पौ. सं.
 
 ४३.१७६ \।\।
-
-
 
 सार्धं चतुःकरं चैव भित्तिमानम् उदाहृतम् \।
 
@@ -36826,8 +29106,6 @@ MS.
 
 ४३.१७७ \।\।
 
-
-
 देवालयं परिज्ञेयं पादोनैकं चतुष्करैः \।
 
 विधेया भित्तयश्चैव विभज्यैवं तमेव हि \।\।
@@ -36835,8 +29113,6 @@ MS.
 पौ. सं.
 
 ४३.१७८ \।\।
-
-
 
 कृत्वा त्रयोदशांशैस्तु फलदीभित्तय्ॐऽशकैः \।
 
@@ -36846,8 +29122,6 @@ MS.
 
 ४३.१७९ \।\।
 
-
-
 शुभापचय सिद्धिम् आपाद्य व्द्यङ्गुलेनाङ्गुलेन वा \।
 
 एषां प्रसादगर्भांशभित्तिभ्यां पातयेन्मनः \।\।
@@ -36855,8 +29129,6 @@ MS.
 पौ. सं.
 
 ४३.१८० \।\।
-
-
 
 मानाधिकं विनिक्षेप्य क्षेत्राणां च निपातयेत् \।
 
@@ -36866,8 +29138,6 @@ MS.
 
 ४३.१८१ \।\।
 
-
-
 मता वृद्धिकरी नॄणां वृद्धिपातम् अशोभनम् \।
 
 समानीयं हि यत्नेन महता तच्च पौष्कर \।\।
@@ -36875,8 +29145,6 @@ MS.
 पौ. सं.
 
 ४३.१८२ \।\।
-
-
 
 रचनाभिरूपेतं च विहितं च चतुर्मुखम् \।
 
@@ -36886,8 +29154,6 @@ MS.
 
 ४३.१८३ \।\।
 
-
-
 यथाभिमतदिग्वक्त्रं नानासिद्धिफलाप्तये \।
 
 चिरायुषार्थी प्राग्वक्त्रं यशोर्ऽथी दक्षिणामुखम् \।\।
@@ -36895,8 +29161,6 @@ MS.
 पौ. सं.
 
 ४३.१८४ \।\।
-
-
 
 कुर्यात् प्रत्यङ्मुखं चैव वृत्त्यर्थं च स्वतन्त्रके \।
 
@@ -36906,8 +29170,6 @@ MS.
 
 ४३.१८५ \।\।
 
-
-
 एतावत् उक्तं हि फलमैहलौकिकम् उत्तमम् \।
 
 नानाभोगसमोपेतं सर्वासां विद्धि पौष्कर \।\।
@@ -36915,8 +29177,6 @@ MS.
 पौ. सं.
 
 ४३.१८६ \।\।
-
-
 
 स्वक्षेत्रे वितते रम्ये स्वतन्त्रं स्वाङ्कनक्षितौ \।
 
@@ -36926,8 +29186,6 @@ MS.
 
 ४३.१८७ \।\।
 
-
-
 स्वायम्भुवे वा सिद्धाख्ये मुख्यकल्पम् इदं स्मृतम् \।
 
 अनुकल्पमतो ऽन्यत्र बोद्धव्यं विबुधाङ्कणे \।\।
@@ -36935,8 +29193,6 @@ MS.
 पौ. सं.
 
 ४३.१८८ \।\।
-
-
 
 प्राक्प्रासादध्वजच्छायाविनियुक्ते तते पदे \।
 
@@ -36946,8 +29202,6 @@ MS.
 
 ४३.१८९ \।\।
 
-
-
 तदन्तरे प्रतिष्ठाप्य होमाद्युक्तं हि सोन्नतम् \।
 
 प्रासादद्वारमानैस्तु सपीठं विश्वम् आच्युतम् \।\।
@@ -36955,8 +29209,6 @@ MS.
 पौ. सं.
 
 ४३.१९० \।\।
-
-
 
 संपूर्णं लक्षणैः सर्वैरार्णवान्तरकीर्तये \।
 
@@ -36966,8 +29218,6 @@ MS.
 
 ४३.१९१ \।\।
 
-
-
 यदैवैतत्कृता बुद्धिः प्रतिष्ठां पादयाम्यहम् \।
 
 तत्क्षणाद् एव तत्कीर्तिः प्रतिष्ठां लभते ऽच्युताम् \।\।
@@ -36976,8 +29226,6 @@ MS.
 
 ४३.१९२ \।\।
 
-
-
 भूलोकाद्यखिलानां च स्थानानाम् अपि किं पुनः \।
 
 विभवेन जगद्योनेः प्रतिष्ठां यः समाचरेत् \।\।
@@ -36985,8 +29233,6 @@ MS.
 पौ. सं.
 
 ४३.१९३ \।\।
-
-
 
 पित्रासू (दी)
 
@@ -36998,8 +29244,6 @@ MS.
 
 ४३.१९४ \।\।
 
-
-
 अचिरादेव ते यान्ति शश्वदेवान्तकास्पदम् \।
 
 वैष्णवं च परं स्थानं ततः कालान्तरेण तु \।\।
@@ -37007,8 +29251,6 @@ MS.
 पौ. सं.
 
 ४३.१९५ \।\।
-
-
 
 क्षित्यंशं शुभम् आसाद्य कुलशीलादिकैः सह \।
 
@@ -37018,8 +29260,6 @@ MS.
 
 ४३.१९६ \।\।
 
-
-
 कृपया.......नन्तु प्रतिष्ठां यः समाचरेत् \।
 
 जातीनामथवान्येषां तदुत्थं च फलं....... \।\।
@@ -37027,8 +29267,6 @@ MS.
 पौ. सं.
 
 ४३.१९७ \।\।
-
-
 
 प्रविशन्ति च मन्त्रेशाः प्रणवध्वनिसाधिताः \।
 
@@ -37038,8 +29276,6 @@ MS.
 
 ४३.१९८ \।\।
 
-
-
 कृता वै ध्वस्तदोषाश्च निर्विघ्नम् अमलां पुनः \।
 
 निवेशिताः सुसिद्धाद्यैस्तीर्थैः क्षेत्रावनेषु च \।\।
@@ -37047,8 +29283,6 @@ MS.
 पौ. सं.
 
 ४३.१९९ \।\।
-
-
 
 निवारयन्ति ये मोहाद् विभवव्यूहमूर्तिषु \।
 
@@ -37058,8 +29292,6 @@ MS.
 
 ४३.२०० \।\।
 
-
-
 स्मर्तव्या वासुदेवाद्या द्विभेदाः पारमेश्वराः \।
 
 चत्वारश्चानिरुद्धान्ताश्चतुर्व्यूहव्यवस्थया \।\।
@@ -37067,8 +29299,6 @@ MS.
 पौ. सं.
 
 ४३.२०१ \।\।
-
-
 
 एवमन्ये व राहाद्याश्चतुर्व्यूहेन वै सह \।
 
@@ -37078,8 +29308,6 @@ MS.
 
 ४३.२०२ \।\।
 
-
-
 मन्दमन्दतराद् भाववशाद् अमरपूजित \।
 
 एवं यद् अधिकारेण कुर्याद् आराधनं हि यः \।\।
@@ -37088,8 +29316,6 @@ MS.
 
 ४३.२०३ \।\।
 
-
-
 भोगैर् यथोदितैः शुद्धैः क्रियाभिर्विविधैस्ततः \।
 
 निष्पत्तौ तु क्रियाङ्गानां हृदास्त्रार्घ्यं समन्त्रराट् \।\।
@@ -37097,8 +29323,6 @@ MS.
 पौ. सं.
 
 ४३.२०४ \।\।
-
-
 
 नानर्चितं विभोर्भोगं कल्पितं विनिवेद्य च \।
 
@@ -37109,6 +29333,5 @@ MS.
 ४३.२०५ \।\।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 \]

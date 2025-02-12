@@ -16,13 +16,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
        ॥ श्रीरङ्गनाथपरब्रह्मणे नमः॥
 
-           
-
     
-
-
-
-
 
       ॥ प्रथमोऽध्यायः ॥
 
@@ -57,20 +51,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 न लेभेऽभि(सं)मतं सोऽपि तप्त्वा घोरतरं तपः ॥ 7 ॥
 
 शोकेन महताऽऽविष्टो बभूव स मुनिस्तदा।
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ततः शोकार्णवे मग्नं जितक्रोधं जितेन्द्रियम् ॥ 8 ॥
 
@@ -120,22 +100,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 तत्सर्वं विदितं सम्यक् शाण्डिल्यस्य महात्मनः ॥ 19 ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 एवं सकलशास्त्रज्ञः शाण्डिल्यः परमो गुरुः।
 
 आस्ते शिष्यैः परिवृतः स्वाश्रमे श्रमनाशने ॥ 20 ॥
@@ -183,22 +147,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 अब्रवीन्मधुरं वाक्यं कृतार्थोऽसि महामुने!।
 
 भगवान् सुप्रसन्नस्ते सुतप्तं तप उत्तमम् ॥ 31 ॥
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 आदिष्टोऽहं भगवता भवदर्थे तपोनिधे!।
 
@@ -248,22 +196,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 एष एव महान् धर्म आद्यो विप्र! सनातनः।
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 दुर्विज्ञेयो दुष्करश्च सात्वतैर्धार्यते सदा ॥ 43 ॥
 
 चातुरात्म्यपरैर्नित्यं पञ्चकालपरायणैः।
@@ -311,22 +243,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 ततोऽत्र पर्वतश्रेष्ठे तपस्तप्तं मयोत्तमम् ॥ 54 ॥
 
 अनेकानि सहस्राणि वर्षाणां तपसोऽन्ततः।
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 द्वापरस्य युगस्यान्ते आदौ कलियुगस्य च ॥ 55 ॥
 
@@ -376,22 +292,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 मोक्षश्च सूचितः पश्चादत्रोक्तश्च यथातथम्।
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 अश्वमेधादयो यज्ञा अधिकृत्याच्युतं हरिम् ॥ 67 ॥
 
 यथा क्रियन्ते च तथा द्विषट्‌कार्णपुरस्सरैः।
@@ -440,22 +340,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 ततस्त्रेतायुगे सर्वे नानाकामसमन्विताः।
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 व्यामिश्रयाजिनो भूत्वा त्यजन्त्याद्यं सनातनम् ॥ 79 ॥
 
 अन्तर्दधाति (धर्मो)सर्वोऽयं वासुदेवसमाहृतः।
@@ -503,22 +387,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 उपदिश्य तु दिव्यानि शास्त्राणि तदनन्तरम् ॥ 89 ॥
 
 पारमेश्वरशास्त्राणां सर्वेषां मुनिपुङ्गव!।
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 सारभूतं विशेषेण पौष्करार्थोपपादकम् ॥ 90 ॥
 
@@ -616,12 +484,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 इति श्रीपाञ्चरात्रे पारमेस्वरसंहितायां ज्ञानकाण्डे शास्त्रावतारो नाम 
 
-
            प्रथमोऽध्यायः ॥
 
       \*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
     ॥ श्रीः ॥
 
@@ -1184,8 +1049,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे साधकस्नानविधिर्नाम
 
          द्वितीयोऽध्यायः ॥
-
-
 
        ॥ श्रीः ॥
 
@@ -2113,8 +1976,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे समाधिव्याख्यानं नाम तृतीयोऽध्यायः ॥
 
-
-
     ॥ श्रीः ॥
 
     चतुर्थोऽध्यायः
@@ -2296,8 +2157,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे मन्त्रन्यासविधिर्नाम चतुर्थोऽध्यायः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
     ॥ श्रीः ॥
 
@@ -3038,8 +2897,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे मानसयागो नाम पञ्चमोऽध्यायः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
     ॥ श्रीः ॥
 
@@ -4738,8 +4595,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे बाह्ययागो नाम षष्ठोऽध्यायः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
    ॥ श्रीः ॥
 
@@ -6849,8 +6704,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
     ॥ श्रीः ॥
 
    अष्टमोऽध्यायः
@@ -7739,8 +7592,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
    ॥ श्रीः ॥
 
    नवमोऽध्यायः
@@ -8530,8 +8381,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्‍डे द्वादशकालार्चनकालविभागनिर्णयो नाम नवमोऽध्यायः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
 ॥ श्रीः ॥
 
@@ -10106,8 +9955,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे स्वयंव्यक्तादि प्रासाददेवतानिर्णयो नाम दशमोऽध्यायः समाप्तः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
     ॥ श्रीः ॥
 
@@ -11716,8 +11563,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्‍डे द्वारावरणदेवताध्याननिर्णय, बलिबिम्बादिपतन भङ्ग अङ्गवैकल्य प्रायश्चित्त, दारुजादिबिम्बसमाधानं नाम एकादशोऽध्यायः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
     ॥ श्रीः ॥
 
@@ -14197,8 +14042,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
 ॥ श्रीः ॥
 
 त्रयोदशोऽध्यायः
@@ -15062,8 +14905,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे खापशयनोत्थापनोत्सवबिधिर्नाम त्रयोदशोऽध्यायः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
 ॥ श्रीः ॥
 
@@ -17266,12 +17107,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे स्नपनविधानं नाम चतुर्दशोऽध्यायः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
-
-
-
 
 ॥ श्रीः ॥
 
@@ -21641,8 +21476,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 \*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
     ॥ श्रीः ॥
 
    षोडशोऽध्यायः
@@ -23858,8 +23691,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे देवतावाहनान्तविधानं नाम षोडशोऽध्यायः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
 ॥ श्रीः ॥
 
@@ -26349,8 +26180,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
 ॥ श्रीः ॥
 
 अष्टादशोऽध्यायः
@@ -28134,8 +27963,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे प्रापणादिमान साधननिवेदनादिप्रकारो नाम
 
 अष्टादशोऽध्यायः ॥
-
-
 
 ॥ श्रीः ॥
 
@@ -30533,8 +30360,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
 ॥ श्रीः ॥
 
 ?0?2 विंशोऽध्यायः
@@ -31185,8 +31010,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
 ॥ श्रीः ॥
 
 एकविंशोऽध्यायः
@@ -31382,8 +31205,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे प्रायश्चित्तहिरण्यगर्भविधिर्नाम एकविंशोध्यायः।
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
 ॥ श्रीः ॥
 
@@ -31872,8 +31693,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्‍डे प्रायश्चित्त सम्प्रोक्षण पञ्चगव्त्यस्थापन विधानं नाम द्वाविंशोध्यायः।
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
 ॥ श्रीः ॥
 
@@ -32504,8 +32323,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्डे सुदर्शननृसिंहमहाचन्त्रस्वरूपकथनं नाम त्रयोविंशोध्यायः।
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
 ॥ श्रीः ॥
 
@@ -33147,8 +32964,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
 ॥ श्रीः ॥
 
 पञ्चविंशोऽध्यायः
@@ -33551,8 +33366,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-
-
 ॥ श्रीः ॥
 
 षड्‌विंशोऽध्यायः
@@ -33766,7 +33579,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ5MjkzNTMz
 इति श्रीपाञ्चरात्रे पारमेश्वरसंहितायां क्रियाकाण्‍डे सुदर्शनमहायर्न्त्राचने अग्रिकार्यविधिर्नाम षड्विंशोऽध्यायः ॥
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
 
 \]

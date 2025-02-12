@@ -13,55 +13,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **नारदभक्तिसूत्रम्**
-
-
 
 **प्रस्तुतिः**
 
 **धर्मेन्द्रकुमारसिंहदेवः**
 
-
-
-
-
-
-
 **NARADABHAKTISUTRAM**
-
-
-
-
 
 **E-Text Prepared by**
 
 **Dharmendra Kumar Singhdeo**
 
-
-
-
-
-
-
 **नारदभक्तिसूत्रम्**
-
-
 
 **भक्तेः स्वरूपम्**
 
@@ -78,8 +42,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
  भवति ॥ 5 ।
 
 6. यज्ज्ञात्वा मत्तो भवति, स्तब्धो भवति, आत्मारामो भवति ॥ 6 ।
-
-
 
 **प्रेम्णि अनन्यता**
 
@@ -98,8 +60,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 13. अन्यथा पातित्याशङ्कया ॥ 7 ।
 
 14. लोकोऽपि तावदेव, किन्तु भोजनादिव्यापारस्त्वाशरीरधारणावधि ॥ 8 ।
-
-
 
 **प्रेमरूपायाः भक्तेर्लक्षणानि, उदाहरणानि च**
 
@@ -123,8 +83,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
 24. नास्त्येव तस्मिँस्तत्सुखसुखित्वम् ॥ 10 ।
 
-
-
 **प्रेमरूपायाः भक्तेः फलरूपत्वम्**
 
 25. सा तु कर्मज्ञानयोगेभ्योऽप्यधिकतरा ॥ 1 ।
@@ -145,8 +103,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
 33. तस्मात् सैव ग्राह्या मुमुक्षुभिः ॥ 9 ।
 
-
-
 **भक्तेः साधनानि**
 
 34. तस्याः साधनानि गायन्त्याचार्याः ॥ 1 ।
@@ -159,8 +115,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
 38. मुख्यतस्तु महत्कृपयैव भगवत्कृपालेशाद्वा ॥ 5 ।
 
-
-
 **सत्सङ्गस्य माहात्म्यम्**
 
 39. महत्सङ्गस्तु दुर्लभोऽगम्यऽमोघश्च ॥ 1 ।
@@ -171,8 +125,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
 42. तदेव साध्यतां तदेव साध्यताम् ॥ 4 ।
 
-
-
 **दुःसङ्गस्य त्यागः**
 
 43. दुःसङ्गः सर्वथैव त्याज्यः ॥ 1 ।
@@ -180,8 +132,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 44. काम-क्रोध-मोह-स्मृतिभ्रंश-बुद्धिनाश-सर्वनाशकारणत्वात् ॥ 2 ।
 
 45. तरङ्गयिता अपीमे सङ्गात् समुद्रायन्ति ॥ 3 ।
-
-
 
 **मायां कस्तरति**
 
@@ -199,8 +149,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
 50. स तरति, स तरति, स लोकाँस्तारयति ॥ 5 ।
 
-
-
 **पराभक्तिर्गौणीभक्तिश्च**
 
 51. अनिर्वचनीयं प्रेमस्वरूपम् ॥ 1 ।
@@ -217,8 +165,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
 57. उत्तरस्मादुत्तरस्मात् पूर्वपूर्वा श्रेयाय भवति ॥ 7 ।
 
-
-
 **भक्तेः सौलभ्यं महत्त्वं च**
 
 58. अन्यस्मात् सौलभ्यं भक्तौ ॥ 1 ।
@@ -226,8 +172,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 59. प्रमाणान्तरस्थानपेक्षत्वात् स्वयं प्रमाणत्वात् ॥ 2 ।
 
 60. शान्तिरूपात् परमानन्दरूपाच्च ॥ 3 ।
-
-
 
 **भक्तेः साधनान्यन्तरायाश्च**
 
@@ -240,8 +184,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 64. अभिमान-दम्भादिकं त्याज्यम् ॥ 4 ।
 
 65. तदर्पिताखिलाचारः सन् कामक्रोधाभिमानादिकं तस्मिन्नेव करणीयम् ॥ 5 ।
-
-
 
 **प्रेमिभक्तानां महिमा**
 
@@ -263,15 +205,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
 73. यतस्तदीयाः ॥ 8 ।
 
-
-
 **वाद-विवादरूपा विघ्नाः**
 
 74. वादो नावलम्ब्यः ॥ 1 ।
 
 75. बाहुल्यावकाशत्वादनियतत्वाच्च ॥ 2 ।
-
-
 
 **भक्तेः प्रधानाः सहायकाः**
 
@@ -283,8 +221,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
 79. सर्वदा सर्वभावेन निश्चिन्तितैर्भगवानेव भजनीयः ॥ 4 ।
 
-
-
 **प्रेमभक्तेः फलं भक्तेः सर्वश्रेष्ठता च**
 
 80. स कीर्त्यमानः शीघ्रमेवाविर्भवति अनुभावयति च भक्तान् ॥ 1 ।
@@ -292,7 +228,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 81. त्रिसत्यस्य भक्तिरेव गरीयसी भक्तिरेव गरीयसी ॥ 2 ।
 
 82. गुणमाहात्म्यासक्ति-रूपासक्ति-पूजासक्ति-स्मरणासक्ति-दास्यासक्ति-सख्यासक्ति-
-
 
 कान्तासक्ति-वात्सल्यासक्ति-आत्मनिवेदनासक्ति-तन्मयतासक्ति-परमविरहासक्तिरूपा
 
@@ -306,17 +241,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1ODQ0MzM5Mzc
 
  लभत इति ॥ 5 ।
 
-
-
 **॥ समाप्तमिदं नारदभक्तिसूत्रम् ॥**
-
-
-
-
-
-
-
-
-
 
 \]

@@ -17,23 +17,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIxMDUzNDYzMTg
 
 \[
 
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
-
-
-
-
 
 INTRODUCTION
 
@@ -57,8 +43,6 @@ Authorship and Date of the Cidgagana-candrikā
 -------------------------------------------------------------------------------------------------------------  
 \*Cf. Catalogus Codicum Sanscriticorum (Oxf. ), p. 108.
 
-
-
  Is the author of the Cidgag ana-c andrikā then the same personas the great poet Kālidāsa, the brightest gem of the court ofVikramaditya ? If, after going through Khandana-khanda-khādya, we can recognise a philosopher in Sri Harṣa, the authorof the Naişadhiya, there is nothing to be surprised at if thegreat poet Kālidāsa be found to be the author of a book onTantra. Tradition says that for his supreme devotion to GoddessKāli, he obtained from her the gift of his unparalleled poeticgenius. Now the author of the Cidgagana-candrikā is also knownto be a worshipper of Kāli. In many places of this book, whilespeaking of the glory of devotion, he addressed the Devi as Kāliand introduced himself as Kālīdāsa, the servant of Kāli. Hesays :—
 
 **"केवलं तदनुवर्णनेऽप्युमे त्वन्मुदे तदपि दासजल्पितम् ।"२७२**
@@ -76,8 +60,6 @@ of the second verse of the Cidgagana-candrikā is identical with thelast line of
 'वानरार्थमहागुह्य' श्रीवत्सो विदधे स तु'
 
 suggests that the author was possibly known as Sribatsa,
-
-
 
 (Vījākṣarāni) which endowed him with a ready wit in speakingand versifying. After that he came to be known as aMahākavi and became a devoted worshipper of Kāli.\* ThatKālidāsa was a worshipper of Kāli may be guessed from thecelebrated Stotra Syāmalādaṇḍaka (Kavyamālā, N. S. S.), whichis ascribed to Kālidāsa. In this work he has sung the glory of Matangi who is one of the sixteen-Mahāvidyās.
 
@@ -103,8 +85,6 @@ Indian Antiquary, Vol. XXXIX, 1910.
 काश्मीरकोऽभिनवगुप्तपदाभिधानः श्रीतन्त्रसारमकरोद्जुना क्रमेण।
 
 —तन्त्रसार
-
-
 
 Abhinavagupta composed Bṛhat-pratyabhijñā-vimarsini in 1014A. D. The last two lines of the work throw much light onthis problem.—
 
@@ -135,8 +115,6 @@ Abhinavagupta composed Bṛhat-pratyabhijñā-vimarsini in 1014A. D. The last tw
 
  +Aufrecht: Cut: Cat, P I, P, 99,
 
-
-
 different ages composed by differentunknown authors havebeen wrongly ascribedtohim.Thereisawork onastronomy named Jyotirvidābharana that also passes in hisname. But eminent authorities like Dr. Bhau Dāji and othersare of opinion that this work was written by some later author.The attempt to ascribe this Cidgagana-candrikā also to PoetKālidāsa, seems to have been inspired by some later scribe orscholar who did not think of the chronological discrepanciesinvolved in thematter.
 
 ————
@@ -153,8 +131,6 @@ Critical Estimate of the Work
 
  In the third chapter there is a description of-Upāsanā, Piṭhotpatti, Pithacakra, Pūjāprakāra, Pañcavāhacakra, Kalā, Kuṇḍalitritaya, Sivamurti, Pankti, Divyaugha, Pañcavṛtti, Guruvṛnda,Anandacakra, Prakāśacakra, Vyndacakra, Mantraśakti, Mudrā,Sivarupa, Sünyapada, Srsti, Antacakra, Vṛndacakravyāpti, Nāda,Pañcayoni, Pūrṇaprathā, Khaṇḍacakra, Vyomat attva, etc.
 
-
-
 INTRODUCTION
 
  The fourth chapter deals with saḍadhva, Caṇḍikā, Pūjādravya,Pūjārahasya, Vimarśasvarūpa, Śrutipramāṇa, the sthūla (gross)form of the Devī, Mantraśakti, the different forms of Kāli, Nāda,Sudhāsindhu, Samvitpadma, Māyākarṇ ikā, Prakṛtimayapatra,Pīṭha, Pretāsana, Pūjadhikārin, Kālīsvarūpa, Pañcavāhakrama,Mūrticakra, Turiyapada, Jñāna-sādhana, Caraṇavidyā, Samhārakrama, Mantrapitha, Vyomarupa, Yantra, Navacakra, Guruparamparā, Gurupādukā, Jñānaniṣṭhā, etc.
@@ -167,8 +143,6 @@ INTRODUCTION
 candrikā.
 
  In the prologue of Anuttarāmnāya prakarana (section) ofCidambara Tantra, the name, description and mantra of Kālasankarṣaṇi Kāli alone are given. But most of the forms mentionedabove are unknown in Bengal and southern India.
-
-
 
 INTRODUCTION
 
@@ -188,8 +162,6 @@ members of one particular school, are not known to the membersof another school.
 
 **शारदातिलकटीका २।१**
 
-
-
 INTRODUCTION
 
  a principle, understand fully the significance of Sabda (sound).To grasp fully the underlying secret principles of Upāsanā thatare revealed in this text, one should first of all learn the secretsand technicalities, attaching to this particular school of Tantra,from one who has obtained his knowledge in an unbroken line ofdiscipleship from the author. But unfortunately no such commentary on this work has yet been unearthed.
@@ -203,8 +175,6 @@ CHAPTER III
 Principles of Worship
 
  The Upāsaka should understand two forms of the Upasya(adorable) one-Sthūla (gross) and Süksma (subtle). The Sadhakamay not attain Siddhi (perfection) by worshipping the Sthulaform alone. With Sthula form he shall have to adore the Sükṣmaform also. By worshipping both the forms, the Sādhaka achieveshis desired End. The Saguna Upāsanā of Parabrahman is theSthūla Upāsanā. In Saguņa Upāsanā, the Sādhaka conceivesthe name, form etc., of his adored Diety, according to his owntaste and temperament. As individual tastes of Sadhakas arevaried, so there are various forms of the Upāsyadevatā. Thediversity of the temperament of the Upāsaka is the result of hisKarman or Samskāra of his previous birth. In consequence ofthis, the eternal Spirit of Parabrahman reveals Itself to differentSadhakas in different forms. The essential truth underlyingthe principles of Upāsanā has been mentioned in works dealingwith Upāsanā. The different names and forms, through which thedifferent Sādhakas conceive the Spirit of Parabrahman at thetime of worship, constitute the background of the Sthūla Upāsanā;
-
-
 
 and the contemplation of the identity of the soul of the Sādhakawith that of the Adored Deity is Sūkṣma Upāsanā. This Realisation is the Ultimate Goal of all Upāsanā. Nyāsa, Japa, Pūjā,Homa, Tarpana etc., are the means of attaining this End. Theidentification of the body of the Worshipped Divinity with thatof the worshipper is done through Nyāsa. Japa attributes thedivine spirit of holiness in that abstract body. Pūjā strengthensthe divine thought. By Homa the worldly attraction of theindividual soul is destroyed. By Tarpaṇa the oneness of theworshipper and the Worshipped is finally established. TheUpāsanā, culminating in the unification of the adorer and theAdored is Sūkṣma Upāsanā. The different forms of Upāsanā havebeen detailed in works dealing with Upāsanā.\*
 
@@ -227,8 +197,6 @@ and the contemplation of the identity of the soul of the Sādhakawith that of th
 शक्तिश्चेच्छादिरूपा भवति गुणगणस्याश्रयस्त्वेक एव ॥
 
 —रत्नत्रयपरीक्षा ।
-
-
 
 INTRODUCTION
 
@@ -264,8 +232,6 @@ It is believed that the whole universe does not fall to piecesdue to the preserv
                               
 सायणभाष्यम्-१९/५३/१
 
-
-
 INTRODUCTION
 
 principle of worship, the Agamas and the Vedas agree on this one point at least. Taking into consideration the derivation of the word Kāli, the same idea is confirmed. The expression 'Kāli' hasbeen derived from the word 'Kāla.' The word 'Kala' is derivedfrom the root 'kala' of the 'bhu' class (bhvädigaṇīya) which isoften used in the sense-"to sound and to count."
@@ -275,8 +241,6 @@ principle of worship, the Agamas and the Vedas agree on this one point at least.
 **“क्षेपो ज्ञानञ्च संख्यानं गतिर्नाद इति क्रमात् ”**
 
 The outward manifestation of Ātman is kṣepa. The realisationof the oneness of the universe thus manifested with one's ownself is jñāna. The manifested world consists of categories like thecognising subject (pramātṛ), objects of cognition (prameya)etc.The regulation or restriction in the form-"This is such, andnot not-such," (i. e. a clear-cut connotation of every categoryexperienced) -is called 'vikalpa' (restriction). The attainmentof one's own real nature expelling the distinction between allmanifested categories, such as the cogniser and the object ofcognition etc., is 'gati'. It should be noted in this connexion thatthere is no subject-object relation in this technical type of 'gati'.'Gati' usually means 'prāpti' (attainment). But whenever wesay that one attains something, that something is different fromthe person who gets it. Or, in other words, ONE is the subjectand something (Mat) is the object. This differentiation betweensubject and object is absent in the stage of this ultimate 'gati', as inthe case of the phenomenon of reflection. When the mirror breaks,the reflected figure of the face merges into its original prototypeface (bimba). But for that reason nothing new is attained by thereflection which only gets its own nature. This sort of getting intoone's own true nature is 'gati'. The acquirement of its own natureby the reflecting medium with the withdrawal of the reflectedobject is 'gati' *e. g.*- the acquirement of its own nature on the part
-
-
 
 INTRODUCTION
 
@@ -306,8 +270,6 @@ All those different forms of the Adyā Sakti Kālī mentioned inthe Agamaśāstr
 रुद्रश्च परमार्कश्च मार्त्तण्डञ्च ततः परः॥  
 कालाग्निरुद्रकाली च महाकाल्यभिधा पुनः।”**
 
-
-
 INTRODUCTION
 
 Sṛṣṭi-Kāli, (2) Sthiti-Kāli, (3) Samhāra-Kālī, (4) Rakta-Kāli (5)Sva-Kāli, (also known as Su-Kālī), (6) Yama-Kāli, (7) Mṛtyu-Kālī,(8) Rudra-Kāli (also known as Bhadra-Kāli), (9) Paramārka-Kāli,(10) Mārtaṇḍa-Kāli, (11) Kālāgni-Rudra-Kālī, and (12) Mahā-Kālī(also known as Parā-Kāli, Mahā-Kāla-Kālī, Kāla-Kāli and Kāli).The twelve different forms of Adyā Sakti Kāli are dealt with in theŚrī Sārdhaśatika. If the name of "Mahābhairavaghoracanda-Kāli"be added to the list of the twelve different names and formsof Adya Sakti, the thirteenth variation is obtained. This has beenmentioned in the Tantrarājabhaṭṭāraka.\* The mention of thesixteenth and seventeenth forms of Kāli is obtained in the Tantraloka and the Kramasadbhāvabhaṭṭāraka; but their names ordhyānas are hardly to be found.
@@ -322,8 +284,6 @@ Sṛṣṭi-Kāli, (2) Sthiti-Kāli, (3) Samhāra-Kālī, (4) Rakta-Kāli (5)Sva
 **    स्थितिकाली तथा घोरा ततः संहारकालिका।  
 रक्तकाली चर्वयन्ती रक्तौघमविभेदतः।  
          सुकाली यमकाली च मृत्युकाली भयावहा॥" इत्यादि**
-
-
 
 CHAPTER IV  
 Trika Principles
@@ -341,8 +301,6 @@ Trika Principles
 ----------------------------------------------------------------------------------------------------------------
 
 \* Para Vāk, 'the 'All-transcending Word' that is beyond all objective thought and speechin all their forms, not excluding even the Avyakta, the most germinal of them."
-
-
 
 INTRODUCTION
 
@@ -362,8 +320,6 @@ consist of no less than sixty four systems representing manyaspects of thought m
 
 \* Kashmir Shaivaism-the Kashmir series of Texts and Studies.  
 † See Hindu Realism pp. 5-10, by J. C. Chatterjee. B. A. (Cantab).
-
-
 
 INTRODUCTION
 
@@ -385,8 +341,6 @@ The literature of the Trika system falls into three boarddivisions.
 
  The Caitanya or Parama Siva is the Reality which underlieseverything in the universe, taking one thing at a time and alsocomprehending the universe as a whole. Parama Siva is Eternaland Infinite, beyond the limits of time, space and form. His naturemanifests itself in a two-fold aspect-immanent aspect in whichHe pervades the universe, and (2) a transcendental aspect in whichHe is beyond all universal manifestations. The universe with aninfinite series of variety of objects, and means of experience, isnothing but different manifestations of the immanent aspect of Parama Siva Himself. Sakti (Power) is nothing but this immanent aspect of Parama Siva. Saki is known as His Feminine
 
-
-
 INTRODUCTION
 
 Aspect, and has a large number of modes or forms.\* Of theseIcchā Sakti, Jñāna Sakti, and Kriyā Sakti are the most fundamental and primary ones. "With these five principal aspects ofHis Sakti, of which there is in reality an infinite number of modes,Parama Siva manifests Himself or which is the same thing hemanifests His Sakti-as the universe." And he does this of hisown accord (svecchaya) with no other material than his ownPower and in Himself as the basis of the universe (svabhittau).
@@ -405,8 +359,6 @@ Aspect, and has a large number of modes or forms.\* Of theseIcchā Sakti, Jñān
 **इत्यवं मुख्याभिः ( पञ्चभिः) शक्तिभिर्युक्तोऽपि वस्तुतः इच्छा-ज्ञानक्रियाशक्तियुक्तः.......शिवरूपः**"।"Tantrasāra, Āhn. i.
 
 † For the use of these terms in the above sense, compare Vediepassage**"यथापूर्वमकल्पयत्"**"Reg., V. X. 190. 8. Also see HinduRealism pp. 95-100, 125-128, by J. C. Chatterjee.
-
-
 
 INTRODUCTION
 
@@ -432,8 +384,6 @@ technically called the Tattvas, (lit., thatness or whatness,namely, of everythin
 
 **\* “तस्य भावस्तत्त्वमिति भिन्नानां वर्गाणां वर्गीकरणनिमित्तं यदेकमविभक्तंभाति तत् तत्त्वम्, यथा गिरिवृक्षपुरप्रभृतीनां नदीसरः सागरादीनाञ्च पृथिवीरूपत्वमरूपत्व' चेति” \। Pra. Vi, III, i, 2.**
 
-
-
 INTRODUCTION
 
 or regulation), Vidyā (limited knowledge), Kalā (art i. e. thepower or author of limited creation), Māyā, (the illusive selfforgetting and differentiating Power).
@@ -453,8 +403,6 @@ The Siva-Sakti Tattva
 Parama Siva is all complete in Himself and holds the universeas an 'Amarśaḥ Paranādagarbhaḥ.' This lies as the support of allthat is afterwards expressed in categorical terms of discursivethought and speech. He transcends even this supremely idealuniverse, or in other words, the universal experience. All complete in Himself, He is both the transcending Reality, Bliss andConsciousness as well as the One All-pervading Supreme Experience. There is hardly any need of a universal manifestation nor isthere any feeling of want. But for the existence of the universeHe exerts His Sakti which manifests itself. This manifestation ofHis Sakti follows from the principle of Negation which as thecommentary onParamārthasāra_notes is ( **'निषेधव्यापाररूपा'** )  
 *'Nisedhavyapärarupā.'*
 
-
-
 INTRODUCTION
 
   Pratyabhijñānahrdaya speaks of the manifestation of HisSakti as follows:—
@@ -464,8 +412,6 @@ INTRODUCTION
 After the manifestation He allows the universe to vanish, as ifby magic, from His view and then there is a feeling of want of auniverse in Him. But there should hardly be any feeling of thewant of a manifested world in Him, as He is all complete in Himself. At this stage He is nothing more or less than Parama Sivain all essentials. But the experience of the ideal Universe is nomore to be found in Him, and consequently His immanent aspectas pervading the universe is eliminated, and He does no longerfeel as one and identical with Himself. When the experienceof the supremely ideal universe is eliminated, the Siva Tattvabecomes the pure self-luminous Consciousness (Cinmātra or CitIt then **'प्रकाशाभेदेन प्रकाशमानतया स्फुरति '** shines, not asonly).something illumined, but as the very essence of illumination andthere is no feeling or notion of a universe in the experience.Thus it is made clear that in the experience of the Siva Tattva there is only the pure "I-sense" in its sublimest aspectwithout even the conception of 'I-am', lest it speaks of anidentity, however, subdued or indistinct, indicating 'I am this'viz., the mind and the body.
 
  The Siva-Tattva is counted as the first stage in the universalmanifestation, though Paratyabhijñānahrdaya excludes it from therange of the Tattvas which manifest only in Srsti. Abhinavaguptaspeaks of it as a state in which the Cit aspect of Sakti is most manifest. No doubt all the other aspects are present there; but they areheld in suppression. On account of the suppression of these aspectsof the Divine Sakti, and also as the experience of the universeis nagatived there rises a tremendous need of some Sakti tomake such an act of negation possible. This aspect of the DivineSakti popularly known as the Sakti-Tattva which forms thesecond factor in the manifestation of the universe. It is coevalwith Siva-Tattva in the manifestation of the universe and so it
-
-
 
 annot be called a second stage, as by virtue of its operation themanifestation of Siva-Tattva becomes possible; and so in somecases, the separate mention of Sakti-Tattva from the list ofTattvas is omitted.\*
 
@@ -488,8 +434,6 @@ abide in the bosom of Parama Siva as the seed of the universe thatwould come to 
 
 \* Vide Pra. Hrdaya, p. 8.
 
-
-
 INTRODUCTION
 
 termed as the Life (Prāṇa) in the universal seed, whereas theSakti-Tattva abides as the potential energy of the various formsin which that Life is manifested in the universe.
@@ -500,16 +444,10 @@ termed as the Life (Prāṇa) in the universal seed, whereas theSakti-Tattva abi
 
  Sakti-Tattva is the life and soul of the Principle of Restraintand so its main task consists in controlling and regulating thatmovement of Life.
 
-
-
-
-
 September, 1987.                           
                 ARNOLD AVALON.
 
 \_\_\_\_\_\_\_\_
-
-
 
 PREFACE.
 
@@ -518,8 +456,6 @@ PREFACE.
  At that time Arthur Avalon was busy in editing theSāradātilakatantram and the Prapañcasăratantram with thecommentaries of Raghava Bhatta and Padma pādācârya reson the look outpectively. Inspite of his heavy work he wasfor original manuscripts and commentaries on the CidgaganaCandrikā. He succeeded in securing two copies of original manuscripts of theCidgagana-candrikā, one from the GovernmentSanskrit Manuscript Library, Madras and another from the AdyarTheosophical Library; but he had to postpone the publication ofthe work to a later date, so that the already undertaken might bepublished first. But as fate would have it, he passed away in thebeginning of the last year without proceeding further with thework. Swami Sri Trivikrama Tirtha who was a Yogin, personallycombining in him the the attributes of a Tantrika, Sādhaka,Philosopher and above all a scholar of a very sound type, took upthe responsibility of editing the present book. But he also passedaway the year before last. However this small book owes it beinglargely to the great Swāmiji's vast erudition and first hand knowledge of Tantrik practices.
 
  The text in the Manuscripts from the Government ManuscriptLibrary gives 309 Slokas in full, as mentioned by the authorhimself, where as the other Manuscript of the Adyar Libraryis incomplete. For this reason the Text of the Manuscriptssecured from the Government Manuscript Library has been mainlyfollowed. But still the Adyar Library Manuscript has been ofgreat value in deciding the precise readings of the Text in severalcases. In places, where both the variant readings occuring in theManuscripts have been found to be equally reasonable, one of themhas been mentioned in the foot note.
-
-
 
  It will not be perhaps out of place to mention here that itwas first decided to give a full translation of all the Slokas of thetext, but this could not be done at present for various reasons,chiefly because no commentary on the text could be found.
 
@@ -534,11 +470,7 @@ PREFACE.
 September, 1937.                          
 ARNOLD AVALON.
 
-
-
 [TABLE]
-
-
 
 **॥ उपोद्घातः ॥**
 
@@ -547,8 +479,6 @@ ARNOLD AVALON.
  कलिकातायामागतेन मया आगमानुसन्धानसमित्या विद्वन्मान्येन मन्त्रिमहोदयेनसह कथाप्रसंगतो महता परिश्रमेण समानीतं चिद्गगनचन्द्रिका - पुस्तकं स्वीयपुस्तकसंग्रहेसुरक्षितं तिष्ठतीति उक्तम्। नैतावदपि तु द्रष्टुं पठितुमपि च तैर्दत्तं सह प्रेम्णा।एतद्विषये संभृता चिरकालीनाऽऽशाकस्मात् पूर्णा जातेति हर्षनिर्भरस्वान्तेन मयातद्रात्रौ निद्रापि न कृता केवलं ग्रन्थपठने तदर्थचिन्तने च निशा सकलैवातिवाहिता।भगवती सर्वस्याद्या कालिका तत्र ग्रन्थकर्त्रा स्तुता। मनोहरै रहस्यगर्भेः पद्य गुम्फितासा स्तुतिर्मया भूयो भूयः पठिता। तदनन्तरं तैर्महोदयैर्ज्ञातप्रभावैः सा प्रकाशयितुंस्वकीयसमितिद्वारा तान्त्रिकग्रन्थमालायां निश्चयः कृतः। स्वेन सम्पादितं च ग्रन्थस्यप्रतिकृतियुग्मं समर्प्य मह्यं स भारो मत् स्कन्धे विनिवेशितः। वाङ्मयीयं पूजाश्रीमदनिरुद्धसरस्वत्या इति मत्वा तत्रासमर्थमात्मानं जानन्नपि मया साहसमंगीकृतम्। यच्चान्यथाकृतं पश्यन्त्यत्र विद्वांसस्तत्र क्षमाप्रार्थनामेव मया करिष्यमाणांस्वीकृत्य दयापूर्णान्तरंगाः समुचितं ज्ञापयिष्यन्त्येव धर्मधियो हि।
 
  अस्य ग्रन्थस्य प्रतिकृतिद्वयी एव समासादिता तैर्महोदयैः। एका मद्रासगवर्णमेण्टस्य हस्तलिखितपुस्तक संग्रहात् द्वितीया च अड्यारस्थित-थियोसफिकैलसोसाइटी - संग्रहीत पुस्तक संग्रहात्। उभयोरपि मिथो बहुपु स्थलेषु पाठभेदबाहुल्यं तुदृश्यत एव। तथापि परस्परं साहाय्यं ताभ्यां कुर्वतीभ्यां प्रकाशनकार्यार्थं यथामतिशुद्धां प्रतिकृतिं निर्मातुं बहूपकृतम्।मद्रासादुपलब्धप्रतिकृतिमध्ये श्लोक संख्याकर्तृ निर्दिष्टा सम्पूर्ण समुपलब्धा।अड्यारादुपलब्धपुस्तके तु सम्पूर्णा स्तुतिनोंपलभ्धा अतएव मद्रास पुस्तकमेव प्राधान्येनावलम्ब्य मया यत्नः कृतः। ये च
-
-
 
 श्लोका अड्यारपुस्तके न स्थिता स्तेषु च ग्रन्थकारेण स्वीयं नाम ग्रन्थस्य श्लोकसंख्या ग्रन्थवर्णितवस्तुमूलं च निदर्शितं स्पष्टतयैव। ललितासहस्रनामभाष्ये,योगिनीहृदयदीपिकायां महार्थमंजरीपरिमले च ये ये श्लोका उद्धृतास्ते ते सर्वेऽपि मद्रासपुस्तके दृश्यन्ते। अत एव कथितुं पार्य्यते यत् सम्पूर्णोऽयं रहस्योपदेशनापरो ग्रन्थअसादित इति।
 
@@ -567,8 +497,6 @@ ARNOLD AVALON.
  जनश्रुतिरेवं किल श्रुता — कालिदासेनाराध्य कालीं सम्प्राप्य प्रसादं महाकवित्वसुपलभ्य महाकाव्यादिक-मारचितमिति। सा जनश्रुतिः सत्यैव समूला चेति ग्रन्थस्यास्यदर्शनेन संशयं निर्मुच्य प्रमाणपदवीमारूढा। तावत् सा संशयपदवीं वर्तमानाऽऽसीत्यावत्पर्यन्तमयं ग्रन्थो नाधिगतः। इदानीं तु संप्राप्ते प्रन्थरत्ने उपासनारहस्य मार्गबोधकेतत्र तत्र संबोधिते " कालि" इति "कालिदासेति स्वात्मानं प्रत्यभिज्ञापिते नास्ति शंकापंकलेशोऽपि। ज्ञायत एव स्वाभिमानं विहाय स्वेदेवतादासभावं तन्महिमानं चसंबोधयितं स्वीयं नाम प्रत्यभिख्यानकारकं स्वयमेव स्वीकृतं कालिदास इति।
 
  श्रीतन्त्रवात्तिककार- कुमारिलभट्टपादात् पूर्वमेव महाकविकालिदासो बभूव।यतो भट्टपादेनोदाहृतमभिज्ञानशाकुन्तलगतं श्लोकार्द्धं तन्त्रवार्तिके। भगवत्पूज्यपादेनशंकराचार्येण शारीरकमीमांसाभाष्ये भट्टपादमतमनूद्य खण्डितम्। विद्यारण्येन
-
-
 
 शंकरदिग्विजये भगवत्पादेन सह कुमारिलपादानां संवादो ह्यभूदिति लिखितमास्ते।अतोऽनुमीयते हि शंकराचार्य्यसमकालीना भट्टपादा इति। अत एतत् सिद्ध यदूआचार्यपादानां प्रादुर्भावात्पूर्वमेव कालिदासो बभूव।
 
@@ -606,10 +534,6 @@ ARNOLD AVALON.
 
  अस्मिन् ग्रन्थे भगवत्या आद्यायाः स्तुतिः। सा च विमर्शचतुष्टयमयी। श्लोकसंख्या तु ३१३ परिमिता।
 
-
-
-
-
 **तत्र आद्यो विमर्शः सूत्रस्थानीयः । अस्मिन् लोकाः २२ मिताः।तत्र**
 
 |              |                                             |                |                        |
@@ -627,10 +551,7 @@ ARNOLD AVALON.
 | १०           | विश्वोत्पत्तिहेतुः शक्तिमरी-चिवृन्दस्मरणम् | २१            | सृष्टिसंहारौ           |
 |             |                                            | २२             | कालस्वरूपम्            |
 
-
-
       **द्वितीये च विमर्शे लोकाः ५२ मिताः। तत्र तु **     
- 
 
 |         |                   |           |                |
 |---------|-------------------|-----------|----------------|
@@ -651,21 +572,15 @@ ARNOLD AVALON.
 | २०      | नादबिन्दु        | ५१        | उपासना साधनानि |
 | २१     | प्राद्यः स्पन्दः | ५२        | परदेवताभिख्या  |
 
-
-
 **तृतीये तु विमर्शे श्लोकाः १०५ मिताः तेषु च**
 
 [TABLE]
-
-
 
 [TABLE]
 
 चतुर्थे तु विमर्शे श्लोकाः१३४ सन्ति, तेषु च
 
 [TABLE]
-
-
 
 |         |                |          |                            |
 |---------|----------------|----------|----------------------------|
@@ -697,8 +612,6 @@ ARNOLD AVALON.
 
  अस्मिन् ग्रन्थे भगवत्याः कालिकायास्तन्त्रसारादिषु प्रामाणिक निबन्धेषु परिदृश्यमानानां गुह्यकाली हंसकाली श्मशानकाली दक्षिणकाली कामकलाकालीत्यादिरूपाणां वर्णनं लेशेनापि न विद्यते । परंतु सृष्टिकाली स्थितिकाली संहारकाली रक्तकाली यमकाली मृत्युकाली मार्तण्डकाली चंडोग्रकाली कालसंकर्षणी कालीत्यादि -
 
-
-
 नामभिः प्रसिद्धानां तन्त्रसारे तन्त्रालोके च परिदृश्यमारणानां कालीभेदानां वर्णनमस्ति।अतो ज्ञायते यदयं ग्रन्थः काश्मीर- त्रिक-सम्प्रदायानुगत एव। यच्चापि कालसंकर्षणीकालिकाया नाम रूपं मन्त्रश्च चिदम्बरतन्त्रे अनुत्तराम्नाय प्रकरणे परिपठितं परिदृश्यते।परं तदेकं प्रमाणं नालम्।यतः अन्यानि तत्सहचारीणि नामानि तस्मिन् नदृश्यन्ते। अत एतत् स्पष्टं यत् या परतत्त्वोपासना कालीरूपेण क्रियमाणाश्रीमदभिनवगुप्तनाथपादेन तन्त्रालोके तन्त्रसारे च ईषत् प्रकटीकृता सरहस्यं सेयमिति प्रत्याभिज्ञायते। कालिदासोऽभिनवगुप्तात् पूर्वं संबभूवेति सत्यम्। तथापिअभिनवगुप्तस्य कालिदासस्य च उभयोर्गुरुपरम्परा समानस्रोतोद्भवा आसीदेवेति हितन्त्रालोकगत--प्रथम-चतुर्थाह्निक- प्रपठितवचनानि एतद्विषयकानि परिशीलनेनस्पष्टमवगम्यते।
 
 पारिभाषिकशब्दानां गूढार्थविवरणम्।
@@ -711,8 +624,6 @@ ARNOLD AVALON.
 
 **"न त्वमम्ब पुरुषश्च नाङ्गना  
 चित्स्वरूपिणि न पडतापि ते**।
-
-
 
 नापि भर्त्तुरपि ते त्रिरूपता  
 त्वां विना त्वदपि न स्फुरेत्त्रयम्॥”
@@ -749,8 +660,6 @@ ARNOLD AVALON.
 
  'कल किल बिल क्षेपे' 'कल गतौ' 'कलसंख्याने' 'कल शब्दे' इति धातुचतुष्टयस्यपंचधायमर्थो यद् गतिर्ज्ञाने प्राप्तौ च वर्तते इति एतदेव क्रमेण व्याचष्टे - क्रमादित्यादिना, भेदनमिति वहिरुल्लासनम्, अविकल्पनमिति स्वात्माभेदेन परामर्शः। भेदित-
 
-
-
 स्यैव प्रमातृप्रमेयादेरर्थस्य परस्परापोहनात् इदमिदं नानिदमिति प्रतिनियततयावस्थापनात्संख्यानं विकल्पः, गतिश्चात्र गत्युपसर्जना प्राप्तिस्तेन भेदितोऽर्थः - सम्विल्लक्षणं स्वरूपमारोहति प्राप्नोतीति स्वरूपारोही, तस्य भावस्तत्त्वम्, न चैतत् कट इव देवदत्तस्येत्युक्त'-प्रतिबिम्बवत् इति प्रतिबिम्बस्य हि तदव्यतिरिक्तत्वेऽपि तद्व्यतिरिक्ततयैवावभासोभवेदिति भावः, स्वात्मपरामर्शशेषतेति नदनमात्ररूपत्वात्, तद्विलोपनादिति - तेषामविकल्पज्ञानादीनां विलोपनात्, अपहस्तनादित्यर्थ, एतद्धि भिन्नस्यैव भवेदिति भाव॥१७४ १७५॥ एतदेव प्रकृते विश्रमयति।
 
  "इति पञ्चविधानां कल्पनां कुर्वती परा । देवी काली तथा कालकर्षिणीचेति कथ्यते ॥ १७६ परा देव्या एवैतदर्थानुगमादेवं व्यपदेशः, इत्याशयः १७६॥”
@@ -770,8 +679,6 @@ ARNOLD AVALON.
 
 द्वादशारं महाचक्र' रश्मिरूपं प्रकीर्तितम्।  
 नाम चैव प्रवक्ष्यामि रश्मीनां तु यदास्थितम्॥
-
-
 
 सृष्टिः स्थितिश्च संहारो रक्तकाली तथैवचे।  
 स्वकाली यमकाली च मृत्युकाली तथैव च॥  
@@ -807,8 +714,6 @@ ARNOLD AVALON.
 "यदुक्त' श्रीपंचशतिके
 
 'दशसप्तविसर्गस्था महाभैरव भीषणा।
-
-
 
 संहरेद् भैरवान् सर्वान् विश्वं च सुरपूजित॥
 
@@ -857,8 +762,6 @@ ARNOLD AVALON.
 रक्तीकृतां च प्रलयात्यये तां  
 नमामि विश्वाकृतिरक्तकालीम॥”
 
-
-
 श्रीपञ्चशतिके च—
 
 “न चैषा चक्षुषा ग्राह्या न च सर्वेन्द्रियस्थिता।  
@@ -902,8 +805,6 @@ ARNOLD AVALON.
 विस्फारहर्षोद्धत गर्वमृत्युः  
 ग्रस्तो यया घस्मरसंविदं तां  
 नमाम्यकालोदितमृत्युकालीम्॥"
-
-
 
  श्रीपंचशतिके च—
 
@@ -958,8 +859,6 @@ ARNOLD AVALON.
 
 सा कला लीयते यस्यां मार्तण्डी कालिकोच्यते।"
 
-
-
  श्रीक्रमस्तोत्रे—
 
 “अस्तोदितद्वादशभानुभाजि  
@@ -1008,8 +907,6 @@ ARNOLD AVALON.
 
 “ऋतोज्वला महादीप्ता सूर्यकोटिसमप्रभा।
 
-
-
 कलाकलङ्करहिता कालस्य कलनोद्यता॥  
 यत्र सा लयमाप्नोति कालकालीति सा स्मृता।
 
@@ -1054,8 +951,6 @@ ARNOLD AVALON.
 दन्तर्वाह्योभयात्मना।  
 स्वयं निर्भास्य ततान्यद्  
 भासयन्तीव भासते॥१४७
-
-
 
 **ततश्च प्रागियं शुद्धा तथा भासनसोत्सुका।  
 सृष्टिं कलयते देवी तन्नाम्नागम उच्यते॥१४८**
@@ -1105,8 +1000,6 @@ ARNOLD AVALON.
 **तेनेन्द्रियौघमार्तण्ड-मण्डलं कलयेत् स्वयम्।  
 संविद्देवी स्वतन्त्रत्वात् कल्पितेऽहंकृतात्मनि॥१६३**
 
-
-
 **स एव परमादित्यः पूर्णकल्पस्त्रयोदशः।  
 करणत्वात् प्रयात्येव कर्तरि प्रलयं स्फुटम्॥१६४**
 
@@ -1155,8 +1048,6 @@ ARNOLD AVALON.
 **एकैवेति न कोऽप्यस्याः क्रमस्य नियमः क्वचित्।  
 क्रमाभावान्न युगपत्तदद्भावात् क्रमोऽपि न॥१७९**
 
-
-
 **क्रमाक्रमकथातीतं संवित्तत्त्वं सुनिर्मलम्।  
 तदस्याः संविदो देव्या यत्र क्वापि प्रवर्तनम्॥१८०**
 
@@ -1185,8 +1076,6 @@ ARNOLD AVALON.
 
 **“एकं स्वरूपरूपं प्रसरस्थितिविलयभेदतस्त्रिविधम्।  
 प्रत्येकमुदयसंस्थितिलय विश्रमतश्चतुर्विधं तदपि॥**
-
-
 
 इति वसुपञ्चकसंख्यं विधाय सहजस्वरूपमात्मीयम्।  
 विश्वविवर्तितावर्तप्रवर्तकं जयति ते रूपम्॥
@@ -1222,8 +1111,6 @@ ARNOLD AVALON.
 
 नैसर्गिकी स्फुरत्ता विमर्शरूपाऽस्य वर्त्तते शक्तिः।  
 तद्योगादेव शिवो जगदुत्पादयति पाति संहरति॥४॥
-
-
 
 ॥ श्रीरस्तु ॥
 
@@ -1268,8 +1155,6 @@ ARNOLD AVALON.
 
 [^7]: "दङ्गिनं"
 
-
-
 याहमित्युदितवाक् परा च सा  
 यः प्रकाशलुलितात्मविग्रहः।  
 यौ मिथः समुदिताविहोन्मुखौ  
@@ -1308,8 +1193,6 @@ ARNOLD AVALON.
 [^13]: "श्रये"
 
 [^14]: "भासना"
-
-
 
 खण्ड सत्प्रसरगर्भया यया  
 लक्षितं स्फुर विपूर्णसत्तया।  
@@ -1352,8 +1235,6 @@ ARNOLD AVALON.
 
 [^22]: "निषिध्यते"
 
-
-
 सत्वमम्ब विहितस्य वस्तुन-  
 स्तत्प्रसादितदयो^(१[^23])दयंवपुः।  
 स्यात् तमश्च यदिदं निषिध्यते  
@@ -1393,8 +1274,6 @@ ARNOLD AVALON.
 
 [^29]: "समीप्सितं"
 
-
-
 सप्रकाशकृतमज्जनं^(१)[^30] जगत्  
 कुर्वती भवति पूर्णिमा शिवे।  
 पूर्णमेव तव रूपमन्यथा  
@@ -1411,8 +1290,6 @@ ARNOLD AVALON.
 
 ॥ इति आदि ( सूत्र ) विमर्शः॥
 
-
-
 द्वितीय-विमर्शः
 
 मातृमेयमिति साधनात्मिका  
@@ -1426,8 +1303,6 @@ ARNOLD AVALON.
 त्वां च सत्कुलमिदं तवाननम्^(३)[^32]॥२४॥
 
 [^32]: "तवासनम्"
-
-
 
 वेद्यवेदक विभेददक्षया  
 मायया क्रमवदङ्गगामिनी।  
@@ -1455,8 +1330,6 @@ ARNOLD AVALON.
 व्योमशान्तमुखचिद्गुणास्पदम्।  
 आश्रितान्नयसि नापरं शिवं  
 द्वन्द्वयाऽद्वयपदातिलङ्घिनी॥२९॥
-
-
 
 या प्रमातरि निषेदुषी परा  
 प्रत्यगात्मनि विमर्शविग्रहा।  
@@ -1495,8 +1368,6 @@ ARNOLD AVALON.
 
 [^39]: "सुवेशि"
 
-
-
 या परा स्फुरति शक्तिरम्बिके  
 तत्र हि त्वयि पयोधिबीचिवत्।  
 शिञ्जिकावयवकार्थ पञ्चकं  
@@ -1530,8 +1401,6 @@ ARNOLD AVALON.
 
 [^43]: "उत्तरः * शिवात्मके"
 
-
-
 षण्डवर्जमहिमद्युतेः कला  
 सर्गबिन्दुरहिताश्च ये शुचेः^(१)[^44]।  
 सर्व एव शशिनः कलाः शिवे  
@@ -1540,6 +1409,10 @@ ARNOLD AVALON.
 [^44]: "शुभे"
 
 [^45]: "तत् स्वराः"
+
+[^44]: "शुभे"
+
+[^44]: "शुभे"
 
 बीजयोनिविधिभेदभेदिता  
 मातृकामनुजमातृलक्षणा^(३)[^46]।  
@@ -1568,6 +1441,10 @@ ARNOLD AVALON.
 
 [^51]: "दया"
 
+[^51]: "दया"
+
+[^51]: "दया"
+
 स्फारिता^(९)[^52] जननि सेय^(१०)[^53]मेषणा  
 खेचरत्वसमुपाश्रिता^(११)[^54]दिशि।  
 अक्षचक्रमनुजग्मुषी गवी  
@@ -1580,8 +1457,6 @@ ARNOLD AVALON.
 [^54]: "त्यस"
 
 [^55]: "भवः"
-
-
 
 खेचरीप्रभृतियच्चतुष्टयं  
 सारमम्ब^(१)[^56]तव तद्बहिर्वपुः।  
@@ -1619,8 +1494,6 @@ ARNOLD AVALON.
 धर्मिधर्मतनुरर्थ ईश्वरे।  
 यः प्रकाश इह सत्वया कृतः  
 तत्तदाकृतिरुपैति सृष्टिताम्॥४६॥
-
-
 
 त्वं हि चित्तनुरतो न चित्तता  
 खेन^(१)[^62] ते विषयचित्ततां^(२)[^63]विना।  
@@ -1668,8 +1541,6 @@ ARNOLD AVALON.
 
 [^71]: "त्वयासि सा"
 
-
-
 जाड्यमम्ब जगतो निसर्गजो^(१)[^72]  
 यत्परा प्रभृति भाति भेदतः।  
 त्वं तु जाड्यपरिपन्थिनी स्मृता  
@@ -1695,8 +1566,6 @@ ARNOLD AVALON.
 निर्निरुक्तिकमिदं जगत्स्थितं  
 चिल्लयोर्ध्वगपथान्न तत्तथा॥५७॥
 
-
-
 शान्ततां भजदनाश्रितं पदं  
 शक्तिमात्र जगदेकसद्मयत्।  
 निर्मलज्वलन शौचवज्जगत्-  
@@ -1710,8 +1579,6 @@ ARNOLD AVALON.
 [^77]: "भात इति यत् "
 
 [^78]: "स्त्वमम्बिके"
-
-
 
 द्रष्टृता^(१)[^79]जगति यत्प्रकाशने  
 यश्च निश्चयविधौ प्रमातृता^(२)[^80]।  
@@ -1740,6 +1607,10 @@ ARNOLD AVALON.
 
 [^84]: "ततः "
 
+[^84]: "ततः "
+
+[^84]: "ततः "
+
 अष्टधा स्फुरति या पुरी शिवे  
 सूक्ष्मभावमुपगम्य लैङ्गिकम्।  
 तज्ज^(८)[^85] पौष्टकृतचित्तवृत्तयो  
@@ -1755,8 +1626,6 @@ ARNOLD AVALON.
 धीमनोक्षवपुरर्पितं त्वया॥६४॥
 
 [^87]: "अन्तरेवमहमा"
-
-
 
 राजनात् प्रकृतिरञ्जनाच्च मां  
 राजसंज्ञमनुबोधकर्मणोः।  
@@ -1786,6 +1655,10 @@ ARNOLD AVALON.
 
 [^51]: "दया"
 
+[^51]: "दया"
+
+[^51]: "दया"
+
 [^91]: "चण्डि"
 
 [^92]: "वितन्वते"
@@ -1802,8 +1675,6 @@ ARNOLD AVALON.
 न्तर्गता हि तव मूर्त्तिरत्र सा॥६६॥
 
 [^97]: "श्रणा"
-
-
 
 लीढ़भानुशशिमण्डला^(१)[^98] स्थिति-  
 र्लम्भिता^(२)[^99] प्रलयवह्निना त्वया।  
@@ -1855,8 +1726,6 @@ ARNOLD AVALON.
 
 ॥ इति द्वितीयो विमर्शः॥
 
-
-
 तृतीय-विमर्शः।
 
 आद्यचित्प्रसरमूर्तिरम्बिके  
@@ -1891,8 +1760,6 @@ ARNOLD AVALON.
 [^110]: "पदवीञ्च "
 
 [^111]: "चित्कलास"
-
-
 
 **यानलार्कशशिविग्रहा कला-  
 नाहताम्बरविसर्पिणी शिवे।  
@@ -1934,8 +1801,6 @@ ARNOLD AVALON.
 [^118]: "विश्रमं"
 
 [^119]: "मेकमा"
-
-
 
 **तद्वयोल्लसितमम्ब वर्त्तते  
 यत्र नित्यमिह सामरस्यतः।  
@@ -1980,8 +1845,6 @@ ARNOLD AVALON.
 
 [^128]: "मिष्टिताः"
 
-
-
 **चिच्चमत् करणरूढनिर्भरा  
 त्वं पुरा स्फुरसि सैव खेचरी।  
 रूपसंग्रहणदर्शितैषणा  
@@ -2020,8 +1883,6 @@ ARNOLD AVALON.
 पञ्चवाहवपुषः कलास्तव।  
 सामरस्य घटितोदया शिवे  
 शश्वदुल्लसति सिद्धमण्डलम्॥६४॥**
-
-
 
 **भानुशीतकरवन्हिकुण्डली  
 बिन्दुसूत्रितपरावर ^(१)[^136]स्थला।  
@@ -2062,12 +1923,14 @@ ARNOLD AVALON.
 
 [^142]: " शब्दरू"
 
-
-
 भूचरी वहसि दण्डतः क्रमं  
 मुण्डतोऽपरचतुष्टयी च सा।  
 भोग्यभोक्तृकलनोर्भिसंक्षये  
 सामरस्य रसरोहिनी[^143]शिवे[^44]॥१००॥
+
+[^44]: "शुभे"
+
+[^44]: "शुभे"
 
 [^44]: "शुभे"
 
@@ -2087,9 +1950,9 @@ ARNOLD AVALON.
 
 [^147]: "तत्र "
 
-।  
-
 [^148]: "तो स्वरः"
+
+।  
 
 तत्र देवि वियदग्रपार्श्वया[^149]  
 
@@ -2121,8 +1984,6 @@ ARNOLD AVALON.
 [^153]: "चरि"
 
 [^154]: " चरः सदा"
-
-
 
 व्यक्तमक्रम विजृम्भितां[^155]शिवे  
 त्वं विसृष्टिभुवनद्वयोदया।  
@@ -2171,8 +2032,6 @@ ARNOLD AVALON.
 
 [^165]: "नाथ"
 
-
-
 क्षोभमम्ब तव तावदिष्टतो  
 द्व्यष्टरश्मितनुनादविग्रहा  
 बिन्दुभूमिमधितस्थुषी स्फुटा  
@@ -2204,8 +2063,6 @@ ARNOLD AVALON.
 
 [^168]: "कासिध"
 
-
-
 बिन्दुनाद[^169]शशिपीठभास्वरा  
 ज्वालराजभगकालविग्रहा।  
 अस्वराख्यपरमाम्बरात्मिका  
@@ -2222,16 +2079,28 @@ ARNOLD AVALON.
 
 [^171]: "परा "
 
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
+
 अन्तरम्बब[^172]हिरण्यमीकरा  
 ये तवाक्ष[^173]
 
 [^172]: "रङ्गब"
 
+[^173]: "नवाक्ष "
+
 तनवोङ्क एष यः।  
 विग्रहद्वितयमप्यतः परं  
 चिन्नभो नयसि नः करं किणी॥११७॥
-
-[^173]: "नवाक्ष "
 
 यत्प्रकृत्यवधितत्त्वमण्डलं  
 क्ष्मामुखं परिमितग्रहास्फुटम्[^174]।  
@@ -2248,8 +2117,6 @@ ARNOLD AVALON.
 [^175]: "णाह्वयं + णाद्वयम्"
 
 [^176]: "णाख्यया"
-
-
 
 सर्वदैव सकृदास्थितोदया  
 सर्वतः क्षपितकल्पना भिदा।  
@@ -2293,8 +2160,6 @@ ARNOLD AVALON.
 [^184]: "ताकुलह"
 
 [^185]: "लिनि"
-
-
 
 **ज्ञप्तिमात्रमपनीतवासनं  
 निर्विकल्पमधिरुह्य चित्त्विषाः।  
@@ -2343,8 +2208,6 @@ ARNOLD AVALON.
 
 [^196]: "पदाः"
 
-
-
 **ग्रन्ययोऽपि षडुमे यया धृता  
 सा निरावरणचिन्नभः पदा[^171]।  
 स्पन्दमूर्तिहृतभेदडम्वरा[^198]  
@@ -2352,7 +2215,19 @@ ARNOLD AVALON.
 
 [^171]: "परा "
 
+[^171]: "परा "
+
+[^171]: "परा "
+
 [^198]: "मम्बरा "
+
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
 
 **अष्टपुर्युदितबीजवासना  
 संहृतिप्रणवरश्मिपुञ्जया।  
@@ -2381,8 +2256,6 @@ ARNOLD AVALON.
 [^201]: "जृम्भिकेऽस्य ज"
 
 [^202]: "भेदना"
-
-
 
 ज्ञानमम्ब तव भेदितैः स्वरै-  
 स्तैस्तु योग इह षण्ड[^203]वर्जितैः।  
@@ -2421,8 +2294,6 @@ ARNOLD AVALON.
 
 [^208]: "भवसि "
 
-
-
 स्पर्शवर्णमयपञ्चवर्गजै-  
 र्विस्तरैर्जननि मुद्रिता त्वया।  
 व्यक्ति[^209]भेदरचना समन्ततो  
@@ -2454,9 +2325,9 @@ ARNOLD AVALON.
 
 [^213]: "चर्वणा"
 
-॥१५३॥
-
 [^214]: "रपि ते विकस्वराः"
+
+॥१५३॥
 
 निस्तरङ्गजलधिक्रमा स्थिता  
 कालिधाम्नि तव भेदघस्मरे।  
@@ -2467,8 +2338,6 @@ ARNOLD AVALON.
 निःस्वभाव उदयः परस्तव[^216]॥१५४॥
 
 [^216]: "पदस्तव"
-
-
 
 स्वस्वरूपमयविश्वमूर्तिदृक्  
 सिद्धगाढपरिरब्ध[^217]विग्रहाः।  
@@ -2515,8 +2384,6 @@ ARNOLD AVALON.
 
 [^226]: "विवेशतः"
 
-
-
 पञ्चचक्रतनुरेष जृम्भते[^227]  
 निर्विकल्पशिवबोधचित्फला[^228]।  
 पञ्चसु क्रममहीरुहाः शिवे  
@@ -2558,8 +2425,6 @@ ARNOLD AVALON.
 भाससे प्रथनकेतघस्मरी॥१४४॥
 
 [^232]: "भस्तनः"
-
-
 
 त्वं निरन्तरचिदम्बरात्मिका  
 वेलयाऽम्ब तुलितादयाम्बुधेः।  
@@ -2603,8 +2468,6 @@ ARNOLD AVALON.
 येयमम्ब परधाम्नि ते तनु-  
 र्योनिपञ्चकमयी निराकृतिः॥१४६॥
 
-
-
 मेष एष उदयः परो मम  
 छन्दतोक्षतनुतां वहत्यु[^241]मे।  
 नित्यतुर्यमहिमा ग्रसन्निभं  
@@ -2642,7 +2505,9 @@ ARNOLD AVALON.
 
 [^246]: "संहति"
 
+[^246]: "संहति"
 
+[^246]: "संहति"
 
 **निश्चितग्रहनिदेश[^247] वर्जितो  
 युक्त्ययुक्त्यतिगतोऽक्रमः परः।  
@@ -2676,8 +2541,6 @@ ARNOLD AVALON.
 प्रत्यगुल्लसति तत्पदं गतः॥१६६॥**
 
 [^250]: "मिहयो"
-
-
 
 तत्पुनर्झटिति नीतसन्ततिः  
 प्रेक्ष्य देवि नव तुर्यथागमः[^251]।  
@@ -2722,8 +2585,6 @@ ARNOLD AVALON.
 
 [^259]: "सञ्चितम्"
 
-
-
 एकमम्ब तव भान्त्यनावृतो  
 द्वादश क्रमचिदुर्मिडम्बरः।  
 सृष्टिकाल्युदयमेति यन्मुखे  
@@ -2762,8 +2623,6 @@ ARNOLD AVALON.
 
 **॥ इति श्रीकालिदासस्य कृतौ चिद्गगनचन्द्रिकायां  
 तृतीयो विमर्शः ॥ श्रीः॥**
-
-
 
 **चतुर्थो विमर्शः**
 
@@ -2812,8 +2671,6 @@ ARNOLD AVALON.
 
 [^274]: "दना"
 
-
-
 वृत्तिसंहरणमेव[^275] मातरि  
 व्यज्यते न खलु संस्तुति[^276] क्षयः।  
 तद्द्वयं च तव धाम्निसंभृतं  
@@ -2854,8 +2711,6 @@ ARNOLD AVALON.
 युक्तिमर्हति न बिम्बबाह्यताम्॥१८९॥
 
 [^282]: "विनाददर्पणो"
-
-
 
 अस्ति[^283]वाह्यमिति तत्प्रथेत चेत्  
 तादृशप्रथनगर्भिता हि तत्[^284]।  
@@ -2904,8 +2759,6 @@ ARNOLD AVALON.
 
 [^293]: "विद्यया"
 
-
-
 वारिवह्नि[^294]मुकुरादिषु स्फुटः  
 स्वच्छवस्तुषु कुमारि विम्बताम्।  
 मन्त्रिता[^295] सह परिच्छदेन यत्  
@@ -2945,8 +2798,6 @@ ARNOLD AVALON.
 
 [^300]: "तिश्च"
 
-
-
 कल्पना यदि मृषेति भाषिता  
 धारणा फलति केन हेतुना।  
 देवि संकलनबोधजीविता  
@@ -2970,6 +2821,10 @@ ARNOLD AVALON.
 
 [^304]: "कुतः "
 
+[^303]: "न"
+
+[^303]: "न"
+
 अक्षरेऽम्ब परमे वियदृचो  
 यत्र यत्र सकला च देवता।  
 तन्न वेदयति चेदृचां फलं  
@@ -2988,12 +2843,14 @@ ARNOLD AVALON.
 
 सदम्बरगतैहि भूयते॥२०४॥
 
-
-
 **देशकालमवभासि यादृशं  
 यत्तया नु[^303] भवितुर्विभेदिनः।  
 तत्तया सकलमीक्ष्यते जनं[^308]  
 मत्कृतस्मृतिमवेक्ष्यते क्षणम्॥२०५॥**
+
+[^303]: "न"
+
+[^303]: "न"
 
 [^303]: "न"
 
@@ -3026,8 +2883,6 @@ ARNOLD AVALON.
 अप्युमे सह पुनर्विरूपताम्॥२०६॥**
 
 [^312]: "सा प्रमा"
-
-
 
 **दृग्विधत्त इह विश्वमम्बिके**  
 **तत्पुनः स्थिरयति स्मृतिस्तव।**  
@@ -3085,9 +2940,9 @@ ARNOLD AVALON.
 
 [^327]: "नु "
 
+[^327]: "नु "
 
-
-
+[^327]: "नु "
 
 **यादृ^(१)[^328]शासु निखिलासु सर्वदा^(२)[^329]  
 सर्वतः स्फुरति^(३)[^330] चित्परा सकृत्।  
@@ -3132,12 +2987,22 @@ ARNOLD AVALON.
 
 [^336]: "खे"
 
-
-
 **द्वादशात्मकविकालघस्मरी  
 कालकाल^(१)[^337] शिवभूमिका वरा^(२)[^171]।  
 यादृशी भवति चण्डि तादृशी  
 त्वां विदुः कलितकल्पनापराम्॥२२०॥**
+
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
+
+[^171]: "परा "
 
 [^171]: "परा "
 
@@ -3177,9 +3042,11 @@ ARNOLD AVALON.
 
 [^246]: "संहति"
 
+[^246]: "संहति"
+
+[^246]: "संहति"
+
 [^346]: "यते"
-
-
 
 **लब्धमास्यपवनं^(१)[^347] च या हृतं  
 वातचक्रमधितस्थुषी शिवे।  
@@ -3216,8 +3083,6 @@ ARNOLD AVALON.
 
 [^351]: " त्मरक्ष"
 
-
-
 **भक्षयन्त्यखिलमक्षजैः शिवे  
 शक्तिरश्मिभिरिमाश्च मातृभिः।  
 ताश्च संस्मृतमया^(१)[^352] महालये  
@@ -3248,9 +3113,6 @@ ARNOLD AVALON.
 या ममेत्यभिमतिर्मदोद्धता।  
 याप्यहंकृतिरनात्मनि स्थिता  
 मृत्युरूपमुभयं तवासनम्॥२३४॥**  
-
-
-
 
 **विश्वमम्ब कुरुषे तवासनं  
 मृत्युसेचनमखण्डितोदया।  
@@ -3290,8 +3152,6 @@ ARNOLD AVALON.
 [^360]: "वृद्धत्तः"
 
 [^361]: "प्रथा त "
-
-
 
 **भर्गनाम्न इह भारते शिखा- ^(१)[^362]  
 शक्तिरम्ब विषयेन्धनोन्मुखी।  
@@ -3336,8 +3196,6 @@ ARNOLD AVALON.
 
 [^370]: "तनोष्यसौ"
 
-
-
 **त्वत्क्रमोपहृत^(१)[^371] भानुमण्डल^(२)[^372]  
 क्रोध एष त्रयवह्निरुद्धतः।  
 विश्वभक्षणरसा मरीचयो  
@@ -3353,6 +3211,10 @@ ARNOLD AVALON.
 यं^(५)[^375] पुनर्ग्रहणमप्यसुं पुनः^(६)[^84]।  
 ग्राहकाश्च वरदे मरीचयः  
 तास्त्वदर्पितजगद्विजृम्भणाः॥२४६॥**
+
+[^84]: "ततः "
+
+[^84]: "ततः "
 
 [^84]: "ततः "
 
@@ -3384,8 +3246,6 @@ ARNOLD AVALON.
 [^380]: "वरूप"
 
 [^381]: " हि"
-
-
 
 **सक्रमाक्रमविमिश्रभावत-^(१)[^382]  
 स्त्वत्क्रमस्त्रितय चारुवीक्षणा।  
@@ -3421,8 +3281,6 @@ ARNOLD AVALON.
 ये च नित्यकृततल्लयोद्यमाः।  
 एष तान् प्रतिभवन् सुधामयो  
 येऽन्यथा विषमयश्च तान् प्रति॥२५४॥**
-
-
 
 **यः प्रमज्जयति मूढचेनस-^(१)[^387]  
 स्तारयत्यपि स एष धीमतः।  
@@ -3463,8 +3321,6 @@ ARNOLD AVALON.
 
 [^393]: "रुदयप्रथाननं "
 
-
-
 **सत्सुधाब्धिरसभृत् कलान्तरी  
 गर्भषोड़शकलाब्जविष्टरम्।  
 प्रेतमुज्झितगमागमं शिवे  
@@ -3485,6 +3341,10 @@ ARNOLD AVALON.
 येभवन्त्यकुल बिन्दुशालिनः।  
 ते बिदन्ति न^(६)[^327] तवाम्ब वैभवं  
 पूर्णभानमयविश्वघस्मरम्॥२६२॥**
+
+[^327]: "नु "
+
+[^327]: "नु "
 
 [^327]: "नु "
 
@@ -3509,8 +3369,6 @@ ARNOLD AVALON.
 [^402]: "चन्द्रिक "
 
 [^403]: "त्वत्प्रविश्य "
-
-
 
 **त्वं कुलाख्यशशिभानुपावक  
 त्वं निवेश^(१)[^404] करणात्मनायिके।  
@@ -3544,8 +3402,6 @@ ARNOLD AVALON.
 शब्दचिद्वलसभा विभिन्दति।  
 वृत्तिचक्रमकृताः षड़ध्वनो  
 देशकालमयमूर्त्तिचक्रगाम्॥२६९॥**
-
-
 
 यत्प्रकाशतमुपञ्चकं पदं  
 तस्य भाव इह यः सतोऽम्बिके।  
@@ -3584,8 +3440,6 @@ ARNOLD AVALON.
 त्वत्प्रथा त्वमसि विश्वघस्मरी  
 त्वां ततः क इह भेत्तुमहति॥२७४॥
 
-
-
 **रक्तशुक्लतनुहंसभेदिनो  
 त्वं पतिश्च तव तत्कृताकृतिः।  
 भानु^(१)[^414] शाङ्करविभेदतस्तव  
@@ -3623,8 +3477,6 @@ ARNOLD AVALON.
 घोरता पुनरियं जिहीर्षया  
 संस्मृतेऽम्ब तव धाम्नि शान्तता॥२७९॥**
 
-
-
 **भास्वरे वपुषि सर्वगे तव  
 स्पष्टमण्डनिवहो निमज्जति।  
 कालवह्यधिकृतौ^(१)[^420]शिवे यथा^(२)[^421]  
@@ -3658,8 +3510,6 @@ ARNOLD AVALON.
 त्वं तुरीयतनुराहृतत्रिका  
 पञ्चमं विशसि पूरितत्रिकम्॥२८४॥**
 
-
-
 **अम्बरेश्वरि निराकृतस्तव  
 व्यज्यते निखिल भा^(१)[^424]कृतित्वतः ( ? )।  
 सर्वदा स्फुरसि यूयमद्वया-  
@@ -3689,8 +3539,6 @@ ARNOLD AVALON.
 तानि तावनियतीव शोषने  
 रागवेदसकलाश्च भान्त्यथ॥२८९॥**
 
-
-
 **व्योमवृत्तिघटितैक्यउल्लस-  
 त्यद्वयो जननि देवतागणः।  
 तावकोद्यमपदेऽपि सर्वगो  
@@ -3718,8 +3566,6 @@ ARNOLD AVALON.
 रश्मिचक्रतनुरश्मितोज्झिता  
 त्वं च गौरि वरपुण्यवासनम्॥२९४॥**
 
-
-
 **अध्वविध्वनिविमिश्रवक्रयो  
 रञ्ज^(१)[^427]बीजमनिकेतनं वरम्।  
 कल्पनैक्यबहुचेद  
@@ -3746,8 +3592,6 @@ ARNOLD AVALON.
 स्वोदरार्पितसमस्तदेवताः।  
 देवि सप्तदशवर्णभेदिता  
 त्वं प्रकाशशिवचन्द्रगामिनी॥२९९॥**
-
-
 
 **यः शिवात्प्रभृतिसोमपश्चिम-  
 स्त्वत्क्रमैकरसिको गुरुक्रमः।  
@@ -3777,8 +3621,6 @@ ARNOLD AVALON.
 **मुक्तमेव न मया मयोचितः  
 प्रेरितोऽस्मि तव तर्त्तिनी त्वया।**
 
-
-
 **सिद्धनाथ कृततत्क्रमस्तुतेः  
 कालिदासरचितां च पञ्चिकाम्॥३०५॥**
 
@@ -3807,8 +3649,6 @@ ARNOLD AVALON.
 कर्त्तुमिच्छति शिवं शिवे नृणां  
 ज्ञायते तदविचार्य या त्बया॥३१०॥**
 
-
-
 क्षेपधीस्तवन गौरि तत्कृता  
 विश्वराशि कुरु सर्वमीप्सितम्।  
 केवलं मम पुनस्तदीप्सितं  
@@ -3826,8 +3666,6 @@ ARNOLD AVALON.
 **सम्पूर्णा।**
 
 **श्रीः**
-
-
 
 महार्थमञ्जरीधृत- चिद्गगनचन्द्रिका वचनानि
 
@@ -3857,8 +3695,6 @@ ARNOLD AVALON.
 योगदीधितिषु जृम्भतेऽम्बिका  
 ज्येष्ठयेत्थमधिशक्तिदीधिति॥
 
-
-
 १२६     देव्यभेदितकलाचतुष्टयी  
          शम्भुदीधितिषु दीप्यते स्वरः ॥ म० म० ६६ पृ०
 
@@ -3885,9 +3721,6 @@ ARNOLD AVALON.
          यत् स्थितं गरुड़भावनादिजम्॥   ,,   १२४ ,,  
 २२३      यत्परो निरुपसर्गतः परः  
         स्यान्महानपि च केवलः शिवे।  
-
-
-
 
 **उत्तरश्च विषयात् सच त्वदा**  
 **नन्द उल्लससि तद्धनासि यत्॥ म० म० १३१ पृ०**
@@ -3918,11 +3751,7 @@ ARNOLD AVALON.
 
 [^429]: "पकोम्मु "
 
-
-
 [TABLE]
-
-
 
 योगिनीहृदय टीकायां उद्ध तानि  
 चिद्गगनचन्द्रिका वचनानि।
@@ -3930,8 +3759,6 @@ ARNOLD AVALON.
 -----------------------
 
 [TABLE]
-
-
 
 सर्व एव शशिनः कलाः[^430] शिवे  
 योनयो विधृतवीजतः स्वराः[^431]॥ योगिनी हृ १०३ पृ०
@@ -3962,8 +3789,6 @@ ARNOLD AVALON.
 [^435]: "तत्सतां निनसभावलम्बनं"
 
 \_\_\_\_\_
-
-
 
 **सौभाग्यभास्करधृतचिद्गगनचन्द्रिकावचनानि।**  
 
@@ -3997,477 +3822,24 @@ ARNOLD AVALON.
 
 **\_\_\_\_\_\_**
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
 
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^399]: "नु "
-
-
-[^376]: "ततः "
-
-
-[^345]: "संहति"
-
-
-[^338]: "परा "
-
-
-[^307]: "न"
-
-
-[^197]: "परा "
-
+[^94]: "दया"
 
 [^144]: "शुभे"
 
+[^197]: "परा "
 
-[^94]: "दया"
+[^307]: "न"
+
+[^338]: "परा "
+
+[^345]: "संहति"
+
+[^376]: "ततः "
+
+[^399]: "नु "

@@ -16,43 +16,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU2MTMxOTE3ODM
 
 \[
 
-
-
-
-
-
-
-
-
 TANTRIK TEXTS
 
 श्रीश्रीप्रपञ्चसारतन्त्रम्
 
-
-
-
-
 [TABLE]
 
-
-
-
-
-
-
-
-
 ![](../books_images/U-IMG-1721889355Capture.JPG)
-
-
 
 Printed by - NANIGOPAL DUTT
 
 at **The Emerald Printing Works,**  
 9, D L Roy Street,  
 CALCUTTA,
-
-
 
 INTRODUCTION.
 
@@ -64,8 +40,6 @@ INTRODUCTION.
 
  As I have said this work is in India currently attributed to Shamkara the author of the Shārīrakabhāshya and was, therefore, included in the collection above mentioned. The author of the Prapanchasāravivarana states that Shiva is the author of this work through his incarnation (Avatāra) the philosopher Shaṁkara. The names of other Sham karas occur in Tantrik literature such as the son or Kamalākara the author of the Vāsanātattvabodhinī or Tārārahasyavrittikā, and the Shaṁkara who is a commentator upon the Shatchakranirūpana published as the second volume of this series. The colophon at the end of the Madras edition refers to its composer as Bhagavān Shaṁkarāchārya, a
 
-
-
  which is only applied to the author of the Shārīrakabhāshya who is believed to have been an incarnation of Shiva Himself. It is not stated, however, whether that colophon appears in the manuscript from which the Madras edition was prepared In the three manuscripts on which this edition is based there is no such colophon Whether, however, the work is rightly accredited is another question It is common knowledge that in the history of all religions, works are attributed to great names to gain for them an authority which their real author could not perhaps have achieved Doubtless some writings which pass under the great name of Shaṁkara are not really his I have pointed this out in connection with one of the hymns attributed to him and which I have published[^1] in collaboration with my wife Ellen Avalon So again we find the Tārāpajjhatikā Stotra (which is given in the Tantrik compendium the Tārārahasyavrittikā above mentioned) attributed to Shamkarāchārya though the same hymn is elsewhere in another manuscript ascribed to the Atharvaniyo Upanishad[^2]In support of the accredited authorship I have been referred, in addition to the general style, and authoritative tone of the work, to the 59th verse of the 20th Patala where in enumerating the different Avatāras the name of Buddha is omitted Now Buddha has been recognised as one of the ten Avatāras from the days of the Purānas to those of Jayadeva It has, therefore, been suggested that only an author of the authority of Shamkarāchārya who in particular strongly combated the Buddhist doctrines would have presumed thus to run counter to such a recognised tradition On the other hand, in one of the smaller hymns attributed to Shaṁkarācharya Buddha is recognised as one of the Avatāras. Further in support of the accredited authorship we have the fact that both Rāghave Bhatta in his commentary on the Shāradātilaka and Kālīcharana in his Shatchakranirupana refer to the author of the Prapanchasāra as Shrīmadāchārya by which term the great Shamkara alone is In meant. I leave however others, who may think that the contents of the work itself notwithstanding its authoritative tone and general style tell against the tradition as to its authorship, the developement of their thesis.
 
 [^1]: "Hymns to the Goddess, page 95"
@@ -74,15 +48,11 @@ INTRODUCTION.
 
  Whoever the author may be the Tantrik character of the text admits of no doubt. It is constantly cited as an
 
-
-
 authority in other Tantrik works, notably by Rāghava Bhatta, one of the greatest of Tantrik commentators, the author of the Bhāshya on the celebrated Shāradātilaka of Lakshmanāchārya. It is also referred to by Kālīcharana in his notes on the Shatchakranirūpana and by Vishvanātha in the Shatchakravivriti and by many others. The work is not only frequently quoted, but it has been the subject of several commentaries, among others the Prapanchasārasambandhadīpikā, the Prapanchasāravivarana, and the Prapanchasārasārasaṁgraha; the last two dealing chiefly with ritual and Mantra. Further than this, the philosophical doctrine relating to soundcreation, the general terminology, Devatās of worship and the ritual character of its contents from the sixth chapter to the end of the work make any further elaboration of this point unnecessary which will be obvious to any one who is conversant with the Tantras and the present text. For others I need only for example draw particular attention to the reference to the Tantrik Bhūtashuddhi rite; the detailed account in the ninth chapter of the worship of Tripurāvidyā and to Japa, Bīja, Yantra, Mudrā and so forth which, as H. H. Wilson[^3] long ago pointed out, are distinguishing marks of Tantrik ritual.
 
 [^3]: " Essays II. 33."
 
  Having, however, regard to the alleged authorship the question may be asked, whether the work should be described as a Tantra or Tantrik text, such as, for instance the Shāradātilaka, Shāktānandataraṁginī and like works. If it be not an original Tantra then the authoritative style and form of the work would render it more akin to the Shāradā than to the Shāktānandataraṁginī. Tantrasāra, and other similar works which do not profess to be anything but compendia. The Madras edition says—Bhagavat Shrī Shaṁkarāchāryavirachita; that is, "composed or compiled by Bhagavān Shaṁkarāchārya." If it be the fact that it is the original composition of Shaṁkarāchārya then unless we can regard the work as the teaching of Shiva in his Avatāra as the great philosopher it would not be a Tantra in the proper sense of the term. For such a view however there is the authority of the statement of the Prapanchasāravivarana to which I have referred. Still less would the text be such a Tantra if the author was some other Shaṁkara. On the other hand, the form in which the work appears is that of a discourse of the Mahāvishnu in answer to questionings by
-
-
 
 Brahmā. An old and learned Orissan Pandit to whom this question was referred stated to me his opinion to be that Shaṁkara was not the author of the work but its redactor or compiler, thus occupying the same position in regard to it as the Rishis did to the Vaidik Shruti The question has importance because, amongst other reasons, of the fact that the Mahāsiddhasāra Tantra includes a Tantra called the Prapanchasāra amongst the group of 64 assigned to the Rathakrāntā[^4] Whether the Tantra there referred to is the text before us I cannot say It may be another of the same name Thus we find in the group of Tantras mentioned by the Mahāsiddhasāra the Panchadashī All are aware that the Panchadashī is not a Tantra but a Vedāntik treatise It is possible, however, that a Tantra was also so-called just as there is one which is entitled Matsyasūkta. I have been informed, though I have not yet seen any such manuscript, that there was an ancient Tantra called Prapanchapanchaka, and it has been suggested that the text before us is a summary of that work The title is not inconsistent with such view For “sāra” may here refer either to the essence of the material world (prapancha) or to a summary of the Prapanchapanchaka though in that case the title would more properly be Prapanchapanchakasāra in the sense of the world “sāra" as used in the title of the well-known treatise of Krishnānanda, the Tantrasāra.
 
@@ -102,8 +72,6 @@ Brahmā. An old and learned Orissan Pandit to whom this question was referred st
 \[Padmapāda says the five-fold aspects are,—Sthūla, Sūkshma, Kārana, Sāmānya, Sākshi\]  
 
 ——————————————————————————————————————
-
-
 
 CHAPTER I.
 
@@ -127,8 +95,6 @@ CHAPTER I.
 **5.** With their characteristics of happiness, sorrow, and delusion and functions of reveal- ing, inciting to activity and veiling or suppressing, respectively. Guna is that which works for another as they do for Purusha. See my Introduction to the Mahānirvana Tantra under the heading "Guna." (Ist Ed.).  
 
 ——————————————————————————————————————
-
-
 
  Prakriti by contact with the light (Jyotih)[^8] is Chinmātrā^(**1**). In the desire to create She "solidifies" or "thickens" (Vichikīrshur ghanībhūtā) and appears as Bindu^(**2**). Through the instrumentality of Kāla the Bindu divides itself into three, viz, Sthūla (gross) Sūkshma (subtle) and Para (supreme) These are Bīja, Nāda^(**3**) and Bindu^(**4**) respectively On this self-division of the supreme Bindu there arises an inarticulate sound (Avyaktarava)^(**5**) which is the Shabda-Brahman or Sound Brahman^(**6**) The latter is beyond speech (Avāchya) and is understandable to Itself alone (Svasaṁvedyasvarūpa)^(**7**) The wise know "sound" to be the Shabda-Brahman. It permeates all substance and in the animal body exists as the five "elements" (Panchabhūtātmakadeha).
 
@@ -169,8 +135,6 @@ Ch 1 II, 12
 
 ——————————————————————————————————————
 
-
-
 Taijasika, and Bhautika^(**1**). From Ahaṁkāra issue five Tanmātras^(**2**); from which were developed the five gross elements (Mahābhūtas)[^9] viz., "ether," "air," "fire," "water," "earth”^(**3**). From Ahaṁkāra through Shakti with Guna and Dosha[^10] urged by Kāla, sound is produced and from sound, ether (Ākāsha) ; from ether, air (Vāyu); from air, fire (Agni); from fire, water (Jala); and from water, earth (Prithivī). The Mandala of ether is circular and of air hexagonal^(**4**); of fire triangular; that of water resembles a crescent moon and that of earth is square. Ether contains air, and air, fire; fire contains water, and water, earth; and in earth is all that is moving and motionless in the universe^(**5**). From Ahaṁkāra also issue the five organs of action (Karmendriya), namely the anus, feet, genitals, mouth and hands the functions of which are excretion, walking, procreation, speech and the power to hold; the five organs of knowledge (Jnānendriya), viz., eye, ear, nose, tongue and skin; and the internal sense (Manas).
 
 [^9]: "Perceivable by the senses in those products which are made up of them."
@@ -197,8 +161,6 @@ Taijasika, and Bhautika^(**1**). From Ahaṁkāra issue five Tanmātras^(**2**);
 
 ——————————————————————————————————————
 
-
-
   five Mahābhūtas are purely Vikriti They are called the sixteen Vikāras. The eight Prakritis are Avyakta^(**1**), Mahat, Ahaṁkāra and the five Tanmātras the last seven being also Vikritis of Prakriti. The Karanas^(**2**) are Buddhi, Ahamkāra, Chitta and the Indriyas both Jnāna and Karma^(**3**)
 
  Nārāyana then gives the divisions of time from the minutest, namely the Lava to the duration of Brahmā's life (or a period of 36,000 days and nights, each of 8,640,000,000 human years duration) as follows—
@@ -218,13 +180,9 @@ Ahaṁkāra and the five Tanmātras are both cause and effect, and the "sixteen"
 **3.** The inner agents (antah-karana) are Buddhi, Ahamkāra, Chitta and Manas which sums up in itself and presides over the ten outer agents or senses (Indriyas) of knowledge and action  
 ———————————————————————————————————————————————
 
-
-
 uterus. Motionless things (such as trees, etc.), are called Audbhidas as they pierce through the ground. The Svedajas originate from the combination of the five elements. The Andajas or Andotthas are produced by Shukra (semen) and Shonita (female ovum), and are formed into a ball. The Jarāyuja sprung from the uterus is the result of sexual intercourse. It is born with a body which contains the twentyfour Tattvas. Vāyu ("air") or nerve force takes the discharged semen and then mingles it with the seed of the Shonita. The seed of the female is called Māyīya and that of the male is Kārmaka. The uterine air nourishes the united seeds (Bīja) which are called Ānava and in which, in subtle forms, the twentyfour Tattvas exist. If there be a preponderance of Shonita the child becomes a female; if the proportions are even the child becomes a hermaphrodite and when Shukra predominates then the child becomes a male. The combined seeds in the course of the day by the action of air, fire and water solidify into a body the size of the mother's thumb Next day the embryo becomes a frothy body (budbudākāra). In the course of fifteen days it becomes quadrangular in shape and draws nourishment from the food taken by the mother. In time by the action of Vāyu (in the uterus) a straight long Nādī (nerve or artery) called Sushumnā is produced. The mouth of the Nādī is downward (that is, in the Mūlādhāra). There is a Nadi on each side of it. That on the left is Idā and that on the right is Piṁgalā. With these seven other Nādīs are connected. Idā, connected with the left scrotum, encircles Sushumnā, passes by the right hip, goes to the heart and thence passing by the left shoulder proceeds to the right nostril. Piṁgalā originating from the right scrotum goes in a similar way to the left nostril.
 
  The other Dhamanīs (Nādīs) above mentioned are Gāndhārī, Hastijihvā, Pushā, Alambushā, Yashasvinī, Shaṁkhinī and Kuhu. These are ramified all over the body. The embryo continues to increase drawing its nourishment from the food taken by the mother through a Nādī which is attached to the wall of the uterus. As it goes on increasing it receives a part (Kalā) of the Supreme Light (Paraṁ jyotik) and this Kalā is consciousness (Kshetrajnatā). The body which is thus possessed of consciousness is compounded of the elements (Bhautika) and has qualities of its own (Saguna). In the case of the male the testicles fully exist; but in the case of the hermaphrodite only slightly. The female embryo has none.
-
-
 
  Besides the central Nādī Sushumnā there are various other Nādīs with branches and sub-branches and altogether they are 350,000 in number. Vāyu (v. post p II) passes through the body by means of these Shirās (Nādīs). Vāyu is spread all over the body from the Mūlādhāra upwards proceeding along Idā and Pimgalā towards the nostrils and thereafter stops at a distance of twelve fingers breadth therefrom. There is a constant upward and downward movement of Vāyu along the paths of the sun and the moon[^11]. Vāyu goes to the north by the left, to the south by the right. Different views are held about this consciousness (Chetanā) Some speak of it as the effect of Shukra and Shonita; others as produced by the food taken by the mother. Others again say that it is the product of the Rasa (essence, juice) of the food or lymph chyle Some speak of it as the effect of Karma; others as a manifestation (Vyāptı) of the Param Dhāma (Supreme Light). Some again say that the body and the Ātmā of the father repeatedly act and re-act the one upon the other with the result that the lustrous Supreme Light is communicated by Māruta (Vāyu) to the Shukra as it were the light from one lamp to another. Others say that when the material body of elements (Bhautika) is born the Jīvātmā comes from somewhere and enters it[^12].
 
@@ -233,8 +191,6 @@ uterus. Motionless things (such as trees, etc.), are called Audbhidas as they pi
 [^12]: "These views are rejected by Nārāyana."
 
  Nārāyana then says that the great (Mahīyasī) Prakriti is distinguished by the Gunas (Gunabhinnā) and is Tridoshā (v. post). She pervades and possesses the qualities (Guna) of the five elements. The seven substances or fundamental principles (v. post) are Her characteristics She is Saptadhātubhinnā. She is in the Indriyas: both in the five Karmendriyas, and in the five Jnānendriyas. She is Panchabuddhiprabhāvinī. She issues from the unmanifested state when quickened by Her proximity to the Supreme Light When She is well awakened by the Supreme Light then She is Manas and of great power and is in the state of certainty-uncertainty (Samkalpavıkalpakrityā). When in the act of determining with certainty (nishchinute) then She is called Buddhi or determination When She knows Herself as the knower She is Ahaṁkriti (Ahamkāra) When She withdraws into Herself (abhilīyate) She is Herself alone. When She the Great One moves to manifest Herself in Her different ways then the sound which issues upon the bursting of the Bindu becomes clearly perceptible.
-
-
 
 CHAPTER II.
 
@@ -249,8 +205,6 @@ CHAPTER II.
 
 ——————————————————————————————————————
 
-
-
  In short the term Vayu not only means nerve-force but is extended to include any kind of electro-motor or molecular force (as when we speak of the Vā
 
 yu of the soil) though the term is now loosely applied to signify gas or air
@@ -264,8 +218,6 @@ yu of the soil) though the term is now loosely applied to signify gas or air
 **1.** The Editor of the work last cited, after stating that Sādhaka which is situated in the heart indirectly assists in the performance of cognitive functions by keeping up the rhythmic cardiac contractions, says that it was perhaps this view of the heart's construction which predisposed many ancient Indian physiologists to hold it to be the seat of cognition (Buddhisthānam)  
 
 ——————————————————————————————————————
-
-
 
  At every moment the animal body dies. The etymological significance of the term Sharīra (body) which comes from the root Shri "to wither up" testifies to ancient knowledge of the combustion which is taking place at every moment in the human system. The internal fires would unduly feed upon its constituent principles were it not for the cooling and watery principle of Shleshmā
 
@@ -287,8 +239,6 @@ yu, Pitta and Kapha or Shleshmā, (Vol. I. P. 195)
 
 ——————————————————————————————————————
 
-
-
 principles which sustain the organism are transformed into the dynamics of disease and the grosser excretory changes and organic lesions which form the subject of morbid anatomy and are sometimes confounded with the disease itself. It is, therefore, incorrect to translate Vāyu, Pitta and Kapha as "air", "bile" and “phlegm" except under those circumstances in which they are transfromed into Malas but they are not "air", "bile" and "phlegm" in those planes of their functions which determine the genesis, growth and continuance of the organism as well as its death, decay and disintegration. These principles thus embrace the whole sphere of organic existence^(**1**).\]
 
  The text then continues as follows The embryo is moved by Vāyu at the time of delivery, It issues with its head downwards causing great pain to its mother. At that time its eyes and nose are (in the uterus which is itself steeped) in the filth of the mother's intestines and it repeatedly thinks of the thousands of sins committed by itself in previous births (which have caused it to be thus re-born) It is tormented by the heat of the mother's body and is smeared with her secretions Its body which is rolled up into a ball is agitated by Vāyus moving in all directionsIt is at this time that it longs for Liberation (Moksha)
@@ -301,8 +251,6 @@ principles which sustain the organism are transformed into the dynamics of disea
 **2.** According to the Kāmikāgama cited by Bhāskararāya (Lalita V 116) the first five Dhātus are derived from Devi, and the last two together with breath and vitality (Jīva) fromShiva The tenth substance is called Parāshaktı.  
 
 ———————————————————————————————————————
-
-
 
 Dosha is that which affects and the Doshas are Vāta, Pitta and Kapha^(**1**). The universal spirit (Vishvātmā) is Samavāyī^(**2**). Action shows whether it affects or is affected. Hunger and thirst, grief and ignorance, decay and death are known as the six Ūrmis and exist in Prāna, Buddhi, and as characteristics of the body (Dehadharma). From semen originate marrow (Majjā), bone (Asthi) and nerve (Snāyu); from female ovum come skin (Tvak), flesh (Māṁsa) and blood (Shonita). These are the six[^13] Koshas of the body. In the Dhātus Rasa and so forth is matured (Pāka). With maturity Ojas is produced which is the eighth product (Dashā). \[ It is said in Part I of the Bhāvaprakāsha that "health and strength reside latent in the Ojak Dhātu as butter (Ghritam) lies latent in milk." What is, is not certain. According to some it is albumen or glycogen. But the medical Editor of the Sushruta already cited says (Vol I., p. LIII) that the term has been used to denote that vital principle in the organism which is essential to the maintenance of a healthy combustion in its tissues and to the due performance of their normal functions and activities, no matter whether that principle is patent in the form of protoplasm, protoplasmic albumen, glycogen, or mucosin in accordance with the difference of their functions, geneses, and conditions of protoplasmic metabolism\]. This Ojas according to the text seeks to attach consciousness (Kshetrajnatā) to itself as oil seeks union with the lamp or the firmament the splendour of the thunderbolt. When fire is covered by a pot which has holes in it, the lustre of its flame issues through these apertures and illumines the surrounding space. In the same way the lustrous consciousness (Kshetrajnatā) although covered by the body gathers knowledge through the different senses. Ether is in the ears, air in the skin, fire in the eye, water in the tongue and earth in the nostrils. This is how knowledge is acquired.
 
@@ -321,8 +269,6 @@ ya, which means an intimate and inseparable connection between things such as th
 **3.** Described by Charaka as the fluid which is between the skin and the flesh.  
 
 ———————————————————————————————————————
-
-
 
 dissolved Lasikā working forward in the direction of the skin issues in the form of particles of perspiration. When Kapha is moved upward by Vāyu and Pitta then there is Praseka of the mouth and nose—that is, apparently these organs function by salivation, dribbling, running at the nose and so forth.
 
@@ -343,8 +289,6 @@ ritti) of men are various and wonderful". It is then born and shakes with fear. 
  \[The text epeaks of four states of sound Acording to Padmapāda the first state Parā is divisible into four parts (pada), namely, Shūnyā, Samvit, Sūkshmā and Parā—See page 34 of Text.\]  
 
 ———————————————————————————————————————
-
-
 
 Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the heart (Hridaya) and is united with Mā or Buddhi it is called Madhyamā^(**3**). Then in the mouth and with the desire for utterence it is known as Vaikharī^(**4**) or uttered speech. From this last arises by the action of air (Pavana). all the letters[^14].
 
@@ -376,8 +320,6 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 
 ———————————————————————————————————————
 
-
-
  Her threefold aspect is that of the three Gunas, the three Doshas[^19], three colours[^20]; Trayī[^21], the three Lokas[^22], the three lines (Trirekhā[^23]) She is Tāra because She saves (Tārana), and Shaktı because She is the support (Dhriti) of all
 
 [^19]: "V ante, p II"
@@ -389,6 +331,10 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 [^22]: "Bhuh, Bhuvah, Svah, or the terrestial, upper and celestial worlds"
 
 [^23]: "The three lines of the Akatbādi triangle, viz Vahnı, Indu and Arka Sec Arthur Avalon's "
+
+[^19]: "V ante, p II"
+
+[^19]: "V ante, p II"
 
  In Her fourfold aspect She manifests as the Sūkshma Karanas[^24]; Jāgrat etc[^25].
 
@@ -403,6 +349,10 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 [^27]: "Prāna, Apāna, Samāna, Udāna, Vyāna."
 
  In Her sixfold aspect She is the six Koshas[^19], six Urmis[^29], and six Rasas[^30] She it is who forms the divisions of the six-chambered Yantra (Shadgunita Yantra).
+
+[^19]: "V ante, p II"
+
+[^19]: "V ante, p II"
 
 [^19]: "V ante, p II"
 
@@ -427,8 +377,6 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 **1.** That is the seven planets which give their names to the days of the week Omitting out of the nine planets Rāhu and Ketu, vizRavi or Sūrya (Sun), Soma or (Venus), Chandra (Moon), Mamgala (Mars), Budha (Mercury), Vihaspati (Jupiter), Shukra Shani (Saturn) \[Rahu and Ketu are not recognised as planets in Astronomical works\]  
 
 ———————————————————————————————————————
-
-
 
  In Her eightfold aspect She is the eight Prakritis[^36], the eight Vasus[^37], the eight points of the compass[^38], N-W. (Vayu), S-W. (Nairrata), S-E. (Agni),") and the eight Mothers (Ashtamātarah[^39]). The text then continues with the ten-fold aspect as manifested in the ten directions[^40] adding above and below.") and so forth; the twelve-fold aspect as in the signs of Zodiac and the great twelve syllabled Mantra. Finally Shakti manifests in the fifty-fold form as the fifty letters of the Sanskrit alphabet.
 
@@ -457,8 +405,6 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 **2.** According to the Dīpikā these four appear (ayanasthiti) in Sushumnā when Prānavāyu is in that Nādi; and by Rz and Lri there is cutgoing breath (dakshināyana) and by Rri and Lirī ingoing breath (uttarāyana).  
 
 ———————————————————————————————————————
-
-
 
 These four exist in two states according as they are in the right or left nostril When Prāna is in the right nostril there is what is called Dakshināyana and outgoing breath, and when in the left nostril Uttarāyana and ingoing breath The five short vowels manifest[^41] with the utterance of the five short vowels") when Prāna is in the right, and the five long vowels when it is in the left nostril^(**1**) Bindu and Visarga whose manifestations are dealt with later are the Sun and Moon respectively.
 
@@ -500,8 +446,6 @@ m sthitā hrasvā idāyām samgatāḥ pare Ib, Chapter 2.
 
 ———————————————————————————————————————
 
-
-
 desired aim. From the letters of the Tāra^(**1**) originate the all pervading fifty Kalās which can be divided according to the five elements (Bhūtas). From these^(**2**) originate the Shaktis and Mātris^(**3**) and Mūrtis of Vishnu and Rudra respectively; as also the herbs and vegetable substances (Oshadhi[^44]).
 
 [^44]: "V. post."
@@ -533,8 +477,6 @@ desired aim. From the letters of the Tāra^(**1**) originate the all pervading f
 
 ———————————————————————————————————————
 
-
-
  Bindu has four Kalās, viz, Pītā, Shvetā, Arunā and Asitā
 
  The sixteen Kalās issuing from Nāda are Nivritti, Pratishthā, Vidyā, Shānti, Indhikā, Dīpikā, Rechikā, Mochikā, Pară, Sūkshmā, Sūkshmāmritā, Jnānāmritā, Āpyāyınī, Vyāpınī, Vyomarūpā, Anantā These make
@@ -552,8 +494,6 @@ desired aim. From the letters of the Tāra^(**1**) originate the all pervading f
  The Rudra-murtis of the vowels are Shrīkantha, Ananta, Sūkshma, Trimūrtı, Amareshvara, Arghīsha, Bhāvabhūti, Tithi, Sthānu, Hara, Jhintīsha, Bhautika, Sadyojāta, Anugraheshvara, Akrūra, Mahāsena, sixteen in all
 
  The Rudra-mūrtis, of the consonants are Krodhīsha Chandesha, Panchāntaka, Shivottama, Ekarudra, Kūrma, Ekanetra, Chaturānana, Ajesha, Sharva, Someshvara, Lāṁgalī, Dāruka, Ardhanārīshvara, Umākānta, Āshādhī, Dandī, Adri, Mīna, Mesha, Lohita, Shikhī, Chhagalanda, Dviranda, Mahākāla, Kapālī, Bhujaṁgesha, Pinākī, Khadgīsha, Vaka, Shveta, Bhrigu, Nakulī, Shiva, Sambartaka; 35 in all.
-
-
 
  The Rudramātris of the vowels are Pūrnodarī, Virajā, Shālmalī, Lolākshī, Vartulākshī, Dīrghaghonā Sudīrghamukhi, Gomukhī, Dīrghajihvikā, Kundodarī, Ūrdhvakeshi, Vikritamukhī, Jvālāmukhī, Ulkāmukhī, Shrīmukhī, Vidyāmukhi, or 16 in all.
 
@@ -619,8 +559,6 @@ The Rudra-mātris of the consonants are Mahākālī, Sarasvatī
 
 ———————————————————————————————————————
 
-
-
  Hakāra Bīja is Prānātmaka because it con notes the Paramātmā in conjunction with Māyā which is implied by the word Prāna^(**1**)
 
  From Hakāra originate the vowels A (**अ**) toŪ (**ऊ**) and the six Ūrmis[^46] decay and death"). The Mahāvishnu adds "From Hakāra have you (that is, Brahmā, Hari or Vishnu, Īshvara or Shiva) originated and it exists in all animate beings enveloping and permeating the Brahmānda (universe) with all that is moving and motionless therein" From Repha or Rakāra (**र**) originate the letters Ri (**ऋ**), Rrī (**ऋ**), Lri (**लृ**), Llrī (**लृ**) and the four Gunas[^47], Form or Sight (rūpa), Taste (rasa) and Smell (gandha)") From Īkāra (**ई**) come the remaining six vowels including Bindu and Visarga and its Gunas are the four Karanas[^48], Saṁghāta[^49] and Chetanā^(**2**)
@@ -675,8 +613,6 @@ rgalayantra Chapter in the Dakshinamūrtı Samhitā
 
 ———————————————————————————————————————
 
-
-
 Creatrix of the world (Jagatprasavakāriṇī). She is Gāyatrī since it is She who saves (Trānana) the singer (Gāyaka). As the embodiment of the seven groups of letters[^50], She is the seven planets. The Sun is the Lord of the vowels and Mamgala, Shukra, Budha, Vrihaspati, Shani[^51] and the Moon are the Lords of the Ka-varga (**क**), Cha-varga (**च**), Ta-varga (**ट**), Ta-varga (**त**) Pa-varga (**प**) and Ya-varga (**य**), respectively.
 
 [^50]: "The vowels and the vargas commencing with Ka-varga, v. post,"
@@ -704,8 +640,6 @@ Creatrix of the world (Jagatprasavakāriṇī). She is Gāyatrī since it is She
 **1.** The system of the Nakshatras or Asterisms was originally based upon the Sidereal revolution of the moon in about 27 days according to which a lunar zodiac of 27 asterisms near the ecliptic was made, so that in each night of the Sidereal month the moon entered a different asterism. Time was thus marked by defining the position of the moon without regard to its phases. See Dr. Barnett's Antiquities of India, p. 191, where the 27 Nakshatras are fully given.  
 
 ———————————————————————————————————————
-
-
 
  Then follows detailed rules regarding the selection of proper time and place for initiation, worship of the Vāstu Purusha[^54], sacrifice (Bali), offerings and so forth. The conclusion is that Guru, Devatā and Mantra should be realised as being one and the same (Aikyam).
 
@@ -743,8 +677,6 @@ and Her six limbs are the letters of the alphabet
 
 ———————————————————————————————————————
 
-
-
  The eight Mothers are Brahmānī, Māheshī, Kaumārī, Vaishnavī, Vārāhī, Indrānī, Chāmundā, Mahalakshmī.
 
 ————  
@@ -774,8 +706,6 @@ and Her six limbs are the letters of the alphabet
 **2.** So according to the Kālikā Purāna, She is so-called because through the operation of Pradhāna Her body became threefold as Brahmā, Vishnu, Rudra. She is also three-fold because the Mandala is triangular; the Mantra has three syllables; there are three states (avasthā) and so forth. Some other meanings are given in the commentary to v .178 of the Lalitā where She is addressed as Tripurāmbikā. Similarly in the Shoda-shīstotra, She is addressed as Tripurādhivāsinī and Tristhā or "residing in the three" that is, the three- fold worlds, body, states of consciousness and so forth.  
 
 ———————————————————————————————————————
-
-
 
  The Dhyāna is given at v 8 The Sādhaka is directed to worship the Pītha, the Shaktis Vāmā and others and to draw the Navayoni-chakra and to then place a Kalasha (jar) on the Chakra and invoke the Devi therein. The Chakra is then described The Shaktis and Mātrikās and Bhairavas who are to be worshipped are named.
 
@@ -815,8 +745,6 @@ CHAPTER XI**
 
 ———————————————————————————————————————
 
-
-
  Some further details regarding Her worship are set forth and then in verses 49-68 the following fine Hymn to Prakriti is given.
 
 HYMN TO PRAKRITI
@@ -854,8 +782,6 @@ And these of words with their terminations^(**7**),
 **7.** In Sanskrit the root is not considered a word. It becomes only a word (padam) when the case or verbal termination is added. Thus bhū the root of the verb "to be" is not a pada but, bhavati, the third person singular present tense is such; Rāma is not a pada, but Rāmah, Rāmam, Rāmena, etc., are padas.  
 
 ———————————————————————————————————————
-
-
 
 Words again consist of letters  
 And Thou Thyself, Oh Supreme Queen, art the letter^(**1**),  
@@ -912,8 +838,6 @@ da and from Nāda was born Bindu (Shāradātilaka, Ch 1) This Bindu again has tw
 
 ———————————————————————————————————————
 
-
-
 Who art Pradhānā[^73] and Mahattva^(**1**),  
 Salutation to Thee Who art in the form of Ahaṁkāra^(**2**).
 
@@ -932,6 +856,10 @@ Obeisance to Thee in the form of earth with its quality of smell^(**3**).
 Salutation to Thee in the form of the ear, skin, eyes, tongue, and nose^(**4**),
 
  And in the form of mouth, speech, arms, legs, organs of excretion and generation[^74],
+
+[^74]: "See last note."
+
+[^74]: "See last note."
 
 [^74]: "See last note."
 
@@ -956,8 +884,6 @@ rika, and Bhautika.
 Chittam is that by which one knows (Chetati anena iti chittam).According to the Vedānta it is the faculty of the mental organ (antahkarana) which contemplates and investigates into the subject-matter of thought—anusandhānātmikä antahkarana- vrittik iti vedāntah.  
 
 ———————————————————————————————————————
-
-
 
 Who pervadest a॥  
 And yet art formless^(**1**).
@@ -985,6 +911,10 @@ Who can imagine Thy supreme state[^77]?
 
 [^77]: "Lit "
 
+[^76]: "Ishi."
+
+[^76]: "Ishi."
+
 9
 
 Adorned with crown,  
@@ -1009,8 +939,6 @@ dhaka who can only worship Her in such form See Author's "Shakti and Shūkta" an
 **5.** That is Sun, Moon and Fire corresponding with the Kriyā, Ichchhā and Jnāna Shaktis  
 
 ———————————————————————————————————————
-
-
 
 As Nārāyana with quality of manifestation[^79],  
 Thou dost maintain the world;  
@@ -1070,8 +998,6 @@ With shining conch and discus
 
 ———————————————————————————————————————
 
-
-
 Formidable with whirling sword,  
 She who with high and glittering crown  
 Is borne upon a roaring lion[^88]  
@@ -1101,6 +1027,18 @@ Great Yogins salute Thee
 
 [^94]: "Sunāthā,"
 
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
 14
 
 Great Goddess[^95], I know Thee to be Shrī[^96]  
@@ -1114,6 +1052,10 @@ Beauteous with the glittering splendour of the Kaustubha gem^(**3**).
 [^96]: "Lakshmi."
 
 [^97]: "Vyomanile"
+
+[^96]: "Lakshmi."
+
+[^96]: "Lakshmi."
 
 15
 
@@ -1134,8 +1076,6 @@ rkandeya Chandī, Ch I
 **3.** Gem worn by Vishnu The word means destruction of all evils, or worldlymindedness, or sense of smallness or limitation. See post p. 48.  
 
 ———————————————————————————————————————
-
-
 
 They who bear the signs, implements, and weapons  
 Of Aja, Adrit, Guha, Abjāksha,  
@@ -1160,6 +1100,10 @@ Intelligence[^102], memory, patience,
 Speech, mind[^103] and knowledge^(**4**)  
 Beauty and splendour  
 And all other powers[^104].
+
+[^76]: "Ishi."
+
+[^76]: "Ishi."
 
 [^76]: "Ishi."
 
@@ -1189,8 +1133,6 @@ Bindu and Nāda:
 
 ———————————————————————————————————————
 
-
-
 Shakti and Shānta^(**1**)  
 Thou art in the form of the seven  
 Regions[^106], nether worlds[^107], mountains^(**2**) and oceans^(**3**),  
@@ -1209,9 +1151,21 @@ Who art the power in all things^(**8**),
 
 [^91]: "Maheshi"
 
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
 [^109]: "Samaste"
 
 [^110]: "Samastasvarūpe"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
 
 ———————————————————————————————————————  
 
@@ -1233,8 +1187,6 @@ Who art the power in all things^(**8**),
 
 ———————————————————————————————————————
 
-
-
 Who dost assume forms both gross and subtle  
 Thou art spoken of as memory and knowledge  
 And as the want thereof^(**1**).
@@ -1246,6 +1198,18 @@ Oh our Great Lady[^91],
 May all our speech be of, and all our hymn to, Thee,  
 May all we do^(**2**) be homage to Thee.  
 Be ever gracious to and pardon me^(**3**).
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
+
+[^91]: "Maheshi"
 
 [^91]: "Maheshi"
 
@@ -1277,8 +1241,6 @@ Be ever gracious to and pardon me^(**3**).
 
 ———————————————————————————————————————
 
-
-
 Sādhaka should meditate on the Devī as on a lotus seat in the heart lotus[^114] After Pūjā to Her, Her Āvarana Devatāsshould be worshipped Her Japa is done 1,200,000 times(twelve lakhs) In vv 4 and 5 Her Dhyāna is given In v. 10, the Dharanī Bīja is indicatedThe Rishi is Varāha, the Chhandah is Nivi it, and the Devatā is Dharanī Then follows Tvaritā Vidya who is so called because She grants success to Her worshippers very speedily. The worshipper of this Tvaritā mantra is tempted by celestial damsels If the Sādhaka overcomes these temptations then Devī Tvaritā grants all his desues. Totalāvidhi is described in vv 64-66 Then Nityā Mantra is indicated and the mode of Her worship laid down. V. 84 says that (amongst other fruit secured by this Mantra) if he who is initiated therein thinks of a woman and makes Japa of this Mantra a thousand times, even when lying on his bed[^115], then that woman becomes so maddened by the arrows of Madana the God of love that she comes running to him
 
 [^114]: "That is, not anahata but the small Ishtadevatā lotus below it."
@@ -1301,14 +1263,10 @@ CHAPTER XVI**
 
  Indicates the Mantra of Chandra (Moon) and deals withHis worship V 8 gives nine Shaktis of Chandra At v. 25,
 
-
-
 the Agni mantra is indicated; and at v. 30, the nine Shaktis of Agni are enumerated. The rest of the Chapter is largely concerned with the fruits of the various forms of worship. Chandra is the Rājasa and Agni the Tāmasa aspect of the Devī.
 
 **————  
 CHAPTER XVII**
-
-
 
 Treats of the worship of Mahāganesha.Vv. 5-17 give the Dhyāna. V. 22 gives His nine Shaktis. These include Tivrā, Jvālinī, Bhogadā, Kāmarūpinī, Ugrā, Tejovatī, Satyā, Vighnanāshinī.
 
@@ -1332,8 +1290,6 @@ CHAPTER XVIII**
 **4.** Chhatra ordinarily means umbrella; or all covering things thus the season of spring or the sight of a beautiful woman would be Kāmachhatra.  
 
 ———————————————————————————————————————
-
-
 
 Chandralekhā (The Digits of the moon[^118]), Shukī (a female parrot[^119]), Madanā (Passion of love), Yoni (The female genitals), Māyāvatī (She who deludes) At v. 21 His sixteen servants are given, namely, Shoka (Heat or anguish), Moha (Delusion), Vilāsa (Coquetry or play with women), Vibhrama (Perturbation or confusion or amorous gestures), Madanātura (Helpless state induced by passion), Apatrapa (Shamelessness), Yuvā (Male youthfulness[^120]), Kāmī (Amorousness), Chyutapushpa (Mango blossom)^(**1**). Ratipriya (Pleasant coition), Grīshma (summer)^(**2**). Tapānta (Rainy season)^(**3**), Urja (Autumn), Hemanta (Dewy season[^121]), Shishira winter), Mada (Spring). The text at vv. 24 and 25 says that at the corners of the Yantra of Madana should be worshipped the play of the amorous sidelong glances[^122], the sensuous movements of woman's body[^123], the Mādhavī creeper[^124], Mālatī flower[^125], the gazelle-like eye (Harinākshī) and the entrance-ment of passion[^126].
 
@@ -1371,8 +1327,6 @@ Chandralekhā (The Digits of the moon[^118]), Shukī (a female parrot[^119]), Ma
 
 ———————————————————————————————————————
 
-
-
 kāra[^128] and is the abode of error[^129]. Woman is Buddhi[^130]. These two are united in the Chittayoni[^131], that is, in that mental function of the Antahkarana which is here figuratively regarded as the Yoni or womb of Buddhi. Ahaṁkāra is thus united with Buddhi and husband with wife[^132]. The husband is to think of himself as Madana[^133] in the form of fire and of his Shiva[^134] as a flame of fire. Let him embrace her who is overspread by its flame and let him sip with his congue the nectar of her teeth and tongue. Let him think of his beautiful wife[^135] as the embodiment of nectar whose body[^136] is as it were the butter[^137] which is melted in that fire. Let him touch her arms thinking them to be the flowery arrows of Kāma. The Mantrin should keep his self-control and take care not to injure the Jīva[^138]. In all the stages of passion (rati) he should be self-controlled. Thus should one's own beloved be worshipped (bhajet). If it be done thus then she who is struck by the arrows of Kāma follows her husband like a shadow even in another world[^139] another birth.").
 
 [^128]: "Vilasadahaṁkāratanu."
@@ -1407,8 +1361,6 @@ kāra[^128] and is the abode of error[^129]. Woman is Buddhi[^130]. These two ar
 
 [^142]: " Kamsa sent Pūtanā, the milk of whose breasts was poison, to Krishna; but He sucked her life away. See Devibhāgavata Purāna, IV. 24."
 
-
-
 He is the Govinda to whom Shamkara, Indra and others do obeisance.
 
  At v. 48 is the midday meditation (Dhyāna). Let the worshipper then think of Him as Mukunda lustrous as the full blown lotus, with eyes like blue lotuses, surrounded by cows and herdswomen (Gopis), as one Who has conquered all His enemies, Whose pure smile is like the white jasmine and the Mandāra flowers. His head is adorned with peacock feathers. He is the strong lustrous One habited in yellow raiment. Those who thus worship Him gain wealth[^143].
@@ -1429,8 +1381,6 @@ CHAPTER XIX**
 [^146]: "Kara-pada-mukhādivihinam anaratadrishyam ananyagam ātmapadam Yamihātmani pashyati tattvavida stamimam kıla yogamiti bruvate."
 
  The faults which are impediments (Dūshana) of Yoga are enumerated, viz.—Kāma (lust), Kopa (anger), Lobha (greed), Pramoha (ignorance), Mada (pride), Matsaratā (envy). In verse 16 the well known Aṁgas of Yoga such as Yama and so forth are given and then defined. The several names of Oṁkāra follow (v. 34).
-
-
 
 V. 42 describes how the different parts of Oṁkāra are dissolved in Shānta. A is dissolved (Saṁharet) in U, U in M, M in Bindu, Bindu in Nāda, Nāda in Shakti and Shakti in Shānta.
 
@@ -1464,8 +1414,6 @@ Sasushumnagragayor api yunjyājjāgradādithih pavanam.
 
 ———————————————————————————————————————
 
-
-
  Mahāvishnu then says—In leaving the body, entering another body and re-entering one's own body the places of exit and entry are the Aṁgushtha (either thumb or great toe), Gulpha (the ankle), Jānu (knee), Guda (anus), Sīvanī (fraenum of prepuce or quaere glans penis), Medhra (penis), Nābhi (navel), Hridaya (heart), Grīvā (neck). Lambikāgra (tip of the tongue), Nāsā (nose), Bhrūmadhyalalātāgra (middle of eyebrows on the forehead).
 
  He then speaks of the conquest of, or power of control over, the five elements This is done through their respective Shaktis and Bījas, with which the self is identified^(**1**). Thus to control fire the self is made one with its Shakti and Bīja (v. 56) He then describes the three states^(**2**) of Siddhi (power) and the eight Siddhis; to possess all of which is to be Jīvanmukta.
@@ -1473,8 +1421,6 @@ Sasushumnagragayor api yunjyājjāgradādithih pavanam.
 ————  
 
 **CHAPTER XX.**
-
-
 
 Deals with the meaning of the eight-letter Mantra of Nārāyaṇa "Om namah Nārāyaṇāya. The meaning is that Tāra (Om) arises from Shakti and means So'ham ("I am He") Na and Mah are negatives. Nā is water, Rā is fire, Ya is air, Na is earth; and the last Ya is there as a caseending^(**3**) The Rishi of the Mantra is Sādhyanārāyana, the metre is Gayatri and the Devatā is Paramātmā. Verse 7 gives the Dhyāna of Mukunda[^153] In the Sādhana of this Mantra the body of the Sādhaka is the Pitha. V. 12 says that when Nyāsa is done with the letters of this Mantra then the Mantrin becomes the object of his own worship for he is personally composed of the letters of the Mantra.
 
@@ -1494,8 +1440,6 @@ Deals with the meaning of the eight-letter Mantra of Nārāyaṇa "Om namah Nār
 
 ———————————————————————————————————————
 
-
-
  Vv. 21-24 state the Kirītādi Mantra[^154]. The Shaktis of the Pitha given in v. 29 are Vimalā and others. The rest of the Chapter deals with placing of the jar, Japa, Archana and other ritual details.
 
 [^154]: "The Mantra used in the worship of the ornaments of Vishnu such as crown armlet, necklace, etc."
@@ -1503,8 +1447,6 @@ Deals with the meaning of the eight-letter Mantra of Nārāyaṇa "Om namah Nār
 ————  
 
 **CHAPTER XXI**
-
-
 
 Treats of the twelve Yantras or diagrams of the twelve Rāshis (signs of the Zodiac)^(**1**).
 
@@ -1538,8 +1480,6 @@ Who allayeth all our pains.
 **1.** Mesha (Aries), Vrishabha (Taurus), Mithuna (Gemini), Karkataka (Cancer), Simha (Leo), Kanyā (Virgo), Tūlā (Libra), Vrishchika (Scorpio), Dhanuh (Sagittarius), Makara (Capricornus), Kumbha (Aquarius), Mīna (Pisces); the solar year beginning with the entrance of the sun into Mesha.  
 
 ———————————————————————————————————————
-
-
 
 3
 
@@ -1602,12 +1542,14 @@ Victory be to Thee Who art gentleness itself!
 
 ———————————————————————————————————————
 
-
-
 May You conquer, Oh Keshava^(**1**).  
 Holder of the bow, Destroyer of Keshin[^74],  
 Oh Auspicious One, delighter of Nanda[^168],  
 May Thou be ever victorious.
+
+[^74]: "See last note."
+
+[^74]: "See last note."
 
 [^74]: "See last note."
 
@@ -1652,8 +1594,6 @@ Salutation to Thee, Destroyer of sin!
 **3.** Collyrium (anjana) is used to clear the eyes and sight. The Lord clears the spiritual vision of His worshippers and grants them spiritual knowledge.  
 
 ———————————————————————————————————————
-
-
 
 Obeisance to Thee, Our Lord[^173]!  
 Salutation to Thee, Dispeller of all fears!
@@ -1700,8 +1640,6 @@ Paramātmā and Sūrya^(**4**)
 **4.** Chakrabandhave; lit. "friend of Chakra" which according to Hemādri here means the Sun (Sūrya): for He is the Bharga, the Hiranya Purusha in that golden luminary. See Chhāndogya Upanishad, Adhyāya I, Khanda VI. Rik, 6 and 7.  
 
 ———————————————————————————————————————
-
-
 
 Who holdeth the discus[^176] whereby  
 The array of Thine enemies is destroyed.
@@ -1765,11 +1703,7 @@ Which is freedom from birth and death.
 
 ———————————————————————————————————————
 
-
-
 **CHAPTER XXII**
-
-
 
 Gives the twelve-lettered Mantra[^185] of Vishnu; and three kinds of Nyāsa are prescribed with the letters of this Mantra: viz,—Saṁhāranyāsa in which Nyāsa begins from the feet and proceeds upwards to the knees, limga, navel, belly, heart, hands, throat, mouth, eyes, head and the crown lock (Shikhā)^(**1**), Srishtinyāsa in which the rite begins with the Shikhā in the reverse way; and lastly, Sthitinyāsa in which the Nyāsa commences in the middle with the heart, goes down to the feet and then from the hand goes to the Shikhā. The first is for the destruction of all Dosha (fault); Srishti is for the creation or production of good; and the object of Sthiti is to gain peace (Shānti).
 
@@ -1779,15 +1713,15 @@ Gives the twelve-lettered Mantra[^185] of Vishnu; and three kinds of Nyāsa are 
 
 **CHAPTER XXIII.**
 
-
-
 Gives several Mantras including that of Vishnu as "The Charmer of the whole Universe" (Trailokyamohana). A remarkable meditation on Him is given in terms of sensuous splendour at vv. 37-49 and which is as follows—
 
 **MEDITATION ON VISHNU.**
 
-
-
 Think of a beautiful garden of Kalpa trees fragrant with the scent of flowers and musical with the humming of big bees. Therein meditate upon Ramāpati[^186], seated on Garuda[^187].") who is on a red lotus. The husband of Shrī[^96] is the colour of a full blown red hibiscus flower and shines with the radiance of ten million rising suns. He is in the full flush of beauteous youth shedding the nectar of His sweet scented presence and lovely form. Kind is He to all. He holds a conch shell, bow, club (Mushala), noose (Pāsha), discus (Chakra), sword, mace (Gadā), goad (Aṁkusha). His eyes
+
+[^96]: "Lakshmi."
+
+[^96]: "Lakshmi."
 
 [^96]: "Lakshmi."
 
@@ -1800,8 +1734,6 @@ Think of a beautiful garden of Kalpa trees fragrant with the scent of flowers an
 **1.** Thus Oṁ padbhyāṁ namak (Oṁ, salutation to the feet); Nam jānubhyam namah (Nam, salutation to the knees), Mah limgāya namah Mah, salutation to the Limga); Bhang nābhaye namah (Bhang, salutation to the navel) and so on, thinking the while of the body of the Ishtadevaiā into which the Sādhakā's body is being transformed.  
 
 ———————————————————————————————————————
-
-
 
 are fixed in gaze upon the face of Shrī, His spouse who embraces him in the fullness of Her love[^189]. Shrī is of peerless beauty and like molten gold, joyous and decked with all jewels. She holds a lotus. Her eyes are like lotuses thirsty to drink the honey from His lotus mouth. Such is the thrill (romāncha) of Her passion that it has covered Her body with pearly beads of sweat. In attendance upon them are all the Devas with their attendants, Daityas, Rākshasas[^190], Gandharvas, Yakshas, Pannagas[^191]. See The Great Liberation p. 2 & Notes.") and the foremost of sages (Muni). Encircling Vishnu and His spouse are their househld women with heavy thighs, hips and breasts[^192], sweetly smiling. They look with ardent longing upon Him making obeisance with their soft folded hands. Pierced by the [arrows of Anamga](#) they move voluptuously[^193]. Their lips part but scarcely utter a sound for they are tremulous with passion. Their hair and clothes are in disorder. They are shameless with passion[^194]. Their whole body shakes. They breathe heavily. All steadiness is stolen from them. They are about to fall, rent as they are by the terrible arrows of Manmatha[^195]. But yet they do not fall being strengthened and raised by the beauteous glance of Vishnu. Forming lotuses as it were with their hands[^196] they go towards Him and worship His two feet and with the murmur of hardly uttered words and with eyes wet with tears of joy say to Him "Supreme Lord and Husband, be our Refuge”[^197].
 
@@ -1827,8 +1759,6 @@ are fixed in gaze upon the face of Shrī, His spouse who embraces him in the ful
 
  In His manifestation as Rādhā He is both the fount of Emotion (Rasa) and Emotion itself which includes the sexual sensation (Shriṁgāra) and the higher love (Madhura) which in the more spiritually evolved marriage is associated with it. The worshipper rises above the unconscious animal life and the evil consciousness so often accompanying this up-
 
-
-
 ward movement in which the passions are regarded as things only of and for the limited self^(**1**). The gratification of sense in serving self alone is a "sowing to the flesh". He therefore identifies himself with Rādhā and thus places himself under the direction of Her Lord with whom She is one and who as the Antaryāmın or indwelling Spirit guides and controls the body and its senses. Thus gross desire is purified by its direction towards that abode of Vishnu wherein He as Gopāla plays and becomes as it were the vehicle on which subtle aspiration is made to rest This inner sentiment has been sometimes exteriorised in accordance with the principle of Hindu worship whereby thought being translated into action is, by an established psychological law, reinforced by it This is exampled by the Sakhibhāva of the Vaishnava and certain ritual details in the Rahasyapūjā of the Shākta A radical analysis af these theories and rites will, I believe, disclose a common ground and object, namely, the control and spiritualization of those passions which if left to themselves become so formidable impediments of spiritual progress There are of course differences in the methods and devotional concepts—Thus Vaishnava worship being of a dualistic trend retains the ideal distinctions of sex and person. In Shakti worship the aim is more directly monistic and accordingly the Sādhaka regards himself as the Devī whom he worships and not as the spouse of the Devatā even though according to the true inner doctrine governing both modes of adoration the ultimate object of it is one and the same. In his utilization of passion the Hindu has had the sense to know that we must do our market with and according to the funds in our purse. I wish also to add that if the Hindu described that passion in what to the prudish may seem "immodest" detail it was because he found nothing to be ashamed or afraid of in this natural state or function in itself but in its abuse which his Scriptures like any other forbid^(**2**).
 
  The western initiate however in these matters may say that these observations do not exhaust the subject and do not
@@ -1841,8 +1771,6 @@ ward movement in which the passions are regarded as things only of and for the l
 
 ———————————————————————————————————————
 
-
-
 touch upon those other principles which have been asserted according to which sexual relations or interactions are typal of relations universally existent as well as of all action absolutely; the process of redemption (to use western parlance) moreover being according to this view the assimilation of the earthly to the heavenly planes, all physical, psychic and spiritual life being varying forms and degrees of intensity in the one universal stream of radiant Energy. Criticism however of these views or a further developement of the subject either from the Western or Indian stand-point would carry me beyond the scope of my present purpose.
 
  The Chapter continues with an enunciation of the offerings which should be given and the rules relating to worship. The worshipper of this Mantra, it is said, acquires wealth and freedom from the oppression of his enemies and in the end attains to the abode of Vishnu.
@@ -1852,8 +1780,6 @@ touch upon those other principles which have been asserted according to which se
 ————  
 
 **CHAPTER XXIV**
-
-
 
 Deals with the Varāha^(**1**), another Vaishnava Mantra. Verse 24 says Earth is in the tusks of Varāha; the Goddess of Speech is in the grunt of this Boar; Air in His breath and the Sun and Moon are in His right and left hands. In His belly are the Vasus[^198]; in His ear the points of the compass; the two Ashvins[^198] are in His eyes; in His feet is the Lotus-born[^200]; in His heart Hari[^201]; and in His mouth Shaṁkara[^202]. These should all be worshipped separately. The rest of the Chapter deals with the ritual, Nyāsa, Homa, Yantra and so forth connected with this particular Mantra.
 
@@ -1869,8 +1795,6 @@ Deals with the Varāha^(**1**), another Vaishnava Mantra. Verse 24 says Earth is
 
 **CHAPTER XXV**
 
-
-
 Describes the Nrisiṁha^(**2**) Mantra and the ritual connected therewith. The Dhyāna will be found in v. 8.
 
 ———————————————————————————————————————  
@@ -1881,18 +1805,12 @@ Describes the Nrisiṁha^(**2**) Mantra and the ritual connected therewith. The 
 
 ———————————————————————————————————————
 
-
-
 **CHAPTER XXVI**
-
-
 
 Deals with the Vishnupanjara Mantra. In v21 the Dhyāna or formula of meditation on Vishnu is given. The rest of the Chapter deals with the ritual.
 
 **————  
 CHAPTER XXVII**
-
-
 
 Gives the Prāsāda Mantra[^203] which is so called because it purifies the mind V 4 gives the Dhyāna of Shiva. The five Devatās of this Mantra are the five faces of Shiva, viz.—Īshāna, Tatpurusha, Aghora, Vāmadeva, Sadyojāta The Dhyānas of these are given. The Pitha Shaktis are Vāmā, Jyeshthā, Raudrī, Kālī, Kalavikarinī, Balavikarinī, Balapramathinī, Sarvabhūtadamanī and Manonmanī
 
@@ -1919,8 +1837,6 @@ Gives the Prāsāda Mantra[^203] which is so called because it purifies the mind
 **2.** Where Shiva is meditated upon as Sadyojāta, Vāma, etc, collectively He is thought of as with five faces in all. But when the Dhyāna is of one of these forms only then the Mūrti has four or five faces as stated in the text  
 
 ———————————————————————————————————————
-
-
 
  There is a remarkable^(**1**) Dhyāna of Shiva in v. 41 where He is described as of gracious aspect; seated on a lotus; as it were “a mountain of pearl dust mingled in nectar." He is clad in tiger's skin and decked with ornaments[^206]; upon His hair high coiled above His head is a digit (Kalā) of the moon[^207]. He makes the two Mudrās abovenamed and holds an axe and a deer^(**2**). He has five faces.
 
@@ -1969,8 +1885,6 @@ And Who dost devour the Universe[^210].
 
 ———————————————————————————————————————
 
-
-
 4
 
 Obeisance to Shambhu[^211]  
@@ -1999,9 +1913,9 @@ He Who is subtle[^216], the possessor of Māyā[^217]
 
 [^216]: " Anu atom So in Nyaya, ātmā is said to be as fine as an atom. In the next verse His gross aspect is sung"
 
-6
-
 [^217]: "Mayi. He is shaktiman, cf. the line "
+
+6
 
 Obeisance to Him  
 In physical form^(**2**), the Primal element[^218]  
@@ -2020,8 +1934,6 @@ To Him the Naked One
 In Whose matted hair are Serpent, Moon and Ganges^(**3**)  
 Whose feet are upon the heads of Devas, Daityas, and Lords of Asuras,
 
-
-
 ———————————————————————————————————————  
 
 **1.** In Yoga upon the supression of the activity of the intellectual function, the first and most subtle manifestation of Prakriti or Māyā, there arises the condition of samādhi in which the Ātmā exists in its own true state freed of all pains attendant on its conditioned state
@@ -2031,8 +1943,6 @@ Whose feet are upon the heads of Devas, Daityas, and Lords of Asuras,
 **3.** The Ganges in its descent from heaven at the call of Bhagīratha was caught in the matted hair of Shiva. It is for this that She is called Bhagīrathi. See ante p. 33  
 
 ———————————————————————————————————————
-
-
 
 8
 
@@ -2084,8 +1994,6 @@ Destroy our wordly fear^(**5**).
 
 ———————————————————————————————————————
 
-
-
  The rest of the Chapter deals with ritual, v. 68 giving an invocation to Shiva as Hara Verse 68 says—
 
  "I adore Hara Who holds a spear and skull and makes the gestures of granting boons and dispelling fear. The Daughter of the Mountain holding in Her left hand a red lotus is seated on His left thigh and with Her right arm clasps His lustrous body."
@@ -2094,8 +2002,6 @@ Destroy our wordly fear^(**5**).
 
 **————  
 CHAPTER XXVIII**
-
-
 
 Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He is seated under a fig tree (Vata) with one hand on His knee. He is white as milk Kshīra) A great serpent is coiled around His waist The crescent moon is on His matted hair. He holds an axe and deer and makes the auspicious (Bhadra) gesture[^225]. He is surrounded by Shuka and other Munis. "May Bhava grant ye purity of mind (Bhāvashuddhi).” Then follows some ritual in His worship.
 
@@ -2106,8 +2012,6 @@ Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He
 [^226]: "Serpent Divinities."
 
  The ritual is dealt with up to v. 30. The next verse gives the Mrityunjayamantra; and the Dhyāna of this aspect is at v. 33. The remainder of the Chapter deals with Yantra and other ritual details.
-
-
 
 **CHAPTER XXIX**
 
@@ -2149,8 +2053,6 @@ Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He
 
 ———————————————————————————————————————
 
-
-
 **CHAPTER XXX.**
 
  This is an important Chapter dealing with the Gāyatrī Mantra In v 5 it is explained how the Pranava^(**1**) produced by Prakriti-vikriti is like the humming of bees in the Mūlādhāra[^238] See A. Avalon's ") and goes upwards along the channel of the Sushumnā[^239] of that name v ib") in seven stages[^240] to the head V 6 enumerates the seven Vyāhritis[^241] In vv 7-10 Mahāvishnu teaches what these denote Bhūh is mere existence alone (Sanmātra) Bhuvah is elements (Bhūta) and Cause (Kārana). Svah is the Guide and the Ātmā of all that is[^242]; Mahah implies Greatness and Light[^243], Tat, (Brahman) is Janah because It is all[^244] Tapah denotes Jnānatā (All knowledge) and Tāpatā^(**2**) Satyam implies Supremacy and Ātmatva or the natural state of Ātmā, that is, Ātma in itself, and eternal Wisdom (Anantajnāna) The exoteric "worlds" are thus described as stages of being. The letters of the Pranava are then identified with them. A is Bhuh, U is Bhuvah, M is Svah, Mahah is Bindu, Nāda is Janah, Shakti is Tapah, and Shānta is Satyam the highest of these states (vv II, 12).
@@ -2183,8 +2085,6 @@ Opens with the Mantra and description of Dakshināmūrti, an aspect of Shiva. He
 
 ———————————————————————————————————————
 
-
-
 am because it is the Excellent One to Whom service should be rendered, adoration offered, and prayer said. The text reads these three words as composed of eight letters (Akshara) and says that their Vyāhriti is Bhūh.
 
  Bharga is so called because It destroys sin and is propitious to the devotee. Devasya implies that It has the luminous quality of light and is possessed of the power of giving rain and the like. Dhīmahi is derived from the root dhyai which means to think. "Let us here remember that the Deva who can be seen by the celestial eyes of Nigama[^246] and knowledge (Vidyā) is golden (Hiranmaya) and ever in the Sun, His lustre knows no diminution. Ever should we think what is subtle that I am (yah sūkshmah so'ham)." Bhuvah is the Vyāhriti of these second three words composed of eight letters.
@@ -2211,8 +2111,6 @@ am because it is the Excellent One to Whom service should be rendered, adoration
 
 ———————————————————————————————————————
 
-
-
 Bhuvah, Svah, It has already been shown that "So'ham" "I am He" is Oṁ Thus this Mantra is the Shirah of the Gāyatrī[^249] Thus concluding the exposition of the points (Lakshana) of the Mantra, Mahāvishnu says that the faithful Sādhaka who worships with desire[^250] obtains the fulfilment thereof and he who seeks Liberation gets it.
 
 [^249]: "The Mantra at p 61 n 5 always precedes the Gāyatri."
@@ -2229,13 +2127,9 @@ Bhuvah, Svah, It has already been shown that "So'ham" "I am He" is Oṁ Thus thi
 
 **CHAPTER XXXI**
 
-
-
 Commences with the Trishtubh Mantra[^253] which is Vedik; the Dhyāna of the Adhi-Devī of the Mantra who is Kātyāyanī is given in v. 9 and Her nine Shaktis in vv. 13, 14. In vv 18-23 are to be found the names of the Shaktis of the letters of the Mantra. It is noted that the number of Japa prescribed (v. 25) for this Mantra is twice that of the Gāyatrī The Mantra which is composed of 44 letters, if reversed, becomes the (v. 29) Astra (weapon) mantra and is divided into eight sections which are identified with various things, the senses of knowledge, the senses of action, the five elements and so forth (vv. 30-34). From these 44 letters issue 44 Vahni Devatās, each of whom is attended by 5 Shaktis, each of whom is attended by five handmaidens, each of whom is again attended by 16 handmaidens, each of whom again is attended by millions upon millions of handmaidens (40-43).
 
 [^253]: "See Sharadātilaka, Ch xx1, vv, 32 et, seq. Raghava gives the Mantra and other details The Devata of the Mantra is Agni"
-
-
 
  In v. 48 the Nakshatras[^254] are divided into three classes; human (Mānusha), demonic (Asura) and celestial (Daiva). Their place in magical rites is also shown.
 
@@ -2246,16 +2140,12 @@ Commences with the Trishtubh Mantra[^253] which is Vedik; the Dhyāna of the Adh
 **————  
 CHAPTER XXXII**
 
-
-
 Deals with the Lavana Mantra and Mārana, Vashīkarana and other magical rites. Verse 8 gives the Dhyāna of Katyāyanī a form of Durgā. Her body is like the "friend of air"[^255]. She has three eyes and wears a bright crown. She holds discus (Chakra), conch, sword and spear and is the Destructress of many Daityas. Dhyānas are also given of Rātri (night), Agni and Bhadrakālī with prayers to these Deities. The fifth Mantra, it is said, is from the Atharva Veda.
 
 [^255]: "Pavanasakha: Fire is so called."
 
 **————  
 CHAPTER XXXIII**
-
-
 
 Deals with the Anushtubh Mantra[^256] of 32 letters which is Vedik; the Dhyāna of the Deva of the Mantra who is Rudra is given in v. 8 and the 32 Shaktis in vv. 12-14. Then follow ritual details. At vv. 27, 28, a Mantra of a 100 letters (Shatākshara) is mentioned. It is formed by the junction of Gāyatrī, Trishtubh and Anushtubh Mantras. These three Mantras are respectively Sun, Fire and Moon. The Devatā of the combined Mantra is (v. 31) the supreme Mahah who grants Liberation and of whom Shruti speaks. Vv. 60 et seq give the Nyāsa and other rites in connection
 
@@ -2267,21 +2157,15 @@ Deals with the Anushtubh Mantra[^256] of 32 letters which is Vedik; the Dhyāna 
 
 ———————————————————————————————————————
 
-
-
 with this Mantra. This is followed by (vv. 43-47) the Saṁvādasūkta a Mantra of Saṁvāda saṁjnānāgni and the rites relating thereto At v 56 is given the Rik and at v. 59 Dhyāna of Varuna the predominating colour which the meditation seeks to excite being white Ritual details as regards His worship follow
 
 **————  
 CHAPTER XXXIV**
 
-
-
 Commences with rules relating to the drawing of diagrams (Yantra) Verse 33 describes a Yantra whereby the Sādhaka can make a woman desire him. Vv. 34-36 gives the Brahmashrī Mantra the Devatā of which is Gaurī. At v 38 is a Dhyāna of Pārvatī This is followed by a number of Mantras and Dhyānas of the Devatās thereof: the Rājamukhī (43-45); the Annapradāyaka (v. 51); Annapūrṇā (v 54), Vrihaspati (v. 60), Shukra (v. 63) and Vyāsa (v. 65) Mantras In verse 66 the Dhyāna of Vyāsa is given. Verse 72 gives the Mantra and v 74 the Dhyāna of Ādyā as Ashvārūdhā (Seated on a horse).
 
 **————  
 CHAPTER XXXV**
-
-
 
 Gives the Prānapratishthā Mantra used in the invocation of the Devatā into the Yantra or image to be worshipped.
 
@@ -2296,11 +2180,7 @@ Gives the Prānapratishthā Mantra used in the invocation of the Devatā into th
 **————  
 CHAPTER XXXVI**
 
-
-
 Begins with some verses as to the causes of childlessness which are put down to want of faith, worship, charity, decrying
-
-
 
 (Nindaka) one's wife and so forth: and vv. 8-21 deal with the rites to be performed to cure this defect. Then follows an enunciation of the proper characteristics of a Guru (VV. 22- 32) and of a disciple (vv. 32-41). If the disciple has the defects which are mentioned in vv. 42-48 he should be rejected and if a Guru received such a person as his disciple then the fault (Dosha) of the latter affects the Guru just as that of the minister affects the king, and the sins of a wife affect her husband. If through either cupidity or affection a initiates such a faulty disciple then the curse of the Devatā falls upon both (vv. 49 51).
 
@@ -2323,8 +2203,6 @@ Tvarayā parayā kuryād buddhyā samyag ajihmayā (V. 56).
 
 ———————————————————————————————————————
 
-
-
 Obeisance to Him  
 Who is Energy and Light[^262] itself  
 In Whom are the products of Prakrıtı[^263],  
@@ -2341,26 +2219,15 @@ In Him
 
 [^265]: " That is, from Oṁ and other "
 
-
-
-
-
-
 CALCUTTA,ARTHUR AVALON.  
 
  The 24th January 1914
 
-
-
 POSTSCRIPT
-
-
 
 In the present edition the text has been rearranged. This has been done in accordance with the Commentary by Padmapādāchārya, now published for the first time. The two manuscripts available to the editor at the time the book was first published as Vol. III in this series, had the chapters in the order as in the book then published. There were some misgivings as to the correctness of the order in which the chapters were placed. Chapter 36 of that edition is devoted to Vishnu rituals and its proper place, it was felt, was with the group of chapters dealing with the Vishnu aspect of the Supreme Being. In the same way Chapter 33 in that edition should, it was felt, come at the end of the Book. But editors of any Shāstra have to be very reluctant to interfere with the text of their own motion as a rule, and should be more so in the case of Mantra-shāstra. It was on this account that the book was printed as it was in the manuscripts. Almost simultaneously with the publication by us of the Prapanchasāra, there was another recension published as part of the collected works of Shaṁkarāchārya from Srirangam. This publication received the support of the Sringeri Matha. In the Srirangam edition, the text of the Prapanchasāra is divided into 33 chapters, but the matter contained in it is almost identical with that contained in our publication, with this exception, that chapter 36 which is chapter 23 in the present edition is omitted. The reason for the omission may be explained by the fact that the manuscript available to the editors did not contain the chapter. It is called the Gupta Patala or Secret Doctrine by Rāghava Bhatta in his commentary of the Shāradātilaka (Ch. 17. 1). The editor of the Srirangam publication has also followed the wise method of not interfering with the text. It has evidently been printed as contained in the manuscript and even some palpable errors have not been set right. The editor, it may reasonably be presumed, hoped that in a subsequent edition the mistakes would be corrected with the help of other manuscripts. In the present edition, the following re-arrangement has been made. Chapter 36 of the first edition is here printed as 23, 34 as 32, 33 as 36, 32 as 34 and Chapter 31 as 33.
 
  Padmapāda was one of the immediate disciples of Saṁkarāchārya and there can be no greater authority than he, as to the order in which the chapters are to be placed. His commentary named the "Vivarana" is printed here for the
-
-
 
 first time The only other works by him, so far known, are the Panchapādikā which deals with the Vedānta Sūtras and a commentary on the well-known Mantra of five letters of Shiva, (Shivapanchākshara) printed at the end of this book
 
@@ -2370,15 +2237,11 @@ first time The only other works by him, so far known, are the Panchapādikā whi
 
  The Vivarana and the Prayoga-krama dīpikā will help to show him that Brahmanism is not as is commonly, in ignorance, supposed to be a mass of conflicting religious faiths. In Brahmanism, there is one goal for all different forms of Sādhanā and that goal is the Brahman. Unlike the followers of other forms of of religion, the follower of the Brahmaṇik faith has no quarrel with any one. He is aware that all men cannot have the same temperament and therefore cannot view things in the same way and it is on this account that even within the Brahmanık fold, there are quite a number of different forms of worship or Sādhanā. These are primarily divided into five classes, viz. Shaiva, Shākta, Vaishnava, Saura and Gānapatya All these five aspects are dealt with in this book. The Prapanchasāra is the first book of its kind. Other eminent writers followed the great master; the most
 
-
-
 noticeable among these being Lakshmana Deshikendra, Īshānashiva, Krishnānanda and many others less known.
 
  The Vivarana does not give details like Rāghava Bhatta for instance, in his commentary on the Shāradātilaka, and Bhāskararāya in the works commented on by him. It is possible that at the time the book was written great details were not needed, as the men of those days were better informed. Or it may be, that he meant it only for that class of readers who did not require any greater help for the understanding of the text. The author of the Prayoga-krama dīpikā, which was evidently written at a much later age, has given these details and made the Vivarana intelligible in places which are obscure for present day learners. We know nothing about the author of the Dīpikā not even his name, but it is evident from his writings that his knowledge of the Shāstra was great and he believed Shamkarāchārya to be the author of the Prapanchasāra and Padmapāda, of the Vivarana.
 
  There are several other commentaries of the Prapanchasāra by various writers written at different times. Rāghava Bhatta mentions one by name, viz., the Vijnāna-chandrikā. This book is not so far available. There is another commentary called the Sambandhadīpikā by Uttamabodha. This must have been written after Lakshmanācārya's Shāradātilaka became well known as an authoritative work. Pandit Gurupada Haldar places Lakshmanāchārya in the tenth century of the Christian era. This is the view of western Missionary writers also. There is another book by Gīrvānendra Sarasvatī named Prapanchasāra-sara-saṁgraha. Gīrvānendra says that his Summary of Shaṁkarāchārya's teachings in the Praparchasāra follows the interpretation of a commentary named Sat-sampradāya-sarvasva. Other commentaries are:— (1) Prapanchasāra-vyākhyā, (2) Prapanchasǎradīpa by Nārāyana, (3) Tattva-dīpikā by Nāgasvāmī, (4) Prapanchasaragudhārtha-dīpikā by Nityānanda, (5) Vijnanā-dyotinī, (6) Prapanchasāra-vivriti, (7) Prapanchasāra-prayoga-vidhi, (8) Prapanchasāra-sambandha-tīkā and (9) Prapanchasāravritti. These are preserved in the Madras Government manuscript Library. They all say that the book is by Shaṁkarācharya. The Tanjore Library, it is said, contains some books, but no details of the same could be obtained. The fact that so many Sādhakas and scholars devoted themselves to the exposition of this book is a sure indication that it must have
-
-
 
 been witten by a man entitled to very great reverence The Nepal manuscript of the Prapanchasāra, in its colophon, states that the author of the book was Āchārya the word being in the plural And that is how Shaṁkarāchārya is always designated
 
@@ -2388,8 +2251,6 @@ been witten by a man entitled to very great reverence The Nepal manuscript of th
 
  It is not realised that Shaṁkarāchārya was not a mere theorist but a Teacher in the right sense of the word, a Guru who sought, and that successfully, not merely to uplift and enlighten the intellect but the very nature of the Sādhaka.
 
-
-
  He established four Mathas where the aspirants have, not merely to read the commentaries on the Brahma Sūtras and Upanishads, but to qualify themselves by Sādhanā for an experiential realisation of the teachings of the Vedānta.
 
  His place as an authority on Mantrashāstra is recognised by all eminent writers of old. Even that abstruse logician Bhāskararāya begins his commentary on the Saptashatī Chandī with a salutation of Shaṁkarāchārya and his four great disciples the foremost among whom was Padmapāda. There Bhāskararāya speaks of Shaṁkarāchārya as the Guru of the Gurus. His position is not fully understood by the majority of present day scholars who write or speak about him.
@@ -2397,8 +2258,6 @@ been witten by a man entitled to very great reverence The Nepal manuscript of th
  As against the opinion of present day critics presumably affected by westernism, we get the testimony of Amalānandayati already cited, the great Rāghava Bhatta author of the Padarthādarsha, Bhāskararāya, an abstruse logician and one of the most authoritative commentators on Mantrashāstra, Mādhavāchārya, whose excellent commentary on the Sūtasamhitā is well-known, Nīlakantha author of the Commentary on the Devī Bhāgavata and a whole host of other eminent authorities too numerous to mention. It is not realised that the teachings of Mantrashāstra are most jealously guarded and it is not possible to interpolate anything, much less substitute the name of one author for another. It is hard to believe that the great men whose names have been given above and who are great not merely as scholars but also as Sādhakas, should be misled. All the men whose names have been given, were men of great critical ability and some of them masters of Nyāya-Darshana, A careful perusal of this book, in spite of some of the defects from which it has not been possible to make it free, will convince the dispassionate reader that there can be no doubt about Shaṁkara being its author. This book will also give him a true conception of the Mantrashāstra.
 
  With Indians, as the people of Bhāratavarsha, are called, Vedānta is not mere speculation, but is something which is implanted into the life of the people. Tantra Shāstra is Sādhana Shāstra, and the object of it is to reach the highest Truth, which is the Brahman, the attributeless, impartite Tattva, which is without beginning or end and is the highest Bliss. The Sādhaka has, it is true, in the earlier stages, to have recourse to initiation by the Guru into his Mantra, Devatā and other accessories but he is repeatedly told
-
-
 
 to realise his oneness with the Guru, the Mantra, the Devatā of his worship and so forth. All the rituals that he has got to perform point to this one end. The image that is selected for him by his Guru as the object of worship, is his image of the Brahman (Svakiyā Brahmamūrti) It is through that image that he realises the Brahman and the image is not an end in itself. The different images used by the five classes of worshippers previously mentioned and the many sub-divisions of these five classes, are all images of the Brahman, each class of Sādhaka having its own particular form according to This fact has been known even to competency (Adhikāra) western scholars, as is evident from a book published in the 18th century (Sketches of the Hindus, 2nd Ed. 1792 A. D.) It is there said "Amidst the multiplicity of their idols, all adoration is ultimately directed to Brahman, the Supreme, the Invisible." (Vol II, page 256). The Sādhaka rises from the gross (Sthūla) to the subtle (Sūkshma) and then to the transcendent (Para) conception of the Supremes Being
 
@@ -2408,8 +2267,6 @@ to realise his oneness with the Guru, the Mantra, the Devatā of his worship and
 
  Whatever views may be entertained as to the authorship of this book it should be borne in mind that in his country the position of Shaṁkarāchārya as a Guru is higher than his position as scholar and philosopher. Others have written commentaries and books on the Vedānta Sūtras and the Upanishads but there is none who is venerated as Shaṁkara is all over the sacred land of Bhāratavarsha. It may be noted
 
-
-
 here that even a Roman Catholic Missionary has discovered the harmony of Vedānta with Christian Philosophy ("Vedānta Vindicated" by Rev. J. F. Pessein) and has, so far as his dogmas have permitted him, accepted Shaṁkara's exposition. The Prapanchasā
 
 ra, as has already been said, is the first book of its kind and has shown that all the different forms of Sādhanā which these days go under the generic name of Hinduism are in harmony with Vedānta and that all Mantras are meant for the realisation of the Supreme Brahman.
@@ -2418,22 +2275,14 @@ ra, as has already been said, is the first book of its kind and has shown that a
 
  The proofs were read and the table of contents and the alphabetical index of the verses made by Sj. Panchānana Sāṁkhya-Vyākaraṇatīrtha.
 
-
-
 June 1935.                              
                 A. A.
 
 ————
 
-
-
 ![](../books_images/U-IMG-1722184368Capture.JPG)
 
-
-
 [TABLE]
-
-
 
 सूचीपत्रम्  
 
@@ -2470,8 +2319,6 @@ June 1935.
 |            पञ्चीकृतबीजोद्धारः             |        षडूर्मयः| षट्कोशाः        |
 |                पञ्चीकरणम्                 |         ओजोधातूत्पत्तिः          |
 
-
-
 |                                |                                       |
 |:------------------------------:|:-------------------------------------:|
 |           **विषयः**            |               **विषयः**               |
@@ -2503,8 +2350,6 @@ June 1935.
 |          कलानाम-कथनम्          |              राशिमण्डलम्              |
 |           प्रणवकलाः            |           राशीनां चरादिभेदः           |
 | केशवादिमूर्त्तितच्छक्तिनामानि  |     राशीनां ब्राह्मणादिवर्णोक्तिः     |
-
-
 
 |                                  |                                   |
 |:--------------------------------:|:---------------------------------:|
@@ -2538,8 +2383,6 @@ June 1935.
 |        देवतानां पूजानियमः        |       पुरश्चरणादि| यन्त्रम्       |
 |         कुम्भस्थापनविधिः         |           नवशक्तिनामानि           |
 
-
-
 |                                  |                                    |
 |:--------------------------------:|:----------------------------------:|
 |            **विषयः**             |             **विषयः**              |
@@ -2571,8 +2414,6 @@ June 1935.
 |     प्राणाग्निहोत्रप्रकरणम्      |           **दशमः पटलः**            |
 |       प्राणाग्निहोत्रविधिः       |         भुवनेश्वरीप्रकरणम्         |
 |      पञ्चकुण्डेषु वर्णहोमः       |         भुवनेश्वरीमन्त्रः          |
-
-
 
 |                                  |                                |
 |:--------------------------------:|:------------------------------:|
@@ -2606,8 +2447,6 @@ June 1935.
 |         घटार्गलयन्त्रम्          |   होमद्रव्याणि| भुवनवश्ययोगः   |
 |          पाशाङ्कुशबीजम्          |      धरणीमन्त्रः| ऋष्यादि      |
 
-
-
 |                                |                               |
 |:------------------------------:|:-----------------------------:|
 |           **विषयः**            |           **विषयः**           |
@@ -2640,8 +2479,6 @@ June 1935.
 |      शूलिनीदुर्गामन्त्रः       |     ध्यानम्| पुरश्चरणादि      |
 | ऋष्यादि| ध्यानम्| पुरश्चर्यादि |                              |
 
-
-
 |                                |                                   |
 |:------------------------------:|-----------------------------------|
 |        **सप्तदशः पटलः**        | प्रातर्मध्याह्नादिभेदेन ध्यानभेदः |
@@ -2672,8 +2509,6 @@ June 1935.
 |     प्रयोगयन्त्रम्| होमादि     | योगक्रमः                          |
 |  अष्टादशाक्षरश्रीकृष्णमन्त्रः  | योगसिद्धिसूचकावस्थाः              |
 |      ध्यानम्| पुरश्चरणादि      |                                  |
-
-
 
 |                                        |                                 |
 |----------------------------------------|---------------------------------|
@@ -2706,8 +2541,6 @@ June 1935.
 |                                       | त्रैलोक्यमोहनध्यानम्            |
 |                                       | पुरश्चरणादि| होमः               |
 
-
-
 |                                 |                               |
 |:-------------------------------:|-------------------------------|
 |       **चतुर्विंशः पटलः**       | चक्रादिमन्त्रकथनम्            |
@@ -2739,8 +2572,6 @@ June 1935.
 | चक्रादिमन्त्रेषु षोडशाक्षरयोगः  | श्रीशिवस्तवः                  |
 |                                | शक्तिपञ्चाक्षरविधानम्         |
 
-
-
 |                                    |                                           |
 |------------------------------------|-------------------------------------------|
 | ध्यानम्| पूजाप्रयोगादि             | प्रणवस्य सानुभवसाधनकथनम्                  |
@@ -2770,8 +2601,6 @@ June 1935.
 | **त्रिंशः पटलः**                   | प्रयोगप्रकारः                             |
 | गायत्रीमन्त्रविधिकथनम्             | अनुलोमप्रतिलोमध्यानभेदकथनम्               |
 | जपाद्यधिकारनियमः                   |                                          |
-
-
 
 |                               |                                  |
 |-------------------------------|----------------------------------|
@@ -2804,8 +2633,6 @@ June 1935.
 | अनुकूलमन्त्रः                 | शत्रुजयोपायमन्त्रः| ध्यानम्      |
 | मन्त्रयोगक्रमः               | अश्वारूढ़ामन्त्रः                |
 
-
-
 |                              |                           |
 |------------------------------|---------------------------|
 | पुरश्चरणादि ध्यानम्          | सर्वाकृष्ट्यादिकरयोगः     |
@@ -2828,8 +2655,6 @@ June 1935.
 | चतुर्थः पटलः                 | नवमः पटलः                 |
 | पञ्चमः पटलः                  |                          |
 | **शिवपञ्चाक्षरीभाष्यम्**     |                           |
-
-
 
 |                  |                   |              |              |
 |:----------------:|:-----------------:|:------------:|:------------:|
@@ -2854,8 +2679,6 @@ June 1935.
 |    मरुणाप्ता     |     मरुणप्ता      |   क्रमेते    |    क्रमते    |
 |    संग्रन्थि     |     सग्रन्थि      |    मितरेष    |   मितरेषां   |
 |                 |                  |    कस्या     |    कस्याः    |
-
-
 
 |                        |                       |
 |:----------------------:|:---------------------:|
@@ -2888,10 +2711,6 @@ June 1935.
 |          पादि          |         सादि          |
 |   ततोऽग्निमनुना तेन    |  ततोऽग्निं मनुनाऽनेन  |
 
-
-
-
-
 |                  |                 |
 |:----------------:|:---------------:|
 |       पाठः       |   पाठान्तरम्    |
@@ -2913,16 +2732,10 @@ June 1935.
 |     सत्यादा      |    सेत्यादा     |
 |     रादित्यो     |    रादित्ये     |
 
-
-
 मूलेऽपि क्वचित् क्वचित् पाठभेदा बन्धनीमध्यगता द्रष्टव्याः।  
 **————**
 
-
-
 ![](../books_images/U-IMG-1722009626Capture.JPG)
-
-
 
 ॐ  
 
@@ -2950,8 +2763,6 @@ June 1935.
 
  शारदा वः चेतसः परिशुद्धिं वितरत्वित्यन्वयः। चित्तादिसङ्घातव्यतिरिक्तायाः शारदायाः सत्त्वे सिद्धे सम्भवतीयमाशीः। तदेव कुत इति विश्वकार्यकारणत्वेनाऽनुमानादित्याह—विश्वयोनिरिति। अपूर्वपरिणामत्वाभ्युपगमात् विश्वस्य कर्मणोऽपि विश्वयोनित्वसम्भवान्न शारदासाधकमनुमानमिति चेन्न। कर्मणः कार्यत्वेनाऽनित्यत्वात् जगन्मूलकारणत्वानुपपत्तेः। अतो नित्यं किञ्चित् जगदुपादानं वक्तव्यम्। नित्यत्वञ्च सर्वसाक्षिण्याः शारदाया एव सम्भवतीत्यभि-
 
-
-
 प्रेत्याह—शाश्वतेति। सांख्यराद्धान्तसिद्धप्रधानस्यापि नित्यत्वात् तदेवास्तु जगद्योनिरिति चेन्न। अचेतनस्य प्रधानादेश्चेतनानधिष्ठितस्य कारणत्वानुपपत्तेः। अतश्चिद्रूपिणी सर्वाधिष्ठानसमर्था शारदैव विश्वयोनिरित्यभिप्रेत्याह—सकलेति। सकलं कारणं कलाभिः शक्तिभिः सह वर्त्तत इति जगत् कार्यं तयोः सकलजगतोरधीश्वरीत्यर्थः। अस्तु तर्हि शारदाधिष्ठितस्य परमार्थसत्त्वस्य प्रधानस्य जगदुपादानत्वं शारदायाः तन्निमित्तमात्रत्वमेवेति सेश्वरसांख्यादिपक्षमाशङ्क्य सर्ववर्णतदर्थसमष्ट्यात्मकस्य प्रधानस्य शारदारूपचैतन्येऽध्यस्तत्वेन तद्व्यतिरेकेणासत्वात् शारदैव तद्द्वारेण जगदुपादानं निमित्तं चेत्यभिप्रेत्य वर्णानां तद्विग्रहत्वेन तच्छेषत्वमाह अकचटतपयाद्यैरित्यादिना। शरीरवत्त्वेनाऽस्मदाद्यविशेषमाशङ्क्य शरीरग्रहणे स्वातन्त्र्यं विशेष उक्तो विरचितेति। स्वातन्त्र्ये हेतुमाह—सकलजगदधीशेति। तर्ह्यधिष्ठातृत्वेन विकारित्वात् अनित्यत्वादिदोषप्रसक्तिरिति चेन्न इत्याह—शाश्वतेति। तर्हि नित्यैकरूपिण्याः शारदाया अधिष्ठातृत्वं कारणत्वं वा नास्तीत्याशङ्क्य परमार्थतः तदभावेऽपि मायाद्वारेणाऽस्या एव तदभ्युपगन्तव्यम्। पक्षान्तरेषु एवंविधकारणत्वस्यापि अनुपपत्तेरित्यभिप्रेत्याह—विश्वयोनिरिति। अतः चित्तादिसङ्घातव्यतिरिक्तायाः चिन्मात्रविग्रहायाः शारदायाः सत्त्वं तस्याः चित्तशुद्धिवितरणसामर्थ्यं च सिद्धमिति मङ्गलाचारप्रकारः।
 
  स्थूलसूक्ष्मकारणसामान्यसाक्षिलक्षणः पञ्चविधोऽस्य ग्रन्थस्य विषयः। तत्र वैखरीतदर्थात्मकं विराड्रूपं स्थूलं विषयमाह प्रथमार्धेन। आद्यैरिति पदम् आद्यैः काद्यैश्चाद्यैरित्यादिप्रकारेण प्रत्येकं सम्बध्यते। मातृकाक्षरन्यासस्थानं वदन् विराजोऽवयवक्लृप्तिमाह—विरचितमुखबाहेत्यादिना। मध्यशब्दः पवर्गन्यासस्थानार्थः। आख्याशब्देन त्वगादिधातव उक्ताः। आख्यायन्त एभिरिति। हृच्छब्देन हृत्स्थबुद्धिवाचिना ज्ञानक्रियाशक्त्यात्मकः प्राणस्तत्कारणभूता मायाशक्तिश्चाऽभिहिता। कशब्देन सुखार्थेन परमात्मोक्त इति। यादिन्यासस्थानानि तेषां याथात्म्यं यादिन्यासस्थाने धात्वादियोगः सर्वमन्त्रजपादेः शेषतया न्यासश्च सूचितः।
@@ -2959,8 +2770,6 @@ June 1935.
 ननु त्वगादिपरमात्मान्तस्य देवतात्मनो यादिन्यासेनैव साधकशरीरे सन्निधाने सति किमवशिष्टाक्षरन्यासेनेति। देवतावयवविशेषकल्पनार्थमिति ब्रूमः।
 
  न च प्रथमं सामान्यकल्पना पुनः विशेषकल्पनेति नियमोऽस्ति। येन लिपिन्यासस्य क्षकारादित्वं स्यात्। सर्वत्र नित्यमेव सामान्यविशेषरूपं हि देवताशरीरम्। तस्य साधकशरीरे सन्निधिर्न्यासेनोत्पाद्यते। अतः प्रथममकारादि-
-
-
 
 न्यासेनाऽवयवविशेषसन्निधिस्मरणे न कश्चिद्दोषः।
 
@@ -2976,15 +2785,11 @@ June 1935.
 
  अथ व्यञ्जनपारायणक्रमः। अकचटतपयाद्यैरुक्तैः विरचितमुखबाहापादमध्याख्यहृत्केति विविधरचनम्। ओं अं अं नमः। ओं अं कं नमः।
 
-
-
 ओं अं खं नम इत्यादि क्षान्तमूहयेत्। पूर्वोक्ताकारपद्मदलस्थाकारपरिवारत्वेन एषां न्यासः। आं अं नमः। आं कं नमः। आं खं नमः। इत्याद्याकारपरिवारत्वेन। इं अं नमः। इं कं नमः। इं खं नमः। इत्यादीकारपरिवारत्वेन।इत्यादि विसर्गान्तं समानम्। पुनः कं अं नमः। कं कं नमः। कं खं नमः। कं गं नमः। इत्यादि ककाराम्बुजदलस्थककारपरिवारत्वेन। पुनः कां अं नमः। कां कं नमः। कां खं नमः। कां गं नमः। इत्यादि काकारपरिवारत्वेन समानम्। पुनः खं अं नमः। खं कं नमः। खं खं नमः। खं गं नमः। इत्यादि खाम्बुजदलगतखकारपरिवारत्वेन सर्वमूह्यम्। इति ब्रह्मब्रह्मपारायणक्रमः। अं आं नमः। अं कां नमः। अं खां नमः। इत्यादिरूपो ब्रह्मविष्णुपारायणक्रमः। अं इं नमः। अं किं नमः। अं खिं नमः। इत्यादिरूपो ब्रह्मरुद्रपारायणक्रमः। अं ईं नमः। अं कीं नमः। इत्यादि विष्णुब्रह्मणः। अं उं नमः। अं कुं नमः इत्यादिविष्णुविष्णोः। अं ऊं नमः। अं कूं नमः। इत्यादि विष्णुरुद्रस्य। अं ऋं नमः। अं कृं नम इत्यादि रुद्रब्रह्मणः। अं ॠं नमः। अं कॄंनमः इत्यादि रुद्रविष्णोः। अं ऌं नमः। अं क्लृं नमः। इत्यादि रुद्ररुद्रस्य। अं लॄंनमः। अं क्लॄंनमः इत्यादि ब्रह्मसर्वेश्वरस्य। अं एं नमः। अं कें नमः। इत्यादि विष्णुसर्वेश्वरस्य। अं ऐं नमः। अं कैं नमः इत्यादि रुद्रसर्वेश्वरस्य। अं ओं नमः। अं कों नमः इत्यादि सर्वेश्वरस्य। अं औं नमः। अं कौं नमः इत्यादि चतुर्मूर्तेः। अं अं नमः। अं कं नमः इत्यादि साक्षिणः। अं अः नमः। अं कः नमः इत्यादि परब्रह्मण इति पारायणक्रमः।पारायणक्रमवन्मन्त्रभेदानामपि अक्षरविरचनारूपत्वात् सोऽपि विरचितेत्यनेनैव सूचितः।
 
  अथ तत्तन्मन्त्रभेदेन पारायणक्रमभेदमाह—अकचटतपयाद्यैरित्यादिना। अकचटतपयाद्यैरुक्तैः सप्तभिश्च वर्णवर्गैः मन्त्रवर्गैः विरचितमुखबाहेत्यादि समानम्। तत्र ब्रह्मसरस्वतीविष्णुश्रीरुद्रोमासर्वेश्वरसप्तमन्त्रवर्गाः। उक्तपारायणमन्त्रान्ते तांस्तान्मन्त्रानुच्चार्य न्यासादिकं कर्त्तव्यम् इत्यलम् अनन्तवैखरीतदर्थरूपस्थूलप्रपञ्चनेन।
 
  अथ मध्यमातदर्थहिरण्यगर्भबिन्दुरूपं सूक्ष्मं विषयमाह—सकलजगदधीशेति। कलाभिरवयवैः तत्त्वभुवनकलावर्णपदमन्त्ररूपैः संहताः सन्तो जायन्त इति सकलजा जीवाः तेषां गदधियोः शेते इति सकलजगदधीशा। गदशब्देन वाग्वाचिना तन्निवर्तकः प्राणः क्रियाशक्तिमात्रात्मोच्यते। धीशब्देन ज्ञानशक्तिमात्रं
-
-
 
 तयोः शयनं च तदनुगतस्वातन्त्र्यात्मकेच्छाशक्त्यात्मना ततश्चेच्छाक्रियाज्ञानशक्त्यात्मको हिरण्यगर्भः प्रकाश्यप्रकाशकरूपाभ्यां मध्यमा वाक् तदर्थात्मा सूक्ष्मरूपो विषय इति उक्तं भवति। अत्र सकलशब्देनैव मध्यमान्तर्भूतानि शून्यस्पर्शनादध्वनिबिन्दुशक्तिबीजाक्षराणि उक्तानि। तानि मूलाधारलिङ्गमूलनाभिहृत्कण्ठलम्बिकाभ्रूमध्यललाटेषु न्यस्तव्यानीति। इच्छादित्रितयं शिरोदक्षिणवामस्तनेषु। शान्तिर्मूलाधारे वामा ज्येष्ठा रौद्र्याम्बिकाश्च तेष्वेवं न्यस्तव्याः। वैखरीन्यासात् पुर्वमेवेति मध्यमान्यासप्रकारः।
 
@@ -2996,8 +2801,6 @@ June 1935.
 
  सम्बन्धस्तु विषयकथनेनैव विषयविषयिभावः सूचित इति॥१॥
 
-
-
 अथाऽभवन् ब्रह्महरीश्वराख्याः पुरा प्रधानात् प्रलयावसाने।  
 गुणप्रभिन्ना जगतोऽस्य सृष्टिस्थितिक्षयस्पष्टनिविष्टचेष्टाः॥२
 
@@ -3008,8 +2811,6 @@ June 1935.
  सृष्ट्यादौ विनियुक्ताः चतुर्मूर्तिवाचका मन्त्राश्चात्रोद्धृताः। तथाहि—ब्रह्महरीश्वराख्या इति ब्रह्मविष्णुसदाशिवसर्वेश्वरशब्दाः मूर्तिमन्त्रान्तर्गताः सूचिताः। पुरेति। स्थूलविराट्शरीराय विश्ववैश्वानरात्मने सूक्ष्महिरण्यगर्भशरीराय तैजससूत्रात्मने सौषुप्ताज्ञानशरीराय प्राज्ञेश्वरात्मने व्याकृताव्याकृतशरीराय प्रत्यग् ब्रह्मात्मने नम इति मन्त्रपदानि सूचितानि। अत्र पुरावचनेनैव पुराभिमानिनामपि ग्रहणं कृतम्। तयोः नित्यसम्बन्धत्वात्। प्रधानादिति मन्त्राणां शक्त्यानन्तर्यं सूचितम्। प्रलयावसान इति शक्तेः व्यस्तसमस्तप्रणवानन्तर्यम्। गुणप्रभिन्ना इति स्थूलादिपदात् पूर्वं रजउपाधये सत्त्वोपाधये तमउपाधये गुणसाम्योपाधये इति। मूर्तीनां पुरस्तात् सरस्वतीसहिताय सर्वज्ञाय सदात्मनेऽसङ्गाखण्डसंविदे परमात्मने नमः। लक्ष्मीसहिताय सर्वज्ञाय आनन्दात्मनेऽसङ्गाद्वयसंविदे परमात्मने नमः। उमासहिताय सर्वज्ञाय चिदात्मनेऽसङ्गापरोक्षसंविदे परमात्मने नमः। मूलप्रकृतिमायासहिताय सर्वज्ञाय सदानन्दचिदात्मनेऽसङ्गाखण्डाद्वयापरोक्षसंविदे परमात्मने नम इति च योगः सूचितः।
 
  अत्र परमात्मपदात् पूर्वमिष्टदेवतानाम योज्यम्। जगतोऽस्येति मूर्तीनां पूर्वभागे सर्वस्रष्ट्रे सर्वपालकाय सर्वसंहर्त्रे सर्वोत्पत्तिस्थितिसंहारकर्त्रे इति योगः
-
-
 
 स्वनिष्पत्तिञ्च कृत्यञ्च ते विचिन्त्य समाविदन्।  
 वक्तारमजमव्यक्तमरूपं मायिनं विभुम्॥३
@@ -3024,8 +2825,6 @@ June 1935.
  निष्पद्यते तस्मादित्युपादानं निष्पत्तिः। निमित्तार्थश्च शब्दः। कृत्यं चेति चशब्दः स्वरूपार्थः। ते विचिन्त्याऽज्ञत्वेन स्वयं निर्णेतुमशक्ता गुणसाम्योपाधिं मायिनं वक्तारं समाविदन्नित्यर्थः। तस्य निर्णयसामर्थ्ये मूर्तिवैलक्षण्यं हेतुमाह—अजमिति। अजत्वे हेतुरव्यक्तमिति। अरूपत्वं तत्र। एवं निर्विशेषस्य तथा कथं वक्तृत्वमिति मायासम्बन्धात् कथञ्चित् सविशेषत्वं प्राप्येत्याह—मायिनमिति। तत्पारवश्यादज्ञत्वेन वक्तृत्वासामर्थ्यमाशङ्क्य निराचष्टे—विभुमिति। विचारक्षमा गुरूपसदनादियुक्ताश्चाऽधिकारिणः। गुरुश्च निग्रहानुग्रहादिशक्तिमानित्येतत् सूचितम्॥३॥
 
  अत्र मायिनोऽपि स्थानमूर्तिविशेषादिसम्बन्धाभावेऽवक्तृत्वमाशङ्क्य क्रमेण तत्सर्वं सम्पादयति—मूर्तीत्यादिना। मूर्तिर्माया शक्तिबीजम्। आ समन्ताद्भासते इत्याभासः प्रणवः। तेन मन्त्रेण विग्रहभूतेन दुग्धाब्धौ अनन्तभोगे शयितमित्यन्वयः। सर्वेश्वरप्रणवौपाधिकमित्यर्थः। ह्य्रोमिति सर्वेश्वरप्रणवः। ते समाविदन्निति। त्रिमूर्तयोऽस्य मुनयः सूचिताः। छन्दश्च देवी गायत्री गायकत्राणकथनात् सूचितम्। स्वामिन् प्रसीद विश्वेशेति देवतां च सूचयिष्यति। मूर्त्याभासेनेत्यङ्गदेहन्यासौ सूचितौ। तथाहि मूर्तिसम्बन्धित्वेनाभासन्त इति मूर्त्याभासा ह्रामादिकाः सप्रणवा अङ्गानीत्यङ्गसूचनाप्रकारः। मूर्तौ मूर्तिभूतेमूलमन्त्रे अनुगततया भासन्त इति मूर्त्याभासा ब्रह्मसर्वेश्वरादि-
-
-
 
 उद्यदादित्यकिरणप्रशान्तशिशिरोदये।  
 पूर्णचन्द्रकरामर्शप्रतिक्षुब्धजलाशये॥५
@@ -3051,8 +2850,6 @@ June 1935.
 
  विष्टरश्रवसं विस्तरा वेदास्तेषु श्रवः श्रवणं यस्य स तथोक्तः। विस्तीर्णकीर्त्तिर्वा। स्तोतव्यत्वमाह—विभुमिति। सूक्तिभिरुक्तैर्मन्त्रैः स्तुतिभिश्च प्रोत इत्यर्थः।  
 ॥७॥८॥९॥१०॥११॥१२॥१३॥१४॥
-
-
 
 रक्तारविन्दनयनामुन्नसीमरुणाधराम्।  
 मन्दस्मिताधरमुखीं लसन्मकरकुण्डलाम्॥९॥
@@ -3087,8 +2884,6 @@ June 1935.
 
  स्वरूपेण नित्यानामप्यौपाधिकं कार्यत्वमस्तीति अनित्यत्वपक्षमाश्रित्य शार्ङ्गी निमित्तोपादानादिकं संग्रहेणोक्तवानित्याह—इति पृष्टमिति। प्रमिताक्षरमिति। प्रकर्षेण मीयते ज्ञायते मिनोति जानाति प्रमिनोति परिच्छिनत्तीति
 
-
-
 तैरेव विकृतिं यातास्तेषु वो जायते लयः।  
 इति तस्य वचः श्रुत्वा तमपृच्छत्सरोजभूः॥१८॥
 
@@ -3105,8 +2900,6 @@ June 1935.
  सर्वेषां नित्यत्वपक्षमाश्रित्य वाचकस्य तावन्नित्यसमस्तशब्दानुगतं स्वरूपमाह—मूलार्णमिति। अथवा वाचकप्राधान्यमाश्रित्य वाच्यवाचकाभेदमाश्रित्य वा सर्वेषामेव नित्यत्वं स्वरूपमाह संग्रहेण—मूलार्णमिति।
 
  प्रकृतमक्षरशब्दं परित्यज्याऽर्णशब्दप्रयोगादन्ते हकारप्रयोगाच्च वाचकसर्वात्मकत्वादिक-मेवाऽत्रोच्यत इति गम्यते। वाच्यानामुत्तरत्र पृथक् सर्वात्मकत्वकथनाच्च। मूलार्णं शक्तिबीजं केवलमर्थसहितं वा। एवमुत्तरत्रापि। अर्णविकृतीर्हकाररेफमायार्णविकृतित्वेन वक्ष्यमाणाः स्वराः। विकृतीनां स्वराणां विकृतिः। कादिक्षान्ता विकृतेर्विकृतयः। तत्प्रभिन्नानि तेभ्यो वर्णेभ्यो निष्पन्नानि मन्त्राणि। तेषामङ्गत्वेन प्रयुज्यन्त इति प्रयोगाः। अङ्गन्यासादिपूजामन्त्राः षट्कर्मलक्षणा वा प्रयोगाः। तान् सर्वान् ह इतीत्थमाहेत्यन्वयः। हकारो हि अकारहकारात्मा। तयोश्चाद्यन्ताक्षरयोः प्रत्याहारग्रहणन्यायेन गृहीतेतर-
-
-
 
 वैदिकांस्तान्त्रिकांश्चाऽपि सर्वानित्थमुवाच ह।  
 प्रकृतिः पुरुषश्चैव नित्यौ कालश्च सत्तम॥२१॥
@@ -3133,8 +2926,6 @@ June 1935.
 
  सा लब्धेत्यत्र लब्धुः स्वात्मप्रत्यक्षो\[यो\]पपादकं गमकमाह—ययेति। आकाशं कार्यमात्रोपलक्षणम्। तमः कारणं जड़रूपा परा शक्तिः। वापीति सत्त्वादयः
 
-
-
 प्रधानमिति यामाहुर्या शक्तिरिति कथ्यते।  
 या युष्मानपि मां नित्यमवष्टभ्याऽतिवर्तते॥२६॥
 
@@ -3160,8 +2951,6 @@ June 1935.
 
  एवं परकालस्यापि स्वरूपमभिधायाऽपरं कालं प्रस्तौति—लवेति॥२९॥  
 ॥३०॥३१॥३२॥३३॥३४॥३५॥
-
-
 
 काष्ठा तावत् कला ज्ञेया तावत् काष्ठा निमेषकः।  
 सोऽङ्गुलिस्फोटतुल्यः स्यान्मात्राऽष्टाभिस्तु तैः स्मृता॥३१॥
@@ -3195,8 +2984,6 @@ June 1935.
 
  भिन्नैरिति चतुस्त्रिद्व्येकसहस्रैः कृतादियुगकल्पना। तेषां सन्धिसन्ध्यंशौ तावच्छतैरित्यर्थः। त्वमपीति। एतौ हरिहरावपीत्यर्थः। तेषां जीवनकालस्य अल्पत्वमाह वैराग्यार्थकत्वम्—आयुरिति। निश्वासादिमतस्तवापि तर्हि उक्तक्रमेण कालपरिच्छेदः स्यादिति न। कालस्य कालान्तरायोगादित्याह—कालेनेति। अथवा एवं विषममायुः कल्पयतः कालस्य वैषम्यनैर्घृण्ये स्यातामिति।
 
-
-
 न। पुरुषकर्मानुसारेण तस्य प्रेरकत्वादित्याह—कालेनेति। वक्ष्यमाणप्रकारेण प्रचोद्यत इति वार्थः॥३५॥३६॥३७॥३८॥३९॥४०॥
 
  प्रकृतिः पुरुषश्चेत्यादेरन्योऽर्थः। प्रकृतिपुरुषकाला अकारोकारमकाराः। हकाररेफमाया वा। ते नित्याः वक्ष्यमाणप्रयोगेषु नियमेन प्रयोज्या इत्यर्थः। सत्तमेति योगौचित्येन बिन्द्वादियोगः सूचितः॥२१॥
@@ -3211,8 +2998,6 @@ June 1935.
 
  ततस्तासां संहारमाह—प्रधानमिति। प्रथितं त्रयमकारादित्रयेणाऽत्ति। ततो बिन्दु कला निरोधिका रूपमनआदिकं निविड़तेजोरूपमत्ति। ततो नादनादान्तरूपां प्रभामत्तीति प्रधानम्। ततः परं या स्पर्शव्यापिनीसमन्युन्मनीशक्तिरिति
 
-
-
 कथ्यत इत्यर्थः। अथ चतुर्मूर्त्यादिचतुर्दशयोगान् क्रमेणाह—या युष्मानिति। युष्मान् मामपि ब्रह्मविष्णुरुद्रसर्वेश्वरान् नाभिहृद्भ्रूमध्यद्वादशान्तस्थितान् अमृतमयान् अवष्टभ्याऽतिवर्तत इत्यर्थः। इति चतुर्मूर्तियोगः सूचितः। ब्रह्म विष्णु रुद्रभेदाभेद लिङ्ग चिदवष्टम्भयोगा अपि अनेनैव सूचिताः। तत्र युष्मानतिवर्तत इति ब्रह्मादियोगत्रयं चतुर्ष्वपि स्थानेषु सपरिवारं ब्रह्माणं सञ्चिन्त्य संपूज्य तेजोरूपांस्तान् प्रणवेन एकीकृत्याऽमृतमास्रावयेदिति ब्रह्मयोगः। एवमेव विष्ण्वादियोगा द्रष्टव्याः। भेदयोगे स्थानेषु भिन्नशरीरमूर्त्तित्रयं ध्येयम्। अभेदयोगेऽभिन्नरूपम्। लिङ्गयोगे लिङ्गरूपम्। भेदादियोगत्रयं चापिशब्देन सूचितम्। अतिवर्तत इति चिदवष्टम्भयोगः। तेजसा बाह्यं स्थलादिशरीरं व्याप्याऽतिक्रम्य वर्तनं ह्यतिवर्तनम्॥२६॥
 
  चिदवष्टम्भयोगानन्तरम् अध्यात्माधिदैवादिभेदं परित्यज्य स्थूलादिशरीरात्मकमेकमेव पिण्डं सर्वं ध्येयमित्याह—साऽहमिति। सा पूर्वमध्यात्मं कुण्डलिनीरूपेण स्थिता। अहं द्वादशान्ते स्थितः। यूयं नाभ्यादौ स्थिताः। अन्यच्च परिवारजातं वेद्यं बाह्यं च। तत् तु सा तत् सर्वं सैव। या हि नः स्थूलादिशरीररूपिणी स्मृता। विराट्हिरण्यगर्भकारणरूपेणेत्यर्थः।
@@ -3220,8 +3005,6 @@ June 1935.
  इदानीं गुणसंहारोक्तानुज्ञात्रनुज्ञानिर्विकल्पयोगानाह—प्रलय इति। प्रलये प्रणवे वाचके। तस्यां च वाच्यात्मिकायां व्याप्यते संह्रियते चराचरमिदं जगत्। पूर्वं पूर्वं वाच्यवाचकरूपम् उत्तरोत्तरवाच्यवाचकरूपिण्यां तस्यां विलाप्यत इत्यर्थः। अकारोकार मकार बिन्दु नाद शक्ति शान्तानां विराट्हिरण्यगर्भकारणगुणसामान्यगुणबीजगुणाभावगुणसाक्षिणां च स्थूलत्व सूक्ष्मत्व कारणत्व समत्व बीजत्वनिर्विशेषत्व शान्तत्वगुणैःएकत्वचिन्तनं गुणयोगः। संहारयोगः तेषां क्रमेण संहारः। एवमधिष्ठानस्थस्य अतिसूक्ष्मस्य जगतः तत्सच्चिद्रूपव्याप्तिचिन्तनमोतयोगः। ततः स्वतः सत्ताद्यभावात् तस्य आत्माधीनत्वचिन्तनमनुज्ञातृयोगः। आत्मव्यतिरेकेणाऽभावचिन्तनमनुज्ञायोगः। तत आत्मनो निर्विशेषत्वचिन्तनं निर्विकल्पयोगः॥२७॥
 
  ततो वाक्यार्थप्रतिपत्तिमाह—सैवेति। सा परापरशक्तिरविद्यया प्रपञ्चरूपतां प्राप्ता उक्तविवेकप्रकारेण स्वां वेत्ति। ब्रह्मात्मरूपतां वेदनफलमाह—परमेति। संसारनिवृत्तिं चाह—तस्या इति। वेद्यवेदितृवेदनादिकं नासीदस्ति भविष्यति इत्यर्थः। अथ कालयोगमाह—सा त्विति। कालस्याऽपरस्य पञ्चदशधा भिन्नस्यापि आत्मा कालात्मा। तेनोन्मनीरूपेण कालेन मया पञ्चदशकालाभिमानिनी
-
-
 
 सा तत्त्वसंज्ञा चिन्मात्रा ज्योतिषः सन्निधेस्तदा।  
 विचिकीर्षुर्घनीभूता क्वचिदभ्येति बिन्दुताम्॥४१॥
@@ -3238,8 +3021,6 @@ June 1935.
  तत्त्वविकृतिक्रममाह—सा तत्त्वेति। सा प्रकृतिः तत्त्वस्य पारमार्थिकस्य संज्ञैव संज्ञा यस्याः तदविभक्तत्वात् सा तथोक्ता। सा तत्त्वात्मकताम् अन्तर्मुखताम् अपरित्यज्यैव क्वचिद्देशे बिन्दुतां किञ्चित् बहिर्मुखतया सृष्ट्युन्मुखकर्माविभक्ततया तरङ्गमूलभूतसूक्ष्मवायुव्याप्तसमुद्रवलनवत् किञ्चित् स्थौल्यं प्राप्नोतीत्यर्थः। परिपक्वकर्माभेदात् घनीभावस्तदर्थं व्यापारो विचिकीर्षा। बिन्दुः कर्माभिन्नं रूपम् ॥४१॥
 
  एवं परस्मादुत्पन्नस्य प्रकृतितत्त्वस्योत्तरसृष्टिनिर्वाहार्थम् इच्छासत्त्वादिरूपतामाह—कालेनेति। भिद्यमानः सम्बध्यमानः विभज्यमानश्च। नहि चित्सम्बन्धं विनाऽचिद्रूपस्य ज्ञानादिरूपत्वं सम्भवति। इच्छादीनामेकैकस्य मायावच्छक्तितद्गत-
-
-
 
 स बिन्दुनादबीजत्वभेदेन च निगद्यते।  
 तद्विस्तारप्रकारोऽयं यथा वक्ष्यामि साम्प्रतम्॥४३॥
@@ -3270,8 +3051,6 @@ June 1935.
 
  कालप्रेरितयेति। कालो द्विविधः। गुणाः सत्त्वादयः। घोषः पूर्वोक्तो रवः शब्दब्रह्म। शक्तिस्तत्त्वसंज्ञेत्युक्ता। स्वस्माद्धराद्या भूता उत्पन्नाः शब्दादीनामेव काठिन्यावस्थारूपत्वाद् व्योमादीनां शब्दाद् व्योम इत्याद्यभिहितं त्रिभेदगहनात्मकम्॥४६॥४७॥
 
-
-
 खमपि सुषिरचिह्नमीरणः स्या-  
 च्चलनपरः परिपाकवान् कृशानुः।  
 जलमपि रसवद् घना धरा तेऽ-  
@@ -3296,8 +3075,6 @@ June 1935.
  अथ अपञ्चीकृतबीजोद्धारः। नादः हकारः के येषां लादीनां सर्वेषामादीनां च ते तथोक्ताः। लादिशब्दार्थः पूर्ववत् व्याख्येयः। अत्र ल आदिर्यस्येति व्युत्पत्त्या हकारोऽपि ग्राह्यः। नादशब्दोक्तस्य हकारस्य सर्वसम्बन्धात्। आदयः आं ईं ऊं ऐं औं इत्येते। ततः ह्लांह्वींह्रूंह्यैं हौं इत्येतत् सिद्धं भवति।
 
  अथ पञ्चीकृतबीजानि उच्यन्ते। नादः के यस्य लकारस्य इत्यर्थः। स नादकलः ह्लइत्यर्थः। नादकलाश्च आदिश्च नादकलादयः तेभ्यो भूताः तदात्मतयाऽभिव्यक्ताः निवृत्त्याद्या इत्यर्थः। ततश्च ह्लां ह्लीं ह्लूंह्लैंह्लौंइति सिद्धं
-
-
 
 पुटयोरुभयोश्च दण्डसंस्था पृथिवी तोयमधः कृशानुरूर्ध्वम्।  
 पवनस्त्वथ पार्श्वगोऽथ मध्ये गगनं भूतगतिस्तनूद्भवेयम्॥५१॥
@@ -3330,8 +3107,6 @@ June 1935.
 
  तत्त्वानि उक्तानीति केवलमुक्तान्येव न तु तत्त्वानि तानि। यदि चित्तशब्देन प्रकृतिः नोच्यत इत्यर्थः। ततः प्रकृत्यन्तानि चतुर्विंशतितत्त्वानि पुरुषान्तानि पञ्चविंशतितत्त्वानि ईश्वरान्तानि षड्विंशतितत्त्वानीति सिद्धं भवति। उत्तरत्र व्यवहारशेषतया केषाञ्चिन्मन्त्राणां वर्णतत्त्वन्यासयोगादिशेषतया च षोड़श-
 
-
-
 सत्त्वं रजस्तम इति संप्रोक्ताश्च त्रयो गुणास्तस्याः।  
 तत्सम्बन्धात् विकृतैर्भेदत्रितयैस्ततं जगत् सकलम्॥५८॥
 
@@ -3348,8 +3123,6 @@ June 1935.
 
  \* ननु सर्वमन्त्रसमानत्वेन सर्वागमसारत्वादस्य ग्रन्थस्य शैवशाक्तादि तत्त्वान्यप्यत्र वक्तव्यानि। सत्यमुक्तानि तानि कथं शृणु। सा तत्त्वसंज्ञेत्यत्र चिन्मात्रज्योतिःशब्दाभ्याम् अधिष्ठानसाक्षिलक्षणौ अनाहतशिवशक्ती अकारलक्षितार्थौकथ्येते। तत्त्वसंज्ञेति आहतशिवोऽकारवाच्यार्थः। अभ्येति बिन्दुतामित्यन्तेन आहतशक्तिः क्षकारवाच्या। स बिन्दुर्भवति त्रिधेति। इच्छाक्रियाज्ञानलक्षणानि इह सवाचकानि सदाशिवेश्वरशुद्धविद्यातत्त्वानि। एतच्छुद्धतत्त्वपञ्चकम् वैष्णवे तत्त्वे वासुदेवादिशब्दवाच्यमित्येव विशेषः। षोयरावलाश्च तत्र वर्णाः परमेष्ठिपुंविश्वनिवृत्ति सर्वात्मसहिताश्च। विद्यातत्त्वानन्तरं शैवे मायातत्त्वं स्वरूपाच्छादनविक्षेपात्मकम्। शुद्धपञ्चके त्वाच्छादनं नास्ति। तस्येश्वररूपत्वात् विद्यावत्त्वेन। मायादिकं तु जीवोपकरणभूतम्। एकैव शक्तिः अन्तर्मुखतया विकसन्ती विद्यादितत्त्वरूपिणी बहिर्मुखतया संकुचन्ती मायादितत्त्वरूपिणी। तदुपहितः शिव एव जीव इति हि तेषां सिद्धान्तः। माया विक्षेपे कालपरिच्छेदे हेतुः। कालतत्त्वं तत एव। देश काल कर्म फलादि नियतहेतुः ईश्वरेच्छा एव नियतितत्त्वम्। कला त्वेवं परिच्छिन्नस्य पशोः किञ्चित्कर्तृत्वशक्तिः। तस्यैव किञ्चिद्ज्ञत्वशक्तिः अशुद्धविद्या। तस्याः पूर्णमन्यता रागतत्त्वम्। एतत्षट्कविशिष्टः परमशिवो
 
-
-
 **एष सर्गः समुत्पन्न इत्थं विश्वं प्रतीयते।  
 विश्वप्रतीतौ हि यतः प्रपञ्चस्त्ववगम्यते॥६०॥**
 
@@ -3362,8 +3135,6 @@ June 1935.
  अथवा एषः सर्वप्रत्यक्षसिद्धः परमात्मा सर्गं सृजतीति स एव योऽसौ स्रष्टा परमात्मा स एव उक्ततत्त्वरूपेण समुत्पन्न इत्यर्थः। कुतः यत इत्थं परमात्मरूपेण घटः सन् घटः प्रकाशत इति च विश्वं सर्वं तन्मयं प्रतीयते। किमित्यसावेवमुत्पन्न इति स्वात्मप्रकाशनायेत्याह—विश्वेति। विश्वप्रतीतौ घटाद्याकारबुद्धिवृत्तौ तत्साक्षितया। हि यस्मादित्यादि समानम्।
 
  एतदेव पद्यं त्रैपुरतत्त्वपरत्वेन योज्यते। इत्थं समुत्पन्न एष शैवतत्त्वलक्षणः सर्गः। विश्वं प्रमेय प्रमाण प्रमातृरूपात्म विद्या शिवतत्त्वरूपं प्रतीयते। ‘प्रमा प्रमाता प्रमितं च विश्वम्’ इति हि लिङ्गसूक्तवाक्यम्। तत्र मायान्तं मेयरूपम् आत्मतत्त्वं सदाशिवान्तं ज्ञानरूपं विद्यातत्त्वम् आहतशिवान्तं प्रमातृरूपं
-
-
 
 शब्दब्रह्मेति यत् प्रोक्तं तदुद्देशः प्रवर्त्त्यते।  
 अतः परमवाच्यं हि स्वसंवेद्यस्वरूपतः॥६१॥
@@ -3387,8 +3158,6 @@ June 1935.
  इतरस्य न प्रकाशकशब्दरहस्यत्वं ब्रह्मत्वं चेत्याह—स्वत इति। बिन्द्वात्मकप्रकाशात्मत्वं विनाऽनवबोधकत्वात् तत्प्रोक्तो रवो न शब्दब्रह्मेत्यर्थः॥६२॥
 
  स्वाभिप्रेतस्य शब्दस्य ब्रह्मत्वं प्रकाशकत्वं चास्तीत्याह—स त्विति। सः शब्दावगम्योऽर्थः पूर्वोक्तः सर्वत्र संस्यूतः कारणत्वात्। तुशब्दो विशेषावधारणार्थः। अतस्तस्य ब्रह्मत्वं प्रकाशकत्वं च युक्तमित्याह—जाते इति। प्राणिनां देहेषु वैखर्या तदभिमतया विनापि यावदर्थः व्याप्तः सङ्कल्पविकल्प-
-
-
 
 प्रकृतौ कालनुन्नायां गुणान्तःकरणात्मनि।  
 देहश्चतुर्विधो ज्ञेयो जन्तोरुत्पत्तिभेदतः॥६४॥
@@ -3426,8 +3195,6 @@ June 1935.
 
  संभवशब्दार्थमाह—स इति॥६७॥६८॥६९॥७०॥
 
-
-
 आर्त्तवात् परमं बीजमादायाऽस्याश्च मूलतः।  
 यदा गर्भाशयं नेष्यत्यथ संमिश्रयेन्मरुत्॥७२॥
 
@@ -3464,8 +3231,6 @@ June 1935.
  उभयात्मिकीति। अग्नीषोमात्मिकी प्रकृतिपुरुषाद्यात्मिको चेत्यर्थः॥७९॥
 
  अवाङ्मुखत्वमपि अस्तीत्यवाङ्मुखीत्युक्तम्॥८०॥८१॥
-
-
 
 तत्र या प्रथमा नाड़ी सा सुषुम्नेति कथ्यते।  
 या वामेड़ेति सा ज्ञेया दक्षिणा पिङ्गला स्मृता॥८१॥
@@ -3505,8 +3270,6 @@ June 1935.
 
  अवशिष्टं नाड़ीचक्रं योगियोगाभिवृद्धये दर्शयति—मध्यस्थाया इति। मूलाधारनाभि हृदय गलमूल भ्रूमध्यानुसारीणि पञ्चपर्वाणि॥८९॥९०॥
 
-
-
 तद्भेदांश्च बहूनाहुस्ताभिः सर्वाभिरेव च।  
 व्याप्नोति सर्वतो वायुर्येन देहः प्रवर्त्त्यते॥९१॥
 
@@ -3535,8 +3298,6 @@ June 1935.
  सक्षेत्रज्ञं मलमिति उक्तम्। तत्कथं क्षेत्रज्ञप्रवेश इति। तत्र मतभेदं दर्शयति—अत्रापीति। चेतनाधातुश्चिदेकरसः पुरुषः। अपिशब्देन विरोधार्थेन पक्षाणामनुपपत्तिः दर्शिता। नहि चिदेकरसस्य पुरुषस्य एवंविधाः प्रवेशा उपपद्यन्त इत्यर्थः। रेतःशोणितजमिति। पञ्चाधिकरणानां पक्षः। मातुराहृतात् आहाराद्यो रसः पाकजः तद्द्वारेण गर्भशरीरं विशतीति वार्षगणाः। कर्मफलमिति अपत्यार्थिनां यथोक्ताहारविहारश्रद्धाद्यतिशयात् गर्भं प्रविशतीत्यापद्या\[त्रेया\]दयः। परं धाम्नो व्याप्तिमिति विन्ध्यवासिपक्षः। सर्वगस्येन्द्रियाभिव्यक्तिनिमित्तं परिच्छेद इत्यर्थः। दीपात् दीपान्तरमिति पतञ्जलिधन्वन्तर्यादिपक्षः।
 
  तत्परं धाम तस्य पितुरात्मा कश्चिदेवं ब्रूत इत्युत्तरत्रान्वयः। रक्तव्यतिकृतादिति स्त्र्यात्मनोऽपि संक्रान्तिः दर्शिता॥९४॥९५॥९६॥९७॥
-
-
 
 कश्चित्तु भौतिकव्याप्ते जन्मकाले वपुष्यथ।  
 कुतश्चिदेत्य जीवात्मा निष्पन्न इति शंसति॥९८॥
@@ -3568,8 +3329,6 @@ June 1935.
 
  सैवान्तःकरणरूपेत्याह—परेणेति। साक्षितया कारणतयाऽन्तर्यामितया च सम्बन्धः। समनुप्रोप-सर्गाणामर्थः। महाप्रभावेति परिणामसामर्थ्यमुक्तम्। अहमेव ज्ञातेत्यविवेकतया ज्ञातुः स्वात्मत्वमात्रवेदनमहङ्ककारः। अन्तः साक्षिणीत्यर्थः।
 
-
-
 यदा स्वयं व्यञ्जयितुं यतेत  
 महीयसी सा करणैः क्रमेण।  
 तदा तु बिन्दुस्फुटनोद्भवस्य  
@@ -3582,8 +3341,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
 प्रथमः पटलः।  
 ————
-
-
 
 **द्वितीयः पटलः।**
 
@@ -3620,8 +3377,6 @@ June 1935.
  क्लेदो गर्भजलम्। किलेति। परोक्षत्वात् इदानीं तदनुगुणप्रवृत्तिदर्शनाच्चोक्तम्।  
  ॥२॥३॥४॥५॥६॥७॥८॥
 
-
-
 प्राणाद्या वायवस्तस्मिन् पूर्वमेव कृतास्पदाः।  
 परस्परमपानश्च प्राणश्च प्रतिबध्यते॥९॥
 
@@ -3654,8 +3409,6 @@ June 1935.
  भ्राजक-रञ्जक-क्लेदक-स्नेहक-धारक-बन्धक द्रावका धातुगा वह्नयः। व्यापकपाचकश्लेष्मका वातादिदोषगाः। पित्त श्लेष्म वात विकार विशेषाः स्वेदादयः।॥१५॥ १६॥
 
  मरुतो दोषदूष्यसंयोजनस्वभावत्वे कथमदुष्टं जीवनमिति। तत्राह—समवायीति। समं वयत इति समवायी। तत्र हेतुर्विश्वात्मेति। तत्र हेतुद्वयं विश्वग इत्यादि। वायोः समवयनस्वभावत्वे कथं रोगाद्युद्भव इति। विषमवयनादित्याह—स दोष इति। तत् कथं ज्ञातं शक्यत इति। कार्यत इत्याह—क्रियात इति॥१७॥
-
-
 
 बुभुक्षा च पिपासा च शोकमोहौ जरामृती।  
 षडूर्मयः प्राणबुद्धिदेहधर्मेषु संस्थिताः॥१८॥
@@ -3697,8 +3450,6 @@ June 1935.
 
  कार्यतः सम्प्रधार्यत इत्युक्तम्। तदाह—यदेति। विलीनं द्रवीभावं प्राप्तं धातून् प्रविलापयेत् व्यापयेत्। लसीकां रक्तत्वचोरन्तरालस्थाम्। प्रसेकं लालाम्।
 
-
-
 कफात्मिकास्तु विकृतीः कर्णशष्कुलिपूर्वकान्।  
 गण्डमालादिकान् वापि कुर्याज्जन्तोस्तु कर्मजान्॥२८॥
 
@@ -3739,8 +3490,6 @@ June 1935.
 
 वाय्वाधिक्ये अम्लः भूवाय्वाधिक्ये लवणः। वाय्वाग्न्याधिक्ये तिक्तः। अग्न्याधिकये उष्णः। वायुखाधिक्ये कषायः। ‘क्ष्माम्भोऽग्नि क्ष्माम्बुतेजः खवाय्वग्न्यनिलगोऽनिलैः' इत्युक्तक्रमेण वा रसनिष्पत्तिः॥३१॥३२॥३३॥३४॥३५॥३६॥३७॥३८॥३९॥
 
-
-
 मूत्राशया धनुर्वक्रो वस्तिरित्यभिधीयते।  
 मूत्रमित्याहुरुदकं वस्तेर्मेहननिर्गतम्॥३८॥
 
@@ -3766,8 +3515,6 @@ June 1935.
  यदर्थो महान् प्रयासः तद्दर्शयति—मूलाधारादिति। मूलं जगन्मूलभूता परिणामिनी मायाशक्तिः। तस्या आधारभूतश्चिदात्मा मूलाधारः। सर्वगस्यापि तस्याऽभिव्यक्तिस्थानत्वात् गुदमेढ्रमध्योऽपि मूलाधारः। तस्मात् प्रथममुदितः चैतन्याभासः भावश्च यः जगद्भावयतीति मायाशक्तिर्भावः स पराख्यः। चैतन्याभासविशिष्टतया प्रकाशिका माया निष्पन्दा परा वागित्यर्थः। सस्पन्दावस्थाः पश्यन्त्याद्याः। तत्र सामान्यस्पन्दप्रकाशरूपिणीं नादतत्त्वात्मिकाम् अध्यात्ममूलाधारादिनाभ्यन्तम् अभिव्यज्यमानां पश्यन्तीमाह—पश्चात् पश्यन्तीति। सामान्यज्ञानात्मकत्वात् पश्यन्ती सा। अथ बाह्यान्तःकरणाद्यात्मिकां हिरण्यगर्भरूपिणीं बिन्दुतत्त्वमयीं नाभ्यादिहृदयान्ताभिव्यक्तिस्थानां विशेषस्पन्दसङ्कल्पादिसतत्त्वात् मध्यमां वाचमाह—अथ हृदयग इति। मध्ये मा बुद्धिर्यस्याः सा मध्यमा। भाव एव विशेष्यः। अथ विराड्रूपिणीं बीजात्मिकां हृदयादास्यान्तम् अभिव्यज्यमानां शब्दसामान्यात्मिकां वैखरीमाह वक्त्र इति। विशेषेण खरत्वाद्वैखरी।
 
  सामान्यशब्दात् विशेषशब्दनिष्पत्तिमाह—तस्मादिति। तस्मात् वेखर्यात्मकात्
-
-
 
 स्रोतोमार्गस्याऽविभक्तत्वहेतोस्तत्राऽर्णानां जायते न प्रकाशः।  
 तावत् यावत् कण्ठमूर्धादिभेदो वर्णव्यक्तिः स्थानसंस्था यतोऽतः॥४४॥
@@ -3802,8 +3549,6 @@ June 1935.
 
  विविधं सरणं विसरणं विविधपद्मादिरूपेणाऽवस्थानमित्यर्थः। सुषुम्ना-
 
-
-
 अप्यव्यक्तं प्रलपति यदा कुण्डलिनी तदा।  
 मूलाधारे विसरति सुषुम्नावेष्टनी मुहुः॥५१॥
 
@@ -3834,8 +3579,6 @@ June 1935.
  विभूत्यन्तराण्युक्तविद्यार्थरूपाण्याह—त्रिगुणा सेति। त्रिरेखास्त्रिकोणरेखाः।
 
  सूक्ष्मादीति। परादीत्यर्थः। पञ्चपञ्चेति पञ्चविंशतितत्त्वादिकम् उक्तम्।
-
-
 
 पञ्चानामक्षराणाञ्च वर्णानां मरुतां तथा।  
 गुणिता सा यदा षोढ़ा कोशोर्मिरसभेदिनी॥५८॥
@@ -3869,8 +3612,6 @@ June 1935.
 
  नाड्यः सुषुम्नाद्याः। हृद् गुह्य तालु वदनोदर नेत्र कण्ठभ्रूमध्य शङ्ख गुदा
 
-
-
 मन्त्रञ्च द्वादशार्णाख्यमभिधत्ते स्वरानपि।  
 तत्संख्यञ्च तथा यन्त्रं शक्तेस्तद्गुणितात्मकम्।  
 पञ्चाशद्वा प्रगुणिता पञ्चाशद्वर्णभेदिनी॥६६॥
@@ -3895,8 +3636,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
 द्वितीयः पटलः।  
 ————
-
-
 
 **तृतीयः पटलः।**
 
@@ -3925,8 +3664,6 @@ June 1935.
 
  स्वराणामेव पृथग्व्याप्तिं दर्शयन् तेषाम् अष्टमूर्तितच्छक्त्यादिवाचकत्वाय द्विप्रकारत्वमाह—एष्विति॥३॥
 
-
-
 आद्यन्तस्वरषट्कस्य मध्यमं यच्चतुष्टयम्।  
 वर्णानामागमधनैस्तन्नपुंसकमीरितम्॥४॥
 
@@ -3947,8 +3684,6 @@ June 1935.
  ह्रस्वदीर्घाणां तत्प्रधानानाम् अग्नीषोमस्त्रीपुरुषाद्यात्मकानां च मन्त्राणाम् अयनयोरुदयं वदन् तेषां वीर्योद्भवकालं सूचयति—दक्षसव्यस्थित इति। चशव्दः तत्प्रधान मन्त्रग्रहनक्षत्राद्युदयसमुच्चयार्थः। तत्र क्षहरादिप्रधाना आग्नेयमन्त्राः। वौषडादिप्रधानाः सौम्याः। हुंफड़न्ताः पुरुषाः। स्वाहान्ताः स्त्रियः। नमोऽन्ता नपुंसकाः। ते च वश्य शान्ति क्रूरकर्मसु प्रायेण प्रशस्ताः। भूतभूतकलाभिः सहोदयन्तीति सम्बन्धः। भूतकला निवृत्त्याद्याः। तत्र राशिषु एकैकघटिकायां वाय्वग्निभूजलाकाशभूतानामुदयः।
 
  केन प्रकारेणोदय इति पुटयोरुभयोरित्यादिनोक्तः। स इत्याह—तदुदय इति॥६॥
-
-
 
 बिन्दुसर्गौ च यौ प्रोक्तौ तौ सूर्यशशिनौ क्रमात्।  
 तयोर्विकारविस्तारः पुरस्तात् संप्रवक्ष्यते॥७॥
@@ -3974,8 +3709,6 @@ June 1935.
  व्यापकानामप्युदयक्रमं वदन् पञ्चशो वर्गद्वयत्वमाह—व्यापका इति। तथेति प्राणाग्न्यादिक्रमः सूचितः। आग्नेयत्वं तु व्यापकानां नृसिंहाख्यकालाग्निरूपक्षकारान्तत्वेन वक्ष्यति भुवनं कषत इति। अत्र पञ्चाशद्वर्णेभ्यः कथमष्टत्रिंशत्कलोत्पत्तिरित्याशङ्क्य शश्यादिकलारूपतिथिमासभ्राजकादिसंबन्धेन वर्णानामष्टत्रिंशत्संख्यत्वादिति वदन् न्यासे मण्डलमन्त्रैः व्यापकं कलानां वर्णयोगं च सूचयति—शशीति॥१०॥
 
  सम्बन्धविशेषमाह—स्वरैरित्यादिना॥११॥
-
-
 
 षोड़श द्वादश दश संख्याः स्युः क्रमशः कलाः।  
 वर्णेभ्य एव तारस्य पञ्चभेदैस्तु भूतगैः॥१२॥
@@ -4014,8 +3747,6 @@ June 1935.
 
  अकरोत्था इत्यकारयोगः तत्कलान्यासे। ब्रह्मजाता इत्यादिनापि तत्तद्योगः।
 
-
-
 तीक्ष्णा रौद्री भया निद्रा तन्द्रा क्षुत् क्रोधिनी क्रिया।  
 उत्कारी चैव मृत्युश्च मकाराक्षरजाः कलाः॥२३॥
 
@@ -4053,8 +3784,6 @@ June 1935.
 प्रीती रतिश्च संप्रोक्ताः क्रमेण स्वरशक्तयः॥३४॥
 
  बिन्दुजा ईशजाः नादजाः सदाशिवजा इति द्रष्टव्यम्। भुक्तिर्बिन्दुकलासु योज्या॥२०-५२॥
-
-
 
 जया दुर्गा प्रभा सत्या चण्डा वाणी विलासिनी।  
 विरजा विजया विश्वा विनदा सुतदा स्मृतिः॥३५॥
@@ -4095,8 +3824,6 @@ June 1935.
 सज्वालोल्काश्रिया विद्यामुख्यः स्युः स्वरशक्तयः।  
 महाकालीसरस्वत्यौ सर्वसिद्धिसमन्विते॥४७॥
 
-
-
 गौरी त्रैलोक्यविद्या च तथा मन्त्रात्मशक्तिके।  
 भूतमाता लम्बोदरी द्राविणी नागरी तथा॥४८॥
 
@@ -4136,8 +3863,6 @@ June 1935.
 
 पञ्चाशदंशगुणितेत्यत्र पञ्चाशदीरयति पंक्तिश एव वर्णान् इत्युक्तानां वर्णानां विभूतिमभिधाय तदीरणादिप्रकारं वक्तुमुपक्रमते—यथेति। स्वरूपतो यथा
 
-
-
 समीरिताः समीरेण सुषुम्नारन्ध्रनिर्गताः।  
 व्यक्तिं प्रयान्ति वदने कण्ठादिस्थानघट्टिताः॥५९॥
 
@@ -4168,8 +3893,6 @@ June 1935.
 
  तेषां प्रकृतिपुरुषवाचकमन्त्रत्वमाह—सन्ध्यक्षरा इति। प्रकृतिपुरुषात्मकोऽर्थः सर्वार्थस्तस्य साधकाः तद्वाचका इत्यर्थः। एषामृषिच्छन्दसो मातृकोक्ते। देवता परमात्मा। तत्तद्वर्णादियुतैः स्वरैरङ्गानि। मुद्राभयशुकवरदकरो द्विभुजः शुक्लरक्तभागद्वयः प्रकृतिपुरुषात्मकः कोऽपि देवो ध्येयः। ऌवर्ण ऋवर्णयोरङ्गविशेषं वदन्नितरेष्वपि तं सूचयति—लृवर्णवर्णयोरिति। लृवर्णर्वर्णयोर्मन्त्रयोः व्यक्तिः व्यज्यते अनेनेति व्यक्तिशब्देनाऽङ्गसामान्यमुच्यते। लरोः लकाररेफयोः। सम्यक् लां लीं रां रीमित्यादिप्रकारेण प्रदृश्यते। मूलागमेष्वित्यर्थः। इ उ ए ऐ ओ औ वर्णानां यकारवकारयोः बिन्दुसर्गयोगो द्रष्टव्यः॥६४॥
 
-
-
 बिन्दुसर्गात्मनोर्व्यक्तिममसोरजपां वदेत्।  
 कण्ठात्तु निःसरन् सर्गः प्रायोऽचामेकतः परः॥६५॥
 
@@ -4187,15 +3910,11 @@ June 1935.
 
  बिन्दुसर्गाङ्गेषु हकारसकारयोगमाह—बिन्दुसर्गात्मनोरिति। बिन्दुसर्गात्मनोःअमसोरिति सम्बन्धः। हकारसकारयोः बिन्दुसर्गयोश्च क्रमेण पुरुषात्मकत्वं प्रकृत्यात्मकत्वं च सम्बन्धहेतुः। स्थानसाम्यमकारयोगश्च। अतोऽकाराङ्गेष्वपि हकारयोगो द्रष्टव्यः।
 
-
-
 ननु सर्वसमान बिन्दुविसर्गमन्त्रयोः स्थाने कथमकारोच्चारः।ततश्च कथं तयोः हकारसकारसंयोग इति। नैष दोषः। तयोरभिव्यक्त्यर्थत्वेनाकारसम्बन्धोपपत्तेरित्याह—कण्ठादिति। तुशब्दः शङ्काव्यावृत्त्यर्थः। प्रायः सृष्टिरूपप्रकृतिप्रतिभटः संहारात्मकः पुरुषः प्रायः तद्वाचको बिन्दुरित्यर्थः। सर्गस्तत्प्रतिभटबिन्दुश्च अचामेकतः प्रधानतः अकारात् पर इत्यर्थः॥६५॥
 
  अतत्परत्वेऽनभिव्यक्तिदोषमाह—नश्वर इति। सर्ग एव चेत् केवलः स्यात् नहि नश्वरः स्यादित्यर्थः। बिन्दोरपि उपलक्षणार्थमेतत्। यद्येवं सकारहकारौ प्रकृतिपुरुषवाचकौ। कथं तर्हि हकारस्यैव पूर्वं सर्ववाचकत्वमुक्तमिति। नायं दोषः। हकारस्यापि उभयात्मकत्वादित्याह—सोष्मा सप्राणकस्तु ह इति। उष्मा बलं शक्तिः प्रकृतिः स एव प्राणः कः प्राणस्य प्राणः पुरुषः।
 
  एवं हकारस्य प्रकृतिपुरुषात्मकत्वमभिधाय तदेव प्रपञ्चयन् तस्य प्रकृतिप्राधान्यमाश्रित्य सर्ववर्णादिकारणत्वमाह—स सर्ग इति। अकादिं वर्गमिति छेदः। तत्रैव वर्णविशेषाभिव्यञ्जकं प्रयत्नविशेषमाह—स्पर्शनमात्रेणेति। सोष्मा साग्निः। इश्चशश्चेति छेदाः। उपसंहरति—तत्तदिति॥६६॥६७॥६८॥६९॥
-
-
 
 ह्रस्वाः पञ्च परे च सन्धिविकृताः पञ्चाथ विन्द्वन्तिका  
 काद्याः प्राणहुताशभूकखमया याद्याश्च शार्णान्तिकाः।  
@@ -4218,8 +3937,6 @@ June 1935.
 
  स्तम्भनादिप्रयोगप्रकारमाह—दशभिरिति। अं आं नमः। एं कं नमः। चं टं नमः। तं पं नमः। यं षं नमः। इत्यादि मन्त्रप्रयोगप्रकारः। योनिस्त्रिकोणं तस्य मध्ये प्रथमो मन्त्रः। द्वितीयतृतीयचतुर्थाः अग्रादिकोणेषु। पञ्चमो मध्य एव संयजेत्। संलिख्य सञ्चिन्त्य वा पूजयेत्। मन्त्रीति सिद्धमन्त्रस्यायं प्रयोग इति सूचितः। मध्ये पञ्चीकृतभूतबीजं लिखित्वा तद्विन्दूर्ध्वाधोभागादिषु साधकसाध्यकर्मयोगो यन्त्रजीवादियोगश्च सूचितः। एतच्च यन्त्रं पार्थिवमण्डलगतं स्तम्भने। परिवर्षणादिष्वपि आप्यादिमण्डलगतानि यन्त्राणि। ह्सौः इति यन्त्रजीवं मध्यबीजाधोभागे न्यसेत्। हंसः संह इति मध्यजीवबीजचतुर्दिक्षु मध्याभिमुखं यन्त्रप्राणं लिखेत्। यन्त्रराजाय विद्महे वरप्रदाय धीमहि तन्नो यन्त्रः प्रचोदयात् इति गायत्री। गुणशोऽष्टदिक्षु पद्मवत्सु यन्त्रेषु दलेषु लेख्या। तद्बहिर्दशदिक्षु लं रं लं क्षं वं शं सं हं ह्रीं अं इति यन्त्रहृदयम्। ततो यथावकाशं प्राणप्रतिष्ठामन्त्रः। यन्त्रसामान्यमपि मन्त्रीत्यनेन सूचितम्॥७४॥
 
-
-
 **पूर्वोक्ताद्बिन्दुमात्रात् स्वयमथ रवतन्मात्रतामभ्युपेता-  
 ऽकारादीन् द्व्यष्ट कादीनपि तदनुगतान् पञ्चविंशत्तथैव।  
 यादीन् संयुक्तधातूनपि गुणसहितैः पञ्चभूतैश्च ताभि-  
@@ -4234,8 +3951,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
 तृतीयः पटलः।  
 ————
-
-
 
 **चतुर्थः पटलः।**
 
@@ -4254,8 +3969,6 @@ June 1935.
  प्राकृतस्य परिच्छिन्नस्याऽस्य उक्तशक्त्यात्मकत्वम् अनुपपन्नमिति चेन्न। न्यासध्यानयोगादिभिः योग्यत्वस्य सम्पाद्यमानत्वात् सम्पादितत्वाच्च इत्याह—कृतकृत्यस्य जगतीति। जगति सर्वतत्त्वात्मके शरीरे यन्न्यासादिकं कर्तव्यं तत् कृतं यस्य साधकस्य स तथोक्तः। अतएव सततं रूढसंस्थिते रूढा प्रसिद्धा संविद्रूपप्रकृत्यात्मकत्वेन स्थितिर्यस्य स तथोक्तः॥१॥
 
  उक्तस्याऽक्षरत्रयस्य व्याप्तिं वदन् साधकस्य प्रकृत्यात्मकत्वसिद्धये षोड़शाङ्गन्यासमाह—प्राणात्मकमिति। प्राणे सत्येव मनोदेहयोः शोकजरादिधर्मवत्त्वदर्शनात् तदात्मकहकारधर्मत्वं षडूर्मीणामुक्तम्॥२॥
-
-
 
 पवनाद्याः पृथिव्यन्ताः स्पर्शाद्यैश्च गुणैः सह।  
 करणान्यपि चत्वारि सङ्घातश्चेतनेति च॥३॥
@@ -4277,8 +3990,6 @@ June 1935.
 
  हकारस्य महात्मन इति। तत्तद्वर्गन्यासानन्तरं तैस्तैर्वर्गैः सहितेन तेन तेन वर्णेन व्यापकं सूचितम्। हं हां हिं हीं हुं हूं हकारात्मने नम इत्यादयो व्यापकमन्त्रा इति। इदं षोड़शाङ्गवदिति। तत्तद्वीजयुतषोड़शस्वरानुक्ताऽन्ते
 
-
-
 एभ्यः संजज्ञिरेऽङ्गेभ्यः स्वराः षोड़श सर्वगाः।  
 तेभ्यो वर्णान्तराः सर्वे ततो मूलमिदं विदुः॥७॥
 
@@ -4293,8 +4004,6 @@ June 1935.
  अयमत्र प्रयोगक्रमः। हं अं बुभुक्षायै नमः। हं अं कं बुभुक्षायै नमः। हं कं खं बुभुक्षायै नमः। इत्यादि क्षान्तं समानम्। हं आं अं बुभुक्षायै नमः। हं आं कं बुभुक्षायै नमः। इत्यादि क्षान्तमेवमेव। हं अः अं बुभुक्षायै नमः। हं अः कं बुभुक्षायै नमः। हं अः खं बुभुक्षायै नमः।इत्यन्तं द्रष्टव्यम्। अकारपद्मदलेषु वृत्ताकारेणैषां न्यासः। पुनः हं कं अं बुभुक्षायै नमः। हं कं कं बुभुक्षायै नमः इत्यादि षोड़शपर्यायाः काम्बुजदलेषु वृत्ताकारेण न्यस्तव्याः। पुनः हं खं अं बुभुक्षायै नमः। हं खं कं बुभुक्षायै। हं खं खं बुभुक्षायै नमः। इत्यादिका ब्रह्मब्रह्मपारायणवत् खाद्यम्बुजदलेषु न्यस्तव्या इति बुभुक्षान्यासभेदाः।
 
  अथ पिपासादिन्यासभेदाः। अथादौ हां हीमादियुता ब्रह्मब्रह्मपारायणवत् आदिह्रस्वैरेव संयोज्याऽकाराद्यम्बुजदलेषु न्यस्तव्याः। अथवा ब्रह्मविष्ण्वादिपारायणवद् द्वितीयदीर्घादिसंयुक्ता न्यस्तव्याः। हां अं अं पिपासायै नमः। तथा हां अं कं पिपासायै नम इत्यादिक्षान्तम्। हां आं अं पिपासयै नमः। हां आं कं पिपासायै नमः इत्यादि विसर्गान्तमूह्यम्। हां अं कं पिपासायै। हां कं कं पिपासायै। हां कं खं पिपासायै इत्याद्यूह्यम्। पुनः हां खं अं पिपासायै। हां खं कं पिपासायै। हां खं खं पिपासायै इत्याद्यूह्यं सर्वम्। ततो मूलमिदं विदुरिति प्रतिपर्यायं मूलेन व्यापकन्यासाः सूचिताः॥७॥
-
-
 
 गतो वो बीजतामेष प्राणिष्वेवं व्यवस्थितः।  
 ब्रह्माण्डं ग्रस्तमेतेन व्याप्तं स्थावरजङ्गमम्॥८॥
@@ -4312,8 +4021,6 @@ June 1935.
  लिङ्गन्यासमाह—एष इति। रं पुरुषात्मने नमः। ईं स्त्र्यात्मने नमः। हं नपुंसकात्मने नमः। ह्रीं अलिङ्गात्मने नमः। इत्येते मन्त्राः सूचिताः। दक्षिणोत्तरमध्यभागव्यापकेषु न्यासः। एष इत्यनेन व्यापकमन्त्रः सूचितः।
 
  शक्त्यादिन्यासं सूचयन् व्याप्तिमाह—शक्तिरिति। शक्तिः श्रीरित्येताभिः शक्तिभिः। आद्यैश्चाऽकारादिक्षकारान्तैर्वर्णैः सह मातृकास्थानेषु न्यसेदित्यर्थः। अं शक्त्यै नमः। आं शक्त्यै नमः। इत्यादयो मन्त्राः। एवं अं श्रियै नमः।
-
-
 
 क्षान्तिः पुष्टिः स्मृतिः शान्तिरित्याद्यैः स्वार्थवाचकैः।  
 नानाविकारतां प्राप्तैः स्वैः स्वैर्भावैर्विकल्पितैः॥११॥
@@ -4334,8 +4041,6 @@ June 1935.
 
  कुण्डलिनीन्यासमाह—आकृतिमिति। स्वेन भावेन च कुण्डलिनीवाचकहकारेण कुण्डलिनीबीजेन च पिण्डितामाकृतिं ब्रह्मब्रह्मादिरूपेण सर्वस्थानेषु बहुधा विदुरित्यर्थः। अयं भावः। ह्स्रां ह्स्रीमिति कुण्डलिनीबीजं नाभौ त्रिकोणमध्ये
 
-
-
 चराचरस्य जगतो बीजत्वाद्बीजमेव तत्।  
 मूलस्य बिन्दुयोगेन शतानन्द त्वदुद्भवः॥१४॥
 
@@ -4354,8 +4059,6 @@ June 1935.
  रेफान्वितेन इकारेण योगाद्विष्णोरुत्पत्तिः। रेफान्वितेनाऽकारेण योगाद्रुद्रस्य। उक्तेऽर्थे गमकमाह—हङ्काराख्य इति। सर्वात्मत्वं मम सर्वसंयोगादित्यर्थः। हं ब्रह्मणे नमः इति। हरिः विष्णवे नमः। हरः रुद्राय नमः। ह्रीं सर्वेश्वराय नम इति नाभ्यादिषु न्यसेदित्यर्थः। एतदेव मन्त्रचतुष्टयं प्रणवसंयुक्तं पिण्डीकृतं प्रणवचतुष्टयं भवति। हों ह्यों ह्रों ह्र्योमिति।
 
  विभूत्यन्तरं दर्शयन् अजपापरमात्मप्रणवन्यासानाह—अस्येति। अस्य हस्य
-
-
 
 स हंकारः पुमान् प्रोक्तः स इति प्रकृतिः स्मृता।  
 अजपेयं मता शक्तिस्तथा दक्षिणवामतः॥१७॥
@@ -4382,8 +4085,6 @@ June 1935.
 
  एवं प्रत्यगात्मनो ब्रह्मणैकत्वप्रतिपादकं मनुमभिधाय तस्याऽनेन तत्प्रतिपादकं परमात्ममन्त्रमुद्धरति—पुंरूपमिति। सा तदुपाधिको जीव इत्यर्थः। अस्यापि
 
-
-
 ताराद्विभक्ताच्चरमांशतः स्युर्भूतानि खादीन्यथ मध्यमांशात्।  
 इनादितेजांसि च पूर्वभागाच्छब्दाः समस्ताः प्रभवन्ति लोके॥२२॥
 
@@ -4408,8 +4109,6 @@ June 1935.
  तत्त्वन्यासे गायत्रीवर्णसान्निध्यमाह—तद्वर्णेति। तच्छब्दस्तत्त्ववाचकः।तत्त्वसंख्यवर्णसंयुक्तेत्यर्थः। सप्तग्रहात्मकत्वं वदन् सप्तग्रहन्यासं सूचयति—सप्तग्रहात्मिकेति। हकारादिशान्तान्तैः यदा सप्तभेदिनो तदा सप्तग्रहात्मिका इति न्यासमन्त्रेषु हकारात्मने नम इत्यादियोगः सूचितः॥२४॥
 
  मन्त्रशेषं सूचयति—तदा स्वरेश इति। अं आं इं ईं उं ऊं ऋं ॠं लृं ॡं एं ऐं ओं औं अं अः स्वराधिपतये सूर्याय भगवते हकारात्मने नमः। कं खं गं घं ङं कवर्गाधिपतये अङ्गारकाय भगवते रेफात्मने नमः। चं छं जं झं ञं चवर्गाधिपतये शुक्राय भगवते ईकारात्मने नमः। टं ठं डं ढं णं टवर्गाधिपतये बुधाय भगवते बिन्द्वात्मने नमः। तं थं दं धं नं तवर्गाधिपतये बृहस्पतये भगवते
-
-
 
 यथा स्वरेभ्यो नाऽन्ये स्युर्वर्णाः षड्वर्गभेदिताः।  
 तथा सवित्रनुस्यूतं ग्रहषट्कं न संशयः॥२७॥
@@ -4443,8 +4142,6 @@ June 1935.
 
  चक्रसंहारेण स्वरूपस्थितिं सूचयति—ऋक्षेति। चक्रस्य गतिः संहारः। जगतः परमात्मरूपेण स्थितिरित्यर्थः। वक्ष्यामीति सुबोधम्॥३२॥
 
-
-
 अन्तर्बहिर्विभागेन रचयेद्राशिमण्डलम्।  
 भूचक्र एष मेषादिः प्रविज्ञेयोऽथ मानुषः॥३३॥
 
@@ -4467,8 +4164,6 @@ June 1935.
  तेषामेव प्रथमतोऽक्षरयोगक्रमं दर्शयति—आद्यैरिति॥३४॥३५॥३६॥३७॥
 
  वर्णानामुपरि राशिनाड़िकासंख्यायोगं दर्शयति—स्यातामिति। अनेनैव नाड़िकान्यासोऽपि दर्शितः॥३७॥३८॥३९॥
-
-
 
 पादाधिका मकरयुक्सिंहवृश्चिकसंज्ञकाः।  
 पादोनौ कुम्भवृषभौ वणिक्कन्ये च पञ्चके॥३८॥
@@ -4500,8 +4195,6 @@ June 1935.
 
  घटिकान्यासानन्तरं राशिमन्त्रैः तं तं राशिं व्यापयेत्। ह्रीं अं आं इं ईं सपादचतुर्घटिकात्मने चरात्मने नृपवर्णात्मने रक्तवर्णाय मनुष्यलग्नाय मेषराशये नमः। उं ऊं ऋं पादोनपञ्चघटिकात्मने स्थिरात्मने शूद्रवर्णात्मने
 
-
-
 ततस्तदूर्ध्वभागस्थो भुवश्चक्रः समस्तथा।  
 स तु सिंहादिको यस्मिन् पैतृकी नियता गतिः॥४४॥
 
@@ -4519,8 +4212,6 @@ June 1935.
  मूलाधारचक्रवदेव हृच्चक्रेऽपि न्यासः कर्तव्यः। इत्याह—ततस्तदूर्ध्व इति। तत्र न्यासः सिंहादिक इत्याह—स त्विति। लग्नादयश्च पितृलग्नाय सिंहराशये नमः। इत्येवं क्रमेण योज्या इत्याह—यस्मिन्निति॥४४॥
 
  मूर्धस्थस्वश्चक्रेऽपि समो न्यास इत्याह—तदूर्ध्व इति। तत्र चापादिको न्यास।
-
-
 
 धनुस्तु देवलग्नत्वात् समासाल्लग्नमुच्यते।  
 विध्युर्धनुर्मेषसिंहा मकरर्षभकन्यकाः॥४६॥
@@ -4541,8 +4232,6 @@ June 1935.
  नक्षत्रन्यासं वदन् वेधसाम्यात् प्रथमं नक्षत्रवेधन्यासमाह—मूलेति। न्यासक्रमस्तूच्यते। ह्रीं अं आं अश्विन्यै नमः। इं भरण्यै नमः। ईं उं ऊं कृत्तिकायै नमः। ऋं ॠं लृं लॄंरोहिण्यै नमः। एं मृगीर्षायै नमः। ऐं आर्द्रायै नमः। ओं औं पुनर्वसवे नमः। कं पुष्यायै नमः। खं गं अश्लेषायै नमः। घं ङं मघायै नमः। चं पूर्वफल्गुन्यै नमः। छं जं उत्तरफल्गुन्यै नमः। झं ञं हस्तायै नमः। टं ठं चित्रायै नमः। डं स्वात्यै नमः। ढं णं विशाखायै नमः। तं थं दं अनुराधायै नमः। धं ज्येष्ठायै नमः। नं पं फं मूलायै नमः। बं पूर्वाषाढ़ायै नमः। भं उत्तराषाढ़ायै नमः। मं श्रवणायै नमः। यं रं श्रविष्ठायै नमः। लं शतभिषजे नमः। वं शं पूर्वभाद्रपदायै नमः। षं सं हं उत्तरभाद्रपदायै नमः। लं क्षं अं अः रेवत्यै नमः। इति नक्षत्रचक्रे न्यसेत्।
 
  पुनस्तत्रैव नक्षत्रदेवतान्यासं कुर्यात्। अं आं अश्विन्यधिपतिभ्यामश्विभ्यां नम इत्यादि क्रमेण मन्त्राः द्रष्टव्याः। पुनरेभिरेव मन्त्रैः नक्षत्रवेधन्यासः। स च मूलाश्विन्यादिक्रमेण न्यस्तव्यः। राशिचक्र एव चेत् नक्षत्रन्यासः तदा राश्यर्णैः राशिभिश्च सह न्यासः कार्यः। अं आं इं ईं अश्विनीभरणीकृत्तिकापादात्मने मेषराशये नम इत्यादिक्रमेण मन्त्रा द्रष्टव्याः। एवं उं ऊं ऋं कृत्तिकापादत्रयरोहिणी मृगशीर्षा पूर्वार्धात्मने ऋषभराशये नमः। ॠं लृं लॄंमृगशीर्षोत्तरा-
-
-
 
 चरस्थिरोभयात्मानश्चातुर्वर्ण्यगुणात्मकाः।  
 राशिं राश्यधिपास्त्वेवं विध्युर्वेधविधानतः॥५०॥
@@ -4569,8 +4258,6 @@ June 1935.
  पूर्वोक्तराशिव्यापकमन्त्रक्रमं सूचयति—चरेति। राश्यधिपन्यासे राशिवेधन्यासे चोक्तमेव मन्त्रं सविशेषं सूचयति—राश्यधिपास्त्विति॥५०॥
 
  नक्षत्रन्यासेऽक्षरयोगक्रममाह—एभ्य एव त्विति॥५१॥५२॥५३॥५४॥५५॥५६॥५७॥५८॥५९॥
-
-
 
 ज्येष्ठा धकारान्मूलाख्या नपफेभ्यो बतस्तथा।  
 पूर्वाषाढ़ा भतोऽन्या च संजाता श्रवणा मतः॥५६॥
@@ -4611,8 +4298,6 @@ June 1935.
 
  नक्षत्रदेवतान्यासं सूचयति—अश्वीति॥६४॥६५॥६६॥
 
-
-
 व्याघ्र्येणी हरिणी श्ववानरपशुः शाखामृगः स्त्री हयो  
 मर्त्यो गौः करिणीति साधु कथिता नक्षत्रयोन्यः क्रमात्॥६६॥
 
@@ -4643,8 +4328,6 @@ June 1935.
 
  प्रतिपदादिकः शुक्ल इति न्यासमन्त्रांशाः सूचिताः॥६९॥७०॥
 
-
-
 राशिभ्यः सदिनेभ्यः सतिथिभ्यः शक्तिजृम्भणसमुत्थात्।  
 अक्षरभेदविकारात् करणानि च सप्तभेदकान्यभवन्॥७२॥
 
@@ -4672,8 +4355,6 @@ June 1935.
 
  व्याप्तिन्यासकथनफलम् उपसंहरन् अवसाने हृल्लेखया व्यापकमाह—सचराचरस्येति। अस्य साधकस्यैव न्यस्तविग्रहस्य बीजस्य मन्त्रस्य मूलकारणात्मता एवं सिद्धेत्यर्थः॥७५॥
 
-
-
 यां ज्ञात्वा सकलमपास्य कर्मबन्धं  
 तद्विष्णोः परमपदं प्रयाति लोकः।  
 तामेतां त्रिजगति जन्तुजीवभूतां  
@@ -4694,13 +4375,9 @@ June 1935.
 
  अथ नामानुकूल्यं षोड़शकोष्ठं मण्डलमालिख्य ईशानकोष्ठमारभ्य एकैकान्तरितम् अकारादि-क्षकारान्तानि अक्षराणि तत्र लिखित्वा। नामाद्यक्षरयुक्तं खण्डचतुष्टयम् आरभ्य सिद्धसाध्यसुसिद्धारित्वेन जानीयात्। सिद्धसिद्धो यथोक्तजपादिनासिध्यति। सिद्धसाध्यो द्विगुणात्। सिद्धसुसिद्धोऽर्धेन। सिद्धारिर्बान्धवान् हन्ति। साध्यसिद्धादयो विघ्ननैरर्थक्यस्त्रीनाशगोत्रनाशान् प्रयच्छन्ति। सुसिद्धसिद्धोऽर्धजपात्। तत्साध्यः त्रि\[द्वि\]गुणजपात्। तत्सुसिद्धो ग्रहणादेव सिद्धिदः। तदरिर्ज्ञातिहानिदः। अरिसिद्धादयः पुत्रपुत्रीपत्न्यात्महानिदाः।
 
-
-
  नृसिंहार्कवराहाणां प्रासादप्रणवस्य च वैदिके पिण्डमन्त्रे च न सिद्धादिपरीक्षणमावश्यकम्।
 
 **अथ कुलाकुलविभागः।**
-
-
 
 मन्त्रनामाद्यक्षरयोः एकभूतसम्बन्धित्वे एककुलता। पार्थिवानाम् आप्यानि मित्राणि। आग्नेयानां मारुतानि मित्राणि। पार्थिवाप्यानां मारुतानि शत्रवः। आग्नेयानाम् आप्यानि शत्रवः। आप्यानां तैजसानि च शत्रवः। नाभसानि सर्वाविरुद्धानीति।
 
@@ -4714,8 +4391,6 @@ June 1935.
 चतुर्थः पटलः।  
 
 ————
-
-
 
 **पञ्चमः पटलः।**
 
@@ -4741,8 +4416,6 @@ June 1935.
  दीक्षाशब्दनिर्वचनेन दीक्षायाः सिद्धिदानसामर्थ्यं दर्शयति—दद्यादिति। दाञ् दाने। क्षि क्षये। इति धातुद्वयनिष्पन्नत्वात् दीक्षाशब्दस्येत्यर्थः। दीक्षाया अपि मन्त्रयोगः सामर्थ्यहेतुरिति वदन् मनुशब्दपर्यायं मन्त्रपदं निर्वक्ति—मननादिति॥२॥
 
  दीक्षाकालं नियमयन्नाचार्यस्य नियममाह—दैवादिकस्येति। दैवशब्दादय आदौ येषां वत्सराणां ते तथोक्ताः। आदिं पूर्वपक्षमित्यर्थः। देवा ब्रह्माद्याः पञ्चमूर्तयो हृदादिस्थानगताः। मानुषः साधकः पिता आचार्यः। एषामादिभूतस्य वत्सरस्य वत्सान् देवादीन् व्याप्य रौतीति वत्सरः। तस्यादिं स्पर्शव्यापिन्यादिशक्तिं समालभ्य समः शिष्यात्मनः अग्रसम्पत्तिः परमपदप्राप्तिस्तत्साधकेन यत्नविशेषेण युक्तः सन् आचार्यो दीक्षाविधिमारभेत् इत्याचार्यस्य नियम उक्तः॥३॥
-
-
 
 तद्देहसंस्थिता ये देवास्ते विश्रुतास्त्रिपञ्चाशत्।  
 मण्डलमध्येऽभ्यर्च्या यथा तथोक्तक्रमेण वक्ष्यन्ते॥६॥
@@ -4779,8 +4452,6 @@ June 1935.
 
  मन्त्रिणेति। ब्रह्मणः पार्श्वयोः विष्णुरुद्रयोः स्वस्वमन्त्रेण पूजनमुक्तम्।
 
-
-
 वायुर्नागश्च मुख्यश्च सोमो भल्लाट एव च।  
 अर्गलाख्यो दितिस्तद्वददितिः सौम्यदिग्गताः॥१५॥
 
@@ -4807,8 +4478,6 @@ June 1935.
  दीक्षादिवसात् यथावदिति। पुण्याहादिपुरःसरमित्यर्थः॥१८॥
 
  अन्यस्मिन् भवने दीक्षामण्डपोत्तरभागस्य इत्यर्थः। पदचतुष्केति। पञ्चहस्तप्रमाणानि द्वादशाङ्गुलान्तराणि पूर्वापरायतानि पञ्च सूत्राणि निपात्य। दक्षिणोत्तरसूत्राण्येकादशाऽर्पयित्वा। पङ्क्त्या सर्वतो वोथ्यो विधातव्याः।
-
-
 
 पीतारक्तसितासितं प्रतिपदं वह्न्यादिशर्वान्तिमं  
 याम्योदीच्यसमायतं प्रणिगदन्त्यन्ये च तन्मन्त्रिणः॥१९॥
@@ -4842,8 +4511,6 @@ June 1935.
  साधकवर इति प्रक्षालनायाऽमृतबीजं सूचितम्। दुन्दुभ्यादयस्तालादयो वीणादयो मुखवाद्यादयः शङ्खादयश्च पञ्चमहाशब्दाः। विधिवत् प्रतिपाद्यमानेति। उचिततालशब्द विशेषेणेत्यर्थः॥२३॥
 
  तद्वलिं साधकेश इति। प्रागादिदिक्षु दानं सूचितम्॥२४—२९॥
-
-
 
 लाजातिलनक्तरजोदधिशक्त्वन्नानि भूतक्रूराख्यम्।  
 पैत्रं तिलतण्डुलकं सोडुम्बरिकधानलाजकं याक्षम्॥२६॥
@@ -4880,8 +4547,6 @@ June 1935.
 
  ताभिश्च प्रखनत्विति। मेखलोच्छ्रायेण सार्धमिति द्रष्टव्यम्। तावतीभिः मेखलाश्च कार्या इति। मेखलाविस्तारः समुच्चित्योक्तः। तत्राधो मेखलाविस्तारो द्वादशाङ्गुलः। मध्यमेखलाया अष्टाङ्गुलः। ऊर्ध्वमेखलायाश्चतुरङ्गुलः। इति मिलित्वा चतुर्विंशाङ्गुलविस्तारत्वं विवक्षितम्। उच्छ्रायश्चैवमेव द्रष्टव्यः।॥३२॥३३॥
 
-
-
 उत्सेधायामकाभ्यां प्रकृतिविकृतिसंज्ञाङ्गुलाऽष्टाङ्गुला स्या-  
 द्विस्तृत्या द्वादशार्धाङ्गुलमितनमिताग्रा निविष्टैव कुण्डे॥३४॥
 
@@ -4902,8 +4567,6 @@ June 1935.
  यथान्यायमिति। ईशानकोणावसानत्वमभ्युक्षणादिकं च सूचितम्॥३६॥
 
  गुणितेनेति। सूत्रद्विगुणितं कृत्वा तेन गुणितेन सूत्रेण प्राक्प्रसृतसूत्रस्याऽभितो मध्याद द्विगुणितस्यापि उभयतो मध्यादारभ्य उभयतो मत्स्यौ विन्यसेदित्यर्थः। सपद्धस्तेत्यत्र पादशब्दशः षट् त्रिंशदङ्गुलवचनः। “पादः षट्
-
-
 
 सूत्रेषु मकरान् न्यसेत् स्पष्टानन्योन्यतः समान्।  
 सूत्राग्रमकरेभ्यस्तु न्यसेत् कोणेषु मत्स्यकान्॥३९॥
@@ -4945,8 +4608,6 @@ June 1935.
 
  मण्डलमध्यार्ध इति। मण्डलस्य मध्यं मण्डलमध्यं राशिमण्डलान्तः।
 
-
-
 अन्तरालं पृथग्वृत्तत्रये द्व्यङ्गुलमुच्यते।  
 ततश्च राशिचक्रं स्यात् स्वस्ववर्णविभूषितम्॥५१॥
 
@@ -4987,8 +4648,6 @@ June 1935.
 
  षड्भिः नवभिरेव वेति। वृत्तराशिपक्षे षड्भिः। त्र्यस्रराशिपक्षे नवभि-
 
-
-
 उपक्रमेदर्चयितुं होतुं वा सर्वदेवताः।  
 रजांसि पञ्चवर्णानि पञ्चद्रव्यात्मकानि च॥६३॥
 
@@ -5025,16 +4684,12 @@ June 1935.
 पञ्चमः पटलः  
 ————
 
-
-
 **षष्ठः पटलः।**
 
 अथ पुनराचम्य गुरुः प्राग्वदनो विष्टरोपविष्टः सन्।  
 प्राणायामं सलिपिन्यासं कृत्वा न्यसेत्तद्ऋष्यादीन्॥१॥
 
  अथ पुनरिति। एवं साधनसंपत्त्यानन्तर्यमथशब्दार्थः। पुनराचम्येति। नित्याचमनव्यतिरेकेण पुनराचमनविधानात्। स्नानपूजादिकमपि नित्यानन्तरं पृथक् कर्तव्यमिति सूचितम्। अतस्तदुच्यते। ब्राह्मे मुहूर्त्ते उत्थाय। देवतां ध्यात्वा। कर्मसमर्पणं विधाय। हंसपूजां संकल्प्य। सुशुद्धः। स्वाचान्तः। सकलीकृत्य अस्त्रेण मृदं खनित्वा। हृदयेनादाय। शिरसा जलतीरेऽस्त्रशोधिते धृत्वा। शिखया शर्करादिकमुद्धृत्याऽस्त्रेण संप्रोक्ष्य। नेत्रेण संवीक्ष्य। कवचेन त्रिधा विभज्य। मूलेनाऽभिमन्त्र्य। भागेनाऽस्त्रमन्त्रेणाऽङ्गानि प्रक्षाल्य। भागान्तरमापादतलमस्तकमालिप्य। तीर्थमवगाह्य। निमज्याऽस्त्रमन्त्रं शक्त्यावर्त्य। उन्मज्य आचम्याऽपरं मृद्भागं त्रिधा विभज्याऽस्त्राङ्गमूलै-रेकैकमभिमन्त्र्य अस्त्रजप्तं दिक्षु रक्षार्थं निक्षिप्याऽङ्गजप्तेनात्मानमालभ्याऽपरं हृन्मन्त्रानीते तीर्थे मूलेन विलोड्य। निमज्य मूलं शक्तितोऽनुसन्धाय। साङ्गेन मूलेनाऽभिषिच्य। तीरमागत्याचम्य। अस्त्रप्रोक्षितं वासः परिधायाचम्य। सकलीकृत्य। पूजाक्रमेण सन्तर्प्योद्वास्य। द्वास्थः सूर्यमुपस्थाय। यागमण्डपं गत्वा। वेदमन्त्रैः आचम्याथर्वाङ्गाग्निभिः संमृज्य। चक्षुरादिकं तत्तद्देवतामन्त्रैरुपस्पृशेत्। पुनः सवित्रेऽर्घ्यं दत्त्वा। सामान्यार्घ्येण द्वारपूजां कुर्यात्। अस्त्रजप्तोदकेन द्वारं संप्रोक्ष्य। गं गणपतये। श्रीं लक्ष्म्यै। सां सरस्वत्यै नम इत्यूर्ध्वभागे संपूज्य। गं गणपतये। क्षं क्षेत्रपालाय। गं गङ्गायै। यं यमुनायै नम इति दक्षसव्यभागयोः। ततो देहल्यामस्त्रं संपूज्याऽस्त्रदृष्ट्यस्त्रोदकास्त्रपार्ष्णिघातैर्दिव्यादिव्यविघ्नान् उत्सार्य वामशाखाश्रयेण देहलीं लङ्घयित्वा। निर्ऋतिकोणे वास्त्वीशं ब्रह्माणं च संपूज्य। पञ्चगव्यार्घ्यतोयाभ्याम् अस्त्रेण मण्डलमभ्युक्ष्य। मूलमन्त्रेण संवीक्ष्याऽस्त्रेण संप्रोक्ष्य। तेनैव दर्भैः सन्ताड्य। वर्मणाऽभ्युक्ष्य। तेनैव चन्दनागरुकर्पूरैः सन्धूप्य। लाजाचन्दनसिद्धार्थभस्मदूर्वांकुशाक्षतान् अस्त्रेण सप्तजप्तान्मण्डपे विकीर्याऽस्त्रजप्तदर्भमुष्टिना तान् संमार्ज्य। ईशानकोणे वर्धन्यासनत्वेन तानि सङ्कल्पयेत्। पुण्याहं वाचयित्वाऽत्र ब्राह्मणान् भोजयित्वा तत्र मण्डलमुक्तलक्षणं कर्तव्यमित्येतत् सर्वमुक्तं—गुरुरिति।
-
-
 
 पुनरस्त्रप्रोक्षिते शुद्धे विष्टरे लिपिपद्ममध्यगप्रणवबिन्दौ प्राङ्मुख उदङमुखो वा बद्धासन उपविशेदित्याह—प्राग्वदन इत्यादिना।
 
@@ -5045,8 +4700,6 @@ June 1935.
  अथवा यादिदशकं सधातुप्राणशक्त्यात्मसु न्यसन् तान् पञ्चीकृतभूतेषु संहरेत्।
 
  अत्र प्राणशब्देनेन्द्रियादि प्रवृत्तिकारणमात्रम् उच्यते। शक्तिशब्देन ज्ञानवृद्धिकरमात्रम्। आत्मशब्देन जीवस्थितिकारणमात्रमिति विभागः। यादिन्यासेन तान् सञ्चिन्त्य। क्ष्म्रौमिति उत्कृष्य। पञ्चीकृतबीजानि मूर्धादिषु न्यसन् तान् तेषु संयोज्य। ह्रीमिति आप्याय्य। पञ्चीकृतपृथिव्यादिसंहाराय प्राणायामपञ्चकं विधाय। समानधनञ्जयान्तःकरणवाक्श्रोत्रपञ्चकेषु मनणञङादिपञ्चकान् न्यसन्
-
-
 
 ऋषिर्गुरुत्वाच्छिरसैव धार्यः छन्दोऽक्षरत्वाद्रसनागतं स्यात्।  
 धियाऽवगन्तव्यतया सदैव हृदि प्रदिष्टा मनुदेवता च॥२॥
@@ -5072,8 +4725,6 @@ June 1935.
  छदु इच्छायां दाण् दाने इतीच्छादानार्थौ धातू। तयो रूपं छन्दःशब्दः। समुदायार्थमाह—इच्छां ददातीति॥४॥
 
  दिव् क्रीड़ा विजिगीषा व्यवहार द्युति स्तुति मोद मदस्वप्नकान्तिगतिषु तक्षुत्वक्षु तनुकरणे इति धातुद्वयनिष्पन्नो देवताशब्दः॥५॥
-
-
 
 हृदयं बुद्धिगम्यत्वात् प्रणामः स्यान्नमःपदम्।  
 क्रियते हृदयेनाऽतो बुद्धिगम्या नमस्क्रिया॥७॥
@@ -5105,8 +4756,6 @@ June 1935.
 
  उत्पन्नज्ञानस्य संसारनिवृत्तिमाह अस्त्रेण—असुत्रसादीति। असुक्षेपणे
 
-
-
 अङ्गमन्त्रा इमे प्रोक्ताः सर्वतन्त्रेषु मन्त्रिभिः।  
 पञ्चैव यस्य मन्त्रस्य भवन्त्यङ्गानि मन्त्रिणः॥१३॥
 
@@ -5137,8 +4786,6 @@ June 1935.
 गङ्गे च यमुने चैव गोदावरि सरस्वति।  
 नर्मदे सिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु॥
 
-
-
 न्यसेच्च दक्षभागे सुमनःपात्रं तथाऽभितो दीपान्।  
 अन्यत्साधनमखिलं पुरतो गन्धाक्षतादिकं मन्त्री॥१८॥
 
@@ -5161,8 +4808,6 @@ June 1935.
  गन्धाक्षतादिकं मन्त्रीति मूलहृद्भ्यां तेषामभिमर्शनमुक्तम्॥१८॥
 
  निजसव्यतो यथावदिति। प्रथमं न्यासस्थानेषु जलादिभिरात्मपूजां कृत्वा आत्मानमलङ्कृत्य सासनमूर्तिपूजापूर्वकं गुरुगणेशावर्चयेदित्यर्थः। देवमयानिति गुरुध्यानमुक्तम्। गुं परमगुरुभ्यो नमः। गुं परापरगुरुभ्यो नमः। गुं अपरगुरुभ्यो नमः। गुं अस्मद्गुरुभ्यो नमः। इति मन्त्रा महागुर्वादिपदसूचिताः। तत आधारशक्ति मूलप्रकृत्यनन्त पृथिवी कल्पकवृक्ष रत्नमण्डपमन्त्रैः मध्ये
-
-
 
 विन्यस्य कर्णिकोपरि शालींस्तदुपरि तण्डुलांश्च तथा।  
 तेषामुपरि च दर्भान् दर्भोपरि कूर्चमक्षतोपेतम्॥२३॥
@@ -5205,8 +4850,6 @@ June 1935.
 
 कलाः समावाह्येत्येतत् विवृणोति—अष्टत्रिंशदिति। गुरूपदेशक्रमत इति। आग्नेयसौर-सौम्यक्रमेणेत्यर्थः। विद्वानिति। मण्डलमन्त्राणां जातवेदसे तत्सवितृ
 
-
-
 याः पञ्चाशत्कलास्तारपञ्चभेदसमुत्थिताः।  
 पञ्चपञ्चकसम्भिन्ना विदुस्तास्तत्त्ववेदिनः॥३२॥
 
@@ -5231,8 +4874,6 @@ June 1935.
  न पठ्येते परैः सहेति। तत्र पञ्चकादिसंभेदो नास्तीत्यर्थः। ओं शक्त्यात्मने शान्तात्मने नम इति तु योज्यम्। चतुर्नवतीति त्रिनवतिकलावाहनानन्तरं मूलमन्त्रमपि सकृज्जप्त्वा पूरयेदित्यर्थः॥३३॥
 
  कलाप्रभेदैश्च मिथ इति। एकैककलावाहनान्तरं युज्यन्त इत्यर्थः। क्रमादिति। हंस इति अकारकलादिषु। प्रतद्विष्णुरिति उकारकलादिष्वित्यादि-
-
-
 
 कुर्यात् प्राणप्रतिष्ठाञ्च तत्र तत्र समाहितः।  
 प्राणप्रतिष्ठामन्त्रेण पुनस्तोयं कलात्मकम्।  
@@ -5262,8 +4903,6 @@ June 1935.
  सूत्रामवल्लरी कल्पलतारूपा ध्येया। तण्डुलानि तत्फलपुष्परूपाणि। वासः छायारूपम्॥३९॥
 
 सकलीकृत्येति। आवाहनादिन्यासान्तं कृत्वा। विश्रमपूजां च कृत्वाऽनुज्ञामादाय उपचारान् कल्पयेदित्यर्थः। गुरुरिति शङ्खपूरणवदर्घ्यादिक्रमो द्रव्यदेवतासम्बन्धश्चैकात्म्यलक्षणः सूचितः॥४०- ५३॥
-
-
 
 अर्घ्यपाद्याचमनमधुपर्काचमनान्यपि।  
 गन्धादयो निवेद्यान्ता उपचारा दश क्रमात्॥४३॥
@@ -5302,8 +4941,6 @@ June 1935.
 साराङ्गारे विनिक्षिप्तैर्मन्त्री नीचैः प्रधूपयेत्॥५४॥
 
  मन्त्री नीचैरिति धूपे गन्त्रविशेषं सूचयन् गन्धादिष्वपि सूचयति। ओं लं ह्रीं ओं नमः पराय गन्धतन्मात्रप्रकृत्यानन्दात्मकं गन्धं कल्पयामि नम
-
-
 
 गोसर्पिषा वा तैलेन वर्त्त्या च लघुगर्भया।  
 दीपित सुरभिं शुद्धं दीपमुच्चैः प्रदीपयेत्॥५५॥
@@ -5349,8 +4986,6 @@ June 1935.
 यद्भक्तिलेशसंपर्कात् परमानन्दसंभवः।  
 तस्मै ते चरणाब्जाय पाद्यं शुद्धाय कल्पये॥नमः।
 
-
-
 सुशितेन सुशुद्धेन पायसेन सुसर्पिषा।  
 सितोपदंशकदलीदध्याद्यैश्च निवेदयेत्॥५६॥
 
@@ -5390,8 +5025,6 @@ June 1935.
 तुरीयवनसंभूतं नानागुणमनोहरम्।  
 आनन्दसौरभं पुष्पं गृह्यतामिदमुत्तमम्॥ नमः।
 
-
-
 वर्णेर्मनुप्रपुटितैः क्रमशः शतार्धे-  
 र्न्यासक्रमादभियजेत् सकलासु मन्त्रौ।  
 गन्धादिभिः प्रथमतो मनुदेवतासु  
@@ -5410,8 +5043,6 @@ June 1935.
 
  अयमत्र प्रयोगक्रमः। ओं नमः। अहं नमः। विश्वयोन्यै नमः। इति परापुष्पाञ्जलिः। महासत्तायै नमः। महाचिते नमः। महानन्दायै नमः। महेश्वर्यै नमः। अं नमः। वामायै ज्येष्ठायै रौद्र्यै अम्बिकायै नमः। इति मूर्धवामदक्षिणभागमूलाधारेषु पूजयेत्। हं नमः।इच्छायै नमः। क्रियायै नमः। ज्ञानायै नमः। शान्तायै नम इत्यपि तथेति पश्यन्तीपुष्पाञ्जलिः। शून्यात्मने स्पर्शात्मने नादात्मने ध्वन्यात्मने बिन्द्वात्मने शक्त्यात्मने बीजात्मने अक्षरात्मने नमः। इति मध्यमापुष्पाञ्जलिः। ततो मनुप्रपुटितैर्वर्णैः वर्णस्थाने वैखरीपुष्पाञ्जलिः। ओं नमः। मं नमः। उं नमः। इत्येकाक्षरमन्त्रैः मूर्धादिषु। अहं हरिहर नमः। हर नमः। हरि नमः। अहं नमः। इति द्व्यक्षरैरपि तेष्वेव। ओं नमो ब्रह्मणे विष्णवे शिवाय नमः। ओं नमः शिवाय ओं नमो विष्णवे ओं नमो ब्रह्मणे इति षड़क्षरैरपि तेष्वेव। ओं ह्रीं हंसः सोहं स्वाहा। ओं नमो नारायणाय। हौं नमः शिवाय नमः। ओं ह्रीं हौं नमः
 शिवाय। ओं नमो नारायणाय। ओं ह्रीं हंसः सोहं स्वाहा। इत्यपि तेष्वेव। ओं तत्सत् नमो ब्रह्मणे तत्सत् नमः। ओं नमो भगवते बासुदेवाय ह्रीं ह्रौं नमः शिवाय। हंसः सोहं नमः। ओं ह्रीं ह्रौं नमः शिवाय
-
-
 
 हारस्फटिककलायाञ्जनपिङ्गलवह्निरोचिषो ललनाः।  
 अभयवरोद्यतहस्ताः प्रधानतनवोऽङ्गदेवताः कथिताः॥५९॥
@@ -5446,8 +5077,6 @@ June 1935.
 
  इति निवेद्य सुरभिसंहारग्रासप्राणादिसुरभिसंहारमुद्राः प्रदर्श्य मूलं किञ्चित् जपेत्॥५९॥६०॥६१॥६२॥६३॥६४॥
 
-
-
 कृते निवेद्ये च ततो मण्डलं परितः क्रमात्।  
 मङ्गलाऽङ्कुरपात्राणि स्थापनीयानि मन्त्रिणा॥६५॥
 
@@ -5472,8 +5101,6 @@ June 1935.
  गुरुजनोपदेशेनेति। गुप्तोक्तविधिना महागणपतिपटलोक्तविधिना वा त्रिकोणत्रयं मन्त्रविशेषानुसारेण लिखेदित्यर्थः। मूलाधारेऽपि त्रिकोणमध्याग्नौ योगविष्टरं कल्पनीयमित्याह—प्राणाग्नीति॥६७॥
 
  उभयत्रापि वागीश्वरौ कल्पनीयावित्याह—तत्रेति। सदृतुमतीं बाह्ये वागीश्वरीं अतीन्द्रियाभां मूलाधार इति विशेषः। चशब्दः शक्तिमत्समुच्चयार्थः। मण्यादिजमग्निं पात्रेण आनीयाऽस्त्रेण क्रव्यादांशं परित्यज्य।
-
-
 
 अग्निं प्रज्वलितं वन्दे जातवेदं हुताशनम्।  
 सुवर्णवर्णममलं समिद्धं विश्वतोमुखम्॥७०॥
@@ -5509,8 +5136,6 @@ June 1935.
 मन्त्रौ प्रविन्यसेद् भूयो वह्नेरङ्गानि वै क्रमात्॥८०॥
 
  वीक्षणादिभिः संस्कृत्य। तमग्निं नासिकाद्वारेण मूलाधारं नीत्वा शिवशक्त्यात्मककुण्डलिन्या एकीकृत्य। तत्र प्राणाग्निहोत्रविधिना सकृत् वर्णहोमं विधाय।तमग्निं प्रणवेन बैन्दवाग्निना एकीकृत्य अमृतमास्राव्य। तमग्निं रं अग्निचैतन्यायनमः इति पात्राग्नौ संस्थाप्य। तारेणाऽभिमन्त्र्य। सुरभ्या अमृतीकृत्य। अस्त्रेणसंरक्ष्य। कवचेनाऽवगुण्ठ्य। रं अग्नये नम इत्यभ्यर्च्य। कुण्डोपरि त्रिः प्रणवेनपरिभ्राम्य। तारेण शिवबीजबुद्ध्या देव्या योनौ क्षिपेदित्यर्थः॥६८-७९॥
-
-
 
 सहस्रार्चिः स्वस्तिपूर्ण उत्तिष्ठपुरुषस्तथा।  
 धूमव्यापी सप्तजिह्वो धनुर्द्धर इतीरितः॥८१॥
@@ -5548,8 +5173,6 @@ June 1935.
 
  मनुना तेन मन्त्रीति प्रणवशक्तियोगः सूचितः। समृद्धिमन्त्रोक्ता ऋष्यादयः।
 
-
-
 अभिमतवरशक्तिस्वस्तिकाभीतिहस्तं  
 नमत कनकमालालङ्कृतांसं कृशानुम्॥८९॥
 
@@ -5569,8 +5192,6 @@ June 1935.
  व्याहृत्यनन्तरमिति प्रणवानन्तर्यस्याप्युपलक्षणम्। गर्भाधान पुंसवन सीमन्तोन्नयन जातकर्म नामकरणोपनिष्क्रमणान्नप्राशनचौलोपनयनवेदव्रतचतुष्टयसमावर्तविवाहाग्न्याधानादिकाः। तत्तत्कर्म-समाप्तये चतुर्गृहीतेन पूर्णाहुतीस्तिष्ठन्वौ
 
 वडन्तेन मूलेन जुहुयात्। ततः पितरौ संपूज्य आत्महृदये स्थापयित्वा समिधो
-
-
 
 जिह्वाङ्गमूर्तिमनुभिरेकाहुत्या हुनेत्ततः।  
 जिह्वायां मध्यसंस्थायां मन्त्री ज्वालावलीतनौ॥९३॥
@@ -5597,8 +5218,6 @@ June 1935.
  सुधीरित्यग्निदेवतैक्यं जानन्नित्यर्थः। आत्मनि देवतैक्यं भावयन् मूलेनैकादश जुहुयादिति। नाडीसन्धानमेतत्। अथ जिह्वाङ्गादिमन्त्रैरपि हुत्वा। कुण्डान्तरेष्वग्निं पूर्वादितो विहृत्य सावरणां देवतां तेषु संपूज्य मूलेनाऽष्टनवपञ्चविंशतिसंख्यं हुत्वा आज्येन साध्यचरुणा वा पुनः साध्येन मनुना हुनेदित्यादि सकलकुण्डेषु समानम्॥९५॥९६॥
 
  द्रव्यैर्विधानप्रोक्तैरित्यत्रायं द्रव्यपरिमाणविधिः। कर्षमानं घृतम्। शुक्तिमात्रं पयः। पञ्चगव्यमधूनि तत्समानानि। दुग्धान्नमक्षमात्रम्। दधि प्रसृतम्। मुष्टिर्लाजं। पृथुकसक्तवः। गुलशर्करे पलार्धे। ग्रासार्धाश्चरवः। इक्षुः पर्वान्तः। पत्रपुष्पापूपकदलीनारङ्गफलानि एकैकशः। मातुलुङ्गं चतुःखण्डम्। पनसं दशखण्डम्। नालिकेरम् अष्टखण्डम्। बिल्वं त्रिखण्डम्। त्रिखण्डं कपित्थम्। उर्वारुकं त्रिखण्डम्। फलान्यन्यानि अखण्डानि। समिधो दशाङ्गलाः। दूर्वा-
-
-
 
 भूर्भुवःस्वर्भूर्भुवःस्वःपूर्वं स्वाहान्तमेव च।  
 अग्नये च पृथिव्यै च महते च समन्वितम्॥९९॥
@@ -5628,8 +5247,6 @@ June 1935.
 
   समिद्धोमेऽग्निं स्थितं ध्यायेत्। शयानमाज्यहोमेषु। निषणं शेषहोमेषु।  
 अग्नेरास्ये होतव्यम्। स्वर्णसिन्धूरबालार्ककुङ्कुमक्षौद्रवर्णोऽग्निः शुभदः। भेरीवारिद-हस्तिध्वनिःशुभदः। नागचम्पकपुन्नागपाटलीयूथिकापद्मेन्दोवरकह्लारसर्पिर्गुल्गुलुगन्धोऽग्निः शुभदः। प्रदक्षिणाग्निर्निष्कम्पः शुभः। कुन्देन्दुधवलो धूमः शुभदः। कृष्णवर्णोऽग्निर्यजमानं नाशयेत्। श्वेतो वायसस्वरो राष्ट्रं नाशयेत्। झर्झरस्वरः सर्वनाशकः। पूतिगन्धो होतृदुःखप्रदः। छिन्नावृत्तशिखा धनक्षयं मृत्युं च कुर्यात्। शुकपारावतनिभोऽग्निः तुरङ्गगो हानिकृत्। एवंविधेषु दोषेषु मूलेनाज्येन प्रायश्चित्ताय पञ्चविंशतिवारं जुहुयात्॥९७- १०६॥
-
-
 
 नक्षत्राणां सराशीनां सवाराणां यथाक्रमम्।  
 दद्याद्बलिं गन्धपुष्पधूपदीपकमादरात्॥१०७॥
@@ -5665,8 +5282,6 @@ June 1935.
 
  पुनर्निवेद्यमुद्धृत्येति। पानीयं समर्प्य यथाविधानं जलं दत्त्वा गण्डूषदन्तधावनादिकं समर्प्य। अर्घ्याद्यष्टकं दत्त्वा प्रसरपुष्पाञ्जलिं विधाय दर्पणादिकंतैर्मन्त्रैः प्रयच्छेत्।
 
-
-
 वाससी च पुनरङ्गुलिभूषां होमकृत् सुमुखजप्रवरेषु।  
 ईश्वरार्पणमिति प्रति दत्त्वा वर्धितो द्विजमुखेरितवाग्भिः॥११७॥
 
@@ -5688,8 +5303,6 @@ June 1935.
 
  इति राजोपचारान् दत्त्वा। पुष्पाञ्जलिं विधाय। प्रसन्नार्घ्यं दत्त्वा। मूलमन्त्रं शक्त्यनुसारेण जप्त्वा। समर्प्य। प्रदक्षिणस्तुतिनमस्कारादिकं विधाय। देवतानुज्ञया तूत्तरतः कर्करीं स्थापयेत्। ईशानकोणे पूर्वसञ्चिते विकिरे हेमवस्त्रादिसंयुक्तां तोयपूर्णां कर्करीं स्थाप्य। तस्यां सिंहस्थां खङ्गखेटकधारिणीं घोररूपां पश्चिमास्यामस्त्रदेवतां संपूज्य। चलासनेन प्रदक्षिणं नालमुक्तवारिणा सार्धं नयन् रक्षतेति लोकपालानां देवानां श्रावयित्वाऽस्त्रमन्त्रेण यथापूर्वं स्थापयेत्। पूजयेच्च। पुनश्चर्वर्थं स्थापितेऽग्नौ पुनश्चरुं पाचयेत्। पात्रमस्त्रेण प्रक्षाल्य। मूलजप्तानां तण्डूलानां प्रसृतिपञ्चदशकं तत्राऽस्त्रेण निक्षिप्य। प्रक्षाल्य। गव्यपयसा संपूर्य। कवचेन तन्मुखं पिधाय। प्राङ्मुखो मूलमन्त्रं जपन् पचेत्। मूलेन तप्ताऽभिघारं दत्त्वा कवचेनाऽवतार्याऽस्त्रजप्ते कुशास्तीर्णे मण्डले संस्थाप्य। त्रिधा विभज्य। देवायाऽग्नये च भागद्वयं दत्त्वा। परं शिष्येण सार्धं भुक्ताऽऽचाम्याऽऽचान्तं शिष्यमानीय। सकलीकृत्य। तालप्रमाणं हृज्जप्तं दन्तकाष्ठं तस्मै दद्यात्। स तेन दन्तान् संशोध्य। प्रक्षाल्य। विसृज्याऽऽचम्याऽऽगच्छेत्। तं शिखाबन्धाभिरक्षितं कृत्वा। वेद्यां दर्भास्तरे तेन सार्धं शयीतेत्यधिवासः।
 
-
-
 अथ पटुरवमुख्यवाद्यघोषैर्द्विजमुखनिष्पतदाशिषां रवेण।  
 सुनियतमपि सुस्थितं च शिष्यं कलशजलैरभिषेचयेद् यथावत्॥११९॥
 
@@ -5706,8 +5319,6 @@ June 1935.
  अभिषेककाले मातृका मनसा अनुलोमेन जप्तव्येत्याह—यथा पुरेति। मन्त्रिवर इति। मातृकानन्तरं मूलं त्रिरुच्चरन् अभिषेचयेत्। तदनन्तरं न्यासादिकं च कुर्यादिति उक्तम्॥१२०॥
 
  त्रिशो गुरुरिति। शिष्यहृत्पुण्डरीकस्यां देवतां संपूज्य। तस्य दक्षिणकर्णे
-
-
 
 गुरुणा समनुगृहीतं मन्त्रं सद्यो जपेच्छतावृत्त्या।  
 गुरुदेवतामनूनामैक्यं सम्भावयन् धिया शिष्यः॥१२२॥
@@ -5732,8 +5343,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
 षष्ठः पटलः।
 
-
-
 **सप्तमः पटलः।**
 
 अथाऽक्षराणामधिदेवतायाः समस्तबोधस्थितिदीपिकायाः।  
@@ -5756,8 +5365,6 @@ June 1935.
  प्रणवानन्तर्यमप्याह— जपादेरिति। प्रणववाग्भवशक्त्यनन्तरं नमोऽन्ता वर्णाजपादौ प्रयोक्तव्या इत्यर्थः ॥१॥
 
  सुमतिभिरिति विधिपदयोगः सूचितः। उक्तं चेति देवीपदयोगः सूचितः। मातृका सरस्वतीदेवता। क्रमेण कथिता न्यस्या इति। ह्रामादियोग उक्तः। भुवनेश्वर्यादि योगे चायं विशेषः ॥२॥
-
-
 
 पञ्चाशद्वर्णभेदैर्विहितवदनदोःपादयुक्कुक्षिवक्षो–  
 देशां भास्वत्कपर्दाकलितशशिकलामिन्दुकुन्दावदाताम्।  
@@ -5787,8 +5394,6 @@ June 1935.
 
  व्योमाविःसेति। हकारसकाराबुद्धृतौ। प्रतिदलं प्रारब्धेति। पारायणाक्षराणां शक्त्यनुसारेण लेखनं सूचितम्। ऋग्वेदादिगतवर्गप्रश्नादीनां च सप्तमार्णःठकारः। विषध्वंसे गारुड्योगः। गदध्वंसे नारसिंहयोगः। मृत्युञ्जये
 
-
-
 प्रविधाय पद्ममथ पीठमथो कथितक्रमेण विधिनाऽभियजेत्।  
 नवभिश्च शक्तिभिरमुत्र सहावरणैः समर्चयतु वर्णतनुम् ॥८॥
 
@@ -5815,8 +5420,6 @@ June 1935.
 
  चाऽष्टवर्गानिति चशब्देन व्यापिन्यादिशक्तिभिश्चतुर्थमावरणं सूचितम्। व्यापिनीपालिनी वाचिनीक्लेदिनीधारिणी मालिनी हंसिनी शान्तिन्यः शक्तयः। ताश्च श्वेताः अक्षवलयपुस्तकधारिण्यः। ब्रह्माणी कनकवर्णा अक्षसूत्रकमण्डलुवरदाभयधरा।शूलपरशुदुन्दुभिकपालधरा माहेश्वरी। अङ्कुशदण्डखट्वाङ्गपाशधरा कौमारी।चक्रघण्टाकपालशङ्खधरा वैष्णवी। मुसलखड़्गखेटकाभयधरा वाराही। अङ्कुशतोमरपाशकुलिशधरा इन्द्राणी।शूलकृपाणनृशिरःकपालधरा चामुण्डा रक्ता। अक्षस्रक् बीजापूर कपाल पङ्कजधरा महालक्ष्मीः। शतमखमुखाद्यानिति– शतमखमुखाः लं रं टं क्षं वं यं सं हं ह्रीं अमिति बीजानि। तान्यादौ येषां लोकपालानां ते तथोक्ताः। वर्णान्जापीति वर्णजापी वेत्यर्थः ॥१०॥११॥१२॥
 
-
-
 कमलोद्भवौषधिरसेन वचया पयसा च पक्वमथ सर्पिरपि।  
 अयुताभिजप्तममुना दिनशी लिहतां कविर्भवति वत्सरतः ॥१४॥
 
@@ -5837,8 +5440,6 @@ June 1935.
  अथवा भानुवारे मध्यप्रागादि दिक्षु नवकलशान् मुक्तामाणिक्यवैडूर्यंगोमेदवच्चविद्रुमपुष्परागमरकतनीलरत्नयुतान् संपूज्याऽभिषिञ्चेत्। तत्र मध्ये सर्वैःबीजैःदेवीं संपूज्य। दलकुम्भेषु ह्नौः इत्यादिभिः व्यापिन्याद्याः पूज्याः। शान्तिन्या दुर्गाबीजेन पूजा त्रिलोहमुद्रिका नवरत्नमुद्रिका वा कलितसङ्गता कार्या। कलशजपपूजा होममहिता ॥१५॥
 
  वह्निसोमप्रोतानिति। अग्नीषोमात्मकानित्यर्थः। मन्त्रीति। ओं ह्रीं
-
-
 
 विन्यासैरथ सजपैर्हुतार्चनाद्यै–  
 र्ध्यानेन प्रभजति भारतींनरो यः।  
@@ -5863,8 +5464,6 @@ June 1935.
 
  श्रीकण्ठादियुतन्यासेऽम्बरीष ऋषिः। अनुष्टुप् छन्दः। अर्धनारीश्वरो देवता। दक्षिणामूर्तिगायत्र्यौऋषिच्छन्दसीइत्यन्ये। षड़दीर्घयुजा हसाऽङ्गानि। अथवा
 
-
-
 कलाः कला नादभवा वदन्त्यजाः कचादिवर्णानुभवाष्टतादिकान्।  
 पयादिकान्माक्षरजाश्च बिन्दुजाः क्रमादनन्तावधिकास्तु षादिकान् ॥१८॥
 
@@ -5888,8 +5487,6 @@ June 1935.
  कलाः कला इति कलान्यासे वर्णयोगक्रममाह। प्रसङ्गाच्चान्यत् ॥१८॥
 
  मन्त्रीति। कलान्यासे पाशाङ्कुशत्र्यक्षरादियोगः सूचितः ॥१९॥
-
-
 
 मन्त्रोद्धारविधानेन वर्णव्यत्यासक्लृप्तिरुद्दिष्टा।  
 आभिः श्रीकण्ठादिप्रोक्तैर्वा नामभिर्वा विशेषज्ञैः ॥२०॥
@@ -5921,8 +5518,6 @@ June 1935.
 
  पञ्चविभेदभिन्नयेति।पञ्चाशत् सप्त त्रि द्व्येकमन्त्रसम्बद्धवेत्यर्थः। सशक्ति–
 
-
-
 पूर्वंमहागणपतिं स्वविधानसिद्ध–  
 रूपञ्च साङ्गमपि सावरणं विचिन्त्य।  
 बीजेन संयुतमृचा प्रजपेत माला–  
@@ -5949,8 +5544,6 @@ June 1935.
 
  मन्त्री स्वरादिवर्गेशानिति। भगवत्पदस्य तत्तदधिपतिपदस्य च योग उक्तः। स्वरानुक्त्वा सोममण्डलाय नम इति मूर्धादिगलपर्यन्तं व्याप्य। स्पर्शानुक्त्वासूर्यमण्डलाय नम इति गलादिनाभिपर्यन्तं व्याप्य। यादिकमुक्त्वाअग्निमण्डलाय नम इति नाभ्यादिपादान्तं न्यसेदिति मण्डलत्रयन्यासः। आदिठान्तमुक्त्वासोममण्डलाय नम इति मूर्धादिहृदयान्तं न्यसित्वा। डादिक्षान्तमुक्त्वाऽग्निमण्डलायेति हृदादिपादान्तं न्यसेदिति अग्नीषोमन्यासः।आदिक्षान्तमुक्त्वा
 
-
-
 तारश्च शक्तिरजपा परमात्मवीजं  
 वह्नेः प्रिया च गदिता इति पञ्च मन्त्राः।  
 एभिस्तृतीयलिपिभिः कथितः प्रपञ्च–  
@@ -5973,8 +5566,6 @@ June 1935.
  ब्रह्मा स्यादृषिरस्य प्रपञ्चयागमन्त्रस्य। प्राणाग्निहोत्रस्य तु स्वयंभूरित्यर्थः। परमान्विता चेति। स्वयमन्विता या गायत्री प्राणाग्निहोत्रस्येत्यर्थः I स्वयंज्योतिः प्राणाग्निहोत्रदेवता ॥३०॥३१॥
 
  शिरश्च सोऽहमिति। प्राणाग्निहोत्रे हंसस्य शिरस्त्वमुक्तम्। अथ च शिखेति। प्राणाग्निहोत्रे सोऽहमित्यस्य शिखात्वं सूचितम्। स्वयं च वर्मेति। शक्तेः ध्येयत्वं
-
-
 
 अत्राऽकारहकाराद्यावाद्यौ शान्तान्तिकौमनू।  
 हकारश्चाऽप्यकारश्च बिन्दुः सर्गीच साक्षरः ॥३३॥
@@ -6008,8 +5599,6 @@ June 1935.
 
  वाक्यार्थमाह—तदिति। सकलः परिपूर्णः चित्प्रकाशश्च तं रूपयतीति सकलचित्प्रकाशरूपो मन्त्रः ॥४०॥
 
-
-
 हमिति प्रकाशितोऽहं स इति च सकलप्रकाशनिर्वाणम्।  
 अतुलमनुष्णमशीतं यत्तदितीत्थंप्रकाशितेह शिखा ॥४१॥
 
@@ -6039,11 +5628,7 @@ June 1935.
 
  पञ्चाशन्मन्त्रैः प्रपञ्चयागक्रममाह— मातृकान्यासवदिति। सप्तग्रहमण्डलत्रयादिहोमं सूचयति। अयमत्र क्रियाक्रमः। प्राणाग्निहोत्रप्रपञ्चयागयोः ऋष्यादिकं विन्यस्य। शक्तिरूपमात्मानं ध्यात्वा। अष्टाक्षरद्वयमष्टवारमावर्त्त्य। हयरों ययरों रयरों वयरों लयरों इति मूलाधारत्रिकोणशक्तिः बिन्दुमध्यप्राग्वारुणसौम्य दक्षिणदिग्गतकुण्डेष्वग्नीनुज्ज्वात्य। क्षाद्यकारान्तमुच्चरन्। पादादिमस्तकान्तं व्याप्य। स्वशरीरात्मकं सर्वं जगत् परमामृतेनैकीकृत्य। ओं ह्रीं
 
-
-
 क्षं परंज्योतिषि जुहोमि सोऽहं हंसः स्वाहा। ओं ह्रींलं परंज्योतिषि जुहोमि सोऽहं हंसः स्वाहा। ओं ह्रीं हं परंज्योतिषि जुहोमि सोऽहं हंसः स्वाहा। ओं ह्रींसं परंज्योतिषि जुहोमि सोऽहं हंसः स्वाहा। ओं ह्रीं षं परंज्योतिषि जुहोमि सोऽहं हंसः स्वाहा। इति मध्यादिकुण्डेषु हुत्वा। शाद्यकारान्तमेवं हुत्वा अकारमवशेषयेत्। पुनः प्रणवशक्तिबीजाभ्यां शरीरमुत्पाद्य। शुद्धन्यासेन सकलीकृत्य।क्षाद्यकारान्तं व्यापकत्वेन पूर्ववदमृतीकृत्य। पुनः क्षं शं मं नं णं ञं ङं अः एंऊं आकाशशब्दतन्मात्र श्रोत्र वागात्म शान्त्यतीत नादतुरीयातीतानुग्रह सदाशिवेशानवासुदेवान् परंज्योतिषीत्यादि मध्ये।ओं ह्रीं लं वं भं धं ढं झंघं अं ऌं उंवायुस्पर्शतन्मात्र स्पर्शपाणिप्रकृति शान्तिबिन्दुतुरीयतिरोधानेश्वरतत्पुरुष संकर्षणान्परंज्योतिषीत्यादि पूर्वकुण्डे। ओं ह्रीं हं लं बं दं डं जं गं औंऌंईंतेजोरूपतन्मात्र चक्षुःपादाहंकार विद्यामकार सुषुप्ति संहाररुद्राघोर प्रद्युम्नान् परंज्योतिषीत्यादि पश्चिमे। ओंह्रीं सं रं फं थं ठं छं खं ओं ॠं इंअब्रसतन्मात्र रसनपायु मनःप्रतिष्ठोकार स्वप्नस्थिति विष्णुवामदेवानिरुद्धान् परंज्योतिषीत्यादि सौम्ये। ओं ह्रीं षं यं पं तं टं चं कं ऐं ऋं आंपृथिवीगन्धतन्मात्रघ्राणोपस्थः बुद्धिः निवृत्त्यकारः जाग्रत्सृष्टिः ब्रह्मसद्योजातनारायणान् परंज्यतिषीत्यादि दक्षिणे कुण्डे हुनेत्। पुनः लरियों वरियों ररियों यरियों हरियोमित्यग्नीनेकीकृत्य। पुनः पूर्ववदुत्पाद्य। सबिन्दुकेन सकलीकृत्य। पूर्ववदन्तीकृत्य। ओं ह्रीं ञं परंज्योतिषीत्यादिना हुत्वा। पूर्ववदुत्पाद्य। सविसर्गेण सकलीकृत्याऽमृतीकृत्य। ओं ह्रीं क्षं परंज्योतिषीत्यारभ्याऽकारान्तं हुत्वा। पूर्ववदुत्पाद्य। सबिन्दुसविसर्गेण सकलीक्कृत्य।नवग्रहन्यासमन्त्रैः विधिवत् हुत्वा। पूर्ववदुत्पाद्य। सकलन्यासेन सकलीकृत्याऽमृतीकृत्याऽग्न्यादिमण्डलत्रयन्यासमन्त्रैः विधिवत् हुत्वोत्पाद्य। सकेशवादिन्यासेन सकलीकृत्याऽमृतीकृत्वाऽग्नीषोमन्यासमन्त्राभ्यां हुत्वोत्पाद्य। श्रीकण्ठादिन्यासेन सकलीकृत्याऽमृतीकृत्य हंसन्यासमन्त्रेण हुत्वोत्पाद्य। सशक्तिः कमला मारन्यासेन सकलीकृत्य प्रपञ्चयागं कुर्यात्। ओं ह्रीं अं परंज्योतिषि जुहोमि हंसः सोऽहं स्वाहेत्यादि क्षकारान्तं वर्णस्थानेषु न्यस्य हुत्वा। पूर्ववदुत्पाद्य। समार कमला शक्तिन्यासेन सकलीकृत्य। सप्तग्रहन्यासवत् हुत्वा। पूर्ववदुत्पाद्य। सशक्तिन्यासेन सकलीकृत्य। सोमादिमण्डलत्रयन्यासवत् हुत्वा। पूर्ववत् समुत्पाद्य सकमलान्यासेन सकलीकृत्याऽग्नीषोमन्यासवत् हुत्वोत्पाद्य। समारन्यासेन सकलीकृत्य।हंसन्यासवत् हुत्वा। प्रणवेन स्वात्मस्थो भवेदिति प्रपञ्चयागः ॥४७॥
-
-
 
 पञ्चज्ञानेन्द्रियाबद्धाः सर्वास्तु लिपयो मताः।  
 ताभिरारात्तनं सर्वं तत्तदिन्द्रियगोचरम् ॥४८॥
@@ -6067,8 +5652,6 @@ June 1935.
 
  एवं प्राणाग्निहोत्रप्रपञ्चयागाभ्यां शुद्धस्य सकलीकरणन्यासेन आत्मसात्कृत-
 
-
-
 देवताविग्रहस्यैव जपादौ अधिकार इत्याह— एवं वर्णेति। तेजःस्वरूपी स्वयं भूत्वेति सकलीकरणन्यासेन चतुर्नवति मन्त्रात्मकः देवताविग्रहो भूत्वेत्यर्थः।
 
  अयं न्यासक्रमः। प्रपञ्चयागानन्तरम् अपरिच्छिन्ने परतेजसि प्रणवशक्तिभ्यां व्यापयन् अपरं जीवात्मकं तेजः सञ्चिन्त्य ताभ्यामेव सुषुम्नां कारणशक्तिकवलीकृतजीवां स्मृत्वा तदग्रे ताभ्यामेव सहस्त्रदलं कारणात्मकं पद्मं प्रतिपाद्य तस्मात् ताभ्यामेव वर्णात्मकममृतपिण्डं सुषुम्नाकवलनक्रमेण उत्पाद्य विसर्गान्वितमातृकान्यासेन सकलीकृत्य मूलाधार हृद् भ्रूमध्येषु दश द्वादश षोड़शप्रणवजपेन तावद्दलानि पद्मानि सञ्चिन्त्य दशदलेषु व्यापककला न्यसित्वा कर्णिकायां मं वह्निमण्डलाय दशधर्मकलात्मने नमः इत्यादि मन्त्रं जातवेदस इति ऋचं च जपित्वा तत्रैव व्यापककलानामग्नेश्च प्राणप्रतिष्ठां कुर्यात्। पुनः द्वादशदलेषु स्पर्शकला न्यसित्वा कर्णिकायां अं सूर्यमण्डलायेत्यादि मन्त्रं तत्सवितुरिति ऋचं च जपित्वा तत्रैव स्पर्शकलानां सूर्यस्य च प्राणप्रतिष्ठां विधाय। षोड़शदलेषु स्वरकला न्यसित्वा कर्णिकायां उं सोममण्डलायेति मन्त्रं त्र्यम्वकमिति ऋचं च जपित्वा तत्रैव स्वरकलानां सोमस्य च प्राणप्रतिष्ठां कुर्यात्।
@@ -6076,8 +5659,6 @@ June 1935.
  पुनः पञ्चाशत्कला न्यसेत्। कं सृष्ट्यै नमः इत्यादि दशकं पादयोर्न्यस्य लं पृथिवीगन्धतन्मात्रेत्यादि मन्त्रेण पादयोर्व्यापकत्वेन न्यसेत्। अं ब्रह्मणे नमः लं पृथिव्यै नमः इत्यादिमन्त्रैःषष्ठपटलोक्तैर्वा यथास्थानं न्यसेत्। एवमेवोकारादि कलान्यासेष्वपि द्विधा पञ्चकन्यासो द्रष्टव्यः। पुनः पादयोः हंसः शुचिषदिति ऋचं च जपित्वा तत्रैवाऽकारकलानां ब्रह्मणश्च प्राणप्रतिष्ठां कुर्यात्। पुनः टं जरायैनम इत्याद्या उकारकला हस्तयोः न्यस्य अप्पञ्चकं विन्यस्य हस्तयोः प्रतद्विष्णुरिति ऋचं जपित्वा तत्रैव उकारकलानां विष्णोश्च प्राणप्रतिष्ठां कुर्यात्। पुनः पं तीक्ष्णायैनम इत्यादि मकारकला मूलाण्डगुह्यनाभिहृद्गलपार्श्वद्वयपृष्ठककुत्सु न्यसित्वा तेजःपञ्चकं विन्यस्य हृदये त्र्यम्वकमिति ऋचं विन्यस्य तत्रैव मकारकलानां रुद्रस्य च प्राणप्रतिष्ठां कुर्यात्। पुनः षं पोतायै नम इत्यादि बिन्दुकला गलास्यनेत्रादिषु न्यसित्वा वायुपञ्चकं विन्यस्य भ्रूमध्ये तत्सवितुरिति ऋचं न्यसित्वा तत्रैव बिन्दुकलानामीश्वरस्य च प्राणप्रतिष्ठां कुर्यात्। पुनः अं निवृत्त्यै नमः इत्यादिनादकला विसर्गाद्यकारान्तस्थानेषु विन्यस्याऽऽकाशपञ्चकं न्यसित्वा शिरसि विष्णुर्योनिमिति ऋचं च विन्यस्य तत्रनादकलानां सदाशिवस्य च प्राणप्रतिष्ठां कुर्यात्।
 
  पुनर्जीवकलाः सकला मातृकान्यासवत् विन्यस्य हृदये जीवकलानां प्राणप्रतिष्ठां
-
-
 
 शुद्धश्चाऽपि सबिन्दुकस्त्वथ कलायुक्केशवाद्यैर्युतः  
 श्रीकण्ठादियुतश्च शक्तिकमलामारैश्च चैकैकशः।  
@@ -6110,8 +5691,6 @@ June 1935.
  प्रोक्तक्रमेणेति। षष्ठपटलोक्तक्रमेणेत्यर्थः। मन्त्रितम इति बीजेन च ऋचा मूलहोमं सूचयति ॥५५॥५६॥
 
  लक्षसंख्यं मन्त्रीति। सिद्धिकामस्य श्रीबीजयोगं मुक्तिकामस्य प्रणवपुटितत्वं
-
-
 
 एकद्विकत्रिकचतुष्कशताभिवृत्त्या  
 तां तां समीक्ष्य विकृतिं प्रजुहोतुमन्त्री।  
@@ -6153,8 +5732,6 @@ June 1935.
 
  सद्रव्यैरिति। तत्तत्कर्मयोग्यो व्यञ्जनयोग उक्तः ॥६४॥६५॥
 
-
-
 शालीतण्डुलचूर्णकैस्त्रिमधुरासिक्तैः स्वसाध्याकृतिं  
 कृत्वाऽष्टोर्ध्वशताख्यमस्य शितधीः प्राणान् प्रतिष्ठाप्य च।  
 
@@ -6190,8 +5767,6 @@ June 1935.
 
 —————
 
-
-
 अष्टमः पटलः
 
 अथ हितविधये विदुषां वक्ष्ये प्राणाग्निहोत्रविहितविधिम्।  
@@ -6215,8 +5790,6 @@ June 1935.
  जठरं मध्य इति अशनकाले कुण्डानां स्थानमुक्तम्। नाभेरध इति योगकाले नाभिर्लिङ्गं तस्य ह्यङ्गुलाध इत्यर्थः। ज्वलद्वह्निभिरिति। हयरोमित्यादिमन्त्रैः अग्निज्वलनमुक्तम्। अनारतमिति अनेन प्राणेन क्रियादिशक्त्यात्मना आरतमित्यर्थः। समो जीवस्य अस्य च परस्य स्थानत्वात् समतलमित्युक्तम्। कुण्डनामकथनमशनकाले मन्त्रेषु तद्योगार्थम् ॥२॥३॥
 
  पञ्चाशद्वर्णैः पञ्चकुण्डेषु क्रमेण होमं दर्शयति–चिद्रूपादिति। अर्कत्वे हेतुः सकलप्रमेति। तत्र हेतुः मूलप्रकृत्यात्मनः इति। अमृतमयीमानन्दमयीमित्यर्थः। ज्योतीरुचा स्पृष्टामित्यन्वयः। कुण्डलीस्पर्शाभिव्यक्तामित्यर्थः। धिया जुहुयादित्यन्वयः। त्विति तृतीयहोमार्थमकारावशेषं सूचयति। कल्पान्ताग्निः मूलाधारस्थोऽग्निः ॥४॥
-
-
 
 क्षाद्यास्ते सप्तवर्गा मरकतपशुमेदाह्वनीलाभ्रवर्णा  
 भूयः स्युर्विद्रुमाभाः कुलिशसमरुचः पुष्यवैदूर्यभासः।  
@@ -6253,8 +5826,6 @@ June 1935.
 
  व्योम्नेत्यादिना भूतमन्त्रोद्धारः कृतः। अखिलमविरतमिति पदाभ्यां
 
-
-
 सतारशक्त्याद्यजपान्तमेवं हुत्वा महात्माऽथ शतार्धसंख्यम्।  
 विन्यस्य तावच्च तथैव सूत्रमात्राकृतिर्नित्यतनुश्च भूयात् ॥१२॥
 
@@ -6279,8 +5850,6 @@ June 1935.
 
  अयमत्र होमक्रमः। स्वेष्टदेवस्य सकलीकरणं विधाय। तं ध्यात्वा ओं श्रद्धायां प्राणे निविष्टोऽमृतं जुहोमि इत्यारभ्य। श्रद्धायां ब्रह्मणि मात्मानिविष्टोऽमृतं जुहोमि इत्यन्तैर्मन्त्रैः दक्षिणोत्तरपश्चिमपूर्वमध्यकुण्डेषु अग्नीन् उज्ज्वाल्य सप्रणवे लिपिपद्मे हविरादाय। अन्नंप्राणमन्नमपानमाहुः। अन्नं मृत्युं तमु जीवातुमाहुः।
 
-
-
 ससुप्रभाभिः सहितं शुचयः पावका इति।  
 अग्निं विहृत्य चेत्येवमात्मानमुपचर्यं च ॥१६॥
 
@@ -6297,8 +5866,6 @@ June 1935.
 त्वमापः आपोज्योतीरसोऽमृतं ब्रह्म भूर्भुवःस्वरोम्॥
 
 अमृतोपस्तरणमसि इत्याचम्य। चितिः स्रुक्। चित्तमाज्यम्। वाग् वेदिः। आधीतं वर्हिः। केतो अग्निः। विज्ञातमग्निः। वाकपतिर्होता। मन उपवक्ता। प्राणो हविः। सामाध्वर्युः। वाचस्पते विधे नामन् विधेम ते नामविधे त्वमस्माकं नाम। वाचस्पतिः सोमं पिबत्वास्मा नृम्णं ध्यात् स्वाहेति जपित्वा। ओं गार्हपत्ये प्राणे हिरण्यवर्णाः शुचयः पावकाः अग्निं विहृत्य आत्मानमुपचर्योर्ध्वं गच्छतु स्वाहा। श्रद्धायां प्राणे निविष्टोऽमृतं जुहोमि। शिवोमाविशाप्रदाहाय प्राणात्मने नारायणाय मह्यं मह्यं स्वाहेति दक्षिणाग्नौ हुत्वा। ओमन्वाहार्येअपाने गगनवर्णाः शुचयः पावकाः अग्निं विहृत्यात्मानमुपचर्याऽधो गच्छतु स्वाहा। श्रद्धायामपाने निविष्टोऽमृतं जुहोमि। शिवोमाविशाप्रदाहायाऽपानात्मने नारायणाय मह्यं मह्यं स्वाहेति उत्तरे हुत्वा। ओमाहवनीये व्याने रक्तवर्णाः शुचयः पावकाः अग्निं विहृत्यात्मानमुपचर्य तिर्यग् गच्छतु स्वाहा। श्रद्धायां व्याने निविष्टोऽमृतं जुहोमि। शिवोमाविशाप्रदाहाय व्यानात्मने नारायणाय मह्यं मह्यं स्वाहा इति पश्चिमे हुत्वा। ओं सभ्ये उदाने कृष्णवर्णाः शुचयः पावकाः अग्निं विहृत्यात्मान-मुपचर्योर्ध्वाधस्तिर्यग गच्छतु स्वाहा। श्रद्धयामुदाने निविष्टोऽमृतं जुहोमि। शिवोमाविशाप्रदाहाय उदानात्मने नारायणाय मह्यं मह्यं स्वाहा इति पूर्वे हुत्वा। ओं आवसथीये समाने सुप्रभावर्णाः शुचयः पावकाः अग्निं विहृत्यात्मानमुपचर्य
-
-
 
 मन्त्रंसर्वमनुक्रम्य जिह्वाः संस्मृत्य सर्वशः।  
 बहुरूपां तु सङ्कल्प्यपञ्चानलशिखायुताम् ॥१९॥
@@ -6327,8 +5894,6 @@ June 1935.
  अथ प्रणवेन अमृतमास्रावयेदित्याह— आरभ्येत्यादिना ॥१४॥१५॥१६॥१७॥१८॥१९॥२०॥२१॥
 
  मातृकयापि अमृतं स्रावणीयमित्याह— सञ्चिन्त्येति। ततः श्रद्धायां प्राणे
-
-
 
 सायं प्रातरनेन होमविधिना भोज्यानि नित्यं भजन्  
 प्राणी न प्रमदोदरं प्रविशति प्राणाग्निहोत्रीपुनः ॥२३॥
@@ -6361,8 +5926,6 @@ June 1935.
  सरस्वतीदैवत्यां लिपिमभिधाय सरस्वतीदैवत्यंमन्त्रान्तरमाह— मध्ये वद्यक्षरयोरिति ॥२७॥
 
  अङ्गानि षट् क्रमान्मन्त्रीति। वद हृदयाय नमः। वद शिरसे स्वाहा। वाक् शिखायै वषट्। वादिनि कवचाय हुम्। स्वाहा नेत्रत्रयाय वौषट्। समस्तेनास्त्रम् इत्यङ्गेषु मन्त्रयोगः सूचितः। ऐं बीजम्। स्वाहा शक्तिः। अत्र
-
-
 
 अमलकमलसंस्था लेखनीपुस्तकोद्यत्–  
 करयुगलसरोजा कुन्दमन्दारगौरी।  
@@ -6402,8 +5965,6 @@ June 1935.
 
  न्यासान्वितं निशितधीरिति बालया सह न्यसेत् जपेदप्पानमपि तथैव
 
-
-
 आद्यन्तप्रणवगशक्तिमध्यसंस्था  
 वाग्भूयो भवति सरस्वती च ङेन्ता।  
 नत्यन्तो मनुरयमीशसंख्यवर्णः  
@@ -6438,8 +5999,6 @@ June 1935.
  हंसारूढ़ा वाणीति वाग्भवे हंसयोगः उक्तः। विद्यावीणेति। विद्यापुस्तकम्। \[‘भसितहरहासेन्दु’ इत्यपि पाठः।\] संयतेन्द्रियो मन्त्रीति बालायोगः उक्तः ॥४१॥४२॥४३॥४४॥
 
  मन्त्री त्वेनां जपन्निति। दुरितमोक्षे नृसिंहस्य लक्ष्म्यास्तद्बीजस्य यशसेऽज–
-
-
 
 इति मातृकाविभेदान् प्रजपन्मन्त्रद्वयञ्च मन्त्रितमः।  
 प्रजपेदेनां स्तुतिमपि दिनशो वाग्देव्यनुग्रहाय बुधः ॥४६॥
@@ -6481,8 +6040,6 @@ June 1935.
 
  मन्त्रद्वयं चेति। मन्त्रान्तरेष्वपि सारस्वतेषु स्तोत्रविनियोगार्थः। मन्त्रितम इति प्रतिश्लोकं वाग्भवयोगः सूचितः। वाक्सूत्रादिजपो वा। बुध इति
 
-
-
 त्वच्चरणसरसि जन्मस्थितिमहितधियां न लिप्यते दोषः।  
 भगवति भक्तिमतस्त्वयि परमां परमेश्वरि प्रसीद मम ॥५८॥
 
@@ -6499,8 +6056,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे
 
 अष्टमः पटलः।
-
-
 
 **नवमः पटलः।**
 
@@ -6524,8 +6079,6 @@ June 1935.
 
  सरमार्धचन्द्रैरिति। सकाररूपिणी शक्तिर्यस्मिन् हकारे शिवे रमते स ह–
 
-
-
 अन्यद्द्युशीतकरपावकमन्वमन्तै–  
 र्बीजैरमभिरुदिता त्रिपुरेति विद्या ॥३॥
 
@@ -6548,8 +6101,6 @@ June 1935.
 
  नाभेरथाचरणमिति। पीठमूर्तिन्यासावाहनादि कराङ्गुलिन्यास व्यापकलिपिश्रीकण्ठादिन्यासानन्तरमित्यर्थः। तत्र पीठन्यासे आधारशक्तिमूलप्रकृत्यनन्त पृथिव्यमृतार्णव रत्नद्वीप रत्नमण्डप कल्पकतरु श्वेतच्छत्राणि हृदि विन्यस्य। धर्मादिकं वरदान्तं दक्षिणकर्णांसपार्श्वकटिपादेषु। अधर्मादिकं वामकर्णादिषु। इच्छा ज्ञाना क्रिया कामा कामिनी कामदायिनी रतिप्रियानन्दामनोन्मन्थोनव शक्तयः। नवशक्तिन्यासानन्तरं नवयोनिचक्रासनाय नमःइति व्याप्य नवयोनिन्यासमाचरेत्। मूलबीजैः श्रोत्रद्वयचिवुकेषु प्रथमः पर्यायः। शङ्खद्वयास्येषु द्वितीयः। दृग्द्वयघ्राणेषु तृतीयः। अंसद्वयहृत्सु चतुर्थः। कूर्परद्वयकुक्षिषु पञ्चमः। जानुद्वयान्धुषु षष्ठः। पादद्वयगुह्येषु सप्तमः। पार्श्वद्वयहृत्सु अष्टमः। स्तनद्वयकण्ठेषु नवम इति। पुनर्द्वादशशक्तिन्यासः। ऐं वामायै नमः। ज्येष्ठायै नमः। रौद्र्यै नमः।अम्बिकायै नमः। हृत्त्रिकोणरेखात्रये मध्ये च। इच्छायैज्ञानायैक्रियायै कुलिकायै।
 
-
-
 वाग्भवेन पुनरङ्गुलीष्वथो विन्यसेच्च पुनरुक्तमार्गतः।  
 अङ्गषट्कममुना विधाय तद्देवतां विशदधीर्विचिन्तयेत् ॥७॥
 
@@ -6558,8 +6109,6 @@ June 1935.
  तत आवाहनादिकम्। ततः करन्यासाङ्गुलिन्यासौ। तत्राऽङ्गुलिन्यासे मध्यबीजस्थहकारेण विनपुंसकह्रस्वयुतैः ईशानादिमूर्तिभिः सहितेरङ्गुष्ठादिषु न्यसेत्। ह्रींईशानमनोभवाङ्गुष्ठाभ्यां नमः। ह्रैंतत्पुरुषमकरध्वजतर्जनीभ्यां नमः। ह्रुंअघोरकुमारकन्दर्पमध्यमाभ्यां नमः।ह्रिंवामदेवमन्मथानामिकाभ्यां नमः। ह्रं सद्योजातकामदेवकनिष्ठिकाभ्यां नमः। पुनः षड़ङ्गेन सवाग्भवमध्यदीर्घेणाऽङ्गुलिं न्यसित्वा। बाणपञ्चकं न्यसेत्। द्रां शोषणबाणाङ्गुष्ठाभ्यां नमः। एवमेव द्रींमोहन। क्लींसन्दीपन।ब्लूं तापन। सः मादनबाणकनिष्ठिकाभ्यां नमः । इति बाणान् न्यसित्वा। मूलेन देहे त्रिशो व्याप्य।मूलपुटितमातृकां न्यसित्वा।श्रीकण्ठादिन्यासं कुर्यात् ॥५॥६॥
 
  वाग्भवेन पुनरिति। मूलबीजमध्यमबीजदीर्घानन्तरमित्यर्थः। हस्रैंहसकलाह्रांह्स्रैंहृदयाय नमः।हसकलह्रींहसकलह्रींह्स्रैंशिरसे स्वाहा। ह्स्रौःहसकलह्रूंह्स्रैंनेत्रत्रयायवौषट्। ह्स्रैंहसकलह्रैंह्स्रैं कवचाय हुं। हसकलह्रींहसकलहौंह्स्रैंनेत्रत्रयाय वौषट्। ह्स्रौःहसकलह्रःह्स्रैं अस्त्राय फट्। पुनरुक्तिः पुनर्वचनम्। चशब्देन करयोः
-
-
 
 आताम्रार्कायुताभां कलितशशिकलारञ्जितप्तां त्रिनेत्रां  
 देवींपूर्णेन्दुवक्त्रां विधृतजपवटीपुस्तकाभीत्यभीष्टाम्।  
@@ -6576,8 +6125,6 @@ June 1935.
 
  शिरो ललाटभ्रू कर्णद्वयाक्षिद्वय नासाद्वय गण्डद्वयौष्ठद्वय दन्तद्वयास्येषु स्वरान् गल कण्ठ पार्श्वद्वय स्तनद्वय पादबाहुद्वय कोर्परद्वय पाणितलतत्पृष्ठनाभिगुह्योरुद्वयजानुद्वय जङ्घाद्वय स्फिक्पादतलद्वय पादाङ्गुष्ठद्वयेषु कादिरान्तं काञ्ची ग्रैवेय–
 
-
-
 दीक्षां प्राप्य विशिष्टलक्षणयुजः सत्सम्प्रदायाद् गुरो–  
 र्लब्ध्वा मन्त्रममुंजपेत् सुनियतस्तत्त्वार्धलक्षावधि।  
 स्वाद्वक्तैश्च नवैःपलाशकुसुमैः सम्यक् समिद्धेऽनले  
@@ -6593,8 +6140,6 @@ June 1935.
  सत्सम्प्रदायादिति। वैदिकादित्यर्थः। परप्रकाशानन्दनाथश्रीपादुकां पूजयामि। तथा परविमर्शानन्द परमशिवानन्द कामेश्वर्यम्बाश्रीपादुकाम्। मोक्षानन्दकामानन्दामृतानन्दा दिव्यौघः। ईशः तत्पुरुषः अघोरः वामः सदानन्दः सिद्धौघः। उत्तमोद्भवानन्द परमानन्द सर्वज्ञानन्द शाक्तानन्दस्वच्छन्दानन्द सिद्धानन्द गोविन्दानन्द शङ्करानन्दाः स्वगुरुत्त्रयं च मानवौघः। इत्ययं वैदिकसम्प्रदायक्रमः। सुनियत इति। ब्रह्मचर्यादिमानित्यर्थः। तत्त्वानि तदर्धं च तत्त्वार्धं षट्त्रिंशदित्यर्थः। अनेन शुद्धादिचतुष्कूठान्तजपसंख्योक्ता। तत्त्वलक्षावधीति पञ्चकूटस्य तत्त्वार्धलक्षावधीति षट्कूटादेरित्यवगन्तव्यम्। चतुष्कूटान्तस्य पालाशैर्होमः। परमश्वारिजेः। अपिशब्देन सर्वत्रापि शतांशो होमः सूचितः। अथवा भानुसहस्रकमित्यनेनैव सर्वत्र शतांशहोमः सूचितः। भान्तीति भानवः षट्त्रिंशत्तत्त्वानि चतुर्विंशतितत्त्वानि द्वादशादित्याश्च तत्सहस्रकमिति हि तस्यार्थः। मन्त्रीति काम्यहोमेषुतत्तत्कामनोचितबीजयोगः॥९॥
 
  प्राणायामैः पवित्रीकृततनुरिति। वेधकप्राणायामसूचनम्। मूलेन
-
-
 
 बद्ध्वाऽसौ योनिमुद्रामपि निजगुदलिङ्गान्तरस्यां प्रदीप्तां  
 भूयो द्रव्यैस्तु शुद्धैररुणरुचिभिरित्यारभेद्वाह्यपूजाम्॥१०॥
@@ -6614,8 +6159,6 @@ June 1935.
  वामादिशक्तिसहितमित्यत्र वामादिशक्तिसाहित्यं नवयानिचक्रस्येत्यवगन्तव्यम्।विधिवन्नवयोनिचक्रमिति। मध्ययोनौ मूलस्य अवशिष्टयोनिषु गायत्र्यक्षरत्रयस्य दलेषु मातृभैरवबीजानां बहिर्मातृकावेष्टनस्य चतुरस्रे मध्यबीजलेखनस्य च सूचनं कृतम्। यन्त्रजीवादिकं तु सर्वत्र समानम्। त्रिपुरादेवी च विद्महे कामेश्वरी च धीमहि। तन्नः क्लिन्ना प्रचोदयादिति गायत्री॥११॥
 
  नवयोनिरचनाप्रकारमाह— वह्नेरिति। वाग्भवादित्वमुपलक्षणं कामराज–
-
-
 
 वामा ज्येष्ठा रौद्रिका साम्विकेच्छा  
 ज्ञानाभिख्या सक्रिया कुब्जिकाह्वा।  
@@ -6654,8 +6197,6 @@ June 1935.
 
  समस्तसाधनमभिधाय फलविशेषकामस्य समस्तव्यस्तसाधनं वदन् वाग्भव–
 
-
-
 काव्यैर्नानार्थवृत्तैर्भुवनमखिलमापूरयेत् स स्वकीयै–  
 र्मारार्त्या विह्वलाभिः पुनरयमनिशं सेव्यते सुन्दरीभिः॥२१॥
 
@@ -6691,8 +6232,6 @@ June 1935.
  बीजं मन्त्री रतिपतीति। मन्त्रस्य कामराजादित्वमुक्तम्। होमोऽश्वारिजैर्दशांशः॥२२॥
 
  मध्यबीजस्य क्षोभकत्वमाह— ससुरासुरेति। अन्त्यं मनुमिति। अन्त्यबीजादिकं मनुमित्यर्थः। ह्स्रः हस्रां हसकलहरक्लीं ह्रीं हरसरयोः इत्येवं क्रमेण
-
-
 
 पलाशपुष्पैर्मधुरत्रयाक्तैर्होमं विदध्यादयुतावधिं यः।  
 सरस्वतीमन्दिरमाशु भूयात् सौभाग्यलक्ष्म्योश्च स मन्त्रजापी॥२९॥
@@ -6732,8 +6271,6 @@ June 1935.
 
  पूर्वसूचितान् योगानाह— मूलाधारादिति। शिखिपुरपुटेषु द्विरावृत्या मन्त्रन्यासं बहिरष्टदले केशरस्थाने स्वरयोगं दलेषु अष्टवर्गयोगं भूपुरे मध्यमबीजयोगं बीजविशेषयोगं चाह— मन्त्री ध्यायेदिति॥३६॥
 
-
-
 वह्नेर्बिम्बद्वयपरिवृताधारसंस्थं समुद्यद्–  
 बालार्काभं स्वरगणसमावेष्टितं वाग्भवाख्यम्।  
 वाण्या स्वीयाद्वदनकुहरात् सन्ततं निःसरन्त्या  
@@ -6769,8 +6306,6 @@ June 1935.
 
  मध्यमबीजस्य स्थानभेदेन योगान्तरमाह— गुह्यस्थितमित्यादिना॥४१॥
 
-
-
 अन्त्यंबीजमथेन्दुकुन्दविशदं संचिन्त्य चित्ताम्बुजे  
 तद्भूतां धृतपुस्तकाक्षवलयां देवींमुहुस्तन्मुखात्।  
 उद्यन्तं निखिलाक्षरं निजमुखेनाऽनारतस्रोतसा  
@@ -6793,8 +6328,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
 नवमः पटलः।  
 ————
-
-
 
 **दशमः पटलः।**
 
@@ -6822,8 +6355,6 @@ June 1935.
 
  जातिविभिन्नेनेति। हृदयाय नम इत्यादियुक्तेनेत्यर्थः। अपिना सर्वज्ञादियोग उक्तः। हं बीजम्। ईं शक्तिः॥४॥
 
-
-
 अग्नीन्दुयोगविकृता लिपयो हि सृष्टा–  
 स्ताभिर्विलोमपठिताभिरिदं शरीरम्।  
 भूतात्मकं त्वगसृगादियुतं समस्तं  
@@ -6839,8 +6370,6 @@ June 1935.
  प्रकारान्तरेण भूतशुद्धिमाह— अन्त्यावुष्मस्विति। मूलाधार लिङ्गमूल नाभिहृदय गल तालु भ्रूमध्य ललाट मस्तकेषु द्विचतुश्चतुःपञ्चपञ्चपञ्चपञ्चपञ्चषोड़शदलानि पद्मानि अष्टप्रकृतीश्वराधिष्ठितानि स्मृत्वा तत्संहारेण स्वयं परो भवेदिति श्लोकार्थः।
 
  तत्र मूलाधारपद्मे क्षलौ दलत्वेन स्मृत्वा। तद्द्वलद्वयं पृथिवीविकारात्मकं क्षं स्वाहा लं स्वाहेति कर्णिकागतपृथिव्यां विलाप्य। साऽपि लिङ्गमूलस्थहसषशचतुर्दलपद्मकर्णिकागताप्सु संहार्या इत्याह— अन्त्यावुष्मस्विति। तत्रापि दलात्मकाब्विकारान् पूर्ववत् अप्सु हुत्वा ता अपि नाभिस्थवादिचतुर्दलपद्मकर्णिकास्थतेजसि संहार्या इत्याह— अमून् वादिष्विति। तदपि तेजः सविकारं हृद्गते पञ्चदले पवर्गात्मके वायुरूपे संहार्यमित्याह— मलिपिषु तानिति।
-
-
 
 मूलाधारात् स्फुरिततड़िदाभा प्रभा सूक्ष्मरूपोद्–  
 गच्छन्त्यामस्तकमणुतरा तेजसां मूलभूता।  
@@ -6858,8 +6387,6 @@ June 1935.
 
  ततो दिव्यदेहसृष्टिक्रममाह— मूलाधारादिति। अधिष्ठानमेव मूलाधारः। प्रभा कुण्डलिनीमस्तकम्। मस्तकमपि परब्रह्मैव। तदेव ब्रह्म संविद्रूपिण्या
 
-
-
 **संहृत्य चोत्पाद्य शरीरमेवं  
 तेजोमयं व्याप्तसमस्तलोकम्।  
 सङ्कल्प्यशक्त्यात्मकमात्मरूपं  
@@ -6872,8 +6399,6 @@ June 1935.
  अयं न्यासक्रमः। पीठन्यासमूर्तिन्यासानन्तरम् आवाहनाद्यवगुण्ठनान्तं विधाय। मातृकां विन्यस्य। मूलेन करन्यासं कृत्वा। मूलतदक्षरमूलतदङ्गहृल्लेखादिकम् अङ्गुलिषु विन्यस्य। मूलेन देहे त्रिशो व्याप्य। मूलपुटितां मातृकां विन्यस्य। शैवतत्त्वन्यास शक्तिश्रीसन्नतिरित्यादिन्यासबुभुक्षादिन्यास श्रीकण्ठादिन्यासमूलतः मूर्धहृदयनाभिषु सृष्ट्यादिन्यास शाक्ततत्त्वन्यासाहोरात्रादित्रिलिङ्गाजपापरमात्मप्रणवन्यासान् विधाय।अष्टमात्रया शक्त्याष्टाक्षरदशाङ्गन्यासवत् दशाङ्गन्यासाङ्गर्ष्यादिकन्यासान् कृत्वा। त्रिपुरोक्तक्रमेण भूषणन्यासमाचरेत्।
 
  अथ आवरणन्यासः। ह्रों ह्रेंह्रुंह्रिंह्रंइति बीजसहिता हृल्लेखाद्या मूर्धादिषु भूतस्थानेषु ऊर्ध्वादिवक्त्रेषु च विन्यस्य। गायत्र्यादित्रयं ललाटवामदक्षिणगण्डेषु न्यसित्वा। ब्रह्मादित्रयं सव्यकर्णास्यवामकर्णेषु न्यसित्वा। गलसव्यस्तनवामस्तनेषु गायत्र्याद्या अपि विन्यस्य। सव्यांस हृदय वामांसेषु ब्रह्मादिकं न्यसेत्। पुनर्नाभिवामदक्षिणोरुषु गायत्र्याद्यान् न्यसित्वा। वामस्फिगाधारदक्षिणस्फिक्षु ब्रह्मादिकं न्यसेत्। हां हीं हूं इति गायत्र्यादीनां बीजानि। हं हिं हुं इति ब्रह्मादीनाम्। पुनरलिकादिषु मातृभैरवन्यासः सबीजःनः। पुनर्ध्यात्वा संपूज्य पुनर्जपित्वा संयोगान् वक्ष्यमाणान् न्यासानाचरेत्। गुणितयोगषड़ध्वयोगलवादियुतराशि नक्षत्र तिथि करणन्यासयोग कुण्डलिनीहंसहरिहरादिचतुःप्रणवप्राणापानयोः अहोरात्रमाससंवत्सरदेवाः सश्रुतयःस्वरा इत्यादियोग चतुर्दशयोगाजपापरमात्मप्रणवयोगन्धासान् विधायाऽणुयोगेन जप्त्वा बाह्यपूजां कुर्यादिति न्यासक्रमः॥९॥
-
-
 
 उद्यद्भास्वत्समाभां विजितनवजवामिन्दुखण्डावनद्ध–  
 द्योतन्मौलिं त्रिनेत्रां विविधमणिलसत्कुण्डलां पद्मगाञ्च।  
@@ -6908,8 +6433,6 @@ June 1935.
 
  वर्णवीतमिति। उत्तरश्लोके वक्ष्यमाणप्रकारेण वीतमित्यर्थः। आवीतं केसरेष्विति। मध्ये समायैर्मध्ये मायासहितैः हरिहरार्णैः हरिहर इत्येतैरर्णैः केसरेषु वेष्टितमित्यर्थः। ह रि ईं ह र ईं इत्येवं लेखनप्रकारः।मध्येसमायैस्तैरिति। मध्ये दलमध्ये समायैरीकारसहितैः तैर्हरिहरार्णैः आवीत–
 
-
-
 शक्त्याविःसाध्यमिन्द्रानिलनिर्ऋतिगबीजाभिबद्धं पुरोऽग्ने–  
 स्तत्कोणोल्लासिमायं हरिहरविलसद्गण्डमेभिः समायैः।  
 वर्णैश्चावेष्टितं तत्त्रिगुणितमिति विख्यातमेतत् सुयन्त्रं  
@@ -6937,8 +6460,6 @@ June 1935.
  ब्रह्माण्याद्या विधिवदिति। भैरवयोगः सूचितः। मन्त्रितमैरिति। आं क्षां अं क्षम्इत्यादिबीजयोगः सूचितः॥१९॥
 
  नवशक्तीराह— सजयेति। ह्रीं श्रीं भुवनेश्वर्यासनाय नम इति पीठमन्त्रः।
-
-
 
 एकं वा कर्णिकायां सुमतिरथ विनिःक्षिप्य कुम्भं यथावत्  
 संपूर्याऽऽवाहयेत्त्रिष्वपि विधिषु पुनर्वक्ष्यमाणक्रमेण॥२१॥
@@ -6982,8 +6503,6 @@ June 1935.
 
  पञ्चगव्ययोजनप्रकारमाह कलशान्तरार्थं— गोमूत्रेति। सर्वाणि वेति
 
-
-
 गायत्रींशतमखजे निशाचरोत्थे  
 सावित्रींपवनगते सरस्वतीञ्च।  
 ब्रह्माणं हुतभुजि वारुणे च विष्णुं  
@@ -7023,8 +6542,6 @@ June 1935.
 
  निजकरदत्तार्घ्यामृत इति। स्वस्य करे रश्मिभिः सर्वनाड़ीद्वारा निःसृताभिरर्घ्यामृतविभक्ताभिः आदित्यमण्डलपर्यन्तं व्याप्ताभिरादित्याय दत्तानि यान्यर्घ्य–
 
-
-
 भूत्वा शक्तिः स्वयमथ दिनेशेन्दुवैश्वानराणा–  
 मैक्यं कुर्वन् प्रणवमनुना शक्तिबीजेन भूयः।  
 आकृष्याऽन्तर्बहिरपि समाधाय बुद्ध्यैव तेजो  
@@ -7062,8 +6579,6 @@ June 1935.
 
  योगिना बाह्यपूजाःपरित्यज्याऽन्तरेव पूजा कार्येत्याह— युक्तात्मेति। परेण युक्तः संयुक्त एकीभूत आत्माऽन्तःकरणं यस्य स तथोक्तः। स नित्ययोगेन प्रत्यग्–
 
-
-
 प्रत्यब्दसेकाद्भविता शतायुर्मेधेन्दिरावान् रहितश्च रोगैः।  
 मासेषु जन्मस्वभिषेकतः स्यादुर्वीपतिर्मङ्क्षु महापृथिव्याः॥४७॥
 
@@ -7083,8 +6598,6 @@ June 1935.
 ब्रह्मयोगरूपेण। प्रागुक्तविधिना विधीयत इति विधिः क्रम उपकरणजातं च सर्वं तेनाऽर्चयेत् अमृतमयैश्चित्पर्यन्तं व्याप्तैरुपहारैरन्तरेवाऽर्चयेदित्यर्थः॥४४॥४५॥४६॥४७॥४८॥
 
  बहिरर्चनस्य पूर्वमेव विहितत्वेन इहाऽविधेयत्वात् षड्गुणितं संगृह्णाति— शक्तिप्रग्रस्तेति। शक्तिर्मध्यस्था हृल्लेखा तथा प्रग्रस्तसाध्यम्। तस्यां लिखितसाध्यमित्यर्थः। साध्यलेखनमुपलक्षणं साधककर्मलेखनस्यापि। हरशरकलमायाः ह्रीं श्रीं क्लींकाराः तैरावृतं पूर्वोक्तं शक्तिबीजम्। तत्र ह्रींबीजेन पञ्चधाऽऽवृत्तेनैका आवृत्तिः। पुनस्तदन्तराल एव श्रीबीजेन। तथैव तदन्तराले क्लींबीजेन। वह्निगेहद्वन्द्वास्रिप्राप्तमायमिति। षट्कोणस्याऽवशिष्टांशे ईकारलेखनमुक्तम्। प्रतिविवरेति। षट्कोणान्तरालेष्वित्यर्थः। बहिरिति। द्वितीयवर्त्तुलाद्बहिरित्यर्थः। कोणोद्यदिति। कोणशब्देन षट्कोणान्युच्यन्ते। शक्तिश्रीकामाः त्रिलिपयः। दण्डित्वं सबिन्दुत्वम्। दण्डिबीजत्रयमूर्ध्वकोणत्रये। अदण्डिबीजत्रयमधःकोणत्रये। गण्डशब्देन षट्कोणान्तरालषट्कं विवक्षितम्। विलोमार्णावीतमिति। तृतीयवृत्तान्तर्बाह्यभागयोः अनुलोमविलोममातृकावर्णैः वेष्टितमित्यर्थः। विगता विलोमेन गता वर्णा अनुलोमगताश्च वर्णाविलोमार्णाः। कोर्युगं पृथिवीमण्डलद्वयं पुटितं तस्याष्टोदरेषु कोणाष्टकेषु गतनृहरिचिन्ताश्मकं दिक्षु नृसिंहबीजं विदिक्षु चिन्तारत्नमिति विभागः॥४९॥
-
-
 
 वर्तुलं तावता भूयस्तद्बहिश्च तृतीयकम्।  
 मध्यवर्तुलमध्ये तु हृल्लेखाबीजमालिखेत्॥५१॥
@@ -7127,8 +6640,6 @@ June 1935.
 
  अस्य श्लोकस्य व्याख्यानं— षड़ङ्गुलेत्यादि। बहिर्गर्भवर्तुलमिति। गर्भवर्तुलं
 
-
-
 पूर्वोक्तलक्षणोपेतंशुभं दृष्टिमनोहरम्।  
 एवं कृते षड्गुणिते मण्डले सुमनोहरे।  
 प्राग्वत् सङ्कल्प्य कलशमर्चयेत् सुसमाहितः॥६४॥
@@ -7164,8 +6675,6 @@ June 1935.
 
 —————
 
-
-
 एकादशः पटलः।
 
 अथ वक्ष्ये संग्रहतो द्वादशगुणिताख्यमहायन्त्रवरम्।  
@@ -7196,8 +6705,6 @@ June 1935.
  व्याहृत्यावीतशक्तीति। प्रतिलोमसप्तव्याहृतिवेष्टितमध्यशक्तीत्यर्थः। कोणात्तदुर्बीजकमिति। द्वादशकोणानामवशिष्टांशे लिखितदुर्गाबीजम् अन्तर्गतांशे लिखितमायाबीजं चेत्यर्थः। कपोलयोर्गायत्र्यक्षरद्वयं प्रतिलोमतो लेख्यम्। शक्तिवेष्टनाद् बहिराग्नेयेनापि प्रतिलोमेनावीतम् अनुविगतवर्णवेष्टनं पूर्ववत्॥२॥
 
  अस्य पद्यस्य व्याख्या— पूर्वोक्तेति। मन्त्रीति। स्थानशोधनादिमन्त्रज्ञ इत्यर्थः। स्पष्टबिन्दुनिष्ठानामिति। स्पष्टबिन्द्ववयवसंस्थानामित्यर्थः॥३–७॥
-
-
 
 गायत्रीं प्रतिलोमतः प्रविलिखेद्वह्नेःकपोलं बहिर्द्वे  
 द्वे चैव लिपी बहिश्च रचयेद् भूयस्तथा त्रिष्टुभम्।  
@@ -7237,8 +6744,6 @@ June 1935.
 
  हृल्लेखिकाद्याश्चतस्रइति। हृल्लेखा तदाद्याश्चतस्त्रश्चेत्यर्थः॥१०-२६॥
 
-
-
 सुरूपा बहुरूपा च स्कन्दमाताऽच्युतप्रिया।  
 विमला सामला चैव अरुणी वारुणी तथा॥१८॥
 
@@ -7273,8 +6778,6 @@ June 1935.
 
  शक्तेर्विधानमभिधाय तस्या एव स्वायुधबीजपुटिताया विधानं वक्तुमारभते— पाशाङ्कुशेति। चतुरस्रद्वयात्मकमष्टकोणं लिखित्वा कोणाष्टकगतमृजुरेखाद्वयमृजु प्रसारयेत्। यथा रेखाद्वयं मध्ये परस्परलग्नं क्षुद्रदुन्दुभ्याकारं भवति तथा प्रसार्य दुन्दुभिमध्योभयभागयोः वृत्तद्वयं विधाय बहिष्ठवृत्तस्पृष्टदुन्दुभ्यग्ररेखाद्वयादारभ्य अर्गलसमाग्राण्यष्टदलानि विरच्य वृत्तद्वयात् बहिरम्बुजपुटितं घटं च रचयेत्। इति यन्त्रशरीरनिर्माणप्रकारः॥२७॥
 
-
-
 अष्टाशात्तार्गलाविर्हलयवरयुताच्पूर्वपाश्चात्यषट्कं  
 कोष्ठोद्यत्स्वाङ्गसाष्टाक्षरयुगयुगलाष्टाक्षराख्यं बहिश्च।  
 मायोपेतात्मयुग्मस्वरमिलितलसत्केसरं साष्टपत्रं  
@@ -7302,8 +6805,6 @@ June 1935.
  प्राक् प्रत्यगिति व्याख्यानम्॥३०॥३१॥
 
  तथा मन्त्रीति यन्त्रजीवादिसूचनम्॥३२॥३३॥३४॥
-
-
 
 अनुलोमविलोमगतैः प्रवेष्टयेदक्षरैश्च तद्बाह्ये।  
 तदनु घटेन सरोजस्थितेन तद्वक्त्रकेऽम्बुजञ्च लिखेत्॥३४॥
@@ -7338,8 +6839,6 @@ June 1935.
  बीजादिकमिति शक्तिबीजादिकमित्यर्थः॥३७॥३८॥३९॥४०॥
 
  इति कृतकलशोऽयमिति। इत्थं कृतकलशोऽयमाचार्यो येन साधकेन सिच्यते सेच्यते इत्यर्थः। अन्तर्भाविण्यर्थत्वात्। अथवा इति इत्थंकृतः आवाहितः कलशो यस्मिन् घटे स तथोक्तः। कलाः शेरते यस्मिन् परे संविद्रूपे तेजसि स कलशः। इत्थं कृतकलशोऽयं घटः सिच्यते स्वात्मनि येन पुंसा स भवति कविरित्यादिक्रमेण योज्यम्। शिष्यस्यैव ह्यभिषेककर्तृत्वम्। आचार्यस्तु तेन प्रयुक्तः करोति॥४१॥
-
-
 
 जपेच्चतुर्विंशतिलक्षमेवं सुयन्त्रितो मन्त्रवरं यथावत्।  
 हविष्यभोजी परिपूर्णसंख्ये जपे पुनर्होमविधिर्विधेयः॥४२॥
@@ -7376,8 +6875,6 @@ June 1935.
 
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणेएकादशः पटलः।
 
-
-
 प्रसीद प्रपञ्चस्वरूपे प्रधाने प्रकृत्यात्मिके प्राणिनां प्राणसंज्ञे।  
 प्रणोतुं प्रभो प्रारभे प्राञ्जलिस्त्वां प्रकृत्याऽप्रतर्क्ये प्रकामप्रवृत्ते॥४९॥
 
@@ -7411,8 +6908,6 @@ June 1935.
 दहस्यग्निमूर्तिं वहन्त्याहुतिं वा  
 महादेवि तेजस्त्रयं त्वत्त एव॥५५॥
 
-
-
 चतुर्वक्त्रयुक्ता लसद्धंसवाहा  
 रजःसंश्रिता ब्रह्मसंज्ञां दधाना।  
 जगत्सृष्टिकार्या जगन्मातृभूते  
@@ -7445,8 +6940,6 @@ June 1935.
 वसन्तीञ्च वक्षःस्थले कैटभारेः।  
 जगद्वल्लभां सर्वलोकैकनाथां श्रियं  
 तां महादेव्यहं त्वामबैमि॥६२॥
-
-
 
 अजाद्रीङ्गुहाब्जक्षपोत्रीन्द्रकाणां  
 महाभैरवस्यापि चिह्नं वहन्त्यः।  
@@ -7484,8 +6977,6 @@ June 1935.
 
 —————
 
-
-
 **द्वादशः पटलः।**
 
 अथ श्रियो मन्त्रविधिः समासतो जगद्धिताय प्रतिवक्ष्यतेऽधुना।  
@@ -7514,8 +7005,6 @@ June 1935.
  श्रीरपि देवतेति। प्रणवादियोगे तद्देवतानामुपसर्जनत्वं श्रियः सूचितम्। परमात्मस्वरूपिणी श्रीर्देवतेत्यादिप्रकारेण। शं बीजम्। ईं शक्तिः॥३॥४॥
 
  सम्यक् जपेदिति।कामानुसारेण उक्तबीजपुटिततया जप उक्तः।
-
-
 
 अभ्यर्चयन्नहरहः श्रियमादरेण  
 मन्त्री सुशुद्धचरितो रहितो वधूभिः॥५॥
@@ -7550,8 +7039,6 @@ June 1935.
  रमाया नव शक्तय इति। तासु श्रीबीजयोग उक्तः॥८॥
 
  आवाह्य सम्यगिति। मूर्तिं हृदयकमले तदभेदेनेत्यर्थः। यथावदिति। आवाहनादिश्लोकेषु स्त्रीलिङ्गयोगो मुद्रायोगश्चोक्तः। विधिनेति। विश्रमपूजादिकमुक्तम्॥९॥१०॥११॥१२॥
-
-
 
 अनयैव च पूर्वसेवया परितुष्टा कमला प्रसीदति।  
 धनधान्यसमृद्धिसंकुलामचिरादेव च मन्त्रिणे श्रियम्॥१३॥
@@ -7588,8 +7075,6 @@ June 1935.
 
  प्रवरधनार्थिभिरिति। सर्वपुरुषार्थेषु विनियोग उक्तः। ओं श्रीं बीजम्। स्वाहा शक्तिः॥१९॥२०॥
 
-
-
 दक्षोऽस्य स्यादृषिश्छन्दसि सुमतिभिरुक्ता विराड् देवता च  
 श्रीर्देवीपद्मिनीभ्यां हृदयकशिरसी विष्णुपत्न्या शिखा च।  
 मेदोरेफाह्वदार्णैरपि च कमलरूपाक्षरैर्वर्मचाऽस्त्रं  
@@ -7624,8 +7109,6 @@ June 1935.
  श्रियमपीति। बीजविशेषयोगे ध्यानविशेषः सूचितः। अथवा श्रीपतिमपीत्यर्थः। अत्रापि अष्टाक्षरस्य जप्तव्यत्वात्॥२१॥२२॥
 
  वत्सरेण मन्त्रीति। दशांशेन अष्टाक्षरजप उक्तः॥२३॥२४॥
-
-
 
 ताररमामायाः श्रीः कमले कमलालये प्रसीदयुगम्।  
 बीजानि तानि पुनरपि समहालक्ष्म्यैहृदिन्दिरामन्त्रः॥२७॥
@@ -7664,8 +7147,6 @@ June 1935.
 
  महालक्ष्मीमन्त्रस्य श्रींबीजम् ह्रीं शक्तिः। पूर्ववदृष्यादि पीठमूर्तिश्च॥२७॥२८॥२९॥३०॥३१॥३२॥३३॥३४॥३५॥
 
-
-
 श्रीमन्त्रेष्विति गदितेषु भक्तियुक्तः  
 श्रीसूक्तान्यपि च जपेद् यजेद्धुनेच्च।  
 सूक्तेषु प्रथमतरे स्वयं मुनिः स्या–  
@@ -7699,8 +7180,6 @@ June 1935.
  प्राकरणिकश्रीमन्त्रशेषत्वेन श्रीसूक्तं विनियुङ्क्ते— श्रीमन्त्रेष्विति। जपहोमादिकं सकृत् सकृत् कार्यम्। यजेदिति। पुष्पाञ्जलिश्च कार्य इत्यर्थः। स्वप्रधानत्वेनापि जपादिकं सूक्तानां विवक्षंस्तेषामृष्यादिकमाह— सूक्तेष्विति। स्वयं श्रीरित्यर्थः। हिरण्यवर्णामिति ऋग्बीजम्। कांसोऽस्मीति ऋक्शक्तिः। \[सूक्तमिदं पञ्चदशर्चात्मकं श्रौतम्\]॥३६॥३७॥३८॥३९॥४०॥४१॥४२॥
 
  मन्त्रीति। प्रत्यृचं श्रीबीजयोग उक्तः॥४३॥४४॥४५॥
-
-
 
 पद्मा सपद्मवर्णा पद्मस्थार्द्रा च तर्पयन्त्यभिधा।  
 तृप्ता ज्वलन्त्यभिख्या स्वर्णप्राकारसंज्ञका चेति॥४४॥
@@ -7736,8 +7215,6 @@ June 1935.
  अष्टोत्तरशतं मन्त्रीति। सूक्तानां सप्तवारजपान्तेऽन्त्यस्य सूक्तस्य त्रिरावृत्तिर्विवक्षिता। मन्त्रीति।प्राकरणिकमन्त्रैः सकृत् सकृत् प्रथमतो होमश्च सूचितः॥४६॥४७॥
 
  व्यस्तैः समस्तैरित्यत्र व्यस्तैश्चतुर्दशभिः निवेद्यान्तं दत्त्वा श्रीबीजेन चतुर्दशेनैव वा गण्डूषोपचारादिकं समर्प्य समस्तेन सूक्तेन प्रदक्षिणस्तुतिनमस्कारान् विधाय शेषं श्रीबीजेन कृत्वा अन्त्ये चोद्वासयेदित्यर्थः। पद्महोमेऽष्टोत्तरशतजपः।
-
-
 
 चत्वारिंशच्छुक्रवारैर्महाश्रीस्तस्य जायते॥५३॥
 
@@ -7780,8 +7257,6 @@ June 1935.
 
  दिनादौ मन्त्रवित्तम इति। प्राकरणिकमन्त्राणामेकं साङ्गं जानन्नित्यर्थः।
 
-
-
 सुविमलचरितः स्याच्छुद्धमाल्यानुलेपा–  
 भरणवसनदेहो मुख्यगन्धोत्तमाङ्गः।  
 सुविशदनखदन्तः शुद्धधीर्विष्णुभक्तो  
@@ -7807,8 +7282,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
 द्वादशःपटलः।  
 ————
-
-
 
 त्रयोदशः पटलः।
 
@@ -7837,8 +7310,6 @@ June 1935.
  अङ्गानि साधक इति। त्रिबीजसंयुतैः सामान्यपटलोक्तन्यासैरात्मानं देवतारूपत्वेन साधयतीति साधकः इति न्यासाः सूचिताः। मन्त्रविशेषाणामङ्गविशेषं सूचयति— पूर्वतरेति। पूर्वतरवक्ष्यमाणकामबीजाङ्गानामेकं वा कुर्यादित्यर्थः। यद्बीजादिको मन्त्रस्तस्याऽङ्गानि कुर्यादिति भावः। संमोहन ऋषिः। गायत्री छन्दः। त्रिपुटादेवी देवता। श्रींबीजं क्लीं वा। ह्रीं शक्तिः। मूलेन सह पीठमूर्तिपूजा। घृणिनी सूर्याऽऽदित्या प्रभावती इत्येता दूत्यः॥२॥
 
  मन्त्रितमो जपान्त इति। श्रीवृक्षसमिदादिहोमेषु मन्त्रस्य श्रीबीजाद्यादित्व–
-
-
 
 श्रीराजवृक्षसमिधां सजवार्त्तवानां  
 तावत् सहस्रसमितं मधुरैर्जुहोतु॥६॥
@@ -7869,8 +7340,6 @@ June 1935.
  योगमाह— लक्ष्मीगौरीति। कला ईकारःसर्वबीजानुगतः त्रिशक्त्यात्मा। तां वा बिन्दाविति। तां च कलां निविड़तेजोबिन्दौ कृत्वा तं बिन्दुं गगने नादे प्रभारूपे। तच्च गगनं सिन्दूरवर्णं शक्तितत्त्वं स्मृत्वेत्यर्थः। मन्त्रीति। एवं मन्त्रवीर्यात्मतां प्राप्त इत्यर्थः। अथवाऽमुकं वशयेति क्रमोत्क्रममन्त्रमध्ये योजयेदिति मन्त्रीशब्दार्थः॥८॥९॥
 
  क्रियाशक्तिप्रधानायाः श्रियः श्रीबीजप्रधानायाः त्रिपुटायाश्च विधानमभिधाय इच्छाशक्तिप्रधानाया भुवो मन्त्रमाह— सहृदयेति। विनियोगमाह— उत्कृष्टेति। ग्लौःभूबीजयोगे धात्रीदम्। प्रणवयोगे परमसुखदम्। कामयोगे सुतदम्। श्रीबीजयोगे धनधान्यदम्। ह्रींयोगे कीर्तिदमित्यर्थः। षोढ़ाभिन्नेनेति। त्रिचतुस्त्रि–
-
-
 
 मुख्याम्भोजे निविष्टारुणचरणतला श्यामलाङ्गी मनोज्ञा  
 चञ्चच्छाल्यग्रचुम्बच्छुकलसितकरा प्राप्तनीलोत्पला च।  
@@ -7908,8 +7377,6 @@ June 1935.
 
  भृगोस्तु वार इति। प्रयोगो वराहपटलोक्तक्रमेण द्रष्टव्यः। तद्बीजयुतश्च॥१७॥१८॥१९॥
 
-
-
 एनं भजन्निति धराकमलासमृद्धः  
 स्यादत्रसिद्धिमपरत्र परां प्रयाति॥१९॥
 
@@ -7938,8 +7405,6 @@ June 1935.
  वर्म हुं। ऋद्धिःखं। ए ए एव। च इति च एव। तदन्त्यश्छकारः। शिव एकारः। चरमः क्षकारः। अङ्गना स्त्री। सार्घिलवोद्युः हूं। मायाबीजं प्रयोजयेन्मन्त्रीति। कुण्डलिनीबीजरूपमायाप्रयोगः उक्तः। ह्रीमिति कुण्डलिनीबीजम्। मन्त्रविदामित्यस्त्रादौ ह्रीमिति मायाबीजप्रयोग उक्तः॥२२॥२३॥
 
  मन्त्रज्ञ इत्यङ्गेषु मायादीर्घयोग उक्तः। उपरितनमायां विना सप्तभिरक्षरैरङ्गमन्त्रज्ञ इति चार्थः। अथवा सर्वज्ञादियोगः सूचितः। अत्र शक्तिबीजेन सार्धं सामान्यपटलोक्तान्यासाः कर्तव्याः। अर्जुनविराट्त्वरिता ऋष्यादयः। हुं बीजम्। ह्रीं शक्तिः॥२४॥२५॥
-
-
 
 श्यामलतनुमरुणपङ्कजचरणतलां वृषलनागमञ्जीराम्।  
 पर्णांशुकपरिधानां वैश्याहिद्वन्द्वमेखलाकलिताम्॥२६॥
@@ -7978,8 +7443,6 @@ June 1935.
 प्रवरैश्च नृत्यगीतैः समर्चयेद्भक्तिभरावनम्रतनुः॥३७॥
 
  कर्कोटकपद्मौ शूद्रौ। तक्षकमहापद्मौ वैश्यौ। वासुकिशङ्खपालौ नृपौ। अनन्तकुलिकौब्राह्मणौ। शाक्ते पीठे पूजा। दौर्गपटलोक्तः आसनमन्त्रः। मूलेन मूर्तिपूजा॥२६–३७॥
-
-
 
 जपहुतपूजाभेदैरिति सिद्धे मन्त्रजापिनो मन्त्रे।  
 नारीनरनरपतयः कुर्वन्ति सदा नमस्क्रियामस्मै॥३८॥
@@ -8021,8 +7484,6 @@ June 1935.
 
  योनिं कुण्डस्येति। योनिकुण्डं विरच्येत्यर्थः। सर्वार्थसिद्धये मन्त्रीति। तत्तत्प्रयोगानुरूपबीजयोगः किङ्करपञ्चाक्षराभ्यां होमश्चोक्तः॥४५॥४६॥४७॥४८॥४९॥
 
-
-
 हुतसंख्या साहस्रीत्रियुता वाथाऽयुतान्तिकीभवति।  
 यावत्संख्यो होमस्तावज्जप्यश्च मन्त्रिणा मन्त्रः॥५०॥
 
@@ -8059,8 +7520,6 @@ June 1935.
 
  वह्नेर्विडङ्गारः शावः। सूरण चित्रक लोण पिण्डोन्मत्त त्रिकटुक गृहधूमा विषाः।
 
-
-
 वल्मीके चत्वरे वाऽक्षकतरुविवरे वा निदध्यादराति-  
 र्मृत्युं प्राप्नोति भूयादवयवविकलो व्याधितः पातितो वा॥५७॥
 
@@ -8087,8 +7546,6 @@ June 1935.
  खण्डेष्वेकाशीतिष्विति। दशरेखायन्त्रमनुग्रहाख्यम्। इन्दुः ठकारवकारौ सर्वखण्डेषु च समानावेतौ। जूंसः पूर्वं दिक्स्थचतुःपङ्क्तिषु शैखमिति। मध्यसन्निहितदिक्पङ्क्तिषु जूंतदन्तरासु सः ततो वं ततो षडित्येकः प्रकारः। सर्वं सर्वत्रेत्यपरः। शैखं शिखासम्बन्धिः वषडित्यर्थः। विद्वानिति। अक्षराणां श्रीबीजमध्यस्थत्वमुक्तम्॥६०॥
 
  अस्त्रपदाविर्वषडन्तामिति। फडिति परित्यज्य तत्र वषडन्वितामित्यर्थः। मेदोवेष्टितबिम्बमिति। मेदसा वेष्टितं बिम्बं यस्य स तथोक्तः। यन्त्रस्य बहिश्चन्द्रबिम्बं लिखित्वा तद्गतमेदोभिः वकारैःवेष्टयेदित्यर्थः॥६१॥
-
-
 
 श्री सा माया यामा सा श्री सा नो याज्ञे ज्ञेया नो सा।  
 माया लीला लाली यामा याज्ञे लाली लीला ज्ञेया॥६२॥
@@ -8122,8 +7579,6 @@ June 1935.
 
  कुम्भस्थयन्त्रमाह— हुंकार इति। तारे शक्तौ हंकारो लेख्यः। पद्मबाह्ये वृत्तेषु हकाररेफमायावेष्टनं रक्षोपसर्गप्रशमनयोस्तारं दुर्गाबीजेन वेष्टयेत्। श्रीवेष्टितं श्रीकरम्। शक्तिवेष्टितं वश्यकारि॥६६॥६७॥
 
-
-
 स्मरदीर्घेऽधरकाग्न्यों दीर्घेत्यक्ष्वेलदद्रलान्त्यशिवाः।  
 अभितः शक्तिनिरुद्धो द्वादशवर्णोऽयमीरितो मन्त्रः॥६८॥
 
@@ -8156,8 +7611,6 @@ June 1935.
  मन्त्रीति । ह्रामादियोगउक्तोऽङ्गेषु। अङ्गिरात्रिष्टुब्वज्रप्रस्तारिण्य ऋष्याद्याः। ह्रीं बीजम्। ऐं शक्तिः। न्यासः सामान्यपटलोक्तः॥६९॥७०॥७१॥७२॥७३॥७४॥७५॥
 
  मन्त्रिणेति। प्रणवादित्वमुक्तम्। दारिद्र्यास्पर्शे श्रीयोगः। रोगास्पर्शे
-
-
 
 दारिद्र्यरोगदुःखैर्दौर्भाग्यजरापमृत्युदोषैश्च।  
 अस्पृष्टो निरपायो जीवति मन्त्री भजन्निमं मनुजः॥७७॥
@@ -8196,8 +7649,6 @@ June 1935.
 
  मनुविदिति। मदद्रवे इत्यस्मात् पूर्वं साध्यनामयोग उक्त इति॥८४॥८५॥
 
-
-
 तस्मात्ताः शुभमतयो भजन्तु नित्यं  
 जापार्चाहुतसमुपासनाविशेषैः॥८५॥
 
@@ -8223,8 +7674,6 @@ June 1935.
    इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
 त्रयोदशः पटलः।  
 —————
-
-
 
 चतुर्दशः पटलः।
 
@@ -8258,8 +7707,6 @@ June 1935.
 सिंहमन्त्रोऽयमित्येवं संप्रोक्ता पीठकल्पना॥९॥
 
  इच्छोपसर्जनां क्रियाशक्तिमभिधाय ज्ञानोपसर्जनक्रियाशक्तिरूपाया दुर्गाया विधानं वक्तुमारभते— अथेति। दुंबीजम्। ह्रीं शक्तिः।मूलेन मूर्तिकल्पना। ह्रींकारसहिता न्यासाः। कर्णिकायां बीजम्। दलेषु वर्णाष्टकम्। मातृकया च बहिर्वेष्टनम्। भूबिम्बकोणेषु नृसिंहबीजमित्यस्मिन्
-
-
 
 अङ्गैःस्यादावृतिः पूर्वा द्वितीया शक्तिभिः स्मृता।  
 अष्टायुधैस्तृतीया स्याल्लोकपालैश्चतुर्थ्यपि॥१०॥
@@ -8301,8 +7748,6 @@ June 1935.
 
  वनदुर्गायाः दुं बीजम्। स्वाहा शक्तिः। वा तन्मे इत्यक्षराणि कीलानि।
 
-
-
 षड्भिश्चतुर्भिरष्टभिरष्टार्णैः षड्भिरपि च पञ्चार्णैः।  
 जातियुतैश्च विदध्यादङ्गान्यपि षट् क्रमेण विशदमतिः॥२१॥
 
@@ -8338,8 +7783,6 @@ June 1935.
 
  सम्यक् संचिन्त्येत्यग्निभेदेनेत्यर्थः। पूर्वविधानवदथोदितं शेषमिति। शक्तीनां
 
-
-
 पीठे पूर्वप्रोक्ते पूज्याऽङ्गैः शक्तिभिस्तथाऽष्टाभिः।  
 अष्टायुधैश्च मातृभिराशेशैः क्रमश एव दुर्गेयम्॥३०॥
 
@@ -8371,8 +7814,6 @@ June 1935.
  अम्भसि स्थितो मन्त्रीत्यनेनादौ चतुरक्षरयोगः सूचितः। लक्ष्म्यैचेल्लक्ष्मीयोगः कार्यः॥३५॥
 
  ध्यात्वा त्रिशूलेति। प्रतिलोमप्रयोगः। एवमन्यत्रापि निग्रहप्रयोगाः प्रतिलोमेनेति ज्ञातव्याः। दुंबीजप्रधानेनाऽनुलोमेनैव वा क्रूरकर्म कुर्यात्॥३६॥३७॥
-
-
 
 जुहुयाद्रोहिणसमिधामयुतं मन्त्रीपुनः सशुङ्गानाम्।  
 सर्वापदां विमुक्त्यैसर्वसमृद्ध्यै ग्रहादिशान्त्यै च॥३८॥
@@ -8409,8 +7850,6 @@ June 1935.
  शुद्धैः सारैरिध्मैरिति। असनसारोत्थैरिध्मैरित्यर्थः। प्रतिशकलं प्रतिलोमशकलम्। प्रतिजुहुयात्। पृष्ठाग्रं प्रतिलोमेन जुहुयात्। अथवा प्रतिशकलमिध्महोमं कुर्यादित्यर्थः। शकलं शकलं प्रत्येकैकेन प्रतिलोमेन जुहुयादिति वा।निजवाञ्छिताप्तये मन्त्रीति। गायत्र्याजप उक्तः॥४०॥४१॥४२॥४३॥४४॥४५॥
 
  तत्पत्रैर्मन्त्रीति। वायुबीजयोगः उक्तः। संस्तम्भने पृथिवीबीजयोगः॥४६–५६॥
-
-
 
 असितचतुर्दश्यां तद्गात्रैर्जुहुयादरण्यकेऽर्द्धनिशि।  
 त्रिचतुर्दशीप्रयोगादर्वाङ्म्रियते रिपुर्न सन्देहः॥४८॥
@@ -8451,11 +7890,7 @@ June 1935.
 संस्थाप्य समीकृत्य च बलिं हरेत्तत्र तव तन्मन्त्रैः।  
 पुरराष्ट्रग्रामाणां कार्या रक्षैवमेव मन्त्रविदा॥६०॥
 
- 
-
 तत्र तत्र तन्मन्त्रैरिति। विष्णुपञ्जरसिद्धैःशङ्खादिमन्त्रैरित्यर्थः। रक्षैवमेव
-
-
 
 यस्मिन् देशे विहिता रक्षेयं तत्र वर्धते लक्ष्मीः।  
 धनधान्यसमृद्धिः स्याद्रिपुचोराद्याश्च नैव बाधन्ते॥६१॥
@@ -8486,8 +7921,6 @@ June 1935.
  साध्याख्याक्षरदर्भितमिति। मन्त्राक्षराभ्यामेकैकनामाक्षरयोजनं विदर्भः। वश्याकर्षणपौष्टिकेषु विनियोगोऽस्य। सर्वत्रैवमेव प्रयोगः कर्तव्यः। समस्तमन्त्रान्ते समस्तनामयोजनं पल्लवः। मारणेऽस्य विनियोगः। नामान्ते मन्त्रयोजनं योगः। संस्तम्भनोच्चाटनविद्वेषेषु विनियोगः। मन्त्राद्यन्तयोर्नामयोजनं रोधः। संमोहने विनियोगः। मन्त्रनामाक्षरयोरेकैकान्तरितयोः योजनं ग्रथनम्। शान्तिके विनियोगः। नामाद्यन्तयोर्मनुयोजनं संपुटम्। कीलने विनियोगः। विन्यस्यमन्त्रीति। प्रतिकृतौ प्रातिलोम्येन मन्त्रन्यासादिकं सूचयति॥६४॥६५॥
 
  शूलिन्या हुं बीजं स्वाहा शक्तिः॥६६॥
-
-
 
 ऋषिर्दीर्घतपाच्छन्दः ककुब्दुर्गा च देवता।  
 दुर्गा हृद्वरदा शीर्षंशिखा स्याद्विन्ध्यवासिनी॥६७॥
@@ -8524,8 +7957,6 @@ June 1935.
  चतसृभिरिति। जया विजया भद्रा शूलिनीकात्यायन्याख्याभिरित्यर्थः॥७०॥
 
  मन्त्री जपेदिति। प्रणवशक्तिनृसिंहदुर्गाबीजपुटितं जपेदित्यर्थः॥७१–७६॥
-
-
 
 उद्गूर्णैःप्रहरणकैरुदीर्णवेगैः  
 शूलाद्यैर्निजमथ शूलिनींविचिन्त्य।  
@@ -8568,8 +7999,6 @@ June 1935.
 
  शतमष्टपूर्वकं मन्त्रीति। वायुबीजसम्बन्धयोगप्रयोगश्च सूचितः॥८४॥८५॥
 
-
-
 पानीयान्धःपाणिमार्यांप्रसन्नां ध्यात्वा ग्रामं वा पुरं वापि गच्छन्।  
 जप्त्वा मन्त्रं तर्पयित्वा प्रविष्टो मृष्टं भोज्यं प्राप्नुयाद्भृत्यवर्गैः॥८६॥
 
@@ -8590,8 +8019,6 @@ June 1935.
  इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
 चतुर्दशःपटलः।  
 —————
-
-
 
 **पञ्चदशः पटलः।**
 
@@ -8625,8 +8052,6 @@ June 1935.
  समनीव्यापिन्यादिशक्तयः कार्तस्वरादिवर्णाः।अशिशिरमित्याग्ने\[दिते\]यमित्यर्थः। स्तनयोर्भङ्गित्वं निरन्तरत्वम्॥३॥
 
  मन्त्री पुनरिति। अजपान्ते परमात्ममन्त्रयोगः उक्तः॥४॥५॥६॥७॥८॥
-
-
 
 दीप्ता सूक्ष्मा जया भद्रा विभूतिर्विमला तथा।  
 अमोघा विद्युता चैव नवमी सर्वतोमुखी॥८॥
@@ -8663,8 +8088,6 @@ June 1935.
  अर्चयेत् क्रमान्मन्त्रीति। सोम बुध बृहस्पति शुक्राङ्गारक शनैश्चर राहु केतुक्रमं ग्रहमन्त्राणां स्वाक्षरबीजाद्यत्वं चाह॥११॥
 
  प्रतिपूज्य शक्तिमपीति। पूर्वमेव मण्डलाकारस्यादित्यस्यापि पूजनमुक्तम्। प्रतिपूरयेत् सुविमलैरिति। अर्घ्यपूरणक्रमेण पूरणमवगन्तव्यम्। ओजो मानसं बलम्। ज्योतिः शरीरकान्तिः। दीप्तीरश्मयः॥१२॥१३॥१४॥१५॥
-
-
 
 अथ कृतपुष्पाञ्जलिरपि पुनरष्टशतं जपेन्मनुमिमं मन्त्री।  
 यावद्रश्मिषु भानोर्व्याप्नोत्यम्भः सुधामयं तदपि॥१६॥
@@ -8706,8 +8129,6 @@ June 1935.
 
  विष्णुपदमाकाशं हकारः। क्षेत्रज्ञबीजत्वमुपपादयति— यं प्रजपत्यपीति। हं
 
-
-
 अरुणकनकवर्णं पद्मसंस्थञ्च गौरी–  
 हरनियमितचिह्नं सौम्यतानूनपातम्।  
 भवतु भवदभीष्टप्राप्तये पाशटङ्का–  
@@ -8740,8 +8161,6 @@ June 1935.
  योगमाह— इन्दुद्वयेति। इन्दुद्वयं विसर्गस्थबिन्दुद्वयं द्वादशान्तस्थंतस्मादुद्गतेन सुधारसेन पूर्णो यः सार्णःभ्रूमध्यस्थः तेन सम्बद्धो यो बिन्दुः हृत्स्थः तेन सुष्ठु दीपितमादिबीजं हकारो मूलाधारस्थः इति न्यासक्रमोऽप्यनेनैव सूचितः। विसर्गात्मने नम इत्यादयो न्यासमन्त्राः॥२९॥
 
  अनुलोमयोगमाह उक्तेष्वेव स्थानेषु— व्योमानुगेनेति। अमा बिन्दुना।सविनिःसृतेति। सकारान्निःसृतविसर्गशीतरुग्भ्यामित्यर्थः। दहनचन्द्र–
-
-
 
 हंसाण्डाकाररूपं स्रुतपरमसुधं मूर्धचन्द्राट्गलन्तं  
 नीत्वा सौषुम्नमार्गं निशितमतिरथ व्याप्तदेहोपगात्रम्।  
@@ -8779,8 +8198,6 @@ June 1935.
  शितधीरिति। पाणितलद्वयेऽप्यमृतध्यानकुशल इत्यर्थः।मतिमानिति। जीवरक्षा हंसः सोहंपुटमध्यस्थसंस्थापनलक्षणा सूचिता॥३५॥३६॥
 
  प्रयोजनतिलकमन्त्रमाह— अरुणेति॥३७॥
-
-
 
 गुह्यादाचरणतलं कण्ठादागुह्यमागलं कान्तात्।  
 विन्यस्य मन्त्रवर्णान् क्रमेण मन्त्रीकरोतु चाऽङ्गानि॥३८॥
@@ -8820,8 +8237,6 @@ June 1935.
 
  मन्त्री निजवाञ्छिताप्तये इत्यर्घ्येऽपि बीजविशेषः हंसःसोहंयोगावुक्तौ॥४७॥४८॥
 
-
-
 गोरोचनासतिलवैणवराजिरक्त–  
 शीताख्यशालिकरवीरजवाकुशाग्रान्।  
 श्यामाकतण्डुलयुतांश्च यथाप्रलाभं  
@@ -8854,8 +8269,6 @@ June 1935.
  होमे समिन्नियममाह— अर्केति। सर्पिर्हविर्घृतयुता इति। प्रथमं सर्पिः। ततः समित्। ततो घृतम्। ततो हविः। ततो घृतमिति क्रमः। अष्टशतमेव होमसंख्या। आज्याहुत्या त्वादावन्ते च व्याहृतिभिरपि जुहुयात्॥५१॥
 
  सर्वेषां सोमादीनां यथावद्धोमे कृत इति। वरुणवायुमध्यस्थे सूर्यकुण्डेऽग्निजननादिकं कृत्वा सोमादिककुण्डेषु प्रागादिदिक्स्थेषु अग्निं विहृत्य तत्राऽग्नि–
-
-
 
 अमुना विधिनाऽर्चनाहुताद्यैः प्रभजेद्यो दिनशो नरो दिनेशम्।  
 मणिभिः स धनैश्च धान्यवर्गैःपरिपूर्णावसथो भवेच्चिराय॥५३॥
@@ -8897,8 +8310,6 @@ June 1935.
 
  आदित्याद्यैरुषादिशक्तियुतैरिति। आदित्यं मध्ये संपूज्य रव्यादिचतुष्टयं
 
-
-
 मातृभिररुणान्ताभिः सग्रहैः सुरैश्चाऽन्ते सूर्यपार्षद्भिः।  
 सोषा सप्रज्ञा सप्रभा सन्ध्या च शक्तयः प्रोक्ताः॥६३॥
 
@@ -8921,8 +8332,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
  पञ्चदशः पटलः।  
 ———
-
-
 
 **षोडशः पटलः।**
 
@@ -8961,8 +8370,6 @@ June 1935.
 
 राका कुमुद्वती नन्दा सुधा संजीवनी क्षमा।  
 आप्यायनी चन्द्रिका च ह्लादिनीनव शक्तयः॥
-
-
 
 केसरेष्वङ्गपूजा स्याच्छक्तीस्तद्बहिरर्चयेत्।  
 रोहिणींकृत्तिकाख्याञ्च रेवतीं भरणीं तथा।  
@@ -9004,8 +8411,6 @@ June 1935.
 
  अर्घ्यदानप्रकारमाह— त्रितयमिति॥१६॥१७॥१८॥
 
-
-
 अष्टोत्तरशतावृत्त्या दद्यादर्घ्यमथेन्दवे।  
 विद्यामन्त्रेण मन्त्रज्ञो यथावत्तद्गतात्मना॥१९॥
 
@@ -9044,8 +8449,6 @@ June 1935.
 
  तमोगुणप्रधानानाग्नेयान् मन्त्रान् सविनियोगानाह— अथाऽग्नीति। ओं बीजम्। स्वाहा शक्तिः। प्राक्प्रोक्तानीत्यग्निजनने प्रोक्तानि। सहस्त्रार्चिः
 
-
-
 पीता श्वेताऽरुणा कृष्णा धूम्रा तीव्रा स्फुलिङ्गिनी।  
 रुचिरा ज्वालिनी चेति कृशानोर्नव शक्तयः॥२९॥
 
@@ -9083,8 +8486,6 @@ June 1935.
  मन्त्रविद्दिनश इति। श्रीबीजयोग उक्तः। मन्त्री महासिद्धय इत्यपि श्रीबीजयोग एव। प्रतिदिनमेकैकेन द्रव्येण षण्मासं जुहुयात्।कह्लारकुमुदाववशिष्टौ द्रव्यौ प्रतिपदि वा सर्वैर्जुहुयात्॥३१॥३२॥३३॥३४॥३५॥
 
  तारं व्याहृतय इति। ओं बीजम्। स्वाहा शक्तिः॥३६॥३७॥
-
-
 
 वत्सरादेश्चतुर्दश्यां दिनादावेव दीक्षितः।  
 मन्तं द्वादशसाहस्रं जपेत् सम्यगुपोषितः॥३९॥
@@ -9126,8 +8527,6 @@ June 1935.
 
  अष्टोत्तरं मन्त्रीति। प्रणवशक्तिपुटितत्वमुक्तम्॥४४॥४५॥४६॥४७॥
 
-
-
 ऋष्याद्याः स्युः पूर्ववदृतुभूतदिशात्रिकरणयुगलार्णैः।  
 मूलमनुनाऽथ कुर्यादङ्गानि क्रमशः एव मन्त्रितमः॥४९॥
 
@@ -9167,8 +8566,6 @@ June 1935.
 
  जप्त्वा मनुं मन्त्रविदिति श्रीयोगं देहि मे इत्यत्र साध्ययोगं चाह।
 
-
-
 अष्टोर्ध्वंशतं हविषा मन्त्रेणाऽनेन नित्यशो जुहुयात्।  
 षण्मासादाढ्यतमो भवति नरो नात्र सन्देहः॥५६॥
 
@@ -9205,8 +8602,6 @@ June 1935.
 
  मन्त्री हुनेद् गुणसहस्रमिति। अमृतबीजयुतत्वमुक्तम्॥६१॥६२॥६३॥६४॥
 
-
-
 मनुनाऽमुनाऽष्टशतजप्तमथ प्रपिबेज्जलं ज्वलनदीपनकृत्।  
 गुरुभुक्तमभ्युदरगं त्वमुना परिजापितं पचति कुक्ष्यनलः॥६४॥
 
@@ -9222,8 +8617,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे  
  षोड़शःपटलः।  
 ————
-
-
 
 **सप्तदशःपटलः।**
 
@@ -9244,8 +8637,6 @@ June 1935.
  समृद्धिमन्त्रानन्तरं महासमृद्धिदस्य विधानं वक्तुमारभते— अथेति। समवहितधियः स्वाश्रमधर्मादप्रमत्ताः सुधियो मन्त्रज्ञा ध्यानविशेषज्ञाः॥१॥२॥३॥
 
  मन्त्री विघ्नेश्वरस्य इति। अङ्गमन्त्रेषु सर्वज्ञादियोग उक्तः। न्यासविशेषैः मन्त्रात्मत्वमपि सूचितम्। प्रणवपुटितैः पञ्चबीजैरङ्गुलीषु विन्यस्याऽवशिष्टेन करयोः व्याप्य अङ्गान्यङ्गुलीषु विन्यस्य मूलेन देहे त्रिशो व्याप्य प्रणवपुटितं बीजपञ्चकं मूर्धादिषु विन्यस्याऽवशिष्टेन तत्रैव व्याप्य तथैव पञ्चवक्त्रेषु दोःपत्सन्ध्यग्रेषु कटिद्वयांसद्वयहृत्सु च प्रादक्षिण्येन न्यसित्वा पदाष्टकमष्टाधारेषु न्यसेत्। पदचतुर्दशकं चेत् चतुर्दशाधारेषु। नवकं चेत् नवाधारेषु। दशकं चेद् दशाधारेषु। मूलाधारः वृषणः लिङ्गमूलः जठरः नाभ्युदरः हृदयोरोगललम्बिका भ्रूमध्यः ललाटकेशान्तः मूर्धानःचतुर्दशाधाराः। वृषणजठरोदरोरोवर्ज्या दशाधाराः। केशान्तवर्ज्या नवाधाराः। ललाटवर्ज्या अष्टाधाराः। बीजषट्कं पदषट्कम्। वरदेत्यन्तं सप्तममवशिष्टम् अष्टममित्यष्टपदपक्षः। नवपदपक्षे गणपतये इत्यन्तं सप्तमं वरदान्तमष्टमम्अवशिष्टं नवमम्। दशप्रदपक्षे सर्वजनं मे इत्यन्तं नवममवशिष्टं दशमम्। चतुर्दशपदपक्षे वरवरदेति च पदद्वयमवगन्तव्यम्। मूर्धभ्रूमध्याक्षिद्वयास्य करपत्सन्ध्यग्र गलहृत्सु वर्णन्यासः पदन्यासात् पूर्वमेव। मूर्धभ्रूमध्याक्षिद्वयास्येषु बीजपञ्चकं सर्वजनं मे वशमानय स्वाहेति अनेन सहितं न्यसेत्। तथा करपत्–
-
-
 
 मन्दाराद्यैः कल्पकवृक्षविशेषैर्विशिष्टतरफलदैः।  
 शिशिरितचतुराशेऽन्तर्बालातपचन्द्रिकाकुले च तले॥५॥
@@ -9278,8 +8669,6 @@ June 1935.
 सन्ध्यग्रेष्वपि कट्यंसद्वयहृत्स्वपि जानुद्वयगुल्फद्वयनाभिष्वपि स्तनद्वयकण्ठपृष्ठककुत्स्वपि। एष विभूतिन्यासः। पुनः बीजपञ्चकमेव मूर्धभ्रूमध्याक्षिवदनेषु सर्वजनमित्यादि व्यापकत्वेन न्यसेत्। रमारमेशादिकं मूर्धादिपञ्चभूतस्थानेषु नाभितत्पार्श्वकण्ठतत्पार्श्वेषु विघ्नषट्कं सशक्तिकं निधिद्वयं च स्तनद्वयाधः पुनः ब्रह्माण्यादिकमलिकादिषूक्तेषु स्थानेषु च। सामान्यपटलोक्तन्यासाश्च कार्या इति। गं बीजम्। ह्रींशक्तिः॥४॥
 
  लिपिमयपद्मेत्रिषडिति। त्रिकोणमध्ये प्रणवे गमिति साध्याख्यादियुतं लिखित्वा श्रींह्रीं क्लीं ग्लौं बीजैस्तत् संवेष्ट्य षट्कोणेषु बीजषट्कं तदन्तरालेषु
-
-
 
 ध्येयौ च पद्मयुगचक्रदरैः पुरोक्तौ  
 पाशाङ्कुशाख्यपरशुत्रिशिखैरथाऽन्यौ।  
@@ -9317,8 +8706,6 @@ June 1935.
  दीक्षितो मन्त्रीति। चतुर्थीं परित्यज्य सम्बुद्धिस्वीकारः उक्तः। मिथुनमन्त्राणां दशांशजपश्चउक्तः।मन्त्री जुहुयादित्यपि तथा॥१८॥१९॥२०॥
 
  जपता मनुमपि मन्त्रिणेति। विभूतिमन्त्रजप उक्तः। पूर्वोक्तार्चनामन्त्राश्च। आसिकामनुरासनमन्त्रः। विधिनेति। इक्षुसमुद्रादियोगः॥२१॥२२॥२३॥२४॥
-
-
 
 **तीव्रा ज्वालिनी नन्दा सभोगदा कामरूपिणीचोग्रा।  
 तेजोवती च स\[नि\]त्या संप्रोक्ता विघ्ननाशिनी नवमी॥२२॥**
@@ -9360,8 +8747,6 @@ June 1935.
 
  मन्त्री पुनर्वेतसैरित्यमृतबीजयोगमाह॥२८॥२९॥३०॥
 
-
-
 **आमोदादिनिधिद्वयञ्च सचतुःपूर्वं चतुर्वारकं  
 मन्त्रीतर्पणतत्परोऽभिलषितं संप्राप्नुयान्मण्डलात्॥३१॥**
 
@@ -9370,8 +8755,6 @@ June 1935.
  अथ प्रकारान्तरेण तर्पणमुच्यते— मन्त्रेणेति। देवस्य मूलमन्त्रेणेत्यर्थः। तेन च दशधा विभज्य तर्पणीयम्। अथानन्तरम्। पुरा शरीरेण देवस्य शरीरसम्बन्धिभिः बीजापूरादिभिरित्यर्थः। बीजापूरादिरत्नकलशान्तैर्मन्त्रैरेकादशभिः बीजापूरं तर्पयामीत्याद्यैः तर्पयेदित्यर्थः। तत एकविंशन्मन्त्रा आगताः। अमुनेति। क्षिप्रमन्त्रे विघ्नादिदशनामयुतेन मूलेनेत्यर्थः। गणपत इत्यस्मात् पूर्वं तु योगः। तत एकविंशन्मन्त्रा आगताः। श्रीशक्तिस्मरभूविनायकरतीर्नाम्नैव बीजादिकमित्यष्टौ मन्त्राः कथिताः। तत् एकोनचत्वारिंशन्मन्त्रा आगताः। आमोदादिनिधिद्वयं चेति। षोड़शमन्त्रा उक्ताः। ततः पञ्चपञ्चाशन्मन्त्राः सिद्धाः। तैश्चतुःपूर्वं चतुर्वारं सन्तर्प्य मूलेन चतुर्वारं तर्पयेत्। आरम्भकाल एव वा मूलेन चतुर्वारं तर्पयेत्। ततश्चतुश्चत्वारिंशदधिकं चतुःशतं भवति। ततोऽवशिष्टानामावरणानामेकैकवारं सन्तर्प्य पूजाशेषं समापयेदिति।
 
  अथवा सशक्तिकं निधिद्वयं परित्यज्य मूलं विभूतिमन्त्रं पुष्टिविनायकमन्त्रौ च स्वीकृत्य प्रकृतां संख्यां पूरयेत्। अथवा सर्वमप्येतत् स्वीकृत्य षट्सप्तत्यधिकं
-
-
 
 अथ गजलिप्सुर्नृपतिर्गजवनमध्ये प्रसाधयेद्वारि।  
 तन्निकटे सुविशालं चतुरस्रं कारयेच्च गृहवर्यम्॥३२॥
@@ -9410,8 +8793,6 @@ June 1935.
  समर्च्य मन्त्रैः क्रमशः कृशानोरिति। षष्ठपठलोक्तमूलजिह्वाष्टमूर्तिमन्त्रैरित्यर्थः। मन्त्री समृद्ध्याचेति। अग्निप्रकरणोक्तसमृद्धिमन्त्रत्रयेणेत्यर्थः॥३६॥३७॥
 
  मन्त्री नवधेति। विभूतिमन्त्रेणाऽपि नवधा होमः उक्तः॥३८—४२॥
-
-
 
 तेषां मातङ्गानां दद्यात् पञ्चाशद्दक्षिणां गुरवे।  
 तद्विक्रीतं वसु वा प्रसादितायाऽथ तद्दशांशं वा॥४२॥
@@ -9452,8 +8833,6 @@ June 1935.
 
  मन्त्री पुनरुद्धृत्येति। तत्र तत्रापेक्षिता मन्त्रविशेषाः सूचिताः॥४३–४६॥
 
-
-
 वक्रतुण्डैकदंष्ट्रौ च महोदरगजाननौ।  
 लम्बोदराख्यविकटौ विघ्नराड्धूम्रवर्णकौ॥५३॥
 
@@ -9492,8 +8871,6 @@ June 1935.
 
  अनुलोमविलोमगमिति। कर्णिकायां षट्कोणमध्ये परस्परविमुखं गकारद्वयमालिख्य मध्ये बिन्दुभागयोः साध्यादिकं विलिख्य बीजैःसंवेष्ट्यषट्कोणेष्वङ्ग–
 
-
-
 समीरणं प्रतिष्ठाप्य जप्त्वाऽष्टशतसंख्यकम्।  
 तूष्णीं प्रभक्षयेदेतत् सप्तरात्राद्वशीकरम्॥६३॥
 
@@ -9527,8 +8904,6 @@ June 1935.
 षट्कं लिखित्वा केसरेषु स्वरान् दलेषु गायत्रीवर्णत्रयं बाह्ये व्यञ्चनावेष्टितं चतुरस्रद्वये भूबीजं लिखित्वा यन्त्रसामान्यमन्त्रांश्च लिखित्वा प्राणप्रतिष्ठादिकं कुर्यादित्यर्थः॥६२॥६३॥
 
  क्षिप्रस्य गं बीजम्। नमः शक्तिः। कर्णिकायां षट्कोणे बीजसाध्यादिकं लिखेत्। तेनैव वेष्टयेत्। केसरेषु स्वरान् क्षिप्रेति पूर्वदले प्रप्र इत्याग्नेये प्रसा इति दक्षिणे इत्यादिक्रमेण लिखित्वा तद्बहिः गायत्रीव्यञ्चनादिकं पूर्ववल्लिखेत्। एकदंष्ट्राय विद्महे वक्रतुण्डाय धीमहि तन्नो विघ्नः प्रचोदयादिति गायत्री। अस्मिन् यन्त्रे देवं पूजयेत्॥६४–७०॥
-
-
 
 अष्टभिरेतैर्विहितो होमः सर्वार्थसाधको भवति।  
 दिनशः सघृतान्नहुतो गृहयात्राप्रापको गृहस्थानाम्॥७३॥
@@ -9567,8 +8942,6 @@ June 1935.
 इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे सप्तदशःपटलः।  
 —————
 
-
-
 अष्टादशःपटलः।
 
 अथ मन्मथमन्त्रविधिं विधिना कथयामि सहोमविधिं सजपम्।  
@@ -9606,8 +8979,6 @@ June 1935.
  पूर्वमन्त्रे प्रस्तुतस्य कामप्रधानत्वेन च गतमन्त्रसदृशस्य काममन्त्रस्य विधिं वक्तुमारमते— अथ मन्मथेति॥१॥
 
  कं बीजम्। ईं शक्तिः॥२–१५॥
-
-
 
 मालामन्त्रं दलाग्रेष्वपि गुहमुखशःपार्थिवास्त्रिष्वनङ्गं  
 कुर्याद्यन्त्रंतदेतद्भुवनमपि वशे का कथा मानवेषु॥१०॥
@@ -9650,8 +9021,6 @@ June 1935.
 
  करोति मन्त्रविदामिति। हल्कीमिति मन्त्र उक्तः॥१६–२६॥
 
-
-
 चतुर्थ्यामावृतौ पूज्याः स्युर्मारपरिचारकाः।  
 परभृत्सारसौ चैव शुकमेघाह्वयौ तथा॥२३॥
 
@@ -9683,8 +9052,6 @@ June 1935.
 
  अहङ्कारशब्देनाऽग्न्यात्मा सूर्यो विवक्षित इत्येतदाह— आत्मानमिति। मदनं मदनबीजात्मकमित्यर्थः। मदनाकारमिति चार्थः। तद्बीजाग्रं मदनबीजाग्रं बिन्दुरूपं शिवज्वालातनुं लिङ्गलक्षणज्वालाशरीरं ध्यायेत्। तन्वीतनुं पत्नीशरीरम्। सुधामयीं चन्द्रमयींध्यायेत्। शिवज्वालालीढं तद्धृदयादिकं यथा
 
-
-
 **आलिङ्गेदग्निसंस्पर्शद्रुतं तद्रूपकामृतम्।  
 रसनाशिखयाकर्षेत् तद्दन्तरसनामृतम्।  
 कुसुमास्त्रधिया बाहौ स्पृशेत् कररुहैरपि॥३१॥**
@@ -9715,8 +9082,6 @@ June 1935.
  प्रयोगयन्त्रमाह— साध्याख्येति। तारः ईकारः। ऋत्विक् षोड़शस्वरः। पक्षः पञ्चदशस्वरः। जाष्टादशो मकारः। समिदेकविंशवर्णः ङकारः। ऋतुः षष्ठस्वरः। गण्डान्तः एकारः। गान्तो घकारः। एतान् पत्रेषु लिखेत्। आशाशूलाङ्कितमिति। पत्राग्रेषु त्रिशूलान् रचयेदित्यर्थः। सम्यगिति। यन्त्रहृदयादिकं सूचितम्॥३४॥३५॥
 
  तारयुजेति। ईकारः एव भवति॥३६॥३७॥३८॥
-
-
 
 दध्यक्ताभिर्जुहुयाल्लाजाभिः कन्यकां समाकाङ्क्षन्।  
 कन्याऽपि वरं लभते विधिना नित्यानुरक्तममुनैव॥३७॥
@@ -9759,8 +9124,6 @@ June 1935.
 
  स्मरानुविद्धं कामपितुः कृष्णस्य मन्त्रमाह— कृन्देति। क्लीं बीजम्।
 
-
-
 वन्द्यंदेवैर्मुकुन्दं विकसितकरविन्दाभमिन्दीवराक्षं  
 गोगोपीवृन्दवीतं जितरिपुनिवहं कुन्दमन्दारहासम्।  
 नीलग्रीवाग्रपिच्छाकलनसुविलसत्कुन्तलं भानुमन्तं  
@@ -9802,8 +9165,6 @@ June 1935.
 
  इति श्रीपद्मपादाचार्यकृते प्रपञ्चसारविवरणे अष्टादशः पटलः।
 
-
-
 एकोनविंशःपटलः।
 
 अथ प्रणवसंज्ञकं प्रतिवदामि मन्त्रं परं  
@@ -9820,8 +9181,6 @@ June 1935.
  कामप्रधानं मन्त्रमभिधाय मोक्षप्रधानं मन्त्रमाह— अथ प्रणवेति। परत्वमुपपादयन् विनियोगमाह— अशेषेति। ह्रस्वस्य पापक्षये विनियोगः। स च मकारान्तः। तत्र च केवलाग्निशिखावत् ध्यानम्। स एव ह्रस्वः। कामप्रदो भवति। दीपशिखामध्ये तं तं कामममृतेनाभिषिञ्चतः स एव त्र्यक्षरात्मको ह्रस्वो मोक्षप्रदोऽपि भवति। समन्युन्मनीपरलक्षणसाक्ष्यसाक्षिब्रह्मार्थत्वे दीर्घप्लुतयोरेवमेव सर्वार्थत्वमगन्तव्यम्। अकारोकारमकारबिन्दुनादान्तो दीर्घः पूर्ववत् पापक्षयकाममोक्षार्थत्वे ध्यानभेदोऽवगन्तव्यः। मकारान्तःसमनीवाचकःबिन्दुः साक्षिवाचकः नादो ब्रह्मवाचकः इति मोक्षहेतुत्वे स्थितिः। शक्तिशान्तौ प्लुतिः। मकारान्तः समनीवाचकः। बिन्दुनादौ साक्षिवाचकौ शक्तिशान्तौ ब्रह्मण इति मोक्षार्थत्वे प्रतिपत्तिः। अस्य मन्त्रस्य मोक्षप्रधानत्वेन तद्धेतुत्वमुपपादयति— विमलेति॥१॥
 
  बिन्दुयुतः इति। नादादेरपि उपलक्षणार्थः। त्रयीमात्रसिद्धःप्रणवः त्रिमात्रकः इत्युक्तः। तस्मिन् पक्षे तिसृष्वेवाऽवशिष्टमात्रान्तर्भावो ज्ञातव्यः। सर्वमन्त्रसमवायीति। सर्वमन्त्राधारत्वं वदन् मन्त्रन्यासमाह। अं अंनमो ब्रह्मणे नमः। आं उं नमो विष्णवे नमः। इं मं नमः शिवाय नमः। ईं अं नमो ब्रह्मणे नमः इत्यादि क्षकारान्तमेवं द्रष्टव्यम्। पुनरेवमेवाऽष्टाक्षरैःद्वादशाक्षरैरन्यैश्च मन्त्रैः संयोज्य मातृकास्थानः एव मन्त्रन्यासः कार्यः। अं बीजम्। उं शक्तिः॥२॥
-
-
 
 अक्लीबैर्युगमध्यगध्रुवयुतैरङ्गानि कुर्यात् स्वरै–  
 र्मन्त्री जातियुतैश्च सत्यरहितैर्वा व्याहृतीभिः क्रमात्॥३॥
@@ -9860,8 +9219,6 @@ June 1935.
  स्वरैर्मन्त्रीति न्यासविशेषैः मन्त्रात्मा सन्नित्यर्थः। सत्यरहितैर्वा व्याहृतिभिरिति। वाशब्देन सत्यसहितैर्वा व्याहृतिभिरिति पञ्चाङ्गपक्षः सूचितः॥३॥४॥५॥६॥
 
  मन्त्रितमः क्रमेणेत्यावाहनादिमन्त्रज्ञ इत्यर्थः॥७॥८॥९॥१०॥११॥१२॥
-
-
 
 इत्थंमन्त्री तारमनुं जापहतार्चा–  
 भेदैरङ्गीकृत्य च युञ्ज्यादपि योगान्।  
@@ -9902,8 +9259,6 @@ June 1935.
 ऊर्वोः पादौ क्रमान्नस्येत् जान्वोः प्रत्यङ्मुखाङ्गुलिः।  
 करौ निदध्यादाख्यातं वज्रासनमनुत्तमम्॥
 
-
-
 **संस्थापयेच्च नाड्येत्येवं प्रोक्तानि रेचकादीनि।  
 षोड़शतद्द्विगुणचतुःषष्टिमात्रकाणि तानि च क्रमशः॥२०॥**
 
@@ -9940,8 +9295,6 @@ June 1935.
 
  पञ्चाशन्मात्राधारणे प्रतिपत्तिमाह— पञ्चाशदात्मकः इति।तत्त्वविदा तत्त्वसंख्यायमनात् तत्त्वानि च विधृतानि भवन्तीति सूचितम्।तत्त्वधारणायां
 
-
-
 पूर्वमिड़ाया वदने विचिन्तयेद्धूम्रमानिलं बीजम्।  
 तेनागतेन देहं प्रशोषयेत् सान्तराधिकरचरणम्॥२७॥
 
@@ -9977,8 +9330,6 @@ June 1935.
 
  प्रणवस्थं बिन्दुमिति। दीपशिखाकारं बिन्दुं नादं च तत्प्रभाकारं संचिन्त्येत्यर्थः। यथावदुच्चार्येति। अलिविरुतिवत् उन्मन्यन्तमुच्चार्यः इत्यर्थः। सुषुम्नान्तं सुषुम्नाग्रं मध्यं वा सर्वथाप्युत्तरश्लोकः॥३२॥
 
-
-
 ॐकारो गुणबीजं प्रणवस्तारो ध्रुवश्च वेदादिः।  
 आदिरुमध्यो मपरो नामान्यस्य त्रिमात्रकश्च तथा॥३४॥
 
@@ -9997,8 +9348,6 @@ June 1935.
  पूर्वोक्तं वेदादित्वमुपपादयति— ऋक् चेति।अग्निमील इत्यकारः ऋग्वेदादिः। समुद्रो बन्धुरित्युकारो यजुरन्तरः। मान्तादिः सामापीति। मान्तः मकारान्तःआदिःअकारादिश्च सामवेदः इत्यर्थः। ज्योतिरुत्तममिति हि सामसमाप्तिः। अग्नः आयाहीति च तस्यादिः। अवशिष्टानि नामान्तराणि न्यासाय सूचयति। तस्य भेदा इति। अव रक्षण गति प्रीति तृप्त्यवगम कान्ति प्रवेश श्रवण स्वाम्य सामर्थ्य याचन क्रियेच्छा दीप्त्यवाप्त्यालिङ्गन हिंसा दहन भाव वृद्धिष्विति धातुनिष्पन्नानि लौकिकनामानि य उत्तरतः स ओंकार इत्यादि श्रुतिसिद्धानि वैदिकनामानीति विभागः।
 
  अयमत्र न्यासक्रमः। ओं अं ब्रह्मणे नमः। ओं आं विष्णवे नमः। ओं इं रुद्राय नमः। ओं ईं ओंकाराय नमः।ओं उं प्रणवाय नमः।इत्यादि क्षकारान्ता ऊह्याः। नाममात्रं तूच्यते।प्रणवः। सर्वव्यापी।अनन्तः। तारम्। सूक्ष्मः। शुक्लः। वैद्युतः।परं ब्रह्म।एकः।एकरुद्रः। ईशानः। भगवान्। महेश्वरः। महादेवः। सदाशिवः। सर्वरक्षिता। सर्वगतः। सर्वप्रियतमः। नित्यतृप्तः।सर्वावगमः। सर्वकान्तः। सर्वप्रविष्टः। सर्वश्रोता। सर्वस्वामी। सर्वसमर्थः। सर्वयाचकः। सर्वक्रियः। सर्वेच्छः। सर्वदीप्तः। सर्वावाप्तः। सर्वालिङ्गितः।सर्वहिंसकः।
-
-
 
 उच्चार्योच्चार्य च तं क्रमान्नयेदुपरि षड़्द्वयान्तान्तम्।  
 मनसा स्मृते यदाऽस्मिन्मनो लयं याति तावदभ्यस्येत्॥३७॥
@@ -10033,8 +9382,6 @@ June 1935.
 
  स्थूलःसूक्ष्मः कारण सामान्य बीज संविदभाव तद्वाचिकाकारादिमात्राणां च क्रमसंहारलक्षणं मोक्षसाधनयोगमाह— अथवादिबीजमिति॥४३॥
 
-
-
 तेजस्यनन्यगे चिति निर्द्वन्द्वे निष्कले सदानन्दे।  
 सूक्ष्मे च सर्वतोमुखकरपदनयनादिलक्षणेऽलक्ष्ये॥४४॥
 
@@ -10057,8 +9404,6 @@ June 1935.
  अवस्था दर्शयति— जाग्रदिति। तासां विविच्य स्वरूपमाह—तास्वित्यादिना। बुद्ध्यादि विषयव्याप्ति बीजरूपा जाग्रदवस्था विषयप्राधान्यपरित्यागेन बुद्धिप्राधान्यावस्था बिन्दुस्वप्नात्मिका सविषयाया बुद्धेः कारणात्मत्वावस्था नादसुषुप्त्यात्मिका कारणात्मिकाया बुद्धेः साक्ष्याकारावस्था शक्तितुरीयात्मिका ततस्तस्याः साक्षिणि लयावस्था शान्ततुरीयातीतेत्यर्थः॥ ४७॥
 
  संज्ञारहितैरिति। संज्ञाशब्देनेन्द्रियाणि उच्यन्ते। संज्ञायन्ते एभिरिति। जाग्रद्विवेकसामर्थ्यरहितैः इन्द्रियैःवासनात्मकैरित्यर्थः। मनोरूपैरिति भावः। आत्मनिरुद्युक्ततयेति। आत्मनो मनसो निःसंकल्पतया आत्मनो यन्नैराकुल्यं
-
-
 
 पश्यति परं यदात्मा निस्तमसा चेतसा तुरीयं तत्।  
 आत्मपरमात्मपदयोरभेदतो व्याप्नुयाद्यदा योगी ॥४९॥
@@ -10090,8 +9435,6 @@ June 1935.
  तत्सुषुप्तिरित्यर्थः॥४८॥४९॥५०॥
 
  जपकाले प्रतिपत्तव्यं योगमाह— अथवा सूक्ष्माख्यायामिति। तत्र सूक्ष्मशब्देन सूक्ष्मा वागुक्ता। स्वमहिमस्था निश्चला। आख्याशब्देन परा किंचिच्चलिता मूलाधारस्था। पश्यन्ती सामान्यज्ञानरूपिणी नाभिस्था। मध्यमा विशेषज्ञानरूपा हृदि स्थिता। वैखरीशब्दरूपिणी मुखस्था। इति मन्त्रोत्पत्तिक्रमयोगमभिधाय लयक्रमयोगमभिदधाति— ससुषुम्नाग्रगयोरिति। सुषुम्नाया अग्रं सुषुम्नाग्रं तं गच्छन्तीति सुषुम्नाग्रगाः। वैखरीमध्यमापश्यन्तीपरासूक्ष्माख्याः। आस्यभ्रूमध्यमूर्ध्वद्वादशान्तषोड़शान्तस्थाः वाग्भेदाः। तैः सहितयोः मध्यमाख्यवैखर्योरित्यर्थः। योगक्रममाह— बीजोच्चारः इति। सृष्टिसंहारयोः जाग्रदवस्था एकैव अवगन्तव्या। बिन्दुः स्वप्नः इति। भ्रूमध्यहृदयस्थमध्यमा–
-
-
 
 एवं प्रोक्तैर्योगैरायोजयतोऽन्वहं तथाऽऽत्मानम्।  
 अचिरेण भवति सिद्धिः समस्तसंसारमोचनी नित्या॥५८॥
@@ -10129,8 +9472,6 @@ June 1935.
  एकोनविंशःपटलः।  
 ————
 
-
-
 **विंशःपटलः।**
 
 अथ पुनरभिवक्ष्ये मन्त्रमष्टाक्षराख्यं  
@@ -10165,8 +9506,6 @@ June 1935.
  मनोः क्रमादित्युल्कान्ते स्वाहापदं प्रयोज्य पश्चाज् जातिःप्रयोक्तव्येति सूचितम्॥५॥
 
  अष्टाङ्गकं सुधीरिति। न्यास एवाष्टाङ्गविनियोगः नतु पूजायामिति
-
-
 
 संदीक्षितो मनुमिमं प्रतिजप्तुमिच्छन्  
 कुर्यान्निजेन वपुषैव तु योगपीठम्।  
@@ -10208,8 +9547,6 @@ June 1935.
 
  ततोऽष्टाक्षरपूर्त्यर्थमिति। यद्यप्यष्टाक्षराणाम् अष्टप्रकृत्यात्मकत्वेन जड़–
 
-
-
 अष्टप्रकृत्यात्मकश्च संप्रोक्तोऽष्टाक्षरो मनुः।  
 अष्टानां प्रकृतीनाञ्च चतुर्णामात्मनामपि॥१६॥
 
@@ -10243,8 +9580,6 @@ June 1935.
  मन्त्रविन्मूर्ध्नीत्यष्टाक्षरेण सार्धमित्यर्थः। तत्रप्रतिपत्तिमाह— मूर्धस्थ इति॥१८॥१९॥२०॥
 
  मन्त्रविन्मकरान्ते कुण्डलमिति। मकरकुण्डलालङ्कृतः इति पदाध्याहारः
-
-
 
 दीप्तिमुक्त्वाकरायेति सहस्रादित्यतेजसे।  
 हृदन्तः प्रणवादिः स्यात् किरीटादिमनुस्त्वयम्॥२४॥
@@ -10288,8 +9623,6 @@ June 1935.
 
  अष्टाक्षराङ्गैरिति। पञ्चाङ्गैःप्रथमावरणमुक्तम्। अष्टार्णवर्णैरित्यक्षराष्टकेन द्वितीयम्। पञ्चावरणमित्यङ्गैः विनेत्यवगन्तव्यम्॥२८–४१॥
 
-
-
 इन्द्रादयस्तद्बहिश्च पूज्याः पूर्वादिभिः क्रमात्।  
 इति विष्णोर्विधानन्तु पञ्चावरणमुच्यते॥३५॥
 
@@ -10328,8 +9661,6 @@ June 1935.
 
  अर्चनाद्यैर्मन्त्रीति। ऐहिकसिद्धौ तद्योग्यबीजयोगादिकमुक्तम्॥४२॥४३॥४४॥
 
-
-
 इत्युक्तविधिचतुष्के पूजयितुरथैकमपि यथाशक्ति।  
 अचिरेण भवति लक्ष्मीर्हस्तगता सकलवर्गसिद्धिकरी॥४६॥
 
@@ -10363,8 +9694,6 @@ June 1935.
  अम्बुरुहरागवर्णाः सर्वविधानेष्ववशिष्टान्त्या मूर्तिरिति ज्ञेया॥४८॥
 
  अरिदरगदाब्जहस्ताः सर्वाः इति। दक्षिणोर्ध्वहस्तमारभ्यः प्रादक्षिण्येनेत्यर्थः। इयमेवाक्षरमूर्त्यावृतिः प्रणवजे विधानेऽधिका भवति।तस्मात् पुरा प्रणवपठले उक्तात् प्रणवविधानादित्यर्थः।अङ्गवासुदेवाद्यात्मादीन्द्रवज्रादिभिर्हि प्रणवविधानमुद्दिष्टम्। अत्र तु क्रुद्धोल्कादिभिरङ्गपूजा तदनन्तरमक्षरमूर्तिपूजा ततो वासुदेवादिकमिति। नकारादिविधानेषु ओं नं ओं नमो नारायणाय इत्यादयो मन्त्राः ज्ञातव्याः। सर्वत्र चाङ्गानन्तरं मूर्त्यावृतिद्वयं द्रष्टव्यम्॥४९॥५०॥५१॥५२॥
-
-
 
 केत्वादिकञ्च सशतक्रतुपूर्वकञ्च  
 सम्पूजयेद्विमलधीःपुनरङ्गतोऽन्ते॥५३॥
@@ -10405,308 +9734,26 @@ June 1935.
 विंशतिः पटलः।  
 —— ——
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^199]: "The Devatās of those names."
-
-
-[^188]: "Lakshmi."
-
-
-[^167]: "See last note."
-
-
-[^152]: "The subtle states (bhāva
-
-
-[^151]: "The subtle states (bhāva
-
-
-[^111]: "Maheshi"
-
-
-[^108]: "Maheshi"
-
-
-[^101]: "Ishi."
-
-
-[^56]: "See Introduction to my book "
-
+[^6]: "See note at p. 29 post."
 
 [^28]: "V ante, p II"
 
+[^56]: "See Introduction to my book "
 
-[^6]: "See note at p. 29 post."
+[^101]: "Ishi."
+
+[^108]: "Maheshi"
+
+[^111]: "Maheshi"
+
+[^151]: "The subtle states (bhāva
+
+[^152]: "The subtle states (bhāva
+
+[^167]: "See last note."
+
+[^188]: "Lakshmi."
+
+[^199]: "The Devatās of those names."

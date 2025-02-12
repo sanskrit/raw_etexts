@@ -12,15 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1NDgzMzIzNjk
 
 \[
 
-
-
-
-
 **परात्रिंशिका**
 
-
 श्रीदेव्युवाच ।=२०
-
 
 अनुत्तरं कथं देव स्वतः कौलिकसिद्धिदम् ।  
 येन विज्ञातमात्रेण खेचरीसमतां व्रजेत् ॥ १ ॥
@@ -30,9 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1NDgzMzIzNjk
 
 तां मे कथय देवेश येन तृप्तिं व्रजाम्यहम् ।
 
-
 श्रीभैरव उवाच ।
-
 
 शृणु देवि महाभगे उत्तरस्याप्यनुत्तरम् ॥ ३ ॥
 
@@ -136,8 +128,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1NDgzMzIzNjk
 एतदभ्यासतः सिद्धिः सर्वज्ञत्वमवाप्यते ॥ ३६ ॥
 
 ------------------------------------------
-
-
-
 
 \]

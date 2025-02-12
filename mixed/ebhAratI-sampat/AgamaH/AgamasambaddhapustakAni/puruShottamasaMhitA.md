@@ -12,27 +12,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 \[
 
-
-
-
-
-
-
 श्रीमत्पांचरात्रदिव्यागमांतर्गत
 
 श्रीपुरुषोत्तम
 
 संहिता
 
-
-
 प्रथमोध्यायः
 
 \-
 
 शास्त्रावतारविधिः।
-
-
 
 मंगलम्
 
@@ -448,8 +438,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 . 20
 
-
-
 भगवन्नरूपण
 
 ऋषयः
@@ -493,8 +481,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 वदस्वभगवन्मुने
 
 . 21
-
-
 
 वसिष्ठवचनं
 
@@ -1033,8 +1019,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 शास्त्रावतारविधिर्नाम
 
 प्रथमोध्यायः
-
-
 
 ओं
 
@@ -1590,8 +1574,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 समंततः
 
-
-
 तज्जले
 
 वरुणं
@@ -1765,8 +1747,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 भूपरीक्षाविधिर्नाम
 
 द्वितियोध्यायः
-
-
 
 ओं
 
@@ -2593,8 +2573,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 तृतीयोध्यायः
 
 .
-
-
 
 ओं
 
@@ -3714,8 +3692,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 . 56
 
-
-
 गंधोदकेन
 
 संपूर्णंकुशै
@@ -4171,8 +4147,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 नाम
 
 चतुर्थोध्यायः
-
-
 
 ओं
 
@@ -5196,8 +5170,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 कांचनद्रुमभूषितम्
 
-
-
 फलपुष्पसमायुक्तं
 
 रूपेत्वं
@@ -5859,8 +5831,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 पंचमोध्यायः
 
 श्रीश्रीश्री
-
-
 
 ओं
 
@@ -6634,8 +6604,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
 ओं
 
 श्रीमत्पांचरात्रे
@@ -7061,8 +7029,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 नामसप्तमोध्यायः
 
 श्रीश्रीश्री
-
-
 
 ओं
 
@@ -8332,8 +8298,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्री
 
-
-
 ओं
 
 श्रीमत्पांचरात्रे
@@ -8719,8 +8683,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 श्री
 
 श्री
-
-
 
 ओं
 
@@ -9453,8 +9415,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 श्री
 
 श्री
-
-
 
 ओं
 
@@ -10448,10 +10408,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्री
 
-
-
-
-
 ओं
 
 श्रीपांचरात्रेपुरुषोत्तम
@@ -10967,8 +10923,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 श्री
 
 श्री
-
-
 
 ओं
 
@@ -11863,8 +11817,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 श्री
 
 श्री
-
-
 
 ओं
 
@@ -12880,8 +12832,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 चतुर्दशोध्यायः
 
 श्रीश्रीश्री
-
-
 
 ओं
 
@@ -14263,8 +14213,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
 ओं
 
 श्रीपांचरात्रं
@@ -14681,8 +14629,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
 ओं
 
 श्रीपांचरात्रे
@@ -15082,8 +15028,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 सप्तदशोध्योयः
 
 श्रीश्रीश्री
-
-
 
 ओं
 
@@ -16222,8 +16166,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 अष्टादशोध्यायः
 
 श्रीश्रीश्री
-
-
 
 ओं
 
@@ -17659,8 +17601,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
 ओं
 
 श्रीमत्पांचरात्रदिव्यागमे
@@ -18837,8 +18777,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
 ओं
 
 .
@@ -20014,8 +19952,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 एकविंशोध्यायः
 
 श्रीश्रीश्री
-
-
 
 ओं
 
@@ -21860,8 +21796,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
 ओं
 
 श्रीमत्पांचरात्रदिव्यागमे
@@ -21941,8 +21875,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 रनुष्ठितम्
 
 . 2
-
-
 
 मत्प्रीतिजनकं
 
@@ -23847,8 +23779,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 त्रयोविंशोध्यायः
 
 श्रीश्रीश्री
-
-
 
 ओं
 
@@ -27866,8 +27796,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
 ओं
 
 श्रीमत्पांचरात्र
@@ -29264,8 +29192,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
 ओं
 
 श्रीमतांच्परात्र
@@ -29870,8 +29796,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 पवित्रकं
 
-
-
 एकोनविशत्तंतूनां
 
 गोपुरस्य
@@ -30003,8 +29927,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 विलेपयेत्
 
 . 34
-
-
 
 प्रथमेहनिरात्रौ
 
@@ -30317,8 +30239,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 पद्मज
 
 . 47
-
-
 
 तृतीय
 
@@ -30805,8 +30725,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 पवित्रारोपणविधिर्नामषड्विंशोध्यायः
 
 श्रीश्रीश्री
-
-
 
 ओं
 
@@ -32064,8 +31982,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 संवत्सरोत्सवविधिर्नाम
 
 सप्तविंशोध्यायः
-
-
 
 ओं
 
@@ -34158,8 +34074,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
 ओं
 
 श्रीमत्पांचरात्र
@@ -34873,8 +34787,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 श्री
 
 श्री
-
-
 
 ओं
 
@@ -36134,8 +36046,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्री
 
-
-
 ओं
 
 इति
@@ -36882,10 +36792,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 
 श्रीश्रीश्री
 
-
-
-
-
 ओं
 
 श्रीमत्पांचरात्रदिव्यागमे
@@ -37535,8 +37441,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 श्री
 
 श्री
-
-
 
 ओं
 
@@ -38437,12 +38341,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NTc0ODYzNDQ
 संपूर्णम् ॥
 
 ----------------------------------------
-
-
-
-
-
-
-
 
 \]

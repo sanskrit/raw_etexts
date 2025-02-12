@@ -16,25 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxMjk1MDQ3NjE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
-
 
 **INTRODUCTION**
 
@@ -42,23 +24,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxMjk1MDQ3NjE
 
  It is the duty of every man on this Earth toendeavour to seek Liberation: Books on Vedanta, notonly expound the real form of the Liboration to beattained by us, but also demonstrate the Path to bepursued for the purpose.The Great Seers of thisPunya-bhumi of ours, have revealed the sublime truthsof the Sanatana-dharma in their great works, the'Itihasas, Puranas and other sacred lore, with a view toregenerate the dull-witted, who cannot comprehend thesystem of Vedanta, and to enthuse towards further effortthose who have partially understood the same. Thoseworks elaborately d well on the lines of righteons conductwhich man should pursue in his seeking after Liberation,the fruits of compliance with the prescribed rules andthe risks involved in breaches thereof. The chief aimof the writers of those works is, that their readersshould follow the good example set by the charactersdelineated therein. Their major characters, viz., theheros and heroines, are either Isvara Himself or thosethat partake of some of the essential features of Isvara,while the minor characters have their distinct purposeto serve in the unfolding of the plot. Readers of thesegreat works would find, that they can at best hold aloftthese heros and heroines as ideals to be followed, and,not by any means try to imitate their example to thevery letter or even make a near approach to them incertain respects. For instance, the incident of LordKrishna, who is represented in the Srimad Bhagavataas having raised aloft Mount Govardhana on his littlefinger, to serve as shelter for his devotees during astorm, not only evokes the muteadmiration of his
 
-
-
 devotees for all time, but also serves to enhance theBliss derived by them from their true devotion to theLord. Similarly the ordeals of King Haris-chandra,leading to the miserable plight of his keeping watch‚ over corpses mounted on funeral piles and the constancyof Emperor Sibi, who did not wince, when he cut offslice after slice of his flesh to equipoise the dove in theother pan of the scale, fill the reader with a profoundsentiment of marvel and awe and cannot be literallycopied by him in his daily conduct. Hence the studyof these great works serves only to show the degree ofdisparity between things divineand human.
-
 
 Wealsomeetwithanotherclassofliteratureinspiredbythesameloftymotives,
 wherein the purelydevotional element preponderates and weareintroducedto characters more human and less divine, causing usto breathe more freely and find ourselves thoroughly athome. These relate to the life-stories of great devotees,who lived the lives of mortals, were subject to the sameinfirmities and temptations, but grew to a higher statureby leading a life of true devotion to 'the Supreme Being,hungering and thirsting after a nobler life in this worldand the world hereafter, 'devoid of all attachment, andenjoyed theserene Bliss divine, while remaining-in- thisworld. These great men verily serve as beacon-lights,showing us the right path and dispelling the darkness,internal as well as external, that hampers us in ouronward march. Most of these stories are apparentlybased on tradition and should not be deprecated on thataccount, so long as they serve the purpose for whichthey were intended by their authors. My humble\*conviction is, that the point of satiety can nover, be ...........by thepublication of any number of such works.
 
-
-
  No apology will, therefore, be needed for thisventure of mine, in adding one more to the list of suchworks. In my search for a suitable theme, I felt, I wasmagnetically drawn to the life of Sri Tyaga-raja," whowas.born and bred in the Chola country, of ours. andafter fulfilling his divine mission of expounding thegreatness of Music and of reaching godhead, throughdevotion to the Nada-brahman-which is after all anaspect of the Para-brahman-attained his Samadhiafter renunciation, in the holy Panchanada-kshetra‚onthe banks of the sacred Kaveri. Most of his soul-stirring strains, are in glorification of the Hero ofValmiki's immortal epic, Sri Rama, whose name SriTyaga-raja has treated as the Taraka-mantra, wherewithto cross the ocean of worldly existence. The traditionof his being looked upon as a modern incarnation of thatsuper-human bard, Sri Valmiki, has surely sprung outof the rhapsodies of his Kritis. We are fortunatelycircumstanced in having in our midst some ‹ disciples ofthe disciples of the great one and several of theincidents narrated in the story have been culled fromthose sources. Thanks to the endeavours of lovers ofMusic, hundreds of Sri Tyaga-raja's immortal Kritishave been reclaimed for posterity and are reminding usevery day of their great author, whose life story I haveventured to present in Samskrit verse, to his countrymen and to the world at large. I have attemptedtherein to portray, to the best of my lights, the lessonsthat we learn from the life of Sri Tyaga-raja, regardingthe ideal that one should set before himself for livingthe life of a true devotee, the excellence of Bhakti-yoga,the true marks of a Bhakta and other striking featuresof a saintly life.
 
-
-
 ![](../books_images/U-IMG-1726285544CCCCC.png)
-
-
 
 **FOREWORD**  
 **--------------**
@@ -68,8 +41,6 @@ wherein the purelydevotional element preponderates and weareintroducedto charact
  Mr Sundaresa Sarma belongs to that rare thingroup that has the poetic heart and is more avid aboutthe afflatus than about the laurel. This work is hisfirst appearance before the public and must be judgedwith fairness—nay, even with leniency. But even if heis judged critically and even harshly, he will come outwell. He belongs to the modest group which says thatgold is tested by fire, and not to the self-consciousgroup which says that the Goddess of Speech is at itsService.
 
  He has a lofty and lovely theme and that itselfis rare good luck. He loves his theme and that isbetter luck. He has a facile pen and his numbers flowwith case and grace and that is best luck of all. I am\* quite aware that in a great poem there must be a multiplicity of metres and a rich repast of rasa-s and that thegrander phenomena of sky and the sea and earth should; be described and that the author of this work is limited
-
-
 
 by his theme and his talents in all these respects. Butwithin his limited range, he has shown good work andI feel sure that the student of Samskrit, fed on very richfare and somewhat fed up with the sameness of it all,will be tempted to taste a new morsel which is raro inthis age.
 
@@ -82,8 +53,6 @@ The author refors to the illustrious band of devoteesof Sri Rama:-
 
 **शरभङ्गोऽथ वाल्मीकिः सुतीक्ष्णो गाधिनन्दनः।  
 भरद्वाजस्तथाऽन्ये च वसन्त्यत्र महर्षयः॥ ( I, 36 and in.)**
-
-
 
 He then bursts a charming anthem about Sri Ramahimself:-
 
@@ -120,8 +89,6 @@ Then follows a fine description of the present Kalige from Narada's month :-
 **वदन्तो विविधान्वादान्वञ्चयन्तः परस्परम्।  
 अलसा इन्द्रियारामाः पापमेवाचरन्ति च॥ (II, 39)**
 
-
-
  Then comes a command from Sri Rama to Valmikto be born as Tyaga-rajs and to flood the world with thenectar of song.Valmiki then goes to Ganga andGodavari and øventually to Cauveri and prays to her that he might be born and bred up as her child :-
 
 **भवदङ्के जनिंलब्ध्वा भवदंषुविवर्धितः।  
@@ -135,8 +102,6 @@ Then follows a fine description of the present Kalige from Narada's month :-
 श्रुत्वा तु विस्मिताः सर्वे संवशस्तत्र संययुः ॥(V, 51, 52.**
 
  I have seen the very painting and the very imageof Sri Rama which claimed and got the offering of theloveliest flowers of the loveliest art of the wouldHappy was Tyaga-raja to have devotion to such a deity
-
-
 
 and happy are we to have devotion to such a devoteeof such a deity!
 
@@ -155,8 +120,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 |     Kumbakonam     | } | K. S. RAMASWAMI SASTRI. |
 | 1st October, 1937. |     |                         |
 
-
-
 **शास्त्रतिलक-शास्त्ररत्नाकर - महोपदेशक- महामहोपाध्याय-  
 ब्रह्मश्री यज्ञखामिशास्त्रिणाम्  
 अभिनन्दनपत्रिका।  
@@ -169,22 +132,14 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **यज्ञस्वामिशास्त्री।**
 
-
-
 **अनुक्रमणिका॥**  
 ---------------
 
 [TABLE]
 
-
-
 ----------------
 
-
-
 ![](../books_images/U-IMG-1726285662DDD.png)
-
-
 
 **\।\।श्रीरामो जयति॥  
 ॥श्रीत्यागराजचरितम्॥**  
@@ -221,8 +176,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **उद्यानानि च रम्याणि चापीनां सन्ति पार्श्वतः।  
 मन्दारपारिजाताद्यैःसीमार्थमुपकल्पितैः॥१०॥**
-
-
 
 **बहिः प्रथमवीथीषु गृहा दन्तकृताः शुभाः।  
 भवन्ति द्वित्रभौमाश्च वरासनसमावृताः॥११॥**
@@ -263,8 +216,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **अलंङ्कुर्वन्ति तान्कन्या भूषणैरतुलैरपि।  
 भोजयन्ते च विधिवद्भोज्यैर्मानसकल्पितैः॥२३॥**
 
-
-
 **शय्यासु सुप्तान्ससुखं सुगन्धपरिलेपितान्।  
 वीजयन्ति च जाग्रत्यो व्यजनैर्महिलाः पुनः॥२४॥**
 
@@ -303,8 +254,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **भाद्राचलो रामदासस्तुकारामः पुरंदरः।  
 रामभद्रसखी चैवये चान्ये रामपूजकाः॥३६॥**
-
-
 
 **ते वसन्तः शुभास्तत्र रममाणाथ देववत्।  
 कथयन्तो रामगुणान्भगवद्ध्यानतत्पराः॥३७॥**
@@ -345,8 +294,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **वरार्हास्तरणोपेता वितानसमलंकृता।  
 उपधानशतैश्चैव दृष्टिहारिभिरावृता॥४९॥**
 
-
-
 **सुवर्णशृङ्खलाभिश्र युता चतसृभिः शुभा।  
 लम्बमानैश्च संक्लृप्तैर्मणिदीपैः प्रकाशिता॥५०॥**
 
@@ -383,8 +330,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **शत्रुग्नःस्वयमागत्य सायं प्रातर्दृढव्रतः।  
 प्रथमायां तथा वीथ्यां सर्वान्पृच्छत्यनामयम्॥६१॥**
-
-
 
 **शुश्रूषन्ते किमेता वो नियता नियतेन्द्रियाः।  
 ईप्सितं मनसो ज्ञात्वा सर्वकामैरिहाङ्गनाः॥६२॥**
@@ -425,8 +370,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **तेन लोका जिताः सर्वे पावितास्तेन भूमयः।  
 त्रिःसप्त पितरः पूर्वे तारिताः पापिनोऽपि ते॥७४॥**
 
-
-
 **बहिश्चरा मे प्राणास्ते नोत्सृजेयं क्षणं च तान्।  
 तेषां तोषाच्च तुष्यामि विषीदामि विषादतः॥७५॥**
 
@@ -461,8 +404,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 सांतानिकलोकवर्णनं नाम प्रथमः सर्गः॥**
 
 **---------------**
-
-
 
 **अथ द्वितीयः सर्गः।**
 
@@ -501,8 +442,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **चरन्तं गगने रामगुणामृतविवर्षुकम्।  
 सर्वथा दृश्यरूपं तं सर्वेषां च मनोहरम्॥१२॥**
-
-
 
 **व्यपोहन्तं च दृष्ट्यैव कामादीन्भक्तिदूपकान्।  
 ददृशुस्ते समायान्तमन्यं चन्द्रमिवोद्गतम्॥१३॥**
@@ -543,8 +482,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **सत्यपूतवचाः किं नु सर्वभूतदयायुतः।  
 अर्चयन्मां सदा भक्त्या परया भजते जनः॥२५॥**
 
-
-
 **इत्थं पृष्टो भगवता रामेण विदितात्मना।  
 जगाद नारदस्तत्र साञ्जलिस्तपसां निधिः॥२६॥**
 
@@ -583,8 +520,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **प्रतिमापूजनं व्यर्थं तद्धि शास्त्रविगर्हितम्।  
 पापावहा रूपक्लृप्तिररूपस्य किलेत्यपि॥३८॥**
-
-
 
 **वदन्तो विविधान्यादान्वञ्चयन्तः परस्परम्।  
 अलसा इन्द्रियारामा. पापमेवाचरन्ति च॥३९॥**
@@ -627,8 +562,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **·**
 
-
-
 **पापमूलं पापफलं पापस्य विषमान्गुणान्।  
 ज्ञातवद्भिः कथं तूष्णीं भूयते च शुभात्मभिः॥५२॥**
 
@@ -667,8 +600,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **आधिव्याधिभिराकीर्णः कथं कर्मानुतिष्ठतु।  
 बहूपकरणैः साध्यं बहुलैर्मन्त्रवेदिभिः॥६४॥**
-
-
 
 **न चिन्तयेद्धि मनसा तपोयोगस्य साधनम्।  
 पिशाचीव मनोवृत्तिर्मोहमापाद्य कर्षति॥६५॥**
@@ -709,8 +640,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **महाईमपि कालं तं नयतो व्यर्थमेव तान्।  
 दृष्ट्वा करुणयाऽऽक्रान्तो मध्यनामाऽजनिष्यहम्॥७७॥**
 
-
-
 **संसारान्तर्निमग्नानां तारणाय कथंचन।  
 भक्तिप्रदं सुसंवेद्यं शास्त्रं द्वैतं व्यबोधयम्॥७८॥**
 
@@ -749,8 +678,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **वाल्मीकिरकरोद्रामचरितं संस्कृते यथा।  
 तद्भाषाज्ञानहीनानां हिन्द्यामकरवं पुनः॥९०॥**
-
-
 
 **अथोवाच च संविग्नो राघवं भक्तवत्सलम्।  
 अशीतिं ताः कथं वाऽहं नेष्ये देव त्वया विना॥११७॥**
@@ -792,8 +719,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **गच्छन्तं गगने देवाः प्रतिसूर्यमिवोदितम्।**  
 **उद्ग्रीवाः समपश्यंस्ते तेजसा तस्य विस्मिताः॥६॥**
 
-
-
 **अनुजानातु मां रामः करुणानिलयः प्रभुः।  
 बहिर्वीथिगतं वाऽपि प्रार्थये च पुनः पुनः॥१०४॥**
 
@@ -832,8 +757,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **राघवेणेत्थमादिष्टो वाल्मीकिर्विह्वलान्तरः।  
 भुवीपतीः समा नेष्ये कथं वेति विचिन्तयन्॥११६॥**
-
-
 
 **नीलाम्रान्कर्पयन्द्वैमान्स्वभासा चावभासितान्।  
 क्वचिद् दुतं कचिन्मन्दं यात्वा तिष्ठन्क्वचित्पुनः॥७॥**
@@ -874,8 +797,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **शत्रोर्भातरमायान्तमरक्षद्रघुपुंगवः।  
 स्वसख्यर्जुनपुत्रस्य यत्तो नाशाय नन्दभूः॥१९॥**
 
-
-
 **मातुलं च सुतान्हत्वा मुमोद वसुदेवजः।  
 हन्तुं चानुत्सुकः शत्रुं प्रैषयद्दूतमङ्गदम्॥२०॥**
 
@@ -914,8 +835,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **ततोऽपश्यद्धरिद्वारं यत्र गङ्गा भुवं गता।  
 अवस्थितानश्मकल्पं निर्विकल्पसमाधिगान्॥३२॥**
-
-
 
 **दीप्यमानैः स्वतेजोभिः पूरकांस्तांश्चतुर्दिशाम्।  
 आत्मानं सर्वभूतस्थं सर्वानात्मनि पश्यतः॥३३॥**
@@ -956,8 +875,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **दृष्ट्वा गोदावरीं पुण्यां विमानादवरुह्य सः।  
 स्नात्वा च विधिवत्तस्यास्तीरे तु समुपाविशत्॥४५॥**
 
-
-
 **पश्यन्बहूदकां रम्यां तीरवृक्षान्मनोरमान्।  
 विस्मयाविष्टहृदयः पश्यन्नेवाभ्यवर्तत॥४६॥**
 
@@ -996,8 +913,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **भवत्यास्तीरमासाद्य वसंश्च पहुवत्सरान्।  
 ससीतः सानुजश्चैव राघवः प्रमुमोद ह॥५८॥**
-
-
 
 **यः स्वयं पूतनामाऽपि त्रिसंध्यं स्वात्मशुद्धये।  
 स्नात्वा भवत्यास्तीर्थेषु कृतात्मानममन्यत॥५९॥**
@@ -1038,8 +953,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **सस्नेहं ब्रुवतीमित्थं जनयित्रीमिवात्मजम्।  
 करिष्ये वचनं मातरित्यूचे प्रणतः पदे॥७१॥**
 
-
-
 **अदूरादेव सोऽपश्यद्वकुलं हेमनिर्मितम्।  
 नीलैर्मारकतैश्चैव क्लृप्तपर्णं महाद्युतिम्॥४॥**
 
@@ -1078,8 +991,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **इति पृष्ट्वा तदा देवीं पूर्णचन्द्रनिभाननाम्।  
 विनीतः पार्श्वमातिष्ठदुत्तरश्रवणोत्सुकः॥१६॥**
-
-
 
 **अवरुद्य यदा भूमिं गतो विस्मयमागतः।  
 अदूरादागतं दृष्ट्वा व्याघ्रपादं पतञ्जलिम्॥८५॥**
@@ -1122,8 +1033,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **पश्यन्नेव मुनिस्तत्र चचार भूशविस्मितः॥३॥**
 
-
-
 **ततः सा देवता मन्दं वरासनसुखोषिता।  
 सस्मितं च ससौहार्दमिदमूचे मुनिं तदा॥१७॥**
 
@@ -1162,8 +1071,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **वल्मीकनाम्ना विख्यातं गच्छ क्षेत्रं पुरातनम्।  
 पुण्यं पुण्यप्रदं चैव वृतं पुण्यैर्महात्मभिः॥२९॥**
-
-
 
 **त्यागेशः पूज्यते तत्र मघवा यं ददौ पुरा।  
 मुचुकुन्दस्य राजर्पः प्रीतिदानमनुत्तमम्॥३०॥**
@@ -1204,8 +1111,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **त्वामेव पुत्रं सद्वृतं प्रापयिष्यन्स ईश्वरः।  
 कालं प्रतीक्षमाणोऽभूत्तपोयोगेन दर्षितः॥४२॥**
 
-
-
 **एकदोद्योजितः पत्न्या शान्तया त्वरमाणया।  
 त्यागेशं दैववशगो निन्दास्तुतिभिरार्चयत्॥४३॥**
 
@@ -1244,8 +1149,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **स्वतः पूतं तु तत्क्षेत्रं कावेर्युपनदीजलैः।  
 त्यागेशसमधिष्ठानात्ततः पूततमं पुनः॥५५॥**
-
-
 
 **अवरुह्य विमानात्स शान्तचित्तस्तदा मुनिः।  
 मेने कृतार्थमात्मानं तत्क्षेत्रस्य च दर्शनात्॥५६॥**
@@ -1286,8 +1189,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **दीपैः शतसहस्रैश्च दीपितं दृष्टिहारिभिः।  
 त्यागेशं द्रष्टुमुद्युक्तः प्रययौ चालयं मुदा॥६८॥**
 
-
-
 **सायंतनाराधनाय जनौघः संकुलोऽभवत्।  
 वाल्मीकिरपि तान्दृष्ट्वा भक्तिपूतान्मुमोद ह॥६९॥**
 
@@ -1326,8 +1227,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **यथावज्जातकर्माणि चक्रे स त्वरयाऽन्वितः।  
 दानानि च यथाशक्ति रामब्रह्मा तदाऽकरोत्॥८१॥**
-
-
 
 **ववृधे च शिशुः सम्यक्प्रतिपच्चन्द्रदर्शनः।  
 त्यागराजप्रसादेन लब्धस्तन्नामकोऽभवत्॥८२॥**
@@ -1369,8 +1268,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **क्रमेण भाषां गैर्वाणीमुपदिश्य मुदाऽन्वितः।**  
 **गर्भाष्टमोपनीतं तं श्रुतीरग्राहयत्सुधीः॥२॥**
 
-
-
 **त्यागराजोऽपि तेजस्वी भक्त्याऽग्निसमुपासकः।  
 अध्यैष्ट साङ्गान्वेदांश्च भिक्षाचर्येण वर्तयन्॥३॥**
 
@@ -1409,8 +1306,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **क्रोशार्धगमनादेव पुण्यवातैस्तु निर्वृतः।  
 मोक्षराज्यं समानेतुं दूतैरिव समागतैः॥१५॥**
-
-
 
 **न ग्लानिमुपगच्छन्तो जग्मुस्ते भृशतोषिताः।  
 अदूरादेव तेऽपश्यन्कावेरीं हृदयंगमाम्॥१६॥**
@@ -1451,8 +1346,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **अनुभोक्तुं महार्हाणि स्पृहाऽभूत्तस्य दुस्त्यजा।  
 प्रारब्धकर्म तु पुनराशां तस्य स्म कृन्तति॥२८॥**
 
-
-
 **अनाप्तकामपूर्तिः स कोपमात्सर्यदूषितः।  
 दुरहंकारमूढात्माऽनीनयत्कालमार्तिमान्॥२९॥**
 
@@ -1491,8 +1384,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **त्यागराजोऽचिरादेव वैराग्येण च विद्यया।  
 लोकस्वभावज्ञानेन शान्तचित्तो बभूव ह॥४१॥**
-
-
 
 **पित्रोर्मरणजं दुःखं नियच्छन्नात्मनाऽपि सः।  
 न शशाक तु तत्सोढुं जप्येशाज्ञानसंभवम्॥४२॥**
@@ -1533,8 +1424,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **दिने दिने तु ववृधे संघस्तत्पुरवासिनाम्।  
 गातुं वितर्दिकायां स यन्त्रितः सकुतूहलैः॥५४॥**
 
-
-
 **त्यागराजश्च संतुष्टो गानं स्वं श्रोतुमागतान्।  
 तर्पयामास मधुरैर्गीतैः शास्त्रानुगामिभिः॥५५॥**
 
@@ -1573,8 +1462,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **त्यागराजस्तु संहृष्टो बहिरेत्य सकौतुकम्।  
 अपश्यद्भूसुरं केचिन्महर्षिसमतेजसम्॥६७॥**
-
-
 
 **ऊर्ध्वपुण्ड्रं दधानं च विशाले फालपट्टके।  
 तुलसीकाष्ठमालाश्च धारयन्तं गले शुभाः॥६८॥**
@@ -1615,8 +1502,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **श्रुत्वा त्वदीयं पाण्डित्यं शास्त्रेषु निखिलेष्वपि।  
 तथा गान्धर्ववेदे च दुरापमितरैः पुनः॥८०॥**
 
-
-
 **शास्त्रानुसारिकर्माणि सौशील्यं सत्यसंधताम्।  
 भक्तिं चानुपमां रामे त्वां दिदृक्षुरिहागतः॥८१॥**
 
@@ -1655,8 +1540,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **इत्युक्त्वा श्रोत्रयोस्तस्य मन्त्रं पूतमुपादिशत्।  
 तारकं सर्वपापेभ्यस्तारकं नाम नामतः॥९३॥**
-
-
 
 **उपदिष्टो ब्राह्मणेन सुप्रीतहृदयेन च।  
 दृष्ट्वेव राघवं साक्षात्त्यागेशो मुदमावहत्॥९४॥**
@@ -1697,8 +1580,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **अहो तेजश्च कारुण्यं सूनृतप्रियवक्तृता।  
 अहो जन्तुषु वात्सल्यमित्यूचुर्विस्मिता जनाः॥१०६॥**
 
-
-
 **त्यागराजः स्वयं गत्वा सुदीर्घं घर्मतापितः।  
 समाहूय चिरायोच्चैरनवाप्तोत्तरोऽगमत्॥१०७॥**
 
@@ -1721,7 +1602,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **अथ पष्ठः सर्गः।**
 
-
 **जजाप स महातेजास्त्यागेशः श्रद्धयाऽन्वितः।**  
 **एकविंशतिमब्दान्वै मन्त्रं तं तारकं स्वयम्॥१॥**
 
@@ -1739,8 +1619,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **एवं जपपरो नित्यं राघवं मनसीडयन्।**  
 **ध्यानयोगमुपागत्य स्थाणुवन्न चचाल सः॥६॥**
-
-
 
 **ब्राह्मेषु च मुहूर्तेषु बोधितः शिष्यपुंगवैः।  
 कावेरीमन्वगात्तुष्टो रामनाममनुं स्मरन्॥७॥**
@@ -1781,8 +1659,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **काकपक्षेषु विन्यस्तमन्दारसुमशोभितम्।  
 फालविन्यस्तकस्तूरीतिलकेन सुभूषितम्॥१९॥**
 
-
-
 **मुष्णद्भ्यां चक्षुषी दीप्तकुण्डलाभ्यामलंकृतम्।  
 मुखकान्तिसमाधूतराकाहरिणलाञ्छनम्॥२०॥**
 
@@ -1821,8 +1697,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **त्वरमाणश्च वीथीषु चाह्वयन्रामलक्ष्मणौ।  
 अदृष्ट्वा पुनरायासीद्विह्वलः साश्नुलोचनः॥३२॥**
-
-
 
 **गृहं पुनः प्रविश्याशु मार्गित्वा राघवं प्रभुम्।  
 अपश्यंस्तत्र दीनात्माऽद्रवदन्यत्र सादरम्॥३३॥**
@@ -1863,8 +1737,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **कथं भवानिमां प्राप्तोऽवस्यामितरदुः महाम्।  
 यद्भूतं तद्वदतु मे भार्यायै भवतः प्रभो॥४५॥**
 
-
-
 **इत्युक्तः स तु धर्मात्मा प्रेयस्या भृशतान्तया।  
 सर्वानुदीक्ष्य तान्दीनान्दीनः प्रोवाच विह्वलः॥४६॥**
 
@@ -1903,8 +1775,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **स्वेदधारापरिक्लिन्नवाससं दीनचेतनम्।  
 गोहत्यामिव कामेन कृत्वा विप्रं सुतापितम्॥५८॥**
-
-
 
 **उदीक्ष्य सर्वे संहृष्टा रामदर्शन कौतुकात्।  
 विषीदन्तश्च तद्देहसंदृष्टक्लमविह्वलाः॥५९॥**
@@ -1945,8 +1815,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **गुरुश्च त्यागराजस्य श्रुत्वैतां कृतिमुत्तमाम्।  
 बहुमानेन चानाय्य तुष्टस्तमिदमब्रवीत्॥७१॥**
 
-
-
 **त्यागेश कृतकृत्योऽस्मि शिष्यं त्वां प्राप्य धार्मिकम्।  
 कीर्त्तिश्च भविता लोके त्वयैव मम सुव्रत॥७॥**
 
@@ -1986,8 +1854,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **॥इति श्री सुन्दरेशार्यविरचिते त्यागराजचरिते  
 'रामदर्शनं' नाम पष्ठः सर्गः॥**
 
-
-
 **अथ सप्तमः सर्गः।**
 
 **ब्राह्मे मुहूर्ते चोत्थाय स्नात्वा जप्त्वा कृताह्निकः।  
@@ -2025,8 +1891,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **उपदिश्य महामन्त्रं तारकं तारकं स्वयम्।  
 अवारयच्च तान्सर्वास्तारापतिसमस्तदा॥१२॥**
-
-
 
 **माध्यंदिनानि सर्वाणि कृत्वा कर्माणि शास्त्रवत्।  
 राघवं पूजयामास श्रद्धया नियमेन च॥१३॥**
@@ -2067,8 +1931,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **यतमानो न चाप्नोति सुखसुप्तस्तु विन्दति।  
 कृच्छ्रात्संपादयत्येकोऽनुभुङ्क्ते तत्पृथग्जनः॥२५॥**
 
-
-
 **निरुद्यमास्तथा मूढाः कातराः कलुपेन्द्रियाः।  
 राज्यानि च समासाद्य लभन्ते सर्वपूज्यताम्॥२६॥**
 
@@ -2107,8 +1969,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **अहो वयं मूढधियो मोक्षसाम्राज्यदायकम्।  
 आराध्य काचं याचामोः गर्दभं कौस्तुभाद्यथा॥३८॥**
-
-
 
 **इत्यादिभिर्महावाक्यै युक्तियुक्तैर्महामतिः।  
 पापण्डानपि साधून्स भक्तांच कुरुते दृढम्॥३९॥**
@@ -2149,8 +2009,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **प्रत्यक्षतथ दृष्टोऽसि परा भक्ती रघूत्तमे।  
 ब्राह्मणेषु च विश्वासो विनयः सौहृदं चं ते॥५१॥**
 
-
-
 **पूर्व तु भोजनादद्य विश्रामं नाभिरोचये।  
 माध्याद्दिकक्रियाहीनं भोजनं विषमेव हि॥५२॥**
 
@@ -2189,8 +2047,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **कूलेषु तं मृगयते नारिकेलवनेषु च।  
 आलयं गच्छति पुनः सत्रेषु परिमार्गति॥६४॥**
-
-
 
 **परिपप्रच्छ दीनात्मा संगतानागतानपि।  
 किं दृष्टो ब्राह्मणः कश्चिद्वृद्धो ज्वलनसंनिभः॥३५॥**
@@ -2231,8 +2087,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **आहारे व्यवहारे च न रतिं प्राप्तवांस्तदा।  
 निराहारोऽभवच्छोचन्पत्न्या चाप्यनुकूलया॥७७॥**
 
-
-
 **न गानेषु मतिं चक्रे न शिष्याणां तु पाठने।  
 विलपन्नेव शुद्धात्मा सायंसंध्यामुपास्त सः॥७८॥**
 
@@ -2272,8 +2126,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **स्वरार्णवाभिधंग्रन्थं पूतं दिव्यं निरीक्ष्य तु।  
 तोषाम्बुधिनिमग्नोऽसौ तरितुं नैव शक्नुवन्॥९०॥**
 
-
-
 **दीपमुज्ज्वाल्य पूतात्मा नियतश्चापठत्सुधीः।  
 गान्धर्वं गानशास्त्रं तद्विस्मयेन ननन्द च॥९१॥**
 
@@ -2300,9 +2152,7 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **------------**
 
-
 **अथाष्टमः सर्गः।**
-
 
 **एकदा त्यागराजस्तु सायाह्ने तुष्टमानसः।**  
 **शिष्यानध्यापयन्नास्ते बहिर्गेहे निजाः कृतीः॥१॥**
@@ -2315,8 +2165,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **हैमवन्तुसमाक्लृप्तरक्तकौशेयशोभिताम्।**  
 **मुक्तामणिविचित्राङ्गां क्लृप्तां दान्तैश्च राजतैः॥४॥**
-
-
 
 **परार्घ्यास्तरणोपेतां महार्हशिखरान्विताम्।  
 दृश्यैर्महोपधानैश्च पञ्चभिः परिमण्डिताम्॥५॥**
@@ -2362,8 +2210,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **मुक्तामणिविचित्राङ्गां क्लृप्तां दान्तैश्च राजतैः॥४॥**
 
-
-
 **त्यागेशे पश्यति तदा शिविकाया महाद्युतिः।  
 दत्तहस्तः शिष्यगणैः स्मयमानोऽप्यवातरत्॥१८॥**
 
@@ -2402,8 +2248,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **दर्शयाद्यैव ते विद्यां दर्शयाम्यहमप्यमूम्।  
 अभिभूतं प्रपश्येयं त्वामद्यैव क्षणादिह॥३०॥**
-
-
 
 **केशवे कथयत्येवं जहसुश्चानुगामिनः।  
 करतालान्समाकुर्वन्स्मयमाना मदोद्धताः॥३१॥**
@@ -2444,8 +2288,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **विभूष्य सुममालाभिर्यथा नन्दामि राघवम्।  
 तथा कीर्तनमालाभिस्तुष्यामि बहुशो विभो॥४३॥**
 
-
-
 **अवमन्तुं परान्नैव करोमि भगवन्कृतीः।  
 प्रकटीकरणार्थंवा स्वोत्कर्षस्य शुभानन॥४४॥**
 
@@ -2484,8 +2326,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **इत्थं स चिन्तयत्यस्मिन्केशवे भृशगर्विते।  
 एन्तरो इति गीतं स सद्यः कृत्वा स्म गायति॥५६॥**
-
-
 
 **शृण्वतः केशवस्यापि तेषां चाप्यनुगामिनाम्।  
 भयं विवेश हृदयं लज्जा च महती तदा॥५७॥**
@@ -2526,8 +2366,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **कः कुर्यात्कार्यमेतत्तु विना वा भवतः प्रभो।  
 क्षमस्व करुणाम्भोधे दुरुक्तानि महामते॥६९॥**
 
-
-
 **इत्याभाष्य च दीनात्मा पश्चात्तापेन तापितः।  
 अवमुच्य महार्हाणि वराण्याभरणानि च॥७०॥**
 
@@ -2566,8 +2404,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **युक्तः किं गर्दभो वोढुं जातीयाश्वीयमण्डनम्।  
 कथं वा धारयाम्येतत्तिष्ठतीह भवत्यहम्॥८२॥**
-
-
 
 **गृध्रस्तूड्डयमानः खे सुदूरमपिः दारुणम्।  
 आराधनीयस्तु कथं दृश्यो वा गरुडो यथा॥८३॥**
@@ -2611,8 +2447,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **इतिश्रीत्यागराजचरिते सुन्दरेशार्यविरचिते  
 " केशवसमागमो" नाम अष्टमः सर्गः॥**
 
-
-
 **अथ नवमः सर्गः।**
 
 **एकदा त्यागराजस्तु सायाह्ने संयतेन्द्रियः।  
@@ -2650,8 +2484,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **अभविष्यच्छुभानां तु दुर्लभां साधुसंगतिम्।  
 प्राप्तेन किमनाप्तं वा मया तु पुरुषर्षभ॥१२॥**
-
-
 
 **दृष्ट्वा भवन्तं तुष्यामि दृष्ट्वेव रघुपुंगवम्।  
 दयार्द्रेण कटाक्षेण पालयैनं पदानतम्॥१३॥**
@@ -2695,8 +2527,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **इतिश्रीत्यागराजचरिते सुन्दरेशार्यविरचिते  
 " केशवसमागमो" नाम अष्टमः सर्गः॥**
 
-
-
 **प्रत्यक्षेणापि संदृष्टौ राघवौ तौ महात्मना।  
 दृष्ट्वा तं पावयात्मानं भक्तिं वनुमतीमिव॥२६॥**
 
@@ -2735,8 +2565,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **प्रागायत तदा कृत्वा रामकारुण्यविस्मितः।  
 ऋणात्कथं तु भवतस्तरिष्यामीति कीर्तनम्॥३८॥**
-
-
 
 **द्रवच्चित्तेन तेनाशु कृत्वा गीतां कृतिं तु ताम्।  
 श्रुत्वा ते विस्मितास्तत्र त्यागराजमपूजयन्॥३९॥**
@@ -2777,8 +2605,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **इत्यादिभिर्बहुविधैश्चिन्तयित्वा स मन्दधीः।  
 एकान्तमानाय्य सदा त्यागेशं पुनरब्रवीत्॥५१॥**
 
-
-
 **जाने त्वां मद्गुणैः शीलैरतृप्तं दुःखितं भृशम्।  
 तथाऽपि वच्मि सौहार्दाद्भ्रातृत्वमनुचिन्तयन्॥५२॥**
 
@@ -2817,8 +2643,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **कृच्छ्राच्च यतमानोऽपि नाहं प्राप्तुमलं धनम्।  
 यतस्व संपादयितुं रोचते यदि मद्वचः॥६४॥**
-
-
 
 **भ्रात्रा ज्येष्ठेन कारुण्यादित्थमुक्तस्तदाऽनघः।  
 पूजयन्मधुरैर्वाक्यैरित्युवाच महामतिः॥६५॥**
@@ -2859,8 +2683,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **किं मन्यसे त्वमात्मानं सर्वगं वाऽपि पण्डितम्।  
 पण्डितानितरांश्चैव मूढानपि विगर्हितान्॥७७॥**
 
-
-
 **यमुपास्से सोऽपि रामः प्रियभ्रात्रोदितं वचः।  
 अनादृत्य गतोऽरण्यं कां कां नावाप चापदम्॥७८॥**
 
@@ -2879,7 +2701,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **-------------**
 
 **अथ दशमः सर्गः।**
-
 
 **भ्रात्रा यवीयसा प्रोक्तमर्थयुक्तं वचः शुभम्।  
 श्रुत्वा शान्तिमनापन्नो जप्येशो विह्वलोऽभवत्॥१॥**
@@ -2901,8 +2722,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **यत्तोऽषि बहुधा कृच्छ्राच्चिकीर्षुरपि दुष्क्रियाः।  
 नावापमद्य दीनारं काचं वा काञ्चनं विना॥७॥**
-
-
 
 **भ्राता त्वयं त्यागराजः सर्वशास्त्रेषु पण्डितः।  
 निःस्पृहो निरनुक्रोश उञ्छवृत्त्या तु जीवति॥**
@@ -2943,8 +2762,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **अनेनैव हि संघोऽपि घोषमुत्पादयन्महान्।  
 विवास्यते मयाऽद्यैव मत्वेत्थं स ननन्द च॥२०॥**
 
-
-
 **स गत्वा भवनं वेगात्संतुष्टहृदयस्तदा।  
 पाकागारं प्रविश्याशु प्रेयसीं प्राह सस्मितः॥१२१॥**
 
@@ -2983,8 +2800,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **अनुभोक्तुं गानरसं त्यागराजस्य संगतान्।  
 अपाक्रमत किंचीत्स भयेनापि च लज्जया॥३३॥**
-
-
 
 **आयान्तं भ्रांतरं दृष्ट्वा समदृष्टिस्तदा सुधीः।  
 संभ्रमेण समुत्थाय विनयेन प्रणम्य च॥३४॥**
@@ -3025,8 +2840,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **अहो दुष्प्रसहं तेजो दिधक्षति च लोचनम्।  
 तथाऽपि करुणाऽपाङ्गैर्वर्षतीवामृतं पुरः॥४६॥**
 
-
-
 **इत्येवं चिन्तयंस्तत्र विस्मयस्तिमितेक्षणः।  
 पश्यत्राघवमूर्तिं च स्तब्ध एव व्यतिष्ठत॥४७॥**
 
@@ -3065,8 +2878,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **पूर्वं सुप्ता तु तत्पत्नी प्रयुद्धा प्रेक्ष्य नायकम्।  
 प्रसुप्तं गाढनिद्रं तं हस्तेन समताडयत्॥५९॥**
-
-
 
 **स तु प्रबुद्धः कोपात्मा गर्हमाणः प्रियां तदा।  
 शिश्ये पुनर्दृढं बद्ध्वा तूपधानद्वयं मुदा॥६०॥**
@@ -3107,8 +2918,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **उत्तिष्ठ कुरु तत्कर्म पुरा यदमिनिश्चितम्।  
 धीरोऽपि सर्वकार्येषु कथं भजसि दीनताम्॥७२॥**
 
-
-
 **व्यवस्यति न काले यः कदाचिदपि संगते।  
 पश्चात्तापाभिभूतोऽपि प्राप्नुयात्किमसौ फलम्॥७३॥**
 
@@ -3147,8 +2956,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **पूजिताश्च महीपालैः पण्डितास्तत्र विष्ठिताः।  
 पार्श्वासने पुरस्तेषां न्यमन्त्रयदिमं यतः॥८५॥**
-
-
 
 **सर्वे मामेव पश्यन्ति बहुमानेन भामिनि।  
 इत्थं प्रियस्य मे भ्रातुः कथं कुर्यां प्रियेऽप्रियम्॥८६॥**
@@ -3189,8 +2996,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **कुरु कल्याणचित्तस्त्वं भ्रातुस्तव यवीयसः।  
 अद्य विप्रियभूतं तु भविष्यच्छुभदायि तत्॥९८॥**
 
-
-
 **कथं तु दुर्भरं संघमुञ्छवृत्या तु वर्तयन्।  
 भरिष्यति स शुद्धात्मा कृपां कुरु सुते यथा॥९९॥**
 
@@ -3229,8 +3034,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **न हन्तुं भ्रातरं वच्मि नापि तच्छात्रसंचयान्।  
 अल्पमेतत्कथं कर्तुं भीरुस्त्वं प्रतियाम्यसि॥१११॥**
-
-
 
 **तिष्ठात्र वसनं दीर्घं छादयन्मम पण्डित।  
 द्रुतं गत्वा तु तत्कर्म क्षणान्निर्वर्तयाम्यहम्॥११२॥**
@@ -3271,8 +3074,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **श्वेतच्छत्रेण रम्येण चामरव्यजनैः शुभैः।  
 पार्श्वक्लप्तैः शोभमानमयोध्यायां यया पुरा॥१२४॥**
 
-
-
 **निरीक्षमाणो रामं च लक्ष्मणं जानकीमपि।  
 मन्त्रैराराधितं तुष्टः प्रणनाम मुदाऽन्वितः॥१२५॥**
 
@@ -3311,8 +3112,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **उलूकगणशब्देन शिवानां निनदेन च।  
 घोरायामेव रात्रौ स पिशाच इव गच्छति॥१३७॥**
-
-
 
 **अदूरादेव कावेरीं तोयपूर्णां ददर्श सः।  
 आवर्तैर्बहुभिर्गर्तैरगाधां जाह्नवीमिव॥१३८॥**
@@ -3354,8 +3153,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
   ’राममक्षेपो' नाम दशमः सर्गः॥  
           ------------**
 
-
-
 **अथैकादशः सर्गः।**
 
 **प्रत्यूषे तु ततः प्राप्ते प्राच्यां जातेऽरुणोदये।  
@@ -3393,8 +3190,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **संभ्रान्ताश्च ततः सर्वे परितः समवस्थिताः।  
 वीजयन्तश्च ते केचिन्नेत्रे प्रममृजुः करैः॥१२॥**
-
-
 
 **एवं गुरौ शयाने तु विसंज्ञे प्राप्तसाध्वसे।  
 एकोऽद्रवत्तदा तूर्णं द्रष्टुं तद्राममन्दिरम्॥१३॥**
@@ -3435,8 +3230,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **वर्तसे कथमेका त्वं क्व च्छात्रास्त्वद्य ते गताः।  
 मनो मुह्यति मे कान्ते स्वप्नसंदर्शनादिह॥२५॥**
 
-
-
 **शक्यते न मयोत्थातुं गन्तुं वा वरवर्णिनि।  
 नय मां रामगेहं तद्यत्र निर्वृतिमाप्नुयाम्॥२६॥**
 
@@ -3475,8 +3268,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **यदि श्रुतं भवद्भिस्तु गुरुक्षेमरतैः पुनः।  
 अपवादोऽपि वक्तव्यस्तत्त्वेन परिपृच्छतः॥३८॥**
-
-
 
 **दुःस्वप्नकातर इति न विशङ्का शुभात्मभिः।  
 कर्तव्या भक्तिभारेण ब्रूत यन्मनसि स्थितम्॥३९॥**
@@ -3517,8 +3308,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **अलंकृत्य सदा रामं दृष्ट्वा तं परमोत्सुकः।  
 उन्मत्तवत्प्रलपति नृत्यत्यानन्दसंकुलः॥५१॥**
 
-
-
 **यदि लब्धानि पुष्पाणि महान्ति मृदुलानि च।  
 राघवं समलंकृत्य कां तुष्टिं प्राप्तवानयम्॥५२॥**
 
@@ -3557,8 +3346,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **ततः प्रोवाच शुद्धात्मा परितः समवस्थितान्।  
 किमर्थमत्र तिष्ठन्तो लम्बास्या दीनचेतनाः॥६४॥**
-
-
 
 **भर्तारं मोहितं दृष्ट्वा कमला प्रियभर्तृका।  
 अविज्ञातगतिः प्राह वेदयन्ती तदप्रियम्॥६५॥**
@@ -3599,8 +3386,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **नार्च्यते किं मया रामो शबरीमोक्षदायकः।  
 जातो दशरथाच्चैव किमन्यः पुनरर्च्यते॥७७॥**
 
-
-
 **नाहं तदनुशोचामि यद्रापोऽय विवासितः।  
 कस्तस्मै प्रातराशाय क्षरिमाहारयिष्यति॥७८॥**
 
@@ -3639,8 +3424,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **संरक्ष्य वानरान्गृध्रं मल्लृकानपि राघवः।  
 कथं मनुष्यं त्यजति बुद्ध्या पादमुपागतम्॥९०॥**
-
-
 
 **नाहं रिपोः सोदरस्तु न पत्नीमानघातकः।  
 गुहायां भ्रातरं बद्ध्वा तत्पत्नी नाहृता मया॥९२॥**
@@ -3681,8 +3464,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **अन्यथा तत्कथं साध्यं हर्तुं त्वयि च पश्यति।  
 त्वामप्यार्यापहर्तुं वा किं करोम्यद्य दीनधीः॥१०४॥**
 
-
-
 **भक्तानां रक्षणे पूर्वमुद्योजयसि राघवम्।  
 मां वा न मन्यसे भक्तं त्यक्ता किं वाऽपि तत्कृतिः॥१०५॥**
 
@@ -3721,8 +3502,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **शतशीर्षेण पातालं नीते ते राघवे स्वयम्।  
 प्रदर्श्य सुमहर्द्वार्यं सुखसुप्तोऽसि सांप्रतम्॥११७॥**
-
-
 
 **कथं त्वमपि गन्ताऽसि दुस्त्यजं मां विहाय च।  
 किं पादमूलं रामस्य परित्यक्तुमनीश्वरः॥११८॥**
@@ -3763,8 +3542,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **इत्थं प्रणयिनस्तस्मिन्नूचुश्च विविधा गिरः।  
 तत्र तत्र च संगत्य विह्वलाः पुरवासिनः॥१३०॥**
 
-
-
 **चरितान्यर्धमिथ्यानि पूर्णमिथ्यानि वा पुनः।  
 जगदुः पूर्ववृत्तानि कुभ्रात्राऽनुष्ठितानि च॥१३१॥**
 
@@ -3803,8 +3580,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **आजुहावाथ सर्वान्स स्वोच्चघोषैः कुतूहलात्।  
 प्रबुद्धाः संभ्रमेणैव प्रययुस्तत्र संघशः॥१४३॥**
-
-
 
 **तदा प्रोवाच नृत्यन्स वर्षन्नानन्दजं जलम्।  
 राघवः स्वप्न आगत्य वचस्त्वेवमभाषत॥१४४॥**
@@ -3845,11 +3620,8 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **सपत्नीकश्च जप्येशो दृष्ट्वैतद्भृशविह्वलः।  
 कोपेन महताऽऽविष्टो ज्वलति स्माग्निसंनिभः॥१५६॥**
 
-
 **॥ इति श्रीत्यागराजचरिते सुन्दरेशार्यविरचिते**  
 **विग्रहलाभो' नामैकादशः सर्गः॥**
-
-
 
 **अथद्वादशः सर्गः।**
 
@@ -3888,8 +3660,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **रक्तच्छत्रेण दीप्तेन शोभितं रक्तचन्दनैः।  
 परिधाय परं वस्त्रं परार्घ्यं परमाद्भुतम्॥१२॥**
-
-
 
 **गाम्भीर्येण प्रभावेण तथा परिजनेन च।  
 शोभितं राजवत्तत्र सोऽपश्यद्भृशविस्मितः॥१३॥**
@@ -3930,8 +3700,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **कम्पमानको दूरे व्यतिष्ठत स विद्वतः।  
 तं दृष्ट्वा भयविद्धाङ्गं मन्त्री प्रोवाच सादरम्॥९५॥**
 
-
-
 **त्यागराजस्य किं भ्रातर्महनीयोऽसि सांप्रतम्।  
 यो महाराजकारुण्यदृष्टेः पात्रं भविष्यसि॥२६॥**
 
@@ -3970,8 +3738,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **श्रुत्वा तु निनदं रम्यं थुष्टं राघवनाम तत्।  
 जप्येशः प्राह सचिवं त्यागेशं पुनरागतम्॥३८॥**
-
-
 
 **रामनाम ततः श्रुत्वा श्रुतिगं समुदाहृतम्।  
 पुलकाङ्कितसर्वाङ्गः सचिवस्तु बभूव सः॥३९॥**
@@ -4012,8 +3778,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **यस्य प्रसादादल्पोऽपि महद्वित्तमवाप्य च।  
 देववच्छोभते नित्यं सोऽयमत्र समागतः॥५१॥**
 
-
-
 **अद्यापि च महार्हाणि भूषणान्यम्बराणि च।  
 अस्माकं दातुमुद्युक्तः करे निक्षिपति प्रभुः॥५२॥**
 
@@ -4052,8 +3816,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **महात्मनि त्वय्यद्यैव कटाक्षाः प्रसरन्ति हि।  
 कालज्ञ कालमाज्ञाय चात्मानं दर्शय प्रभुम्॥६४॥**
-
-
 
 **तवैतत्सुकृतं मन्ये दिदृक्षुस्त्वां विशां पतिः।  
 संप्रार्थ्य गत्वा यो दृश्यः पण्डितैः स हि वाञ्छति॥६५॥**
@@ -4094,8 +3856,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **परितुष्टोऽसि यद्राजा मयि कारुण्यमास्थितः।  
 भवताऽपि कृतस्नेहात्कृतज्ञोऽस्मि महामते॥७७॥**
 
-
-
 **नियोजयति यत्कर्तुं भवान्मां प्रीतिसंयुतः।  
 क्षमस्व तदशक्यं मे कृच्छ्रेष्वपि च तिष्ठतः॥७८॥**
 
@@ -4135,8 +3895,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **एतयोरुभयोः किं वा परं पण्डित मन्यसे।  
 ब्राह्मणे प्रीतियुक्तोऽहं पूर्वं मन्ये परं शुभम्॥९०॥**
 
-
-
 **शरीररक्षणायैव कुर्वन्तः पापमप्युत।  
 अपापाः स्वर्गमायान्ति सन्तः साधुभिरीप्सिताः॥९१॥**
 
@@ -4175,8 +3933,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **विनश्यन्तं क्षणादद्य पश्यामि त्वां नराधम।  
 रामग्रह्यसुतो विप्र इति य्वयि दया कृता॥१०३॥**
-
-
 
 **शरीररक्षणायैव कुर्वन्तः पापमप्युत।  
 अपापाः स्वर्गमायान्ति सन्तः साधुभिरीप्सिताः॥९१॥**
@@ -4226,8 +3982,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **इत्युक्त्वा स तु निःश्वस्य पदा तमभिहत्य च।  
 जगाम क्रोधवशगः शयनागारमार्तधीः॥११६॥**
 
-
-
 **गते तस्मिन्विषण्णश्च संत्रस्तश्छात्रसंचयः।  
 तिष्ठंस्तं परिवार्यापि नेत्रेरश्रूण्यवर्षयत्॥११७॥**
 
@@ -4267,8 +4021,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **अहं पुनर्ममालक्ष्म्या दुर्गतिं पत्पुरार्पयम्।  
 चिरं जीवामि पश्यन्ती तत्खेदमतुलं स्वयम्॥१२९॥**
 
-
-
 **विदीर्यते कथं त्वेतदायसं हृदयं न मे।  
 असृग्धाराप्लुतं दृष्ट्वा विसंज्ञं पतितं प्रियम्॥१३०॥**
 
@@ -4307,8 +4059,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **व्यजनैर्वीजयाञ्चक्रिश्छात्रास्ते विह्वलाङ्गकम्।  
 चुक्रुशुश्र तमुद्वीक्ष्य श्रुत्वा पौराः समागताः॥१४२॥**
-
-
 
 **त्यागराजस्तु धर्मात्माऽबोयोधयत्संज्ञया स्वयम्।  
 नेतुं रामस्य पार्श्वं तु स्वात्मानमकुतोभयम्॥१४३॥**
@@ -4352,8 +4102,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **॥ इति श्रीमत्यागराजचरिते सुन्दरेशाचार्यरचिते  
 मन्त्रिसमागमो' नाम द्वादशः सर्गः॥**
 
-
-
 **अथ त्रयोदशः सर्गः।**
 
 **सचिवस्तु महाब्राज्ञः कोपेन महताऽऽवृतः।  
@@ -4392,8 +4140,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **इत्युक्तो मन्त्रिणा व्यग्रो भृशकोपातुरश्च सः।  
 किंचिदुत्थाय पर्यङ्काद्दन्तान्कटकटाप्य च॥१२॥**
 
-
-
 **तिर्यगूर्ध्वं ततो दृष्ट्वा हस्तं हस्तेन पीडयन्।  
 नेत्राभ्यां कोपरक्ताभ्यां स्फुलिङ्गानिव वर्षयन्॥१३॥**
 
@@ -4429,8 +4175,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **अनाकाङ्क्षितवित्तस्य किमस्माभिः प्रयोजनम्।  
 किमर्थं वा समायाति मन्त्रिणा प्रार्थितोऽपि सः॥२४॥**
-
-
 
 **साधूनामवमन्तृत्वं च्यावयत्यपि वज्रिणम्।  
 तस्मादाज्ञां पुरा दत्तां प्रतिसंहरतु प्रभुः॥२६॥**
@@ -4471,8 +4215,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **सचिवस्तु तथेत्युक्त्वा यदा प्रस्थातुमुद्यतः।  
 शरभोजिः पपातीव्यां दग्धगात्र इवाग्निना॥३८॥**
 
-
-
 **क्रोशंश्च घोरं चरणौ हस्तौ संचालयन्नपि।  
 स्वेदक्लिन्नशरीरश्च कम्पमानशिराश्च सः॥३९॥**
 
@@ -4511,8 +4253,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **सुकालमेवामन्यन्त ज्योतिषज्ञा नृपप्रियाः।  
 अज्ञातमूलाः सर्वेऽपि बभ्रमुः कलुषेन्द्रियाः॥५१॥**
-
-
 
 **तप्यते स्म महाराजो व्यथां सोढुमशक्नुवन्।  
 कन्दल्लुँठञ्श्वसंश्चापिचालयंश्चरणावपि॥५२॥**
@@ -4553,8 +4293,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **उल्लङ्घिताज्ञंतं विप्रं बध्वाऽऽनेतुं कृतत्वरः।  
 अद्यादिशच्च मां राजा नैतदन्यत्कृतं प्रभो॥६४॥**
 
-
-
 **श्रुत्वैतद्वचनं घोरं संविग्नः स पुरोहितः।  
 किमध्यवसितं मन्त्रिन्राज्ञा वा पदगर्विणा॥६५॥**
 
@@ -4593,8 +4331,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **आदिष्टो गुरुणा प्रेम्णा कारुण्यनिलयेन सः।  
 जगाद विनयात्तिष्ठल्लँज्जयाऽवनताननः॥७७॥**
-
-
 
 **मोढ्येनैवेदमारब्धं क्षमस्व करुणानिधे।  
 प्रसादये महात्मानं गत्वा पञ्चनदं स्वयम्॥७८॥**
@@ -4635,8 +4371,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **ततो ययुर्वादयन्तः श्रोत्रमानसहारिणः।  
 तन्त्रीकृतान्रन्ध्रकृतांस्तथा चर्मकृतानपि॥९०॥**
 
-
-
 **ततः प्रभुर्महाराजः शरभोजिर्महामतिः।  
 शिबिकां दर्शनीयां तामधिरुह्य ययौ मुदा॥९१॥**
 
@@ -4675,8 +4409,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **शशाप त्यागराजं स बहुधा विप्रचेतनः।  
 भ्रात्राऽनेनाधुना घोरामापदं प्राप्तवानहम्॥१०३॥**
-
-
 
 **अहो नु खलु मूढेन नायं त्यक्तः स गर्वितः।  
 निवसेयं गृहेऽन्यस्मिन्न च मां दण्डयेत्तदा॥१०४॥**
@@ -4717,8 +4449,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **विहाय शोकं मोहं च भज धैर्यं महामते।  
 गच्छ पूर्वं च तद्राज्ञे विज्ञापय कृतं त्वया॥११६॥**
 
-
-
 **लगुडं च करे कृत्वा वाडितो येन सोदरः।  
 दर्शयाद्य स्वयं राज्ञे स तु तुष्टो भवेत्कृती॥११७॥**
 
@@ -4757,8 +4487,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **कृतानि तेन पुण्यानि राज्यश्रीप्रापकाणि च।  
 अनुभुङ्क्ते च तान्यद्य व्ययन्निव पुरार्जितम्॥१२९॥**
-
-
 
 **अन्ये तु सेवकास्तस्य कृत्वा तत्प्रापिकां कृतिम्।  
 सेवकत्वमनुप्राप्य भुञ्जते तत्फलं त्वमी॥१३०॥**
@@ -4799,8 +4527,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **भ्राताऽयं त्यागराजस्य जप्येश इति नामतः।**  
 **धृतदण्डेनैव भवान्स्वभावं वेत्तुमर्हति॥१४२॥**
 
-
-
 **यमदूतनिकाशेन योधेन स करे धृतः।  
 पुरो ददर्श राजानं वैवस्वतमिवापरम्॥१४३॥**
 
@@ -4840,8 +4566,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **त्यागराजं तदा दृष्ट्वा भक्तिं मूर्तामिवस्थितम्।  
 विनयेनान्वितो भूपः शिविकायां अवातरत्॥१५५॥**
 
-
-
 **ननाम च महाप्रातस्त्यागराजं महीपतिः।  
 प्रार्थयामास धर्मात्मा स्वापराधक्षमापणम्॥१५६॥**
 
@@ -4880,8 +4604,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **ततोऽभिवन्द्य नियतो राजा च महिषीसमः।  
 पुरं प्रतस्थे मेधावी परिवारैः समावृतः॥१६८॥**
-
-
 
 **गते तस्मिन्महाराजे जप्येशमभिवाद्य सः।  
 सर्वाणि च महाराजदत्तानि नियतो ददौ॥१६९॥**
@@ -4923,8 +4645,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **बद्धाअलिपुरा साध्वी भक्तिपूता मनस्विनी।  
 आपिबन्तीवनेत्राभ्यां तस्थौ तद्रूपसंपदम्॥८॥**
 
-
-
 **चिरेण तु यदा भर्ताऽपश्यदुन्मील्य चक्षुषी।  
 ते त्वन्तर्दधिरे क्षिप्रं विद्युज्ज्वलितवर्चसः॥९॥**
 
@@ -4963,8 +4683,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **ख्यातं भूलोकवैकुण्ठं सह्यजातीरशोभितम्।  
 श्रीरङ्गं स ययौ यत्र शयानो हरिरर्च्यते॥२१॥**
-
-
 
 **तत्र दृष्ट्रा रङ्गनाथं तुष्टाव मधुसूदनम्।  
 करुणा जूटवय्येति रङ्गशायीति कीर्तनैः॥२२॥**
@@ -5005,8 +4723,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **वेङ्कटेशं तथाऽपश्यद्दिव्यतेजःसमुज्ज्वलम्।  
 मन्दस्मेरमुखाम्भोजस्पृहणीयाकृर्तिं प्रभुम्॥३४॥**
 
-
-
 **कर्पूरशोभिसर्वाङ्गं सर्वाभरणभूषितम्।  
 नानाकुसुममालाभिः परिशोभितपार्श्वकम्॥३५॥**
 
@@ -5045,8 +4761,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **सुन्दरेशस्तदा दीनो दृष्ट्वा गन्तुं समुत्सुकम्।  
 प्रास्थानिकानि कृत्यानि विमनाः स तदाऽकरोत्॥४७॥**
-
-
 
 **शिबिकां सम्यगास्तीर्णांसञ्जीकृत्य न्यवेदयत्।  
 तामारोहत्त्यागराजो वाह्यमानां दृढैर्नरैः॥४८॥**
@@ -5087,8 +4801,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **शब्दस्तु शीतवातानां संविग्नानकरोन्नरान्।  
 मृगानुत्फुल्लनयनाञ्शार्दूलनिनदो यथा॥६०॥**
 
-
-
 **ववृषुस्तोयदा मन्दमश्रूणीव भयाकुलाः।  
 दृष्ट्वा शरासनं पार्श्वे पत्युः स्वस्यासुरद्विपः॥६१॥**
 
@@ -5127,8 +4839,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **शिष्या विज्ञापयामासुर्हस्तैःसंदर्श्य तां दिशम्।  
 तस्करानागतांस्तत्र मयविह्वलचेतसः॥७३॥**
-
-
 
 **श्रुत्वैतत्त्यागराजस्तु प्रत्युवाच स्मितेन च।  
 अस्मान्संभर्त्स्यसंताढ्य कमथं प्राप्नुयुस्तु ते॥७४॥**
@@ -5169,8 +4879,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **संपादितं बहुद्रव्यं न्यायमार्गेण तन्मया।  
 पात्रदानेन तद्रक्ष्यंनान्यथा नाशमर्हति॥८६॥**
 
-
-
 **परीक्षते भवान्किं नु यदाऽगायद्भयान्वितः।  
 तदाऽस्माकं दृष्टिपथं गतौ सद्यः समागतौ॥११३॥**
 
@@ -5209,8 +4917,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **पुनः पुनः कौतुकेन प्रेक्षमाणौ तवाननम्।  
 तथा चास्मान्सुसंत्रस्तानागतौक्वगताविह॥१२५॥**
-
-
 
 **उद्युक्तावपि तावस्मान्प्रहर्तुं हन्तुमेव वा।  
 वाञ्छत्येव सदा द्रष्टुमस्माकं हतकं मनः॥१२६॥**
@@ -5251,8 +4957,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **अधिष्ठायाद्धशिबिकां राजवन्मयि गच्छति।  
 महात्मानौ कथं वीरौपद्भ्यां यातौनृपात्मजौ॥१३८॥**
 
-
-
 **सर्वथा तु कृतं पापं मया विक्लवबुद्धिना।  
 कथं युक्तं मया प्राप्तुं नरवाहं प्रियादपि॥१३९॥**
 
@@ -5292,8 +4996,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **इति संप्रार्थितस्तैस्तु दृढचित्तैः शुभान्वितैः।  
 दाक्षिण्यादनुमेने ताननगन्तुं नरोत्तमः॥१५१॥**
 
-
-
 **समाहूय ततः पार्श्वे शिबिकायानवाहकान्।  
 इदमूचे त्यागराजो निवर्तनकृतोद्यमः॥१५२॥**
 
@@ -5326,8 +5028,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **॥ इति श्रीमत्यागराजचरिते सुन्दरेशार्थविरचिते  
 'क्षेत्राटनम्' नाम चतुर्दश सर्गः॥**
-
-
 
 **अथ पञ्चदशः सर्गः।**
 
@@ -5366,8 +5066,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **यूना तु पतिना दनान्भुक्त्वा भोगाननुत्तमान्।  
 परित्यजेत्कथं साध्वी जराजर्जरितं पतिम्॥१२॥**
-
-
 
 **भवानद्य जराजीर्णः कम्पमानशिरोऽङ्गकः।  
 करोति निखिलं कर्म परसाहाय्यमाश्रितः॥१३॥**
@@ -5408,8 +5106,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **वत्सेत्याह्वानशब्दं तु श्रुत्वा वर्षरसायनम्।  
 चतस्रः ककृभोऽपश्यन्कौतुकाकान्तमानसः॥२५॥**
 
-
-
 **व्याप्नुवन्नपि सर्वाणि भुवनानि स्वमूर्तिभिः।  
 आगमोक्त विमानाधोलिङ्गाकृतिरहं स्थितः॥५२॥**
 
@@ -5448,8 +5144,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **चिन्तयन्वचनं तेषां विस्मितश्च गतक्लमः।  
 हस्तौ संचालयन्वेगाद्नेहं पुनरुपागमत्॥६५॥**
-
-
 
 **आसाद्य राघवं देवं प्रणम्य च सहस्रशः।  
 स्तुत्वा संपूज्य विधिवत्प्रतस्थे स गृहाद्बहिः॥६६॥**
@@ -5490,8 +5184,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 **दूरादप्यागताः शान्ताः पण्डिता वणिजः शुभाः।  
 परिवार्याभ्यवर्तन्त पश्यन्तश्च तमेव हि॥७८॥**
 
-
-
 **चतुर्विंशे च दिवसे वासरे शशिपुत्रके।  
 पञ्चम्यामसितेपक्षे प्रायात्सांतानिकं विभुः॥१०४॥**
 
@@ -5520,8 +5212,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 
 **श्रीरामो जानकीजानिः शरणम्॥  
     --------------**
-
-
 
 **शोधनपत्रम्।**
 
@@ -5556,8 +5246,6 @@ and happy are we to have devotion to such a devoteeof such a deity!
 | २६          | किंचित्स              |
 | १७          | किं वा                |
 
-
-
 |     |                  |
 |-----|------------------|
 | २५  | भृशमप्रियम्      |
@@ -5587,18 +5275,5 @@ and happy are we to have devotion to such a devoteeof such a deity!
 | १७  | मनःप्रह्ला०      |
 | ११  | पौर०             |
 | २   | • मसिते पक्षे    |
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

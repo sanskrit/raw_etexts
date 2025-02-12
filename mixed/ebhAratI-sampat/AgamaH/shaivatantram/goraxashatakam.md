@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY4ODc3MDk4MDA
 
 \[
 
-
-
 ***गोरक्षशतकम्***
 
 ओं हठयोगगोरक्षशतकप्रारम्भः
@@ -232,6 +230,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjY4ODc3MDk4MDA
 इति गोरक्षशतकं सम्पूर्णम्
 
 ----------------------------------------
-
 
 \]

@@ -16,20 +16,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkyNTM0NzM3MzI
 
 \[
 
-
-
 ![](../../../books_images/U-IMG-1729227601Screenshot2024-10-18102914.png)
-
-
 
 *GAEKWAD'S ORIENTAL SERIES*  
 Publishedunder the Authority of  
 the Government of His Highness  
 the Maharaja Gaekwad of Baroda.
-
-
-
-
 
 GENERAL EDITOR :  
 
@@ -46,17 +38,9 @@ H
 
 No. LIII
 
-
-
-
-
 **श्रीगुह्यसमाजतन्त्रम्।**
 
-
-
 [TABLE]
-
-
 
 Pages 1-152 printed by D. N. Banerji at the Banerji Press.  
 2, Maharani Sarnomoyee Road, Calcutta, and the  
@@ -69,8 +53,6 @@ and
 Published by Benoytosh Bhattacharyya, Director, Orienta।  
 Institute, Baroda, on behalf of the Government of His  
 Highness the Maharaja Gaekwad of Baroda.
-
-
 
 PREFACE.
 
@@ -98,8 +80,6 @@ B. BHATTACHARYYA.
 
 *The 9th July,* 1931.
 
-
-
 INTRODUCTION.
 
  The first thing in the *Guhyasamāja* that strikes a reader is thepeculiarity of the opening chapter where the Lord is introduced in anAssembly of the Faithful as sporting in the sacred knowledge arisingout of the body, mind and speech of the Tathāgatas in the company ofnumerous Tathāgatas and Bodhisattvas. This form of composition isknown as the Saṅgīti which is very popular with the Buddhist writers.The word Saṅgīti means chanting together, and is peculiar to Buddhism. Buddha preached all his life after obtaining enlightenment,but he never wrote anything. In order that his teachings might bepreserved his disciples after his death met together and reproduced histeachings and chanted them together. This is the beginning of theSaṅgīti. These Saṅgītis begin with the description of an Assembly ofthe Faithful where Buddha Bhagavān comes and sits in variousSamādhis and addresses the Assembly on various matters. The firstSaṅgītis composed and chanted together related to the teachings ofBuddha, but later on whenever new ideas were introduced into Buddhism they too appeared in the form of Saṅgītis, and the Buddhistswould not accept anything new unless it was taught in Saṅgītis.The Tāntrics when they made an attempt to introduce their ownnovel doctrines into the old cult were, therefore, compelled to introduce them in the form of Saṅgītis.
@@ -118,8 +98,6 @@ INTRODUCTION.
 * *
 
 **2** *Nanjio : A Catalogue of the Chinese translation of the Buddhist Tripitaka, p. 225,no. 1027. Guhyasamāja was translated A.D. 980-1000, during the reign of the SunDynasty A.D. 960-1127.*
-
-
 
 second kind.^(**1**)The second kind of Siddhi can only be attained byhaving recourse to the practice of Yoga with its six limbs.**²**
 
@@ -143,8 +121,6 @@ second kind.^(**1**)The second kind of Siddhi can only be attained byhaving reco
   **साधयेदन्यथा नैव जायते सिद्धिरुत्तमा॥**
 
  3. तदिहैव जन्मनि गुह्यसमाजाभिरतो बोधिसत्त्वः सर्वतथागतानां बुद्ध इति संख्यां गच्छति।
-
-
 
 though non-dual in essence appear to be dual ; therefore, you shouldnever abandon her in life. This is what is known as Vidyāvrataor the vow of Vidyā and anyone who disregards this cannot obtainperfection of the Uttama kind.^(**1**)
 
@@ -202,8 +178,6 @@ Caityas, or to recite from the sacred works of Buddhism or to drawmagic circles 
 
 * 2. Nityotsava of Umānandanātha, published as No. XXIII of the Gaekwad's OrientalSeries, p. 1.*
 
-
-
 Here the Lord declares that he never preached the secret doctrinesembodied in the *Guhyasamāja* in his past myriads of Kalpas : evenwhen he came to this earth as Buddha Dipaṅkara or as KaśyapaBuddha he did not preach them because people in those times were notsufficiently enlightened to grasp the true import of these exceedinglymysterious doctrines. But then the followers of the *Guhyasamāja*school were able to attain enlightenment and Buddhahood in aninstant. Formerly, Bodhisattvascould expectneverBuddhahood by persistent exertion in myriads of Kalpas.But one who practises the *Guhyasamāja Tantra* is certainly able to take hisplace amongst the Tathāgatas as a Buddha in this very life.¹
 
  This shows that the people following Buddhism were not satisfiedwith the doctrines of original Buddhism or even Mahāyāna in itsMadhyamaka and Yogācāra aspects. They wanted something definiteand some easy process to obtain Buddhahood ; they wanted a methodby which Nirvāṇa could be attained even in one life or even earlier ;in short, a magical formula to obtain the final liberation. The *Guhyasamāja* supplied this craving of the general public following Buddhism,and that probably for the first time, and that is the reason as will beshown later why it became extremely popular.
@@ -212,8 +186,6 @@ Here the Lord declares that he never preached the secret doctrinesembodied in th
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  1. भूतपूर्वं भगवन्तः सर्वतथागता अनभिलाष्यानभिलाष्यबुद्धक्षेत्रसुमेरुपरमाणुरजःसमाःकल्पाः क्षीणा यावत् भगवतो दीपङ्करस्य तथागतस्यार्हतः सम्यक्सम्बुद्धस्यातिक्रान्तस्य काश्यपस्यापिमहामुनेरभिसम्बुद्धस्य न भाषितम्। तत् कस्मात् हेतोः। अभव्या भगवन्तः सत्त्वा अस्य महागुह्यपदार्थस्य तेन कालेन तेन समयेन मया न भाषितम्। ....तदिहैव जन्मनि गुह्यसमाजाभिरतोबोधिसत्त्वः सर्वतथागतानां बुद्ध इति संख्यां गच्छति।
-
-
 
 purușa, Vajradhṛk, Jinajik, Ratnadhṛk, Ārolik, Prajñādhṛk, Kula,Moha, Dveṣa, Rāga, Vajra, Rati, Sampad, Yamāntakṛt, Prajñāntakṛt,Padmāntakṛt, Vighnāntakṛt, Samantacaryā, Mantracaryā, Japa,Mudraṇa, Dharmodaya, Sambara, Sattvārtha, Maṇḍala, Nyāsa, Puṣpa,Caitya, Jñanacakra, Pada, Codana, Preraṇa, Āmantraṇā, Bandhana,Abhişeka, Vidyāvrata, Pañcāmṛta, Pañcavīrya, Sāmānya-Siddhi,Uttama-Siddhi, Upāya, Upeya, etc., are some of those which are clearlydefined in the 18th chapter. This is not the place to explain theseterms and those who are interested in their interpretation would do wellto study the 18th chapter, particularly the speech of the Tathāgatain reply to a series of questions put to him by the Bodhisattvas.^(**1**)
 
@@ -235,8 +207,6 @@ four Vajras and the Uttama consists of the nectar of knowledge. Thefour Vajras a
 4\. वितर्कं च विचारं च प्रीतिश्चैव सुखं तथा।  
   चित्तस्यैकाग्रता चैव पञ्चैते ध्यानसङ्ग्रहाः॥
 
-
-
 Prīti, Sukha and Ekāgratā. Prāṇāyama is the control of the breathingprocess by which breath, which is of the nature of the five Bhūtas orelements and five kinds of knowledge, is regarded as a lump and isplaced on the tip of the nose in the form of a jewel with five coloursand is meditated upon. Dhāraṇā is the meditation of one's ownMantra on the heart, and the restraint of the jewel of the sense-organsplacing the same in the Prāṇabindu. When this is done Nimittas(signs) which are of five kinds¹ make their appearance.First in theform of Maricikā (mirage), second in that of smoke, third in that offire flies, fourth in that of a light, and fifth in the form of a constantlight like that of a cloudless sky. Anusmṛti is the constant meditationof the object for which the exercise is undertaken and by this Pratibhāṣa or revelation takes place. Through the combination of the twoelements, Prajñā and Upāya, all existing objects are meditated as onelump. Their meditation in the Bimba (lump) and the sudden attainment of transcendental knowledge is what is known as Samādhi.²
 
  In the course of further explanation of Upasādhana mention ismade that the object of Upasādhana is to visualize the deity andthis should be done for six months without any restriction as regardsfood and other desired objects. And if within this time the worshipper is unable to visualize the deity he should thrice perform thesame process.And if even then the deity does not present himselfbefore the worshipper and Bodhi is not obtained he should then commence Haṭhayoga to attain his object and by this he is certain toattain omniscience.³
@@ -255,8 +225,6 @@ Prīti, Sukha and Ekāgratā. Prāṇāyama is the control of the breathingproce
 3\. दर्शनं तु कृतेऽप्येवं साधकस्य न जायते।  
   यदा न सिध्यते बोधिर्हठयोगेन साधयेत्॥
 
-
-
 he should do so only when he fails to achieve his end by other means.Anyone who is conversant with Haṭhayoga practices will be able tosay that to become an adept in Hathayoga in all its branches willrequire several births ; those who practise it know full well that theyare unable to master it in one life-time even when he is instructed byan expert. Moreover, it is well-known that experts in Haṭhayoga donot enjoy psychic powers through Haṭhayoga practices, althoughthey are able to control their circulation, breath, voluntary andinvoluntary muscles and perform many physical feats which appearalmost superhuman. In order that the Haṭhayogins may obtainspecial spiritual powers they have to take recourse to Rājayoga or the  
 Tantras or both. Thus it appears that the followers of the *Guhyasamāja* School must be Haṭhayogins first and then take to Tāntricpractices, and when they find that Tāntric practices are unable to giveSiddhis they must take it for granted that their physical body contains certain impurities which are to be removed by means of Haṭhayoga.
 
@@ -270,8 +238,6 @@ persons from the effect of snake bite, etc., are some of the marvelsfor which pr
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\. See Chapters 13, 14, and 15 and especially.
-
-
 
 or magic circle of the five Dhyāni Buddhas, their Śaktis or counterparts and the four guardians of gates. The Lord Bodhicittavajra wasfirst requested by the distinguished members of the Assembly toreveal the *Guhyasamāja*, and in reply he said that this was so difficultthat doubts were even entertained by the Tathāgatas, not to speak ofthe Bodhisattvas who were much below them in intellectual excellence.The members of the Assembly pressed him again to do so saying thatfor the sake of the attainment of the knowledge of the Tathāgatas andfor obtaining the supernormal powers the *Guhyasamāja* may berevealed. The Lord then willingly began sitting in different Samādhis,and reciting the different Mantras by which he transformed himself inthe forms of the Tathāgatas and placed them as his replicas in thedifferent parts of the Maṇḍala or magic circle.
 
@@ -288,14 +254,10 @@ or magic circle of the five Dhyāni Buddhas, their Śaktis or counterparts and t
  The development of Bodhicitta is one of the most interestingtopics of all Mahāyāna works and as such the *Guhyasamāja* alsodevotes a chapter on the same subject. To the Tāntrics the Bodhicitta is the most important because their chief object is to developthe Bodhicitta in order to attain a variety of superhuman powersthrough Yaugic exercises. As a matter of fact, the whole Mandala ofthe five Dhyāni Buddhas in the first chapter is the creation of theBodhicitta and nothing else. It is this Maṇḍala which is capable ofgiving all powers sought for by them including the Buddhahood which  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 1.*Jñanasiddhi*, op. cit.,
 
                 पंचबुद्धस्वभावत्वात् पंचस्कन्धा जिनाः स्मृताः।  
 *also Sādhanamālā* पंचस्कन्धा पंचतथागतस्वरूपा भाव्यन्ते।
-
-
 
 according to the other methods requires millions of lives in the cycleof transmigration. But the definitions given in the second chapterof the *Guhyasamāja* are all mysteriously worded and it becomes difficultto comprehend the nature of Bodhicitta particularly for one notpractising the Yaugic exercises. When the members of the Assemblyrequested the Lord to explain the Bodhicitta, he instead of answeringthem direct asked them to originate the Citta in the form of Kāya,Kāya in the form of Citta, and the Citta by the transformation ofVāk.**¹** At this the Bodhisattvas after commingling their own Kāya,Vāk and Citta in the same way as that of the Lord, exclaimed : Howwonderful it is that though the auspicious and adamantine combination of Kāya, Vāk and Citta never originate, it is known to havean origin!**²**
 
@@ -317,14 +279,10 @@ according to the other methods requires millions of lives in the cycleof transmi
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 1. उत्पादयन्तु भवन्तः चित्तं कायाकारेण कार्य चित्ताकारेण चित्तं वाक्प्रव्याहारेणेति।
 
  2. **अहो हि समन्तभद्रस्य कायवाक्चित्तवज्रिणः।  
    अनुत्पादप्रयोगेण उत्पादोऽयं प्रगीयते॥**
-
-
 
  ’Bodhicitta is that which is without substance like the sky, andwhich constantly thinks of the existing objects as without origin, andin which there are neither objects nor their qualities.'
 
@@ -360,13 +318,9 @@ according to the other methods requires millions of lives in the cycleof transmi
  The Lord expressed great surprise and said : Oh Kulaputras !do not speak thus. The conduct I have preached is known asthe Bodhi conduct which is immutable (dharmatā), and pure, and  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 1\. In view of what has been said above Raja Rajendra Lal Mitra's remarks on the*Guhyasamāja* in his *Nepalese Buddhist Literature*, p. 261 f., can hardly be justified.His understanding of the text has no relation to the mystic nature of the work and thepractices of Yoga it inculcated.
 
  2. किमयं भगवान् सर्वतथागतस्वामी सर्वतथागतपर्षन्मण्डलमध्ये दुर्भाषितवचनोदाहारं भाषते।
-
-
 
 is considered as such by the Buddhas who have realized the trueessence (sārajñāninām), and which springs from the interpretation ofthe essential truth (sāradharmārthasambhūta).”**¹**
 
@@ -384,8 +338,6 @@ is considered as such by the Buddhas who have realized the trueessence (sārajñ
 
  3.समनन्तरसमापन्नस्य च भगवतः सर्वतथागतकायवाक्चित्ताधिपतेः प्रभया स्पष्टमात्रअथ ते बोधिसत्त्वा स्वेषु स्वेष्वासनेषु स्थिता अभूवन्।
 
-
-
 of the Lord was eminently successful and that the hostile Bodhisattvashad ultimately come round.
 
  Once again the Bodhisattvas protested when the Lord preachedin the 9th chapter that omniscience can be attained and the truth ofthe five Kulas can be realised and practised by having recourse totheft, adultery, defamation, falsehood, etc. The Bodhisattvas characterised his preachings as strange for they were not to be found in allthe worlds of sentient beings.¹ This time the Lord did not have recourse to miracles but coolly gave an explanation in words which areoften quoted as authoritative by later Tantric writers of Buddhism.
@@ -401,8 +353,6 @@ of the Lord was eminently successful and that the hostile Bodhisattvashad ultima
 
 3.तद्यथा अपि नाम कुलपुत्राः काण्डं च मथनीयं च पुरुषहस्तव्यायामं च प्रतीत्य धूमःप्रादुर्भवति। अग्निमभिवर्त्तयति स चाग्निर्न काण्डस्थितो न मथनीयस्थितो न पुरुषहस्तव्यायामस्थितः। एवमेव कुलपुत्राः सर्वतथागतवज्रसमया अनुगन्तव्याः। गमनागमनाद्यैरिति।
 
-
-
  When this speech was made by the Lord the Bodhisattvasbecame astonished and with eyes dilated in surprise recited thefollowing devotional stanza :—
 
 महाद्भुतेषु धर्मेषु आकाशसदृशेषु च।  
@@ -416,8 +366,6 @@ of the Lord was eminently successful and that the hostile Bodhisattvashad ultima
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\. Sādhanamālā, pp. 137,418,420
-
-
 
  The Lord of ghosts Aparājita¹ is also noticed in this work.In later times this Aparājita was closely associated with the deity Bhūtaḍāmara and was said to have delivered to the Lord the Hṛdaya Mantrasof all the ghosts and to have promised to do no injury and befriendly and favourable always to the people of Jambudvīpa. Thedeity Ekajaṭā² is also mentioned in the body of the book and this givesrise to certain chronological difficulties. Because, as has been shownelsewhere, Ekajaṭā Sādhana was restored from the country of Bhotaby Siddha Nāgārjuna who flourished in the middle of the seventhcentury.³ But as the present work is much earlier this difficulty can bemet by the fact that though the name Ekajaṭā was known her Sādhanawas probably unknown which was brought by Nāgārjuna from Bhoța.Or, probably the Sadhana of Ekajaṭā was known in the time of the*Guhyasamāja* but was subsequently forgotten which accounts for thenecessity of restoring the Sādhana from the country. Moreover, ithas also to be remembered that the Mantra given for Ekajațā in the*Sādhanamālā* is uniformly stated as *Hrīṁ Strīṁ Hūm* *Phat*, whereasin the *Guhyasamāja* it is given as *Oṁ* *Sūlini Svāhā.* This differencein the Mantras is a great difference and it may be surmised that theEkajaṭā of the *Guhyasamāja* and Ekajaṭā of Nāgārjuna are two quitedistinct deities without any direct connection except that they wereboth Buddhistic. Whether Nagarjuna of the Ekajaṭā Sādhana canbe identified with the famous Madhyamaka Nāgārjuna the disciple ofAśvaghosa is a question which requires to be more closely investigated in this connection. Cundā is another important deity to be mentioned in the present work.⁴ Her name appears in the earlier work,namely, the Mañjuśrīmūlakalpa⁵ and she was well-known many hundreds of years afterwards. Cundā is mentioned in the *Sikṣāsamuccaya*⁶ of Śāntideva in the 8th century and several Sādhanas devoted to herworship are recorded in the *Sādhanamālā.⁷*She used to be represented as one-faced and four-armed or as one-faced and sixteen-armed.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -437,8 +385,6 @@ of the Lord was eminently successful and that the hostile Bodhisattvashad ultima
 6\. Op. cit., p. 173.
 
 7\. Sādhanas, Nos. 129, 130, 131.
-
-
 
 Only one image of the four-armed variety has up till now beendiscovered and it belongs to the collection of an American solicitorof New York, Mr. W. B. Whitney.¹A sixteen-armed image wasinstalled as Paṭṭikerā in Bengal as we know from one of the miniatures of a Prajñāpāramitā manuscript now preserved in the Libraryof the Asiatic Society of Bengal.² A stone image of the sixteen-armed variety has been published by Professor A. Foucher in hisstudies in Buddhist Iconography.³ Another perfect image of thisdeity is to be found in the Durga temple at Kurkihar, the present siteof ancient Kukkutapāda Vihāra near Gayā.
 
@@ -462,8 +408,6 @@ deity of the Purāṇas incorporated in the Buddhist Pantheon. Theevidence of th
 
 7\. See for instance, op. cit., p. 45, where Mañjuśrī is called as Kārttikeya-mañjuśrī: द्वितीयद्वारसमीपे कार्त्तिकेयमञ्जुश्रीः मयूरासनः,etc.
 
-
-
 great Buddhist work the *Gaṇḍavyūha* makes Mañjuśrī the hero anddescribes his exploits, wonderful powers and knowledge.¹ NumerousSādhanas of this deity are to be found in the *Sādhanamālā*²and hisimages are to be seen everywhere in Sarnath. Bengal, Magadha,Tibet and Nepal and even in Japan, China and Mangolia.³
 
  Avalokiteśvara or Lokeśvara the prototype of Mañjuśrī is alsomentioned in the *Guhyasamāja* though his identity is somewhat moredifficult to establish. He sometimes appears as a deity and sometimes as one of the members of the Assembly asking questions oranswering questions very probably on behalf of the Lord of theAssembly. But Lokeśvara here is undoubtedly represented by thegreat compassionate Bodhisattva who sacrificed his emancipationuntil all the beings of the universe were delivered from their miseriesand obtained salvation. Lokeśvara is the chief figure in the *Sukhāvatī**Vyūha* where he is associated with Amitābha the Lord of the Sukhāvatīheaven. His popularity led the Buddhists of Nepal to conceiveno less than 108 different forms and is well illustrated in thenumerous sculptures found in Sarnath, Magadha, Bengal, Nepal,Tibet, Chinese and Japanese schools of art.⁴
@@ -481,8 +425,6 @@ great Buddhist work the *Gaṇḍavyūha* makes Mañjuśrī the hero anddescribe
 
 4\. Ibid. pp. 32ff.
 
-
-
 Buddhist god, the personification of Śūnya, the latter occupying amuch inferior position as the sixth Dhyāni Buddha who is supposedto be the priest of the five Dhyāni Buddhas. He was also givena Sakti, Vajrasattvātmikā, and a Bodhisattva, Ghaṇṭāpāņi, by namein exactly the same way as the five Dhyāni Buddhas were each givena Śakti and a Bodhisattva. But Vajrasattva does not appear in the*Guhyasamāja* as a Dhyāni Buddha ; here he is the same as Vajradharathe highest god of the Buddhist Pantheon the personification ofŚūnya.¹
 
  Amongst the minor gods we find mention of Ekākṣara andSumbha besides several Hindu gods occupying a minor position in theBuddhist Pantheon such as Viṣṇu, Indra, Rudra or Śiva and Śacī thewife of Indra.
@@ -494,8 +436,6 @@ Buddhist god, the personification of Śūnya, the latter occupying amuch inferio
 
 1\. Ibid. pp. xxvii ff. and p. 6f. also Vajradhara Versus Vajrasattva in the *Journal ofthe Bihar* *and Orissa Research Society,* Vol. ix, p. 114.
 
-
-
  The work was designated by the Siddhas as the *Aṣṭādaśapaṭala* showing the popularity of the *Guhyasamāja* amongst the Siddhas and thefact of its containing in all eighteen chapters only. Amongst theearlier commentaries on the *Guhyasamāja* those of Nāgārjuna (645A.D.), Kṛṣṇācārya (717 A.D.), Līlāvajra (741 A.D.), Ratnākaraśānti(978 A.D.), Sāntideva (695 A.D.) are worthy of mention. The literature including commentaries on the *Guhyasamāja* extant in Tibetantranslations in the Tangyur collection is quite extensive as can beseen from the following list : —
 
 [TABLE]
@@ -506,11 +446,7 @@ Buddhist god, the personification of Śūnya, the latter occupying amuch inferio
 
 2\. T. shows Tibetan translations.
 
-
-
 [TABLE]
-
-
 
 |                |                                                    |
 |----------------|----------------------------------------------------|
@@ -532,8 +468,6 @@ Buddhist god, the personification of Śūnya, the latter occupying amuch inferio
     p. 153 अनादिनिधनंand the same passages in *Jñānasiddhi* in *Two Vajrayānaworks* (G.O.S. No. 44) pp. 77, 77, 77, 78, 78, 78, 78, 76, 76.  
  2. For instance, in *Advayavajrasaṁgraha,* p. शून्यताबोधितो बीजं ०seems to havespecial affinity towards the verses प्रथमं शून्यताबोधिं, etc., on p. 163 of the present work.Also the verse of Advayavajra, p. 49—मन्थाने मथनीये वा न वा पुरुषहस्तयोः। प्राक्सिद्धीविद्यते वह्निःप्रतीत्यार्थः स जायते॥ has a curious resemblance to the speech of the Lord कण्डं च मथनीयं च, etc., on p. 38, which is quoted in Indrabhūti, p. 78.
 
-
-
 bhapuram in South India.It is a palm-leaf manuscript and consists of about 13,000 granthas, and written in Devanāgari characterswith ink. From its appearance the manuscript seems to be about 300to 400 years old, and the writing is perfectly clear and legible. Thecopyist of the manuscript is one Ravicandra who went out fromMadhyadeśa. This Ravicandra made a remark in the last colophonthat he had written the Kalpa of Ārya Mañjuśrī as was available, andthis shows that the original from which he copied was itself incomplete.
 
  The work among others treats of the Māntric texts of MañjuśrīKumārabhūta whom the author several times designates as Kārttikeyaand introduces him with several Śaiva but non-Tāntric deities.Details of practices which bestow long life, health and happiness andfor the attainment of all desired objects are given. The work is inthe form of a Saṅgīti and the conversations are held mostly betweenSākyamuni and Kumāra Mañjuśrī, both of them being sometimesinterrogated by the Assembly of the Faithful.
@@ -548,8 +482,6 @@ bhapuram in South India.It is a palm-leaf manuscript and consists of about 13,00
  1. Nanjio : *A Catalogue of Chinese Tripitaka,* No. 1056. Translated by Thien-si-tsaiA.D. 980-1001. 20 fasciculi, 28 chapters, p. 232-33.  
  2. Op. cit., p. 38.
 
-
-
 convenient handbook for the priests. Everything of importanceseems to have been entered in it in order that it may be of someservice to the priests for their numerous clients.
 
  The *Guhyasamāja* also is written in a Saṅgīti form and its obviousobject is to introduce the Śakti worship or legalise it for the first timein Buddhism, and for this purpose in the very first chapter it gives aMaṇḍala where the five Dhyāni Buddhas are introduced and are giveneach a Śakti. These five Dhyāni Buddhas represent the five elementsRūpa, Vedanā, Saṁjñā, Saṁskāra and Vijñāna of which the world iscomposed, and in order that these elements may be able to fulfil theircreative purpose they are given a Śakti, and this is evidently theobject for which the *Guhyasamāja* was introduced in the Assembly ofthe Faithful. It cannot be said definitely when this Tantra wascomposed, but this is certain that whenever the five Dhyāni Buddhasare met with and wherever their Śaktis are mentioned specially ingroups, it is but natural to assume that such references should bechronologically later than the time of the *Guhyasamāja*. But whenwe refer to the Sādhana of Ācārya Asaṅga the famous Yogācāraphilosopher of the Mahāyāna who flourished in the 3rd century A.D.,we find not only that all the five Dhyāni Buddhas are mentionedtogether, but their Śaktis, five in number, also appear in the sameSādhana.¹ It is, therefore, very natural to presume that the Sādhanaof Asaṅga must be later than the time of the *Guhyasamāja* which forthe first time introduced the doctrine of the five Dhyāni Buddhas andtheir Śaktis.
@@ -563,8 +495,6 @@ convenient handbook for the priests. Everything of importanceseems to have been 
 
  2. Haraprasad Shastri :Introduction to *Modern Buddhism*, p. 10.
 
-
-
  Tārānātha further tells us that the Tantras immediately afterintroduction were transmitted secretly in an uninterrupted mannerfrom preceptor to disciples for nearly 300 years¹ before they gotpublicity through the mystic teachings of the Siddhas and Vajrācāryas.Tārānātha's evidence in this respect is exceedingly important in determining the evolution of the Tāntric process. Asaṅga must haveintroduced something very objectionable, at least, seemingly so to theordinary public, and what could that possibly be if not the element ofŚakti which was introduced by him. And if, after the introduction ofTantra, it is secretly transmitted how is it possible for either the*Guhyasamāja* to draw upon the materials of Asaṅga, or for the latterto obtain them from the *Guhyasamāja* ? We can only explain thiscoincidence by holding that Asanga had something very material todo with the introduction of the *Guhyasamaja Tantra*.
 
  In every Tāntric work great importance is given to the DhyāniBuddha theory.Either they are directly mentioned or the Bījamantras or deities emanating from them are mentioned. These DhyāniBuddhas, as can be surmised from numerous references, were theoriginators of five Kulas or families, each family having a large numberof deities emanating from one particular Dhyāni Buddha. Anyonewho is acquainted with the Buddhist Tāntric works cannot fail to bestruck by the innumerable references to the Dhyāni Buddhas ; andthis theory, to say the least, is the very groundwork on which the grandstructure of the Buddhist Pantheon is built. It is but natural tosuppose that all original Tantras, at least, will mention the DhyāniBuddhas together, particularly if they are concerned with the formation of the Maṇḍala. The Maṇḍala or the magic circle is the miniatureprototype of the big Caityas, and was in vogue from the very earlytimes. To form a Maṇḍala the presiding deities of the differentdirections are necessary, and these directions are marked by placingfour Dhyāni Buddhas or their symbols in the four cardinal directionswithout assigning a place to Vairocana who is supposed to be in themiddle and, therefore, not very frequently represented.
@@ -574,8 +504,6 @@ convenient handbook for the priests. Everything of importanceseems to have been 
 
  1. See Kern : *Manual of Buddhism*, p. 133.
 
-
-
 almost every Buddhist Tāntric work. But nowhere are these DhyāniBuddhas mentioned. The obvious reason for this omission or discrepancy seems to be that the theory of the five Dhyāni Buddhas was notestablished when the *Mañjuśrīmūlakalpa* was composed. And, indeed,the *Mūlakalpa* presents an earlier stage of thought than what is foundin the *Guhyasamāja*, because we find occasionally the names ofAmitāyus, Amitābha, Locanā, Ratnaketu, Vajrapāņi, Avalokiteśvara,Māmaki, Ratnapāņi, etc., mentioned but not in a systematic form as  
 we find in the *Guhyasamāja*. In the *Guhyasamāja*, for instance, thenames of the Dhyāni Buddhas are given as Amitābha, Akṣobhya,Ratnaketu, Vairocana, and Amoghasiddhi ; the names of their Śaktisas Dveṣarati, Moharati, Īrṣyārati, Vajrarati and Rāgarati, representing the five Buddha-Śaktis Locanā, Māmakī, Tārā, Pāṇḍara andĀryatārā. It is well-known that five Bodhisattvas emanated fromthese pairs and they were known as Vajrapāņi, Padmapāņi, Ratnapāņi, Viśvapāņi, Cakrapāņi or Samantabhadra. In the *Mañjuśrīmūlakalpa* some of these figures appear but the names are not scientifically or methodically arranged as we find them in the *Guhyasamāja* orin later Tāntric works. Moreover, the *Mañjuśrīmūlakalpа* gives certainMantras which also appear in the *Guhyasamāja*. In the latter thenumber of the Mantras is five and each Dhyāni Buddha is given one,namely, Jinajik, Ārolik, Vajradhṛk, Ratnadhṛk and Prajñādhṛk. The Kulas there as usual are mentioned as five. But the *Mañjuśrīmūlakalpa* mentions something like six Mantras : as Jinajik, Ārolik, Vajradhṛk, Surārak, Yakṣātak and Pinādhṛk,¹ and associates the firstthree only with three families : Tathāgatakula, Padmakula andSarvavajrakula,² while the others are not referred to any Kula orfamily.
 
@@ -584,8 +512,6 @@ we find in the *Guhyasamāja*. In the *Guhyasamāja*, for instance, thenames of 
 
  1. Op. cit., pp. 384, 385.  
  2. *Ibid*. The portion where the names and Mantras of some of the Tathāgatasappear, seems to be the part of the original work in view of the remarks of the Editorat the top of the page. The pages of the original MS very probably got topsy-turvy.
-
-
 
 some of them are found in the work they are neither in the same formnor in the same order nor have the same number. From the evidenceof the *Mūlakalpa* it appears as if the *Mūlakalpa* offered materials tothe writer of the *Guhyasamāja* to develop upon them, and thus the*Guhyasamāja* on the strength of the evidence adduced must be precededby the *Mañjuśrīmulakalpa.*
 
@@ -602,8 +528,6 @@ some of them are found in the work they are neither in the same formnor in the s
 *a*, p. 290—  
                   **   दीनारेऽपि च निष्कोऽस्त्री.**
 
-
-
 concluded that the Dīnāras were known in India in about 400 A.D., ifnot earlier. The mention of Dīnāra in the *Mañjuśrīmūlakalpa* willlead many to think that the work cannot be earlier than 400 A.D.But as it has been already pointed out that the *Mañjuśrīmūlakalpa* asat present available is not the original but mixed up with compositions which were added to the original later on. In Nanjio's *Catalogueof the Chinese Tripitaka* we find that the work was translated intoChinese so late as the 10th century A.D., but then it had not more thantwenty-eight chapters in all, but the printed edition which is at present before us contains no less than fifty-five chapters. It may further be observed that the work was translated into Chinese in the 10th  
 century nearly 800 years after its composition, and there is, therefore,a very reasonable ground in holding that certain later additions weremade to the work which was still smaller in extent, but the originalextent of the work at present is difficult to determine.
 
@@ -611,8 +535,6 @@ century nearly 800 years after its composition, and there is, therefore,a very r
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  1. Op. cit., 316. **दीनाराणां राशीलभते . . . दीनारसहस्रं ददाति।**The 28th chaptercertainly is a later addition and must have been added during the eight hundred yearsbetween the composition of the original work and the date of its Chinese translation.
-
-
 
 CONTENTS.
 
@@ -641,8 +563,6 @@ CONTENTS.
 | Index of words                                         |
 | Index of verses                                        |
 
-
-
 श्रीगुह्यसमाजतन्त्रम्।  
 ![](../../../books_images/U-IMG-1726155412iks.PNG)
 
@@ -650,31 +570,31 @@ CONTENTS.
 
 **प्रथमः पटलः।**
 
-
-
- एवं मया श्रुतम्। एकस्मिन् समये भगवान् सर्वतथागतकायवाक्चित्त[^1]हृदयवज्रयोषिद्भगेषु**²**विजहार।अनभिलाप्यानभिलाप्यैः सर्वबुद्धक्षेत्रसुमेरुपरमाणुरजःसमैर्बोधिसत्त्वैर्महासत्त्वैः। तद्यथा। समयवज्रेण च नामबोधिसत्त्वेन महासत्त्वेन।कायवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। वाग्वज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। चित्तवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। समाधिवज्रेणच नाम बोधिसत्त्वेन महासत्त्वेन। जपवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। पृथिवीवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। [अब्व](http://॑ "B आप् º।")ज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। तेजोवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। वायुवज्रेण चनाम बोधिसत्त्वेन [महासत्त्वेन](http://॑ "B omits.")। आकाशवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। रूपवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन।शब्दवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन।गन्धवज्रेण च  
+ एवं मया श्रुतम्। एकस्मिन् समये भगवान् सर्वतथागतकायवाक्चित्त[^1]हृदयवज्रयोषिद्भगेषु**²**विजहार।अनभिलाप्यानभिलाप्यैः सर्वबुद्धक्षेत्रसुमेरुपरमाणुरजःसमैर्बोधिसत्त्वैर्महासत्त्वैः। तद्यथा। समयवज्रेण च नामबोधिसत्त्वेन महासत्त्वेन।कायवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। वाग्वज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। चित्तवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। समाधिवज्रेणच नाम बोधिसत्त्वेन महासत्त्वेन। जपवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। पृथिवीवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। [अब्व]("B आप् º।")ज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। तेजोवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। वायुवज्रेण चनाम बोधिसत्त्वेन [महासत्त्वेन]("B omits.")। आकाशवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। रूपवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन।शब्दवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन।गन्धवज्रेण च  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [^1]: " B adds º गुह्य º"
 
  **2**. The explanation of this quaint beginningis given by Indrabhūti in his Jñānasiddhi (G. O. S.) p. 53 thus :—हृदयं ज्ञानं तदेव वज्रयोषित् अभेद्यप्रज्ञास्वभावत्वात्, तदेव भगं सर्वक्लेशभञ्जनात्।
 
-
-
 नाम बोधिसत्त्वेन महासत्त्वेन। रसवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन। स्पर्शवज्रेण[^2] च नाम बोधिसत्त्वेन महासत्त्वेन।धर्मधातुवज्रेण च नाम बोधिसत्त्वेन महासत्त्वेन।
 
 [^2]: "AC प्रष्टव्यº।"
 
- एवं प्रमुखैरनभिला[प्यानभिलाप्यै](http://॑ "BC addº सर्व्व º।")र्बुद्धक्षेत्रसुमेरुपरमाणुरजःसमैर्बोधिसत्त्वैर्महासत्त्वैराकाशधातु[समाध्मातै](http://॑ "BC º ख्यातैº।")श्च
-[तथागतैः](http://॑ "A adds सर्वº।")।तद्यथा। अक्षोभ्यवज्रेण च नाम[^3] तथागतेन। वैरोचनवज्रेण च नाम[^3]तथागतेन।रत्नकेतुवज्रेण च नामतथागतेन। अमितवज्रेण[^5] च नाम[^3] तथागतेन। अमोघवज्रेण च नाम[^3]तथागतेन।
+ एवं प्रमुखैरनभिला[प्यानभिलाप्यै]("BC addº सर्व्व º।")र्बुद्धक्षेत्रसुमेरुपरमाणुरजःसमैर्बोधिसत्त्वैर्महासत्त्वैराकाशधातु[समाध्मातै]("BC º ख्यातैº।")श्च
+[तथागतैः]("A adds सर्वº।")।तद्यथा। अक्षोभ्यवज्रेण च नाम[^3] तथागतेन। वैरोचनवज्रेण च नाम[^3]तथागतेन।रत्नकेतुवज्रेण च नामतथागतेन। अमितवज्रेण[^5] च नाम[^3] तथागतेन। अमोघवज्रेण च नाम[^3]तथागतेन।
 
 [^3]: "A omits."
 
 [^5]: "Aº ताभº।"
 
- एवं प्रमुखैः सर्वाकाशधातुसमा[ध्मातै](http://॑ "BC º ख्याº।")श्च तथागतैः।तद्यथा। अपि नाम तिलबिम्बमिव परिपूर्णः सर्वाकाशधातुःसर्वतथागतैः संदृश्यते स्म।
+[^3]: "A omits."
 
- अथ भगवान् महावैरोचनस्तथा[^8]गतः सर्वतथागतमहा[रागवज्रं](http://॑ "BCº नयº।")नाम समाधिं [समापन्नः](http://॑ "Aº द्यते।") तं सर्वतथागतव्यूहंस्वकायवाक्चित्त[वज्रेषु](http://॑ "A omitsº षु।") [प्रवेशयामास](http://्र "A प्रणिधिस º। ")। अथ ते सर्वतथागता [भगवतः](http://॑ "A ° न्तः।") सर्वतथागतकायवाक्चित्तवज्राधिपतेःपरितोषणार्थं [स्वबिम्बानि](http://॑ "A° पते पवित्रो वशार्थं स्वचितानि।")स्त्रीबिम्बान्यभिनिर्माय[^9] भगवतोवैरोचनस्य कायादभिनिष्क्रान्ता[^10] अभूवन्। तत्र केचित् बुद्धलोचनाकारेण केचित् मामक्याकारेण केचित् पाण्डरवासिन्याकारेण केचित् समयताराकारेण संस्थिता अभूवन्।
+[^3]: "A omits."
+
+ एवं प्रमुखैः सर्वाकाशधातुसमा[ध्मातै]("BC º ख्याº।")श्च तथागतैः।तद्यथा। अपि नाम तिलबिम्बमिव परिपूर्णः सर्वाकाशधातुःसर्वतथागतैः संदृश्यते स्म।
+
+ अथ भगवान् महावैरोचनस्तथा[^8]गतः सर्वतथागतमहा[रागवज्रं]("BCº नयº।")नाम समाधिं [समापन्नः]("Aº द्यते।") तं सर्वतथागतव्यूहंस्वकायवाक्चित्त[वज्रेषु]("A omitsº षु।") [प्रवेशयामास](http://्र "A प्रणिधिस º। ")। अथ ते सर्वतथागता [भगवतः]("A ° न्तः।") सर्वतथागतकायवाक्चित्तवज्राधिपतेःपरितोषणार्थं [स्वबिम्बानि]("A° पते पवित्रो वशार्थं स्वचितानि।")स्त्रीबिम्बान्यभिनिर्माय[^9] भगवतोवैरोचनस्य कायादभिनिष्क्रान्ता[^10] अभूवन्। तत्र केचित् बुद्धलोचनाकारेण केचित् मामक्याकारेण केचित् पाण्डरवासिन्याकारेण केचित् समयताराकारेण संस्थिता अभूवन्।
 
 [^8]: " BCº वज्रº।"
 
@@ -684,42 +604,53 @@ CONTENTS.
 
 तत्र केचित् रूपस्वभावाकारेण केचित् शब्दस्वभावाकारेणकेचित् गन्धस्वभावाकारेण केचित् स्पर्शस्वभावाकारेणसंस्थिता अभूवन्।
 
- अथ खलु अक्षोभ्यस्त[^11]थागतः सर्वतथागतकायवाक्चित्त[हृदय](http://॑ "A omits° हृदय °।")वज्रयोषिद्भगेषु [चतुरस्रं](http://॑ "A omits.") विरजस्कं महासमयमण्डलमधिष्ठापयामास।
+ अथ खलु अक्षोभ्यस्त[^11]थागतः सर्वतथागतकायवाक्चित्त[हृदय]("A omits° हृदय °।")वज्रयोषिद्भगेषु [चतुरस्रं]("A omits.") विरजस्कं महासमयमण्डलमधिष्ठापयामास।
 
 [^11]: " BC° वज्र °।"
 
-स्वच्छं च तत्स्वभावं च [नाना](http://॑ "A° वन्ना °।")रूपं समन्ततः।  
-बुद्धमग्निसमा[^12]कीर्णं स्फुलिङ्गगहन[ज्वलम्](http://॑ "BC ° नाकुल °।")।  
+स्वच्छं च तत्स्वभावं च [नाना]("A° वन्ना °।")रूपं समन्ततः।  
+बुद्धमग्निसमा[^12]कीर्णं स्फुलिङ्गगहन[ज्वलम्]("BC ° नाकुल °।")।  
 स्वच्छादिमण्डलैर्युक्तं सर्वताथागतं पुरम् ॥
 
 [^12]: "BC ° मेघ °।"
 
- अथ भगवान् सर्वतथागतकायवाक्चित्तवज्राधिपतिःसर्वतथागतमण्डलमध्ये प्रतिष्ठापयामास। अथ खलु [अक्षोभ्य](http://॑ "BC add° वज्र °।")स्तथागतः रत्नकेतुस्तथागतः अमितायु[^13]स्तथागतःअमोघसिद्धिस्तथागतः वैरोचनस्तथागतः बोधिचित्तवज्रस्य तथागतस्य हृदयेविजहार।
+ अथ भगवान् सर्वतथागतकायवाक्चित्तवज्राधिपतिःसर्वतथागतमण्डलमध्ये प्रतिष्ठापयामास। अथ खलु [अक्षोभ्य]("BC add° वज्र °।")स्तथागतः रत्नकेतुस्तथागतः अमितायु[^13]स्तथागतःअमोघसिद्धिस्तथागतः वैरोचनस्तथागतः बोधिचित्तवज्रस्य तथागतस्य हृदयेविजहार।
 
 [^13]: "A° भ°।"
 
- अथ भगवान् बोधिचित्तवज्रस्तथागतः सर्वतथागताभिभवनवज्रंनाम समाधिं समापन्नः।समनन्तरसमापन्नस्य च सर्वतथागताधिपतेः अथायं सर्वाकाशधातुः सर्वतथागतवज्रमयः संस्थितोऽभूत्। अथ यावन्तः सर्वाकाशधातुसंस्थिताः सर्वसत्त्वाः सर्वे [च](http://॑ "A omits.") [तेन](http://॑ " A ते।")वज्रसत्त्वाधिष्ठानेन सर्वतथागतसुखसौमनस्यलाभिनोऽभूवन्।
+[^13]: "A° भ°।"
 
- अथ भगवान् बोधिचित्तवज्रस्तथागतः सर्वतथागतकायवाक्चित्तवज्रसमयोद्भव[वज्रं](http://॑ "A ° द्भवं।")नाम समाधिं समापद्येमां महाविद्यापुरुषमूर्तिं सर्वतथागतसत्त्वाधिष्ठानमधिष्ठापयामास।समनन्तराधिष्ठितमात्रे स एव भगवान् बोधिचित्तवज्रस्तथागतस्त्रिमुखाकारेण सर्वतथागतैः सन्दृश्यते स्म।
+[^13]: "A° भ°।"
 
- अथ अक्षोभ्यप्रमुखाः सर्वतथागता भगवतो बोधिचित्त[वज्रस्य](http://॑ "AB वैरोचनस्य।")हृदयादभिनिष्क्रम्य इदमुदानमुदान[^14]यामासुः—
+ अथ भगवान् बोधिचित्तवज्रस्तथागतः सर्वतथागताभिभवनवज्रंनाम समाधिं समापन्नः।समनन्तरसमापन्नस्य च सर्वतथागताधिपतेः अथायं सर्वाकाशधातुः सर्वतथागतवज्रमयः संस्थितोऽभूत्। अथ यावन्तः सर्वाकाशधातुसंस्थिताः सर्वसत्त्वाः सर्वे [च]("A omits.") [तेन](" A ते।")वज्रसत्त्वाधिष्ठानेन सर्वतथागतसुखसौमनस्यलाभिनोऽभूवन्।
+
+ अथ भगवान् बोधिचित्तवज्रस्तथागतः सर्वतथागतकायवाक्चित्तवज्रसमयोद्भव[वज्रं]("A ° द्भवं।")नाम समाधिं समापद्येमां महाविद्यापुरुषमूर्तिं सर्वतथागतसत्त्वाधिष्ठानमधिष्ठापयामास।समनन्तराधिष्ठितमात्रे स एव भगवान् बोधिचित्तवज्रस्तथागतस्त्रिमुखाकारेण सर्वतथागतैः सन्दृश्यते स्म।
+
+ अथ अक्षोभ्यप्रमुखाः सर्वतथागता भगवतो बोधिचित्त[वज्रस्य]("AB वैरोचनस्य।")हृदयादभिनिष्क्रम्य इदमुदानमुदान[^14]यामासुः—
 
 [^14]: "A omits° मुदान°।"
 
 अहो हि सर्वबुद्धानां बोधिचित्तप्रवर्त्तनम्।  
 सर्वताथागतं गुह्यं अप्रतर्क्यमनाविलम्॥ इति॥
 
- अथ भगवन्तः सर्वतथागताः [पुनः](http://॑ "A पूत°।") समाजमागम्य भगवन्तंबोधिचित्तवज्रंसर्वतथागतपूजा[स्फरण](http://॑ "A °स्थलेन।")समयतत्त्वरत्न[मेघैः](http://॑ "A ° मयैः।")सम्पूज्य प्रणिपत्यैवमाहुः—
+ अथ भगवन्तः सर्वतथागताः [पुनः]("A पूत°।") समाजमागम्य भगवन्तंबोधिचित्तवज्रंसर्वतथागतपूजा[स्फरण]("A °स्थलेन।")समयतत्त्वरत्न[मेघैः]("A ° मयैः।")सम्पूज्य प्रणिपत्यैवमाहुः—
 
-भाषस्वभगवन् [तत्त्वं](http://॑ "A त्व °।")वज्रसारसमुच्चयम्।  
+भाषस्वभगवन् [तत्त्वं]("A त्व °।")वज्रसारसमुच्चयम्।  
 सर्वताथागतं गुह्यं समाजं गुह्यसम्भवम्॥ इति॥
 
-
-अथ[^3]भगवान्[^3]बोधिचित्तवज्रस्तथागतस्तान् सर्वतथागतान्एवमाह। साधु साधु भगवन्तः सर्वतथागताः[^3]।[किन्तु](http://॑ "A addsसाधु साधु वज्रपाणि, साधु साधु गुणाकर सर्वतथागतान्।")सर्वतथागतानामपि संशयकरोऽयं कुतोऽन्येषां बोधिसत्त्वानामिति।
+अथ[^3]भगवान्[^3]बोधिचित्तवज्रस्तथागतस्तान् सर्वतथागतान्एवमाह। साधु साधु भगवन्तः सर्वतथागताः[^3]।[किन्तु]("A addsसाधु साधु वज्रपाणि, साधु साधु गुणाकर सर्वतथागतान्।")सर्वतथागतानामपि संशयकरोऽयं कुतोऽन्येषां बोधिसत्त्वानामिति।
 
 [^3]: "A omits."
 
- अथ भगवन्तः सर्वतथागताः आश्चर्यप्राप्ताः अद्भुतप्राप्ताः।सर्वतथागतसंशय[^18]च्छेत्तारं भगवन्तं सर्वतथागतस्वामिनंपप्रच्छुः। यद्भगवानेवंगुणविशिष्टेऽपि सर्वतथागतपर्षदि[^19]सर्व[तथागत](http://॑ "A ° ताभिषेक °। ")कायवाक्चित्त[गुह्यं](http://॑ "B adds. ° वज्र °।")निर्देष्टुं नोत्सहते [तद्भगवान्](http://॑ "A ततो।")सर्वतथागताधिष्ठानं कृत्वासर्वतथागतवज्रसमयसम्भवपदैः सर्वतथागतानां सुखसौमनस्यानुभा[^13]वनार्थं यावत्सर्वतथागतज्ञानाभिज्ञावाप्तिफल[हेतोः](http://॑ "A दाताः।") संप्रकाशयत्विति।
+[^3]: "A omits."
+
+[^3]: "A omits."
+
+ अथ भगवन्तः सर्वतथागताः आश्चर्यप्राप्ताः अद्भुतप्राप्ताः।सर्वतथागतसंशय[^18]च्छेत्तारं भगवन्तं सर्वतथागतस्वामिनंपप्रच्छुः। यद्भगवानेवंगुणविशिष्टेऽपि सर्वतथागतपर्षदि[^19]सर्व[तथागत]("A ° ताभिषेक °। ")कायवाक्चित्त[गुह्यं]("B adds. ° वज्र °।")निर्देष्टुं नोत्सहते [तद्भगवान्]("A ततो।")सर्वतथागताधिष्ठानं कृत्वासर्वतथागतवज्रसमयसम्भवपदैः सर्वतथागतानां सुखसौमनस्यानुभा[^13]वनार्थं यावत्सर्वतथागतज्ञानाभिज्ञावाप्तिफल[हेतोः]("A दाताः।") संप्रकाशयत्विति।
+
+[^13]: "A° भ°।"
+
+[^13]: "A° भ°।"
 
 [^13]: "A° भ°।"
 
@@ -727,26 +658,26 @@ CONTENTS.
 
 [^19]: "B omits. "
 
- अथ भगवान् सर्व[तथागत](http://॑ "A adds.°गुह्य°।")कायवाक्चित्त[वज्र](http://॑ "ABomits° वज्र°।")स्तथागतःसर्वतथागताध्येषणां विदित्वा ज्ञानप्रदीपवज्रं नाम समाधिंसमापद्येदं द्वेषकुलपरमसारहृदयं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास॥ वज्रधृक्॥अथास्मिन् भाषितमात्रे[^21]स [एव](http://॑ "A समय।") भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषः अक्षोभ्यमहामुद्रासंयोगपरमपदैः कृष्णसितरक्ताकारेण सर्वतथागतकायवाक्चित्तवज्रस्य सर्वतथागतकायवाक्चित्त[वज्रे](http://॑ " A ° ज्रेभ्यो।")निषीदयामास।
+ अथ भगवान् सर्व[तथागत]("A adds.°गुह्य°।")कायवाक्चित्त[वज्र]("ABomits° वज्र°।")स्तथागतःसर्वतथागताध्येषणां विदित्वा ज्ञानप्रदीपवज्रं नाम समाधिंसमापद्येदं द्वेषकुलपरमसारहृदयं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास॥ वज्रधृक्॥अथास्मिन् भाषितमात्रे[^21]स [एव]("A समय।") भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषः अक्षोभ्यमहामुद्रासंयोगपरमपदैः कृष्णसितरक्ताकारेण सर्वतथागतकायवाक्चित्तवज्रस्य सर्वतथागतकायवाक्चित्त[वज्रे](" A ° ज्रेभ्यो।")निषीदयामास।
 
 [^21]: "B° त्रेण°।"
 
- अथ भगवान् सर्वतथागतसमयसम्भववज्रं नाम समाधिंसमापद्येदं मोहकुल[परम](http://॑ "B omits° परम°।")सारहृदयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ जिनजिक्॥ अथास्मिन् भाषितमात्रे स एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषो वैरोचनमहामुद्रासंयोगपरम[पदैः](http://॑ "BC° पदेन।") सितकृष्णरक्ताकारेण सर्वतथागतकायवाक्चित्त[वज्रस्य](http://॑ "B° ज्रेभ्यो। There is a break in Ms C up to॥ रत्नधृक्॥") पुरतो निषीदयामास।
+ अथ भगवान् सर्वतथागतसमयसम्भववज्रं नाम समाधिंसमापद्येदं मोहकुल[परम]("B omits° परम°।")सारहृदयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ जिनजिक्॥ अथास्मिन् भाषितमात्रे स एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषो वैरोचनमहामुद्रासंयोगपरम[पदैः]("BC° पदेन।") सितकृष्णरक्ताकारेण सर्वतथागतकायवाक्चित्त[वज्रस्य]("B° ज्रेभ्यो। There is a break in Ms C up to॥ रत्नधृक्॥") पुरतो निषीदयामास।
 
- अथ भगवान् सर्वतथागतरत्नसम्भववज्रश्रियं नामसमाधिं समापदोदं चिन्तामणिकुल[^22]परमसारहृदयं स्वकायवाक्चित्त[वज्रेभ्यो](http://॑ "A omits ° वज्रेभ्यो......वाक्चित्त °।")निश्चारयामास॥ रत्नधृक्॥ अथास्मिन्भाषितमात्रेस एव भगवान् सर्वतथागतकायवाक्चित्तविद्या-पुरुषो रत्नकेतुमहामुद्रासंयोगपरमपदैः पीतसितकृष्णाकारेणसर्वतथागतकायवाक्चित्तवज्रस्य दक्षिणे निषीदयामास।
+ अथ भगवान् सर्वतथागतरत्नसम्भववज्रश्रियं नामसमाधिं समापदोदं चिन्तामणिकुल[^22]परमसारहृदयं स्वकायवाक्चित्त[वज्रेभ्यो]("A omits ° वज्रेभ्यो......वाक्चित्त °।")निश्चारयामास॥ रत्नधृक्॥ अथास्मिन्भाषितमात्रेस एव भगवान् सर्वतथागतकायवाक्चित्तविद्या-पुरुषो रत्नकेतुमहामुद्रासंयोगपरमपदैः पीतसितकृष्णाकारेणसर्वतथागतकायवाक्चित्तवज्रस्य दक्षिणे निषीदयामास।
 
 [^22]: "A adds° मन्त्र°।"
 
- अथ भगवान् सर्वतथागतमहाराग[^23]संभववज्रं नामसमाधिं समापद्येदं वज्र[रागकुल](http://॑ " A adds ° मन्त्र °।")परमसारहृदयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास। आरोलिक्॥ अथास्मिन्भाषितमात्रे[स](http://॑ "° त्रए°।") एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषोलोकेश्वरमहाविद्याधिपतिमहामुद्रासंयोगपरम[पदै](http://॑ "B ° देन।")रक्तसितकृष्णाकारेणसर्वतथागतकायवाक्चित्तवज्रस्य पृष्ठतो निषीदयामास।
+ अथ भगवान् सर्वतथागतमहाराग[^23]संभववज्रं नामसमाधिं समापद्येदं वज्र[रागकुल](" A adds ° मन्त्र °।")परमसारहृदयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास। आरोलिक्॥ अथास्मिन्भाषितमात्रे[स]("° त्रए°।") एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषोलोकेश्वरमहाविद्याधिपतिमहामुद्रासंयोगपरम[पदै]("B ° देन।")रक्तसितकृष्णाकारेणसर्वतथागतकायवाक्चित्तवज्रस्य पृष्ठतो निषीदयामास।
 
 [^23]: " A adds° समय°I"
 
- अथ भगवान्सर्वतथागतामोघसमयसम्भववज्रं नामसमाधिं समापद्येदं समया[कर्षणकुल](http://॑ "A adds° मन्त्र°।")परमसारहृदयं स्व[कायवाक्चि](http://॑ "A ° वाक्काय°।")त्तवज्रेभ्यो निश्चारयामास। प्रज्ञाधृक्॥ अथास्मिन्भाषितमात्रे स एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषोऽमोघवज्र[महा](http://॑ " A omits° महा°।")मुद्रासंयोगपरम[पदैः](http://॑ "BC ° देन।")हरितसितकृष्णाकारेण सर्वतथागतकायवाक्चित्तवज्रस्य उत्तरे निषीदयामास।
+ अथ भगवान्सर्वतथागतामोघसमयसम्भववज्रं नामसमाधिं समापद्येदं समया[कर्षणकुल]("A adds° मन्त्र°।")परमसारहृदयं स्व[कायवाक्चि]("A ° वाक्काय°।")त्तवज्रेभ्यो निश्चारयामास। प्रज्ञाधृक्॥ अथास्मिन्भाषितमात्रे स एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषोऽमोघवज्र[महा](" A omits° महा°।")मुद्रासंयोगपरम[पदैः]("BC ° देन।")हरितसितकृष्णाकारेण सर्वतथागतकायवाक्चित्तवज्रस्य उत्तरे निषीदयामास।
 
 द्वेषमोहस्तथा रागश्चिन्तामणिसमयस्तथा।  
-कुला ह्येते तु वै पञ्च काममोक्ष[प्रसाधकाः](http://॑ "A ° प्रेष्यकाः।")॥ इति॥
+कुला ह्येते तु वै पञ्च काममोक्ष[प्रसाधकाः]("A ° प्रेष्यकाः।")॥ इति॥
 
- अथ भगवान् सर्व[तथागत](http://॑ "B omits. ")[वज्र](http://॑ "A ° वज्रान्ध°।")धरानु[राग](http://॑ "B° गे°।")ण[समयं](http://॑ "A adds सम्भववज्र ° only।")नाम समाधिं समापद्येमां सर्ववज्रधराग्र[महिषीं](http://॑ "A° महिषि °, Bमहर्षि।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास। द्वेषरति॥ अथास्यां विनिःसृतमात्रायां स एव भगवान् सर्वतथागतकायवाक्चित्त[विद्या](http://॑ "B omits ° विद्या °।")पुरुषः स्त्रीरूपधरो भूत्वा \[सर्वतथागतकायवाक्चित्तवज्रे\]^(**2**) निषीदयामास।
+ अथ भगवान् सर्व[तथागत]("B omits. ")[वज्र]("A ° वज्रान्ध°।")धरानु[राग]("B° गे°।")ण[समयं]("A adds सम्भववज्र ° only।")नाम समाधिं समापद्येमां सर्ववज्रधराग्र[महिषीं]("A° महिषि °, Bमहर्षि।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास। द्वेषरति॥ अथास्यां विनिःसृतमात्रायां स एव भगवान् सर्वतथागतकायवाक्चित्त[विद्या]("B omits ° विद्या °।")पुरुषः स्त्रीरूपधरो भूत्वा \[सर्वतथागतकायवाक्चित्तवज्रे\]^(**2**) निषीदयामास।
 
 ![](../../../books_images/U-IMG-1727360357Screenshot2024-09-26194855.png)
 
@@ -754,8 +685,6 @@ CONTENTS.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ** 2**. A दक्षिणकोणे, BC पूर्व्वकोणे, both ofwhich seem to be incorrect. द्वेषरतिbeing the consort of Akṣobhyamust be in the middle of the Cakra or the magic circle.
-
-
 
 एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषः स्त्रीरूपधरोभूत्वा पूर्वकोणे[^24] निषीदयामास।
 
@@ -767,20 +696,18 @@ CONTENTS.
 
 [^25]: "A adds ° तथागत°।"
 
- अथ भगवान् सर्वतथागतकायवाक्चित्तविसम्बादनवज्रंनाम समाधिं समापद्येमां सर्वतथागतप्रज्ञाधराग्रमहिषींस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ वज्ररति॥ अथास्यांविनिःसृतमात्रायां स एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषः स्त्रीरूपधरो भूत्वा उत्तरकोणे [निषीदयामास।](http://॑ "AC add सर्वतथागताग्रमहिषीसम्पत्।")
+ अथ भगवान् सर्वतथागतकायवाक्चित्तविसम्बादनवज्रंनाम समाधिं समापद्येमां सर्वतथागतप्रज्ञाधराग्रमहिषींस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ वज्ररति॥ अथास्यांविनिःसृतमात्रायां स एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषः स्त्रीरूपधरो भूत्वा उत्तरकोणे [निषीदयामास।]("AC add सर्वतथागताग्रमहिषीसम्पत्।")
 
- अथ भगवान् महावैरोचनवज्रं नाम समाधिं समापद्येदंसर्वतथागतमण्डलाधिष्ठानं [नाम](http://॑ " B omits.")महाक्रोधं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ यमान्तकृत् ॥ अथास्मिन् विनिःसृत-  
+ अथ भगवान् महावैरोचनवज्रं नाम समाधिं समापद्येदंसर्वतथागतमण्डलाधिष्ठानं [नाम](" B omits.")महाक्रोधं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ यमान्तकृत् ॥ अथास्मिन् विनिःसृत-  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  **2**. The diagram (fig 1.) will show clearlythat a long portion (of which a conjectural restoration is given here)must have been omitted by the copyists.
 
-
-
 मात्रेस एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषःसर्वतथागतसन्त्रासनाकारेण पूर्वद्वारे निषीदयामास।
 
- अथ भगवान् सर्वतथागताभि[सम्बोधि](http://॑ "A adds°नय°।")वज्रं नाम समाधिंसमापद्येमं सर्वतथागतमण्डलाधिष्ठानं [नाम](http://॑ "B omits.")[महाक्रोधं](http://॑ " A adds वज्रं।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ प्रज्ञान्तकृत्॥अथास्मिन् विनिःसृतमात्रे स एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषो वज्रसमयसन्त्रासनाकारेण दक्षिणद्वारे निषीदयामास।
+ अथ भगवान् सर्वतथागताभि[सम्बोधि]("A adds°नय°।")वज्रं नाम समाधिंसमापद्येमं सर्वतथागतमण्डलाधिष्ठानं [नाम]("B omits.")[महाक्रोधं](" A adds वज्रं।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ प्रज्ञान्तकृत्॥अथास्मिन् विनिःसृतमात्रे स एव भगवान् सर्वतथागतकायवाक्चित्तविद्यापुरुषो वज्रसमयसन्त्रासनाकारेण दक्षिणद्वारे निषीदयामास।
 
- अथ भगवान् सर्वतथागतधर्म[वशङ्करिं](http://॑ "AB° रत्नाकरं।")नाम समाधिंसमापद्येमं सर्वतथागत[रागधर](http://॑ "A ° र्म°।")मण्डलाधिष्ठानं नाम महाक्रोधंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ पद्मान्तकृत्॥अथास्मिन् विनिःसृतमात्रे स एव भगवान् सर्व[तथागत](http://॑ "B omits.")कायवाक्चित्तविद्यापुरुषः सर्वतथागतवागाकारेण पश्चिमद्वारेनिषीदयामास।
+ अथ भगवान् सर्वतथागतधर्म[वशङ्करिं]("AB° रत्नाकरं।")नाम समाधिंसमापद्येमं सर्वतथागत[रागधर]("A ° र्म°।")मण्डलाधिष्ठानं नाम महाक्रोधंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥ पद्मान्तकृत्॥अथास्मिन् विनिःसृतमात्रे स एव भगवान् सर्व[तथागत]("B omits.")कायवाक्चित्तविद्यापुरुषः सर्वतथागतवागाकारेण पश्चिमद्वारेनिषीदयामास।
 
  अथ भगवान् सर्वतथागतकायवाक्चित्तवज्रं नामसमाधिं समापद्येमं सर्वतथागतकायवाक्
 
@@ -790,15 +717,13 @@ CONTENTS.
 
 भ्यो निश्चारयामास॥ विघ्नान्तकृत्॥ अथास्मिन् विनिःसृतमात्रे स एव भगवान्सर्वतथागतकायवाक्चि
 
-त्तविद्यापुरुषः सर्वतथागतकायवा[क्चित्ता](http://॑ "B ° त्तवज्रा°।")
+त्तविद्यापुरुषः सर्वतथागतकायवा[क्चित्ता]("B ° त्तवज्रा°।")
 
 कारेण उत्तरद्वारे निषी
 
 दयामास।
 
  सर्वतथागतकायवाक्चित्तसम्भाषणमण्डलसमयसत्त्वाः।
-
-
 
 **इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजे महागुह्यतन्त्रराजे¹  
 सर्वतथागतसमाधिमण्डलाधिष्ठानपटलः प्रथमोऽध्यायः।**
@@ -807,48 +732,46 @@ CONTENTS.
 
 ** 1**. From the colophons of the Chapters V and VI where theepithets महागुह्यतन्त्रराजे and ^(०)रहस्यातिरहस्ये occurs, this seems to thefull and the correct title of the book. Uniformity in this respect hasbeen secured in all places and different or incomplete readings arenot noted.
 
-
-
- अथ भगवन्तः सर्व[तथागताः](http://॑ " B ° त °।") भगवतः सर्वतथागतकायवाक्चित्ताधिपतेः पूजां कृत्वा प्रणि[पत्यैव](http://॑ "A कृत्वैव °।")माहुः—
+ अथ भगवन्तः सर्व[तथागताः](" B ° त °।") भगवतः सर्वतथागतकायवाक्चित्ताधिपतेः पूजां कृत्वा प्रणि[पत्यैव]("A कृत्वैव °।")माहुः—
 
 भाषस्वभगवन् सारं कायवाक्चित्तमुत्तमम्।  
 सर्वताथागतं गुह्यं बोधिचित्तमनुत्तरम्॥
 
- अथ भगवान् सर्वतथागतकायवाक्चित्तवज्रस्तथागतःसर्वतथागतानामध्येषणां विदित्वा सर्वबोधिसत्त्वानां चेतसैवचित्तपरि[वितर्क](http://॑ " A चैतक °‚ C चेतः परिचितकर्मा °।")माज्ञाय बोधिसत्त्वानेवं आह।[उत्पादयन्तु](http://॑ "A° न्।")[भवन्तः](http://॑ "Bभगवन्।") चित्तं कायाकारेण कायंचित्ताकारेण चित्तं वाक्प्रव्याहारेणेति।
+ अथ भगवान् सर्वतथागतकायवाक्चित्तवज्रस्तथागतःसर्वतथागतानामध्येषणां विदित्वा सर्वबोधिसत्त्वानां चेतसैवचित्तपरि[वितर्क](" A चैतक °‚ C चेतः परिचितकर्मा °।")माज्ञाय बोधिसत्त्वानेवं आह।[उत्पादयन्तु]("A° न्।")[भवन्तः]("Bभगवन्।") चित्तं कायाकारेण कायंचित्ताकारेण चित्तं वाक्प्रव्याहारेणेति।
 
  अथ ते महाबोधिसत्त्वाःसर्वतथागतकायवाक्चित्ताकाशाकारेण संयोज्य इदमुदानमुदानयामासुः[^26]—
 
 [^26]: "A° नयामास। "
 
 अहो हि समन्तभद्रस्य कायवाक्चित्तबज्रिणः।  
-अनुत्पादप्रयोगेण उत्पादोयं [प्रगीयते](http://॑ " B ° मी °।")॥
+अनुत्पादप्रयोगेण उत्पादोयं [प्रगीयते](" B ° मी °।")॥
 
- अथ भगवान् सर्वतथागतकायवाक्चित्तवज्रस्तथागतः सर्वतथागताभिस[म्बोधिनय](http://॑ "A omits. ° नय°।")वज्रं नामसमाधिं समापद्येदं बोधिचित्तमुदाजहार। —
+ अथ भगवान् सर्वतथागतकायवाक्चित्तवज्रस्तथागतः सर्वतथागताभिस[म्बोधिनय]("A omits. ° नय°।")वज्रं नामसमाधिं समापद्येदं बोधिचित्तमुदाजहार। —
 
-[अभावे](http://॑ "A° वि।")भाव[नाभावो](http://॑ " A omits.") भावना नैव भावना।  
-इति भावो न [भावः](http://॑ "A ° वाः।")स्याद् भावना नोपलभ्यते॥
+[अभावे]("A° वि।")भाव[नाभावो](" A omits.") भावना नैव भावना।  
+इति भावो न [भावः]("A ° वाः।")स्याद् भावना नोपलभ्यते॥
 
 इत्याह भगवान् सर्वतथागतकायवाक्चित्तवज्रस्तथागतः।
 
- अथ भगवान् वैरोचनवज्रस्तथागतः सर्वतथागताभिसमयवज्रं नाम समाधिं समापद्येदं बोधिचित्तमुदाजहार। सर्वभावविगतं स्कन्धधात्वायतनग्राह्यग्राहकवर्जितं धर्मनैरात्म्य[समतया](http://॑ "B° मय°।") स्वचित्तमाद्यनुत्पन्नं[^27] शून्यताभावम्। इत्याह भगवान्वैरोचनवज्रस्तथागतः।
+ अथ भगवान् वैरोचनवज्रस्तथागतः सर्वतथागताभिसमयवज्रं नाम समाधिं समापद्येदं बोधिचित्तमुदाजहार। सर्वभावविगतं स्कन्धधात्वायतनग्राह्यग्राहकवर्जितं धर्मनैरात्म्य[समतया]("B° मय°।") स्वचित्तमाद्यनुत्पन्नं[^27] शून्यताभावम्। इत्याह भगवान्वैरोचनवज्रस्तथागतः।
 
 [^27]: "B° मु°।"
 
- अथ भगवानक्षोभ्यवज्र[स्तथागतः](http://॑ "A omits this portion.") सर्वतथागताक्षयवज्रं नामसमाधिं समापद्येदं बोधिचित्तमुदाजहार—
+ अथ भगवानक्षोभ्यवज्र[स्तथागतः]("A omits this portion.") सर्वतथागताक्षयवज्रं नामसमाधिं समापद्येदं बोधिचित्तमुदाजहार—
 
-अनुत्पन्ना इमे भावा न धर्मा न [च](http://॑ "Bधर्माधर्मान") धर्मता।  
+अनुत्पन्ना इमे भावा न धर्मा न [च]("Bधर्माधर्मान") धर्मता।  
 आकाशमिव नैरात्म्यमिदं बोधिनयं दृढ़म्॥
 
 इत्याह भगवानक्षोभ्यवज्रस्तथागतः।
 
  अथ भगवान् रत्नकेतुवज्रस्तथागतः सर्वतथागतनैरात्म्यवज्रं नाम समाधिं समापद्येदं बोधिचित्तमुदाजहार—
 
-अभावाः सर्व[धर्मास्ते](http://॑ " A ° र्मेभ्यो।")धर्मलक्षणवर्जिताः।  
+अभावाः सर्व[धर्मास्ते](" A ° र्मेभ्यो।")धर्मलक्षणवर्जिताः।  
 धर्मनैरात्म्यसम्भूता इदं बोधिनयं दृढ़म्॥
 
 इत्याह भगवान् रत्नकेतुवज्रस्तथागतः।
 
- अथ भगवानमिता[युर्व](http://॑ "A ° भव°।")ज्रस्तथागतः सर्व[तथागत](http://॑ " B omits.")ज्ञानार्चिःप्रदीपवज्रं नाम [समाधिं](http://॑ "A breaks here and resumes after the śloka which follows.") समापद्येदं बोधिचित्तमुदाजहार—
+ अथ भगवानमिता[युर्व]("A ° भव°।")ज्रस्तथागतः सर्व[तथागत](" B omits.")ज्ञानार्चिःप्रदीपवज्रं नाम [समाधिं]("A breaks here and resumes after the śloka which follows.") समापद्येदं बोधिचित्तमुदाजहार—
 
 अनुत्पन्नेषु धर्मेषु न भावो न च भावना।  
 आकाशपदयोगेन इति भावः प्रगीयते॥
@@ -857,32 +780,30 @@ CONTENTS.
 
  अथ भगवानमोघसिद्धिवज्रस्तथागतः सर्वतथागताभिभवनवज्रं नाम समाधिं समापद्येदं बोधिचित्तमुदाजहार—
 
-प्रकृतिप्रभास्वरा [धर्माः](http://॑ "A ° न्।") [सुवि](http://॑ "A आदि °।")शुद्धा नभःसमाः।  
+प्रकृतिप्रभास्वरा [धर्माः]("A ° न्।") [सुवि]("A आदि °।")शुद्धा नभःसमाः।  
 
-न [बोधिर्नाभि](http://॑ "C सत्त्वाभि °।")समयमिदं बोधिनयं दृढ़म्॥
+न [बोधिर्नाभि]("C सत्त्वाभि °।")समयमिदं बोधिनयं दृढ़म्॥
 
 इत्याह भगवानमोघसिद्धिवज्रस्तथागतः।
 
- अथ खलु मैत्रेयप्रमुखा महाबोधिसत्त्वाः सर्वतथागतकायवाक्चित्तगुह्यधर्म[तत्त्वाक्षरं](http://॑ "°B सत्त्वाक्षरं,A तत्त्वसन्धिः।") श्रुत्वा आश्चर्यप्राप्ताः अद्भुतप्राप्ता इदमुदान[मुदान](http://॑ "A omits ° मुदान °।")यामासुः।
+ अथ खलु मैत्रेयप्रमुखा महाबोधिसत्त्वाः सर्वतथागतकायवाक्चित्तगुह्यधर्म[तत्त्वाक्षरं]("°B सत्त्वाक्षरं,A तत्त्वसन्धिः।") श्रुत्वा आश्चर्यप्राप्ताः अद्भुतप्राप्ता इदमुदान[मुदान]("A omits ° मुदान °।")यामासुः।
 
-अहो बुद्ध अहो धर्म अहो [सङ्घस्य](http://॑ "B धर्म °।")देशना।  
-शुद्धतत्त्वार्थ [शुद्धार्थ](http://॑ "A omits ° शुद्धार्थ।")बोधिचित्त नमोऽस्तु ते॥
+अहो बुद्ध अहो धर्म अहो [सङ्घस्य]("B धर्म °।")देशना।  
+शुद्धतत्त्वार्थ [शुद्धार्थ]("A omits ° शुद्धार्थ।")बोधिचित्त नमोऽस्तु ते॥
 
-धर्मनैरात्म्यसम्भूत बुद्धबोधि[प्रपूर](http://॑ "B° पा °।")क।  
+धर्मनैरात्म्यसम्भूत बुद्धबोधि[प्रपूर]("B° पा °।")क।  
 निर्विकल्प निरालम्ब बोधिचित्त नमोऽस्तु ते॥
 
-समन्तभद्र [सत्त्वार्थ](http://॑ "AC सर्वार्थ।")बोधिचित्तप्रवर्त्तक।  
+समन्तभद्र [सत्त्वार्थ]("AC सर्वार्थ।")बोधिचित्तप्रवर्त्तक।  
 बोधिचर्य महावज्र बोधिचित्त नमोऽस्तु ते॥
 
-चित्तं ताथागतं शुद्धं कायवाक्चित्त[वज्रधृक्](http://॑ " B ° वज्रिणः। ")।  
-बुद्धबोधि[प्रदाता](http://॑ "A प्रणेता, B प्रणीता৷") च बोधिचित्त नमोऽस्तु ते॥
+चित्तं ताथागतं शुद्धं कायवाक्चित्त[वज्रधृक्](" B ° वज्रिणः। ")।  
+बुद्धबोधि[प्रदाता]("A प्रणेता, B प्रणीता৷") च बोधिचित्त नमोऽस्तु ते॥
 
-
-
-इति सर्वतथागतकाय[वाक्चित्त](http://॑ "A adds° गुह्य °।")रहस्यातिरहस्ये गुह्यसमाजे  
+इति सर्वतथागतकाय[वाक्चित्त]("A adds° गुह्य °।")रहस्यातिरहस्ये गुह्यसमाजे  
 महागुह्यतन्त्रराजे बोधिचित्तपटलो द्वितीयोऽध्यायः।
 
- अथ भगवान् [कायवाक्चि](http://॑ "AB add सर्वतथागतगुह्य °।")त्तवज्रस्तथागतः सर्वतथागतस्फरण[मेघ](http://॑ " A° वज्र °।")व्यूहं नाम समाधिं समापद्येदं वज्रव्यूहं नाम[समाधि](http://॑ "A संश।")पटलसुदाजहार॥ ओं शून्यताज्ञानवज्रस्वभावात्मकोऽहम्॥
+ अथ भगवान् [कायवाक्चि]("AB add सर्वतथागतगुह्य °।")त्तवज्रस्तथागतः सर्वतथागतस्फरण[मेघ](" A° वज्र °।")व्यूहं नाम समाधिं समापद्येदं वज्रव्यूहं नाम[समाधि]("A संश।")पटलसुदाजहार॥ ओं शून्यताज्ञानवज्रस्वभावात्मकोऽहम्॥
 
 आकाशधातुमध्यस्थं भावयेद् बुद्धमण्डलम्।  
 रश्मिमेघमहाव्यूहं बुद्धज्वालासमप्रभम्॥
@@ -890,14 +811,14 @@ CONTENTS.
 पञ्चरश्मिसमाकीर्णं समन्तात् परिमण्डलम्।  
 पञ्चकामगुणाकीर्णं पञ्चोपहारमण्डितम्॥
 
-भावयित्वा समासेन [बिम्ब](http://॑ "° श्व ° ।")मध्ये विभावयेत्॥
+भावयित्वा समासेन [बिम्ब]("° श्व ° ।")मध्ये विभावयेत्॥
 
 वैरोचनमहामुद्रां कायवाक्चित्तलक्षिताम्।  
 
-कायवाक्चित्तवज्रस्य मुद्रां [वाऽथ](http://॑ " A चार्थ °।")विभावयेत्॥
+कायवाक्चित्तवज्रस्य मुद्रां [वाऽथ](" A चार्थ °।")विभावयेत्॥
 
 अक्षोभ्यप्रवरां मुद्रां सम्भारद्वययोगतः।  
-रत्नकेतुमहामुद्राममितायुःप्रभा[करीम्](http://॑ "A ° ली °।")॥
+रत्नकेतुमहामुद्राममितायुःप्रभा[करीम्]("A ° ली °।")॥
 
 अमोघसिद्धिमहामुद्रां भावयेद् बुद्धमण्डले।  
 इन्द्रनीलप्रभाकारं कायवाक्चित्तवज्रिणम्॥
@@ -906,18 +827,18 @@ CONTENTS.
 स्फटिकेन्दुप्रभाकारं जटामुकुटमण्डितम्॥
 
 चक्रहस्तं महाज्वालं नानालङ्कारभूषितम्।  
-जाम्बूनदप्रभाकारं बुद्धमेघ[समा](http://॑ "B° कुला °।")कुलम्॥
+जाम्बूनदप्रभाकारं बुद्धमेघ[समा]("B° कुला °।")कुलम्॥
 
-[नवशूलं](http://॑ "A ° क्तं") महावज्रं पाणौ तस्य विभावयेत्।  
+[नवशूलं]("A ° क्तं") महावज्रं पाणौ तस्य विभावयेत्।  
 मरकतप्रभाकारं वज्रज्वालाविभूषितम्॥
 
-[रत्नहस्तं](http://॑ "A महारत्नं, C हस्ते रत्नं।") विभावित्वा ज्वालामेघं समन्ततः।  
-पद्मरागप्रभाकारं जटामुकुट[मण्डितम्](http://॑ "A दीषुरागधरप्रभम्।")॥
+[रत्नहस्तं]("A महारत्नं, C हस्ते रत्नं।") विभावित्वा ज्वालामेघं समन्ततः।  
+पद्मरागप्रभाकारं जटामुकुट[मण्डितम्]("A दीषुरागधरप्रभम्।")॥
 
 पद्महस्तं महाज्वालं भावयेद् रागवज्रिणम्।  
 पञ्चरश्मिप्रभाकारं बिम्बममोघवज्रिणम्॥
 
-खड्गहस्तधरं सौम्यं भावयेद् बुद्ध[मण्डलम्](http://॑ "A° ले।")।
+खड्गहस्तधरं सौम्यं भावयेद् बुद्ध[मण्डलम्]("A° ले।")।
 
  अथ भगवान् कायवाक्चित्तवज्रस्तथागतः धर्मधातुस्वभाबवज्रं नाम समाधिं समापद्येदं कायवाक्चित्ताधिष्ठानमन्त्रमुदाजहार॥ओं धर्मधातुवज्रस्वभावात्मकोऽहम्॥
 
@@ -925,43 +846,43 @@ CONTENTS.
 नासिकाग्रे [प्रयत्नेन](http://॒ "B ° काग्रप्रपन्नेन। ")भावयेद्योगतः सदा॥
 
 स्थिरं तु स्फारयेत् रत्नमस्थिरं नैव स्फारयेत्।  
-स्फारयेत् प्रवरै[र्मेघैर्वज्र](http://॑ "B° र्बुद्ध ° ।")ज्वालासमप्रभैः॥
+स्फारयेत् प्रवरै[र्मेघैर्वज्र]("B° र्बुद्ध ° ।")ज्वालासमप्रभैः॥
 
-चक्रवज्र[महामेघैः](http://॑ "A ° रत्नैः।")पद्म[कोश](http://॑ "A° राग °।")वरा[युधैः](http://॑ "A ° बुधैः। ")।  
+चक्रवज्र[महामेघैः]("A ° रत्नैः।")पद्म[कोश]("A° राग °।")वरा[युधैः]("A ° बुधैः। ")।  
 बोधिसत्त्वमहामेघैः स्फारयेत् स्फरणात्मकः॥
 
 आकाशधातुमध्यस्थं वज्रमण्डलमालिखेत्।  
 स्वच्छमण्डलमध्यस्थं भावयेत् चक्रमण्डलम्॥
 
-पद्ममण्डलसङ्काशं भावये[त्पद्म](http://॑ "A ° ज्जप °।")भावनैः।  
+पद्ममण्डलसङ्काशं भावये[त्पद्म]("A ° ज्जप °।")भावनैः।  
 रत्नमण्डलसङ्काशं भावयेत् रत्नतत्परः॥
 
 **योगमण्डलसम्भूतं लिखेदाकाशसन्निधौ।**  
 
-**एते वै प्रवरा बुद्धाः कायवाक्चित्त[भावनैः](http://॑ "A ° साधनैः।")॥**
+**एते वै प्रवरा बुद्धाः कायवाक्चित्त[भावनैः]("A ° साधनैः।")॥**
 
 **मण्डलवज्रसम्भूताः सर्वज्ञाकारलाभिनः॥**
 
 इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजे  
-महागुह्यतन्त्रराजे [वज्रव्यूहो](http://॑ "A addsस्फुरणावभास ° before this.") नाम समाधिपटलस्तृतीयः।
+महागुह्यतन्त्रराजे [वज्रव्यूहो]("A addsस्फुरणावभास ° before this.") नाम समाधिपटलस्तृतीयः।
 
  अथ भगवन्तः सर्वतथागताः पुनः समाजमागम्य भगवन्तंसर्वतथागतगुह्यकाय[^28]वाक्चित्तवज्राधिपतिं अनेन स्तोत्रराजेनाध्येषितवन्तः।
 
 [^28]: "BC° ताधिपतिं।"
 
-[सर्वता](http://॑ "A° त °।")थागतं शान्तं सर्वताथागतालयम्।  
+[सर्वता]("A° त °।")थागतं शान्तं सर्वताथागतालयम्।  
 सर्वधर्माग्रनैरात्म्यं देश मण्डलमुत्तमम्॥
 
 सर्वलक्षणसम्पूर्णं सर्वलक्षणवर्जितम्।  
 समन्तभद्रकायाग्र्यंभाष मण्डलमुत्तमम्॥
 
-शान्त[धर्माग्र](http://॑ " A ° ङ्ग°।")सम्भूतं ज्ञानचर्याविशोधकम्।  
+शान्त[धर्माग्र](" A ° ङ्ग°।")सम्भूतं ज्ञानचर्याविशोधकम्।  
 समन्तभद्रवाचाग्र्यंभाष मण्डलमुत्तमम्॥
 
 सर्वसत्त्वमहाचित्तं शुद्धं प्रकृतिनिर्मलम्।  
-समन्तभद्रचित्ताग्र्यंघोष मण्डल[मुत्तमम्](http://॑ " A° सारथि।")॥
+समन्तभद्रचित्ताग्र्यंघोष मण्डल[मुत्तमम्](" A° सारथि।")॥
 
-अथ वज्रधरः शास्ता त्रिलोकस्तु [त्रिधातुकः](http://॑ "A मूर्त्तिधातुक।")।  
+अथ वज्रधरः शास्ता त्रिलोकस्तु [त्रिधातुकः]("A मूर्त्तिधातुक।")।  
 त्रिलोकवरवज्राग्रस्त्रिलोकाग्रानुशासकः॥
 
 भाषते मण्डलं रम्यं सर्वताथागतालयम्।  
@@ -970,44 +891,44 @@ CONTENTS.
 अथातः सम्प्रवक्ष्यामि चित्तमण्डलमुत्तमम्।  
 चित्तवज्रप्रतीकाशं कायवाक्चित्तमण्डलम्॥
 
-नवेन [सुविशुद्धेन](http://॑ "A शुचिपक्षेण, C सुवियुक्तेन।")[सु](http://॑ " A omits सु °।")प्रमाणेन [चारुणा](http://॑ "A चाणुना।")।  
+नवेन [सुविशुद्धेन]("A शुचिपक्षेण, C सुवियुक्तेन।")[सु](" A omits सु °।")प्रमाणेन [चारुणा]("A चाणुना।")।  
 सूत्रेण सूत्रयेत् प्राज्ञः कायवाक्चित्तभावनैः॥
 
 द्वादशहस्तं प्रकुर्वीत चित्तमण्डलमुत्तमम्।  
 चतुरस्रं चतुर्द्वारं चतुष्कोणं प्रकल्पयेत्॥
 
 तस्याभ्यन्तरतश्चक्रमालिखेत्परिमण्डलम्।  
-[मुद्रान्यासं](http://॑ "A ° योगं°।") ततः कुर्यात् विधिदृष्टेन कर्मणा॥
+[मुद्रान्यासं]("A ° योगं°।") ततः कुर्यात् विधिदृष्टेन कर्मणा॥
 
 तस्य मध्ये लिखेत् वज्रमिन्द्रनीलसमप्रभम्।  
 पंचशूलं महाज्वालं भयस्यापि भयङ्करम्॥
 
 पूर्वेण तु महाचक्रं वज्रज्वालाविभूषितम्।  
-दक्षिणेन महारत्नं स्फुलिङ्गगह[नाकुलम्](http://॑ "A° नादकेवलम्।")॥
+दक्षिणेन महारत्नं स्फुलिङ्गगह[नाकुलम्]("A° नादकेवलम्।")॥
 
 पश्चिमेन महापद्मं पद्मरागसमप्रभम्।  
-उत्तरेण महाखड्गंरश्मिज्वाला[कुलोज्ज्वलम्](http://॑ "A° कुलं लिखेत्, B ° कुलाकुलम्।")॥
+उत्तरेण महाखड्गंरश्मिज्वाला[कुलोज्ज्वलम्]("A° कुलं लिखेत्, B ° कुलाकुलम्।")॥
 
-पूर्वकोणे लिखेन्नेत्रं [मेघमध्य](http://॑ "B ° न्नेत्रं मेघसङ्घ °।")समप्रभम्।  
+पूर्वकोणे लिखेन्नेत्रं [मेघमध्य]("B ° न्नेत्रं मेघसङ्घ °।")समप्रभम्।  
 दक्षिणेन ततो वज्रं मामकीकुलसम्भवम्॥
 
-पश्चिमेन लिखेत्पद्मं सकन्दं विक[चाननम्](http://॑ "A° नलम्। ")।  
+पश्चिमेन लिखेत्पद्मं सकन्दं विक[चाननम्]("A° नलम्। ")।  
 उत्तरेणोत्पलं कुर्यान्नीलाभ्रमिव शोभनम्॥
 
 आलिखेत् पूर्वद्वारे तु मुद्गरं ज्वालसुप्रभम्।  
-दक्षिणेनलिखेद्दण्डं वज्र[ज्वाला](http://॑ "A °द्वारा °।")दिसुप्रभम्॥
+दक्षिणेनलिखेद्दण्डं वज्र[ज्वाला]("A °द्वारा °।")दिसुप्रभम्॥
 
 पश्चिमेनालिखेत्पद्मं खड्गज्वालाप्रभाकरम्।  
 उत्तरेण लिखेद्वज्रं वज्रकुण्डलिवज्रिणम्॥
 
-परिस्फुटं तु [विज्ञाय](http://॑ "A° टाख्यो विज्ञानं।")मण्डलं चित्तमुत्तमम्।  
+परिस्फुटं तु [विज्ञाय]("A° टाख्यो विज्ञानं।")मण्डलं चित्तमुत्तमम्।  
 पूजां कुर्वीत यत्नेन कायवाक्चित्तपूजनैः॥
 
 **षोड़शाब्दिकां संप्राप्य योषितं [कान्ति](http://॒ "BC कर्त्रि°।")सुप्रभाम्।  
-गन्ध[पुष्पाकुलां](http://॑ " A ° पुष्पक्चली।")कृत्वा तस्य मध्ये तु कामयेत्॥**
+गन्ध[पुष्पाकुलां](" A ° पुष्पक्चली।")कृत्वा तस्य मध्ये तु कामयेत्॥**
 
-**अधिवेष्ट्यच तां [प्रज्ञां](http://॑ "A समधिष्य च तां प्राज्ञः,B अधिवेष्टेच्च।") मामकींगुणमेखलाम्।  
-सृजेद्बुद्धपदं सौम्यमाकाश[धात्व](http://॑ "B° वद °।")लङ्कृतम्॥**
+**अधिवेष्ट्यच तां [प्रज्ञां]("A समधिष्य च तां प्राज्ञः,B अधिवेष्टेच्च।") मामकींगुणमेखलाम्।  
+सृजेद्बुद्धपदं सौम्यमाकाश[धात्व]("B° वद °।")लङ्कृतम्॥**
 
 **विण्मुत्रशुक्ररक्तादीन् देवतानां निवेदयेत्।  
 एवं तुष्यन्ति सम्बुद्धाः बोधिसत्त्वामहाशयाः॥**
@@ -1017,61 +938,59 @@ CONTENTS.
  अथ भगवान् सर्वतथागतकायवाक्—
 
 चित्तवज्रधरो राजा सर्वाग्र्योभुवनेश्वरः।  
-धर्मचर्याग्र्य[धर्मार्थं](http://॑ "A ° र्थो।") भाषते चर्यलक्षणम्॥
+धर्मचर्याग्र्य[धर्मार्थं]("A ° र्थो।") भाषते चर्यलक्षणम्॥
 
 निर्विकल्पार्थसम्भूतां रागद्वेषमहा[^29]कुलाम्।  
-साध[येत्](http://॑ " AC ° यन्ति।") प्रवरां सिद्धिमग्र[याने](http://॑ "C ° घोर°।")ह्यनु[त्तरे](http://॑ "B° त्तमम्।")॥
+साध[येत्](" AC ° यन्ति।") प्रवरां सिद्धिमग्र[याने]("C ° घोर°।")ह्यनु[त्तरे]("B° त्तमम्।")॥
 
 [^29]: "AB ° मोहा °।"
 
 चण्डालवेणुकाराद्या मारणार्थार्थचिन्तकाः।  
 सिध्यन्ति अग्रयानेऽस्मिन् महायाने ह्यनुत्तरे॥
 
-आनन्तर्य[प्रभृतयः](http://॑ "A° भूतस्य, B adds सत्त्वा।")महापापकृतोऽपि च।  
-[सिध्यन्ते](http://॑ "A substitutesतेऽपिसर्वतः सिद्धन्ति महायानाग्रसाधने for this line.") बुद्धयानेऽस्मिन् महायानमहोदधौ॥
+आनन्तर्य[प्रभृतयः]("A° भूतस्य, B adds सत्त्वा।")महापापकृतोऽपि च।  
+[सिध्यन्ते]("A substitutesतेऽपिसर्वतः सिद्धन्ति महायानाग्रसाधने for this line.") बुद्धयानेऽस्मिन् महायानमहोदधौ॥
 
 आचार्यनिन्दनपरा नैव सिध्यन्ति साधने।  
 प्राणातिपातिनः सत्त्वामृषावादरताश्च ये॥
 
 ये परद्रव्याभिरता नित्यं कामरताश्च ये।  
-विण्मुत्राहारकृत्या [ये](http://॑ "A ° कृत्यार्थी, C ° कृत्यार्था।")भव्यास्ते खलु साधने॥
+विण्मुत्राहारकृत्या [ये]("A ° कृत्यार्थी, C ° कृत्यार्था।")भव्यास्ते खलु साधने॥
 
 मातृभगिनीपुत्रींश्च कामयेद्यस्तु साधकः।  
-स सिद्धिं विपुलां गच्छेत् महायानाग्र[धर्मताम्](http://॑ " A ° धर्मेषु।")॥
+स सिद्धिं विपुलां गच्छेत् महायानाग्र[धर्मताम्](" A ° धर्मेषु।")॥
 
 मातरं बुद्धस्य विभोः कामयन्न च लिप्यते।  
 सिध्यते तस्य बुद्धत्वं निर्विकल्पस्य धीमतः॥
 
- अथ खलु सर्वनिवरणविस्कम्भिप्रभृतयो महाबोधिसत्त्वाआश्चर्यप्राप्ता अद्भुतप्राप्ताः। किमयं भगवान् सर्वतथागतस्वामीसर्वतथागतपर्षन्मण्डलमध्ये दुर्भाषितवचनो[दाहारं](http://॑ "B ° दाहरणं। ") भाषते।अथ [ते](http://॑ " BC omit.") सर्वतथागताः सर्वनिवरणविस्कम्भिप्रभृतीनां महाबोधि[^30]सत्त्वानां आश्चर्यवचनमुपश्रुत्यैतान् बोधिसत्त्वानेवं आहुः—
+ अथ खलु सर्वनिवरणविस्कम्भिप्रभृतयो महाबोधिसत्त्वाआश्चर्यप्राप्ता अद्भुतप्राप्ताः। किमयं भगवान् सर्वतथागतस्वामीसर्वतथागतपर्षन्मण्डलमध्ये दुर्भाषितवचनो[दाहारं]("B ° दाहरणं। ") भाषते।अथ [ते](" BC omit.") सर्वतथागताः सर्वनिवरणविस्कम्भिप्रभृतीनां महाबोधि[^30]सत्त्वानां आश्चर्यवचनमुपश्रुत्यैतान् बोधिसत्त्वानेवं आहुः—
 
 [^30]: "A omits महाबोधि °।"
 
- 
-
-[अलं](http://॑ "A एवं।") कुलपुत्रा मा एवम् [वोचत](http://॑ "A एवमेतदवोचत ।")।
+[अलं]("A एवं।") कुलपुत्रा मा एवम् [वोचत]("A एवमेतदवोचत ।")।
 
 इयं सा धर्मता शुद्धाबुद्धानां सारज्ञानिनाम्।  
-सारधर्मार्थसम्भूता [एषा](http://॑ "A एव।")बोधि[चरि](http://॑ "A ° सत्त्वनवी ° ।")पदम्॥
+सारधर्मार्थसम्भूता [एषा]("A एव।")बोधि[चरि]("A ° सत्त्वनवी ° ।")पदम्॥
 
- अथ खल्वनभिलाप्यानभि[लाप्य](http://॑ "A ° प्यै।")बुद्धक्षेत्रपरमाणुरजःसमा[बोधिसत्त्वा](http://॑ "A adds महासत्त्वा।")भीताः [सन्त्रस्ता](http://॑ "A समन्तात्।") मूर्च्छिता अभूवन्। अथभगवन्तः सर्वतथागतास्तान् सर्वबोधिसत्त्वान् मूर्च्छितान्दृष्ट्वाभगवन्तं सर्वतथागतकायवाक्चित्ताधिपतिमेवमाहुः।उत्थापयतु भगवन्नेतान् महाबोधिसत्त्वान्।
+ अथ खल्वनभिलाप्यानभि[लाप्य]("A ° प्यै।")बुद्धक्षेत्रपरमाणुरजःसमा[बोधिसत्त्वा]("A adds महासत्त्वा।")भीताः [सन्त्रस्ता]("A समन्तात्।") मूर्च्छिता अभूवन्। अथभगवन्तः सर्वतथागतास्तान् सर्वबोधिसत्त्वान् मूर्च्छितान्दृष्ट्वाभगवन्तं सर्वतथागतकायवाक्चित्ताधिपतिमेवमाहुः।उत्थापयतु भगवन्नेतान् महाबोधिसत्त्वान्।
 
- अथभगवान्सर्वतथागतकायवाक्चित्तवज्रस्तथागतःआकाशसमताद्वयवज्रं नाम समाधिं समापन्नः। समनन्तरसमापन्नस्य च भगवतः सर्वतथागतकायवा[क्चित्तवज्रा](http://॑ "C omits° वज्र °।")धिपतेःप्रभया [स्पृष्टमात्रा](http://॑ "A° मात्रया °।")अथ ते बोधिसत्त्वाः स्वेषु स्वेष्वासन[स्थानेषु](http://॑ "B ° सनेषु ।") स्थिता अभूवन्। अथ ते सर्वतथागता आश्चर्यप्राप्ताअद्भुतप्राप्ताः प्रीत्योहेल[प्रायाः](http://॑ "BC ° प्राप्ताः।") [एवं](http://॑ " C adds धर्माणां।")धर्मघोषमकार्षुः।
+ अथभगवान्सर्वतथागतकायवाक्चित्तवज्रस्तथागतःआकाशसमताद्वयवज्रं नाम समाधिं समापन्नः। समनन्तरसमापन्नस्य च भगवतः सर्वतथागतकायवा[क्चित्तवज्रा]("C omits° वज्र °।")धिपतेःप्रभया [स्पृष्टमात्रा]("A° मात्रया °।")अथ ते बोधिसत्त्वाः स्वेषु स्वेष्वासन[स्थानेषु]("B ° सनेषु ।") स्थिता अभूवन्। अथ ते सर्वतथागता आश्चर्यप्राप्ताअद्भुतप्राप्ताः प्रीत्योहेल[प्रायाः]("BC ° प्राप्ताः।") [एवं](" C adds धर्माणां।")धर्मघोषमकार्षुः।
 
 अहो धर्म अहो धर्म अहो धर्मार्थसम्भव।  
-धर्मशुद्धार्थनैरात्म्यवज्र[राज](http://॑ "A धर्म °।")नमो नमः॥
+धर्मशुद्धार्थनैरात्म्यवज्र[राज]("A धर्म °।")नमो नमः॥
 
-कायवाक्चित्तसं[शुद्ध](http://॑ "C ° भूत।")आकाशसमतालय।  
+कायवाक्चित्तसं[शुद्ध]("C ° भूत।")आकाशसमतालय।  
 निर्विकार निराभास वज्रकाय नमो नमः॥
 
-चित्तं ताथागतं श्रेष्ठं [त्रैयध्व](http://॑ "A  त्रियध्व °।")पथवर्त्तिनम्।  
-धातुभूत [महाकाश](http://॑ "A चार्त्तचड़ामहाचित्त।")आकाशार्थ नमो नमः॥
+चित्तं ताथागतं श्रेष्ठं [त्रैयध्व]("A  त्रियध्व °।")पथवर्त्तिनम्।  
+धातुभूत [महाकाश]("A चार्त्तचड़ामहाचित्त।")आकाशार्थ नमो नमः॥
 
 आकाशकायसम्भूत आकाशवाक्प्रवर्त्तक।  
 आकाशचित्तधर्माग्र चर्यापद नमोऽस्तु ते॥
 
 इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजे महागुह्यतन्त्रराजे समन्तचर्याग्रपटलः पञ्चमोऽध्यायः।
 
- अथ खलु अक्षोभ्य[वज्र](http://॑ "BC omit ° वज्र °I")स्तथागतः सर्वतथागतकायवाक्चित्तगुह्यवज्रं नाम समाधिं समापद्येदं चित्ताधिष्ठानमन्त्रमुदाजहार।
+ अथ खलु अक्षोभ्य[वज्र]("BC omit ° वज्र °I")स्तथागतः सर्वतथागतकायवाक्चित्तगुह्यवज्रं नाम समाधिं समापद्येदं चित्ताधिष्ठानमन्त्रमुदाजहार।
 
 ॥ओं सर्वतथागतचित्तवज्रस्वभावात्मकोऽहम्॥
 
@@ -1085,20 +1004,24 @@ CONTENTS.
 
 ॥ओं सर्वतथागतवाग्वज्रस्वभावात्मकोऽहम्॥
 
-त्रिवज्रं ताथागतं [शुद्धं](http://॑ "B ° तगुह्य°।") पदं पदविभावनम्।  
-निष्पादये[देभिः](http://॑ "A ° भिर्मन्त्र °।")प्रवरैः मन्त्रलक्षण[लक्षितम्](http://॑ "A° वर्जितम्।")॥
+त्रिवज्रं ताथागतं [शुद्धं]("B ° तगुह्य°।") पदं पदविभावनम्।  
+निष्पादये[देभिः]("A ° भिर्मन्त्र °।")प्रवरैः मन्त्रलक्षण[लक्षितम्]("A° वर्जितम्।")॥
 
  अथ भगवान् रत्नकेतुवज्रस्तथागतः ज्ञानप्रदीपवज्रं नामसमाधिं समापद्येदं अनुरागणमन्त्र[^32]मुदाजहार।
 
 [^32]: "BC omit."
 
-॥ओं सर्वतथा[गतानुराग](http://॑ "C °  गतरा °।")णवज्रस्वभावात्मकोऽहम्॥
+[^32]: "BC omit."
 
- अथ भगवानमोघसिद्धिवज्रस्तथागतोऽमोघवज्रंनाम समाधिंसमापद्येदं [पूजा](http://॑॑ "BC omit.")मन्त्रमुदाजहार।
+[^32]: "BC omit."
+
+॥ओं सर्वतथा[गतानुराग]("C °  गतरा °।")णवज्रस्वभावात्मकोऽहम्॥
+
+ अथ भगवानमोघसिद्धिवज्रस्तथागतोऽमोघवज्रंनाम समाधिंसमापद्येदं [पूजा](॑ "BC omit.")मन्त्रमुदाजहार।
 
 ॥ओं सर्वतथागतपूजावज्रस्वभावात्मकोऽहम्॥
 
-**पञ्चकामगुणै[र्बुद्धान्](http://॑ " A गुणेनैव।")पूजये[द्विधिव](http://॑ " C ° विधिना।")त्सदा।  
+**पञ्चकामगुणै[र्बुद्धान्](" A गुणेनैव।")पूजये[द्विधिव](" C ° विधिना।")त्सदा।  
 पञ्चोपहारपूजाभिर्लघु बुद्धत्वमाप्नुयात्॥**
 
  इत्याहभगवान्सर्वतथागतकायवाक्चित्तवज्राधिपतिर्वज्रधरः।
@@ -1115,14 +1038,14 @@ CONTENTS.
 [^34]: "A सन्तः।"
 
 चित्तनिध्यप्तिनैरात्म्यं वाचा कायविभावनम्।  
-निष्पा[दयन्ति](http://॑ "A ° येत् त्रि °। ")संयोगमाकाशसमतालयम्॥
+निष्पा[दयन्ति]("A ° येत् त्रि °। ")संयोगमाकाशसमतालयम्॥
 
-कायवाक्चित्तनिध्यप्तेः स्वभावो [नोप](http://॑ "B नैव।")लभ्यते।  
-मन्त्रमूर्त्तिप्रयोगेण[^35]बोधिचित्ते [च](http://॑ "A ° सत्त्ववि °।") भावना॥
+कायवाक्चित्तनिध्यप्तेः स्वभावो [नोप]("B नैव।")लभ्यते।  
+मन्त्रमूर्त्तिप्रयोगेण[^35]बोधिचित्ते [च]("A ° सत्त्ववि °।") भावना॥
 
 [^35]: "In C last part of the 5th Patala and thefirst part of the 6th are repeated."
 
-विचार्येदं [समासेन](http://॑ "A दृश्यमान °।")कायवाक्चित्तलक्षणम्।  
+विचार्येदं [समासेन]("A दृश्यमान °।")कायवाक्चित्तलक्षणम्।  
 भावयेत् विधिसंयोगं समाधिं मन्त्रकल्पितम्॥
 
 अथ वज्रधरः श्रीमान् सर्वताथागतान्वितः।  
@@ -1131,16 +1054,16 @@ CONTENTS.
 आकाशधातुमध्यस्थं भावयेच्चन्द्रमण्डलम्।  
 बुद्धबिम्बं विभावित्वा सूक्ष्मयोगं समारभेत्॥
 
-नासाग्रे सर्षपं [चिन्तेत्](http://॑ "C सञ्चयन् चित्तं। ")सर्षपे सचराचरम्।  
-भावयेत् ज्ञानदं [रम्यं](http://॑ " A omits.") रहस्यं ज्ञानकल्पितम्॥
+नासाग्रे सर्षपं [चिन्तेत्]("C सञ्चयन् चित्तं। ")सर्षपे सचराचरम्।  
+भावयेत् ज्ञानदं [रम्यं](" A omits.") रहस्यं ज्ञानकल्पितम्॥
 
-आकाशधातुमध्यस्थं भावयेत् [सूर्य](http://॑ "B° रत्न°।")मण्डलम्।  
+आकाशधातुमध्यस्थं भावयेत् [सूर्य]("B° रत्न°।")मण्डलम्।  
 बुद्धबिम्बं विभावित्वा पदं तस्योपरि न्यसेत्॥
 
 ॥हूँ॥
 
 आकाशधातुमध्यस्थं भावयेच्चक्रमण्डलम्।  
-लोचनाकारसंयोगं [वज्रपद्मे](http://॑ "C वज्रं पद्मं।")विभावयेत्॥
+लोचनाकारसंयोगं [वज्रपद्मे]("C वज्रं पद्मं।")विभावयेत्॥
 
 आकाशधातुमध्यस्थं भावयेत् रत्नमण्डलम्।  
 आदियोगं प्रयत्नेन तस्योपरि विभावयेत्॥
@@ -1151,22 +1074,22 @@ CONTENTS.
 [^36]: "A पद्मरागप्रभाकारं।"
 
 आकाशधातुमध्यस्थं भावयेत् रश्मिमण्डलम्।  
-[सृजे](http://॑ "A स्फुर °।")द्बुद्धपदं [सौम्यं](http://॑ "A रम्यं।")परिवारं विशेषतः॥
+[सृजे]("A स्फुर °।")द्बुद्धपदं [सौम्यं]("A रम्यं।")परिवारं विशेषतः॥
 
 नीलोत्पलदलाकारं पञ्चशूलं विशेषतः।  
 यवमात्रं प्रयत्नेन नासिकाग्रे विचिन्तयेत्॥
 
 चणकास्थिप्रमाणं तु अष्टपत्रं सकेशरम्।  
-नासिकाग्र इदं [स्पष्टं](http://॑ "A शस्त्रं, B शस्तं।") भावयेत् बोधितत्परः॥
+नासिकाग्र इदं [स्पष्टं]("A शस्त्रं, B शस्तं।") भावयेत् बोधितत्परः॥
 
-चक्रादीनां विशेषेण भावनां [तत्र](http://॑ "A तत् प्र °।")कल्पयेत्।  
-[सिद्ध्येद्बो](http://॑ "AC सिद्धते बो °।")धिपदं रम्यं [मन्त्र](http://॑ " AB सर्व °।")सिद्धिगुणालयम्॥
+चक्रादीनां विशेषेण भावनां [तत्र]("A तत् प्र °।")कल्पयेत्।  
+[सिद्ध्येद्बो]("AC सिद्धते बो °।")धिपदं रम्यं [मन्त्र](" AB सर्व °।")सिद्धिगुणालयम्॥
 
 सृजेत्तत्र समासेन बुद्धबोधिप्रतिष्ठितम्।  
 निश्चारयेद्धर्मपदं कायवाक्चित्तलक्षितम्॥
 
 अथ वज्रधरः श्रीमान् सर्वतत्त्वार्थदेशकः।  
-सर्वचर्याग्र[सम्भूतो](http://॑ "AC संबुद्धो।")भाषते गुह्यमुत्तमम्॥
+सर्वचर्याग्र[सम्भूतो]("AC संबुद्धो।")भाषते गुह्यमुत्तमम्॥
 
 षण्मासान् भावयेत् प्राज्ञो रूपशब्दरसान्वितः।  
 गुह्यतत्त्वमहापूजां संपूज्य च विभावयेत्॥
@@ -1180,23 +1103,23 @@ CONTENTS.
 [^37]: "B ° हारकृतार्थेन,  A ° हारं च कृत्यर्थं।"
 
 हस्तिमांसं हयमांसं श्वानमांसं तथोत्तमम्।  
-भक्षेदाहारकृत्यार्थं न [चान्यत्तु](http://॑ " B.चान्नंतु।") विभक्षयेत्॥
+भक्षेदाहारकृत्यार्थं न [चान्यत्तु](" B.चान्नंतु।") विभक्षयेत्॥
 
 प्रियो भवति बुद्धानां बोधिसत्त्वश्च धीमताम्।  
 अनेन खलु योगेन लघु बुद्धत्वमाप्नुयात्॥
 
-कामधा[त्वीश्वरो](http://॑ "A ° तुश्चले। ")लोके स भवेत् परकर्मकृत्।  
+कामधा[त्वीश्वरो]("A ° तुश्चले। ")लोके स भवेत् परकर्मकृत्।  
 तेजस्वीबलवान् श्रेष्ठः कान्तिमान् प्रियदर्शनः॥
 
 सम्मानयेदिमं लोकेदर्शनेनैव[^38] चोदितः।  
 इदं तत् सर्वबुद्धानां रहस्यं बोधिमुत्तमम्।  
-मन्त्रगुह्यमिदं [तत्त्वं](http://॑ "B गुह्यं।")कायवाक्चित्तलक्षितम्॥
+मन्त्रगुह्यमिदं [तत्त्वं]("B गुह्यं।")कायवाक्चित्तलक्षितम्॥
 
 [^38]: "B दर्शनं मानयेल्लोके।"
 
 इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजेमहागुह्यतन्त्रराजेकायवाक्चित्ताधिष्ठानपटलः षष्ठोऽध्यायः।
 
- अथ भगवान् सर्वतथागतकायवा[क्चित्ताधि](http://॑ "B ° त्तवज्राधि °।")पतिर्महासमुच्चयमन्त्रचर्याग्रसंबोधिपटलमुदाजहार।
+ अथ भगवान् सर्वतथागतकायवा[क्चित्ताधि]("B ° त्तवज्राधि °।")पतिर्महासमुच्चयमन्त्रचर्याग्रसंबोधिपटलमुदाजहार।
 
 सर्वकामोपभोगैश्च[^39]सेव्यमानैर्यथेच्छतः।  
 अनेन खलु योगेन लघु बुद्धत्वमाप्नुयात्॥
@@ -1204,7 +1127,7 @@ CONTENTS.
 [^39]: "C ° कामार्थभोगार्थैः। "
 
 सर्वकामोपभोगैस्तु सेव्यमानैर्यथेच्छतः।  
-स्वाधिदैवत[योगेन](http://॑ "B ° योरैक्यं।")[पराङ्गैश्च](http://॑ "A परांशेन च, C चोपहारैश्च।")प्रपूजयेत्॥
+स्वाधिदैवत[योगेन]("B ° योरैक्यं।")[पराङ्गैश्च]("A परांशेन च, C चोपहारैश्च।")प्रपूजयेत्॥
 
 दुष्करैर्नियमैस्तीव्रैःसेव्यमानो न सिद्ध्यति।  
 सर्वकामोपभोगैस्तु सेवयंश्चाशु सिद्ध्यति॥
@@ -1213,12 +1136,12 @@ CONTENTS.
 जपमन्त्रैरभिन्नाङ्गः सर्वकामोपभोगकृत्॥
 
 कायवाक्चित्तसौस्थित्यं प्राप्य बोधिं समश्नुते।  
-अन्यथाऽकालमरणं [पच्यते](http://॑ "A पञ्चत्वे।")नरके ध्रुवम्॥
+अन्यथाऽकालमरणं [पच्यते]("A पञ्चत्वे।")नरके ध्रुवम्॥
 
 बुद्धाश्चबोधिसत्त्वाश्च मन्त्रचर्याग्रचारिणः।  
-प्राप्ता [धर्म्मासनं](http://॑ "A प्राप्ता धर्माक्षरं,C प्राप्य धर्माकरे।") श्रेष्ठं सर्वकामोपसेवनैः॥
+प्राप्ता [धर्म्मासनं]("A प्राप्ता धर्माक्षरं,C प्राप्य धर्माकरे।") श्रेष्ठं सर्वकामोपसेवनैः॥
 
-सेवयेत् [कामगान्](http://॑ "A मांसगुणान्, C कामना।")पञ्च ज्ञानार्थिगणिनः[^40] सदा।  
+सेवयेत् [कामगान्]("A मांसगुणान्, C कामना।")पञ्च ज्ञानार्थिगणिनः[^40] सदा।  
 तोषयेद्बोधिसत्त्वांश्च रागयेद् बोधिसौरिणा॥
 
 [^40]: "B ° रागिणः, C°लाभिनः।"
@@ -1229,11 +1152,11 @@ CONTENTS.
 शब्दं त्रिविधं विज्ञाय देवतानां निवेदयेत्।  
 स एवं भगवान् बुद्धो बुद्धरत्नाकरः प्रभुः॥
 
-विज्ञाय त्रिविधं [गन्धं](http://॑ "C गन्धं ज्ञात्वा तु त्रिविधं, A  गन्धज्ञा गन्धं त्रिविधं।")बुद्धादौ तु निवेदयेत्।  
-स एवं भगवान् [बुद्धो](http://॑ "A बिम्बो।") रागधर्मधरः प्रभुः॥
+विज्ञाय त्रिविधं [गन्धं]("C गन्धं ज्ञात्वा तु त्रिविधं, A  गन्धज्ञा गन्धं त्रिविधं।")बुद्धादौ तु निवेदयेत्।  
+स एवं भगवान् [बुद्धो]("A बिम्बो।") रागधर्मधरः प्रभुः॥
 
 रसं ज्ञात्वा तु त्रिविधं देवतानां निवेदयेत्।  
-स एवं भगवान् [बिम्बो](http://॑ "AC बुद्धो।")बुद्धोयोऽमोघवज्रिमान्॥
+स एवं भगवान् [बिम्बो]("AC बुद्धो।")बुद्धोयोऽमोघवज्रिमान्॥
 
 स्पर्शं ज्ञात्वा तु[^41] त्रिविधं स्वकुलस्य निवेदयेत्।  
 स एवं भगवान् वज्री अक्षोभ्याकारलाभिनः॥
@@ -1254,10 +1177,10 @@ CONTENTS.
 कुलानुस्मृतियोगेन क्रोधानुस्मृतिभावना।  
 समयानुस्मृतियोगात् भावयन् बोधिमाप्नुयात्॥
 
-तां तां [तच्छक्तिकां](http://॑ "A षोडशाब्दिकां।") प्राप्य योषितं रूपसुप्रभाम्।  
-प्रच्छन्नमारभेत् पूजामधिष्ठान[पद](http://॑ " A ° पदैः। ")स्मृतिः॥
+तां तां [तच्छक्तिकां]("A षोडशाब्दिकां।") प्राप्य योषितं रूपसुप्रभाम्।  
+प्रच्छन्नमारभेत् पूजामधिष्ठान[पद](" A ° पदैः। ")स्मृतिः॥
 
-तथागतमहाभासां लोचनां वा [विभावयेत्](http://॑ "A ° बोधि।")।  
+तथागतमहाभासां लोचनां वा [विभावयेत्]("A ° बोधि।")।  
 द्वयेन्द्रिय[^43]समापत्या बुद्धसिद्धिमवाप्नुयात्॥
 
 [^43]: "A द्वेषेन्द्रिय °B बुद्धीन्द्रियं।"
@@ -1271,9 +1194,9 @@ CONTENTS.
 तत्र कथं बुद्धानुस्मृतिभावना।
 
 \[द्वयेन्द्रियसमापत्या\] बुद्धबिम्बं विभावयेत्।  
-रोमकूपा[ग्रविवरे](http://॑ "A ° रैः।")बुद्धमेघान् स्फरेद्बुधः॥
+रोमकूपा[ग्रविवरे]("A ° रैः।")बुद्धमेघान् स्फरेद्बुधः॥
 
-[तत्र](http://॑ " A omits तत्र to the end of the para.") कथं धर्मानुस्मृतिभावना।
+[तत्र](" A omits तत्र to the end of the para.") कथं धर्मानुस्मृतिभावना।
 
 \[द्वयेन्द्रियसमापत्या\] वज्रधर्मं विभावयेत्।  
 रोमकूपाग्रविवरे धर्ममेघान् स्फरेद्बुधः॥
@@ -1296,17 +1219,17 @@ CONTENTS.
 तत्र कथं समयानुस्मृतिभावना।
 
 स्ववज्रं पद्मसंयुक्तं द्वयेन्द्रियप्रयोगतः।  
-स्वरेतोविन्दुभिर्बुद्धान् वज्र[सत्त्वांश्च](http://॑ "C ° सत्वं च।")पूजयेत्॥
+स्वरेतोविन्दुभिर्बुद्धान् वज्र[सत्त्वांश्च]("C ° सत्वं च।")पूजयेत्॥
 
 तत्रकथं मण्डलानुस्मृतिभावना।
 
 \[द्वयेन्द्रियसमापत्या\] स्वरेतस्तु विचक्षणः।  
-निःसारयेत् सदा योगी [मण्डलान्](http://॑ "A omits.")मण्डलाकरान्॥
+निःसारयेत् सदा योगी [मण्डलान्]("A omits.")मण्डलाकरान्॥
 
 तत्र कथं कायानुस्मृतिभावना।
 
 यत्कायं सर्वबुद्धानां पञ्चस्कन्धप्रपूरितम्।  
-बुद्धकायस्वभावेन ममापि [तादृशं](http://॑ "A समर्पितो दृढं।") भवेत्॥
+बुद्धकायस्वभावेन ममापि [तादृशं]("A समर्पितो दृढं।") भवेत्॥
 
 तत्र कथं वाचानुस्मृतिभावना।
 
@@ -1339,7 +1262,7 @@ CONTENTS.
 
 तत्र कथं प्रज्ञापारमितासमयानुस्मृतिभावना।
 
-**प्रकृतिप्रभास्वराः सर्वे[^46]अनुत्पन्ना निरा[श्रयाः](http://॑ "BC ° श्रवाः।")।  
+**प्रकृतिप्रभास्वराः सर्वे[^46]अनुत्पन्ना निरा[श्रयाः]("BC ° श्रवाः।")।  
 न बोधिर्नाभिसमयो नवान्तं न च सम्भवः॥**
 
 [^46]: "A सैव।"
@@ -1357,7 +1280,7 @@ CONTENTS.
 कुलयोगप्रभेदेन स्वशुक्रेण प्रपूजयेत्॥**
 
 **अनेन ताथागतं कायं[^48] चित्तं वज्रधरस्य च।  
-वाचं[^49]धर्मधरा[^50]ग्रस्य प्राप्येतेहैव [जन्मनि](http://॑ "AB वज्रवर्त्मनि।")॥**
+वाचं[^49]धर्मधरा[^50]ग्रस्य प्राप्येतेहैव [जन्मनि]("AB वज्रवर्त्मनि।")॥**
 
 [^48]: " A adds ° वाक् °।"
 
@@ -1366,7 +1289,7 @@ CONTENTS.
 [^50]: "B ° वरा ° I"
 
 **कायवाक्चित्तसंसिद्धौ ये चान्ये हीनजाः स्मृताः।  
-सिध्यन्ति तस्य [जापेन](http://॑ "A तेषांसिध्यन्ति जापेन।")त्रिवज्राभेद्य[भावनैः](http://॑ "A ° साधनैः।")॥**
+सिध्यन्ति तस्य [जापेन]("A तेषांसिध्यन्ति जापेन।")त्रिवज्राभेद्य[भावनैः]("A ° साधनैः।")॥**
 
 **इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजे महागुह्यतन्त्रराजे मन्त्रचर्यापटलः सप्तमोऽध्यायः।**
 
@@ -1406,8 +1329,8 @@ CONTENTS.
 
 [^55]: " B बोधि °।"
 
-स्तनान्तरं यावच्छिखान्तमध्ये[वल्गा](http://॑ "B चरणा °।")न्तरे चापि न्यसेद्विधिज्ञः।  
-नाभिकटिगुह्ये[जिना](http://॑ "AB ° ह्यजे °।")त्मजानां न्यासं प्रकुर्यात् कुलपञ्चकानाम्॥
+स्तनान्तरं यावच्छिखान्तमध्ये[वल्गा]("B चरणा °।")न्तरे चापि न्यसेद्विधिज्ञः।  
+नाभिकटिगुह्ये[जिना]("AB ° ह्यजे °।")त्मजानां न्यासं प्रकुर्यात् कुलपञ्चकानाम्॥
 
 आकाशधातुमध्यस्थं भावयेद् ज्ञानसागरम्।  
 आत्मानं चन्द्रमध्यस्थं भावयेद् हृदये पुनः[^56]॥
@@ -1415,22 +1338,22 @@ CONTENTS.
 [^56]: " A विधिवद्बुधः, C ° हृदयेषु च।"
 
 संहारं च प्रकुर्वीत यदीच्छेत् शान्तवज्रधृक्।  
-चतूरत्नमयं [स्तूपं](http://॑ "A तं च। ") रश्मिज्वालाविभूषितम्॥
+चतूरत्नमयं [स्तूपं]("A तं च। ") रश्मिज्वालाविभूषितम्॥
 
-ज्ञानोदधिं स्त्रियं [स्थाप्य](http://॑ "B ° धेस्त्रिपथाभ्य।")आलयन्तु विचिन्तयेत्।  
+ज्ञानोदधिं स्त्रियं [स्थाप्य]("B ° धेस्त्रिपथाभ्य।")आलयन्तु विचिन्तयेत्।  
 स्वरोमकूपविवरे पूजामेघान् स्फरेद्बुधः॥
 
-पद्मं पञ्चविधं [ज्ञात्वा](http://॑ "A विधिज्ञो हि।") उत्पलं च विचक्षणः।  
+पद्मं पञ्चविधं [ज्ञात्वा]("A विधिज्ञो हि।") उत्पलं च विचक्षणः।  
 जातिकां त्रिविधं कृत्वा देवतानां निवेदयेत्॥
 
-कर्णिकारस्य कुसुमं मल्लिकायूथिकां [तथा](http://॑ "B ततः।")।  
+कर्णिकारस्य कुसुमं मल्लिकायूथिकां [तथा]("B ततः।")।  
 करवीरस्य कुसुमं ध्यात्वा पूजां प्रकल्पयेत्॥
 
 योजनशतविस्तारं भावयेत् चक्रमण्डलम्।  
-[कुलानान्तु](http://॑ "A ° नान्तः, C ° नान्तं।") प्रकुर्वीत [सदाभ्यास](http://॑ "A ध्यान °।")विचक्षणः॥
+[कुलानान्तु]("A ° नान्तः, C ° नान्तं।") प्रकुर्वीत [सदाभ्यास]("A ध्यान °।")विचक्षणः॥
 
 पद्मं वज्रं तथा खड्गंउत्पलं भावयेद्बुधः।  
-योजनकोटिविस्तारं [चतुरस्रं](http://॑ " A गन्धराग्र °।")सुशोभनम्॥
+योजनकोटिविस्तारं [चतुरस्रं](" A गन्धराग्र °।")सुशोभनम्॥
 
 चतूरत्नमयं चैत्यं स्वच्छं प्रकृतिनिर्मलम्।  
 भावयेच्चामरं प्राज्ञः कुलानां पूजहेतुना॥
@@ -1444,54 +1367,54 @@ CONTENTS.
 दद्याद्वै सर्वबुद्धानां सिद्धये तीव्रसाधकाः।  
 सप्तरत्नैरिदं कृत्वा परिपूर्णंविचक्षणाः॥
 
-दद्यात् प्रतिदिनं प्राज्ञो [दानाब्धि](http://॑ "A दानार्थी।")[सिद्धि](http://॑ "A सर्व °।")काङ्क्षया।  
-[अर्चिपति](http://॑ "A अधिपति °, B अरिचिपति °।")मुद्रां समादाय बुद्धमण्डलमध्यतः॥
+दद्यात् प्रतिदिनं प्राज्ञो [दानाब्धि]("A दानार्थी।")[सिद्धि]("A सर्व °।")काङ्क्षया।  
+[अर्चिपति]("A अधिपति °, B अरिचिपति °।")मुद्रां समादाय बुद्धमण्डलमध्यतः॥
 
 दद्यात् स्पर्शसमायोगं बुद्धानां रागबुद्धिना।  
-आकाशधातुमध्यस्थं भावयेत् [बुद्ध](http://॑ "C व्यूह °।")मण्डलम्॥
+आकाशधातुमध्यस्थं भावयेत् [बुद्ध]("C व्यूह °।")मण्डलम्॥
 
-बिम्बंताथागतमयं [विधिभिः](http://॑ " AB विण्मुत्रैः।") पूजयन्ति ये।  
+बिम्बंताथागतमयं [विधिभिः](" AB विण्मुत्रैः।") पूजयन्ति ये।  
 तूर्णं संप्राप्य सुभगां चारुवक्त्रां सुशोभनाम्॥
 
 अधिष्ठानपदं ध्यात्वा तत्त्वपूजां प्रकल्पयेत्।  
-गुह्यशुक्रं विशाला[क्षो](http://॑ "B ° क्षीं।")भक्षयेत् दृढ़बुद्धिमा[न्](http://॑ "A  ° ना।")॥
+गुह्यशुक्रं विशाला[क्षो]("B ° क्षीं।")भक्षयेत् दृढ़बुद्धिमा[न्]("A  ° ना।")॥
 
-इदं तत् सर्वमन्त्राणां कायवाक्चित्त[पूजनम्](http://॑ "A°वज्रकम्। ")।  
-मन्त्रसिद्धि[करं](http://॑ "AC परं।") [प्रोक्तं](http://॑ "B प्राप्तं।") रहस्यं ज्ञानवज्रिणाम्॥
+इदं तत् सर्वमन्त्राणां कायवाक्चित्त[पूजनम्]("A°वज्रकम्। ")।  
+मन्त्रसिद्धि[करं]("AC परं।") [प्रोक्तं]("B प्राप्तं।") रहस्यं ज्ञानवज्रिणाम्॥
 
 इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजे महागुह्यतन्त्रराजे चित्तसमयपटलः अष्टमोऽध्यायः।
 
-अथ वज्रधरो राजा सर्वाकाशमहा[क्षरः](http://॑ "A  ° बलः।")।  
+अथ वज्रधरो राजा सर्वाकाशमहा[क्षरः]("A  ° बलः।")।  
 सर्वाभिषेकचर्याग्रः सर्ववित् परमेश्वरः॥
 
-कायवाक्चित्त[संयोगं](http://॑ "AC समायोगात्।")त्रिवज्राभेद्यमण्डलम्।  
-घोष[ते](http://॑ "AC ° येत्।")परमं रम्यं रहस्यं बुद्धज्ञानिनाम्॥
+कायवाक्चित्त[संयोगं]("AC समायोगात्।")त्रिवज्राभेद्यमण्डलम्।  
+घोष[ते]("AC ° येत्।")परमं रम्यं रहस्यं बुद्धज्ञानिनाम्॥
 
 आकाशधातुमध्यस्थं भावयेद्बुद्धमण्डलम्।  
-अक्षोभ्यवज्रं [भावित्वा](http://॑ "A प्रकृत्या।")पाणी वज्रं विभावयेत्॥
+अक्षोभ्यवज्रं [भावित्वा]("A प्रकृत्या।")पाणी वज्रं विभावयेत्॥
 
 स्फुलिङ्गगहनाकीर्णं[^57]पञ्चरश्मिप्रपूरितम्।  
-बुद्धस्य प्रभुतां[^58]ध्यात्वा [तत्र](http://॑ "A omits.")वज्रेण चूर्णयेत्॥
+बुद्धस्य प्रभुतां[^58]ध्यात्वा [तत्र]("A omits.")वज्रेण चूर्णयेत्॥
 
 [^57]: "BC° महसा दीप्तं।"
 
 [^58]: " A प्रथमभूतां।"
 
-कायवाक्चित्त[संयोगं](http://॑ "AC ° सम्भोगं।")अष्ट[^59]वज्रेण चूर्णितम्।  
+कायवाक्चित्त[संयोगं]("AC ° सम्भोगं।")अष्ट[^59]वज्रेण चूर्णितम्।  
 भावयेत् परमं ध्यानं चित्तसिद्धिसमावहम्[^60]॥
 
 [^59]: "A नेष्टं, C सादृ °।"
 
 [^60]: "C ° व्युहं।"
 
-अनेन गुह्यवज्रेण सर्वसत्त्वं [विघातयेत्](http://॑ "BC ° सत्त्वाभिघातयेत्।")।  
-येऽप्यस्य तस्य[^61]वज्रस्य बुद्ध[क्षेत्र](http://॑ "BC क्षिप्रं।") जिनौरसाः।  
-[द्वेषकुलसमायोगं ज्ञेयः सर्वकुलोन्नतम्](http://॑ "B द्वेषकुलसमं तत्र ज्ञेयः सर्वकुलोद्भवः।C द्वेषकुलं समासाद्य ज्ञेयः सर्वकुलार्णवः।")॥
+अनेन गुह्यवज्रेण सर्वसत्त्वं [विघातयेत्]("BC ° सत्त्वाभिघातयेत्।")।  
+येऽप्यस्य तस्य[^61]वज्रस्य बुद्ध[क्षेत्र]("BC क्षिप्रं।") जिनौरसाः।  
+[द्वेषकुलसमायोगं ज्ञेयः सर्वकुलोन्नतम्]("B द्वेषकुलसमं तत्र ज्ञेयः सर्वकुलोद्भवः।C द्वेषकुलं समासाद्य ज्ञेयः सर्वकुलार्णवः।")॥
 
 [^61]: "ACये ये तेभ्य।"
 
 अथ वज्रधरो राजा ज्ञानमोक्षप्रसाधकः।  
-स्वभाबशुद्ध[निर्लेपो](http://॑ "B ° निलये, C° निरये।")बोधिचर्याप्रवर्त्तकः॥
+स्वभाबशुद्ध[निर्लेपो]("B ° निलये, C° निरये।")बोधिचर्याप्रवर्त्तकः॥
 
 भाषते[^62]समयं तत्त्वं बुद्धबोधिप्रसाधकम्।  
 आकाशधातुमध्यस्थं भावयेच्चक्रमण्डलम्॥
@@ -1501,22 +1424,22 @@ CONTENTS.
 वैरोचनं विभावित्वा सर्वबुद्धान् विभावयेत्।  
 सर्वरत्नप्रयोगेन वज्रबिम्बं प्रकल्पयेत्॥
 
-हरणं सर्वद्रव्या[णां](http://॑ "C ° नि।") त्रिवज्रेण विभावयेत्।  
+हरणं सर्वद्रव्या[णां]("C ° नि।") त्रिवज्रेण विभावयेत्।  
 भवन्ति चिन्तामणिसमा द्रव्योदधिप्रपूरिताः॥
 
 औरसाः सर्वबुद्धानां भवन्ति मुनिपुङ्गवाः।  
-मोहकुलसमं [तत्त्वं](http://॑ "A ° समायोगं, C तत्वसमं।") ज्ञेयं सर्व[कुलोद्भवैः](http://॑ "BC ° कुलार्णवे।")॥
+मोहकुलसमं [तत्त्वं]("A ° समायोगं, C तत्वसमं।") ज्ञेयं सर्व[कुलोद्भवैः]("BC ° कुलार्णवे।")॥
 
-अथ वज्रधरो राजा राग[मोह](http://॑ "AC ° मोक्ष।")प्रसाधकः।  
+अथ वज्रधरो राजा राग[मोह]("AC ° मोक्ष।")प्रसाधकः।  
 गुह्यशुद्धनिरालम्ब उद्घोषयति मण्डलम्॥
 
 आकाशधातुमध्यस्थंभावयेत् पद्ममण्डलम्।  
-अमि[ताभं](http://॑ "C ° युं।")प्रभावित्वा बुद्धैःसर्वं प्रपूरयेत्॥
+अमि[ताभं]("C ° युं।")प्रभावित्वा बुद्धैःसर्वं प्रपूरयेत्॥
 
 योषिदाकारसंयोगं सर्वेषां तत्र भावयेत्।  
 चतुःसमययोगेन इदं वज्रनयोत्तमम्॥
 
-द्वयेन्द्रियप्रयोगेन [सर्वांस्तानुप](http://॑ "B ° ननु °।")भुञ्जयेत्।  
+द्वयेन्द्रियप्रयोगेन [सर्वांस्तानुप]("B ° ननु °।")भुञ्जयेत्।  
 इदन्तत् सर्वबुद्धानां त्रिकायाभेद्यभावनम्॥
 
 रागकुलसमायोगं भावनीयं तु[^63]मन्त्रिणा॥
@@ -1530,29 +1453,33 @@ CONTENTS.
 वज्रामोघं प्रभावित्वा सर्वबुद्धांस्तु भावयेत्॥
 
 मृषावादं वज्रपदं सर्वबिम्बान् विभावयेत्।  
-विसम्बादये[ज्जिनान्](http://॑ "A° दवज्रिणं।")सर्वांस्तथा सर्वजिनालयान्॥
+विसम्बादये[ज्जिनान्]("A° दवज्रिणं।")सर्वांस्तथा सर्वजिनालयान्॥
 
 इदन्तत् सर्वबुद्धानां वागाकाशं सुनिर्मलम्।  
 मन्त्रसिद्धिकरं प्रोक्त रहस्यं ज्ञानबुद्धिनाम्॥
 
-[समया](http://॑ "A समा °।")कर्षणकुलं प्रेर[णीयं](http://॑ "B ° यो।") यथार्थतः।  
+[समया]("A समा °।")कर्षणकुलं प्रेर[णीयं]("B ° यो।") यथार्थतः।  
 अथ वज्रधरो राजा त्रिवज्राभेद्यवज्रिणम्।  
 सिद्धिवज्रप्रणेता च इदं[^64] वचनमब्रवीत्॥
 
 [^64]: "A  ° रमिदं।"
 
-[आकाश](http://॑ "BC omit three linesfrom here.")धातुमध्यस्थं भावयेत् समयमण्डलम्।  
+[आकाश]("BC omit three linesfrom here.")धातुमध्यस्थं भावयेत् समयमण्डलम्।  
 रत्नकेतुं प्रभावित्त्वा सर्वबिम्बैरिदं स्फरेत्॥
 
 पारुष्यवचनाद्यैस्तु सेवयन् ज्ञानमाप्नुयात्।
 
- इत्याह भगवान् सर्वतथागत[वज्रव्यूहः](http://॑ "AC omit ° वज्र °।")॥
+ इत्याह भगवान् सर्वतथागत[वज्रव्यूहः]("AC omit ° वज्र °।")॥
 
- अथ खलु सर्वतथागतसमयवज्रकेतुप्रमुखास्ते महाबोधिसत्त्वा आश्चर्यप्राप्ताअद्भुतप्राप्ता इदं वाग्वज्र[^65]घोषमकार्षुः। किमयं भगवान् सर्वतथागताधिपतिः वैधातु[व्यतिरिक्तान्](http://॑ "A व्यक्तरक्षां।")सर्वलोकधातुव्यतिरिक्तान् सर्वतथागतसर्वबोधिसत्त्वपर्षन्मध्ये अद्भुत[वाक्यार्थ](http://॑ "AC ° वाक्य °।")वज्रपदं भाषते स्म।
+ अथ खलु सर्वतथागतसमयवज्रकेतुप्रमुखास्ते महाबोधिसत्त्वा आश्चर्यप्राप्ताअद्भुतप्राप्ता इदं वाग्वज्र[^65]घोषमकार्षुः। किमयं भगवान् सर्वतथागताधिपतिः वैधातु[व्यतिरिक्तान्]("A व्यक्तरक्षां।")सर्वलोकधातुव्यतिरिक्तान् सर्वतथागतसर्वबोधिसत्त्वपर्षन्मध्ये अद्भुत[वाक्यार्थ]("AC ° वाक्य °।")वज्रपदं भाषते स्म।
 
 [^65]: "A बोधिसत्त्व कथं वज्र °, C वाक्कायवज्र °।"
 
- अथ भगवन्तः सर्वतथागतास्तानभिलाप्यानभिलाप्यबुद्धक्षेत्रसुमेरुपरमाणुरजःसमान् सर्वतथागतसमयवज्रकेतुप्रमुखान्महाबोधिसत्त्वानेवमाहुः। मा कुलपुत्रा इमां हीनसंज्ञांजुगुप्सितसंज्ञां चोत्पादयथ।तत् कस्माद्धेतोः। रागचर्या[^66]कुलपुत्रा यदुत बोधिसत्त्वचर्यायदुतअग्रचर्य्या[^67]।तद्यथाअपि नाम कुलपुत्रा आकाशंसर्वत्रानुगतं[^68] आकाशानु[^69]गतानि सर्वधर्माणि। [तानि](http://॑ "BC add च सर्वधर्माणि")न कामधातुस्थितानि न[रूपधातुस्थितानि](http://॑ "AB omit म रूपधातुस्थितानि।")नारूपधातुस्थितानि न चतुर्महाभूतस्थितानि। एवमेव कुलपुत्राः सर्वधर्मा अनुगन्तव्याः।इदमर्थवशं [विज्ञाय](http://॑ "A° नं।") सर्वतथागताः सर्वसत्त्वा[^32]नामाशयं विज्ञाय[ततो](http://॑ "Adds एतान्।") धर्मं देशयन्ति।
+ अथ भगवन्तः सर्वतथागतास्तानभिलाप्यानभिलाप्यबुद्धक्षेत्रसुमेरुपरमाणुरजःसमान् सर्वतथागतसमयवज्रकेतुप्रमुखान्महाबोधिसत्त्वानेवमाहुः। मा कुलपुत्रा इमां हीनसंज्ञांजुगुप्सितसंज्ञां चोत्पादयथ।तत् कस्माद्धेतोः। रागचर्या[^66]कुलपुत्रा यदुत बोधिसत्त्वचर्यायदुतअग्रचर्य्या[^67]।तद्यथाअपि नाम कुलपुत्रा आकाशंसर्वत्रानुगतं[^68] आकाशानु[^69]गतानि सर्वधर्माणि। [तानि]("BC add च सर्वधर्माणि")न कामधातुस्थितानि न[रूपधातुस्थितानि]("AB omit म रूपधातुस्थितानि।")नारूपधातुस्थितानि न चतुर्महाभूतस्थितानि। एवमेव कुलपुत्राः सर्वधर्मा अनुगन्तव्याः।इदमर्थवशं [विज्ञाय]("A° नं।") सर्वतथागताः सर्वसत्त्वा[^32]नामाशयं विज्ञाय[ततो]("Adds एतान्।") धर्मं देशयन्ति।
+
+[^32]: "BC omit."
+
+[^32]: "BC omit."
 
 [^32]: "BC omit."
 
@@ -1564,50 +1491,50 @@ CONTENTS.
 
 [^69]: "C न साका °।"
 
- एवमेव कुलपुत्रा आकाशधातुपद[^71]निरुक्त्या[^72][ते](http://॑ "A एव।") तथागतसमया अनुगन्तव्याः। तद्यथा अपि नाम कुलपुत्राः काण्डं चमथनीयं च पुरुषहस्तव्यायामं च प्रतीत्य धूमः प्रादुर्भवतिअग्निमभि[वर्त्तयति](http://॑ "C निवर्त्तयति।")सचाग्निर्न काण्डस्थितो न मथनीयस्थितो न पुरुषहस्तव्यायामस्थितः। एवमेव कुलपुत्रासर्वतथागतवज्रसमया अनुगन्तव्याः गमनागमनाद्यैरिति।अथ ते सर्वे बोधिसत्त्वा आश्चर्यप्राप्ता अद्भुत[प्राप्ता](http://॑ "B omits.") विस्मयोत्फुल्ललोचना इदं घोषमकार्षुः। 
+ एवमेव कुलपुत्रा आकाशधातुपद[^71]निरुक्त्या[^72][ते]("A एव।") तथागतसमया अनुगन्तव्याः। तद्यथा अपि नाम कुलपुत्राः काण्डं चमथनीयं च पुरुषहस्तव्यायामं च प्रतीत्य धूमः प्रादुर्भवतिअग्निमभि[वर्त्तयति]("C निवर्त्तयति।")सचाग्निर्न काण्डस्थितो न मथनीयस्थितो न पुरुषहस्तव्यायामस्थितः। एवमेव कुलपुत्रासर्वतथागतवज्रसमया अनुगन्तव्याः गमनागमनाद्यैरिति।अथ ते सर्वे बोधिसत्त्वा आश्चर्यप्राप्ता अद्भुत[प्राप्ता]("B omits.") विस्मयोत्फुल्ललोचना इदं घोषमकार्षुः। 
 
 [^71]: "B omits ° धातुपद °।"
 
 [^72]: "A ° क्तानि"
 
-[महाद्भुतेषु](http://॑ "A महद्गुणेषु।")धर्मेषु आकाश[सदृशेषु](http://॑ "A° समयेषु।") च।  
+[महाद्भुतेषु]("A महद्गुणेषु।")धर्मेषु आकाश[सदृशेषु]("A° समयेषु।") च।  
 निर्विकल्पेषु शुद्धेषु संवृति[^73]स्तु प्रगीयते॥
 
 [^73]: " B ° द्धि °।"
 
 **इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजेमहागुह्यतन्त्रराजेपरमार्थाद्वयतत्त्वार्थसमयपटलः नवमोऽध्यायः।**
 
- अथ भगवन्तः सर्वतथागताः पुनः समाज[मागत्य](http://॑ "BC ° म्य।")भगवन्तंसर्वतथा[गताधिपतिं](http://॑ "omitted in AC.")महासमयवज्रतत्त्वाभिसम्बोधिकायवाक्चित्तगुह्यं तथागतं नमस्यैवमाहुः।
+ अथ भगवन्तः सर्वतथागताः पुनः समाज[मागत्य]("BC ° म्य।")भगवन्तंसर्वतथा[गताधिपतिं]("omitted in AC.")महासमयवज्रतत्त्वाभिसम्बोधिकायवाक्चित्तगुह्यं तथागतं नमस्यैवमाहुः।
 
 भाषस्वभगवन् तत्त्वंमन्त्रसारसमुच्चयम्।  
-कायवाक्चित्त[गुह्याख्यं](http://॑ "A ° गुह्यं च।") महासिद्धिनयोत्तमम्॥ इति।
+कायवाक्चित्त[गुह्याख्यं]("A ° गुह्यं च।") महासिद्धिनयोत्तमम्॥ इति।
 
-अथ वज्रधरो राजा सर्वक्ले[शान्तकृत्](http://॑ "C ° शार्णवः।") प्रभुः।  
-[दीप्तवर्णो](http://॑ " A ° श्चण्डो।") विशालाक्ष इदं वचनमब्रवीत्॥
+अथ वज्रधरो राजा सर्वक्ले[शान्तकृत्]("C ° शार्णवः।") प्रभुः।  
+[दीप्तवर्णो](" A ° श्चण्डो।") विशालाक्ष इदं वचनमब्रवीत्॥
 
 कायवाक्चित्तवज्रानां कायवाक्चित्तभावनम्॥
 
 निर्विकल्पनिरालम्बसमता न क्वचित् स्थितम्॥
 
- अथ भगवान् स्वभावशुद्धस्तथागतः पारमितामन्त्रनयवज्रंनाम समाधिं समापन्नः तांश्च सर्वतथागतानेवं आह। अस्ति भगवन्तः सर्वतथागता अक्षोभ्यप्रमुखाः सर्व[तथागता](http://॑ "A °खास्तथा °।") [अनेक](http://॑ "AB ° कैः।")विद्याकोटिनियुतशतसहस्रैः सर्वार्थक्रियानाटकं दर्शयन्ति। दशदिग्लोकधातुपर्यवसानेषु सर्वलोक[धातुषु](http://॑ "BC omit.") पञ्चकामगुणैः क्रीडन्ति रमन्ते [परिवारयन्ति](http://॑ "A विचालयन्ति।")। न च [ते](http://॑ "A तेन।") [मन्त्र](http://॑ "A omits.")चर्याभियुक्तमवलोकयन्ति। तत् कस्माद्धेतोः? निष्पन्नो बतायं तथागतमन्त्रचर्यानय[धर्मतत्त्वे](http://॑ " A° धर्मे।")। [तत्र](http://॑ "Cतत्,B omits. ") तेषां महासत्पु[^74]रुषाणांव्यवलोकनार्थमिदं सर्वतथागतकायवाक्चित्तमन्त्र[^75][रहस्यं](http://॑ " C adds सर्व° before.")
+ अथ भगवान् स्वभावशुद्धस्तथागतः पारमितामन्त्रनयवज्रंनाम समाधिं समापन्नः तांश्च सर्वतथागतानेवं आह। अस्ति भगवन्तः सर्वतथागता अक्षोभ्यप्रमुखाः सर्व[तथागता]("A °खास्तथा °।") [अनेक]("AB ° कैः।")विद्याकोटिनियुतशतसहस्रैः सर्वार्थक्रियानाटकं दर्शयन्ति। दशदिग्लोकधातुपर्यवसानेषु सर्वलोक[धातुषु]("BC omit.") पञ्चकामगुणैः क्रीडन्ति रमन्ते [परिवारयन्ति]("A विचालयन्ति।")। न च [ते]("A तेन।") [मन्त्र]("A omits.")चर्याभियुक्तमवलोकयन्ति। तत् कस्माद्धेतोः? निष्पन्नो बतायं तथागतमन्त्रचर्यानय[धर्मतत्त्वे](" A° धर्मे।")। [तत्र]("Cतत्,B omits. ") तेषां महासत्पु[^74]रुषाणांव्यवलोकनार्थमिदं सर्वतथागतकायवाक्चित्तमन्त्र[^75][रहस्यं](" C adds सर्व° before.")
 
 [^74]: "A महापु °।"
 
 [^75]: "A adds ° वज्र °।"
 
-[मन्त्र](http://॑ "A adds° गुह्य°।")हृदयसंचोदनं नाम महापरमगुह्यं सर्वतथागतकायवाक्चित्तसमयालम्बनं[^76]सर्ववज्रधरकायवाक्चित्तसमयालम्बनं सर्वधर्मधरकायवाक्चित्तसमयालम्बनं स्वकायवाक्चित्तवज्रेभ्यो[वाक्पथ](http://॑ "A वाह्यार्थ।")निरुक्त्याइदं मन्त्रसमुच्चयमुदाजहार।
+[मन्त्र]("A adds° गुह्य°।")हृदयसंचोदनं नाम महापरमगुह्यं सर्वतथागतकायवाक्चित्तसमयालम्बनं[^76]सर्ववज्रधरकायवाक्चित्तसमयालम्बनं सर्वधर्मधरकायवाक्चित्तसमयालम्बनं स्वकायवाक्चित्तवज्रेभ्यो[वाक्पथ]("A वाह्यार्थ।")निरुक्त्याइदं मन्त्रसमुच्चयमुदाजहार।
 
 [^76]: " C omits fromसर्व° etc. to समयालम्बनंbelow."
 
 ॥हूँ ओं आःस्वाहा॥
 
-अथास्मिन् भाषितमात्रे सर्वबुद्धाः [सहौ](http://॑ "AC सऔ°।")रसाः।  
+अथास्मिन् भाषितमात्रे सर्वबुद्धाः [सहौ]("AC सऔ°।")रसाः।  
 कम्पिता मूर्च्छामापेदेवज्रसत्त्वमनुस्मरन्॥
 
 अथ वज्रपाणिः सर्वतथागताधिपतिरिमं समयमुदाजहार।
 
 आकाशधातुमध्यस्थं भावयेद् बुद्धमण्डलम्।  
-हुँकारं तत्र मध्यस्थं [स्वबिम्बेन](http://॑ "A बुद्धबिम्बं।")प्रकल्पयेत्॥
+हुँकारं तत्र मध्यस्थं [स्वबिम्बेन]("A बुद्धबिम्बं।")प्रकल्पयेत्॥
 
 वज्ररश्मिमहादीप्तं विस्फुरन्तं विचिन्तयेत्।  
 बुद्धानां कायवाक्चित्तं हृतं तेन[^77] विभावयेत्॥
@@ -1615,30 +1542,30 @@ CONTENTS.
 [^77]: " Aहृद्गतेन।"
 
 स भवेत्तत्क्षणात् एव कायवाक्चित्तवज्रधृक्।  
-वज्रसत्त्वो महाराजः [सर्वाग्रः](http://॑ "C पर्वाग्रः, A सर्वार्थः।") परमेश्वरः॥
+वज्रसत्त्वो महाराजः [सर्वाग्रः]("C पर्वाग्रः, A सर्वार्थः।") परमेश्वरः॥
 
 स्वमण्डलं स्वमन्त्रेण निष्पादनविधिर्भवेत्।  
 इदन्तत् सर्वबुद्धानां सारं वज्रसमुच्चयम्॥
 
-स्वमन्त्रपुरुषं[^78] ध्यात्वा चतुःस्थानेषु [रूपतः](http://॑ "A पुरतः।")।  
+स्वमन्त्रपुरुषं[^78] ध्यात्वा चतुःस्थानेषु [रूपतः]("A पुरतः।")।  
 त्रिमुखाकारयोगेन त्रिवर्णेन विभावयेत्॥
 
 [^78]: "C ° रूपं।"
 
 इत्याह भगवान् खवज्रसमयः। तत्रेदं परमं वज्ररहस्यम्।
 
-हृदयमध्यगतं [सूक्ष्मं](http://॑ "A गुह्यं।")मण्डलानां विभावनम्।  
+हृदयमध्यगतं [सूक्ष्मं]("A गुह्यं।")मण्डलानां विभावनम्।  
 तस्य मध्यगतं चिन्तेद[^79]क्षरं परमं पदम्॥
 
 [^79]: "A चित्तम °।"
 
-**पञ्चशूलं महावज्रं भावयेत् [योगवित्](http://॑ "B° गतः।")सदा।  
+**पञ्चशूलं महावज्रं भावयेत् [योगवित्]("B° गतः।")सदा।  
 चिन्तयेत् त्रीणि वज्राणि वज्राङ्कुशप्रभेदतः॥**
 
-**हृदयं ताडयेत् तेन [देवताद्यं](http://॑ "A नवतां वा।") प्रचोदयेत्।  
-इदं तत् सर्ववज्राणां बुद्ध[बिम्ब](http://॑ "A ° बोधि °")प्रसाधनम्॥**
+**हृदयं ताडयेत् तेन [देवताद्यं]("A नवतां वा।") प्रचोदयेत्।  
+इदं तत् सर्ववज्राणां बुद्ध[बिम्ब]("A ° बोधि °")प्रसाधनम्॥**
 
-**चक्रपद्मकराभ्यां [तु](http://॑ "AC ° कुलाद्यैस्तु।")बज्राङ्कुशविभावनम्।  
+**चक्रपद्मकराभ्यां [तु]("AC ° कुलाद्यैस्तु।")बज्राङ्कुशविभावनम्।  
 चोदनं हृदये प्रोक्तं इदं नाटकसम्भवम्॥**
 
 **सप्ताहं यावत् कुर्वीत इदं वज्रनयोत्तमम्।  
@@ -1651,24 +1578,24 @@ CONTENTS.
 अतिक्रामेद्यदि मोहात् तदन्तं तस्य जीवितम्॥**
 
 **अथ वज्रधरो राजा त्रिलोकाग्रानुशासकः।  
-त्रिलोकवरवज्रा[ग्रमिदं](http://॑ " A° ग्र इदं °।")घोषमकार्षीत्॥**
+त्रिलोकवरवज्रा[ग्रमिदं](" A° ग्र इदं °।")घोषमकार्षीत्॥**
 
 **यावन्तो मन्त्रपुरुषास्त्रिवज्रज्ञानपूरिताः।  
-[द्वये](http://॑ "B यथे°।")न्द्रियप्रयोगेण सर्वभावविकल्पनम्॥**
+[द्वये]("B यथे°।")न्द्रियप्रयोगेण सर्वभावविकल्पनम्॥**
 
-**इदं तत् सर्वबुद्धानां मन्त्रसमय[साधनम्](http://॑ "AC ° भावनम्।")।  
-[विश्वे](http://॑ "A विद्ये °।")श्वरीप्रविष्टेषु वज्रसंयोग[भावना](http://॑ "A° नम्। ")।  
-रक्तां रक्तेक्षणां [वीक्ष्येत्](http://॑ " A° क्ष्य।")इदं समयमण्डलम्॥**
+**इदं तत् सर्वबुद्धानां मन्त्रसमय[साधनम्]("AC ° भावनम्।")।  
+[विश्वे]("A विद्ये °।")श्वरीप्रविष्टेषु वज्रसंयोग[भावना]("A° नम्। ")।  
+रक्तां रक्तेक्षणां [वीक्ष्येत्](" A° क्ष्य।")इदं समयमण्डलम्॥**
 
 **अथ वज्रधरो राजा सर्वताथागतात्मजः।  
 सर्वाभिषेकबुद्धाग्र इदं वचनमब्रवीत्॥**
 
-लोकधातुषु सर्वेषु यावत्यो [योषितः](http://॑ "AB बोधितः। ") स्मृताः।  
+लोकधातुषु सर्वेषु यावत्यो [योषितः]("AB बोधितः। ") स्मृताः।  
 महामुद्राप्रयो[^80]गेण सर्वास्ता उपभुञ्जयेत्॥
 
 [^80]: "B° दि °। "
 
-स्फरेद्बुद्धपदं तत्र असंख्या[^81]कोटिवज्रि[णाम्।](http://॑ "C ° ण।")
+स्फरेद्बुद्धपदं तत्र असंख्या[^81]कोटिवज्रि[णाम्।]("C ° ण।")
 
 [^81]: "B° ङ्ख्य °।"
 
@@ -1679,7 +1606,7 @@ CONTENTS.
 
 इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजे महागुह्यतन्त्रराजे सर्वतथागतहृदयसञ्चोदनो नामपटलः दशमोऽध्यायः॥
 
- अथ [भगवान्](http://॑ "A adds सर्वतथागतगुह्य before this.")कायवाक्चित्त[वज्र](http://॑ "A omits ° वज्र °।")स्तथागतोवज्रपुरुषोत्तमं[^82]नाम समाधिं समापद्येदं सर्वतथागतमन्त्र[वज्र](http://॑ "Aadds विद्या।")पुरु[षोत्तम](http://॑ "BC ° ष °।")[पटल](http://॑ "A पद ०।")मुदाजहार।
+ अथ [भगवान्]("A adds सर्वतथागतगुह्य before this.")कायवाक्चित्त[वज्र]("A omits ° वज्र °।")स्तथागतोवज्रपुरुषोत्तमं[^82]नाम समाधिं समापद्येदं सर्वतथागतमन्त्र[वज्र]("Aadds विद्या।")पुरु[षोत्तम]("BC ° ष °।")[पटल]("A पद ०।")मुदाजहार।
 
 [^82]: "Aadds सर्वतथागतवज्रमन्त्रविद्या and C adds सर्वतथागत before this."
 
@@ -1687,13 +1614,13 @@ CONTENTS.
 कर्त्तव्यंज्ञानवज्रेण सर्वबोधिसमावहम्॥**
 
 **ओँकारं ज्ञानहृदयं कायवज्रसमावहम्।  
-आःकारं बोधिनैरात्म्यं [वाक्य](http://॑ "A वाग्°।")वज्रसमावहम्॥**
+आःकारं बोधिनैरात्म्यं [वाक्य]("A वाग्°।")वज्रसमावहम्॥**
 
 **हूँकारं कायवाक्चित्तं त्रिवज्राभेद्यमावहम्।**
 
- इत्याह भगवान् सर्वतथागतकायवाक्चित्त[मन्त्र](http://॑ " A addsविद्या।")पुरुषः।
+ इत्याह भगवान् सर्वतथागतकायवाक्चित्त[मन्त्र](" A addsविद्या।")पुरुषः।
 
-**खवज्रमध्यगं [चिन्तेत्](http://॑ " A चित्तं।")मण्डलं सर्ववज्रगम्।  
+**खवज्रमध्यगं [चिन्तेत्](" A चित्तं।")मण्डलं सर्ववज्रगम्।  
 भ्रुँकारं भावयेत्तत्र वज्रमेघस्फरा[^83]वहम्॥**
 
 [^83]: "A समा°।"
@@ -1707,15 +1634,19 @@ CONTENTS.
 
 [^84]: "B आ°।"
 
-**धर्म्ममण्डलमध्यस्थहूँकारस्य[^85] [विभावना](http://॑ "A प्रभावनम्।")।  
+**धर्म्ममण्डलमध्यस्थहूँकारस्य[^85] [विभावना]("A प्रभावनम्।")।  
 भ्रुँकारमालयं ध्यात्वा त्रिवज्रोत्पत्तिभावना॥**
+
+[^85]: "B omitsthis line."
+
+[^85]: "B omitsthis line."
 
 [^85]: "B omitsthis line."
 
  इत्याह भगवान् गुह्यसमयः।
 
-हृदयं [त्र्यध्व](http://॑ "A सर्व°।")बुद्धेभ्यः कायवाक्चित्त[रञ्जनम्](http://॑ "C पञ्जरः।")।  
-ओँकारं बुद्धकायाग्र्यंआःकारं [वाक्पथम्](http://॑ "A बुद्धवाक्।") तथा॥
+हृदयं [त्र्यध्व]("A सर्व°।")बुद्धेभ्यः कायवाक्चित्त[रञ्जनम्]("C पञ्जरः।")।  
+ओँकारं बुद्धकायाग्र्यंआःकारं [वाक्पथम्]("A बुद्धवाक्।") तथा॥
 
 हूँकारं चित्तज्ञानौघं इदं बोधिनयोत्तमम्।  
 इदं तत्सर्वबुद्धानां बुद्धबोधिप्रसाधकम्॥
@@ -1725,25 +1656,23 @@ CONTENTS.
 
 निष्पादनादिसमयैस्त्रिवज्राभेद्यभावनैः।
 
-
-॥सर्व[तथागत](http://॑ "A adds ° चित्त°।")समयतत्त्व[^86]ज्ञानवज्राधिष्ठानहेतुर्नाम समाधिः॥
+॥सर्व[तथागत]("A adds ° चित्त°।")समयतत्त्व[^86]ज्ञानवज्राधिष्ठानहेतुर्नाम समाधिः॥
 
 [^86]: "A ° ये।"
 
 विविक्तेषु च रम्येषु इदं योगं समारभेत्।  
 सिद्ध्यते कायवाक्चित्तं पक्षैकेन न संशयः॥
 
-खवज्रमध्यगं [चिन्तेत्](http://॑ " A चित्तं।") स्वच्छ्मण्डलमुत्तमम्।  
-[निष्पाद्य](http://॑ "A ° दयेत्।")स्वमन्त्रसमयं ओँकारं हृदये न्यसेत्॥
+खवज्रमध्यगं [चिन्तेत्](" A चित्तं।") स्वच्छ्मण्डलमुत्तमम्।  
+[निष्पाद्य]("A ° दयेत्।")स्वमन्त्रसमयं ओँकारं हृदये न्यसेत्॥
 
 पञ्चरश्मिमहामेघान् वैरोचनाग्रभावनैः।  
 अनेन कायंबुद्धस्य वज्रवैरोचनोदधिः॥
 
 सिध्यते पक्षमात्रेण बुद्धकायसमप्रभः।  
-त्रिवज्रकल्पंतिष्ठेयुः [सेवयन्](http://॑ "A ° न्नैव।") पञ्चज्ञानिनाम्॥
+त्रिवज्रकल्पंतिष्ठेयुः [सेवयन्]("A ° न्नैव।") पञ्चज्ञानिनाम्॥
 
- इत्याह भगवान् [काय](http://॑ "C वाग्°।")वज्रगुह्यः।
-
+ इत्याह भगवान् [काय]("C वाग्°।")वज्रगुह्यः।
 
 ॥सर्वतथागतकाय[^87]रश्मिव्यूहो[^88]नाम समाधिः॥
 
@@ -1751,7 +1680,7 @@ CONTENTS.
 
 [^88]: "A वज्ररश्मि, C समयसम्भवो।"
 
-खवज्रमध्यगं[^89] [चिन्तेत्](http://॑ " A चित्तं।")धर्ममण्डलमुत्तमम्।  
+खवज्रमध्यगं[^89] [चिन्तेत्](" A चित्तं।")धर्ममण्डलमुत्तमम्।  
 निष्पाद्य स्वमन्त्रपुरुषमाःकारं वाक्पथे न्यसेत्॥
 
 [^89]: "C omits4 linesfrom here."
@@ -1759,7 +1688,7 @@ CONTENTS.
 पञ्चवर्णमहावज्रं लोकेश्वराग्रभावनैः  
 निष्पाद्य समयज्ञानवाक्समयप्रपञ्चकम्॥
 
-[धर्मवाक्य](http://॑ "B ° क्पथ °।")समारूढ़ो धर्मवज्रसमो भवेत्।  
+[धर्मवाक्य]("B ° क्पथ °।")समारूढ़ो धर्मवज्रसमो भवेत्।  
 त्रिवज्रकल्पं तिष्ठेयुः सेवयन् पञ्चज्ञानिनाम्॥
 
  इत्याह भगवान् वाग्वज्रगुह्यः।
@@ -1769,17 +1698,17 @@ CONTENTS.
 खवज्रमध्यगं चिन्तेत् वज्रमण्डलमुत्तमम्।  
 निष्पाद्य स्वमन्त्रपुरुषं हूँकारं चित्तसंस्थितम्॥
 
-[महा](http://॑ "A adds ° वज्र °।")समयतत्त्वंवै पञ्चवर्णंविभावयेत्।  
+[महा]("A adds ° वज्र °।")समयतत्त्वंवै पञ्चवर्णंविभावयेत्।  
 कर्त्तव्यं ज्ञानवज्रेण सर्ववज्रजिनालयम्॥
 
-वज्रचित्तसमः शास्ता स [भवेद्](http://॑ " A सर्व °।")ज्ञानगुणोदधिः।  
+वज्रचित्तसमः शास्ता स [भवेद्](" A सर्व °।")ज्ञानगुणोदधिः।  
 त्रिवज्रकल्पं तिष्ठेयुः सेवयन् पञ्चज्ञानिनाम्॥
 
  इत्याह भगवान् वज्रचित्तगुह्यः।
 
- ॥सर्वतथागतकाय[वाक्चित्त](http://॑ "A adds° समयसम्भव °।")वज्रोनाम समाधिः॥
+ ॥सर्वतथागतकाय[वाक्चित्त]("A adds° समयसम्भव °।")वज्रोनाम समाधिः॥
 
-महावज्रंसमाधाय [ज्ञान](http://॑ "A वज्र °।")मण्डलमध्यतः।  
+महावज्रंसमाधाय [ज्ञान]("A वज्र °।")मण्डलमध्यतः।  
 खँकारं सर्वकार्येषु खवज्रज्ञानसमो भवेत्॥
 
 ॥खँ॥
@@ -1791,8 +1720,7 @@ CONTENTS.
 
  इत्याह भगवान् खवज्रसमयः।
 
-
-॥कायवाक्चित्तवज्रान्त[र्ज्वाल](http://॑ "A ° द्वार °।")सम्भवव्यूह[माल](http://॑ "A ° मालिनी।")ीनामसमाधिः॥
+॥कायवाक्चित्तवज्रान्त[र्ज्वाल]("A ° द्वार °।")सम्भवव्यूह[माल]("A ° मालिनी।")ीनामसमाधिः॥
 
 **ध्यात्वा स्वमन्त्रपुरुषं वज्रमण्डलमध्यतः।  
 हृदये हूँकारवज्राख्यं कृत्वा रश्मिविभावनम्॥**
@@ -1804,24 +1732,24 @@ CONTENTS.
 
  ॥बोधिसत्त्वज्ञानसमयचन्द्रवज्रो नाम समाधिः॥
 
-खधातुमध्यगं ध्यात्वा [ल्थीँ](http://॑ "C प्लीं।")कारं ज्वाल[सुप्रभम्](http://॑ "A त्रिकालस्वप्रभाकरः।")।  
-[परमास्रो](http://॑ "A शास्ता, C परमन्त्रो।")वज्रकायेन वज्रकायसमो [भवेत्](http://॑ "A माचरेत्।")॥
+खधातुमध्यगं ध्यात्वा [ल्थीँ]("C प्लीं।")कारं ज्वाल[सुप्रभम्]("A त्रिकालस्वप्रभाकरः।")।  
+[परमास्रो]("A शास्ता, C परमन्त्रो।")वज्रकायेन वज्रकायसमो [भवेत्]("A माचरेत्।")॥
 
 ॥ल्थीँ॥
 
  ॥खवज्रसमयव्यूहालयो नाम समाधिः॥
 
-बुद्धाभिज्ञाग्रसमयैः पञ्चाभिज्ञ[समो](http://॑ "A °समयो।") भवेत्।  
-इदन्तत् सर्व[बुद्धानां](http://॑ "A सिद्धिं।") बुद्धाभिज्ञाग्रसाधनम्॥
+बुद्धाभिज्ञाग्रसमयैः पञ्चाभिज्ञ[समो]("A °समयो।") भवेत्।  
+इदन्तत् सर्व[बुद्धानां]("A सिद्धिं।") बुद्धाभिज्ञाग्रसाधनम्॥
 
-ख[धातु](http://॑ "C ° वज्र °I")मध्यगं चिन्तेत् [वज्र](http://॑ " Aबुद्ध °।")मण्डलमुत्तमम्।  
-वज्रसत्त्वंप्रभावित्वा [ज्ञाना](http://॑ "A °नमा°।")कारं प्रभावयेत्॥
+ख[धातु]("C ° वज्र °I")मध्यगं चिन्तेत् [वज्र](" Aबुद्ध °।")मण्डलमुत्तमम्।  
+वज्रसत्त्वंप्रभावित्वा [ज्ञाना]("A °नमा°।")कारं प्रभावयेत्॥
 
 ॥ओँ॥
 
- त्रिवज्रसमयध्यानेन त्रिवज्राक्षोभ्यसमो भवेदित्याह भगवानक्षोभ्य[वज्रः](http://॑ "A° राजः।")।
+ त्रिवज्रसमयध्यानेन त्रिवज्राक्षोभ्यसमो भवेदित्याह भगवानक्षोभ्य[वज्रः]("A° राजः।")।
 
-अक्षोभ्यसमकायेन वाक्चित्ताग्रधृक् [सदा](http://॑ "A चित्तत्रिधारिणः। ")।  
+अक्षोभ्यसमकायेन वाक्चित्ताग्रधृक् [सदा]("A चित्तत्रिधारिणः। ")।  
 लोकधातुषु सर्वेषु पूज्यतेऽ[^91]क्षोभ्यवज्रिणः॥
 
 [^91]: "A° पूजयेद °।"
@@ -1837,19 +1765,19 @@ CONTENTS.
 
 [^93]: "C ओं।"
 
- त्रिवज्रसमयध्यानेन त्रिवज्रकेतुसमो भवेदित्याह भगवान्रत्न[केतु](http://॑ "C omits ° केतु °।")वज्रः।
+ त्रिवज्रसमयध्यानेन त्रिवज्रकेतुसमो भवेदित्याह भगवान्रत्न[केतु]("C omits ° केतु °।")वज्रः।
 
 कायवाक्चित्तवणज्रेरत्नकेतुसमप्रभः।  
-स भवेद् बोधिनैरात्म्यज्ञान[वज्र](http://॑ "AC ° गुह्य°।")समा[वहः](http://॑ "BC° लयः।")॥
+स भवेद् बोधिनैरात्म्यज्ञान[वज्र]("AC ° गुह्य°।")समा[वहः]("BC° लयः।")॥
 
- ॥रत्न[केतु](http://॑ "BC omit° केतु °।")समयसम्भोगवज्रो नाम समाधिः॥
+ ॥रत्न[केतु]("BC omit° केतु °।")समयसम्भोगवज्रो नाम समाधिः॥
 
 खधातुमध्यगतं चिन्तेत् बुद्धमण्डलमुत्तमम्।  
-लोकेश्वरं प्रभावित्वा [धर्म्मोँ](http://॑ "A धन्वा, ° C धर्मा°।")कारं विभावयेत्॥
+लोकेश्वरं प्रभावित्वा [धर्म्मोँ]("A धन्वा, ° C धर्मा°।")कारं विभावयेत्॥
 
 ॥ओँ॥
 
- त्रिवज्रसमयध्यानेन त्रिवज्रा[मित](http://॑ "C° मृत°।")समो भवेदित्याह भगवानमितवज्रः।
+ त्रिवज्रसमयध्यानेन त्रिवज्रा[मित]("C° मृत°।")समो भवेदित्याह भगवानमितवज्रः।
 
 कायवाक्चित्तवज्रेण अमितायुःसमप्रभः।  
 स भवेत् सर्वसत्त्वानां महायानपथोदयः॥
@@ -1859,7 +1787,7 @@ CONTENTS.
 [^94]: " AC add° गुण °। C omits ° वज्र °।"
 
 **खधातुमध्यगतं चिन्तेद् बुद्धमण्डलमुत्तमम्।  
-वज्रो[त्पलं](http://॑ "C ° त्प्रभं।") प्रभावित्वा समयौँकारं प्रभावयेत्॥**
+वज्रो[त्पलं]("C ° त्प्रभं।") प्रभावित्वा समयौँकारं प्रभावयेत्॥**
 
 ॥ओँ॥
 
@@ -1871,18 +1799,18 @@ CONTENTS.
  ॥अमोघसमयरश्मिज्ञानाग्रसम्भवो नाम समाधिः॥
 
 खधातुमध्यगतं चिन्तेत् बुद्धमण्डलमुत्तमम्।  
-वैरोचनवज्रं प्रभावित्वा [त्रिरोँकारं](http://॑ "त्रिकालं, C त्रयोंकारं।") प्रभावयेत्॥
+वैरोचनवज्रं प्रभावित्वा [त्रिरोँकारं]("त्रिकालं, C त्रयोंकारं।") प्रभावयेत्॥
 
 ॥ओँ ओँ ओँ॥
 
- त्रिवज्रसमय[ध्यानेन](http://॑ "C adds त्रिवज्र before this.") वैरोचनवज्रसमो भवेदित्याह भगवान्वैरोचनवज्रः।
+ त्रिवज्रसमय[ध्यानेन]("C adds त्रिवज्र before this.") वैरोचनवज्रसमो भवेदित्याह भगवान्वैरोचनवज्रः।
 
 कायवाक्चित्तवज्रेण वैरोचनसमप्रभः।  
 स भवेद् ज्ञानसम्बोधिस्त्रिकायाभेद्यसाधकः॥
 
- ॥कायवाक्चित्तालम्बन[सम्बोधिवज्रो](http://॑ "A ° ज्रज्ञानं।")नाम समाधिः॥
+ ॥कायवाक्चित्तालम्बन[सम्बोधिवज्रो]("A ° ज्रज्ञानं।")नाम समाधिः॥
 
-पर्वतेषु विविक्तेषु नदीप्रस्रवणेषु [च](http://॑ " A वा।")।  
+पर्वतेषु विविक्तेषु नदीप्रस्रवणेषु [च](" A वा।")।  
 श्मशानादिष्वपि कार्य्यमिदं ध्यानसमुच्चयम्॥
 
 अक्षोभ्यज्ञानवज्रादीन् ध्यात्वा खवज्रमध्यतः।  
@@ -1891,28 +1819,28 @@ CONTENTS.
  इत्याह भगवान् महावज्रसमयवज्राभिज्ञः।
 
 पञ्चशूलं महावज्रंपञ्चज्वालाविभूषितम्।  
-पञ्चस्थानप्रयोगेण [पञ्चा](http://॑ "B वज्रा°।")भिज्ञसमो भवेत्॥
+पञ्चस्थानप्रयोगेण [पञ्चा]("B वज्रा°।")भिज्ञसमो भवेत्॥
 
 **स्वमन्त्रं भावयेच्चक्रं स्फुलिङ्गगहनाकुलम्।  
-पञ्चवज्रप्रयोगेण [पञ्चा](http://॑ " AC वज्रा °।")भिज्ञसमो भवेत्॥**
+पञ्चवज्रप्रयोगेण [पञ्चा](" AC वज्रा °।")भिज्ञसमो भवेत्॥**
 
 **खवज्रमध्यगं चिन्तेत् बुद्धज्वालासमप्रभम्।  
 ध्यात्वा बुद्धप्रवेशेन बुद्धाश्रयसमो भवेत्॥**
 
 **बुद्धमण्डलमध्यस्थं काये वैरोचनं न्यसेत्।  
-ओँ कारं हृदये ध्यात्वा [मन्त्र](http://॑ "A सर्व °।")विज्ञानभावना॥**
+ओँ कारं हृदये ध्यात्वा [मन्त्र]("A सर्व °।")विज्ञानभावना॥**
 
-**निरोध[वज्र](http://॑ "A चक्र °।")गतं चित्ते यदा तस्य प्रजायते।  
-स भवेच्चिन्तामणिः श्रीमान् सर्वबुद्धाग्र[साधकः](http://॑ "A ° धारकः।")॥**
+**निरोध[वज्र]("A चक्र °।")गतं चित्ते यदा तस्य प्रजायते।  
+स भवेच्चिन्तामणिः श्रीमान् सर्वबुद्धाग्र[साधकः]("A ° धारकः।")॥**
 
 **बुद्धमण्डलमध्यस्थं वज्राक्षोभ्यं प्रभावयेत्।  
 हूँ कारं हृदये ध्यात्वा चित्तबिन्दुगतं न्यसेत्॥**
 
-**बुद्धमण्डलमध्यस्थं [अमिताभं](http://॑ "BC अमितवज्रं।")प्रभावयेत्।  
-आःकारं हृदये ध्यात्वा [चित्त](http://॑ "A वज्र°।")विन्दुगतं न्यसेत्॥**
+**बुद्धमण्डलमध्यस्थं [अमिताभं]("BC अमितवज्रं।")प्रभावयेत्।  
+आःकारं हृदये ध्यात्वा [चित्त]("A वज्र°।")विन्दुगतं न्यसेत्॥**
 
-**इदन्तत् समया[ग्राग्र्यं](http://॑ " A ° ग्रेण।")त्रिवज्राभेद्य[भावनम्](http://॑ "B साधनम्।")।  
-[निरोधसमय](http://॑ "A भावयन्।")ज्ञानं बुद्धसिद्धिसमा[वहम्](http://॑ "C ° कुलम्, A ° वहेत्।")॥**
+**इदन्तत् समया[ग्राग्र्यं](" A ° ग्रेण।")त्रिवज्राभेद्य[भावनम्]("B साधनम्।")।  
+[निरोधसमय]("A भावयन्।")ज्ञानं बुद्धसिद्धिसमा[वहम्]("C ° कुलम्, A ° वहेत्।")॥**
 
 **खवज्रधातुमध्यस्थं भावयेत् स्वच्छमण्डलम्।  
 ओँ कारं कायवाक्चित्ते ध्यात्वा कल्पं स तिष्ठति॥**
@@ -1923,41 +1851,41 @@ CONTENTS.
 **खवज्रधातुमध्यस्थं भावयेद् वज्रमण्डलम्।  
 हूँकारं कायवाक्चित्ते ध्यात्वा कल्पं स तिष्ठति॥**
 
- इत्याह भगवान् [त्रिवज्र](http://॑ "AB add°कल्प °।")ज्ञानसमयः।
+ इत्याह भगवान् [त्रिवज्र]("AB add°कल्प °।")ज्ञानसमयः।
 
 **यः प्रभूतमिमं योगं कायवाक्चित्तवज्रिणः।  
-पठेद्वाचिन्तयेद्वापि सोऽपि वज्रधरो [भवेत्](http://॑ "A ° पमं भवेत्।")।**
+पठेद्वाचिन्तयेद्वापि सोऽपि वज्रधरो [भवेत्]("A ° पमं भवेत्।")।**
 
 इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजे महागुह्यतन्त्रराजे सर्वतथागतमन्त्रसमयतत्ववज्रविद्यापुरुषोत्तमपटल एकादशोऽधायः ॥
 
- अथ वज्रधरः शास्ता [स्रष्टा](http://॑ "C भ्रष्टा।")ज्ञानाग्रसाधकः त्रिवज्रसमयतत्त्ववाक्वज्रमुदा[जहार](http://॑ "C ° हरेत्।")।
+ अथ वज्रधरः शास्ता [स्रष्टा]("C भ्रष्टा।")ज्ञानाग्रसाधकः त्रिवज्रसमयतत्त्ववाक्वज्रमुदा[जहार]("C ° हरेत्।")।
 
-खधातुसमभूतेषु[^95] निर्विक[ल्पस्व](http://॑ "C ° ल्पेषु।")भाविषु।  
+खधातुसमभूतेषु[^95] निर्विक[ल्पस्व]("C ° ल्पेषु।")भाविषु।  
 स्वभावशुद्धधर्मेषु नाटकोऽयं प्रभाव्यते॥
 
 [^95]: "A खधातुसमयतुल्येषु।"
 
-महाटवी[प्रदे](http://॑ "C ° वे ॰।")शेषु फलपुष्पाद्यलङ्कृते।  
-पर्वते विजने [साध्यं](http://॑ "A जिनसाध्यस्थं।")सर्वसिद्धिसमुच्चयम्॥
+महाटवी[प्रदे]("C ° वे ॰।")शेषु फलपुष्पाद्यलङ्कृते।  
+पर्वते विजने [साध्यं]("A जिनसाध्यस्थं।")सर्वसिद्धिसमुच्चयम्॥
 
 ॥मँ[^96]॥
 
 [^96]: "A मूँ।"
 
-कायवाक्चित्तवज्रेषु [मञ्जु](http://॑ "A वज्रं।")वज्रप्रभावना \।  
-स्फरणं कायवाक्चित्ते मञ्जुवज्रसमो [भवेत्](http://॑ "A समुद्भवेत्।")॥
+कायवाक्चित्तवज्रेषु [मञ्जु]("A वज्रं।")वज्रप्रभावना \।  
+स्फरणं कायवाक्चित्ते मञ्जुवज्रसमो [भवेत्]("A समुद्भवेत्।")॥
 
-[योजनशत](http://॑ "A ° सङ्ग °।")विस्तारं प्रभया [दीप्त](http://॑ "C मञ्जु °। ")वज्रया।  
-[आ](http://॑ "B अव °।")भासयति [सिद्धा](http://॑ "Aदीप्ता°। ")त्मा [सर्वा](http://॑ " A सङ्घा °।")लङ्कारभूषितः॥
+[योजनशत]("A ° सङ्ग °।")विस्तारं प्रभया [दीप्त]("C मञ्जु °। ")वज्रया।  
+[आ]("B अव °।")भासयति [सिद्धा]("Aदीप्ता°। ")त्मा [सर्वा](" A सङ्घा °।")लङ्कारभूषितः॥
 
 ब्रह्मरुद्रादयो देवा न पश्यन्ति कदाचन।
 
- ॥मञ्जुश्रीवज्राग्रसमयान्त[र्द्धान](http://॑ "B ° त्तद्बोध °।")करीनाम समाधिः॥
+ ॥मञ्जुश्रीवज्राग्रसमयान्त[र्द्धान]("B ° त्तद्बोध °।")करीनाम समाधिः॥
 
-विण्मूत्रपञ्चसमयै[स्त्रिव](http://॑ " B ख °।")ज्राभेद्यसम्भवैः।  
+विण्मूत्रपञ्चसमयै[स्त्रिव](" B ख °।")ज्राभेद्यसम्भवैः।  
 कृत्वा त्रिलोहसहितं मुखे प्रक्षिप्य भावयेत्॥
 
-अभेदां सर्वबुद्धानां चित्तं [तत्र](http://॑ "A ततः।")प्रभावयेत्।  
+अभेदां सर्वबुद्धानां चित्तं [तत्र]("A ततः।")प्रभावयेत्।  
 स भवेत्तत्क्षणादेव[^97]मञ्जुवज्रसमप्रभः॥
 
 [^97]: "A ° दक्षयो देवो।"
@@ -1965,39 +1893,39 @@ CONTENTS.
 स्वमन्त्रेण प्रभावित्वा चक्रं स्फुलिङ्गसुप्रभम्।  
 आलयं सर्वबुद्धानां ध्यात्वा बुद्धसमो भवेत्॥
 
-षट्त्रिंशत्सुमेरूणां यावन्तः [परमाणवः](http://॑ " A adds योषितस्तस्य तावन्त्यो भविष्यन्ति गुणालयाः। त्रैधातुकमहावज्रोभवेदुद्रनमस्कृतः।")।  
+षट्त्रिंशत्सुमेरूणां यावन्तः [परमाणवः](" A adds योषितस्तस्य तावन्त्यो भविष्यन्ति गुणालयाः। त्रैधातुकमहावज्रोभवेदुद्रनमस्कृतः।")।  
 भवन्ति तस्यानुचराः सर्ववज्रधरोपमाः॥
 
  ॥चक्रसमयो नाम समाधिः॥
 
 स्वमन्त्रेण महावज्रं ध्यात्वा मण्डलमध्यतः।  
-आलयं [सर्व](http://॑ "A चित्त°।")वज्राणां चित्तवज्रसमो भवेत्॥
+आलयं [सर्व]("A चित्त°।")वज्राणां चित्तवज्रसमो भवेत्॥
 
 षट्त्रिंशत्सुमेरूणां यावन्तः परमाणवः।  
 योषितस्तस्य तावन्त्यो भविष्यन्ति गुणालयाः॥
 
-त्रैधातुकमहावज्रो[भवेदुद्र](http://॑ "AC ब्रह्मरुद्र °।")नमस्कृतः।
+त्रैधातुकमहावज्रो[भवेदुद्र]("AC ब्रह्मरुद्र °।")नमस्कृतः।
 
  ॥वज्रसमता नाम समाधिः॥
 
 पद्मं स्वमन्त्रवज्रेण ध्यात्वा अष्टदलं महत्।  
-आलयं सर्वधर्माणां [चिन्त्य](http://॑ " A सर्व °।")धर्मसमो भवेत्॥
+आलयं सर्वधर्माणां [चिन्त्य](" A सर्व °।")धर्मसमो भवेत्॥
 
 षट्त्रिंशत्सुमेरूणां यावन्तः परमाणवः।  
-संस्था[पयति](http://॑ "A ° पयेत्त्रि°।")शुद्धात्मा [बुद्धपूजा](http://॑ " A °वज्रा°।")ग्रमण्डले॥
+संस्था[पयति]("A ° पयेत्त्रि°।")शुद्धात्मा [बुद्धपूजा](" A °वज्रा°।")ग्रमण्डले॥
 
  ॥पद्मसमता नाम समाधिः॥
 
 तिष्ठेत् त्रिकल्पसमयं सेवयन् पञ्चज्ञानिनाम्।  
-दशदिक्सर्वबुद्धानां त्रिगुह्यं [पर्य्यु](http://॑ "A पूज्यमु°।")पासते॥
+दशदिक्सर्वबुद्धानां त्रिगुह्यं [पर्य्यु]("A पूज्यमु°।")पासते॥
 
-स्वमन्त्रं भावयेत् [खड्गं](http://॑ "A भगं।")पञ्चरश्मिस[मप्रभम्](http://॑ " B° माकुलम्।")।  
-पाणौ गृह्य विशालाक्षः[वज्र](http://॑ "B त्रिव °।")विद्याधरो भवेत्॥
+स्वमन्त्रं भावयेत् [खड्गं]("A भगं।")पञ्चरश्मिस[मप्रभम्](" B° माकुलम्।")।  
+पाणौ गृह्य विशालाक्षः[वज्र]("B त्रिव °।")विद्याधरो भवेत्॥
 
 त्रैधातुकमहापूज्यो दैत्यब्रह्मेन्द्र नमस्कृतः।  
-[त्रिसाहस्र](http://॑ "A ° स्रैक °।")महाशूरो भवेद्ब्रह्मनरोत्तमः॥
+[त्रिसाहस्र]("A ° स्रैक °।")महाशूरो भवेद्ब्रह्मनरोत्तमः॥
 
-यदभि[लषति](http://॑ "A ° लषित °।") चित्तेन कायवाक्चित्तवज्रिणः।  
+यदभि[लषति]("A ° लषित °।") चित्तेन कायवाक्चित्तवज्रिणः।  
 ददाति तादृशीं सिद्धिं चित्तवज्रप्रभाविताम्॥
 
  ॥सर्वखड्गोत्तमो नाम समाधिः॥
@@ -2005,16 +1933,20 @@ CONTENTS.
 ओंकारगुटिकां ध्यात्वा चणकास्थिप्रमाणतः।  
 मध्ये स्वदेवताबिम्बं मुखे चिन्त्य विभावयेत्॥
 
-स भवेत्तत्क्षणादेव [बोधि](http://॑ "AC ° चित्त °।")सत्त्वसमप्रभः।  
+स भवेत्तत्क्षणादेव [बोधि]("AC ° चित्त °।")सत्त्वसमप्रभः।  
 उदितादित्यसङ्काशो[^85]जाम्बूनदसमप्रभः॥
 
 [^85]: "B omitsthis line."
 
-आःकारगुटिकां ध्यात्वा चणकास्थिप्रमाणतः।  
-[मध्ये](http://॑ "omitted in A and C. ") स्वदेवताबिम्बं मुखे चिन्त्य विभावयेत्॥
+[^85]: "B omitsthis line."
 
-स भवेत्तत्क्षणादेव [बोधिचित्त](http://॑ "B ° ज्ञान °।")समप्रभः।  
-[उदिता](http://॑ "B omitsthis line.")दित्यसङ्काशो जाम्बूनदसमप्रभः॥
+[^85]: "B omitsthis line."
+
+आःकारगुटिकां ध्यात्वा चणकास्थिप्रमाणतः।  
+[मध्ये]("omitted in A and C. ") स्वदेवताबिम्बं मुखे चिन्त्य विभावयेत्॥
+
+स भवेत्तत्क्षणादेव [बोधिचित्त]("B ° ज्ञान °।")समप्रभः।  
+[उदिता]("B omitsthis line.")दित्यसङ्काशो जाम्बूनदसमप्रभः॥
 
 हूँकारगुटिकां ध्यात्वा चणकास्थिप्रमाणतः।  
 मध्ये स्वदेवताबिम्बं मुखे चिन्त्य विभावयेत्॥
@@ -2025,10 +1957,10 @@ CONTENTS.
 खधातुस्वच्छमध्यस्थं वैरोचनं प्रभावयेत्।  
 हस्ते चक्रं प्रभावित्वा चक्रविद्याधरो भवेत्॥
 
-महाचक्रकुलं ध्यात्वा इदं [चक्रा](http://॑ "A ज्ञाना°।")ग्रसाधनम्।  
-कर्त्तव्यं ज्ञानवज्रेण [चक्र](http://॑ " A बुद्ध °।")कायाग्रयो[गतः](http://॑ " A °जनात्।")॥
+महाचक्रकुलं ध्यात्वा इदं [चक्रा]("A ज्ञाना°।")ग्रसाधनम्।  
+कर्त्तव्यं ज्ञानवज्रेण [चक्र](" A बुद्ध °।")कायाग्रयो[गतः](" A °जनात्।")॥
 
-खधातुवज्रमध्यस्थं [ज्ञाना](http://॑ "A ° त्वा °।")क्षोभ्यं विभावयेत्।  
+खधातुवज्रमध्यस्थं [ज्ञाना]("A ° त्वा °।")क्षोभ्यं विभावयेत्।  
 हस्ते वज्रं प्रभावित्वा वज्रविद्याधरो भवेत्॥
 
 महावज्रकुलं ध्यात्वा इदं वज्राग्रसाधनम्।  
@@ -2042,7 +1974,7 @@ CONTENTS.
 
 [^99]: "A repeats from खधातुवज्रमध्यस्थं etc. to कर्त्तव्यंज्ञानवज्रेण in this line."
 
-खधातु[पद्म](http://॑ "C ° धर्म °।")मध्यस्थं [अभिताभं](http://॑ "C ° युं।")प्रभावयेत्।  
+खधातु[पद्म]("C ° धर्म °।")मध्यस्थं [अभिताभं]("C ° युं।")प्रभावयेत्।  
 हस्ते पद्मं प्रभावित्वा पद्मविद्याधरो भवेत्॥
 
 महापद्मकुलं ध्यात्वा इदं पद्माग्रसाधनम्।  
@@ -2051,13 +1983,13 @@ CONTENTS.
 खधातुसमयमध्यस्थंअमोघाग्रं प्रभावयेत्।  
 हस्ते खड्गंप्रभावित्वा खड्गविद्याधरो भवेत्॥
 
-महासमयकुलं धात्वा इदं समयाग्रसा[धनम्](http://॑ "AC ° भावनं।")।  
+महासमयकुलं धात्वा इदं समयाग्रसा[धनम्]("AC ° भावनं।")।  
 कर्त्तव्यं ज्ञानवज्रेण कायसमययोगतः॥
 
-त्रिशूल[ज्ञाना](http://॑ "B ° ज्वाला°।")ङ्कुशादयः साध्यावज्रप्रभेदतः।  
-सिध्यन्ति तस्य ध्यानेन कायवाक्चित्त[साध](http://॑ "C ° भाव °।")नैः॥
+त्रिशूल[ज्ञाना]("B ° ज्वाला°।")ङ्कुशादयः साध्यावज्रप्रभेदतः।  
+सिध्यन्ति तस्य ध्यानेन कायवाक्चित्त[साध]("C ° भाव °।")नैः॥
 
- इत्याह भगवान् महासमय[सिद्धि](http://॑ "A सिद्धिसमय °।")वज्रः।
+ इत्याह भगवान् महासमय[सिद्धि]("A सिद्धिसमय °।")वज्रः।
 
 चतुष्पथैकवृक्षे वा एकलिङ्गे शिवालये।  
 साधयेत् साधको नित्यं वज्राकर्षं विशेषतः॥
@@ -2065,15 +1997,15 @@ CONTENTS.
 त्रियोगमन्त्रपुरुषं ध्यात्वा त्रियोगवज्रिणम्।  
 अङ्कुशं कायवाक्चित्तं बुद्धानां ज्ञानबुद्धिनाम्॥
 
-वायव्यमण्डला[ग्रस्थं](http://॑ "A ° मध्यस्थं, C ° ग्रस्तं।")बुद्धाकर्षणमुत्तमम्।  
-दशदि[क्समय](http://॑ "A omits° समय°।")सम्भूतं वज्रेणा[कृष्य](http://॑ "A° ष्योप°।")[भुञ्जयेत्](http://॑ "B भु॒ञ्जते।")॥
+वायव्यमण्डला[ग्रस्थं]("A ° मध्यस्थं, C ° ग्रस्तं।")बुद्धाकर्षणमुत्तमम्।  
+दशदि[क्समय]("A omits° समय°।")सम्भूतं वज्रेणा[कृष्य]("A° ष्योप°।")[भुञ्जयेत्]("B भु॒ञ्जते।")॥
 
  ॥खधातुसमयवज्राकर्षणम्॥
 
 वैरोचनं महाचक्रं ध्यात्वाङ्कुशं जिनालयम्।  
 वज्रपद्मादिभिः कार्यं समयाकर्षणमुत्तमम्॥
 
- ॥त्रैधातुकसमया[कर्षणम्](http://॑ "B repeats.")॥
+ ॥त्रैधातुकसमया[कर्षणम्]("B repeats.")॥
 
 सर्वाकारवरोपेतं बुद्धबिम्बंविभावयेत्।  
 पाणौ च कायवाक्चित्तं अङ्कुशादीनि भावयेत्॥
@@ -2082,23 +2014,23 @@ CONTENTS.
 सर्वाकारवरोपेतं कायवज्रं विभावयेत्॥
 
 जिह्वावज्रप्रयोगेन ध्यात्वा वाग्वज्रसमो भवेत्।  
-त्रिगुह्यसमयपूजाग्रींपूजां [पूज्य](http://॑ "A पूज्यां।") प्रभावयेत्॥
+त्रिगुह्यसमयपूजाग्रींपूजां [पूज्य]("A पूज्यां।") प्रभावयेत्॥
 
 इदन्तत् सर्वसिद्धीनां सारं गुह्यसमुच्चयम्।
 
  इत्याह भगवान् महागुह्यसमयः।
 
 महामांससमयाग्रेण साधयेत् त्रिवज्रमुत्तमम्।  
-विण्मूत्रसम[याग्रेण](http://॑ "A ° योगेन।")भवेत् विद्याधरः प्रभुः॥
+विण्मूत्रसम[याग्रेण]("A ° योगेन।")भवेत् विद्याधरः प्रभुः॥
 
-हस्तिसमय[मांसेन](http://॑ "A ° मांसमयाग्रेण।")पञ्चा[भिज्ञत्वमा](http://॑ "A ° भिन्नाः समा°।")प्नुयात्।  
-अश्वसमयमांसेनान्तर्द्धा[नाधिपो](http://॑ "A अन्त्रवर्द्धनाधिपति °।")भवेत्॥
+हस्तिसमय[मांसेन]("A ° मांसमयाग्रेण।")पञ्चा[भिज्ञत्वमा]("A ° भिन्नाः समा°।")प्नुयात्।  
+अश्वसमयमांसेनान्तर्द्धा[नाधिपो]("A अन्त्रवर्द्धनाधिपति °।")भवेत्॥
 
 श्वानसमयमांसेन सर्वसिद्धिप्रसाधनम्।  
 गोमांससमयाग्रेण वज्राकर्षणमुत्तमम्॥
 
-अलाभे सर्वमांसानां ध्यात्वा [सत्त्वं](http://॑ "A सर्वं।")विकल्पयेत्।  
-अनेन वज्रयोगेन सर्वबुद्धैरधि[ष्ठ्यते](http://॑ "A ° ष्ठिते।")॥
+अलाभे सर्वमांसानां ध्यात्वा [सत्त्वं]("A सर्वं।")विकल्पयेत्।  
+अनेन वज्रयोगेन सर्वबुद्धैरधि[ष्ठ्यते]("A ° ष्ठिते।")॥
 
 सर्वाकारवरोपेतं कायवाक्चित्तवज्रिणम्।  
 हृदये ज्ञानसमयं मुकुटे वज्राग्रधारिणम्॥
@@ -2108,26 +2040,26 @@ CONTENTS.
 
  ॥सर्वसमयज्ञानवज्राहारो नाम समाधिः॥
 
-[जिह्वा](http://॑ " AC जिह्वाग्र°।")समयवज्राग्रे ध्यात्वा हूँकारवज्रिणम्।  
-पञ्चामृतप्रयोगेन वज्रसत्त्वत्व[माप्नुयात्](http://॑ "C समो भवेत्,B त्रिवज्रत्वमाप्नुयात् °। ")॥
+[जिह्वा](" AC जिह्वाग्र°।")समयवज्राग्रे ध्यात्वा हूँकारवज्रिणम्।  
+पञ्चामृतप्रयोगेन वज्रसत्त्वत्व[माप्नुयात्]("C समो भवेत्,B त्रिवज्रत्वमाप्नुयात् °। ")॥
 
 आःकारौँकारसमयमिदं वज्रनयोत्तमम्।  
 अनेन खलु योगेन वज्रसत्त्वसमो भवेत्॥
 
- ॥समयवज्रामृत[मालिनी](http://॑ " B ° ली।")नाम समाधिः॥
+ ॥समयवज्रामृत[मालिनी](" B ° ली।")नाम समाधिः॥
 
-त्रिवज्रसमय[सिद्ध्यर्थं](http://॑ "A ° द्धाग्रे, C ° द्ध्यै।") भवेत् त्रिकायवज्रिणः।  
+त्रिवज्रसमय[सिद्ध्यर्थं]("A ° द्धाग्रे, C ° द्ध्यै।") भवेत् त्रिकायवज्रिणः।  
 दशदिक्सर्वबुद्धानां भवेच्चिन्तामण्योदधिः॥
 
 आभासयति वज्रात्मा लोकधातुं समन्ततः।  
-चक्रसमय[सिद्ध्यन्ते](http://॑ "AB° सिद्धाग्रे।")बुद्धकायसमो भवेत्॥
+चक्रसमय[सिद्ध्यन्ते]("AB° सिद्धाग्रे।")बुद्धकायसमो भवेत्॥
 
-विचरेत् समन्ततः सिद्धो गङ्गा[वालु](http://॑ "A ° लि ° ।")कसर्वतः।  
+विचरेत् समन्ततः सिद्धो गङ्गा[वालु]("A ° लि ° ।")कसर्वतः।  
 सर्वेषु समयाग्रेषु विद्याधरप्रभुर्भवेत्॥
 
 सर्वसमयसिद्ध्यग्रे कायवज्रप्रभावतः।  
-अन्त[र्द्धानेषु](http://॑ "C ° र्द्वारे °। ") [सर्वेषु](http://॑ "A omits.") साहस्रैकावभासकः।  
-हरते सर्व[सिद्धीनां](http://॑ "B ° बुद्धानां।")भुंक्ते [कन्यां](http://॑ "B भुंजते च।") सुराग्रजाम्॥
+अन्त[र्द्धानेषु]("C ° र्द्वारे °। ") [सर्वेषु]("A omits.") साहस्रैकावभासकः।  
+हरते सर्व[सिद्धीनां]("B ° बुद्धानां।")भुंक्ते [कन्यां]("B भुंजते च।") सुराग्रजाम्॥
 
 गंगावालुकसमान् बुद्धांस्त्रिवज्रालयसंस्थितान्।  
 पश्यतेचक्षुर्वज्रेण स्वहस्तैकं यथामलम्॥
@@ -2139,14 +2071,14 @@ CONTENTS.
 स वेत्ति सर्वसत्त्वानां चित्ताख्यं नाटकोद्भवम्॥
 
 गंगावालुकसमैः कल्पैः संसारस्थितिसम्भवम्।  
-पूर्व[निवास](http://॑ "C निरास।")समयं दिनत्रयमिव स्मरेत्॥
+पूर्व[निवास]("C निरास।")समयं दिनत्रयमिव स्मरेत्॥
 
 गंगावालुकसमैः कार्यैः बुद्धमेघाद्यलङ्कृतैः।  
-गंगावालुकसमान् कल्पान् [स्फरेद्](http://॑ "A omits.")दृढ़ाग्रवज्रिणः॥
+गंगावालुकसमान् कल्पान् [स्फरेद्]("A omits.")दृढ़ाग्रवज्रिणः॥
 
- इत्याह भगवान् समयाभिज्ञः। वज्रचक्षुर्वज्रश्रोत्रं वज्रचित्तं [वज्रवाणी](http://॑ " BC वज्रनिवास।")वज्र[ऋद्धि](http://॑ "C ° ऋषि °।")श्चेति।
+ इत्याह भगवान् समयाभिज्ञः। वज्रचक्षुर्वज्रश्रोत्रं वज्रचित्तं [वज्रवाणी](" BC वज्रनिवास।")वज्र[ऋद्धि]("C ° ऋषि °।")श्चेति।
 
-बुद्धाभिज्ञार्थसं[सिद्धौ](http://॑ "BC ° सिद्धिस्तु।")बुद्धकायसमो भवेत्।  
+बुद्धाभिज्ञार्थसं[सिद्धौ]("BC ° सिद्धिस्तु।")बुद्धकायसमो भवेत्।  
 गंगावालुकसंख्यैश्च परिवारैः परीवृतः।
 
 विचरेत् कायवाग्वज्रो लोकधातुं समन्ततः॥  
@@ -2157,27 +2089,27 @@ CONTENTS.
 विज्ञाय वज्रभेदेन ततः कर्माणि साधयेत्।  
 मेवासमाधिसंयोगं भावयेत् बोधिमुत्तमम्॥
 
-उपसाधन[सिद्ध्यग्रे](http://॑ " A ° ध्यते।")वज्रायतनविचारणम्।  
+उपसाधन[सिद्ध्यग्रे](" A ° ध्यते।")वज्रायतनविचारणम्।  
 साधने चोदनं प्रोक्तं मन्त्राधिपतिभावनम्॥
 
 महासाधनकालेषु बिम्बं स्वमन्त्रवज्रिणः।  
 मकुटेऽधिपतिं ध्यात्वा सिद्ध्यते ज्ञानवज्रिणः॥
 
-सेवाज्ञाना[मृते](http://॑ " A ° मुत्र।")नैव कर्त्तव्यं सर्वतः सदा।  
-एषो हि सर्वमन्त्राणां [सर्वमन्त्रार्थ](http://॑ " A तन्त्रतत्त्वार्थ °, C मन्त्रतत्त्वार्थ।")साधकः॥
+सेवाज्ञाना[मृते](" A ° मुत्र।")नैव कर्त्तव्यं सर्वतः सदा।  
+एषो हि सर्वमन्त्राणां [सर्वमन्त्रार्थ](" A तन्त्रतत्त्वार्थ °, C मन्त्रतत्त्वार्थ।")साधकः॥
 
 महाटवीप्रदेशेषु विजनेषु महत्सुच।  
 गिरिगह्वरकुलेषु सदा सिद्धिरवाप्यते॥
 
  इत्याह भगवान् महासाधनवज्रः।
 
-अथ वज्र[चतुष्केन](http://॑ " A ° ष्कोणे, B वज्राचार्येण।")सेवा [कार्या](http://॑ "C सर्वा काया।")दृढव्रतैः।  
+अथ वज्र[चतुष्केन](" A ° ष्कोणे, B वज्राचार्येण।")सेवा [कार्या]("C सर्वा काया।")दृढव्रतैः।  
 त्रिवज्रकायमन्त्रेण[^100]भावयन् सिद्धिमश्नुते॥
 
 [^100]: "B समेतेन, C समानेन।"
 
 चतुःसन्ध्यप्रयोगेन पंचस्थानेषु बुद्धिमान्।  
-ओँकार[ज्ञान](http://॑ "A omits° ज्ञान °।")वज्रेण ध्यात्वा [सम्बरमा](http://॑ "A ° समाधिं।")विशेत्॥
+ओँकार[ज्ञान]("A omits° ज्ञान °।")वज्रेण ध्यात्वा [सम्बरमा]("A ° समाधिं।")विशेत्॥
 
 दिनानि सप्त पक्षं च मासमप्यब्दमेव च।  
 उत्पाद्य वज्रसमयं लघु सिरिवाप्यते॥
@@ -2188,64 +2120,64 @@ CONTENTS.
  तत्रेदमुपसाधनसम्बरविषयम्।
 
 बुद्धकायधरः श्रीमान् त्रिवज्राभेद्यभावितः।  
-अधिष्ठानपदं मेऽद्य [करोतु](http://॑ "A कुर्वन्तु।") [कायवज्रिणः](http://॑ "This verse is repeated in C.")॥
+अधिष्ठानपदं मेऽद्य [करोतु]("A कुर्वन्तु।") [कायवज्रिणः]("This verse is repeated in C.")॥
 
 दशदिक्संस्थिता बुद्धा त्रिवज्राभेदाभाविताः।  
 अधिष्ठानपदं मेऽद्य कुर्वन्तु कायलक्षितम्॥
 
  ॥तत्रेदं साधनसम्बरविषयम्॥
 
-धर्मो [वै](http://॑ "A समाधौ।") वाक्पथः श्रीमान् त्रिवज्राभेद्यभावितः।  
-अधिष्ठानपदं मेऽद्य करोतु [वाक्य](http://॑ "Aवाग्°।")वज्रिणः॥
+धर्मो [वै]("A समाधौ।") वाक्पथः श्रीमान् त्रिवज्राभेद्यभावितः।  
+अधिष्ठानपदं मेऽद्य करोतु [वाक्य]("Aवाग्°।")वज्रिणः॥
 
 दशदिक्संस्थिता बुद्धास्त्रिवज्राभेद्यभाविताः।  
 अधिष्ठानपदं तस्य कुर्वन्तु वाक्पथोद्भवम्॥
 
- [तत्रेदं](http://॑ "B omits from तत्रेदं to चित्तसम्भवाः।") महासाधनसम्बरविषयम्।
+ [तत्रेदं]("B omits from तत्रेदं to चित्तसम्भवाः।") महासाधनसम्बरविषयम्।
 
 चित्तवज्रधरः श्रीमान् त्रिवज्राभेद्यभावितः।  
 अधिष्ठानपदं मेऽद्य कुर्वन्तु चित्तवज्रिणः॥
 
 दशदिक्संस्थिता बुद्धाःत्रिवज्राभेद्यभाविताः।  
-अधिष्ठानपदं मेऽद्य कुर्वन्तु [चित्तसम्भवाः](http://॑ "A वज्रिणः। Crepeats दशदिक्संस्थिता to वाक्पथोद्भवम् after this.")॥
+अधिष्ठानपदं मेऽद्य कुर्वन्तु [चित्तसम्भवाः]("A वज्रिणः। Crepeats दशदिक्संस्थिता to वाक्पथोद्भवम् after this.")॥
 
 बुद्धो वा वज्रधर्मो वा वज्रसत्त्वोऽपि वा यदि।  
 अतिक्रमेद्यदि मोहात्मा स्फुटेयुर्नात्र संशयः॥
 
 इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजेमहागुह्यतन्त्रराजेसमयसाधनाग्रनिर्देशपटलो द्वादशोऽध्यायः।
 
- अथ भगवन्तः सर्वतथागता ज्ञानवज्राग्रचारिणः सर्वसत्वार्थ[संभूता](http://॑ " BC ° सम्भोगाः।")बोधिसत्वाश्च [धीमन्तः](http://॑ "A वामतः। ") प्रणिपत्य महाशास्तारंमुनिं सत्त्वार्थवज्रिणं[पूजा](http://॑ "A सर्वार्थ ° ।")समयतत्त्वज्ञंवज्रघोषमुदीरयन्।
+ अथ भगवन्तः सर्वतथागता ज्ञानवज्राग्रचारिणः सर्वसत्वार्थ[संभूता](" BC ° सम्भोगाः।")बोधिसत्वाश्च [धीमन्तः]("A वामतः। ") प्रणिपत्य महाशास्तारंमुनिं सत्त्वार्थवज्रिणं[पूजा]("A सर्वार्थ ° ।")समयतत्त्वज्ञंवज्रघोषमुदीरयन्।
 
-अहो [बुद्ध](http://॑ " C ° धर्म ° ।")नयं दिव्यमहो बोधिनयोत्तमम्।  
+अहो [बुद्ध](" C ° धर्म ° ।")नयं दिव्यमहो बोधिनयोत्तमम्।  
 अहो धर्मनयं शान्तमहो मन्त्रनयं दृढम्॥
 
 अनुत्पन्नेषु धर्मेषु स्वभावातिशयेषु च।  
-निर्विकल्पेषु [धर्मेषु](http://॑ "AB भूतेषु ।")ज्ञानोत्पादः प्रगीयते॥
+निर्विकल्पेषु [धर्मेषु]("AB भूतेषु ।")ज्ञानोत्पादः प्रगीयते॥
 
-भाषस्व भगवन् रम्यं सर्व[धर्म](http://॑ "AB ° मन्त्र °।")समुच्चयम्।  
+भाषस्व भगवन् रम्यं सर्व[धर्म]("AB ° मन्त्र °।")समुच्चयम्।  
 वज्रजापं महाज्ञानं त्रिकायाभेद्यमण्डलम्॥
 
 प्राप्यते बुद्धज्ञानानि त्रिवज्राभेद्यभावनैः।  
 जपन् वज्रप्रयोगेन सर्वबुद्धैरधिष्ठ्यते॥
 
 कुलानां सर्वमंत्राणां कायवाक्चित्तलक्षणम्।  
-मंत्रजापं प्रघोषाथ वज्रजापमुदा[हरन्](http://॑ "A शृण्वन्तु ज्ञानसागराः।")॥
+मंत्रजापं प्रघोषाथ वज्रजापमुदा[हरन्]("A शृण्वन्तु ज्ञानसागराः।")॥
 
 बुद्धाश्च त्र्यध्वसंभूताः कायवाक्चित्तवज्रिणः।  
 संप्राप्ता ज्ञानमतुलं वज्रमंत्रप्रभावनैः॥ इति ॥
 
 अथ वज्रधरः शास्ता खवज्रज्ञानसंभवः।  
-कर्ता स्रष्टा वराग्राग्र्योवज्रजापमुदा[हरत्](http://॑ "C°दीरयेत्।")॥
+कर्ता स्रष्टा वराग्राग्र्योवज्रजापमुदा[हरत्]("C°दीरयेत्।")॥
 
 सर्वमंत्रार्थजापेषु त्रिवज्राभेद्यलक्षणम्।  
-[त्रिभेदे](http://॑ "A° द्य °।")वज्रपर्यन्तो न्यासोऽयं त्रिवज्रमुच्यते॥
+[त्रिभेदे]("A° द्य °।")वज्रपर्यन्तो न्यासोऽयं त्रिवज्रमुच्यते॥
 
  इत्याह च।
 
-**त्रिविधं स्फुरणं कार्यं कायवाक्चित्त[सन्निधौ](http://॑ "A सम्विधौ।")।  
+**त्रिविधं स्फुरणं कार्यं कायवाक्चित्त[सन्निधौ]("A सम्विधौ।")।  
 अनेन जापवज्रेण वज्रचित्तसमो भवेत्॥**
 
-**[बुद्धानां](http://॑ "These two lines are repeatedin C.") कायवाक्चित्तं ध्यात्वा पूजाप्र[^101]कल्पनम्।  
+**[बुद्धानां]("These two lines are repeatedin C.") कायवाक्चित्तं ध्यात्वा पूजाप्र[^101]कल्पनम्।  
 कर्त्तव्यं ज्ञानवज्रेण इदं बोधिसमावहम्[^102]॥**
 
 [^101]: "A° ग्र°।"
@@ -2253,7 +2185,7 @@ CONTENTS.
 [^102]: "AB त्रिवज्रचित्तसमो भवेत्।"
 
 **अथवा स्फुरणं कार्यं त्रिभेदेन प्रति प्रति।  
-कायवाक्चित्तनैरात्म्यंज्ञानचित्तेन [संस्फ](http://॑ "B° स्म°।")रेत्॥**
+कायवाक्चित्तनैरात्म्यंज्ञानचित्तेन [संस्फ]("B° स्म°।")रेत्॥**
 
 **उच्चारयन् स्फरेद्वज्रंसमाप्तौ संहारमादिशेत्।  
 इदन्तत् सर्वबुद्धानां ज्ञानोन्मीलितचक्षुषाम्॥**
@@ -2261,7 +2193,7 @@ CONTENTS.
 **कायवज्राभिसम्बोधिं भावाभावविचारणम्।  
 बुद्धकाय इति प्रोक्तः कायजापः स उच्यते॥**
 
-**[वाक्य](http://॑ " A ° क् °।")[समय](http://॑ "A° याभि°।")संबोधिः शब्दाशब्दविचारणम्।  
+**[वाक्य](" A ° क् °।")[समय]("A° याभि°।")संबोधिः शब्दाशब्दविचारणम्।  
 वाग्वज्र इति प्रोक्तो वाग्जापः स उच्यते॥**
 
 **चित्तसमयसंबोधिः स्थितिवज्रविचारणम्।  
@@ -2276,11 +2208,11 @@ CONTENTS.
 शृणोति मन्त्राक्षरपदं स्ववज्रैर्घुष्टमण्डलम्।  
 क्रोधसमयज्ञानेन क्रोधजापः स उच्यते॥
 
-[कामार्थं](http://॑ "This line is incomplete in A.") विह्वलीभूतान् सर्वत्राणहितैषिणः।  
-[मत्वा](http://॑ "C सर्वा°।")न्मोह[पदे](http://॑ " C ° दं।") स्थाप्य मोहजाप इति स्मृतः॥
+[कामार्थं]("This line is incomplete in A.") विह्वलीभूतान् सर्वत्राणहितैषिणः।  
+[मत्वा]("C सर्वा°।")न्मोह[पदे](" C ° दं।") स्थाप्य मोहजाप इति स्मृतः॥
 
 रागवज्रोद्भवं वाचं कायवाक्चित्तसंस्थिताम्।  
-[सत्वान्](http://॑ "C सर्वान्।")रागपदे[^103] स्थाप्य रागजाप इति स्मृतः॥
+[सत्वान्]("C सर्वान्।")रागपदे[^103] स्थाप्य रागजाप इति स्मृतः॥
 
 [^103]: "C रागोदधि °।"
 
@@ -2288,9 +2220,9 @@ CONTENTS.
 सत्त्वान् द्वेषालये स्थाप्य द्वेषजापः स उच्यते॥
 
 त्रिवज्रसमयं तत्त्वंमध्यमं समयवज्रिणम्।  
-तदेव [सर्व](http://॑ "C समय °।")वज्राणां जापो नपुंसक उच्यते॥
+तदेव [सर्व]("C समय °।")वज्राणां जापो नपुंसक उच्यते॥
 
-वज्राधिपतयः सर्वे रागतत्वार्थ[चिन्तकाः](http://॑ "C °भावकाः।")।  
+वज्राधिपतयः सर्वे रागतत्वार्थ[चिन्तकाः]("C °भावकाः।")।  
 कुर्वन्ति रागजां बोधिं सर्वसत्वहितैषिणीम्॥
 
 लोचनाद्या महाविद्या नित्यं कामार्थतत्पराः।  
@@ -2298,7 +2230,7 @@ CONTENTS.
 
 [^104]: "C ° भोगेन।"
 
-मोहसमय[सम्भूता](http://॑ "A° सुव्रता।")विद्याराजानो वज्रिणः।  
+मोहसमय[सम्भूता]("A° सुव्रता।")विद्याराजानो वज्रिणः।  
 नपुंसकपदे सिद्धाः ददन्ति सिद्धिमुत्तमाम्॥
 
 क्रोधा द्वेषालये जाता नित्यं मारणतत्पराः[^105]।  
@@ -2310,12 +2242,12 @@ CONTENTS.
 
  इत्याह भगवान् महापुरुषसमयः।
 
-हृदि मध्यगतं चक्रं भावयेत् ज्ञान[वज्रि](http://॑ "C ° चक्रि °।")णाम्।  
+हृदि मध्यगतं चक्रं भावयेत् ज्ञान[वज्रि]("C ° चक्रि °।")णाम्।  
 स्वच्छमण्डलमध्यस्थं चक्रमन्त्रार्थ[^107]भावना॥
 
 [^107]: "मध्यचक्रार्थ°।"
 
-हृदि [मध्य](http://॑ "B वज्र°।")गतं [वज्रं](http://॑ "B चक्रं।") भावयेत् ज्ञानवज्रिणः।  
+हृदि [मध्य]("B वज्र°।")गतं [वज्रं]("B चक्रं।") भावयेत् ज्ञानवज्रिणः।  
 वज्रमण्डलमध्यस्थं वज्रमंत्रार्थभावना॥
 
 हृदि मध्यगतं रत्नं भावयेत् रत्नज्ञानिनः।  
@@ -2328,7 +2260,7 @@ CONTENTS.
 समयमण्डलमध्यस्थं खड्गमंत्रार्थभावना॥
 
 सर्वमण्डलपार्श्वेषु सर्वबुद्धान्निवेशयेत्।  
-पंचरश्मि[प्रभेदेन](http://॑ "C ° प्रदेशेन। ")स्फार[यन्](http://॑ "AC ° येत्।")बोधिमाप्नुते॥
+पंचरश्मि[प्रभेदेन]("C ° प्रदेशेन। ")स्फार[यन्]("AC ° येत्।")बोधिमाप्नुते॥
 
 स्फुरणं सर्वमंत्राणां द्विधाभेदेन कीर्तितम्।  
 त्रिकायवज्रभेदेन संहारस्फरणं भवेत्॥
@@ -2339,10 +2271,10 @@ CONTENTS.
 महामण्डलचक्रेण पंचवज्रविभावना।  
 मध्ये त्वधिपतिं ध्यात्वा स्वबिम्बं त्रिकायवज्रिणम्॥
 
-बिम्बं स्वमंत्रवज्रस्य मण्डलानां [चतुष्टयम्](http://॑ "AB ° ये।")।  
+बिम्बं स्वमंत्रवज्रस्य मण्डलानां [चतुष्टयम्]("AB ° ये।")।  
 चतुर्वर्णेन संकल्प्यहृदि मंत्रार्थभावना॥
 
-वज्रचतुष्टयं [कर्म](http://॑ "A° यमिदं।") करोति ध्यानवज्रिणः।  
+वज्रचतुष्टयं [कर्म]("A° यमिदं।") करोति ध्यानवज्रिणः।  
 एषो हि सर्वमंत्राणां रहस्यं परमशाश्वतम्॥
 
 शान्तिके लोचनाकारं पौष्टिकेपद्मवज्रिणम्।  
@@ -2356,8 +2288,8 @@ CONTENTS.
 
  इत्याह भगवान् महाज्ञानचक्रवज्रः।
 
-त्रैधातुकस्थितान्सर्वान् [बुद्धकाये](http://॑ " B स बुद्धान्।")विभावयेत्।  
-[सम्पुटोद्घाटिता](http://॑ "A सम्पूर्णं घोटितं, C सम्पुटोद्दोतिकां।")न् कृत्वा ततः कर्मप्रसाधनम्॥
+त्रैधातुकस्थितान्सर्वान् [बुद्धकाये](" B स बुद्धान्।")विभावयेत्।  
+[सम्पुटोद्घाटिता]("A सम्पूर्णं घोटितं, C सम्पुटोद्दोतिकां।")न् कृत्वा ततः कर्मप्रसाधनम्॥
 
 खधातुमध्यगं वज्रं पंचशूलं चतुर्मुखम्।  
 सर्वाकारवरोपेतं वज्रसत्वंविभावयेत्॥
@@ -2387,11 +2319,11 @@ CONTENTS.
 त्र्यध्वसमयसंभूतान् वज्रसत्त्वान् महायशान्।  
 वज्रं स्फुलिङ्गगहनं पाणौ तस्य विभावयेत्॥
 
-सत्त्वान् [दशदिक्सं](http://॑ "A ° दिशि।")भूतान् वज्रकायप्रभेदतः।  
+सत्त्वान् [दशदिक्सं]("A ° दिशि।")भूतान् वज्रकायप्रभेदतः।  
 संहृत्य रश्मियोगेन स्वकाये तान् प्रवेशयेत्॥
 
-स्फुरणं सर्ववज्राणां कार्यं ज्ञानाग्र[बुद्धिना](http://॑ "AC ° बन्धुना।")।  
-शृण्वन्तु सर्वबुद्धात्मा कायवाक्चित्त[योगिनः](http://॑ "A ° योगतः।")॥
+स्फुरणं सर्ववज्राणां कार्यं ज्ञानाग्र[बुद्धिना]("AC ° बन्धुना।")।  
+शृण्वन्तु सर्वबुद्धात्मा कायवाक्चित्त[योगिनः]("A ° योगतः।")॥
 
 अहं वज्रधरः श्रीमान् आज्ञाचक्रप्रभेदतः।  
 वज्रेणादीप्तवपुषा स्फारयामि त्रिकायजान्॥
@@ -2403,17 +2335,16 @@ CONTENTS.
 खवज्रमध्यगं चिन्तेद्बुद्धमण्डलवज्रिणम्।  
 यमान्तकं महाचक्रं खवज्राख्यं प्रकल्पयेत्॥
 
-बुद्धांश्च त्र्यध्व[संभूतान्](http://॑ "B°सत्त्वांश्च।")प्रविष्टांस्त्रिकायमण्डले।  
+बुद्धांश्च त्र्यध्व[संभूतान्]("B°सत्त्वांश्च।")प्रविष्टांस्त्रिकायमण्डले।  
 पुनः संस्फारयेद्बुद्धान् यमान्तकाकारसन्निभान्॥
 
 सत्त्वांश्च त्र्यध्वसम्भूतान् रिपूणां दुष्टचेतसाम्।  
 घातितान् भावयेत् क्रुद्ध इदं वज्राज्ञामण्डलम्॥
 
-
-॥सर्वसमयसंभवयमान्तक[समान्य](http://॑ "AB omit ° समान्य °।")त्रिकायाज्ञावज्रोसमाधिः॥
+॥सर्वसमयसंभवयमान्तक[समान्य]("AB omit ° समान्य °।")त्रिकायाज्ञावज्रोसमाधिः॥
 
 कायवाक्चित्तवज्रैस्तु स्वमन्त्रार्थगुणेन वा।  
-अथवा \[[पौष्प](http://॑ "A ° त्पीष °, B पीष °, C ° प्लीष ° (?)।")\]समये आज्ञाचक्र[प्रवर्त्तनम्](http://॑ " A ° प्रयोजनम्। ")॥
+अथवा \[[पौष्प]("A ° त्पीष °, B पीष °, C ° प्लीष ° (?)।")\]समये आज्ञाचक्र[प्रवर्त्तनम्](" A ° प्रयोजनम्। ")॥
 
 रक्षार्थं सर्वमन्त्राणां कार्यं ज्ञानाग्रवज्रिणाम्।  
 इदं तत् सर्वबुद्धानां बोधिरक्षार्थमुच्यते॥
@@ -2428,25 +2359,25 @@ CONTENTS.
 खधातुं सर्वबुद्धैस्तु परिपूर्णं विभावयेत्।  
 मन्त्राक्षरपदं ज्ञानं चित्ताकारं प्रकल्पयेत्॥
 
-पुनस्तु संस्फरेत् बुद्धान् चित्तवज्रप्रभा[वितान्](http://॑ "C ° विना।")।  
+पुनस्तु संस्फरेत् बुद्धान् चित्तवज्रप्रभा[वितान्]("C ° विना।")।  
 चित्तवज्रमिति कृत्वा त्रिकाये तान् प्रवेशयेत्॥
 
  इत्याह भगवान् खवज्रसमयः॥वज्रमन्त्ररत्नप्रद्योतकरो नाम समाधिः॥
 
 सर्वाकारवरोपेतं वज्रसत्त्वंविभावयेत्।  
-बुद्धांस्तु क्रमशः स्थाप्य जलस्योपरि [चंक्रमेत्](http://॑ "C कल्पयेत्।")।  
+बुद्धांस्तु क्रमशः स्थाप्य जलस्योपरि [चंक्रमेत्]("C कल्पयेत्।")।  
 समयोदकप्रयोगेन मूर्ध्नि पादविभावनम्॥
 
  इत्याह भगवान् स्वभावशुद्धः॥ वज्रोदधिपदाक्रान्तो नामसमाधिः॥
 
-माहेन्द्रमण्डलं ध्यात्वा मध्ये [क्रोध](http://॑ "B ° धा °। ")कुलं न्यसेत्।  
+माहेन्द्रमण्डलं ध्यात्वा मध्ये [क्रोध]("B ° धा °। ")कुलं न्यसेत्।  
 कर्मवज्रपदाक्रान्तं मूर्ध्नि तस्य विभावयेत्॥
 
- इत्याह च॥ सर्वतीर्थ[प्रवा](http://॑ "BC परवा °।")दिस्तम्भनवज्रो नाम समाधिः॥
+ इत्याह च॥ सर्वतीर्थ[प्रवा]("BC परवा °।")दिस्तम्भनवज्रो नाम समाधिः॥
 
 क्रोधाकारं त्रिवज्राग्रान् पीतकिंजल्कसन्निभान्।  
 गिरिराज इव सर्वान् ध्यात्वा मूर्ध्नि प्रभावयेत्।  
-बुद्ध[सैन्य](http://॑ "B ° संघ °। ")मपि [स्तम्भे](http://॑ "ABC त्रस्ते।")म्रियते नात्र संशयः॥
+बुद्ध[सैन्य]("B ° संघ °। ")मपि [स्तम्भे]("ABC त्रस्ते।")म्रियते नात्र संशयः॥
 
  इत्याह भगवान् सर्वतथागतकायवाक्चित्तसंभवः॥ सर्वसैन्यस्तम्भनो नाम समाधिः॥
 
@@ -2470,9 +2401,9 @@ CONTENTS.
 कल्पोद्दाहमिव ध्यात्वा पुनः संहारमादिशेत्॥
 
 स्फुरणं च पुनः कार्यं रत्नचिन्तामणिप्रभैः।  
-भावयेत् धर्म[मेघान्](http://॑ "AB°संघान्।")वै अभिषेकं समादिशेत्॥
+भावयेत् धर्म[मेघान्]("AB°संघान्।")वै अभिषेकं समादिशेत्॥
 
-अनेन ध्यानवज्रेण दुष्पूरोऽपि [प्रपूर्यते](http://॑ "C ° रयेत्।")।  
+अनेन ध्यानवज्रेण दुष्पूरोऽपि [प्रपूर्यते]("C ° रयेत्।")।  
 स भवेत् चिन्तामणिः श्रीमान् दानवज्रप्रसाधकः॥
 
 बुद्धमेघैर्महाधर्मैर्वज्रसत्त्वैश्च तत् स्फुरेत्।
@@ -2493,8 +2424,8 @@ CONTENTS.
 खधातुमध्यगं चिन्तेत् शान्तिमण्डलमुत्तमम्।  
 बिम्बं वैरोचनं ध्यात्वा हृदयेऽथ प्रविन्यसेत्॥
 
-खधातुं [लोचनाग्रैश्च](http://॑ "AB ° स्तु।")परिपूर्णं विभावयेत्।  
-संहृत्य रश्मिपिण्डेन आरम्भस्य [निपातने](http://॑ "AC ° तयेत्।")॥
+खधातुं [लोचनाग्रैश्च]("AB ° स्तु।")परिपूर्णं विभावयेत्।  
+संहृत्य रश्मिपिण्डेन आरम्भस्य [निपातने]("AC ° तयेत्।")॥
 
 रोमकूपाग्रविवरैर्बुद्धमेघान् स्फरेत्व्रती[^110]।  
 अभिषेकं तदा तस्य बुद्धमेघा ददन्ति हि।  
@@ -2502,26 +2433,26 @@ CONTENTS.
 
 [^110]: "C बुधः।"
 
- ॥बुद्धसमय[मेघ](http://॑ "C omits° मेघ °।")व्यूहो नाम समाधिः॥
+ ॥बुद्धसमय[मेघ]("C omits° मेघ °।")व्यूहो नाम समाधिः॥
 
 खवज्रमध्यगं चिन्तेत् माहेन्द्रमण्डलं शुभम्।  
-बिम्बं धर्म[परं](http://॑ "A ° धरं °।") ध्यात्वा हृदये वाऽथ विन्यसेत्॥
+बिम्बं धर्म[परं]("A ° धरं °।") ध्यात्वा हृदये वाऽथ विन्यसेत्॥
 
-खधातु[भवनं](http://॑ "AB° ने।") रम्यं पाण्डराख्यैः प्रपूरयेत्।  
+खधातु[भवनं]("AB° ने।") रम्यं पाण्डराख्यैः प्रपूरयेत्।  
 संहरेत् रश्मिपिण्डेन रत्नचिन्तामणिप्रभम्[^111]॥
 
 [^111]: "Two lines from here are repeatedin B and C."
 
-कायवाक्चित्तनिलये[ऽर्थिने](http://॑ "C1 ° र्थिनेदं, C2 A ° र्थिनं तु।") तच्च निवेदयेत्।  
+कायवाक्चित्तनिलये[ऽर्थिने]("C1 ° र्थिनेदं, C2 A ° र्थिनं तु।") तच्च निवेदयेत्।  
 रोमकूपाग्रविवरे रत्नमेघान् स्फरेत् व्रती॥
 
 भावयेत् धर्ममेघान्वै अभिषेकं समादिशेत्।  
-अनेन ध्यानवज्रेण दुष्पूरोऽपि [प्रपूर्यते](http://॑ "B ° पूरयेत्।")।  
-स भवेत् चिन्तामणिः श्रीमान् दान[वज्रप्र](http://॑ "C ° ज्रार्थ °।")साधकः॥
+अनेन ध्यानवज्रेण दुष्पूरोऽपि [प्रपूर्यते]("B ° पूरयेत्।")।  
+स भवेत् चिन्तामणिः श्रीमान् दान[वज्रप्र]("C ° ज्रार्थ °।")साधकः॥
 
  ॥धर्मसमयमेघव्यूहो नाम समाधिः॥
 
-खधातुमध्यगं चिन्तेत् वज्र[चन्द्रार्थ](http://॑ "C° र्क°।")मण्डलम्।  
+खधातुमध्यगं चिन्तेत् वज्र[चन्द्रार्थ]("C° र्क°।")मण्डलम्।  
 बिम्बं खवज्रधर्माग्रमर्थिनो हृदि[^112] विन्यसेत्॥
 
 [^112]: " A हृदये।"
@@ -2530,17 +2461,17 @@ CONTENTS.
 पञ्चरश्मिप्रयोगेण तेजस्तत्र निपातयेत्॥
 
 स भवेत् तत्क्षणादेव सर्वबुद्धमनोज्ञकः।  
-मञ्जुश्रीतुल्यसङ्काशः स भवेत् [पर](http://॑ " A° द °।")कर्मकृत्॥
+मञ्जुश्रीतुल्यसङ्काशः स भवेत् [पर](" A° द °।")कर्मकृत्॥
 
 ददाति च प्रहृष्टात्मा अभिषेकं महोत्सुकः।  
-वशमानयति जनान् [सर्वान्](http://॑ "AC जगत् सर्वं।")दर्शनेनैव [चोदितान्](http://॑ "AC° तः।")॥
+वशमानयति जनान् [सर्वान्]("AC जगत् सर्वं।")दर्शनेनैव [चोदितान्]("AC° तः।")॥
 
  ॥रत्नसमयमेघव्यूहो नाम समाधिः॥
 
 खवज्रं राक्षसैः क्रूरैश्चण्डैः क्रोधसुदारुणैः।  
 शृगालैर्विविधैः काकैर्गृध्रैःश्वानैः प्रभावयेत्॥
 
-आग्नेयमण्डलस्थं [तु](http://॑ "A° लंस्तत्र।")भावयेत् रिपवः सदा।  
+आग्नेयमण्डलस्थं [तु]("A° लंस्तत्र।")भावयेत् रिपवः सदा।  
 अपकारीसर्वबुद्धानां ध्यात्वा योगं प्रयोजयेत्॥
 
 अन्त्रमज्जारुधिरादां सर्वाकृष्टं प्रभावयेत्।  
@@ -2562,7 +2493,7 @@ CONTENTS.
 त्रिमुखं रागिणं चिन्तेद्रक्तकृष्णसिताननम्।  
 जटामुकुटसंभोगं भावयन् सिध्यते ध्रुवम्॥
 
-चक्रं वज्रं महापद्मं [सव्य](http://॑ "A ° दक्षिण °।")पाणौ विभावयेत्।  
+चक्रं वज्रं महापद्मं [सव्य]("A ° दक्षिण °।")पाणौ विभावयेत्।  
 षड्भुजान् भावयेत् वज्रान्नानाप्रहरणधरान् शुभान्॥
 
 लोचनां त्रिमुखां चिन्तेत् सर्वसत्त्वहितैषिणीम्।  
@@ -2571,12 +2502,12 @@ CONTENTS.
 खवज्रनेत्रींमहाराज्ञीं त्रिमुखां भावयेत्सदा।  
 कृष्णरक्तसिताकारां चारुरूपां विभावयेत्॥
 
-वाग्वज्रीं[च](http://॑ "° ज्रA नेत्रीं। ") महाराज्ञीं त्रिमुखां भावयेत्सदा।  
-रक्तसितकृष्णाकारां चारुवर्णां [विभावयेत्](http://॑ "These two lines arerepeated in A and C.")।  
+वाग्वज्रीं[च]("° ज्रA नेत्रीं। ") महाराज्ञीं त्रिमुखां भावयेत्सदा।  
+रक्तसितकृष्णाकारां चारुवर्णां [विभावयेत्]("These two lines arerepeated in A and C.")।  
 वज्रोत्पलधरां विद्यां त्रिमुखां कान्तिसुप्रभाम्॥
 
 पीतकृष्णसिताकारां भावयन् ज्ञानमाप्नुयात्।  
-यमान्तकं महाक्रोधं त्रिमुखं [क्रुद्ध](http://॑ "A°कुल°।")सुप्रभम्॥
+यमान्तकं महाक्रोधं त्रिमुखं [क्रुद्ध]("A°कुल°।")सुप्रभम्॥
 
 भयस्यापि भयं तीक्ष्णंकृष्णवर्णं विभावयेत्।  
 अपराजितं महाक्रोधमट्टाट्टहासनादिनम्॥
@@ -2587,24 +2518,24 @@ CONTENTS.
 त्रिमुखं दुष्टपदाक्रान्तंभावयेत् योगतः सदा॥
 
 वज्रामृतं महाक्रोधं स्फुलिंगाकुलचेतसम्।  
-दीप्तवज्रनिभं क्रूरं भयस्यापि [भयप्रदम्](http://॑ "B भयंकरं। ")॥
+दीप्तवज्रनिभं क्रूरं भयस्यापि [भयप्रदम्]("B भयंकरं। ")॥
 
 टक्किराजं महाक्रोधं त्रिमुखं त्रिभयप्रदम्।  
 चतुर्भुजं भयस्याग्रं टक्किराजं प्रभावयेत्॥
 
-महाबलं महावज्रंत्रैलो[क्यार्थार्थधारिणम्](http://॑ "A ° क्यधातुहारिणम्, C ° क्यार्थान्तहारिणम्।")।  
+महाबलं महावज्रंत्रैलो[क्यार्थार्थधारिणम्]("A ° क्यधातुहारिणम्, C ° क्यार्थान्तहारिणम्।")।  
 नाशकं सर्वदुष्टानां त्रिमुखं भावयेत् सदा[^114]॥
 
 [^114]: " In B and C the descriptions of वज्रामृत and टक्किराज follow thisline."
 
-[नीलदण्डं](http://॑ " A adds च।")महा[क्रोधं](http://॑ "C ° कायं।")त्रैलोक्यस्य [भयप्रदम्](http://॑ "C भयंकरं।")।  
+[नीलदण्डं](" A adds च।")महा[क्रोधं]("C ° कायं।")त्रैलोक्यस्य [भयप्रदम्]("C भयंकरं।")।  
 त्रिमुखं त्रिवज्रसंभूतं तीक्ष्णज्वालं प्रभावयेत्॥
 
 वज्राचलं महाक्रोधं केकरं वज्रसंभवम्।  
 खड्गपाशधरं सौम्यं त्रिमुखं भावयेत् व्रती॥
 
-एका[क्षरं](http://॑ "B ° न्तरं।") महोष्णीषं विस्फुरन्तं समन्ततः।  
-त्रिमुखं [वज्रिणं](http://॑ "C चक्रिणं।") दीप्तं भावयेत् ध्यानमण्डले॥
+एका[क्षरं]("B ° न्तरं।") महोष्णीषं विस्फुरन्तं समन्ततः।  
+त्रिमुखं [वज्रिणं]("C चक्रिणं।") दीप्तं भावयेत् ध्यानमण्डले॥
 
 शुम्भं ज्ञानाग्रधरं क्रूरं भयोदधिसमप्रभम्।  
 त्रिमुखं ज्वालार्चिवपुषं भावयेत् ध्यानसुप्रभम्॥
@@ -2612,7 +2543,7 @@ CONTENTS.
 तेजोराशिजयोष्णीषं ये चान्ये मन्त्रवज्रिणः।  
 एभिः समयसंभोगैर्भावनीयाः प्रति प्रति॥
 
-अमितानि समाधीनि मन्त्राणां [समुदाहृताः](http://॑ "B ° दीरयेत्।")।  
+अमितानि समाधीनि मन्त्राणां [समुदाहृताः]("B ° दीरयेत्।")।  
 
 एकैकस्य तु क्रोधस्य बहुत्वे तु विशिष्यते॥
 
@@ -2623,7 +2554,7 @@ CONTENTS.
 आदर्शमिव संभूतं वैधातुकस्य मण्डलम्।  
 सर्वालङ्काररचितं ध्वात्वा बोधिं स पश्यति॥
 
-अनेन बुद्धमाहात्म्यं [सर्वलोक](http://॑ "A° सत्त्व° ।")वशंकरम्।  
+अनेन बुद्धमाहात्म्यं [सर्वलोक]("A° सत्त्व° ।")वशंकरम्।  
 प्राप्यते जन्मनीहैव ध्यानवज्रप्रभावनैः॥
 
  ॥वैरोचनसमय[^115]संभवचारुवज्रो नाम समाधिः॥
@@ -2635,42 +2566,42 @@ CONTENTS.
 
 स्वच्छकायनिभं क्रुद्धं नानाज्वालभयप्रदम्।  
 सर्वाकारवरोपेतं सर्वालङ्कारभूषितम्।  
-ध्यात्वा ज्ञानपदं शान्तं लघु [वज्रत्व](http://॑ "A° सत्व °।")माप्नुयात्॥
+ध्यात्वा ज्ञानपदं शान्तं लघु [वज्रत्व]("A° सत्व °।")माप्नुयात्॥
 
 अनेन वज्रमाहात्म्यंसर्वसत्त्ववशंकरम्।  
-प्राप्यते जन्मनीहैव ध्यानवज्र[प्रयोगतः](http://॑ "AC° प्रचोदितः।")।
+प्राप्यते जन्मनीहैव ध्यानवज्र[प्रयोगतः]("AC° प्रचोदितः।")।
 
  ॥सर्ववज्रममयसंभवचारुवज्रोनाम समाधिः॥
 
 खवज्रमध्यगं चिन्तेद्धर्ममण्डलमुत्तमम्।  
-बुद्धबिम्बंप्रभावित्वा धर्म[सत्त्वं](http://॑ " A तत्वं।")विचिन्तयेत्॥
+बुद्धबिम्बंप्रभावित्वा धर्म[सत्त्वं](" A तत्वं।")विचिन्तयेत्॥
 
 स्वच्छकायधरं सौम्यं सर्वालङ्कारभूषितम्।  
-रश्मिमेघमहा[चक्रं](http://॑ "A° वज्रं।")विस्फुरन्तं प्रभावयेत्॥
+रश्मिमेघमहा[चक्रं]("A° वज्रं।")विस्फुरन्तं प्रभावयेत्॥
 
 अनेन धर्ममाहात्म्यं त्रिकायाभेद्यसम्भवम्।  
 प्राप्यते जन्मनीहैव ज्ञानोदधिविभूषणम्॥
 
- ॥[धर्मसत्व](http://॑ "A ° वज्र°।")समयसंभवचारुवज्रोनाम समाधिः॥
+ ॥[धर्मसत्व]("A ° वज्र°।")समयसंभवचारुवज्रोनाम समाधिः॥
 
-खज्रमध्यगं चिन्तेत् [चक्र](http://॑ "A° चन्द्र।")मण्डलमुत्तमम्।  
+खज्रमध्यगं चिन्तेत् [चक्र]("A° चन्द्र।")मण्डलमुत्तमम्।  
 बुद्धबिम्बं प्रभावित्वा लोचनाग्रीं विभावयेत्॥
 
 चारुवक्त्रां विशालाक्षीं नानाभरणभूषिताम्।  
-सर्वलक्षणसंपूर्णां[त्रिकायाग्र](http://॑ " A त्रिमायाग्र, ° C त्रियानाग्र°।")[धारिणीम्](http://॑ "BC add बुद्धबिम्बं प्रभावित्वा खवज्राग्रींप्रभावयेत्। after this line.")॥
+सर्वलक्षणसंपूर्णां[त्रिकायाग्र](" A त्रिमायाग्र, ° C त्रियानाग्र°।")[धारिणीम्]("BC add बुद्धबिम्बं प्रभावित्वा खवज्राग्रींप्रभावयेत्। after this line.")॥
 
 पाणौ प्रभावयेत् चक्रंत्रैधातुकवशङ्करम्।  
 सर्वसिद्धिकरं ज्ञानं चक्रं चिन्तामणिप्रदम्॥
 
  ॥लोचनासमयाज्ञानहस्ताग्रवतीनाम समाधिः॥
 
-खवज्रमध्यगं चिन्तेत् [चन्द्र](http://॑ "C वज्र °।")मण्डलमुत्तमम्॥
+खवज्रमध्यगं चिन्तेत् [चन्द्र]("C वज्र °।")मण्डलमुत्तमम्॥
 
 बुद्धबिम्बं प्रभावित्वा खवज्राग्रींप्रभावयेत्।  
 चारुवक्त्रांविशालाक्षींनीलोत्पलसमप्रभाम्॥
 
 सर्वलक्षणसंपूर्णांखमायाग्रींविभावयेत्।  
-पाणौ नीलोत्पलं [चक्रं](http://॑ "C रक्तं।")त्रैधातुकनमस्कृतम्॥
+पाणौ नीलोत्पलं [चक्रं]("C रक्तं।")त्रैधातुकनमस्कृतम्॥
 
 बुद्धबोधिकरं दिव्यं रहस्यं सिद्धिवज्रिणाम्।
 
@@ -2689,11 +2620,11 @@ CONTENTS.
 
  ॥धर्मसमयतत्वाभिसम्बोधिदर्शनवज्रो नाम समाधिः॥
 
-खवज्रमध्यगं चिन्तेत् सिद्धि[मण्डल](http://॑ "B°लक्षण °। ")मुत्तमम्।  
+खवज्रमध्यगं चिन्तेत् सिद्धि[मण्डल]("B°लक्षण °। ")मुत्तमम्।  
 बुद्धबिम्बं प्रभावित्वा तारार्ग्रीतु प्रभावयेत्॥
 
 चारुवक्त्रां विशालाक्षींनानाभरणभूषिताम्।  
-पीतवर्णनिभां ध्यात्वा [स्त्रीशाठ्य](http://॑ "A त्रिसाध्य °।")मदनोत्सुकाम्॥
+पीतवर्णनिभां ध्यात्वा [स्त्रीशाठ्य]("A त्रिसाध्य °।")मदनोत्सुकाम्॥
 
 पाणौ प्रभावयेत् व्यक्त उत्पलं पीतसन्निभम्।  
 वज्रसमाधिसंभूतं सर्वसत्त्वनमस्कृतम्॥
@@ -2703,35 +2634,35 @@ CONTENTS.
 खवज्रमध्यगं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
 बुद्धबिम्बंप्रभावित्वा यमान्तकाग्रं विभावयेत्॥
 
-स्फुलिङ्गगहनं दीप्तं संक्रुद्धं [भव](http://॑ " A सूर्य °।")मण्डलम्।  
-[रक्ताक्षं](http://॑ " A चक्राक्षं।")दंष्ट्राविकटं खड्गपाणिं विभावयेत्॥
+स्फुलिङ्गगहनं दीप्तं संक्रुद्धं [भव](" A सूर्य °।")मण्डलम्।  
+[रक्ताक्षं](" A चक्राक्षं।")दंष्ट्राविकटं खड्गपाणिं विभावयेत्॥
 
 मुकुटे वैरोचनपदं ध्यात्वा तुष्यन्ति वज्रिणः।  
 एषो हि सर्वक्रोधानां समयो ज्ञानवज्रिणाम्॥
 
- ॥यमान्तकस्फुरणाव[भास](http://॑ " A° सन °।")व्यूहो नाम समाधिः॥
+ ॥यमान्तकस्फुरणाव[भास](" A° सन °।")व्यूहो नाम समाधिः॥
 
 खवज्रमध्यगं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
 बुद्धबिम्बंप्रभावित्वाऽपराजिताख्यं प्रभावयेत्॥
 
-स्फुलिङ्गगहनं दीप्तं [सर्प](http://॑ "A सूर्य °।")मण्डितमेखलम्।  
-विकरालं विकट[वक्त्रं](http://॑ "C ° ज्रं।")सितवर्णंप्रभावयेत्॥
+स्फुलिङ्गगहनं दीप्तं [सर्प]("A सूर्य °।")मण्डितमेखलम्।  
+विकरालं विकट[वक्त्रं]("C ° ज्रं।")सितवर्णंप्रभावयेत्॥
 
 मुकुटेऽक्षोभ्यसमयं ध्यात्वा तुष्यन्ति वज्रिणः।  
 एषो हि सर्वक्रोधानां समयो ज्ञानवज्रिणाम्॥
 
- ॥अपराजित[वज्र](http://॑ "B omits ° वज्र °।")व्यूहो नाम समाधिः॥
+ ॥अपराजित[वज्र]("B omits ° वज्र °।")व्यूहो नाम समाधिः॥
 
 खवज्रमध्यगं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
-बुद्धबिम्बंप्रभावित्वा [हयग्रीवं](http://॑ "BC ° वज्रं °।") प्रभावयेत्॥
+बुद्धबिम्बंप्रभावित्वा [हयग्रीवं]("BC ° वज्रं °।") प्रभावयेत्॥
 
-स्फुलिङ्गगहनं [क्रुद्धं](http://॑ " A दीप्तं।") विस्फुरन्तं समन्ततः।  
-सर्वदुष्टपदाक्रान्तं[रक्तवर्णं](http://॑ "A ° बिम्बं।")विभावयेत्॥
+स्फुलिङ्गगहनं [क्रुद्धं](" A दीप्तं।") विस्फुरन्तं समन्ततः।  
+सर्वदुष्टपदाक्रान्तं[रक्तवर्णं]("A ° बिम्बं।")विभावयेत्॥
 
 मुकुटेऽमितसंबुद्धं ध्यात्वा तुष्यन्ति वज्रिणः।  
-एषोहि सर्वक्रोधानां समयो [ज्ञानवज्रिणाम्](http://॑ "C वज्रधारिणाम्, B ° चारिणाम्।")॥
+एषोहि सर्वक्रोधानां समयो [ज्ञानवज्रिणाम्]("C वज्रधारिणाम्, B ° चारिणाम्।")॥
 
- ॥हयग्री[वोत्पत्ति](http://॑ "A ° त्पादन °।")संभवव्यूहो नाम समाधिः॥
+ ॥हयग्री[वोत्पत्ति]("A ° त्पादन °।")संभवव्यूहो नाम समाधिः॥
 
 खवज्रमध्यगं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
 बुद्धबिम्बं प्रभावित्वा वज्रामृतं प्रभावयेत्॥
@@ -2747,10 +2678,10 @@ CONTENTS.
 खवज्रमध्यगं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
 बुद्धबिम्बंविभावित्वा टक्किसत्त्वंप्रभावयेत्॥
 
-क्रूरं विकृत[केशा](http://॑ "A देहो °।")ग्रं भयस्यापि भयङ्करम्।  
-सर्वालङ्कारसंपूर्णं भावयेत् वज्र[सुप्रभम्](http://॑ "A° मुत्तमम्।")॥
+क्रूरं विकृत[केशा]("A देहो °।")ग्रं भयस्यापि भयङ्करम्।  
+सर्वालङ्कारसंपूर्णं भावयेत् वज्र[सुप्रभम्]("A° मुत्तमम्।")॥
 
-मुकुटेऽक्षोभ्यसमयं ध्यात्वा तुष्टिप्र[वर्धनम्](http://॑ "C मर्दनं।")।  
+मुकुटेऽक्षोभ्यसमयं ध्यात्वा तुष्टिप्र[वर्धनम्]("C मर्दनं।")।  
 एषो हि सर्वक्रोधानां समयो दुरतिक्रमः॥
 
  ॥ध्यानवज्रसम्बोधिरतिर्नाम समाधिः॥
@@ -2759,7 +2690,7 @@ CONTENTS.
 बुद्धबिम्बं प्रभावित्वा महाबलंप्रभावयेत्॥
 
 स्फुलिङ्गगहनं दीप्तंत्रिवज्रालयमण्डलम्।  
-क्रूरं [पाश](http://॑ "B पाप°।")धरं क्रुद्धं भावयेत् बलवज्रिणम्॥
+क्रूरं [पाश]("B पाप°।")धरं क्रुद्धं भावयेत् बलवज्रिणम्॥
 
 मुकुटेऽक्षोभ्यसमयं ध्यात्वा तुष्टिप्रवर्धनम्।  
 एषो हि सर्वक्रोधानां समयो दुरतिक्रमः॥
@@ -2774,7 +2705,7 @@ CONTENTS.
 कृष्णरूपधरं तीक्ष्णंकृष्णोदधिविवर्धनम्।  
 स्फुलिङ्गगहनं दीप्तं भावयेत् दण्डवज्रिणम्॥
 
-मुकुटेऽक्षोभ्यसमयं ध्यात्वा [तुष्टि](http://॑ "C पुष्टि °।")प्रवर्धनम्।  
+मुकुटेऽक्षोभ्यसमयं ध्यात्वा [तुष्टि]("C पुष्टि °।")प्रवर्धनम्।  
 एषो हि सर्वक्रोधानां समयो दुरतिक्रमः॥
 
  ॥वज्रदण्डसमयाग्रवती नाम समाधिः॥
@@ -2782,28 +2713,27 @@ CONTENTS.
 खवज्रमध्यगं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
 बुद्धबिम्बंप्रभावित्वा अचलाग्रं विभावयेत्॥
 
-केकरं विकृतं क्रुद्धं पाशखड्ग[धराकुलम्](http://॑ "A ° धरांकुशं।")।  
+केकरं विकृतं क्रुद्धं पाशखड्ग[धराकुलम्]("A ° धरांकुशं।")।  
 स्फुलिङ्गगहनं दीप्तं भावयेदचलवज्रिणम्॥
 
 मुकुटेऽक्षोभ्यसमयं ध्यात्वा तुष्टिप्रवर्धनम्।  
 
 एषो हि सर्वक्रोधानां समयो दुरतिक्रमः॥
 
- ॥खवज्र[धातु](http://॑ "C omits°धातु°।")समयपदाक्रान्तो नाम समाधिः॥
+ ॥खवज्र[धातु]("C omits°धातु°।")समयपदाक्रान्तो नाम समाधिः॥
 
 खवज्रमध्यगं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
 बुद्धबिम्बं प्रभावित्वा विद्याचक्रं विभावयेत्॥
 
-सर्वलक्षणसंपूर्णं [चक्र](http://॑ "B वज्र°।")ज्वालापरिवृतम्।  
+सर्वलक्षणसंपूर्णं [चक्र]("B वज्र°।")ज्वालापरिवृतम्।  
 उष्णीषचक्रसमयं विस्फुरन्तं प्रभावयेत्॥
 
 मुकुटेऽक्षोभ्यसमयं ध्यात्वा तुष्टिप्रवर्धनम्।  
 एषो हि सर्वक्रोधानां समयो दुरतिक्रमः॥
 
+॥[उष्णीष](" A adds° समय °।")विद्या[चल]("A° धर °।")चक्रोनाम समाधिः॥
 
-॥[उष्णीष](http://॑ " A adds° समय °।")विद्या[चल](http://॑ "A° धर °।")चक्रोनाम समाधिः॥
-
-[खवज्र](http://॑ "A° धातु °।")मध्यगं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
+[खवज्र]("A° धातु °।")मध्यगं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
 बुद्धबिम्बं विभावित्वा वज्रसुम्भं प्रभावयेत्॥
 
 तीक्ष्णज्वालार्चिर्वपुषं स्फुरन्तं मेघवज्रिणम्।  
@@ -2814,15 +2744,14 @@ CONTENTS.
 
  ॥वज्रसमयसुम्भवज्रो नाम समाधिः॥
 
-निरोधक्रोधचक्रेण बुद्धचक्रनिषे[विणा](http://॑ "A ° वणं।")।  
+निरोधक्रोधचक्रेण बुद्धचक्रनिषे[विणा]("A ° वणं।")।  
 समाधिवज्रज्ञानानि सिध्यन्ते वज्रमण्डलात्॥
 
 **इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्य गुह्यसमाजे महागुह्यतन्त्रराजे समयव्यूहतत्वार्थभावनासम्बोधिपटलस्त्रयोदशोऽध्यायः।**
 
+अथभगवान्सर्वतथागतसमयाधिपतिर्महावज्रधरः[शान्ति]("C शास्ता।")समयाग्रं नाम समाधिं समापद्येमां सर्वतथागतभार्यांकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
-अथभगवान्सर्वतथागतसमयाधिपतिर्महावज्रधरः[शान्ति](http://॑ "C शास्ता।")समयाग्रं नाम समाधिं समापद्येमां सर्वतथागतभार्यांकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
-
- ॥ओँ रु रु स्फुरु ज्वल तिष्ठ [सिद्धलो](http://॑ "C रो °।")चने सर्वार्थसाधनि स्वाहा॥
+ ॥ओँ रु रु स्फुरु ज्वल तिष्ठ [सिद्धलो]("C रो °।")चने सर्वार्थसाधनि स्वाहा॥
 
 अथास्यां गीतमात्रायां सर्वसम्पन्मनीषिणः  
 तुष्टा हर्षं समापेदे बुद्धवज्रमनुस्मरन्॥
@@ -2834,7 +2763,7 @@ CONTENTS.
 
  अथ भगवांस्त्रिकायसमयक्रोधवज्रः भावाभावसमयवज्रंनाम समाधिं समापद्येमां सर्ववज्रधराग्रमहिषीं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
- ॥ओँशङ्करे शान्तिकरे घुट्ट घुट्ट घुट्टनि घातय [घातय](http://॑ "B omits.")घुट्टनि [स्वाहा](http://॑ "A gives घुट्ट घुट्टनिस्वाहा only.")॥
+ ॥ओँशङ्करे शान्तिकरे घुट्ट घुट्ट घुट्टनि घातय [घातय]("B omits.")घुट्टनि [स्वाहा]("A gives घुट्ट घुट्टनिस्वाहा only.")॥
 
 अथास्यां गीतमातायां त्रिवज्राभेद्यवज्रिणः।  
 उत्फुल्लचारुनयना वज्रचित्तमनुस्मरन्॥
@@ -2842,11 +2771,11 @@ CONTENTS.
 रक्षावज्रप्रयोगेषु नित्यं कर्मप्रसाधनी।  
 महावज्रभयार्तानां नित्यं बलकरी स्मृता॥
 
- अथ भगवान् [महाराग](http://॑ "A ° ज ° ।")समयावलोकनं नाम समाधिंसमापद्येमां धर्मकायाग्रभार्यांस्वकायवाक्चित्तवज्रेभ्योनिश्चारया[मास](http://॑ " C ° रयत्।")।
+ अथ भगवान् [महाराग]("A ° ज ° ।")समयावलोकनं नाम समाधिंसमापद्येमां धर्मकायाग्रभार्यांस्वकायवाक्चित्तवज्रेभ्योनिश्चारया[मास](" C ° रयत्।")।
 
- ॥ ओँ कटे [विकटे](http://॑ "AC add निकटे।") कटङ्कटे करोटवीर्ये स्वाहा॥
+ ॥ ओँ कटे [विकटे]("AC add निकटे।") कटङ्कटे करोटवीर्ये स्वाहा॥
 
-अथास्यां गीतमात्रायां वज्र[धर्माग्रचा](http://॑ " A धा°।")रिणः।  
+अथास्यां गीतमात्रायां वज्र[धर्माग्रचा](" A धा°।")रिणः।  
 तुष्टा ध्यानं समापेदे वज्रधर्ममनुस्मरन्॥
 
 धर्मपुष्टिं बलं नित्यं महाकोशवती सदा।  
@@ -2854,7 +2783,7 @@ CONTENTS.
 
 [^117]: "A ° धरो यथा।"
 
- अथ भगवान् समन्तसम्भववज्रं नाम समाधिं समापद्येमां[समयस](http://॑ " C° त ° ।")त्वाग्रभार्यां स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ भगवान् समन्तसम्भववज्रं नाम समाधिं समापद्येमां[समयस](" C° त ° ।")त्वाग्रभार्यां स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
  ॥ओँतारे तुत्तारे तुरे स्वाहा॥
 
@@ -2866,36 +2795,36 @@ CONTENTS.
 
  इत्याह च॥
 
- अथभगवान् सर्वतथागतकायवाक्चित्तवज्रस्तथागतोविमलरश्मिमेघ[व्यूहवज्रं](http://॑ "B omits ° वज्रंand A omits° व्यूह °।")नाम समाधिं समापद्येमं वज्रयमान्तक[महाक्रोधं](http://॑ "B° वज्र ° ।")स्वकायवाक्चित्तवज्रेभ्यो निश्चार[यामास](http://॑ " AB ° येत्।")॥
+ अथभगवान् सर्वतथागतकायवाक्चित्तवज्रस्तथागतोविमलरश्मिमेघ[व्यूहवज्रं]("B omits ° वज्रंand A omits° व्यूह °।")नाम समाधिं समापद्येमं वज्रयमान्तक[महाक्रोधं]("B° वज्र ° ।")स्वकायवाक्चित्तवज्रेभ्यो निश्चार[यामास](" AB ° येत्।")॥
 
- ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँख ख खाहिखाहि [सर्वदुष्ट](http://॑ " A adds ° सत्त्व °।")दमक असिमूषलपरशुपाशहस्तचतुर्मुखचतुर्भुज षट्चरण आ[गच्छागच्छ](http://॑ " A गच्छ गच्छ।")सर्वदुष्टप्राणहारिणे महा[विघ्नान्तक](http://॑ "A विघ्नघातक।")विकृतानन सर्वभूतभयङ्कर अट्टाट्टहासनादिनेव्याघ्रचर्म[निवसने](http://॑ "C निवेशने।")कुरु कुरु सर्वकर्माणि छिन्द छिन्द सर्वमन्त्रान् भिन्द भिन्द [परमुद्राणा](http://॑ " A °मन्त्रा ° ।")कर्षय आकर्षय सर्वभूतान्निर्मथ निर्मथ सर्वदुष्टान् प्रवेशय प्रवेशय मण्डलमध्ये वैवस्वतजीवितान्तकर कुरु कुरु मम [कार्यं](http://॑ " B° यं।")दह दह पच पचमा विलम्ब विलम्ब समयमनुस्मर हूँ हूँफट् फट्स्फोटयस्फोटय सर्वाशापरिपूरक सर्वान् नाशय रिपून्कर [कर](http://॑ "A adds सर्वाशापरिपूरक।")हे हे भगवन् किं चिरायसि मम सर्वार्थान् साधय साधयस्वाहा॥
+ ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँख ख खाहिखाहि [सर्वदुष्ट](" A adds ° सत्त्व °।")दमक असिमूषलपरशुपाशहस्तचतुर्मुखचतुर्भुज षट्चरण आ[गच्छागच्छ](" A गच्छ गच्छ।")सर्वदुष्टप्राणहारिणे महा[विघ्नान्तक]("A विघ्नघातक।")विकृतानन सर्वभूतभयङ्कर अट्टाट्टहासनादिनेव्याघ्रचर्म[निवसने]("C निवेशने।")कुरु कुरु सर्वकर्माणि छिन्द छिन्द सर्वमन्त्रान् भिन्द भिन्द [परमुद्राणा](" A °मन्त्रा ° ।")कर्षय आकर्षय सर्वभूतान्निर्मथ निर्मथ सर्वदुष्टान् प्रवेशय प्रवेशय मण्डलमध्ये वैवस्वतजीवितान्तकर कुरु कुरु मम [कार्यं](" B° यं।")दह दह पच पचमा विलम्ब विलम्ब समयमनुस्मर हूँ हूँफट् फट्स्फोटयस्फोटय सर्वाशापरिपूरक सर्वान् नाशय रिपून्कर [कर]("A adds सर्वाशापरिपूरक।")हे हे भगवन् किं चिरायसि मम सर्वार्थान् साधय साधयस्वाहा॥
 
 अथास्मिन् भाषितमात्रे सर्वे बुद्धामहायशाः।  
 भीताःसंत्रस्तमनसो वज्रचित्तमनुस्मरन्॥
 
 कपालं निर्व्रणं प्राप्य चारुरूपं मनीषिणम्।  
-पादाक्रान्तगतं कृत्वा मन्त्रमेनमनु[स्मरन्](http://॑ "C स्मरेत्।")॥
+पादाक्रान्तगतं कृत्वा मन्त्रमेनमनु[स्मरन्]("C स्मरेत्।")॥
 
 लोचनां मामकींचापि महावज्रकुलोच्चयाम्।  
 द्वित्रीन् वारान् समुच्चार्य ध्रुवमाकृष्यते क्षणात्॥
 
- इत्याह च भगवान् [बोधि](http://॑ "BC omit° बोधि before चित्त।")चित्तवज्रः॥
+ इत्याह च भगवान् [बोधि]("BC omit° बोधि before चित्त।")चित्तवज्रः॥
 
- अथ भगवान् वैरोचनवज्रस्तथागतः समयरश्मि[घ](http://॑ "A गह °।")नाग्रंनाम समाधिं समापद्येमममृतसमयवज्रक्रोधं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
+ अथ भगवान् वैरोचनवज्रस्तथागतः समयरश्मि[घ]("A गह °।")नाग्रंनाम समाधिं समापद्येमममृतसमयवज्रक्रोधं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
- नमः समन्तकायवाक्चित्तवज्राणाम्। नमो वज्रक्रोधाय महादंष्ट्रोत्कटभैरवाय असिमुसल[परशुपाश](http://॑ "C पाशपरशु ; पर्शुin A.")गृहीतहस्ताय ओँअमृतकुण्डलि खखखाहि खाहि तिष्ठ तिष्ठ बन्धबन्ध हन हन दह दह गर्ज गर्ज विस्फोटय विस्फोटयसर्वविघ्नविनायकान् महागणपतिजीवितान्त[कराय](http://॑ "B° काय।") स्वाहा॥
+ नमः समन्तकायवाक्चित्तवज्राणाम्। नमो वज्रक्रोधाय महादंष्ट्रोत्कटभैरवाय असिमुसल[परशुपाश]("C पाशपरशु ; पर्शुin A.")गृहीतहस्ताय ओँअमृतकुण्डलि खखखाहि खाहि तिष्ठ तिष्ठ बन्धबन्ध हन हन दह दह गर्ज गर्ज विस्फोटय विस्फोटयसर्वविघ्नविनायकान् महागणपतिजीवितान्त[कराय]("B° काय।") स्वाहा॥
 
 अथास्मिन् भाषितमात्रे सर्वे बुद्धा महायशाः।  
-मूर्च्छिता भयमापेदे वज्र[काय](http://॑ " A ° म।")मनुम्मरन्॥
+मूर्च्छिता भयमापेदे वज्र[काय](" A ° म।")मनुम्मरन्॥
 
 सर्वमन्त्रप्रयोगेषु वज्रोच्चाटनकर्मणि।  
 उच्चाटयति विधिना बुद्धसैन्यमपि स्वयम्॥
 
- अथ भगवान् रत्नकेतुस्तथागतो बुद्धरश्मिवज्रं नाम समाधिंसमापद्येमं वज्रापरा[जितमहा](http://॑ "BC omit.")क्रोधं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास।
+ अथ भगवान् रत्नकेतुस्तथागतो बुद्धरश्मिवज्रं नाम समाधिंसमापद्येमं वज्रापरा[जितमहा]("BC omit.")क्रोधं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास।
 
- ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँहूँ जिनरिटि [हे](http://॑ "C ° रितिह, A ° रिटिटादा")हूँ हूँ फट् [फट्](http://॑ "B omits.") स्वाहा॥
+ ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँहूँ जिनरिटि [हे]("C ° रितिह, A ° रिटिटादा")हूँ हूँ फट् [फट्]("B omits.") स्वाहा॥
 
-अथास्मिन् [गीत](http://॑ "A भाषित°।")मात्रे तु सर्वे बुद्धा महा[यशाः](http://॑ "A° त्मजाः।")।  
+अथास्मिन् [गीत]("A भाषित°।")मात्रे तु सर्वे बुद्धा महा[यशाः]("A° त्मजाः।")।  
 भीताः सन्त्रस्तमनसो बोधिचित्तमनुस्मरन्॥
 
 राक्षसव्याडक्रूरेषु महाभयसमाकुले।  
@@ -2903,23 +2832,23 @@ CONTENTS.
 
 [^118]: "C प्रयुञ्जनात्, A प्रपूजनात्।"
 
- अथ भगवान् अमितायुस्तथागतोऽमितसम्भववज्रं नामसमाधिं समापद्येमं [पद्मसम्भव](http://॑ "A° वं नाम महा ° ।")वज्रक्रोधं स्वकायवाक्चित्तवज्रभ्यो निश्चारयामास॥
+ अथ भगवान् अमितायुस्तथागतोऽमितसम्भववज्रं नामसमाधिं समापद्येमं [पद्मसम्भव]("A° वं नाम महा ° ।")वज्रक्रोधं स्वकायवाक्चित्तवज्रभ्यो निश्चारयामास॥
 
- नमः समन्तकायवाक्चित्तवज्राणाम्। ओँहूँ हूँ हूँ तरुलविरुल सर्वविषघातक ज्वलितविस्फुलिङ्गाट्टाट्टहास केसरिसटाटोपटङ्कारवज्र[खुर](http://॑ "C° सुर °।")निर्घातनचलित[^119]वसुधातल निश्वासमा[रुतो](http://॑ "C° ती।")त्क्षिप्तधरणीधर भीषणाट्टाट्टहास अपरिमितबलपराक्रम आर्यगणभीतभूतगणाध्युषित बुद्ध बुद्ध हयग्रीव खादखाद परमन्त्रान् छिन्द छिन्द सिद्धिं मे [दिश](http://॑ "Arepeats.")[आवेशय](http://॑ "Arepeats.")सर्वज्वर[पिपासा](http://॑ "AB पिशाचा °।")दीन् सर्वग्रहेष्वप्रतिहतो भव वज्रदंष्ट्र किंचिरायसि इमं [सर्व](http://॑ "AB omits.")दुष्टग्रहं दुष्ट[सङ्घं](http://॑ "A सर्प °।")वा धुन धुन विधुनविधुन मथ मथ मट मट घातय घातय बन्ध बन्ध बुद्धधर्मसङ्घानुज्ञातकर्म कूरु शीघ्रम्। हयग्रीवाय [फट्](http://॑ " C addsवज्राय फट्।") वज्रगात्रायफट् वज्रनेत्राय फट्वज्रदंष्ट्राय फट् वज्र[खुरा](http://॑ " A° स्व °।")य फट् वज्र[खुर](http://॑ "A° शर °।")निर्घातनाय फट् परमन्त्रविनाशाय फट् त्रैलोक्यभयङ्करायफट् सर्वकर्मेष्वप्रतिहताय फट् वज्रकुलसन्त्रासनाय फट् हूँहूँहूँफट्फट्फट्स्वाहा॥
+ नमः समन्तकायवाक्चित्तवज्राणाम्। ओँहूँ हूँ हूँ तरुलविरुल सर्वविषघातक ज्वलितविस्फुलिङ्गाट्टाट्टहास केसरिसटाटोपटङ्कारवज्र[खुर]("C° सुर °।")निर्घातनचलित[^119]वसुधातल निश्वासमा[रुतो]("C° ती।")त्क्षिप्तधरणीधर भीषणाट्टाट्टहास अपरिमितबलपराक्रम आर्यगणभीतभूतगणाध्युषित बुद्ध बुद्ध हयग्रीव खादखाद परमन्त्रान् छिन्द छिन्द सिद्धिं मे [दिश]("Arepeats.")[आवेशय]("Arepeats.")सर्वज्वर[पिपासा]("AB पिशाचा °।")दीन् सर्वग्रहेष्वप्रतिहतो भव वज्रदंष्ट्र किंचिरायसि इमं [सर्व]("AB omits.")दुष्टग्रहं दुष्ट[सङ्घं]("A सर्प °।")वा धुन धुन विधुनविधुन मथ मथ मट मट घातय घातय बन्ध बन्ध बुद्धधर्मसङ्घानुज्ञातकर्म कूरु शीघ्रम्। हयग्रीवाय [फट्](" C addsवज्राय फट्।") वज्रगात्रायफट् वज्रनेत्राय फट्वज्रदंष्ट्राय फट् वज्र[खुरा](" A° स्व °।")य फट् वज्र[खुर]("A° शर °।")निर्घातनाय फट् परमन्त्रविनाशाय फट् त्रैलोक्यभयङ्करायफट् सर्वकर्मेष्वप्रतिहताय फट् वज्रकुलसन्त्रासनाय फट् हूँहूँहूँफट्फट्फट्स्वाहा॥
 
 [^119]: " CB omits ° चलित °।"
 
-अथास्मिन् [विनिःसृत](http://॑ "A निश्चारित °।")मात्रे धर्मवज्रा महाग्रजाः।  
+अथास्मिन् [विनिःसृत]("A निश्चारित °।")मात्रे धर्मवज्रा महाग्रजाः।  
 भीताः संमूर्च्छमापेदे ज्ञानराजमनुस्मरन्॥
 
 खधातुं विषसम्पूर्णं वज्रहालाहलप्रभम्।  
-करोति निविर्षं [सर्वं](http://॑ " BC read instead समाधिविधिभेदेन।") क्रोधराजप्रचोदनैः॥
+करोति निविर्षं [सर्वं](" BC read instead समाधिविधिभेदेन।") क्रोधराजप्रचोदनैः॥
 
  इत्याह च।
 
- अथ भगवान् अमोघसिद्धिस्तथागतः अमोघ[समय](http://॑ "BC omit.")सम्भवकेतुवज्रं नाम समाधिं समापद्येमं [नीलवज्र](http://॑ "C omits° वज्र°।")दण्डक्रोधराजं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ भगवान् अमोघसिद्धिस्तथागतः अमोघ[समय]("BC omit.")सम्भवकेतुवज्रं नाम समाधिं समापद्येमं [नीलवज्र]("C omits° वज्र°।")दण्डक्रोधराजं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
- ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँएह्येहि भगवन् नीलवज्रदण्ड तुरु तुरु हुलु हुलु [हाहा](http://॑ " BC लघु लघु। ")गुलु गुलुगुलापय गुलापय क्रम क्रम भगवन् वायुवेगेन भूतान् शीघ्रंदह दह दर दर वह [वह](http://॑ "A has ताट ताट चल चलदह दह instead of वह वह only.") पच पच मथ मथ [पातय](http://॑ "A घाटय।")पातय मट्ट मट्ट मट्टापय मट्टापय सर्वकर्माणि छिन्द छिन्द[भक्ष](http://॑ "BC भक्षय।")भक्ष मेदमांसरुधिरमत्स्यमेदमज्जाप्रिय एह्येहि भगवन्[सर्वविघ्नानि](http://॑ "BComit सर्वविघ्नानि।")सर्वमन्त्राणिसर्वमूलकर्माणिसर्वमूलग्रहान्हन [हन](http://॑ "C भर, B हर।")भञ्जभञ्जमर्द मर्द इदं मे कार्यं साधय हूँ नीलाय[नीलवज्र](http://॑ "C omits° वज्र °।")दण्डाय तुरु तुरु विघ्नविनायकनाशकाय[^120]हुरुहुरु दीप्तचण्डाय सर्वशत्रूणां हृदयानि पीड़य छिन्दछिन्द विद्यानां छेदक [हूँ](http://॑ "A adds महाक्रोधकं हूँ।")विद्यानां शिष्टान् स्मर स्मरसमयं वज्रधरवचनं कर्माणि निकृन्तय हूँ हूँ हन [हन](http://॑ "C हर हर।") दह दह कुरु [कुरु](http://॑ " A हुरु हुरु।") तुरु तुरु हुरु [हुरु](http://॑ "AC omit.")फट् फट् हूँहूँहूँ भक्षापय कृतान्ताय देवऋषिविद्रापकाय हन [हन](http://॑ "C हर हर। ")वज्र[दण्डाय](http://॑ "C ° ण्डिणे।") स्वाहा॥
+ ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँएह्येहि भगवन् नीलवज्रदण्ड तुरु तुरु हुलु हुलु [हाहा](" BC लघु लघु। ")गुलु गुलुगुलापय गुलापय क्रम क्रम भगवन् वायुवेगेन भूतान् शीघ्रंदह दह दर दर वह [वह]("A has ताट ताट चल चलदह दह instead of वह वह only.") पच पच मथ मथ [पातय]("A घाटय।")पातय मट्ट मट्ट मट्टापय मट्टापय सर्वकर्माणि छिन्द छिन्द[भक्ष]("BC भक्षय।")भक्ष मेदमांसरुधिरमत्स्यमेदमज्जाप्रिय एह्येहि भगवन्[सर्वविघ्नानि]("BComit सर्वविघ्नानि।")सर्वमन्त्राणिसर्वमूलकर्माणिसर्वमूलग्रहान्हन [हन]("C भर, B हर।")भञ्जभञ्जमर्द मर्द इदं मे कार्यं साधय हूँ नीलाय[नीलवज्र]("C omits° वज्र °।")दण्डाय तुरु तुरु विघ्नविनायकनाशकाय[^120]हुरुहुरु दीप्तचण्डाय सर्वशत्रूणां हृदयानि पीड़य छिन्दछिन्द विद्यानां छेदक [हूँ]("A adds महाक्रोधकं हूँ।")विद्यानां शिष्टान् स्मर स्मरसमयं वज्रधरवचनं कर्माणि निकृन्तय हूँ हूँ हन [हन]("C हर हर।") दह दह कुरु [कुरु](" A हुरु हुरु।") तुरु तुरु हुरु [हुरु]("AC omit.")फट् फट् हूँहूँहूँ भक्षापय कृतान्ताय देवऋषिविद्रापकाय हन [हन]("C हर हर। ")वज्र[दण्डाय]("C ° ण्डिणे।") स्वाहा॥
 
 [^120]: "A°विनायकं नासकाय।"
 
@@ -2927,13 +2856,13 @@ CONTENTS.
 भीताः सन्त्रस्तमनसो वज्रसत्त्वमनुस्मरन्॥
 
 **जपेनाष्टशतेनायं क्रोधराजो महायशः।  
-घातकः सर्वदुष्टानां विधि[चक्र](http://॑ "A ° वज्र °।")प्रयोजनैः॥**
+घातकः सर्वदुष्टानां विधि[चक्र]("A ° वज्र °।")प्रयोजनैः॥**
 
  इत्याह च।
 
  अथ भगवान् अक्षोभ्यवज्रस्तथागतः समन्तमेघश्रियं नामसमाधिं समापद्येमं महाबलवज्रं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास।
 
- ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँहूँ हूँ हूँफट्फट्फट्ओँ उग्रशूलपाणि हूँ हूँ हूँ फट्फट्फट्ओँ ज्योतिर्निर्णाद हूँ हूँ [हूँ](http://॑ "Twice in C.") ओँ फट् फट् [फट्](http://॑ "C omits.Twice in A.") [ओँ](http://॑ "Thrice in A. AC add फट् फट् फट्।") महाबलाय स्वाहा।
+ ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँहूँ हूँ हूँफट्फट्फट्ओँ उग्रशूलपाणि हूँ हूँ हूँ फट्फट्फट्ओँ ज्योतिर्निर्णाद हूँ हूँ [हूँ]("Twice in C.") ओँ फट् फट् [फट्]("C omits.Twice in A.") [ओँ]("Thrice in A. AC add फट् फट् फट्।") महाबलाय स्वाहा।
 
 अथास्मिन् भाषितमात्रे सर्वे नागा महाबलाः।  
 भीताः सन्त्रस्तमनसः त्रिकायवज्रमनुस्मरन्॥
@@ -2948,43 +2877,43 @@ CONTENTS.
 अथास्मिन् भाषितमात्रेसर्वबुद्धा महात्मजाः।  
 भीताःसमयमापेदे त्रिवज्रकायमनुस्मरन्॥
 
-लिङ्गं दक्षिण[पादेन](http://॑ " C adds क्रान्त्वा।")वज्रसत्त्व[^121]प्रयोगतः।  
-त्रिवज्रमन्त्रचक्रेण सर्व[सत्त्वा](http://॑ "A ° मन्त्रा °।")कर्षणं भवेत्॥
+लिङ्गं दक्षिण[पादेन](" C adds क्रान्त्वा।")वज्रसत्त्व[^121]प्रयोगतः।  
+त्रिवज्रमन्त्रचक्रेण सर्व[सत्त्वा]("A ° मन्त्रा °।")कर्षणं भवेत्॥
 
 [^121]: " BC वज्रयोग °।"
 
  अथ भगवान् ज्ञानमालाम्बुवज्रं नाम समाधिं समापद्येमंअचलवज्रचण्डसमयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
- ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँ अचलकारण हूँ[हूँ](http://॑ "Thricein B.")मोट्ट [मोट्ट](http://॑ " A omits.") सट्ट सट्ट ह ह मोह मोह सह [सह](http://॑ " A सद ;C adds हस हस।") हन [हन](http://॑ "C हर हर।")दह दह तट्ट तट्ट तिष्ठ तिष्ठ आविश आविश महा[मत्तपालक](http://॑ "A°मन्त्रबालक, C मट्टपालक।") धुन धुन तिणि तिणि किणि किणि खाद [खाद](http://॑ "C omits.")विघ्नान्मारय मारय दूष्टान् भक्ष भक्ष [सर्वान्](http://॑ "C ° त्त्वान् °।") कुरु कुरु किरि किरिमहाविषमवज्र स्फोटय स्फोटय हूँ हूँ हूँ नृबलित[रंग](http://॑ "A ° गा °।")नर्त्तक आँ [आँ](http://॑ "C आ।")हाँ [हाँ](http://॑ "Thrice in B.") अ[चलचेत](http://॑ "C adds खाद खाद।") स्फोटय स्फोटय [ओँ](http://॑ "A हूँ।")असमन्तिक त्राट् महाबल सातय [समयं](http://॑ "A omits.") मँत्राँ[^122]हाँ माँशुध्यतु [वज्री](http://॑ "A लोकं।")तुष्यतु वज्री नमोऽस्त्वप्रतिबलेभ्यः ज्वालय त्राट्असह नमः स्वाहा॥
+ ॥नमः समन्तकायवाक्चित्तवज्राणाम्। ओँ अचलकारण हूँ[हूँ]("Thricein B.")मोट्ट [मोट्ट](" A omits.") सट्ट सट्ट ह ह मोह मोह सह [सह](" A सद ;C adds हस हस।") हन [हन]("C हर हर।")दह दह तट्ट तट्ट तिष्ठ तिष्ठ आविश आविश महा[मत्तपालक]("A°मन्त्रबालक, C मट्टपालक।") धुन धुन तिणि तिणि किणि किणि खाद [खाद]("C omits.")विघ्नान्मारय मारय दूष्टान् भक्ष भक्ष [सर्वान्]("C ° त्त्वान् °।") कुरु कुरु किरि किरिमहाविषमवज्र स्फोटय स्फोटय हूँ हूँ हूँ नृबलित[रंग]("A ° गा °।")नर्त्तक आँ [आँ]("C आ।")हाँ [हाँ]("Thrice in B.") अ[चलचेत]("C adds खाद खाद।") स्फोटय स्फोटय [ओँ]("A हूँ।")असमन्तिक त्राट् महाबल सातय [समयं]("A omits.") मँत्राँ[^122]हाँ माँशुध्यतु [वज्री]("A लोकं।")तुष्यतु वज्री नमोऽस्त्वप्रतिबलेभ्यः ज्वालय त्राट्असह नमः स्वाहा॥
 
 [^122]: "A परमन्त्राणि समयमन्त्रान् ओँ ओँ instead of मँ त्राँ।"
 
 अथास्मिन् भाषितमात्रेसर्वे देवाः सकिङ्कराः।  
-मूर्च्छितास्त्रस्तमनसो [मन्त्र](http://॑ "A वज्र °।")कायमनुस्मरन्॥
+मूर्च्छितास्त्रस्तमनसो [मन्त्र]("A वज्र °।")कायमनुस्मरन्॥
 
 अनेन क्रोधमन्त्रेण महादेवादयः सुराः।  
 भीताः सम्पुटकायेन आकृष्यन्ति महर्धिकाः॥
 
- अथ भगवान् समयवि[ज](http://॑ "C° स्क °।")ृम्भितवज्रंनाम समाधिं समापद्येमं सर्ववज्रधरसमयं [सुम्भ](http://॑ " B ° सम्भव °।")महाक्रोधं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ भगवान् समयवि[ज]("C° स्क °।")ृम्भितवज्रंनाम समाधिं समापद्येमं सर्ववज्रधरसमयं [सुम्भ](" B ° सम्भव °।")महाक्रोधं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
- ॥ओँनमः समन्तकायवाक्चित्तवज्राणाम्। ओँसुम्भनिसु[म्भ](http://॑ "C ° म्भे।") हूँ गृण्हगृण्ह[हूँ](http://॑ " C omits.") गृण्हापय गृण्हापय हूँआनय होभगवन् विद्याराज हूँ फट्॥
+ ॥ओँनमः समन्तकायवाक्चित्तवज्राणाम्। ओँसुम्भनिसु[म्भ]("C ° म्भे।") हूँ गृण्हगृण्ह[हूँ](" C omits.") गृण्हापय गृण्हापय हूँआनय होभगवन् विद्याराज हूँ फट्॥
 
 अथास्मिन् भाषितमात्रे सर्वकन्या महर्धिकाः।  
-मूक्तकेशा विव[स्त्राङ्गा](http://॑ "AC ° त्मा।")वज्रसत्त्वमनुस्मरन्॥
+मूक्तकेशा विव[स्त्राङ्गा]("AC ° त्मा।")वज्रसत्त्वमनुस्मरन्॥
 
 वज्रसत्त्वपदाक्रान्तं सर्वताथगताधिपम्।  
 वज्राङ्कुशपाशेन वज्रकन्याकर्षणं परम्॥
 
  अथ भगवान् महासमयतत्त्वोत्पत्तिवज्रं नाम समाधिंसमापद्येदं महासमयवज्रगुह्यवाक्समयतत्त्वपदं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
-बुद्ध[वज्र](http://॑ " A ° ज्रे।")त्रिकायेषु वज्रसत्त्वविभावना।  
+बुद्ध[वज्र](" A ° ज्रे।")त्रिकायेषु वज्रसत्त्वविभावना।  
 पाशवज्राङ्कुशधरैर्बुद्धाकर्षणमुत्तमम्॥
 
 बुद्धवाक्काययोगेन महाचक्रप्रयोगतः।  
 वज्रसत्त्वो महाराजो ध्रुवमाकृष्यते सदा॥
 
 चक्रपद्ममहावज्रैःत्रिवज्राभेद्यभावनैः।  
-वज्राङ्कुशप्रभेदेन सर्वमन्त्राकर्षणं [ध्रुवम्](http://॑ "A परं।")॥
+वज्राङ्कुशप्रभेदेन सर्वमन्त्राकर्षणं [ध्रुवम्]("A परं।")॥
 
 स्वमन्त्रपुरुषं ध्यात्वा [सर्व](http://॒ " B सत्त्व ° ।")वज्रमयं शिवम्।  
 कन्यां तु मानुषीं श्रेष्ठां हृद्वज्राङ्कुशयोगतः॥
@@ -3000,13 +2929,13 @@ CONTENTS.
 वज्राङ्कुशमहाबिम्बं तीक्ष्णज्वालासमप्रभम्।  
 वज्रमण्डलकं ध्यात्वा खकन्याकर्षणमुत्तमम्॥
 
-स्वक्रोधवज्रसमयं वज्र[पाताल](http://॑ "AC ° पोतल।")वासिनम्।  
-शूलवज्राङ्कु[शपाशै](http://॑ " A ° पदै°।")र्दैत्यकन्याकर्षण[मुत्तमम्](http://॑ "A परं।")॥
+स्वक्रोधवज्रसमयं वज्र[पाताल]("AC ° पोतल।")वासिनम्।  
+शूलवज्राङ्कु[शपाशै](" A ° पदै°।")र्दैत्यकन्याकर्षण[मुत्तमम्]("A परं।")॥
 
-गौरिकां [खटिकां](http://॑ "A omits. C खतिकां।") वापि वज्राङ्कुशप्रयोगतः।  
+गौरिकां [खटिकां]("A omits. C खतिकां।") वापि वज्राङ्कुशप्रयोगतः।  
 चन्द्रोपरागसमये मुखे प्रक्षिप्य साधयेत्॥
 
-ब्रह्मेन्द्ररुद्रदेवानां यस्य [नाम](http://॑ "A नामं यस्य।") समालिखेत्[^124]।  
+ब्रह्मेन्द्ररुद्रदेवानां यस्य [नाम]("A नामं यस्य।") समालिखेत्[^124]।  
 आगच्छन्ति भयस्रस्ताः वाक्यवज्रवचो यथा॥
 
 [^124]: "A लिखेत् स्वयम्।"
@@ -3014,7 +2943,7 @@ CONTENTS.
 सर्वाकारवरोपेतं मञ्जुवज्रं विभावयेत्।  
 यमान्तकं महाक्रोधं वज्राङ्कुशं विचिन्तयेत्॥
 
-कल्पोद्दाहमहाचक्रं ध्यात्वा यक्षींस्तु [साधयेत्](http://॑ "Aभुञ्जयेत्।")।
+कल्पोद्दाहमहाचक्रं ध्यात्वा यक्षींस्तु [साधयेत्]("Aभुञ्जयेत्।")।
 
  इत्याह च॥
 
@@ -3024,17 +2953,17 @@ CONTENTS.
 वज्रसत्त्वो महाराजो चोदनीयो मुहुर्मुहुः।  
 स एव सर्वमन्त्राणां राजा परमशाश्वतः॥
 
- अथ भगवान् समन्त[विजृ](http://॑ "C ° क्त °।")म्भितज्ञानवज्रं नाम समाधिं समापद्येमां वज्रैकजटां नाम महासर्पा[पराजित](http://॑ "BC ° समयराज °।")वाग्वज्राग्रींस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।ओँ [शूलिनि](http://॑ "A adds हूँ।")स्वाहा॥
+ अथ भगवान् समन्त[विजृ]("C ° क्त °।")म्भितज्ञानवज्रं नाम समाधिं समापद्येमां वज्रैकजटां नाम महासर्पा[पराजित]("BC ° समयराज °।")वाग्वज्राग्रींस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।ओँ [शूलिनि]("A adds हूँ।")स्वाहा॥
 
-अथास्यां [भाषित](http://॑ "BC विनिःसृत °।")मात्रायां नागकन्या महर्धिकाः।  
-दह्यमाना विव[स्त्राङ्गा](http://॑ "A° त्मा °।")बुद्धबोधिमनुस्मरन्॥
+अथास्यां [भाषित]("BC विनिःसृत °।")मात्रायां नागकन्या महर्धिकाः।  
+दह्यमाना विव[स्त्राङ्गा]("A° त्मा °।")बुद्धबोधिमनुस्मरन्॥
 
 अनया मन्त्रविद्यया सर्वे आकृष्यन्ति पन्नगाः।  
-नागकन्यां विशालाक्षींसमाकृष्योपभुं[जयेत्](http://॑ " B ° जते।")॥
+नागकन्यां विशालाक्षींसमाकृष्योपभुं[जयेत्](" B ° जते।")॥
 
- अथ भगवान् [गगन](http://॑ "C नगर °।")समयसम्भव[वज्रं](http://॑ "A omits ° वज्रं।") नाम समाधिंसमापद्येमां महाधर्मसमयवज्रभृकुटीं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
+ अथ भगवान् [गगन]("C नगर °।")समयसम्भव[वज्रं]("A omits ° वज्रं।") नाम समाधिंसमापद्येमां महाधर्मसमयवज्रभृकुटीं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
- ओँभयनाशनि [त्रासनि](http://॑ " Aadds त्रासे।")[त्रासय](http://॑ "Twice in A.")भृकुटी तटि वेतटि[वेतटि](http://॑ "A omits.")वैरटि वैरटि [श्वेते](http://॑ "B omits.")श्वेतजटिनि स्वाहा॥
+ ओँभयनाशनि [त्रासनि](" Aadds त्रासे।")[त्रासय]("Twice in A.")भृकुटी तटि वेतटि[वेतटि]("A omits.")वैरटि वैरटि [श्वेते]("B omits.")श्वेतजटिनि स्वाहा॥
 
 अथास्यां गीतमात्रायां सर्वविद्याधरात्मजाः।  
 कम्पिता भयमापेदे ज्ञानराजमनुस्मरन्॥
@@ -3042,119 +2971,119 @@ CONTENTS.
 विद्याधरमहाकन्यां चलत्कनककुण्डलाम्।  
 आकृष्य समयाद्येन अनया मन्त्रविद्यया॥
 
-निरोधवज्र[राजेन](http://॑ "A°जापेन।")निष्पण्णेनाग्रचा[रुणा](http://॑ " A ° रणा °।")।  
+निरोधवज्र[राजेन]("A°जापेन।")निष्पण्णेनाग्रचा[रुणा](" A ° रणा °।")।  
 त्रिवज्रज्ञानसंभूताः क्षणात् कृष्यन्ति सर्वतः॥
 
-[अथवा](http://॑ "अथ भगवान्।") सर्वक्रोधानां लक्षजापेन मन्त्रिणः।  
+[अथवा]("अथ भगवान्।") सर्वक्रोधानां लक्षजापेन मन्त्रिणः।  
 सर्वकर्मकराः प्रोक्ताः विजनेषु महत्सु च॥
 
 **आचार्यनिन्दनपरा महायानाग्रनिन्दकाः।  
-मारणीयाः प्रयत्नेन अथवा स्थान[चालनम्](http://॑ " B ° चारिणम्।")।  
+मारणीयाः प्रयत्नेन अथवा स्थान[चालनम्](" B ° चारिणम्।")।  
 अनेन बोधिं परमां मन्त्रसिद्धिञ्च प्राप्नुयात्॥**
 
  इत्याह च॥
 
 दशदिक्सर्वबुद्धानां कायवाक्चित्तघातनम्।  
-भावनीयं [विधानेन](http://॑ "C विचारेण।")रिपूणां दुष्टचेतसाम्॥
+भावनीयं [विधानेन]("C विचारेण।")रिपूणां दुष्टचेतसाम्॥
 
 रुधिरार्द्रं सलिलार्द्रंविण्मूत्रार्द्रंवापि कारयेत्।  
-[प्रा](http://॑ "A परा °।")वृत्य लिङ्गं चाक्रम्य क्रोधराजं प्रयोजयेत्।  
-शताष्टेन [तु](http://॑ "A° ष्टपरि °।") पूर्णेन ध्रुवं बुद्धोऽपि शीर्यते॥
+[प्रा]("A परा °।")वृत्य लिङ्गं चाक्रम्य क्रोधराजं प्रयोजयेत्।  
+शताष्टेन [तु]("A° ष्टपरि °।") पूर्णेन ध्रुवं बुद्धोऽपि शीर्यते॥
 
  इत्याह च॥
 
 सलिलार्द्रगतं वस्त्रं कृत्वा क्रोधाग्रबन्धनात्।  
-[लिङ्गं](http://॑ "A वाम °।") पादेन चाक्रम्य ध्रुवं बुद्धोऽपि नश्यति॥
+[लिङ्गं]("A वाम °।") पादेन चाक्रम्य ध्रुवं बुद्धोऽपि नश्यति॥
 
 विण्मूत्रार्द्रगतं वस्त्रं पूतिगन्धजुगुप्सितम्।  
-प्रावृत्य मन्त्र[मावर्त्तेत्](http://॑ "B ° माधत्ते।")शुष्यते म्रियते क्षणात्॥
+प्रावृत्य मन्त्र[मावर्त्तेत्]("B ° माधत्ते।")शुष्यते म्रियते क्षणात्॥
 
 भस्मोदकार्द्रगतं वस्त्रं प्रावृत्य क्रोधसङ्कुलम्।  
 शताष्टवारानुच्चार्य वज्रसत्त्वोऽपि शीर्यते॥
 
  इत्याह च॥
 
-सलिलार्द्रगतं वस्त्रंप्रावृत्य [क्रुद्ध](http://॑ "C क्रुर °।")चेत[सा](http://॑ "AC °सः।")।  
+सलिलार्द्रगतं वस्त्रंप्रावृत्य [क्रुद्ध]("C क्रुर °।")चेत[सा]("AC °सः।")।  
 नग्नो मुक्तशिखो भूत्वा विकटोत्कटसम्भ्रमः
 
 लिङ्गपादेन चाक्रम्य खधातुमपि नाशयेत्।
 
  इत्याह च॥
 
-मातृगृहे [श्मशाने](http://॑ "A adds वा।")शून्यवेश्मनि चतुष्पथे।  
+मातृगृहे [श्मशाने]("A adds वा।")शून्यवेश्मनि चतुष्पथे।  
 एकलिङ्गैकवृक्षे वा अभिचारं समारभेत्॥
 
 मानुषास्थिमयं कीलं अष्टाङ्गुलप्रमाणतः।  
-शताष्टवारा[नुच्चार्य्य](http://॑ "° नभिमन्त्र्य।")अरिद्वारेषु गोपयेत्॥
+शताष्टवारा[नुच्चार्य्य]("° नभिमन्त्र्य।")अरिद्वारेषु गोपयेत्॥
 
 बुद्धास्त्रिकायवरदो ज्ञानाज्ञानविवर्जितः।  
-पक्षाभ्यन्तरपूर्णेन [भ्रश्यते](http://॑ " C भ्रत्स्यते।") म्रियतेऽपि वा॥
+पक्षाभ्यन्तरपूर्णेन [भ्रश्यते](" C भ्रत्स्यते।") म्रियतेऽपि वा॥
 
-कपालं परिपूर्णं वा प्राप्य [विज्ञो](http://॑ " BC विधिज्ञो।") विशेषतः।  
-लिखेन्मन्त्रपदं तत्र [जापया](http://॑ "A जपन्वा।")वज्रभाषया॥
+कपालं परिपूर्णं वा प्राप्य [विज्ञो](" BC विधिज्ञो।") विशेषतः।  
+लिखेन्मन्त्रपदं तत्र [जापया]("A जपन्वा।")वज्रभाषया॥
 
-अरिद्वारेऽथवा ग्रामे गोप्यो[च्चाटयते](http://॑ "A° टनं, C टयेत्।") ध्रुवम्।  
+अरिद्वारेऽथवा ग्रामे गोप्यो[च्चाटयते]("A° टनं, C टयेत्।") ध्रुवम्।  
 तालपत्रेऽथवान्यत्र क्रोधमन्त्रंसमालिखेत्।  
-अरि[गृहे](http://॑ "C ° द्वारे।")ऽथवा द्वारे गोप्य [नश्यति](http://॑ "B तस्य वि °;C ° ते तस्य वि °।") शुष्यति॥
+अरि[गृहे]("C ° द्वारे।")ऽथवा द्वारे गोप्य [नश्यति]("B तस्य वि °;C ° ते तस्य वि °।") शुष्यति॥
 
- इत्याह भगवान् महासमय[के](http://॑ "C हे °।")तुवज्रः।
+ इत्याह भगवान् महासमय[के]("C हे °।")तुवज्रः।
 
- अथ भगवान् सर्वतथागतकायवाक्चित्तनिबन्धनवज्रंनाम समाधिं समापद्येदं सर्वत्रैधातुककायवाक्चित्तकीलन[वज्रं](http://॑ " A मन्त्रन्नाम।") स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
+ अथ भगवान् सर्वतथागतकायवाक्चित्तनिबन्धनवज्रंनाम समाधिं समापद्येदं सर्वत्रैधातुककायवाक्चित्तकीलन[वज्रं](" A मन्त्रन्नाम।") स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
- ॥ओँघ घ [घातय](http://॑ "Once in B.")घातय सर्वदुष्टान् फट् कीलय कीलयसर्वपापान् फट्हूँ हूँ हूँ वज्र कीलय वज्रधर आज्ञापयतिकायवाक्चित्तवज्रं कीलय हूँ फट्॥
+ ॥ओँघ घ [घातय]("Once in B.")घातय सर्वदुष्टान् फट् कीलय कीलयसर्वपापान् फट्हूँ हूँ हूँ वज्र कीलय वज्रधर आज्ञापयतिकायवाक्चित्तवज्रं कीलय हूँ फट्॥
 
 अथास्मिन् भाषितमात्रे सर्वे वज्रा महर्धिकाः।  
 मूर्च्छिता भयमापन्ना खवज्रचित्तमनुस्मरन्॥
 
-मानुषास्थिमयं कीलं अथवा खदि[राग्रजम्](http://॑ "C रागवज्रिणः। C omits a long portion of 4 lines from here.")।  
+मानुषास्थिमयं कीलं अथवा खदि[राग्रजम्]("C रागवज्रिणः। C omits a long portion of 4 lines from here.")।  
 अयोमयकृतं कीलं त्रिवज्रकायनाशनम्॥
 
 वज्रसत्त्वंसमाधाय स्फुलिङ्गाकुलसुप्रभम्।  
 त्रिवज्रकायपर्यन्तं बिम्बंध्यात्वा प्रयोजयेत्॥
 
 वैरोचनमहामुद्रां अथवा रागवज्रिणः।  
-[यमान्तक](http://॑ "C महान्तक°।")महामुद्रां ध्यात्वा त्रिवज्र[कीलनम्](http://॑ "C ° क ° ।")॥
+[यमान्तक]("C महान्तक°।")महामुद्रां ध्यात्वा त्रिवज्र[कीलनम्]("C ° क ° ।")॥
 
-कुण्डलामृत[वज्रेण](http://॑ "C कीलेन।")दुष्टक्रूरनिकृन्तनम्।  
+कुण्डलामृत[वज्रेण]("C कीलेन।")दुष्टक्रूरनिकृन्तनम्।  
 कर्तव्यं वज्रयोगेन बुद्धस्यापि महात्मनः॥
 
 हृदयं यावत् पादान्तं वज्रकीलविभावनम्।  
-ऊर्द्धन्तदेव [समयमि](http://॑ "A° येन इ °।")दं कीलविजृम्भितम्॥
+ऊर्द्धन्तदेव [समयमि]("A° येन इ °।")दं कीलविजृम्भितम्॥
 
 ध्यानवज्रप्रयोगेण ध्रुवं बुद्धोऽपि कील्यते।  
 वज्रसत्त्वो महाराजा कीलयन् म्रियते लघु॥
 
- अथ भगवान् महावैरोचनःकायविजृम्भितवज्रं नामसमाधिं समापद्येदं स्वकायसमयाक्षेपवज्र[कीलनमन्त्रं](http://॑ "BC omit ° मन्त्रं।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ भगवान् महावैरोचनःकायविजृम्भितवज्रं नामसमाधिं समापद्येदं स्वकायसमयाक्षेपवज्र[कीलनमन्त्रं]("BC omit ° मन्त्रं।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
- ॥ओँछिन्द छिन्द [भिन्द](http://॑ "AC omit.")भिन्द हन हन दह दह दीप्तवज्रचक्र [क्षुँ](http://॑ "A हूँ।") फट्॥
+ ॥ओँछिन्द छिन्द [भिन्द]("AC omit.")भिन्द हन हन दह दह दीप्तवज्रचक्र [क्षुँ]("A हूँ।") फट्॥
 
 अन्योन्यवेष्टनाकारमङ्गुष्ठपदमीलनम्।  
 वैरोचनपदाक्रान्तंवज्रकीलनिपातनम्॥
 
 हतमात्रे महासत्त्वेत्रिकायवज्रसम्भवः।  
-उत्तिष्ठेत् [समया](http://॑ "A° यो °।")ग्रेण न चेन्नाशपदं [भजेत्](http://॑ " C ° वेत् °।")॥
+उत्तिष्ठेत् [समया]("A° यो °।")ग्रेण न चेन्नाशपदं [भजेत्](" C ° वेत् °।")॥
 
- अथ भगवान् लोकेश्वरो वाग्वि[जृम्भितं](http://॑ " A ° तवज्रं ।")नाम समाधिंसमापद्येदं वाक्समयाक्षेपकीलनमन्त्रंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ भगवान् लोकेश्वरो वाग्वि[जृम्भितं](" A ° तवज्रं ।")नाम समाधिंसमापद्येदं वाक्समयाक्षेपकीलनमन्त्रंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
  ॥ओँह्रीःभूर्भुवः॥
 
-विकसित[ज्ञान](http://॑ "A omits ज्ञान ° I")पद्मेवज्रा[ङ्गु](http://॑ "C ° ञ्ज °।")लिनिवेशनम्॥  
-[वाक्य](http://॑ "ABC राग °।")वज्रपदाक्रान्तंवज्रकीलनिपातनम्।
+विकसित[ज्ञान]("A omits ज्ञान ° I")पद्मेवज्रा[ङ्गु]("C ° ञ्ज °।")लिनिवेशनम्॥  
+[वाक्य]("ABC राग °।")वज्रपदाक्रान्तंवज्रकीलनिपातनम्।
 
 हतमात्रे महावज्रे त्रिकायालयसम्भवः।  
 उत्तिष्ठेत् हतमात्रेण नचेन्नाशपदं भजेत्॥
 
- अथ भगवान् महावज्रधरः चित्तविजृम्भितवज्रं नाम समाधिंसमापद्येदं चित्तसमयाक्षेप[कीलन](http://॑ "C परिकी °।")मन्त्रं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ भगवान् महावज्रधरः चित्तविजृम्भितवज्रं नाम समाधिंसमापद्येदं चित्तसमयाक्षेप[कीलन]("C परिकी °।")मन्त्रं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
  ॥ओँ वज्रराज हूँ॥
 
-पञ्चशूल[निवेशेन](http://॑ " AC निवन्धेन।")स्फुलिङ्गाकुल[साधनम्](http://॑ "AC ° भावनं।")।  
+पञ्चशूल[निवेशेन](" AC निवन्धेन।")स्फुलिङ्गाकुल[साधनम्]("AC ° भावनं।")।  
 चित्तवज्रपदाक्रान्तं वज्रकीलनिपातनम्॥
 
-हतमात्रे महावज्रेत्रिवज्रा[लय](http://॑ "A ° मल ° ।")सम्भवः।  
+हतमात्रे महावज्रेत्रिवज्रा[लय]("A ° मल ° ।")सम्भवः।  
 उत्तिष्टेत् हतमात्रेण न चेन्नाशपदं भजेत्॥
 
-सम्यग्वि[धान](http://॑ "BC° चार °।")मार्गेण कायवाक्चित्तयोगतः।  
+सम्यग्वि[धान]("BC° चार °।")मार्गेण कायवाक्चित्तयोगतः।  
 खधातुवज्रपर्यन्तंकीलयेन्नात्रसंशयः॥
 
  इत्याह भगवान् महाकीलवज्रः।
@@ -3162,21 +3091,21 @@ CONTENTS.
 अथ बुद्धास्त्रिकायाग्राः सत्त्वधातुहितैषिणः।  
 तुष्टाः प्रामोद्यसंप्राप्ताः इदं घोषमकारयन्॥
 
-अहो गुह्यपदं श्रेष्ठ[महो](http://॑ "B महा °।")सारसमुच्चयम्।  
+अहो गुह्यपदं श्रेष्ठ[महो]("B महा °।")सारसमुच्चयम्।  
 अहो धर्मपदं शान्तंअहो वज्रविदारणम्॥
 
 कीलनं सर्वबुद्धानां बोधिसत्त्वा महायशाः।  
 कायवाक्चित्तवज्राणां कीलनं समुदाहृतम्॥
 
-इदं तत् सर्वमन्त्राणां कीलनं [तत्त्व](http://॑ "C सत्त्व °।")सम्भवम्।  
+इदं तत् सर्वमन्त्राणां कीलनं [तत्त्व]("C सत्त्व °।")सम्भवम्।  
 कायवाक्चित्तवरदं मन्त्रतत्त्वसमुच्चयम्॥ इति॥
 
 इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजेमहागुह्यतन्त्रराजे कायवाक्चित्ताद्भुतमन्त्राकर्षणविजृम्भितराजो नाम समाधिपटलश्चतुर्दशोऽध्यायः॥
 
-अथ वज्रधरो राजा सर्वा[काश](http://॑ "A ° शो।")महाक्षरः।  
-सर्वाभिषेकसर्वज्ञो वाग्वज्रं स[मुदीरयत्](http://॑ " A °रयन्।")॥
+अथ वज्रधरो राजा सर्वा[काश]("A ° शो।")महाक्षरः।  
+सर्वाभिषेकसर्वज्ञो वाग्वज्रं स[मुदीरयत्](" A °रयन्।")॥
 
-द्वादशाब्दिकां कन्यां [तां](http://॑ "A omits.") चण्डालस्य महात्मनः।  
+द्वादशाब्दिकां कन्यां [तां]("A omits.") चण्डालस्य महात्मनः।  
 साधयेत् साधको नित्यं विजनेषु विशेषतः॥
 
 विण्मूत्रसमयाद्येन चतुरस्रं विधानतः।  
@@ -3187,8 +3116,8 @@ CONTENTS.
 सर्वलक्षणसंशुद्धां चारुवक्त्रां सुशोभनाम्।  
 सर्वालङ्कारसम्पूर्णामङ्के स्थाप्य विभावयेत्॥
 
-पञ्चमण्डलचक्रेण बुद्धबिम्बवि[भावनम्](http://॑ "C ° ना।")।  
-भावयेत् पूजापदं रम्यं रहस्यं मन्त्र[वज्रि](http://॑ " ° चक्रि °।")णाम्॥
+पञ्चमण्डलचक्रेण बुद्धबिम्बवि[भावनम्]("C ° ना।")।  
+भावयेत् पूजापदं रम्यं रहस्यं मन्त्र[वज्रि](" ° चक्रि °।")णाम्॥
 
 वैरोचनमहाबिम्बं कायवाक्चित्तवज्रिणम्।  
 ध्यानमन्त्रप्रयोगेण भवेद्बुद्धसमप्रभः॥
@@ -3200,7 +3129,7 @@ CONTENTS.
 एषो हि सर्वमन्त्राणां समयो दुरतिक्रमः॥
 
 स भवेत् तत्क्षणादेव वज्रसत्त्वसमप्रभः।  
-सर्वधर्म[धरो](http://॑ "BC ° समो।")राजा काममोक्षप्रसाधकः॥
+सर्वधर्म[धरो]("BC ° समो।")राजा काममोक्षप्रसाधकः॥
 
 चारुवक्त्रांविशालाक्षींनटकन्यां सुशोभनाम्।  
 साधयेत् साधको नित्यं वज्रधर्मविभावनैः॥
@@ -3215,13 +3144,13 @@ CONTENTS.
 अरुणोद्गमवेलायां सिध्यते भावनोत्तमैः॥
 
 सर्वालङ्कारसंपूर्णां गन्धपुष्पविभूषिताम्।  
-ध्यात्वा तु वज्र[सत्त्वाग्र्य](http://॑ "A ° ग्री, C ° ग्र्यो।")ांलघु सिद्धिमवाप्नुयात्॥
+ध्यात्वा तु वज्र[सत्त्वाग्र्य]("A ° ग्री, C ° ग्र्यो।")ांलघु सिद्धिमवाप्नुयात्॥
 
 स भवेत् त्रिकायवरदो बुद्धलक्षणलक्षितः।  
 योजनशतविस्तारमवभासं करोत्यसौ॥
 
-[द्वये](http://॑ "2. A  द्वे °।")न्द्रियप्रयोगेण सर्वयोगान् समारभेत्।  
-एषो हि सर्व[सिद्धी](http://॑ "A° द्धा °।")नां समयो दुरतिक्रमः॥
+[द्वये]("2. A  द्वे °।")न्द्रियप्रयोगेण सर्वयोगान् समारभेत्।  
+एषो हि सर्व[सिद्धी]("A° द्धा °।")नां समयो दुरतिक्रमः॥
 
 विण्मूत्रसमयं भक्षेत् यदीच्छेत् सिद्धिवज्रिणः।  
 एषो हि सर्वसिद्धीनां समयो दुरतिक्रमः॥
@@ -3233,18 +3162,18 @@ CONTENTS.
 
  अथ भगवान् महासमयवज्रक्रोधं नाम समाधिं समापद्येदं सर्वतथागतवज्रसन्त्रासनक्रोधं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
- ॥ओँह्रीः ष्ट्रीःविकृतानन सर्वशत्रून्नाशय स्तम्भय [हूँ](http://॑ "Thrice in. B.") हूँफट् फट् स्वाहा॥
+ ॥ओँह्रीः ष्ट्रीःविकृतानन सर्वशत्रून्नाशय स्तम्भय [हूँ]("Thrice in. B.") हूँफट् फट् स्वाहा॥
 
 विषरुधिरसंयुक्तं लवणं राजिकान्तथा।  
 कण्टकाग्नौ जुहेत् क्रुद्धः कन्यानामपदैः सह॥
 
 मध्याह्नेअर्धरात्रे वा इदं शस्यति सर्वथा।  
-त्रिकोणे तु जुहेत् प्राज्ञो[ऽष्ट](http://॑ "A ° थ।")सहस्रंविधानतः॥
+त्रिकोणे तु जुहेत् प्राज्ञो[ऽष्ट]("A ° थ।")सहस्रंविधानतः॥
 
-दिनत्रयमिदं कार्यं कन्यानां [फलहेतुतः](http://॑ "A ° ना।")।  
+दिनत्रयमिदं कार्यं कन्यानां [फलहेतुतः]("A ° ना।")।  
 स्तंभनं भवते तेन त्रिकल्पासंख्यमपि सदा॥
 
-बुद्धो [धर्म](http://॑ " A रज °। ")धरो वापि वज्रसत्त्वोऽपि वा यदि।  
+बुद्धो [धर्म](" A रज °। ")धरो वापि वज्रसत्त्वोऽपि वा यदि।  
 अतिक्रमेद्यदि मोहात्मा तदन्तं तस्य जीवितम्॥
 
 चतुर्दश्यां तथाष्टम्यां गृह्याङ्गारं श्मशानतः।  
@@ -3253,7 +3182,7 @@ CONTENTS.
 रेखां ददाति ध्यात्वा तु मन्त्रज्ञो यस्य कस्यचित्।  
 शत्रोः प्रतिकृतिं कृत्वा म्रियते नात्र संशयः॥
 
-मुद्गरं ध्यानयोगेन पातयन् [पतितं](http://॑ " A omits.") ध्रुवम्।  
+मुद्गरं ध्यानयोगेन पातयन् [पतितं](" A omits.") ध्रुवम्।  
 हूँकारं ज्वालसंयुक्तं दीप्तवज्रं प्रभावयेत्॥
 
 नाशकः सर्वदुष्टानां वज्रपाणिकुलः स्मृतः।  
@@ -3265,21 +3194,21 @@ CONTENTS.
 कर्मवज्रमहादीप्तं स्फुलिङ्गगहनाकुलम्।  
 मध्ये वज्रं विभावित्वा वारिस्तम्भनमुत्तमम्॥
 
-मण्डले [लिख्यमाने](http://॑ " A ° त्रे।") तु वाताद्यं यदि जायते।
+मण्डले [लिख्यमाने](" A ° त्रे।") तु वाताद्यं यदि जायते।
 
-दंष्ट्रामुद्रां ततो बद्धादुष्ट[सत्त्व](http://॑ "C शत्रु ° ।")मनुस्मरेत्।  
+दंष्ट्रामुद्रां ततो बद्धादुष्ट[सत्त्व]("C शत्रु ° ।")मनुस्मरेत्।  
 बुद्धैश्च बोधिसत्त्वैश्च निर्मितं वापि यद्भवेत्॥
 
 शीर्यते दृष्टमात्रेण न चेन्नाशं समाप्नुयात्।  
 बुद्धाश्च बोधिसत्त्वाश्च ये चान्ये दुष्टजन्तवः।  
 त्रासितास्तेन मन्त्रेण म्रियन्ते नात्र संशयः॥
 
- तत्रेदं सर्वतथागतमन्त्ररहस्य[हृदयम्](http://॑ " A adds फट्।")।
+ तत्रेदं सर्वतथागतमन्त्ररहस्य[हृदयम्](" A adds फट्।")।
 
 ज्ञानसत्त्वप्रयोगेन मध्ये बिम्बं प्रभावयेत्।  
 चतुःस्थानेषु मन्त्रज्ञो योषितं स्थापयेत्सदा॥
 
-सर्वालङ्कार[सम्पूर्णां](http://॑ "B संयुक्तां।")सर्वलक्षणलक्षिताम्।  
+सर्वालङ्कार[सम्पूर्णां]("B संयुक्तां।")सर्वलक्षणलक्षिताम्।  
 पद्मं प्रसारितं कृत्वा इदं मन्त्रं विभावयेत्॥
 
 ॥हूँ॥
@@ -3289,7 +3218,7 @@ CONTENTS.
 
 [^126]: " A वज्रयोगिनः।"
 
-स भवेत् तत्क्षणादेव वैरोचन[समप्रभः](http://॑ "A मञ्जुश्रीतुल्यतेजसा।")।  
+स भवेत् तत्क्षणादेव वैरोचन[समप्रभः]("A मञ्जुश्रीतुल्यतेजसा।")।  
 वज्रसत्त्वो महाराजःसंबुद्ध[^127]कायवज्रधृक्॥
 
 [^127]: "बुद्धस्त्रि °।"
@@ -3305,24 +3234,24 @@ CONTENTS.
 
 [^130]: "C ° ह्यं।"
 
-स भवेत् तत्क्षणादेव मञ्जुश्रीतुल्य[तेजसः](http://॑ "C ° सा।")।  
+स भवेत् तत्क्षणादेव मञ्जुश्रीतुल्य[तेजसः]("C ° सा।")।  
 अन्तर्द्धानाधिपः श्रीमान् जाम्बूनदसमप्रभः॥
 
 भक्ष्यं वा अथवा विष्ठं मांसं वापि प्रवेशयेत्।  
-[अभिमन्त्र्य](http://॑ "A omits six lines from here.")विधानेन भक्ष्यं बुद्धैर्न दृश्यते॥
+[अभिमन्त्र्य]("A omits six lines from here.")विधानेन भक्ष्यं बुद्धैर्न दृश्यते॥
 
  इत्याह च।
 
-विष्ठं संगृह्य [विधिना](http://॑ "C विष्ठां गृहे विधानेन।")शरावसम्पुटे न्यसेत्।  
+विष्ठं संगृह्य [विधिना]("C विष्ठां गृहे विधानेन।")शरावसम्पुटे न्यसेत्।  
 शताष्टरावान् सञ्चोद्य बुद्धसूर्यैर्न दृश्यते॥
 
 श्वानमांसं हयमांसं महामांसं विधानतः।  
 गृह्य सम्पुटयोगेन भक्षयंस्तैर्न दृश्यते॥
 
-[विष्ठेन](http://॑ "Bविश्वेन।") सह संयुक्तां गुलिकां त्रिलोहवेष्टिताम्।  
+[विष्ठेन]("Bविश्वेन।") सह संयुक्तां गुलिकां त्रिलोहवेष्टिताम्।  
 द्वयेन्द्रियप्रयोगेन सर्वबुद्धैर्न दृश्यते॥
 
-[महामांसेन](http://॑ "B omits four lines from here.") संयुक्तां गुलिकां त्रिलोहवेष्टिताम्।  
+[महामांसेन]("B omits four lines from here.") संयुक्तां गुलिकां त्रिलोहवेष्टिताम्।  
 द्वयेन्द्रियप्रयोगेन सर्वबुद्धैर्न दृश्यते॥
 
 श्वानमांसेन संयुक्तां गुलिकां त्रिलोहवेष्टिताम्।  
@@ -3338,21 +3267,21 @@ CONTENTS.
 द्वयेन्द्रियप्रयोगेन सर्वबुद्धैर्न दृश्यते॥
 
 रोचनागुरुसंयुक्तां गुलिकां त्रिलोहवेष्टिताम्।  
-द्वयेन्द्रियप्रयोगेन भवेद्वज्र[महाबलः](http://॑ "C सर्वबुद्धैर्न दृश्यते।")॥
+द्वयेन्द्रियप्रयोगेन भवेद्वज्र[महाबलः]("C सर्वबुद्धैर्न दृश्यते।")॥
 
 कर्पूरकुङ्कुमैर्युक्तां गुलिकां त्रिलोहवेष्टिताम्।  
 द्वयेन्द्रियप्रयोगेन सर्वबुद्धैर्नदृश्यते॥
 
  इत्याह च।
 
-अधिष्ठाय महामुद्रां यस्य [कस्यापि](http://॑ "A कस्यचित्।") वज्रिणः।  
+अधिष्ठाय महामुद्रां यस्य [कस्यापि]("A कस्यचित्।") वज्रिणः।  
 स भवेत् तादृशः श्रीमान् महाबलपराक्रमः॥
 
-योजन[कोटि](http://॑ "B ° शत °।")संपूर्णमूर्द्धं वज्रगतिर्भवेत्।  
+योजन[कोटि]("B ° शत °।")संपूर्णमूर्द्धं वज्रगतिर्भवेत्।  
 त्रिसाहस्रगतिः श्रीमान् भवेत् बुद्धसमप्रभः॥
 
-कामधातुस्थितां कन्यां सुरभोगां कुल[व्रताम्](http://॑ "A ° पुत्राम्। ")।  
-रूपधातुस्थिताञ्चापि [कामयेत](http://॑ " A ° यति।") महाबलः॥
+कामधातुस्थितां कन्यां सुरभोगां कुल[व्रताम्]("A ° पुत्राम्। ")।  
+रूपधातुस्थिताञ्चापि [कामयेत](" A ° यति।") महाबलः॥
 
  इत्याह भगवान् समयान्तर्द्धानमहावज्रः।
 
@@ -3372,7 +3301,7 @@ CONTENTS.
 
 [^132]: "A सत्त्व °।"
 
-[वज्रलोचन](http://॑ " B. वज्रात्माचर °।")बिम्बाद्यैः उष्णीषाराधनं स्मृतम्।  
+[वज्रलोचन](" B. वज्रात्माचर °।")बिम्बाद्यैः उष्णीषाराधनं स्मृतम्।  
 क्रोधानामपि तच्छ्रेष्ठं बुद्धवज्रप्रभावनम्॥
 
 विद्याराजाग्रधर्माणां रत्नकेतुविभावनम्।  
@@ -3384,9 +3313,9 @@ CONTENTS.
  इत्याह च।
 
 यक्षिणीमन्त्रतन्त्राणां यमान्तकस्य कल्पनम्।  
-सर्वेषां योगमन्त्राणां सस्तम्भं [विप्र](http://॑ "A शस्तं मूर्ध्नि।")चोदनम्॥
+सर्वेषां योगमन्त्राणां सस्तम्भं [विप्र]("A शस्तं मूर्ध्नि।")चोदनम्॥
 
- इत्याह च भगवान् महासमय[वज्रः](http://॑ " BC omit ° वज्र।")।
+ इत्याह च भगवान् महासमय[वज्रः](" BC omit ° वज्र।")।
 
 अनेन ध्यानवज्रेण मन्त्राराधनमण्डलम्।  
 साधकानां हितं प्रोक्तं महासमयसाधनम्॥
@@ -3398,18 +3327,18 @@ CONTENTS.
 ध्यानवज्रं प्रकुर्वीत जपमन्त्रप्रयोगतः॥
 
 वज्रसत्त्वादयः सर्वे मन्त्रध्यानप्रचोदिताः।  
-कुर्वन्ति चित्रकर्माणि [वाक्यवज्र](http://॑ "A वाक्कर्म °।")वचो यथा॥
+कुर्वन्ति चित्रकर्माणि [वाक्यवज्र]("A वाक्कर्म °।")वचो यथा॥
 
 वज्रधर्ममहाबिम्बंपद्मरागसमप्रभम्।  
-कायवाक्चित्तमहा[वज्रं](http://॑ " A ° वज्रेषु।")[तत्](http://॑ "A त्रि °।") स्थाने कुलकल्पनम्॥
+कायवाक्चित्तमहा[वज्रं](" A ° वज्रेषु।")[तत्]("A त्रि °।") स्थाने कुलकल्पनम्॥
 
 आवेशनविधिं सर्वं कारयन् सिध्यति ध्रुवम्।  
-[स्तोभ](http://॑ "A ° स्तोत्रं।")स्तम्भं महा[बिम्बं](http://॑ "AB ° दिव्यं।")आर्यभौमं चतुर्थकम्॥
+[स्तोभ]("A ° स्तोत्रं।")स्तम्भं महा[बिम्बं]("AB ° दिव्यं।")आर्यभौमं चतुर्थकम्॥
 
 कर्त्तव्यं सिद्धिवज्रेण एवं सिध्यति शाश्वतम्।  
-द्वादश[वार्षिकां](http://॑ "AC°शाब्दिकां।") कन्यां पुरुषं द्वादशाब्दिकम्॥
+द्वादश[वार्षिकां]("AC°शाब्दिकां।") कन्यां पुरुषं द्वादशाब्दिकम्॥
 
-सर्वलक्षणसंपूर्णं [गृह्यावेशं](http://॑ "BC° ह्याथ सं°।")प्रकल्पयेत्॥
+सर्वलक्षणसंपूर्णं [गृह्यावेशं]("BC° ह्याथ सं°।")प्रकल्पयेत्॥
 
 विधानानि तु सर्वाणि कृत्वा कर्मप्रसाधनम्।  
 अन्यथा हास्यमाप्नोति त्रैधातुकेषु जन्तुषु॥
@@ -3425,7 +3354,7 @@ CONTENTS.
 आःकारे धर्मधरो राजा इदं गुह्यपदं दृढ़म्॥
 
 ऐःकारं स्तोभनं प्रोक्तं भ्रमनं कम्पनं स्मृतम्।  
-एषो हि सर्वस्तो[भानां](http://॑ "A ° त्रा °।") रहस्योऽयं प्रगीयते॥
+एषो हि सर्वस्तो[भानां]("A ° त्रा °।") रहस्योऽयं प्रगीयते॥
 
  इत्याह च॥
 
@@ -3434,7 +3363,7 @@ CONTENTS.
 तथैव सर्वं यथापूर्वमिदं गुह्यसमावहम्॥इति॥
 
 अथ वज्रधरो राजा सर्वतथागताधिपः।  
-त्रिकायपद[संघोष](http://॑ "A ° शुद्ध°।")मिदं घोषमुदीरयत्॥
+त्रिकायपद[संघोष]("A ° शुद्ध°।")मिदं घोषमुदीरयत्॥
 
 अनेकाग्रगतेनापि इदं कार्यं दृढव्रतैः।  
 कर्तव्यं वान्य[^133]योगेन सर्वदुष्टविदारणम्॥
@@ -3444,14 +3373,14 @@ CONTENTS.
 शत्रोः प्रतिकृतिं कृत्वा चिताङ्गारतुषादिभिः।  
 नग्नो मुक्तशिखो भूत्वा त्रैलोक्यमपि नाशयेत्॥
 
-शत्रोः प्रतिकृतिं कृत्वा [श्मशान](http://॑ "A omits six lines from here.")चितिभस्मना।  
+शत्रोः प्रतिकृतिं कृत्वा [श्मशान]("A omits six lines from here.")चितिभस्मना।  
 सहस्राष्टशतेनापि म्रियते नात्रसंशयः॥
 
 गोमांसहयमांसेन श्वानमांसेन चित्रिणा।  
 त्रिकोणमण्डले कार्य्यंध्रुवं वज्रोऽपि नश्यति॥
 
 महामांसेन सर्वेषां नाशनं वज्रजं स्मृतम्।  
-एषो हि सर्वक्रूराणां [ना](http://॑ "C त्रा °।")शको दारुणः स्मृतः॥
+एषो हि सर्वक्रूराणां [ना]("C त्रा °।")शको दारुणः स्मृतः॥
 
 शत्रोः प्रतिकृतिं कृत्वा विण्मूत्रेणाग्रधर्मिणा।  
 कण्टकाग्नौ जुहेत् क्रुद्धो ध्रुवं बुद्धोऽपि नश्यति॥
@@ -3461,11 +3390,11 @@ CONTENTS.
 शत्रोःप्रतिकृतिं कृत्वा नदीस्रोतोगयोरपि।  
 तिलमात्रमपि सर्वाङ्गं कण्टकैर्विषसम्भवैः॥
 
-पूरयेच्चोदन[पदै](http://॑ "A ° रै °।")र्ध्रुवं बुद्धोऽपि नश्यति।
+पूरयेच्चोदन[पदै]("A ° रै °।")र्ध्रुवं बुद्धोऽपि नश्यति।
 
  इत्याह च।
 
-राजिका लवणं तैलं विषं [धत्तूरकं](http://॑ "Aधूर्त्तरकं।") तथा॥
+राजिका लवणं तैलं विषं [धत्तूरकं]("Aधूर्त्तरकं।") तथा॥
 
 मारणं सर्वबुद्धानां इदं श्रेष्ठतमं स्मृतम्।  
 अङ्गारार्द्रगतं वस्त्रं प्रावृत्य क्रोधचेतसा॥
@@ -3476,7 +3405,7 @@ CONTENTS.
 कृत्वा तु गृह्यते शीघ्रं वज्रसत्त्वोऽपि दारुणः।  
 लिङ्गराजिकसंयुक्तं विण्मूत्रेणापि पूरितम्॥
 
-पादाक्रान्तगतं कृत्वा महा[मेघेन](http://॑ " ° दाहेन।") गृह्यते।
+पादाक्रान्तगतं कृत्वा महा[मेघेन](" ° दाहेन।") गृह्यते।
 
  इत्याह च।
 
@@ -3484,7 +3413,7 @@ CONTENTS.
 
  ॥नमः समन्तकायवाक्चित्तवज्राणाम्।ओँहूलू हूलूतिष्ठ तिष्ठ बन्ध बन्ध हन हन दह दह गर्ज गर्ज विस्फोटय विस्फोटय सर्वविघ्नविनायकान्महागणपतिजीवितान्तकराय हूँफट्॥
 
-होमं वाऽप्यथवा ध्यानं कायवाक्चित्त[भेदनम्](http://॑ "A भिन्दनं।")।  
+होमं वाऽप्यथवा ध्यानं कायवाक्चित्त[भेदनम्]("A भिन्दनं।")।  
 
 कर्तव्यं नान्यचित्तेन इदं मारणमुत्तमम्॥
 
@@ -3494,23 +3423,23 @@ CONTENTS.
  ॥तत्रेदं महाक्रूरक्रोधसमयम्॥
 
 खधातु परिपूर्णं तु सर्वबुद्धैःप्रभावयेत्।  
-घातितं तेन [दु](http://॑ " A पु °।")ष्टन ध्यात्वा म्रियेत तत्क्षणात्॥
+घातितं तेन [दु](" A पु °।")ष्टन ध्यात्वा म्रियेत तत्क्षणात्॥
 
 बुद्धैश्च बोधिसत्त्वैश्च परिपूर्णं विभावयेत्।  
-घातितं [सर्वदुष्टेन](http://॑ "A दुष्टसत्त्वेन।")म्रियते वज्रधरः स्वयम्॥
+घातितं [सर्वदुष्टेन]("A दुष्टसत्त्वेन।")म्रियते वज्रधरः स्वयम्॥
 
 चिन्तयेत्पुरतो मन्त्री रिपुं बुद्धापकारिणम्।  
 भीतं भयाकुलं चिन्तेत् म्रियते नात्रसंशयः॥
 
 राक्षसैर्विविधैः क्रूरैः प्रचण्डैःक्रोधदारुणैः।  
-त्रासितं भावयेत् [तेन](http://॑ "BC तान्।")म्रियते वज्रधरः स्वयम्॥
+त्रासितं भावयेत् [तेन]("BC तान्।")म्रियते वज्रधरः स्वयम्॥
 
 उलूकैः काकगृध्रैश्च शृगालैर्दीर्घतुण्डकैः।  
-भक्षितं भाव[यंस्तेन](http://॑ "A ° ये त्तैस्तु।")ध्रुवं बुद्धोऽपि नश्यति॥
+भक्षितं भाव[यंस्तेन]("A ° ये त्तैस्तु।")ध्रुवं बुद्धोऽपि नश्यति॥
 
 कृष्णसर्पं महाक्रूरं भयस्यापि भयप्रदम्।
 
-ध्यात्वा विषाग्रसमयं ललाटे [तं](http://॑ "AC ° टेदं।")विशिष्यते।  
+ध्यात्वा विषाग्रसमयं ललाटे [तं]("AC ° टेदं।")विशिष्यते।  
 भक्षितं तेन सर्पेण ध्रुवं बुद्धोऽपि नश्यति॥
 
 दशदिक्सर्वसत्त्वानामीते[^134]श्चोपद्रवस्य वा।  
@@ -3541,29 +3470,29 @@ CONTENTS.
 [^139]: "A घा °।"
 
 बुद्धो वज्रधरः शास्ता वज्रधर्मोऽपि चक्रिणः[^140]।  
-म्रियते [व्याड़](http://॑ "AB ध्यान °।")योगेन चित्तवज्र[वचो](http://॑ "A ° धरो।") यथा॥
+म्रियते [व्याड़]("AB ध्यान °।")योगेन चित्तवज्र[वचो]("A ° धरो।") यथा॥
 
 [^140]: "A वायदि।"
 
- इत्याह भगवान् [महाक्रूर](http://॑ "B omits.") समयवज्रक्रोधः।
+ इत्याह भगवान् [महाक्रूर]("B omits.") समयवज्रक्रोधः।
 
-अथ वज्रधरो राजा सर्वा[काशो](http://॑ "C ° कार I")महामुनिः॥
+अथ वज्रधरो राजा सर्वा[काशो]("C ° कार I")महामुनिः॥
 
 सर्वाभिषेकसंबुद्धो ज्ञानवज्रमुदीरयत्।  
 अहो स्वभावसंशुद्धंवज्रयानमनुत्तमम्॥
 
 अनुत्पन्नेषु धर्मेषु उत्पत्तिः कथिता जिनैः।
 
- तत्रेदं [क्षुद्र](http://॑ "A adds वज्र before.")कर्मरहस्यम्।
+ तत्रेदं [क्षुद्र]("A adds वज्र before.")कर्मरहस्यम्।
 
-खटिकाङ्गारेण लिखेत् [सर्पं](http://॑ "B सर्व °।") विकृतं तु भयप्रदम्।  
+खटिकाङ्गारेण लिखेत् [सर्पं]("B सर्व °।") विकृतं तु भयप्रदम्।  
 कृष्णज्वालाकुलं क्रुद्धंद्विजिह्वं दंष्ट्रमालिनम्॥
 
  तत्रेदं क्रूरनागचोदनहृदयम्।
 
 ॥खँ॥
 
-[वक्त्र](http://॑ "A चक्र °।")मध्यगतं चिन्तेत् विषं हालाहलप्रभम्।
+[वक्त्र]("A चक्र °।")मध्यगतं चिन्तेत् विषं हालाहलप्रभम्।
 
  तत्रेदं सर्वविषाकर्षणहृदयम्।
 
@@ -3587,20 +3516,20 @@ CONTENTS.
 ॥ओँ॥
 
 दुष्टवज्रविषादीनि ये चान्ये विषदारुणाः।  
-[आकृष्य](http://॑ "C ° ष्यन्ति।")ज्ञान[चक्रेण](http://॑ "A ° वज्रेण।")प्रेरणं खवज्रमण्डले॥
+[आकृष्य]("C ° ष्यन्ति।")ज्ञान[चक्रेण]("A ° वज्रेण।")प्रेरणं खवज्रमण्डले॥
 
- इत्याह भगवान्महाविषसमयवज्रः। तत्रेदं [विष](http://॑ "C adds° समय °।")चिकित्सनवज्र[^142]हृदयम्॥
+ इत्याह भगवान्महाविषसमयवज्रः। तत्रेदं [विष]("C adds° समय °।")चिकित्सनवज्र[^142]हृदयम्॥
 
 [^142]: "A° त्सा नाम।"
 
 ॥हूँ॥
 
 हृदये तं महावज्रं सितवर्णं विचिन्तयेत्।  
-रश्मिमेघं महादीप्तं चन्द्रांशुमिव [निर्मलम्](http://॑ "B शीतलम्।")॥
+रश्मिमेघं महादीप्तं चन्द्रांशुमिव [निर्मलम्]("B शीतलम्।")॥
 
 चतुःस्थानप्रयोगेण संहरन् तत्र तिष्ठते[^143]।  
 द्वित्रिवारान् प्रभावित्वा छेदयन्तं विचिन्तयेत्।  
-खधातुं[विष](http://॑ "AB° मपि।")सम्पूर्णं निर्विषं कुरुते क्षणात्॥
+खधातुं[विष]("AB° मपि।")सम्पूर्णं निर्विषं कुरुते क्षणात्॥
 
 [^143]: "B संहरन् तिष्ठति क्षणात्।"
 
@@ -3611,14 +3540,14 @@ CONTENTS.
 ॥आः॥
 
 गण्डपिटकलूताश्च[^144] ये चान्ये व्याधयः स्मृताः।  
-[नश्य](http://॑ "A भविष्य °।")न्ति ध्यानमात्रेण वज्रपाणिवचो यथा॥
+[नश्य]("A भविष्य °।")न्ति ध्यानमात्रेण वज्रपाणिवचो यथा॥
 
 [^144]: "A ° कैर्नृणां।"
 
 अष्टपत्रं महापद्मं शशाङ्कमिव निर्मलम्।  
 तत्र मध्यगतं चिन्तेत्पञ्चरश्मिप्रपूरितम्॥
 
-[संहरे](http://॑ " B संहारकं।")त्कृष्णसमयं [चोदने](http://॑ " A ° नैः, C °रे।")सितसन्निभम्।  
+[संहरे](" B संहारकं।")त्कृष्णसमयं [चोदने](" A ° नैः, C °रे।")सितसन्निभम्।  
 इदं ध्यानपदं गुह्यं रहस्यं ज्ञाननिर्मलम्॥ इति॥
 
  तत्रेमानिह्याध्यात्मिकव्याधिचिकित्सावज्रहृदयमन्त्राक्षरपदानि।
@@ -3627,13 +3556,13 @@ CONTENTS.
 
 यदेवाक्षरपदमिष्टंभवेद्भक्तिगुणावहम्॥
 
-भावयेत् तादृशं व्याधिं [विश्व](http://॑ "AB बिम्बं।")वज्रप्रचोदनैः।  
+भावयेत् तादृशं व्याधिं [विश्व]("AB बिम्बं।")वज्रप्रचोदनैः।  
 वानराकारसमयमथवा श्वानसम्भवम्॥
 
-खकायवाक्चित्त[पदे](http://॑ "A ° देन।")निश्च[रन्तं](http://॑ "A °लन्ति।")विचिन्तयेत्।  
+खकायवाक्चित्त[पदे]("A ° देन।")निश्च[रन्तं]("A °लन्ति।")विचिन्तयेत्।  
 चक्रंवाऽप्यथवा वज्रं ध्यात्वा वज्रपदे स्थितः॥
 
-कायवाक्चित्तसमयं [चूर्णितं](http://॑ "A वर्णितं।") तेन भावयेत्।  
+कायवाक्चित्तसमयं [चूर्णितं]("A वर्णितं।") तेन भावयेत्।  
 ततः प्रभृति संबुद्धा बोधिसत्त्वा महायशाः॥
 
 अधिष्ठानपदं रम्यं ददन्ति हृष्टचक्षुषः।
@@ -3641,15 +3570,15 @@ CONTENTS.
  इत्याह च॥
 
 स्वकायचित्तवज्रषु बुद्धमेघान् विचिन्तयेत्।  
-[वज्रराग](http://॑ "A ° जं।")महामेघं भावयेद्व्याधिमोक्षणम्॥इति॥
+[वज्रराग]("A ° जं।")महामेघं भावयेद्व्याधिमोक्षणम्॥इति॥
 
-दशदिक्सर्वबुद्धानां वज्रसत्त्वसु[धीमताम्](http://॑ "A ° सत्त्वाधीमताः।")।  
-[क्रुद्धो](http://॑ " B ° द्धान्।")भावयतस्तस्य[^145]मारणं पारमार्थिकम्॥
+दशदिक्सर्वबुद्धानां वज्रसत्त्वसु[धीमताम्]("A ° सत्त्वाधीमताः।")।  
+[क्रुद्धो](" B ° द्धान्।")भावयतस्तस्य[^145]मारणं पारमार्थिकम्॥
 
 [^145]: "Mss. भावयेत्तस्य।"
 
-अनेन ध्यान[मात्रेण](http://॑ "AB ° मार्गेण।")कर्मजं वापि यत् स्मृतम्।  
-शताष्टजपयोगेन [सप्तदिनै](http://॑ "AC दिनैः सप्तैः।")र्विनश्यति॥
+अनेन ध्यान[मात्रेण]("AB ° मार्गेण।")कर्मजं वापि यत् स्मृतम्।  
+शताष्टजपयोगेन [सप्तदिनै]("AC दिनैः सप्तैः।")र्विनश्यति॥
 
 अथवा स्वमन्त्रराजेन वज्रध्यानविधिः स्मृतः।  
 एषो हि सर्वव्याधीनां समयो दुरतिक्रमः॥
@@ -3665,26 +3594,26 @@ CONTENTS.
 
  ॥तत्रेदं महास्वप्नसमयपदम्।
 
-[बोधि](http://॑ "Aप्रज्ञा °।")ज्ञानाग्रसंप्राप्तं पश्यते [ज्ञान](http://॑ "C बुद्ध °।")सुप्रभम्।  
+[बोधि]("Aप्रज्ञा °।")ज्ञानाग्रसंप्राप्तं पश्यते [ज्ञान]("C बुद्ध °।")सुप्रभम्।  
 बुद्धसम्भोगकायं वा[^146] आत्मानं लघु पश्यति॥
 
 [^146]: "A कार्यं च।"
 
 त्रैधातुकमहासत्त्वैःपूज्यमानं स पश्यति।  
-बुद्धैश्च बोधिसत्त्वैश्च पञ्चकाम[गुणैरपि](http://॑ "AC र्ध्रुवम")।  
-पूजितं पश्यते [बिम्बं](http://॑ "C विश्वं। ")महाज्ञानसमप्रभम्॥
+बुद्धैश्च बोधिसत्त्वैश्च पञ्चकाम[गुणैरपि]("AC र्ध्रुवम")।  
+पूजितं पश्यते [बिम्बं]("C विश्वं। ")महाज्ञानसमप्रभम्॥
 
-वज्रसत्त्वंमहाबिम्बंवज्रधर्मं महा[शय](http://॑ "A ° यश °।")म्।  
+वज्रसत्त्वंमहाबिम्बंवज्रधर्मं महा[शय]("A ° यश °।")म्।  
 स्वबिम्बंपश्यते स्वप्ने गुह्यवज्रमहायशाः॥
 
-प्रणमन्ति महाबुद्धा बोधिसत्त्वाश्च [वज्रिणः](http://॑ "A चक्रि °।")।  
+प्रणमन्ति महाबुद्धा बोधिसत्त्वाश्च [वज्रिणः]("A चक्रि °।")।  
 द्रक्ष्यते ईदृशं स्वप्नं कायवाक्चित्तसिद्धिदम्॥
 
 सर्वालङ्कारसंपूर्णां सुरकन्यां मनोरमाम्।  
 दारकं दारिकां पश्यन् स सिद्धिमधिगच्छति॥
 
 दशदिक्सर्वबुद्धानां क्षेत्रस्थं पश्यति ध्रुवम्।  
-ददन्ति हृष्टचित्तात्मा धर्म[गञ्जं](http://॑ "B° राज °।")मनोरमम्॥
+ददन्ति हृष्टचित्तात्मा धर्म[गञ्जं]("B° राज °।")मनोरमम्॥
 
 धर्मचक्रगतं कायं सर्वबुद्धैःपरिवृतम्।  
 पश्यते योगसमये ध्यानवज्रप्रतिष्ठितः॥
@@ -3692,7 +3621,7 @@ CONTENTS.
 आरामोद्यानविविधान् सुरकन्याद्यलङ्कृतान्।  
 पश्यति ध्यानसमये सर्वबुद्धैरधिष्ठितान्॥
 
-बुद्धैश्च बोधिसत्त्वैश्च अभि[षिक्तं](http://॑ "A ° षेकं।")स पश्यति।  
+बुद्धैश्च बोधिसत्त्वैश्च अभि[षिक्तं]("A ° षेकं।")स पश्यति।  
 विद्याधरमहाराजैः पूज्यमानं स पश्यति॥
 
  इत्याह च॥
@@ -3700,76 +3629,74 @@ CONTENTS.
 विविधान् वज्रसंभूतान् स्वप्नान् पश्यति निर्मलान्।  
 सिध्यतेऽनुत्तरं तस्य कायवाक्चित्तवज्रजम्॥
 
-चण्डालश्वानयोगादीन् पश्यति यदि [वज्रधीः](http://॑ "A ° धृक्।")।  
-सिध्यते चित्तनिलयं वज्र[सत्त्वस्य](http://॑ "AC ° सत्त्वोऽस्य।") [धी](http://॑ "A वा °।")मतः॥
+चण्डालश्वानयोगादीन् पश्यति यदि [वज्रधीः]("A ° धृक्।")।  
+सिध्यते चित्तनिलयं वज्र[सत्त्वस्य]("AC ° सत्त्वोऽस्य।") [धी]("A वा °।")मतः॥
 
  तत्रेदं स्वप्नविचारणसमयहृदयम्।
 
 स्वचित्तं चित्तनिध्यप्तौ सर्वधर्माः प्रतिष्ठिताः।  
 खवज्रस्था ह्यमौ धर्मा न धर्मा न च धर्मता ॥
 
- अथ भगवन्तः सर्वतथागता आश्चर्यप्राप्ता अद्भुत[प्राप्ताः](http://॑ "A omits.")सर्वतथागतकायवाक्चित्तसंशय[^147]च्छेत्तारं वज्रसत्त्वंपप्रच्छुः।किमिदं भगवन्—
+ अथ भगवन्तः सर्वतथागता आश्चर्यप्राप्ता अद्भुत[प्राप्ताः]("A omits.")सर्वतथागतकायवाक्चित्तसंशय[^147]च्छेत्तारं वज्रसत्त्वंपप्रच्छुः।किमिदं भगवन्—
 
 [^147]: "A adds ° समय °।"
 
-निःस्व[भावेषु](http://॑ "A omits.") धर्मेषु धर्मतत्त्वंउदाहृतम्।  
+निःस्व[भावेषु]("A omits.") धर्मेषु धर्मतत्त्वंउदाहृतम्।  
 अहो विस्मयसम्भूतं आकाशाकाशभावनम्॥ इति॥
 
  अथ
 
-
-
-भगवान् कायवाक्चित्तवज्रपाणिस्तथागतः सर्वतथागतानेवमाह। भगवन्तः सर्वतथागता आकाशं न केनचिद्धर्मेण संयुक्तं नाप्य[संयुक्तम्](http://॑ "A omits.")न चाकाशस्यैवं भवति।[सर्वग](http://॑ "A तथाग °।")तोऽयं सर्वत्रानुदर्शी च। एवमेव भगवन्तः सर्वतथागताः [सर्वधर्माः](http://॑ "B omits.") स्वप्नाः स्वप्नसमयसंभूताश्चानुगन्तव्याः।तद्यथापि नाम भगवन्तः सर्वतथागता आकाशं अनिरूप्यंअनिदर्शनं अप्रति[पाद्यम्](http://॑ "A omits ;C अप्रतिघं।")। एवमेव भगवन्तः सर्वतथागताःसर्वधर्मा अनुगन्तव्याः।
+भगवान् कायवाक्चित्तवज्रपाणिस्तथागतः सर्वतथागतानेवमाह। भगवन्तः सर्वतथागता आकाशं न केनचिद्धर्मेण संयुक्तं नाप्य[संयुक्तम्]("A omits.")न चाकाशस्यैवं भवति।[सर्वग]("A तथाग °।")तोऽयं सर्वत्रानुदर्शी च। एवमेव भगवन्तः सर्वतथागताः [सर्वधर्माः]("B omits.") स्वप्नाः स्वप्नसमयसंभूताश्चानुगन्तव्याः।तद्यथापि नाम भगवन्तः सर्वतथागता आकाशं अनिरूप्यंअनिदर्शनं अप्रति[पाद्यम्]("A omits ;C अप्रतिघं।")। एवमेव भगवन्तः सर्वतथागताःसर्वधर्मा अनुगन्तव्याः।
 
  तद्यथापि नाम भगवन्तः सर्वतथागताः सर्वधर्मकाय[^148]वाक्चित्तवज्रपदसमयंसर्वत्रानुगतं एकस्वभावंयदुतचित्तस्वभावम्। यश्च कायवाक्चित्तधातुराकाशधातुश्चाद्वयमेतदद्वैधीकारम्।
 
 [^148]: "Comits from here to सर्वतथागताःbelow."
 
- तद्यथापि नाम भगवन्तः सर्वतथागता आकाशधातुस्थिताः [सर्वधर्माः](http://॑ "BC ° सत्त्वाः।"), स चाकाशधातुर्न कामधातुस्थितो न रूपधातुस्थितो नारूपधातु[स्थितः](http://॑ "C omits.")। यश्च धर्म[धातु](http://॑ " A omits ° धातु °।")स्त्रैधातुके नस्थितः तस्योत्पादो नास्ति, यस्योत्पादो नास्ति नासौ केनचित्धर्मेण संभाव्यते। तस्मात्तर्हि भगवन्तः सर्वतथागतानिःस्वभावाः सर्वधर्मा इति।
+ तद्यथापि नाम भगवन्तः सर्वतथागता आकाशधातुस्थिताः [सर्वधर्माः]("BC ° सत्त्वाः।"), स चाकाशधातुर्न कामधातुस्थितो न रूपधातुस्थितो नारूपधातु[स्थितः]("C omits.")। यश्च धर्म[धातु](" A omits ° धातु °।")स्त्रैधातुके नस्थितः तस्योत्पादो नास्ति, यस्योत्पादो नास्ति नासौ केनचित्धर्मेण संभाव्यते। तस्मात्तर्हि भगवन्तः सर्वतथागतानिःस्वभावाः सर्वधर्मा इति।
 
  तद्यथापि नाम भगवन्तः सर्वतथागता बोधिचित्तं सर्वतथागतज्ञानोत्पादनवज्रपदकरम्। तच्च बोधिचित्तं न कायस्थितं न वाक्स्थितं न चित्तस्थितम्। यश्च धर्मस्त्रैधातुके न स्थितःतस्योत्पादो नास्ति। इदं सर्वतथागतज्ञानोत्पादनवज्रपदम्।
 
  न च भगवन्तः सर्वतथागताः स्वप्नस्यैवं भवति अहं त्रैधातुके स्वप्नपदं दर्शयेयम्। न च पुरुषस्यैवं भवतिअहं स्वप्नं पश्येयमिति। सा च त्रैधातुकक्रिया स्वप्नोपमास्वप्नसदृशीस्वप्नसम्भूता। एवमेव भगवन्तः सर्वतथागतायावन्तो दशदिक्सर्वलोकधातुषु बुद्धाश्च बोधिसत्त्वाश्च यावन्तःसर्वसत्त्वाः सर्वे ते स्वप्ननैरात्म्यपदेनानुगन्तव्याः।
 
- तद्यथापि नाम भगवन्तः सर्वतथागताःचिन्तामणिरत्नं सर्वरत्नप्रधानं सर्वगुणोपेतम्।ये च सत्त्वाः प्रार्थयन्तिसुवर्णं वा रत्नं वा रौप्यं वा तत् सर्वं [चिन्ता](http://॑॑ "ABचिन्तित °।")मा[त्रेणैव](http://॑ "B ° वं।") संपादयति। तच्च रत्नाद्यं न चित्तस्थितं न चिन्तामणिस्थितम्। एवमेवभगवन्तः सर्वतथागताः [सर्वधर्मा](http://॑ "BC add वुद्धधर्मा ।")अनुगन्तव्याः।
+ तद्यथापि नाम भगवन्तः सर्वतथागताःचिन्तामणिरत्नं सर्वरत्नप्रधानं सर्वगुणोपेतम्।ये च सत्त्वाः प्रार्थयन्तिसुवर्णं वा रत्नं वा रौप्यं वा तत् सर्वं [चिन्ता](॑ "ABचिन्तित °।")मा[त्रेणैव]("B ° वं।") संपादयति। तच्च रत्नाद्यं न चित्तस्थितं न चिन्तामणिस्थितम्। एवमेवभगवन्तः सर्वतथागताः [सर्वधर्मा]("BC add वुद्धधर्मा ।")अनुगन्तव्याः।
 
- [अथ](http://॑ " A adds ते।")भगवन्तः सर्वतथागताः प्रहर्षोत्फुल्ललोचनाःसर्वतथागतकायवाक्चित्तवज्रं तथागतमेवमाहुः। आश्चर्यं भगवन्यत्र हि नाम आकाश[धातु](http://॑ "C omits ° धातु °।")समवस[रेषु](http://॑ "A ° रणे ॰।") सर्वधर्मेषु[^149]बुद्धधर्माःसमवसरणं गच्छन्ति।
+ [अथ](" A adds ते।")भगवन्तः सर्वतथागताः प्रहर्षोत्फुल्ललोचनाःसर्वतथागतकायवाक्चित्तवज्रं तथागतमेवमाहुः। आश्चर्यं भगवन्यत्र हि नाम आकाश[धातु]("C omits ° धातु °।")समवस[रेषु]("A ° रणे ॰।") सर्वधर्मेषु[^149]बुद्धधर्माःसमवसरणं गच्छन्ति।
 
 [^149]: "BCadd बुद्धधर्मेषु।"
 
- अथ ते सर्वबुद्धबोधिसत्त्वा भगवन्तो वज्रपाणेस्तथागतस्यपादयोः प्रणिपत्यैवमाहुः। यत् भगवता सर्वमन्त्रवज्रसिद्धिसमुच्चयंभाषितं तानि च सर्वमन्त्र[वज्र](http://॑ "C omits ° वज्र °।")समुच्चयसिद्धीनि कुत्र [स्थितानि](http://॑ "A adds क्व सम्भूतानि।")।
+ अथ ते सर्वबुद्धबोधिसत्त्वा भगवन्तो वज्रपाणेस्तथागतस्यपादयोः प्रणिपत्यैवमाहुः। यत् भगवता सर्वमन्त्रवज्रसिद्धिसमुच्चयंभाषितं तानि च सर्वमन्त्र[वज्र]("C omits ° वज्र °।")समुच्चयसिद्धीनि कुत्र [स्थितानि]("A adds क्व सम्भूतानि।")।
 
- अथ वज्रपाणिस्तेषां तथागतानां बोधिसत्त्वानां च साधुकारं दत्वा तान् सर्वतथागतानेवमाह। न च भगवन्तःसर्वतथागताः सर्वमन्त्रसिद्धीनि सर्वमन्त्रकायवाक्चित्तवज्रस्थितानि। तत्कस्य [हेतोः](http://॑ "BC omit परमार्थतः...........सिद्धीनामसंभवात्।")।परमार्थतः कायवाक्चित्तमन्त्रसिद्धीनामसंभवात्।किन्तुभगवन्तः सर्वतथागताः सर्वमन्त्रसिद्धीनि सर्वबुद्धधर्माणिस्वकायवाक्चित्तवज्रस्थितानि। तच्च काय[वाक्चित्तं](http://॑ " A adds ° वज्र ° ।") न कामधातुस्थितंन [रूप](http://॑ "B रूप्य °।")धातुस्थितं ना[रूप](http://॑ " B ° प्य °।")धातुस्थितम्। न चित्तं कायस्थितं न कायश्चित्तस्थितः न वाक् चित्तस्थिता न चित्तंवाक्स्थितम्। तत् कस्य हेतोः? आकाशवत् स्वभावशुद्धत्वात्।
+ अथ वज्रपाणिस्तेषां तथागतानां बोधिसत्त्वानां च साधुकारं दत्वा तान् सर्वतथागतानेवमाह। न च भगवन्तःसर्वतथागताः सर्वमन्त्रसिद्धीनि सर्वमन्त्रकायवाक्चित्तवज्रस्थितानि। तत्कस्य [हेतोः]("BC omit परमार्थतः...........सिद्धीनामसंभवात्।")।परमार्थतः कायवाक्चित्तमन्त्रसिद्धीनामसंभवात्।किन्तुभगवन्तः सर्वतथागताः सर्वमन्त्रसिद्धीनि सर्वबुद्धधर्माणिस्वकायवाक्चित्तवज्रस्थितानि। तच्च काय[वाक्चित्तं](" A adds ° वज्र ° ।") न कामधातुस्थितंन [रूप]("B रूप्य °।")धातुस्थितं ना[रूप](" B ° प्य °।")धातुस्थितम्। न चित्तं कायस्थितं न कायश्चित्तस्थितः न वाक् चित्तस्थिता न चित्तंवाक्स्थितम्। तत् कस्य हेतोः? आकाशवत् स्वभावशुद्धत्वात्।
 
  अथ ते सर्वतथागताः सर्वतथागतकायवाक्चित्तवज्रं तथागतमेवमाहुः। सर्वतथागतधर्मा भगवन् कुत्र स्थिताः क्व वा संभूताः।वज्रसत्त्व आह। स्वकायवाक्चित्तसंस्थिताः
 
-स्वकायवाक्चित्तसंभूताः।भगवन्तः सर्वतथागता आहुः।स्वकायवाक्चित्तवज्रं कुत्र स्थितम्?[आकाश](http://॑ "A omits.")स्थितम्।आकाशं कुत्रस्थितम्? न क्वचित्।
+स्वकायवाक्चित्तसंभूताः।भगवन्तः सर्वतथागता आहुः।स्वकायवाक्चित्तवज्रं कुत्र स्थितम्?[आकाश]("A omits.")स्थितम्।आकाशं कुत्रस्थितम्? न क्वचित्।
 
- अथ ते सर्वबुद्धबोधिसत्त्वा आचाश्चर्य्यप्राप्ता अद्भूतप्राप्ताःस्वचित्तधर्मताविहारं ध्यायं[स्तूष्णीं](http://॑ "C व्यापन्नं।")स्थिता अभूवन्निति।
+ अथ ते सर्वबुद्धबोधिसत्त्वा आचाश्चर्य्यप्राप्ता अद्भूतप्राप्ताःस्वचित्तधर्मताविहारं ध्यायं[स्तूष्णीं]("C व्यापन्नं।")स्थिता अभूवन्निति।
 
 **इति श्री सर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजे महागुह्यतन्त्रराजे सर्वचित्तसमयसारवज्रसम्भूतिर्नामपटलः पञ्चदशोऽध्यायः।**
 
- अथ भगवन्तः सर्वतथागताः पुनः समाजमागम्य भगवन्तंसर्वतथागतकायवाक्चित्तवज्रंतथागतं सर्वतथागतकायवाक्चित्तवज्रपदैरध्येष्य सर्वतथागतरत्नवज्रपूजाव्यूहैः पूजयामासुः।अथ भगवान् वज्रपाणिस्तथागतः सर्ववज्रमण्डल[सिद्धि](http://॑ "A ° सिंह °, B ° सिद्ध °।")समयराजव्यूहं नाम समाधिं समापद्येदं वज्रकायमण्डलं सर्व[बुद्धानां](http://॑ "C ° तथागतानां।")स्वकायवाक्चित्तवज्रेभ्यो निश्चार[यामास](http://॑ "A उदाजहार।")।
+ अथ भगवन्तः सर्वतथागताः पुनः समाजमागम्य भगवन्तंसर्वतथागतकायवाक्चित्तवज्रंतथागतं सर्वतथागतकायवाक्चित्तवज्रपदैरध्येष्य सर्वतथागतरत्नवज्रपूजाव्यूहैः पूजयामासुः।अथ भगवान् वज्रपाणिस्तथागतः सर्ववज्रमण्डल[सिद्धि]("A ° सिंह °, B ° सिद्ध °।")समयराजव्यूहं नाम समाधिं समापद्येदं वज्रकायमण्डलं सर्व[बुद्धानां]("C ° तथागतानां।")स्वकायवाक्चित्तवज्रेभ्यो निश्चार[यामास]("A उदाजहार।")।
 
 अथातः संप्रवक्ष्यामि कायमण्डलमुत्तमम्।  
-चित्तवज्रप्रतीकाशं [सर्व](http://॑ "C ° त्त्व °।")मण्डलमुत्तमम्॥
+चित्तवज्रप्रतीकाशं [सर्व]("C ° त्त्व °।")मण्डलमुत्तमम्॥
 
 षोड़शहस्तं प्रकुर्वीत चतुरस्रं सुशोभनम्।  
 मण्डलं सर्वबुद्धानां कायवज्रप्रतिष्ठितम्॥
 
-तस्याभ्यन्तर[तश्चक्रं](http://॑ "A° रं चक्रं।") आलिखे[द्विधि](http://॑ " BC ° धिना।")वज्रया।  
+तस्याभ्यन्तर[तश्चक्रं]("A° रं चक्रं।") आलिखे[द्विधि](" BC ° धिना।")वज्रया।  
 मुद्रावज्रपदं कुर्यान्मन्त्राणां गुह्यमुत्तमम्॥
 
 मध्ये वैरोचनपदं अक्षोभ्यादीन् समालिखेत्।  
-कायवाक्चित्तव[ज्राग्रीन्](http://॑ "A ° वज्रश्री °।")सर्व[कोणे](http://॑ " A ° णेषु।")निवेशयेत्॥
+कायवाक्चित्तव[ज्राग्रीन्]("A ° वज्रश्री °।")सर्व[कोणे](" A ° णेषु।")निवेशयेत्॥
 
 क्रोधान् समालिखेत् द्वारि महाबलपराक्रमान्।  
 पूजां कुर्वीत मन्त्रज्ञो गुह्यवज्रप्रभाविताम्॥
 
-एषो हि सर्व[क्रोधानां](http://॑ "A चक्राणां।") समयो दुरतिक्रमः।  
+एषो हि सर्व[क्रोधानां]("A चक्राणां।") समयो दुरतिक्रमः।  
 अवश्यमेव दातव्यं विण्मूत्राद्यं विशेषतः॥
 
- एषो हि सर्व[मन्त्राणां](http://॑ "A धर्माणां।") समयः कायवज्रिणाम्।
+ एषो हि सर्व[मन्त्राणां]("A धर्माणां।") समयः कायवज्रिणाम्।
 
 ॥सर्वतथागतकायमण्डलम्॥
 
@@ -3781,7 +3708,7 @@ CONTENTS.
 विंशतिहस्तं प्रकुर्वीत चतुरस्रं विधानतः।  
 चतुष्कोणं चतुर्द्वारं सूत्रयेत् वज्रभावनैः॥
 
-[स्ववाङ्](http://॑ "BC ° काय °।")मण्डलपदं वाक्यवज्रगुणावहम्।  
+[स्ववाङ्]("BC ° काय °।")मण्डलपदं वाक्यवज्रगुणावहम्।  
 वज्रधर्ममहाराजं विद्वेषमवतारयेत्॥
 
 तस्य मध्ये महाचक्रमालिखेत्परिमण्डलम्।  
@@ -3791,19 +3718,19 @@ CONTENTS.
 तदेव वज्रपदं रम्यं सर्वेषां परिकल्पयेत्॥
 
 परिस्फुटं विधानेन कृत्वा मण्डलमुत्तमम्।  
-गुह्यपूजां ततः [कुर्य्यादेवं](http://॑ " B कृत्वा एवं ।") तुष्यन्ति वज्रिणः॥
+गुह्यपूजां ततः [कुर्य्यादेवं](" B कृत्वा एवं ।") तुष्यन्ति वज्रिणः॥
 
 विण्मूत्रशुक्रसमयैः पूज्य सिद्धिरवाप्यते।  
 एषो हि सर्वबुद्धानां समयो दुरतिक्रमः॥
 
 ॥सर्वतथागतवाङ्मण्डलम्॥
 
- अथ भगवान् वज्रपाणिस्तथागतः सम[न्त](http://॑ "B ° स्त °।")मेघव्यूहं नामसमाधिं समापद्येदं परमगुह्यमण्डलरहस्यं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ भगवान् वज्रपाणिस्तथागतः सम[न्त]("B ° स्त °।")मेघव्यूहं नामसमाधिं समापद्येदं परमगुह्यमण्डलरहस्यं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
 यस्य वज्रधराग्रस्य मध्येबिम्बं समालिखेत्॥  
-[भवे](http://॑ "ABC भव°।")न्मण्डलपदं तस्य कायवाक्चित्तगुह्यजम्॥
+[भवे]("ABC भव°।")न्मण्डलपदं तस्य कायवाक्चित्तगुह्यजम्॥
 
- इति सर्वतथागतकायवाक्चित्तवज्रज्ञान[रहस्योऽयं](http://॑ "BCR ° स्याद्गुह्यसमाजे।") परमगुह्यः।
+ इति सर्वतथागतकायवाक्चित्तवज्रज्ञान[रहस्योऽयं]("BCR ° स्याद्गुह्यसमाजे।") परमगुह्यः।
 
  अथ भगवान् वज्रपाणिस्तथागतः सर्वमण्डलचक्रसम्भवंनाम समाधिं समापद्येदं सर्वमण्डलकायवाक्चित्तगुह्यजंस्वकायवाक्चित्तवज्रेभ्य उदाजहार। ततो मण्डलमन्त्रः॥मन्त्राक्षरहृदयसूत्राक्षर[^150]पदानि॥ हूँऔँआः॥
 
@@ -3812,7 +3739,7 @@ CONTENTS.
 पातनं वज्रसूत्रस्य रजस्यापि निपातनम्।  
 न कार्य्यं मन्त्रसत्वेन कारयन् बोधिदुर्ल्लभः॥
 
-तस्मात् समयविधानज्ञोऽ[वतार्य्य](http://॑ "AC ° वसार्य।")मन्त्रदेवतान्[^151]।  
+तस्मात् समयविधानज्ञोऽ[वतार्य्य]("AC ° वसार्य।")मन्त्रदेवतान्[^151]।  
 अधिष्ठानपदं ध्यात्वा मण्डलानां विकल्पनम्॥
 
 [^151]: "B समयदेव, ° C समतेव।"
@@ -3821,20 +3748,20 @@ CONTENTS.
 कायमण्डलपदं रम्यं कायवज्रगुणावहम्॥
 
 वज्रधर्ममहाराजं सधर्मं चावतारयेत्।  
-इदं तत् सर्व[मन्त्राणां](http://॑ "Cबुद्धानां।")रहस्यं परम[शाश्वतम्](http://॑ " C ° माद्भुतम्।")॥
+इदं तत् सर्व[मन्त्राणां]("Cबुद्धानां।")रहस्यं परम[शाश्वतम्](" C ° माद्भुतम्।")॥
 
-[वज्रसत्त्व](http://॑ " C omits two lines.")महाराजं मामकींचावतारयेत्।  
-इदं तत् सर्व[मन्त्राणां](http://॑ "B. बुद्धानां।") रहस्यं परमाद्भुतम्॥
+[वज्रसत्त्व](" C omits two lines.")महाराजं मामकींचावतारयेत्।  
+इदं तत् सर्व[मन्त्राणां]("B. बुद्धानां।") रहस्यं परमाद्भुतम्॥
 
 एवं कृतेन सान्निध्यं स्वयमेव मनीषिणः।  
-आगत्य गुह्यपरमं लिखन्ति [हरिषा](http://॑ "ARहर्षा °।")न्विताः॥
+आगत्य गुह्यपरमं लिखन्ति [हरिषा]("ARहर्षा °।")न्विताः॥
 
  इत्याह च।
 
-कर्तव्यंमन्त्रसिद्धे [च](http://॑ "ACR ° सिद्धेन।")वज्रगुह्यंमहाद्भुतम्।  
+कर्तव्यंमन्त्रसिद्धे [च]("ACR ° सिद्धेन।")वज्रगुह्यंमहाद्भुतम्।  
 आकृष्य क्रोधराजेन सर्वबुद्धांस्तु पूजयेत्॥
 
-[त्रिकाल](http://॑ " B °काय, R °ष्काल।")समये पूजा त्रिवज्रामलवज्रिणः।  
+[त्रिकाल](" B °काय, R °ष्काल।")समये पूजा त्रिवज्रामलवज्रिणः।  
 कर्तव्यंत्रिवज्रयोगेन मन्त्रसिद्धिप्रवर्तनम्॥ इति॥
 
   इत्याह च॥
@@ -3842,43 +3769,43 @@ CONTENTS.
 सर्वेषामेव मन्त्राणां बलिं दद्यान्महाद्भुतम्।  
 विण्मूत्रमांसतैलं च पञ्चमं चित्तसम्भवम्॥
 
-शुक्रेण सर्वमन्त्राणां [प्राणनं](http://॑ "C ° शन, A ° णेन।") समुदाहृतम्।  
+शुक्रेण सर्वमन्त्राणां [प्राणनं]("C ° शन, A ° णेन।") समुदाहृतम्।  
 एषो हि समयश्रेष्ठो बुद्धबोधिप्रपूरकः॥
 
 सूत्रस्य पातनमिदं स्वयमेव समाचरेत्।  
 वैरोचनं प्रभावित्वा वज्रसत्त्वंविभावयेत्॥
 
-अथवाऽमृतवज्राख्यं [शिष्यं](http://॑ "C लिख्यं।") वज्रमहाद्युतिम्।  
+अथवाऽमृतवज्राख्यं [शिष्यं]("C लिख्यं।") वज्रमहाद्युतिम्।  
 विभावयेत् कर्मपदं सर्वबुद्धनिषेवितम्॥
 
 पञ्चबुद्धमहाराजं सूत्रं वज्रगतं न्यसेत्।  
 एषो हि सर्वबुद्धानां रहस्यं परमाद्भुतम्॥
 
-पञ्चविंशतिभेदेन [रज](http://॑ "रह °।")स्यापि निपातनम्।  
+पञ्चविंशतिभेदेन [रज]("रह °।")स्यापि निपातनम्।  
 इदं तत् सर्ववज्राणां रहस्यं बोधिमुत्तमम्॥
 
 सर्वेषामेव मन्त्राणां वज्रहूँकारभावना।  
-कायवाक्चित्त[समयं](http://॑ "A adds दिव्यं।") पञ्चस्थानेषु भावयेत्॥
+कायवाक्चित्त[समयं]("A adds दिव्यं।") पञ्चस्थानेषु भावयेत्॥
 
 एवं कृतेन सान्निध्यं त्रिवज्राभेद्यवज्रजाः।  
 कुर्वन्ति भयसंत्रस्ता वज्रसत्त्वस्य धीमतः॥
 
-न्यासं कलशवज्राणां मन्त्र[तन्त्रा](http://॑ "C तत्त्वा °।")न्वितैः स्मृतम्।  
+न्यासं कलशवज्राणां मन्त्र[तन्त्रा]("C तत्त्वा °।")न्वितैः स्मृतम्।  
 वज्रसत्त्वंसमाधिस्थं कल्पयेत् दृढ़बुद्धिमान्॥
 
 होमं कुर्वीत मन्त्रज्ञः सर्वसिद्धिफलार्थिनः।  
 विण्मूत्रमांसतैलाद्यैराहुतिं प्रतिपादयेत्॥
 
 पूर्णं वज्राहुतिं दद्यात् त्रिवज्राद्यंसमाचरेत्।  
-शुक्रं वा अथवा विष्ठामभिमन्त्र्य[विधानतः](http://॑ "C ° भावतः।")।  
+शुक्रं वा अथवा विष्ठामभिमन्त्र्य[विधानतः]("C ° भावतः।")।  
 भक्षयेद्वज्रयोगेन एवं सिद्धिर्न दुर्लभा॥
 
-कृत्वा [वज्र](http://॑ "ACR यत्र।")महागुह्यं रहस्यं सर्ववज्रिणाम्॥  
+कृत्वा [वज्र]("ACR यत्र।")महागुह्यं रहस्यं सर्ववज्रिणाम्॥  
 स्त्रीरूपमन्त्रचक्रेण स्थिताः सत्त्वार्थचर्यया।
 
 ॥तत्रेदं सर्ववज्रमण्डलमन्त्राराधनरहस्यम्॥
 
-हस्तिमांसं [हयमांसं](http://॑ "Mss add श्वानमांसं।") महामांसं च भक्षयेत्।  
+हस्तिमांसं [हयमांसं]("Mss add श्वानमांसं।") महामांसं च भक्षयेत्।  
 दद्याद्वै सर्वमन्त्राणामेवं तुष्यन्ति नायकाः॥
 
 प्रत्यहं वज्रशिष्यस्य दर्शयेत् मण्डलं बुधः।  
@@ -3893,15 +3820,15 @@ CONTENTS.
 अन्तर्द्धानं बलं वीर्यं वज्राकर्षणमुत्तमम्।  
 सिध्यते मण्डले सर्वं कायवज्रवचो यथा॥
 
-विण्मूत्रं [च](http://॑ "C विष्ठामूत्रं।")महामांसं समभागं तु कारयेत्।  
+विण्मूत्रं [च]("C विष्ठामूत्रं।")महामांसं समभागं तु कारयेत्।  
 
 शरावसंपुटे स्थाप्य बुद्धैःसह च संवसेत्॥
 
  इत्याह च। तत्रेदं सर्वगुह्यवज्रकिङ्करमहासाधनपदं वरम्।
 
-खवज्रमध्यगतं चिन्तेत् [ह्रीः](http://॑ "B ह्री, C ह्रीँ।")कारं ज्वालसुप्रभम्।  
+खवज्रमध्यगतं चिन्तेत् [ह्रीः]("B ह्री, C ह्रीँ।")कारं ज्वालसुप्रभम्।  
 खधातुं सर्वबुद्धैस्तु परिपूर्णं विभावयेत्।  
-कायवाक्चित्तपदं [तेषां](http://॑ "R ततो।") [तत्र](http://॑ "C तन्त्र।") मन्त्रे निपातयेत्॥
+कायवाक्चित्तपदं [तेषां]("R ततो।") [तत्र]("C तन्त्र।") मन्त्रे निपातयेत्॥
 
  तत्रेदं कायवाक्चित्तमन्त्रवज्राधिष्ठानपदम्।
 
@@ -3920,7 +3847,7 @@ CONTENTS.
 
 ॥आँ॥
 
-महा[शूलै](http://॑ " A ° सुरैः।")र्महावज्रैरङ्कुशैर्विविधै[र्बलैः](http://॑ "A ° रैः।")।  
+महा[शूलै](" A ° सुरैः।")र्महावज्रैरङ्कुशैर्विविधै[र्बलैः]("A ° रैः।")।  
 चोदयेद्विधिवद्वज्रंबुद्धबोधिः प्रसिध्यति।
 
  इत्याह च॥
@@ -3933,8 +3860,8 @@ CONTENTS.
 षट्त्रिंशत्सुमेरूणां यावन्तः परमाणवः।  
 परिवारगणास्तस्य सिध्यते बोधिवज्रिणः॥
 
-दशदिक्सर्वबुद्धानां बुद्धक्षेत्राणि [कार](http://॑ "B काम, ° AR क्राम°।")येत्।  
-मध्ये [स्व](http://॑ "BC ° ऽस्य।")देवताबिम्बं ध्यात्वा [वज्रेण](http://॑ "AR वक्षे नि °।") पातयेत्॥
+दशदिक्सर्वबुद्धानां बुद्धक्षेत्राणि [कार]("B काम, ° AR क्राम°।")येत्।  
+मध्ये [स्व]("BC ° ऽस्य।")देवताबिम्बं ध्यात्वा [वज्रेण]("AR वक्षे नि °।") पातयेत्॥
 
  इत्याह च।
 
@@ -3951,31 +3878,30 @@ CONTENTS.
 
 ॥आः खँवीर हूँ॥
 
-
-सर्वसमयकायवाक्चित्तहृदयमन्त्रवज्रो[^153][ऽयम्](http://॑ "R ° जापं।")। तत्रेदंमहावज्राभिषेकगुह्यज्ञानरहस्यम्।
+सर्वसमयकायवाक्चित्तहृदयमन्त्रवज्रो[^153][ऽयम्]("R ° जापं।")। तत्रेदंमहावज्राभिषेकगुह्यज्ञानरहस्यम्।
 
 [^153]: "BCadd इति सर्वतथागतकायवाक्चित्तवज्रगुह्याद्गुह्यसमाजे before सर्व°।"
 
 खधातुं सर्वबुद्धैस्तु परिपूर्णं विभावयेत्।  
-वाद्यगन्धमहामेघैर्भावयेद्वज्र[श्रोत्रधीः](http://॑ "AR have instead वाद्यगन्धादिसमयैर्मेघौघान् भावयेद्बुधः।")॥
+वाद्यगन्धमहामेघैर्भावयेद्वज्र[श्रोत्रधीः]("AR have instead वाद्यगन्धादिसमयैर्मेघौघान् भावयेद्बुधः।")॥
 
  इत्याह च।
 
-त्रिवज्रकाय[मन्तत्रैस्तु](http://॑ "C त्रिकायवज्रमेघैस्तु. B ° मन्त्रैस्तु।")सर्षपैस्ता[डयेत्](http://॑ "CR स्तोत्रयेत्।")व्रती।  
+त्रिवज्रकाय[मन्तत्रैस्तु]("C त्रिकायवज्रमेघैस्तु. B ° मन्त्रैस्तु।")सर्षपैस्ता[डयेत्]("CR स्तोत्रयेत्।")व्रती।  
 अभिषेकं तदा तस्य स्वयमेव ददन्ति हि॥
 
 अथवा भावयेत् बुद्धान् वज्रसत्त्वममाधिना।  
-कलशान् समयाग्रैस्तु [धारितान्](http://॑ "B वाचितान्,C भाषितान्।")भावयेत् [बुधः](http://॑ "C व्रती।")॥
+कलशान् समयाग्रैस्तु [धारितान्]("B वाचितान्,C भाषितान्।")भावयेत् [बुधः]("C व्रती।")॥
 
-वज्रवैरोचनं चिन्तेत् शिष्यो दृढ़मति[स्तदा](http://॑ "AR ° तिं सदा।")।  
+वज्रवैरोचनं चिन्तेत् शिष्यो दृढ़मति[स्तदा]("AR ° तिं सदा।")।  
 न्यासं कुर्वीत मन्त्रज्ञः कायवाक्चित्तवज्रिणः॥
 
  तत्रेदं सर्वाभिषेकरहस्यं सर्वाचार्यवाग्वज्रोदीरणम्।
 
 अभिषेकं महावज्रं त्रैधातुकनमस्कृतम्।  
-ददामि सर्वबुद्धानां त्रि[गुह्यालय](http://॑ " C ° गुह्यं वज्र, ° R ° गुह्यवज्र °।")सम्भवम्॥
+ददामि सर्वबुद्धानां त्रि[गुह्यालय](" C ° गुह्यं वज्र, ° R ° गुह्यवज्र °।")सम्भवम्॥
 
- तत्रेदं सर्वा[भिषेक](http://॑ "A सर्वशिष्य °।")महावज्रप्रार्थनाविधिरहस्यम्।
+ तत्रेदं सर्वा[भिषेक]("A सर्वशिष्य °।")महावज्रप्रार्थनाविधिरहस्यम्।
 
 बोधिवज्रेण बुद्धानां यथा दत्तो महामहः।  
 ममापि त्राणनार्थाय खवज्राद्यं ददाहि मे॥
@@ -3988,7 +3914,7 @@ CONTENTS.
 समयं श्रावयेत् गुह्यंसर्वबुद्धैरुदाहृतम्॥
 
 प्राणिनश्च त्वया घात्या वक्तव्यंच मृषा वचः।  
-अदत्तं च त्वया ग्राह्यंसेवनं [योषितामपि](http://॑ "C ° येत्योषिता अपि।")॥
+अदत्तं च त्वया ग्राह्यंसेवनं [योषितामपि]("C ° येत्योषिता अपि।")॥
 
 अनेन वज्रमार्गेण वज्रसत्त्वान्प्रचोदयेत्।  
 एषो हि सर्वबुद्धानां समयः परमशाश्वतः॥
@@ -3996,14 +3922,14 @@ CONTENTS.
  इत्याह च॥
 
 मन्त्रं दद्यात् तदा तस्य मन्त्रचोदनभाषितैः।  
-समाधिं मन्त्रराजस्य दत्वा गुह्यं[समारभेत्](http://॑ "After this BC repeat a longportion from शुक्रं वा अथवा विष्ठां etc. ( p.117)to बुद्धक्षेत्राणि कारयेत्(p. 119).")॥
+समाधिं मन्त्रराजस्य दत्वा गुह्यं[समारभेत्]("After this BC repeat a longportion from शुक्रं वा अथवा विष्ठां etc. ( p.117)to बुद्धक्षेत्राणि कारयेत्(p. 119).")॥
 
-धर्मं शृणोति गाम्भीर्य्यंबुद्ध[भूमिं](http://॑ "B बोधिं।") च प्राप्नुयात्।
+धर्मं शृणोति गाम्भीर्य्यंबुद्ध[भूमिं]("B बोधिं।") च प्राप्नुयात्।
 
- इत्याह च भगवान् महासमयवज्र[हासः](http://॑ " R °हारः।")। तत्रेदं [सर्व](http://॑ "C सत्त्व ° ।")किङ्करगुह्यवज्ररहस्यम्।
+ इत्याह च भगवान् महासमयवज्र[हासः](" R °हारः।")। तत्रेदं [सर्व]("C सत्त्व ° ।")किङ्करगुह्यवज्ररहस्यम्।
 
 वज्रसत्त्वमहाज्ञानं वाक्यवज्रधरं तथा।  
-कायवज्रमहा[न्यासैः](http://॑ "R ° मासैः।") किङ्करंचोदयेत्सदा॥
+कायवज्रमहा[न्यासैः]("R ° मासैः।") किङ्करंचोदयेत्सदा॥
 
  तत्रेदं वज्रज्ञान[^154]चक्रं चतुःसमयपदम्। समयचोदनंसमयप्रेरणं समयमन्त्रणंसमयबन्धनं चेति।
 
@@ -4019,11 +3945,11 @@ CONTENTS.
 बुद्धं वा वज्रसत्त्वंवा यदीच्छेत् वशमानितुम्।  
 चिन्तयेदिदं महागुह्यं त्रिवज्राग्रधरं महत्॥
 
-खवज्रमध्यगतं चिन्तेत् [मञ्जुवज्रं](http://॑ "BC महावज्रं।") महाबलम् \।  
-पंचबाणप्रयोगेण [मुकुटाग्रं](http://॑ " Bरोमकूपाग्रे।") तु संस्मरेत्॥
+खवज्रमध्यगतं चिन्तेत् [मञ्जुवज्रं]("BC महावज्रं।") महाबलम् \।  
+पंचबाणप्रयोगेण [मुकुटाग्रं](" Bरोमकूपाग्रे।") तु संस्मरेत्॥
 
-पञ्चस्थानेषु मन्त्रज्ञः क्रूरवज्रेण [पा](http://॑ " Bघा °।")तयेत्।  
-[मूर्च्छितं](http://॑ "C ° तान्।") भावयेत् [त्रस्तं](http://॑ " C ° स्तान्।")बाल[बुद्धिं](http://॑ "C° द्धीन्।") महायशाः॥
+पञ्चस्थानेषु मन्त्रज्ञः क्रूरवज्रेण [पा](" Bघा °।")तयेत्।  
+[मूर्च्छितं]("C ° तान्।") भावयेत् [त्रस्तं](" C ° स्तान्।")बाल[बुद्धिं]("C° द्धीन्।") महायशाः॥
 
 पक्षमेकमिदं ध्यानं कर्त्तव्यं गुह्यचोदनैः।  
 रहस्यं सवमन्त्राणां गीतं वज्रार्थबुद्धिना॥
@@ -4031,11 +3957,11 @@ CONTENTS.
 खवज्रमध्यगतं चिन्तेत् बुद्धमण्डलमुत्तमम्।  
 हूँकारवज्रमन्त्राद्यैः त्रिवज्रादीन्प्रभावयेत्॥
 
-ओँकारं [चक्षु](http://॑ "A चक्र°।")र्गतं ध्यात्वा दर्श[येत](http://॑ " A° येदिदं।")विधानतः।  
+ओँकारं [चक्षु]("A चक्र°।")र्गतं ध्यात्वा दर्श[येत](" A° येदिदं।")विधानतः।  
 पश्येत सर्वमन्त्राणां बिम्बंत्रिकायवज्रिणाम्॥
 
 क्षुत्तृषाद्यैर्महाक्लेशैरिदं योगं विचिन्तयेत्।  
-[नश्यन्ति](http://॑ "AC भ्रश्यन्ते।") सर्वदुःखानि चित्तवज्रवचो यथा॥
+[नश्यन्ति]("AC भ्रश्यन्ते।") सर्वदुःखानि चित्तवज्रवचो यथा॥
 
 वैरोचनमहाबिंम्बं ध्यात्वा सर्वार्थसम्पदम्।  
 वंकारं वक्त्रगतं ध्यात्वा ओँकारं जिह्वागं न्यसेत्॥
@@ -4043,7 +3969,7 @@ CONTENTS.
 आलयं सर्वभक्ष्याणां चिन्तामणिविभूषितम्।  
 सर्वदुःखहरं शान्तं ज्ञानवज्रप्रभावितम्॥
 
- इत्याह भगवान् चिन्तामणिवज्रः। अथ भगवान् वज्र[पाणि](http://॑ " BC add°वज्र°।")स्तथागतःमहावीरवज्रतथागतं वज्रभावनावज्रपदाग्रंवाग्वज्रेभ्यो निश्चा[रयामास](http://॑ "A ° लयेत्,CR रयत् or°रयेत्।")।
+ इत्याह भगवान् चिन्तामणिवज्रः। अथ भगवान् वज्र[पाणि](" BC add°वज्र°।")स्तथागतःमहावीरवज्रतथागतं वज्रभावनावज्रपदाग्रंवाग्वज्रेभ्यो निश्चा[रयामास]("A ° लयेत्,CR रयत् or°रयेत्।")।
 
 ॥वीः॥
 
@@ -4057,19 +3983,19 @@ CONTENTS.
 
  अथ भगवान् वज्रधरः समन्तनिर्घोषवज्रं नाम समाधिंसमापद्येदंमहावज्रभावनापदंस्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास।
 
-॥[चुँ](http://॑ "A omits, BC वूँ।")॥
+॥[चुँ]("A omits, BC वूँ।")॥
 
 खवज्रमध्यगतं चिन्तेत् सूर्यमण्डलमुत्तमम्।  
 बुद्धमेघान् विधानेन त्रिवज्रात्मा महायशाः॥
 
-पातनं कायवाक्चित्ते [चुन्द](http://॑ "Aचन्द्र °BCवून्द °।")वज्रींविभावयेत्।  
+पातनं कायवाक्चित्ते [चुन्द]("Aचन्द्र °BCवून्द °।")वज्रींविभावयेत्।  
 सर्वालङ्कारसम्पूर्णां सितवर्णांविभावयेत्॥
 
 वज्रसत्त्वमहाराजं ध्यात्वा मन्त्रपदं न्यसेत्।
 
-॥वज्ररश्मिज्ञान[समयं](http://॑ "ACR वज्रसमयज्ञानरश्मिमाला।") नाम समाधिः॥
+॥वज्ररश्मिज्ञान[समयं]("ACR वज्रसमयज्ञानरश्मिमाला।") नाम समाधिः॥
 
- अथ भगवान् वज्रपाणिस्तथागतः सर्वाशावज्रसम्भोगंनाम समाधिं समापद्येदं समाधि[वज्र](http://॑ "BC ° चक्र°।")नयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
+ अथ भगवान् वज्रपाणिस्तथागतः सर्वाशावज्रसम्भोगंनाम समाधिं समापद्येदं समाधि[वज्र]("BC ° चक्र°।")नयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
 ॥जँ॥
 
@@ -4091,7 +4017,7 @@ CONTENTS.
 
 समाधिं समापद्येदं सर्वयक्षिणीसमयवज्रपदं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
-Il[क्षिँ](http://॑ "C क्षं। ")॥
+Il[क्षिँ]("C क्षं। ")॥
 
 खवज्रधातुमध्यस्थं चतुरस्रं सुशोभनम्।  
 चतूरत्नमयं सर्वं पुष्पगन्धसमाकुलम्॥
@@ -4101,13 +4027,13 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  ॥सर्वयक्षिणीसमताविहारभावनवज्रो नाम समाधिः॥
 
- अथ भगवान् वज्रपाणिस्तथागतः सर्व[बुद्ध](http://॑ "BC ° वज्र °।")मन्त्रसिद्धिविजृम्भितवज्रंनाम समाधिं समापद्येमां हीनसिद्धिंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ भगवान् वज्रपाणिस्तथागतः सर्व[बुद्ध]("BC ° वज्र °।")मन्त्रसिद्धिविजृम्भितवज्रंनाम समाधिं समापद्येमां हीनसिद्धिंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
-कायवाक्चित्त[संसिद्धा](http://॑ "C ° शुद्धो, B ° शुद्धा।")बुद्धरूपधरप्रभाः।  
+कायवाक्चित्त[संसिद्धा]("C ° शुद्धो, B ° शुद्धा।")बुद्धरूपधरप्रभाः।  
 जाम्बूनदप्रभाकारा हीनसिद्धिसमाश्रिताः॥
 
 अन्तर्द्धानादिसंसिद्धौ भवेत् वज्रधरः प्रभुः।  
-यक्षराजादिसंसिद्धौ भवेत् विद्याधरः [प्रभुः](http://॑ "C omitsthis line.")॥
+यक्षराजादिसंसिद्धौ भवेत् विद्याधरः [प्रभुः]("C omitsthis line.")॥
 
  तत्रेमानि सर्ववज्रसिद्धिरूपगुह्यमन्त्रसिद्धीनि।
 
@@ -4123,12 +4049,10 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  2. BC add पातयेत् त्रिवज्रयोगेन बिम्बमेकं विचिन्तयेत्।त्रिकर्मवज्रयोगेन ध्यानं तस्य विचिन्तयेत्। मञ्जुवज्रःसमाधिस्थो मुकुटे क्रोधंप्रभावयेत्॥
 
-
-
  अथ भगवान् वज्रपाणिः सर्वतथागताधिपतिः सर्वतथागतकायवाक्चित्तवज्रविद्याव्रतसमादानचर्य्यंस्वकायवाक्चित्तवज्रभ्यो निश्चारयामास।
 
-कायवाक्चित्त[वज्राणां](http://॑ "A omits.")कायवाक्चित्तभावनम्।  
-स्वरूपेणैव तत् का[र्यमेव](http://॑ "C ° र्येणैव।") सिद्धिरवाप्यते।
+कायवाक्चित्त[वज्राणां]("A omits.")कायवाक्चित्तभावनम्।  
+स्वरूपेणैव तत् का[र्यमेव]("C ° र्येणैव।") सिद्धिरवाप्यते।
 
  तत्रेदं स्वकायवाक्चित्तविद्याव्रतम्।
 
@@ -4138,7 +4062,7 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 षोड़शाब्दिकां गृह्य सर्वालङ्कारभूषिताम्।  
 चारुवक्त्रां विशालाक्षींप्राप्य विद्याव्रतं चरेत्।  
 
-लोचनापद[सम्भोगी](http://॑ "BC ° गैः।")वज्रचिह्नं [तु](http://॑ "BC चिन्हैस्तु।") भावयेत्॥
+लोचनापद[सम्भोगी]("BC ° गैः।")वज्रचिह्नं [तु]("BC चिन्हैस्तु।") भावयेत्॥
 
 मुद्रामन्त्रविधानज्ञो मन्त्रतन्त्रसुशिक्षिताम्।  
 कारयेत् ताथागतीं भार्यां बुद्धबोधिप्रतिष्ठिताम्॥
@@ -4150,24 +4074,24 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 षण्मासेनैव तत्सर्वं प्राप्नुयात् नात्र संशयः॥ इति॥
 
 परस्वहरणंनित्यं घातनं च महाद्भुतम्।  
-रागवज्रपदं [गुप्तं](http://॑ "BCR भुंक्त") इदं संवरसंवृतम्॥
+रागवज्रपदं [गुप्तं]("BCR भुंक्त") इदं संवरसंवृतम्॥
 
-रागवज्राङ्कुशीं[भार्यां](http://॑ "C कार्यां।")मामकींगुणमेखलाम्।  
+रागवज्राङ्कुशीं[भार्यां]("C कार्यां।")मामकींगुणमेखलाम्।  
 वाग्वज्राग्रचित्तेभ्य इदं पूजयति सर्वथा॥
 
 स्वमुद्रां वाऽथवा चिन्तेत् ध्यानं त्र्यक्षरवज्रिणाम्।  
 
-**पञ्चबुद्धाश्च [सर्वज्ञाः](http://॑ "B पञ्चबुद्धाश्च सम्बुद्धाः, BC एवं बुद्धापि।")प्रीणन्तेनात्र संशयः॥**
+**पञ्चबुद्धाश्च [सर्वज्ञाः]("B पञ्चबुद्धाश्च सम्बुद्धाः, BC एवं बुद्धापि।")प्रीणन्तेनात्र संशयः॥**
 
-**[वने](http://॑ " C वनेषु।")भिक्षां भ्रमेन्नित्यं साधको दृढ़निश्चयः।  
+**[वने](" C वनेषु।")भिक्षां भ्रमेन्नित्यं साधको दृढ़निश्चयः।  
 ददन्ति भयसंत्रस्ता भोजनं दिव्यमण्डितम्।  
-अतिक्रमेत् य[दि](http://॑ "BC त्रि °।")वज्रात्मा नाशं वज्राक्षरं भवेत्॥**
+अतिक्रमेत् य[दि]("BC त्रि °।")वज्रात्मा नाशं वज्राक्षरं भवेत्॥**
 
 **सुरींनागींमहायक्षीमसुरीं मानुषीमपि।  
 प्राप्य विद्याव्रतं कार्यं त्रिवज्रज्ञानसेवितम्॥**
 
 **इदं तत् सर्वमन्त्राणां गुह्यं तत्त्वंमहानयम्।  
-त्रिवज्र[ज्ञान](http://॑ " C ° चक्र °।")सम्भूतं बुद्धबोधिप्रवेशकम्॥**
+त्रिवज्र[ज्ञान](" C ° चक्र °।")सम्भूतं बुद्धबोधिप्रवेशकम्॥**
 
  इत्याह भगवान् सर्वतथागतविद्याव्रतसमयतत्त्ववज्रः।
 
@@ -4176,22 +4100,22 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
  अथ भगवन्तः सर्वतथागताः पुनः समाजमागम्य भगवन्तंसर्वतथागतकायवाक्चित्तवज्रं तथागतं अनेन स्तोत्रराजेनाध्येषितवन्तः।
 
 अक्षोभ्यवज्र महाज्ञान वज्रधातु महाबुध।  
-त्रिमण्डल त्रिवज्राग्र घोष [वज्र](http://॑ "BC गुह्य।")नमोऽस्तु ते॥
+त्रिमण्डल त्रिवज्राग्र घोष [वज्र]("BC गुह्य।")नमोऽस्तु ते॥
 
-वैरोचन महा[शुद्ध](http://॑ " B शान्त।")वज्रशान्त महारत।  
+वैरोचन महा[शुद्ध](" B शान्त।")वज्रशान्त महारत।  
 प्रकृतिप्रभास्वरान् धर्मान् देश वज्र नमोऽस्तु ते॥
 
 रत्नराजसुगाम्भीर्य खवज्राकाशनिर्मल।  
 स्वभावशुद्धनिर्लेप कायवज्र नमोऽस्तु ते॥
 
-वज्रा[मित](http://॑ "B ° मृत।")महाराज निर्विकल्प खवज्रधृक्।  
+वज्रा[मित]("B ° मृत।")महाराज निर्विकल्प खवज्रधृक्।  
 रागपारमिताप्राप्त भाष वज्रनमोऽस्तु ते॥
 
-अमोघवज्र[संबुद्ध](http://॑ "BC अमोघसिद्धिवज्र।") सर्वाशापरिपूरक।  
+अमोघवज्र[संबुद्ध]("BC अमोघसिद्धिवज्र।") सर्वाशापरिपूरक।  
 शुद्धस्वभावसंभूत वज्रसत्त्व नमोऽस्तु ते॥
 
 एभिः स्तोत्रपदैः शान्तैःसर्वबुद्धप्रचोदितैः।  
-संस्तूयाद्वज्रसम्भो[गात्](http://॑ "R° गां।") सोऽपि [वज्र](http://॑ "B. ° बुद्ध °।")समो भवेत्॥
+संस्तूयाद्वज्रसम्भो[गात्]("R° गां।") सोऽपि [वज्र]("B. ° बुद्ध °।")समो भवेत्॥
 
 अथ वज्रधरः शास्ता सर्वबुद्धानुकम्पकः।  
 वज्रगुह्यपदं शुद्धं वाग्वज्रं समुदीरयत्॥
@@ -4201,7 +4125,7 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिरिदं सर्वबुद्धकायवज्रसमयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
-समयचतुष्टयं [रक्ष्यं](http://॑ "B रक्षेद °।")बुद्धैर्ज्ञानोदधिप्रभैः।  
+समयचतुष्टयं [रक्ष्यं]("B रक्षेद °।")बुद्धैर्ज्ञानोदधिप्रभैः।  
 महामांसं सदा भक्ष्यं इदं समयमुत्तमम्॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिरिदं सर्वबुद्धवाग्वज्रसमयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
@@ -4215,9 +4139,9 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 रुधिरं शुक्रसंयुक्तं सदा भक्ष्यंदृढव्रतैः॥
 
 कायवाक्चित्तवज्राणां समयोऽयं महाद्भुतः।  
-शाश्वतं सर्वबुद्धानां संरक्ष्यो[वज्रधारिभिः](http://॑ "BC ° चारिणैः।")॥
+शाश्वतं सर्वबुद्धानां संरक्ष्यो[वज्रधारिभिः]("BC ° चारिणैः।")॥
 
-[यश्चेमं](http://॑ "A यश्चर्म°।") समयं रक्षेद्वज्रसत्त्वो महाद्युतिः।  
+[यश्चेमं]("A यश्चर्म°।") समयं रक्षेद्वज्रसत्त्वो महाद्युतिः।  
 कायवाक्चित्तगतं तस्य बुद्धो भवति तत्क्षणात्॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः प्रत्येकबुद्धसमयवज्रंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
@@ -4225,26 +4149,26 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 देशना कायिकीतेषां कायवज्रप्रतिष्ठिता।  
 सत्त्वावतारणंशीलसमयः परमशाश्वतः।
 
- अथ वज्रपाणिः सर्वतथागताधिपतिः श्रावक[शिक्षा](http://॑ "B ब्रह्म,R शिष्य °।")समयंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ वज्रपाणिः सर्वतथागताधिपतिः श्रावक[शिक्षा]("B ब्रह्म,R शिष्य °।")समयंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
-दशकुशलान् कर्मपथान् कुर्वन्ति ज्ञान[वर्जिताः](http://॑ "B ° वज्रिणः।")।  
+दशकुशलान् कर्मपथान् कुर्वन्ति ज्ञान[वर्जिताः]("B ° वज्रिणः।")।  
 हीनाधिमुक्तिकास्मर्वेसमयोऽयं महाद्भुतः॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिब्रह्मसमयं स्वकायवाक्चित्तेभ्यो निश्चारयामास॥
 
 मोहमात्रेण यत्कर्म करोति भयभैरवम्।  
-बुद्धबोधिप्रणेतारं भव[ते](http://॑ "C ° ने ।") काय[वज्रता](http://॑ "B ° वर्जिता।")॥
+बुद्धबोधिप्रणेतारं भव[ते]("C ° ने ।") काय[वज्रता]("B ° वर्जिता।")॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः रुद्रसमयं स्वकायवाक्चित्तेभ्यो निश्चारयामास॥
 
 त्रैधातुकस्थितां सर्वामङ्गनां सुरतविह्वलाम्[^156]।  
-कामयेत् [वि](http://॑ "C त्रि°।")विधैर्भावैः समयः परमाद्भुतः॥
+कामयेत् [वि]("C त्रि°।")विधैर्भावैः समयः परमाद्भुतः॥
 
 [^156]: "BC त्रिवज्रसम्भवाम्।"
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः विष्णुसमयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
-यावन्तः [सत्त्व](http://॑ "A सर्व °।")सम्भूताः त्रि[वज्रा](http://॑ "BC ° काया °। ")भेद्यसंस्थिताः।  
+यावन्तः [सत्त्व]("A सर्व °।")सम्भूताः त्रि[वज्रा]("BC ° काया °। ")भेद्यसंस्थिताः।  
 मारयेत् ध्यानवज्रेण वज्रधातुमपि स्वयम्॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः त्रिवज्रसमयं स्वकायवाक्चित्तेभ्यो निश्चारयामास॥
@@ -4255,7 +4179,7 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
  अथ वज्रपाणिः सर्वतथागताधिपतिः सर्वयक्षयक्षिणीसमयंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
 अमृक्पिशिताहारा नित्यं कामपराः स्त्रियः।  
-आराधयेत् महावज्रसमयै[रेभिर्द](http://॑ "A° रतिदु ° ।")ुरासदैः॥
+आराधयेत् महावज्रसमयै[रेभिर्द]("A° रतिदु ° ।")ुरासदैः॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः सर्वभुजगेन्द्रराज्ञीसमयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
@@ -4266,25 +4190,25 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  अथवज्रपाणिः सर्वतथागताधिपतिरसुरकन्यासमयंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
-क्रूरा मानभरा[^158]क्रान्ता गन्धपुष्पोपभोग[जाः](http://॑ "C ° काः।")।  
-समयो वज्र[पात्रालिः](http://॑ " B ° पाताले, C योषितां।")दुर्दान्ता [वज्र](http://॑ "A ° श्चाति °।")भैरवाः॥
+क्रूरा मानभरा[^158]क्रान्ता गन्धपुष्पोपभोग[जाः]("C ° काः।")।  
+समयो वज्र[पात्रालिः](" B ° पाताले, C योषितां।")दुर्दान्ता [वज्र]("A ° श्चाति °।")भैरवाः॥
 
 [^158]: "C मारसमा,° B माररागवरा °।"
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः राक्षसस्त्रीसमयंस्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास॥
 
 कपालास्थिधूपतैलवसया प्रीणनं महत्।  
-समयः सर्वभूतानां [पवित्रो](http://॑ "BC ° वज्र °।")ऽयं महार्थकृत्॥
+समयः सर्वभूतानां [पवित्रो]("BC ° वज्र °।")ऽयं महार्थकृत्॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः सर्ववज्रडाकिनीसमयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
-विण्मूत्ररुधिरं [भक्षेत्](http://॑ "C भक्ष्यं।")मद्यादींश्च पिबेत् सदा।  
+विण्मूत्ररुधिरं [भक्षेत्]("C भक्ष्यं।")मद्यादींश्च पिबेत् सदा।  
 वज्रडाकिनीयोगेन मारयेत् पदलक्षणैः॥
 
 स्वभावेनैव संभूता विचरन्ति त्रिधातुके।  
-आचरेत् समयं कृत्स्नं सर्व[सत्त्व](http://॑ "A° सिद्धि °।")हितैषिणा॥
+आचरेत् समयं कृत्स्नं सर्व[सत्त्व]("A° सिद्धि °।")हितैषिणा॥
 
- ॥सर्वत्रै[धातुक](http://॑ "BC add वज्रं।")समयसमवसरणोनाम समाधिः॥
+ ॥सर्वत्रै[धातुक]("BC add वज्रं।")समयसमवसरणोनाम समाधिः॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः कायसिद्धिसमयवज्रंकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
@@ -4293,52 +4217,52 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिर्वाक्सिद्धिसमयवज्रंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
-वाक्यकर्म[कृतं](http://॑ "AC ° पदं।") कृत्स्नं त्रैलोक्यामलमण्डलम्।  
-वाक्सिद्धिपदरम्योऽयं [समयो](http://॑ " A ° योऽपि, R ° योऽयं।") दुरतिक्रमः॥
+वाक्यकर्म[कृतं]("AC ° पदं।") कृत्स्नं त्रैलोक्यामलमण्डलम्।  
+वाक्सिद्धिपदरम्योऽयं [समयो](" A ° योऽपि, R ° योऽयं।") दुरतिक्रमः॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः चित्तसिद्धिवज्रसमयंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
 मनोवज्रमयं सर्वं भावयेत् दृढ़वज्रधृक्।  
 एषो हिसमयः प्रोक्तः त्रिवज्राभेद्यवज्रिणाम्॥
 
- इत्याह भगवान् [समन्तभद्रो](http://॑ "A समन्त्रसुन्दरो।") वज्रसत्त्वः।
+ इत्याह भगवान् [समन्तभद्रो]("A समन्त्रसुन्दरो।") वज्रसत्त्वः।
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः सर्वमन्त्रवज्रसारसमयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
-बुद्धांश्च बोधिसत्त्वांश्च प्रत्येकश्राव[कांस्तथा](http://॑ "For this line BCread न बुद्धान् बोधिसत्त्वांश्च प्रत्येकजिनश्रावकान्।")।  
-कायवाक्चित्तसंयोगै[र्वन्द](http://॑ "BC ° र्दर्श °।")यन् नाशमाप्नुयात्॥
+बुद्धांश्च बोधिसत्त्वांश्च प्रत्येकश्राव[कांस्तथा]("For this line BCread न बुद्धान् बोधिसत्त्वांश्च प्रत्येकजिनश्रावकान्।")।  
+कायवाक्चित्तसंयोगै[र्वन्द]("BC ° र्दर्श °।")यन् नाशमाप्नुयात्॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः सर्वतथागतकायवाक्चित्तवज्रध्यानसमयं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास॥
 
 वज्रसत्त्वस्य सर्वत्र कायवाक्चित्तमण्डले।  
 ध्यानं त्रिवज्रयोगेन ध्यातव्यं मन्त्रजापिना॥
 
- [अथ](http://॑ " C omits from here to समयो वज्रसम्भवःbelow. ") वज्रपाणिः सर्वतथागताधिपतिः सर्वमन्त्रवज्रसाधनसमयसम्बरं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास॥
+ [अथ](" C omits from here to समयो वज्रसम्भवःbelow. ") वज्रपाणिः सर्वतथागताधिपतिः सर्वमन्त्रवज्रसाधनसमयसम्बरं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास॥
 
 सत्त्वधातुं समासेन ध्यानवज्रेण चोदयेत्।  
 त्रिवज्रवन्दनाग्राग्र्यःसमयो वज्रसम्भवः॥
 
- अथ वज्रपाणिः सर्वतथागताधिपतिः [सेवा](http://॑ "A सर्व °।")साधनोपसाधनमहासाधन[^159]समय[सम्बरं](http://॑ "BC ° सम्भवं।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
+ अथ वज्रपाणिः सर्वतथागताधिपतिः [सेवा]("A सर्व °।")साधनोपसाधनमहासाधन[^159]समय[सम्बरं]("BC ° सम्भवं।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
 [^159]: "C omits ° महासाधन°।"
 
-खधातुं विण्मूत्र[वज्रेण](http://॑ "C योगेन। ")परिपूर्णं विचिन्तयेत्।  
+खधातुं विण्मूत्र[वज्रेण]("C योगेन। ")परिपूर्णं विचिन्तयेत्।  
 दद्यात् त्रियध्वबुद्धेभ्यःसमयः परमशाश्वतः॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः सर्ववज्रान्तर्धानसमयं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास॥
 
-कामयेत् प्रतिदिनं [वज्री](http://॑ "BCमन्त्रो।")चतुःसन्ध्यंयथोत्तमम्।  
-द्रव्यं [चोप](http://॑ "B वापि, C चापि।")हरेत् नित्यं समयो वज्रपूरकः॥
+कामयेत् प्रतिदिनं [वज्री]("BCमन्त्रो।")चतुःसन्ध्यंयथोत्तमम्।  
+द्रव्यं [चोप]("B वापि, C चापि।")हरेत् नित्यं समयो वज्रपूरकः॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः खविविद्याधरसमयंस्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास॥
 
 कायवाक्चित्तवज्राणांमुकुटे ध्यानं विचिन्तयेत्।  
-त्रिवज्रसमयैः सर्वैः क्रु[द्धै](http://॑ " BC ° रैः।")र्जेतुं न शक्यते॥
+त्रिवज्रसमयैः सर्वैः क्रु[द्धै](" BC ° रैः।")र्जेतुं न शक्यते॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिःसर्वमन्त्रधरादिकर्मिकसमयं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास॥
 
-[भ](http://॑ " A भो °।")जने कायवज्रस्य बहिर्वज्रधरस्य च।  
-[वज्रधर्मैः](http://॑ "B धर्मवज्रं।")सदा [कार्या](http://॑ "B कार्यं।")सूत्रोद्घाटविधिक्रिया॥
+[भ](" A भो °।")जने कायवज्रस्य बहिर्वज्रधरस्य च।  
+[वज्रधर्मैः]("B धर्मवज्रं।")सदा [कार्या]("B कार्यं।")सूत्रोद्घाटविधिक्रिया॥
 
  इत्याह भगवान् स्वभावशुद्धवज्रः।
 
@@ -4346,29 +4270,29 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  अथ खल्वनभिलाप्यानभिलाप्यबुद्धक्षेत्रसुमेरुपरमाणुरजःसमा बोधिसत्त्वा महासत्त्वाः सर्वतथागतान् प्रणिपत्यैवमाहुः। किमयं भगवान्सर्वतथागताधिपतिर्वज्रधरः सर्वतथागतबोधिसत्त्वपर्षन्मण्डलमध्येतूष्णीम्भावेनाधिवासयति।
 
- अथ भगवान सर्वतथागताधिपतिस्तान् सर्वबोधिसत्त्वानेवमाह। कायवाक्चित्तवज्रानुपलब्धिस्वभावाक्षरपदं कुलपुत्रा अयं सर्वतथागतकायवाक्चित्तवज्राधिपतिः निःस्वभावाक्षरपदं विचार्य [तूष्णीं](http://॑ "B तूष्णीभावेन।")व्यवस्थितः॥
+ अथ भगवान सर्वतथागताधिपतिस्तान् सर्वबोधिसत्त्वानेवमाह। कायवाक्चित्तवज्रानुपलब्धिस्वभावाक्षरपदं कुलपुत्रा अयं सर्वतथागतकायवाक्चित्तवज्राधिपतिः निःस्वभावाक्षरपदं विचार्य [तूष्णीं]("B तूष्णीभावेन।")व्यवस्थितः॥
 
  अस्य च कुलपुत्राः सर्वतथागताधिपतेः चिन्तया एतदभूत्॥
 
 कायाक्षरमनुत्पन्नं वाक्चित्तपदलक्षषम्।  
 स्ववज्रकल्पनाभूतं मिथ्यासंग्रहसंग्रहम्॥ इति॥
 
- अथ मञ्जुश्रीप्रमुखा महाबोधिसत्त्वाः तान्सर्वतथागतानेवमाहुः। मा भगवन्तः सर्वतथागता वाग्वज्रपदं मिथ्यासमुदयेन कल्पयथ। तत्कस्मात् हेतोः। सर्वतथागतवज्रधातुष्ववचरित[^160]गतानुगतिकोऽयं सर्वतथागतकायवाक्चित्तवज्राधिपतिः। तत्कस्मात् हेतोः। सन्ति ब्रह्माद्या महाबोधिसत्त्वा महाभिज्ञाज्ञानसंप्राप्ताः सर्वधर्मलक्षणस्वभावमजानन्तएवं विकल्पयन्ति॥ किमयं सर्वतथागतमहावज्रात्मा सर्वतथागतधर्मवज्रतत्त्व[मनभि](http://॑ "B° मवि °।")ज्ञाय गुह्याक्षरं निर्दिशतीति।
+ अथ मञ्जुश्रीप्रमुखा महाबोधिसत्त्वाः तान्सर्वतथागतानेवमाहुः। मा भगवन्तः सर्वतथागता वाग्वज्रपदं मिथ्यासमुदयेन कल्पयथ। तत्कस्मात् हेतोः। सर्वतथागतवज्रधातुष्ववचरित[^160]गतानुगतिकोऽयं सर्वतथागतकायवाक्चित्तवज्राधिपतिः। तत्कस्मात् हेतोः। सन्ति ब्रह्माद्या महाबोधिसत्त्वा महाभिज्ञाज्ञानसंप्राप्ताः सर्वधर्मलक्षणस्वभावमजानन्तएवं विकल्पयन्ति॥ किमयं सर्वतथागतमहावज्रात्मा सर्वतथागतधर्मवज्रतत्त्व[मनभि]("B° मवि °।")ज्ञाय गुह्याक्षरं निर्दिशतीति।
 
 [^160]: "B स्वभावे, C स्वभाव°।"
 
- अथ भगवन्तः सर्वतथागतास्तान् बोधिसत्त्वानेवमाहुः।तिष्ठन्तु तावत् भवन्तो महाबोधिसत्त्वा वयमपि सर्वतथागतकायवाक्चित्तवज्रगुह्याक्षरं प्राप्य कायवाक्चित्तबोधिं नजानीमहे। तत्कस्मात् हेतोः। निःस्वभावाक्षरसंभूत अनुत्पादवज्राभिसंबोधिर्यावन्तः कुलपुत्राः सत्त्वाः सत्त्वसंग्रहेणसंगृहीताः सर्वे ते बोधिप्रतिष्ठिताः [बुद्ध](http://॑ "B ° क्रुद्ध °।")वज्राः। तत्कस्मात् हेतोः।कायवाक्चित्तवज्रज्ञानप्राप्ताबतामी सत्त्वास्त्रिकायवज्र[धर्मता](http://॑ "B° वचना,°C° वरणा °।")मुपादाय।
+ अथ भगवन्तः सर्वतथागतास्तान् बोधिसत्त्वानेवमाहुः।तिष्ठन्तु तावत् भवन्तो महाबोधिसत्त्वा वयमपि सर्वतथागतकायवाक्चित्तवज्रगुह्याक्षरं प्राप्य कायवाक्चित्तबोधिं नजानीमहे। तत्कस्मात् हेतोः। निःस्वभावाक्षरसंभूत अनुत्पादवज्राभिसंबोधिर्यावन्तः कुलपुत्राः सत्त्वाः सत्त्वसंग्रहेणसंगृहीताः सर्वे ते बोधिप्रतिष्ठिताः [बुद्ध]("B ° क्रुद्ध °।")वज्राः। तत्कस्मात् हेतोः।कायवाक्चित्तवज्रज्ञानप्राप्ताबतामी सत्त्वास्त्रिकायवज्र[धर्मता]("B° वचना,°C° वरणा °।")मुपादाय।
 
  अथ वज्रपाणिः सर्वतथागतकायवाक्चित्तवज्राधिपतिस्तान्सर्वतथागतबोधिसत्त्वांश्चैवमाह॥
 
 स्वभावशुद्धनैरात्म्ये धर्मधातुनिरालये।  
 कल्पना वज्रसंभूता गीयते न च गीयते॥
 
- अथ भगवन्तः सर्वतथागता भगवन्तं महावज्रपाणिं सर्वतथा[गत](http://॑ " R सर्वत्र।")स्वामिनं नमस्कृत्यैवमाहुः। कुत इमानि भगवन् सर्वतथागतकायवाक्चित्तवज्रसिद्धीनि समवसरन्ति, क्व वा प्रतिष्ठितानि।
+ अथ भगवन्तः सर्वतथागता भगवन्तं महावज्रपाणिं सर्वतथा[गत](" R सर्वत्र।")स्वामिनं नमस्कृत्यैवमाहुः। कुत इमानि भगवन् सर्वतथागतकायवाक्चित्तवज्रसिद्धीनि समवसरन्ति, क्व वा प्रतिष्ठितानि।
 
- सर्वतथागताधिपतिर्वज्रधरं प्राह। स्वकायवाक्चित्त[वज्र](http://॑ "B वज्राधिपति।")समतासन्तानवज्रप्रतिष्ठितानि भगवन्तः सर्वतथागताःसर्वसिद्धीनि सर्ववज्रज्ञानानि सर्वं यावत् त्रैधातुकमिति।
+ सर्वतथागताधिपतिर्वज्रधरं प्राह। स्वकायवाक्चित्त[वज्र]("B वज्राधिपति।")समतासन्तानवज्रप्रतिष्ठितानि भगवन्तः सर्वतथागताःसर्वसिद्धीनि सर्ववज्रज्ञानानि सर्वं यावत् त्रैधातुकमिति।
 
- सर्वतथागताः प्रोचुः। सर्वतथागतकायवाक्चित्त[वज्र](http://॑ "BC omit° वज्र ° ।")सिद्धीनिसर्वंत्रैधातुकं च भगवन् कुत्र स्थितम्। सर्वतथा[गत](http://॑ "A adds वज्र°।")ज्ञानाधिपतिः प्राह। आकाशधातुप्रतिष्ठितानि भगवन्तः सर्वतथागताःसर्वतथागतकायवाक्चित्तवज्रसिद्धीनि सर्वं त्रैधातुकं च सर्वतथागताः प्रोचुः।आकाशं [भगवन्](http://॑ " AR omit.") कुत्र स्थितम्।वज्रधरः प्रोचुः। न [क्वचित्](http://॑ "A omits this sentence.")।
+ सर्वतथागताः प्रोचुः। सर्वतथागतकायवाक्चित्त[वज्र]("BC omit° वज्र ° ।")सिद्धीनिसर्वंत्रैधातुकं च भगवन् कुत्र स्थितम्। सर्वतथा[गत]("A adds वज्र°।")ज्ञानाधिपतिः प्राह। आकाशधातुप्रतिष्ठितानि भगवन्तः सर्वतथागताःसर्वतथागतकायवाक्चित्तवज्रसिद्धीनि सर्वं त्रैधातुकं च सर्वतथागताः प्रोचुः।आकाशं [भगवन्](" AR omit.") कुत्र स्थितम्।वज्रधरः प्रोचुः। न [क्वचित्]("A omits this sentence.")।
 
  अथ ते सर्वतथागता बोधिसत्त्वाआश्चर्यप्राप्ता अद्भुतप्राप्ताइमं धर्मघोषमकार्षुः।
 
@@ -4385,12 +4309,12 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 त्रिमुखं त्रिकायसम्भूतं विस्फुरन्तं विचिन्तयेत्॥
 
 वज्रचक्रधरं ध्यात्वा शीघ्रं बोधिमवाप्नुयात्।  
-[कुलभेदन](http://॑ " B ° धर्मेण।")सर्वेषामिदं गुह्यं विचिन्तयेत्।  
-अन्यथा भावना तेषां सिद्धिर्भवति [नो](http://॑ "Mss. न चो °।")त्तमा॥
+[कुलभेदन](" B ° धर्मेण।")सर्वेषामिदं गुह्यं विचिन्तयेत्।  
+अन्यथा भावना तेषां सिद्धिर्भवति [नो]("Mss. न चो °।")त्तमा॥
 
  इत्याह च भगवान् विद्यापुरुषवज्रगुह्यः॥
 
-[धातु](http://॑ "AR वान्त °।")भूतां महाराज्ञीं प्रीणयन्तीं विचिन्तयेत्।  
+[धातु]("AR वान्त °।")भूतां महाराज्ञीं प्रीणयन्तीं विचिन्तयेत्।  
 
 एवं तुष्यन्ति ते वृषभाः वज्रकायत्रिलक्षणाः[^161]॥
 
@@ -4406,13 +4330,13 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वसाधककायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
-हस्तमुद्रां न बध्नीयात् यदीच्छेत् [सिद्धि](http://॑ "BC ° बोधि।")मुत्तमाम्।  
-समयः सर्वमन्त्राणां नातिक्रम्यो [जिनै](http://॑ "BC बुधैः।")रपि॥
+हस्तमुद्रां न बध्नीयात् यदीच्छेत् [सिद्धि]("BC ° बोधि।")मुत्तमाम्।  
+समयः सर्वमन्त्राणां नातिक्रम्यो [जिनै]("BC बुधैः।")रपि॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वबुद्धसमयंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
 विण्मूत्रशुक्ररक्तानां जुगुप्सां नैव कारयेत्।  
-भक्षयेत् विधिना नित्यमिदं गुह्यं त्रि[वज्र](http://॑ "B°गुह्य°।")जम्॥
+भक्षयेत् विधिना नित्यमिदं गुह्यं त्रि[वज्र]("B°गुह्य°।")जम्॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि वाग्वज्रसमयंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
@@ -4421,23 +4345,23 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि चित्तवज्रसमयं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास॥
 
-यावन्तः सर्वसमयास्त्रिवज्र[काय](http://॑ "BC ° ज्ञान °।")संस्थिताः।  
-प्रीणय[न्ति](http://॑ "A ° न्ते।")वज्रसमयैः चित्तवज्रंन जुगुप्सयेत्॥
+यावन्तः सर्वसमयास्त्रिवज्र[काय]("BC ° ज्ञान °।")संस्थिताः।  
+प्रीणय[न्ति]("A ° न्ते।")वज्रसमयैः चित्तवज्रंन जुगुप्सयेत्॥
 
- इत्याह भगवान् त्रिवज्र[समयः](http://॑ "B adds वज्रः।")। अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वतथागतगुह्यवज्रं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ इत्याह भगवान् त्रिवज्र[समयः]("B adds वज्रः।")। अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वतथागतगुह्यवज्रं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
 पञ्चस्कंधाः समासेन पञ्चबुद्धाः प्रकीर्तिताः।  
 वज्र-आयतनान्येव बोधिसत्त्वाग्र्यमण्डलमिति॥
 
- अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि त्रैधातुक[समुच्चय](http://॑ "C ° समय °।")[वज्रं](http://॑ "BC चक्रं।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि त्रैधातुक[समुच्चय]("C ° समय °।")[वज्रं]("BC चक्रं।")स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
 पृथिवीलोचना ख्याता अब्धातुर्मामकीस्मृता।  
-पाण्डराख्या [भवेत्तेजो](http://॑ "ABR तेजोधातुस्तु पाण्डराख्याता।")वायुस्तारा प्रकीर्त्तिता।  
+पाण्डराख्या [भवेत्तेजो]("ABR तेजोधातुस्तु पाण्डराख्याता।")वायुस्तारा प्रकीर्त्तिता।  
 खवज्रधातुसमयः सैव वज्रधरः स्मृतः॥
 
  इत्याह भगवान् सर्वतथागतभुवनेश्वरो महावज्रसत्त्वः।अथ भगवान् सर्वतथागतकायवाक्चित्तवज्रस्तथागतः सर्वतथागतसमताविहारं नाम समाधिं समापन्नः। समापद्य च सर्वतथागतपर्षन्मण्डलमवलोक्य तूष्णीमभूत्।
 
- अथ खलु मैत्रेयो बोधिसत्त्वोमहासत्त्वःसर्वतथागतान्प्रणिपत्यैवमाह। सर्वतथागतकायवाक्चित्तवज्रगुह्य[^162]समाजाभिषिक्तो[^163]भगवान् वज्राचार्यः सर्वतथागतैः सर्वबोधिसत्त्वैश्चकथं द्रष्टव्यः। सर्वतथागताः प्राहुः। बोधिचित्तो वज्र इवकुलपुत्र सर्वतथागतैः सर्वबोधिसत्त्वैश्च द्रष्टव्यः। तत्कस्मात्हेतोः। बोधिचित्तश्चाचार्यश्चाद्वयमेतदद्वैधीकारम्। [यावत्](http://॑ "BC एवं।")कुलपुत्र संक्षेपेण कथयामः। यावन्तो दशदिग्लोकधातुषु बुद्धाश्च बोधिसत्त्वाश्च तिष्ठन्ति ध्रियन्ति यापयन्ति च, सर्वे ते त्रिष्काल[मागत्य](http://॑ "B ° मालव्य।")तमाचार्यं सर्वतथागतपूजाभिः संपूज्य स्वस्वबुद्धक्षेत्रं पुनरपि प्रक्रामन्ति, एवं च वाग्वज्राक्षरपदं निश्चारयन्ति।पितास्माकं सर्वतथागतानां [मातास्माकं](http://॑ " C यावच्छास्तास्माकं।") सर्वतथागतानाम्। तद्यथापि नाम कुलपुत्र यावन्तो [बुद्धा](http://॑ "AR omit.")[भगवन्तो](http://॑ "AR omit.")दशसुदिक्षुविहरन्ति तेषां च बुद्धानां भगवतां यावत् कायवाक्चित्तवज्रजः पुण्यस्कन्धः स च पुण्यस्कन्ध आचार्य[स्यैव](http://॑ "A ° क °।")रोमकूपाग्रविवरे विशिष्यते। तत्कस्य हेतोः। बोधिचित्तंकूलपुत्र सर्वबुद्धज्ञानानां[^164] सारभूतमुत्यत्तिभूतं यावत् सर्वज्ञज्ञानाकरमिति।
+ अथ खलु मैत्रेयो बोधिसत्त्वोमहासत्त्वःसर्वतथागतान्प्रणिपत्यैवमाह। सर्वतथागतकायवाक्चित्तवज्रगुह्य[^162]समाजाभिषिक्तो[^163]भगवान् वज्राचार्यः सर्वतथागतैः सर्वबोधिसत्त्वैश्चकथं द्रष्टव्यः। सर्वतथागताः प्राहुः। बोधिचित्तो वज्र इवकुलपुत्र सर्वतथागतैः सर्वबोधिसत्त्वैश्च द्रष्टव्यः। तत्कस्मात्हेतोः। बोधिचित्तश्चाचार्यश्चाद्वयमेतदद्वैधीकारम्। [यावत्]("BC एवं।")कुलपुत्र संक्षेपेण कथयामः। यावन्तो दशदिग्लोकधातुषु बुद्धाश्च बोधिसत्त्वाश्च तिष्ठन्ति ध्रियन्ति यापयन्ति च, सर्वे ते त्रिष्काल[मागत्य]("B ° मालव्य।")तमाचार्यं सर्वतथागतपूजाभिः संपूज्य स्वस्वबुद्धक्षेत्रं पुनरपि प्रक्रामन्ति, एवं च वाग्वज्राक्षरपदं निश्चारयन्ति।पितास्माकं सर्वतथागतानां [मातास्माकं](" C यावच्छास्तास्माकं।") सर्वतथागतानाम्। तद्यथापि नाम कुलपुत्र यावन्तो [बुद्धा]("AR omit.")[भगवन्तो]("AR omit.")दशसुदिक्षुविहरन्ति तेषां च बुद्धानां भगवतां यावत् कायवाक्चित्तवज्रजः पुण्यस्कन्धः स च पुण्यस्कन्ध आचार्य[स्यैव]("A ° क °।")रोमकूपाग्रविवरे विशिष्यते। तत्कस्य हेतोः। बोधिचित्तंकूलपुत्र सर्वबुद्धज्ञानानां[^164] सारभूतमुत्यत्तिभूतं यावत् सर्वज्ञज्ञानाकरमिति।
 
 [^162]: "A adds रहस्यं °।"
 
@@ -4445,20 +4369,20 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
 [^164]: " A ° बुद्धानां।"
 
- अथ खलु मैत्रेयो बोधिसत्वो महासत्त्वोभीतः [सन्त्रस्त](http://॑ "A सन्तप्त °।")मानसस्तूष्णीमभूत्।
+ अथ खलु मैत्रेयो बोधिसत्वो महासत्त्वोभीतः [सन्त्रस्त]("A सन्तप्त °।")मानसस्तूष्णीमभूत्।
 
- अथ खलु अक्षोभ्यस्तथागतो रत्नकेतुस्तथागतोऽमितायुस्तथागतोऽमोघसिद्धिस्तथागतो वैरोचनस्तथागतः [सर्वधर्म](http://॑ "BC सर्ववज्जधरः।")सिद्धिसमयालम्बनवज्रं नाम समाधिं समापद्यैतान् सर्वबोधिसत्वानामन्त्रयते स्म। शृण्वन्तु भगवन्तः सर्वबोधिसत्त्वाः [येऽपि](http://॑ "A पथि।") ते दशसुदिक्षु बुद्धाभगवन्तस्त्र्यध्ववज्रज्ञानसंभूतास्तेऽपि [सर्वे](http://॑ "BC omit.")गुह्यसमाजाभिषिक्तं आचार्यमागत्य पूजयन्ति नमस्कुर्वन्ति च।तत्कस्मात् हेतोः। शास्ता सर्वबुद्धबोधिसत्त्वानां सर्वतथागतानांच स एव भगवान् महावज्रधरः सर्वबुद्धज्ञानाधिपतिरिति।
+ अथ खलु अक्षोभ्यस्तथागतो रत्नकेतुस्तथागतोऽमितायुस्तथागतोऽमोघसिद्धिस्तथागतो वैरोचनस्तथागतः [सर्वधर्म]("BC सर्ववज्जधरः।")सिद्धिसमयालम्बनवज्रं नाम समाधिं समापद्यैतान् सर्वबोधिसत्वानामन्त्रयते स्म। शृण्वन्तु भगवन्तः सर्वबोधिसत्त्वाः [येऽपि]("A पथि।") ते दशसुदिक्षु बुद्धाभगवन्तस्त्र्यध्ववज्रज्ञानसंभूतास्तेऽपि [सर्वे]("BC omit.")गुह्यसमाजाभिषिक्तं आचार्यमागत्य पूजयन्ति नमस्कुर्वन्ति च।तत्कस्मात् हेतोः। शास्ता सर्वबुद्धबोधिसत्त्वानां सर्वतथागतानांच स एव भगवान् महावज्रधरः सर्वबुद्धज्ञानाधिपतिरिति।
 
- [अथ](http://॑ "B omits the whole paragraph.") ते [सर्वे](http://॑ "A omits.") महाबोधिसत्त्वाःतान् सर्वतथागतानेवमाहुः।सर्वतथागतकायवाक्चित्तसिद्धीनि भगवन्तः कुत्रस्थितानि क्व वा संभूतानि। सर्वतथागताः प्राहुः। त्रिकायगुह्यं सर्वतथागत[काय](http://॑ "C त्रिगुह्यकाय°।")वाक्चित्तं वज्राचार्यस्य कायवाक्चित्तवज्रे स्थितम्। महाबोधिसत्त्वाआहुः।कायवाक्चित्तगुह्यवज्रंकुत्र स्थितम्। सर्वतथागताः प्राहुः। आकाशेस्थितम्। महाबोधिसत्त्वाः प्राहुः।आकाशं कुत्रस्थितम्।सर्वतथागताः प्राहुः। न क्वचित्।अथ ते महाबोधिसत्त्वाआश्चर्य्यप्राप्ता अद्भुतप्राप्ताः तूष्णींस्थिता अभूवन्।
+ [अथ]("B omits the whole paragraph.") ते [सर्वे]("A omits.") महाबोधिसत्त्वाःतान् सर्वतथागतानेवमाहुः।सर्वतथागतकायवाक्चित्तसिद्धीनि भगवन्तः कुत्रस्थितानि क्व वा संभूतानि। सर्वतथागताः प्राहुः। त्रिकायगुह्यं सर्वतथागत[काय]("C त्रिगुह्यकाय°।")वाक्चित्तं वज्राचार्यस्य कायवाक्चित्तवज्रे स्थितम्। महाबोधिसत्त्वाआहुः।कायवाक्चित्तगुह्यवज्रंकुत्र स्थितम्। सर्वतथागताः प्राहुः। आकाशेस्थितम्। महाबोधिसत्त्वाः प्राहुः।आकाशं कुत्रस्थितम्।सर्वतथागताः प्राहुः। न क्वचित्।अथ ते महाबोधिसत्त्वाआश्चर्य्यप्राप्ता अद्भुतप्राप्ताः तूष्णींस्थिता अभूवन्।
 
- अथ भगवान् वज्रपाणिस्तथागतः सर्वतथागतकाय[वाक्चित्त](http://॑ "AR adds वज्जधर।")गुह्यवज्रसमाधेर्व्युत्थाय सर्वतथागतान् सर्वबोधिसत्त्वांश्चामन्त्रयते स्म।शृण्वन्तु भगवन्तः सर्वतथागताः सर्वबोधिसत्त्वाश्च सर्वतथा[गत](http://॑ " A ° तो।")बोधिसत्त्वसंभववज्रंनाम महामण्डलम्।
+ अथ भगवान् वज्रपाणिस्तथागतः सर्वतथागतकाय[वाक्चित्त]("AR adds वज्जधर।")गुह्यवज्रसमाधेर्व्युत्थाय सर्वतथागतान् सर्वबोधिसत्त्वांश्चामन्त्रयते स्म।शृण्वन्तु भगवन्तः सर्वतथागताः सर्वबोधिसत्त्वाश्च सर्वतथा[गत](" A ° तो।")बोधिसत्त्वसंभववज्रंनाम महामण्डलम्।
 
  अथ खलु सर्वतथागता बोधिसत्त्वाश्च कृताञ्जलिपुटाभगवन्तं वज्रधरमेवमाहुः। देशयतु भगवान् देशयतु सुगतोमहामण्डलमिति।
 
 खधातुमध्यगतं चिन्तेत् चतुरस्रं सुशोभनम्।  
 बुद्धमण्डलयोगेन ध्यानवज्रंप्रचोदयेत्॥
 
-वज्रमण्डलध्यानेन आसनं सर्व[चक्रि](http://॑ "BC वज्रि°।")णाम्।  
+वज्रमण्डलध्यानेन आसनं सर्व[चक्रि]("BC वज्रि°।")णाम्।  
 पूजां तेनैव विधिना कुर्वीत मतिमान् सदा॥
 
 आचार्यं हृदये ध्यात्वा अभिषेकं समारभेत्।  
@@ -4470,21 +4394,21 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
 ॥सर्वबुद्धबोधिसत्त्वसमयचक्रं नाम ध्यानमण्डलम्॥
 
- अथ खलु वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वतथागत[वज्रयोगं](http://॑ "AR योगवज्र°। ")नाम कायवाक्चित्त[गुह्यं](http://॑ "BC समयवज्र°।") स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ खलु वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वतथागत[वज्रयोगं]("AR योगवज्र°। ")नाम कायवाक्चित्त[गुह्यं]("BC समयवज्र°।") स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
-॥हूँ[ह्रीः](http://॑ "R ह्रीँ।")खँ॥
+॥हूँ[ह्रीः]("R ह्रीँ।")खँ॥
 
 खधातुमध्यगतं चिन्तेदस्थिमांसादिमण्डलम्।  
-त्रिकायवाक्चित्तहृदये वज्रसत्त्वं[वि](http://॑ "BC°सत्त्वस्य।")भावयेत्॥
+त्रिकायवाक्चित्तहृदये वज्रसत्त्वं[वि]("BC°सत्त्वस्य।")भावयेत्॥
 
 क्रूरं विकृतं संक्रुद्धं नीलोत्पलसमप्रभम्।  
-चतुर्भुजं विधानेन [कपाल](http://॑ "A कर °।")हस्तं विभावयेत्॥
+चतुर्भुजं विधानेन [कपाल]("A कर °।")हस्तं विभावयेत्॥
 
 पञ्चरश्मिप्रभोद्योतां स्वजिह्वां भावयेत् व्रती।  
 ध्यानमन्त्रप्रयोगेण रुधिराकर्षणमुत्तमम्॥
 
-त्रिशूलं वज्रसमयं कीलकं दारुणो[त्तमम्](http://॑ "BC ° मे।")।  
-पीड़येत् वज्रयोगेन [बुद्धकाय](http://॑ "B ° र्यं।")मपि स्वयम्॥ इति॥
+त्रिशूलं वज्रसमयं कीलकं दारुणो[त्तमम्]("BC ° मे।")।  
+पीड़येत् वज्रयोगेन [बुद्धकाय]("B ° र्यं।")मपि स्वयम्॥ इति॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि वज्राहारसमयकृत्यार्थं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
@@ -4494,23 +4418,23 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
  अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वतथागतकायवाक्चित्तवज्रपूजाग्र्यंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
 पञ्चोपहारपूजाग्रैः पूजनं च प्रकल्पयेत्।  
-एषो हि सर्व[वज्राणां](http://॑ " BC मन्त्रा°।") समयो दुरतिक्रमः॥
+एषो हि सर्व[वज्राणां](" BC मन्त्रा°।") समयो दुरतिक्रमः॥
 
- अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वतथागतकायवा[क्चित्त](http://॑ "2. cadd ° वज्र °।")पूजारहस्यं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वतथागतकायवा[क्चित्त]("2. cadd ° वज्र °।")पूजारहस्यं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
 द्वयेन्द्रियप्रयोगेण स्वशुक्रादिपरिग्रहैः।  
 पूजयेत् विधिवत् सर्वान् बुद्धबोधिमवाप्नुयात्॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वतथागतकायवाक्चित्तसम्बरंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
-**सत्त्वधातोरनन्तस्य [मातां](http://॑ " A मात्रां।")समयधा[रि](http://॑ " C ° र °।")णीम्।  
+**सत्त्वधातोरनन्तस्य [मातां](" A मात्रां।")समयधा[रि](" C ° र °।")णीम्।  
 काये त्रिवज्रसमयैः[^165] सम्बरोऽयं महाद्भुतः॥**
 
 [^165]: "BC कामयेत् त्रिवज्रसमयैः।"
 
 ** **अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वसाधकसम्बरवज्रं स्वकायवाक्चित्तवज्रेभ्योनिश्चारयामास।
 
-[काय](http://॑ "B omits from here to निश्चारयामासbelow.")वाक्चित्तसंभोगं त्रिगुह्यालयवज्रजम्।  
+[काय]("B omits from here to निश्चारयामासbelow.")वाक्चित्तसंभोगं त्रिगुह्यालयवज्रजम्।  
 साधयामि अहं भद्रं संशयो नात्र सर्वथा॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्वसाधकवज्रसत्त्वसम्बरं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
@@ -4521,7 +4445,7 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 अनेन वज्रयोगेन तेजस्वीभवति क्षणात्।  
 कायवाक्चित्तसौस्थित्यं भवति नात्र संशयः।
 
- अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्व[मण्डल](http://॑ "C ° मन्त्र °।")धरकायवाक्चित्तगुह्यंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
+ अथ वज्रपाणिः सर्वतथागताधिपतिः पुनरपि सर्व[मण्डल]("C ° मन्त्र °।")धरकायवाक्चित्तगुह्यंस्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
 चैत्यकर्म न कुर्वीत न च पुस्तकवाचनम्।  
 मण्डलं नैव कुर्वीत न त्रिवज्राग्रवन्दनम्॥
@@ -4534,14 +4458,14 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
 चक्रमध्यगतं स्थाप्य सितांशुज्वालमालिनम्।  
 पीतांशुरश्मिगहनं भावयेत् पीतसन्निभम्।  
-त्रिवज्ररश्मिसमयैर्बी[जोऽयं](http://॑ "C र्विजयं।") गुह्यसंभवः॥
+त्रिवज्ररश्मिसमयैर्बी[जोऽयं]("C र्विजयं।") गुह्यसंभवः॥
 
  अथ वज्रपाणिः सर्वतथागताधिपतिः कायवाक्चित्तरक्षाचक्रमन्त्रं वज्रसंयुक्तं स्वकायवाक्चित्तवज्रेभ्यो निश्चारयामास।
 
  उँ हूलू हूलू तिष्ठ तिष्ठ बंध बंध हन हन दह दह अमृतेहूँ फट स्वाहा।
 
 भूर्जपत्रादिषु चक्रं कर्मवज्रप्रतिष्ठितम्।  
-[ह](http://॑ "AR हुं , ° C हें ° ")कारमध्यगं [कृत्वा](http://॑ "B ध्यात्वा।")नाममध्ये समालिखेत्॥
+[ह]("AR हुं , ° C हें ° ")कारमध्यगं [कृत्वा]("B ध्यात्वा।")नाममध्ये समालिखेत्॥
 
 मन्त्राक्षरपदैः सम्यक् मण्डितं स्थापयेत् सदा।  
 एषो हि सर्वमन्त्राणां त्रिगुह्यालयसम्भवः॥
@@ -4551,21 +4475,21 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 चतुष्पथैकवृक्षे च मातृस्थाने शिवालये।  
 वज्राञ्जनपदं तत्र कपाले पातयेत्सदा॥
 
- [महातैल](http://॑ "C भैरवं।")रुधिरं विष्ठंपद्मसूत्रं अर्क[तूलेन](http://॑ "A ° नाले °।")वर्त्तिं कृत्वाकृष्णचतुर्दश्यामर्द्धरात्रौ वज्राञ्जनं पातयेद्बुधः तत्रैवाष्टशताभिमन्त्रितं कृत्वा।त्रिविधा सिद्धिर्भवति इत्याह भगवान्समन्तभद्रः।
+ [महातैल]("C भैरवं।")रुधिरं विष्ठंपद्मसूत्रं अर्क[तूलेन]("A ° नाले °।")वर्त्तिं कृत्वाकृष्णचतुर्दश्यामर्द्धरात्रौ वज्राञ्जनं पातयेद्बुधः तत्रैवाष्टशताभिमन्त्रितं कृत्वा।त्रिविधा सिद्धिर्भवति इत्याह भगवान्समन्तभद्रः।
 
- अथ भगवन्तः सर्वतथागता वज्रपाणिं सर्वतथागताधिपतिमेवमाहुः।कतिभिर्भगवन् गुह्याक्षरैः समन्वागतास्ते बोधिसत्त्वामहासत्त्वाय इदं सर्वतथागतचर्यावज्रं सर्वतथागत[गुह्यसमयं](http://॑ " BC omit.") श्रद्धास्यन्ति भावयिष्यन्ति च।
+ अथ भगवन्तः सर्वतथागता वज्रपाणिं सर्वतथागताधिपतिमेवमाहुः।कतिभिर्भगवन् गुह्याक्षरैः समन्वागतास्ते बोधिसत्त्वामहासत्त्वाय इदं सर्वतथागतचर्यावज्रं सर्वतथागत[गुह्यसमयं](" BC omit.") श्रद्धास्यन्ति भावयिष्यन्ति च।
 
- [अथ](http://॑ "C omits from here to भावयिष्यन्ति च।") वज्रपाणिः सर्वतथागताधिपतिः तान् सर्वतथागतानेवमाह। त्रिगुह्याक्षरैर्भगवन्तः सर्वतथागताः समन्वागतास्तेबोधिसत्त्वामहासत्त्वाय इदं सर्वतथागतबोधिचर्यावज्रं श्रद्धास्यन्ति भावयिष्यन्ति च।सर्वतथागताःप्राहुः।कतमैस्त्रिभिः। वज्रधरःप्राह। यदुत सर्वतथागतकायवज्रेण, सर्वतथागतवाग्वज्रेण, सर्वतथागतचित्तवज्रेण, एभिस्त्रिभिः।
+ [अथ]("C omits from here to भावयिष्यन्ति च।") वज्रपाणिः सर्वतथागताधिपतिः तान् सर्वतथागतानेवमाह। त्रिगुह्याक्षरैर्भगवन्तः सर्वतथागताः समन्वागतास्तेबोधिसत्त्वामहासत्त्वाय इदं सर्वतथागतबोधिचर्यावज्रं श्रद्धास्यन्ति भावयिष्यन्ति च।सर्वतथागताःप्राहुः।कतमैस्त्रिभिः। वज्रधरःप्राह। यदुत सर्वतथागतकायवज्रेण, सर्वतथागतवाग्वज्रेण, सर्वतथागतचित्तवज्रेण, एभिस्त्रिभिः।
 
  अथ ते सर्वतथागता भगवतो वज्रपाणेः पादयोर्निपत्यतूष्णींस्थिता अभूवन्।
 
- अथ वज्रपाणिः सर्वतथागताधिपतिः तान् सर्वतथागतान्बोधिसत्त्वांश्चामन्त्रयते स्म। भूतपूर्वं भगवन्तः सर्वतथागता अनभिलाप्यानभिलाप्यबुद्धक्षेत्रसुमेरुपरमाणुरजःसमाः कल्पाःक्षीणा यावद्भगवतो दीपङ्करस्यतथागतस्यार्हतःसम्यक्संबुद्धस्यातिक्रान्तस्य काश्यपस्यापि महामुनेरभिसंबुद्धस्यन भाषितम्। तत्कस्मात् हेतोः। [अभव्या](http://॑ "B असेव्या।") भगवन्तःसत्त्वा अस्य महागुह्यपदार्थस्य [तेन](http://॑ " A adds मया।") कालेन [तेन](http://॑ " A omits.") समयेन मयान भाषितम्। अपि तु भगवन्तः सर्वतथागता अस्मिन् गुह्यसमाजे बुद्धबोधिं क्षणलवमुहूर्त्तेनैव निष्पादयन्ति। यदनैकैर्गङ्गानदीवालु[कासमैः](http://॑ "BC ° कोपमैः।") कल्पैःघटयन्तो व्यायच्छन्तो बोधिसत्त्वा बोधिं न प्राप्नुवन्ति। तदिहैव जन्मनि गुहासमाजाभिरतो बोधिसत्त्वः सर्वतथागतानां बुद्ध इति संख्यां गच्छति।
+ अथ वज्रपाणिः सर्वतथागताधिपतिः तान् सर्वतथागतान्बोधिसत्त्वांश्चामन्त्रयते स्म। भूतपूर्वं भगवन्तः सर्वतथागता अनभिलाप्यानभिलाप्यबुद्धक्षेत्रसुमेरुपरमाणुरजःसमाः कल्पाःक्षीणा यावद्भगवतो दीपङ्करस्यतथागतस्यार्हतःसम्यक्संबुद्धस्यातिक्रान्तस्य काश्यपस्यापि महामुनेरभिसंबुद्धस्यन भाषितम्। तत्कस्मात् हेतोः। [अभव्या]("B असेव्या।") भगवन्तःसत्त्वा अस्य महागुह्यपदार्थस्य [तेन](" A adds मया।") कालेन [तेन](" A omits.") समयेन मयान भाषितम्। अपि तु भगवन्तः सर्वतथागता अस्मिन् गुह्यसमाजे बुद्धबोधिं क्षणलवमुहूर्त्तेनैव निष्पादयन्ति। यदनैकैर्गङ्गानदीवालु[कासमैः]("BC ° कोपमैः।") कल्पैःघटयन्तो व्यायच्छन्तो बोधिसत्त्वा बोधिं न प्राप्नुवन्ति। तदिहैव जन्मनि गुहासमाजाभिरतो बोधिसत्त्वः सर्वतथागतानां बुद्ध इति संख्यां गच्छति।
 
  अथ तेमहाबोधिसत्त्वा इदं वाग्वज्राक्षरपदं श्रुत्वाप्ररोदयामासुः। अथ ते सर्वतथागतास्तान्बोधिसत्त्वेनेवमाहुः। मा भगवन्तः महाबोधिसत्त्वाः प्ररोदयत मा च त्रिदुःखं समुत्पादयत।अथ ते महाबोधिसत्त्वास्तान्सर्वतथागतानेवमाहुः। कथं ते भगवन्तः सर्वतथागता नप्ररोदामहे। कथं न दुःखमुत्पादयामहे।तत्कस्मात्हेतोः?अभव्या भगवन्तः त्रिगुह्याक्षरम्। अभव्याभगवन्तोऽन्तशो नाम श्रवणेनापि। सर्वतथागताःप्राहुः।सामान्याक्षरपदं कुलपुत्रा यथा भवद्भिर्न ज्ञातं न श्रुतंतथास्माभिरपि सर्वतथागतैः सर्वबुद्धबोधिसत्त्वैश्च कुलपुत्रास्तेगुह्याक्षरा न संप्राप्ता नाभिसंबुद्धाश्च।तत्कस्मात् हेतोः? त्रिगुह्याक्षरविशुद्धत्वात्।
 
- अथ ते सर्वैबोधिसत्त्वाः तूष्णीं[व्यवस्थिता](http://॑ "C ° भूता।")अभूवन्।अथ भगवन्तः सर्वतथागताः सर्वतथागतकायवाक्चित्तवज्रयोषिद्भगेषु विजहार।
+ अथ ते सर्वैबोधिसत्त्वाः तूष्णीं[व्यवस्थिता]("C ° भूता।")अभूवन्।अथ भगवन्तः सर्वतथागताः सर्वतथागतकायवाक्चित्तवज्रयोषिद्भगेषु विजहार।
 
- अथ सा सर्वतथागतचित्तदयिता मामकीभगवन्तं सर्वतथागताधिपतिं महावज्रधरं एभिर्वज्रधरकामरतिपूजाग्राक्षरपदैः प्रीत्या [संस्तूया](http://॑ "C स्तुव, ° स्तनु °।")मास।
+ अथ सा सर्वतथागतचित्तदयिता मामकीभगवन्तं सर्वतथागताधिपतिं महावज्रधरं एभिर्वज्रधरकामरतिपूजाग्राक्षरपदैः प्रीत्या [संस्तूया]("C स्तुव, ° स्तनु °।")मास।
 
 "त्वं वज्रचित्त भुवनेश्वर सत्त्वधातो  
 त्रायाहि मां रतिमनोज्ञ महार्थकामैः।  
@@ -4575,8 +4499,8 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
  अथ सा बुद्धलोचना सर्वतथागतकायदयिता भगवन्तंसर्वतथागताधिपतिं महावज्रधरमेभिः सर्ववज्रकामरतिपूजाग्राक्षरपदैः सुखसौमनस्यप्रीत्या संस्तूयामास।
 
 "त्वं वज्रकाय बहुसत्त्वप्रियाङ्कचक्र  
-बुद्धार्थबोधिपरमार्थहितानु[दर्शी](http://॑ " A° दर्भी।")।  
-रागेण रागसम[यं](http://॑ "AC ° यां, R° यै°।") मम कामयस्व  
+बुद्धार्थबोधिपरमार्थहितानु[दर्शी](" A° दर्भी।")।  
+रागेण रागसम[यं]("AC ° यां, R° यै°।") मम कामयस्व  
 यदीच्छसे जीवितं मञ्जुनाथ॥"
 
  अथ सा लोकेश्वरदयिता कायावस्थितनेत्री[^167] भगवन्तं सर्वतथागताधिपतिं महावज्रधरं कामोपभोगसमयैः संस्तूयामास॥
@@ -4590,21 +4514,20 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  अथ सासर्वतथागतकायवाक्चित्तसमयवज्रदयिताभगवन्तं सर्वतथागताधिपतिं महावज्रधरमनया सर्वतथागतसुखसौमनस्यप्रीत्या संस्तूयामास।
 
-"त्त्वं वज्रका[य](http://॑ "BC° म।")समयाग्र महाहितार्थ  
-संबुद्धवंशतिलकः [समता](http://॑ "C सुगता °।")नुकम्पी।  
+"त्त्वं वज्रका[य]("BC° म।")समयाग्र महाहितार्थ  
+संबुद्धवंशतिलकः [समता]("C सुगता °।")नुकम्पी।  
 कामाहि मां गुणनिधि बहुरत्नभूतम्  
 यदीच्छसे जीवितं मञ्जुनाथ॥”
 
  अथ भगवान् वज्रपाणिस्तथागतः सर्वकामोपभोगवज्रश्रियं नाम समाधिं समापन्नस्तां सर्वतथागतदयितां समयचक्रेण कामयन् तूष्णीमभूत्।
 
- अथायं सर्वाकाशधातुः सर्वतथागतकायवाक्चित्तवज्रसमय[शु](http://॑ "A च °।")क्रेण परिपूर्णो वज्रोदकपरिपूर्णकुम्भ [इव](http://॑ "R कुम्भेष्वव °।")संस्थितोऽभूत्।
+ अथायं सर्वाकाशधातुः सर्वतथागतकायवाक्चित्तवज्रसमय[शु]("A च °।")क्रेण परिपूर्णो वज्रोदकपरिपूर्णकुम्भ [इव]("R कुम्भेष्वव °।")संस्थितोऽभूत्।
 
- अथास्मिन्वज्राकाशघातौ ये सत्त्वास्त्रिकायसमयसंभूतास्त्रिवज्रश्रिया [संस्पृष्टाः](http://॑ "B °ध्यस्ताः") सर्वे [ते](http://॑ "C ° अथ ते सर्व °।")तथागता अर्हन्तः सम्यक्संबुद्धास्त्रिवज्रज्ञानिनोऽभूवन्। ततः प्रभृति सर्वसत्त्वाः समन्तभद्र
+ अथास्मिन्वज्राकाशघातौ ये सत्त्वास्त्रिकायसमयसंभूतास्त्रिवज्रश्रिया [संस्पृष्टाः]("B °ध्यस्ताः") सर्वे [ते]("C ° अथ ते सर्व °।")तथागता अर्हन्तः सम्यक्संबुद्धास्त्रिवज्रज्ञानिनोऽभूवन्। ततः प्रभृति सर्वसत्त्वाः समन्तभद्र
 
-[समन्तभद्र](http://॑ "B adds इति।") इति सर्वतथागतकायवाक्चित्तवज्रेणाभिषिक्ताअभूवन्।
+[समन्तभद्र]("B adds इति।") इति सर्वतथागतकायवाक्चित्तवज्रेणाभिषिक्ताअभूवन्।
 
-
-अथवज्रपाणि[स्तथागत](http://॑ "BC ° स्सर्वतथागताधिपति °।")स्तान्सर्वतथागतानेवमाह। दृष्टाभगवन्तस्सर्वतथागताः सर्वबुद्धधर्मसमता।अथ ते सर्वतथागता वज्रपाणिं सर्वतथागताधिपतिमेवमाहुः। [दृष्टा](http://॑ "C omits fromhere to तथागतमेवमाहुःbelow.")भगवन् दृष्टा [सुगत](http://॑ " B adds सर्वतथागत before.")वज्रज्ञानसमता वज्रज्ञानचर्येति। अथभगवन्तः सर्वतथागताः सर्वतथागतयोषिद्भगेष्वभिनिष्क्रम्यभगवन्तं महावज्रपाणिं सर्वतथागताधिपतिं तथागतमेवमाहुः।आश्चर्यं भगवन्नाश्चर्यं सुगत यत्र हि नाम रागाक्षरपदैः बुद्धबोधिरनुगन्तव्येति।
+अथवज्रपाणि[स्तथागत]("BC ° स्सर्वतथागताधिपति °।")स्तान्सर्वतथागतानेवमाह। दृष्टाभगवन्तस्सर्वतथागताः सर्वबुद्धधर्मसमता।अथ ते सर्वतथागता वज्रपाणिं सर्वतथागताधिपतिमेवमाहुः। [दृष्टा]("C omits fromhere to तथागतमेवमाहुःbelow.")भगवन् दृष्टा [सुगत](" B adds सर्वतथागत before.")वज्रज्ञानसमता वज्रज्ञानचर्येति। अथभगवन्तः सर्वतथागताः सर्वतथागतयोषिद्भगेष्वभिनिष्क्रम्यभगवन्तं महावज्रपाणिं सर्वतथागताधिपतिं तथागतमेवमाहुः।आश्चर्यं भगवन्नाश्चर्यं सुगत यत्र हि नाम रागाक्षरपदैः बुद्धबोधिरनुगन्तव्येति।
 
  अथ वज्रपाणिः सर्वतथागताधिपतिस्तान्सर्वतथागतानेवमाह। मा भगवन्तः सर्वतथागता एवं वदथ। तत्कस्माद्धेतोः?खवज्रसमयतुल्यत्वात् सर्वधर्माणां न रूपस्कन्धो न वेदनास्कन्धोन संज्ञास्कन्धो न संस्कारस्कन्धो न विज्ञानस्कन्धो न धातुर्नायतनं न रागो न द्वेषो न मोहो न धर्मो नाधर्म इति।
 
@@ -4612,11 +4535,11 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  अथ भगवान्वज्रपाणिःतान्सर्वतथागतान्बोधिसत्त्वांश्चामन्त्रयते स्म।आलोचयन्तु भगवन्तः सर्वतथागताः सर्वलोकधातुष्विदं सर्वतथागतकायवाक्चित्तवज्रगुह्यम्। तत्कस्माद्धेतोः?भव्या बतामीदशदिक्संस्थिता बोधिसत्त्वा महासत्त्वा अस्यधर्मपर्यायस्य।
 
- अथ वज्रपाणिः सर्वतथागताधिपतिः वज्र[धर्म](http://॑ "BC °पाणि °।")मामन्त्रयते स्म।उद्गृहाण कुलपुत्र इदं सर्वतथागतसमयतत्त्वं त्त्वंहिसर्वतथागतैर्धर्मेश्वर वज्रगज इत्यभिषिक्तः।
+ अथ वज्रपाणिः सर्वतथागताधिपतिः वज्र[धर्म]("BC °पाणि °।")मामन्त्रयते स्म।उद्गृहाण कुलपुत्र इदं सर्वतथागतसमयतत्त्वं त्त्वंहिसर्वतथागतैर्धर्मेश्वर वज्रगज इत्यभिषिक्तः।
 
- अथ वज्रधर्मो बोधिसत्त्वो महासत्त्व[स्तथा](http://॑ "A एवम °।")स्त्विति कृत्त्वातूष्णीमभूत्।
+ अथ वज्रधर्मो बोधिसत्त्वो महासत्त्व[स्तथा]("A एवम °।")स्त्विति कृत्त्वातूष्णीमभूत्।
 
- अथ ते भगवन्तः सर्वतथागताःत्रिवज्रतत्त्वाक्षरेषु कायवाक्चित्तं प्रवेशयामासुः। अथ वैरोचनस्तथागतः सर्वत्रैधातुककायवज्रेषु विहरन् सर्वतथागतकायसमतामध्यालम्ब्यतूष्णीमभूत्। अथ वाग्वज्रः तथागतः सर्वत्रैधातुकवाग्वज्रेषुविहरन् सर्वतथागत[वाक्स](http://॑ "A वाग्वज्र °।")मतामध्यालम्ब्य तूष्णीमभूत्। अथवज्रपाणिस्तथागतः सर्वत्रैधातुकचित्तवज्रेषु विहरन् सर्वतथागतचित्त[समता](http://॑ "C ° दयिता °।")मध्यालम्बा तूष्णीमभूत्।
+ अथ ते भगवन्तः सर्वतथागताःत्रिवज्रतत्त्वाक्षरेषु कायवाक्चित्तं प्रवेशयामासुः। अथ वैरोचनस्तथागतः सर्वत्रैधातुककायवज्रेषु विहरन् सर्वतथागतकायसमतामध्यालम्ब्यतूष्णीमभूत्। अथ वाग्वज्रः तथागतः सर्वत्रैधातुकवाग्वज्रेषुविहरन् सर्वतथागत[वाक्स]("A वाग्वज्र °।")मतामध्यालम्ब्य तूष्णीमभूत्। अथवज्रपाणिस्तथागतः सर्वत्रैधातुकचित्तवज्रेषु विहरन् सर्वतथागतचित्त[समता]("C ° दयिता °।")मध्यालम्बा तूष्णीमभूत्।
 
  इदमवोचत् भगवान्।
 
@@ -4627,34 +4550,34 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 अहो समन्तभद्रस्य कायवाक्चित्तनिर्णयः।  
 विहरन्ति त्रिवज्रेण त्रिवज्रेषु समन्ततः॥
 
-सर्वसत्त्वाः समुत्पन्ना[स्त्यध्व](http://॑ " A अथ।")वज्रस्वभावतः।  
+सर्वसत्त्वाः समुत्पन्ना[स्त्यध्व](" A अथ।")वज्रस्वभावतः।  
 बोधिवज्रपदं प्राप्ता बुद्धवज्रमहर्धिकाः॥
 
 अहो सुविस्मयमिदमहो शान्तमतीन्द्रियम्।  
 अहो परमनिर्वाणमहो संसारसन्ततिः॥
 
- ततस्ते सर्वतथागतास्तान् बोधिसत्त्वान् महासत्त्वानेवमाहुः।एव[मेव](http://॑ " AR महाबो °।")बोधिसत्त्वा [एवमेव](http://॑ "C omits.") [महा](http://॑ "AR बोधि °।")सत्त्वा इति।
+ ततस्ते सर्वतथागतास्तान् बोधिसत्त्वान् महासत्त्वानेवमाहुः।एव[मेव](" AR महाबो °।")बोधिसत्त्वा [एवमेव]("C omits.") [महा]("AR बोधि °।")सत्त्वा इति।
 
- अथ ते सर्वे बोधिसत्त्वामहासत्त्वाः पुनः समाजमागम्य तान्सर्वतथागतान् गुह्येतरपूजाभिः संपूज्य प्रणिपत्यैक[कण्ठेनै](http://॑ "B कण्ठैव।")वमाहुः।
+ अथ ते सर्वे बोधिसत्त्वामहासत्त्वाः पुनः समाजमागम्य तान्सर्वतथागतान् गुह्येतरपूजाभिः संपूज्य प्रणिपत्यैक[कण्ठेनै]("B कण्ठैव।")वमाहुः।
 
 अहो सुदुर्लभमिदमुपायं बोधिसाधनम्।  
 तन्त्रं गुह्यसमाजाख्यं तन्त्राणामुत्तरोत्तरम्॥
 
 अध्येषयामस्त्वां नाथ यदुक्तं भूतवादिना।  
-त[द्गूढाव](http://॑ "BC ° ढा °।")बोधनार्थाय सत्त्वानां हितकाम्यया॥
+त[द्गूढाव]("BC ° ढा °।")बोधनार्थाय सत्त्वानां हितकाम्यया॥
 
  अथ ते सर्वतथागतास्तान् बोधिसत्वानेवमाहुः।
 
 साधु साधु महासत्त्वाः साधु साधु गुणाकराः।  
-यत् सुगूढपदं त[न्त्रे](http://॑ "B ° न्त्रं।")तत्सर्वं पृच्छतेच्छया॥
+यत् सुगूढपदं त[न्त्रे]("B ° न्त्रं।")तत्सर्वं पृच्छतेच्छया॥
 
  अथ ते—
 
-**सर्वे महाबोधिसत्त्वाः प्र[हर्षो](http://॑ "AR °र्षितो।")त्फुल्ललोचनाः।  
+**सर्वे महाबोधिसत्त्वाः प्र[हर्षो]("AR °र्षितो।")त्फुल्ललोचनाः।  
 पृच्छन्तीह स्वसन्देहान् प्रणिपत्य मुहुर्मुहुः॥**
 
-**[गुह्येत्यत्र](http://॑ " A गुह्यतंत्र, C गुह्येह्यत्र।")किमुच्येत समाजेति किमुच्यते।  
-कीदृश[स्तत्र](http://॑ "AR तन्त्र।")सम्बन्धः योगेत्यत्र किमुच्यते॥**
+**[गुह्येत्यत्र](" A गुह्यतंत्र, C गुह्येह्यत्र।")किमुच्येत समाजेति किमुच्यते।  
+कीदृश[स्तत्र]("AR तन्त्र।")सम्बन्धः योगेत्यत्र किमुच्यते॥**
 
 **तत्त्वं कतिविधं प्रोक्तं गुह्यं कतिविधं तथा।  
 रहस्येति किमुच्येत परमं कतिविधं भवेत्॥**
@@ -4669,14 +4592,14 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 राग इति किमुच्येतवज्रमत्र किमुच्यते॥**
 
 **रतीत्यत्र किमुच्येत कथं सम्पदिति स्मृतम्।  
-यमान्तकृत् किमर्थेन किन्तत् प्रज्ञान्त[कृत्त](http://॑ " R ° कं।")था॥**
+यमान्तकृत् किमर्थेन किन्तत् प्रज्ञान्त[कृत्त](" R ° कं।")था॥**
 
 **पद्मान्तकृत् कथं नाम कथं विघ्नान्तकृत्त[^168]था।  
-[समन्त](http://॑ "AR सर्वमन्त्र °।")चर्येति किं ज्ञेयं मन्त्रचर्येति किं तथा॥**
+[समन्त]("AR सर्वमन्त्र °।")चर्येति किं ज्ञेयं मन्त्रचर्येति किं तथा॥**
 
 [^168]: "R° कं।"
 
-**जपमित्यत्र किं ज्ञेयं किमा [मुद्र](http://॑ "A° द्रे °।")णमुच्यते।  
+**जपमित्यत्र किं ज्ञेयं किमा [मुद्र]("A° द्रे °।")णमुच्यते।  
 धर्मोदयं कथं भाव्यं सम्बरं कीदृशं तथा॥**
 
 **द्वेषमोहमहारागैः सत्त्वार्थं कुरुते कथम्।  
@@ -4691,56 +4614,56 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 अभिषेकं कथं देयं कथं विद्याव्रतं तथा।  
 पञ्चामृतं कथं भक्ष्यं पञ्चवीर्यं कथं तथा॥
 
-[कीदृशं](http://॑ "BC omit this line.") सिद्धिसामान्यमुत्तमं कीदृशं तथा।  
-उपायाः कतिविधास्तत्र [उपेयः](http://॑ "BC° उपायं।")कीदृशस्तथा॥
+[कीदृशं]("BC omit this line.") सिद्धिसामान्यमुत्तमं कीदृशं तथा।  
+उपायाः कतिविधास्तत्र [उपेयः]("BC° उपायं।")कीदृशस्तथा॥
 
 कथमाज्ञां प्रयच्छन्ति योगिनः सर्ववज्रिणाम्।  
-कथं कुर्वन्ति [नानात्वं](http://॑ " BC समयं।") तत्सर्वं कथयाशु [च](http://॑ "ARकर्माग्रप्रसराणि च।")।
+कथं कुर्वन्ति [नानात्वं](" BC समयं।") तत्सर्वं कथयाशु [च]("ARकर्माग्रप्रसराणि च।")।
 
  अथ ते सर्वतथागतास्तेषां बोधिसत्त्वानां महासत्त्वानांप्रश्नवाक्यमुपश्रुत्य मुहूर्त्तंमहाबोधिसत्त्वंमहावज्रधर[^169]मालम्ब्य तूष्णीमभूवन्।अथ ते—
 
 [^169]: "BC omitsमहावज्रधर°।"
 
 सर्वे महाबोधिसत्त्वाः प्रहृष्टाः करुणात्मनः।  
-संबुद्धान् सुगतान् नाथान् प्रचो[दन्ति](http://॑ " A ° दयन्ति।")पुनः पुनः॥
+संबुद्धान् सुगतान् नाथान् प्रचो[दन्ति](" A ° दयन्ति।")पुनः पुनः॥
 
  अथ ते सर्वतथागतास्तान्बोधि[^170]सत्त्वानेवमाहुः।
 
 [^170]: " BC महावो °। "
 
 कायवाक्चित्तवज्रेण कायवाक्चित्तवज्रिणः।  
-[सत्त्वार्थं](http://॑ "BC समुच्चार्य।") बोधिसत्त्वेन्द्राः[^171] शृण्वन्तुप्रश्नवि[स्तरान्](http://॑ "BC शृणु गुह्यमविस्तारम।")॥
+[सत्त्वार्थं]("BC समुच्चार्य।") बोधिसत्त्वेन्द्राः[^171] शृण्वन्तुप्रश्नवि[स्तरान्]("BC शृणु गुह्यमविस्तारम।")॥
 
 [^171]: "B ° सेन्द्राः।"
 
- अथ ते सर्वे महाबोधिसत्त्वास्तेषां सर्वतथागतानामनुग्रहवचन[मुपगृह्य](http://॑ "BC परमगुह्यवचनमुपश्रुत्य, R प्रगृह्य।")महाबोधिसत्त्वस्य महावज्रधरस्य कायवाक्
+ अथ ते सर्वे महाबोधिसत्त्वास्तेषां सर्वतथागतानामनुग्रहवचन[मुपगृह्य]("BC परमगुह्यवचनमुपश्रुत्य, R प्रगृह्य।")महाबोधिसत्त्वस्य महावज्रधरस्य कायवाक्
 
-चित्तवज्रं स्वकायवाक्चित्तवज्रै[रालम्ब्य](http://॑ "BC वज्रवाक्यैः साधुकारमददुः।")साधु साधु भगवन्तःसाधु साधु [सुगता](http://॑ "BC सर्वतथागता।") इति तूष्णीमभूवन्।
+चित्तवज्रं स्वकायवाक्चित्तवज्रै[रालम्ब्य]("BC वज्रवाक्यैः साधुकारमददुः।")साधु साधु भगवन्तःसाधु साधु [सुगता]("BC सर्वतथागता।") इति तूष्णीमभूवन्।
 
- [ततस्ते](http://॑ "C omitsfrom ततः.......दश सप्त त्रयोदशम् below.") सर्वतथागता महाकरुणात्मानः सहृद्यालम्ब्याधितिष्ठन् तेषां महाबोधिसत्त्वानामेककण्ठेनैव तान् [प्रश्नान्](http://॑ "B has instead सर्वे मिलित्वा एकमतेनैकस्वरेण।")निर्दिशन्ति [स्म](http://॑ " B adds अथ ते सर्वतथागतास्तेषां बोधिसत्त्वानांमहासत्त्वानां प्रश्नवाक्यमुपश्रुत्य मुहूर्त्तं महाबोधिसत्त्वं वज्रधरमालम्ब्यउवाच।")।
+ [ततस्ते]("C omitsfrom ततः.......दश सप्त त्रयोदशम् below.") सर्वतथागता महाकरुणात्मानः सहृद्यालम्ब्याधितिष्ठन् तेषां महाबोधिसत्त्वानामेककण्ठेनैव तान् [प्रश्नान्]("B has instead सर्वे मिलित्वा एकमतेनैकस्वरेण।")निर्दिशन्ति [स्म](" B adds अथ ते सर्वतथागतास्तेषां बोधिसत्त्वानांमहासत्त्वानां प्रश्नवाक्यमुपश्रुत्य मुहूर्त्तं महाबोधिसत्त्वं वज्रधरमालम्ब्यउवाच।")।
 
 त्रिविधं कायवाक्चित्तं गुह्यमित्यभिधीयते।  
-[समाजं](http://॑ " B omits this line.") मीलनं प्रोक्तं सर्वबुद्धाभिधानकम्॥
+[समाजं](" B omits this line.") मीलनं प्रोक्तं सर्वबुद्धाभिधानकम्॥
 
-[पंचमं](http://॑ "B अष्टमं।")नवमं चैव दश सप्त [त्रयोदशम्](http://॑ "B दशमं तत्र षोडशं।")।  
+[पंचमं]("B अष्टमं।")नवमं चैव दश सप्त [त्रयोदशम्]("B दशमं तत्र षोडशं।")।  
 बुद्धानां बोधिसत्त्वानां देशना साधनं महत्॥
 
 चतुर्थं षोड़शं चैव अष्टमं द्वादशं तथा।  
-आचार्यकर्म[सामान्यं](http://॑ " B वर्णनंनाम, C वर्णनामन्यं।")सिद्धिश्च व्रतसम्बरम्॥
+आचार्यकर्म[सामान्यं](" B वर्णनंनाम, C वर्णनामन्यं।")सिद्धिश्च व्रतसम्बरम्॥
 
-अष्टमं [च](http://॑ "B सप्तमं, C षष्टं चैव।")द्वितीयं च दश पञ्च चतुर्दशम्॥  
+अष्टमं [च]("B सप्तमं, C षष्टं चैव।")द्वितीयं च दश पञ्च चतुर्दशम्॥  
 हठमनुरागणं चैव उपसाधनसम्बरम्।
 
-सप्तमं च तृतीयं च दशैकादश[पञ्चमम्](http://॑ "BC सेवासाधनमुत्तमम्।")॥  
-सिद्धिक्षेत्रनिमित्तं च [सेवा](http://॑ "A सत्त्व °।") साधनसम्बरम्।
+सप्तमं च तृतीयं च दशैकादश[पञ्चमम्]("BC सेवासाधनमुत्तमम्।")॥  
+सिद्धिक्षेत्रनिमित्तं च [सेवा]("A सत्त्व °।") साधनसम्बरम्।
 
 सर्वतथागतकर्म निग्रहानुग्रहक्षमम्॥
 
-दान्तदौर्दान्तसौम्यानां सत्त्वानामेव [तारणम्](http://॑ "AR ° मवतारणा।")॥
+दान्तदौर्दान्तसौम्यानां सत्त्वानामेव [तारणम्]("AR ° मवतारणा।")॥
 
-उत्पत्तिक्रम[संबन्धं](http://॑ "B क्रमशं चैव।")सेवावज्रविधिश्चतुः॥
+उत्पत्तिक्रम[संबन्धं]("B क्रमशं चैव।")सेवावज्रविधिश्चतुः॥
 
-गुरूणां मन्त्र[मार्गेण](http://॑ "A° मामन्त्र्य।") शिष्याणां परिपाचनम्।  
+गुरूणां मन्त्र[मार्गेण]("A° मामन्त्र्य।") शिष्याणां परिपाचनम्।  
 सुव्रतस्याभिषिक्तस्य सुशिष्यस्य महात्मनः।  
 बुद्धानां बोधिसत्त्वानां देशना परिमोचना॥
 
@@ -4755,7 +4678,7 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 प्रकृतिश्चाकृतेर्हेतुरसंहार्यफलं तथा।  
 आधारस्तदुपायश्च त्रिभिस्तन्त्रार्थसंग्रहः॥
 
-पञ्चकं त्रिकुलं चैव स्वभावैकशतं [कुलम्](http://॑ "C ° वैकं कुलं तथा।")।  
+पञ्चकं त्रिकुलं चैव स्वभावैकशतं [कुलम्]("C ° वैकं कुलं तथा।")।  
 सहोक्तिर्बोधिवज्रस्य सोत्तरं तन्त्रमिष्यते॥
 
 तत्त्वं पञ्चकुलं प्रोक्तं त्रिकुलं गुह्यमुच्यते।  
@@ -4764,10 +4687,10 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 अनादिनिधनं शान्तं भावाभावाक्षयंविभुम्।  
 शून्यताकरुणाभिन्नं बोधिचित्तमिति स्मृतम्॥
 
-कायवाक्चित्त[वज्रेण](http://॑ "B° वज्राणां।") भेद्याभेद्यस्व[भावतः](http://॑ "AB भेद्यतेयं स्वभावतः।")।  
+कायवाक्चित्त[वज्रेण]("B° वज्राणां।") भेद्याभेद्यस्व[भावतः]("AB भेद्यतेयं स्वभावतः।")।  
 विद्यया सह संयुक्तोविद्यापूरुष उच्यते॥
 
-पञ्च हेतिश्च [वेतिश्च](http://॑ "A चे °।")वज्रमित्यभिधीयते।  
+पञ्च हेतिश्च [वेतिश्च]("A चे °।")वज्रमित्यभिधीयते।  
 धारणं धृगिति ख्यातं विज्ञानं वज्रधृङ्मनः॥
 
 सदसन्मध्यमं ख्यातं भूतभौतिकसम्भवम्।  
@@ -4779,13 +4702,13 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 लक्ष्यलक्षणभावैस्तु सर्वं सर्वेण सर्वतः।  
 रमणं लक्षणं लक्ष्यमारोलिगिति कथ्यते॥
 
-प्रकर्षकृतविज्ञानं यत् तत् प्र[ज्ञेति](http://॑ "B ° कृति।")भण्यते।  
+प्रकर्षकृतविज्ञानं यत् तत् प्र[ज्ञेति]("B ° कृति।")भण्यते।  
 संस्कारचेतनां धार्यं प्रज्ञाधृगिति कथ्यते॥
 
-कूलमन्वयमाख्यातमन्व[यैरा](http://॑ "BC ° यमा °।")दिरुच्यते।  
-अविनाशमनुत्पन्नं यन्ना[म](http://॑ "BC ° थं।") तत् प्रकथ्यते॥
+कूलमन्वयमाख्यातमन्व[यैरा]("BC ° यमा °।")दिरुच्यते।  
+अविनाशमनुत्पन्नं यन्ना[म]("BC ° थं।") तत् प्रकथ्यते॥
 
-विज्ञानं द्वेषमाख्यातं [देति](http://॑ " A हेति, C देहि।") वेति द्वयैर्द्विषाम्।  
+विज्ञानं द्वेषमाख्यातं [देति](" A हेति, C देहि।") वेति द्वयैर्द्विषाम्।  
 रूपं मोहमिति ख्यातं जडबन्धस्वभावतः॥
 
 वेदना घट्टमानाख्या अहङ्कारस्वभावतः।  
@@ -4797,35 +4720,35 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 कामं चित्तमिति प्रोक्तं रागद्वेषतमोऽन्वितम्।  
 समयं विश्वसङ्काशाभिमुखं कर्मजं फलम्॥
 
-ज्ञान[धर्मेर्ष्या](http://॑ "B ° धर्मेष्व °।")ऽहंकारो मोह उच्यते।  
+ज्ञान[धर्मेर्ष्या]("B ° धर्मेष्व °।")ऽहंकारो मोह उच्यते।  
 अन्योन्यघट्टनं तत्र द्वेष इत्यभिधीयते॥
 
-लक्षणं रा[गमा](http://॑ "R ° समा।")सक्तिः ज्ञानोऽयं वज्रमुच्यते।  
+लक्षणं रा[गमा]("R ° समा।")सक्तिः ज्ञानोऽयं वज्रमुच्यते।  
 रतिरत्यन्तसम्भोगं सम्पदः स्त्रीसुखं परम्॥
 
-मोहो द्वेषस्तथा रागः सदा वज्रे[रतिः](http://॑ "BC° ज्ररति।") स्थिता।  
+मोहो द्वेषस्तथा रागः सदा वज्रे[रतिः]("BC° ज्ररति।") स्थिता।  
 उपायस्तेन बुद्धानां वज्रयानमिति स्मृतम्॥
 
 अविनाशात्मका धर्मा अनुत्पादस्वभावतः।  
 समयः सर्वभावानां तेनैवान्तककृद्यमः॥
 
-अविज्ञानात्मका धर्माः परमा[र्थवि](http://॑ "C ° क्षर °।")शुद्धितः।  
+अविज्ञानात्मका धर्माः परमा[र्थवि]("C ° क्षर °।")शुद्धितः।  
 समयः सर्वचित्तानां तेन प्रज्ञान्तकृज्जिनः॥
 
-अवाच्यात्मका धर्मा [अभाव](http://॑ "A धर्मोऽभावः।")नामरूपधीः।  
+अवाच्यात्मका धर्मा [अभाव]("A धर्मोऽभावः।")नामरूपधीः।  
 समयः सर्वधर्माणां तेन पद्मान्तकृत् विभुः॥
 
 निर्विकल्पात्मका धर्माः प्रकृत्या शान्तभावतः।  
-समयः सर्व[वज्रा](http://॑ "C ° धर्मा °। ")णां तेन विघ्नान्तकृत् प्रभुः॥
+समयः सर्व[वज्रा]("C ° धर्मा °। ")णां तेन विघ्नान्तकृत् प्रभुः॥
 
 अविनाशमविज्ञेयं अवाच्यमविकल्पितम्।  
 बुद्धबोधिरिदं ज्ञानं ज्ञात्वा सुखमवाप्नुते॥
 
 मोहो मोहोपभोगेन क्षयमोहो यमान्तकृत्।  
-[कायान्त](http://॑ "AB स्कन्धा °।")कृत् भवेत्तेन [तथा](http://॑ " R न ते, C तेन।") ज्ञेयान्तकृद्भवेत्॥
+[कायान्त]("AB स्कन्धा °।")कृत् भवेत्तेन [तथा](" R न ते, C तेन।") ज्ञेयान्तकृद्भवेत्॥
 
 दोषो दोषोपभोगेन क्षयदोषः प्रज्ञान्तकृत्।  
-[चित्ता](http://॑ "R विघ्ना °।")न्तकृद्भवेत्तेन तथा क्लेशान्तकृद्भवेत्॥
+[चित्ता]("R विघ्ना °।")न्तकृद्भवेत्तेन तथा क्लेशान्तकृद्भवेत्॥
 
 रागो रागोपभोगेन क्षयरागः पद्मान्तकृत्।  
 वागन्तकृद्भवेत्तेन समापत्यन्तकृत्तथा॥
@@ -4845,7 +4768,7 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 रूपवज्रादयः षट्का वज्राधिपतयः स्मृताः।  
 समयवज्रादयः षट्काः पृथिव्यादिषु पञ्चकाः॥
 
-चित्तवाक्काय[वज्रैस्तु](http://॑ "A चित्तं च कायवाग्वज्रैः।")सम्भवन्ति महात्मनः।  
+चित्तवाक्काय[वज्रैस्तु]("A चित्तं च कायवाग्वज्रैः।")सम्भवन्ति महात्मनः।  
 प्रज्ञोपायोद्भवं स्कन्धधात्वायतनविग्रहम्॥
 
 निश्चित्य योगतो मन्त्री निष्पन्नक्रमयोगतः।  
@@ -4853,46 +4776,46 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 सिंहवत् विचरेत् मन्त्री निर्विशङ्केन चेतसा॥
 
 नाकार्यं विद्यते ह्यत्रनाभक्ष्यं विद्यते तथा।  
-नावाच्यं विद्यते किञ्चि[न्नाचि](http://॑ "B ° नि °।")न्त्यं विद्यते सदा॥
+नावाच्यं विद्यते किञ्चि[न्नाचि]("B ° नि °।")न्त्यं विद्यते सदा॥
 
 असमाहितयोगेन नित्यमेव समाहितः।  
-सर्वचित्तेषु या चर्या मन्त्र[चर्येति](http://॑ " AC समन्तचर्येति।") कथ्यते॥
+सर्वचित्तेषु या चर्या मन्त्र[चर्येति](" AC समन्तचर्येति।") कथ्यते॥
 
-प्रतीत्योत्पद्यते यद्यदिन्द्रियै[र्विष](http://॑ "C ° न °।")यैर्मनः।  
-तन्मनो [मननं](http://॑ "BC मनोमतं। ") ख्यातं [कारक](http://॑ "BC तकारं।")त्राणनार्थतः॥
+प्रतीत्योत्पद्यते यद्यदिन्द्रियै[र्विष]("C ° न °।")यैर्मनः।  
+तन्मनो [मननं]("BC मनोमतं। ") ख्यातं [कारक]("BC तकारं।")त्राणनार्थतः॥
 
 लोकाचारविनिर्मुक्तं यदुक्तं समयसम्बरम्।  
-पालनं [सर्व](http://॑ " B समय °।")वज्रैस्तु मन्त्रचर्येति कथ्यते॥
+पालनं [सर्व](" B समय °।")वज्रैस्तु मन्त्रचर्येति कथ्यते॥
 
 स्वकस्वकस्वभावन्तु विचार्य मनसा हृदि।  
 जपं तु सृष्टिसंहारं मन्त्रमुच्यार्य भेदतः॥
 
 विश्ववज्रात्मकान् बुद्धान् ज्ञानवीजेन संहरेत्।  
-बोधिनैरात्म्यबीजेन निरात्मां [भाव](http://॑ "A धार °।")येद् व्रती॥
+बोधिनैरात्म्यबीजेन निरात्मां [भाव]("A धार °।")येद् व्रती॥
 
 संस्फरेद् विश्ववद्विश्वं त्र्यध्वबीजेन तं जपेत्।  
 जपं जल्पनमाख्यातं सर्ववाङ्मन्त्रमुच्यते॥
 
-मन्त्रं मन्त्रमिति प्रोक्तं तत्त्वं [चोदन](http://॑ "A तत् वादन °।")भाषणम्।  
+मन्त्रं मन्त्रमिति प्रोक्तं तत्त्वं [चोदन]("A तत् वादन °।")भाषणम्।  
 यथैव हृद्यधिष्ठानं समाधिं च तथैव च॥
 
-तेषां मूर्ध्न्यभिषेकं [च](http://॑ "B ° केण।") तथा पूजां च सर्वतः।  
-विद्यया विद्यते योगं यस्य [वज्र](http://॑ "BC चक्र °।")धरस्य च॥
+तेषां मूर्ध्न्यभिषेकं [च]("B ° केण।") तथा पूजां च सर्वतः।  
+विद्यया विद्यते योगं यस्य [वज्र]("BC चक्र °।")धरस्य च॥
 
 तस्य भोगाश्चतुर्ज्ञेयाः स्वाधिष्ठानादिभिस्तथा।  
-वीराणामेक[वक्त्राणा](http://॑ " A ° वज्राणां।")मेकैकं मूर्ध्नि सेचनम्॥
+वीराणामेक[वक्त्राणा](" A ° वज्राणां।")मेकैकं मूर्ध्नि सेचनम्॥
 
-हृन्मुद्रा मन्त्र[मार्गे](http://॑ " BC ° त्रे °।")ण मुद्र्यते स्वकुलक्रमैः।  
+हृन्मुद्रा मन्त्र[मार्गे](" BC ° त्रे °।")ण मुद्र्यते स्वकुलक्रमैः।  
 फलेन हेतुमामुद्र्य फलमामुद्र्य हेतुना।  
 विभाव्यमन्यथा सिद्धिः कल्पकोटिर्न जायते॥
 
-चतुर्भोगसमायुक्तं विद्यापुरुष[वज्रिणम्](http://॑ "BC ° णः।")।  
+चतुर्भोगसमायुक्तं विद्यापुरुष[वज्रिणम्]("BC ° णः।")।  
 कायवाक्चित्तभेदेन त्रिकोणेषु विभावयेत्॥
 
 दशारं चक्रमापीतं तत्र मध्ये विभावयेत्।  
 सर्वारेषु दशक्रोधान् दशज्ञानात्मकोदयान्॥
 
-भावयेन्निरोध[चक्रेण](http://॑ "B ° वज्रेण, C °वज्रिणो।") निष्पन्नेनाग्र[चारुणा](http://॑ "A ° रूपिणा।")।  
+भावयेन्निरोध[चक्रेण]("B ° वज्रेण, C °वज्रिणो।") निष्पन्नेनाग्र[चारुणा]("A ° रूपिणा।")।  
 वज्रज्वालां स्फरेन्मेघैर्भ्रमन्तं निश्चलोपमम्॥
 
 इति धर्मोदयज्ञानं प्रकृत्या निर्मलं शिवम्।  
@@ -4906,24 +4829,24 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 [^174]: "B ° शोत्पत्तिकं।"
 
 साधनं प्रतिपत्तिश्च समयसम्बरं तथा।  
-सर्वं तद्विस्तरं पूर्वं [भि](http://॑ "A वि °।")द्यते क्रमभेदतः॥
+सर्वं तद्विस्तरं पूर्वं [भि]("A वि °।")द्यते क्रमभेदतः॥
 
 रूपशब्दादयः कामाः सुखदुःखोभयात्मकाः।  
 जनयन्ति हृदये नित्यं रागद्वेषतमोदयम्॥
 
-रागे राग[मयं](http://॑ "BC ° समं ।") वज्रं वज्रवद्रत्नसम्भवम्।  
+रागे राग[मयं]("BC ° समं ।") वज्रं वज्रवद्रत्नसम्भवम्।  
 रत्नवज्जायते समयं कामास्ते समयोपमाः॥
 
-[साकारं](http://॑ "B आकरं निकरं चैव,C आकारं चनिकरं च।") च निराकारं सर्वगं त्र्यक्षरात्मकम्।  
+[साकारं]("B आकरं निकरं चैव,C आकारं चनिकरं च।") च निराकारं सर्वगं त्र्यक्षरात्मकम्।  
 करणं हरणं चैव स्फारणं कुर्य्यात् स्वजापतः॥
 
 एवं द्वेषं च मोहं च निष्पाद्य भुवनत्रयम्।  
-[आमुद्र्य](http://॑ "BC अमुद्रा ।")गुह्यसंशुद्धमर्थं कुर्वन्ति वज्रिणः॥
+[आमुद्र्य]("BC अमुद्रा ।")गुह्यसंशुद्धमर्थं कुर्वन्ति वज्रिणः॥
 
 निष्पाद्य द्वेषचक्रं तु द्वेषयोगेन योगिनाम्।  
-[विदाह्य](http://॑ " A विघात्य")क्रूर[वज्रेण](http://॑ "B ° योगेण।")संहरेत् ज्ञानवज्रिणः॥
+[विदाह्य](" A विघात्य")क्रूर[वज्रेण]("B ° योगेण।")संहरेत् ज्ञानवज्रिणः॥
 
-तांस्तु संस्फार्य [संबोध्य](http://॑ "A बोधेन।")तद्वत्संहरणं पुनः।  
+तांस्तु संस्फार्य [संबोध्य]("A बोधेन।")तद्वत्संहरणं पुनः।  
 अभ्यसेद्योगमेवन्तु द्वेषवज्ज्रःस्वयं भवेत्॥
 
 मारणं जीवनं चैव त्रैधातुकमशेषतः।  
@@ -4932,17 +4855,17 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 निष्पाद्य मोहचक्रं तु मोहयोगेन योगिना।  
 भूषणाद्यानि यत्किंचित्तत्सर्वं चोदयेत्सदा॥
 
-मोहचित्तोदधिं [भाव्यं](http://॑ " A स्थाप्य।") सर्वरत्नैः प्रपूरितम्।  
+मोहचित्तोदधिं [भाव्यं](" A स्थाप्य।") सर्वरत्नैः प्रपूरितम्।  
 दानवर्षंप्रवर्षेत सर्वेषां मोहचक्रिणाम्॥
 
 प्रदानं हरणं चैव सर्वद्रव्यमशेषतः।  
 करोति क्षणमात्रेण चित्तवज्रस्थिरेण वै॥
 
 निष्पाद्य रागचक्रं तु रागयोगेन योगिना।  
-अपहृत्य सर्वदेवेभ्यः [काम](http://॑ " A कार °।")येत् कामयोगतः॥
+अपहृत्य सर्वदेवेभ्यः [काम](" A कार °।")येत् कामयोगतः॥
 
 रतिप्रीतिसुखैर्हर्षैः कामक्रीडाविकुर्वितैः।  
-प्रदातव्यं ततः [पञ्च](http://॑ "B पश्चात्।")देवेभ्यः सर्वचक्रिणा॥
+प्रदातव्यं ततः [पञ्च]("B पश्चात्।")देवेभ्यः सर्वचक्रिणा॥
 
 त्रैधातुकसमुत्पन्ना भार्या देवासुरा अपि।  
 कामयन्ति क्षणेनैव मानुष्यः किं पुनः स्त्रियः॥
@@ -4954,10 +4877,10 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 देहं मण्डलमित्युक्तं त्रिषु मण्डलकल्पना॥
 
 मुद्रितं मुद्रया सर्वं स्कन्धायतनधातुना।  
-तेन मुद्रा सदा [न्यस्ता](http://॑ "B ° भ्यस्ता।")मण्डलेति विनिर्दिशेत्॥
+तेन मुद्रा सदा [न्यस्ता]("B ° भ्यस्ता।")मण्डलेति विनिर्दिशेत्॥
 
-अङ्कुशं दण्ड[शूलं](http://॑ "C ° रूपं।") च खड्गंकोणेषु विन्यसेत्।  
-टक्किदण्डबलं बालं चक्रं [सुम्भ](http://॑ "BC शस्त्र °।")मधोर्द्धतः॥
+अङ्कुशं दण्ड[शूलं]("C ° रूपं।") च खड्गंकोणेषु विन्यसेत्।  
+टक्किदण्डबलं बालं चक्रं [सुम्भ]("BC शस्त्र °।")मधोर्द्धतः॥
 
 विद्याराजादिवज्राणां मुद्रा षट्चक्रवर्तिनाम्।  
 पृथिव्यादिषु सत्त्वानां मुद्रामण्डलकं स्वकम्॥
@@ -4972,43 +4895,43 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 कायवाक्चित्तभेदेन न्यासं कुर्यात् कुलक्रमैः॥
 
 **चैत्यं च सर्वबुद्धानां आलयस्थानमुच्यते।  
-ज्ञानसत्त्वेन यत् [सृष्टं](http://॑ "A पृष्ठं।")ज्ञानचक्रमिति स्मृतम्॥**
+ज्ञानसत्त्वेन यत् [सृष्टं]("A पृष्ठं।")ज्ञानचक्रमिति स्मृतम्॥**
 
 **बीजाक्षरपदं प्रोक्तं त्रिवज्राक्षरमक्षरम्।  
-चोदनं बोधनं प्रोक्तं कायवाक्चित्त[भावतः](http://॑ "BC ° तत्त्वतः।")॥**
+चोदनं बोधनं प्रोक्तं कायवाक्चित्त[भावतः]("BC ° तत्त्वतः।")॥**
 
 **प्रेरणं रश्मिसञ्चारं दशदिग्लोकधातुषु।  
 आमन्त्रणं सवज्राणां सर्ववज्रनिमन्त्रणम्॥**
 
 **रश्मिना सर्ववज्राणां सर्ववज्राणितत्पदे।  
-संहृत्य पिण्डरुपेण [बंधो](http://॑ "B वज्र °।") बन्धनमुच्यते॥**
+संहृत्य पिण्डरुपेण [बंधो]("B वज्र °।") बन्धनमुच्यते॥**
 
 **कायवाक्चित्तवज्रेण कायवाक्चित्तमण्डले।  
-आमुद्र्यकायवाक्चित्तं कल्पयेत् ले[ख्य](http://॑ "A° ख °।")मण्डलम्॥**
+आमुद्र्यकायवाक्चित्तं कल्पयेत् ले[ख्य]("A° ख °।")मण्डलम्॥**
 
 **अभिषेकं त्रिधा भेदमस्मिन्तन्त्रे प्रकल्पितम्।  
 कलशाभिषेकं प्रथमं द्वितीयं गुह्याभिषेकतः।  
 प्रज्ञाज्ञानं तृतीयं तु चतुर्थं तत् पुनस्तथा॥**
 
-**मन्त्रयोग्यां विशालाक्षीं[स](http://॑ "R सु °।")पुष्पां शुक्रसम्भवाम्।  
-गुह्यगुह्याभिषेकं तु दद्यात् शिष्य[स्य](http://॑ "R ° ष्ये।") मन्त्रिणः॥**
+**मन्त्रयोग्यां विशालाक्षीं[स]("R सु °।")पुष्पां शुक्रसम्भवाम्।  
+गुह्यगुह्याभिषेकं तु दद्यात् शिष्य[स्य]("R ° ष्ये।") मन्त्रिणः॥**
 
 **खधातुमध्यगतं कृत्वा विण्मूत्रमज्जसंयुतम्।  
-वज्रपद्मप्रयोगेन सर्ववज्रान् [समा](http://॑ "R ° वज्रसमो।")जयेत्॥**
+वज्रपद्मप्रयोगेन सर्ववज्रान् [समा]("R ° वज्रसमो।")जयेत्॥**
 
 **सर्वांस्तान् हृदये पात्य कायवाक्चित्तवज्रतः।  
-उत्सृज्य वज्रमार्गेण शिष्य[वक्त्रे](http://॑ "C ° वज्रे।")निपातयेत्॥**
+उत्सृज्य वज्रमार्गेण शिष्य[वक्त्रे]("C ° वज्रे।")निपातयेत्॥**
 
-**इदन्तत् सर्ववज्राणामभिषेकपदं [परम्](http://॑ "B ° वरं पदम्।")।  
+**इदन्तत् सर्ववज्राणामभिषेकपदं [परम्]("B ° वरं पदम्।")।  
 सिद्ध्यन्ति सर्वमन्त्राणि कर्माग्रप्रसराणि च॥**
 
-अति[श्रद्धां](http://॑ "B ° श्रद्धां, R ° श्राद्धो।") महाप्राज्ञींसुरूपां साधकप्रियाम्।  
-एकयोगक्रियाभ्यस्तां [समयीं](http://॑ "A omits. ")समपश्य वै॥
+अति[श्रद्धां]("B ° श्रद्धां, R ° श्राद्धो।") महाप्राज्ञींसुरूपां साधकप्रियाम्।  
+एकयोगक्रियाभ्यस्तां [समयीं]("A omits. ")समपश्य वै॥
 
-दक्षिणा [च](http://॑ "ABC ° य।") प्रदातव्या गुरवे साधकेन वै।  
+दक्षिणा [च]("ABC ° य।") प्रदातव्या गुरवे साधकेन वै।  
 अध्येष्य गुरुणा तस्य दातव्या साधकस्य तु॥
 
-मूढे मोहात्मकं योगं मोहर[त्या](http://॑ "AR ° क्तां।")समन्वितम्।  
+मूढे मोहात्मकं योगं मोहर[त्या]("AR ° क्तां।")समन्वितम्।  
 निःसे[^175]कान्मोहधाराभिर्मोहवज्रःस्वयं भवेत्॥
 
 [^175]: "B° शो °।"
@@ -5024,47 +4947,47 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 प्रज्ञाज्ञानात्मकं योगं वज्ररत्या समन्वितम्।  
 निःसेकाद् ज्ञानधाराभिः प्रज्ञाज्ञानः स्वयं भवेत्॥
 
-तामेव देवतां विद्यां गृह्य [शिष्य](http://॑ " ABC गुह्याभिषेक °।")स्य वज्रिणः।  
+तामेव देवतां विद्यां गृह्य [शिष्य](" ABC गुह्याभिषेक °।")स्य वज्रिणः।  
 पाणौ पाणिः प्रदातव्यः साक्षीकृत्य तथागतान्॥
 
-हस्तं दत्वा शिरे [शिष्य](http://॑ "B शिष्यशिरसि।")मुच्यते गुरुवज्रिणा।  
+हस्तं दत्वा शिरे [शिष्य]("B शिष्यशिरसि।")मुच्यते गुरुवज्रिणा।  
 नान्योपायेन बुद्धत्वं तस्माद्विद्यामिमां वराम्॥
 
 अद्वयाः सर्वधर्मास्तु द्वयभावेन लक्षिताः।  
 तस्माद्वियोगः संसारे न कार्यो भवता सदा॥
 
 इदं तत्सर्वबुद्धानां विद्याव्रतमनुत्तमम्।  
-अतिक्रमति यो मूढः सिद्धिस्तस्य न [चो](http://॑ "B तथो °।")त्तमा॥
+अतिक्रमति यो मूढः सिद्धिस्तस्य न [चो]("B तथो °।")त्तमा॥
 
 प्रकृत्या देहधर्मेषु भ्राजते मलपञ्चकम्।  
 पञ्चज्ञानैरधिष्ठानात्पञ्चामृतमिति स्मृतम्॥
 
-[ज्वा](http://॑ "B ज्व °।")लनं तापनं चैवोद्योतनं रूपदर्शनम्।  
+[ज्वा]("B ज्व °।")लनं तापनं चैवोद्योतनं रूपदर्शनम्।  
 मन्त्रमूर्त्तिप्रयोगेण भवेत्पञ्चामृतामृतम्॥
 
-अन्तरिक्षगतं [चिन्ते](http://॑ "CR ° वज्रं, B ध्येयं।")द्ववज्रहूङ्कारसम्भवम्।  
-[अधस्तात्तु](http://॑ "AB omit this line.") तत्र भागे [पद्म](http://॑ "C ° त्तत्र भावेन।")मा[कार](http://॑ "C पद्मा °।") सम्भवम्।  
-ॐकाराङ्कित[ममृतं](http://॑ "BCR ° नमृतान्।") तत्र मध्ये निवेशयेत्॥
+अन्तरिक्षगतं [चिन्ते]("CR ° वज्रं, B ध्येयं।")द्ववज्रहूङ्कारसम्भवम्।  
+[अधस्तात्तु]("AB omit this line.") तत्र भागे [पद्म]("C ° त्तत्र भावेन।")मा[कार]("C पद्मा °।") सम्भवम्।  
+ॐकाराङ्कित[ममृतं]("BCR ° नमृतान्।") तत्र मध्ये निवेशयेत्॥
 
-वज्रपद्मसमायोगा[ज्ज्वाल्य](http://॑ "R ज्ञानं, BC ज्वाल °।")[सन्ताप्य](http://॑ " A सन्ताप °, Ꭱसन्तुष्य।")योगिना।  
-[उद्यते](http://॑ "AC उद्योत°।")स्फटिकाकारं ज्ञानसूर्यमिवापरम्॥
+वज्रपद्मसमायोगा[ज्ज्वाल्य]("R ज्ञानं, BC ज्वाल °।")[सन्ताप्य](" A सन्ताप °, Ꭱसन्तुष्य।")योगिना।  
+[उद्यते]("AC उद्योत°।")स्फटिकाकारं ज्ञानसूर्यमिवापरम्॥
 
 आकृष्य परमास्त्रेण दशदिग्लोकधातुषु।  
-अमृतं तत्र[संपात्य](http://॑ " A  ° प्राप्य,C° योज्य, B ° पाद्य।")भक्षेद् भक्षणयोगतः॥
+अमृतं तत्र[संपात्य](" A  ° प्राप्य,C° योज्य, B ° पाद्य।")भक्षेद् भक्षणयोगतः॥
 
 पञ्चवीर्यं तथा भक्ष्यं साध्यसिद्धिविधानतः।  
 निष्पाद्य त्र्यक्षरैर्बीजैरन्यथा नैव सिद्धिदाः॥
 
 अन्तर्द्धानादयः सिद्धाः सामान्या इति कीर्तिताः।  
-सिद्धिरुत्तममित्याहुर्बुद्धाबुद्धत्व[साधनम्](http://॑ "A  ° भावनं।")॥
+सिद्धिरुत्तममित्याहुर्बुद्धाबुद्धत्व[साधनम्]("A  ° भावनं।")॥
 
 चतुर्विधमुपायन्तु बोधिवज्रेण वर्णितम्।  
-योगतन्त्रेषु सर्वेषु [शस्यते](http://॑ " B चाख्यातं सम्पात °, C वा ख्यातंसंख्या ते।")योगिना सदा॥
+योगतन्त्रेषु सर्वेषु [शस्यते](" B चाख्यातं सम्पात °, C वा ख्यातंसंख्या ते।")योगिना सदा॥
 
 सेवाविधानं प्रथमं द्वितीयमुपसाधनम्।  
 साधनन्तु तृतीयं वै महासाधनं चतुर्थकम्॥
 
-सामान्योत्तमभेदेन सेवा तु [द्विविधा](http://॑ "ABC चतुर्विधा °।") भवेत्।  
+सामान्योत्तमभेदेन सेवा तु [द्विविधा]("ABC चतुर्विधा °।") भवेत्।  
 वज्रचतुष्केण सामान्यमुत्तमं ज्ञानामृतेन च॥
 
 प्रथमं शून्यताबोधिं द्वितीयं बीजसंहृतम्।  
@@ -5075,31 +4998,31 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
 [^177]: "This and the next line are omitted inBC."
 
-सेवाषडङ्ग[योगेन](http://॑ "B षडभिरेभिः सेवायोगैः।") कृत्वा साधनमुत्तमम्।  
+सेवाषडङ्ग[योगेन]("B षडभिरेभिः सेवायोगैः।") कृत्वा साधनमुत्तमम्।  
 साधयेदन्यथा नैव जायते सिद्धिरुत्तमा॥
 
-प्रत्याहारस्तथा ध्यानं प्राणायामोऽथ धार[णा](http://॑ "BC ° णम्।")।  
+प्रत्याहारस्तथा ध्यानं प्राणायामोऽथ धार[णा]("BC ° णम्।")।  
 अनुस्मृतिः समाधिश्च षडङ्गो योग उच्यते॥
 
-दशानामिन्द्रियाणान्तु स्ववृत्तिस्था[नान्तु](http://॑ "R पूटण्वन्तु तिष्ठन्तु।") सर्वतः।  
+दशानामिन्द्रियाणान्तु स्ववृत्तिस्था[नान्तु]("R पूटण्वन्तु तिष्ठन्तु।") सर्वतः।  
 प्रत्याहारमिति प्रोक्तमाहारप्रतिपत्तये[^178]॥
 
 [^178]: "A कामाहारंप्रति प्रति।"
 
 पञ्चकामाः समासेन पञ्चबुद्धप्रयोगतः।  
-कल्प[नं](http://॑ "C ° ना।") ध्यानमुच्येत तद् ध्यानं पञ्चधा भवेत्॥
+कल्प[नं]("C ° ना।") ध्यानमुच्येत तद् ध्यानं पञ्चधा भवेत्॥
 
 वितर्कं च विचारं च प्रीतिश्चैव सुखं तथा।  
 चित्तस्यैकाग्रता चैव पञ्चैते ध्यानसंग्रहाः॥
 
 गुह्यतन्त्रेषु सर्वेषु विविधाः परिकीर्तिताः।  
-गुह्यं तर्कोदयं तर्कं विचारं तत् [प्रयोगतः](http://॑ "R प्रभागता")॥
+गुह्यं तर्कोदयं तर्कं विचारं तत् [प्रयोगतः]("R प्रभागता")॥
 
 तृतीयं प्रीतिसङ्काशं चतुर्थं सुखसंग्रहम्।  
-स्वचित्तं पञ्चमं ज्ञेयं ज्ञानं [ज्ञेयो](http://॑ "C ज्ञेयं ज्ञानो °।")दयक्षमम्॥
+स्वचित्तं पञ्चमं ज्ञेयं ज्ञानं [ज्ञेयो]("C ज्ञेयं ज्ञानो °।")दयक्षमम्॥
 
 सर्वबुद्धमयं शान्तं सर्वकामप्रतिष्ठितम्।  
-पञ्चज्ञानमयं [श्वासं](http://॑ "R त्रासं।") पञ्चभूतस्वभावकम्॥
+पञ्चज्ञानमयं [श्वासं]("R त्रासं।") पञ्चभूतस्वभावकम्॥
 
 निश्चार्य पिण्डरूपेण नासिकाग्रे तु कल्पयेत्।  
 पञ्चवर्णं महारत्नं प्राणायाममिति स्मृतम्॥
@@ -5111,9 +5034,9 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 पञ्चधा तु निमित्तं तद् बोधिवज्रेण भाषितम्॥
 
 प्रथमं मरीचिकाकारं धूम्राकारं द्वितीयकम्।  
-तृतीयं खद्यो[ताकारं](http://॑ "ABC ° तका °।") चतुर्थं दीपवज्ज्वलम्॥
+तृतीयं खद्यो[ताकारं]("ABC ° तका °।") चतुर्थं दीपवज्ज्वलम्॥
 
-पञ्चमन्तु सदालोकं [निरभ्रं](http://॑ "R नियतं, B निरतं।") गगनसन्निभम्।  
+पञ्चमन्तु सदालोकं [निरभ्रं]("R नियतं, B निरतं।") गगनसन्निभम्।  
 स्थिरन्तु वज्रमार्गेण स्फारयीत खधातुषु॥
 
 विभाव्य यदनुस्मृत्या तदाकारन्तु संस्मरेत्।  
@@ -5123,12 +5046,12 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 संहृत्य पिण्डयोगेन बिम्बमध्ये विभावनम्॥
 
 झटिति ज्ञाननिष्यत्तिः समाधिरिति संज्ञितः।  
-प्रत्याहारं समा[सा](http://॑ " R ° प °।")द्य सर्वमन्त्रैरधिष्ठ्यते॥
+प्रत्याहारं समा[सा](" R ° प °।")द्य सर्वमन्त्रैरधिष्ठ्यते॥
 
 ध्यानज्ञानं समापद्य पञ्चाभिज्ञत्वमाप्नुयात्।  
-प्राणायामेन नियतं बोधिसत्त्वैर[धिष्ठ्यते](http://॑ "ABC° र्निरीक्ष्यते।")॥
+प्राणायामेन नियतं बोधिसत्त्वैर[धिष्ठ्यते]("ABC° र्निरीक्ष्यते।")॥
 
-धारणा[नु](http://॑ "BCR ° न्तु ।")बलान्नित्यं वज्रसत्त्वः समाविशेत्।  
+धारणा[नु]("BCR ° न्तु ।")बलान्नित्यं वज्रसत्त्वः समाविशेत्।  
 अनुस्मृतिसमायोगात्प्रभामण्डल जायते॥
 
 समाधिवसितामात्रे निरावरणवान्भवेत्।  
@@ -5139,36 +5062,36 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 आकृष्य परमास्त्रेण चित्तं मन्त्रमयीकृतम्।  
 मन्त्रमूर्तिप्रयोगेण बोधिगाथामुदाहरेत्॥
 
-**खमण्डलसमारूढं [बोधि](http://॑ "BC विधि °।")संयोगभावनैः।  
+**खमण्डलसमारूढं [बोधि]("BC विधि °।")संयोगभावनैः।  
 तच्चित्तं ज्ञानबिम्बेन भावनमुपसाधनम्॥**
 
 **दर्शनं च द्विधा यावत् तावत् षण्मासभावनम्।  
 सर्वकामोपभोगैस्तु कर्तव्यं सर्वतः सदा॥**
 
 **दर्शनं यदि षण्मासैर्यदुक्तं नैव जायते।  
-आरभेत त्रिभिर्वारैर्यथोक्तविधि[सम्बरैः](http://॑ "B ° सम्भवैः।")॥**
+आरभेत त्रिभिर्वारैर्यथोक्तविधि[सम्बरैः]("B ° सम्भवैः।")॥**
 
 **दर्शनं तु कृतेऽप्येवं साधकस्य न जायते।  
 यदा न सिध्यते बोधिर्हठयोगेन साधयेत्॥**
 
-**ज्ञान सिद्धिस्तदा तस्य [योगेनै](http://॑ "BC तस्यावश्यमे °।")वोपजायते।  
+**ज्ञान सिद्धिस्तदा तस्य [योगेनै]("BC तस्यावश्यमे °।")वोपजायते।  
 कुलभेदप्रयोगेण वज्रकीलेन कीलयेत्॥**
 
 **वशीकरणरक्षां च ततः कुर्यात्प्रयोगतः।  
-महारागनयेनैव संहृत्य ज्ञान[चक्रि](http://॑ "R °वज्रि°।")णम्॥**
+महारागनयेनैव संहृत्य ज्ञान[चक्रि]("R °वज्रि°।")णम्॥**
 
 **योषितं स्फार्य नवधा साध्याया विग्रहे न्यसेत्।  
 परिवर्त्य चतुर्मुद्रां मण्डलं तत्र कल्पयेत्॥**
 
-**आत्ममध्यगतं कृत्वा संहरेत्सर्व[चक्रि](http://॑ "R ° वज्रि °।")णम्।  
+**आत्ममध्यगतं कृत्वा संहरेत्सर्व[चक्रि]("R ° वज्रि °।")णम्।  
 सर्ववज्रमयं कृत्वा तदा बोधिं विभावयेत्॥**
 
-**चतुर्भिश्चोदनागीतैर्देवीभि[श्चोदिते](http://॑ " R ° ति चोदते।")हृदि।  
-त्र्यध्ववज्रमयं [चिन्तेद्](http://॑ "R चित्तं।") ज्ञानवद्देहभावनम्॥**
+**चतुर्भिश्चोदनागीतैर्देवीभि[श्चोदिते](" R ° ति चोदते।")हृदि।  
+त्र्यध्ववज्रमयं [चिन्तेद्]("R चित्तं।") ज्ञानवद्देहभावनम्॥**
 
 **मदेन भिद्यते वर्णं रसेन हृदयं तथा।  
 स्वहेतुरभिषेकेण फलमाधारभेदतः।  
-मन्त्रेण भिद्यते [च](http://॑ "R ध °।")र्म विद्यापि धर्ममुद्रया॥**
+मन्त्रेण भिद्यते [च]("R ध °।")र्म विद्यापि धर्ममुद्रया॥**
 
 **षट्चक्रवर्तिनो राज्ञ उष्णीषात्तु विनिःसृता।**
 
@@ -5187,10 +5110,10 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 सेवाकाले महोष्णीषं बिम्बमालंब्ययोगतः॥
 
 उपसाधनकाले तु बिम्बममृतकुण्डलम्।  
-साधने देवतायोगं कुर्यान्मन्त्रीविधानवि[त्](http://॑ "A ° तः। ")॥
+साधने देवतायोगं कुर्यान्मन्त्रीविधानवि[त्]("A ° तः। ")॥
 
 महासाधनकाले च बिम्बं बुद्धाधिपं विभुम्।  
-इदं तत् सर्व[वज्राणां](http://॑ "BC ° बुद्धानां ।") रहस्यं परमयोगिनाम्॥
+इदं तत् सर्व[वज्राणां]("BC ° बुद्धानां ।") रहस्यं परमयोगिनाम्॥
 
 इति बुद्ध्वाविभागेन साधयेत्सिद्धिमुत्तमाम्।  
 अन्यथा नैव संसिद्धिर्जायते उत्तमं शिवम्॥
@@ -5202,30 +5125,30 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 साधनं चालनं प्रोक्तं हूँफट्कारसमन्वितम्॥
 
 खभावं खमुखं शान्तं महासाधनमुच्यते।  
-सर्वबुद्धाधिपः श्रीमान् महावज्र[धरैः](http://॑ "R° धरो, BCधरी °।") पदम्॥
+सर्वबुद्धाधिपः श्रीमान् महावज्र[धरैः]("R° धरो, BCधरी °।") पदम्॥
 
 उपेयः सर्वबुद्धानां धर्माणां सैव धर्मता।  
-यद्यत्कर्मानु[रूपेण](http://॑ " R संसारेण।") योगमा[लंब्य](http://॑ "R ° लभ्य।")योगिनः॥
+यद्यत्कर्मानु[रूपेण](" R संसारेण।") योगमा[लंब्य]("R ° लभ्य।")योगिनः॥
 
 **निष्पाद्य मण्डलं तत्र श्रावयेत्समयदारुणम्।  
 समयं रक्षयेत्पूर्वं कायवाक्चित्तवज्रिणः॥**
 
-**अथवोष्णीषसम[यी](http://॑ "B ° यैः।")यथोक्तविधि[सम्भवैः](http://॑ "B भावनैः।")।  
-[तत्तत्](http://॑ " A तत्त्व °।") कर्मानुरूपेण [स्व](http://॑ "AR स °।")चक्राज्ञां तु दीयते॥**
+**अथवोष्णीषसम[यी]("B ° यैः।")यथोक्तविधि[सम्भवैः]("B भावनैः।")।  
+[तत्तत्](" A तत्त्व °।") कर्मानुरूपेण [स्व]("AR स °।")चक्राज्ञां तु दीयते॥**
 
-**[साध्यम](http://॑ "R साधक °।")स्यापि यद्देहं मण्डलेन विभावयेत्।  
-[अपरं](http://॑ "B ° राधं।") श्रावयेत् तस्य तेषां देहस्थचक्रिणाम्[^181]॥**
+**[साध्यम]("R साधक °।")स्यापि यद्देहं मण्डलेन विभावयेत्।  
+[अपरं]("B ° राधं।") श्रावयेत् तस्य तेषां देहस्थचक्रिणाम्[^181]॥**
 
 [^181]: "R ° वज्रिणा।"
 
 **तस्य पातं ततः कृत्वा निष्क्रान्तान् प्रविभावयेत्।  
-आकृष्य सर्वभावेन [स्वचक्रे](http://॑ "R ° ण।") तान् प्रवेशयेत्॥**
+आकृष्य सर्वभावेन [स्वचक्रे]("R ° ण।") तान् प्रवेशयेत्॥**
 
 **कृत्वा प्रतिकृतिं तस्य यथोक्तद्रव्यसम्भवैः।  
 लिङ्गमाक्रम्य पादेन कोधाविष्टेन चेतसा॥**
 
-**गृहीता[ज्ञान्](http://॑ "R ° त्वा तु।")ततः क्रोधान् नानाभीतगणैर्वृतान्।  
-प्रेषयेत् [घात](http://॑ "C घाट °, B द्योत °।")नार्थाय साध्यसाधकवज्रिणः॥**
+**गृहीता[ज्ञान्]("R ° त्वा तु।")ततः क्रोधान् नानाभीतगणैर्वृतान्।  
+प्रेषयेत् [घात]("C घाट °, B द्योत °।")नार्थाय साध्यसाधकवज्रिणः॥**
 
 **बन्धितं ताडितं तेन क्रोधराजेन वेष्टितम्।  
 सन्तप्तं त्राससम्भूतं साध्यमाकर्षयेत्ततः॥**
@@ -5233,35 +5156,35 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 **पातयेत्प्रतिकृतौ तस्य त्रिवज्रस्य तु मन्त्रिणः।  
 कीलयेत्कीलमन्त्रेण मूर्ध्नि कण्ठे तथा हृदि॥**
 
-**ईतिश्चोपद्रवान् [रोगा](http://॑ "AR ° नागा °।")न् नानाविषसमुद्भवान्।  
+**ईतिश्चोपद्रवान् [रोगा]("AR ° नागा °।")न् नानाविषसमुद्भवान्।  
 निपात्य तत्र बिम्बेषु तेषामपि सुकीलयेत्॥**
 
-**ततः सर्व[प्रयोगेण](http://॑ "BC ततः सर्वत्र योगेषु।") यथोक्तविधिसम्भवैः।  
+**ततः सर्व[प्रयोगेण]("BC ततः सर्वत्र योगेषु।") यथोक्तविधिसम्भवैः।  
 यन्त्रमन्त्रप्रयोगादीन् योजयेत्कर्मभेदतः॥**
 
-**जपं [वा](http://॑ "C ख °।") लिङ्गमाक्रम्य होमं वा क्रोधमण्डले  
+**जपं [वा]("C ख °।") लिङ्गमाक्रम्य होमं वा क्रोधमण्डले  
 ध्यानं वा क्रूरसत्त्वैस्तु खाद्यमानं प्रकल्पयेत्॥**
 
-शान्तिके शान्तचिन्तं तु पौष्टिके [पुष्टि](http://॑ "BC पुष्ट °।")मानसम्।  
-वश्ये रक्तं मनः कृत्वा क्रोधे [क्रुद्धं](http://॑ "ABC क्रोधान् क्रूरान्।") प्रसाधयेत्॥ इति॥
+शान्तिके शान्तचिन्तं तु पौष्टिके [पुष्टि]("BC पुष्ट °।")मानसम्।  
+वश्ये रक्तं मनः कृत्वा क्रोधे [क्रुद्धं]("ABC क्रोधान् क्रूरान्।") प्रसाधयेत्॥ इति॥
 
- अथ भगवन्तः सर्वतथागतास्तेषां बोधिसत्त्वानां महासत्त्वानां संशय[च्छेदं](http://॑ "R ° त्तारं।") कृत्वा सर्वसंशयच्छेत्तारं कायवाक्चित्त[वज्रं](http://॑ "A ° ज्रजं।") स्वकायवाक्चित्तवज्रेषु विहरन्तं स्वकायवाक्चित्तेनालंब्यतूष्णीमवस्थिता अभूवन्।
+ अथ भगवन्तः सर्वतथागतास्तेषां बोधिसत्त्वानां महासत्त्वानां संशय[च्छेदं]("R ° त्तारं।") कृत्वा सर्वसंशयच्छेत्तारं कायवाक्चित्त[वज्रं]("A ° ज्रजं।") स्वकायवाक्चित्तवज्रेषु विहरन्तं स्वकायवाक्चित्तेनालंब्यतूष्णीमवस्थिता अभूवन्।
 
  अथ ते सर्वे बोधिसत्त्वा महासत्त्वास्तान्सर्वतथागतान् अनेनस्तोत्रराजेन स्तुवन्ति स्म।
 
 नमस्ते सर्वकायेभ्यः सर्ववाग्भ्यो नमो नमः।  
-[नमस्ते](http://॑ "C omits this line.") सर्वचित्तेभ्यः सत्त्वहृद्भ्योनमो नमः॥
+[नमस्ते]("C omits this line.") सर्वचित्तेभ्यः सत्त्वहृद्भ्योनमो नमः॥
 
-कायवाक्चित्तवज्राणां कायवाक्चित्त[भावतः](http://॑ "BC ° लाभतः।")।  
+कायवाक्चित्तवज्राणां कायवाक्चित्त[भावतः]("BC ° लाभतः।")।  
 सत्त्वासमसमा बुद्धाः कः साध्यः कश्च साधकः॥
 
-सर्वबुद्धविघातेन साध[कस्य](http://॑ " AC ° केन्द्रं, R ° केन्द्रो।")महात्मनः।  
+सर्वबुद्धविघातेन साध[कस्य](" AC ° केन्द्रं, R ° केन्द्रो।")महात्मनः।  
 कथं न लिप्यते पापैर्यदि लिप्तः फलं कथम्॥
 
  अथ ते सर्वतथागतास्तेषां महाबोधिसत्त्वानां साधुकारमददुः।
 
-साधु साधु महासत्त्वाः साधु साधु महा[मुने](http://॑ "A ° त्मनः।")।  
-साधु साधु महाघोषाः साधु साधु महा[महाः](http://॑ "B ° शयाः।")॥
+साधु साधु महासत्त्वाः साधु साधु महा[मुने]("A ° त्मनः।")।  
+साधु साधु महाघोषाः साधु साधु महा[महाः]("B ° शयाः।")॥
 
 सर्वबुद्धाधिपः श्रीमानाचार्यो बोधिवज्रिणः।  
 मायावत्सर्वभावान्वै सृष्टिसंहारकारकः॥
@@ -5272,7 +5195,7 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 **वञ्चनं तस्य नाथस्य नाशनं सर्वदेहिनाम्।  
 दुर्गतिर्नैव जायेत बोधिश्चापि न दुर्लभा॥**
 
-**पूर्वेण कृतकर्मेण घोरेण यदि [ना](http://॑ "R मा °।")रकम्।  
+**पूर्वेण कृतकर्मेण घोरेण यदि [ना]("R मा °।")रकम्।  
 जन्तूनां जायते तेषां नारकाणां महत्फलम्॥**
 
 **ज्ञानेन मुद्रिता भोन्ति साध्योऽयं बोधिवज्रिणाम्।  
@@ -5281,7 +5204,7 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 **निग्रहानुग्रहं कर्म तेन कृत्यं महात्मनाम्।  
 महासाधनपर्यन्तं कृत्वा कर्म समारभेत्॥**
 
- अथ ते सर्वे बोधिसत्त्वा महासत्त्वाः सर्ववज्राणां महाकरुणान[यधर्मं](http://॑ "B ° र्मतत्त्वं।") श्रुत्वा तुष्टाः प्रतुष्टाः सन्तुष्टाः साधुकारमददुः।
+ अथ ते सर्वे बोधिसत्त्वा महासत्त्वाः सर्ववज्राणां महाकरुणान[यधर्मं]("B ° र्मतत्त्वं।") श्रुत्वा तुष्टाः प्रतुष्टाः सन्तुष्टाः साधुकारमददुः।
 
 **साधु साधु महानाथाः साधु साधु महामुने।  
 साधु साधु महाधर्माः साधु साधु महाकृपाः॥**
@@ -5291,56 +5214,52 @@ Il[क्षिँ](http://॑ "C क्षं। ")॥
 
  अथ ते सर्वतथागतास्तेषां बोधिसत्त्वानां महासत्त्वानामेवमाहुः। तेन हि कुलपुत्रा अस्मिन्सर्वतथागताभिषेकगुह्यसमाजेऽभिषिक्तेन मन्त्रिणा न त्रसितव्यं न संत्रसितव्यं नसंत्रासमाप्तव्यम्। तत्कस्य हेतोः?
 
-**बोधिवज्राभिसम्भूता द्वेषवज्रादयो [महाः](http://॑ "ABR ° न्, C न्तः।")।  
+**बोधिवज्राभिसम्भूता द्वेषवज्रादयो [महाः]("ABR ° न्, C न्तः।")।  
 प्रतिक्षेपो न कर्तव्यः प्रबन्धे मन्त्रसंग्रहे॥**
 
  अथ ते बोधिसत्त्वा महासत्त्वास्तान् सर्वतथागतानेककण्ठेनाभिर्गाथाभिः स्तुवन्ति स्म।
 
-यं त्र्यध्ववज्रमुदयं भवमोक्षभूतं शान्तं निरावरणशुद्धखधातु[भावम्](http://॑ "A ° व्य।")।  
-बुद्धादिबुद्धपरमेश्वरबोधिवज्रं तं [काय](http://॑ "MSS. add वाक्which is redundant anddisturbs the metre.")[चित्त](http://॑ "B ° वज्र °।")वचनैः सततं नमामः॥
+यं त्र्यध्ववज्रमुदयं भवमोक्षभूतं शान्तं निरावरणशुद्धखधातु[भावम्]("A ° व्य।")।  
+बुद्धादिबुद्धपरमेश्वरबोधिवज्रं तं [काय]("MSS. add वाक्which is redundant anddisturbs the metre.")[चित्त]("B ° वज्र °।")वचनैः सततं नमामः॥
 
 यद्रूपवेदनसंज्ञसुसंस्कृतं च विज्ञानमायतनषट्कषडिन्द्रियं च।  
-अप्तेजवायुपृथिवीगगनं च सर्वान् तान् बोधिचित्तसदृशान् [विपुलान्](http://॑ "AR सततं।")नमामः॥
+अप्तेजवायुपृथिवीगगनं च सर्वान् तान् बोधिचित्तसदृशान् [विपुलान्]("AR सततं।")नमामः॥
 
 यन्मोह द्वेष तथ राग सवज्रधर्मान् विद्याप्रयोगजनितान् सततं प्रधर्मान्।  
 नानाविचित्ररतिविह्वलभावभूतान् तान् बोधिचित्तसदृशान् विपुलान् नमामः॥
 
 संग्राहणं रति तथ कृतिनिश्चलं च हेतुफलप्रकृतिचित्तगतानुधर्मान्।  
-[भ्रम](http://॑ "A तत्रम °,BC तम °।")दोष राग तथ आवरणञ्च वज्रान् तान् बोधि[वज्र](http://॑ "ABC चित्त °।")सदृशान् विपुलान् नमामः॥
+[भ्रम]("A तत्रम °,BC तम °।")दोष राग तथ आवरणञ्च वज्रान् तान् बोधि[वज्र]("ABC चित्त °।")सदृशान् विपुलान् नमामः॥
 
-ध्यायन्ति ये [इमु](http://॑ "R इमं।") विशुद्धमनादिभावं प्रज्ञा-उपायजनितं विगतोपमं च।  
+ध्यायन्ति ये [इमु]("R इमं।") विशुद्धमनादिभावं प्रज्ञा-उपायजनितं विगतोपमं च।  
 गुह्याभिषेकव्रतसम्बरयोगनित्यं
 
 तान्बोधिवज्र इव लक्ष्य सदा नमामः॥
 
-ये भावयन्ति इमु उत्तमसिध्युपायं[सेवा](http://॑ " R repeats.")विधानमुपसाधनसा[धनेन](http://॑ "R ° नस्य।")।  
-ये महासाधनमति[निश्चित](http://॑ "ABC निश्चल °।")साधकेन्द्रास्तान् बोधिवज्रइव लक्ष्य सदा नमामः॥
+ये भावयन्ति इमु उत्तमसिध्युपायं[सेवा](" R repeats.")विधानमुपसाधनसा[धनेन]("R ° नस्य।")।  
+ये महासाधनमति[निश्चित]("ABC निश्चल °।")साधकेन्द्रास्तान् बोधिवज्रइव लक्ष्य सदा नमामः॥
 
-[ये](http://॑ "LacunaebeginsinA and continues up to बोधिसत्त्वा महायशाः।") साधयन्ति कृतसन्ध्यचतुष्कवज्रैरन्तर्हितादिविविधानिह हीन[सिद्धीन्](http://॑ " R ° मंत्राः।")।  
+[ये]("LacunaebeginsinA and continues up to बोधिसत्त्वा महायशाः।") साधयन्ति कृतसन्ध्यचतुष्कवज्रैरन्तर्हितादिविविधानिह हीन[सिद्धीन्](" R ° मंत्राः।")।  
 अविनष्टमार्ग इमु बुद्धगुरुप्रसादैस्तान् बोधिवज्रइव लक्ष्य सदा नमामः॥
 
-शृण्वन्ति ये इमु समाजसुगुह्यतन्त्रं स्वाध्यां [करोन्ति](http://॑ "BC करोति।") च पठन्ति च चिन्तयन्ति।  
+शृण्वन्ति ये इमु समाजसुगुह्यतन्त्रं स्वाध्यां [करोन्ति]("BC करोति।") च पठन्ति च चिन्तयन्ति।  
 पूजां करोन्ति च लिखन्ति च लेखयन्ति तान् बोधिवज्रइव लक्ष्य सदा नमामः॥
 
-स्वाध्यां च [ये](http://॑ "BC ध्यात्वापाय (?)।") इमु अभियुक्तसुसाध[केन्द्राः](http://॑ "BC ° कैस्तैः।")शान्त्यादिकर्मप्रसरेण सुकल्पितेन।  
+स्वाध्यां च [ये]("BC ध्यात्वापाय (?)।") इमु अभियुक्तसुसाध[केन्द्राः]("BC ° कैस्तैः।")शान्त्यादिकर्मप्रसरेण सुकल्पितेन।  
 यन्त्रेण मन्त्रविदितेन तथ मुद्रितेन तान् बोधिवज्रइव लक्ष्य सदा नमामः॥
 
-ये [देश](http://॑ "CB दर्श °।")यन्ति च स्पृशन्ति च संस्मरन्ति शृण्वन्ति साधकविभोः खलु नाममात्रम्।  
-श्रद्धां [करोन्ति](http://॑ "B कुर्वन्ति, C करोति।") च वसन्ति च एकदेशे तान्बोधिवज्र इव लक्ष्य सदा नमामः॥
+ये [देश]("CB दर्श °।")यन्ति च स्पृशन्ति च संस्मरन्ति शृण्वन्ति साधकविभोः खलु नाममात्रम्।  
+श्रद्धां [करोन्ति]("B कुर्वन्ति, C करोति।") च वसन्ति च एकदेशे तान्बोधिवज्र इव लक्ष्य सदा नमामः॥
 
 एभिः स्तोत्रपदैः शान्तैस्तनुयात् सर्वनायकान्।  
-अनुमोदयन्ति ते नाथा बोधिसत्त्वा महा[महाः](http://॑ "B° दशाः।")॥
+अनुमोदयन्ति ते नाथा बोधिसत्त्वा महा[महाः]("B° दशाः।")॥
 
 सुभाषितमिदं तन्त्रं सर्वतन्त्राधिपं परम्।  
-सर्वताथागतं गुह्यसमाजं गुह्यसम्भवम्॥ [इति](http://॑ "R ends here.")॥
+सर्वताथागतं गुह्यसमाजं गुह्यसम्भवम्॥ [इति]("R ends here.")॥
 
  इदमुक्त्वाते सर्वतथागतास्ते च बोधिसत्त्वा महासत्त्वाःस्वकायवाक्चित्तवज्रेषु विहरन्तं कायवाक्चित्तवज्रस्य कायवाक्चित्तं स्वकायवाक्चित्तेनालम्ब्यतूष्णीमभूवन्॥ इति॥
 
-
-
 ॥इति श्रीसर्वतथागतकायवाक्चित्तरहस्यातिरहस्ये गुह्यसमाजे महागुह्यतन्त्रराजे सर्वगुह्यनिर्देशवज्रज्ञानाधिष्ठानं नामपटलोऽष्टादशः॥
-
-
 
 ॥समाप्तोऽयं श्रीगुह्यसमाजस्य तन्त्रराजस्यपूर्वार्द्धकायः॥  
 
@@ -5352,83 +5271,43 @@ Index of Words.
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **Index of Verses.**  
 
@@ -5436,81 +5315,43 @@ Index of Words.
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 [TABLE]
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **Addenda et Corrigenda.**  
 
@@ -5519,11 +5360,7 @@ incorporated in the edition.
 
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **GAEKWAD'S ORIENTAL SERIES  
 ![](../../../books_images/U-IMG-1726829214Capture.PNG)**
@@ -5548,8 +5385,6 @@ This book has been set as a text-book by several Universities includingBenares, 
 **6.** **Lingānuśāsana**: on Grammar, by Vamana, who livedbetween the last quarter of the 8th century and thefirst quarter of the 9th century: edited by C. D.Dalal, 1918.
 
 **7.** **Vasantavilāsa**: an historical poem (Mahākāvya) describing the life of Vastupala and the history of
-
-
 
 Guzerat, by Bālachandrasūri (from Moḍheraka orModhera in Kadi Prant, Baroda State), contemporaryof Vastupāla, composed after his death for his son inSamvat 1296 (A.D. 1240) : edited by C. D. Dalal, 1917
 
@@ -5577,8 +5412,6 @@ Guzerat, by Bālachandrasūri (from Moḍheraka orModhera in Kadi Prant, Baroda 
 
 19\. **Lekhapaddhati** : a collection of models of state and private documents, dating from 8th to 15th centuries A.D.:
 
-
-
 edited by C. D. Dalal and G. K. Shrigondekar,1925
 
 20\. **Bhaviṣayattakahā or Pañcamikahā** : a romance inApabhramsa language by Dhanapāla (circa 12th century) edited by C. D. Dalal and Dr. P. D. Gune, 1923
@@ -5604,8 +5437,6 @@ edited by C. D. Dalal and G. K. Shrigondekar,1925
 
 30, 31. **Tattvasaṅgraha** : a Buddhist philosophical workof the 8th century by Śāntarakṣita, a Professor atNālandā with Pañjikā (commentary) by his discipleKamalaśīla, also a Professor at Nālandā : edited byPandit Embar Krishnamāchārya with a Foreword inEnglish by B. Bhattacharyya, M.A., Ph.D., 2 vols.,1926
 
-
-
 33, 34. **Mirat-i-Ahmadi** : By Ali Mahammad Khan, thelast Moghul Dewan of Gujarat : edited in the originalPersian by Syed Nawabali, M.A., Professor of Persian,Baroda College, 2 vols., illustrated, 1926-1928
 
 35\. **Mānavagṛhyasūtra** : a work on Vedic ritual (domestic)of the Yajurveda with the Bhāṣya of Aṣṭāvakra :edited with an introduction in Sanskrit by PanditRāmakrishna Harshaji Sastri, with a Preface by Prof.B. C. Lele, 1926
@@ -5627,8 +5458,6 @@ edited by C. D. Dalal and G. K. Shrigondekar,1925
 44\. **Two Vajrayāna Works** : comprising Prajñopāyaviniścayasiddhi of Anaṅgavajra and Jñānasiddhi of Indrabhūti—two important works belonging to the littleknown Tantra school of Buddhism (8th centuryA.D.) edited by B. Bhattacharyya, Ph.D., 1929
 
 45\. **Bhāvaprakāśana** : of Sāradātanaya, a comprehensivework on Dramaturgy and Rasa, belongingA.D. 1175-1250 ; edited by His Holiness YadugiriYatiraja Swami, Melkot, and K. S. Ramaswami Sastri,Oriental Institute, Baroda, 1929
-
-
 
 46\. **Rāmacarita** : of Abhinanda, Court poet of Hāravarṣa(cir. 9th century A.D.) : edited by K. S. RamaswamiSastri, 1929
 
@@ -5652,8 +5481,6 @@ edited by C. D. Dalal and G. K. Shrigondekar,1925
 56.**Pārānanda Sūtra** : an ancient Tāntric work of theHindus in Sūtra form giving details of many practicesand rites of a new School of Tantra: edited by SwamiTrivikrama Tirtha with a Foreword by B. Bhattacharyya, Ph.D., 1931
 
 57\. **Ahsan-ut-Tawarikh**: history of the Safvi Period ofPersian History, 15th and 16th centuries, by Hasan-
-
-
 
 i-Rumlu : edited by C. N. Seddon, I.C.S. (retired),Reader in Persian and Marathi, University of Oxford.                  
                                    
@@ -5683,8 +5510,6 @@ i-Rumlu : edited by C. N. Seddon, I.C.S. (retired),Reader in Persian and Marathi
 11\. **Iṣṭasiddhi** : on Vedanta philosophy by Vimuktātmā,disciple of Avyayātmā, with the author's own commentary: edited by M. Hiriyanna, M.A., Retired Professorof Sanskrit, Maharaja's College, Mysore.  
 12. **Alaṁkāramahodadhi**: a famous work on SanskritPoetics composed by Narendraprabha Sūri at the
 
-
-
 request of Minister Vastupāla in 1226 A.D.: edited byLalchandra B. Gandhi of the Oriental Institute, Baroda.
 
 13\. **Sanskrit Texts from Bali** : comprising a large number of Hindu and Buddhist ritualistic, religious andother texts recovered from the islands of Java and Baliwith comparisons : edited by Professor Sylvain Levi.
@@ -5706,8 +5531,6 @@ request of Minister Vastupāla in 1226 A.D.: edited byLalchandra B. Gandhi of th
 1\. T**he Comparative Study of Religions**: \[Contents :I, the sources and nature of religious truth. II, supernatural beings, good and bad. III, the soul, its nature,origin, and destiny. IV, sin and suffering, salvationand redemption. V, religious practices. VI, the emotional attitude and religious ideals\]: by Alban A.Widgery, M.A., 1922
 
 2.**The Philosophy and Theology of Averroes** : \[Contents :I, a decisive discourse on the delineation of the relationbetween religion and philosophy. I a, on the problemof eternal knowledge which Averroes has mentioned inhis decisive discourse. II, an exposition of themethods of arguments concerning the doctrines ofthe faith\] by Mohammad Jamil-ur-Rahman, M.A.,1921. (Cloth Rs. 5/-)
-
-
 
 3\. **Religious and Moral Teachings of Al Ghazzali** :\[Contents : I, the nature of man. II, human freedomand responsibility. III, pride and vanity. IV, friendship and sincerity. V, the nature of love and man'shighest happiness. VI, the unity of God. VII, thelove of God and its signs. VIII, *riza* or joyous submission to His will\] : translated by Syed Nawab Ali,M.A., 1921
 
@@ -5739,218 +5562,22 @@ with—
    THE DIRECTOR,  
 *Oriental Institute, Baroda.*
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^98]: "B omitsthis line."
-
-
-[^70]: "BC omit."
-
-
-[^20]: "A° भ°।"
-
-
-[^17]: "A omits."
-
-
-[^16]: "A omits."
-
-
-[^15]: "A omits."
-
-
-[^7]: "A omits."
-
+[^4]: "A omits."
 
 [^6]: "A omits."
 
+[^7]: "A omits."
 
-[^4]: "A omits."
+[^15]: "A omits."
+
+[^16]: "A omits."
+
+[^17]: "A omits."
+
+[^20]: "A° भ°।"
+
+[^70]: "BC omit."
+
+[^98]: "B omitsthis line."

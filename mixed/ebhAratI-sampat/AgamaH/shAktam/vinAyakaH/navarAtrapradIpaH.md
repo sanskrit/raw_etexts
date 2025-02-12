@@ -16,18 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 .
@@ -67,7 +55,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
  Nanda Pandit lived in the end of the 16th and inthe beginning of the 17th century,the date of his commentary on Vişņu Smṛti being 1622 A.D.A manuscriptof the Dharmādhikārī Vaṃśacharita, written by oneVeņīrāma Pandit, is available. It is a descriptive accountof the family beginning with Pandit Lakṣmīdhara of Bidar,the 5th ancestor of Nanda Pandit Dharmādhikārī. Fromthis it appears that the family has been famous fromthe days of Lakṣmīdhara for proficiency in Dharmaśāstra learning and that it has been a Vaiṣṇava familywith Rāmachandra as its family deity. A list of NandaPandit's works has been supplied in the SanskritIntroduction, to which may be added the name ofMāṃsamīmāṇsā, a[^1]work mentioned in his ownŚrāddhakalpalatā.
 
 [^1]: "This work should be distinguished from works on the samesubject by Viśvanātha Nyāyapanchānana and others."
-
 
 **GOVT. SANSKRIT COLLEGE,                 GOPINATH KAVIRAJ.**  
 **Benares.**
@@ -371,7 +358,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 
 ![](../books_images/U-IMG-1720169668Screenshot2024-07-05113621.png)
 
-
  धर्माधिकारिवशः किलाऽतिविस्तृतः स यावच्छक्यं सम्पाद्य अचिरमेव पुस्तकाकारेण प्रकाशयिष्यते। प्रकृतग्रन्थकृता बहवो निबन्धाः प्रणीतास्तत्र ज्ञातास्त्वेते—
 
 १ काशीप्रकाशः  
@@ -406,8 +392,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 
  अन्ते च—येषां कृपयाग्रन्थोऽय प्रकाशितस्तान् मत्समुन्नतिहेतुभूतान् माननीय पं० गापीनाथकविराज एम्.ए. (प्रिन्सिपल् गवर्नमेन्टसंस्कृतकालेज बनारस) महोदयान् सप्रश्रयमभिनन्द्य मदीयनिरुपधिहितैषिणः साहित्याचार्य पं० नारायणशास्त्रीखिस्ते (सरस्वतीभवनपुस्तकालयाध्यक्ष) महोदयाश्च सादरमभिनन्द्य साञ्जलिवन्धं परमेश श्रीकाशीविश्वनाथमभिवन्द्य समापयाम्यमु लेखमिति शम्।
 
-
-
 सरस्वतीभवनम् काशी।  
 स० १९८४
 
@@ -434,7 +418,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 
 **श्री.  
 नवरात्रप्रदीपस्थविषयसुची।**  
-
 
 |          |                                                                               |
 |:--------:|:-----------------------------------------------------------------------------:|
@@ -658,7 +641,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 आश्विने मासि मेघान्ते महिषासुरमर्द्दिनीम्॥**
 
 **निशासु पूजयेद्भक्त्या सोपवासादिकः क्रमात्।**
-
 
 इत्यादि**नृसिंहप्रसादो**दाहृतस्कान्दभ**विष्योत्तरभविष्यकालिकापुराणदेवीपुराणादि**वाक्यैर्नक्तव्रतत्वप्रतिपादनात्। किं च एकभक्तादिषु चतुर्ष्वपि विलक्षणकालव्यापिन्याय एव। तिथेरङ्गत्वात्। चतुर्विधे च तस्मिन्नेकभक्ताद्यन्यतमकालव्यापिन्यास्तिथेरुपादातुमशक्यत्वात्। प्रकारान्तरस्य चाश्रवणादङ्गीभूततिथेरुपादानमशक्य स्यात्। न चैकभक्तादीनां "अयाची त्वथ वैकाशी" इत्यादिना वैकल्पिकानां मध्ये यदा येन नवरात्रं समापनीयम्, तदा तदुक्तकालव्यापिनी तिथिरुपादेयेति वाच्यम्।
 
@@ -1152,8 +1134,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 **सपल्लवं सवस्त्रं च स्वर्णमुद्रासमन्वितम्।  
 सपूर्णपात्रं निक्षिप्य दुर्गां तत्र तु विन्यसेत्॥**
 
-
-
 **यथोक्तेन विधानेन पूजयेद्भक्तिमान्नरः।  
 यवगोधूमधान्यानि वापयेत्परितस्ततः॥**
 
@@ -1631,8 +1611,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 
  इति वचनादिति तन्न। तस्य फलश्रवणेन काम्यतया नवरात्रबहिर्भावस्य वक्ष्यमाणत्वात्।
 
-
-
 **अथ सप्तम्यादिपूजाविधानम्।**
 
 राजमार्त्तण्डे—
@@ -1658,8 +1636,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 
 **नानापाशवमज्जमांसरुधिरैः कृत्वा नवम्या बलिं  
 युक्ता च श्रवणेन तां च दशमीं सम्प्राप्य सम्प्रेषयेत्॥**
-
-
 
 ज्योति शास्त्रे—
 
@@ -2549,7 +2525,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 
 **दशम्यामभिषेकं च कृत्वा मूर्त्तिं विसर्ज्जयेत्।** इति।
 
-
 तथा तत्रैव—
 
 **दशम्यां च विसर्गः स्यादभिषेकश्च माधव!।** इति
@@ -2638,7 +2613,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 **ईषत्सन्ध्यामतिक्रान्तः किञ्चिदुन्निद्रतारकः।  
 विजयो नाम कालोऽयं सर्वकामार्थसाधकः॥**
 
-
 **कालोत्तरे**ऽपि—
 
 **आश्विनस्य सिते पक्षे दशम्यां सर्वराशिषु।  
@@ -2717,16 +2691,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM4MTI5MTg1NDU
 
 [TABLE]
 
-
-
-
-
-
-
-
-
-
-
 .
 
 ![](../books_images/U-IMG-1720109772Screenshot2024-07-04214405.png)
@@ -2804,8 +2768,6 @@ No 8— The Kāvyadakınī, by Gangānanda Kavindra, Ed with Introduction etc by
 
 Rs 0-10-6
 
-
-
 No 9—(Part 1)-The Bhakti Chandrikā, a Commentary on Sandilya's Bhaktisūtras, by Nārāyana Tirtha, Ed with a PrefatoryNote by Gopinath Kavna j,M A
 
 Rs 0-15
@@ -2847,14 +2809,11 @@ No 17—The Nyāya Kalıkā, by Bhatta Jayanta Ed with Introduction by M M Gañg
 
 Rs 0-14
 
-
-
 No 18—(Part I)-The Goraksa Siddhānta Sangraha, Ed with a Prefatory Note by Gopinath kaviraj,M A
 
 Rs 0-12
 
 No 19—(Part I)-The Prākrita Prakāśa by Vararuchi with the Prākrita Sañjivani. by Vasantarāja and tha Subodhiniby Sadñnanda,Edwith Prefatory note etc by Batuk Nath Sarmā, M A and Baladeva Upadhvava, M A
-
 
 Rs 2-4
 
@@ -2873,8 +2832,6 @@ Rs 1-2
 No 22-The Dharmānubandhi Ślokachaturdaśı by Śri Śesa Krsna with a Commentary by Rāma Pandit, Eaited with Introduction etc by Nāravana Sātri Khiste Sahityāchārya, Assistant Librarian, Government Sanskrit Library, Saraswati Bhavana, Benares
 
 Ao 23-Navarātrapradipa by Nanda Pandit Dharmadhikari, Ed with Introduction etc by Vaijanātha Śastri Varakale, Dharmasāstra-Śastri, Sadholāl Research Scholar Sanskrit College, Benares, with a Foroword by P Gopinath Kaviraj, M A, Principal Government Sanskrit College Benares
-
-
 
 No 24—Sri Rāmatapinīyopanisad with the Commentary called Rama Kāsīkā in Pūrvatāpınī and Ānandanidhi in Uttaratapinīby Ānandavana,Ed with Introduction etc by Anantarāma ŚastrīVetala  
 Sahityopādhyāya, Post-Acharya Scholar, Govt Sanskrit College, Benares, with a Foreword by Pandit Gopi Natha Kavirāja, VA, Principal, Government Sanskrit College, Benares
@@ -2923,8 +2880,6 @@ Vol III-
 
 Rs 5
 
-
-
 vol IV—
 
 (a) Studies in Hindu Iaw (4) Jullxxxx Procoduroby ganganāth Jha  
@@ -2958,16 +2913,4 @@ Vol VI—(In progress)
 The Superintendent, Government Press  
 Allahabad U P. (India)**
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-

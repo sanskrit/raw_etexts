@@ -15,23 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NDg5NzI4ODc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **————————————————————————————————————————————————**
 
@@ -43,11 +27,7 @@ P. O. Warı, Dacca.**
 
 **————————————————————————————————————————————————**
 
-
-
 [TABLE]
-
-
 
 ![](../books_images/U-IMG-1722685151ो.png)
 
@@ -56,8 +36,6 @@ P. O. Warı, Dacca.**
 
 **——————**
 
-
-
 In the Sacred Name
 
 of
@@ -65,13 +43,10 @@ of
 **GANADHARA  
 GURU GOVINDA SINHA**
 
-
 who is the Consummation and the Personification  
 of Vedanta.
 
 **——————**
-
-
 
 **FOREWORD**
 
@@ -86,8 +61,6 @@ of Vedanta.
  The book fulfils a long-standing want. I am really happy that it will acquaint the reader with some of the noble Truths of the Vedas.
 
 • MAHENDRANATH SIRCAR.
-
-
 
 **ॐ**
 
@@ -118,18 +91,6 @@ of Vedanta.
 
  For true peace of mind, worship Rudra. Serve with obedience Him, who is both Deva (Corporal) and Asura (Incorporal).
 
-
-
-
-
-
-
-
-
-
-
-
-
 **तम् ष्टुहियः सु-इषुः सुधन्वा,**
 
 **यो विश्वस्य क्षयति भेषजस्य।**
@@ -141,8 +102,6 @@ of Vedanta.
 **—ऋग्वेद ५-४२-११**
 
  Praise Him who wields the bow and the arrow, and who is the Lord of all Balms. For true peace of mind, adore Rudra. Approach with humility Him, who is both Deva (Imaged) and Asura (Un-imaged).
-
-
 
 **गायत्री (Song of Life)**
 
@@ -163,10 +122,6 @@ of Vedanta.
 यिम् द्रिगुव्य ददात् वास्तारेम्॥ ॐ**
 
  Just as the Lord is to be adored, so is His Prophet; and that for the sake of RighteousnessFor leading us Godward, through all the deeds of our life, he gave us Conscience and Courage which are the assets of the poor.
-
-
-
-
 
 |                |                                    |
 |:--------------:|:----------------------------------:|
@@ -194,12 +149,6 @@ of Vedanta.
 
 ——————
 
-
-
-
-
-
-
 |                           |                                        |
 |:-------------------------:|:--------------------------------------:|
 | TABLE OF CONTENTS |                                        |
@@ -226,8 +175,6 @@ of Vedanta.
 
 ——————
 
-
-
 **PREFACE**  
 ———————
 
@@ -245,16 +192,12 @@ of Vedanta.
 
  Hazrat Mohammad had fully realised the great part played by the Scripture in the formation of the Nationallife. "People of the Book" was a term that used to be on his lips at all times. In order to be one people, they mus
 
-
-
 take up one book, they must belong to the book, and the book must belong to them. They would belong to the book in the sense, that the study of the book would be compulsory on all of them, and the book would belong to them in the sense, that it would be open to all to read the Scripture. Nothing can be a greater folly than to leave it to the discretion of the individual whether to read the National Scripture or not. For the Scripture represents the bare necessities of moral life, the mental food that the infant requires in order to grow up a national youth. Without the Scripture the boy may grow up a nondescript adult, one whose existence has no root in the national life, but if he is to be an asset to the nation, his study must begin with the Scripture, even if that amounts to nothing more than mere cramming.
 
  The Scripture makes the Nation. An atheist also therefore has reasons to read the Scripture. For he may not believe in God, but he cannot perhaps do without believing in the Nation, that gave him the intellectual equipment, the culture, which enables him to think over the problem about the existence of God.
 
  We hear now-a-days a loud protest against the autocracy of Mussolini, alleging that he has taken hold of the educational institutions of the country, is dictating its policy, and is flooding the country with fascist leaf-lets, and bringing up the young hopefuls of the country steeped in fascist idea, in order that fascism might live, even when Mussolini has passed away. We may not agree with fascism but that certainly is the right way for nation-building, which Mussolini advocates.  
  The policy need not be decried as autocracy. The young boy must have some sort of ideas– the mind cannot be absolutely blank. It is better that the boy should be brought up in certain definite ideals, instead of being left to drift and pick up for himself whatever ideals come handy. Of course when he has grown up, and has learnt to discriminate, the adult should be allowed the freedom of changing the ideals of his boyhood if he thinks it proper to do so, but he has got to begin with some definite ideals and it is better
-
-
 
 that these should be the tried ideas and ideals that guided the life of his forefathers. As Manu lays down:
 
@@ -269,8 +212,6 @@ that these should be the tried ideas and ideals that guided the life of his fore
 
  By the Upanayana ceremony, the young Iranian is to be initiated into the Gatha, and the young Hindu into the Prisni. In this matter the boy should have no choice–he must have to follow.
 
-
-
  This is So far as their belonging to the book is concerned. As for the book belonging to them (i e. to all of them) the later-day policy of shutting out the Sudra, is nothing but suicidal. If anybody, it is the Sudra, who requires the help of the Scripture most. Without the help that the Scripture gives, he is ill-fitted to raise himself up and be a full member of the community. To close the Scripture to the Sudra is tantamount to closing the gates of the hospital to the sick. Atharva Veda seems to have taken a move in the right direction and opened its gates to all. That seems to be the real import of the sarcasm of Apastambha Dharma Sutra (2-11-29-10) that “Women and Sudras are the proper clients of the Atharva Veda."[^1]  
  Hazrat Mohammad had realised the importance of the Scripture, much more keenly than anybody else did. He did not only lay down the dictum about the "People of the Book" viz., that in order to form one people, there must be a common Scripture, and this Scripture must be accessible to one and all, and also obligatory on all; but in order to implement its full acceptance, he laid down rules linking inseparably the common Scripture with the obligatory daily prayer. Thus in saying his Namaz, the Muslim has got to recite some portion of the Koran. But the case of the Hindu or the Christian is different. He may or may not use the national Scripture for this purpose. There is no necessary connection between the two. Want of this necessary connection makes a world of difference in the matter of their esteem and regard for the Scripture. The orthodox Muslim cannot, for a day even, do without his scripture, the Hindu and the Christian can, and therefore often does. Then again, not only has it been required that the Koran should be recited at the time of the Namaj prayer, but it has been made optional to use any portion of the Koran for performing the Namaj prayer[^2]").This is calculated not only to make every portion of the Koran equally holy, but this also implies, that the study of the Koran can
 
@@ -278,11 +219,37 @@ that these should be the tried ideas and ideals that guided the life of his fore
 
 [^2]: "Mohammad Ali-Koran (Introduction
 
-
-
 fitly supplement the daily prayer, rather than that both of them are one and the same thing. When we remember the importance of prayer in the Islam, that it is one of the essential rites without which a Muslim would not be considered to be a Muslim[^3],when it is stated that prayer is the key to gates of Heaven[^4] Blair-Sources of Islam, p. 118 (ii) Sell-Faith of Islam, p. 284"),we may appreciate the part played by the Scripture in the formation of Islamic civilisation and Islamic solidarity.
 
 [^3]: "Goldsack-Muhammadian Traditions, p 20"
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
 
 [^4]: "(i
 
@@ -293,8 +260,6 @@ fitly supplement the daily prayer, rather than that both of them are one and the
 [^5]: "Andre Servier-Islam and the Psychology of the Musalman, p. 470"
 
 [^6]: "Sell- The Faith of Islam, p. 81"
-
-
 
   Hazrat Mohammad is dead, but he lives in the Koran, and to every Musalman, through the Koran.  
  The Scripture overcomes the distance of time and space. Past and present, near and far agree in submitting to its authority and thereby come in contact together and unite.  
@@ -313,8 +278,6 @@ fitly supplement the daily prayer, rather than that both of them are one and the
 
  In this matter Maharshi Dayananda rightly felt the pulse of the nation. And the result is not far to seek. For though the religious and social programme of the Arya Samaj and the Brahmo Samaj (in such matters as monotheism, non-idolatry, widow marriage, untouchability etc.)
 
-
-
 are exactly similar, the Arya Samaj is spreading throughout all the Provinces of India and even outside India, while the Brahmo Samaj is dwindling away even in the province of its birth. That is exactly because the Arya Samaj has got a Scripture and the Brahmo Samaj has not. So far as the individual is concerned, he may not require any Scripture for his spiritual growth, and may even consider the acceptance of a Scripture, as inconsistent with the freedom of thought, but so far as the nation is concerned, there cannot be two opinions that a National Church without a National Scripture is an impossibility.
 
   No doubt the Upanayana **(उपनयन)** ceremony for the Hindu, and the Navajat **(नवजात)** ceremony for the Parsi, had originally been devised in order to initiate them into the Veda. But the matter was left there, and gradually things have come to such a pass, that the daily prayer of the Hindus and the Parsis are full of Puranic (Yastic for the Parsi) matters, and the Vedic (Yasnic for the Parsi) Mantrams have been ousted. One need not enter into the question of the comparative worth of the Vedic and the Puranic Mantrams, but there is little doubt that such substitution of Vedic Mantrams, by other litanies, defeats the purpose of the Scripture, by destroying its unity.
@@ -331,8 +294,6 @@ are exactly similar, the Arya Samaj is spreading throughout all the Provinces of
 **आज्ञा भयी अकालकी तभि चलाया पन्थ।  
 सब शिखोंका हुकम है गुरु मानिये ग्रन्थे॥  ***Pantha-Prakas.*
 
-
-
   He founded Sinha-Sangat or the Brother-hood of Lions. This he could do, for he alone knew that the Scripture constitutes the real basis of true Nationalism.
 
  Guru Govinda brought into existence a Religion, that out-bade Islam in the matter of devotion to the Scripture.
@@ -348,8 +309,6 @@ are exactly similar, the Arya Samaj is spreading throughout all the Provinces of
 
  Guru Govinda is the Prophet of Unity. And Sangha or Organisation is the special feature of the Sikh cult. Organisation is power, and it is organisation that has made the Sikh so powerful. Though the Sikhs do not, even now
 
-
-
 exceed forty lacs in number, they succeeded so much, that the Moghal lost his empire, the Pathan was confined to his home, and the British still remembers with a shudder, the issues of Chilianwala.
 
  There are various forces in the society pulling at different directions. They neutralise each other. Organisation consists in co-ordinating them and bringing them to flow in the same channel, so that instead of counter-acting each other, they converge together to form a great current. Submission to the same central authority is the essence of Organisation. No other religion has succeeded in creating a spirit of willing submission to the central authority to such an extent as the Sikh has done.
@@ -364,8 +323,6 @@ exceed forty lacs in number, they succeeded so much, that the Moghal lost his em
 सब शिखोंका हुकम है गुरु मानिये ग्रन्थ॥  ***Pantha-Prakas.*
 
  Now what is the Common Scripture of the Aryans? "The Veda" would be the unanimous reply.
-
-
 
   It is thus that Manu says that if a man takes to reading other books, before he has learnt the Veda, he behaves no better than a Sudra.
 
@@ -393,8 +350,6 @@ exceed forty lacs in number, they succeeded so much, that the Moghal lost his em
 
   The very name Avesta, is a corruption of the word **उपस्था** which according to Panini means a collection of the Vedic
 
-
-
 Mantras.[^8] Maghavan Zarathustra, the prophet of the Parsis, gives to his Scripture all the names by which Veda is known viz.,
 
 [^8]: "1. उपान् मन्त्रकरणे - Panini, 1-3-35."
@@ -417,8 +372,6 @@ Mantras.[^8] Maghavan Zarathustra, the prophet of the Parsis, gives to his Scrip
 क ईम् ददर्श कम् अभिष्टवाम॥     ***Rig*. 8-100-3**.**
 
   "Some say that God does not exist. Did anybody ever see Him? Whom then to praise?"
-
-
 
   Buddhism and Jinism are anticipated by the Veda, and they may very well seek the support of the Veda. As a matter of fact, even in the popular estimate, the revolt is not so much against the Veda itself, as against the interpretation of the Veda.
 
@@ -443,8 +396,6 @@ and that the reformation of Guru Nanak aimed at establishing the pure religion o
 तिनै धरमके करम निजै चलाये॥   ***Bichitra Natak.*
 
   "Because of his proficiency in Veda, Nanak came to be known as a Vedi. And he reformed religion accordingly."
-
-
 
  Thus all the five sects of the Aryan church are based on the Veda, and it is desirable that every member of any of these five sects, has some acquaintance with the Veda in original. Here is an attempt to meet the need, to present some of the best Riks (slokas) of the Veda as an elementary (and to a certain extent indispensable) course of study for every individual Arya to take up.
 
@@ -474,8 +425,6 @@ and that the reformation of Guru Nanak aimed at establishing the pure religion o
 
  Corresponding to the three faculties of the mind viz., Willing, Feeling and Knowing, there are three ways of Self-
 
-
-
 realisation viz, Karma Yoga (Ethical), Bhakti Yoga (Devotional) and Jnana Yoya (Metaphysical) paths. It is the clear enunciation of these three principles, that made the Gita, what it is, viz., the best presentation of the Vedic Religion.
 
  It should be noted that of the five sects of the Vedic church, Budhism took solely to Karma Yoga or Ethics. Thus it is sub-godly. Duty is its main concern and with Duty it is busy. It does not go up to the idea of God.
@@ -494,11 +443,37 @@ realisation viz, Karma Yoga (Ethical), Bhakti Yoga (Devotional) and Jnana Yoya (
 
 [^4]: "(i
 
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
  On account of this tripartite division, the Veda is known as Trayi[^23]or the Great Triad. The Amara Kosa calls it
 
 [^23]: "Satapath Brahmana, 4-6-7-1"
-
-
 
 Trayi[^24],the Gita calls it Trayi[^25], and the Buddhist gave to it the name of Tevijja[^26] of the SuttaPitaka"), &c.
 
@@ -512,11 +487,39 @@ Trayi[^24],the Gita calls it Trayi[^25], and the Buddhist gave to it the name of
 
 [^4]: "(i
 
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
 [^27]: "अथ+ऋ+वनिप=अथर्व (Nighantu 5-5-13
 
 [^29]: "Macdonell-History of Sanskrit Literature,p.112."
 
 [^30]: "Gopatha Brahmana,2–2–5"
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
 
  At the time of the composition of the Atharva Veda the Aryans had been divided into two opposite camps– hargavas and Angirasas. The difference arose on the question of Image Worship.
 
@@ -525,8 +528,6 @@ Trayi[^24],the Gita calls it Trayi[^25], and the Buddhist gave to it the name of
 [^31]: "देवो दानाद् वाद्योतनाद् वा द्युसथानो वा भवति।—Nirukta,7–15."
 
  In the earlier period of the Vedic age, Rudra, the Supreme Lord used to be conceived both as carnate and also as disincarnate. When a symbol or image was used of Him
-
-
 
 he was addressed as 'Indra'. Worshipped as incorporal or formless, he was addressed as 'Varuna'. It is on this account that both the adjectives 'Deva' and 'Asura' are applied to Rudra.
 
@@ -549,11 +550,9 @@ he was addressed as 'Indra'. Worshipped as incorporal or formless, he was addres
 
 [^32]: "Griffith The Hymns of the Atharva Veda, Preface, p.iii"
 
- "The existing redactions of the Atharva Veda betray them as later than the Rig Veda redaction, by the character
-
 [^33]: "Macdonell—History of Sanskrit Literature, p.196."
 
-
+ "The existing redactions of the Atharva Veda betray them as later than the Rig Veda redaction, by the character
 
 of the variants in those Mantras which they share with the Rig Veda."[^34]
 
@@ -561,9 +560,9 @@ of the variants in those Mantras which they share with the Rig Veda."[^34]
 
 [^34]: "Bloomfield Hymns of the Atharva Veda, Introduction,p.31."
 
- The Mahabharata also narrates the story as to how the Atharva Veda obtained the status of a Veda, through the grace of Indra.
-
 [^35]: "Whitney-Atharva Veda, Introduction,p.126."
+
+ The Mahabharata also narrates the story as to how the Atharva Veda obtained the status of a Veda, through the grace of Indra.
 
 **अथर्वाङ्गिरसो नाम वेदे अस्मिन् वै भविष्यति।**
 
@@ -589,9 +588,7 @@ of the variants in those Mantras which they share with the Rig Veda."[^34]
 
 [^36]: "Bloomfield-Atharva Veda and Gopatha Brahmana,p.2."
 
-
 [^37]: "Ibid,p.9."
-
 
  Whatever may be this due to, in the early days of every literature, poetry outgrows prose. One of the reasons may be that it is easier to recollect poetry and to transmit it to the succeeding generation. This was not a small consideration in those days when the art of writing, not to say of printing, was yet to be known. Be the reason what it may, the Yajus or the prose portion of the Veda, is incomparably small. The whole of the independent portion of the Yajus Veda would not exceed even one hundred sentences. Similarly the domain of poetry and that of song overlap each other, for poetry put to tune, is song. Thus these two varieties of composition coalesce. If one would count those verses of the Sama Veda, which for some reason or other do not find a place in the body of the Rig Veda, their number would not exceed 75 stanzas.'[^38] The Rig Veda alone is an independent composition; the other two books were compiled for liturgical purposes.
 
@@ -610,8 +607,6 @@ of the variants in those Mantras which they share with the Rig Veda."[^34]
 [^40]: "Macdonell History of Sanskrit Literature, p.1."
 
 [^41]: "Ghate-Lectures on Rig-Veda, p.123."
-
-
 
  Religion is the call to man to raise him above himself. "There has always been a divine discontent in the heart of man, which has never rested content with the world and what it offers" and religion asks man to soar higher and higher.
 
@@ -646,8 +641,6 @@ of the variants in those Mantras which they share with the Rig Veda."[^34]
 
  The underlying unity of all objects is the fundamental truth of Jnana Yoga. All beings are equally the expressions
 
-
-
 of the same Infinite. Thus the Sun, the Himalaya or Sage Kakshivan, are different phases of the same entity. Every one of us is an expression of the same Reality, for Reality is one. This gave raise to the celebrated**'सोऽहं वाद’**(I am the Absolute) of the Jnana Yogins, and the Rig Veda enunciates the principles here.
 
  The truth has been stated very tersely in the PancadasiKarika:
@@ -661,8 +654,6 @@ of the same Infinite. Thus the Sun, the Himalaya or Sage Kakshivan, are differen
 
  What is known as Buddhism is typical Karma Yoga. It knows 'Duty', and Duty alone and has little need of God. "Whether there is a God or there is none, a man has got to do his Duty, it is not for him to evade it, and it is through Duty that he can hope to serve God." That is what Gautama Buddha taught.
 
-
-
  What is known as Jinism is the type of Jnana Yoga. It knows no personal God– a God who is the source of light alone, but not of darkness. Such a God would be a limited God, a God who does not exist everywhere. Thus the Jainas worship the God in whom all attributes cohere. Hecannot be said to possess any particular attribute more than any other. He is above all attributes. He has no attribute.
 
  This attitude of the Jainas (and the Saivas) has called for pungent remarks from the Christian Missionaries, that the Hindus worship a 'dead God,' and inert God, lying inactive with whom living communion is not intended.
@@ -672,8 +663,6 @@ of the same Infinite. Thus the Sun, the Himalaya or Sage Kakshivan, are differen
  The Bhakti Yoga of the Vedic Church is concerned with a personal God, as much as any other religion of the world may be. Both Mazda and Vishnu are personal Gods, personal without doubt. And though the two branches of the Vedic Church had taken up quite opposite points of view regarding the necessity of a symbol in performing the worship of God, both of them agree in the fundamental point that personal God alone can be the object of worship.
 
  It is to be noted that the Vedic culture recognises all the three disciplines, Karma.(duty), Bhakti (devotion) and Jnana(Absolutism). It does not castigate the Buddhistic section as atheistic, or the Jinistic section as pantheistic. It does not consider the Buddhist and the Jinist Church as outside the pale of Religion......Buddhism and Jinism operate to uplift humanity, they are also phases of the spiritual nature of man and the Vedanta considers each of them also to be as good a religion as any other. Speaking orthodoxically Jinism would be the Saiva cult, and Buddhism the cult of Ganapati.
-
-
 
  But this is far from being the case with non-Vedic civilisation. They recognize only one phase of religious culture viz., the Bhakti Yoga. Judaism, Christianity and Islam, are all phases of Bhakti Yoga. Pure Karma Yoga and pure Jnana Yoga are unknown to them.
 
@@ -686,8 +675,6 @@ of the same Infinite. Thus the Sun, the Himalaya or Sage Kakshivan, are differen
  Buddhism and Jinism, the Ganapatya and the Saiva cults, are somewhat different from what we normally understand by the term Religion, viz worship of God. The Saura, the Sakta, and the Vaishnava cults, represent the normal type of Religion.
 
  The Sauras are the an-iconic Parsis, who face to the Sun, as the quibla of their prayer. The Vaishnavas are the iconic Hindus, of whom Vishnu is the chief God. The Saktas are the militant Sikhs who represent a combination of two cults, the Saura and the Vaishnavas (the Parsı and the Hindu). The Buddhists, the Jains, the Hindus, the Parsis, and the Sikhs, are then the five great limbs of the Aryan Body Religious. The Scripture that is common to all of them, is the Veda. If all the five sects of the Aryan Church are to be held together, then the Guru-Grantha orthe National Scripture, may not leave out of account, the Mother of all the Books i. e., the Veda (and her noblest product, the Gita).
-
-
 
  It is said that the key to the interpretation of the Veda is still wanting. "The Vedic studies are still far from the goal. The etymological theories on which many of Maxmuller's results were based, and his Aryan theory, have been swept away, but his Vedic theories are still a mirage for English-speaking students. Even Mr Tilak's theories, however revolutionary in some respect, rest fundamentally on the view that we are to look for what Macdonell calls 'a physical basis' in explaining any particular divinity. This looks like a case of stale-mate when no theory can claim general acceptance. Even when we think of German scholars Ludwig, Kaegi, Pischel, Geldner, Oldenburg or of the French School, Bergaingne, Regnand, Henry, it cannot besaid that the Vedic studies are in a healthy state. Anything therefore that will rouse complacent dogmatism and send scholars back to a renewed study of the text, with perhaps a new key, (or as Dr Rele expressess it) a new angle of vision, is to be welcomed. Dr. Rele's work will help the scholars of India to realise as we are learning in the west, that the great problem is not yet solved Its independent outlook and new theories may point out a way of advance which has so far eluded our view."   Rele—Vedic Gods.
 
@@ -704,8 +691,6 @@ of the same Infinite. Thus the Sun, the Himalaya or Sage Kakshivan, are differen
 
  The monotheism of this and such other passages as **एकोविश्वस्य भुवनस्य राजा।** Rig Veda 3–46–2, and specially of **महत् देवानाम् असुरत्वम् एकम्।** Rig Veda, 3-55, is unquestionable.
 
-
-
 Yet it does not appear how after having reached to the worship of one God, the Veda could climb down to polytheism again. The polytheism has thus rightly been suspected to be only apparent, but it has not yet been explained how.
 
  It has been said that the use of many names does not necessarily imply many gods. Some of the many names may be explained by the theory, that two gods originally belonging to two different peoples, came to be identified with each other, when these two people coalesced politically. The two different names used by those two clans were retained, but they were applied to one and the same deity. Thus Pushan of the Medes, seems to have combined with Bhaga of the Persians. Pushan is called an Asura (Rig Veda, 5-54-11) and god of Iran (Rig Veda 6-58-4), while Bhaga is mentioned in the inscriptions of Darius.[^42]
@@ -719,8 +704,6 @@ Yet it does not appear how after having reached to the worship of one God, the V
  The difficulty comes in when two deities are invoked at the same time (in the same rik) and the Dual number is used of them. That seems a hard nut to crack.
 
  With all humility I would attempt an explanation and refer to the Indo-Iranian partnership. At the time of the composition of the Veda, the Indians and the Iranians formed one people. The Indians adopted the Iconic form of worship, otherwise call Deva-Yana,' and the Iranians
-
-
 
 adopted the an-Iconic form of worship, otherwise call 'Pitri Yana'.
 
@@ -750,8 +733,6 @@ adopted the an-Iconic form of worship, otherwise call 'Pitri Yana'.
  As Two-in-One, He was called by the name of Mitra, and as One-in-Two by the name of Aswin.  
  These Aryas took a delight in thinking Him in this dual aspect viz. as One-in-Two and as Two-in-One. This spirit finds an expression in the worship of dual gods-one of them (by whatever name called) represents Indra, the physical, and the other one represents Varuna, the moral God.
 
-
-
  And these are the principal names that are applied to God in the Veda:
 
 Rudra or the original Lord.  
@@ -767,6 +748,34 @@ Nasatyau– One-in-Two.
 
 [^4]: "(i
 
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
+[^4]: "(i
+
  Thus the worship of dual gods in the Veda is not an indication of polytheism. It merely points to the existence of two different sects in the Vedic church- one given to the Iconic and the other to the an-Iconic form of worship.
 
  It should, however, be noted that the three limbs of the sacrifice viz (1) the Priest, (2) Fire and (3) the Libation have also been sometimes euphemistically called 'God'. Priest is the 'Brihaspati' and the 'Brahmanaspati' is equal to God. And the libation (Soma) is nearly god, while fire in its three aspects (1) Sun-Surya, (2)Lighting- 'Parjanya ' and (3) Fire (Agni) is also said to be god.
@@ -774,8 +783,6 @@ Nasatyau– One-in-Two.
  We would not thus miss the import of the Veda if we remember that Rudra is the supreme God of the Veda, and Indra (Vishnu) and Varuna (Medhas) are His two aspects incarnate and disincarnate.Jointly they were called either (1) Mitra[^44], or (2) Aswin, according as their association was looked at from two different angles of vision. They might be thought of as forming One-in-Two, or Two-in-One.
 
 [^44]: "Sometimes Indra is named, and the Varuna aspect is denoted by the word Mitra. At other times Varuna is named, and the Indra aspect is denoted by the word Mitra."
-
-
 
 As Two-in-One the name of Mitra was given to them, and so One-in-Two, the name Aswin.
 
@@ -788,8 +795,6 @@ As Two-in-One the name of Mitra was given to them, and so One-in-Two, the name A
  It is said that “the ancient Hindu Mind acknowledged all the Gods, but not the Supreme God.[^45]”That is true of the Scripture as well. Every book was a scripture to them up to the verses of Satya Pir, but there was not a supreme Scripture. Thus instead of strengthening the nation, the Scriptures only served to weaken it. The time is now ripe, when a hand-book of Vedic Riks, a 'Guru Grantha' culled from the Veda, would enable the vision of Guru Govida to come true. Collectively speaking the Hindu professes his
 
 [^45]: " Farquhar Outline of Religious Literature of India, p. 135."
-
-
 
 religion and the Sikh practises it. Thus the Hindu does not count, whereas the Sikh does. And the Sikh will teach his fellow-brothers of the same Church, to have the same regard for the common Scripture as he himself has.
 
@@ -809,13 +814,9 @@ religion and the Sikh practises it. Thus the Hindu does not count, whereas the S
 
   I did what my small ability allowed me to do, to put in a handy form a collection of some of the best Veda-Mantrams. It is for scholars to utilise the book for what it is worth. I am aware of the possibility of an objection on the score that Riks (stanzas) belonging to two or more suktas have been grouped together in this book in the same chapter. To the orthodox reader this amounts to an
 
-
-
 act of sacrilege, while to the modern critic, this is equal to destroying the context. But the objection is not as formidable as it looks to be. For it should not be forgotten that the present arrangement of the Vedic text, is only the last of the arrangements. It is not the only arrangement. According to the puranic tradition, the disciples of Vyasa made different arrangements of the hymns. According to the Vedic traditions there were different readings following different Sākhās and Charanas. The current opinion is that the present arrangement was made by Rishi Dwaipayana, and that is why he was called Veda Vyasa. The modern reader need not ridicule the tradition. All the Riks of the Veda do not belong to the same age.Some of them belong to the period when the Indians and the Iranians still formed the same people. This is why 'Asura' is a term of honour in the early books of the Rig Veda. Savants like Tilak go further and hold, that some Riks belong to the arctic age, i. e., as early as the 4th millenium B. C. Later Riks, however, belong to the period of the Mahabharata War. There is clear reference to Maharaja Parikshit in the last (20th) book of the Atharva Angırasa Veda.[^46] Reference to Parikshit proves that the extant arrangement was made somewhere near about his reign, so that the hand of Dwaipayana may not be invisible. Mahabharata war is, on astronomical grounds, held to have taken place in the 15th century B. C.In any case it was considerably later than the Indo-Iranian War, which in the Veda, is called Dasarajna, or the War of the Ten Kings. It is unreasonable to think that the Riks were hanging loose for about two thousand years, till Veda Vyasa made the present redaction in the time of Parikshit. There must have been previous redactions. What guarantee is there, that in the early redactions as well, the same grouping of the Riks had been prevalent as we find existent in
 
 [^46]: "कतरत् ते आहराणि दधि मन्था परिऋतम्। जाया पतिं विपूच्छति राष्ठे राजः परिक्षितः॥  Atharva Angirasa Veda, 20-127-9   In the land of king Parikshit, the wife asks the husband,'How much of good fresh curd is thy need?'"
-
-
 
 the present redaction? That is merely a probability, and the words of Professor Whitney would bring the reader to hesitate whether there is any point in sticking to the beaten track. "However diverse in subject matter two successive suktas may be, we rightly expect unity of subject within the limits of what is truly one and the same sukta. It is this inherent unity of the subject which justifies their inclusion into the samesukta".[^47]."). Thus the unity of the subject is the only criterion for determining the integrity of a hymn. Without such re-arrangement based on the unity ofthought, the Veda would never come to be popular. For highly philosophical Riks are sometimas found bracketted together, with merely a trifling or a commonplace one. It is desirable to bring the wheats together, so that time may not be lost on the tare.
 
@@ -836,8 +837,6 @@ the present redaction? That is merely a probability, and the words of Professor 
 
   It starts with the problem of creation. as to how the manifold evolved out of that original 'One', at the urge of desire (**काम**). It states that the problem is much too deep for human intellect and would have caused nothing
 
-
-
 but bewilderment, had not the moral sense of man come to his relief, by reminding him of the dignity that the possession of conscience entitles him to. For conscience makes man a co-sharer in the divine life.
 
  Conscience asks us to do (and hear, and see) only what is 'good'. It teaches us what is right and what is wrong. It is the Inner light, with whose help one can cross the region of darkness. Duty is its voice, and Duty is the premier Law of Life. There are two selves in men, the Higher and the Lower, and conscience represents the attempt of the Higher self to establish its order over the Lower.
@@ -850,8 +849,6 @@ but bewilderment, had not the moral sense of man come to his relief, by remindin
   It is no good denying the existence of God. Had there been no God, there would have been in us, no moral sense. Indra has adorned us with conscience and given us a view of the highest stature that humanity may grow to.
 
  Varuna created the universe and sets a limit to it. Indra and Varuna both are His names. He has His eyes and ears everywhere, though He has no form. He is not
-
-
 
 embodied, yet He is the support of the Physical world. Itneed not, however, be considered a sin to ascribe to Him a form. For He lives in every form, and may be seen in any form.
 
@@ -869,8 +866,6 @@ embodied, yet He is the support of the Physical world. Itneed not, however, be c
 
  For he finds himself to be a comrade of God, engaged in the same task of doing good to the world, and yet like God working without purpose or attachment.
 
-
-
  God is his friend, and as a comrade and co-worker of his friend, he also employs his energies in bringing peace and prosperity to all.
 
  Modern Philosophy does not give us a better account of the origin of the universe, or the destiny of man. These Riks give in a nut-shell, the true Philosophy of Life–the most rational account of the Universe, and the place of man in it and his destiny. In them we can hear the sacred voice of the noble seers, whose was the first and the foremost response to the call of the Divine. The Veda-Vijam is to be recited every day. It repeats to us the highest truth-the Truth of Highest importance. It gives a glimpse of the Eternal Life, being the revelation of God to man.The rest of the Vaidik Gita may be read one Chapter a day.
@@ -886,8 +881,6 @@ embodied, yet He is the support of the Physical world. Itneed not, however, be c
  The next chapter contains the root principle of the Gita, viz: that “repudiation of pleasure does not mean repudiation of activity". Moral life is nothing but a life full of all activity. It is only through action that the ideal can pass into reality, and Duty consists in doing the right action, and not in avoiding all action and resorting to monachism.
 
  The next chapter points out the implications of the moral life, viz: the existence in us of a Higher self, whose voice the conscience is. It also points out how the Higher selves in different individuals do not differ in their dictates
-
-
 
 but give the same directions to all– in Conscience they all agree. This is equal to saying that there are not different Higher Selves in different individuals, but that the same Higher self is present in us all. Thus if one follows the golden rule of "doing to others as he wills that they would do to him, he cannot commit any wrong. For when one universalises his conduct, he takes up the point of view of the Higher Self, which is the same in all individuals.
 
@@ -913,8 +906,6 @@ but give the same directions to all– in Conscience they all agree. This is equ
 
  The Disincarnate God was addressed as Varuna (Mazda) and Chapter 6 relates to Him. One may repeat some one or other of these Riks during all the moments of his conscious life, in order that other thoughts may be kept away, and a
 
-
-
 current of Godwardness continously flow in his sub-conscious mind. It is par excellance the chapter for the Parsis to recite.
 
  The dual aspect of the Lord– his material and moral aspect, the carnate and disincarnate aspect, strongly touched the imagination of the Vedic Rishi, and there were a lot of people who were equally fond of both the phases. They revelled to think of Him in both the aspects. Some of them emphasised the doubleness of the same entity, and addressed Him as Mitra (Two-in-One), while others emphasised the unity of two aspects, and called him Aswinau (One-in-Two). Chapters 7 and 8 describe these two viewpoints. Wherever in the Veda there is any Rik, addressed to a Pair of Gods, it is to be understood, that the two aspects of Rudra, (the Indra Aspect and the Varuna aspect) are being jointly thought of.
@@ -924,8 +915,6 @@ current of Godwardness continously flow in his sub-conscious mind. It is par exc
 [^48]: " Cf.-रौद्र-sunshine"
 
  The different names do not refer to different Deities, but to the same Deity. He is sometimes figuratively called Agni as well, the symbol being used for the thing symbolised. It is our duty to adore Rudra and Rudra alone, Chapter 11 tells us that. It also tells us, that adoration is a form of love, and love is personal and individual (and to a certain extent reciprocal). That is to say, love is alway particular
-
-
 
 and definite. It is either the love of a father or a brother, or a servant or a dependent. But the love of a friend for a friend is the most intense; there is a greater identity of interest here than in any other kind of love. Rudra is to be looked upon as the closest friend. When there is the greatest identity of interests between two friends, they become one in all that counts.
 
@@ -946,8 +935,6 @@ and definite. It is either the love of a father or a brother, or a servant or a 
 तानि धर्माणि प्रथमानि आसन्॥**
 
 *Rig Veda*, 1-164-50.
-
-
 
 While the existence of the "Higher Self" is pointed out by the lines.
 
@@ -970,8 +957,6 @@ While the existence of the "Higher Self" is pointed out by the lines.
  The way, however, in which the gulf between Bhakti Yoga and Jnana Yoga is bridged over, is still the last word in the Philosophy of Religion.  
  It is a pity that this Rik has not received from any reputed scholar the attention that it deserves. The existence of Evil is the problem of problems in Religion. Personality implies differentiation, and a Personal God has to face Evil. If God is good, and the upholder of all that is good, He cannot at the same time be bad, and the supporter of the wrong. How does it then fit in with His Omnipotence? How can the existence of grief and misery in the Outer world, and of immoral tendencies in the human heart, be accounted for, if God is both good and kind, and also omnipotent? Either God wishes their existence or He does not wish them. If he wishes them, them God is not good.
 
-
-
 If God does not wish them, and still they persist, the God is not Omnipotent.  
   A solution is offered by postulating a perpetual fight, between the good and the evil, between Allah and Iblish, between Khoda and Satan, between Indra and Vritra and between Mazda and Vritra.[^49]  
  This solution, however, does not go to the root of the matter, for unless seen in the proper prospective, it is very misleading. The Semitic Religions did not realise the implication of such a perpetual fight. They failed to see that it makes Satan co-ordinate with, and a rival of God. The supposition of the ultimate triumph of God would appear arbitray.  
@@ -987,8 +972,6 @@ If God does not wish them, and still they persist, the God is not Omnipotent.
 नाढ्यं शत्रुं ननु पुरा विवितसे॥**
 
 *Rig Veda*, 10-54-2.
-
-
 
  "All the battles which are ascribed to you, Oh Indra, are mere illusions. For you never have, nor ever had...... you cannot have........any foe at all.  
  "The very word, माया, which is inseparably associated with the reputation of Sankara, will be noticed with delight. It is calculated to point out the source of Sankara's metaphysics.  
@@ -1010,8 +993,6 @@ If God does not wish them, and still they persist, the God is not Omnipotent.
  The Epilogue brings to the reader the picture of the Indo-Iranian period of the Veda. It is a fascinating chapter in the history of the human race, though a forgotten one. The light that these Riks throw upon the history of religious development of the Aryas, has not been fully appreciated, even by reputed Vedic Scholars.  
  As one finds all the relevant Riks collected in the Epilogue, he cannot fail to notice the friendly rivalry that there was between the two branches of the Vedic people, between the followers of Indra and, the followers of Varuna.
 
-
-
 The Hindu will note with interest how an Iranian bids farewell to Varuna (Mazda), and adopts the Indian Cult (Indra).The Parsi will note with interest how divinity (Ashurahood) belongs primarily not to Indra, but to Varuna.
 
 The followers of Indra are distinctly called Indians (the Bharati School) and the followers of Varuna are distinctly called Iranians (the Ira School), while the Intermediate Afghans represented the united Saraswati School. Trasadasyu was their leader and paid equal homage to both the cults. We find Hinduism yet representing the Bharati School, and Parsi-ism the Ira-school, while the task of reviving the Saraswati School was taken up by Ganadhara Ekanatha Guru Govinda Sinha–the spiritual successor of Ramacandra and Zarathustra. In the unity of the Indian and the Iranian sections, religion reaches its perfection.
@@ -1025,8 +1006,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **ॐ तत् सत्।  
 ––––––––**
-
-
 
 **वैदिक गीता।**  
 **वेदबीजम्**
@@ -1060,8 +1039,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 यद् इ वा दधे यद् इवा न।  
 यो अस्याध्यक्षः परमे व्योमन्त्  
 सो अङ्ग वेद यदि वा न वेद॥१०-१२९-७**
-
-
 
 **को अस्य वेद प्रथमस्य अह्नः  
 क ईम् ददर्श क इह प्र वोचत्।  
@@ -1101,8 +1078,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 विश्वे देवाः समनसः सकेताः  
 एकं क्रतुमभिवि यन्ति साधु॥६-९-५**
 
-
-
 **वैश्वानरस्य सुमतौ स्याम  
 राजा हि कं भुवनानामभिश्रीः।  
 इतो जातो विश्वमिदं विचष्टे  
@@ -1138,8 +1113,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अनन्ते अन्तः परिवीत आगाच्  
 शुचिः शुक्रो अर्यो रोरुचानः॥४-१-७**
 
-
-
 **अहम् मनुरभवं सूर्यश्चाहम्  
 कक्षीवाँ ऋषिरस्मि विप्रः।  
 अहं कुत्समार्जुनेयं नि ऋञ्ज्ये  
@@ -1174,8 +1147,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अमिमीत वरिमाणं पृथिव्याः।  
 आसीदद् विश्वा भुवनानि सम्राड्  
 विश्वेत् तानि वरुणस्य व्रतानि॥८-४२-१**
-
-
 
 **इन्द्रं मित्रं वरुणं अग्निमाहुर्  
 अथो दिव्यः स सुपर्णो गरुत्मान्।  
@@ -1215,8 +1186,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 इन्द्रो मायाभिः पुरुरूप ईयते  
 युक्ता हि अस्य हरयः शता दश॥६-४७-१८**
 
-
-
 **किमित्ते विष्णो परिचक्ष्यं भूत्  
 प्र यद् ववक्षे शिपिविष्टो अस्मि।  
 मा वर्षो अस्मद् अप गूह एतद्  
@@ -1251,8 +1220,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 शमी अच्छा दीद्येपूर्व्याणि।  
 समिद्धे अग्नावृतमिद् वदेम  
 महद् देवानाम् असुरत्वमेकम्॥३-५५-३**
-
-
 
 **देवस्त्वष्टा सविता विश्वरूपः  
 पुपोष प्रजाः पुरुधा जजान।  
@@ -1289,8 +1256,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 ता शश्वन्ता विषूचीना वियन्त  
 नि अन्यं चिक्युर् न नि चिक्युरन्यम्॥ १-१६४-३८**
 
-
-
 **य आपिर्नित्यो वरुण प्रियः सन्  
 त्वामागांसि कृणवत् सखा ते  
 मा त एनस्वन्तो यक्षिन्भुजेम  
@@ -1322,8 +1287,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 **माध्वीर् गावो भवन्तु नः॥१-९०-१८**
 
 **—————**
-
-
 
 **प्रतिपद्**  
 **श्रेयस्**
@@ -1357,8 +1320,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 परिगृहीतं अमृतेन सर्वम्।  
 येन यज्ञस् तायते सप्त होता  
 तन् मे मनः शिवसंकल्पमस्तु॥यजु. ३४-४**
-
-
 
 **यस्मिन् ऋचः साम यजूंषि यस्मिन्  
 प्रतिष्ठिता रथनाभाव् इवाराः।  
@@ -1395,8 +1356,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 त्राध्वं नो देवा निजुरो वृकस्य  
 त्राध्वं कर्तादवपदो यजत्राः॥ २-२९-६**
 
-
-
 **कविर् नृचक्षा अभि षीम् अचष्ट  
 ऋतस्य योना विघृते मदन्ती।  
 नाना चक्राते सदनं यथा वेः  
@@ -1431,8 +1390,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अग्निष्टवे दम आ जातवेदाः।  
 स नो रक्षिषद् दुरिताद् अवद्याद्  
 अस्मान् गृणत उत नो मघोनः॥ ७-१२-२**
-
-
 
 **त्वया वयमुत्तमं धीमहे वयो  
 बृहस्पतेपप्रिणा सस्निना युजा ।  
@@ -1478,8 +1435,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **मृला सुक्षत्र मृलय॥ ७-८९-४**
 
-
-
 **आदित्यास उरवो गभीरा  
 अदब्धासो दिप्सन्तो भूर्यक्षाः।  
 अन्तः पश्यन्ति वृजिनोत साधु  
@@ -1501,8 +1456,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 स्वस्ति नो बृहस्पतिर्दधातु॥ १-८९-६![](#)**
 
 **![](../books_images/U-IMG-1722950467123456.jpg)**
-
-
 
 **द्वितीया।**  
 **निष्कामता**
@@ -1540,8 +1493,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 श्वघ्नीवकृत्नुर्विज आमिनाना  
 मर्तस्य देवी जरयन्ति आयुः॥ १-९२- १०**
 
-
-
 **इयुस्ते येपूर्वतराम् अपश्यन्  
 वि उच्छन्तीम् उषसं मर्त्यासः।  
 अस्माभिरू नुप्रतिचक्ष्या अभूद्  
@@ -1563,8 +1514,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अप्रायुवो रक्षितारो दिवेदिवे ॥ १-८९-१**
 
 **![](../books_images/U-IMG-1722950563123456.jpg)**
-
-
 
 **तृतीया।  
 कर्मनिष्ठा**
@@ -1611,8 +1560,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 यो जागार तमयं सोम आह  
 तवाहमस्मि सख्ये नि-ओकाः॥५-४४-१४**
 
-
-
 **समौ चिद् हस्तौ न समं विविष्टः  
 सम्मातरा चिन्न समं दुहाते।  
 समयोश् चिन्न समा वीर्याणि  
@@ -1647,8 +1594,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 त्रिश्चिद् विष्णुर् मनवे बाधिताय।  
 तस्य ते शर्मन्नटपदद्यमाने  
 राया मदेम तन्वा तना च॥६-४९-१३**
-
-
 
 **आ यद्रुहाव वरुणश्च नावम्  
 प्र यत्समुद्रमीरयाव मध्यम्।  
@@ -1685,8 +1630,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 देवो यन् मर्तान् यजथाय कृण्वन्त्  
 सीदद् होता प्रत्यक्ष् स्वम् असुं यन्॥ १०-१२-१**
 
-
-
 **यज्ञेन वर्धत जातवेदसम्  
 अग्निं यजध्वम् हविषा तना गिरा।  
 समिधानं सुप्रयसं स्वर्णरम्  
@@ -1705,8 +1648,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 **पुनानस्य प्रभूवसोः॥ ९-३५-६**
 
 **—————**
-
-
 
 **चतुर्थी।**  
 **अध्यात्मा**
@@ -1740,8 +1681,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 राजा हि कं भुवनानां अभिश्रीः।  
 इतो जातो विश्वमिदं विचष्टे  
 वैश्वानरो यतते सूर्येण॥ १-९८-१**
-
-
 
 **अहश्च कृष्णम् अहर् अर्जुनं च  
 वि वर्तेते रजसी वेद्याभिः।  
@@ -1784,8 +1723,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **ततो न विजुगुप्सते॥ यजु. ४०-६**
 
-
-
 **यस्मिन् सर्वाणि भूतानि  
 आत्मैवाअभूद् विजानतः।  
 तत्र कः शोकः को मोह  
@@ -1820,8 +1757,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 स्वेनेव धीरो मनसा यदग्रभीत्।  
 न मृष्यते प्रथमं नापरं वचः  
 अस्य क्रत्वा सचते अप्रदृपितः॥ १-१४५-२**
-
-
 
 **क्रतूयन्ति क्रतवो हृत्सु धीतयो  
 वेनन्ति वेनाः पतयन्त्यादिशः।  
@@ -1859,8 +1794,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **तत्र माम् अमृतं कृधि॥९-११३-११**
 
-
-
 **पञ्चमी।**  
 **इन्द्रभूतिः**
 
@@ -1893,8 +1826,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 उतेमाहुरं नैषो अस्ति इत्येनम्।  
 सो अर्यः पुष्टीर्विज इवामिनाति  
 श्रद् अस्मै धत्त स जनास इन्द्रः॥२-१२-५**
-
-
 
 **यो रध्रस्य चोदिता यः कृशस्य  
 यो ब्रह्मणो नाधमानस्य कीरेः।  
@@ -1931,8 +1862,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 यो रौहिणमस्फुरद् वज्रबाहुर्  
 द्याम् आरोहन्तं स जनास इन्द्रः॥२-१२-१२**
 
-
-
 **द्यावा चिदस्मै पृथिवी नमेते  
 शुष्माद् चिदस्य पर्वता भयन्ते।  
 यः सोमपा निचितो वज्रबाहुर्  
@@ -1967,8 +1896,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 इन्द्रं यान्तोऽवसिताश इन्द्रम्।  
 इन्द्रं क्षियन्त उत युध्यमाना  
 इन्द्रं नरो वाजयन्तो हवन्ते॥ ४-२५-८**
-
-
 
 **महाँ असि महिष वृष्ण्येभिर्  
 धनस्पृदुग्र सहमानो अन्यान्।  
@@ -2005,8 +1932,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 प्र वातस्य प्रथसः प्रज्मो अन्तात्  
 प्रसिन्धुभ्यो रिरिचे प्र क्षितिभ्यः॥ १०-८९-११**
 
-
-
 **नहि त्वा शूरो न तुरो न धृष्णुर्  
 न त्वा योधो मन्यमानो युयोध।  
 इन्द्र नकिष्ट्वाप्रति-अस्ति-एषाम्  
@@ -2041,8 +1966,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 बलानीन्द्र प्रबुवाणो जनेषु।  
 मायेत्सा ते यानि युद्धानि आहुर्  
 नाद्य शत्रुं ननु पुरा विवित्से॥ १०-५४-२**
-
-
 
 **ता कर्म अषतर अस्मै  
 प्र च्यौत्नानि देवयन्तो भरन्ते।  
@@ -2086,8 +2009,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **—————**
 
-
-
 **षष्ठी।**
 
 **वरुणाहुतिः**
@@ -2121,8 +2042,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 उतापरम् तुविजात ब्रवाम।  
 त्वे हि कम् पर्वते न श्रितानि  
 अप्रच्युतानि दूलभ व्रतानि॥२-२८-८**
-
-
 
 **धीरा तु-अस्य महिना जनूंषि  
 वि यस्तस्तम्भ रोदसी चिदुर्वी।  
@@ -2159,8 +2078,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 मा ज्योतिषः प्रवसथानि गन्म  
 वि षू मृधः शिश्रथो जीवसे नः॥ २-२८-७**
 
-
-
 **अपो सु म्यक्ष वरुण भियसम्  
 मत्सम्रालृतावोऽनु मा गृभाय।  
 दामेव वत्साद् विमुमुग्धि अंहो  
@@ -2195,8 +2112,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 यद्वा घा सत्यमुत यन्न विद्म।  
 सर्वा ता विष्य शिथिरेव देव  
 अधा ते स्याम वरुण प्रियासः॥५-८५-८**
-
-
 
 **अरं दासो न मील्हुषे कराणि  
 अहं देवाय भूर्णयेऽनागाः।  
@@ -2235,8 +2150,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 तम् त्वा गृणामि तवसमतव्यान्  
 क्षयन्तमस्य रजसः पराके॥ ७-१००-५**
 
-
-
 **आ तिष्ठन्तम् परि विश्वे अभूषञ्  
 श्रियो वसानश्चरति स्वरोचिः।  
 महत्तद्वृष्णो असुरस्य नामा  
@@ -2274,8 +2187,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **—————**
 
-
-
 **सप्तमी।**  
 **मित्र**
 
@@ -2308,8 +2219,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 ओजो मिमाते ध्रुवमस्य यत्स्वम्।  
 अजामिम् अन्यः श्रथयन्तमातिरद्  
 दभ्रेभिर् अन्यः प्र वृणोति भूयसः॥ ७-८२-६**
-
-
 
 **न तमंहो न दुरितानि मर्त्यम्**  
 **इन्द्रावरुणा न तपः कुतश्चन।  
@@ -2346,8 +2255,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 वज्रेणान्यः शवसा हन्ति वृत्रम्  
 सिषक्ति अन्यो वृजनेषु विप्रः॥६-६८-३**
 
-
-
 **जुषेथां यज्ञं बोधतम् हवस्य मे  
 सत्तोहोता निविदः पूर्व्यां अनु।  
 अच्छा राजाना नम एत्यावृतम्  
@@ -2382,8 +2289,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 वृषा मही रोदसी आ चिवेशः।  
 मही मित्रस्यवरुणस्य माया  
 चन्द्रेव भानुम् विद धे पुरुत्रा॥३-६१-७**
-
-
 
 **धर्मणा मित्रावरुणा विपश्चिता  
 व्रतारक्षेथे असुरस्य मायया।  
@@ -2420,8 +2325,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 ययोरसुर्यमक्षितम् ज्येष्ठम्  
 विश्वस्य यामन्नाचित्ता जिगत्नु॥७-६५-१**
 
-
-
 **मित्राय शिक्ष वरुणाय दाशुषे  
 या सम्राजा मनसा न प्रयुच्छतः।  
 ययोर्धाम धर्मणा रोचते बृहद्  
@@ -2453,8 +2356,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 त्वं वृताँ अरिणा इन्द्र सिन्धून्॥४-४२-७**
 
 **—————**
-
-
 
 **अष्टमी।**
 
@@ -2490,8 +2391,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 याभिर्धेनुमस्वंपिन्वथो नरा  
 ताभिरू षु ऊतिभिरश्विना गतम्॥१-११२-३**
 
-
-
 **यवं वृकेणाश्विना वपन्ता  
 इषं दुहन्ता मनुषाय दस्रा!  
 अभि दस्युम् बकुरेणाधमन्ता  
@@ -2526,8 +2425,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अनाशोश्चिदवितारा अपमस्य चित्।  
 अन्धस्य चिन्नासत्या कृशम्य चित्  
 युवामिदाहुर्भिषजा रुतम्य चित्॥१०-३९-३**
-
-
 
 **कं याथः कम् हगच्छथ  
 कमच्छा युञ्जाथे रथम्।  
@@ -2566,8 +2463,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **—————**
 
-
-
 **नवमी।**
 
 **एकासुरत्वम्**
@@ -2601,8 +2496,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अबन्धनश्चरति वत्स एकः।  
 मित्रस्य ता वरुणस्य व्रतानि  
 महद् देवानाम् असुरत्वम् एकम्॥३-५५-६**
-
-
 
 **द्विमाता होता विदथेषु सम्राट्  
 अनु अग्रं चरति क्षेति बुध्नः।  
@@ -2639,8 +2532,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 ऋतम्य सा पयसापिन्वते‍ला  
 महद् देवानाम् असुरत्वम् एकम्॥३-५५-१३**
 
-
-
 **पद्या वस्ते पुरुरूपा वपूंषि  
 उर्ध्वातस्थौ त्र्यवि रेरिहाणा।  
 ऋतस्य सद्म वि चरामि विद्वान्  
@@ -2675,8 +2566,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 उभे ते अस्य वसुना न्यृष्टे।  
 शृण्वे वीरो विन्दमानो वसूनि  
 महद् देवानाम् असुरत्वम् एकम्॥३-५५-२०**
-
-
 
 **इमां च नः पृथिवी विश्वधाया  
 उप क्षेति हितमित्रो न राजा।  
@@ -2713,8 +2602,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 त्वे वसु सुषणनानि सन्तु  
 यूयं पात स्वस्तिभिः सदा नः॥७-१२-३**
 
-
-
 **त्वमग्नेवरुणो जायसे यत्  
 त्वम् मित्रो भवसि यत्समिद्धः।  
 त्वे विश्वे सहसस्पुत्र देवास्  
@@ -2741,8 +2628,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अग्निंयमं मातरिश्वानमाहुः॥१-१६४-४६**
 
 **—————**
-
-
 
 **दशमी।**
 
@@ -2777,8 +2662,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 क्षिप्रेषवे देवाय स्वधाव्ने।  
 अषाल्हाय सहमानाय वेधसे  
 तिग्मायुधाय भरता शृणोतु नः॥७-४६-१**
-
-
 
 **प्र तुविद्युम्नस्य स्थविरस्य घृष्वेर्  
 दिवो ररशे महिमा पृथिव्याः।  
@@ -2815,8 +2698,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 यक्ष्वा महे सौमनसाय रुद्रम्  
 नमोभिर् देवम् असुरं दुवस्य॥५-४२-११**
 
-
-
 **अर्हन् बिभर्षि सायकानि धन्व  
 अर्हन् निष्कं यजतं विश्वरूपम्।  
 अर्हन्निदंदयसे विश्वमभ्वं  
@@ -2851,8 +2732,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 न स्रेधति न व्यथते न रिष्यति।  
 नास्य राय उप दस्यन्ति नोतय  
 ऋषिं वा यं राजानं वा सुषूदथ॥५-५४-७**
-
-
 
 **प्रपथे पथामजनिष्ट पूषा  
 प्रपथे दिवः प्रपथे पृथिव्याः।  
@@ -2889,8 +2768,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 येभिः परिज्मा परियन्नुरुज्रयो  
 वि रोरुवज्जठरे विश्वमुक्षते॥१०-९२-५**
 
-
-
 **स्थिरेभिरङ्गैः पुरुरूप उग्रो  
 बभ्रुः शुक्रेभिः पिपिशे हिरण्यैः।  
 ईशानादस्य भुवनस्य भूरेर  
@@ -2925,8 +2802,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **—————**
 
-
-
 **एकादशी।**
 
 **हविषा विधानम्**
@@ -2960,8 +2835,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अभ्यैक्षेताम् मनसा रेजमाने।  
 यत्राधि सूर उदितो विभाति  
 कस्मै देवाय हविषा विधेम॥१०-१२१-६**
-
-
 
 **आपो हयद् बृहतीर्विश्वमायन्  
 गर्भं दधाना जनयन्तीरग्निम्।  
@@ -2998,8 +2871,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 क इन्द्रस्य युज्यम् कः सखित्वम्  
 को भ्रात्रं वष्टि कवये क ऊती॥४-२५-२॥**
 
-
-
 **त्वामग्नेपितरमिष्टिभिर्  
 नरस्त्वां भ्रात्राय शम्या तनूरुचम्।  
 त्वं पुत्रो भवसि यस्ते अविधत्  
@@ -3035,8 +2906,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **—————**
 
-
-
 **द्वादशी।**
 
 **विराट्**
@@ -3070,8 +2939,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 देवा यज्ञमतन्वत।  
 वसन्तो अस्यासीदाज्यम्  
 ग्रीष्म इध्मः शरद्धविः॥१०-९०-६॥**
-
-
 
 **तं यज्ञम् बर्हिषि प्रौक्षन्  
 पुरुषं जातमग्रतः।  
@@ -3108,8 +2975,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 मुखादिन्द्रश्च अग्निश्च  
 प्राणाद्वायुरजायत॥१०-१०-१३॥**
 
-
-
 **नाभ्या आसीत् अन्तरिक्षम्  
 शीर्ष्णोद्योः समवर्तत।  
 पद्भ्याम् भूमिर्दिशः श्रोत्रात्  
@@ -3145,8 +3010,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 संबाहुभ्यां धमति संपतत्रैर्  
 द्यावाभूमी जनयन्देव एकः॥ १०- ८१-३॥**
 
-
-
 **त्रिरस्य ता परमा सन्ति सत्या  
 स्पार्हादेवस्य जनिमानि अग्नेः।  
 अनन्ते अन्तः परिवीत आगाच्  
@@ -3163,8 +3026,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अदितिर्जातमदितिर्जनित्वम्॥१०-८९-१०॥**
 
 **—————**
-
-
 
 **त्रयोदशी।**
 
@@ -3199,8 +3060,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 मयि देवासो अवृजन्नपि क्रतुम्।  
 ममानीकं सूर्यस्येव दुष्टरम्  
 मामार्यान्ति कृतेन कर्त्वेन च॥१०-४८-३॥**
-
-
 
 **अहमिन्द्रो न परा जिग्य इद्धनम्  
 न मृत्यवे अव तस्थे कदा चन।  
@@ -3237,8 +3096,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अमन्तवो मा त उप क्षियन्ति  
 श्रुधि श्रुत श्रद्धिवं ते वदामि॥१०-१२५-४॥**
 
-
-
 **अहमेव स्वयमिदं वदामि  
 जुष्टं देवेभिरुत मानुषेभिः।  
 यं कामये तंतमुग्रं कृणोमि  
@@ -3274,8 +3131,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अहम् नि अन्यं सहसा सहस्करम्  
 नव व्राधतो नवतिं च वक्षयम्॥१०-४९-८॥**
 
-
-
 **अहम् तदासु धारयम् यदासु  
 न देवश्चन त्वष्टाधारयद्रुशत्।  
 स्पार्हंगवामूधःसु वक्षणासु  
@@ -3308,7 +3163,66 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **—————**
 
+**चतुर्दशी।**
 
+**नासदीयम्**
+
+**नासदासीन्नोसदासीत्तदानीम्  
+नासीद्रजो न व्योमा परो यत्।  
+किमावरीवः कुह कस्य शर्मन्  
+अम्भः किमासीद्गहनं गभीरम्॥१०-१२९-१॥**
+
+**न मृत्युरासीदमृतं न तर्हि  
+न रात्र्या अह्न आसीत्प्रकेतः।  
+आनीदवातं स्वधया तदेकं  
+तस्माद्धान्यन्न परः किं चनास॥१०-१२९-२॥**
+
+**तम आसीत्तमसा गूल्हमग्रे  
+अप्रकेतं सलिलं सर्वं आ इदम्।  
+तुछ्येन आभ्वपिहितं यदासीत्  
+तपसस् तन् महिना अजायतैकम्॥१०-१२९-३॥**
+
+**कामस्तदग्नेसमवर्तताधि  
+मनसो रेतः प्रथमं यदासीत्।  
+सतो बन्धुमसति निरविन्दन्  
+हृदि प्रतीष्या कवयो मनीषा॥१०-१२९-४॥**
+
+**तिरश्चीनो विततो रश्मिरेषाम्  
+अधः स्विदासीदुपरि स्विदासीत्।  
+रेतोधा आसन्महिमान आसन्त्  
+स्वधा अवस्तात्प्रयतिः परस्तात्॥१०-१२९-५॥**
+
+**को ददर्श प्रथमं जायमानम्  
+अस्थन्वन्तम् यदनस्था बिभर्ति।  
+भूम्या असुरसृगात्मा क्वस्वित्  
+को विद्वांसमुप गात्प्रष्टुमेतत्॥१-१२९-६॥**
+
+**किं स्विद्वनं क उ स वृक्ष आस  
+यतो द्यावापृथिवी निष्टतक्षुः।  
+सन्तस्थाने अजरे इत ऊती  
+अहानी पूर्वीरुषसो जरन्त॥१०-३१-७॥**
+
+**किं स्विद्विनं क उ स वृक्ष आस  
+यतो द्यावापृथिवी निष्टतक्षुः।  
+मनीषिणो मनसा पृच्छतेदु तत्  
+यद् अध्यतिष्ठद्धवनानि धारयन्॥१०-८१-४॥**
+
+**को अद्धा वेद क इह प्र वोचत्  
+कुत आजाता कुत इयं विसृष्टिः।  
+अर्वाग्देवा अस्य विसर्जनेन  
+अथा को वेद यत आ बभूव॥१०-१२९-६॥**
+
+**इयं विसृष्टिर्यत आ बभूव  
+यदि वा दधे यदि वा न।  
+यो अस्माध्यक्षः परमे व्योमन्  
+सो अङ्ग वेद यदि वा न वेद ॥१०-१२९-७॥**
+
+**नैतावदेना परो अन्यदस्ति  
+उक्षा स द्यावापृथिवी बिभर्ति।  
+त्वचं पवित्रं कृणुत स्वधावान्  
+यदीं सूर्यं न हरितो वहन्ति॥१०-३१-८॥**
+
+—————
 
 **चतुर्दशी।**
 
@@ -3344,8 +3258,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 भूम्या असुरसृगात्मा क्वस्वित्  
 को विद्वांसमुप गात्प्रष्टुमेतत्॥१-१२९-६॥**
 
-
-
 **किं स्विद्वनं क उ स वृक्ष आस  
 यतो द्यावापृथिवी निष्टतक्षुः।  
 सन्तस्थाने अजरे इत ऊती  
@@ -3372,73 +3284,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 यदीं सूर्यं न हरितो वहन्ति॥१०-३१-८॥**
 
 —————
-
-
-
-**चतुर्दशी।**
-
-**नासदीयम्**
-
-**नासदासीन्नोसदासीत्तदानीम्  
-नासीद्रजो न व्योमा परो यत्।  
-किमावरीवः कुह कस्य शर्मन्  
-अम्भः किमासीद्गहनं गभीरम्॥१०-१२९-१॥**
-
-**न मृत्युरासीदमृतं न तर्हि  
-न रात्र्या अह्न आसीत्प्रकेतः।  
-आनीदवातं स्वधया तदेकं  
-तस्माद्धान्यन्न परः किं चनास॥१०-१२९-२॥**
-
-**तम आसीत्तमसा गूल्हमग्रे  
-अप्रकेतं सलिलं सर्वं आ इदम्।  
-तुछ्येन आभ्वपिहितं यदासीत्  
-तपसस् तन् महिना अजायतैकम्॥१०-१२९-३॥**
-
-**कामस्तदग्नेसमवर्तताधि  
-मनसो रेतः प्रथमं यदासीत्।  
-सतो बन्धुमसति निरविन्दन्  
-हृदि प्रतीष्या कवयो मनीषा॥१०-१२९-४॥**
-
-**तिरश्चीनो विततो रश्मिरेषाम्  
-अधः स्विदासीदुपरि स्विदासीत्।  
-रेतोधा आसन्महिमान आसन्त्  
-स्वधा अवस्तात्प्रयतिः परस्तात्॥१०-१२९-५॥**
-
-**को ददर्श प्रथमं जायमानम्  
-अस्थन्वन्तम् यदनस्था बिभर्ति।  
-भूम्या असुरसृगात्मा क्वस्वित्  
-को विद्वांसमुप गात्प्रष्टुमेतत्॥१-१२९-६॥**
-
-
-
-**किं स्विद्वनं क उ स वृक्ष आस  
-यतो द्यावापृथिवी निष्टतक्षुः।  
-सन्तस्थाने अजरे इत ऊती  
-अहानी पूर्वीरुषसो जरन्त॥१०-३१-७॥**
-
-**किं स्विद्विनं क उ स वृक्ष आस  
-यतो द्यावापृथिवी निष्टतक्षुः।  
-मनीषिणो मनसा पृच्छतेदु तत्  
-यद् अध्यतिष्ठद्धवनानि धारयन्॥१०-८१-४॥**
-
-**को अद्धा वेद क इह प्र वोचत्  
-कुत आजाता कुत इयं विसृष्टिः।  
-अर्वाग्देवा अस्य विसर्जनेन  
-अथा को वेद यत आ बभूव॥१०-१२९-६॥**
-
-**इयं विसृष्टिर्यत आ बभूव  
-यदि वा दधे यदि वा न।  
-यो अस्माध्यक्षः परमे व्योमन्  
-सो अङ्ग वेद यदि वा न वेद ॥१०-१२९-७॥**
-
-**नैतावदेना परो अन्यदस्ति  
-उक्षा स द्यावापृथिवी बिभर्ति।  
-त्वचं पवित्रं कृणुत स्वधावान्  
-यदीं सूर्यं न हरितो वहन्ति॥१०-३१-८॥**
-
-—————
-
-
 
 **पञ्चदशी।**
 
@@ -3478,8 +3323,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 एनो मा नि गां कतमच्चनाहम्  
 विश्वे देवासो अधि वोचता नः॥ १०-१२८.४॥**
 
-
-
 **शं नो मित्रः शं वरुणः शं नो भवत्वर्यमा।  
 शं नो इन्द्रो बृहस्पतिः शं नो विष्णुरुरुक्रमः॥१-९०-९॥**
 
@@ -3518,8 +3361,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **—————**
 
-
-
 **अनु–क्रमणिका**
 
 **इन्द्रावरुणम्**  
@@ -3554,8 +3395,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 अयं प्रकाश उर्व अन्तरिक्षम्।  
 हनाव वृत्रं निरेहि सोम  
 हविष्ट्वासन्तं हविषा यजाम॥१०-१२४-६॥**
-
-
 
 **कविः कवित्वा दिवि रूपमासजद्  
 अप्रभूती वरुणो निरपः सृजत्।  
@@ -3596,8 +3435,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 **अहं राजा वरुणो मह्यम्  
 तानि असुर्याणि प्रथमा धारयन्त।**
 
-
-
 **क्रतुंसचन्ते वरुणस्य देवाः  
 राजामि कृष्टेरुपमस्य वव्रेः॥४-४२-२॥**
 
@@ -3637,8 +3474,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 इन्द्रो मघानि दयते विषह्य  
 इन्द्रं वाजस्य जोहुवन्त सातौ॥७-२१-७॥**
 
-
-
 **(इला)**
 
 **त इद्देवानां सधमाद आसन्न्  
@@ -3675,8 +3510,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 ताभ्यामिदं विश्वमेजत्समेति  
 यदन्तरा पितरं मातरं च॥१०-८८-१५ ७१॥**
 
-
-
 **तदद्य वाचः प्रथमं मसीय  
 येनासुरान् अभि देवा असाम।  
 ऊर्जाद उत यज्ञियासः  
@@ -3710,21 +3543,9 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 **॥ॐ सत् रुद्र अकाल॥  
 \_\_\_\_\_\_**
 
-
-
-
-
-
-
-
-
-
-
 **VAIDIC GITĀ**
 
 **ENGLISH TRANSLATION**
-
-
 
 **PROLOGUE**
 
@@ -3748,8 +3569,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **7. को अस्य वेद प्रथमस्य अहः**  
  Who knows anything about the first day? Who saw it and who can tell? Great is the dignity of Mitra and Varuna. How can you explain to men the inexplicable?
-
-
 
 **8. न विजानामि**  
  I do not know what I happen to be. Fettered and hampered, I roam at random. It is only when the first call of conscience reaches me, that I wake up to my destiny in the universe.
@@ -3775,8 +3594,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 **15. अहश्च कृष्णमहर् अर्जुनं च**  
  Both the dark day and the white day are there. Between them, they cover the whole of the known world. But Conscience, like a puissant king, is able to cross the region of darkness, just as fire does by rays of light.
 
-
-
 **16.** **यज्ञेन यज्ञमयजन्त देवास्**  
  "Duty for the sake of Duty" is what the Devas did. That was the premier law. Glorious, they entered into heaven where other self-made Devas had entered before.
 
@@ -3800,8 +3617,6 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 
 **23. प्रजापतिश्चरति गर्भे अन्तर**  
 Prajapati roams about, concealed from view. He is born everywhere, yet he is not born (to exhaustion). Wise men know his births. All the worlds have their being in Him.
-
-
 
 **24. न तं विदाथ**  
  Do you not know Him- Him who made this universe? He dwells in your heart as well. To some He appears as if shrouded in a mist- to others He is a matter of conjecture only. He is the source of the Categorical Imperative, and in Him is the heart's rest.
@@ -3827,8 +3642,6 @@ Prajapati roams about, concealed from view. He is born everywhere, yet he is not
 **31. स पर्यगाच्शुक्रम्**  
  He looms bright, incorporeal, unscathed, immaterial, pure and untainted. He is sage and savant, omnipresent
 
-
-
 and self– existent. All along, He arranges things according to their worth.
 
 **32. को ददर्श प्रथमं**  
@@ -3851,8 +3664,6 @@ and self– existent. All along, He arranges things according to their worth.
 
 **38. वृत्राणि अन्यः समिथेषु**  
   One of you fights the outward enemy in battle and the other One sustains inward character. We call on you, Mighty Ones, with our hymns of praise. Indra–Varuna, give us your protection.
-
-
 
 **39. शयुः परस्ताद्**  
  Aryan cult, which is the child of two mothers (Indian and Iranian cultures) lies before us. It moves on unhampered. It obeys the Law of Varuna and his friend. In all the Gods, there is only one Divinity.
@@ -3878,8 +3689,6 @@ and self– existent. All along, He arranges things according to their worth.
 **46. हिरण्यहस्तो**  
  May the Asura, the gold–handed kind Leader, the selfdependent comforter, come hither to us. Driving off Rakshasas and Yatudhanas, may the Deva appear, praised by hymn every evening.
 
-
-
 **47. अपश्यं गोषाम्**  
  I have seen the Lord who is still becoming (The Dynamic Absolute)–moving up all the roads near and far. He holds within Himself all forces, convergent or divergent, and goes on rotating.
 
@@ -3900,8 +3709,6 @@ and self– existent. All along, He arranges things according to their worth.
  May the night be sweet and the dawn be sweet and sweet be the atmospheric dust. May Dyau, our father, be sweet to us. May the tall tree be full of sweets for us, and full of sweets, the sun.May the cows be sweet to us.
 
 **––––––––––**
-
-
 
 **CHAPTER I  
 THE RIGHT**
@@ -3927,8 +3734,6 @@ THE RIGHT**
 **7. यस्मिन् ऋचः**  
  That which holds together Rik, Saman and Yajus, just as the hub holds the spokes, and that wherein the Feelings inhere, may such my mind have right desires alone.
 
-
-
 **8. सुषारथिर् अश्वान्**  
  Just as the charioteer controls strong horses with the help of the reins, so does the Mind control men. It sits in the heart, firm and strong. May such my mind have right desires alone.
 
@@ -3953,8 +3758,6 @@ THE RIGHT**
 **15. अयातु इन्द्रः**  
  May sovran Indra come for our bliss. Through Rectitude, He is strong and powerful. By his great and limitless power, He overcomes all-supreme forces.
 
-
-
 **16. शतं ते राजन्**  
  A hundred balms are there, oh king, a thousand theyare. Let me partake of your wideand deep mercy. Far from us, far away, drive Disorders. Release us even from the sin we may have committed.
 
@@ -3978,8 +3781,6 @@ THE RIGHT**
 
 **23. अर्यम्य वरुण**  
  Whomever we may have sinned against–against a tribesman or a friend, a comrade or a brother, against a neighbour or a stranger, oh Varuna, forgive us those sins.
-
-
 
 **24. यदाविर्**  
  Each evil deed, overt or covert, oh Lord, the whole thereof, remove from us to Trita Aptya, far away.
@@ -4013,8 +3814,6 @@ THE RIGHT**
 
 **–––––––––**
 
-
-
 **CHAPTER II**  
 **ANTI-HEDONISM**
 
@@ -4039,8 +3838,6 @@ THE RIGHT**
 **7. इयुस् ते**  
  Gone are the men, who in the days before us, looked on the advent of the dawn. We the living, now behold her brightness, and they come nigh who shall hereafter see her.
 
-
-
 **8. त्रातारो देवाः**  
  Bless us, oh Protector Lord. May sloth or pleasure not tempt us. May we, as favourite of Soma, speak to the Synod, with brave sons around us.
 
@@ -4051,8 +3848,6 @@ THE RIGHT**
  May we have right duties on all sides,–unhindered, unretarded and victorious. Then will God, our protector and guardian day by day, lead us to prosperity.
 
 **––––––––**
-
-
 
 **CHAPTER III**  
 **ÁNTI–ASCETICISM**
@@ -4078,8 +3873,6 @@ THE RIGHT**
 **7.समौ चिद् हस्तौ**  
  The two hands look alike, but their capacities differ. The yield of two sister cows is unequal. Even the twin have not equal strength. Two equal kinsmen do not equally support.
 
-
-
 **8. एकपाद् भूयो**  
  The biped surpasses the one–footed one, but he lags behind the three–footed. The quadruped is out of the reach of the biped. He sees the ways and proceeds.
 
@@ -4103,8 +3896,6 @@ THE RIGHT**
 
 **15. पतङ्गक्तम्**  
  By the grace of the Asura, wise men see with mind, the Dynamic one at their heart. The kavis plunge into the deep–they pray to Bedhas for the features of the rays (mobility).
-
-
 
 **16. आ यद् हरी**  
  Oh Indra, when you yoke your wandering steeds, your follower places the thunder in your hands. With this, you famous and resistless One, you smite down foes and many a castle.
@@ -4132,8 +3923,6 @@ THE RIGHT**
 
 **––––––––**
 
-
-
 **CHAPTER IV  
 HIGHER SELF**
 
@@ -4157,8 +3946,6 @@ HIGHER SELF**
 
 **7. अहश्च कृष्णम्**  
  Both the dark day and the white day are there. They rotate round the universe in turns. Conscience, a strong king, like the fire with its glow, crosses the region of darkness.
-
-
 
 **8. दृष्ट्वा रूपे**  
  Prajapati has made the Right different from the Wrong, and has planted in us regard for truth and repulsion for untruth.
@@ -4184,8 +3971,6 @@ HIGHER SELF**
 **15. अचित्ती यच्**  
  If we, men as we are, have sinned against the Divine Being, unconsciously, in weakness or insolence, absolve us from the guilt, and make us free from sin, O Savitar, alike among both angels and men.
 
-
-
 **16. न स स्वो दक्षो**  
  It was not my act, Oh Varuna, it was a lapse. It was due to wine or emotion, or gambling or forgetfulness. The stronger force gets the upper hand, for the time being. Even in dream one is tempted to sin.
 
@@ -4206,8 +3991,6 @@ HIGHER SELF**
 
 **22. ऋचो अक्षरे परमे**  
   The words of the Veda form the station wherein dwells the Lord. Those who miss Him, what does the Veda avail them? Those who know Him know the Veda.
-
-
 
 **8. यस्याश्वासः**  
  All the horses and cows that are in the world, all the villages and chariots, are under His command. He who made the sun and the dawn, and who moves the waters, He, oh men, is Indra.
@@ -4233,8 +4016,6 @@ HIGHER SELF**
 **15. यः सुन्वन्तम्**  
  He who protects the Soma-pourer, the Soma-brewer, the singer and the praiser, He, whom prayer and Soma and this our gift exalts, He, oh men, is Indra.
 
-
-
 **16. यं वृत्रेषु**  
  Whom the rival clans in warfare, and the progressive ones in the congregation invoke, whom in tournament, and whom in retreat, all follow, and whom the saints strengthen, He is Indra.
 
@@ -4258,8 +4039,6 @@ HIGHER SELF**
 
 **23. त्रातारमिन्द्रम्**  
   Indra is the Rescuer, Indra is the Helper, Indra is the hero who listens at each invocation. I call mighty Indra, invoked of many. May Indra, the Lord of Magha, grant us welfare.
-
-
 
 **24. त्वं विश्वा दधिषे**  
  Thou hast all treasures in Thy sole possession, treasures manifest and treasures hidden. Defer not, oh Lord of Magha, my longing. Thou art Director Indra, Thou art giver.
@@ -4287,8 +4066,6 @@ HIGHER SELF**
 
 **32. रूपं रूपं प्रतिरूपो**  
  In every figure He appears–it is His form that we see in all. Indra in his glory, is multiform. He appears simultaneously in tens and thousands of places–so many are his steeds.
-
-
 
 **33. परा पूर्वेषां**  
  He gives up the friendship of former friends and passes on to and walks with others. He neglects those who do not think of him. Indra persists through ages.
@@ -4320,8 +4097,6 @@ HIGHER SELF**
 **42. यदिन्द्र**  
  Oh Indra, I wish to be as much as You yourself are. Inspire the singer and do not abandon him to vice.
 
-
-
 **CHAPTER VI  
 LORD OF THE SOUL**
 
@@ -4345,8 +4120,6 @@ LORD OF THE SOUL**
 
 **7. धीरा तु–अस्य**  
  Wise verily are the great creations of Varuna. He confirmed the heaven and the earth. He spread the high heaven wide, and divided asunder the earth and the firmament.
-
-
 
 **8. एवा वन्दस्व**  
  So worship the great Varuna. Revere the wise Guard of Immortality. May he vouschafe us His threefold protection. Let heaven and earth preserve us within the lap.
@@ -4372,8 +4145,6 @@ LORD OF THE SOUL**
 **15. माहं मघोनः**  
  May I not live, oh Varuna, to witness the destitution of my wealthy liberal dear friend. Oh king, may I never fall away from the wealth of self-command. Loud we may speak with heroes in the assembly.
 
-
-
 **16. पृच्छे तदेनो**  
  Fair to know my fault, I question others; I approach the wise, oh Varuna, and ask them. This one same reply all the sages give, "Surely Varuna is angry with thee."
 
@@ -4397,8 +4168,6 @@ LORD OF THE SOUL**
 
 **23. यो मृलयाति**  
  He shows mercy even to the sinner. But let us approach Him Varuna, sinless. As we follow the laws of Aditi may you provide us with welfare.
-
-
 
 **24. त्वं विश्वेषां**  
   Asura Varuna, Thou art Sovereign over all, be they Devas or be they mortals. Grant unto us to see a hundred autumns. May we attain to the age, that obtained before.
@@ -4424,8 +4193,6 @@ LORD OF THE SOUL**
 **31. त्वं राजेन्द्र ये च**  
 Asura, Thou art the king of the Devas and Raksasas. protect us, human beings. Thus art the king of the saints, Lord of the Magha (congregration) and our refuge. Thou art true protector and comrade.
 
-
-
 **32. यदा कदा च**  
  Whenever a man seeks a merciful Lord, he worships Varuna, the Lord of the fallen.
 
@@ -4436,8 +4203,6 @@ Asura, Thou art the king of the Devas and Raksasas. protect us, human beings. Th
  When He, the Divine Being, came for fellowship– Vishnu to Indra, Godly to the Godlier–Bedhas (Bazda) had conquered the Aryans of Trishadha, and made his followers partners in the common Law.
 
 ––––––––––
-
-
 
 **CHAPTER VII  
 MITRA–TWO IN ONE**
@@ -4464,8 +4229,6 @@ MITRA–TWO IN ONE**
 **7. न तमंहो न**  
  No trouble, no misfortune, Indra-Varuna, no affliction from any side, assails the man, whose sacrifice, oh Gods, Ye visit and enjoy, never doth the crafty guile of any man injure him.
 
-
-
 **8. अर्वाङ्नरा**  
  With your divine protection, Leaders, come to us. Hear my invocation if you please. Bestow ye upon us, oh Indra-Varuna, your kind friendship and kinship.
 
@@ -4489,8 +4252,6 @@ MITRA–TWO IN ONE**
 
 **15. युवोर्ऋतं**  
  May your great Law be effective in heaven and earth. Be ye our leaders, for our great advantage. To heaven and earth, I offer this my homage with food of Agni, as I pray for riches.
-
-
 
 **16. स सुक्रतुर्**  
  May that priest, oh Adityas, who with his sacred gifts and adoration, brings you to aid us with your might, become proficient in Duty and Moral Law. May he be equipped for right-going.
@@ -4516,8 +4277,6 @@ MITRA–TWO IN ONE**
 **23. ता भूरिपाशावनृतस्य**  
 ** **They have long noses. They are the restrainers of irrectitude. They are difficult for the wicked mortals to escape. Varuna-Mitra, may your path of Rectitude bear us over trouble as a boat over waters.
 
-
-
 **24. युवं वस्त्राणि**  
  The robes which you put on are broad. Your counsels are faultless and effective. All falsehood you conquer. Mitra-Varuna you are united in Rectitude.
 
@@ -4542,8 +4301,6 @@ MITRA–TWO IN ONE**
 **31. तमु ष्टवाम**  
  Let us praise Him who created this universe. All the creation is subsequent to Him. By our praises of Indra,
 
-
-
 we would propitiate Mitra, and wait upon the Lord with adoration.
 
 **32. अयं मित्रो**  
@@ -4553,8 +4310,6 @@ we would propitiate Mitra, and wait upon the Lord with adoration.
  All the world knows of this. Therefore they call Varuna by the name of Bedhas. As for you, oh Indra, you are known as having slain the Vritras, and as having released the obstructed currents.
 
 **–––––––**
-
-
 
 **CHAPTER VIII  
 ASWINAU–ONE IN TWO**
@@ -4580,8 +4335,6 @@ ASWINAU–ONE IN TWO**
 **7. यव वृकेना**  
  Cultivating barley with the plough, and milking out food for men, you wonder-workers, blasting out the Dasyus with your trumpet, you made a wide light for the Aryas.
 
-
-
 **8. आ न ऊर्ज**  
  Bring here nourishment for us, ye Aswins Twain. Sprinkle us with your whip that drops the honey-dew. Prolong our life, wipe out our trespasses, repel the enemy and be our companion.
 
@@ -4606,8 +4359,6 @@ ASWINAU–ONE IN TWO**
 **15. इन्द्रतमा हि धिष्ण्या**  
  Beloved ones, you are most Indra-like, and also most Marut-like. Wonderful, wondrous, car-borne, and charioteers, you ride on a chariot, filled with honey, and thereon, ye Aswins, you go to the offerer.
 
-
-
 **16. किमत्र दस्रा**  
  What do you do, Oh Dasras, and how do you stay, when you find the non-sacrificer flourishing? Let the niggardslife decline and decay. Give light unto the lauding sage.
 
@@ -4624,8 +4375,6 @@ ASWINAU–ONE IN TWO**
  Ancient is your home and auspicious is your friendship, Heroes, your stronghold is the Ganga. Renewing your auspicious friendship, let us rejoice together with draughts of meath.
 
 **–––––––––**
-
-
 
 **CHAPTER IX  
 MONO-THEISM**
@@ -4647,8 +4396,6 @@ MONO-THEISM**
 
 **6. शयुःपरस्तादध**  
   The child of two mothers (Indian and Iranian cultures), it soars high unrestrained. It follows the Law both of Varuna as well as his friend. There is only one divinity in all the Gods.
-
-
 
 **7. द्विमाता होता**  
  The priest who is proficient in both the cults, is the king of the synod. He knows the root (original) as well as the branch (reformed church). They who speak sweetly, bring him sweet addresses. There is only one divinity in all the Gods.
@@ -4674,8 +4421,6 @@ MONO-THEISM**
 **14. पद्या वस्ते**  
  The procedure takes up many forms. It goes up, and mounts the apex. I know the seat of Rectitude and advance. There is only one divinity in all the Gods.
 
-
-
 **15. पदे इव**  
  Within a wondrous place, the twain are treasured. The one is manifest, the other is hidden. One common pathway leads to two directions. There is only one divinity in all the Gods.
 
@@ -4699,8 +4444,6 @@ MONO-THEISM**
 
 **22. निष्षिध्वरीस्त**  
  The herbs and waters are your property, Indra. Earth brings all her wealth for thee. May we, as friends of thine share goodly treasures. There is only one divinity in all the Gods.
-
-
 
 **23. सुपर्ण विप्राः**  
  The sages designate Suparna by various names–though he is only one. This they do at the synods and in rhymes. While they take Soma; they measure the twelve (syllables).
@@ -4726,8 +4469,6 @@ MONO-THEISM**
 **30. त अज्येष्ठा**  
  "There are no eldest amongst them, nor youngest, nor any middlemost. All of them are great in strength. They are noble in birth,–the sons of Prisni (Veda). Divine beings, come towards us.
 
-
-
 **31. यो नः पिता**  
  He who is our Father, Creator and Disposer, who knows everything in the universe, who single is known by many names, all the world goes seeking for Him.
 
@@ -4735,8 +4476,6 @@ MONO-THEISM**
  They call Him by various names,–Indra, Mitra, Varuna or Agni. He is also called the glorious Suparna. The Entity is one-sage's name it variously as Agni, Yama or Matarishwa.
 
 **—————**
-
-
 
 **CHAPTERX**  
 **RUDRA–THE GREAT LORD**
@@ -4758,8 +4497,6 @@ MONO-THEISM**
 
 **6. इमा रुदाय**  
  To Rudra, bring these songs, whose bow is firm, the self-dependent God, with swiftly flying shafts, the wise, the conqueror, whom none may overcome, armed with sharp pointed weapons. May he hear our call.
-
-
 
 **7. प्र तुविद्युम्नस्य**  
  From heaven, from earth, is bruited forth the greatness of Him, the resplendant, the firm, the fiery. No foe hath He, no rival, no equal–the skilful and the bold.
@@ -4785,8 +4522,6 @@ MONO-THEISM**
 **14. अर्हन् बिभर्षि**  
  Worthy, Thou carriest arrow with the bow. Worthy, thou hast a beautiful necklace of many colours. Worthy, thou
 
-
-
 pitiest one and all. None there is greater than you, oh Rudra.
 
 **15. हिरण्यहस्तो असुरः**  
@@ -4810,8 +4545,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 **21. प्रपथे पथाम्**  
  Pushan rose to move on distant path-ways, on the road far in earth and far in heaven. In both the worlds he travels and returns with perfect knowledge.
 
-
-
 **22. य इमे द्यावा**  
  He who made the heaven and the earth and gave shape to the whole universe, (bring that Twastar here, oh sacrificer). Hotar, more skilled in sacrifice, bring hither with speed today, that God Twastar, thou who knowest.
 
@@ -4833,8 +4566,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 **28. स्थिरेभिरङ्गेः**  
  With firm limbs, multiform, the strong, the tawny adorns himself with bright gold decorations. From Rudra, from Him, who is the mighty sovran of this world, Divinity never departs.
 
-
-
 **29. इहा हि ते**  
  Yea, here were they, thy friends of ancient time, who, born of old, have served Thee, oh Active One. Remember them, oh Omni-present, the oldest, the midmost and the youngest worshippers.
 
@@ -4852,8 +4583,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
  Be it as Varuna, and his friend (Mitra) and Rudra desire, as they all desire in rejoice.
 
 **–––––––––**
-
-
 
 **CHAPTERXI**  
 **NONE ELSE**
@@ -4879,8 +4608,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 **7.आपो ह यद्**  
  When the primordial water spread over the universe, containing within it the germ and producing fire, then came into being the only soul of all the Devas. Whom also should we adore with oblation?
 
-
-
 **8. यश्चिदापो**  
  He, in his might, surveyed the floods, containing productive force, and generating worship. To all the Gods, He is the Super God. Whom else should we adore with oblation?
 
@@ -4905,8 +4632,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 **15. वास्तोष्पते**  
  Lord of the House, be you our promoter. Increase our wealth in kine and steeds, oh Indra. May we be ever youthful in thy friendship. Be pleased in us, as a father with his sons.
 
-
-
 **16. अग्निम् मन्ये**  
  I deem Agni, to be my kinsman and my father; I count him my brother and my friend for ever. I honour the bright and the holy light of Surya, as the face of Agni.
 
@@ -4923,8 +4648,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
  This one, Oh Varuna, though your own eternal friend, has sinned against you. Sinful as long as one is, he cannot unite with you, Holy Lord. Wise one, purify your panegyrist and grant him welfare.
 
 **—————**
-
-
 
 **CHAPTER XII**  
 **THE TRANSCENDANT**
@@ -4953,8 +4676,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 **8. तस्माद्यज्ञात्**  
  From the great general sacrifice, the dripping fat was gathered up. He formed the creatures of the air, and animals, both wild and tame.
 
-
-
 **9. तस्माद्यज्ञात्**  
  From that great general sacrifice, Ricas and Saman hymns were born. Therefrom were born the Chandas and the Yajus.
 
@@ -4982,8 +4703,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 **17. य इमा विश्वा**  
  He was offered the whole world, who sits as the sage the Hotar, the father of us all. He in kindness, seeking felicity for men, came among them to the foremost of them.
 
-
-
 **18. प्रजापतिश्चरति**  
  Prajapati roams about concealed from view. He is born everywhere, yet He is not born (to exhaustion.) Wise men know His birth. All the worlds have their being in Him.
 
@@ -5001,8 +4720,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 
 **23. अदितिद्यौर्**  
  Aditi is heaven and Aditi is sky,–Aditi is father, mother and son. Aditi is all the angels and all the men. Aditi is all that has been and Aditi is all that will be.
-
-
 
 **CHAPTER XIII**  
 **THE ONE SELF**
@@ -5028,8 +4745,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 **7. अहमिन्द्रो न**  
  Indra am I None ever wins my wealth from me. Never at any time am I a thrall to death. They only can ask riches of me, who press the Soma. Purus will never suffer in my friendship.
 
-
-
 **8. अभि इदमेकम्**  
  I am alone in this world. I am alone without a rival. Why do they think of two or three? Like many sheaves upon the floor, I thrash them. Do the enemies, the Indraless ones, revile me?
 
@@ -5053,8 +4768,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 
 **15. अहं रुद्राय**  
  I extend the bow for Rudra, for his arrow to pierce the ungodly. I make the people frenzied, I penetrate the heaven and the earth.
-
-
 
 **16. अहम् सुवे पितरम्**  
  I placed Pitar at the head of all. My home is in the waters of the ocean. Then I spread over all the world, and touch even the yonder heaven with my forehead.
@@ -5080,8 +4793,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 **23. एक एवाग्निर्**  
  It is the same Fire that burns everywhere. It is the same Sun that shines over all the world. It is the same Dawn that illumines all. One alone has become all this many.
 
-
-
 **24. परीत्य भूतानि**  
  Suffusing all the beings, suffusing all the worlds, suffusing all the regions and directions, based on the first Law of Rectitude, the self evolved (entered into) the self.
 
@@ -5092,8 +4803,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
  May we flourish, through the freshest help of the Adityas, and their most blessed protection. Hearing this, may they, the mighty Ones, protect this sacrifice, for purity and unity.
 
 **––––––––––**
-
-
 
 **CHAPTER– XIV**  
 **COSMOGONY**
@@ -5119,8 +4828,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 **7.** **कि स्विद्वनं सन्तस्थाने**  
  What was the wood, and what the tree, of which the heaven and the earth were produced? These two stand fast, close together, changeless. These have sung praise to many a day and morning.
 
-
-
 ***CHAPTER –XIV***
 
 **8.**किं स्यिद्वनं मनीषिणो
@@ -5141,8 +4848,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
 
 ——————————
 
-
-
 **CHAPTER –XV**  
 **UNIVERSAL PEACE**
 
@@ -5162,8 +4867,6 @@ pitiest one and all. None there is greater than you, oh Rudra.
  May the Gods grant me riches. May the blessings and invocation of the Gods assist me. May the divine Hotars love me. May we unwounded, have brave heroes around us.  
 **8.** मह्यम् यजन्तु  
  May the sacrificers present oblation to me. May the desires of my mind succeed. May I be guiltless of the least transgression. May all the Gods combine to bless us.
-
-
 
 CHAPTER —XV
 
@@ -5186,8 +4889,6 @@ CHAPTER —XV
 
 ———————————
 
-
-
 **EPILOGUE**
 
 **THE RIVAL CLANS**
@@ -5208,8 +4909,6 @@ CHAPTER —XV
  Here is light. Here is all lovely. Here is radiance- the wide sky. Let us two together (God and devotee), kill Vritra. Come up, Soma. Let us be provided with oblation and therewith serve.  
 7. कविः कवित्वा  
  The Sage (Indra), by his skill, has taken up a form in the skies. Formless Varuna has gone out of the field. Aus-picious rays like the rivers to the ocean, converge to His image.
-
-
 
 CHAPTER —XV
 
@@ -5234,8 +4933,6 @@ IRANIAN
  I moved the moistening waters. I made the heaven, the seat of Rectitude. I am the righteous son of Aditi Through Rectitude, I flourish, by extending three-fold.  
 16. मां नरः  
  Heroes with noble horses invoke me, desiring victory. And also those engaged in war. I, Indra Maghavan, carry on the conflict. I reduce them to dust, Lord of vigour.
-
-
 
 **THE RIVAL CLANS**  
 **VARUNA**
@@ -5264,8 +4961,6 @@ IRANIAN
 23. पुरुकुत्सानी हि  
  The spouse of Purukutsa gave oblations to you, Oh Indra-Varuna, with homage. Then unto her, you gave King Trasadsyu, Vritra-killer, and Semi-Devist.
 
-
-
 **CHAPTER —XV**
 
 **24.** **राया वयम्**  
@@ -5285,11 +4980,8 @@ IRANIAN
 31. **समानी व आकूतिः**  
  May you entertain the same purpose, and the same sen- timent. May you have the same mind so that there may be harmony all round.
 
-
 ॐ सत् रुद्र अकाल \।  
 ——————
-
-
 
 |            |             |             |
 |:----------:|:-----------:|:-----------:|
@@ -5329,10 +5021,6 @@ IRANIAN
 |     3      |   विद्या    |   विद्मा    |
 |     3      |   आजयन्त    |   आयजन्त    |
 
-
-
-
-
 **BOOKS BY THE SAME AUTHOR**
 
 **THE GURU-GRANTHA MALA SERIES **
@@ -5349,7 +5037,6 @@ Price As. 8
 
 (Samarth Bharat Press, 947 Sadashiv Peth, Poona 2).  
 
-
 **B. Atharva-Veda—अथर्व-वेद**
 
 **1. PRISNI-GATHA (पृश्रि-गाथा)** or the Hymns of Ramacandra and Zarathustra. Text in Devanagari and Translation in English. With Foreword by Mahamahopadhyaya Pandit Vidhu Sekhar Sastri. The foremost National songs of India and Iran.
@@ -5364,8 +5051,6 @@ Text in Devanagari, Prose order in Sanskrit, Grammatical notes according to Pani
 Price Re 1
 
 Cherag Office, P. O. Navsari, (Bombay).
-
-
 
 **C. Purana–पुराण**
 
@@ -5404,8 +5089,6 @@ Price Rs. 2
 J B. Karanis Sons,  
 220-22 Barabazar, Fort, Bombay.
 
-
-
 **2. रामचन्द्र ओ जरधुष्ठू**(Bengali) i. e., Aggressive Vedicism or the organic connection between Hinduism, Parsi-ism and Sikhism. With a Foreword by Dr. Dinesh Chandra Sen.
 
 Price –As. 10
@@ -5423,76 +5106,10 @@ Price– As. 10
 
 Price–As. 4
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^43]: "(i
-
+[^22]: "(i
 
 [^28]: "(i
 
-
-[^22]: "(i
+[^43]: "(i

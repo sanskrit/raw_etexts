@@ -12,23 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2OTM1MDUzODE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 दृग्दृश्यविवेकः
-
-
-
-
 
 रूपं दृश्यं लोचनं दृक् तद्दृश्यं दृक्तु मानसम् ।
 
@@ -217,18 +201,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk2OTM1MDUzODE
 इति भारती तीर्थ स्वामिना विरचितः
 
 दृग्दृश्यविवेकः समाप्तः ॥
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

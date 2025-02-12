@@ -18,52 +18,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyNTkxOTA3NTU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
 
 **नागपुर विश्वविद्यालय द्वारा सर्वाधिकार सुरक्षित**  
 
-
 **१९५०**  
-
-
-
-
 
 **मुद्रक  
 विकास मुद्रामंदिर, नागपुर**  
 
-
-
-
-
-
 **मूल्य ४॥丿**
 
-
-
 [TABLE]
-
-
 
 **FOREWORD**
 
@@ -101,12 +69,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyNTkxOTA3NTU
 
   11. I venture to hope that this series of bookswill prove useful not only for the State of MadhyaPradesh, but also for other States in theirefforts to adopt a regional language or the language of the Indian Union as the media of instruction at the University level. The present effortis necessarily imperfect. We can write good bookin Hindi and Marathi only if we can do originalthinking in Hindi and Marathi, as we do inEnglish today. Yet we can hope to do our thinking in Indian languages only when we have some written material to stimulate and sustainour thinking in these languages. It is a viciouscircle that has to be broken and the presentseries of books is an organised attempt tobreak it. Deeper thought, practical experience,national planning and local variations will, Ihave no doubt, change the shape of much of whatis written in these text-books. If, however, theyserve even as a raw material on which theseforces can play to mould them according to ourvarying requirements, the labour of those whohave worked during the last four years for making this new academic venture a success willhave been amply rewarded.  
 
-
 The J. N. Tata University  
 Convocation Hall, Nagpur.                       
       
   15th August 1950.                         
-     
 
 ***K. L. Dubey***  
 Vice-Chancellor,  
@@ -180,8 +146,6 @@ Nagpur University.
 |    १०९    |   ९    |    subreised     |    suberised     |
 |    ११२    |   २५   |     पुरुकोश      |      बहुकोश      |
 
-
-
 [TABLE]
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -233,8 +197,6 @@ Nagpur University.
 |           कवकानि                             |
 |                 **श्वेता–प्रजाति**    |
 |                 **प्रकिण्व**          |
-
-
 
 [TABLE]
 
@@ -686,8 +648,6 @@ Nagpur University.
 |                  | — कन्द        |
 |                  | — आकन्द       |
 
-
-
 **(अ) विशेष संपरिवर्तनें**
 
 **  १. स्तम्भ संजनी**  
@@ -881,8 +841,6 @@ Nagpur University.
 
   कलिकेंतील पर्णांच्या विन्यासाला **पर्णवलना** ही संज्ञा आहे. पर्णवलनेचे खालील प्रमुख प्रकार लक्षात घ्या.
 
-
-
 |                                                   |
 |---------------------------------------------------|
 | ![](../../../books_images/U-IMG-170366269867.png) |
@@ -942,11 +900,7 @@ Nagpur University.
 
   निरनिराल्या पर्णक्रमांचा अभ्यास करण्याकरिता एकान्तर पर्णक्रम असलेल्या कांही झाडांचेंनिरीक्षण करून त्यांचा पर्णक्रम दर्शविणारी रेखाचित्रें काढा. अशा प्रकारचीं दोन रेखाचित्रें खाली दिलीं आहेत. त्यांचा नीट अभ्यास करा.
 
-
-
 ![](../../../books_images/U-IMG-170470383172.png)
-
-
 
 **आकृति -४- पर्णन्यास. (क) त्रिपंक्तिक (ख) पंचपंक्तिक **
 
@@ -1004,11 +958,7 @@ Nagpur University.
 
   **४. मक्षीभक्ष-प्रजाति** (*Dionaea*-Venus fly-trap)—या झाडाची वसतिमूलची कॅरोलिनांतली आहे. ह्या झाडाच्या पर्णालादोन पालीं असून, सबंध पर्ण विजागरी (hinge) प्रमाणे हलतें, किंवापुस्तकाप्रमाणे मिटतें. प्रत्येक पाल्याच्या आंतील पृष्ठभागावर **हृष रोम** (sensitivy hairs) असून, कीटकांचा त्यांना स्पर्श होतां वदोन्ही पालीं मिटतात व अशा रीतीने कीटक बंदिस्त होतो.
 
-
-
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **प्रकरण ६ वें**
 
@@ -1137,8 +1087,6 @@ Nagpur University.
 **  अवरोही** (descending)—वाटाण्याच्या कोवल्या पुष्पकलिकेचा अनुप्रस्थ छेद घेतल्यास त्यांतील दलांच्या अतिछादनाचानीटउलगडा होईल. टांचणींने छेदांतील दलें किंचित् विलग केल्यासतींपांच असल्याचे आढलून येईल. त्यापैकी **विषम** (odd) किंवाध्वज नामक दल दोन्ही पार्श्व दलांना (पक्षांना) पूर्णपणें अतिछादनकरतें. या दोन पक्षांच्यामध्ये उरलेल्या दोन दलांनी मिलून बनलेलेंनिधरण असतें. अशा विशिष्ट प्रकारच्या दलविन्यासाला **अवरोही**ही संज्ञा आहे.
 
 ![](../../../books_images/U-IMG-170470356485.png)
-
-
 
 **आकृति—५—दलीचा निकलिविन्यास**—(क) अनतिछादी (ख) न्यद्वेष्टित (ग) आरोही अनियमछादी (घ) अवरोही अनियमछादी.
 
@@ -1322,18 +1270,11 @@ Nagpur University.
 
   पुष्पाचें रेखाचित्र म्हणजे वास्तविक पुष्पाच्या भ्रमींतून जाणाऱ्याकाल्पनिक अनुप्रस्थ छेदाचेंच चित्रण होय. या रेखाचित्राची नीटकल्पना येण्यासाठी वरील पुष्पांचीं रेखाचित्रे पुढे दिलीं आहेत.त्यांचा लक्षपूर्वक अभ्यास करा.
 
-
 ![](../../../books_images/U-IMG-17047037006.png)
-
-
 
 **आकृति ६–कांही पुष्पांचीं रेखाचित्रें**
 
-
-
 (क) जास्वन्दी (ख) वाटाणा (ग) धतुरा(घ) सूर्यफूल–बिम्ब-पुष्पक (च) सूर्यफूल-रश्मि-पुष्पक.
-
-
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -1415,11 +1356,7 @@ Nagpur University.
 
   हा अण्डाशय म्हणजे वास्तविक एक दीर्घवृन्त स्त्रीपुष्पच होय. अण्डाशयाखाली आढलणारा जोड अण्डाशयाचें वास्तविक स्वरूप स्पष्ट करतो.
 
-
-
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **प्रकरण ८ वें **
 
@@ -1555,8 +1492,6 @@ Nagpur University.
 
   ४. चिचबिलाई किंवा विलायती चिंच (**स्वादु वनाम्लिका**-*Pithecolobium dulce*) — हें फल **अनुप्रस्थभेदी बदरीय**
 
-
-
 **शिम्बि** (lomentaceous beriaceous legume) होय. यांतील बीजांचे **अग्रचोल** (aril) खाण्यांत येतात.
 
   ५. लवंग — सवृन्त शुष्क पुष्पकलिका दिचा पुष्पकोश चिरलग्न असतो.
@@ -1678,7 +1613,6 @@ Nagpur University.
 
 **विच्छेदन-अण्वीक्ष (dissecting microscope)**  
   झाडाच्या कोणत्याही अंगाच्या रचनेचा स्थूल मानाने अभ्यास करण्याकरिता विच्छेदन अण्वीक्षाचा उपयोग करतात. यांत निरनिराल्या **विशालनाचे** (magnifications) वीक्ष ठेवण्याची सोय असते. मंचावर पदार्थ ठेवून आवश्यक असल्यास त्याचें सुलभतेने विच्छेदन होऊ शकते. सर्वात खाली असलेल्या तबकडीला एका बाजुस आरसा असतो व दुसरी बाजू विच्छेदनसमयीपदार्थ जास्त स्पष्ट दिसावा म्हणून अपारदर्शक व पांढरी असते.  
-
 
 ![](../../../books_images/U-IMG-1703654019Screenshot2023-12-27104351.png)
 
@@ -2167,8 +2101,6 @@ Nagpur University.
 
   **१. रोमिस्तर अथवा मूलाधिस्तर**—हा परिणाहावरचा स्तर असून त्यांतील बऱ्याच कोशांपासून रोम निघाल्याचें लक्षांतयेईल.
 
-
-
 **शिम्बि** (lomentaceous beriaceous legume) होय. यांतील बीजांचे **अग्रचोल** (aril) खाण्यांत येतात.
 
   ५. लवंग — सवृन्त शुष्क पुष्पकलिका दिचा पुष्पकोश चिरलग्न असतो.
@@ -2290,7 +2222,6 @@ Nagpur University.
 
 **विच्छेदन-अण्वीक्ष (dissecting microscope)**  
   झाडाच्या कोणत्याही अंगाच्या रचनेचा स्थूल मानाने अभ्यास करण्याकरिता विच्छेदन अण्वीक्षाचा उपयोग करतात. यांत निरनिराल्या **विशालनाचे** (magnifications) वीक्ष ठेवण्याची सोय असते. मंचावर पदार्थ ठेवून आवश्यक असल्यास त्याचें सुलभतेने विच्छेदन होऊ शकते. सर्वात खाली असलेल्या तबकडीला एका बाजुस आरसा असतो व दुसरी बाजू विच्छेदनसमयीपदार्थ जास्त स्पष्ट दिसावा म्हणून अपारदर्शक व पांढरी असते.  
-
 
 ![](../../../books_images/U-IMG-1703654019Screenshot2023-12-27104351.png)
 
@@ -2778,14 +2709,5 @@ Nagpur University.
   मक्याच्या मुलाचा अनुप्रस्थ छेद घेऊन त्यांतील खालील गुणांचें अण्वीक्षांतून निरीक्षण करा—
 
   **१. रोमिस्तर अथवा मूलाधिस्तर**—हा परिणाहावरचा स्तर असून त्यांतील बऱ्याच कोशांपासून रोम निघाल्याचें लक्षांतयेईल.
-
-
-
-
-
-
-
-
-
 
 \]

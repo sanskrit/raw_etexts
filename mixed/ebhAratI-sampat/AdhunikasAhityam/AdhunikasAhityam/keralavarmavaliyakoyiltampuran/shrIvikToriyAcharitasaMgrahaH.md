@@ -15,18 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwNjg5Nzg2MDY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **A **
 
 **JUBILEE TRIBUTE**
@@ -67,7 +55,6 @@ PRINTED AT THE "NIRNAYA-SÂGARA" PRESS.
 \_\_\_\_\_\_\_\_\_
 
  The author of this humble production does not presume to offer it to the Sanskrit-reading public as a poem which can in any way attract their attention. As he was reading Mr. Barnett's "Life of Her Majesty Queen Victoria," (to which excellent work he is indebted for the facts alluded to in the notes,) it occurred to him that the main features of so noble a life, if embodied in Sanskrit stanzas of simple diction, might exert a beneficial influence on the minds of the girls of this Coast who generally study Sanskrit in their early years. His object, therefore, is not to excite admiration, but simply to serve the above purpose. He has purposely avoided flourishes of rhetoric as well as sentimental exaggerations which characterize Sanskrit literature as a rule. At the same time, it will be seen that he has not discarded a rhetorical embellishment when it naturally occurs.
-
 
 TRIVANDRUM,  
 20th June 1887.                            
@@ -1134,7 +1121,6 @@ TRIVANDRUM,
 
 **इति श्रीव्हिक्टोरियाचक्रवर्तिनीगुणमणिमाला संपूर्णा।**
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 **५८.**वक्रोक्तिपद्धतिदविष्ठमपि किं पुनर्वक्रोक्तिपद्धतिनेदिष्ठमिति भावः॥
 
@@ -1148,7 +1134,6 @@ TRIVANDRUM,
 
 Yet he shall feel content if this small book accomplishes his chief aim in presenting it to the Public—to show his deep loyalty and deference to the great Heroine.
 
-                                   
       A. R. RAJARAJA VARMA,  
                                    
       Student, Senior B. A. Class,  
@@ -1207,7 +1192,6 @@ TRIVANDRUM,
 
 इत्यस्मत्कविवाक्यरीतिमपटुं संमन्यमाना वयं  
 संप्रत्याङ्गलमण्डलैकमहितालंकारतामीयुषः।
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1335,7 +1319,6 @@ TRIVANDRUM,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ** २३.** सुखं परागविरहादिति भावः। समुद्रियाजिः समुद्रभवं युद्धम्\।\। 'समुद्राभ्राद्धः' (४/४/११८)। ऊर्णूयते आच्छाद्यते॥ **२४**. कंकटीको रुद्रः। कर्णजाहं कर्णमूलम्। 'तस्य पाकमूले पील्वादिकर्णादिभ्यः कुणब्जाहचौ॥' आपूर्णयन्नापूर्णानि कुर्वन् \।\। **२५.** विकचितो विकासितः। निद्राभञ्जकोऽपि तुमुलारवो हरेर्ल्लक्ष्मीहटाश्लेषलाभहेतुरिति सुखमृष्यो भवतीति भावः॥ **२६.** लभन्त इति। वनमित्यनुषज्यते। एकत्र वनं जलम्, अन्यत्र काननम्\।\। **२७.**सहजश्रीः सहजराज्यलक्ष्मीः, रमासहोदरी च।विष्वद्रीचीः समन्ताद्वयापिनीः। 'विष्वग्देवयोश्च टेरद्र्यञ्चतावप्रत्यये' (६/३/९२). **२८.** संगीतमित्यादि। राज्ञीपक्षे षड्जया संधिविग्रहादिगुणषट्कोत्थया श्रिया आलिङ्गिता।शश्वद्रक्तनरर्षभश्रितपदा शश्वद्रक्तैर्नरर्षभैः : नृपैः श्रितपदा। गां भुवं धारयन्ती बिभ्रती। सुमध्यमाकुलमणिः स्त्रीरत्न-   
-          
 
 किंचोद्भासि सुमध्यमाकुलमणिः सत्पञ्चमालापिनी  
 श्रीमद्राज्ञि सुधैवतेऽमलवचोगुम्भे निषादिन्यहो॥२८॥
@@ -1465,8 +1448,6 @@ TRIVANDRUM,
 
 **इति राजराजवर्मनिर्मिता पञ्चाशत्पूर्तिपञ्चाशिका संपूर्णा।**
 
-
-
                                    
          ![](../../../books_images/U-IMG-1697562935M3.png)
 
@@ -1509,17 +1490,4 @@ TRIVANDRUM,
 
 **सर्वत्र 'व्हिक्टोरिया' इत्यस्य स्थाने 'विक्तोरिया' इति.**
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-

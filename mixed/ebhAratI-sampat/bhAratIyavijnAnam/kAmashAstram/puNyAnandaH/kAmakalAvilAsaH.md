@@ -16,18 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExNjI2MTM4NjA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
 \*\*  
 \*\* kaamakalaavilaasa of pu.nyaananda with the commentary cidvallii by na.tanaananda  
@@ -1470,10 +1458,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExNjI2MTM4NjA
 
 **॥शुभस्तु॥**
 
-
-
-
-
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*  
 \*\*  
 \*\* kaamakalaavilaasa of pu.nyaananda with the commentary cidvallii by na.tanaananda  
@@ -2915,16 +2899,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExNjI2MTM4NjA
 **॥श्री महात्रिपुरसुन्दर्यर्पणमस्तु॥**
 
 **॥शुभस्तु॥**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

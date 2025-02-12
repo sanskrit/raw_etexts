@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4NDE0ODMzMjE
 
 \[
 
-
-
-
-
 **देवीकालोत्तरागमः**
-
-
 
 सर्वेषामपि मुक्त्यर्थं मुक्तिमार्गस्य दर्शनम् ।  
 देवेश ज्ञानमाचारं कृपया कथयस्व मे ॥ १ ॥  
@@ -194,8 +188,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4NDE0ODMzMjE
 
 **------------------------------**  
 \\Z
-
-
-
 
 \]

@@ -19,18 +19,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NTIyNDI3MTc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 .
@@ -44,14 +32,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NTIyNDI3MTc
 .
 
 [TABLE]
-
-
 
 |                |
 |----------------|
 | **FOREWORD** |
-
-
 
   Convinced of the educational and national value of the use of Indian Languages in Indian Universities, the Academic Council of Nagpur University, on 12th September, 1946, resolved that Hindi and Marathi shall be the media of instruction in the University: for the Intermediate courses in Arts and Science from the academic year 1949-50 and for the courses for the B. A. and B. Sc., from the academic year 1951-52. And from the same dates English shall cease to be the medium of instruction in the University.
 
@@ -87,8 +71,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NTIyNDI3MTc
 
   11. I venture to hope that this series of books will prove useful not only for the State of Madhya Pradesh, but also for other States in their efforts to adopt a regional language or the language of the Indian Union as the media of instruction at the University level. The present effort is necessarily imperfect. We can write good book in Hindi and Marathi only if we can do original thinking in Hindi and Marathi, as we do in English today. Yet we can hope to do our thinking in Indian languages only when we havesome written material to stimulate and sustain our thinking in these languages. It is a vicious circle that has to be broken and the present series of books is an organised attempt to break it. Deeper thought, practical experience, national planning and local variations will, I have no doubt, change the shape of much of what is written in these text-books. If, however, they serve even as a raw material on which these forces can play to mould them according to our varying requirements, the labour of those who have worked during the last four years for making this new academic venture a success will have been amply rewarded.
 
-
-
  The J. N. Tata University  
 Convocation Hall, Nagpur.  
   15th August 1950.
@@ -97,15 +79,11 @@ K. L. Dubey
 Vice-Chancellor,  
 Nagpur University.
 
-
-
 |                                                                                                                                                                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **INTRODUCTION\***[^1] |
 
 [^1]: "In writing the introduction in English I have followed the wishes of Lt. Col. Shri K. L. Dubey, the Vice-Chancellor of the Nagpur University. It is hereby intendedto introduce the book to such teachers as know neither Hindi nor Marathi."
-
-
 
   **औद्भिदी** stands for **औद्भिदी विद्या. औद्भिदी** is a feminine adnoun from **उद्भिद्** a plant. **उद्भिद्** is derived from **उद्** up + **√भिद्**to break, on account of its coming out after breaking the seed and the earth (**बीजं भुवं वा उद्भिनत्ति**). The term was applied to Spermatophytes as well as to Sporophytes (**बीज** including both seeds and spores).
 
@@ -163,8 +141,9 @@ Nomenclature in Biology**
 
 ![](#)![](../books_images/U-IMG-1694860489Screenshot2023-09-16160424.png)
 
-  
-[Indian](http://॑# "Reproduced from our“Elementary English-Indian Dictionary of Scientific Terms” second edition, pp.10,11.") botanists, that is botanists, whose mother-tongue is an Indian language, but who have acquired their knowledge of botany throughEnglish, are of the firm belief that one might translate the descriptive phraseology from English to Indian languages, but the names of classes, genera, species, sub-species etc., are too sacred to be given Indian names. They affirm that the names of plants belong to Latin and that we the Indians have no right to replace Latin by Sanskrit. They argue that Latin names are common to all the European countries and that the rest of the world does or should accept them.
+Indian[^2] botanists, that is botanists, whose mother-tongue is an Indian language, but who have acquired their knowledge of botany throughEnglish, are of the firm belief that one might translate the descriptive phraseology from English to Indian languages, but the names of classes, genera, species, sub-species etc., are too sacred to be given Indian names. They affirm that the names of plants belong to Latin and that we the Indians have no right to replace Latin by Sanskrit. They argue that Latin names are common to all the European countries and that the rest of the world does or should accept them.
+
+[^2]: "Reproduced from our“Elementary English-Indian Dictionary of Scientific Terms” second edition, pp.10,11."
 
   The convention among European botanists of having a Latin or Latinised name for every plant is deeply fixed. If it is so, why should not we take up this nomenclature?Before proceeding further I may stress the point that having our own terms does not mean wiping out Latin terms; just as having our own language does not mean wiping out English or any other language. Latin terms will remain as long as the European nations will remain. They are quite independent of us. I do not see any likelihood of our affecting the existence or the growth of Latin terms. We shall start with the primeval question, why do we translate? We translate for the benefit of those who do not know theforeign language or those who cannot afford to spend five to fifteen years on the mastery of a foreign language. In short, we translate to save time, to save energy; we translate for quick and better understanding. If this aim is a worthy aim then no one should object to the translationof Latin names.
 
@@ -282,13 +261,9 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 |                |
 |:--------------:|
 | **प्रस्तावना** |
-
-
 
   प्रस्तुत पुस्तक का लेखन कार्य आरंभ से ही हिन्दी में हुआ। किन्तु लेखन की सुविधा और शीघ्रता की दृष्टि से पारिभाषिक और अर्धपारिभाषिक शब्द पहले अंग्रेजी में ही लिखे गए और प्रत्येक अंग्रेजी शब्द के पूर्व हिन्दी शब्द लिखने के लिये स्थान छोड़ते गये। इन रिक्त स्थानों की पूर्ति और तदनुसार वाक्यरचना को यत्र तत्र परिवर्तित करने का कार्य श्री एम. वी. मिराशी और श्री एन. सी. वर्मा के हाथ में दिया गया जिन्होंने बड़ी योग्यता और परिश्रम से हिन्दी पारिभाषिक और अर्धपारिभाषिक शब्दों को पांडु-लिपि में यथास्थान भरा और तदनुसार वाक्यरचना को भी सुधारा।
 
@@ -316,8 +291,6 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
 
   पुस्तक के कलेवर तथा सामग्री में जो कुछ बन पड़ा है उसका श्रेय स्व. प्रोफेसर साहनी की पुण्य-स्मृति को है, उसके हिन्दी निर्माण की रूपरेखा का श्री डा. रघुवीरजी को तथा उसमें जो न्यूनतायें हैं उनका उत्तरदायित्व संपूर्णरूप से लेखक पर है। जो सज्जन इस प्रथम संस्करण की त्रुटियां लेखक को बतलायेंगे, उनका वह बड़ा आभारी होगा।
 
-
-
 प्रभु-कुंज, नागपुर।
 
 ![](../books_images/U-IMG-1694866067Screenshot2023-09-16173723.png)
@@ -327,8 +300,6 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
 |               |
 |:-------------:|
 | **विषय सूची** |
-
-
 
 |     |                                                                      |
 |:---:|:--------------------------------------------------------------------:|
@@ -384,11 +355,7 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
 |    |                   पारिभाषिक शब्दावली— आङ्गल-भारतीय                   |
 |     |                             भारतीय-आङ्गल                             |
 
-
-
 **![](../books_images/U-IMG-1694880816Screenshot2023-09-16214313.png)**
-
-
 
 **पहला अध्याय**
 
@@ -448,8 +415,6 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
  ** (१) मटर का बीज—** यह बीज कुछ गोल सा होता है। बीजके ऊपर की पतली तह जो भिगोने से प्रायः अलग हो  
 .
 
-
-
 जाती है बीज-चोल (seed coat) कहलाती है। ध्यानपूर्वक देखने से यह ज्ञात होगा कि इसी बीज-चोल में भीतर एक और छोटा, कुछ लम्बा, खोखला भाग है जिसमें भ्रूण-मूल (radicle) सुरक्षितहै। यह एक प्रकार की जेब है जिसे हम भ्रूण-मूल-
 
 ![](../books_images/U-IMG-1694877881Screenshot2023-09-16205420.png)
@@ -534,8 +499,6 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
 
   एकपत्री बीजों के भ्रूण में केवल एक ही बीजपत्र होता है। ऐसे बीज बहुधा श्वितिमत्‌ (albuminous) होते हैं। प्याज आदि में एकबीजपत्रपहले पत्ती के रूप में अंकुरित होकर निकलता है। इन बीजों में भ्रूण-मूलसे जो जड़ उत्पन्न होती है वह मुख्य मूल है परन्तु फिर समीप से ही अनेक जड़ेबहुत शीघ्र निकल आती हैं।
 
-
-
 जाती है बीज-चोल (seed coat) कहलाती है। ध्यानपूर्वक देखने से यह ज्ञात होगा कि इसी बीज-चोल में भीतर एक और छोटा, कुछ लम्बा, खोखला भाग है जिसमें भ्रूण-मूल (radicle) सुरक्षितहै। यह एक प्रकार की जेब है जिसे हम भ्रूण-मूल-
 
 ![](../books_images/U-IMG-1694877881Screenshot2023-09-16205420.png)
@@ -619,12 +582,8 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
   द्विपत्रीबीजों में प्रायः दो बीजपत्र रहते हैं परन्तु कुछ उदाहरण ऐसे भी हैं जिनमें दो से अधिक अथवा केवल एक ही बीजपत्र होता है। कुछ बीजों में बीजपत्रबहुत छोटे होते हैं जिससे वे बीज बहुत शीघ्र अंकुरित हो जाते हैं, क्योंकि भोजन की मात्रा कम होने से पौधे को शीघ्रातिशीघ्र भूमि में खड़ा होना पड़ता है। ऐसी दशा में भ्रूण-मूलऔर भ्रूणाग्र बहुत शीघ्र बढ़ जाते हैं। इसका उदाहरण सरसों है। ऐसे बीजों की संख्या जिनमें भ्रूणपोष होता है बहुधा कम होती है। नवनीतचष-कुल (Ranunculaceae) आदि कुलों(families) में ऐसे बीज बहुधा पाए जाते हैं।
 
   एकपत्री बीजों के भ्रूण में केवल एक ही बीजपत्र होता है। ऐसे बीज बहुधा श्वितिमत्‌ (albuminous) होते हैं। प्याज आदि में एकबीजपत्रपहले पत्ती के रूप में अंकुरित होकर निकलता है। इन बीजों में भ्रूण-मूलसे जो जड़ उत्पन्न होती है वह मुख्य मूल है परन्तु फिर समीप से ही अनेक जड़ेबहुत शीघ्र निकल आती हैं।
-
-
 
 ![](../books_images/U-IMG-1695377853Screenshot2023-09-22154649.png)
-
-
 
 ![](../books_images/U-IMG-1695377889Screenshot2023-09-22154712.png)
 
@@ -678,8 +637,6 @@ Persian, Arabic and European ‘lemon’ are corruptions of the Sanskrit word **
 प.-पर्णवृन्त; म.-स्तम्भ; व.-वाहीपट्ट;  
 त.- त्वक्षैधा; क- त्वक्षा; अ.-अपच्छदी स्तर
 
-
-
 tissues) की रक्षा करती हैं और उसे खुले रहने से बचाती हैं। इस प्रकार वाहि-ऊति के उस कटे हुए सिरे से किसी प्रकार का रस या गोंदनिकलना बन्द हो जाता है। कुछ कांटेदार वृक्षों में जो कांटे झड़ जाते हैं उनमें भी यही विधि होती है।
 
 **उन्नीसवां अध्याय**
@@ -736,8 +693,6 @@ tissues) की रक्षा करती हैं और उसे खु�
 चित्र २०३.  
 कार्यशील महाबीजाणु (ऊपर के तीन नष्टप्राय महाबीजाणु)
 
-
-
 tissues) की रक्षा करती हैं और उसे खुले रहने से बचाती हैं। इस प्रकार वाहि-ऊति के उस कटे हुए सिरे से किसी प्रकार का रस या गोंदनिकलना बन्द हो जाता है। कुछ कांटेदार वृक्षों में जो कांटे झड़ जाते हैं उनमें भी यही विधि होती है।
 
 **उन्नीसवां अध्याय**
@@ -793,8 +748,6 @@ tissues) की रक्षा करती हैं और उसे खु�
 
 चित्र २०३.  
 कार्यशील महाबीजाणु (ऊपर के तीन नष्टप्राय महाबीजाणु)
-
-
 
 **उपरिभूमिक** epigea।  
 **उपरिमुख** epistomatous  
@@ -1007,8 +960,6 @@ tissues) की रक्षा करती हैं और उसे खु�
 **कुन्तवत्‌** hastate  
 **कुप्यातु** zine  
 **कुमारी-प्रजाति** Aloe
-
-
 
 **कुम्भिका-प्रजाति** Pistia  
 **कुम्भीरूप** napiform  
@@ -2868,14 +2819,4 @@ tissues) की रक्षा करती हैं और उसे खु�
 शिवकुमार वर्मा, एम्. ए.  
 प्रबन्धक, आर्यभारती मुद्रणालय, नागपुर**
 
-
-
-
-
-
-
-
-
-
 \]
-

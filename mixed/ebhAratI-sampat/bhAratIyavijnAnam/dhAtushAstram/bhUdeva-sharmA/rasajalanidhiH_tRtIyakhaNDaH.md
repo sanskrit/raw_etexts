@@ -17,10 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkxMDUwNjQ1MjA
 
 \[
 
-
-
-
-
 तमसो मा ज्योतिर्गमय
 
 SANTINIKETAN
@@ -29,12 +25,9 @@ VISWA BHARATI
 
 LIBRARY  
 
-
 954-1:54  
 R 183 B  
 V.3
-
-
 
 **RASA-JALA-NIDHI**
 
@@ -42,17 +35,9 @@ OR
 
 **OCEAN OF INDIAN CHEMISTRY, MEDICINE & ALCHEMY.**
 
-
-
 VOL. III
 
-
-
 **COMPILED IN SANSKRIT**
-
-
-
-
 
 **BY**
 
@@ -68,12 +53,8 @@ VOL. III
 
 **Principal Bengal College of Ayurveda.**
 
-
-
 **WITH ENGLISH TRANSLATION  
 BY THE AUTHOR.**
-
-
 
 **\[*All rights reserved by the author* \]**
 
@@ -84,8 +65,6 @@ BY THE AUTHOR.**
 **Published by the Author  
 41-A, Grey Street,  
 Calcutta.**
-
-
 
 To be had of—
 
@@ -135,16 +114,11 @@ Aryasthan Ayurvedic Works Ltd.,
 
 121/B, Bowbazar Street, Calcutta 12.
 
-
-
 Printed by K. C. Neogi,
 
 Nababibhakar Press,
 
 91-2, Machuabazar Street, Calcutta.
-
-
-
 
 **PREFACE.**
 
@@ -170,16 +144,12 @@ e astonishingly infallible.
 
  The keenness of interest with which the publication of the present volume has all along been watched by Kaviraj Jatindranath Ghosal Kaviratna, Kaviraj Birindra Mohun Chand Ray B.A., Sj. Debi Charan Ghosal, and some other pupils of mine needs a special mention.
 
-
-
 41-A, GREY STREET,  
   CALCUTTA.                      
 
 BHUDEB MOOKERJI.  
 
 *The 27th December, 1929.*
-
-
 
 **CONTENTS.**
 
@@ -227,8 +197,6 @@ CHAPTER VIII.
 
 [TABLE]
 
-
-
 ERRATA.
 
  Page II, line 2, for "ala" read "Kala".
@@ -239,13 +207,9 @@ ERRATA.
    see page 253".  
 Page 330, line 9, for VII, read VIII.
 
-
-
 **रसजलनिधिः ।**
 
 **(तृतीय खण्डम् )**
-
-              
 
 **मुखोपाध्यायोपाधिकेन**
 
@@ -255,17 +219,11 @@ Page 330, line 9, for VII, read VIII.
 
 **विरचितः ।**
 
-
-
 **कल्यब्दः ५०३०**
-
-
 
 **४१,\।एग्रोस्ट्रीट् इत्याख्यया सूचिते वासस्थले कलिकातानगर्यां**
 
 **ग्रन्थकारेण प्रकाशितोऽयं ग्रन्थः ।**
-
-
 
 **तेनैव सर्वसत्त्वमस्य संरक्षितम्**
 
@@ -273,82 +231,53 @@ Page 330, line 9, for VII, read VIII.
 
 **मूल्यं रौप्यमुद्राषट्कम् ।**
 
-
-
 **सूचीपत्रम् ।**
 
 [TABLE]
 
-
-
 **प्रथमोऽध्यायः ।**
 
- 
-
 [TABLE]
-
-
 
 **द्वितीयोऽध्यायः ।**
 
 [TABLE]
 
-
-
 **तृतीयोऽध्यायः ।**
 
 [TABLE]
-
-
 
 **चतुर्थोऽध्यायः ।**
 
 [TABLE]
 
-
-
 **पञ्चमोऽध्यायः ।**
 
 [TABLE]
-
-
 
 **षष्टोऽध्यायः ।**
 
 [TABLE]
 
-
-
 **सप्तमोऽध्यायः ।**
 
 [TABLE]
-
-
 
 **अष्टमोऽध्यायः ।**
 
 [TABLE]
 
-
-
 **नवमोऽध्यायः ।**
 
 [TABLE]
-
-
 
 **दशमोऽध्यायः ।**
 
 [TABLE]
 
-
-
 **एकादशोऽध्यायः ।**
 
 [TABLE]
-
-
-
 
 **जीवानां त्वं भवलयदात्री**  
 
@@ -358,12 +287,9 @@ Page 330, line 9, for VII, read VIII.
 
 **काम्यं नातस्त्रिभुवनधात्रि ॥**
 
-
-
 **प्रथमोऽध्यायः ।**
 
 **अथ लौहम् ।**  
-
 
 अस्य नामानि ।
 
@@ -391,10 +317,6 @@ Page 330, line 9, for VII, read VIII.
 
 **नराणाम् ॥**
 
-
-
-
-
 **Chapter I.**
 
 LAUHA (IRON).
@@ -406,8 +328,6 @@ Properties of lauha.
  Iron is sweet, astringent, and bitter in taste; cold; laxative; heavy; coarse; preventer of senile- decay; improver of eye-sight; reducer of fat; and increaser of a little of vayu (wind) in the system. It pacifies an excess of kapha (phlegm) and pittam (animal heat); and cures toxin, colic, swelling of the body, piles, spleen, anemaea, obesity, spermatorrhoea and worms.
 
 (2)
-
- 
 
 Iron increases strength and longevity. It cures diseases and is an aphrodisiac. It is one of the best remedies for senility.
 
@@ -425,8 +345,6 @@ Iron increases strength and longevity. It cures diseases and is an aphrodisiac. 
 
 The following are the seven blemishes of iron:— heaviness, hardness, mixture with foreign matters,power of causing hysteria, power of causing inflammation, evil characteristics of stone, and power of causing constipation.
 
-
-
 द्रुष्टलौहसेवनस्य फलम् ।
 
 **षण्डत्वकुष्ठामयमृत्युदं भवेद् हृदरोगशूलौ**
@@ -441,8 +359,6 @@ Evil effects of taking impure iron.
 
  Iron, not properly purified and incinerated, gives rise to the following:— impotency, leprosy, death, heart disease, colic, stone disease, hiccough, and even augmentation of many of the diseases the patient has already been suffering from.
 
-
-
 लौहस्य प्रकाराः ।
 
 ( १ )
@@ -455,9 +371,7 @@ Evil effects of taking impure iron.
 
 **तस्मात् सहस्रगुणितमयः कान्तं महागुणाम्॥**\*[^1]
 
-
 [^1]: "पाठोऽयं रसेन्द्रचिन्तामणेस्तथा रामराजीयादुद्धृतः ॥"
-
 
 *Varieties of iron.*
 
@@ -556,8 +470,6 @@ Khara iron is that which is coarse, inflexible, and devoid of pogara**²**or car
 **(**2) *Sara iron ( Steel ? )*  
 (a)
 
-
-
   This is a kind of tikshna iron which breaks into pieces, when hammered, and has pogara or carved lines on its surface. It is obtained from ores of yellowish colour[^2].
 
 [^2]: "According to another version, it is obtained from a province called "
@@ -574,8 +486,6 @@ Khara iron is that which is coarse, inflexible, and devoid of pogara**²**or car
 lines on the surface of some kind of steel). The best pogara is smooth, glazy, and capable of being obliterated by means of friction with a piece of metal.
 
 ***3.** पाण्डुभूमिजं स्थले पाठान्तरम् पाण्ड्यभूमिजम् ।*
-
-
 
 (ख)
 
@@ -595,8 +505,6 @@ lines on the surface of some kind of steel). The best pogara is smooth, glazy, a
 
 ( 8 ) *Hrinnala iron*
 
- 
-
 Hrinnala has a yellowish black colour. It has, on its surfaces, pogara of the shape of birds beaks. It presents very coarse sectional surfaces at the places where it is cut into pieces.
 
 (४) तारापट्ट लौहम् ।
@@ -612,8 +520,6 @@ Hrinnala has a yellowish black colour. It has, on its surfaces, pogara of the sh
 **वर्षाम्बुरौद्रवायुभि र्नक्षीणं जायते हि तत् ॥**
 
 \(4\) *Tarapatta iron.*
-
-  
 
 Tarapatta iron is obtained from iron ores by a class of smiths who are specialists in the science of ores. This iron is black, smooth, glazy, and has very fine pogara (carved lines) on its surface. This is prepared in the shape of a spoon (minus the handle). It is a kind of iron which never rusts, even if it is exposed to the sun, rains, and wind.\*[^4]
 
@@ -638,8 +544,6 @@ Bajra iron is that which has got on its surface plenty of fine and deep-seated l
 **लौहघातेऽप्यभङ्गात्मधारं कालायसं मतम् ॥**
 
 \(6\) *ala or Black iron.*
-
- 
 
 Kala iron is heavy and of a deep blue-black colour. Its surface is glossy, heavy, and bright. It can not be broken into pieces by being hammered upon by means of another piece of iron.
 
@@ -681,7 +585,9 @@ Sara iron cures the following diseases, if taken in the prescribed way :—diarr
 
 ( १ )
 
-**पात्रे यस्मिन् प्रसरति जले तैलबिन्दु[र्नलिप्तं](http://॑# "न लिप्तमित्यस्य स्थले प्रतप्ते इत्येतत् पाठान्तरं दृश्यते ।")**  
+**पात्रे यस्मिन् प्रसरति जले तैलबिन्दुर्नलिप्तं[^80]**  
+
+[^80]: "न लिप्तमित्यस्य स्थले प्रतप्ते इत्येतत् पाठान्तरं दृश्यते ।"
 
 **गन्धं हिंगु त्यजति च तथा तिक्ततां निम्बकल्कः[^5]**
 
@@ -745,7 +651,6 @@ Kanta iron is that which is found to be mixed with silver.
 
 **चुम्बयेच्चुम्बकं कान्तं कर्षयेत् कर्षकं तथा ॥**  
 
-
 **साक्षाद् यद् द्रावयेल् लौहं तत् कान्तं द्रावकं भवेत् ।**  
 
 **तद् रोमकान्तं स्फुटिताद् यतो रोमोद्गमो भवेत् ॥**  
@@ -757,8 +662,6 @@ Kanta iron is that which is found to be mixed with silver.
 **चतुस्पञ्चमुखं श्रेष्ठमुत्तमं सर्व्वतोमुख ॥**
 
 Varieties of kanta iron.
-
- 
 
 Kanta iron is of five different kinds, viz. bhramaka, chumbaka, karshaka, dravaka, and romakanta. They may have one, two, three, four, five or more than five mouths or points. They may be of three different colours, viz. yellow, black, and red. Of these the yellow variety (populary called the philosopher's, stone) can transform base metals by mere touch.**\***[^6].") The black variety is commendable in medicines and the red variety in medicines as well as in the act of solidification of mercury.  
  Bhramaka iron is that which makes a piece of ordinary iron revolve round it. Chumbaka kanta (load stone) is that which can cling to pieces of ordinary iron. Karshaka kanta is that which can attract to it pieces of ordinary iron, Dravaka kanta is that at the touch of which ordinary iron melts (without any heat being applied). Roma-kanta is that which causes the growth of fresh hair at that part of the skin which is lightly pierced through by it.  
@@ -797,8 +700,6 @@ Kanta iron of the name of Bhramaka and Chumbaka are commendable for use in medic
 **तिक्तोष्णं हिमवीर्य्यकं किमपरं योगेन सर्व्वार्त्तिनुत् ॥**
 
 Properties of kanta.
-
- 
 
 Kanta iron is bitter in taste, warm in touch, but produces a cooling effect in the system. It is a go od rasayanam (*i.e*. a medicine which, if used in the prescribed manner, can prevent and cure diseases and senility). It imparts long life to a healthy man (who takes it regularly). It is soothing. If taken with suitable anupanam, it can cure all the diseases, especially, spermatorrhoea, colic, dysentery, excess of the three doshas, piles, fistula, gulma, enlargement of the spleen and liver, phthisis, jaundice, and udara-roga.
 
@@ -1043,8 +944,6 @@ Iron is incinerated by being rubbed with one fourth its quantity of incinerated 
 
 **Sixth process.**
 
-
-
 Iron is incinerated, if it is heated red hot and then immersed for several times in a solution made of lemon juice, salt, and cinnabar.
 
 **सप्तमोविधिः ।**
@@ -1089,11 +988,7 @@ Iron is incinerated, if it is heated red hot and then immersed for several times
 
 **Seventh process.**
 
- 
-
 Purified and powdered iron is to be subjected to bhavanas with cow's urine in day time and heated by putam at night. This process is to be performedfor twenty times. The iron is then to be treated similarly for sixty times with the decoction of triphala, and with the juice of kanya for eight times. This is then to be subjected to bhavana for seven times in day time and as many times at corresponding nights, with the juice of each of the following plants, and subjected to heat by putam after each act of bhavana :—Bajra, arka, halini, ingudi, haridra, daruharidra, gunja, ashwagandha, nagaramustha, nirgundi, patala-garuri, bana-tulashi, dhattura, chitraka, matsyakshi, red hansapadi, jatamamsi, amrita-lata (a kind of guduchi growing in the amarkantaka forest), bhringaraja, and indra-baruni.
-
- 
 
 The iron is thus to be rubbed steadily for one day with raji and butter-milk and heated by putam. This process is to be performed for seven times. The iron is then to be rubbed with each of the five things known by the name of panchamritam (viz. curd, milk, ghee, honey, and sugar), and subjected to putam each time. The iron is then to be rubbed with human milk for sometime, and with cow's milk for three days at a stretch, and then heated by putam. The product is then to be mixed with half its quantity of purified mercury and the same quantity of purified sulphur, and then rubbed with the juice of kanya to be heated by putam. Next the iron is to be rubbed with the juice of kanya only, for three times, and heated by putam every time. The ashes, thus prepared, may then be rubbed with the juice or decoction of bala only, and used according to requirements.
 
@@ -1130,8 +1025,6 @@ The iron is thus to be rubbed steadily for one day with raji and butter-milk and
 **पुटैस्त्रिंशत्संख्यकैश्च निरुत्थं भस्म जायते ॥**
 
 **Ningth process.**
-
-
 
 Iron sheet, smeared first of all with a paste made of matsyakhi, and then with another paste made of the juice of lakucha fruit, matsyakhi plant, and saffron, is to be heated strongly by means of two bellows till the rise of flames. This is then to be immersed in a decoction of triphala mixed with cow's urine. The iron is then to be hammered into fine powders. The part which has not been incinerated are again to be heated and incinerated in the afore-said way. The ashes, thus obtained, are to be subjected to putam for thirty times after having been rubbed each time with sulphur, molases, and decoction of triphala. The ashes, thus prepared, are incapable of being restored to their original state *i. e.*, the state of iron before incineration.
 
@@ -1293,8 +1186,6 @@ Purified and powdered iron is to be mixed with the juice of danti leaves, and ex
 
 **Nineteenth process.**
 
-
-
 Purified and powdered iron is to be rubbed in the intense heat of the sun for one day with each of the following :—juice of kuranta leaves, *(b)* juice of trikantaka, *(c)* juice of bandhya, *(d)* juice of bhringaraja *(e)* juice of punarnava, and *(f)* cow's urine. The iron is next to be subjected to bhavanas for twenty one days with the decoction prepared from triphala boiled with cow's urine. The iron is then to be subjected to Gajaputam for twenty one times at night, after having been rubbed each time during the day with the same liquid (*viz.* decoction of triphala and cow's urine). This is how iron is incinerated.
 
 **विंशतितमो विधिः ।**
@@ -1409,8 +1300,6 @@ Purified and powdered iron is to be heated withthe decoction of triphala, kept i
 
 **Twenty fifth process.**
 
- 
-
 Purified and powdered iron is to be rubbed with cow's urine and subjected to putam. Performance of this process for hundred times results in the incineration of iron.
 
 रसव्यतिरेकेन मारितलौहस्य पुटविधिः ।
@@ -1475,8 +1364,6 @@ Increase in the number of putam is calculated to increase the efficacy of a meta
 
 (a) Bhanu-paka Process.
 
- 
-
 Purified iron is to be reduced to powder by being kept in an iron mortar and hammered repeatedly. The powder is then to be mixed with a sufficient quantity of water or decoction of triphala, and thus washed off. It is then to be dried by being exposed to the sun, subjected to the process of heating called *bhanu-paka.* For the purpose of bhanu- paka, triphala, equal in quantity to the iron, is to be boiled with double its quantity of water which is to be reduced to one fourth its quantity. The iron is now to be saturated with the decoction referred to above, and dried by the sun. The process is to be performed continuously for three days or it may be performed for seven times.
 
 अथ स्थालीपाकविधिः ।
@@ -1508,8 +1395,6 @@ Purified iron is to be reduced to powder by being kept in an iron mortar and ham
 **यथादोषौषधेनापि स्थालीपाको विधीयते ॥**
 
 *(b) Sthali paka.*
-
- 
 
 Roasting of iron by sthali-paka is to be resorted to after bhanu-paka. For the purpose of sthali-paka, triphala, three times in weight of the iron, is to be boiled with water, sixteen times in weight of the former, to be reduced to one eighth of the water.
 
@@ -1550,8 +1435,6 @@ Roasting of iron by sthali-paka is to be resorted to after bhanu-paka. For the p
 **अभावे स्वरसस्यापि क्वाथ एव फलत्रिकात् ॥**
 
 \(c\) Puta-paka.
-
- 
 
 The iron, properly roasted by sthali-paka process, should be washed with clear water, then dried, powdered, and again roasted by puta-paka. Roasting by putam serves to remove the natural blemishes and to increase the properties of iron and other metals. Such a roasting causes the incineration of iron which gains in efficacy in proportion to the number of putam resorted to. Metals, properly incinerated by means of putam, should be used in mercurial operations. If it is meant to cure diseases only, iron, incinerated by 10 to 100 putams, may be made use of. Putams from 100 to 1000 are to be resorted to, if it is meant to prevent and cure senile decay. Putams from 10 to 500 are necessary, if it is meant to use the metal as an aphrodisiac. Putams, in case of a metal, are to be resorted to so long as it does not float upon calm water. For the purpose of puta-paka, the juice or decoction, whichever isavailable, of the herbs named below should be made use of :—
 
@@ -1657,8 +1540,6 @@ The iron, properly roasted by sthali-paka process, should be washed with clear w
 
 Triphaladi gana.
 
- 
-
 They are as follows :—triphala, trivit, danti, katuki, tala-muli, briddha-dara, brischira, basaka, chitraka, ardraka, biranga, bhringa-raja, bhallataka, shunthi, darima leaves, shatamuli, punarnava, kuthar-chhinna, mustaka, suranam, guduchi, veka-parni, hasti-karna-palasha, asthi-sanhara, kesha-raja, mana, khandita-karna (kharakona), and go-jihva. These are incinerators of iron. They are generally used in the process of heating of iron by putam.
 
 Erandadi-gana.
@@ -1667,13 +1548,9 @@ Erandadi-gana.
 
 Kiratadi-gana.
 
- 
-
 They are as follows:—kirata, guduchi, nimba bark, green dhanya, shatavari, patala, chandana, padma, shalmali, udumbara, and jata-manshi. They serve to pacify all the diseases due to an abnormal excess of pittam. They should therefore be specially used in the process of incineration of iron by heating by putam, if it is meant to use such iron in diseases due to excess of pittam.
 
 Shringaberadi gana.
-
- 
 
 They are as follows:—ardraka, nirgundi, indra-java, karanja, visha-karanja, murba, shobhanjana, shirisha, baruna, arka leaves, patala, and kantakari. They serve to cure diseases due to an excess of kapha. They should therefore be used in the process of incineration of iron by heating by putam, if it is meant to use such iron in diseases due to an excess of kapha.
 
@@ -1687,19 +1564,13 @@ Pataladi gana.
 
 Kinshukadi-gana.
 
- 
-
 They are as follows:—palasha, gambhari bark, shunthi, agnimantha, trikantaka, shyona, sapta-parni, shala-parni, prishni-parni, shalmali, patala, kantakari, brihati, and bilva. They serve to pacify diseases due to an abnormal excess of the three doshas (i.e. vayu, pittam, and kapha). Iron meant to cure such diseases should be rubbed with the juice or decoction of these drugs and then heated by putam.
 
 Shatabarjadi gana.
 
- 
-
 They are as follows:—shatabari, bala, amalaki, guduchi, briddha-daraka, banari, bhringa-raja, kesha-raja, bidari, gokshura, kokilaksha, ashva-gandha, and pippali. They are aphrodisiac. Iron meant to be of this description should be incinerated with these drugs.
 
 Bidarjadi gana.
-
- 
 
 They are as follows:—bidari-kanda, tagara, bhringa-raja, shatabari, kshirika, kanchuka, bhallataka, guduchi, chitraka, hasti-karna-palasha, mushali, jasti-madhu (or mahua plant), mundiri, and kesharaja. These are curer and preventer of senile decay. Iron meant to be of this description should be rubbed with the juice or decoction of these drugs, before it is heated by putam.
 
@@ -1752,8 +1623,6 @@ They are as follows:—bidari-kanda, tagara, bhringa-raja, shatabari, kshirika, 
 **वाजिगन्धाजटातोयै राजयक्ष्मनिवृत्तये ॥**
 
 Putam with special drugs for the treatment of special diseases.
-
- 
 
 Iron is to be subjected to heat by putam after having been rubbed with the following drugs, if it is meant to cure constipation :—triphala, sigru, hasti- karna-palasha, bhringa-raja, and again triphala. Similarly, iron is to be rubbed with decoction of pippali for the purpose of curing indigestion. Juice of bidari is to be used for the treatment of impoteney. Lime juice is to be made use of, for the treatment of loss of appetite. Decoction of shirisha is to be thus used for the removal of loss of complexion. Juice of bala is to be used for the treatment of rheumatism, paralysis, and other diseases due to excess of vayu. Juice of parpata is to be used for diseases due to pittam. Decoction of dashamula for disesases due to an abnormal excess of the three doshas. Juice of kirata-tikta is to be used in bisama- jvaram (malaria, kalazar, etc.). Decoction of guduchi in spermatorrhoea. Juice of kutaja in diarrhoea. Juice of bhargi in asthma. Juice of bashaka in cough.Juice of kakodumbura in racta-pitta. Urine of she-buffalo is to be used in anemia. Decoction of biranga and rice in worms. Decoction of biranga and bhallataka in leporsy.Decoction of rohitaka in spleen. Juice of sindu-bara in gleet and stricture. Kanji in colic. Juice of dadrumari in itches and ringworm. Juice of mushali in piles. Juice of arjuna in heart disease. Juice of ucchata roots in rheumatism. Decoction of somaraji and khadira wood in leprosy. Juice of shilodbheda in stone disease. Juice of tribrit in udabarata or intestinal obstruction. Juice of sour pomegranate in gulma. Juice of brahmi in hoarseness of voice. Juice of ashva-gandha and jata-mangsi in phthisis.
 
@@ -1863,11 +1732,7 @@ Shiva is to be worshipped on a piece of land, duly cleansed, on a day consisdere
 
 How to heat a thing by putam.
 
-   
-
 The material which is meant to be heated by putam is to be dried up by sun's rays, and put upon an earthen basin, covered by another basin of the same kind, the joint being closed by means of mud and rags. The basins, thus joined, are called putam, samputam or sharaba-samputam. Heating of materials, confined in this appartus, is called puta-paka.**\***[^14]
-
- 
 
 [^14]: "See page 293 and 296, Vol. I."
 
@@ -1931,15 +1796,13 @@ Fill up one half of a cubical pit, one cubit in dimensions, with cowdung cakes o
 
 **अयसा साम्यं संख्याभूयोऽल्पत्वेन भूयोऽल्पे ॥**  
 
-**एवं धात्वनुसारात् तत्तत् कथितौषधस्य [बाधेन](http://॑॑# "बाधेन वर्जनेनेत्तर्थः ।") ।**  
+**एवं धात्वनुसारात् तत्तत् कथितौषधस्य [बाधेन](॑# "बाधेन वर्जनेनेत्तर्थः ।") ।**  
 
 **सर्व्वत्रैव विधेयस्तदकथितस्यौषधस्योहः ॥**
 
 **Twenty Eighth process.**
 
 ** **For the purpose of incineration, the minimum and maximum quantities of iron should be 5 and 13 palas, respectively. In other words, iron less than 5 palas and more than 13 palas in quantity is unfit for incineration. For the purpose of such incineration, triphala, three times in weight of the iron, plus 6 palas is to be made use of. One third of this triphala is to be used for the purpose of rubbing, heating by putam and by sthalipaka process. For the purpose of the final act of roasting, the remaining two thirds of triphala is to be used. For the purpose of rubbing and heating by putam of iron, the quantity of water to be used for the preparation of decoction of triphala should be sixteen or thirty two times that of the triphala. If the quantity of iron varies from seven palas to 13 palas, the quantity of water to be used in preparing decoction should be as stated above, plus an additional quantity of 3 to 11 sarabas on the whole. The quantity of water thus used is to be reduced, by boiling, to one eighth of its original quantity. The decoction, thus prepared, should be used in rubbing and heating by putam and then boiling the iron by the sthali-paka process.  
-
- 
 
 Next is the process of final roasting. For this purpose, the parts of triphala, as referred to above, should be boiled with water, eight times in weight, plus an additional quantity of two sarabas added to the whole. The water thus boiled with triphala should be reduced to one fourth its original weight. The decoction so prepared is the most important factor in the process of final roasting of the iron. If kanta iron or load stone is to be reduced to ashes, milk, one and one fourth prasthas in weight, should be added to the decoction at the time of the final roasting. Kanta iron or load stone may be incinerated, even if it is less than five palas in weight.
 
@@ -2079,7 +1942,9 @@ Removal of defects of iron incinerated without mercury.
 
 कन्दमानकभल्लातवह्नीनां शूरणस्य च ।  
 
-हस्तिकर्णपलाशस्य [कुलिशस्य तथैव च](http://॑# "कुलिशः खण्डकर्णः काणछिँड़ा इति भाषा ।") ॥  
+हस्तिकर्णपलाशस्य कुलिशस्य तथैव च[^81] ॥  
+
+[^81]: "कुलिशः खण्डकर्णः काणछिँड़ा इति भाषा ।"
 
 पुटेपुटेचूर्णयित्वा लौहात् षोड़शिकं पलम् ।
 
@@ -2131,8 +1996,6 @@ Removal of defects of iron incinerated without mercury.
 
 ** **The sage, Shukra, who was a very great chemist, gave the following recipe to his disciple, Adima, for curing piles, etc., without the use of surgical instruments, etc:— A leaf of iron of a superior quality is to be freed, first of all, from rust by manas shila or makshika. It is then to be smeared with a paste made of the roots of shalincha rubbed with the juice of the same, and burnt by means of a fire, made of charcoal prepared from the shal wood, and blown by bellows. The intensity of the heat is to be tested by means of decoction of triphala. When sufficiently burnt, the iron is to be removed from the fire and immersed at once into the pure decoction of triphala. If it has not been completely incinerated, the iron is again to be burnt in the same way and immersed in the decoction of triphala. It is then to be cleansed properly, and powdered in an iron mortar, by means of an iron rod, and then again finely powdered in a boat-shaped iron mortar by being rubbed by an iron pestle. The iron is then to be mixed with the juices of the under mentioned drugs in such a way as to resemble mire, and then heated over fire made of cowdung cakes in an iron cauldron or in an earthen pot sufficiently strong. The iron is next to be subjected to putam after having been rubbed with the juice of each of the following, separately, and in accordance with the order in which they have been given:—triphala, ardraka, bhringaraja, kesharaja, bidari-kanda, mana, bhallataka, chitraka, shurana, hasti-karna-palasha, and kulisha (khanda karna).  
 
-
-
 The iron is to be powdered each time after it is heated in the afore-said way. Sixteen palas of this iron[^15] is to be roasted in an iron cauldron with a decoction prepared from triphala, seventeen palas in weight, boiled with 136 palas of water which is to be reduced to seventeen palas. In course of the roasting, eight palas of clarified butter is to be put into the iron which is to be turned all along with an iron ladle. The preparation is to be considered complete, as soon as the clarifled butter is found to float on the surface in a clear state. It may however be still roasted according as it is intended to make it soft, harder, and very stiff (see process No. 5 page 77.)
 
 [^15]: "Iron is generally not to be prepared in quantities greater than 13 palas. The present case is an exception."
@@ -2175,8 +2038,6 @@ The minimum dose of the iron, thus prepared, is one racti (i.e., it may be incre
 
 (Sudha Sagara Lauham.)
 
- 
-
 Iron is to be rubbed during certain part of the day with the juice of the leaves of any tree, herb, or grass. It is then to be dried by the sun and then heated by putam at night. This process is to be performed for 4380 days, juice of leaves of a new tree, herb, or grass being used each of these days. In other words, the iron is to be heated by putam for 4380 times, after having been rubbed each time with the juice of the leaves of a tree, herb, or grass, which is to be used in this way for one day only, so that 4380 different kinds of vegetable juices are required to complete the process. The tree, herb, or grass which has once been used must not be used for the second time. The iron, thus incinerated, has the property of re-juvenating an old man. It causes the growth of new teeth in place of fallen ones, even in old age; turns grey hair black; and makes the skin of an old man as tight as in youth. Ripe fruit turns green, if a grain of this iron is kept for a few hours inside the former. One dose of this medicine is to be taken once in every 20 years.
 
 लौहभस्मनः परीक्षा ।
@@ -2210,8 +2071,6 @@ Test of incinerated iron.
 *How to deprive the ashes of iron of the power of  
 being restored to their original condition.*  
 **( 1 )**
-
- 
 
 Ashes of iron, which can be restored to their original state, should be brought to a state in which it is impossible for them to be so restored, and this may be done, if the ashes are roasted with the pancham ritam, *viz.* honey, clarified butter, gunja, tankanam, and guggulu.
 
@@ -2370,8 +2229,6 @@ Ashes of iron become especially fit for being used in medicines meant for preven
 
 A mild preparation in this case means that in which the iron sticking to the ladle can be separated easily; a medium preparation is that in which the iron paste sticking to the ladle can be separated with difficulty; a dry preparation in this case is that, in which the iron paste is so dried as not to attach itself to the ladle altogether or to do it only to a slight extent. The mild and the medium are partially powdered, whereas the dry preparation of iron is in a state of sands. On the completion of the preparation of the iron the cauldron is to be got down quickly from the oven, and after a few minutes, powdered triphala, etc. may be mixed with the product. Some camphor may also be mixed with it, when the product is sufficiently cooled. The iron, thus prepared, is to be very finely powdered, and kept with a sufficient quantity of clarified butter in an iron pot or in an earthen vessel previously used for keeping milk. In case, the clarified butter is found to be much in excess of the quantity required to keep the iron soft, a quantity of the former may be taken out and kept in a separate pot. This ghee is very useful. It may be used to soften the iron preparation in case it loses its softness. A patient having an abnormal excess of kapha should take iron mixed with this ghee, which, even if taken alone, produces a part of the effects which are produced by iron prepared in the afore- said way.  
 
- 
-
 The incinerated iron may also be roasted in the afore-said manner, after having been mixed with decoction of triphala, clarified butter, milk, and one fourth or half or an equal or double or triple or four fold or five fold its quantity of powdered black mica, duly incinerated (see vol. II). The powder, thus prepared, is soothing to the system, destroyer of all abnormal excess of pittam, and is a giver of strength and beauty. If taken in doses gradually increased to a large quantity every day, it does away with thirst and hunger altogether without impairing the strength and longevity of the latter. After making due obeisance to God, the medicine should be begun to be taken on an auspicious day, in doses of ten ractis a day (a dose which is modifiable having regard to the age and strength of the patient), which should be rubbed with honey and ghee in an iron mortar by an iron rod. The following mantra is to be uttered at the time of taking the medicine:— "Om amritendra bhakshayami nama swaha." After taking the medicine, a little of water or milk is to be taken. A little after that, juice or decoction of nagaramusta, mixed with pure rala or exudation of a sarja tree, should be taken.
 
 **लौहादीनां सेवनमात्रा ।**
@@ -2423,8 +2280,6 @@ Doses.
 *Anupanas or accompaniments of iron.*
 
 ( 1 )
-
- 
 
 Incinerated iron is to be taken with hingu (purified by being fried with ghee) and honey in colic; with powdered pippali in chronic fever (such as malaria, kalazar, etc.); with ghee and garlic juice in rheumatism, paralysis, and other diseases due to an excess of vayu with honey and trikatu in asthma; with the juice of brischikali mixed with powdered maricha in coldness; with triphala and sugar-candy in spermatorrhoea; with honey and ginger juice in diseases due to an excess of the three doshas; with clarified butter in fever due to an excess of vayu; with honey only in fever due to an excess of pittam; with the juice of ardraka in diseases due to an excess of kapha and pittam; with the juice of nirgundi in shivering due to an excess of vayu; with powdered shunthi in diseases due to an excess of vayu; with sugar in pittam, with pippali in kapha; and with trijatakam in diseases affecting bone joints.
 
@@ -2484,7 +2339,6 @@ Incinerated iron is to be taken with hingu (purified by being fried with ghee) a
 
 **श्येनकञ्च बृहल्लावो वनविस्किरकादयः ।**  
 
-
 **हितकरमृगादीनां मांसं जांगलकं शुभम् ॥**  
 
 **मद्गुरो रोहितः श्रेष्ठः शकुलश्च विशेषतः ।**  
@@ -2504,8 +2358,6 @@ Incinerated iron is to be taken with hingu (purified by being fried with ghee) a
 **जातीकोषं लवंगं च पूगं ताम्बूलपत्रकम् ॥**
 
 Dietary.
-
- 
 
 The following dietary is salutary for the person who takes iron :—  
 laba (a migratory bird—a sort of a quail), tittiri (the francoline partridge), godha (iguana), peacock, hare, bataka (a bird, popularly called, batkal), kalabinka or chataka (sparrow), barti (a bird popularly called, 'bater'), haritala (green partridge), hawk, big laba, all sorts of deer; fresh and whole-some fish, such as, madgura, rohita, and shakula ; vegetables like papita, patola, dindisi, eatable sprout arising inside a palm fruit, shatavari, soft blossoms of a betra plant, the soft portion inside the uppermost part of a palm tree, tanduliyaka, bastu, leaves of dhanya plant, karnalu, punarnava, cocoanut, date fruit, pomegranates, lavali fruit, shringataka, ripe and sweet mango, grapes, jatiphala, lavanga, betel-nut, and betel leaves.
@@ -2536,8 +2388,6 @@ Prohibitions.
 
  The following are to be avoided dy one who takes iron :— lakucha, kola, karkandhu, badara, lemon fruit, vijapura, karamarda, tintiri, meat of animals other than those enumerated in page 84, karkata bird, pundraka, goose, swan, water crow, madgu, crow, crane, masha gram, tubers of all kinds (such as potato, radish, onion, etc.), karira ( shoot of a bamboo, and a thorny plant of that name), chanaka gram, kadamba fruit, kushmanda, karkoti, kebuka, banana fruit, pot herbs, kasheru, karkati, and all sorts of pulses.
 
-
-
 ( २ )
 
 कुष्माण्डं तिलतैलं च रसोनं राजिकां तथा ।  
@@ -2563,8 +2413,6 @@ Prohibitions.
 मारकं रसलोहानां सर्व्वथा हि परित्यजेत् ॥
 
 ( 2 )
-
- 
 
 One who takes iron should avoid the following:—kushmanda, tila oil, rasona, raji, wine, sour things, bad fish, jeera, vartaku, masha gram, karbella, physical exercise, all sorts of fermented things, asava, sitting for a long time, physical exertion, excess of talking, excess of bathing, drinking, eating, and exposure to coldness and wind, eating at unusual times, eating articles of food stuff which, if taken with the same meal produce injurious effects (such as milk with fish, meat, or sours); sleeping in day time ; keeping late hours at night; all things having the property of increasing vayu and pittam; things which are pungent, sour, bitter, and astringent; sexual indulgence ; anger; physical exertion; and all things calculated to kill mercury and the metals.
 
@@ -2603,8 +2451,6 @@ Powders of haritaki, saindhava, shunthi, white jeera—each equal in quantity; a
 
 Evil effects of taking iron not properly incinerated.
 
- 
-
 Iron roasted with too little in quantity of the liquids prescribed, or by a fewer than the prescribed number of putams, or by being rubbed with sulphur or mercury of inferior quality (i.e. not properly purified), is injurious, and serves to shorten the longevity of the man who takes it.
 
 अशुद्धलौहसेवनजनितविकारानां शान्तिः ।
@@ -2619,8 +2465,6 @@ Iron roasted with too little in quantity of the liquids prescribed, or by a fewe
 incinerated.*
 
 ( 1 )
-
- 
 
 Evil effects of impure iron are removed, if one takes biranga, previously rubbed with the juice of vasaka, and exposed for a long time to the heat of the sun, mixed with a sufficient quantity of the juice of vasaka.
 
@@ -2650,8 +2494,6 @@ Evil effects of impure iron are removed, if one takes biranga, previously rubbed
 
 **तेन प्रवापमात्रेण लौहं तिष्ठति सूतवत्॥**
 
-
-
 Liquefaction of iron.
 
 ( 1 )
@@ -2665,8 +2507,6 @@ Liquefaction of iron.
 **त्रिसप्तवारं तत्क्षारं वापेत् कान्ते द्रुतिर्भवेत्**
 
 \(2\)
-
- 
 
 A kshara or alkali is to be prepared by dissolving the ashes of devadali with human urine, filtering it for 21 times and then drying it up by heat. A little of this alkali, if thrown upon melted kanta iron, keeps the latter in a liquefied state even after the heat is removed.
 
@@ -2758,8 +2598,6 @@ Incineration of mandura.
 
 **First process.**
 
- 
-
 Manduram is to be heated by means of char-coal prepared from bibhitaki wood, and then immersed in cow's urine contained in a pot made of the same wood. It is then to be powdered very fine and roasted with double its quantity of decoction of triphala (by being boiled in a cauldron over fire).
 
 द्वितीयोविधिः ।
@@ -2804,19 +2642,13 @@ Use of mandura.
 
 **मुनिरसपिष्टं विड़ंगं मुनिरसलीढ़ंचिरस्थितं धर्म्मे।**  
 
-
 **द्रावयति लौहकिट्टंवह्निर्नवनीतपिण्डमिव ॥**
 
 Liquefaction of mandura.
 
  Rust of iron is liquefied and assumes the shape of butter, if it is immersed in a liquid paste, made of biranga pestled with the juice of agastya and dissolved in the same liquid, and exposed for a long time to the heat of the sun.
 
-
-
 ![](../../../books_images/1689913191.png)
-
-
-
 
 **द्वितीयोऽध्यायः ।**
 
@@ -2843,8 +2675,6 @@ Literally, it means a thing which helps the earning of fame. It is really a thin
 
 Its properties.
 
- 
-
 Jasoda is astringent, bitter, cool, pacifier of kapha and pittma, beneficial to eye-sight, and destroyer of spermatorrhoea, gonorrhoea, jaundice, and asthma.
 
 यशोदस्य शोधनम् ।
@@ -2858,8 +2688,6 @@ Jasoda is astringent, bitter, cool, pacifier of kapha and pittma, beneficial to 
 Purification of Jasoda.
 
 **First process.**
-
-
 
 Jasoda is purified, if it is immersed into milk for twenty one times, after it is melted each time.
 
@@ -2876,10 +2704,6 @@ See Process No. 3, page 243. Vol. II.
 प्रथमोविधिः ।
 
 **द्वितीयखण्डे २४७ पृष्ठे स्वर्णमारणप्रकरणे चतुर्थोविधि द्रष्टव्यः ।**
-
-
-
-
 
 Incineration of Jasoda.
 
@@ -2927,8 +2751,6 @@ Zinc is to be kept in an iron pot over fire, and heated highly, even after it is
 
 **Third process.**
 
- 
-
 Fine leaves of zinc are incinerated, if they are subjected to heat by Gajaputam for once only, after having been smeared with a paste made of kajvali (mercury and sulphur, combined in equal parts), one fourth in quantity of the zinc, rubbed separately with the juices of kanya and nimbu (lemon).
 
 यशोदमारणस्य विध्यन्तराणि ।
@@ -2945,7 +2767,9 @@ Zinc may also be purified and incinerated in the same manner as vanga (tin) and 
 
 यशोदस्यानुपानानि ।
 
-**खर्जुरतंडुलीहिमै रक्तातिसारनाशकम्[\*](http://॑# "अग्रे वङ्गनागप्रकरणद्रष्टव्यम् ।")**  
+**खर्जुरतंडुलीहिमै रक्तातिसारनाशकम्\*[^82]**  
+
+[^82]: "अग्रे वङ्गनागप्रकरणद्रष्टव्यम् ।"
 
 **विनाशयेज् ज्वरं चैव यशोदं मायुजं खलु ॥**  
 
@@ -2960,8 +2784,6 @@ Zinc may also be purified and incinerated in the same manner as vanga (tin) and 
 **अग्निमन्थेनाग्निकरं त्रिसुगन्धै स्त्रिदोषहृत् ॥**
 
 Accompaniments of Jasoda.
-
-   
 
 Jasoda cures dysentery, if taken with a *hima kashayam* (decoction prepared without the application of heat) of kharjura (dates ), and tanduliya roots. If taken in this way, it also cures fever due to an excess of pittam. It cures fever accompanied with a sensation of coldness, if taken with jamani and lavanga. In diarrhoea and vomiting it should be used with sugar and jeera. It is beneficial to eye-sight, if used as a collyrium with old ghee (clarified butter). It cures spermatorrhoea and gonorrhoea, if taken with the juice of betel leaves. It increases power of digestion, if taken with the juice of agnimantha. It is a destroyer of all the doshas, if taken with the trisugandhi.
 
@@ -3312,10 +3134,6 @@ Vanga is incinerated, if it is subjected to heat by putam, after having been sme
 
 **Twelfth process.**
 
-
-
-
-
 Vanga is incinerated, if it is subjected to heat by putam, after having been smeared with a paste made of swarna-makshika, haritala, and juice of palasha.
 
 **वंगकल्पः ।**
@@ -3335,8 +3153,6 @@ Vanga is incinerated, if it is subjected to heat by putam, after having been sme
 [^21]: "घृष्टं बन्धूकनिर्य्यासैर्नाकुलीबीजचूर्णकैः । इत्येतत् पाठान्तरम् ।"
 
 Vanga-kalpa.
-
- 
 
 Tin, kanta iron, and mica—all equal in quantities and reduced to ashes, are to be rubbed with the juices of leaves of kanaka dhutura, nimba, pomegranate, and apamarga, respectively and separately. Incinerated rajavarta,\*[^22] equal in quantity to the tin, is then to be mixed with the compound, referred to above, and the whole thing is to be rubbed well with cow's urine, and shila-jatu dissolved with water.The product is then to be rubbed for eight days with guggulu (duly purified by means of being boiled in a Dola-Jantram with the decoction of guruchi, dasha- muli, or triphala ), dissolved with water. It is then to be dried, powdered, and mixed with an equal quantity of gum of babbula (acacia), fried by heat and reduced to powder, and with the same quantity of the powder of akuli (nirmali) seeds. The whole thing is then to be finely powdered and sifted by means of a piece of cloth and kept carefully. This medicine cures all sorts of meha and prameha, if taken with the juice of turmeric, pestled with butter-milk (prepared from cow's milk).
 
@@ -3517,8 +3333,6 @@ Test of lead free from alloy.
 लिप्त्वाभाव्यं पुनः सेच्यं सप्तवारं विशुद्धये ॥**
 
 Purification of Lead.
-
-
 
 Lead is purified, if it is made into leaves, smeared with powdered nirgundi roots rubbed with milk of arka, and then dried, melted, and immersed into the juice of nirgundi, the process being performed for seven times.
 
@@ -3812,7 +3626,6 @@ _(\*)[^25]
 
 **अष्टादशोविधिः ।**  
 
-
 **( नागसिन्दूरः । )**
 
 पादांशागस्त्यभूनागलिप्तंनागं विशोषयेत् ।  
@@ -3832,8 +3645,6 @@ _(\*)[^25]
 नागं सिन्दूरवर्णाभं म्रियते सर्वकार्य्यकृत् ॥
 
 **Eighteenth process.**
-
-
 
 Lead is to be dried after having been smeared with one fourth its quantity of vasaka leaves rubbed with earthworms. It is then to be melted and kept in a strong pot. Ksharas of vasaka and apamarga are to be rubbed with the leaves of vasaka and then heated for three hours by fire. These ksharas are to be mixed well with the lead (finely powdered). The powder, thus prepared, is to be subjected to heat by putam for 21 times, after having been mixed each time with manas-shila, swarnamakshika, and kshara of vasaka, these three combined being equal to theoriginal quantity of the lead. The product is again to be subjected twice to heat by putam after having been rubbed each time with the juice of vasaka. The product is red vermilion.  
 **  **
@@ -3900,8 +3711,6 @@ Two palas of lead incinerated (without the help of mercury), an equal quantity o
 
 Accompaniments of lead.
 
-
-
 Incinerated lead, if taken with sugar, can cure pittam, vayu, headache, eye-disease, diseases affecting semen, delirium, inflammation, loss of appetite, and loss of sexual desire, provided there is nothing to be objected to in the diet taken by the patient.
 
 **शोधनमारणहीननागस्यावगुणाः ।**
@@ -3918,8 +3727,6 @@ Evil effects of lead, not properly purified
 
 and incinerated.
 
- 
-
 Lead, not incinerated in the prescribed way, gives rise to leprosy, gulma, loss of appetite, anemia, phthisis, phlegm, troublesome impurities of the blood, fever, stone disease, colic, and fistula.
 
 **नागदोषशान्तिः ।**
@@ -3930,16 +3737,9 @@ Lead, not incinerated in the prescribed way, gives rise to leprosy, gulma, loss 
 
 Remedy.
 
-
-
 One is freed from the evil effects of lead, not properly incinerated, if one takes incinerated gold with haritaki, (one fourth of a tola in weight), and sugar for three days.
 
-
 ![](../../../books_images/1689913124.png)
-
-
-
-
 
 **तृतीयोऽध्यायः ।**
 
@@ -3954,10 +3754,7 @@ One is freed from the evil effects of lead, not properly incinerated, if one tak
 
 आरश्च कपिला क्षद्रसुवर्णं सिंहलं तथा ।  
 
-
 पीतलकं च पीतकं पिङ्गलधातु लोहितम् ॥
-
-
 
 अस्य भेदाः ।
 
@@ -3983,8 +3780,6 @@ One is freed from the evil effects of lead, not properly incinerated, if one tak
 
 **रीतिकायुगलं पाण्डुरोगघ्नंकृमिनाशनम् ॥**
 
-
-
 CHAPTER III.
 
 MIXED METALS.
@@ -3995,10 +3790,6 @@ Its varieties.
  Riti or Pittala is of two kinds, viz. (1) raja-riti and (2) brahma-riti or kaka-tundi. Raja-riti is that variety of brass which assumes the colour of copper after it is heated and immersed in kanji. Brahma-riti or kaka-tundi is that variety of copper which assumes a black colour, if treated in the afore-said way. Raja-riti consists of two parts of copper and one part of zinc, whereas brahma-riti is the product of copper, zinc, and lead.  
 
 ** **Raja-riti is bitter, coarse, destroyer of worms, curer of hoemorrhage, and purifier of the abdomen. It is cooling, but produces heat in the system, if combined with other materials.  
-
-
-
-
 
 Kaka-tundi is coarse, bitter, warm in its immediate effect, but cooling afterwards, destroyer of kapha and pittam, and curer of diseases affecting the spleen and the liver.  
 ** **
@@ -4018,8 +3809,6 @@ Both the varieties are curer of anemia and worms.
 **पूतिगन्धा तथा लघीरीतिर्नेष्टा रसादिषु ॥**
 
 Characteristics of good and bad brass.
-
-
 
 Good brass is heavy, mild, yellowish, full of substance, malleable, soft, and smooth. Bad brass is blackish yellow, rough, course, ugly, brittle, yielding bad odour, and light. Such copper is not fit for being used in medicines.
 
@@ -4041,13 +3830,9 @@ Brass as well as bell-metal is to be purified and incinerated in the same way as
 
 **पञ्चवारेण संशुद्धिं रीतिरायाति निश्चितम् ॥**
 
-
-
 **Second process.**
 
 ** **Brass is purified, if it is heated for five times and immersed each time into the juice of nirgundi, mixed with powdered turmeric.
-
-
 
 **तृतीयोविधिः ।**
 
@@ -4068,7 +3853,6 @@ Brass as well as bell-metal is to be purified and incinerated in the same way as
 
 **तल्लिप्तं खर्परे दग्धं द्रुतं मुञ्चति शोभनाम् ।**  
 
-
 **चतुर्दशलसद्वर्णसुवर्णसदृशच्छविम् ।**  
 
 **देहलोहकरी प्रोक्ता युक्ता रसरसायने ॥**
@@ -4079,11 +3863,7 @@ Brass as well as bell-metal is to be purified and incinerated in the same way as
 
 **अस्य मारणम् ।**
 
-
-
 **प्रथमोविधिः ।**
-
-
 
 **निम्बुरसशिलागन्धवेष्टिता पुटिताष्टधा ।**  
 
@@ -4136,7 +3916,6 @@ Use of brass.
 **कांस्यपित्तलयोर्वेधः ।**
 
 **आरं तारं समं कृत्वा मृतवंगं नियोजयेत् ।**  
-
 
 **एषा राजवती विद्या पिता पुत्रं न भाषते ॥**
 
@@ -4194,8 +3973,6 @@ Characteristics of bad bell-metal.
 
 Properties of Bell-metal.
 
- 
-
 Bell-metal is light, bitter, and warm, reducer of fat, improver of eye-sight, curer of worms and leprosy, pacifier of vayu and pittam, increaser of power of digestion. Every article of food stuff, except clarified butter, becomes salutary to the system, if served on utensils made of bell-metal. One who takes a mercurial preparation should not take his food served on a bell-metal utensil.\*[^28]
 
 **अस्य शोधनम् ।**
@@ -4210,8 +3987,6 @@ Purification of Bell-metal.
 
 **First process.**
 
-
-
 See Processes I and III, pages, 143-144 and Process III, page 124.
 
 **द्वितीयोविधिः ।**
@@ -4224,11 +3999,7 @@ Second process
 
 .
 
- 
-
 Leaves of bell-metal are purified, if they are heated and immersed red hot into cow's urine, or boiled for three hours in the same liquid by a strong heat.
-
-
 
 **अस्य मारणम् ।  
 प्रथमोविधिः ।**
@@ -4247,8 +4018,6 @@ Incineration of Bell-metal.
 म्रियते गन्धतालाभ्यां निरुत्थं पञ्चभिः पुटैः ॥**
 
 **Second process.**
-
- 
 
 Thin leaves of bell-metal, duly purified, are reduced absolutely to ashes, if they are subjected to heat by putam for five times, after having been smeared each time with a paste made of sulphur and orpiment.
 
@@ -4302,8 +4071,6 @@ Purification and Incineration of varta-loha.
 
 Triloha.
 
-
-
 Twenty five parts of gold, sixteen parts of silver, and ten parts of copper, melted together, form what is called the triloha. It destroys all the doshas and is a great rasayanam. It increases the power of digestion and is a curer of all the diseases.
 
 **अस्य शोधनमारणम् ।**
@@ -4312,8 +4079,6 @@ Twenty five parts of gold, sixteen parts of silver, and ten parts of copper, mel
 अशोधितममारितं त्रिलोहं हि विषोपमम् ॥**
 
 Purification and Incineration of Triloha.
-
- 
 
 It is purified and incinerated in the same way as gold. Triloha, not properly purified and incinerated, acts like poison.
 
@@ -4325,8 +4090,6 @@ It is purified and incinerated in the same way as gold. Triloha, not properly pu
 बलीपतिनिर्मुक्तोभजते विपुलश्रियम् ॥**
 
 Triloha Rasayanam.
-
-
 
 One who takes every morning one racti of incinerated tri-loha, mixed with honey, clarified butter, triphala, and trikatu, and observes the prescribed diet, lives a healthy, happy, and long life, without being affected by senile decay.
 
@@ -4340,8 +4103,6 @@ One who takes every morning one racti of incinerated tri-loha, mixed with honey,
 [^29]: "द्वितीय खण्डे २३४ पृष्ठं द्रष्टव्यम् ।"
 
 Essence of Earthworms.\*[^30]
-
- 
 
 [^30]: "See page 234, Vol. II,"
 
@@ -4364,8 +4125,6 @@ Gold is the essence of earthworms growing in the vicinity of gold mines. The nat
 [^31]: "प्रथम खण्डे ३०५ पृष्ठं द्रष्टव्यम् ।"
 
 Khara-sattwam.
-
-
 
 Essence of earthworms is to be cleansed with water, and rubbed for one day each with the juice of bhringa-raja, nimboo (lemon fruit), and nirgundi. It is then to be rubbed with the Dravana-varga\*[^32] andmade into a lump, which is to be confined in a strong crucible, and heated steadily for forty eight minutes. When cooled of itself, the contents of the crucible are to be taken out and kept on a piece of smooth stone slab from which are to be collected the heavy metallic dusts of the shape of mustard seeds. These are to be mixed with one twelfth their weight of copper, and again heated in a crucible. The metallic dust is then to be separated from foreign matter by being washed off with water. It is then to be used for the liquefaction of diamond, etc. It is called khara-sattwam. It is not a good rasayanam (a medicine which can prevent and cure senile decay).
 
@@ -4396,7 +4155,9 @@ Extraction of the best essence of earthworms.
 अनन्तरोक्तभूनागसत्त्वस्य गुणाः ।
 
 भूनागोद्भवसत्त्वमुत्तमतमं श्रीसोमदेवोदितं  
-दत्तं पादमितं द्विशाणकनकेनैकां गतेनोर्मिकाम्।[\*](http://॑# "उर्मिकामंगुरीयकम् ।")  
+दत्तं पादमितं द्विशाणकनकेनैकां गतेनोर्मिकाम्।\*[^83]  
+
+[^83]: "उर्मिकामंगुरीयकम् ।"
 
 तद्धौताम्बुविलेपनं स्थिरचरोद्भूतं विषं नेत्ररुग्  
 शूलं मूलगदं च कर्णजरुजो हन्यात प्रसूतिग्रहम् ॥
@@ -4424,17 +4185,9 @@ Superiority of metallic drugs.
 
  A medicine, prepared mainly from mercury and minerals, is superior to that prepared from herbs, in as much as (1) the former can be administered in much smaller doses than the latter; (2) it does not give rise to aversion in the patient who takes it; (3) it cures diseases more quickly than the latter; and (4) it cures diseases which are considered incurable by medicines prepared from herbs. Medicines prepared from mercury, with or without the addition of other minerals, poison, etc. are the best of all the medicines known to the world.  
 
- 
-
 Incinerated metals assume, to a certain extent, the properties of mercury. They can also cure diseases which are troublesome and attended with complications. If used for a long time, they can not only cure diseases but also strengthen the body and cure and prevent senile decay.
 
 ![](../../../books_images/1689405752.png)
-
-
-
-
-
-
 
 **चतुर्थोऽध्यायः ।**
 
@@ -4459,9 +4212,9 @@ Incinerated metals assume, to a certain extent, the properties of mercury. They 
 
 **सुगन्धिकं च विक्षेया उपरत्नानि सप्तकम् ॥**  
 
-**यत्नतस्ते प्रयोक्तव्या रसे रसायने तथा ॥[\*](http://॑# "* सर्वेषां रत्नोपरत्नानां विस्तृतविवरणार्थं प्रधानतो निम्नलिखिताः ग्रन्था प्रष्टव्याः- बृहत्संहिता, भोजकृतयुक्तिकल्पतयः, विष्णुधर्मोत्तरपुराणम्, अग्निपुराणम्, गरुड़पुराणम्, तथागस्त्य प्रणीतं रत्नशास्त्रम् ।")**
+**यत्नतस्ते प्रयोक्तव्या रसे रसायने तथा ॥\*[^84]**
 
-
+[^84]: "* सर्वेषां रत्नोपरत्नानां विस्तृतविवरणार्थं प्रधानतो निम्नलिखिताः ग्रन्था प्रष्टव्याः- बृहत्संहिता, भोजकृतयुक्तिकल्पतयः, विष्णुधर्मोत्तरपुराणम्, अग्निपुराणम्, गरुड़पुराणम्, तथागस्त्य प्रणीतं रत्नशास्त्रम् ।"
 
 **CHAPTER 1V.**
 
@@ -4471,8 +4224,6 @@ Incinerated metals assume, to a certain extent, the properties of mercury. They 
  These gems are used in consolidating mercury.  
 
  The following are some of the upa-ratnas or minor gems (1) palanka (onyx), (2) rudhiram (carnelian), (3) puttika (peridote or bottle-green stone), (4) turkshajam (turquoise, biraja, or peroja), (5) pilu (jade), (6) upalam (opal, chalcedony, and agate), and (7) sugandhikam (spinel),  
-
- 
 
 All these ratnas and uparatnas may be used in the preparations of mercury as well as in preparing medicines meant for curing and preventing diseases and senile decay.  
 
@@ -4501,15 +4252,15 @@ All these ratnas and uparatnas may be used in the preparations of mercury as wel
 
 ( 2 )
 
- 
-
 The following five are gems in ordinary use:- sapphire, diamond, ruby, pearl, and coral.
 
 ग्रहरत्नानि (नवरत्नम्) ।
 
 **माणिक्यमुक्ताफलविद्रुमाणि**  
 
-**तार्क्ष्यञ्चञ्च पुष्पं भिदुरं च [नीलम्](http://॑# " तार्क्ष्यमिति मरकताख्यं पाषाणम् । भिदुरमिति हीरकम् ।") I**  
+**तार्क्ष्यञ्चञ्च पुष्पं भिदुरं च नीलम्[^85] I**  
+
+[^85]: " तार्क्ष्यमिति मरकताख्यं पाषाणम् । भिदुरमिति हीरकम् ।"
 
 **गोमेदकं चाथ विदूरकं च**  
 
@@ -4517,9 +4268,9 @@ The following five are gems in ordinary use:- sapphire, diamond, ruby, pearl, an
 
 Gems favourite to the planets.
 
- 
+Manikya (ruby), mucta (pearl), pravala (coral), turkshya (emerald), puspa-raga (topaz), hiraka (diamond), nila-mani (sapphire), gomedam (zercon), and vaiduryam (oriental cat's eye)—These nine gems are favourites, respectively, to the nine. planets, viz. Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu (Dragon's head), and Ketu (Dragon's tail[^86].")).
 
-Manikya (ruby), mucta (pearl), pravala (coral), turkshya (emerald), puspa-raga (topaz), hiraka (diamond), nila-mani (sapphire), gomedam (zercon), and vaiduryam (oriental cat's eye)—These nine gems are favourites, respectively, to the nine. planets, viz. Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu (Dragon's head), and Ketu ([Dragon's tail](http://॑# "*In addition to these nine planets, the Hindu Astronmy recognises five minor planets (See Brihat Parashara Hora Shastram).")).
+[^86]: "*In addition to these nine planets, the Hindu Astronmy recognises five minor planets (See Brihat Parashara Hora Shastram
 
 **व्यवहारयोग्यरत्नानि ।**
 
@@ -4528,8 +4279,6 @@ Manikya (ruby), mucta (pearl), pravala (coral), turkshya (emerald), puspa-raga (
 **सुलक्ष्माणि सुजातीनि रत्नान्युक्तानि सिद्धये**
 
 Gems fit for use.
-
-
 
 Only gems of excellent qualities should be used in mercurial preparations, in medicines meant to cure and prevent diseases and senile decay, in mak- ing gifts to objects of charity (such as priests, astrologers, etc), in being used by one's own self as an article of jewellery conducive to health and happiness, and in making offerings to God. Gems of inferior quality are abortive for each of these purposes.
 
@@ -4545,8 +4294,6 @@ Only gems of excellent qualities should be used in mercurial preparations, in me
 मृत्युञ्जयं तदमृतोपममेव वज्रम् ॥**
 
 Vajra or Hiraka (Diamond).
-
-
 
 Diamond is increaser of longevity. It makes its good qualities felt quickly. It is nutritious, pacifier of the three doshas, and curer of all the diseases. It improves the quality of the consolidation and killing of mercury, is an increaser of the power of digestion, is an enemy of death, and is like nectar itself.
 
@@ -4565,13 +4312,9 @@ Diamond is increaser of longevity. It makes its good qualities felt quickly. It 
 
 Colour of Diamonds.
 
- 
-
 Diamonds are of four different colours, viz, white, red, yellow, and black. The white variety is beneficial in all respects, and is a rasayanam or curer and preventer of diseases and senile decay. The red variety also is, to a certain extent, a rasayanam. The yellow variety is a giver of wealth (if worn with a ring), and is useful in alchemical operations. The black variety is a destroyer of diseases and a preventer of senile decay.
 
 **वज्राणां भेदान्तरम् ।**
-
-
 
 ( १ )
 
@@ -4595,8 +4338,6 @@ Diamonds are of four different colours, viz, white, red, yellow, and black. The 
 
 \(2\)
 
-
-
 Masculine diamonds are well-rounded, well- faced, bright, comparatively big in size, and devoid of lines and spots.
 
  Feminine diamonds have six angles and are full of spots and lines. The neuter diamonds are three- angled, thin, and elongated.
@@ -4611,8 +4352,6 @@ Masculine diamonds are well-rounded, well- faced, bright, comparatively big in s
 पुत्रकामा न धारयेन् नारी वज्रंकदाचन ॥**
 
 Merits of different kinds of diamonds.
-
-
 
 Masculine diamonds are the best of all. They are able to help the transmutation of metals and to consolidate mercury. Feminine diamonds bring happiness to women and enhance their beauty. Neuter diamonds are impotent, useless, and devoid of essence.  
 ** **Feminine diamonds are to be worn by women, neuter ones by hermaphrodites, but masculine diamonds may be worn always by any person, male, female, or hermaphrodite. A woman who wants to give birth to a son should on no account wear a diamond.
@@ -4632,8 +4371,6 @@ Masculine diamonds are the best of all. They are able to help the transmutation 
 
 Characteristics of good Diamond.
 
-
-
 ( 1 )
 
  Vajram or diamond is the best of all gems, whereas gomeda (zercon) and pravala (coral) are inferior to the rest. None of the gems, except pearl and coral, can be scratched by iron, or even by stones, generally. None of the gems, except pearls and corals, undergoes decay. Heaviness is generally an indicator of preciousness in gems; but the case is quite the reverse with diamonds. Diamonds of superior quality are so light as to float on water. They are free from the five defects (to be described below) and are as soothing as moon's rays.
@@ -4647,8 +4384,6 @@ Characteristics of good Diamond.
 
 ( 2 )
 
- 
-
 Diamond of an excellent quality is that which cannot be worn out by being rubbed with the surface of even a very hard touch stone; which cannot be cracked even by the sharp edges of other stones, iron instruments, etc; which can easily create a crack on other substances; and which can be rent asunder by another diamond only. Such diamonds are of a high order and very precious.
 
 **अशुभवज्रस्य लक्षणानि ।**
@@ -4659,21 +4394,19 @@ Diamond of an excellent quality is that which cannot be worn out by being rubbed
 
 Characteristics of bad diamonds.
 
- 
-
 Diamonds of the following description are bad :- (1) Those which are of ash colour ; (2) those which have got spots of the shape of a crow's feet, (3) those which are marked by lines, (4) those which are cylindrical, (5) those which darken or soil their foils or receptacles, (6) those which have got spots, (7) those which have got cracks, (8) those which are rent asunder, (9) those which are of blue colour, 10) those which are flat-shaped, and (11) those which are coarse.
 
 Such diamonds are to be avoided.
 
 **सर्वरत्नाणां साधारणदोषाः ।**
 
-**गारस्त्रासश्च बिन्दुश्च रेखा च [जलगर्भता](http://॑# " गारः कर्दमं मलमित्यर्थः ।") ।  
+**गारस्त्रासश्च बिन्दुश्च रेखा च जलगर्भता[^87] ।  
 सर्वरत्नेष्वमी पञ्च दोषाः साधारणा मताः ।  
 क्षेत्रतोयभवा दोषा रत्नेषु ते लगन्ति न ॥**
 
+[^87]: " गारः कर्दमं मलमित्यर्थः ।"
+
 Defects found in gems in general.
-
-
 
 The following five are the defects found in gems in general :—dirt, crack, spots, lined spot, and bubble spot.  
 ** **Gems are not affected by defects in the soil in which they are found or in the water in which they are submerged.
@@ -4687,15 +4420,15 @@ The following five are the defects found in gems in general :—dirt, crack, spo
 Evil effects of Diamonds, not properly purified  
 and incinerated.
 
-
-
 Diamonds, not properly purified and incinerated, give rise to leprosy, pain in the side ribs, anemia, inflammation, and heaviness of the limbs. Diamonds should, therefore, be properly purified and incinerated.
 
 **वज्रस्य शोधनम् ।**
 
 **प्रथमोविधिः ।**
 
-**कुलत्थक्वथितैः खिन्नं [कोद्रवक्वथितेन](http://॑# "* कोद्रवः कोदो इति भाषा ।") वा**
+**कुलत्थक्वथितैः खिन्नं कोद्रवक्वथितेन[^88] वा**
+
+[^88]: "* कोद्रवः कोदो इति भाषा ।"
 
 **।**  
 
@@ -4709,8 +4442,10 @@ Purification of Diamonds.
 
 **द्वितीयोविधिः ।**
 
-**व्याघ्रीकन्दयुतं वज्रंदोलायन्त्रेण [पाचितम्](http://॑# "व्याघ्रीति रक्तैरण्डः कण्टकारी वा ।") ।  
+**व्याघ्रीकन्दयुतं वज्रंदोलायन्त्रेण पाचितम्[^89] ।  
 सप्ताहं कोद्रवक्वाथे कौलत्थे विमलं भवेत् ॥**
+
+[^89]: "व्याघ्रीति रक्तैरण्डः कण्टकारी वा ।"
 
 **Second process.**
 
@@ -4794,9 +4529,11 @@ Any gem or ratna is purified, if it is boiled in a Dola Jantram for one hour wit
 करवीरं मेषशृङ्गं बदरकमुडुम्बरम् ।  
 अर्कदुग्धं समं पिष्ट्रा विप्रवन्मारयेन्नृपम् ॥
 
-[\*](http://॑# "नृपमिति क्षत्रियवर्णवज्रम् ।")
+\*[^90]
 
 \(2\) *Red diamonds.*
+
+[^90]: "नृपमिति क्षत्रियवर्णवज्रम् ।"
 
 **First process.**
 
@@ -4845,8 +4582,6 @@ Diamond of red colour is incinerated, if it is subjected to heat by putam, after
 \(4\) *Black Diamonds.*
 
 **First process.**
-
- 
 
 Diamond of black colour is to be incinerated, if it is subjected to heat by Gajaputam, after having been coated on all sides with a paste made of shuranam, garlic, conch-shell, manas-shila, all rubbed with an equal quantity of the milk of banian tree.
 
@@ -5023,8 +4758,6 @@ Diamond is incinerated, if it is smeared with the blood of bugs, dried in the su
 
 ** **Diamond is to be subjected to bhavana with bug's blood for four times. It is then to be covered on all sides with the flesh of rats, cut into pieces, and heated by Baraha-putam for thirty times. It is then to be heated for 100 times and immersed each time in decoction of kulattha. The diamond is then to be heated by putam for eight times after having been confined in a crucible, the inner surface of which is to be coated with a paste made of decoction of kulattha, juice of lakucha, and manas-shila. The diamond is then to be heated for 100 times, and immersed each time in purified mercury, with the result that the diamond is reduced to ashes which can float on the surface of water.  
 
-
-
 This process was described by the chemist, Chandra Sena, founder of the Chandra dynasty.
 
 **चतुर्दशोविधिः ।**
@@ -5049,8 +4782,6 @@ This process was described by the chemist, Chandra Sena, founder of the Chandra 
 **Fifteenth process.**
 
 General method of Incineration of all the Gems.
-
- 
 
 Diamond and other gems are incinerated, if heated by putam, after having been confined in a crucible the inner surface of which is coated with a paste made of mercury, hingula, manas-shila, haritala, swarna-makshika, sulphur, tankanam, earthworms, bimala, vanga, ram's horn, load stone, semen, and blood-all these mixed together and subjected to bhavana with the juices of some of the herbs generally used in incineration of gems.
 
@@ -5089,8 +4820,6 @@ The diamond, thus prepared and powdered, should be mixed with a little of borax,
 
 \(3\)
 
-
-
 Thirty parts of incinerated diamond, four parts of gold, eight parts of silver, eleven parts of white shankhi, four parts of mica, eight parts of swarna-makshika, and six parts of vaikranta—all these are to be mixed together and used with mercury for the enhancement of its properties by six times.
 
 (४)
@@ -5101,8 +4830,6 @@ Thirty parts of incinerated diamond, four parts of gold, eight parts of silver, 
 निहन्ति सकलान् रोगान् परमेतद् रसायनम् ॥**
 
 \(4\)
-
-
 
 Ashes of diamond, with half its quantity of incinerated mercury, ashes of the essence of mica, equal in quantity to both,—all these are to be rubbed together and taken in doses of one racti a day with honey and clarified butter. It cures all the diseases. It is a great rasayanam.
 
@@ -5116,8 +4843,6 @@ Ashes of diamond, with half its quantity of incinerated mercury, ashes of the es
 
 *Softening of Diamonds*.
 
- 
-
 Diamond is to be confined within a matulunga fruit, covered on all sides with mud. It is then to be subjected to heat by Gaja-putam for a hundred times. Next is it to to smeared with the juice of tambula (betel) leaves, wrapped up with the leaves of the same creeper, and buried deep into the earth for some time resulting in the softening of the diamond.
 
 **वज्रस्य द्रुतिः ।  
@@ -5128,8 +4853,6 @@ Diamond is to be confined within a matulunga fruit, covered on all sides with mu
 
 Liquefaction of diamond.
 
- 
-
 Ashes of diamond, incapable of being restored to their former condition, are to be kept inside an asthi-sanhara creeper and immersed into a vessel filled with a sour vegetable juice (such as lime juice), and then heated for seven days with the result that it turns into a liquid.
 
 **सर्वरत्नानां द्रुतिः ।**
@@ -5138,7 +4861,7 @@ Ashes of diamond, incapable of being restored to their former condition, are to 
 
 **रामठं पञ्चलवणं क्षाराणां त्रितयं तथा ।  
 मांसद्रवोऽम्लवेतसश्चुल्लिकालवणं तथा ॥  
-स्थूलं कुम्भीफलं पक्वंतथा ज्वालामुखी [शुभा](http://॑# " कुम्भीफलमिति जयपालबीजम् । ज्वालामुखीति भल्लातकम् ।") ।  
+स्थूलं कुम्भीफलं पक्वंतथा ज्वालामुखी शुभा[^91] ।  
 द्रवन्ती च रुदन्ती च पयस्या चित्रमूलकम् ॥  
 दुग्धं स्नुह्यास्तथार्कस्य सर्वं संमर्द्ययत्नतः ।  
 गोलं विधाय तन्मध्ये प्रक्षिपेत् तदनन्तरम् ॥  
@@ -5149,24 +4872,26 @@ Ashes of diamond, incapable of being restored to their former condition, are to 
 अहोरात्रत्रयं यावत् स्वेदयेत् तीव्रवह्निना ।  
 तस्मादाहृत्य संक्षाल्य रत्नजां द्रुतिमाहरेत् ॥**  
 
+[^91]: " कुम्भीफलमिति जयपालबीजम् । ज्वालामुखीति भल्लातकम् ।"
+
 **रत्नतुल्यप्रभा लघ्वी देहलोहकरी शुभा ॥**
 
 *Liquefaction of all the gems*.
 
 \(2\)
 
-
-
 Hingu, five salts, the three ksharas, that variety of amla-vetasa which can decompose flesh into a liquid, nava-sara, well-developed andwell-ripened jayapala seeds, bhallataka, dravanti, rudanti, bidari, chitraka roots, milks of snuhi and arka-all these are to be rubbed together and made into a lump, into which is to be kept any of the nine gems of excellent quality. The lump is then to be wrapped up with leaves of bhurja (birch) tree, and again covered with a piece of cloth. It is then to be boiled by means of a Dola-Jantram containing fermented liquid mixed with all the amlas. Strong heat is to be applied for 72 hours at a stretch, after which the gem, in a state of liquefaction, is to be collected from inside the vessel. This liquid has the glaze of gems. It is light. It makes the body as strong as iron.
 
 (३)
 
-**केतकीस्वरसं ग्राह्यं सैन्धवं [स्वर्णपुष्पिका](http://॑# "स्वर्णपुष्पीति स्वर्णयूथी विषलाङ्गली वा ।") ।  
+**केतकीस्वरसं ग्राह्यं सैन्धवं स्वर्णपुष्पिका[^92] ।  
 इन्द्रगोपकसंयुक्तं सर्वंभाण्डे विनिक्षिपेत् ॥  
 सप्ताहं स्वेदयेत् तस्मिन् वैक्रान्तं द्रवतां व्रजेत् ।  
 लोहाष्टके तथा वज्रे वापनात् स्वेदनाद् द्रुतिः ॥  
 जायते नात्र सन्देहो योगस्यास्य प्रभावतः ।  
 कुरुते योगराजोऽयं रत्नानां द्रावणं परम् ॥**
+
+[^92]: "स्वर्णपुष्पीति स्वर्णयूथी विषलाङ्गली वा ।"
 
 \(3\)
 
@@ -5182,8 +4907,6 @@ Juice of ketaki flower, rock-salt, swarna-flower, and indrago pa insect—all th
 Removal of evil effects of diamond,  
 not properly incinerated.
 
- 
-
 Cow's milk, taken for seven days with sugar-candy, honey, and clarified butter, does away with the evil effects of diamond, not properly incinerated.
 
 **अथ सर्वरत्नानां शोधनक्रमः ।**
@@ -5194,8 +4917,6 @@ Cow's milk, taken for seven days with sugar-candy, honey, and clarified butter, 
 शोधनैर्मारणैर्हीना हेयास्ते विषवत् सदा ॥**
 
 Purification of Gems in general.
-
-
 
 Metals, minerals, and gems do not spread through the different parts of the body, if not properly purified. They are positively harmful, if used without purification and incineration.
 
@@ -5231,8 +4952,6 @@ Masculine diamond, emerald, sapphire, ruby, topaz, cat's eye, zercon, pearl, and
 
 \(2\)
 
-
-
 One drona of kulattha is to be boiled with eight dronas of water. Gems and stones are to be boiled with this decoction. They are then to be dried in the sun for three days, saturated all this while with the same decoction, put upon them over and over again. This is how the gems are purified.
 
 (३)
@@ -5243,8 +4962,6 @@ One drona of kulattha is to be boiled with eight dronas of water. Gems and stone
 मुक्ताविद्रुमशुक्तिकाऽथ चपला शुद्धा वराटाः शुभाः ।  
 जायन्तेऽमृतसन्निभाः पयसि च क्षिप्तः शुभः**  
 **                         स्याद्बलिः ॥**
-
-
 
 All sorts of metals, makshika, manas-shila, tut- thaka, abhra, haritala, mucta (pearl), pravala (coral), shucti (oyster-shell), chapala, and cowri-shells are purified, if boiled with a solution of vegetable acids and alkalis (ksharas). Sulphur is purified, if boiled in the same way and then immersed (through a piece of dry cloth) into milk.
 
@@ -5267,8 +4984,6 @@ Incineration of gems other than diamond.
 
 **First process.**
 
-
-
 All the gems, with the exception of diamond, are incinerated, if subjected to heat by putam for eight times, after having been smeared each time with a paste made of manas-shila, gandhaka, and haritala, rubbed with the juice of lakucha.
 
 **द्वितीयोविधिः ।**
@@ -5279,8 +4994,6 @@ All the gems, with the exception of diamond, are incinerated, if subjected to he
 क्षणाद्विविधवर्णानि म्रियन्ते नात्र संशयः ॥
 
 **Second process.**
-
- 
 
 Any gem may be incinerated, if it is heated and immersed, for seven times, into the juice of each of the following :-kanya, tanduliya, and human milk.
 
@@ -5305,8 +5018,6 @@ Any gem may be incinerated, if it is heated and immersed, for seven times, into 
 
 \(1\)
 
- 
-
 One who uses a defective gem is subjected to loss of friends and wealth, such calamities as imprisonment, etc.
 
 (२)
@@ -5326,16 +5037,16 @@ Exactly as a man of noble birth is ruined by coming in contact with a man of low
 
 General Properties of all the gems.
 
-
-
 They are laxative, cool, astringent, sweet, destroyer of fat, beneficial to eye-sight, and destroyer of vice and misfortune.
 
 **अथ मरकतम् ।**
 
-**मरकतं च तार्क्षोत्थं गारुड़ं [गरुडाङ्कितम्](http://॑# " तार्क्षमिति पुरा महर्षिकश्यपप्रमुखमुनिभिरध्युषितं कश्यपीय-हृदसन्निहितमधुना तार्किनामधेयं यवनाधिष्ठानम् ।") ।  
+**मरकतं च तार्क्षोत्थं गारुड़ं गरुडाङ्कितम्[^93] ।  
 रौहिणेयं सौपर्णं च गरुड़ोद्गीर्णकं तथा ॥  
 पाचि च बुधरत्नं च तार्क्ष्यं गारुत्मतं तथा ।  
 अश्मगर्भं हरिन्मणिः सुलभं तन् न भूतले ॥**
+
+[^93]: " तार्क्षमिति पुरा महर्षिकश्यपप्रमुखमुनिभिरध्युषितं कश्यपीय-हृदसन्निहितमधुना तार्किनामधेयं यवनाधिष्ठानम् ।"
 
 **प्रशस्तमरकतस्य लक्षणम् ।**
 
@@ -5343,8 +5054,6 @@ They are laxative, cool, astringent, sweet, destroyer of fat, beneficial to eye-
 मसृणं भासुरं तार्क्ष्यं गाढं सप्तगुणं मतम् ॥**
 
 MARAKATA (EMERALD).
-
-
 
 The following seven are the features of a goodemerald :—  
 (1) green colour, (2) heaviness, (3) softness, (4) radiating rays, (5) smoothness, (C) brightness, and (7) density.
@@ -5355,8 +5064,6 @@ The following seven are the features of a goodemerald :—
 चिपिटं विकटं कृष्णं रुक्षं तार्क्ष्यं न शस्यते ॥**
 
 Characteristics of bad emerald.
-
- 
 
 A bad emerald is (1) tawny, (2) coarse, (3) blue, (4) pale-black (5) light, (6) flat-shaped (7) ugly, (8) black, and (9) rough.
 
@@ -5371,8 +5078,6 @@ Properties of emerald.
 
 ( 1 )
 
- 
-
 Emerald, duly incinerated, can cure fever, nausea, poison, asthma, abnormal excess of the three doshas, loss of the power of digestion, piles, anemia, and swelling of the body. It increases vitality.
 
 ( २ )
@@ -5384,8 +5089,6 @@ Emerald, duly incinerated, can cure fever, nausea, poison, asthma, abnormal exce
 
 ( 2 )
 
-
-
 Everything growing in a mine of emerald can counteract the evil effects of poison. Poison of a highly venomous snake, incapable of being cured by all sorts of incantations and herbal drugs, can be done away with by emerald (duly incinerated).
 
 महागुणं मरकतम् ।
@@ -5394,14 +5097,14 @@ Everything growing in a mine of emerald can counteract the evil effects of poiso
 काञ्चनचूर्णेनान्तः पूर्णमिव लक्ष्यते यच्च ॥  
 युक्तं संस्थानगुणैः समरागं गौरवे न हीनम् ।  
 सवितुः करसंस्पर्शात् च्छ्ररयति सर्वाश्रमं दीप्त्या ॥  
-हित्वा च हरिदभावं यस्यान्तर्विनिहिता [भवेद्दीप्तिः](http://॑# "हरिदभावमिति हरिदुवर्णस्य अभावम् ।")॥  
+हित्वा च हरिदभावं यस्यान्तर्विनिहिता भवेद्दीप्तिः[^94]॥  
 अचिरप्रभाप्रभाहतनवशाद्वलसन्निभा भाति ॥  
 यच्च मनसः प्रसादं विदधाति निरीक्षितमतिमात्रम् ।  
 तन्मरकतं महागुणमिति रत्नविदां मनोवृत्तिः ॥
 
-Emeralds of superior quality.
+[^94]: "हरिदभावमिति हरिदुवर्णस्य अभावम् ।"
 
- 
+Emeralds of superior quality.
 
 Emerald of superior quality is very green, soft, and complex in lustre by the penetration of rays from outside. Its interior appears to be full of dust of gold. It is characterised by a structural excellence and uniformity of colour. It is not light inweight. On sun's rays being reflected upon it, the whole room is illuminated. Without giving up the greenness of its colour, it keeps within itself its inherent lustre. It resembles in luster the beauty of green grass brightened with the effulgence of lightning. Its very sight pleases the mind.
 
@@ -5411,11 +5114,11 @@ Emerald of superior quality is very green, soft, and complex in lustre by the pe
 
 कृत्रिमत्वं सहजत्वं दृश्यते सूरिभिः सदा ।  
 
-धर्षयेत् प्रस्तरे [व्यङ्गकाचस्तस्माद्](http://॑# " व्यङ्गः विकृताङ्गः गृहीतमरकताकार इत्यर्थः ।") विपद्यते ॥
+धर्षयेत् प्रस्तरे व्यङ्गकाचस्तस्माद्[^95] विपद्यते ॥
+
+[^95]: " व्यङ्गः विकृताङ्गः गृहीतमरकताकार इत्यर्थः ।"
 
 Test of Genuine Emerald.
-
- 
 
 Genuineness of emeralds is tested by experts by rubbing it with a piece of stone. If treated in this way, it will break into pieces, if it is glass. not the case with a genuine emerald.
 
@@ -5426,8 +5129,6 @@ Genuineness of emeralds is tested by experts by rubbing it with a piece of stone
 
 \(2\)
 
- 
-
 An emerald to be tested is to be scratched with an iron fork and then smeared with lime. Thus treated, a genuine emerald waxes in glaze, whereas an artificial one loses its lustre.
 
 (३)
@@ -5437,18 +5138,16 @@ An emerald to be tested is to be scratched with an iron fork and then smeared wi
 
 \(3\)
 
- 
-
 The emerald which is broken by another emerald should not be worn or bought.
 
 (४)
 
-**क्षैमेण वाससा घृष्टा दीप्तिंत्यजति [पूत्तिका](http://॑# "* पुत्रिकेति नामान्तरम् ।") ।  
+**क्षैमेण वाससा घृष्टा दीप्तिंत्यजति पूत्तिका[^96] ।  
 दीप्तिर्मरकतस्य हि घृष्ट्या क्षैमेण वर्द्धते ॥**
 
-\(4\)
+[^96]: "* पुत्रिकेति नामान्तरम् ।"
 
- 
+\(4\)
 
 Puttika (peridote) loses its lustre by being rubbed with a piece of silken cloth, whereas genuine emerald gains in lustre, if treated in the same way.
 
@@ -5462,9 +5161,9 @@ Puttika (peridote) loses its lustre by being rubbed with a piece of silken cloth
 
 \(5\)
 
+The weight of a genuine emerald is to be ascertained as compared with that of water of the same dimension. The figure, thus obtained, is to be compared with that representing the weight of a piece of stone (to be tested), in relation to the weight of water of the same dimension. If the second figure is much lower than the first, the stone tested is to be considered glass or something other than an emerald. The water displaced by an article immersed into a pot full of water is regarded to be of the same dimension as the article itself[^97].
 
-
-The weight of a genuine emerald is to be ascertained as compared with that of water of the same dimension. The figure, thus obtained, is to be compared with that representing the weight of a piece of stone (to be tested), in relation to the weight of water of the same dimension. If the second figure is much lower than the first, the stone tested is to be considered glass or something other than an emerald. The water displaced by an article immersed into a pot full of water is regarded to be of the same dimension as the article [itself](http://॑# "This is a clear reference to the ancient Indians having a knowledge of specific gravity.").
+[^97]: "This is a clear reference to the ancient Indians having a knowledge of specific gravity."
 
 (६)
 
@@ -5472,8 +5171,6 @@ The weight of a genuine emerald is to be ascertained as compared with that of wa
 भल्लातस्य निर्णेतुर्वैशद्यमुपैति वर्णस्य ॥**
 
 \(6\)
-
-
 
 Some bhallata (a stone which possesses the colour and some other features of emerald) may appear to resemble a real emerald in colour and other features. The difference between such a stone and emerald can be known by a greater clearness of colour in the latter.
 
@@ -5488,7 +5185,7 @@ Some bhallata (a stone which possesses the colour and some other features of eme
 सौगन्धिकं तृतीयं स्यात् चतुर्थं नीलगन्धि च ॥**  
 
 कुशेशयदलच्छाथंस्वच्छं स्निग्धं महाद्युति ।  
-वृत्तायतं समं गात्रं श्रेष्टं तत् [पद्मरागकम्](http://॑# "गात्रमिति स्थूलम् ।") ॥  
+वृत्तायतं समं गात्रं श्रेष्टं तत् पद्मरागकम्[^98] ॥  
 विज्ञेयं कुरुविन्दजमतिरक्तं सुशोभनम् ।  
 सुगन्धिकात् समुत्पन्नंसौगन्धिकं हि पीतभम् ॥  
 नीलगङ्गाम्बुसंभूतं नीलगर्भारुणच्छवि ।  
@@ -5496,11 +5193,11 @@ Some bhallata (a stone which possesses the colour and some other features of eme
 पद्मरागो भवेद्विप्रो बाहुजः कुरुविन्दजम् ।  
 सौगन्धिको भवेद्वैश्यो नीलगन्धि च शूद्रकः ॥
 
+[^98]: "गात्रमिति स्थूलम् ।"
+
 **MANIKYA ([RUBY](#)).**
 
 Its variety.
-
- 
 
 Manikya is of four kinds, viz. (1) padma-raga, (2) kuruvindaja, (3 saugandhika, and (4) nilagandhi.  
  The best of the former is lotus-coloured (i.e. white red), transparent, gladening to the eyes, highly bright, round-shaped, smooth, and heavy.  
@@ -5518,8 +5215,6 @@ Manikya is of four kinds, viz. (1) padma-raga, (2) kuruvindaja, (3 saugandhika, 
 
 Characteristics of good rubies.
 
-
-
 These are:—heaviness, softness, freedom from stains, excess of redness, transparency, smoothness and uniformity of structure, brilliance, and roundness of shape.
 
 **दुष्टमाणिक्यस्य लक्षणम् ।**
@@ -5532,8 +5227,6 @@ These are:—heaviness, softness, freedom from stains, excess of redness, transp
 Defects of rubies.
 
 \(1\)
-
-
 
 They are as follows :—holes, ugliness, absence of lustre, roughness, absence of transparency, flatness, lightness, and deformity of size.
 
@@ -5554,8 +5247,6 @@ They are as follows :—holes, ugliness, absence of lustre, roughness, absence o
 
 \(2\)
 
- 
-
 A ruby with two different kinds of lustre in two different parts of its surface is a destroyer of friends to its wearer. A ruby with a mark resembling crow's foot gives rise to defeat. A crack in a ruby worn causes infliction of injuries by weapons. A ruby with a piece of pebble within it causes the destruction of cattle and friends. A ruby which appears to be coated with milk in a cavity in its body causes much distress. A ruby having the lustre of a drop of honey causes the loss of longevity, fortune, and fame.A ruby without lustre causes the loss of riches. A ruby with the colour of smoke threatens an accident by lightning.
 
 माणिक्यस्य परीक्षा ।
@@ -5565,8 +5256,6 @@ A ruby with two different kinds of lustre in two different parts of its surface 
 स ज्ञेयः शुद्धजातिस्तु ज्ञेयाश्चान्ये विजातयः ॥**
 
 Test of Ruby.
-
- 
 
 A genuine ruby does not undergo any diminution in lustre, or in weight, even if rubbed with a hard stone. This is not the case with an artificial ruby.
 
@@ -5583,8 +5272,6 @@ Characteristics of excellent Rubies.
 
 \(1\)
 
-
-
 It is a ruby of an excellent quality which endows its surroundings with brilliance when the sun's rays are reflected upon it. Such rubies grow from quartz.
 
 (२)
@@ -5593,8 +5280,6 @@ It is a ruby of an excellent quality which endows its surroundings with brillian
 रञ्जयेदाश्रयं वापि स महागुणउच्यते ॥**
 
 \(2\)
-
-
 
 It is a ruby of superior worth which, at the touch of the morning sun, vomits, as it were, red flames, or dyes its surroundings with a red lustre.
 
@@ -5614,8 +5299,6 @@ It is a ruby of superior worth which, at the touch of the morning sun, vomits, a
 
 ( 4 )
 
- 
-
 The gem which appears from a distance to be a blazing fire is called vansha-kanti. It is the giver of all wealth.
 
 ( ५ )
@@ -5624,8 +5307,6 @@ The gem which appears from a distance to be a blazing fire is called vansha-kant
 प्रकाशयति सूर्य्याभः स श्रेष्ठः पद्मरागकः ॥**
 
 ( 5 )
-
-
 
 The best ruby, if kept in dense darkness, illuminates the surroundings with its rays.
 
@@ -5660,8 +5341,6 @@ A ruby of the shape of a gunja should be 10, 7, or 3 gunjas in weight .The first
 
 ( 2 )
 
-
-
 A ruby of the shape of a shrigala-kola (jackal plum) weighs 12, or S, or 7 gunjas. of these three, the first is more valuable than the second, and the second is more valuable than the third.
 
 ( ३ )
@@ -5670,8 +5349,6 @@ A ruby of the shape of a shrigala-kola (jackal plum) weighs 12, or S, or 7 gunja
 तथा धात्रीफलस्त्रिंशद्विंशतिद्व्यष्टमाषकः ॥**
 
 ( 3 )
-
- 
 
 The ruby which is of the size of a sweet plum fruit should weigh 12, or 10, or 8 mashas. The one which is of the shape of an amalaki fruit should weigh 30, or 20, or 16 mashas.
 
@@ -5683,8 +5360,6 @@ The ruby which is of the size of a sweet plum fruit should weigh 12, or 10, or 8
 
 ( 4 )
 
-
-
 A ruby which is of the shape of a bimbi fruit should weigh 6, 8, or 10 tolas. A ruby of a greater weight and dimension is not generally available.
 
 **माणिक्यस्य गुणाः** ।
@@ -5693,8 +5368,6 @@ A ruby which is of the shape of a bimbi fruit should weigh 6, 8, or 10 tolas. A 
 भूतवेतालपापघ्नं कर्मजव्याधिनाशनम् ॥**
 
 Properties of Ruby.
-
-
 
 A ruby (duly purified and incinerated) is an increaser of digestive power. It is nutritious and destroyer of kapha, vayu, and waste. It also does away with the evil influence exerted by ghosts and other evil spirits.
 
@@ -5718,8 +5391,6 @@ A ruby (duly purified and incinerated) is an increaser of digestive power. It is
 *Mukta (Pearl).*
 
 Properties of Mukta.
-
- 
 
 Pearl is cool, beneficial to eye-sight, giver of strength and nutrition. It is astringent, sweet, and increaser of beauty and affection in women. It pacifies an excess of vayu and pittam, and is efficacious in cough, asthma, and loss of the power of digestion. It increases beauty, vitality, and longevity. It is laxative and efficacious in inflammation and poison.  
  Pearls growing in the sea (viz. oyster-pearls, conch-pearls, and fish-pearls) are increaser of the power of digestion and pacifier of all the diseases affecting the digestive organs.
@@ -5763,8 +5434,6 @@ Elephant-Pearl.
 
 Snake-pearl.
 
-
-
 A snake pearl is beautiful, blue-lustred, and highly brilliant. It may be of three different sizes, viz, of the size of (1) jackal-plum, (2) amalaki fruit, and (3) gunja seed.  
  The test of genuineness of a snake-pearl is as follows :—  
  Keep it in a silver pot on a clean piece of open soil. If it is a genuine snake-pearl, it will cause immediately a shower of rain falling from the sky all on a sudden; otherwise, there will be no such rainfall.
@@ -5782,8 +5451,6 @@ Fish-Pearl.
 
 \(1\)
 
- 
-
 A fish pearl is as big as a gunja fruit. It grows in a kind of whale living in deep oceans. It is light in weight, and has the colour of a patala flower. It is not so bright and is very globular.
 
 ( २ )
@@ -5793,8 +5460,6 @@ A fish pearl is as big as a gunja fruit. It grows in a kind of whale living in d
 
 ( 2 )
 
-
-
 A fish pearl has the appearance of the eyes of a fish. It is sacred, endowed with several properties, and big in size. It grows in the mouth of whales growing in mid-ocean.
 
 (घ) वराहमुक्ता ।
@@ -5803,8 +5468,6 @@ A fish pearl has the appearance of the eyes of a fish. It is sacred, endowed wit
 जायते मौक्तिकं तद्धि बहुगुणं न संशयः ॥**
 
 (d) Hog-Pearl.
-
-
 
 Pearls sometimes grow at the root of the teeth of some hogs. These pearls are as bright as the moon's rays. They possess several merits.
 
@@ -5817,8 +5480,6 @@ Pearls sometimes grow at the root of the teeth of some hogs. These pearls are as
 
 Bamboo-Pearl.
 
- 
-
 A pearl growing inside a bamboo plant is as bright as the moon's rays. It is greenish white in colour. (It is to be distinguished from vansalochana, a sugar-like substance, sometimes found inside the reeds of a bamboo plant). Vansalochana is soft and light, whereas a bamboo-pearl is strong and heavy.
 
 (च) शङ्खमुक्ता ।
@@ -5830,8 +5491,6 @@ A pearl growing inside a bamboo plant is as bright as the moon's rays. It is gre
 
 Conch-Pearl.
 
- 
-
 A pearl growing in a conch-shell is as white as the moon. It is globular, bright, and beautiful. It is as big as a plum fruit, and sometimes, so big as the egg of a pigeon.
 
 (छ) दर्दुरमुक्ता
@@ -5842,8 +5501,6 @@ A pearl growing in a conch-shell is as white as the moon. It is globular, bright
 \(g\)
 
 Frog-Pearl.
-
-
 
 The pearls which sometimes grow in the heads of frogs are like snake-pearls.
 
@@ -5859,8 +5516,6 @@ The pearls which sometimes grow in the heads of frogs are like snake-pearls.
 
 Oyster-Pearl.
 
-
-
 Rain drops, falling from the clouds at the time when the sun appears to be in the fixed star of swati (in the sign of Libra), if drunk by oysters, develop in course of time into bright pearls growing inside their shells.  
  Of all sorts of pearls, those which grow in oysters and conch-shells are inferior to the rest.  
  The pearls which grow in the ocean (viz. those growing in whales, conch-shells, and oyster-shells) are strengthening and efficacious in diseases relating to the digestive organs.
@@ -5874,18 +5529,16 @@ Rain drops, falling from the clouds at the time when the sun appears to be in th
 
 Classification of all the pearls according to colour.
 
-
-
 Pearls of the best type are clear, white, heavy, and bright. Those of the second class are thick, with tawny colour and brightness. Those of the third class are slightly yellow, appearing to be smeared with oil, white, and bright. Those of the fourth class are white, small, thick, and have a black lustre.
 
 शुभमौक्तिकस्य लक्षणम् ।
 
-**ह्लादि श्वेतं लघु स्निग्धं रश्मिवन् निर्मलं [बृहत्](http://॑# " स्नेहेनैव विलिप्तं यत् तत् स्निग्धमिति गद्यते ।") ।  
+**ह्लादि श्वेतं लघु स्निग्धं रश्मिवन् निर्मलं बृहत्[^99] ।  
 ख्यातं तोयप्रभं वृत्तं मौक्तिकं नवधा शुभम् ॥**
 
-Characteristics of goodpearls.
+[^99]: " स्नेहेनैव विलिप्तं यत् तत् स्निग्धमिति गद्यते ।"
 
- 
+Characteristics of goodpearls.
 
 A good pearl is agreeable to eye-sight, white, light, appearing to be smeared with oil, bright as sun's rays, big in size, praised by lookers-on, clear as water, and globular.
 
@@ -5896,8 +5549,6 @@ A good pearl is agreeable to eye-sight, white, light, appearing to be smeared wi
 
 Characteristics of bad pearls.
 
- 
-
 Pearls of the following description are to be rejected :—coarse, devoid of brightness, tawny-coloured, having the colour of copper, resembling salt in appearance, half-white, ugly, and full of knots.
 
 मौक्तिकानां वेधः ।
@@ -5906,8 +5557,6 @@ Pearls of the following description are to be rejected :—coarse, devoid of bri
 अमितगुणत्वाच्चेषामर्घः शास्त्रेन निर्दिष्टः ॥**
 
 *Perforation of Pearls.*
-
- 
 
 Pearls, other than those which grow in oysters, should not be perforated. Neither should they be set a value to, on account of their scarcity.
 
@@ -5924,8 +5573,6 @@ Pearls, other than those which grow in oysters, should not be perforated. Neithe
 
 NILA (SAPPHIRE ).
 
- 
-
 This stone, in ancient times, was procured from Kalinga (modern Orissa including the western part of Bengal) and Ceylone.  
  Nila is of two kinds, *viz.* Jala-nila and Indra- nila. Of these, the latter is better than the former. The sapphire which is comparatively light and emits a white lustre from inside is Jala-nila, whereas Indra-nila is comparatively heavy, and emits a black lustre from inside.  
  The Jala-nila which contains a red lustre inside it is called Racta-gandhi or Racta-mukhi nila. It is the best of the Jala-nilas.
@@ -5936,8 +5583,6 @@ This stone, in ancient times, was procured from Kalinga (modern Orissa including
 मृदु मध्ये लसज्ज्योतिः सप्तगुणेन्द्रनीलकम् ॥**
 
 Characteristics of a good Indra-nila.
-
- 
 
 A good indra-nila is of uniform lustre, heavy, appearing to be smeared with an oily substance, transparent, globular, soft, with a play of brilliance inside it.
 
@@ -5953,8 +5598,6 @@ A good indra-nila is of uniform lustre, heavy, appearing to be smeared with an o
 
 Varieties of Jala-nila.
 
- 
-
 Jala-nila is of seven kinds. *viz*. (1) that which has got a blending of five different kinds of colour, (2) that which has got a blending of five colours in the one half and only one colour in the other half, (3) that which does not appear to have an oily surface, (4) that which is light, (5) that which has got a play of red lustre inside it, (6) that which is flat-shaped (or, according to a different reading, has the glaze of a chipita or boiled rice baked and hammered into a flat-shape), and ( 7 ) that which is small-sized.
 
 ताम्राभनीलमणिः ।
@@ -5963,8 +5606,6 @@ Jala-nila is of seven kinds. *viz*. (1) that which has got a blending of five di
 त्यजेन् न तत् तथा ताम्रौकरवीरोत्पलावुभौ ॥**
 
 Copper-coloured sapphire.
-
- 
 
 A sapphire which is copper-coloured should not be discarded. That is also the case with the two minor stones, *viz.* karabira and utpala (opal), even if they are copper-coloured.
 
@@ -5975,8 +5616,6 @@ A sapphire which is copper-coloured should not be discarded. That is also the ca
 
 Rain-bow sapphire.
 
- 
-
 The sapphire which has got a play of rain-bow, inside it, is very precious and rare in the earth.
 
 महानीलम् ।
@@ -5985,8 +5624,6 @@ The sapphire which has got a play of rain-bow, inside it, is very precious and r
 नीलतांतन्नयेत् सर्वं महानीलः स उच्यते ॥**
 
 Maha-nila.
-
- 
 
 The sapphire, which, on account of the abundance of its colour, can invest hundred times its weight of milk with a blue colour is called Maha-nila or great sapphire.
 
@@ -5999,8 +5636,6 @@ The sapphire, which, on account of the abundance of its colour, can invest hundr
 
 Gomedam (zercon).
 
- 
-
 It is a kind of quartz of a yellowish red colour. A gomeda (literally, cow's fat) is so called simply because it resembles beef's tallow in colour. This stone is of a reddish yellow colour.
 
 गोमेदंपरीक्षणीयम् ।
@@ -6009,8 +5644,6 @@ It is a kind of quartz of a yellowish red colour. A gomeda (literally, cow's fat
 परीक्षा वह्नितः कार्य्या शाणे वा रत्नकोविदैः ॥**
 
 Zercon is to be tested.
-
-
 
 Zercon is found in the Himalayas and in the Sindhu (river Indus or province of Sind or the sea). The genuineness of this stone is to be tested by means of fire or by a whet-stone.
 
@@ -6021,8 +5654,6 @@ Zercon is found in the Himalayas and in the Sindhu (river Indus or province of S
 
 Good zercons.
 
-
-
 Zercons of the following description are good:— (1) having the colour of cow's urine which is very clear, (2) transparent, (3) appearing to be smeared with oil, (4) level-surfaced, (5 heavy, (6) devoid of layers, (7) smooth, and (8) bright.
 
 अशस्तगोमेदम् ।
@@ -6031,8 +5662,6 @@ Zercons of the following description are good:— (1) having the colour of cow's
 निष्प्रभं पीतकाचाभं गोमेदं न शुभावहम् ॥**
 
 Zercon of bad qualities.
-
-
 
 These are as follows:—(1) devoid of secondary colour, (2) light, (3) rough-surfaced, (4) flat-shaped, (5) appearing to have a layer, (6) devoid of brightness, and (7) appearing to resemble glass of yellow colour.
 
@@ -6044,8 +5673,6 @@ These are as follows:—(1) devoid of secondary colour, (2) light, (3) rough-sur
 छाया चतुर्विधा तस्मिन् दृश्यते नात्र संशयः ।**
 
 Secondary Colours of Gems.
-
-
 
 Every gem has any of the following sub-colours (in addition to the predominant one ) :— (1) white, (2) red, (3) yellow, and (4) black. This is also the case with zercons.  
  Zercon is principally of reddish yellow colour; but it must have, in addition, any of the four sub-colours mentioned above.
@@ -6059,8 +5686,6 @@ Every gem has any of the following sub-colours (in addition to the predominant o
 
 *Zercon of highly excellent qualities*.
 
- 
-
 Such a zercon is heavy, brilliant, white, appearing to be smeared with an oily substance, soft, or very ancient (ie., one which was metamorphosed long ago into its present state, from the state of a quartz), and transparent. Such a zercon is a giver of wealth and fortune to its wearer.
 
 गोमेदस्य गुणाः ।
@@ -6069,8 +5694,6 @@ Such a zercon is heavy, brilliant, white, appearing to be smeared with an oily s
 दीपनं पाचनं रुच्यं त्वच्यं बुद्धिप्रबोधनम् ॥**
 
 Properties of zercon.
-
-
 
 Zercon cures an excess of phlegm and pittam. It is beneficial in wasting diseases and anemia. It increases the power of digestion and appetite. It is beneficial to the skin.
 
@@ -6085,8 +5708,6 @@ Zercon cures an excess of phlegm and pittam. It is beneficial in wasting disease
 
     *Vaiduryam (Oriental cat's eye and similar stones).*
 
-
-
 This stone used to be obtained from a mine close by the highest peak of the mount "Vidura", situated on the border of a country named "Kama-bhuti"(Cambodia?)  
  It appears to contain inside it a mark resembling a swinging scarf.
 
@@ -6099,8 +5720,6 @@ This stone used to be obtained from a mine close by the highest peak of the moun
 
 Vaieties of Vaidurya.
 
-
-
 This gem is of three different kinds, viz. (1) yellowish black, (2) reddish blue, and ( 3 ) white black.
 
 ( २ )
@@ -6112,8 +5731,6 @@ This gem is of three different kinds, viz. (1) yellowish black, (2) reddish blue
 
 ( 2 )
 
-
-
 Vaiduryam is of three different kinds, viz. (1) of the colour of green bamboo leaf, (2) of the colour of peacock's neck, and (3) tawny-coloured like a cats' eye.  
  Of all these Vaiduryas, those which are commendable are heavy, smooth, devoid of the general defects (referred to before ), pellucid, and transparent.
 
@@ -6124,8 +5741,6 @@ Vaiduryam is of three different kinds, viz. (1) of the colour of green bamboo le
 
 Characteristics of a good Vaiduryam.
 
- 
-
 The Vaidurya, which is blackish-white, smooth-surfaced, transparent, heavy, bright, and appears to contain inside it a mark resembling a swinging scarf, is commendable.
 
 अशस्तवैदूर्यस्य लक्षणम् ।
@@ -6134,8 +5749,6 @@ The Vaidurya, which is blackish-white, smooth-surfaced, transparent, heavy, brig
 रक्तगर्भोत्तरीयं च वैदूर्यं नैव शस्यते ॥**
 
 Characteristics of bad Vaiduryam.
-
- 
 
 A Vaidurya of the following description is not commendable :— ( 1 ) black, ( 2 ) water-coloured (3) flat- shaped, (4) light, (5) rough, and ( 6 ) containing inside it a mark resembling a swinging scarf of red colour.
 
@@ -6146,8 +5759,6 @@ A Vaidurya of the following description is not commendable :— ( 1 ) black, ( 2
 
 Test of Vaidurya.
 
-   
-
 The Vaidurya which gains in lustre, if rubbed with a touch-stone, is a genuine one.
 
 वैदूर्यस्य गुणाः ।
@@ -6156,8 +5767,6 @@ The Vaidurya which gains in lustre, if rubbed with a touch-stone, is a genuine o
 पित्तप्रधानरोगघ्नं दीपनं मलमोचनम् ॥**
 
 Properties of Vaidurya.
-
- 
 
 Vaidurya cures hemorrhage; increases knowledge, longevity, and strength; cures diseases due to an excess of pittam; excites power of digestion, and is a laxative.
 
@@ -6169,8 +5778,6 @@ Vaidurya cures hemorrhage; increases knowledge, longevity, and strength; cures d
 शुद्धमिश्रितवर्णौश्चयुक्तो वैक्रान्त उच्यते ॥
 
 VAIKRANTA (GARNET)
-
- 
 
 Vaikranta has eight or six angles and eight facets. It is smooth, heavy, and has all sorts of colour, pure or mixed,
 
@@ -6185,8 +5792,6 @@ Vaikranta has eight or six angles and eight facets. It is smooth, heavy, and has
 
 ( 1 )
 
-
-
 Vaikranta is of the following different colours:— (1) white, (2) red, (3) yellow, (4) blue, (5) pigeon-coloured, (6) green, (7) black, and (8) mixed.
 
 ( २ )
@@ -6198,8 +5803,6 @@ Vaikranta is of the following different colours:— (1) white, (2) red, (3) yell
 शेषे द्वेनिष्फले वर्ज्ये वैक्रान्तमिति सप्तधा ॥**
 
 ( 2 )
-
-
 
 Vaikranta is of the following colours :— (1) white, (2) yellow, (3) red, (4) blue, (5) pigeon-colour, (6) the colour of a peacock's neck, and (7) the colour of an emerald.  
  The black variety is beneficial to health; the yellow one is to be used in the process for manufacturing gold; the white one is to be used in the process for manufacturing silver (vide the operations of mercury in Vol I). The red variety has an all-round utility. The remaining two, viz., the blue and the pigeon-coloured varieties, are abortive, and should, therefore, be avoided.
@@ -6219,8 +5822,6 @@ Properties of Vaikranta.
 
 \(1\)
 
- 
-
 Vaikranta increases longevity, strength, complexion, nutrition, knowledge, and appetite. It removes all the three doshas and the diseases. It has almost the same properties as diamond. It makes the body as strong as iron. As a rasayanam, the white one is the best. A vaikranta, devoid of all the defects, may be used in lieu of diamond.
 
 ( २ )
@@ -6239,8 +5840,6 @@ Vaikranta increases longevity, strength, complexion, nutrition, knowledge, and a
 वज्रलक्षणसंयुक्तो दाहघातसहिष्णुस्तत् ॥**
 
 Mines of Vaikranta.
-
-
 
 Vaikranta is obtained in several parts of the world, and especially in mines situated on the north and south of the Vindhya Hills.  
  The stone is so named, only because it can cut into pieces all sorts of metals. (The root from which the word has been derived, viz. "krit," means to cut.)  
@@ -6262,12 +5861,9 @@ Purification of Vaikranta
 ** **Vaikranta is purified, if it is boiled for one day each with a solution of ksharas and salts dissolved with (1) the amlas (vegetable acids) (2) urines, and (3) decoction of kulattha, respectively.  
   It may also be purified, if boiled with a decoction of kodrava (a kind of grass-paddy).  
 
-
 द्वितीयोविधिः ।
 
 कुलत्थक्वाथसंस्विन्नो वैक्रान्तः परिशुध्यति ।
-
-
 
 **Second process.**
 
@@ -6301,8 +5897,6 @@ See Process No. III, page 194.
 *Incincration of Vaikranta.*
 
 **First process.**
-
-
 
 Vaikranta is incinerated, if it is heated by putam for eight times, after having been smeared each time with a paste made of sulphur, rubbed well with lime juice.
 
@@ -6360,8 +5954,6 @@ Incinerated garnet is to be subjected to bhavana with cow's urine mixed with a k
 
 ( 1 )
 
- 
-
 Tuber of shurana, haridra; powdered madana fruit, tankana, powdered laksha (lacinsects, ashes of vaikanta, navasara–all these are to be rubbed with decoction of mesha-shringi and made into a lump, which is to be dried, confined in a blind (or dumb) crucible, and then heated by a very strong fire. This will result in the issuing of essence which will be found in the crucible.
 
 ( २ )
@@ -6372,8 +5964,6 @@ Tuber of shurana, haridra; powdered madana fruit, tankana, powdered laksha (laci
 [^41]: "२य खण्डे ४७ पृष्ठं द्रष्टव्यम् ।"
 
 \(2\)
-
-
 
 Essence of Vaikranta can be extracted, if the ashes of vaikranta are mixed with the materials required for extraction of essence of all things (see page 47, Vol. II) and heated in a crucible.
 
@@ -6392,8 +5982,6 @@ Essence of Vaikranta can be extracted, if the ashes of vaikranta are mixed with 
 
 ( 1 )
 
-
-
 Incinerated vaikranta with one fourth its quantity of incinerated gold, taken in doses of one racti a day with a little of powered pippali, clarified butter, and powdered biranga, cures phthisis, diseases affecting the belly, anemia, fistula, piles, asthma, cough, chronic diarrhoea, cavities or ruptures in the lungs, etc. It strengthens the body as well.
 
 ( २ )
@@ -6405,8 +5993,6 @@ Incinerated vaikranta with one fourth its quantity of incinerated gold, taken in
 त्रिसप्तदिवसे नृणां गङ्गाम्भ इव पातकम् ॥**
 
 ( 2 )
-
- 
 
 Two parts of incinerated vaikranta of blue colour, one part of incinerated mercury, and three parts of incinerated mica are to be rubbed together. This medicine, taken in doses of one racti a day early in the morning, with a little of honey and clarified butter, cures, in 21 days only, all the diseases in- capable of being cured by other medicines.
 
@@ -6431,8 +6017,6 @@ Two parts of incinerated vaikranta of blue colour, one part of incinerated mercu
 
 Varieties of Sphatika (Quartz )
 
-
-
 Quartzes are of several varieties. The *mandakanti* or lack-lustre quartz grows in the forests in the Vindhya hills. They have the colour of green tendrils of asoka tree or of pomegranate seeds. The *black* variety grows in mines of sapphire in Ceylon.  
  In mines of emerald grow quartz of three different variety. All of them are very clear, transparent, and free from layers. A glare of light emerge from them. The general name for all these sphatikas is "*jyotirasa*". Of these three, the red variety is called “*rajavarta*” (see later); the bluish variety is called "*raja-maya*", and that variety which has got marks like a sacred thread upon its surface is called the "*brahma-maya*".
 
@@ -6442,8 +6026,6 @@ Quartzes are of several varieties. The *mandakanti* or lack-lustre quartz grows 
 तस्याक्षमालिकाजपाद्धत्ते कोटिगुणं फलम्
 
 Properties of Sphatika.
-
-
 
 It is neither cold nor warm. It is efficacious in pittam, inflammation, impurities of the blood, and wasting diseases. To count its beads in religious devotion is productive of much good.
 
@@ -6469,8 +6051,6 @@ Pure water, kept in a pot made of sphatika, is cool and pacifier of pittam.
 
 THE SUN-STONE AND THE MOON-STONE.
 
-
-
 The quartzes which grow in the peaks of the Himalayas are very clear and bright like the moon's rays. Of these, the variety which emits fire on the sun's rays being reflected upon it, is called the Surya-kanta (or sun's favourite). It is the best of all the gems. There is another variety of this quartz, called the Chandra-kanta (or Moon's favourite). This is also a very precious gem, and is very rare. On moon's rays being reflected upon it, drops of water of nectar-like potency are shed by it.
 
 **सूर्यकान्तस्य गुणः ।**
@@ -6479,8 +6059,6 @@ The quartzes which grow in the peaks of the Himalayas are very clear and bright 
 वातश्लेष्महरो मेध्यः पूजनाद्रवितोषकृत् ॥**
 
 Properties of Sun-stone.
-
- 
 
 The Sun-stone is warm, clear, and rasayanam (preventer and curer of senility and diseases). It pacifies an excess of vayu and kapha (phlegm), and increases memory. The planet sun (ie, its presiding Deity) is propitiated, if this stone is kept carefully.
 
@@ -6491,9 +6069,9 @@ The Sun-stone is warm, clear, and rasayanam (preventer and curer of senility and
 
 Properties of the Moon-stone.
 
+The moon-stone is cool, appearing to be smeared with oil, pacifier of racta-pittam (hemorrhage) and inflammation. It is pleasing to Siva—the Great Deity, and is a remover of the malignant influence of the planets[^100]") and misfortune
 
-
-The moon-stone is cool, appearing to be smeared with oil, pacifier of racta-pittam (hemorrhage) and inflammation. It is pleasing to Siva—the Great Deity, and is a remover of the malignant influence of the [planets](http://॑# "Properly speaking, the planets do not exert any influence, good or bad, on human destiny. What they actually do is to indicate good or bad luck to human beings (by their peculiar configuration)") and misfortune
+[^100]: "Properly speaking, the planets do not exert any influence, good or bad, on human destiny. What they actually do is to indicate good or bad luck to human beings (by their peculiar configuration
 
 .
 
@@ -6528,8 +6106,6 @@ PRAVALAM ( CORAL)
 
 Its varieties.
 
-
-
 The best of the corals is reddish-white in colour, like the blood of a hare. It is soft, with a surface appearing to be smeared with oil, beautiful, and is capable of being easily perforated. The second class of the corals is as red as red vermillion or the java, bandhuka, or pomegranate flower. Such a coral is stiff and its surface does not appear to be smeared with oil. It is difficult to be perforated. The third class in merit of the corals is yellowish-red like palasha or påtala flower. It has a beautiful colour, but very little glaze. Its surface does not appear to be smeared with oil. The fourth class of corals, which is the least meritorious, is blackish-red like the petals of a red lotus flower. It is hard and its lustre does not last for a long time. It is very difficult to be perforated.
 
 **शस्तप्रवालानां लक्षणानि ।**
@@ -6543,14 +6119,14 @@ Characteristics of good corals.
 
 **अशस्तप्रवालानां लक्षणानि ।**
 
-**पाण्डुरं धूसरं [दुष्टं](http://॑# " दुष्टमिति दोषयुक्तम् १६८ पृष्ठं द्रष्टव्यम् ।") सव्रणं कण्डरान्वितम् ।  
+**पाण्डुरं धूसरं दुष्टं[^101] सव्रणं कण्डरान्वितम् ।  
 निर्भारं शुल्ववर्णञ्च प्रवालं नेष्यतेऽष्टधा ॥**
+
+[^101]: " दुष्टमिति दोषयुक्तम् १६८ पृष्ठं द्रष्टव्यम् ।"
 
 दुष्टमिति दोषयुक्तम् १६८ पृष्ठं द्रष्टव्यम्
 
 Characteristics of bad corals.
-
-
 
 Bad corals are pale-white, grey-coloured, small, rough-surfaced, full of cavities, light, and copper-coloured.
 
@@ -6559,8 +6135,6 @@ Bad corals are pale-white, grey-coloured, small, rough-surfaced, full of cavitie
 **नायसोल्लिख्यते रत्नंमौक्तिकं विद्रुमं विना ॥**
 
 Softness of corals.
-
- 
 
 Of all the gems, only corals and pearls can be scratched upon by iron.
 
@@ -6580,8 +6154,6 @@ Properties of corals.
 
 Karketam (chrysoberyl or chrysolite).
 
- 
-
 Used internally as a drug, or externally as an article of jewellery, it brings to its user all sorts of fortune and beauty. It is an antidote against infection from taking contaminated food or association with diseased persons.
 
 **कर्केतस्य भेदाः**
@@ -6592,8 +6164,6 @@ Used internally as a drug, or externally as an article of jewellery, it brings t
                      हरणेन न तद्विभाति ॥**
 
 Varieties of karketana.
-
- 
 
 Karketanam is of the following colours :—(1) blood-red, (2) moon-white, (3) honey-coloured, (4) having a tinge of the colour of copper, (5) yellow, (6) fire-coloured, (7) blue, and (8) pure white.  
  Of these, the last two, viz. blue and pure white, are coarse and full of cracks. They cannot therefore look bright even after removal of their defects.
@@ -6622,8 +6192,6 @@ Characteristics of good karketana.
 
 Properties of karketana.
 
- 
-
 A bright karketana, if put on with a golden foil, causes the cure of diseases, does away with the possibility of troubles and anxieties, and increases longevity, children, and happiness.  
  Those who put on such a good gem acquire respect from people, riches, many friends, beauty, and good health.
 
@@ -6640,9 +6208,9 @@ A bright karketana, if put on with a golden foil, causes the cure of diseases, d
 
 PUSHPARAGA (TOPAZ).
 
+Pushpa-raga can be obtained in two different kinds of mines, viz. in mines of ruby and in those of emeralds. Pushparaga, according to king Chandra Sena, the chemist[^102]"), is yellowish, transparent, and bright like a diamond. It brings son and wealth to its wearer.
 
-
-Pushpa-raga can be obtained in two different kinds of mines, viz. in mines of ruby and in those of emeralds. Pushparaga, according to king Chandra Sena, the [chemist](http://॑# "For a brief history of Indian Chemistry, see Chapter III, page 46 of the author s book entitled Indian civilization and its Antiquity.-(Price Rs. 2. India)"), is yellowish, transparent, and bright like a diamond. It brings son and wealth to its wearer.
+[^102]: "For a brief history of Indian Chemistry, see Chapter III, page 46 of the author s book entitled Indian civilization and its Antiquity.-(Price Rs. 2. India
 
 **रज्ञान्तरेभ्यः पुष्परागस्य विभेदः ।**
 
@@ -6663,8 +6231,6 @@ Distinction of pusparaga from the other gems.
 **छाया चतुर्विधा तस्य सिता पीताऽऽसिताऽसिता ।**
 
 Sub-colours of Topazes.
-
- 
 
 They are (1) white, (2) yellow, (3) pale-white, and (4) black.
 
@@ -6697,8 +6263,6 @@ Characteristics of good Topaz.
 
 (2)
 
-
-
 A bad topaz is devoid of lustre; it is coarse, rough, yellow, black, having an undulating surface, brown or reddish brown, tawny, and pale-white.
 
 **पुष्परागस्य गुणाः ।**
@@ -6708,11 +6272,11 @@ A bad topaz is devoid of lustre; it is coarse, rough, yellow, black, having an u
 
 Properties of pushpa-raga.
 
-
-
 Pusppa-raga is efficacious in poison, nausea, excess of phlegm and vayu, loss of digestive power, inflammation, leprosy, and hemorrhage. It is easy to digest.
 
-**अथ राजावर्त्तः \।[\*](http://॑# "एष एव स्फटिकभेदः । २३६ पृष्ठं द्रष्टव्यम् ।")**  
+**अथ राजावर्त्तः \।\*[^103]**  
+
+[^103]: "एष एव स्फटिकभेदः । २३६ पृष्ठं द्रष्टव्यम् ।"
 
 **( १ )**
 
@@ -6724,8 +6288,6 @@ LAPIS LAZULI).
 
 ( 1 )
 
-
-
 The best type of this stone (which is a kind of quartz) has a blue colour with an admixture of slight red. It is heavy and smooth. Rajavartas of different description are inferior to these.
 
 ( २ )
@@ -6735,8 +6297,6 @@ The best type of this stone (which is a kind of quartz) has a blue colour with a
 **शिखिकण्ठसमसौम्यं राजावर्त्तं वदन्ति जात्यमणिम् ॥**
 
 ( 2 )
-
- 
 
 A genuine rajavarta is devoid of dirt, devoid of whiteness, smooth, blue, heavy, clear, having various sub colours, and beautiful like the neck of a pea-cock.
 
@@ -6760,8 +6320,6 @@ A genuine rajavarta is devoid of dirt, devoid of whiteness, smooth, blue, heavy,
 
 ( 2 )
 
-
-
 Rajavarta is heavy, smooth, cool, and pacifier of pittam. It brings fortune to its wearer.
 
 **राजावर्त्तस्य शोधनम् ।**
@@ -6784,8 +6342,6 @@ Purification of Rajavarta.
 
 **Second process.**
 
- 
-
 Rajavarta is purified, if it is subjected to bhavana with the juice of shirisha flower mixed with ginger juice, or if it is boiled with the same liquid.
 
 **राजावर्त्तस्य मारणम् ।**
@@ -6794,8 +6350,6 @@ Rajavarta is purified, if it is subjected to bhavana with the juice of shirisha 
 पुटनात् सप्तवारेण मृतो भवति निश्चितम् ॥**
 
 Incineration of Rajavarta.
-
- 
 
 Rajavarta is incinerated, if it is powdered and subjected to heat by putam for seven times, after having been rubbed each time with the juice of matulunga and sulphur.
 
@@ -6807,8 +6361,6 @@ Rajavarta is incinerated, if it is powdered and subjected to heat by putam for s
 ध्मापितं खदिराङ्गारैसत्त्वं मुञ्चति शोभनम् ॥**
 
 Extraction of essence of Rajavarta.
-
- 
 
 Powdered rajavarta, mixed with manas-shila, clarified butter, borax, cow's milk, cow's curd, cow's urine, and cow's stool, is to be boiled with a sufficient quantity of buffalo's milk in an iron pot and made into a lump. This is to be heated by means of a fire made of khadira wood, resulting in essence of rajavarta coming out of the lump.
 
@@ -6839,8 +6391,6 @@ The man who wears a pure bhisma-mani, obtained from the Himalayas, acquires all 
 
 Bhisma-mani, unfit for use.
 
-
-
 Bhisma-manis of the following description are to be avoided:—(1) Those which have the colour of moss ; (2) those which have the colour of the balahaka bird (a kind of crane); (3) rough, (4) yellowish, (5) devoid of lustre, (6. black-lustred, and (7) discoloured.
 
 **नीलमणेर्गुणाः** ।
@@ -6862,18 +6412,16 @@ A sapphire, duly incinerated, is a curer of asthma and cough. It is nutritious, 
 
 **विविधान्युपरत्नानि श्रेयस्तेषां तु सप्तकम् ।  
 पालङ्कंरुधिरं पूत्ति तार्क्षजं पीलु चोपलम् ॥  
-सुगन्धिकं च सप्तैतद् दामहीनानि तानि [वै](http://॑# "This should have been ineerted in page 220, after maha-nila") ।  
+सुगन्धिकं च सप्तैतद् दामहीनानि तानि वै[^104] ।  
 यत्नात् सर्वानि युज्यन्ते रसे रसायने तथा ॥**
 
-Uparatnas Amorphous stones.
+[^104]: "This should have been ineerted in page 220, after maha-nila"
 
- 
+Uparatnas Amorphous stones.
 
 There are innumerable minor or amorphous stones. The best of all these are the following:— (1) palanka (onyx), (2) rudhiram (carnelian) (3) puttika (peridote), (4) turkshajam (turquoise-biraja or peroja \*[^44]), (5) pilu (jade ) (6) upalam (opal, chalcedony, and agate), and sugandhikam (spinel).  
 
 [^44]: "The Persinan epithet "
-
-
 
 All of these are amorphous or uncrystallized in shape. They are to be incinerated carefully, and applied in mercurial operations as well as in medicines.
 
@@ -6890,7 +6438,6 @@ PALANKA (ONYX).
 
  Palanka is a black stone with a white line drawn upon it. Its surface is smooth and appears to be smeared with oil. Palanka is of three different kinds, viz. black, pale-black, and ash-coloured. Each of them has a white and rope-like line drawn upon it. Sometimes there are more than one of such white lines.  
 
-
 **अथ रुधिरम् ।**
 
 **इन्द्रगोपनिभं रक्तंशुकवक्त्रसमं रुचौ ।  
@@ -6901,8 +6448,6 @@ PALANKA (ONYX).
 पक्वमेतद् भवेद् वज्रसदृशसुन्दरच्छवि ॥**
 
 RUDHIRAM (CARNELIAN)
-
- 
 
 Rudhiram is as red as an insect, named indra- gopa (mukmuli), or the mouth of a shuka bird (a kind of parrot). The inner part of this gem is as white as the moon, and the sides have the colourof an indra-nilam. It has a pure colour, and it can be given several shapes. It has the weight of a fully grown pilu fruit. This stone, when fully developed, may take the colour of a diamond. It brings wealth and beauty to its wearer.
 
@@ -6915,8 +6460,6 @@ Rudhiram is as red as an insect, named indra- gopa (mukmuli), or the mouth of a 
 
 PUTTIKA (PERIDOTE).
 
- 
-
 Puttika is yellowish-green, and resembles emerald in colour. It is soft and bright. It can be distinguished from emerald by being rubbed with a silken cloth, which reduces its lustre, whereas an emerald becomes brighter, if rubbed in this way.
 
 **अथ तार्क्षजम् ।**
@@ -6926,9 +6469,9 @@ Puttika is yellowish-green, and resembles emerald in colour. It is soft and brig
 स्थावरं जंगमं चैव तथा संयोगजं विषम् ।  
 तत्सर्वं नाशयेत् तथा शूलं भूतादिपीड़नम् ॥**
 
-TURKHAJA (TURQUOISE-[BIRAJA](http://॑# "Originally obtained from Turkey. The Persian name peroja is a contraction of Sanskrit, “ biraja")).
+TURKHAJA (TURQUOISE-BIRAJA[^105]).
 
-
+[^105]: "Originally obtained from Turkey. The Persian name peroja is a contraction of Sanskrit, “ biraja"
 
 Turkhaja is of two kinds, viz. greenish-black, and ash-coloured green. It is astringent, sweet, and digestive. It removes all sorts of poisons, organic, or inorganic, and is efficacious in colic and troubles due to evil spirits.
 
@@ -6962,12 +6505,8 @@ PILU (JADE).
 UPALAM (CHALCEDONY, OPAL,  
 AND AGATE.)
 
-
-
 It is a general name given to three different kinds of stones, viz. marmarashman (chalcedony), baropala (opal), and rudhira-palanka (agate.)-all of these are amorphous or uncrystallized.  
  Chalcedony as well as opal has one uniform colour, but the former has no sub-colour or radiance, whereas opal has various sub-colours. Agate has several colours and several layers. It has no sub- colours, but it has variety of colours and figures impressd upon it. Chalcedony or marble stone has only one of the following colours :-White-black, smoky, green, white, etc. White variety of chalcedony is called "karpura-mani" or camphor-stone. Opal has any of the following colours :-White, bluish- white, black, red, rain-bow-colour. Each opal may have one or more of these as sub-colour.  
-
-
 
 The black variety of all the amorphous stones is called "bhramara-mani" or black-bee stone.
 
@@ -6980,8 +6519,6 @@ The black variety of all the amorphous stones is called "bhramara-mani" or black
 
 SUGANDHIKAM (SPINEL).
 
- 
-
 Sugandhikam is of various colours, viz.blue, black, red, etc. Each of these stones has a yellowish sub-colour. It is transparent, beautiful, and of the shape of a diamond. It grows in mines of rubies and emeralds
 
 **उपरत्नानां सामान्यगुणाः ।**
@@ -6993,17 +6530,9 @@ Sugandhikam is of various colours, viz.blue, black, red, etc. Each of these ston
 
 General Properties of Amorphous Stones.
 
- 
-
 The amorphous stones, if devoid of defects, are regarded to have a part of the properties of the gems (see page 195)
 
 ![](../../../books_images/1689912983.png)
-
-
-
-
-
-
 
 पञ्चमोऽध्यायः ।
 
@@ -7065,10 +6594,6 @@ In this connection, it would be amusing to note how some of the Indinn Allopaths
 
  We propose to prove elsewhere that the use of gun-powder was quite known to the Hindus even at the time of the composition of the oldest portion of the Vedas.
 
-
-
-
-
 **सामान्येन क्षाराणां गुणाः ।**
 
 **( १ )**
@@ -7088,8 +6613,6 @@ In this connection, it would be amusing to note how some of the Indinn Allopaths
 General Properties of the ksharas.
 
 ( 1 )
-
-
 
 The ksharas are acrid, warm, increasers of appetite, light, moistening, causing inflammation, reducers of phlegm, destroyers of worms, openers of boils, and cleansers and healers of sores.  
  The man who is conversant with the mercurial operations knows that ksharas give rise to hunger in mercury. The ksharas are efficacious in gulma, piles, chronic diarrhoea, diabetes, and stone disease. They are digestive and increaser of hemorrhage.
@@ -7117,8 +6640,6 @@ General Process of manufacturing kshara[^47]
 
 from ashes.
 
- 
-
 The wood, leaves, etc. of an alkaline tree, plant, etc. are to be burnt to ashes. One prastha (64 tolas) of these ashes is to be dissolved with 16 times its weight of water which is to be allowed to settle for about 12 hours. The clearest part of the solution is next to be filtered for seven times through a piece of thick cloth. The water, thus filtered, is next to be heated till the whole thing gets dried up. The white-coloured solid product is then to be taken out and kept carefully. The solution, just before it is solidified, is a liquid alkali, used for drinking (in special diseases according to directions found in Sushruta). The solid product is an alkali to be used for external application (according to the instructions given in Sushruta) and as an ingredient of medicines.
 
 **यवक्षारः ।**
@@ -7138,8 +6659,6 @@ JAVA-KSHARA
 
 Its preparation.
 
- 
-
 Ashes of the ears of barley are to be dissolved with water, which is to be filtered and condensed by heating in the afore-said way. The product is java-kshara.
 
 **अस्य गुणाः ।**
@@ -7151,8 +6670,6 @@ Ashes of the ears of barley are to be dissolved with water, which is to be filte
 ज्ञेयो वह्निसमः क्षारो नियतं यवशूकजः ॥**
 
 Its properties.
-
-
 
 Java-kshara is pungent, soft, light, capable of easily spreading through all parts of the system, digestive, laxative, discharger of urine, and pacifier of vayu and kapha. It is efficacious in the following diseases :—intestinal obstruction, chronic diarrhoea, anemia, tumour in the belly, piles, asthma, colic, enlargement of the spleen, heart diseases, and mucus.
 
@@ -7193,8 +6710,6 @@ KSHARAS OBTAINED FROM THE EARTH.
 
 .
 
-
-
 Earth, taken out from the banks of the Ganges, or any other salty earth is to be dissolved with pure water and then filtered through a piece of thick cloth. This water is next to be kept in an earthen pot for about 12 hours to settle. The clear- est part of the solution is then to be taken out and heated till it gets condensed. The product, which is of white colour, is then to be taken out. It is called ushara or sora. It is the same thing as ushara shilajatu ( vide page 101, Vol. II).
 
 **अस्य नामानि ।**
@@ -7220,8 +6735,6 @@ Its names.
 
 Its properties.
 
-
-
 Ushara is a pacifier of vayu. It is moistening, destroyer of strength, increaser of appetite, laxative, soft, easily capable of spreading throughout the whole system, a little increaser of pittam, light, increaser of laugh, disgestive, and purifier of elching winds.  
  It is also efficacious in the following:—constipation, intestinal obstruction, colic, gulma, mucus, worms, and, especially, wind moving upwards.
 
@@ -7233,8 +6746,6 @@ Ushara is a pacifier of vayu. It is moistening, destroyer of strength, increaser
 स्वर्जिना सहितं चेत्थं तृणभस्म विमिश्र्यते ॥**
 
 Mixed kshara.
-
-
 
 Manufacturers of kshara sometimes mix with the mud, referred to above, a sufficient quantity of ashes of grass in order to increase the quantity of the kshara to be produced. The distilled solution of mud and ashes is to be heated, and condensed into a mixed kshara, in the manner described above.
 
@@ -7249,16 +6760,16 @@ Manufacturers of kshara sometimes mix with the mud, referred to above, a suffici
 
 केषुचिद्गिरिपृष्ठेषु भूतले वा तदन्तिके ।  
 दृश्यते क्षारमृत्पूर्णभूस्तरं भूरिमानतः ॥  
-[स्वर्जिमृत्](http://॑# "सानिमादीति भाषा ।") कथ्यते तच्च क्षारेतरपदार्थयुक् ।  
+स्वर्जिमृत्[^106] कथ्यते तच्च क्षारेतरपदार्थयुक् ।  
 संगृह्य मृत्तिकां तां च मृत्पात्रे स्थापयेत् ततः ॥  
 चतुर्गुणजलेनैव मृत्तिकां तां विलोड़येत् ।  
 तन्नीरं स्रावयेद् यत्नाद्बहुशः पृथुवाससा ॥  
 पूर्वेनोक्तप्रकारेण क्वाथयेत् तज्जलं ततः ।  
 इत्थं संजायते क्षारः स्वजिकाह्वोमनोहरः ॥
 
+[^106]: "सानिमादीति भाषा ।"
+
 \(2\) SWARJI KSHARA (REFINED NATRON).
-
-
 
 In certain hills or in places adjacent to hills, layers of alkaline soil are to be found in abundance. This soil is called swarji-mrit (natron). It contains alkaline mud with foreign matters. Some quantity of this earth is to be dissolved with four times its weight of water. The solution is next to be distilled for several times through a piece of thick cloth. The solution, thus distilled, is next to be heated and condensed into solid alkaline substance, called swarji-kashara.
 
@@ -7271,8 +6782,6 @@ In certain hills or in places adjacent to hills, layers of alkaline soil are to 
 
 Its properties.
 
- 
-
 Swarji, like java-kshara, has the properties of fire. It is pungent, warm, and acrid. It pacifies kapha, and vayu, and is efficacious in gulma, flatu- lence of the stomatch, diseases of the belly, boils, worms, asthma, intestinal obstruction, enlargement of the spleen and the liver. It impairs semen.
 
 **कृत्रिमस्वर्जिक्षारः ।**
@@ -7281,8 +6790,6 @@ Swarji, like java-kshara, has the properties of fire. It is pungent, warm, and a
 स्वर्ज्यभावे प्रदातव्यो भेषजेषु कवीश्वरैः ॥**
 
 Artificial swarji-kshara.
-
-
 
 In the absense of swarji-kshara, as manufactured in the way stated above, physicians sometimes use, as its substitute, a kshara prepared from the ashes of duralabha or small duralabha.\*[^49]
 
@@ -7300,8 +6807,6 @@ In the absense of swarji-kshara, as manufactured in the way stated above, physic
 [^50]: "दाम्नासह वर्त्तमानं सदाम । दामन दाना इति भाषा ।"
 
 \(3\) TANKANA (BORAX ).
-
- 
 
 A kind of mud containing borax is found in the beds of dried lakes (in upper India and Tibet). This mud is called 'tankal'. It is to be dissolved with water, filtered in the usual way, and dried up by heat, leaving crystals of borax deposited at the bottom of the pot.
 
@@ -7322,8 +6827,6 @@ A kind of mud containing borax is found in the beds of dried lakes (in upper Ind
 
 Varieties of tankana.
 
- 
-
 Tankana is of two kinds, viz. pinda (lump) tankana, and crystal tankana. The former is not pure white, whereas the latter is pure white.
 
 **टंकनस्य गुणाः ।**
@@ -7337,8 +6840,6 @@ Tankana is of two kinds, viz. pinda (lump) tankana, and crystal tankana. The for
 
 Properties of tankana.
 
-
-
 Lump tankana is pungent, warm, rough, increaser of digestive power, destroyer of kapha, and increaser of vayu and pittam. It is efficacious in cough, asthma, dismenorrhoea, and inorganic poison, It is inferior to crystal tankana.
 
  White or crystal tankana is pungent, warm, soft, acrid, white, laxative, strengthening, digestive, destroyer of kapha and vayu, and efficacious in waste, mucus, and poison.
@@ -7350,8 +6851,6 @@ Lump tankana is pungent, warm, rough, increaser of digestive power, destroyer of
 **टंकनं वह्नियोगेन स्फुटितं हि विशुध्यति ॥**
 
 Purification of tankana.
-
- 
 
 Tankana is purified, if it is made to burst into white ashes by the application of heat.
 
@@ -7374,7 +6873,9 @@ Two kinds of ksharas–liquid and solid.
 
 **प्रतिसार्यक्षारस्य विषयाः ।**
 
-**कुष्ठ-किठिमदद्रुकिलासमण्डल-भगन्दरार्बुददुष्टव्रणनाड़ी-चर्मकीलतिलकालकन्यच्छ-व्यङ्गमशकबाह्यबिद्रधिकृमिविषार्शःसूपदिश्यते सप्तषु च मुखरोगेषूपजिह्वाधिजिह्वोपकुशदन्तवैदर्भेषु रोहिणीषु चैवानुशस्त्रप्रणिधानमुक्तम् ।[\*](http://॑# " विस्तरार्थं सुश्रुतस्य सूत्रस्थाने एकादशोध्यायस्तथा उत्तरतन्त्रे द्विचत्वारिंशोध्यायो द्रष्टव्यः ।")**
+**कुष्ठ-किठिमदद्रुकिलासमण्डल-भगन्दरार्बुददुष्टव्रणनाड़ी-चर्मकीलतिलकालकन्यच्छ-व्यङ्गमशकबाह्यबिद्रधिकृमिविषार्शःसूपदिश्यते सप्तषु च मुखरोगेषूपजिह्वाधिजिह्वोपकुशदन्तवैदर्भेषु रोहिणीषु चैवानुशस्त्रप्रणिधानमुक्तम् ।\*[^107]**
+
+[^107]: " विस्तरार्थं सुश्रुतस्य सूत्रस्थाने एकादशोध्यायस्तथा उत्तरतन्त्रे द्विचत्वारिंशोध्यायो द्रष्टव्यः ।"
 
 **  
 
@@ -7404,23 +6905,21 @@ Use of liquid Kshara.
 
  Process of preparing swarva-kshara.
 
- 
-
 A middle-aged black mokshaka tree growing in a valley of a mountain is to be cut into pieces, sometime in the two months following the rains, and kept in a heap in a place protected from drafts of air. Some lime stone (or balls of lime-mud dried up, generally known by the name of "ghuting") is also to be kept inside the heap of wood, which isto be burnt by fire made of sesamus plant. The ashes of the wood are then to be separated from the burnt limestone, as well as from the burnt soil upon which the act of burning takes place.
 
  In the same way, ashes will have to be prepared from the following trees (or plants, as the case may be):—kutaja, palasha, asva-karna (a kind of shala), paribhadra, bibhitaki, aragbadha, lodhra, arka, snuhi, apamarga, patali, bisha-karanja, basaka, kadali, chitraka, putika (rama-karpura), kutaja, asphota (bhadra-balli[^52]), karabira, saptaparni, agni- mantha, gunja, and four kinds of ghosha (including deva-dali).
 
 [^52]: "Bengali, "
 
-
-
 Two thirds of a drona of the ghanta-patali kshara and one third of a drona of the kshara pre- pared from kutaja and the other trees, referred to above, are to be dissolved with water or cow's urine, six dronas in weight, and filtered for 21 times. The solution is next to be subjected to heat till it becomes clear, red, acrid, and sticky, when it will have to be filtered again, rejecting the dregs. The solution, thus filtered, may be used as a liquid kshara, if necessary.
 
  Take one kuraba or 1₂¹ kuraba of this solution, and rub it with 8 palas of all these combined:—burnt lime, burnt sand obtained from the spot where the wood was burnt, oyster shells burnt, and nabhishankha (a kind of conch shell)—each equal in quantity, and previously made red-hot by heating in an ironcauldron. The paste, thus prepared, is to be boiled with two dronas of the liquid kshara, referred to above, turning it, all the while, by an iron ladle in such a way as to make the product neither solid nor liquid. The kshara, thus prepared, is of moderate strength. It would be mild, if prepared in the above way without the mixture of the paste, referred to above. It can be rendered the strongest, if prepared with the addition of four tolas in weight of the fine powder of each of the following, mixed in course of the heating:— danti, dravanti, chitraka, langalaki, leaves of nata-karanja, tala-muli, bira-salt, swarji-kshara, swarna-kshiri, hingu, bacha, and ati-visha.
 
- These ksharas are to be kept in jars with their mouths covered[.\*](http://॑# "For details see, Chapter XI, Sutra-sthanam, and XXXXII, uttaratantra, Sushruta.")
+ These ksharas are to be kept in jars with their mouths covered.\*[^108]
 
 **क्षारद्वयम् ।**
+
+[^108]: "For details see, Chapter XI, Sutra-sthanam, and XXXXII, uttaratantra, Sushruta."
 
 **स्वर्जिका यावशूकश्च क्षारद्वयमुदाहृतम् ।**
 
@@ -7432,25 +6931,15 @@ Two thirds of a drona of the ghanta-patali kshara and one third of a drona of th
 
 The two ksharas.
 
-
-
 Swarjika and java-kshara combined are called the two ksharas.
 
 The eight ksharas.
-
-
 
 The following eight are called the eight ksharas :—ksharas prepared from (1) palasha, (2) snuhi, (3) apamarga, (4) chincha, (5) arka, (6) tila plant, (7) ears of barley and (8) swarji kshara.
 
  These are like fire and are curer of gulma and colic.
 
-
-
 ![](../../../books_images/1689912810.png)
-
-
-
-
 
 **षष्ठोऽध्यायः ।**
 
@@ -7464,8 +6953,6 @@ CHAPTER VI.
 
 Lavanas (salts).
 
- 
-
 There are six different kinds of salts, viz. (1) samudra (marine), (2) saindhava (rock-salt found in the Punjab and sind), (3) bira (an artificial salt), (4) sauvarchala (salt-petre), (5) romaka (salt obtained from the lake, sambar, in Rajputana), and (6) chulika. (nava-sara or sal-ammoniac).
 
 **सामान्येन लवणानां गुणाः ।**
@@ -7476,8 +6963,6 @@ There are six different kinds of salts, viz. (1) samudra (marine), (2) saindhava
 
 Properties of salts in general.
 
- 
-
 Salt is purifier, increaser of relish in food, digestive, increaser of kapha and pitta, destroyer of manliness and of vayu. It slackens and softens the body, impairs strength, induces shedding of water through the mouth, and causes inflammation in the cheeck and the neck.
 
 **अतियुक्तस्य लवणस्य गुणाः ।**
@@ -7486,8 +6971,6 @@ Salt is purifier, increaser of relish in food, digestive, increaser of kapha and
 बलीपलितखालित्यकुष्ठविसर्पतृट्प्रदः ॥**
 
 Properties of salt taken in excess.
-
-  
 
 Salt, taken in excess, causes opthalmia, ractapitta, intestinal ulcer, falling off of teeth, greyness of hair, baldness, leprosy, erysipelaus, and thirst.
 
@@ -7498,8 +6981,6 @@ Salt, taken in excess, causes opthalmia, ractapitta, intestinal ulcer, falling o
 क्षारगुणयुतं कफपित्तकृद् वायुनाशनम् ॥**
 
 \(1\) SAMUDRA LAVANA (SEA SALT).
-
- 
 
 It is digestive, acrid, light, increaser of appetite, laxative, having some of the properties of alkalis, increaser of kapha and pitta, and pacifier of vayu.
 
@@ -7514,8 +6995,6 @@ It is digestive, acrid, light, increaser of appetite, laxative, having some of t
 [^53]: "शीतशिवमिति शीतं शीतवीर्यं शिवं लवणमिति । सर्वेषां लवणानां मध्ये केवलं सैन्धवं शीतवीर्य्यम् ।"
 
 \(2\) SAINDHAVA (ROCK SALT)
-
-
 
 Saindhava is a rock-salt found in the sind and the Punjab. It is digestive, producing a cooling effect in the system, saltish-sweet in taste, light, soft, increaser of power of digestion and liking for food, beneficial to eye-sight, increaser of semen, pacifier of the three doshas, capable of entering everywhere into the system, and destroyer of constipation and boils.
 
@@ -7536,15 +7015,11 @@ Saindhava is a rock-salt found in the sind and the Punjab. It is digestive, prod
 
 \(3\) BIRA (AN ARTIFICIAL SALT).
 
- 
-
 Bira is saline in taste, warm in its effect on the system, acrid, alkaline, light, digestive, coarse, increaser of appetite, causing nausea, pacifier of kapha and vayu, increaser of pittam, and laxative. It is efficacious in colic, indigestion, constipation, flatulence, intestinal obstruction, abdominal tumour, heaviness of the heart, and spermatorrhoea.
 
 **विड़लवणस्य निर्माणम् ।**
 
 **प्रथमोविधिः**
-
-
 
 **द्व्यधिकाशीतिभागाश्च सामुद्रलवणस्य वै ।  
 पथ्यामलकस्वर्जीनां ग्राह्योभागो पृथक् पृथक् ॥  
@@ -7592,13 +7067,13 @@ It is the same as ushara kshara or salt-petre. It is both an alkali and a salt. 
 
 Preparation of artificial sauvarchala.
 
-
-
 An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to be mixed together and dissolved with water in an earthen vessel which is to be heated strongly till the solution melts well and then dried up. The heat is to be continued for some time after the drying up of the product.
 
  The product may be used as sauvarchala salt, and not as sauvarchala kshara.(N.B.—The salt, thus prepared, may be used in lieu of salt-petre, where the emphasis is laid on the word 'salt', but where there is a stress on the word "kshara", only salt-petre, and not its substitute, should be used.)
 
-**(५) [रोमकम्](http://॑# "रोमः गर्त्तंजलाशयइत्यर्थः तस्मात् जायते इति रोमकम् ।") ।**
+**(५) रोमकम्[^109] ।**
+
+[^109]: "रोमः गर्त्तंजलाशयइत्यर्थः तस्मात् जायते इति रोमकम् ।"
 
 **अस्य नामानि ।**
 
@@ -7619,9 +7094,11 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 
 [^55]: "लोतमिति लवणम् ।"
 
-\(4\) SAUVARCHALA (SALT-PETRE).
+[^55]: "लोतमिति लवणम् ।"
 
- 
+[^55]: "लोतमिति लवणम् ।"
+
+\(4\) SAUVARCHALA (SALT-PETRE).
 
 It is the same as ushara kshara or salt-petre. It is both an alkali and a salt. For the preparation of salt-petre, see page 268.
 
@@ -7638,8 +7115,6 @@ It is the same as ushara kshara or salt-petre. It is both an alkali and a salt. 
 
 Preparation of artificial sauvarchala.
 
- 
-
 An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to be mixed together and dissolved with water in an earthen vessel which is to be heated strongly till the solution melts well and then dried up. The heat is to be continued for some time after the drying up of the product.
 
  The product may be used as sauvarchala salt, and not as sauvarchala kshara. (N.B.—The salt, thus prepared, may be used in lieu of salt-petre, where the emphasis is laid on the word 'salt', but where there is a stress on the word “kshara", only salt-petre, and not its substitute, should be used.)
@@ -7647,8 +7122,6 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 **(५) रोमकम्[^56] ।**
 
 [^56]: "रोमः गर्त्तंजलाशयइत्यर्थः तस्मात् जायते इति रोमकम् ।"
-
-
 
 **अस्य नामानि ।**
 
@@ -7669,9 +7142,11 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 
 [^55]: "लोतमिति लवणम् ।"
 
-\(5\) ROMAKA (SAMBAR-SALT.)
+[^55]: "लोतमिति लवणम् ।"
 
- 
+[^55]: "लोतमिति लवणम् ।"
+
+\(5\) ROMAKA (SAMBAR-SALT.)
 
 In the province of Jayapura (in Rajputana), there is a salt-water lake, named Shakambhara, now called Sambar. Its water is as saline as sea-water. The salt, produced from the water of this lake, is called "romaka". In ancient times, a river named "Romavati" (now extinct) flowed from this lake. The salt which was produced from the water of this river was also called 'romaka' salt. In the vicinity of this lake, there was, in ancient times, a famous town, called 'Roma'. It was perhaps located somewhere near the modern town of Jaypore (built by king Jaysinha). There is another town in the neighbourhood, named Ambar, which is a corrupted form of Sambar (the modern name of the lake).
 
@@ -7682,8 +7157,6 @@ In the province of Jayapura (in Rajputana), there is a salt-water lake, named Sh
 अभिष्यन्दि तथा सूक्ष्ममर्शोनुद्वायुनाशनम् ॥**
 
 Its properties.
-
-
 
 Romaka or sambara salt is bitter, pungent, and saline. It is acrid, warm, light, digestive, and laxative. It gives rise to pittam, inflammation, and waste. It helps the emission of phlegm (through nostrils and eyes). It is capable of passing even through the finest and minutest passages of the system, and is a pacifier of vayu.
 
@@ -7701,7 +7174,6 @@ It is the same as nava-sara (or sal-ammoniac[^59]).
 
 [^59]: "See page 215, Vol. II, and page 262 Vol. III."
 
-
 **सप्तमोऽध्यायः ।**
 
 **अथ विषाणि ।**
@@ -7714,8 +7186,6 @@ It is the same as nava-sara (or sal-ammoniac[^59]).
 CHAPTER VII.
 
 Poisons.
-
-
 
 Poisons are of three kinds, viz. inorganic, organic, and artificial. The first is of ten different kinds, and the second of sixteen. The third is toxin arising mainly out of the eating together of different kinds of food-stuff which are not compatible with. one another (e.g. milk and fish or meat ; milk and sour things, etc.).
 
@@ -7740,8 +7210,6 @@ Poisons are of three kinds, viz. inorganic, organic, and artificial. The first i
 
 INORGANIC POISON.
 
- 
-
 Inorganic poisons are of ten different forms, viz.(1) roots, (2) leaves, (3) fruits, (4) flowers, (5) barks, (6) milk of plants or tree, (7) wood (8) exudations, (9) metals, and ( 10 ) tubers.
 
  Of these, poisons in the form of tubers are the best. Such poisons are of eighteen different kinds, viz. (1) saktuka, (2) mustaka, (3) shringi, (4) baluka, (5) sarshapa, (6) batsa-nabha, (7) kurma, (8) sweta-shringi, (9) kalakuta, (10) mesha-shringi, (11) halahala, (12) dardura, ( 13 ) karkata, (14) markata, (1) granthi, ( 16 ) haridra, ( 17 ) racta-shringa, and (18) keshara.
@@ -7762,8 +7230,6 @@ Inorganic poisons are of ten different forms, viz.(1) roots, (2) leaves, (3) fru
 Descriptions of tuber poisons.  
 (1) Saktuka.
 
-
-
 Saktuka or pundarika is that kind of poisonous tuber, the interior of which appears to be made of saktu (dried and powdered barley), and is of white colour. The tuber itself is as attractive as that of a lily. It gives the appearance of saktu (dried and powdered barley) when pestled well. The poison acts very swiftly and is very strong.
 
 **(२) मुस्तकम् ।**
@@ -7771,8 +7237,6 @@ Saktuka or pundarika is that kind of poisonous tuber, the interior of which appe
 **ह्रस्ववेगं च रोगघ्नंमुस्तकं मुस्तकाकृति ।**
 
 \(2\) Mustaka.
-
- 
 
 Mustaka poison is slow in action. It cures diseases and has the appearance of mustaka (cyperus rotandas).
 
@@ -7783,11 +7247,7 @@ Mustaka poison is slow in action. It cures diseases and has the appearance of mu
 
 \(3\) Shringi.
 
- 
-
 This poisonous tuber, if tied up with the horns of a cow, makes it yield milk of blood-red colour. This tuber is of a blackish-tawny colour.
-
-
 
 **(४) वालुकम् (सैकतम् ) ।**
 
@@ -7795,8 +7255,6 @@ This poisonous tuber, if tied up with the horns of a cow, makes it yield milk of
 सिकताभिरिवापूर्णो ग्रन्थिरस्य बुधैर्मतः ॥**
 
 \(4\) Baluka (saikata).
-
-
 
 Baluka tuber appears to have its inner part filled with sand, as it were. It cures fever and other diseases.
 
@@ -7808,20 +7266,18 @@ Baluka tuber appears to have its inner part filled with sand, as it were. It cur
 
 \(5\) Sarshapa.
 
- 
-
 Sarshapa tuber is yellow in colour, and is a curer of fever. It has got hair-like shoots which only are poisonous. The holes or pores where these hair-like shoots grow, are full of particles having the appearance of mustard seeds. Some of these particles are big, and the rest are small. Some of them are white, whereas the others are yellow. The tuber itself is, therefore, very attractive to look at.
 
 **(६) वत्सनाभः ।**
-
-
 
 **(क)**
 
 **वत्सनाभिनिभः कन्दो न दीर्घः पञ्चकाङ्गुलात् ।  
 स्थूलतरो न गोस्तनाद द्विविधो वत्सनाभकः ॥  
-आशुकारी लघु [स्त्यागी](http://॑# "* त्यागीति मलादेरेचकः ।") शुक्लः कृष्णोऽन्यथा भवेत् ।  
+आशुकारी लघु स्त्यागी[^110] शुक्लः कृष्णोऽन्यथा भवेत् ।  
 प्रयोज्यो रोगहरणे वत्सनाभिद्वयं मतम् ॥**
+
+[^110]: "* त्यागीति मलादेरेचकः ।"
 
 **(ख)**
 
@@ -7830,13 +7286,9 @@ Sarshapa tuber is yellow in colour, and is a curer of fever. It has got hair-lik
 
 \(6\) Batsa-nabha (aconite).
 
- 
-
 The tuber, named batsa-nabha, has the appearance of a cow's udder. It is not more than five angulis in length; neither is it thicker than cow's udder. It is of two varieties, viz. white and black. The first variety is swift in its action, light, and laxative. The black variety possesses opposite properties. Both the varieties are used in medicines as well as in rasayana.
 
 \(b\)
-
- 
 
 Batsa-nabha (or aconite) has the colour of nirgundi leaves. It resembles the navel of a calf.Trees and plants growing around it do not thrive at all. It is pale-white in colour.
 
@@ -7851,8 +7303,6 @@ Batsa-nabha (or aconite) has the colour of nirgundi leaves. It resembles the nav
 
 Properties of Aconite.
 
-
-
 Aconite is bitter and pungent. It causes perspiration and discharge of urine. It is digestive, remover of pain, causing depression, and curer of colic and pain due to percussion. It is efficacious in erysipelas, diseases due to an excess of kapha and vayu, fever due to an excess of the three doshas, rheumatism, and heart disease.
 
 **(७) कूर्म्मः।**
@@ -7860,8 +7310,6 @@ Aconite is bitter and pungent. It causes perspiration and discharge of urine. It
 **कूर्मवद् दृश्यते यत्तु तत् कूर्म इति भाषितम् ।**
 
 \(7\) Kurma.
-
- 
 
 The tuber poison, which resembles a tortoise in appearance, is called kurma.
 
@@ -7890,14 +7338,14 @@ The tuber poison, which resembles a tortoise in appearance, is called kurma.
 
  The tuber of this tree is globular and black, like a lime fruit. This tuber is so strongly poisonous that even its odour is sufficient to take away the life of a human being. This tree grows in the provinces, named "shringabera," "Konkan" and the "malaya" hills in the Deccan.
 
-**(१०) [मेषशृङ्गी](http://॑# "मेषशृङ्गाख्यंविषदोषहीनं द्रव्यान्तरं वर्त्तते ।") ।**
+**(१०) मेषशृङ्गी[^111] ।**
+
+[^111]: "मेषशृङ्गाख्यंविषदोषहीनं द्रव्यान्तरं वर्त्तते ।"
 
 **आविकशृङ्गतुल्यो यो मेषशृङ्गी स कथ्यते ।  
 किमिव तद् दुग्धं रञ्जयति गवां खलु ॥**
 
 \(10\) Mesha-shringi.
-
- 
 
 It resembles a ram's horn in appearance. It also makes a cow yield milk of blood-red colour, if it is tied up with its horns.
 
@@ -7912,20 +7360,18 @@ It resembles a ram's horn in appearance. It also makes a cow yield milk of blood
 
 \(11\) Halahala.
 
- 
-
 The tree named 'halahala' has fruits like cow's udder. The bunch of its fruits has the appearance of an umbrella made of palm leaves. No tree, plant, etc. grows in the vicinity of this poison tree. It grows generally in kiskindhya, the Himalayas, the south-sea coast, and kankana. Its tuber has the appearance of the tuber of atibisha. The halahala tuber is blue inside and white in the outside.
 
 **(१२) दार्दूरम् ।**
 
-**दर्दूराख्ये गिरौ यत्तु जायते [मलयान्तिके](http://॑# " मलयाचलसन्निधौ दर्दूरनामा गिरिरस्ति । तथा हि— स्तनाविव दिशस्तस्याः शैलौ मलयदर्दूरौ [ रघुवंशम् ४।५१] ।") ।  
+**दर्दूराख्ये गिरौ यत्तु जायते मलयान्तिके[^112] ।  
 दार्दूरं कथ्यते तद्धि ब्रह्मपुत्रश्च कर्दमम् ॥  
 वर्णेन कपिलं तच्च कर्दमसंनिभं तथा ।  
 दर्दूरे मलये चापि जायते तद्विषोल्वणम् ॥**
 
+[^112]: " मलयाचलसन्निधौ दर्दूरनामा गिरिरस्ति । तथा हि— स्तनाविव दिशस्तस्याः शैलौ मलयदर्दूरौ [ रघुवंशम् ४।५१] ।"
+
 \(12\) Dardura.
-
-
 
 It grows in the hill named Dardura' situated near the Malaya mountain. It is also called brahma-putra and kardama. It is tawny in colour and is like mud in appearance. It is strongly poisonous and grows in the Dardura and the Malaya hills.
 
@@ -7968,8 +7414,6 @@ The tuber of granthi plant has knots like those found in tubers of turmeric. It 
 
 \(16\) Haridra or vairata.
 
- 
-
 The tuber of this plant is like that of turmeric. It is also called "vairata", simply because it grows mainly in the province of Virata. Both the extremities of this tuber are well-rounded. It is broad-shaped, and is yellow inside. It has a fine skin or covering. Each of the parts of this tuber between one knot and the nearest is smooth or appearing to be smeared with oil. This tuber (like saktuka) resembles, when pestled and made into a paste, shaktu or fried and powdered barley.
 
 **(१७) रक्तशृङ्गी ।**
@@ -7978,8 +7422,6 @@ The tuber of this plant is like that of turmeric. It is also called "vairata", s
 लघुर्गोस्तनवत्कन्दो रक्तशृङ्गीति तद्विषम् ॥**
 
 \(17\) Racta-shringi.
-
-
 
 This tuber, if thrown upon the horns of a cow, causes the shed of blood through its nostrils. This tuber is light in weight and has the appearance of cow's udder.
 
@@ -8010,11 +7452,7 @@ It has the appearance of a dried ginger tuber, kept in the midst of filaments or
 चिकित्सा द्वितयी झेया व्याधीनां जरसस्तथा ।  
 जराव्याधिविनाशिनी चिकित्सा हि रसायनम् ॥
 
-
-
 Use of tuber-poisons.
-
-
 
 The ten kinds of poisons beginning with kala-kuta may be used sometimes for the purposes of metallurgy, preparation of poison, and kshema operations or alchemy[^62]; but they should never be used in medicines of any kind.
 
@@ -8120,12 +7558,9 @@ Special Troubles due to inorganic poison,
 Troubles due to a sudden entrance of poison into  
 the system.
 
-
-
 Eight different stages follow the entrance of poison into a human system. In the first stage, there is a discoloration of the skin; in the second, there is shivering ; in the third, inflammation ; in the fourth, disfigurement of the whole body; in the fifth, coming out of froth from the mouth; in the sixth, breaking of the shoulders; in the seventh, loss of movement of the limbs; and the eighth stage is the stage of death.
 
  Having regard to all these, a physician should treat the patient.  
-
 
 **विषजविकारस्य चिकित्सा ।**
 
@@ -8142,8 +7577,6 @@ Eight different stages follow the entrance of poison into a human system. In the
 
 ( 1 )
 
-
-
 On the entrance of poison into a human system, the patient is to be made to vomit. He is to drink goat's milk so long as he does not commence vomitting. Then he is to continue drinking the same milk after each act of vomiting, till the vomiting stops altogether. The strength of the poison is to be considered nullified as soon as the drinking of goat's milk is followed no more by vomiting. In other words, no more milk is to be drunk by the patient when it is found that the last draft of milk is not vomited out.
 
 **( २ )**
@@ -8157,8 +7590,6 @@ On the entrance of poison into a human system, the patient is to be made to vomi
 
 \(2\)
 
-
-
 Poison, taken in an excessive quantity, should be remedied at once. The patient is first of all to be made to vomit till he vomits pittam (or bile). The vomitting is to be effected by means of drinking goat's milk ; or water mixed with powdered raji (rye seeds) and saindhava salt; or madana fruit pestled with water; or water with which fish has been washed off. After vomiting, the patient is to be purged till kapha or mucus comes out without stool. He is next to drink some cow's ghrita (clarified butter), which is a destroyer of poison and giver of vitality.
 
 **( ३ )**
@@ -8171,16 +7602,16 @@ Poison, taken in an excessive quantity, should be remedied at once. The patient 
 
 \(3\)
 
-
-
 The following may be used for the purpose of destroying poison:— (a) drinking of the juices of turmeric tuber and meghanada (tanduliya) ; or (b) gandha-nakuli or tankana, mixed with clarified butter; or (c) kernel of the fruit of putranjiva, drunk with lemon juice, and the same pestled with water and used as a plaster upon the skin and as a collyrium for the eyes.
 
 **( ४ )**
 
-**जातीनीलीश्वरीसिन्धुकाकमाच्यद्रिकर्णिका[\*](http://॑# "* ईश्वरीति ईश्वरीमूलं ईशेर मूल इति भाषा ।")  
+**जातीनीलीश्वरीसिन्धुकाकमाच्यद्रिकर्णिका\*[^113]  
 त्रिफला करवीरं च कुष्ठं मधुकजीरकम् ॥  
 क्षीरवृक्षत्वगेलेति विषघ्नोऽयं गणः स्मृतः ।  
 विषघ्नं गोघृतं चैव माङ्गल्यं जीवनं स्मृतम् ॥**
+
+[^113]: "* ईश्वरीति ईश्वरीमूलं ईशेर मूल इति भाषा ।"
 
 \(4\)
 
@@ -8193,8 +7624,6 @@ The following may be used for the purpose of destroying poison:— (a) drinking 
 आगारधूममञ्जिष्टायष्ट्याख्यैश्च समन्वितम् ॥**
 
 \(5\)
-
-
 
 If poison is taken in excess, cow's ghrita (clarified butter), mixed with bhargi, dadhi (curd), vajra-kshara (kshara prepared from snuhi plant), anantamula, tanduliya, soot (smoke condensed), manjista, and jastimadhu, should be swallowed by the patient.
 
@@ -8227,11 +7656,7 @@ Merits of good poisons.
 
 How tuber-poison is to be procured.
 
- 
-
 Tuber poisons (of course, only those of them which are commendable) are to be taken out only when their fruits have ripened; when they are still fresh and heavy; and have not yet been deteriorated by such antipoisonous agencies as wind, etc. Thus procured, they are to be kept wrapped up in clothes saturated with the oil of red mustard seeds.
-
-
 
 **कन्दविषस्य शोधनम् ।**
 
@@ -8255,8 +7680,6 @@ Purification of tuber poisons.
 
 **Second process.**
 
- 
-
 Tuber poisons of beneficial nature are purified, if they are boiled, by means of a Dola-Jantram, with decootion of triphala and goats' milk, for 24 hours at a stretch.
 
 **तृतीयोविधिः ।**
@@ -8275,8 +7698,6 @@ Tuber poisons of beneficial nature are purified, if they are boiled, by means of
 
 Killing of tuber poison.
 
-
-
 Purified tuber poison is killed, if it is rubbed with an equal quantity of tankana. It may then be used in medicines without producing any disturbance in the system.
 
 **विषसेवने पात्रापात्रम् ।**
@@ -8291,8 +7712,6 @@ Purified tuber poison is killed, if it is rubbed with an equal quantity of tanka
 आचार्येणतु भोक्तव्यं शिष्यप्रत्ययकारणात् ॥**
 
 Persons fit to take poison.
-
-
 
 Purified poison, which is an increaser of the properties of materials with which it is taken internally, should be used as an ingredient of medicines, meant for the cure of diseases only and of those meant for the cure and prevention of disease and senility. It may be applied in all sorts of diseases to one who takes clarified butter, salutary diet, milk, and observes the rules and regulations prescribed for taking a rasayanam.
 
@@ -8319,15 +7738,13 @@ Purified poison, which is an increaser of the properties of materials with which
 
 Directions for taking poison.
 
-
-
 One who wants to take poison as a medicine should take, first of all, a decoction of aswa-gandha, gojihva, and triphala, mixed with mercury (either incinerated or in a state of compound with sulphur), and should commence taking poison from the next day. One who takes poison should observe the following directions during the period he takes the poison :—(1) He should abstain from sexual intercourse ; (2) should take his diet without any pertur- bation of the mind; ( 3 ) should take cow's milk and clarified butter, with rice of shali paddy ; (4) should drink cold water, meat of jangala animals, goat's blood, madgura fish, sugar, honey, and milk–everything cold ; and (5) whatever he should take should be salutary according to the Ayurveda.
 
  The man who wishes to prevent or cure diseases as well as senility may take poison every day (in doses to be described below). Such a man should be of pure character, and should have previously refined his system by drinking clarified butter and taking salutary diet. Poison should be taken in the winter and spring. In cases of emergency, it may also be taken in summer, but should never be taken in the rainy season and in a bad weather.
 
 **विषभक्षणे मात्रा ।**
 
-**[आरोटं](http://॑# "आरोटमिति सुशोधितम् ।")भक्षयेत् पुण्यं विषं सर्षपमात्रकम् ।  
+**आरोटं[^114]भक्षयेत् पुण्यं विषं सर्षपमात्रकम् ।  
 प्रथमे दिवसे पश्चाद् द्वितीयादौ द्विसर्षपम् ॥  
 पञ्चमे दिवसे विषं भक्षयेत् सर्षपत्रयम् ।  
 षट्सप्ताष्टदिनेऽप्येवं नवमे वेदसंख्यया ॥  
@@ -8339,17 +7756,19 @@ One who wants to take poison as a medicine should take, first of all, a decoctio
 षण्मासस्य प्रयोगेण कामरूपो भवेन्नरः ॥  
 संवत्सरप्रयोगेण दिव्यदेहो भवेत् स हि ॥**  
 
+[^114]: "आरोटमिति सुशोधितम् ।"
+
 **मात्रयाभक्षितं यत्नाद्विषमप्यमृतायते  
 अमृतं सहसा युक्तं शीलितं विषमेव वा ॥  
 सर्वविधविकाराय मृत्यवे वा न संशयः ॥**
 
 Doses in which poison is to be taken.
 
- 
-
 The dose in which good and purified poisons are to be taken is one sarshapa on the first day; two sarshapas a day on the second, third, and fourth days; three sarshapas on the fifth, sixth, seventh, and eighth days; four sarshapas on the ninth day. The dose is to be increased by one sarshapa a day till it reaches one gunja or 36 sarshapas. A healthy man should not take more than one java or six sarshapas a day, but a leper should take one gunja in the maximum.
 
- One month's use of poison, in the prescribed way, cures kushtha (leprosy) of eight different kinds, viz. pundarika, kustha with bisphota, white kustha or leucoderma, audumbara, chhinna-bhinna, kapala, klinna, and [shavagandhi](http://॑# "These should be compared with those given in Madhava Nidanam etc.").
+ One month's use of poison, in the prescribed way, cures kushtha (leprosy) of eight different kinds, viz. pundarika, kustha with bisphota, white kustha or leucoderma, audumbara, chhinna-bhinna, kapala, klinna, and shavagandhi[^115].
+
+[^115]: "These should be compared with those given in Madhava Nidanam etc."
 
  Six month's use of poison makes a man beautiful. One year's use cures all sorts of diseases. Two year's use makes a man have a very beautiful complexion.
 
@@ -8357,10 +7776,12 @@ The dose in which good and purified poisons are to be taken is one sarshapa on t
 
 **विषसेवने पथ्यम् ।**
 
-**घृतं क्षीरं सितां क्षौद्रं गोधूमं [सिद्धतण्डुलम्](http://॑# "तण्डुलं द्विविधं यथा आतपतण्डुलं सिद्धतण्डुलं च । केवल-सूर्यातपयोग पूर्वकधान्योक्षि (ढिकि ) घातेन धान्यतुषमपसार्य यत् तण्डुलं निर्मीयते, तदातपतण्डुलं कथ्यते । आदौ जलसिद्धं धान्यं पूर्वोक्तप्रकारेण निस्तुषीकृतं तु सिद्धतण्डुलमित्यभिधीयते । पूर्व्वं कथञ्चिद्वायुवर्द्धकमन्तिमं तु तद्दोषविरहितं लघुतरं चेति विज्ञेयम् ।") ।  
+**घृतं क्षीरं सितां क्षौद्रं गोधूमं सिद्धतण्डुलम्[^116] घातेन धान्यतुषमपसार्य यत् तण्डुलं निर्मीयते, तदातपतण्डुलं कथ्यते । आदौ जलसिद्धं धान्यं पूर्वोक्तप्रकारेण निस्तुषीकृतं तु सिद्धतण्डुलमित्यभिधीयते । पूर्व्वं कथञ्चिद्वायुवर्द्धकमन्तिमं तु तद्दोषविरहितं लघुतरं चेति विज्ञेयम् ।") ।  
 मरिचं सैन्धवं द्राक्षांमधुरं पानकं हिमम् ॥  
 ब्रह्मचर्यं हिमं देशं हिमं कालं हिमं जलम् ।  
 विषस्य सेवको मर्त्त्योभजेदतिविचक्षणः ॥**
+
+[^116]: "तण्डुलं द्विविधं यथा आतपतण्डुलं सिद्धतण्डुलं च । केवल-सूर्यातपयोग पूर्वकधान्योक्षि (ढिकि
 
 Diets considered salutary at the time of taking  
 poison.
@@ -8394,8 +7815,6 @@ Restrictions in diet in poison.
 
 Uses of inorganic poison.
 
-
-
 Inorganic poison of a benefic nature (such as aconite) and duly purified, cures fever due to vayu, if taken with mastu (butter-milk). It cures fever due to pittam, if taken with milk, and that due to kapha, if taken with goat's urine. Fever due to the three doshas is cured by poison taken with triphala water. Jeerna-jwara (a kind of remittent fever) is cured by poison, taken with lodhra, chandana, bacha, sugar, ghrita, honey, and milk. Jeerna-jwara, prameha, and skin diseases are cured by poison, taken with root of danti, root of trivrit, triphala, ghrita, and madhu (honey). Poison cures vishama-jwara (Malaria, kala- azar, etc.), if taken with the juice of shikhi-karna (nila-kantha vasaka).
 
 **विषं यष्ट्याह्वयं रास्ना सेव्यमुत्पलकन्दकम् ।  
@@ -8408,8 +7827,6 @@ Inorganic poison of a benefic nature (such as aconite) and duly purified, cures 
 **क्षीरोशीरमधुक्षाररजनीकूटजत्वचः ।  
 च्यवनप्राशसंयुक्तं विषं क्षपयति क्षयम् ॥**
 
- 
-
 Racta-pitta is cured, if poison is taken with jastimadhu, rasona, ushira, and root of utpala (water lily ), all rubbed with water dissolved with powdered rice.
 
  Asthma and cough are cured, if poison is taken with rasona, viranga, triphala, deva-daru, trikatu, padma wood, and guruchi. Asthma and hiccough are cured, if poison is taken with sugar, mercury, milk, ashes of pravala (coral), and jasti-madhu. Poison cures nausea, if taken with milk, ushira, madhu, java-kshara, haridra, and bark of kutaja. It cures phthisis, if taken with chyavana prasa (a well-known medicine to be described in a subsequent volume).
@@ -8418,8 +7835,6 @@ Racta-pitta is cured, if poison is taken with jastimadhu, rasona, ushira, and ro
 धातकीमोचनिर्यासं चूतास्थि ग्रहणीहरम् ॥  
 कृच्छ्रघ्नंविषपथ्याग्निदन्तीद्राक्षानिशावृषाः ।  
 शिलाजतु विषं त्र्यूषमुदावर्त्ताश्मरीहरम् ॥
-
- 
 
 Musta, indra-java, patha, chitraka root, trikatu, ati-visha, dhataki flower, mocha-rasa (exudation of kapock tree), kernel of the stone of a mange fruit, and poison, all combined, cure chronic diarrhoea. Poison, haritaki, chitraka roots (or bhallataka ? ), danti roots, draksa (raisin ), haridra, and vasaka, all mixed together, can cure difficulty in urination. Shilajatu, poison, and trikatu, mixed together, can cure ashmari and udavarta.
 
@@ -8432,8 +7847,10 @@ Musta, indra-java, patha, chitraka root, trikatu, ati-visha, dhataki flower, moc
 विषा वेल्लमिशिक्षारं गुल्मप्लीहनिवर्हणम् ॥  
 प्लीहोदरघ्नंपयसा शताह्वा कृमिजिद् विषम् ।  
 वायसीमूलनिष्काथयुतं कुष्ठहरं विषम् ॥  
-[पयस्या](http://॑# "* पयस्येति अर्कपुष्पी ओकाराइति भाषा ।")राजवृक्षत्वक् त्रायन्ती वाकुची वला ।  
+पयस्या[^117]राजवृक्षत्वक् त्रायन्ती वाकुची वला ।  
 प्लीहघ्नीभकणा एषां क्वाथेन कुष्ठजिद् विषं ॥
+
+[^117]: "* पयस्येति अर्कपुष्पी ओकाराइति भाषा ।"
 
 ** **Cow's urine, java-kshara, saindhava salt, tuber poison, all mixed with the juice of pashana-bhedi can cure stone disease. Tuber-poison, mixed with tri. phala and swarji-kshara, can cure gulma (tumours in the belly). Tuber-poison with pippali roots can cure colic. Dravanti, madhuka, draksha, rasna, shathi, pippali, ati-visha, biranga, mishreyi (ani-seed) and java-kshara, all mixed with tuber-poison, can cure gulma and enlargement of the spleen. Sulpha, biranga, and tuber-poison, taken with milk, can cure enlargement of the spleen. Tuber-poison, taken with the decoction of the roots of kaka-machi, is a curer of leprosy.
 
@@ -8498,11 +7915,11 @@ Purification of serpent poison.
 
 Symptoms due to organic poison.
 
- 
-
 These are sleep, drowsiness, fatigue, inflammation, coming out of froth from the mouth, standing of hair on end, swelling, and diarrhoea.
 
-**सर्पदंशनप्रतिकारः ।[\*](http://॑# " परवर्त्तिखण्डे विषचिकित्साध्याये सविस्तरं वर्णितः ।")**
+**सर्पदंशनप्रतिकारः ।\*[^118]**
+
+[^118]: " परवर्त्तिखण्डे विषचिकित्साध्याये सविस्तरं वर्णितः ।"
 
 **जयपालस्य मज्जानं भावयेन् निम्वुकद्रवैः ।**  
 
@@ -8514,19 +7931,11 @@ These are sleep, drowsiness, fatigue, inflammation, coming out of froth from the
 
 Remedy of snake-bite.
 
- 
-
 Kernel of jayapala seed (previously purified) is to be subjected to bhavana for 21 times with lemon juice. It is then to be made into pills. Such a pill, rubbed with man's saliva, is to be put into the eyes, as a collyrium, of the man who has been bitten by a poisonous snake. By this, the man will be able to overcome snake-poison.\*[^66]
-
 
 [^66]: "The subject will be dealt with elaborately in a subsequent volume in the chapter on treatment of poison."
 
-
 ![](../../../books_images/1689832036.png)
-
-
-
-
 
 अष्टमोऽध्यायः
 
@@ -8545,8 +7954,6 @@ CHAPTER VII.
 
 UPABISHA (SEMI-POISONS).
 
- 
-
 The following are considered semi-poisons:— Snuhi, arka, langali, gunja, karabira, visha-musti, dhattura, jayapala, bhallataka, nirvisha, ativisha, ahiphena, and jaya (bhanga). These thirteen are also killers of life, if taken in excess.
 
  Rubbed with poisons and the semi-poisons, mercury becomes deprived of its wings, and grows hungry. It is then able to swallow and digest metals (without increasing in weight).\*[^68]
@@ -8555,8 +7962,10 @@ The following are considered semi-poisons:— Snuhi, arka, langali, gunja, karab
 
 [^68]: "See page 76, Vol. I."
 
-**उपविषं विशुध्यति [पञ्चगव्यैर्विभावितम्](http://॑# "क्षीरं दधि तथा चाज्यं मूत्रं गोमयमेव च । इति पञ्चगव्यम् ।") ।  
+**उपविषं विशुध्यति पञ्चगव्यैर्विभावितम्[^119] ।  
 शोध्यं च दोलिकायन्त्रे क्षीरपूर्णेऽथ पात्रके ॥**
+
+[^119]: "क्षीरं दधि तथा चाज्यं मूत्रं गोमयमेव च । इति पञ्चगव्यम् ।"
 
 Purification of semi-poisons in general.
 
@@ -8580,8 +7989,6 @@ Purification of semi-poisons in general.
 
 \(1\) Snuhi.
 
-
-
 Snuhi is laxative, strong, increaser of hunger, pungent, and heavy. It cures colic, mucus, asthila (growth of a lump of flesh alongside the navel), swelling of the belly by wind, kapha, gulma, wind in the stomach, insanity, sperma torrhoea, leprosy, piles, dropsy, obesity, stone-disease, anemia, boils, fever, enlargement of the spleen, poison, and artificial poison.
 
  The milk of snuhi is warm in effect, soothing, pangent, and light. It is effective for the purpose of moving the bowels to those who suffer from gulma, leprosy, udara-roga, or some other chronic diseases.
@@ -8593,8 +8000,6 @@ Snuhi is laxative, strong, increaser of hunger, pungent, and heavy. It cures col
 द्रवे शुष्के समुत्तार्य सर्वरोगेषु योजयेत् ॥**
 
 Purification of the milk of snuhi.
-
- 
 
 One tola of the juice of the leaves of chincha, filtered by means of a piece of cloth, is to be mixed with eight tolas of the milk of arka. The liquid is then to be dried by the heat of the sun. Thus dried, the milk of arka becomes purified, and may then be used, where necessary.
 
@@ -8623,8 +8028,6 @@ One tola of the juice of the leaves of chincha, filtered by means of a piece of 
 ** **Flower of red arka is sweet, bitter, and curer of leprosy, worms, phlegm, piles, poison, and racta-pitta. It is increaser of appetite and power of digestion, and beneficial in gulma and dropsy.  
 ** **The milk of arka is bitter and warm, soothing, saltish, and light. It cures leprosy, gulma, udara- roga, and is a laxative.
 
-
-
 **(३) लांगली ।**
 
 **हलिनी कलिहारी च शक्रपुष्पी च लांगली ।  
@@ -8634,8 +8037,6 @@ One tola of the juice of the leaves of chincha, filtered by means of a piece of 
 तोक्ष्णोष्णा क्रिमिहृल्लघ्वी पित्तला गर्भपातिनी ॥**
 
 \(3\) Langali.
-
-
 
 Langali is laxative. It is efficacious in leprosy, dropsy, piles, boils, and colic. It contains kshara (alkali). It cures cough and worms. It is bitter, pungent, astringent, strong, warm, and light. It increases pitta and can cause abortion.
 
@@ -8681,11 +8082,7 @@ Purification of Langali.
 
 पत्रं गुञ्जद्वयस्य हि हितं शूले तथा विषे ॥
 
-
-
 \(4\) Gunja.
-
- 
 
 Gunja is of two kinds, viz. white and red. Both of them are beneficial to hair and pacifier of vayu, pittam, and fever. They cure dryness of the mouth, giddiness, asthma, thirst, intoxication, and eye-diseases. They are nutritious, strengthening, and curer of boils growing out of itches, worms, baldness, and leprosy.
 
@@ -8705,8 +8102,6 @@ Purification of Gunja
 विषाक्तशस्त्रघातोत्थक्षतान् मुक्तिमवाप्नुयात् ॥**
 
 Use of white gunja.
-
-
 
 Wounds due to poisonous instruments are healed up by their being washed with the juice of the leaves of white gunja, and by a paste made of the same leaves used as a plaster.
 
@@ -8734,8 +8129,6 @@ Wounds due to poisonous instruments are healed up by their being washed with the
 
 \(5\) Karavira.
 
-
-
 Karavira is of five different kinds, according to the colour of its flower. viz. (a) white (b) red, (c) yellow, (d) black, and (e) violet.  
 ** **All of them are bitter, astringent, pungent, and are efficacious in ulcers, irritation of the eyes, leprosy, and boils. They are warm in their effect on the system. They cure worms and itches. They are to be used in the same way as poisons.  
 ** **The white, yellow, and black varieties of karavira are killers of horses. The violet variety is a pacifierof head-ache, and diseases due to kapha and vayu. The root of a white karavira proceeding east-ward is efficacious in snake-poison.
@@ -8755,11 +8148,11 @@ Karavira is purified, if boiled with milk by means of Dola-Jantram.
 कारस्करः कुपाकश्च कालपाकश्च रम्यकः ।  
 काकेन्दुर्विषतिन्दुश्च तथा मर्कटतिन्दुकः ॥  
 कुपीलु शीतलं तिक्तंवातलं मदकृल्लघु ।  
-परं व्यथाहरं [ग्राहि](http://॑# "दीपनं पाचकं यत् स्यादुष्णत्वाद् द्रवशोषणम् । प्राहि तच्च यथा शुण्ठी जीरकं गजपिप्पली ॥ दीपनमिति जठराग्नेर्दीपनं पाचनमिति आमपाचनम् ।")कफपित्तास्रनाशनम् ॥**
+परं व्यथाहरं ग्राहि[^120]कफपित्तास्रनाशनम् ॥**
+
+[^120]: "दीपनं पाचकं यत् स्यादुष्णत्वाद् द्रवशोषणम् । प्राहि तच्च यथा शुण्ठी जीरकं गजपिप्पली ॥ दीपनमिति जठराग्नेर्दीपनं पाचनमिति आमपाचनम् ।"
 
 \(6\) Visha-musti (kuchila).
-
- 
 
 Kuchila (nox-vomica) produces a cooling effect on the system. It is bitter, increaser of a slight vayu, intoxicating, light, highly remover of pain, increaser of hunger, digestive, and destroyer of phlegm, pitta, blood, and (necessarily racta-pitta).
 
@@ -8769,7 +8162,6 @@ Kuchila (nox-vomica) produces a cooling effect on the system. It is bitter, incr
 
 **दोलायन्त्रेन संखिन्नः कांजिके प्रहरद्वयम् ।  
 किञ्चिदाज्येन भृष्टश्च विषमुष्टिर्विशुध्यति ॥  
-
 
 Purification of visha-musti.
 
@@ -8804,8 +8196,6 @@ Visha-musti (kuchila) is purified, if is is boiled with kanji for six hours by m
 
 \(7\) Dhustura (strammonium)
 
-
-
 Dhattura increases intoxication, complexion, hunger, and vayu. It cures fever and leprosy. It is astringent, sweet, bitter, warm, and heavy. It destroys lice, boils, phlegm, itches, worms, and poisons.
 
 **धुस्तूरस्य शोधनम् ।**
@@ -8815,8 +8205,6 @@ Dhattura increases intoxication, complexion, hunger, and vayu. It cures fever an
 **कण्डितं निस्तुषं कृत्वा योगेषु विनियोजयेत् ॥**
 
 Purification of dhattura.
-
-
 
 Seeds of dhattura are purified, if they are kept immersed, for 12 hours, in cow's urine, and then deprived of their husks, by being thrashed with an iron rod in an iron mortar.
 
@@ -8835,8 +8223,6 @@ Seeds of dhattura are purified, if they are kept immersed, for 12 hours, in cow'
 **अशुद्धोऽयमसून् हन्ति शुद्धोऽसौ सेव्यतेऽल्पतः ॥**
 
 \(8\) Jayapala (croton seeds).
-
- 
 
 Jayapala is heavy, remover of coarseness of the body, highly purgative, and pacifier of pittam and kapha. It takes away life, if taken unpurified and in excessive quantity. It should be taken purified, and in doses not exceeding one fourth of a racti a day.
 
@@ -8857,7 +8243,9 @@ Purification of Jayapala.
 
 **द्वितीयो विधिः ।**
 
-**जैपालं रहितं [त्वगंकुर](http://॑# "अंकुरमिति जयपालबीजजिह्विका ।") रसैश्चाद्भिर्मले माहिषे**  
+**जैपालं रहितं त्वगंकुर[^121] रसैश्चाद्भिर्मले माहिषे**  
+
+[^121]: "अंकुरमिति जयपालबीजजिह्विका ।"
 
 **निक्षिप्तंत्र्यहमुष्णतोयविमलं खल्वे सवस्त्रार्दितम् ।**  
 
@@ -8890,7 +8278,9 @@ Purification of Jayapala.
 
 **(१) भल्लातकम् ।**
 
-**भल्लातकं [त्रिषु](http://॑# "त्रिषु इति त्रिषु लिङ्गषु ।") प्रोक्तमरुस्कोऽरुष्करोऽग्निकः ।**  
+**भल्लातकं त्रिषु[^122] प्रोक्तमरुस्कोऽरुष्करोऽग्निकः ।**  
+
+[^122]: "त्रिषु इति त्रिषु लिङ्गषु ।"
 
 **तथैवाग्निमुखी भल्ली वीरवृक्षश्च शोफहृत् ॥**  
 
@@ -8946,14 +8336,14 @@ Purification of Jayapala.
 
 [^70]: "द्वितीयखण्डे १२७ पृष्ठे पादटीका द्रष्टव्या ।"
 
-
-
 Extraction of the essence (oil) of bhallataka fruits.
 
  For the purpose of extraction of oil or essence of bhallataka fruits, only those which are ripe and sink in water are to be selected. These fruits are first of all to be denuded of the kernel surroundingthe seeds, by means of being rubbed with powdered bricks. The seeds are then to be cut into pieces and boiled with water in an iron cauldron. Thus boiled, the seeds will let out their essence of black colour, which will collect gradually upon the surface of the water. The essence or oil, thus extracted, will have to be taken up carefully. The heating will have to be discontinued when all the essence has been taken up.  
     The essence of the bhallataka seeds, cut into pieces, may also be extracted by means of the Patala Jantram (see foot-note, page 127, Vol. II.)
 
-**(१०) [निर्विषाः](http://॑# " श्यामकांक्ला इति भाषा ।") ।**
+**(१०) निर्विषाः[^123] ।**
+
+[^123]: " श्यामकांक्ला इति भाषा ।"
 
 **निर्विषा मुस्तकाकारा सा हि तृणं विषापहम् ।  
 क्षेत्राल्यादिस्थले सैव जायते हि विशेषतः ॥  
@@ -8969,8 +8359,6 @@ Extraction of the essence (oil) of bhallataka fruits.
 \(10\)
 
 Nirvisa.
-
- 
 
 It is a kind of grass of the appearance of mustaka. It generally grows in such places as landmarka of agricultural fields.  
  This grass is pungent, cool, and healer of ulcers. It pacifies kapha, vayu, impurities of the blood, and various kinds of poison. It cures head-ache immediately, if it is made to touch the skin of the fore-head by being drawn across it for three times beginning with the side of the left ear to that of the right ear.
@@ -9007,8 +8395,6 @@ It is a kind of grass of the appearance of mustaka. It generally grows in such p
 
 \(12\) *Opium.*
 
-
-
 Opium is bitter, intoxicating, inducer of sleep, remover of pain and spasm, destroyer of sensibility, kapha, and asthma, digestive, increaser of hunger, increaser of vayu and pittam, destroyer of the dhatus, depriving the body of its oily substance, and causing inflammation and spermatorrhoea. It is efficacious in diarrhoea, acute as well as chronic, if taken in small quantities. No one who desires to live a healthy, happy, and long life should take opium for a long time.
 
 **अहिफेनस्य शोधनम् ।**
@@ -9018,8 +8404,6 @@ Opium is bitter, intoxicating, inducer of sleep, remover of pain and spasm, dest
 
 Purification of Opium.
 
-
-
 Opium is purfied, if subjected to bhavana with ginger juice for twenty one times.
 
 **(१३) जया ।**
@@ -9027,13 +8411,15 @@ Opium is purfied, if subjected to bhavana with ginger juice for twenty one times
 मातुलानी जया भङ्गा मादिनी विजया तथा ।  
 चपला वीरपत्रा च सिद्धिरिन्द्राशनं च सा ।  
 अजेयाऽऽनन्दसंज्ञा च मादयित्री च हर्षिणी ॥  
-भङ्गा कफहरी [तिक्ता](http://॑# "मतान्तरे कटुतिक्तकषाया ।")ग्राहिणी कषाया कटुः ।  
+भङ्गा कफहरी तिक्ता[^124]ग्राहिणी कषाया कटुः ।  
 तीक्ष्णोष्णा पित्तला लघुर्वाग्मेह[^72] मदवर्द्धिनी ॥  
 मदनोद्दीपनी निद्राजननी हर्षदायिनी ।  
 धनुःस्तम्भं जलत्रासं विसूचीं च मदात्ययम् ।  
 प्रवृत्तिं रजसो बह्वींहन्त्यपत्यप्रसूतिकृत् ॥
 
 [^72]: "मेहस्थले मेधेति पाठान्तरम् ।"
+
+[^124]: "मतान्तरे कटुतिक्तकषाया ।"
 
 \(13\) *Jaya (bhang-Cannabis sativa.)*
 
@@ -9049,8 +8435,6 @@ Opium is purfied, if subjected to bhavana with ginger juice for twenty one times
 Purification of jaya.
 
 **First process.**
-
-
 
 Jaya is purified, if it is boiled with the decoction of the bark of babbula, then dried, and again subjected to bhavana with cow's milk.
 
@@ -9071,7 +8455,9 @@ Jaya is purified, if it is boiled with the decoction of the bark of babbula, the
 कदाचन न सेव्या सा जीवितसुखमिच्छता ॥**  
 
 **निर्यासः स्वरसोऽपि च गञ्जाया हि विभीषणः ।  
-[गञ्जारसः](http://॑# "गञ्जारसः—चरस् इति भाषा ।") स कथ्यते पिवेत् तं न कदाचन ॥**
+गञ्जारसः[^125] स कथ्यते पिवेत् तं न कदाचन ॥**
+
+[^125]: "गञ्जारसः—चरस् इति भाषा ।"
 
 Ganja (cannabis Indica.)
 
@@ -9100,8 +8486,6 @@ Opium.
 
 ( 2 )
 
- 
-
 Poison of opium is destroyed, if saindhava (rock- salt), pippali, and kernel of madana fruit are pestled together and drunk with hot water.
 
 **( ३ )**
@@ -9123,8 +8507,6 @@ Tankana and tutthaka are to be taken with clarified butter. This causes vomittin
 *Dhattura Poison.*
 
 ( 1 )
-
- 
 
 Poison of dhustura is nullified by drinking four tolas of the juice of seeds of egg fruits (brinjals).
 
@@ -9156,8 +8538,6 @@ One prastha (64 tolas) of cow's milk and eight tolas of sugar, drunk together, c
 *Remedy of Bhallataka poison.*  
 ( 1 )
 
-
-
 Swelling, due to bhallataka poison, is remedied by the external application of a plaster made of butter and juice of meghanada.
 
 **( २ )**
@@ -9167,8 +8547,6 @@ Swelling, due to bhallataka poison, is remedied by the external application of a
 
 ( 2 )
 
-
-
 Troubles, due to bhallataka, are removed by the external application of devadaru, sarshapa (mustard seeds), musta, and butter, pestled together.
 
 **( ३ )**
@@ -9177,8 +8555,6 @@ Troubles, due to bhallataka, are removed by the external application of devadaru
 लेपनात् शान्तिमायाति भल्लातकविषव्यथा ॥**
 
 ( 3 )
-
-
 
 Swelling and irritation, due to bhallataka poison, is pacified by the external application of butter, sesamus (tila), milk, and khanda gurh (molasses purified and condensed into a tawny-coloured lump).
 
@@ -9199,8 +8575,6 @@ Troubles due to bhanga poison are remedied by drinking shunthi, mixed with cow's
 **पनसपत्रनीरेण जयाविषं प्रशाम्यति ।**
 
 \(2\)
-
- 
 
 Troubles due to bhang poison are remedied by the juice of the leaves of panasa tree, taken internally.
 
@@ -9224,8 +8598,6 @@ Troubles due to bhang poison are remedied by the juice of the leaves of panasa t
 
 ( 2 )
 
- 
-
 The following removes speedily the troubles due to gunja poison:– honey, dates, grapes, tamarind, sour pomegranates, parusha fruits, and amalaki, all rubbed together and taken internally.
 
 **करवीरविषशान्तिः ।**
@@ -9248,8 +8620,6 @@ Sugar-candy, mixed with buffalo's milk, or ourd, or bark of arka plant, taken in
 *Remedy of snuhi poison.*
 
 ( 1 )
-
-
 
 Troubles due to snuhi poison are removed by drinking cold water, mixed with sugar-candy, and by being treated with cooling fan and resorting to a cool and shady place. Tamarind leaves, pestled with water, should also be taken in such cases.
 
@@ -9288,18 +8658,16 @@ Dhanya (coriander seeds), pestled with curd and sugar, removes troubles due to c
 
 Purification of some materials requiring purification.
 
-
-
 The seeds of vriddhadara are purified, if dried in the sun, after having been saturated with a solution made of water and a little of rock-salt. They may also be purified, by being boiled with (or subjected to bhavana with) the decoction of apamarga; or by being boiled with milk by means of Dola Jantram.
 
-अपामार्गकषायेण [निम्बबीजं](http://॑# "निम्बुबीजमिति पाठान्तरम् ।") विशोधयेत् ।  
+अपामार्गकषायेण निम्बबीजं[^126] विशोधयेत् ।  
 शिग्रूकार्पासबीजानि अपामार्गस्य बीजकम् ।  
 धर्मेण शोधयेत् सर्वमेतद् द्रव्यान्तरं विना ॥  
 कषायेणेन्द्रवारुण्या राजवृक्षस्य बीजकम् ।  
 मूलक्वाथैः कुमार्य्याश्च जैपालबीजशोधनम् ॥  
 समूलोत्तरवारुण्या बीजं शुध्यति कानकम् ॥
 
- 
+[^126]: "निम्बुबीजमिति पाठान्तरम् ।"
 
 Seeds of nimba (nimboo, according to another text) are purified by the decoction of apamarga. Seeds of shigru, karpasa (cotton ), and apamarga are purified only by being dried in the sun. Seeds of arag- badha are purified by the decoction of indrabaruni, Seeds of jayapala (croton) by the decoction of the root of kanya, and the seeds of dhustura by the decoction of uttarabaruni including its roots.
 
@@ -9310,8 +8678,6 @@ Seeds of nimba (nimboo, according to another text) are purified by the decoction
 **धात्रीफलरसेनैवं महाकालस्य शोधनम् ॥**  
 
 **करञ्जयुग्मयोर्बीजं भृङ्गराजेन शोधयेत् ॥**
-
-
 
 Seeds of katuki, koshataki, danti, patola, indra-baruni, katu-tumbi, deva-dali, white gunja, and maha- kala-all of these are purified by the juice of amalaki. Seeds of karanja and karanji (visa-karanja) are purified by the juice of bhringa-raja.
 
@@ -9340,19 +8706,13 @@ Gunja and the other seeds are purified by human urine, not mixed with salt. Seed
 
 Purification of Guggulu.
 
- 
-
 Guggulu is purified, if it is dissolved with a decoction of dasha-mula, and then filtered through a piece of cloth, and dried in the intense heat of the sun.
 
 \(2\)
 
- 
-
 Guggulu my also be purified, if boiled with the decoction of guruchi by Dola Jantram, and then dried in the sun.
 
 \(3\)
-
-
 
 Guggulu may also be purified by being boiled with milk or decoction of triphala by the Dola Jantram.
 
@@ -9372,13 +8732,7 @@ Purification of Leeches.
 
 ![](../../../books_images/1689859620.png)
 
-
-
-
-
 **नवमोऽध्यायः ।**
-
-
 
 **अथ तैलपातनम् ।**
 
@@ -9386,10 +8740,12 @@ Purification of Leeches.
 
 **( १ )**
 
-**[अपक्व](http://॑# "सुपक्वइति पाठान्तरम् ।")भानुपत्राणां रसमादाय भावयेत् ।  
+**अपक्व[^127]भानुपत्राणां रसमादाय भावयेत् ।  
 यत्किञ्चिद् बीजचूर्णच ज्ञातं वा न ज्ञातं च वा ॥  
 वस्त्रबद्धंततस्तच्च स्थापयेत् स्थालिकोपरि ।  
 आतपे मुच्यते तैलमन्यथाऽसाध्यमेव च ॥**
+
+[^127]: "सुपक्वइति पाठान्तरम् ।"
 
 CHAPTER IX.
 
@@ -9409,8 +8765,6 @@ OF ANY KIND.
 
  ( 2 )
 
-
-
 Oil can be extracted from oil-seeds, of sufficient quantity, by means of the well-known machine used by oilmen.
 
 **( ३ )**
@@ -9422,18 +8776,14 @@ Oil can be extracted from oil-seeds, of sufficient quantity, by means of the wel
 
 ( 3 )
 
- 
-
 Seeds of any kind are to be powdered very fine, and sifted through a piece of cloth. They are then to be rubbed with the decoction of uttara- baruni with its roots, and made into a paste with which is to be smeared the internal surface of a bell-metal pot, kept in the intense heat of the sun. Thus heated, the paste will yield oil which is to be filtered by means of a piece of cloth.
 
 **( ४ )**
 
 **सर्वबीजास्थिमांसानां शुष्काणां पेषणान्मुहुः ।  
-पातयेद् यत्नतस्तैलं यन्त्रेन [पातालाख्यके](http://॑ "द्वीतीयखण्डे १२० पृष्ठे पादटीका द्रष्टव्या ।")॥**
+पातयेद् यत्नतस्तैलं यन्त्रेन [पातालाख्यके]("द्वीतीयखण्डे १२० पृष्ठे पादटीका द्रष्टव्या ।")॥**
 
 ( 4 )
-
- 
 
 Oil can be extracted by means of the Patala Jantram from all sorts of seeds, bones, and flesh, dried and pounded over and over again[^74].
 
@@ -9452,8 +8802,6 @@ Oil can be extracted by means of the Patala Jantram from all sorts of seeds, bon
 
 ( 5 )
 
-
-
 Seeds of ankolla, pestled with kanji, are to be kept one night, and then made into a lump which is to be heated by means of the kanduka Jantram or Swedani Jantram (see page 251, vol. 1), for two hours. It is then to be confined tightly in a piece of tough cloth, and pressed by means of a strong piece of wood resulting in the extraction of oil.  
 
  Oil can thus be extracted from all sorts of seed.
@@ -9467,8 +8815,6 @@ Seeds of ankolla, pestled with kanji, are to be kept one night, and then made in
 
 Extraction of oil from seeds, in particular.
 
- 
-
 Root of uttarabaruni is to be pestled with kanji with which is to be mixed seeds of ankolla, pestled very fine. The whole thing is to be mixed well. The inner surface of a bell-metal pot is to be smeared with this paste and kept in the sun. The thick oil, which will come out of the paste, is to be filtered by means of a fine piece of cloth,
 
 **संपेष्योत्तरवारुण्याः पेटकार्या दलान्यथ ।  
@@ -9476,8 +8822,6 @@ Root of uttarabaruni is to be pestled with kanji with which is to be mixed seeds
 रजश्चाङ्कोल्लबीजानां तद् बद्ध्वाविरलाम्बरे ।  
 प्रविलम्ब्यातपेतीव्रेतस्याधश्चषकं न्यसेत् ।  
 तस्मिन् निपतितं तैलमादेयं श्वित्रनाशनम् ॥**
-
-
 
 Leaves of uttara-baruni and petakari are to be rubbed with kanji and made into a paste. Powdered seeds of ankolla are to be rubbed with this paste, which is then to be confined in a piece of thin cloth and kept hanging in the sun over a pot meant to contain the oil which is to fall, drop by drop, upon it. This oil cures Leucoderma.
 
@@ -9510,14 +8854,10 @@ Leaves of uttara-baruni and petakari are to be rubbed with kanji and made into a
 धान्यराशौ ततः स्थाप्यमुद्धृते तैलमाहरेत् ।  
 अपामार्गस्य संक्वाथैरातपे हि यथाविधि ॥**
 
-
-
 Seeds of black as well as of white gunjas are to be powdered. This powder is to be commingled with powdered load stone, the whole thing being kept inside a heap of paddy for sometime. It is then to be rubbed with the decoction of apamarga, and oil to be extracted from it in the afore-said way.
 
 **धात्रीफलरसैर्भाव्यं चूर्णं पाषाणबीजजम् ।  
 दिनैकं च ततो यत्नात् तैलं ग्राह्यं च घूर्णितः ॥**
-
-
 
 Powdered seeds of pashana (?) are to be subjected to bhavana with the juice of amalaki for one day, and then oil is to be extracted from them by means of the ghurni machine.
 
@@ -9538,16 +8878,12 @@ Powdered seeds of pashana (?) are to be subjected to bhavana with the juice of a
 **नारिकेलाम्बुना भाव्यं बिल्लबोजस्य चूर्णकम् ।  
 दिनैकं तैलयन्त्रेण तैलमाकृष्य योजयेत् ॥**
 
-
-
 Powdered seeds of putranjiba as well as of agasti are to be made into a lump of the shape of amrataka or hog plum (by being rubbed with water or decoction of uttara-baruni), and then pressed, as before, for extraction of oil. Powdered seeds of vilba are to be subjected to bhavana with cocoanut water for one day, before oil is extracted from them by means of the oil-machine (ghurni).
 
 **निस्तुषं कोलबीजानां मुखं किञ्चिद् विघर्षयेत् ।  
 लेपयेत् कांस्यपात्रे तान् पिष्टचनकलेपनैः ॥  
 तन्मुखे चूर्णटंकणं किञ्चित् किञ्चित प्रलेपयेत् ।  
 धारयेदातपेतीव्रेमुखात् तैलं समाहरेत् ॥**
-
-
 
 Mouths of ankola seeds, previously separated from their husks, are to be rubbed a little. Each of them is then to be kept on a bell-metal pot, and smearad all round with chanaka grams made into a paste. The mouth of each of these is to be smeared with a paste made of powdered borax (tankana). All of these seeds are then to be placed in the strong heat of the sun. Oil, coming out of the mouths of these seeds, is then to be collected.
 
@@ -9560,11 +8896,7 @@ Mouths of ankola seeds, previously separated from their husks, are to be rubbed 
 
  Powdered seeds of shami are to be pestled very finely and kept inside a pot having a hole at its bottom. This pot is to be put upon another pot. The hole in the upper pot is to be stopped by means of hair. Some water is to be poured into the upper pot. (The lower part and that part of the upper pot which contains the hair are to be kept in a pit made in the ground). A fire is to be made covering the upper pot, with the result that water will fall, first of all, into the lower pot, followed by oil; (This is only a kind of Patala Jantram)
 
-
-
 ![](../../../books_images/1689861426.png)
-
-
 
 **दशमोध्यायः ।**
 
@@ -9577,8 +8909,6 @@ Mouths of ankola seeds, previously separated from their husks, are to be rubbed 
 तदपि युज्यते गदे गौणतः पीयतेऽपि च ॥**
 
 CHAPTER X.
-
-
 
 Sandhanas are of three differnt kinds, viz. (1) alcoholic, (2) non-alcoholic but fermented drugs, such as asavas, aristas, etc., and (8) non-alcoholic but fermented drinks, sometimes used as ingredients of medicines (such as kanji).  
 ** **Of these, the first two are practically everlasting, and increase in quality every day; whereas the third does not last for a very long time.
@@ -9599,8 +8929,6 @@ Sandhanas are of three differnt kinds, viz. (1) alcoholic, (2) non-alcoholic but
 
 \(1\) *Alcoholic Liquors (wine).*
 
- 
-
 Wine is of various kinds. Of these, the following eight are well-known :— *(a)* gouri, *(b)* madhvi, *(c)* paisti, *(d)* kadamvari *(e)* varuni, *(f)* madhuki *(g)* maireyi and *(h)* mardi.  
 ** **Wine may be undistilled as well as distilled. It may be distilled by means of the Tejo-Jantram, Nadika Jantram, Baruni Jantram, and Baka Jantram (see pages 280-85, vol. I).
 
@@ -9611,8 +8939,6 @@ Wine is of various kinds. Of these, the following eight are well-known :— *(a)
 कान्तितृप्तिकरी पथ्या वह्निकामप्रदीपनी ॥**
 
 \(a\) *Gouri.*
-
- 
 
 Wine, named gouri (from gurh—molasses), is prepared mainly from dhataki flower and gurh. It is acrid, warm, sweet, pacifier of vayu; increaser of strength, pittam, and brightness of complexion. It is agreeable to taste, nutritious, and increaser of power of digestion and sexual desire.
 
@@ -9625,8 +8951,6 @@ Wine, named gouri (from gurh—molasses), is prepared mainly from dhataki flower
 **कामलापाण्डुगुल्मार्शःप्रमेहप्लीहघातिनी ॥**
 
 \(b\) *Madhvi.*
-
-
 
 It is made of honey, and other ingredients. It is not very warm. It is sweet, and destroyer of pittam, vayu, jaundice, anemia, gulma, piles, gonorrhoea, and enlargement of the spleen
 
@@ -9642,7 +8966,9 @@ It is made of honey, and other ingredients. It is not very warm. It is sweet, an
 
 **(घ) कादम्बरी ।**
 
-**कादम्बरीति विख्याता [नानाद्रव्यकदम्बजा](http://॑# "कदम्य इति कदम्बफलं देवदालीलता वा । कदम्बार्थे बहुद्रव्यानां (पित्तनाशकानामत्र) समुदाय इत्यपि ब्राह्यः ।") ।**  
+**कादम्बरीति विख्याता नानाद्रव्यकदम्बजा[^128] समुदाय इत्यपि ब्राह्यः ।") ।**  
+
+[^128]: "कदम्य इति कदम्बफलं देवदालीलता वा । कदम्बार्थे बहुद्रव्यानां (पित्तनाशकानामत्र
 
 **कादम्बरी मधुरा च श्रमपित्तप्रणाशिनी ॥**
 
@@ -9660,8 +8986,6 @@ Kadambari is prepared from kadamba fruits and many other materials. It is sweet 
 
 \(e\) *Varuni.*
 
- 
-
 It is the fermented juice of date tree and palm tree. Liquor, prepared from other materials with the help of the said juice, is also called varuni.
 
 **(च) माधूकी।**
@@ -9671,8 +8995,6 @@ It is the fermented juice of date tree and palm tree. Liquor, prepared from othe
 **माधूकी मादिनी बल्या पुष्टिकृत् कामवर्द्धिनी ॥**
 
 \(f\) *Madhuki.*
-
-
 
 It is made of madhuka (mahua) flowers, and is intoxicating, strengthening, nutritious, and increaser of sexual desire.
 
@@ -9685,8 +9007,6 @@ It is made of madhuka (mahua) flowers, and is intoxicating, strengthening, nutri
 **मैरेयी वातहृद्बल्या ज्वरघ्नी वह्निदीपनी ॥**
 
 \(g\) *Maireyi.*
-
-
 
 It is a liquor prepared by the fermentation of vilba roots, plum fruits, and sugar. It pacifies vayu, cures fever, and increases strength and hunger.
 
@@ -9711,11 +9031,11 @@ It is a liquor prepared by the fermentation of vilba roots, plum fruits, and sug
 
 **तदधो जगलो ज्ञेयो मेदको जगलाद्घनः ।**  
 
-**[वक्वसो](http://॑# "वाखर इति भाषा ।")हृतसारः स्यात् सुराबीजं च किण्वकम् ॥**
+**वक्वसो[^129]हृतसारः स्यात् सुराबीजं च किण्वकम् ॥**
+
+[^129]: "वाखर इति भाषा ।"
 
 Different parts of undistilled wine.
-
-
 
 The upper part of the scum of wine is called prasanna. Kadamvaja is denser than that. That part of the wine which is denser than kadamvaja is called jagala, Medaka is denser than jagala. In other words, Medaka is the densest part of the wine before it is filtered or distilled. The wine from which all its essence has been taken out (by distillation) is called bakkasa, or the seed of wine, or kinvaka.
 
@@ -9739,8 +9059,6 @@ The upper part of the scum of wine is called prasanna. Kadamvaja is denser than 
 
 Properties of wine in general.
 
- 
-
 New wine causes the discharge of phlegm (through the nostrils, the eyes, etc.). It increases the three doshas and is laxative. It is harmful to the heart, nutritious, and causing inflammation in the system.  
  It has bad smell, is clear, and heavy. Old wine is increaser of appetite; and destroyer of worms, phlegm, and vayu. It is agreeable to taste and yields a good odour. It is wholesome, light in digestion, and purifier of the internal passages.  
  In spite of the various merits attending wine, it is to be avoided altogether. Its demerits predominate over its merits. Wine is sometimes prescribed by way of medicine, but otherwise, it is unworthy of drinking, receiving from others, and being given to others.
@@ -9755,8 +9073,6 @@ New wine causes the discharge of phlegm (through the nostrils, the eyes, etc.). 
 
 \(2\) *Non-alcoholic but fermented Liquids.*
 
-
-
 Fermented but non-alcoholic liquids are of various kinds. Of these, the following thirteen are wellnown :— (a) asava (b) arista, (0) sidhu, (d) shukta, (e) gura-shukta, (f) chukra, (g) tushamboo, (h) dhanyamla, (i) kanji, (j) sauvira, (k) aranala, and (1) shindaki.  
  All of these are used as ingredients of medicine.
 
@@ -9769,8 +9085,6 @@ Fermented but non-alcoholic liquids are of various kinds. Of these, the followin
 
 \(a\) *Asava and* (b) *Arista.*
 
- 
-
 Asava is a fermented liquid prepared from several drugs immersed for a sufficiently long time in water, which does not require any heating and boiling.  
  Arista is also a fermented liquid, prepared from several drugs, immersed, for a sufficiently long time, in decoction of prescribed drugs.  
  The dose of both of these is one pala or four tolas (to be taken twice a day).  
@@ -9781,10 +9095,7 @@ Asava is a fermented liquid prepared from several drugs immersed for a sufficien
 अनुक्तमित्यरिष्टेषु द्रवाद् द्रोणं तुलागुड़म् ॥  
 क्षौद्रं क्षिपेद् गुड़ादर्द्धं प्रक्षेप्यं दशमांशिकम् ॥  
 
-
 Proportion of materials in an Arista.
-
-
 
 Where there is no specific mention of the quantities of the materials to be used in a certain arista, they are to be taken as follows:—The quantity of the decoction (of the materials to be mentioned in each case) is one drona (16 prasthas or 16 x 64 tolas); that of gurh is four hundred tolas (or 6₂¹ prasthas); and of honey 200 tolas (or 3₂¹prasthas) ; and that of the materials to be kept immersed is one tenth of the gurh (molasses).
 
@@ -9801,8 +9112,6 @@ Where there is no specific mention of the quantities of the materials to be used
 अपक्वमधुरद्रवाज् जातश्च शीत एव हि ॥
 
 \(c\) *Sidhu (a kind of vinegar).*
-
-
 
 Keep some sweet liquid in a new earthen vessel, covered with an earthen basin. Place the vessel in the sun every day, till the liquid gets fermented. Take out, every now and then, the dirty scum collected on the surface of the liquid, and then close the mouth of the vessel, as before. When sufficiently fermented in this way, (i,e, when there will be no more scum gathered on the surface of the liquid), the liquid will be called Sidhu.  
  Sidhu is of two kinds, viz. boiled and unboiled, That which is prepared by fermenting a boiled liquid of sweet taste is called "pakva" or boiled sidhu; and that which is prepared from unboiled liquid of sweet taste is called "apakva" or unboiled sidhu.
@@ -9829,8 +9138,6 @@ Keep some sweet liquid in a new earthen vessel, covered with an earthen basin. P
 
 \(e\) Dhanyamla.
 
-
-
 One prastha (64 tolas) of shasti paddy is to be thrown into two prasthas of water, contained in an earthen (or made of chinese clay) vessel, which is to be kept underground with its mouth closed. This is to be taken out after a fortnight, and the liquid is to be filtered. This is called dhanyam la or tushamla.  
  Dhanyamla may also be prepared from powders of such paddies as shali and kodrava. It is agreeable to taste, light for digestion, and increaser of hunger. It is beneficial in aversion for food, and diseases due to vayu, and commendable for the purpose of being used for douche.
 
@@ -9856,8 +9163,6 @@ One prastha (64 tolas) of shasti paddy is to be thrown into two prasthas of wate
 
 \(f\) *Kanji.*
 
- 
-
 One tula (400 tolas) in weight of the rice of shasti paddy, duly prepared, is to be immersed in one drona (16 prasthas or 16 x 64 tolas) of water, for seven days, in a vessel closed all the while. The water is then to be filtered. It is called kanji.  
 ** **It is strong; light; digestive; curer of fever with inflammation, and excess of kapha and vayu ; laxative, increaser of liking for food and of appetite; and curer of constipation, colic, and loss of power to digest.  
 ** **Kanji may also be prepared in the same way from boiled wheat or chanaka, etc.  
@@ -9870,8 +9175,6 @@ One tula (400 tolas) in weight of the rice of shasti paddy, duly prepared, is to
 एवमेवेक्षुशुक्तं स्याद् मृद्वीकासंभवं तथा ॥**
 
 \(g\) *Gura-shuktam.*
-
-
 
 It is a fermented liquid prepared from water, gurh (molasses), certain tubers, roots, fruits, oil, salt, etc.  
  Such drinks may also be prepared from the juice of sugar-cane, as well as from the juice of grapes, substituted for gurh.
@@ -9894,8 +9197,6 @@ Wine, spoiled and grown sour, as well as sweet liquid, fermented, is called chuk
 
 \(i\) *Tushambu and* (j) *Sauvira.*
 
- 
-
 Tushambu is a liquid, prepared from powdered, unhusked, and unboiled barley, fermented with water only, whereas sauvira is a liquid, prepared from powdered, husked, and boiled barley, fermented with water only.
 
 **(ट) आरनालम् ।**
@@ -9904,8 +9205,6 @@ Tushambu is a liquid, prepared from powdered, unhusked, and unboiled barley, fer
 पक्वैर्वा संहितैस्तत्तु सौवीरसदृशं गुणैः ॥**
 
 \(k\) *Aranala.*
-
-
 
 It is a liquid, prepared from powdered and husked wheat, boiled or unboiled, and fermented with water only.  
  It has the same properties as sauvira.
@@ -9918,11 +9217,7 @@ It is a liquid, prepared from powdered and husked wheat, boiled or unboiled, and
 
 It is water fermented with mulaka (raddish), mustard seeds, etc.
 
-
-
 ![](../../../books_images/1689912539.png)
-
-
 
 **एकादशोऽध्यायः ।**
 
@@ -9955,8 +9250,6 @@ sulva-naga.
 
 Vara-loha.
 
- 
-
 Copper,combined with an equal quantity of tikshna (steel), is to be melted and immersed, for several times, in a solution of sulphur and the sour juice of a lakucha fruit. The amalgam turns, by this process, into an excellent metal.
 
 **घोषाकृष्टताम्नम् ।**
@@ -9965,8 +9258,6 @@ Copper,combined with an equal quantity of tikshna (steel), is to be melted and i
 मुक्तरङ्गं हि तत्ताम्रं घोषाकृष्टमुदाहृतम् ॥**
 
 Copper extracted from Bell-metal.
-
-
 
 Bell-metal, mixed with a little haritala, is to be subjected to fire blown by a blow pipe. The tin will, in this way, be burnt away, leaving only the copper. This copper is ghosa-krista (i. e. extracted from bell-metal).
 
@@ -9977,22 +9268,20 @@ Bell-metal, mixed with a little haritala, is to be subjected to fire blown by a 
 
 Bara-naga (Excellent Lead).
 
-
-
 Tikshna iron, mixed with nilanjana (see page 202, vol. II), and heated for several times, becomes soft, black, and quickly liquefiable. This is called baranaga (excellent lead).
 
 **पतङ्गिरागश्चुल्लकरागश्च ।**
 
-**[पतङ्गिकल्कतो](http://॑# "पतङ्गिकल्कः इति पतङ्ग पारदः अस्यास्तीति पतङ्गी तस्य कल्कः साधितद्रव्यम् ।")जाता लोहे तारत्वहेमता ।  
+**पतङ्गिकल्कतो[^130]जाता लोहे तारत्वहेमता ।  
 दिनानि कतिचित् स्थित्वा यातासौ चुल्लका मता ॥  
 रञ्जिताद्धि चिरं लोहाद्ध्माताद् वा चिरकालतः ।  
 विनिर्यासः[^79]स निर्दिष्टः पतङ्गिरागसंज्ञकः ॥**
 
 [^79]: "विनिर्यास इति बहिरागमः ।"
 
-Patangi-raga and chullaka-raga.
+[^130]: "पतङ्गिकल्कः इति पतङ्ग पारदः अस्यास्तीति पतङ्गी तस्य कल्कः साधितद्रव्यम् ।"
 
- 
+Patangi-raga and chullaka-raga.
 
 The colour of gold which base metals may assume for a short time, by a mercurial preparation being thrown into it, when melted, is called "chullaka"colour, whereas the colour of a base metal, permanently transformed into gold or silver is called patangi-raga.
 
@@ -10004,8 +9293,6 @@ The colour of gold which base metals may assume for a short time, by a mercurial
 स आवापः प्रतीवापस्तदेवाच्छादनं मतम् ॥**
 
 Abapa.
-
-
 
 The act of throwing some thing into a liquefied metal is called "abapa", "pratibapa", or "achchadana".
 
@@ -10030,8 +9317,6 @@ Abhisheka and nirbapa.
 
 Suddhavarta and Vijavarta.
 
-
-
 Suddhavarta is that condition of a metal which is so heated by a strong fire that the latter emits white flames. That is the time of essence coming out of the metal.  
  Vijavarta is that condition of a metal, which, while heated with the object of being melted, makes the fire emit flames of the colour of the metal itself, which shows a heaving tendency at the time.  
  It is only on a melted and suddhavarta metal that an abapa is to be resorted to.
@@ -10042,8 +9327,6 @@ Suddhavarta is that condition of a metal which is so heated by a strong fire tha
 अग्नेराकृष्य शीतंयत् तद् बहिः शीतमीरितम् ॥**
 
 Swanga-shitala and Bahis-shitala.
-
-
 
 A heated substance is called swanga shitala, when it is cooled of itself without being removed from the oven.  
  A heated substance is called bahis-shitala, if it is cooled after removal from the fire place.
@@ -10067,8 +9350,6 @@ A heated substance is called swanga shitala, when it is cooled of itself without
 
 Names of well-known chemists.
 
-
-
 Of the innumerable chemists, most of whom have passed into oblivion, the names of the following are still remembered :— (1) king Nandi, (2) Shukra, the sage, (3) Adima, (4) Chandra-sena ( 5 ) Ravana (king of Lanka), (6) king Rama-Ghandra of Ayodhya (7) Kapali (8) Matta, (9) Mandavya, (10) Bhaskara, (11) Sura-sena, (12) Ratna-kosha, (13) Shambhu, (14) Satwika, (15) Nara-bahana, (16) Indrada, (17) Gomukha, (18) Kambali, (19) Vyari, (20) Brahma-jyoti, (21) Dandi, ( 22 ) Soma-deva, (23) Nagarjuna, (24) Surananda, (25) Nagabodhi, (26) Jasodhara, (27) Khanda, (28) Kapalika, (29) Brahma, (30) Govinda, (31) Lambaka, (32) Hari, (33) Manthana-Bhairava, (34) Nityanatha, (35) Bagbhata, (36) Ananta deva, and (37) Bhudeva (the author.)
 
 **त्वद्दत्तद्रव्यसंभारस्तदंघ्रावपितो मया ।  
@@ -10077,13 +9358,7 @@ Of the innumerable chemists, most of whom have passed into oblivion, the names o
 **इति सिद्धवैद्यश्रीभूदेवदेवशर्मविरचितरसजलनिधिनाम-  
 महाग्रन्थस्य तृतीयखण्डं समाप्तम्**
 
-
-
 ![](../../../books_images/1689912453.png)
-
-
-
-
 
 **RASA-JALA-NIDHI**  
 
@@ -10115,14 +9390,10 @@ Albert G. Ingalls, Associate Editor, "Scientific American":—
 
 \(2\)
 
- 
-
 Prof. M. Winternitz of the Prague University (Czecho Slovakia)—  
  I am much obliged to you for kindly sending mevolumes I and II of your work, Rasa-jala-nidhi. It is an interesting contribution to our knowledge of Hindu Chemistry, alchemy, and medicine.
 
 \(3\)
-
-
 
 Prof. Berthold Laufer of the Field Museum of Natural History, Chicago:—  
  It is very kind of you to send me volumes I and II of your work on Indian Chemistry, a subject in which I have always been interested. I wish to thank you cordially for giving me this opportunity. I think it will be very useful to have a complete compendium of this important subject, such as you propose......I shall look forward with great interest to the continuation of your work.
@@ -10134,25 +9405,17 @@ Prof. Berthold Laufer of the Field Museum of Natural History, Chicago:—
 
 .  
 
-
-
 Hindu Chemistry and Alchemy is a subject almost unknown and our indebtedness to the Indians' early contributions to the development of science was briefly dismissed in the Brief Outline of the History of Science (by Dr. Gerald Druce). *We are therefore especially grateful to Dr. Bhudeb Mookerji for his compilation...* Details are given for the preparation of mercury for use in medicine and *for transmuting itself or base metals into gold, etc.* The billingual text is accompanied by a glossary and definitions and is preceded by a valuable introduction... Of both works under review it may be said that further publications will be awaited with interest.
 
 \(5\)
-
- 
 
 Chemical News of London, dated 13-1-28 :—  
  Dr. Bhudeb Mookerji has undertaken the heavy task of compiling in about 10 volumes, a systematic and comprehensive treatise on the almost lost and little known science of Hindu Chemistry. His first volume was well received, and the second part has quickly followed it. Succeeding volumes will be awaited with impatience. Dr. Bhudeb Mookerji's second volume maintains the high standard of his first, and is a valuable contribution to alchemical literature.
 
 \(6\)
 
-
-
 Journal of the Society of Chemical Industry (London), May 18, 1928:—  
  Any chemist who is (*a*) dissatisfied with his family doctor, or (*b*) tried of ions, pH, enzimes and covalencies, may be recommended to read this book, where he will at least find much that is novel. We fancy that most of his recipes will be new to the Society of Chemical Industry... This and much other remarkable and unexpected knowledge ame to Mr. Mookerji partly from ancient books and partly from a learned yogi with whom he studied. Alchemy finds its place among the iatro chemical remedies......  We look forward with ill-controlled excitement to the publication of Mr. Mukerji's chemical investigations, but, in the meantime, there can be no doubt of the efficacy of his remedies...........  
-
-
 
 Chemists will certainly get their money's worth if they buy this book
 
@@ -10160,32 +9423,22 @@ E. J. HOLMYARD.
 
 \(7\)
 
-
-
 Sir Jagadish Chandra Bose :—  
  Please accept my sincere thanks for a copy of Rasa- jala-nidhi which I am looking forward to reading with great interest. Of course, in Chemical Science, you should interest modern chemists in the achievement of Hindu Chemistry in the past.
 
 (8)
-
- 
 
 Sir C. H. Setalvad, Vice-chancellor, Bombay University :—  
  It is indeed very creditable to you to have carried on your researches in Indian Chemistry and publish the results in such comprehensive form. The publication is sure to attract the attention of all those who are interested in making available to the public the past achievement in the field of science by India. I will certainly ask the syndicate of the university to give such encouragement to your work as they may think proper.
 
 (9)
 
- 
-
 Dr. H. K. Sen, M.A.D.Sc. Professor and Head of the Department of Applied Chemistry, University College of Science and Technology, Calcutta :—  
  I thank you very much for the very attractive copy of your Rasa-jala-nidhi, Vol. I. I enjoyed the reading of the whole volume......you have been able to make the treatise extremely interesting. The work indicates erudition and the requisito patience of a scholar......I am really looking forward to your subsequent volumes, which I hope will come out in rapid succession and justify the excellent promise given in the first volume...
 
 (10)
 
- 
-
 Prof. Arthur B. Lamb, Director, Chemical Laboratory of Harvard College, Cambridge, U. S. A :—  
-
-
 
 I have examined the book with interest and thank you for it.
 
@@ -10196,8 +9449,6 @@ I have examined the book with interest and thank you for it.
 
 \(12\)
 
- 
-
 Prof. H. Nagaoka of the Institute of Physical and Chemical Research. Tokyo :—  
  You were so kind as to send me your interesting book  
 "Ocean of Indian Chemistry and Alchemy," which I read with much interest......I am at present engaged with electric experiments in the same domain of research......I hope to obtain sufficiently large quantity of gold from mercury.  
@@ -10205,14 +9456,10 @@ Prof. H. Nagaoka of the Institute of Physical and Chemical Research. Tokyo :—
 
 ( 13 )
 
-    
-
 "Englishman," Calcutta, May 30, 1927.  
  The work is an ambitious undertaking and is expected to be completed in 10 volumes. The book claims to be a comprehensive treatise on Indian Chemistry and alchemy, an art almost lost several centuries. It contains much interesting matter which deserves testing under modern laboratory methods. The author describes several processes, by which he maintains, it is possible to make mercury swallow, without any appreciable increase in its weight much of gold and other materials. Another equally in- teresting topic he has dealt with is the transformation of base metals into gold. In view of the scientific attention that has been devoted to this subject, there is no reason why the formulæ, as given out in this work, should not be given a fair trial. These instances, taken at random, are fair samples of the startling and important nature of the contents. The processes have been described in detail. and the author himself has given his agreement with them from the result of his own research. The first instalment from the pen of this author is promising. He deserves the thanks of all orientalists and Indian chemists for rescuing a science that was in great danger of being lost altogether. The work is heartily recommended to the attention of those interested in Indian Chemistry.
 
 ( 14 )
-
-    
 
 "Bhamtvarsha" the leading Bengali magazine of Calcutta :—  
   The work, when completed, will no doubt prove to be the greatest and the most comprehensive treatise on Hindu Chemistry and alchemy...... The anthor is an eminent and successful physician, and most probably he has been able to earn a high reputation by prescribing the medicines described in the book under review. Physicians in general, we are sure, will be profited by a study of the book.
@@ -10229,8 +9476,6 @@ Prof. H. Nagaoka of the Institute of Physical and Chemical Research. Tokyo :—
 
 ![](../../../books_images/1689912364.png)
 
-
-
 **Indian Civilization and its Antiquity.**
 
 Price Rs. 2 (cloth-bound-thick edition.)  
@@ -10239,7 +9484,6 @@ Re. 1-8 (popular edition.)
 By  
 
 **Kaviraj Bhudeb Mookerji, M.A., (triple), Rasacharya,**
-
 
 41/A, Grey Street, Calcutta.
 
@@ -10254,26 +9498,18 @@ By
 \(3\) Mahamahopadhaya DR. GANGANATH JHA,  
     Vice-Chancellor, Allahabad University :—  
 
-
-
 I am sure it will be useful. It shows signs of much study, thought, and labour.  
 
 (
 
 4\) Doctor Sudhindra Bose M.A. Ph. D. Professor of Political science, State university, Lowa, U. S. A. :—  
 
- 
-
 You have made a very timely contribution to the problems of Indian civilization, which are pressing themselves upon the attention of the thoughtful scholars everywhere. You have shown the way the scientist should approach the study of Indian culture. I hope your volumes will have large circulation and make their influence felt widely.  
 
 \(5\) The Tribune, October 7, 1928, Lahore :—  
   Mr. Mookerji's book seeks to establish by historical and philogical research the antiquity of Indian civilisationat a much earlier period than is conceded by most of the western scholars. Mr. Mookerji himself is a great scholar; his treatise on Hindu Chemistry (of which only two out of the ten volumes are yet out) created a great stir on the occasion of its publication.  
 
-
-
 The chapter on Phallism may very properly be sent to Miss Mayo as a reply to her ignorantly foolish remarks. on the worship of the Shiv-ling in India. The most interesting chapters, and from the point of view of a student of philology, the most instructive, are those that deal with Gipsies and the borrowings from Sanskrit into English. They are very carefully and convincingly written.  
-
- 
 
 Mr. Mookerji's book should attract the attention of all those who are interested in making available to the public the past achievements of India in the fields of art and science.  
 
@@ -10283,96 +9519,8 @@ Mr. Mookerji's book should attract the attention of all those who are interested
 (7) The Vaitarani Ouuttack, October, 1928.  
  This is a very valuable book of research. No mere fragmentary criticism will do justice to the book. It is a book which ought to be read, marked, and digested.
 
-
-
 ![](../../../books_images/1689912028.png)
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [^57]: "लोतमिति लवणम् ।"

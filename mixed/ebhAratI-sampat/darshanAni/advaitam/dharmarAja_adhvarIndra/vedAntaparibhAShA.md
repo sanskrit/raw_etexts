@@ -12,14 +12,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1
 
 \[
 
-
-
-
-
-
-
-
-
 १ प्रत्यक्ष प्रमाणम् ।
 
 यदविद्याविलासेन भूतभौतिकसृष्टयः ।
@@ -864,8 +856,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1
 
 ।ह्रुले
 
-
-
 २ ॥ अनुमानम् ॥
 
  अथानुमानं निरूप्यते । अनुमितिकरणमनुमानम् । अनुमितिश्च
@@ -1018,8 +1008,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1
 
 ।ह्रुले
 
-
-
 ३ उपमानम् ।
 
  अथोपमानं निरूप्यते । तत्र सादृश्यप्रमाकरणमुपमानम् ।
@@ -1055,10 +1043,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1
  इति वेदान्तपरिभाषायामुपमानपरिच्च्हेदः ।
 
 ।ह्रुले
-
-
-
-
 
 ४ आगमः ।
 
@@ -1450,10 +1434,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1
 
 ।ह्रुले
 
-
-
-
-
 ५ अर्थापत्तिः ।
 
  इदानीमर्थापत्तिर्निरूप्यते । तत्रोपपाद्यज्ञानेनोपपादककल्पन
@@ -1545,12 +1525,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1
  इति वेदान्तपरिभाषायामर्थापत्तिपरिच्च्हेदः ।
 
 ।ह्रुले
-
-
-
-
-
-
 
 ६ अनुपलब्धि ।
 
@@ -1805,10 +1779,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1
  इति वेदान्तपरिभाषायामनुपलब्धिपरिच्च्हेदः ।
 
 ।ह्रुले
-
-
-
-
 
 ७ प्रामाण्यम् ।
 
@@ -2462,8 +2432,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1
 
 ।ह्रुले
 
-
-
 ८ प्रयोजनम् ।
 
  इदानीं प्रयोजनं निरूप्यते । यदवगतं सत् स्ववृत्तितया इष्यते
@@ -2863,17 +2831,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIyOTc0ODY1
 इति धर्मराज अध्वरीन्द्र विरचिता
 
  वेदान्त परिभाषा समाप्ता ॥
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

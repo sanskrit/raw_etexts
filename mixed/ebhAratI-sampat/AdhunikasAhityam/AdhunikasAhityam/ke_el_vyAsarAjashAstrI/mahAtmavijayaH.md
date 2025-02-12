@@ -15,21 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY5NzYxODc3NjU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **HIS EXCELLENCY  
 DR. KAILASANATH KATJU  
@@ -37,27 +23,18 @@ GOVERNOR OF WEST BENGAL
 GOVERNMENT HOUSE  
 CALCUTTA**
 
-
 Dear Sastriji,
 
-
  I have no doubt that your book, being such an excellent composition of great literary merit, would make a great appeal to Sanskrit knowing public and will be found both instructive and interesting.
-
-
-
 
 Yours sincerely,  
 (Sd.) KAILASANATH KATJU
 
-
-
 **FOREWORD**  
 BY
 
-
 **The Hon'ble Sri M. PATANJALI SASTRI**  
 Judge, Federal Court of India, New Delhi
-
 
  Pandit Vyasaraya Sastriar has asked me to write a foreword for his topical poem "Mahatma Vijia" and I am glad to have been afforded this opportunity of reading the poem and placing on record my tribute of appreciation of the qualities of his Muse.
 
@@ -84,15 +61,12 @@ An expression made immortal by Kalidasa in a different context is here aptly use
 
 **॥ श्रीः ॥**
 
-
 **॥महात्मविजयः॥**
-
 
 महात्मगान्धिर्महितापदानः  
 क्षितौ समन्तात् प्रथिताभिधानः।  
 मनोवचःकर्मभिरेकरूपो  
 महात्मनामप्यभवन्महात्मा॥१॥
-
 
 लोकं स दृष्ट्वा तमसाभिभूत-  
 मुद्वेगमुद्वेलमवाप्य चित्ते।  
@@ -261,7 +235,6 @@ An expression made immortal by Kalidasa in a different context is here aptly use
 
 ते डाकिनीं स्वामिह नर्तयन्तो  
 बालानिवास्मानुपलालयन्ति।
-
 
 ---------------------------------------------------------------------------------
 
@@ -741,7 +714,6 @@ An expression made immortal by Kalidasa in a different context is here aptly use
 
 =======================
 
-
 1. Mahatma Gandhi is a man of noble and heroic deeds. All earth rings with his praise. His thought, word and deed are of one mould. Verily he is the highest among the high-souled men.  
  2. He beholds the world covered with darkness. A great pity seizes him. Like the thousand -rayed sun, he with the flaming light of his soul, cleaves the darkness around.  
   3. He sees the forlorn oppressed by the insolent might. He strives to make the world walk in righteous-ness. Through utter self-denial the compassionate one dedicates himself to the service of all.  
@@ -858,7 +830,6 @@ An expression made immortal by Kalidasa in a different context is here aptly use
 
  ...... It is a rare work of Art and is full of noble emotions expressed in verses which have a sweet mellifluous felicitous flow. It is also a splendid answer to the challenging libel that Sanskrit is a dead language. It is a splendid tribute in the All India Language to the Greatest All India Leader.......  
 
-
 **SIR C P. RAMASWAMY IYER.**  
 *Ex Dewan of Travancore.*
 
@@ -876,7 +847,6 @@ An expression made immortal by Kalidasa in a different context is here aptly use
 
  ......Sri Sastri commands a Sanskrit style which should be the envy of every one who tries to write in Sanskrit. There is an originality and independence which gives the poem an individual.ty of its own.....
 
-
 **Dr. P. NAGARAJA RAO.** M. A.. D. Litt.,  
 *The Benares Hindu University.*
 
@@ -893,12 +863,10 @@ Justice **P. Y. RAJAMANNAN,**
 
  .........He has clearly brought out how Mahatmaji has given a new direction to ancient Hindu thought, Religion and Philosophy by demonstrating that life is not compartmental and that the higher teachings of religion can be utilised for the Political emancipation of a people
 
-
 **Prof. K. A. Nilakanta Sastri,**  
 *University of Madras.*
 
  ......The work is remarkable for the easy flow of its verse, its simple and elegant diction, and the sound grasp of the fundamental principles of Gandhi-ism.   
-
 
 *Works of Vidyasagar*** ***K L. V. Sastri under Printing.***
 
@@ -906,14 +874,5 @@ Justice **P. Y. RAJAMANNAN,**
 **श्रीकृष्णानन्दलहरी**— A Literary work.  
 **लौकिकन्यायाञ्जली**— A treatise dealing with Sanskrit Maxims.  
 **निपुणिकप्रहसन**— A Farce in 5 Acts.
-
-
-
-
-
-
-
-
-
 
 \]

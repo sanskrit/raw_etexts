@@ -11,23 +11,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5NzE3NDYzMDQ
 
 \[
 
-
-
-
-
-
-
 **ॐ**  
-
 
 **विष्वक्सेनसंहिता**
 
-
-
-
 **प्रथमोऽध्यायः  
 विष्वक्सेनः---**
-
 
    अथातः संप्रवक्ष्यामि भूपरीक्षाविधिं परम्।  
    कर्षयेच्छोधयेद्भूमिं प्रागुदक्प्रवणां शुभाम् ॥ 1 ॥  
@@ -8113,10 +8102,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5NzE3NDYzMDQ
 
 ** ------------------ -----------------**
 
-     
       
-
-
-
 
 \]

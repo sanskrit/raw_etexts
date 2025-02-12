@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMjgwNTYxMzk
 
 \[
 
-
-
 \[पूर्वपक्षःः\]  
 यथा सदसतां नैव विशेषोऽस्ति निजात्मनि ।  
 जदाजडानामप्येवं नास्त्यसाविति निश्चयः ॥ ०१ ॥
@@ -157,7 +155,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMjgwNTYxMzk
 
 \[श्रीमत्प्रतापभूभर्तुराज्ञया प्रीतये सताम् ।  
 मधुसूदनकौलेन संपाद्येयं प्रकाशिता॥\]  
-
-
 
 \]

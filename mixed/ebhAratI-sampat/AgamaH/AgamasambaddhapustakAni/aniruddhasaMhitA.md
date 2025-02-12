@@ -10,8 +10,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 \[
 
-
-
 ॥
 
 हरिः
@@ -850,8 +848,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ------------\*\*\*\*\*\*\*\*\*\*\*\*\*-------------
 
-
-
 अथ
 
 द्वितीयोऽध्यायाः
@@ -1298,8 +1294,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 -----------\*\*\*\*\*\*\*\*\*\*\*-------------
 
-
-
 अथ
 
 तृतीयोऽध्यायः
@@ -1579,16 +1573,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 तृतीयोऽध्यायः
 
 -------------\*\*\*\*\*\*\*\*\*\*\*\*\*--------------
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -2317,8 +2301,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 चतुर्थोऽध्यायः
 
 -----------\*\*\*\*\*\*\*\*\*------------
-
-
 
 अथ
 
@@ -3623,14 +3605,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 पञ्चमोऽध्यायः
 
 -------------\*\*\*\*\*\*\*\*\*\*\*\*\*--------------
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -5122,14 +5096,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 --------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
 
-
-
-
-
-
-
-
-
 अथ
 
 सप्तमोऽध्यायः
@@ -6007,20 +5973,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 सप्तमोऽध्यायः
 
 -------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*--------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -7366,24 +7318,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ----------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*-------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 नवामोऽध्यायः
@@ -8465,12 +8399,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 नवमोऽध्यायः
 
 -----------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*-----------------
-
-
-
-
-
-
 
 अथ
 
@@ -9582,14 +9510,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 --------------\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
 
-
-
-
-
-
-
-
-
 अथ
 
 एकादशोऽध्यायः
@@ -10622,18 +10542,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
 
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 द्वादशोऽध्यायः
@@ -11203,20 +11111,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 द्वादशोऽध्यायः
 
 -----------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*----------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -11903,8 +11797,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 त्रयोदशोऽध्यायः।
 
 ---------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*------------------
-
-
 
 अथ
 
@@ -12964,12 +12856,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 -----------\*\*\*\*\*\*\*\*\*\*\*\*--------------
 
-
-
-
-
-
-
 अथ
 
 पञ्चदशोऽध्यायः
@@ -13976,16 +13862,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ------------\*\*\*\*\*\*\*\*\*\*\*\*\*------------
 
-
-
-
-
-
-
-
-
-
-
 अथ
 
 षोडशोऽध्यायः
@@ -14829,20 +14705,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 षोडशोऽध्यायः
 
 --------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -16896,22 +16758,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 अष्टादशोऽध्यायः
@@ -17983,30 +17829,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 अष्टादशोऽध्यायः
 
 --------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*--------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -20852,22 +20674,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 -------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 विंशोऽध्यायः
@@ -22370,8 +22176,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 पुरोदितान्
 
-
-
 हरिमहोत्सवकर्मणि
 
 वास्तुषु
@@ -22379,8 +22183,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 वद
 
 ममाखिलदेवगुरोर्गुरोः
-
-
 
 प्रतिदिशं
 
@@ -22391,8 +22193,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 70
 
 ॥
-
-
 
 अहं
 
@@ -22422,8 +22222,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 स्कन्धासनस्थकमलासखवासुदेवं
 
-
-
 वेगावधूतपवमानसवेगयानम्।
 
 नागाधिप्रग्रहणलोलुपवक्रतुण्ड
@@ -22437,8 +22235,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 71
 
 ॥
-
-
 
 एवं
 
@@ -23504,22 +23300,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 -----------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*--------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 अथ एकविंशोऽध्यायः
 
 श्रीभगवान्--
@@ -24205,22 +23985,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 महोत्सवविधिर्नाम एकविंशोऽध्यायः।
 
 -------------\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -25708,26 +25472,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*-----------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 त्रयोविंशोऽध्यायः
@@ -26757,18 +26501,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 त्रयोविंशोऽध्यायः
 
 ---------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*--------------
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -30246,18 +29978,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ---------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
 
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 पञ्चविंशोऽध्यायः
@@ -31316,18 +31036,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ---------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
 
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 षड्
@@ -31893,18 +31601,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 षड्विंशोध्यायः॥
 
 --------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*--------------
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -32734,20 +32430,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 अष्टाविंशोऽध्यायः
@@ -33055,20 +32737,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 अष्टाविंशोऽध्यायः
 
 -------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -33617,20 +33285,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 ऊनत्रिंशोऽध्यायः
 
 --------------\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -34802,20 +34456,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 --------\*\*\*\*\*\*\*\*\*\*\*\*\*------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 एकत्रिंशोऽध्यायाः
@@ -34829,8 +34469,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 वक्ष्ये
 
 समासादवधारय
-
-
 
 देवानां
 
@@ -35299,18 +34937,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 एकत्रिंशोऽध्यायः
 
 -------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*--------------
-
-
-
-
-
-
-
-
-
-
-
-
 
 अथ
 
@@ -36196,30 +35822,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 --------------\*\*\*\*\*\*\*\*\*\*\*\*-----------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 अथ
 
 त्रयस्त्रिंशोऽध्यायः
@@ -36668,16 +36270,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 
 ------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
 
-
-
-
-
-
-
-
-
-
-
 अथ
 
 चतुस्त्रिंशोऽध्यायः
@@ -37071,17 +36663,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI3ODY5Mjcz
 समाप्ता
 
 ---------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*---------------
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

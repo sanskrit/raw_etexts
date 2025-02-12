@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1MDM2MTcyNDM
 
 \[
 
-
-
 ब्रह्मसूत्रम्
 
 1\. 1. 1.
@@ -2239,8 +2237,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1MDM2MTcyNDM
 4\. 4. 22.
 
 अनावृत्तिश्शब्दादनावृत्तिश्शब्दात्॥
-
-
-
 
 \]

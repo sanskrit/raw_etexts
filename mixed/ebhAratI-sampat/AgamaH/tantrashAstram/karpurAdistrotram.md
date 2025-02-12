@@ -15,29 +15,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjkxOTQ3MDc
 
 \[
 
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 ![](../books_images/U-IMG-1722250590Screenshot2024-07-29162357.png)
 
-
-
 [TABLE]
-
-
-
-
 
 **PUBLISHERS’ NOTE**  
 
@@ -54,8 +38,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcyMjkxOTQ3MDc
 प् p, फ्ph,  ब्b, भ् bh,  म्‌ m,  
 य्y,  र्, r,   ल l,  व्v,  श् ś,  
 ष्‌ ṣ, स्‌ s,   ह् h, ल ḷ.**
-
-
 
 CONTENTS  
 
@@ -87,8 +69,6 @@ CONTENTS
 | श्रीदक्षिणकालिकाया वामदक्षिणमार्गव्यवस्थाक्रमेण बलिदाननिरूपणम्‌                      |
 | श्रीदक्षिणकालिकाया गुरुपारंपर्यक्रमेण पुरश्चरणस्य दैविध्यकथनम्‌                      |
 
-
-
 |                                                      |
 |------------------------------------------------------|
 | स्वरूपाख्यस्तोत्रस्य पठनान्महाकवित्वप्राप्तिनिरूपणम्‌ |
@@ -99,18 +79,9 @@ CONTENTS
 | Appendix IV व्याख्यानोदाहृतप्रमाणग्रन्थानामनुक्रमः   |
 | Appendix V व्याख्यानोदाहृतप्रमाणवाक्यानामनुक्रमः     |
 
-
-
-
-
-
-
 ![](../books_images/U-IMG-1721732831Screenshot2024-07-12171137.png)
 
-
-
 By the same Author  
-
 
 **SHAKTI AND SHAKTA**
 
@@ -136,8 +107,6 @@ By the same Author
 
 **4th Edition (1951) Cloth bound—750 Pages. Price Rs. 25/-**
 
-
-
 **By the same Author**
 
 **THE SERPENT POWER**
@@ -149,15 +118,11 @@ By the same Author
 **Sth Edition (1953)                         
                       Price Rs. 25/-**
 
-
-
 **PREFACE**
 
 THIS celebrated Kaula *Stotra*, which is now translated from the Sanskrit for the first time, is attributed to Mahākāla Himself. The Text used is that of the edition published at Calcutta in 1899 by the Sanskrit Press Depository, with a commentary in Sanskrit by the late Mahāmahopādhyāya Kṛṣhṇanātha Nyāya-pañcānana, who was both very learned in Tantra-Śāstra and faithful to his Dharma. He thus refused the offer of a good Government Post made to him personally by a former Lieutenant-Governor on the ground that he would not accept money for imparting knowledge.
 
   Some variants in reading are supplied by this commentator. I am indebted to him for the Notes, or substance of the notes, marked K. B. To these I have added others, both in English and Sanskrit explaining matters and allusions familiar doubtless to those for whom the original was designed, but not so to the English or even ordinary Indian reader. I have also referred to the edition of the *Stotra* published by Gaṇeśa-Candra-Ghoṣa at Calcutta in 1891, with a translation in Bengali by Gurunātha Vidyānidhi, and commentary by Durgārāma-Siddhāntavāgīśa Bhattācārya. I publish for the first time Vimalānanda-Svāmī’s Commentary to which I again refer later. When in this Introduction or in the Commentary I have not mentioned these two works my authorities are the Tantras or Tāntrik works which I cite, or the information I have gathered from those whom I have consulted.
-
-
 
   One of the chief features of this *Stotra* is that it gives the *mantroddhāra* of the Dakshina-Kālikā. It not only gives us the *Dhyāna, Yantra, Sādhana and Svarūþa-varnanā* of the Mahādevī, but it also contains the chief Mantras of Dakṣiṇa- kālikā. The adjective *“Tava manu-samuddharaṇajanu”* qualifying *“idam stotram”*in Śloka 21 expressly states this fact.
 
@@ -181,15 +146,11 @@ The first Śloka contains , ***Krīṁ, Krīṁ Krīṁ   (3 akṣaras)***
 
   The words *“Svarūþaṁ”* (5th sl.) and *“Sakalaṁ”* (6th sl.) point to this Vidyārājñī. After the full *Vedyā-rājñī* has
 
-
-
 been given in the first five Ślokas, the 6th Śloka gives the various other Mantras of less importance and significance—ranging from one syllabled to nine-syllabled, 15-syllabled, 21-syllabled and so forth.
 
   This Mantroddhāra has been made following the authority of Kālikā-śruti, Niruttara-Tantra and other Tantras. Many commentators, however, have apparently in the view of Vimālananda failed to consult the above authorities, and have thus fallen into errors and have given a different *Mantroddh*ā*ra*. Some take the 1stŚloka to give a one- syllabled *mantra*, the 2nd s’loka as also the 3rd, two two- syllabled *Mantras*, the 5th a nine-syllabled one and so on: a view which it is contended is opposite to such passages as *“atha hainaṁ brahmarandhre brahma-svarūpinim āpnoti. . . . .. .bṛhad-bhānu-jāyāṁ uccaret’’* in the 1stSūtkta of Kālikopaniṣad; or passages in Niruttara-Tantra (Ch. II) beginning with “*Atha vaksye KuleśāniDakṣinā-kālikā-manuṁ”*and ending with *“Sarva-mantra-mayīvidyā sṛṣti-sthityanta-kāriṇī.”* The Svami further refers me to the end of the Kālikopaniṣad where dealing with the various Mantras of the Dakṣiṇa-Kālikāit is said *“Atha sarvām vidyām prathamaṁ ekaṁ dvayaṁ vā trayaṁ vā nāmatrayaputitaṁ va kṛtvā jaþet.”* The great Tantrik Pūrṇādnanda Giri explaining the passage says *“Sarvām vidyām-itipūrvoktadvāvimśatyākśaryāhþrathama bījaṁ vā bīja-dvayaṁ vā*etc. (*vide* Syāmā-rahasyaṁ, Rasikamohan’sedition, p. 36.)
 
    From the above consideration, it is clear that at the very beginning in the first 5 Ślokas the 22-syllabled *Mantra* is given and then the others. It may be added here that the fact of Mahākāla’s composing the Hymn in 22 Ślokas not more nor less—is also an indication of the correctness of the Svāmī’s view, who, in further support of it cites 5 Ślokas dealing with the *Mantroddhāra* from the *Krama-stava* of the
-
-
 
 Dakṣiṇa-Kālikā under the first 5 Ślokas of the Karpūrādi, which will be found in the printed text.
 
@@ -212,8 +173,6 @@ The Ślokas 9, 12, 14 contain *stuti*only.
 
   To the *Paśu, sādhana* by night is prohibited, for it connotes in Śākta-sādhana, worship with the *Pañcatattva.* The *Paśu i*s still bound by the *þāśa* (bonds) of desire, etc.,and he is, therefore, not *adhikārī*, for that which, if undertaken by the unfit, will only make these bonds stronger. For him, on the contrary, there are severe restrictions in this matter, for, as the Śāktakrama cited by the commentator says, “*Maithunaṁ tatkathāþaṁ tadgoṣṭhiṁ þarivarjayet.'*
 
-
-
 (The *Paśu* should avoid *maithuna,* conversation on the subject, and the like.) The *Paśu* should avoid the eight forms of *maithuna* known as *aṣtānga maithuna*—viz., *smaraṇaṁ* (thinking upon it), *kīrtanam* (talking of it), *kelih* (play with women). *þrekṣaṇam* (looking upon women), *guhyabhāṣaṇaṁ* (talk in private with women), *saṁkalþah* (wish or resolve for *maithuna*), *adhyavasāyah* (determination towards it), as well as *kriyāniṣpatith* (actual accomplishment). The Nityā Tantra, which the commentator cites, says: *“Rātrau naiva yajed deviṁ sandhyāyāṁ vā'þarāhnake’’—*“He (the *Paśu* should never worship the Devī during the latter part of the day or in the evening orat night.” To this, from amongst many other authorities, Imay add the Svatantra, which says that the Paśubhāva Sādhaka should do one lakh of *jaþa* in day time and that a *Vīra* devoted to his own Ācārāshould do one lakh of *jaþa* at night ;
 
 *Paśubhāvarato mantrī divā lakṣa-jaþaṁ caret.  
@@ -222,8 +181,6 @@ Svācāranirato viro rātrau lakṣa-jaþaṁ caret.*
    In connection with this verse I must observe that in the notes to verse 20 it is said that the first half of the 20th Śloka is meant for *“Paśusādhakas”*and that the 2nd half refers to the “*pūrnvbhiṣiktavīrasādhaka,*” as also that the word *“þaraṁ”* (afterwards) means and refers to the time when the *‘Paśu*’ having received *abhiṣeka* enters *virācārā* and is *adhikārī* for the midnight *þuraścaraṇa.* Vimalānanda tells me that this is wrong and that the whole S’loka has reference to the *vīra* or *divya-sādhaka* and that no portion of it refers to the *Paśu-sādhaka.*
 
   The quotation just made from the Svatantra-Tantra no doubt seems to lend support to the view that the first part of the Śloka refers to the Paśu, but he informs me and I fully accept the correction that he and other followers of the Śāstra knew the passage to bear a meaning which is consonant
-
-
 
 with his view, that is, it means this:—*mantrī* means the *vīrasādhaka;* the *mantrī* should perform *lakṣa-jaþa* in the day time following the *ā*c*ā*ra of the paśu (*paśu-bhāva-ratah*). The vīra-sādhaka should perform *lakṣa-jaþa* in the night following his own *ācāra* (*svācāra-niratah*). ‘The word “ *svācāra*” (own *ācāra*) points to his interpretation being correct.
 
@@ -246,8 +203,6 @@ Rātrau māṁsāsavairmaisyairmudrābhir matthunod-bhavath.*
 
  The reason of the *vīrasādhaka* being instructed to adopt the *ācāra* of *brahmacārī* in the day-time is the necessity for the concealment of the *vīrācāra* from the public which Tantra so often insists upon. Śiva says that *vīrācāra* cannot be understood aright by the common people and therefore must be concealed, as closely as a man should conceal his own mother’s sin “*goþayet mātṛ-jāra-vat.*”
 
-
-
   Moreover, the worship of Kāli in *“paśvācāra”*is totally forbidden by Śiva. The *Pas'u* is precluded by Tantra from the worship of Kāli. For example the Niruttara-Tantra says :
 
 *Divya-bhāvaṁ vīrā-bhāvaṁ vinā Kāliṁ þraþūyjayet.  
@@ -263,16 +218,12 @@ Rauravaṁ narakaṁ yātiyāvad ābhūta-saṁplavṁ*
 
   Verses 10, 15-18, and the second portion of verse 20 deal with *Latāsādhana*. The *śakti* of this *sādhana* is ordinarily the own wife of the *sādhaka,* married according to the Vaidik injunctions; the *svaśakti* or *Ādyāśakti,* as she is technically called in Tantra. One’s own wife is *Ādyā-Śakti* and *Sādhana* should be done with her aid *(Ādyā*-*śaktih svadārāh syāt tāmevaśṛtya sādhayet)*. With her is practised that *śaktisādhana,* the aim of which is the acquirement of self-control, which, checking the outward-going current, places the *sādhaka* upon the path of *nivṛtti.* Indeed, the Kaulikārcanadipikā says, “Without *ādyāśakti*worship is but evil magic”. *(Ādyā-Śaktiṁ vināpūjā. abhicārāya kalþate*). It is only the *siddha,* which term is here used in the specia\] sense of one
 
-
-
 who has obtained complete control over his passions, to whom is permitted another *śakti(þaraśaktī)*. So the Prāṇatoṣinī quotes, “a man shall obtain *siddhi*with his own *śakit,* and afterwards (that is, when he is siddha) he should make *japa* with *þaraśakitī*"’ (*Svaśaktau siddhim āpnuyāt þaraśakiau tadājaþet*). And similarly Niruttara Tantra says, that the *sādhaka* who is *siddha*in Kulācadra may worship “another” woman. (*Siddhamantrī kulācāraþarayoṣām þrapūtjayet*). In both these cases*þaraśakti*has a double meaning *vis.*, “another’’ woman that is corporeal woman, or “Supreme” that is the Supreme Woman who in the body is *Kuṇdalinī-Śakti*. This latter appears to be sense in the quotation which speaks of the *siddhamantrī*. It has been said also, as in the Mahānirvāṇa Tantra, that *þaraśakti* must (if unmarried) be married either by Vaidika or Śaiva rites, or (if married and the husband is dead) according to the latter rite. Further, that which determines the moral character of an act is the intention with which itis done. As the Kaulāvalīya says, when a man’s intention is bad then his act is so, otherwise there is no fault :
 
 *Ata eva yadāyasya vāsanākutsitābhavet.  
 Tadādoṣāya bhavats nānyathādūṣaṇaṁ kvacut.*
 
   As an example of the same act and varying intention, it is aptly said: “A wife is kissed with one feeling and a daughter’s ace with another”. (*Bhāvena cumbitākāntābhāvena duhtirānanam*). *A Mantrin* who is given over to lust, for the subjugation of which the *sādhana* is prescribed, goes, as is said in the Tantrasāra, to the Hell called Raurava. (*Lingayonirato mantri raurakang narakang brajet*). In the words of the Āhārabheda-Tantra—*Vamācāro bhavet tatra vāmābhūtvāyajet parām.* “One may be a *Vamācāre* if one can worship Vām*ā* being onesélf a woman.” This is on the principle that a worshipper should always be like the
-
-
 
 object of his worship. Woman is *Devatā,* and the embodiment of the Supreme Śakti, and is as such honoured and worshipped, and is, when *pūjyā śakti*, never the subject of enjoyment.
 
@@ -288,8 +239,6 @@ Etat te kathitaṁ sarvaṁ siddhaviramataṁ Śṛiṇu*.
 
 It is the *sādhana* of the cremation-ground on which all passion is burnt away. There are two kinds of cremationground, of which the one is the funeral pyre (*citā*), and the other *yonirūþā mahākālī.* As the first Chapter of the Niruttara-Tantra says there are two cremation grounds namely that which is the funeral pyre and the *yoni*which, in its *sūkṣma* sense, is the Devī, the *śmasāna* being in the same sense dissolution or *pralaya*. (*Śmaśānaṁ dvividhaṁ*
 
-
-
 *devichitā yoniþrakīrtitā*). In even the *sthūla* sense the *sādhaka* must be *susādhaka*, for union without right disposition—*jaþa, dhyāna* etc.—is the animal *maithuna* of a *þaśu.*
 
   Śloka 19 refers to animal and human sacrifice to Kālī. Reference to this sacrifice is also made in the Kālikā-Purāṇa, and the Tantrasāra speaks of a substitute in the figure of a man made of the paste of cereals. The latter work also says that by the sacrifice of a man one acquires great prosperity, and the eight siddhis. (*Naradatte maharddhih syād aṣtasiddhir-anuttamā*). But it adds that this is not for all. For the Brāhmaṇa may not make such a sacrifice. (*Brāhmānāṁ narabalidāne nādhikārah*). And if he does so, he goes to Hell. Moreover according to K. B., who cites as his authority the Yāmala quoted in the Kālikalpalatā, the King alone can make such a sacrifice.
@@ -297,8 +246,6 @@ It is the *sādhana* of the cremation-ground on which all passion is burnt away.
   This leads one to point out that the Hymn has other than these gross (*Sthūla*) meanings. In Brāhamanism everything has three aspects—Supreme (*Para*), Subtle (*Sūkṣma*) and Gross (*Sthūla*). Thus the nineteenth Śloka when referring to the sacrifice of various animals and of man himself intends according to the subtle sense the six great sins for which they stand, ranging from Lust (goat) te Pride (man). It is these which must be sacrificed by the knowers who are worshippers of the Mother the age of material sacrifice, so universal throughout the world, having passed away. So again the word. Paraśakti may refer to the Supreme Śakti or may be used in the sense of a Śakti other than the *svaśakti*or Sādhaka’s wife who, may in the case of the competent (*adhikārī*) be an associate in the worship on the principle stated in the Guhyakālīkhanda of the Mahākāla-Samhitā.
 
   “As is the competency of the Sādhaka, so must be that of the Sādhikā. In this way only is success attained and not otherwise even in ten million years ”,
-
-
 
 ***Yādrs'ah sādhakah þroktah Sādhikā’þica tādṛs'ah  
 Tatah siddhim-avāþnotinānyathā varṣa-kotibhih.***
@@ -310,8 +257,6 @@ Tathā'þi laukikācāram manasā'pi na laṅghayet.***
 
   But *Paras’akit* again may mean no woman at all, but Supreme Śakti or the Mother Herself whose forms they are and in such sense the union of the Sādhaka is with the “woman” within himself—the Kuṇdalinī Śakti who in Yoga unites with Her Supreme Husband Paramaśiva. (See A. Avalon’s “Serpent Power”’). The context must be known as in the misunderstood saying *“ Maithunena mahāyogīmama tulyo na saṁśayah,”* which does not mean, as a recent English work on Hinduism suggests, that by sexual connection (*Maithuna*) the *Mahāyogī* becomes without doubt the equal of Śiva or God. This is on its face absurd and had it not been that such criticism is clouded with prejudice the absurdity would be recognised. How can sexual connection make any one God or His equal? The person spoken of is a *Mahāyogī*who, as such, has no connection physical or otherwise with women. *Maithuna* means “action and
 
-
-
 reaction”and “coupling” and sexual intercourse is only *one form* of such coupling. Thus when Mantra is said there is a coupling or *Maithuna* of the lips. In Yoga there is a coupling (*Maithuna*) of the active and changeless Principles of the Universe. The ‘saying means that the *Mayāyogī*who unites Kuṇdalī-Śakti in his body with Paramaśiva becomes himself Śiva.
 
   So again it is said in an apparently alarming verse quoted by Tarkālaṁkāra, in his commentary on the Māhanirvāṇa.
@@ -321,8 +266,6 @@ Guror-mūrdhani þadaṁ dattvā þunarjanma na vidyate.***
 
   This verse in its literal sense means that if any one commits incest with his mother and sister and places his foot on the head of his Guru he is liberated and is never again reborn. But of course that is not the meaning. The first half of the line refers to the placing of the *Jīvātmā* in the triangle situated in the *Mūlādhāra* centre with the *Svayaṁbhuliṅga* in it which triangle is called *Mātṛ-yonī*. The *Liṅga* is the *Jīvātmā.* From this point upwards, after union with Kuṇdalinī, the *Jīvātmā*is to be led. The union of*Jīvātmā* with Kuṇdalinīis spoken of in the second half of the first line. Kuṇdalinī is the sister of the *Jīvātmā*both being in the same body. The meaning of the last line is as follows :—after union of Kuṇdalinī and *Jīvātmā* the united couple are led up to the *Sahasrāra* or thousand-petalled lotus in the head which is situated above the twelve-petalled lotus which again is the. abode of the Guru. When the Yogīis above the twelve-petalled lotus his feet may be described as being on the head of the Guru. Moreover it is said that at this point the relationship of Guru and disciple ceases. *Mātṛ-yoni*is also the term given to those sections of the fingers between the joints on which count of the Japa or recital of the mantra is *not* to be done. If *Mātṛ-yoniṁ*suggests incest, then this verse
 
-
-
 is a prohibition of it—*Mātṛ-yoniṁ þarityajya viharet sarvayoniṣu*. There are many other technical terms in Tantra-Śāstra which it is advisable to know before criticising it. One of the tests to which an intending disciple may be put consists in being questioned as to such passages. If he isa gross-minded or stupid man his answer will show it.
 
   In order therefore that the Hymn may be understood in its various aspects I have given in the notes explanations of or in respect of its *Sthūla* or gross meaning. This is followed by the valuable commentary given to me, some years ago and now first published, by Vimal*ā*nanda-Sv*ā*mīwhich is called *Svarūpavyākhyā*; that is, it gives the subtle (*Sūkṣma*) or, as we should say in English, the tnner sense or esoteric meaning according to the teaching of his own Guru Mahāmahopādhyādyā-Rāmānandasvāmī-Siddhāntapañcānana. The text books and Commentary are preceded by an admirable little essay of Svām*ī* Vimalānanda by way of Introduction to the *Vimalānandādāyinī svarūpa-vyākhyā*on his “ Lord of Hymns” which is commonly known as the Karpūrādi Stotra chanted by Mahākāla to, and in honour of, Dakṣiṇā-Kālikā. It, as also the inner-sense Commentary are written for those liberation-seeking Sādhakas who, worshipping Śirīvidyā, meditate not on the gross form (*Sthūlamūrti*) but on the *Svarūþa-tattva* of BrahmavidyāKālikā. As such many will be glad, as I was, to read it and will derive benefit therefrom.
@@ -330,8 +273,6 @@ is a prohibition of it—*Mātṛ-yoniṁ þarityajya viharet sarvayoniṣu*. Th
   I may note here that the Svāmī while revising the Vyākhyā, has given a new interpretation of the line *“te Lakṣmi-lāsya-līlā-kamala-dala-dṛśah vāma-rūpāh bhavant:"’* in the 5th Śloka and of *“ rati-rasa-mahānanda-nirātām”* in the 13th Śloka.
 
   On the attainment of *siddhi,* ritual ceases. There is neither sacrifice nor worship, nor *yoga, þuraścaraṇa, vrata, jaþa*, or other *karma*. For all *sādhana* ceases when it has
-
-
 
 borne its fruit in ***Siddhi***. The Siddha-Kaula is beyond all rules.
 
@@ -344,13 +285,7 @@ borne its fruit in ***Siddhi***. The Siddha-Kaula is beyond all rules.
 
 **30, May 1922.**
 
-
-
-
-
 ![](../books_images/U-IMG-1721819390Screenshot2024-07-09151321.png)
-
-
 
 **INVOCATION**
 
@@ -366,15 +301,11 @@ Obeisance to the Supreme Devatā.
 
   All-good and all-powerful Parameśvara is without beginning or end. Though in Himself Nirguna He is the Ādhāra of the three Guṇas. Though Himself formless He creates, preserves and withdraws the world of extended matter (Prapafica) by means of the Āvaraṇa and Vikṣepa-Śaktis of His own Māyāwhich can make that possible which seems impossible. The Śvetāśvatara-Upaniṣad says that by meditation was seen the Sva-śakti of the Deva, who is the abode of all causes, associated with Kālatattva. In the Niruttara-Tantra Śiva speaks of the three-eyed corpse-like One, Nirguna but also seat of Gunas associated with Śakti. Though
 
-
-
 Himself without beginning, middle or end, He creates and is the material Cause of the world which has a beginning, middle, and end. For this reason the Tantras and other Śāstras call Him Ādinātha, Mahākāla, Paramaśiva and Paramabrahman. It is this unlimited, undivided, beginningless, and endless Mahākāla who is imagined to be limited by the Sun, Moon and Planets, and, as such, is called by the names of Kalā, Kāṣṭhā, Muhūrta, Yāma, Day, Night, Pakṣa, Month, Season, Half-year, Year, Yuga, Kalpa and so forth. It is He who divides Time into Kāla, Kāṇthāand so forth, and as Vyaṣti is called by the name Kāla, and the rest. He is named Paramaśiiva Mahākāla when creating, preserving and withdrawing the millions of worlds.
 
    Apart from individual name and form, He exists as the Samaṣti of them and the Endless Supreme Greatness (Paramomahān). Viṣṇu-Purāṇa says that Bhagavān Kāla is without beginning or end. From him appears the limited in creation. Atharvaveda says that Kāla created beings (Prajā) He is Prajāpati. From Kāla was self-born Kaśyapa and Tapas. Mahākāla is omniscient since He is all pervading, dependent on none, and the Ātmā of all. Kūrma-Purāna also says that he is the Supreme, imperishable, without beginning or end, all-pervading, independent, the Ātmā of all who fascinates (Manohara) all minds by His greatness. Kālamādhava cites Viṣṇu-dharmottara as saying that He is called Kāla because of his dissolving (Kalanāt) all beings, and He is Parameś’vara because He is Himself without beginning or end. Mahākala is Himself Nirguṇa and Niṇkriya, but his Śakti makes the Sun and other heavenly lights rise, stay and set.
 
    It is by the Power of the Śakti of Kāla that men and other Jīvas are conceived in the womb, are born, attain childhood, boyhood, middle and old age and leave the world on death. In the Śāntiparva of Mahābhārata, Vedavyāsa
-
-
 
 says that it is through Kāla that women bear, that birth and death occur, winter, summer and rains come, and the seed germinates. Even Brahmā, Viṣṇu and Rudra appear, stay and disappear through the Śakti of Kāla. None can escape Its operation. Viṣṇu-Saṁhitāsays that even those Devas who create and withdraw the world are themselves withdrawn by Kāla. Kāla or time is certainly then the stronger. Mahākāla is called Mahākālī because He is one and the same and not different from His eternal Śakti. It is She whois Mahāvidyā, Mahādevī Mahāmayā, and Parabrahmarūpiṇi. As Ādinātha Mahākāla is the first creator of the world so the Śakti of Mahākāla, the merciful Mahākālīis the Ādiguru of the world. Yoginī Tantra says that Mahākalī is the Mother of the world, and one with Mahākāla, as is shown in the Ārdhanāriśvara Mūrti.
 
@@ -382,25 +313,17 @@ says that it is through Kāla that women bear, that birth and death occur, winte
 
   This Kālī again who is Parameṣtiguru and grants Kaivalya, compassionating the sensuous and short-lived Jīvas of the terrible Kaliyuga revealed the Śāmbhavī-Vidyā. This, which was taught in the form of conversations between Devī and Īśvara, had been during the three preceding ages kept as concealed as a lady of high family from public gaze. It contained three sets of sixty-four Āgamas each, which revealed the path of Liberation for these Jīvas. Though She is Herself eternal and Saccidānandarūpinī, She at times out of
 
-
-
 compassion for Sādhakas assumes forms fitted for their Sādhanā. Similarly the Veda, Āgama and the rest though everlasting portions of the Śabdabrahmarūpiṇī are only revealed to Sādhakas at different times in the several Yugas.
 
  When the Mahādevī who is Consciousness (Cinmayi) at the beginning of the Kalpa was pleased by the Tapasyāof Deva Rudra, floating on the Causal Waters, She assumed the Virād aspect and became thus visible to Him. At that time by the command of Mahādevī the Deva Rudra saw in the Suṣuṁnā millions of universes (Brahmāṇḍa) and millions of Brahmās, Viṣṇus and Maheśvarasin them. The Deva, greatly wondering in the Heart-Lotus of Mahādevī, there saw the Mūrti of Śabdabrahman consisting of Āgamas, Nigamas, and other Śāstras (See Yoginī-Tantra, 9th Patala). He saw that of that Mūrti, Āgama was the Paramātmā, the four Vedas with their Angas were the Jīvātmā, the six systems of philosophy (Darśana) were the senses, the Mahāpurāṇas and Upapurāṇas were the gross body, the Smṛtis were the hands and other limbs, and all other Śāstras were the hairs of that preat Body. He also saw the fifty Mātṛkā (Letters) resplendent with Tejas on the edges and petals of Her Heart-Lotus. Within the pericarp of the Lotus of the Virādrūpiṇī He saw the Āgamas, brilliant as millions of suns and moons, replete with all Dharma and Brahmajñāna, powerful to destroy a!l Māyā, full of all Siddhis and Brahmanirvāṇa. By the grace of Mahākālī ;he fully mastered the Veda, Vedānta, Purāṇas, Smṛiti and all other Śāstra. Later, Brahmāand Viṣṇu received this knowledge of Āgama and Nigama from Him.
 
   In the Satyayuga Brahmārevealed the Smṛtis, Purāṇas and other Śāstra to the Devaṛṣis. In this way Brahmavidyāwas promulgated to the world. This therefore is authority to show, that just as Brahman is everlasting, so are the Āgamas and Nigamas which tell of Brahman. Just as in the Satya and other Yugas, only the three twice-born castes, wearing the
 
-
-
 sacred thread, but not the Śūdra and other low castes were entitled to worship according to the Veda, so in those three Yugas only Devaṛṣis, Brahmaṛṣis and Rājaṛṣis, who had conquered their passions and knew Advaita doctrine and Brahman, were entitled to the Āgama Śāstra which destroys all sense of difference caused by ignorance and grants knowledge of Advaitatattva.
 
    By Śiva’s command they kept it as secret in their heart as they would a knowledge of their own mother’s illicit love. By Upāsanāthey became liberated whilst yet living (Jīvan-mukta) and attained to Brahmanirvāṇa. At that time the Upāsanā of the Āgama was unknown to Sādhakas devoted to Karma. For this reason many people nowadays think the Tantra-śāstra to be of recent origin. Probably all know that in the first three Yugas Brāhmaṇa boys, after investiture with the sacred thread, used to learn the Karmakāṇda and Jñānakāṇda of the Veda orally from their preceptors. The Veda was not then classified or reduced to writing. Towards the close of the Dvāparayuga, Śrikṛṣṇa-dvaipāyana Mahaṛṣi Vedavyāsa divided the Veda into four parts and reduced it to writing. This however does not show that the Veda is a recent production. The Supreme Science (Parāvidyā) which is contained in the Āgama was also handed down from generation to generation of Gurus in the first three Yugas and is being now similarly transmitted. Towards the end of the Dvāparayuga, and at the beginning of the Kali age, merciful Siva impelled by compassion for humanity bound in the toils of ignorance, divided the Tantra-śātra, which is unlimited knowledge, into three sets of sixty-four parts each, according to the necessity of different Adhikārīs, and then told them to Gaṇapati and Kārtikeya the two beloved sons of Pārvati. They repeated these Tantras to Ṛṣis of Siddhāśramas, aad these last, in their turn, told them to their own disciples. Of the Ṛṣis who knew Āgama the chief was Dattātreya, an
 
-
-
 incarnation of Viṣṇu. At the beginning of the Kalpa the ancient Brahmavidyācontained in the Āgama appeared from out the Parameṣti-guru who is Mahābrahmavidyāand exists in man’s heart unlimited and imperishable. If Sādhanāis done according to the instructions of a Sadguru. it becomes visible in the Sādhaka’s heart. Upāasanā, in the Vaidik form, predominated in the Satyayuga. In those days Brāhmaṇas, and other twice born castes, impelled by a desire for wealth, progeny and so forth used to worship Indra, Agni, Vāyu, Sūrya, Soma, Varuṇa and other Devas presiding over particular Śaktis of Parameśvara in whom allŚaktis reside. But desire-free Brahmaṛṣis and Mahaṛṣis did Sādhanāof Brahmavidyā the full and perfect Śakti. And so we see in the tenth Maṇdala (१२५) of the Ṛgveda-Saṁhitāthat Mahādevī appeared in the heart of the daughter of Mahaṛṣi Āmbhṛṇi and so told the true nature of Brahmavidyāto Ṛṣis. This is the Devīsūkta full of Advaitatattva, the Hymn telling of the true nature of Brahma-vidyāin the Veda. In the Tretā & and other Yugas the Brāhmaṇas and other twice-born devoted to the Karmakāṇda used to perform Yajñas and so forth, according to the Smritiśastras of Manu and others. But Brahmarṣi Vaṣiṣṭha (in Cinācāra) Rājaṛṣi Viśvāmitra (see Gandharva Tantra, First Patala), Videharāja Janaka, Bhṛgurāma the son of Jamadagni (see Kālīkulasarvasva), Śri Rāmacandra and other high-souled men were worshippers of Brahmavidyāthe full and perfect Śakti. Again in the Dvāparayuga, despite the existence of Vaidik and Smārta cults, the Agnihotra Yajñia and other rites used to be performed according to the Purāṇas. But high-souled Śrikriṣna the son of Vasudeva (see Rādhā-Tantra, Devī Bhāgavata and Mahābhārata, Anuśāsana Parva, Ch. 14), the five Pāndavas namely Yudhiṣthira and others (Virāta Parva, Ch. 6) the high-souled Rājaṛṣi Bhīshma, the great Muni Vedavyāasa, high souled Śukadeva, Asita, Devala and Brahmarṣis such as Durvāsāwere worshippers ‘of
-
-
 
 Mahāvidyāthe perfect Śakti. Of this the Mahābhārata and other books provide particular proofs. In the present Kaliyuga also the ten Śaṁskāras such as marriage and so forth of the twice born, and the obsequial ceremonies such as Śrāddha are performed according to Vaidik ritual. Smṛti governs Cāndrāyana and other matters relating to Āśrama and legal affairs such as inheritance. The autummal Deurgā-pūjāand other Vratas are performed according to the Purāṇas. But initiation, Upāsāna of Brahman with Śakti and various practices of Yoga are done according to the ritual of the Āgama Śātra.
 
@@ -408,37 +331,23 @@ Mahāvidyāthe perfect Śakti. Of this the Mahābhārata and other books provide
 
   In the Yoginī-Tantra Īśvara says to Devī that the difference between Vedas and Āgamas is like that between Jīva and Ātmā, that is between Jīva covered with Avidyāand Īśvara who is full of Vidyā. Indra and other Devas who used to be worshipped as Īśvaras in Yajñas held under the Karmakāṇda. or Saṁhitā of the Vedas are, in Tantra-śātra, worshipped as the Presiding Devatas of the Dikpālinī Śakti of Her who is all Śaktis (Sarvaśakti-svarūpinī. The three Īśvaras Brahmā, Viṣṇu and Rudra of the Vedas and Purāṇas are in Tantra-śāśāstra the presiding Devatāds of the creative, preservative, and dissolving Śaktis of Mahādevī. As such they are worshipped as the supports of the couch of the
 
-
-
 Mahādevī. She in the Devīgītāsays that ‘ Brahmā, Viṣṇu, Īśvara, Sadāśiva are five Mahāpreta at my Feet. They are constituted of the five Bhūta and represent the five different elements of matter.’ ‘I however’ She says ‘am unmanifested conciousness (Chit) and in every way beyond them.’
 
   Again the Veda says ‘All this is verily Brahman.’ Despite this Mahāvākya, various distinctions are made, such as those of caste, Adhikāra of men and women and so forth. So a male Brāhmaṇa may say Vaidik Mantras but not Brāhmaṇa women. Distinction was again made between objects as between the water of the Ganges anda well. All such distinctions are wholly opposed to the Spirit of the Great Word (Mahāvākya). The Tantra-śāstra says that the supreme Brahman is both subtle and gross. In dependence on the truth of this Mahāvākya Tāntrik Sādhakas purify wine which is ‘not to be taken and drunk’ according to Veda. Considering it to be as holy as nectar, they offer it into the mouth of Kulakuṇdalinī who is Consciousness itself (Citsvarūpinī). Again, in accordance with Veda, the Tantra holds food to be sacred and knowing that food is Brahman ordains the offering of it to Mahādevī. This offered food is Mahāprasāda and very holy and rare even for Devas, and whether it be brought by a Caṇdāla, or even fallen from the mouth of a dog. The Vedas and Smṛti say that the Caṇdālā and other Jow castes are untouchable. On touching them one must bathe, do Aghamarshana and so forth. But the Tantra-Śāstra says that even a Caṇdālā, who has a knowledge of Kula doctrine and Brahman, is superior to a Brahmaṇa who does not know Brahman. The Tantra-Śāstra again says that during the Cakra all castes are equal. Since all are children of the one Mother of the World, no distinctions should be made at the time of worshipping Her. It is on this Tāntrik authority that no caste distinctions are observed in the matter of eating and so forth in the Virajākṣetra of ŚriŚri VimalāDevī. The
 
-
-
 Veda again prohibits the performancs of Yajña or worship after the taking of food. Tantra-Śastra however says that one should not worship Kālika whilst suffering from hunger or thirst otherwise She becomes angry. That is since Śiva and Jīva are really one it is futile to worship the Paramātmāsaying ‘I offer Naivedya’ when the Jīva, who is one with It, is in want of food and drink. Smṛti again, which explains Veda ordains that the Shālagrama stone which represents Nārāyana should not be touched or worshipped by any but Brāhmanas. On the other hand, the Tantra-Śāstra ordains that the Bānaliṅga representation of the Brahman may be touched and worshipped not only by Brāhmaṇas but by Śūdras, Caṇdālas and women. In fact the Karmakāṇda of Veda contains many such ordinances opposed to Brahman-knowledge. For this reason Bhagavān Śrikṛṣṇa has said in the Gītā that the Vedas are concerned with objects constituted of the three Guṇas (Triguṇaviṣaya) and bids Arjuna to free himself of the Guṇas. He says the Veda contains the Karmakāṇda but that he who seeks the Brahman-state above the Guṇas should abandon the Karmakāṇda and perform Sādhanāaccording to Śāstra by which Liberation is gained. In spite however of differences in worship and practice both Veda and Tantra Śāstras are one in holding that there can be no Liberation without Tattvajñāna. In the Nirvāṇa-Tantra Śiva says ‘Oh Devī, there is no Liberation without Tattvajñāna.’ According to Veda, a Sādhaka, in order to become fit for Nirvāṇa, must have first accomplished the fourfold Sādhanā. He must have acquired the faith that Brahman is alone everlasting, and have no desire for happiness either on earth or in heaven. He must possess the six virtues, Śama, Dama and so forth, and must long for Liberation. He then discusses (Vicāra) and ponders on the Mahāvākya ‘That thou art’ (Tat tvam asi), and thus realizing the unity of Paramātmā aud Jīvātmā, attains the knowledge ‘He I am’ (So’ham). .
-
-
 
   In Tāntrik Upāsanāthe Jñānakāṇda is mingled with the Karmakāṇda. The Agama teaches the ignorant Paśu, steeped in dualism, Virabhāva Sādhanāin which dualism and non-dualism are mingled. It thus endeavours to raise them to the divine state of Jivanmuktas, the state of pure Monism. Manu says ‘Know dualists to be Paśus. Non-dualists are Brāhmaṇas. Rudrayāmala says that Virabhāva is revealed for the development of jñāna. After perfecting Jñāna and attainment of Brahmasiddhi, the Sādhaka becomes Devatāin a pure state of Sattva. The Vedānta and philosophic Śastras are replete with instructions and arguments touching non-dualism. But they do not indicate the path by which one can be in actual practice non-dualistic. For this reason we see Vedāntic Pandits deeming it unclean to touch a low caste man such as a Śūdra. They also observe endless distinctions as to what should or should not be eaten, and what should and should not be offered to Devatā. Tantra-Ś’astra however says that non-dualistic Bhāva (Bhāvādvaita) should be accompanied by non-dualistic action (Kriyādvaita). The Yogavāsistha (Rāmāyana) says that to the Muni who realizes nondualism (Advaita) in Bhāva, in Kriyā, and in objects (Dravya) in all these three matters the world, seems but a dream.
 
    According to the instruction of Tantra-Śāstra the Sādhaka rises in the early hours of the morning, and sitting on his bed, meditates as follows: ‘I am the Devī and none other. I am that Brahman who knows not grief. I am a form of Being-Consciousness-Bliss, Whose true nature is eternalLiberation.’ Again at noon sitting at worship he does Bhūtaś'uddhi, and therein merging the 24 Tattvas beginning with earth in Paramātmāand thinking of the Paramātmāand Jīvātmāas one he meditates: “He I am.’ Gandharva-Tantra says that, after due obeisance to the Guru, the wise Sādhaka should think ‘He I am’ and thus unite Jīvātmāand Paramātmā. In all Stūla-Dhyāna.of Mahāvidyās, forming
 
-
-
 part of daily worship, Tantra-Śāstra everywhere enjoins meditation on the Mahādevī as not different from, but one with, the Sādhakā’s Ātmā. The Kālī-Tantra says that, after meditating as enjoined, the Sādhaka should worship the Devī as Ātmā. ‘He I am’ (So’ham). Kubjikā-Tantra says that the Sādhaka should think of his Ātmāas one with Her. Nila-Tantra in the Dhyāna of Tārāsays that meditation should be done on one’s own Ātmā as one with the Saviour-goddess (Tārinī). In Gandharva-Tantra Mahādevī says, as regards the Dhyāna of Tripurasundarī, that the Man who meditates on the unattached, attributeless, and pure Atmā which is Tripurāas one with, and not different from, his own Ātmābecomes himself Her (Tanmaya). One should become Her by ever thinking ‘She I am’ (Sā’ham). Again in the Kālī-kula-sarvasva Śiva says that whoever meditates on the Guru and recites the Hymn of the spouse of Śiiva and thinks of Kālikā’s Ātmāas one with his own Atma is Śri Sadāśiva. Similarly Kulārṇava Tantra says ‘The body is the temple of Devatā and the Jīva is Deva Sadāśiva.’ Let the Sādhaka give up his ignorance as the offering (Nirmālya, which is thrown away) and worship with the thought and feeling “He I am.’ It is not only at times of worship and so forth that the Sādhaka is enjoined to meditate on Her who is Paramātmāas one with his own Ātmā. Śiva teaches that our thought and feeling should be non-dualistic in all that we do, in eating, in walking and so forth. Hence in the Gandharva- Tantra Śiva says ‘I am both the Deva and the food offered to Him, the flower and perfume and all else. I am the Deva. There is none other than Me. It is I who worship the Deva and I am also Deva of Devas,’ Again it is ordained that at the time of taking Kāraṇa (wine) and the rest they should be offered to the Fire of Consciousness in one’s own heart, uttering the Mantra, and thinking that. Kula-Kuṇdalinī extends to the tip of his tongue, let the Sādhaka say: ‘The
-
-
 
 liquid shines. I am the Light. I am Brahman. She I am.I offer Āhuti to my own Self Svāhā.’ He who does Sādhanā of the Mahāvidyā in Virādchārā with such Advaitabhāva attains by Her Grace to Divyabhāva, and with the thought ‘I am Brahman’ becomes liberated whilst living, and on death is one with Mahādevi. In the Devigitā Śri Śri Devī says ‘He becomes Myself because both are one.’ Again the Mahānirvāṇa-Tantra enjoins a similar non-dualistic feeling in the Mantra to be said when taking the Dravya (wine). The ladle is Brahman, the offering is Brahman, the fire is Brahman, the offering is made by Brahman and to Brahman he goes who places all his actions in Brahman.’
 
    Saccidānanda Mahāvidyā, in undistinguishable union of Śiva and Śakti, can alone be worshipped with such non-dualism of feeling. Although Tāntrik worshippers are divided into five communities namely Śākta, Śaiva, Vaiṣṇava, Gāṇapatya, Saura the first alone are all Dvijas since all worshippers of Sāvitri (Gāyatrī) the Mother of the Veda belong to the Śakta community. The Mātṛkābheda-Tantra says ‘ Sāvitrī the Mother of the Veda was born of the sweat of Kālī’s body. That Devī grants the threefold fruit and is Śakti of Brahman.’ Sādhakas belonging to the other four communities worship their respective male Devatās associating with them their Śaktis. Thus the Śaivas worship Śiva under the names Umā-Maheśvara, Śiva-Durgā, Kāli Śaṁkara, Arddhanāris'vara and so forth. The Vaiṣṇavas worship Viṣṇu under the names, Rādhā-Kṛṣṇa, Lakṣmī-Nārādyaṇa, Sitā-Rāma, Śrī-Hari and so forth. In the Nirvāna-Tantra Śrī Krṣṇa says ‘To those who do Japa of Rādhā first and then Kṛṣṇa to such I, of a surety, grant a happy lot even now and here.’ By uttering the name Sitā-Rāma (Sītācoming first) one utters the Tāra of Mahādevī, and for this reason it is also called Tāraka-Brahma. The Sauras perform their worship with the Mantra “Obeisance to Śri Sūrya accompanied by the
 
-
-
 Śakti who reveals.’ Moreover the Māyā-Bīja (Hrim), which is the Praṇava of Devī, is added to the Mūlamantra by every sect. This clearly shows that all these five sects are directly or indirectly worshippers of the Brabman who is Śiva-Śakti (Śivaśaktyātmaka) both in his Nirguṇa and Saguṇa aspects, Kaivalyopaniṣad says ‘By meditation on the three-eyed, blue-throated serene Lord (Prabhu) Parameśvara, who is without beginning, middle and end, who is one and pervades all things, who is wonderful, Cidānanda Itself, accompanied by Umā, the Muni goes to the Source of allbeing (Bhūtayoni) to the Witness of all, who is beyond all darkness.’ Hence in the Tantra-Śāstra, Śiva has said that the Śiva-śakti-Tattva is the cause of Tattvajñāna and therefore Japa should be done by a Mantra in which they are united. That is one attains Tattvajñāna, which is liberation, by worshipping Brahman as Mother and Father. All Mantras being composed of Śiva and Śakti one should meditate on Śiva-śakti as being one. In the Tantra Śastra also Śiva has said that there is no difference between them who are inseparably connected (Avinābhāvasaṁbandha). He who is Śiva is also Śakti and She who is Śakti is also Śiva. Fatherhood and Motherhood are merely distinctions of name. In reality they stand for one and the same thing. The Tantra Śāstra again says that Śakti, Maheśvara, Brahman all denote the same Being. Male, female, neuter are verbal and not real distinctions. Śakti, Mahes’vara, Brahman; all three denote the one eternal Mahāvidyāwho is Saccidānanda. ‘Although the Mahāvidyāis in truth Nirguṇa and eternal, Sne assumes various Māyik forms, varying according to the Guṇas, for the fruition of the desires of Sādhakas. It is said in Candi that She ever appears to fulfil the purposes of Devas, and at suchtime She, who is Truth eternal, is commonly said to be. generated. In the Devyāgama it is said: ‘Mahāmayāwho is Citrūpa and Parabrahmasvarūpinī assumes by Her grace
-
-
 
 towards Sādhakas various forms.’ We may meditate on Mahādevī as either female or male, for these terms may be attributed to any gross body. They cannot however be attributed to Her in so far as She is Saccidānanda. Sādhakas of Śakti worship Brahman as Mother, for in the world the mother-aspect alone of Her who is Brahman is fully manifested. In the Yāmala, Śiva says:—‘Devī may, My Beloved, be thought of as female or male, or the Saccidānandarūpinī may be thought of as Niṣkala-Brahman. But in truth She is neither a female, male, neuter being, nor an inanimate thing. But like the term Kalpavalli (a word in feminine gender denoting tree) feminine terms are attributed to Her.’
 
@@ -446,15 +355,11 @@ towards Sādhakas various forms.’ We may meditate on Mahādevī as either fema
 
   In mathematics zero has no value and is merely an empty formless (Nirākāra) thing, indicative of infinity until it is joined to aninteger. But when joined to the figure 1it converts it into 10. Similarly when She who is formless Brahman is joined to Her own Prakṛti, consisting of the three Guṇas, spoken of in Śruti as ‘the unborn one, red, black, and white,’ then She assumes for the fruition of the Sādhakā’s desires ten different forms (Daśamahāvidyā) whose variety is due to difference in the proportions of the three Guṇas. There are the ten Mahāvidyās who are Śiva and Śakti (Śivaśaktimayi). These ten forms are Kālī and Tārā, the Mahāvidyā
 
-
-
 Ṣodaśi, Bhuvaneśvarī, Bhairavī, Chinnamastā, Dhūmavati, the VidyāBagalā, the SiddhavidyāMātangī, and Kamalā. Some Tantras mention eighteen Mahāvidyā, but these are forms of the ten with slight variations. Of the ten Mahāvidyās, Kālī is Śuddha-sattva-guṇa-pradhānā, Nirvikārā, Nirguṇa-brahma-svarūpa-prakāśikā. It is this primordial form which alone directly gives Kaivalya. In Yoginī-Tantra Devīsays ‘Now see my form (Rūpa) which is Brahmānanda and supreine. Listen, this form is the supreme state (Paramadhāma) in the form of Kali. There is no Brahman-form higher than this.’ In Kāmadhenu-Tantra Śiva says ‘In the void is Kālī who grants Kaivalya’. Tārāis Sattva-guṇātmikāand Tattva- vidyādāyini; Ṣodaśi (Mahātripura-sundarī), Bhuvaneśvarī and Chinnamastāare Rajah-pradhānāand Sattva-guṇātmikā and hence they grant Gauṇamukti in the form of Heaven (Svarga) Aiśvarya and so forth. The forms cf Dhūmavatī, Bagalā, Mātaṅgī and Kamalāare Tamah-pradhāna and hence their Sādhanāis done in Ṣatkarma, such as causing death to others and so forth. In short all the ten forms of Mahādevī give Enjoyment and Liberation directly or indirectly.
 
    The forms of the Mahāvidyā are divided into two groups namely the Kālīkula and Śrikula. So Niruttara-Tantra says that ‘Kālī, Tārā, Raktakālī, Bhuvanā, Mardinī, Triputā, Tvaritā, Durgāand VidyāPratyaṅgīrābelong to the Kālī-kula. And to the śrīkula belong Sundarī, Bhairavī, Bālā, Bagalā, Kamalā, Dhūmāvatī, Mātaṅgī, Vidyā, Svapnāvatī and MahāvidyāMadhumatī. Of all the Siddhvidyās Daksiṇāis, O my beloved, the Cause (Prakṛti)’.
 
    Kālī-kula is for the worship of Jñānīs in Divya and Vīrabhāva, and Śri-kula is for the worship of Karmins in Divya, Vira and Paśu-Bhāvas. The Tantra-Śāstra gives an account of the Mantras, Yantras, mode of worship and so forth for all the ten or eighieen Mahāvidyās. But almost all Tāntrik writings hymn the greatness of, and give
-
-
 
 the highest place to, Kālikāthe first Mahāvidyāfor the others are but different forms of Brahmarūpinī Kālikā. The Nigama-Kalpataru says ‘Of all castes the Brāhmaṇa is the highest. Amongst all Sādhakas the Śākta is the highest. Of Śāktas he is the chief who does Japa of the Kālīmantra.’ Picchilā-Tantra also says ‘of all the Mantras of the Devas that of Kālikāis the best. Even the vilest can become Jīvanmukta simply through this Mantra.’ In Yoginī-Tantra, Śiva says ‘This Vidyā Kālikāis Mahā-Mahā-Brahma Vidyā, through whom even the worst may attain Nirvāṇa. Even Brahmā, Viṣṇu, and Mahes’vara are her worshippers. She who is Kālī the supreme Vidyā, is Tārāalso. The notion of a difference between them has given rise to various Mantras.’ Again the Kāmākhyā-Tantra says Oh Parames’vari, seven lakhs of Mahāvidyās remain hidden. Of them all Ṣodasī is said to be the most sublime. But Oh Devī, the Mother of the world, Kālikāis the mother even of Her.’ Niruttara-Tantra says ‘Without knowledge of Śakti, Oh Devi, there is no nirvana. That Śakti is Daksiṇa
 Kālī who is the own form of all Vidyās (Sarvavidyārūpinī).’ The Yamala again says ‘As is Kālī so is Tārāand so are Chinnāand Kullukā. Oh Devī, thou, who art the supreme Kālikā, art also the Mūrti which is compused of these four. In the Vaidik system Sāgnika (fire-maintaining) Brāhmaṇas achieved their ends by the offering of oblations to the seven lolling tongues‘of fire named Kālī, Karālī, Manojavā, Sulohitā, Sūdhūmravarṇā, Sphuliṅginī and Devī Vis’varuci’ (1st Saptaka, 2nd Khaṇda, 4th Sūtra[^1]).
@@ -463,13 +368,9 @@ Kālī who is the own form of all Vidyās (Sarvavidyārūpinī).’ The Yamala a
 
    Another important characteristic of the Tantra-S’āstra remains to be mentioned. Although this Scripture is very liberal in matters of practice and worship and does not recognize distinctions of caste and so forth, it has yet repeat: edly, enjoined Sādhakas to keep this Acāra hidden from.
 
-
-
 ignorant Paśus. Of Kaulas it says that ‘they are at heart Śāktas, outwardly Śaivas, and in gatherings Vaiṣṇavas’. It also contains injunctions such as that the teaching should be kept as secret as one would the knowledge of one’s mother's illicit love, and that if it is given out the Sādhaka’s purpose is frustrated and so forth. In the Gandharva-Tantra, Śiva savs that only such men as are without dualism, have controlled their passions and are devoted to Brahman are entitled to this Śāstra. ‘He alone is entitled, who is a believer, pure, seif-controlled, without dualism who lives in Brahman, speaks of Brahman, is devoted to Brahman, takes refuge in Brahman, who is free from all feeling of enmity against others, and who is ever engaged in doing good to all beings. Others are not true Sādhakas (Brahmasādhaka). It should not be told to Paśus, to those who are insincere, or to men of shallow knowledge.’ For this reason Śiva has used symbols in the teaching of all Dhyānas, Mantras, Yantras, and modes of Sādhanāof Devas and Devīs. The meaning of these symbols is not known to any but the Sadguru. Hence the secret mysteries are unintelligible even to the Jearned without the grace of the Guru. In the Kulārṇava-Tantra, Śiva says ‘ There are many Gurus who know the Veda, the Śastras and sco forth. But, Oh Devi, rare is the Guru who knows the meaning of the supreme Tattva’. Hence in order to know the true meaning of the Dhyānas and so forth, there is no other means than to seek refuge with the Guru who knows the meaning of all Āgamas.
 
   It is owing to ignorance of the true nature of Devatāthat even Brahmavidyā, who is subtler than the most subtle and Consciousness Itself, seems to be a gross thing. Even learned men do not shrink from saying that this Brahmamayī, whose desires are fully realized (Parṇakāmā) is fond of offerings of blood, flesh and so forth. In the Jñānasarṁkalinī- Tantra, Śiva says, ‘Agni is the Deva of the twice born. The Devatāof Munis is in their. hearts. Men. of small intelligence worship images.
-
-
 
 To the wise, Devatā is everywhere.’ Thatis Karmin Brāhmanas worship Agni as Īśvara, Yogīs see the Devatāin their own hearts, men of small intelligence (that is compared with the others) worship the Devatāin images, and high-souled seers of the Tattva see Brahman everywhere. In fact much asa teacher shows his little students, small globes and maps, in order to make them understand the nature of the great earth, so Gurus counsel Sādhakas of no great intelligence and of inferior Adhikāra to meditate on Sthūla forms in images and pictures so that their wandering minds may be rested, and they may learn the true aspects of Devatā. Unfortunately however, ignorant men consider the Sthūla form to be the true aspect of the Devatā. In the Kulārṇava-Tantra, Śliva says that some meditate on the Sthūla to still the mind, which, when so stilled, can fix itself on the Stūkṣma. The Sādhakaa should first learn from the Guru what quality or action each limb of the image represents, and should then practise meditation on the subtle, otherwise the gross form will itself, become for him mere earth or stone. In Kubjikā-Tantra Śiva says ‘Oh Lady of Mahes‘a. One should meditate on the Formless (here used in the sense as opposed to forms of images, etc.) along with the form. It is by constant practice, Oh Devī, that one realizes the formless.’
 
@@ -477,11 +378,7 @@ To the wise, Devatā is everywhere.’ Thatis Karmin Brāhmanas worship Agni as 
 
   The Mārkaṇdeya-Purāṇa says, ‘The Mahāmāyāis Niṣkalā, Nirguṇā, endless, undecaying, unthinkable, formless
 
-
-
 and both eternal (Nityā) and transient (Anityā)’, that is, MahāmāyāKālikāis free from Kalā(Māyā) and free from Guṇas, without end, imperishable, eternal, and not transient as is the world (Jagat), formless, and hence, as such, is not the object of meditation. In the Kūrma-Purāṇa, Viṣṇu in the form of a Tortoise says that the Supreme Devī is Nirguṇā, pure, white, stainless, free from all duality and realizable by the Atmāonly. This state of Hers is attainable only by Jñāna. In the Kāmadā-Tantra Śiva says ‘That eternal Kālī who is supreme Brahman is one without a second either male or female. She has neither form, Ādhāra, or Upādhi. She is sinless and imperishable Sacchidānanda, the Great Brahman.’ She who is eternal Brahman has neither appearance (Āvirbhāva), nor disappearance (Tirobhāva), and being all-pervad-ing, She cannot be said, like other Devas and Devis, to reside in any particular Loka. Thus Brahmāresides in Brahmaloka, Viṣṇu in Viṣṇuloka, Rudra in Kailāsa and Śri Kṛṣṇa in Goloka, but Mahādevī is always and everywhere equally present; though for the fulfilment of the desires of Sādhakas, She appears in particular forms in their minds and hearts. It is clear therefore that her Sthūila aspect is Māyā-made (Māyāmaya) and transient (Anitya). For this reason Śiva, in the Gandharva-Tantra, says, ‘ That aspect (Rūpa) of the Devī which is the Supreme Bliss and the Great Cause of the worlds neither appears nor disappears’. In the Kulārṇava-Tantra, Śiva says, ‘It neither rises nor sets, nor grows nor decays; It shines Itself and makes others shine without any help. This aspect is without condition (Anavasthā) and is being only (Sattāmātrā) and unknowable to the senses (Agocara).’ That is, the Svarūpa aspect of the Mahādevīwho is Supreme Bliss is the root-cause of this world of three Guṅas. This aspect has no appearance or disappearance and no growth or decay. ‘It is self-manifest and manifests all other objects. It is beyond the states of waking, dreams, and sleep,
-
-
 
 It is unattainable by speech and mind and is Being itself.’
 
@@ -489,27 +386,17 @@ In fact just as fire which, though pervading all objects, does not show its powe
 
   Although the Āgama-Śāstra, which grants Advaitabhāva and educes Tattvajñana, has been revealed by all-mercifullŚriŚr Bhairava and Bhairavī, it is still unknown to a mass of peop!e. Many in fact to-day despise the Tantra because it contains Virācāra and Kulācāra, and some even refuse to admit that it isa Dharmaśāstra at all. If they had read the Tantra-Śāstra intelligently and learned its principles from Sādhakas truly versed in it, they would have realized how mistaken were their notions of it and, instead of despising it,
 
-
-
 would certainly have admitted that this Śāstra is the only means of Liberation for the undisciplined, weakminded and short-lived. Seeing that wine, flesh, fish are consumed and sexual intercourse takes place in the world at large I am myself unable to understand why many people should shudder at the Sādhanāof Pañca-makārāto be found in the Tantra-Śāstra. Do these acts become blameable only if made a part of worship (Upāsanā) ?
 
   All know that Ghee which nourishes and promotes longevity causes serious stomach-disease and even death if taken in too large quantities, whilst snake-poison, which kills, will yet cure and lengthen the life of a dying delirious man, if it be purified and given under suitable conditions with a cold bath, a diet of whey, and so forth. Similarly the Great Physician (Vaidyanātha) Himself has prescribed the Mantra of Ādydāśakti possessed of all Śaktis, and the invigorating Pañca-makāra as Sādhanāsuitable for the cure of the malady of Existence (Bhavaroga) of the sinful Jivas of this dark Kali age, and as a means whereby they may attain the supreme state full of eternal bliss, imperishable and im- mortal. All classes of physicians prescribe the use of wine, fish and flesh in measured quantities for the acquisition of strength by patients who are weak and have a low vitality. On that account the medical science does not deserve to be hated. Similarly the Tantra-Śāstra does not deserve to be blamed for prescribing the Pancha-makāra for the Liberation of Jivas suffering from the disease of worldly existence. Śiva has nowhere said that Sādhakas of Śakti shou!d always drink wine, always slaughter animals and eat their flesh and always enjoy women, and that thus they will attain Liberation. On the contrary, He has counselled various means for checking excesses in these matters, and He has in particular controlled licence by making these acts part of the worship of Is’vara. It is the degraded conduct of a number of great Paśus who
 
-
-
 pretend to be Sādhakas which is the cause of the public dislike for, and hatred of, the Tantra-Śāstra. In the Mahānirvāṇa-Tantra Śri Sādaśiva says ‘Wine is Tārāthe Saviour in liquid form (Dravamayī). It saves Jīvas destroying dangers and disease, and grants both Enjoyment and Liberation. But wine if drunk in contravention of rule (Vidhi), destroys the intelligence, reputation, wealth and life of men. Even a Kaula who has received Abhiṣeka an hundred times is to be deemed a Paśu and without the pale of Kuladharma if he is addicted to excessive drinking.’ In the Kulārṇava, Śiva says ‘Oh My Beloved, he who kills animals for self- satisfaction in contravention of Sastric ordinance (Avidhānena) will dwell in a terrible Hell for as many days as there are hairs on the body of the animal.’ These utterances of Śiva clearly show that He has nowhere ordained the free use of Pāñca-makāra by people in general. He has ordained Viricadra or Kulācāra only for Sādhakas of the Nivṛtti path who long for Liberation. Such Sādhakas, free from duality (Nirvikalpa) as they are, wish to see the Saccidānanda aspect of the Mahādevī, and Śiva has prescribed the Pañca-makāra to enable them to realize the Ānanda aspect. Just as a man who knows not sweetness is given sugar or honey to eat, so the Sādhaka is made to taste the fleeting objective (Viṣaya) bliss (Ānanda) of Pañca-makāra so that, thus controlling his six enemies for the time being, he may have a notion of the Eternal Brahman-bliss (Brahmānanda): This momentary taste of eternal Brahman-bliss makes the Liberation-desiring Sadhaka eager for and industrious to gain it. But after the attainment of this natural (Sahaja) Brahman-bliss he no more longs for the five Makāras and becomes gradually devoted to Divyācāra. Ifa Sādhaka takes wine in a limited way, after purification, the outgoing of his senses is weakened, and the mind or inner sense is stilled so that he is thus fitted for Sūkṣma-Dhyāna. For this reason wine is called cause
 
-
-
 (Kāraṇa). In the Kulārnava-Tantra, Shiva says, ‘Ānanda is the Self (Rūpa) of Brahman and that exists in the body. Wine is its revealer and is hence drunk by Yogis. Wine and flesh are taken with Brahmajñāna for the satisfaction of all Devas, and whoever partakes of them for self-gratification is asinner.’ That is Sādhakas do Sādhāna with Pañca-makāra for the satisfaction of the Devatās whom they worship and the development of Brahmajñāna in their hearts; but whoever takes them for his own enjoyment is doomed toa terribie heil as a great sinner. Śiva has also said in the Kulādrṇava, ‘One reaches heaven by the very things which may lead to Hell.’ The fifth Makāra, that is, sexuallintercourse, is the root-cause of the creation of the world of Jivas. Ail Jivas, be they Devatās, men, beasts, birds, fish, insects or flies, are produced by the sexual union of their respective parents. In this world every male is an individualised (Vyaṣtibhūta) aspect of Shiva, the Ādipuruṣa, and Caṇdi says, ‘all females in all the worlds’ are part of the Mahāśakti. The Kūrma-Purāna says, ‘The Mahādevī is Herself One, present in many parts or divisions (Anekavibhāgasthā), beyond Māyā, absolutely pure, Mahāmāyā, Is’vari, eternal, stainless (Nirafijana), ancient, consciousness (Cinmayī), the First Puruṣa (Ādipuruṣa) of all Puruṣas.’ The Gandharva-Tantra says, ‘The male form (Puṁso rūpam) the female form, and any other good form-–alithis is undoubtedly Her supreme form (Paramam rūpam).’ One Brahman, becoming dual, appears as Śiva and Śakti, and that aspect in which there is union of Śiva and Śakti is the true aspect of Saccidānanda Brahman. It is from this aspect of Blissful (Ānandamaya) union that the world is created, and for that reason men and all other creatures ever seek happiness. The Bliss of the reproductive power of males and females manifests in their bodies only at the time of sexual union. At this time ignorant men remain intent only on gratifying their passion, but
-
-
 
 Sādhakas, possessed of the knowledge of Kula, then meditate on the Yoga-blissful (Yogānanda) form (Mūrti) of Śiva andŚakti present in the hearts of males and females and, calling to mind the meaning (Artha) of the Mantra of their Iṣtadevatā, do Japa of it. In the Kālīkulasarvasva, Śrī Sadāśiva says, ‘By doing Japa of Mantra and by adoration of Bhagavatī, the consort of Śiva, at times of sexual union, a man becomes, like Śuka, free from allsins.’ In another place He says, The consort of Śiva should be worshipped by becoming Śiva.’ True Śakti-sādhanāconsists in considering all girls and women, old and young, and of all castes, as the visible forms of one’s own Iṣtadevatāand (according to one’s means) worshipping them with clothes, ornaments and so forth; or bowing to them as mothers with the Iṣtamantra in mind and not treating thein with neglect or contempt under any circumstance. In the Kaulāvalī- Tantra, Śiva says, ‘One should make obeisance on seeing a young woman of a Kaula tamily. One should bow to any female, be she a young girl, or flushed with youth, or be she old, be she beautiful or ugly, good, or wicked. One should never deceive, speak ill of, or do ill to, a woman and one should never strike her. All such acts prevent the attainment of Siddhi.’
 
    At the present time a measured use of wine, flesh and so forth and a thorough respect for woman as for the Devatāare particularly seen in the civilized society of the West. Satished at this, the Mahādevī, who is the Queen of Queens, has granted to the people of the West the light of science and sovereignty over the whole world. Śrimat Ādinātha Mahākāla has, in the ‘ Karpūirādi Stotra’ called the Svarūipa-Stotra, briefly described the Mantra, Yantra, Dhyāna and Sādhanāof ŚrimatīDakṣina- Kālikāwho is Parabrahman (Parabrahmarūpiṇī). This Supreme Tattva is hard to attain even by such Īśvaras as Brahmā, Viṣṇu and Rudra. Mahākāla Himself says, ‘Neither Dhātānor Īṣa nor Hari knows Thy Supreme Tattva.’
-
-
 
   However, in accordance with the teachings of my Paramaguru, Mahāmahopādhyādya and most worshipful Rāmānanda Svāmī Siddhāntapañcānana, the crest-gem of Tāntrikas, now gathered to the feet of Śiva, I write this Svarūpa commentary under the name of ‘Vimalānandadāyinī,’ of this Karpūrādi Stotra, in consonance with the views of Tantra and other Śāstras.
 
@@ -528,16 +415,11 @@ Whose hair is dishevelled (Muktakeśī)
 
   Because though Herself changeless She binds infinite numbers of Jīvas by bonds of Māyā, symbolized by Her dishevelled hair and because She makes liberated (Mukta) Brahmā, Viṣṇu and Maheśvara who are Keśa²,  
 
-
 ![](../books_images/U-IMG-1721843025Screenshot2024-07-18063849.png)
-
- 
 
 ¹This is a play on the word Ghana which means mass and black or dark blue cloud. Cidghana is massive, compact, unmixed, pure Consciousness (Cit). Again She is Nirguṇa and stainless but is also Meghāṇgī (cloud-bodied) because through Adhyāsa of the three Guṇas She appears varicoloured just as a cloud in itself colourless appears white, blue, and so forth by contact with the sun’s rays. So Devī-Purāṇa says, ‘Just as the uniform cloud appears as of many colours, so does She too through the instrumentality of the Guṇas.
 
 ²Keśa=K+A+ Īśa. And K=Brahmā, A=Viṣṇu, aud Īśa- Rudra, The Niruttara-Tantra says, ‘Kali who is Aniruddha-saraśvatī, is the great desire-granting tree, the sole Cause of Enjoyment and Liberation for Brahmā, Viṣṇu and Maheśa.’ :
-
-
 
   Who is imagined as having the Sun, Moon and Fire as Her three eyes,
 
@@ -561,14 +443,9 @@ Whose hair is dishevelled (Muktakeśī)
 
   Whose upper left hand is depicted as wielding a sword,
 
-
 ![](../books_images/U-IMG-1721842456Screenshot2024-07-18063849.png)
 
- 
-
 ¹White Teeth stand for the white Sattva Guṇa, the red Tougue stands for the red Rajo-Guṇa and Delusion is the Tamo-Guṇa. The meaning is, the Mahāvidyā is represented with a lolling tongue because She first destroys the Sādhaka’s Tamo-Guṇa by increasing his Rajo-Guṇa, and large teeth because by increasing his Sattva Guṇa and suppressing his Rajo- Guṇa She grants him the state of Nirguṇa-Brahman. In the Dhyāna of Tārāit is said, ‘ UgratārāHerself destroys the *Jādya* (unconscious nature) of the three worlds by putting it in her skull-cup.’
-
-
 
   Because She severs the bonds of illusion for the Niṣkāma-Sādhaka,
 
@@ -596,15 +473,11 @@ Whose hair is dishevelled (Muktakeśī)
 
   Because when at the end of a Kalpa all things in the universe from Brahmāto a blade of grass are disso!ved in Mahākāla, She is in and one with that Mahākāla, who may be thus compared to a cremation ground, and because at
 
-  
-
 ¹In the eighteenth century work of Kamalākānta called Sādhakaranjana it is said: ‘Of the Nirākāra-Brahman, understand, Māyāto be the Ākāra’ (Nirākāra-brahmer ākāra dekha Māyā). The Sūinya has no form until encircled by Māyā.
 
   ² Vikāra is also ‘change’. She is then in Her changeless aspect.
 
   ³Coition in which the woman assumes the dominant roll. Śakti is active and Śiva is the passive principle.
-
-
 
 the death of Jivas She exists as the individual (Vyaṣti) Jivātmā in the burning ground,
 
@@ -632,8 +505,6 @@ O Mother of the World, obeisance.
 
   ¹The Ś'vāmī also points out that the ‘Kr’ sound in this Mantra is also to be found in the word Christ and in the Mussulman’s Karīm. See Māya Tantra Ch. vii for the Yavana-Bīja.
 
-
-
 **HYMN TO KĀLĪ**  
 
 ![](../books_images/U-IMG-1721829434Screenshot2024-07-18230445.png)
@@ -657,8 +528,6 @@ COMMENTARY
 
 *Sþouse of the Destroyer of the three ctttes ’*  
   The three cities are three bodies, gross, subtle, causal. She is the Śakti of Him who grants Liberation from these bodies. As the
-
-
 
 Power-holder (Śaktimān) and His Power (Śakti) are one, it is She who is grantor of such Liberation. Kaivalya-Upaniṣad says, ‘From the Ātmā, the root, the bliss, looking on all alike who abides within the three cities, is born the multiple and various world and into Him these three cities are merged.’
 
@@ -684,8 +553,6 @@ Power-holder (Śaktimān) and His Power (Śakti) are one, it is She who is grant
 
 *   *Omitting from Mūlaprakṛticomposed of Sattva, Rajas, and Tamas Guṇas the middle Rajas Guṇa which is Ū and the last Tamas
 
-
-
 Guṇa which is M. It is thus composed of Sattvaguna alone. The Jñādnasaṁkalinī-Tantra says, ‘A is Sāttvika, U is Rājasa, M is Tāmasa. Prakṛti is these three.’
 
 *‘ Adding’*  
@@ -696,13 +563,9 @@ Guṇa which is M. It is thus composed of Sattvaguna alone. The Jñādnasaṁkal
 
 * *Thou who should be meditated upon as of a dark (Nīla) colour because Thou art Cidākāsa and dost possess the compact Tejas Śuddhasattvaguṇa. In the Nirvāna Prakaraṇa of Yogavāśiṣṭa it is said, ‘ Because Śivāis Vyoma She is seen as black.’ Tripurāsāra- samuccaya says, ‘As heing Liberation, She who its attained by devotion (Bhakti) should be meditated on as being like the sky itself free from clouds.’
 
-
-
 ![](../books_images/U-IMG-1721871846Screenshot2024-07-18063849.png)
 
 **NOTES**
-
- 
 
 ¹The Divine Mother of the World in Her aspect as *Dakṣiṇa-kālikā* that is the beneficent Grantor of *Nervāṇa.*
 
@@ -711,8 +574,6 @@ Guṇa which is M. It is thus composed of Sattvaguna alone. The Jñādnasaṁkal
   ²*Śakti* of Maheśa who destroyed the *Asura* named *Triþura* (*Tri*= three; *Pura*==city) along with his three cities in Heaven, Earth and the Nether regions (V).  
 
   ³Recite (*Jaþanti*); utter repeatedly with mind fixed on the meaning of the *Mantra* (V). Lit, ‘make *Jaþa*.’ The word ‘recite’ is employed as the nearest English equivalent, but is not accurate, in so far asin
-
-
 
 *mānasa Jaþa* the action is purely mental, and in *Jaþa* of the next lower degree (Upāṁśu) there is movement of the lips only, but no utterance.  
 
@@ -723,11 +584,7 @@ Guṇa which is M. It is thus composed of Sattvaguna alone. The Jñādnasaṁkal
   * ⁷Dhvāntadhārādhararuciructre*. Just as dark clouds, by shedding nectar-like rain, cool the earth parched by the sun’s rays, so too dost Thou, by shedding the nectar of Thy Grace, give immortality to Sādhakas tormented by the three forms of pain. *(Ādhyāmika, Ādhibhautika, Ādhidaivika)*. The *Rudrāyāmala* says, *‘Devī* is Supreme Sakti and delivers from all difficulties. She is dark with the refulgence of a million suns and is cooling like a million moons.’ (V).  
   ⁸Vimalānanda is also the name of the Commentator.
 
-
-
 ![](../books_images/U-IMG-1721872449Screenshot2024-07-18230445.png)
-
-
 
 **VERSE 2**
 
@@ -747,8 +604,6 @@ O MAHEŚI¹ even should one of poor mind²at any time recite but once another do
 *‘Of dual asþect’ (Dvandvam)*  
  Having the dual aspect of Śiva-śakti. The Tantra-Śāstra speaks of the King of Mantras being generated by the union of Ś’iva and Śakti.
 
-
-
 *‘ Another Bīja’ (Bījamanyat)*  
  Thy causal (Kāraṇa) aspect which is the Bīja Hūṁ. In the Yāmala it is said, ‘It is with the double Śabdabīja (which is Him) that She awakens the mass of Śabda.’
 
@@ -765,15 +620,9 @@ O MAHEŚI¹ even should one of poor mind²at any time recite but once another do
 
 ![](../books_images/U-IMG-1721879648Screenshot2024-07-18063849.png)
 
-
-
 **NOTES**
 
- 
-
 ¹*Śakti* or *Maheśa* the Lord of even *Brahmā*, *Viṣṇu* and Rudra (V). The *Devī* as Īśvari, (Ruler), of the Universe and Spouse of Nirguṇa Mahes’vara. Īśvara, according to the Liṅga-Purāṇa, when associated with *Tamas*, is Rudra the Destroyer; with *Rajas*, the One born from the .golden egg, Brahmā; and with *Sativa*, Viṣṇu.
-
-
 
   ²*Mandacetāh* who is not capable of devotion to thy lotus feet accord ing to Commentator K.B.; for, as the Brahmāṇda-Purāṇa says, all sin is expiated by remembrance of the feet of the Supreme Śakti.  
 
@@ -793,11 +642,7 @@ O MAHEŚI¹ even should one of poor mind²at any time recite but once another do
 
   ¹⁰That is, to them are given eloquence and learning, riches and beauty.
 
-
-
 ![](../books_images/U-IMG-1721879864Screenshot2024-07-11204324.png)
-
-
 
 **VERSE 3**
 
@@ -820,8 +665,6 @@ O KĀLIKĀ, O auspicious Kālikā¹with dishevelled hair,² from the corners of 
 
 *‘ Recite’ (Jaþati)*  
   Meditate upon.
-
-
 
 *Of dual asþect (Dvandvaṁ)*  
    The Bīja Hrīṁ is both Śiva and Śakti. In the Devīgītā Mahādevī says, ‘H is the gross body, R is the subtle body, I is the causal body. I am Hrīṁ the Turīya.’
@@ -847,8 +690,6 @@ O KĀLIKĀ, O auspicious Kālikā¹with dishevelled hair,² from the corners of 
 
   Durgārāma construes these words as follows: Dakṣiṇe tryakṣare ati (by Saṁdhi tryakṣare’ti) that is. Dakṣiṇe ati tryakṣare. As Upasargas can shift their position ‘ati’ has been placed in the verse after Tryakshare. Atitryaksare is the vocative of Atitryakṣarā. Atitryakṣarā. means Atikrāntah (Adhahkṛtah or placed under) Tryakṣarah (Śiva) yayā (by whom) She: that is, She who has placed Śiva under Her. The whole then means ‘Oh Dakshiṇa who dost stand on Śiva.’ Tryakṣara literally means the three lettered one which is the Praṇava (Oṁ) and is used for Śiva. The Mahiṁnastotra
 
-
-
 (see ‘Greatness of Śiva’ Ed. A. Avalon) calls Śiva ‘Oṁ’ and another Stotra calls Him Tryakṣaramaya.
 
   The same commentator then says that there is a different reading for Dakshiṇe tryakṣareti, namely, Dakshiṇe Kāliketi which he explains in two ways (a) Dakshiṇe Kālike’ti=Dakshiṇe Kālike ati= Dakshiṇe atikālike. The last word is the vocative of Atikālikāwhich means Atikrānta (Sadṛgīkritā, made similar to) Kālikā (Meghajālaṁ; a bank of cloud) yayā(by whom) She —that is, She who looks like a bank of cloud; the whole then meaning ‘Oh Dakshiṇā who hast the appearance of a bank of clouds’ (b) Dakshiṇe Kāliketi = Dakshiṇe Kālike iti which means Oh DakshiṇāKālikā. The word ‘iti’ is Svarūpārthaka that is simply indicates that She is addressed as DakshiṇāKālika. Examples of the elision of ‘I’ after ‘E’ in Saṁdhi are Śakuntaleti and Meghajāle’pi Kāliketi.
@@ -856,8 +697,6 @@ O KĀLIKĀ, O auspicious Kālikā¹with dishevelled hair,² from the corners of 
 ![](../books_images/U-IMG-1721885643Screenshot2024-07-18063849.png)
 
 **NOTES**
-
- 
 
 ¹The Devī. See Mahānirvāiṇa-Tantra, chap. xiii and chap. iv, verse 31: ‘At the dissolution of things it is Kāla who will devour all, and by reason of this He is called Mahākāla; and since Thou devourest Mahākāla Himself, it is Thou who art the supreme primordial Kālikā’.  
 *  Kālikā is Brahmarūpiṇi(V)*  
@@ -896,8 +735,6 @@ and so forth inhabiting Svarga
 
 **(Nether world) (V).
 
-
-
 **VERSE 4**
 
 O DESTRUCTRESS of the sins of the three worlds, auspicious¹Kālikā, who in Thy upper lotus-like left hand holdest a sword.²and in the lower left hand a severed head_(;)³who with Thy upper right handmaketh the gesture which dispels fear,⁴ and with Thy lower right hand that which grants boons ; they, O Mother with gaping mouth,⁵ who reciting Thy name, meditate in this way⁶ upon the greatness of Thy mantra, possess the eight great powers⁷ of the Three-Eyed One⁸in the palm of their hands.”
@@ -918,8 +755,6 @@ O DESTRUCTRESS of the sins of the three worlds, auspicious¹Kālikā, who in Thy
 
   \[Durgārāma-Siddhāntavvgīśa explains this in the following different ways: (*a*) Manuvibhava=the Vibhava or Sampatti (precious possession) of Manus or Mantras. This precious possession is the
 
-
-
 name in the vocative case ‘ Dakshiṇe Kālike.’ The meaning of the passage then is that those who recite Thy name Dakshiṇe Kālike, which is the precious possession of Mantras, and meditate on this. Thine appearance possess the Powers and so forth. (b) Manuvibhava is the Vibhava of the Manu that is the twenty-two syllabled Mantra of Kālī. This possession is the name DakshiṇāKālikā. (c) Manuvibhava=Manu (Mantra) vibhava (Ghataka) of which (the Devī’s body) is the body of which Mantra is the generator. The bodies of the Devātas are produced by their Mantras. The passage thus means that, they who recite Thy name DakshiṇāKālikā. and meditate on this Thine appearance generated by Mantra possess the virtues mentioned above.\]  
   See Jast Verse.
 
@@ -932,8 +767,6 @@ name in the vocative case ‘ Dakshiṇe Kālike.’ The meaning of the passage 
 
 **NOTES**
 
-
-
  ¹ *Dakshiṇā*, the beneficent grantor of *Nirvāṇa.* (V)  
 
   ² *Khadga*, the peculiar heavy sword with the blade curved at the tip sonamed, used to behead the sacrificial animals.  
@@ -941,8 +774,6 @@ name in the vocative case ‘ Dakshiṇe Kālike.’ The meaning of the passage 
   ³ The Devī is the destroyer of the wicked.  
 
   ⁴The Devī is the dispeller of all fear, and makes with Her hand the *mudrā*. The right upper hand makes the gesture of dispelling fear, or the gesture of assurance of safety (*Abhayamudrā*) and the right lower hand makes the gesture of granting boons (*Varamudrā*). (V) The Sādhaka seeks fearlessness, which is the great gift of the Goddess, who is *Bhayāþahā,* ‘remover of fear.’ ‘If thou art remembered in times of
-
-
 
 difficulty, Thou takest away all fear’ (Mārkaṇdeya-Purāṇa). At the same
 time it is she who fills the ignorant with terror (*Paśuloka-bhayaṁkarī*)—that is, those devoid of the knowledge of non-duality, for ‘fear comes when there is duality’ (Br. Up. 1-4-2, Lalitā, v. 99)  
@@ -952,11 +783,7 @@ time it is she who fills the ignorant with terror (*Paśuloka-bhayaṁkarī*)—
 * ⁸Tryaṁbaka* or *Śiva*. According to Tarkālaṁkāra’s Commentary on Mahānirvāṇa-Tantra, *Tryaṁbaka* means the father of the three Devas, Brahmā, Viṣṇu, and Rudra. The Ṛgvidhāna uses it as an equivalent of Mahādeva. The Mahānirvāṇa-Tantra says: As She surveys the entire universe, which is the product of time, with Her three eyes—the Moon, Sun, and Fire—therefore She is endowed with three eyes’ (Ullasa xiii, verse 8) The Moon, Sun, and Fire are the *Icchā, Kriyā, Jñūna* and other Śaktis (see the Ṣatcakranirūipaṇa of Pūrṇanaṇda-Svāmi) and Serpent Power by a. Avalon.  
  ⁹By him who carries a flower its odour is enjoyed without seeking. By him who looks upon himself as the universal Self the powers (of Brahmā, etc.) are enjoyed’ (Commentary of Sureśvarācārya on tenth *Śloka* of *Dakṣināmūrti Stotra*)
 
-
-
 *![](../books_images/U-IMG-1721884338Screenshot2024-07-09101742.png)*
-
-
 
 OMOTHER, they who recite Thy charming *Bīja,* composed of the first of the group of letters,’¹ followed by *Vahnī*² *Ratī³*and beautified by *Vidhu^(,4)*thrice, the *Kūrca Bīja⁵*’ twice, and there-after, O Smiling Face, the *Lajjā*⁵*Bīja* twice, followed by the two *Thas*,7 they, O Spouse of the Destroyer of the Deva of Desire⁸ contemplating Thy true form,⁹become themselves the Deva of Love whose eyes are as beautiful as the peta!s of the lotus which Lakṣmī holds in Her playful dance.¹⁰
 
@@ -979,8 +806,6 @@ OMOTHER, they who recite Thy charming *Bīja,* composed of the first of the grou
 
 ‘*Associated’ (Vidhu-rati-lalitaṁ)*  
   That is cooling and beautiful.
-
-
 
 *‘Thrice’ (Trayaṁ)*  
   ‘That is the three aspects of Sattva, Rajas, Tamas.
@@ -1007,8 +832,6 @@ OMOTHER, they who recite Thy charming *Bīja,* composed of the first of the grou
 
    \[Durgārāma explains Svarūpa in the following ways: (a) The true form is that indicated in the previous or following verses. (c) It is that of the nine-syllabled Mantra. (c) It is that indicated by the letters composing the Mantra. For instance Varadā-Tantra says that in ‘Krīm’, K is Kālī, R is Brahmā, I is Mahāmāyā, Nāda is the Matrix of the universe and Bindu is the Dispeller of Sorrow. In ‘Hūṁ’, H is Śiva,Ūis Bhairava, Nāda means the Supreme and Bindu is the Dispeller of Sorrow. In Hrīṁ, H is Śiva, R isPrakṛti,
 
-
-
 I is Mahāmayā, Nādathe Generatrix by the Universe and Bindu the dispeller of pain. Contemplation on Mantras constituted of these letters reveals their Caitanya. Japa of Mantra without knowing its Caitanya is useless. \]
 
 \* *Become themselves’ (Kāinarūþā bhavanti)*
@@ -1017,11 +840,7 @@ I is Mahāmayā, Nādathe Generatrix by the Universe and Bindu the dispeller of 
 
 ![](../books_images/U-IMG-1721883207Screenshot2024-07-18063849.png)
 
-
-
 **NOTES**
-
-
 
  ¹That is, *Ka.*  
   ² Deva of Fire, or *Ra*.  
@@ -1037,8 +856,6 @@ I is Mahāmayā, Nādathe Generatrix by the Universe and Bindu the dispeller of 
 *          *
 
 ![](../books_images/U-IMG-1721976173Screenshot2024-07-11132644.png)
-
-
 
 O DEVĪ¹ of full breasts,²whose throuat is adorned with a garland of heads, They who meditating³recite any one or two or three of Thy very secret and excelling *Bījas* or all thereof⁴together with Thy name,⁵in the moonlike face of all such the Devī of Speech⁶ever Wanders, and in their lotus-like eyes Kamalā‘ ever plays.⁸
 
@@ -1058,18 +875,13 @@ O DEVĪ¹ of full breasts,²whose throuat is adorned with a garland of heads, Th
 
 * *Mūrti (appearance) in the individual aspect as Prājña, Taijasa, and Viśva and in the aggregate as Īśa, Sūtra and Virād. Devīgītāsays ‘the causal self is Prājña, the subtle bodied one is Taijasa and the gross bodied one is Viśva.’ Similarly Īśa is spoken of as Isa, Sūtra and Virād. The first is the individual (Vyaṣti) aspect and the second the aggregate (Samaṣti) aspect.
 
-
-
 Eyes (Netra)
 
   Not to speak of themselves being wealthy, the sight of them gives wealth to others. , Bhairava Tantra says that Kamalā and the Devī of speech never forsake them for three generations downwards.  
 
-
 ![](../books_images/U-IMG-1721881242Screenshot2024-07-18063849.png)
 
 **NOTES**
-
-  
 
 ¹*Devī* which comes from the root *Div* to shine, is the Shining One (V)  
 *  ²Pināstanādhye* (see also Bhairavīstotra in Tantra-s*ā*ra, p. 596). The physical characteristics of the Devī in swelling breasts and hips are emblematic of Her great Motherhood, for She is *Srīmātā*. See also as to the former, Durgā-*Dhyāna* in Devī-Purāṇa, which speaks of her large and rising breasts (*Pinonnata-þayodharāṁ*) ; the Annapūrṇa-*Stava* (*Vakṣoja- kuṁbhāntar*i); Bhuvaneśvari-Stotra (Āpivara-stanatatiṁ); and the Saraswatī-*Dhyāna (Kucabharanamitāṁgīṁ*). The Annapūrāna-*Dhyāna* (*Annaþradāna-niratāṁ stanabhāra-naṁrāṁ*) speaks of Her limbs as weighted by Her breasts. The Mahābhāgavata describes Her as naked, terrific, with fiery eyes, full and erect breasts, and dishevelled hair ; and the Lalitā (verse 15) says:—‘Her golden girdle supports Her waist. which bends under the burden of Her breasts, thrice foldingthe skin below Her bosom’ (*Stanabhāra-dalanmadhya-þattabhandha-valttrayā*).  
@@ -1081,8 +893,6 @@ Eyes (Netra)
   ⁸In the other words they become rich and learned.
 
 ![](../books_images/U-IMG-1721220133Screenshot2024-07-16102640.png)
-
-
 
 O MOTHER, even a dullard becomes a poet who meditates upon Thee raimented with space,’ three-eyed**²**Creatrix of the three worlds, whose waist ⁴ is^()beautiful with a girdle made of numbers of dead men’s arms, and who on the breast of a corpse,⁵ as Thy couch in the cremation-ground,⁶enjoyest Mahākāla.⁷
 
@@ -1100,8 +910,6 @@ O MOTHER, even a dullard becomes a poet who meditates upon Thee raimented with s
 *‘Whose loins’ (B*ā*huprakarakṛta-kāñcīpartlasannitaṁbām)*  
 
 *  *At the end of each Kalpa all Jīvas abandon their gross bodies, and existing in their subtle bodies in which their respective Karmas inhere, form part of the Avidyāwhich is in the causal body of the Brahmarūpiṇī associated with Her own Gūṇas (Svaguṇa) until they are liberated at some future time after the commencement of the next Kalpa. Hence the girdle adorning the loins, lower belly and generative organ of the Mahādevī virādrūpiṇī, capable of producing children. is fashioned of the arms and hands of dead Jīvas. For these arms and hands were their principal instruments for the doing of work (Karma). The Śaktānandataraṅgiṇī says, “With Karma is a Jīva born, with Karma he dies, and in the next body again that Karma is
-
-
 
 attached to him.’ Devīgītāsays, ‘In Her at dissolution Jīvas and their Karmas are merged in undifferentiated mass, just as all which is done (Vyavahārā) merges in dreamless sleep (Suṣupti). Again the Devī says, ‘It is I who create the whole world and enter therein with Prāṇa, Māyā, Karma and so forth.’
 
@@ -1126,8 +934,6 @@ attached to him.’ Devīgītāsays, ‘In Her at dissolution Jīvas and their K
 ‘*Dost enjoy Mahākala’ (Mahākala-surata-þrayubtām)*  
  At the end of a Kalpa, there being no creation, She being inactive. and there being nought but supreme Brahman, She being inseparate from Paraśiva, experiences Herself us unlimited (Akhaṇda) Bliss.
 
-
-
 **NOTES**
 
   ¹ The Devī is naked, as is Śiva, for, like Him, She is clothed with space, and is the great void itself (Mahāsūnya).  
@@ -1142,10 +948,6 @@ attached to him.’ Devīgītāsays, ‘In Her at dissolution Jīvas and their K
  ⁶The site of certain forms of Tantrik *Sādhana*, such as *Savāsana* *Mundāsana*, etc., as to which the Phetkārīṇī-Tantra says that it is an excellent place for *Sādhana.* He who makes *jaþa* a number of times on a corpse in a cremation-ground attains all manner of success (Siddhi).’  
 
   ⁷ Parama-Śiva.
-
-
-
-
 
 **VERSE 8**
 
@@ -1174,8 +976,6 @@ THOSE who truly¹meditate on Thee, the Spouse of Hara,²who art seated in ³the 
 *‘Skulls and bones’ (Muṇdāasthi-nikarath)*  
   The white colour of the skulls and bones indicates the white Sattvaguna. Hence associated with the Sattva and other Guṇas of the Jīvas dissolved in Mahāpralaya.
 
-
-
 *‘Ever youthful’ (Atiyuvatīṁ)*  
   That is She is always the same, fresh, unchanging, and unwasting.
 
@@ -1189,11 +989,7 @@ THOSE who truly¹meditate on Thee, the Spouse of Hara,²who art seated in ³the 
 °*Humiltated’ (Paribhavah)*  
   That is they are not subjected to birth, death, and rebirth and attain Nirvāṇa.
 
-
-
 **NOTES**
-
-
 
  ¹ Commentator K. B.: where *þaram* is said to mean ‘rightly,’ or meditation alone without *jaþa*.  
 
@@ -1206,8 +1002,6 @@ THOSE who truly¹meditate on Thee, the Spouse of Hara,²who art seated in ³the 
   ⁵ *Santuṣtāṁ uþarisuratena*, that is *viþarttarati*, or *viþarītavihāra* as to which see note 5 of last *Śloka*.  
 
   ⁶Commentator K. B.: literally ‘They nowhere suffer *Kvacidaþi na*), that is, neither in this nor the next world defeat or humiliation.’
-
-
 
 VERSE 9
 
@@ -1231,10 +1025,6 @@ NOTES
 
 *  ² Paramaṁ, or ‘reality’ (Commentator K. B).*
 
-
-
- 
-
 ³ *Dhātā* is *Brahmā*who dispenses the fruits of *Karma*. (V)  
 
   ⁴*Siva. Īśa*: *Rudra* who wields the power of *Īśvara-hood.* (V)  
@@ -1247,11 +1037,7 @@ NOTES
 
   ⁸ As one does not become angry with animals (Pas'u or animal and ignorant men also called Paśu) because they do wrong, so do not be angry with us. It is moreover, the part of the great to overlook the faults of their inferiors (Commentator. K. B.)
 
-
-
 ![](../books_images/U-IMG-1721908733Screenshot2024-07-11204324.png)
-
-
 
 **VERSE 10**
 
@@ -1271,8 +1057,6 @@ IFby night,¹ Thy devotee² unclothed, with dishevelled hair, recites whilst med
 *‘Naked’ ( Vivāsāh)*
 
   That is, stripped of the covering of Māyā : that is awakened.
-
-
 
 *‘Dishevelled hair*’ (*Galitacikurah*)  
  That is, with mind free from all restlessness. The word Cikura means both hair and restless.
@@ -1299,8 +1083,6 @@ Staṁbhanaṁ mohana-caiva vaśtkaraṇaṁ eva ca.’***
   Here *Athavā*means if the *Sādhaka* is without a *Śakti;* then recitation of *mantra* with dishevelled hair gives the same *siddhi*.  
 ⁷*Kavi* which has not here the limited sense of ‘ Poet.’
 
-
-
 O SPOUSEof Hara,¹should (a *Sādhaka*) daily²recite Thy *mantra* for the space of a year meditating the while³ with knowledge of its meaning⁴upon Thee intent⁵upon Thy union⁶with the great Mahākāla, above whom Thou art,⁷then such a knower⁸has every pleasure that he wills upon the earth,⁹and holds all great powers¹⁰in the grasp of his lotus-like hands. —
 
 COMMENTARY
@@ -1318,8 +1100,6 @@ COMMENTARY
 ***‘ Meditating on Thee’ (Vicinty**atvām)*  
   The Kaulāvalī-Tantra says, ‘One should meditate upon the Spouse of Śiva before Japa and after meditation should again do
 
-
-
 Japa.’ The Sādhaka who does Japa and meditation together soon attains success.
 
 *‘Upon Him’ (Viþāritām)*  
@@ -1331,8 +1111,6 @@ Japa.’ The Sādhaka who does Japa and meditation together soon attains success
 ![](../books_images/U-IMG-1722171187Screenshot2024-07-18063849.png)
 
 NOTES
-
-
 
 **
 
@@ -1346,8 +1124,6 @@ NOTES
   ⁸ *Vidvān* whose sole aim is Mokśa.  
   ⁹ Literally ‘wandering freely on Earth’ (Commentary, K.B.)  
  ¹⁰ *Siddhi* (see ante, p. 46.)
-
-
 
 O MOTHER, Thou givest birth to and protectest the world, and at the time of dissolution dost withdraw to Thyself¹ the earth and all things; therefore Thou art Brahmā, and the Lord of the three worlds, the Spouse of Śri²and Maheśa,³and allother beings and things.⁴Ah Me! how, then, shall I praise Thy greatness?
 
@@ -1368,8 +1144,6 @@ O MOTHER, Thou givest birth to and protectest the world, and at the time of diss
 *‘ All things’ (Samastaṁ)*  
  Thou art both the material and instrumental cause of the world. The Triputā-Stotra says, ‘ Thou art Earth, Brahmāand Creatrix of the world. Thou art also Water, Viṣṇu, and Preserver of the world. And thou art Fire, Rudra and the Dissolver of the world. As the Air of the world thou art ‘Aiśvarya.’ Another Stotra says, ‘She assumes three forms of body for the purpose of creation, maintenance
 
-
-
 and dissolution. The world being constituted of the three Guṇas, Brahmā, Viṣṇu and Rūdra are Her Vikṛtis.’
 
 ![](../books_images/U-IMG-1722171847Screenshot2024-07-18063849.png)
@@ -1382,8 +1156,6 @@ and dissolution. The world being constituted of the three Guṇas, Brahmā, Vi�
   ⁴*Prāyah sakalaṁ aþi*, that is, all moving and unmoving things (Commentary, K.B.). For the Devī is *Viśvarūpiṇ*ī in the form of the whole universe. She is the objective world, *‘jadātmikā’* (Lalitā, verse 90), as well as its Cause.
 
 ![](../books_images/U-IMG-1721105828Screenshot2024-07-16102640.png)
-
-
 
 **VERSE 13**
 
@@ -1412,8 +1184,6 @@ COMMENTARY
 
   ¹ That is, thinking that other *Devas* grant greater boons (Commentary, K.B.). Cf. also what Śaṁkarāicārya says about the worship of other Devas in fourth śloka of the *Devyaþarādha-kṣamāþana-stotra,* and see Devībhāgavata (V. 19) (Hymn to Jagadaṁbikā).
 
-
-
   ²*Paramam, that is, Tattvaṁ*.  
   ³For he is a devotee (Bhakta) whose desire for Her is so great that he cannot control but is controlled by it.  
    ⁴ Ādyā .  
@@ -1421,10 +1191,6 @@ COMMENTARY
   ⁶*Viṣṇu, Śiva,* and *Brahmā* . What, then, is the use of praying to Brahmā , *Viṣṇu*, and *Śiva* when they themselves worship Her? (Commentary, K.B.). Cf. also Devibhāgavata, loc. cit. The *Devi* is Mother of all, from *Brahmdā* to the lowliest worm (*Ābrahmākhilajanani*, Lalitā 67).
 
 ![](#)![](../books_images/U-IMG-1721107416Screenshot2024-07-16102640.png)
-
-
-
-
 
 O KALĪ, spouse of Giris’a,¹ Thou art Earth, Water, Fire, Air and Ether.² Thou art all. Thou art one and beneficent.³ What can be said in praise of Thee, O Mother? Of Thy mercy show Thy favour towards me, helpless as I am. By Thy grace may I never be reborn.⁴
 
@@ -1445,8 +1211,6 @@ O KALĪ, spouse of Giris’a,¹ Thou art Earth, Water, Fire, Air and Ether.² Th
 ‘ *Sþouse of Girisha’* (*Giriśaramanī*)  
  Spouse of Śiva. Or He who is in the Giri or Kūta is Giriśa that is Kūtaṣtha-Brahman ; His spouse or Śakti. Though changeless (Nirvikārā) Thou dost appear as the twenty-four Tattvas, namely,
 
-
-
 **VERSE 14**
 
 Earth and the rest through Thy MāyāThe Devīsūkta of the Ṛg-Veda says, ‘Thou who art one and many, subtle and the Vikāras (gross things) and giveth birth to millions of universes.’
@@ -1457,22 +1221,14 @@ Earth and the rest through Thy MāyāThe Devīsūkta of the Ṛg-Veda says, ‘T
 *‘ Helþless’ (Agatikaṁ)*  
   On account of liability to rebirth despite Sādhana.
 
-
-
 ![](../books_images/U-IMG-1722173829Screenshot2024-07-18063849.png)
 
-
-
 **NOTES**
-
-
 
  ¹‘The Lord who inhabits the mountain, whereas, *Girīśa* is Lord thereof.  
   ²Liṅgapūrāṇa says, ‘Devī becomes matter’ (*Kṣetra*). She is Kṣetra- *svarūþā*, that is, the field or matter which is known by the soul (*Kṣetrajñta*). See Lalitā Sahasranāma (fourth hundred) for the Brahman who creates the visible world Itself enters into it (*Tat sṛṣtvātad evānuþrāviśat.*)  
   ³*Kalyāṇi.* According to the Padma-Purāna, *Devī* is worshipped as Kalyāṇi in the Malaya Mountain.  
   ⁴*‘Bhavaṁ anu na bhūyān mama januh*, that is, liberated. The Śyāmārahasya reads *Bhavaṁ* *ananubhūyāt,* using bhavaṁ as meaning duhkhaṁ (pain), arising from *bhava* (the world) (K. B.).
-
-
 
 **VERSE 15**
 
@@ -1498,22 +1254,14 @@ He, O Mahākāl**ī**,¹who in the cremation-ground, naked, and with dishevelled
 *‘Sunflowers’ (Arkānāṁ)*  
   Flowers of feeling such as compassion, forgiveness and so forth which are functions of the Mind called the Sun in the Brahmarandhra. The Jñānasaṁkalinī-Tantra says, ‘Oh Beloved, the mind is seated on the surface of the sun and life on that of the moon.’ The
 
-
-
 Yājñavalkya-Saṁhitāsays, ‘The Moon is known to be in the Idā and the sun in the Piṅgalā(Nādī).
 
 *‘ Self-produced Bīja'’ (Nijagalitavīryena)*  
  This Bīja is here the nectar which naturally flows from the thousand-petalled Lotus. The Mahānirvāṇa-Tantra says, ‘The Heart-Lotus shculd be offered for seat, the nectar (Amṛta) shed from the Sahasrāra for water to wash the feet, the mind as the offering (Arghya), Memory (Citta) is offered by way of flowers, and the vital airs (Praṇa) as and by way of incense.’ Jñānasarṁkalinī-Tantra says, ‘Libation (Tarpana) to the Supreme Liberatrix should be made from out the vessel of the Moon and Arghya should be given from out the vessel of the Sun. Compassion, wisdom, and forgiveness are flowers as is also control of the senses. So too are charity (Dayā) and religious merit. Non-injury (Ahiṁsā) to any being is an excellent flower. Bliss is a flower and so too is the worship of the Sādhaka. Whoever offers these ten flowers attains to the feet of the Liberatrix.’ In this verse Savikalpasamādhiyoga is indicated.
 
-
-
 ![](../books_images/U-IMG-1722178390Screenshot2024-07-18063849.png)
 
-
-
 NOTES
-
-  
 
 ¹ *Mahākālī,Śakti of Mahākāla.*  
   ² *Susthah* : with undistracted mind. (V)  
@@ -1521,8 +1269,6 @@ NOTES
   ⁴‘*Arka*=Sun flowers known as *Ākaṇda* (V) not the flower so called in English.  
   ⁵ *Nija-galita-viryeṇa kusumaṁ*. Thus the offering is not only of the flowers of the Ākaṇda plant, *yatah sādhakah devyai śva-virya-miśritarkāþuṣþāṇasamarþayatī*. Durgārāma-Siddhāntavāgīśa cites the Mahākālasaṁhitāas saying that the sūiryapuṣpa should be offered in the same way with *jaþa* of the *mūlamantra (svavīryamiśrita-sūryapuspāṇī)*. The virya does not, refer to the sap of the plant. *Nija*refers to the *sādhaka*. ‘Along with, that is dipped in or that is spread over with.’ *Mahākāla-saṁhitā*says, ‘A *Kaula-Sādhaka* in the cremation-ground, naked, dishevelled and with tranquil mind, should offer a thousand sunflowers with seed reciting the while his *Mantra*. After meditating and worshipping with great devotion he should recite the Hymn’ (V).  
   ⁶That is, a king or *rājā.* So the Phetkāriṇī-Tantra says that wealth, Strength, eloquence, intelligence, and the love of women (*Sarvayoṣitþriya*h) is gained.
-
-
 
 VERSE 16
 
@@ -1551,8 +1297,6 @@ COMMENTARY
 *‘ Bīja’*  
  That is here nectar which issues on the enjoyment of the union of Kula-kundalinī and Paramaśiva. The Gandharvamālikā-Tantra says, ‘Oh beloved One, the Queen of Devas unites with Paraśiva and
 
-
-
 **VERSE 16**
 
 in a moment, Oh Devī Parameśvari, nectar is forthwith produced. That nectar, Oh Devī, is like the juice of lac. With it, Oh, Mistress of the Devas, libation (Tarpaṇa) should be offered to the supreme Devatā.’
@@ -1563,21 +1307,15 @@ in a moment, Oh Devī Parameśvari, nectar is forthwith produced. That nectar, O
 *‘Hair with its root’ (Cikuraṁ samūlaṁ)*  
   The mind with its functions. It is such Sādhaka who gains both enjoyment and Liberation.  
 
-
-
 ![](../books_images/U-IMG-1722179920Screenshot2024-07-18063849.png)
 
 **NOTES**
-
- 
 
 ¹ *Kālī* is destroyer of *Kāla* (V).  
   ²Whoever’ is here a *Vīra Sādhaka*.  
   ³*Madhyāhne*. Noon or (here) midnight, *Kakārakūtarahasya*says, ‘  
   ⁴Whoever naked and with dishevelled hair, on a Tuesday, at midnight, does *Homa* in the cremation-ground with hair, nails, seed and whatever adheres to the *Sammārjñī* and offers them after having uttered the *Mūlamantra* and recited Thy name a thousand times attracts to him the Lord of the Earth’ (V).  
  ⁵The offering is stated in the words grihe *sammārjanyā þarigalitabījam hi chtkurang samūlang madhyānhe vitarati chitayāng kujadine*. These words have received various interpretations, of which the two chief alternatives are given. *Gṛhe* is by some translated as ‘at home,’ in distinction from the cremation-ground to which, according to this rendering, the *sādhaka* subsequently goes to make his offering. This, however, is said to be erroneous, as the *sādhandā*takes place not in the house but in the cremation-ground. Others (see Calcutta edition) translate it as the equivalent of grihinī, or wife. *Sammārjanī* is by them read to mean ‘comb’ *Parigalita* is translated ‘removed,’ in the sense that the curling of the hair of the wife is ‘removed’ or straightened with the comb. *Bījam* given either its primary meaning, or as the equivalent of virya is said to mean *kautilyam*, or curl of the hair. *Cikuram* is ‘hair,’ and *samūlam* qualifies it, meaning pulled out, taken off at the root. The meaning is, then, an offering is made of the wife’s hair, the curls (*kautilyam*) of which have been straightened out with the comb (*sammdārjanyā*), and some of which has come off at the root (*samūlam*). The correct rendering, however, is according to K, B, *Saktisādhakayoh gṛhe maithunasamay*e
-
-
 
 *yonitliṁgasaṁgharṣavaśāt saktiyonipatitaṁ vīryaliþtaṁ loma devyaisamarþitaṁ bhavati. Gṛhe* thus does not mean ‘at home,’ but *manmathagrihe*. The hair is from the same. *Saṁmārjanī=Siśna.* *Samūlaṁ* qualifies ctkuram in the sense of ‘come off at the root’ under the circumstances stated. *Parigalita* is ‘dropped’—referring to the vīrya.
 
@@ -1591,11 +1329,7 @@ in a moment, Oh Devī Parameśvari, nectar is forthwith produced. That nectar, O
 
   ⁶That is, he becomes a *Rajā*, and has no longer to go on foot iike common folk.
 
-
-
 ![](../books_images/U-IMG-1721126712Screenshot2024-07-16102640.png)
-
-
 
 VERSE 17
 
@@ -1618,17 +1352,11 @@ COMMENTARY
 *‘Poesy’ (Kavitvāmṛta-nadi-nadinah)*  
   He becomes like the great poet Kālīdāsa,
 
-
-
 *"Is great’ (Prabhavati)  
  *He attains Nirvāṇa on being united with Thee who are Saccidānandarūpā. Kūrma-Purāṇa says, Brahmavādīs have learnt in all Vedas and Vedāntas the one, omnipresent, subtle (Kūtastha), immovable, absolute, endless, undecaying Brahman, the sole supreme Niṣkala-Tattva higher than the highest, eternal, auspicious, wondrous.’ Devīgitāsays ‘Oh Mountain, he in whom Parabhakti is thus generated becomes merged in Pure Consciousness.’
 
-
-
 ![](../books_images/U-IMG-1722173773Screenshot2024-07-18063849.png)  
 **NOTES**
-
- 
 
 ^(1**)*Bhaktah*: here the Vira *Sādhaka* (V).  
   ²*Purah*; that is with the *Mandala of Kāma* before him (V).  
@@ -1640,19 +1368,13 @@ COMMENTARY
   ⁸Aho. ‘Ah’ an exclamation of wonder (V).  
   ⁹Celestial spirits (*devayonī*), who play and sing at the banquets of the Devas. According to the *Viṣṇu-Purāṇa,* sons of Brahmā ‘born imbibing melody.’ The *Sādhaka* thus becomes a master of dance, music and song.
 
-
-
 *Gandarva-śre*ṇ*īþatih*. He becomes a great singer and a master of melody. The *Sāhasānka* says, *‘Hāhā*is called a *Gandharva* and singing also makes a *Gandharva*’ (V).  
 **  ¹⁰**He becomes a *Pandita* in all literature. The Kālī-Tantra, quoted in the Kālikalpalatā, says that in strength he becomes like the wind, in wealth of gifts like Indra, and in the musical art like Tumburu (K.B.)—a *Ṛṣi*, master of music and inventor of the *tāmbur*.  
   **¹¹** *Paramaþadalinah þrabhavati*, that is, he attains *nirvāṇa* (K.B.).
 
 *Prabhavati:* becomes capable of creating and so forth on being merged with Thy Supreme Feet (V). The word literally means ‘ Excels.’
 
-
-
 ![](../books_images/U-IMG-1721129311Screenshot2024-07-16102640.png)
-
-
 
 **VERSE 18**
 
@@ -1672,8 +1394,6 @@ HE who at night, when in union with his *Śakti,*¹ meditates with centred mind�
 *‘Thee’ (Tvāṁ)*  
   That is, Brahmamayī.
 
-
-
 *‘Smiling face’ (Smera-vadanāṁ)*  
   Because She Is ever blissful, being Bliss itself.
 
@@ -1689,8 +1409,6 @@ HE who at night, when in union with his *Śakti,*¹ meditates with centred mind�
 *‘Himself also enjoying’ (Svayam aþi ratanandaniratah)*  
   Enjoying the bliss of union in Laya with Paramātmāby Yonimudraé and becoming Śaktimaya himself. The Gheraṇda-Saṁhitāsays, “He should do Yoni-mudrāand himself become Śaktimaya.
 
-
-
 He should move in Paramātmā with the good Śṛṅgārarasa. Becoming Ānandainaya he should be one with Brahman.’
 
 ‘*Destroyer of Kāma’ (Smarahara)*  
@@ -1699,8 +1417,6 @@ He should move in Paramātmā with the good Śṛṅgārarasa. Becoming Ānandai
 ![](../books_images/U-IMG-1721870885Screenshot2024-07-18063849.png)
 
 **NOTES**
-
- 
 
 ¹*Svayam* *aþi* *ratānandaniratah,* of which the meaning is as follows: *yadāsādhakah śaktyāsaha maithunakrtyādsakto bhavatt, tadāsa ślokokta-dhyāna-prakāranasareṇadevim dhyāyats.*  
 
@@ -1713,11 +1429,7 @@ He should move in Paramātmā with the good Śṛṅgārarasa. Becoming Ānandai
 *  ⁵Smarahara. The destroyer of Kāma is Śiva Himself (V).*  
   That is, he becomes *Śiva* Himself, who destroyed *Smara* the *Deva* of Love (Kāma), with Fire from His central eye, when the latter, by the excitation of desire (towards Pārvatī), sought to detract him from his *yoga.* Or it may be translated ‘excels in beauty the God of Love.’
 
-
-
 ![](../books_images/U-IMG-1721140936Screenshot2024-07-16102640.png)
-
-
 
 **VERSE 19**
 
@@ -1740,8 +1452,6 @@ O DARK One,¹ wondrous and excelling in every way,² becomes the accomplishment,
 *‘The flesh of’ (Palalaṁ)*  
  These animals represent the Six Enemies (Ripu) or Vices which are specially characteristic of the following animals: The goat stands for Lust (Kāma) ‘as lustful as a goat (Chhāga),’ the buffalo, Anger .(Krodha) ‘as angry as a buffalo (Mahiṣa),’ the cat, Greed (Lobha) ‘as greedy as a cat’ (Mārjāra), the sheep, Delusion (Moha), ‘as stupid as a sheep’ (Meṣa) the camel, Envy (Mātsarya) ‘ as envious as a camel’ (Uṣtra), Man, Pride (Mada) ‘the Pride and arrogance of man ’ (Nara).
 
-
-
   The Ānandākalpa says, ‘ Worship should be done by making offering of lust as goat, buffalo, and so forth’. Offering is made to Thee who art Cidrūpāof lust and other vices as articles of offering (Upacāra) in worship with the object of ridding oneself of them. Bṛhannīla-Tantra says, ‘In the fire of Ātmāwhich flames with the ghee (Havih) of Dharmaand Adharma, I ever offer in Homa by the Suṣuṁnāpath, with the mind as ladle, all the functions of the senses—Svāhā.’
 
 *‘In worship’ (Pūjāyām)*  
@@ -1750,13 +1460,9 @@ O DARK One,¹ wondrous and excelling in every way,² becomes the accomplishment,
 *‘With hair and bone’ (Loma, asthi)*  
  That is the whole without omitting any part. Such Sādhakas attain the Sālokya and other forms of liberation.
 
-
-
 ![](../books_images/U-IMG-1721881242Screenshot2024-07-18063849.png)
 
 **NOTES**
-
-
 
  ¹ *Asitā*: That is Kālīkāv. post.  
 
@@ -1783,8 +1489,6 @@ is ever beneficial like a Mother.’
 
   ¹⁰ As to this human sacrifice, K. B. says that Kings alone, and not any other, are entitled to make human sacrifice, citing the Yāmala quoted in the Kālikalpalatā(*Rājānaravaliṁ dadyān nānyopi paramesvari*). For inner sense see Svarūpa-vyākhyā*post*.
 
-
-
 **VERSE 20**
 
 O MOTHOR, he who, being a controller of his passions¹ eats *haviṣyānnaṁ*,² and, being proficient in meditation on Thy feet, rightly recites ³ Thy *mantra* a hundred thousand times by day, and he who afterwards ⁴ naked at night, when united with his *Śakti*,⁵ rightly recites Thy great *mantra* another such hundred thousand times, becomes on earth like unto the Destroyer of Smara.⁶
@@ -1800,8 +1504,6 @@ O MOTHOR, he who, being a controller of his passions¹ eats *haviṣyānnaṁ*,�
 *‘ Becomes’ (Syāt)*  
   That is, becomes liberated whilst yet living (Jīvanmukta) like Śiva.
 
-
-
 **NOTES**
 
  ¹*Vashī*. The first part of this Śloka refers to *Pasvācāra.*  
@@ -1810,17 +1512,12 @@ O MOTHOR, he who, being a controller of his passions¹ eats *haviṣyānnaṁ*,�
 ³ Makes *jaþa* (see ibid.).  
 ⁴ *Paraṁ:* that is, when he has been *Abhiṣikta* into *Virācāra*.
 
-
-
  ⁵ *Nakiaṁ nagno nidhuvana-vinodena*, the meaning of which is *yādā sādhakah* ś
 
 *aktyāsaha maithuna-kriyāsakio bhavatt, tadāsa mantraṁ jaþati.*  
  ⁶ *Smarahara* or *Siva* (see note 5 to *Śloka* 18, ante). The Tantra- kalpadruma says, ‘He who eats *Haviṣyānnam,* who keeping *Devī*in mind recites the *Mantra* a hundred thousand times by day and is at night united with his *Śakti* becomes the Lord of the earth.’ (V).
 
 *             *       **    **      
-        
-
-
 
 VERSE 21
 
@@ -1848,8 +1545,6 @@ O MOHTER, this Hymn of Thine is the source from whence originates Thy ***mantra.
 ³That is, even his meaningless delirious talk, as in fever or madness,etc. (K.B.)
 
      ![](../books_images/U-IMG-1721645543img_11.png)
-
-
 
 VERSE 22
 
@@ -1887,8 +1582,6 @@ NOTES
 ga, which has beautiful large eyes,  
 ²Lord of wealth.
 
-
-
 VERSE 22
 
 **³ Kelikalayā, by the various entertaining acts (*paarihāsādinā*) of which there are sixty-four. The meaning here is that there is continuous bliss.  
@@ -1910,15 +1603,12 @@ COLOPHON
 
 OṀ, TAT SAT, OṀ
 
-
 ![](#)![](../books_images/U-IMG-1721144721Screenshot2024-07-16102640.png)
 
 ¹The first Kāla is Mahākāla and the second is the produced Kāla,  
 ²Brahmā. , Viṣṇ
 
 u and Rudra.
-
-
 
 Books By
 
@@ -1941,8 +1631,6 @@ literature of which occupies a front rank in the religious life of Modern India 
  There is no doubt that the author has done good service to the Tantra Agama and students of philosophy in general by his scholarly contribution which has filled his heart and is a labour of love. —***Quarterly Journal of the Mythic Society***  
   Permit me to seize this opportunity to congratulate you on the excellent get-up of your books of which I have " **SERPENT POWER”,“VZARNAMALA” and** “**SHAKTI AND SHAKTA**™” all of which have been most enlightening. —***A reader from Egypt***  
 **Publishers: GANESH & CO., (MADRAS) LTD., MADRAS—17**
-
-
 
 ॐ
 
@@ -1973,8 +1661,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 **¹श्रीचण्डो               ² गन्धर्वतन्त्रम्,   
           ³कालीहृदयम्,**
 
-
-
 श्रुतौ; “अथ हैनां ब्रह्मरन्ध्रेब्रह्मस्वरूपिणीमाप्नोति। सुभगां त्रिगुणामुक्त्वा, सुभगा बिन्दुमेलनरूपा। कामरेफेन्दिरा तु समष्टिरूपिणी। एतत्त्रिगुणितमादौ। तदनु कुर्चद्वयं, कूर्चबीजं तु व्योमषष्ठस्वरबिन्दुमेलनरूपम्‌। तदेव द्विरुच्चार्यतदनु भुवनाद्वयं, भुवना तु व्योमज्वलनेन्दिराशून्यमेलनरूपा। तदेव द्विरुच्चार्यदक्षिणे कालिके चेत्यमिमुखंगता, तदनु, बीजसप्तकमुच्चार्यबृहद्भानुजायामुच्चरेत्‌। अयं सर्वमन्त्रोत्तमोत्तमः ” इति। तथा च निरुत्तरतन्त्रे-
 
 “अथ वक्ष्ये महेशानि दक्षिणाकालिकामनुम्‌।  
@@ -1994,8 +1680,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 अभेदमतमास्थाय यः कश्चित्‌ साधयेन्नरः।  
 त्रिलोके स तु पूज्यः स्यात्तारायाः सुत एव सः॥
 
-
-
 **भेदं शृत्वा यदा मन्त्रीसाधयेदत्रसाधनम्‌।  
 न तस्य निष्कृतिर्देवि निरये पच्यते हि सः॥** ”
 
@@ -2009,8 +1693,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 इति। तथा च **महाकालसंहितायाम्‌;** “श्रीविधा कालिका तारा त्रिशक्तिविषये पठेत्‌”इति। वस्तुतस्तु यद्वद्विभिन्नजातीयबीजेभ्य एकविधा लता कदापि नोत्पद्यते, तद्वत्‌ क्रींकारहूंकारह्रींंकारादिभ्यो विभिन्नबीजमन्त्रेभ्य एकरूपा मूर्तिर्नसंभवति। अतः पूर्वोक्तैस्निभिर्बीजैःब्रह्मविद्या श्रीमद्दक्षिणकालिकैव सर्वरूपिणीति सूचिता।
 
  हे मातः! ध्वान्तधाराधररुचिरूचिरे! नीलमेघकान्तिरिव मनोज्ञे! नवीन- जलधरो यथा अमृतवारिवर्षणेन आतपतप्तपृथ्वीं शीतलां करोति, तद्वत्त्वमपि कृपामृतवर्षणेन त्रितापतप्तसाधकाय अमृतत्त्वं ददासीति भावः। त्रिपुरहरवधु! स्वर्गमर्त्यपातालस्थैः त्रिपुरैः सह त्रिपुराख्यासुरनाशकमहेशशक्ते! कर्पूरं मध्यमान्त्यस्वरपरिहितम्‌; कर्पूरशब्दस्य मध्यमो रेफयुक्तः पकारः, अन्त्य अनुस्वारः, स्वराः अकारोकारान्तिमरेफस्थाकाराः, तैः सर्वतोभावेन वर्जितं, तेन "क्र” इति स्थितम्‌। सेन्दुवामाक्षियुक्तम्‌; सेन्दु, बिन्दुयुक्तार्धचन्द्रेण सह वर्तमानं, वामाक्षियुक्तं ईकारेण युक्तम्‌ , तथा च “क्री^(ꣲ)” इति। ते तव बीजं मन्त्रात्मकशरीरस्य कारणम्‌। त्रिःकृतम्‌; त्रिगुणीकृतं, ये; जनाः जपन्ति, मन्त्रार्थगतमानसाः सन्तः मनसा उच्चारयन्ति। सर्वसिद्धिं गतानाम्‌ ; शिवस्य अणिमाद्यष्टसिद्धिं प्राप्तानां साधकानाम्‌; मुखकुहरात्‌; आस्यविवरात्‌। गद्यानि पद्यानि च वाचः गद्यपद्यमयानि वाक्यानि स्वच्छन्दम्‌ अप्रयत्नसुलभम्‌ उल्लसन्ति प्रस्फुरन्तीत्यर्थः। अपि च श्रूयते- 'यत्‌ श्रीमत्कालि-
-
-
 
 काया इदं “क्री^(ꣲ)” बीजम्‌, इसलामधर्मावलम्बिनः साधकाः मोक्षकामकामनया आर
 
@@ -2057,8 +1739,6 @@ literature of which occupies a front rank in the religious life of Modern India 
        रकारं कामदं कान्ते मकारं मोक्षदायकम्‌।  
        एकत्रोच्चारणाद्देवि मोक्षनिर्वाणदायिनी॥ इति॥
 
-
-
 शुद्धसत्त्वप्रधाना मायाशक्तिः ताभ्यां युक्तम्‌। कर्पूरं कल्पयति जगत्‌ प्रपञ्चंयत्‌, तत्‌ सगुणब्रह्मइत्यर्थः। ते तव बीजं^(**1**)जगत्‌कारणभावं सच्चिदानन्दरूपिणी त्वं निर्गुणापि जीवकर्मकालविशिष्टया मायया युक्ता सती तत्तज्जीवतत्तत्कर्मफलभोगसमये प्राप्ते जगत्सर्जनेबीजात्मतां गतासीति भावः। एतत्‌ क्रीं वाच्यं तव शुद्धसत्त्वात्मकं सच्चिदानन्दरूपं, ये साधकाः त्रिःकृतं त्रिगुणीकृतं, सात्विकराजसिकतामसिकभेदेन, तथा स्थूल-सूक्ष्म-कारणभेदेन त्रिविधं त्रिशक्तिरूपं च; जपन्ति**²**; स्वात्माभेदेन चिन्तयन्ति, ते अनिच्छन्तोऽपि धर्मार्थकाममोक्षरूपचतुर्वर्गैलभन्त इति भावः। उक्तं च **विश्वसारतन्त्रे** दक्षिणकालिकाय़ाः क्रमस्तोत्रे-
 
 "त्वदीयबीजत्रयमेतदम्ब जपन्ति सिद्धास्तु विमुक्तिहेतोः।  
@@ -2085,8 +1765,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 ल्युपनिषत्‌॥
 
-
-
 द्वन्द्वम्; एतत्‌ युग्मं कृत्वा। यदि; कदाचित्‌ एकवारमपि जपति। तदा, सः; चिरम्‌; यावज्जीवम्‌। वाचामधीशम्‌; बृहस्पतिम्‌; धनदमपि; कुबेरं च। जित्वा; पराभूय, अम्बुजाक्षीवृन्दम्‌; सुन्दरीसमूहं मोहयन्‌ प्रभवति, मोहयितुं समर्थो भवति। स साधकः अतीव विद्वान्धनवान्‌ रूपवांश्च भवतीत्यर्थःतथा च ताराराहस्ये--“तारकत्वात्‌ सदा तारा या काली सैव निश्चिता" इति। क्रमस्तोत्रेच-
 
 त्वदीयकूर्चद्वयजापकत्वात्‌ सुरासुरेभ्योऽपि भवेच्च पूज्यः।  
@@ -2099,8 +1777,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 *                                  
                                    
   *
-
-
 
 ¹ नित्यायाःकालरूपाया अरुपायाः शिवात्मनः।  
   अमृतत्वाल्ललाटेऽस्याः शशिचिह्नंनिरूपितम्‌॥ महानिर्वाणतन्त्रम्‌॥  
@@ -2119,8 +1795,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 स्रम्‌ ।  
  ⁶ शिवशक्तिसमायोगाज्जनितो मन्त्रराजकः।  
   तन्मयीं परमानन्दनन्दितां मन्त्ररूपिणीम्‌॥ गन्धर्वतन्त्रम्॥
-
-
 
 जपेन चिन्तयति। तर्हिस साधकः ज्ञानविज्ञानवान्‌ धनवांश्च भूत्वा, सर्वंजगत्‌ मोहयितुं शक्नोतीति भावः॥२॥
 
@@ -2154,8 +1828,6 @@ literature of which occupies a front rank in the religious life of Modern India 
   विश्वात्ममन्दौबलवान्मेरुर्गिरिः कलारसः।**  
 **⁴** **इःसूक्ष्माशान्मलीविद्या चन्द्रः पूषा सुगुह्यकः॥ तन्त्राभिधानम्॥**
 
-
-
 **"आद्यन्तहीनंजगदात्मरूपं विभिन्नसंस्थं प्रकृतेः परस्तात्‌।  
 कूटस्थमव्यक्तवपुस्तवैव नमामि रूप॑ पुरुषाभिधानम्‌॥"**
 
@@ -2182,8 +1854,6 @@ literature of which occupies a front rank in the religious life of Modern India 
    पुरुषोदक्षिणः प्रोक्तःवामाशक्तिर्निगद्यते ॥  
    वामा सा दक्षिणं जित्वा महामोक्षप्रदायिनी।  
    ततः सादक्षिणा नाम्ना त्रिषुलोकेषु गीयते॥ इति**
-
-
 
 इति। तथा च तन्त्रान्तरे-
 
@@ -2215,8 +1885,6 @@ literature of which occupies a front rank in the religious life of Modern India 
   नवाम्भोदश्यामां प्रकटरदभीमां प्रथुकुचाम्‌। इति।  
 ³माथालज्जाच ह्रींकारः हूँकारः कूर्चउच्यते॥**
 
-
-
 प्रकाररूपं भावयन्ति चिन्तयन्ति। त्र्यम्बकस्य; शिवस्य। अष्टौ सिद्धयः;^(**1**)अणिमाद्योऽष्टौ प्रकाराः सिद्धयः, तेषां साधकानां, करस्थाः ; अनायासलब्धा भवन्तीः॥४॥
 
 स्वरूपव्याख्या
@@ -2243,8 +1911,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 तथा चयोगिनीतन्त्रे—  
  पापपुण्यपशुं हत्वा ज्ञानखड्गेन शांभवि।इति।**
 
-
-
 **टीका**
 
 ** वर्गाद्यमिति**। हे स्मितमुखि! ईषद्धास्यवदने ! हे स्मरहरमहिले! मदनान्तकमोहिनि! हे मातः! ये ये जनाः वह्निसंस्थं**¹** रकारोपरिस्थितम्‌। विधु^(**2**)रतिललितं, विधुश्चन्द्रबिन्दुः, रतिः, दीर्घईकारः, ताभ्यां युक्तम्‌। वर्गाद्यं; पञ्चवर्गाणामादिभूतं “क” इति वर्णं, “क्री^(ँ) ” इति बीजं, तत्त्रयं; तस्य त्रितयम्‌। पश्चात्‌; तदनन्तरं कूर्चयुग्मं हूँ बीजद्वयम्‌। लज्जाद्वन्द्वंच ; ह्री^(ँ)“ बीजद्वयं च, तदधः; तत्पश्चात्‌ ठद्वयं" द्विठं“स्वाहा'' शब्दम्‌, योजयित्वा; संयोज्य, स्वरूपं ध्वान्तधाराधररुचिरुचिरे! इत्यादि त्वदीयद्वाविंशत्यक्षरमन्त्रघटितं रूपम्।भावयन्तः^(**4**); ध्यायन्तः, जपन्ति, “क्री^(ँ) क्री^(ँ) क्री^(ँ)” इत्यादि स्वाहान्तं द्वाविंशत्यक्षरीं विद्याराज्ञीं पुनः पुनः उच्चारयन्ति।ते; साधकाः, लक्ष्मीलास्यलीलाकमलदलदृशः; लक्ष्म्याःया नृत्यक्रीडा, सा यत्र कमले पद्मे, तद्दलमिव पत्रमिव दृशो चक्षूंषि येषां तथाविधाः। कामरूपाः ; कामदेवसदृशकमनीयरूपा भवन्ति॥५॥
@@ -2269,8 +1935,6 @@ literature of which occupies a front rank in the religious life of Modern India 
   इत्यादि शाक्तानन्‍दतरङ्गिण्या नवमपटलेद्रष्टव्यम्‌।  
  ⁵महामहाब्रह्मविद्या विद्येयं कालिका मता।  
 
-  
-
 धामासाद्यच निर्वाणमुक्तिमेति नराधमः॥  
 तथा च कालीकुलसर्वस्वे-  
   श्रद्ध
@@ -2279,8 +1943,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 यावापि यःकश्चिन्मानवः स्मरेत्‌।  
   दुर्गंच दुर्गतिं जित्वा सयाति परमां गतिम्‌॥इति॥
-
-
 
 शैल्यसौन्दर्ययुक्तम्‌। वर्गाद्यम्‌; सृष्टेः आदिभूतं चिन्मयरूपम्‌। तत्त्रयं सत्त्वरजस्तमोभेदेन त्रिविधरूपम्‌। पश्चात्‌ तथा कूर्चयुग्मं; शब्दब्रह्मरूपम्‌।लज्जाद्वन्द्वंच; मायाशबलब्रह्मरूपं च। तदधःठद्वयंयोजयित्वा; स्वाहा वह्नेःप्रकाशशक्तिः, तया सह ते स्वप्रकाशरूपं स्वरूपं^(**1**)स्वस्य आत्मनो रूपं, जीवात्मना सह अभेदम्‌। भावयन्तो जपन्ति अनुध्यायन्ति।ते साधकाः; लक्ष्मीलास्यलीला,**²**लक्ष्म्याः श्रियः, लास्यं नृत्यं, लीलाक्रीडा, रमणं चेत्यर्थः। लक्ष्म्याः नृत्यादिविहार इति भावः। तस्या आधारभूतः यः कमलदृक्‌ कमलाक्षः विष्णुः तत्सदृशाः। उक्तं च देवीमाहात्म्ये,“श्रीः कैटभारिहृदयैककृताधिवासा”इति। कामरूपाः; स्वेच्छानुसारेण शरीरग्रहणसमर्था भवन्ति। यथा पुण्डरीकाक्षः विष्णुः स्वेच्छया मत्स्य-कूर्म-वराहादिदशविधमूर्तीन्‌ तथा मोहिनीमूर्तिंच दधार, तद्वत्‌ कालीसाधकाः स्वेच्छानुसारेण मूर्तिं परिग्रहीतुंशक्नुवन्तीति भावः। उक्तं च **क्रमस्तोत्रे—**
 
@@ -2312,8 +1974,6 @@ literature of which occupies a front rank in the religious life of Modern India 
  ध्यानेन लभते सर्वंध्यानेन विष्णुरूपकः।  
 ³ विष्णुरूपाः।**
 
-
-
 **प्रत्येकंवाद्वयं वात्रयमपि च परं बीजमत्यन्तगुह्यं**  
 
 **त्वन्नाम्नायोजयित्वा सकलमपि सदा भावयन्तो जपन्ति।  
@@ -2336,8 +1996,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 इति कालिकाश्रुतौ।  
 ²यस्य यस्य च मन्त्रस्य उद्दिष्टायाच देवता।  
  जिन्तयित्वा तदाकारं मन्त्राजपमाचरेत्‌॥ भूसशुद्धितन्त्रम्॥**
-
-
 
 पञ्चाशद्वर्णमयि**¹**! शब्दब्रह्मरूपिणि! हे पीनस्तनाढ्ये! स्तन्यरूपाहार्यादिदानेन त्रिजगतां पालयित्रि! तथा स्तन्यामृतदानेन साधकानां मोक्षदात्रि च।मातः! तव प्रत्येकं वा द्वयंवा त्रयमपि च, परम्‌; अत्यन्तगुह्यं सकलंसगुणं बीजं तव प्राज्ञतैजसविश्वाख्यव्यष्टिररूपम्। तथा ईश-सूत्र-विराडाख्यसमष्टिभूतमूर्तीश्च**²** भावयन्तः जपन्ति। श्रवण-मनन-निदिध्यासनात्‌ सदा चिन्तयन्ति। तेषां ज्ञानयोगिनां, नेत्रारविन्दे कमला विहरति^(**3**), तेषां कृपादृष्टिपातेन अन्येषामपि धनैश्वर्यंभवति, का कथा आत्मनामिति भावः। वक्‍त्रशुभ्रांशुबिम्बे; वाग्देवी विहरति। तेषां गद्यपद्यमयी वाणी भवतीति भावः। अथवा हे मातः! ये जनाः तव सकलं सगुणं शब्दब्रह्ममयरूपं स्वात्माभेदेन चिन्तयन्तः; इमान्‌ मन्त्रान्‌ जपन्ति, तेषां साधकानां नेत्रारविन्दे इत्यादि सर्वं पूर्ववत्‌॥६॥
 
@@ -2370,8 +2028,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 न्निवसत्येव निश्चितम्‌॥भैरवतन्त्रे।
 
-
-
 **टीका**
 
 ** गतासूनामिति।** हे जननि! त्रिजगतां सृष्टिकर्त्रि! गतासूनां; मृतानाम्‌। बाहुप्रकरकृतकाञ्चीपरिलसन्नितम्बाम्‌; करसमूहरचितकटिभूषणशोभमाननितम्बाम्। दिग्वस्त्राम्; दिगम्बरीम्। त्रिभुवनविधात्रीम्; त्रिजगतां भोगमोक्षविधानक
@@ -2400,8 +2056,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 ³महान्स्यपि च भूतानि प्रलये समुपस्थिते।  
  शेरतेऽत्रशवो भूत्वा श्मशानं तु ततो भवेत्॥**
 
-
-
 सर्वभूतानि शवरूपैः शेरते लीयन्ते यस्मिन्‌ तत्स्थानं तस्मिन्‌ महाकाशे। शवहृदि तल्पे;^(**1**)शवः निर्गुणब्रह्म, तल्पे आधारे, निर्गुणब्रह्मरूपाधारे; निर्गुणब्रह्मरूपस्वीयपदे अवस्थिता सतीत्यर्थः। महाकालसुरतप्रयुक्ताम्‌; कल्पावसाने सृष्ट्यादिकार्याभावात्‌ निष्क्रियत्वाच्चपरमशिवेन सह अभिन्नतया अखण्डानन्दमनुभवतीम्‌।एवं ध्यायन्‌ सच्चिदानन्दरूपिणीं त्वां चिन्तनेन प्रत्यक्षीकुर्वन्‌। जडचेताः ; विषयरागोपहतचित्तो जनोऽपि, कविः महाज्ञानी भवतीति भावः॥७॥
 
 शिवाभिर्घोराभिः शवनिवहमुण्डास्थिनिकरैः  
@@ -2426,8 +2080,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 वा शप्या परमेशानि स एवं श्रीसदाशिवः।  
  तस्योपरि महेशानि सूक्ष्मां त्रिपुरसुन्दरीम्‌॥इति॥  
 ² आद्याप्यशेषजगतां नवयौवनासि। शारदातिलकम्‌ ।**
-
-
 
 सत्त्वगुणं सूचितम्‌। अत एवं महाप्रलयेमृतानां जीवानां सत्त्वादिगुणसमूहैः। परं संकीर्णायाम्‌; अत्यन्तसंकुलायां युक्तायाम्‌। प्रकटितचितायाम्‌**¹**;
 स्वप्रकाशरूपायां चिच्छक्तौ। प्रविष्टाम्‌; अधिष्ठिताम्‌। उपरिसुरतेन संतुष्टाम्‌^(**2**)परमशिवमभिभूय स्वेच्छया सृष्टि-स्थिति-लयादिकार्येषु रममाणाम्‌। अतियुवतीम्‌; सदैव एकभावापन्नाम्‌, अव्ययामित्यर्थः। हरवधूम्‌; तत्त्वज्ञानप्रदानेन जीवानां त्रितापं हरतीति हरः, तस्य वधूःशक्तिः तां, जीवानां मुक्तिदात्रीमित्यर्थः। एवंभूतां चिदानन्दमयींत्वां ये साधकाः सदा ध्यायन्ति, अहरहः निश्चलचेतसा प्रत्यक्षीकुर्वन्ति। तेषां क्वचिदपि कस्यामपि योनौ; परिभवः ; इत्थंभूतं जन्म पुनर्जन्म न भवति, ते निर्वाणमोक्षं लभन्त इत्यर्थः॥८॥
@@ -2461,8 +2113,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 म्यात्वमेका परब्रह्मरूपेण सिद्धा॥ इति॥
 
-
-
 रुद्रः, अपि न जनाति। हरिः; विष्णुः, अपि न वेत्ति। उच्चैः; अत्यन्तम्‌। जडधियः; मन्दबुद्धयः। वयं ते तव संबन्धे किंवदामः कथयामः। तथापि; अज्ञत्वेऽपि। त्वद्भक्तिः; तव स्तवनोद्देश्यकप्रवृत्तिः। अस्मान्‌; मुखरयति स्तुतिवचनेषु प्रेरयति। तत्‌; तस्माद्धेतोः। अस्माकमेतत्‌ तदयोग्यं कर्म। क्षन्तव्यम्‌ ; सहनीयम्‌। खलु; निश्चितम्‌। पशुरोषः; अज्ञानेषु कोपः, न समुचितः; न योग्यो भवति॥९॥
 
 स्वरूपव्याख्या
@@ -2486,8 +2136,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 पुनः महाकालीस्तोत्रे च—  
  यदा नैव धाता न विष्णुर्नरुद्रो नकालीन वा पञ्चभूतानि चासन्।  
  तदा कारणीभूतसत्त्वैकमूर्तिस्त्वमेका परब्रह्मरूपेण सिद्धा॥इति॥
-
-
 
 समन्तादापीनस्तनजघनधृग्यौवनवती-  
 रतासक्तो नक्तंयदि जपति भक्तस्तव मनुम्‌।  
@@ -2525,8 +2173,6 @@ literature of which occupies a front rank in the religious life of Modern India 
  रात्रौ मन्त्रं च मालांचन स्पृशेत्‌ कदाचन॥इति॥  
  ³ या निशा सर्वभूतानां तस्यांजागर्तिसंयमी। भगवद्गीता।
 
-
-
 प्रबुद्धः सन्नित्यर्थः। समन्‍तादापीनस्तनजघनधृग्यौवनवतीरतासक्तः;^(**1**)सर्वदिग्विदिक्‌ स्थितानां जीवानामुत्पादयित्र्यापालयित्र्याच नित्ययुवतीरूपया कुलकुण्डलिनीशक्त्या सह जीवात्मानं परमात्मनि लीनं कुर्वन्‌ सन्‌। अत्र स्तनजघनधृक्‌^(**2**)इत्यनेन कुलकुण्डलिन्याः जगतां सृष्टि-स्थिति-कर्तृत्वं सूचितम्‌। विवासाः; विगतं वासः मायावरणः यस्य तथाभूतः, प्रबुद्ध इत्यर्थः।गलितचिकुरः ; गलितं नष्टं चिकुरुरत्वं चापल्यं यस्य सः, निश्चलचित्तः सन्‌। त्वां परमशिवेन सह सामरस्यानन्दनिरताम्‌, त्वां चिन्तयन्‌, तव मन्त्रराजं मनसा जपति ; स तत्वज्ञानी भूत्वा दिव्यौघ-सिद्धौघ-मानवौघसदृशचिरजीवीभववीत्यर्थः।समस्ताः सिद्धौघाः, अत्र बहुवचनप्रयोगेण दिव्यसिद्धमानवौघानां प्रहरणं बोद्धव्यम्‌॥१०॥
 
 समाः सुस्थीभूतो जपति विपरीतां यदि सदा  
@@ -2555,8 +2201,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 ³ शान्तः शुचिर्मिताहारो भुशायी भक्तिमान्‌ वशी।  
  निर्द्वन्द्वः स्थिरधीर्मैनी संयतात्मा जपेत्‌ प्रिये॥ कुलार्णवतन्त्रम्॥**
 
-
-
 महाकालेन सह अत्यर्थेरतानन्दनिरतां, सृष्ट्यन्मुखीत्वां ध्यायन्‌**¹**सन्‌, तव मन्त्रार्थं चिन्तयन्‌। समाः; संवत्सरं व्याष्य, सदा; सर्वदा विचिन्त्य, त्वां ध्यायन्‌ जपति**²**तव मन्त्रजपं करोति। तदा; तर्हि, क्षोणीतलविहरमाणस्य; भूतले मुखेन निवसतः विदुषः; पण्डितस्य। तस्य कराम्भोजे; करकमलतले, सिद्धि-निवहाः; श्रीविद्यायाः इच्छासिद्ध्यादिशक्तिसमूहाः। वश्याः; वशीभूता भवन्तीत्यर्थः। महासिद्धिनिवहा इति पाठे, सालोक्य-सारूप्य-सायुज्य-निर्वाणाख्याः, तस्य आयत्ता भवन्तीत्यर्थः॥११॥ इत्यस्य स्वरूपव्याख्याच॥
 
 प्रसूते संसारं जननि भवती पालयति च  
@@ -2581,8 +2225,6 @@ literature of which occupies a front rank in the religious life of Modern India 
   तस्माच्छतगुणं प्रोक्तंमानसं जपमुत्तमम॥
 
 कौलावलीतन्त्रम्॥
-
-
 
 तव स्वरूपाख्यानं किंकरोमि। त्वमेव वाचातीतेति भावः। उक्तं च **त्रिपुटास्तोत्रे—**
 
@@ -2619,8 +2261,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 आत्मोपलब्धिविषयं
 
 देव्यात्तत्परमं पदम्‌॥इति॥
-
-
 
 विबुधेः;^(**1**)ब्रह्मविष्णुरुद्रादिसुरेशैः। समाराध्याम्‌; सदा उपास्याम्‌। आद्याम्‌; जगतः आदिकारणभूताम्‌। रतिरस
 
@@ -2664,8 +2304,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 र्थतन्त्रम्॥
 
-
-
 जलम्‌ ; शुचिः अग्निः; अपि समीरः वायुः; अपि गगनम्‌ , आकाशम्; एकां अद्वितीया; कल्याणी ; निर्वाणमोक्षदानेन जीवानां मङ्गलविधायिनी। गिरिशरमणी; शिवानी; गिरौ कूटेशेते इति गिरिशः कूटस्थब्रह्म, तस्य रमणी ह्लादिनीशक्तिः। त्वं निर्विकारापि^(**1**)स्वकीयाघटनघटनापरीयसीमायया क्षित्यादिचतुर्विंशतितत्त्वरूपिणीत्यर्थः। सकलं; सर्वंचराचरं च "सर्वंखल्विदं ब्रह्म" इति श्रुतिः, “ सर्वस्वरूपे सर्वेशे सर्वशक्तिसमन्विते” इति चण्डी। हे मातः; ते तव स्तुतिः का? सर्वस्वरूपायास्तव स्तुतिर्नसंभवतीति भावः। त्वं निजकरुणया; स्वीयासाधारणकृपया।अगतिकम्‌; साधनहीनत्वादनुपायम्‌। मां प्रति प्रसन्ना भूयाः प्रसीद, भवमनु; संसारे इत्यर्थः। मम जनुः ; जन्म न भूयात्‌ न भवतु; मां स्वीयाभयपदे लीनंकुर्वित्यर्थः॥१४॥
 
 श्मशानस्थः सुस्थो गलितचिकुरोदिक्पटधरः  
@@ -2685,8 +2323,6 @@ literature of which occupies a front rank in the religious life of Modern India 
   दिगम्बरः सहस्रंच सूर्यपुष्पंसमर्पयेत्‌॥  
   स्ववीर्येण युतं कृत्वा प्रत्येकं प्रजपन्‌ हुनेत्‌।  
   ध्यात्वाभ्यर्च्यंमहाभक्त्याकुलालापः स्तवं पठेत्॥ महाकालसंहिता।**
-
-
 
 सूर्यपुष्पाणाम्‌ आकन्द इति ख्यातानाम्‌।सहस्रंकुसुमं; दशशतसंख्यानि पुष्पाणि। प्रत्येकम्‌; एकैकं त्वामुद्दिश्य ददतीति शेषः। स साधकः स्वैरम्‌; अनायासेन, धरित्रीपरिवृढः ; भूपतिर्भवति॥१५॥
 
@@ -2716,8 +2352,6 @@ literature of which occupies a front rank in the religious life of Modern India 
  ²सूर्याग्रेवसते चित्तंचन्द्राग्ने जीवितं प्रिये। ज्ञानसंकलिनीतिन्त्रम्‌।  
  तथा व याज्ञवल्क्यसंहितायाम्‌—  
  इडायां चन्द्रमा ज्ञेयो पिङ्गकायां रविः स्मृतः।इति।**
-
-
 
 पुष्पाणि। प्रत्येकम्‌; एकैकं त्वामुद्दिश्यददाति मानसोपचारविधिना चिदग्नौ तुभ्यं समर्पयति। सदिव्यसाधकः स्वच्छन्देन धरित्रीपरिवृढः; धरित्रयाः पृथिव्याः पाथिवदेहस्य इन्द्रियादिवृत्तीनामधिपो भूत्वा सहजावस्थां¹प्राप्रोतीति भावः॥१५॥
 
@@ -2756,8 +2390,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 समायुतम्‌।  
 तेनामृतेन देवेशि तर्पयेत्परदेवताम्‌॥गन्धर्वमालिकायाम्‌॥
 
-
-
 हि; निश्चितम। स जनः, सत्कविवरः; सत्कविश्रेष्ठः, क्षितिपरिवृढः; भूपतिश्च सन्‌। सततम्‌; सर्वदा। गजारूढः; हस्त्यारूढः सन्‌ , याति; सर्वत्र विचरतीत्यर्थः॥१६॥
 
 स्वरूपव्याख्या
@@ -2786,8 +2418,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 गं नार्याः ध्यायम्‌ योध्युतमाजपेत्‌ ।  
 
 सकवित्वेन रम्येण जनान्मोहयति ध्रुवम्‌ ॥ तन्त्रकल्पद्रुमः॥
-
-
 
 साने। परमपदलीनः प्रभवति; तव उत्कृष्टपदे विलीनः सन्‌, सृष्ट्यादि कार्ये समर्थोभवतीति भावः ॥१७॥
 
@@ -2825,8 +2455,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 “तन्निष्ठस्तद्गतप्राणस्तच्चित्तस्तत्परायणः।  
 तत्पदार्थानुसंधानं कुर्वन्‌ मन्त्रं जपेत्प्रिये॥”
 
-
-
 इति। तव मनुम्‌; तव मन्त्रराजम्‌ जपति; शनैः शनैः मनसा जपति। उक्तं च तत्रैव—“शनैः शनैरविस्पष्टं न दृतं न विलम्बितम्‌”इति्। स गन्धर्वश्रेणीपति; गायकश्रेष्ठः;“ गानात्‌ परतरं न हि” इति दर्शनात्। अथवा चित्ररथगन्धर्वराज इव। अपि च कवित्वामृतनदीनदीनः; महाकविः कालिदास इव भवति। अपि च पर्यन्ते; देहावसाने परमपदलीनः¹प्रभवति; सचिदानन्दरूपायां त्वयि विलीनः सन्‌ निर्वाणपदं लभत इति भावः। योनिमुद्रासाधनफलंशिवसंहितायां—“अभ्यासाज्जायते सिद्धिरभ्यासान्मोक्षमाप्नुयात्‌ ”इति**॥१७॥**
 
 त्रिपञ्चारेपीठे शवशिवहृदि स्मेरवदनां  
@@ -2852,8 +2480,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 षट्कोणात्तुबहिर्वृत्तं ततोऽष्टदलकं न्यसेत्‌॥  
 बहिर्वृत्तेन संयुक्तं भूपुरैकेन संयुतम्‌।  
 ज्ञात्वैवमुक्तिमाप्नोति यन्त्रराजं न संशयः॥कालीतन्त्रम्॥**
-
-
 
 स्वरूपव्याख्या
 
@@ -2895,8 +2521,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 तदाक्रम्य स्वयं देवी भैरवोपरि संस्थिता।  
 सहजानन्दसंदोहैर्निजानन्दप्रवर्धिनी॥
 
-
-
 भावेन नियतयुक्ताम्‌। स्मेरवदनाम्‌; सदानन्दमयीम्‌; त्वाम्‌; ब्रह्मरूपिणीं यो ध्यायेत्‌**¹**; स्वीयदेहयन्त्रे चिदाभासरूपेण स्थितत्वात्‌ स्वात्माभेदेन त्वां चिन्तयेत्‌।उक्तं च देवीमाहात्म्ये— **“या देवी सर्वभूतेषु छायारूपेण संस्थिता।"इति।** **गन्धर्वतन्त्रे**च—
 
 **“निर्लेपं निर्गुणं शुद्धं स्वात्मानं त्रिपुरामयम्‌।  
@@ -2921,8 +2545,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 **———————————————————————**       
 
-
-
 ¹अथवाद्वैतभावेन वात्मानं तन्मयं स्मरेत्‌।  
 अद्वैतभावसंप
 
@@ -2933,8 +2555,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 **²अस्थिलोमत्वचा युक्तं मांसं मार्जारमेषयोः।  
 उष्ट्रस्यमहिषस्यापि बलिं यस्तु समर्पयेत्।  
 मातेवदक्षिणा तस्यमातेव हितकारिणी॥श्यामारहस्ये॥**
-
-
 
  सलोमेति। अयि असिते!^(**1**) न सिता बद्धा असिता, नित्यमुक्तस्वभावा। ते; तव,पूजायाम्‌; अन्तर्यागविधौ,मानसपूजायामित्यर्थः।मार्जरादिसंबन्धि सलोमास्थिपललम्‌; सर्वावयवसमन्वितान्‌ षडरिपुरूपमार्जरादिपशून्‌^(**2**)इयर्थः। अत्र छागः कामः,महिषः क्रोधः, मार्जारः लोभः, नरः मदः, मेषः मोहः, उष्ट्रःमात्सर्यमिति गुणसाम्यात्‌ बोध्यम्‌। बलिंवितरताम्‌;^(**3**) कामादीनां विनाशकामनया चिद्रुपायां त्वयि पूजोपहाररूपेण ददताम्‌। सतां मर्त्यवसताम्‌; साधुशीलानां जनानाम्‌। प्रतिपदम्‌; पदे पदे, यथाक्रममित्यर्थः;अपूर्वा; सर्वोत्कृष्टा। सर्वा सिद्धिः; पञ्चविधा मुक्तिः।^(**4**)प्रभवति प्रकर्षेण संपद्यते। एवंविधाः साधकाः सालोक्यादिका मुक्तीः लभन्त इत्यर्थः॥१९॥
 
@@ -2967,8 +2587,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 **⁶भवेन्निधुवनं कम्पे सुरते च नपुंसकम्‌। मेदिनी।**
 
-
-
 विशिष्टः सन्‌। लक्षं मनुम्‌; लक्षसंख्यकमन्त्रं जपेत्‌। स क्षितितले; पृथिव्याम्‌। स्मरहरसमानः; शिवतुल्यः स्यात्‌ भवेत्‌। **“**सम्यक्‌”इति पाठे तु यथोक्तविधानेन सेतुमहासेतुकुल्लुकादिकं जप्त्वाइत्यर्थः॥२०॥
 
 स्वरूपव्याख्या
@@ -2994,8 +2612,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 ²यज्जीवब्रह्मणोरैक्यं सोऽहमस्मीति वेदनम्‌।**  
 **तदेव निर्गुणं ध्यानमिति ब्रह्मविदो विदुः॥ शिवार्चनचन्द्रिका॥**
 
-
-
 पूजासमयं वा अधि अधिकृत्य पठति**¹**उच्चैरूदीरयति। तस्य प्रलापः; अनर्थकवाक्यमपि। कवित्वामृतरसः;^(**2**)कवित्वरूपसुधास्वादपूर्णः। प्रसरति, निःसरति; तस्य गद्यपद्यमयी वाणी भवतीत्यर्थः॥२१॥
 
 **कुरङ्गाक्षीवृन्दं तमनुसरति प्रेमतरलं  
@@ -3018,8 +2634,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 गद्यपद्यमयी वाणी तस्य गङ्गाप्रवाहवत्‌॥ कालीकुलसर्वस्वे॥  
 ³महाकालरुद्रोदितस्तोत्रमेतत्‌ सदा भक्तिभावेन योऽध्येति भक्तः।  
 न चापन्न शोको न रोगो न मृत्युर्भवेत्सिद्धिरन्ते च कैवल्यलाभः॥ महाकालसंहिता॥**
-
-
 
 या काली कालकान्ता कलयति कलुषं कीर्तिता कालहन्त्री  
 या तारा ताररूपा कमलजमहिता ब्रह्मविद्या परा च।  
@@ -3051,8 +2665,6 @@ literature of which occupies a front rank in the religious life of Modern India 
 
 **    ![](../books_images/U-IMG-1721719296Screenshotvim.png) **
 
-
-
 APPENDIX।
 
 **ॐ **
@@ -3072,8 +2684,6 @@ APPENDIX।
 
 सुबोधिनीम्‌॥
 
-
-
  तत्र प्रथमं तावदाद्यबीजस्योद्धारमाह—कर्पूरमिति।हे जननि!मध्यमान्तिमस्वरपरहीनं साब्जंदक्षिणेतरनेत्रयुतं कर्पूरमिति पदं^(**1**)तव पूर्वंबीजं ज्ञेयम्‌। हे त्रिपुरासुरारिमहिले!एतत्पूर्वोक्तं ते बीजं त्रिभिरावर्तितं ये भक्ताः जपन्ति, तेषांगद्यरूपाणि च संस्कृतानि, श्लोकरूपाणि च पद्यानि वदनकंदरात्‌ निष्कामन्त्येव। हेगाढतिमिरकंधररुचिरुचिरे! निखिलसिद्धिं प्राप्तानां तेषां स्वतन्त्रं वाण्यो मुखकुहरादुल्लसन्तीति मन्त्रमयसूक्ष्मरूपेण वर्णयति॥१॥
 
  कूर्चबीजमन्त्रोद्धारकथनेन तदाकृतिध्यानकीर्तनेन च तद्द्वन्द्वजपात्‌ मदनतुल्यता वा वित्तेषु विजयितां विकासयति—ईशान इति। हे महेशि! हे चन्द्रार्धचूड़े! चन्द्रस्यार्धंचूडायां यस्याः सा। हे महाघोरवाणावतंसे! वाति गच्छतीति वाणं शरीरम्‌,घोरौभयानकौ शरीरौअवतंसौ कर्णभूषणे यस्याः सा।ईशानः; हकारः, सेन्दुवामश्रवणपरिगतः; इन्दुः अर्धन्द्रः; तेन सह वामश्रवणं दीर्घउकारः,तेन युक्तम्‌। अनेन
@@ -3092,8 +2702,6 @@ APPENDIX।
 
 र्घ**कारेण च सहित ईशानो हकारः, इति कृते हूमिति भवति।**
 
-
-
  इदानीं मायाबीजाङ्गशोधकत्वेन तद्रूपध्यानत्वेन च तस्य द्विगुणीकृतजपात्‌शत्रुनाशकत्वं संसारवशित्वं विभावयति— ईश इति। ईशः; हकारः, वैश्वानरस्थः;रेफस्थः,चन्द्रः; बिन्दुः, तेन विकसत्‌ वामनेत्रम्‌, ईकारः,तदुक्तम्‌। तेन ह्रीमितिभवति। हे विगलितचिकुरे! विशेषेण गलितः चिकुरः केशोयस्याः। हेकालिके! कृष्णवर्णे! हे सृक्कद्वन्द्वास्रधाराद्वयधरवदने! सृक्कद्वन्द्वेअस्त्रधारा रक्तधारा तदद्वयं ध्रियते येन वदनेन, एवंभूतंवदनं यस्याः। हे दक्षिणे! भुक्तिदाननिपुणे! कालिके! जगत्संहारिणि! अतिप्रकर्षेण महाप्रलयकारिणीति यावत्‌। तेन वामबीजं द्वन्द्वंद्विगुणं कृत्वा ये जपन्ति; ते द्वेष्टारम्; शत्रुंघ्रन्ति च, वै; निश्चयेन अभितः सर्वतो भावेनभुवनं वश्यभावं नयन्ति च॥३॥
 
  तृतीयबीजस्योद्धारफलमाह— ईशइति। हे विकीर्णकेशकलापे!
@@ -3110,13 +2718,9 @@ APPENDIX।
 
 ————————————————————————————
 
- 
-
 ¹मृगाङ्केन बिन्दुना शोभमानो दक्षिणेतराक्ष्णादीर्घेकारेण युक्तश्चपरं वैश्वनरस्थो रेफयुक्तो
 
 हकारः।एतावता हकाररकारबिन्दुदीर्घेकारैर्मिलितं ह्रीमितिभवति।
-
-
 
 सव्यकरे उर्ध्वाधःअभयं वरं च, (दधती त्वां ध्यात्वा) पश्चात्‌ दक्षिणे कालिके! इत्येतन्नामवर्णंजप्त्वा, ते मन्त्रविभवंये भावयन्ति, तेषां साधकानां दक्षिणामूर्तिशिवसंबन्धिन्योऽष्टावणिमाद्याः सिद्धयो हस्तगता एवेति। बीजसप्तककथनान्ते दक्षिणेकालिके चेति विन्यस्यति॥४॥
 
@@ -3129,8 +2733,6 @@ APPENDIX।
 
 तच्छ्रियाःसामानाधिकरण्यं प्रतिपादयति—प्रत्येकमिति। हेदेवि! देदीप्यमाने! हेमुण्डस्त्रगतिशयलसत्कण्ठि! मुण्डस्रजा मुण्डमालया अतिशयविलासिनः कण्ठो यस्याः। हे पीनस्तनाढ्ये! पीनौ
 
-
-
 स्थूलौस्तनौ ताभ्याम्‌, आढ्या संपन्ना। प्रत्येकं वा एकमेकं पृथक्पृथक्बीजरूपम्‌एकाक्षरम्‌ , तेन आदिबीजं कूर्चबीजम्‌; मायाबीजं ठद्वयं वा, आदिबीजद्वयंकूर्चबीजद्वयंवा, परं; श्रेष्ठम्‌; आदिबीजत्रयमत्यन्तगुह्यंच, प्रत्येकमपि त्वन्नाम्नायो जपित्वा, सकलमपि; सकलं पूर्वोक्तं सकलम्‌,नेत्रारविन्दे विहरति कमला; नेत्रस्य
 कमलदलतुल्यत्वात्‌ लक्ष्म्याःकमलेनिवासत्वाच्चतेषां नेत्रकमलेकमला लक्ष्मीःविहरति। वक्‍त्रशुभ्रांशुबिम्बे! वक्त्रस्य चन्द्रसादृश्यत्वात्‌ मुखरूपचन्द्रमण्डले वाग्देवी सरस्वतीविहरति॥६॥
 
@@ -3141,8 +2743,6 @@ APPENDIX।
  अतिमूढस्यापि तवध्यानात्कवित्वप्राप्तिमाह—गतासूनामिति। हेअम्ब!अत्यन्तलिगुरपि शवानां भुजनिकररचितकटिसूत्रविलसज्जघनां ककुप्प्रावरणां त्रैलोक्यस्य कर्त्रीं त्र्ययम्बकां शवदहनभूमिस्थां गतप्राणहृदयशय्यायां महेश्वरविपरीतरतात्यासक्तांत्वां चिन्तयन्‌ सन्‌ कविर्भवतीति॥७॥
 
  प्रलयप्रकटरूपिण्याःपरकृताः परमपुरुषेण परमानन्दध्यानयोगाभ्यासपूर्वेप्रदर्शयन्नाह--शिवाभिरति। ये जनाः त्वाम्‌ अतियुवतीम्‌ स्थिरयौवनाम्‌। उपरिसुरतेन;
-
-
 
 विपरीतरमणेन संतुष्टां सदा नित्यं ध्यायति। तेषां क्वचिदपि; कुत्रापि परिभवः; पराजयं न भवति। त्वां किंभूताम्? हरवधूम्; शिवसुन्दरीम्; पुनः किंभूताम्?शिवाभिःघोराभिः; भयानकाभिः, शवनिवहमुण्डास्थिनिकरैः; प्रेतसमूहस्य मुण्डानामस्थ्नांच निकरैः समूहैः, परं; केवलं, संकीर्णायां व्याप्तायाम् प्रकटितचितायां प्रविष्टां; संस्थितामिति॥८॥
 
@@ -3157,8 +2757,6 @@ APPENDIX।
 
  ब्रह्मादीनामप्यगोचरे मद्रूपे वाक्यप्रयोगाय प्रवर्तमानस्य तवायं दीर्घापराधः कथं क्षन्तव्य इत्याशङ्कासमाधानपूर्वकमाह— हे मातः! त्वदीयं पारमार्थिकं मनोवागतीतं रूपं सकलप्रपञ्चस्रष्टा धाता याथातथ्येन न वेत्ति;
 च परम्, सकलप्रञ्चसंहर्तांमहेशोऽपि न वेत्ति; तथा सकलप्रपञ्चपालको हरिरपि न वेत्ति। तथा
-
-
 
 बालिशा वयय्‌ अतितरं ते रूपंप्रति किं वादमः[^3]।हेकालिके! तथापि वक्तुमयोग्यान्‌ अस्मान्‌ त्वदीया भक्तिरेव वाचालंकरोतीत्येतत्प्रवर्तनं सोढव्यम्‌। पशुरोष इति;
 
@@ -3175,10 +2773,6 @@ APPENDIX।
 पठान्तरकल्पना च याथातथ्येनोह्यानिखिलतन्त्रस्वतन्त्रमनीषिभिः॥१०॥  
  तत्रतावत्परप्रकृतेः प्रधानतया साधनभेदादनायासेन महासिद्धिसमूहवशतांसाधयति—समाःस्वस्थीभूत इति। हेहरवधु ! यदि; भक्तः, समाः; संवत्सरम्‌अविच्छेदेन, सदा; सर्वकाले, स्वस्थीभूताम्‌; आत्मरूपावस्थितां विचिन्त्य, विपरीताम्‌
 
-
-
-
-
 अतिशयम्‌ अत्यन्तम्‌, महाकालेन सुरतां त्वां ध्यायन्‌ पूर्वोक्तमन्त्रं जपति, सदा तस्य  क्षोणीतलविहरमाणस्य; क्षोणी पृथिवी तस्याः तले उपरि यत्रकुत्र गच्छतो विदुषः ध्यानपण्डितस्य, कराम्भोजे; करतले, महासिद्धिनिवहाः; खेचरत्वादिसिद्धिसमूहाः, वश्याः;
 वशीभूताःतिष्ठन्तीत्यर्थः॥११॥
 
@@ -3191,8 +2785,6 @@ APPENDIX।
 
  जगत्कारणत्वावच्छिन्नत्वेनापरिच्छिन्नपूर्णनित्यज्ञानं यतः कार्यतावच्छिन्नतया परिच्छिन्नापूर्णानित्यज्ञानसाधनं दूषयति--अनेक इति। हेमातः! भवत्याअधिकाः भवदधिकाः, भवदधिकाश्च ते गीर्वाणनिवहाश्च भवदधिकगीर्वाणनिवहाः, तान्‌ भवदधिकगीर्वाणनिवहान्‌ देवसमूहान्‌ , अनेके; अज्ञानिनः सेवन्ते। विमूढाः; विशिष्टज्ञानहीनाः,
 
-
-
 किमपि परमं विशेषतत्वं न हि जानन्ति। कथमित्याह--समेति। यतः त्रिलोक्यां प्रधानैः हरिहरविरिञ्चादिविबुधैः; विष्णुशिवब्रह्मादिदेवैः, समाराध्याम्‌; सम्यगाराध्याम्‌; आद्याम्‌ सर्वेषामादिभूताम्‌, अतोऽहं स्वैरम्‌ स्वच्छन्दं यथा स्यात्तथा, रतिरसमहानन्दनिरताम्; रतिरसेन नित्यक्रीडारसेन महानन्दनिरताम्‌। प्रपन्नोऽस्मि शरणंव्रजामि॥१३॥
 
  त्वद्व्यतिरिक्तदेवतोपासनाया निष्फलत्वमाह— अनेक इति। हे मातः! (यद्वाहे हरगृहिणि!) लोकाः निलिम्पयूथान्‌ (यद्वा भवत्या अधिका देवा इति मत्वा निलिम्पयूथान्‌) भजन्ति, ते वैधेयाःपरमार्थवस्तुमूतं त्वत्स्वरूपं किमपि न हि जानन्ति। अहं तु ब्रद्मविष्णुमहेश्वरप्रभृतिभिराराध्यमानां रतिरससंतोषतत्परां पूर्वोस्वच्छन्दतयैव शरणागतोऽस्मीति॥१३॥
@@ -3204,8 +2796,6 @@ APPENDIX।
 
  जगतः कर्ममूलकत्वात्‌ महानीलक्रमसाधने अधुनापि महत्फलंप्रदर्शयति--श्मशानस्थ इति। हेमहाकालि! यो जनः श्मशानस्थः; शवानां शयनं श्मशानम्‌ तत्रस्थः, स्वस्थः;सुखासीनः, गलितचिकुरः; मुक्तकेशःदिक्पटधरः; दिगम्बरः,तव
 
-
-
 ध्याननिरतः सन्‌, आकीर्णेसहस्रंकुसुमं; पुष्पं, निगलितवीर्येण युक्तं मनुं मन्त्रं जपन्‌,प्रत्येकं त्वत्‌ तुभ्यं ददाति त्वदिति चतुर्थ्यर्थे पञ्चमी। अपि निश्चयेन।स्वैरं, स्वच्छन्दं,धरित्रीपरिबृढः; पृथ्वीपतिर्भवति॥१४॥  
  तान्त्रिकप्रयोगमाह---श्मशानस्थ इति।हे महाकालिके! महाश्मशानस्थोनिश्चलान्तःकरणःकीर्णकेशःदिगम्बरःते ध्यानासक्तः अर्कसमिधां सहस्रं स्वगलितशुक्रेण युतं कुसुमं (लता कामलता स्वस्त्रीरजश्च) एतत्सर्वमेकीकृत्यमन्त्रमपि जपन्‌प्रत्येकं जुहोति, स भक्तः स्वेच्छ्यैव सकलपृथिवीनायकोभवतीति स्तैति॥१५॥  
   महाचीनमहानीलसाधनाभ्यामुभाभ्यामैहिकामुष्मिकातिशयापूर्वं प्रपञ्चयति- गृहेइति।हे कालि! गृहे; योन्याश्लेषे, संमार्जन्याः; शिश्नस्य, परिगलितबीजं; रत्यवसानगलितवीर्यम्‌, योनिशिश्नगलितबीजयुक्तंसमूलंचिकुरं योनिशिश्ननलोमविशेषशब्दसामान्यपरत्वम्‌। प्रेम्णा; भक्त्या,मनुं; मन्त्रं, समुच्चार्य, सकृदपि;एकवारमपि, कुजदिने;मङ्गलवासरे, मध्याह्ने; अहनशब्दस्य अहोरात्रिवाचकतया नीलसाधनस्य रात्रिकृततया चतद्दिवसीयसायंकाले चितायां वितरति। हि निश्चयेन,सततं निरन्तरं, क्षितिपरिबृढः;पृथिव्याअधिपः, सत्कविवरः; कवीनां श्रेष्ठः सन्‌ गजारूढो याति॥१६॥  
@@ -3214,8 +2804,6 @@ APPENDIX।
 
  गन्धर्वाख्यक्रमसाधनेन फलविशेषविधानं करोति—स्वपुष्पैरिति। यः; भक्तः,कुसुमधनुषः; कंदर्पस्य,मन्दिरम्‌; स्वपुष्पैः आकीर्णम्‌; रजोयुक्तम्‌,पुरोऽग्रे, ध्यायन्‌ध्यायन्‌; ध्यात्वा ध्यात्वा,यदि तव मनुं जपति, स गन्धर्वश्रेणीपतिरपि, अपिः-सकामे, गन्धर्वश्रेणीपतिः स्यात्। स कवित्वामृतनदीनदीनः; कवित्वरूपामृतप्रवाहनदीनः समुद्रः,गभीराशय इति यावत्‌। पर्यन्ते परमपदलीनः; परि सर्वतोभावेन, अन्तेअन्तकाले परमपदे लीनः, प्रभवति प्रकर्षेण लीनो भवतीत्यर्थः॥१७॥  
  पुनरपि प्रयोगान्तरेण फलं दर्शयति द्वाभ्याम्‌--स्वपुष्पैरिति। अहो इत्य
-
-
 
 स्युत्कृष्टंसंबोधने, यः साधकः, स्वरजोभिः पूर्णं मदनमन्दिरं पुरो ध्यात्वा ध्यात्वा, यदितव परमं मनुं जपति,स साधको देवगायकपङ्क्तिनायक इव कवित्वपीयूषवाहिनीवाहिनीनः;
 
@@ -3242,8 +2830,6 @@ APPENDIX।
 
   पुनर्ध्यानभेदेन चीनसाधनभेदादुपचयाधिक्यं प्रतिपादयति— त्रिपञ्चारे पीठइति। अयि जननि! त्रिपञ्चारे; पञ्चत्रिकोणात्मकयन्त्रे पीठे, शवशिवहृदि; शवाकारशिवहृदि, स्थितमिति शेषः। स्मेरवदनाम्‌; ईषद्धास्यमुखीम्‌,उच्चैः; अतिशयेन,मदनरसलावण्यनिरताम्‌; महाकालेन सह शृङ्गाररसनिमग्नाम्‌,यो जनः भक्तः, स्वयमपिरतानन्दनिरतः समासक्तः;अत्यन्तं निमग्नः सन्‌, नक्तम्‌; रात्रौ, त्वां ध्यायेत्‌, स स्मरहरः; शिव एव स्यात्‌॥१८॥
 
-
-
  त्रिपञ्चार इति। हेअम्ब!त्रिपञ्चारे पीठे; पञ्चत्रिकोणात्मकयन्त्रे।तल्लक्षणमाह कालिकश्रुतौ, **“** त्रिकोणं नवकोणं पद्मम्‌”इति। अन्यच्च;
 
 “आदौ त्रिकोणं विन्यस्य त्रिकोणं तद्बहिर्न्यसेत्‌।  
@@ -3262,8 +2848,6 @@ APPENDIX।
 भवतीत्यर्थः॥१९॥
 
  वामदक्षिणमार्गव्यवस्थाक्रमेण बलिदानव्यवस्थामाह—सलोमास्थीति। हेकालि!सकचकुल्यं बैडालं च क्रामेलकं छागं नृलुलाययोराजंवा मांसं तव पूजासमये
-
-
 
 ये साधकाः बलिं समर्पयन्ति, तेषां मृत्युलोकनिवासिनां साधकानां प्रतिक्षणं समस्तसिद्धिनिकरो नवनवःप्रादुर्भवति। अत्र तन्त्रोक्तानि बलिदानप्रतिपादकानि वचनानिक्षत्रियपराणि।ब्राह्मणस्य साक्षात्पशुबलिदानं नास्ति।किं तु—
 
@@ -3290,8 +2874,6 @@ APPENDIX।
 
  गुरुपारंपर्यभेदेन पुरश्चरणपरिपाटींप्रतिपादयति—वशीलक्षमिति। हेमातः! वशी; जितेन्द्रियः; हविष्यान्नरतः दिवा युष्मच्चरणयुगलध्याननिपुणः लक्षं मन्त्रं प्रजपति।परम्‌; अपरम्‌ ,नक्तम्; रात्रौ, नग्नः; दिगम्बरः, निधुवनविनोदेन चरति, स्त्रीसङ्गहर्षेण तत्वेन पाठकालविधायकत्वेन च, सम्यक्‌ अखण्डं मनुं लक्षंलक्षसंख्यं जपेत्‌, सक्षितितले; पृथिव्यां, स्मरहरसमानः; शिवतुल्यः स्यात्‌। किलेति प्रसिद्धौ॥२०॥
 
-
-
  भोगव्यवस्थां रात्रिंदिवभेदेन, द्विविधं पुरश्चरणं च दर्शयति---वशीति। हेमातः! हविष्यान्नभक्षणपरो नियतेन्द्रियो भक्तः, तव पादपङ्कजचिन्तनपरःसन्‌ , दिवसेलक्षसंख्याकं मूलमन्त्रं जपति।च पुनः, रात्रौ नग्नःसन्‌ सुरतक्रीडया लक्षसंख्यापरिमितं मन्त्रं
 द्रुतविलम्बादिदोषराहित्येन यो जपेत्‌, स प्रथिव्यां शिवतुल्यैश्चर्योभवेत्‌। तदुक्तम्‌--“भोगः स्वकीयकान्ताभिर्दक्षिणाचार इत्ययम्‌”इति दक्षिणाचारतन्त्रराजवचनाच्चेति भावः॥२०॥
 
@@ -3304,8 +2886,6 @@ APPENDIX।
  सर्वगुणायाः सकलगुणकथनात्स्वरूपाख्यं स्तोत्रमुपसंहरति—इति महाकालविरचितमिति।
 
 **इति श्रीकर्पूरस्तवराजस्य व्याख्या रहस्यार्थसाधिका समाप्ता**
-
-
 
  सामान्येन देव्या नामकीर्तनादेव बन्धकत्वनिवृत्तिः, किमु साधकतयेति फलश्रुतिमाह— कुरङ्गाक्षीति! प्रेमचपलं सुन्दरीयूथं तं साधकमनुसरति च, कु
 
@@ -3336,8 +2916,6 @@ APPENDIX।
 “यो दाक्षिण्यं विना विप्रो महाकालीं प्रपूजयेत्‌।  
  स पापी स्वर्गलोकात्तु च्युतो भवति रोगधृक्॥
 
-
-
 विप्रो यः पूजको वामः सोऽन्यायी पुण्यवर्जितः।”
 
 इति कालिकापुराणत्‌।
@@ -3353,8 +2931,6 @@ APPENDIX।
 त्वदीयचरणाम्भोजे जगदम्ब समर्पये॥**
 
 **      ![](../books_images/U-IMG-1722169648img_11.png)**
-
-
 
 **APPENDIX॥**
 
@@ -3385,16 +2961,10 @@ APPENDIX।
 | निशार्धं वा पूजां         | स्तुतिः का ते मतः      |
 | परं नक्तं नग्नः           | स्वपुष्पैराकीर्णं      |
 
-
-
-
-
-
 **APPENDIX IV**
 
 **व्याख्यानोदाहृतप्रमाणग्रन्थानामनुक्रमः  
 ![](../books_images/U-IMG-1722258753Screenshot2024-07-08185832.png)**  
-
 
 |                  |                       |
 |------------------|-----------------------|
@@ -3420,8 +2990,6 @@ APPENDIX।
 | कूर्मपुराणम्‌     | देवीमाहात्म्यम्‌       |
 | कैवल्योपनिषत्‌    | देवीसूक्तम्‌           |
 | कौलावलीतन्त्रम्‌  | निरुत्तरतन्त्रम्      |
-
-
 
 |                        |                      |
 |------------------------|----------------------|
@@ -3449,18 +3017,11 @@ APPENDIX।
 | याज्ञवल्क्यसंहिता      | स्कन्दोपनिषत्‌        |
 | यामलम्‌                 | स्तोत्रान्तरम्‌       |
 
-
-
-
-
-
-
 **APPENDIX V**
 
 **व्याख्यानोदाहृतप्रमाणवाक्यानामनुक्रमः**  
 
 ![](../books_images/U-IMG-1722258998Screenshot2024-07-08185832.png)  
-
 
 |                          |                          |
 |:------------------------:|--------------------------|
@@ -3489,38 +3050,16 @@ APPENDIX।
 |    अपञ्चीकृतभूतोत्थं     | आत्माभेदेन संचिन्त्य     |
 |    अभिषेककृतो मन्त्री    | आत्मोपलब्धिविषयं         |
 
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
 
 \]
-
-
-

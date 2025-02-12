@@ -14,25 +14,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI1MzEzOTA4NDM
 
 \[
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
-
-[TABLE]
-
-
-
-
 
 INTRODUCTION
 
@@ -43,8 +29,6 @@ INTRODUCTION
 ————————————————————————————————————————  
 
  1.The Devatâs are interested in the maintenance of creation. And so Pâtanjali says that Ahangkâra and Devatâ are inimical to the Yogî.
-
-
 
 According to some there is no Divya or Vî
 
@@ -64,19 +48,13 @@ Kevalāng pashu-bhâvena mantrâ siddhir bhavennrinâm
 ** 1.** See the Rahasyapajâpaddhati; a work based on the teaching of Pandit Jaganmohana Tarkalankâra. Edited by his son Jnânendranâtha Tantraratna where the subject now dealt with is treated of.  
 ** 2**.That is only those deluded by Shastra take to the Pashubhâva.
 
-
-
  Similarly it is disputed whether a Brâhmana should take wine. The Kâlîkulârnava with scientific precision describes wine as a *mala* of material substance. Alcohol is in fact the product of a disruptive disintegrating process and is for this reason said by those who are against its use to be productive of harm. Kâlîkulârnava "A Brâmana, Kshatriya or Vaishya should not drink wine." The Vârâhî Tantra says that a Brâhmana should not follow the Panchatattva ritual.These and the like passages are sought to be explained by the statement that these and the like prohibitory dicta apply to the case of Anabhishikta Brâhmanas. Thus when Niruttara Tantra says "Brâhmana will drink wine but not the twice-born"; by Brâhmana it is said, is meant not the ordinary Brâhmana (twice-born) but the Abhishikta Brâhmana. The Brâhmana who drinks wine without Abhisheka is, it says, a great sinner. The passage in Shrîkrama namely vâmakâmo brâhmano hi madyam mângsam na bhakshayet' is interpreted as meaning that the Vâmî Brâhma*n*a should not take wine or flesh for sense-gratification only which is the teaching of the Kaula Tantra or that the Anabhishikta should not do so which is also common doctrine.  
  Again when Mahâdeva in the Utpatti Tantra says "In the Kaliyuga every house men will lose their strength by drinking wine" this is said to refer to persons devoid of Achâra and to mere useless drinking (Vrithâpâna). The Mahishamardinî Tantra says "A Vîra is a Siddhamantrin, Drinking of wine does not make a Vîra" (Siddhamantrî bhaved vîro na vîro madyapânatah). This is admitted. But it is denied that wine is thereby excluded, for the passage goes on to say a Vîra is one who is Abhishikta. When the Nigamatantrasâra says "In Gaura and other countries Siddhi can be obtained through Pashubhâva," the statement is said not to be applicable to the Kaliyuga. How, it is asked, can the man lead the life of a Shâstric Pashu in this age. Thus a good Pashu should not live under the rule of a Mlechchha. Therefore it is said that Pashus cannot now get Siddhi in their Bhâva and should follow that of the Vîra. Therefore Târâ-rahasya says "There is no Pashu in Kali (Na pashushcha kalau kvachit). Again a passage has been cited from the Mundamâlâ Tantra to prove that the Panchatattvas are not proper for house-holders: as also the Vâmakeshvara Tantra which recommending Bhâng is said to prohibit Sâdhanâ with wine and Maithuna with woman in the Kali Yuga. This is denied; the reference to Bhâng being taken to indicate the necessity of its use before the Panchatattva. As regards house-holders it is sufficient that they are Abhishikta in which case they belong to Vîrabhâva.
-
-
 
  Again the question is raised whether the worship with substitutes is effectual such as cocoanut water.  
  Tantrasâra says that where it is necessary to offer wine a Brâhmana should offer molasses or honey in a copper vessel. Yoginî Tantra says ginger with molasses. Ordinarily the Divya Sâdhaka follows the inner (Ābhyantarîna) Panchatattva by Dhyâna; the Vîra the primary (Mukhya) Panchatattva in their literal sense; and the substitutes are for Pashubhava. But Kâlikâ Tantra denies the use of substitutes in this age saying that milk, butter and honey were in use in the three first ages but in the present age men should worship with wine. This would follow from the view that there is no Pashubhâva. This however is the point in issue and the opponents would deny that the Kali age is productive of the true Vîra.  
  The author of the Rahasyapûjâpaddhati says of the doctrine in the Jnâna Tantra that he "will drive it out of Bhâratavarsha send it to a different Dvîpa and finally place it in a different Kalpa. "Mahishamardinî Tantra, he says, in the first place states "in Kaliyuga in Bhâratavarsha worship with Panchatattva is the best." This, it is said, shows that the doctrine in Jnâna Tantra and the prohibitory dicta in Târâpradîpa and Meru Tantra do not apply to Bhâratavarsha or the Kaliyuga. Kamâkhyâ Tantra next says "In this Jambudvîpa in the Kali age a Brahmana will never be a Pashu." He then pursues his argument at some length and with much vigour.  
  I need not follow him as I intend here very shortly to indicate contending views on the question of the Panchatattva rites. I refer of course only to the Vâmâchâra followers of the Shâkta Tantras. Adherents of other Schools will have none of them. Thus Lakshmîdhara Commentor of the Ânandalaharî and follower of the Samayâchâra School which recognises only the so-called Shubhâgamas says that the mind is soiled by even the remembrance of such men: and that the Panchatattva rites in their literal form are followed only by Shûdras of an inferior kind. It is sufficient to state these various views in order that the importance of the Tantra here published may be understood. For it is not otherwise of interest or value. It represents in short the adherents of the Pashubhâva and its Âchâra at least in the view of those who rely on its present authority. Its prohibition however against the use of wine, meat and so forth is to be generally recommended; since abstention spells absence of abuse and acquirement of merit
-
-
 
 whether the Tantra be of "another Kalpa" or not. The "delusion" which it is likely to produce in this respect need not be harmful. Indeed it might with advantage and consistency have gone in several matters further seeing that it purports to recommend the Pashubhâva.
 
@@ -85,8 +63,6 @@ whether the Tantra be of "another Kalpa" or not. The "delusion" which it is like
  In the first Patala the Devî asks what Tantra is suited to all Jambudvipa in this age; or according to one Ms in the Kali age." The Devî's question is answered by Sadyojâta one of the five aspects of Shiva, Who commences by saying that the Tantra is so called because it saves from the Sangsâra. Shûdras are then forbidden to use the Pranava or Svâhâ. They may use Namah or Hrîng and the like. Shûdras are declared disqualified from performing Homa, worshipping the Shâligrâma Shilâ and intercourse with a Brâhmanî. The reason which Shiva gives is that otherwise all castes will become twice born. The second Patala in which the speaker is Shiva in Aghora aspect gives a description of the Mantras which Shûdras may use.Shûdras in doing Japa should substitute Kûrcha and Mâyâ Vîjas for Sváhá (V. 20). V. 24 however says that in the Satyayuga a Mantra with Pranava and Svâhâ was appropriate for a Shûdra. In the third chapter the speaker is the Tatpurusha Shiva. He that a Shûdra worshipping the Vidyâ approved in the Kâlîvilâsa Tantra attains the state of a Vaishya.He is not however Adhikârî for the Pranava. He may use the fourteenth vowel (au) in place of the Pranava. The Shûdra who accidentally hear a Mantra from the mouth of his Guru which contains Svâhâ and Pranava is reborn a pig though the Guru himself incurs no sin. The speaker in the latter part of this chapter is Shrîdeva Who gives His direction as to what should be done in the event of the Guru dying after communication of the the Mantra but before completing his instructions. The fourth Chapter in which the speaker is Îshana Shiva says that the four castes including Shûdras and those below them should follow Pashvâcharâ in the Kaliyuga. Divyabhâva and Vîrabhâva are not for the Kaliyuga nor is Purashcharana for man is a slave to hunger, and sleep and for this rite fasting and long devotions are necessary. Meat and wine should not be taken.
 
  A man should mentally recite his Mantra whether he be (bodily) pure or not, whether walking or at rest wherever hemay be. The Mantra for worshipping Shiva is in the case of the twice-born "Om Shivâya namah" and for the Shûdra
-
-
 
 "Shivâya namah." The Shiva Mantra should first be learnt from the Guru. Then on learning from him the Shakti Mantra man becomes Shiva-Shakti-maya. Without the grace of the Guru nothing can a attained. Without worshipping him no otherworship should be doneâ, for he is Brahm, Vishnu and all other Devatâs. The abovementioned statement as to the Bhâvas is repeated in the next Chapter in which Shiva as Umesha affirms that Siddhi is to be attained by Pashubhâva. In this Chapter a hundred names of Kâlî are given. The Stotra of a 1000 names is not for the Kaliyuga. By recitation a 100000 times of the hundréd names of Kâlî
 
@@ -100,16 +76,11 @@ shtamantra should be practised in Vaishnava Ā
 
 châra. This Chapter states that Sambida may be consumed in the Kali age. This is of four kinds according as its flowers are white, red, yellow and black. The first is for Brâhmanas. The second for Kshattriyas and so on. Even this should be taken sparingly. Worship on Shivalinga
 
-
-
 is prescribed for Shûdra. This Chapter says that the divulging of secret worship destroys Siddhi. What was the necessity of referring to the subject seeing that Pashubhâva is enjoined is not clear. The Chapter quotes the well known saying “Inwardly Shâkta etc.
 
  Chapters VIII and IX deal with Prânâyâma and Sangketa (that is Devatâ) respectively. There is no Homa in the Kali age. Shivapûjâ grant fruit. Shiva, Durgâ and Krishna are all one and the same.
 
  Chapter X gives a hundred names of Bhubaneshvarî which should be repeated placing one's Shaktî if initiated on the left The Sâdhaka has his mouth full of Pân. It repeats the prohibition that wine should not be drunk in the Kaliyuga. This Chapter and the next refer to Maithuna. Wine and Maithuna with Parastrî are not to be taken and done. For Siddhi is prevented thereby. Chapters X and XIhowever seem to allow of connectionwith aninitiatedParastri subject to the condition that there is no Vindupâta. The prohibition against drinking in the Kaliyuga is repeated. Chapter XI also gives a hundred names of Mahâtripurâsundarî and the next two Chapters the hundred names of Târâ and Bhairavî respectively. Chapter XIV which is very short treats of the mode of worship in the Kaliyuga. Meditation should be done on Kulakundalinî. Patala XV deals with Vashikarana and it is curious to note therein a Mantra in a language which is a mixture of Assamese and Eastern Bengali as spoken about Chittagong. Chapters XVI and XVII give a hundred names of Bagalâ and Mâtanggî respectively. Chapters XVIII-XXII treat of the Dhyâna, Pûjâ and so forth of Kârtikeya,Jayâ, Vijayâ, Ganesha, Mahishasura, Lakshmî, Sarasvatî and Durgâ. Chapter XIX deals with the worship of the Buffalo : Chapter XX with that of Sarasvatî and Durgâ. Chapter XXI speaks of the Kalikâ Purâna as describing the worship of Mahishamardini and then treats of the Mantra of Mahishamardinî; Her weapons and the like, how they are held and what they signify. VV. 26-29 give a Dhyâna of Mahishamardinî. Her vehicles (Vâhana) are Shiva Who is the Mahâdeva Preta, Vishnu the lion, and Brahmâ the red lotus. When there is accession of desire (Kâmakâle) She is shown as being on the Shiva-corpse (Shiva preta). Chapter XXII speaks of Her attendants. In this Chapter there are some Mantras given in a reversed form. Thus for Om Durge Durge the Mantras is given as Rgedu rgedu Om. Chapters XXIII and XXIV which deal with the birth of Krishna from Kâlî state that Krishna was  
-
-
-
 
 born as the son of Devî who was Gaurî (fair complexioned) and turned black when excited by passion. VV 19-27 give a Dhyâna of Kâlikâ. In Chapter XXIV Devî tells Krishna that by drinking the nectar from Her breasts He though Nirguna has become Saguna. She says "Oh Son I am Vindurûpâ and then Sagunâ. I am Â
 
@@ -119,16 +90,10 @@ shvara and Sadâshiva are five kinds of Light and Krishna is the Lord above them
 
  In the preparation of this Text three manuscript have been—consulted one belonging to the Asiatic Society of Bengal; the second to the Calcutta Sanskrit College, and the third to the collection of the Hon'ble Mahârâja Sir Prodyat Kumar Tagore to all of whom my thanks are due.
 
-
-
 SRINAGAR.  
 1st November 1916.
 
-
-
 ARTHUR AVALON.
-
-
 
 सूचीपत्रम् \।
 
@@ -157,8 +122,6 @@ ARTHUR AVALON.
 |                                दीक्षाकाल निर्णयः                                 |
 |                   भावत्रय कथनं तस्य च सत्य त्रेतादि काल निर्णयः                   |
 |                           सनकदिर्भाव बिशेष सिद्धि कथनं                            |
-
-
 
 |                                     |
 |-------------------------------------|
@@ -193,14 +156,7 @@ ARTHUR AVALON.
 | बिजयापूजा विधिः                    |
 | मयूर ध्यानं                         |
 
-
-
-
-
-
 [TABLE]
-
-
 
 |                                                    |
 |----------------------------------------------------|
@@ -232,8 +188,6 @@ ARTHUR AVALON.
 | श्रीकृष्णस्य गोलोकप्राप्ति कथनं                    |
 | श्रीनन्दादेः पञ्चविधत्वकथनं                        |
 | श्रीनन्द श्रीराधादेः पञ्चविधताया रहस्य कथनं        |
-
-
 
 अथ
 
@@ -281,8 +235,6 @@ ARTHUR AVALON.
 प्रणवोच्चारणात् शूद्रः स्वाहेत्युच्चारणेन च[^6]।
 
 [^6]: "“हेत्युच्चरेण च” इत्यत्र “होच्चारेण पार्वति” इति पाठान्तरम्।"
-
-
 
 एकवर्णा भविष्यन्ति सर्वे वर्णा द्विजातयः**॥७॥**
 
@@ -333,8 +285,6 @@ ARTHUR AVALON.
 सप्तकोटिर्महाविद्या उपविद्यास्तथैव च।  
 श्रीकृष्णस्य कोटिमन्त्रे कोटिमन्त्रे शिवस्य च**॥१७॥**
 
-
-
 शूद्राणामधिकारोऽस्ति स्वाहाप्रणववर्जिते।  
 द्वौ द्वावित्यक्षरीं विद्यां शृणु शूद्रस्य सम्मताम्**॥१८॥**
 
@@ -351,10 +301,6 @@ ARTHUR AVALON.
 श्रीकालीविलासतन्त्रे[^13] प्रथमः पटलः समाप्तः।
 
 [^13]: "ऊर्ध्वाम्नायतन्त्रे इत्यधिकः पाठः क्वचित् पुस्तके अस्ति।"
-
-
-
-
 
 **अथ द्वितीयः पटलः।**
 
@@ -394,8 +340,6 @@ ARTHUR AVALON.
 
 कामैकंकालिके चेति कामं लज्जा ततः परम्।  
 कालिके च तथा मायां कालिके पुनरुद्धरेत्**॥११॥**
-
-
 
 मायां कूर्चं कालिके च क्रोधान्तञ्च समुद्धरेत्।  
 ऊनविंशाक्षरी विद्या चतुर्वर्गफलप्रदा**॥१२॥**
@@ -439,10 +383,6 @@ ARTHUR AVALON.
 मतान्तरमिदं प्रोक्तं षोड़शात् ब्रह्मदुर्लभा।  
 प्रशस्ता शूद्रवर्णेषु स्वाहा प्रणववर्जिता**॥२३॥**
 
-
-
-
-
 सत्यादिकचतुर्युगे प्रशस्ता शूद्रजातिषु।  
 परात्परतरा विद्या स्वाहाप्रणवसंयुता**॥२४॥**
 
@@ -455,8 +395,6 @@ ARTHUR AVALON.
 [^18]: "ऊर्जाम्रायतन्त्रे इत्यधिकः पाठः क्वचित् पुस्तकेदृश्यते।"
 
 *           *
-
-
 
 **अथ तृतीयः पटलः।**
 
@@ -505,8 +443,6 @@ ARTHUR AVALON.
 
 श्रुत्वा चान्यगुरोर्व्वक्रात् तान्त्रिकस्य सुरार्चिते।
 
-
-
 पूर्व्वविद्यां यथा श्रुत्वा ज्ञात्वा सिद्धीश्वरो भवेत्**॥९॥**
 
 यदि न क्रियते चैवंगुरौ भक्तिर्वरानने।  
@@ -531,8 +467,6 @@ ARTHUR AVALON.
 [^24]: "ऊर्ध्वाम्नायतन्त्रे इत्यधिकः पाठः क्वचित् पुस्तकेदृश्यते।"
 
 *           *
-
-
 
 **अथ चतुर्थः पटलः।**
 
@@ -578,8 +512,6 @@ ARTHUR AVALON.
 इत्यादिरूपं चार्व्वङ्गि न्यासं कुर्य्यात् समाहितः**॥११ ॥**
 
 [^27]: " ओ৺ यु৺ ओ৺ इत्यत्र—ओ৺ आ৺ ओ৺ इति पाठः क्वचित् पुस्तके।"
-
-
 
 शिवमन्त्रंप्रथमतः शक्तिमन्त्रं ततः परम्।  
 श्रुत्वा गुरुमुखाद्भद्रेशिवशक्तिमयो भवेत्**॥१२॥**
@@ -627,8 +559,6 @@ ARTHUR AVALON.
 [^32]: "“ऊर्ध्वाम्नाय तत्न्त्रे” इत्यधिकः क्वचित् पुस्तके पाठः।"
 
 *          *
-
-
 
 **अथ पञ्चमः पटलः।**
 
@@ -679,8 +609,6 @@ ARTHUR AVALON.
 श्मशानवासिनी सौम्या शिवानी शिववल्लभा।  
 शिवपूज्या शिवाराध्या ब्रह्मपूज्या च वामनी**॥९॥**
 
-
-
 त्रिपुरेशी जगद्धात्री भुवना भुवनेश्वरी ।  
 माहेशो महिषारूढ़ा गौरी सर्व्वाङ्गसुन्दरी**॥१०॥**
 
@@ -724,8 +652,6 @@ ARTHUR AVALON.
 [^39]: "ऊर्द्धाम्नाये इत्यधिकः पाठः क्वचित् पुस्तके"
 
 ॐ तत्सदित्यादि।
-
-
 
 **पञ्चमः पटलः।**
 
@@ -846,8 +772,6 @@ ARTHUR AVALON.
 
 कुल्ला मुखमण्डलम्**॥३०॥**
 
-
-
 कुरुकुल्ला पातु ह्री৺ ह्री৺
 
 स्वाधिष्ठानञ्च षड्दलम्।  
@@ -888,15 +812,21 @@ ARTHUR AVALON.
 
 [^44]: "ऊर्द्धाम्नाये इत्यधिकः क्वचित् पाठः ।"
 
+[^44]: "ऊर्द्धाम्नाये इत्यधिकः क्वचित् पाठः ।"
+
+[^44]: "ऊर्द्धाम्नाये इत्यधिकः क्वचित् पाठः ।"
+
 ॐ तत्सदित्यादि।
 
 इति श्रीकालीविलास[^44]–तन्त्रे देवीदेव संवादे पञ्चमः पटलः समाप्तः।
 
 [^44]: "ऊर्द्धाम्नाये इत्यधिकः क्वचित् पाठः ।"
 
+[^44]: "ऊर्द्धाम्नाये इत्यधिकः क्वचित् पाठः ।"
+
+[^44]: "ऊर्द्धाम्नाये इत्यधिकः क्वचित् पाठः ।"
+
 *             *
-
-
 
 **अथ षष्ठः पटलः।**
 
@@ -944,8 +874,6 @@ ARTHUR AVALON.
 पशुभावः सदा देवि शुद्धश्च शुचिवत् सदा।  
 सत्यत्त्रेतादिपर्य्यन्तं दिव्यभावविनिर्णयः**॥१०॥**
 
-
-
 स भावः परमेशान मकारादेश्चसर्वतः[^50]  
 त्रेताद्वापरपर्य्यन्तं वीरभाव इतीरितः**॥११॥**
 
@@ -990,8 +918,6 @@ ARTHUR AVALON.
 अधुना सम्प्रवक्ष्यामि दिव्यवीरमतं शृणु।  
 मत्स्यंमांसं तथा मुद्रां परस्त्रीषु च मैथुनम्**॥२४॥**
 
-
-
 मद्यं न रचयेद्भद्रे कलिकाले वरानने।  
 पीत्वा पीत्वा पुनः पीत्वा पतित्वा च महीतले।  
 उत्थाय च पुनः पीत्वा वचनं सत्यसम्मतम्**॥२५॥**
@@ -999,8 +925,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलासतन्त्रे षष्ठः पटलः समाप्तः।
 
 *              *
-
-
 
 **अथ सप्तमः पटलः।**
 
@@ -1047,8 +971,6 @@ ARTHUR AVALON.
 पूजने शिवलिङ्गेषु शूद्राणां सम्मतंकलौ।  
 गुप्तागुप्ततरापूजा प्रकटा सिद्धिनाशिनी**॥११॥**
 
-
-
 अन्तःशाक्ता बहिःशैवाः सभायां वैष्णवा मताः।  
 नानारूपधराः कौला विचरन्ति महीतले**॥१२॥**
 
@@ -1068,8 +990,6 @@ ARTHUR AVALON.
 कृत्वा श्रीमातृकाजालंप्राणायामफलं लभेत्**॥१७॥**
 
 इति श्रीकालीविलासतन्त्रेसप्तमः पटलः समाप्तः।
-
-
 
 अथाष्टमः पटलः।
 
@@ -1096,8 +1016,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलासतन्त्रेऽष्टमः पटलः समाप्तः।
 
 ———————
-
-
 
 अथ नवमः पटलः।
 
@@ -1137,8 +1055,6 @@ ARTHUR AVALON.
 
 इति श्रीकालीविलासतन्त्रे नवमः पटलः समाप्तः।
 
-
-
 **अथ दशमः पटलः।**
 
 **श्रीदेव्युवाच।**
@@ -1176,8 +1092,6 @@ ARTHUR AVALON.
 शिववादा[^58] च श्यामा च श्यामाङ्गी श्याममूर्त्तिका**॥८॥**
 
 [^58]: "“शिववादा” इत्यत्र “शववादा” इति क्वचित् पुस्तके पाठः, तस्यार्थस्तु शवेन सह वादः कथोपकथनं यस्याः, अथवा शवः शिवरूपः शवः इति तात्पर्यम्।"
-
-
 
 शोभा च सुभगा चैव शोभना भुवनेश्वरी।  
 रक्ताङ्गी रक्तनयना रक्ताक्षी रक्तलोचना**॥९॥**
@@ -1223,8 +1137,6 @@ ARTHUR AVALON.
 दीक्षिता-परनारीषु यदि मैथुनमाचरेत्।  
 न विन्दोः पातनं कार्य्यं कृते च ब्रह्महा भवेत्**॥२०॥**
 
-
-
 यदि न प्रपतेद्विन्दुः परनारीषु पार्व्वति।  
 सर्व्वसिद्धीश्वरो भूत्वा विहरेत् क्षितिमण्डले**॥२१॥**
 
@@ -1249,8 +1161,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलासतन्त्रेदेवदेवीसंवादे दशमः पटलः समाप्तः।
 
 —————
-
-
 
 अथ एकादशः पटलः।
 
@@ -1292,8 +1202,6 @@ ARTHUR AVALON.
 
 [^64]: "“रसानघपरिच्छदा” इत्यत्र “रसालयपरिच्छदा” इति पाठः क्वचित् पुस्तके।"
 
-
-
 सौभाग्या सुवशासाध्वी सत्यासत्यस्वरूपिणी।  
 त्रिगुणात्रिगुणाराध्या त्रिवेदी त्रिगुणेश्वरी**॥११॥**
 
@@ -1331,8 +1239,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलास-तन्त्रे एकादशपटलः समाप्तः।
 
 ————
-
-
 
 **अथ द्वादशपटलः।**
 
@@ -1375,8 +1281,6 @@ ARTHUR AVALON.
 सुन्दरी भैरवी भव्या मातङ्गी वगलामुखी।  
 कैलासवासिनीनित्या कालरात्रिः करालिका**॥१२॥**
 
-
-
 काशीप्रयागरूपा च कौमारी कौषिकीतथा।  
 क्रोधरूपा च अक्रोधा खेला हेला हलाहला**॥१३॥**
 
@@ -1396,8 +1300,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलास-तन्त्रे द्वादशपटलः समाप्तः।
 
 ———————
-
-
 
 अथ त्रयोदशपटलः।
 
@@ -1441,8 +1343,6 @@ ARTHUR AVALON.
 वेदान्तरूपिणी विद्या तथा वैकुण्ठरूपिणी।  
 ब्रह्मण्डरूपिणीरक्षा रूपिणीब्रह्मरूपिणी**॥१२॥**
 
-
-
 वसुदा सुमहावाला वेदरूपा विनोदिनी।  
 कालिका च धराधात्री रौद्री च विश्वरूपिणी॥१३॥
 
@@ -1468,8 +1368,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलास-तन्त्रे त्रयोदशपटलः समाप्तः।
 
 ————————
-
-
 
 अथ चतुर्द्दशपटलः।
 
@@ -1512,8 +1410,6 @@ ARTHUR AVALON.
 जपकाले मनोः स्थानं कथं वास्या वरानने।  
 कोटिविद्युल्लताकार विन्दुमध्ये च भावना**॥११॥**
 
-
-
 विहाय सप्तभगिनीःसक्षमःप्रजपेद् यदि।  
 तदैव जायते सिद्धिर्गुरौ भक्तिर्भवेद् यदि**॥१२॥**
 
@@ -1526,8 +1422,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलास-तन्त्रे चतुर्द्दशपटलः समाप्तः।
 
 ——————
-
-
 
 **अथ पञ्चदशपटलः।**
 
@@ -1572,8 +1466,6 @@ ARTHUR AVALON.
 तन्त्रोक्तं प्रणवं स्वाहा प्रशस्तं शूद्रजातिषु।  
 अथवा प्रणवस्थाने दीर्घप्रणवमीरितम्**॥१०॥**
 
-
-
 वह्निजायास्थले माया प्रशस्ता न च दूषिता।  
 इति ते कथितं भद्रे मोहनञ्च वशीकरम्**॥११॥**
 
@@ -1595,8 +1487,6 @@ ARTHUR AVALON.
 
 इति श्रीकालीविलासतन्त्रे पञ्चदशपटलः समाप्तः।  
 —————
-
-
 
 अथ षोड़शपटलः।
 
@@ -1639,8 +1529,6 @@ ARTHUR AVALON.
 गन्धिनी गन्धरूपा च गयागङ्गाप्रभा तथा।  
 गोवर्द्धनी च गोविन्द-पूजिता च गदाधरी**॥१०॥**
 
-
-
 गहना गुह्यरूपा च गोरूपा गोकुलेश्वरी।  
 गोलोकवासिनी चैव नित्या गोलोकरूपिणी**॥११॥**
 
@@ -1671,8 +1559,6 @@ ARTHUR AVALON.
 
 इति श्रीकालीविलास-तन्त्रे षोड़शपटलः समाप्तः।  
 —————
-
-
 
 अथ सप्तदशपटलः।
 
@@ -1718,8 +1604,6 @@ ARTHUR AVALON.
 तपस्या तापसी तापा तपना तुलना इति।  
 गोलोकवासिनी गम्या गुणज्ञा गुणरूपिणी**॥१२॥**
 
-
-
 गौरी च गोपिनी गौरा गानागानस्वरूपिणी।  
 गिरीशा गिरिशा गन्धा गगणा गगणेश्वरी**॥१३॥**
 
@@ -1734,8 +1618,6 @@ ARTHUR AVALON.
 
 **इति श्रीकालीविलास-तन्त्रे सप्तदशपटलः समाप्तः।  
 ————**
-
-
 
 अथाष्टादशपटलः।
 
@@ -1780,8 +1662,6 @@ ARTHUR AVALON.
 
 कटाक्षविशिखो पेतां दिव्याम्बरपरिच्छदाम्।  
 दिव्याभरणसंयुक्तां ध्यायेत्तां सिद्धिदायिनीम्**॥१२॥**
-
-
 
 ध्यात्वा पाद्यादिकं दत्त्वा संपूज्यप्रजपेन्मनुं।  
 तन्मन्त्रं शृणु चार्व्वङ्गि-जपात् सिद्धीश्वरो यतः**॥१३॥**
@@ -1832,8 +1712,6 @@ ARTHUR AVALON.
 
 माया मं मयूरायेति पुनर्माया सुलोचने**॥२२॥**
 
-
-
 सप्ताक्षरं महामन्त्रं हृदये प्रजपेद् यदि।  
 प्राणसिद्धिस्तदा देवि मयूरस्य भवेद् ध्रुवम्**॥२३॥**
 
@@ -1881,8 +1759,6 @@ ARTHUR AVALON.
 
 ——————
 
-
-
 अथोनविंशपटलः।
 
 अधुना संप्रवक्ष्यामि महिषस्य च पूजनम्।  
@@ -1925,8 +1801,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलासतन्त्रे ऊनविंशतिपटलः समाप्तः।
 
 —————
-
-
 
 अथ विंशतिपटलः।
 
@@ -1978,8 +1852,6 @@ ARTHUR AVALON.
 **२.** द्विभुजाब्जदलेक्षणां इत्यत्र द्विभुजां पद्मदलेक्षणां इति छन्दोहीनः पाठः क्वचित् पुस्तके।  
 द्विभुजा चासौ अब्जदलेक्षणा चेति कर्म्मधारयः, तादृशीमित्यर्थः।
 
-
-
 अङ्गुष्ठं हृदये दत्त्वा ह्येकधा प्रजपेद् यदि।  
 प्राणन्यासस्तदा देवि जायते नात्रसंशयः**॥१०॥**
 
@@ -2030,8 +1902,6 @@ ARTHUR AVALON.
 १. “सप्ताक्षरमिदं मन्त्रं शृणु ध्यानं वदामिते” इत्यत्र “ततः सप्ताक्षरमिदं शृणु देविवदाम्यहं” इति पाठान्तरम्।  
 
 ———————————————————————————————————
-
-
 
 पञ्चदेवं प्रपूज्यादौ पश्चान्महिषमर्द्दिनीं।  
 ततस्तु कार्त्तिकादीनां पूजाञ्च यत्नतश्चरेत्
@@ -2101,8 +1971,6 @@ ARTHUR AVALON.
 
 ————————————————————————————————————
 
-
-
 तीक्ष्णवाणं तथा शक्तिं हस्तसंज्ञे च दक्षिणे।  
 सारात्सारतरा पूजा सर्व्वपूजाफलप्रदा
 
@@ -2121,8 +1989,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलास-तन्त्रे विंशतिपटलः समाप्तः।
 
 —————
-
-
 
 **अथ एकविंशतिपटलः।**
 
@@ -2191,8 +2057,6 @@ ARTHUR AVALON.
 
 अधुना शृणु देवेशि सावधानावधारय।
 
-
-
 शब्दस्य पाततो घण्टा गन्धाद्यैः परिपूजिता**॥१२॥**
 
 तदधः संस्थितं नित्यं अङ्कुशं उन्मनीमयम्।  
@@ -2240,8 +2104,6 @@ ARTHUR AVALON.
 वामवाहोरूर्द्धभागे शक्तिं परमशोभनाम्।  
 तदधस्तीक्ष्णवाणञ्च तदधश्चक्रमेव च**॥२५॥**
 
-
-
 सुचारुदशनां नित्यां पीनोन्नतपयोधराम्।  
 त्रिभङ्गस्थानसस्थानां महिषासुर मर्द्दिनीम्**॥२६॥**
 
@@ -2273,8 +2135,6 @@ ARTHUR AVALON.
 
 इति श्रीकालीविलास-तन्त्रेएकविंशतिपटलः समाप्तः।  
 \_\_\_\_\_\_\_\_\_\_
-
-
 
 अथ द्वाविंशपटलः।
 
@@ -2319,8 +2179,6 @@ ARTHUR AVALON.
 चतुर्द्दशाक्षरीविद्या सर्व्वदोषविवर्ज्जिता।  
 
 ह्रीँदुर्गे त्र्यक्षरंमन्त्रं चतुर्ब्बर्गप्रदायकम्**॥११॥**
-
-
 
 दुर्गापञ्चाक्षरंमन्त्रं ब्रह्मोपेन्द्रादिपूजितम्।  
 त्वंदुर्गेरक्षणिपदं जपात् सिद्धिप्रदायकम्**॥१२॥**
@@ -2369,8 +2227,6 @@ ARTHUR AVALON.
 यत्रयत्रविनिर्द्दिष्टं तत्रैवं परिकल्पति।  
 मतान्तरं विपरीतं शृणुत्वंप्राणवल्लभे**॥२३॥**
 
-
-
 चपलाबुद्धिसंयुक्ता बुद्धिसिद्धिस्तथैव च।  
 अणिमाशशिमा प्रोक्ता चन्द्रविन्दु समन्विता**॥२४॥**
 
@@ -2416,8 +2272,6 @@ ARTHUR AVALON.
 दक्षरेखा विष्णुरूपा शरच्चन्द्र शतप्रभा।  
 अधोरेखा रुद्ररूपा दलिताञ्जन सन्निभा**॥३५॥**
 
-
-
 श्रीईश्वर सदाशिवौमात्रायां संस्थितावुभौ।  
 व्यापकात् श्रीशिवज्योतिः प्रकृत्यन्तर्गतं सदा**॥३६॥**
 
@@ -2433,8 +2287,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलास-तन्त्र द्वाविंशतिपटलः समाप्तः।  
 
 \_\_\_\_\_\_\_\_\_\_
-
-
 
 **अथ त्रयोविंशतिपटलः।**
 
@@ -2477,8 +2329,6 @@ ARTHUR AVALON.
 
 सर्व्वं विपर्प्ययं देवि सहसाभूत् सुरेश्वरि।  
 सदाशिवस्य संस्पर्शाद्दलिताञ्जन चिक्कणम्**॥१०॥**
-
-
 
 अमृतं परमेशानि सहसाभूत् परात्परम्।  
 योमृताज्जायते कृष्णोदलिताञ्जन चिक्कणम्**॥११॥**
@@ -2525,8 +2375,6 @@ ARTHUR AVALON.
 घण्टाम्बापरशुंवापि दक्षहस्तेच भूषिताम्।  
 उग्रां भयानकींभीमां भेरुण्डां भीमनादिनीम्**॥२४॥**
 
-
-
 कालिका जटिलाञ्चैव भैरवीं पुत्र वेष्टिताम्।  
 आभिःशक्तिभिरष्टाभिः सहितां कालिकां परां**॥२५॥**
 
@@ -2547,8 +2395,6 @@ ARTHUR AVALON.
 
 इति श्रीकालीविलासतन्त्रे त्रयोविंशतिपटलः समाप्तः।  
 ————
-
-
 
 अथ चतुर्व्विंशतिपटलः।
 
@@ -2595,8 +2441,6 @@ ARTHUR AVALON.
 त्वमेवचेश्वर ज्योतिर्गुणातीतः शिवः सदा।  
 सगुणाहं सदा पुत्र निर्गुणापि कदाचन**॥११॥**
 
-
-
 अमृतं गुणमित्याहुः शरीरे तन्ममस्थितम्।  
 अमृताज्जननं पुत्र तव निर्णय इरितः**॥१२॥**
 
@@ -2614,8 +2458,10 @@ ARTHUR AVALON.
 अद्यप्रभृति हे पुत्र पुण्डरीकदलेक्षण।  
 निर्गुणस्त्वं हि सगुणः कार्य्यकारणतत्परः**॥१६॥**
 
-कल्पान्तरे तु पुत्र त्वं राधावल्लभतां [भज](http://॑# "“भज” इत्यर्थ “व्रज” इति पाठान्तरम्")।  
+कल्पान्तरे तु पुत्र त्वं राधावल्लभतां भज[^108]।  
 तवाङ्गंपुण्डरीकाक्ष सुधापुञ्जमयं विभुम्**॥१७॥**
+
+[^108]: "“भज” इत्यर्थ “व्रज” इति पाठान्तरम्"
 
 विन्दुरूपाह्यहंपुत्र ततः सगुणविग्रहा।  
 अनन्तशक्तिराद्याहंसर्व्वदेवाधिदेवता[^92]**॥१८॥**
@@ -2643,8 +2489,6 @@ ARTHUR AVALON.
 
 रे पुत्र वालकस्त्वं हि तनुत्यागः कथं तव।  
 सुधापानाच्च हे पुत्र—तव देहं सुदुर्जयम्**॥२२॥**
-
-
 
 अधुना शृणुवक्ष्यामि कन्दर्पवाणनिर्णयम्।  
 काममन्मथकन्दर्पमकरध्वजसंज्ञकाः**॥२३॥**
@@ -2699,8 +2543,6 @@ ARTHUR AVALON.
 
 **इति श्रीकालीविलासतन्त्रे चतुर्विंशतितमः पटलः समाप्तः।**
 
-
-
 **अथ पञ्चविंशतिपटलः।**
 
 मध्याह्कस्य महाभाग ध्यानं हि निगदामि ते।  
@@ -2746,8 +2588,6 @@ ARTHUR AVALON.
 ————————————————————————————————————  
 २ तदनन्तरं चन्द्रविम्बात्मिका नित्यामन्मथाख्यमितीरितं इति श्लोकार्द्धं क्वचिदेव पुस्तके दृश्यते
 
-
-
 चन्द्रविन्द्वात्मिकानित्या कन्दर्पाख्यमितीरितम्‌।  
 ध्यानञ्चास्याः प्रवक्ष्यामि शृणुपुत्रसुलोचन**॥१३॥**
 
@@ -2792,8 +2632,6 @@ ARTHUR AVALON.
 कटाक्षविशिखोपेतां सिन्दूरतिलकोज्ज्वलाम्।  
 अभयं वरदं वामे दक्षिणोर्द्धे च पट्टिशम्**॥२६॥**
 
-
-
 खड्गञ्च तदधस्तस्याः सर्व्वास्त्र—सारसंग्रहम्‌।  
 यज्ज्ञात्वा साधको याति अव्ययं विन्दुमण्डलम्‌**॥२७॥**
 
@@ -2806,8 +2644,6 @@ ARTHUR AVALON.
 इति ते कथितःपुत्र सर्व्ववीजस्य निर्णयः**॥२९॥**
 
 इति श्रीकालीविलासतन्ते पञ्चविंशतितमःपटलःसमाप्तः।
-
-
 
 **अथ षड़विंशतिपटलः।**
 
@@ -2853,8 +2689,6 @@ ARTHUR AVALON.
 
 १ बुद्ध्यपरिसमासीना णिमाशशिमुखीगुणा इत्यत्र बुद्धेरुपरि हे पुत्रा णिमाशशिमुखी तथा इति पाठान्तरम्‌ ।
 
-
-
 चन्द्रविन्द्वात्मिकानित्या मायादेवीत्वितीरिता[^99]।  
 मतान्तरं प्रवक्ष्यामि द्विविधं शृणुसुन्दर**॥१२॥**
 
@@ -2898,8 +2732,6 @@ ARTHUR AVALON.
 
 रौद्रीषु संस्थितौरौद्रौ गुणत्रयविनिर्णयः।  
 रमा जेष्ठा सन्धि सूक्ष्मे निर्गुणस्य तव स्थितिः**॥२५॥**
-
-
 
 रे पुत्रकेश्वर – ज्योतिस्त्वमेव नान्यथा क्वचित्।  
 रौद्री ज्येष्ठा बुद्धिसूर्या निर्गुणासा शिवस्थितिः**॥२६॥**
@@ -2946,8 +2778,6 @@ ARTHUR AVALON.
 ध्यानमात्रेण हे पुत्र सर्व्वसिद्धीश्वरो भवेत्।  
 सर्व्वसिद्धीश्वरो भूत्वा चैकधा बीजमुच्चरेत्**॥४०॥**
 
-
-
 एकोच्चारणमात्रेण जगज्ज्ञानं ततो लभेत्।  
 जगज्ज्ञानगतं पुत्र कल्पभेदे द्रुतं भवेत्**॥४१॥**
 
@@ -2957,8 +2787,6 @@ ARTHUR AVALON.
 इति श्रीकालीविलास-तन्त्रे षड़्विंशतितमः पटलः समाप्तः ।
 
 ————
-
-
 
 **अथ सप्तविंशतिपटलः।**
 
@@ -3004,8 +2832,6 @@ ARTHUR AVALON.
 स्मरणात्फलमाप्नोति दर्शनात् पापनाशनम्।  
 ध्यानमात्रेण हे कृष्ण सर्व्वसिद्धीश्वरो भवेत्**॥१४॥**
 
-
-
 शृणु स्वाहापदं भद्रंसर्व्वसिद्धिप्रदायकम्।  
 ईश्वरे शिव आसीना रौद्री कमललोचना**॥१५॥**
 
@@ -3038,8 +2864,6 @@ ARTHUR AVALON.
 झिल्ली वोभयमध्ये कूर्चान्ता सप्तदशाक्षरी**॥२३॥**
 
 इति श्रीकालीविलासतन्त्रे सप्तविंशतितमः पटलः समाप्तः।
-
-
 
 **अथाष्टाविंशतिपट**
 
@@ -3085,8 +2909,6 @@ ARTHUR AVALON.
 
 इति ते पुत्रवात्सल्यात् कथितं कमलेक्षण।  
 कोटिषोड़शमन्त्राणां सकृज्जपफलं लभेत्**॥१३॥**
-
-
 
 दिनान्ते ब्रह्मणोराधा वल्लभत्वंगमिष्यसि[^102]।  
 ममाङ्ग सम्भवा राधा त्रिपुरा त्रिपुरेश्वरी**॥१४॥**
@@ -3134,8 +2956,6 @@ ARTHUR AVALON.
 महिषेषु तथा पुत्र कदाचिद्रक्तपङ्कजे।  
 विपरीतमिदं प्रोक्तं वासनं नान्यदासनम्**॥२८॥**
 
-
-
 चापञ्च खेटकस्थाने चापस्थाने च खेटकम्।  
 शक्तिस्थाने तथा चापं वाणे च शक्तिरव्यया**॥२९॥**
 
@@ -3182,8 +3002,6 @@ ARTHUR AVALON.
 दलिताञ्जनसंकाशे नमस्ते बीजरूपिणि।  
 कामरूपे नमस्तुभ्यं नमो मन्मथ रूपिणि**॥५२॥**
 
-
-
 कन्दर्परूपिणि मातर्नमस्तुभ्यं नमो नमः।  
 ॐकार रूपिणि तुभ्यं नमस्तुभ्यं नमो नमः**॥४३॥**
 
@@ -3204,8 +3022,6 @@ ARTHUR AVALON.
 
 **इति श्रीकालीविलासतन्त्रे श्रीकृष्णोक्तं झिल्लिरा स्तोत्रं नामाष्टाविंशतिपटलः समाप्तः।**  
 —————
-
-
 
 **अथोनत्रिंशत्पटलः।**
 
@@ -3242,8 +3058,6 @@ ARTHUR AVALON.
 पूर्वोक्तं कथितं देव लिखनं मकरस्य च।  
 मकरञ्च यथा देवि तथैव मीनकेतनम्**॥१२॥**
 
-
-
 चपलान्तर्गतावुद्धिः प्रफुल्लकमलेक्षणा।  
 चपलानुगतं[^103] पुष्पं विद्युत्कोटिसमप्रभम् **॥१३॥**
 
@@ -3278,8 +3092,6 @@ ARTHUR AVALON.
 सर्व्वं तस्य भवेद्व्यर्थं किं पुरश्चरणादिभिः**॥२१॥**
 
 इति श्रीकालीविलासतन्त्रे ऊनत्रिंशत्तमः पटलः समाप्तः।
-
-
 
 **अथ त्रिंशत्पटलः।**
 
@@ -3328,8 +3140,6 @@ ARTHUR AVALON.
 
 [^106]: "आर्द्रक्षं यः परित्यज्य दुर्गादेवीं प्रपूजयेदित्यत्र आर्द्राक्षणं परित्यज्य यदि दुर्गांं प्रपूजयेदिति पाठान्तरम् ।"
 
-
-
 विफला तस्य सापूजाकदाचिन्नफलप्रदा[^107]।  
 सा पूजा राक्षसी पूजा दुर्गापूजा कथं भवेत्**॥१२॥**
 
@@ -3373,8 +3183,6 @@ ARTHUR AVALON.
 
 **इति श्रीकालीविलासतन्त्रे त्रिंशत्तमः पटलः समाप्तः।**
 
-
-
 **अथैकत्रिंशत्पटलः।**
 
 **श्रीपार्व्वत्युवाच।**
@@ -3417,8 +3225,6 @@ ARTHUR AVALON.
 
 स्वर्ण—ज्योतिः प्रतीकाशां चतुर्थ प्रहरे तथा।  
 रात्रावपि महेशानि एवमेव विचिन्तयेत्**॥१२॥**
-
-
 
 कन्दर्पं श्रृणु चार्व्वङ्गि —सर्व्वसिद्धिप्रदायकम्।  
 अरुणादित्यसंकाशां प्रातःकाले विभावयेत्**॥१२॥**
@@ -3467,8 +3273,6 @@ ARTHUR AVALON.
 रात्रावपि महेशानि एवमेव विचिन्तयेत्।  
 प्रणवं श्रृणु चार्व्वङ्गि—चतुर्व्वेदात्मकं परम्**॥२६॥**
 
-
-
 रक्तज्योतिर्मयीं नित्यां प्रथमप्रहरे पराम्।  
 द्वितीयप्रहरे नित्यां शरच्चन्द्रप्रदीपकाम्**॥२७॥**
 
@@ -3503,8 +3307,6 @@ ARTHUR AVALON.
 भविष्यति महेशानि सत्यं सत्यं न संशयः**॥३७॥**
 
 **इति श्रीकालीविलासतन्त्रे एकत्रिंशत्तमः पटलः समाप्तः।**
-
-
 
 **अथ द्वात्रिंशत्पटलः।**
 
@@ -3551,8 +3353,6 @@ ARTHUR AVALON.
 द्वितीयप्रहरे चैताः दलिताञ्जन सन्निभाः।  
 तृतीयप्रहरे चैव कुन्देन्दु धवलोज्ज्वलाः**॥१३॥**
 
-
-
 तप्तहाटकसंकाशाश्चतुर्थप्रहरे तथा।  
 द्वितीयाशङ्खहस्ता च चक्रहस्ता च चक्रिणी**॥१४॥**
 
@@ -3598,8 +3398,6 @@ ARTHUR AVALON.
 प्रथमप्रहरे चैता दलिताञ्जनसन्निभाः।  
 रात्रावपि महेशानि एवमेव विचिन्तयेत्**॥२८॥**
 
-
-
 पुरुषस्य वचः श्रुत्वा यदाह भगवान् शृणु।  
 मङ्गला च ततः कीर्त्तिर्मनोबुद्धिर्विलक्षणा**॥२९॥**
 
@@ -3635,8 +3433,6 @@ ARTHUR AVALON.
 
 **इति श्रीकालीविलासतन्त्रे द्वात्रिंशत्तमः पटलः समाप्तः।  
 ————**
-
-
 
 **अथ त्रयत्रिंशत्पटलः।**
 
@@ -3681,8 +3477,6 @@ ARTHUR AVALON.
 पञ्चकोणात्मकं बीजं प्रणवं पापनाशनम्।  
 षट्कोणं वह्निबीजञ्च दशकोणात्मकं नमः**॥१३॥**
 
-
-
 इति ते कथिता विद्या अधोवक्त्राद्विनिर्गता।  
 जम्बुद्वीप मतानित्या कलिकालस्य सम्मता**॥१४॥**
 
@@ -3703,8 +3497,6 @@ ARTHUR AVALON.
 
 **इति श्रीकालीविलासतन्त्रे त्रयत्रिंत्तमः पटलः समाप्तः।  
 —————**
-
-
 
 **अथ चतुस्त्रिंशत्पटलः।**
 
@@ -3751,8 +3543,6 @@ ARTHUR AVALON.
 
 प्रकाम्य विमले तुभ्यं पिशालाक्षेनमोनमः।  
 हे विशाले नमस्तुभ्यं विषमे च नमोनमः**॥१२॥**
-
-
 
 अघोरमुखसंमुक्तः स्तवराजः प्रकीर्त्तितः।
 
@@ -3805,8 +3595,6 @@ ARTHUR AVALON.
 ब्रह्मदिनमभिव्याप्य भेको भवति निश्चितम्।  
 दिनान्ते तु महेशानि नाना योनौ प्रजायते**॥२७॥**
 
-
-
 सभ्रष्टः स च पापिष्ठो न पुनर्मानुषो भवेत्।
 
 **श्रीगणेश उवाच।**
@@ -3827,8 +3615,6 @@ ARTHUR AVALON.
 
 **इति श्रीकालीविलासतन्त्रे चतुस्त्रिंशत्तमः पटलः समाप्तः।  
 —————**
-
-
 
 **अथ पञ्चत्रिंशत्पटलः।**
 
@@ -3865,8 +3651,6 @@ ARTHUR AVALON.
 मुररी शब्दमात्रेण अनन्तसुखमाप्नुयात्**॥१०॥**  
 प्रथमं मुररी शब्दात् नारीणां षोड़शीं कलाम्।  
 प्राप्नोति कृष्ण हे पुत्र दलिताञ्जनचिक्कण**॥११॥**
-
-
 
 इत्युक्त्वा सहसा काली चुचुम्बे मुखपङ्कजम्।  
 गच्छत्वं त्वरितं पुत्र झिल्लीराजपतत्परः **॥१२॥**
@@ -3914,8 +3698,6 @@ ARTHUR AVALON.
 सद्योजातमुखे काम वीजमेवं जपेत् शिवः।  
 कालिकेति पदं विप्र पुरुषः प्रजपेत् शिवः**॥२४॥**
 
-
-
 कामत्रयं तथेशान तथाचैवानिशं जपेत्।  
 कूर्च्चद्वयं तथा मायां वह्निजायाञ्च तामस**॥२५॥**
 
@@ -3951,130 +3733,10 @@ ARTHUR AVALON.
 
 \_\_\_\_\_\_\_\_
 
-
-
 [TABLE]
-
-
-
-
 
 # ![](../books_images/U-IMG-1721361569काली.png)
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [^45]: "ऊर्द्धाम्नाये इत्यधिकः क्वचित् पाठः ।"

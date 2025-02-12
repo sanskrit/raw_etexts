@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNzI2OTM5MjU
 
 \[
 
-
-
 ***तिमिरोद्घाटनम्***
 
 नमो महाभैरवाय ॥
@@ -71,7 +69,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNzI2OTM5MjU
 रुद्रशक्तिसमावेशा\[त्\] कौल्\[एयोणि\]न सिध्यति एम्ः कौलयोगेन सिद्ध्यति?
 
 ओर्न् इति तिमिरोद्घाटने द्वितीयः पटलः
-
 
 पृष्ठअटल ३ प्रैसेस्कौल अगैन्स्त्वैनेय (ओर्दिनर्य्शैव)
 
@@ -152,7 +149,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNzI2OTM5MjU
 ०४.२२ अन्यथा शास्त्रकोटिषु एवंविन्न प्रवर्तते
 
 इति तिमिरोद्घाटने चतुर्थः पटलः ॥ोर्न्
-
 
 कौलज्ञानोपदेश अन्दित्स्रेwअर्द्स्
 
@@ -284,7 +280,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNzI2OTM5MjU
 ७.१७ कौलयोगस्थितन् देवि शीघ्रं शान्तं पदं व्रजेत्
 
 इति तिमितोद्घाटने सप्तमः पटलः
-
 
 थे fइवे जेwएल्स्(=तोपिच्स्) ओf कौल तेअछिन्ग्स्(पञ्चरत्न)  
 सेएम्स परल्लेल्तो थे सैद्धान्तिक पदार्थस्
@@ -855,7 +850,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNzI2OTM5MjU
 चामुण्डी ।  
 महाभैरवलक्ष्मी ।
 
-
 हेरे बेगिन् थे निर्वाणकारिका
 
 अमल....लाचै...  
@@ -876,8 +870,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNzI2OTM5MjU
 **॥निर्वाणकारिका ॥**
 
 **--------------------------------**
-
-
-
 
 \]

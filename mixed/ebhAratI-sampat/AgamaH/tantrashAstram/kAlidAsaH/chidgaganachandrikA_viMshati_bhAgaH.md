@@ -17,21 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ4OTE5MzMyNzg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 Nearly ready :—
 
@@ -44,15 +30,9 @@ In preparation :—
  1. Matsyasūkta **(मत्स्यसूक्तम्)**  
   2. Laksmī Tantra **(लक्ष्मीतन्त्रम्)**
 
-
-
-
-
 Printed by—Chandra Sekhar Pathak,  
 Maharastra Press,  
 5, Simla Street, Calcutta.
-
-
 
 **INTRODUCTION**
 
@@ -92,8 +72,6 @@ of the second verse of the Cidgagana-candrikā is identical with the last line o
 
 * suggests that the author was possibly known as Sribatsa.*
 
-
-
 (Vījākṣarāṇi) which endowed him with a ready wit in speaking and versifying. After that he came to be known as aMahākavi and became a devoted worshipper of Kālī.\* That Kālidāsa was a worshipper of Kālī may be guessed from the celebrated Stotra Śyāmalādaṇḍaka (Kāvyamālā, N. S. S.), which is ascribed to Kālidāsa . In this work he has sung the glory of Mātaṅgī who is one of the sixteen-Mahāvidyās.
 
  Do the dates, however, agree to warrant such identification? Of documentary evidences relating to the date of the Cidgagana-candrikā we have nothing more than the few following references.
@@ -112,8 +90,6 @@ of the second verse of the Cidgagana-candrikā is identical with the last line o
 
 ***++श्रीशम्भुनाथात् करुणारसेन स्वयं प्रसन्नादनपेक्ष वृत्त्या।  
   काश्मीरिकोऽभिनवगुप्तपदाभिधानः श्रीतन्त्रसारमकरोद्बजुना क्रमेण।—तन्त्रसार***
-
-
 
 Abhinavagupta composed Bṛhat-pratyabhijña-vimarśinī in 1014 A. D. The last two lines of the work throw much light on this problem.—
 
@@ -142,8 +118,6 @@ Abhinavagupta composed Bṛhat-pratyabhijña-vimarśinī in 1014 A. D. The last 
 * Stein fixes the dates of Mātṛgupta and Pravarasena to be the latter part of the sixth century A. D.—Stein, Rajtar, III. 125-326.*
 
 * † Aufrecht Out: Cat, P I, p. 99:*
-
-
 
 different ages composed by different unknown authors have been wrongly ascribed to him. There is a work on astronomy named Jyotirvidābharaṇa that also passes in hisname. But eminent authorities like Dr. Bhau Dāji and others are of opinion that this work was written by some later author. The attempt to ascribe this Cidgagana-candrikā also to Poet Kālidāsa, seems to have been inspired by some later scribe or scholar who did not think of the chronological discrepancies involved in the matter.
 
@@ -185,8 +159,6 @@ different ages composed by different unknown authors have been wrongly ascribed 
 
 ***—शारदातिलकटीका २/१***
 
-
-
 a principle, understand fully the significance of Śabda (sound). To grasp fully the underlying secret principles of Upāsanā that are revealed in this text, one should first of all learn the secrets and technicalities, attaching to this particular school of Tantra, from one who has obtained his knowledge in an unbroken line of discipleship from the author. But unfortunately no such commentary on this work has yet been unearthed.
 
  The average reader would, therefore, experience great difficulty in understanding the meaning of many abstruse passages in the text, and the uninitiated would feel helpless in determining the real object of the text. Adopting, however, the method followed by Svāmipāda, a summary of the abstruse principles of Tantra as explained in some of the standard works on the subject is given in the next chapter.
@@ -222,8 +194,6 @@ a principle, understand fully the significance of Śabda (sound). To grasp fully
 
 ***—रक्षत्रयपरीक्षा।***
 
-
-
 Upaniṣads as Parabrahman. The object of our author’s adoration is thus Parabrahman Itself appearing in the form of the great Kālī. This has been clearly mentioned by him in śloka 273, chapter IV :—
 
 **न त्वमम्ब पुरुषश्च नाङ्गना चितस्वरूपिणि न षण्डतापि ते।  
@@ -255,8 +225,6 @@ Upaniṣads as Parabrahman. The object of our author’s adoration is thus Parab
 ***अनेन सूक्तद्वयेन सर्वजगत्कारणभूतः कालरूपः परमात्मा स्तूयते—***
 
 ***सायणभाष्यम्—१६/५३/१***
-
-
 
 principle of worship, the Āgamas and the Vedas agree on this one point at least. Taking into consideration the derivation of the word Kālī, the same idea is confirmed. The expression ‘Kālī’ has been derived from the word ‘Kāla.’ The word ‘Kāla’ is derived from the root ‘kala’ of the ‘bhū’ class (bhvādigaṇīya) which is often used in the sense—“to sound and to count.”
 
@@ -292,8 +260,6 @@ principle of worship, the Āgamas and the Vedas agree on this one point at least
 
 **कालाग्निरुद्रकाली च महाकाल्यभिधा पुनः।”**
 
-
-
 Sṛṣti-Kālī, (2) Sthiti-Kālī, (3) Saṃhāra-Kālī, (4) Rakta-Kālī (5) Sva-Kālī, (also known as Su-Kālī), (6) Yama-Kālī, (7) Mṛtyu-Kālī, (3) Rudra-Kālī (also known as Bhadra-Kālī), (9) Paramārka-Kālī, (10) Mārtaṇḍa-Kālī, (11) Kālāgni-Rudra-Kālī, and (12) Mahā-Kālī (also known as Parā-Kālī, Mahā-Kāla-Kālī, Kāla-Kālī and Kālī). The twelve different forms of Ādyā Śakti Kālī are dealt with in the Śrī Sārdhaśatika. If the name of “Mahābhairavaghoracanda-Kālī” be added to the list of the twelve different names and \*forms of Ādyā Śakti, the thirteenth variation is obtained. This has been mentioned in the Tantrarājabhaṭṭāraka.\* The mention of the sixteenth and seventeenth forms of Kālī is obtained in the Tantrāloka and the Kramasadbhāvabbaṭṭāraka; but their names or dhyānas are hardly to he found.
 
  What has been said above regarding the twelveth and thirteenth forms of Kālī, are discussed in the Kramastuti with their forms and dhyānas. These dhyānas are also given in the Tantrāloka. The dhyānas of the fourteen kinds of Kālī are given in the beginning of the Cidgagana-candrikā from the Tantrāloka. So these are not again given here in details. The secrets of these forms have been very clearly discussed by Abhinavaguptapāda in his Tantrāloka and in the commentary on Tantraloka by Mahā-Māhesvara Jayaratha.
@@ -306,8 +272,6 @@ Sṛṣti-Kālī, (2) Sthiti-Kālī, (3) Saṃhāra-Kālī, (4) Rakta-Kālī (5)
 
 ***रक्तकाली चर्वयन्ती रक्तौघमविभेदतः।  
 सुकाली यमकाली च मृत्युकाली भयावहा॥” इत्यादि***
-
-
 
 **CHAPTER IV**
 
@@ -326,8 +290,6 @@ Sṛṣti-Kālī, (2) Sthiti-Kālī, (3) Saṃhāra-Kālī, (4) Rakta-Kālī (5)
 
 *\* Para Vāk, ‘the ‘All-transcending Word’ that is beyond all objective thought and speech in all their forms, not excluding even the Avyakta, the most germinal of them.”*
 
-
-
 to be and which still cannot be conceived of. The Parā Vāk now appears in another form viz. Paśyantī (vision) With the progressof the manifestation of the Universe, the Paśyantī Vāk assumes a third form, viz.,-Madhyamā, the Middle one, and could distinguish one form from another as “this” or “that.” Madhyamā then takes its stand on and between the undifferentiated Paśyantī on one hand and the fully manifested Vaikhsrī Vāk on the other. In the opinion of the commentator on Alaṅkāra-Kaustubha, Vaikarī Vāk is nothing but thought and experience expressed through the vocal organ. “And what are called the Śiva Śāstras, indeed all Śāstras, are nothing but this Divine Madhyamā Vāk assuming these forms and ‘flowing out,’ as the Vaikarī or spoken words, in five ‘streams,’ from what may be regarded as the ‘Five Faces’ of the Deity, the faces which represent the five aspects of His five-fold power and glory, namely, Cit, Ānanda, Icchā, Jñāna and Kriyā, and which are respectively called Īsāna, Tatpuruṣa Sadyojāta, Aghora and Vamādeva”.\* The Śaiva Śāstras, which consist of no less than sixty four systems representing many aspects of thought may be mainly divided into *three* different schools.
 
  1. Doctrine of the essential unity and identity of all that seems to be many (Advaita or Abheda).
@@ -341,8 +303,6 @@ to be and which still cannot be conceived of. The Parā Vāk now appears in anot
 
  * \*Kashmir Shaivaism–the Kashmir series of Texts and Studies.  
  † See Hindu Realism pp. 5.10, by J. O. Chatterjee. B. A. (Oantab)*
-
-
 
  The literature of the Trika system falls into three board divisions.
 
@@ -377,8 +337,6 @@ to be and which still cannot be conceived of. The Parā Vāk now appears in anot
 
  † For the use of these terms in the above sense, compare Vedic passage “यथापूर्वमकल्पयत्” Reg., V. X. 190, 8. Also see Hindu Realism pp. 95-100, 125-128, by J. C. Chatterjee.
 
-
-
 technically called the Tattvas, (lit., thatness or whatness, namely, of everything that exists)”.\*
 
  These Tattvas may be divided into *eight* heads and may be termed as follows :—
@@ -399,8 +357,6 @@ technically called the Tattvas, (lit., thatness or whatness, namely, of everythi
 ![](../books_images/U-IMG-1726489062Screenshot2024-08-10134504.png)
 
  *\* “तस्य भावस्तत्त्वमिति भिन्नानां वर्गाणां वर्गीकरणनिमित्तं यदेकमविभक्तं भाति तत् तत्त्वम्, यथा गिरिवृक्षपुरप्रभृतीनां नदीसरःसागरादीनाञ्च पृथिवी-रूपत्वमरूपत्वं चेति”।Pra, Vi, \[III, i, 2.*
-
-
 
 or regulation), Vidyā (limited knowledge), Kalā (art i. c. the power or author of limited creation), Māyā, (the illusive self-forgetting and differentiating Power).
 
@@ -441,8 +397,6 @@ After the manifestation He allows the universe to vanish, as if by magic, from H
 
  *\* Vide Pra. Hṛdaya, p. 8.*
 
-
-
 termed as the Life (Prāṇa) in the universal seed, whereas the Śakti-Tattva abides as the potential energy of the various forms in which that Life is manifested in the universe.
 
  Further, Śiva-Tattva when used to indicate Life or Prāṇa, is nothing more than *Prathama Spanda* or first vibrative motion of Parama Śiva, as it is noted—
@@ -455,13 +409,7 @@ September, 1987.
 
 **ARNOLDAVALON.**
 
-
-
-
-
 ![](../books_images/U-IMG-1726487186Screenshot2024-08-04234543.png)
-
-
 
  Arthur Avalon, the late editor of the Āgamānusandhāna Samiti, more than six years ago thought of publishing Cidgagana-candrikā which is traditionally ascribed to Kālīdāsa. His Highness the Late Mahārājādhirāja Rameshvara Singh Bāhādur of Darbhanga, the then President of the Āgamānusandhāna Sāmiti, whose knowledge of and reverence for the ancient Hindu Śastras was very great also desired the publication of this work which had hitherto been unpublished.
 
@@ -482,19 +430,9 @@ September, 1987.
 *September,* 1937.                          
                 **ARNOLD AVALON.**
 
-
-
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 **॥ उपोद्घातः ॥**
 
@@ -556,20 +494,11 @@ September, 1987.
 
 [TABLE]
 
-
-
 **तृतीये तु विमर्शे श्लोकाः १०५ मिताः तेषु च**
 
 [TABLE]
 
-
-
-
-
-
 [TABLE]
-
-
 
 [TABLE]
 
@@ -1074,7 +1003,6 @@ September, 1987.
 
 **——————**  
 
-
 **॥श्रीरस्तु॥**  
 **चिद्गगनचन्द्रिका**  
 **![](../books_images/U-IMG-1726372462Screenshot2024-09-14100002.png)**
@@ -1243,8 +1171,6 @@ September, 1987.
 
 **॥इति आदि (सूत्र) विमर्शः॥**
 
-
-
 **द्वितीय-विमर्शः**  
 **![](../books_images/U-IMG-1726317451Screenshot2024-08-27092409.png)**
 
@@ -1405,6 +1331,10 @@ September, 1987.
 
 [^49]: "नु"
 
+[^49]: "नु"
+
+[^49]: "नु"
+
 पञ्चवृत्तितनुरम्ब निर्गता  
 शक्तिरर्पितकुलप्रथा[^50]सना।  
 त्वं शिवावकुलतः समेयुषि  
@@ -1537,6 +1467,10 @@ September, 1987.
 भाति संहृतिमयः शिवे तव[^74]॥६२॥
 
 [^73]: "भोग"
+
+[^74]: "ततः"
+
+[^74]: "ततः"
 
 [^74]: "ततः"
 
@@ -2079,6 +2013,10 @@ September, 1987.
 
 [^165]: "लौकिकी"
 
+[^163]: "एव"
+
+[^163]: "एव"
+
 भोग्यभोक्तृपरिघट्टनोल्लस-  
 न्निर्मलप्रमदनिर्भरोदया।  
 लोलिताखिलहृ[^166]पीकवृत्तिका  
@@ -2195,6 +2133,10 @@ September, 1987.
 क्षीणतो वपुरपाकृतक्रमः।  
 नाद एष[^163]तव विश्वदैशिकः[^188]-  
 कोऽपि संविदि विमर्श ईश्वरः॥१४८॥
+
+[^163]: "एव"
+
+[^163]: "एव"
 
 [^163]: "एव"
 
@@ -2960,6 +2902,10 @@ September, 1987.
 
 [^74]: "ततः"
 
+[^74]: "ततः"
+
+[^74]: "ततः"
+
 [^320]: "रन्ति "
 
 [^321]: "यत् पृथग्"
@@ -3079,6 +3025,10 @@ September, 1987.
 ये भवन्त्यकुल बिन्दुशालिनः।  
 ते बिदन्ति न[^49] तवाम्ब वैभवं  
 पूर्णभानमयविश्वघस्मरम्॥२६२॥
+
+[^49]: "नु"
+
+[^49]: "नु"
 
 [^49]: "नु"
 
@@ -3382,7 +3332,6 @@ September, 1987.
 पूर्णपीठकृतं सिद्धेस्तद्भावस्तवमादरात्  
 वानरार्थं (?) महागुह्यं श्रीवत्सो विदधे सतु॥३१२॥
 
-
 **इति श्रीकालिदासमहाकविविरचिता  
 चिद्गगनचन्द्रिका  
 सम्पूर्णा।  
@@ -3527,6 +3476,8 @@ September, 1987.
 
 [^372]: "सृजति यत्र विश्वमम्"
 
+[^373]: " स्वराः सर्गविन्दुरहि।"
+
 बिन्दुसर्गरहि[^373]ताश्च ये शुचेः।
 
 [^373]: " स्वराः सर्गविन्दुरहि।"
@@ -3558,10 +3509,7 @@ September, 1987.
 
 [^380]: "तत्सतां निनसभावलम्बनं।"
 
-
-
 ![](../books_images/U-IMG-1726288122Screenshot2024-08-04235410.png)  
-
 
 **सौभाग्यभास्करधृतचिद्गगनचन्द्रिकावचनानि।**  
 ![](../books_images/U-IMG-1726288239Screenshot2024-09-14100002.png)
@@ -3597,411 +3545,14 @@ September, 1987.
 **शुद्धिपत्रम्**  
 **![](../books_images/U-IMG-1726563455Screenshot2024-08-04235410.png)**  
 
-
 [TABLE]
-
-
-
-
-
-
-
-
-
 
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^374]: " स्वराः सर्गविन्दुरहि।"
-
-
-[^343]: "नु"
-
+[^187]: "एव"
 
 [^322]: "ततः"
 
+[^343]: "नु"
 
-[^187]: "एव"
+[^374]: " स्वराः सर्गविन्दुरहि।"

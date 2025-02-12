@@ -13,21 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNzE3Njc4NDU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 ***रसप्रकाशसुधाकरः*-४,५ अध्यायाः**
-
-
 
 अथेदानीं प्रवक्ष्यामि धातुशोधनमारणम् ।
 
@@ -521,7 +507,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUwNzE3Njc4NDU
 
 अन्यानि शास्त्राणि सुविस्तराणि निरीक्ष्य यत्नात्कृतमेव सम्यक् ॥ 116 ॥   
 
-
 **ENGLISH TRANSLATION**  
 **Chapter: 4**
 
@@ -785,16 +770,12 @@ Purified *kamsya* mixed with *haritāla* and *gandhaka*, and triturated with lem
 **Properties of *varta loha bhasma***  
 It pacifies *kapha* and *pittadosa,* *amla* in *rasa*, *rucikara* and *krmihara* in *karmas*, destroys *netra rogas* and *gala rogas* (114).
 
-
 Every thing put in this pot becomes *pathya* (acceptable to the body) except *ksara* and *amla padārthas*. These materials if put in this vessel prove best *sarvadosahara*, *agni-di ptikara* (stimulant to digestive fire) and *pācana* (digestion promotor) (115).
 
 **4.116. Upsamhāra (Conclusion)**  
 In this chapter I have mentioned the best *sodhna* and *mārana* methods, and the good and bad properties of metals carefully after consulting many texts in detail and whatever I have experienced in my life) (116).
 
-
-
 ***अध्यायः-५** *  
-
 
 अथेदानीं प्रवक्ष्यामि गुणाधिक्यान्महारसान् ।
 
@@ -1329,7 +1310,6 @@ In this chapter I have mentioned the best *sodhna* and *mārana* methods, and th
 
 स्त्रीरोगान्हन्ति सर्वांश्च श्वासकासपुरोगमान् ॥ 130 ॥  
 
-
 **ENGLISH TRANSLATION**
 
 **Chapter : 5**
@@ -1458,7 +1438,6 @@ It can pacify *tridosas*, checks *visa prabhāva*, destroys *gudaśūla*, *amlap
 
 ***Mudrika (Ring) of Sasyaka Satva***  
 For this mix bhūnāga satva with sasyaka satva in equal parts and prepare a ring by melting both together. It is claimed as *sūlagni* (destroyer of pain) and may also prevent the effects of evil spirits and the effects of *carácara vişa*. This ring should also be prepared and used for the protection of kings. According to the description of other texts the water kept in contact of this ring when used for drinking may destroy *udara süla* (abdominal pain) immediately (77-78).
-
 
 ***5.79-90. Māksika (Pyrite) (V)***
 
@@ -1595,16 +1574,5 @@ Mix *talaka* with this *satva* in equal amount and put it in a *kharpara* (iron 
 
 **Method of using *Satvabhasma***  
 Mix *mrta satva* (*satva bhasma*) and *kanta bhasma* in equal amount. Take one *maşaka* (about one gram) of this powder, mix it with *vara kvātha*, Keep it over night in an iron pot, put *tila* *taila* as *prati vāpa* over it and then it may be used to cure *madhumeha*, *ksaya*, *pandu*, *vātavyādhi*, *yoniroga* of ladies, *visamajvara* and all the *rogas* of ladies specially *śvāsa* and *kasa* (128-130).
-
-
-
-
-
-
-
-
-
-
-
 
 \]

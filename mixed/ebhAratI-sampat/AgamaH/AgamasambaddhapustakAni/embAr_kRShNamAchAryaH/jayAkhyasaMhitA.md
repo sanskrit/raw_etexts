@@ -11,14 +11,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
 \[
 
-
-
-
-
-
-
-
-
  ॐ
 
   पटलः - 1
@@ -428,8 +420,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 ततःप्रभृति कालाच्च लोकेऽस्मिन्मुनिसत्तमाः ॥ 78 ॥
 
 जयेति विमलं नाम प्रणीतं विश्वकर्मणा।
-
-
 
  \[अधिकः पाठः\]
 
@@ -1093,8 +1083,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 2
 
 अथ ब्रह्मसर्गाख्यानं नाम द्वितीयः पटलः। 2-1
@@ -1467,8 +1455,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 3
 
 अथ प्रधानसर्गाख्यानं नाम तृतीयः पटलः
@@ -1632,8 +1618,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाख्यसंहितायां प्रधानसर्गाख्यानं नाम तृतीयः पटलः
 
  \* \* \* \* \*
-
-
 
  पटलः - 4
 
@@ -2285,8 +2269,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 5
 
 अथ ब्रह्मज्ञानोत्पत्त्याख्यानं नाम पञ्चमः पटलः 5-1
@@ -2472,8 +2454,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाख्यसंहितायां ब्रह्मज्ञानोत्पत्त्याख्यानं नाम पञ्चमः पटलः॥
 
  \* \* \* \* \*
-
-
 
  पटलः - 6
 
@@ -3565,7 +3545,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
 \[स्थूलसूक्ष्मोभयात्मकस्य त्र्यक्षरस्य परमन्त्रस्य प्रभाववर्णनम्\] 6-41
 
-
 त्र्यक्षरः परमो मन्त्रस्तेन संदीक्षयेत्क्रमात्।
 
 भवाब्धिपतितान्भक्तानपरेण तु ( )कर्हिचित् ॥ 232 ॥
@@ -3649,8 +3628,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाख्यसंहितायां मुख्यमन्त्रोद्धारो नाम षष्ठः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 7
 
@@ -4260,8 +4237,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 8
 
 अथ जयाख्यसंहितायां मुद्राबन्धाख्यानं नाम अष्टमः पटलः।
@@ -4860,8 +4835,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 9
 
 अथ पाञ्चरात्रे जयाख्यसंहितायां स्नानविधिर्नाम नवमः पटलः। 9-1
@@ -5203,8 +5176,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्री पाञ्चरात्रे जयाख्यसंहितायां स्नानविधिर्नाम नवमः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 10
 
@@ -5878,8 +5849,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 12
 
 अथ मानसयागाख्यानं नाम द्वादशः पटलः। 12-1
@@ -6493,8 +6462,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाख्यसंहितायां मानसयागो नाम द्वादशः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 13
 
@@ -7587,8 +7554,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाख्यंसहितायां बाह्ययागाख्यानं नाम त्रयोदशः पटलः॥
 
  \* \* \* \* \*
-
-
 
  पटलः - 14
 
@@ -9285,8 +9250,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपञ्चरात्रे जयाख्यसंहितायामग्निकार्यविधानं नाम पञ्चदशः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 16
 
@@ -11038,8 +11001,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 17
 
 अथ शिष्यभेदाक्यानं नाम सप्तदशः पटलः। 17-1
@@ -11307,8 +11268,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाक्यसंहितायां शिष्यभेदाख्यानं नाम सप्तदशः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 18
 
@@ -11867,8 +11826,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाक्यसंहितायां मन्त्रसिद्धिचिह्नाख्यं नामैकोनविंशः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 20
 
@@ -13710,8 +13667,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 21
 
 अथ पवित्रविधानं नाम एकविंशः पटलः ॥ 21-1
@@ -14794,10 +14749,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
-
-
  पटलः - 22
 
 अथ वैष्णवाचारलक्षणं नाम द्वाविंशः पटलः। 22-1
@@ -15203,8 +15154,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाख्यंसहितायां वैष्णवाचारलक्षणं नाम द्वाविंशः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 23
 
@@ -15922,8 +15871,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 24
 
 अथ संस्काराख्यानं नाम चतुर्विंशः पटलः। 24-1
@@ -16421,8 +16368,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाख्यसंहितायां संस्काराख्यानं नाम चतुर्विंशः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 25
 
@@ -17226,8 +17171,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 26
 
 अथ साधकस्य मूलमन्त्रसाधनं नाम षड्विंशः पटलः। 26-1
@@ -17859,8 +17802,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपांचरात्रे जयाख्यसंहितायां साधकस्य मूलमन्त्रसाधनं नाम षड्विंशः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 27
 
@@ -18874,8 +18815,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 28
 
 अथाङ्गमन्त्रसाधनं नामाष्टाविंशः पटलः। 28-1
@@ -19551,8 +19490,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाख्यसंहितायां अंगमन्त्रसाधनं नामाष्टाविंशः पटलः
 
  \* \* \* \* \*
-
-
 
  पटलः - 29
 
@@ -20370,8 +20307,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 30
 
 अथ परिकरसाधनं नाम त्रिंशः पटलः। 30-1
@@ -20894,8 +20829,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 
  \* \* \* \* \*
 
-
-
  पटलः - 31
 
 अथ उपाङ्गसाधनं नाम एकत्रिंशः पटलः। 31-1
@@ -21119,8 +21052,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपांचरात्रे जयाख्यसंहितायां उपाङ्गसाधनं नाम एकत्रिंशः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 32
 
@@ -21489,8 +21420,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
 इति श्रीपाञ्चरात्रे जयाख्यसंहितायां साधनविधिर्नाम द्वात्रिशः पटलः।
 
  \* \* \* \* \*
-
-
 
  पटलः - 33
 
@@ -21875,15 +21804,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDc1MzU0NTYz
  समाप्तेयं जयाख्यसंहिता।
 
  \* \* \* \* \*
-
-
-
-
-
-
-
-
-
-
 
 \]

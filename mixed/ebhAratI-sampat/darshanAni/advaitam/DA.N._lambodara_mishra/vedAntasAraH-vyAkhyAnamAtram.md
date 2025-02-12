@@ -13,20 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMTk2OTQ1MDM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 वेदान्तसारः
 
  लेखक डाँ. लम्बोदर मिश्र
@@ -439,19 +425,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzMTk2OTQ1MDM
 
 इति श्रीमत्परमहंसपरिव्राजकाचार्यसदानन्दविरचितो वेदान्तसारः
 
-
-
-
-
 ॥समाप्तः॥
-
-
-
-
-
-
-
-
-
 
 \]

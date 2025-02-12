@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMyMzAyMTAxNTI
 
 \[
 
-
-
 ***जन्ममरणविचारः***
 
 सान्द्रोद्रेकक्षुभितमभितः स्वान्तमन्तर्नियम्य प्रायो धत्ते नवनवरसोल्लेखमानन्दकन्दम् ॥ १  
@@ -334,7 +332,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMyMzAyMTAxNTI
 पूर्त्या शुद्ध्या व्याख्यया संस्कृतः स्तात्पूर्णो ग्रन्थः श्रेयसे सज्जनानाम् ॥ ३१६  
 तिलकम् ॥ ३१७  
 श्रीस्वात्मचिदमृतवपुःशंकरार्पणं भूयात् ॥ ३१८  
-
-
 
 \]

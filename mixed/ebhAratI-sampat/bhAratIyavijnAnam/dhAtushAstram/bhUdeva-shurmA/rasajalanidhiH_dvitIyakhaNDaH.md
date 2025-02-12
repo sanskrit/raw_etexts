@@ -17,21 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NDM4MDY4NDQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **PREFACE.**
 
@@ -49,14 +35,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NDM4MDY4NDQ
 
  I am also indebted to Pandit Nritya Gopal Panchatirtha, and to Professors Kshitish Ch. Chatterjee M. A. and Satkari Mookerji M. A. of the Deptt. of Sanskrit, Calcutta University, not only for the help they rendered to me in correcting the proof sheets but also for several suggestions received from them. The encouragement which I have received from the following members of the Institute of Hindu Chemistry also deserves mention :—Prof, Ramnarain Kayasth M. sc. B. Ag. of the Nagpur University, Messrs. Girija Nath Mookerji B. Sc., Asstt Analyst, Calcutta Corporation, Anindra Nath Chatterji, Sarojnath Bagchi, Ganapati Chakravarty M. A. and Upendra Nath Dutt (who has taken the trouble of compiling the Appendix to the present volume).
 
-
-
 **41-A Grey Street, Calcutta, **
 
 **THE 26TH SEPTEMBER 1927.      **            **
 BHUDEB MOOKERJI**
-
-
 
 **CONTENTS.**
 
@@ -96,9 +78,6 @@ BHUDEB MOOKERJI**
 | Merits of makshika                                            |
 | Evil effects of impure makshika                               |
 
-                                   
-
-
 |                                                                                       |
 |---------------------------------------------------------------------------------------|
 | Purification of Makshika                                                              |
@@ -136,8 +115,6 @@ BHUDEB MOOKERJI**
 | Ditto without application of heat                                                     |
 | How to extract copper from feathers of peacock                                        |
 | The finger ring which cures colic and neutralises poison                              |
-
-
 
 |                                                                  |
 |------------------------------------------------------------------|
@@ -178,8 +155,6 @@ BHUDEB MOOKERJI**
 | Removal of odour from sulphur              | 143 |
 | Transformation of base metals by Gandhaka | 145 |
 
-
-
 |                                                           |
 |-----------------------------------------------------------|
 | Removal of the evil consequences of takingimpure sulphur |
@@ -217,7 +192,6 @@ BHUDEB MOOKERJI**
 | Properties of manas-shila                                 |
 | Evil effects of taking mans-shila, not properly purified  |
 
-                                   
                  
 
 |                                                            |
@@ -259,8 +233,6 @@ BHUDEB MOOKERJI**
 | Purification of Shankha                                           | 220 |
 | Incineration of Shankha                                           | 220 |
 
-
-
 |                                       |
 |---------------------------------------|
 | Properties of Shankha              |
@@ -301,8 +273,6 @@ BHUDEB MOOKERJI**
 | Liquefaction of gold                                          | 259 |
 | Silver                                                         | 260 |
 
-
-
 |                                                              |     |
 |--------------------------------------------------------------|-----|
 | Varieties of silver                                          | 260 |
@@ -326,8 +296,6 @@ BHUDEB MOOKERJI**
 | Glossary                                                     | 289 |
 | Appendix                                                     |    |
 
-
-
 **ERRATA.**
 
 Page 215, line 10. Insert “reduced to ashes”after “hog, etc.”
@@ -344,19 +312,11 @@ Page 208, line 26. Insert “purification of kankustham.”
 
 Page 259 line 7. Insert “Liquefaction of gold.”
 
-
-
-
-
 [TABLE]
-
-
 
 **सूचीपत्रम्।**
 
 **प्रथमोऽध्यायः।**
-
-
 
 |                                     |
 |:-----------------------------------:|
@@ -383,8 +343,6 @@ Page 259 line 7. Insert “Liquefaction of gold.”
 |             पञ्चमित्रम्             |
 |        अभ्रसत्त्वस्य शोधनम्         |
 |        अभ्रसत्त्वस्यमारणम्         |
-
-
 
 |                                        |
 |:--------------------------------------:|
@@ -417,8 +375,6 @@ Page 259 line 7. Insert “Liquefaction of gold.”
 |            शिलाधातोः शोधनम्            |
 |         शोधितशिलाधातोः परीक्षा         |
 
-
-
 |                                       |
 |:-------------------------------------:|
 |               **विषयः**               |
@@ -449,8 +405,6 @@ Page 259 line 7. Insert “Liquefaction of gold.”
 |          चपलस्य सत्त्वपातनम्          |
 |             नागसम्भवचपलः             |
 |              **अथ रसकः**              |
-
-
 
 |                                        |
 |:--------------------------------------:|
@@ -486,8 +440,6 @@ Page 259 line 7. Insert “Liquefaction of gold.”
 | **अथ कांक्षी (तुवरी)**              |
 | अस्याः गुणाः                        |
 | अस्याः शोधनम् सत्त्वपातनम् च        |
-
-
 
 |                                    |
 |:----------------------------------:|
@@ -536,8 +488,6 @@ Page 259 line 7. Insert “Liquefaction of gold.”
 |          **अथ कपदकाः**           |
 |         वराटिकायाः गुणाः         |
 
-
-
 |                            |
 |:--------------------------:|
 |         **विषयः**          |
@@ -572,8 +522,6 @@ Page 259 line 7. Insert “Liquefaction of gold.”
 |        **अथ धातवः**        |
 |      **अथ स्वर्णम्**       |
 |        अस्य प्रकारः        |
-
-
 
 |                                     |
 |:-----------------------------------:|
@@ -615,7 +563,6 @@ Page 259 line 7. Insert “Liquefaction of gold.”
 |     पिष्टा      |   पिष्ट्वा    |     १४१      |    २४     |
 |       धता       |     धृता      |   १४१    |    २५     |
 
-                                   
                        
 
 **रसजलनिधिः।**
@@ -701,8 +648,6 @@ Page 259 line 7. Insert “Liquefaction of gold.”
 **रसाद्धीना गुणै रेते बहुभिस्तद्गुणैर्युताः। **
 
 **सेव्यन्ते च रसाभावे तस्मादुपरसाः स्मृताः॥**
-
-
 
 **प्रथमोऽध्यायः। **
 
@@ -835,8 +780,6 @@ Mica is purified, if it is heated strongly, (preferably by means of a bellows) f
 —————————————————————————————————————————
 
 each time in the decoction of triphala; and then again, heated for seven times, and immersed in milk with especial care. It is then to be reduced to what is called, “Dhanya-abhram”, and incinerated in the prescribed manner.   
-
-   
 
 **द्वितीयोविधिः।**
 
@@ -1218,8 +1161,6 @@ Mica is incinerated and assumes the colour of a lotus flower, if subjected to pu
 
 Dhanya abhram is incinerated, if subjected to putam for one thousand times, after having been rubbed each time with cow's urine.
 
-
-
 **विंशो विधिः।**
 
 **शुष्कं धान्याभ्रकं मुस्तं शुण्ठी षड्भागयोजितम्।**
@@ -1263,7 +1204,6 @@ Dhanya abhram is to be rubbed, first of all, with the juice of changeri, and the
 [^2]: "पत्तूरम् जलपिप्पली। शशिवाटिकोत्पलम्।"
 
 **प्रत्येकस्वरसेनैव पुटादाशुर्मृतिर्भवेत्॥**
-
 
 ***Twenty second process.***
 
@@ -1319,7 +1259,6 @@ Dhanya abhram is incinerated and cures all sorts of diseases, if rubbed with eac
 काञ्जिकं कुड़वौ दध्नो गुड़प्रस्थोऽम्लमूलकात्॥
 
 ——————————————————————————————————————————————————
-
 
 **पलार्द्धंपारदं शुद्धंपलं वव्वुलजं नवम्।**
 
@@ -1419,7 +1358,6 @@ Dhanyabhram is to be rubbed for seven days with each of the following during day
 
 **पुटेन मर्दनात् परं भस्म स्यादरुणप्रभम्॥**
 
-
 ***Twenty eighth process.***
 
 Mica is to be rubbed with each of the following:—nagabala, bhadramusta, milk of banyan, juice of the aerial roots of banyan, juice of haridra, and subjected to putam after its being rubbed with each of them. Mica thus incinerated, assumes a red appearance.
@@ -1513,7 +1451,6 @@ Mica is said to be killed or incinerated, if it is deprived of its glaze, and be
 —————————————————————————————————————————
 
 **\***This includes the process of preparing dhanya abhram.
-
 
 **एकीकृत्य लौहपात्रे विपचेन् मृदुवह्निना।**
 
@@ -1817,7 +1754,6 @@ Purified mica, with one fourth its quantity of tankanam, is to be rubbed with th
 
 \*See page 305, vol I, for articles effecting an easy smelting of hard metals.
 
-
 **पिष्ट्वाव्योम प्रयत्नेनशोषयेद् धर्मयोगतः।**
 
 **ततो गोधूमचूर्णञ्च क्षद्रमत्स्यांश्च टंकणम्॥**
@@ -1891,7 +1827,6 @@ Essence of mica is extracted, if it is rubbed with the powder of each of the fol
 
 Dhanya abhram is to be rubbed with the following in order of their occurrence :—tankanam, molasses, tankanam, red glass, mahisha-panchakam, laksha, exudation of sarja tree, juice of the tuber of banana, small fish, juice of shuranam, juice of castor leaves, hingu duly purified (by being fried with ghee) , tankanam, juice of wild shuranam, and honey. The whole thing is to be made into a ball, and dried. This is then to be subjected to heat (by means of a kosthica Jantram) which turns it into some thing resembling oxidised iron, This lump is then to be powdered and essence of mica, very fine and soft, is to be collected from these powders.
 
-
 **अथाभ्रसत्त्वस्य शोधनम्।**
 
 **प्रथमो विधिः।**
@@ -1901,7 +1836,6 @@ Dhanya abhram is to be rubbed with the following in order of their occurrence :�
 ***First process of purification of essence of mica.***
 
 The essence of mica is to be purified and incinerated in the same way as iron (see later).
-
 
 **द्वितीयो विधिः।**
 
@@ -1922,7 +1856,6 @@ The particles of essence of mica are to be kept confined with the shodhaniya gan
  \*“क्वाथयित्वाम्लकाञ्जिकैः” इत्येतस्य स्थले“मुस्तक्वाथाम्लकाञ्जिकैः” इत्यपि पाठो दृश्यते। तथैव “सम्यग् द्रुतं” इत्येतस्य स्थले “सम्यक् पक्व” इत्यपि पाठः कल्पते। शोधनीयगणस्य सज्ञा प्रथमखण्डे३०६ पृष्ठे द्रष्टव्या।
 
   ¥ For meaning of shodhaniya gana, see vol, I, page 306.
-
 
 **अभ्रसत्त्वमारणम्।**
 
@@ -1955,7 +1888,6 @@ Essence of mica, mercury, and sulphur, each equal in quantity, are to be rubbed 
 —————————————————————————————————————————
 
  **\***See page 260, vol I, under “Another kind of Baluka Jantram,”and page 291, lbid, under “Malla Musha.”
-
 
 **तृतीयो विधिः।**
 
@@ -2015,12 +1947,9 @@ Essence of mica is to be powdered very fine and sifted through a piece of fine c
 
 **यथेष्टं विनियोक्तव्यं जारणे च रसायने।**
 
-
 ***Fourth process.***
 
 Lump of essence of mica is to be heated and cooled by being thrown into unfiltered kanji and broken into pieces immediately by means of an iron bar. The pieces which cannot be finely powdered by hammering are to be again heated, thrown into kanji, and hammered again, as before. The powders, thus obtained, are to be mixed with cow's ghee, and heated red hot for three times, being rubbed every time with the juice of the fruits or leaves of amalaki after the powder gets red hot, It is then to be subjected to putam for ten times, being rubbed each time with the juice of punarnava, mixed with kanji. It is next to be subjected to putam for ten times more, being rubbed each time with an equal quantity of sulphur. Essence of mica, thus incinerated, becomes the most efficacious, and may be used in the exhaustion of mica, and for purpose of prevention and cure of diseases and senility.
-
-
 
 **अभ्रसत्त्वभस्मसेवनविधिः।**
 
@@ -2039,7 +1968,6 @@ Lump of essence of mica is to be heated and cooled by being thrown into unfilter
 **घृतेन मधुना लिह्यात् क्षेत्रीकरणमुत्तमम्।**
 
 **एवं वर्षप्रयोगेन सहस्रायुर्भवेन्नरः॥**
-
 
 ***How incinerated essence of mica istobe used. *** ***   ***
 
@@ -2070,9 +1998,7 @@ All sorts of hard essences, including those of metals, are softened, if smelted 
 ***Liquefaction of mica  
 First process.***
 
-
 Dhhanyabhram is to be rubbed with the juice of agastya leaves and kept confined within a tuber of shuranam. It is then to be placed inside a pit, 1¹/₂foot deep, cut in a land where cows are kept. This mica will be found to resemble mercury, if taken out after a month.
-
 
 **शुद्धकृष्णाभ्रपत्राणि पीलुतैलेन लेपयेत्।**
 
@@ -2261,7 +2187,6 @@ White mica, sulphur, mercury, and a red flower—these four, rubbed with the mil
 **किञ्चित् कषाय उभयः तिक्तं पाके कटुर्लघुः।**
 
 **तत्सेवनाज्जराव्याधिर्बिषै र्न परिभूयते॥**  
-
 
 ***Makshikam (byrites)***
 
@@ -2463,7 +2388,6 @@ Makshika is to be rubbed for three hours with castor oil, and then heated in a b
 
 **तप्तंक्षिप्तंवराक्वाथे शुद्धिमायाति माक्षिकम्॥**
 
-
 ***Eighth, ninth and tenth processes.***
 
 Makshika is purified, if boiled with castor oil mixed with the juice of matulunga fruit; or if boiled for two hours with banana plant juice; or if heated and soaked with decoction of triphala.
@@ -2495,7 +2419,6 @@ Makshika is purified, if it is boiled, first of all, with the juice of nimbu (li
 ***Thirteenth process.***
 
 Makshika is purified if it is heated and immersed in each of the following :— oil, takram, decoction of kulattha and that of triphala.
-
 
 ** अथ माक्षिकस्य मारणम्।**
 
@@ -2556,7 +2479,6 @@ Makshika is incinerated, if it is rubbed with the decoction of kulattha, or takr
 ***Fourth process**.*
 
 Makshika with one fourth its quantity of sulphur is to be rubbed with castor oil, and made into cakes, which are to be confined within a samputam, and subjected to gaja putam, with husk of paddy put on all sides of the samputam. This will reduce the makshika to ashes, as red as vermilion.  
-
 
 **पञ्चमो विधिः ।**
 
@@ -2737,7 +2659,6 @@ Bimala, as well as other metals, is purified, if boiled with the juice of a lime
 ***Fifth process.***
 
 Three kinds of bimala are purified, if rubbed with the juice of amla betasa, dhanya amla, and ewe's urine, and boiled in a Dola Jantram for twelve hours with the juice of banana plant.
-
 
 **षष्ठो विधिः ।**
 
@@ -2941,7 +2862,6 @@ It is soft, stimulating, and bitter in taste, but turns pungent when digested in
 
 Genuine shila-jatu will burn without emitting any smoke, and when burnt, will assume the appearance of oxidised iron. If thrown into water, by means of grass points, it will sink in the shape of threads.  
 
-
 **शिलाजतूनां साधारणगुणाः ।**
 
 **अनम्लञ्चाकषायञ्च कटुपाकि शिलाजतु ।**  
@@ -2962,8 +2882,6 @@ Shilajatu is neither sour nor astringent. It turns pungent after it is digested 
 
 It has the property of removing mucus and other dirts from the system. It can also cure an excess of phlegm, shaking of the limbs, stone disease, sugar inurine, stricture and gleet, consumption, asthma, piles due to an excess of vayu, hysteria, insanity, nausea, leprosy, worms, fever, jaundice, dropsy, spermatorrhoea, loss of appetite, obesity, pthisis, colic, gulma, enlargement of the spleen, udara-roga, pain in the heart, dysentery, and all sorts of skin diseases. It is very useful as a medicine as well as in alchemy.
 
-
-
 **शिलाधातोर्शोधनम् ।**
 
 **प्रथमोविधिः ।**
@@ -2972,15 +2890,11 @@ It has the property of removing mucus and other dirts from the system. It can al
 
 **दिनैकं लौहजे पात्रे ततः शुष्कं विशुध्यति ॥**
 
-
-
 ***Purification of shilajatu.***
 
 ***First process.***
 
 Shilajatu is purified, if it is rubbed for one day with any one of the following and then dried :- cow's milk, decoction of triphala, and juice of bhringaraja.
-
-
 
 **द्वितीयोविधिः ।**
 
@@ -3146,7 +3060,6 @@ Shilajatu is purified, if it is dissolved, in an iron pot, with milk, decoction 
 
 Shilajatu is purified, if it is subjected to a hot vapour for one hour, by means of a Swedani-Jantram containing kshara, amla, and guggulu,  
 
-
 **शोधितशिलाधातोः परीक्षा ।**
 
 **वह्नौ क्षिप्तं तु निर्धूमं पक्वलिङ्गोपमं भवेत् ।  
@@ -3177,7 +3090,6 @@ Shilajatu, properly purified, will burn without emitting any smoke. When suffici
 
 **पिवेन् माहेन्द्रसलिलं कौपं प्रास्त्रावरणांवुवा ।**  
 **कुलत्थान् काकमाचीं च कांपोतांश्च सदा त्यजेत् ॥**
-
 
 ***Use of purified shilajatu.***
 
@@ -3291,7 +3203,6 @@ It is a compound of copper, and sulphur, prepared by those who know the process.
 
 **जम्वीरजरसैः पिष्टं तुत्थं लघुपुटे पचेत् ।**  
 **त्रिदिनं मस्तुना भाव्यं ततो योगेषु योजयेत् ॥**
-
 
 ***Purification of tuttham.***
 
@@ -3417,7 +3328,6 @@ Peacock's feather is to be burnt with ghee and honey. The ashes, thus prepared, 
 
 Essence of tuttham, nagatamram, and gold are to be taken in equal quantities and made into a ring, the touch of which removes colic pain instantaneously. It also overcomes all sorts of poison and evil influences caused on human beings by the evil eyes of ghosts and witches. According to Bhaluki, the great chemist, water drunk seven times, each time touched with this ring and sanctified with the chanting of the mantram given in the text, cures colic pain instantaneously. The oil which is heated over fire, with this ring kept immersed in it, cures any sort of pain, by merely being rubbed on the part of the body affected. It also effects a speedy and painless child birth in a woman. It also cures eye diseases in a very short time.
 
-
 **अथ तुत्थसत्त्वस्य भस्मीकरणम् ।**
 
 **( अग्रे सम्यकप्रसङ्गेद्रष्टव्यम् )**
@@ -3493,7 +3403,6 @@ Sasyaka is incinerated, if it is mixed with the juice of lakucha, sulphur, and t
 **करञ्जतैलमध्ये तु दिनमेकं निधापयेत् ॥**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
 
 **\* अधः षडङ्गुलं खातं चतुदिक्षु च तादृशम् ।**
 
@@ -3770,7 +3679,6 @@ or saubir amla, each mixed with rock salt.
 
 Kharpara is reduced to fine ashes, if rubbed with mercury and subjected to heat for 8 hours, by means of a Baluka Jantram.  
 
-
 **द्वितीयो विधिः ।**
 
 **खर्परं लौहपात्रस्थं चुल्ल्यांदत्त्वा विपाचयेत् ।**  
@@ -3853,7 +3761,6 @@ Rasaka discharges its essence, if rubbed with haritaki, laksha, earth worm, hari
 Rasaka is to be rubbed with the powders of laksha, gurh ( molasses ), white mustard, rala, and tankanam, roasted with cow's milk and ghee, and made into a ball. It is then to be confined in a Brintaka musha and subjected to heat in the manner explained in the first process.  
 Essence from the ball may also be extracted in the following manner :- Place an earthen vessel full of water, inside a pit cut into the ground, and put an earthen basin full of holes upon the mouth of the vessel. The crucible containing the ball referred to above is now to be placed upside down upon the earthen basin, and charcoal fire to be placed all round the crucible. This will result in the essence of rasaka falling into the water in the vessel. \*  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
 
 **हस्तप्रमाणं निम्नंव गर्त्तंकृत्वा प्रयत्नतः ।  
 तस्मिन् भाण्डञ्च संस्थाप्य तथान्यत् पात्रमाहरेन् ॥**
@@ -3940,7 +3847,6 @@ Rasaka, kept immersed in man's urine for one month, acquires the property of inv
 
 **रक्तश्च शुकतुण्डाख्यो धातुवादविधौ वरः ।**  
 **दुर्लभः कृष्णवर्णश्च स जरामृत्युनाशनः ॥**  
-
 
 **CHAPTER II.**  
 ***Gandhaka (Sulphur).***   
@@ -4132,7 +4038,6 @@ One who takes powdered gandhaka, with an equal quantity of pippali and haritaki,
 **(8)**
 
 Purified sulphur is to be subjected to bhavana with cow's milk, and the decoction or juice of each of the following separately : - chaturjata, guduchi, haritaki, bibhitaki, amalaki, trikatu, bhringaraja, and ginger. When this is done, the product is to be mixed with an equal quantity of sugar. The medicine, thus prepared, is called the "Rasayana gandhaka." If taken in doses of one tola a day, it prevents waste of the dhatus, cures all sorts of spermatorrhoea and gonorrhoea, loss of appetite, colic, diseasespertaining to the stomach, and the eighteen different kinds of leprosy. It increases semen, strength, and power of speech.  
-
 
 **( ९)**
 
@@ -4985,7 +4890,6 @@ Pure haritalam is to be reduced to powder, subjected to bhavana for three times 
 
 One part of pure haritalam is to be put inside an earthen vessel, partly filled with ashes. Upon the haritalam is to be put double its quantity of condensed smoke (soot). The mouth of the vessel is to be closed tightly by means of an earthen vessel. The apparatus is then to be heated for 12 hours by means of fire
 
-
 rising gradually in the intensity of its heat at a uniform rate. This will result in the incineration of haritalam which will assume a white appearance and will emit no more smoke, even if subjected to further heat.
 
 **एकादशो विधिः।**
@@ -5024,7 +4928,6 @@ rising gradually in the intensity of its heat at a uniform rate. This will resul
 
 **हिमकुन्देन्दुसङ्काशं निर्धूमं कृष्णवर्त्मणा॥**
 
-  
 ***Eleventh process.***
 
 Haritalam is to be washed with lime juice and mixed with one tenth its weight of tankanam. It is then to be confined in a piece of cloth having four folds, and made into a bundle, which is to be boiled by means of a Dola Jantram, with a slow heat such as is produced by the burning of an earthen lamp lighted with vegetable oil, for six hours, with each of the following :—lime water, kanji, kushmanda juice, lemon oil, and triphala. It is then to be washed with sour vegetable juice, rubbed with the bark of the root of palasha tree, and dried. It is next to be rubbed with the urine of she-buffalo and dried. Next it is to be put into a samputam made of two basins and heated by means of Gajaputam; the contents of the samputam being taken out when the fire will be extin- guished completely and the samputam cooled of itself. The haritalam is then to be rubbed with goat’s milk, made into a ball, and dried. It is next to be put into a vessel, covered on all sides with powdered lime, the remaining portion of the vessel being filled with the ashes of palasha. The mouth of the vessel is to be closed in such a way as not to let out any smoke. The vessel is then to be subjected to heat, gradually increasing, for 96 hours continuously, with the result that the haritalam will be found, when taken out after the apparatus gets cooled, to be as white as moon and will emit no smoke, if subjected to further heat.
@@ -5219,7 +5122,6 @@ The belly of a big fish is to be cut out very carefully, cleansed of the entrail
 ***Test of incinerated haritalam.***
 
 Haritalam is considered to be properly incinerated, if it does not emit any smoke when put upon fire; otherwise it is to be considered un-incinerated.
-
 
 **तालभस्मनो गुणाः।**
 
@@ -5477,7 +5379,6 @@ This essence will have to be boiled with about one prastha of cow’s urine unti
 
 **कूपीस्थं वालुकायन्त्रे सत्त्वं मुञ्चति यामतः॥**
 
-
 ***Tenth process.***
 
 Haritalam emits its essence, if rubbed with seeds of eranda and jayapala, and heated in a glass bottle, by means of a Baluka Jantram.
@@ -5618,7 +5519,6 @@ Haritalam is to be rubbed with the juice of rudanti. Copper leaf, smeared with t
 
 **शुल्वातीतं भवति कनकं सम्वलंपाथिकानाम्॥**
 
-
 **(2)**
 
 The leaf of a metal consisting of 16 parts of silver and 12 parts of copper is to be smeared with an amalgam made of haritalam, makshikam, hingula, manas-shila, and mercury, all rubbed together for three days with the juice of kakamachi, the weight of each of these metals being ³/₂ part of the leaf, which is to be heated after it is so smeared. The product is gold.
@@ -5679,7 +5579,6 @@ Manas-shila is only a variety of haritalam; haritalam is very yellow, whereas ma
 
 [^30]: "त्रिविधासु गुणैः श्रेष्ठा कणवीरा मनःशिला इति पाठान्तरम् ।"
 
-
 ***Different kinds of manas-shila.***
 
 Manas-shila is of three different kinds, viz. shyama, kanaviraka, and khanda. Shyama is reddish white with a black tint and is heavy. Kanabiraka is bright without whiteness, and has the appearance of copper. Khanda is in the form of powder. It is very red and heavy. The last mentioned, viz. khanda, is the best of all varieties and has plenty of essence.
@@ -5704,11 +5603,9 @@ Manas-shila is an excellent rasayanam ( *i.e*. a medicine which prevents and cur
 
 **तिक्ता स्निग्धा विषश्वासकासभूतविषास्रनुत्॥**
 
-
 **(2)**
 
 Manas-shila is heavy, improver of complexion, laxative, producer of heat in the system, destroyer of fat, pungent and bitter in taste, soothing, and curer of poison, asthma, bronchitis, evil influences of ghosts, and impurities of the blood.
-
 
 **अशोधितमनः शिलायाः दोषः।**
 
@@ -5733,7 +5630,6 @@ Manas-shila, not properly purified, gives rise to stone disease, stricture, glee
 ***First process.***
 
 Manas-shila is purified, if subjected to bhavana for seven times, with the juice of agasta leaves, or of ginger,
-
 
 **द्वितीयो विधिः।**
 
@@ -5767,7 +5663,6 @@ Manas-shila is purified, if it is boiled in a Dola Jantram with the juices of bh
 
 Manas-shila is purified, if it is boiled with goat’s urine for three days, by means of a Dola Jantram, and then subjected to bhavana for seven times with goat’s bile.  
 
-
 **पञ्चमो विधिः।**
 
 **मनोह्वाचूर्णतोयेन सप्तकृत्वो विभाविता।**
@@ -5799,7 +5694,6 @@ Manas-shila is purified, if subjected to bhavana for seven times with the juice 
 ***Extraction of essence of manas-shila.* **
 
 Manas-shila discharges its essence, if heated strongly by means of a bellows, after having been rubbed with one eighth its weight of oxidised iron, gurh, guggulu, and ghee.
-
 
 **द्वितीयो विधिः।**
 
@@ -5835,7 +5729,6 @@ Manas-shila fails to produce any bad effect in one who takes cow’s milk with h
 
 **स्रोतोऽञ्जनं कुलत्थाख्यं पुष्पाञ्जनकमेव च॥**
 
-
 ***Anjana (stibnite, sulphide of lead, and other things,  
       mainly used as collyrium)***
 
@@ -5862,7 +5755,6 @@ This can be obtained in the beds of river, Suvira. It has the colour of smoke, i
 ***(2) Nilanjanam.***
 
 It is blue, heavy, soothing, beneficial to eye-sight, remover of the three doshas, destroyer of senile decay, killer of gold, and has the property of softening the metals,
-
 
 **(३) रसाञ्जनम्।**
 
@@ -5915,7 +5807,6 @@ It is cool, soothing, astringent, and sweet. It is efficacious in obesity, eye-d
 
 **काकणादि निहन्ति च कुम्भककामलापहम्॥**
 
-
 ***(5) Kulatthanjanam.***
 
 This is black in colour, astringent, pungent, cool, and is efficacious in eye-diseases, poison, boils, itches, and carbuncle. It also cures a kind of leprosy, called kakanam, and jaundice at a very advanced stage.
@@ -5944,7 +5835,6 @@ All the anjanas are purified, if subjected to bhavana with the juice of bhringar
 —————————————————————————————————————————  
 \* अग्रे कंकुष्ठस्य शोधनप्रणालीद्रष्टव्या।  
 \* See purification of kankustham on page 205.
-
 
 **द्वितीयो विधिः।**
 
@@ -5979,7 +5869,6 @@ All the anjanas are purified, if they are powdered, subjected to bhavana with li
 **मनोह्वासत्त्ववत् सत्त्वमञ्जनानां समाहरेत्।**
 
 **राजावर्त्तकवत् सत्त्वंग्राह्यं स्रोतोऽञ्जनादपि॥**
-
 
 ***Extraction of essence from anjanas.***
 
@@ -6039,7 +5928,6 @@ Kankustha is bitter, pungent, producer of hot effect on the system, and highly p
 
 Kankustha is purified, if subjected to bhavana for three times with the decoction of shunthi,  
 
-
 **द्वितीयो विधिः।**
 
 **सूर्य्यावर्त्तककदली बन्ध्या कोशातकी च सुरदाली।**
@@ -6070,11 +5958,9 @@ Kankustham is full of essence. It is therefore not necessary to extract an essen
 
 **कंकुष्ठविषनाशाय भूयोभूयः पिबेन्नरः॥**  
 
-
 ***How to take kankustham.***
 
 lf taken in doses of only one java (barley grain) a day, mixed with some thing which has the property of hardening the stools, kankustham removes all the mucus from the system by purgation. If taken with betel leaf, it causes death by over-purgation. To undo the evil effects of kankustham, it is necessary to drink over and over again the decoction of the root of a barbura (acacia) tree, mixed with an equal quantity of jeera and tankana.  
-
 
 **——————**
 
@@ -6129,7 +6015,6 @@ All sorts of essences of ores and metals are purified, and combine with one anot
 **घृताभावे प्रदातव्यं तृणराजस्य तैलकम्॥**
 
 Kampilla cures boils, skin diseases, and even carbuncles on the back bone, if it is mixed with cow’s ghee and applied as an ointment. In case of a carbuncle on the back bone, it is necessary, first of all to apply on it, for one day, a paste of bimbi leaves, slightly heated, and then to apply the ointment prepared by mixing powdered kampilla with cow’s ghee (or, preferably, goat’s ghee). In the absence of ghee, cocoanut oil may be used for this purpose.
-
 
 **अथ गौरीपाषाणः।**
 
@@ -6221,7 +6106,6 @@ Navasara or chulika salt is a kshara which is sometimes found to grow in karira 
 
 It helps the exhaustion of mercury and the melting of metals, increases appetite, cures gulma, enlargement of the spleen, and dryness of the mouth. It helps the digestion in the stomach of such heavy food as meat, etc. It is one of the constituents of what is called a vida and is a pacifier of the three doshas,  
 
-
 **(२)**
 
 **पटुः प्रवृत्तिशीलानां स्रावणः शोथहृद्धिमः।**
@@ -6264,12 +6148,9 @@ The cowrie shell which is yellowish in colour, having a knot and circle on the b
 
 **तदन्ये तु वराटाः स्युर्गुरवः श्लेष्मपित्तलाः।**
 
-
-
 ***Properties of cowry or marine shell.***
 
 It cures all sorts of colic, including that which is felt just at the time of digestion of food. It also cures chronic diarrhoea and phthisis. It is pungent, hot, increasing the power of digestion, nutritive, beneficial to the eye, and pacifier of an excess of vayu and kapha (phlegm). It is one of the best of the materials constituting what is called a vida, referred to in the exhaustion of mercury. The cowries which do not conform to the description given above are male cowries—they are not easily digested and give rise to an increase of phlegm and animal heat.  
-
 
 **अस्या शोधनम्।**
 
@@ -6333,7 +6214,6 @@ A big and wide-mouthed earthen pot is to be placed in a pit, made in a clean and
 
 **अशुद्धो गुणदो नैव शुद्ध एव गुणप्रदः॥**  
 
-
 ***Shankha (conch shell).***
 
 Shankha is of two kinds, viz, the dakshinavarta *i. e*., that which has got its involution from left to right, and the vamavarta *i.e.* that which has got it in an opposite direction. None but the virtuous can procure the former. The latter does not indicate good fortune in the owner. The home-stead which contains a conch of the former description is the abode of the goddess of fortune. Such a shell is a destroyer of an abnormal excess of the three doshas. It is pure and a wealth in itself. A conch shell, which is devoid of dirts, is moon-white in colour, and if duly purified, is commendable for medicinal purposes; otherwise not.
@@ -6355,7 +6235,6 @@ Shankha is purified, if boiled in a Dola Jantram with amlas, mixed with kanji.
 ***Incineration of shankha.***
 
 One palam of shankha, killed by being heated in a blind crucible is to be rubbed by means of a rod with half a masha of tankanam, and then used in medicines.  
-
 
 **अस्य गुणाः।**
 
@@ -7639,7 +7518,6 @@ Good copper is red as jaba flower; is soft and soothing, malleable, and free fro
 
 Copper is astringent, sweet and bitter, but sour and pungent, when digested in the stomach. It is a purgative. It pacifies pittam and phlegm, is cool, heals boils, carbuncles, etc., is light, and cures obesity; it also cures the following diseases:-anemia, udara, piles, fever, leprosy, cough, asthma, phthisis, pinasa, dyspepsia with acidity, dropsy, worms, colic, obesity, poison, and eye diseases.
 
-
 **शोधनमारणहीनताम्रस्य दोषः ।**
 
 **अशुद्धं न मृतं ताम्रं कान्त्यायुर्बलवीर्य्यहृत् ।**  
@@ -7716,7 +7594,6 @@ See process two page 242.
 ***Sixth process.***
 
   Copper leaves are to be heated and immersed in the juice of nirgundi, after having been smeared with the milks of snuhi and arka, salt, and kanji. The process is to be repeated for 12 times. The leaves are then to be smeared again with chalk, and salt, rubbed with butter milk, heated, and while still hot, to be immersed in the juice of nirgundi, rubbed with a sour vegetable juice. This last process is to be performed for six times. This is how copper is urified.
-
 
 **ताम्रस्य मारणम् ।**
 
@@ -7970,18 +7847,14 @@ Kalakuta poison-A highly poisonous tree having a black and round tuber, the very
 
 Kanji-See Glossary, vol. I.
 
-
 **Page 8.**  
 Triphala-See Glossary, Vol. I, and Appendix.  
-
 
 **Page 9**  
 Bhavana-See Glossary, vol. I.
 
-
 **Page 17.**  
 Panchamitram-See page 45.
-
 
 **Page 28.**  
 Prastha See page 311, vol. I.
@@ -8052,7 +7925,6 @@ Sauvarchala salt or usharaka-saltpetre (sora).
 
 **Page 70.**  
 **Takram-**butter milk
-
 
 **Page 74.**  
 **Kukkuta Putam**-see page 296, vol. I.
@@ -8165,9 +8037,7 @@ Laghu putam-an act of heating a putam (see footnote, page 294, vol. I.) by a lig
 
 **APPENDIX.**  
 
-
 List of plants referred to at the foot-note of Glossary in Vol. I.
-
 
 Prepared by
 
@@ -8230,13 +8100,9 @@ Prepared by
 
 [TABLE]
 
-
-
 **APPENDIX**
 
 [TABLE]
-
- 
 
 **APPENDIX**
 
@@ -8296,39 +8162,21 @@ Prepared by
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 **RASA-JALA-NIDHI,**
 
@@ -8401,57 +8249,4 @@ Alchemical Literature.
 
  The work, when completed, will no doubt prove to be the greatest and the most comprehensive treatise on Hindu Chemistry and alchemy...... The author is an eminent and successful physician, and most probably he has been able to earn a high reputation by prescribing the medicines described in the book under review. Physicians in general, we are sure, will be profited by a study of the book.
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -657,8 +657,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 \।\।
 
-
-
 अथ द्वितीयोऽध्यायः
 
 ॥
@@ -1026,10 +1024,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 ॥
 
 -------------------------------
-
-
-
-
 
 अथ
 
@@ -1421,10 +1415,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -------------------------------
 
-
-
-
-
 अथ चतुर्थोऽध्यायः
 
 ॥
@@ -1754,8 +1744,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 चतुर्थोऽध्यायः।
 
 ---------------------------
-
-
 
 अथ
 
@@ -2707,15 +2695,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ----------------------------------
 
-
-
-
-
 अथ षष्ठोऽध्यायः
 
 ॥
-
-
 
 मूधेन्
 
@@ -3443,17 +3425,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -------------------------------
 
-
-
-
-
 अथ
 
 सप्तमोऽध्यायः
 
 ॥
-
-
 
 परिवारालयलक्षणम्
 
@@ -3878,8 +3854,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 कारयेद्यदिभक्तितः
 
 \* \* \*
-
-
 
 माणिक्यं
 
@@ -4813,15 +4787,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
  -----------------------------
 
-
-
-
-
 अथाऽष्टमोऽध्यायः
 
 ॥
-
-
 
 पीठमानम्
 
@@ -7101,17 +7069,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 --------------------------
 
-
-
-
-
 अथ
 
 नवमोऽध्यायः
 
 ॥
-
-
 
 रज्जुबन्धनम्
 
@@ -8278,8 +8240,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 ॥
 
 --------------------------
-
-
 
 अथ
 
@@ -9847,15 +9807,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ------------------------------
 
-
-
-
-
 अथैकादशोऽध्यायः
 
 ॥
-
-
 
 भगवत्प्रतिष्ठाविधिः
 
@@ -11639,8 +11593,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 ॥
 
 **--------------------------------------**
-
-
 
 अथ
 
@@ -14512,17 +14464,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -------------------------
 
-
-
-
-
 अथ
 
 त्रयोदशोऽध्यायः
 
 ॥
-
-
 
 नवषट्पंचमूर्तिविधानम्
 
@@ -15976,17 +15922,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 --------------------------------
 
-
-
-
-
 अथ
 
 चतुर्दशोऽध्यायः
 
 ॥
-
-
 
 दशावतारकल्पः
 
@@ -17046,17 +16986,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ---------------------------------
 
-
-
-
-
 अथ
 
 पंचदशोऽध्यायः
 
 ॥
-
-
 
 दशाऽवतार
 
@@ -18526,19 +18460,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ------------------------------
 
-
-
-
-
-
-
 **अथ**
 
 षोडशोऽध्यायः
 
 ॥
-
-
 
 दशाऽवतारकल्पः
 
@@ -20786,17 +20712,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 --------------------------------
 
-
-
-
-
 अथ
 
 सप्तदशोऽध्यायः
 
 ॥
-
-
 
 अदिमूर्ति
 
@@ -22432,13 +22352,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -------------------------------
 
-
-
 अथाऽष्टादशोऽध्यायः
 
 ॥
-
-
 
 भगवदर्चनम्
 
@@ -28278,15 +28194,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -------------------------------
 
-
-
-
-
 अथैकोनविंशोऽध्यायः
 
 ॥
-
-
 
 भगवदर्चनम्
 
@@ -30274,17 +30184,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ------------------------------
 
-
-
-
-
 अथ
 
 विंशोऽध्यायः
 
 ॥
-
-
 
 रक्षादीपविधिः
 
@@ -31780,13 +31684,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ------------------------------
 
-
-
-
-
 अंथैकविंशोऽध्यायः।
-
-
 
 विशेषार्चनम्
 
@@ -31837,8 +31735,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 पूर्वरात्रौतु
 
 शाययेत्
-
-
 
 अथैकविंशोऽध्यायः
 
@@ -34392,17 +34288,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 --------------------------
 
-
-
-
-
 अथ
 
 द्वाविंशोऽध्यायः
 
 ॥
-
-
 
 स्नपनम्
 
@@ -37976,8 +37866,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 क्षीरे
 
-
-
 स्याद्रत्न
 
 तोयकम्
@@ -37994,23 +37882,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 169
 
-
-
 न्तु
 
 उपस्नानमेकं
 
 हारिद्र
 
-
-
 मध्यमोत्तमम्
 
 170
 
 उपस्नानवि
-
-
 
 माधमं
 
@@ -38023,8 +37905,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 विधीयते
 
 171
-
- 
 
 स्तथा
 
@@ -38042,8 +37922,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 मध्यमाधम
 
-
-
 विधीयते
 
 ॥ 173
@@ -38051,8 +37929,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 सप्तभिः
 
 कलशैः
-
-
 
 मध्यमं
 
@@ -38064,8 +37940,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 174
 
-
-
 धम
 
 मुच्यते
@@ -38074,15 +37948,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
  175
 
-
-
 गव्यं
 
 घृतं
 
 क्षीरमक्ष
-
-
 
 पस्नानं
 
@@ -38108,15 +37978,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 पूर्वोक्तेनैव
 
-
-
 कलशस्यचेत्
 
 ॥ 178
 
 दिक्षष्ट
-
-
 
 गव्यैस्तु
 
@@ -38125,8 +37991,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 घृतमि
 
  179
-
-
 
 म्येगन्धोदकं
 
@@ -38140,15 +38004,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 180
 
-
-
 सौम्ये
 
 जप्योदकं
 
 क्रमात्
-
-
 
 व्यस्तुसप्तभिः
 
@@ -38156,19 +38016,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 181
 
-
-
 चत्रिषट्योणस्थलं
-
-
 
 सप्तभिः
 
 कलशोक्तवत्
 
 182
-
-
 
 नवकोष्ठन्तु
 
@@ -38201,8 +38055,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 पश्चात्
 
  185
-
-
 
 ये
 
@@ -38246,15 +38098,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ---------------------------
 
-
-
-
-
 अथ त्रयोविंशोऽध्यायः
 
 ॥
-
-
 
 उत्सवचक्रम्
 
@@ -39388,17 +39234,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ------------------------------
 
-
-
-
-
 अथ
 
 चतुर्विंशोऽध्यायः
 
 ॥
-
-
 
 उत्सवः
 
@@ -42978,17 +42818,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -----------------------------
 
-
-
-
-
 अथ
 
 पंचविंशोऽध्यायः
 
 ॥
-
-
 
 उत्सवविधिः
 
@@ -48752,15 +48586,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
  ----------------------------------
 
-
-
-
-
 अथ
 
 षड्विंशोऽध्यायः।
-
-
 
 प्रायश्चित्तम्
 
@@ -52066,15 +51894,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ----------------------------
 
-
-
 अथ
 
 सप्तविंशोऽध्यायः
 
 ॥
-
-
 
 प्रायश्चित्तम्
 
@@ -60850,13 +60674,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -----------------------------
 
-
-
 अथाऽष्टाविंशोऽध्यायः
 
 ॥
-
-
 
 प्रायश्चित्तम्
 
@@ -64850,13 +64670,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 --------------------------------
 
-
-
 अथैकोनत्रिंशोऽध्यायः
 
 ॥
-
-
 
 प्रायश्चित्तम्
 
@@ -68900,13 +68716,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -------------------------------
 
-
-
 अथ त्रिंशोऽध्यायः
 
 ॥
-
-
 
 प्रायश्चित्तम्
 
@@ -72027,8 +71839,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ----------------------
 
-
-
 अथैक
 
 त्रिंशोऽध्यायः
@@ -74255,13 +74065,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -----------------------------
 
-
-
 अथ द्वात्रिंशोऽध्यायः
 
 ॥
-
-
 
 प्रकीर्णकम्
 
@@ -75918,8 +75724,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 यन्त्रः
 
 :-
-
-
 
 आदौ
 
@@ -77947,13 +77751,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -----------------------------
 
-
-
 अथ त्रयस्त्रिंशोऽध्यायः
 
 ॥
-
-
 
 अर्चावतारमहत्त्वम्
 
@@ -78661,15 +78461,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -----------------------------
 
-
-
-
-
 अथ
 
 चतुस्त्रिंशोऽध्यायः।
-
-
 
 स्वयंव्यक्तादि
 
@@ -80771,17 +80565,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ----------------------------
 
-
-
-
-
 अथ
 
 पंचत्रिंशोऽध्यायः
 
 ॥
-
-
 
 फलश्रुतिः
 
@@ -92702,15 +92490,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 -----------------------------
 
-
-
-
-
 अथ षट्त्रिंशोऽध्यायः
 
 ॥
-
-
 
 अपचाराः
 
@@ -105498,17 +105280,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 
 ---------------------------
 
-
-
-
-
 अथ
 
 सप्तत्रिंशोऽध्यायः
 
 ॥
-
-
 
 त्रियुगधर्म
 
@@ -109629,41 +109405,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjExOTM4MDAz
 ॥
 
 \* \* \* \* \* \* \* \* \*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

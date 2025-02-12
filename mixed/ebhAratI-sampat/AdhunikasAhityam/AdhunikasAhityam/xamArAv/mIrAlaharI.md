@@ -16,15 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMDE0NDc3MjU
 
 \[
 
-
-
-
-
 **॥मीरालहरी॥**
-
-
-
-
 
 ![](../../../books_images/U-IMG-169667930607-10-2023.png)
 
@@ -32,13 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMDE0NDc3MjU
 
 **सौ. क्षमा राव**
 
-
-
-
-
 [TABLE]
-
-
 
 " ग्रन्थार्पणम् "
 
@@ -102,9 +88,6 @@ so rapt in meditation of Girdhara and of Gopal, so lost to all worldly desires, 
 the comforts of a palace and the hardships of thefores t; dainty morsels in plates of gold and the almsdropped in a begging bowl, a feather bed and theroadside stones. But to a person of determinationmountains of hardship are mere straws).  
  These verses show the grace of style, the eleganceof expression, the command over metrical form, thevividness of imagination, the sympathetic understanding of Mira's character which are the distinguishingfeatures of this truly remarkable book.
 
-
-
-
     Allahabad                          
               AMARANATHA JHA.  
     *April 3, 1944*
@@ -140,8 +123,6 @@ the comforts of a palace and the hardships of thefores t; dainty morsels in plat
 मूर्तिः किं कनकद्रवोपखचिता तस्याः कुतो विभ्रमा  
 इत्येनामवलोक्य कौतुकवशश्चक्रे विकल्पाञ्जनः ॥३॥
 
-
-
 **बालेन्दुरिति।** एनां मीरामालोक्य जनो लोकः कौतुकवशः कुतूहलाविष्टो विकल्पान् वितर्कांश्चक्रे। तद्यथा —अयं बालेन्दुः किं स्यादिति विकल्पः। तत्कान्तिर्बालेन्दोः कान्तिर्दिवा दिवसे एतादृशी न विभाति, तस्मादयं बालेन्दुर्नेति निश्चयः। अथ द्वितीयो विकल्पः —इयं कैरविणी श्वेतोत्पललता किं स्यादिति।सा तु निशि परं रजन्यामेव हि यस्मात्संहासिनी विकासशालिनी जागर्ति शोभते। तस्मात्कैरविणी नेति निश्चयः। अथ तृतीयो विकल्पः —इयं कनकद्रवेण सुवर्णरसेन खचिता उपलिप्ता मूर्तिः किं स्यादिति। तस्या अचेतनाया मूर्तेर्विभ्रमाश्चेतनसहजा विलासाः कुतः। न संभाव्यन्ते इत्यर्थः। अत एवेयं कनकमूर्तिर्नेति निश्चयः। संशयस्तावदनिरस्त एव तिष्ठतीति निश्चयगर्भोऽयं ससंदेहालङ्कारस्तेन च मीराया निरुपमा सौन्दर्यसम्पत्तिर्व्यज्यते॥३॥
 
 तत्र क्षत्रियनीतिधर्मपरमः पुत्रानिव स्वप्रजाः  
@@ -156,8 +137,6 @@ the comforts of a palace and the hardships of thefores t; dainty morsels in plat
 बालालोकत बालमित्रसहिता प्रासादवातायनात्।  
 यात्रां मङ्गलवाद्यमञ्जुलरवां हस्तप्रदीपोज्वलां  
 रात्रौ राजपथे सुवर्णशिबिकामावार्य मन्दं यतीम्॥५॥
-
- 
 
 **भावीति।** एकदा रात्रौ बाला यात्रामालोकतेति वाक्यार्थः। कीदृशी बाला। भाविप्रौढिमचिह्नमुद्रितमुखी भाविनः उत्तरस्मिन् काले व्यक्तिमाप्स्यतः प्रौढिम्नः महत्त्वस्य चिह्नैःलक्षणैः मुद्रितम् अङ्कितम् मुखं यस्याः सा। पञ्चाब्दकल्पा पञ्चवर्षदेशीया बालमित्रसहिता च। क्व स्थित्वा आलोकत —प्रासादवातायनात् राजगृहगवाक्षात्। कीदृशीं यात्रामू —मङ्गलवाद्यमञ्जुलरवां मङ्गलवाद्यैर्मञ्जुलो मनोहरो रवः ध्वनिः यस्यां सा।
 
@@ -198,8 +177,6 @@ the comforts of a palace and the hardships of thefores t; dainty morsels in plat
 गानैर्नर्तनकीर्तनैश्च मधुरैः कण्ठोऽम्ब मे कर्कशः।  
 गान्धर्वं परिशिक्ष्यसे त्वमचिराज्जानामि नाप्यक्षरम्  
 तच्चिन्तां विजहीहि पण्डितवराः शिक्षां विधास्यन्ति ते॥१०॥
-
- 
 
 सत्कार इति।
 
@@ -574,7 +551,6 @@ the comforts of a palace and the hardships of thefores t; dainty morsels in plat
 जातीचम्पकमल्लिकादिसुमनःसम्भारसम्भूषितम्।  
 शुभ्रप्रच्छदहंसतूलशयनं रत्नप्रभाभास्वरं
 
-  
 शय्यागारमभात् क्षणाद्रतिपतेः क्रीडानिकुञ्जोपमम्॥५६॥
 
 ** मानेति।** तत्परिष्करणं वर्णयति—शय्यागारं क्षणादचिरेणैव रविपतेः मदनस्य कीड़ानिकुञ्जोपमं केलिलताभवनसदृशम् अभात् प्रचकाशे। कीदृशम्। नानादिव्यसुगन्धिवस्तुभरितं विविधैर्लोकोत्तरैः शोभनगंधयुक्तैः वस्तुभिः पूर्णम्। पुनः कीदृशम्।चित्रैर्वितानैर्नानावर्णरञ्जितैः उपरितनावरणैर्वृतम्। पुनः कीदृशम्।जातीचम्पकमल्लिकादिसुमनःसंभारसंभूषितम्। जातीचम्पकमल्लिकादीनां सुमनसां पुष्पाणां संभारेण भूषितं सम्यगलङ्कृतम्। पुनः कीदृशम्। शुभ्रप्रच्छदहंसतूलशयनं शुभ्रो धवलः प्रच्छदः शय्यातलपटः यस्य तत् तादृशं हंसानां तूलैः कार्पासैः निर्मितं शयनं यस्मिन् तत्। किं च। रत्नप्रभाभास्वरं रत्नानां विविधमणीनां कान्तिभिरुज्ज्वलम्। उपमालंकारः ॥५६॥
@@ -862,8 +838,6 @@ the comforts of a palace and the hardships of thefores t; dainty morsels in plat
 **  तावदिति।** तावच्च अत्रान्तरे श्रीकृष्णदेवालयाद् गुरुतरः तारतरः घण्टाशङ्खमृदंगवाद्यैः मधुरः सन्ध्यार्चनासूचकः डिण्डिमः वाद्यविशेषध्वनिः श्रुतिमागमत् आकर्णितोऽभूत् । तेन घोषेण ज्ञापितदैनिकापि ज्ञापितं प्रतिबोधितं दैनिकं सायंतननित्यक्रियासमयो यस्याः सा प्रदोषपूजाकालः प्राप्त इति ज्ञात्वापीति भावः। सलिले निर्वाणमेवमरणमेव इच्छती इच्छन्ती।मरणस्य निर्वाणशब्देनोप-लक्षणम्। अपमानितजीवनात्मरणमेव श्रेय इति ध्वन्यते। उज्झंपेन उत्पतनेन सह वर्तते इति सोज्झम्पा सोत्पतनाअभवद् उत्पतिताभूद् इत्यर्थः। किंतु अंजसा तत्क्षणमेव सा अदृश्येन नेत्रयोरगोचरेणकेनापि अचिन्त्यमहिम्नेत्यर्थः विधृता पतनाद् निवार्य भूमौ स्थापिताभूत्॥९१॥
 
 ॥इति सौ० क्षमायाः कृतिषु सव्याख्यायां मीरालहर्यां पूर्वखण्डः॥
-
-
 
 ![](../../../books_images/U-IMG-1697089503Untitled1.png)
 
@@ -1581,6 +1555,5 @@ Presence, the delight of the moon would sink into nothing,although the latter be
  43) Now she had grown old. It was a Holy day offestive illumination. The whole of Vrindavana had been decorated with masses of lovely flower garlands of heavenlyperfume. Mira was at her *puja*. The greatest devoteessurrounded her. At the end of her prayers, came in duecourse, the sacred hour which she had looked forward to sinceher birth and which she deserved by meritorious deeds.  
  44) And as she was dancing in that sacred place whichsurpassed the splendour of swarga, Gandharwas descended fromHeaven to accompany her on their *veenas*. Her complexion ooking unusually fair with a halo around her head, she lookeddazzling with a lotus in her hand.  
   Then ! Lo ! In the midst of her dance she left thesurface of the earth and vanished into the sky and becameone with Lord Krishna.
-
 
 \]

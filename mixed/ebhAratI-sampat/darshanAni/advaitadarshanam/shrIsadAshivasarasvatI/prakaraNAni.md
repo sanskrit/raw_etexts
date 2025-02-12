@@ -14,25 +14,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMjI5NTIzNzQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **विषयाः॥  
 \_\_\_\_\_\_**
@@ -50,13 +34,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyMjI5NTIzNzQ
 | आत्मविद्याविलासः         |
 |       "            |
 
-
-
 **PREFACE.**
 
  While printing the Advaita Volume of the Descriptive catalogue of the Sanskrit Manuscripts in the Tanjore Palace Library we came across several Mss. of works attributed to Sri Sadasiva Brahmendra. Among them was found in one of the Mss. of Atmavidyavilasa the following letter written by a Pandit of the Tanjore Court to the then Maharaja of Tanjore, Sarabhoji I (1711— 1729) and as it is of historical interest, it is printad here in full. The writer says that he personally met Sri Sadasiva Brahmendra at Dipambapuram in the Tanjore Dt. and begged of him to bless his patron, the King Sarabhoji, with a son. The great Saint whom the writer regarded as Brahman personified showed by signs that the King would be blessed with a son ere long and presented him (the writer) with the work Atmavidyavilasa composed by him. The writer then offered the sage three Bhikshas on behalf of the Maharaja and by the blessings of this great Yogi the Maharaja got a son soon after, testifying thereby to the maxim that the words of the Great never go in vain. This
-
-
 
 Manuscript of Atmavidyavilasa and this letter written at the end of it are now preserved in the Tanjore Palace Library.
 
@@ -79,8 +59,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **सदाशिवब्रह्मरूपं ब्रह्माद्राक्षं चिरेप्सितम्।  
 प्रणम्य प्रार्थितास्ते हि महाराजकृते मया ॥**
-
-
 
 **पुत्रोत्पत्तौ झटित्यत्र प्रसादः क्रियतामिति।  
 संज्ञया सूचयन् पुत्रो भविता ह्यचिरादिति॥**
@@ -106,8 +84,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **ग्रामोपकण्ठे वासार्थं तेषां हि शिवसन्निधौ।  
 निर्मातव्यो मठः कश्चिदित्येवं निश्चितं मया॥**
 
-
-
 **भवतामाज्ञया तत्रजायते मठनिर्मितिः ।  
 इदं च भवतां सर्वं श्रेयसे प्रार्थ्यते मया॥।**
 
@@ -126,8 +102,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
         T. K. B.**
 
 **~~         ~~**
-
-
 
 ![॑#](../books_images/U-IMG-1734796214Screenshot2024-12-21211940.png)
 
@@ -150,8 +124,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 प्रणतहृदम्बुजसूर्यं  
  परमशिवार्यं प्रणौमि गुरुवर्यम्॥३॥**
 
-
-
 **यत्करुणानीरनिधे-  
  र्निर्मलविद्यामयो मणिर्लब्धः।  
 तं देशिकवरमन्तः  
@@ -172,8 +144,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 वरकरुणाभरजलधिं  
  परमशिवेन्द्रं धियां निधिं वन्दे॥७॥**
 
-
-
 **शमितान्तरसंतमसं  
  विरचितविज्ञानकैरवोल्लासम्।  
 कलये परमशिवेन्द्रं  
@@ -193,8 +163,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **~~       ~~**
 
-
-
 **आत्मानुसंधानम्॥**
 
 **![\#](../books_images/U-IMG-1734797102Screenshot2024-12-21213452.png)**
@@ -213,8 +181,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **अशब्दोऽहमरूपोऽहमस्पर्शोऽस्म्यहमव्ययः।  
 अरसोऽहमगन्धोऽहमनादिरमृतोऽस्म्यहम्॥५॥**
-
-
 
 **अक्षरोऽहमलिङ्गोऽहमजरोऽस्म्यकलोऽस्म्यहम्।  
 अप्राणोऽहममूर्तोऽहमचिन्त्योऽस्म्यकृतोऽस्म्यहम्॥६॥**
@@ -237,8 +203,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **अद्वयानन्दविज्ञानघनोऽस्म्यहमविक्रियः।  
 अनिच्छोऽहमलेपोऽहमकर्तास्म्यहमक्षयः॥१२॥**
 
-
-
 **अविद्याकार्यहीनोऽहमवाङ्मनसगोचरः।  
 अनल्पोऽहमशोकोऽहमविकल्पोऽस्म्यतिज्वलन्॥१३॥**
 
@@ -259,8 +223,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **तमसः साक्ष्यहं तुर्यात्तुर्योऽहं तमसः परः।  
 दिव्यो देवोऽस्मि दुर्दर्शो द्रष्टा ध्येयो ध्रुवोऽस्म्यहम्॥**
-
-
 
 **नित्योऽहं निरवद्योऽहं निष्क्रियोऽस्मि निरञ्जनः।  
 निर्मलोनिर्विकल्पोऽहं निराख्यातोऽस्मि निश्चलः॥**
@@ -283,8 +245,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **विमुक्तोऽहं विभुरहं वरेण्यो व्यापकोऽस्म्यहम्।  
 वैश्वानरो वासुदेवो विश्वतश्चक्षुरस्म्यहम्॥२६॥**
 
-
-
 **विश्वाधिकोऽहं विशदो विष्णुर्विश्वकृदस्म्यहम्।  
 शुद्धोऽस्मि शुक्रः शान्तोऽहं शाश्वतोऽस्मि शिवोऽस्म्यहम्॥**
 
@@ -306,8 +266,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **सत्यस्वरूपः सन्मात्रः सिद्धः सर्वात्मकोऽस्म्यहम्।  
 सर्वाधिष्ठानसन्मात्रस्वात्मा बन्धहरोऽस्म्यहम्॥३३॥**
 
-
-
 **सर्वग्रासोऽस्म्यहं सर्वद्रष्टा सर्वानुभूरहम्।  
 स्वतन्त्रोऽस्मि सुविस्पष्टः सुविभातोऽस्म्यहं हरिः॥**
 
@@ -320,8 +278,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **इत्यात्मानुसंधानं समाप्तम्॥**
 
 ***      ***
-
-
 
 **स्वप्नोदितम्॥**
 
@@ -341,8 +297,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **देशिकानुग्रहोदारवेत्रोदस्तमनोग्रहः।  
 विजानामि जगत्सर्वमात्ममात्रतयाधुना॥५॥**
-
-
 
 **देशिकानुग्रहोदारतरणिप्रसरोद्भवे।  
 स्वानन्दैकरवंवीक्षेसमुल्लसितमद्भुतम्॥६॥**
@@ -365,8 +319,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **देशिकानुग्रहोदारपीताम्बरधरस्य मे।  
 शीततापादिभिर्दुःखं कथं संघीभविष्यति॥१२॥**
 
-
-
 **देशिकानुग्रहोदारसाम्राज्याधिपतेर्मम।  
 अशेषमभवद्वश्यमतः किमविशेषतः॥१३॥**
 
@@ -388,8 +340,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **देशिकेन्द्रकृपाचन्द्रनिरस्तान्तस्तमस्ततिः।  
 किमप्यहं न पश्यामि किमाश्चर्यमभूदिह॥१९॥**
 
-
-
 **देशिकेन्द्रकृपाचन्द्रप्रफुल्लानन्दकैरवम्।  
 आघ्रायाघ्राय हृष्यामि स्वात्मन्येव मुहुर्मुहुः॥२०॥**
 
@@ -404,8 +354,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **॥हरिःॐ॥  
 ~~      ~~**
-
-
 
 **स्वानुभूतिप्रकाशिका॥**
 
@@ -426,8 +374,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 अस्तमिताहन्तोऽहं  
  निस्तुलदृग्रूपवस्तुमात्रोऽहम्॥३॥**
 
-
-
 **साक्ष्यहमनपेक्षोऽहं  
  पक्षविपक्षादिभेदविधुरोऽहम्।  
 सूक्ष्मोऽहमक्षरोऽहं  
@@ -447,8 +393,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
  बुद्धो मुक्तोऽहमद्भुतात्माहम्।  
 शोधितपरतत्त्वोऽहं  
  बोधानन्दैकमूर्तिरेवाहम्॥७॥**
-
-
 
 **शान्तोऽहमान्तरोऽहं  
  संततभावोऽहमन्तकारोऽहम्।  
@@ -472,8 +416,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **\_\_\_\_\_\_\_\_\_**
 
-
-
 **श्रीदक्षिणामूर्तिध्यानम्॥।**
 
 **![\#](../books_images/U-IMG-1734800178Screenshot2024-12-21222602.png)**
@@ -494,8 +436,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **शुक्तिकाकारसंकाशकर्णद्वन्द्वपुटोज्ज्वलम्।  
 मणिदर्पणदर्पघ्नकपोलफलकप्रभम्॥५॥**
-
-
 
 **नवचम्पकपुष्पाभनासादण्डविराजितम्।  
 दरहासलसन्मुग्धमुखोन्निद्रसरोरुहम्॥६॥**
@@ -518,8 +458,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **गूढगुल्फारुणनखव्रातदीधितिशोभितम्।  
 दशाङ्गुलीदलोदारपदद्वन्द्वसरोरुहम्॥१२॥**
 
-
-
 **दक्षिणोरूपरिन्यस्तसव्यपादाम्बुसंभवम्।  
 अपसव्यपदाम्भोजभञ्जितापस्मरं परम्॥१३॥**
 
@@ -540,8 +478,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **कंजासनमहेन्द्रादिकलिताङ्घ्रिसरोरुहम्।  
 देवकिंनरगन्धर्वसंस्तुतोदारवैभवम्॥१९॥**
-
-
 
 **सकृत्प्रपन्नलोकौघसरोरुहदिवाकरम्।  
 संसाराशीविषालीढमृतसंजीवनौषधम्॥२०॥**
@@ -564,8 +500,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **पालिताखिलभक्तौघं वेलातीतगुणार्णवम्।  
 भृङ्गावलीकालकण्ठं मङ्गलाधारमद्भुतम्॥२६॥**
 
-
-
 **गङ्गाधरं वृषारूढं संगीतरसशेवधिम्।  
 भस्मोद्धूलितसर्वाङ्गं भवरोगभिषग्वरम्॥२७॥**
 
@@ -586,8 +520,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **निःसीमपरमानन्दनिजधामनि संस्थितम्।  
 निगमान्तैकसंसिद्धशुद्धविद्यैकगोचरम्॥३३॥**
-
-
 
 **अविद्याकार्यनिर्मुक्तमवाङ्मनसगोचरम्।  
 अद्वयानन्दविज्ञानघनं परमपावनम्॥३४॥**
@@ -610,8 +542,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **इति श्रीदक्षिणामूर्तिध्यानं परमपावनम्।  
 पुत्रपौत्रायुरारोग्यमहासंपत्प्रदायकम्॥४०॥**
 
-
-
 **चतुःषष्टिकलाविद्याप्रदं पापप्रणाशनम्।  
 अणिमादिमहासिद्धिविधानचतुरं शुभम्॥४१॥**
 
@@ -632,8 +562,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **इति दक्षिणामूर्तिध्यानं सम्पूर्णम्॥  
 ~~         ~~**
 
-
-
 **मनोनियमनम्॥**
 
 ![\#](../books_images/U-IMG-1734801794Screenshot2024-12-21225304.png)
@@ -652,8 +580,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
  मचलवदचलं प्रतीत्य किल कायम्।  
 मुह्यसिशिवपदविमुखं  
  शिवशिवसुमचापचापलैश्चेतः॥३॥**
-
-
 
 **यातं दिनमिदमेवं  
  श्वः किल भविता सुमेरुरपि हस्ते।  
@@ -675,8 +601,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 आस्तामयि भवतरणं  
  लघु तवकरणं मनः शिवस्मरणम्॥७॥**
 
-
-
 **परयुवतिदीपिकाया-  
  मप्रतिरूपं निरीक्ष्य बत रूपम्।  
 मोहान्निपत्य चेतः-  
@@ -697,8 +621,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 भजसे कृपणं नृपशुं  
  दुःसेव्यं हा कथं चेतः॥११॥**
 
-
-
 **आ प्रातरादिनान्ता-  
   दा च दिनान्तात्पुनश्चिदा प्रातः।  
 व्यापारान्तरहायं  
@@ -710,8 +632,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   धन्यं भजस्व सततं तरुणेन्दुचूडम्॥**
 
 **\_\_\_\_\_\_\_\_\_**
-
-
 
    **नववर्णरत्नमाला॥**  
 ![](../books_images/U-IMG-1735138060Untitled2.png)
@@ -730,8 +650,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   वागीशाद्यैकवन्दिताङ्घ्रियुगम्।  
 भोगीशभूषिताङ्गं  
   भागीकृतसर्वमङ्गलं नौमि॥३॥**
-
-
 
 **नगराजशिखरवासिन-  
  मगजामुखकुमुदकौमुदीनिकरम्।  
@@ -753,8 +671,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 तं नौमि पार्वतीशं  
  पन्नगवरभूषणोज्ज्वलकराब्जम्॥**
 
-
-
 **शिशिरारुणकंजदृशं  
   शशिभूषणमेकमगसुताजानिम्।  
 पशुपाशपाटनपटुं  
@@ -775,8 +691,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 सदयं साम्बशिवं तं  
  मदनान्तकमादिदैवतं नौमि॥११॥**
 
-
-
 **सौस्नातिकममृतजलैः  
  सुस्मितवदनेन्दुसमुदितादेगन्तम्।  
 संस्तुतममरगणैस्तं  
@@ -791,8 +705,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
    नववर्णरत्नमाला संपूर्णा॥**
 
 **\_\_\_\_\_\_\_\_**
-
-
 
 **आत्मविद्याविलासः॥  
 ![](../books_images/U-IMG-1735138609Untitled3.png)**
@@ -811,8 +723,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   निपतितजनतारणस्फुरन्नौकाम्।  
 परमतभेदनघुटिकां  
   परमशिवेन्द्रार्यपादुकां नौमि॥२॥**
-
-
 
 **देशिकपरमशिवेन्द्रा-  
   देशवशोद्बुद्धदिव्यमहिमाहम्।  
@@ -834,8 +744,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 देशिकवचःप्रबुद्धो  
   दीव्यत्यानन्दवारिधौ कोऽपि॥६॥**
 
-
-
 **प्राकृतभावमपास्य  
   स्वीकृतनिजरूपसच्चिदानन्दः।  
 गुरुवरकरुणापाङ्गा-  
@@ -855,8 +763,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   रविकरसमपोहितान्तरध्वान्तः।  
 विहरन्मस्करिवर्यो  
   निरवधिकानन्दनीरधावास्ते॥१०॥**
-
-
 
 **जनिविपरीतक्रमतो  
   बुद्ध्या प्रविलाप्य पञ्च भूतानि।  
@@ -878,8 +784,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 विहरति बालवदेको  
  विमलसुखाम्भोनिधौ मग्नः॥१४॥**
 
-
-
 **अवधूतकर्मजालो  
   जडबधिरान्धोपमः कोऽपि।  
 आत्मारामोयतिरा-  
@@ -899,8 +803,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   चन्द्रे तीक्ष्णेऽप्यधो वहत्यग्नौ।  
 मायिकमिदमिति जानन्  
   जीवन्मुक्तो न विस्मयी भवति॥१८॥**
-
-
 
 **अज्ञानवैरिविजयी  
   प्रज्ञामातङ्गमस्तकारूढः।  
@@ -922,8 +824,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 न्यक्कृतकार्यकलाप-  
   स्तिष्ठत्यापूर्णसीमनि क्वापि॥२२॥**
 
-
-
 **चपलं मनःकुरङ्गं  
   चारु गृहीत्वा विमर्शवागुरया।  
 निगमारण्यविहार-  
@@ -943,8 +843,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   मज्ञानध्वान्तकौमुदीप्रज्ञः।  
 शुद्धोमुनीन्द्रचन्द्रः  
   सुरसेव्ये लसति विष्णुपदे॥२६॥**
-
-
 
 **स्वानन्दामृतसेकै-  
   रान्तरसंतापसंततिं शमयन्।  
@@ -966,8 +864,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 वरसरसि चिन्मयेऽस्मि -  
   न्परहंसः कोऽपि दीव्यति स्वैरम्॥३०॥**
 
-
-
 **निखिलागमपल्लविते  
   निगमशिरस्तन्त्रशीतलोद्याने।  
 मधुरतरमञ्जुवाचः  
@@ -987,8 +883,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   नामादिभ्यो निवर्तितस्वान्तः।  
 तटिनीतटेषु तत्त्वं  
   ध्यायन्नास्ते यतिः कोऽपि॥३४॥**
-
-
 
 **आशावसनो मौनी  
   नैराश्यालंकृतिः शान्तः।  
@@ -1010,8 +904,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 मन्दं मलयजपवने  
   वाति प्रस्वपिति कोऽपि यतिराजः॥३८॥**
 
-
-
 **आन्तरमेकं किंचि-  
   त्सन्ततमनुसंदधन्महामौनी।  
 करपुटभिक्षामश्न-  
@@ -1031,8 +923,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   संव्यवहारं च सर्वतस्त्यक्त्वा।  
 आश्रित्य पूर्णपदवी-  
   मास्ते निष्कम्पदीपवद्योगी॥४२॥**
-
-
 
 **तृणपङ्कचर्चिताङ्ग-  
   स्तृणमिवविश्वं विलोकयन्योगी।  
@@ -1054,8 +944,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 प्रस्वपिति विरतिवनितां  
  परिरभ्यानन्दपरवशः कोऽपि॥४६॥**
 
-
-
 **गतभेदवासनाभिः  
   स्वप्नज्ञोदारवारनारीभिः।  
 रमते सह यतिराज-  
@@ -1075,8 +963,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   गुणबुद्ध्या वा न किंचिदादत्ते।  
 आविद्यकमखिलमिति  
   ज्ञात्वोदास्ते मुनिः कोऽपि॥५०॥**
-
-
 
 **भूतं किमपि न मनुते  
   भावि च किंचिन्न चिन्तयत्यन्तः।  
@@ -1098,8 +984,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 आस्ते भिक्षुक एको  
   विहरन्निर्मुक्तबन्धनः स्वैरम्॥५४॥**
 
-
-
 **वस्तुन्यस्तमिताखिल-  
   विश्ववहारे विलीनमनाः।  
 स्रजति परानपेक्षो  
@@ -1119,8 +1003,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
  कर्म प्रारब्धमुपभुज्य।  
 प्रविगलितदेहबन्धः  
   प्राज्ञो ब्रह्मैव केवलं भवति॥५८॥**
-
-
 
 **स्तिमितमनन्तमनाख्यं  
    व्रतमतुलानन्दबोधघनम्।  
@@ -1142,8 +1024,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 निरुपमनिर्भयतत्त्वं  
   तत्किमपि द्योतते नित्यम्॥६२॥**
 
-
-
 **इति गुरुकरुणापाङ्गा-  
   दार्याभिर्द्व्यधिकषष्टिसंख्याभिः।  
 निरवद्याभिरवोचं  
@@ -1153,7 +1033,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   विलासमनुवासरं स्मरन्विबुधः।  
 परिणतपरात्मविद्यः  
   प्रपद्यते सपदि परमार्थम्॥**
-
 
 **परमशिवेन्द्रश्रीगुरु-  
   शिष्येणेत्थं सदाशिवेन्द्रेण।  
@@ -1165,8 +1044,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 विरचितः आत्मविद्याविलासः समाप्तः॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **आत्मविद्याविलासः॥**
 
@@ -1186,8 +1063,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   लोकं समस्तमपि योजयितुं सुखेन।  
 तस्माच्छ्रुतेरभिहितार्थमतन्द्रितेन  
   चित्तेन साधयितुमत्र जना यतेध्वम्॥३॥**
-
-
 
 **आदाविदं सकलमेव जगत्सदासी-  
   त्कुम्भादिवत्तदनु शक्तियुतात्परस्मात्।  
@@ -1209,8 +1084,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 स्वर्गादिभोगगमनागमनातिखिन्नो  
   लूतावदेष भवमभ्यगमच्चिदात्मा॥७॥**
 
-
-
 **मायायुतस्त्वगमदीश्वरतां चिदात्मा  
   चाविद्यया युगभवद्भृतजीवभाव।  
 माया भवेद्विमलसत्त्वगुणप्रधाना  
@@ -1230,8 +1103,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   तापत्त्रयौघदहने सहजारिनक्रे।  
 मोहाम्भसि प्रचलदुद्भवमृत्युभङ्गे  
   वीक्ष्यान्तरस्मि पतितं जगदद्य भीतः॥११॥**
-
-
 
 **मातुः स्थितस्य जठरे वचसां च दूरं  
   दुःखं पुनर्जननकालभवं दुरूह्यम्।  
@@ -1253,8 +1124,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 श्रुत्वा तु शिष्यवचनं रमणीयमित्थं  
   प्रत्युत्तरं गुरुरदात्कृतमन्दहासः॥१५॥**
 
-
-
 **देहेन्द्रियासुहृदयादिकचैत्यवर्गा-  
   त्प्रत्यक्चितेर्विभजनं भववारिराशेः।  
 संतारणे प्लव इति श्रुतिडिण्डिमोऽयं  
@@ -1274,8 +1143,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   प्रत्यक्चितिं च निजरूपतया विदित्वा।  
 देहेन्द्रियाद्यखिलसाक्ष्यहमित्यजत्रं  
   संचिन्तय व्यपगताखिलसंशयः सन्॥१९॥**
-
-
 
 **देहादिकं जगदसज्जडदुःखरूपं  
   मय्यद्वितीयनिजबोधसदादिरूपे।  
@@ -1297,8 +1164,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 स्वाध्यस्तसर्वजननादिविकारसाक्षि-  
   ण्येषा हि संविदिति चिन्तय संततं त्वम्॥२३॥**
 
-
-
 **मच्छेषतां समवलम्ब्य सुतादिसर्वं  
   येन प्रियं भवति तेन सुखस्वरूपः।  
 देहेन्द्रियादिविषयप्रलयैकसाक्षी  
@@ -1318,8 +1183,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
    र्ज्ञानाग्निदग्धसहकारणजन्मबीजः।  
 आविर्भवन्निजसुखानुभवैकतृप्तो  
    ब्रह्मैव नूनमिह संभवसि ध्रुवं त्वम्॥२७॥**
-
-
 
 **इत्थं गिरा विमलया परसौख्यदात्र्या  
    वाचा गुरोर्विमथिताखिलसंशयौघः।  
@@ -1341,8 +1204,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 निर्व्याजसौख्यजलधौ परिदृश्यमानं  
   फेनादिकं जगदिति स्थिरनिश्चयो मे॥३१॥**
 
-
-
 **मायाभिधो जलधरो जगदाख्यमम्बु  
   वर्षत्वनेन मम चिद्वपुषः क्षतिः का।  
 लाभोऽपि वा क इति संततमात्मरूपं  
@@ -1363,8 +1224,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 स्वान्गोचरान्प्रति ममास्ति न साक्षितापि  
   सा साक्ष्यभेदकलिता खलु सोऽप्यसत्यः॥३५॥**
 
-
-
 **भेदोऽपि साक्ष्यगत एव न साक्षिणो मे  
    भेदस्य साक्षिणि कथं प्रभवेत्स भेदः।  
 भेदो न सुप्तिसमयेऽनुपलम्भनाच्च  
@@ -1384,8 +1243,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
   यच्च ध्वनिभ्रमवतः सविशेषबोधात्।  
 तस्मिन्भ्रमेविमथितेऽपि तथैव भाति  
   दिग्वत्यथो मम च तद्वदतो न सत्तत्॥३९॥**
-
-
 
 **भूमिं जले तदपि तेजसि तच्च वायौ  
    तं व्योम्नि तत्त्रिगुणया सह मय्यनन्ते।  
@@ -1412,40 +1269,20 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **  \_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **Sastra Booklets.**
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
 
 **      SRI VANI VILAS PRESS,  
                                   
 SRIRANGAM.**
 
 ![](../books_images/U-IMG-1734974670Screenshot2024-12-23225407.png)
-
-
-
-
-
-
-
-
-
-
-
 
 \]

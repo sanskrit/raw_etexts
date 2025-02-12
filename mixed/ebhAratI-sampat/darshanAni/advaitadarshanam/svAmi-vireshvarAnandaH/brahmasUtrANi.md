@@ -16,21 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MTAxMjU5Njg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 *Published by*
 
@@ -38,8 +24,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MTAxMjU5Njg
 
 ADVAITA ASHRAMA  
 Mayavati, Almora
-
-
 
 *PRINTED BY*
 
@@ -49,24 +33,17 @@ Mayavati, Almora
 **20, BRITISH INDIAN STREET**  
 **CALCUTTA, (INDIA)**
 
-
-
 **PREFACE**
 
  Some centres of the Ramakrishna Order havefor some years past been bringing out importantscriptures of the Hindus with text, word for wordbendering, running translation and notes based onauthoritative commentaries, in order to make themaccesible to the English-knowing public whoseknowledge of Sanskrit is limited. The BhagavadGitâ by Swami Swarupananda published by theAdvaita Âshrama, Mayavati, and eight majorUpanishads by Swami Sharvananda published bythe Ramakrishna Math, Madras, have alreadybecome popular. An edition of the Brahma-Sutrason similar lines was over-due. The present work isintended to fulfil this want and to complete in thisseries the Prasthânatraya according to the interpretations of Sankara. The word for word translationis very literal, but the running translation is madeas literal as possible consistent with easy reading.In some places the translation of quotations fromthe Upanishads are taken from Max Müller's editionof the Upanishads and the quotations of the SriBhâshya from Dr. Thibaut's edition of the book(Sacred Books of the East Series), both with slightadaptations.
 
-
-
  It is hoped the volume will be a fitting companion to the other Sanskrit works published bythe Ramakrishna Order.
 
-                                  
 ** S.V.**
 
 **ADVAITA ASHRAMA  
 MAYAVATI, HIMALAYAS  
 *November 25, 1936***
-
-
 
 **CONTENTS**
 
@@ -90,8 +67,6 @@ MAYAVATI, HIMALAYAS
 | Section III                |
 | Section IV                 |
 
-
-
 |                |
 |:--------------:|
 | **CHAPTER IV** |
@@ -100,8 +75,6 @@ MAYAVATI, HIMALAYAS
 |  Section III   |
 |   Section IV   |
 |     Index      |
-
-
 
 **LIST OF ABBREVIATIONS**
 
@@ -120,12 +93,6 @@ MAYAVATI, HIMALAYAS
 | **Svet.**    | Svetâsvatara Upanishad.   |
 | **Taitt.**   | Taittiriya Upanishad.     |
 
-
-
-
-
-
-
 **INTRODUCTION**
 
 **THE SIX SYSTEMS OF PHILOSOPHY**
@@ -134,13 +101,9 @@ MAYAVATI, HIMALAYAS
 
  Though we find Vedântic thought even in someof the earliest hymns of the Rig-Veda, e.g. theNâsadiya Sukta, which forms as it were the basis oflater Upanishads, yet there is no denying the fact thatthe Indo-Aryans in their earlier days in India weregiven more to rituals and sacrifices. These wereelaborated to such an extent by the Brâhmanas, thepriestly class, that persons of rationalistic bent of
 
-
-
 mind revolted and questioned the very efficacy of thesacrificial religion. They engaged themselves inmetaphysical problems and arrived at different solutions of the world. The Vedântic thought that wasin germ form was now developed more and more, andwe have the Upanishads. This spirit of revolt againstritualism was carried on mainly by the Kshatriyas.The Indo-Aryans were very bold thinkers and nothingwas sacrilegious to them in their search after truth.Traces of opposition against the religion of the Vedasare found in the Vedas themselves. This tidal waveof rationalism in its extreme form gave rise to suchschools of thought as the Chârvâkas, which wereextremely materialistic and anti-religious.
 
  In the age immediately preceding Buddha andduring his lifetime there was a great religious andphilosophical upheaval in India. From the Brahmajâla-Sutras we learn that in his time there were asmany as sixty-two different schools of philosophy inIndia. We also learn from Buddhistic literature thenames of a good number of teachers who were venerated in Âryâvarta at the time—names like PurânaKasyapa, Kâtyâyana, Makkâli Gosâla, NiganthaNâthaputra, the founder of Jainism, and others.While these great souls represented Indian culturefrom an anti-Vedic standpoint there were many greatnames that represented the culture from the traditional standpoint—names that are still venerated byHindu religion and culture.
-
-
 
 **INTRODUCTION**
 
@@ -149,8 +112,6 @@ mind revolted and questioned the very efficacy of thesacrificial religion. They 
  These six orthodox systems of thought developedside by side at different intellectual centres, of whichthere were a good number all over the country evenduring the Upanishadic period. Again in each systemthere were shades of difference. Thus for centuriesphilosophic thought developed in India till at last it
 
  ¹Âstika (orthodox) and Nâstika (heterodox) hadnothing to do with belief or non-belief in the existenceof a God. Sânkhya and Mimâmsâ which did not acceptan Iswara were yet regarded Âstika (orthodox).
-
-
 
 **BRAHMA-SUTRAS**
 
@@ -165,8 +126,6 @@ THE SUTRAS
 
 "People learned in Sutra literature say that a Sutrashould be concise and unambiguous, give the essenceof the arguments on a topic but at the same time dealwith all aspects of the question, be free from repetition and faultless." Though this definition stateswhat a Sutra ought to be, in practice, however, thedesire for brevity was carried to such extremes thatmost part of the Sutra literature is now unintelligible,and this is particularly so with respect to the Vedânta-Sutras which has consequently given rise to divergentsystems.
 
-
-
 **INTRODUCTION**
 
  There was Sutra literature in every branch ofIndo-Aryan knowledge which had become cumbrousthrough centuries and required systematization. Theauthors of these Sutras, as we see, are not thefounders of the thought or systems they propounded,but are mere systematizers of the thought developedon the subject by successive generations of thinkersfor centuries. The thought of these Sutras was muchdeveloped by later thinkers and even modified bythem, though all of them disclaimed any originalityin it, declaring that they were merely interpretingthe Sutras. This was specially the case with respectto the philosophical Sutras. All these subsequentthinkers belonged to one or other of the six systemsand developed its traditionary thought from generation to generation, rendering it more and more perfect, and more and more secure against the ever newcriticisms of rival schools. Such interpretations ofthe Sutras gave rise to various kinds of literarywritings like Vâkyas, Vrittis, Kârikâs and Bhâshyas,each of them being more and more elaborate thanthe previous ones.
@@ -174,8 +133,6 @@ THE SUTRAS
 THE BRAHMA-SUTRAS
 
  The Upanishads do not contain any ready-madeconsistent system of thought. At first sight theyseem to be full of contradictions. Hence arose thenecessity of systematizing the thought of theUpanishads. Bâdarâyana, to whom the authorshipof the Brahma-Sutras or Vedanta-Sutras is ascribed,
-
-
 
 **BRAHMA-SUTRAS**
 
@@ -188,8 +145,6 @@ bhârata, and the author of the Sutras he refers to asBâdarâyana. Perhaps to h
 
  Deussen infers from the cross references inthe works of Jaimini and Bâdarâyana that theymay have been combined by a later editor intoone work, and provided with the cross references.
 
-
-
 **INTRODUCTION**
 
  This combined work, he says, was commented uponby Upavarsha on whose work the commentaries ofSabara on the Purva Mimâmsâ and Sankara on theUttara Mimâmsâ rest. Sankara's commentary on3.3.53 gives support to this last view and it alsoexplains the popular idea that the two Mimâmsâsform one Sâstra. This combined work might wellhave been arranged by Vyâsa, the author of theMahabharata. Or it may be that he had writtenthem himself according to the views that were traditionally handed down as Bâdarâyana's. This latterview easily accounts for the reference to Bâdarâyanaby name in the Sutras. That such a thing was notuncommon in ancient India is established by Colebrook on the authority of Indian commentators ofManu and Yâjnavalkya.Max Müller also says thatBâdarâyana and other similar names are simplyeponymous heroes of different philosophies.[^1], p. 120.")
@@ -198,20 +153,14 @@ bhârata, and the author of the Sutras he refers to asBâdarâyana. Perhaps to h
 
  In support of the view that the two persons areone it can be pointed out that there existed in the timeof Pânini Sutras known as Bhikshu-Sutras which areidentified by Vâchaspati with the Vedânta-Sutras. The subject-matter of the Vedânta-Sutras beingBrahman, the knowledge of which is pre-eminentlymeant for Sannyâsins, it might well be called Bhikshu-Sutras. Pânini in his Sutras ascribes these Bhikshu-Sutras to Pârâsarya, the son of Parâsara, i.c. Veda-Vyâsa, who was also called Bâdarâyana as he had his
 
-
-
 Âshrama at Badari in the Himalayas. That theVedanta-Sutras and Purva Mimâmsâ-Sutras musthave existed before Pânini can also be inferred fromthe commentary on both of them by Upavarsha whois said to be the Guru of Pânini in the Kathâ-sarit-sâgar, though we must admit it cannot be conclusively proved that the two Upavarshas are one and thesame person.
 
  The identity of the Vedânta-Sutras and theBhikshu-Sutras would no doubt fix the date of theSutras very early, before Buddha, and a question mayarise how such an early work could have referred tovarious other schools of philosophy of a much laterdate and refuted them. In this connection we mustnot forget that the author of the Sutras does not referto any founder of the different schools by name. Heeven does not use the technical terms of the differentschools as they are known to us to-day. During thatgreat philosophical ferment which followed at theclose of the Upanishadic period various metaphysicalviews were held which later developed in definitechannels. Therefore the fact that Bâdarâyana isacquainted with certain systems of thought whichlater came to be associated with certain names doesnot show that Bâdarâyana was later than thesepersons. These later names were by no means theoriginal founders of these systems of thought, butonly gave definite shape to some particular thoughtthat was found in that mass of philosophical speculations which existed in that period. Bâdarâyana could
-
-
 
 anticipate even the Buddhistic and Jaina schools, forBuddha and Mahâvira also were not the founders ofany altogether new schools of philosophy but imbibedmuch of the thought current in the country at thetime. There was no revolutionary departure in theirphilosophy, but it was their great personality thatshaped the history of India for centuries. As regardsJaina thought we know definitely that it existed fromeven before the time of Pàrswanâth (8th or 9thcentury B. C.). In fact all these systems must havebelonged to the same period of philosophical fermentwhich preceded the rise of Buddhism. Thus a writerof the Vedanta-Sutras before Buddha may well beacquainted with the different schools of philosophyrefuted in the Tarkapâda of that book, though theymight not have existed in the form in which we knowthem to-day or in the form in which they have beenrefuted by Sankara.
 
  Moreover, that the Vedânta-Sutras were knownto exist before Buddha can also be made out fromthe Gitâ. The date of the Gitâ and the originalMahabharata, of which the Gitâ is a part, can befixed before the time of Buddha. Both of them arepre-Buddhistic, for they contain no reference toBuddha and Buddhism. Quotations from both arefound in Bodhâyana who belongs to 400 B.C. Thelanguage of the Gitâ also seems to belong to a periodbefore Pânini. He is also conversant with the epiccharacters. So we can well say that the Gitâ and the  
 Mahâbhârata were known before Buddha.Now we
-
-
 
 find a clear reference to the Brahma-Sutras, in Gitâ13.4, where the word 'Brahma-Sutra-padaih' occurs.This is a definite reference to the Vedanta-Sutras.The full text runs as follows: "This has been sungby the Rishis in various ways and in different metresand definitely and logically by the words of theBrahma-Sutras." Tilak argues in his Gitâ-Rahasyathat the first half refers to teachings which are disconnected and unsystematic and therefore refers tothe Upanishads, while the later half to somethingdefinite and logical-a difference that is clearlybrought out by this stanza and therefore refers to thesystematized thought in the Vedânta-Sutras. Max Müller too is of opinion that the Vedânta-Sutrasbelong to an earlier period than the Gitâ[^2]and in thetext just quoted he finds a clear reference to therecognized title of the Vedânta or Brahma-Sutras[^3].Indian commentators on the Gitâ like Râmânuja,Madhwa and others identify the Vedânta-Sutras *inthis passage* of the Gitâ.
 
@@ -221,8 +170,6 @@ find a clear reference to the Brahma-Sutras, in Gitâ13.4, where the word 'Brahm
 
  But if the Vedânta-Sutras be of an earlier datethan the Gitâ, how could it contain references to theGitâ ? In Sutras 2. 3. 45 and 4. 2. 21 all the commentators quote the same text of the Gitâ, and thereseems to be no doubt that they are right. Thesecross references show that the author of the Gitâhad a hand in the present recension of the Sutras.This is also made clear by the rejection of the fourfold
 
-
-
 Vyuha of the Bhâgavatas both by the Gitâ and theSutras and the great predominance given to theSânkhya school in both. The Gitâ accepts theSânkhya view of creation but modifies it to someextent and makes the Pradhâna subservient to theSupreme Brahman which is non-dual. In theVedanta-Sutras also the author refutes the dualism ofthe Sânkhyas. Otherwise he has no objection toaccepting the Pradhâna or Frakriti as a principledependant on the Supreme Lord (*vide* 1. 4. 2-3).Sankara in his Bhâshya on these Sutras makes thisquite clear.
 
  From what has been said above we find that thereare strong grounds for believing that the Vedânta-Sutras must have existed before Buddha and that ifBâdarâyana and Veda-Vyâsa are not one and thesame person as tradition holds, the latter must havehad a hand in the present recension of the Sutras,though it is very difficult to say to what extent―whether it was by way of merely revising the originalSutras of Bâdarâyana or writing them down *in toto*after the teachings of Bâdarâyana.
@@ -231,8 +178,6 @@ Vyuha of the Bhâgavatas both by the Gitâ and theSutras and the great predomina
 
  It has already been shown that the Brahma-Sutras of Bâdarâyana somehow gained prominenceand popularity and as a result all the great Âchâryashave written commentaries on it. The oldest of theextant commentaries is by Sankara, the exponent ofMonism. A. Vritti by Upavarsha is mentioned by
 
-
-
 Sankara and Bhâskara and a Vritti by Bodhâyana isreferred to and often quoted by Râmânuja in his SriBhâshya. Sankara does not refer to Bodhâyana.According to Vedânta Desika the two are one person.Unfortunately this work of Bodhâyana is not available now. Ramânuja quotes also from the DramidaBhâshya which evidently belongs to the Bhakti cultof Southern India. Sankara was followed by a hostof commentators on these Sutras-Yâdava Prakâsha,Bhâskara, Vijnâna Bikshu, Râmânuja, Nilakantha,Sripati, Nimbârka, Madhwa, Vallabha and BaladevaThere are even some recent commentaries, though ofnot much value. All these try to maintain that theirsystem is the one that Bâdarâyana propounded  
 through his Sutras.
 
@@ -240,21 +185,15 @@ through his Sutras.
 
  A question may be raised how the same workcould have given rise to so many conflicting schoolsof thought. The reasons are many. In the first placethe brevity of the Sutras leaves much to be supplied
 
-
-
 by the commentators, and in the absence ofan universally accepted unbroken tradition eachis free to do this according to his own preconceived ideas. Sometimes even without supplying anything the same Sutra is capable of beinginterpreted differently and even conveying quite theopposite meaning (e.g. Senkara and Râmânuja on3. 2. 11) by the mere shifting of the stops. Again,while there is a tradition which is accepted more orless by all as regards the arrangement into chaptersand sections, there is no such accepted tradition asregards the division into Adhikaranas (topics), noris there anything authoritative to guide us asto which Sutras form the Purvapaksha or the*prima facie* view and which give the Siddhântaor the author's view. So every one is freeto divide the Sutras into topics according tohis own choice and regard any Sutras as giving theauthor's view. Then again, the Sutras do not giveany reference as to which texts of the scriptures arebeing discussed and as a result the commentator isfree to select any texts from that vast repertory, somuch so that it often happens that different commentators see different topics discussed in the sameset of Sutras. Added to all this is the difficulty thatBâdarâyana is often silent as regards his own decisionand that on fundamental questions. He merely givesthe views of different Vedântins and ends the topic(vide 1. 4. 20-22).
 
  The five great commentators more or less agree
-
-
 
 on certain points, especially where the author attacksthe principles of the non-Vedântic schools. All ofthem agree that Brahman is the cause of this worldand that knowledge of It leads to final emancipationwhich is the goal to be attained; also that Brahmancan be known only through the scriptures and notthrough mere reasoning. But they differ amongstthemselves as to the nature of this Brahman, Itscausality with respect to this world, the relation of theindividual soul to It and the condition of the soul inthe state of release.
 
  Brahman according to Sankara is attributeless,immutable, Pure Intelligence. Iswara according tohim is a product of Mâyâ—the highest reading of theNirguna Brahman by the individualized soul. Theworld is a Vivarta or apparent transformation throughMâyâ of the Nirguna Brahman but not in reality.The Jiva in reality is all-pervading and identical withBrahman, though as individualized by its Upâdhi(adjunct), the internal organ, it regards itself asatomic, as an agent, and as a part of the Lord. Theknowers of the Nirguna Brahman attain It directlyand have not to go by "the path of the gods". Itis the knowers of the Saguna Brahman that go bythat path to Brahmaloka from where they do notreturn but attain Brahman at the end of the cycle.Knowledge is the only means to Liberation.
 
  To Râmânuja and the other commentatorsBrahman is not attributeless but an essentiallyPersonal God possessing infinite benign attributes.
-
-
 
 They hold that though personality as we experienceit in man is limited, it need not be invariablyconnected with personality as Sankara thinks, so as tocontradict *infinity.* They do not accept the Mâyâdoctrine, for to them the world is real, and so theyaccept that the world is produced from Brahman.Madhwa, however, accepts It only as the efficientcause and not as the material cause also. The Jivaaccording to them is really atomic, an agent, and apart of the Lord. The knower of Brahman goes bythe path of the gods to Brahmaloka where he attains  
 Brahman and does not return to this mortal world.They do not make any distinction of higher and lowerknowledge like Sankara. According to them Bhaktiis the chief means to Liberation, and not Jnâna.
@@ -263,15 +202,11 @@ Brahman and does not return to this mortal world.They do not make any distinctio
 
  1For details, see the various Bhâshyas on Sutras 1. 1. 2, 1. 4. 23, 26, 2. 1. 26-28, 2. 3. 18-53, 3. 2. 11-30, 4. 2. 12-14, and 4. 4. 1-7.
 
-
-
 **SANKARA'S INTERPRETATION OF THE SUTRAS**
 
  There is a strong opinion current amongst scholarsto-day that whatever be the merit of Sankara'smetaphysical doctrines considered by themselves oreven as doctrines elucidating the teachings of theUpanishads, he is not faithful to Bâdarâyana in hisinterpretation of the Sutras. They hold that Bâdarâyana was ignorant of a twofold Brahman and consequently of a twofold knowledge%; that he was notaware of the doctrine of Mâyâ and so did not holdthat the world was unreal, but that Brahman underwent a real change into this world-order; and that theSutras do not hold the view of absolute identity ofthe individual soul and Brahman. In short theirview is that the system of Bâdarâyana is a theisticsystem which has more affinities with the systems ofRâmânuja and Nimbârka than with Sankara's pureNon-dualism. This view is nothing new. Bhsâkaraat the beginning of his commentary on the Sutrasaccuses Sankara of this very thing. But at the sametime we can also cite Sândilya, the author of theBhakti-Sutras, who in Sutra 30 of his work refers toBâdarâyana as a Monist, which shows that the viewthat Bâdarâyana was an Abhedavâdin was prevalentin ancient days, even as early as the Sutra period.
 
  It is not possible to deal with such a controversialsubject in a short Introduction like this. All the samewe shall take some salient points connected with thisdiscussion and try to see how far such a criticismagainst Sankara is justified. At the outset, however,
-
-
 
 it is fair to admit that at places Sankara's interpretations seem to be far-fetched; but this is by no meansa defect of his Bhâshya alone but of all the otherextant Bhâshyas as well. Moreover, in such a criticalstudy we shall not gain much if we follow the letterof the Sutras, missing the general spirit of the workas a whole. It is possible to give a consistent interpretation of the Sutras by following the letter of theSutras and at the same time miss the general spiritof the work as a whole.
 
@@ -283,13 +218,9 @@ it is fair to admit that at places Sankara's interpretations seem to be far-fetc
 
  To start with, let us take the definition ofBrahman given by Bâdarâyana in Sutra 2. Sutra 1says that Brahman is to be inquired into, for theknowledge of It leads to Moksha (Liberation). Thenext Sutra defines Brahman and so naturally wehave to understand that the Brahman the knowledgeof which gives Moksha is defined here. As such weget a Saguna Brahman as the subject-matter of theSâstra and not the Nirguna Brahman of Sankarawhich is Existence, Knowledge, Bliss Absolute. Soit appears that the author at the very beginning ofthe work precludes any chance of Sankara's doctrinebeing read in his Sutras. But let us investigate into
 
-
-
 the matter a little and see whether it is actually so.
 
  After the statement in Sutra 1 that Brahman isto be known, naturally the question about the natureof Brahman arises. The Sutrakâra (aphorist) hereanticipates an objection that Brahman cannot bedefined at all. For whatever we cognize in this worldis limited and as such cannot be a characteristic ofBrahman which is infinite. A limited thing cannotdefine an unlimited thing. Nor can any characteristic which is absolutely beyond our experience, likeReality etc., define Brahman, for it is only a wellknown characteristic that defines a thing and distinguishes it from other things. Again the scripturescannot define Brahman, for being absolutely uniqueIt cannot be expressed in speech. Thus in theabsence of any definition Brahman cannot be athing worth inquiring into and cannot serve anyhuman purpose. To refute all such objections theSutrakâra defines Brahman in Sutra 2. Granted thatthe world we experience cannot define Brahman asbeing a quality of It or as being identical with It,yet the quality of being the (supposed) cause of theworld may indicate It. "Birth etc." mentioned inthe Sutra define Brahman *per accidens.* "Thoughthey inhere in the world and do not pertain toBrahman, the causality connected therewith pertainsto Brahman and therefore the definition holds good.This causality indicates Brahman even as the snakeindicates the rope when we say that that which isthe snake is the rope, where the rope is indicated
-
-
 
 by the snake owing to the illusory connection betweenthe two. This definition, therefore, actually aimsat the Nirguna Brahman and cannot be taken as adefinition of the Saguna Brahman[^4].
 
@@ -299,15 +230,11 @@ Again the Sutra refers to the Taittiriya text,"That from which these beings are 
 
  Yet it may be questioned why the author shouldgive an indirect definition of Brahman instead ofdefining It in Its real nature as, "Existence, Knowledge, Bliss is Brahman." The answer is that theauthor has followed here the universally acceptedprinciple of taking a student step by step from alower to a higher truth, from a grosser to a subtlerone. it is indeed by first pointing to the end of thebranch of a tree that one points out the moon tothe child. Similarly, first Brahman as the Cause isdistinguished from this world of products, andfinally by saying that from Bliss this universe isborn, It is differentiated from other probable causeslike atoms, the Pradhâna, etc. In this way finallyBrahman's real nature as distinguished from everything else is described. The aspirant whose mindis turned away from the world of the senses first
 
-
-
 comprehends Brahman as the cause of the world.Though in Itself as the Inner Self Brahman is immediate, yet we have the idea that It is remote.Hence the Sruti first teaches that Brahman is thecause of the world, and then to remove this falsenotion of remoteness it teaches that It is one withthe Inner Self. So long as this identity is notrealized, It appears to be the cause of the world.
 
 That Bliss which admits of no difference isBrahman we learn from the Chhândogya Upanishad."The Bhuman (Infinite) only is Bliss. This Infinitewe must desire to understand” (7. 23. 1). What isthis Infinite which is called Bliss? The Upanishadexplains: "Where one sees nothing else, hearsnothing else, understands nothing else, that is theInfinite. Where one sees something else, hears something else, understands something else, that is thefinite. The Infinite is immortal, the finite is mortal"(Ibid. 7. 24. 1). This non-dual Bliss is the Infinite,the Brahman defined in Ananda Valli as Existenc',Knowledge, Infinite is Brahman, and from this allcreation springs so understood Bhrigu, the son ofVaruna.
 
  Again the Taittiriya text, "That from which allbeings are born Try to know that. That isBrahman," aims at defining a non-dual Brahman asthe only reality and does not define a Saguna Brahman. It defines Brahman as the efficient and alsoas the material cause of the universe, since It is theplace of dissolution of the world. Being the material
-
-
 
 cause of everything, It is the basic reality behindeverything and this gives rise to the intuition thatBrahman is non-dual and that everything else isunreal. Its being the efficient cause also establishesthe fact that It is non-dual, as it precludes anythingelse being such an efficient cause. Thus this definition, which is but one, qualifies *per accidens* the nondual Brahman as both the efficient and material causeof the universe. This material causality of Brahmanwhich is non-dual, immutable Intelligence cannot beone of origination, as by primeval atoms by whosecombination something new is created; nor can it beone of modification, as of the Pradhâna of theSânkhyas. It is through Vivarta or apparent modification through Mâyâ or Nescience that Brahman istransformed into this universe. This universe istherefore illusory[^5].That this is in accordance withBâdarâyana's view is made clear by the fact that heuses the word 'Sat' as a characteristic epithet todenote Brahman, which he would not have done ifhe had considered the Jivas and the world also reallike Brahman (vide Sutra 2. 3. 9). The word 'Sat'here is interpreted by all commentators to denoteBrahman.
 
@@ -315,16 +242,12 @@ cause of everything, It is the basic reality behindeverything and this gives ris
 
  Thus we find that this definition is given byBâdarâyana to indicate a Nirguna (attributeless) andNirvisesha (absolute) Brahman and not a SagunaBrahman and he has selected a significant text from
 
-
-
 the wide range of scriptural texts for defining hisBrahman.
 
 *Is Brahman the real or apparent cause of the world?*
 
  Now let us take up the Sutras about the causality of Brahman, viz. Sutras 1. 4. 23-27 and Sutra2. 1. 14. Before that let us have a brief summaryof the work up to 2. 1. 14. After defining Brahmanin Sutra 2 the Sutrakâra from 1. 1. 5 to 1. 4. 13 andin 1. 4. 23-27 shows that all the scriptural textsteach that Brahman is both the efficient and thematerial cause of the universe, refuting the Sânkhyasin 1. 1. 5-11 and in 1. 4. 1-13. Sutras 1. 4. 14-22refute the Sânkhyan objection that there are contradictions in the Sruti texts with respect to the FirstCause. Finally Sutra 28 says that by what has beensaid against the Sânkhyas the others also are refuted.  
 Sutras 2. 1. 1-3 reject the authority of the Sânkhyaand Yoga Smritis as against the scriptures. Sutras4-11 answer through reasoning without the aid oftexts the Sânkhyan objection based on reasoning thatBrahman cannot be the material cause of the world,for It and the world are of different nature and assuch the relation of cause and effect cannot existbetween them. Sutra 12 refutes the validity ofreasoning in matters transcendental and thus refutesall schools which arrive at their doctrines throughreasoning. Sutra 13 answers another objection ofthe Sânkhyas that if Brahman be the material cause,then there would result non-distinction between en-
-
-
 
 joyer and things enjoyed, a fact established by experience. The Sutra refutes it saying that such adifference can exist in non-different things even aswe have waves, foam, etc. in the sea and so theVedantic doctrine cannot be set aside on the groundof contradiction to our experience. Now, dualityand non-duality cannot exist in one and the samething, for they are mutually contradictory. Theexample of the sea and the waves would be aptif Brahman had aspects, but non-dual reality doesnot admit of such aspects. Moreover, Sutra 13 hasnot established the truth of the scriptural statement,"By the knowledge of the one everything else isknown" which was referred to in Sutra 1. 4. 23.To establish these two things Sutras 14-20 declarethat the effects are in reality non-different from thecause, i.e. they have no existence apart from thecause[^6].' Non-difference here does not mean identitybut that there is no difference[^7]. In other words thetwo, Brahman and the world, have not the samegrade of reality[^8]. That is what is meant. If theworld is something different from Brahman it wouldcontradict such Sruti texts as, "All this was but theSelf" (Brih. 1. 4. 1., 1. 4. 17). Again if the world isreal, it would contradict texts like, "There is nothingwhatsoever here" (Brih. 4. 4. 19). Therefore theworld is non-different from Brahman. But identity
 
@@ -334,11 +257,7 @@ joyer and things enjoyed, a fact established by experience. The Sutra refutes it
 
 [^8]: "Siddhântalesha, Brahmakâranatvavichâra."
 
-
-
 is not what is meant by non-difference, for thisis impossible between the world and Brahman, theybeing mutually different in nature. Hence nondifference means that it has no existence apart fromBrahman, it precludes difference. The denial ofidentity, however, does not establish the differenceof the world and Brahman, but establishes theapparent identity or the illusory nature of the world,even as the illusory snake is seen in the rope. Thisis what the Chhândogya text 6. 1. 4 tries to teach.Thus only by the knowledge of one thing can everything be known, on any other assumption it wouldbe impossible to establish it. The non-difference ofthe world from Brahman being established, thequestion naturally arises that Brahman would thenbe responsible for creating evil for the Jiva which isone with It. This is answered in Sutras 2. 1. 21-23.Sutras 24-25 show how Brahman, though destituteof materials and instruments, yet is the cause of theworld even as milk turns into curds without anyextraneous help. The example cited raises a freshobjection in Sutra 26 that Brahman cannot at thesame time be both immutable and be transformedinto the world. Against this Sutra 27 saysthat the Sruti states both these views andSO they have to be accepted, as the Srutiis the only authority with respect to Brahman.As to how these two views are to be reconciled,Sutra 28 says that even as in the individual souldiverse creation exists in the dream state without
-
-
 
 marring its indivisibility, so also this world springsfrom Brahman. This example which is cited is verysignificant as it shows that Bâdarayana was quitefamiliar with Mâyâvâda-that he considered thisworld unreal in a higher sense even as the dreamworld is Mâyâ (3. 2. 3). These two Sutras togetherwith Sutras 2. 3. 50 and 8. 2. 18 show that he viewedthe world as unreal. The subsequent Sutras establishthat Erahman through Mâyâ possesses all powersnecessary for creation and so on.
 
@@ -348,34 +267,22 @@ Thus in the whole of Chapter I and Section IofChapter II Bâdarâyana establishe
 
  Some critics of Sankara, however, think that thereasoning employed by the aphorist against theSânkhyas in Sutras 4-11 of Ch. II, Sec. 1. especiallySutra 6, would be hardly appropriate from Sankara's
 
-
-
 point of view, for according to him the world springsnot from Brahman as Intelligence, but in so far asIt is associated with Mâyâ. Similarly Sutra 24 whichsays that Brahman transforms Itself into the worldlike milk would be inappropriate if the world wereunreal; Sutra 1. 4. 23 where Brahman is said to bethe material and efficient cause of the world doesnot say that Brahman is the material cause throughMâyâ; on the other hand Sutra 1. 4. 26 uses the word'Parinâmât' to show how Brahman is changed intothe world.
 
  This criticism does not seem to be relevant.InSutras 2. 1. 4-11 the Sânkhyas' objection against theVedantic doctrine of the material causality of Brahman is answered. Here the author is concerned onlywith establishing Brahman as the material cause andthus refuting the dualism of the Sankhyas who positan independent principle, the Pradhâna, as the FirstCause, and not with the true nature of this causality.Up to Sutra 13 he refutes the objection from theSânkhyas' own realistic standpoint. His own view asto the true significance of the causality is establishedin Sutra 14. It is not true that Sankara holds thatBrahman as Pure Intelligence is not the materialcause, but only as endowed with Mâyâ. Brahman orPure Intelligence as such is the material cause ofthe world as Sutra 1. 4. 23 says. But because ofthis, we cannot expect the effect, the world, to besimilar to the cause in all respects. This is madeclear by Sankara in his commentary op Sutra 2.1.6
 
-
-
 where he says that they cannot be similar in all respects, for if they were, then there would be nothinglike cause and effect, nor would they be called bydifferent names. What is essential for establishingthe relation of cause and effect is that some qualitiesof the cause must be found in the effect also, andthis is satisfied in the case of Brahman and theworld. Everything in this world exists and thisquality is obtained from Brahman which is existence;everything is also illumined by Intelligence which isBrahman. So Sutra 1. 4. 23 which says that Brahmanas Intelligence is the cause is not contradicted according to Sankara's view. This Sutra futher says, "Thisview not contradicting the proposition and illustrationcited in Chh. 6. 1. 4." In what sense the materialcausality of Brahman as Intelligence does not contradict this enunciation, is shown by the aphorist in2. 1. 14. From these Sutras Sankara says that bothBrahman and Mâyâ are the cause of the world. Brahman through Vivarta, and Mâyâ through Parinâma;and the qualities of both are found in the effect, theworld, as we gather from our cognition of a pot, 'Thepot exists,' 'The pot is inert' where as existence thepot is indentical with Brahman which is existenceitself, and as inert it is identical with Mâyâ which isinert. Everything in this world has five elements inits make-up, viz. Asti, Bhâti, Priya, Nâma, and Rupa,the former three have Brahman for its material causecorresponding to the three factors, Existence, Intelligence and Bliss, and the last two consist of Mâyâ and
-
-
 
 are unreal. No doubt the aphorist takes the Parinâma view as a workable basis in refuting the Sânkhyas. But we have already said that it is a wellestablished principle of Indian teachers to take theaspirant step by step to the final truth. So Bâdarâyana, by taking the Parinâma view-point in his earlierSutras where Brahman is referred to as the Cause andestablishing Vivarta in 2. 1. 14, has only followed thisuniversally accepted method. That the author is notfor Parinâmavâda is made clear by him in Sutras26-28. Sutra 28 clearly establishes the unreality ofthe world, it being illusory like the dream world.
 
  Coming to Râmânuja's commentary we find thathe is not so logical or consistent as Sankara. According to him Brahman has for Its body the entireuniverse with all its sentient and insentient beingsin all Its states. When the souls and matter arein the subtle state, Brahman is in the causal conditionand when they are in the gross state It is in the effectstate. The effect, i.e. the world, is thus seen to benon-different from the cause, i.e. the SupremeBrahman (*vide* Sri Bhâshya Sutras 1. 4. 27 and2. 1. 15). Bâdarâyana does not seem to hold thisview, for nowhere does he say that Brahman hasfor Its body the souls and matter. Even if 2. 3. 43should mean that the souls are the body of Brahman,there is no similar Sutra to show that matter too isIts body. Moreover, if Brahman is the materialcause of the world through Its insentient part only,as the above view leads to, then Sutra 1. 4. 23 which
 
-
-
 says that Brahman as Intelligence is the materialcause would be contradicted and Sutras 2. 1. 26-28also would be useless, for the question of the wholeof Brahman passing over into the world does notarise at all. Nor can the relation of cause and effectexist between Brahman in the causal and the effectstate for it is the same Brahman in either case.Even if such a relationship be granted, it would makeSutras 2. 1. 4-6 meaningless, for there can be nodifference of nature in Brahman in the two states asbetween Brahman and the world-the sentient andthe insentient. Râmânuja directs Sutra 14 againstthe Vaiseshikas, but we do not find the author makinganybody else but the Sânkhyas the opponents. Therest he disposes of by saying that the argumentsagainst the Sânkhyas refute others also (*vide* 1. 4. 28and 2. 1. 12). The interpretation of Sutra 2. 1. 28by Râmânuja is very far-fetched. His explanation that because things possess different qualities owing to the difference in their essentialnature, Brahman which is unique can possess qualitiesbeyond our experience, is not to the point, whileSankara's interpretation is very happy as it gives usan idea as to how it is possible for Brahman to createthe world and yet remain immutable. Moreover,Râmânuja has not explained in Sutras 26-28 the contradiction in the Sruti texts, while Sankara's interpretation reconciles the contradiction through reasoning,and such reasoning as is not against the Sruti texts isquite acceptable to all Vedântins; in fact that is what
-
-
 
 the author proposes to do in this Uttara-Mimâmsâwork of his.
 
  Coming to Nimbârka, his line of argument onthese Sutras relating to the causality of Brahman isto establish the Bhedâbheda doctrine. Sutra 2. 1. 18he interprets first like Sankara. But in Sutra 14the word 'अनन्यत्वम्' he interprets as 'न तु अत्यन्तभिन्नत्वम्''not absolutely different.' That is, the effect is notabsolutely differnt from the cause: it has no separateexistence from Brahman. Thus from Sutra 13 whichsays that Brahman and the Jiva are different, Sutras4-6 which say that the insentient world is differentfrom It and Sutra 14 which says that they have noseparate existence apart from Brahman, Nimbârkaconcludes that between Brahman and the sentientand insentient world there is difference as well asnon-difference. But such a thing in one and thesame entity is impossible. The Chhândogya text saysthat the clay alone is real and not the things madeof clay, for they are mere names, unreal. Takefor example a clay pot; when we cognize it as a potwe are not conscious of its being clay and whenwe cognize it as clay we miss the pot, though boththese aspects are inherent in it. So we have to conclude that its nature is illusory, for it is not cognizedas what it is. That which is non-different from athing and yet appears to be different and whichdepends upon the non-difference for its existence cannot but be illusory. So between the pot and the  
 clay, the latter alone is real and not the pot.
-
-
 
 Similar is the case with Brahman and the world.Brahman alone is real and the world is unreal."When all this is but the Self, how could one seeanother?" (Brih. 2. 4. 14). Chhândogya 6. 16 callsone who sees variety as false-minded and the onewho sees unity as true-minded. But to people whoare in ignorance both difference and non-differenceseem to be real, the unity being understood throughthe scriptures and variety through direct perception.This is only a relative or Vyavahârika state. Thetruth is unity. Therefore Nimbârka's view cannotbe correct.
 
@@ -383,11 +290,7 @@ Similar is the case with Brahman and the world.Brahman alone is real and the wor
 
  In Section 2 of Chapter II the author takes theoffensive. So long he was on the defensive.In the whole of this section he refutes throughreasoning alone, without recourse to the Srutitexts, the various schools of philosophy of thetime. In this section he refutes those schoolsof thought that were regarded by the orthodox section as outside the sphere of the Vedas. Wehave enough references in ancient works like theMahâbharata and some of the Purânas that all theseschools refuted in Section 2 by the author were soregarded. The Siva Mahimna Stotra contains theverse 'त्रयीसांख्यं योगः पशुपतिमतं वैष्णवमिति', which showsthat Sânkhya, Yoga, Pâsupata and Vaishnava(which includes Pâncharâtra) schools of thought were
 
-
-
 regarded as different from a or the Vedic religionwith its two branches, Karmakânda and Jnânakânda.Moreover, we find that in many works of the Pâncharâtra school the Vedas are held in contempt. Sankarahimself quotes such a text. The scholiasts Govindânanda and Ânandagiri also quote similar texts.Therefore they must have been definitely regardedby the ancients as outside the pale of the Vedas andwe cannot reasonably expect Bâdarâyana to haveaccepted their view as his final conclusion in a workmeant to systematize the orthodox thought of theUpanishads. Of course, to that portion which doesnot contradict the Vedas he has no objection; norhas Sankara, as he has made it clear in his Bhâshyaon Sutras 42 and 43. Râmânuja, however, sees inSutras 44 and 45 the acceptance of the Pâncharâtradoctrine by a refutation of the objections raisedagainst it in Sutras 42-43. But his interpretations arestretched. Sutra 45 he twists to mean, "And becausethe creation of the soul is contradicted by thisSâstra", saying thereby that the question raised inSutra 42 as to the creation of the soul does notarise at all, as this school does not hold the view.The way in which this Sutra is stretched by Râmânuja can easily be seen by comparing it with Sutra10 where Bâdarâyana uses the same wording, "Andon account of contradiction," etc. to mean that contradiction in the Sânkhya system makes it unacceptable to the wise. This seems to be the Sutrakâra'sview here also. Dr. Thibaut thinks, "It would not
-
-
 
 be unnatural proceeding to close the polemical sectionwith a defence of that doctrine which in spite ofobjections has to be viewed as the true one." Butthat being the purpose of the whole work itself, wecannot reasonably think that the author establisheshis doctrine in these two Sutras. Moreover, no othercommentator sees the acceptance of the Pâncharâtradoctrine in this topic.Vallabha follows Sankara.Nimbârka sees the refutation of Saktivâda in thetopic. He is therefore consistent in that he regardsthe whole of Section 2 as being devoted to a refutationof views not acceptable to the author. He acceptsthe Pâncharâtra system and so he finds some othersubject in this topic, though on this account his interpretation is not happy. But if Vyâsa had any handin this work as already shown, then we cannot but seethe refutation of the Pâncharâtra system in theseSutras, for we find that he does not accept thisdoctrine even in his Gitâ.
 
@@ -395,24 +298,16 @@ be unnatural proceeding to close the polemical sectionwith a defence of that doc
 
  Now we come to Sutras 2. 3. 16-53 which dealwith the nature of the soul and its relation toBrahman. All except Sankara interpret these Sutrasto mean that the soul is atomic, an agent, and a partof the Lord. Sankara alone says that the atomicity,agency, and being a part are not the Jiva's realnature, but its nature as a Samsârin (transmigratingentity) and that in reality it is all-pervasive andidentical with Brahman.
 
-
-
  The author defines Brahman as the cause etc.of this world of sentient and insentient things inSutra 2, referring to the Taittiriya text, "That outof which all these creatures are born" etc. (3. 1). Itis clear, therefore, that the world of sentient andinsentient things has sprung from Brahman. Hencethe Jivas too have sprung from the Lord. But inSutra 17 the author says that the individual soulis not produced. Thus he contradicts his definitionand also the enunciation of the scriptures that "bythe knowledge of one thing everything else is known"(Chh. 6. 1). The Sutrakâra at every place makes thisenunciation the corner-stone of his argument. So wehave to reconcile it and the author's definition ofBrahman with his statement in Sutra 17 which drivesus to the conclusion that the Jiva as such, as aSamsârin, is an effect, but in its real nature it iseternal and identical with Brahman. That the natureof the Jiva as we experience it is unreal is made clearby him in Sutra 16. What originates is its connectionwith its adjuncts, gross and subtle, which is unreal.From this standpoint it is also clear why the authortreats the question of the Jiva's nature and its relationto Brahman in this section which reconciles contradictions in the Sruti texts with respect to creation. Thereare different statements about the nature of the Jivaalso and these he reconciles in this section, showingthereby that in its real nature it is not created andis identical with Brahman, but as a Samsârin it isan effect, atomic, an agent, and a part of Brahman.
-
-
 
  Even as Iswara or Brahman limited by Nescience isnot eternal, so is the Jiva limited by the body, mind,etc. not eternal but in its true nature it is eternal.Bereft of their Upâdhis both are Pure Intelligence andidentical. That is why the Taittiriya Upanishad aftersaying, "Existence, Knowledge, Infinite is Brahman"(2. 1) says, "From That verily— from this Self—isthe ether born" etc. (2. 1), thus identifying theself as bereft of all its Upâdhis with Brahman.Taittiriya 2. 1, and 8. 1 cited by the Sutrakârain his definition of Brahman all refer to the samePure Intelligence. Thus the one 'Existence, Knowledge, Infinite' which is Pure Intelligence, reflectedin Nescience is Iswara, and reflected in the Antahkarana (internal organ) is the Jiva, which is borneout by the scriptural statement, "This Jiva has theeffect for the adjunct and Iswara has the cause forthe adjunct" (Sukharahasya Up. 2. 12). This seemsto be the true view-point which has guided theaphorist in framing the Sutras of Section 3, Chapter IIand in which sense Sankara also has interpreted them.The enunciation also is not contradicted according tothis interpretation.
 
  According to Râmânuja the souls are reallyeffects of Brahman but have existed in It from alleternity as a mode or Prakâra of Brahman. So alsohave the elements. Yet the latter are said tooriginate, as at the time of creation they undergoan essential change of nature. But the souls do notundergo such a change, they are always cognizing
 
-
-
 agents, but at the time of creation there is an expansion of their intelligence and in this sense alone,i.e. in the sense that there is no essential change intheir nature at creation, are the souls said to be notcreated (*vide* Sri Bhâshya 2. 3. 18) while the elementswhich undergo change in their essential natureare said to be created. Bâdarâyana nowhere saysthat the souls and Prakriti which form the body ofBrahman are Its effects; nor does he anywheredeclare such a difference between the souls and theelements. Again, according to Râmânuja Brahmanmeans not pure Being but as qualified by the soulsand matter for Its body. This very conception ofBrahman establish that the relation between the soulsand Brahman is as between a quality and the thingqualified and consequently 2. 3. 43 is redundant ifthe word 'part' there should be interpreted to conveythis idea.
 
  Râmânuja sees a refutation of Advaita in Sutras50-53. This does not seem to be intelligible at all,for the Advaitins do not say that the Jiva is allpervading in its relative state. It is so in the stateof release. Sankara makes it clear that the Jivaas such is limited and subject to injunctions and prohibitions, through its connection with a gross body(2. 3. 48), and that even after the gross body falls,on account of its finer Upâdhis, the Antahkaranaetc. which accompany it even after death (4. 2. 1-6),it still continues to be individualized (2. 3. 30), and so  
 there is no confusion in fruits of actions done in the
-
-
 
 gross body (2. 3. 49 and 50). It is only when thisUpâdhi also, which being something created and noteternal (*vide* 2. 4) and therefore liable to destruction,is rent asunder, that the Jiva attains its real natureand is all-pervading. As such, Râmânuja's refutationof Advaita falls flat. Sankara's interpretation ofthese Sutras on the other hand is happy. TheSutrakâra, having established that the Jiva in itsrelative state is atomic and an agent but in realityall-pervading, refutes the view of those who holdthat the Jivas are many and all-pervading in theirrelative state itself. Nimbârka and Vallabha also seethe same subject in this topic which shows that Râmânuja's attempt to refute Advaita is far-fetched andnot at all what the Sutrakâra (aphorist) means.
 
@@ -420,11 +315,7 @@ gross body (2. 3. 49 and 50). It is only when thisUpâdhi also, which being some
 
  Let us now conclude this topic by consideringthe reasonableness or otherwise of taking Sutras 19-28as the decisive view of the author. According tothis view the soul is atomic, for the Sruti declares it
 
-
-
 to be so (Mu. 3. 1. 9) and other texts mention itspassing out of the body, going to heaven, etc. Butthen the Sruti also describes the Supreme Self asatomic in texts like, "Smaller than a grain of rice,smaller than a grain of barley” etc. (Chh. 3. 14. 3).So how can we say that the Jiva alone is atomic andnot the Lord? It may be said that texts say thatBrahman is all-pervading. "All-pervading like theether and eternal” etc.; "Greater than the sky,greater than heaven" etc. But then the Sruti textsdescribe the soul also as all-pervading: "He isindeed the great unborn Self” (Brih. 4. 4. 22);"Just as when a pot is carried, the pot alone iscarried, not the ether inside it, even so is the Jivacompared to the ether," which expressly says it isall-pervading. Nor will it serve any purpose to saythat Brahman, being the material cause of the world,must be all-pervasive, for even the atomic Jiva createsseveral bodies (Kâyavyuha) and rules them and soBrahman though the material cause can yet be atomic.So neither by the Sruti texts nor by reasoning canthe differentiation of Brahman and the Jiva as allpervasive and atomic be justified. But according toAdvaita there is no disparity in its reasoning in thetwo cases. Brahman due to Upâdhi (adjunct) appearsatomic but in reality It is all-pervasive. So also isthe Jiva in its real nature all-pervading and thereforeidentical with Brahman, though it appears to beatomic, an agent and so on owing to its limitingadjunct, the Antahkarana. The primary texts say
-
-
 
 that Brahman and the Jiva in its real nature areall-pervading. The texts which speak of atomicityetc. are of a secondary import and so have to beexplained otherwise.[^9]
 
@@ -434,13 +325,9 @@ that Brahman and the Jiva in its real nature areall-pervading. The texts which s
 
  Now let us take up the Sutras in Chapter III,Section 2, where Bâdarâyana describes the nature ofBrahman. Sutras 11-21 according to Sankara dealwith the reconciliation of texts which describeBrahman both as attributeless and as possessingattributes and mean that even from difference of placea twofold characteristic cannot be predicated ofBrahman, because the scriptures teach throughoutthat Brahman is without attributes (11). If it besaid that such difference is taught by the scriptureswe deny it, because with respect to each form theSruti declares just the opposite of that. The Srutiexplains at every instance that the form is not trueand that behind all Upâdhis there is one formlessprinciple (*vide* Brih. 2. 5. 1) (12). Moreover, someteach thus (*vide* Katha. 4. 11) (13). Verily Brahmanis formless, for that is the purport of the texts (14).And as formless light takes form, so does Brahmantake form in connection with Upâdhis which serve thepurpose of Upâsanâ (meditation) (15). It is PureIntelligence (16). The Sruti and Smriti teach that Itis attributeless (17). Therefore we have with respect
 
-
-
 to Brahman comparisons like the images of the sun.The forms are mere reflections, they are not real (18).
 
  Râmânuja and Nimbârka on the other hand seequite a different subject discussed in these Sutras.The topic is not whether Brahman is attributeless orpossesses attributes, but whether It is polluted byimperfections owing to Its being inside everything asthe Inner Ruler, even as the soul being embodied issubject to imperfections due to its states of waking,dream, and dreamless sleep described in Sutras 1-10.Therefore according to Râmânuja the Sutras meanthat even on account of place such as matter andsoul there is not the possibility of the Supreme Lordbeing contaminated by imperfections, since everywhere in the scriptures Brahman is described as havinga twofold characteristic, viz. freedom from imperfections and possessing all blessed qualities (11). If itbe said that since the soul also by nature possessesaccording to Chh. 8.7 the twofold characteristic ofBrahman and yet is subject to imperfections due toits connection with a body, the Inner Ruler willlikewise be subject to such conditions owing to itsconnection with bodies, we deny it, for the Sruti atevery place denies it by saying that Brahman isimmortal and therefore free from imperfections (*vide*Brih. 3. 7. 3-22). The imperfections in the soulare due to Karma and the Lord who is not subject toit is therefore free from such imperfections (12).Brahman can be said to have no form, as It is theoriginator of name and form and therefore is not
-
-
 
 subject to Karma like the souls which being e.nbodiedare subject to it (14). To an objection that thedifferentiated form of Brahman is false, Sutra 15answers thus: Even as on account of texts like,"Brahman is Existence, Knowledge, Infinite" wehave to accept that intelligence constitutes theessential nature of Brahman, so also we have to admitthat It possesses a twofold characteristic, as otherwise such texts become meaningless (15). And thetexts say that much only, i.e. that Brahman has intelligence for its essential nature, and does not negative the other attributes of Brahman (16). The Srutiand Smriti state thus (17). For this very reason arecomparisons such as reflected images of the sun.Brahman, although abiding in manifold places, everpossesses the twofold characteristic and is not contaminated even as the sun reflected in dirty water isnot polluted (18).
 
@@ -448,11 +335,7 @@ subject to Karma like the souls which being e.nbodiedare subject to it (14). To 
 
  A glance through these three commentaries onthese Sutras convinces one of the superiority andreasonableness and also of the logical consistency ofSankara's interpretation. Moreover, it has the merit
 
-
-
 of dealing with the solution of an important doubtthat arises in the mind of even a casual reader ofthe Upanishads, viz. as to the nature of Brahman―whether it is qualified or non-qualified; for the Srutitexts seem to support both views though they arecontradictory. Râmânuja and Nimbârka ignore suchan important subject and see a less important subjectdiscussed in these Sutras. Secondly, they fail to bringout the force of the words of the Sutras in bold reliefas Sankara does, e.g. 'twofold characteristic' of Sutra11 which refers to contradictory qualities in Sankara,but not so in the other two. They therefore seem tooverlook what is actually taught in the Sutras andbring in a subject-matter not meant by the aphorist.We shall be doing an injustice to Bâdarâyana to thinkwith Râmânuja and Nimbârka that he had omittedto discuss such an important subject in his workmeant to systematize the teachings of the Upanishads.No doubt Râmânuja broaches this subject in Sutras 15and 16 and says that both these views are to beaccepted; but his interpretation of Sutra 16 is indeedstretched and cannot be accepted, while Nimbârkadoes not discuss the subject at all. We cannot thinkwith Râmânuja that Bâdarâyana disposed of such animportant subject in one or two Sutras in a topicwhich deals with quite a different subject-matter andof less importance. Râmânuja's introducing thissubject in Sutras 15 and 16 is against the spirit of theAdhikarana (topic) even according to his own interpretation. It is something which he forcibly intro-
-
-
 
 duces out of all relation to the context, as anybodycan easily see.
 
@@ -460,13 +343,9 @@ duces out of all relation to the context, as anybodycan easily see.
 
  Sutras 22-30 Sankara takes as a separate topicand interprets 22 to 24 as follows: What has beenmentioned up to this (i.e. the two forms of Brahmanmentioned in Brih. 2. 3. 1) is denied by the words"Not this, not this" (Brih. 2. 3. 6) and the Sruti sayssomething more than that afterwards. It does notdeny Brahman but Its forms mentioned earlier, theirtranscendental reality (22). The objection thatBrahman is denied because It is not experienced isnot reasonable, for the Sruti says that Brahmanexists, though It is not manifest on account of ignorance (23). And moreover It is realized in perfectmeditation, so say the Sruti and Smriti (24). Therefore the Jiva becomes one with the Infinite whenKnowledge dawns, for thus the scripture indicates(26). In the next two Sutras an objection is raisedagainst Sutras 25 and 26. But on acount of bothdifference and non-difference being taught by theSruti, the relation between them is as between theserpent and its coil (27), or like that between light
 
-
-
 and its orb (28). Sutra 29 refutes this view andsays: Or the relation is as given before in SutrasAnd on account of the denial of everythingelse besides Brahman by the Sruti texts (30).
 
  Râmânuja continues the previous topic up to26. Sutras 22-26 according to him mean: The text(Brih. 2. 3. 6) denies the previously mentioned that-muchness and says more than that. The two forms.of Brahman (Brih. 2. 3. 1) do not exhaust Its attributes, for the text states further qualities after that."For there is nothing higher than this 'not this'.Then comes the name, 'the Truth of truth'; for thePrânas are true and It is the truth of them." Prânas'here mean the souls, because they accompany thelatter at death. The souls are true, because they donot undergo any change in their essential nature. TheLord is the Truth of these true souls, for thesecontract and expand with respect to intelligence,while He is unaffected. Thus the subsequent part ofthe text connects Brahman with some qualities. Theclause "Not this, not this" does not deny theattributes of Brahman, but denies that Its nature isconfined to these two forms only (22). The Srutiinstruction is not unnecessary here, for though theworld is seen, yet it is not known as a Prakâra or modeof Brahman and that is what can be gathered onlyfrom the Sruti texts. So declares the Sruti (23). AndBrahman's being differentiated by these two forms isrealized even as Its being of the nature of intelligenceis realized by repeated meditation (25). For all these
-
-
 
 reasons Brahman is regardedas Infinite. i.e. aspossessing infinite attributes; for thus the attributeshold good, i.e. the twofold characteristic of Sutra 22(26). Sutras 27-30 are treated by Râmânuja as aseparate topic. Sutras 27 and 28 give the Purvapaksha, as Sankara also says, and 29 gives theSiddhânta; but the words 'as before' in the Sutrarefer not to Sutras 25 and 26, but to 2. 3. 43.
 
@@ -474,15 +353,9 @@ reasons Brahman is regardedas Infinite. i.e. aspossessing infinite attributes; f
 
  Sankara thus interprets "Not this, not this" as adenial of the two forms of Brahman mentioned inBrih. 2. 3. 1. Brahman can be described only as"Not this, not this," i.e. It is not what we see.Whatever we see is not Brahman as It is. Brahmanis something different from all this manifested world.This interpretation is in keeping with scriptural
 
-
-
 teaching. Râmânuja and Nimbârka interpret that"Not this, not this" denies only the limitation ofBrahman's nature to only these two forms, in otherwords It has many more attributes than these two.The two forms are real and are only two of theinfinite attributes of the Lord. This seems to be atotal denial of the Upanishadic teaching. "Not this,not this" occurs in four different places in the Brih.Up. Even if Râmânuja's explanation be allowed inBrih. 2. 3. 6-however strange and twisted it mightseem, Brih. 4. 2. 4, 4. 4. 22 and 4. 5. 15 do not byany means yield to such an. interpretation. Thesetexts after saying, "This Self is that which hasbeen described as 'Not this, not this,' " " says, ''It isimperceptible" etc. Other texts also describe theSelf or Brahman as beyond comprehension. "Theregoes neither the eye, nor speech nor the mind; weknow It not nor do we see how to teach about It.Different It is from all that is known, and is beyondthe unknown as well" (Kena 1. 3-4); "Whence speechreturns along with the mind without realizing It"(Taitt. 2. 4); also Ibid 2. 9 and Katha 1. 3. 15.From these texts we find that nothing can bepredicated of Brahman. From the Kena texts wefind that we cannot say that Brahman is this andthis in a positive way. It is not what we see andtherefore It can only be described as "Not this, notthis" by denying everything we see in It. It is truethat we do find the scriptures dealing with bothdifference and non-difference; but with what object,
 
-
-
 is the question. It is not to establish that both aretrue, for they are mutually contradictory. A carefulstudy of the scriptures convinces one that duality istaught in order to take the aspirant step by stepthrough it to non-duality. Râmânuja in his Bhâshyaon these Sutras criticizes Sankara saying that theSruti could not have described these two forms onlyto deny then later on. But that this is a process theSruti adopts is clear from Prajâpati's instruction toIndra in the Chhândogya or Varuna's teaching toBhrigu in the Taittiriya Upanishad. The aspirant isgradually taken to higher and higher truths. Throughduality he is led up to non-duality, the goal or finaltruth. Duality has not been praised anywhere in thescriptures, and no fruit is ascribed to it. On the other10-11 ; Brih.hand it is censured (*vide* Katha 2. 4.4. 4. 19; Mait. 4. 2. and 6. 3), which shows that thescriptures do not intend to posit duality. But nonduality is praised and immortality is said to beachieved by the knowledge of unity. According tothe Purva Mimâmsâ principle, that which has noresult of its own but is mentioned in connection withsomething else which has a result, is subordinate tothe latter. Therefore duality which has no fruit ofits own is subsidiary to non-duality which is the mainpurport of the Sruti texts. Again we have texts like,"The Atman is smaller than the smallest, greaterthan the greatest” (Katha 1. 2. 20); "Neither grossnor fine" etc. which negate all duality and establishthe Infinity of Brahman beyond all doubts.
-
-
 
  A question, however, may arise: If everythingis negated, what will be left? We shall by such aprocess arrive at a nonentity. Not so. We cannotgo on negating *ad infinitum*, but have to come finallyto some basic reality, and this basic reality behindeverything is the Atman or Brahman. When weremove an object, space is left behind. Similarly,when everything we see is removed or negated,Brahman is left behind, which cannot be negated andwhich is the witness of everything. We cannot saythat by negation we come to nonentity, for the veryfact that we comprehend this nonentity shows thatit is being illumined by the witnessing consciousness,the basic reality even behind this idea of nonentity.In this Sutra the Sutrakâra solves this doubt, showingthat the negation concerns not Brahman, but onlythe two forms of It. To turn the drift of this discussion topsy turvy and establish the reality of the twoforms is to ignore the spirit of scriptural teaching.
 
@@ -490,11 +363,7 @@ is the question. It is not to establish that both aretrue, for they are mutually
 
  There is a common belief that Mâyâvâda is notfound in the scriptures and that it is Sankara's owndoctrine borrowed from the Buddhists. But such astatement is scarcely justified. In the Brihadâranyakatext under discussion we have, "Now its name: 'TheTruth of truth.' The vital force is truth, and It isthe Truth of that” (Brih. 2. 3. 6). If the vital force,i.e. Prâjna (the soul in a state of deep sleep) of whichthe vital force is an Upâdhi is true or real, Brahman
 
-
-
 is the Truth or Reality of this real. In other words,Brahman's reality is of a different grade from that ofthe universe. If this world is real and not Mâyâ, asSankara would call it, then Brahman is the Realityof this real, which shows that the world's reality isof an inferior kind from that of Brahman and whenIt is realized this world is no more. A similar ideais conveyed by Chh. 7. 24. 1 where Brahman, theInfinite, is said to be immortal and the world, thefinite, is said to be mortal. But this is exactly whatSankara too says—that the two, Brahman and theworld, have two grades of reality, even as the dreamworld and the world we experience while we areawake have two grades of reality, and as a resultwe are justified in saying that the dream world isMâyâ, as the Sutrakârâ says in 3. 2. 3, or unrealas compared with the waking state. Similarly, thisworld we experience is Mâyâ or unreal as comparedwith the reality of Brahman. The dream world hasa reality for the time being; so has this world solong as we are in ignorance; and Sankara nowheredenies the Vyavahârika (phenomenal) reality of thisworld. The scriptures explain this difference betweenthe reality of the two, Brahman and the world, byusing symbology, as for example in Chh. 6. 1. 4, whichwe had occasion to explain in Sutra 2. 1. 14 where theSruti tries to explain that the one, the clay, is morereal than the many, which it identifies with name andform only. We find the same idea again in Brih.1. 6. 3: "This immortal entity is covered by truth (the
-
-
 
 five elements): The vital force is the immortal entity,and name and form are truth; (so) this vital force iscovered by them." Name and form, i.e. the worldwe experience, are called truth, but Brahman isdistinguished from them by saying that It is immortal—Its reality is of a different grade from the realityof that which is called truth. And as the reality ofthis world is of a lesser grade or illusory as comparedwith that of Brahman, It can be the cause of such anillusory world of manifoldness without undergoingany change in Itself; for an illusory manifoldness canexist in It without in any way affecting Its immutability, like a snake in a rope or the manifold dreamworld in the dreaming self, as the Sutrakâra exemplifies in 2. 1. 28, which brings us to the conclusion thatthis world is a Vivarta of the non-dual Brahman, asSankara says.
 
@@ -502,13 +371,9 @@ five elements): The vital force is the immortal entity,and name and form are tru
 
  That Sankara has followed the Sutrakâra faithfully in his interpretation of Sutras 11-30 will beclearer if we just try to see the reason why the latter
 
-
-
 treats of dream and deep sleep in this section whichdeals with the nature of Brahman. Sankara at thebeginning of Chapter III, Section 1, says that thetransmigration of the soul is taught in order togenerate a spirit of Vairâgya (dispassion).
 
  Sutras 1-10 of Section 2 treat of the soul's statesof dream and dreamless sleep. According to Sankarathe very fact that the dream world does not fulfilthe conditions of the time and space factors as inthe waking state, shows that the dream world isillusory and therefore a creation of the soul and notof the Lord. From this he shows that the real natureof the Jiva is self-luminous and beyond all thesestates. Thus Sutras 1-10 elucidate the real nature ofthe 'Thou' in "Thou art That." Sutras 11-21 givethe nature of 'That' and Sutras 22-30 identify thetwo. Thus the place of Sutras 1-10 in this section isvery significant. Râmânuja and Nimbârka say thatthe creation of the dream world belongs to the Lordand not to the soul. If it were so, it should be asreal as this world. Granting that it is the Lord'screation, of what significance is this subject in asection that deals with the nature of Brahman? Itwould have been apt in 2.3 where creation is taught.If it be to create a spirit of Vairâgya, as Râmânujasays at the beginning of Chapter III, then it ought tohave been included in Section 1 which treats of thesoul's transmigration with the same object, and thusbe separated from Section 2 where it is out of place.
-
-
 
  The above analysis of Sutras 3. 2. 1-30 shows thatSankara has rightly grasped the spirit of Bâdarâyana,while Râmânuja and Nimbârka have sadly missed it.
 
@@ -518,13 +383,9 @@ treats of dream and deep sleep in this section whichdeals with the nature of Bra
 
   Râmânuja and Nimbârka on the other hand readthese Sutras as one, which runs as follows: "If itbe said that the Prânas of a knower of Brahman donot depart on account of the denial by the Sruti text
 
-
-
 (Brih. 4. 4. 6, Kânva), we deny it; for the Sruti saysthat they do not depart from the soul (*i.e*. theyaccompany the soul) and this is clear accordingto some, *viz.* the Mâdhyandina recension of Brih.4.4.6." We cannot but say that this is more happy,as the force of 'some school' and the word 'hi'(because) in the Sutra are well brought out.
 
  Though the interpretation according to the letterof the Sutra forces us to side with Râmânuja andNimbârka, yet if we consider the Sruti text, viz. Brih.4. 4. 6, on which the discussion is based and also thearrangement of the Sutras in this Section 2 up toSutra 16, we find that Sankara is more reasonablethan the other two and it looks as though the Sutrakâra himself had made a slip, though he meant otherwise. Brih. 4. 4. 6 says in the first half of the texthow one who is attached transmigrates, and concludesthe first half by saying, "Thus does the man whodesires transmigrate.” The second half speaks of theman without desires and says, "Of him who is without desires . . . and to whom all objects of desire arebut the Self—the organs do not depart. Being butBrahman, he is merged in Brahman." Here it isquite clear that the Sruti contrasts the two cases ofone who is attached and one who is not attached andso does not transmigrate but is merged in Brahman.Now it is well known both from the scriptures andthe Vedânta-Sutras itself that a transmigrating soulat the time of death goes out with the organs, and sowhen in contrast to this it is said, "His organs do not
-
-
 
 depart," it is quite clear that the denial of departureof the Prânas is from the body as in the case of onewho is attached, and consequently the expression'from him' in the Mâdhyandina recension even oughtto mean the body and not the soul.
 
@@ -532,25 +393,15 @@ depart," it is quite clear that the denial of departureof the Prânas is from th
 
  We now come to the last section of the workwhere the state of the released soul is described.Sutras 1-3 describe that on the attainment of Knowledge the soul manifests itself in its own nature.Sutra 4 says that it attains non-distinction withBrahman. The question as to what the nature ofthat state is naturally arises after this and Sutras 5-7attempt a description. The views of Jaimini andAudulomi are given and finally in Sutra 7Bâdarâyana says that both these views are true, forthey are not contradictory. The question is, whetherthe views of Jaimini and Audulomi are true of thereleased soul in succession or simultaneously. Bâdarâyana's decision is that they are true at one andthe same time according as the subject is viewed
 
-
-
 from the relative ortranscendental standpoint.Sankara makes this clear in his Bhâshya. His criticsfind fault with him here. They say that he is obligedin this Sutra to ascribe to the truly released soulqualities which clearly cannot belong to it, since forsuch a soul no Vyavakhâra exists. They say therebythat his interpretation is not faithful. Such a criticismshows that they have failed to understand whatSankara means here. He does not say that thereleased soul is conscious of itself as possessing allthe qualities described by Jaimini, but that we whoare in bondage are obliged in describing the state ofsuch a soul to have recourse to such a description.In reality the soul when released exists as PureIntelligence, but as Pure Intelligence is beyond ourconception, we in our ignorance view it as identifiedwith Iswara, for that is the highest reading of PureIntelligence or the Nirguna Brahman that we canpossibly conceive. Certainly there exists no Vyavahâra at all for the released soul, which is free fromignorance; but it exists for us who are in ignoranceand Jaimini's description of the state of a releasedsoul is our description of it. Iswara's possession ofpowers is not like that of an ordinary Jiva whichbeing subject to Nescience thinks of itself as anexperiencer, an agent, and so on. He is beyond alltaint and therefore not subject to Nescience, andconsequently does not think of Himself as possessingall these lordly powers; but these powers exist inHim, because we in our ignorance ascribe them
-
-
 
 to Him. Even so are these lordly powers ascribedto the released soul by us and it is regarded asidentical or having attained non-distinction withIswara. This is the full import of Sutra 7 bothaccording to Bâdarâyana and Sankara. So till allsouls are released, the state of the released partakes'of a twofold characteristic according to the viewpoint from which it is described—transcendental orrelative, even as Brahman has a twofold characteristicof which one is illusory or read from the relativestandpoint (*vide* 3. 2. 11-21). This attainment ofJordly powers by souls on identification with Iswarais not the same as the attainment of such powersby the knowers of the Saguna Brahman who go toBrahmaloka, for it is made clear in 4. 4. 17 that theirlordly powers do not include the power of creationetc., but only power to create objects of enjoymentsat will (4. 4. 8), while this power is not negated in thecase of souls which get identified with Iswara according to Sutra 4. 4. 5 and 7.
 
  That the Sutrakâra makes a distinction betweenthe attainment of Liberation by the knowledge of theNirguna Brahman and that by the knowledge of theSaguna Brahman, is clear from Sutra 4. 1. 19, wherehe makes no reference to any going forth in the caseof a Jivanmukta, but simply says that on the exhaustion of the Prârabdha Karma he attains Brahman andthis is also in keeping with texts like Brih. 4. 4. 6and especially Chh. 6. 14. 2 where it is clearly statedthat his merging in Brahman is delayed just as
 
-
-
 long as the body lasts. But going to Brahmalokaby "the path of the gods" is also a kind of Liberation,for from there the soul does not return to this mortalworld, but gets merged in Brahman at the end ofthe cycle together with Brahmâ, as stated in Sutra4. 3. 10. As the author is concerned in this section,with the result of Upâsanâs, *viz.* Liberation, hedescribes the result of the knowledge of the NirgunaBrahman in Sutras 1-7 and from 8-22 the result ofthe knowledge of the Saguna Brahman. If, as according to Râmânuja and Nimbârka, there is no suchdistinction at all, but the description is of one kindof Liberation only, then when it is said in Sutra4. 4. 5 that the released soul attains a nature likethat of Brahman, there is no further necessity ofsaying that it can create at will all objects of enjoyment. Moreover, if being free from sin, old age etc.(Chh. 8. 1. 5) are qualities of the soul as well as of theLord, then they will cease to be the definingcharacteristic of the Lord. In this case the objectionraised in the first part of Sutra 1. 3. 19 will not beanswered by the second half of the Sutra. The Sutraruns as follows: "If it be said that from the subsequent texts which refer to the Jiva 'small Âkâsa'means the Jiva, we say that the reference to the soulis in so far as its real nature is made manifest (i.e.as non-different from Brahman)." In the previousSutra it was established that the 'small Akâsa' inChh. 8. 1. 1 is Brahman and not the Jiva, in spiteof the reference to the Jiva in Chh. 8. 3. 4, for 'free
 
-
-
 from evil' etc. which are said to be qualities of the'small Âkâsa' are not true of the soul. At the endof his commentary on Sutra 18, Sankara says thatSutra 20 will make it clear why the individual soulis referred to in Chh. 8. 3. 4. In Sutra 19 citedabove a fresh objection is raised that subsequenttexts also refer to the Jiva (*vide* Chh. 8. 7-11 inwhich the waking, dream, and deep sleep state of thesoul are described) and therefore 'Âsmall kâsa' meansJiva. The second half answers it by saying that thereference to the Jiva is in so far as its real natureis made manifest (*vide* Chh. 8. 12. 3). The referenceto the individual soul in Chh. 8. 3. 4 is to show thatin reality it is beyond the three states of waking,dream, and deep sleep and non-different fromBrahman. If under the circumstances 'free from sin'etc. are its qualities even as different from Brahman,as Râmânuja says, then 'small Âkâsa' cannot beestablished to be Brahman against the objectionraised in Sutra 1. 3. 19. Moreover, in Sutra 1. 3. 20(according to him 19) the explanation given by himfor the reference to the Jiva in Chh. 8. 3. 4 is notat all satisfactory. He says, "This reference to theJiva serves the purpose of giving instruction notabout the Jiva, but about the nature of that whichis the cause of the qualities of the individual soul,i.e. qualities specially belonging to the Lord. Thereason is that such information about the releasedsoul helps the doctrine with respect to 'small Âkâsa'.The individual soul which wants to attain Brahman
-
-
 
 must also know its true nature, so that it as beingendowed with auspicious qualities will finally arriveat the intuition of the Lord who is a mass of auspicious qualities raised to the highest excellence." Butaccording to Sankara we have seen that its referenceis to identify the two-the released soul and theLord. It is quite apparent that between the twoexplanations Râmânuja's falls to the ground. Suchan argument does not at all fit in as an explanationfor the reference to the released soul in Chh. 8. 3. 4and is against the spirit of the teaching of the wholeof chapter 8 of the Chhândogya. Sankara's criticsfind fault with him taking into consideration onlySutra 1. 3. 19%; but ifthey only try to understandthe Sutrakâra taking into consideration Sutras 18-20and the Sruti texts to which they refer, they willfind that Sankara's interpretation is by far the best.
 
@@ -560,21 +411,15 @@ must also know its true nature, so that it as beingendowed with auspicious quali
 
  Thus a comparative study of these three commentaries on the most important topics treated byBâdarâyana in his work establishes a strong case forSankara's interpretation of the Sutras. We findsimilar views also expressed in the Gitâ.And if,as has been shown at the beginning, the author of theGitâ had a hand in the Sutras-and this fact isnot questioned by Râmânuja and Nimbârka, for
 
-
-
 according to them it is the same person Veda Vyâsa―then it goes all the more to show that Sankara'sinterpretation is correct, for we cannot expect thatthe same author has expressed different views in thetwo works. We shall cite a few texts from the Gitâwhich tally with Sankara's interpretation of thSutras.
 
  "I shall describe that which has to be known,the beginningless Supreme Brahman. It iscalled neither being nor non-being,...Withoutand within all beings.Impartible, yet It exists asif divided in beings" (13.12-16)-these texts describethe attributelessness of Brahman.The text saysthat the one Immutable appears *as if divided* intomany and not in reality. It Itself, therefore, is "thesustainer, generator, and devourer of all beings"(13. 16); also 7. 6 and 7. That Brahman has a twofold nature, the Nirguna which is Its real nature andthe Saguna which is the creation of Mâyâ, is madeclear by Arjuna's question in 12. 1 and the Lord'sanswer in 12. 2-5, 'where He recognizes the Nirgunaaspect, but says at the same time that those devotedto the Saguna aspect are better versed in Yoga, asdevotion to it is easier and therefore best suited toArjuna and the generality of mankind, even as Hesays in 5. 6 for the same reason that Karma Yoga isbetter than Jnâna Yoga.
 
  The individual soul in its real nature isdescribed in 2. 11-25. Specially verses 16-18 say thatit is real, all-pervading, changeless, immutable,
 
-
-
 indestructible and illimitable, while verse 24 againsays it is all-pervading. Again 6. 31 establishesthe identity of the self and Brahman contained inthe Vedic dictum, "That thou art," verses 29 and30 having described the real nature of 'thou' and'That'; while 13. 29-34 describe the real nature ofthe soul as identical with Brahman. But the soulin its state of bondage being deluded considers itselfan agent and experiencer, atomic and a part of theLord. "The Gunas of Prakriti perform all action.With the understanding *deluded* by egoism, manthinks, 'I am the doer'" (3. 27). See also 14. 23and 15. 7.
 
  The doctrine of Mâyâ is clearly referred to inthe following texts: "Knowledge is enveloped inignorance, hence do beings get deluded" (5. 15);"This world knows Me not, being deluded by themodifications of the Gunas. Verily this divine Mâyâof Mine is difficult to cross over . . . deprived of discrimination by Mâyâ they follow the Asuric ways"(7. 13-16); "I am not manifest to all, being veiledby My Yogamâyâ” (7. 25); "The Lord dwells inthe heart of all beings causing them to revolve byHis Mâyâ" (18. 61). Finally, though stress is laidon Bhakti in the Gitâ, nowhere does it say thatBhakti is superior to Knowledge. On the other handwe find Knowledge highly praised. "The fire ofKnowledge burns all Karma to ashes. There existsnothing so purifying like Knowledge” (4. 37-38);
-
-
 
 "Supremely dear is the wise man to Me. I regardhim as My very Self" (7. 17-18).
 
@@ -583,19 +428,13 @@ indestructible and illimitable, while verse 24 againsays it is all-pervading. Ag
  In conclusion, we would like to state that fromwhat all has been said above we do not mean tosuggest that Sankara's interpretation of the Sutrasis the only true one. Rather our object has beento show that Sankara too, like the other great commentators, is justified in interpreting the Sutras inthe way he has done. The fact is, Bâdarâyana hassystematized the philosophy of the Upanishads inhis work, and like them his Sutras also are all-comprehensive. The Upanishads, we must remember, donot teach throughout any particular doctrine. Theycontain various doctrines which are meant for peopleat different stages of spiritual evolution. They arenot contradictory, but rather they are based on theprinciple of Adhikâribheda, as all are not capableof apprehending the same truth. The old idea ofArundhati-darasana-nyâya¹ applies. Nearly everychapter in the Upanishad begins with dualistic teaching or Upâsanâ and ends with a grand flourish ofAdvaita. God is first taught as a Being who is thecreator of this universe, its preserver, and the destruction to which everything goes at last. He is theone to be worshipped, the Ruler, and appears to beoutside of nature. Next we find the same teacher  
  ¹The method of spotting the tiny star Arundhati withthe help of bigger stars near it, calling them Arundhati.
 
-
-
 teaching that God is not outside of nature, but immanent in nature And at last both ideas are discardedand it is taught that whatever is real is He; there isno difference. "Svetaketu, thou art That." Theimmanent one is at last declared to be the same thatis in the human soul[^10].This fact is recognized byBâdarâyana too and so commentators make a mistakewhen they think that the Sutras propound only theirdoctrine and nothing else.
 
 [^10]: "Complete Works of Swami Vivekananda, Vol. III.pp. 281, 397, and 398."
 
  This grand principle of Adhikâribheda is thefoundation on which the teachings of the Upanishads,the Brahma-Sutras, and the Gitâ are based and that isthe reason why they have been universally acceptedby the Hindus of all classes and denominations.From this point of view we are inclined to think thatof all the commentators Sankâra has done the greatestjustice to the Sutrakâra by his twofold doctrine ofthe absolute and phenomenal reality.
 
-
-
 **BRAHMA–SUTRAS**
-
-
 
 **ADHYÄSA OR SUPERIMPOSITION**
 
@@ -603,15 +442,11 @@ teaching that God is not outside of nature, but immanent in nature And at last b
 
  The question then naturally arises: If Truthis one, whence arises this many which we experiencethrough the senses? Truth cannot contradictexperience. So Sankara had to explain this apparentcontradiction between Truth and our everydayexperience. He says that this plurality is an illusion(Mâyâ). It has no reality, for it disappears whenthe knowledge of the true nature of Brahman isrealized. It is just like seeing a snake in a rope inthe dark. This wrong perception is brought aboutby ignorance (Avidyâ), which is beginningless. Itis this ignorance which is the cause of all this duality,
 
-
-
 Brahman being mistaken for the world. On accountof this ignorance the individual soul identifiesitself with its adjuncts (Upâdhis) viz. the body,senses, etc., which are only superimposed on it. Thisidentification makes the soul think that it is the doer,enjoyer, etc.-though the truth is that it is none ofthese and thereby it comes under the sway of birth,death, happiness, misery, etc., in short, becomesbound down to this world (Samsâra).
 
  When Sankara says that the world is false, hedoes not mean that it is absolutely nothing, but thatour experience is liable to be stultified by means ofknowledge of things as they are. The world has arelative existence; it is true for the time being, butdisappears when true knowledge dawns. It is notreal for all times, in other words, it is not real fromthe absolute standpoint. Mâyâ or ignorance is nota real entity. We can neither say that it exists northat it does not exist. It is a mystery which isbeyond our understanding; it is unspeakable (Anirvachaniya). As Mâyâ is not real, it cannot be relatedto Brahman, the Reality, in any way whatsoever;for any relation between truth and falsehood isimpossible. The relation is only apparent, and therefore Brahman is in no way affected by this illusionwhich is superimposed upon It, even as the rope isnot affected by the snake that is assumed to existin it.
 
  Therefore the only way to liberation from thisworldly existence (Samsâra) is to get rid of this
-
-
 
 wrong notion through the real knowledge of Brahman.Just as in the case of the rope and the snake, it isthe knowledge of the rope *alone* that removes theillusion of the snake and nothing else, so also it isthe knowledge of Brahman alone that brings aboutthe cessation of this relative existence (Samsâra)."A man who knows It alone truly, passes beyonddeath; there is no other path to go by" (Svet. 3.8);"He comes not to death who sees that One."Pilgrimages, austerities, worship and charity—theseby themselves, without Knowledge, cannot help usto attain Liberation. Their utility lies only inpurifying our mind (Chittasuddhi), cleansing it ofall worldliness, and thus making it fit to comprehendthe Truth. When Brahman is realized this phenomenal world disappears automatically, without anyfurther effort on the part of the individual.Knowledge of Brahman being thus the only wayto Liberation, an inquiry into Brahman through thestudy of the Brahma-Sutras is absolutely necessary.
 
@@ -619,13 +454,9 @@ wrong notion through the real knowledge of Brahman.Just as in the case of the ro
 
  Sankara anticipated that this method of explain-
 
-
-
 ing the phenomenal world would raise a protest fromthe various other schools of his time. So at thebeginning of his commentary on the Brahma-Sutras,he writes a masterly introduction, which is wellknown as the Adhyâsa Bhâshya or the section dealingwith superimposition, wherein he establishes superimposition as a statement of fact and not a merehypothesis. He starts with the objections that canpossibly be raised against his theory of superimposition and then refutes them. He says: It iswell known that the subject and the object, whichhave for their spheres or contents the notions of'I' and 'Thou' respectively, and which are opposedto each other as darkness and light, cannot beidentified. Hence their attributes also cannot beidentified. Consequently the superimposition of theobject and its attributes on the subject, whoseessence is pure intelligence, and *vice versa, ought tobe* a logical impossibility.
 
  If the world phenomena are a case of superimposition, like the snake in the rope, then whichis superimposed on which? Is the world superimposed on Brahman, or is it the reverse? In thelatter case, the world, which is the substratum, likethe rope in the example, would be a reality. If itis the other way—the world on Brahman—it is notpossible, for Brahman is not an object which can beperceived by the senses like the rope. A thingbecomes an object when it is limited by time, space,and causation. Since Brahman is unlimited, It is
-
-
 
 beyond these, and so cannot be an object of perception; as such It cannot be the substratum of asuperimposition. Brahman is also the inner Self ofeveryone and therefore can never be separate andin front of a person like a rope, when alone the worldcan be surimposed on It.
 
@@ -633,11 +464,7 @@ beyond these, and so cannot be an object of perception; as such It cannot be the
 
  Yet, says Sankara, it is natural (a self-evidentfact) on the part of man, because of ignorance, notto distinguish between the two entities (the subjectand the object), which are quite contradictory, andto superimpose the one on the other, and their
 
-
-
 attributes as well, and thus mixing up the real andthe unreal to use such phrases as "That is I", or"This is mine". The Self again is not altogether anon-object, for it is the object of the notion of theEgo. The Self does not entirely elude our grasp.Though the inner Self is not an object and is alsowithout parts, yet owing to ignorance, which isunspeakable and without a beginning, attributes likemind, body, senses, etc., which are products ofignorance, are superimposed on the Self, and itbehaves as if it were an agent, enjoyer, possessedof parts, and many—although in truth it is none ofthese and thus becomes an object. The real Selfcan never be an object of knowledge. Selfconsciousness is possible only with respect to a Selfalready qualified by these adjuncts (Upâdhis). Thissounds like an argument in a circle; for to establishsuperimposition we have to accept the Self to be anobject, and the Self can be an object only throughthe superimposition of adjuncts (Upâdhis); it isactually not so. It is a case like the seed and thetree. The seed gives rise to the tree, which againproduces the seed, the cause of the future tree, andso on. So in this series of illusions without abeginning, the Self, which is the substratum of thepresent superimposition, is an object on account ofa past superimposition, and that one had for itssubstratum the Self, which had become an objectof a still earlier superimposition, and soon *adinfinitum*. The pure Self without the limiting
-
-
 
 adjuncts is never the substratum of a superimposition. It is the difference in the limitingadjuncts, *as shown* above, that makes it possiblefor the Self to be at the same time an agent andthe object of action.
 
@@ -645,21 +472,15 @@ adjuncts is never the substratum of a superimposition. It is the difference in t
 
 But then direct perception, which is the best ofall proofs— since it is the basis of all other meansof knowledge like inference etc.—affirms this worldof manifoldness. How can the scriptures that deny it
 
-
-
 carry conviction as against direct experience? Theycannot. Hence scriptural textsthat deny the manyand uphold unity will have to be interpreted in amanner so as not to contradict our experience. Thisview cannot stand. For the scriptures (Srutis) areimpersonal, eternal, self-luminous, and so on. Theirvalidity is direct and self-evident and thereforeinfallible. They constitute by themselves an independent source of knowledge. Hence they too areto be accepted as authoritative. The fact is thateach evidence of knowledge has its own spherewherein it is absolutely authoritative. Perceptionhas its supreme validity in knowledge through thesenses. There a hundred texts cannot prevail againstit. The scriptures (Srutis) on the other hand havetheir absolute authority in a province where perception cannot be of any avail. Their province istranscendental knowledge, which cannot be attainedin any other way. Here revelation, which does notdepend on other sources of knowledge, is the finalauthority, and not perception or even reason. Thescriptures do not deny the empirical validity ofperception; they deny only its absolute or transcendental validity.
 
 **SUPERIMPOSITION DEFINED**
 
  Superimposition, says Sankara, is the apparentpresentation to consciousness, by way of remembrance, of something previously observed in someother thing. It is an *apparent presentation,* that is
 
-
-
 knowledge which is subsequently falsified; in otherwords, it is illusory knowledge. According toVâchaspati Misra this is the fundamental characteristic of superimposition, and the rest of the definitiononly differentiates it from those given by otherschools of philosophy. But the author of the commentary *Ratnaprabhâ**takes apparent presentation insome other thing* as the characteristic mark of superimposition, and this seems to be more in keeping withSankara, who says in his commentary: "But allthese definitions agree in so far as they representsuperimposition as the apparent presentation of theattributes of one thing in another thing."
 
  As it is impossible to have illusory knowledgewithout the mixing up of two things, we find thewords *something previously observed* in the definition.These words, together with the words *apparent presentation*, make it clear that the thing superimposedis not the real object seen some time before, butsomething like it. A mere experience, and not thereality, is what is necessary; hence the wordobserved. The experience should not be a presentone, but a past one, and that is the significance ofthe word *previously.* So the thing superimposed isa false or unreal thing. But the thing on which itis superimposed is a real thing. The words *by wayof remembrance* excludes all cases of recognitionwhere the object previously observed again presentsitself to our senses, as when a person seen ata particular place is again seen at another place. In
-
-
 
 remembrance the object previously observed is notin renewed contact with the senses. It is mereremembrance that operates in the case of superimposition.
 
@@ -667,15 +488,11 @@ remembrance the object previously observed is notin renewed contact with the sen
 
  The Prâbhâkara school of Mimâmsakas raise afresh objection. How can the world be unreal ornon-existent? Non-existence is not a category byitself; it can be conceived only in relation to a *real*object. We speak of non-existence when one realobject is predicated in terms of another real object.When we think of a pot in terms of a cloth, we say
 
-
-
 *the negation of the cloth* is the pot. That is all thatis meant by non-existence; apart from this, it has noreality. An unreal object can never be the objectof our experience. So this world, if it were unreal,could never be the object of our experience.
 
  Applying this argument in the case of a mirage,we find that the reality, the sun's rays refracted bylayers of air, is, according to the Mimâmsakas,nothing but the *negation of water,* and it is therefore*self-evident* that the phenomenon we experiencecannot be water. Neither can they say that thewater in the mirage is not real, since it is experienced.So the water in the mirage is neither real nor unreal,nor can it be both at the same time. Therefore wehave to accept the phenomenon as something beyondour comprehension (Anirvachaniya), which is exactlythe view of Sankara.
 
  Sankara says that the nature of objects is two-fold, real and unreal. The first manifests by itsvery nature, depending on the object itself; thesecond, the unreal appearance, depends on someother thing for its manifestation. In a mirage therays of the sun are a reality, but their appearanceas water is unreal and depends on something else,the impressions (Samskâras) produced by seeingwater elsewhere before. That which is real alwayscontinues to be so, but the unreal is ever changing.Brahman, the Reality, remains unchanged; but Mâyâand its products, which are assumed to exist inBrahman, are unreal and therefore everchanging, yet
-
-
 
 experienced by us. The world phenomena are neitherreal nor unreal, nor both; they are unspeakable(Anirvachaniya).
 
@@ -684,25 +501,17 @@ OTHER SCHOOLS**
 
  The four schools of philosophy in Buddhismdefine superimposition as "the superimposition ofthe attributes of one thing on another”. They maintain that in superimposition forms of cognition, ormodes of the internal organ in the form of theobject, are superimposed on an external object whichitself may be real or illusory. The Prâbhâkarasrefute this definition, for according to the Buddhiststhere is no separate entity called the Self apart fromconsciousness (Vijnâna). The Self is but a form ofconsciousness. If in an illusion, where a rope istaken for a snake, the snake also be a form ofcognition, then our experience ought to be of thekind, "I am a snake" or "My snake", and not as"This is a snake". Therefore Prâbhâkaras definesuperimposition as "an error arising from the nonperception of the difference of that which is superimposed from that on which it is superimposed".There is no positive wrong or illusory knowledge,but a mere non-perception of the difference betweentwo real experiences, one of which is a pastexperience. Where a mother-of-pearl is taken forsilver, the difference between the mother-of-pearlseen at the moment and the silver remembered is not
 
-
-
 perceived. Naiyâyikas refute this definition on theground that mere nonperception of the differencecannot induce us to action. But as a matter of factwe are tempted to possess the silver seen in a mother-of-pearl. Where there is no positive knowledge, as,for example, in profound sleep (Sushupti), there is noactivity. It is positive knowledge that is responsiblefor our activity, as we find from our experience inthe dream and waking states. Nor can a nereremembrance induce us to action. So in illusion weare conscious of silver as a reality present before us,and not as a mere remembrance.
 
  The Naiyâyikas therefore define superimpositionas "the fictitious assumption of attributes (like thoseof silver) contrary to the nature of the thing (e.g.the mother-of-pearl) on which something else (silver)is superimposed". An identity is established between the object present before us (the mother-of-pearl) and the silver remembered, which is not hereand now, but imagined, and which *exists as* *a realitysomewhere else.* The person is not conscious thatit is only a memory of silver, and not an actuality.This identity between the silver seen elsewhere andthe mother-of-pearl is what gives rise to the illusion.There is thus a positive factor in this experience,which is not the case in the Prâbhâkaras' definition.Yet it may be questioned how the silver which existselsewhere can be in contact with the senses, whichis essential if the silver is to be experienced as anactuality in front of us and not a mere memory.
-
-
 
 If it be said that there is transcendental contact(Alaukika Jnânalakshana Sannikarsha) of the senseswith it, then where fire is inferred from smoke wecan say it is also a case of transcendental contact,and inference as a means to knowledge becomesunnecessary. Therefore we have to accept that inillusion an indescribable (Anirvachaniya) silver isproduced, which is a reality for the time being. Itis this silver which is directly perceived by the sensesand gives rise to the knowledge, "This is silver".The silver that is seen in the mother-of-pearl is notpresent somewhere else, for in that case it couldnot have been experienced as here and now; noris it in the mind. Neither is it a mere nonentity,for then it could not have been an object of perception; nor can it be inherent in the mother-of-pearl,for in that case it could not have been sublatedafterwards. So we are forced to say that the silverhas no real existence anywhere, but has only anapparent reality for the time being which isunspeakable.
 
  This superimposition is called ignorance (Avidyâ),metaphorically, the effect being put for the cause.Ignorance does not mean want of knowledge, butthat kind of knowledge which is stultified later onby the knowledge of things as they are. Its counterpart is called knowledge (Vidyâ). When the Selfis discriminated from its limiting adjuncts throughvedântic discipline and practice (Sâdhanâ), viz.hearing of scriptural texts, reflection, and meditation
 
-
-
 on them, then knowledge dawns, which destroys thissuperimposition. A mere intellectual knowledge ishowever not meant here, but actual realization.Since through this superimposition the two objectsare not in the least affected by the good or badqualities of each other, once true knowledge dawns,it roots out ignorance with all its effects, leaving nochance of its cropping up again. The recrudescencewould have been possible if owing to the superimposition the Self was in any way contaminated bythe non-Self and its properties.
 
  This superimposition (Adhyâsa) due to ignorance is the presumption on which are based thedistinctions among the means of knowledge, objectsof knowledge, and knowing persons, in our career ofdaily activity, and so are also based all scripturaltexts, whether they refer to rituals (Karma) or knowledge (Jnâna). All our experience starts in this errorwhich identifies the Self with the body, senses, etc.All cognitive acts presuppose this kind of falseidentification, for without it the pure Self can neverbe a knower, and without a knowing personality, themeans of right knowledge cannot operate. Therefore the means of right knowledge and the scripturaltexts belong to the sphere of ignorance (Avidyâ).They are meant only for one who is still under ignorance and has not realized the Self. They are validonly so long as the ultimate Truth is not realized;they have just a relative value. But from the standpoint of the ultimate Truth, our so-called knowledge.
-
-
 
 is all Avidyâ or no knowledge at all. In the phenomenal world, however, they are quite valid and arecapable of producing empirical knowledge.
 
@@ -710,18 +519,12 @@ is all Avidyâ or no knowledge at all. In the phenomenal world, however, they ar
 
  It may seem rather strange to say that eventhe scriptures belong to the field of ignorance(Avidyâ); for though in ordinary matters of cognitionetc. we may resemble animals and act throughignorance, yet in matters religious, such as the performance of sacrifices, the person who engages himselfin them has the knowledge that the self is separatefrom the body, since otherwise he cannot expect toenjoy the fruits of his ritualistic acts in heaven, thebody being destroyed at death. But we forget thatthough a person who engages himself in ritualisticacts may have a knowledge of the Self as distinctfrom the body, yet it is not necessary that he should
 
-
-
 have a knowledge of the real nature of the Self asgiven by the Vedânta texts; rather such knowledgeis destructive to him. For how can a person whoknows the Self to be not an enjoyer, agent, and soforth undertake any sacrifice enjoined by thescriptures? Scriptural texts like, "A Brâhmanashould perform a sacrifice," are operative only onthe supposition that attributes such as caste, stageof life, age, and circunstances are superimposed onthe Self, which is none of these. Not only isritualism (Karmakânda) meant for persons underignorance (Avidyâ), but even so is the Vedânta; forwithout the distinction of the means of knowledge,objects of knowledge, and knower it is not possibleto comprehend the meaning of the Vedanta texts.A person who is conscious of these distinctions isunder the sway of ignorance (Avidyâ), being in theworld of duality. But there is a difference between  
 Vedanta and ritualism. While the latter has for itsgoal that which is within the sphere of ignorance,like enjoyment in heaven etc., the former helps oneto realize his true nature, which destroys allignorance.
 
  How can ignorance lead to knowledge? Empirical knowledge can produce transcendental knowledgethrough its empirical validity. To put it in SriRamakrishna's beautiful language, "When we runa thorn in our hand we take it out by means ofanother thorn and throw out both. So relativeknowledge alone can remove that relative ignorance which blinds the eye of the Self. But such
 
-
-
 knowledge and such ignorance are both alike includedin Avidyâ; hence the man who attains to the highestKnowledge (Jnâna), the knowledge of the Absolute,does away in the end with both knowledge andignorance, being free himself from all duality." Butbefore the dawning of real knowledge the authorityof the Vedas stands unquestioned, for a knowledgethat has not been realized cannot prevent a personfrom entering on ritualistic activities. It is onlyafter realization that scriptural texts cease to beoperative. But before that, "Let the scriptures bethy authority in ascertaining what ought to be doneand what ought not to be done. Having knownwhat is said in the ordinance of the scripturesthou shouldst act here" (Gita 16.24). But whenrealization dawns, then, "To the sage who has knownthe Self, all the Vedas are of so much use as areservoir is when there is flood everywhere" (Gita 2.46). It is only for the knower of Brahman that theyhave no value, and not for others.
-
-
 
 **CHAPTER I**
 
@@ -740,19 +543,13 @@ knowledge and such ignorance are both alike includedin Avidyâ; hence the man wh
 
  *Objection:* Such an inquiry is not worth thetrouble. An intelligent man generally does not enterinto an inquiry about an object which is alreadyknown, or the knowledge of which does not serveany useful purpose. He is always guided by utility.Now Brahman is such an object. As Brahman pureand unconditioned, there is no doubt or indefiniteness
 
-
-
 about It, for we have such definitions as, "Brahmanis Truth, Knowledge, Infinity” (Taitt. 2.1). Asidentical with the Self (Atman)-which 'the Vedantaholds also, there is no doubt about Brahman; forthe Self is nothing but the object of the notion of'I', the empirical self which is well known to existas something different from the body, senses, etc.Moreover, no one doubts his own existence. Thereis therefore no indefiniteness about Brahman, whichwould induce one to make an inquiry into It. Theobjection that this empirical self is a result of superimposition (Adhyâsa) of the non-Self on the Selfand *vice versa,* and is therefore not the true Self,cannot be accepted, for such a superimpositionbetween two absolutely contradictory objects is notpossible.
 
  Again, the knowledge of this Self or Brahmanwhich, as shown above, everyone possesses, cannotdestroy the world phenomena and help one to attainLiberation, for they have been existing together sideby side all along from time immemorial.And asthere is no other knowledge of the Self besides 'Egoconsciousness', which can be called the true knowledgeof the Self, there is no chance of the world phenomena ever ceasing to exist. In other words, theworld is a reality, and not something illusory. Sothe knowledge of Brahman serves no useful purposesuch as the attainment of Liberation from relativeexistence (Samsâra). For these reasons an inquiryinto Brahman is not desirable.
 
-
-
  *Answer:* An inquiry into Brahman is desirable, because there is some indefiniteness with respectto It, for we find various conflicting views concerningIts nature. Different schools of philosophy holddifferent views. Superimposition would have beenan impossibility, and there would have been noindefiniteness about Brahman, if the empirical selfhad been the real Self. But it is not. The scriptures (Srutis) say that the Self is free from alllimiting adjuncts and is infinite, all-blissful, all-knowing, One without a second, and so on. Thisthe scriptures repeatedly inculcate, and as such itcannot be interpreted in any secondary or figurativesense. But the empirical self is felt as occupyingdefinite space, as when we say, 'I am in the room',as involved in manifold miseries, as ignorant, etc.How can this kind of notion be regarded as the trueknowledge of the Self? To regard the Self, whichis beyond limitation etc., as being limited etc., isitself an illusion, and hence superimposition is a selfevident fact. The result of the true knowledge ofthe Self leads to Liberation and so serves a very,very fruitful purpose.Therefore an inquiry aboutBrahman through an examination of the Vedântatexts dealing with It is worth while and should beundertaken.
 
  The word *now* in the Sutra is not used tointroduce a new subject that is going to be taken up,in which sense it is generally used in other places, asfor example, in the beginning of the Yoga-Sutras or
-
-
 
 the Purva Mimâmsâ-Sutras. Neither is it used inany other sense, except that of immediate consecution, that is, it implies an antecedent, whichexisting, the inquiry about Brahman would bepossible, and without which it would be impossible.This antecedent is neither the study of the Vedas,for it is a common requisite for Purva Mimâmsâas well as Vedânta, nor the knowledge and performance of rituals prescribed by the Karmakânda,for these in no way help one who aspires afterknowledge, but certain spiritual requisites. Thespiritual requisites referred to are: (1) discrimination between things permanent and transient,(2) renunciation of the enjoyment of fruits of actionin this world and in the next, (3) the six treasures,as they are called, viz., not allowing the mind toexternalize and checking the external instruments ofthe sense organs (Sama and Dama), not thinking ofthings of the senses (Uparati), ideal forbearance(Titikshâ), constant practice to fix the mind in God(Samâdhâna), and faith (Sraddhâ); and (4) theintense desire to be free (Mumukshutvam).
 
@@ -763,8 +560,6 @@ the Purva Mimâmsâ-Sutras. Neither is it used inany other sense, except that of
  जन्मादिOrigin etc. (i.e. sustenance and dissolution) अस्यof this (world) यतःfrom which.  
 **2. (Brahman is thatomniscient,omnipotent cause) from which proceed the**
 
-
-
 **origin etc. (i.e. sustenance and dissolution) of this (world).**
 
  In the previous Sutra it has been establishedthat an inquiry into Brahman should be made asit heips Liberation. Knowledge of Brahman leadsto Liberation. Now in order that we may attainthis knowledge of Brahman, It must have somecharacteristics by which It can be known; otherwiseit is not possible to have such knowledge. Theopponent holds that Brahman has no such characteristics by which It can be defined, and in the absenceof adefinition there can be no knowledge ofBrahman, and consequently no Freedom.
@@ -773,19 +568,13 @@ the Purva Mimâmsâ-Sutras. Neither is it used inany other sense, except that of
 
  The scriptures give another definition ofBrahman which describes Its true nature: ”Truth,
 
-
-
 Knowledge, Infinity is Brahman.” This is called the Svarupa Lakshana, that which defines Brahman in Its true essence. These words, though they have different meanings in ordinary parlance, yet refer to the one indivisible Brahman, even as the words, father, son, brother, husband, etc., refer to one and the same person according to his relation with different individuals.
 
  It must not however be thought that the First Cause of the universe is arrived at by this Sutra through mere reasoning, inference, and other means of right knowledge usually valid in this sense world. Brahman cannot be so established independently of the scriptures (Sruti). Though from the effect, the world, we can infer that it must have a cause, we cannot establish with certainty what exactly is the nature of that cause. We cannot say that Brahman alone is the cause and nothing else, as Brahman is not an object of the senses. The relation of cause and effect can be established where both the objects are perceived. Inference etc. may give only strong suggestions of Brahman’s being the First Cause of the world. A thing established by mere inference, however well thought out, is explained otherwise by greater intellects. Reasoning also is endless according to the intellectual capacity of people and therefore cannot go far in the ascertainment of Truth. So the scriptures ought to be the basis of all reasoning. It is experience that carries weight, and the scriptures are authoritative because they are the records of
 
-
-
 the experience of master minds that have come face to face with Reality (Aptavâkya). That is why the scriptures are infallible. Hence in ascertaining the First Cause the scriptures alone are authority.
 
  The prime object of this Sutra, therefore, is not to establish Brahman through inference but to discuss scriptural passages which declare that Brahman is the First Cause—texts like· “That from which these beings are born, by which they live after birth and into which they enter at death—try to know That. That is Brahman” (Taitt. 3.1). The Sutra collects the Vedânta texts for the full comprehension of Brahman. Once the scriptures have declared Brahman to be the First Cause, reasoning etc. may be taken advantage of in so far as they do not contradict the scriptures, but rather supplement them, in ascertaining the sense of the Vedanta texts. Such reasoning must be corroborative of the truth inculcated. This kind of reasoning includes the hearing of the texts (Sravana), thinking about their meaning (Manana), and meditation on them (Nididhyâsana). This leads to intuition. By intuition is meant that mental modification (Vritti) of the mind (Chitta) which destroys our ignorance about Brahman. When the ignorance is destroyed by this mental modification in the form of Brahman (Brahmâkârâ Vritti), Brahman, which is selfluminous, reveals Itself. In ordinary perception when we cognize an object the mind (Chitta) takes the form of the external object, which destroys the
-
-
 
 ignorance about it, and consciousness reflected in this modification of the mind manifests the object. In the case of Brahman, however, the mental modification destroys the ignorance, but Brahman, which is consciousness pure and simple, manifests Itself, being self-luminous. That is why the scriptures describe Brahman as ‘Not this’, ‘Not this’, thus removing the ignorance about it. Nowhere is Brahman described positively, as ‘It is this’, ‘It is this’.
 
@@ -798,8 +587,6 @@ the scriptures.***
 
  शास्त्र-योनित्वात् The scripture being the means of right knowledge.
 
-
-
  **\*3. The scriptures (alone) being the means of right knowledge (with regard to Brahman, the proposition laid in Sutra 2 becomes corroborated).**
 
  This Sutra makes the idea expressed in Sutra 2 clearer. If any doubt has been left regarding the fact that Brahman as the origin etc. of the world is established by scriptural authority and not by *inference etc.* independently of it, this Sutra makes it clear that Srutis alone are proof about Brahman.
@@ -809,8 +596,6 @@ the scriptures.***
 * Answer:* Brahman has no form etc. and so cannot be cognized by direct perception. Again in the absence of inseparable characteristics, as smoke is of fire, It cannot be established by inference or analogy (Upamâna). Therefore, It can be known only through the scriptures. The scriptures themselves say, “One who is ignorant of the scriptures cannot know that Brahman”. No doubt, as already referred
 
  \* This Sutra can also be interpreted in another way. It has been said in Sutra 2 that Brahman, which is the cause of this manifold universe, must naturally be omniscient. This Sutra corroborates it. In that case it would read: “(The omniscience and omnipotence of Brahman follow from Its) being the source of the scriptures.” The scriptures declare that the Lord Himself breathed forth the Vedas. So He who has produced these scriptures containing such stupendous knowledge cannot but be omniscient and omnipotent.
-
-
 
 to in the previous Sutra, these means of right knowledge also have a scope, but it is only after Brahman is established by the scriptures—as supplementary to them and not independent of them.
 
@@ -824,31 +609,21 @@ to in the previous Sutra, these means of right knowledge also have a scope, but 
 
  *Objection by Purva Mimâmsakas:* The Vedânta texts do not refer to Brahman. The Vedas cannot possibly aim at giving information regarding such self-established, already existing objects like Brahman, which can be known through other sources. They generally give information only about objects that cannot be known through other means of right knowledge, and about the means to attain such objects. Again Brahman, which is our own Self, can neither be desired nor shunned and as such cannot be an object of human effort. So a mere statement of fact about an existing object like Brahman, incapable of being desired or shunned and therefore useless, would make the scriptures purposeless.
 
-
-
  Vedic passages have a meaning only in so far as they are related to some action. So the Vedanta texts, to have a meaning, must be so construed as to be connected with action (rituals), as supplementing them with some necessary information. The texts dealing with the individual soul in the Vedânta, therefore, refer to the agent; those dealing with Brahman refer to the Deities; and those dealing with creation refer to spiritual practices (Sâdhanâs). In that case, being supplementary to action, the Vedanta texts will have a purpose. But if they are taken to refer to Brahman only, they will be meaningless, inasmuch as they will not be helpful to any action.
 
  *Answer:* The word *but* inthe Sutra refutes all these objections. The Vedânta texts refer to Brahman only, for all of them have Brahman for their main topic. The main purport of a treatise is gathered from the following characteristics: (1) Beginning and conclusion, (2) repetition, (3) uniqueness of subject-matter, (4) fruit or result, (5) praise, and (6) reasoning. These six help to arrive at the real aim or purport of any work. In chapter six of the Chhândogya Upanishad, for example, Brahman is the main purport of all the paragraphs; for all these six characteristics point to Brahman. It begins, “This universe, my boy, was but the Real (Sat), in the beginning” (Chh. 6.2.1), and concludes by saying, “In it all that exists has its self. It is true. It is the Self” (Ibid. 6.15.2)—
-
-
 
 which also refers to the Sat or Brahman. In the frequent repetition, “Thou art That, O Svetaketu”, the same Brahman is referred to. The uniqueness of Brahman is quite apparent, as It cannot be realized either by direct perception or inference in the absence of form etc. and characteristics respectively. Reasoning also has been adopted by the scriptures here by citing the example of clay to elucidate their point. As different objects are made out of clay, so are all things created from this Brahman. The description of the origin of the universe from Brahman, and of its sustenance by and reabsorption in It is by way of praise (Arthavâda). The result or fruit (Phala) is also mentioned, *viz.* that through the knowledge of Brahman everything else is known. When we realize Brahman the universal Reality, we know all the particulars involved in It. So all these six characteristics go to show that the main topic of the Vedânta texts, as cited above, is Brahman.
 
  Again, these texts cannot be made to refer to the agent etc., for they are treated in quite a different section from the Karmakânda. Neither are the texts useless, for from the comprehension of these texts results Liberation, without any reference to action on the part of the person, even as a mere statement that it is a rope and not a snake helps to destroy one’s illusion. A mere intellectual grasp of the texts, however, will not help the person to attain Liberation; actual realization is what is meant here.
 
-
-
 * Objection:* The scriptures have a purpose in so far as they lay down injunctions for man. They either induce him to or prohibit him from some action. The very mcaning of the word ‘Sâstra’ is this. Even the Vedânta texts are related to injunctions and thus have a purpose. For though they have Brahman for their main purport, yet they do not end there, but after describing the nature of Brahman they enjoin on man to realize Brahman through intuition. “The Self is to be realized—to be heard of, thought about, and meditated upon”—in passages like this the scriptures, after enjoining on man to be conversant first with the nature of Brahman, further enjoin thinking and meditation on the meaning of those passages for the attainment of direct experience. Thus they formulate injunctions with regard to the knowledge of Brahman.
 
  *Answer:* “He who knows the Supreme Brahman becomes Brahman indeed” (Mu. 3. 2. 9)—texts like this show that to know Brahman is to become Brahman. But since Brahman is an already existing entity, we cannot say that to know. Brahman involves an act, like a ritualistic act, having for its result Brahman. When ignorance is removed Brahman manifests Itself, even as when the illusion of the snake is removed the rope manifests itself. Here the rope is not the creation of any act. The identity of the individual soul and Brahman set forth in texts like, “I am Brahman” (Brih. 1. 4. 10), is not a fancy or imagination, but an actuality, and therefore differs
 
-
-
 from meditation and devout worship as prescribed by the scriptures in texts like, “One should meditate on the mind as Brahman", and "The Sun is Brahman” (Chh. 3. 18. 1; 3. 19. 1). The knowledge of Brahman, therefore, does not depend on human endeavour, and hence it is impossible to connect Brahman or the knowledge of It with any action. Neither can Brahman be said to be the object of the act of knowing; for there are texts like, “It is different from the known, again It is beyond the unknown” (Ken. 1, 4), and “Through what, O Maitreyi, can the knower be known?” (Brih. 2. 4. 14). In the same way Brahman is denied as an object of devout worship (Upâsanâ)—“Know that alone to be Brahman, not that which people adore here” (Ken. 1. 5). The scriptures, therefore, never describe Brahman as this or that, but only negate manifoldness which is false, in texts like, “There is no manifoldness in It” (Kath. 2. 4. 11), and “He who sees manifoldness in It goes from death to death” (Kath. 2. 4. 10).
 
  Moreover, the result of action is either creation, modification, purification or attainment. None of these is applicable to the knowledge of Brahman, which is the same thing as Liberation. If Liberation were created or modified, it would not be permanent, and no school of philosophers is prepared to accept such a contingency. Since Brahman is our Inner Self, we cannot attain It by any action, as a village is attained by our act of going. Nor is there any
-
-
 
 room for a purificatory ceremony in the eternally pure Self.
 
@@ -856,15 +631,11 @@ room for a purificatory ceremony in the eternally pure Self.
 
  Thus Brahman or the knowledge of Brahman being in no way connected with action, injunctions have no place with regard to It. Therefore texts like, “The Âtman is to be realized” etc., though imperative in character, do not lay down any injunction, but are intended to turn the mind of the aspirant from things external, which keep one bound to this relative existence, and direct it inwards. Further it is not true that the scriptures can have a purpose if only they enjoin or prohibit some action, for even by describing existing things they serve a useful purpose, if thereby they conduce to the well-being of man, and what can do this better than the knowledge of Brahman, which results in Liberation? The comprehension of Brahman includes hearing, reasoning, and meditation. Mere hearing
 
-
-
 does not result in full comprehension or realization of Brahman. Reasoning and meditation are also subservient to that full comprehension. Hence it cannot be said that they are enjoined. If after full comprehension Brahman was found to be related to some injunction, then only it could be said to be supplementary to action.
 
  So Brahman is in no way connected with action. All the Vedânța texts deal with an independent topic, which is Brahman, and these texts are the only proof of this Brahman, as it is not possible to know It. through any other source.
 
  So far it has been shown in the previous Sutras that all the Vedânta texts refer exclusively to Brahman without any connection whatsoever with action, and that Brahman is the omniscient, omnipotent cause of the origin etc. of this universe. Here the Sânkhyas raise an objection: The Vedanta texts about creation do not refer to Brahman but to the unintelligent Pradhâna made up of the three Gunas (constituents)—Sattva, Rajas, and Tamas, as the First Cause. The Pradhâna is omnipotent with respect to its effects. Again the Pradhâna has Sattva for one of its components, of which, according to Smriti (Gitâ 14. 17), knowledge is an attribute. Therefore the Pradhâna can figuratively be said to be omniscient, because of its capacity for all knowledge. To Brahman, on the other hand, which is isolated and pure intelligence itself, you cannot
-
-
 
 ascribe all-knowingness or partial-knowledge. Moreover, as the Pradhâna has three components, it seems reasonable that it alone is capable of undergoing modifications, like clay, into various objects of name and form, and not Brahman, which is uncompounded, homogeneous and unchangeable. Moreover, the First Cause is an already existing entity and so can be established by inference from its effects and even the scriptures recommend inference of the cause from the effect. So what the Vedanta texts about creation say with respect to the First Cause holds good, and more aptly sc, in the case of the Pradhâna, and therefore it is the First Cause referred to by the scriptures.
 
@@ -878,8 +649,6 @@ ascribe all-knowingness or partial-knowledge. Moreover, as the Pradhâna has thr
 
  **5. On account of thinking (being attributed to the First Cause by the scriptures, the Pradhâna) is not (the First Cause referred to by them); it (Pradhâna) is not based on the scriptures.**
 
-
-
  The First Cause is said, in the scriptures, to have willed or thought before creation. “This universe, my dear, was but the Real (Sat) in the beginning—One only without a second. It thought, ‘may I be many, may I grow !’ and It projected fire (Chh. 6. 2. 2-3). “It (the Âtman) willed, ‘Let me project worlds!’ So It projected these worlds” (Ait. 1. 1. 1-2). Such thinking or willing is not possible to the insentient Pradhâna. It is possible only if the First Cause is an intelligent principle like Brahman.
 
  The all-knowingness attributed to the Pradhâna because of its Sattva component is inadmissible, as Sattva is not predominant in the Pradhâna, since all the three Gunas are in a state of equilibrium. If in spite of this it is said to be capable of producing knowledge, then the other two Gunas must be equally capable of retarding knowledge. So while Sattva will make it all-knowing, Rajas and Tamas will make it partly knowing, which is a contradiction.
@@ -887,8 +656,6 @@ ascribe all-knowingness or partial-knowledge. Moreover, as the Pradhâna has thr
  That all-knowingness and creation are not possible to Brahman, which is pure intelligence itself and unchangeable, is also not true. For Brahman can be all-knowing and creative through Mâyâ. So Brahman, the Sat of the text quoted, which thought, is the First Cause.
 
  The Sânkhyas again try to avoid the difficulty created by thinking being attributed to the First Cause thus: In the same text quoted above it is said further on, “That fire thought, ‘may I be many, may I grow!’ and it projected water .... Water
-
-
 
 thought,... it projected earth” (Chh. 6. 2. 3-4). Here fire and water arematerial things, and yet thinking is attributed to them. Similarly the thinking by the Sat (Real), in the text originally quoted, can also be taken figuratively, in which case the Pradhâna, though insentient, can yet be the First Cause.
 
@@ -903,8 +670,6 @@ thought,... it projected earth” (Chh. 6. 2. 3-4). Here fire and water aremater
  The Sat (Real) of the text cited in the previous Sutra after creating fire, water, etc. thought, “Let me now enter into these three as this living self (Jiva) and evolve names and forms” (Chh. 6. 3. 2.). The Sat, the First Cause, refers to the intelligent principle, the Jiva, as its self. The insentient Pradhâna cannot refer to an intelligent principle like the Jiva as its self or as its own nature.
 
  The Sânkhyas again try to ward off this objection by saying that the word ‘Self’ (Âtman) is equally used to refer to intelligent and non-intelligent things, as, for example, in expressions like Bhutâtmâ (the self of the elements), Indriyâtmâ (the self of the
-
-
 
 senses), etc., and so can be used in connection with the Pradhâna also.
 
@@ -924,8 +689,6 @@ senses), etc., and so can be used in connection with the Pradhâna also.
 
  **8. And because it is not stated (by the scriptures) that It (Sat) has to be abandoned, (Pradhâna cannot be denoted by the word ‘Sat’).**
 
-
-
  If the intention of the scriptures had been to take the aspirant step by step from grosser to subtler truths till finally the real nature of the Âtman was presented to him, and for this purpose they had referred to the Pradhâna—denoted by the word ‘Sat’ according to the Sânkhyas—as the Self, then there would have been later on a statement to the effect that this Pradhâna must be dropped, for it was not the real Self. But there is no such statement in the texts in question. On the contrary, the whole chapter of the Chhândogya Upanishad, in which the texts occur, deals with the Self as nothing but that Sat. Moreover, this chapter begins with the question, “What is that which being known everything is known?” Now if the Pradhâna were the First Cause, then by knowing it everything would be known, which is not a fact. The enjoyer (Purusha), which is different from it, not being a product of the Pradhâna like the objects of enjoyment, cannot be known by knowing the Pradhâna. Therefore the Pradhâna is not the First Cause, knowing which everything is known, according to the scriptures. Such a view will contradict the premise.
 
 **स्वाप्ययात् ॥९॥**
@@ -933,8 +696,6 @@ senses), etc., and so can be used in connection with the Pradhâna also.
  स्वाप्ययात् On account of resolving or merging in one’s own Self.
 
 ** 9. On account of (the individual soul) merging in its own Self (or the universal Self referred to as the Sat, in deep sleep,**
-
-
 
 **the Pradhâna cannot be denoted by the word ‘Self’).**
 
@@ -956,15 +717,11 @@ senses), etc., and so can be used in connection with the Pradhâna also.
 
  "He is the Cause, the Lord of the ruler of the sense organs (Jivâtman) and has neither parent.
 
-
-
 nor Lord’ (Svet. 6. 9)—where ‘He’ refers to the all knowing Lord described in that chapter.
 
  Therefore it is established that the omniscient, omnipotent Brahman is the First Cause and not the insentient Pradhâna or anything else.
 
  From Sutra 12 onwards till practically the end of the first chapter a new topic is taken пр for discussion, *viz*. whether certain terms found in the Upanishads are used in their ordinary senses or as referring to Brahman. Again the Upanishads speak of two types of Brahman, the Nirguna or Brahman without attributes and the Saguna or Brahman with attributes. It is the latter which is within the domain of Nescience and is the object of meditation (Upâsanâ), which is of different kinds yielding different results; while the Nirguna Brahman, which is free from all imaginary limiting adjuncts of the other type is the object of Knowledge. Meditation on the Saguna Brahman cannot lead to immediate Liberation. It can at best lead to gradual Liberation (Krama-Mukti). The knowledge of the Nirguna Brahman alone leads to immediate Liberation. Now in many places in the Upanishads Brahman is described apparently with qualifying adjuncts; yet the scriptures say that the knowledge of that Brahman leads to immediate Liberation. If Brahman is worshipped as limited by those adjuncts, it cannot lead to such Liberation. But if these qualifying adjuncts are regarded as not
-
-
 
 being ultimately aimed at by the Sruti, but used merely as indicative of Brahman, then these very texts would refer to the Nirguna Brahman and Liberation would be the immediate result of knowing that Brahman. So by reasoning we have to arrive at a conclusion as to the true significance of these texts, which obviously have a doubtful import.
 
@@ -980,21 +737,15 @@ being ultimately aimed at by the Sruti, but used merely as indicative of Brahman
 
  In topic 5 the word ‘thinking’ attributed to the First Cause is interpreted in its direct sense, thus establishing the intelligent principle Brahman as the First Cause, and the figurative meaning, which would
 
-
-
 have established the Pradhâna, is thrown out as being doubtful. But here such a thing, that is the establishing of Brahmian, is impossible, for the terms denoting parts allow no room for doubt, thus making it impossible to interpret the texts as referring to Brahman. This connects the present topic with the last one by way of objection.
 
  The passage in question:“Different from The passage in question is: this self, which consists of understanding (Vijnânamaya), is the inner self which consists of bliss... Joy is the head, satisfaction is its right wing, rapture is its left wing, bliss is its trunk, Brahman is the tail, the support” (Taitt. 2. 5). The Sutra says that here Brahman, which is spoken of as the tail, is treated as an independent entity and is not to be taken as a part of “the self consisting of bliss,” for ‘tail’ here does not mean the limb, in which sense it is generally used, but the support of the individual soul made up of “the self consisting of bliss”, as Brahman is the substratum of the imaginary individual soul. This conclusion is arrived at, because Brahman without any limiting adjuncts whatsoever is again and again reiterated in these Taittiriya texts.
 
  \[Sutras 12-19 are interpreted by the Vrittikâra (who is probably Upavarsha) as follows: The Taittiriya Upanishad 2. 1-4 after enumerating the selves consisting of food, vital force, mind, and understanding, speaks of “the self consisting of bliss” in the passage quoted above. (Taitt. 2. 5). The question is whether this refers to the individual
 
-
-
 soul or Brahman. The opponent holds that it refers to the individual soul, because the word ‘Ânandamaya’ denotes a modification and therefore cannot refer to Brahman, which is unchangeable. Moreover, five different parts are enumerated of this Ânandamaya, the self consisting of bliss; this is not possible in the case of Brahman, which is without parts. Sutras 12-19, according to this interpretation, maintain that ‘Ânandamaya’, the self consisting of bliss, refers to Brahman on account of the repetition of the word ‘Anandamaya’ in these Taittiriya texts. Repetition has already been said to be one of the characteristics by which the subject-matter of a passage is ascertained. Brahman, again, has been proved to be the main topic of the Vedânta texts (Ch. 1, Sec. 1, Sutra 4). Therefore ‘Ânandamaya’ refers to Brahman. Moreover, the opening words of the second chapter of the Taittiriya Upanishad, “Truth, Knowledge, Infinity is Brahman” (Taitt. 2. 1), and texts like, “He projected all this” (Taitt. 2. 6), make it clear that Brahman is the topic. The termination ‘mayat’ is also not out of place in Brahman, for it is used here to denote an abundance of bliss. The possession of a body having parts is also ascribed to It, only because of the immediately preceding limiting condition, *viz*. the self consisting of understanding and does not really belong to It. Hence “the self consisting of bliss” is the highest Brahman.
 
  Sankara objects to this interpretation of the
-
-
 
 Sutras and says that Ânandamaya cannot be the highest Brahman. First of all, there is no justification, for suddenly changing the interpretation of the affix ‘mayat’ from *modification* in the case of Vijnânamaya, Prânamaya, etc. in the preceding passages to *abundance* in the case of Ânandamaya, so as to make this word refer to Brahman. Again the very idea of preponderance or abundance of bliss suggests that there is also misery in it, however slight. Such an idea with respect to Brahman is absurd. So Sankara replaces this interpretation of the Sutras, which Ânandagiri attributes to the Vrittikâra, by another, which we have reproduced above.\]
 
@@ -1005,8 +756,6 @@ Sutras and says that Ânandamaya cannot be the highest Brahman. First of all, th
  **13. If it be said (that Brahman) is not (spoken of as an independent entity in the passage) on account of a word (‘tail’) denoting part, (we reply) not so, on account of abundance (of terms denoting parts).**
 
  Owing to the abundance of phraseology denoting parts or limbs in the Taittiriya texts 2. 1-5, Brahman is designated as the tail just to keep up the foregoing imagery; but it is not intended to convey the idea that Brahman is actually a part or member of “the
-
-
 
 self consisting of bliss”. The object of the scriptures. is to teach the knowledge of the real Self. If the “self consisting of bliss” were the real Self, the scriptures would refer to this in the concluding texts, but. as a matter of fact they do not; on the other hand they refer to the Nirguna Brahman, which is therefore the real subject-matter. Brahman’s being the tail means, not that It is a part, but that It is the main support or abode of everything.
 
@@ -1024,8 +773,6 @@ self consisting of bliss”. The object of the scriptures. is to teach the knowl
 
  **15. Moreover that very Brahman which has been referred to in the Mantra.**
 
-
-
 **portion is sung (in this Brâhmana passage as the tail).**
 
  The second chapter of the Taittiriya Upanishad begins, “He who knows Brahman attains the Highest... Brahman is Truth, Knowledge and Infinity.” This very Brahman is finally declared to be the tail. Otherwise there would be a contradiction between the Mantra and Brâhmana portions, which cannot be, for the Brâhamanas only explain what the Mantras declare. Therefore Brahman is the primary subject- matter and is not treated as a part of “the self consisting of bliss”.
@@ -1042,8 +789,6 @@ self consisting of bliss”. The object of the scriptures. is to teach the knowl
 
   भेदव्यपदेशात्On account of the declaration of difference च and.
 
-
-
 ** 17. And on account of the declaration of difference (between the two, i.e. the one referred to in the passage, “The self consisting of bliss” etc. and the individual soul, the latter cannot be the one referred to in the passage).**
 
  That which is referred to in the passage, “The self consisting of bliss” etc. is said to be of the essence of flavour, attaining which the individual soul is blissful. “It (That which is referred to in the passage, “The self consisting of bliss” etc.) is flavour; only after attaining (this essence of) flavour is this (soul) blissful” (Taitt. 2. 7). Now that which is attained and the attainer cannot be the same. So the individual soul is not referred to in that passage under discussion.
@@ -1055,8 +800,6 @@ self consisting of bliss”. The object of the scriptures. is to teach the knowl
 ** 18. And on account of the word ‘bliss’, literally ‘desire’, (referring Brahman), (you) cannot infer (Ânandamaya is also Brahman, since the suffix ‘mayat’ is used to denote modification).**
 
  In the scriptures the word ‘bliss’ is often used for Brahman; from this we cannot infer that Ânandamaya, the self consisting of bliss, is also Brahman, for
-
-
 
 the suffix ‘mayat’ shows that it is a modification. This sets aside the whole of the interpretation of the Vrittikâra mentioned under Sutra 12.
 
@@ -1078,13 +821,9 @@ the suffix ‘mayat’ shows that it is a modification. This sets aside the whol
 
 ** 20.(The one) within (the sun and the eye is Brahman), because Its characteristics are mentioned (therein).**
 
-
-
  “Now that golden person who is seen within the sun, with a golden beard and golden hair... is named Ut, for he has risen (udita) *above all evils...* Rik and Sâman are his joints... He is the lord of the worlds beyond the sun and of all objects desired by the gods” (Cbh. 1. 6. 6-8). “Now the person who is seen in the eye is Rik; *he is Sâman, Uktha, Yajus, Brahman.* The form of that person in the eye is the same as that of the other (the person in the sun), the joints of the one are the joints of the other, the name of the one is the name of the other... He is the lord of the world beneath the body and of all objects desired by men” (Chh. 1. 7. 5-8). In the last topic, in spite of things to the contrary, the very fact of the repitition of Brahman in the texts helped us to arrive at the conclusion that Brahman was the topic of those texts. Following the same argument, the repetition of abode, form, limitations, etc., in the texts cited ought to make some individual soul which has attained to that eminence of being the presiding deity of the solar orb, and not Brahman, the topic of these texts—this is the objection.
 
  The Sutra refutes this and says that the person spoken of is the Highest Brahman, as its characteristics—such as being above all evils, being the self of everything like Rik, Yajus, Sâman (these few being mentioned only by way of example), and his being the lord of the worlds beyond the sun and also of the worlds beneath the body—are mentioned. The mention of a particular abode, *viz.* the sun, and the
-
-
 
 eye, of form, as having a beard, and being golden in colour, and of a limitation of powers is only for the purpose of ineditation (Upâsanâ). The Highest Lord may, in order to gratify His devout worshippers, assume through Mâyâ any form He likes. It is for the convenience of meditation that these limitations are imagined in Brahman, which otherwise, in Its true nature, is beyond them.
 
@@ -1100,8 +839,6 @@ eye, of form, as having a beard, and being golden in colour, and of a limitation
 
  In the last topic the characteristics like “being above all evil” etc., being of doubtful import were
 
-
-
 made to refer to Brahman and not to the deity of the solar orb and accordingly the mention of form etc. were interpreted to be imagined in Brahman for the sake of meditation. But now the characteristics mentioned in the text that are taken up for discussion are not of doubtful import but refer clearly to elemental ether, so how will you interpret these texts—seems to be the view of the objector.
 
 **आकाशस्तल्लिङ्गात्॥२२॥**
@@ -1111,8 +848,6 @@ made to refer to Brahman and not to the deity of the solar orb and accordingly t
 ** 22. (The word) Âkâsa (ether) (is Brahman) on account of the characteristic marks of That (i.e. Brahman) (being mentioned).**
 
  “‘What is the goal of this world?’ ‘Âkâsa,’ he replied. For all these beings take their rise from Âkâsa, only and dissolve in it. Âkâsa is greater than these. It is their ultimate goal. It indeed is the Supreme Udgitha.... He who knowing this as such meditates on the Supreme Udgitha . . .”(Chh. 1. 9. 1-2). Here ‘Âkâsa,’ refers to Brahman and not to the elemental Âkâsa (ether), as the characteristics of Brahman, namely, the rise of the entire creation from it and its return to it at dissolution are mentioned. No doubt these marks may also refer to the ether, as the scriptures say that from the ether is produced air, from air fire, etc., and they return to the ether at the end of a cycle. But then
-
-
 
 the force of the words ‘all these’ and ‘only’ in the text quoted would be lost. To preserve it the text should be taken to refer to the fundamental cause of all, including the ether, which can be Brahman alone. The word ‘Âkâsa’ is also used for Brahman in other texts: “That which is called Âkâsa is the revealer of all forms and names.” (Chh. s. 14. 1). Again Brahman alone can be ‘greater than all’ and ‘their ultimate goal’ as mentioned in the text. In other scriptural passages like. “He is greater than the earth, He is greater than the heavens” (Chh. 3. 14. 3), “Brahman is knowledge and Bliss. It is the ultimate goal of him who makes gifts” (Brih. 3. 9. 28)—these qualities of being greater and the ultimate goal of everything are mentioned, and therefore this interpretation is justified. Hence the Udgitha in the text cited is to be meditated upon not as a symbol of the ether but of Brahman.
 
@@ -1125,8 +860,6 @@ the force of the words ‘all these’ and ‘only’ in the text quoted would b
 ** 23. For the same reason (the word) ‘Prâna’ (also refers to Brahman).**
 
  “‘Which is that deity ?’ ‘Prâna,’ he said. For all these beings merge in Prâna alone and from Prâna they arise” (Chh. 1. 11. 4-5). The question is
-
-
 
 whether Prastava (a division of Sâman) is a symbol of the vital force or Brahman. Here Prâna does not mean the vital force but Brahman, in which sense it is used in texts like, “The Prâna of Prâna” (Brih. 4. 4. 18). Why? Because the characteristic of Brahman, “All these beings merge in Prâna,” etc. is mentioned. All the Jivas merge in Prâna, and that is possible only if ‘Prâna’ is Brahman and not the vital force (the ordinary sense of the word), in which only the senses get merged in deep sleep.
 
@@ -1142,8 +875,6 @@ whether Prastava (a division of Sâman) is a symbol of the vital force or Brahma
 
  “Now that light which shines above this heaven. beyond all, ... Let a man meditate on this” etc. (Chh. 3. 13. 7). Here the question is whether the meditation is to be on the light as such or on
 
-
-
 Brahman.The Sutra says that ‘light’ here does not mean physical light which helps vision, such as the sun, but Brahman, because feet (quarters) are mentioned in a preceding text: “This much is Its glory, greater than this is the Purusha. One foot of It is all beings while Its (remaining) three feet are immortal in heaven” (Chh. 3. 12. 6). The Brahman that has been so described in this passage is recognized in the one first quoted, where ‘light’ occurs, because there also it is said to be connected with ‘heaven’. Brahman is the subject matter of not only the previous texts, but also of the subsequent texts; for in the section immediately following that which contains the passage under discussion (i.e. in Chh. 3.14) Brahman is also the main topic. It is therefore but reasonable to say that the intervening section (Chh. 3. 13) also deals with Brahman. Hence ‘light’ here means Brahman. The word ‘light’ can be used for Brahman, which manifests the world even as light manifests objects. The mention of limiting adjuncts with respect to Brahman, denoted by the word ‘light’ is only for the sake of meditation.
 
 **छन्दोऽभिधानान्नेति चेत्, न, तथा चेतोऽर्पणनिगदात्,  
@@ -1151,13 +882,9 @@ Brahman.The Sutra says that ‘light’ here does not mean physical light which 
 
 छन्दोऽभिधानात् The metre (Gâyatri) being mentioned न is not इति चेत् if it be said न no तथा in that way चेतोऽर्पणनिगदात् the application of the mind has been inculcated तथा हि for so दर्शनम् it is seen (in other texts).
 
-
-
 ** 25. If it be said (that Brahman is) not (referred to) on account of the metre (Gâyatri) being mentioned; (we reply) no, because in that way (i.e. by means of the metre), the application of the mind (on Brahman) has been inculcated; for so (i.e. through the help of the modifications of Brahman) it is seen (in other texts).**
 
  An objection is raised that in the text “One foot of It is all beings”, Brahman is not referred to, but the metre Gâyatri, for the first paragraph of the preceding section of the same Upanishad begins with, “Gâyatri is everything, whatever here exists,” etc. Therefore the feet referred to in the text cited in the last Sutra refer to this metre and not toBrahman. In reply it is said: Not so; for the text, “Gâyatri is all this” etc., teaches that one should meditate upon the Brahman which is connected with this metre, because Brahman, being thecause of everything, is connected with that Gâyatri also, and it is that Brahman which is to be meditated upon. This interpretation would be in keeping with the other texts in the same section, e.g. “That which is that Brahman” (Chh. 3. 12. 7) and also with “All this indeed is Brahman” (Chh. 3. 14. 1), where Brahman is the chief topic. Meditation on Brahman through Its modifications or effects is seen in other texts also. “Him the Bahvrichas meditate upon in the great hymn” etc. (Ait. Ar. 3. 2. 3. 12).
-
-
 
 Therefore Brahman is meant here, and not the metre Gâyatri.
 
@@ -1175,8 +902,6 @@ Therefore Brahman is meant here, and not the metre Gâyatri.
 
  **27. If it be said (that Brahman of the Gâyatri passage cannot be recognized**
 
-
-
 **in the passage dealing with ‘light’), on account of difference in specification, (we reply) no, there being no contradiction in either (description to such a recognition).**
 
  In the Gâyatri passage heaven is specified as the abode of Brahman, while in the other, Brahman is described as existing above heaven. How then can it be said that one and the same Brahman is referred to in both the passages? It can; there is no contradiction here, even as when we say, with reference to a bird perching on the top of a tree, that it is perching on the tree, or that it is above the tree. The difference in the case-ending of the word दिव्is no contradiction, since the locative case is often used in scriptural passages to express, secondarily, the meaning of the ablative. Therefore the word 'light' has to be understood as Brahman.
@@ -1191,13 +916,9 @@ Therefore Brahman is meant here, and not the metre Gâyatri.
 
  In the previous topic the fact that Brahman's three feet (quarters) were spoken of in an earlier
 
-
-
 text as being in heaven helped us to recognize that the same Brahman is spoken of as the light above heaven. The connection with heaven helped us to this recognition. Now another text is taken up for discussion, in which there is no such decisive factor.
 
  In the Kaushitaki Upanishad there occurs the following conversation between Indra and Pratardana, in which the latter says to Indra: “You yourself choose for me that boon which you deem most beneficial to man.” Indra said, “Know me only, that is what I deem most beneficial to man. .... I am Prâna, the intelligent self (Prajnátman), meditate on me as life, as immortality.....And that Prâna is indeed the intelligent self, blessed, undecaying, immortal” (Kau. 3. 1-8). The question is raised whether these passages refer to the god Indra, or the individual self, or the vital force, or Brahman. The decision is that as the characteristics of Brahman are more in evidence in these passages. than those of the god Indra, individual soul, or the vital force (Prâna), therefore Brahman is referred to in these passages; hence Prâna here means Brahman. The characteristics of Brahman referred to are: (1) Indra says in reply to Pratardana's request for that which is most beneficial to man, “Know me, I am Prâna” etc., and since Brahman alone is most beneficial to man, Indra's answer refers to Brahman. (2) Prâna is spoken of as blessed, undecaying, immortal, which can be true only of Brahman. (3) The knowledge of this Prâna is also
-
-
 
 said to absolve one from all sins: “He who knows me thus, by no deed of his is his achievement harmed, neither by matricide nor by patricide. . . .” (Kau. 3. 1).
 
@@ -1208,8 +929,6 @@ said to absolve one from all sins: “He who knows me thus, by no deed of his is
  **29. If it be said that (Brahman is) not (referred to in these passages) on account of the speaker's instruction about himself; (we reply not so), because there is abundance of reference to the Inner Self in this (chapter).**
 
  An objection is raised that the word ‘Prâna’, cannot as stated in the last Sutra, refer to Brahman, since the speaker Indra describes himself by the word ‘Prâna’ in, “I am Prâna” etc. But as in this conversation there are profuse references, as already pointed out in Sutra 28, to the Inner Self or Brahman, ‘Prâna’ here must be taken as Brahman. And Indra's describing himself as Prâna is apt, since he identifies himself with Brahman in that instruction, as did the Sage Vâmadeva.
-
-
 
 **शास्त्रदृष्ट्या तूपदेशो वामदेववत्॥३०॥**
 
@@ -1223,17 +942,11 @@ said to absolve one from all sins: “He who knows me thus, by no deed of his is
 
  जीवमुख्यप्राणलिङ्गात् On account of the characteristics of the individual soul and the vital energy न not इति चेत् if it be said न not so उपासा-त्रैविध्यात् because it would enjoin threefold meditation आश्रितत्वात् on account of Prâna being accepted (elsewhere in the sense of Brahman) इह here तद्योगात्because words denoting Brahman are mentioned with reference to Prâna.
 
-
-
  **31. If it be said that (Brahman) is not referred to on account of the characteristics of the individual soul and the vital force (being mentioned), (we say) not so, because (such an interpretation) would enjoin threefold meditation (Upâsanâ); because Prâna has been accepted (elsewhere in the sense of Brahman); and because here also (words denoting Brahman) are mentioned with reference to Prâna. (Hence it is to be understood to mean Brahman).**
 
  The psasages under discussion might as well refer to the individual soul and the vital force, for their characteristics also are found: “One should know the speaker and not inquire into speech” (Kau. 3. 8), “Prâna, laying hold of this body, makes it rise up” (Kau. 3. 3). The Sutra refutes such a view and says that Brahman alone is referred to by ‘Prâna’; for the above interpretation would involve a threefold Upâsanâ, *viz.* of the individual soul, of the chief vital force, and of Brahman, which is against the accepted rules of scriptural interpretation. No single passage can be made to yield three different meditations in this way by splitting it up. Moreover in the beginning we have, “Know me only”, followed by, “I am Prâna”, and in the end again we have, “And that Prâna indeed is the intelligent self, blessed, undecaying, immortal”, which shows
 
-
-
 that the same topic is kept up throughout. Therefore ‘Prâna’ must be taken in the sense of Brahman and that on the ground that Its characteristics are found in this passage which have already been referred to in Sutra 1. 1. 28. This meaning of ‘Prâna’ is found in other scriptural passages, and we are justified in taking it in that sense here, since words denoting Brahman are mentioned with reference to ‘Prâna’.
-
-
 
 **CHAPTER I**
 
@@ -1251,8 +964,6 @@ that the same topic is kept up throughout. Therefore ‘Prâna’ must be taken 
 
  Sutras 1-8 show that the Being who consists of the mind (Manomaya) and is prescribed as the object
 
-
-
 of Upâsanâ or meditation in the text, “All this indeed is Brahman, for it has its beginning, end, and subsistence in It; so let a man meditate with a calm mind.....*He who consists of the mind,* whose body is Prâna (the subtle body)” etc. (Chh. 3. 14. 1-2) is Brahman and not the individual soul. Why? Because the text begins with, “All this is Brahman”, wherein that Brahman which is treated as the cause of the universe in all scriptural texts is described. Since the beginning refers to Brahman, it is but proper that the later sentence where “He who consists of the min” occurs, should also refer to Brahman as distinguished by certain qualities; otherwise there would arise the inconsistency of suddenly introducing a new subject and dropping the previous one. over the text here speaks of Upâsanâ, meditation, and as such it is but apt that Brahman which is described in all other texts as an object of meditation is also taught here and not the individual soul which is nowhere prescribed as such. Moreover, one can become calm as the text asks only by meditating on Brahman which is bereft of all anger, hatred, etc.
 
 **विवक्षितगुणोपपत्तेश्च॥२॥**
@@ -1260,8 +971,6 @@ of Upâsanâ or meditation in the text, “All this indeed is Brahman, for it ha
  विवक्षित-गुणोपपत्तेः Because qualities desired to be expressed are befitting चmoreover.
 
 ** 2. Moreover the qualities desired to be expressed are befitting (only in the case of Brahman; and so the passage refers to Brahman).**
-
-
 
  “He who consists of the mind, whose body is Prâna (the subtle body), whose form is light, resolve is true, whose nature is like that of ether (omnipresent and invisible)", etc. (Chh. 3. 14. 2)—the qualities mentioned in this text as topics of meditation are possible in the case of Brahman alone.. Therefore the conclusion is that such a qualified Brahman alone is to be meditated upon.
 
@@ -1279,8 +988,6 @@ of Upâsanâ or meditation in the text, “All this indeed is Brahman, for it ha
 
  In the same chapter of the Chhândogya Upanishad there occurs the passage, “When *I* shall have departed from hence, *I* shall attain Him” (3. 14. 4), where ‘Him’ refers to “Who consists of the mind”, the object of meditation spoken of in the earlier
 
-
-
 passage. Therefore He is necessarily different from the person who meditates, the individual soul referred to in the above text by the pronoun ‘I’.
 
 **शब्दविशेषात् ॥५॥**
@@ -1297,8 +1004,6 @@ passage. Therefore He is necessarily different from the person who meditates, th
 
  The Smriti referred to is, “The Lord, O Arjuna, is seated in the hearts of all beings” etc. (Gitâ 18. 61). We must not forget, however, that according to Advaita Vedânta this difference is only imaginary and
 
-
-
 not real. The difference exists only so long as ignorance lasts, and the full import of the text “Thou art That” has not been realized.
 
 **अर्भकौकस्त्वात् तद्व्यपदेशाच्च नेता चेत्, न , निचा-  
@@ -1310,8 +1015,6 @@ not real. The difference exists only so long as ignorance lasts, and the full im
 
  “He is my self within the heart, smaller than a grain of rice, smaller than a grain of barley” etc. (Chh. 3. 14. 3). This text occurs in the same section in which we also find “the self consisting of the mind”. The objection is raised that since these limitations are apt not in the case of Brahman but of the individual soul, it is the latter that is referred to by “the self consisting of the mind”. The Sutra
 
-
-
 refutes it and says that Brahman here is thus characterized. for the convenience of contemplation, as otherwise it is difficult to meditate on the allpervading Brahman. This does not mar Its omnipresence, as these limitations are merely imagined in Brahman and are not real. The case is analogous to that of the ether in the eye of the needle, which is spoken of as limited and small, whereas in fact it is all-pervading.
 
 **संभोगप्राप्तिरिति चेत्, न, वैशेष्यात्॥८॥**
@@ -1321,8 +1024,6 @@ refutes it and says that Brahman here is thus characterized. for the convenience
  **8. If it be said that (being connected with the hearts of all individual souls on account of Its omnipresence, It would also) have experience (of pleasure and pain), (we say,) not so, because of the difference in the nature (of the two).**
 
  The mere fact that Brahman is all-pervading and connected with the hearts of all individual souls, and is also intelligent like them, does not make It subject to pleasure and pain. For the individual soul is an agent, the doer of good and bad deeds, and therefore experiences pleasure and pain, while Brahman is not an agent, and therefore does not experience pleasure and pain. A fallacious argument is often put forward that because Brahman and the
-
-
 
 individual soul are in reality identical, therefore the former is also subject to the pleasure and pain experienced by the latter. But then this identity only refutes the experience of pleasure and pain even by the individual soul as being due to ignorance; for in reality there is neither the individual soul nor pleasure and pain. Therefore the argument of identity cannot be turned the other way to make even the ever pure Brahman subject to evil.
 
@@ -1338,8 +1039,6 @@ individual soul are in reality identical, therefore the former is also subject t
 
  “Who thus knows where He is, to whom the Brâhmanas and Kshatriyas are (as it were) but food and death itself a condiment” (Kath. 1. 2. 25)? This passage says that there is some eater. Who is this eater referred to by ‘He’? Is it the fire referred to in another text as eater: “Soma indeed is food, and fire the eater” (Brih. 1. 4. 6); or is it the individ-
 
-
-
 ual soul referred to as eater in, “One of them eats, the sweet fruit” (Mu. 3. 1. 1). This Sutra says it is neither, but the Supreme Lord, for the text says that in Him the whole of creation, movable and immovable, is reabsorbed. The fact that death, which destroys everything else, is swallowed up as a condiment, shows that the entire creation is referred to as His food. The Brâhmanas and Kshatriyas are mentioned as mere examples, since they are the foremost of created beings. The eater of such a stupendous thing can be Brahman alone and none else.
 
 **प्रकरणाच्च॥१०॥**
@@ -1349,8 +1048,6 @@ ual soul referred to as eater in, “One of them eats, the sweet fruit” (Mu. 3
  **10. And because (Brahman) is the subject of the discussion.**
 
  In an earlier text Nachiketas asks Yama: “Tell me of that which you see as neither good nor bad action, as neither effect nor cause, as neither past nor future” (Kath. 1. 2. 14). In this text Brahman is inquired into and Yama answers: “I will tell you in brief—it is Aum” (Kath. 1. 2. 15). Further on he says, The Self is neither born nor does it die” (Ibid. 1. 2. 18), and finally concludes with the passage in which the eater is mentioned. All this clearly shows that Brahman is the topic, and therefore the ‘eater’ is Brahman. It also followsfrom the peculiar characteristic, *viz*. the difficulty
-
-
 
 to cognize It, which is referred to in the text under discussion.
 
@@ -1368,8 +1065,6 @@ of the heart are the individual soul and Brahman.***
 
  In the Katha Upanishad there occurs the passage, “Having entered the cavity of the heart, the twoenjoy the reward of their works, in the body” (1. 3 . 1). The question is whether the couple referred to are the individual soul and Brahman, or the individual soul and intellect (Buddhi). The opponent, following the argument of the previous topic, says it is
 
-
-
 the latter. In the last topic the nearness of the word ‘death’ helped us to interpret ‘Brâhmana’ and ‘Kshatriya’ as typical of the whole phenomenal world, similarly the nearness of the word ‘enjoy’ would make the two in the text refer to limited things like the individual soul and intellect. The Sutra refutes this and says that the couple referred to are the individual soul and Brahman, for numerals denote things of the same class. When a cow is brought to us and we say, “Bring another”, it means another cow. So if with an intelligent self, the individual soul, another is said to enter the cavity of the heart, it must refer to another of the same class, *i.e*. to another sentient being, and not to the intellect (Buddhi), which is insentient. The fact that both are said to enjoy the fruits of actions, which cannot apply to the Highest Brahman, is thus explained: Sometimes the characteristics of one in a group are indirectly applied to the whole group, as when we say, “The men with an umbrella”, where only one has an umbrella and not the whole group. So here also, though it is only one that is enjoying the fruits of actions, both are so spoken off.
 
 **विशेषणाच्च॥१२॥**
@@ -1380,15 +1075,11 @@ the latter. In the last topic the nearness of the word ‘death’ helped us to 
 
  The texts subsequent to the one under discussion
 
-
-
 mention the characteristics of the two that have entered the cavity of the heart, which show that these are the individual soul and Brahman. “Know that the soul is the charioteer” etc. (Kath. 1. 3. 3) and “He attains the end of the journey, that supreme state of Vishnu” (*Ibid*. 1. 3. 9), where the two are mentioned as the attainer and the goal attained, i.e. as the Jiva and Brahman. In a previous passage also the two are spoken of as the meditator and the object of meditation. “The sage relinquishes joy and sorrow, having realized by meditation . . that effulgent One... seated in the heart” (Kath. 1. 2. 12).
 
 *** Topic 4: The person within the eye is Brahman.***
 
  In the last topic the reference to ‘two’ occuring at the beginning of the text discussed, was interpreted to denote two of the same class, *i.e*. two sentient beings, and the entrance into the cavity of the heart, mentioned later on, was interpreted accordingly. The same line of argument should be used, says the opponent, to interpret the text of this topic. That is, the person in the eye ought to be taken as a reflection in the eye, as it occurs at the beginning of the text, and the subsequent mention of immortality, fearlessness, etc. ought to be explained away, as praise or otherwise. The inverse method, i.e. taking these words to refer to Brahman and thus fixing the person in the eye to be Brahman, should not be followed. In this way the opponent
-
-
 
 wants to show that the argument of the previous one is defective, for it will launch us into difficulties with respect to other texts of the Sruti.
 
@@ -1406,8 +1097,6 @@ wants to show that the argument of the previous one is defective, for it will la
 
  **14. And because abode etc. (*i.e.* name and form) are attributed to It (Brahman) (by other scriptural texts also, for the sake of contemplation).**
 
-
-
  But, how can the all-pervading Brahman be in a limited space like the eye? The assignation of a definite locality to the all-pervading Brahman only serves the purpose of meditation (Upâsanâ). In other scriptural texts, the disc of the sun, the cavity of the heart, even the eye itself (Brih. 3. 7. 18) and similar pure spots have been prescribed as places for the contemplation of Brahman. So here it is prescribed that Brahman should be contemplated in the eye. Not only abode, but even name and form are attributed to Brahman for the purpose of meditation, as Brahman without attributes cannot be an object of contemplation. (*Vide Chh. 1. 6. 6-7*).
 
 **सुखविशिष्टाभिधानादेव च॥१५॥**
@@ -1421,8 +1110,6 @@ wants to show that the argument of the previous one is defective, for it will la
 **श्रुतोपनिषत्कगत्यभिधानाच्च॥१६॥**
 
  श्रुत-उपनिषत्क-गति The way of those who have realized
-
-
 
 the Truth of the Upanishads अभिधानात् on account of the statement च also.
 
@@ -1438,8 +1125,6 @@ the Truth of the Upanishads अभिधानात् on account of the statem
 
  The reflection in the eye, for example, does not exist always, nor can the qualities like immortality,
 
-
-
 fearlesness, etc., be appropriately ascribed to this reflection. So no other self except the Supreme Self is here spoken of as the person in the eye.
 
 ***Topic 5: The ruler within is Brahman.***
@@ -1453,8 +1138,6 @@ fearlesness, etc., be appropriately ascribed to this reflection. So no other sel
  **18. The Ruler within of the gods and so on (is Brahman) on account of the qualities of that (Brahman) being men- tioned.**
 
  “Dost thou know the Internal Ruler” etc. (Brih. 3. 7. 1); and again, “He who inhabits the earth, but is within it, whom the earth does not know, is the Internal Ruler, your own immortal self” (Brih. 3. 7. 3). The “Internal Ruler” spoken of here is Brahman and not the individual soul endowed with Siddhis (powers) or the presiding deity, or anything else, for the characteristics of Brahman
-
-
 
 are mentioned in the concluding part of the text cited, wherein the Ruler is spoken of as identical with the individual soul and immortal, which can be true only of Brahman. He is also described in this section as being all-pervading, since he is inside and the Ruler within of everything, *viz.* the earth, the sun, water, fire, sky, the ether, the senses, etc., and this also can be true only of Brahman.
 
@@ -1470,8 +1153,6 @@ are mentioned in the concluding part of the text cited, wherein the Ruler is spo
 
  शारीरः The individual soul च also ( न not ) उभये अपि (the followers of) both (the recensions—Kânwa and Mâdhyandina) हि for भेदेन् as different एनम् this (the Jiva) अधीयते read.
 
-
-
  **20. Also the individual soul (is not the Ruler within), for this is read as different (from the Internal Ruler) by the followers of both (the recensions, *viz*. the Kânwa and Mâdhyandina Sâkhâs of the Brihadâranyaka Upanishad).**
 
  The negative ‘not’ is to be supplied from the last Sutra.
@@ -1483,8 +1164,6 @@ are mentioned in the concluding part of the text cited, wherein the Ruler is spo
 ***Topic 6: That which cannot be seen is Brahman.***
 
  In the last topic the ruler within was interpreted as the Supreme Lord and not the Pradhâna, for qualities like, ‘seeing’, ‘hearing’, etc., which are contrary to the nature of the Pradhâna, were present.
-
-
 
 Now certain texts which do not mention such qualities so as to exclude the Pradhâna are taken up for discussion.
 
@@ -1502,8 +1181,6 @@ Now certain texts which do not mention such qualities so as to exclude the Pradh
 
 ** 22. The other two (*viz*. the individual soul and the Pradhâna) are not (referred to in the passage), because the characteristics of Brahman and the difference (of the**
 
-
-
 **Being which is the source of all beings from the individual soul and the Pradhâna) are mentioned.**
 
  “That heavenly person is without body, comprises the external and the internal, is birthless, without the vital force and without mind, pure, higher than the high Imperishable” (Mu. 2. 1. 2). Epithets like ‘heavenly’, ‘birthless’, ‘pure’, etc. apply to Brahman and not the individual soul, which considers itself limited, impure, corporeal, etc. “Higher than the high Imperishable (Pradhâna)” shows that the source of all beings spoken of in the last Sutra is not the Pradhâna but something different from it.
@@ -1520,8 +1197,6 @@ Now certain texts which do not mention such qualities so as to exclude the Pradh
 
  In the last topic a general quality like invisibility
 
-
-
 equally applicable to Brahman and the Pradhana was interpreted to refer to Brahman taking into consideration qualities like all-knowingness etc. mentioned later on in the section. Following this argument the objector takes some texts for discussion and insists that the Vaisvânara referred to in them must be the ordinary fire in view of specifications like “the support of sacrifice” mentioned later on.
 
 **वैश्वानरः साधारणशब्दविशेषात्॥२४॥**
@@ -1531,8 +1206,6 @@ equally applicable to Brahman and the Pradhana was interpreted to refer to Brahm
  **24. Vaisvânara (is Brahman), because of the qualifying adjuncts to the common words (‘Vaisvânara’ and ‘Self’).**
 
  “But he who worships this Vaisvânara Self extending from heaven to the earth as identical with his own self, eats food in all beings, in all selves; of that Vaisvânara self Sutejas (heaven) is the head, the sun the eye”, etc. (Chh. 5. 18. 1-2). Now what is this Vaisvânara Self? ‘Vaisvânara’ generally means fire, the presiding deity of fire and the gastric fire. ‘Self’ refers to both the individual soul and the Supreme Self. Which of these is referred to in the passage? Whatever be the ordinary meaning of these two words, the Sutra says that here the Supreme Self is referred to, on account of the qualifying adjuncts to these words. The adjuncts are:
-
-
 
 Heaven is the head of this Vaisvânara Self, the sun its eyes, etc., and this is possible only in the case of the Supreme Self. Again the result of meditation on this Vaisvânara Self having the parts stated is the attainment of all desires, and freedom from all sin. (Vide Chh. 5. 24. 3). This also can be true if the Highest Self is meant. Moreover the chapter begins with the inquiry, “What is our Self? What is Brahman ?”—where the word ‘Brahman’ is used in its primary sense, and so it is proper to think that the whole chapter delineates Brahman.
 
@@ -1544,8 +1217,6 @@ Heaven is the head of this Vaisvânara Self, the sun its eyes, etc., and this is
 
  The Smritis are interpretations of Sruti texts. So where a doubt arises as to the meaning of a Sruti the former may be consulted to throw light on the subject. The Smriti describes the cosmic form of the Supreme Lord as, “He whose mouth is fire, whose head is heaven,.... whose ears are the regions—salutation to Him, whose body is the universe”, which agrees with the description in the text under
 
-
-
 discussion. Hence we have to conclude that the Highest Lord is referred to in the text.
 
 ** शव्दादिभ्योऽन्तः प्रतिष्ठानाच्च नेति चेत्, न, तथा दृष्ट्युपदेशात्, असंभवात्, पुरुषमपि चैनमधीयते॥२६॥**
@@ -1555,8 +1226,6 @@ discussion. Hence we have to conclude that the Highest Lord is referred to in th
  **26. If it be said that (Vaisvânara) is not (Brahman) because of the word (‘Vaisvânara’, which has a definite meaning, viz. gastric fire) and other reasons, and on account of its existing inside (which is true of gastric fire), (we say) not so, because there is the instruction to conceive (Brahman) as such (as the gastric fire), because it is impossible (for the gastric fire to have the heaven etc. for itshead and other limbs) and also because (the Vâjasaneyins) describe him (Vaisvânara) as a person (which the gastric fire is not).**
 
  *Objection:* The ordinary meaning of ‘Vaisvânara’ is fire and the Sruti also says that it is seated
-
-
 
 inside: “He who knows this Vaisvânara abiding within man” (Sat. Br. 10. 6. 1. 11), which applies to the gastric fire only. Hence it alone, and not Brahman, is referred to in the text under discussion.
 
@@ -1574,8 +1243,6 @@ which is all-pervading and can also be conceivedof as a person.
 **साक्षादप्यविरोधं जैमिनिः॥२८॥**
 
  साक्षात् Directly अपि even अविरोधं no contradiction जैमिनिः (so says) Jaimini.
-
-
 
  **28. Even (if by ‘Vaisvânara’ Brahman is) directly (taken as the object of worship), there is no contradiction;(so says) Jaimini.**
 
@@ -1595,8 +1262,6 @@ which is all-pervading and can also be conceivedof as a person.
 
  **30. For the purpose of constant remembrance—so says Bâdari.**
 
-
-
  The Highest Lord may be called “measured by a span” (to render the term ‘Prâdesamâtra’ differently), because He is remembered through the mind, which is seated in the heart, and the heart is of the size of a span.
 
 **सम्पत्तेरिति जैमिनिः, तथा हि दर्शयति॥३१॥**
@@ -1608,8 +1273,6 @@ which is all-pervading and can also be conceivedof as a person.
 
  Sampat Upâsanâ is a kind of meditation in which something is imagined as identical with something else on account of some kind of similarity or likeness. As, for example, when the cosmic being (Purusha) is worshipped through the identification of His different limbs with the different parts of the worshipper's body from the top of the head to the chin. The head of the worshipper is heaven, the eyes the sun and the moon, and so on. In this meditation of the cosmic Person He is limited to the size of a span, the distance from the top of the head to the chin. Therefore, says Jaimini, in the text under discussion, the Supreme Lord is regarded as of the size of a span.
 
-
-
 **आमनन्ति चैनमस्मिन्॥३२॥**
 
  आमनन्ति Teach च morcover एनम् this अस्मिन् in this.
@@ -1619,8 +1282,6 @@ which is all-pervading and can also be conceivedof as a person.
  See Jâbâla Upanishad 1.
 
  Sutras 27—32 justify the reference to the supreme Lord by the term ‘Prâdesamâtra’ “as extending from heaven to the earth”, or “as measured by a span”).
-
-
 
 **CHAPTER I**
 
@@ -1632,8 +1293,6 @@ which is all-pervading and can also be conceivedof as a person.
 
  In the last topic of the last section the word ‘Vaisvânara’, which usually means the gastric fire, was interpreted as Brahman, in view of the words, “Its head is heaven”, occurring at the end of the text. Following this argument the opponent takes up for discussion a text where the word 'immortal' should refer to the Pradhâna and not to Brahman, on account of the word 'bridge' which occurs at the end of the text. A bridge connects with something beyond, and as there can be nothing beyond Brahman, the word 'bridge' excludes Brahman, and so 'immortal' refers not to Brahman but to the Pradhâna.
 
-
-
 **द्युभ्वाद्यायतनं स्व-शव्दात्॥१॥**
 
  द्यु-भू-आदि-आयतनम् The resting-place of heaven, earth, etc. स्व-शव्दात्on account of the word ‘Self’.
@@ -1643,8 +1302,6 @@ which is all-pervading and can also be conceivedof as a person.
  “In Him heaven, the earth, and the sky are woven, as also the mind with all the senses. Know that Self alone and leave off other talk! He is the bridge of Immortality” (Mu. 2. 2. 5). He who is spoken of as the abode, in whom the earth, heaven, etc. are woven is Brahman, on account of the term 'Self', which is appropriate only if Brahman is refer- red to in the text and not Pradhâna or Sutrâtman. Or there are actual texts in which Brahman is spoken of as the abode by terms properly designating Brahman. For example: “All these creatures, my dear, have their root, their abode, and their rest in the being” (Chh. 6. 8. 4). It may also mean Brahman because in the texts preceding and following this one, i.c. in Mu. 2. 1. 10 and 2. 2. 11, Brahman is spoken of, and so it is but proper to infer that It is also referred to in the intervening text, which is under discussion.
 
  From the text cited above, where mention is made of an abode and that which abides, and also from “Brahman indeed is all this” (Mu. 2. 2. 11) we are not to take that Brahman is of manifold, variegated
-
-
 
 nature, like a tree consisting of leaves, branches, etc. This would lead us to Pantheism, and Advaita does not uphold it. So in order to remove the possibility of such a doubt the passage under discussion, says, “Know Him alone, the Self” *i.e.* know the Self alone and not that which abides in it, which is merely a product of Nescience and has to be set aside as false.
 
@@ -1663,8 +1320,6 @@ nature, like a tree consisting of leaves, branches, etc. This would lead us to P
  **3. (The abode of heaven etc.) is not what is inferred (*i.e.* Pradhâna), owing to want of any term indicating it.**
 
  The abode of heaven etc. cannot be the Pradhâna, for there is no term indicative of it in the text, as we have 'Self' indicative of Brahman. There are no terms whatsoever referring to inert matter, but on the
-
-
 
 other hand there are terms indicating intelligence: “Who knows all, understands all” etc. (Mu. 1.1.9).
 
@@ -1690,8 +1345,6 @@ other hand there are terms indicating intelligence: “Who knows all, understand
 
  ** 6. On account of the subject-matter.**
 
-
-
  The Upanishad begins with, “What is that (Mu. 1. 1. 4) and concludes by saying, “The knower of Brahman becomes Brahman” (Mu. 3. 2. 9), which shows that the subject-matter of the whole Upanishad from beginning to end is Brahman, and therefore it is the same Brahman which is spoken of as the abode  
 of heaven etc.
 
@@ -1702,8 +1355,6 @@ of heaven etc.
 ** 7. Also on account of (the mention of two conditions:) remaining unattached and eating (which are the characteristics of the Supreme Self and the individual self respectively).**
 
  “Two birds, inseparable friends, cling to the same tree. One of them eats the sweet fruit, the other looks on without eating” (Mu. 3. 1. 1). Here Brahman is described as the witness and the individual soul as experiencing the fruits of good and evil actions and hence different from the other. This description, which distinguishes the two, can be apt only if the abode of heaven etc. is Brahman. Otherwise there will be no continuity of topic. Nor can we take this text as merely describing the nature of the individual soul, for the scriptures nowhere aim at describing the individual soul, which is known to
-
-
 
 everyone as the agent, enjoyer, etc. Their aim is always to describe and establish Brahman which is not so known.
 
@@ -1719,13 +1370,9 @@ everyone as the agent, enjoyer, etc. Their aim is always to describe and establi
 
  In the seventh chapter of the Chhândogya Upanishad, Sanatkumâra teaches Nârada several truths. He begins with 'name' and goes higher and higher, till he teaches the highest truth, which is Bhuman. “The Bhuman (infinite) is bliss...The Bhuman you should seek to understand....Where one sees
 
-
-
 nothing else, hears nothing else, understands nothing else, that is the Bhuman” (Chh. 7. 23 and 7. 24. 1). The question is, what does this Bhuman refer to. The opponent holds that it is the vital force. He argues as follows: After Sanatkumâra finished teaching every truth from name up to the vital force, Nârada asks him, “Is there anything higher than this?”—to which Sanatkumâra answers, “Yes, there is,” and takes up the next higher truth. But after being taught about the vital force Nârada does not ask whether there is any higher truth, and yet Sanatkumâra gives this dissertation on the Bhuman—which shows that this Bhuman is not different from the vital force taught already. Not only that, he calls the knower of the vital force an Ativadin (one who makes a statement surpassing previous statements), thereby showing that the vital force is the highest truth, and in accordance with this he further elucidates the truth as Bhuman.
 
  This Sutra refutes this argument and says that Bhuman is Brahman, for though the Sutra calls the knower of vital force an Ativâdin, yet it says, “But he indeed is an Ativâdin who is such through the realization of the Truth” (Chh. 7.16.1), which clearly shows that it refers to something higher than the vital force, knowing which one becomes truly an Ativâdin. Thus it is clear that a new topic about Brahman which is the highest Truth is begun, though Nårada does not ask whether there is any truth higher than the vital force. Sanatkumâra, in accordance with
-
-
 
 Nârada's desire to be an Ativâdin through Truth, now leads him by a series of steps to the knowledge of the Bhuman, showing that this Bhuman is Brahman. Moreover, if the vital force, says the Sutra, were the Bhuman, then the Sruti would not give any information about it—as it does in Chh. 7. 24. 1 cited above—beyond what it has already given in section 15.
 
@@ -1741,8 +1388,6 @@ Nârada's desire to be an Ativâdin through Truth, now leads him by a series of 
 
  In the previous section because the epithet ‘Truth' is generally applied to Brahman, the Bhuman was interpreted as Brahman. Following the same
 
-
-
 argument the opponent holds that the word 'Akshara' should mean the syllable 'Om' in the texts to be taken up for discussion in this section, for 'Akshara' generally means word or syllable.
 
 **अक्षरमम्बरान्तधृतेः ॥१०॥**
@@ -1752,8 +1397,6 @@ argument the opponent holds that the word 'Akshara' should mean the syllable 'Om
  **10. The Akshara (the Imperishable) (is Brahman) because it supports (everything) up to Âkâsa (ether).**
 
  “O Gârgi, the Brâhmanas call this Akshara” etc. (Brih. 3. 8. 8). Here the question is whether 'Akshara' means the syllable 'Om' or Brahman. The doubt arises because 'Akshara' etymologically means a syllable and therefore commonly represents the syllable 'Om', which is also an object of meditation. The Sutra however says 'Akshara' here stands for Brahman. Why? For the text says, “In that Akshara, O Gârgi, is the ether woven like warp and woof” (Brih. 3. 8. 11). This attribute of supporting everything, even the Âkâsa, the first entity in the order of creation, can be true only of Brahman. Then again “it is neither gross nor minute, neither short nor long” etc. (Brih. 3. 8. 8) shows that all relative qualities are absent in it. Therefore the 'Akshara' is Brahman.
-
-
 
 **सा च प्रशासनात्॥११॥**
 
@@ -1771,8 +1414,6 @@ argument the opponent holds that the word 'Akshara' should mean the syllable 'Om
 
  All other qualities referred to in the text, as, for example, seeing, hearing, thinking, knowing, etc. (Brih. 3. 8. 11) point to a conscious principle and therefore negate the Pradhâna etc. Nor can it be the individual soul, which is not free from limiting adjuncts as the Akshara is described.
 
-
-
 ***Topic 4: The Highest Person to be meditated upon  
 is the Highest Brahman.***
 
@@ -1786,8 +1427,6 @@ is the Highest Brahman.***
 
  “Again he who meditates with the syllable 'Om' of three Mâtrâs (A-u-m), on the Highest Person” etc. (Pr. 5. 5). A doubt arises whether the Highest Brahman or the Lower Brahman is meant, because, in 5. 2 both are mentioned, and also because Brahmaloka is described as the fruit by the worship of this Highest Person. The Sutra says that this Highest
 
-
-
 Person is the Highest Brahman and not Hiranyagarbha (the Lower Brahman). Why? Because the paragraph ends thus: “He sees the Highest Person,” which shows that he realizes or actually gets identified with the Highest Person. It is not a mere imagination but an actuality, for the object of an act of seeing is an actuality, as we find from experience. But Hiranyagarbha is an imaginary being, since it is a product of ignorance. Hence the Highest Person means the Highest Brahman, which is a reality, and this very Brahman is taught at the beginning of the paragraph as the object of meditation, for it is not possible to realize one entity by meditating on another.
 
  The attainment of Brahmaloka by the worshipper should not be regarded as an insignificant fruit of the worship of the Highest Person, for it is a step in gradual emancipation (Krama Mukti). First he attains this Loka and then final beatitude.
@@ -1800,8 +1439,6 @@ Person is the Highest Brahman and not Hiranyagarbha (the Lower Brahman). Why? Be
 
  दहरः Small उत्तरेभ्यःbecause of subsequent texts.
 
-
-
  **14. The small (Âkâsa) (is Brahman) because of subsequent texts (which give ample indication to that effect).**
 
  “Now there is in this city of Brahman (the body) a small lotus-like palace (the heart), and in it a small Âkâsa. What exists within that small Âkâsa is to be sought, that is to be understood” (Chh. 8. 1. 1). Here the small Âkâsa' is Brahman and does not mean ether, though it is the ordinary meaning of the word; nor does it mean the Jiva or individual soul, though there is the qualification 'small', which may show that it is a limited something. Why? Because the characteristics of Brahman occur later on in the text, "As large as this (external) ether is, so large is that Âkâsa within the heart" (Chh. 8. 1. 3), which clearly shows it is not actually small. Again Âkâsa cannot be compared with itself, nor can the limited individual soul be compared with the all-pervading ether. Therefore the two are precluded. Then we have the characteristics of Brahman. “Both the earth and heaven are contained in it” (Ibid. 8. 1. 3), which shows that this Âkâsa is the support of the whole world. “It is the Self, free from sin, free from old age” etc. (Ibid. 8.1.5), all of which are distinctly qualities of the Highest Brahman.
@@ -1809,8 +1446,6 @@ Person is the Highest Brahman and not Hiranyagarbha (the Lower Brahman). Why? Be
 **गतिशब्दाभ्यां , तथा हि दृष्ट लिङ्गं च ॥१५॥**
 
  गतिशब्दाभ्याम् From going and the word तथा हि likewise दृष्ट it is seen लिङ्गम् indicatory sign च and.
-
-
 
 ** 15. The small Âkâsa (is Brahman) on account of going (into Brahman) and of the word (Brahmaloka); it (i.e. the individual soul's going into Brahman) is likewise seen (from other Sruti texts); and (the daily going) is an indicatory sign (by which we can interpret the word Brahmaloka).**
 
@@ -1821,8 +1456,6 @@ Person is the Highest Brahman and not Hiranyagarbha (the Lower Brahman). Why? Be
 **धृतेश्च, महिम्नोऽस्यास्मिन्नुपलब्धेः॥१६॥**
 
  धृतेः On account of the supporting ( of the world
-
-
 
 by the Âkâsa) च moreover अस्य महिम्नःthis greatness अस्मिन् in Brahman उपलब्धेः being seen.
 
@@ -1838,8 +1471,6 @@ by the Âkâsa) च moreover अस्य महिम्नःthis greatness �
 
  “Âkâsa is the revealer of all names and forms” (Chh. 8. 14. 1); “All these beings take their rise from Âkâsa alone” (Chh. 1. 9. 1). In all these passages. ‘Âkâsa’ stands for Brahman.
 
-
-
 **इतरपरामर्शात् स इति चेत्, न असम्भवात्॥१८॥**
 
  इतर-परामर्शात् Because of the reference to the other (ie. the individual soul) सः he (the individual soul ) इति चेत् if it be said न no असम्भवात् on account of impossibility.
@@ -1848,8 +1479,6 @@ by the Âkâsa) च moreover अस्य महिम्नःthis greatness �
 
  “Now that being, the individual soul (Jiva) in deep sleep, which having risen above this earthly body” etc. (Chh. 8. 3. 4). Since in this complementary passage the individual soul is referred to, one may say that the ‘small Âkâsa’ of Chh. 8. 1. 1 is also the individual soul. It cannot be; for a comparison is made in Chh. 8. 1. 3 between the ‘small Âkâsa’ and the ether, which would be absurd if by‘small Âkâsa’ Jiva were meant, because there can be no comparison between a thing that is limited like the individual soul and the all-pervading ether. The attributes like ‘free from evil’ of this Âkâsa, referred to in the passage under discussion, cannot be true of the individual soul. So Brahman is meant in that passage.
 
-
-
 **उत्तराच्चेत्, आविर्भूतस्वरूपस्तु ॥१९॥**
 
  उत्तरात् From subsequent texts ( in the chapter) चेत् if आविर्भूत-स्वरूपः with its real nature made manifest तु but.
@@ -1857,8 +1486,6 @@ by the Âkâsa) च moreover अस्य महिम्नःthis greatness �
  **19. If (it be said) that from subsequent texts (which contain references to the Jiva, ‘small Âkâsa’ means the Jiva) (we say) but (that reference to the Jiva is in so far as its) real nature (as non-different from Brahman) is made manifest.**
 
  An objection is again raised to justify that the ‘small Âkâsa’ refers to the individual soul. In Chh. in the later sections, *viz.* sections 7-11 of chapter 8, the different states of the individual soul are mentioned. Section 7 begins thus: “That self which is free from sin is what is to be searched” etc. Then we have, “That person who is seen in the eye (the individual soul) is the self” (Chh. 8. 7. 4); “He who moves glorified in dreams is the self” (Chh. 8.10.1). “When a being is thus asleep, drawn in, perfectly serene, and sees no dreams, that is the self” (Chh. 8.11.1). And in each of these descriptions of the self we have for it the qualifying terms, ‘immortal and fearless’, which show that it is free from evil. It is clear that here the individual soul is meant, and not the Supreme Lord, for the latter is free from these three states *viz.* waking, dream, and deep sleep; and
-
-
 
 it is also said to be free from evil. Therefore ‘small Âkâsa’ in the preceding section refers to the soul and not to the Supreme Lord.
 
@@ -1878,8 +1505,6 @@ it is also said to be free from evil. Therefore ‘small Âkâsa’ in the prece
 
 ** 21. If it be said that because the Sruti declares the limitedness (of this**
 
-
-
 **Âkâsa, therefore it cannot refer to the all-pervading Brahman); (we say) that has already been explained (as having reference to devout meditation only. Vide 1.2.7).**
 
 ***Topic 6: That which shining, everything shines is Brahman.***
@@ -1893,8 +1518,6 @@ it is also said to be free from evil. Therefore ‘small Âkâsa’ in the prece
  **22. Because of the acting after (i.e. shining after) (That which shining, everything else shines) and (because by) Its (light everything else is lighted).**
 
  “There the sun does not shine, nor the moon... It shining, everything else shines after It, by Its light all this is lighted” (Mu. 2. 2. 11). Here ‘It’ refers to the Supreme Brahman, the pure Consciousness, and not to any material light besides the sun and the moon. It is absurd to say that one light is lighted by another. Nor do we know of any material light besides the sun that can light it. ‘It
-
-
 
 shining, everything else shines’ shows that it is the principle of Intelligence which shines first of all. ‘By Its light all this is lighted’ shows that it is the light of Intelligence, Consciousness or Brahman which illumines the whole world, luminous and non-luminous. That Brahman is self-luminous we learn from texts like, “It is the light of lights.”
 
@@ -1916,8 +1539,6 @@ shining, everything else shines’ shows that it is the principle of Intelligenc
 
  “The being of the size of a thumb, resides in the centre of the body. (Knowing that) Lord of the past and future, one does not seek to hide oneself
 
-
-
 any more. This is That” (Kath. 2. 4. 12). The being referred to is Brahman, because he is spoken of as the Lord or ruler of the past and future. It cannot be the individual soul, though the limitation in size and residence in the centre of the body by themselves might be more applicable in its case. Moreover in reply to the request of Nachiketas who wanted to know Brahman, Yama refers to this being of the size of a thumb thus: “That which you wanted to know is this.”
 
 **हृद्यपेक्षया तु मनुष्याधिकारत्वात्॥२५॥**
@@ -1927,8 +1548,6 @@ any more. This is That” (Kath. 2. 4. 12). The being referred to is Brahman, be
 ** 25. But with reference to (the space in) the heart (the Highest Brahman is said to be of the size of a thumb); (and because) man alone is entitled (to the study of the Vedas).**
 
  How could the all-pervading Brahman be of the size of a thumb, as stated by the previous Sutra? Because the space in the heart is of the size of a thumb, therefore Brahman, with reference to Its abiding within that space, is described as being of the size of a thumb. Since Brahman abides within the heart of all living creatures, why is the ‘thumb’ used as a standard? Because man alone is entitled to the study of the Vedas and to the different Upâsanâs of
-
-
 
 **Brahman prescribed in them, therefore it is with reference to him that the thumb is used as the standard of measurement.**
 
@@ -1942,8 +1561,6 @@ any more. This is That” (Kath. 2. 4. 12). The being referred to is Brahman, be
 
  In Sutras 26-38 there is a digression from the main topic in the Section. A doubt may arise from the previous Sutra that as it is said that men alone are entitled to the study of the Vedas, the gods are thereby debarred. To remove this doubt this Sutra is given. The gods are also entitled to it, according to Bâdarâyana. How? Because it is possible for them also—since they too are corporeal beings—to have a desire for Brahmaloka or for final illumination and also to possess the necessary requisites (the fourfold qualification) for such illumination. In the Sruti also we find Indra and other gods living the life of Brahmacharya for attaining this knowledge of Brahman. For instance, Chh. 8. 11. 3; also Taitt.
 
-
-
 3. 1, where the god Varuna is said to have possessed that Knowledge which he teaches to his son Bhrigu.
 
 **विरोधः कर्मणीति चेत्, न, अनेकप्रतिपत्तेर्दर्शनात् ॥२७॥**
@@ -1956,19 +1573,13 @@ any more. This is That” (Kath. 2. 4. 12). The being referred to is Brahman, be
 
  **शब्द इति चेत्, न, अतः प्रभवात् प्रत्यक्षानुमानाभ्याम्॥२८॥**
 
-
-
  शब्दे With regard to ( Vedic ) words इति चेत् if it be said न no अतः from these (words) प्रभवात् because of the creation प्रत्यक्ष-अनुमानाभ्याम् from direct perception and inference.
 
 ** 28. If it be said (that the corporeality of the gods would involve contradiction) with regard to (Vedic) words, (we say) no, because of the creation (of the world together with the gods) from these (words), (as is known) from direct perception (Sruti) and inference (Smriti).**
 
  A further objection is raised with respect to the corporeality of the gods. If they have a body, they too like men would be subject to births and deaths. Now all the words in the Vedas according to Purva Mimâmsâ are eternal. So also every word has for its counterpart a form, an object which it denotes. The relation between a name or word and form (the object) is eternal. The word or name, its object, and their relation are eternal verities. Now in the Vedas we find words like Indra, Varuna, etc.—the names of the gods. If these gods are not eternal, since they possess bodies, then these words cannot have their eternal counterpart, the object. So the eternity and authoritativeness of the Vedas, which are based on the eternal relation between the word and its object, would be a myth. This is the main objection. It is answered thus. Each word of the Vedas has an
 
-
-
 objective counterpart, which is not an individual but a type. The word 'cow', for instance, has for its counterpart the object, which is a type and as such is eternal and does not depend on the birth or death of individuals belonging to that type. Similar is the case with words like Indra, Varuna, etc. Words representing the gods etc. have for their counterpart objects that are types and not individuals. Again Indra is the name of any one who would occupy that exalted position, like the word 'king' in ordinary parlance. So there is no contradiction to Vedic words. As a matter of fact, the world including the gods etc. have originated from Vedic words. This does not mean that the Vedic words constitute the material cause of these things, which Brahman alone is, as stated in Sutra 1. 1. 2. What then is meant? According to Indian philosophy the universe and its objects have both name and form as the conditions of their manifestation. There can be no mental state (Chitta-vritti) unconditioned by name and form. The thought wave first manifests as a word and then as the more concrete form. The idea is the essence, and the form is, as it were, the outer crust. What is true of the individual mind is also true of the cosmic mind. In this sense only is the world said to be created, rather manifested, from the Vedic words. This is endorsed by the Sruti and Smriti. In the Vedas it is said that the Lord uttered different words before creating different types of beings. Vide Brih. 1. 2. 4. “The several names, actions, and con-
-
-
 
 ditions of all things He shaped in the beginning from the words of the Vedas” (Manu 1.21).
 
@@ -1986,15 +1597,11 @@ ditions of all things He shaped in the beginning from the words of the Vedas” 
 
  **30. And because of the sameness of names and forms (in every fresh cycle) there is no contradiction (to the eternity**
 
-
-
 **of the Vedic words) even in the revolving of the world cycles, as is seen from the Sruti and the Smriti.**
 
  An objection is raised. Since at the end of a cycle everything is completely destroyed and creation begins afresh at the beginning of the next cycle, there is a break in the continuity of existence; so even as types the gods are not eternal. This upsets the eternal relation of Vedic words and the objects they represent, and consequently the eternity of the Vedas and their authority fall to the ground. This Sutra refutes it. Just as a person after waking from deep sleep finds no break in the continuity of existence, so also in the state of Pralaya (end of a cycle) the world is in a potential state—in seed form—in ignorance, and not completely destroyed; at the beginning of the next cycle it is again manifested into a gross form with all the previous variety of names and forms As the world does not become absolutely non-existent, the eternity of the relation between Vedic words and their objects is not contradicted, and consequently the authoritativeness of the Vedas remains. This eternal existence of the world in gross and fine forms alternatively and the similarity of the names and forms are brought out by the Sruti and Smriti texts. “As formerly the Lord ordered the sun and the moon, heaven, earth, the sky” etc. (Rig-Veda 10. 190. 3).
 
 **मध्वादिष्वसम्भवादनधिकारं जैमिनिः॥३१॥**
-
-
 
  मध्वादिषु In Madhu Vidyâ etc. असंभवात् on account of the impossibility अनधिकारं disqualification जैमिनिः Jaimini (is of opinion).
 
@@ -2008,8 +1615,6 @@ ditions of all things He shaped in the beginning from the words of the Vedas” 
 
  **32. And (the gods are not qualified for Vidyâs) because (the words ‘sun’,**
 
-
-
 **‘moon’, etc., spoken of as gods) are used in the sense of mere spheres of light.**
 
  A further objection is given. There is no proof as to the existence of gods with hands, feet, etc., and with desires—which would qualify them for medita- tions and Knowledge. These are mere names of planets and luminary objects and as such are material inert things. Consequently they are not qualified for any kind of Vidyâ (meditation) prescribed in the scriptures.
@@ -2021,8 +1626,6 @@ ditions of all things He shaped in the beginning from the words of the Vedas” 
 ** 33. But Bâdarâyana (maintains) the existence (of qualification on the part of the gods for the knowledge of Brahman), because (all those causes like body, desires, etc., which qualify one for such knowledge) do exist (in the case of the gods).**
 
  Bâdarâyana thinks that besides the luminary orbs like the sun, moon, etc., each of them has a presiding deity of that name with body, intelligence, desires, etc., and as such there being all the causes which can qualify them for the Upâsanâs and Supreme Knowledge, the gods also are entitled to them. The
-
-
 
 fact that the sun-god cannot be entitled to Madhu Vidya because he cannot meditate on the sun, *i.e.*himself, does not disqualify him for other devout meditations or for the knowledge of Brahman. Similar is the case with other gods.
 
@@ -2037,8 +1640,6 @@ of the Vedas discussed.***
 
  In the previous Sutra it has been shown that the gods are entitled to the Vedas and Knowledge. This Sutra discusses whether the Sudras are entitled to them or not. Since, like the gods, the Sudras alsoare possessed of a body, strength, and desires, it naturally follows that they too are entitled. In
 
-
-
 Chhândogya 4.2.5 Raikva at first calls Jânasruti, a Sudra, when he comes for instruction with presents, which are refused. But when he appears a second time, Raikva again calls him a Sudra, but this time accepts his presents and teaches him. So it is maintained that the Sudras also are qualified for Knowledge.
 
  This Sutra refutes the view and denies the right to the study of the Vedas for a Sudra by caste, since the word 'Sudra' occurring in the text referred to does not denote a Sudra by birth, which is its conventional meaning, for Jânasruti was a Kshatriya king (Chh. 4. 1. 3). Here we must take the etymo-logical meaning of the word, which is "He rushed into grief" or "He in his grief immediately approached Raikva." The following Sutra also shows that he was a Kshatriya.
@@ -2048,8 +1649,6 @@ Chhândogya 4.2.5 Raikva at first calls Jânasruti, a Sudra, when he comes for i
  क्षत्रियत्वगतेः ( His ) Kshatriyahood being known च andउत्तरत्र later on चैत्ररथेन लिङ्गात् by the indicatory sign ( of his being mentioned) along with a descendant of Chitraratha (a Kshatriya ).
 
  **35.And because the Kshatriyahood (of Jânasruti) is known later on by theindicatory sign (of his being mentioned) along with a descendant of Chitraratha (a Kshatriya).**
-
-
 
 Jânasruti is mentioned with the Kshatriya Chaitraratha Abhipratârin in connection with the same Vidyâ, and so we can infer that Jânasruti also was a Kshatriya, for as a rule equals alone are mentioned together.
 
@@ -2065,8 +1664,6 @@ Jânasruti is mentioned with the Kshatriya Chaitraratha Abhipratârin in connect
 
   तदभाव-निर्धारणे On the ascertainment of the absence of that (Sudrahood) च andप्रवृत्तेः from inclination.
 
-
-
  **37. And because the inclination (on the part of Gautama to impart Knowledge is seen only) on the ascertainment of the absence of Sudrahood (in Jâbâla Satyakâma).**
 
  That Sudras are not qualified is known also from the fact that great teachers like Gautama made sure before imparting Knowledge that disciples like Jâbâla Satyakâma were not Sudras. See Chh. 4. 4. 5.
@@ -2081,8 +1678,6 @@ Jânasruti is mentioned with the Kshatriya Chaitraratha Abhipratârin in connect
 
  The digression begun from Sutra 26 ends here and the general topic is again taken up.
 
-
-
 ***Topic 10: The Prâna in which everything trembles is Brahman.***
 
  In topic 7 it was proved that the reference to the Jiva was to inculcate the knowledge of Brahman, as the former is really identical with Brahman. But in the text to be discussed 'Prâna' cannot refer to Brahman, as such identity is not possible—this seems to be the line of thinking of the opponent, who therefore takes up this topic for discussion.
@@ -2094,8 +1689,6 @@ Jânasruti is mentioned with the Kshatriya Chaitraratha Abhipratârin in connect
  **39. (Prâna is Brahman) on account of the vibration (spoken of the whole world).**
 
  “Whatever there is in the whole world has come out of and trembles in the Prâna” etc. (Kath. 2. 6. 2). Here 'Prâna' is Brahman and not the vital force. Why? First because of the context, since Brahman is the topic in the previous and subsequent texts. Again “The whole world trembles in Prâna”—in this we have reference to an attribute of Brahman, It being the abode of the whole world. It is the cause of the life of the whole world including the Prâna. Lastly, *immortality* is declared to him who knows this Prâna, and 'Prâna' is also often used to denote Brahman in the Sruti.
-
-
 
 **Topic 11: The 'light' is Brahman.**
 
@@ -2115,8 +1708,6 @@ Jânasruti is mentioned with the Kshatriya Chaitraratha Abhipratârin in connect
 
  आकाशःÂkâsa अर्थान्तरत्वादि—व्यपदेशात् because it is declared to be something different etc.
 
-
-
  **41. Âkâsa (is Brahman) because it is declared to be something different etc. (from names and forms and yet their revealer).**
 
  “That which is called Âkâsa is the revealer of all names and forms. That within which these names and forms are, is Brahman, the immortal, the Self” (Chh. 8.14.1).
@@ -2126,8 +1717,6 @@ Jânasruti is mentioned with the Kshatriya Chaitraratha Abhipratârin in connect
 **Topic 13: The Self consisting of knowledge is not the individual soul but Brahman.**
 
  In the previous topic because Âkâsa was spoken of as different from names and forms, it was taken as Brahman. This argument is objected to by the opponent, who cites that even difference is spoken of with respect to the individual soul and Brahman, who are really identical. So this topic is taken up for discussion.
-
-
 
 **सुषुप्त्युत्क्रान्त्योर्भेदेन॥४२॥**
 
@@ -2139,8 +1728,6 @@ Jânasruti is mentioned with the Kshatriya Chaitraratha Abhipratârin in connect
 
  The ‘person’is the individual soul, because the absence of the knowledge of exernal things and things within in deep sleep can be predicated only of the individual soul, which is the knower, and the supremely intelligent Self is Brahman because such intelligence can be predicated of Brahman only. Similarly at the time of death. Brih. 4. 3. 35). Therefore Brahman is the chief topic in this section.
 
-
-
 The extensive discourse on the individual soul in this section is not to establish its Jivahood, but to show that it is in reality not different from Brahman.
 
 **पत्यादिशब्देभ्यः॥४३॥**
@@ -2148,8 +1735,6 @@ The extensive discourse on the individual soul in this section is not to establi
  **43. On account of words like ‘Lord’ etc. (the Self in the text under discussion is the Supreme Self).**
 
  Epithets like ‘Lord’, ‘Ruler’, etc. are applied to the ‘Self’discussed in the text (Vide Brih. 4. 4. 22), and these are apt only in the case of Brahman, for these epithets show that the thing spoken of is beyond bondage. So the word ‘Self’denotes the Supreme Self and not the Jiva.
-
-
 
 **CHAPTER I**
 
@@ -2165,8 +1750,6 @@ The extensive discourse on the individual soul in this section is not to establi
 
  आनुमानिकम् That which is inferred (i.e. the Pradhâna) अपि also एकेषाम् in some (recensions of the
 
-
-
 texts) इति चेत् if it be said न no शरीर-रूपक-विन्यस्त-गृहीतेः because it is mentioned in a simile referring to the body दर्शयति (the Sruti) explains चtoo.
 
  **1. If it be said that in some (recensions of the Vedas) that which is inferred (i.e. the Pradhâna) (is) also (mentioned), (we say) no, because (the word ‘Avyakta’ occurring in the Katha Upanishad) is mentioned in a simile referring to the body (and means the body itself and not the Pradhâna of the Sânkhyas); (the Sruti) too explains (it).**
@@ -2175,13 +1758,9 @@ texts) इति चेत् if it be said न no शरीर-रूपक-व
 
  This Sutra after raising this objection refutes it thus: The word ‘Avyakta’is used in connection with a simile referring to the body, and does not
 
-
-
 refer to the Pradhâna. In that word we recognize something mentioned in an earlier text. “Know that the soul is the rider of the chariot and the body the chariot. Consider the intellect to be the charioteer and the mind the reins. The senses, theysay, are the horses, and their roads are the sense-objects”etc. (Kath. 1. 3. 3-4). All these things that are referred to in these verses are to be found in the following: “The objects are superior to the senses, the mind is superior to the objects, the intellect is superior to the mind, the Mahat is superior again to the intellect, the Avyakta is superior to the Mahat, and the Purusha is superior to the Avyakta. Nothing is superior to the Purusha,”etc. (Kath. 1. 3. 10-11).
 
  Now compare these two quotations. The senses, mind and intellect, mentioned in the earlier texts, are to be found in these later texts. The Âtman of the earlier texts is denoted by the ‘Purusha’of the later ones. The Mahat of the later texts mean the cosmic intellect and so is included in the intellect of the earlier texts, where it is used in a comprehensive sense to include both the individual and cosmic intellects. What remains is only the body in the earlier texts, and Avyakta in the later texts; and so Avyakta means the body here and not the Pradhâna. We shall not be justified in interpreting a Sruti according to Sânkhyan technicalities. For the purpose of recognition a comparison should be made not with the Smriti, but with similar passages of the Sruti itself, like those cited above.
-
-
 
 **सूक्ष्मं तु तदर्हत्वात्॥२॥**
 
@@ -2199,8 +1778,6 @@ refer to the Pradhâna. In that word we recognize something mentioned in an earl
 
  It may be said that if a subtle causal condition of the gross world is thus admitted, it is as good as accepting the Pradhâna. This Sutra makes the difference clear. While the Prâdhâna of the Sânkhyas
 
-
-
 is an independent entity, the subtle causal condition admitted here is dependent on the Supreme Lord. Such a causal condition has necessarily to be admitted, for without that the Lord cannot create. It is the potential power, the causal potentiality inherent in Brahman. It is Nescience. That explains why, when one's ignorance is destroyed. by Knowledge, there is no possibility of that liberated soul getting into bondage again. About this ignorance you can neither say that it is nor that it is not; it is an illusion and so it is reasonably called undeveloped (Avyakta). This ignorance or creative power cannot create of itself without the instrumentality of the Lord. The illusion of a snake in a rope is not possible merely through ignorance without the rope. So also the world cannot be created merely by ignorance without the substratum, the Lord. Hence it is dependent on the Lord. Yet the Lord is not in the least affected by this ignorance, even as the poison does not affect the snake which has it. “Know then Prakriti is Mâyâ and the great Lord the ruler of Mâyâ” (Svet 4. 10). So the Avyakta is a helper, as it were, to Iswara in His creation, and hence such an Avyakta dependent on the Lord is significant and has to be admitted, says the Sutra.
 
 **ज्ञेयत्वावचनाच्च॥४॥**
@@ -2208,8 +1785,6 @@ is an independent entity, the subtle causal condition admitted here is dependent
  ज्ञेयत्वावचनात् Because it is not mentioned (as something) to be known च and.
 
  **4. And because it is not mentioned**
-
-
 
 **(that the Avyakta) is to be known (it cannot be the Pradhâna of the Sânkhyas).**
 
@@ -2222,8 +1797,6 @@ is an independent entity, the subtle causal condition admitted here is dependent
  **5. If it be said (that the Sruti) does state (that the Avyakta has to be known and therefore it is the Pradhâna); (we say) no, for (it is) the intelligent (Supreme) Self (which is meant), since that is the topic.**
 
  “He who has perceived that which is without sound, without touch... beyond the Mahat (Great) and unchangeable, is freed from the jaws of death”(Kath. 1. 3. 15). The Sânkhyas hold that in this text the Sruti says that the Pradhâna has to be known to attain Freedom; for the description given of the entity to be known tallies with the Pradhâna, which is also beyond the Mahat. The Sutra refutes this saying that by Avyakta, the one beyond the Mahat (Great) etc., the intelligent
-
-
 
 **(Supreme) Self is meant, as that is the subject-matter of that section.**
 
@@ -2243,8 +1816,6 @@ is an independent entity, the subtle causal condition admitted here is dependent
 
  The Mahat according to the Sânkhyas means the first-born, the cosmic intelligence; but in the Vedic texts it is associated with the word ‘Self’. Passages like “The Mahat (Great) is superior to the intellect” (Kath. 1. 3. 10), clearly show that it is used in a different sense from the intellect and refer to the
 
-
-
 Self in different aspects. Similarly though the Avyakta in the Sânkhya philosophy may mean the Pradhâna or Prakriti, in the Sruti texts it means something different. So the Pradhâna is not based on scriptural authority but is a mere inferred thing.
 
 **Topic 2: The tri-coloured Ajûof the Svetâsvatara Upanishad is not the Sânkhyan Pradhâna.**
@@ -2259,8 +1830,6 @@ Self in different aspects. Similarly though the Avyakta in the Sânkhya philosop
 
  “There is one Ajâ, red, white, and black producing manifold offspring of the same appearance (colour)”(Svet. 4. 5). The question is whether this ‘Ajâ’refers to the Sânkhya category Prakriti or to the fine elements fire, water, and earth. The Sânkhyas hold that ‘Ajâ’here means the Pradhâna, the unborn; and red, white, and black refer to its three constituents, the Gunas—Sattva, Rajas, and
 
-
-
 Tamas. This Sutra refutes this, saying that in the absence of special characteristics there is no basis for such a special assertion. The text can be interpreted otherwise also. “There is a bowl that has its opening below and bulging at the top”(Brih. 2. 2. 3). It is impossible to decide from the text itself what kind of bowl is meant. So also it is impossible to fix the meaning of ‘Ajâ’from the text alone. As in the case of the bowl the complementary texts fix what kind of bowl is meant, so also here we have to refer this passage to supplementary scriptural texts to fix the meaning of ‘Ajâ’and not assert that it means the Pradhâna.
 
 **ज्योतिरुपक्रमा तु, तथा ह्यधीयत एके॥९॥**
@@ -2272,8 +1841,6 @@ Tamas. This Sutra refutes this, saying that in the absence of special characteri
  The Chhândogya assigns to the elements fire, water, and earth, created by the Lord, red, white, and black colours. Vide Chh. 6. 2. 2-4 and 6. 4. 1.
 
  This passage fixes the meaning of the word ‘Ajâ’ here. It refers to the three elementary substances viz. fire, earth, and water, from which the rest of the creation has been produced. It is not the Prakriti of the Sânkhyas consisting of the three Gunas. In the former interpretation the three colours
-
-
 
 can be taken in their primary sense, whereas they can represent the three Gunas in a secondary sense only. Moreover, the force of the recognition of the Sruti is stronger; that is to say, if we can beyond doubt recognize in this passage what is elsewhere mentioned in the Sruti, that will be more reasonable than to recognize categories of a Smriti in the Sruti texts.
 
@@ -2287,8 +1854,6 @@ can be taken in their primary sense, whereas they can represent the three Gunas 
 
  There is no incongruity in it, answers the Sutra, as the elements are spoken of through the imagery of a she-goat (Ajâ). Even as the sun in Madhuvidyâ is represented as honey in the text, “The sun indeed in the honey”(Chh. 3. 1. 1), so also are the three elementary substances of the Chhândogya
 
-
-
 represented as the goat. A she-goat may be black, white, and red, and may give birth to offspring representing her in colour. Similarly out of the combination of fire, water, and earth, having red, white, and black colours respectively, are produced all the inanimate and animate beings of similar colours. The combination of the fine elements, fire, water, and earth is here spoken of by the imagery of a tri-coloured goat, and that is why it is called an Ajâ, which does not however mean unborn.
 
 **Topic 3: The fivefold five people of Brih. 4. 4. 17 are not the twenty-five Sânkhyan categories.**
@@ -2300,8 +1865,6 @@ represented as the goat. A she-goat may be black, white, and red, and may give b
  **11. Even from the statement of the number (fivefold five, i.e. twenty-five categories, by the Sruti, it is) not (to be presumed that the Sruti refers to the Pradhâna) on account of the differences (in the categories) and the excess (over the number of the Sânkhyan categories).**
 
  “That in which the five groups of five and the (subtle) ether are placed, that very “Âtman”etc. (Brih. 4. 4. 17). Now five times five makes twentyfive, which is exactly the number of the Sânkhyan
-
-
 
 categories. So the Sânkhyas say that here is the scriptural authority for their philosophy. This Sutra refutes such an assumption. For the Sânkhyan categories cannot be divided into groups of five on any basis of similarity, for all the twenty-five categories differ from each other. Secondly, the mention of the ethar in the text as a separate category would make the number twenty-six in all, contrary to the Sânkhyan theory.
 
@@ -2319,8 +1882,6 @@ categories. So the Sânkhyas say that here is the scriptural authority for their
 
  **13. (In the text) of some (the Kânva recension) food not being mentioned (in**
 
-
-
 **the complementary passage referred to in the previous Sutra) (the number is made up) by ‘light’(mentioned in the previous verse).**
 
  “That immortal Light of lights the gods worship as longevity”(Brih. 4. 4. 16). Though food is not mentioned in the text cited in the last Sutra according to the Kânva recension of the Satapatha Brâhmana, yet the four of that verse, together with ‘light’ mentioned in the text cited above, would make the ‘five people’.
@@ -2333,8 +1894,6 @@ categories. So the Sânkhyas say that here is the scriptural authority for their
 
  कारणत्वेन As the (First) Cause च and आकाशादिषु as regards ether and so on यथा व्यपदिष्टोक्तेः being represented (in other texts) as taught (in one text).
 
-
-
  **14. (Although) as regards (things created, like) ether and so on (the Vedânta texts differ), (yet there is no such conflict with respect to Brahman) as the First Cause, (on account of Its) being represented (in other texts) as taught (in one text).**
 
  The Sânkhyas contend that though the Pradhâna cannot be the First Cause according to the Sruti, yet Brahman also cannot be taken to be the First Cause taught by the Sruti. Why? Because there is conflict as regards the order of creation; for some texts say that it is Âkâsa that was first produced from Brahman, some say that it is Prâna, others that it is fire. This Sutra says that though there are conflicting views with respect to things created, that is, as regards the order of creation, yet since it is not the main object of the Sruti to teach about creation, it matters little. The main object in these descriptions is to teach that Brahman is the First Cause, and with respect to this there is no conflict; for every Vedânta text holds that Brahman is that.
@@ -2343,11 +1902,7 @@ categories. So the Sânkhyas say that here is the scriptural authority for their
 
 ** 15. On account of the connection (with passage referring to Brahman, nonexistence does not mean absolute nonexistence).**
 
-
-
  A further objection is raised that even as regards the First Cause there is a conflict, for some texts say that the Self created these worlds (Ait. Ar. 2. 4. 1. 2-3), others say that creation originated from non-existence (Taitt. 2. 7). Again existence is taught as the First Cause in some texts (Chh. 6. 2. 1-2). Spontaneous creation also is taught by some texts (Brih. 1. 4. 7). On account of these conflicting texts it cannot be said that all the Vedânta texts refer to Brahman uniformly as the First Cause. These objections are answered as follows: “This was indeed non-existence in the beginning”(Taitt. 2. 7). Non-existence here does not mean absolute non-existence but undifferentiated existence. Existence was at the beginning undifferentiated into name and form. In the texts of the Taittiriya Upanishad Brahman is definitely described as not being non-existence. “He who knows Brahman as non-existing becomes himself non-existing. He who knows Brahman as existing is known by sages as existing”(Taitt. 2. 6). This Brahman is again described as having wished to be many and created this world. Again “How can that which is be created from non-existence?” (Chh. 6. 2. 2) clearly denies such a possibility. “Now this was then undifferentiated”(Brih. 1. 4. 7), does not speak of spontaneous creation without a ruler, for it is connected with another passage where it is said, “He has entered here to the very tips of the finger-nails”(Brih. 1. 4. 7), where ‘He’refers to this ruler, and hence we have
-
-
 
 to take that the Lord, the ruler, developed what was undeveloped. Similarly Brahman, which is described in one place as existence, is referred to in another place as being the Self of all by the word ‘Âtman’. So all texts uniformly point to Brahman as the First Cause, and there is no conflict as regards this.
 
@@ -2363,8 +1918,6 @@ to take that the Lord, the ruler, developed what was undeveloped. Similarly Brah
 
  “He, O Bâlâki, who is the maker of these persons (whom you mentioned), and whose work this is—is alone to be known”(Kau. 4. 19). In this section Bâlâki first describes the several individual souls residing in the sun, moon, ether, etc. as
 
-
-
 Brahman. Ajâtasatru says that these are not the true Brahman and proceeding to teach the real Brahman says, “He who is the maker of these persons is alone to be known and not these persons.”Here who is the maker of the sun, moon, etc. is the question. The opponent holds he is either the chief Prâna or the individual soul. He is the chief Prâna. for the activity of motion connected with work refers to Prâna, and Prâna is also mentioned in a complementary passage: “Then he becomes one with that Prâna alone”(Kau. 4. 20). It may also be the Jiva, for in “As the master feeds with his people... thus does the conscious self feed with the other selfs” (Kau. 4. 20) it is referred to. The Sutra refutes all this and says it is Brahman that is referred to by ‘maker’in the text; for Brahman is taught here. I shall teach you Brahman.”Again ‘this’, which means the world, is his work—which clearly points out that the ‘he’is none other than Brahman. Therefore the maker is neither Prâna nor the individual soul, but the Supreme Lord.
 
 **जीवमुख्यप्राणलिङ्गान्नेति चेत्, तद्व्याख्यातम्॥१७॥**
@@ -2372,8 +1925,6 @@ Brahman. Ajâtasatru says that these are not the true Brahman and proceeding to 
  जीव-मुख्यप्राण-लिङ्गात् On account of characteristics of the individual soul and the chief Prâna न not इति चेत् if it be said तत् that व्याख्यातम् has already been explained.
 
 ** 17. If it be said that on account of the characteristics of the individual soul and**
-
-
 
 **the chief Prâna (to be found in the text, Brahman is) not (referred to by the word ‘maker’in the passage cited), (we reply) that has already been explained**.
 
@@ -2386,8 +1937,6 @@ Brahman. Ajâtasatru says that these are not the true Brahman and proceeding to 
 ** 18. But (the sage) Jaimini (thinks that the reference to the individual soul in the text) has another purpose because of the question and answer; moreover thus some (the Vâjasaneyins) (read in their recension).**
 
 ** **Even the reference to the individual soul in the said chapter of the Kaushitaki Upanishad has a different purpose, and that is not to propound the individual soul but Brahman by showing that the individual soul is different from Brahman. The questions, “Where did the person thus sleep? Where was he? Whence came he thus back?”(Kau. 4. 19) refer clearly to something different from the individual soul. And so does the answer (Ibid. 4. 20) say that the individual soul is merged in Brahman in deep sleep. The Brihadâranyaka Upanishad, where also this conversation occurs, clearly points out the
-
-
 
 individual soul by the term ‘Vijnânamaya’, the person consisting of cognition, and distinguishes it from the Supreme Self. (Brih. 2. 1. 16-17).
 
@@ -2403,8 +1952,6 @@ individual soul by the term ‘Vijnânamaya’, the person consisting of cogniti
 
  “The Self, my dear Maitreyi, should be realized—should be heard of, reflected on, and meditated upon. By the realization of the Self, my dear, through hearing, reflection, and meditation, all this is known”(Brih. 2. 4. 5). In this passage the Supreme Self is referred to, and not the individual soul. Why? In the whole section Brahman is treated. It begins with Maitreyi’s question “Will wealth get me immortality?” and Yâjnavalkya answers that
 
-
-
 wealth, sacrifice, etc. will not obtain that immortality. She then asks for that which will give her immortality, and Yâjnavalkya teaches her the knowledge of the Self; finally the section concludes with, “Thus far goes immortality.”Now immortality cannot be gained by the knowledge of the individual soul, but only by the knowledge of the Supreme Self or Brahman. Therefore Brahman alone is the subject-matter and It alone is to be seen through hearing etc. Moreover, the text quoted says that by the knowledge of the Self spoken of there, everything is known, which clearly connects the Self referred to with Brahman; for how can the knowledge of a limited individual self give us knowledge of everything?
 
 **प्रतिज्ञासिद्धेर्लिङ्गमाश्मरथ्यः॥२०॥**
@@ -2414,8 +1961,6 @@ wealth, sacrifice, etc. will not obtain that immortality. She then asks for that
  **20. (The fact that the individual soul is taught as the object of realization is an) indicatory mark (which is) proof of the proposition, so Âsmarathya thinks.**
 
  In this Sutra the text quoted in the last Sutra (Brih. 2. 4. 5) is interpreted from the standpoint of Bhedâbheda-vâda of sage Âsmarathya. According to this school the individual soul (Jiva) and Brahman, which are related as effect and cause respectively, are different, yet not different, from
-
-
 
 each other, even as sparks are different, yet not different from fire. If the individual soul (Jiva). were quite different from Brahman, then by the knowledge of the one (Brahman) everything else would not be known. Hence this school interprets the text thus: The individual soul alone is to be seen. But as it is not different from Brahman, the knowledge of the individual soul gives knowledge of Brahman and consequently knowledge of everything. It is this non-difference between Brahman and the individual soul (Jiva) that establishes the proposition, “By the knowledge of one everything else is known”, and in this sense alone the text speaks of the individual soul in Brih. 2. 4. 5.
 
@@ -2427,8 +1972,6 @@ each other, even as sparks are different, yet not different from fire. If the in
 
  **21. (The statement at the beginning identifies the individual soul with Brahman) because of this nature (viz. its**
 
-
-
 **identity with Brahman) of the one (i.e. the soul) which rises from the body (at the time of release), thus (thinks) Audulomi.**
 
  This Âchârya, while taking that the self to be seen is the individual soul (Jiva), explains it as follows: The soul, when it rises from the body, i.e. is free and has no body consciousness, realizes that it is identical with Brahman. It is to show this non-difference in the state of release that the Sruti speaks of the individual soul as identical with Brahman, even though the difference between the individual soul (Jiva) and Brahman in the state of ignorance is a reality. It is spoken of as non-different from the Supreme Self or Brahman because in the state of release it is one with It. The text transfers the future state of non-difference to that time when difference actually exists. This school of Vedânta is known as Satya-bheda-vâda (i.e. the theory which holds that the difference between the individual soul and Brahman is a reality).
@@ -2439,15 +1982,11 @@ each other, even as sparks are different, yet not different from fire. If the in
 
  **22. (The initial statement is made) because of the existence (of Brahman as the individual soul), so holds (sage) Kâsakritsna.**
 
-
-
  As it is impossible that an individual soul (Jiva) quite different in nature from Brahman can be one with it in the state of release, this sage thinks that the Supreme Self Itself exists as the individual soul. They are absolutely. non-different, the apparent difference being due to Upâdhis or limiting adjuncts, which are but products of ignorance, and therefore unreal from the absolute standpoint. Hence also follows that by the knowledge of Brahman everything else is known.
 
  Of the three schools of Vedânta depicted in the last three Sutras, that of Kâsakritsna is justified by the Vedânta texts. According to Âsmarathya the individual soul is a product of the Supreme Self, and hence the knowledge of the cause leads to the knowledge of everything including the individual soul. But is the effect or any portion of it different from the cause? And is the whole cause involved in each of its effects? The answer to the second question is evidently, no. If the effect or some portion of it is different from this cause, whence does it come? And is it separable from that? If separable, it is not its nature, for nature cannot be separated. If not separable, the cause cannot be known, and the proposition, “The soul being known, all else is known”, falls to the ground. So Âsmarathya’s view cannot stand.
 
  According to Audulomi the individual soul (Jiva) is only a state of the Supreme Self. If the Jivahood is a reality, it can never be destroyed and freedom
-
-
 
 would be impossible. If on the other hand it becomes one with the Supreme Soul on release, then there is nothing like Jivahood which can be a reality. So Audulomi’s view cannot stand. Jivahood is an unreality, a creation of ignorance, the Jiva being identical with Brahman. Even the creation of Jivas like sparks issuing from a fire does not speak of any real creation but only with reference to Upâdhis. In reality the Jiva is neither created nor destroyed. It is our ignorance that makes us see the individual soul (Jiva) limited by Upâdhis as something different from Brahman.
 
@@ -2461,8 +2000,6 @@ would be impossible. If on the other hand it becomes one with the Supreme Soul o
 
  Granted that Brahman is the cause of the world; but what kind of cause? Is It the efficient cause, or the material cause, or both? The *prima facie* view is that Brahman is only the efficient cause, as texts like “He thought,...he created Prâna” (Pr. 6. 3-4) declare.
 
-
-
  This view is refuted by this Sutra.Brahman is also the material cause of the world.Here ‘also’ shows that it is the efficient cause as well. It is only if Brahman is the material cause of the world that it is possible to know everything through the knowledge of Brahman, as texts like “By which that which is not heard becomes heard”etc. (Chh. 6. 1. 3) say; for the effects are not different from the cause. The illustrations referred to are: “My dear, as by one lump of clay all that is made of clay is known”etc. (Chh. 6. 1. 4). These texts clearly show that Brahman is the material cause of the world; otherwise they would be meaningless. Again texts like “Brahman alone was at the beginning one without a second”show that It is also the efficient cause, for who else could be such a cause when there was nothing else?
 
 **अभिध्योपदेशाच्च॥२४॥**
@@ -2472,8 +2009,6 @@ would be impossible. If on the other hand it becomes one with the Supreme Soul o
  **24. Also on account of the statement of will (to create on the part of the Supreme Self, It is the material cause).**
 
  “It wished, ‘May I be many, may I grow forth’” etc. (Chh. 6. 2. 3). In this text the desire shows that Brahmán is the efficient cause, and next ‘may I be many’intimates that Brahman Itself became many. Hence It is the material cause as well.
-
-
 
 **साक्षाच्चोभयाम्नानात्॥२५॥**
 
@@ -2490,8 +2025,6 @@ would be impossible. If on the other hand it becomes one with the Supreme Soul o
  **26. (Brahman is the material cause of the world) because (the Sruti says that) It created Itself by undergoing modifications.**
 
  “That Itself manifested Itself” (Taitt. 2. 7), which shows that Brahman alone created the world,
-
-
 
 out of Itself, which is possible only by undergoing modification. The word ‘Itself’in the text shows that there was no other cause operating. The modification is apparent according to Sankara and real according to Râmânuja.
 
@@ -2513,15 +2046,11 @@ out of Itself, which is possible only by undergoing modification. The word ‘It
 
  By this identity of the material and the efficient cause of the world all doctrines that speak of two separate causes for it are refuted. That is, not only the Sânkhyan, but also the atomic and other theories are refuted, as they are not based on scriptural
 
-
-
 authority and contradict many scriptural texts. The repetition of the verb in the aphorism only shows that the chapter ends here.
 
  Those who hold the atomic theory, or who say that the First Cause is non-existence, or that it is Sunya (Void)—as the Nihilists say—cite respectively the following texts as authority. “These seeds, almost infinitesimal”(Chh. 6. 12. 1); “This was indeed non-existent at the beginning”(Chh. 3. 19. 1); “Some learned men being deluded, speak of nature, and others of time, as the cause of everything”(Svet. 6. 1). But the arguments put forward against the Sânkhyas, *viz*. that contrary to the scriptures their First Cause is insentient, that the proposition that through the knowledge of the one everything is known, will not be true, etc. will apply here also, and so these views cannot be held to be authoritative and based on the scriptures. The Srutis quoted are explained thus:
 
  The word ‘infinitesimal’or ‘atomic’refers to the Âtman, which can be so-called as it is very fine. The non-existence spoken of is only a fine causal condition of the world undeveloped into name and form as yet, and not absolute non-existence; and the fact of nature being the First Cause is mentioned as a Purvapaksha by the Sruti, which itself refutes it further on in the succeeding texts. So Brahman alone is the First Cause, and nothing else.
-
-
 
 **CHAPTER II**
 
@@ -2538,8 +2067,6 @@ authority and contradict many scriptural texts. The repetition of the verb in th
 
  **1. If it be said that (from the doctrine of Brahman being the cause of the world) there would result the defect**
 
-
-
 **of leaving no scope for certain Smirits, (we say) no; because (by the rejection of that doctrine) there would result the defect of leaving no scope for some other Smritis.**
 
  In the last chapter it has been shown that the Sânkhyan view is not based on scriptural authority. Now its authority even as a Smriti is denied and refuted.
@@ -2549,8 +2076,6 @@ authority and contradict many scriptural texts. The repetition of the verb in th
 **इतरेषां चानुपलब्धेः॥२॥**
 
  इतरेषां Of the others च and अनुपलब्धेःthere being no mention.
-
-
 
  **2. And there being no mention (in the scriptures) of the other entities, (i.e. the categories beside the Pradhâna), (the Sânkhya system cannot be authoritative).**
 
@@ -2566,8 +2091,6 @@ authority and contradict many scriptural texts. The repetition of the verb in th
 
  After the refutation of the Sânkhyas, who recognize an independent entity called the Pradhâna as the cause of the world, this Sutra refutes the Yoga Smriti, which also recognizes a separate entity called the Pradhâna as the First Cause, though unlike the Sânkhyas they recognize an Iswara who directs this inert Pradhâna in its creative evolution. The Yoga system is spoken of in Upanishads like the Svetâsvatara. It helps concentration of the mind, which
 
-
-
 is necessary for the full comprehension of Brahman, and as such it is a means to Knowledge. So this Smriti, being based on the Srutis is authoritative. But it also recognizes the Pradhâna, which therefore is the First Cause—so says the opponent. This Sutra says that the arguments given in the last Sutra refute also the Yoga Smriti, for it also speaks of a Pradhâna and its products which are not to be found in the Srutis. Though the Smriti is partly authoritative, yet it cannot be so with respect to that part which contradicts the Srutis. There is room only for those portions of the Smriti as do not contradict the Srutis.
 
 **Topic 3: Brahman, though of a different nature from the world,  
@@ -2581,8 +2104,6 @@ can yet be its cause.**
 
  Brahman is intelligence, pure, etc., while the world is something material, impure, etc., and so is different from the nature of Brahman; as such, Brahman cannot be the cause of this world. The effect is nothing but the cause in another form; therefore the cause and effect cannot be altogether of a
 
-
-
 different nature. Intelligence cannot produce material effects and *vice versa.* That the world and Brahman differ entirely in their characteristics is known from texts like “Brahman became intelligence as also non-intelligent”(Taitt. 2. 6), where “non-intelligent” stands for the world. So Brahman cannot be the First Cause of the material world, though the scriptures may say so.
 
 **अभिमानिव्यपदेशस्तु विशेषानुगतिभ्याम्॥५॥**
@@ -2592,8 +2113,6 @@ different nature. Intelligence cannot produce material effects and *vice versa.*
  **5. But the reference is to the presiding deities (of the organs) on account of the special characterization (as ‘deities’) and also from the fact of a deity so presiding (over the functions of an organ being approved by the Sruti in other texts).**
 
  The opponent, who says that the world and Brahman being different in nature—sensient and material respectively—cannot be related to each other as cause and effect, anticipates a plausible objection and answers it in this Sutra. There is a text, “These organs quarrelling over their respective greatness,”etc. (Brih. 6. 1. 7), which shows that even the organs are not material but sentient. The opponent says that from this we are not to infer the sentiency of the world, since the reference is to the
-
-
 
 presiding deities of these organs. For the same topic occurs in the Kausnitaki Upanishad, where they are expressly mentioned. “These deities (speech etc.) quarrelling over their respective greatness”(Kau. 2. 14). Also because other texts show the existence of such presiding deities. “Fire becoming speech entered the mouth”(Ait. Ar. 2. 4. 2. 4). The same argument applies to texts of the Chhândogya, Ch. VI, where fire etc. are said to have thought and produced the next element in the series. The thought here spoken of is of the highest Deity, Brahman, which is connected with Its effects as a superintending principle. From all such texts we cannot infer the sentiency of the world, which is material and so different in nature from Brahman. Therefore Brahman cannot be the cause of the material world.
 
@@ -2605,15 +2124,11 @@ presiding deities of these organs. For the same topic occurs in the Kausnitaki U
 
  ‘But’refutes the opponent’s view expressed in the last Sutra, *viz*. that this world cannot have originated from Brahman because it is different in character. For it is seen that intelligent things like scorpions etc. are produced from non-intelligent cowdung etc. Again from a sentient spider there comes forth the thread for its web. So also do nails, hair, etc. come forth from a man, who is an intelligent being. Therefore it is quite possible that this
 
-
-
 material world could be produced by an intelligent Being, Brahman. It may be objected that a man’s body is the cause of the hair and nails, and not the man; similarly the cowdung is the cause of the body of the worms. Even then it must be admitted that there is a difference between the cause and the effect since, in both the examples cited, one of them is the abode of something sentient while the other is not; they are not similar in all respects. If they were, then there would be nothing like cause and effect, nor would they be called by different names. So we have to admit that the cause and its effects are not similar in every respect, but something in the cause, or some qualities of it, must be found in the effects also, as the clay in the lump is found in the pot also, though the shape etc. of the two differ. So we say that even in the case of Brahman and the world, some qualities of the cause, Brahman, such as existence and intelligence, are to be found in its effect, the world. Everything in the world exists, and this quality it gets from Brahman, which is existence itself. Again the intelligence of Brahman lights the whole universe. So these two qualities of Brahman are found in the world, which justify our relating them as cause and effect in spite of differences in other respects between them.
 
 **असदिति चेत्, न, प्रतिषेधमात्रत्वात्॥७॥**
 
  असत् Non-existent इति चेत् if it be said न no प्रतिषेधमात्रत्वात् (for it is merely a negation.
-
-
 
 ** 7. If it be said (that the world, the effect, would then be) non-existent (before creation), (we say) no, for it is merely a negation (without any basis).**
 
@@ -2627,8 +2142,6 @@ material world could be produced by an intelligent Being, Brahman. It may be obj
 
 ** **Says the opponent: If Brahman is the cause of the world, then the world being dissolved in Brahman
 
-
-
 at the time of dissolution, its defects would affect Brahman, even as salt affects the water in which it is dissolved. Hence Brahman would become impure and would no more be the omniscient cause of the world, as the Upanishads maintain. Again at the time of dissolution all things having gone into a state of oneness with Brahman, there will be no special causes left for a new creation. If in spite of this we consider a new creation possible, then it would mean that there is a chance of even the liberated souls, who have become one with Brahman, reappearing in the world. Nor can it be said that the world remains separate from Brahman in the state of dissolution, for in that case it would be no dissolution at all. So the Vedânta doctrine of Brahman being the cause of the world is objectionable, as it leads to all sorts of absurdities.
 
 **न तु, दृष्टान्तभावात्॥९॥**
@@ -2639,13 +2152,9 @@ at the time of dissolution, its defects would affect Brahman, even as salt affec
 
  The objection is being answered: That the effect, when it gets dissolved in the cause, does not pollute the latter by its defects, is borne out by innumerable instances. A clay pot, for instance, when it is broken and reabsorbed into its original substance, i.e. clay, does not impart to it its special features. The very fact of absorption shows that all
 
-
-
 the qualities of the effect cannot abide, for in that case it would be no absorption at all. Moreover, we have to remember that the effect is of the nature of the cause and not *vice versa.* Hence the qualities of the effect cannot touch the cause. It may, however, be objected that since the effect is but the cause in a new condition, all the good and bad traits of the effect must have been in the cause. But we forget that the world is after all an illusion. Brahman has only apparently changed into the world and as such is never affected by it, even as a magician is not affected by the illusion produced by him.
 
   The other incongruity shown, *viz*. that since at the time of dissolution the world is resolved into Brahman and becomes one with It, there can be no further creation, and if it takes place there will be the possibility of even free souls coming into bondage again, cannot stand, for there are parallel instances with respect to this also. In deep sleep we do not perceive anything, there is no diversity, but on awakening we find the world of duality. A similar phenomenon can be expected to happen at the time of dissolution. In the former case it is the existence of ignorance (Avidyâ), which is not destroyed, that is responsible for the reappearance of the world. So also at dissolution the power of distinction remains in a potential state as Avidyâ or ignorance. But in the case of the liberated no ignorance being left, there is no chance of their being brought back into bondage from their state of oneness with Brahman.
-
-
 
 **स्वपक्षदोषाच्च॥१०॥**
 
@@ -2659,13 +2168,9 @@ the qualities of the effect cannot abide, for in that case it would be no absorp
 
  तर्क-अप्रतिष्ठानात् Because reasoning has no sure basis अपि also अन्यथा otherwise अनुमेयम् should be inferred or reasoned इति चेत् if it be said एवम् so अपि even अविमोक्ष-प्रसङ्गःthere will result the contingency of non-release.
 
-
-
 ** 11. Also because reasoning has no sure basis (it cannot upset the conclusions of Vedânta). If it be said that it should be reasoned otherwise (so as to get over this defect), (we say) even so there will result the contingency of non-release (from this defect, with respect to the matter in question)**.
 
  What one man establishes through reason can be refuted by another more intelligent than he. Even a sage like Kapila is refuted by other sages like Kanâda. Hence reasoning having no sure basis cannot upset the conclusions of Vedânta, which are based on the Srutis. But, says the opponent, even this judgment about reasoning is arrived at through reasoning; so it is not true that reasoning has never a sure basis. Sometimes it is perfectly sound. Only we must reason properly. The latter part of the Sutra says that even though in some cases reasoning is infallible, yet with respect to the matter in hand it cannot transcend this defect. For the cause of the world (Brahman) is beyond the senses and has no characteristic signs. It cannot therefore be an object of perception, or of inference, which is based on perception. Or again if we take ‘release’in the Sutra to mean Liberation, it comes to this: True knowledge of a real thing depends on the thing itself, and therefore it is always uniform. Hence a conflict of views with respect to it is not possible. But the
-
-
 
 conclusions of reasoning can never be uniform. The Sânkhyas arrive through reasoning at the Pradhâna as the First Cause, while the Naiyâyikas (logicians) mention Paramânus (atoms) as that. Which to accept? So no conclusion can be arrived at through reasoning independent of the scriptures, and since the truth cannot be known through this means, there will be no Liberation. Therefore reasoning whichgoes against the scriptures is no proof of knowledge and cannot contradict the Sruti texts.
 
@@ -2679,8 +2184,6 @@ conclusions of reasoning can never be uniform. The Sânkhyas arrive through reas
 
  When the Sânkhya philosophy, parts of which are accepted by the wise as authoritative, has been refuted, there is no question as regards the non-authoritativeness of all doctrines based merely on reasoning like the atomic theory of Kanâda and nonexistence as the First Cause propounded by the Buddhists, which are wholly rejected by the wise. They are also refuted by these very arguments against
 
-
-
 the Sânkhyas, as the reasons on which the refutation is based are the same.
 
 **Topic 5: The distinctions like enjoyer and enjoyed do not contradict the truth which is oneness.**
@@ -2693,15 +2196,11 @@ the Sânkhyas, as the reasons on which the refutation is based are the same.
 
  A further objection is raised against Brahman being the cause. We perceive differences in the world. Now, perception as a means of knowledge is stronger than the Sruti. Hence what the Srutis say in contradiction to such an experience cannot stand. The idea is this: The distinction between the enjoyer (the Jiva) and the objects of enjoyment is well established by experience. If Brahman is the material cause, then the world, the effect, would be non-different from Brahman, and under the circumstances, the Jiva and Brahman being identical in Vedânta, the difference between the subject and
 
-
-
 object would be destroyed, since the one would pass over into the other. Hence Brahman cannot be held to be the material cause of the world as it contradicts perception.
 
  The latter part of the Sutra refutes this giving examples. It says that nevertheless there can be such differences in non-different things. For instance, waves, foam, etc. are non-different, being alike sea water;yet as waves and foam they are different from each other. As sea water, their cause, they are one, but as waves, foam, etc. they are different, and there is no contradiction here. Hence it is possibleto have difference and non-difference in things simultaneously, owing to name and form. Therefore from the standpoint of Brahman the enjoyer and the enjoyed are not different, but as enjoyer and things enjoyed they are different; there is no contradiction in this.
 
  The Sutra can also be interpreted otherwise. If Brahman be the cause, then It would also be the enjoyer, the individual soul (Jiva), there being no difference between cause and effect. Consequently, there will be no such difference as the bondage of the individual soul and the freedom of Brahman. The Sutra says that even as there is a distinction between the object, which is clear, and its image, which is disfigured in an unclean mirror, so also owing to the impurities of the Antahkarana (mind) the ever-free Brahman may give rise to the image of the individual soul, which is bound.
-
-
 
 **Topic 6: The non-difference of the effect from the cause.**
 
@@ -2713,11 +2212,7 @@ object would be destroyed, since the one would pass over into the other. Hence B
 
  In the last Sutra the objection against Brahman being the material cause, that it contradicts perception, was answered from the standpoint of Parinâmavâda or the theory of Brahman actually undergoing modification. Now the same objection is refuted from the standpoint of Vivartavâda or apparent modification, which is the standpoint of Advaita. The objection is: Texts like “There is no manifoldness whatever here (in Brahman)”(Kath. 2. 4. 11) contradict perception. Reason also says that among things which get transformed into each other there cannot be difference and non-difference at the same time. Hence the doubt. In a single moon we cannot see two moons. What was spoken of in the last Sutra, *viz.* that the difference between them is one of name and form, even that is unreal, for in a thing which is one without a second, which is non-duality, even the difference due to name and form is impossible. The example of the sea is not apt, for here both the sea and its modifications, waves and foam, are
 
-
-
 objects of the senses, but Brahman is not. It is realized only through the scriptures and in Samâdhi. What then is the truth? It is oneness, non-duality. As the effect is non-different from the cause, the latter alone is real. The Sruti also establishes this by the example of clay etc. in the Chhândogya Upanishad. “Just as, by the knowledge of one lump of earth, my dear, everything made of earth is known, the modification being only a name arising from speech, but the truth being that all is earth,...thus, my dear, is that instruction”(Chh. 6. 1. 4-6). Here the Sruti by using the word ‘modification’tries to prove that there is no separate reality of the pots etc., which are mere modifications of the lump of earth. They are not separate things but merely different conditions, just as the boyhood, youth, etc. of Devadatta are mere conditions, and not real. So by knowing the lump of earth the real nature of the pots etc. is known. It matters little that the various forms are not known, for they are not worth knowing, being unreal. Even though these pots etc. are objects of the senses, yet discrimination tells us that besides earth nothing real is found in these. They are merely names arising out of speech and nothing more. They are cognized through ignorance, hence they are unreal. The clay, on the other hand, is realized even apart from name and form and is therefore real. Similarly Brahman alone is real and this world is unreal. The world being non-different from its cause, Brahman, the truth is oneness, non-duality,
-
-
 
 Brahman, the one without a second. To people who through want of experience have not this insight into things, there will always be difference and non-difference, even as in the case of the sea and its waves, but in reality these differences are relative and not true.
 
@@ -2737,8 +2232,6 @@ Brahman, the one without a second. To people who through want of experience have
 
  The Sruti says that before creation the world had its being in the cause, Brahman, as one with It: “Verily in the beginning this was Self, one only” (Ait. Ar. 2. 4. 1. 1); “In the beginning, my dear, this was only existence”(Chh. 6. 2. 1). Now since before
 
-
-
 creation it was non-different from the cause, it continues to be so even after creation.
 
 **असद्व्यपदेशान्नेति चेत्, न, धर्मान्तरेण वाक्यशेषात्॥१७॥**
@@ -2748,8 +2241,6 @@ creation it was non-different from the cause, it continues to be so even after c
  **17. If it be said that on account of (the effect) being described as non-existent (before creation) (the conclusion of the previous Sutra is) not (true); (we say) not so, (it being described) by another characteristic (as is seen) from the latter part of the text.**
 
  “Non-existent indeed this was in the beginning” (Chh. 3. 19. 1). The word “non-existent” does not mean absolute non-existence, but that the world did not exist in a differentiated condition. It was undifferentiated had not yet developed name and form—in which sense the word “non-existence”is also used in common parlance. It was in a fine condition, and after creation it became gross, developing name and form. This sense is shown by the immediately succeeding portion of the text, “It became existent, it grew.”Hence the conclusion of the last Sutra is all right.
-
-
 
 **युक्तेः शब्दान्तराच्च॥१८॥**
 
@@ -2766,8 +2257,6 @@ creation it was non-different from the cause, it continues to be so even after c
  **19. And like a piece of cloth.**
 
  Even as is cloth folded and spread out, so is the
-
-
 
 world before and after creation. In the folded state one cannot make out whether it is a cloth or anything else, which is clearly discernible when it is spread out. In the state of Pralaya (dissolution), i.e. before creation, the world exists in a fine potential state in Brahman and after creation takes the gross form.
 
@@ -2787,8 +2276,6 @@ being really one, Brahman would be responsible for creating evil.**
 
  इतर-व्यपदेशात् On account of the other being stated (as non different from Brahman) हित-अकरणादि-दोष-प्रसक्तिः
 
-
-
 defects of not doing what is beneficial and the like would arise.
 
  **21. On account of the other (the individual soul) being stated (as non-different from Brahman) there would arise (in Brahman) the defects of not doing what is beneficial and the like.**
@@ -2800,8 +2287,6 @@ defects of not doing what is beneficial and the like would arise.
  अधिकं Something more तु but भेद-निर्देशात् on account of the statement of difference.
 
  **22. But on account of the statement (in the Srutis) of difference (between the individual soul and Brahman) (Brahman**
-
-
 
 **the Creator is) something more (than the individual soul).**
 
@@ -2817,8 +2302,6 @@ defects of not doing what is beneficial and the like would arise.
 
  An objection may be raised that Brahman,
 
-
-
 which is Knowledge, Bliss, and unchangeable, cannot be the cause of a world of diversity, of good and evil. This Sutra refutes that. The objection is untenable, for we see that from the same material, earth, stones of different values like the precious jewels as also useless stones are produced. So also from Brahman, which is Bliss, a world of good and evil can be created.
 
 **Topic 8: Brahman though destitute of material and instruments is yet the cause of the world.**
@@ -2831,8 +2314,6 @@ which is Knowledge, Bliss, and unchangeable, cannot be the cause of a world of d
 
  A fresh objection is raised against Brahman being the cause of the world. There is nothing extraneous to Brahman to help in the work of creation, for there is nothing besides Brahman. Brahman is one without a second and so free from all differentiations internal or external. It is ordinarily seen that one who creates something, the potter, for
 
-
-
 example, uses extraneous aids like the wheel, clay, etc. But Brahman, being one without a second, has not these accessories and so is not the Creator. The Sutra refutes this objection by showing that such a thing is possible even as milk turns into curds without the help of any extraneous thing. If it be urged that even in this case heat or some such thing starts curdling, we say it only accelerates the process, but the curdling takes place through the inherent capacity of the milk. One cannot turn water into curds by the application of heat! But Brahman being infinite, no such aid is necessary for It to produce this world. That It is of infinite power is testified by such Srutis as the following: “There is no effect and no instrument known of Him, no one is seen like unto Him or better. His high power is revealed as manifold and inherent, acting as force and knowledge.”(Svet. 6. 8).
 
 **देवादिवदपि लोके॥२५॥**
@@ -2842,8 +2323,6 @@ example, uses extraneous aids like the wheel, clay, etc. But Brahman, being one 
  **25. (The case of Brahman creating the world is) even like the gods and other beings in the world.**
 
  It may be objected that the example of milk turning into curds is not in point, since it is an inanimate substance. One never sees a conscious
-
-
 
 being, a potter, forinstance, turning out things without the help of external aids.
 
@@ -2859,8 +2338,6 @@ being, a potter, forinstance, turning out things without the help of external ai
 
  If Brahman is without parts and yet the material cause of the world, then we have to admit that the entire Brahman becomes changed into this multiform
 
-
-
 world. So there will be no Brahman left, but only the effect, the world. Moreover, it would contradict the scriptural text that Brahman is immutable. If on the other hand it is said that the whole of It does not undergo modification, but only a part, then we shall have to accept that Brahman is made up of parts, which is denied by scriptural texts. In either case it leads to a dilemma, and so Brahman cannot be the cause of the world.
 
 **श्रुतेस्तु, शब्दमूलत्वात्॥२७॥**
@@ -2872,8 +2349,6 @@ world. So there will be no Brahman left, but only the effect, the world. Moreove
  ‘But’refutes the view of the former Sutra.
 
  The entire Brahman does not undergo change, though the scriptures say that the world originates from Brahman. Witness such texts as, “One foot (quarter) of Him is all beings, and three feet are what is immortal in heaven”(Chh. 3. 12. 6). And as in matters supersensuous the Srutis alone are authority, we have to accept that both these opposite views are true, though it does not stand to reason. The thing is, the change in Brahman is only apparent and not real. Hence both the views expressed by
-
-
 
 the Sruti are true. It is on this basis that the apparently contradictory texts become reconciled and not otherwise.
 
@@ -2893,8 +2368,6 @@ the Sruti are true. It is on this basis that the apparently contradictory texts 
 
  **29. And on account of the opponent's own view being subject to these very objections.**
 
-
-
  If the Pradhâna is taken to be the First Cause, as the opponents of the Vedântic view (the Sânkhyas) hold, in that case also, as the Pradhâna too is without parts, the Sânkhyan view will be equally subject to the objections raised against Brahman as the First Cause. The Vedânta viewpoint has, however, answered all these objections, while the Sânkhyas and Vaiseshikas cannot answer them, the changes being real according to them.
 
 **Topic 10: Brahman's power of Mâyâ established.**
@@ -2908,8 +2381,6 @@ the Sruti are true. It is on this basis that the apparently contradictory texts 
  Generally we see that men endowed with a physical body possess such powers. But since Brahman has no body, it is not likely that It can possess such powers—so says the opponent.
 
  This Sutra gives proof of Brahman's being endowed with Mâyâ Sakti, the power of Nescience. Various scriptural texts declare that Brahman possesses all powers. “The great Lord is the Mâyin (the ruler of Mâyâ)”(Svet. 4. 10). See also Chh. 3. 14. 4 and 8. 7. 1.
-
-
 
 **विकरणत्वान्नेति चेत्, तदुक्तम्॥३१॥**
 
@@ -2925,8 +2396,6 @@ the Sruti are true. It is on this basis that the apparently contradictory texts 
 
  न Not प्रयोजनवत्वात् on account of having motive.
 
-
-
  **32. (Brahman is) not (the creator of the world) on account of (every activity) having a motive.**
 
  Granting that Brahman possesses all powers for creation, a further objection is raised against Its being the cause. Nobody engages himself in anything without a motive or purpose. Everything is undertaken by people to satisfy some desire. But Brahman is self-sufficient, therefore It has nothing to gain by the creation; hence we cannot expect It to engage Itself in such a useless creation. Therefore Brahman cannot be the cause of the world.
@@ -2939,8 +2408,6 @@ the Sruti are true. It is on this basis that the apparently contradictory texts 
 
  Even as kings without any motive behind are seen to engage in acts for mere pastime, or even as men breathe without a purpose, for it is their very nature, or even as children play out of mere fun, so also Brahman without any purpose engages Itself in creating this world of diversity. This answers the objection raised in the previous Sutra against Brahman's being the cause of the world.
 
-
-
 **Topic 12: Partiality and cruelty cannot be attributed to Brahman.**
 
 **वैषम्यनैर्घृण्ये न, सापेक्षत्वात्, तथा हि दर्शयति॥३४॥**
@@ -2950,8 +2417,6 @@ the Sruti are true. It is on this basis that the apparently contradictory texts 
  **34. Partiality and cruelty cannot (be attributed to Brahman) on account of Its taking into consideration (other reasons in that matter), because (the scripture) declares (it to be) so.**
 
  Some are created poor, some rich; hence the Lord is partial to some. He is cruel, inasmuch as He makes people suffer. To such an objection this Sutra replies that the Lord cannot be accused of partiality and cruelty, because He dispenses according to the merit and demerit of the individual soul. The scripture declares to that effect, “A man becomes good by good work, bad by bad work” (Brih. 3. 2. 13). But this does not contradict the independence of the Lord, even as the king's status is not compromised by his giving presents to his servants according to their action. Just as rain helps different seeds to sprout, each according to its nature, so God is the general efficient cause in bringing the latent tendencies of each individual to fruition. Hence he is neither partial nor cruel.
-
-
 
 **न कर्माविभागादिति चेत्, न, अनादित्वात्॥३५॥**
 
@@ -2967,8 +2432,6 @@ the Sruti are true. It is on this basis that the apparently contradictory texts 
 
 ** 36. And (that the world is without a beginning) is reasonable and is also seen (from the scriptures).**
 
-
-
  Reason tells us that creation must be without a beginning. For if the world did not exist in a potential state in the form of Samskâras (impressions), then an absolutely non-existing thing would be produced at creation. In that case even liberated souls might be reborn. Moreover people would be enjoying or suffering without having done anything to deserve it—an instance of an effect without a cause, which is absurd. It cannot be attributed to primeval ignorance, which, being one, requires the diversity of individual past work to produce varied results. The scriptures also posit the existence of the world in former cycles in texts like “The Lord devised the sun and moon as before”(Rig-Veda 10. 190. 3).
 
  So partiality and cruelty cannot be imputed to the Lord.
@@ -2981,15 +2444,11 @@ the Sruti are true. It is on this basis that the apparently contradictory texts 
 
  **37. And because all attributes (required for the creation of the world) are possible (only in Brahman, It is the cause of the world).**
 
-
-
  This Sutra answers the objection that because Brahman is attributeless It cannot be the material cause of the world.
 
  Objection: Material cause is that which undergoes modification as the effect. Such a cause is generally seen to possess attributes in the world. Therefore an attributeless Brahman cannot be the material cause of the world, as it goes counter to our everyday experience.
 
  Answer: Though the material cause undergoes change to produce the effect, yet this can take place in two ways. An actual modification, as when milk turns into curds, or an apparent modification due to ignorance, as when a rope is taken for a snake. Therefore though in the attributeless Brahman an actual change is impossible, yet an apparent modification is possible owing to Its power of Mâyâ. Because of this power all the attributes required in the cause for such a creation are possible only in Brahman. Therefore Brahman is the material cause of this world, not through actual modification, but through apparent modification, and It is also the efficient cause of the world. Therefore the fact that Brahman is the cause of the world is established.
-
-
 
 **CHAPTER II**
 
@@ -3009,8 +2468,6 @@ First Cause.**
  **1. And that which is inferred (viz. the Pradhâna of the Sânkhyas can) not (be the First Cause) because (in that case it is) not possible (to account for the) design (found in the creation).**
 
  In the preceding portion the Sânkhyan doctrine has been refuted here and there on scriptural
-
-
 
 authority. Sutras 1-10 refute it through reasoning independent of the Vedânta texts.
 
@@ -3032,8 +2489,6 @@ authority. Sutras 1-10 refute it through reasoning independent of the Vedânta t
 
  **3. If it be said (that the Pradhâna spontaneously undergoes modification) like (the flowing of) milk and water, (we**
 
-
-
 **say that) even there (it is due to intelligence).**
 
  The Sânkhyas try to get over the difficulty by saying that even as water flows in rivers spontaneously or milk from the udder to the calf, so also the inert Pradhâna may become active of its own accord and undergo modification into intellect, Ahankara, etc. without the agency of any intelligence. The latter part of the Sutra refutes this and says that even the flowing of water and milk is directed by the Supreme Lord. The scriptures also say: “Under the mighty rule of this Immutable, O Gârgi, some rivers flow to the east”etc. (Brih. 3. 8. 9); “He who inhabits water, but is within it,...who controls water from within”(Brih. 3. 7. 4). The Lord is behind everything directing the material world.
@@ -3045,8 +2500,6 @@ authority. Sutras 1-10 refute it through reasoning independent of the Vedânta t
  **4. And because (the Pradhâna) is not dependent (on anything), there being no extraneous agency besides it, (its activity and non-activity cannot be explained).**
 
  The Pradhâna of the Sânkhyas being inert, it cannot of itself start to be active, or when once set in motion, cease to be active of itself. So in the absence of an intelligent guiding principle it is impossible for the Sânkhyas to explain creation and
-
-
 
 dissolution at the beginning and end of a cycle, which they admit. The only other principle besides the Pradhâna that they admit is the Purusha or soul, but according to them it is not an agent, for it is indifferent. All other principles which they admit including even Karma are but products of the Pradhâna and as such cannot have any determining effect on it. Hence their position launches them into a contradiction.
 
@@ -3062,8 +2515,6 @@ dissolution at the beginning and end of a cycle, which they admit. The only othe
 
  अभ्युपगमे Accepting अपि even अर्थाभावात् because of the absence of any purpose.
 
-
-
  **6. Even accepting (the Sânkhyan position with regard to the spontaneous modification of the Pradhâna, it cannot be the First Cause) because of the absence of any purpose.**
 
  Granting the spontaneity of the Pradhâna, it will lead to a contradiction in their philosophy. If the Pradhâna is active spontaneously, then this activity cannot have any purpose, which would contradict the Sânkhyan view that the modification of the Pradhâna is for the experience and Liberation of the soul. Moreover, the soul being perfect, it is already free and nothing can be added to or taken away from it. Hence the Pradhâna cannot be the First Cause.
@@ -3076,8 +2527,6 @@ dissolution at the beginning and end of a cycle, which they admit. The only othe
 
  The Sânkhyas hold that though the Purusha is itself inactive yet it can direct the Pradhâna; the Sutra refutes it. According to the Sânkhyas, the Pradhâna is independent, and so it is not in keeping with this to say that it depends on the nearness
 
-
-
 of the Purusha for its activity, even as the iron filings depend on the magnet for their motion. Moreover, the Purusha being always near the Pradhâna, there would be permanency of creation. Again, the case of the lame and the blind is not an apt example, for the lame man can give directions to the blind one and direct him; but since the Purusha is altogeher indifferent according to the Sânkhyas, it cannot do that with respect to the Pradhâna. In Vedanta, though Brahman is indifferent, yet through Mâyâ It is endowed with attributes and activity; so It becomes the Creator. Again the Purusha and the Pradhâna are altogether separate and independent; the one is intelligent and indifferent, the other inert and independent. Now if these two are to be connected, a third principle will be required, and since no such principle is recognized in the Sânkhya philosophy, their connection is impossible.
 
 **अङ्गित्वानुपपत्तेश्च॥८॥**
@@ -3087,8 +2536,6 @@ of the Purusha for its activity, even as the iron filings depend on the magnet f
  **8. And because the relation of principal (and subordinate) is impossible (among the Gunas, the Pradhâna cannot be active).**
 
  The Pradhâna, according to the Sânkhyas, consists of the three Gunas (constituents), Sattva, Rajas, and Tamas, which are independent of each other andin a state of equilibrium before creation. Creation
-
-
 
 begins when this equilibrium is upset and one Guna becomes more predominant than the other two. Equilibrium cannot be upset without any external force, nor can the Gunas, which are absolutely independent in the state of Pradhâna, take of themselves a subsidiary position to another Guna without losing their independence. Hence creation would be impossible.
 
@@ -3100,8 +2547,6 @@ begins when this equilibrium is upset and one Guna becomes more predominant than
 
  If it be inferred from the effects that the cause, the Pradhâna, consists of Gunas which are not absolutely independent, but contain some characteristics inherent in them, like unstability, owing to which they themselves enter into a state of inequality even while they are in a state of equilibrium, then also because of the want of intelligence the objections founded on design in the world and that it would  
 lead to continuous creation, stand against accepting the Pradhânaas the First Cause. Vide Sutras 1 and 4.
-
-
 
 **विप्रतिषेधाच्चासमञ्जसम्॥१०॥**
 
@@ -3121,11 +2566,7 @@ lead to continuous creation, stand against accepting the Pradhânaas the First C
 
  The Sânkhyas having been refuted, the Vaiseshika philosophy is taken up in Sutras 11—17 and
 
-
-
 refuted. First, the plausible objection against Brahman being the First Cause is answered from the standpoint of the Vaiseshikas in Sutra 11. According to themthe qualities of the cause produce similar qualities in the effects, even as the whiteness of the threads produce that of the cloth woven out of them. So if the world is created from Brahman, the quality of intelligence should abide in the world also; but as a matter of fact it does not. So Brahman cannot be the cause of the world. This argument is refuted on the ground that the same objection applies to the Vaiseshika view of creation also; hence it is no special objection against Vedânta. According to them the ultimate condition of the world is atomic, and all things in this world are but aggregates of the different kinds of atoms. The atoms are eternal and the ultimate cause of the world. In the state of dissolution the world exists in the atomic state.At the time of creation the atoms of air are set in motion by Adrishta, the unseen principle, and two atoms combine to form a dyad. Again, three dyads combine to form a triad and four dyads form a tetrad, and in this way gross air is created. Similarly, the other elements are created from their respective atoms and dyads. An atom, according to this philosophy, is infinitesimal, a dyad is minute and short, and compounds from the triad upwards are great and long. Now, if two atoms which are spherical, produce a dyad which is minute and short, but in which the sphericity of the atom is not reproduced,
-
-
 
 or if four dyads, which are short and minute, produce a tetrad, which is great and long, but the minuteness and shortness of the dyad are not handed down, it is clear that all the qualities of the cause are not reproduced in the effect. So there can be no objection to an intelligent Brahman being the cause of the world, which is not intelligent. Brahman, which is Knowledge and Bliss, can produce a world which is inert and full of misery.
 
@@ -3141,8 +2582,6 @@ or if four dyads, which are short and minute, produce a tetrad, which is great a
 
  If the world is created by the combination of atoms, the question is, what causes this combination? If it is a seen cause, it is not possible before the creation of the body. A seen cause can either be an endeavour, or an impact, or the like. Unless there
 
-
-
 is the connection of the soul with the mind, there can be no endeavour on the part of the soul, according to the Vaiseshika assumption. And since before creation there is no body and therefore no mind, endeavour cannot take place. Similarly with impact etc. If the cause is Adrishta (the unseen principle), does it inhere in the soul or in the atoms? In either case, it cannot be the cause of the first motion of the atoms; for this Adrishta is non-intelligent and so cannot act by itself. If it is inherent in the soul, the soul being then inert, there is no intelligence to guide this Adrishta. If it is inherent in the atoms, it being always present, a state of dissolution would be impossible, for the atoms will be always active. Again, the soul is without parts like the atoms, and so there is no possibility of any connection between the soul and the atoms. Consequently, if the Adrishta inheres in the soul, it cannot influence the motion of the atoms not connected with the soul. So in all cases original activity in the atoms is not possible, and in the absence of that there can be no combination of atoms, as the Vaiseshikas say. Consequently, the theory that the world is created by the combination of atoms is untenable.
 
 **समवायाभ्युपगमाच्च साम्यादनवस्थितेः॥१३॥**
@@ -3150,8 +2589,6 @@ is the connection of the soul with the mind, there can be no endeavour on the pa
  समवाय-अभ्युपगमात् Samavāya being admitted च also साम्यात् equality of reasoning अनवस्थितेःregressus in infinitum would result.
 
  **13. (The Vaiseshika theory is untenable) also (because it involves) a regressus**
-
-
 
 **in infinitum on similar reasoning, since it accepts Samavâya.**
 
@@ -3165,8 +2602,6 @@ is the connection of the soul with the mind, there can be no endeavour on the pa
 
  The atomic theory involves another difficulty. If the atoms are by nature active, then creation would be permanent, for dissolution would mean a change in the nature of the atoms, which is impossible. If on the other hand, they are by nature inactive, then dissolution would be permanent, and there will be
 
-
-
 no creation for the same reason. Their nature cannot be both activity and inactivity, they being contradictory. If they are neither, their activity and inactivity would depend on an efficient cause, like Adrishta, which being always connected with theatoms, they will always be active, and creation would be permanent. If on the other hand, there is no efficient cause, there will be no activity of the atoms and hence nocreation. Consequently the atomic theory is again inadmissible.
 
 **रूपादिमत्त्वाच्च विपर्ययो, दर्शनात्॥१५॥**
@@ -3176,8 +2611,6 @@ no creation for the same reason. Their nature cannot be both activity and inacti
  **15. And on account of (the atoms) possessing colour etc., the opposite (of what the Vaiseshikas hold would be true), because it is seen.**
 
  The atoms are said to have colour etc., for otherwise the effects will not possess these qualities, since it is the qualities of the cause that are found in the effects. In that case the atoms would cease to be atomic and permanent. For whatever possesses colour etc. is found to be gross, not minute, and impermanent as compared with its cause. So the atoms also, which have colour etc., must be gross and impermanent, and this contradicts the Vaiseshika tenet that they are minute and permanent. So the atoms cannot be the ultimate cause of the world.
-
-
 
 **उभयथा च दोषात्॥१६॥**
 
@@ -3190,8 +2623,6 @@ no creation for the same reason. Their nature cannot be both activity and inacti
 **अपरिग्रहाच्चात्यन्तमनपेक्षा॥१७॥**
 
  अपरिग्रहात् Because it is not accepted च and अत्यन्तम् completely अनपेक्षा to be rejected.
-
-
 
  **17. And because (the atomic theory) is not accepted (by any authoritative persons like Manu and others) it is to be completely rejected.**
 
@@ -3207,13 +2638,9 @@ no creation for the same reason. Their nature cannot be both activity and inacti
 
  The Realists among the Bauddhas recognize two aggregates, the external material world and the internal mental world—both together making up the universe. The external world is made up of the aggregation of atoms. These atoms are of four kinds
 
-
-
 —atoms of earth, which are hard; atoms of water, which are viscid; atoms of fire, which are hot; and atoms of air, which are mobile. Of the internal world, the five Skandhas (groups) are the cause. They are—Rupa Skandha, comprising the senses and their objects; the Vijnâna Skandha, comprising the series of self-cognitions which give rise to the notion of ‘I’; the Vedanâ Skandha, comprising pleasure, pain, etc.; the Samjnâ Skandha, comprising the cognition of things by names, as, he is a man; and the Samskâra Skandha, comprising attachment and aversion, Dharma (merit), Adharma (demerit), etc. By the aggregation of these Skandhas the internal aggregate or the mental world is produced. These are the two internal and external aggregates referred to in the Sutras. Sutras 18-27 refute the Realists' view.
 
  The question now arises, how are these aggregates formed? Is there an intelligent principle behind as the cause, the guide, of the aggregation, or does it take place spontaneously? If there is an intelligent principle, is it stationary or momentary? If it is stationary, the Buddhistic doctrine of momentariness is contradicted. If it is momentary, then we cannot say that it comes into existence first and then unites the atoms, for that would mean that the cause lasts for more than one moment. Again, if there is no intelligent principle as guide, how can the non-intelligent atoms and the Skandhas aggregate in a systematic way? Moreover, the activity would
-
-
 
 be eternal, and there would be no destruction or Pralaya. For allthese reasons the formation of aggregates cannot be accounted for, and in their absence there cannot exist the stream of mundane existence. Consequently, the doctrine of this school of Bauddhas is untenable.
 
@@ -3225,15 +2652,11 @@ be eternal, and there would be no destruction or Pralaya. For allthese reasons t
 
  The series is as follows: Nescience, Samskâra (attachment, aversion, etc.), Vijnâna (self-consciousness), name (earth, water, etc.), colour (the rudimentary ingredients of the body), abode of the six (i.e. the body and the senses), contact, experience of pleasure etc., desire, movement, merit and demerit, etc. In this series the immediately preceding item is the cause of the next, and so we can explain the
 
-
-
 mundane existence without any combining principle, as demanded in the previous Sutra. These constitute an uninterrupted chain of cause and effect, revolving unceasingly, and this cannot take place without aggregates. So aggregates are a reality.
 
  The Sutra refutes it by saying that though in the series the preceding one is the cause of the subsequent one, there is nothing which can be the cause of the whole aggregate. That the atoms cannot combine of themselves even when they are assumed to be permanent and eternal, has been shown in refuting the Vaiseshikas. Much more is their combination by themselves impossible when they are momentary, as the Buddhists hold. Again, the individual soul, for whose enjoyment etc. this aggregate of body etc. exists, is also momentary and cannot therefore be an enjoyer; and whose again is Liberation, since the individual soul is momentary? So the series, though it stands in a relation of successive causality, cannot be the cause of the aggregates, and there being no permanent enjoyer, there is neither any need of these aggregates. So the Bauddha doctrine of momentariness is untenable.
 
  The Sutra can also be explained as follows: The Bauddhas say, if we hold that the atoms stand in a relation of causality, then no combining principle of the atoms would be necessary; in that case they would join of themselves. The latter part of the Sutra refutes this saying that the causality will explain only the production of the atoms of the
-
-
 
 pot of a subsequent moment by the atoms of the pot of a previous moment, but will not explain the combination of the atoms into an aggregate, which can take place only if there is an intelligent agent behind, for otherwise the combination of inert and momentary atoms cannot be explained.
 
@@ -3245,8 +2668,6 @@ pot of a subsequent moment by the atoms of the pot of a previous moment, but wil
 
  The Sutra now refutes that even the successive causality spoken of the series Nescience, Samskâras, etc. is untenable. Since everything is momentary, the antecedent thing would already have ceased to exist at the next moment, when the subsequent thing is created; so it cannot be the cause of the other. The clay that exists at the time the pot is created, is alone the cause of the pot, and not that which existed before and has ceased to exist then. If it be still maintained to be the cause, then we have to accept that existence comes out of non-existence, which is impossible. Again the acceptance of the
 
-
-
 doctrine of momentariness would go against the principle that the effect is the cause in a new form. This principle shows that the cause exists in the effect, which means that it is not momentary. Again on account of the momentariness of things ‘origination’and ‘destruction’will be synonymous, for if we say there is difference between the two, then we shall be forced to say that the thing lasts at least for more than one moment, and consequently we shall have to abandon the doctrine of momentariness.
 
 **असति प्रतिज्ञोपरोधो यौगपद्यमन्यथा॥२१॥**
@@ -3257,8 +2678,6 @@ doctrine of momentariness would go against the principle that the effect is the 
 
  If, to avoid the difficulty shown in the previous Sutra, the Bauddhas say that effects are produced without a cause, then they would contradict their own proposition that every effect has a cause. on the other hand a cause be assumed, then we have to accept that the cause and effect exist simultaneously at the next moment, i.e. the cause lasts for more than one moment, as already shown in the last
 
-
-
 Sutra, which would falsify the doctrine of momentariness.
 
 **प्रतिसंख्याप्रतिसंख्यानिरोधाप्राप्तिः, अविच्छेदात्॥२२॥**
@@ -3268,8 +2687,6 @@ Sutra, which would falsify the doctrine of momentariness.
  **22. Conscious and unconscious destruction would be impossible owing to non-interruption.**
 
  The Bauddhas maintain that universal destruction is ever going on, and that this destruction is of two kinds, conscious and unconscious. The former depends upon an act of thought, as when a jar is broken by a man with a stick, while the latter is the natural decay of things. The Sutra says that either kind of destruction would be impossible, for it must refer either to the series of momentary existences or to the single members of that series. The series is continuous and can never be stopped. Why? Because the last momentary existence before such destruction must be assumed either to produce its effect or not to produce it. If it does then the series would continue and will not be destroyed. If it does not produce the effect, the last momentary existence ceases to be a fact at all, for according to the Bauddhas existence (Sattâ) means causal efficiency. Again the non-existence of the last momentary existence would lead backward to the non-existence of the
-
-
 
 previous momentary existence and so on of the whole series.
 
@@ -3283,8 +2700,6 @@ previous momentary existence and so on of the whole series.
 
  Nescience, according to the Bauddhas, is the false idea of permanency in things momentary. They say that on the destruction of it Moksha or Freedom is attained. Now this destruction of Nescience must be one of the two kinds referred to in the last Sutra. If it is a conscious destruction, depending on the
 
-
-
 effort of the individual—his penance and knowledge, then this would go counter to the Buddhistic doctrine of momentariness, according to which Nescience will also be momentary and cease to exist after a moment of its own accord. And if we say that the destruction of ignorance is spontaneous, then the Buddhist instruction as to the ‘path’is useless. So in either case the Bauddha position is untenable.
 
 **आकाशे चाविशेषात्॥२४॥**
@@ -3294,8 +2709,6 @@ effort of the individual—his penance and knowledge, then this would go counter
  **24. The case of Âkása also not being different (from the twofold destruction, it also cannot be a non-entity).**
 
  According to the Bauddhas, besides the twofold destruction Âkâsa or space is a third non-entity. It means the absence in general of any covering or occupying body. It has been shown in Sutras 22-23 that the two kinds of destruction are not absolutely devoid of positive characteristics and so cannot be non-entities. The case of Âkâsa is also similar. Just as earth, air, etc. are recognized to be entities inconsequence of their being the substratum of properties like smell etc., similarly Âkâsa also on account of its being the substratum of sound ought to be recognized as an entity. Earth etc. are experienced through their attributes, and the existence of Âkâsa
-
-
 
 also is experienced through its attribute, sound. Consequently it also must be an entity.
 
@@ -3313,8 +2726,6 @@ also is experienced through its attribute, sound. Consequently it also must be a
 
  **26. (Existence does) not (result) from non-existence, because this is not seen.**
 
-
-
  The Bauddhas say that from anything that is eternal and non-changing no effects can be produced; for that which does not change cannot give rise to effects. So they say that the cause undergoes destruction before the effect is produced. The seed undergoes destruction, and then the sprout comes out. In other words, existence springs from non-existence. The Sutra refutes this by saying that if it were so, then the assumption of special causes would be meaningless. Anything might spring from anything; for non-entity is the same in all cases. There is no difference between the non-entity of a mango stone and that of an apple seed. Consequently we could expect an apple tree to come out of a mango stone. If there are distinctions between non-existences, with the result that the non-existence of a mango stone differs from that of an apple seed, and therefore they produce certain definite results, then they will no longer be non-entities, but something positive.
 
 **उदासीनानामपि चैवं सिद्धिः॥२७॥**
@@ -3324,8 +2735,6 @@ also is experienced through its attribute, sound. Consequently it also must be a
  **27. And thus (if existence should spring from non-existence, there would result) the attainment of the goal even by the effortless.**
 
  Mere inactivity would result in the fulfilment of all ends, for there would no longer be the necessity
-
-
 
 of the cause, activity. Even final Freedom would result without any effort.
 
@@ -3341,8 +2750,6 @@ of the cause, activity. Even final Freedom would result without any effort.
 
  According to them the external world is nonexistent. Does it mean that the objective world is absolutely non-existent like the horns of a hare, or does it mean that it is unreal even as the world seen in a dream is unreal. The Sutra refutes the former view. In that case we could not have experienced it. The external world is an object of experience through the senses, and cannot therefore be altogether non-existent like the horns of a hare. The Buddhist may say that he does not affirm that he is conscious of no object, but only that what is seen in his consciousness alone shines as something external. But then the very nature of consciousness itself proves the existence of external things different from consciousness, for men are conscious of things or objects of perception, and nobody is conscious
 
-
-
 of his perception merely. The very fact that the Bauddhas say that the internal cognition appears ‘as something external’shows that the external world is real. If it were not real, the comparison ‘like something external’would be meaningless. No one says that Devadatta is like the son of a barren woman.
 
 **वैधर्म्याच्चन स्वप्नादिवत्॥२९॥**
@@ -3353,8 +2760,6 @@ of his perception merely. The very fact that the Bauddhas say that the internal 
 
  This Sutra refutes the alternative view given in the previous Sutra. The Bauddhas may say that perception of the external world is to be considered similar to dreams and the like. In a dream there are no external objets; yet the ideas appear in a twofold form as subject and object. The appearance of an external world is similarly independent of any objective reality. This Sutra refutes that view. There is a difference between the dream state and the waking state. What is seen in a dream is contradicted by waking experience, it is unreal. The dream state is a kind of memory, but the waking state is a real perception; so it cannot be rejected as untrue. Moreover, what is the proof of the existence of conscious-
 
-
-
 ness except experience? If that is so, why should not an object which is experienced be taken also as existing? It may be said that even the Vedântins acknowledge the unreality of the external world, since it is contradicted by the knowledge of Brahman, and that this view is based on the Srutis. But if the Bauddhas accept the authority of the Vedas, then they would be included within the Vedântic school and no longer remain outside it, but as a matter of fact they do not accept the Vedas.
 
 **न भावः, अनुपलब्धेः॥३०॥**
@@ -3364,8 +2769,6 @@ ness except experience? If that is so, why should not an object which is experie
  **30. The existence (of Samskâras) is not (possible according to the Bauddhas), because (external things) are not experienced.**
 
  The Bauddhas say that though external things do not exist, yet the actual variety of notions like pot, cloth, etc. can be accounted for by the preceding Samskâras or mental impressions left by previous experience, even as the impressions of the waking state give rise to the variety of experience in the dream state. This view is not tenable, says the Sutra, for mental impressions are impossible without the perception of external objects, and this the Bauddhas deny. The assumption of a beginningless series of mental
-
-
 
 impressions as cause and effect would only lead to a regressus in infinitum and not solve the difficulty.
 
@@ -3385,8 +2788,6 @@ impressions as cause and effect would only lead to a regressus in infinitum and 
 
  This Sutra can also be interpreted as refuting the Nihilists:The translation would then be: And (as Nihilism) is illogical etc.
 
-
-
 Nihilism of the Bauddhas goes counter to everything. It goes against the Sruti, the Smriti, perception, inference, and every other means of right knowledge and so has to be entirely disregarded by those who are mindful of their welfare.
 
 **Topic 6: Refutation of the Jainas.**
@@ -3398,8 +2799,6 @@ Nihilism of the Bauddhas goes counter to everything. It goes against the Sruti, 
  **33.On account of the impossibility (of contrary attributes) in one and the same thing (the Jaina doctrine is) not (true).**
 
  After the refutation of the Bauddhas the Jaina doctrine is taken up for discussion and refutation. The Jainas acknowledge seven categories, which can be mainly divided into two groups, the soul and the non-soul. Again they predicate seven different views as regards the reality of everything. Everything according to them may be real, unreal, both real and unreal, different from real and unreal, indescribable, and so on. Now this view about things cannot be accepted, as it is absurd to think of the same thing as endowed with these contradictory attributes ofreality, unreality, etc. According to the Jaina doctrine we cannot arrive at any certain knowledge, and this world, heaven, and even Freedom will become
-
-
 
 doubtful. According to Vedântic view, however, the world is Anirvachaniya, unspeakable, and so fit for all relative purposes.
 
@@ -3417,8 +2816,6 @@ doubtful. According to Vedântic view, however, the world is Anirvachaniya, unsp
 
  **35. Nor (can) consistency (be gained) even (if the soul is assumed to take on and discard parts) in turn (to suit different bodies), on account of the change etc. (of the soul in that case).**
 
-
-
  To get over the difficulty shown in the previous Sutra about the soul being of the size of the body it assumes, if it be regarded as having parts and alternately adding to and taking away from them, then another defect, viz. the soul undergoing modification and consequently being non-eternal, would arise. If it is non-eternal and ever-changing, bondage and Liberation cannot be predicated of it.
 
 **अन्त्यावस्थितेश्चोभयनित्यत्वादविशेषः॥३६॥**
@@ -3428,8 +2825,6 @@ doubtful. According to Vedântic view, however, the world is Anirvachaniya, unsp
  **36. And because of the permanency (of the size of the soul) at the end (i.e. on release) there follows the permanency of the two (preceding sizes, viz. those at the beginning and middle), (hence) there is no difference (as to the size of the soul at any time).**
 
  The size of the soul at the time of release, the Jainas hold, is permanent. Now if this size is permanent, it cannot have been created, for nothing created is eternal and permanent. If it is not created, it must have existed in the beginning and middle as well. In other words the size of the soul was always the same, be it minute or great. Hence the Jaina theory that it varies according to the size of the body is untenable.
-
-
 
 **Topic 7: Refutation of the doctrine that God is only the efficient,  
 notmaterial, cause of the world.**
@@ -3441,8 +2836,6 @@ notmaterial, cause of the world.**
  **37. The Lord's (being merely the efficient cause of the world cannot hold good) on account of the inconsistency (of that doctrine).**
 
  The Vedânta says that the Lord is both the efficient and the material cause of the world. The Naiyâyikas, Vaiseshikas, Yogins, and Mâheswaras say that the Lord is the efficient cause only, and the material cause is either the atoms according to theNaiyâyikas and Vaiseshikas, or the Pradhâna according to the Yogins and others. He is the ruler of the Pradhâna and the souls, which are different from Him. Such a view leads to inconsistency. How? Because it makes the Lord partial to some and prejudiced against others, for some people are well off in this world, while others are miserable. The opponents here may say: How does the Vedântin get out of the difficulty? He replies: The Lord is impartial, but He directs the individuals accordingto their merit and demerit earned in previous existences. (See Sutras 2. 1. 34-35). For the scriptures say so, and if you accept scriptural authority in this, you will have to accept its statement, “I will be
-
-
 
 many"etc. (Taitt. 2. 6), which shows that the Lord is both the efficient and the material cause.
 
@@ -3462,8 +2855,6 @@ many"etc. (Taitt. 2. 6), which shows that the Lord is both the efficient and the
 
  These schools infer the existence of the Lord,and say that He directs the Pradhâna etc. as the
 
-
-
 potter does his clay. But the Pradhâna etc. are not objects of perception like the clay. Hence the Lord cannot direct them, for the inference must be strictly in accordance with observed facts.
 
 **करणवच्चेत्, न, भोगादिभ्यः ॥४०॥**
@@ -3482,8 +2873,6 @@ potter does his clay. But the Pradhâna etc. are not objects of perception like 
 
  According to these schools the Lord is omniş cient and eternal, i.e. not subject to destructiona
 
-
-
  The Lord, the Pradhâna, and the souls according to the Mâheshwaras are infinite and separate. Now the question is, does the omniscient Lord know the measure of the Pradhâna, soul, and Himself or not? In either case the doctrine of the Lord's being the mere efficient cause of the universe is untenable. If the Lord knows their measure, they are all limited, and therefore a time will come when they will all I cease to exist. Again, if he does not know them, then He would cease to be omniscient.
 
 * ***Topic 8: Refutation of the Bhagavata or the Pancharâtra school.**
@@ -3495,8 +2884,6 @@ potter does his clay. But the Pradhâna etc. are not objects of perception like 
 ** 42. The origination (of the individual soul from the Lord) being impossible (the Pâncharâtra doctrine is untenable).**
 
  The Pâncharâtra or the Bhagavata school is now taken up for examination. It recognizes the material and efficient causality of the Lord, but propounds certain other views which are objectionable. According to it Vâsudeva is the Supreme Lord, the material and efficient cause of the world. By worshipping Him, meditating on Him, and knowing Him one attains Liberation. From Vâsudeva is born Sankarshana, the Jiva; from Jiva Pradyumna, the mind;
-
-
 
 from mind Aniruddha, the Ego. These are the fourfold form (Vyuba) of the Lord Vasudeva.
 
@@ -3516,8 +2903,6 @@ from mind Aniruddha, the Ego. These are the fourfold form (Vyuba) of the Lord Va
 
 **  44. Or if the (four Vyuhas are said to) possess intelligence etc., yet there is**
 
-
-
 **no warding off of that (*viz*. the objection raised in Sutra 42)**.
 
  The Bhagavatas may say that all the forms are Vâsudeva, the Lord, and that all of them equally possess knowledge and lordship, strength, valour, etc., and are free from faults and imperfections. In this case there will be more than one Iswara, which is redundant and also goes against their own assumption. Even granting all this, the origination of the one from the other is unthinkable. Being equal in all respects, none of them can be the cause of another, for the effect must have some feature that is lacking in the cause. Again the forms of Vâsudeva cannot be limited to four only, as the whole world from Brahmâ down to a clump of grass is a form of the Supreme Being.
@@ -3529,8 +2914,6 @@ from mind Aniruddha, the Ego. These are the fourfold form (Vyuba) of the Lord Va
  **45. And because of contradictions (the Bhagavata view is untenable).**
 
  Moreover the theory involves many contradictions. Sometimes it speaks of the four forms as qualities of the Atman and sometimes as the Atman itself.
-
-
 
 **CHAPTER II**
 
@@ -3547,8 +2930,6 @@ from mind Aniruddha, the Ego. These are the fourfold form (Vyuba) of the Lord Va
  **1. Akâsa (is) not (created), (as it is) not so stated by the Sruti.**
 
  To start with, the texts dealing with creation are taken up, and Akâsa (ether) is first dealt with. In the Chhândogya Upanishad, where the order of creation is given, the text says, "It thought, 'May I
-
-
 
 be many, may I grow forth. It sent forth fire" (6. 2. 3). Here there is no mention of Akasa being produced by the Sat or Brahman. Hence Akâsa has no origin, it is eternal.
 
@@ -3568,8 +2949,6 @@ be many, may I grow forth. It sent forth fire" (6. 2. 3). Here there is no menti
 
  The Taittiriya text referred to in the previous Sutra, the opponent holds, should be taken in a secondary sense, as Akâsa cannot be created. It has no parts and hence cannot be created. Moreover, Akâsa is all-pervading, and therefore it can be inferred that it is eternal—without origin.
 
-
-
 **शब्दाश्च ॥४॥**
 
  शब्दात् From the Sruti texts च also.
@@ -3586,8 +2965,6 @@ be many, may I grow forth. It sent forth fire" (6. 2. 3). Here there is no menti
 
  The opponent in the Sutra answers a weak point in his argument, viz. how can the same word 'sprang' in the Taittiriya text, "From that Self (Brahman) sprang Akasa; from Akasa sprang Vâyu (air), from air sprang fire" etc. (2. 1), be used in a secondary sense with respect to Akasa and in the primary sense with respect to air, fire, etc? He does this by referring to other Sruti texts, where the word 'Brahman' is so used. "Try to know Brahman by penance, for penance is Brahman," where Brahman
 
-
-
 is used both in a primary and in a secondary sense in the same text; also "Food is Brahman" (Taitt. 3. 2) and "Bliss is Brahman" (Taitt. 8. 6), where Brahman is used in a secondary and primary sense respectively in two complementary texts.
 
 **प्रतिज्ञाऽहानिरव्यतिरेकाच्छब्देभ्यः ॥६॥**
@@ -3598,8 +2975,6 @@ is used both in a primary and in a secondary sense in the same text; also "Food 
 
  This Sutra refutes the opponent's view set forth so far, and gives the conclusion. The proposition that from the knowledge of one (Brahman) everything else is known, can be true only if everything in the world is an effect of Brahman. For the Sruti says that the effects are not different from their cause, and consequently the cause being known, the effects will also be known. If Akasa is not created from Brahman, then the proposition in question falls through; for after knowing Brahman Akasa still remains to be known, on account of its not being an effect of Brahman. But if it is created, then no
 
-
-
 such difficulty arises. Hence Akâsa is created; otherwise the authoritativeness of the Vedas would be gone. The Chhandogya text in which Akasa is not mentioned is accordingly to be interpreted in the light of the Taittiriya text; that is, Akâsa and Vâyu have to be inserted, and the text would mean that after creating Akasa and Vâyu, "It created fire."
 
 **यावद्विकारं तु विभागो लोकवत् ॥७॥**
@@ -3609,8 +2984,6 @@ such difficulty arises. Hence Akâsa is created; otherwise the authoritativeness
 ** 7. But in all effects whatsoever (there is) separateness, as (is seen) in the world.**
 
  The word 'but' refutes the idea that Akâsa is not created. We see in the world that all created things are different from each other. A pot is different from a piece of cloth and so on. In other words, everything which has a separateness about it is created. We cannot conceive of a thing as separate from others and yet eternal. Now Akâsa is distinct from earth etc., and hence it cannot be eternal, but must be a created thing. It may be objected that the Atman also is divided from ether and so on and therefore It too is an effect. But that is not possible, for all things are created from the Atman, which is their Self, and so not separate from them; therefore It is not an effect. The all-pervasiveness and eternity of Akâsa are only relatively true; it is created and is an effect of Brahman.
-
-
 
 **Topic 2: Air springs from ether.**
 
@@ -3630,8 +3003,6 @@ such difficulty arises. Hence Akâsa is created; otherwise the authoritativeness
 
  The question arises whether Brahman also is an effect like Âkâsa etc. In the Svetâsvatara Upanishad there occurs the text: "Thou art born with Thy face turned to all directions" (Svet. 4. 3), which clearly states that Brahman is born. This view is refuted by the Sutra, which says that Brahman, which is existence itself, cannot be an effect, as It can have no cause. "And He has neither parent nor Lord" (Svet. 6. 9). Neither can non-existence be such a cause, for the Sruti says, "How can existence come out of non-existence?" (Chh. 6. 2. 2). Nor is it proper to say that existence is its own cause, for the
 
-
-
 effect must have some speciality not possessed by the cause. Brahman is mere existence without any distinction. We observe that only particulars are produced from the general, as different pots are from clav, and not vice versa. Therefore Brahman, which is existence in general, cannot be the effect of any particular thing. The fact that every cause is itself an effect of some antecedent thing is repudiated by the Sruti: "That great, birthless Self is undecaying" (Brih. 4. 4. 25), for it leads to a *regressus in infinitum*. So Brahman is not an effect, but is eternal.
 
 **Topic 4: Fire created from air.**
@@ -3643,8 +3014,6 @@ effect must have some speciality not possessed by the cause. Brahman is mere exi
  **10. Fire (is produced) from this (i.e. air), so verily says** **(the Sruti)**.
 
  "From air (is produced) fire" (Taitt. 2. 1.) shows that fire springs from air. Again we have, "That (Brahman) created fire" (Chh. 6. 2. 3). These two texts can be reconciled by interpreting the Taittiriya text to mean the order of sequence: Brahman, after creating air, created fire. This Sutra refutes such an ingenious explanation and says that fire is produced from Vâyu or air. This does not contradict the Chhandogya text, for it means that as air is a product of Brahman, it is from Brahman, which has assumed the form of air, that fire is
-
-
 
 produced. The general proposition that everything is created from Brahman requires that all things should ultimately be traced to that cause, and not that they should be the immediate effects. Hence there is no contradiction.
 
@@ -3666,8 +3035,6 @@ produced. The general proposition that everything is created from Brahman requir
 
  "From water earth" (Taitt. 2. 1); "It (water) produced Anna (lit. food)" (Chh. 6. 2. 4). The two texts are apparently contradictory; for in one water is said to produce earth and in another food. The Sutra says that 'Anna' in the Chhandogya text means
 
-
-
 not food, but earth. Why? First on account of the subject-matter treated in the section. In "It created fire," and such other texts the Sruti describes the creation of the five elements, and so 'Anna' should refer to an element and not food. Again in a complementary passage we have, "The black colour in fire is the colour of Anna" (Chh. 6. 4. 1), where the reference to colour clearly indicates that the earth is meant by 'Anna'. Hence 'Anna' in the passage under discussion means earth, and there is no contradiction between the Chhandogya and Taittiriya texts. Other Sruti texts like, "That which was there as the froth on water was solidified and became this earth" (Brih. 1. 2. 2), clearly show that from water earth is produced.
 
  **Topic 7: Brahman as the creative principle residing in the preceding element is the cause of the subsequent element in the order of creation.**
@@ -3678,8 +3045,6 @@ not food, but earth. Why? First on account of the subject-matter treated in the 
 
  **13. But because of His reflecting only (are the subsequent elements created from the previous element in the order of creation; so) He (the Supreme Lord is the creator of air etc.). (We know this) from His indicatory marks.**
 
-
-
  Brahman is described in the Srutis as the creator of everything. Again we find in them texts like "From Âkâsa is produced air" (Taitt. 2. 1), which declare that certain elements produce certain effects independently. So the opponent holds that there is a contradiction in the Sruti texts. This Sutra refutes that objection saying that the Lord residing within these elements produces after reflection certain effects. Why? On account of the indicatory marks. "He who inhabits the earth and who controls the... earth from within" etc. (Brih. 3. 7. 3) shows that the Supreme Lord is the sole ruler, and denies all independence to the elements. Again, "That fire thought,. . . that water thought" (Chh. 6. 2. 3-4) shows that after reflection these elements produced the effects. This reflection is impossible for inert elements, and so we are to understand that the Lord residing within these elements thought and produced the effects. Therefore the elements become causes only through the agency of the Lord, who abides within them.Hence there is no contradiction between the two texts cited at the beginning.
 
 **Topic 8: Reabsorption takes place in the inverseorder to that of creation.**
@@ -3687,8 +3052,6 @@ not food, but earth. Why? First on account of the subject-matter treated in the 
 **विपर्ययेण तुक्रमोऽतः, उपपद्यते च ॥१४॥**
 
  विपर्ययेण In the reverse order तु indeed क्रमः order अतः from that (the order of creation) च and उपद्यते is reasonable.
-
-
 
  **14. (At Pralaya the elements are) indeed (withdrawn into Brahman) in the reverse order from that (of creation); and this is reasonable.**
 
@@ -3704,14 +3067,9 @@ not food, but earth. Why? First on account of the subject-matter treated in the 
 
  **15. If it be said that in between (Brahman and the elements) the intellect and the mind (are mentioned, and therefore that ought to be the order in creation**  
 
-
-
-
 **and the inverse order in reabsorption), owing to the indication (in the Sruti texts) to that effect (which upsets the order of creation of the elements), (we say) not so, on account of the non-difference (of the intellect and the mind from the elements)**
 
  In the Mundaka Upanishad occurs the following text, "From this Self are produced Prâna, mind, the senses, ether, air, fire, water, and earth, the support of all" (2. 1. 3). An objection is raised that the order of creation is as described in this text, which contradicts the order of creation of elements described in the Chhândogya 6. 2. 3 and other Srutis. This objection is here refuted on the ground that the Mundaka text only states that all these are produced from the Self, but gives no order of creation like the other texts. Again the intellect, mind, and organs are effects of the elements, and so they can come into existence only after the elements are created. On account of this non-difference of the organs from the elements, their origination and reabsorption are the same as those of the elements. That the organs are modifications of the elements is proved by Sruti texts like, "For the mind, my child, consists of earth, the vital force of water, the vocal organ of fire" (Chh. 6. 6. 5). Therefore the Mundaka text does not upset the order of creation mentioned elsewhere.
-
-
 
 **Topic 10: Birth and death are primarily spoken of the body, and metaphorically of the soul.**
 
@@ -3725,8 +3083,6 @@ not food, but earth. Why? First on account of the subject-matter treated in the 
 
  A doubt may arise that the individual soul, too, has birth and death, because people use such expressions as "Devadatta is born" or "Devadatta is dead", and because certain ceremonies are prescribed by the scriptures at the birth and death of people. This Sutra refutes such a doubt and says that the individual soul has neither birth nor death. These belong not to the soul, but to the body with which the soul is connected. This connection and disconnection with the body is popularly called the birth and death of the soul. Moreover, the Sruti
 
-
-
 says, "It is the body, which bereft of the soul, dies; the soul does not die" (Chh. 6. 11. 3). So birth and death are spoken primarily of the bodies of moving and stationary beings, and only metaphorically of the soul. That birth and death mean, respectively the connection and disconnection of the soul with the body is proved by such texts as "That man, when he is born, or attains a body," etc. (Brih. 4. 3. 8).
 
 **Topic 11:The individual soul is permanent, eternal, etc.**
@@ -3739,8 +3095,6 @@ says, "It is the body, which bereft of the soul, dies; the soul does not die" (C
 
  At the beginning of creation there was only "One Brahman without a second" (Ait. 1. 1), and so it is not reasonable to say that the individual soul is not born, for then there was nothing but Brahman. Again the Sruti says: "Just as from a fire tiny sparks fly in all directions, even so from this Âtman emanate all Prânas (organs), all worlds, all gods, and all the selves" (Brih. 2. 1. 20, Mâdhyandina
 
-
-
 recension). So the opponent argues that the individual soul is born at the beginning of the cycle, just as Âkâsa and other elements are born. This Sutra refutes it and says that the individual soul is not born, for there is no statement to that effect in the Sruti in the section dealing with creation. On the other hand Sruti texts clearly deny such birth to the individual soul. "Unborn, eternal" (Kath. 1. 2. 18); "This great birthless Self" (Brih. 4. 4. 25). It is the one Brahman without a second that enters the intellect and appears as the individual soul (Jiva). "Having created it, It entered into it" (Taitt. 2. 6). Hence as there is in reality no difference between the individual soul and Brahmar, the fact of the Jiva's being non-created does not contradict the text, "At the beginning there was only the Atman without a second" (Ait. 1. 1). The creation of souls spoken of in the other texts cited is only in a secondary sense. It does not therefore contradict the text, "Having created it, It entered into it."
 
 **Topic 12: The nature of the individual soul is intelligence.**
@@ -3751,15 +3105,11 @@ recension). So the opponent argues that the individual soul is born at the begin
 
  **18. For this very reason (viz. that it is not created), (the individual soul is) intelligence (itself).**
 
-
-
  The Vaiseshikas say that the individual soul is not intelligent by nature, for it is not found to be so in the state of deep sleep (Sushupti) or of swoon. It is only when the soul comes to the conscious plane and unites with the mind that it becomes intelligent. This Sutra refutes such a possibility, for it is the intelligent Brahman Itself that, being limited by the Upâdhis (limiting adjuncts), the body etc., manifests as the individual soul. Therefore intelligence is its very nature, and is never altogether destroyed, not even in the state of deep sleep or swoon. "That it does not see in that state is because although seeing then, it does not see; for the vision of the witness can never be lost, because it is immortal. But there is not that second thing separate from it which it can see" (Brih. 4. 3. 23). Therefore it is not true that its intelligence is lost, for it is impossible. It does not in reality lose its power of seeing; it does not see only because there is no object to see. Were intelligence actually non-existent then, who would be there to say that it did not exist? How could it be known? Moreover, he who says that he did not know anything in deep sleep, must have been existent at that time. Otherwise how could he remember the condition of that state? Hence the intelligence of the Self is never lost under any condition.
 
 **Topic 13: The size of the individual soul.**
 
 **उत्क्रान्तिगत्यागतीनाम् ॥१९॥**
-
-
 
  उत्क्रान्ति-गति-आगतिनाम् Passing out, going, and returning.
 
@@ -3776,8 +3126,6 @@ the latter two.
 
  Even if the soul is infinite, still it can be spoken of as passing out of the body, if by that term is meant
 
-
-
 ceasing to be the ruler of the body. But the two latter activities, viz. the going and coming, are not possible for an entity that is all-pervading. So the soul is atomic in size.
 
 **नाणुरतच्छुतेरिति चेत्, न, इतराधिकारात् ॥२१॥**
@@ -3793,8 +3141,6 @@ ceasing to be the ruler of the body. But the two latter activities, viz. the goi
  स्वशब्द-उन्मानाभ्याम् From direct statements (of the Sruti texts) and infinitesimal measure च and.
 
 ** 22. And on account of direct statements (of the Sruti texts as to the atomic**
-
-
 
 **size) and infinitesimal measure (the soul is atomic).**
 
@@ -3814,8 +3160,6 @@ ceasing to be the ruler of the body. But the two latter activities, viz. the goi
 
 ** 24. If it be said that on account of the particular position (of the sandal-paste in the body the analogy is not just), (we**
 
-
-
 **say) not so, on account of the admission (by the scriptures of a special seat for the soul, *viz*.) in the heart alone.**
 
  A possible objection is raised by the opponent against his own view. In the case of the sandal-paste we see that it occupies a particular part of the body and yet gladdens the whole body. But in the case of the soul we do not know that it occupies a particular place, and in the absence of that we cannot infer that like the sandal-paste it must occupy a particular portion of the body and therefore be atomic. For even an all-pervading soul or a soul pervading the whole body like the skin can give rise to the same result. So in the absence of any proof it is difficult to settle the size of the soul. This objection the opponent refutes by saying that such Sruti texts as, "The self-effulgent one within the heart" (Brih. 4. 3. 7) declare that the soul has a particular abode in the body, *viz*. the heart, and hence it is atomic.
@@ -3827,8 +3171,6 @@ ceasing to be the ruler of the body. But the two latter activities, viz. the goi
 ** 25. Or owing to (its) quality (*viz*. intelligence) as in the world.**
 
  This Sutra gives another argument to show how an atomic soul can have experience throughout the body.
-
-
 
  In the world we find that a light placed in one corner of a room illumines the whole room. So also the soul, though atomic and therefore occupying a particular portion of the body, may, because of its quality of intelligence, which pervades the whole body, experience pleasure and pain throughout the body.
 
@@ -3848,8 +3190,6 @@ ceasing to be the ruler of the body. But the two latter activities, viz. the goi
 
  The Sruti also declares that it is by the quality of intelligence that the atomic soul pervades the whole body. For instance, it says: "Just so has the intelligent self penetrated this body up to the very hairs and the finger nails" (Kau. 4. 20).
 
-
-
 **पृथगुपदेशात् ॥२८॥**
 
  पृथक् Separate उपदेशात् on account of the teaching.
@@ -3866,8 +3206,6 @@ ceasing to be the ruler of the body. But the two latter activities, viz. the goi
 
  The word 'but' refutes all that has been said in Sutras 19-28, and decides that the soul is all-pervad-
 
-
-
 ing, because the all-pervading Brahman Itself is said to have entered the universe as the individual soul, which again is stated to be identical with It. How then is the soul declared to be atomic ? Such declarations are on account of its preponderating in the qualities of the Buddhi (intellect) so long as it is imagined to be connected with the latter and in bondage. Passing out, going, and coming are qualities of the Buddhi and are only imputed to the individual soul. For the same reason also, i.c. limitation of the intellect, is the Âtman regarded as atomic. It is like imagining the all-pervading Lord as limited for the sake of Upâsaná, devout meditation.
 
 **यावदात्मभावित्वाच्च न दोषः, तद्दर्शनात् ॥३०॥**
@@ -3878,8 +3216,6 @@ ing, because the all-pervading Brahman Itself is said to have entered the univer
 
  An objection might be raised against what has been said in the previous Sutra that since the conjunction of the soul and the intellect, which are different entities, must necessarily come to an  end some time, the soul, when so disjoined from the Buddhi,
 
-
-
 will either cease to exist altogether or at least cease to be a Samsârin (individualized). This Sutra replies: There can be no such defect in the argument of the previous Sutra, for this connection with the intellect lasts so long as the soul's state of Samsâra is not destroyed by the realization of supreme Knowledge. How is this known? It is known from the declaration of the scriptures that even at death this connection is not severed. "This infinite entity that is identified with the intellect....... Assuming the likeness of the intellect it moves between the two worlds, it thinks, as it were, it moves, as it were," (Brih. 4. 3. 7). The terms "thinks, as it were", "moves, as it were" also mean that the self does not think and move on its own account, but only through its association with the intellect.
 
 **पुंस्त्वादिवत् त्वस्य सतोऽभिव्यक्तियोगात् ॥३१॥**
@@ -3889,8 +3225,6 @@ will either cease to exist altogether or at least cease to be a Samsârin (indiv
  **31. On account of the manifestation (of the connection with the intellect in the awakened state) being possible only on its existing (potentially in Sushupti), like virility etc.**
 
  An objection is raised that in Sushupti or deep sleep there can be no connection with the intellect,
-
-
 
 for it is said, "Then he becomes united with the True, he is gone to his own" (Chh. 6. 8. 1); how then can it be said that this connection lasts so long as the individualized state exists.
 
@@ -3906,8 +3240,6 @@ for it is said, "Then he becomes united with the True, he is gone to his own" (C
 
  What is the necessity of accepting an internal organ (Antahkarana), of which the intellect is only a mode ? The Sutra says that if it be not accepted, the senses being always in contact with their objects,
 
-
-
 there would always result perception of everything, for all the requisites, *viz*. the soul, the senses, and the objects, are present. If, however, this be denied, then it would mean that knowledge can never result, and nothing would ever be cognized. So the opponent will have to accept the limitation of the power either of the soul or of the senses. Such a thing is not possible in the Atman, which is changeless. Nor can it be said that the power of the senses, which is not impeded either in the previous moment or in the subsequent moment, is so limited in the middle. Hence we have to accept an internal organ (Antahkarana), through whose connection and disconnection perception and non-perception take place. The Sruti also refers to a common experience of ours, "I was absent-minded, I did not hear it" (Brih. 1. 5. 3). Hence there exists an internal organ, of which the intellect is a mode, and it is the connection with this that causes the Âtman to appear as the individualized soul, as explained in Sutra 29.
 
 **Topic 14: The individual soul as agent.**
@@ -3917,8 +3249,6 @@ there would always result perception of everything, for all the requisites, *viz
   कर्ता Agent शास्त्रार्थवत्त्वात् in order that the scriptures may have a meaning.
 
  **33.(The soul is) an agent, on account of scriptural (injunctions) having a meaning on that ground only.**
-
-
 
  The question as regards the size of the soul has been seitled. Now another characteristic of the soul is taken up for discussion. The individual soul is an agent for only on that basis do scriptural injunctions like, "He is to sacrifice" etc. have a sense. In these the Sruti enjoins certain acts to be done by the agent and if the soul be not an agent these injunctions would become meaninglers.
 
@@ -3940,8 +3270,6 @@ there would always result perception of everything, for all the requisites, *viz
 
  व्यपदेशात् On account of mention च also क्रियायाम् in respect of action न चेत् if it were not so निर्देश-विपर्ययः the reference (would have been) of a different kind.
 
-
-
  **36. Also on account of the (the scriptures) mentioning (the soul as an agent) with respect to action. If it were not so, the reference (would have been) of a different kind.**
 
  "Intelligence performs sacrifices, and it also performs all acts" (Taitt. 2. 5). Here by 'intelligence' the soul is meant and not the Buddhi, thereby showing that the soul is an agent. If the intention of the Sruti were to refer to the Buddhi then it would have used the word not in the nominative case, but in the instrumental case, as 'by intelligence,' meaning, through its instrumentality, as it has done elsewhere in similar circumstances. Vide Kau. 3. 6.
@@ -3953,8 +3281,6 @@ there would always result perception of everything, for all the requisites, *viz
 ** 37. As in the case of perception, (there is) no rule (here also).**
 
  An objection is raised that if the soul were a free agent, then it would have performed only what is beneficial to it, and not both good and bad deeds. This objection is being refuted. Just as the soul, although it is free, perceives both agreeable and dis- agreeable things, so also it does both good and bad deeds. There is no rule that it should do only what is good and avoid what is bad.
-
-
 
 **शक्तिविपर्ययात् ॥३८॥**
 
@@ -3974,8 +3300,6 @@ there would always result perception of everything, for all the requisites, *viz
 
 **यथा च तक्षोभयथा ॥४०॥**
 
-
-
 यथा Even as च and तक्षा carpenter उभयथा is both
 
 ** 40. And even as a carpenter is both.**
@@ -3988,8 +3312,6 @@ there would always result perception of everything, for all the requisites, *viz
 
  परात् From the Supreme Lord तु but तत् that (agency) श्रुतेः so declares the Sruti.
 
-
-
 ** 41. But (even) that (agency of the soul) is from the Supreme Lord ; so declares the Sruti.**
 
  The agency of the soul is also due to the Supreme Lord. The soul does good and bad deeds, being so directed by the Lord. "He makes those whom He will raise do good deeds" (Kau. 3. 8). It is through His grace that the soul attains to Knowledge and becomes iree.
@@ -4001,8 +3323,6 @@ there would always result perception of everything, for all the requisites, *viz
  **42. But (the Lord's making the soul act) depends on works done (by it); (thus enly would) injunctions and prohibitions etc. be relevant.**
 
  This Sutra refutes a possible doubt that since the Lord makes some persons do good and others evil, He must be cruel and whimsical. It says, that the Lord always directs the soul according to its good or bad deeds in previous births. And Samsâra being without beginning, there will always be previous births, with actions done in them, for the guidance of the Lord. So He cannot be accused of being cruel and whimsical. It is thus alone that the scriptural injunctions and prohibitions can have any meaning;
-
-
 
 for otherwise the Jiva will gain nothing by observing these injunctions.
 
@@ -4018,8 +3338,6 @@ for otherwise the Jiva will gain nothing by observing these injunctions.
  **43. (The soul is) part (of the Lord) on account of difference (between the two) being declared and otherwise also (i.e. as non-different from Brahman); for in some (Sâkhâs or recensions of the Vedic texts) (Brahman) is spoken of as being fishermen, knaves, etc.**
 
  In the last topic it has been shown that the Lord rules the soul. This brings us to the question of the relation between the two. Is it that of master and servant, or as between fire and its sparks ? The
-
-
 
 Sutra says that the retation is as between fire and its sparks, that is, of whole and part. But then, the soul is not actually a part, but a part, as it were—an imagined part, for Brahman cannot have any parts. Why then should it be taken as a part and not identical with the Lord? Because the scriptures declare a difference between them in texts like, "Knowing It alone one becomes a sage" (Brih. 4. 4. 22), "The Atman is to be seen" (Brih. 2. 4. 5). This difference, however, is spoken of from the empirical standpoint; from the absolute standpoint they are identical. The text, "Brahman is the fishermen, Brahman the slaves, Brahman these knaves," etc. shows that even such humble persons as these are in reality Brahman.
 
@@ -4037,8 +3355,6 @@ Sutra says that the retation is as between fire and its sparks, that is, of whol
 
 ** 45. And it is also (so) stated in the Smriti.**
 
-
-
  "An eternal portion of myself having become a living soul" (Gitâ 15. 7).
 
 **प्रकाशादिवन्नैवं परः ॥४६॥**
@@ -4050,8 +3366,6 @@ Sutra says that the retation is as between fire and its sparks, that is, of whol
  If the soul is a part of the Lord, the question may arise that the Lord also experiences pleasure and pain like the soul, even as a cloth is soiled if its threads are soiled. This Sutra refutes it and says that the Lord does not experience pleasure and pain like the soul, which on account of ignorance identifies itself with the body and mind, and thereby partakes of their pleasure and pain. Just as the light of the sun, which is all-pervading, becomes straight or bent by coming in contact with particular objects, or as the ether enclosed in a jar seems to move when the jar is moved, or as the sun appears to tremble when the water in which it is reflected trembles, but in reality none of them undergoes those changes, so also is the Lord not affected by pleasure and pain, which are experienced by that imagined part of it, the individual soul, which is a product of ignorance and is limited by the Buddhi etc.
 
 **स्मरन्ति च ॥४७॥**
-
-
 
  स्मरन्ति The smritis state च and.
 
@@ -4071,8 +3385,6 @@ Sutra says that the retation is as between fire and its sparks, that is, of whol
 
  असन्ततेः Non-extension (beyond its own body) च and अव्यतिकरः there is no confusion (of results of actions).
 
-
-
  **49. And on account of the non-extension (of the soul beyond its own body) there is no confusion (of results of actions).**
 
  An objection is raised that on account of the unity of the Self there would result a confusion of the results of actions; that is, everyone would get the results of the actions of everyone else. This Sutra refutes such a possibility; for an individualized soul means the connection of the Atman with a particular body, mind, etc., and since these are not overlapping, the individual souls are different from each other. Hence there is no such possibility of confusion.
@@ -4085,8 +3397,6 @@ Sutra says that the retation is as between fire and its sparks, that is, of whol
 
  According to Vedânta the individual soul is but a reflection, an image, of the Supreme Lord in Its Upâdhi (adjunct), the Antahkarana (inner organ). So the reflections of the Lord in different Antahkaranas are different, even as the reflections of the sun in different sheets of water are different. Therefore just as the trembling of a particular reflection of the sun does not cause the other reflections to tremble so also the experiencing of happiness and misery by a particular Jiva or individualized soul is not shared by other souls. Hence there can be no confusion of the results of action.
 
-
-
 **अगष्टानियमात् ॥५१॥**
 
  अदृष्ट-अनियमात् There being no fixity about the unseen principle.
@@ -4096,8 +3406,6 @@ Sutra says that the retation is as between fire and its sparks, that is, of whol
  The Sânkhyas, the Vauseshikas and the Naiyâyikas accept a plurality of souls, each of which is allpervading. Under such circumstances there cannot but result a confusion of the fruits of action, for each soul is present everywhere, in close proximity to whatever causes those results in the shape of happiness or misery. Nor can this confusion be avoided by introducing the Adrishta or unseen principle, which is retigious merit and demerit acquired by the souls. According to the Sânkhyas it inheres not in the soul, but in the Pradhana, which is common to all souls, and as such there is nothing to fix that a particular Adrishta operates in a particular soul. According to the other two schools the unseen principle is created by the conjunction of the soul with the mind; and since every soul is all-pervading and therefore equally connected with all minds, here also there is nothing to fix that a particular Adrishta belongs to a particular soul. Hence that confusion of results is inevitable.
 
 **अभिसन्ध्यादिष्वपि चैवम् ॥५२॥**
-
-
 
  अभिसंध्यादिषु In resolve etc. अपि even च and एवम् like this.
 
@@ -4115,11 +3423,7 @@ Sutra says that the retation is as between fire and its sparks, that is, of whol
 
  The Naiyâyikas and others try to get over the difficulty shown in the previous Sutra thus: Though each soul is all-pervading, yet if we take its connection with the mind to take place in that part of it which is limited by its body, then such a confusion
 
-
-
 is not likely. Even this cannot stand; since every soul is all-pervading and therefore permeates all bodies, and there is nothing to fix that a particular body belongs to a particular soul. Again there cannot be mere than one all-pervading entity ; if there were, they would limit each other and consequently cease to be all-pervading or infinite. Hence there is only one Self and not mary. The plurality of selves in Vedânta is only a product of ignorance and not a reality.
-
-
 
 **CHAPTER II**
 
@@ -4139,8 +3443,6 @@ is not likely. Even this cannot stand; since every soul is all-pervading and the
 
  This Sutra refutes that view and says that the organs etc. are produced just like ether etc. from
 
-
-
  Brahman. The word 'likewise' refers not to the immediately preceding topic of the last section, which is the plurality of souls, but to the creation of ether etc. spoken of in the last section. Sruti texts directly declare their origination. "From that (Self) are produced the vital force, mind, and all the organs" (Mu. 2. 1. 3). Therefore the senses are created.
 
 **गौण्यसम्भवात् ॥२॥**
@@ -4155,8 +3457,6 @@ is not likely. Even this cannot stand; since every soul is all-pervading and the
 
    तत् That प्राक् first श्रुतेः being mentioned च and.
 
-
-
  **3. And because that (the verb denoting origin) is mentioned first (in connection with the Prânas).**
 
  The text referred to is: "From that (Self) are produced the vital force, mind and all the organs, ether, air, water, fire, and earth" (Mu. 2. 1. 3). Here the word 'produced' occurs at the very beginning of the things enumerated, and if it is interpreted in its primary sense with respect to ether etc., it is all the more to be so interpreted with respect to the vital force, mind, and organs mentioned earlier. Thus a further reason is given in this Sutra to show that the organs etc. have originated from Brahman.
@@ -4168,8 +3468,6 @@ is not likely. Even this cannot stand; since every soul is all-pervading and the
  **4. On account of the pre-existence of that (viz. the elements) (before) the organ of speech (etc.).**
 
  "For truly, my boy, mind consists of earth, the vital force of water, the vocal organ of fire" (Chh. 6. 5. 4). This text clearly shows that the organs etc. are products of the elements, which in their turn spring from Brahman. Hence they too are products of Brahman. Being products of the elements, they are not separately mentioned in texts dealing with the origin of things.
-
-
 
 **Topic 2: The number of the organs.**
 
@@ -4187,8 +3485,6 @@ is not likely. Even this cannot stand; since every soul is all-pervading and the
 
  **6. But hands etc. (are also referred to as sense-organs in scriptural texts). Since this is a fact, therefore (it is) not**
 
-
-
 **like this (i.e. they are not merely seven in number).**
 
  'But' refutes the view of the previous Sutra. "The hands are the Graha (organs)" etc. (Brih. 8. 2. 8). Such texts show that the hands etc. are additional sense-organs. Therefore to the seven already enumerated, *viz*. eyes, nose, ears, tongue, touch, speech, and inner organ, four others, viz. hands, feet, anus, and the organ of generation, have to be added. In all, therefore, there are eleven organs. The different modifications of the inner organ, *viz*. mind, intellect, ego, and Chitta (memory), are not separate organs, and therefore cannot raise the number beyond eleven, which is therefore the number fixed. These are: the five organs of knowledge, the five organs of action, and the inner organ.
@@ -4202,8 +3498,6 @@ is not likely. Even this cannot stand; since every soul is all-pervading and the
 **  7. And (they are) minute.**
 
  The organs are minute. 'Minute' does not mean atomic, but fine and limited in size. It is because they are subtle that they are not seen. If they were all-pervading, then texts which speak of their passing out of the body and going and coming along with the soul at death and birth would be contradicted. Moreover, we do not perceive through the senses what is happening throughout the universe, which would be
-
-
 
 the case if they were all-pervading. Hence they are all subtle and limited in size.
 
@@ -4219,8 +3513,6 @@ the case if they were all-pervading. Hence they are all subtle and limited in si
 
  "From this (Self) is produced the vital force" Mu. 2. 1. 8); again we have, "By Its own law It alone was moving without wind (the vital force)" (Rig-Veda 10. 129. 2). Here the words "was moving" seem to refer to the function of the vital force, and so it must have existed before creation and was therefore not created. Hence there appears to be a contradiction with respect to its origination. This Sutra says that even the vital force is produced from Brahman. The words "was moving" are qualified by 'without wind' and so does not intimate that the vital force existed before creation. It only intimates the Brahman, the Cause, existed before creation, as is known from texts like "Existence alone was there before this" (Chh. 6. 2. 1). It is called the 'chief', because it functions before all other Prânas and senses*, i.e*. from the very moment the child is conceived, and also on account of its superior qualities; "We shall not be able to live without you" (Brih. 6. 1. 18).
 
-
-
 ***Topic 5: The chief vital force is different  
 from air and sense functions. ***
 
@@ -4234,8 +3526,6 @@ from air and sense functions. ***
 
  The Sutra refutes these views and says that Prâna is a separate principle, for it is mentioned separately from air and the sense functions. "The Prâna (vital force) indeed is the fourth foot of Brahman. That foot shines and warms as the light called air" (Chh. 3. 18. 4), where it is distinguished from air. Again, "From that (Self) are produced
 
-
-
 the vital force, mind, and all the organs" (Mu. 2.1.8), which shows that it is not a function of any organ, for in that case it would not have been separated from the organs. The text, "The vital force is air," is also correct, inasmuch as the effect is but the cause in another form and the vital force is air functioning within the body (Adhyâtma). The analogy of the birds in a cage is not to the point, for they all have the same kind of activity, viz. movement, which is favourable to the motion of the cage. But the functions of the organs are not of one kind, but different from one another; and they are also of a distinct nature from that of the vital force. Hence they cannot constitute life. Therefore Prâna (vital force) is a separate entity.
 
 **चक्षुरादिवत्तु,तत्सहशिष्ट्यादिभ्यः॥१०॥**
@@ -4246,8 +3536,6 @@ the vital force, mind, and all the organs" (Mu. 2.1.8), which shows that it is n
 
  If the vital force is a separate entity from the organs, which are subordinate to it, then it, like the soul, must also be independent in the body. The Sutra refutes this and says that the vital force is subordinate to the soul. Why ? Because in the conversation of the Prânas which we find in the
 
-
-
 Upanishads it is mentioned along with the sense-organs. Now in such grouping only those of a class are grouped together. So the vital force, like the organs, is subordinate to the soul. The other reasons referred to in the Sutra are its being composed of parts, its being insentient, and so on.
 
 **अकरणत्वाच्च न दोषः, तथाहि दर्शयति॥११॥**
@@ -4257,8 +3545,6 @@ Upanishads it is mentioned along with the sense-organs. Now in such grouping onl
  **11. And on account of (its) not being an instrument (there is) no objection, because thus (the scripture) teaches.**
 
  If the vital force, like the organs is also subordinate to the soul, then it must stand in the relation of an instrument to the soul like the organs. But as there are only eleven functions and as many organs already, there is no room for a twelfth organ in the absence of a twelfth sense-object. This Sutra refutes the above objection and says that the vital force is not an instrument or organ like the eyes etc., for the acceptance of which a twelfth senseobject would be necessary; yet it has a function in the body which no sense-organ is capable of, and that is the upkeep of the body. In the text, "Preserves the unclean nest (of a body) with the help of the vital force” (Brih. 4. 3. 12), the vital force is said to guard the body. Again, "From whatever
-
-
 
 limb the Prâna goes, right there it withers "(Brih.1. 3. 19);" Whatever food one eats through the Prâna satisfies these (the organs)" (Brih. 1. 3. 18). All these texts show that the function of the vital force (Prâna) is the upkeep of the body, unlike those of the organs.
 
@@ -4278,8 +3564,6 @@ limb the Prâna goes, right there it withers "(Brih.1. 3. 19);" Whatever food on
 
 ** **अणुः Minute च and.
 
-
-
 **13. And it is minute.**
 
  The vital force (Prâna) is also minute, subtle, and limited like the senses. It may be objected that it is all-pervading according to the text: "Because he is equal to a gnat, equal to a mosquito, equal to an elephant, *equal to these three worlds, equal to this universe"* (Brih. 1. 3. 22). But the all-pervading-ness spoken of here is with respect to Hiranyagarbha, the cosmic Prâna. In its universal aspect it is all- pervading; but in relation to beings in the world, in its individual aspect with which we are concerned here, it is limited. Hence the vital force is also limited.
@@ -4293,8 +3577,6 @@ limb the Prâna goes, right there it withers "(Brih.1. 3. 19);" Whatever food on
 ** 14. But there is the presiding over by Fire and others (over the organs), on account of the scriptural teaching about that.**
 
  The dependence or independence of the Prâna and the organs is taken up for discussion: The scriptures say that these are presided over by the gods like Fire etc., which direct them. For example, "(Fire) having become speech entered the
-
-
 
 mouth" (Ait. Ar. 2. 4. 2. 4). The organs etc., being inert, cannot move of themselves. Hence they are dependent on the presiding deities.
 
@@ -4311,8 +3593,6 @@ from the scriptures.
 
   तस्य Its च and नित्यत्वात् on account of permanence.
 
-
-
 ** 16. And on account of its (soul's) permanence (in the body it is the enjoyer, and not the gods).**
 
  The soul abides permanently in the body as the experiencer since it can be affected by good and evil and can experience pleasure and pain. It is not reasonable to think that in a body which is the result of the soul's past actions, others, e.g. the gods, enjoy. The gods have glorious positions and would disdain such lowly enjoyments as can be had through the human body. It is the soul that is the enjoyer. Moreover, the connection between the organs and the soul is permanent. Vide Sruti text, "When it departs, the vital force follows; when the vital force departs, all other organs follow" (Brih. 4. 4. 2). The soul is the master, and is there-fore the enjoyer, in spite of the fact that there are presiding deities over the senses.
@@ -4325,8 +3605,6 @@ and not modes of the chief Prâna.***
  ते They इन्द्रियाणि organs तद्व्यपदेशात् being so designated श्रेष्ठात् अन्यत्रexcept the chief.
 
  **17. They (the other Prânas) except the chief (Prâna) are organs (and so different from the chief Prâna), on account**
-
-
 
 **of (their) being so designated (by the scriptures).**
 
@@ -4342,8 +3620,6 @@ The question is raised whether the eyes etc. are but modes of the vital force or
 
  वैलक्षण्यात् On account of characterístic differences च and
 
-
-
 ** 21. Flesh etc. result from earth, according to the scriptures. So also as regards the other two (viz. fire and water).**
 
  Tripartite earth, when assimilated by man, forms flesh etc. "The earth (food) when eaten becomes threefold, . . . its middle portion becomes flesh, and its finest portion mind” (Chh. 6. 5. 1). So also we have to understand the effects of the other two elements according to the scriptures. Water produces blood, Prâna, etc., and fire produces bone, marrow and the organ of speech.
@@ -4355,8 +3631,6 @@ The question is raised whether the eyes etc. are but modes of the vital force or
 ** 22. But on account of the preponderance (of a particular element in them the gross elements) are so named (after it).**
 
  An objection is raised, if all the gross elements contain the three fine elements, then why such distinctions as "This is water," "This is earth," "This is fire" ? The Sutra refutes this objection saying that as the fine elements are not found in equal proportion in each of the gross elements, they are named after that fine element which preponderates in their constitution. The repetition of "that special name" is to show that the chapter ends here.
-
-
 
 **CHAPTER III**
 
@@ -4375,13 +3649,9 @@ gross elements**.*
 
  **1. (The soul) goes (out of the body) enveloped (with subtle parts of the ele-**
 
-
-
 **ments) with a view to obtaining a fresh body; (so it is known) from the question and answer (in the scripture).**
 
  The Sutra discusses whether in transmigration the soul takes with it subtle parts of the gross elements as the seed, as it were, for the future body. The opponent holds that it does not take them, for it is useless, because the elements are easily available everywhere. Moreover, in the absence of a definite opinion to the contrary in the scriptures, we have to understand that the soul does not take subtle parts of the elements with it. This Sutra refutes that view and says that the soul does take with it subtle parts of the elements; that this is a fact is known from the question and answer that occurs in the scriptures. "Do you know why in the fifth oblation water is called man?" (Chh. 5. 3. 3). This is the question, and the answer is given in the whole passage which, after explaining how the five oblations in the form, of Sraddhâ (liquid oblations in subtle form), Soma, rain, food, and seed are offered in the five 'fires' (i.e. objects imagined to be fires for the sake of Upâsanâ)—the heavens, Parjanya (rain-god), earth, man, and woman—ends, "For this reason is water in the fifth oblation called man." From this we understand that the soul goes enveloped with water (same as Sraddhâ). Moreover, though the elements are available everywhere, yet the seeds for a future body are not so easily available. Again the adjuncts of the individual soul, viz. the organs etc.
-
-
 
 which go with it (Vide Brih. 4. 4. 2) cannot accompany it unless there is a material basis.
 
@@ -4397,8 +3667,6 @@ which go with it (Vide Brih. 4. 4. 2) cannot accompany it unless there is a mate
 
  प्राणगतेः Because of the going of the sense-organs च and.
 
-
-
 ** 3. And because of the going of the organs (with the soul, the elements also accompany the soul).**
 
  "When it departs, the vital force follows. When the vital force departs, all the organs follow” (Brih. 4. 4. 2). Since the organs go with the soul, they must have a material base; hence also it is inferred that water and other elements follow the soul, thus forming a basis for the organs.
@@ -4411,8 +3679,6 @@ which go with it (Vide Brih. 4. 4. 2) cannot accompany it unless there is a mate
 
  "When the vocal organ of a man who dies is merged in the fire, the nose in the air," etc. (Brih. 3. 2. 13). This text shows that at the time of death the organs are resolved into their presiding deities, and hence it cannot be said that they accompany the soul. This Sutra refutes that view and says that such interpretations would go against many texts which declare that they do accompany the soul, as, for example : "When it departs, the vital force
 
-
-
 follows; when the vital force departs, all the organs follow" (Brih. 4. 4. 2). Hence the text cited must be interpreted in a secondary sense like the words, "The hair on the body in the herbs" (Brih. 3. 2. 13).
 
 **प्रथमेऽश्रवणादिति चेत्, न ता एव हि, उपपत्तेः॥५॥**
@@ -4422,8 +3688,6 @@ follows; when the vital force departs, all the organs follow" (Brih. 4. 4. 2). H
 ** 5. If it be objected on account of (water) not being mentioned in the first of the oblations, (we say) not so, because that (viz. water) only (is meant by the word 'Sraddhâ') on account of the appropriateness (of such an interpretation).**
 
  An objection is raised that as there is no men- tion of water in the first oblation: "On that altar the gods offer Sraddhâ as oblation" (Chh. 5. 4. 2), but only Sraddhâ (faith) is mentioned, to substitute water for Sraddhâ will be arbitrary. So how can it be ascertained "that in the fifth oblation water is called man." The Sutra says that by 'Sraddhâ' water is meant, for in that case alone syntactical unity of the whole passage remains undisturbed. Otherwise the question and answer would not agree. Moreover, faith (Sraddhâ), which is a mental attribute, cannot be offered as an oblation. Water is also
-
-
 
 called Sraddhâ in the Sruti texts: "Sraddhâ indeed is water" (Taitt. Sam. 1. 6. 8. 1).
 
@@ -4435,8 +3699,6 @@ called Sraddhâ in the Sruti texts: "Sraddhâ indeed is water" (Taitt. Sam. 1. 6
 
  An objection is raised that in the Chhândogya text cited (5. 3. 3), there is mention of water only but no reference to the soul; and it is explained how this water becomes man. So how can it be taken that the soul departs enveloped with water and then is born again as man? This Sutra refutes it and says that if we examine all the scriptural texts like, "But they who being in the village practise sacrifices and works of public utility and give alms, go to the (deity of) smoke to the moon" (Chh. 5. 10. 3-4), which describe the journey to the moon, we find that only the Jivas who perform such good acts go to heaven, and that in so doing they go enveloped with water, which is supplied by the materials like curds etc. that are offered as oblations in sacrifices;
 
-
-
 these assume a subtle form called Apurva and attach themselves to the sacrificer.
 
 **भाक्तं वानात्मवित्त्वात् तथा हि दर्शयति॥७॥**
@@ -4446,8 +3708,6 @@ these assume a subtle form called Apurva and attach themselves to the sacrificer
  **7. But (the souls' being the food of the gods in heaven is used) in a secondary sense, on account of their not knowing the Self; because (the Sruti) declares like that.**
 
  In the scriptures it is stated that those who go to heaven become the food of the gods; so how could they be enjoying the fruits of their good actions in heaven? "That is Soma, the king. He is the food of the gods. They eat him" (Chh. 5. 10. 4). This Sutra says that the word 'food' is used not in a primary sense, but metaphorically, meaning an object of enjoyment. Otherwise, if this is the fate of souls who go to heaven, texts like, "Those who want to go to heaven shall perform sacrifices" are meaningless. Therefore what the text means is that they are objects of enjoyment to the gods even as wives, children, and cattle are to men. Thus the Jivas, while giving enjoyment to the gods, are happy, and rejoice with them in their turn. That they are objects of enjoyment to the gods is known from texts like: "While he who worships another deity.
-
-
 
 He is like a beast to the gods. And as many beasts serve a man, so does every man serve the gods" (Brih. 1. 4. 10).
 
@@ -4464,13 +3724,9 @@ residual Karma, which determines their birth.***
 
   A fresh topic is taken up for discussion—the descent of the soul from heaven. The question is raised whether it descends with any residual Karma or not. The opponent holds that there is no residual Karma, for Sruti says: "Having dwelt there till their work is consumed, they return again the way they went by" etc. (Chh. 5. 10. 5), which means that all their Karma is exhausted and there is nothing left. Moreover, it is reasonable to think that Karma
 
-
-
 done in one life (as man) is worked out in the next as god.
 
  The Sutra, refuting this view, says that what is exhausted in heaven is only that Karma which gave the soul a birth as god in heaven, but on the exhaus-tion of this Karma the remaining Karma, good and bad, brings it back to carth. Otherwise it is diffi cult to explain the happiness or misery of a new-born child. Neither is it possible that in one life the entire Karma of the previous life is worked out. For a man might have done both good work like sacrifices, as a result of which he is born as a god, and bad work, which can be worked out in an animal body; and the working out of both kinds of Karma simultaneously in one birth is impossible. So though by the enjoyment of heaven the result of good work like sacrifices etc. is exhausted, there are other Karmas in store according to which a man is born again in good or bad environments. The Sruti says, "Those whose conduct has been good will quickly attain some good birth" etc. (Chh. 5. 10. 7). The Smriti also says, "With the remainder of their Karma they are born in a noteworthy place, caste, and family, with becoming appearance, longevity, knowledge, wealth, happiness, and intellect." So the soul is born with residual Karma. By what way does it descend? Following the same way that it went by, but with some difference. That they follow the same way as they went by, is understood from the inention of smoke and ether in the path, (Vide
-
-
 
 Chh. 5. 10. 5), and that there is some difference too is known from the fact that the text omits night etc. (Vide Chh. 5. 10. 3), but mist etc. are mentioned (Vide Chh. 5. 10. 6).
 
@@ -4481,8 +3737,6 @@ Chh. 5. 10. 5), and that there is some difference too is known from the fact tha
 **  9. If it be said that on account of conduct (the assumption of residual Karma is not necessary for a rebirth on earth), (we say) not so, (for the word 'conduct' is used) to denote indirectly (the remaining Karma). So (thinks) Kârshnâjini.**
 
  In the text cited (Chh. 5. 10. 7) the Sruti says those of 'good conduct' get a good birth. Now conduct is one thing, and residual Karma quite another thing, even according to the Sruti (Vide Brih. 4. 4. 5). Since the Sruti does not mention residual Karma, the soul is not born with any Karma, conduct alone being the cause of good birth. This is the main objection. This the Sutra refutes and says that 'conduct' here is used to denote good Karma. It is a case of Ajahat Lakshanâ, conduct standing for Karma which is dependent on good conduct. This is the view of the sage Kârshnâjini.
-
-
 
 **आनर्थक्यमिति चेत्, न, तदपेक्षत्वात्॥१०॥**
 
@@ -4498,8 +3752,6 @@ Chh. 5. 10. 5), and that there is some difference too is known from the fact tha
 
 ** 11. But (conduct) is merely good and evil work; thus (the sage) Bâdari (thinks)**.
 
-
-
  This Sutra says that as a matter of fact thereis no difference between conduct and Karma in common parlance, for people say of a person who performs sacrifices etc. "That man practises righteousness, showing thereby that 'conduct' is used in the general sense of action. Thus 'men of good conduct' means those whose actions (Karma) are praiseworthy.
 
  Therefore it is settled that those who go to heaven performing sacrifices have residual Karma as the cause of a new birth on earth.
@@ -4514,8 +3766,6 @@ actions do not entitle them to go to the lunar world.***
 ** 12. The Sruti declares (the going to the lunar world etc.) also of even those who do not peform sacrifices etc.**
 
   Now the question of those who do not perform sacrifices etc. is taken up for discussion. The opponent holds that even they go to heaven, though they may not enjoy there like the performers of sacrifices etc., because they too require the fifth oblation for a new birth, and also because the scriptures directly say that all go to heaven: "All who depart from this world go to the moon" (Kau. 1. 2).
-
-
 
 **संयमने त्वनुभूयेतरेषामारोहावरोहौ, तद्गति**
 
@@ -4535,8 +3785,6 @@ actions do not entitle them to go to the lunar world.***
 ** 14. The Smritis also declare (thus).**
 
   Manu and others say that the evil-doers go to hell and suffer there.
-
-
 
 **अपि च सप्त ॥१५॥**
 
@@ -4560,8 +3808,6 @@ actions do not entitle them to go to the lunar world.***
 
  **17. But (the reference is to the two roads) of knowledge and work; thus (we have to understand) on account of their being the subject under discussion.**
 
-
-
   "Now those who go along neither of these ways become those tiny, continually rotating creatures of which it may be said, 'Be born and die.' This is the third place. That is why that world (heaven) never becomes full" (Chh. 5. 10. 8). The two ways mentioned in this text we have to take as referring to those of knowledge and work, on account of these being the subject under discussion. Knowledge and work are the means to go along the Devayâna and Pitriyâna routes. For those who are not entitled to go through knowledge along the Devayâna, the route leading to the gods, or through sacrifices etc. to the Pitriyâna, the route leading to the fathers, the Sruti declares a third place, distinct from the Brahmaloka and the Chandraloka. That the evil-doers, who form a separate group, go to this third place, and not to heaven, is made all the more explicit by the words, "That is why that world (heaven) never becomes full' (Chh. 5. 10. 8). The word 'but' refutes a possible doubt arising from a text belonging to another Sâkhâ ; vide Kau. 1. 2. So the Kau-shitaki text which says that all go to the sphere of the moon, means all those who have performed good Karma of whatever kind, and does not include evil-doers.
 
 **न तृतीये, तथोपलब्धेः॥१८॥**
@@ -4569,8 +3815,6 @@ actions do not entitle them to go to the lunar world.***
   न Not तृतीये in the third तथा so उपलब्धेःit being seen.
 
 **  18. (The specification about five**
-
-
 
 **oblations does) not (apply) to the third (place), for so it is seen (from the scriptures).**
 
@@ -4583,8 +3827,6 @@ actions do not entitle them to go to the lunar world.***
  **19. And moreover (cases of birth without the completion of the five obla- tions) are recorded in the world. **
 
 ** **A further argument is given to show that the five oblations are not absolutely necessary for a future birth, and hence the evil-doers need not go to heaven just for conforming to this rule. For in cases like that of Drona, who had no mother, and of Dhrishtadyumna, who had neither father nor mother, the last two oblations respectively were absent. Hence the rule about the five oblations is not
-
-
 
 universal, but applies only to those who perform sacrifices.
 
@@ -4606,8 +3848,6 @@ universal, but applies only to those who perform sacrifices.
 
  Hence it is a settled fact that the evil-doers do not go to heaven but only those who perform sacrifices.
 
-
-
 ***Topic 4: The soul in its descent from the moon does  
 not become identified with ether etc. but attains  
 similarity of nature.* **
@@ -4619,8 +3859,6 @@ similarity of nature.* **
  **22. (The soul when descending from Chandraloka) attains similarity of nature with them (i.e. with ether, air, etc.), (that alone) being reasonable.**
 
   It has been said that the righteous who descend from the moon descend by the same path as they ascended by, but with some differences. "They return again that way as they came by, to the ether, from the ether to the air; the sacrificer having become air, becomes smoke,” etc. (Chh. 5. 10. 5). Now the question is whether the souls of such persons actually attain identity with ether, smoke, etc., or only attain a similar nature. The Sutra says that the souls do not attain identity with them, for it is impossible. A thing cannot become another of a different nature. What the text means, therefore, is that it attains similarity of nature—becomes like ether, air, etc. The soul assumes a subtle form like ether, comes under the influence of air and is connected with smoke, etc. Therefore similarity of nature and not identity is meant.
-
-
 
 ***Topic 5: The entire descent of the soul takes only a short time.* **
 
@@ -4638,15 +3876,11 @@ they only get connected with them and do not
 
 **अन्याधिष्ठिते पूर्ववत्, अभिलाषात् ॥२४॥**
 
-
-
  अन्य-अधिष्ठिते Into what is ruled by another पूर्ववत् as in the previous cases अभिलाषात् for so the Sruti states.
 
  **24. (The descending soul enters) into what is ruled by another (Jiva or soul) as in the previous cases (viz. becoming ether etc.); for so the Sruti states.**
 
  A view is put forward that the soul's passage through the stages of corn etc. is not a mere connection with them, as in the earlier stages with ether etc., but that it is actually born in the form of corn etc. For the Sruti says, "Then he is born as rice" etc. (Chh. 5. 10. 6). It also seems reasonable that those who fall from heaven after having exhaust-ed their good deeds should be born as herbs, plants, etc., owing to their bad Karma such as the killing of animals that remains. So the word 'born' is to be taken literally.; The Sutra refutes this view and says that the word 'born' implies mere connection with corn, herbs, etc., which are animated by other souls actually born as such. For in these stages there is no reference to their Karma, even as in the earlier stages of ether etc. They enter these plants etc. independently of their Karma, and while there, they do not experience the fruits at all. Where birth in the primary sense takes place and experience of the fruits of action begins, it is made clear by a reference to Karma, as in, "Those whose conduct has been good will quickly attain a good birth"
-
-
 
 (Chh. 5. 10. 7). Therefore the descending souls only dwell, as it were, in plants etc. animated by other souls till they get the opportunity for a new birth.
 
@@ -4666,8 +3900,6 @@ they only get connected with them and do not
 
  "For whoever eats food and performs the act of generation, (the soul) becomes one with him" (Chh. 5. 10. 6). Here the soul's becoming literally "
 
-
-
 identical with the person is impossible, and we have to understand that it gets connected with him. This further proves that the soul's becoming plants etc. in the immediately preceding stages is also mere connection with them and not actual birth as such.
 
 **योनेः शरीरम् ॥२७॥**
@@ -4677,8 +3909,6 @@ identical with the person is impossible, and we have to understand that it gets 
 ** 27. From the womb a (new) body (results).**
 
  Finally the actual birth of the soul is referred to in this Sutra. Till now it was only a connection with the successive stages, but now through its connection with a person performing the act of generation the soul enters the woman and there gets a new body fit for experiencing the results of its past residual Karma.
-
-
 
 **CHAPTER III**
 
@@ -4694,8 +3924,6 @@ identical with the person is impossible, and we have to understand that it gets 
 
 ** 1. In the intermediate stage (be-**
 
-
-
 **tween waking and deep sleep, there is a real) creation, because (the Sruti) says so.**
 
  The question is raised whether the creation which one experiences in the dream state is as real as this world of ours, or merely Mâyâ, false, as compared with this waking world. This Sutra, which gives the view of the opponent, holds that it is just as real, for the Sruti declares, “There are no chariots, nor horses to be yoked to them, nor roads there, but he himself creates the chariots, horses, and roads. For he is the agent” (Brih. 4. 3. 10). Moreover, we do not find any difference between the experience of the waking state and that of the dream state. A meal taken in dream has the effect of giving satisfaction even as in the waking state. Therefore the creation of the dream state is real and springs from the Lord Himself, even as He creates ether etc.
@@ -4708,8 +3936,6 @@ identical with the person is impossible, and we have to understand that it gets 
 
  A further argument is given by the opponent that the creation even in dreams is by the Lord
 
-
-
 Himself. "He who is awake in us shaping objects of desire while we are asleep . . . that is Brahman" Sons etc. are the objects of desire (Kath. 2. 5. 8). that He creates. So, as in the case of the waking state, even in dreams the Lord Himself creates, and hence the world of dreams is also real. There- fore the dream world is not false but real like this Vyâvahârika (phenomenal) world of ours.
 
 **मायामात्रं तु, कार्त्स्न्येनानभिव्यक्तस्वरूपत्वात्॥३॥**
@@ -4720,8 +3946,6 @@ Himself. "He who is awake in us shaping objects of desire while we are asleep . 
 
  'But' discards the view expressed by the two previous Sutras. The nature of the dream world does not agree in toto with that of the waking world with respect to time, place, cause, and non-contradiction, and as such that world is not real like the waking world. There can be no appropriate time, place or cause in the dream state. Inside the body, there is not enough space for objects like chariots, horses, etc., and in a dream the soul does not leave the body; for if it did, then one who dreams of having gone to America would find himself there on waking while he went to sleep in India. Nor is
 
-
-
 the midnight proper time for an eclipse of the sun seen in a dream, nor can we conceive a child's getting children in a dream to be real. Moreover, even in dreams we see objects seen being transformed, as for example, when we see a tree turn into a mountain. "He himself creates the chariots etc." (Brih. 4. 8. 10), only means that objects which have no reality appear to exist in dreams just as silver does in a mother-of-pearl. The argument that the dream world is real because it is also a creation of the Supreme Lord, like this waking world, is not true, for the dream world is not the creation of the Lord but of the individual soul. "When he dreams. . . himself puts the body aside and himself creates (a dream body in its place)" (Brih. 4. 3. 9). This text clearly provesthat it is the Jiva that creates in dreams and not the Lord.
 
 **सूचकश्च हि श्रुतेः, आचक्षते च तद्विदः॥४॥**
@@ -4731,8 +3955,6 @@ the midnight proper time for an eclipse of the sun seen in a dream, nor can we c
 ** 4. But (though the dream-world is an illusion) yet it serves as an omen, for (so we find) in the Sruti, (and) expert dream-readers also say (thus).**
 
  Lest it be thought that because the dream-world is an illusion, even the results indicated by dreams are to be so regarded, this Sutra says that these dreams are yet capable of forecasting events or good
-
-
 
 and bad fortune. The thing indicated by these dreams is real, though the dreams themselves are unreal, even as the appearance of silver in a mother-of-pearl, though false, produces joy in us, which is real. The Sruti also says so:"If in this dream he sees a woman, let him know this to be a sign that his sacrifice has succeeded" (Chh. 5. 2. 8).
 
@@ -4746,8 +3968,6 @@ and bad fortune. The thing indicated by these dreams is real, though the dreams 
 
  It has been shown that the dream-world is false. But an objection is raised against it. The individual soul is but a part of the Supreme Soul and therefore shares Its power of knowledge and rulership even as a spark and fire have alike the power of burning. As such it must also be able to create at will like the Lord. This Sutra refutes it and says that that rulership is covered by ignorance in the Jiva state
 
-
-
 and gets manifested only when in the state of medita- tion on the Lord this ignorance is destroyed by the knowledge 'I am Brahman.' "When that god is known all fetters fall off. From meditating on ... him there arises, on the dissolution of the body, the third state, that of universal Lordship" (Svet. 1. 11). Till then the Jiva cannot create at will anything real. Moreover, this does not come to man spontaneously, since the bondage and freedom of the individual soul come from the Lord. That is to say, ignorance of His true nature causes bondage, and the knowledge of it results in freedom. and also.
 
 **देहयोगाद्वा सोऽपि॥६॥**
@@ -4757,8 +3977,6 @@ and gets manifested only when in the state of medita- tion on the Lord this igno
  **6. And that (the covering of the soul's rulership) also (results) from its connection with the body.**
 
  A cause for this covering up of the soul's rulership is given; and that is its connection with the body etc. Because of these limiting adjuncts, the result of nescience, its knowledge and rulership remain hidden, and this lasts so long as it erroneously thinks itself as the body etc. Hence though the soul is not different from the Lord, its powers remain hidden.
-
-
 
 ***Topic 2: The soul in dreamless sleep.* **
 
@@ -4772,15 +3990,11 @@ and gets manifested only when in the state of medita- tion on the Lord this igno
 
  In different texts Sushupti (deep sleep) is said to take place under different conditions. "And when a man is asleep. ... so that he sees no dreams, then he has entered into those nerves (Nâdis)" (Chh. 8. 6. 3); "Through them he moves forth and rests in the pericardium, i.e. in the region of the heart" (Brih. 2. 1. 19); "When this being full of consciousness is asleep. . . lies in the ether i.e. the real Self which is in the heart" (Brih. 2. 1. 17). Now the question arises whether Sushupti takes place in any one of these places, i.e. whether these are to be taken as alter- natives, or whether they are to be taken as standing in mutual relation so as to refer to one place only. The opponent holds that as all the words standing for the places enumerated are in the same case, viz. the locative case, in the texts, they are co-ordinate
 
-
-
 and therefore alternatives. If mutual relation was meant, then different case-endings would be used by the Sruti. This Sutra says that they are to be taken as standing in mutual relation denoting the same place.
 
  There is no alternative here, for by allowing option between two Vedic statements we lessen the authority of the Veda, since the adoption of either alternative sublates for the time being the authority of the other alternative. Moreover, the same case is used where things serve different purposes and have to be combined, as, for example, when we say, "He sleeps in the palace, he sleeps on a couch," where we have to combine the two locatives into one as "He sleeps on a couch in the palace." Similarly here the different texts have to be combined, meaning that the soul goes through the nerves to the region of the heart and there rests in Brahman.
 
  It may be questioned why, then, in deep sleep we do not experience the relation of supporter and that which is supported with respect to Brahman and the Jiva. It is because the individual soul covered with ignorance is lost in Brahman even as a pot of water in a lake and so has no separate existence. "He becomes united with the True, he is gone to his own (Self)" (Chh. 6. 8. 1). Moreover, in the following text the three places are mentioned together, "In these the person is when sleeping he sees no dreams. Then he becomes one with the
-
-
 
 Prâna (Brahman) alone" (Kau. 4. 20). Hence Brahman is the soul's place of rest in deep sleep.
 
@@ -4802,13 +4016,9 @@ Prâna (Brahman) alone" (Kau. 4. 20). Hence Brahman is the soul's place of rest 
 
   A question is raised here that just as when a drop
 
-
-
 of water has merged in the ocean it is difficult to pick it out again, so also when the Jiva has merged in Brahman it is difficult to say that the selfsame Jiva arises from It after Sushupti. So we have to take that some soul arises after Sushupti from Brahman. There can be no rule that the same soul arises from It. The Sutra refutes this and says that the selfsame soul comes back after Sushupti for the following reasons: (1) What has been partly done by a person before going to sleep, we find him finishing after he wakes up. If it were not the same soul, then the latter would have no interest in finishing what has been partly done by another. (2) From our experience of identity of personality before and after sleep.. (3) From our memory of past events. (4) From scriptural authority as in texts like, "Whatever these creatures are here, whether a tiger, or a lion, or a wolf, or a boar...... that they become again (Chh. 6. 9. 3), we find that the selfsame soul returns from Brahman after Sushupti. (5) If the person who goes to sleep and he who rises after it be different, then scriptural precepts either as regards work or knowledge would be meaningless. For if a person can attain identity for ever with Brahman by merely going to sleep, then scriptural instruction would be useless to attain Liberation.
 
  Therefore it is the selfsame soul that rises from Brahman after Sushupti. The case of the drop of water is not quite analogous, for a drop of water merges in the ocean without any adjuncts and so is
-
-
 
 lost for ever; but the Jiva merges in Brahman with its adjuncts. So the identical Jiva rises again from Brahman owing to its Karma and ignorance, which do not allow it to be lost in Brahman irrevocably.
 
@@ -4822,8 +4032,6 @@ lost for ever; but the Jiva merges in Brahman with its adjuncts. So the identica
 
   The question of swoon is taken up for discussion. There are only three states of a soul while living in the body—waking, dream, and deep sleep. Its fourth state is death. The condition of swoon cannot come in as a fifth state, as no such state is known. So what is it ? Is it a separate state of the soul, or is it but one of these states ? It cannot be waking or dream, for there is no consciousness or experience of anything. It is not deep sleep, for that gives happi- ness, which swoon does not. Nor is it death, for the soul returns to life. So the only alterative left is that in a swoon the soul partially attains the state of deep sleep, inasmuch as there is no consciousness in that state and it returns to life, and partially that of death, as is seen from the soul's experience of misery and pain in that state resulting in distorted face and limbs.
 
-
-
 It is a separate state, though it happens occasionally, and the reason why it is not considered a fifth state is because it is a mixture of the other two states.
 
 * **Topic 5: The nature of the Supreme Brahman.***
@@ -4834,13 +4042,9 @@ It is a separate state, though it happens occasionally, and the reason why it is
 
  न Not स्थानतःfrom ( difference of) place अपि even परस्य of Brahman उभयलिङ्ग' twofold characteristic हि because सर्वत्र throughout (the scriptures teach other- wise).
 
-
-
  **11. Even from (difference of) place a twofold characteristic cannot (be predicated) of Brahman, because throughout (the scriptures teach It to be otherwise i.e. without any qualities). **
 
  In the scriptures we find two kinds of description about Brahman. Some texts describe It as qualified and some as unqualified. "From whom all activities, all desires, all odours, and all tastes proceed" (Chh. 3. 14. 2) speak of attributes; again "It is neither gross nor minute, neither short nor long, neither redness nor moisture" etc. (Brih. 3. 8. 8). Are we to take that both are true of Brahman according as It is or is not connected with adjuncts, or have we to take only one of them as true and the other as false, and if so, which, and on what grounds ? The Sutra says that both cannot be predicated of one and the same Brahman, for it is against experience. One and the same thing cannot have two contradictory natures at the same time. Nor does the mere connection of a thing with another change its nature, even as the redness of a flower reflected in a crystal does not change the nature of the crystal, which is colourless. The imputation of redness is due to ignorance and not real. Neither can a thing change its real nature: it means destruction. Even so in the case of Brahman, Its connection with adjuncts like earth etc. is a product of nescience. Hence between the two aspects of Brahman we have to accept that which is attribute-
-
-
 
 less as Its true nature, for throughout the scriptures we find Brahman so described to the exclusion of Its qualified aspects. "It is without sound, without touch, form, and decay” etc. (Kath. 1. 3. 15). The other description of Brahman is only for the sake of Upâsanâ and is not Its real nature.
 
@@ -4851,8 +4055,6 @@ less as Its true nature, for throughout the scriptures we find Brahman so descri
  **12. If it be said (that it is) not so on account of difference (being taught in the scriptures), (we reply) not so, because with respect to each (such form) the Sruti declares the opposite of that.**
 
  We find that the scripture declares Brahman as having different forms in different Vidyâs or meditations. In some It is described as having four feet, in some as of sixteen digits (Kalâs) or again as having for Its body the three worlds and being called Vaisvânara, and so on. So we have to understand on scriptural authority that Brahman is also qualified. This Sutra refutes it and says that every such form due to Upâdhi is denied of Brahman in texts like, "The shining, immortal being who is in this earth, and the shining, immortal, corporeal being in the body
-
-
 
 are but the Self” (Brih. 2. 5. 1). Such texts show that in all Upâchis like earth etc. the same Self is present, and hence there is only non-difference, one-ness. It is not true that the Vedas inculcate the connection of Brahman with various forms. With regard to what we take as different, the Sruti explains at every instance that the form is not true, and that in reality there is only one formless principle.
 
@@ -4872,8 +4074,6 @@ are but the Self” (Brih. 2. 5. 1). Such texts show that in all Upâchis like e
 
  Brahman is only formless for all the texts that aim at teaching Brahman describe It as formless. If Brahman be understood to have a form, then texts which describe It as formless would become purport-
 
-
-
 less, and such a contingency with respect to the scriptures is unimaginable, for the scriptures throughout have a purport. On the other hand, texts dealing with qualified Brahman seek not to establish It, but rather to enjoin meditations on Brahman. Therefore Brahman is formless.
 
 **प्रकाशवच्चावैयर्थ्यात्॥१५॥**
@@ -4883,8 +4083,6 @@ less, and such a contingency with respect to the scriptures is unimaginable, for
  **15. And like light (taking form in connection with bodies having form, Brahman takes form in connection with Upâdhis), because (texts ascribing form to Brahman) are not purportless.**
 
  If Brahman is formless, what about the texts which describe It as having form ? Are they superfluous ? If Brahman is without form then all Upâsanâs of the Brahman with form would be futile, for how can the worship of such a false Brahman lead to Brahmaloka and other spheres ? This Sutra explains that they are not without a purpose. Just as light, which has no form, appears to be great or small according to the aperture through which it enters a room and yet has the virtue of removing the darkness in the room, even so the formless Brahman appears to have a form, as being limited by adjuncts like earth etc; and the worship of such an illusory Brahman can help one to attain Brahmaloka etc.,
-
-
 
 which are also illusory from the absolute standpoint. Hence these texts are not altogether purportless. This, however, does not contradict the position already established, viz. that Brahman, though connected with limiting adjuncts, is not dual in character, because the effects of these cannot constitute attributes of a substance, and morcover these limiting adjuncts are all due to Nescience.
 
@@ -4904,8 +4102,6 @@ which are also illusory from the absolute standpoint. Hence these texts are not 
 
  That Brahman is without any attributes is also
 
-
-
 proved by the fact that the Sruti teaches about It by denying all characteristics to It. "Now therefore the description (of Brahman): 'Not this, not this.' Because there is no other and more appropriate description than this 'Not this'" (Brih. 2. 3. 6). If Brahman had form, then it would be established by such texts, and there would be no necessity to deny everything and say 'Not this, not this'. So also the Smritis teach about Brahman: "The Highest Brahman without either beginning or end, which cannot be said either to be or not to be" (Gitâ 13. 12); "It is unmanifest, unthinkable, and without modification, thus is It spoken of” (Gitâ 2. 25).
 
 **अतएव चोपमा सूर्यकादिवत्॥१८॥**
@@ -4915,8 +4111,6 @@ proved by the fact that the Sruti teaches about It by denying all characteristic
  **18. Therefore also (with respect to Brahman we have) comparisons like the images of the sun etc.**
 
  That Brahman is formless is further established from the similes used with respect to It. Since this Brahman is mere intelligence, homogeneous, and formless, and everything else is denied in It, there- fore we find that the scriptures explain the fact of Its having forms by saying that they are like reflections in water of the one sun, meaning thereby that these forms are unreal, being due only to limiting adjuncts.
-
-
 
 **अम्बुवदग्रहणात् तु न तथात्वम्॥१९॥**
 
@@ -4934,8 +4128,6 @@ proved by the fact that the Sruti teaches about It by denying all characteristic
 
  **20. On account of Brahman being inside (Its adjuncts) (It appears) to participate in their increase and decrease. On account of this similarity in the two cases (mentioned in Sutra 18) it is thus (i.e. the comparison is not defective).**
 
-
-
  The comparison with the reflection of the sun is to be taken not on all fours but only with respect to a particular feature. Just as the reflected sun is distorted, trembles, or varies in size as the water shakes, expands, or contracts, while the real sun remains unchanged; so also Brahman participates, as it were, in the attributes of the Upâdhis; it grows with them, decreases with them, suffers with them, and so on, but not in reality. Hence on account of this similarity in the two cases the comparison is not defective.
 
 **दशनाच्च॥२१॥**
@@ -4947,8 +4139,6 @@ proved by the fact that the Sruti teaches about It by denying all characteristic
  The Scripture also teaches that Brahman enters into the body and other limiting adjuncts. "He made bodies with two feet and bodies with four feet. That Supreme Being first entered the bodies as a bird. He on account of his dwelling in all bodies is called the Purusha" (Brih. 2. 5. 18). Thus also the comparison in Sutra 18 is not defective.
 
  Therefore it is established that Brahman is formless, of the nature of intelligence, and homogeneous—without any difference.
-
-
 
 ***Topic 6: 'Not this, not this' in Brih. 2.3.6.  
 denies the gross and subtle forms of Brahman given  
@@ -4962,11 +4152,7 @@ in Brih. 2.3.1. and not Brahman Itself.***
 
  "Brahman has but two forms—gross and subtle, mortal and immortal, limited and unlimited, Sat (defined) and Tyat (undefined)" (Brih. 2. 3. 1). Thus describing the two forms of Brahman, the gross, consisting of earth, water, and fire, and the subtle, consisting of air and ether, the Sruti says finally, "Now therefore the description (of Brahman): this, not this." " etc. (Brih. 2. 3. 6). Now the question is whether the double denial in 'Not this, not this' negates both the world and Brahman,or only one of them. The opponent holds that both are denied, and consequently Brahman, which is false, cannot be the substratum for a world, which is also false. In other words, it leads us to Sunyavâda, the theory of Void. If one only is denied it is proper that Brahman is denied, for It is not seen and therefore
 
-
-
 Its existence is doubtful, and not the world, since we experience it. The Sutra refutes this view and says that what has been described till now, viz. the two forms of Brahman, gross and subtle, is denied by the words 'Not this, not this,' the double mention of these words of denial applying to the two forms of Brah- man. The word 'Iti' refers to what has been mentioned immediately before, i.e. the two forms of Brah- man, the subject-matter of the discussion, and therefore cannot refer to Brahman Itself, which is not the main topic of the preceding texts. Moreover, after denying the world the Sruti says something more than that about Brahman, viz. 'The Truth of truth' meaning thereby that Brahman alone is the one reality that exists and is the substratum of the world, which is illusory. Nor is it reasonable to suppose that the Sruti, professing to teach about Brahman, will deny it. It is the Truth of truth, i.e. the reality behind 'Sat', or earth, water, and fire, and 'Tyat' or air and ether, the definite and indefinite forms in nature. There is no contradiction to perception in this denial of the world, for it denies only the transcendental reality of the world and not its Vyavahârika or phenomenal reality, which remains intact. The objection, viz. that Brahman is not experienced, and therefore it is Brahman that is denied, is baseless; for the object of the Sruti is to teach about something which is not ordinarily experienced by us; otherwise its teaching would be redundant.
-
-
 
 **तदव्यक्तम्, आह हि॥२३॥**
 
@@ -4984,8 +4170,6 @@ Its existence is doubtful, and not the world, since we experience it. The Sutra 
 
  If Brahman is not manifest to us, then we can never know It, and therefore there will be no Freedom. This Sutra says that Brahman is not known only to those whose heart is not purified, but those who are purified realize It in the state of Samâdhi when ignorance is destroyed. That this is so is known from the Sruti and Smriti : "Some wise man, however, with his eyes turned inside and wishing for immortality saw the Self within" (Kath. 2. 4. 1); also Mu. 3.
 
-
-
 1. 8. The Smriti also says the same thing: "He who is seen as Light by the Yogins meditating on Him sleeplessly, with suspended breath, contented minds, and subdued senses" etc.
 
 **   प्रकाशादिवच्चावेशेष्यं प्रकाशश्च कर्मणि,**
@@ -4999,8 +4183,6 @@ Its existence is doubtful, and not the world, since we experience it. The Sutra 
  The nature of the Jiva and Brahman has been described. Now their identity is being explained.
 
  If according to the last Sutra Brahman is the object of meditation and the Jiva is the meditator, it means that there is duality, and not the unity of Brahman. This Sutra explains it. Even as between the sun and its reflection in water etc. there is in reality no difference, the image being unreal, so also the one Brahman manifests as many in the limiting adjuncts of activity like meditation etc. Through ignorance the meditating self thinks it is different from Brahman; but in reality it is identical with
-
-
 
 Brahman. That it is so is known from repeated instruction of the Sruti in texts like, "That thou art", "I am Brahman", which deny difference.
 
@@ -5018,8 +4200,6 @@ Brahman. That it is so is known from repeated instruction of the Sruti in texts 
 
  **27. But on account of both (i.e. difference and non-difference) being taught (by the Sruti) (the relation of the Jiva and**
 
-
-
 **Brahman is to be taken) like that between a serpent and its coils.**
 
  Having established the identity of the Jiva and Brahman, the author proceeds to elucidate it further by examining the theory of difference and nondifference. In the scriptures we find also texts like, "Two birds of beautiful plumage" etc. (Mu. 3. 1. 1), which speak of difference between the Jiva and Brahman. So we have to understand that the difference between them prior to Liberation is real, though when it is destroyed by Knowledge they attain identity. Hence we have to take that their relation is one of difference and non-difference, as between a serpent and its coils. As a snake it is one but if we look at the coils, hood, etc. there is difference. Similarly between the Jiva and Brahman there is difference as well as non-difference.
@@ -5031,8 +4211,6 @@ Brahman. That it is so is known from repeated instruction of the Sruti in texts 
 **28. Or like (the relation of) light and its substratum, on account of both being luminous.**
 
  Another example is given to establish the theory of difference and non-difference. The relation between the Jiva and Brahman may be taken to be like that between light and its orb. Both being luminous are non-different; yet on account of their varying extensity they are spoken of as different. So is the rela-
-
-
 
 tion between the Jiva and Brahman one of difference and non-difference, the one being limited and the other all-pervading.
 
@@ -5050,8 +4228,6 @@ tion between the Jiva and Brahman one of difference and non-difference, the one 
 
  **30. And on account of the denial.**
 
-
-
  From the Sruti texts like, "There is no other wit- ness but He" (Brih. 3. 7. 28), which deny that there exists any other intelligent being apart from Brahman, and from the denial of the world by, "Not this, not this", it follows that there is no other entity but Brahman. Therefore there is only one Brahman without any difference whatsoever.
 
 *** Topic 7: Brahman is one without a second, and  
@@ -5065,8 +4241,6 @@ existing are only metaphorical.***
  **31. (There is something) superior to this (Brahman), on account of terms denoting a bank, measure, connection, and difference (used with respect to It).**
 
  To say that there is nothing except Brahman is objectionable, for we find that there is something besides Brahman on account of Its being designated as a bank separating things other than Itself in texts like, "That self is a bank, a boundary" etc. (Chh. 8. 4. 1); as having size and therefore limited in texts like, "That Brahman has four feet" (Chh. 8. 18. 2)— it is well known that whatever is limited is limited by some other object; as being connected with other
-
-
 
 objects: "The embodied self when embraced by the Supreme Self" (Brih. 4. 3. 21), which shows that there is something else than Brahman; and as being different."The Atman is to be seen," thereby hinting a seer and seen. All these show that Brahmen is not one without a second.
 
@@ -5084,8 +4258,6 @@ objects: "The embodied self when embraced by the Supreme Self" (Brih. 4. 3. 21),
 
  **33. (Brahman is depicted as having**
 
-
-
 **size) for the sake of easy comprehension (i.e. Upâsanâ); just like four feet**.
 
  The statements as to the size of Brahman, 'Brahman has four feet', 'It has sixteen digits', etc. are meant for the sake of Upâsanâ; for it is difficult to comprehend the Infinite, all-pervading Brahman. Just as mind conceived as the personal manifestation of Brahman is imagined to have the organ of speech, nose, eyes, and ears as its four feet, so also Brahman is imagined as having size etc. for the sake of Upâsanâ, but not in reality.
@@ -5097,8 +4269,6 @@ objects: "The embodied self when embraced by the Supreme Self" (Brih. 4. 3. 21),
  **34. (The statements about connection and difference with respect to Brah-man) are on account of special places; as in the case of light etc.**
 
  The statements regarding difference are made with reference to limiting adjuncts only and not to any difference in Brahman's nature. We speak of light inside a chamber and light outside it, though in reality light is one, the distinction being due to limiting adjuncts. So also all statements about con-nection are made with reference to the removal of the adjuncts, when connection with the Supreme Self is said to take place metaphorically, even as on the
-
-
 
 destruction of the chamber the light inside it may be said to be united with light in general.
 
@@ -5118,8 +4288,6 @@ destruction of the chamber the light inside it may be said to be united with lig
 
  A further reason is given to show that there is nothing but Brahman. "The Self is all this" (Chh. 7. 25. 2); "All this is Brahman alone" (Mu. 2. 2. 11) etc. deny the existence of anything else besides Brahman. Therefore Brahman is one without a second.
 
-
-
 **अनेन सवगतत्वमायामशब्दादिभ्यः ॥३७॥**
 
  अनेन By this सर्वगतत्वम् all-pervadingness आयामशब्दादिभ्यःas is known from scriptural statements etc. regarding (Brahman's) extent.
@@ -5137,8 +4305,6 @@ destruction of the chamber the light inside it may be said to be united with lig
  **38. From Him (the Lord) are the fruits of actions; for that is reasonable.**
 
  Having described the nature of Brahman, the
-
-
 
 author proceeds now to discuss the view of the Mimâmsakas, who say that Karma (work) and not Iswara. gives the fruits of one's actions. According to then it is useless to set up an Iswara for this purpose, since Karma itself can give that result at a future time.
 
@@ -5158,8 +4324,6 @@ author proceeds now to discuss the view of the Mimâmsakas, who say that Karma (
 
  **40. Jaimini (thinks) for the same reasons (viz. scriptural authority and**
 
-
-
 **reasoning) that religious merit (is what brings about the fruits of actions).**
 
  The view of the previous Sutra is being criticized.
@@ -5174,13 +4338,9 @@ author proceeds now to discuss the view of the Mimâmsakas, who say that Karma (
 
  'But' refutes the view of Sutra 40. Both Karma and Apurva are insentient, and as such incapa ble
 
-
-
 of producing results without the intervention of an intelligent principle. For such a phenomenon is not experienced in the world. No one gets anything by worshipping stocks and stones. So the fruits of actions come only from the Lord, and this is all the more established, as the Lord Himself causes people to act one way or the other; and since the Jiva acts as directed by Him, He Himself is the bestower of the fruits of his actions according to his deserts. "He makes hin. whom He wishes to lead up from these worlds do a good deed” etc. (Kau. 3. 8); "Whichever divine form a devotee wishes to worship...and obtains from it the results he desires, as ordained by Me" (Gitâ 7. 21-22). Since the Lord has regard for the merit and demerit of the souls, the objection that a uniform cause is incapable of pro- ducing various effects does not stand.
 
  In the last four topics the entity "That' has been explained. Firstly, Brahman has been shown to be formless, self-effulgent, and without difference ; secondly, by the denial of manifoldness in It it has been established that It is one without a second; and lastly, It has been proved to be the giver of the fruits of people's actions in the relative world. Thus the two entities 'thou' and 'That' have been explained in these two sections.
-
-
 
 **CHAPTER III**
 
@@ -5189,8 +4349,6 @@ of producing results without the intervention of an intelligent principle. For s
  In the last section the two entities 'thou' and "That' of the Vedic dictum (Mahâvâkya) 'That thou art' have been explained and shown to be identical. Now the scriptures prescribe various meditations that help to attain this knowledge of identity. It is not possible for the ordinary man to grasp the Infinite. Therefore the scriptures present various symbols of Brahman such as Prâna, Âkâsa, and mind, for the beginner to meditate upon. Sometimes they prescribe the cosmic form of Brahman (Vaisvânara) for meditation. These different methods of approaching the infinite Brahman are known as Vidyâs or Upâsanâs.
 
  This section discusses these various Vidyâs, by means of which the individual soul attains Brahmah. In this connection the question naturally arises. whether similar Vidyâs described differently in different recensions of the Vedas are one or different, and consequently to be combined into a single meditation or separately gone through. Here it is decided which Vidyâs are the same and have to be combined into one, and which Vidyâs are different in spite of certain similarities. The principle that is followed throughout in the interpretation of these Vidyâs is
-
-
 
 this: Since Brahman, which is the only reality, is the resulting cognition of all Vidyâs, it may be helpful to combine the particulars of the same Vidyâ mentioned in different Sâkhâs, since they have been found efficacious by the followers of those Sâkhâs.
 
@@ -5206,8 +4364,6 @@ sions of the scriptures are one Vidyâ.***
 
  There are Upâsanâs described variously in different Vedânta texts. For example, the Upâsanâ of Prâna is described in one way in the Brihadâranyaka Upanishad and in a different way in the Chhândogya. Are such Upâsanâs, described differently in different Sâkhâs of the Vedas, different or same ? The opponent holds that they are different, on account of the difference in form. This Sutra refutes it and says that such meditations are one and
 
-
-
 the same, on account of the non-difference as regards injunction, connection, name, and form of these in different Sâkhâs. Just as on account of the injunc- tion in all Sâkhâs, "One should perform the Agnihotra" etc. (Mai.6.36) the daily Agnihotra sacrifice is one only, and as Jyotishtoma and Vâjapeya sacrifices described in different Sâkhâs are one only, so also on account of non-difference as regards injunction such as, "He who knows the oldest and greatest" (Brih.6.1.1.) in both the Brihadâranyaka and the Chhândogya Upanishads, the Prâna Vidyâ in all the Sâkhâs is one and the same. Similarly as regards the fruit or result of the Upâsanâ there is non-difference. "He who knows it to be such becomes the oldest and greatest" (Brih.6.1.1). Prâna, which is the object of the meditation, is described in both as the oldest and greatest, and both the meditations are named Prâna Vidyâ. There- fore there being non-difference in all respects, the two Vidyâs are not different, but one. The same is true of Dahara Vidyâ, Vaisvânara Upâsanâ, Sândilya Vidyâ, etc. described in various Sâkhâs.
 
 **भेदान्नेति चेत्, न एकस्यामपि॥२॥**
@@ -5216,13 +4372,9 @@ the same, on account of the non-difference as regards injunction, connection, na
 
  **2. If it be said (that the Vidyâs are) not (one) on account of difference (in minor points), (we reply) not so, since**
 
-
-
 **even in the same Vidyâ (there might be such minor differences).**
 
  A further objection is raised that since certain differences are seen to exist with respect to the Vidyâs described in different Sâkhâs, they cannot be one. For example, in the Brihadâranyaka in the Panchâgni Vidyâ a sixth fire is mentioned as an object of worship: "The fire becomes his fire" (Brih. 3. 2. 14); whereas in the Chhandogya we have, "But he who knows these five fires" (Chh. 5. 10. 10). There- fore on account of difference in form the two Vidyâs cannot be one. This Sutra refutes it and says that they are one, since even in the same Vidyâ there may be differences of form. The five fires like heaven etc. mentioned in the Chhândogya are identified in the Brihadâranyaka. Therefore there can be no difference in Vidyâ. Nor can the presence or absence of a sixth fire create a difference as regards form, for in the same Atirâtra sacrifice the Shodasi vessel may or may not be taken. On the other hand, on account of the majority of fires being recognized in both, it is reasonable that we should add the sixth fire to the Vidyâ in the Chhândogya. The name 'five fires' is also no objection against this increase of number, for the number five is not an essential part of the injunction. Moreover, even in the same Sâkhâ and in the same Vidyâ differences like this are seen in different chapters; yet the Vidyâ described in these different chapters is taken on all hands as one.
-
-
 
 Therefore in spite of these differences in different Sâkhâs it is reasonable that Vidyâs of the same class are one and not different.
 
@@ -5236,8 +4388,6 @@ because समाचारे that name) in the Samâchâra ( a book of that nam
 
  A further objection is raised. In the Mundaka Upanishad, which deals with the knowledge of Brah- man, the carrying of fire on the head by the student is mentioned. The opponent holds that on account of this particular ceremony, which obtains among the followers of the Atharva Veda, the Vidyâ of the Âtharvanikas is different from all other Vidyâs. The Sutra refutes this saying that the rite of carrying fire on the head is not an attribute of the Vidyâ, but of
 
-
-
 the study of the Vedas of the Âtharvanikas. So it is described in the book Samâchâra, which deals with Vedic observances. From the following text, "A man who has not performed the rite (viz. carrying fire) does not read this" (Mu. 3. 2. 11) also we find it is connected with the reading or study of the Upa- nishad and not with the Vidyâ. The rite of carrying the fire is connected only with the study of that particular Veda and not others, like the seven obla- tions, which are not connected with the fires taught in the other Vedas, but only with those of the Atharva Veda. So the unity of Vidyâs stands in all cases.
 
 **दर्शयति च ॥४॥**
@@ -5247,8 +4397,6 @@ the study of the Vedas of the Âtharvanikas. So it is described in the book Sam�
 ** 4. (The scripture) also instructs thus.**
 
  "That which all the Vedas declare" (Kath. 1. 2. 15) shows that the Nirguna Brahman is the one purport of all the Vedânta texts. Therefore all Vidyâs relating to It must also be one. Thus the meditation on the Saguna Brahman as Vaisvânara, who is represented as extending from heaven to the earth in the Brihadâranyaka, is referred to in the Chhândogya as something well known: "But he who worships that Vaisvânara self as extending from heaven to the earth” (Chh. 5. 18. 1), thereby showing that all Vaišvânara Vidyâs are one. Thus since the Nirguna or the Saguna Brahman is one and not many, therefore particular Vidyâs which relate to
-
-
 
 either of them are also one and not many. This also follows from the same hymns and the like enjoined in one place being employed in other places for the sake of Upâsanâ. The same rule applies to other Vidyâs also besides the Vaisvânara, and in consequence they are not many, though differently described in different Sâkhâs.
 
@@ -5266,8 +4414,6 @@ combined into one meditation.***
 
  From what has been discussed in the previous Sutras it is clear that the Vidyâs described in differ-
 
-
-
 ent Sâkhâs will have to be combined in the Upâsanâ, since their object after all is one. The particulars mentioned in other Sâkhâs than one's own are also efficacious, and as such one has to combine all these, even as one does with respect to subsidiary rites like Agnihotra, connected with a main sacrifice, men- tioned in several Sâkhês.
 
 ***Topic 3: Vidyâs having really different subject-  
@@ -5282,8 +4428,6 @@ are similarities.***
 
  This Sutra represents the view of the opponent, who tries to establish that the two Vidyâs are one. "Then they said to this vital force in the mouth, 'Chant the Udgitha for us.' 'All right', said the vital force and chanted for them” (Brih. 1. 3. 7); "Then this vital force that is in the mouth—they meditated
 
-
-
 on the Udgitha 'Om' as that vital force" (Chh. 1. 2. 7). It may be objected that they cannot be one, because of the difference in texts. But this is unacceptable, because there is unity as regards a great many points. (For the similarity see texts in both.) So on the grounds given in Sutra 3. 3. 1, there is unity of Vidyâs.
 
 **न वा, प्रकरणभेदात् परोवरीयस्त्वादिवत् ॥७॥**
@@ -5294,8 +4438,6 @@ on the Udgitha 'Om' as that vital force" (Chh. 1. 2. 7). It may be objected that
 
  This Sutra refutes the former view and establishes that the two Vidyâs, in spite of similarity in many points, are different on account of difference in subject-matter. In the Chhândogya only a part of the Udgitha (hymn), the syllable ‘Om' is meditated upon as Prâna: "Let one meditate on the syllable 'Om' (of) the Udgitha" (Chh. 1. 1. 1). But in the
 
-
-
 Brihadâranyaka the whole Udgitha hymn is meditated upon as Prâna. Vide Brih. 1. 8. 2. On account of this difference in the object of meditation the two Vidyâs cannot be one. The case is similar to the Upasanâ on Udgitha enjoined in. "This is indeed the highest and greatest Udgitha" (Chh. 1. 9. 2), which is different from the one enjoined in the Chhândogya 1. 5, where the Udgitha is meditated upon as abiding in the eye and the sun.
 
 **संज्ञातश्चेत्, तदुक्तम् अस्ति तु तदपि ॥८॥**
@@ -5305,8 +4447,6 @@ Brihadâranyaka the whole Udgitha hymn is meditated upon as Prâna. Vide Brih. 1
  **8. If on account of the name (of both Vidyâs being the same, it be said that they are one), it has already been answered. But even that (identity of name in Vidyâs admitted to be different) exists.**
 
  Identity of name is no reason for claiming unity of Vidyâs, since the subject-matter differs. This has already been established in the last Sutra. Moreover, it is borne out by the scriptures. For example, the different sacrifices like Agnihotra, Darsapurnamâsa, etc., which all occur in Kâthaka, are known as Kathakas; or even the Udgitha Upâsanâs of Chh. 1. 6 and Chh. 1. 9. 2 are different Vidyâs.
-
-
 
 ***Topic 4: Specializing the 'Om' of the Udgitha  
 Vidyâis apt, as 'Om' is common to all the Vedas.***
@@ -5327,8 +4467,6 @@ Vidyâis apt, as 'Om' is common to all the Vedas.***
 
  **10. On account of the non-difference (of the Vidyâ) everywhere (i.e. in all the texts of the different Sâkhâs where the Prâna Vidyâ occurs) these qualities (mentioned in two of them are to be inserted)**
 
-
-
 **in the other places (e.g. the Kaushitaki Upanishad).**
 
  In the Chhândogya and Brihadâranyaka Upanishads in the Prâna Vidyâ we find the qualities of speech etc. as being richest and so on, are ultimately attributed to Prâna but not so in the Kaushitaki Upanishad, for instance. The question is whether they are to be inserted in the Kaushitaki also, where they are not mentioned. The Sutra says that they have to be inserted, since the Vidyâ is the same in all the three Upanishads. Attributes of one and the same Vidyâ have to be combined wherever that Vidyâ occurs, although they may not be expressly mentioned.  
@@ -5342,8 +4480,6 @@ Vidyâis apt, as 'Om' is common to all the Vedas.***
 
  Brahman is described as Bliss, Knowledge, all- pervading, the self of all, true, etc. in different texts
 
-
-
 of different Sâkhâs. \[3.8.11 All the attributes are not men- tioned in all places. Now the question is whether they have to be combined in the meditation on Brah- man or not. This Sutra says that they have to be combined, since the object of meditation (Brahman) is one and the same in all Sâkhâs, and therefore the Vidyâ is one.
 
 **प्रियशिरस्त्वाद्यप्राप्तिः, उपचयापचयौ हि भेदे ॥१२॥**
@@ -5353,8 +4489,6 @@ of different Sâkhâs. \[3.8.11 All the attributes are not men- tioned in all pl
  **12. (Qualities like) joy being Its head etc. are not to be taken everywhere, (being subject to increase and decrease and) increase and decrease (are possible only) if there is difference (and not in Brahman in which there is non-difference).**
 
  Attributes like joy being Its head etc. mentioned in the Taittiriya Upanishad are not to be taken and combined in other places where the Upâsanâ of Brahman is enjoined, because the terms ‘joy', 'satisfaction', 'great satisfaction', 'bliss', etc. indicate qualities which have increase and decrease relatively to each other and to other experiencers (Jivas), and therefore can exist only where there is difference. But Brahman being absolutely without any difference, these attributes cannot constitute Its nature, and as such
-
-
 
 they are to be confined to the texts prescribing them and not taken in other places.
 
@@ -5377,8 +4511,6 @@ ing that the Self is higher than everything else.***
 
  "Higher than the senses are the objects, higher
 
-
-
 than the objects there is the mind... higher than the Self there is nothing, this is the limit, the Supreme Goal" (Kath. 1. 3. 10-11). The opponent holds that these sentences are separate and not one, as referring to the Âtman alone; therefore it is the aim of the Sruti to teach that the objects are superior to the senses, and so on. This Sutra refutes it and says that it is one sentence and means that the Âtman is superior to all these. This information is given for the sake of meditation on the Âtman, which results in the knowledge of It. The Âtman alone is to be known, for the knowledge of It gives Freedom. But the knowledge of the fact that objects are superior to the senses and so on, serves no useful purpose, and as such it is not the aim of the Sruti to teach this.
 
 **आत्मशब्दाच्च॥१५॥**
@@ -5388,8 +4520,6 @@ than the objects there is the mind... higher than the Self there is nothing, thi
 ** 15. And on account of the word 'Self'**
 
  The view established in the last Sutra is confirmed by the fact that the subject of the discussion is called the Self. "That Self is hidden in all beings and does not shine forth" (Kath. 1. 3. 12), thereby hinting that the other things are non-Self. But the enumeration of the series is not altogether useless, inasmuch as it helps to turn the mind, which is outgoing, gradually towards the Âtman, which is hard to realize without deep meditation.
-
-
 
 ***Topic 8: The self referred to in Ait. 1. 1 is the  
 Supreme Self and consequently the attributes of the  
@@ -5404,8 +4534,6 @@ Aitareyaka meditation.***
 
  "Verily in the beginning all this was the Self, one only; there was nothing else whatsoever" etc. (Ait. 1.1.). Does the word 'Self' here refer to the Supreme Self or to Hiranyagarbha ? It refers to the Supreme Self, even as the word 'Self' in other texts dealing with creation refers to It and not to Hiranyagarbha "From theSelf sprang forth ether (Taitt. 2. 1). Why?Because in the subsequent text of the Aiteraya we have, “It thought, 'Shall I send forth worlds ?' It sent forth these worlds" (Ait. 1. 1-2). This qualification, viz. that ‘It thought' before creation, is applied to Brahman in the primary sense in other Sruti texts. So from this we learn that the Self refers to the Supreme Self and not to Hiranyagarbha.
 
-
-
 **अन्वयादिति चेत्, स्यात् अवधारणात्॥१७॥**
 
  अन्वयात् Because of the context इति चेत् if it be said स्यात् it might be so अवधारणात् on account of the definite statement.
@@ -5415,8 +4543,6 @@ Aitareyaka meditation.***
   In the Aitareya Upanishad 1. 1 the Self is said to have created the four worlds. But in the Taittiriya and other texts the Self creates ether, water, etc.—the five elements. Now it is well known that creation of the worlds is by Hiranyagarbha with the help of the elements created by the Supreme Self. So the Self in the Aitareya cannot mean the Supreme Self but Hiranyagarbha. The Sutra refutes it and says that on account of the statement, "Verily in the beginning all this was the Self, one only” (Ait. 1. 1), which declares that there was one only without a second, it can only refer to the Supreme Self and not to Hiranyagarbha. Therefore we have to take that the Supreme Self after creating elements as described in other Sâkhâs created the four worlds.
 
  The object of Sutras 16 and 17 in establishing that the Supreme Self is meant is that the attributes
-
-
 
 of the Supreme Self given in other places are to be combined in the Aitareyaka meditation.
 
@@ -5430,8 +4556,6 @@ of the Supreme Self given in other places are to be combined in the Aitareyaka m
 
  In the Chhândogya 5. 2. 2. and the Brihadâranyaka 6. 1. 14 we find a reference to the rinsing of the mouth with water before and after a meal, thinking that thereby Prâna is dressed. The question is whether the Sruti enjoins both or only the latter. The Sutra states that since the former, the act of rinsing, is already enjoined on every one by the Smriti, the latter act of thinking the water as the dress of Prâna is alone enjoined by the Sruti.
 
-
-
 ***Topic 10: Vidyâs in the same Sâkhâ which are  
 identical or similar have to be combined, for they  
 are one.***
@@ -5443,8 +4567,6 @@ are one.***
 ** 19. In the same Sâkhâ also (it is) like this (i.e. there is unity of Vidyâ), on account of the non-difference (of the object of meditation).**
 
  In the Agnirahasya in the Vâjasaneyi Sâkhâ there is a Vidyâ called Sândilya Vidyâ, in which occurs the passage, "Let him meditate on the Self which consists of mind” etc. (Sat. Br. Madhy. 10. 6. 3. 2). Again in the Brihadâranyaka, which belongs to the same Sâkha we have, "This Being identified with the mind” etc. (Brih. 5. 6. 1). Do these two passages form one Vidyâ, in which the particulars mentioned in either text are to be combined, or are they different Vidyâs? The Sutra says that they are one Vidyâ, since the object of meditation in both cases is the Self consisting of mind. The rule as regards the combining of particulars of a similar Vidyâ in the same Sâkhâ is the same as in the case of such Vidyâs occurring in different Sâkhâs. Therefore the Sândilya Vidyâ is one.
-
-
 
 ***Topic 11: The names 'Ahar' and 'Aham' of the  
 Supreme Brahmar as abiding in the sun and in the  
@@ -5458,8 +4580,6 @@ he combined, as these are two separate Vidyâs.***
 ** 20. In other cases also (e.g. in the Vidyâ of the Satya Brahman) on account of the connection (i.e. the object of the meditation being the Satya Brahman) (we have to combine particulars) like this (i.e. as in the Sândilya Vidyâ).**
 
  This Sutra sets forth the view of the opponent. "Satya is Brahman. That which is Satya is that sun—the being who is in that orb and the being who is in the right eye" (Brih. 5. 5. 1-2). This gives the abode of the Satya Brahman with respect to the gods and the body, and two secret names of the Satya Brahman are also taught in connection with these abodes; the former is 'Ahar' and the latter 'Aham'. Now on the analogy of the Sândilya Vidyâ, since the object of meditation is one, viz. the Satya Brahman, we must combine the particulars. Therefore both the names 'Ahar' and 'Aham' have to be combined with respect to Satya Brahman.
-
-
 
 **न वा, विशेषात्॥२१॥**
 
@@ -5483,15 +4603,11 @@ he combined, as these are two separate Vidyâs.***
 
  सम्भृतिः Supporting (the universe) द्युव्याप्तिःpervading
 
-
-
 the sky अपि also च and अतःfor the same reason (as in the previous Sutra).
 
 ** 23. For the same reason (as in the previous Sutra) the supporting (of the universe) and pervading of the sky (attributed to Brahman in the Rânâyaniya- khila) also (are not to be included in other Upâsanâs of Brahman).**
 
  In a supplementary text of the Rânâyaniyas there occurs the passage, "The powers, which were collected together, were preceded by Brahman; the pre-existent Brahman in the beginning pervaded the whole sky." Now these two qualities of Brahman are not to be included in other places treating of Brahma Vidyâ for the same reason as is given in the last Sutra, viz. difference of abode. Moreover, these qualities and those mentioned in other Vidyâs like the Sândilya Vidyâ are of such a nature as to exclude each other, and are not suggestive of each other. The mere fact of certain Vidyâs being connected with Brahman does not constitute their unity. Brahman, though one, is, on account of its plurality of powers, meditated upon in manifold ways. The conclusion therefore is that the Upâsanâ referred to in this Sutra is an independent Vidyâ standing by itself.
-
-
 
 ***Topic 13: The Purusha Vidyâin the Chhândogya  
 and the Taittiriya are not one.***
@@ -5503,8 +4619,6 @@ and the Taittiriya are not one.***
 ** 24. And (since the qualities) as (mentioned) in the Purusha Vidyâ (of the Chhândogya) are not mentioned (in that) of the others (i.e. in the Taittiriya) (the two Purusha Vidyâs are not one).**
 
  In the last Sutra the Vidyâs were held to be different as there was no recognition of the fundamental attribute of the one Vidyâ in the other. This Sutra cites an example where such a fundamental attribute occurs in both. On this ground the opponent argues that the two Vidyâs are one. In the Chhândogya there is a Vidyâ about man in which he is identified with the sacrifice : "Man is the sacrifice." " In the Taittiriya Âranyaka (10. 64) also occurs a similar Vidyâ where man is so identified: "For him who knows thus, the self of the sacrifice is the sacrificer" etc. The fundamental attribute referred to is that man is identified with sacrifice in both. This Sutra says that in spite of this, the two Vidyâs are not one, for the details differ. Moreover, the result of the Vidyâ in the Taittiriya is the attainment of the greatness of
-
-
 
 Brahman, while that of the Chhândogya is long life. Therefore the two Vidyâs are separate, and there can be no combination of particulars in the two places.
 
@@ -5521,8 +4635,6 @@ in the Upanishads.***
 ** 25. (Certain Mantras relating to) piercing etc. (are not part of the Vidyâs though mentioned near by) because they have a different meaning**
 
   At the beginning of the Upanishad of the Âtharvanikas we have, "Pierce the whole (body of the enemy), pierce his heart” etc. Similarly at the beginning of other Upanishads of other Sâkhâs we have Mantras. The question is, whether these Mantras and the sacrifices referred to in the Brâhmanas in close proximity to the Upanishads are to be combined with the Vidyâs prescribed by these Upanishads. The Sutra says that they are not to be combined, for their meaning is different, inasmuch as they indicate acts of a sacrifice and therefore have no connection with the Vidyâs. The piercing, for
-
-
 
 example, is connected with some ceremony to destroy one's enemy.
 
@@ -5541,15 +4653,11 @@ good and evil Karma by such a person is mentioned.***
 
  Having dealt with the combination of particulars
 
-
-
 with respect to similar Vidyâs, the author now proceeds to deal with the combination of the effects with respect to the Upàsaka.
 
  Jaimini has said that statements with respect to Kusas, metres, praise, and hymns have to be completed from other texts. In some places Kusas are simply mentioned, but another text specifies that they are to be made of fig wood. The first Sruti will have to be completed in the light of the other. Similarly with respect to metres, praise, and recitation. This principle is here applied to the effects of the Upâsaka's actions in connection with the Vidyâs mentioned in the Upanishads. We find certain texts mention the discarding of good and evil by a person attaining Knowledge. Vide Chh. 8. 13. Another text not only mentions this, but also adds that the good and evil are obtained by his friends and enemies respectively. Vide Kau. 1. 4. This Sutra says that the obtaining of the good and evil by his friends and enemies has to be inserted in the Chhândogya text, according to Jaimini's principle explained above.
 
  This Sutra may also be explained in another way if the discussion on 'discarding' is different. It may be argued that the verb 'Dhu' in the text of the Chhândogya and Kaushitaki may be interpreted as trembling and not as getting rid of, in which case it would mean that good and evil still cling to a person who attains Knowledge, though their effects are retarded owing to the Knowledge.
-
-
 
 This Sutra says that such a meaning is not correct, for the subsequent portion of the text in the Kaushitaki shows that others get this good and evil, and this is not possible unless the person who attains Knowledge discards them.
 
@@ -5565,8 +4673,6 @@ death and not on his way to Brahmaloka***
 
  The question is raised as to when the individual soul gets rid of the effects of its good and evil works. "He comes to the river Virajâ and crosses it by the mind alone, and there he shakes off good and evil" (Kau. 1. 4). On the basis of this text the opponent holds that the effects are got rid of on the way to Brahmaloka and not at the time of death. This Sutra refutes it and says that the man of realization gets rid of them at the time of death. The Sanchita
 
-
-
 and Âgâmi Karma (work) is destroyed with Know- ledge and the Prârabdha is destroyed at death. So at the time of death he is rid of all effects of his good and evil deeds. The reasons for this conclusion are: On the way to Brahmaloka, the destina- tion of the knower of Brahman, it is not possible to discard good and evil effects for then the soul has no gross body, and so cannot practise any Sâdhanê that will destroy them. Nor does the soul experience anything on the way, for which one would have to admit the persistence of good and evil till then. Rather they are destroyed by the Vidyâ practised by the aspirant before he leaves the body. The scripture also says, "Having shaken off his evil as a horse shakes off his hairs" etc. (Chh. 8. 13. 1). Moreover, it is not possible to cross the river Virajâ unless one is free from all good and evil. Therefore we have to take it that all the good and evil are discarded at the time of death and the Kaushitaki text has to be explained accordingly
 
 **छन्दतः, उभयाविरोधात्॥२८॥**
@@ -5574,8 +4680,6 @@ and Âgâmi Karma (work) is destroyed with Know- ledge and the Prârabdha is des
  छन्दतःAccording to his liking उभय-अविरोधात् on account of there being harmony between the two.
 
 ** 28. (The interpretation that the individual soul practising Sâdhanâ) ac- cording to his liking (gets rid of good and evil while living, is reasonable) on account of there being harmony (in that case)**
-
-
 
 **between the two (viz. cause and effect as well as between the Chhândogya and another Sruti)**
 
@@ -5591,8 +4695,6 @@ not the knower of the Nirguna Brahman.***
 
 ** 29. (The soul's) journey along the path of the gods is applicable in two ways (i.e. differently), for otherwise (there would result) a contradiction.**
 
-
-
  A question is raised that just as the getting rid of good and evil is understood as being followed by their acceptance by others, so also the journey after death along the Devayâna, the path of the gods, which is sometimes mentioned as following the discarding of good and evil, is common to all Upâsakas, those of the Nirguna as well as the Saguna Brahman. This Sutra says that it is true only of the worshipper of the Saguna Brahman, for Brahmaloka being located elsewhere in space, the journey has a meaning in his case only. But the knowledge which results from absorption in the Nirguna Brahman is merely the destruction of ignorance. So what meaning has journey for such a person. If the journey applies to him also, then it would contradict Sruti texts like, "Shaking off good and evil, free from passions, he reaches the Highest Unity" (Mu. 3. 1. 3). How can one who has become Brahman, the pure, the one without movement, go to another place by Devayâna. Since he has already attained his goal, viz. unity, the journey along the Devayâna is meaningless for him. Therefore the worshipper of the Saguna Brahman alone goes by the Devayâna.
 
 **उपपन्नः, तल्लक्षणार्थोपलब्धेः, लोकवत्॥३०॥**
@@ -5600,8 +4702,6 @@ not the knower of the Nirguna Brahman.***
  उपपन्नःIs reasonable तत्-लक्षणार्थ उपलब्धेः for the characteristics which render such journey possible are seen लोकवत् as in the world.
 
 ** 30. (The differentiation mentioned above) is reasonable, for the characteristics**
-
-
 
 **which render such a journey possible are seen (in the case of Saguna Upâsanâ but not in that of Nirguna Upâsanâ); as (is seen) in the world.**
 
@@ -5618,15 +4718,11 @@ specifically mentioned***.
 
  अनियमः(There is no ) restriction सर्वासाम् (Devayâna
 
-
-
 applies equally) to ali (Vidyâs of the Saguna Brahman) अविरोधः there is non-contradiction शब्द-अनुमानाभ्याम्as is seen from the Sruti and Smriti.
 
  **31. (The passage of the soul by the path of the gods) is not restricted (only to certain Vidyâs of the Saguna Brahman); (it applies equally) to all (Vidyâs of the Saguna Brahman). There is no contra- diction, as is seen from the Sruti and Smriti**
 
   In the Panchâgni Vidyâ of the Chhândogya the result of such a meditation is said to be the passage after death to Brahmaloka by the path of the gods (Devayâna). But such a result is not explicitly stated in the case of the Vaisvânara Vidyâ. The question is whether through this Vidyâ also one This goes after death along the Devayâna or not. Sutra says that all worshippers of the Saguna Brahman, whatever their Vidyâs, go after death by this path. For so it is seen from the Sruti and Smriti. "Those who meditate thus (through Panchâgni Vidyâ) and also those who meditate in the forest endowed with Sraddha and Tapas go by the path of the gods" (Chh. 5. 10. 1). This text clearly shows that those who meditate upon these five fires, and those dwellers in the forest who, endowed with faith and austerity, worship the Saguna Brahman through any other Vidyâ, both go by the
-
-
 
 path of the gods.For the support of this view by the Smriti see Gitâ 8. 26.
 
@@ -5641,8 +4737,6 @@ fulfilment of some divine mission.***
 
  Rishi Apântaratama was born again as Vyâsa. Sanatkumâra was born as Skanda. So also other Rishis like Vasishtha and Nârada were born again. Now these Rishis had attained the knowledge of Brahman, and yet they had to be reborn. If that is so, what is the utility of such knowledge of Brahman?—says the opponent. This Sutra refutes it and says that ordinarily a person after attaining Knowledge is not reborn. But the case of those who have a divine mission to fulfil is different. Those perfected sages have one or more births until their mission is fulfilled, after which they are not born again. But then they never come under the sway of ignorance although they may be reborn. Their case is analogous to that of a Jivanmukta, who even after attaining Knowledge continues his corpo-
 
-
-
 real existence as long as the Prârabdha Karma lasts. The divine mission of these people is comparable to the Prârabdha Karma
 
 ***Topic 20: The negative attributes of Brahman  
@@ -5656,11 +4750,7 @@ in all meditations on Brahman.***
 
 ** 33. But the conceptions of the (negative) attributes of the Immutable (Brahman) are to be combined (from different texts where the Immutable Brahman is treated, in all meditations on the Immutable Brahman, as they form one Vidyâ), on account of the similarity (of defining the Immutable Brahman through denials) and the object (the Immutable Brahman) being the same, as in the case of the Upasad (offerings). It has been said (by Jaimini in Purva Mimâmsâ).**
 
-
-
  “O Gârgi, the knowers of Brahman say this Immutable (Brahman) is that. It is neither gross nor minute, neither short nor long” etc. (Brih. 3. 8. 8). Again we have, “The supreme knowledge is that by which the Immutable (Brahman) is attained. That which is imperceivable, ungraspable” etc. (Mu. 1. 1. 5-6). The question is whether the negative attributes in these two texts are to be combined so as to form one Vidyâ, or they are to be treated as two separate Vidyâs. The opponent holds that these attributes do not directly specify the nature of Brahman like the positive attributes, bliss, truth, etc., and so the principle established in Sutra 3. 3. 11 does not apply here, for no purpose is served by such a combination. So each denial is valid only for the text in which it occurs and not for other places. This the Sutra refutes and says that such denials are to be combined, for the method of teaching Brahman through denial is the same, and the object of instruction is also the same, *viz*. the Immutable Brahman. The rule of Sutra 3. 3. 11 applies here also, though there we were concerned with positive attributes and here with negative attributes which teach Brahman by an indirect method. The case is analogous to the Upasad offerings. The Mantras for giving these offerings are found only in the Sâma-Veda. But the priests of the Yajur-Veda use this Mantra given in the other Veda. This principle is decided by Jaimini in Purva Mimâmsâ. Similarly here also in the meditation on
-
-
 
 the Immutable (Brahman) the negative attributes have to be combined.
 
@@ -5675,8 +4765,6 @@ form one Vidyâ.***
 
  “Two birds of beautiful plumage. . . one of them eats the sweet and bitter fruits thereof, the other witnesses without eating” (Mu. 3. 1. 1). Again we have, “There are the two . . . enjoying the results of their good deeds” etc. (Kath. 1. 3. 1). In these two texts do we have two different Vidyâs, or one only ? The opponent holds that these are two Vidyâs, for unlike the meditation on the Immutable, where the object of meditation was one, as shown in the previous Sutra, here there are different objects of meditation. That it is so is clear, for of the texts cited above, the Mundaka text says only one eats the fruit, while the other does not; in Katha, however, both of them enjoy the results of their good actions. So the object of meditation is not identical. The Sutra refutes it and says that they form one Vidyâ, for both describe the same Lord as existing thus and thus, *i.e.* in the form of the Jiva. In other words, the object of the two texts
 
-
-
 is to teach about the Supreme Brahman and show the identity of the Jiva and Brahman. It has been explained in 1. 2. 11 that the Supreme Lord does not actually enjoy the fruits of actions, but is said to do so because of His being mentioned along with the Jiva, which does, as when we say, ‘The men with the umbrella’, where only one of them has the umbrella. Therefore the object of the meditation being one, the Vidyâs are also one.
 
 ***Topic 22: Brihadâranyaka 3.4.1 and 3.5.1***  
@@ -5690,8 +4778,6 @@ is to teach about the Supreme Brahman and show the identity of the Jiva and Brah
 
  In the Brihadâranyaka we find Ushasta questioning Yajnavalkya thus: “Explain to me the Brahman that is immediate and direc—the self that is within all”; and Yâjnavalkya replies: “That which breathes through Prâna is your self, that is within all” (Brih. 3. 4. 1). In the same Upanishad 8. 5. 1, to the same question put by Kahola, Yâjnavalkya replies: “That which transcends hunger and thirst, grief and delusion, decay and death. Knowing this very Self” etc. The opponent holds that these two are separate
 
-
-
 Vidyâs, because the answers given being different, the objects referred to must be different. The Sutra refutes this and says that the object is one, the Supreme Self, for it is impossible to conceive two Selves being simultaneously innermost of all in the same body, even as none of the five elements constituting the body can be the innermost of all in the true sense of the term, though relatively one element can be inside another. Similarly one Self alone can be the innermost of all. Therefore the same Self is taught in both the answers.
 
 **अन्यथा भेदानुपपत्तिरिति चेत्, न, उपदेशा  
@@ -5702,8 +4788,6 @@ Vidyâs, because the answers given being different, the objects referred to must
 ** 36. If it be said (that the two Vidyâs are separate, for) otherwise the repetition cannot be accounted for, (we say) not so; (it is) like (the repetition) in another instruction (in the Chhândogya).**
 
  An objection is raised that unless the two texts refer to two different Selves, the repetition of the same subject would be meaningless. This Sutra says that it is not like that. The repetition has a significance. It is intended to make the student understand the subject more convincingly from different angles, and So the repetition does not
-
-
 
 justify us to take that two different Selves are taught here, even as the repetition of the teaching ‘Thou art That’ nine times does not entitle us to take the whole teaching in the Chhândogya as more than one Vidyâ. The difference in answer is due to the fact that the second answer tells something special about the Self. In the first it is taught that the Self is different from the body; in the second, that It is beyond relative attributes.
 
@@ -5717,8 +4801,6 @@ justify us to take that two different Selves are taught here, even as the repeti
 
  In the Aitareya Âranyaka we have, “What I am, that He is; what He is, that am I” (2. 2. 4. 6). The question here is whether the meditation is to be of a reciprocal nature, i.e. identifying the worshipper with the being in the sun, and then, inversely, identifying the being in the sun with the worshipper; or only in the first named way. The opponent holds that the meditation is to be one way only and not in the reverse way also. For the first meditation has a meaning, inasmuch as it raises the Jiva to the
 
-
-
 level of Brahman; but lowering Brahman to the Jiva state is meaningless. The present Sutra refutes this view and says that the meditation is to be both ways, for otherwise such a statement would be useless. Sruti expressly prescribes the reverse meditation, even as it prescribes elsewhere that the Lord is to be meditated upon as having true determination (Satya Sankalpa) and so on. This is not lowering Brahman, since He who has no body can be worshipped even as possessing a form.
 
 ***Topic 24: Brihadaranyaka 5. 4. 1 and 5. 5. 2 treat of one Vidya about Satya Brahman.***
@@ -5731,8 +4813,6 @@ level of Brahman; but lowering Brahman to the Jiva state is meaningless. The pre
 
  In the Brihadâranyaka 5. 4. 1 we have, “He who knows this great, adorable, first born (being) as the Satya Brahman, conquers these worlds.” Again in 5. 5. 2 we have, “That which is Satya is that sun—the being who is in that orb and the being who is in the right eye. . . he destroys evils.” Are these two Satya-Vidyâs one or different ? the The Sutra says thatthey are one, inasmuch as second text refers to the Satya of the earlier text by saying, “That which is Satya” etc. But it may be said that the result of
 
-
-
 these two meditations is different, as is seen from the texts: In the first it is said that such a person conquers these worlds, and in the second, that he destroys evils. In reality, however, there is only one result in both cases, and the mention of result in the latter case is merely by way of praise of the further instruction given about Satya.
 
  ***Topic 25: Attributes mentioned in Chh. 8. 1. 1 and Brih. 4. 4. 22 are to be combined on account of a number of common features in both the texts.***
@@ -5744,8 +4824,6 @@ these two meditations is different, as is seen from the texts: In the first it i
  **39. (Qualities like true) desire etc. (mentioned in the Chhândogya are to be inserted) in the other (i.e. in the Brihadâranyaka) and (those mentioned) in the other (i.e. in the Brihadâranyaka are also to be inserted in the Chhândogya), on account of the abode etc. (being the same in both).**
 
  In the Chhândogya 8. 1. 1 we have, “There is the city of Brahman and in it the palace-like lotus and in that the small ether... That is the Self” etc. Again in the Brihadâranyaka 4. 4. 22 we have, “That
-
-
 
 great birthless Self which is identified with the intellect. . . lies in the ether that is within the Heart.” The question is whether the two constitute one Vidyâ and hence the particulars are to be combined, or not. The Sutra says that they form one Vidyâ, and the qualities mentioned in each are to be combined in the other, for many points are common to both. There is the same abode, the same Lord is the object of meditation, and sc on. There is, however, one difference between the two texts. The Chhândogya treats of the Saguna Brahman while the Brihadâranyaka treats of the Nirguna Brahman. But then as the Saguna Brahman is in reality one with the Nirguna, this Sutra prescribes combination of qualities for glorifying Brahman, and not for the purpose of Upâsanâ.
 
@@ -5762,8 +4840,6 @@ on days of fast.***
 
  In the Vaisvânara Vidyâ of the Chhândogya the Upâsaka, before he takes his meals is asked first to
 
-
-
 offer food to each of the Prânas, saying, “To Prâna I offer this.” The Sruti attaches such importance to this Prânâgnihotra that it enjoins food to be offered to the Prânas even before entertaining guests, whom all Hindus are supposed to attend before they take any food. The question is whether this Prânâgnihotra is to be observed even on days of fasting. This Sutra says that there should be no omission of it, and so it must be observed even on fast days by sipping at least a few drops of water. since the Sruti attaches such importance to it.
 
 **उपस्थितेऽतः, तद्वचनात् ॥ ४१ ॥**
@@ -5773,8 +4849,6 @@ offer food to each of the Prânas, saying, “To Prâna I offer this.” The Sru
  **41. When food is served, from that (the Prânâgnihotra is to be performed), for so (the Sruti) declares.**
 
  This refutes the view expressed in the last Sutra and says that the Prânâgnihotra need not be performed on fasting days, for the Sruti says, “Therefore the first food which comes is meant for Homa. And he who offers that first oblation should offer it to Prâna, saying Svahâ” (Chh. 5. 19. 1). The importance given by the Sruti is only to the effect that the first portion of the food, on those days when it is taken, should be offered to the Prânas, and not that it should be observed even on fasting days
-
-
 
 ***Topic 27: Upâsanâs mentioned in connection with certain sacrifices are not parts of them and hence are not inseparably connected with them.***
 
@@ -5787,8 +4861,6 @@ offer food to each of the Prânas, saying, “To Prâna I offer this.” The Sru
 
  The question whether certain Upâsanâs mentioned with some sacrifices are part of those sacrifices and therefore inseparably connected with them, is taken up for discussion. This Sutra says that such Upâsanâs do not form a part of the sacrifice, for there is no rule as to their inseparability. On the other hand the scripture clearly says that the sacrifice can be performed with or without them. “Therefore both he who knows this, and he who does not, perform the sacrifice” (Chh. 1. 1. 10). See also Chh. 1. 10. 9. The Sruti, moreover, mentions a separate effect of the Upâsanâs apart from that of the sacrifice, viz. the non-obstruction (i.e. enhancement) of the results of the sacrifice. “The sacrifice which a man
 
-
-
 performs with knowledge etc. is more powerful” (Chh. 1. 1. 10). It means that the original sacrifice would have got its own results, but the Upâsanâ enhances those results. So the results of the sacrifice with or without the Upâsanâ are different. Therefore the Upâsanâ does not form part of the sacrifice, and hence may or may not be performed according to the pleasure of the sacrificer. Non-obstruction may be explained thus: The sacrifice without the Upâsanâ would have had the prescribed results, but the Upâsanâ prevents any obstruction to those results. This, however, does not make it a part of the sacrifice. Sometimes the results of the sacrifice are delayed owing to the intervention of any bad Karma of the sacrificer, but the Upâsanâ destroys the effect of that, and the results are attained earlier. Here, however, the sacrifice does not depend upon the Upâsanâ for its results, though they might have been delayed. Hence the Upâsanâ is not a part of the sacrifice, and is therefore optional.
 
 ***Topic 28: Meditations on Vâyu and Prâna are to be kept separate in spite of the essential oneness of these two.***
@@ -5798,8 +4870,6 @@ performs with knowledge etc. is more powerful” (Chh. 1. 1. 10). It means that 
  प्रदानवत् As in the case of the offerings एव exactly तत् that उक्तम् has been stated.
 
  **43. (The meditations on Vâyu and Prâna are different owing to their different**
-
-
 
 **functions, though the two are essentially one); (it is) exactly as in the case of the offerings (of cakes to Indra the ruler, the monarch, and the sovereign separately). This ha been stated (by Jaimini in Purva Mimâmsâ-Sutras).**
 
@@ -5811,8 +4881,6 @@ performs with knowledge etc. is more powerful” (Chh. 1. 1. 10). It means that 
 
  लिङ्गा-भूयस्त्वात् On account of the abundance of indicatory marks तत् it (an indicatory mark) हि for बलीयः is stronger तत् that अपि also.
 
-
-
 ** 44.On account of the abundance of indicatory marks (the fires of the mind, speech, etc. in the Agnirahasya of the Vâjasaneyins do not form part of the sacrifice), for it (an indicatory mark) is stronger (than the context). That also (has been stated by Jaimini).**
 
  In Agnirahasya of the Satapatha Brâhmana certain fires, named after mind, speech, eyes, etc. are mentioned. The question is whether these form part of the sacrifice mentioned therein, or form an independent Vidyâ. The Sutra says that in spite of the prima facie view which arises from the context, these constitute an independent Vidyâ. For there are many indicatory marks to show that these fires form a Vidyâ ; and indicatory marks are more forceful than the context, according to Purva Mimâmsâ.
@@ -5822,8 +4890,6 @@ performs with knowledge etc. is more powerful” (Chh. 1. 1. 10). It means that 
  पूर्व-विकल्पः Alternative forms of the one mentioned first प्रकरणात् on account of the context स्यात् ought to be क्रिया part of the sacrifice मानसवत् like the imaginary drink.
 
 ** 45. (The fires spoken of in the previous Sutra are) alternative forms of the one mentioned first (i.e. the actual sacrificial fire) on account of the context;**
-
-
 
 **(they) ought to be part of the sacrifice like the imaginary drink.**
 
@@ -5843,8 +4909,6 @@ performs with knowledge etc. is more powerful” (Chh. 1. 1. 10). It means that 
 
 ** 47. But (the fires) rather form a Vidyâ, because (the Sruti) asserts it.**
 
-
-
  ‘But’ refutes the opponent. The Sutra says that the fires constitute a Vidyâ, for the text asserts that “They are made of knowledge only,” and that “By knowledge and meditation they are made for him.”
 
 **दर्शनाच्च ॥ ४८ ॥**
@@ -5863,8 +4927,6 @@ performs with knowledge etc. is more powerful” (Chh. 1. 1. 10). It means that 
 
  The Sruti directly says, “All these fires are kindled with knowledge alone.” The indicatory mark is this: “All beings kindle these fires for him, even when he is asleep.” This continuity of the fires indicates that they are mental ones. An actual sacrifice is not continued during sleep. The syntactical connection is: “Through meditation alone are
 
-
-
 these fires of the worshipper kindled.” These three are more forcible than mere context.
 
 **अनुबन्धादिभ्यः प्रज्ञान्तरपृथक्त्ववत्, दृष्टश्व,  
@@ -5878,8 +4940,6 @@ these fires of the worshipper kindled.” These three are more forcible than mer
 
  The fires form a separate Vidyâ, even as the Sândilya Vidyâ, Dahara Vidyâ, etc. form separate
 
-
-
 Vidyâs, although mentioned along with sacrificial acts. Moreover, it is seen in the sacrificial portion of the Vedas the sacrifice Âveshti, though mentioned along with the Râjasuya sacrifice, is yet regarded as an independent sacrifice by Jaimini in his Purva Mimâmsâ-Sutras.
 
 **न सामान्यादपि, उपलब्धः, मृत्युवत्, नहि  
@@ -5891,8 +4951,6 @@ Vidyâs, although mentioned along with sacrificial acts. Moreover, it is seen in
 
  This Sutra refutes the argument of the opponent given in Sutra 45. The resemblance cited by the opponent there cannot stand, for on account of the reasons already adduced, *viz*. the Sruti, indicatory mark, etc., the fires in question subserve the purpose of man only, and not any sacrifice. Mere resemblance cannot justify the opposite view. Anything can
 
-
-
 resemble anything in certain respects; still the things are different. The resemblance cited is like the common epithet ‘death’ applied to fire and the being in the sun. “The being in that orb is death indeed” (Sat. Br. 10. 5. 2. 8). “Fire is death” (Brih. 3. 2. 10). This resemblance cannot make fire and the being in the sun one. Again we have: “This world is a fire indeed, O Gotama, the sun its fuel” etc. (Chh. 5. 4. 1). Here from the similarity of fuel and so on the earth does not actually become fire.
 
 **परेण च शब्दस्य ताद्विध्यम्, भूयस्त्वात्त्वनुबन्धः ॥ ५२ ॥**
@@ -5902,8 +4960,6 @@ resemble anything in certain respects; still the things are different. The resem
  52. And from the subsequent (Brâhmana) the fact of the text (under discussion) being such (*i.e*. enjoining a separate Vidyâ) (is known). But the connection (of the imaginary fires with the actual fire is) on account of the abundance (of the attributes of the latter that are imagined in these fires).
 
  In a subsequent Brâhmana we have, “By knowledge they ascend there where all wishes are attained.Those skilled in works do not go there” etc. Here Vidyâ is praised and work depreciated. From this
-
-
 
 we find that what has been shown, *viz*. that the fires form a Vidyâ, is the injunction of the Sruti. The connection of the fires with the actual fire is notbecause they form part of the sacrifice, but because many of the attributes of the real fire are imagined in the fires of the Vidyâ.
 
@@ -5920,8 +4976,6 @@ the body.***
 
  This Sutra gives the view of the Chârvâkas or materialists, who deny the existence of an Âtman other than the body. They say that man is only a body, having consciousness for its quality, and that
 
-
-
 consciousness is like the intoxicating property that is produced when certain materials are put together, none of which singly is intoxicating. They arrive at this conclusion in this way. Consciousness is seen to exist only when there is a body. Independent of the body it is nowhere experienced. Hence it is only a quality of the body. Therefore, there is no separate Self in this body.
 
 **व्यतिरेकः, तद्भावाभावित्वात्, न तु, उपलब्धिवत् ॥ ५४ ॥**
@@ -5931,8 +4985,6 @@ consciousness is like the intoxicating property that is produced when certain ma
 ** 54. But not (so); (a Self) separate (from the body does exist), for (consciousness) does not exist even when there is the body (after death); as in the case of cognition.**
 
  This Sutra refutes the view expressed in the previous one. Consciousness cannot be a quality of the body, for we do not find consciousness in a body. after a person dies. So this consciousness is a quality of something different from and residing in the body. Again the Chârvâkas also accept that the cognizer is different from the thing cognized. If so, since we experience our body, we who cognize it must be different from our body; and this thing which cog-
-
-
 
 nizes this body of ours is the Self, and consciousness is a quality of this Self, rather its nature.
 
@@ -5945,8 +4997,6 @@ nizes this body of ours is the Self, and consciousness is a quality of this Self
  **55. But (the Upâsanâs) connected with parts (of sacrificial acts are) not (restricted) to (particular) Sâkhâs only of each Veda (but to all its Sâkhâs), because (the same Upâsanâ is described in all).**
 
  There are certain Upâsanâs mentioned in connection with sacrificial acts, as, for example, the meditation on ‘Om’ which is connected with the Udgitha as Prâna, or the meditation on the Udgitha as the earth and so on. The question is whether these meditations are enjoined with reference to the Udgitha and so on as belonging to a certain Sâkhâ of a Veda or as belonging to all its Sâkhâs. The doubt arises because the Udgitha and so on are chanted differently in different Sâkhâs, and as such they may be considered different. This Sutra refutes the view that they are so restricted, because the text speaks of these Upâsanâs in general, and so they are one in all the branches.
-
-
 
 **मन्त्रादिवद्धाऽविरोधः॥५६॥**
 
@@ -5966,8 +5016,6 @@ nizes this body of ours is the Self, and consciousness is a quality of this Self
 
  In the Chhândogya Upanishad 5. 11-18 we have the Vaisvânara Vidyâ, the meditation on the cosmic form of the Lord, where we are asked to imagine that His head is the heavens, His eye the sun, and so on. In those sections we find different results mentioned for each part of the Upâsanâ. For example, the
 
-
-
 result of meditating on His head as the heavens is: “He eats food, sees his dear ones, and has Vedic glory in his house” (Chh. 5. 12. 2). Now the question is whether the Sruti here speaks only of one Upâsanâ on the whole cosmic form, or also piecemeal Upâsanâs. This Sutra says that it is the former. The separate results mentioned for detached Upâsanâs are to be combined into one aggregate with the principal meditation. That the Sruti intends only the entire Upâsanâ is moreover known from the fact that it discourages part Upâsanâ in such expressions as “Your head would have fallen if you had not come to me” (Chh. 5. 12. 2). The case is similar to certain sacrifices which include several minor sacrifices, the combined result of which completes that of the main sacrifices. That only one entire Upâsanâ is intended is also inferred from the fact that the section begins thus: “Which is our Self, which is the Brahman” (Chh. 5. 11. 1)—which shows that the entire Brahman is sought as the object of meditation. It ends also thus: “Of that Self Sutejas is the head” etc. Vaisvânara (Chh. 5. 18. 2).
 
 ***Topic 33: Various Vidyas like the Sândilya Vidya, Dahara Vidyâ, and so on are to be kept separate and not combined into one entire Upâsanâ.***
@@ -5976,8 +5024,6 @@ result of meditating on His head as the heavens is: “He eats food, sees his de
 
  नाना Different शब्दादिभेदात् owing to difference ofwords etc.
 
-
-
  **58. (Various Vidyâs like the Sândilya, Dahara, etc. are) different owing to difference of words etc.**
 
  In the last Sutra it was shown that though the Sruti mentions meditations on parts of the cosmic form, yet the meditation on the entire form is what is intended by the Sruti. Following this argument the opponent says that as the object of meditation is the one Lord, we are to combine all the different Vidyâs like the Sândilya Vidyâ, Dahara Vidyâ, Satya Vidyâ, and so on into one composite meditation on the Lord. This Sutra refutes that view and says that these different Vidyâs are separate, because the Sruti prescribes them using different words, ‘He knows’, ‘Let him meditate’, ‘Let him form the idea’, etc. and this difference of terms is acknowledged to be a test. of the difference of acts by Purva Mimâmsâ. ‘Etc.’ refers to other reasons like the difference in qualities. Though the object of meditation is the one Lord, yet owing to the difference in qualities that are imagined in different Upâsanâs He is different. Moreover, it is an impossibility to combine all the various Vidyâs into one. So the different Vidyâs are to be kept separate, and not combined into one general meditation.
@@ -5985,8 +5031,6 @@ result of meditating on His head as the heavens is: “He eats food, sees his de
 ***Topic 34: Among Vidyâs relating to Brahman any one alone should be selected according to one's choice.***
 
 **विकल्पः, आविशिष्ट-फलत्वात्॥५९॥**
-
-
 
  विकल्पः Option अविशिष्ट-फलत्वात् onaccount of (all Vidyâs) having the same result.
 
@@ -6002,8 +5046,6 @@ result of meditating on His head as the heavens is: “He eats food, sees his de
 
  **60. But Vidyâs for particular desires may be combined or not according to one's desire on account of the absence of the**
 
-
-
 **reason (mentioned in the) previous (Sutra).**
 
  In the last Sutra it was said that any one of the Vidyâs about Brahman should be taken up, and that more than one at a time should not be taken up, because each Vidyâ was quite sufficient and more than one would distract the mind. Now there are various Vidyâs which are practised not for the realization of Brahman, but to yield some particular desire. As, for example, in the Chhândogya 3. 15. 2; 7. 1. 5. The question is whether one is to restrict oneself to only one of these Vidyâs, or can practise more than one at a time. This Sutra says that as the results are different, unlike that of the Brahma Vidyâs, one can take up more than one Vidyâ or not according to one's pleasure.
@@ -6015,8 +5057,6 @@ result of meditating on His head as the heavens is: “He eats food, sees his de
  अङ्गेषु With regard (to meditations) connected with members (of sacrificial acts ) यथा-भाश्रय-भावः it is us with (the members) with which they are connected.
 
 ** 61. With regard (to meditations) connected with members (of sacrificial acts) it is as with (the members) with which they are connected.**
-
-
 
  Sutras 61-64 give the view of the opponent. Different instructions connected with a sacrifice are mentioned in the different Vedas. Now the scriptures themselves say that all these members mentioned in the different Vedas are to be combined for the due performance of the main one. The question now is, what is the rule to be followed with respect to the Upâsanâs connected with these members ? This Sutra says that the same rule which applies to the members applies also to the Upâsanâs connected with them. In other words, all these Upâsanâs are also to be combined.
 
@@ -6036,8 +5076,6 @@ result of meditating on His head as the heavens is: “He eats food, sees his de
 
  “Now verily that which is Udgitha is ‘Om’, and that which is ‘Om’ is Udgitha. (If one knows this) then from the seat (i.e. through proper functioning) of the Hotri (he) rectifies all defective singing (of the
 
-
-
 Udgâtri)” (Chh. 1. 5. 5). Here it is said that the mistakes committed by the Udgâtri (chanting priest of the Sâma-Veda) are rectified by the recitation of the Hotri (invoking priest of the Rig-Veda), which shows that the meditations, though they are given in the different Vedas, are yet interlinked. So all of them have to be observed.
 
 **गुणसाधारप्यश्रुतेश्च ॥ ६४ ॥**
@@ -6054,8 +5092,6 @@ Udgâtri)” (Chh. 1. 5. 5). Here it is said that the mistakes committed by the 
 
  **65. (The meditations connected with members of sacrificial acts are) rather not**
 
-
-
 **(to be combined), as the Sruti does not say that they are so correlated.**
 
  This and the following Sutra give the conclusion. The rule for combining the instructions regarding sacrifices that are scattered in all the Vedas cannot be applied with respect to the Upâsanâs connected with them. In the former case, if the instructions are not combined, the sacrifice itself will fail. But not so if the Upâsanâs are not practised, for Upâsanâs only enhance the results of the sacrifice. (Vide 3. 3. 42). They are not inseparable from the sacrifice. So they may or may not be practised.
@@ -6069,8 +5105,6 @@ Udgâtri)” (Chh. 1. 5. 5). Here it is said that the mistakes committed by the 
  “The Brahman (superintending priest) who knows this protects the sacrifice, the sacrificer, and all the other priests” (Chh. 4. 17. 10). This shows that the scriptures do not intend that all the meditations should go together. If it were so, then all the priests would know all of them and there is no sense in the Sruti distinguishing the qualified superintending priest from the rest.
 
  The meditations, therefore, may or may not be combined according to one's taste.
-
-
 
 **CHAPTER III**
 
@@ -6088,8 +5122,6 @@ Udgâtri)” (Chh. 1. 5. 5). Here it is said that the mistakes committed by the 
 
  Bâdarâyana basing his arguments on the Sruti texts says that the knowledge of Brahman effects
 
-
-
 man’s highest purpose and is not a part of sacrificialacts. It leads to Liberation. The scriptural authority referred to is texts like: “The knower of the Self goes beyond grief” (Chh. 7. 1. 3); “He who knows that Supreme Brahman becomes indeed Brahman” (Mu. 3. 2. 9); “The knower of Brahman attains the Highest” (Taitt. 2. 1).
 
 **शेषत्वात्पुरुषार्थवादो यथाऽन्येष्विति जैमिनिः ॥ २ ॥**
@@ -6099,8 +5131,6 @@ man’s highest purpose and is not a part of sacrificialacts. It leads to Libera
 ** 2. Because (the Self) is supplementary (to sacrificial acts), (the fruits of the knowledge of the Self) are mere praise of the agent, even as in other cases; thus says Jaimini.**
 
  According to Jaimini the Vedas merely prescribe acts to attain certain purposes including Liberation, and nothing more. He argues that the knowledge of the Self does not yield any independent results, as Vedânta holds, but is connected with the acts through the agent. No one undertakes a sacrificial act unless he is conscious of the fact that he is different from the body and that after death, he will go to heaven, where he will enjoy the results of his sacrifices. Texts dealing with Self-knowledge serve merely to enlighten the agent and so are sub-
-
-
 
 ordinate to sacrificial acts. The fruits, however, which the Vedânta texts declare with regard to Self-knowledge are merely praise, even as texts declare such results by way of praise with respect to other matters. In short, Jamini holds that by the knowledge that his Self will outlive the body, the agent becomes qualified for sacrificial actions even as other things become fit in sacrifices through purificatory ceremonies.
 
@@ -6115,8 +5145,6 @@ ordinate to sacrificial acts. The fruits, however, which the Vedânta texts decl
 **तच्छ्रुतेः॥ ४ ॥**
 
  तत-श्रुतेः Because the scriptures directly declare that.
-
-
 
  **4. That (viz. that knowledge of the Self stands in a subordinate relation to sacrificial acts) the scriptures directly declare.**
 
@@ -6136,8 +5164,6 @@ ordinate to sacrificial acts. The fruits, however, which the Vedânta texts decl
 
  The scriptures enjoin work only for those who have a knowledge of the Vedas, which includes the
 
-
-
 knowledge of the Self. Hence Knowledge does not independently produce any result.
 
 **नियमाच्च ॥७॥**
@@ -6152,14 +5178,11 @@ knowledge of the Self. Hence Knowledge does not independently produce any result
 
  अधिकउपदेशात् Because (the scriptures) teach (the Supreme Self to be) something over and above तु but बादरायणस्य Bâdarâyana's (view) एवम् such i. e. correct तत्-दर्शनात् for that is seen (from the scriptures).
 
-
  **8. But because (the scriptures) teach (the Supreme Self to be) other (than the agent), Bâdarâyana's (view is) correct; for that is seen (from the scriptures).**
 
  Sutras 2-7 give the view of the Mimâmsakas, which is refuted in Sutras 8-17.
 
  The Vedânta texts do not teach the limited self, which is the agent, but the Supreme Self, which is
-
-
 
 different from the agent. Thus the knowledge of the Self which the Vedânta texts declare is different from that knowledge of the self which an agent possesses. The knowledge of such a Self, which is free from all limiting adjuncts, not only does not help, but puts an end to all actions. That the Vedânta texts teach the Supreme Self is clear from such texts as the following: “He who perceives all and knows all” (Mu. 1. 1. 9); “Under the mighty rule of this Immutable, O Gârgi” etc. (Brih. 3. 8. 9).
 
@@ -6170,8 +5193,6 @@ different from the agent. Thus the knowledge of the Self which the Vedânta text
 ** 9. But the declarations of the Sruti equally support both views.**
 
  This Sutra refutes the view expressed in Sutra 3. There it was shown that Janaka and others even after attaining Knowledge were engaged in work. This Sutra says that scriptural authority equally supports the view that for one who has attained Knowledge there is no work. “Knowing this very Self the Brâhmanas renounce the desire for sons, for wealth, and for the worlds, and lead a mendicant life” (Brih. 3. 5. 1). We also see from the scriptures that knowers of the Self like Yajnavalkya gave up work. “ ‘This much indeed is (the means of) immortality, my dear.’ Saying this Yâjnavalkya left home” (Brih. 4. 5. 15). The work of Janaka and others was characterized by non-attachment,
-
-
 
 and as such it was practically no work; so the Mimâmsâ argument is weak.
 
@@ -6188,8 +5209,6 @@ and as such it was practically no work; so the Mimâmsâ argument is weak.
  **11. (There is) division of knowledge and work, as in the case of a hundred (divided between two persons).**
 
  This Sutra refutes Sutra 5. “It is followed by knowledge, work, and past experiences” (Brih. 4. 4. 2). Here we have to take knowledge and work in a distributive sense, meaning that knowledge follows one and work another. Just as when we say a hundred be given to these two persons, we divide it into two halves and give each man fifty. There is no combination of the two. Even without this explanation Sutra 5 can be refuted. For the
-
-
 
 text quoted refers only to knowledge and work, which concern the transmigrating soul, and not an emancipated soul. For the passage, “Thus does the man who desires (transmigrate)” (Brih. 4. 4. 6) shows that the previous text refers to the transmigrating self. And of the emancipated soul Sruti says, “But the man who never desires (never transmigrates)” etc. (Brih. 4. 4. 6).
 
@@ -6208,8 +5227,6 @@ text quoted refers only to knowledge and work, which concern the transmigrating 
  **13. Because there is no special mention (of the Jnâni, it does) not (apply to him).**
 
  This Sutra refutes Sutra 7. The text quoted there from the Isa Upanishad is a general statement, and there is no special mention in it that it is
-
-
 
 applicable to a Jnâni also. In the absence of such a specification it is not binding on him.
 
@@ -6233,8 +5250,6 @@ applicable to a Jnâni also. In the absence of such a specification it is not bi
 
  उपमर्दम् Destruction च and.
 
-
-
  **16. And (the scriptures say that the) destruction (of all qualifications for work results from Knowledge).**
 
  Knowledge destroys all ignorance and its products like agent, act, and result. “But when to the knower of Brahman everything has become the Self, then what should one see and through what” etc. (Brih. 4. 5. 15). The knowledge of the Self is antagonistic to all work and so cannot possibly be subsidiary to work.
@@ -6246,8 +5261,6 @@ applicable to a Jnâni also. In the absence of such a specification it is not bi
  **17. And (Knowledge belongs) to those who observe continence (i.e. to Sannyâsins); because (this fourth Âsrama is mentioned) in the scriptures.**
 
  The scriptures declare that Knowledge is gained in that stage of life in which continence is prescribed, i.e. the fourth stage or Sannyâsa Âsrama. To a Sannyâsin there is no work prescribed except discrimination. So how can Knowledge be subservient to work ? That there is a stage of life called Sannyâsa we find from the scriptures themselves in texts. like “There are three branches of duty; sacrifice, study and charity are the first;... All these attain
-
-
 
 to the worlds of the virtuous; but only one who is firmly established in Brahman attains immortality” (Chh. 2. 23. 1-2); “Desiring this world (the Self) alone monks renounce their homes” (Brih. 4. 4. 22). See also Mu. 1. 2. 11 and Chh. 5. 10. 1. Everyone can take to this life without being a householder etc., which shows the independence of Knowledge.
 
@@ -6261,8 +5274,6 @@ to the worlds of the virtuous; but only one who is firmly established in Brahman
 
  In the text quoted in the last Sutra (Chh. 2. 23. 1) Jaimini says that as there is no word showing that Sannyâsa is enjoined on man, it is a mere reference and not an injunction. The Brihadâranyaka text quoted in the last Sutra says that some person do like that. Sruti here makes a mere statement of fact. It does not enjoin Sannyâsa. Moreover, the text here praises steadfastness in Brahman.“But only one who is firmly established in Brahman attains immortality.” Sacrifice, study,
 
-
-
 charity, austertiy, studentship, and lifelong celibacy result in the attainment of the virtuous world. But immortality is gained only by him who is firmly established in Brahman. That is what the text says. Further, there are other texts which condemn Sannyâsa. “Having brought to your teacher the wealth that he likes, do not cut off the line of progeny” (Taitt. 1. 11); “To him who is without a son (this) world does not belong” (Taitt. Br. 7. 18. 12) and so on.
 
 **अनुष्ठेयं बादरायणः, साम्यश्रुतेः ॥ १९ ॥**
@@ -6272,8 +5283,6 @@ charity, austertiy, studentship, and lifelong celibacy result in the attainment 
  **19. Bâdarâyana (thinks that Sannyâsa or monastic life) also must be gone through, for the scriptural text (cited) refers equally; to all the four Âsramas (stages of life).**
 
  In the text cited, sacrifice etc. refer to the householder's life, penance to Vânaprastha, studentship to Brahmacharya and ‘one who is firmly established in Brahman' to Sannyâsa. So the text equally refers to all the four stages of life. The text relating to the first three stages refers to what is enjoined elsewhere. So also does the text relating to Sannyâsa. Hence Sannyâsa also is enjoined and must be gone through by all.
-
-
 
 **विधिर्वा धारणवत् ॥२०॥**
 
@@ -6285,8 +5294,6 @@ charity, austertiy, studentship, and lifelong celibacy result in the attainment 
 injunction, though there is no word in it to that effect, because such an injunction is nowhere else to be found in the scriptures. On account of its newness (Apurvatâ) it is an injunction. Following this argument this Sutra says that in Chh. 2. 28. 1 there is an injunction with respect to Sannyâsa, and not a mere reference, as it is not enjoined anywhere else. Moreover, there are Sruti texts which directly enjoin Sannyâsa: “Or else he may wander forth from the students' life, or from the house, or from the forest” (Jâb. 4).
 
  Again Jaimini himself says that even glorification, to be relevant, must be in a complimentary relation to an injunction. In the text cited steadfast devotion to Brahman is being praised, and so it has
-
-
 
 an injunctive value. Now is it possible for one engaged in sacrificial rites etc. to be wholly devoted to Brahman ? Devotion to Brahman means constant. meditation on It without any disturbing thought. Such a thing is impossible for a householder engaged in ritualistic work. It is possible only for a Sannyâsin who has renounced all work, and not for others.
 
@@ -6300,8 +5307,6 @@ an injunctive value. Now is it possible for one engaged in sacrificial rites etc
 
  **21. If it be said (that references as in Chh. 1.1.3) are mere praise because of**
 
-
-
 **their reference (to parts of sacrificial acts), (we say) not so, because here it is mentioned for the first time.**
 
  “That Udgitha (Om) is the best essence of the essences, the supreme, deserving the highest place, the eighth” (Chh.1.1.3), “This earth is Rich, and fire Sâman” (Chh. 1. 6. 1). The opponent holds that these are mere praise, and no injunction to meditate on 'Om' and so on. These passages are akin to, “The ladle is the earth”, “The tortoise is the sun”, which simply glorify the ladle and so on. This view of the opponent is refuted in the latter half of the Sutra. The analogy is not correct. Glorification to have a purpose, must be in complimentary relation to an injunction. The passages quoted for analogy stand in proximity to injunctive passages, and so they can be taken as praise. But the passage of the Chhândogya where Udgitha 'Om' is described as the essence of essences, is mentioned in the Upanishad, and so cannot be taken along with the injunctions about Udgitha in the Karmakânda. As such, on account of the newness it is an injunction and not mere glorification.
@@ -6311,8 +5316,6 @@ an injunctive value. Now is it possible for one engaged in sacrificial rites etc
  भाव–शब्दात् There being words expressive of injunction च and.
 
 ** 22. And there being words expressive of injunction.**
-
-
 
  “Let one meditate on 'Om' (of) the Udgitha” (Chh. 1. 1. 1). In this passage we have a clear injunction to meditate on 'Om'. On the face of this we cannot interpret the text cited in the last Sutra as mere glorificatory of ‘Om'.
 
@@ -6325,8 +5328,6 @@ an injunctive value. Now is it possible for one engaged in sacrificial rites etc
  **23. If it be said (that the stories that occur in the Upanishads are) for the purpose of Pâriplavas, (we say) not so, because (certain stories alone) are specified (by the Sruti for this purpose).**
 
  In the Aswamedha sacrifice, which lasts for one year, the sacrificer and his family are expected to hear at intervals the recital of certain stories. These are known as Pâriplavas, and form part of the ritualistic acts. The question is whether Upanishadic stories also serve this purpose, in which case they become part of the rites, and this means that the whole of J nânakânda becomes subservient to Karmakânda. The stories referred to are those relating to
-
-
 
 Yâjnavalkya and Maitreyi, Pratardana and so on, which we find in the Brihadâranyaka, Kaushitaki and other Upanishads.
 
@@ -6348,8 +5349,6 @@ Yâjnavalkya and Maitreyi, Pratardana and so on, which we find in the Brihadâra
 
  **25. And, therefore, there is no necessity of lighting fires, and so on.**
 
-
-
  In Sutra 3.4.1. it was said that the knowledge of the Self results in the attainment of the highest Purushârtha or goal of life. Therefore the lighting of fires for sacrifices and other similar acts enjoined on the householders etc. need not be observed by Sannyâsins, as Knowledge alone fulfils their object.
 
 ***Topic 6: Nevertheless works prescribed by the scriptures are useful as they are an indirect means to Knowledge.***
@@ -6362,8 +5361,6 @@ Yâjnavalkya and Maitreyi, Pratardana and so on, which we find in the Brihadâra
 
  From the previous Sutra we may conclude that works are altogether useless. This Sutra says that all these works are useful, and that even the scriptures prescribe them, since they serve as a means to Knowledge. But they have no part in producing the result of this Knowledge, viz. Liberation. It comes only from Knowledge and not from work.
 
-
-
 Work purifies the mind, and the knowledge of the Self is manifested in such a pure mind. So works have a place as a means to Knowledge, though an indirect one.
 
 **शमदमाद्य पेतः स्यात्तथाऽपि तु तद्विधेस्तदङ्गतया तेषामवश्यानुष्ठेयत्वात् ॥ २७ ॥**
@@ -6373,8 +5370,6 @@ Work purifies the mind, and the knowledge of the Self is manifested in such a pu
  **27. But even if it be so (i.e. even though there is no injunction to do work to attain Knowledge in the text \[Brih. 4. 4. 22\]) one must possess calmness, selfcontrol, and the like, since these are enjoined as helps to Knowledge, and therefore have necessarily to be observed**.
 
  “The Brâhmanas seek to know It through the study of the Vedas, sacrifices, charity” etc. (Brih. 4. 4. 22). In this text there is no word to show that sacrifice is enjoined on one who wants to know Brahman. So the opponent says that there is no need at all of work for an aspirant of Knowledge. This Sutra says that even if it be so, yet control of the senses etc. are enjoined by the Sruti: “Therefore he who knows it as such becomes self-controlled,
-
-
 
 calm. . . sees the Self in his self” etc. (Brih. 4. 4. 23). This passage is injunctive in character, for 'therefore' expresses praise of the subject-matter and hence is connected with an injunction, because in the absence of an injunction the praise would be purposeless. Since these qualities are enjoined, they have necessarily to be practised. Self-control etc. directly help the attainment of Knowledge, while work helps it indirectly.
 
@@ -6387,8 +5382,6 @@ calm. . . sees the Self in his self” etc. (Brih. 4. 4. 23). This passage is in
 ** 28. (Only) when life is jeopardized (there is) permission to take food indiscriminately, because the Sruti declares that.**
 
  “For one who knows this, there is nothing that is not food” (Chh. 5. 2. 1). The opponent holds that on account of the newness of the statement it is enjoined on one who meditates on Prâna. Such a statement being found nowhere else, it has an injunetive value. This Sutra refutes it and says that it is not an injunction, but only a statement of fact, and where the idea of an injunction does not arise, we are not justified in assuming one. Prohibited
-
-
 
 food may be eaten only when life is in danger, as was done by the sage Châkrâyana when he was dying for want of food. This fact we get from the Sruti.
 
@@ -6414,8 +5407,6 @@ food may be eaten only when life is in danger, as was done by the sage Châkrây
 
 ** 31. And hence the scriptural text prohibiting license.**
 
-
-
  There are scriptural passages prohibiting one from doing everything just as one pleases. License. freedom from all discipline, cannot help us to attain Knowledge. "Therefore a Brâhmana must not drink liquor" (Kâthaka Sam.). Such Sruti texts are meant for this discipline.
 
  Therefore it is established that the Sruti does not enjoin on one who meditates on Prâna to take all kinds of food indiscriminately.
@@ -6428,10 +5419,6 @@ food may be eaten only when life is in danger, as was done by the sage Châkrây
 ** 32. And the duties of the Âsrama (are to be performed) also (by him who does not desire Liberation), because they are enjoined (on him by the scriptures).**
 
 ** **In Sutra 25 it was said that works are a means to Knowledge. The question is raised, since it is so why should one who does not desire Knowledge do these works ? This Sutra says that since these duties are enjoined on all who are in these Asramas or stages of life, viz. student life, householder's life, and hermit life, one should observe them.
-
-
-
-
 
 **सहकारित्वेन च\।\।३३\।\।**
 
@@ -6451,10 +5438,7 @@ food may be eaten only when life is in danger, as was done by the sage Châkrây
 
  "The Brâhmanas seek to know It through the study of the Vedas, sacrifices" etc. (Brih. 4. 4. 22). This text shows that sacrifices etc. enjoined in Karmakânda for different purposes are to be performed as means to Knowledge also. The Smriti also
 
-
-
 says the same thing. "He who performs obligatory work without desire for fruits" etc. (Gitâ 6. 1). Those very obligatory duties subserve Knowledge also.  
-
 
 **अनभिभवं च दर्शयति॥३५॥**
 
@@ -6476,8 +5460,6 @@ Asramas are also entitled to Knowledge.**
 
 ** The question is raised whether persons of**
 
-
-
 dubious position-who have not the means etc. to do the duties of an Asrama, or who stand midway between two Âsramas, as for example a widower- are entitled to Knowledge or not. The opponent holds that they are not, since they cannot do the works of any Asrama which are means to Knowledge. This Sutra says that they are entitled, for such cases are seen from the scriptures, as for example Raikva and Gârgi, who had the knowledge of Brahman. Vide Chh. 4. 1 and Brih. 3. 6 and 8.
 
 **अपि च स्मर्यते॥३७॥**
@@ -6496,8 +5478,6 @@ dubious position-who have not the means etc. to do the duties of an Asrama, or w
 
  A widower, who cannot be said to be a householder in the proper sense of the word or a poor man who has not the means to perform the duties of the Asrama, can attain Knowledge through special works like prayer, fasting, Japa etc., which are not opposed to the condition of those who do not belong to any Âsrama
 
-
-
 **अतास्त्वतरज्ज्यायोलिङ्गाच्च॥३९॥**
 
  अतः Than this तु but इतरत् the other ज्यायः betterलिङ्गात् because of the indicatory marks चand.
@@ -6514,8 +5494,6 @@ his former stages of life.**
 
 ** तद्भूतस्य** For one who has attained that (the highest Âsrama) but no **अतङ्गावः** ceasing from that **जैमिनेः**of
 
-
-
 Jaimini (is this opinion) अपि also नियम-अतद्रप-अभावेभ्यः on account of restrictions prohibiting such reversion.
 
 ** 40. But for one who has risen to the highest Âsrama (i.e. Sannyâsa) there is no reverting (to the preceding ones), on account of restrictions prohibiting such reversion. Jaimini also (is of this opinion).**
@@ -6529,13 +5507,9 @@ vow of lifelong celibacy.**
 
   न Not च and आधिकारिकम्(expiation) mentioned in the chapter dealing with the qualification अपि even पतम-अनुमानात् because a fall (in his case) is inferred from the Smriti and because of its inefficacy (in his case).
 
-
-
  **41. And (the expiation), although mentioned in the chapter dealing with qualifications (in Purva Mimâmsâ), is not (with reference to one who has taken the vow of lifelong celibacy), because a fall (in his case) is inferred from the Smriti, and because of its (of the expiatory ceremony) inefficacy (in his case).**
 
   The case of those who have taken the vow of lifelong celibacy and yet have transgressed this vow through a mistake in judgment, is taken up for discussion. The opponent, whose view is given in this Sutra, holds that for such transgressions there is no expiation. For no such ceremony is mentioned with respect to them, the one mentioned in Purva Mimâmsâ 6. 8. 22 referring to ordinary Brahmachârins, who are students, and not to Naishthika Brahmacharins. It can also be inferred that the Smriti declares such lapses as not expiable. A beheaded man cannot be cured. "For him who lapses after having embraced the vow of a Naishthika Brahmachâri I see no expiatory ceremony by which such a suicide can be purified." The Smriti here does not refer to the ordinary Brahmachârin, and so the expiatory ceremony applies only to them and not to the Naishthika. Moreover, the ceremony referred to in Purva Mimâmsâ is not efficacious in his case, for, to perform the ceremony he will have to light the sacrificial fire and therefore have to marry, which
-
-
 
 means that he will cease to be a Naishthika thereafter.
 
@@ -6545,8 +5519,6 @@ means that he will cease to be a Naishthika thereafter.
 
  ** 42. But some (consider this transgression on the part of the Naishthika) a minor sin (and therefore claim) the existence (of expiation for it), as in the case of eating (prohibited food by ordinary Brahmachârins). This is explained in Purva Mimâmsâ. **      
  Some, however, think that such lapses on the part of a Naishthika, other than disloyalty to teacher's wife etc., are minor sins and not major ones, and so can be expiated by proper ceremonies, even as ordinary Brahmachârins who take prohibited food are again purified by expiatory ceremonies. The reference to the text denying any such ceremony in his case is meant only to bring home to the Naish- thika Brahmachâri the grave responsibility on his part so that he may struggle with all his soul. Similarly in the case of the recluse and the Sannyâsin. As a matter of fact, the Smriti does prescribe the purificatory ceremony for both the recluse and the Sannyâsin. "The recluse when he has broken his
-
-
 
 vows undergoes the Krichchhra penance for twelve nights and then develops a place which is full of trees and grass." The Sannyâsin also undergoes the purificatory ceremony, with certain modifications.
 
@@ -6573,8 +5545,6 @@ vows undergoes the Krichchhra penance for twelve nights and then develops a plac
 
  **44. To the sacrificer (belongs the agentship in meditations), because the**
 
-
-
 **Sruti declares a fruit (for it); thus Âtreya (thinks).**  
  The question is raised as to who is to observe the meditations connected with subordinate members of sacrificial acts, whether it is the sacrificer or the priest. The opponent, represented by the sage Âtreya, holds that it is to be observed by the sacrificer, as the Sruti declares a special fruit for these meditations.
 
@@ -6592,26 +5562,19 @@ vows undergoes the Krichchhra penance for twelve nights and then develops a plac
 
 ** 46. And because the Sruti so declares.**
 
-
-
  "Whatever blessing the priests pray for at the sacrifice, they pray for the good of the sacrificer" (Sat. Br. 1. 8. 1. 26). Such texts declare that the fruit of meditations in which the priest is the agent, goes to the sacrificer. Therefore Audulomi's view is correct, being supported by the Sruti texts.  
-
 
 **Topic 14: In Brih. 3.5.1 meditativeness is enjoined**
 
 **besides scholarship and the childlike state.**  
 
-
 **सहकार्यन्तरविधिः पक्षेण तृतीयं तद्वतः, विध्यादिवत् ॥ ४७ ॥**  
-
 
 ** सहकार्यन्तरविधि :** Injunction of another auxiliary (to Knowledge)पक्षेण as an alternative a: for one who possesses it (i.e. Knowledge) a third one ffas in the case of injunctions and the like.
 
   47. **(The meditative state is) the injunction of another auxiliary (to Knowledge), which is a third one (besides the two expressly enjoined), as an alternative (where the knowledge of diversity is persistent) for one who possesses Knowledge; as in the case of injunctions and the like**
 
  "Therefore a knower of Brahman, having done with scholarship should remain like a child (free from anger, passions, etc.); and after having finished with this state and with learning he becomes meditative (Muni)" (Brih. 8. 5. 1). The question is whether
-
-
 
 the meditative state is enjoined or not. The opponent holds that it is not enjoined, as there is no word indicating an injunction. The text merely says that he becomes a Muni or meditative, whereas with respect to scholarship and the state of a child free from all passions, it expressly enjoins, 'one should remain' etc. Moreover, scholarship refers to Knowledge and therefore includes Munihood which also more or less refers to Knowledge. Therefore there is no newness with respect to Munihood in the text, it being included in scholarship already, and not being an Apurva it has no injunctive value.  
   This Sutra refutes this view and says that Munihood or meditativeness is enjoined in the text as a third requisite besides scholarship and the state of a child. For Munihood is not merely Knowledge but meditativeness, continuous devotion to Knowledge and as such it is different from scholarship. Hence, not having been referred to before, it is a new thing (Apurva), and therefore the text has injunctive value. Such meditativeness has a value for a Sannyâsin who is not yet established in the knowledge of unity, and persistently experiences diversity owing to past impressions.
@@ -6620,8 +5583,6 @@ the meditative state is enjoined or not. The opponent holds that it is not enjoi
 
   कृत्स्नभावात्On account of the householder's life including all तु
 verily उपसंहारः(the chapter), endsगृहिणwith the householder
-
-
 
   **48 Verily, on account of the householder's life including (duties from) a॥  
 (the other stages of life), the chapter ends with the (enumeration of the duties of the) householder.**
@@ -6634,14 +5595,11 @@ verily उपसंहारः(the chapter), endsगृहिणwith the househ
 
 ** 49. Because the scripture enjoins the other (stages of life, viz. Brahmacharya and Vânaprastha) even as it enjoins the state of a Muni (Sannyâsa).**
 
-
-
  Just as the Sruti enjoins Sannyâsa and householder's life, so also it enjoins the life of a recluse and that of a student. Hence the scriptures enjoin all the four Âsramas or stages of life to be gone through, in sequence or alternatively. The plural number 'others' instead of the dual is to derote the different classes of these two stages of life.
 
 **Topic 15: Childlike state means the state of**
 
 **innocence, being free from anger, passion, etc.**  
-
 
 **अनाविष्कुर्वन्, अन्वयात् ॥५०॥**
 
@@ -6650,8 +5608,6 @@ verily उपसंहारः(the chapter), endsगृहिणwith the househ
 **  50. (The childlike state means) without manifesting himself, on account of the context.**
 
  In the passage of the Brihadâranyaka quoted in Sutra 47, the childlike state is enjoined on an aspirant after Knowledge. The question is what is exactly meant by this? Does it mean to be like a child without any idea of purity and impurity and doing whatever one likes, or does it mean to be guileless and without the sense of egoism as a child? The Sutra says it is the latter and not the former, because that is detrimental to Knowledge. It means one has not to manifest or give vent to any of the passions and has to be guileless and without the sense of egoism. It refers to the innate innocence of a
-
-
 
 child. Such a meaning alone is appropriate to the context, purity and innocence being helpful to Knowledge.
 
@@ -6667,8 +5623,6 @@ child. Such a meaning alone is appropriate to the context, purity and innocence 
 
 ** **From Sutra 26 the various means to Knowledge have been discussed. The question now is whether Knowledge resulting from these means comes in this life or in the life to come. This Sutra says that it may come in this life only if there is no obstruction to its manifestation from extraneous causes. For it often happens that when the fruition of Knowledge is about to take place it is retarded by the fruit of some other stronger work, which is also about to fructify. In such cases Knowledge comes in the next life. That is why the scriptures declare that it is difficult to realize the Self. "Even to hear of It is not available to many; many even having heard of It cannot comprehend" etc. (Kath.
 
-
-
 1. 2. 7). The Gitâ also says: "There he is united with the intelligence acquired in his former body" etc. (Gitâ 6. 43); "The Yogi, striving assiduously, purified of taint, gradually gaining perfection through many births, then reaches the highest goal" (Ibid 6. 45). Moreover, that Knowledge sometimes fructifies in the next life is known from the life of Vâmadeva who possessed Knowledge even while he was in the womb. This shows that it must have been the result of his past actions, for he could not have practised any Vidyâs in the womb. Knowledge did not manifest in his previous life owing to obstruction, and this being removed when he was in the womb, Knowledge fructified as a result of his past Sâdhanâ.
 
 **Topic 17: There is no difference in Liberation,**
@@ -6677,24 +5631,18 @@ child. Such a meaning alone is appropriate to the context, purity and innocence 
 
 **kind in all cases.**  
 
-
 **एवं मुक्तिफलानियमः, तदवस्थावधृतेस्तदवस्थावधृतेः॥42॥**  
-
 
  एवम् Like this मुक्तिफल- अनियमः there is no rule with respect to Liberation, the fruit (of Knowledge) तत्-अवस्था-अवधृतेः because the Sruti asserts that state (to be  
 immutable).
 
 ** 52. With respect to Liberation, the fruit (of Knowledge) there is no rule like**
 
-
-
 ** this, because the Sruti asserts that state (to be immutable).**
 
   In the last Sutra it was seen that Knowledge may result in this life or the next according to the absence or presence of obstructions and the intensity of the means adopted. Similarly a doubt may arise that there may be some such rule with respect to Liberation also, which is the fruit of Knowledge. In other words, the question is whether Liberation can be delayed after Knowledge, and whether there are degrees of Knowledge according to the qualifications of the aspirant. This Sutra says that no such rule exists with respect to Liberation. Because the Sruti texts assert that the nature of final release is uniform, without any variations of degree in it. The state of final release is nothing but Brahman. "The knower of Brahman becomes Brahman," and there can be no variety in it, as Brahman is without qualities. Difference is possible only where there are qualities, as in the case of the Saguna Brahman, about which according to difference in Vidyâs there may be difference in the cognitions. But with respect to the cognition of Brahman, it can be only one and not many. Neither can there be any delay in the attainment of Liberation after Knowledge has dawned for knowledge of Brahman itself is Liberation.
 
  The repetition of the clause 'Because the Sruti asserts that state' is to show that the chapter ends here.
-
-
 
 **CHAPTER IV**
 
@@ -6714,15 +5662,11 @@ immutable).
 
   "The Self, my dear Maitreyi, should be realized -should be heard of, reflected on, and meditated upon" (Brih. 2. 4. 5). "The intelligent aspirant after Brahman, knowing about this alone, should attain intuitive knowledge" (Brih. 4. 4. 21). The question arises whether what is enjoined in this is to be done
 
-
-
 once only or repeatedly. The opponent holds that it is to be observed once only, even as sacrifices like Prayâja are to be performed once only to yield the desired result. This Sutra refutes the view and says that the hearing etc. must be repeated till there is intuition of Brahman. Of course, if the knowledge of Brahman is attained by a single act, it is well and good; otherwise there is the necessity of repetition till the Knowledge dawns. It is the repetition of these acts that finally leads to intuition. The case of the Prayâja is not to the point. For there the result is Adrishta, which yields fruit at some particular future time. Here the result is directly perceived, and so, if the result is not there, the process must be repeated till the result is seen. Moreover, scriptural texts like the first one cited above give repeated instruction, thereby signifying the repetition of the means. Again 'meditation' and 'reflection' imply a repetition of the mental act, for when we say, 'he meditates on it', we imply the continuity of the act of remembrance of the object. Similarly with respect to 'reflection'. It follows, therefore, that there must be repetition of the instruction. This holds good even in those cases where the texts do not give instruction repeatedly, as for example, in the second text cited above.
 
 **लिङ्गाच्च ॥२॥**
 
  लिङ्गात् On account of the indicatory mark च and.
-
-
 
 ** 2. And on account of the indicatory mark.**
 
@@ -6732,8 +5676,6 @@ once only or repeatedly. The opponent holds that it is to be observed once only,
 
 **आत्मेति तूपगच्छन्ति ग्राहयन्ति च॥३॥**
 
-
-
  आत्मति As the self तु but उपगच्छन्ति acknowledge ग्राहयन्ति teach च also.
 
 ** 3. But (the Sruti texts) acknowledge (Brahman) as the self (of the meditator) and also teach others (to realize It as such).**
@@ -6741,8 +5683,6 @@ once only or repeatedly. The opponent holds that it is to be observed once only,
  The question whether Brahman is to be comprehended by the individual soul as identical with it or separate from it, is taken up for discussion. The opponent holds that Brahman is to be comprehended as different from the individual soul on account of their essential difference. For one is subject to misery, while the other is not. This Sutra refutes the view and holds that Brahman is to be comprehended as identical with one's self; for in reality the two are identical, the experience of misery etc. by the individual soul-in other words, the Jiva- hood-being due to the limiting adjunct, the internal organ. (Vide 2.3. 29 ante.) For instance, the Jâbâlas acknowledge it. "I am indeed Thou, O Lord, and Thou art indeed myself." Other scriptural texts also say the same thing: "I am Brahman" (Brih. 1. 4. 10); "This self is the Brahman" (Mâ. 2). These texts are to be taken in their primary, and not secondary sense, as in, "The mind is Brahman” (Chh. 3. 18. 1), where the text presents the mind as a symbol for contemplation.
 
  Hence we have to meditate on Brahman as being the self.
-
-
 
 **Topic 3: Where symbols of Brahman are used**
 
@@ -6757,8 +5697,6 @@ once only or repeatedly. The opponent holds that it is to be observed once only,
 ** 4. (The meditator is) not (to see the self) in the symbol, because he is not (that).**
 
  "The mind is Brahman" (Chh. 3. 18. 1). In such meditations, where the mind is taken as a symbol of Brahman, is the meditator to identify himself with the mind, as in the case of the meditation "I am Brahman"? The opponent holds that he should, for the mind is a product of Brahman according to Vedânta, and as such it is one with It. So is the individual soul, the meditator, one with Brahman. Hence it follows that the meditator also is one with the mind, and therefore he should see his self in the mind in this meditation also. This Sutra refutes it. In the first place, if the symbol, mind, is cognized as identical with Brahman, then it ceases to be a symbol, even as when we realize an ornament as gold, we forget its individual character of being an ornament. Again, if the meditator is conscious of his identity with Brahman, then he ceases to be the individual soul, the meditator. The act of meditation can take place only where these
-
-
 
 distinctions exist, and unity has not been realized; and where there is knowledge of diversity, the meditator is quite distinct from the symbol. As such he is not to see his self in the symbol.
 
@@ -6776,8 +5714,6 @@ distinctions exist, and unity has not been realized; and where there is knowledg
 
  In meditations on symbols as in, "The mind is Brahman", "The sun is Brahman" the question is whether the symbol is to be regarded as Brahman, or Brahman as the symbol. The Sutra says that the symbols, the mind and the sun, are to be regarded as Brahman and not vice versa. Because it is only by looking upon an inferior thing as a superior thing that we can progress, and not in the reverse way. Inasmuch as our aim is to get rid of the idea of differentiation and see Brahman in everything, we have to meditate upon these symbols as That.
 
-
-
 **Topic 5: In meditations on the members of**
 
 **sacrificial acts the idea of the divinity is to**
@@ -6794,15 +5730,12 @@ distinctions exist, and unity has not been realized; and where there is knowledg
 
  "One ought to meditate upon that which shines yonder as the Udgitha" (Chh. 1. 3. 1); "One ought to meditate upon the Sâman as fivefold" etc. (Chh. 2. 2. 1). In meditations connected with sacrificial acts as given in the texts quoted, how is the meditation to be observed? For example, in the first cited text, is the sun to be viewed as the Udgitha, or the Udgitha as the sun? Between the Udgitha and the sun there is nothing to show which is superior, as in the previous Sutra, where Brahman being preeminent, the symbol was viewed as Brahman. This Sutra says that the members of sacrificial acts, as here the Udgitha, are to be viewed as the sun and so on. Because by so doing the fruit of the sacrificial act is enhanced, as the scriptures say. If we view the
 
-
-
 Udgitha as the sun, it undergoes a certain ceremonial purification and thereby contributes to the Apurva, the invisible fruit of the whole sacrifice. But by the  
 reverse way, the sun being viewed as the Udgitha, the purification of the sun by this meditation will not contribute to the Apurva, inasmuch as the sun is not a member of the sacrificial act. So if the statement of the scriptures that the meditations enhance the result of the sacrifice, is to come true, the members of the sacrificial acts are to be viewed as the sun etc.
 
 **Topic 6: One is to meditate sitting.**
 
 **आसीनः, सम्भवात् ॥७॥**
-
 
  आसीनः Sittingसम्भवात्because of the possibility.  
 **  7. (One has to practise Upâsanâ) sitting, because (in that way alone) it is possible.**
@@ -6812,8 +5745,6 @@ reverse way, the sun being viewed as the Udgitha, the purification of the sun by
 **ध्यानाच्च ॥८॥**
 
  ध्यानात्On account of meditation (implying that) चand.
-
-
 
 ** 8. And on account of meditation (implying that).**
 
@@ -6835,8 +5766,6 @@ reverse way, the sun being viewed as the Udgitha, the purification of the sun by
 
  "Having made a firm seat for one's self on a pure spot" etc. (Gitâ 6. 11)-in this text the sitting posture is prescribed for meditation.
 
-
-
 **Topic 7: With respect to meditation there is**
 
 **no restriction of place.**
@@ -6853,14 +5782,11 @@ reverse way, the sun being viewed as the Udgitha, the purification of the sun by
 
 **आ प्रायणात्,तत्रापि हिदृष्टम्॥१२॥**  
 
-
  आ प्रायणात्Till death तत्र then अपि even हि becaus is seen (from the scriptures ).
 
  **12. Till death (meditations have to be observed), because (their observance) even at that moment is seen (from the scriptures).**
 
  In the first topic of this section it was said that
-
-
 
 meditations on Brahman are to be repeated till Knowledge dawrs. The question is now taken up about other meditations which are practised for attaining certain results. The opponent holds that such meditations can be stopped after a certain time; they would still yield results, like sacrifices performed only once. This Sutra says that they are to be continued till death, for the Sruti and Smriti say so. "With whatever thought he passes away from this world" (Sat. Br. 10. 6. 3. 1). "Remembering whatever form of being he leaves this body" etc. (Gitâ 8. 6). Such a thought at the time of death as fixes the course of life hereafter cannot be had at that moment without lifelong practice. Hence meditations must be practised till death.
 
@@ -6874,13 +5800,9 @@ meditations on Brahman are to be repeated till Knowledge dawrs. The question is 
 
  **13. When that (Brahman) is realized (there result) the non-clinging and destruction of the subsequent and previous**
 
-
-
 **sins respectively, because it is (so) declared (by the scriptures).**
 
  The state of Jivanmukti is described here. The opponent holds that Liberation is attained, in spite of Knowledge, only after one has experienced the results of one's sins committed before illumination. For the Smritis say, "Karma is not destroyed before it has given its results." The law of Karma is inexorable. This Sutra says that when a person attains Knowledge, all his past sins are destroyed and future sins do not cling to him. For by realizing Brahman he experiences that he never was, nor is, nor will be an agent, and such a person cannot be affected by the result of sins. The scriptures also declare that. "Just as cotton growing on reeds is burnt when thrown into fire, even so are burnt the sins of one who knowing this offers Agnihotra" (Chh. 5. 24. 3); "The fetters of the heart are broken, all doubts are solved, and all works are destroyed when He who is high and low is seen" (Mu. 2. 2. 8); "As water does not wet the lotus leaf, even so no sins cling to him who knows it" (Chh. 4. 14. 3). What the Smritis say about the inexorability of the law of Karma is true only of ordinary people, and does not hold good in the case of the knowers of Brahman. And in this way alone can Liberation result by snapping the chain of work. Otherwise Liberation can never take place.
-
-
 
 **Topic 10: Goca deeds likewise cease to affect**
 
@@ -6902,16 +5824,12 @@ meditations on Brahman are to be repeated till Knowledge dawrs. The question is 
 
   **15. But (of his) former works only those which have not begun to yield results (are destroyed by Knowledge); (for) death**
 
-
-
 **is the limit (set by the scriptures for Liberation to take place).**
 
 ** **In the last two topics it has been said that all the past works of a knower of Brahman are destroyed. Now past works are of two kinds : Sanchita (accumulated) i.e. those which have not yet begun to bear fruit, and Prârabdha (commenced) i.e. those which have begun to yield results, and have produced the  
 body through which a person has attained Knowledge. The opponent holds that both these are destroyed, because the Mundaka text cited says that all his works are destroyed. Moreover, the idea of nonagency of the knower is the same with respect to Sanchita or Prârabdha work; therefore it is reasonable that both are destroyed when Knowledge dawns.
 
  The Sutra refutes this view and says that only the Sanchita works are destroyed by Knowledge, but not the Prârabdha, which are destroyed only by being worked out. So long as the momentum of these works lasts, the knower of Brahman has to be in the body. When they are exhausted, the body falls off, and he attains perfection. His Knowledge cannot check these works, even as an archer has no control over the arrows already discharged, which come to rest only when their momentum is exhausted. The Sruti declares this in texts like, "And for him the delay is only so long as he is not liberated (from this body); and then he is one (with Brahman)" (Chh. 6. 14. 2). If it were not so, then there would
-
-
 
 be no teachers of Knowledge. Therefore the Prârabdha works are not destroyed by Knowledge.
 
@@ -6926,8 +5844,6 @@ be no teachers of Knowledge. Therefore the Prârabdha works are not destroyed by
  **16. But (the results of daily) Agnihotra etc. (are not destroyed by Knowledge; these) contribute to the very same result as Knowledge (i.e. Liberation), because that is seen from the scriptures.**
 
  Among works some are enjoined for attaining certain results such as heaven, and there are others like the daily Agnihotra which yield no such results and yet are enjoined as a sort of discipline. The opponent holds that even these regular works (Nitya Karma) performed before the dawning of Knowledge are destroyed, even as works done with desires (Kâmya Karma), for from the standpoint of the knower of Brahman his non-agency with respect to both is the same. This Sutra refutes that view and says that the regular works performed in the past are not destroyed. Works are of two kinds : those which yield specific results, and those which
-
-
 
 help to produce Knowledge. Obligatory regular works performed before Knowledge are of this latter kind. And since Knowledge leads to Liberation, the regular works also may be said to contribute indirectly to that. Hence their results persist till death.
 
@@ -6947,8 +5863,6 @@ help to produce Knowledge. Obligatory regular works performed before Knowledge a
 
 **यदेव विद्ययेति हि ॥१८॥**
 
-
-
  यत् एव Whatever विद्यया with knowledge इति thus हि because.
 
  **18. Because (the statement), "Whatever (he does) with knowledge," indicates this.**  
@@ -6966,20 +5880,15 @@ help to produce Knowledge. Obligatory regular works performed before Knowledge a
 
 ** 19. But having exhausted by enjoyment the other two works (viz. good and**
 
-
-
 **evil works that have begun to bear fruit), (he) becomes one (with Brahman).**
 
  The opponent argues that even as a knower of Brahman sees diversity while living, so also even after death he will continue to see diversity; in other words, he denies that the knower of Brahman attains oneness with Brahman at death. This Sutra refutes it and says that the Prârabdha works are destroyed through fruition, and though till then the knower of Brahman has to be in the relative world as a Jivan mukta, yet when these are exhausted by being worked out, he attains oneness with Brahman at death. no longer sees any diversity, owing to the absence of any cause like the Prârabdha, and since all works including the Prârabdha are destroyed at death, he attains oneness with Brahman.
-
-
 
 **CHAPTER IV**
 
 **SECTION II**
 
  In the previous section it was shown that by the destruction of actions which have not as yet begun to yield results a knower of Brahman attains Jivanmukti, and that on the exhaustion of the Prârabdha work he attains Videhamukti at death and becomes one with Brahman. Thus in a general way the result of Knowledge has been set forth. The remaining three sections deal at length with the nature of Liberation, which is attained on the exhaustion of the Prârabdha Karma. In this particular section the path of the gods, by which the knower of the Saguna Brahman travels after death, is described. With this end in view it begins with the exposition of the successive steps by which the soul passes out of the body at death.
-
 
 **Topic 1: At the time of death the functions of**
 
@@ -6991,17 +5900,11 @@ help to produce Knowledge. Obligatory regular works performed before Knowledge a
 
  **1. Speech (is merged) in mind, be**-
 
-
-
 **cause it is so seen, and there are scriptural statements (to that effect).**
 
  "When, my dear, the man departs from here, his speech merges in mind, mind in Prâna, Prâna in Fire, and Fire in the Highest Deity" (Chh. 6. 8. 6). This text describes what happens at the time of death. It says that speech gets merged in mind, mind in Prâna, and so on. Now the question is whether the organ of speech as such gets merged in mind, or only its function. The opponent holds that as there is no mention in the text about the function of speech getting merged, we have to understand that the organ itself gets merged in mind.
 
  The Sutra refutes this view and says that only the function of the organ of speech gets merged in mind. Mind is not the material cause of the organs, and as such they cannot get merged in it. It is only in the material cause that the effects get merged, and as mind is not the material cause of the organs, we have to understand here by speech not the organ, but its function. A function of the organ, unlike the organ itself, can get merged in mind, even though it is not the cause of that function, just as the burning property of fire, which has its start in wood, becomes extinct in water. The scriptural statement therefore refers to the function of speech, the function and the thing to which it belongs being viewed as one. We also notice that a dying man first loses his function of speech, though his mind is still functioning. So we have to understand from
-
-
-
-
 
 experience also that the function of speech, and not the organ itself, is merged in mind.
 
@@ -7022,11 +5925,6 @@ experience also that the function of speech, and not the organ itself, is merged
 
  That mind, in which the functions of the different organs get merged, in its turn gets merged in
 
-
-
-
-
-
 Prâna, for the Sruti cited in Sutra 1 says, "Mind in Prâna." The opponent holds that here, unlike the case of the organs, it is mind itself, and not its function, that gets merged in Prâna, inasmuch as Prâna can be said to be the material cause of mind. In support of his contention he cites the following texts: "Mind consists of food, Prâna of water” (Chh. 6. 6. 5) and "Water sent forth earth” (Chh. 6. 2. 4). When mind is merged in Prâna, it is the same thing as earth being merged in water, for mind is food or earth, and Prâna is water. Hence the Sruti here speaks not of the function of mind, but of mind itself getting merged in Prâna. The Sutra refutes this view and says that this relation of causality by an indirect process does not justify our understanding that mind itself is merged in Prâna. So here also it is the function alone that gets merged, and this is justified on the same grounds as given in Sutra 1, viz. scriptural statement and experience. We find that mind ceases to function in a dying man, even while his vital force is functioning.
 
 **Topic 3: The function of the vital force**
@@ -7036,8 +5934,6 @@ Prâna, for the Sruti cited in Sutra 1 says, "Mind in Prâna." The opponent hold
 **सोऽध्यक्षे, तदुपगमादिभ्यः ॥४॥**
 
  सः That (Prâna) अध्यक्षे in the ruler (Jiva) तत् उपगमादिभ्यःonaccount of (statements expressing) approach to that etc.
-
-
 
  **4. That (Prâna) is merged in the ruler (Jiva) on account of (statements expressing) approach to that etc.**
 
@@ -7051,8 +5947,6 @@ Prâna, for the Sruti cited in Sutra 1 says, "Mind in Prâna." The opponent hold
 the Sruti.**
 
  If we understand, "Prâna (is merged) in fire" as meaning that the Jiva with Prâna is merged in fire, there is no contradiction between this Sruti text and what is said in the last Sutra. So Prâna is first merged in the individual soul and then the soul with Prâna takes its abode in the fine essence of the gross elements, fire etc., the seed of the future body.
-
-
 
 **नैकस्मिन, दर्शयतो हि ॥६॥**
 
@@ -7078,12 +5972,6 @@ beginning of their waysअमृतत्वं immortality चand not having bu
 
  For the knower of the Nirguna Brahman there is
 
-
-
-
-
-
-
 no departure at all. Leaving his case, the opponent says that the mode of departure from the body for the knower of the Saguna Brahman and the ignorant ought to be different, as they attain different abodes after death, the former reaching Brahmaloka and the latter being reborn in this world. This Sutra says that the knower of the Saguna Brahman enters at death the nerve Sushumnâ, and then goes out of the body, and takes to the path of the gods, while the ignorant enter some other nerve and go by another way to have rebirth. But till they enter on their respective ways, the method of departure at death is common to both, for it is something pertaining to this life, and like happiness and misery it is the same for both.
 
 **Topic 5: The merging of fire etc. at death in the**
@@ -7098,12 +5986,6 @@ no departure at all. Leaving his case, the opponent says that the mode of depart
 
  In the text cited in Sutra 1 we have, "And fire (is merged) in the Supreme Deity". The opponent
 
-
-
-
-
-
-
 argues that as fire and the other elements are merged in the Supreme Deity, which is the cause of these elements, this is only the final dissolution, and so everyone at death attains Liberation. This Sutra says that this merging is not absolute merging, but the one we experience in deep sleep. Only the functions. of these elements are merged, and not the elements themselves. The final dissolution does not take place till Knowledge is attained; for the scriptures declare that till then the individual soul is subject to relative existence: "Some souls enter the womb to have a body” etc. (Kath. 2. 5. 7). If the merging at death were absolute, then there could be no rebirth.
 
 **सूक्ष्मंप्रमाणतश्च, तथोपलब्धेः॥९॥**
@@ -7113,8 +5995,6 @@ argues that as fire and the other elements are merged in the Supreme Deity, whic
  ** 9. (This fine body) is subtle (by nature) and size, because it is so experienced.**
 
  The body formed from the essence of the gross elements in which the soul abides at the time of death is subtle by nature and size. This is understood from scriptural statements which declare that it goes out along the Nâdis (nerves). So it is necessarily subtle or small in size. Its transparency explains why it is not obstructed by gross bodies, or is not seen when it passes out at death.
-
-
 
 **नोपनार्देनातः॥१०॥**
 
@@ -7138,8 +6018,6 @@ argues that as fire and the other elements are merged in the Supreme Deity, whic
 
   **12. If it be said (that the Prânas of a knower of Brahman do not depart), on account of the Sruti denying it; (we say) not so, (because the scripture denies the**
 
-
-
 **departure of the Prânas) from the individual soul (and not from the body).**
 
  This Sutra gives the view of the opponent. "His Prânas do not depart" (Brih. 4. 4. 6). This text refers to a knower of the Nirguna Brahman. It says that his Prânas do not depart at death. The opponent holds that the denial of the departure of the Prânas is from the soul and not from the body. It says that the Prânas do not depart from the soul-not that they do not depart from the body, for in the latter case there will be no death at all. This is made all the more clear from the Mâdhyandina recension, which says, "From him” etc. There- fore the soul of one who knows Brahman passes out of the body with the Prânas.
@@ -7153,8 +6031,6 @@ argues that as fire and the other elements are merged in the Supreme Deity, whic
  This Sutra refutes the view of the previous one by connecting the denial to the body and not to the soul.
 
  That the Prânas do not depart from the body is made clear from Sruti texts like, “Yâjnavalkya', said he, 'When this (liberated) man dies, do his Prânas go up from him, or do they not?' 'No' replied Yâjnavalkya, 'they merge in him only' " etc. (Brih. 3. 2. 11). Therefore we have to take even the
-
-
 
 Mâdhyandina reading 'from him' to refer to the body. It is not true that if the Prânas do not depart there will be no death, for they do not remain in the body, but get merged, which makes life impossible, and we say in common parlance that the person is dead. Moreover, if the Prânas did depart with the soul from the body, then a rebirth of such a soul would be inevitable, and consequently there would be no Liberation. So the Prânas do not depart from the body in the case of the knower of Brahman.
 
@@ -7178,8 +6054,6 @@ Mâdhyandina reading 'from him' to refer to the body. It is not true that if the
 
  This Sutra describes what happens to the Prânas
 
-
-
 (organs) and the fine essence of the gross elements in which they abide, in the case of a knower of Brahman who dies. These organs and the elements get merged in the Supreme Brahman. "The sixteen digits of this witness, the Purusha, having their goal in Him are dissolved on reaching Him" (Pr. 6. 5). The text, "All the fifteen parts of their body enter into their causes" etc. (Mu. 3. 2. 7) gives the end from a relative standpoint, according to which the body disintegrates and goes back to its cause, the elements. The former text speaks from a transcendental standpoint, according to which the whole aggregate is merged in Brahman, even as the illusory snake is merged in the rope when knowledge dawns.
 
 **Topic 8: The digits (Kalas) of the**
@@ -7195,10 +6069,6 @@ Mâdhyandina reading 'from him' to refer to the body. It is not true that if the
  **16. (Absolute) non-distinction (with Brahman of the parts merged takes place) according to the statement (of the scriptures).**
 
  "Their names and forms are destroyed, and people speak of the Purusha only. Then he becomes devoid of digits and immortal” (Pr. 6. 5). The
-
-
-
-
 
 digits get absolutely merged in the Supreme Brahman. The merging in the case of the knower of Brahman is absolute, whereas in the case of an ordinary person it is not so; they exist in a fine potential state, the cause of future rebirth. But in the case of the knower of Brahman, Knowledge having destroyed ignorance, all these digits which are but its effects, get merged absolutely, without any chance of cropping up again.
 
@@ -7216,13 +6086,9 @@ digits get absolutely merged in the Supreme Brahman. The merging in the case of 
 
  **17. (When the soul of a knower of the Saguna Brahman is about to depart from**
 
-
-
 the body,there is) illumining of the top of its abode (the heart); with the passage (for the exit of the soul) illumined by this light (the soul departs), being favoured by Him who resides in the heart, along that nerve which is beyond the hundred (i.e. the hundred and first nerve or the Sushumnâ) owing to the efficacy of the knowledge and the appropriateness of his constant meditation on the way which is a part of that knowledge.
 
  This Sutra describes the exit from the body of a knower of the Saguna Brahman. It has already been stated in Sutra 7 that till the soul's entering on the path, the mode of departure of a knower of the Saguna Brahman and an ignorant man is the same. The Brihadâranyaka text describing the death of a person says, "When this self becomes weak and senseless, as it were, the organs come to it . . . it comes to the heart" (Brih. 4. 4. 1); again, "The top of the heart brightens. Through that brightened top the self departs, either through the eye, or through the head, or through any other part of the body" (Brih. 4. 4. 2). These texts show that at the time of death the soul together with the organs comes to the heart. At that moment the departing soul, on account of its past works, has a peculiar consciousness picturing to it its next life, and goes to the body which is revealed by that consciousness. This
-
-
 
 is what is referred to as the illumining of the top of the heart. With this particular consciousness the soul goes out, along one of the nerves that issue from the heart, to the eyes, or ears, or the skull, or other parts of the body, which it finally leaves through that particular exit. The question now is whether this departure is the same for a knower of the Saguna Brahman and an ordinary man. This Sutra says that though the illumining of the top of the heart is common to both, yet the knower of the Saguna Brahman, through the grace of the Lord who abides in the heart, departs through the skull only, while others depart through other parts. This is consistent with his knowledge and constant meditation on the way out through the hundred and first nerve, the Sushumnâ. The following text elucidates it: "There are a hundred and one nerves of the heart; one of them penetrates the head; going up along that, one attains Immortality; the others serving for departure in various directions" (Chh. 8. 6. 6.).
 
@@ -7234,8 +6100,6 @@ is what is referred to as the illumining of the top of the heart. With this part
 
  **18. (The soul of a knower of the Saguna Brahman when he dies) follows the rays (of the sun).**
 
-
-
 In the Chhândogya Upanishad we have, . . . sodo these rays of the sun go to both the worlds, thisas well as the other. They proceed from the sun andenter into these nerves" (8. 6. 2); again, "When hethus departs from this body, then along these veryrays he proceeds upwards" etc. (8. 6. 5). In thesetexts we learn that the soul of the knower of theSaguna Brahman, after departing from the bodyalong the Sushumnâ, follows the rays of the sun.A doubt arises whether the soul of one who passesaway in the night also follows the rays. The Sutrasays that the soul, whether it departs in the nightor during the day, follows the rays.
 
 **निशि न इति चेत्, न, संबन्धस्य यावद्देहभावित्वात्,  
@@ -7246,8 +6110,6 @@ In the Chhândogya Upanishad we have, . . . sodo these rays of the sun go to bot
  **19. If it be said (that the soul does).not (follow the rays) in the night, (we say)not so, because the connection (of thenerves and the rays) continues as long asthe body lasts; (the Sruti) also declares(this).**
 
  The text quoted in the last Sutra, Chh. 8. 6. 2,shows that the connection between the rays and the
-
-
 
 nerves lasts as long as the body lasts.So it is immaterial whether the soul passes out by day or bynight. Moreover, the sun's rays continue even during the night, though we do not feel their presenceowing to the fact that at night their number is  
 limited. The Sruti also says, "Even by night the.sun sheds his rays." The result of knowledgecannot be made to depend on the accident of deathby day or night.
@@ -7264,8 +6126,6 @@ limited. The Sruti also says, "Even by night the.sun sheds his rays." The result
 
  An objection is raised by the opponent thatthe soul of the knower of Brahman who passes awayduring the southern course of the sun does not followthe rays to Brahmaloka, as both the Sruti and Smritisay that only one who dies during the northerncourse of the sun goes there. Moreover, it is alsowritten that Bhishma waited for the northern courseof the sun to leave the body. This Sutra says thatfor the same reason as mentioned in the last Sutra,
 
-
-
 i.e. the unreasonableness of making the result ofknowledge depend on the accident of death happening at a particular time, the knower of the SagunaBrahman goes to Brahmaloka even if he should dieduring the southern course of the sun. In the text,."Those who know thus . . . go to light, from lightto day, from day to the bright half of the month,and from that to the six months of the northerncourse of the sun" (Chh. 5. 10. 1), the points in thenorthern course of the sun do not refer to any division of time but to deities as will be shown under4. 3. 4. Bhishma's waiting, however, was for upholding approved custom and for showing that onaccount of his father's boon he could die at will.
 
 **योगिनः प्रति च स्मर्यते, स्मार्ते चैते॥२१॥**
@@ -7276,11 +6136,7 @@ i.e. the unreasonableness of making the result ofknowledge depend on the acciden
 
  In the Gitâ we have passages which declare thatpersons who die during the day etc. do not return.any more to this mortal world. Vide Gitâ 8. 28, 24.On the strength of these texts, the opponent says:that the decision of the previous Sutra cannot be
 
-
-
 correct. This Sutra refutes that objection sayingthat these details as to time mentioned in the Gitâapply only to Yogis who practise Sâdhanâ accordingto Yoga and Sânkhya systems; and these two areSmritis, not Srutis. Hence the limitations as totime mentioned in them do not apply to those whomeditate on the Saguna Brahman according to theSruti texts.
-
-
 
 **CHAPTER IV**
 
@@ -7300,11 +6156,7 @@ Brahmaloka.***
 
  In the last section it was stated that the knowerof the Saguna Brahman travels by Devayâna or thepath of the gods to Brahmaloka. About this pathitself different texts make different declarations. TheChhândogya and the Brihadâranyaka say that the
 
-
-
 departed soul of such a person reaches first thedeity identified with the flame. Vide Chh. 5. 10. 1 andBrih. 6. 2. 15. The Brihadâranyaka in connectionwith another Vidyâ says that it reaches the air.Vide Brih. 5. 10. 1. The Kaushitaki Upanishad saysthat it reaches the world of fire. Vide Kau. 1. 3.The Mundaka says that it travels by the path of thesun. Vide Mu. 1. 2. 11. The question is whetherthese texts refer to different paths or are differentdescriptions of the same path, the path of the gods.The opponent holds that these texts refer to differentpaths to Brahmaloka. The Sutra refutes this viewand says that all the texts refer to and give onlydifferent particulars of the same path, the path connected with deities beginning with that identifiedwith the flame. Why? On account of its beingwell known from the Sruti texts that this is the pathfor all knowers of Brahman. "Those who knowthis (Panchâgni Vidya) and those who in the forestmeditate with faith and penance, reach the deityidentified with flame" etc. (Chh. 5. 10. 1) shows thatthis path connected with deities beginning with thatof the flame belongs to all knowers of Brahman whatever be the Vidyâ through which they have attainedthat knowledge. Moreover, the goal attained, viz.Brahmaloka, being the same in all cases, and therebeing no justification for regarding the path asdifferent on account of their being treated in differentchapters, since some part of the path is recognizedin all texts, we have to conclude that all the texts
-
-
 
 refer to the same path, but give different particulars,which have all to be combined for a full descriptionof the path.
 
@@ -7320,13 +6172,9 @@ of the year and then the deity of the air.***
  In the last Sutra it was stated that the differenttexts give different particulars or stages of the samepath. This Sutra fixes the order of the stages. TheKaushitaki describes the path as follows: "TheUpâsaka, having reached the path of the gods,  
 reaches the world of Agni (fire), of Vâyu (air), ofVaruna, of Indra, of Prajâpati, and then ofBrahman" (Kau. 1. 3). Again the ChhândogyaUpanishad describes the path as follows: "Theyreach the deity identified with the flame, from him tothe deity of the day, from him to the deity of thebright half of the month, from him to the deitiesidentified with the six months of the northern pathof the sun, from them to the deity of the year,
 
-
-
 from him to the deity of the sun, from him to thedeity of the moon, from him to the deity of lightning" (Chh. 5. 10. 1).
 
  In these two texts the first deity they reach issaid to be the deity of the flame or fire. So thestarting point is clearly pointed out by both texts,for they say that having reached the path of thegods the departed souls reach this deity. Combining these two texts we have to place the deityof air in between the deity of the year and the deityof the sun. Why? Because of the absence andpresence of specification. "When a man departsfrom this world, he reaches the (deity identifiedwith) air, *which makes an opening for him . .* . He*goes upwards through that and reaches the (deityof the) sun"* (Brih. 5. 10. 1). This text fixes thatair co.nes immediately before the sun because weperceive a regular order of succession. But asregards air coming after the deity of the flame thereis no specification, but simply a statement; "Hecomes from the world of fire to that of air." Inbetween these two stages we have several other stageswhich the Chhândogya text mentions. Again in thetext, "From the deities identified with the six monthsin which the sun travels northward he reaches thedeity identified with the world of the gods" (Brih.6. 2. 15). To keep the immediate sequence of thedeity identified with air and that identified with thesun, we must understand that the soul passes fromthe deity of the world of the gods to the deity of the
-
-
 
 air. Again in the texts of the Chhândogya and theBrihadâranyaka, the deity of the world of the godsis not mentioned in the former and the deity of theyear in the latter. Both have to be included inthe full description of the path, and since the yearis connected with the months, the deity of the yearprecedes the deity of the world of the gods.
 
@@ -7341,8 +6189,6 @@ lightning the soul reaches the world of Varuna.***
 
  The Chhândogya text reads, "From the sunto the moon, from moon to lightning."  
 TheKaushitaki text reads, "From Vâyu to Varuna."Combining these two texts we have to place Varunaafter lightning, on account of the connection betweenthe two. Varuna is the god of rain, and lightningprecedes rain. So after lightning comes Varuna.And after Varuna come Indra and Prajâpati, forthere is no other place for them, and the Kaushitakitext also puts them there.
-
-
 
  So the compiete enumeration of the stages ofthe path of the gods is as follows: First the deityof the flame or fire, then the deity of the day, thedeity of the bright half of the month, the deities ofthe six months when the sun travels to the north,the deity of the year, the deity of the world of gods,the deity of the air, the sun, the moon, the deity oflightning, the world or Varuna, the world of Indra,the world of Prajâpati, and finally Brahmaloka.
 
@@ -7362,8 +6208,6 @@ is reached.***
  In the texts cited in the previous Sutras, flame,bright half of the month, year, etc. are the deitiesidentified with these, which receive the departed souland conduct it on its way to Brahmaloka. Thatdeities are meant here, and not marks or places of  
 enjoyment, is indicated by the text of theChhândogya, which ends thus: "From the moon to
 
-
-
 the lightning. Then a being who is not a man leadsthem to Brahman" (Chh. 4. 15. 5; 5. 10. 1). Thistext shows that unlike the previous guides who weremore or less human, this particular guide is nothuman in nature.
 
 **उभयव्यामोहात्तत्सिद्धेः॥५॥**
@@ -7379,8 +6223,6 @@ the lightning. Then a being who is not a man leadsthem to Brahman" (Chh. 4. 15. 
  वैद्युतेनBy (the superhuman) guide connectedwith lightning एव alone ततःfrom thence तत्-श्रुतेःthat being known from the Sruti.
 
  **6. From thence (the soulsareguided) by the very same (superhuman)**
-
-
 
 **person who comes to lightning, that beingknown from the Sruti.**
 
@@ -7400,8 +6242,6 @@ Saguna Brahman.***
 
  In the previous Sutra the way was discussed.
 
-
-
 Now from this Sutra onwards the discussion is aboutthe goal reached. The Chhândogya text quoted inconnection with the way, says, "Then a being whois not a man leads them to Brahman" (Chh. 5. 10. 1).The question is whether this Brahman is the SagunaBrahman or the Supreme Brahman.Bâdari saysit is the Saguna Brahman, for such a journey is possible only with respect to the Saguna Brahman, whichis finite and therefore occupies a particular placeto which the souls may go. But it is not possiblewith respect to the Nirguna Brahman, which is allpervading.
 
 **विशेषितत्वाच्च॥८॥**
@@ -7418,8 +6258,6 @@ Now from this Sutra onwards the discussion is aboutthe goal reached. The Chhând
 
   **9. But on account of the nearness (ofthe Saguna Brahman to the Supreme**
 
-
-
 Brahman, it is) designated as that(Supreme Brahman).
 
  'But' sets aside any doubt that may arise onaccount of the word 'Brahman' being used for theSaguna Brahman in the Chhândogya text. Thisdesignation, the Sutra says, is because of the nearness of the Saguna Brahman to the SupremeBrahman.
@@ -7431,8 +6269,6 @@ Brahman, it is) designated as that(Supreme Brahman).
  **10. On the dissolution of the Brahmaloka (the souls attain), along with theruler of that world, what is higher thanthat (*i.e*. the Supreme Brahman), onaccount of the declaration of the Sruti.**
 
  If the souls going by the path of the gods reachthe Saguna Brahman, then how can a statement like"They no more return to this world” (Brih. 6. 2. 15)be made with respect to them, as there can be nopermanency anywhere apart from the Supreme Brahman? This Sutra explains it saying that at thedissolution of the Brahmaloka the souls, which bythat time have attained Knowledge, along with theSaguna Brahman attain what is higher than the
-
-
 
 Saguna Brahman, *i.e.* the Supreme Brahman. Sothe Sruti texts declare.
 
@@ -7460,8 +6296,6 @@ Saguna Brahman, *i.e.* the Supreme Brahman. Sothe Sruti texts declare.
 
  "Going upwards by that he reaches immortality"
 
-
-
 (Chh. 8. 6. 6; Kath. 2. 6. 16). This text says thatthe soul which passes out of the body by the nerveSushumnâ reaches immortality, and this can beattained only in the Supreme Brahman.
 
 **न च कार्ये प्रतिपत्त्यभिसन्धिः॥१४॥**
@@ -7473,8 +6307,6 @@ Saguna Brahman, *i.e.* the Supreme Brahman. Sothe Sruti texts declare.
  "I come to the assembly-house of Prajâpati"(Chh. 8. 14. 1). This desire to attain 'the house"cannot be with respect to the Saguna Brahman, butis appropriate only with respect to the SupremeBrahman. For the text quoted says earlier, "Andthat within which these (names and forms) arecontained is *Brahman*," where the Supreme Brahmanis referred to.
 
  Sutras 12-14 give the opponent's view against.what has been said in Sutras 7-11. The argumentsof Sutras 12-14 are refuted thus: The Brahmanattained by those who go by the path of the godscannot be the Supreme Brahman. They attain onlythe Saguna Brahman. The Supreme Brahman isall-pervading, the Inner Self of all. Such a Brahmancannot be attained, for It is the Self of everyone.Journey or attainment is possible only where thereis difference, where the attainer is different from the
-
-
 
 thing attained. What is called realization of theSupreme Brahman is nothing but the removal ofignorance about It. In such a realization there isno going or attaining. When the ignorance isremoved Brahman manifests Itself. But the attain-  
 ment of Brahman spoken of in the texts connectedwith the path of the gods is not merely the removalof ignorance but actual. Such an attainment is notpossible with respect to the Supreme Brahman.Again the passage, "I enter the assembly-houseof Prajâpati,” etc., can be separated from whatprecedes and be connected with the Saguna Brahman.The fact that Chh. 8. 14. 1 says, "I am the glory ofthe Brâhmanas, of the kings" cannot make it referto the Nirguna Brahman, for the Saguna Brahmancan also be said to be the Self of all, as we find intexts like, "He to whom all works, all desires belong"etc. (Chh. 3. 14. 2). The reference to the journeyto Brahman, which belongs to the sphere of relativeknowledge, in a chapter which deals with SupremeKnowledge is only by way of glorification of the  
@@ -7489,15 +6321,11 @@ attain Brahmaloka.***
 
 अप्रतीक-आलम्बनान्Those who do not use a symbol
 
-
-
 (of Brahman) in their meditations नयति(the superhuman being) leads इति बादरायणःso says Bâdarâyana'उभयथा if this distinction is made अदोषात् there beingno contradiction तत्-क्रतुःas is the meditation on that(so does one become) च and.
 
  **15. Bâdarâyana says that (thesuperhuman being; leads (to Brahmalokaonly) those who do not use a symbol (ofBrahman) in their meditations, therebeing no contradiction if this distinctionis made, and (it being construed by theprinciple) as is the meditation on that (sodoes one become).**
 
  The question is raised whether all worshippers ofthe Saguna Brahman go to Brahmaloka, being ledby the superhuman being mentioned in Chh. 4. 15. 5.The opponent holds that they do, according to 3. 3. 31*ante*, where it is expressly stated that all, whateverbe their Vidyâ, go to Brahmaloka. This Sutra saysthat only those worshippers of the Saguna Brahmanwho do not use any symbol of Brahman in theirmeditation go there. This, however, does not contradict what is said in 3. 3. 81 if we understand thatby 'all' are meant all those worshippers who do nottake the help of any symbol. Moreover, this viewis justified by the Sruti and Smriti declarations whichsay, "In whatever form they meditate on Him, thatthey become." In the worship of the symbols themeditations are not fixed on Brahman, the symbols
-
-
 
 being the chief thing in them, and so the worshipperdoes not attain Brahmaloka.But the case of onewho worships the five fires is different, as there is adirect scriptural statement saying that he goes toBrahmaloka. Where there is no such direct scriptural statement, we have to hold that only thosewhose object of meditation is Brahman, go to Brahmaloka, not others.
 
@@ -7508,8 +6336,6 @@ being the chief thing in them, and so the worshipperdoes not attain Brahmaloka.B
  **16. And the scripture declares adifference (with respect to meditationsonsymbols).**
 
  "One who meditates upon name as Brahmanbecomes independent so far as name reaches" (Chh.7. 1. 5); "One who meditates upon speech as Brahmanbecomes independent so far as speech reaches” (Chh.7. 2. 2). In these texts the Sruti tells of differentresults according to the difference in the symbols.This is possible because the meditations depend onsymbols, while there could be no such difference inresults if they depended on the one non-differentBrahman. Hence it is clear that those who usesymbols for their meditations cannot go to Brahmaloka like those who meditate on the SagunaBrahman.
-
-
 
 **CHAPTER IV**
 
@@ -7530,8 +6356,6 @@ from the word 'own'.
 
  "Now this serene and happy being, after havingrisen from this body, and having attained the highestlight, reaches its own true form” (Chh. 8. 3. 4). Theopponent explains this text as follows: The individual soul which has got rid of its identification withthe three bodies, *viz.* gross, subtle, and causal, afterattaining Brahman exists in the state of Liberation.
 
-
-
 This Liberation was not a pre-existent thing, butsomething that is newly acquired like heaven, as theword 'reaches' in the text clearly shows. ThereforeLiberation is something new that is acquired by theJiva. The Sutra refutes this view and says that theword 'own' shows that Liberation was a pre-existentthing. The Jiva manifests its own nature, *i.e*. its realnature, which was so long covered with ignorance.This is its attainment of Liberation. It is nothingthat is newly acquired.
 
 **मुक्तः, प्रतिज्ञानात्॥२॥**
@@ -7541,8 +6365,6 @@ This Liberation was not a pre-existent thing, butsomething that is newly acquire
  **2. (The Self which manifests Its truenature attains) Liberation, (as is known),from the premise (made in the scriptures).**
 
  If Liberation is nothing new that is acquiredby the Jiva, then what is its difference from bondage?The Jiva in the state of bondage was subject to thethree states of wakefulness, dream, and deep sleep,and was experiencing happiness and misery,imagining itself to be finite. On being freed fromall these misconceptions it realizes its true nature,which is Absolute Bliss. This removal of allmisconceptions is what is known as Liberation.Between these two states there is a world ofdifference. How is it known that in this state theJiva is liberated? From the premise made in thescriptures--says the Sutra. "I will explain It to
-
-
 
 you further" (Chh. 8. 9. 3; 8. 10. 4; 8. 11. 3)— here the Sruti proposes to expound that Self whichis free from all imperfections, and it begins thus:"The being without the body is not touched bypleasure and pain" (Chh. 8. 12. 1) and concludes,"Thus does this serene being rising above its bodyand having reached the highest light, appear in itscwn true nature" (Chn. 8. 12. 3).
 
@@ -7561,8 +6383,6 @@ with Brahman is one of non-separation.***
 
  अविभागेन As inseparable दृष्ठत्वात् for it is so seenfrom the scriptures.
 
-
-
  **4. (The Jiva in the state of Liberation exists) as inseparable (from Brahman), for it is so seen from the scriptures.**
 
  The question is raised whether the Jiva in thestate of Liberation exists as different from Brahmanor as one with, and inseparable from, It. The Sutrasays that it exists as inseparable from Brahman, forthe scriptures say so. "That thou art" (Chh.6. 8. 7); "I am Brahman" (Brih. 1. 4. 10); “Beingbut Brahman, he is merged in Brahman" (Brih.4. 4. 6) all these texts declare that the released soulis identical with Brahman. Passages which speak ofdifference have to be explained in a secondary senseas expressing unity.
@@ -7578,8 +6398,6 @@ attained the Nirguna Brahman.***
 
  It has been said that the liberated soul attainsBrahman. But Brahman has two aspects; one theunconditioned aspect as Pure Intelligence and
 
-
-
 Knowledge; theotheras described in theChhândogya 8. 7. 1, "The Self which is free fromevil, undecaying, undying, free from sorrow, hungerand thirst, with true desires and volition" etc.The question is, which aspect does the liberated soulattain? Jaimini says that it is the conditionedaspect. Why? On account of the reference to thenature of the Self as being such in the text cited.'Etc.' includes Vidhi and Vyapadesa. The Vidhi orinjunction referred to is, "That is to be soughtafter," which the same Chhândogya text enjoinslater on, and Vyapadesa or assertion is the mentionof the qualities of omniscience and omnipotence inthe same text—"Obtains all worlds and all desires."On these grounds Jaimini thinks that the liberatedsoul attains the conditioned aspect of Brahman.
 
 **चितितन्मात्रेण, तदात्मकत्वादित्यौडुलोमिः॥६॥**
@@ -7590,8 +6408,6 @@ Knowledge; theotheras described in theChhândogya 8. 7. 1, "The Self which is fr
 
  This Sutra gives another view about the liberatedstate, which is that of the sage Audulomi. The soulbeing solely of the nature of Pure Intelligence, itexists as such in the liberated state. Qualities like
 
-
-
 being free from sin and omniscience are fanciful, andmean only the absence of sin etc.
 
 **एवमप्युपन्यासात् पूर्वभावादविरोधं बादरायणः॥७॥**
@@ -7601,8 +6417,6 @@ being free from sin and omniscience are fanciful, andmean only the absence of si
  **7. Even if it be so (*i.e.* if the liberatedsoul exists as Pure Intelligence), on account of former qualities existing owingto reference (we can accept them from therelative standpoint, for) there is no contradiction (between the two); (so thinks) Bâdarâyana.**
 
  Even though from the absolute standpoint thenature of the liberated soul is Pure Intelligence, yetfrom the relative standpoint qualities referred to byJaimini can be accepted, as this does not contradictAudulomi's view. The released soul never thinks ofitself as omniscient, omnipotent, etc., but exists asPure Intelligence. But from our relative standpointwe can say of such a released soul as being omniscient etc., because Pure Intelligence is beyond ourconception. The two views describe the liberated soulfrom two different standpoints, and so there is nocontradiction between the two. So says Bâdarâyana.
-
-
 
 ***Topic 4: The soul which has attained the Saguna  
 Brahman effects its desires by mere will.***
@@ -7623,8 +6437,6 @@ Brahman effects its desires by mere will.***
 
  A liberated soul is master of himself."For themthere is freedom in all worlds" (Chh. 8. 1. 6).
 
-
-
 ***Topic 5: A released soul which has attained  
 Brahmaloka can exist with or without  
 a body according to its liking.***
@@ -7642,8 +6454,6 @@ a body according to its liking.***
 भावं Existence जैमिनिःJaimini विकल्प-आमननात् becausethe scripture declares (the capacity to assume)diverse forms.
 
  **11. (The released soul) possesses (abody and the organs), considers Jaimini,because the scriptures declare (the capac-**
-
-
 
 **ity on the part of such a soul to assume)diverse forms.**
 
@@ -7664,8 +6474,6 @@ well as a Ahina sacrifice.
 
  **13. In the absence of a body (thefulfilment of desires is possible) as indreams, since this is reasonable.**
 
-
-
 **भावे जाग्रद्वत्॥१४॥**
 
  भावे When the body exists जाग्रत्-वत् as in thewaking state.
@@ -7684,8 +6492,6 @@ at the same time.***
 
  In Sutra 11 it was stated that a liberated soulcan assume many bodies at the same time forenjoyment. The opponent holds that this is useless,as enjoyment is possible only in that body in whichthe soul and mind exist, while other bodies are lifeless puppets, since the soul and mind, which cannotbe divided, cannot exist in more than one body.The Sutra refutes this view and says that the otherbodies are not lifeless puppets, for a released soulcan, on account of its power, animate all these bodies,just as the flame of a lamp can enter into differentwicks lighted from it. The soul through its powerscreates bodies with internal organs corresponding to
 
-
-
 the original internal organ, and being limited bythese, divides itself as many. Hence all the createdbodies have a soul, which makes enjoyment throughall of these possible. This we get from thescriptures.
 
 **स्वाप्ययसंपत्त्योरन्यतरापेक्षम्, आविष्कृतं हि॥१६॥**
@@ -7695,8 +6501,6 @@ the original internal organ, and being limited bythese, divides itself as many. 
  **16. (The declaration of absence of allcognition is made) having in view eitherof the two states, *viz.* deep sleep andabsolute union (with Brahman), for thisis made clear (by the scriptures).**
 
  "What should one know and through what"(Brih. 2. 4. 14); "But there is not that second thingseparate from it which it can know" (Ibid. 4. 3. 30);"It becomes like water, one, the witness, andwithout a second" (Ibid. 4. 3. 32). These textsdeny cognition to a released soul; so how is itpossible for a released soul to assume several bodiesand enjoy says the opponent. This Sutra says thatthese texts refer either to the state of deep sleep orto that of Liberation, in which the soul attainsabsolute union with the Nirguna Brahman, as is madeclear by the scriptures from the context in eachcase. But what we have been discussing in the
-
-
 
 previous Sutras is the case of one who has attainednot absolute union with Brahman, but onlyBrahmaloka. This state is quite different from theother two states, and as such, cognition is possiblein it, there being diversity, as also enjoyment, evenas in heaven, the difference being that fromBrahmaloka one does not return to this earth,whereas from heaven one returns to this mortalworld after the exhaustion of the virtue which raisedhim to the status of a god.
 
@@ -7712,8 +6516,6 @@ except the power of creation etc.***
 
  The question is raised whether those who byworshipping the qualified Brahman attain Brahma-
 
-
-
 loka and lordly powers, have limited or unlimitedpowers. The opponent holds that it should beunlimited, because of the scriptural texts, "They canroam at will in all the worlds" (Chh. 7. 25. 2,8. 1. 6); "To him all the gods offer worship"(Taitt. 1. 5). This Sutra says that the releasedsouls attain lordly powers without the power ofcreating, preserving, and destroying the universe.Burring this power they get all other powers.Why Because Iswara is the subject-matter of allthe texts dealing with creation etc., while theliberated souls are not mentioned at all in thisconnection. Moreover, this would lead to manyIswaras, which may give rise to a conflict of willswith respect to creation etc. Therefore the powersof the liberated souls are not absolute but limited,and are dependent on the will of Iswara.
 
 **प्रत्यक्षोपदेशादितिचेत्, न, आधिकारिकमण्डलस्थोक्तेः॥१८॥**
@@ -7721,8 +6523,6 @@ loka and lordly powers, have limited or unlimitedpowers. The opponent holds that
  प्रत्यक्ष-उपदेशात् On account of direct teaching इति चेत्if it be said न not आधिकारिक मण्डलस्थ-उक्तेःbecause thescripture declares (that the soul attains Him) whoentrusts the sun etc. (with their offices) and residesin those spheres.
 
  **18. If it be said (that the releasedsoul attains absolute powers) on accountof direct teaching (of the scriptures), (wesay) no, for the scriptures declare (that thereleased soul attains Him) who entrusts**
-
-
 
 **the sun etc. (with their offices) and residesin those spheres.**
 
@@ -7735,8 +6535,6 @@ loka and lordly powers, have limited or unlimitedpowers. The opponent holds that
 ** 19. And (there is a form of theSupreme Lord) which is beyond all createdthings, because so the scripture declares(His) existence (in a twofold form).**
 
  "Such is the greatness of it; greater than it isthe Purusha. One foot of His is all beings. His(other) three feet are what is immortal in heaven"(Chh. 3. 12. 6). This text declares that the SupremeLord abides in two forms, the transcendental andthe relative. Now he who worships the Lord in Hisrelative aspect does not attain the transcendental
-
-
 
 aspect, for the Sruti says, "As one meditates uponThat, so one becomes." Similarly, since the worshipper is not able to comprehend the relative aspectof the Lord in full, as possessed of infinite attributesand powers, but is able to comprehend Him onlypartially, he attains only limited powers, and notunlimited powers like the Lord Himself.
 
@@ -7754,8 +6552,6 @@ aspect, for the Sruti says, "As one meditates uponThat, so one becomes." Similar
 
  **21. And because of the indications(in the scriptures) of equality (of thereleased soul with the Lord) only withrespect to enjoyment.**
 
-
-
  That the powers of the released soul are notunlimited is also known from the indications in theSruti that the equality of these souls with the Lordis only with respect to enjoyment, and not withrespect to creation etc. "As all beings take care ofthis Deity, so do they take care of him" (Brih. 1. 5.20); "Through it he attains identity with this Deity,or lives in the same world with it" (Brih. 1. 5. 23).All these texts describe equality only with respectto enjoyment, and mention nothing as regardscreation etc.
 
 **अनावृत्तिः शब्दात्,अनावृत्तिः शब्दात्॥२२॥**
@@ -7768,11 +6564,7 @@ If the powers of the released souls are limited, then like all limited things th
 
  The repetition of the words "No return" etc.is to show that the book is finished.
 
-
-
 **INDEX**
-
-
 
 **INDEX TO SUTRAS**
 
@@ -7802,8 +6594,6 @@ If the powers of the released souls are limited, then like all limited things th
 |    अतश्चायनेऽपि०    |   4    |    2    |   20   |  अनुबन्धादिभ्यः ०   |   3    |    3    |   50   |
 | अतस्त्वितरज्ज्या०  |   3    |    4    |   39   |  अनुष्ठेयं बादरा ०  |   3    |    4    |   19   |
 |     अतिदेशाच्च      |   3    |    8    |   46   | अनुस्मृतेर्बादिरिः |   1    |    2    |   30   |
-
-
 
 |                        |        |         |        |                    |        |         |        |
 |:----------------------:|:------:|:-------:|:------:|:------------------:|:------:|:-------:|:------:|
@@ -7836,8 +6626,6 @@ If the powers of the released souls are limited, then like all limited things th
 | अपिचैवमेके      |   3    |    2    |   13   | असन्ततेश्चाव्यति०  |   2    |    3    |   49   |
 |     अपि च संराधने०     |   3    |    2    |   24   |  असम्भवस्तु सतो०   |   2    |    8    |       |
 
-
-
 |                   |         |          |        |                      |         |          |        |
 |:-----------------:|:-------:|:--------:|:------:|:--------------------:|:-------:|:--------:|:------:|
 |                  | **Ch.** | **Sec.** | **S.** |                     | **Ch.** | **Sec.** | **S.** |
@@ -7868,8 +6656,6 @@ If the powers of the released souls are limited, then like all limited things th
 |     आभास एव च     |    2    |    3     |   50   |  उपपन्नस्तल्लक्षणा०  |    3    |    3     |   30   |
 |     आमनन्ति०      |    1    |    2     |   32   |  उपपूर्वमपि त्वेके०  |    3    |    4     |   42   |
 
-
-
 |                       |         |          |        |                       |         |          |        |
 |-----------------------|:-------:|:--------:|:------:|-----------------------|:-------:|:--------:|:------:|
 |                      | **Ch.** | **Sec.** | **S.** |                      | **Ch.** | **Sec.** | **S.** |
@@ -7899,8 +6685,6 @@ If the powers of the released souls are limited, then like all limited things th
 | कर्ता शास्त्रार्थव०   |    2    |    3     |   33   | गौणयसम्भवात्          |    2    |    4     |   2    |
 | कर्मकर्तृ व्यपदेशाच्च |    1    |    2     |   4    |                      |        |         |       |
 
-
-
 |                     |        |         |        |                    |        |         |        |
 |---------------------|:------:|:-------:|:------:|--------------------|:------:|:-------:|:------:|
 |                    | **Ch** | **Sec** | **S.** |                   | **Ch** | **Sec** | **S.** |
@@ -7929,8 +6713,6 @@ If the powers of the released souls are limited, then like all limited things th
 | तडितोऽधि वरु०       |   4    |    3    |   3    | तन्निष्ठस्य मोक्ष० |   1    |    0    |   7    |
 | तत्तु समन्वयात्     |   1    |    1    |   4    | तन्मनः प्राण०      |   4    |    2    |   3    |
 | तत्पूर्वकत्वाद्वाचः |   2    |    4    |   4    | तन्वभावे सन्ध्य०   |   4    |    4    |   13   |
-
-
 
 |                      |        |         |       |                     |        |         |       |
 |----------------------|:------:|:-------:|:-----:|:-------------------:|:------:|:-------:|:-----:|
@@ -7962,8 +6744,6 @@ If the powers of the released souls are limited, then like all limited things th
 |                     |       |        |      |    न स्थानतोऽपि०    |   3    |    2    |  11   |
 | धर्म जैमिनिरत एव     |   3    |    2    |  40   | नापुरतच्छ्रुतेरि०  |   2    |    3    |  21   |
 | धर्मोपपत्ते श्च      |   1    |    3    |   9   |   नातिचिरेण विशे०   |   3    |    1    |  23   |
-
-
 
 **INDEX TO SUTRAS**
 
@@ -7998,8 +6778,6 @@ If the powers of the released souls are limited, then like all limited things th
 |    परामर्श जैमिनिर०    |   3    |    4    |  18   |  प्रदानवदेव तदुक्तम्  |   3    |    3    |  43   |
 |    परेण च शब्दस्य ०    |   3    |    3    |  52   |  प्रदीपवदादेशस्तथा०   |   4    |    4    |  15   |
 
-
-
 |                         |         |          |        |                        |         |          |        |
 |-------------------------|:-------:|:--------:|:------:|------------------------|:-------:|:--------:|:------:|
 |                        | **Ch.** | **Sec.** | **S.** |                       | **Ch.** | **Sec.** | **S.** |
@@ -8029,8 +6807,6 @@ If the powers of the released souls are limited, then like all limited things th
 | भूतादिपादव्यपदे०        |    1    |    1     |   26   | यथाच प्राणादि          |    2    |    1     |   20   |
 | भूतेषु तच्छ्रुतेः       |    4    |    2     |   5    | यदेव विद्ययेति हि      |    4    |    1     |   18   |
 | भूमा संप्रसादाद०        |    1    |    3     |   8    | यावदधिकारमव०           |    3    |    3     |   32   |
-
-
 
 |                     |         |          |        |                      |         |          |        |
 |:-------------------:|:-------:|:--------:|:------:|:--------------------:|:-------:|:--------:|:------:|
@@ -8063,8 +6839,6 @@ If the powers of the released souls are limited, then like all limited things th
 | विज्ञानादिभावे वा०  |    2    |    2     |   44   |  व्यतिरेको गन्धवत्   |    2    |    3     |   26   |
 |  विद्याकर्मणोरिति०  |    3    |    1     |   17   |   व्यतिहारो विशिं०   |    3    |    3     |   37   |
 
-
-
 |                          |         |          |        |                          |         |          |        |
 |:------------------------:|:-------:|:--------:|:------:|:------------------------:|:-------:|:--------:|:------:|
 |                         | **Ch.** | **Sec.** | **S.** |                         | **Ch.** | **Sec.** | **S.** |
@@ -8096,8 +6870,6 @@ If the powers of the released souls are limited, then like all limited things th
 |  संज्ञातश्चेत्तदुक्तम्०  |    3    |    3     |   8    |    सर्वधर्मोपपत्तेश्च    |    2    |    1     |   37   |
 | संज्ञामूर्तिक्लप्तिस्तु० |    2    |    4     |   20   |   सर्ववेदान्तप्रत्ययं०   |    3    |    3     |   1    |
 
-
-
 |                             |         |          |        |                      |         |          |        |
 |:---------------------------:|:-------:|:--------:|:------:|:--------------------:|:-------:|:--------:|:------:|
 |                            | **Ch.** | **Sec.** | **S.** |                     | **Ch.** | **Sec.** | **S.** |
@@ -8127,95 +6899,42 @@ If the powers of the released souls are limited, then like all limited things th
 |       स्थानविशेषात्०        |    3    |    2     |   34   | हृद्यपेक्षया तु मनु० |    1    |    3     |   25   |
 |     स्थानादिव्यपदेशाच्च     |    1    |    2     |   14   |    हेयत्वावचनाच्च    |    1    |    1     |   8    |
 
+**GENERAL INDEX**
 
+[TABLE]
+
+[TABLE]
 
 **GENERAL INDEX**
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
+[TABLE]
 
+[TABLE]
+
+[TABLE]
 
 **GENERAL INDEX**
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-**GENERAL INDEX**
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-
-
-
-
-
-
-
-
 
 \]
-
-
-
-
-
-
-
-
-
-

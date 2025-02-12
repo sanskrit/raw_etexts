@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 
 \[
 
-
-
 अथ श्रीमद्भगवद्गीता
 
 अथ प्रथमो अध्यायः (अर्जुनविषादयोगः)
@@ -182,8 +180,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 
 एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत्  
 विसृज्य सशरं चापं शोकसंविग्नमानसः १.४७
-
-
 
 अथ द्वितीयोध्यायः. (साङ्ख्ययोगः)
 
@@ -449,8 +445,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति  
 स्थित्वास्यामन्तकालेपि ब्रह्मनिर्वाणमृच्छति २.७२
 
-
-
 अथ तृतीयोध्यायः. (कर्मयोगः)
 
 अर्जुन उवाच
@@ -604,8 +598,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 आत्मना  
 जहि शत्रुं महाबाहो कामरूपं दुरासदम् ३.४३
 
-
-
 अथ चतुर्थोध्यायः.  
 (ज्ञानकर्मसंन्यासयोगः)
 
@@ -756,8 +748,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत  
 ४.४२
 
-
-
 अथ पञ्चमोध्यायः. (संन्यासयोगः)
 
 अर्जुन उवाच
@@ -860,8 +850,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम्  
 सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति  
 ५.२९
-
-
 
 अथ षष्ठोध्यायः. (आत्मसंयमयोगः)
 
@@ -1026,8 +1014,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 श्रद्धावान् भजते यो मां स मे युक्ततमो मतः  
 ६.४७
 
-
-
 अथ सप्तमोध्यायः. (ज्ञानविज्ञानयोगः)
 
 श्रीभगवानुवाच
@@ -1135,8 +1121,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 साधिभूताधिदैवं मां साधियज्ञं च ये विदुः  
 प्रयाणकालेपि च मां ते विदुर्युक्तचेतसः ७.३०
 
-
-
 अथ अष्टमोध्यायः. (अक्षरब्रह्मयोगः)
 
 अर्जुन उवाच
@@ -1240,8 +1224,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 दानेषु यत्पुण्यफलं प्रदिष्टम्  
 अत्येति तत्सर्वमिदं विदित्वा  
 योगी परं स्थानमुपैति चाद्यम् ८.२८
-
-
 
 अथ नवमोध्यायः. (राजविद्याराजगुह्ययोगः)
 
@@ -1366,8 +1348,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु  
 मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः  
 ९.३४
-
-
 
 अथ दशमोध्यायः. (विभूतियोगः)
 
@@ -1525,8 +1505,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 अथवा बहुनैतेन किं ज्ञातेन तवार्जुन  
 विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्  
 १०.४२
-
-
 
 अथैकादशोध्यायः. (विश्वरूपदर्शनयोगः)
 
@@ -1792,8 +1770,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः  
 निर्वैरः सर्वभूतेषु यः स मामेति पाण्डव ११.५५
 
-
-
 अथ द्वादशोध्यायः. (भक्तियोगः)
 
 अर्जुन उवाच
@@ -1868,8 +1844,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते  
 श्रद्दधाना मत्परमा भक्तास्तेतीव मे प्रियाः  
 १२.२०
-
-
 
 अथ त्रयोदशोध्यायः.  
 (क्षेत्रक्षेत्रज्ञविभागयोगः)
@@ -1996,8 +1970,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा  
 भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् १३.३५
 
-
-
 अथ चतुर्दशोध्यायः.  
 (गुणत्रयविभागयोगः)
 
@@ -2096,9 +2068,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च  
 शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च १४.२७
 
-
-
-
 अथ पञ्चदशोध्यायः. (पुरुषोत्तमयोगः)
 
 श्रीभगवानुवाच
@@ -2176,8 +2145,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ  
 एतत्बुद्ध्वा बुद्धिमान् स्यात्कृतकृत्यश्च भारत  
 १५.२०
-
-
 
 अथ षोडशोध्यायः.  
 (दैवासुरसंपद्विभागयोगः)
@@ -2263,7 +2230,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 कार्याकार्यव्यवस्थितौ  
 ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि  
 १६.२४
-
 
 अथ सप्तदशोध्यायः.  
 (श्रद्धात्रयविभागयोगः)
@@ -2366,8 +2332,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 
 अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत्  
 असदित्युच्यते पार्थ न च तत्प्रेप्य नो इह १७.२८
-
-
 
 अथाष्टादशोध्यायः. (मोक्षसंन्यासयोगः)
 
@@ -2658,9 +2622,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः  
 तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम १८.७८
 
-
-
-
 ॥ ॐ नमः भगवते वासुदेवाय ॥  
 बारहवाँ अध्याय  
 अर्जुन उवाच  
@@ -2726,7 +2687,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDE0MDM2MzIw
 श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ॥१२- २०॥  
 और जो श्रद्धावान भक्त मुझ ही पर परायण (मुझे ही लक्ष्य मानते) हुये, इस बताये गये धर्म अमृत की उपासना करते हैं (मानते हैं और पालन करते हैं), ऍसे भक्त मुझे अत्यन्त (अतीव) प्रिय हैं ।  
 ॥ ॐ नमः भगवते वासुदेवाये ॥
-
-
 
 \]

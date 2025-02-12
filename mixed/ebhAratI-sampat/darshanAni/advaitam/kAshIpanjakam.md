@@ -12,15 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4ODQ0OTI0MjA
 
 \[
 
-
-
 काशीपञ्चकम्
-
-
-
-
-
-
 
 मनोनिवृत्तिः परमोपशान्तिः
 
@@ -30,8 +22,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4ODQ0OTI0MjA
 
  सा काशिकाहं निजबोधरूपा ॥ १॥
 
-
-
 यस्यामिदं कल्पितमिन्द्रजालं
 
  चराचरं भाति मनोविलासम् ।
@@ -39,8 +29,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4ODQ0OTI0MjA
 सच्चित्सुखैका परमात्मरूपा
 
  सा काशिकाहं निजबोधरूपा ॥ २॥
-
-
 
 कोशेषु पञ्चस्वधिराजमाना
 
@@ -50,13 +38,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4ODQ0OTI0MjA
 
  सा काशिकाहं निजबोधरूपा ॥ ३॥
 
-
-
 काश्यां हि काश्यते काशी काशी सर्वप्रकाशिका ।
 
 सा काशी विदिता येन तेन प्राप्ता हि काशिका ॥ ४॥
-
-
 
 काशीक्षेत्रं शरीरं त्रिभुवनजननी व्यापिनी ङ्य़ानगण्गा ।
 
@@ -66,23 +50,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM4ODQ0OTI0MjA
 
  देहे सर्वं मदीये यदि वसति पुनस्तीर्थमन्यत्किमस्ति ॥ ५॥
 
-
-
  शङ्कराचार्य
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

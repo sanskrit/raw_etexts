@@ -16,52 +16,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4Mjc3NjQ4ODk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
-
-[TABLE]
-
-
-
-
-
 
 **FOREWORD**
-
 
  Srimad- Bhāgavataṃ is one of the most authoritative of Hindu scriptures. Tradition ascribes its authorship to the great Vyāsa, by whom it was taught to his illustrious son,Bhagsvân Suka. The Bhagavata is a high authority on Bhakti or devotion. But devotion, as depicted here, is not divorced from Jnanam, as it is popularly understood, but rather Jnanam is exceedingly herplua to its perfect attainment. Bhagavan Sri Krishna is the central figure of this wonderful work, and in the Eleventh Book, the Lord on the eve of His exit from the arena of the world gives His parting instructions to His beloved devotee and follower, Uddhava. The lessons comprise a variety of subjects, but in and through all, the necessity of seeing the Lord in everything and living a life of perfect self-surrender and non-attachment is passionately inculcated. The Bhagavata amply fulfils the chief task of the Purānas, viz. popularising the Vedic truths by means of narratives and such other aids. "It is,"as Sri Ramakrishna aptly expressed it, "fried in the butter of Jnanam and soaked in the syrup of Bhakti." The study of such a book cannot but be of the greatest help to a seeker after Truth.
 
   The present edition comprises the two volumes which were first published with the title "Sri Krishna and Uddhava" and corresponds to chapters six to twenty-nine of the Eleventh Skandha of the Bhaga-
 
-
-
 vata. The difficulty of the original **will, it is hoped,** be greatly overcome by the translation and notes here given. Of the many commentaries extant, Shridhara Swami's is the most famous, and it is this which we have mainly followed. We have every reason to hope that the present work will form a fitting sequel to the celebrated Srimad-Bhagavad-Gita.
 
-
 MADHAVANANDA
-
-
 
 **CONTENTS**
 
@@ -69,28 +38,10 @@ MADHAVANANDA
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **THE  
 LAST MESSAGE OF SRI KRISHNA**
-
-
 
 **CHAPTER I**
 
@@ -117,8 +68,6 @@ LAST MESSAGE OF SRI KRISHNA**
 **गन्धर्वाप्सरसो नागाः सिद्धचारणगुह्यकाः।  
 ऋषयः पितरश्चैव सविद्याधरकिन्नराः॥३॥**
 
-
-
  3. The Gandharvas, the Apsarās, the Nāgas, the Siddhas, the Chāranas, the Guhyakas, the Rishis, the Pitris, together with the Vidyâdharas and the Kinnaras,—
 
 **द्वारकामुपसंजग्मुः सर्वे कृष्णदिदृक्षवः।  
@@ -138,8 +87,6 @@ LAST MESSAGE OF SRI KRISHNA**
  6. Covering the best¹ of the Yadus with garlands of flowers growing in the gardens of heaven, they began to praise the Lord of the Universe ivith sentences full of beautiful words and sentiments.
 
 ** \[¹*The best etc*.—i.e. Sri Krishna.\]**
-
-
 
 **    देवा ऊचुः।**
 
@@ -166,8 +113,6 @@ LAST MESSAGE OF SRI KRISHNA**
 
  8. O Thou Invincible One, through Thy Mâyâ¹ consisting of the three Gunas, and resting² in them, Thou dost create, maintain and destroy in Thyself³ this unthinkable universe, but these activities do not touch Thee, for Thou art unimpeachable, being immersed in the unobstructed bliss of the Self.⁴
 
-
-
 **\[*¹Mâyâ* — is the indescribable power of the Lord, being the equilibrium of Sattva or balance, Rajas or activity and Tamas or dullness.**
 
 *** ² Resting etc.*—i.e. seeming to identify Himself with the Gunas.**
@@ -189,8 +134,6 @@ LAST MESSAGE OF SRI KRISHNA**
 र्व्यूहेऽर्चितः सवनशः स्वरतिक्रमाय॥१०॥**
 
  10. May Thy feet¹be the fire to consume our evil desires, the feet which sages, for their welfare, carry² with tender hearts, which are worshipped by
-
-
 
 devotees in diverse forms for attaining equal glories³ with Thee, and by the spiritually-minded thrice a day with a view to transcending heaven!
 
@@ -216,8 +159,6 @@ devotees in diverse forms for attaining equal glories³ with Thee, and by the sp
 यः सुप्रणीतममुयार्हणमाददन्नो  
 भूयात्सदाङघ्निरशुभाशयधूमकेतुः॥१२॥**
 
-
-
  12. O Omnipresent Lord, the Goddess Lakshmi is jealous¹—as from a co-wife—of Thy garland of wild flowers, even though withered; Thou dost accept the worship done with this (garland) as duly offered.² Oh, may Thy feet ever be the fire to consume our evil desires!
 
 **\[*¹Jealous etc.*—The garland also hangs on the Lord's breast, a place reserved for His Divine Spouse, Lakshmi.**
@@ -232,8 +173,6 @@ devotees in diverse forms for attaining equal glories³ with Thee, and by the sp
  13. O Infinite, O Lord, may Thy feet rectify the sins of us, Thy devotees,—the feet which with its three steps¹became Thy banner,² as it were, with the Ganges³ flowing in three regions as its pennon; which caused fear and fearlessness to the armies of the Asuras and the Devas respectively; which conduce to heaven in the case of the good, and to hell⁴ in that of the wicked!
 
 ** \[¹*Three steps etc*.—The reference is to the Vamana or 'Dwarf Incarnation of the Lord, in which He for the sake of Indra begged of Bali, the Asura usurper of heaven, as much earth as would be covered by His three steps. The king consenting, the Lord assumed a mighty form, one step of His covering the earth and the second the heaven, while there was no space for the third, whereupon Bali— whose name is a household word in India for generosity**—
-
-
 
 offered his head for this purpose and was asked by the Lord to go and live in the nether regions.
 
@@ -261,9 +200,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 सोऽयं त्रिणाभिरखिलापचये प्रवृत्तः  
 कालो गभीररय उत्तमपुरुषस्त्वम्॥१५॥**  
 
-
-
-
  15. Thou art the cause of the origin, continuity and dissolution of this universe, (the Vedas) call Thee the Ruler of the Undifferentiated,¹the Jiva and the Mahat²also. Thou also art Time with its three naves,³which we know to be of immense power,— which destroys everything. Ah, Thou art the Supreme Being.
 
 ** \[*¹ Undifferentiated*—same as Maya.**
@@ -287,8 +223,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 
 *** ³*Outer coverings—layers of varying density.\]**
 
-
-
 **तत्तस्थुषश्च जगतश्च भवानधीशो  
 यन्माययोत्थगुणविक्रिययोपनीतान्।  
 अर्थाञ्जुषन्नपि हृषीकपते न लिप्तो  
@@ -309,10 +243,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 
 **विभ्व्यस्तवामृतकथोदवहास्त्रिलोक्याः  
 पादावनेजसरित शमलानि हन्तुम्।**
-
-
-
-
 
 **आनुश्चवं श्रुतिभिरङ्घ्रिजमङ्गसङ्गै-  
 स्तीर्थद्वयं शुचिषदस्त उपस्पृशन्ति॥१९॥**
@@ -341,10 +271,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **भूमेर्भारावताराय पुरा विज्ञापितः प्रभो।  
 त्वमस्माभिरशेषात्मंस्तत्तथैवोपपादितम्॥२१॥**
 
-
-
-
-
 ** Brahmâ said :**
 
  21. O Lord, we formerly besought Thee toreduce the burden of the earth. O Thou Self of all, Thou hast done it exactly as we wished.
@@ -368,8 +294,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 शरच्छतं व्यतीयाय पञ्चविंशाधिकं प्रभो॥२५॥**
 
  25. O Lord, O Thou Supreme Being, a hundred and twenty-five years have passed since Thou didst incarnate in **Yadu's line.**
-
-
 
 **नाधुना तेऽखिलाधारदेवकार्यावशेषितम्।  
 कुलं च विप्रशापेन नष्टप्रायमभूदिदम्॥२६॥**
@@ -399,8 +323,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **तदिदं यादवकुलं वीर्यशौर्यश्रियोद्धतम्।  
 लोकं जिघृक्षद्रुद्धं मे वेलयेव महार्णवः॥२९॥**
 
-
-
  29. This famous line of Yadu, haughty with the splendour brought on by strength and prowess, is bidding fair to overrun the world, and is only stopped from doing so by Me, like the ocean by its coast.
 
 **यद्यसंहृत्य दृप्तानां यदूनां विपुलं कुलम्।  
@@ -423,8 +345,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **Suka said :**
 
  32. Being thus accosted by the Lord of the Universe, the Lord Brahmâ saluted Him and went back to His abode, along with the gods.
-
-
 
 **अथ तस्यां महोत्पातान्द्वारवत्यां समुत्थितान्।  
 विलोक्य भगवानाह यदुबृद्धान्समागतान्॥३३॥**
@@ -450,9 +370,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 
  36. Bathing in which place Chandra (the moon), who was afflicted with consumption by Daksha's curse,¹was instantaneously cured of his evil and again had his digits restored.  
 
-
-
-
 **\[¹*Curse—* According to Hindu mythology Chandra married twenty-seven daughters of the Prajâpati Daksha (27 constellations). Daksha cursed his son-in-law for his undue partiality for his favourite wife, Rohini, to the exclusion of some of his other wives.\]**
 
 **चयं च तस्मिन्नाप्लुत्य तर्पयित्वा पितॄन्सुरान्।  
@@ -475,8 +392,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
  39. O scion¹ of the Kurus, being thus ordered by the Lord, the Yâdavas made ready their chariots with the object of going to the place of pilgrimage.
 
 **\[¹*Scion etc.—*King Parikshit, to whom Suka narrates the incidents described in the Bhâgavata.\]**
-
-
 
 **तन्निरीक्ष्योद्धवो राजन् श्रुत्वा भगवतोदितम्।  
 दृष्ट्वारिष्टानि घोराणि नित्यं कृष्णमनुव्रतः॥४०॥**
@@ -501,10 +416,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **नाहं तवाङ्घ्रिकमलं क्षणार्धमपि केशव।  
 त्यक्तुं समुत्सहे नाथ स्वधाम नय मामपि॥४३॥**
 
-
-
-
-
  43. O Keshava, not for half a second can I bear to be separated from Thy lotus-feet.Therefore, O Lord, take me also to Thy abode.¹
 
 **\[¹*Abode*—The word *dhdma* also means the *swarupa* the status or essential nature, which is its inner significance, as in Verse 47.\]**
@@ -528,13 +439,10 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 
 **\[¹*Food—* Teachers of Bhakti attach great importance to this as a factor contributing to devotion.\]**
 
-
-
 **वाताशना य ऋषयः श्रमणा ऊर्ध्वमन्थिनः।  
 ब्रह्माख्यं धाम ते यान्ति शान्ताः संन्यासिनोऽमलाः॥४७॥**
 
  47. Sages who¹ live on air,² who are ascetics and observe continence, who have pacified their senses, renounced the world and are pure, reach Thy status known as Brahman.
-
 
 **\[*¹Who etc*.***—* **They may undergo all these troubles to realise Brahman, but ours is a  much safer and easier way,—says Uddhava.**
 
@@ -552,25 +460,14 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 
  49. Remembering and reciting Thy deeds and words, Thy movements, smiles, glances and pleasantries in imitation of human beings.
 
-
-
 **श्रीशुक उवाच।**
 
 **एवं विज्ञापितो राजन्भगवान्देवकीसुतः।  
 एकान्तिनं प्रियं भृत्यमुद्धवं समभाषत॥५०॥**
 
-
 ** Suka said :**
 
  50. Being thus appealed to, O king, Bhagavân Sri Krishna spoke to His beloved servant, Uddhava, who was all attention.
-
-
-
-
-
-
-
-
 
 **CHAPTER II**
 
@@ -595,10 +492,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **कुलं वै शापनिर्दग्धं नङ्क्ष्यत्यन्योन्यविग्रहात्।  
 समुद्रः सप्तमेऽह्नयेतां पुरीं व प्लावयिष्यति॥३॥**
 
-
-
-
-
  3. This line, which is thoroughly burnt by the curse, will come to destruction through mutual fight, and the sea will submerge this city on the seventh day.
 
 **यर्ह्येवायं मया त्यक्तो लोकोऽयं नष्टमङ्गलः।  
@@ -620,8 +513,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 नश्वरं गृह्यमाणं च विद्धि मायामनोमयम्॥७॥**
 
  7. Whatever is cognised by the mind, speech, eyes, ears and the rest,—know it all to be a figment of the mind, a phantasmagoria, and withal doomed to pass away.
-
-
 
 **पुंसोऽयुक्तस्य नानार्थी भ्रमः स गुणदोषभाक्।  
 कर्माकर्म विकर्मेति गुणदोषधियो भिदा॥८॥**
@@ -650,10 +541,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 
 **²*Realisation* —of the oneness of the Self.\]**
 
-
-
-
-
 **³ *Thou wilt not etc*.—The idea is that prior to Realisation one should observe the duties of life, but after that one becomes the Self of all, including the gods, who naturally therefore cannot hurt the man of Realisation. Compare Brihadâranyaka Upanishad I. iv. 10.\]**
 
 **दोषबुद्ध्योभयातीतो निषेधान्न निवर्तते।  
@@ -664,7 +551,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **\[¹*Such a man etc.*—He acts on the momentum of his past good impressions or Samskâras, and never deviates, even unconsciously, from the strictly moral path. It is now his nature to do good acts and avoid evil actions. So there is no chance of his behaving according to caprice.**
 
 **²*Like a child*—i.e. mechanically.\]**
-
 
 **सर्वभूतसुहृच्छान्तो ज्ञानविज्ञाननिश्चयः।  
 पश्यन्मदात्मकं विश्वं न विपद्यते वै पुनः॥१२॥**
@@ -677,10 +563,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 
 **इत्यादिष्टो भगवता महाभागवतो नृप।  
 उद्धवः प्रणिपत्याह तत्त्वजिज्ञासुरच्युतम्॥१३॥**
-
-
-
-
 
 ** Suka said :**
 
@@ -707,10 +589,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 तत्त्वञ्जसा निगदितं भवता यथाहं  
 संसाधयामि भगवन्ननुशाधि भृत्यम्॥१६॥**
 
-
-
-
-
  16. I¹ am but a fool, being passionately attached to this body²and its appurtenances—which are the creation of Thy Maya³—and considering these as 'I and mine'; gently so, instruct Thy servant, O Lord, so that I can faithfully carry out what Thou hast taught me.
 
 **\[¹*/ am etc.*—The W\* in the text means: 'Whom Thou dost consider as fit for Sannyâsa.'**
@@ -718,7 +596,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **² *Body etc*.— The body is erroneously considered as 'I' and children and property, etc., as 'mine.'**
 
 **³ Mâyâ—The inscrutable Power of the Lord—nay, the Lord Himself in action.\]**
-
 
 **सत्यस्य ते स्वदृश आत्मन आत्मनोऽन्यं  
 वक्तारमीश विबुधेष्वपि नानुचक्षे।  
@@ -733,10 +610,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 सर्वज्ञमीश्वरमकुण्ठविकुण्ठधिष्ण्यम्।  
 निर्विण्णधीरहमु ह वृजिनाभितप्तो  
 नारायणंनरसखं शरणं प्रपद्ये॥१८॥**
-
-
-
-
 
  18. Therefore, afflicted by sins and dispirited,, do I take my refuge in Thee who art¹ unimpeachable, infinite and eternal, omniscient, the Lord of the Universe, who dwellest in the changeless Vaikuntha, who art the Supreme Being Nârâyana,² and the Friend of man.
 
@@ -763,10 +636,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **पुरुषत्वे च मां धीराः सांख्ययोगविशारदाः।  
 आविस्तरां प्रपश्यन्ति सर्वशक्त्युपबृंहितम्॥२१॥**
 
-
-
-
-
  21. Those who are of a balanced mind and are skilled in Knowledge and Yoga behold Me in the human body as fully manifest¹ and endowed with all powers.
 
 **\[*¹Fully manifest etc*.—An echo of the Sruti passage: पुरषत्वे च आविस्तरामात्मा &c. — "In the human body the Atman is most manifest. There, being most endowed with illumination, It speaks cogent words and sees approved conduct; knows present duties, and heaven and hell; wishes immortality through this mortal frame;— thus is It pre-eminently gifted. While the inferior animals have knowledge of hunger and thirst merely."\]**
@@ -784,8 +653,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
  23. In this, men who have controlled their sensesdirectly seek Me, the inscrutable Lord, through attributes*¹* such as the intellect etc., that are perceived, and by means of inference² through those indications.
 
 **\[*¹Through attributes etc.*— This method is knownas *Arthdpatti* or implication. The intellect etc. are inert, and must have some Self-effulgent Unit Principle behind them to make them active. This is the Atman.**
-
-
 
 *²Inference etc.—*The intellect etc. are instruments of knowledge and as such require some intelligent agent to use them.
 
@@ -810,10 +677,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **कुतो बुद्धिरियं ब्रह्मन्नकर्तुः सुविशारदा।  
 यामासाद्य भवाँल्लोकं विद्वांश्चरति बालवत्॥२६॥**
 
-
-
-
-
 **Yadu said :**
 
  26. O Brahmin, free from action as you are, whence have you got this excellent discernment attaining which you roam over the world like a child,although you are a sage?
@@ -836,8 +699,6 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 न तप्यसेऽग्निना मुक्तो गङ्गाम्भस्थ इव द्विपः॥२९॥**
 
  29. While people are being scorched by the forest-fire of lust and greed, you are not heated by
-
-
 
 the fire, being free from its influence like an elephant in the midst of Ganges water.
 
@@ -866,8 +727,6 @@ the fire, being free from its influence like an elephant in the midst of Ganges 
 
  32. I have many teachers, O king, whom I resorted to through the intellect,¹receiving wisdom from whom I roam on earth at large. Listen who they **are**.
 
-
-
 **\[\**Through the intellect —* Not that they actually instructed me but I derived these lessons from their way of living.\]**
 
 **पृथिवी वायुराकाशमापोऽग्निश्चन्द्रमा रविः।  
@@ -890,8 +749,6 @@ the fire, being free from its influence like an elephant in the midst of Ganges 
 **यतो यदनुशिक्षामि यथा वा नाहुषात्मज।  
 तत् तथा पुरुषव्याघ्र निबोध कथयामि ते॥३६॥**
 
-
-
 36. O grandson of Nahusha, I am going to relate to you which lesson I have learnt from whom, and how,―listen.
 
 **भूतैराक्रम्यमाणोऽपि धीरो दैववशानुगः।  
@@ -913,8 +770,6 @@ the fire, being free from its influence like an elephant in the midst of Ganges 
 **\[*¹The hill*—produces vegetation, streams, etc., which contribute to others' good.**
 
 ***² Disposal etc.*— Even if you hew it down, it will not**
-
-
 
 **murmur. Pelt at it, and it will give you luscious fruits. It calmly bears the ravages of the seasons, and so on.\]**
 
@@ -939,9 +794,6 @@ the fire, being free from its influence like an elephant in the midst of Ganges 
 
 41. Even though entering material bodies on earth and associating with their attributes, the Yogi  
 
-
-
-
 with his eyes always on the Self, is not affected by those attributes, like the wind by odours.
 
 **अन्तर्हितश्च स्थिरजङ्गमेषु  
@@ -959,10 +811,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 \\ 43. As the sky is not touched by things which are the products of fire,¹water and earth, nor by clouds driven by the wind, so a man² should not be touched by things which are the creations of time.
 
 **\[¹*Fire, water and earth—*With Akaŝha and Vâyu these form the five successive Mahâbhutas in the initial creative process. We have used here the common English equivalents of the Sanskrit terms Tejas, Ap and Kshiti**
-
-
-
-
 
 **which are highly open to criticism. Fire, water and earth are only types or convenient gross manifestations of the subtle principles or states which may roughly be rendered as heat, liquidity and solidity. The reader should remember this inner significance of all these terms to really understand in which sense a particular word occurs in a certain passage.**
 
@@ -988,8 +836,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 
 ***¹Bright etc.—* The adjectives in this and the next verse are applicable alike to fire and the sage.**
 
-
-
 ***²Receptacle etc.—*The fire consumes only what is put into it; so does the allrenouncing sage accept only what is offered to him.\]**
 
 **क्वचिच्छिन्नः क्वचित्स्पष्ट उपास्य श्रेय इच्छताम्।  
@@ -1011,8 +857,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 ***²Mâyâ* —See note 3 on Verse 16, Ch. II.**
 
 ***³Fire etc.—* Fire**has no form of its own. As the principle of Tejas it is present in everything. But when a piece of wood burns, fire also seems to have that shape. So all the apparent activity of the Atman is due to the supervening adjuncts (Upâdhis) through which It manifests Itself.\]**
-
-
 
 **विसर्गाद्याःश्मशानान्ताभावा देहस्य नात्मनः।  
 कलानामिव चन्द्रस्य कालेनाव्यक्तवर्त्मना॥४८॥**
@@ -1041,8 +885,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 
 **\[The analogy of the sun is made explicit in this and the next Verse.**
 
-
-
 **¹ *Due season* —wherever there is a needy person.**
 
 **² *The sun etc*.—The reference is to thecirculation of water between the earth and the sky.\]**
@@ -1070,8 +912,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 
  53. A pigeon built his nest on a certain tree in a forest and lived there for some years with his partner.
 
-
-
 **कपोतौस्नेहगुणितहृदयौ गृहधर्मिणौ।  
 दृष्टिं दृष्ट्याङ्गमङ्गेन बुद्धिं बुद्ध्याबबन्धतुः॥५४॥**
 
@@ -1094,8 +934,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 
 57. In course of time the good female bird had her first conception and laid (some) eggs in that nest in the presence of her mate.
 
-
-
 **तेषु काले व्यजायन्त रचितावयवा हरेः।  
 शक्तिभिर्दुर्विभाव्याभिः कोमलाङ्गतनूरुहाः॥५८॥**
 
@@ -1117,8 +955,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 विमोहितौ दीनधियौशिशून्पुपुषतुः प्रजाः ॥६१॥**
 
 61. The two birds, with their hearts attached to each other in love, beguiled by the Lord's Mâyâ, reared their young ones, with no higher outlook on life.
-
-
 
 **एकदा जग्मतुस्तासामन्नार्थंतौ कुटुम्बिनौ।  
 परितः कानने तस्मिन्नर्थिनौचेरतुश्चिरम्॥६२॥**
@@ -1145,8 +981,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 **सासकृत्स्नेहगुणिता दीनचित्ताजमायया।  
 स्वयं चाबध्यत शिचा बद्धान्पश्यन्त्यपस्मृतिः॥६६॥**
 
-
-
  66. The poor mother-bird, fettered by many a tie of love through the Lord's Mâyâ, herself fell into the trap, even though seeing the young ones caught in it,—for she was beside herself (with grief).
 
 **कपोतश्चात्मजान्बद्धानात्मनोऽप्यधिकान्प्रियान्।  
@@ -1165,8 +999,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 शून्ये गृहे मां संत्यज्य पुत्रैःस्वर्याति साधुभिः॥६९॥**
 
  69. "Now that my wife who was a match for me and always agreeable, who looked upon me her husband, as God, has ascended heaven with her virtuous children, leaving me behind in this lonely house,—
-
-
 
 **सोऽहं शून्येगृहे दीनो मृतदारो मृतप्रजः।  
 जिजीविषे किमर्थंवा विधुरो दुःखजीवितः॥७०॥**
@@ -1192,21 +1024,12 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 
 **² *Belongings*—the body, children, etc.\]**
 
-
-
-
-
 **यः प्राप्य मानुषं लोकं मुक्तिद्वारमपावृत्तम्।  
 गृहेषु खगवत्सक्तस्तमारूढच्युतं विदुः॥७४॥**
 
  74. He who attaining a human birth, which is like an open gateway to liberation, is attached, like the bird, to the family concerns merely, is considered as one who has fallen from his status.¹
 
 **\[*¹Status—* the high state which he already occupied.\]**  
-
-
-
-
-
 
 **CHAPTER III**
 
@@ -1230,8 +1053,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 
 **शयीताहानि भूरीणि निराहारोऽनुपक्रमः।  
 यदि नोपनमेद्ग्रासो महाहिरिवदिष्टभुक्॥३॥**
-
-
 
  3. He should lie many days without food and without exertion; and if no food presents itself, then like the great python, he should abide by what destiny¹decrees.
 
@@ -1259,8 +1080,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 
 **³ *Immovable*— because he has no attachment or aversion.**
 
-
-
 **The application of the epithets to the ocean is plain enough.\]**
 
 **समृद्धकामो हीनो वा नारायणपरोमुनिः।  
@@ -1286,8 +1105,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 प्रलोभितात्मा ह्यु पभोगबुद्धया  
 पतङ्गवन्नश्यति नष्टदृष्टिः॥८॥**
 
-
-
  8. The foolish man who, with his vision blinded, is tempted by such illusive creations as women, gold, ornaments, apparel and the like, considering them as objects of enjoyment, is destroyed, like the moth.
 
 **स्तोकं स्तोकं ग्रसेद्ग्रासं देहो वर्तेत यावता।  
@@ -1308,8 +1125,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 पाणिपात्रोदरामत्रो मक्षिकेव न संग्रही॥११॥**
 
  11. (The sage) should not store alms for the evening or the next day; either the hands or the stomach should be his receptacle; he should not be a hoarder like the bee.
-
-
 
 **सायंतनं श्वस्तनं वा न संगृह्णीत भिक्षुकः।  
 मक्षिका इव संग्रह्णन्सह तेन विनश्यति॥१२॥**
@@ -1335,8 +1150,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 **न देयं नोपभोग्यं च लुब्धैर्यद्दुःखसंचितम्।  
 भुङ्क्तेतदपि तच्चान्यो मधुहेवार्थविन्मधु॥१५॥**
 
-
-
  15. What avaricious people hoard with pains and would neither¹give away nor enjoy,—another, who knows his business,²seizes, that again another, and so on, as the honey-gatherer collects honey.³
 
 **\[ The parallel of the honey-gatherer is explained in this and the next Verse.**
@@ -1358,8 +1171,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 शिक्षेत हरिणाद्बद्धान्मृगयोर्गीतमोहितात्॥१७॥**
 
  17.The Sannyâsin who roams about in the woods should never listen to sensuous music,¹ but should take a lesson from the deer that was caught, being enamoured by the fowler's music.
-
-
 
 **\[ In this and the next Verse the evils of attachment to the sense of hearing are suggested by a reference to the proneness of deer for music, and to the case of Rishyashringa, who is fabled to have been born of a deer, and—so the illustration suggests—could not wholly get rid of the evils of heredity !**
 
@@ -1383,8 +1194,6 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 वर्जयित्वा तु रसनं तन्निरन्नस्य वर्धते॥२०॥**
 
  20. Great men who give up food easily control the sense-organs excepting the organ of taste, which
-
-
 
 becomes more troublesome¹to one who does not take food.
 
@@ -1410,8 +1219,6 @@ becomes more troublesome¹to one who does not take food.
 **मार्गआगच्छतो वीक्ष्य पुरुषान्पुरुषर्षभ।  
 तान्‌ शुल्कदान्वित्तवतः कान्तान्मेनेऽर्थकामुका॥२४॥**
 
-
-
  24. O best of men, seeing men coming along the way, she, who was greedy after money, considered them to be rich, and persons likely to yield her some income.
 
 **आगतेष्वपयातेषु सा संकेतोपजीविनी।  
@@ -1432,10 +1239,6 @@ becomes more troublesome¹to one who does not take food.
 **तस्या निर्विण्णचित्ताया गीतं शृणु यथा मम।  
 निर्वेद आशापाशानां पुरुषस्य यथा ह्यसिः॥२८॥**
 
-
-
-
-
  28. Hear from me how she, disgusted, sang; for disgust is like a sword to cut asunder a man's fetters of expectation.
 
 **नह्यंगाऽजातनिर्वेदो देहबन्धं जिहासांत।  
@@ -1454,16 +1257,12 @@ becomes more troublesome¹to one who does not take food.
 
  30. Alas, behold the extent of my infatuation,— I am a fool, whose senses are not under control ! Therefore I seek the satisfaction of desires from such puny creatures as men.
 
-
 **सन्तं समीपे रमणं रतिप्रदं  
 वित्तप्रदं नित्यमिमं विहाय।  
 अकामदं दुःखभयादिशोक-  
 मोहप्रदं तुच्छमहं भजेऽज्ञा॥३१॥**
 
-
  31. I am so foolish as to neglect this eternal Atman who lives near, who is a fit lover and can
-
-
 
 satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, who cannot satisfy my desires, and who causes misery, fear, disease, grief and infatuation !
 
@@ -1482,8 +1281,6 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
  33. Who but myself should make much of this body¹which consists of bony structures such as the spine, ribs and limbs (like the ridge-pole, rafters and posts of a house), and is covered over with skin, hair and nails, with its nine doors for secretion, and full of filthy stuff ?
 
 **\[¹*This body*— the human body which she looks upon as 'lover.' The body which is so full of impurities cannot be a source of enjoyment. It is the Atman from whichall enjoyment comes.\]**
-
-
 
 **विदेहानां पुरे ह्यस्मिन्नहमेकैव मूढधीः।  
 याऽन्यमिच्छन्त्यसत्यस्मादात्मदात्काममच्युतात्॥३४॥**
@@ -1504,10 +1301,6 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
 
 **नूनं मे भगवान्प्रीतो विष्णुः केनापि कर्मणा।  
 निर्वेदोऽयं दुराशाया यन्मे जातः सुखावहः ॥३७॥**
-
-
-
-
 
  37. Surely I have pleased the Lord Vishnu by some deed or other, since out of a vain expectation this happy disgust has come to me.
 
@@ -1532,8 +1325,6 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
 
 **संसारकूपे पतितं विषयैर्मुषितेक्षणम्।  
 ग्रस्तं कालाहिनाऽऽत्मानं कोऽन्यस्त्रातुमधीश्वरः॥४१**॥
-
-
 
  41. Who else can save the Jiva fallen into the pit of transmigration, robbed of his vision by the senses¹ and swallowed up by the serpent of Time ?
 
@@ -1560,8 +1351,6 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
 
  44. Expectation is surely the greatest misery, and the giving up of all expectations is the greatest bliss.—As Pingalâ slept happily, getting rid of the hankering for lovers.
 
-
-
 **CHAPTER IV**
 
  **ब्राह्मण उवाच**
@@ -1580,13 +1369,10 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
 
  2. An osprey with a piece of flesh was tormented by others, stronger than itself, that had no flesh. It gave that flesh up and became happy.
 
-
 **न मे मानावमानौ स्तो न चिन्ता गेहपुत्रिणाम्।  
 आत्मक्रीड आत्मरतिर्विचरामीह बालवत्॥३॥**
 
  3. I do not care for honour or dishonour, nor have I any anxiety such as men with houses and children have. I sport with the Self,¹take pleasure in the Self and roam on earth like a child.
-
-
 
 **\[ Verses 3 and 4 deal with the child.**
 
@@ -1614,10 +1400,6 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
 **सा तज्जुगुप्सितं मत्वा महती व्रीडिता ततः।  
 बभञ्जैकैकशः शङ्खान्द्वौ द्वौ पाण्योरशेषयत्॥७॥**
 
-
-
-
-
  7. The intelligent girl, considering this as disgraceful,¹ was ashamed and broke²the bracelets one by one till only two were left in each arm,
 
 **\[¹*Disgraceful*—as betraying their poverty.**
@@ -1644,8 +1426,6 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
 **मन एकत्र संयुज्याज्जितश्वासो जितासनः॥  
 वैराग्याम्यासयोगेन ध्रियमाणमतन्द्रितः॥११॥**
 
-
-
  11. Conquering posture and (through that ) controlling the breath, one, ever alert, should collect the mind together, and hold it steady through renunciation¹ and systematic practice.
 
 **\[ Verses 11—13 set forth the lesson of concentration derived from the arrow-maker.**
@@ -1669,8 +1449,6 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
 मिषौ गतात्मा न ददर्श पार्श्वे॥१३॥**
 
  13. Having the mind thus controlled within himself the man, at that time, knows nothing external¹ or internal,² just as the arrow-maker, with
-
-
 
 his mind absorbed in (making) the arrow, did not notice the king passing by his side.
 
@@ -1701,8 +1479,6 @@ his mind absorbed in (making) the arrow, did not notice the king passing by his 
 
  16. Through the Energy of Time, the Lord Nârâyana, who is One, draws back, at the end of a
 
-
-
 cycle, this universe which He created before through His Mâyâ;¹
 
 **\[ The analogy of the spider and its web, to explain the evolution and involution of the world, is delineated in Verses 16-21.**
@@ -1723,8 +1499,6 @@ cycle, this universe which He created before through His Mâyâ;¹
 केवलानुभवानन्दसन्दोहो निरुपाधिकः॥१८॥**
 
  18. He, the Supreme Lord of the high and low,¹remains as a mass of transcendent Knowledge and Bliss, known as the Absolute, and without attributes.
-
-
 
 \[¹High and low—all beings and things from Brahma down to grossest matter.\]
 
@@ -1753,8 +1527,6 @@ cycle, this universe which He created before through His Mâyâ;¹
 **यथोर्णनाभिर्हृदयादूर्णां संतत्य वक्त्रतः।  
 तया विहृत्य भूयस्तां प्रसत्येवं महेश्वरः॥२१॥**
 
-
-
  21. As the spider spreads its web from its heart through the mouth, and after playing with it, swallows it again, so¹the Lord also does (with the universe).
 
 **\[¹*So etc*.— Ishvara projects the universe out of Himself, maintains it and reabsorbs it at the end of a cycle into Himself. Hence the universe is not essentially different from Brahman whose real (according to Dualists) or apparent (according to Advaitists) projection it is.\]**
@@ -1774,8 +1546,6 @@ cycle, this universe which He created before through His Mâyâ;¹
 **\[¹*Form etc.*—such is the popular notion.**
 
 **² *Without discarding etc*.—The case is therefore stronger for those who die with a settled impression upon their mind.\]**
-
-
 
 **एवं गुरुभ्य एतेभ्य एषा मे शिक्षिता मतिः।  
 स्वात्मोपशिक्षितां बुद्धिं शृणु मे वदतः प्रभो॥२४॥**
@@ -1804,11 +1574,6 @@ cycle, this universe which He created before through His Mâyâ;¹
 स्वान्ते सकृच्छ्रमवरुद्धधनः स देहः  
 सृष्टास्य बीजमवसीदति वृक्षधर्मा॥२६॥**
 
-
-
-
-
-
  26.That very body for the sake of whose welfare a man adds unto himself and maintains a wife, children, sense-objects, domestic animals, servants, home, and relatives, and painfully amasses wealth, withers at the end of its term like a tree, creating the seed¹ of a fresh body for the man.
 
 **\[¹*Seed etc.—*viz. fresh Karma which prolongs the chain of transmigration.\]**
@@ -1826,10 +1591,6 @@ cycle, this universe which He created before through His Mâyâ;¹
 वृक्षान्सरीसृपपशून्खगदंशमत्स्यान्।  
 तेस्तैरतुष्टहृदयः पुरुषं विधाय  
 ब्रह्मावलोकधिषणं मुदमाप देवः॥२८॥**
-
-
-
-
 
  28. The Lord through His eternal Power created various abodes¹such as trees, reptiles and beasts, birds, insects and fish, but was not satisfied in His heart with these. Then He made the human body which is endowed with the desire to realise Brahman, and He was delighted.
 
@@ -1851,8 +1612,6 @@ cycle, this universe which He created before through His Mâyâ;¹
 
  30. With my dispassion roused thus and with Illumination as my light, I roam over this world, established in myself, free from attachment and egoism.
 
-
-
 **नह्येकस्माद्गुरोर्ज्ञानं सुस्थिरं स्यात्सुपुष्कलम्।  
 ब्रह्मैतदद्वितीयं वै गीयते बहुधर्षिभिः॥३१॥**
 
@@ -1873,8 +1632,6 @@ cycle, this universe which He created before through His Mâyâ;¹
 सर्वसङ्गविनिर्मुक्तः समचित्तो बभूव ह॥३३॥**
 
  33. Hearing the words of the Avadhuta that progenitor of our forefathers was rid of all attachment and became of an even mind.
-
-
 
 **CHAPTER V**
 
@@ -1903,10 +1660,6 @@ cycle, this universe which He created before through His Mâyâ;¹
 
 **\[^(\*)*Notion etc*. —There is only Brahman.\]**
 
-
-
-
-
 **निवृत्तं कर्म सेवेत प्रवृत्तं मत्परस्त्यजेत्।  
 जिज्ञासायां संप्रवृत्तो नाद्रियेत्कर्मचोदनाम्॥४॥**
 
@@ -1934,8 +1687,6 @@ cycle, this universe which He created before through His Mâyâ;¹
 
  6. He should be free from pride and jealousy, be able, without attachment, firmly devoted to the
 
-
-
 Guru, not hasty, eager to know the Truth, free from envy, and not given to unnecessary talk.
 
 **जायापत्यगृहक्षेत्रस्वजनद्रविणादिषु।  
@@ -1957,8 +1708,6 @@ Guru, not hasty, eager to know the Truth, free from envy, and not given to unnec
 
 **\[¹*Imbibes etc*.—The principle of fire is without form and omnipresent. But we wrongly identify it with the fuel.\]**
 
-
-
 **योऽसौ गुणैर्विरचितो देहोऽयं पुरुषस्य हि।**  
 **संसारस्तन्निबन्धोऽयं पुंसो विद्याच्छिदात्मनः॥१०॥**
 
@@ -1979,8 +1728,6 @@ Guru, not hasty, eager to know the Truth, free from envy, and not given to unnec
 
 **\[¹*Churning piece*—The allusion is to the ancient method of generating fire by rubbing a piece of wood pressed between two other pieces. As fire destroys impurities so the knowledge derived by a fit disciple from a competent Guru dispels ignorance that veils his true nature. An echo of Taittiriya Upanishad I.2—"The teacher is the first form" etc.\]**
 
-
-
 **वैशारदी साऽतिविशुद्धबुद्धि-  
 र्धुनोति मायां गुणसंप्रसूताम्।  
 गुणांश्च संदह्ययदात्ममेतत्-  
@@ -1998,12 +1745,9 @@ Guru, not hasty, eager to know the Truth, free from envy, and not given to unnec
 **मन्यसे सर्वभावानां संस्था ह्यौत्पत्तिकी यथा।  
 तत्तदाकृतिभेदेन जायते भिद्यते च धीः॥१५॥**
 
-
  14-15. If you suppose¹that these doers of action and experiencers of happiness and misery are many in number, or that the heavenly spheres, time, scriptures² and souls are eternal, or that the existence ol all things is eternal as a series and is real, and that knowledge originates and is diverse according to the form of things cognised,—
 
 ** \[¹*Suppose etc.*—Here the view of the Mimamsakas, who are upholders of work with motive, is put forward, which is refuted in Verses 16-21, and 31-34. According te this school the souls are real and many in number, they**
-
-
 
 **actually experience happiness and misery, do work and go to various spheres as the result of their deeds. The Mimâmsakas do not believe in Ishvara or God, and heaven is their goal — not Moksha. They, of course, do not believe in the One Existence-Knowledge-Bliss Absolute—the Brahman or Atman of the Vedantists—whose *apparent* manifestation is everything, internal and external.**
 
@@ -2027,8 +1771,6 @@ Guru, not hasty, eager to know the Truth, free from envy, and not given to unnec
 तथा च दुःखंमूढानां वृथाहंकरणं परम्॥१८॥**
 
  18. Sometimes even wise men have not the least
-
-
 
 happiness, and ignorant people are sometimes without the least misery. So bragging¹is simply useless.
 
@@ -2055,8 +1797,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 
 **² *Fruitless—* Therefore so much labour is often wasted. Only a per feet work will lead to heaven.\]**
 
-
-
 **अन्तरायैरविहतो यदि धर्मः स्वनुष्ठितः।  
 तेनापि निर्जितं स्थानं यथा गच्छति तच्छृणु॥२२॥**
 
@@ -2081,8 +1821,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 
 **\[¹ *Fall*—which is inevitable.\]**
 
-
-
 **तावत्प्रमोदते स्वर्गे यावत्पुण्यं समाप्यते।  
 क्षीणपुण्यः पतत्यर्वागनिच्छन्कालचालितः॥२६॥**
 
@@ -2098,15 +1836,12 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 
 **\[The fruits of evil work are set forth in Verses 27-29.\]**
 
-
 **कर्माणि दुःखोदर्काणि कुर्वन्देहेन तैः पुनः।  
 देहमाभजते तत्र किं सुखं मर्त्यधर्मिणः॥२९॥**
 
  29. Doing through those bodies deeds that but result in grief they again get new bodies. What happiness¹**comes to mortals in this process ?
 
 **\[¹ *Happiness etc*,—so one should try for Realisation.\]**
-
-
 
 **लोकानां लोकपालानां मद्भयं कल्पजीविनाम्।  
 ब्रह्मणोऽपि भयं मत्तो द्विपरार्धपरायुषः॥३०॥**
@@ -2135,8 +1870,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 
 **\[**^(**1**)***Rupture etc*.—leading to manifestation of the universe.**
 
-
-
 ***Diversity etc*.— The Atman, through Avidyâ or ignorance which is without beginning, imagines Itself divided into the subject and the infinite variety of objects. Realisation puts an end to this self-hypnotism.\]**
 
 **यावदस्यास्वतन्त्रत्वं तावदीश्वरतो भयम्।  
@@ -2160,11 +1893,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 **गुणेषु वर्तमानोऽपि देहजेष्वनपावृतः।  
 गुणैर्न बध्यते देही बध्यते वा कथं विभो॥३५॥**
 
-
-
-
-
-
 ** Uddhava said :**
 
  **35. O Lord,** so long as the Jiva is mixed **up with** the attributes¹  that spring from the body, how can he help being bound by those attributes? And **if** he is not enveloped²by them how does he come to be bound?
@@ -2184,10 +1912,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 नित्यमुक्तो नित्यबद्धएक एवेति मे भ्रमः॥३७॥**
 
  37. O Thou best of the knowers of (answers to) questions, answer me these questions. My **doubt** is **this: Is** the same soul eternally bound and eternally**free?**
-
-
-
-
 
 **CHAPTER VI**
 
@@ -2215,8 +1939,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 
 **²*Not a reality—* but conjured up by ignorance.\]**
 
-
-
 **विद्याविद्ये मम तनू विद्धुयद्धव शरीरिणाम्।  
 मोक्षबन्धकरी आद्ये मायया मे विनिर्मिते॥३॥**
 
@@ -2235,8 +1957,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 
 **अथ बद्धस्य मुक्तस्य वैलक्षण्यं वदामि ते।  
 विरुद्धधर्मिणोस्तात स्थितयोरेकधर्मिणि॥५॥**
-
-
 
  5. Now I am relating to thee the difference between the bound and the free soul, endowed with opposite qualities and living in the same abode, the body.
 
@@ -2262,8 +1982,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 **⁵ *One—* the Jiva.**
 
 **⁶ *Fruits etc*.*—* the results of one's actions reaped in the body. 'Pippala' (peepul tree) has another synonym, 'Ashvattha,' which literally means "not lasting till the next day." Hence the term refers to the body which is also transient.**
-
-
 
 **⁷ *Other*— Brahman who is but the Witness.**
 
@@ -2294,8 +2012,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 **इन्द्रियैरिन्द्रियार्थेषु गुणैरपि गुणेषु च।  
 गृह्यमाणेष्वहंकुर्यान्नविद्वान्यस्त्वविक्रियः॥९॥**
 
-
-
  9. When the organs cognise sense-objects—or, in other words, Gunas¹ perceive Gunas—he who is wise does not identify himself with such phenomena, being unaffected by them.
 
 **\[¹*Gunas etc.—*The term has a number of meanings. Here it stands for organs and sense-objects, as in Gita III. 28.1**
@@ -2316,10 +2032,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
  11-12. The wise one, being thus free from attachment in such acts as lying, sitting, walking, bathing, seeing, touching, smelling, eating and hearing, etc., is not bound like the other man, because in such cases he is but watching¹ the organs experience the senseobjects. Even living in the midst of Prakriti he is unattached, like the sky, the sun and the wind.
 
 **\[ *\** *Watching etc*.*—*i.e. not identifying himself with them.\]**
-
-
-
-
 
 **वैशारद्येक्षयाऽसङ्गशितया छिन्नसंशयः।  
 प्रतिबुद्ध इव स्वप्नान्नानात्वाद्विनिवर्तते॥१३॥**
@@ -2342,8 +2054,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 वदतो गुणदोषाभ्यां वर्जितः समदृङ्मुनिः॥१६॥**
 
  16. The saint, with an even eye to all, and free from merits or demerits, should not praise or blame anybody who may do or say anything good or evil.
-
-
 
 **न कुर्यान्न वदेत्किंचिन्न ध्यायेत्साध्वसाधु वा।  
 आत्मारामोऽनया वृत्त्या विचरेज्जडवन्मुनिः॥१७॥**
@@ -2368,8 +2078,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
 
  19. My friend, he who maintains a cow that nomore gives milk, an unchaste wife, a body under thecontrol of another, a wicked child, wealth not bestowed on deserving people, and speech devoid of references to Me, is one who suffers misery after misery.
 
-
-
 **यस्यां न मे पावनमङ्गकर्म  
 स्थित्युद्भवप्राणनिरोधमस्य।  
 लीलावतारेप्सितजन्म वा स्या-  
@@ -2390,8 +2098,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
  22. If thou art unable to hold the mind steadyon the Brahman, then perform all actions withoutcaring for results, giving them up unto Me.
 
 **\[Finishing the topic of Jnanam, the Lord proceeds toinculcate Bhakti which is an easier and surer path.\]**
-
-
 
 **श्रद्धालुर्मेकथाः शृण्वन्सुभद्रा लोकपावनीः।  
 गायन्ननुस्मरन्कर्म जन्म चाभिनयन्मुहुः॥२३॥**
@@ -2420,8 +2126,6 @@ happiness, and ignorant people are sometimes without the least misery. So braggi
  26. O Thou of surpassing glory, O Lord, whatsort of a sage dost Thou prefer most? What kind ofdevotion approved by sages¹ is most acceptable to Thee?
 
 **\[*¹Sages—*such as Narada and others.\]**
-
-
 
 **एतन्मे पुरुषाध्यक्ष लोकाध्यक्ष जगत्प्रभो।  
 प्रणतायानुरक्ताय प्रपन्नाय च कथ्यताम्॥२७॥**
@@ -2453,8 +2157,6 @@ assuming a .separate body of Thy own accord.²
 **\[Thirty characteristics of a Sâdhu are enumerated in Verses
 29–33.\]**
 
-
-
 **कामैरहतधीर्दान्तो मृदुः शुचिरकिंचनः।**  
 **अनीहो मितभुक् शान्तः स्थिरो मच्छरणो मुनिः॥३०॥**
 
@@ -2479,8 +2181,6 @@ assuming a .separate body of Thy own accord.²
 **\[¹*Gives up etc.—*transcends the preparatory or formal(*Gaunt or Vaidhi*) stages to pursue that higher formcharacterised by spontaneous, selfless love (Parâ**orRaganuga Bhakti).**
 
 ***² Sanctioned—*** **in the scriptures.\]**
-
-
 
 ** ज्ञात्वाज्ञात्वाथ ये वैमां यावान्यश्चास्मि यादृशः।**  
 ** भजन्त्यनन्यभावेन ते मे भक्ततमा मताः॥३३॥**
@@ -2508,8 +2208,6 @@ assuming a .separate body of Thy own accord.²
 
   35. Faith in listening to tales about Me,O Uddhava, meditating on Me, offering everything received unto Me, and surrendering oneself in service to Me;
 
-
-
 **मज्जन्मकर्मकथनं मम पर्वानुमोदनम्।  
 गीतताण्डववादित्रगोष्ठीभिर्मद्गृहोत्सवः॥३६॥**
 
@@ -2531,8 +2229,6 @@ assuming a .separate body of Thy own accord.²
  39. Taking care of My temples without deceit, like a servant, through sweeping, plastering, watering,and drawing¹sacred designs;
 
 **\[¹*Draxving etc.—*The word in the text may also mean*'*circumambulating.'\]**
-
-
 
 **अमानित्वमदम्भित्वं कृतस्यापरिकीर्तनम्।  
 अपि दीपावलोकं मे नोपयुज्ञ्यान्निवेदितम्॥४०॥**
@@ -2558,8 +2254,6 @@ assuming a .separate body of Thy own accord.²
 
  43. One should worship Me in the sun throughVedic hymns, in the fire through oblations of ghee,.
 
-
-
 in the best of Brâhmanas through hospitality, and incows with grass etc., My friend.
 
 **वैष्णवे बन्धुसत्कृत्या हृदि खे ध्याननिष्ठया।  
@@ -2584,9 +2278,6 @@ in the best of Brâhmanas through hospitality, and incows with grass etc., My fr
  46. In all these abodes one should meditate onMy benign form with four hands, inwhich are theconch, disc, mace and lotus, and should
 worship it with concentration.  
 
-
-
-
 **इष्टापूर्तेन मामेवं यो यजेत समाहितः।  
 लभते मयि सद्भक्तिंमत्स्मृतिः साधुसेवया॥४७॥**
 
@@ -2607,8 +2298,6 @@ worship it with concentration.
 सुगोप्यमपि वक्ष्यामि त्वं मे भृत्यः सुहृत्सखा॥४९॥**
 
   49. Now I am going to tell thee this profoundsecret, even though most confidential, for thou artMy servant, companion and friend.
-
-
 
 **CHAPTER VII**
 
@@ -2639,8 +2328,6 @@ renunciation, rites such as Agnihotra and works¹ of public utility, charity, vo
 
 **बहवो मत्पदं प्राप्तास्त्वाष्ट्रकायाधवादयः॥५॥**
 
-
-
  3-5. It was through the association of saints, O sinless one, that many who were of a Râjasika orTâmasika nature— such as Vritra,¹ Prahlâda²andothers³—attained Me in different ages: Daityas andRâkshasas, beasts and birds, Gandharvas, Apsarâs,Nâgas, Siddhas, Châranas, Guhyakas and Vidyâdharas, and among mankind—Vaishyas and Shudras,women and outcasts.
 
 **\[*¹Vritra—*son of the sage Twashtri. Vritra in hisprevious life had theassociation of the sages Nârada andAngirâ.**
@@ -2656,8 +2343,6 @@ renunciation, rites such as Agnihotra and works¹ of public utility, charity, vo
  6. Vrishaparvâ,¹Bali, Bâna, Maya, Vibhishana,.Sugriva, Hanumân, the bear Jâmbabân, the elephantGajendra, the vulture Jatâyu, the merchant Tulâdhâra, the fowler Dharmavyâdha, the hunchbacked(perfume-vendor) Kubjâ, the Gopis as well as thewives of the Brahmins engaged in sacrifices, inVrindâvana, and others.
 
 **\[¹*Vrishaparva etc*.—Vrishaparva was a demon who wasbrought up by a saint. Bali associated with his grandfatherPrahlâda. Bâna was the eldest son of Bali, and he wasalso blessed with the association of the Lord Shiva. Mayacame in contact with the Pândavas while constructing theroyal court for them, while Vibhishana and Sugriva mixed**
-
-
 
 with Hanumân, who himself as well as Jâmbabân hadthe blessed
 association of the Lord Himself as Rama andKrishna. Gajendra had in his previous life associated withSâdhus and in his present life was rescued from his oldenemy—now a crocodile—by Sri Krishna Himself. Jatâyumet
@@ -2683,8 +2368,6 @@ observed any vows, nor performed any austerities, yet through their associationw
 
  9. Whom one attains not even after struggle, through Yoga, discrimination, charity, vows, auste-
 
-
-
 rities, sacrifices, teaching and study of the Vedas, orrenunciation.
 
 **रामेण सार्धं मथुरां प्रणीते  
@@ -2704,8 +2387,6 @@ rities, sacrifices, teaching and study of the Vedas, orrenunciation.
 हीना मया कल्पसमा बभुवुः॥११॥**
 
  11. Those very nights, my friend, which, withMe their Beloved in their midst at Vrindâvana, theyhad passed like moments, became in My absence like ages to them.
-
-
 
 **ता नाविदन्मय्यनुषंगबद्ध-  
 धियः स्वमात्मानमदस्तथेदम्।  
@@ -2731,8 +2412,6 @@ near—as sages in the superconscious state know not name and form,—like unto 
 याहि सर्वात्मभावेन मया स्या ह्यकुतोभयः॥१५॥**
 
  14-15. Therefore, O Uddhava, giving upinjunctions and prohibitions, the paths of enjoyment¹ and renunciation, things learnt and yet to be learnt,²do thou wholeheartedly take refuge in Me alone,
-
-
 
 the Self of all beings, and be fearless through Me.
 
@@ -2764,8 +2443,6 @@ coupled withthe subtlest form⁵ of sound, and passing throughless subtle forms 
 
 **\[Verses 17—24 furnish the Lord's answer. The ideais this: It is the Lord who through His Mâyâappearsas this universe; the Jivas identify themselves with it through nescience without beginning, and imagine them-**
 
-
-
 **selves as agents and enjoyers etc. Hence they come underthe injunctions and prohibitions of the Shâstras, and mustwork then, for the purification of their minds. When themind has become pure, they
 should give up work andpractise devotion for the Lord with steady faith, untilthey are blessed with Realisation, which is the goal.**
 
@@ -2790,8 +2467,6 @@ should give up work andpractise devotion for the Lord with steady faith, untilth
 
  18. As fire exists in the pores of wood as(latent) heat,¹ which through vigorous friction aidedby wind manifests itself in the wood (first) as a spark,
 
-
-
 then as tangible fire, and is (finally) set ablaze byghee, similarly is speech My manifestation.
 
 **\[¹*Heat etc*.—The heat typifies the Para, the sparkthe Pasyanti, the tangible fire the Madhyamâ, and theblazing fire the Vaikhari form of sound.\]**
@@ -2815,8 +2490,6 @@ then as tangible fire, and is (finally) set ablaze byghee, similarly is speech M
 रव्यक्त एको वयसा स आद्यः।  
 विश्लिष्टशक्तिर्बहुधेव भाति  
 बीजानि योनिं प्रतिपद्य यद्वत्॥२०॥**
-
-
 
  20. This Ishvara,¹one and undifferentiated (atfirst), has His powers² differentiated by time, andappears to be of diverse forms—like seeds³reaching(proper) fields,—for He is the Primeval One, thesubstratum of Mâyâ—the component of the threeGunas— and the cause of the cosmic lotus.⁴
 
@@ -2845,8 +2518,6 @@ then as tangible fire, and is (finally) set ablaze byghee, similarly is speech M
 
 **⁴ *Flowers etc*.— experience and emancipation, or workand its results.\]**
 
-
-
 **द्वे अस्य बीजे शतमूलस्त्रिनालः  
 पञ्चस्कन्धः पञ्चरसप्रसूतिः।  
 दशैकशाखो द्विसुपर्णनीड-  
@@ -2866,8 +2537,6 @@ branches and eleven minorbranches; it exudes five saps; it has got two birds'nes
 
  23. Vultures¹ frequenting villages²eat one³ ofthe fruits, while swans⁴ living in forests eat the other. He who with the help of his Gurus knows theOne Lord— whose attribute is Mâyâ—assuming diverseforms, understands the Vedas.
 
-
-
 **\[*^(T) Vulturesetc*.—'Gridhra' literally means 'greedy/Hence the epithet refers to the householders.**
 
 ***² Villages*— 'Gramâ' also means the senses, which is thesuggested meaning.**
@@ -2886,8 +2555,6 @@ branches and eleven minorbranches; it exudes five saps; it has got two birds'nes
 **\[*¹Tree...soul—*'Jivashaya' means the 'subtle body'—thestorehouse of all our experiences—which being the cause oftransmigration is here identified with the 'tree of Samsâra.'**
 
 **² *Lay down etc.—*i.e. cease from the struggle forRealisation.\]**
-
-
 
 **CHAPTER VIII**
 
@@ -2915,8 +2582,6 @@ branches and eleven minorbranches; it exudes five saps; it has got two birds'nes
 
 **\[¹*Sattvika things*—i.e. those that tend to purity,illumination and so on. See note on Verse 6.\]**
 
-
-
 **धर्मो रजस्तमो हन्यात्सत्त्ववृद्धिरनुत्तमः।  
 आशु नश्यति तन्मूलो ह्यधर्मउभये हते॥३॥**
 
@@ -2940,8 +2605,6 @@ Râjasaaboutwhichtheyareindifferent.
 **सात्त्विकान्येव सेवेत पुमान् सत्त्वविवृद्धये।  
 ततो धर्मस्ततो ज्ञानं यावत्स्मृतिरपोहनम्॥६॥**
 
-
-
  6. For the increase of Sattva a man shouldconcern himself with Sâttvika¹things alone. Thence comes spirituality, and from this
 again Knowledge—pending² the realisation of one's Independence andthe removal of the superimpositions of gross andsubtle bodies.
 
@@ -2953,8 +2616,6 @@ again Knowledge—pending² the realisation of one's Independence andthe removal
 एवं गुणव्यत्ययजो देहः शाम्यति तत्क्रियः॥७॥**
 
  7. The fire that springs from the friction ofbamboos in a forest burns that forest and is (itself)
-
-
 
 quenched. Similarly¹the body which is the outcomeof an intermixture of the Gunas, is destroyed in themanner of the fire.
 
@@ -2985,9 +2646,6 @@ quenched. Similarly¹the body which is the outcomeof an intermixture of the Guna
 
  10. A mind under the influence of Rajascherishes desires with all sorts of cogitation.¹Then  
 
-
-
-
 from a dwelling on the good points²(of a thing) thefoolish man gets an inordinate hankering (for it).
 
 **\[ For the idea compare Gita II. 62-63.**
@@ -3014,8 +2672,6 @@ from a dwelling on the good points²(of a thing) thefoolish man gets an inordina
 अनिर्वीण्णोयथाकालं जितश्वासो जितासनः॥१३॥**
 
  13. Being alert and diligent one should at theright time¹ control one's posture, and breath, and
-
-
 
 resigning the mind unto Me slowly practise concentration.
 
@@ -3047,8 +2703,6 @@ disciples, Sanaka and the rest.
 
 **\[¹ *Spiritual*—lit., created by will.\]**
 
-
-
 **सनकादय ऊचुः।**
 
 **गुणेष्वाविशते चेतो गुणाश्चेतसि च प्रभो।  
@@ -3078,8 +2732,6 @@ disciples, Sanaka and the rest.
 
 **\[¹ *Swan—* which is believed to have the potency ofseparating the milk from a mixture of milk and water.\]**
 
-
-
 **दृष्ट्वामां त उपव्रज्य कृत्वा पादाभिवन्दनम्।  
 ब्रह्माणमग्रतः कृत्वा पप्रच्छुः को भवानिति॥२०॥**
 
@@ -3102,8 +2754,6 @@ answered them. Learn fromMe, O Uddhava, what I said on that occasion.
 
 **पञ्चात्मकेषु भूतेषु समानेषु च वस्तुतः।  
 को भवानिति वः प्रश्नो वाचारम्भो ह्यनर्थकः॥२३॥**
-
-
 
  23. Since the bodies³of all beings are composedof the five elements, and since they are the samein reality,² your question 'who art Thou' is a mereeffort³ of speech and is altogether meaningless.
 
@@ -3128,8 +2778,6 @@ answered them. Learn fromMe, O Uddhava, what I said on that occasion.
   25. Yes, My sons, the mind is attached to thesense-objects and the sense-objects influence the mind. Thus the sense-objects and the mind both (intertwined) form the body¹of the Jiva, who is everidentified with Me.
 
 \[From this Verse up to the end of the chapter theanswer to the problem is given. The idea is this: Ifthe mind, which is connected with the sense-objects asagent and enjoyer etc. and is variously named as intellect,
-
-
 
 **egoism and so forth, were the reality of the Jiva, thenthere might not be a dissolution of the connection betweenthe Jiva and the sense-objects. But the Jiva is eternallyidentified with Brahman, and his *apparent* connection withthe sense-objects is due to the superimposition of the mindon him. Hence by considering oneself as Brahman andreflecting on the unreality of the sense-objects, one shouldturn away from them and worship the Lord, whereby one can remain in one's true nature as the Infinite Self.**
 
@@ -3157,8 +2805,6 @@ attached to them, and the sense-objects which influence¹the mind, one should gi
 
  28.Because the entanglement with the intellect¹sets the Gunas in motion in the Jiva, therefore one
 
-
-
 should give it up resting on Me, the Transcendent.Then the sense-objects and mind come to be dissociated.
 
 **\[¹*Intellect*―The commentator Shridhara Swami takesthe word *Samsriti* (*Samsdra* of Verse 29) or transmigration to mean that which causes it,— hence it refers to the** **Buddhi.\]**
@@ -3179,8 +2825,6 @@ should give it up resting on Me, the Transcendent.Then the sense-objects and min
 गतयो हेतवश्चास्य मृषा स्वप्नदृशो यथा॥३१॥**
 
  81. As objects¹other than the Atman are unreal, the diversity² caused by them is false, as
-
-
 
 also Its passage to other spheres with its causes,⁵ as in the case of a man seeing dreams
 
@@ -3205,8 +2849,6 @@ also Its passage to other spheres with its causes,⁵ as in the case of a man se
 ज्ञानासिना भजत माखिलसंशयाधिम्॥३३॥**
 
  33.Thus reflecting that the three states of themind due to Gunas are created¹in Me by My Mâyâ,
-
-
 
 and being thus sure about the Reality, destroy egoismwhich is the
 receptacle of doubts with the sword ofknowledge sharpened by inference and competenttestimony,² and worship Me who is seated in theheart.
@@ -3235,8 +2877,6 @@ Consciousness that appears as multiple inform. The threefold distinction²due to
 संदृश्यते क्व च यदीदमवस्तुबुद्धया  
 त्यक्तंभ्रमाय न भवेत्स्मृतिरानिपातात्॥३५॥**
 
-
-
  35. Withdrawing the organs from the universeone should be immersed in one's own Bliss; oneshould give up desires, be silent and free fromaction. If ever¹ the universe is experienced, it will not leadto error, being once discarded as unreal, ² but willlinger as a memory only, till death. ³
 
 **\[¹*If ever etc*.— For a man must needs come down tothe sense-plane.**
@@ -3264,8 +2904,6 @@ standing, removed ² bychance or restored by chance,— for he has realised his 
 तं सप्रञ्चमधिरूढसमाधियोगः  
 स्वाप्नंपुनर्न भजते प्रतिबुद्धवस्तुः॥३७॥**
 
-
-
  87. The body is verily under the sway ofdestiny, and must remain,¹together with the Prânas, so long as the work that originated it has not spentitself. The man who has attained Samâdhi in Yogaand realised the Truth, no more attaches himself tothe body and its appurtenances, ² which are all like4reams.
 
 **\[^(1**)*Remain—*so one need not be particularly anxiousabout its preservation.**
@@ -3288,8 +2926,6 @@ standing, removed ² bychance or restored by chance,— for he has realised his 
 
 **\[¹*Goal—*All these are of value if only they leadto God**
 
-
-
 **मां भजन्ति गुणाः सर्वे निर्गुणं निरपेक्षकम्।  
 सुहृदं प्रियमात्मानं साम्यासङ्गादयोऽगुणाः॥४०॥**
 
@@ -3306,8 +2942,6 @@ standing, removed ² bychance or restored by chance,— for he has realised his 
 प्रत्येयाय स्वकं धाम पश्यतः परमेष्ठिनः॥४२॥**
 
  42. Being duly worshipped and praised by thosegreat sages, I returned to My abode, before the verjreyes of Brahmâ.
-
-
 
 **CHAPTER IX**
 
@@ -3337,8 +2971,6 @@ attaining well-being. Are all ofthem equally important, or only one is the forem
 
  3.These words of Mine known as the Vedas, which had been destroyed by Time at the dissolution
 
-
-
 of the universe, I first¹revealed to Brahmâ. In themis set forth that religion²which inclines the mind toMe.
 
 \[ "Devotion is the highest means as it directly leads toRealisation; others are only of relative importance"—is theLord's answer. Verses 3-9 give the different views of different people on this matter, all advocating minor instruments.
@@ -3366,8 +2998,6 @@ of the universe, I first¹revealed to Brahmâ. In themis set forth that religion
 
 **² *Natures—* Shridhara Swami explains it as 'desires.'\]**
 
-
-
 **याभिर्भूतानि भिद्यन्ते भूतानां मतयस्तथा।  
 यथाप्रकृति सर्वेषां चित्रा वाचः स्रवन्ति हि॥७॥**
 
@@ -3393,8 +3023,6 @@ of the universe, I first¹revealed to Brahmâ. In themis set forth that religion
 
  10. As means to the goal some mention duty¹; others fame, self-gratification, truth, control of the
 
-
-
 senses and control of the mind; yet others mentionsplendour, gifts and food; and some, again sacrifice, austerity, charity, vows, or moral rules, universal andparticular.
 
 **\[¹*Duty etc.*—Duty is extolled by the Mimamsakas, fame by Rhetoricians, self-gratification by Vâtsyâyana andothers, the next three by the Yoga school, splendour bypragmatic politicians, the next two by materialists, andso on.\]**
@@ -3417,9 +3045,6 @@ senses and control of the mind; yet others mentionsplendour, gifts and food; and
 मया संतुष्टमनसः सर्वाः सुखमया दिशः॥१३॥**
 
  13. To the man who craves for nothing, whohas subdued his senses and mind, who is even-minded  
-
-
-
 
 to all, and is satisfied with Me, all¹the quarters **arefull of** bliss.
 
@@ -3446,8 +3071,6 @@ to all, and is satisfied with Me, all¹the quarters **arefull of** bliss.
 
  16. With a view to purify Myself¹by the dust**of** his feet, I always follow the sage who cares **for**
 
-
-
 nothing, is calm, bears enmity to none, and is evenminded.
 
 **\[¹ *Myself*—Even though eternally pure. Such a statement fits well in the mouth of the Lord Sri Krishna whosereverence for real Brâhmanas and sages is well known.\]**
@@ -3472,8 +3095,6 @@ desires, calm and compassionate toall creatures derive that bliss of Mine which 
 **यथाग्निः सुसमृद्धार्चिः करोत्येधांसि भस्मसात्।  
 तथा मद्विषया भक्तिरुद्धवैनांसि कृत्स्नशः॥१९॥**
 
-
-
  19. As fire kindled into a blaze burns the faggotsto ashes, so, O Uddhava, devotion to Me totallydestroys all sins.
 
 **न साधयति मां योगो न सांख्यं धर्म उद्धव।  
@@ -3496,8 +3117,6 @@ desires, calm and compassionate toall creatures derive that bliss of Mine which 
 **कथं विना रोमहर्षं द्रवता चेतसा विना।  
 विनानन्दाश्रुकलया शुध्येद्भक्त्या विनाशयः॥२३॥**
 
-
-
  28. How can the mind be purified without devotion characterised by a softening of the heart, thehair standing on end and tears of joy flowing out of the eyes?
 
 **वाग्गद्रदाद्रवते यस्य चित्तं  
@@ -3518,8 +3137,6 @@ desires, calm and compassionate toall creatures derive that bliss of Mine which 
 मत्पुण्यगाथाश्रवणाभिधानैः।  
 तथा तथा पश्यति वस्तु सूक्ष्मं  
 चक्षुर्यथैवाञ्जनसंप्रयुक्तम्॥२६॥**
-
-
 
  26. The more this mind is cleansed by listeningto and reciting the sacred tales about Me, the moreit sees the subtle Reality, like eyes through an application of collyrium.¹
 
@@ -3546,8 +3163,6 @@ company of women as well as of those who associate with the latter, sit in a sec
 **न तथास्य भवेत्क्लेशो बन्धश्चान्यप्रसङ्गतः।  
 योषित्सङ्गाद्यथा पुंसो यथा तत्सङ्गिसङ्गतः॥३०॥**
 
-
-
   30. No other association causes so much miseryand bondage as that of women and those that associate with them.
 
 **उद्धव उवाच।**
@@ -3572,8 +3187,6 @@ company of women as well as of those who associate with the latter, sit in a sec
   32-33. Sitting on an even seat at ease¹with thebody erect, placing the hands on the lap and with theeyes directed² towards the tip of the nose, one shouldpurify the passage³of Prâna by means of inhalation,⁴retention and exhalation of the breath, and shouldalso practise slowly in the inverse order, with thesenses under control.⁵
 
 **\[¹ *At ease—*The Lord does not prescribe any particularposture. According to Patanjali also, posture must onlybe "steady and pleasant."**
-
-
 
 **² *Directed etc*.— This helps concentration.**
 
@@ -3602,9 +3215,6 @@ company of women as well as of those who associate with the latter, sit in a sec
 **हृत्पुण्डरीकमन्तस्थमूर्ध्वनालमधोमुखम्।  
 ध्यात्वोर्ध्वमुखमुन्निद्रमष्टपत्रं सकर्णिकम्॥३६॥**  
 
-
-
-
  36. Within the body there is the lotus¹of theheart, with its stalk²above and point below, and witheight petals and a pericarp.
 
 **\[This Verse describes the seat of the object ofmeditation.**
@@ -3624,8 +3234,6 @@ company of women as well as of those who associate with the latter, sit in a sec
            सुचारुसुन्दरग्रीवं सुकपोलं शुचिस्मितम्॥३८॥**
 
  88. Symmetrical, serene, of a benign face, withfour long and beautiful arms, with a well-formed andbeautiful neck, beautiful cheeks, and a graceful smile :
-
-
 
 **समानकर्णविन्यस्तस्फुरन्मकरकुण्डलम्।  
 हेमाम्बरं घनश्यामं श्रीवत्सश्रीनिकेतनम्॥३९॥**
@@ -3649,8 +3257,6 @@ company of women as well as of those who associate with the latter, sit in a sec
 बुद्धया सारथिना धीरः प्रणयेन्मयि सर्वतः॥४२॥**
 
  42. One should meditate on this form, concentrating the mind on all the features. The man ofself-control should withdraw the organs from **the**
-
-
 
 sense-objects with the help of the mind, and with theintellect as guide, direct the mind to My whole body.
 
@@ -3681,8 +3287,6 @@ sense-objects with the help of the mind, and with theintellect as guide, direct 
 
 **\[This is the culmination of Knowledge known asVijânna.\]**
 
-
-
 **ध्यानेनेत्थं सुतीव्रेण युञ्जतो योगिनो मनः।  
 संयास्यत्याशु निर्वाणं द्रव्यज्ञानक्रियाभ्रमः॥४६॥**
 
@@ -3691,8 +3295,6 @@ sense-objects with the help of the mind, and with theintellect as guide, direct 
 **^(\[1)*Blow out etc*.—This is the result of the Samâdhi.**
 
 ***²Objects etc*.—Comprising the whole range of relativity.\]**
-
-
 
 **CHAPTER X**
 
@@ -3724,8 +3326,6 @@ conferrest them on the Yogis.
 **सिद्धयोऽष्टादश प्रोक्ता धारणायोगपारगैः।  
 तासामष्टौ मत्प्रधाना दशैव गुणहेतवः॥३॥**
 
-
-
  **The Lord said:**
 
  3. Those who are experts in concentration andYoga call the powers
@@ -3754,8 +3354,6 @@ eighteen in number. Eight ofthese are pertaining¹ to Me, and the remaining tena
 एता मे सिद्धयः सौम्य अष्टावौत्पत्तिका मताः॥५्॥**
 
  5. Non-attachment to sense-objects, called self-control¹; and consummation²of any and every desire; ―these, O friend, are considered My³eight naturalpowers.
-
-
 
 **\[¹Self-control—Vashita. This is the seventh.**
 
@@ -3787,8 +3385,6 @@ everywherewithout fail:
 
   8. Knowledge of the past, present and future;**not** being affected by the pairs¹ of opposites; reading
 
-
-
 others⁵thoughts; counteracting the influences of fire, sun, water, poison and the like; and not being overcome by anybody:
 
 **\[This Verse enumerates five petty powers.**
@@ -3813,8 +3409,6 @@ others⁵thoughts; counteracting the influences of fire, sun, water, poison and 
 
 **महस्यात्मन्मयि परे यथासंस्थं मनो दधत्।  
 महिमानमवाप्नोति भूतानां च पृथक् पृथक्॥११॥**
-
-
 
  11. Fixing on Me as possessing the superveningadjunct of the intelligent cosmic mind, one's mindwhich is characterised by a similar attribute,¹— one attains the power of immensity, and concentrating onMe as possessed of the adjunct of ether and the otherelements,² one attains³the respective immensities ofthose elements.
 
@@ -3841,9 +3435,6 @@ others⁵thoughts; counteracting the influences of fire, sun, water, poison and 
 **महत्यात्मनि यः सूत्रे धारयेन्मयि मानसम्।  
 प्राकाम्यं पारमेष्ठयंमे विन्दतेऽव्यक्तजन्मनः॥१४॥**  
 
-
-
-
  14. One who concentrates the mind on Me aspossessing the adjunct of the active cosmic mind,which is born of the Undifferentiated,¹obtains Myrare power of the capacity²to derive enjoyment fromeverything.
 
 **\[¹*Undifferentiated*—the Lord's inscrutable Power, out of which the universe springs.**
@@ -3866,8 +3457,6 @@ others⁵thoughts; counteracting the influences of fire, sun, water, poison and 
 
 **निर्गुणे ब्रह्मणि मयि धारयन्विशदं मनः।  
 परमानन्दमाप्नोति यत्र कामोऽवसीयते॥१७॥**
-
-
 
  17. Concentrating the clean mind on Me, theBrahman beyond attributes, one attains¹ to supremeBliss, which is the consummation of all pleasures.
 
@@ -3896,8 +3485,6 @@ others⁵thoughts; counteracting the influences of fire, sun, water, poison and 
 
 **\[\* *There—* at the junction of the sun and the eye.\]**
 
-
-
 **मनो मयि सुसंयोज्य देहं तदनु वायुना।  
 मद्धारणानुभावेन तत्रात्मा यत्र वै मनः॥२१॥**
 
@@ -3925,8 +3512,6 @@ assume, he assumes those desiredforms, by resorting to the power of concentratio
 **पाष्णर्यापीड्य गुदं प्राणं हृदुरःकण्ठमूर्धसु।  
 आरोप्य ब्रह्मरन्ध्रेणब्रह्म नीत्वोत्सृजेत्तनुम्॥२४॥**
 
-
-
  24. Sitting on the heel and lifting the Prâna tothe heart,¹chest, throat and head, and taking it toBrahman² through the subtle orifice in the head, one should give up the body.
 
 **\[¹*Heart etc.—*i.e. the correspondingnerve centres inthe spinal cord.**
@@ -3952,8 +3537,6 @@ assume, he assumes those desiredforms, by resorting to the power of concentratio
 never finds his command disobeyed anywhere, like Mine.
 
 **\[*¹Imbibed*— throughconcentration.**
-
-
 
 **² *Self-contained Lord*—the independent Ruler of theuniverse.\]**
 
@@ -3982,8 +3565,6 @@ never finds his command disobeyed anywhere, like Mine.
 
 **\[¹ *Manifestations*—any of the Incarnations, potentenough to triumph over, the universe.\]**
 
-
-
 **उपासकस्य मामेवं योगधारणया मुनेः।  
 सिद्धयः पूर्वकथिता उपतिष्ठन्त्यशेषतः॥३१॥**
 
@@ -4009,8 +3590,6 @@ Concentration on the supreme formmentioned in Verse 18 is sufficient,—says the
 
  84. Through that Yoga one obtains all thosepowers which come to men through birth, or drugs,
 
-
-
 or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 
 **\[An echo of Patanjali's Yoga Aphorism IV. 1. Someare born with those powers, e.g. the gods ; fishes also canlive in water, birds fly in the air, and so on. Certainmedicines are said to confer extraordinary powers. Mortifications also develop them, as also certain Mantras. Theeffects of these are short-lived, but perfect concentrationon the Lord ('Samâdhi' of Patanjali) through pure devotion confers liberation.\]**
@@ -4032,8 +3611,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 **² *Elements*— earth, water, etc.**
 
 **³ *So also etc.*— I am all-pervading.\]**
-
-
 
 **CHAPTER XI**
 
@@ -4060,8 +3637,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 
  3. Tell me in what beings the highest sagesworship Thee reverentially and thereby attain toperfection.
 
-
-
 **गूढश्चरसि भूतात्मा भूतानां भूतभावन।  
 न त्वां पश्यन्ति भूतानि पश्यन्तं मोहितानि ते॥४॥**
 
@@ -4085,8 +3660,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 
 **\[¹*Question etc.—*The reference is to the tenth chapterof the Gita, which should be compared in this connection.\]**
 
-
-
 **ज्ञात्वा ज्ञातिवधं गर्ह्यमधर्मंराज्यहेतुकम्।  
 ततो निवृत्तो हन्ताहं हतोऽयमिति लौकिकः॥७॥**
 
@@ -4109,8 +3682,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 **अहं गतिर्गतिमतां कालः कलयतामहम्।  
 गुणानां चाप्यहं साम्यं गुणिन्यौत्पत्तिको गुणः॥१०॥**
 
-
-
  10. I am the motion of the moving, and amongconquerors I am Time. Of virtues I am even- mindedness, and in things possessing attributes, I amtheir primary attribute.
 
 **गुणिनामप्यहं सूत्रं महतां च महानहम्।  
@@ -4132,8 +3703,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 आदित्यानामहं विष्णू रुद्राणां नीललोहितः॥१३॥**
 
  13. Of all gods I am Indra, and of the VasusI am Agni. Of the Adityas I am Vishnu, and of theRudras, Nilalohita.¹
-
-
 
 **\[^(1**)*Nilalohita*—a name of Shiva.\]**
 
@@ -4163,8 +3732,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 **ऐरावतं गजेन्द्राणां यादसां वरुणं प्रभुम्।  
 तपतां द्युमतां सूर्यंमनुष्याणां च भूपतिम्॥१७॥**
 
-
-
  17. I am Airâvata¹among the high-class elephants, and of the dwellers in water **I** am **Varuna**, their **Lord. Of** heating and shining objects I am thesun, and I am the king of men.
 
 **\[¹*Airavata—* Indra's elephant.\]**
@@ -4187,8 +3754,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 आयुधानां धनुरहं त्रिपुरघ्नोधनुष्मताम्॥२०॥**
 
  20. Of sacred torrents I am the Ganges, and ofreservoirs I am the ocean. Of weapons I am the bow, and of wielders of the bow I am Shiva, the Destroyerof the Three Cities.¹
-
-
 
 **\[¹*Three Cities—*from which impregnable strongholdtheir owner, a demon, greatly molested the gods.\]**
 
@@ -4217,8 +3782,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 
  23. Of sacrifices¹I am the study of the Vedas, and of vows, non-injury. Of purifying agencies I amthe wind, fire, sun, water, speech²and Self, which arespecially such.
 
-
-
 **\[¹*Sacrifices*―There are five of them, viz. those to thegods, Brâhmanas, Pitris, men and lower animals. Ofthese the Lord gives the highest place to the second.**
 
 **²*Speech—*which ventilates the highest thoughts.\]**
@@ -4243,8 +3806,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 
 **धर्माणामस्मि संन्यासः क्षेमाणामबहिर्मतिः।  
 गुह्यानां सूनृतंमौनं मिथुनानामजस्त्वहम्॥२६॥**
-
-
 
  26. Of religions I am monasticism,¹ and ofsources of well-being I am introspection. Of secretsI am sweet words²and silence, and of couples I am Brahmâ.³
 
@@ -4272,8 +3833,6 @@ or austerities, or Mantras, but one cannot attain thatYoga by any other means.
 
 **\[¹*Shukra—* preceptor of the Asuras, who knew the artof reviving the dead.\]**
 
-
-
 **वासुदेवो भगवतां त्वं तु भागवतेष्वहम्।  
 किंपुरुषाणां हनुमान्विद्याध्राणां सुदर्शनः॥२९॥**
 
@@ -4296,8 +3855,6 @@ Kimpurushas I amHanumân, and of Vidyâdharas, Sudarshana.
  32. Know that I am the energy and tenacityof the strong, and the devotional work of the devout. Of the nine forms worshipped by devotees,¹I am thesupreme first form, Vâsudeva.
 
 **\[¹ *Devotees*—Vaishnava devotees.\]**
-
-
 
 **विश्वावसुः पूर्वचित्तिर्गन्धर्वाप्सरसामहम्।  
 भूधराणामहं स्थैर्यं गन्धमात्रमहं भुवः॥३३॥**
@@ -4323,8 +3880,6 @@ Kimpurushas I amHanumân, and of Vidyâdharas, Sudarshana.
 
  36. I am the motion,¹ utterance, rejecting, taking, enjoyment, touch, sight, taste, hearing andsmelling of the organs: I constitute their functions.
 
-
-
 ** \[¹*Motion etc*.—The first five are functions of theorgans of action, and the last five of the organs ofknowledge.\]**
 
 **पृथिवी वायुराकाश आपो ज्योतिरहं महान्।  
@@ -4346,8 +3901,6 @@ Kimpurushas I amHanumân, and of Vidyâdharas, Sudarshana.
 
 **संख्यानं परमाणूनां कालेन क्रियते मया।  
 न तथा मे विभूतीनां सृजतोऽण्डानि कोटिशः॥३९॥**
-
-
 
  39. I can count the atoms of the (primary)elements in course of time, but not My manifestations, for I am creating crores¹of worlds.
 
@@ -4372,8 +3925,6 @@ Kimpurushas I amHanumân, and of Vidyâdharas, Sudarshana.
 
  42. Control¹speech, control the mind, controlthe Prânas and organs; control also the impureintellect by the purified intellect. Then you will no more return to the world.
 
-
-
 **\[¹^(**)*Control etc*.— He advises introspection with a viewto realising Him in Samâdhi.\]**
 
 **यो वै वाङ्मनसी सम्यगसंयच्छन्धिया यतिः।  
@@ -4389,8 +3940,6 @@ Kimpurushas I amHanumân, and of Vidyâdharas, Sudarshana.
  44. Therefore, being¹ wholly attached to Me, one should control speech, mind and the Prânas bythe intellect endowed with devotion to Me. Then oneattains the goal.
 
 **\[^(1**)*Being etc*. —This is important. Then the wholething becomes easy.\]**
-
-
 
 **CHAPTER XII**
 
@@ -4415,8 +3964,6 @@ Kimpurushas I amHanumân, and of Vidyâdharas, Sudarshana.
 न प्रायो भविता मर्त्यलोके प्रागनुशासितः॥४॥**
 
  8-4. **The** supreme and blissful religion **whichThou, O Mighty-armed Lord,** **O Mâdhava, didst** once¹expound—so it is said — to **Brahmâ**in **Thy** **Swan-form,has now, O Queller of foes, almost ceased to be in**
-
-
 
 the mortal world, owing to the great passage of time, even though it was once inculcated.
 
@@ -4445,8 +3992,6 @@ Expounder of it, wilt leavethe earth, religion too will die. Who, O Lord, will t
 **इत्थं स्वभृत्यमुख्येन पृष्टः स भगवान्हरिः।  
 प्रीतः क्षेमाय मर्त्यानां धर्मानाह सनातनान्॥८॥**
 
-
-
  **Suka said:**
 
  8. Thus asked by his own foremost servant, theLord Hari was pleased and described the time-honoured religions for the good of men.
@@ -4469,8 +4014,6 @@ Expounder of it, wilt leavethe earth, religion too will die. Who, O Lord, will t
 उपासते तपोनिष्ठां हंसं मां मुक्तकिल्बिषाः॥११॥**
 
  11. In that primaeval age, Om was the Veda, and I was religion in the form of a bull.¹The peopleof that age, who were pure and given to contemplation, used to reflect² on Me, the Pure One.
-
-
 
 **\[*¹ Bull—* The four legs of the bull signify that religionwas then intact. In each succeedingYuga it lost aquarter.**
 
@@ -4499,8 +4042,6 @@ Expounder of it, wilt leavethe earth, religion too will die. Who, O Lord, will t
 
  14. The householder's life sprang from Mythighs, the student life¹from My heart,² the life of
 
-
-
 retirement into the woods from My chest, andmonastieism was on My head.
 
 **\[¹*Student life*—with chastity as its chief element.**
@@ -4527,8 +4068,6 @@ retirement into the woods from My chest, andmonastieism was on My head.
 **आस्तिक्यं दाननिष्ठा च अदम्भो ब्रह्मसेवनम्।  
 अतुष्टिरर्थोपचयैर्वेश्यप्रकृतयस्त्विमाः॥१८॥**
 
-
-
  18. Faith in God, charity, humility, service untothe Brâhmanas, and an insatiety from the amassingof wealth— these are the tendencies of the Vaishya.
 
 **शुश्रूषणं द्विजगवां देवानां चाप्यमायया।  
@@ -4550,8 +4089,6 @@ retirement into the woods from My chest, andmonastieism was on My head.
 
 **द्वितीयं प्राप्यानुपूर्व्याज्जन्मोपनयनं द्विजः।  
 वसन् गुरुकुले दान्तो ब्रह्माधीयीत चाहुतः॥२२॥**
-
-
 
   22. Receiving in order¹ the second birth²knownas the sacred thread ceremony, a Dwija (twice-born)should live in the house of the teacher with self-control, and summoned by him, should study theVedas.
 
@@ -4575,8 +4112,6 @@ retirement into the woods from My chest, andmonastieism was on My head.
 **स्नानभोजनहोमेषु जपोच्चारे च वाग्यतः।  
 न च्छिन्द्यान्नखरोमाणि कक्षोपस्थगतान्यपि॥२४॥**
 
-
-
  24. He should observe silence while bathing, eating, offering oblations to the fire, repeating hisMantra, and answering the calls of nature. He must not pare his nails, nor cut his hair in any part of thebody.
 
 **रेतो नावकिरेज्जातु ब्रह्मव्रतधरः स्वयम्।  
@@ -4595,8 +4130,6 @@ retirement into the woods from My chest, andmonastieism was on My head.
 न मर्त्यबुद्धयासूयेत सर्वदेवमयोगुरुः॥२७॥**
 
  27. He should know¹the teacher to be My ownself, and never disregard or look down upon him asa man, for the teacher represents all the gods.
-
-
 
 **\[¹ *Know etc***.—**Respect for the teacher was consideredessential to a development of character and the spirituallife. The teacher also generally used to be of an exemplary character.\]**
 
@@ -4619,8 +4152,6 @@ retirement into the woods from My chest, andmonastieism was on My head.
 
 **यद्यसौ छन्दसां लोकमारोक्ष्यन् ब्रह्मविष्टपम्।  
 गुरवे विन्यसेद्देहं स्वाध्यायार्थं बृहद्व्रतः॥३१॥**
-
-
 
  81. If he wishes to get to the Brahmaloka, where the Vedas¹reside, he should, while observingcontinence, surrender his body unto the teacher as atribute for the study.²
 
@@ -4648,8 +4179,6 @@ retirement into the woods from My chest, andmonastieism was on My head.
 
  34-35. Cleanliness; the sipping of water preparatory to certain functions¹; performance of the
 
-
-
 services due in the morning, noon and evening;straightforwardness²;the visiting of holy places;repetition of the Mantra; avoidance of things³not to be touched or eaten, and of persons not to beaccosted; looking upon all beings as Myself; andcontrol of mind, speech and body;—these, O Uddhava, are the observances meant for all the ordersof life.
 
 **\[^(1**)*Functions*— such as eating, or going through religiousexercises.**
@@ -4669,9 +4198,6 @@ services due in the morning, noon and evening;straightforwardness²;the visiting
 गुरवे दक्षिणां दत्त्वा स्त्रायाद्गुर्वनुमोदितः॥३७॥**
 
  37. Then, after having properly studied theVedas, if the student wishes to enter the house-  
-
-
-
 
 holder's life, he should make the teachersomereverential present, and with his permission performthe usual ablution.¹
 
@@ -4695,8 +4221,6 @@ holder's life, he should make the teachersomereverential present, and with his p
 
 **² *Succeeding order—*i.e. a Brâhmana was allowed tomarry in the three lower castes also; a Kshatriya in the**
 
-
-
 **two lower; and a Vaishya in the Shudra caste also,— thelast being confined to his own caste. But not in theinverse order.\]**
 
 **इज्याध्ययनदानानि सर्वेषां च द्विजन्मनाम्।  
@@ -4715,8 +4239,6 @@ holder's life, he should make the teachersomereverential present, and with his p
 कृच्छ्राय तपसे चेह प्रेत्यानन्तसुखाय च॥४२॥**
 
  42.The body of a Brâhmana is certainly notmeant for the satisfaction of petty ends. It is forrigorous austerity here, and endless happiness hereafter.
-
-
 
 **शिलोञ्छवृत्त्या परितुष्टचित्तो  
 धर्मं महान्तं विरजं जुषाणः।  
@@ -4739,8 +4261,6 @@ holder's life, he should make the teachersomereverential present, and with his p
 
  45. A king (specially ) should deliver all hissubjects from misfortunes like a father, and as theleader of elephants rescues the elephants in his herd,he should, preserving his balance, deliver himself byhis own efforts.
 
-
-
 **एवंविधो नरपतिर्विमानेनार्कवर्चसा।  
 विधूयेहाशुभं कृत्स्नमिन्द्रेण सह मोदते॥४६॥**
 
@@ -4762,8 +4282,6 @@ holder's life, he should make the teachersomereverential present, and with his p
 
  48. A king in adversity should take up theoccupation of a Vaishya, or live by hunting, or evenas a Brâhmana; but never take to dog-like servility.
 
-
-
 **शूद्रवृत्तिं भजेद्वैश्यः शूद्रः कारुकटक्रियाम्।  
 कृच्छ्रान्मुक्तो न गर्ह्येण वृत्तिं लिप्सेत कर्मणा॥४९॥**
 
@@ -4784,8 +4302,6 @@ holder's life, he should make the teachersomereverential present, and with his p
 धनेनापीडयन्भृत्यान्नयायेनैवाहरेत्क्रतून्॥५१॥**
 
  51. By means of wealth that comes of itself, or is acquired legitimately, he should judiciouslyperform the above sacrifices, without¹taxing his. dependants.
-
-
 
 **\[^(1**)*Without etc*.—He should not starve his family toperform his Yajnas.\]**
 
@@ -4811,8 +4327,6 @@ holder's life, he should make the teachersomereverential present, and with his p
 
  55. A devotee, worshipping Me through hishousehold duties, may lead a householder's life, may
 
-
-
 retire into the forest, or, if he has progeny, mayembrace monasticism.
 
 **यस्त्वासक्तमतिर्गेहे पुत्रवित्तैषणातुरः।  
@@ -4832,10 +4346,7 @@ retire into the forest, or, if he has progeny, mayembrace monasticism.
 
  58. Thus does this foolish man, with his heartdistracted by thoughts of home, continue to think ofthem without satisfaction. Then he dies and entersinto abysmal darkness.¹  
 
-
 **\[\* *Darkness*—birth in a very undesirable body.\]**
-
-
 
 **CHAPTER XIII**
 
@@ -4862,8 +4373,6 @@ retire into the forest, or, if he has progeny, mayembrace monasticism.
 
  3. He should allow¹ the hair on his head andbody as well as his beard to grow, and not remove
 
-
-
 the dirt on his person; he should not wash his teeth, should plunge in water thrice a day, and lie on theground.
 
 **\[¹*Allow etc*.— All this is for minimising the attentionto the body.\]**
@@ -4885,8 +4394,6 @@ the dirt on his person; he should not wash his teeth, should plunge in water thr
 **स्वयं संचिनुयात्सर्वमात्मनो वृत्तिकारणम्।  
 देशकालबलाभिज्ञोनाददीतान्यदाऽऽहृतम्॥६॥**
 
-
-
  6.Aware of the efficacy of place and time, heshould himself collect¹all his means of subsistence, and not eat things procured at some past time.
 
 **\[ ¹*Collect—* from within the forest itself. This issuggested by the 'efficacy of place.'\]**
@@ -4907,8 +4414,6 @@ the dirt on his person; he should not wash his teeth, should plunge in water thr
 
 **एवं चीर्णेन तपसा मुनिर्धमनिसंतत।  
 मां तपोमयमाराध्य ऋषिलोकादुपैति माम्॥९॥**
-
-
 
  9.The recluse, with arteries and veins prominent all over his body on account of this practice ofausterity, worships Me, the embodiment of austerity, and attains to Me from the sphere¹ of the Rishis.
 
@@ -4933,8 +4438,6 @@ the dirt on his person; he should not wash his teeth, should plunge in water thr
 **यदा कर्मविपाकेषु लोकेषु निरयात्मसु।  
 विरागो जायते सम्यङ्न्यस्ताग्निः प्रव्रजेत्ततः॥१२॥**
 
-
-
  12. When he is perfectly siek of the spheres that are the outcome of work, seeing that they are attended¹ with misery, he should discard the fires, and from that stage embrace the monastic life.
 
 **\[¹*Attended etc.*—Because they are not eternal.\]**
@@ -4957,8 +4460,6 @@ the dirt on his person; he should not wash his teeth, should plunge in water thr
 त्यक्तं न दण्डापात्राभ्यामन्यत्किंचिदनापदि॥१५॥**
 
  15. If the monk retains a second piece of cloth, it should be only as much as covers the loin-cloth. And except in times of danger, he
-
-
 
 should not have anything that he has already¹ discarded, other than his staff² and his begging bowl.
 
@@ -4987,8 +4488,6 @@ should not have anything that he has already¹ discarded, other than his staff²
 
  18. A Sannyâsin should beg his food **from** the **four castes,¹**excepting the culpable.²**He** should
 
-
-
 visit not more than seven houses, must not think of the food³ beforehand, and must be satisfied with as much as is obtained.
 
 **\[¹*Four castes*—Each succeeding caste being resorted to in the absence of the preceding one.**
@@ -5016,10 +4515,6 @@ visit not more than seven houses, must not think of the food³ beforehand, and m
 **विविक्तक्षेमशरणो मद्भावविमलाशयः।  
 आत्मानं चिन्तयेदेकमभेदेन मया मुनिः॥२१॥**
 
-
-
-
-
  21. Taking shelter in a secluded and congenial spot, and with his mind purified by rapt devotion to Me, the sage should mediate on the One Self as identified with Me.
 
 **अन्वीक्षेतात्मनो बन्धं मोक्षं च ज्ञाननिष्ठया।  
@@ -5039,10 +4534,6 @@ visit not more than seven houses, must not think of the food³ beforehand, and m
 
 **वानप्रस्थाश्रमपदेष्वभीक्ष्णं भक्ष्यमाचरेत्।  
 संसिध्यत्याश्वसंमोहः शुद्धसत्त्वः शिलान्धला॥२५॥**
-
-
-
-
 
  25. He should beg his food mostly from the hermitages of people who have retired into the forest, for by partaking of their food consisting of grains picked up from the fields, he soon becomes purified in mind, and freed from delusion, attains perfection.
 
@@ -5066,8 +4557,6 @@ visit not more than seven houses, must not think of the food³ beforehand, and m
 सलिङ्गानाश्रमांस्त्यक्त्वा चरेदविधिगोचरः॥२८॥**
 
  28. He who, averse to the objective world, is devoted to knowledge,¹or not caring even for liberation, is devoted to Me, **should** move **about**,
-
-
 
 regardless² of the orders of life with their respective insignia; he should be above the ties of formality.
 
@@ -5097,8 +4586,6 @@ regardless² of the orders of life with their respective insignia; he should be 
 
 **\[*¹Heretic—*acting contrary to the injunctions of the Shrutis and Smritis.\]**
 
-
-
 **नोद्विजेत जनाद्धीरो जनं चोद्वेजयेन्न तु।  
 अतिवादांस्तितिक्षेत नावमन्येत कंचन।  
 देहमुद्दिश्य पशुवद्वैरं कुर्यान्न केनचित्॥३१॥**
@@ -5119,10 +4606,6 @@ regardless² of the orders of life with their respective insignia; he should be 
 
 **आहारार्थं समीहेत युक्तं तत्प्राणधारणम्।  
 तत्त्वं विमृश्यते तेन तद्विज्ञाय विमुच्यते॥३४॥**
-
-
-
-
 
  34. He should strive¹ to procure his food,²for continuity of life is desirable. Through it one can reflect on Truth, knowing which one becomes free.
 
@@ -5148,8 +4631,6 @@ regardless² of the orders of life with their respective insignia; he should be 
 आदेहान्तात्क्वचित्ख्यातिस्ततः संपद्यते मया॥३७**॥
 
  37. He has no perception of differences, and if he ever had any, it has been removed by his realisation of Me. Till the dissolution of his body he.
-
-
 
 sometimes has a semblance of it, and after that he is one with Me.
 
@@ -5177,10 +4658,6 @@ sometimes has a semblance of it, and after that he is one with Me.
 
  40-41. But one¹ who has not mastered his passions, whose intellect—the guide to his sense-organs—is wild, and who is devoid of discrimination
 
-
-
-
-
 and renunciation,—such a man taking up the monk's triple staff for the sake of subsistence, is a destroyer of religion, and cheats the gods,²cheats himself, and Me who reside in his self. With his impurities unconsumed, he is deprived of both this life and the life to come.
 
 **\[¹*But one etc*.—Unqualified intruders into monasticism are condemned.**
@@ -5201,10 +4678,6 @@ and renunciation,—such a man taking up the monk's triple staff for the sake of
 
 **इति मां यः स्वधर्मेण भजन्नित्यमनन्यभाक्।  
 सर्वभूतेषु मद्भावो मद्भक्तिं विन्दतेऽचिरात्॥४४॥**
-
-
-
-
 
  44. He who¹ thus worships Me constantly and exclusively, through the performance of his duties, knowing My presence in all beings, soon attains to a steadfast devotion to Me.
 
@@ -5227,16 +4700,10 @@ and renunciation,—such a man taking up the monk's triple staff for the sake of
 
 **\[¹*If etc*.—Without the devotion it would merely lead to the Pitriloka, the sphere of the manes. *Devotion* implies surrender of the fruits of work to God.\]**
 
-
-
-
-
 **एतत्तेऽभिहितं साधो भवान्पृच्छति यच्च माम् ।  
 यथा स्वधर्मसंयुक्तो भक्तो मां समियात्परम् ॥४८॥**
 
  48. So I have told you, my friend, what you asked me about, viz. how a person attending to his duties becomes a devotee and attains to Me the Supreme Being.
-
-
 
 **CHAPTER XIV **
 
@@ -5260,10 +4727,6 @@ and renunciation,—such a man taking up the monk's triple staff for the sake of
 ज्ञानी प्रियतमोऽतो मे ज्ञानेनासौ विभर्ति माम्॥३॥**
 
  3. Those who have perfected themselves in knowledge and realisation attain to My Supreme
-
-
-
-
 
 abode. Since the Jnâni cherishes Me through his-knowledge, therefore he is the most beloved of Me.
 
@@ -5289,10 +4752,6 @@ abode. Since the Jnâni cherishes Me through his-knowledge, therefore he is the 
 जन्मादयोऽस्य यदमी तव तस्य किं स्यु-  
 राद्यन्तयोर्यदलतोऽस्ति तदेव मध्ये॥७॥**
 
-
-
-
-
  7. The threefold¹ modification, OUddhava, which has come upon you is an illusion, for it only comes in the middle,² and is not at the beginning and end. When birth and such other things befall it,³what is that to you? For that⁴ which exists at the beginning and end of an unreality, alone persists in the middle.
 
 **\[¹*Threefold etc*.—Gross, subtle and causal bodies are meant.**
@@ -5316,8 +4775,6 @@ abode. Since the Jnâni cherishes Me through his-knowledge, therefore he is the 
 
 **\[¹*Great*—great sages, and even Brahmâ.\]**
 
-
-
 **तापत्रयेणाभिहतस्य घोरे  
 संतप्यमानस्य भवाध्वनीश।  
 पश्यामि नान्यच्छरणं तवांघ्रि-  
@@ -5339,10 +4796,6 @@ abode. Since the Jnâni cherishes Me through his-knowledge, therefore he is the 
  10. O Thou of wonderful powers, deign to save this man fallen into this worldly pit and bitten by the snake of Time, and withal thirsting violently after trivial pleasures, and sprinkle him over with words that conduce to liberation.
 
 **\[The metaphor is changed in this verse.\]**
-
-
-
-
 
 **श्रीभगवानुवाच।**
 
@@ -5367,10 +4820,6 @@ abode. Since the Jnâni cherishes Me through his-knowledge, therefore he is the 
 ईक्षेताथैकमप्येषु तज्ज्ञानं मम निश्चितम्॥१४**॥
 
  14. I consider that as knowledge by means of which one sees the nine¹, the eleven,² the five³ and the three⁴things in beings, and also sees the One in all these beings.
-
-
-
-
 
 **\[¹*Nine*—Prakriti, Purusha, Mahat (Cosmic Intelligence), Ahamkâra (ego), and the five Tanmâtras (fine matter).**
 
@@ -5398,8 +4847,6 @@ abode. Since the Jnâni cherishes Me through his-knowledge, therefore he is the 
 
 **² *Real*—One should see that the Brahman alone is eternal in an ever-changing world.\]**
 
-
-
 **श्रुतिः प्रत्यक्षमैतिह्यमनुमान चतुष्टयम्।  
 प्रमाणेष्वनवस्थानाद्विकल्पात्स विरज्यते॥१७॥**
 
@@ -5420,10 +4867,6 @@ abode. Since the Jnâni cherishes Me through his-knowledge, therefore he is the 
 पुनश्च कथयिष्यामि मद्भक्तेः कारणं परम् ॥१९॥**
 
  19. O sinless one, I have already expounded the philosophy of devotion to thee, but since thou
-
-
-
-
 
 hast taken a fancy to it, I shall again describe the chief means to the attainment of devotion to Me.
 
@@ -5446,10 +4889,6 @@ hast taken a fancy to it, I shall again describe the chief means to the attainme
 
 **मदर्थेऽर्थपरित्यागो भोगस्य च सुखस्य च।  
 इष्टं दत्तं हुतं जप्तं मदर्थं यद्व्रतं तपः॥२३॥**
-
-
-
-
 
  23. Giving up riches, enjoyment and happiness **for** My sake; making sacrifices, gifts and Homa,¹ repeating My name, undertaking vows and austerities, —all for My sake.²
 
@@ -5474,10 +4913,6 @@ hast taken a fancy to it, I shall again describe the chief means to the attainme
 **यदर्पितं तद्विकल्पे इन्द्रियैः परिधावति।  
 रजस्वलं चासन्निष्ठंवित्तं विद्धि विपर्ययम्॥२६॥**
 
-
-
-
-
  26. But when that mind, placed on sense-objects, pursues them by means of the organs, it becomes Râjasika,¹and attached to unreal things; whence, you must know, proceed the very reverse\* of the above four qualities.
 
 ^(**\[*1***)***Rajasika—*engrossed in activity.**
@@ -5493,7 +4928,6 @@ hast taken a fancy to it, I shall again describe the chief means to the attainme
 
 **¹ *Called*—in the Vaishnava scriptures.\]**
 
-
 **उद्धव उवाच।**
 
 **यमः कतिविधः प्रोक्तो नियमो वारिकर्शन।  
@@ -5506,8 +4940,6 @@ hast taken a fancy to it, I shall again describe the chief means to the attainme
 **\[*¹Yama*—universal moral observances.**
 
 **²*Niyama*—particular moral observances.\]**
-
-
 
 **किं दानं किं तपः शौर्यं किं सत्यमृतमुच्यते।  
 कस्त्यागः किं धनं चेष्टं को यज्ञः का च दक्षिणा॥२९॥**
@@ -5528,10 +4960,6 @@ hast taken a fancy to it, I shall again describe the chief means to the attainme
 एतान्प्रश्नान्मम ब्रूहि विपरीतांश्च सत्पते॥३२॥**
 
  32. Who is rich, and who is poor? Who is mean, and who is lordly ? O Lord of the virtuous, answer these questions of mine, together with their opposites.
-
-
-
-
 
 **श्रीभगवानुवाच।**
 
@@ -5556,10 +4984,6 @@ hast taken a fancy to it, I shall again describe the chief means to the attainme
 
  35. These groups of twelve virtues enumerated in the above two verses constitute the Yamas and the Niyamas. These, my friend, if rightly practised by men, surely produce results¹according to their desires.
 
-
-
-
-
 **\[¹ *Resultsetc,*―i.e. liberation or material prosperity according as the person practising them is free from desires or possessed of desires.\]**
 
 **शमो मन्निष्ठता बुद्धैर्दम इन्द्रियसंयमः।  
@@ -5580,10 +5004,6 @@ hast taken a fancy to it, I shall again describe the chief means to the attainme
 कर्मस्वसंगमः शौचं त्यागः संन्यास उच्यते॥३८॥**
 
  38. Truthfulness is true and agreeable speech which the sages praise. Purity¹is non-attachment to work, and renunciation is the giving up of work.
-
-
-
-
 
 **\[¹*Purity*—This is introduced to distinguish renunciation from it.\]**
 
@@ -5606,8 +5026,6 @@ hast taken a fancy to it, I shall again describe the chief means to the attainme
 उत्पथश्चित्तविक्षेपः स्वर्गः सत्त्वगुणोदयः॥४२॥**
 
  42. A fool is one who identifies oneself with the body etc. The right way is that which leads
-
-
 
 to Me. The wrong way is that¹ which causes disturbance of the mind. Heaven is the rise of Sattva²in the mind.
 
@@ -5633,8 +5051,6 @@ to Me. The wrong way is that¹ which causes disturbance of the mind. Heaven is t
 
  45. Here, O Uddhava, I have fully answered all your questions. Well, what is the use of dilating on the characteristics of merit and defect? Defect is distinguishing between merit and defect, and to be free from both is merit.
 
-
-
 **CHAPTER XV**
 
 **उद्धव उवाच।**
@@ -5657,10 +5073,6 @@ to Me. The wrong way is that¹ which causes disturbance of the mind. Heaven is t
 
 **गुणदोषभिदादृष्टिमन्तरेण वचस्तव।  
 निःश्रेयसं कथं नृृणां निषेधविधिलक्षणम्॥३॥**
-
-
-
-
 
  3. How can Thy utterances¹ consisting of injunctions and prohibitions conduce to the liberation of men without² observing the distinction between merits and defects?
 
@@ -5686,10 +5098,6 @@ to Me. The wrong way is that¹ which causes disturbance of the mind. Heaven is t
 
 ***²Puzzling*—So kindly enlighten me on the point.\]**
 
-
-
-
-
 **श्रीभगवानुवाच।**
 
 **योगास्त्रयो मया प्रोक्ता नृणां श्रेयोविधित्सया।  
@@ -5712,8 +5120,6 @@ to Me. The wrong way is that¹ which causes disturbance of the mind. Heaven is t
 न निर्विण्णो नातिसक्तो भक्तियोगोऽस्य सिद्धिदः॥८॥**
 
  7-8. Of these the path of Knowledge is for those who have got disgusted with work¹ and have renounced it; for those who have not been disgusted with it and desire its fruits, there is the path of Work; but for the man who somehow²has got a veneration for tales about Me and such other things,
-
-
 
 and who is neither disgusted with nor grossly attached to work, the path of Devotion³is successful.
 
@@ -5747,10 +5153,6 @@ and who is neither disgusted with nor grossly attached to work, the path of Devo
 
 **² *Hell*—Because he has been doing his duties and avoiding evil.\]**
 
-
-
-
-
 **अस्मिँल्लोके वर्तमानः स्वधर्मस्थोऽनघः शुचिः।  
 ज्ञानं विशुद्धमाप्नोति मद्भक्तिं वा यदृच्छया॥११॥**
 
@@ -5777,10 +5179,6 @@ and who is neither disgusted with nor grossly attached to work, the path of Devo
 **एतद्विद्वान्पुरा मृत्योरभवाय घटेत सः।  
 अप्रमत्त इदं ज्ञात्वा मर्त्यमप्यर्थसिद्धिदम्॥१४॥**
 
-
-
-
-
  14. Conscious of this fact, he should be alert and struggle for liberation before death comes on, knowing that the body, even though mortal, can help him to attain his goal.
 
 **छिद्यमानं यमैरेतैः कृतनीडं वनस्पतिम्।  
@@ -5803,8 +5201,6 @@ and who is neither disgusted with nor grossly attached to work, the path of Devo
 पुमान्भवाब्धिं न तरेत्स आत्महा॥१७॥**
 
  17. Getting the first and foremost requisite, viz. a human body which is like a strong boat—so
-
-
 
 difficult to secure, yet within¹ easy reach—with the Teacher” as its helmsman, and propelled by Me³ as by a favourable wind,—with such means as these, the man who does not strive to cyoss the ocean of Samsâra⁴, is verily a suicide.
 
@@ -5833,10 +5229,6 @@ difficult to secure, yet within¹ easy reach—with the Teacher” as its helmsm
 **मनोगतिं न विसृजेज्जितप्राणो जितेन्द्रियः।  
 सत्त्वसंपन्नया बुद्ध्या मन आत्मवशं नयेत्॥२०॥**
 
-
-
-
-
  20. He should not lose¹ sight of the course of his mind, but holding his Prâna and sense-organs in subjugation, he should bring the mind under his control by means of an intellect charged with Sattva.
 
 **\[¹*Not lose etc.*—not allow it to drift altogether.\]**
@@ -5861,8 +5253,6 @@ difficult to secure, yet within¹ easy reach—with the Teacher” as its helmsm
 
 **² *Backward etc.*—tracing them successively to their ultimate cause, Prakriti, and again reversing the process.\]**
 
-
-
 **निर्विण्णस्य विरक्तस्य पुरुषस्योक्तवेदिनः।  
 मनस्त्यजति दौरात्म्यं चिन्तितस्यानुचिन्तया॥२३॥**
 
@@ -5881,10 +5271,6 @@ difficult to secure, yet within¹ easy reach—with the Teacher” as its helmsm
 योगेनैव दहेदंहो नान्यत्तत्र कदाचन ॥२५॥**
 
  25. If through inadvertence the Yogi does some culpable deed, he should burn the sin thereof through Yoga¹ alone. There is no other² way.
-
-
-
-
 
 **^(\[1)*Yoga*—the practice of Jnan̂am. This implies also the taking of the Lord's name and such other means in the case of the Bhakti-Yogin.  
 ² *No other way*—such as expiation.\]**
@@ -5908,10 +5294,6 @@ difficult to secure, yet within¹ easy reach—with the Teacher” as its helmsm
 जुषमाणश्च तान्कामान्दुःखोदर्कांश्च गर्हयन्॥२८॥**
 
  27-28. Should a man who has got faith in tales about Me and is disgusted with all kinds of work,¹know desires to be full of misery and yet fail to give them up, then this man of faith, with firm
-
-
-
-
 
 conviction,²should cheerfully worship Me, as he goes on satisfying those desires fraught with painful consequences,—condemning^ them all the while.
 
@@ -5945,10 +5327,6 @@ conviction,²should cheerfully worship Me, as he goes on satisfying those desire
 
 **²*Karma*―the resultant of past worksstored as tendencies in the mind. Of these tendencies some are**
 
-
-
-
-
 **very strong and work themselves out in this birth. They are called *prarabha* (the commenced). Others, forming by far the greater portion, are comparatively feeble in strength. These are destroyed on the dawning of realisation. But not the former, which persist till the fall of the body. A special name, viz. *dgdmi* or the forthcoming, is given to those works which a man does after the attainment of realisation. But these cannot bind him any more. For a discussion on the subject vide the Brahma-Sutras XV. i. 13-15.\]**
 
 **तस्मान्मद्भक्तियुक्तस्य योगिनो वै मदात्मनः।  
@@ -5965,8 +5343,6 @@ conviction,²should cheerfully worship Me, as he goes on satisfying those desire
 स्वर्गापवर्गं मद्धाम कथंचिद्यदि वाञ्छति॥३३॥**
 
  32-33. Whatever is acquired through works, austerities, knowlege, dispassion, Yoga, or charity, or through any other means of well-being, My devotee easily attains to it all through devotion to me,―aye, even heaven, or liberation, or My abode, should he care to have it.
-
-
 
 **न किंचित्साधवो धीरा भक्ता ह्येकान्तिनो मम।  
 वाञ्छन्त्यपि मया दत्तं कैवल्यमपुनर्भवम् ॥३४॥**
@@ -5989,26 +5365,12 @@ conviction,²should cheerfully worship Me, as he goes on satisfying those desire
 
 **² *Being etc.*—viz. the Paramâtman.\]**
 
-
-
-
-
 **एवमेतन्मयादिष्टाननुतिष्ठन्ति मे पथः।  
 क्षेमं विन्दन्ति मत्स्थानं यद्ब्रह्म परमं विदुः॥३७॥**
 
  37. Those who thus practise these means¹ to My attainment, which I have just taught, attain to My abode, which is all bliss, and also realise the Supreme Brahman.
 
 **\[¹*Means etc*, — viz. the three Yogas.\]**
-
-
-
-
-
-
-
-
-
-
 
 **CHAPTER XVI**
 
@@ -6034,10 +5396,6 @@ conviction,²should cheerfully worship Me, as he goes on satisfying those desire
 द्रव्यस्य विचिकित्सार्थं गुणदोषौ शुभाशुभौ ॥३॥**
 
  3. With a view to test¹the fitness of things, purity and impurity, merit and defect, as well as
-
-
-
-
 
 conduciveness to well-being and its opposite are enjoined even with regard to things²of the same group, for he sake of piety,³ of practice,⁴ and of the maintenance⁵ of life respectively.
 
@@ -6065,10 +5423,6 @@ conduciveness to well-being and its opposite are enjoined even with regard to th
 
  5. Earth, water, fire, air and ether are the five common factors of the bodies of all beings from
 
-
-
-
-
 Brahmâ down to a tree etc., and they are equally connected with a soul.¹
 
 **\[¹Soul—So from both standpoints they are alike.\]**
@@ -6091,8 +5445,6 @@ Brahmâ down to a tree etc., and they are equally connected with a soul.¹
 कृष्णसारोऽप्यसौवीरकीकटासंस्कृतेरिणम्॥८॥**
 
  8. Of lands those that are devoid of spotted antelopes and where, in particular, devotion to Brâhmanas is absent, should be considered impure. And even if they are rich in antelopes tracts designated as Kikata¹ and those that are not swept, or are
-
-
 
 barren, should be regarded as impure, unless²there be worthy people in them.
 
@@ -6118,8 +5470,6 @@ barren, should be regarded as impure, unless²there be worthy people in them.
 अघं कुर्वन्ति हि यथा देशावस्थानुसारतः ॥११॥**
 
  10-11. The purity or impurity of a thing is determined by other things,¹ by the verdict of competent persons, by specific acts, by durations of time,²by its greatness³or smallness, by strength⁴ or infirm-
-
-
 
 ity, by knowledge⁵, and by affluence⁶ or otherwise. They bring demerit on a person according⁷ to place and circumstances.
 
@@ -6151,10 +5501,6 @@ ity, by knowledge⁵, and by affluence⁶ or otherwise. They bring demerit on a 
 **अमेध्यलिप्तं यद्येन गन्धं लेपं व्यपोहति।  
 भजते प्रकृतिं तस्य तच्छौचं तावदिष्यते ॥१३॥**
 
-
-
-
-
  13. That through which a thing coated with some impure stuff gives up its foreign smell and coating and returns to its natural state, is considered a purifying agency for that¹ thing, and should be made use of till the desired result is produced.
 
 **\[¹*That etc*.—Different means should be adopted according as it is made of wood, or metal, or cloth, etc.\]**
@@ -6179,10 +5525,6 @@ ity, by knowledge⁵, and by affluence⁶ or otherwise. They bring demerit on a 
 
 **\[¹Understood— from a qualified teacher.\]**
 
-
-
-
-
 **क्वचिद्गुणोऽपि दोषः स्याद्दोषोऽपि विधिना गुणः।  
 गुणदोषार्थनियमस्तद्भिदामेव बाधते॥१६॥**
 
@@ -6203,8 +5545,6 @@ ity, by knowledge⁵, and by affluence⁶ or otherwise. They bring demerit on a 
  18. From whatever¹ one abstains, one gets rid of that. This is the righteous conduct that leads to the well-being of men and removes their grief, in- fatuation and fear.
 
 **\[¹*Whatever etc*.—Hence the scriptures only advise the restricted exercise of our lower tendencies with a view to get rid of them finally.\]**
-
-
 
 **विषयेषु गुणाध्यासात्पुंसः सङ्गस्ततो भवेत्।  
 सङ्गात्तत्र भवेत्कामः कामादेव कलिर्नृणाम्॥१९॥**
@@ -6228,10 +5568,6 @@ ity, by knowledge⁵, and by affluence⁶ or otherwise. They bring demerit on a 
 **विषयाभिनिवेशेन नात्मानं वेद नापरम्।  
 वृक्षजीविकया जीवन्व्यर्थं भस्त्रेवयः श्वसन् ॥२२॥**
 
-
-
-
-
  22.Engrossed in sense-objects, he knows neither himself nor the Supreme Self, but vainly lives a vegetative life and breathes but like a pair of bellows.
 
 **फलश्रुतिरियं नृृणां न श्रेयो रोचनं परम्।  
@@ -6252,8 +5588,6 @@ ity, by knowledge⁵, and by affluence⁶ or otherwise. They bring demerit on a 
 कथं युञ्ज्यात्पुनस्तेषु तांस्तमो विशतो बुधः॥२५॥**
 
  25. How can the all-knowing Vedas again recommend sense-enjoyments to people who, ignorant
-
-
 
 of their true well-being, wander in the paths of enjoyment, only to enter into deeper gloom,¹and who submit² to the guidance of the Vedas themselves?
 
@@ -6279,8 +5613,6 @@ of their true well-being, wander in the paths of enjoyment, only to enter into d
 
 **²*Deluded etc*.— A reproduction of the Shruti passage : “Some departing from this world realise their identity with the Self, while others do not know the truth of their Self, being deluded by work,” etc.**
 
-
-
 ^(**3**) ***Path of Smoke*—the Pitriyâna, leading to the lunar sphere, whence at the completion of their term of enjoyment they are reborn on earth.\]**
 
 **न ते मामङ्ग जानन्ति हृदिस्थं य इदं यतः।  
@@ -6301,8 +5633,6 @@ of their true well-being, wander in the paths of enjoyment, only to enter into d
  29-30. These cruel people addicted to the senses, not knowing My covert import that if¹ one has a natural craving for killing animals, then one may satisfy it only in sacrifices, and that it is never an injunction,—revel in such killing and for their own pleasure worship the gods, the manes and the leaders of ghostsby means of animals slaughtered in sacrifices.
 
  **\[¹*That if etc*.—that these are merely *permissive* measures and are not to be confounded with *obligatory* duties.\]**
-
-
 
 **स्वप्नोपमममुं लोकमसन्तं श्रवणप्रियम्।  
 आशिषो हृदि सङ्कल्प्य त्यजन्त्यर्थान्यथा वणिक्॥३१॥**
@@ -6329,8 +5659,6 @@ of their true well-being, wander in the paths of enjoyment, only to enter into d
 
 **\[¹*Which*—period of enjoyment.\]**
 
-
-
 **एवं पुष्पितया वाचा व्याक्षिप्तमनसां नृणाम्।  
 मानिनाञ्चातिस्तब्धानां मद्वार्तापि न रोचते॥३४॥**
 
@@ -6351,8 +5679,6 @@ of their true well-being, wander in the paths of enjoyment, only to enter into d
 अनन्तपारं गम्भीरं दुर्विगाह्यंसमुद्रवत्॥३६॥**
 
  36. The manifestation¹ of Brahman as the Word, which is conditioned² by the Prânas, the mind and
-
-
 
 the organs, is most subtle,”³ limitless, profound and unfathomable like the ocean.
 
@@ -6377,8 +5703,6 @@ the organs, is most subtle,”³ limitless, profound and unfathomable like the o
 **छन्दोमयोऽमृतमयः सहस्रपदवीं प्रभुः।  
 ओङ्काराद्व्यञ्जितस्पर्शस्वरोष्मान्तस्थभूषिताम्॥३९॥**
 
-
-
 **विचित्रभाषाविततां छन्दोभिश्चतुरुत्तरैः।  
 अनन्तपारां बृहतीं सृजत्याक्षिपते स्वयम् ॥४०॥**
 
@@ -6396,10 +5720,6 @@ the organs, is most subtle,”³ limitless, profound and unfathomable like the o
 त्रिष्टुब्जगत्यतिच्छन्दो हात्यष्ट्यतिजगद्विराट् ॥४१॥**
 
  41. (These are some of the metres :) Gâyatri,¹ Ushnik, Anushtup, Brihati, Pankti, Trishtup, Jagati,
-
-
-
-
 
 Atijagati (which belongs to a class known as Atichchhandas), Atyashti, and Ativirât.
 
@@ -6426,19 +5746,9 @@ Atijagati (which belongs to a class known as Atichchhandas), Atyashti, and Ativi
 
 **² *And Me etc. —*as the Antaryâmin or Internal Ruler manifested through the gods.**
 
-
-
 ^(**3**) ***Substratum etc.*—Just as the sapthat is in a tiny seedling runs through the whole developed tree, so the import of the Om (viz. the Supreme Lord) is also that of the entire Vedas.**
 
 **⁴ *Are satisfied*—finish their task.\]**
-
-
-
-
-
-
-
-
 
 **CHAPTER XVII**
 
@@ -6463,10 +5773,6 @@ Atijagati (which belongs to a class known as Atichchhandas), Atyashti, and Ativi
 
 **एतावत्त्वं हि संख्यानामृषयो यद्विवक्षया।  
 गायन्ति पृथगायुष्मन्निदं नो वक्तुमर्हसि॥३॥**
-
-
-
-
 
  3. Thou shouldst tell me, 0 Immortal One, the purpose which the sages have in view in thus differently enumerating them.
 
@@ -6493,10 +5799,6 @@ Atijagati (which belongs to a class known as Atichchhandas), Atyashti, and Ativi
 **यासां व्यतिकरादासीद्विकल्पो वदतां पदम्।  
 प्राप्ते शमदमेऽप्येति वादस्तमनु शाम्यति ॥६॥**
 
-
-
-
-
  6.It is thedisturbance among these¹ that caused² the doubt which is the ground of contention among the disputants. This doubt vanishes when one attains calmness of mind and self-control, and after that dispute, too, is at an end.
 
 **\[¹*These*—held in equilibrium in the Prakriti.**
@@ -6520,10 +5822,6 @@ Atijagati (which belongs to a class known as Atichchhandas), Atyashti, and Ativi
 **पौर्वापर्यमतोऽमीषां प्रसंख्यानमभीप्सताम्।  
 यथा विविक्तं यद्वक्त्रंगृह्णीमो युक्तिसंभवात्॥९॥**
 
-
-
-
-
  9. Therefore we accept as true the causal order and enumeration of the categories upheld by the different exponents, just as¹ their mouth utters them_(y) —for there is reason behind them all.
 
 **\[¹*Just as etc.*—The construction is again elliptical.\]**
@@ -6545,8 +5843,6 @@ Atijagati (which belongs to a class known as Atichchhandas), Atyashti, and Ativi
 **\[¹*Others*—those who are for twenty-five categories.**
 
 **² *Not etc.—* Since both are Knowledge Absolute.**
-
-
 
 **³*Knowledge etc.*—It cannot form a separate category to vitiate both the above enumerations.**
 
@@ -6573,10 +5869,6 @@ Atijagati (which belongs to a class known as Atichchhandas), Atyashti, and Ativi
 
  14. Purusha, Prakriti, Mahat, Egoism, ether, air, fire, water and earth—these are the nine categories enumerated by Me.
 
-
-
-
-
 **\[ The Lord enumerates the three Gunas apart from the Pakriti, because they come and go. He now proceeds to enumerate in Verses 14-16 the other twenty-five categories which are common to both the schools referred to in Verses 10 and 11.\]**
 
 **श्रोत्रं त्वग्दर्शनं घ्राणो जिह्वेति ज्ञानशक्तयः।  
@@ -6597,10 +5889,6 @@ Atijagati (which belongs to a class known as Atichchhandas), Atyashti, and Ativi
 सत्त्वादिभिर्गुणैर्धत्ते पुरुषोऽव्यक्त ईक्षते॥१७॥**
 
  17. In the projection¹etc., of this universe, the Prakriti, transformed into causes and effects,² assumes, through the Gunas such as the Sattva etc.,
-
-
-
-
 
 the conditions for such modification. But the Purusha, unmodified,³ merely looks on.
 
@@ -6626,10 +5914,6 @@ the conditions for such modification. But the Purusha, unmodified,³ merely look
 
 **²*Proceed etc.—*Hence the remaining sixteen categories are accounted for.\]**
 
-
-
-
-
 **षडित्यत्रापि भूतानि पञ्च षष्ठः परः पुमान्।  
 तैर्युक्त आत्मसम्भूतैः सृष्टेदं समुपाविशत्॥२०॥**
 
@@ -6651,10 +5935,6 @@ the conditions for such modification. But the Purusha, unmodified,³ merely look
 
  22. In the enumeration of seventeen categories the gross elements, the subtle elements and the organs—five of each—together with the mind and the Atman constitute the seventeen.
 
-
-
-
-
 **तद्वत्षोडशसंख्याने आत्मैव मन उच्यते।  
 भूतेन्द्रियाणि पञ्चैव मन आत्मा त्रयोदश॥२३॥**
 
@@ -6675,10 +5955,6 @@ the conditions for such modification. But the Purusha, unmodified,³ merely look
 सर्वं न्याय्यं युक्तिमत्त्वाद्विदुषां किमशोभनम्॥२५॥**
 
  25. Thus the sages have made various enumerations of the categories. All of these, being reasonable, are apposite. What indeed is inappropriate for the learned?
-
-
-
-
 
 **उद्धव उवाच।**
 
@@ -6706,8 +5982,6 @@ the conditions for such modification. But the Purusha, unmodified,³ merely look
 
 \[¹Power—Mâyâ\]      
 
-
-
 **श्रीभगवानुवाच।**
 
 **प्रकृतिः पुरुषश्चेति विकल्पः पुरुषर्षभ।  
@@ -6727,10 +6001,6 @@ the conditions for such modification. But the Purusha, unmodified,³ merely look
  30. My friend, My inscrutable Power, consisting of the Gunas, creates through these Gunas innumerable modifications and ideas relating thereto. Even though subject to all sorts of modifications, yet the universe is, broadly speaking, threefold¹—one pertaining to the body, another to the gods, and a third to the creatures.
 
 **\[¹*Threefold*—This will be expanded in the next Verse.\]**
-
-
-
-
 
 **दृग्रू पमार्कं वपुरत्र रन्ध्रे  
 परस्परं सिध्यति यः स्वतः स्वे।                    
@@ -6753,8 +6023,6 @@ the conditions for such modification. But the Purusha, unmodified,³ merely look
 
 **⁶*Similarly etc.*—Each of these has its triangular relation with two other things. For example, the skin has got touch and air; the ear, sound and the quarters; the tongue, taste and Varuna; the nose, smell and the Ashwins ; Chitta, object of recognition and Vâsudeva; Manas, object**
 
-
-
 of cogitation and the Moon ; Buddhi, object of determination and Brahmâ ; and egoism, object of identification and Rudra.\]
 
 **योऽसौ गुणक्षोभकृतो विकारः  
@@ -6776,10 +6044,6 @@ of cogitation and the Moon ; Buddhi, object of determination and Brahmâ ; and e
 मत्तः परावृत्तधियां स्वलोकात्॥३३॥**
 
  33. The dispute as to whether the Atman is or is not, hinges on a difference of views merely, and is due to the non-perception of the Atman. Even though
-
-
-
-
 
 it is baseless, it never ceases¹ **for** men who **are averse to Me, their own Self.**
 
@@ -6808,10 +6072,6 @@ it is baseless, it never ceases¹ **for** men who **are averse to Me, their own 
 
  36. The mind¹ of man, swayed by past work, goes from one sphere to another, accompanied by **the**
 
-
-
-
-
 five² organs.The Atman, which is distinct from it, follows³it.
 
 **\[¹*Mind etc.*—The whole thing, says the Lord, is due to the ‘subtle body.’**
@@ -6836,10 +6096,6 @@ five² organs.The Atman, which is distinct from it, follows³it.
 
 **²*Any cause*—either the intense enjoyment of an angelic body or the extreme pain of a low body undergoing tortures.\]**
 
-
-
-
-
 **जन्म त्वात्मतया पुंसः सर्वभावेन भूरिद।  
 विषयस्वीकृतिं प्राहुर्यथा स्वप्नमनोरथः॥३९॥**
 
@@ -6863,10 +6119,6 @@ five² organs.The Atman, which is distinct from it, follows³it.
 
 ***²Becomes etc*.—in this instance, through identification. The man has subjective and objective experiences, that is.\]**
 
-
-
-
-
 **नित्यदा ह्यङ्गभूतानि भवन्ति न भवन्ति च।  
 कालेनालक्ष्यवेगेन सूक्ष्मत्वात्तन्न दृश्यते ॥४२॥**
 
@@ -6889,8 +6141,6 @@ five² organs.The Atman, which is distinct from it, follows³it.
 **\[¹*False* —the recognition being merely based on a semblance.**
 
 **²*Vain —*because enveloped in ignorance.\]**
-
-
 
 **मा स्वस्य कर्मबीजेन जायते सोऽप्ययं पुमान्।  
 म्रियते वामरोऽभ्रान्त्या यथाग्निर्दारुसंयुतः॥४५॥**
@@ -6917,10 +6167,6 @@ five² organs.The Atman, which is distinct from it, follows³it.
 
 **³ *Under etc.*—by the practice of discrimination.\]**
 
-
-
-
-
 **आत्मनः पितृपुत्राभ्यामनुमेयौ भवाप्ययौ I  
 न भवाप्ययवस्तूनामभिज्ञोद्वयलक्षणः॥४८॥**
 
@@ -6942,10 +6188,6 @@ five² organs.The Atman, which is distinct from it, follows³it.
 
 **सत्त्वसङ्गादृषीन्देवान्रजसाऽसुरमानुषान् ।  
 तमसा भूततिर्यक्त्वंभ्रामितो याति कर्मभिः॥५१॥**
-
-
-
-
 
  51. Swayed by his past works, a man¹ through his attachment to Sattva becomes a sage or a god, under the influence of Rajas an Asura or a man, and under the influence of Tamas a ghost or a beast.
 
@@ -6970,10 +6212,6 @@ five² organs.The Atman, which is distinct from it, follows³it.
 
  54. As imaginations and dream-perceptions are unreal, so also, O Uddhava, is the relative existence of sense-experience of the Atman.
 
-
-
-
-
 **अर्थे ह्यविद्यमानेऽपि संसृतिर्न निवर्तते।  
 ध्यायतो विषयानस्य स्वप्नेऽनर्थागमो यथा ॥५५॥**
 
@@ -6994,8 +6232,6 @@ five² organs.The Atman, which is distinct from it, follows³it.
 
  57-58. Even though scolded by the wicked, or insulted, ridiculed, calumniated, beaten, bound, robbed of his living, or spat upon, or otherwise abominably treated by the ignorant—being thus variously shaken¹and placed in dire extremities, the
 
-
-
 man who desires his well-being should deliver himself by his own effort.²
 
 **\[¹*Shaken*—from his faith in God.**
@@ -7015,12 +6251,6 @@ man who desires his well-being should deliver himself by his own effort.²
   59-60. O Best of Teachers, kindly instruct me about this so that I may understand it. O Self of the Universe, this insult to oneself by the wicked I consider as most difficult to put up with even by the learned, excepting those who practise the religion taught by Thee, are equanimous, and have taken refuge at Thy feet, for nature¹ is too strong for men.
 
 **\[¹*Nature*—the instinct to retaliate.\]**
-
-
-
-
-
-
 
 **CHAPTER XVIII**
 
@@ -7047,10 +6277,6 @@ man who desires his well-being should deliver himself by his own effort.²
 **न तथा तप्यते विद्धःपुमान्बाणैः सुमर्मगैः।  
 यथा तुदन्ति मर्मस्था ह्यसतां परुषेषवः॥३॥**
 
-
-
-
-
  3. Arrows penetrating the most vital parts of a man do not so wound him as do the harsh words of the wicked which rankle in the bosom for ever.
 
 **कथयन्ति महत्पुण्यमितिहासमिहोद्धव।  
@@ -7070,10 +6296,6 @@ man who desires his well-being should deliver himself by his own effort.²
 शून्यावसथ आत्मापि काले कामैरनर्चितः ॥७॥**
 
  7. He never greeted his relatives or guests with kind words even, and living in that God-forsaken
-
-
-
-
 
 house he never gave even his own body occasional comforts.
 
@@ -7096,8 +6318,6 @@ house he never gave even his own body occasional comforts.
 
 **\[¹*Merits*—that portion which had contributed to wealth.\]**
 
-
-
 **ज्ञातयो जगृहुःकिंचित्किंचिद्दस्यव उद्धव।  
 दैवतः कालतः किंचिद्ब्रह्मबन्धोर्नपार्थिवात् ॥११॥**
 
@@ -7117,8 +6337,6 @@ house he never gave even his own body occasional comforts.
 न धर्माय न कामाय यस्यार्थायास ईदृशः॥१४॥**
 
  14. And he said to himself : Woe, alas, unto me ! I have for nothing tormented the body in this
-
-
 
 mad quest for riches, neglecting the acquisition of virtue and the legitimate satisfaction of desires.
 
@@ -7140,8 +6358,6 @@ mad quest for riches, neglecting the acquisition of virtue and the legitimate sa
  17. Whether in the acquisition of wealth, or, after it has been acquired, in the increase, maintenance, expenditure, enjoyment or loss of it, men undergo exertion,¹ fear, anxiety and delusion.
 
 **\[¹*Exertion etc*.—as the case may be.\]**
-
-
 
 **स्तेयं हिंसानृतं दम्भः कामः क्रोधः स्मयो मदः।  
 भेदो वैरमविश्वासः संस्पर्धा व्यसनानि च॥१८॥**
@@ -7165,10 +6381,6 @@ mad quest for riches, neglecting the acquisition of virtue and the legitimate sa
 
  21. Even the least amount of money upsets them and inflames their anger, so that they imme-
 
-
-
-
-
 diately part company, and all at once abandoning cordiality they rival and even kill one another.
 
 **लब्ध्वा जन्मामरप्रार्थ्यं मानुष्यं तद्द्विजाग्रयताम्।  
@@ -7189,10 +6401,6 @@ diately part company, and all at once abandoning cordiality they rival and even 
  24. The miser who hoards money like the proverbial Yaksha,¹without sharing it with the gods,²the Rishis, the manes, lower animals, relatives,³friends and other legitimate sharers in it as well as himself, goes to degradation.
 
 **\[¹*Yaksha—*a species of superhuman beings possessing immense wealth which they simply keep hidden without using it for themselves or others.**
-
-
-
-
 
 ^(**2**)***Gods etc.*—The reference is to the Panchayajna or the fivefold sacrifice which every householder is required to perform.**
 
@@ -7215,8 +6423,6 @@ diately part company, and all at once abandoning cordiality they rival and even 
 
 **\[¹*Works*—such as the Agnihotra which being done with selfish motives never confer liberation.\]**
 
-
-
 **नूनं मे भगवास्तुष्टः सर्वे देवमयो हरिः।  
 येन नीतो दशामेतां निर्वेदश्चात्मनः प्लवः॥२८॥**
 
@@ -7235,8 +6441,6 @@ diately part company, and all at once abandoning cordiality they rival and even 
  30. May the gods who rule the three worlds bless me in this! Well, Khatvânga¹ attained to the sphere of the Lord in twenty-four minutes.
 
 **\[¹*Khatvânga*—was a king, who, coming to know through the kindness of the gods that only 24 minutes of his life was left, devoted himself whole-heartedly to the meditation of God and in that short time attained realization.\]**
-
-
 
 **श्रीभगवानुवाच।**
 
@@ -7262,10 +6466,6 @@ diately part company, and all at once abandoning cordiality they rival and even 
 **केचित्त्रिवेणुं जगृहुरेके पात्रं कमण्डलुम्।  
 पीठं चैकेऽक्षसूत्रं च कन्थां चीराणि केचन॥३४॥**
 
-
-
-
-
  34.Some took his triple staff and some his begging-bowl and water-pot; some took his seat and rosary of Rudrâksha beads and some his tattered clothes and wrapper.
 
 **प्रदाय चपुनस्तानि दर्शितान्याददुर्मुनेः।  
@@ -7285,8 +6485,6 @@ diately part company, and all at once abandoning cordiality they rival and even 
 क्षीणवित्त इमां वृत्तिमग्रहीत्स्वजनोज्झितः॥३८॥**
 
  38. Some taunted him insultingly, saying, “He is a sharper who has put on a mask of religion.
-
-
 
 Having lost his wealth and being discarded by his kinsmen, he has taken to this profession.”
 
@@ -7308,12 +6506,6 @@ Having lost his wealth and being discarded by his kinsmen, he has taken to this 
  41. Thus whatever troubles befell him—whether¹ they sprang from the animal kingdom, natural phenomena, or bodily ailments—he thought they were predestined and therefore must be silently borne.
 
 **\[¹*Whether etc.*—These are the three usual divisions of human ills.\]**
-
-
-
-
-
-
 
 **परिभूत इमां गाथामगायत नराधमैः।  
 पातयद्भिः स्वधर्मस्थोधृतिमास्थाय सात्त्विकीम् ॥४२॥**
@@ -7341,10 +6533,6 @@ Having lost his wealth and being discarded by his kinsmen, he has taken to this 
 
 ***⁴Sets*in motion etc.*—*The next Verse explains how.\]**
 
-
-
-
-
 **मनो गुणान्वै सृजते बलीय-  
 स्ततश्च कर्माणि विलक्षणानि।  
 शुक्लानि कृष्णान्यथ लोहितानि  
@@ -7364,8 +6552,6 @@ Having lost his wealth and being discarded by his kinsmen, he has taken to this 
  45. The inactive, resplendent¹ Self, the Friend² of the Jiva, looks on³ from above while the mind works. The Jiva, however, identifying itself with the mind—which presents the world to it—is connected with works, which belong to the mind, and in the act of enjoying sense-objects comes to be bound.
 
 **\[ The idea is this : The real Self never transmigrates. It is Existence-Knowledge-Bliss Absolute. It is only the apparent self, the Jiva, which through Nescience connects itself with the mind goes from one body to another.**
-
-
 
 ^(**1**)***Resplendent*—Because It is Knowledge Absolute.**
 
@@ -7391,8 +6577,6 @@ Having lost his wealth and being discarded by his kinsmen, he has taken to this 
 
 **\[¹*Charity etc.*—referred to in the previous Verse.\]**
 
-
-
 **मनोवशेऽन्ये ह्यभवंस्म देवा  
 मनश्च नान्यस्य वशं समेति।  
 भीष्मो हि देवः सहसः सहीया-  
@@ -7415,8 +6599,6 @@ Having lost his wealth and being discarded by his kinsmen, he has taken to this 
 
  49. There are some foolish people who, without conquering that invincible foe, whose onset is unbearable and who pierces the very vitals of a man, are for that very reason¹engaged in vain quarrels with mortals here, and (in the course of it) convert others into friends, or neutrals or enemies.
 
-
-
 **\[¹ *For that very reason* — Because they have not controlled the mind.\]**
 
 **देहं मनोमात्रमिमं गृहीत्वा  
@@ -7437,8 +6619,6 @@ Having lost his wealth and being discarded by his kinsmen, he has taken to this 
 
 **\[ Verses 51-56 elaborate the idea of Verse 43.**
 
-
-
 ^(**1**)***Has nothing etc*.—Neither causes nor experiencespleasure and pain.**
 
 **² *If one etc*—The point of the illustration is this: Supposing that the pain caused by another did affect the Atman, still there is no ground for anger, for the same Atman is present in. all. The two bodies are virtually-one body.\]**
@@ -7458,8 +6638,6 @@ Having lost his wealth and being discarded by his kinsmen, he has taken to this 
 क्रुध्येत कस्मान्न सुखं न दुःखम् ॥५३॥**
 
  53. If the Atman¹ be the cause of pleasure and pain, nothing in that case happens through any ex-
-
-
 
 traneous agency; that pleasure and pain are of the essence of itself, for there is nothing² other than the Atman; if there be, it must be a fiction.³ So whom should one be angry with? There is neither⁴ pleasure nor pain.
 
@@ -7484,10 +6662,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 
 **³*Atman etc.*—It is only due to his mistaken identification with the body, born under a particular constellation, that a man comes under planetary influence. In reality he is the ever-free Atman.\]**
 
-
-
-
-
 **कर्मास्तु हेतुः सुखदुःखयोश्चे-  
 त्किमात्मनस्तद्धि जडाजडत्वे।  
 देहस्त्वचित्पुरुषोऽयं सुपर्णः  
@@ -7507,8 +6681,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 त्क्रुध्येत कस्मै न परस्य द्वन्द्वम् ॥५६॥**
 
  56. If Time be the cause of pleasure and pain, how does it affect the Atman, for It is one¹with Time ? Surely² a flame is not adversely affected by fire, nor a hailstone by cold. The Supreme Self is never affected by the pairs of opposites.³So whom should one be angry with?
-
-
 
 **\[¹*One etc.*—Because Time is identified with Brahman.**
 
@@ -7534,8 +6706,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 
  58. So I shall practise this devotion to the Supreme Self which the great sages of old took recourse to, and only worshipping the feet of the Lord, I shall cross the limitless wilderness of ignorance.
 
-
-
 **श्रीभगवानुवाच।**
 
 **निर्विद्य नष्टद्रविणो गतक्लमः  
@@ -7560,25 +6730,7 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 **य एतां भिक्षुणा गीतां ब्रह्मनिष्ठां समाहितः।  
 धारयन्श्रावयन्शृण्वन्द्वन्द्वैर्नैवाभिभूयते॥६२॥**
 
-
-
-
-
  62. He who listens to, understands and recites before others this song of steadfastness in Brahman, as sung by the Sannyâsin, is no more overcome by the pairs of opposites.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **CHAPTER XIX**
 
@@ -7607,10 +6759,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 **तन्मायाफलरूपेण केवलं निर्विकल्पितम्।  
 वाङ्मनोऽगोचरं सत्यं द्विधा समभद्बृहत्॥३॥**
 
-
-
-
-
  3. That absolute and homogeneous Reality, the Brahman, which transcends mind and speech, became split into two—the objective world and the thinking subject.
 
 **तयोरेकतरो ह्यर्थः प्रकृतिः सोभयात्मिका।  
@@ -7633,8 +6781,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 ततो विकुर्वतो जातो योऽहंकारो विमोहनः॥६॥**
 
  6. From them emanated the Sutra, with which the Mahat is united.¹From the transformation of that was produced egoism, which deludes²all.
-
-
 
 **\[¹*With which etc*.—Though Sutra is characterised by activity and Mahat by intelligence, yet they are but aspects of one principle. This is what is meant.**
 
@@ -7659,10 +6805,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 **मया संचोदिता भावाः सर्वे संहत्यकारिणः।  
 अण्डमुत्पादयामासुर्ममायतनमुत्तमम् ॥९॥**
 
-
-
-
-
  9. Directed by me, all these things, acting together, made up an oval structure which was an excellent abode for Me.¹
 
 **\[¹*Me*—as the Indwelling Ruler of the Universe.\]**
@@ -7685,8 +6827,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 मर्त्यादीनां च भूर्लोकः सिद्धानां त्रितयात्परम् ॥१२॥**
 
  12. The Svar became the abode of the gods; the Bhuvar that of the spirits; the earth that of men; and the spheres beyond the Svar the abode of the Siddhas.¹
-
-
 
 **\[¹*Siddhas*—Highly advanced souls with extraordinary powers.\]**
 
@@ -7719,8 +6859,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 
 **⁴*Stream etc.*—i. e. relative existence.\]**
 
-
-
 **अणुर्बृहत्कृशः स्थूलो यो यो भावः प्रसिध्यति।  
 सर्वोऽप्युभयसंयुक्तः प्रकृत्या पुरुषेण च॥१६॥**
 
@@ -7746,10 +6884,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 
 **⁴ *Called*—by the Shruti.**
 
-
-
-
-
 ***⁵Real*—with reference to the consequent state. So each of the intermediate links in a causal chain is only *relatively* real, the First Cause or Brahman being alone real in the absolute sense.\]**
 
 **प्रकृतिर्ह्यस्योपादानमाधारः पुरुषः परः।  
@@ -7772,10 +6906,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 
 **विराण्मयाऽऽसाद्यमानो लोककल्पविकल्पकः।  
 पञ्चत्वाय विशेषाय कल्पते भुवनैः सह॥२१॥**
-
-
-
-
 
  21.Then the universe which, pervaded by Me,¹is the scene of the births and deaths of multifarious creatures, is, together with the spheres, ready for the state called dissolution.
 
@@ -7802,10 +6932,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 **रूपं वायौ स व स्पर्शे लीयते सोऽपि चाम्बरे।  
 अम्बरं शब्दतन्मात्र इन्द्रियाणि स्वयोनिषु ॥२४॥**
 
-
-
-
-
  24.Colour dissolves into air, air into touch, touch into ether, and ether into sound particles. The organs are dissolved into their efficient causes, the gods.¹
 
 **\[¹*Gods*—The organs, being characterised by activity which is guided by the gods, are here said to be dissolved into the gods. Really they merge in Râjasa egoism, which is their material cause.\]**
@@ -7827,8 +6953,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 **²*Gunas etc.*—i.e. they regain their lost balance.**
 
 **³That etc.—i.e. it remains identified with Time considered as an undivided whole.\]**
-
-
 
 **कालो मायामये जीवे जीव आत्मनि मय्यजे।  
 आत्मा केवल आत्मस्थो विकल्पापायलक्षणः॥२७॥**
@@ -7855,8 +6979,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 
 **² *High etc*.—cause and effect.\]**
 
-
-
 **CHAPTER XX**
 
 **श्रीभगवानुवाच।**
@@ -7881,8 +7003,6 @@ traneous agency; that pleasure and pain are of the essence of itself, for there 
 मदोत्साहो यशः प्रीतिर्हास्यं वीर्यं बलोद्यमः॥३॥**
 
  3. Desire,¹activity, pride, covetousness, haughtiness, praying for comforts, seeing of difference, sense-pleasure, a militant disposition due to pride, love
-
-
 
 of fame, making fun, display of powers, and aggressive enterprise.
 
@@ -7909,8 +7029,6 @@ of fame, making fun, display of powers, and aggressive enterprise.
 
 **¹*Ideas etc*.—We sometimes identify ourselves with the**
 
-
-
 **body and organs, etc., as when we say we are stout or deaf, and more often we call external objects our own.**
 
 **²*Mind etc.—*which are all the outcome of one or other of the three Gunas.\]**
@@ -7931,12 +7049,6 @@ of fame, making fun, display of powers, and aggressive enterprise.
 कामादिभी रजोयुक्तं क्रोधाद्यैस्तमसा युतम्॥९॥**
 
  9. By control of the mind and the like, a man should be inferred as possessed of Sattva; by desire and so forth, as possessed of Rajas; and by anger etc., as possessed of Tamas.
-
-
-
-
-
-
 
 **\[ The different effects of the Gunas on character are described in Verses 9-11.\] **
 
@@ -7959,8 +7071,6 @@ of fame, making fun, display of powers, and aggressive enterprise.
 तदा सुखेन युज्येत धर्मज्ञानादिभिः पुमान्॥१३॥**
 
  18. When Sattva, which is bright, pure and placid, overcomes the other two Gunas, then a man
-
-
 
 is endowed with happiness, virtue, knowledge and the like.¹
 
@@ -7985,8 +7095,6 @@ is endowed with happiness, virtue, knowledge and the like.¹
 
  16. When the mind-stuff is cheerful, the senses subdued, the body intrepid, and the mind unattached, know that to be Sattva, through which I am realised.
 
-
-
 **चिकुर्वन्क्रियया चाधीरनिर्वृत्तिश्च चेतसाम्।  
 गात्रास्वास्थ्यं मनो भ्रान्तं रज एतैर्निशामय॥१७॥**
 
@@ -8008,8 +7116,6 @@ is endowed with happiness, virtue, knowledge and the like.¹
 प्रस्वापं तमसा जन्तोस्तुरीयं त्रिषु संततम्॥२०॥**
 
  20. From Sattva one should expect wakefulness in a man; from Rajas dreams; and **from** Tamas **sleep**.
-
-
 
 The fourth or superconscious state persists¹ through all the three.
 
@@ -8033,8 +7139,6 @@ The fourth or superconscious state persists¹ through all the three.
 राजसं फलसंकल्पं हिंसाप्रायादि तामसम्॥२३॥**
 
  23. One's own duties, if done for My-sake or without any desire for fruits, are Sâttvika; work done
-
-
 
 with a desire for fruits is Râjasa; and that attended with cruelty etc., is Tâmasa.
 
@@ -8060,10 +7164,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
 **सात्त्विक्याध्यात्मिकी श्रद्धा कर्मश्रद्धा तु राजसी।  
 तामस्यधर्मे या श्रद्धा मत्सेवायां तु निर्गुणा॥२७॥**
 
-
-
-
-
  27. Faith in the Self is Sâttvika; that in **work** is Râjasa; faith in irreligion is Tâmasa; and that in service unto Me is beyond the Gunas.
 
 **पथ्यं पूतमनायस्तमाहार्यं सात्त्विकं स्मृतम्।  
@@ -8082,8 +7182,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
  30. Thing,¹ place, fruit, time, knowledge, work, agent, faith, state, form and goal—all these verily fall within the range of the Gunas.
 
 **\[¹*Thing etc*,—'Thing' has been referred to in Verse 28, 'place' in Verse 25, 'fruit' in Verse 29, 'time' in Verses 13-19, 'knowledge' in Verse 24, 'work' in Verse 23, 'agent' in Verse 26, 'faith' in Verse 27, 'state' in Verse 20, 'form' in Verse 21, and 'goal' in Verse 22.\]**
-
-
 
 **सर्वे गुणमया भावाः पुरुषाव्यक्तधिष्ठिताः।  
 दृष्टं श्रुतमनुध्यातं बुद्ध्या वा पुरुषर्षभ॥३१॥**
@@ -8105,10 +7203,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
 
  33. Therefore let wise men, having obtained this body which is conducive to knowledge and realisation, winnow out their attachment to the Gunas and worship Me.
 
-
-
-
-
 **निःसङ्गो मां भजेद्विद्वानप्रमत्तो जितेन्द्रियः।  
 रजस्तमश्चाभिजयेत्सत्त्वसंसेवया मुनिः॥३४॥**
 
@@ -8127,8 +7221,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
  36. Such a man, freed from his subtle body and the Gunas which spring up in the mind, is wholly filled by Me, the Brahman, and he should have nothing to do with the sense-objects, either outside¹or inside.
 
 **\[¹*Outiside etc.*—by actual contact or in thought.\]**
-
-
 
 **CHAPTER X X I**
 
@@ -8151,8 +7243,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
 
 **\[¹*Subtle body*—comprising the five sensory and the five motor organs, the five Prânas (or according to another version, the five subtle elements), Manas and Buddhi. This it is that takes on body after body, till one realises the Atman.\]**
 
-
-
 **सङ्गं न कुर्यादसतां शिश्नोदरतृपां क्वचित्।  
 तस्यानुगस्तमस्यन्धे पतत्यन्धानुगान्धवत् ॥३॥**
 
@@ -8173,10 +7263,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
 
 **त्यक्त्वाऽऽत्मानं व्रजन्तीं तां नग्न उन्मत्तवन्नृपः।  
 विलपन्नन्वगाज्जाये घोरे तिष्ठति विक्लवः॥५॥**
-
-
-
-
 
  5. When Urvashi was leaving him, the Emperor, beside himself with grief, followed her like a madman, undressed, and crying,“My wife, stay ! O you cruel one !”
 
@@ -8202,10 +7288,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
 **अहो मे आत्मसंमोहो येनात्मा योषितां कृतः।  
 क्रीडामृगश्चक्रवर्त्ती नरदेवशिखामणिः ॥९॥**
 
-
-
-
-
  9. O the infatuation of my mind, which reduced the person of an Emperor—a crest-gem to a host of kings—into a sort of toy animal for women !
 
 **सपरिच्छदमात्मानं हित्वा तृणमिवेश्वरम्।  
@@ -8228,8 +7310,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
 
  13. Fie on me who, though wise in my own conceit, was but a fool, ignorant of my real welfare, and who having attained suzerainty was conquered by women, like an ox or an ass !
 
-
-
 **सेवतो वर्षपूगान्मे उर्वश्या अधरासवम्।  
 न तृप्यत्यात्मभूः कामो वह्निराहुतिभिर्यथा॥१४॥**
 
@@ -8243,7 +7323,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
 **बोधितस्यापि देव्या मे सूक्तवाक्येन दुर्मतेः।  
 मनोगतो महामोहो नापयात्यजितात्मनः॥१६॥**   
 
-
  16. I was such a fool and slav to the senses, that even though warnedby the goddess¹withsignificant words, the dire infatuation of my mind would not pass !
 
 **\[¹ Goddess — Urvashi. For the reference see note on Verse 4.\]**
@@ -8252,8 +7331,6 @@ with a desire for fruits is Râjasa; and that attended with cruelty etc., is Ta
 रज्जुस्वरूपाविदुषो योऽहं यदजितेन्द्रियः॥१७॥**
 
  17. What¹ harm has she done to me, who was but a slave to my senses 1 Does a rope hurt a man
-
-
 
 who, failing to notice its true nature, mistakes it **for** a snake?
 
@@ -8278,10 +7355,6 @@ who, failing to notice its true nature, mistakes it **for** a snake?
 
 **³*Vile end*—being reduced to ashes etc.\]**
 
-
-
-
-
 **त्वङ्मांसरुधिरस्नायुमेदोमज्जास्थिसंहतौ।  
 विण्मूत्रपूये रमतां कृमीणां कियदन्तरम्॥२१॥**
 
@@ -8301,8 +7374,6 @@ who, failing to notice its true nature, mistakes it **for** a snake?
 विदुषां चाप्यविश्रब्धः षड्वर्गः किमु मादृशाम्॥२४॥**
 
  24. Therefore no association through the senses should be made with women or with those who are attached to them. The passions are not to be trusted even by the wise, not to speak of people like me.
-
-
 
 **श्रीभगवानुवाच।**
 
@@ -8328,10 +7399,6 @@ who, failing to notice its true nature, mistakes it **for** a snake?
 **तेषु नित्यं महाभाग महाभागेषु मत्कथाः।  
 संभवन्ति हिता नृृणां जुषतां प्रपुनन्त्यधम्॥२८॥**
 
-
-
-
-
  28. O fortunate one, among these blessed ones there is constant talk of Me, listening to which people are purged of their sins.
 
 **\[ The effect of the association with saints is described in Verses 28-34.\]**
@@ -8354,8 +7421,6 @@ who, failing to notice its true nature, mistakes it **for** a snake?
 **\[¹*Darkness*—which causes the fear.**
 
 **²*So also etc,*—i.e. he is rid of his mechanical engrossment in rituals, his fear of rebirth, and its cause, ignorance.\]**
-
-
 
 **निमज्ज्योन्मज्जतां घोरे भवाब्धौ परमायनम्।  
 सन्तो ब्रह्मविदः शान्ता नौर्दृढेवाप्सु मज्जताम्॥३२॥**
@@ -8382,18 +7447,12 @@ who, failing to notice its true nature, mistakes it **for** a snake?
 
 **³ *Myself etc.—*So they sum up all the virtues.\]**
 
-
-
-
-
 **वेतसेनस्ततोऽप्येवमुर्वश्यालोकनिस्पृहः।  
 मुक्तसङ्गो महीमेतामात्मारामश्चचार ह॥३५॥**
 
  35. Being thus averse to the sphere where Urvashi lived, and aided also by the association of the saints, Pururavas¹was free from all attachment, and wandered over this earth, taking pleasure in the Self alone.
 
 **\[¹*Pururavas*—The word in the text literally means : Son of one (Sudyumna) whose army (on enteringa charmed forest) underwent a strange transformation. For the story, see the Bhâgavata, Book IX, Chapter I.\]**
-
-
 
 **CHAPTER XXII**
 
@@ -8418,10 +7477,6 @@ who, failing to notice its true nature, mistakes it **for** a snake?
 श्रेयसामुत्तमं मन्ये स्त्रीशूद्राणां च मानद॥४॥**
 
  3-4. O Lord who glorifiest Thy devotees, that instruction which, after it had issued from Thy lotus lips, the Lord Brahmâ told his sons, Bhrigu and
-
-
-
-
 
 others, and the Lord Shiva to the Goddess Pârvati,—that I consider the best and the most suitable means of well-being for all castes and orders of life, including even the Shudras and women.
 
@@ -8448,8 +7503,6 @@ others, and the Lord Shiva to the Goddess Pârvati,—that I consider the best 
 
  7. There are three ways of worshipping Me, viz. Vaidika, Tantrika and mixed. One may wor-
 
-
-
 ship Me by any one of the three methods that appeals to one.
 
 **यदा स्वनिगमेनोक्तं द्विजत्वं प्राप्य पूरुषः।  
@@ -8470,10 +7523,6 @@ ship Me by any one of the three methods that appeals to one.
 उभयैरपि च स्नानं मन्त्रैर्मृद्ग्रहणादिना ॥१०॥**
 
  10. Cleansing his teeth, he should first have a bath for the purification of his body. The bath is to be accompanied by both Vaidika and Tântrika Mantras and the use of earth etc.
-
-
-
-
 
 **संध्योपास्त्यादिकर्माणि वेदेनाचोदितानि मे।  
 पूजां तैः कल्पयेत्सम्यक्संकल्पः कर्मपावनीम् ॥११॥**
@@ -8497,8 +7546,6 @@ ship Me by any one of the three methods that appeals to one.
 **अस्थिरायां विकल्पः स्यात्स्थण्डिले तु भवेद्द्वयम्।  
 स्नपनं त्वविलेप्यायामन्यत्र परिमार्जनम्॥१४॥**
 
-
-
  14. With regard to the movable images there is an option¹about this, but in the case of the sacrificial ground etc., they are compulsory. Bathing is performed with all except the clay ones etc.² In other cases, only wiping is done.
 
 **\[¹*Option etc.*—according to the particular case; e.g. they should be omitted in the case of a Shâlagrâma, and performed in the case of a sandy image. As regards other kinds of movable images they are optional.**
@@ -8519,8 +7566,6 @@ ship Me by any one of the three methods that appeals to one.
 
 **¹*Locating etc.—*Mentally conceiving the principal and subordinate deities as occupying different parts of it.\]**
 
-
-
 **सूर्ये चाभ्यर्हणं प्रेष्ठं सलिले सलिलादिभिः।  
 श्रद्धयोपाहृतं प्रेष्ठं भक्तेन मम वार्यपि॥१७॥**
 
@@ -8540,8 +7585,6 @@ ship Me by any one of the three methods that appeals to one.
 कलशं प्रोक्षणीयं च यथावदुपसाधयेत्॥२०॥**
 
  20. Having located the deities in his own body, he should place the principal Mantra in my image, and purify¹ it with his hand. He should duly²
-
-
 
 purify the pitcher filled with sacred waterfor sprinkling.
 
@@ -8566,8 +7609,6 @@ purify the pitcher filled with sacred waterfor sprinkling.
 
  23. Having¹ purified his body with air and fire, he should meditate on the subtle and supreme form
 
-
-
 of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²reflect on at the end³of the Nâda.
 
 **\[¹*Having etc.—*The process of Bhutashuddhi, referred to here, is briefly as follows: The priest has first to imagine his body as dried by the air in his stomach and burnt by the fire at the extremity of his spine, and then revived by the nectar of the moon in his forehead. In this new body he has to meditate on the Lord as described in this verse.**
@@ -8589,10 +7630,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 **पद्ममष्टदलं तत्र कर्णिकाकेसरोज्वलम्।  
 उभाभ्यां वेदतन्त्राभ्यां मह्यंतूभयसिद्धये॥२६॥**
 
-
-
-
-
  25-26. Having conceived My cot¹ with the attributes such as virtue etc., and the nine Powers, and on that an eight-petalled lotus, with effulgent²pericarp and stamens, he should, for the achievement of prosperity and liberation as set forth in the Vedas and Tantras, offer Me, with both kinds of Mantras, water for washing the feet and mouth, welcome offerings and other things.
 
 **\[¹*Cot*—of which virtue, knowledge, renunciation and lordship are the legs, the opposites of these the four side pieces, the nine Powers—Vimala, Utkarshini, etc.—the seat, and so on.**
@@ -8608,8 +7645,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 
 **नन्दं सुनन्दं गरुडं प्रचण्डं चण्डमेव च।  
 महाबलं बलं चैव कुमुदं कुमुदेक्षणम्॥२८॥**
-
-
 
 **दुर्गां विनायकं व्यासं विष्वक्सेनं गुरून्सुरान्।  
 स्वे स्वे स्थाने त्वभिमुखान्पूजयेत्प्रोक्षणादिभिः॥२९॥**
@@ -8634,8 +7669,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 
 **²*Svarna-*gharma etc.— A Vedic hymn beginning with सुवर्णं घर्मं परिवेदवेनम् etc.**
 
-
-
 ^(**3**) ***Stanza etc.*—The opening verses of the Vishnu- Purana.**
 
 **⁴*Purusha-Sukta* – Rig-veda, 10th Mandala, 90th Sukta.**
@@ -8658,8 +7691,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 संयावदधिसूपांश्च नैवेद्यं सति कल्पयेत्॥३४॥**
 
  34. Having got the means, he should offer Me the following kinds of food—preparations of molasses, sweetened milk-rice, Ghee, different kinds of floii’ cakes and sweets, curd and vegetable dishes.
-
-
 
 **अभ्यङ्गोन्मर्दनादर्शदन्तधावाभिषेचनम्।  
 अन्नाद्यगीतनृत्यादि पर्वणि स्युरुतान्वहम्॥३५॥**
@@ -8686,8 +7717,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 
 **²*Me* — as the Indwelling Ruler.\]**
 
-
-
 **तप्तजाम्बूनदप्रख्यं शङ्खचक्रगदाम्बुजैः।  
 लसच्चतुर्भुजं शान्तं पद्मकिञ्जल्कवाससम् ॥३८॥**
 
@@ -8707,8 +7736,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
  40-41. After meditating and worshipping Me, he should put faggots soaked in Ghee into the fire, perform the two Aghâras¹and the two Homas,²and uttering the principal Mantra³and the Purusha-Sukta, for each stanza of the latter offer oblations soaked in Ghee, making duly, with the appropriate Mantras,⁴ offerings to virtue etc., as well as the offering called Svishtikrita.
 
 **\[*¹ Aghâras*—pouring of Ghee across the fire, uttering प्रजापतये स्वाहा etc.**
-
-
 
 **²*Homas*— pouring of oblations, utteringअग्नये स्वाहा,etc.**
 
@@ -8736,10 +7763,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 **स्तवैरुच्चावचैः स्तोत्रेः पौराणैः प्राकृतैरपि।  
 स्तुत्वा प्रसीद भगवन्निति वन्देत दण्डवत्॥४५॥**
 
-
-
-
-
  45. Praising Me with various hymns and odes composed by the ancients as well as the moderns, he should prostrate himself before Me, saying, “Lord, be gracious unto me!”
 
 **शिरो मत्वादयोः कृत्वा बाहुभ्यां च परस्परम्।  
@@ -8762,10 +7785,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 
 **It will appear on reflection that the whole process is firmly grounded on Advaita.\]**
 
-
-
-
-
 **अर्चादिषु यदा यत्र श्रद्धा मां तत्र चार्चयेत्।  
 सर्वभूतेष्वात्मनि च सर्वात्माऽहमवस्थितः॥४८॥**
 
@@ -8785,8 +7804,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 क्षेत्रापणपुरग्रामान्दत्वा मत्सार्ष्टितामियात्॥५१॥**
 
  50-51. Installing My image, he must have a strong temple built for it, with beautiful flower-gardens attached, and for the continuance of the daily worship as well as gatherings and festivals on special days, he should make a gift of lands, shops, towns and villages to support the worship etc. By doing so he attains a splendour equalling Mine.
-
-
 
 **प्रतिष्ठया सार्वभौमं सद्मना भुवनत्रयम्।  
 पूजादिना ब्रह्मलोकं त्रिभिर्मत्साम्यतामियात् ॥५२॥**
@@ -8809,8 +7826,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 कर्मणा भागिनः प्रेत्य भूयो भूयसि तत्फलम्॥५५॥**
 
  55. Whatever fate awaits this culprit in the next life, overtakes also those who aid, instigate or abet him in the deed, for they are sharers in it. The punishment is greater in proportion to the enormity of the sin.
-
-
 
 **CHAPTER XXIII**
 
@@ -8837,8 +7852,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 
 **\[¹*Does etc.*—find his mind either outgoing or dull.\]**
 
-
-
 **किं भद्रं किमभद्रं वा द्वैतस्यावस्तुनः कियत्।  
 वाचोदितं तदनृतं मनसा ध्यातमेव च॥४॥**
 
@@ -8862,8 +7875,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 
 **\[¹*Is projected*—Because it is the Atman that appears as the universe.\]**
 
-
-
 **तस्मान्नह्यात्मनोऽन्यस्मादन्यो भावो निरूपितः।  
 निरूपितेयं त्रिविधा निर्मूला भातिरात्मनि।  
 इदं गुणमयं विद्धि त्रिविधं मायया कृतम् ॥७॥**
@@ -8885,8 +7896,6 @@ of Mine as Nârâyana, seated in the lotus of his heart—which the Siddhas²r
 आद्यन्तवदसज्ज्ञात्वा निःसङ्गो विचरेदिह॥९॥**
 
  9. Knowing by means of sense perception, inference, scriptural evidence and one's own realisa-
-
-
 
 tion, that whatever has a beginning and an end is unreal, one should wander in the world free from attachment.
 
@@ -8915,8 +7924,6 @@ tion, that whatever has a beginning and an end is unreal, one should wander in t
 
  12. So long as the self is related to the body.
 
-
-
 the organs and the Prânas, relative existence, even though unreal, has a semblance of reality for the undiscriminating man.
 
 **अर्थे ह्यविद्यमानेऽपि संसृतिर्न निवर्तते।  
@@ -8938,10 +7945,6 @@ the organs and the Prânas, relative existence, even though unreal, has a sembl
 
 **\[¹*Not etc.*—Because they are absent in dreamless sleep.\]**
 
-
-
-
-
 **देहेन्द्रियप्राणमनोभिमानो  
 जीवोऽन्तरात्मा गुणकर्ममूर्तिः।  
 सूत्रं महानित्युरुधैव गीतः  
@@ -8960,10 +7963,6 @@ the organs and the Prânas, relative existence, even though unreal, has a sembl
 
 **ज्ञानं विवेको निगमस्तपश्च  
 प्रत्यक्षमैतिह्यमथानुमानम्।**
-
-
-
-
 
 **आद्यन्तयोरस्य यदेव केवलं  
 कालश्च हेतुश्च तदेव मध्ये॥१८॥**
@@ -8987,10 +7986,6 @@ the organs and the Prânas, relative existence, even though unreal, has a sembl
 
 **विज्ञानमेतत्त्रियवस्यमङ्ग  
 गुणत्रयं कारणकार्यकर्तृ।**
-
-
-
-
 
 **समन्वयेन व्यतिरेकतश्च  
 येनैव तुर्येण तदेव सत्यम्॥२०॥**
@@ -9016,8 +8011,6 @@ the organs and the Prânas, relative existence, even though unreal, has a sembl
 
  21. That which is neither before nor after is also non-existent in the interim. It is a mere name.¹I am of opinion that whatever is caused or brought to light by some other thing must be that and nothing else.
 
-
-
 **\[¹*Name*—An echo of Chhândogya Upa. VI. i. 4–‘Ali modifications are mere names—efforts of speech,’ etc.\]**
 
 **अविद्यमानोऽप्यवमासते यो  
@@ -9037,10 +8030,6 @@ the organs and the Prânas, relative existence, even though unreal, has a sembl
 स्वानन्दतुष्टोऽखिलकामुकेभ्यः॥२३॥**
 
    28. Clearly removing one's doubts about the Atman by reasons that lead to a realisation of the Brahman, as well as by a skilful negation¹ of things²other than the Brahman, one should turn away from all sense pleasures, being satisfied with the bliss of the Self.
-
-
-
-
 
 **\[¹*Negation*―This is shown in the next few Verses.**
 
@@ -9063,8 +8052,6 @@ the organs and the Prânas, relative existence, even though unreal, has a sembl
 धनैरुपेतैर्विगतैरवेः किम्॥२५॥**
 
  25. If the organs, which are made up of the Gunas, are controlled, what credit does it bring to
-
-
 
 a man who has completely realised My nature, and if they are outgoing, what blemish? What matters it to the sun if the clouds gather together or are scattered ?
 
@@ -9089,8 +8076,6 @@ a man who has completely realised My nature, and if they are outgoing, what blem
 **यथाऽऽभयोऽसाधुचिकित्सितो नृणां  
 पुनः पुनः संतुदति प्ररोहन्।**
 
-
-
 **एवं मनोऽपक्वकषायकर्म  
 कुयोगिनं विध्यति सर्वसङ्गम्॥२८॥**
 
@@ -9114,8 +8099,6 @@ a man who has completely realised My nature, and if they are outgoing, what blem
 
  30. It is the body which, directed by something,¹ works and is modified² till death, but the
 
-
-
 man of realisation, with his desire quenched by experiencing the bliss of the Atman, even though he is in the body, is not affected by work.
 
 **\[¹*Something*—e.g. past impressions of work.**
@@ -9138,10 +8121,6 @@ man of realisation, with his desire quenched by experiencing the bliss of the At
 
 **पूर्वं गृहीतं गुणकर्मचित्र-  
 मज्ञानमात्मन्यविविक्तमङ्ग।**
-
-
-
-
 
 **निवर्तते तत्पुनरीक्षयैव  
 न गृह्यते नापि विसृज्य आत्मा॥३३॥**
@@ -9168,10 +8147,6 @@ man of realisation, with his desire quenched by experiencing the bliss of the At
 एकोऽद्वितीयो वचसां विरामे  
 येनेषिता वागसवश्चरन्ति॥३५॥**
 
-
-
-
-
  35. This Atman is self-effulgent, birthless, unknowable. Knowledge Absolute, omniscient, one, indivisible and beyond speech,¹ for under² Its direction speech and the Prânas function.
 
 **\[¹*Beyond speech*—Compare Taittiriya Upa. II. 9.**
@@ -9197,10 +8172,6 @@ man of realisation, with his desire quenched by experiencing the bliss of the At
 **योगिनोऽपक्वयोगस्य युञ्जतः काय उत्थितैः।  
 उपसर्गैर्विहन्येत तत्रायं विहितो विधिः॥३८॥**
 
-
-
-
-
  38. Should the body of a Yogin who is but practising Yoga and is not yet an adept in it, be overtaken by troubles that may have cropped up in the course of it, then the following remedies are prescribed.
 
 **\[ Now follow some directions for warding off certain concomitant evils of Yoga practice.\] **
@@ -9224,8 +8195,6 @@ man of realisation, with his desire quenched by experiencing the bliss of the At
 **\[¹*Evils*—such as lust etc.**
 
 **²*Some—*such as haughtiness etc.\]**
-
-
 
 **केचिद्देहमिमं धीराः सुकल्पं वयसि स्थिरम्।  
 विधाय विविधोपायैरथ युञ्जन्ति सिद्धये॥४१॥**
@@ -9251,23 +8220,7 @@ man of realisation, with his desire quenched by experiencing the bliss of the At
 **योगचर्यामिमां योगी विचरन्मद्व्यपाश्रयः।  
 नान्तरायैर्विहन्येत निःस्पृहः स्वसुखानुभूः॥४४॥**
 
-
-
  44. The Yogin who practises this Yoga, relying solely on Me and having no desires, is not thwarted by obstacles and experiences the bliss of the Self.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **CHAPTER XXIV**
 
@@ -9292,8 +8245,6 @@ man of realisation, with his desire quenched by experiencing the bliss of the At
 
  3. Hence, O lotus-eyed **One,** **O Lord of the universe**, sages **with discrimination never fail to resort cheerfully to Thy lotus** feet, **which shower bliss.**
 
-
-
 They are not overtaken by Thy inscrutable Mâyâ and are never proud of their attainments in Yoga and work.
 
 **किं चित्रमच्युत तवैतदशेषबन्धो  
@@ -9313,8 +8264,6 @@ They are not overtaken by Thy inscrutable Mâyâ and are never proud of their 
 किं वा भवेन्न तव पादरजोजुषां नः॥५॥**
 
  5. Who that knows what Thou dost to Thy devotees, would discard Thee, the Self of all, the well-beloved Lord, the Giver of all boons to Thy dependants, and who would resort to any other
-
-
 
 master for material prosperity, or for forgetfulness¹of the world either? What indeed is inaccessible to us who adore the dust of Thy feet?
 
@@ -9339,8 +8288,6 @@ master for material prosperity, or for forgetfulness¹of the world either? What 
  **Suka said :**
 
  7. Being thus asked by the devoted Uddhava, the God of gods, whose toy is the world, and who
-
-
 
 through His own powers¹assumes a triple form,²said with a loving, beautiful smile.
 
@@ -9367,8 +8314,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 
  10. One should resort to sacred tracts inhabited by holy men devoted to Me. Among the gods, Asuras and men, one should imitate the conduct of those alone who are My devotees.
 
-
-
 **पृथक् सत्रेण वा मह्यं पर्वयात्रामहोत्सवान्।  
 कारयेद्गीतनृत्याद्यैर्महाराजविभूतिभिः॥११॥**
 
@@ -9388,8 +8333,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
  13-14. O great soul, he who, taking his stand on pure knowledge, thus regards and honours all beings as Myself, who has the same attitude towards a Chandâla¹ as well as a Brâhmana, a thief as well as a patron of the Brâhmanas, a spark of fire as well as the sun, and a ruffian as well as a kind man,—is considered a sage.
 
 **\[¹*Chandala etc.*—suggesting differences due to birth, work, quality and nature, respectively.\]**
-
-
 
 **नरेष्वभीक्ष्णं मद्भावं पुंसो भावयतोऽचिरात्।  
 स्पर्धासूयातिरस्काराः साहंकारा वियन्ति हि॥१५॥**
@@ -9413,8 +8356,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 **सर्वं ब्रह्मात्मकं तस्य विद्ययाऽऽत्ममनीषया।  
 परिपश्यन्नुपरमेत्सर्वतो मुक्तसंशयः॥१८॥**
 
-
-
  18. To such a man everything is Brahman, owing to the knowledge that comes of seeing the Atman in all. Seeing the Brahman all round, he is free from doubts and gives up all work.
 
 **अयं हि सर्वकल्पानां सध्रीचीनो मतो मम।  
@@ -9433,8 +8374,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
  21. O best of men, any trifling activity what-soever, such as¹that due to fear etc., if it is unselfishly meant for me, becomes religion.
 
 **\[¹*Such as etc.*—e.g. flight from fear, or weeping from grief.\]**
-
-
 
 **एषा बुद्धिमतां बुद्धिर्मनीषा च मनीषिणाम्।  
 यत्सत्यमनृतेनेह मर्त्येनाप्नोति माऽमृतम्॥२२॥**
@@ -9458,8 +8397,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 
 **\[ The importance of the discourse is being brought out in various ways in Verses 25-28.\]**
 
-
-
 **य एतन्मम भक्तेषु संप्रदद्यात्सुपुष्कलम्।  
 तस्याहं ब्रह्मदायस्य ददाम्यात्मानमात्मना ॥२६॥**
 
@@ -9482,8 +8419,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 
 **नैतत्त्वया दाम्भिकाय नास्तिकाय शठाय च।  
 अशुश्रूषोरभकाय दुर्विनीताय दीयताम्॥३०॥**
-
-
 
  30. You must not communicate this message to one who is haughty, atheistic, deceitful, unwilling to listen, wanting in devotion and wicked.
 
@@ -9510,8 +8445,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 
 **³Obtain etc.— From knowledge, liberation; from scriptural work, virtue ; from natural work, desire; from Yoga,**
 
-
-
 **the powers ; from economics, wealth ; and from politics, prosperity. Towers’and ‘prosperity’ come under ‘desire’, so the number is maintained at four.\]**
 
 **मर्त्यो यदा त्यक्तसमस्तकर्मा  
@@ -9534,10 +8467,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 
 **विष्टभ्य चित्तं प्रणयावघूर्णं  
 धैर्येण राजन्बहुमन्यमानः।**
-
-
-
-
 
 **कृताञ्जलिः प्राह यदुप्रवीरं  
 शीर्ष्णास्पृशंस्तच्चरणारविन्दम्॥३६॥**
@@ -9564,8 +8493,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 हित्वा कृतज्ञस्तव पादमूलं  
 कोऽन्यत्समीयाच्छरणं त्वदीयम्॥३८॥**
 
-
-
  88. Thou hast out of Thy grace restored to me, Thy servant, the lamp of knowledge. Who that is conscious of Thy favour will forsake Thy feet and seek another refuge?
 
 **वृक्णश्च मे सुदृढः स्नेहपाशो  
@@ -9587,10 +8514,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 **गच्छोद्धव मयाऽऽदिष्ठो बदर्याख्यं ममाश्रमम्।  
 तत्र मत्पादतीर्थोदे स्नानोपस्पर्शनैः शुचिः॥४१॥**
 
-
-
-
-
 **ईक्षयाऽलकनन्दाया विधूताशेषकल्मषः।  
 वसानो वल्कलान्यङ्ग वन्यभुक्सुखनिस्पृहः॥४२॥ **
 
@@ -9609,8 +8532,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 
 **स एवमुक्तो हरिमेधसोद्धवः  
 प्रदक्षिणं तं परिस्सृत्य पादयोः।**
-
-
 
 **शिरो निधायाश्रुकलाभिरार्द्रधी-  
 र्न्यषिञ्चदद्वन्द्वपरोऽप्यपक्रमे॥४५॥**
@@ -9631,8 +8552,6 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 यथोपदिष्टां जगदेकबन्धुना  
 ततः समास्थाय हरेरेगाद्गतिम्॥४७॥**
 
-
-
  47. Then placing him in the recesses of his heart, the great devotee went to Vishâlâ,¹ and following the instructions of the one Friend of the universe, attained oneness with the Lord Hari.
 
 **\[¹*Vishala*—another name of Badarikashrama.\]**
@@ -9651,23 +8570,9 @@ through His own powers¹assumes a triple form,²said with a loving, beautiful sm
 
  49. That Revealer of the Vedas who, to take away the fear of transmigration, like a bee extracted the essence of the Vedas, comprising the highest knowledge and realisation, as he had done nectar¹from the ocean, and gave that to his servants to
 
-
-
 drink,—that primeval, perfect Being, Krishna by name, I salute.
 
  \[¹*Nectar etc.*—The reference is to the churning of the ocean by the Devas and Asuras for the sake of nectar. The Lord befriended the enterprise in various ways, and finally in the form of an exquisitely beautiful woman, contrived to distribute the nectar exclusively among the Devas, to the chagrin and discomfiture of the nefarious Asuras.\]
-
-
-
-
-
-
-
-
-
-
-
-
 
 **INDEX**
 
@@ -9687,8 +8592,6 @@ drink,—that primeval, perfect Being, Krishna by name, I salute.
 | **Definitions:** a few of them XIV. 27, 33—34.                                                                                                                                                                                         |
 | **Devotion** extolled VI. 19—20; IX. 2, 12—28; X. 33-34: XIII. 47; XXI. 1 ; XXIV. 3, 33-34. - its effect XIII.45—46; XXIV. 15. —its means VI. 23—25, 34—41,46—47; VII. 14—15; XIII. 44;XIV. 20—24; XXII. 50—52; XXIV. 8—12, 16—23. |
 
-
-
 |                                                                                                                                                                                                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Discourse** between Sri Krishna and Uddhava: qualifications for its study and its effect XXIV. 24—32, 48-                                                                                                                     |
@@ -9707,19 +8610,6 @@ drink,—that primeval, perfect Being, Krishna by name, I salute.
 | **Jivâtman and Paramatman** VI. 5—7, XXIII. 15—16.                                                                                                                                                                              |
 | **Jnani's state** II. 10—12; VI. 11–18; VIII. 36—37 ; XXIII. 30-32; XXIV. 13–14.—contrasted with that of the ignorant VI. 8—10.                                                                                                 |
 
-
-
 [TABLE]
-
-
-
-
-
-
-
-
-
-
-
 
 \]

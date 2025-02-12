@@ -12,10 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEwNDkyODk4ODA
 
 \[
 
-
-
 श्री गणपतये नमः ।
-
 
 आद्यन्तान्तर्गतानन्तशक्तिविश्रान्तिनिर्भराम् ।  
 अनुच्चार्यामहं वाचमधीये हृदयं विभोः ॥ १ ॥
@@ -183,12 +180,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEwNDkyODk4ODA
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
 गन्धर्व-नगरम् । द्सो सन्स्क्रितर्छिवे
 
 ह्त्त्प् ॥पोपॢएतुनिरोम१ इत् ।द्सो।र्छिव्सन्स्क्रित्ःत्म्
-
-
-
 
 \]

@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzNDIzMzE5NDI
 
 \[
 
-
-
 ***गणकारिका***
 
 गणकारिका, १
@@ -681,6 +679,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDMzNDIzMzE5NDI
   स गुह्यभेदतो गच्छेत्सह शिष्यैरधोगतिम् ॥ १.८४६  
   नमः सद्गुरवे तस्मै सर्वविद्यान्तगामिने ।  
   सच्छ्लोकैरष्टभिर्येन पञ्चार्थाब्धिः प्रदर्शितः ॥ १.८४७\]
-
 
 \]

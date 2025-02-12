@@ -16,33 +16,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE4NjQ2NjI3NjQ
 
 \[
 
-
-
 [TABLE]
-
-
-
-
-
-
-
 
 |               |
 |:-------------:|
 | TANTRIK TEXTS |
 
-
-
-
-
 TANTRIK TEXTS  
 
 Edited by ARTHUR AVALON  
 VOL. XV.
-
-
-
-
 
 **BRAHMA-SAMHITĀ**  
 
@@ -58,8 +41,6 @@ with commentary
 
 BY SHAMKARACHARYA
 
-
-
 Published for the  
 ĀGAMĀNUSANDHĀNA SAMITI,  
 By the SANSKRIT PRESS DEPOSITORY,  
@@ -72,13 +53,9 @@ LONDON:
 LUZAC & Co.,  
 46, Great Russell Street, W.C.
 
-
-
 Introduction.
 
  The Brahma Samhitā is held in very great veneration by all schools of Vaishnava Sādhakas, but by far the largest number among them know it only by name and even to the few who have had the good fortune to come across the book itself, it is not quite iutelligible. This is due mainly to the defective manuscripts. The two printed editions whieh I have come across do not speak much in favour of the care bestowed on the publications. These remarks apply not so much to the text itself as to the way in which the masterly commentary of Jiva GosvāmĪhas been dealt with. Jīva as is well known to all students of Vaishnavism, was an auther of very great powers and dealt with Vaishnavism from a very catholic point of view. The Vaishnavism which Chaitanya taught and his personal disciples laboured to preach is not what we generally come across in the present age. Jiva accompanied his two uncles Rūpa and Sanātana when they in compliance with the injunction of Chaitanya Deva whose disciples they were, went to Brindābana and spent the rest of their lives there. It was there that Jiva wrote his books. Rupa and Sanātana were the highest officers under the Mohammadan King Hussain Shah of Gour. Rūpa’s office was that of Saphar-mallika and that of Sanātana, Davirkhas. There is a document in the possession of an old Moslem family in Pirojepur to which under the Panza (hand impression) in gold of King Hussain Shah is the signature “Sanātana Davir-khas the protector of Cows and Brāhmanas”. The two brothers, were very high in the favour of the King and greatly trusted and were men of immense wealth and power, but they renounced all these and lived the life of ascetics in very great povery with their nephew, who was the son of a deceased brother, in:Brindābana. It was when living there that they came under the influence of Mira Bai the famous queen devotec of Jaypur who also had renounced a royal palace for a cottage in Brindābana. It was she, as the Rasa-bhāva-prānta says, who initiated them into Yoga practice. This book which is yet in manuscript is written in the Bengali language by a Vaishnava devotee of old and is not very generelly
-
-
 
 understood. A Bengali writer himself a Vaishnava, in the course of a speech delivered by him at a; learned society in Calcutta interpreted a passage from this book to contain a libelous attack on Chaitanya Deva. The passage in question states that Mahāprabhu Chaitanya united with Vidhavā Brāhmanīand the speaker, not knowing that Vidhavā Brāhmanī is a name of Kundalinī Shakti, interpreted the passage in question to mean that he had some questionable connection with a Brahman widow.
 
@@ -86,11 +63,7 @@ understood. A Bengali writer himself a Vaishnava, in the course of a speech deli
 
  The first verse of the book which has been commented upon at considerable length says that Krishna is but another name for the Supreme Brahman. He is the Lord (Īshvara). He is united with all the great Shaktis (Parama ). He is Sat-Chit-Ānanda. He is without beginning (Anādi). He is the Source (Ādi), and is the Cause of all causes (Sarva-kārana-kārana). The commentator draws his materials in support of the interpretation as above from the Shrīmadbhāgavata the Upanishads (mainly the Gopāla Tāpanī) the Gautamīya Tantra and the Gītā. He also argues from the grammatical construction of the word and tradition. The second verse speaks of the Lotus of a thousand petals as Gokula. This recalls Verse 49 of the Shatchakranirupana (Vol. II of the Tantrik Texts): “Within Her (Nirvāna-kalā) is the everlasting place called the abode of Shiva which is free from Māyā, attainable only by Yogis and known by the name of Nityānanda. It
 
-
-
 is replete with every form of Bliss and is Pure Knowledge itself. Some call it the Brahman others call itHangsa; wise men describe it as the abode of Vishnu, and righteous men speak of it as the ineffable place of Knowledge of the Ātmā, or the place of Liberation.” The English reader is referred to the “Serpent Power” which is a translation of the Shatchakranirūpana. Verses 3 and 4 say that the Yantra wherein is the Mantra of eighteen letters is in the pericarp of the lotus. Jiva in his commentary to these verses quotes two verses rom the Gautamīya Tantra one of which says that the Devatāof the Mantra is Krishna, but the Adhishthātrī Devatā (controlling divinity) is Durgā. He further quotes a text to show that Durga is Mahāvishnu. The other verse says that Krishna is Durgā and Durgā is Krishna and he who makes a distinction between the two is never liberated from the Samsāra. He also quotes the Sammohana Tantra which says the samething. Verse 5 say that in the filaments of the lotus abide the Āvarana Devatās of Krishna and on the petals the Shaktis. Here Jiva quotes the Brihad Gautamīya Tantra, the Matsyapurāna, the Rikparishishta and a text whose source is not traceable. This last mentioned authority quoted speaks of the Sahasrāra lotus, on the petals whereof are the Devīs (Shaktis) and the Gopālas and in the middle of it the adorable SupremePurusha (Shriparamah Purushah ). Verses 6 to 9 describe the precincts of Gokula which is square in shape and is called Shvetadvīpa. Shvetadvipa literally means “white island” but here, as is explained later on, Shveta (white) means “pure uncontaminated by anything worldly” and Dvīpa is used in the sense of anything detached, not connected with Samsāra. It is the abode of the four manifestations (Mūrti) viz., Vāsudeva, Sangkarshana, Pradyumna and Aniruddha and it is divided into four sections. The four aims of human existence Viz., Dharma, Artha, Kāma and Moksha are there as also the four Vedas (Sāma and others) whereby the same can be attained. It is protected by ten Shūlas placed in all the ten directions. The eight gems viz., Shankha, Chakra and others; the eight Siddhis viz., Animā and others; the ten Dikpālas, Indra and others, the wonderful Shaktis Vimalā and others are there. A long passage is quoted from the Shrīmadbhāgavata (Sk. X. Ch. 28) descriptive of Gokula. There is another long passage quoted from Harivamsha (Ch.76.). A verse is here cited (Bhgāgavata Sk.
-
-
 
 IV\. 24, 29) which says “a man who is faithful to his own Dharma after a hundred births reaches the state of Virincha and thereafter ME (i.e. Krishna) and after death becomes Vishnu’s very self.”Verse 10 says that the Supreme Deva who is Sat and Ānanda is Light itself and Ātmārāma and has no intercourse (Samā
 
@@ -99,8 +72,6 @@ gama) with Prakriti or Māyā. Atmārāma is defined to mean he who enjoys the E
 n and Mahesvara is Lingarūpī. This is followed by a paraphrase of the Purushasūkt:— “That Purusha is thousand-headed, thousand-eyed, thousand-footed" and so forth and this Purusha, it isfurther said, (v. 16) is Nārāyana. Nārāyana is defined to be He who pervades humanity and in support of this the commentator quotesa text from Manusamhitā which says “Nāra” means the watersand “Nāra” and the waters are the offspring of Man (Narasunavah ). He who abides in or pervades them isNārāyana. Verse 19 saysthat from the left side of Purusha originated Vishnu and from his right Prajāpati (Brahmā) and from the space between the eyebrows of Purusha emanated Shambhu who is the Luminous Linga. The space between the eyebrows is the “Ājnāchakra.” The “AjnāChakra” of Nārāyana is the place of Shambhu. This tallies with the Shā
 
 kta conception of the “Ajnāchakra” where it is said, that the Linga which is in that Chakra is “Itara" which is lustrous like chains of lightning. Verse 20 speaks of the universe as the product of “Ahamkāra”. This also agrees with the statement in the Sāradātilaka and other Tantras, which says the from “Ahangkāra” emanated “Vyoma” (Ether) and from “Vyoma”, “Vāyu” (Air) and so on. Verse 29, gives the Mantra of eighteen letters of Krishna. Verse
-
-
 
 32 and 33 describe the union, in the lotus of a thousand petals of Prakriti with the ever existing and luminous “Chidā
 
@@ -117,8 +88,6 @@ yur mama nishvāsah) and here, it is said, (V. 57) that the Lords of the various
 vishnu. This book clearly shows that Krishna, Govinda, Mahā
 
 vishnu, Shiva, Brahman, are, but different names looked at in different ways of the One Supreme Spirit. This has been very well stated in verse 44 of the Satchakranirūpana in Arthur Avalon’s “Serpent Power” in the following words:— “The Shaivas call it the abode of Shiva, the Vaishnavas call it Parama-Purusha, others again, call it the place
-
-
 
 of Hari-Hara. Those who are filled with a passion for the Lotus feet of the Devi call it the excellent abode of the Devi; and other great sages (Munis) call it the Pure place of Prakriti-Purusha.”
 
@@ -152,8 +121,6 @@ ra. To this Bhïshma replies as follows:—
 
  That man is beyond all pain who is ever wakeful in singing, by His thousand names, the praise of the Lord of the World, the Deva
 
-
-
 among Devas Whom neither time nor space can limit and Who is Supreme both as cause and effect. This is the reply to the sixth question and he next replies to the fourth and says— that man is beyond all pain and enjoys the fruit of his devotion who in a devout spirit worships, by his mind, by speech and body, the Purusha Who is changeless and imperishable.
 
  The third question is answered in two verses. Verse 6 says that by always singing of Vishnu Who is without beginning and end, Who is the Lord of all that is visible (or of all the Lokas) and to Whom everything is visible a man passes beyond all pain (Sarvaduhkhātigo bhavet). Verse 7 says that the Lord is Brahmanya, knows all Dharmas and by infusing His own Shakti, He glorifies His creatures. He is supplicated by and rules all. He is Mahat or the Brahman substance because He excels all, and He is the source of all that is. Verse 8 says that the highest Dharma is that whereby man is prompted to adore and worship Him who abides in the lotus of the heart. It is so, says the commentator quoting from Vishnupurā
@@ -174,8 +141,6 @@ jnavalkya and others.
 
  Having answered the questions as above Bhisma says “Listen to the thousand names of Him from Whom in the beginning all creatures
 
-
-
 came and into Whom at the time of Pralaya they again disappear. These names of the Great Atmā dispel all sin and fear, and describe His attributes (Gaunāni).” The commentary says that He is the great Âtmā and there is nothing outside Him. He is, Bhūtātmā, Indriyātmā, Pradhānātmā, Atmā, and Paramātmā,
 
  The names are enumerated in verses 14 to 120, It is not possible for the purposes of this introduction to do more than select some of the names and briefly give their significance as interpreted by Shankarāchā
@@ -192,11 +157,7 @@ bhā
 
 rata which says:— “Let not him who is not Vishnu himself, sing the praise of Vishnu. Let not such an one worship Vishnu nor meditate on Vishnu for he shall never get Vishnu.” Space does not permit reproducing all the beautiful texts full of meaning cited in the commentary. One of His names (v.15) is Muktānām paramā gatih (highest Goal of tho liberated). Shiva (v.17 and 77) is another name and He is so called because the three Gunas are absent from Him and He is pure, and also because (77) He purifies if merely meditated upon (Smritimātrena).
 
-
-
 Sharva (v,17) and Shambhu (v.18) which are names of Shiva are also His names. Sharva means the destroyer and Shambhu,“well-being” or “he who does good.” In verses 20 and 72 He is called Krishna. He is Krishna because Krishna means Sat-Chit-Ānanda and also because (72) He is Krishna Dvaipāyana which is a name of Vyāsa. Jīva Gosvāmi also, possibly following Shamkara, interprets Krishna to mean Sat-Chit-Ānanda. Īshāna another name of Shiva, is also applied (v, 21) to Vishnu for He is the Director and Ruler of all creatures (Sarva-bhūta-niyantā ). A large number of the names applied to Vishnu are the names of Shiva in his Sakala aspect and of the Saguna Brahman. Rudra (v. 26) is another name of Shiva which is applied to Vishnu because on the authority of the Linga Purana, “He destroyes the pain (Ru=Duhkha) of His creatures”. The word may also mean “He who at the time of final dissolution causes his creatures to weep”. He is Veda (v. 27) because He destroys the darkness of ignorance. He is Vishvayoni (v. 29) because the Universe owes its existence to Him. He is Madhu (v. 30 ) which means wine because of the great happiness He produces. He is Mahāmāya (v.31) because His Māyā is unsurpassable. He is Mahāshakti (v. 32). He is Shrīnivāsa (v. 33) because His Shakti, the imperishable Shri, adides in His breast. Hangsa (v. 34) is another name and He is so called because Hangsa is derived from a combination of Aham (I) and Sah (He) and is the Mantra whereby the Oneness of the worshipper and worshipped is realised and helps the devotee to be rid of the fear of Samsāra. As the instructor of all Vidyās He is Guru (v. 36). Verse 37 contains four names namely Sahasramūrdhā, Vishvātmā, Sahasrāksha, Sahasrapāt. Three of these expressions occur in the well-known Purushasūkta as the attributes of Supreme Purusha. In Verse 39 He is called Nārāyana becāuse he abides in Nāra which means the Tattvas also collective humanity. Texts from the Mahābhārata, Shruti and the Purānas are cited in support of this interpretation. He is called Mantra (v. 43) because all Mantras point to Him, and also because He can be understood by Mantras (Mantrabodhyatvāt ). In verse 46, it is said, that He is Adrishta (invisible, imperceptible) because He is beyond the scope of the senses and He is also called Vyaktarūpa (Manifest), because, in His manifestations, He is visible to all and His true Self is manifest to the Yogis. He is Deva (v. 54) because He is Light and also plays with Creation, Preservation and so forth. He is
-
-
 
 Rāma (v. 56) because Rāma is but another name for Supreme Brahman.
 
@@ -222,8 +183,6 @@ ra and shows them the paths to Liberation. In same verse it is said He is Shama,
 
 nti. He is (v. 76) Brishabhāksha because his vision (Akshi=eye) is Brishabha (Dharma) and He Brishapriya because Brisha or Dharma is what He loves. He is Shrisha (v. 78) because He is the Lord (Isha)
 
-
-
 of Shri or Lakshmi and Shrīdhara as He carries on His breast Shri the mother of all creatures. As He is beyond all the Gunas He Vishuddhātmā (v. 81). In verse 84 it is said that He is Brahmā
 
 as creator and Brahman because He is great and nourishes (Brihattvät, bringhanavāt) and Brāhmana-priya as He loves or is loved by the knower of the Brahman. He is (v. 86) Stava (praise or adoration), Stotra, Stuti and Stotā. He is (v. 87) Havih for as has been said in the Gitā and elsewhere “the Brahman is the offering, the offerer” and so forth. In verse 90 it is said He is Vishvamūrti, Mahāmūrti, Dīptamūrti,Amūrtimā
@@ -233,8 +192,6 @@ n and Anekamūrti, because He assumes countless forms for the world. He is Avyak
 ya because those who seek the fourfold aims of human existance tend towards Him or because at the time of Dissolution the world goes back to Him. He is (v.108) Naikaja (not once born) because he was born many times for the protection of Dharma. He is (v.110) Shabdātiga because He is ineffable. In verse 112 one of the names given is Santah. A man who follows the right path is called “Sat” or good; “Santah” is the plural form of “Sat”. Because, asthe commentary says, the forms of good men Vishnu promoted Vidyā
 
 (Knowledge) and Vinaya (Humility), He is Santah. The Bengal MSS quotes a number of texts which are not traceable to any book and which are in some places somewhat obscure to
-
-
 
 show what constitutes goodness of behaviour. There is another name in this verse Jivana (Life) because He is the life in all created beings. He is (V. 117/18) Yajna Yajnapati, Yajvā
 
@@ -264,11 +221,7 @@ A. A. S.
 
 ——————
 
-
-
 ब्रह्मसंहिता
-
-
 
 पञ्चमोऽध्यायः  
 जीवगोस्वामिकृत टीकोपेतः।
@@ -287,8 +240,6 @@ A. A. S.
 लण्डनराजवान्यां लुज्याक एण्ड कोंसदने प्राप्तव्यम्।
 
 संवत् १९८५
-
-
 
 **ब्रह्मसंहिता**
 
@@ -317,7 +268,6 @@ A. A. S.
 यद्यच्छ्रीकृष्णसन्दर्भे विस्तराद्विनिरूपितम्।  
 अत्र तत् पुनरामृश्य व्याख्यातुं स्पृह्यते मया॥  
 
-
  अथ श्रीभागवते यदुक्तम्— एते चांशकलाः पुंसः कृष्णस्तु भगवान् स्वयम्। इति।
 
 तदेव तावत् प्रथममाह— इश्वर इति। अत्र कृष्ण इत्येव विशेष्यं तन्नाम एव। ‘कृष्णावतारोत्सव-सम्भ्रमोऽस्पृशन्’ इत्यादौश्रीशुकादिमहाजनप्रसिद्ध्या। ‘कृष्णाय वासुदेवाय देवकीनन्दनाय’ इत्यादि सामोपनिषदि च प्रथमप्रतीतत्वेन तन्नामवर्णाविर्भावकृता गर्गेण प्रथममुद्दिष्टत्वेन। तथाच मन्त्रमधिकृत्य पयसा कुम्भं पुरयतीति न्यायेन तत्राग्रतः पठितत्वेन मूलरूपत्वात्। तदुक्तं प्रभासखण्डे पद्मपुराणे च नारदकुशध्वजसंवादे श्रीभगवदुक्तौ।
@@ -336,8 +286,6 @@ A. A. S.
 
 प्रागयं वसुदेवस्य क्वचिज्जातस्तवाऽऽत्मजः।  
 वासुदेव इति श्रीमानभिज्ञाः संप्रचक्षते॥
-
-
 
 बहूनि सन्ति नामानि रूपाणि च सुतस्य ते।  
 गुणकर्म्मानुरूपाणि तान्यहं वेद नो जनाः॥
@@ -360,8 +308,6 @@ A. A. S.
  अद्वयब्रह्मवादिभिरपि सत्तानन्दयोरैक्यं तथा मन्तव्यम्। शाब्दिकैर्भिन्नाभिधेयत्वेन प्रतीतेः। सत्ताशब्देन चात्र सर्व्वेषां सतां प्रवृत्तिहेतुर्यत् परमं सत् तदेवोच्चते। ‘सदेव सौम्येदमग्र आसीत्’ इति श्रुतेः। अभिन्नाभिधेयत्वे वृक्षस्तरुरितिवद्विशेषेण विशेष्यत्वायोगादेकस्य वैयर्थ्याच्च।
 
  गौतमीयपद्यञ्चैवं व्याख्येयम्। पूर्वार्द्धे सर्वाकर्षणशक्तिविशिष्ट आनन्दः कृष्ण इत्यर्थः। उत्तरार्द्धे यस्मादेवं सर्वाकर्षकसुखरूपोऽसौ तस्मादात्मा जीवश्च तत्र सुखरूपो भवेत्। तत्र हेतुः। ‘भावः प्रेमा तन्मयानन्दत्वात्’ इति। तदेवं रूपगुणाभ्यां परमबृहत्तमः सर्वाकर्षक आनन्दः कृष्णशब्दवाच्य इति ज्ञेयम्। स च शब्दः श्रीदेवकीनन्दन एव रूढः। अस्यैव सर्वानन्दकत्वं वासुदेवोपनिषदि दृष्टम्। ‘देवकीनन्दनो निखिलमानन्दयेत्’ इति। आनन्दमात्रमविकारमनन्यसिद्धम्। ततश्चासौ शब्दो नान्यत्र संक्रमणीयः। यथाह भट्टः।
-
-
 
 लब्धात्मिका सती रूढ़िर्भवेद् योगापहारिणी।  
 कल्पनीया तु लभते नात्मानं योगबाधतः॥ इति॥
@@ -404,8 +350,6 @@ A. A. S.
 
  ‘नित्यो नित्यानां चेतनश्चेतनानामेको बहूनां यो विदधाति कामान्’। इति॥
 
-
-
  यस्मादेव तादृशतया आदिस्तस्मात् सर्वकारणकारणम्। सर्वेषां कारणं महत् स्रष्टा पुरुषस्तस्यापि कारणम्। तथा च दशमे तं प्रति देवकीवाक्यम्।
 
 **यस्यांशांशांशभागेन विश्वोत्पत्तिलयोदयाः।  
@@ -431,8 +375,6 @@ A. A. S.
 निमेषादिर्वत्सरान्तो महीयांस्तं त्वेशानं क्षेमधाम प्रपद्ये।  
 मर्त्यो मृत्यव्यालभीतः पलायन् लोकान् सर्वान्निर्भयं नाध्यगच्छत्।  
 त्वत्पादाब्जं प्राप्य यदृच्छयाऽऽद्य स्वस्थः शेते मृत्युरस्मादपैति॥**
-
-
 
  इत्यादि सर्वा। ‘एकोऽसि प्रथमम्’ इत्यादि श्रीब्रह्मणोवाक्ये तदिदं ब्रह्माऽद्वयं शिष्यते। इति। श्रीगीतासु। ‘ब्रह्मणो हि प्रतिष्ठाऽहम्’ इति।
 
@@ -465,8 +407,6 @@ A. A. S.
 गोविन्द गोपवनिता व्रजभृत्यगीत तीर्थश्रवः श्रवणमङ्गल पाहि भृत्यान्॥ इति॥**
 
  स्वाभीष्टरूप लीलापरिकरविशिष्टतया गोविन्दत्वमेव स्वाराध्यत्वेन योजयति गोविन्द इति।
-
-
 
 यथात्रैवाग्रे स्तोष्यते। ‘चिन्तामणिप्रकरसद्मसुकल्पवृक्ष’ इत्यादि। श्रीदशमे श्रीगोविन्दाभिषेकारम्भे सुरभिवाक्यम्। ‘त्वं नः परमकं देवं त्वं न इन्द्रो जगत्पते’ इति। ‘अभ्यषिञ्चत दशार्हंगोविन्द इति चाभ्यधात्’ इत्युक्त्वा तत्प्रकरणान्ते श्रीशुकप्रार्थना। ‘प्रीयान्न इन्द्रो गवामिति’। गवां सर्वाश्रयत्वाद्गवेन्द्रत्वेनैव सर्वेन्द्रत्वसिद्धेः। न चेदं न्यूनं मन्तव्यम्। तथाहि गोसूक्तम्।
 
@@ -504,8 +444,6 @@ A. A. S.
 
  प्रकृतिमिति मायाख्यां जगत्कारणशक्तिमित्यर्थः। तत्त्वसमूहको महदादिरूपः। अनयोराश्रयः सान्द्रानन्दं परं ज्योतिरीश्वरोवल्लभशब्देन कथ्यते। ईश्वरत्वे हेतुर्व्याप्त्याकारणत्वेन चेति। प्रकृतिरिति स्वरूपभूता मायातीता वैकुण्ठादौ प्रकाशमाना महालक्ष्म्याख्या शक्तिरित्यर्थः। अंशमण्डलं सङ्कर्षणादित्रयम्। अनेकजन्मसिद्धानामित्यत्र ‘बहूनि मे व्यतीतानि जन्मानि तव चार्जुन’ इति श्रीभगवङ्गीतावचनादनादिजन्मपरम्परायामेव। तात्पर्यम्। तदेवमत्रापि नन्दनन्दनत्वेनाऽभिमतम्। श्रीगर्गेण च तथोक्तम् ‘प्रागयं वसुदेवस्य क्वचिज्जातस्तवाऽऽत्मजः’ इति। युक्तं च तत्। आत्मजं हि तस्य श्रीवसुदेवस्यापि मनस्याविर्भूतत्वमेव मतम्। ‘आविवेशांशभागेन मन आनकदुन्दुभिः’ इति। व्रजेश्वरस्यापि तथाऽऽसीदेव श्रीभगवत्प्रादुर्भावस्य पूर्वाव्यवहितकालं
 
-
-
 **सहस्रपत्रं कमलं गोकुलाख्यं महत्पदम्।  
 तत्कर्णिकारं तद्धाम तदनन्तांशसम्भवम्॥२॥  
 कर्णिकारं महद्यन्तं षट्कोणं वज्रकीलकम्।  
@@ -518,8 +456,6 @@ A. A. S.
  अथ तस्य तद्रूपतासाधकं नित्यं धाम प्रतिपादयति सहस्रपत्नं कमलमित्यादिना। सहस्राणि पत्राणि यत्र तत्कमलमित्यादिना भूमिश्चिन्तामणिगुणमयीति वक्ष्यमाणाच्चिन्तामणिमयं पद्मं तद्रूपं तच्च महत् सर्वोत्कृष्टं पदं स्थानम्। महतः श्रीकृष्णस्य महाभगवतो वा पदं महावैकुण्ठरूपमित्यर्थः। तत्तु नानाप्रकारं श्रूयते इत्याशङ्क्य विशेषणत्वेन निश्चिनोति गोकुलाख्यमिति। गोकुलमित्याख्या रूढ़िर्यस्य तत् गोपावासरूपमित्यर्थः। रूढ़िर्योगमपहरतीति न्यायेन तस्यैव प्रतीतेः। एतदभिप्रेत्योक्तं श्रीदशमे ‘भगवान् गोकुलेश्वरः’ इति। अतएव तदनुकूलत्वेनोत्तरग्रन्थेऽपि व्याख्येयम्। तस्य श्रीकृष्णस्य श्रीनन्द यशोदादिभिः सह वासयोग्यं महान्तःपुरम्। तैः सहवासिता त्वग्रे समुद्देक्ष्यते। तस्य स्वरूपमाह तदिति। अनन्तस्य वलदेवस्यांशेन ज्योतिर्विभागविशेषेण सम्भवः सदाऽऽविर्भावो यस्य तत्। तथा तन्त्रेणैतदपि बोध्यते। अनन्तः अंशो यस्य तस्य श्रीवलदेवस्यापि सम्भवो निवासो यत्र तदिति॥२॥
 
  सर्वमन्त्रगणसेवितस्य श्रीमदष्टादशाक्षराख्य महामन्त्रराजपीठस्य मुख्यपीठमिदमित्याह कर्णिकारमिति द्वयेन। महद्यन्त्रमिति यत्प्रक्कृतिरेव सर्वत्र यन्त्रत्वेन पूजार्थं लिख्यत इत्यर्थः। यन्त्रमेव दर्शयति षट्कोणान्यभ्यन्तरे यस्य तत्। वज्रकीलकं कर्णिकारे वीजरूपहीरककीलकशोभितम्। मन्त्रे च चकारोपलक्षिता चतुरक्षरी कीलरूपा ज्ञेया। षट्कोणत्वे प्रयोजनमाह! षट् अङ्गानि यस्याः सा षट्पदी श्रीमदष्टादशाक्षरी तस्याः स्थानं प्रकृतिमन्त्रसद्मरूपम् स्वयमेव श्रीकृष्णः कारणरूपत्वात्। तच्चोक्तम् ऋष्यादिस्मरणे ‘कृष्णः प्रकृतिः’ इति। पुरुषश्च स एव तदधिष्ठातृदेवतारूपः ताभ्यामवस्थितमधिष्ठितम्। स हि चतुर्धा प्रतीयते। मन्त्रस्य कारणत्वेन वर्णसमुदायरूपत्वेन अधिष्ठातृदेवतारूपत्वेन आराध्यरूपत्वेन च। तत्र कारणत्वेनाऽधिष्ठातृरूपत्वेनाऽत्रोच्यते। आराध्यरूपत्वेन प्रागुक्तः ‘ईश्वरः परमः कृष्णः’ इति। वर्णरूपत्वेनाग्रत उद्धरिष्यते ‘कामः कृष्णाय’ इति। यथोक्तं हयशीर्षपञ्चरात्रे।
-
-
 
 **प्रेमानन्द-महानन्दरसेनावस्थितं हि यत्।  
 ज्योतीरूपेण मनुना कामवीजेन सङ्गतम्॥४॥  
@@ -566,8 +502,6 @@ A. A. S.
 
  तदेवं तद्धामोक्त्वा तदावरणान्याह तदित्यर्द्धेन। तस्य कर्णिकारूपधाम्नः किञ्जल्कं किञ्जल्काः शिखरावलि-वलित प्राचीरपङ्क्तयइत्यर्थः। तदंशानां तस्मिन्नंशादयो विद्यन्ते येषां परमप्रेमभाजां सजातीयानां धामेत्यर्थः। गोकुलाख्यमित्युक्तेरेव तेषां तत्सजातीयत्वञ्चोक्तं स्वयं श्रीवादरायणिना।
 
-
-
 **चतुरस्रं तत्परितः श्वेतद्वीपाख्यमद्भुतम्।  
 चतुरस्रं चतुर्मूर्त्तेचतुर्द्धाम चतुष्कृतम्॥६॥**
 
@@ -601,8 +535,6 @@ A. A. S.
 यत्र वृन्दावनं नाम वनं कामदुघैर्द्रुमैः। इत्यादि।
 
  तच्च चतुरस्रं चतुर्मूर्त्तेश्चतुर्व्युहस्य श्रीवासुदेवादिचतुष्टयस्य चतुष्कृतं चतुर्द्धा विभक्तं चतुर्द्धाम। किन्तु देवलीलात्वादुपरि व्योमयानस्था एव ते ज्ञेयाः। हेतुभिस्तत्तत्पुरुषार्थसाधनैर्मनुरूपैःस्वस्वमन्त्रात्मकैरिन्द्रादिभिः सामादयश्चत्वारो वेदास्तैरित्यर्थः। शक्तिभिर्विमलादिभिः।
-
-
 
 **चतुर्भिः पुरुषार्थैश्च चतुर्भिर्हेतुभिर्वृतम्।  
 शूलैर्दशभिरानद्धमूर्द्धाधो दिग्विदिक्ष्वपि॥७॥**
@@ -640,8 +572,6 @@ A. A. S.
 
  इति श्रीदशमोक्तेरविद्याकामकर्मणां तत्रासामर्थ्यात्। गोपानां स्वं लोकं गोलोकमर्थात्तान् प्रत्येवं दर्शयामास। तमसः प्रकृतेः परम्। देहादिपिहितानां दर्शनमशक्यमिति प्रथमं देहादिव्यतिरिक्तं ब्रह्मस्वरूपं दर्शयामास। स्वरूपशक्त्यभिव्यक्तत्वादृत एव सच्चिदानन्दरूप एवासौ लोक इत्याह सत्यमिति। अथ श्रीवृन्दावने तादृशदर्शनं कथं अन्यदेशस्थितानां तेषां जातमित्यत्राह। सत्यमबाध्यं ज्ञानमजड़म् अनन्तमपरिच्छिन्नं ज्योतिः स्वप्रकाशं सनातनं शश्वत्सिद्धं
 
-
-
 **अष्टभिर्निधिभिर्जुष्टमष्टभिः सिद्धिभिस्तथा।  
 मनुरूपैश्च दशभिर्दिक्पालैः परितो वृतम्॥८॥**
 
@@ -674,8 +604,6 @@ A. A. S.
 **भूर्लोकः कल्पितः पद्भ्यां भूवोर्लोकोऽस्य नाभितः।  
 स्वर्लोकः कल्पितो मूर्द्धाइति वा लोककल्पना॥**
 
-
-
 **श्यामैर्गौरैश्च रक्तैश्च शुक्लैश्च पार्षदर्षभैः।  
 शोभितं शक्तिभिस्ताभिरद्भुताभिः समन्ततः॥९॥**
 
@@ -702,8 +630,6 @@ A. A. S.
 
  इति महावैकुण्ठवर्णने पाद्मोत्तरखण्डाच्च। यद्वा। ‘तद्भरि भाग्यमिह जन्म किमप्यटव्यां यद्गोकुलेऽपि’ इति श्रीब्रह्मस्तवानुसारेण तद्विधपरमभक्तानामपि साध्याः तादृशसिद्धिप्राप्तये प्रसादनीयाः श्रीगोपगोपीप्रभृतयस्तं पालयन्ति। तदेवं सर्वोपरिगतत्वेऽपि। हि प्रसिद्धौ। सः श्रीगोलोकः सर्वगतः श्रीनारायण इव प्रापञ्चिकाप्रापञ्चिकवस्तुव्यापकः। कैश्चित् क्रममुक्तिव्यवस्थया तथा प्राप्यमाणोऽप्यसौ द्वितीयस्कन्धवर्णितकमलासनदृष्टवैकुण्ठवत् श्रीव्रजवासिभिरत्रापि यस्माद् दृष्ट इति भावः। अतएव महान् भगवद्रूप एव। ‘महान्तं विभुमात्मानम्’ इति श्रुतेः। अत्र हेतुः। महाकाशं परमव्योमाख्यं ब्रह्मविशेषेण लाभात्। ‘आकाशस्तलिङ्गात्’ इति न्यायसिद्धेश्च।तद्गतः ब्रह्माकारोदयानन्तरमेव वैकुण्ठप्राप्तेः। यथा अजामिलस्य। तदेवमुपर्य्युपरि
 
-
-
 **एवं ज्योतिर्म्मयो देवः सदानन्दः परात्परः।  
 आत्मारामस्य तस्यास्ति प्रकृत्या न समागमः॥१०॥**
 
@@ -720,8 +646,6 @@ A. A. S.
 
 **प्रवर्त्तते यत्र रजस्तमस्तयोः सत्त्वञ्च मिश्रं न च कालविक्रमः।  
 न यत्र माया किमुताऽपरे हरेरनुव्रता यत्र सुरासुरार्च्चिताः। इति॥१०॥**
-
-
 
 **मायया रममाणस्य न वियोगस्तया सह।  
 आत्मना रमया रेमे त्यक्तकालं सिसृक्षया॥११॥  
@@ -754,8 +678,6 @@ A. A. S.
 
  ननु कुत्रापि शिवशक्त्योः कारणता श्रूयते तत्र विराड्वर्णनवत् कल्पनायते तदङ्गविशेषत्वेनाह तल्लिङ्गमिति। ‘तस्यायुतायुतांशांशे विश्वशक्तिरियं स्थितिः’ इति विष्णुपुराणानुसारेण प्रपञ्चात्मनस्तस्य महाभगवदंशस्य स्वांशज्योतिराच्छन्नत्वादप्रकटरूपस्य पुरुषस्य लिङ्गं लिङ्ग-
 
-
-
 **लिङ्गयोन्यात्मिका जाता इमा माहेश्वरी प्रजाः॥१३॥  
 शक्तिमान् पुरुषः सोऽयं लिङ्गरूपीमहेश्वरः  
 तस्मिन्नाविरभूल्लिङ्गे महाविष्णुर्जगत्पतिः॥१४॥  
@@ -780,8 +702,6 @@ A. A. S.
 
  अस्य टीकायाम्। यस्य सहस्रशीर्षेत्याद्युक्तो लीलाविग्रहः स आद्योऽवतारः। परस्य भूम्नः पुरुषः प्रकृतिप्रवर्त्तकः। इति॥१५॥  
  अयमेव कारणार्णवशायीत्याह नारायण इति सार्द्धेन। अतः आप एष कारणार्णो निधिराविरासीत्। अयनं तस्य ताः पूर्वं स तु नारायणः सङ्कर्षणात्मकः इति। पूर्वं गोलोकाव-
-
-
 
 **तद्रोमविलजालेषु बीजं सङ्कर्षणस्य च।  
 हैमान्यण्डानि जातानि महाभूतावृतानि तु॥१७॥  
@@ -814,8 +734,6 @@ A. A. S.
 
  पुनः किं चकार तत्राह वामाङ्गादिति। विष्ण्वादय इमे सर्वेषामेव ब्रह्माण्डानां पालकादयः प्रतिब्रह्माण्डान्तःस्थितानां विष्ण्वादीनां स चेश्वराणां प्रयोक्तारः। यथा प्रतिब्रह्माण्डं तथाऽधिब्रह्माण्डमण्डलमभ्युपगन्तव्यमिति भावः। येषु प्रजापतिरयं हिरण्यगर्भरूप एव नतु
 
-
-
 **अहङ्कारात्मकं विश्वं तस्मादेतद्व्यजायत॥२०॥  
 अथ तैस्त्रिविधैर्वेशैर्लीलामुद्वहतः किल।  
 योगनिद्रा भगवतीतस्य श्रीरिव सङ्गता ॥२१॥  
@@ -841,8 +759,6 @@ A. A. S.
  ततश्च सिसृक्षायामिति। नालं नालयुक्तं तद्धेमनलिनं ब्रह्मणो जन्मशयनयोः स्थानत्वाल्लोक इत्यर्थः॥२२॥
 
  तथाऽसंख्यजीवात्मकस्य समष्टिजीवस्य प्रबोधं वक्तुंपुनः कारणार्णोनिधिशायिनस्तृतीयस्कन्धोक्तानुसारिणीं सृष्टिप्रक्रियां विवृत्याह तत्त्वानीति त्रयेण। तत्र द्वयमाह मायया स्वशक्त्या परस्परं तत्त्वानि योजयन्निति योजनान्तरमेव निरीहतया योगनिद्रामेव स्वीकृतवानित्यर्थः।
-
-
 
 **स नित्यो नित्यसम्बन्धः प्रकृतिश्च परैव सा॥२६॥  
 एवं सर्व्वात्मसम्बन्धं नाभ्यां पद्मं हरेरभूत्।  
@@ -876,8 +792,6 @@ A. A. S.
  अथ तस्मिन् पूर्वोपासनालब्धां भगवत्कृपामाहोवाचेति सार्द्धेन। स्पष्टम्॥२९॥  
  एतदेव स्पर्शेषु यत् षोड़शमेकविंशति तृतीयस्कन्धानुसारेण योजयति तपस्त्वमित्यर्द्धेन। स्पष्टम्॥३०॥
 
-
-
 **अथ तेपे स सुचिरं प्रीणन् गोविन्दमव्ययम्।  
 श्वेतद्वीपपतिं कृष्णं गोलोकस्थं परात्परम्॥३१॥  
 प्रकृत्या गुणरूपिण्या रूपिण्या पर्य्युपासितम्।  
@@ -901,8 +815,6 @@ A. A. S.
 
  तदेवं दीक्षातः परस्तादेव तस्य ध्रुवस्येव द्विजत्वसंस्कारस्तदा वाधितत्वात्तम्मन्त्राधिदेवाज्जात इत्याह अथ वेण्विति द्वयेन। त्रयीमूर्त्तिमतीगतिर्गायत्री वेदमातृत्वात्। द्वितीयपद्ये तस्या एव व्यक्तीभावित्वाच्च तन्मयीगतिः परिपाटी मुखाब्जानि प्रविवेश इत्यष्टभिः कर्णैः प्रविवेशेत्यर्थः। आदिगुरुणा श्रीकृष्णेन स ब्रह्मा संस्कृत इति कर्मस्थाने प्रथमा॥३५॥३६॥  
  ततश्च त्रयीमपि तस्मात् प्राप्य तमेव तुष्टावेत्याह त्रय्येति स्पष्टम्॥३७॥
-
-
 
 **चिन्तामणिप्रकरसद्मसुकल्पवृक्ष-  
 लक्षावृतेषु सुरभीरभिपालयन्तम्।  
@@ -928,8 +840,6 @@ A. A. S.
  आलोलेत्यादि। प्रणयपूर्व्वको यः केलिः परिहासस्तत्र या कला वैदग्धीसैव विलासो यस्य तम्। ‘द्रवकेलिपरीहासाः क्रीड़ा लीला च नर्म च’ इत्यमरः॥४०॥
 
  तदेव लीलाद्वयमुक्त्वापरमाचिन्त्यशक्त्या वैभवविशेषेणाह अङ्गानीति चतुर्भिः। तत्र तत्र
-
-
 
 **आनन्दचिन्मय-सदुज्ज्वलविग्रहस्य  
 गोविन्दमादिपुरुषं तमहं भजामि॥४१॥  
@@ -975,11 +885,7 @@ A. A. S.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 \*मायामये मायाप्रवर्त्तके ज्ञानमये वा। अतएव जीवयतीति जीवस्तस्मिन् महापुरुषे। अयं भावः। विश्वस्रष्टुर्महापुरुषस्य उपकरणरूपः कालो वृत्त्यंशेन सृज्यश्च अतस्तदात्मनावतिष्ठत इति। तदुक्तं सप्तमे।—
-
-
 
 **वेदेषु दुर्लभमदुर्लभमात्मभक्तौ  
 गोविन्दमादिपुरुषं तमहं भजामि॥४२॥**
@@ -1028,8 +934,6 @@ A. A. S.
 
  जीव आत्मनि। प्रकृतेर्लीनत्वेन प्रतियोग्यभावात् परिपूर्णत्वेन सद्रूपेण अवतिष्ठते श्रात्मा च आत्मस्थ एव नान्यत्र लीयते। यतः केवलो निरुपाधिः। तत्र हेतुः। विकल्पापायाभ्यां विश्वोत्पत्तिप्रलयाभ्यां लक्ष्यते अधिष्ठानत्वेनावधित्वेन वेति तथा सः।
 
-
-
 **पन्थास्तु कोटिशतवत्सरसम्प्रगम्यो  
 वायोरथापि मनसो मुनिपुङ्गवानाम्।  
 सोऽप्यस्ति यत् प्रपदसौस्न्यविचिन्त्यतत्त्वे  
@@ -1064,8 +968,6 @@ A. A. S.
  इति स्कान्दाद्भारताच्च। ‘श्रुतेस्तु शब्दमूलत्वात्’ इति ब्रह्मसूत्रात्। अचिन्त्यो हि मणिमन्त्रमहौषधीनां प्रभाव इति तस्य युक्तेश्चेति भावः॥४३॥  
  एकोऽप्यसाविति। ‘तावत् सर्वे वत्सपालाः पश्यतोऽजस्य तत्क्षणात्। व्यदृश्यन्त-घनश्यामा’ इत्यारभ्योक्तैर्वत्सपालादिभिरेवानन्त-ब्रह्माण्ड-सामग्रीयुत-तत्तदधिपुरुषाणां तेनान्तर्भावात् जगदण्डचया इतिI
 
-
-
 **यद्भावभावितधियो मनुजास्तथैव  
 संप्राप्य रूपमहिमासनयानभूषाः।  
 सूक्तैर्यमेव निगमप्रथितैः स्तुवन्ति  
@@ -1087,8 +989,6 @@ A. A. S.
 ध्यायन्त आकृतिधियः शयनासनादौ तत्साम्यमापुरनुरक्तधियां पुनः किम्॥ इति॥४५॥**
 
  तत्प्रेयसीनां तु किं वक्तव्यं यतः परमश्रीणां तासां साहित्येनैव तस्य तल्लोकवास इत्याह आनन्देति। आनन्दचिन्मयो रसः परमप्रेममय उज्ज्वलनाम्ना तेन प्रतिभाविताभिः। पूर्व्वं तावत् वा रसस्तन्नाम्नारसेन सोऽयं भावित उपासितो ज्ञातः स्तुतश्च तस्य तेन याः प्रतिभाविताः ताभिः सहेत्यर्थः। प्रतिशब्दाल्लभ्यते। यथा अखिलानां गोलोकवासिनामन्येषामपि प्रियवर्गाणामात्मतः परमश्रेष्ठतयात्मवदव्यभिचार्य्यपि ताभिरेव सह निवसतीति तासामतिशायित्वं दर्शितम्। तत्र हेतुः। कलाभिः ह्लादिनीशक्तिवृत्तिरूपाभिः। तत्रापि वैशिष्ट्यमाह। प्रत्युपकृतः स इत्युक्तेस्तस्य प्रागुपकारित्वमायाति तद्वत्। तत्रापि निजरूपतया स्वदारत्वेनैव न तु प्रकटलीलावत् परदारत्वव्यवहारेणेत्यर्थः। परमलक्ष्मीणां तासां तत् परदारत्वासम्भवादस्य स्वदारत्वमयरसस्य कौतुकावगुण्ठिततया समुत्कण्ठया पौरुषार्थं प्रकटलीलायां माययैव तादृशत्वं व्यञ्जितमिति भावः। य एव इत्येवकारेण यत् प्रापञ्चिकप्रकटलीलायां तासु पर-
-
-
 
 **प्रेमाञ्जनच्छुरितभक्तिविलोचनेन  
 सन्तः सदैव हृदयेषु विलोकयन्ति।  
@@ -1116,8 +1016,6 @@ A. A. S.
 
 पृथिवी वायुराकाशं आपो ज्योतिरहं महान्।  
 विकारः पुरुषोऽव्यक्तंरजः सत्त्वं तमः परम्॥ इति॥
-
-
 
 **तद्ब्रह्म निष्कलमनन्तमशेषभूतम्  
 गोविन्दमादिपुरुषं तमहं भजामि॥४९॥  
@@ -1164,8 +1062,6 @@ A. A. S.
 
 \*ननु स्वर्गादि सुखं सकामैः प्राप्यते निष्कामभजने च तन्नस्यादित्यत आह येति। स्वमहिमनि निजानन्दरूपेऽपि माभूत् न भवतीत्यर्थः। अन्तकस्यासिना कालेन ललितात् खण्डितात् विमानात् पततां सा नास्तीति किमु वक्तव्यम्।
 
-
-
 **आनन्दचिन्मयरसात्मतया मनः सु  
 यः प्राणिनां प्रतिफलं स्मरतामुपेत्य।  
 लीलायितेन भुवनानि जयत्यजस्रं  
@@ -1207,8 +1103,6 @@ A. A. S.
 ये वसन्ति ममारिष्टा मृता यान्ति ममालयम्।  
 अत्र या गोपकन्याश्च निवसन्ति ममालये॥
 
-
-
 **ते ते प्रभावनिचया विहिताश्च येन  
 गोविन्दमादिपुरुषं तमहं भजामि॥५२॥**
 
@@ -1245,8 +1139,6 @@ A. A. S.
 —————————————————————————————————————————————————————
 
 \* श्रीकृष्णः सर्वोत्तम एव इत्याह जयतीति। जनानां जीवानां यो निवास आश्रयः तेषु वा निवसति अन्तर्यामितया तथा स कृष्णो जयति। देवक्यां जन्मेति वादमात्रं यस्य सः। वस्तुतोऽजन्मा। यदुवराः परिषत् सभासेवकरूपा यस्य सः। इच्छामात्रेण निरसनसमर्थोऽपि क्रीड़ार्थं दोर्भिः अधर्म्मम् अस्यन् क्षिपन् स्थिरतरवृजिनध्नोऽधिकारिविशेषानपेक्षमेव वृन्दावनतरुगवादीनां संसारदुःखहन्ता। तथा विलासवैदग्ध्यानपेक्षं ब्रजवनितानां पुरवनितानाञ्च सुस्मितेन शोभनहास्ययुक्तेन श्रीमता मुखेनैव कामदेवं वर्द्धयन्। कामश्चासौ दीव्यति विजीगीषते संसारमिति देवस्तम्।भोगद्वारा मोक्षप्रदमित्यर्थः।
-
-
 
 कमलोत्पलकह्नारधूलीधूषरितान्तरम्।  
 शाखामृगगणाकीर्णंनानामृगनिषेवितम्॥  
@@ -1309,8 +1201,6 @@ A. A. S.
 मार्कण्डेय भरद्वाजपुलस्त्यपुलहादिभिः।  
 वशिष्ठाद्यैर्मुनीन्द्रैश्चस्तूयमानं सुरासुरैः॥
 
-
-
 **सृष्टिस्थितिप्रलयसाधनशक्तिरेका  
 छायेव यस्य भुवनानि विभर्त्ति दुर्गा।  
 इच्छानुरूपमपि यस्य च चेष्टते सा  
@@ -1344,8 +1234,6 @@ A. A. S.
 
  \*करणसम्बन्धरहित एवाखिलकारकशक्तिधरः अखिलानां प्राणिनां यानि कारकाणि इन्द्रियाणि तेषां शक्तीर्धारयति प्रवर्त्तयतीति तथा। कुतः। स्वराट्। यतः स्वेनैव राजसे दीप्यसे। नहि स्वतःसिद्धज्ञानशक्तेरिन्द्रियापेक्षेत्यर्थः।अतस्तव वलिमुद्वहन्ति पूजां कुर्वन्ति। अजया अविद्यया सहितास्तया वृता इत्यर्थः। अनिमिषा देवा इन्द्रादयः तत्पूज्या विश्वसृजो ब्रह्मादयोऽपि। यथा सस्त्रीका एवकिङ्कराः स्वामिनं सेवन्तेतथा अविद्यायुक्तां देवादयस्त्वामिति लोकोक्तिः। समदन्ति च मनुष्यैर्दत्तंहव्यकव्यादिलक्षणं वलिं भक्षयन्ति। अत्र दृष्टान्तः वर्षभुजोऽखिलक्षितिपतेरिवेति। यथा वर्षभुजः खण्डमण्डलपतयः अखिलक्षितिपतेर्महामण्डलेश्वरस्य स्वप्रजादत्तवलिभुजो वलिमुद्वहन्ति तद्वदिति। कथं वलिं वहन्ति तदाह विद्धति यत्र ये त्वधिकृता भवतश्चकिता इति। त्वत्तो भीताः सन्तो यस्मिन् कर्म्मणि
 
-
-
 **क्षीराद्यथा दधि विकारविशेषयोगात्  
 सञ्जायते न हि ततः पृथगस्ति हेतोः।  
 यः शम्भुतामपि तथा समुपैति कार्य्यात्  
@@ -1371,16 +1259,12 @@ A. A. S.
 
 ——————————————————————————————————————————————————————
 
-
-
 ये नियुक्तास्ते तत् कुर्वन्तीति। त्वदाज्ञापालनमेव वल्युद्वहनमित्यर्थः। तथा च श्रुतिः।
 
 भीषाऽस्माद्वातः पवते भीषोदेति सूर्य्यः।  
 भीषाऽस्मादग्निश्चन्द्रश्च मृत्युर्धावति पञ्चमः॥ इति॥  
 अनिन्द्रियोऽपि यो देवः सर्वकारकशक्तिधृक्।  
 सर्वज्ञः सर्वकर्त्ता च सर्वसेव्यं नमामि तम्॥
-
-
 
 **यस्तादृगेव हि चरिष्णुतया विभाति  
 गोविन्दमादिपुरुषं तमहं भजामि॥५५॥  
@@ -1411,8 +1295,6 @@ A. A. S.
  तत्र सर्वब्रह्माण्डपालको यस्तवाऽवतारतया महाब्रह्मादि सहचरत्वेन तदभिन्नत्वेन च महाविष्णुर्दर्शितः तत्र च तमप्येवं तल्लक्षणतया वर्णयति। तत्तज्जगदण्डनाथा विष्ण्वादयः जीवन्ति तत्तदधिकारतया जगति प्रकटं तिष्ठन्ति॥५७॥
 
  तदेवं देव्यादीनां तदाश्रयकत्वं दर्शयित्वा प्रसङ्गसङ्गत्या ब्रह्मणश्च दर्शयन्नतीव भिन्नतया जीवत्वमेव स्पष्टयति भास्वानिति। भास्वान् सूर्य्यो यथा निजेषु नित्यस्वीयत्वेन विख्यातेषु
-
-
 
 **यत्पादपल्लवयुगं विनिधाय कुम्भ-  
 द्वन्द्बेप्रणामसमये सगणाधिराजः।  
@@ -1446,8 +1328,6 @@ A. A. S.
 
  ‘भीषाऽस्माद्वातः पवते भीषोदेति सुर्य्यः’ इत्यादि श्रुतेः। विराट्रूपस्यैव सवितृचक्षुष्ट्वाच्च॥६१॥
 
-
-
 **धर्म्मोऽथ पापनिचयः श्रुतयस्तपांसि  
 ब्रह्मादिकीटपतगावधयश्च जीवाः।  
 यद्दत्तमात्रविभवप्रकटप्रभावा  
@@ -1476,8 +1356,6 @@ A. A. S.
 
  स एव च स्वयन्तु वैरिभ्योऽप्यन्यदुर्ल्लभफलं ददाति किमुत स्वविषयककामादिना निष्कामश्रेष्ठेभ्यः ततः को वान्यो भजनीय इति भजामीत्यन्तप्रकरणमुपसंहरति यं क्रोधेति। सहजप्रणयः सख्यं। वात्सल्यं पित्राद्युचितभावः। मोहः सर्वविस्मरणमयो भावः परब्रह्मतया स्फुर्त्तिः। गुरुगौरवं स्वस्मिन् पितृत्वादिभावनामयं। सेव्यभावः सेव्योऽयं ममेति भावना दास्यमित्यर्थः। तस्य सदृशीं क्रोधावेशिनः प्राकृतत्वमात्रांशैर्नान्येषु तु तत्तद्भावनायोग्यरूपगुणांशलाभतारतम्येन तुल्यमित्यर्थः।
 
-
-
 **श्रियः कान्ताः कान्तः परमपुरुषः कल्पतरवो  
 द्रुमा भूमिश्चिन्तामणिगणमयीतोयममृतम्।  
 कथा गानं नाट्यंगमनमपि वंशीप्रियसखी  
@@ -1501,8 +1379,6 @@ A. A. S.
 ———————————————————————————————————————————————————————
 
 \* प्रयुज्यमाने इत्यस्यायमर्थः। ‘हित्वावद्यमिमं लोकं गन्ता मज्जनतामसि’ इति या भागवतीभगवत्पार्षदरूपा शुद्धा सत्त्वमयीतनुः तां प्रतिश्रुतां तनुं प्रति भगवता मयि प्रयुज्यमाने नीयमाने। आरब्धं यत् कर्म्म तन्निर्व्वाणं समाप्त’ यस्य आरब्धकर्म्मणो निर्व्वाणमिव निर्व्वाणं यस्येति वा। स पञ्चभूतात्मको देहो न्यपतत्। अनेन पार्षदतनूनाम कर्म्मारब्धत्वं नित्यत्वं शुद्धत्वञ्च सूचितं भवति॥
-
-
 
 **अथोवाच महाविष्णुर्भगवन्तं प्रजापतिम्।  
 ब्रह्मन् महत्त्वविज्ञाने प्रजासर्गे च चेन्मतिः।  
@@ -1538,8 +1414,6 @@ A. A. S.
 
  स्वकृतपुरेष्वमीष्वबहिरन्तरसम्बरणं तव पुरुषं वदन्त्यखिलशक्तिधृतोऽंशकृतम्।
 
-
-
 **यस्याः श्रेयस्करं नास्ति यया निर्वृतिमाप्नुयात्।  
 या साधयति मामेव भक्तिं तामेव साधयेत्॥७०॥  
 धर्म्माानन्यान् परित्यज्य मामेकं भज विश्वसन्।  
@@ -1561,8 +1435,6 @@ A. A. S.
 
 ———————————————————————————————————————————————————
 
- 
-
 \*अपि च कुतो न्वियमाशङ्का स्यात् भगवतो देहाद्युपाधिकृतदोषप्रसङ्ग इति यतोऽविद्याकामकर्मभिः संसरतो जीवस्यापि भगवद्भावं लक्षणया बोधयन्त्यस्तं दोषं निषेधयन्ति। स यश्चायं पुरुषे यश्चासावादित्ये स एकः ‘तत्त्वमसि’ इत्याद्याः श्रुतयः। ननु क्रत्वर्थस्यात्मनः स्तुतिरियम् ईश्वरत्वेन क्रियते न तु तस्येश्वरत्वं बोध्यते। नैतदृयुज्यते। यतस्तत्र
 
  यस्य देवे परा भक्तिर्यथा देवे तथा गुरौ। तस्यैते कथिता ह्यर्थाः प्रकाशन्तेमहात्मनः॥
@@ -1570,8 +1442,6 @@ A. A. S.
  इत्याद्याः श्रुतयः कृतावतारस्य भगवतश्चरण भजनमुपायं वदन्तीत्याह स्वकृतपुरेष्विति। स्वकर्म्मोपार्ज्जितेषु पुरेषु देहेष्वमीषु नरादिषु भोक्तृत्वेन वर्त्तमानं पुरुषम् अखिलशक्तिधृतः सर्वशक्त्याश्रयस्य पूर्णस्य भवांशकृतं वदन्ति। अंश इवांशः कृत इव कृतः। त्वद्रूपं वदन्तीत्यर्थः। ननु कार्य्यकारणसंवृतस्य कुत एवंभूतत्वं तत्राह अबहिरन्तरसंवरणमिति। बहिः कार्य्यम् अन्तरं कारणं वस्तुतस्तदावरणशून्यं तयोरसत्त्वादित्यर्थः। इत्येवं नृगतिं नुर्जोवस्य गतिं तत्त्वंविविच्य विशोध्य कवयोऽन्यखेदं न प्राप्यत इति जानन्तो निगमावपनं निगमोक्तकर्म्मणामावपनम्। आ समन्तात् उप्यन्तेऽस्मिन्नित्यावपनं क्षेत्रं सर्वकर्म्मार्पणविषयभित्यर्थः। यत्रार्पितानि कर्म्माणि मुक्तिफलं फलन्ति तं भवतोऽङ्घ्रिम्। अभवं भवनिवर्त्तकम्। विश्वसिताः कृतविश्वासा उपासतेऽर्च्चनवन्देनादिभिः सेवन्ते। भुवीति मर्त्तलोके इदमेवोचितमिति दर्शयन्ति।
 
  त्वदंशस्य ममेशान त्वन्मायाकृतबन्धनम्। तदङ्घ्रिसेवामादिश्य परानन्द निवर्त्तय॥
-
-
 
 **अहं हि विश्वस्य चराचरस्य बीजं प्रधानं प्रकृतिः पुमांश्च।  
 मयाऽऽहितं तेज इदं विभर्षि विधे विधेहि त्वमथो जगन्ति॥७३॥**
@@ -1585,15 +1455,9 @@ A. A. S.
 इति श्रीजीवगोस्वामिकृता ब्रह्मसंहिताटीका सम्पूर्णा॥ श्रीहरिः॥  
 ---------
 
-
-
-
-
 **शुद्धिपत्रम्**
 
 [TABLE]
-
-
 
 **नामानुक्रमणिका।**
 
@@ -1609,8 +1473,6 @@ A. A. S.
 **ए**— एकः ९१। एकपात् ९५। एकात्मा ११६।  
 **औ**— ओजः ४३। ओजस्तेजोद्युतिधरः ४३।  
 **औ**— औषधम् ४४।
-
-
 
 **क—** कः ९१। कथितः १०४। कनकाङ्गदी७१। कपिः १०९। कपिलः १०९। कपिलाचार्य्यः७०। कपीन्द्रः ६६। करणम् ५४। कर्त्ता ४७, ५४। कविः २७। कान्तः ४५, ८३। कामः४५। कामकृत् ४५। कामदेवः ६३। कामपालः ८३। कामप्रदः ४५। कामहा ४५। कामौ ८३। कारणम् ५४। कालः ५८। कालनेमिनिहा ८२। किम् ९१। कुण्डली ११०। कुन्दः १००। कुन्दरः १००। कुमुदः ७६, १००। कुम्भः ८१। कुवलेशयः ७६। कृतकर्म्मा९७। कृतज्ञः २२, ७०।कृतलक्षणः ६४। कृताकृतः २८। कृतागमः ८३, ८७। कृतान्तकृत् ७०। कृतिः २२। कृशः १०३। कृष्णः २०,७२। केशवः १६,८२। केशिहा ८२।क्रतुः ६१। क्रमः २२। क्रोधकृत् ४७। क्रोधहा ४७। क्षमः ६०। क्षमिणां वरः १११।क्षरम् ६४। क्षामः ६०, १०४। क्षितीशः ११९। क्षेत्रज्ञः १५। क्षेमकृत् ७७। क्षोभणः ५४।
 
@@ -1631,8 +1493,6 @@ A. A. S.
 
 **द—** दक्षः ५८, १११। दक्षिणः १११। दण्डः १०५। दमः १०५। दमनः ३४। दमयिता १०५। दर्पदः ८९। दर्पहा ८९। दामोदरः ५३। दारुणः ७४। दाशार्हः ६७। दिवस्पृक् ७४। दिशः ११३। दीप्तमूर्त्तिः ९०। दुःस्वप्ननाशनः ११२। दुरतिक्रमः ९६। दुराधर्षः २२। दुरारिहा ९६। दुरावासः ९६। दुर्गः ९६। दुर्गमः ९६। दुर्जयः ९६। दुर्द्धरः ४२, ८९। दुर्मर्षणः ३५। दुर्लभः ६६। दुष्कृतिहा ११२। दृढ़ः ७२। दृप्तः ८९। देवः ५४। देवकीनन्दनः ११९। देवभृद्गुरुः ६५। देवेशः ६५। द्युतिधरः ९४, ४३। द्रविणप्रदः ७४।
 
-
-
 **ध—** धनञ्जयः ८३। धनुर्द्धरः १०५। धनुर्व्वेदः १०५। धनेश्वरः ६३। धन्यः ९३। धन्वी२२। धरणीधर २८। धराधरः ९३। धर्म्मः५६। धर्म्मकृत् ६४।धर्म्मगुप् ६४। धर्म्मयूपः ६०।धर्म्मविदुत्तमः ५६। धर्म्माध्यक्षः २८। धर्मी ६४। धाता १८, ११५। धातुरुत्तमः १८। धाम ३६। धुर्य्यः ४९। धृतात्मा ३०। ध्रुवः ५५।
 
 **न—** नक्षत्रनेमिः ६०। नक्षत्री ६०। नन्दः ६८। नन्दको १२०। नन्दनः ६८। नन्दिः ७९। नयः ५६। नरः ३९। नहुषः ४७। नारसिंहवपुः १६। नारायणः ३८। निग्रहः ८१। निधिरव्ययः १७। निमित्रः ३६। नियन्ता ३०, १०५। नियमः ३०, १०५।निर्गुणः १०३। निर्वाणम् ७५। निवृत्तात्मा ३८, ७७। निष्ठा ७५।नेता ३७। नेयः ५६। नैकः ८१। नैककर्म्मकृत् ६३। नेकजः १०८। नैकमायः ४६।नैकरूपः ४२। नैकशृङ्गः १४। नैकात्मा ६३। न्यग्रोधः१०१। न्यायः ३७।
@@ -1642,8 +1502,6 @@ A. A. S.
 **ब—**बभ्रुः २६। बहुशिराः २६। बीजमव्ययम् ५८। बृहत् १०३। बृहद्भानुः ४८। बृहद्रूपः ४२। ब्रह्मा ८४। ब्रह्मकृत्८४। ब्रह्मज्ञः ८४। ब्रह्मण्यः ८४। ब्रह्मवित् ८४। ब्रह्मविवर्द्धनः ८४। ब्रह्मी ८४। ब्राह्मणः ८४। ब्राह्मणप्रियः ८४।
 
 **भ—** भक्तवत्सलः ८१। भगवान् ७३। भगहा ७३।भयकृत् १०२। भयनाशनः १०२। भयापहः ११३। भर्त्ता १७। भानुः ४४। भारभृत् १०४।भावः १४। भावनः १७। भास्करद्युतिः ४३। भिषक् ७५। भीमः ५२, ११४। भीमपराक्रमः ११४। भुजगोत्तमः ३४। भूः ११४। भूगर्भः २१। भूतकृत् १४। भूतभव्यभवत्प्रभुः १४। भूतभव्यभवन्नाथः ४५। भूतभावनः १४। भूतभृत् १४। भूतमहेश्वरः ६५। भूतात्मा १४। भूतादिः १७। भूतावासः ८१। भूतिः ८०। भूरिदक्षिणः ६६। भूर्भुवः ११४। भूर्भुवःस्वस्तरुः ११७। भूर्भुवोलक्ष्मौः ११४। भूशयः ८०। भूषणः ८०। भेषजम् ७५। भोक्ता २८, ६६, १०८। भोजनम् २८। भ्राजिष्णुः २८।
-
-
 
 **म—** मङ्गलं परम् २०। मधुः ३१। मधुसूदनः २१। मनुः १९। मनोजवः ८७। मनोहरः ६२। मन्त्रः ४३। मरीचिः ३४। महर्द्धिः ५१। महर्षिः ७०। महाकर्म्मा ८५, ९७। महाकोशः ५८। महाक्रतुः ८५। महाक्रमः ८५। महाक्षः ५१। महागर्त्तः ९९। महातपाः २६। महातेजाः ८५। महादेवः ६५। महाद्युतिः ३२। महाद्रिधृक् ३२। महाधनः ५८। महान् १०३। महानिधिः ९९। महाबलः ३१। महाबुद्धिः ३२। महाभागः ५३। महाभूतः ९९। महाभोगः ५८। महामखः ६०। महास्वनाः ७२। महामायः ३१। महामूर्त्तिः ६०। महायज्ञः ८५। महायज्ञः ८५। महार्हः ६९। महावराहः ७१। महावीर्य्यः३२। महाशक्तिः ३२। महाशनः ४६। महाशृङ्गः ७०। महास्वनः १८। महाहविः ८५। महाह्रदः ९९। महीधरः ४७, ५३। महौभर्त्ता ३३। महेज्यः ६१। महेन्द्रः ४२। महेष्वासः ३३। महोत्साहः ३१। महोदधिशयः ६८। महोरगः ८५। माधवः २१, ३१, ८१। मानदः ९३। मान्यः १३। मार्गः ५३, ५६। मुकुन्दः ६८। मुक्तानां परमा गतिः १५। मेदिनीपतिः ७०। मेधजः ८३। मेधावी २२।
 
@@ -1656,16 +1514,12 @@ A. A. S.
 **व—**वंशवर्द्धनः १०३। वत्सरः ६३। वत्सलः ६३। वत्सो ६३। वनमालौ ७०। वरदः ४९। वराङ्गः ९२। वरारोहः २६। वरुणः ७२। वर्द्धनः ४१। बर्द्धमानः ४१। वषट्कारः १४। वसुः २५, ४२, ८७। वसुदः ४२। वसुप्रदः ८७। वसुमनाः २५, ८७।
 वसुरेताः ८७। वह्निः ३८। वाग्मी ४२। वाचस्पतिरयोनिनः ७४। वाचस्पतिरुदारधीः ३६। वाजसनः ८८। वामनः ३०। वायुः ५७। वायुवाहनः ४८, १०४। वारुणः ७२। वासवानुजः ४८। वासुदेवः ४२, ८७, ८९। विकर्त्ता ५४। विक्रमः २२। विक्रमौ २२, ११०। विचरः ५३। विजयः २८। विजितात्मा ७८। विदारणः ६२। विदिशः ११३। विद्वत्तमः १११। विधाता १८, ६४। विनयः ६७। विनयिता ६८। विनयितासाक्षी ६८। विभुः ३८, १०७। विमुक्तात्मा ६१। विरतः ५६। विरामः ५६। विरोचनः १०७। विविक्तः ४१। विशिष्टः ४०। विशुद्धात्मा ८१। विशोकः ८०। विशोधनः ८१। विश्रामः ५८। विश्रुतात्मा ३५। विश्वका १८। विश्वदक्षिणः ५८। विश्वधृक् ३८। विश्वबाहुः ४७। विश्वभुक् ३८। विश्वम् १४। विश्वमूर्त्तिः २०। विश्वयोनिः २६, २८। विश्वरेताः २३। विश्वात्मा ३७। विषमः ९२। विष्णुः १४, ४१, ८३। विष्वक्सेनः २७। विस्तारः ५८। विहायसगतिः १०७। बीतभयः १११। वीरः ५३, ८३। वीरवाहुः ६२। वीरहा ३१, ८२, ११२। वृक्षः७२। वृद्धात्मा ५१। वृषः ४७। वृषकर्म्मा २५। वृषपर्व्वा ४१। वृषप्रियः ७६। वृषभः ४१। वृषभाक्षः ७६। वृषाकपिः २४। वृषाकृतिः २५। वृषाही ४१। वृषोदरः
 
-
-
 वेगवान् ५६। वेदः २७। वेदवित् २७। वेदाङ्गः २७। वेद्यः ३१। वेधाः ७२। वैकुण्ठः ५७। वैखानः ११९। वैद्यः ३१। व्यक्तरूपः ४६। व्यग्रः ९८। व्यवसायः ५५। व्यवस्थानः ५५। व्यादिशः ११३। व्यापी६३। व्याप्तः ५७। व्यालः २३। व्यासः ७४।
 
 **श—** शम्भुः १८। शक्तिमतां श्रेष्ठः ५६। शङ्खभृत् १२०। शतमूर्त्तिः ९०। शताननः ९०। शतानन्दः ७९। शतावर्त्तः ५०। शत्रुघ्नः ५७। शत्रुजित् १०१। शत्रुतापनः १०१। शब्दसहः ११०। शब्दातिगः ११०। शमः ७५। शरणम् २३। शरभः ५९। शरीरभूतभृत् ६६। शरीरभृत् ५१। शर्म्म २३। शर्व्वः १७। शर्व्वरीकरः ११०। शशविन्दुः ४४। शान्तः ७५। शान्तिः ७५। शान्तिदः ७०। शार्ङ्गधन्वा १२०। शाश्वतः २०। शाश्वतस्थाणुः २६। शाश्वतस्थिरः ८०। शास्ता ३५। शिखण्डी ४७। शिपिविष्टः ४२। शिवः १७, ७७। शिशिरः ११०। शिष्टकृत् ४०। शिष्टेष्टः ४७। शुचिः ३०, ४०। शुचिश्रवाः २६। शुभाङ्गः ७६, ९७। शुभेक्षणः ५५। शून्यः ९२। शूरः ५०। शूरजनेश्वरः ८२। शूरसेनः ८८। शृङ्गी ९८। शोकनाशनः ८०। शौरिः ५०, ८२। श्रमणः १०४। श्रीकरः ७८। श्रीगर्भः ५४। श्रीदः ७८। श्रीधरः ७८। श्रीनिधिः ७८। श्रीनिवासः ३३, ७८। श्रीपतिः ७७। श्रीमतांवरः ७७। श्रीमान् १६, ३२, ३७, ७८। श्रीवत्सवक्षाः ७७। श्रीवासः ७७। श्रीविभावनः ७८। श्रोशः ७८। श्रुतिसागरः ४१। श्रेयः ७८। श्रेष्ठः २१।
 
 **स—**सङ्कर्षणः ७२। संक्षेप्ता ७७। संग्रहः ३०। संधाता ३५। सन्धिमान् ३५।
 सन्नासक्कृत् ७५। सम्प्रमर्द्दनः ३८। सम्भवः १७। संवत्सरः २३, ५८। संवृतः ३८। संस्थानः ५५। सत् ६४। सतां गतिः ३३, ६१। सत्कर्त्ता ३९। सत्कीर्त्तिः ७२। सत्कृतः ३९। सत्कृतिः ५८ः सत्ता ८८। सत्रम् ६१। सत्त्ववान् १०६। सत्त्वस्थः ६५। सत्पथाचारः ११५। सत्यरायणः ८८। स यः २५, ३६, १०६। सत्यधर्म्मपरायणः१०६। सत्यधर्म्मपराक्रमः ३६। सत्यमेधाः९३। सत्यसन्धः ६७। सदामर्षो १०८। सदायोगी ३१। सद्गतिः ८८। सद्भूतिः ८८। सनात् १०३। सनातनतमः १०८। सन्तः ११२। सन्निवासः ८८। सप्तजिह्वः १०२। सप्तवाहनः। सप्तैधाःसमः २५। समयज्ञः ५२। समात्मा २५। समावर्त्तः ८६। समितिञ्जयः ५२। समीरणः ३७। समीहनः ६०। सर्गः ३०। सर्व्वः १७। सर्व्वकामदः १०४। सर्व्वगः २७। सर्व्वज्ञः ६१, १००। सर्व्वतश्चक्षुः ८०। सर्व्वतोमुखः १००। सर्व्वदर्शनः २०। सर्व्वदर्शी ६१। सर्व्वदृक् ३५.७४। सर्व्वदृग्वाासः ७४। सर्व्वप्रहरणायुधः १२०। सर्व्वयोगविनिःसृतः २४। सर्व्वलक्षणलक्षण्यः ५२। सर्व्ववागीश्वरेश्वरः ९९। सर्व्वविज्जयी ८९। सर्व्वविद्भानुः २७। सर्व्वशस्त्रभृतांवरः ९४। सर्व्वसहः १०५। सर्व्वादिः २४। सर्व्वासुनिलयः ८२। सर्व्वेश्वरः २४। सवः ८१। सविता १०७। सहः ५३। सहस्रजित् ४६। सहस्रपात् ३७। सहस्रमूर्द्धा ३७। सहस्तांशुः ६४। सहस्राक्षः ३७। सहस्रार्च्चिः १०२। सहिष्णुः २६, ७३। साक्षी१५। सात्त्वतां पतिः ६७। सात्त्विकः १०६। साधुः ३८। साम ७५। सामगः ७५। सामगायनः ११८। सिंहः ३५, ६५। सिद्धः २४, १०१। सिद्धसङ्कल्पः ४०। सिद्धार्थः ४०। सिद्धिः २४। सिद्धिदः ४०। सिद्धिसाधनः ४०। सुखदः ६२, १०८। सुघोषः ६२। सुतन्तुः ८७। सुतपाः ३४। सुदर्शनः ५८। सुधन्वा ७३। सुन्दः ९८। सुन्दरः ९८। सुपर्णः ३४, १०। सुप्रसादः ३८। सुभुजः ४२। सुमुखः ६२। सुमेधाः ९३। सुयामुनः ८८। सुराध्यक्षः २८।
-
-
 
 मुरानन्दः ३३। सुरारिहा ३५। सुरुचिः १०७। सुरेशः २३। सुरेश्वरः ४४। सुलभः १०१।सुलोचनः ९८। सुवर्णविन्दुः ९९। सुवर्णवर्णः९२। सुवीरः ११४। सुव्रतः ६२, १०१। सुषेणः ७१। सुहृत् ६२। सूक्ष्मः ६२। सूर्य्यः १०७। सोमः ६७ । सोमपः ६७। स्कन्दः ४९।स्कन्दधरः ४९। स्तवप्रियः ८६ । स्तव्यः ८६ । स्तुतिः ८६। स्तोता ८६। स्तोत्रम् ८६।स्थविरो ध्रुवः १९। स्थविष्ठः १९, ६०।
 स्थाणुः १७।स्थानदः ५५। स्थावरस्थाणुः ५९। स्थिरः ३५। स्थूलः १०३। स्पष्टाक्षरः ४३। स्रग्बी ३६।स्रष्टा ७६, ११९। स्वक्षः७९। स्वङ्गः ७९। स्वधृतः १०३। स्वयंजातः ११९। स्वयम्भुः १८।स्ववशः ६३ । स्वस्ति १०९।
@@ -1675,13 +1529,9 @@ A. A. S.
 
 **——————**
 
-
-
 **शुद्धिपत्रम्**
 
 [TABLE]
-
-
 
 **ॐ नमः सच्चिदानन्दविग्रहाय।**  
 
@@ -1720,8 +1570,6 @@ A. A. S.
 भिद्यते हृदयग्रन्थिश्छद्यन्ते सर्व्वसंशयाः।  
 क्षीयन्ते चास्य कर्म्माणि यस्मिन् दृष्टे परावरे॥
 
-
-
 **को धर्म्मःसर्व्वधर्म्माणां भवतः परमो मतः।  
 किं जपन्मुच्यते जन्तुर्जन्मसंसारबन्धनात्॥३॥**
 
@@ -1739,8 +1587,6 @@ A. A. S.
  को धर्म्मः पूर्व्वोक्तलक्षणः सर्व्वधर्म्माणां सर्व्वेषां धर्म्माणां मध्ये भवतः परमः प्रकृष्टो मतोऽभिप्रेत इति पञ्चमः प्रश्नः । किं जपन् उच्चोपांशुमानसलक्षणं जपं कुर्व्वन् जन्तुर्जननधर्म्मा। अनेन जन्तुशब्देन जपार्च्चनस्तवादिषु यथायोग्यं सर्व्वप्राणिनाम् अधिकारं सूचयति। जन्मसंसारबन्धनात् जन्माऽज्ञानविजृम्भितानाम्नविद्याकार्य्याणामुपलक्षणम् संसारोऽविद्या ताभ्यां जन्मसंसाराभ्यां यद् बन्धनं तस्मात् मुच्यते मुक्तो भवतीति षष्ठः प्रश्नः। जन्म संसारबन्धनादितीदमुपलक्षणम्। अन्येषां फलानामपि एतद्ग्रहणं तु मोक्षस्य प्राधान्यख्यापनार्थम्॥३॥
 
  षट्प्रश्नाः कथिताः। पाश्चात्योऽनन्तरो जप्यविषयः प्रश्नोऽनेन परिह्रीयते। भीष्म उवाच। सर्व्वेषां बहिरन्तःशत्रुणां भयहेतुर्भीष्मो मोक्षधर्म्मादीनां प्रवक्ता सर्व्वज्ञः। जगज्जङ्गमाजङ्गमात्मकं तस्य प्रभुः स्वामी तम्। देवदेवं देवानां देवम्। अनन्तं देशतः कालतो वस्तुतश्चापरिच्छिन्नम्। पुरुषोत्तमं क्षराक्षराभ्यां कार्य्यकारणाभ्यामुत्कृष्टम्। नामसहस्रेण स्तुवन्नाम्नां सहस्रेण स्तुवन् गुणान् सङ्कीर्त्तयन् सततोत्थितो निरन्तरमुद्युक्तः पुरुषः। पूर्णत्वात् पुरे शयनाद्वापुरुषः। ‘सर्व्वदुःखातिगो भवेत्’ इति सर्व्वत्र संबध्यते। उत्तरेण श्लोकेन चतुर्थः प्रश्नः परिह्रीयते। तमेव चार्च्चयन् बाह्यमर्च्चनं कुर्व्वन्। नित्यं सर्व्वेषु कालेषु। भक्तिर्भजनतात्पर्य्यंतया। पुरुषमव्ययं विनाशविक्रियारहितम्। तमेव च ध्यायन् आभ्यन्तरार्च्चनं कुर्व्वन्। स्तुवन्
-
-
 
 **अनादिनिधनं विष्णुं सर्व्वलोकमहेश्वरम्।  
 लोकाध्यक्षं स्तुवन्नित्यं सर्व्वदुःखातिगो भवेत्॥६॥  
@@ -1768,8 +1614,6 @@ A. A. S.
 कुर्य्यादन्यन्न वा कुर्य्यान्मैत्रो ब्राह्मण उच्यते॥ इति॥  
 जपस्तु सर्व्वधर्मेभ्यः परमो धर्म्मउच्यते।  
 अहिंसया च भूतानां जपयज्ञः प्रवर्त्तते॥
-
-
 
 **परमं यो महत्तेजः परमं यो महत्तपः।  
 परमं यो महद्ब्रह्म परमं यः परायणम्॥९॥  
@@ -1803,8 +1647,6 @@ A. A. S.
 समुत्सृज्याखिलं चिन्त्यं सोऽच्युतः किन्न चिन्त्यते॥  
 गङ्गास्नानसहस्रेषु पुष्करस्नानकोटिषु।  
 यत्पापं विलयं याति स्मृतेनश्यति तद्धरौ॥**
-
-
 
 **दैवतं देवतानाञ्च भूतानां योऽव्ययः पिता॥१०॥**
 
@@ -1863,8 +1705,6 @@ A. A. S.
 अतसीपुष्पसंकाशं पीतवाससमच्युतम्।  
 ये नमस्यन्ति गोविन्दं न तेषां विद्यते भयम्॥
 
-
-
 **शाठ्येनापि नमस्कारः प्रयुक्तश्चक्रपाणये।  
 संसारमूलबन्धानामुद्वेजनकरो हि सः॥  
 भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः।**  
@@ -1893,8 +1733,6 @@ A. A. S.
 **तमात्मस्थं येऽनुपश्यन्ति धीरास्तेषां शान्तिः शास्वतीनेतरेषाम् ॥ इति कठवल्लीषु।**
 
  ‘ब्रह्म वा इदमग्र आसीदेकमेव तदेकं सन्न व्यभवत्’ ‘नान्योऽतोऽस्ति द्रष्टा’ ‘नान्यदतोऽस्ति द्रष्टृ’ इत्यादि बृहदारण्यके। ‘अनेजदेकं मनसो जवीयो नैनं देवा आप्नुवन् पूर्व्व-
-
-
 
 मर्षत्’। ‘तत्र को मोहः कः शोकः एकत्वमनुपश्यतः’ इति ईशावास्ये। ‘सर्वेषां भूतानामान्तरः पुरुषः स आत्मेति विद्यात्’। ‘आत्मा वा इदमेक एवाग्र आसीन्नान्यत् किञ्चनमिषत्’। ‘एकं सद्विप्रा बहुधा वदन्ति’। ‘एकं सन्तं बहुधा कल्पयन्ति’। ‘एको विममे त्रिभिरित्पदेभिः’ ‘एको दधार भुवनानि विश्वा’ ‘एक एवाग्निबहुधा समिद्धः’ इति ऋग्वेदे। ‘स देव सौम्येदमग्र आसीदेकमेवाद्वितीयम्’ इति छान्दोग्ये।
 
@@ -1946,8 +1784,6 @@ A. A. S.
 विभूतयश्च यास्तस्य तासामेव परस्परम्।  
 आधिक्यन्यूनताबाध्यबाधकत्वेन वर्त्तते॥**
 
-
-
 **भवानहञ्च विश्वात्मन्नेकमेव हि कारणम्।  
 जगतोऽस्य जगत्यर्थे भेदेनाऽऽवां व्यवस्थितौ॥  
 त्वया चैव हि यद्दत्तं तद्दत्तमखिलं मया।  
@@ -1992,8 +1828,6 @@ A. A. S.
 एवं धर्म्मान् पृथक् पश्यंस्तानेवानुविधावति॥**
 
  ‘द्वितीयाद्वै भयं भवति’। ‘यदा ह्येवैष एतस्मिन्नुदरमन्तरं कुरुते। अथ तस्य भयं भवति।
-
-
 
 तत्त्वेव भयं विदुषो मन्वानस्य’। ‘सर्व्वं तं परादाद्योऽन्यत्राऽऽत्मनः सर्व्वं वेद’ इत्येवमाद्या भूयसी श्रुतिर्भेददृष्टिमपवदति। तथा ‘आत्मैवेदं सर्व्वम्’। ‘आत्मनि विज्ञाते सर्व्वमिदं विज्ञातं भवति’। ‘इदं सर्व्वं यदयमात्मा’। ‘ब्रह्मैविदं सर्व्वम्इति श्रुतिः। तथा स्मृतिरपि
 
@@ -2049,8 +1883,6 @@ A. A. S.
 
  अहंकाराविवेकेन कर्त्ताऽहमिति मन्यते। इति।
 
-
-
 ‘एवमेवायं पुरुषः प्राज्ञेनात्मना’ इति। ‘सता सोम्य तदा सम्पन्नो भवति’ इति।
 
 **स्वमायया स्वमात्मानं मोहयन्द्वैतमायया।  
@@ -2090,8 +1922,6 @@ A. A. S.
  ‘तत्त्वमसि’। ‘अहं ब्रह्मास्मि’। ‘इदं सर्व्वं यदयमात्मा’। ‘अयमात्मा ब्रह्म’। ‘तरति शोकमात्मवित्’ इत्यादि श्रुतिस्मृतीतिहासपुराणलौकिकेभ्यश्च।
 
  सिद्धे आत्मतत्त्वऽपि वेदस्य प्रामाण्यमेष्टव्यम्। ‘स्वपक्षसाधनैरकार्य्यमर्थजातमाह चेत्। तथा परोऽपि वेद चेच्छ्रुतिः परात्मदृङ्न किम्।’ इत्यभियुक्तैरुक्तम्। अन्यान्वितस्वार्थे पदानां सामर्थ्यंन कार्य्यान्वितस्वार्थे तथा सत्यर्थवादानामनन्वयप्रसङ्गात् अन्वयबुद्धेः स्तुतित्वात्। न हि भवति ‘वायव्यं श्वेतमालभेत भूतिकामो वायुर्वै क्षेपिष्ठा देवता’ इति। रागस्यैव प्रवर्त्तकत्वम् न विरागस्य। तथा च श्रुतिः। ‘अथो खल्वाहुः काममय एवायं पुरुषः इति स यथाकामो
-
-
 
 भवति तत्क्रतुर्भवति यत्क्रतुर्भवति तत्कर्म्म कुरुते यत्कर्म्म तदभिसंपद्यते। तथा च स्मृतिरपि—
 
@@ -2145,8 +1975,6 @@ A. A. S.
 
 इति॥ ‘असन्नेव स भवति असद्ब्रह्मेति वेद चेत्’ इति तैत्तिरीयके। तथा शकुन्तलोपाख्याने।
 
-
-
 **यतः सर्व्वाणि भूतानि भवन्त्यादियुगागमे।  
 यस्मिंश्च प्रलयं यान्ति पुनरेव युगक्षये॥११॥  
 तस्य लोकप्रधानस्य जगन्नाथस्य भूपते।  
@@ -2166,7 +1994,6 @@ A. A. S.
 सरस्वती रजोरूपा तमोरूपा कलिन्दजा।  
 सत्त्वरूपा च गङ्गा च न यान्ति ब्रह्म निर्गुणम्॥  
 आत्मा नदी संयमतोयपूर्णासत्यह्रदा शीलतटा दयोर्म्मिः।तत्राभिषेकं कुरु पाण्डुपुत्र न वारिणा शुद्ध्यति चान्तरात्मा॥ इति महाभारते॥**  
-
 
 ‘मानसं स्नानं विष्णुचिन्तनम्’ इति विष्णुस्मृतौ।
 
@@ -2191,8 +2018,6 @@ A. A. S.
 नाम्नां सहस्रं लोकानामुपकारकरं खलु॥  
 निमित्तशक्तयो नाम्नां भेदिन्यस्तदुदीरणात्।  
 विभिन्नान्येव साध्यन्ते फलानि द्विजसत्तम॥**
-
-
 
 **यानि नामानि गौणानि विख्यातानि महात्मनः।  
 ऋषिभिः परिगीतानि तानि वक्ष्यामि भूतये॥१३॥  
@@ -2220,8 +2045,6 @@ A. A. S.
  ‘आदित्यानामहं विष्णुः’ इत्यारभ्य ‘विष्टभ्यामिदं कृत्स्नमेकांशेन स्थितो जगत्’ इत्यन्तं गीतोपनिषदि भगवतैवोक्तम्। ‘ब्रह्मैवेदं विश्वमिदं वरिष्ठम्’। ‘पुरुष एवेदं विश्वं कर्म्म तपो ब्रह्म परामृतम्’ इत्यादि श्रुतेः। विष्ण्वादिशब्दानां पौनरुक्त्यमपि वृत्तिभेदेनार्थभेदान्न पौनरुक्त्यम्। ‘श्रीपतिः माधवः’ इत्यादीनां वृत्त्येकत्वेऽपि शब्दभेदान्न पौनरुक्त्यम्। अर्थैकत्वेऽपि पौनरुक्त्यंन दोषाय। ‘नाम्नां सहस्रस्य किमेकं दैवतम्’ इति पृष्टेः एकदेवताविषयत्वात्। यत्र पुंलिङ्गशब्दप्रयोगस्तत्र विष्णुर्व्विशेष्यः। यत्रस्त्रीलिङ्गशब्दप्रयोगस्तत्र देवता विशेष्या। यत्र नपुंसकलिङ्गशब्दप्रयोगस्तत्र ब्रह्म विशेषणीयम्॥१३॥
 
  ‘यतः सर्व्वाणि भूतानि’ इत्यारभ्य जगदुत्पत्तिस्थितिलयकरस्य ब्रह्मण एकदैवतत्वेनाभिहितत्वादादावुभयविधं ब्रह्म विश्वशब्देनोच्यते। विश्वस्य जगतः कारणत्वेन विश्वमित्युच्यते ब्रह्म। आदौ तु विश्वमिति कार्य्यभूतविश्वशब्देन कारणग्रहणं कार्य्यभूतविरिञ्च्यादिनामभिरुपपन्ना स्तुतिर्व्विष्णोरिति दर्शयितुम्। यद्वापरस्मात् पुरुषात् न भिन्नमिदं विश्वं परमार्थतः तेन विख-
-
-
 
 **भूतकृद्भूतभृद्भावो भूतात्मा भूतभावनः॥१-९॥१४॥**
 
@@ -2263,8 +2086,6 @@ A. A. S.
 
 प्रणवाद्यास्तथा वेदाः प्रणवे पर्य्यवस्थिताः।  
 वाङ्मयं प्रणवः सर्व्वं तस्मात् प्रणवमभ्यसेत्॥
-
-
 
  इत्यादि श्रुतिभिश्च विश्वशब्देनोङ्कारोऽप्यभिधीयते। वाच्यवाचकयोः अत्यन्तभेदाभावात् विश्वम् इति ओङ्कार एव ब्रह्म इत्यर्थः। ‘सर्वं खल्विदं ब्रह्म तज्जलानिति शान्त उपासीत’ इति। एतदुक्तं भवति। यस्मात् सर्व्वमिदं विकारजातं ब्रह्म तज्जत्वात् तल्लत्वात् तदनत्वाच्च। न च सर्व्वस्यैकात्मत्वे रागादयः सम्भवन्ति। ‘तस्माच्छान्त उपासीत’ इत्यादि श्रुतिः।
 
@@ -2316,8 +2137,6 @@ A. A. S.
 बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते।  
 वासुदेवः सर्व्वमिति स महात्मा सुदुर्लभः॥**
 
-
-
 इत्यादिवचनैश्च हिंसादिरहितेन स्तुतिनमस्कारादिकं कर्त्तव्यमिति दर्शयितुं विश्वशब्देन ब्रह्माऽभिधीयत इति वा। शङ्करहिरण्यगर्भौहरेर्भिन्नाविति न मन्तव्यौ।
 
 **विष्णोरन्यन्तु पश्यन्ति ये च ब्रह्माणमेव च।  
@@ -2357,8 +2176,6 @@ A. A. S.
 
 **नाविष्णुः कीर्त्तयेद्विष्णुं नाविष्णुर्व्विष्णुमर्च्चयेत्।  
 नाविष्णुः संस्मरेत् विष्णुं नाविष्णुर्व्विष्णुमाप्नुयात्॥ इति महाभारते कर्मकाण्डे।**
-
-
 
 **सर्व्वाण्येतानि नामानि परस्य ब्रह्मणोऽनघ।  
 एवमेतानि नामानि देवदेवस्य कीर्त्तयेत्॥  
@@ -2415,8 +2232,6 @@ A. A. S.
 
 **विघ्नो यत्र निवेशितात्ममनसो ब्राह्मोऽपि लोकोऽल्पकः।**
 
-
-
 **मुक्तिं चेतसि यः स्थितोऽमलधियां पुंसां ददात्यव्ययः  
 किं चित्रं यदघं प्रयाति विलयं तत्राऽच्युते कीर्त्तिते॥**
 
@@ -2442,8 +2257,6 @@ A. A. S.
 
  यदुद्देशेन अध्वरे वषट् क्रियते स वषट्कारः। यस्मिन् यज्ञे वषट्क्क्रिया वा। ‘यज्ञो वै विष्णुः’। ‘अहं यज्ञोऽहं वषट्कारः’ इति श्रुतेः। येन वषट्कारादिमन्त्रात्मना देवान् प्रीणयतीति स वषट्कारः। ‘प्रजापतिश्च वषट्कारः’ इति देवता वा। भूतञ्च भव्यञ्च भवच्च भूतभव्यभवन्ति तेषां प्रभुः भूतभव्यभवत्प्रभुः। कालभेदमनादृत्य सन्मात्रप्रतियोगिकमैश्वर्य्यं तस्येति प्रभुत्वम्। रजोगुणं समाश्रित्य विरिञ्चिरूपेण भुतानि करोतीति भूतकृत् कथ्यते हरिः। तमोगुणमधिष्ठाय रुद्रात्मना कृन्तति हिनस्तीति वा भूतकृत्। सत्त्वगुणमधिष्ठाय भूतानि विभर्त्ति पाति धारयति पोषयतीति वा भूतभृत्। भूतप्रपञ्चरूपेण भवतीति केवलं भवतीति वा भावः। भवनं भावः सत्तात्मको वा। भूतात्मा भूतानामात्माऽन्तर्यामी। ‘एष त आत्मा अन्तर्याम्यमृतः’ इति श्रुतेः। भूतानि भावयति जनयति वर्द्धयतीति वा भूतभावनः भूतकृदित्यादिभिः प्राप्तं गुणतन्त्रत्त्वम् उत्तरश्लोके प्रतिषिद्ध्यते॥१४॥
 
-
-
 **पूतात्मा परमात्मा च मुक्तानां परमा गतिः।  
 अव्ययः पुरुषः साक्षीक्षेत्रज्ञोऽक्षर एव च॥ १०-१७॥१५॥  
 योगो योगविदां नेता प्रधानपुरुषेश्वरः।  
@@ -2468,8 +2281,6 @@ A. A. S.
 एकत्वभावना योगः क्षेत्रज्ञपरमात्मनोः॥**
 
  तदवाप्यतया योगः इति योगविदो विदुः। योगं विदन्तीति योगविदस्तेषां नेता ज्ञानिनां योगक्षेमवहनादिना योगविदां नेता। ‘तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्’ इति भगवद्वचनात्।प्रधानं प्रकृतिर्म्माया पुरुषो जीवस्तयोरीश्वरः प्रधानपुरुषेश्वरः। नारसिंहवपुः नरस्यावयवाः सिंहस्यावयवाः यस्मिन् लक्ष्यन्ते तद्वपुर्य्यस्य स नारसिंहवपुः। यस्य
-
-
 
 **सर्व्वशर्व्वः शिवः स्थाणुर्भूतादिर्निधिरव्ययः।  
 सम्भवो भावनोभर्त्ता प्रभवः प्रभुरीश्वरः॥२५-३७॥१७॥  
@@ -2500,8 +2311,6 @@ A. A. S.
 
  स्वयमेव भवति नापरो भावयतीति स्वयम्भूः। ‘स एव स्वयमुद्वभौ’ इति मानवं वचनम्।
 
-
-
 **अप्रमेयो हृषीकेशः पद्मनाभोऽमरप्रभुः।  
 विश्वकर्म्मा मनुस्त्वष्टा स्थविष्ठः स्थविरो ध्रुवः॥ ४७-५६॥१६॥ २९।**
 
@@ -2516,8 +2325,6 @@ A. A. S.
 बोधनात् स्वापनाच्चैव जगतो हर्षणं भवेत्।  
 अग्नीषोमकृतैरवं कर्म्मभिः पाण्डुनन्दन॥  
 हृषीकेशोऽहमीशानो वरदो लोकभावनः॥ इति॥**
-
-
 
 **अग्राह्यः शाश्वतः कृष्णो लोहिताक्षः प्रतर्द्दनः।  
 प्रभूतस्त्रिककुब्धाम पवित्रं मङ्गलं परम्॥५७-६४॥२०॥  
@@ -2544,8 +2351,6 @@ A. A. S.
 
 स्य श्रः’ इति श्रादेशविधानात्।
 
-
-
 **ईश्वरो विक्रमी धन्वीमेधावी विक्रमः क्रमः।  
 अनुत्तमो दुराधर्षः कृतज्ञः कृतिरात्मवान्॥ ७४-८४॥२२॥  
 सुरेशः शरणं शर्म्म विश्वरेताः प्रजाभवः।  
@@ -2563,8 +2368,6 @@ A. A. S.
  सर्व्वशक्तिमत्तयेश्वरः। विक्रमः शौर्य्यंतद्योगाद्विक्रमी। धनुरस्यास्तीति धन्वी। व्रीह्यादित्यात्वादिनिः। ‘रामः शस्त्रभृतामहम्’ इति भगवद्वचनात्। मेधा बह्वर्थधारणसामर्थ्यं सा यस्यास्ति स मेधावी। ‘अस्मायामेधास्रजो विनिः’ इतिवचनात् विनिप्रत्ययः। विक्रमते जगद्विश्वं तेन स विक्रमः। विना पक्षिणा गरुड़ेन क्रमात् क्रमणात् विक्रमः। क्रमणात् क्रमहेतुतया वा क्रमः। ‘क्रान्ते विष्णुम्’ इति मनुवचनात्। अविद्यमान उत्तमो यस्मात् सोऽनुत्तमः। ‘यस्मात् परं नापरमस्ति किञ्चित्’ इति श्रुतेः। ‘न तत् समोऽस्त्यभ्यधिकः कुतोऽन्यः’ इति स्मृतेश्व। दैत्यादिभिर्धर्षयितुं न शक्यत इति दुराधर्षः। प्राणिनां पुण्यापुण्यात्मकं कर्म्म कृतं जानातीति कृतज्ञः। पत्रपुष्पादिकमपि प्रयच्छतो मोक्षं ददातीति वा कृतज्ञः। पुरुषप्रयत्नः क्रिया वा कृतिः। सर्व्वात्मकत्वात्तदाधारतया लक्ष्यते कृत्येति वा कृतिः। स्वमहिमप्रतिष्ठितत्वादात्मवान्। ‘स भगवः कस्मिन् प्रतिष्ठित इति स्वे महिम्नि’ इति श्रुतेः॥२२॥
 
  सुराणां देवानामीशः सुरेशः। आर्त्तानामार्त्तिहरणात् शरणम्। परमानन्दरूपत्वात् शर्म्म। विश्वस्य कारणत्वाद्विश्वरेताः। सर्व्वाः प्रजा यत्सकाशादुद्भवन्ति स प्रजाभवः। प्रकाशरूपत्वादहः। कालात्मना स्थितो विष्णुः संवत्सर इत्युक्तः। दुराधर्षोऽजगरवद् गृहीतुमशक्यत्वात् इति व्यालः। प्रतीतिः प्रज्ञाप्रत्ययः। ‘प्रज्ञानं ब्रह्म’ इति श्रुतेः। सर्व्वाणि दर्शनीयानि प्रत्यक्षाणि यस्य स सर्व्वदर्शनः। सर्व्वात्मकत्वात्। ‘विश्वतश्चक्षुः’ ‘विश्वाक्षम्’ इति श्रुतेः॥ २३॥
-
-
 
 **अजः सर्व्वेश्वरः सिद्धः सिद्धिः सर्व्वादिरच्युतः।  
 वृषाकपिरमेयात्मा सर्व्वयोगविनिःसृतः॥९५-१०३॥२४॥  
@@ -2586,8 +2389,6 @@ A. A. S.
  इति व्यासचवनम्। इयानिति मातु परिच्छेत्तुं न शक्यते आत्मा यस्य सोऽमेयात्मा। सर्व्वसम्बन्धविनिर्गतः सर्व्वयोगविनिःसृतः। ‘असङ्गो ह्ययं पुरुषः’ इति श्रुतेः। नानाशास्त्रोक्त योगवलादपगतत्वाद्वासर्व्वयोगविनिःसृतः॥२४॥
 
  वसन्ति सर्व्वभूतानि अत्रतेषु अयमपि वसतीति वा वसुः। ‘वसूनां पावकश्चास्मि’ इत्युक्तो वा वसुः। वसुशब्देन धनवाचिना प्राशस्त्यं लक्ष्यते। प्रशस्तं मनो यस्य स वसुमनाः। रागद्वेषादिभिः क्लेशैर्म्मदादिभिरुपक्लेशैः यतो न कलुषितं चित्तं ततस्तन्मनः प्रशस्तम्। अवितथरूपत्वात् परमात्मा सत्यः। ‘सत्यं ज्ञानमनन्तम् ब्रह्म’ इति श्रुतेः। मूर्त्तामूर्त्तात्मकत्वाद्वा’। ‘सच्च त्यच्चाभवत्’ इति श्रुतेः। सदिति प्राणः तीति अन्नं यमिति आदित्यः तेन प्राणान्नादित्यरूपत्वाद्वासत्त्यः। ‘सदिति प्राणास्तीत्यन्नं यमित्यसावादित्यः’ इति श्रुतेः। सत्सु साधुत्वाद्वासत्त्यः। सम आत्मामनो यस्य रागद्वेषादिभिरदूषितः सर्व्वभूतेषु सम एक आत्मा वा समात्मा। ‘सम आत्मेति विद्यात्’ इति श्रुतेः। सर्व्वैरपरिच्छिन्नोऽमितोऽसम्मितः। सर्वैरप्यर्थजातैः परिच्छिन्नो मितः सम्मितोवा। सर्व्वकालेषु सर्ब्बविकाररहितत्वात् समः। मया लक्ष्म्या सह वर्तत इति वा समः। पूजितः स्तुतः संस्मृतो वा सर्व्वफलं ददाति न वृथा करोतीति अमोघः। अवितथसङ्कल्पत्वाद्वा। ‘सत्यकामः सत्यसङ्कल्पः’ इति श्रुतेः। हृदयाख्यपुण्डरीकमश्नुते व्याप्नोति तत्रोपलभ्यत इति पुण्डरीकाक्षः। ‘यत् पुण्डरीकं पुरमध्यसंस्थम्’ इति श्रुतेः।
-
-
 
 **रुद्रो वहुशिरा बभ्रुर्विश्वयोनिः शुचिश्रवाः।  
 अमृतः शाश्वतस्थाणुर्वरारोहो महातपाः॥११४-१२२॥२६॥  
@@ -2614,8 +2415,6 @@ A. A. S.
 
 **सर्व्वे वेदाः सर्व्वविद्याः सशास्त्राः सर्व्वे यज्ञाः सर्व्वइज्याश्च कृष्णः।  
 विदुः कृष्णं ब्राह्मणास्तत्त्वतो ये तेषां राजन् सर्व्वयज्ञाः समाप्ताः॥ इति महाभारते।**
-
-
 
 **लोकाध्यक्षः सुराध्यक्षो धर्म्माध्यक्षः कृताकृतः।  
 चतुरात्मा चतुर्व्यूहञ्चतुर्दंष्ट्रश्चतुर्भुजः॥ १३४-१४१॥२८॥  
@@ -2654,8 +2453,6 @@ A. A. S.
 **ममोपरि यथेन्द्रस्त्वं स्थापितो गोभिरीश्वरः।  
 उपेन्द्र इति कृष्ण त्वां गायन्ति भुवि देवताः॥**
 
-
-
 **अतीन्द्रः संग्रहः सर्गो धृतात्मा नियमो यमः॥ १५१-१६२॥३०॥  
 वेद्यो वैद्यः सदायोगी वीरहा माधवो मधुः।  
 अतीन्द्रियो महामायो महोत्साहो महाबलः॥१६३-१७२॥३१॥**  
@@ -2688,8 +2485,6 @@ A. A. S.
 
  बुद्धिमतामपि बुद्धिमत्त्वान्महाबुद्धिः। महदुत्पत्तिकारणम् अविद्यालक्षणं वीर्य्यमस्येति महा-
 
-
-
 **अनिर्द्देश्यवपुः श्रीमानमेयात्मा महाद्रिधृक्॥१७३-१८०॥३२॥  
 महेष्वासो महीभर्त्ता श्रीनिवासः सतां गतिः।  
 अनिरुद्धः सुरानन्दो गोविन्दो गोविदां पतिः॥ १८१-१८८॥३३॥  
@@ -2717,8 +2512,6 @@ A. A. S.
 
  तेजस्विनामपि मरीचित्वात् तेजस्त्वान्मरीचिः। ‘तेजस्तेजस्विनामहम्’ इति भगवद्वचनात्। स्वाधिकारात् प्रमाद्यतीःप्रजा दमयितुं शीलं यस्य वैवस्वतादिरूपेण स दमनः। अहं स इति तादात्म्येन भावितः संसारबन्धं हन्तीति हंसः। पृषोदरादित्वात् साधुत्वम्। हन्ति गच्छतीति सर्व्वशरीरेष्विति वा। ‘हंसः शुचिषत्’ इति मन्त्रवर्णात्। शोभनपर्णत्वात् सुपर्णः। ‘द्वा सुपर्णा’ इति श्रुतिः। भुजेन गच्छताम् उत्तमो भुजगोत्तमः। हिरण्यमिव कल्याणीनाभिरस्य हितरमणीयनाभित्वाद्वाहिरण्यनाभः। वदरिकाश्रमे नरनारायणरूपेण शोभनं तपश्चरतीति सुतपाः। ‘मनसश्चेन्द्रियाणाञ्च ऐकाग्र्यं परमन्तपः’ इति स्मरणात्। पद्ममिव नाभिरस्यइति
 
-
-
 **अमृत्युः सर्व्वदृक् सिंहः सन्धाता सन्धिमान् स्थिरः।  
 अजो दुर्म्मषणः शास्ता विश्रुतात्मा सुरारिहा॥ १९८-२०८॥३५॥  
 गुरुर्गुरुतमो धाम सत्यः सत्यपराक्रमः।  
@@ -2735,8 +2528,6 @@ A. A. S.
  सर्व्वविद्यानामुपदेष्टृत्वात् सर्व्वेषां जनकत्वाद्वागुरुः। विरिञ्च्यादीनामपि ब्रह्मविद्याप्रदायकत्वाद् गुरुतमः। ‘यो ब्रह्माणम्’ इति मन्त्रवर्णात्। धाम ज्योतिः। ‘नारायणः परं ज्योतिः’ इति मन्त्रवर्णात्। सर्व्वलोकानामास्पदत्वाद्वाधाम।‘परं ब्रह्म परं धाम’ इति श्रुतेः। सत्यवचनलक्षणधर्म्मरूपत्वात् सत्यः। ‘तस्मात् सत्यं परमं वदन्ति’ इति श्रुतेः। सत्यस्य सत्यमिति वा सत्यः। ‘प्राणा वै सत्यं तेषामेव सत्यम्’ इति श्रुतेः। सत्योऽवितथः पराक्रमो यस्य सः सत्यपराक्रमः। निमीलिते यतो नेत्रे योगनिद्रारतस्याऽतो निमिषः। नित्यप्रबुद्धस्वभावत्वात् अनिमिषः मत्स्यरूपतया आत्मरूपतया वा। वैजयन्त्याख्यां भूततन्मात्ररूपां स्रजं नित्यं विभर्तीति स्रग्वी। वाचस्पतिरुदारधीरिति पदद्वयमेकं नाम। वाचो विद्यायाः पतिर्व्वाचस्पतिः। सर्व्वार्थविषया धीःबुद्धिरस्येति उदारधीः॥३६॥
 
  अग्रं प्रकृष्टं पदं नयति मुमुक्षूनिति अग्रणीः। भूतग्रामस्य नेतृत्वात् ग्रामणीः। श्रीः कान्तिः सर्व्वातिशायिनीअस्येति श्रीमान्। प्रमाणानुग्राहकोऽभेदकारकः तर्कोन्यायः। जगद्यन्त्रनिर्व्वाहकत्वान्नेता। श्वसनरूपेण भूतानि चेष्टयतीति समीरणः। सहस्राणि मूर्द्धानोऽस्येति सहस्रमूर्द्धा। विश्वस्यात्मा विश्वात्मा। सहस्राण्यक्षीण्यस्येति सहस्राक्षः। सहस्राणि पादा अस्येति सहस्रपात्। ‘सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्’ इति मन्त्रवर्णात्॥३७॥
-
-
 
 **आवर्त्तनो निवृत्तात्मा संवृतः संप्रमर्द्दनः।  
 अहः संवर्त्तको वह्निरनिलो धरणीधरः॥२२७-२३५॥३८॥  
@@ -2769,8 +2560,6 @@ A. A. S.
 
  इति श्रीनृसिंहपुराणे। ‘नयतीति नयः प्रोक्तः परमात्मा सनातनः’ इति व्यासवचनम्॥३९॥
 
-
-
 **असंख्येयोऽप्रमेयात्मा विशिष्टः शिष्टकृच्छुचिः  
 सिद्धार्थः सिद्धसङ्कल्पः सिद्धिदः सिद्धिसाधनः॥२४७-२५६॥४०॥  
 वृषाहीवृषभो विष्णुर्वृषपर्व्वा वृषोदरः।  
@@ -2785,8 +2574,6 @@ A. A. S.
  वृषो धर्म्मःपुण्यं तदेव अहः प्रकाशसाधर्म्म्यात् द्वादशाहादिः क्रतुः वृषाहः। स यस्यास्ति स वृषाही। वर्षत्येष भक्तेभ्यः कामानिति वृषभः। यास्केनोक्तम्। विष्णुः ‘विष्णुः विक्रमणत्’ इति व्यासेनोक्तम्। वृषरूपाणि सोपानपर्व्वाणि परं धामारुरुक्षोर्भवतीति वृषपर्व्वा। प्रजाः वर्षत्युदरं यस्य स वृषोदरः। वर्द्धयतीति वर्द्धनः। प्रपञ्चरूपेण वर्द्धते इति वर्द्धमानः। इत्थं वर्द्धमानोऽपि पृथगवतिष्ठतीति विविक्तः। श्रुतयः सागरा इवात्र निधीयन्त इति श्रुतिसागरः॥४१॥
 
  शोभना भुजा जगद्रक्षाकारका अस्येति सुभुजः। पृथिव्यादीनि लोकधारकाणि धारयन् अन्यैः धारयितुमशक्यत्वात् न केनापि धारयितुं शक्यत इति दुर्द्धरः। दुःखेन ध्यानसमये मुमुक्षुभिः हृदयेन धार्य्यत इति वा दुर्द्धरः। यतो निःसृता ब्रह्ममयीवाक तस्माद्वाग्मी। महांश्चासाविन्द्रश्चेति महेन्द्रः। ईश्वराणामपीश्वरः। वसु धनं ददातीति वसुदः। ‘अन्नादो वसुदानः’ इति श्रुतेः। आच्छादयत्यात्मनः स्वरूपं माययेति वा वसुः। अन्तरिक्ष एव वसति नान्यत्रेत्यसाधारणेन वसनेन वा वसुः। ‘वस्वन्तरिक्षसत्’ इति श्रुतेः। एकं रूपमस्य न विद्यत इति नैकरूपः। ‘इन्द्रो मायाभिः पुरुरूप ईयते’ इति श्रुतेः। ‘ज्योतींषि विष्णुर्भुवनानि विष्णुः’ इति श्रीविष्णुपुराणे। बृहन्महत् वराहादिरूपेण वसुधातलं विभ्रद्वराहरूपमस्येति बृहद्रूपः। शिपयः पशवः तेषु विशति प्रतितिष्ठति यज्ञरूपेणेति शिपिविष्टो यज्ञमूर्त्तिः। ‘यज्ञो
-
-
 
 **ओजस्तेजोद्युतिधरः प्रकाशात्मा प्रतापनः।  
 ऋद्धः स्पष्टाक्षरो मन्त्रश्चन्द्रांशुर्भास्करद्युतिः॥२७५-२८२॥४३॥  
@@ -2811,8 +2598,6 @@ A. A. S.
 
  भूतभव्यभवतां भूतग्रामाणां नाथः। तैः याच्यते तान्उपतपत्याशास्ते तेषामिष्ट इति भूतभव्यभवन्नाथः। पवत इति पवनः। ‘पवनः पवतामस्मि’ इति भगवद्वचनात्। पावयतीति पावनः। ‘भीषास्माद्वातः पवते’इति श्रुतेः। अनान् प्राणान् आत्मत्वेन लाति करोतीति
 
-
-
 **युगादिकृद् युगावर्त्तो नैकमायो महाशनः।  
 अदृश्यो व्यक्तरूपश्च सहस्रजिदनन्तजित्॥ ३००-३०७॥४६॥  
 इष्टोऽविशिष्टः शिष्टेष्टः शिखण्डी नहुषो वृषः।  
@@ -2833,8 +2618,6 @@ A. A. S.
  इति महाभारते। साधूनां क्रोधं हन्तीति क्रोधहा। असाधुषु क्रोधं करोतीति क्रोधकृत्। क्रियत इति जगत् कर्म्मजातंतस्य कर्त्ता।‘य एतेषां पुरुषाणां कर्त्ता यस्यवैतत् कर्म्मस वै वेदितव्यः’ इति श्रुतेः। क्रोधकृतां दैत्यादीनां कर्त्ता छेदक इत्येकं वा नाम। विश्वेषामालम्बनत्वेन विश्वे वाहवोऽस्येति विश्ववाहुः। ‘विश्वतो वाहुः’ इति श्रुतेः। महीं पूजां धरणीं वा धरतीति महीधरः॥४७॥
 
  अच्युत इति जायतेऽस्ति वर्द्धते परिणमते अपक्षीयते विनश्यतीति षड्भावविकाररहितत्वाद-
-
-
 
 **अपां निधिरधिष्ठानमप्रमत्तः प्रतिष्ठितः॥ ३१९-३२७॥४८॥  
 स्कन्दः स्कन्दधरो धुर्य्यो वरदो वायुवाहनः।  
@@ -2869,8 +2652,6 @@ A. A. S.
 
  शोकादिषडूर्म्मिवर्ज्जितोऽशोकः। संसारसागरात्तारयतीति तारणः। गर्भजन्मजरामृत्युलक्षणात् भयात् तारयतीति तारः। विक्रमवत्त्वया शूरः। शूरस्याऽपत्यं वसुदेवस्य सुतः शौरिः।
 
-
-
 **पद्मनाभोऽरविन्दाक्षः पद्मगर्भः शरीरभृत्।  
 महर्द्धिर्ऋृद्धोवृद्धात्मा महाक्षो गरुड़ब्धजः॥३४७-३५५॥५१॥  
 अतुलः शरभो भीमः समयज्ञो हविर्हरिः।  
@@ -2891,8 +2672,6 @@ A. A. S.
  इति भगवद्वचनात्। सर्व्वैर्लक्षणैः प्रमाणैः लक्षणं ज्ञानं दर्शनं वा जायते यत्तद्विनिर्द्दिष्टं सर्व्वलक्षणलक्षणम्। तत्र साधुः सर्व्वलक्षणलक्षण्यः। तस्यैव परमार्थत्वात्। लक्ष्मीरस्य वक्षसि नित्यं वसतीति लक्ष्मीवान्। समितिं युद्धं जयतीति समितिञ्जयः॥५२॥
 
  विगतः क्षरो विनाशोऽस्येति विक्षरः। स्वच्छन्दतया रोहितां मूर्त्तिं मत्स्यमूर्तिं वा वहन्
-
-
 
 **महीधरो महाभागो वेगवानमिताशनः॥ ३६५-३७४॥५३॥  
 उद्भवः क्षोभणो देवः श्रीगर्भः परमेश्वरः।  
@@ -2920,8 +2699,6 @@ A. A. S.
 
  सच्चिन्मयस्वरूपत्वाद्व्यवसायः। यस्मिन्नवस्थितः सर्व्वः स व्यवस्थानः। लोकपालाद्यधिकारजरायुजाखण्डजस्वेदजोद्भिज्ज-ब्राह्मणक्षत्रियवैश्यशूद्रावान्तरवर्णब्रह्मचर्य्यगार्हस्थ्यवानप्रस्थ-
 
-
-
 **रामो विरामो विरतो मार्गो नेयो नयोऽनयः।  
 वीरः शक्तिमतां श्रेष्ठो धर्म्मोधर्मविदुत्तमः॥३९६-४०४॥५६॥  
 वैकुण्ठः पुरुषः प्राणः प्राणदः प्रणवः पृथुः।  
@@ -2945,8 +2722,6 @@ A. A. S.
 
  इति शान्तिपर्व्वणि। सर्व्वस्मात् पुरा सदनात् सर्व्वपापस्य सादनात् वा पुरुषः। ‘स यत् पूर्व्वस्मात् सर्व्वान् पाप्मन औषत् तस्मात् पुरुषः’ इति श्रुतेः। पुरि शयनाद्वापुरुषः। ‘स वा अयं पुरुषः सर्व्वासु पुर्षु पुरि शयः’ इति श्रुतेः। प्राणिति क्षेत्रज्ञरूपेण प्राणात्मना चेष्ट-
 
-
-
 **ऋतुः सुदर्शनः कालः परमेष्ठौ परिग्रहः।  
 उग्रः संवत्सरो दक्षो विश्रामो विश्वदक्षिणः॥४१६-४२५॥५८॥  
 विस्तारः स्थावरस्थाणुः प्रमाणं वीजमव्ययम्।  
@@ -2968,8 +2743,6 @@ A. A. S.
  कालात्मना ऋतुशब्देन लक्ष्यत इति ऋृतुः। शोभनं निर्वाणफलं दर्शनं ज्ञानमस्येति शुभे दर्शने ईक्षणे पद्मपत्रायते स्वेच्छया देहवतः इति सुखेन दृश्यते भक्तैरिति वा सुदर्शनः। कलयति सर्व्वमिति कालः। ‘कालःकलयतामहम्’ इति भगवद्वचनात्। परमे उत्कृष्टे स्वमहिम्नि ‘हृदयाकाशे स्थातुं’ शीलमस्येति परमेष्ठी। ‘परमेष्ठी विभ्राजते’ इति मन्त्रवर्णात्। शरणार्थिभिः परितो गृह्यते सर्व्वगतत्वात् परितो जायत इति वा। पुष्पादिकं भक्तैरर्पितं परिगृह्णाति इति वा परिग्रहः। उग्रः सूर्य्यादीनामपि भयहेतुत्वात्। ‘भीषास्माद्वातः पवते भीषोदेति सूर्य्यः’ इति श्रुतेः। संवसन्ति भूतान्यस्मिन्निति संवत्सरः। जगद्रूपेण प्रवर्त्तमानत्वात् सर्व्वकर्म्माणि क्षिप्रं करोतीति वा दक्षः। संसारसागरे क्षुत्पिपासादिभिः षड्भिरूर्म्मिभिस्तरङ्गिते अविद्याद्यैः महाक्लेशैर्मदादिभिरुपक्लेशैश्च वशीकृतानां विश्रान्तिकाङ्क्षिणां विश्रामं मोक्षं करोतीति विश्रामः। विश्वस्माद्दक्षिणः शक्तः। विश्वेषु कर्म्मसु दाक्षिण्याद्वाविश्वदक्षिणः॥५८॥
 
  विस्तीर्य्यन्ते समस्तानि जगन्त्यस्मिन्निति विस्तारः। स्थितिशीलत्वात् स्थावरः स्थितिशीलानि पृथिव्यादीनि तस्मिन् तिष्ठन्तीति स्थाणुः स्थावरश्चासौ स्थाणुश्चेति स्थावरस्थाणुः। संविदात्मना प्रमाणम् प्रत्यक्षादिप्रमाणं वा। अन्यथाभावव्यतिरेकेण कारणमिति बीजमव्ययम्। सविशेषणमेकं नाम। सुखरूपत्वात् सर्व्वैरर्थ्यत इति अर्थः। न विद्यते प्रयोजनमाप्तकामत्वात्
-
-
 
 **अनिर्व्विणः स्थविष्ठोऽभूर्धर्म्मयूपो महामखः।  
 नक्षत्रवनेमिर्नक्षत्रीक्षमः क्षामः समीहनः॥४३५-४४४॥६०॥  
@@ -2995,8 +2768,6 @@ A. A. S.
  इति श्रीहरिवंशे। सर्व्वासु देवतासु यष्टव्यासु प्रकर्षेणाऽयमेव यष्टव्यो मोक्षफलदातृत्वादिति महेज्यः। यूपसहितो यज्ञः अयूपः क्रतुः॥ असनोपचायिचोदनालक्षणं[^4] सत्रम्। सतस्त्रायत इति वा। सतां मुमुक्षूणां सामान्या गतिरिति सतां गतिः। सर्ब्बषां प्राणिनां कृताकृतं सर्व्वं पश्यति स्वाभाविकेन बोधेनेति सर्व्वदर्शी। स्वभावेन विमुक्त आत्मा यस्य इति विमुक्तश्चावात्मा चेति वा विमुक्तात्मा। ‘विमुक्तश्च विमुच्यते’ इति श्रुतेः। सर्व्वश्वासौ ज्ञश्चेति सर्व्वज्ञः। ‘इदं सर्व्वं यदयमात्मा’ इति श्रुतेः। ज्ञानमुत्तममिति सविशेषणमेकं नाम। ज्ञानं प्रकृष्टमजन्यमनवच्छिन्नं सर्व्वस्य साधकमिति ज्ञानमुत्तमं ब्रह्म। ‘सत्यं ज्ञानमनन्तं ब्रह्म’ इति श्रुतेः॥६१॥
 
 [^4]: " आसत्युपैति।"
-
-
 
 **सुव्रतः सुमुखःसूक्ष्मः सुघोषः सुखदः सुहृत्।  
 मनोहरोजितक्रोधो वीरवाहुर्विदारणः॥४५५-४६४॥६२॥  
@@ -3026,8 +2797,6 @@ A. A. S.
 
  धर्म्मान् गोपयतीति धर्म्मगुप्। ‘धर्म्मसंस्थापनार्थाय संभवामि युगे युगे’ इति भगवद्वचवनात्।
 
-
-
 **अविज्ञाता सहस्रांशुर्विधाता कृतलक्षणः॥४७५-४८५॥६४॥  
 गभस्तिनेमिः सत्त्वस्थः सिंहो भूतमहेश्वरः।  
 आदिदेवो महादेवो देवेशो देवभृद्गुरुः॥४८६-४९३॥६५॥  
@@ -3051,8 +2820,6 @@ A. A. S.
 
  जन्मसंसारबन्धनादुत्तरतीत्युत्तरः। सर्व्वोत्कृष्ट इति वा उत्तरः। ‘विश्वस्मादिन्द्र उत्तरः’ इति श्रुतेः। गवां पालनाद्गोपवेशधरो गोपतिः। गौर्मही तस्याः पतिर्वा गोपतिः। समस्त-
 
-
-
 **सोमपोऽमृतपः सोमः पुरुजित् पुरुसत्तमः।  
 नयो जयः सत्यसन्धो दाशार्हः सात्त्वतां पतिः॥५०३-५१२॥६७॥  
 जीवो विनयितासाक्षी मुकुन्दोऽमितविक्रमः।  
@@ -3065,8 +2832,6 @@ A. A. S.
  सोमं पिवति सर्व्वयज्ञेषु यष्टव्यदेवतारूपेण इति सोमपः। धर्ममर्य्यादां दर्शयन् यजमानरूपेणेति वा सोमपः। स्वात्मामृतरसं पिवन्नमृतपः। मथितम् अमृतमसुरैः ह्रियमाणं रक्षित्वा देवान् पाययित्वा स्वयमप्यपिवदिति वा अमृतपः। सोमरूपेणौषधीः पोषयन् सोमः। उमया सह वर्त्तत इतीश्वरो वा सोमः। पुरून् बहून् जयतीति पुरुजित्। विश्वरूपत्वात् पुरुः। उत्कृष्टत्वाच्च सत्तमः पुरुश्चासौ सत्तमश्चेति पुरुसत्तमः। नयं दण्डं दुष्टानां करोतीति नयः। सर्व्वाणि भूतानि जयतीति जयः। सत्या सन्धा सङ्कल्पोऽस्येति सत्यसन्धः। ‘सत्यसङ्कल्पः’ इति श्रुतेः। दाशो दानं तमर्हतीति दाशार्हः। ‘दाशदान’ इति धातुपाठः। दयार्हकुलोद्भवाद्वा। सात्त्वतं नाम तन्त्रं‘तत् करोति तदाचष्टे’ इति णिचि कृते क्विप्प्रत्यये णिच्लोपे च कृते पदं सात्त्वत् तेषां पतिर्योगक्षेमकर इति सात्त्वतां पतिः॥६७॥
 
  प्राणान् क्षेत्रज्ञरूपेण धारयतीति जीवः। विनयित्वं विनयिता तां च साक्षात् पश्यति प्रजानामिति विनयितासाक्षी। अथवा नयतेर्गतिवाचिनो रूपं विनयिता । असाक्षी असाक्षात् द्रष्टा आत्मातिरिक्तं वस्तु न पश्यतीति असाक्षी। मुकुं मुक्तिं ददातीति मुकुन्दः। पृषोदरादित्वात् साधुत्वम्। अक्षरसाम्यात् निरुक्तिवचनात् नैरुक्तानां मुकुन्द इति निरुक्तिः। अमिता अपरिच्छिन्ना विक्रमास्त्रयः पादविक्षेपा अस्य अमितविक्रमः। अमितं विक्रमणं शौर्य्यमस्येति वा अमितविक्रमः। देवादयःअम्भांस्यस्मिन्निधीयन्त इति अम्भोनिधिः। ‘तानि वा एतानि चत्वार्य्यम्भांसि देवा मनुष्याः पितरोऽसुराः’ इति श्रुतेः। सागरो वा। ‘सरसामस्मि सागरः’ इति भगवद्वचनात्। देशतः कालतो वस्तुतश्चापरिच्छिन्नस्वरूपत्वात् अनन्तात्मा। संहृत्य सर्व्वभूतान्येकार्णवं जगत्कृत्वाऽधिशेते महोदधिमिति महोदधिशयः। अन्तं करोति
-
-
 
 **अजो महार्हः स्वाभाव्यो जितामित्रः प्रमोदनः।  
 आनन्दो नन्दनो नन्दः सत्यधर्म्मात्रिविक्रमः॥ ५२२-५३०॥६९॥  
@@ -3086,8 +2851,6 @@ A. A. S.
  महर्षिः कपिलाचार्य्य इति सविशेषणमेकं नाम। महांश्चासावृषिश्चेति महर्षिः। कृत्स्नस्य वेदस्य दर्शनात्। अन्ये तु वेदैकदेशदर्शनात् ऋषयः। कपिलश्चासौ सांख्यस्य शुद्धात्मतत्त्वविज्ञानस्याचार्य्यश्चेति कपिलाचार्य्यः। ‘शुद्धात्मतत्त्वविज्ञानं सांख्यमित्यभिधीयते’ इति व्यासस्मृतेः। ‘ऋषि प्रसूतं कपिलं महान्तम्’ इति श्रुतेः। ‘सिद्धानां कपिलो मुनिः’ इति स्मृतेश्च। कृतं कार्य्यंजगत्। ज्ञ आत्मा। कृतञ्च तत् ज्ञश्चेति कृतज्ञः। मेदिन्या भूम्याः पतिर्मेदिनीपतिः। त्रीणि पदान्यस्येति त्रिपदः। ‘त्रीणि पदा विचक्रमें’ इति मन्त्रवर्णात्। गुणावेशेन सञ्जातास्त्रिस्रो दशा अवस्था जाग्रदादयः तासामध्यक्ष इति त्रिदशाध्यक्षः। मत्स्यरूपी महति शृङ्गे प्रलयाम्भोधौ नावं वद्ध्वा चिक्रीड़ इति महाशृङ्गः। कृतस्यान्तं संहारं करोतीति कृतान्तकृत्। कृतान्तं मृत्युंकृन्ततीति वा कृतान्तकृत्॥७०॥
 
  महांश्चासौ वराहश्चेति महावराहः। महावरान् हिरण्याक्षादीन् हतवानिति वा।
-
-
 
 **गुह्यो गभीरो गहनो गुप्तश्चक्रगदाधरः॥५३९-५४७॥७१॥  
 वेधाः स्वाङ्गोऽजितः कृष्णो दृढ़ः सङ्कर्षणोऽच्युतः।  
@@ -3116,8 +2879,6 @@ A. A. S.
 
  इति विष्णुपुराणे। ऐश्वर्य्यादिकं संहारकाले हन्तीति भगहा। सुखस्वरूपत्वात् आनन्दी। सर्व्वाभिः सम्पद्भिः समृद्धत्वाद्वाऽऽनन्दी। भूततन्मात्ररूपां वैजयन्त्याख्यां वनमालां वहन्
 
-
-
 **सुधन्वा खण्डपरशुर्दारुणो द्रविणप्रदः।  
 दिवःस्पृक् सर्व्वदृग्व्यासो वाचस्पतिरयोनिजः॥ ५६८-५७६॥७४॥  
 त्रिसामा सामगः साम निर्व्वाणं भेषजं भिषक्।  
@@ -3138,8 +2899,6 @@ A. A. S.
 
  इति स्मृतेः। ‘तत्करोति तदाचष्टे’ इति णिचि कृते पचाद्यचि रूपं शम इति। सर्व्वभूतानां शमयितेति वा शमः। विषयसुखेष्वसङ्गतया शान्तः। ‘निष्कलं निष्क्रियं शान्तम्’ इति श्रुतेः। प्रलयकाले नितरां तत्रैव तिष्ठन्ति भूतानीति निष्ठा। समस्ताविद्यानिवृत्तिः शान्तिः। सा ब्रह्मैव परमुत्कष्टमयनं स्थानं पुनरावृत्तिशङ्कारहितम् इति परायणम्। पुंलिङ्गपक्षे बहुव्रीहिः॥७५॥
 
-
-
 **शुभाङ्गः शान्तिदः स्रष्टा कुमुदः कुवलेशयः।  
 गोहितो गोपतिर्गोप्ता वृषभाक्षो वृषप्रियः॥ ५८६-५६५॥७६॥  
 अनिवर्त्ती निवृत्तात्मा संक्षेप्ता क्षेमकृच्छिवः।  
@@ -3154,8 +2913,6 @@ A. A. S.
  देवासुरादिसंग्रामान्न निवर्त्तत इत्यनिवर्त्ती। वृषप्रियत्वात् धर्म्मान्न निवर्त्तत इति वा। स्वभावतो विषयेभ्यो निवृत्त आत्मा यस्येति निवृत्तात्मा। संहारकाले विस्तृतं जगत् सूक्ष्मरूपेण संक्षिपन् संक्षेप्ता। तापार्त्तस्य रक्षणं क्षेमं करोतीति क्षेमकृत्। स्वनामस्मृतिमात्रेण कल्याणकरत्वात् शिवः। श्रीवत्सलक्षणं चिह्नम् अस्य वक्षसि स्थितमिति श्रीवत्सवक्षाः। अस्य वक्षसि श्रीरनपायिनी वसतीति श्रीवासः। अमृतमन्थने सर्व्वान् सुरासुरादीन् विहाय श्रीः एनं पतित्वेन वरयामासेति श्रीपतिः। श्रीःपराशक्तिस्तस्याः पतिरिति वा श्रीपतिः। ‘परास्य शक्तिर्ब्बिविधैव श्रूयते स्वाभाविकीज्ञानवलक्रिया च’ इति श्रुतेः। विरिञ्च्यादीनां श्रीमतां ऋग्यजुःसामलक्षणा श्रीःसा येषां तेषां वा प्रधानभूत इति श्रीमतां वरः। ‘ऋचः सामानि यजूंषि सा हि श्रीरमृता सताम्’इति श्रुतेः॥७७॥
 
  श्रियं भक्तानां ददातीति श्रीदः। श्रिय ईशः श्रीशः। श्रीमत्सु नित्यं वशतीति श्रीनिवासः। श्रीशब्देन श्रीमन्तो लक्ष्यन्ते। सर्व्वशक्तिमये अस्मिन् अखिलाः श्रियो निधीयन्त इति श्रीनिधिः।
-
-
 
 **स्वक्षः स्वङ्गः शतानन्दो नन्दिर्ज्योतिर्गणेश्वरः।  
 विजितात्माऽविधेयात्मा सत्कीर्त्तिश्छिन्नसंशयः॥६१५-६२३॥७९॥  
@@ -3173,8 +2930,6 @@ A. A. S.
  सर्व्वभूतेभ्यः समुद्रिक्तत्वात् उदीर्णः। सर्व्वतः सर्व्वं स्वचैतन्येन पश्यतीति सर्व्वतश्चक्षुः। ‘विश्वतश्चक्षुः’ इति श्रुतेः। न विद्यते यस्येशः सोऽनीशः। ‘न तस्येशः कश्चन’ इति श्रुतेः। शश्वद्भवन्नपि न विक्रियां कदाचिदुपैतीति शाश्वतस्थिरः इति नामैकम्। लङ्कां प्रति मार्गमन्विष्यमाणः सागरोपान्ते भूमौ शेत इति भूशयः। स्वेच्छयाऽवतारैर्बहुभिर्भूमिं भूषयन् भूषणः। भूतिः भवनं सत्ता विभूतिरिति वा समस्तविभूतीनांकारणत्वाद्वा भूतिः। विगतः शोकोऽस्य परमानन्दैकरूपत्वादिति विशोकः।स्मरणमात्रेण भक्तानां शोकं नाशयतीति शोकनाशनः॥८०॥
 
  यदीयेनार्च्चिषा चन्द्रसूर्य्यादयो ज्योतिष्मन्तः स एव मुख्योऽर्च्चिष्मान्। सर्व्वलोकार्च्चितैर्व्विरिञ्च्यादिभिरर्च्चितः इत्यर्च्चितः। कुम्भवत्तस्मिन् सर्व्वं प्रतिष्ठितमिति कुम्भः। गुणत्रयातीततयाविशुद्धश्चासावात्मेति विशुद्धात्मा। स्मृतिमात्रेण पापानां क्षपणात् विशोधनः। चतुर्व्यूहेषु चतुर्थो व्यूहः अनिरुद्धः। न विरुद्ध्यते शत्रुभिः कदाचित् इति वा। प्रतिरथः प्रति-
-
-
 
 **कालनेमिनिहा वीरः शौरिः शूरजनेश्वरः।  
 त्रिलोकात्मा त्रिलोकेशः केशवः केशिहा हरिः॥६४२-६५०॥८२॥  
@@ -3207,8 +2962,6 @@ A. A. S.
 गन्धर्व्वाप्सरसः सिद्धाः किन्नरोरगचारणाः।  
 नान्तं गुणानां गच्छन्ति तेनानन्तोऽयमव्ययः॥
 
-
-
 **ब्रह्मण्यो ब्रह्मकृद् ब्रह्मा ब्रह्म ब्रह्मविवर्द्धनः।  
 ब्रह्मविद् ब्राह्मणो ब्रह्मीब्रह्मज्ञो ब्राह्मणप्रियः॥६६१-६७०॥८४॥  
 महाक्रमो महाकर्म्मा महातेजा महोरगः।  
@@ -3237,8 +2990,6 @@ A. A. S.
 
  इति भगवद्वचनात्। स्थैर्य्यशौर्य्यादिभिः धर्म्मैर्महद्भिः समलङ्कृत इति वा महातेजाः। महांश्चासावुरगश्चेति महोरगः। ‘सर्पाणामस्मि वासुकिः’इति भगवद्वचनात्। महांश्चासौ क्रतुश्चेति महाक्रतुः। ‘यथाऽश्वमेधः क्रतुराट्’इति मनुवचनात्। सोऽपि स एवेति स्तुतिः। महांश्चासौ यज्वा चेति लोकसंग्रहार्थं यज्ञान् प्रवर्त्तयन् महायज्वा। महांश्वासौ यज्ञश्चेति महायज्ञः। ‘यज्ञानां जपयज्ञोऽस्मि’इति भगवत्वचनात्। महच्च तद्धरिश्चेति सर्ब्बजगत्तदात्मतया ह्रियत इति महाहरिः। महात्मतया ह्रियत इति वा महाहरिः। महाहविः इति
 
-
-
 **स्तव्यः स्तवप्रियः स्तोत्रं स्तुतिः स्तोता रणप्रियः।  
 पूर्णः पूरयिता पुण्यः पुण्यकीर्त्तिरनामयः॥६७६-६८६॥८६॥  
 मनोजवस्तीर्थकरो वसुरेता वसुप्रदः।  
@@ -3263,8 +3014,6 @@ A. A. S.
 
  ‘अस्ति ब्रह्मेति चेद्वेद सन्तमेनं ततो विदुः’इति श्रुतेः ब्रह्मास्तीति ये विदुस्ते सन्तः तैः प्राप्यत इति सद्गतिः। सती गतिः बुद्धिर्वा उत्कृष्टा साऽस्येति वा सद्गतिः। सतो कृतिः जगदुत्पत्त्यादिलक्षणा अस्य यस्मात्तेन सत्कृतिः। सजातीयविजातीयस्वगतभेदरहिता अनुभूतिः
 
-
-
 **भूतावासो बासुदेवः सर्व्वासुनिलयोऽनलः।  
 दर्पहादर्पदो दृप्तो दुर्द्धरोऽथापराजितः॥७०८-११६॥८९॥  
 विश्वमूर्त्तिर्महामूर्त्तिर्दीप्तमूर्त्तिरमूर्त्तिमान्।  
@@ -3285,8 +3034,6 @@ A. A. S.
 
  विश्वं मूर्त्तिरस्य सर्व्वात्मकत्वादिति विश्वमूर्त्तिः। शेषपर्य्यङ्कशायिनोऽनिरुद्धस्य महती मूर्त्तिरिति महामूर्त्तिः। दीप्ता ज्ञानमयीमूर्त्तिः यस्येति स्वेच्छया गृहीता तैजसीमूर्त्तिर्दीप्ता अस्येति वा दीप्तमूर्त्ति। कर्म्मनिबन्धना मूर्त्तिरस्य न विद्यत इत्यमूर्त्तिमान्। अवतारेषु स्वेषु या लोकानामुपकारिणीः वह्वीःमूर्तीर्भजत इत्यनेकमूर्त्तिः। यद्यप्यनेकमूर्त्तिस्तथापि अयमीदृश इति न व्यज्यते इति अव्यक्तः। नानाविकल्पजा मूर्त्तयः संविदाकृतेः सन्तीति शतमूर्त्तिः। विश्वादिमूर्त्तित्वं यतोऽस्य अतः शताननः॥८०॥
 
-
-
 **एको नैकः सवः कः किं यत्तत्पदमनुत्तमम्।  
 लोकवन्धुर्लोकनाथो माधवो भक्तवत्सलः॥७२५-७३५॥९१॥  
 सुवर्णवर्णो हेमाङ्गो वराङ्गश्चन्दनाङ्गदी।  
@@ -3302,8 +3049,6 @@ A. A. S.
 
  अनात्मवस्तुष्वात्माभिमानो नास्ति अस्य स्वच्छसंवेदनाकृतेरित्यमानी। स्वमायया
 
-
-
 **तेजोवृषो द्युतिधरः सर्व्वशस्त्रभृतां वरः।  
 प्रग्रहो निग्रहो व्यग्रो नैकशृङ्गो गदाग्रजः॥ ७५६-७६४॥६४॥  
 चतुर्मूर्त्तिश्चतुर्व्वाहुञ्चतुर्व्यूहश्चतुर्गतिः।  
@@ -3316,8 +3061,6 @@ A. A. S.
  तेजसा अम्भांसि सर्व्वदा आदित्यरूपेण वर्षतीति तेजोवृषः। द्युतिमङ्गगतां कान्तिं धरतीति द्युतिधरः। सर्व्वशस्त्रभृतां वरः श्रेष्ठ इति सर्व्वशस्त्रभृतां वरः। भक्तैरुपहृतं पत्रपुष्पादिकं प्रगृह्णातीति प्रग्रहः। धावतो विषयारण्ये दुर्द्दान्तेन्द्रियवाजिनः तत्प्रसादेन रश्मिनेव वध्नातीति वा प्रग्रहः। ‘रश्मौ च’इति पाणिनिमुनिवचनात् प्रग्रहशब्दस्य साधुत्वम्। स्ववशेन सुरारीन् सर्व्वान् निगृह्णातीति निग्रहः। विगतम् अग्रम् अन्तो विनाशोऽस्येति व्यग्रः। भक्तानाम् अभीष्टप्रदाने व्यग्र इति वा। चतुःशृङ्गत्वान्नैकशृङ्गः। ‘चत्वारि शृङ्गा त्रयोऽस्य पादा’ इति मन्त्रवर्णात्। निगदेन मन्त्रेण अग्रे जायत इति निशब्दलोपं कृत्वा गदाग्रजः। यद्वागदो नाम वसुदेवस्याग्रजः तस्मादग्रे जायत इति गदाग्रजः॥९४॥
 
  चतस्रो मूर्त्तयो विराट्सूत्राव्याकृततुरीयात्मानोऽस्येति चतुर्मूर्त्तिः। सिता रक्ता पीता कृष्णा चेति चतस्रो मूर्त्तयोऽस्येति वा। चत्वारो बाहवोऽस्येति चतुर्बाहुः इति नाम वासुदेवे रूढ़म्। ‘शरीरपुरुषश्छन्दः पुरुषो वेदपुरुषो महापुरुषः’इति वह्वृचोपनिषदुक्ताश्चत्वारः पुरुषा व्युहा अस्येति चतुर्व्यूहः। आश्रमाणां वर्णानां चतुणांयथोक्तकारिणांगतिश्चतुर्गतिः। रागद्वेषादिरहितत्वात् चतुरः आत्मा मनः यस्य मनोवुद्धिरङ्गारश्चित्तञ्चेति अन्तःकरणचतुष्टयं आत्मा यस्येति वा स चतुरात्मा। धर्म्मार्थकाममोक्षाख्यं पुरुषार्थचतुष्टयं मवत्युत्पद्यते यस्मादिति चतुर्भावः। चतुरो वेदान् वेत्तीति चतुर्व्वेदवित्। प्रपञ्चलक्षण एकः पादो विभूत्यंशरूपोऽस्येति एकपात्। ‘पादोऽस्य विश्वा भूतानि’ इति श्रुतेः। 'विष्टभ्याऽहमिदं कृत्स्नमेकांशेन स्थितो जगत्’इति भागवद्वचनात् ॥९५॥
-
-
 
 **समावर्त्तोऽनिवृत्तात्मा दुर्ज्जयो दुरतिक्रमः।  
 दुर्ल्लभो दुर्गमो दुर्गोदुरावासो दुरारिहा॥ ७७३-७८१॥९६॥  
@@ -3340,8 +3083,6 @@ A. A. S.
  शोभनैरङ्गैः ध्येयत्वात् शुभाङ्गः। लोकानां सारं सारङ्गवत् भृङ्गवद् गृह्णातीति लोकसारङ्गः। ‘प्रजापतिः लोकानभ्यतपत्' इति श्रुतेः। लोकसारः प्रणवः तेन प्रतिपत्तव्य इति वा। पृषोदरादित्वात् साधुत्वम्। शोभनस्तन्तुर्विस्तीर्णः प्रपञ्चोऽस्येति सुतन्तुः। तन्तु वर्द्धयति छेदयतीति वा तन्तुवर्द्धनः। इन्द्रस्य कर्म्मैव कर्म्म अस्येति इन्द्रकर्म्माऐश्वर्य्यकर्म्मेत्यर्थः। महान्ति वियदादीनि भूतानि कर्म्माणि कार्य्याण्यस्येति महाकर्म्मा। कतमेव सर्व्वंन कर्त्तव्यं किञ्चित् कर्म्म अस्य विद्यत इति कृतकर्म्मा। धर्मात्मकं कर्म्म कृतवानिति वा कृतकर्म्मा। कृतो वेदात्मक आगमो येनेति कृतागमः। ‘अस्य महतो भूतस्य निःश्वसितमेतत्’ इति श्रुतेः॥९७॥
 
  उत्कष्टं भवं जन्म स्वेच्छया भजति इति उद्भवः। उद्गतमपगतं जन्माऽस्य समस्तकारणत्वादिति वा उद्भवः। विश्वातिशायिसौभाग्यशालित्वात् सुन्दरः। सुष्ठु उनत्तीति सुन्दः। उदी क्लेदने इत्यस्य धातोः पचाद्यच्। आर्द्रीभावस्य वाचकः सुन्दः करुणाकरः इत्यर्थः। पृषोदरादित्वात् पररूपत्वम्। रत्नवत्सुन्दरा नाभिरस्येति रत्ननाभः। रत्नशब्देनात्र शोभा लक्ष्यते। शोभनं
-
-
 
 **सुवर्णविन्दुरक्षोभ्यः सर्व्ववागीश्वरेश्वरः।  
 महाह्रदो महागर्त्तो महाभूतो महानिधिः॥८००-८०६॥९९॥  
@@ -3367,8 +3108,6 @@ A. A. S.
 यः कार्त्तवीर्य्यस्य स भार्गवोत्तमो ममास्तु माङ्गल्यविवृद्धये हरिः॥ इति विष्णुधर्म्मे।**
 
  पर्ञ्जन्यवदाध्यात्मिकादितापत्रयं शमयति सर्व्वकामानभिवर्षतीति वा पर्ज्जन्यः। स्मृतिमात्रेण पुनातीति पावनः। इलति प्रेरणं करोतीति इलः तद्रहितत्वादनिलः। इलति
-
-
 
 **सुलभः सुव्रतः सिद्धः शत्रुजिच्छत्रुतापनः।  
 न्यग्रोधोदुम्बरोऽश्वत्थश्चागुरान्ध्रनिषूदनः॥८१७-८२५॥१०१॥  
@@ -3401,8 +3140,6 @@ A. A. S.
 काली कराली च मनोजवा च सुलोहिता या च सुधूम्रवर्ण।  
 स्फुलिङ्गिनी विश्वरुची च देवी लेलायमाना इति सप्तजिह्वाः॥इति॥
 
-
-
 **अणुर्बृहत् कृशः स्थूलो गुणभृन्निर्गुणो महान्।  
 अधृतः स्वधृतः स्वास्यः प्राग्वंशो वंशवर्द्धनः॥८३५-८४६॥१०३॥  
 भारभृत् कथितो योगी योगीशः सर्व्वकामदः।  
@@ -3420,8 +3157,6 @@ A. A. S.
  सौक्ष्म्यातिशयशालित्वात् अणुः। ‘एषोऽणुरात्मा चेतसा वेदितव्यः’ इति मन्त्रवर्णात्। बहुत्त्वात् बृंहणत्वाच्च बृहत् ब्रह्म। ‘अणोरणीयान् महतो महीयान्’ इति श्रुतेः। अस्थूलमित्यादिना द्रव्यत्वप्रतिषेधात् कृश इव कृश स्थूल इव स्थल इत्युपचर्य्यते सर्व्वात्मत्वात्। सत्त्वरजस्तमसां सृष्टिस्थितिप्रलयकर्म्मस्वधिष्ठातृत्वात् गुणभृत्। परमार्थतो गुणाभावान्निर्गुणः।‘साक्षी चेताः केवलो निर्गुणश्च’ इति श्रुतेः। शब्दादिगुणहीनत्वात् निरतिशयसूक्ष्मत्वात् नित्यशुद्धबुद्धसर्व्वगतत्वात् प्रतिबन्धकं कर्म्मजातं तर्कतोऽपि यतो वक्तुं न शक्यम् अतएव महान्। ‘अशब्दोऽस्पर्शोऽनङ्गोऽशरीरीमहांश्च शुचिः’ इति आपस्तम्बः। पृथिव्यादीनां धारकाणां धारकत्वात् न केनापि ध्रियत इति अधृतः। यद्येवमयं केन धार्य्यते इत्याशङ्क्याह स्वेनैव आत्मना धार्य्यत इति स्वधृतः। ‘स भगवः कस्मिन् प्रतिष्ठितः स्वमहिम्नि’ इति श्रुतेः। शोभनं पद्मोदरताम्रवदभिरूपमस्य आस्यमिति स्वास्यः। स्वो वेदात्मको महान् शब्दराशिः तस्य मुखान्निर्गतः पुरुषार्थोपदेशार्थमिति वा स्वास्यः। ‘वेदा अस्य महतो भूतस्य निश्वसितम्’ इति श्रुतेः।अन्यस्य वंशिनो वंशा पाश्चात्याः। अस्य वंशः प्रपञ्चः प्रागेव न पाश्चात्य इति प्राग्वंशः। वंशं प्रपञ्चं बर्द्धयन् छेदयन् वा वंशवर्द्धनः॥ १०३ ॥
 
  अनन्तादिरूपेण भुवो भारं विभ्रत् भारभृत्। वेदादिभिरेवायं परत्वेन कथितः। सर्व्वैःवेदेः कथित इति वा कथितः। ‘सर्व्वेवेदा यत्पदमामनन्ति’। ‘वेदैश्चसर्व्वैरहमेव वेद्यः’।
-
-
 
 **धनुर्द्धरो धनुर्व्वेदो दण्डो दमयिता दमः।  
 अपराजितः सर्व्वसहो नियन्ताऽनियमोऽयमः॥८५७-८६६॥१०५॥  
@@ -3441,8 +3176,6 @@ A. A. S.
 
 यद्यदिष्टतमं लोके यञ्च्चाऽस्य दयितं गृहे।  
 तत्तद्गुणवते देयंतदेवाऽक्षयमिच्छता।
-
-
 
 **विहायसगतिर्ज्ज्योतिः सुरुचिर्हुतभुग्विभुः।  
 रविर्विरोचनः सूर्य्यः सविता रविलोचनः॥८७६-८८५॥१००॥  
@@ -3464,8 +3197,6 @@ A. A. S.
  नित्यत्वात् सर्व्वगतत्वात् देशकालपरिच्छेदाभावात् अनन्तः। शेषरूपो वा। हुतं भुनक्तीतिहुतभुक्। प्रकृतिं भोग्यां तच्चेतसा अचेतनां भुङ्क्ते इतिजगत् पालयतीति वा भोक्ता। भक्तानां सुखं मोक्षलक्षणं ददातीति सुखदः। असुखं द्यति खण्डयतीति वा असुखदः। धर्म्मगुप्तयेअसकृज्जायमानत्वात् नैकजः अनेकजः। अग्रे जायत इत्यग्रजः हिरण्यगर्भः। ‘हिरण्यगर्भः समवर्त्तताग्रे’ इति श्रुतेः। अवाप्तसर्व्वकामत्वात् प्राप्तिहेतुत्वाभावात् निर्व्वेदोऽस्य नास्तीति अनिर्व्विण्णः। सतः साधून् आभिमुख्येन मृष्यते क्षमत इति सदामर्षी। तमनाधारमाधारमधिष्ठाय त्रयो लोकस्तिष्ठन्तीति लोकाधिष्ठानं ब्रह्म। अद्भुतत्वादद्भुतः। ‘श्रवणायापि वहुभिर्योन लभ्यः शृण्वन्तोऽपि बहवो यं न विद्युः। आश्चर्य्योवक्ता कुशलोऽस्य लब्धा आश्चर्य्योज्ञाता कुशलानुशिष्टः’ इति श्रुतेः। ‘आश्चर्य्यवत् पश्यति कश्चिदेनम्’ इति भगद्वचनात्। स्वरूपशक्तिव्यापारकार्य्यैरद्भुतत्वादद्भुतः॥१०८॥
 
  सनादिति निपातः चिरार्थवचनः। कालश्च परस्यैव विकल्पना कापि।
-
-
 
 **स्वस्तिदः स्वस्तिकृत् स्वस्ति स्वस्तिभुक् स्वस्तिदक्षिणः॥८९६-९०९॥१०६॥  
 अरौद्रः कुण्डलीचक्रीविक्रम्यूर्ज्जितशासनः॥  
@@ -3503,8 +3234,6 @@ A. A. S.
 
  इत्यादि श्रुतिस्मृतिभ्यः। तमेव सर्व्वेवेदास्तात्पर्य्येण वदन्तीति शब्दसहः। ‘सर्व्वेवेदा यत्पदमामनन्ति’ ‘वेदैश्च सर्व्वैरहमेव वेद्यः’ इति श्रुतिस्मृतिभ्याम्। तापत्रयाभितप्तानां विश्राम
 
-
-
 **अक्रूरः पेशलो दक्षो दक्षिणः क्षमिणां वरः।  
 विद्वत्तमो वीतभयः पुण्यश्रवणकीर्त्तनः॥९१५-९२२॥१११॥  
 उत्तारणोदुष्कृतिहा पुण्यो दुःस्वप्ननाशनः।**
@@ -3533,8 +3262,6 @@ A. A. S.
 जिह्वोपस्थनिमित्तं हि पतनं सर्व्वदेहिनाम्॥  
 तस्मादमित्रवत् कुर्य्यात् जिह्वोपस्थञ्च नित्यशः।  
 सुवर्णरौप्यपात्रेषु ताम्रकांश्यायसेऽपि च॥
-
-
 
 **वीरहा रक्षणः सन्तो जीवनः पर्य्यवस्थितः॥९२३-९३१॥११२॥  
 अनन्तरूपोऽनन्तश्रौर्जितमन्युर्भयापहः।  
@@ -3584,8 +3311,6 @@ A. A. S.
 
  अनन्तादिरूपेण विश्वप्रपञ्चरूपेण स्थितश्चेति अनन्तरूपः। अनन्ता अपरिमिता श्रीः पराशक्तिरस्येति अनन्तश्रीः। ‘पराऽस्य शक्तिर्व्विविधैव श्रूयते’ इति श्रुतेः। मन्युः कोपो जितो येन स जितमन्युः।भयं संसारजं पुंसाम् अपघ्नन् भयापहः। न्यायसमवेतः चतुरस्रः पुंसां कर्म्मानुरूपं फलं प्रयच्छतीति। आत्मा स्वरूपं चित्तं वा गभीरं परिच्छेत्तुमशक्यमस्येति गभी-
 
-
-
 **अनादिर्भूर्भुवो लक्ष्मीः सुवीरो रुचिराङ्गदः।  
 जननो जनजन्मादिर्भीमो भीमपराक्रमः॥९४१-९४९॥११४॥  
 आधारनिलयोऽधाता पुष्पहासः प्रजागरः।  
@@ -3602,8 +3327,6 @@ A. A. S.
  पृथिव्यादीनां पञ्चभूतानामाधरभूतानामाधारत्वात् आधारनिलयः। आत्मना धृतस्याऽन्यो धाता नास्तीति अधाता। ‘न द्युतश्च’ इति समासान्तविधेरनित्यत्वात् कप्रत्ययाभावः। संहारसमये सर्व्वाः प्रजा धयति पिवतीति वा धाता। धेट्पाने इति धातुः। मुद्रणावस्थितानां पुष्पाणां हासवत् प्रपञ्चरूपेण विकासोऽस्येति पुष्पहासः। नित्यप्रवुद्धस्वभावत्वात् प्रकर्षेण जागर्त्ति प्रजागरः। सर्व्वेषामुपरि तिष्ठन् ऊर्द्धगः। सतां कर्म्मणि सत्पथास्तान् आचरत्येष इति सत्पथाचारः। मृतान् जीवयन् परीक्षित् प्रभृतीनिति प्राणदः। प्रणवो नाम परमात्मनो वाचकः ॐकारः। तदभेदोपचारात् प्रणवः। पणतिः व्यवहारार्थः तं कुर्व्वन् पणः। ‘सर्व्वाणि रूपाणि विचित्य धीरो नामानि कृत्वाभिवदन् यदास्ते' इति श्रुतिः। पुण्यानि कर्माणि पणः तं संगृह्याऽधिकारिभ्यस्तत्फलं प्रयच्छतीति लज्ञणया वा पणइति॥११५॥
 
  प्रमितिः सम्बित् स्वयंप्रभा प्रमाणम्। ‘प्रज्ञानं ब्रह्म’ इति श्रुतेः। ज्ञानस्वरूपमत्यन्तनिर्म्मलं परमार्थतः। तमेवार्थस्वरूपेण भ्रान्तिदर्शनतः स्थितम्।
-
-
 
 **भूर्भुवः स्वस्तरुस्तारः स पिता प्रपितामहः।  
 यज्ञो यज्ञपतिर्यज्वा यज्ञाङ्गो यज्ञवाहनः॥ ९६६-९७५॥११७॥**
@@ -3642,8 +3365,6 @@ A. A. S.
 दक्षिणाहृदयो योगीमहासत्त्वमयो महान्।  
 उपाकर्म्मोष्ठरुचकः प्रवर्ग्यावर्त्तभुषणः॥
 
-
-
 **यज्ञभृद् यज्ञकृद् यज्ञीयज्ञभुग् यज्ञसाधनः।  
 यज्ञान्तकृद् यज्ञगुह्यमन्नमन्नाद एव च॥९७६-९८४॥११८॥  
 आत्मयोनिः स्वयंजातो वैखानः सामगायनः।  
@@ -3675,8 +3396,6 @@ A. A. S.
 **इति वृद्धशातातपे॥११९॥**
 
  पाञ्चजन्याख्यं भूताद्यहङ्कारात्मकं शङ्खं विभर्तीति शङ्खभृत्। विद्यामयो नन्दकाख्यः असिरस्येति नन्दकी। मनस्तत्त्वात्मकं सुदर्शनाख्यं चक्रमस्यास्तीति चक्री। संसारचक्रमस्या-
-
-
 
 **रथाङ्गपाणिरक्षोभ्यः सर्व्वप्रहरणायुधः॥  
 सर्व्वप्रहरणायुधः ॐ नमः ॥९९३-१०००॥१२०॥  
@@ -3712,8 +3431,6 @@ A. A. S.
 
  इतीदमित्यनेन नामसहस्रन्यूनातिरिक्तमिति दर्शयति। महान् सृष्टिस्थितिलयकरणसमर्थ आत्मा यस्येति तस्य केशवस्य कीर्त्तनीयस्य ‘सर्व्वे पापा विनस्यन्ति श्रीहरेर्नामकीर्त्तनात्’ इति वचनात् गीयमानस्य विष्णोः इदं विश्वादिसर्व्वप्रहरणायुधान्तं दिव्याना-
 
-
-
 **य इदं शृणुयान्नित्यं यच्चापि परिकीर्त्तयेत्।  
 नाशुभं प्राप्नुयात् किञ्चित् सोऽमुत्रेह च मानवः॥१२२॥  
 वेदान्तगो ब्राह्मणः स्यात् क्षत्रियो विजयीभवेत्।  
@@ -3745,8 +3462,6 @@ A. A. S.
 ‘यदा चर्म्मवदाकाशं वेष्टयिष्यन्ति मानवाः।  
 तदा देवमविज्ञाय दुःखस्यान्तो भविष्यति’॥
 
-
-
 **धर्म्मार्थी प्राप्नुयाद्धर्म्ममर्थार्थी चार्थमाप्नुयात्।  
 कामानवाप्नुयात् कामीप्रजार्थी प्राप्नुयात् प्रजाः॥१२४॥  
 भक्तिमान् यः सदोत्थाय शुचिस्तद्गतमानसः।  
@@ -3769,8 +3484,6 @@ A. A. S.
  सहस्रनामस्तोत्रपाठस्यैहिकं फलं दर्शयति यश इति। विपुलमतिव्याप्तं यशः कीर्त्तिम्। शातिप्रधान्यं शौर्य्यवीर्य्यसम्पद्भिः स्वगोष्ठीनामग्रणीर्भविष्यतीति। अचलां श्रियं स्थिरलक्ष्मीम्। पारत्रिकफलञ्च अनुत्तमं श्रेयः परमपदप्राप्तिर्मोक्षलाभः स्यादिति॥१२६॥
 
  सहस्रनामाख्यस्तोत्रपाठस्य फलान्तरं दर्शयति न भयमिति। सर्व्वत्राकुतोभयः सञ्चर-
-
-
 
 **रोगार्त्तो मुच्यते रोगाद्वद्धो मुच्येत वन्धनात्।  
 भयान्मुच्येत भीतस्तु मुच्येताऽऽपन्न आपदः॥१२५॥  
@@ -3797,8 +3510,6 @@ A. A. S.
 
  इमं स्तवमिति। अधीयानः पठन्। श्रद्धा आस्तिक्यबुद्धिः। भक्तिः भजनतात्पर्य्यम्।
 
-
-
 **नक्रोधो न च मात्सर्य्यंनलोभो नाशुभा मतिः।  
 भवन्ति कृतपुण्यानां भक्तानां पुरुषोत्तमे॥१३३॥  
 द्यौः सचन्द्रार्कनक्षत्रा खं दिशो भूर्महोदधिः।  
@@ -3824,8 +3535,6 @@ A. A. S.
  इदं सचराचरं सस्थावरजङ्गमं ससुरासुरगन्धर्व्वं देवदानवगन्धर्व्वसमन्वितम्। सयक्षोरगराक्षसम् यक्षो देवयोनिविशेषः उरगो नागलोकः राक्षसः स्वनामप्रसिद्धो जीवविशेषः एतैः सहितम् इदं जगत् कृष्णस्य वशे अवर्त्तत। सर्व्वमेव ब्रह्माण्डं कृष्णवशोभूतमिति भावः॥१३५॥
 
  इन्द्रियाणि वाक्पाणिपादपायूपस्थानि कर्म्मेन्द्रियाणि चक्षुःकर्णनासिकाजिह्वात्वचो ज्ञानेन्द्रियाणि। सत्त्वं शौर्य्यम्। तेजः प्रभा। बलं सामर्थ्यम्। धृतिः धैर्य्यम्। क्षेत्रं शरीरम्। क्षेत्रज्ञो जीवः। एतानि सर्व्वाणि वासुदेवात्मकानि वासुदेवो विष्णुरात्मा प्रवर्त्तको येषां तानि।आहुः कथयन्ति तत्त्वज्ञा इति शेषः॥१३६॥
-
-
 
 **सर्व्वागमानामाचारः प्रथमं परिकल्प्यते।  
 आचारप्रभवो धर्म्मो धर्मस्य प्रभुरच्युतः॥१३७॥  
@@ -3854,8 +3563,6 @@ A. A. S.
 
  इमं स्तवम् इत्यादिना सहस्रशाखाज्ञानेन सर्व्वज्ञेन भगवता कृष्णद्वैपायनेन साक्षान्नारा-
 
-
-
 **पठेद् य इच्छेत् पुरुषः श्रेयः प्राप्तुं सुखानि च॥१४१॥  
 विश्वेश्वरमजं देवं जगतः प्रभवाप्ययम्।  
 भजन्ति ये पुष्कराक्षं न ते यान्ति पराभवम्॥ १४२॥**
@@ -3873,18 +3580,4 @@ A. A. S.
 श्रीविष्णोः सहस्रनामभाष्ये सहस्रनामविवृतिः समाप्ता॥  
 ----------
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-

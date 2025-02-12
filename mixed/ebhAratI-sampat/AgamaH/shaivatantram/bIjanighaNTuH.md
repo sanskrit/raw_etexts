@@ -12,9 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNjA1MTUyNTg
 
 \[
 
-
-
-
 अथ वक्ष्ये मन्त्रकोशं यदुक्तं भूतडामरे ।  
 क्रमाद्बीजविधानं च श्रुत्यर्थज्ञानसम्भवम् ॥ १  
 श्रीशिव उवाच ।  
@@ -164,6 +161,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNjA1MTUyNTg
 मर्त्यानामुपकाराय त्रिषु लोकेषु दुर्लभम् ॥ ८७
 
 -------------------------------------------------
-
 
 \]

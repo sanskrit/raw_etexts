@@ -15,18 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk4MTAyOTY4NjQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 RASENDRAMAṄGALAM  
 **INTRODUCTION**
 
@@ -748,11 +736,7 @@ The pyrite very well impregnated with the fluid of banana root then roasted with
 
 **36-38 1/2**. Powder of the iron pyrite is to be rubbed with Ś*igru* juice. *Kānksī, Kāsīsu. Tankana Vajrakanda* and juice of banana (root) for impregnation. Then mix the alkali of *Mokṣaka* and subject it on a blowing temperature in *Mūka-mūṣā*the dumb-crucible. There is no doubt in obtaining a shining white coppery colured extract.
 
-
-
 **Note:-** In nature, the pyrite contains iron, copper and sulphur elements. Every ore contains some element, Sulphur is also found as an ore. Ores are composed of some metal silica and other elemental ingredients. Whereas sulphur itself is like an extract by nature. Therefore no such method of extracting metals is given for sulphur. After observing the sulphuric fumes from pyrite the special line is written as the second half of the verse thirtyeight. On having oxidation by blowing process on fire the 'CuFeS' appears to be lustrous like Hg. Actually it is of silvery copper coloured extract termed as *Candrārkam* here.
-
-
 
 **अथाभ्रक द्रुतिः**
 
@@ -880,14 +864,5 @@ Here is enlisted few single drugs and compounds very useful for converting *Loha
 These metals after proper incineration achieve the state of R*asībhāvanam* i.e. colloidal state. If this is tactfully administered these are alleviatives of various diseases. And if these are utilised on a regular basis, it protects undue graying of hair, formation of disease and degenarative process of ageing.
 
 **Here ends the second chapter of *Rasendra-Mangalam*.**
-
-
-
-
-
-
-
-
-
 
 \]

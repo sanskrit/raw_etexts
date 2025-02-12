@@ -14,31 +14,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 \[
 
-
-
 ![](../books_images/U-IMG-1721104276Screenshot2024-07-16100046.png)
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 **॥श्रीः॥**
 
@@ -83,13 +69,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **३३.** | संतानसिद्धिम्, अपुत्रताकारणम्, पञ्चगव्यप्राशनम्, प्रतिकृतिप्राशनम्, गुरुदक्षिणाम्, सत्पुत्रलाभम्, सद्गुरुलक्षणम्, सच्छिष्यलक्षणम्, दीक्षोपदेशफलानि, साधकाचारोपक्रान्तपूर्णनिर्वाहकधनपरिपूर्णफलानि चोपदिशति त्रयस्त्रिंशपटलेन |
 
-
-
-
-
 ![](../books_images/U-IMG-1720710852Screenshot2024-07-11204324.png)
-
-
 
 ![](../books_images/U-IMG-1720259936Untitled४.png)  
 
@@ -434,8 +414,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 ![](../books_images/U-IMG-1720692982Screenshot2024-07-09101742.png)
 
-
-
 **॥एकविंशः पटलः॥**  
 
 ![](../books_images/U-IMG-1720694605Screenshot2024-07-11161259.png)
@@ -730,8 +708,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 ![](../books_images/U-IMG-1720698760Screenshot2024-07-10063051.png)**
 
-
-
 **॥द्वाविंशः पटलः॥**  
 
 **![](../books_images/U-IMG-1720698798Screenshot2024-07-11161259.png)**
@@ -996,8 +972,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 **प्रपञ्चसारे द्वाविंशः पटलः॥**
 
 ![](../books_images/U-IMG-1720413808img4.png)
-
-
 
 **॥त्रयोविंशः पटलः॥**
 
@@ -1308,11 +1282,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे त्रयोविंशः पटलः॥**
 
-
-
    ![](../books_images/U-IMG-1720365947img_1.jpg)
-
-
 
 **॥चतुर्विंशः पटलः॥**
 
@@ -1604,10 +1574,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे चतुर्विंशः पटलः॥**  
 
-
 ![](../books_images/U-IMG-1720429909img3.jpg)
-
-
 
 **॥पञ्चविंशः पटलः॥**
 
@@ -1957,16 +1924,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे पञ्चविंशः पटलः॥**
 
-
-
 **![](../books_images/U-IMG-1720121635Capture.JPG)**
-
-
 
 **॥षड्विंशः पटलः॥**  
 
 **![](../books_images/U-IMG-1720715119Screenshot2024-07-11131326.png)**  
-
 
 अथ प्रवक्ष्यते मन्त्रो दक्षिणामूर्तिसंज्ञकः।  
 जपतामिष्टसंसिद्धिविधानसुरपादपः॥१॥
@@ -2230,11 +2192,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे षड्विंशः पटलः॥**
 
-
-
 **![](../books_images/U-IMG-1720723413Screenshot2024-07-09151321.png)**
-
-
 
 **॥सप्तविंशः पटलः॥**  
 
@@ -2258,8 +2216,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 स्त्रिदशगणनताङ्घ्रिस्त्रीक्षणः स्त्रीविलासी।  
 भुजगपरशुशूलान्खड्गवह्नी कपालं  
 शरमपि धनुरीशो बिभ्रदव्याच्चिरं वः॥३॥
-
-
 
 हावभावललितार्धनारिकं  
 भीषणार्धमपि[^38] वा महेश्वरम्।  
@@ -2487,11 +2443,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे सप्तविंशः पटलः॥**
 
-
-
 **![](../books_images/U-IMG-1720747043Screenshot2024-07-09101742.png)**
-
-
 
 **॥अष्टाविंशः पटलः॥**  
 
@@ -2565,8 +2517,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 धातोरिह समुत्पन्नं प्राणिप्रसववाचकात्।  
 सर्वासां प्राणिजातीनामिति प्रसवितुः सदा॥१६॥
 
-
-
 वरेण्यं वरणीयत्वात्सेवनीयतया तथा।  
 भजनीयतया सर्वैः प्रार्थनीयतया स्मृतम्॥१७॥
 
@@ -2590,8 +2540,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 यत्तु तेजो निरुपमं सर्वदेवमयात्मकम्।  
 भजतां पापनाशस्य हेतुभूतमिहोच्यते॥२४॥
-
-
 
 न इति प्रोक्त आदेशः षष्ठ्यासौ युष्मदस्मदोः।  
 तस्मादस्माकमित्यर्थः प्रार्थनायां प्रचोदयात्॥२५॥
@@ -2617,8 +2565,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 एतत्तु वेदसारस्य शिरस्त्वाच्छिर उच्यते  
 लक्षणैरिति निर्दिष्टो वेदसारेषु निष्ठितः॥३२॥
 
-
-
 फलार्थी तदवाप्नोति मुमुक्षुर्मोक्षमृच्छति।  
 उपव्युषस्येवोत्थाय कृतशौचविधिर्द्विजः॥३३॥
 
@@ -2643,8 +2589,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 क्रमात्तारादिमन्त्राणामृष्यादीन्विन्यसेत्सुधीः।  
 तत्र तु प्रणवस्यादावृषिरुक्तः प्रजापतिः॥४०॥
 
-
-
 छन्दश्च देवी गायत्री परमात्मा च देवता।  
 जमदग्निभरद्वाजभृगुगौतमकाश्यपाः॥४१॥
 
@@ -2668,8 +2612,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 व्यापयेद्व्याहृतीः सम्यग्गायत्रीं च शिरोयुताम्।  
 सार्थसंस्मृति संजप्यात्त्रिरिदं जपलक्षणम्॥४८॥
-
-
 
 आत्मन्यधश्चोपरितो दिग्भ्यस्ताः समुपानयेत्।  
 गायत्रीं पूर्ववज्जप्यात्स्वाध्यायविधिरीदृशः॥४९॥
@@ -2776,8 +2718,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 **प्रपञ्चसारे अष्टाविंशः पटलः॥  
 
 ![](../books_images/U-IMG-1720748874Screenshot2024-07-08194832.png)**
-
-
 
 **॥एकोनत्रिंशः पटलः॥**
 
@@ -2977,8 +2917,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 उडुतरुकाष्ठैर्नक्तं  
 सप्ताहान्नृपतिमपि वशीकुरुते॥५७॥
 
-
-
 सकपालशूलपाशा-  
 ङ्कुशहस्तारुणतरा तथा दुर्गा।  
 आकर्षयते लावण-  
@@ -3019,8 +2957,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 उष्णाम्भः परिलुलितं  
 प्रसेचयेदृक्षवृक्षपुत्तल्याः॥६५॥
 
-
-
 हृदये वदने च रिपोः  
 संमुखतः संप्रतिष्ठितोरायाः।  
 जूर्त्यभिभूतोऽरिः स्या-  
@@ -3040,8 +2976,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 न्योनेर्मध्याश्रमध्येष्वपि पुनरथ संस्थाप्य भूताभवर्णान् ।  
 वर्णैस्तैः साकमग्नेर्मनुमपि कुलिशाद्यैः स्वचिह्नैःसमेतं  
 कुर्यात्कर्माणि सम्यक्पटुविशदमतिः स्तम्भनाद्यानि मन्त्री॥६९॥
-
-
 
 ऊदोद्गा[^54]दिललाः को-  
 र्नसौ चतुर्थार्णका वसौ वाराम्।  
@@ -3195,8 +3129,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 [^60]: "करोतु"
 
-
-
 यद्यद्वाञ्छति पुरुष-  
 स्तत्तदमुष्य प्रभावतः साध्यम्।  
 सग्रहनक्षत्राद्यां  
@@ -3223,8 +3155,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 ![](../books_images/U-IMG-1720758730Screenshot2024-07-09151321.png)**
 
-
-
 **॥त्रिंशः पटलः॥**  
 
 ![](../books_images/U-IMG-1720758786Screenshot2024-07-11161259.png)
@@ -3243,8 +3173,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 चतुर्भिरष्टाभिरथो शिखा च।  
 उक्तं नवार्णैः कवचं तथाक्षि-   
 पञ्चार्णकं त्र्यक्षमस्त्रमाहुः॥३॥
-
-
 
 प्राक्प्रत्यग्याम्यसौम्ये शिरसि च वदनोरोगलांसेषु नाभौ  
 हृदेशे पृष्ठकुक्ष्योरथ शिवगुदयोरूरुमूलान्तयोश्च।  
@@ -3842,19 +3770,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 अवामनासामार्गेणैवाकृष्याकृष्य पुत्तलीम्।  
 प्रवेशयेत्सुधीः प्राणान्प्राणाद्यर्पणयोगतः॥१४४॥  
 
-
 **इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
 श्रीमच्छंकरभगवतः कृतौ**
 
-
-
 **प्रपञ्चसारे त्रिंशः पटलः॥ **
 
 ![](../books_images/U-IMG-1720360076Screenshotवि.png)  
-
-
-
 
 **॥एकत्रिंशः पटलः॥**
 
@@ -3971,13 +3893,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 [^72]: "पतितामामूलमाजग्मुषि"
 
-
 प्राणप्रतिष्ठाविधिरेवमुक्तः  
 साङ्गः सयोगो विनियोगयुक्तः।  
 अस्मिन्प्रवीणो गिरिकाननादी  
 न्प्रचालयेत्प्राणवतो विधाय॥२१॥
-
-
 
 ** इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य  
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य  
@@ -3985,16 +3904,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे एकत्रिंशः पटलः॥**
 
-
-
 ![](../books_images/U-IMG-1720257760स्च्रीन्शोत्१.png)
-
-
 
 ** ॥द्वात्रिंशः पटलः॥**  
 
  ![](../books_images/U-IMG-1720779354Screenshot2024-07-11161259.png)
-
 
 अथ यन्त्रविरचनाभि-  
 र्मन्त्रविशेषान्बहुप्रकारयुतान्।  
@@ -4115,7 +4029,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 यन्त्रमिदं मस्तकार्पितं कृत्वा।  
 युध्यन्प्रत्यर्थिनमपि  
 हत्वा यात्यव्रणाङ्कितोयोद्धा॥२३॥  
-
 
 मदजलविलिखितमेत-  
 द्यन्त्रंजप्तं च मस्तके न्यस्तम्।  
@@ -4394,11 +4307,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे द्वात्रिंशः पटलः॥**
 
-
-
 **![](../books_images/U-IMG-1720247992pic1.jpg)**
-
-
 
 **॥त्रयस्त्रिंशः पटलः॥**
 
@@ -4536,8 +4445,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 तस्य पादारविन्दोत्थरजःपटलरूषणः।  
 स्नानमप्राप्य न प्राप्यं प्रायो बुद्धिमतेप्सितम्॥३३॥
 
-
-
 नित्यशः कायवाक्चित्तैस्त्रिद्व्येकाब्दादिकावधि।  
 परिचर्यापरः शिष्यः स्यात्सुसंयतमानसः॥३४॥
 
@@ -4561,8 +4468,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 स्मरन्तमस्मराबाधं स्मितोपेतमविस्मितम्।  
 परिग्रहे परीक्ष्यैव शिष्यमेवंगुणं गुरुः॥४१॥
-
-
 
 अलसं मलसंक्लिन्नं क्लिष्टं क्लिष्टान्ववायजम्।  
 दम्भान्वितमगम्भीरं चण्डं पण्डितमानिनम्॥४२॥
@@ -4588,8 +4493,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 यदि गृह्णाति तद्दोषःप्रायो गुरुमपि स्पृशेत्।  
 मन्त्रिदोषो यथा राज्ञि पत्यौ जायाकृतो यथा॥४९॥
 
-
-
 तथा शिष्यकृतो दोषो गुरुमेति न संशयः।  
 स्नेहाद्वा लोभतो वापि यो न गृह्णाति दीक्षया॥५०॥
 
@@ -4614,8 +4517,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 इष्टं वानिष्टमादिष्टं गुरुणा यत्तु गुर्वपि।  
 त्वरया परया कुर्याद्धिया सम्यगजिह्मया॥५६॥
 
-
-
 कर्मणा मनसा वाचा सदा भक्तियुजा गुरुम्।  
 निर्व्याजं पूजयेच्छिष्यो निजकार्यप्रसिद्धये॥५७॥
 
@@ -4638,8 +4539,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 मन्त्रैस्तद्देवताभिर्मुनिभिरपि जपध्यानहोमार्चनाभि-  
 स्तन्त्रेऽस्मिन्यन्त्रभेदैरपिकमलज ते दर्शितोऽयं प्रपञ्चः॥६२॥
 
-
-
 यदाश्रया विप्रकृतिप्रभावतो  
 विभिन्नतारांशसमुत्थितौजसः।  
 जगन्ति पुष्णन्ति रवीन्दुवह्नयो  
@@ -4651,17 +4550,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 **प्रपञ्चसारे त्रयस्त्रिंशः पटलः॥**
 
-
-
 **प्रपञ्चसारः संपूर्णः॥**
 
 ![](../books_images/U-IMG-1720251704pic3.jpg)
 
-
-
 ![](../books_images/U-IMG-1720251923pic4.jpg)
-
-
 
 **॥श्रीः॥**
 
@@ -4671,354 +4564,124 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
 
 ![](../books_images/U-IMG-1720679723pic5.jpg)
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [^59]: "दिनकरग्रहणेभ्यो"

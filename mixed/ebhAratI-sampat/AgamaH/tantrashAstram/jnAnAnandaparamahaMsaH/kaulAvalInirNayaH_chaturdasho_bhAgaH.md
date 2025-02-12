@@ -15,42 +15,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzNDA0MDM3MDU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
-
 
 |                   |
 |:-----------------:|
 | **TANTRIK TEXTS** |
 
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
 
 **INTRODUCTION.**
 
@@ -60,15 +33,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzNDA0MDM3MDU
 
  In the beginning of the first Chapter the author cites the names ofthe Tantras from which he has drawn his materials. They are almostall well-known though some of them are still unpublished. He says thathe further consulted some compilations and teachings of the Great Guruswho taught Advaita. In the list given he speaks of two Kulārnavas,one of which he calls *Kul**āmrita Kulā**rnava* and of two Kālī Tantras oneof which he calls *Samayākhya Kālītantra*. The text of the book as itstands will not in some places be intelligible to the ordinary reader. Inseveral places texts are cited in such a way as to be merely mnemonicaids for those who are already conversant with the subject. In someplaces again, where the uninitiate is likely to misunderstand and misinterpret the text, it has been put in *Vyākulitākshara* (Disordered verse)as has been done in the *Trantrarāja* (Vols. VIII and XII of this series),in the introduction to which Tantra the key by which the text can be re-arranged is to be found.
 
-
-
  There are some passages in the *Nity*ā*shodashikārnava* (Anandāshrama Series) which are similarly disarranged. The same key willenable the reader to re-arrange the verses here. The disordered versesoccur in Chapters IV, V, VIII.
 
  The necessity for the compilation of books like this arose, it issaid, from the fact that some of the Great Gurus came across discipleswho could not be dealt with by the methods prescribed in other andolder Tantras and felt the necessity of modifying the methods wherebytheir disciples were to be taught to do self-control. With all that hasbeen said in the book, there are repeated injunctions put in various waysto revere woman as the embodiment of the Supreme Devī on earth andto exercise restraint in the enjoyment of the pleasures of this life. Ashas been said elsewhere Tantra Shāstra seeks to lead the man to Liberation (Moksha) whilst on the path of Enjoyment (Pravritti). A verybrief summary of the 21 Chapters of which the book is composed isgiven and in such summary the attention of the reader is called to whatthe book aims at rather than to the methods employed. The book isdivided into 22 Chapters in Chattopādhyāya's text though the materialis almost identical.
 
  The first Chapter which is drawn to some extent from the Kulārnavaspeaks of the necessity of making the best use of one's life on this earth as a man.He who seeks the attainment of Liberation should be devoted to the Tattva *i.e.*, the Brahman. It contains a Dhyāna of the Guruand the Mantra for his worship. It emphasises the teaching that the Gurushould not be looked upon as a mere man, but as embodiment on earthof the Supreme Brahman, for a true Guru is the form in which theBrahman manifests Itself to the disciple. The names of the early Gurusof the Kaula school are given here. They are Prahlādānandanātha,Sanakānandanātha, Kumārānandanātha, Vashishthānandanātha, Krodhānandanātha, Sukhānandanātha, Jnānānandanātha and Bodhānandanātha. Ritualistic observances, it is said, should be followed so long as theSelf is not purified by the acquisition of Knowledge (*Jnāna*). When thishas been accomplished and the Sādhaka has succeeded in conquering hissenses and to use the language of the book in discarding his tongue andsexual organ (*Jihvopasthaparityāgī*), then there is no necessity for ritualistic observances, for as has been said later on (Ch. XVII. v. 171) atime comes for the Sādhaka when the distinction between the worshipper
-
-
 
 and the object of worship disappears. (*Pūjyapūjakabhedashcha mithyaivaparamārthatah*).
 
@@ -76,16 +45,12 @@ and the object of worship disappears. (*Pūjyapūjakabhedashcha mithyaivaparamā
 
  The third Chapter speaks of the rite of Antaryāga. Unless a mandoes this any outward Yāga or sacrificial rite that he may do becomesfruitless. Antaryāga may be done in different ways such as Kundalinīyogaor meditation by the Sādhaka in his heart on the Ocean of Nectar in themiddle of which is the Island of Gems encircled by a beach of goldensand. All over the Island are Pārijāta trees and in its middle is aKalpa tree which is composed of the 50 letters of the alphabet. At thefoot of this tree is the excellent Temple of Light (*Jyotirmandira*) deckedwith Gems of various kinds. It is resplendent like the rising sun and isa hundred Yojanas in extent. Its light is diffused all over the universe.Surrounded by a wall of gold it has four entrances. Fly-whisks, flagsand bells add to its beauty. There is a gentle breeze blowing over theisland carrying with it the fragrance of flowers and incense. Inside thetemple is an Altar of Gems, and over it an umbrella made of thread ofgold. The Sādhaka should meditate there upon the Great Yantraresting on the altar and filled to overflowing with Nectar. Yantrahere means a receptacle containing nectar or wine. The text proceedsto give an account of the different rites the Sādhaka must accomplishand the different articles of worship to be used. This worship may be
 
-
-
 either mental (*Mānasa*) or gross sthula according to the capacity of theworshipper. Verse 77 is identical with one quoted in "*Serpent Power*"which describes the mind of the Yogī as dissolved in the Great Void(*Mahāshūnya*). When he is able to do this, he is a king amongYogīs. His inward light can then rest on the plane which is withoutsupport (*Nirālambapada*) and he attains the highest form of Dhy*ā*na.The 85th and the following verses describe inward Homa. By thisthe Sādhaka realises his Oneness with the one impartite Ātmā. Thefour sides of the Chitkunda which is square in shape are Ātmā,Antarātmā, Paramātmā and Jnānātmā (See ritual chapters in the third edition of *Shakti* and *Shākta*). Three girdles which encircle the Kundaconcentrically like three bangles add to its beauty. The Ardhamātrāformed by three Bindus within the Chitkunda is the emblem of the Yoniwhich is the seat of Brahman Bliss. Into the Fire therein which isConsciousness (Samvid) and wherein is the Supreme Deva, theSādhaka should with a steady mind offer oblations. He should first of all offer as oblation the letters of the alphabet so that for him therearises the Brahman which is beyond word (*Nihshabda*, soundless). Allhis acts and omissions, merits and sins, all his resolves and doubts,Dharma and Adharma, the Sādhaka should offer as oblation. TheMantras for these oblations are :—  
   (1) Into the Fire of Consciousness (Chaitanya) in the region ofthe navel which is kindled (*Pradīpita*) by Knowledge (*Jnāna*) I offeras oblation the impulses of the senses using the mind as sacrificialladle : Svāhā.  
   (2) I offer the functions of the senses (*Aksha-vritti*) as oblation intothe Fire which is Ātma and is fed by Dharma and Adharma like Ghee,using the mind as ladle whereof the path of Sushumnā is the handle :Svāhā.  
   (3) I offer Dharma and Adharma (*i. e*. all acts good and evil) asoblation into the all-pervading Fire which is fed by Kalā. The two handswith which I hold the ladle are Prakāsha and Akāsha (= Vimarsha)and the ladle with which the offering is made is *Unmanī* : Svāhā.
 
  It may be noted here that *Unmanī* or mindless Consciousnessis the stage when all restraint is removed from the Sādhaka who is thenthe guide unto himself or Svechchhāchārī. It corresponds with*Siddhāntāchāra* spoken of in Chapter II. of the *Kulārnava Tantra*
-
-
 
 and is described as a state of intoxication in the path of evolvingConsciousness in the eighth Chapter of the same book.*Yogavāshishtha* it is called *Padārthābhāvinī*. By *Padārthābhāvinī* ismeant the stage wherein the Universe of words and their meanings istranscended and in which the Sādhaka has realised the Oneness ofBeing and Existence.
 
@@ -97,8 +62,6 @@ and is described as a state of intoxication in the path of evolvingConsciousness
  This is followed by what at verse 99 is called *Mahāntar-yajana*(Great inner-offering). By this the Sādhaka aims at identifying himselfwith the great Void. At verse 103 is given the well-known Mantrawhich says "The act of offering is Brahman, the offering is Brahman,the person offering is Brahman" and so on.  
  The fourth Chapter deals with *Bahiryāga* in great detail includingthe five Tattvas, the different kinds of wines to be used, the mode ofpurifying wine and so forth. In the 16th and following verses, it is said, that there is no higher path for attainment of happiness andLiberation for the Shākta Sādhaka than the Fifth *(Panchama)* Tattva*i. e*. Maithuna. By the use merely of the first, he becomes Bhairava, bythe use of merely the second he becomes Brahmā, of the third,Mahābhairava and of the fourth, the foremost amongst Sādhakas onearth and by the fifth alone, he becomes possessed of all the Siddhis.The Vīra Sādhaka who uses all the five is honoured by Shiva himself.
 
-
-
 The meaning of the five Tattvas is given in *Kulā**rnava* (Ch. V. verses107 *etseq*).
 
  Verses 45 *etseq* say that unless the purificatory rites are done,the S*ā*dhaka incurs sin. If an animal is killed or wine is drunkfor mere personal gratification and intercourse had with a womanagainst her will then the man so doing goes to the hell of everlastinglamentation.
@@ -109,8 +72,6 @@ The meaning of the five Tattvas is given in *Kulā**rnava* (Ch. V. verses107 *et
 
  The seventh Chapter deals with the rules of worship and says thatbefore everything else the worshipper should do Prānāyāma and Ny*ā*saand thereafter do worship of the *Pītha* or the place of worship. Thefifth and the following verses describe the different Mudrās which shouldbe shown as a part of worship. After describing the different articlesnecessary for worship it is said, at verse 24, that if a man cannot getthem he may make the offerings in his mind. Verse 127 speaks ofthree kinds of Japa *viz*, *Vāchika* (uttered) *Upāngshu* (muttered) and*Mānasa* (mental) which last is the best. Verse 137 gives the Mantrafor the purification of the rosary and the following verses give directions as to how the Mantra should be said over the rosary. Verse
 
-
-
 156 says that the merit of the Japa should be given to the Ishtadevatā.At the end of the chapter drinking is classed as either Divya, Vīra orPashu. In the first drinking is the Sādhaka's realisation of the presenceof the Devī in himself. In the second, it is done with the prescribedrites. But the last which is blameworthy is the drinking of the mere animal *i. e*. drinking for mere animal gratification.
 
  The eighth Chapter describes the way the Sādhaka should partakeof the five Tattvas. The third verse contains the Dhyāna of the DevīAnnapūrnā in which she is described as holding in her right handa golden ladle filled with milk and cooked rice and in her lefthand a jewelled cup. She is the colour of new gold, decked withall kinds of ornaments and distributing alms to all. Verse 35 saysthat the touch of even a Chandāla if he is a true Kaulika purifieswhatever he touches. Verse 45 speaks of Bhairavī-Chakra. Asbetween those who are competent to sit in this Chakra, there is nodistinction of caste so long the Chakra continues. It is only whenthe Chakra is dissolved that the worshippers revert each to hisWhen seated in the Chakra, the worshipperor her own caste.should be conscious of the Vedic teaching that all is Brahman(*Sarvam Brahma*). The men in the Chakra are so many Shivasand the women therein are so many Devīs. At verse 70, it is said,that a man who drinks like a Pashu as described at the end of thepreceding chapter even if he be a Vīra will certainly go to hell. Atverse 74, it is said, that the man who has freed himself from the bond ofDuality (*Bhedapāsha)* may drink wine so that the sense of the Mantramight become patent to him and his mind may become steadied.It is a sin to drink for mere gratification. The Sādhaka who partakesof the five Tattvas to please the Devatā incurs no sin and this is to bedone only at the time of worship. Verse 86 says that the prohibition ofdrink by Manu and other law-givers applies only to unconsecrated wine.The Jnānī who drinks after meditating on his Guru incurs no sin. Itis only those who give way to blind sensual impulse who should dopenance. To the man who seeks Liberation the ordinary prohibitionsdo not apply. Such a man seeks Shakti in wine and Shiva in flesh andis conscious of himself as Bhairava.
@@ -118,8 +79,6 @@ The meaning of the five Tattvas is given in *Kulā**rnava* (Ch. V. verses107 *et
 *Surā Shaktih Shivo māmsam tadbhoktā Bhairavah svayam.*
 
  The text proceeds to say that Bliss *(Ānanda*) is Brahman and it is in
-
-
 
 the body, and because wine makes that *Ānanda* manifest, the Yogīs drinkit. Fully conscious of this the seeker of Moksha purifies the Tattvas.
 
@@ -135,8 +94,6 @@ May Kula observances rise supreme !
 May the Sādhakas attain completion *(Pūrnatā)* !  
 May Lord Vatuka drink the blood of the detractors !  
 May Kula Ganesha grant all desires of all the Kaulikas !
-
-
 
   4. "May Dharma which brings happiness to all Lokas triumph !May Adharma the root of all evil perish !  
   May the Nectar-like blessings of the Yoginīs fall on the followersof Samaya and their curses on the enemies thereof !  
@@ -159,8 +116,6 @@ May Kula Ganesha grant all desires of all the Kaulikas !
 
 also all such as protect Kula.
 
-
-
 12. "May the Sādhakas rejoice !  
    May the detractors be terror-struck !  
    May ours be the state of well-being !  
@@ -172,15 +127,11 @@ also all such as protect Kula.
 
  Verses 147 and 150 give the Mantra for the consecration of theeighth and the ninth cups. At verse 151, it is said, that when consecrating and partaking of the 10th cup Sādhaka should meditate on theGuru in the Sahasrāra, on the Devī in the heart and have his IshtaMantra at the tip of his tongue and think of his Oneness with Shiva(*Shivo'hamity chintayan*). This is followed by the Mantra for the consecration of the 10th cup. The Sādhaka should next consecrate the 11thcup the Mantra for which is given at verse 156. When he consecratesthis cup, he should realise the truth of the following : "I am not thedoer nor do I make any one else do, nor am I the thing done. I am notthe enjoyer nor do I make any one else enjoy nor am I theobject of enjoyment. I do not suffer pain, nor do I cause painto others, nor am I pain itself. I am He. I am *Chit* monitest.I am Ātmā. Verses 171/75 give the Mantra of self-dedication. Thisis also given in the "*Mahānirvāna Tantra*" (Ch. VI. verses 178/81.)and translated in A. Avalon's "*Great Liberation*" pages 184/5. Verse194 contains the direction for the consecration of the 12th cup. It saidthat the Sādhaka should make his body suffused with the spirit of theMantra (*Deham mantramayam vidhāya*), adore the Guru, purifythe celestial shining Nectar in the Shrīpātra by Kulavidyā, satisfy(Santarpya) the four *Vidyāpīthas* (*Kāmarūpa, Pūrnashaila, Jālandhara*and *Uddīyāna*) and Shiva and Shakti,
 
-
-
  Throughout these Mantras there is a threefold meaning, the gross(*Sthūla*) which is actual drinking of wine, the subtle (*Sūkshma*) thedrinking of the Nectar which flows from the union of Kundalinī withShiva in the Sahasrāra ; and the third the transcendent (*Para*) wherebythe Nectar of happiness, arising from the realisation of the union ofSupreme Shiva and Shakti, is meant.
 
  In the fifth Chapter of the Kulārnava (Verses 105-13), speakingof the Tattvas in the higher sense, it is said, that the Wine whichgladdens is that which flows from the Lotus of a thousand petals,the Flesh which the Sādhaka partakes of, is the sense of dualityin ordinary man. By Fish is meant the aberration of the senses, and itByis there said, that he who controls the senses has truly eaten fish. By Maithuna, it is said, we are to understand not the union between manand woman but the union of Kundalinī with Para Shiva in the *Sahasrāra.*
 
  The ninth Chapter begins by saying that the worship of the Devīshould be done in secret. The time auspicious for such worship isnamed, *viz*., the 8th, 14th, and 15th day of the dark half of the lunarmonth, the day of the full moon and the last day of the month. The21st verse points out that the Deva is not to be sought on the mountaintop or in the abode of Vishnu, but is in the heart of the devotee asConsciousness-Bliss (*Chidānanda*).The following verses say thatwhere-ever the devotion (*Bhakti)* of the devotee might be, there doesthe great Devī manifest Herself. In this chapter there is a quotationfrom the *Kulārnava* of 30 verses which does not occur in any of the textspublished. These verses speak of *Kāmarūpa* and say that *Kāmarūpa*is of two kinds, the manifest (*Vyakta)* and the secret (*Gupta*). Thefirst is the tract of triangular land extending eastward from the riverKaratoy*ā* a distance of twenty Yojanas and a hundred Yojanas inlength. The land is green in colour. The secret*Kāmarūpa is in*every house (*Grihe grihe*). *Kāmarūpa* is the abode of the Devī*(Devīkshetra).*The text says that worshipping the Devīin this secret*Kāmarūpa*brings greater merit than in the other. Verse 135says that there is no necessity of ritualistic observances for the man whohas had but a momentary Brahman experience. Verses 136/7 say thatthe highest state of man is the state of Being as it is in Itself in Its ownnature (*Sahajāvasthā*). The state of meditation and concentration ismiddling. Japa and Stuti is low and Homa and Japa is lower than
-
-
 
 the low. To meditate on the Tattva is the highest goal. To do Japais middling, to be occupied with mere study of the Shāstra is low, to beengrossed in worldly pursuits is lower than the low.
 
@@ -199,13 +150,9 @@ Sh*ā*strachinta'dhamā jney*ā*lokachintā'dhamādhamā*
 
  He is thus to be all things to all men adjusting himself to them andtheir capacities, which the catholic nature of his own doctrine permits,for it includes theirs. This passage has led to the charge of preachinghypocrisy. It may not be out of place here to give an account asdescribed in the unpublished writings of a Bengali Vaishnava poet as tohow the great Vaishnava teacher Chaitanyadeva solved a dispute betweenthree sections of his followers as to when the love between Rādhāand Krishna originated. The great teacher addressed the leader ofthe most powerful, because clamorous, of the three sections, and askedas to what he and his party considered was the time. The reply
 
-
-
 was that it must have been when the youthful Krishna was playingthe flute under the *Kadamba* tree on the banks of the river Jumnawhere Rādhā was going with her pitcher for water. Chaitanya seeingthe simplicity of these people, said that there was nothing wrong inwhat they believed and there was nothing to fight about. Thesepeople were highly pleased and wentaway. The great teacher next spoke to the leader of another party who replied that hispeople were not satisfied with the reply given to the other partywho had left, for the loves of Devas and Devīs, he said, are notlike that of man and woman and according to them it was when they were babies,that this love arose. The teacher said that there wasnothing wrong in this view and if they adhered to the truth withoutgoing into disputation with anybody they would attain their goal.These then went away, but still there remained just a few who whenquestioned by Shrī Chaitanya said that the love of Rādhāand Krishnapreceded creation. Their love was, when there was neither Brindābananor the *Kadamba* tree. They also asked for an answer. The replywas that as they were on the path which is beyond words, they couldhave the solution only by Sādhana and they were instructed accordingly.Shrī Chaitanya thus adapted his teachings to the capacity of his hearers.
 
  The eleventh Chapter speaks of the three Temperaments (*Bhāvas*),namely, *Divya*, *Vīra* and *Pashu*. In the beginning of the chapter, it issaid, as there are three *Bhāvas* so are there three classes of Gurus andthree classes of Mantras and three classes of Devatās. The first of theseBhāvas is the highest and the two others come after it in their order.The Sādhaka should worship according to his competency or *Adhikāra*.The *Pashu* is not competent to worship in the same way as the*Vīra* or the *Divya*, may. If he does so he harms himself and gains nobenefit. The *Sarvollāsa*, an unpublished compilation by the great Siddhaof the name of Sarvānanda, divides the *Pashu* and the *Vīra*, each, againinto three classes. A Pashu is either a mere *Pashu i.e*. is not consciousof anything higher than the animal life he lives.The *SabhāvaPashu* is one in whom there has arisen a consciousness as yet not everydefined of a higher sphere. In the *Vibhāva* *Pashu* this consciousnesshas become definite and there is an impulse in him towards the higherlife. When his efforts to rise higher are beginning to be successful, hebecomes a *Vīra* and then passes through the next two stages of *Sabhāva*
-
-
 
 and *Vibhāva* and ultimately becomes a *Divya*. There are thus sevenstages which a man passes in the path of development and these correspond with the seven *Āchāras* previously spoken of and dealt with atsome length in Chapter II of the *Kulārnava*.The *Vishvasāra Tantra*,as quoted by Svāmī Nigamānanda in his book, *Tāntrik Guru,* givesgreater detail than even the *Kulārnava.* Nigamānanda ends this witha verse from the Vishvasāra which says ; that he who knows the seven*Āchāras* included in the three *Bhāvas* knows all things and is liberatedthough living.
 
@@ -216,21 +163,15 @@ Sa janah sakalang vetti jīvanmuktah as eva hi.*
 
  The Twelfth Chapter speaks of the rosary, how it is to be made andpurified and so forth. There are also rules regarding the *Purashcharana.*Verses 158/65 give a hymn to the Devī, in which after adoring Her asBrāhmī, Māheshī and so forth, it is said, "Oh Devī ! Thou art themeasure and Thou measurest. Thou art beyond measure and measurer.One Thou art in many forms. Thou art in the form of the Universe.Obeisance to Thee." In verse 216, it is said, that the worshipof Kālī, Tārā and Unmukhī is specially of help in the Kali Age. It isnoteworthy that all these three forms are black and in the Shrīmadbhāgavata which is a Vaishnava scripture of great authority, it is said,
 
-
-
 (X. 8. 30) that Vishnu incarnated in other colours in previous Ages,but in the present Kali Age, He is black of hue. (*Krishnatām gatah*).
 
  The Thirteenth Chapter speaks of *Homa*. It is necessary to havethe ground where the Homa is to be performed carefully examined byan expert in *Vāstuvidyā* (Science for ascertaining the character of theground). The Kunda into which the offerings are to be made, variesaccording to the purpose for which the rite is to be performed.It may be square, triangular, lotus-shaped and so forth. The dimensions alsovary. The directions as regards all these matters are given in thischapter. Though there is no mention made here of *Sūkshma* (Subtle)and *Para* (Transcendent) Homa the rules laid down for the performanceof the *Sthūla Homa* in this chapter as also other parts of the bookclearly show that the object for doing *Sthūla Homa* is for the Sādhakato ultimately realise the necessity of the other two Homas. The*Tantrarāja* has, however, fully dealt with these two higher formsof Homa.
 
  The fourteenth Chapter speaks of *Purashcharana* in the cremationground. The second verse of this chapter says that besides the Shāktas, this is practised by Vaishnavas, Gānapatyas, Shaivas and theSādhakas of other Mantras also. At verse 76, it is said, that it is theman of great strength, intelligence and courage, who is pure, free fromguile, kind-hearted and devoted to the good of others who is competentto do *Shava-sādhana*. The corpse (*Shava*) should be (verses 87/92) ina good state of preservation and that of a healthy man who was young,brave and good to look at and died in the battlefield facing the enemy ;killed, by a spear or sword, lightning, drowning or at the hands of theexecutioner. The Sādhaka should never kill for the purpose of hisSādhana. The body of a suicide, and an infant, an old man, a woman,a twice-born, a man who died of any chronic disease, a leper as well as acorpse more than seven days old should be rejected. The corpse of aChandāla is the best for the purpose. The proper place for the Sādhanais a deserted house, the bank of a river, the hill top, the foot of a *Vilva*tree, a cremation ground or any lonely or wooded place adjoining it.The corpse is put face downward and on its back the prescribed Yantra is drawn and the Sādhaka sits either as a man rides a horse or in anyother posture prescribed. By this Sādhana *Siddhi* is obtained quickly.It is said of Sarvānanda, that he attained *Siddhi* by *Shava-s*ā*dhana*
 
-
-
 and in this he was assisted by an old Chandāla servant of his family.Whilst practising this rite the Sādhaka should protect himself in everyway and follow the injunctions to the minutest detail.
 
  The fifteenth Chapter speaks of *Kumārī Pūjā.* The worship ofVirgins (*Kumārīs*) is productive of great merit and it is said, (verse 7)that the Devī and Shiva Himself are *Kumārīs* (virgins) and that allDevas and Devīs abide in the *Kumārī*. By worship of the *Kumārī* allDevas such as Brahmā, Vishnu and others are pleased. Verses 25/29give sixteen names of the Kumārīs according to their respective ages varying from one to sixteen years. This is followed by the rules regardingthe worship of the *Mithunas* (Couples). In this nine young girls ofdifferent ages along with the same number of boys are worshipped. Atverse 104 the honour due to women is adverted upon and it is here saidthat all women are parts of the Devī (*Pradhāna*). No one who forgetsthis can ever attain Siddhi in any Mantra. At verse 129, the differentnames of Tripurasundarī are given and this is followed by the names ofvarious Yoginīs who are attendant on Tripurasundarī. Verse 141 *etseq.*contains a hymn wherein are the names of worshippers of Shrīvidyā. They include all the Devas, the great Siddhas, the differentIncarnations, the Devīs, the Sages, the great teachers and leaders,Warriors, Mountains and Oceans, great Forces of Nature and soforth. Among these occurs the name of Buddha. The names are asfollows :— Manu, Chandra, Kubera, Manmatha, Lopāmudrā (wife ofthe great sage Agastya Muni), Nandi, Shakra (Indra), Sunda(a great chief), Shiva, Krodha-bhattāraka, Panchami (Vārāhī),Sūrya, Durvāsā, Vyāsa, Vashishtha, Parāshara (four great sages),Aurva, Vahni, Yama, Nairrita, Varuna, Vāyu, Vishnu, Svayambhu,Bhairava, Aniruddha, Bharadvāja, Dakshināmūrti, Ganapa, Kulapa,Vānī, Gangā, Sarasvatī, Dhātrī, Shesha, Pramatta, Unmatta, Kulabhairava, Kshetrapāla, Hanumān, Daksha, Garuda, Prahlāda, Shukadeva,Rāma, Rāvana, Kashyapa, Kumbhakarna, Yamadagni, Bhrigu,Brihaspati, Yadushreshtha (Krishna), Dattātreya, Yudhishthira,Arjuna, Bhīmasena and Dronāchārya, Brishākapi, Kuntī, Sītā, Rukminī,Satyabhāmā, Draupadī, Urvashī, Tilottamā, Pushpadanta, Mahābuddha,Vāna, Kāla, Mandāra, Kailāsa, Kshīrasindhu, Udadhi, Himavān,Nārada, Bhīshma, Karna, Meru, Aruna, Janaka and Kautsa. They arespoken of also as Brahma-sādhakas. This is followed by rules of
-
-
 
 worship for Sādhakas in different states of Illumination (*Ullāsa*). Inthe eighth Chapter of the *Kulārnava* these different states of Illumination have been dealt with.
 
@@ -238,17 +179,11 @@ worship for Sādhakas in different states of Illumination (*Ullāsa*). Inthe eig
 
  The sixteenth Chapter speaks of the initiation of Shakti. TheShakti may be either *Parakīyā*or *Svakīyā*. Before any Shakti canparticipate in these rites, she must be initiated. The Shakti competentfor initiation is one who is conversant with the rituals of *Kulapūjā*. Atverse 140 *etseq*., it is said that the Sādhaka at a certain stage of hisdevelopment is able to subjugate any woman. A passage like thisoccurs in the *Nityāshodashikārnava* which is a part of the Vāmakeshvara Tantra. Powers like this are said to come to the Sādhakaon his way towards Liberation, but if *Mumukshu* he should avoid
 
-
-
 these temptations. The Shākta Sādhaka seeks the love of the greatMother of the Universe and these difficulties which he encounters,he has got to guard himself against. The *Kulārnava* Tantra saysthat the path of Kula is as dangerous as it is to embrace theneck of a ferocious tiger or to play with a poisonous snake or towalk along the sharp edge of a naked sword. The *Parashurāma-kalpasūtra* (X. 68) says that in the first five stages of theSādhana *viz*., *Ārambha* (Beginning), *Taruna* (Youthful), *Yauvana*(Adolescence), *Praudha* (Mature) and *Praudhānta* (Maturity-end),corresponding with *Vividhishā*, *Vichāranā*, *Tanumānasā*, *Sattvāpalli*and *Asamshakti* of Vedānta, the Sādhaka should observe the rules of*Samayāchāra*, *i.e.* he must be under the guidance of his Guru and bestrictly observant of the social laws. It is only when he reaches thesixth stage or mindlessness (*Unmanī*) that all restrictions are removedfrom him. These five stages are the five *Āchāras* spoken of in*Kulārnava* (Chapter II), *viz.*, *Veda,* the stage in which the Sādhakaqualifies himself by outward cleanliness ; *Vaishnava*, which is the stageof devotion (*Bhakti)*; *Shaiva*, which is the stage of *Jnāna* ; *Dakshina*in which the Sādhaka strengthens the gains made in precedingthree stages, and *Vāma*, when with the arising of *Vairāgya* he becomes*Mumukshu*. This is the state of *Asamshakti* in Vedānta whichmeans the stage of detachment. The only difference between theVedāntic and Āgamic stages is that in the Āgama, *Bhakti* precedes*Jnāna i. e*. the Sādhaka acquires *Jnāna* by *Bhakti*, whereas in theVedānta, *Jnāna* precedes *Bhakti*. The sixth stage in Āgama is*Unmanī*and in Vedānta it is *Padārthārthābhāvinī*and the seventh is*Kaula* which in Vedanta is *Turīya*. According to the *Bhāvachūdamani*the first four *Āchārass*, *Veda* to *Dakshina*, are in *Pashubhāva*,*Vāma* and *Unmanī*are in *Vira* and *Kaula* is *Divya*. The *Vishvasāra*,after having spoken of the seven *Āchāras* and three *Bhāvas*,says there are two *Āchāras*, *Dakshina* and *Vāma*. Kaula is possiblyconsidered beyond all *Āchāra*. According to it all the first fourĀchāras, *Veda* to *Dakshina* are in *Pashubhāva* and *Vāma* and *Siddhānta*in *Vīrabhāva.*
 
  Chapter XVII says that it is only when *Kundalinī*is awakenedthat Mantra practice is successful. *Kundalinī* abides in the *Mūlādhāra*making a soft indistinct sound. By constantly leading her up to the
 
-
-
 *Brahmarandhra* and back again the mind itself becomes dissolved(*Manolaya*). It is by doing Yoni Mudrā that *Kundalinī* can be awakened and led up. This process is described in the *Serpent Power.*All defects in the Mantra are cured by the doing of Yoni Mudrā.Different directions are given as to how the defects in a Mantra can becured. At verses 30 *etseq*. directions are given as to how a Shaktishould be purified by initiation. This is followed by a description ofthe passage of *Kundalinī* through the four *Pīthas* *viz*., *Kāmarūpa*,*Jālandhara*, *Pūrnagiri* and *Uddīyanā*. At verse 50 directions are givenas to how the Sādhaka should pray for the boon for which he has beendoing Sādhana. Verse 70 gives the Mantra of Mahishamardinī. Verses100 *etseq*. say that a good Shakti is she whose conduct in life is inaccord with the teachings of Advaita. She should be devoted to theGuru, firm in her resolve and always be ready to do good. Her devotion (*Bhakti*) should be prompted by *Sattva Guna*. She should be freefrom malice, be guileless and kind to all, skilful, dignified and helpful tothe Sādhaka ; she should be beautiful and young, noble with faithdeeply rooted. A graceful woman like this adorned with fine clothesand ornaments and the like is alone competent to be a *Dūtī*. It isconsidered only right that the Sādhaka should employ, a beautiful andyoung woman to mediate between himself and his Ishta Devatā as a*Dūtī* or emissary. Verses 118/24 give the Mantra of Bhagamālinī.As given in the Murshidabad manuscript as well in Chattopādhyāya'sbook it is defective, but taking the two together as also with the helpof the *Tantrarāja* (Vol. VIII and XII of this series) it has beenpossible to give the correct Mantra. At verse 150 *etseq*. there is anattack against orthodox rigours ; thus beef is forbidden yet people donot realise that when they drink the milk of the cow they drinkher blood ; referring to the rule that widows should not eat anythingwhich has come in contact with fish or any kind of animal food, it is said that the water, the widow drinks was full of fish before it was takenfrom the tank or river. The text goes on to say that there are peoplewho regard semen and menstrual fluid with disgust *(Vichārayet)*, butthey forget that the body by which they hope to attain Liberation iscomposed of these two forms of matter, that the narrow, bone andtendons have come from the father and the skin, flesh and blood fromthe mother. It further says that there is no reason for man's disgust
-
-
 
 for excreta or urine, for these are nothing but food or drink which hasundergone some change and contains living creatures and the Brahmansubstance is not absent therefrom. The purity that man ought tocultivate is that of the mind. All things are pure. It is one's mentality*(Vā**sanā)* which is evil.
 
@@ -258,15 +193,11 @@ for excreta or urine, for these are nothing but food or drink which hasundergone
 
  Chapter XVIII speaks of the signs by which the Sādhaka can knowthat his Sādhana is about to be successful. To such a man the sweetsmell of flowers and incense come from nowhere. Men and womentreat him with respect.He dreams that he is riding a bull, a horse, oran elephant or is surrounded by a number of highborn women or hesees Kings. In his dreams he sees flags, beautiful images or blood orit may be that he is smearing himself with blood or wine. There areother symptoms also too numerous to repeat here. At verse 26, it issaid, that if in his dream he sees a black soldier, dreams that he hasbeen cohabiting with another man's wife, or that the country is in a stateof revolution, then he should know that his Sādhana is not to end insuccess. There are some other symptoms also given here. At verses55 *etseq.*, it is said, that Tārā grants fruit quickly if worshipped accordingto the *Chīnakrama* ; that Tripurāgrants Enjoyment and Liberation ifworshipped in the manner enjoined by the Guru, that the worship ofKālikā according to *Mahāchīnakrama* leads to success, that all thegreat Shrīvidyās and Bhairavīs approve of Gupta Sādhana worship.At the end of the chapter is given the *Pādukā*Mantra. This Mantrais for the worship of the feet of the Guru as well as of the Ishta Devatā.It ends with the words *Shrī* Pādukāng pūjayāmīNamah (I worshipthe feet : Obeisance).
 
-
-
  Chapter XIX speaks of *Shatkarma* or six magic rituals, *viz*., *Shānti,Vashya, Stambhana,* *Vidvesha, Uchchātana*, and *Mārana*. The timefor doing all these rites and proper and appropriate *Asanas* and *Mudrās*are also given here. This chapter is followed by another in Chattopādhyāya's book which is absent from the manuscript on which thepresent publication is based. The text is very corrupt and does notseem to form a part of the *Kaulāvalī*. The subjects dealt with there are*Parapura-praveshana*, and *Anjanasiddhi*. The first means acquisitionof power by which a man is able to enter into a dead body and revive itby his own life and *Anjanasiddhi* means the acquisition of power where by a person is able to see through any solid substance. Both these matters have been dealt with in the *Tantrarāja* fully. As given inChattopādhyāya's book the Mantras are imperfect, the essential detailsare wanting and a good many of the verses are imperfect as theystand. This chapter is, therefore, left out as apart from its beingredundant it is full of defects and does not contain any usefulparticulars.
 
  Chapter XX deals with *Lūkīvidyā*and *Khadga* *Siddhi*, *Phetkārinī**Siddhi* and *KhecharīSiddhi*. The first means power whereby theSādhaka can disappear or conceal himself at pleasure, the second, thepower whereby the Sādhaka can arrest the sword or attack of theenemy, the third, whereby he can control the Devīin her jackal form andThethe fourth whereby he is able to move across the firmament. The chapter also shortly treats of the worship of Kālīunder the heading*Kālikākalpa*.
 
  Chapter XXI speaks of the ways of the *Avadhūta*. It describeshow they should sit and an account is given as to how they raise*Kundalinī*to the *Sahasrāra*, how they control the Airs in their body and so forth. At the end of this chapter a number of verses have beenquoted from the *Tripurāsārasamuchchaya*. They are very much likethe verses in *Shatchakranirūpana* and in fact some of the verses seemto have been adopted by Punyānanda, the author of the latter bookwith some modifications, from the *Tripurāsārasamuchchaya*. The authorof this book is Nāgabhatta and it is said that Nāgabhatta is the sameas Durgasingha, the author of *Kalāpavyākarana*. In the*Tripurāsārasamuchchaya* as also in this chapter of the *Kaulāvalī*theShaktis, *Dākinī*and others are placed in a different order from that in
-
-
 
 the *Shatchakranirūpana*. They are, also described, as in the *Saubhāgyaratnākara*, as presiding Divinities of the different *Dhātus* such as *Tvak*,*Asthi* and so on.
 
@@ -276,21 +207,13 @@ the *Shatchakranirūpana*. They are, also described, as in the *Saubhāgyaratnā
 
  When the *Avadhūta* goes begging for his food, he asks for alms sothat he could offer same to *Kundalī.* He is always in a blissful state,conscious of his oneness with Bhairava and Shiva. It is very difficultfor any one to know his true nature. When alone he is like one mad,dumb, or paralysed and when in the society of men he, sometimes behaves like a good man, sometimes like a wicked one ; and on occasionshe behaves like a demon (*Kvachit shishtah kvachit bhrashah kvachitbhūlapishāchavat*). But the Yogi is always pure whatever he may doand by his touch everything becomes pure. Detached from his bodyimmersed in *Jnāna* (*Jnānapara*) the Yogi plays with his senseswhich are (dangerous for others) like snakes (*Indriyapannaga*).Wherever he may be, when he sees any flowers, scents, articles of foodand the like he mentally offers same to Mahādevī. There is for him noother worship, no vows and the like, as he is conscious that he isalways complete in himself (*Pūrna*), that he is Bhairava and Nityānanda, the imperishable "I" (*Aham avyayah)*, free from all duality(*Niranjana*), changeless (*Nirvikāra*), who knows the meaning of theShāstra and Mantra and who conscious of his greatness and thatno one can excel him, is ever in a blissful mood and ever does good
 
-
-
 to all. The chapter ends with a verse which literally means :— "Onthe left (*Vāma*) is the woman skilled in the art of dalliance and on theright (*Dakshina*), the drinking cup, in the front is hog's flesh cookedhot with chillies. On the shoulder is the well-tuned *Vīnā*with itsmelodious music. *Kuladharma* which contains the teachings of thegreat Guru is deep of meaning and difficult of attainment even by Yogis." The esoteric meaning of the first part of this, however, issaid to be that below (*Vāma*) in the *Mūlādhāra* is the woman*Kundalinī* and above (*Dakshina*) is the receptacle wherefrom flowsthe Nectar produced by the union of *Kundalinī* with Para-Shiva. Thehot hog's flesh is human existence, hot with its passions and prejudices.It is to be noted that here the distinction is emphasized between theSelf (*Ātmā*) and its Body (*Deha).*
-
-
 
 A. A. S.
 
 **\_\_\_\_\_\_\_\_\_\_**
 
-
-
 [TABLE]
-
-
 
 **भ्रम संशोधनम्।**
 
@@ -325,8 +248,6 @@ A. A. S.
 |   दशभिर्वष    | दशभिर्वर्षैः |
 |      एला      |     एणा      |
 
-
-
 |              |              |
 |:------------:|:------------:|
 | **अशुद्धम्** | **शुद्धम्**  |
@@ -342,8 +263,6 @@ A. A. S.
 |   अक्षब्धं   |   अक्षव्धं   |
 |     वणः      |    वर्णैः    |
 
-
-
 |                                                                                                                                                                                                                                                                                                                                                                                                                |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                                                                                                                                                                **सूचीपत्रम्|**                                                                                                                                                                                                 |
@@ -354,16 +273,12 @@ A. A. S.
 |                               **पञ्चमोल्लासः॥** मांसभेदकथनम्| देवतार्थं पशुहनने न दोषः| मांसशोधनम्| मत्स्यभेदकथनम्| मत्स्यशोधनम्॥२३॥ देव्याः शुक्ररजोरूपत्वम्| मैथुनकथनम्॥२४॥ कुण्डगोलोत्थादिपुष्पकथनम्| शक्तिलक्षणम्| गर्भाधानमन्त्रः| शङ्का-विहीनेन कुलाचारः कर्त्तव्यः॥२५॥ पञ्चतत्त्वप्रशंसा| पशुसन्निधौ वीरपूजानिषिद्धा| कुलद्रव्यप्रतिनिधिः॥२६॥ कुण्डगोलादि प्रतिनिधिः॥२७॥                               |
 |                                                   **षष्ठोल्लासः॥**अर्घ्यविधिः| आधारपात्रादिवर्णणम्॥२८॥ द्वादशसूर्यकलाः| षोड़शसोमकलाः| अमृतेश्वरोमन्त्रः॥२९॥ शङ्खमुद्रा| मत्स्यमुद्रा| सिद्धविद्याचारः|पात्रसंख्यानिर्णयः| पात्रस्थापनविधिः॥३०॥ तर्पणविधिः| देहशुद्धिः| तत्त्व-शुद्धिः॥३१॥ बलिपञ्चकम्| वटुकध्यानम्| योगिनीध्यानम्॥३२॥ क्षेत्रपालध्यानम्॥३३॥                                                   |
 
-
-
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **सप्तमोल्लासः॥** पूजाविधिः| आवाहनी मुद्रा| सन्निधापनीमुद्रा| सन्निरोधनीमुद्रा| सकलीकृतिः| परमीकरणीमुद्रा| धेनुमुद्रा| लेलिहानमुद्रा| उत्तमादिभेदेनत्रिविधा पूजा॥३४॥ देवीस्नानम्| उपचाराः| ज्ञानमुद्रा| तर्पणविधिः| अङ्गदेवता पूजाविधिः॥३५॥ गुरुपूजा| गुरुनामाज्ञाने कर्त्तव्यम्| गन्धाष्टकम्| धूपनिर्माणविधिः॥३६॥ कुल दीपदानविधिः| चक्रमुद्रा| प्राणादि पञ्चमुद्रा|प्रासमुद्रा॥३७॥ बलिदानविधिः| स्वहस्तेन पशुच्छेदनिषेधः| मन्त्रशुद्धिः|वाचिकादि भेदेन त्रिविधो जपः| मालापूजा| माला जपविधिः॥३८॥ जपसंख्या|जपसमर्पणम्| प्रणामविधिः| ज्वालिनीमुद्रा| पुष्पनामानि॥३९॥ होमसमाप्तिः|निवेदित पञ्चतत्त्वग्रहणफलकथनम्| पानस्य त्रैविध्यम्॥४०॥ |
 | **अष्टमोल्लासः॥** अन्नपूर्णायाः पूजाध्यानादि| कौललक्षणम्| कौलार्चनप्रशंसा| तन्निन्दायांदोषः॥४१॥ चक्रविधिः| चक्रमध्ये जातिभेदो नास्ति| अलिपानविधिः॥४२॥सुधादेवीध्यानम्| पूर्णाभिषेकहीनानां पाने नाधिकारः| धर्मशास्त्रोक्त पाननिषेधविचारः| अवैधपायिनः प्रायश्चित्तम्॥४३॥ चक्रानुष्ठानम्| सुरा शक्तिः शिवोमांसम्| प्रथमपात्र वन्दनमन्त्रः॥४४॥ द्वितीयादि सप्तमपात्र वन्दनमन्त्राः॥४५॥शान्तिस्तोत्रम्॥४६॥ अष्टमादि पात्रवन्दनमन्त्राः॥४७॥ स्त्रिभ्य उच्छिष्टं न देयम्|आत्मसमर्पणम्| अर्घ्यदानम्| पूजा समाप्तिः॥४८॥ द्वादशपात्रवन्दनमन्त्रः|शेषतत्त्व ग्रहणविधिः॥४९॥ सन्दिग्धानां द्वैतज्ञानिनां पञ्चतत्त्वग्रहणे निषेधः॥५०॥               |
 | **नवमोल्लासः॥**उत्तमादिभेदेन त्रिविधा पूजा| प्रशस्तकाल निर्णयः| स्थानभेदेन पूजाफलभेदः॥५१॥ द्विविधः कामरूपः| शिवावलिः॥५२॥ कुल पूजा| अस्यानित्यकर्त्तव्यत्वम्| कुल-तिथि-वार-निर्णयः| कुलकन्याः॥५३॥ शक्तिपूजाविधिः|योनिप्रशंसा॥५४॥ पाशबद्धः पशुः| पाशमुक्तः शिवः| ब्रह्मज्ञानिनः कृत्यंनास्ति| योगीन्द्रलक्षणम्॥५५॥                                                                                                                                                                                                                                                                                                                      |
 | **दशमोल्लासः॥**समयाचारकथनम्| गुरुमाहात्म्यम्| गुरुवंशगौरवम्| गुरौ तुष्टे सर्वसिद्धिः॥५६॥ पश्वन्नग्रहणे दोषः| गुरु त्यागात् नरकगामित्वम्॥५७॥ परदारादिसङ्गतिः वर्जनीया| स्त्रीः शक्तिरूपिणी| स्त्रीनिन्दा न कर्त्तव्या॥५८॥ दिवसेपञ्चतत्त्वसाधननिषेधः| शाक्तव्यवहारः| जपे कालशुच्यादि नियमो नास्ति|कौलिकमाहात्म्यम्| रात्रौ जपः प्रशस्तः॥५९॥ कुलभ्रष्टस्य निष्कृतिर्नास्ति| कुलाचारी योगिनीप्रियः| पञ्च महापातकानि॥६०॥ गुरुः शिष्यपापमाप्नोति| कुलशास्त्रंपशुभ्यः गोप्तव्यः॥६१॥                                                                                                                                                           |
-
-
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -372,8 +287,6 @@ A. A. S.
 | **त्रयोदशोल्लासः॥** होमविधिः| भूमिपरीक्षा| कुण्डप्रमाणादिः| हस्तमानम्| विविधाकाराणि कुण्डानि| मेखला| नेमिः॥७८॥ योनिः| नालः| होमसंख्याभेदे कुण्डमान कथनम्| कुण्डाकृतिभेदेन फलभेदः| जातिभेदः| जातिभेदे कुण्डाकार-भेदः| स्रुक् स्रुवौ॥७९॥ कुण्डस्य अष्टादश संस्काराः| प्रकारान्तर संस्कारः| वागीश्वरीध्यानम्॥८०॥ वह्निमन्त्रः| सत्त्व-रजस्तमोभेदेन वह्निजिह्वाः| वह्निसंज्ञाः| वह्निध्यानम्॥८१॥ वीक्षणादि संस्काराः| षट्संस्काराः| वह्नेर्गर्भाधानादि संस्काराः॥८२॥ विघ्नराजमन्त्रः| एकीकरणम्| रिक्तहस्तेन हवने फलाभावः| होमसंख्या| आज्यभेदेन फलभेदः॥८३॥ होमद्रव्यादि-मानम्॥८४॥ वह्नि वर्णादि भेदतः शुभाशुभ कथनम्| तर्पणविधिः| काम्यतर्पणम्॥८५॥ उन्मुखी कालिकाविधानम्| छिन्नाकालिकायाः दिवाकल्पः| विप्रभोजनादिः॥८६॥ |
 | **चतुर्द्दशोल्लासः॥** सर्वमन्त्र साधकानां श्मशान साधनेऽधिकारिता| श्मशानसाधनविधानकथनम्| आत्मरक्षामन्त्रः॥८८॥ षोढ़ान्यासः| मन्त्राक्षरसंख्याभेदेन जपसंख्या| बलिदानविधिः| पशुपूजामन्त्रः॥८८॥ पशुच्छेदमन्त्रः| बल्युत्सर्गमन्त्रः| शवसाधनम्॥८९॥ तत्र गुरुपूजादिकम्| रक्षणादि मन्त्राः| शवशोधनम्॥९०॥ शवं प्रति प्रार्थना| वर प्रार्थना॥९१॥ अनन्तर कर्त्तव्यानि| शवाभावे विधिः॥९२॥ शवसाधने विविधमन्त्रोपचाराः॥९३॥ महातारामन्त्रः| शवसाधनेन सर्वसिद्धिः| चन्द्र सूर्यग्रहणे पुरश्चरणविधिः॥९५॥                                                                                                                                                                                                                           |
 | **पञ्चदशोल्लासः॥** कुमारीपूजनविधिः| तद्विहीनं होमादिकं निष्फलम्| कुमारीपूजाफलम्| कुमार्यङ्गे सर्वदेवतास्थितिः| कुमारीपूजनेन सर्वदेवतुष्टिः| कुमारीलक्षणम्| वयोभेदेन कुमारीणां नामभेदः॥९६॥प्रशस्तदिवसकथनम्|मन्त्राः| विशेषन्यासः| मन्त्राः| कुमारीपूजनफलम्| मिथुनपूजनम्॥९७॥                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-
-
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -384,8 +297,6 @@ A. A. S.
 | **उनविंशोल्लासः॥** षट्कर्मविधिः| शान्त्यादिषट्शब्दार्थनिर्णयः| तत्तत्कर्मसु मन्त्रयन्त्रकालनिर्णयः॥१२३॥ आसनादि निर्णयः| पद्ममुद्रा| पाशमुद्रा| गदामुद्रा|मुसलमुद्रा| वज्रमुद्रा| खड़्गमुद्रा॥१२४॥ प्रथनम्| विदर्भः| संपुटः| रोधनम्|योगः| पल्लवः| तेषां विन्यासभेदाः| प्रशस्तमालादिकथनम्॥१२५॥प्रयोगविधिः॥१२६॥ स्वप्नावती विद्याजपफलम्| प्रकारान्तर वशीकरणादि॥१२७॥१२८॥१२९॥पुत्तलीप्रयोगः॥१३०॥ प्रकारान्तरप्रयोगः॥१३१॥ कालिकाध्यानम्॥१३२॥                                                                                                                                                                                                                                          |
 | **विंशोल्लासः॥** लुकीविद्या| खड़्गसिद्धिः|खेचरीसिद्धिः॥१३३॥ षड़ङ्गदेवता|कालिकाकल्पम्॥१३४॥                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **एकविंशोल्लासः॥** अवधूताश्रम कथनम्|मूलाधारचक्रम्॥१३५॥ तद्ध्यानफलम्| स्वाधिष्ठानचक्रम्| तद्ध्यानफलम्|मणिपुरचक्रम्| तद्ध्यानफलम्॥१३७॥ अनाहतचक्रम्| तद्ध्यानफलम्|विशुद्धचक्रम्| तद्ध्यानफलम्॥१३८॥ सहस्रारपद्मम्॥१३८॥१३९॥योनिमुद्रावन्धभलकथनम्| श्वासभेदकथनम्|अवधूताचारकथनम्॥१४१॥                                                                                                                                                                                                                                                                                                                                                                                                |
-
-
 
 **॥ॐ नमः परमदेवतायै॥ **
 
@@ -450,8 +361,6 @@ A. A. S.
 
 सर्वथा गोपयेदेनं यदीच्छेच्छुभमात्मनः।  
 प्रकृताचारयुक्ताय गुरुसेवापराय च॥१७॥
-
-
 
 कुलीनायमहोच्छाय देवीभक्तपराय च।  
 शिष्याय भक्तियुक्ताय साधकाय प्रदापयेत्॥१८॥
@@ -543,8 +452,6 @@ A. A. S.
 तत् कर्म यच्चबन्धाय साऽविद्या परिकीर्त्तिता।  
 यन्न बन्धाय तत् कर्म सा विद्या परिकीर्त्तिता॥४७॥
 
-
-
 यावत् सङ्कल्पकर्मास्ति तावदेव हि बन्धनम्।  
 यावत्तदेव नैवास्ति तावदेव हि मोक्षणम्॥४८॥
 
@@ -628,8 +535,6 @@ A. A. S.
 शान्तं शुक्लकलेवरं त्रिनयनं कान्ताङ्गभूतंशिवं॥७६॥  
 वाञ्छाभीतिकरं प्रचण्डतिमिराज्ञानप्रकाशं रविम्॥७७॥
 
-
-
 नित्यं नौमि रविं तथाब्धितरणे तं कर्णधारं गुरुं॥७८॥  
 यस्य श्री पदपङ्कजोद्भवसुधा सिद्धैःसदा पीयते॥७९॥  
 सदा विधोर्मण्डलमध्यसंस्थं नमामि नित्यं गुरुपादपद्मम्॥८०॥  
@@ -699,8 +604,6 @@ A. A. S.
 तस्य पूजा तु विफला शौचहीना यथा क्रिया॥१०६॥
 
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये प्रथम उल्लासः॥१॥**
-
-
 
 **द्वितीय उल्लासः**
 
@@ -787,8 +690,6 @@ A. A. S.
 
 मारणे कृष्णवासस्तु वश्येरक्तंसदा गृही।  
 उच्चाटने व्याघ्रचर्मंवृक्षत्वक्शुभकर्मणि॥२८॥
-
-
 
 परिधाय ततो मौनी हृदि मन्त्रं परामृशन्।  
 प्रक्षाल्य हस्तपादौ च पूजास्थानं समाविशेत्॥२९॥
@@ -880,8 +781,6 @@ A. A. S.
 पृथिव्यर्घ्यंततो दत्त्वा नैर्ऋत्यां साधकोत्तमः।  
 प्रणवं भगवत्येव धरणींङेयुतां वदेत्॥५८॥
 
-
-
 धरणीवेधसे स्वाहा अनेनार्घ्यंविधाय च।  
 ब्रह्माणं पूजयित्वा च पुरुषं वास्तुसंज्ञकम्॥५९॥
 
@@ -964,8 +863,6 @@ A. A. S.
 
 पश्चिमे देवतायाश्च कुलद्रव्याणि धारयेत्।  
 (अथवा) नैवेद्यं दक्षिणे वामे पुरतो वा न पृष्ठतः॥८४॥
-
-
 
 अथवा वामतो दद्यान्नतु पृष्ठे कदाचन।  
 दीपं दक्षिणतो दद्यात् पुरतो वा न वामतः॥८५॥
@@ -1057,8 +954,6 @@ A. A. S.
 श्वेतपुष्पा च ब्रह्माणी रक्ता तु क्षत्रिया स्मृता।  
 वैश्या पीतप्रसूना च शूद्रा कृष्णप्रसूनिका॥११४॥
 
-
-
 आसां शोधनमन्त्रञ्च कथयामि पृथक् पृथक्।  
 सम्बिदे ब्रह्मसम्भूते ब्रह्मपुत्रि सदानघे॥११५॥
 
@@ -1148,8 +1043,6 @@ A. A. S.
 
 क्षिपेत्तद्दूरतः पुष्पंमन्त्री नाराचमुद्रया।  
 अङ्गुष्ठाग्रेतु तर्जन्या संयोज्याधोर्ध्वरेखया॥१४४॥
-
-
 
 अन्यांगुलीस्तथोर्ध्वञ्च नाराचः स्यात् प्रसार्यते।  
 ध्यात्वा गुरुंन्यसेद्वामे दक्षिणे गणपतिन्तथा॥१४५॥
@@ -1241,8 +1134,6 @@ A. A. S.
 आत्मानंदेवतारूपंविभाव्य साधकोत्तमः।  
 स्वदेहे देवताजीवं विन्यसेत्तदनन्तरम्॥१७४॥
 
-
-
 पुष्पैर्वानामया वापि मनसा वा न्यसेद्बुधः।  
 जीवन्यासे मनुः प्रोक्तो जीवन्यासेषु योजयेत्॥१७५॥
 
@@ -1313,8 +1204,6 @@ A. A. S.
 प्राणायामादिभिर्न्यासैः आत्मशुद्धिश्च जायते॥१९७॥
 
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये द्वितीय उल्लासः॥२॥**
-
-
 
 **तृतीय उल्लासः**
 
@@ -1401,8 +1290,6 @@ A. A. S.
 
 आकाशतत्त्वंश्रोत्रे च तेन वस्त्रंप्रकल्पयेत्।  
 विधिवद्वन्दनंकृत्वा केशसंस्कारमाचरेत्॥२८॥
-
-
 
 नानारत्नसमायुक्तकङ्कत्या साधकोत्तमः।  
 पट्टगुच्छं केशपाशे नानारत्नसमाकुलम्॥२९॥
@@ -1494,8 +1381,6 @@ A. A. S.
 मनसापि च यो भक्तःदेव्यै कुर्यात् प्रदक्षिणम्।  
 देवीगृहे वसेत् सोऽपि नरकाणि न पश्यति॥५८॥
 
-
-
 नमनंमनसा देव्यै यो भक्त्याकुरुते नरः।  
 सोऽपि लोकान् विजित्याशु शिवलोके महीयते॥५९॥
 
@@ -1575,8 +1460,6 @@ A. A. S.
 
 जप्त्वा समर्पयेत्पश्चात्स्वकल्पोक्तविधानतः।  
 स्तुतिभिः सकलन्तत्र समर्पणं पुनः पुनः॥८४॥
-
-
 
 अथ होमविधिं वक्ष्ये येन चिन्मयतां लभेत्।  
 आत्मानमपरिच्छिन्नं ज्ञातव्यंसाधकोत्तमैः॥८५॥
@@ -1665,8 +1548,6 @@ A. A. S.
 तदा तस्य सर्वसिद्धिर्जायते नात्रसंशयः।  
 (यद्वा) चन्दनागुरुचन्द्रेण सिन्दूररजसापि वा॥११४॥
 
-
-
 कस्तूरीघुसृणैर्दे्रव्यै रोचनालाक्षयापि वा।  
 (यद्वा) कुण्डगोलोद्भवैर्द्रव्यैः स्वयम्भुकुसुमेन च॥११५॥
 
@@ -1738,9 +1619,6 @@ A. A. S.
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये तृतीयोल्लासः॥३॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_**  
-
-
-
 
 **चतुर्थउल्लासः**
 
@@ -1831,8 +1709,6 @@ A. A. S.
 न मन्त्रसिद्धिमाप्नोति तस्माद् यत्नपरो भवेत्।  
 प्रमादाद्यदि लुप्येत देवताशापमाप्नुयात्॥२९॥
 
-
-
 यथाविधि यजेद्देवीं मकारपञ्चकैः सदा।  
 तृप्त्यर्थं सर्वदेवानां तत्त्वज्ञानोद्भवाय च॥३०॥
 
@@ -1913,8 +1789,6 @@ A. A. S.
 
 विभावयेत्ततो द्रव्यमिष्टदेवस्वरूपकम्।  
 प्रणमेद्भक्तिभावेन मुद्राभिः पञ्चसंज्ञकैः॥५५॥
-
-
 
 अधोमुखौ समौ कृत्वा भूमौ पाणितलद्वयम्।  
 सकलाङ्गुलिभिः सम्यङ्मुद्रेयं चतुरस्त्रिका॥५६॥
@@ -2006,8 +1880,6 @@ A. A. S.
 अमृतवर्षिणि प्रोक्त्वाकामबीजं ततोऽमृतम्।  
 स्रावयद्वितयं शक्तिबीजं भार्गवमुद्धरेत्॥८५॥
 
-
-
 शापञ्च मोचय प्रोक्त्वा ज्ञानंदेहि ततो वदेत्।  
 सिद्धिसामर्थ्यमाभाष्य दहयुग्मं महापदं॥८६॥
 
@@ -2083,8 +1955,6 @@ A. A. S.
 ॐ हंसः शुचिसद्वसुरन्तरीक्षसद्धोता वेदिसदतिथिर्दुरोणसत्।  
 नृसद्वरसत् सदृतोतिथिसद्व्योमसदब्जा गोजा ऋतजा अद्रिजा ऋतं बृहत्॥  
 ऐँ तृप्तोद्भवसिद्धोद्भव-सर्वज्ञोद्भव-सर्वजनकोद्भवाय अमृताय अमृतनाथाय
-
-
 
 अमृतकुलकुम्भाय ऐँफ्रेंचल चल पिबपिबकुलकुण्डलिनि अमृतकुण्डलिनि  
 अमृतंद्रव द्रव निर्झरनिर्झर ऐँह्रीँ कुलकुण्डलिनि अमृतं कुरु कुरु स्वाहा॥१०९॥
@@ -2173,8 +2043,6 @@ A. A. S.
 पूजयित्वा द्रव्यमध्ये वरुणं वसुधा जपेत्।  
 मूलञ्चोपरि संजप्य अमृतं परिभावयेत्॥१३७॥
 
-
-
 आवाहन्यादिमुद्राञ्च दर्शयेत्तदनन्तरम्।  
 आवाहनीं दर्शयित्वा स्थापनीं तदनन्तरम्।१३८॥
 
@@ -2211,8 +2079,6 @@ A. A. S.
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये चतुर्थ उल्लासः॥४॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **पञ्चम उल्लासः**
 
@@ -2303,8 +2169,6 @@ A. A. S.
 मुदंरातीति मुद्रा स्याद्येनैका मुनिभेदतः।  
 मुद्राञ्च प्रोक्षयेदादौ शेषं पूर्ववदाचरेत्॥२९॥
 
-
-
 ॐ तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः। दिवीव चक्षुराततम्॥३०॥
 
 ॐ तद्विप्रासो विपण्यवो जागृवांसः समिन्धते। विष्णोर्यत् परमं पदम्॥३१॥
@@ -2380,8 +2244,6 @@ A. A. S.
 
 धर्माधर्महवि र्दीप्त आत्माग्नौ मनसा स्रुचा।  
 सुषुम्नावर्त्मना नित्यमक्षवृत्तीर्जुहोम्यहम्॥५६॥
-
-
 
 स्वाहान्तोऽयं महामन्त्र आरम्भे परिकीर्तितः।  
 ततो जपेत् स्त्रियं गच्छन् मुखे जिह्वामृतं पिबेत्॥५७॥
@@ -2473,8 +2335,6 @@ A. A. S.
 पुष्पगन्धा जवापुष्पैर्देवीं गन्धैश्च पूजयेत्।  
 तस्याः पुष्पैः प्रयत्नेन सर्वकाममुपालभेत्॥८६॥
 
-
-
 दीर्घाङ्गी दीर्घनयना श्यामा विलज्जिता सदा।  
 सुगन्धा सा सुरताद्यैर्बिल्वपत्रैःसुगन्धिता॥८७॥
 
@@ -2565,8 +2425,6 @@ A. A. S.
 (यद्वा) मत्स्यमांसादिविजया चाष्टगन्धैः सुमिश्रिता।  
 संमर्द्यवटिकां कृत्वा संगृह्याथ विचक्षणः॥११६॥
 
-
-
 तदभावे तु वटिकां जले संलोड्य तर्पयेत्।  
 गुड़मिश्रेणतक्रेण तर्पयेन्मधुयोजितम्॥११७॥
 
@@ -2603,8 +2461,6 @@ A. A. S.
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये पञ्चमोल्लासः॥५॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **षष्ठ उल्लासः**
 
@@ -2687,8 +2543,6 @@ A. A. S.
 
 नमोऽन्तं मन्त्रमुच्चार्यपूजयित्वार्घ्यपात्रकम्।  
 कलाः सम्पूजयेत्तत्र भानोर्द्वादशसंज्ञकाः॥२६॥
-
-
 
 तपिनी तापिनी धूम्रा मरीचिर्ज्वालिनी रुचिः।  
 सुषुम्ना भोगदा विश्वा बोधिनी धारिणी क्षमा॥२७॥
@@ -2780,8 +2634,6 @@ A. A. S.
 आपूरितं महापात्रंपीयूषरसमावह।  
 वाग्भवं पञ्चमं क्षौणीं वामश्रोत्रसमन्वितम्॥५६॥
 
-
-
 क्षौंजूं सं अमृतेऽमृतोद्भवेऽमृतेश्वरि।  
 अमृतवर्षिणि प्रोच्य अमृतं स्रावयद्वयम्॥५७॥
 
@@ -2872,8 +2724,6 @@ A. A. S.
 विशेषार्घ्यस्यवीरेन्द्रोगुरूंश्चपरितर्पयेत्।  
 स्वस्वनामयुतात् दिव्यान् सिद्धमानवसंज्ञकान्॥८६॥
 
-
-
 तर्पयित्वा स्वीयमूर्ध्नि मुद्रया तत्त्वसंज्ञया।  
 अङ्कुष्ठानामिकाभ्याञ्च वामहस्तस्य सर्वदा॥८७॥
 
@@ -2945,8 +2795,6 @@ A. A. S.
 ॐ पृथिव्यप्तेजोवाय्वाकाशानि मे शुध्यन्ताम् ज्योतिरहं विरजा विपाप्मा भूयासंस्वाहा॥  
 ॐ प्रकृत्यहङ्कारबुद्धिमनःश्रोत्राणि मे शुध्यन्ताम्ज्योतिरहं विरजा विपाप्मा भूयासं स्वाहा॥
 
-
-
 ॐ त्वक्चक्षुर्जिह्वाघ्राणवचांसि मे शुध्यन्ताम् ज्योतिरहं विरजा विपाप्मा भूयासं स्वाहा॥११४॥  
 ॐ पाणिपादपायूपस्थशब्दा मे शुध्यन्ताम् ज्योतिरहं विरजा विपाप्मा भूयासं स्वाहा॥११५॥  
 ॐ स्पर्शरूपगन्धरसाकाशानि मे शुध्यन्ताम् ज्योतिरहं विरजा विपाप्मा भूयासं स्वाहा॥११६॥  
@@ -3017,8 +2865,6 @@ A. A. S.
 सर्वभूतबलिं दत्ता क्षेत्रपालबलिं हरेत्।  
 ततः सञ्चिन्तयेत्क्षेत्रनायकं सिद्धिहेतवे॥१३९॥
 
-
-
 निर्वाणं निर्विकल्पं निरुपमसकलंनिर्विकारं क्षकारं  
 हुङ्कारंवज्रदंष्ट्रंहुतवहवदनं रौद्रमुन्मत्तभावम्।  
 फट्कारं बद्धनागं भ्रुकुटितटमुखंभैरवंशूलपाणिं  
@@ -3047,9 +2893,6 @@ A. A. S.
 **इति श्रीज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये षष्ठोल्लासः॥६॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  
-
-
-
 
 **सप्तम उल्लासः**
 
@@ -3139,8 +2982,6 @@ A. A. S.
 
 तत्रानीय महादेवीं साधकः शुद्धभावतः।  
 घृतेनोद्वर्तनं कार्यं मनसा तदनन्तरम्॥२९॥
-
-
 
 सुगन्धिदिव्यतैलेन देवकन्यासहस्रकैः।  
 सहस्रैःस्वर्णकुम्भैश्च सुगन्धजलपूरितैः॥३०॥
@@ -3232,8 +3073,6 @@ A. A. S.
 देव्यनुज्ञांगृहीत्वा तु पूजयेदङ्गदेवताः।  
 ध्यात्वा गुरुकुलंधीरो रश्मिवृन्दंतथैव च॥५९॥
 
-
-
 स्व स्व स्थाने समावाह्य पूजयेत्तदनन्तरम्।  
 विना यो हि गुरोः पूजामिष्टदेवं यजेद् यदि॥६०॥
 
@@ -3317,8 +3156,6 @@ A. A. S.
 
 न भूमौ स्थापयेद्धूपमासने चघटेऽपि वा।  
 घृतप्रदीपं प्रथमं तिलतैलोद्भवं ततः॥८७॥
-
-
 
 सार्षपंफलनिर्यासजातंवा वारिजोद्भवम्।  
 प्रणवं जयध्वनिपदं मातः स्वाहा ततः परम्॥८८॥
@@ -3410,8 +3247,6 @@ A. A. S.
 प्रयत्नेनप्रदातव्यंचण्डिकाप्रीतिकारकम्।  
 दत्ते चैव जवापुष्पे पट्टवस्त्रफलं लभेत्॥११७॥
 
-
-
 अपरायाश्च माहात्म्यंवक्तुंनहि कदाचन।  
 ताम्बूलञ्च ततो दद्यात् कर्पूरादिसुवासितम्॥११८॥
 
@@ -3501,8 +3336,6 @@ A. A. S.
 
 प्रत्येकं बीजमादाय अङ्गादूर्ध्वेनमन्त्रवित्।  
 पूर्वबीजं जपन् यस्तु परबीजन्तु संस्पृशेत्॥१४७॥
-
-
 
 अङ्गुष्ठेन विना यस्य निष्फलः स जपः सदा।  
 एवमुक्तविधानेन विलम्बं त्वरितंत्यजेत्॥१४८॥
@@ -3594,8 +3427,6 @@ A. A. S.
 सौगन्धिकैश्च बन्धूकैः केशरैश्चम्पकैस्तथा।  
 जातीभिर्मालतीभिश्च मल्लिकाभिः कदम्बकैः॥१७७॥
 
-
-
 मनोरमैः प्रसूनैश्चफलैः पत्रैर्यथाविधि।  
 अनेन विधिना मन्त्री देव्या होमं समाप्य च॥१७८॥
 
@@ -3629,8 +3460,6 @@ A. A. S.
 **इति श्रीज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये सप्तमोल्लासः॥७॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **अष्टम उल्लासः**
 
@@ -3716,8 +3545,6 @@ A. A. S.
 
 पूजनाज्जनाद्धोमात्, सुकृतं विविधन्तथा।  
 कौलिकस्य भवेद् व्यर्थं कौलिकं योऽवमानयेत्॥२७॥
-
-
 
 श्मशानं तद्गृहं विद्धि पापिष्ठः श्वपचाधमः।  
 कुलनिष्ठंपरित्यज्य यच्चान्यस्मै प्रदीयते॥२८॥
@@ -3809,8 +3636,6 @@ A. A. S.
 कराभ्यांपात्रमुद्धृत्य द्वितीयञ्च यथाकमात्।  
 ततः श्रीगुरुपादाय साक्षात् परशिवाय च॥५७॥
 
-
-
 समांसं देवताबुद्ध्यासमर्पयेद्यथाक्रमात्।  
 दत्त्वामृतरसं पूर्णं गुरवे तदनन्तरम्॥५८॥
 
@@ -3901,8 +3726,6 @@ A. A. S.
 यत्पाने दूषणं प्रोक्तंप्रायश्चित्तंतदैव हि।  
 देवान् पितॄन् समभ्यर्चावेदशास्त्रोक्तवर्त्मना॥८७॥
 
-
-
 ज्ञानतो भैरवीचक्रेज्ञानिनां नैव दूषणम्।  
 गुरुं स्मरन् पिबन्मद्यं खादन्मांसं न दोषभाक्॥८८॥
 
@@ -3986,8 +3809,6 @@ A. A. S.
 न पात्रं चालयेत् स्थानान्न कुर्यात् पात्रसङ्करम्।  
 सशब्दं नोद्धरेत् पात्रंतथैव च न पूरयेत्॥११४॥
 
-
-
 नान्योन्यं ताडयेत् पात्रंन पात्रमानयेदधः।  
 साधारं नोद्धरेत् पात्रमनाधारे न निःक्षिपेत्॥११५॥
 
@@ -4036,8 +3857,6 @@ A. A. S.
 ॐ जाग्रतस्वप्नसुषुप्तितूर्यपरमं चैतन्यं साक्षिप्रदं  
 विद्युद्भास्वरसन्निभं द्युतिधरं ज्योत्स्नाकलाव्यापितम्।
 
-
-
 इडापिङ्गलामध्यगा त्रिवलया सत्कुण्डली चोर्ध्वगा  
 पात्रंसप्तमपूरणेन परमानन्दाधिकं पातु माम्॥१२९॥
 
@@ -4084,8 +3903,6 @@ A. A. S.
 
 नन्दन्तु कुलयोगिन्यो नन्दन्तु कुलपुत्रकाः।  
 नन्दन्तु च कुलाचार्या ये चान्ये कुलपालकाः॥१४२॥
-
-
 
 नन्दन्तु साधकाः सर्वे विभीषन्तु च दूषकाः।  
 अवस्था शाम्भवी नोऽस्तु प्रसन्नोऽस्तु गुरुः सदा॥१४३॥
@@ -4134,8 +3951,6 @@ A. A. S.
 वीणावेणुरवावयन्त्रविधिवद्गायन्ति पञ्चोरसः।  
 क्रीडाकेलिकुतूहलेन कमलालावण्यलीलोरसः  
 पानोल्लासबिलासपूर्णसमये पात्रञ्च एकादशम्॥१५६॥
-
-
 
 स्वपात्रस्थितहेतुञ्च न दद्याद् भैरवाय च।  
 दत्ते च सिद्धिहानिः स्याद देवताशापमाप्नुयात्॥१५७॥
@@ -4230,8 +4045,6 @@ A. A. S.
 पशुपानं भवेत्तस्य प्रायश्चित्ती स साधकः।  
 अर्घ्यामृतं ततो वीरः सामयिकेभ्यो निवेदयेत्॥१८७॥
 
-
-
 ततश्व साधकश्रेष्ठः शेषमात्मनि योजयेत्।  
 प्रबन्धे पूर्णपात्रञ्च प्रगृह्य साधकोत्तमः॥१९३॥
 
@@ -4315,8 +4128,6 @@ A. A. S.
 तस्यारमणमात्रेण कौलिको नारकी भवेत्।  
 माताऽपि गौरवाद्वर्ज्या शिवहीना तथैव च॥२१९॥
 
-
-
 अन्यस्थाने विचारे तु देवीशापः प्रजायते।  
 मन्त्रमाता च पुत्री च भगिनी च कुलाङ्गना॥
 
@@ -4377,8 +4188,6 @@ A. A. S.
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये अष्टम उल्लासः॥८॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **नवम उल्लासः।**
 
@@ -4469,8 +4278,6 @@ A. A. S.
 ततश्चतुर्गुणा प्रोक्तालौहित्यनदपाथसि।  
 तत्समा कामरूपे च सर्वत्रैव जले स्थले॥२९॥
 
-
-
 सर्वश्रेष्ठो यथा विष्णुर्लक्ष्मीः सर्वोत्तमा यथा।  
 देवीपूजा तथा शक्त्यां कामरूपे सुरालये॥३०॥
 
@@ -4559,8 +4366,6 @@ A. A. S.
 
 यदि न भुज्यते तत्र तदा नैव शुभं भवेत्।  
 नित्ये नैमित्तिके काम्ये बलिं दद्यात् प्रयत्नतः॥५८॥
-
-
 
 अति गुप्तेन कर्तव्यं बलिदानं शुभावहम्।  
 कुलपूजां प्रवक्ष्यामि यथाशास्त्रविधानतः॥५९॥
@@ -4652,8 +4457,6 @@ A. A. S.
 तत्र वर्ज्या च या नारी कथ्यते तन्त्रमार्गतः।  
 विकृतां विधवां व्यङ्गीं बृद्धाञ्चैव तपस्विनीम्॥८८॥
 
-
-
 हीनाङ्गीं हीनवसनां कुटिलां कलहप्रियाम्।  
 लोकवेदविरुद्धाञ्चतथा निष्ठुरभाषिणीम्॥८९॥
 
@@ -4744,8 +4547,6 @@ A. A. S.
 संक्षेपयजनं वक्ष्ये यथा तन्त्रानुसारतः।  
 आलिङ्गनं भवेन्न्यासश्चुम्बनं ध्यानमीरितम्॥११८॥
 
-
-
 शीत्कारं यजनं प्रोक्तं नैवेद्यं नखलेखनम्।  
 पानं जिह्वामृतं ज्ञेयं रमणञ्च जपो भवेत्॥११९॥
 
@@ -4819,8 +4620,6 @@ A. A. S.
 **इति ज्ञानानन्दपरहंसविरचिते कौलाबलीनिर्णये नवम उल्लासः॥९॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **दशम उल्लासः**
 
@@ -4910,8 +4709,6 @@ A. A. S.
 
 श्रीनाथ देव स्वामीत्यभिवादे साधने वदेत्।  
 गुरुंतुङ्कृत्य हुङ्कृत्य वाचा निर्भत्स्य यः कदा॥२९॥
-
-
 
 देवं गुरुं गुरुस्थानं क्षेत्रं क्षेत्राधिदेवताः।  
 सिद्धिंसिद्धाधिवासांश्च श्रीपूर्वं समुदीरयेत्॥२९॥
@@ -5003,8 +4800,6 @@ A. A. S.
 रागलोभमदक्रोधपैशुन्यादि विवर्जयेत्।  
 कुलाचारं गुरुं देवं मनसाऽपि न निन्दयेत्॥५८॥
 
-
-
 पूजां ध्यानं जपं होमं यथा कर्मचतुष्टयम्।  
 प्रत्यहं साधकः कुर्यात् स्वयञ्चेत् सिद्धिमिश्छति॥५९॥
 
@@ -5094,8 +4889,6 @@ A. A. S.
 
 सर्वथा न च कर्त्तव्यमन्यथा सिद्धिरोधकृत्।  
 स्त्रियो देव्यःस्त्रियः प्राणाः स्त्रिय एव विभूषणम्॥८८॥
-
-
 
 स्त्रीसङ्गिना सदा भाव्यमन्यथा स्वस्त्रिया अपि।  
 न पश्येत् पतितां नग्नामुन्मत्तां प्रकटस्तनीम्॥८९॥
@@ -5187,8 +4980,6 @@ A. A. S.
 सर्वेषामेव यज्ञानां जपयज्ञः प्रशस्यते।  
 रात्रौ जपैकमात्रेण सिद्धिदा चण्डिका भवेत्॥११८॥
 
-
-
 इड़ायाञ्च गते रात्रौ शक्तिमन्त्रंजपेद् यदि।  
 पिङ्गलायां गते जीवे पुंमन्त्रं प्रजपेत् सदा॥११९॥
 
@@ -5279,8 +5070,6 @@ A. A. S.
 अथवाऽप्यजपालक्षं लोपालक्षत्रयन्तथा।  
 जपान्मुच्येत पापेभ्यः सर्वेभ्यः साधकः सदा॥१४८॥
 
-
-
 वियच्छून्ययुतः शक्तिः सविसर्गोऽजपामनुः।  
 वियच्छक्तिस्ततः कामः क्षौणी च परमेश्वरी॥१४९॥
 
@@ -5316,8 +5105,6 @@ A. A. S.
 **इति ज्ञानानन्दपरमहंसविरचिते कौलाबलीनिर्णये दशम उल्लासः॥१०॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **एकादश उल्लासः**
 
@@ -5407,8 +5194,6 @@ A. A. S.
 
 तेन तत्कुलशास्त्राङ्गेपूजनीया प्रयत्नतः।  
 कुलदेवी चाद्या देवी निश्चला यस्य विद्यते॥२९॥
-
-
 
 स धन्यः पुरुषो लोके निश्चलो यत एव सः।  
 इति कामकलाध्यानं कथितं सर्वसिद्धिदम्॥३०॥
@@ -5500,8 +5285,6 @@ A. A. S.
 रक्षां कृत्वा विधानेन साधकः स्थिरमानसः।  
 योगिनीनां महापूजा वटुकानां तथैव च॥५९॥
 
-
-
 कार्या विघ्नविनाशार्थं कुलवारक्षयोगतः।  
 तासां मूलतरोर्मूले मूलविद्याञ्च कालिकाम्॥६०॥
 
@@ -5591,8 +5374,6 @@ A. A. S.
 
 निशि पूजा प्रकर्त्तव्या हेतुयुक्तः सदा भवेत्।  
 निजं कलं समादाय स्वयं भैरवरूपधृक्॥८९॥
-
-
 
 कुलञ्च भैरवीरूपं तद्गात्रे न्यासविस्तरम्।  
 विन्यसेत् सकलं न्यासं नवयोन्यात्मकन्तथा॥९०॥
@@ -5684,8 +5465,6 @@ A. A. S.
 विभूतिभूषणो वापि चन्दनेनापि लेपितः।  
 आकारगोपनो वापि व्यक्तो वा दिव्यसाधकः॥११९॥
 
-
-
 रक्तचन्दनदिग्धाङ्गो वैष्णवो वाप्यवैष्णवः।  
 असंस्कृतः संस्कृतो वा नित्यसिक्तः कुलेश्वरः॥१२०॥
 
@@ -5775,8 +5554,6 @@ A. A. S.
 
 वरं स्वकुलहानिस्तु वरं स्वकुलकुट्टनम्।  
 कायेन मनसा वाचा वरं स्वकुलपातनम्॥१४९॥
-
-
 
 न च कुर्यात् पूर्वसङ्गंदेव्यङ्गक्षयकारणात्।  
 कुलशास्त्रेद्वयं पापं गरिष्ठोभवति ध्रुवम्॥१५०॥
@@ -5868,8 +5645,6 @@ A. A. S.
 सम्पूज्य कुलदाम्पत्यमष्टम्यां यत्नतो नयेत्।  
 भ्रष्टस्य चाऽष्टमी चेति तिथिरेव न चान्यथा॥१७९॥
 
-
-
 दीक्षाकालः स एव स्यान्नान्यः कालः प्रशस्यते।  
 भ्रष्टा बहुविधाः सन्ति यद्यत्र कुलसाधकाः॥१८०॥
 
@@ -5960,8 +5735,6 @@ A. A. S.
 ज्ञायतेऽस्मिन् स्वयं प्राज्ञश्चित्स्वरूपः पुमानसौ।  
 निर्विकारः सर्वदेव प्रमाणागोचरः पुमान्॥२०९॥
 
-
-
 व्यक्तो भवति सर्वत्र स्वयमात्मा स्वयम्भुवः।  
 उपायाः सन्ति बहवो ज्ञातुंब्रह्म सनातनम्॥११०॥
 
@@ -6005,10 +5778,7 @@ A. A. S.
 
 **इति ज्ञानानन्दपरमहंसविरचिते कौलाबलीनिर्णये एकादश उल्लासः॥११॥**  
 
-
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **द्वादश उल्लासः**
 
@@ -6096,8 +5866,6 @@ A. A. S.
 पञ्चाशद्भिः सर्वकार्यं कर्तव्यं नात्र संशयः।  
 सुवृत्तंसुन्दरं बीजं बदरीबीजमालिकम्॥२८॥
 
-
-
 शिल्पिने दक्षिणां दत्त्वा गृहीत्वा साधकोत्तमः।  
 संस्कारञ्च ततः कुर्यात् यथाशास्त्रप्रमाणतः॥२९॥
 
@@ -6180,8 +5948,6 @@ A. A. S.
 ओं अघोरेभ्योऽथ घोरेभ्यो घोरघोरतरेभ्यः सर्वतः सर्वसर्वेभ्यो नमस्तेऽस्तु रुद्ररूपेभ्यः॥५७॥
 
 गन्धचन्दनकुङ्कुमैर्लेपयेत्तपुरुषेण च॥५८॥
-
-
 
 ओँतत्पुरुषाय विद्महे महादेवाय धीमहि तन्नो रुद्रः प्रचोदयात्॥५९॥
 
@@ -6270,8 +6036,6 @@ A. A. S.
 
 सुवर्णं रजतं ताम्रंश्रेष्ठं मध्यमथाऽधमम्।  
 ताम्रेलक्षगुणं प्रोक्तंरौप्ये कोटिगुणं भवेत्॥८८॥
-
-
 
 सुवर्णेऽनन्तफलदं स्फाटिकेऽपि तथा समम्।  
 एकतोलं द्वितोलं वा त्रितोलं पञ्चतोलकम्॥८९॥
@@ -6363,8 +6127,6 @@ A. A. S.
 इन्द्रमग्निं यमंचैव निर्ऋतिं वरुणन्तथा।  
 वायुं कुबेरमीशानं ब्रह्मानन्तौ ततः परम्॥११८॥
 
-
-
 स्वस्वदिक्षु प्रपूज्यैव बलिं पश्चान्निवेदयेत्।  
 ईशानशक्रयोर्मध्यमूर्ध्वं ज्ञेयं सदा बुधैः॥११९॥
 
@@ -6455,8 +6217,6 @@ A. A. S.
 वराहवाहिनीं धूम्रां वराहसदृशाननाम्।  
 फलकां मूषलं चैव वरं खड़्गंतथा परम्॥१४८॥
 
-
-
 पाणिपङ्कजविभ्राणां चारुभूषणभूषिताम्।  
 इन्द्रनीलप्रभामैन्द्रीमैरावतनिषेदुषीम्॥१४९॥
 
@@ -6545,8 +6305,6 @@ A. A. S.
 
 सर्वत्रैव सुराः पूज्याः ब्रह्मविष्णुशिवादयः।  
 एका चेद्युवती तत्रपूजिता चाऽवलोकिता॥१७८॥
-
-
 
 सर्वा एव परा देव्यः पूजिताः साधकोत्तमैः।  
 आदावन्ते च मध्ये च लक्षपूर्त्तौविशेषतः॥१७९॥
@@ -6638,8 +6396,6 @@ A. A. S.
 कुलनाथं पुनर्ध्यात्वा स्वयमच्युमानसः।  
 पूजां समापयेद्वीरः तदनुस्मृतिपूर्वकम्॥२०८॥
 
-
-
 पूजाकाले हीनजाता स्वयोषिद्वा विधानतः।  
 पूजनीया प्रयत्नेन द्वैधं तत्र विवर्जयेत्॥२०९॥
 
@@ -6699,8 +6455,6 @@ A. A. S.
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये द्वादशोल्लासः॥१२॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **त्रयोदश उल्लासः**
 
@@ -6787,8 +6541,6 @@ A. A. S.
 
 कुण्डे द्विहस्ते ता ज्ञेया रसवेदगुणाङ्गुलाः।  
 चतुर्हस्तेषु कुण्डेषु वसुतर्कयुगाङ्गुलाः॥२८॥
-
-
 
 कुण्डे रसकरे ताः स्युर्दशाष्टरससम्प्रिताः।  
 वसुहस्तमिते कुण्डेभानुपङ्क्त्यष्टकाङ्गुलाः॥२९॥
@@ -6880,8 +6632,6 @@ A. A. S.
 एकांशेन मितं कण्ठं सप्तभागमितं मुखम्।  
 वेदीत्र्यंशेन विस्तारः कण्ठस्य परिकीर्त्तितः॥५८॥
 
-
-
 अग्रंकण्ठसमानं स्यात् मुखे मार्गं प्रकल्पयेत्।  
 कनिष्ठाङ्गुलिमानेन सर्पिषो निर्गमाय च॥५९॥
 
@@ -6972,8 +6722,6 @@ A. A. S.
 नमोऽन्तोऽयं महामन्त्रो वागीश्वर्याः प्रकीर्त्तितः।  
 वागीश्वरं स्वमन्त्रेण ततो वह्निं समानयेत्॥८८॥
 
-
-
 सूर्यकान्तादिसम्भूतं यद्व्यश्रोत्रियगेहजम्।  
 ताम्रपात्रेपुटीकृत्य क्रव्यादांशं परित्यजेत्॥८९॥
 
@@ -7059,8 +6807,6 @@ A. A. S.
 
 लोहिताक्ष पदस्यान्ते सर्वकर्माणि साधय।  
 वह्णिजायावधिः प्रोक्तो मनुः पावकवल्लभः॥११७॥
-
-
 
 मध्ये षट्स्वपि कोणेषु जिह्वा वह्नेस्ततो यजेत्।  
 केशरेषूक्तमार्गेण पूजयेदङ्गदेवताः॥११९॥
@@ -7152,8 +6898,6 @@ A. A. S.
 विघ्नेश्वरस्य मन्त्रेण जुहुयादाहुतीर्दश।  
 तारं रमा तथा मायां क्लीं ग्लौं तदनन्तरम्॥१४८॥
 
-
-
 गं गणपतये वरवरदान्तेसर्वपदं जनम्।  
 मे वशमानय प्रोच्य वह्णिजाया ततः परम्॥१४९॥
 
@@ -7243,8 +6987,6 @@ A. A. S.
 
 पद्मैर्हुत्वा जयेत् शत्रुन्दूर्वाभिः शान्तिमाप्नुयात्।  
 पलाशकुसुमैः पुष्टिंधनं धान्यं श्रियं लभेत्॥१७८॥
-
-
 
 शशकस्य तु मांसेन मधुना लोढ़ितेन च।  
 हुत्वा हेममवाप्नोति वित्तविद्यावरस्त्रियः॥१७९॥
@@ -7336,8 +7078,6 @@ A. A. S.
 अष्टधा नारिकेलञ्च मालूरञ्च त्रिधा भवेत्।  
 कपित्थञ्च त्रिधा ज्ञेयं ऊर्वारुकं त्रिधा भवेत्॥२०८॥
 
-
-
 फलान्यन्यान्यखण्डानि समिधः स्युर्दशाङ्गुलाः।  
 दुर्वात्रयं समुद्दिष्टंगुडुचो चतुरङ्गला॥१०९॥
 
@@ -7427,8 +7167,6 @@ A. A. S.
 
 मूषामार्जाररक्तेन तर्पयेत् परदेवताम्।  
 एवं तर्पणमात्रेण साक्षात् सिद्धीश्वरो भवेत्॥१३८॥
-
-
 
 कविता जायते तस्य द्राक्षारसपरम्परा।  
 बृहस्पतिसमो भूत्वा देवीवद्भुवि मोदते॥२३९॥
@@ -7522,8 +7260,6 @@ A. A. S.
 
 **इति ज्ञानानन्दपमहंसविरचिते कौलावलीनिर्णये त्रयोदशोल्लासः॥१३॥**
 
-
-
 **चतुर्दश उल्लासः**
 
 अथवाऽन्यप्रकारेण पुरश्चरणमिष्यते।  
@@ -7609,8 +7345,6 @@ A. A. S.
 
 शवशरीरे महाविघ्नंछेदय द्वितयं ततः।  
 स्वाहान्ते वर्म चाऽस्त्रान्तो वीरार्दनमनुर्मतः॥२८॥
-
-
 
 अनेन मन्त्रितं लोष्ट्रंदशदिक्षु विनिःक्षिपेत्।  
 तन्मध्ये भैरवो देवो न विघ्नैःपरिभूयते॥२९॥
@@ -7702,8 +7436,6 @@ A. A. S.
 उग्रंरक्तास्यनयनं रक्तमाल्यानुलेपनम्।  
 रक्ताम्बरधरं चैव पाशहस्तं कुठुम्बिनम्॥५८॥
 
-
-
 पिबमानञ्च रुधिरं भुञ्जानं क्रव्यसंहतिम्।  
 इति ध्यात्वा सुसंपूज्य नमस्कुर्यात् प्रयत्नतः॥५९॥
 
@@ -7793,8 +7525,6 @@ A. A. S.
 
 वज्रविद्धंसर्पदष्टंचाण्डालं वाऽतिभूतकम्।  
 तरुणंसुन्दरं शूरं रणे नष्टं समुज्ज्वलम्॥८८॥
-
-
 
 पलायनविशून्यञ्च सम्मूखे रणवर्त्तिनम्।  
 न स्वयं घातयेद्विद्वान् मन्त्राणि तत्र वर्जयेत्॥८९॥
@@ -7886,8 +7616,6 @@ A. A. S.
 अनेन मनुना पूर्वे बलिंदद्याच्च सामिषम्।  
 स्वस्वनामादिकं कृत्वा पूर्ववद्बलिमुद्धरेत्॥११८॥
 
-
-
 शवाधिष्ठातृभूतेभ्यो बलिञ्च सुरया सह।  
 चतुःषष्टियोगिनीभ्यो डाकिनीभ्योऽपि सन्दिशेत्॥११९॥
 
@@ -7977,8 +7705,6 @@ A. A. S.
 
 तदा वीरपतेस्तस्य किं न सिध्यति भूतले।  
 निष्पापपुरुषे चैव सत्कुलीनैश्चसंस्कृता॥१४८॥
-
-
 
 असंस्कृतबरा देवी पापयुक्ते न संशयः।  
 सम्मुखेऽसभ्मुखे वापि संस्कृतं वक्ति चापरम्॥१४९॥
@@ -8070,8 +7796,6 @@ A. A. S.
 मम कार्यं कुरु स्वाहा अस्त्राय फट् ततः परम्।  
 इत्यात्मानं शवं चैव वेष्टयित्वा च साधकः॥१७८॥
 
-
-
 रेखात्रयं प्रकुर्वीत बलिं पश्चान्निवेदयेत्।  
 डाकिनीहाकिनीभ्यश्च शाकिनीभ्योऽपि सन्दिशेत्॥१७९॥
 
@@ -8161,8 +7885,6 @@ A. A. S.
 
 जय श्रीधरणी देवी पताके वरणस्थले।  
 तेन नीलपताकेयंसंयोज्या नीलसाधने॥२०८॥
-
-
 
 श्रीशक्तिस्मरबीजानि तदन्ते हूमिति स्मरेत्।  
 भृगुं सर्गान्वितं पश्चाद्दीर्घं कवचमुद्धरेत्॥२०९॥
@@ -8254,8 +7976,6 @@ A. A. S.
 शवमानीय तद्द्वारि तत्रैव परिखन्य च।  
 तद्दिनात्तद्दिनं यावत्तावदष्टोत्तरं शतम्॥२३८॥
 
-
-
 स भवेत् सर्वसिद्धीशा नात्र कार्या विचारणा।  
 अथवा विजनेऽरण्ये अस्थिशय्यासनो नरः॥२३९॥
 
@@ -8325,8 +8045,6 @@ A. A. S.
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये चतुर्दशोल्लासः॥१५॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **पञ्चदश उल्लासः**
 
@@ -8414,8 +8132,6 @@ A. A. S.
 एकादशे तु रुद्राणी द्वादशाब्दा तु भैरवी।  
 त्रयोदशे महालक्ष्मीर्द्विसप्ता पीठनायिका॥२८॥
 
-
-
 क्षत्रज्ञापञ्चदशभिःषोड़शे वाचिका मता।  
 एवं क्रमेण पूज्या तु यावत् पुष्पं न विद्यते॥२९॥
 
@@ -8500,8 +8216,6 @@ A. A. S.
 
 सन्ध्यादिनवकन्याञ्च समानीय प्रपूज्य च।  
 पूर्ववद्विधिवद्वीरो नवबालकमानयेत्॥५८॥
-
-
 
 वटुकं पञ्चवर्षञ्च नववर्षं गणेश्वरम्।  
 गन्धपुष्पाक्षताकल्पैर्यथाविभवविस्तरैः॥५९॥
@@ -8593,8 +8307,6 @@ A. A. S.
 क्षणं ध्यात्वा मनुंजप्त्वा नत्वा गच्छेद्यथासुखम्।  
 गृध्रंवीक्ष्य महाकालीं नमस्कुर्यादलक्षितम्॥८८॥
 
-
-
 क्षेमङ्करींतथा वीक्ष्य जम्बूकींयमदूतिकाम्।  
 कुररं द्रोणकाकन्तु कृष्णमार्जारमेव च॥८९॥
 
@@ -8684,8 +8396,6 @@ A. A. S.
 
 शान्तिकं पौष्टिकं वापि यथेच्छापूर्त्तकर्मणि।  
 यदा कुर्यात्तदा नत्वा देवीं यात्रां समाचरेत्॥११८॥
-
-
 
 तौर्यत्रिकं यदा पश्येद्देवानां गीतमेव वा।  
 तत्र देव्यै निवेद्यैव कर्त्तव्यञ्च प्रपूजनम्॥११९॥
@@ -8777,8 +8487,6 @@ A. A. S.
 अर्जुनो भीमसेनश्च द्रोणाचार्योवृषाकपिः।  
 दुर्योधनस्तथा कुन्ती सीता च रुक्मिणी तथा॥१४८॥
 
-
-
 सत्यभामा द्रौपदी च उर्वशी च तिलोत्तमा।  
 पुष्पदन्तो महाबुद्धो बाणः कालश्च मन्दरः॥१४९॥
 
@@ -8869,8 +8577,6 @@ A. A. S.
 सूर्याचनोक्तविधिना सर्वद्रव्यसमन्वितः।  
 आज्येनानामिकाङ्गुष्ठेवर्त्तिं प्रज्वाल्य साधकः॥१७८॥
 
-
-
 पञ्चवर्णरजश्चित्रेवसुपत्त्रसरोरुहे।  
 मधुसम्पूर्णकलसे कांश्यपात्रे मनोहरे॥१७९॥
 
@@ -8940,8 +8646,6 @@ A. A. S.
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये पञ्चदशोल्लासः॥१५॥**  
 
 **\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **षोड़श उल्लासः**
 
@@ -9028,8 +8732,6 @@ A. A. S.
 
 उपदिष्टा यदा देवी तदा देवी तु पुत्रिका।  
 पूजार्हा च यदा देवी तदा माता न संशयः॥२८॥
-
-
 
 सर्वथा पितृपुत्रीभ्यां मूलयोगो न दृश्यते।  
 तत्कृत्वा तेन पापेन उभौ नरकगामिनौ॥२९॥
@@ -9121,8 +8823,6 @@ A. A. S.
 तत्र प्रयोगमात्रेण कृष्णपक्षे विशेषतः।  
 क्षीणातिपूर्णतां याति यावत् सा तिथिरागता॥५८॥
 
-
-
 ततः प्रयोगं विद्यानां मन्त्रादीनाञ्च कारयेत्।  
 एवं यथा प्रबुद्धा सा नैव तादृक् कदाचन॥५९॥
 
@@ -9212,8 +8912,6 @@ A. A. S.
 
 रत्नपूजाविधानं हि कथयामि विशेषतः।  
 पुष्पाणि रचयेद्वीरो माणिक्यघटितानि च॥८८॥
-
-
 
 तैस्तु पूजा प्रकर्त्तव्याचक्रराजस्य पूर्ववत्।  
 नानापुष्पैः सुगन्धैश्चकर्पूरक्षोदचर्चितैः॥८९॥
@@ -9305,8 +9003,6 @@ A. A. S.
 वाग्भवाख्यां जपेद्विद्यांवागीशीं संस्मरन् बुधः।  
 कर्पूरधवलां शुभ्रपुष्पाभरणभूषिताम्॥११८॥
 
-
-
 अत्यन्तशुभ्रवसनां वज्रमौक्तिकभूषणाम्।  
 मुक्ताफलसमुद्भूतजपमालालसत्कराम्॥११९॥
 
@@ -9397,8 +9093,6 @@ A. A. S.
 कन्दर्पसम्पूटं कृत्वा कोणगर्भगतं ततः।  
 मकरध्वजसंज्ञन्तु सर्वमेतत् सुसाधकः॥१४८॥
 
-
-
 मीनकेतुगतं कुर्यात् मोहयेज्जगतीमिमाम्।  
 त्रैलोक्यमोहनो नाम प्रयोगोऽयं प्रदर्शितः॥१४९॥
 
@@ -9452,8 +9146,6 @@ A. A. S.
 
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावली निर्णये षोड़शोल्लासः॥**  
 **\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **सप्तदश उल्लासः**
 
@@ -9540,8 +9232,6 @@ A. A. S.
 
 प्रेतभूमौ बिल्वमूले हट्टेवा राजवेश्मनि।  
 सिन्दूरेण लिखेद् यन्त्रं विपुलं साध्यदर्भितम्॥२८॥
-
-
 
 तत्र सम्पूज्य विधिवत् कुलं कुलरसेन च।  
 तर्पयित्वा तदन्तःस्थं प्रजपेन्निशिचारतः॥२९॥
@@ -9633,8 +9323,6 @@ A. A. S.
 जटामुकुटशोभाढ्यांपितृभूमिसुखावहाम्।  
 एवं ध्यात्वा महादेवीं र्मानसैरुपचारकैः॥५८॥
 
-
-
 पूजयेद्विधिवद्भक्त्या स्वकीय हृदि पङ्कजे।  
 ततः साऽहं विभाष्याथ पुष्पं निःक्षिप्य मस्तके॥५९॥
 
@@ -9725,8 +9413,6 @@ A. A. S.
 इहामुत्र सुखी भूत्वा देवीपुत्रो भवेत् क्षितौ।  
 त्रिकोणेषु त्रयो देवा ब्रह्मविष्णुमहेश्वराः॥८८॥
 
-
-
 योनिमध्ये यजेन्नित्यं चण्डिकां कुलदेवताम्।  
 तत्र विद्यां जगद्धात्रींकुलामृतैःकुलक्रमात्॥८९॥
 
@@ -9813,8 +9499,6 @@ A. A. S.
 
 स्वरैरेव प्रपूज्या हि सर्वकामार्थसिद्धये।  
 तस्यास्तु मदनागारे पूजयेद्भगमालिनीम्॥११७॥
-
-
 
 वाग्भवं भगशब्दान्तेभुगे भगिनि चालिखेत्।  
 अथोदेरि भगान्ते च भगमाले भगावहे॥११८॥
@@ -9906,8 +9590,6 @@ A. A. S.
 फलं क्षीरं घृतं चैव मधु मौरेयमैक्षवम्।  
 पैष्टीभवं धान्यभवं तथा चक्रविनिर्मितम्॥१४७॥
 
-
-
 सहकारभवं चैव विविधं वस्तुभेदतः।  
 मादकं धर्मसंछेदात् वर्ज्यमाहुर्मनीषिणिः॥१४८॥
 
@@ -9997,8 +9679,6 @@ A. A. S.
 
 मायां कामं तथा पूर्वं ब्लूंस्त्रीञ्च यथाक्रमात्।  
 कामबीजञ्च कन्दर्पं मन्मथञ्च ततः परम्॥१७७॥
-
-
 
 मकरकेतनं चैव मनोभवञ्च ङेयुतम्।  
 प्रणवादिनमोऽन्तञ्च क्रमेण गन्धपुष्पकैः॥१७८॥
@@ -10090,8 +9770,6 @@ A. A. S.
 अष्टमीतिथिमासाद्य पक्षयोरुभयोरपि।  
 आमन्त्र्यविधिवद्योनिं तत्रैव योगिनीं यजेत्॥२०७॥
 
-
-
 पश्चात् सम्पूज्य देवेशी मूलमन्त्रञ्च साधकः।  
 षट्सहस्रं दिवारात्रौजप्त्वा मन्त्रमनन्यधीः॥२०८॥
 
@@ -10181,8 +9859,6 @@ A. A. S.
 
 एकायुतजपं कृत्वा सर्वसिद्धिपरायणः।  
 सर्वशास्त्रार्थवेत्ता च सर्वगः सर्ववित् प्रभुः॥२३७॥
-
-
 
 इदानीं कथ्यते दूतीयागस्य महिमाभृशम्।  
 योषितां योनिमास्थाय सर्वसिद्धिर्न संशयः॥२३८॥
@@ -10289,8 +9965,6 @@ A. A. S.
 शिवशिखिसितभानुं पञ्चमान्त्यस्वराट्यं द्वितयमिदमपूर्वं बीजमुग्रप्रभायाः।  
 क्षणमपि खमणीनां मण्डलान्तर्विभाव्य क्षपयति दुरदृष्टंवादिराड्जायते सः॥२७२॥
 
-
-
 स जयति रिपुवर्गान्वादिराजान् विवादे नमयति रमणीनां चित्तचौरश्चिरायुः।  
 कथयति कविराजैरप्यदृष्टंसुकाव्यम् मधुमतिरपि हेया किंपुनः सिद्धिसङ्गाः॥२७३॥
 
@@ -10346,8 +10020,6 @@ A. A. S.
 भजति यदि चिदानन्दधृक्केवलोऽसौ विपिन भुवि च मध्ये कौतुकान् मां मनुष्यः॥२९०॥
 
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये सप्तदशोल्लासः॥**
-
-
 
 **अष्टादश उल्लासः।**
 
@@ -10434,8 +10106,6 @@ A. A. S.
 
 गुरोराक्षेपसम्पत्तिर्जन्तूनां व्याधिसाधनम्।  
 अन्यमन्त्रार्चने श्रद्धा स्वदेवार्चननिन्दनम्॥२८॥
-
-
 
 असिद्धार्थंकुले तत्र सिद्धार्थजपमाचरेत्।  
 गणेशं वटुकं पश्चात् क्षेत्रेशं योगिनीस्तथा॥२९॥
@@ -10527,8 +10197,6 @@ A. A. S.
 चत्तारिंशत् प्रकारा या भैरवी विदिता भूवि।  
 तासां तु समता ज्ञेया गुप्तसाधनसाधने॥५८॥
 
-
-
 या या विद्या महाचण्डास्तासामेवं विधिर्मतः।  
 महाचीनक्रमेणैव छिन्नमस्ता तु सिद्धिदा॥५९॥
 
@@ -10619,8 +10287,6 @@ A. A. S.
 आज्ञासिद्धिमवाप्नोति सत्यं सत्यं न संशयः।  
 प्रातः स्नानरतो मन्त्री नित्यमष्टोत्तरं शतम्॥८८॥
 
-
-
 जपेत्तस्याऽऽशु सिध्यन्ति धनधान्यादिसम्पदः।  
 अनेन विधिना मन्त्री ग्रहक्षुद्ररिपून् जयेत्॥८९॥
 
@@ -10687,8 +10353,6 @@ A. A. S.
 **इति ज्ञानानन्द परमहंसविरचिते कौलावली निर्णये अष्टादशोल्लासः॥  
 
 \_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **एकोनविंश उल्लासः**
 
@@ -10761,8 +10425,6 @@ A. A. S.
 
 पौर्णमासी मन्दभानुयुक्ता विद्वेषकर्मणि।  
 कृष्णा चतुर्दशी तद्वदष्टमी मन्दवारकाः॥२२॥
-
-
 
 उच्चाटने तिथिः शस्ता प्रदोषे च विशेषतः।  
 चतुर्दश्यष्टमी कृष्णा त्वमावास्या तथैव च॥२३॥
@@ -10854,8 +10516,6 @@ A. A. S.
 ग्रथनञ्च विदर्भश्च संपुटं रोधनन्तथा।  
 योगः पल्लव इत्येते विन्यासाः षट्सुकर्मसु॥५२॥
 
-
-
 योगास्त्रान्तरितान् कृत्वा साध्यवर्णान् यथाविधि।  
 ग्रथनन्तद्विजानीयात् प्रशस्तं शान्तिकर्मणि॥५३॥
 
@@ -10945,8 +10605,6 @@ A. A. S.
 
 साधकेनैव नियतं तत् सर्वं तस्य वश्यगम्।  
 योनिपुष्पैलिङ्गपुष्पैर्मिश्रीकृत्य च साधकः॥८२॥
-
-
 
 अञ्जलित्रयदानेन राजानं वशमानयेत्।  
 रहस्यस्थानके मन्त्री लिखेद्रोचनया भुवि॥८३॥
@@ -11038,8 +10696,6 @@ A. A. S.
 तस्माद् यत्नाद्गोपितव्यं न प्रकाश्यं कदाचन।  
 अनयाकृष्टिकर्मज्ञइति चेत् प्रतिपद्यते॥११२॥
 
-
-
 निश्चितं निमिषे हानिस्तदा तस्य प्रजायते।  
 यदि स्वप्नावतीं विद्यां साधकः श्थिरमानसः॥११३॥
 
@@ -11129,8 +10785,6 @@ A. A. S.
 
 चौरग्रहजलारिष्टशाकिनीडाकिनीभयम्।  
 भयं न विद्यते कुत्रपरमञ्चाभिचारकम्॥१४२॥
-
-
 
 नित्यं संसाधयेद् देवीं कालमृत्युं विनाशयेत्।  
 न शक्तो हिंसितुं तस्य रोमैकमपि सर्वथा॥१४३॥
@@ -11222,8 +10876,6 @@ A. A. S.
 जटाजूटसमायुक्तां महाकालसमीपगाम्।  
 अष्टोत्तरशतामन्त्र्यपूर्वद्रव्येण साधकः॥१७२॥
 
-
-
 तेनैव तिलकं कृत्वा वशयेज्जगतीमिमाम्।  
 शताभिमन्त्रितं कृत्वा रोचनातिलकेन तु॥१७३॥
 
@@ -11313,8 +10965,6 @@ A. A. S.
 
 निजमन्त्रंयथान्यायमष्टोत्तरसहस्रकम्।  
 अग्निमादाय सन्दीप्य साध्यनक्षत्रदारुभिः॥२०२॥
-
-
 
 तस्मिन्नभ्यर्च्य मन्त्रोक्तां देवतां रूप्यपत्रके।  
 कुशीतराजिदूर्वाभिर्दत्त्वाऽर्घ्यं प्रणमेत् सुधीः॥२०३॥
@@ -11406,8 +11056,6 @@ A. A. S.
 जपित्वा सिद्धगुञ्जानां कुड्वञ्चानलोदरे।  
 निःक्षिपेत् शत्रुसेनायां गूढंरात्रिसमागमे॥२३२॥
 
-
-
 ज्वरमारीमहारागैः पीड़ितः सैन्यनायकः।  
 परस्परविरोधेन गच्छेद्विगतचेष्टया॥२३३॥
 
@@ -11498,8 +11146,6 @@ A. A. S.
 दिक्पतिभ्यो बलिं दत्वा ब्राह्मणान् भोजयेत्ततः।  
 दीनांश्च कृपणादींश्च तोषयेद्भोजनादिभिः॥२६२॥
 
-
-
 गुरवे दक्षिणां दद्यात् यथावित्तानुसारतः।  
 यत्नेयं विहिता रक्षा देशे वा नगरेऽपि वा॥२६३॥
 
@@ -11536,8 +11182,6 @@ A. A. S.
 **इति श्रीज्ञानानन्द परमहंस विरचिते कौलावलीनिर्णये एकोनविंशोल्लासः॥१६॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **विंश उल्लासः**
 
@@ -11628,8 +11272,6 @@ A. A. S.
 तत्क्षणात् साधकश्रेष्ठःखेचरो भवति ध्रुवम्।  
 एवं षण्मासयोगेन सिद्धो भवति साधकः॥२९॥
 
-
-
 **अथ षड़ङ्गदेवता।**
 
 ओङ्कारस्फटिक श्यामानीलकृष्णारुणार्च्चीषः।  
@@ -11718,8 +11360,6 @@ A. A. S.
 सुप्रीता कालिका स्वप्ने दर्शनं प्रददाति च।  
 मत्स्याशी नित्यमांसाशी रात्रौ पश्चिमदिङ्मुखः॥५७॥
 
-
-
 शतमष्टोत्तरं कृत्वा यो जपेदर्धरात्रकम्।  
 सत्यं सत्यं पुनः सत्यं तच्छत्रुर्यमवल्लभः॥५८॥
 
@@ -11789,8 +11429,6 @@ A. A. S.
 **इति श्रीज्ञानानन्द परमहंस विरचिते कौलावलीनिर्णये विंशोल्लासः॥२०॥**  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **एकविंश उल्लासः**
 
@@ -11878,8 +11516,6 @@ A. A. S.
 मस्तके मणिवद्भिन्नस्वयम्भुलिङ्गवेष्टिनी।  
 नान्यः पन्था द्वितीयोऽस्ति शरीरे परमस्य च॥२८॥
 
-
-
 मूलाधारे कामरूपं पीठं परमदुर्लभम्।  
 अधोवक्त्राणि पद्मानि मूलादीनि यथाक्रमात्॥२९॥
 
@@ -11945,8 +11581,6 @@ A. A. S.
 
 अनाहतं हृदि ध्यायेत् पिङ्गाभं द्वादशच्छदम्।  
 द्रुतस्वर्णप्रभावर्णैः कादिठान्तैश्च मण्डितम्॥५२॥
-
-
 
 मेदःस्थां काकिनीं तत्र पीताभां मत्तरूपिणीम्।  
 अभयं डमरुंशूलं पाशञ्च करपङ्कजैः॥५३॥
@@ -12015,8 +11649,6 @@ A. A. S.
 इह सन्निहितस्वचित्तवृत्तिः प्रतिमायाः प्रतिजल्पनं करोति।  
 गमनञ्च पुरे परेषां पुनरुत्थानमप्यहो मृतस्य॥७३॥
 
-
-
 निरालम्बां मुद्रां निजगुरुमुखेनैव विदिता-  
 मिह स्थाने कृत्वा स्थिरनिशितधीः साधकवरः।  
 सदाऽभ्यासात् पश्यत्यमरनिलयानन्तरखिला-  
@@ -12074,8 +11706,6 @@ A. A. S.
 बालाग्रस्य विखण्डितस्यशतधा चैकेन भागेन या  
 सूक्ष्मत्वात् सदृशी निरन्तरगलत्पीयूषधाराधरा॥९०॥
 
-
-
 एतस्याः परतः स्थिता भगवती भूताधिदेवाधिपा  
 निर्वाणाख्यकलाऽर्धचन्द्रकुटिला सा षोड़शान्तर्गता।  
 बालाग्रस्य सहस्रधा विगलितस्यैकेन भागेन या  
@@ -12120,8 +11750,6 @@ A. A. S.
 
 चतुर्विधा तु या सृष्टिर्यस्यां योनौ प्रजायते।  
 पुनः प्रलीयते यस्यां कालाग्न्यादिशिवान्तकम्॥१०१॥
-
-
 
 योनिमुद्रा परा ह्येषा बन्धस्तस्याः प्रकीर्त्तितः।  
 तस्यास्तु बन्धमात्रेण तन्नास्ति यन्न साधयेत्॥१०२॥
@@ -12213,8 +11841,6 @@ A. A. S.
 न पूजा नापि तन्नाम न निष्ठान व्रतादिकम्।  
 पूर्णोऽहं भैरवश्चाहं नित्यानन्दोऽहमव्ययः॥१३१॥
 
-
-
 निरञ्जनस्वरूपोऽहं निर्विकारोह्यहं प्रभुः।  
 सर्वशास्त्राभियुक्तोऽहं सर्वमन्त्रार्थपारगः॥१३२॥
 
@@ -12234,21 +11860,8 @@ A. A. S.
 
 **इति ज्ञानानन्दपरमहंसविरचिते कौलावलीनिर्णये एकविंशोल्लासः समाप्तः॥२१॥**  
 
-
 ॥समाप्तोऽयं कौलावलीनिर्णयः॥  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_  
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

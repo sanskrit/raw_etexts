@@ -17,23 +17,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxMzU2NjYyNzc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 ** **
 
 [TABLE]
-
-
 
 ![](../books_images/U-IMG-1720521726hkgx.png)
 
@@ -42,8 +28,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAxMzU2NjYyNzc
 PANDIT KULAPATI  
 JIBANANDA VIDYASAGARA, B.A.  
 *Superintendent, Free Sanskrit College, Calcutta..***
-
-
 
 **श्यामारहस्यम्।**  
 –––––––––
@@ -3192,7 +3176,6 @@ JIBANANDA VIDYASAGARA, B.A.
 मातेव दक्षिणा तस्य सर्वत्र हितकारिणी।  
 तस्य देहे सदा कालीवसेद्राम ! न संशयः॥**  
 
-
 **पूजाजपविहीनाय स्त्रीसुरानिन्दकाय च।**  
 **षण्मार्गस्य रोधकाय गुर्वभक्ताय सर्वदा॥**
 
@@ -3941,10 +3924,7 @@ JIBANANDA VIDYASAGARA, B.A.
 
 **\_\_\_\_\_\_\_\_**
 
-
-
 **अथ पञ्चमः परिच्छेदः।**  
-
 
 **अथ मन्त्रसिद्ध्यर्थमादौ पुरश्चरणविधिर्लिख्यते।**
 
@@ -5604,7 +5584,6 @@ JIBANANDA VIDYASAGARA, B.A.
 **त्पादनं नाम नवमः परिच्छेदः।**
 
 \_\_\_\_\_\_  
-
 
 **अथ दशमः परिच्छेदः।**
 
@@ -7411,14 +7390,5 @@ JIBANANDA VIDYASAGARA, B.A.
 श्यामारहस्यं समाप्तम्॥**
 
 **\_\_\_\_\_\_**
-
-
-
-
-
-
-
-
-
 
 \]

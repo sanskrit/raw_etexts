@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NDM5MzMwMjE
 
 \[
 
-
-
 **Adi Sankara**
 
 **Advaitanubhuti**
@@ -192,8 +190,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NDM5MzMwMjE
 विश्वादिकत्रयं यस्मिन्परमात्मनि सत्यवत्। स व परमात्माहं विश्वादिकविलक्षणः ॥१.८३॥
 
 विराडादित्रयं भाति यस्मिन्साक्षिणि सत्यवत्। स व सच्चिदानन्दलक्षणोऽहं स्वयंप्रभः ॥१.८४ ॥
-
-
-
 
 \]

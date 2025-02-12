@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MTgwNzE5ODI
 
 \[
 
-
-
 ***शिवसूत्रवार्तिकम्***
 
 प्रथम उन्मेष  
@@ -999,6 +997,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA5MTgwNzE5ODI
  अनुगृह्णन्तु नामैतत्सन्तः संतोषमागताः ॥ वार्त्तिक ३.४५ः१९ ॥\]
 
 ---------------------------------------------------------
-
 
 \]

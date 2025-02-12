@@ -12,15 +12,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 
 \[
 
-
-
-
-
-
-
-
-
-
 श्रीहरिनामचिन्तामणि  
 श्रीगोद्रुमचन्द्राय नमः
 
@@ -289,9 +280,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 
 इति श्रीहरिनामचिन्तामणौ नाममाहात्मसूचनं नाम प्रथमः परिच्छेदः ।
 
-
-
-
 (२)  
 द्वितीय परिच्छेद  
 नामग्रहणविचार
@@ -355,7 +343,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 नाम रूप एक वस्तु नाहिक प्रभेद ॥ २.२० ॥  
 श्रीनाम स्मरिले रूप आइसे सङ्गे सङ्गे ।  
 रूप नाम भिन्न नय नाचे नाना रङ्गे ॥ २.२१ ॥
-
 
 कृष्णगुण नित्य
 
@@ -508,11 +495,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 हरिदास पदे भक्तिविनोद याहार ।  
 हरिनाम चिन्तामणि जीवन ताहार ॥ २.७० ॥
 
-
 इति श्रीहरिनामचिन्तामणौ  
 नामग्रहणविचारो नाम द्वितीयः परिच्छेदः ।
-
-
 
 (३)  
 तृतीय परिच्छेद  
@@ -768,8 +752,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 
 इति श्री हरिनामचिन्तामणौ नामाभासवर्णनं नाम  
 तृतीयः परिच्छेदः ।
-
-
 
 (४)  
 चतुर्थ परिच्छेद  
@@ -1034,7 +1016,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 इति श्रीहरिनामचिन्तामणौ साधुनिन्दापराधविचारो  
 नाम चतुर्थः परिच्छेदः ।
 
-
 श्रीहरिनामचिन्तामणि  
 श्रीगोद्रुमचन्द्राय नमः
 
@@ -1367,7 +1348,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 श्रीनाम स्मरिले रूप आइसे सङ्गे सङ्गे ।  
 रूप नाम भिन्न नय नाचे नाना रङ्गे ॥ २.२१ ॥
 
-
 कृष्णगुण नित्य
 
 कृष्णगुण चतुःषष्ठि अनन्त अपार ।  
@@ -1518,7 +1498,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 नामे अनुराग मागे चरण धरिया ॥ २.६९ ॥  
 हरिदास पदे भक्तिविनोद याहार ।  
 हरिनाम चिन्तामणि जीवन ताहार ॥ २.७० ॥
-
 
 इति श्रीहरिनामचिन्तामणौ  
 नामग्रहणविचारो नाम प्रथमः परिच्छेदः ।
@@ -2266,8 +2245,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 इति श्री हरिनामचिन्तामणौ देवान्तरे स्वातन्त्र्यज्ञानआपराध  
 नाम पञ्चमः परिच्छेदः ।
 
-
-
 (६)  
 षष्ठ परिच्छेद  
 गुर्व्अवज्ञा
@@ -2475,8 +2452,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 इति श्री हरिनामचिन्तामणौ गुर्व्अवज्ञाविचारो  
 नाम षष्ठः परिच्छेदः ।
 
-
-
 (७)  
 सप्तम परिच्छेद
 
@@ -2659,8 +2634,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 इति श्री हरिनामचिन्तामणौ श्रुतिनिन्दा अपराध विचारो  
 नाम सप्तमः परिच्छेदः ।
 
-
-
 (८)  
 अष्टम परिच्छेद
 
@@ -2783,8 +2756,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 
 इति श्री हरिनामचिन्तामणौ अर्थवादापराधविचारो  
 नाम अष्टमः परिच्छेदः ।
-
-
 
 (९)  
 नवम परिच्छेद  
@@ -2927,14 +2898,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 इति श्री हरिनामचिन्तामणौ नामबले पापबुद्धिर्  
 नाम नवमः परिच्छेदः ।
 
-
-
 (१०)  
 दशम परिच्छेद
 
 अश्रद्दधाने विमुखेऽप्यशृण्वति  
 यश्चोपदेशः शिवनामापराधः
-
 
 गौर गदाधर जय जाह्नवाजीवन ।  
 जय जय सीताद्वैत जय भक्तगण ॥ १०.१ ॥  
@@ -3017,9 +2985,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 श्रद्धाय करुक अनुकरण चरण ॥ १०.३२ ॥  
 भक्त पाद भक्तिते विनोद याहार ।  
 हरिनामचिन्तामणि अलङ्कार तार ॥ १०.३३ ॥
-
-
-
 
 (११)  
 एकादश परिच्छेद  
@@ -3114,9 +3079,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 अतएव नाम आसिऽ हेल युग धर्म ॥ ११.५८ ॥  
 हरिदासदास भक्तिविनोद से जन ।  
 हरिनामचिन्तामणि गाय अकिञ्चन ॥ ११.५९ ॥
-
-
-
 
 (१२)  
 द्वादश परिच्छेद
@@ -3256,8 +3218,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 तबे आमि भाग्य हीन हे शचीनन्दन ॥ १२.५१ ॥  
 हरिनामचिन्तामणि अलङ्कार यार ।  
 हरिदासपदयुग भरसा ताहार ॥ १२.५२ ॥
-
-
 
 (१३)  
 त्रयोदश परिच्छेद
@@ -3413,8 +3373,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 कृपा कर महाप्रभु मजि नाम रसे ॥ १३.५९ ॥  
 ए भक्तिविनोद हरिदास कृपा बले ।  
 हरिनामचिन्तामणि गाय कुतूहले ॥ १३.६० ॥
-
-
 
 (१४)  
 चतुर्दश परिच्छेद  
@@ -3658,7 +3616,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 
 सञ्चारी सात्त्विक क्रमे उदित हेले ।  
 स्थायीभाव रस हय सर्वशास्त्र बले ॥ १५.३२ ॥
-
 
 ताहा पाइबार क्रम
 
@@ -3934,15 +3891,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjAwNDk5NTU5
 इति श्रीहरिनामचिन्तामणौ भजनप्रणालीप्रदर्शनं नाम  
 पञ्चदशः परिच्छेदः  
 \\Z
-
-
-
-
-
-
-
-
-
-
 
 \]

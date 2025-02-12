@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MzM5NzkyMjY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 ॥ श्रीः॥
 
 श्रीमदादिशेषप्रणीतम्
@@ -70,8 +58,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MzM5NzkyMjY
 सत्यमिव जगदसत्यं मूलप्रकृतेरिदं कृतं येन।
 
 तं प्रणीपत्योपेन्द्रं वक्ष्ये परमार्थसारमिदम्॥७॥
-
-
 
 अव्यक्तादण्डमभूदण्डाद्ब्रह्मा ततः प्रजासर्गः।
 
@@ -397,11 +383,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MzM5NzkyMjY
 
 इति भगवदादिशेषप्रणीतं परमार्थसारं सम्पूर्णम्॥
 
-
-
 **Encoded and proofread by Suryansu Ray suryansuray at yahoo.com**
-
-
 
 **Encoder preferred the use of ardhachandrabindu, e.g.**सँ **for correct**
 
@@ -409,17 +391,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MzM5NzkyMjY
 
 **Normally it is provided with a simple anusvAra **सं**, overdot.**
 
-
-
-
-
-
-
-
-
 **NOTES** \[ by Dr. L. Sulochana Devi, Department of Vedanta, Sree Shankaracharya University of Sanskrit, Kalady, Kerala, India \] :
-
-
 
 1. This verse is available only in the palm-leaf manuscript found from Travancore Palace, Kerala, India. Various editions in different scripts published since 1888 except one issued from Varanasi have excluded this verse. This verse must have been composed by some later scholars devoutly providing the work with an auspicious invocation.
 
@@ -436,47 +408,23 @@ Abhinavagupta’s work contains a corresponding verse.
 
 ----------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
 ON PARAMĀRTHASĀRA OF ĀDIŚEṢA
-
-
 
 The paramārthasāra of Ādiśeṣa is one of the earliest prakaraṇa works with the advaita mode of explaining the incomprehensible. Since it originally contained 85 verses composed in the āryā metre, it is alternatively called the āryāpañcāśīti. From the text it becomes clear that Śeṣa was a devotee of the Lord Viṣṇu.
 
-
-
 This paramārthasāra is older than Śaṅkara’s advaita bhāṣyas at least by 300 years. Patañjali of the yogasūtra fame is regarded as an incarnation of Ādiśeṣa, and hence paramārthasāra of Ādiśeṣa was published in the journal *Paṇḍit* as the āryāpañcāśīti of Patañjali. Indian sages saw life in eternal continuity and they totally disregarded any historical references to their identities and compositions. In any case, it is now certain that this prakaraṇa of Śeṣa is much older than a similar advaita prakaraṇa called the gauḍapādakārikā of 5th century A. D.
-
-
 
 An old palm-leaf manuscript, possibly the oldest, of the paramārthasāra of Ādiśeṣa is kept in the library of the Travancore palace in Kerala, India. It contains a commentary by rāghavānanda, who lived in the 4th century. Another palm-leaf manuscript was later found among the personal collections of a Brahmin in Kanyakumari of Tamil Nadu, India.
 As usual, many interpolations could be isolated from the original 85 verses.
 
-
-
 It is surprising that only 85 beautifully composed verses could explain the illusory nature of this material world. Separately and eternally existing matter and consciousness, and multiplicity of souls, --- which is the main contention of the theory of duality, --- has been successfully demolished by Ādiśeṣa by his inimitable style and examples. Somehow this work on advaita became obscure and the bhagavadgītā, which is based on duality, became popular.
-
-
 
 In the 11th century, Abhinavagupta, the famous Kashmiri devotee of the Lord Śiva, wrote a revised version of the paramārthasāra. He slightly modified most of the verses of Śeṣa and added a few more to clarify the difficult advaita outlook. From his remarks it is realized that the paramārthasāra had been elevated by his time to the level of a Śruti.
 Abhinavagupta’s work spins around the Lord Śiva, is taught in the universities world over, and is readily available.
 
-
-
 *Chandas (Metre) Used in Ādiśeṣa’s paramārthasāra* :
 
-
-
 Ādiśeṣa uses various forms of the metre called āryā. It is a mātrā metre, where instead of observing the lenghts of the syllables with precise positions in a verse, one should count the total number of mātrās in every 4th part of a verse. A mātrā means quantity, magnitude, weight, value, mark, etc. The vowels a, i, u, ṛ, ḷ, are the short vowels; the vowels ā, ī, ū, ṝ, ḹ, e, ai, o, au are the long vowels. A short vowel counts one mātrā, a long vowel counts two mātrās. If a vowel is followed by a saṁyoga ( a combination of two or more consonants ), that vowel counts two mātrās. A vowel followed by an anusvāra or a visarga counts two mātrās. At the ends of both the lines of a verse, a short vowel may count two mātrās, if necessary for the sake of the metre. Each verse contains two lines. Each line is divided into two parts. Hence each verse is divided into four parts. In the āryā metre the numbers of mātrās in the four parts of a verse are : 12, 18 ; 12, 15 respectively. The two other forms of āryā metre employed in the paramārthasāra are gīti āryā and upagīti āryā. The following is the mātrā counts for all these three variations of āryā metre:
-
-
 
 1. āryā metre : 12, 18 \। 12, 15 \।\।
 
@@ -484,11 +432,7 @@ Abhinavagupta’s work spins around the Lord Śiva, is taught in the universitie
 
 3. upagīti āryā metre : 12, 15 \। 12, 15 \।\।
 
-
-
 *Examples of These Metres from Ādiśeṣa’s paramārthasāra* :
-
-
 
 āryā : Break Verse 16 as follows, where numbers are mātrās for the vowel :
 
@@ -501,8 +445,6 @@ ti \[2\] = 18
  an \[2\] taḥ \[2\] ka \[1\] ra \[1\] ṇe \[2\] gac \[2\] cha \[1\] ti \[1\] = 12
 
  gac \[2\] chat \[2\] yāt \[2\] mā \[2\] pi \[1\] tad \[2\] va \[1\] di \[1\] ha \[2\] = 15
-
-
 
 gīti āryā : Break Verse 32 as follows from Ādiśeṣa’s paramārthasāra :
 
@@ -518,8 +460,6 @@ gīti āryā : Break Verse 32 as follows from Ādiśeṣa’s paramārthasāra :
 
  = 18
 
-
-
 upagīti āryā : Break Verse 35 as follows from Ādiśeṣa’s paramārthasāra :
 
  e \[2\] kas \[2\] min \[2\] na \[1\] pi \[1\] ca \[1\] gha \[1\] ṭe \[2\] = 12
@@ -534,14 +474,5 @@ upagīti āryā : Break Verse 35 as follows from Ādiśeṣa’s paramārthasār
 -
 
 \[ Typed by Suryansu Ray \]
-
-
-
-
-
-
-
-
-
 
 \]

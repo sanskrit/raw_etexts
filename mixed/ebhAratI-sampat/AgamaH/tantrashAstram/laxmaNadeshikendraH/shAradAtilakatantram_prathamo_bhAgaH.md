@@ -16,43 +16,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyOTg4MjI3MjQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-
-
-[TABLE]
-
-
-
-
 
 **INTRODUCTION.**
 
@@ -687,8 +659,6 @@ Verse110 gives the Kāma-linga Yantra.Verse 111 gives a Mantra of thirty-two let
 
  He is lustrous like a mountain of silver with the beautifully shining moon on his forehead. He is adorned with gems and carries in each of his four hands a battle-axe, a deer and the gestures of granting boons and dispelling fear. He is gracious of mien, seated on a lotus, raimented with a tiger-skin and
 
-
-
 surrounded by all the Devas who are singing his praise. He is the source of the universe. His form is the universe. He dispels all fears. He has five faces with three eyes in each.
 
  This is followed by (Vv. 14-31) rules of Purashcharana and other rites.
@@ -1172,8 +1142,6 @@ shields. She has three eyes and has the Moon on her forehead She has in each of 
 
  *(I) Cf. Rigveda I, 23, 17; VII, 49, 4; VII, 85, 3; II, 35, 4; VII, 30, 4 where celestial waters are spoken of.*
 
-
-
 that is, the son of āpa (2). Hence āpa would include all fluids, both liquid and gaseous. From such considerations I have taken Vāyu to mean the vital airs, the life-principle of the senses which function through sparsha or touch. In the Upanisads the senses or indrlyas are called prānas (modes of life), and Vāyu is prāna, The indriyas are the shaktis of perception, the prānas underlying it, and Vāyu constitutes these shaktis or prānas. Again, the Chhāndogya Upanisad speaks of the physical world as constituted of tejas, āpa and anna (fire, the waters and food or earth) (3). This tripartite (trivrit) constitution of the physical world can never be complete without air, for even a barbarian will say that air is a necessary constituent of it. Commentators, therefore, who consider Vāyu to mean air, have been obliged to consider the Chhāndogya statement as incomplete and seek to supplement it by statements from the Brihadāranyaka and other Upanisads which speak of the creation of Akāsha and Vāyu before the creation of Tejas. But the proper view should, I think, be to divide the five-Akāsha, Vāyu, Tejas, Apa and Ksiti-into two groups, placing Akāsha and Vāyu in one group, and Tejas, Apa and Ksiti in the other, so that the principles of space and vitality may be separated from the principles of heat, light, fluidity and solidity of which the material world, as we call it, is constituted. And this is what the Chhāndogya Upanisad seems to have done.
 
  II. From the Sparsha-Tanmātra evolves the Rūpa Tanmātra, the principle of visibility or luminosity, which gives the visible appearance (rūpa) to objects, and from it evolves, in the grosser scale, heat and light (tejas). The next in order is Rasa-Tanmātra or the principle of fluidity which gives to every object its distinctive rasa or taste and from which evolve all liquids and gases. The last is the Gandha-Tanmātra, the principle of solidity which has the distinctive characteristic of smell, it was supposed, and out of which the solid earth is evolved.
@@ -1190,8 +1158,6 @@ that is, the son of āpa (2). Hence āpa would include all fluids, both liquid a
 
  (3) Chhāndogya Up. VI, 2, 3-4.
 
-
-
 composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). Many are the forms into which non-moving things are divided such as rocks, plants and so forth. Moving things, however, are divided into three classes, namely, those which are born out of secretions or heat (svedaja), those which are born out of eggs (andaja) and those which are born out of the womb (jarāyuja). Man belongs to this last class of jarāyujas (uterines).” (Verses 27-29). It should be noted that things are divided into moving and non-moving things and not into living and non-living things. The Hindus have always known plants to be living although non-moving and have always been averse to classify any objects as absolutely non-living. They have rather the idea that there is life or sensation in every thing, however much obscure or crude it may be. Everything in the universe, they suppose, is made up of a conscious factor and an unconscious factor, the conscious factor manifesting itself as the living subject capable of sensation and the unconscious factor manifesting itself as the object of sensation through sight, touch and so forth. This point has been tersely put by Hindu philosophers as “drishyatvāt jadatvam”, the fact of being unconscious comes from the fact of being an object of perception. Thus such parts of a man as are capable of being seen, heard, touched, tasted or smelt, or becoming in any way objects of perception make up the unconscious factor in him and the part of him which can perceive the sensations of sight and so forth is his conscious factor. And it is the blending of these two, the conscious factor and the unconscious factor, which constitutes life. The world is evolved out of energised consciousness, Saguna or Sakala Shiva, that is, consciousness in intimate association with Guna or Prakriti or unconsciousness. Hence no part of it is absolutely devoid of consciousness, as no part of it is absolutely devoid of unconsciousness. And through this intimate association of the two there is life or sensibility everywhere, whether we detect it or not.
 
  15. Into the womb enters a Bindu (drop) which is male, female or neuter and a combination of ovum and sperm, “and then an ātmā controlled by the chain of nescience in consonance with previous karma assumes jīvahood (the state of individualised existence) therein (in the Bindu)” (verse 31). The Bindu is surely not the spirit that inhabits it. But the question is, how did the spirit come to inhabit it? Was the spirit in the sperm or was it in the ovum or was it in neither but came later to the body built in the womb? The Shruti leans to the idea that it was in the sperm (vide Panchagnividyā, the science of Five Fires, in Chhāndogya and Brihadāranyaka Upanisads). But the author here seems to hold the idea that it is after the sperm and the ovum have combined to form a Bindu or drop-like substance, the blastosphere, or cytula (as Haeckel calls it), of physiology, that the spirit comes to reside in it. But what again this spirit (ātmā) that comes to reside in the Bindu that enters into the womb to develop into the future body of the individual? Is it the ātmāwho is consciousness itself and eternal and with whom there is no such thing as being born or dying? Or, is it the jivātmā, the consciousness of life, that is, the conciousness that illumines the mind or subtle body which re-incarnates from gross body to gross body, thus suffering life and death? Raghava Bhatta, the commentator, thinks that here the appearance of an eternal ātmā has been spoken of in accordance with the Sānkhya conception of multiplicity of eternal ātmās, and considers such an ātmā “as entering a body as one enters a house”. But an eternal ātmã, though one of many such ātmās according to Sānkhya, is infinite and inactive (niskriya) at the same time. Hence it is almost meaningless to say that such an ātmā enters a body and assumes jīvahood therein, if he was not already a jīva there. More probably what the author here means to say is that the jīvātmā, who was, according to Shruti, sleeping in the sperm in the father’s body, awakes, in the mother’s womb, to assume the burdens jīvahood in the fertilised egg.
@@ -1202,17 +1168,9 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 ![](../books_images/U-IMG-1726769371Screenshot2024-09-19233914.png)
 
-
-
 [TABLE]
 
-
-
-
-
 ![](../books_images/U-IMG-1726713909Screenshot2024-09-19081453.png)
-
-
 
 **सूचीपत्रम्**
 
@@ -1247,10 +1205,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 | वन्हीन्द्वर्कस्वरूपत्वम्                                          | \* पञ्चीकरणम्                                                 |     |
 | शब्दब्रह्मोत्पत्तिः                                               |                                                              |     |
 
-
-
-
-
 |                                                |                                                 |
 |:----------------------------------------------:|:-----------------------------------------------:|
 |                   **विषयाः**                   |                   **विषयाः**                    |
@@ -1282,10 +1236,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |                षट्कोशोत्पत्तिः                 | निरोधिकार्द्धेन्दुविन्दूनामर्काग्नीन्दुरूपत्वम् |
 |          जन्तोर्गर्भाशयस्थितिवर्णनम्           |         वर्णानां सोमसूर्याग्निरूपत्वम्          |
 |               शुक्रशोणितकार्याणि               |                                                |
-
-
-
-
 
 |                                   |                                |
 |-----------------------------------|--------------------------------|
@@ -1320,10 +1270,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 | योनिमुद्रया दुष्टमन्त्रशोधनम्     | \* दीक्षायां शुभाशुभकालादि     |
 | \* योनिमुद्रालक्षणम्              |                               |
 
-
-
-
-
 |                                        |                               |
 |:--------------------------------------:|:-----------------------------:|
 |               **विषयाः**               |          **विषयाः**           |
@@ -1355,10 +1301,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |             वेदीनिर्माणम्              |        स्थण्डिललक्षणम्        |
 |             अङ्कुरार्पणम्              |        स्रुगादिलक्षणम्        |
 |                                       |         वेदीरचनाविधिः         |
-
-
-
-
 
 |                                      |                                    |
 |:------------------------------------:|:----------------------------------:|
@@ -1392,10 +1334,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |          \* कौशेयाद्यासनानि          |         अर्घ्यस्थापनविधिः          |
 |                                     |    \* मत्स्याङ्कुशमुद्रालक्षणम्    |
 
-
-
-
-
 |                                             |                                |
 |:-------------------------------------------:|:------------------------------:|
 |                 **विषयाः**                  |           **विषयाः**           |
@@ -1427,10 +1365,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |                \* प्रतीकभेदः                |         अथ अग्निजननम्          |
 |          \* पूजाविहतौ शुद्धिनियमः           |       कुण्डसंस्कारविधिः        |
 |          \* यन्त्रहीनपूजायां दोषः           |                               |
-
-
-
-
 
 |                                     |                              |
 |:-----------------------------------:|:----------------------------:|
@@ -1498,8 +1432,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |      \* वर्णजननीध्यानम्      |      आग्नेययन्त्रम्       |
 |       सम्मोहनीध्यानम्        |                          |
 
-
-
 |                             |                             |
 |:---------------------------:|:---------------------------:|
 |         **विषयाः**          |         **विषयाः**          |
@@ -1531,8 +1463,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |         पीठमन्त्रः          |     द्वादशगुणितयन्त्रम्     |
 |      वासुदेवादिध्यानम्      |      पुत्रप्रदयन्त्रम्      |
 |    चतुर्बीजात्मकमन्त्रः     |       वश्यकरयन्त्रम्        |
-
-
 
 |                                      |                                  |
 |:------------------------------------:|:--------------------------------:|
@@ -1566,8 +1496,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |       वश्यावहश्रीप्रदयन्त्रम्        | \* दुर्गामुद्रा| पीठशक्तिध्यानम् |
 |         अनुग्रहाख्ययन्त्रम्          |           पूजाप्रयोगः            |
 
-
-
 |                              |                           |
 |:----------------------------:|:-------------------------:|
 |          **विषयाः**          |        **विषयाः**         |
@@ -1599,8 +1527,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |     त्रिपुरभैरवीमन्त्रः      |     अथ गणपतिप्रकरणम्      |
 | \* त्रिपुराशब्दव्युत्पत्तिः  |    गणपतिबीजम्|ऋष्यादि    |
 |   अस्या वाक्कामशक्तित्वम्    |          ध्यानम्          |
-
-
 
 |                               |                             |
 |:-----------------------------:|:---------------------------:|
@@ -1635,8 +1561,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |    हेरम्बमन्त्रः| ऋष्यादि     |         \* ऋष्यादि          |
 |     ध्यानम्| पुरश्चरणादि      |                            |
 
-
-
 |                               |                                  |
 |:-----------------------------:|:--------------------------------:|
 |           **विषयः**           |            **विषयः**             |
@@ -1669,8 +1593,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |        पञ्चाङ्गमन्त्रः        |   \* ब्रह्मयामलोक्तं यन्त्रम्    |
 |        अष्टाङ्गमन्त्रः        |     \*नारदकल्पोक्तं यन्त्रम्     |
 | \*विष्णुमन्त्रार्णानामृष्यादि |                                 |
-
-
 
 |                                    |                                 |
 |:----------------------------------:|:-------------------------------:|
@@ -1705,8 +1627,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |       \* ध्यानम्| पुरश्चरणम्       |       \* नृसिंहध्यानभेदाः       |
 |           दशाक्षरमन्त्रः           |                                |
 
-
-
 |                                                     |                           |
 |:---------------------------------------------------:|:-------------------------:|
 |                     **विषयाः**                      |        **विषयाः**         |
@@ -1738,8 +1658,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 |                   यन्त्रधारणफलम्                    |        पुरश्चरणादि        |
 |               सुदर्शनमन्त्रः| ऋष्यादि               |          गायत्री          |
 |               तापनीयोक्तषडङ्गमन्त्राः               |     \* अस्या ऋष्यादि      |
-
-
 
 |                                     |                          |
 |-------------------------------------|--------------------------|
@@ -1774,8 +1692,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 | \* द्वात्रिंशदक्षरमन्त्रस्य ऋष्यादि | व्यापकमन्त्रः            |
 | \* गोपालध्यानम्                     |                         |
 
-
-
 |                                 |                                  |
 |---------------------------------|----------------------------------|
 | **विषयाः**                      | **विषयाः**                       |
@@ -1809,8 +1725,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 | अङ्गावृतिदेवताः                 | पुरश्चरणादि                      |
 | \* निवृत्त्यादिध्यानम्          |                                 |
 
-
-
 |                                 |                                         |
 |---------------------------------|-----------------------------------------|
 | **विषयाः**                      | **विषयाः**                              |
@@ -1842,8 +1756,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 | ऋष्यादि                         | गायत्रीपदन्यासः                         |
 | \* प्रयोगसारोक्तक्षेत्रपालभेदाः | गायत्रीषड़ङ्गम्                         |
 | ध्यानम्| पुरश्चरणादि            | ध्यानम्|                                |
-
-
 
 |                                   |                                 |
 |-----------------------------------|---------------------------------|
@@ -1878,8 +1790,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 | सिन्धुदुर्गामन्त्रः               | भद्रकालीमन्त्रः                 |
 | अग्निदुर्गामन्त्रः                |                                |
 
-
-
 |                                     |                                 |
 |-------------------------------------|---------------------------------|
 | **विषयाः**                          | **विषयाः**                      |
@@ -1911,8 +1821,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 | आवाहन्यादिपञ्चमुद्राः              | **चतुर्विंशः पटलः**            |
 | धेनुमुद्रा                          | अथ यन्त्रप्रकरणम्               |
 | महामुद्रा                           | \* यन्त्रशब्दव्युत्पत्तिः       |
-
-
 
 |                         |                                 |
 |-------------------------|---------------------------------|
@@ -1947,8 +1855,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 | पिण्डयन्त्रम्           | अथ योगप्रकरणम्                  |
 | पिण्डबीजम्              | वेदान्तमतम्                     |
 
-
-
 |                                           |                            |
 |-------------------------------------------|----------------------------|
 | **विषयाः**                                | **विषयाः**                 |
@@ -1982,11 +1888,7 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 | शरीरप्रमाणम्                              | टीकाकृत्परिचयः             |
 | शरीरस्थनाड़ीनिर्णयः                        |                           |
 
-
-
 # ![](https://www.ebharatisampat.in/books_images/U-IMG-1727518572png-transparent-sri-yantra-shri-vidya-chakra-tantra-thumbnail.png)
-
-
 
 **शारदातिलकम्।**
 
@@ -2163,8 +2065,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 अन्यत् पूर्व्ववदिति संक्षेपः। एतच्च व्याख्यानद्वयं गुरुवचननियन्त्रितेन मयाकृतमिति क्षन्तव्यं देशिकेन्दैः॥१॥
 
-
-
 **हेतुस्त्रिलोकविभवस्य नवेन्दुमौले  
 रन्तःपुरं दिशतु मङ्गलमादराद् वः॥२॥**
 
@@ -2184,8 +2084,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **यस्य देवे परा भक्तिर्यथा देवे तथा गुरौ।  
 तस्यैते कथिता ह्यर्थाः प्रकाशन्ते महात्मनः॥**
-
-
 
 **सारं वक्ष्यामि तन्त्राणां शारदातिलकं शुभम्।  
 धर्म्मार्थकाममोक्षाणां प्राप्तेः प्रथमकारणम्॥४॥**
@@ -2230,8 +2128,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 शास्त्रादौ तेन वक्तव्यः सम्बन्धः सप्रयोजनः॥**
 
 इत्युक्तेःशिष्यबुद्ध्यनुकूलनार्थं ग्रन्थमाहात्म्यंप्रकाशयन् श्रोतृप्रवृत्तिनिमित्तभूतान्
-
-
 
 **शब्दार्थसृष्टिर्मुनिभिश्छन्दोभिर्दैवतैः सह।  
 विधिश्च यन्त्रमन्त्राणां तन्त्रेऽस्मिन्नभिधीयते॥५॥**
@@ -2303,8 +2199,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 विधिरिति। न्यास-जप-पूजा-होम-तर्पणाभिषेकसम्पातपातादिः। चकारः शब्द-
 
-
-
 **निर्गुणः सगुणश्चेति शिवो ज्ञेयः सनातनः।  
 निर्गुणः प्रकृतेरन्यः सगुणः सकलः स्मृतः॥६॥**
 
@@ -2341,8 +2235,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 सत्यं बुद्धेः परं नित्यं निर्म्मलं निष्कलं स्मृतम्॥ इति।**
 
 द्वितीयस्य स्वरूपमाह स इति। सगुणः सकलः कला प्रकृतिः तत्सहितः। सांख्यमते सत्त्वरजस्तमसां साम्यावस्था प्रधाना परपर्य्याया प्रकृतिः। अतएव सगुण
-
-
 
 **सच्चिदानन्दविभवात् सकलात् परमेश्वरात्।  
 आसीच्छक्तिस्ततो नादो नादाद् बिन्दुसमुद्भवः॥७॥**
@@ -2385,8 +2277,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **अभिव्यक्ता परा शक्तिरविनाभावलक्षणा।  
 अखण्डपरचिच्छक्तिर्व्याप्ता चिद्रूपिणी विभुः॥**
 
-
-
 **परशक्तिमयः साक्षात् त्रिधाऽसौ भिद्यते पुनः।  
 बिन्दुर्नादो बीजमिति तस्य भेदाः समीरिताः॥८॥**
 
@@ -2411,8 +2301,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **बिन्दुः शिवात्मकस्तत्र बीजं शक्त्यात्मकं स्मृतम्।  
 तयोर्योगे भवेन्नादस्तेभ्यो जातास्त्रिशक्तयः॥**
-
-
 
 **संज्ञानेच्छाक्रियात्मानो वह्नीन्द्वर्कस्वरूपिणः।  
 भिद्यमानात् पराद् बिन्दोरव्यक्तात्मा रवोऽभवत्॥११॥**
@@ -2448,8 +2336,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  शब्दब्रह्मण उत्पत्तिमाह भिद्यमानादिति। पराद् विन्दोरित्यनेन शक्त्यवस्थारूपो यः प्रथमो बिन्दुस्तस्मादव्यक्तात्मा वर्णादिविशेषरहितोऽखण्डो नादमात्र उत्पन्नः॥११॥
 
-
-
 **शब्दब्रह्मेति तं प्राहुः सर्व्वागमविशारदाः।  
 शब्दब्रह्मेति शब्दार्थं शब्दमित्यपरे जगुः॥१२॥**
 
@@ -2484,8 +2370,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 तेन सर्व्वागमविशारदा इत्यनेन सहैकवाक्यतैवास्य। तद्बिन्दुरूपरवस्यैव सर्व्वशरीरेष्वाविर्भूतत्वेन वक्ष्यमाणत्वात्। यदुक्तंप्रयोगसारे—
 
-
-
 **तत् प्राप्य कुण्डलीरूपं प्राणिनां देहमध्यगम्।  
 वर्णात्मनाऽविर्भवति गद्यपद्यादिभेदतः॥१४॥**
 
@@ -2512,8 +2396,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  यद्वाकला निवृत्त्याद्या अधिष्ठातृसदाशिवादीनां प्रातिलोम्येनोत्पादिकाः तदात्मनः। कालबन्धोरिति। अनाद्यनन्ते काले सृष्टिरूपकालसहायान्नादात्मन इत्यर्थः। शम्भोः परमशिवात् सृष्टिस्थितिध्वंसनिग्रहानुग्रहकार्य्यपञ्चककर्त्ता अतएव जगन्निर्म्माणबीजरूपो जगत्साक्षी सदाशिवो जातः। अथच कालबन्धोः अतएव कालात्मन इति हेतु–हेतुमद्भावेन योजना।
 
  “सा तु कालात्मना सम्यक् मयैव ज्ञायते सदा” इति आचार्य्योक्तेः।
-
-
 
  अनेन विशेषणद्वयेन प्रकृतेः कालस्य च महाप्रलयेऽप्यवस्थानमुक्तम्। अतएव अनयोरापेक्षकनित्यता। स्वतो नित्यत्वं पुरुषस्यैव। सर्व्वविनाशस्य पुरुषावधित्वादन्यथाऽनवस्थानादित्यादियुक्तिः द्रष्टव्या। अथ च कालबन्धोरिति बन्धुशब्देन कालस्य निमित्तत्वं सूचितम्। यदाहुः—
 
@@ -2547,8 +2429,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  अन्ये तु शम्भोः हकारात् कलाऽर्द्धेन्दुरात्मा ईकारः बिन्दुः बिन्दुरेव कालोऽग्निः
 
-
-
 **मुलभूतात् ततोऽव्यक्ताद्विकृतात् परवस्तुनः।  
 आसीत् किल महत्तत्त्वं गुणान्तःकरणात्मकम्॥१७॥**
 
@@ -2576,8 +2456,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **अव्यक्तविग्रहाच्छब्दब्रह्मणः सर्व्वकारणम्।  
 व्यक्तसत्त्वगुणं व्यक्तं बुद्धितत्त्वमजायत॥ इति ।**
-
-
 
 **अभूत्तस्मादहङ्कारस्त्रिविधः सृष्टिभेदतः।  
 वैकारिकादहङ्काराद्देवा वैकारिका दश॥१८॥**
@@ -2608,8 +2486,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  तैजसादिति। तैजसादहङ्कारादिन्द्रियाणि कर्म्मेन्द्रियाणि ज्ञानेन्द्रियाणि मनश्च। तदुक्तम्—
 
  यच्चापरं मनस्तत्त्वंससङ्कल्पविकल्पकम्। तैजसादेव सञ्जातम्। इति।
-
-
 
 **भूतादिकादहङ्कारात् पञ्चभूतानि जज्ञिरे।  
 शब्दात् पूर्व्वंवियत् स्पर्शाद् वायू रूपाद्धुताशनः॥२०॥**
@@ -2646,8 +2522,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 अम्भांस्येभिर्गन्धतो भूः। इति।**
 
  पञ्चभूतवर्णानुपदिशति स्वच्छमिति। स्वच्छं श्वेतम्। अत्र केषाञ्चिदरूपिद्रव्याणां वर्णकथनम् उपासनार्थं स्वशास्त्रानुरोधेन। तेषां स्वरूपमन्यत्रोक्तम्—
-
-
 
 **पीता भूमिः पञ्चभूतान्येकैकाधारतो विदुः।  
 शब्दस्पर्शरूपरसगन्धा भूतगुणाः स्मृताः॥२२॥**
@@ -2697,8 +2571,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **हृदि त्रिकोणं निर्गच्छत् स्वस्तिके रक्ततेजसि। इति।**
 
 स्वस्तिकं नाम परस्परसम्बद्धं विदिग्गतचतुर्वक्त्रंरेखाद्वयम्। वह्नेरिति पूर्व्वेणान्वेति। अर्द्धेन्दुसंयुतम् अम्भोजमम्भस इति सम्बन्धः। अर्द्धेन्दौ संयुतम्
-
-
 
 **वर्णैः स्वैरञ्चितान्याहुः स्वस्वनामावृतान्यपि।  
 धरादिपञ्चभूतानां निवृत्त्याद्याः कलाः स्मृताः॥२५॥**
@@ -2752,8 +2624,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  वर्णैर्द्वितीये वक्ष्यमाणभूतवर्णैः। स्वस्वनामावृतान्यपीत्यस्याप्ययमर्थः। वक्ष्यमाणभूतलिपियन्त्रेषु यः कर्णिकालिखितो मन्त्रस्तेनावृतानीति। साम्प्रदायिकाश्चैवं मन्यन्ते। “कलात्मनः” इति पूर्व्वमुक्तेः भूतकारणभूताः बिन्दुतत्त्वनिर्गताः शक्तीः। संहारक्रमेण प्रयोगाद्यर्थमाह धरेति। धरादिपञ्चभूतानामुत्पादिका इति शेषः। तदुक्तं वायवीयसंहितायाम्—
 
-
-
 **निवृत्तिः सप्रतिष्ठा स्याद् विद्या शान्तिरनन्तरम्।  
 शान्त्यतीतेति विज्ञेया नाददेहसमुद्भवाः॥२६॥**
 
@@ -2780,13 +2650,10 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  केचन क्रमेण एषां ल व र य ह योगमाहुः। तद्यथा—ह्लांह्वीं ह्रूंह्यैंहौं। एतानि अपञ्चीकृतभूतबीजानि। अथवा नादो हकारः। शरीरस्य पृथिव्यंशाधिक्याद् देहशब्देन लकारस्तस्य समुद्भवः स्थितिर्यत्र स नाददेहसमुद्भवः। येषु आकारादिषु ते नाददेहसमुद्भवाः। अत्र क्रमेण लवरयह योगमाहुः। तद्यथा—ह्लां ह्व्लींर्ह्लं ह्ल्यैं ह्लौं। एतानि पञ्चीकृतभूतबीजानि। मूतबीजानामेव तदभिमानिनिवृत्त्यादिबीजत्वं ज्ञेयम्। तदुक्तमाचार्य्यैः“नादकलादिभूता” इति॥२५॥२६॥
 
-
-
 **पञ्चभूतात्मकं सर्व्वंचराचरमिदं जगत्।  
 अचरा बहुधा भिन्ना गिरिवृक्षादिभेदतः॥२७॥**
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
 
  एवं भूतान्युक्त्वा जगतस्तदात्मकत्वमाह पञ्चेति। एतेन त्रिवृत्करणपक्षः पञ्चीकरणपक्षोऽपि सूचितः। तत्र ये तैजसा देवाः तेषामपि शरीरार्द्धो भागःतैजसः पृथिव्याश्चतुर्थांशः चतुर्थांशो जलस्येति त्रिवृत्करणपक्षः। पञ्चीकरणपक्षे तु पृथिव्याश्चत्वारोंऽशा अन्येषामष्टमोऽष्टमोंऽशः। एवमन्यत्रापि। तदुक्तम्—
 
@@ -2822,8 +2689,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 व्योम्नः पञ्च गुणा एते शून्याख्ये सुषिरात्मनि॥ इति।**
 
 चरं जङ्गमम्। अचरं स्थावरम्। चरेषु बहुवक्तव्यत्वात् प्रथमोदृिष्टं तं विहायाचरा—
-
-
 
 **चरास्तु त्रिविधाः प्रोक्ताः स्वेदाण्डजजरायुजाः।  
 स्वेदजाः क्रिमिकौटाद्या अण्डजाः पन्नगादयः॥२८॥**
@@ -2870,8 +2735,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **अण्डजो वर्त्तुलीभूताच्छुक्रशोणितसंयुतात्।  
 कालेन भिन्नात् पूर्णात्मा निर्गच्छन् प्रक्रमिष्यति॥ इति॥२८॥**
 
-
-
 **जरायुजा मनुष्याद्यास्तेषु नृृणां निगद्यते।  
 उद्भवः पुंस्त्रियोर्योगात् शुक्रशोणितसंयुतात्॥२९॥**
 
@@ -2913,8 +2776,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **रोग्यल्पायुरधन्यो वा गर्भो भवति नैव वा॥ इति॥२९॥३०॥**
 
-
-
 **पूर्व्वकर्म्मानुरूपेण मोहपाशेन यन्त्रितः।  
 कश्चिदात्मा तदा तस्मिन् जीवभावं प्रपद्यते॥३१॥**
 
@@ -2952,8 +2813,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **अग्नेरूर्द्धंजलं स्थाप्य तदन्नञ्च जलोपरि।  
 जलस्याधः स्वयं प्राणः स्थित्वाग्निंधमते शनैः॥**
-
-
 
 **वायुना व्यूह्यमानोऽग्निरत्युष्णं कुरुते जलम्।  
 अन्नं तदुष्णतोयेन समन्तात् पच्यते पुनः॥**
@@ -3003,8 +2862,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **एषा प्रकृतिरन्या तु विकृतिः सम्मता सताम्।  
 चतुर्थे व्यक्तता तेषां भावानामपि जायते॥**
 
-
-
 **दोषैर्दूष्यैः सुखं प्राप्तो व्यक्तिं याति निजेन्द्रियैः।  
 वातपित्तकफा दोषा दूष्याः स्युः सप्त धातवः।  
 त्वगसृङ्मांसमेदोऽस्थिमज्जाशुक्राणि तान् विदुः॥३३॥**
@@ -3046,8 +2903,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  दोषैरिति। सुखं यथा स्यात् तथा दोषैः दूष्यैः प्राप्तः निजेन्द्रियैर्व्यक्तिं याति। अनेनाष्टममासपर्य्यन्तं बृद्धिरुक्ता। दोषादीनेवाह वातेति। तानिति धातून्। एषां पूर्व्वपूर्व्वस्योत्तरोत्तरं प्रति कारणता ज्ञेया। तदुक्तं सुश्रुते—
 
-
-
 **ज्ञानेन्द्रियाणि श्रोत्रं त्वग् दृग् जिह्वा नासिका विदुः।  
 ज्ञानेन्द्रियार्थाः शब्दाद्याः स्मृताः कर्म्मेन्द्रियाण्यपि॥३४॥**
 
@@ -3088,8 +2943,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **बुद्धिरूपा तथा सर्व्वभावनिश्चयकारिणी।  
 ज्ञात्र्यस्मीत्यभिमानाद्या सैवाहङ्कारसंज्ञिता॥**
 
-
-
 **दशेन्द्रियाणि भूतानि मनसा सह षोड़श।  
 विकाराः स्युः प्रकृतयः पञ्च भूतान्यहङ्कृतिः॥३७॥**
 
@@ -3122,8 +2975,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **अप्राकृतिकानि सप्त प्रकृतिविकृतिसंज्ञकानि स्युः। इति।**
 
-
-
 **अग्नीषोमात्मको देहो बिन्दुर्यदुभयात्मकः।  
 दक्षिणांशः स्मृतः सूर्य्यो वामभागो निशाकरः॥३९॥**
 
@@ -3153,8 +3004,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  केचनान्यथा योजयन्ति। भूतादिकाहङ्कारसृष्टिमुक्त्वातैजसादिन्द्रियाण्यासन् इत्युद्दिष्टानीन्द्रियाणि तत्प्रसङ्गात्तेषां विषयानप्याह ज्ञानेत्यादि परिकीर्त्तितमित्यन्तेन। उत्तरब्यवहारशेषतया केषाञ्चिन्मन्त्राणां वर्णतत्त्वन्यासयोगादिशेषतया च विकारादि दर्शयति दशेत्यादि। तत्त्वविद इदं विदुः। एषां तत्रान्तर्भावात् तत्त्वविद्भिरेताः संज्ञाः कृता इत्यर्थः॥३७॥३८॥
 
  एवं प्रासङ्गिकमुक्त्वाप्रकृतमाह अग्नीति। देहः अग्नीषोमात्मकः। कुत इत्यपेक्षायां हेतुमाह यद् यस्मात् कारणादुभयात्मको बिन्दुः।शुक्रमग्निरूपं रक्तंसोमरूपम् एतदात्मकः।
-
-
 
 **नाडीर्दश विदुस्तासुमुख्यास्तिस्रः प्रकीर्त्तिताः।  
 इड़ा वामे तनोर्मध्वे सुषुम्णा पिङ्गला परे॥४०॥**
@@ -3190,8 +3039,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **दक्षिणं नासिकाद्वारं प्राप्नोति गिरिजात्मजे।  
 वाममुष्कसमुद्भूता तथाऽन्या सव्यनासिकाम्॥ इति।**
-
-
 
 **मध्या तास्वपि नाड़ी स्यादग्नीषोमस्वरूपिणी॥४१॥**
 
@@ -3237,8 +3084,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **ताश्च भूरितरास्तासु मुख्याः प्रोक्ताश्चतुर्दश।  
 सुषुम्णेड़ापिङ्गला च कुहूरथ सरस्वती॥**
 
-
-
 **नाड्योऽनन्ताः समुत्पन्नाः सुषुम्णापञ्चपर्व्वसु।  
 भूलाधारोद्गतप्राण स्ताभिर्व्याप्नोति तत्तनुम्॥४३॥**
 
@@ -3277,8 +3122,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **नव स्नायुशतानि स्युः पञ्च पेशीशतान्यपि।  
 अधिका विंशतिः स्त्रीणां स्तनयोर्दिग् भगे दश॥**
-
-
 
 **वायवोऽत्र दश प्रोक्ता वह्नयश्च दश स्मृताः।  
 प्राणाद्या मरुतः पञ्च नागः कूर्म्मोधनञ्जयः॥४४॥**
@@ -3325,8 +3168,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **विद्युत्पावकवर्णः स्यादुत्थानासनकारकः।  
 पादयोर्हस्तयोश्चापि स तु सन्धिषु वर्त्तते॥**
-
-
 
 **बुभुक्षा च पिपासा च प्राणस्य मनसः स्मृतौ।  
 शोकमोहौ शरीरस्य जरामृत्यू षड़ूर्म्मयः॥४६॥**
@@ -3381,8 +3222,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 दोषा वातपित्तकफाः। दूष्याः सप्त धातव इति प्रागेवोक्तम्॥४४॥४५॥
 
-
-
 **स्नाय्वस्थिमज्जा शुक्रात् त्वङ्मांसास्राणि शोणितात्।  
 षाट्कौशिकमिदं प्रोक्तं सर्व्वदेहेषु देहिनाम्॥४७॥**
 
@@ -3433,8 +3272,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 सम्पिण्डितशरीरः सङ्कुचद्गात्रः अवाङ्मुखः अधोमुखः सन् जायते उत्पद्यते। सूतिमारुतै र्नून्नइति शेषः। यदाहुः—
 
-
-
 **क्षणं तिष्ठति निश्चेष्टो भीत्या रोदितुमिच्छति॥५०॥**
 
 **ततश्चैतन्यरूपा सा सर्व्वगा विश्वरूपिणी।  
@@ -3467,8 +3304,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 यद्वासम्यङ्निधिः स्वरूपं शिवस्वरूपं प्राप्य इत्यर्थः। वक्ष्यति च—“पिण्डं भवेत् कुण्डलिनी शिवात्मा” इति। गुणानां सत्त्वरजस्तमसां उदयो यस्यां सा।
 
-
-
 **दिक्कालाद्यनवच्छिन्ना सर्व्वदेहानुगा शुभा।  
 परापरविभागेन परशक्तिरियं स्मृता॥५२॥**
 
@@ -3500,8 +3335,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  अञ्जसा तत्त्वेन। योगिनां हृदयाम्भोजे नृत्यन्तीनित्यमित्यनेन तैरेव गुरूपदेशेन ज्ञायत इत्यर्थः। “दृश्या देशिकदेशितैः” इत्युक्तेः। सर्व्वभूतानां
 
-
-
 **शङ्खावर्त्तक्रमाद् देवी सर्व्वमावृत्य तिष्ठति।  
 कुण्डलीभूतसर्पाणामङ्गश्रियमुपेयुषी॥५४॥**
 
@@ -3529,8 +3362,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  त्रिधामेति सोमसूर्य्याग्निरूपम्। यद्वात्रिधामेति स्थानत्रयम्। पातालभूस्वर्गरूपम्। अनेन स्थानव्याप्तिर्दर्शिता। द्बिचत्वारिंशद्बर्णात्मेति भूतलिपिमन्त्रमयी। पञ्चाशद्वर्णरूपिणीति मातृकामयी॥५६॥ ५७॥
 
-
-
 **एकधा गुणिता शक्तिः सर्व्वविश्वप्रवर्त्तिनी।  
 वेदादिबीजं श्रीबीजं शक्तिबीजं मनोभवम्॥५८॥**
 
@@ -3556,8 +3387,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  हंसवर्णौचतुर्दशे। परात्मानौ वर्णाविति सम्बध्यते। परमात्मवाचकावित्यर्थः। तौ सोहंरूपावन्त्ये। प्रकृतिपुरुषाविति। यद्यपि पुरुषोऽनादिस्तथापि मायाशबलितत्वेनात्र प्रादुर्भाव उपचारात्। अन्यद्युग्मं यद्जगति अस्याःसकाशादजायतेति सम्बन्धः। तच्च ज्योतिर्मन्त्रादि। त्रैपुरं मन्त्रद्वयं द्वादशे। शक्तिविनायकं त्रयोदशे। यद्यप्यग्रे नवाक्षरयोगाद् द्वादशाक्षरस्तथापि
 
-
-
 **सृजत्येषा परा देवी तदा प्रकृतिपुरुषौ।  
 यद्यदन्यज्जगत्यस्यां युग्मं तत्तदजायत॥६२॥**
 
@@ -3580,8 +3409,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 बीजत्रयात्मकत्वं त्रयाणां बीजरूपत्वेन प्राधान्यात्। ह्रीँ श्रीँ ह्रीँ इति तन्त्रान्तरोक्तो वा। पाशाद्यं नवमे। त्र्यक्षरमिति त्रिकण्टकीद्वयं दशमे। विशेषणविशेष्यभावो वा। त्रैपुटं दशमे। चण्डनायकं चण्डेश्वरं विंशे। सौरं चतुर्दशे। मृत्युञ्जय मष्टादशे। शक्तिसम्भवं मन्त्रद्वयं नवमे। शाक्तंशाम्भवमिति पाठे शाम्भवं तन्त्रान्तरोक्तम् प्रणवमायाबीजप्रासादात्मकम्। विनतासुतं क्षिप ॐ इति तन्त्रान्तरोक्तम्। वागीशीत्र्यक्षरं सप्तमे। वागीशमिति पाठे त्र्यक्षरमिति नवमस्थम् शाक्तमेकम्। विषापहं नीलकण्ठमेकोनविंशे॥६१-६४॥
 
  यन्त्रं नवमे। गुणत्रयं धामत्रयं चतुर्थे। यद्यप्यथर्व्ववेदोऽस्ति तथापि होत्रध्वर्य्यूद्गातृरूपपदार्थत्रयेण यज्ञनिष्पादनात् वेदत्रयमित्युक्तम्। श्रुतिरपि—“सैषा त्रयीविद्या यज्ञे” इति। वर्णत्रयं प्रणवस्य अकारोकारमकाराः। त्रिपुष्करं तीर्थत्रयम्। तस्य ज्येष्ठमध्यमकनीयस्त्वेन त्रित्वम्। स्वरान् उदात्तानुदात्तस्वरितान्। देव्यः गायत्रीसरस्वतीसावित्र्यः। ब्रह्मादीनां ब्रह्मविष्णुमहेश्वराणां त्रयं नवमे। देवीति भिन्नेपदे कुण्डलीविशेषणम्। वह्नेस्त्रयं दक्षिणाग्निगार्हपत्याहवनीयम्। कालत्रयं अतीतवर्त्तमानभविष्यद्रूपम् प्रातर्मध्याह्नसायंकालरूपं वा। शक्तित्रयं रौद्रीज्येष्ठावामात्मकम् तदाद्ये। प्रभावोत्साह-
-
-
 
 **चतुःप्रकारगुणिता शाम्भवी शर्म्मदायिणी।  
 तदानींपद्मिनीबन्धोः करोति चतुरक्षरम्॥६७॥**
@@ -3612,8 +3439,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 व्युत्क्रमेण भवन्त्येताः कुण्डलिन्यादितः क्रमात्॥ इति।**
 
 भावान् अवस्थाविशेषान् जाग्रत्स्वप्नसुषुप्तितुरीयान्। विशेषणविशेष्यभावो वा। विष्णुमूर्त्तिरष्टमे। गणेशानामिति त्रयोदशे। आत्मादीनामिति चतुर्थे। पीठमिति ओड्डीयानजालन्धरपूर्णगिरिकामरूपाणि। धर्म्मादीनामिति चतुर्थे। अधर्म्मादीनामप्युपलक्षकम्। धर्म्मार्थादीनां वा तदाद्ये। गजान् इत्यष्टमे। अन्यदिति सिद्धादिमण्डलद्रीक्षा हेरम्वमन्त्र देवीदूतीबीजादि॥६९॥७०॥
-
-
 
 **पञ्चरत्नं महादेव्याः सर्व्वकामफलप्रदम्।  
 पञ्चाक्षरं महेशस्य पञ्चवर्णं गरुत्मतः॥७२॥**
@@ -3647,8 +3472,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **कान्तान्तवान्ताकुललान्तवाम नेत्रान्वितं दण्डिकुलं सनादम्।  
 षट्कूटमेतत् त्रिपुरार्णवोक्तमत्यन्तगुह्यंस्मर एव साक्षात्॥ इति।**
 
-
-
 **षड़क्षरं हिमरुचे र्नारसिंहं षड़क्षरम्।  
 ऋतून् वसन्तमुख्यान् षड़ामोदादीन् गणाधिपान्॥७६॥**
 
@@ -3669,8 +3492,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 प्राणैरपरित्यक्तं ग्रहभावं नैवमाप्नोति॥**
 
 इत्यादिना।
-
-
 
 **सप्तकं व्याहृतीनां सा सप्तवर्णं सुदर्शनम्।  
 लोकान् गिरीन् स्वरान् धातून् मुनीन् द्वीपान् ग्रहानपि॥७९॥**
@@ -3705,8 +3526,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  शैवं द्वयमप्येकोनविंशे। विष्णोः श्रीकरनामानं परमष्टाक्षरं कृष्णस्य दावपि सप्तदशे। हरेरिति पञ्चदशे। शक्तेरिति नवमे युगलमपि। भानोरिति चतुर्दशे। दौर्गद्वयमप्येकादशे। परमात्मन इति षष्ठे। नीलकण्ठस्येति। नीलकण्ठशब्देन क्षेत्रपालमन्त्रो गृहीतः स विंशे। तन्त्रान्तरोक्तो वा “ॐ नीलकण्ठाय स्वाहा” इति। वासुदेवात्मकं मनुं मन्त्रम्। आगमशास्त्रे मनुशब्दो मन्त्रस्य संज्ञा। “ॐ नमो वासुदेवाय” इति तन्त्रान्तरोक्तम्।
 
  कामार्गलं सप्तदशे। तस्य कामार्गलत्वेन प्रसिद्ध्यभावात् तन्त्रान्तरोक्तं कामार्गलम्।
-
-
 
 **अष्टार्णं नीलकण्ठस्य वासुदेवात्मकं मनुम्।  
 यन्त्रंकामार्गलं दिव्यं देवीयन्त्रं घटार्गलम्॥८३॥**
@@ -3745,8 +3564,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **काश्मीरैकाम्रकाञ्चीमलयगिरिवरैकारकन्धूतदेवी-  
 कोट्ठाम्रातेशजालन्धरसुरभिमनीषाद्रिकाशीप्रयागाः।**
 
-
-
 **अणिमादिगुणान् नागान् वह्नेर्मूर्त्तीर्यमादिकान्।  
 अष्टात्मकं जगत्यस्मिन् सर्व्वं वितनुते यदा॥८६॥**
 
@@ -3782,8 +3599,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 रत्नानि नव वर्गाश्च षष्ठे। प्राणदूतीनामिति त्रयोविंशे। मण्डलं नवनाभं तृतीये। यद्यदिति। नवकुण्डनवग्रहकूर्म्मचक्रनवकोष्ठादि॥८७-८९॥
 
-
-
 **दशधा विकृता शम्भोर्भामिनी भवदुःखहा।  
 दशाक्षरं गणपते स्त्वरिताया दशाक्षरम्॥९०॥**
 
@@ -3815,8 +3630,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 एतत् फड़न्तं तारादि मन्त्रं विद्याद्दशाक्षरम्॥ इति।**
 
  भुवनेति। भूवनेशो हः भूतं उःदण्डोऽनुस्वारः तेन हुं। कलाः स्वराः तदन्तः कः तदन्त्यः खः सयोनिकम् एकारयुतं तेन खे। तत्पञ्चमं च तदन्तं छः। सरुद्रम् एकारयुतं तेन छे। सामन्तान्तः विसर्गान्तः। आलयं क्षकारः। वामाख्या स्त्रीँ। आद्यंहुं तद्दीर्घं हूं। कोपतत्त्वं क्षः। हरेण एकारेण अन्ते युक् क्षे। एतत् फड़न्तं प्रणवादिकं दशवर्णम्। सरस्वत्या इति सप्तमे। यक्षिण्या इति तन्त्रान्तरोक्तं “श्रीँ श्रीँ यक्षिणि हं हं हं स्वाहा” इति वासुदेवात्मकमिति गोपालं सप्तदशे। अश्वारुढेति बीजत्रयं मुक्त्वादशमे।
-
-
 
 **एकादशक्रमात् संविद् गुणिता सा जगन्मयी।  
 रुद्रैकादशनीमाद्यशक्तेरेकादशाक्षरम्॥**
@@ -3852,8 +3665,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  आद्यशक्तेः सरस्वत्या एकादशाक्षरं सप्तमे। यद्वाआद्यशक्तेः नित्यक्लिन्नायास्तन्त्रान्तरोक्तम्। “ह्रीँ नित्यक्लिन्ने मदद्रवे स्वाहा” इति। आद्या इति पाठे देवीविशेषणम्। वाण्या अयमपि सप्तमे। रुद्रानिति—
 
-
-
 **समुद्गिरति सर्व्वात्मा गुणिता द्वादशक्रमात्।  
 नित्यामन्त्रं महेशान्या वासुदेवात्मकं मनुम्॥९५॥**
 
@@ -3879,8 +3690,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  यद्यपि त्रयोदशविश्वेदेवात्मिका चतुर्दशभुवनात्मिका पञ्चदशतिथ्यात्मिकापि सृष्टेर्भगवत्युत्पादितैव तथापि परार्द्वपर्य्यन्तं तस्याः सत्त्वात् वह्नीनां वक्तुमशक्यत्त्वात् प्रधानभूता आह चतुरिति। चतुर्विंशति स्तत्त्वस्वरूपं तद्रूप आत्मा यस्याः सा चतुर्विंशतिधा गुणितेत्यर्थः। सवितुरित्येकविंशे। शम्भोरिति तन्त्रान्तरोक्ता।
 
-
-
 **चतुर्विंशतितत्त्वानि तस्यामासन् परात्मनि॥९९॥**
 
 **द्वात्रिंशद्भेदगुणिता सर्व्वमन्त्रमयी विभुः।  
@@ -3902,8 +3711,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 रक्षोहणोवल्गहनो वक्रतुण्डाय हूं नमः॥**
 
 महामन्त्रमित्युक्तेः अत्रैव वक्ष्यमाणो महागणपतिमन्त्रो वा। सम्प्रदायेन तस्य द्वात्रिंशदक्षरत्वात्। अन्नाधिपस्य तन्त्रान्तरोक्तः “ॐ ह्रीँ अन्नरूप रसचतुष्टयरूप नमो नमः अन्नाधिपतये ममान्नं प्रयच्छ स्वाहा” इति। दक्षिणामूर्त्ते—
-
-
 
 **त्रिष्टुभं वनवासिन्या अघोराख्यं महामनुम्।  
 भद्रकालीमनुं लक्ष्म्यामालामन्त्रं यमात्मकम्॥१०३॥**
@@ -3931,8 +3738,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  इति तन्त्रान्तरोक्तम्। तारामनुं तन्त्रान्तरोक्तम्। “ॐ ह्रीँ हौँहूंनमस्तारायैमहातारायै सकलदुस्तरांस्तारय तारय तर तर स्वाहा” इति। महालक्ष्म्यामहामन्त्रं श्रीसूक्तलक्षणम्। भूतेश्वरस्य मन्त्रं तन्त्रान्तरोक्तम्। “ॐ नमो भगवते रुद्राय सर्व्वभूताधिपतये भूतप्रेतपिशाचिनीर्नाशय नाशय” इति। क्षेत्रपालात्मकं तन्त्रान्तरोक्तम्। “एह्येहि विदुषि विमुखि नर्त्तय नर्त्तय विघ्न-
 
-
-
 **अनेन क्रमयोगेन गुणिता शिववल्लभा।  
 षट्त्रिंशतञ्च तत्त्वानां शैवानां रचयत्यसौ॥१०६॥**
 
@@ -3953,8 +3758,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  द्विचत्वारिंशतेति। मूले मूलाधारे द्विचत्वारिंशता गुणिता विश्वनायिका कुण्डलिनी अनेन क्रमेण अकारादिसकारान्तां द्विचत्वारिंशदात्मिकां भूतलिपिमन्त्रात्मिकां वर्णमालिकां सृजतीति सम्बन्धः॥१०७॥
 
  तमेव क्रममाह शक्तिमिति। सा कुण्डलिनी शक्तिं प्रसूते। \[शक्तिर्नाम मूलकारणस्य शब्दस्योन्मुखीकरणावस्थेति गूढ़ार्थदीपिकाकारः\]। ततः शक्तेर्ध्वनिः। ततः तस्माद् ध्वनेरित्यादि ज्ञेयम्। अयञ्च क्रमो ग्रन्थकृता सर्व्वशेषे उक्तोऽपि एकाद्यक्षरोत्पत्तावप्यनुसन्धेयः। तत्र सत्त्वप्रविष्टा चिच्छक्तिवाच्या परमाकाशावस्था
-
-
 
 **ततोऽर्द्धेन्दुस्ततो विन्दुस्तस्मादासीत् परा ततः।  
 पश्यन्ती मध्यमा वाचि वैखरी शब्दजन्मभूः।  
@@ -3998,8 +3801,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **वैखर्य्याख्यस्ततः कण्ठशीर्षताल्वोष्ठदन्तगः।  
 जिह्वामूलाग्रपृष्ठस्थ स्तथा नासाग्रतः क्रमात्॥**
 
-
-
 **पञ्चाशद्वारगुणिता पञ्चाशद्वर्णमालिकाम्।  
 सूते तद्वर्णतोऽभिन्ना कला रुद्रादिकान् क्रमात्॥१११॥**
 
@@ -4030,8 +3831,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **आदीनामिति कथिता वर्णानां क्रमवशादथौषधयः।  
 गुलिकाकषायभसितप्रभेदतो निखिलसिद्धिदायिन्यः॥ इति।**
-
-
 
 आसामोषधीनां प्रयोजनान्तरमप्युक्तं कादिमते—
 
@@ -4079,8 +3878,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **चारुलोला चञ्चला च दीर्घजिह्वा रतिप्रिया।  
 लोलाक्षी भृङ्गिणी चैव पाटला मादनी तथा॥**
 
-
-
 **माला च हंसिनीविश्वतोमुखी नन्दिनी तथा।  
 रमणी च तथा कान्तिः कलकण्ठी वृकोदरी॥**
 
@@ -4126,8 +3923,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **यामिनी रात्रिसंज्ञा च कामान्धा च शशिप्रभा।  
 लोलाक्षी चञ्चला दीप्तिः सुभगा दुर्भगा शिवा॥**
 
-
-
 **निरोधिका भवेद्वह्निरर्द्धेन्दुः स्यान्निशाकरः।  
 अर्कः स्यादुभयोर्योगे बिन्द्वात्मा तेजसां निधिः॥११२॥**
 
@@ -4154,8 +3949,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 ![](../books_images/U-IMG-1726578571Screenshot2024-09-17183911.png)
 
-
-
 **ततो व्यक्तिं प्रवक्ष्यामि वर्णानां वदने नृृणाम्।  
 प्रेरिता मरुता नित्यं सुषुम्णारन्ध्रनिर्गताः॥१॥**
 
@@ -4180,8 +3973,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 यत् सर्व्ववर्णानां सोमसूर्य्याग्निरूपत्वमुक्तं तस्यैवाग्रे प्रयोगार्थम् अष्टत्रिंशत्कलादिब्यवहाराय च व्यवस्थया त्रैविध्यमाह एष्विति। एषु वर्णेषु स्वराःअकारादिविसर्गान्ताः स्पर्शाः ककारादिमकारान्ताः व्यापकाः यकारादिक्षकारान्ताः। शुभोदयाः सर्व्वे एवं सोमसूर्य्याग्निदेवताः। तत्र स्वराणामुदयमनन्तरमेव वक्ष्यति। अन्येषामुदयस्तु अन्तिमपटले वक्ष्यमाणभूतोदयेनेति ज्ञेयम्। “भूतकलाभिस्तदुदयः” इति आचार्य्योक्तेः। तदत्रैव भूतवर्णकथनेन सूचयिष्यति “विना स्वरैः” इति वक्ष्यमाणप्रकारेण। स्वरादयः कियन्त इत्यपेक्षायामाह स्वरा इति। विख्याताः विशेषेण ख्याताः स्वतन्त्रा इत्यर्थः। यदाहुः—“तेषु स्वराः स्वतन्त्राः स्युः” इति॥१-३॥
 
-
-
 **तत्त्वात्मानः स्मृताः स्पर्शा मकारः पुरुषो यतः।  
 व्यापका दश ते कामधनधर्म्मप्रदायिनः॥४॥**
 
@@ -4196,8 +3987,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  तत्त्वात्मान इति। प्रकृत्यादिचतुर्विंशतितत्त्वमया इति स्वरूपकथनम्। ननु तेषां पञ्चविंशतिसंख्यकत्वात् कथं चतुर्विंशतितत्त्वमयत्वमत आह मकारः पुरुषो यत इति। यतः कारणान्मकारः पुरुषः परमात्मा च विश्वरूप इत्यर्थः। भादयः प्रकृतिबुद्ध्यहङ्कारमनांसि तन्मात्राःश्रोत्रवागाकाशादयः इतरा वर्णाः। इदञ्चशक्तितत्त्वादिन्यासेषूपयोगीत्युक्तं द्विद्विवर्णक्रमोक्तद्वादशसूर्य्यकलासु अन्त्यत्याग इत्यपि सूचितम्। एवं ते चतुर्विंशतितत्त्वमयाः। “अन्त्य आत्मा रविः स्मृतः” इत्याचार्य्योक्तेः। अत एव सर्व्वबीजेषु बिन्दुरूपमकारयोगात् पुरुषैक्यं तेषामिति मन्तव्यम्। मकारस्य बिन्दुरूपत्वात् “विन्दुः पुमान् रविः प्रोक्तः” इति वक्ष्यमाणत्वाच्च। स्वावयवेषु ककारादिषु अनुगतत्वात् सूर्य्यरूपबिन्द्वात्मना मकारेण स्पृश्यमानत्वात् स्पर्शाः अतएव सौराः। यद्वाएवं योजना। मकारः पुरुषः अन्ये स्पर्शास्तत्त्वात्मानः। यत इत्यग्रिमेन सम्बध्यते। यतः यकाराद्दश व्यापकाः। एषां दोषदूष्येषु वर्त्तमानत्वाद् व्यापकत्वम्। तत्राग्नीनामपि सत्त्वादाग्नेया इत्यपि नृसिंहाख्यकालाग्निरूपक्षकारान्तत्वेन वा आग्नेया इत्यपि द्रष्टव्यम्। ते कामधनधर्म्मप्रदा इति क्रमेण त्रयाणां फलम्। अतएवाग्रे “कामदायिन्यः स्वरजाः” इत्यादि वक्ष्यति॥४॥
 
  स्वराणामेव पृथग्व्यक्तिं दर्शयन् तेषामष्टमूर्त्तितच्छक्तिवाचकत्वाय अग्रे व्यवहाराय च प्रकारद्वयमाह ह्रस्व इति। एकारौकारयोः दीर्घत्वेऽप्यत्र पारिभाषिकं ह्रस्वत्वम्। इमे ह्रस्वदीर्घाः क्रमात् शिवशक्तिमयाः। ह्रस्वाःअ इ उ ऋ ऌ ए ओ एते शिवमयाः पुंरूपाश्च इत्यर्थः। दीर्घाः आ ई ऊ ऋृ ऌृ ऐ औ एते शक्तिमयाः स्त्रीरूपाश्च इत्यर्थः। विन्दुसर्गावजपायां पुरुषप्रकृतिरूपौ पृथग्भूतावेताविति विवक्षन्नाह ते स्युः बिन्दुसर्गावसानिका इति। ते ह्रस्वाःअन्ते बिन्दुयुक्ताः दीर्घा अन्ते विसर्गयुक्ताः। ह्रस्वेषु विन्दुरष्टमो दीर्घेषु विसर्गोऽष्टम इत्यर्थः॥५॥
-
-
 
 **पिङ्गलायां स्थिता ह्रस्वा इड़ायां सङ्गता परे।  
 सुषुम्णामध्यगा ज्ञेया श्चत्वारो ये नपुंसकाः॥७॥**
@@ -4223,8 +4012,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **वामाश्रितो यदा प्राणस्तदा स्यादुत्तरायणम्।  
 पञ्चभूतास्तदा दीर्घास्तत्रोद्यन्ति पृथक् कृथक्॥ इति।**
-
-
 
 **विना स्वरैस्तु नान्येषां जायते व्यक्तिरञ्जसा।  
 शिवशक्तिमयान् प्राहुस्तस्माद् वर्णान् मनीषिणः॥८॥**
@@ -4266,8 +4053,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  एवं त्रिवृत्करणप्रक्रियां भुवनेशीबीजादुत्पत्तिं च सूचयता तेजस्त्रयतःसृष्टिरुक्ता॥८॥\]
 
-
-
 **कारणात् पञ्चभूताना मुद्भूता मातृका यतः।  
 ततो भूतात्मका वर्णाः पञ्च पञ्च विभागतः॥९॥**
 
@@ -4298,8 +4083,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 मायाशक्त्यभिधः सर्गः सर्व्वभूतात्मकः प्रभुः॥**
 
 **तस्मात् तस्यात्र विन्यासो नैकदेशे शिवात्मनि॥ इति।**
-
-
 
 **पञ्चशः कादयः षक्षलसहान्ताः समीरिताः।  
 सोमसूर्य्याग्निभेदेन मातृकावर्णसम्भवाः॥११॥**
@@ -4347,8 +4130,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **मृत्युर्व्याधिरमित्रे च स्वकुले सिद्धिरुत्तमा।  
 नामादिवर्णं साध्यस्य साधकस्य यथाक्रमम्॥**
 
-
-
 **अष्टत्रिंशत् कला स्तत्तन्मण्डलेषु व्यवस्थिताः।  
 अमृता मानदा पूषा तुष्टिः पुष्टी रतिर्धृतिः॥१२॥**
 
@@ -4379,8 +4160,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **वह्नेःकला दश प्रोक्ता विन्दुना सह धर्म्मदाः।  
 ब्रह्मात्मको रसो यस्तु स सूर्य्यःस चतुर्गुणः॥**
-
-
 
 **शशिनीचन्द्रिका कान्तिर्ज्योत्स्ना श्रीः प्रीतिरङ्गदा।  
 पूर्णा पूर्णामृता कामदायिन्यः स्वरजाः कलाः॥१३॥**
@@ -4414,8 +4193,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **ऊर्द्धीकृतो दक्षहस्तः प्रसृतोऽभयमुद्रिका।  
 अधोमुखो वामहस्तः प्रसृतो वरमुद्रिका॥ इति।**
-
-
 
 दशमपटल्यामपि भुवनेशीध्याने—
 
@@ -4468,8 +4245,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 एतत् स्वस्वगुरुसम्प्रदायानुसारेण तत्तद्देवताविशेषे बोद्धव्यमित्यलम्। क्रमादिति। सौम्यकलादीनां श्वेतादयः। अनेन वर्णवस्त्रमाल्यभूषाणां ग्रहणम्। एवमग्रेऽपि ज्ञेयम्॥१६॥
 
-
-
 **तारस्य पञ्चभेदेभ्यः पञ्चाशद्वर्णगाः कलाः॥१७॥**
 
 **सृष्टिर्वृद्धिः स्मृतिर्मेधा कान्तिर्लक्ष्मीर्धृतिः स्थिरा।  
@@ -4501,8 +4276,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  तमेव क्रममाह सृष्टिरित्यादिना इति पञ्चाशदाख्याता इत्यन्तेन। अकारात् प्रणवांशादुत्पन्नाः। तद्वाच्येन ब्रह्मणा चोत्पन्ना इति ज्ञेयम्। वाच्यवाचकयोरभेदात्। तदुक्तमाचार्य्यैः—“अकारप्रभवा ब्रह्मजाताः” इति। एवमग्रेऽपि। अक्षस्रक् अक्षमाला। आयुधध्यानं दक्षाधस्तलाद्वामाधस्तलपर्य्यन्तम्। अह्लादिनीति पदच्छेदः। दरः शङ्खः।शरच्चन्द्रस्य निभा कान्तिः तद्वत् प्रभा यासां ताः। निभशब्दः सदृशवाची वा॥१८-२३॥
 
-
-
 **ईश्वरेणोदिता बिन्दोः पीता श्वेताऽरुणाऽसिता।  
 अनन्ता च षवर्गस्था जवाकुसुमसन्निभाः॥२४॥**
 
@@ -4533,8 +4306,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  रुद्रादिकानिति पूर्व्वप्रकृतान् रुद्रान् उद्दिशति श्रीकण्ठेति। स्थाणुक इति कः स्वार्थे स्थाणुरिति नाम। एकरुद्रश्चकूर्म्मश्चएकनेत्राह्वश्च चतुराननश्चेति द्वन्द्वः। आह्वशब्दस्य न संज्ञायामन्तर्भावः। एवमग्रेऽपि आख्यादेः। छगलण्डद्विर-
 
-
-
 **अथैकरुद्रकूर्म्मैकनेत्राह्वचतुराननाः।  
 अजेशशर्व्वसोमेशास्तथा लाङ्गलिदारुकौ॥३२॥**
 
@@ -4564,8 +4335,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 ण्डेशाविति ईशशब्द उभयच सम्बध्यते। आयुधध्यानं वामदक्षिणयोः। एवमुत्तरत्रापि। इदं सामान्यम्। वक्ष्यमाणंवन्धूकेत्यादि शक्तिसम्भिन्नत्वे ज्ञेयम्। एवं विष्णुष्वपि। यत्तु क्वचित् “तप्तहेमावदातम्” इति तच्छक्तिशक्तिमतोरभेदे शक्तिप्राधान्यादित्यवधेयम्॥२९-३५॥
 
  आदिपदवाच्या एतच्छक्तीरुद्दिशति पूर्णोदरीति। विष्णुविष्णुशक्तिष्वपि इदमेवानुसन्धेयम्। सुदीर्घमुखिगोमुख्यौ भद्रकालियोगिन्यौ इत्यत्र “ङ्यापोः संज्ञाच्छन्दसो र्बहुलम्” इति बहुलग्रहणात् पूर्व्वपदस्य ह्रस्वः। प्रयोगे तु दीर्घ एव। सर्व्वसिद्धिसमन्वितेति गौरीविशेषणम्। तेन सर्व्वसिद्धिगौरीति शक्तिनाम।अपेक्षितार्थद्योतनिकाकारादिभिः तथैवोक्तेः। अन्यत्रापि “सर्व्वसिद्ध्यभिधा गौरी” इत्युक्तम्। रुद्राणां श्रीकण्ठादीनां। अङ्गः उत्सङ्गः॥३६-४४॥
-
-
 
 **आत्मशक्तिर्भूतमाता तथा लम्बोदरीमता।  
 द्राविणीनागरी भूयः खेचरीचापि मञ्जरी॥४०॥**
@@ -4604,8 +4373,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  आदिशब्दसंगृहीतान् केशवाद्यान् तच्छक्तीरप्युद्दिशति केशवेत्यादि। हलामिति व्यञ्जनानां वैयाकरणपरिभाषया। आयुधध्यानं वामदक्षिणयोः। एवमुत्तरत्रापि।
 
-
-
 **केशवाद्या इमे श्यामाश्चक्रशङ्खलसत्कराः।  
 कार्त्तिः कान्तिस्तुष्टिपुष्टीधृतिः शान्तिः क्रिया दया॥५१॥**
 
@@ -4643,8 +4410,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 अनयोरुदयेन सर्व्वेषामुदयोऽप्युक्तो भवति॥५७॥
 
-
-
 **पुंमन्त्राहुंफड़न्ताः स्युर्द्विठान्ताश्च स्त्रियो मताः।  
 नपुंसका नमोऽन्ताः स्युरित्युक्ता मनवस्त्रिधा॥५९॥**
 
@@ -4676,8 +4441,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **शेषाः पुमांसः शस्तास्ते वश्योच्चाटे विशेषतः।  
 क्षुद्रक्रियामध्वंसे स्त्रियोऽन्यत्र नपुंसकाः॥ इति।**
-
-
 
 **आग्नेयाः संप्रबुध्यन्ते प्राणे चरति दक्षिणे।  
 भागेऽन्यस्मिन् स्थिते प्राणे सौम्या बोधं प्रयान्ति च॥६२॥**
@@ -4716,8 +4479,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 स्वापकालो वामवहो जागरो दक्षिणावहः॥**
 
 **आग्नेयस्य मनोः सौम्यमन्त्रस्यैतद्विपर्य्ययः।**
-
-
 
 **छिन्नादिदुष्टा ये मन्त्रा पालयन्ति न साधकम्।  
 छिन्नो रुद्धः शक्तिहीनः पराङ्मुख उदीरितः॥६४॥**
@@ -4760,8 +4521,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  तत्र शक्तिशिवात्मकमातृकातो मन्त्रोत्पत्तेरुक्तत्वात् तदुत्पत्तिनिमित्ताश्चाणवादिदोषाः तदन्तर्गतच्छिन्नादिदोषसम्बन्धा मन्त्रा विरुद्धफला इत्याह छिन्नेति। छिन्नादिदोषैर्दुष्टाः साधकं न पालयन्तीति सर्व्वेषां सामान्यफलम्। वक्ष्यमाणं क्वचित्तत्तद्विशेषफलं ज्ञेयम्। आदिशब्दार्थमाह छिन्नेति। तथा पुनरित्यनेन कूट एव निरंशसूचक इत्याह। सोऽतिवृद्ध इति निःस्नेहविशेषणम् तेन निःस्नेहानन्तरमतिवृद्धस्ततःपीड़ित इति॥६४-७०॥
 
-
-
 **निरंशः सत्त्वहीनश्च केकरो बीजहीनकः।  
 धूमितालिङ्गितौ स्यातां मोहितश्च क्षुधातुरः॥६८॥**
 
@@ -4776,7 +4535,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 चतुर्धा पञ्चधा वा स्युः समन्त्रश्छिन्नसंज्ञकः॥७१॥**
 
 *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
 
  मनोरिति। आनिलं यं। आदिमध्यान्तेष्विति समुच्चयः। संयुक्तं वा अक्षरान्तरयुक्तं वियुक्तंवा केवलं वा इत्येकैकं द्विर्द्विःसम्बध्यते। विशिष्टमनिलं वा विशिष्टं बीजं वा यस्य स च्छिन्नसंज्ञक इति अन्वयः। बीजं शक्तिबीजम्। स्वराक्रान्तंदीर्घस्वराक्रान्तम्। आ ई ऊ ऐ औ एतत्स्वरयुक्तमिति सम्प्रदायविदः। बीजशब्देन मायाबीजं कथमिति चेदुक्तं शैवे—
 
@@ -4795,8 +4553,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  अन्यत्र तु—
 
 **“आदिमध्यान्तबीजानां लोपैश्छिन्नाः”इति॥७१॥**
-
-
 
 **आदिमध्यावसानेषु भूबीजद्वन्द्वलाञ्छितः।  
 रुद्धमन्त्रः स विज्ञेयो भुक्तिमुक्तिविवर्जितः॥७२॥**
@@ -4839,8 +4595,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  कामबीजं न यन्मध्ये मायादावन्तिमोऽङ्कुशः। पराङ्मुख इति प्रोक्तः। इति।
 
-
-
 **पञ्चवर्णो मनुर्यः स्याद् रेफार्केन्दुविवर्जितः।  
 नेत्रहीनः स विज्ञेयो दुःखशोकामयप्रदः॥७६॥**
 
@@ -4870,8 +4624,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 अथ मन्त्रांशकबीजविवरणमित्युपक्रम्य चन्द्रः सः अर्को हःइति तत्रैव व्याख्यातम्॥७६॥
 
  आदीति। एषां समुच्चयः हंसआदीनां न समुच्चयः। रावं वा इत्युक्तत्वात्। ग्रन्थान्तरेपि—“हंसं मायात्मकं वापि” इति। हंसः स्वरूपम्। प्रासादबीजं हौं। वाग्मवम् ऐँ। हकारोबिन्दुमान्। जीवः सः। रावः फ्रें। चतुष्कलो हूँ। माया शक्तिबीजम् नमामीति पदञ्चयत्र नास्ति स कीलित इति। अत्र हकारोविन्दुमानित्येकं पदम्। जीव इत्येकम्। तत्र जीवः कीदृशः हकारश्च अकारश्च उकारश्च विन्दुश्च तद्वान्। तेन स्हों इति सिद्धम्। अत्रअकार उकार बिन्दुरित्यनेन ॐकारः। यथा “अउमाः स्युः” इत्यत्र। तथा चपिङ्गलामते—
-
-
 
 **एकं मध्ये द्वयं भूर्द्ध्नियस्मिन्नस्त्रपुरन्दरौ।  
 विद्येते स तु मन्त्रः स्यात् स्तम्भितः सिद्धिरोधकः॥७८॥**
@@ -4916,8 +4668,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  अन्यत्र तु—“अग्निबीजाधिका दग्धाः” इति॥७९॥
 
-
-
 **अस्त्रंद्वाभ्यां त्रिभिः षड़्भिरष्टाभिर्दृश्यतेऽक्षरैः।  
 त्रस्तः सोऽभिहितो यस्य मुखे न प्रणवः स्थितः।  
 शिवो वा शक्तिरथवा भीताख्यः स प्रकीर्त्तितः॥८०॥**
@@ -4955,8 +4705,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 मन्त्रो मकार ईशेन मलिनः स समीरितः॥ इति।**
 
 मतान्तरत्वाद्भेदः। हृदयशब्दोऽन्तवाची।अन्यत्र तु “मलैस्त्रिभिः सहजागन्तुकमायाख्यैर्मलिनाः” इति॥८१॥
-
-
 
 **यस्य मध्ये दकारोऽथ क्रोधो वा मूर्द्धनि द्विधा।  
 अस्त्रं तिष्ठति मन्त्रः स तिरस्कृत उदाहृतः॥८२॥**
@@ -5006,8 +4754,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **वर्णत्रयात्मको मन्त्रो यस्तु हंसविवर्जितः।  
 प्रसुप्तः स तु विज्ञेयः सर्व्वसिद्धिफलापहः॥ इति।**
 
-
-
 **मन्त्रो वाऽप्यथवा विद्या सप्ताधिकदशाक्षरः।  
 फट्कारपञ्चकादिर्यो मदोन्मत्त उदीरितः॥८५॥**
 
@@ -5052,8 +4798,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 अष्टादशाक्षरत्वे विशेषः। अत्रापि “यः स्यादष्टादशाक्षरः” इति चरणःकाकाक्षि—
 
-
-
 **एकोनविंशत्यर्णो वा यो मन्त्रस्तारसंयुतः।  
 हृल्लेखाङ्कुशबीजाढ्यस्तं प्रध्वस्तं प्रचक्षते॥८८॥**
 
@@ -5092,8 +4836,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **गुरोरप्यविधानेन प्राप्तो योवनगर्व्वितः। इति।**
 
 ग्रन्थान्तरे तु “तरुणा अतिदर्पिताः” इति। अन्यत्र तु “प्रौढ़ाःप्रभोत्कटाः” इति॥८९॥
-
-
 
 **नवाक्षरो ध्रुवयुतो मनुर्निस्त्रिंश ईरितः।  
 यस्यावसाने हृदयं शिरोमन्त्रश्च मध्यतः॥९१॥**
@@ -5146,8 +4888,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **“प्रभाहीना मन्दाः” इति॥९३॥**
 
-
-
 **कूट एकाक्षरो मन्त्रः स एवोक्तो निरंशकः।  
 द्विवर्णः सत्त्वहीनः स्याच्चतुर्वर्णस्तु केकरः॥९४॥**
 
@@ -5193,8 +4933,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **धात्वर्थं वाधते कश्चित् कश्चित्तमनुवर्त्तते।  
 तमेव विशिनष्ट्यन्योऽनर्थकोऽन्यः प्रयुज्यते॥ इति।**
 
-
-
 **षड़्विंशत्यक्षरो मन्त्रः षट्त्रिंशद्वर्णकस्तथा।  
 त्रिंशदेकोनवर्णो वाऽप्यङ्गहीनोऽभिधीयते॥१००॥**
 
@@ -5238,8 +4976,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  शतमिति। शतद्वयं द्विनवतिरित्येकः सार्द्धशतद्वयं द्विनवतिरेकहीना
 
-
-
 **शतत्रयं वा यत्संख्या निःस्नेहास्ते समीरिताः।  
 चतुःशतान्यथारभ्य यावद्वर्णसहस्रकम्॥१०७॥**
 
@@ -5273,8 +5009,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 ज्ञातव्या देशिकेन्द्रेण नानातन्त्रेषु भाषिताः॥ इति।**
 
  काम्यकर्म्मस्वित्यनेन मुक्त्यर्थं मन्त्रजपे एतद्दोषाभावाद्दशसंस्कारा अपि न कर्त्तव्याः। एतच्चोपक्षणं। तेन वक्ष्यमाणलक्षणं शोधनादिकं मुक्त्यर्थं न कर्त्तव्यमिति॥११०॥
-
-
 
 **इत्यादिदोषदुष्टांस्तान् मन्त्रानात्मनि योजयेत्।  
 शोधयेदूर्द्धपवनो बद्धया योनिमुद्रया॥१११॥**
@@ -5317,8 +5051,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **ये निर्बीजा ये च सत्त्वेन हीना खण्डीभूताश्चाङ्गमन्त्रैर्विहीनाः।  
 एते मुद्राबन्धनेनैव योन्या मन्त्राः सर्व्वे वीर्य्यवन्तो भवन्ति॥ इति॥१११॥**
-
-
 
 **मन्त्राणां दशसंस्काराः कथ्यन्ते सिद्धिदायिनः।  
 जननं जीवनं पश्चात् ताड़नं बोधनन्तथा॥११२॥**
@@ -5365,8 +5097,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **प्रणवो बीजमित्युक्तंबीजान्ते तं नियोजयेत्।  
 अक्षरान्तरितं कृत्वा मन्त्रोऽसौ बीजितो मतः॥इति॥११५ ॥**
 
-
-
 **मन्त्रवर्णान् समालिख्य ताड़येच्चन्दनाम्भसा।  
 प्रत्येकं वायुना मन्त्री ताड़नं तदुदाहृतम्॥११६॥**
 
@@ -5406,8 +5136,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  सञ्चिन्त्येति। ज्योतिर्मन्त्रेण वक्ष्यमाणेन। मन्त्रीत्यनेन मूलाधारात्
 
-
-
 **तारं व्योमाग्निमनुयुग् दण्डी ज्योतिर्मनुर्मतः।  
 कुशोदकेन जप्तेन प्रत्यर्णं प्रोक्षणं मनोः॥१२०॥**
 
@@ -5445,8 +5173,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  तारेति। तारः प्रणवः ॐ। माया शक्तिः। रमा श्रीँ।
 
-
-
 **संस्कारा दश संप्रोक्ताः सर्व्वत\[म\]न्त्रेषु गोपिताः।  
 यान् कृत्वा सम्प्रदायेन मन्त्री वाञ्छितमश्नुते॥१२३॥**
 
@@ -5473,8 +5199,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 नञि च शून्यं ज्ञेयं तथा स्वरे केवले कथिते॥ इति।**
 
 अत्र कटौ नववर्णौ पाद्यः पञ्चार्णः योऽष्टार्णो हान्तः। पिण्डं संयुक्ताक्षरम्। तत्रान्त्येनाङ्कः। प्रा २ प १ लो ३ भा ४ त्प १ टु १ प्रा २ ज्यं १ रु २ द्र २ स्या १ द्रि २ रु २ रुः २ क १ रं २ लो ३ क १ लो ३ प १ प १ टु १ प्रा २ प १ ख २ लौ ३ द्यो १। एवमुक्तद्व्याद्यक्षरेषु अश्विन्यादयो ज्ञेयाः। भेषु नक्षत्रेषु क्रमाद वर्णा भेदिताः विभागेन दर्शिता इत्यर्थः। तदेत्युत्तरत्र सम्बध्यते। अत्र घकारद्यकारयोर्नागरलिपौ समानत्वात् भ्रान्तिकृतो घकारपाठः। तेन द्य इति एकाङ्गः संगृहीतः। स्वरान्त्यौ अं अः रेवत्यंशगतौ। अतो रेवत्यां अं अःल इत्यक्षरत्रयम्। रेवत्यंशगतावितिपदेनैवोक्तेरङ्केषु न संगृहीतम्। यथा वक्ष्यमाणे राश्यक्ष्यरकथने वालं गौरं खुरमिति। रेफेण कन्यायामक्षरद्वयमेवोक्तम्। अन्येषां कन्यायां शादय इति पदेनैवोक्तेः। तद्वदत्रापीत्यवधेयम। उत्तरभाद्रपदनक्षत्रे लकारेणाङ्कत्रयं गृहीतम्।
-
-
 
 **जन्मसम्पद्विपत् क्षेमः प्रत्यरिः साधको बधः।  
 मित्रं परममित्रञ्च जन्मादीनि पुनः पुनः॥१२६॥**
@@ -5506,8 +5230,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **एवं विभक्तवर्णेषु नक्षत्राणि प्रकल्प्यच॥  
 आरम्य जन्मनक्षत्रं मन्त्रतारावसानकम्।**
-
-
 
 इदं तु राशिनामप्रसिद्धनाम्नोरैक्येज्ञेयम्।
 
@@ -5551,8 +5273,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **मनुष्यराक्षसानान्तु विरोधो देवरक्षसाम्।  
 प्रीति र्देवमनुष्याणां स्वेन स्वेनापि साम्यता॥ इति॥१२६॥**
 
-
-
 **वालं गौरं खुरं शोणं शमी शोभेति राशिषु।  
 क्रमेण भेदिता वर्णाः कन्यायां शादयः स्मृताः॥१२७॥**
 
@@ -5595,8 +5315,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  सिद्धादिमन्त्रशोधन प्रकारमाह चतुरस्र इति। मन्त्री मन्त्रशास्त्रसम्प्रदायाभिज्ञः। कुर्य्यात् सिद्धादिभिः पुनः सिद्धादीन् इति वक्ष्यमाणत्वात् षोड़शकोष्ठोद्धारः
 
-
-
 **सिद्धादीन् कल्पयेन्मन्त्रीकुर्य्यात् सिद्धादिभिः पुनः।  
 सिद्धादीन् सिद्धिदः सिद्धो जपात् साध्यो हुतादिभिः।  
 सुसिद्धः प्राप्तिमात्रेण साधकं भक्षयेदरिः॥१३०॥**
@@ -5623,8 +5341,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **सिद्धादिषु च चतुर्ष्वप्येवं सिद्धादि तेषु विज्ञेयम्॥ इति।**
 
  अस्य प्रयोजनमाह स्वनामेति। स्वनामाद्यक्षरकोष्ठमारभ्य मन्त्राद्यक्षरकोष्ठं यावदिति शेषः। सिद्धादीनित्यादि। शब्दार्थफलकथनावसरे स्वयमेव प्रकटयिष्यति। कल्पयेदिति। एवं यत्र चतुष्के स्वनामाद्यक्षरं तत्सिद्धचतुष्कम्। ततः प्रादक्षिण्येन साध्यादिचतुष्कत्रयमिति। मन्त्री कुर्य्यात् सिद्धादिभिः पुनः सिद्धादीन् इति। यत्र चतुष्ककोष्ठे स्वनामाद्यक्षरं तत् सिद्धसिद्धकोष्ठम्। ततस्तस्मिन्नेव चतुष्के प्रादक्षिण्येन कोष्ठत्रये सिद्धसाध्य-सिद्धसुसिद्ध-सिद्धारीनिति कल्पयेत्। अस्मिन्नेव चतुष्के यदि मन्त्राद्यक्षरमपि स्यात् तदा अनयैव गणनया
-
-
 
 **सिद्धार्णा बान्धवाः प्रोक्ताः साध्यास्ते सेवकाः स्मृताः।  
 सुसिद्धाः पोषका ज्ञेयाः शत्रवो घातका मताः॥१३१॥**
@@ -5666,8 +5382,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 जन्मनि जन्मकाले यदृक्षमश्विन्यादि तेषामक्षराणि “चुचेचोला अश्विनी प्रोक्ता”
 
-
-
 इत्यादीनि तस्मात् तदारभ्य तेन जन्मनामाद्यक्षरमारभ्येत्यर्थः। एवं जन्मभाक्षरादित्यत्रापि ज्ञेयम्। अयञ्च जन्मनामप्रसिद्धनाम्नोः विकल्पो ज्ञेयः। किंवास्येत्युक्तेः। सिद्धिदः इति जपात् सिद्धः। हुतादिभिः साध्यः सिद्धिदः। प्राप्तिमात्रेण सुसिद्धःसिद्धिद इति सम्बन्धः। आदिशब्देन तर्पणादि। सिद्धसिद्धादिफलम् पिङ्गलामतोक्तं यथा—
 
 **यथोक्तात् सिद्धसिद्धस्तु तत्साध्यो द्विगुणाज्जपात्।  
@@ -5707,8 +5421,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **आदावन्ते सुसिद्धस्तु सर्व्वकामविभूतिदः।  
 आदावन्ते रिपुर्यस्य भवेत् त्याज्यः स मन्त्रकः॥**
-
-
 
 **आदौ सिद्धोऽन्त्यसाध्यो यो द्विगुणेन स सिद्ध्यति।  
 आदौ सिद्धः सुसिद्धान्त्यो यथोक्तात् सिद्ध्यते जपात्॥**
@@ -5755,8 +5467,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **सिद्धान्तरितशत्रुस्तु सुसिद्धेनापि चेद्भवेत्।  
 नासौ रिपुर्भवेन्मन्त्रः किन्तु कृच्छ्रेण सिद्ध्यति॥**
 
-
-
 **साध्यान्तरितसिद्धस्तुसुसिद्धोऽपि तथा यदि।  
 सिद्ध्यत्यतीवकष्टेन साधकस्य न चान्यथा॥**
 
@@ -5800,8 +5510,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 महाकपिलपञ्चरात्रे तु—
 
 **त्रिविधः कीर्त्तितो मन्त्रः सिद्धः साध्यः सुसिद्धकः।**
-
-
 
 **अल्पाक्षरो भवेत् सिद्धः साध्यो मालार्द्धमालकौ।  
 अत ऊर्द्धं सुसिद्धः स कवित्वे चातिनिन्दितः॥ इति।**
@@ -5849,8 +5557,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **नमस्तुभ्यं गृहाणेमं पुष्पधूपादिकं बलिम्।  
 आयाहि तेजसां नाथ हव्यवाह वरप्रद॥**
 
-
-
 **गृहाण पुष्पधूपादि बलिमेनं सुपूजितम्।  
 प्रेतराज समायाहि भिन्नाञ्जनसमद्युते॥**
 
@@ -5896,8 +5602,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **तत्पत्रं मतिमान् पश्चाद् बद्ध्वानिजशिरस्यथ।  
 स्नायात् पूजितकुम्भस्थतोयैर्मन्त्रमयैः शुभैः॥**
 
-
-
 **पुनश्चान्येन तोयेन कुम्भमापूर्य्य संयतः।  
 तन्मध्ये मन्त्रपत्रञ्च निक्षिप्याथ प्रपूजयेत्॥**
 
@@ -5921,8 +5625,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 तुल्यो यदा समफलः कथितो मुनीन्द्रैः॥ इति।**
 
 तत्र प्रकारः। साध्यस्य मन्त्रस्य साधकस्य शिष्यस्य नामाक्षराणि स्वरव्यञ्जनरूपेण पृथक्कृत्वा स्थापयेत्। ततो मातृकाया अ-क-ठ-बात्मकम् एकादशैकादशाक्षरं वर्गचतुष्टयं कृत्वा मन्त्राक्षराणि स्वरव्यञ्जनरूपेण पृथक्कृतानि इन्द्रादिभिरङ्कैर्गणयेत्। साधकनामाक्षराणि स्वरव्यञ्जनरूपेण पृथक्कृतानि दिगादिभिरङ्कैर्गुणयेत्। तत्र गुणनप्रकारः। यस्मिन् स्थाने यो वर्णः तं वर्णं तेनाङ्केन गुणयेत्। तत्स्थानमिताङ्कं गुणयेदित्यर्थः। तद्यथा। प्रथमकोष्ठस्थो वर्णोऽकारस्तं चतुर्दशभिः गुणयेत् तत्रैकश्चतुर्दशगुणितश्चतुर्दशैव। तथा द्वितीयकोष्ठस्थो वर्ण इकारस्तं सप्तविंशत्या गुणयेत्। तेन द्वाभ्यां सप्तविंशतिः गुणिता चतुःपञ्चाशत्। एवं तृतीयस्थानस्थो वर्ण उकारो द्विगुणितः षट्भवति। एवं साधकनामाक्षराण्यपि दिगादिभिः गुणयेत्। साधकनाम-मन्त्राक्षरेषु आ ई ऊ ऋृ ऌृएषामङ्का लघ्वक्षराणामेवाङ्का ज्ञेयाः। ततः सर्व्वेऽप्यङ्क एकीकृतः अष्टभिः विभाज्यः। यो राशिरधिकः स ऋणी अधमर्णः। ऊनो राशिर्धनी उत्तमर्णः। तत्र मन्त्रश्चेदधमर्णस्तदा ग्राह्यः। न चेन्न ग्राह्यः। अथ कादिमतोक्त ऋणधनशोधनप्रकारो यथा—
-
-
 
 **नामाद्यक्षरमारभ्य यावन्मन्त्रादिवर्णकम्।  
 त्रिधा कृत्वा स्वरैर्भिन्द्यात् तदन्यद् विपरीतकम्॥ इति।**
@@ -5956,8 +5658,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 पञ्चमे संशयात्मा स्यात् षष्ठः सर्व्वविनाशकः॥ इति।**
 
 अत्र सर्व्वत्र सिद्धादिशोधनापवादो ग्रन्थान्तरोक्तः।
-
-
 
 **पिण्डे तारे स्वप्नलब्धे षड़र्णे प्रासादार्कत्रैपुरे नारसिंहे।  
 माला मायामातृवाराह कामास्त्रे नो दोषः स्त्र्याप्तवेदेषु रत्ने॥ इति।**
@@ -6010,8 +5710,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **आज्ञासिद्धास्तु ये मन्त्रा योगिनीनां प्रसादतः।  
 लब्धा ये केऽपि ते मन्त्राः सर्व्वकामफलप्रदाः॥ इति।**
-
-
 
 **दीपस्थानं समाश्रित्य कृतं कर्म्म फलप्रदम्॥१३२॥**
 
@@ -6069,8 +5767,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **दीपस्थानं तदेतत् स्यात् कूर्म्मचक्रे न संशयः॥ इति।**
 
-
-
 **चतुरस्रां भुवं भित्त्वा कोष्ठानां नवकं लिखेत्।  
 पूर्व्वकोष्ठादि विलिखेत् सप्तवर्गाननुक्रमात्॥१३३॥**
 
@@ -6116,8 +5812,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **कादिनान्तं भवेत् क्षेत्रंग्रामः स्यात् पादिमान्तकः।**
 
-
-
 **मुखं तत् तस्य जानीयाद्धस्तावुभयतः स्थितौ।  
 कोष्ठे कुक्षी उभे पादौ द्वेशिष्टं पुच्छमीरितम्।  
 क्रमेणानेन विभजेन्मध्यस्थमपि भागतः॥१३५॥**
@@ -6161,8 +5855,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **जकारस्य टकारेण झ\[ऊ\]कारस्य खकारतः।  
 उकारस्य तकारेण फकारस्य धकारतः॥**
-
-
 
 **भकारस्य तु रेफेण यकारस्य सकारतः।  
 अरित्वमेषां वर्णानामन्येषां मित्रभावना॥**
@@ -6218,8 +5910,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **ईशाने शत्रुनाशः स्यादाग्नेयः शत्रुदायकः।**
 
-
-
 **पुण्यक्षेत्रं नदीतीरं गुहा पर्व्वतमस्तकम्।  
 तीर्थप्रदेशाः सिन्धूनां सङ्गमाः पावनं वनम्॥१३८॥**
 
@@ -6261,8 +5951,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **गृहे जपः समः प्रोक्तो गोष्ठे शतगुणस्तु सः।  
 आरामे च तथाऽरण्ये सहस्रगुण उच्यते॥**
-
-
 
 **भैक्ष्यं हविष्यं शाकानि विहितानि फलं पयः।  
 मूलं शक्तुर्यवोत्पन्नो भक्ष्याण्येतानि मन्त्रिणाम्॥१४०॥**
@@ -6309,8 +5997,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 फलं पयो मूलं विहितमित्यनुषज्यते॥१४०॥
 
-
-
 **पुरुषार्थसमावाप्त्यैसच्छिष्यो गुरुमाश्रयेत्।  
 मातृतः पितृतः शुद्धः शुद्धभावो जितेन्द्रियः॥१४१॥**
 
@@ -6346,8 +6032,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **विना स्वधर्म्मं यत्किञ्चित् देवताराधनादिकम्।  
 परिभ्रश्येत तद्यस्मात् क्षणात् सैकतहर्म्म्यवत्॥ इति।**
-
-
 
 **इत्यादिगुणसम्पन्नो गुरुरागमसम्मतः॥१४४॥**
 
@@ -6392,8 +6076,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **मध्यदेशकुरुक्षेत्रनाभोज्जयिनिसम्भवाः।  
 अन्तर्व्वेदिप्रतिष्ठानादावन्त्याश्च गुरूत्तमाः॥**
-
-
 
 **गौड़देशोद्भवाश्चौला मागधाः केरलास्तथा।  
 कौशलाश्च दशार्णाश्च गुरवो मध्यमा मताः॥**
@@ -6447,8 +6129,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **शुभाशुभनिमित्तज्ञस्त्वथवा विस्तरेण किम्।**
 
-
-
 **शिष्यः कुलीनः शुद्धात्मा पुरुषार्थपरायणः।  
 अधीतवेदः कुशलो दूरमुक्तमनोभवः॥१४५॥**
 
@@ -6486,8 +6166,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 स जीवन्नेव शूद्रत्वमाशु गच्छति सान्वयः॥ इति।**
 
 कुशलः अमुग्धः। मुग्धस्य मन्त्रबोधनाक्षमत्वात्। दूरमुक्तमनोभवः। कामिनःसपापत्वादशुद्धचित्तत्वात् मन्त्राराधनानधिकारः। हितैषी प्राणिनां नित्यम् इति। अन्यथा उपदिष्टमन्त्रात् अभिचारादिकर्म्मरतस्य तस्य पापं गुरुमपि स्पृशेत्। आस्तिकःअस्ति परलोक इति बुद्धिर्यस्य। अन्यथा नास्तिकतायां मन्त्रदेवतानाराधनात् गुरौ देवताकोपो भवेत्। त्यक्तनास्तिकः नास्तिकसंसर्गत्यागी। अन्यथा संसर्गजो दोषः स्यात्। स्वधर्म्मनिरतः आचारवान्। अनाचारिणोऽनधिकारात्। भक्त्या मातृपितृहितोद्यतो न तु दम्भादिना। असावेवास्य परमो धर्म्म उक्तो
-
-
 
 **वाङ्मनःकायवसुभिर्गुरुशुश्रूषणे रतः।  
 त्यक्ताभिमानो गुरुषु जातिविद्याधनादिभिः॥१४७॥**
@@ -6539,8 +6217,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **प्रणम्योपविशेत् पार्श्वे तथा गच्छेदनुज्ञया।  
 मुखावलोकी सेवेत कुर्य्यादादिष्टमादरात्॥**
 
-
-
 **आज्ञाकारी गुरोः शिष्यो मनोवाक्कायकर्म्मभिः।  
 यो भवेत् स तदा ग्राह्यो नेतरः शुभकाङ्क्षया॥१५०॥**
 
@@ -6590,8 +6266,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **यथा देवे तथा मन्त्रे यथा मन्त्रे तथा गुरौ।  
 यथा गुरौ तथा स्वात्मन्येवं भक्तिक्रमः स्मृतः॥ इति।॥१४५-१५२॥**
 
-
-
 **एकाब्देन भवेद् योग्यो ब्राह्मणोऽब्दद्वयान्नृपः।  
 वैश्यो वर्षैस्त्रिभिः शूद्रश्चतुर्भिर्वत्सरैर्गुरोः।  
 स शुश्रूषुः परिग्राह्यो दीक्षायागव्रतादिषु॥१५३॥**
@@ -6636,13 +6310,10 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **वश्याकर्षादिकं काम्यं दृष्टादृष्टफलप्रदम्।  
 वेदेन साध्यते सर्व्वं ग्रहयज्ञादिभिः किल॥**
 
-
-
 **न वेदेन विना यज्ञा न यज्ञा वेद\[मन्त्र\]वर्जिताः।  
 तस्माद्वेदः परो मन्त्रो न मन्त्रो वेदमुज्झितः॥**
 
 **न मन्त्रे चाधिकारोऽस्ति शूद्राणां नियमः परः।**  
-
 
 **मन्त्राभावादमन्त्रेण भाषितं सर्व्वकर्म्म हि॥ इति।**
 
@@ -6680,8 +6351,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 इति श्रीशारदातिलकटीकायां सत्सम्प्रदायकृतव्याख्यायां  
 पदार्थादर्शाभिख्यायां द्वितीयः पटलः॥ॐ॥
 
-
-
 **ततो वक्ष्यामि दीक्षाङ्गं वास्तुयागपुरःसरम्।  
 कृतेन येन मन्त्रज्ञो दीक्षायाः फलमश्नुते॥१॥**
 
@@ -6717,8 +6386,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 निन्दितेष्वपि मासेषु दीक्षोक्ता ग्रहणे शुभा॥इति।**
 
 तत्राषाढ़स्य उत्तमानन्तर्गतत्वान्निषेधः कष्टानन्तर्गतत्वाच्च ग्रहणम्। एवं ज्यैष्ठस्यापि निषेध उत्तमानन्तर्भावादेवेति ज्ञेयम्। तथा च
-
-
 
  कालोत्तरे—
 
@@ -6780,8 +6447,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 विष्णुदीक्षायां पञ्चरात्रे तु विशेषः—
 
 **द्वादश्यां शुक्लपक्षस्य सूर्य्यसंक्रमणे तथा। इति।**
-
-
 
 संक्रमा विष्णुपदिव्यतिरिक्ताः। कालोत्तरेच—
 
@@ -6851,8 +6516,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **योगाश्च प्रौतिरायुष्मान् सौभाग्यः शोभनः शुभः।  
 सुकर्म्मा च धृतिर्वृद्धिर्ध्रुवः सिद्धिश्चहर्षणः॥**
 
-
-
 **वरीयांश्च शिवः सिद्धो ब्रह्मा ऐन्द्रश्च षोड़श। इति।**
 
  तथा—
@@ -6910,8 +6573,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **शशिदिनकरयोर्ग्रहणे जन्मनि शिष्यस्य मकरसंक्रान्तौ।  
 करुणासमये च गुरोः नक्षत्रादीष्यते न दीक्षायाम्॥ इति ।**
-
-
 
  तथा—
 
@@ -6972,8 +6633,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 न तिथिर्न व्रतं होमो न स्नानं न जपक्रिया।  
 दीक्षायाः कारणं किन्तु स्वेच्छावाप्ते तु सद्गुरौ॥ इति॥१॥**
 
-
-
 **राक्षसं वास्तुनामानं हत्वाऽधिष्ठाय तत्तनुम्।  
 स्थितास्त्रिपञ्चाशद्देवास्तेभ्यः पूर्व्वंबलिं हरेत्॥२॥**
 
@@ -7022,8 +6681,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 पैत्र्यांपादपुटौ रौद्र्यांशिरोऽस्य हृदयेऽञ्जलिः॥ इति।**
 
 स्थिता इति पुनरुत्थानशङ्कया। तदुक्तं महाकपिलपञ्चरात्रे—
-
-
 
 **बलिमण्डलमेतेषां यथावदभिधीयते।  
 पूर्व्वापरायतं सूत्रं विन्यसेदुक्तमानतः॥३॥**
@@ -7076,8 +6733,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **गृहप्रासादकूपानां मण्डपस्य जलस्य च।  
 वास्तुमण्डलकं कार्य्यमष्टहस्तन्तु नापरम्॥ इति॥३॥**
 
-
-
 **तन्मध्यं किञ्चिदालम्ब्यमत्स्यौ द्वौपरितो लिखेत्।  
 तयोर्मध्ये स्थितं सूत्रं विन्यसेद् दक्षिणोत्तरम्॥४॥**
 
@@ -7112,8 +6767,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  चतुरस्रमिति वास्तुशरीरस्य चतुरस्रत्वात्। तदुक्तम्—
 
 **चतुस्राकृतिः कश्चिदसुरः सर्व्वनाशकः। इति।**
-
-
 
 **ईशानाद्रक्षसो यावद् यावदग्नेः प्रभञ्जनः।  
 एवं सूत्रद्वयं दद्यात् कर्णसूत्रंसमाहितः॥७॥**
@@ -7159,8 +6812,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **मण्डपान् प्रवरान् वक्ष्ये प्रासादस्यानुरूपतः। इत्युक्तम्**
 
-
-
 **ब्रह्माणं पूजयेदादौ मध्ये कोष्ठचतुष्टये।  
 दिक्चतुष्केषु पूर्व्वादि यजेदार्य्यमनन्तरम्॥८॥**
 
@@ -7199,8 +6850,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **छागलस्थाऽतिरक्ताङ्गी स्यात् पूजायां प्रकामता।  
 शक्त्यक्षमालिनी दक्षे वामे सवरकुण्डिका॥**
-
-
 
 **विवस्वन्तं ततो मित्रं महीधरमतः परम्।  
 कोणार्द्धकोष्ठद्वन्द्वेषु वह्न्यादिपरितः पुनः॥९॥**
@@ -7243,8 +6892,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **पृथ्वीधरो मरीचिश्च स्तनयोः कुक्षिगौ पुनः।  
 विवस्वान् मित्रनामा च पादयोः पितरः स्थिताः॥**
-
-
 
 **तत्कर्णसूत्रोभयतः कोष्ठद्वन्द्वेषु देशिकः।  
 शर्व्वं गुहं चार्य्यमणं जृम्भकं पिलपिच्छकम्॥११॥**
@@ -7299,8 +6946,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  तदिति। दिशत्युपदिशति शिष्येभ्यो मन्त्रानिति देशिको मान्त्रिकः।
 
-
-
 **चरकीञ्च विदारीञ्च पूतनामर्चयेत् क्रमात्।  
 अर्चयेद् दिक्षु पूर्व्वादि सार्द्धाद्यन्तपदेष्विमान्॥१२॥**
 
@@ -7338,8 +6983,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **उक्तानां सर्व्वदेवानां स्वरूपञ्च निगद्यते।  
 अक्षमालां स्रुचं\[वं\]दक्षे वामे दण्डकमण्डलुम्॥**
-
-
 
 **दधानमष्टनयनं यजेन्मध्येऽम्बुजासनम्।  
 सर्व्वे चतुर्भुजा देवा वास्तुदेहे व्यवस्थिताः॥**
@@ -7385,8 +7028,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **पूतना हिमसङ्काशा मेघाभा पिलपिच्छिका।  
 खड़्गञ्चपानपात्रञ्च छुरिकां कर्त्तरींतथा॥**
-
-
 
 **दधाना भीमरूपास्ता राक्षस्यः परिकीर्त्तिताः।  
 सितो रक्तश्च पीतश्च कृष्णः स्कन्दादिका ग्रहाः॥**
@@ -7435,8 +7076,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **ईशानादिचतुष्कोणसंस्थितान् पूजयेद् बुधः। इति।**
 
-
-
  तथा—
 
 **क्षीरं खण्डसमायुक्तं पुष्पादिभिरलङ्कृतम्।  
@@ -7484,8 +7123,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **छागकर्णान्वितं मांसं वस्त्रगन्धादिसंयुतम्।  
 पिलिपिच्छ गृहाणेमं रक्षोविघ्नं प्रणाशय॥**
 
-
-
 **घृतेन साधितं मांसं वस्त्रगन्धादिसंयुतम्।  
 चरकि वै गृहाणेमं रक्षोविघ्नं प्रणाशय॥**
 
@@ -7531,8 +7168,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **नानागन्धसमायुक्तं रक्तपुष्पादिभिर्युतम्।  
 बलिं गृहाण गन्धर्व्व सर्व्वदोषं प्रणाशय॥**
 
-
-
 **इमान्तु शाकुनीं जिह्वांमाषभक्तोपरिस्थिताम्।  
 गृहाणेमं बलिं भृङ्गराज शान्तिं प्रयच्छ मे॥**
 
@@ -7577,8 +7212,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **ओदनं घृतसंमिश्रंगन्धपुष्पसमन्वितम्।  
 गृहाणेमं वलिं हृद्यं भल्लाट त्वं नमोऽस्तु ते॥**
-
-
 
 **अयं वास्तुबलिः प्रोक्तः सर्व्वसम्पत्समृद्धिदः॥१८॥**
 
@@ -7628,8 +7261,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **वास्तौ गेहे प्ररोहे \[प्रद्रोहे\] भूतद्रोहे गृहप्रवेशे च।  
 वितते च शान्तिहोमे दिशां बलिः सिद्धये प्रयोक्तव्यः॥ इति। **
 
-
-
  तत्र यथोपदेशं प्रयोगो लिख्यते। अथ यजमान आचार्य्यं वृणुयात्। तत आचार्य्योवक्ष्यमाणलक्षणां भूमिं परिगृह्य वक्ष्यमाणमार्गेण तच्छुद्धिं विधाय पञ्चब्रह्मभिः पञ्चगव्यैर्भूमिं सिञ्चेत्। तन्मध्ये कनकशलाकया रत्नेन वा तदभावे रजतफलपुष्पधान्यानामन्यतमेन वा—
 
 **शान्ता यशोवती कान्ता विशाला प्राणवाहिनी।  
@@ -7648,8 +7279,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 इत्यनेन तीर्थान्यावाह्य अश्वस्थानगजस्थानवल्मीकनदीसङ्गमह्रदगोकुलरथ्यातः सप्त मृत्तिका आनीय कलसे निक्षिप्य “वं वरुणाय नमः” इति मन्त्रेण तत्र कलसे पञ्चोपचारैः वरुणं पूजयेत्। ततः —
 
   मुरा मांसी वचा कुष्टं शैलेयं रजनीद्वयम्। शटी चम्पकमुस्तञ्च इति सर्व्वौषधीश्च प्रक्षिपेत्। ततः कुण्डादिसमीपमेत्य संस्कारादि अग्निमुखान्तं कर्म्म कृत्वा ब्रह्मादित्रिपञ्चाशद्देवेभ्यः अष्टोत्तरसहस्रमष्टोत्तरशतमष्टाविंशतिमष्टौ वा प्रत्येकं यवैर्वा क्वष्णतिलैर्वा उदुम्बरतदतिरिक्तक्षीरवृक्षीयपालाशखदिरापामार्ग-
-
-
 
 कुशदूर्व्वाणामन्यतमसमिद्भिः वा आहुतीर्जुहुयात्। केचित्तु ब्रह्मण आहुतिशतं अन्येषां दशदशाहुतय इत्याहुः। तत ॐ वास्तोष्पतये नमः अनेन वैदिकैर्वा तल्लिङ्गैः पञ्चमन्त्रैः पञ्च विल्वफलानि विल्वबीजानि वा जुहुयात्। तत उत्तरतन्त्रं समाप्य वौषडन्तेनाऽग्निमन्त्रेण वरुणमन्त्रेण वा पूर्णाहुतिं हुत्वा तन्त्रोक्तद्रव्यैः तत्तन्मन्त्रैश्च त्रिपञ्चाशद्देवताभ्यो बलिं दत्त्वा दिशां बलिञ्च विधाय आचार्य्यः प्रत्यङ्मुखो भूत्वा प्राङ्मुखं साध्यं शान्तिकलसोदकेन—
 
@@ -7671,8 +7300,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **वास्तूपशमनं कुर्य्यात् समिद्भिर्बलिकर्म्मणा।  
 होमस्त्रिमेखले कार्य्यः कुण्डे हस्तप्रमाणके॥**
-
-
 
 **नक्षत्रराशिवाराणामनुकूले शुभेऽहनि।  
 ततो भूमितले शुद्धे तुषाङ्गारविवर्जिते॥१९॥**
@@ -7714,8 +7341,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 विष्टित्यक्तदिने वदन्ति मुनयो वेश्मादिकार्य्यंशुभम्॥ इति।**
 
 भूमितले शुद्धे इति। तत्र भूमिपरीक्षोक्तामहाकपिलपञ्चरात्रे —
-
-
 
 **तत्र भूमिं परीक्षेत वास्तुज्ञानविशारदः।  
 स्फुटिता च सशल्या च वल्मिका रोहिणी तथा॥**
@@ -7763,8 +7388,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **पाटलामल्लिकागन्धा नागकेशरगन्धिनी।  
 दधिक्षीराज्यगन्धा च मदिरासवगन्धिनी॥**
-
-
 
 **सुगन्धिब्रीहिगन्धा च शुभगन्धयुता च या।  
 सर्व्वेषामेव वर्णानां भूमिः साधारणी मता॥ इति।**
@@ -7818,8 +7441,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **अहिर्बुध्नोऽजपादर्क्षं शतभं ब्राह्मसर्पभम्।  
 पुष्यं हस्तं समालेख्यं द्वितीयां पङ्क्तिमास्थितम्॥**
 
-
-
 **अभिजिद्विष्णूधनिष्ठा सौम्यं रौद्रं पुनर्व्वसुम्।  
 चित्रभञ्च तृतीयायां पङ्क्त्यां धिष्णस्य सप्तकम्॥**
 
@@ -7861,8 +7482,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **प्रासादारम्भकाले च यदङ्गं स्पृशते पुमान्।  
 वास्तुदेहे दृढ़ं तत्र शल्यंविद्याद्विचक्षणः॥**
-
-
 
 **कण्डूयति शिरः पुंसि शिरःशल्यंसमुद्धरेत्।  
 शल्यं तत्राऽस्थि\[स्ति\] विज्ञेयं खन्यमाने करत्रये॥**
@@ -7908,8 +7527,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **अग्निदाहो मनस्तापः क्लेशदुःखभयानि च।  
 करोत्येवंविधं कर्म्मतस्मात् तं वै समुद्धरेत्॥**
-
-
 
 **पुण्याहं वाचयित्वा तु मण्डपं रचयेच्छुभम्।  
 पञ्चभिः सप्तभिर्हस्तै र्नवभिर्वा मितान्तरम्॥२०॥**
@@ -7959,8 +7576,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **पूर्व्वपराह्णयोः कृत्वा चिह्नेतमभितस्तथा।  
 ससमान परिभ्रान्त्या कृत्वा वृत्तद्वयं पुनः॥**
-
-
 
 **तयोः संश्लेषसंजातमध्यदक्षोत्तरस्थिते।  
 सन्धिद्वये च प्राक् प्रत्यक् सूत्रंमध्ये तु विन्यसेत्॥**
@@ -8013,8 +7628,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **दक्षिणोत्तरगं सूत्रमेवं सूत्रद्वयं न्यसेत्।**
 
-
-
 **तदग्राण्यपरान्तानि सूत्राणि च विनिक्षिपेत्।  
 सूत्राणि स्थपतिः प्राज्ञः प्रागुत्तरमुखानि च॥ इति।**
 
@@ -8057,8 +7670,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 अनेन प्रकारेण या आगता तिलादिप्रमाणिका अन्तरभूस्ताम् उदगयने उत्तरतो दक्षिणायने दक्षिणतः प्रागङ्क एवं वर्द्धयेत्। तत्र रेखां कुर्य्यात्। एषा सूक्ष्मा प्राचीति। मण्डपं रचयेदित्यनेनोत्तममध्यमकनीयोभेदेन त्रिविधोऽपि मण्डप उद्दिष्टो भवति। तत्र मण्डपत्रैविध्यंमन्त्रमुक्तावल्यामुक्तम् —
 
-
-
 **अथ मण्डपनिर्म्माणं ब्रूमहे ब्रह्मणोदितम्।  
 श्रेष्ठमध्यमहीनैस्तु मानैस्तच्च त्रिधा मतम्॥ इति।**
 
@@ -8086,8 +7697,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **विंशहस्तप्रमाणेन मण्डपं कूटमेव च। इति।**
 
 विंशतिहस्तं चतुर्विंशतिहस्तमेव चोक्तम्। तेनास्य शारदीयपद्यस्यैवमर्थो
-
-
 
 व्याख्येयः। पञ्चभिः सप्तभिरिति समुच्चितम्। तेन द्वादशहस्तायामविस्तारः स चतुश्चत्वारिंशदधिकशतकरक्षेत्रफलः कनीयान् मण्डपः। ततः पञ्चभिर्नवभिरित्यन्वेति। तेन चतुर्दशहस्तायामविस्तारः चतुरूनद्विशतहस्तक्षेत्रफलः मध्यमो मण्डपः। ततश्च सप्तभिर्नवभिरित्यन्वेति। तेन षोड़शहस्तायामविस्तारः षट्पञ्चाशदधिकद्विशतकरक्षेत्रफल उत्तमो मण्डपः। इति त्रिविधोऽपि मण्डप उक्तो भवति।तदुक्तं प्रतिष्ठासारसंग्रहे—
 
@@ -8132,8 +7741,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **उच्छ्रायो हस्तमानं स्यात् सुसमं च सुशोभनम्। इति।**
 
 अन्यत्रापि—“क्ष्मास्रंमण्डपमुन्नतम्” इति। नन्वत्र मण्डपत्रये कनीयसैव फलसिद्धेर्मध्यमोत्तमयोरननुष्ठानमेव स्यादिति चेन्न। फलस्य कर्म्मनिष्पत्तेस्तेषां लोकवत् परिमाणतः फलविशेषः स्यात् इति न्यायेन फलतारतम्यकल्पनाददोषः। तथाहि अग्निहोत्रज्योतिष्टोमयोः स्वर्गः फलत्वेन श्रूयते तत्राद्येनैव तत्ससिद्धौ द्वितीये महति कोऽपि न प्रवर्त्तेत इत्याशङ्क्य फले तारतम्यकल्पनमाकरे परिहृतम्।
-
-
 
 **षोड़शस्तम्भसंयुक्तं चत्वारस्तेषु मध्यगाः।  
 अष्टहस्तसमुच्छायाः संस्थाप्या द्वादशाऽभितः॥२१॥**
@@ -8182,8 +7789,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **                  स्तम्भद्वादशकं पुनः।**  
 **बाह्येऽप्युक्तप्रमाणेन तत्र तत्र विभागतः॥ इति॥ २१॥**
 
-
-
 **पञ्चहस्तप्रमाणास्ते विच्छिद्रा ऋजवः शुभाः।  
 तत्पञ्चमांशं निखनेन् मेदिन्यां तन्त्रवित्तमः॥२२॥**
 
@@ -8229,8 +7834,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **कनीयसि स्याद् द्विकरं चतुरङ्गुलिवृद्धितः। मध्यमोत्तमयोर्द्वारम्। इति।**
 
 न्यस्येदिति निखनेत् पञ्चमांशेनैव।
-
-
 
 यद्वावास्तुशास्त्रे—
 
@@ -8286,8 +7889,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **मण्डपद्वारबाह्ये च वेदिमानेन दिक्क्रमात्।  
 प्लाक्षमौडुम्बराश्वत्थवटोत्थं तोरणं न्यसेत्॥ इति।**
 
-
-
 **स्तम्भोच्छ्रायः स्मृतस्तेषां सप्तहस्तैः पृथक् पृथक्।  
 दशाङ्गुलप्रमाणेन तत्परीणाह ईरितः॥२४॥**
 
@@ -8320,8 +7921,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   द्वाविंशतिघ्ने विहृतेऽथ शैलैः स्थूलोऽथवा स्याद् व्यवहारयोग्यः। इति। व्यासः१० द्वाविंशतिघ्नः २२० शैलैः ७ हृतः ३१ लब्धः एतावान् परिधिर्यस्य काष्ठस्य तस्य दशाङ्गुलो विष्कम्भः॥२४॥
 
   तिर्य्यगिति। उभयस्तम्भमध्ये देहलीरूपेण उपरि यत् तिर्य्यक्फलकं तस्य मानं स्तम्भानां पञ्चहस्तमितानां तोरणस्तम्भानामर्द्धमानतः। तेन सार्द्धहस्तद्वयं प्रमाणमुक्तम्। स्तम्भानामिति बहुवचनं द्वारबहुत्वात् तोरणस्तम्भानामपि बहुत्वमिति योज्यम्। अनेन कनिष्ठमण्डपे पञ्चहस्ततोरणस्तम्भत्वमपि सूचितम्। इदं तिर्य्यक्फलकमानम् उत्तमस्यैव। अन्ययोः षट्षङ्गुलन्यूनता ज्ञेया। वास्तुशास्त्रे तथोक्तेः। शूलनीति बहुवचनं चतुःसंख्यापरम्। तोरण इत्येकवचनं जातौ। तेन
-
-
 
 प्रतितोरणमेकमेकं शूलं कार्य्यम्। तच्च हस्तप्रमाणम्। तत्राङ्गुलत्रयं निवेशः षड्भागः परीणाहः। एतच्च मण्डपत्रये समानम्। तत्र शूलस्वरूपं मध्यकीलः तीक्ष्णाग्रः ऋजुः तमभितो द्वौतीक्ष्णाग्रौवक्रौ। मध्यकीलदेशगतवक्रभागाविति।
 
@@ -8367,8 +7966,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 अमृतो दुर्जयश्चैव सिद्धार्थो मङ्गलस्तथा॥**
 
 **पूज्या द्वारस्थकुम्भेषु शक्राद्यास्तन्मनूत्तमैः। इति।**
-
-
 
 **दिक्षु ध्वजान्निबध्नीयाल्लोकपालसमप्रभान्।  
 वितानदर्भमालाद्यैरलङ्कुर्व्वीत मण्डपम्॥२६॥**
@@ -8419,8 +8016,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 चिन्तयन्त्यसुरश्रेष्ठा ध्वजहीनं सुरालयम्॥**
 
 **ध्वजेन रहिते ब्रह्मन् मण्डपे तु वृथा भवेत्।**
-
-
 
 **पूजाहोमादिकं सर्व्वंजपाद्यं यत् कृतं बुधैः॥**
 
@@ -8475,8 +8070,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **आख्यातसाधनैः क्लृप्तः शोभनः सममानकः।  
 मनोज्ञो मण्डपो योऽसौ कर्म्मकर्त्तः शुभावहः॥ इति॥२६॥**
 
-
-
 **तत्त्रिभागमिते क्षेत्रेऽरत्निमात्रसमन्विताम्।  
 चतुरस्रां ततो वेदींमण्डलाय प्रकल्पयेत्॥२७॥**
 
@@ -8526,8 +8119,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **अवक्रपार्श्वा सुस्निग्धा दर्पणोदरसन्निभा। इति।**
 
-
-
 **प्रागेव दीक्षादिवसात् सप्तभिर्विधिवद्दिनैः।  
 सर्व्वमङ्गलसम्पत्त्यै विदध्यादङ्कुरार्पणम्॥२८॥**
 
@@ -8575,8 +8166,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **उत्सवेषु विविधेष्वपि दीक्षास्थापनादिषु पवित्रविधौ च।  
 मङ्गलाङ्कुरविरोपणपूर्व्वं मङ्गलं भवति कर्म्मकृतस्ततः॥**
 
-
-
 **मण्डपस्योत्तरे भागे शालां पूर्व्वापरायताम्।  
 गूढ़ां कुर्य्यात् ततस्तस्यां मण्डलं रचयेत् सुधीः॥२९॥**
 
@@ -8615,8 +8204,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **प्रसार्य्य स्फोटयेत् सूत्रं यथा याम्योत्तरायतम्।  
 पञ्चहस्तप्रमाणेन द्वे द्वे पार्श्वे च पातायेत्॥**
 
-
-
 **पङ्क्त्यां वीथीश्चतस्रोऽन्तश्चतुष्कोभयपार्श्वयोः।  
 वीथ्यौ द्वे च चतुष्कोष्ठत्रयमत्राऽवशिष्यते॥३२॥**
 
@@ -8644,8 +8231,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   अङ्कुरार्पणपात्राण्याह पात्राणीति। स्थूलानि उच्चानि शरावाण्येव पालिकाशब्देनोच्यन्ते। पालिका एव किञ्चिन्नीचाः पञ्चमुखयुक्ताः पञ्चमुख्य उच्यन्ते। शरावाःप्रसिद्धाः। सर्व्वतन्त्रज्ञैरित्यनेन पञ्चदेवतादीक्षादिकर्म्मसु पात्रभेदो नास्तीत्युक्तम्। प्रथमा हरिरूपाः। द्वितीया ब्रह्मरूपाः। तृतीयाःशिवरूपाः। एतेन हरिब्रह्मेशा एषु पात्रेषु पूज्या इत्युक्तं भवति। तदुक्तं सारस्वतमते—
 
 **प्रोक्तेषु तेषु पात्रेषु ब्रह्मविष्णुशिवान् यजेत्। इति।**
-
-
 
 **अङ्गुलैः क्रमशस्तानि शुभान्यावेष्ट्य तन्तुना।  
 प्रक्षाल्य देशिकस्तेषु पदेष्वाहितशालिषु॥३६॥**
@@ -8694,8 +8279,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   तानीति पात्राणि। शुभानीति कृष्णवर्णव्रणादिरहितानि। तन्तुनेति त्रिगुणेन। तत्र पूर्वं प्रक्षालनं पश्चात्तन्तुवेष्टनमिति ज्ञेयम्। दर्भकूर्चम् अग्रे वक्ष्यमाणम्। पश्चिमादीति। पश्चिमचतुष्के पालिकाचतुष्टयं मध्यमचतुष्के पञ्चमुखीचतुष्टयं पूर्व्वचतुष्के शरावचतुष्टयं निवेशयेत्। तन्मध्ये आग्नेयादि स्थापनमिति ज्ञेयम्। तदुक्तं
 
-
-
 **सुधाबीजेन बीजानि दुग्धैः प्रक्षाल्य तन्त्रवित्।  
 मूलमन्त्राभिजप्तानि पञ्चघोषपुरःसरम्॥३८॥**
 
@@ -8743,8 +8326,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 सारस्वतमतेऽपि—बीजानि तानि प्रक्षाल्य जलक्षीरेण च क्रमात्। इति।एतत् तन्त्रवित् इत्यनेन सूचितम्। मूलेति मूलमन्त्रेण दातव्यमन्त्रेण अभिजप्तानि अष्टोत्तरशतमिति। तदुक्तं महाकपिलपञ्चरात्रे—
 
-
-
 **शालिभ्यामाढ़कीमुद्गतिलनिष्पावसर्षपाः।  
 कुलत्थकङ्गुमाषाश्च बीजान्यङ्कुरकर्म्मणि॥४०॥**
 
@@ -8787,8 +8368,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **विकीर्य्याऽनेन मन्त्रेण हरिद्राचूर्णमिश्रितम्।  
 तोयं प्रवर्षयेत्तेषु सिञ्चेत्तोयैर्दिनं प्रति॥ इति।**
 
-
-
 **प्रणवाद्यैर्नमोऽन्तैश्च रात्रौ रात्रीशनामभिः।  
 भूतानि पितरो यक्षा नागा ब्रह्मा शिवो हरिः॥४२॥**
 
@@ -8828,8 +8407,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   सप्तसु रात्रिषु पृथक् पृथक् बलिद्रव्याण्याह भूतेभ्य इति। सान्ना इत्यन्तं षट् प्रथमरात्रौ। अस्यैव भूतक्रूरेति नाम। तदुक्तम्—“लाजतिलरक्तरजोदधिसक्त्वन्नानि भूतक्रूराख्यम्” इति करम्भा दधिसक्तवः। अक्षता अखण्डतण्डुलाः। यदा नवसु रात्रिषु बलिदानं तदा रात्रिद्वये बलिद्रव्यं देवता चोक्ताचार्य्यैः“वैष्णवञ्च दौग्धान्नं क्वशरञ्च वैष्णवेयं यदि नवरात्रं क्रमेण बलिरुक्तः” इति॥४३-४५॥
 
   तत इति। तत्तद्दिशि पायसादिना बलिर्विधेयः। तत्र नैर्ऋत्यप्रतीच्ययोर्मध्ये
-
-
 
 **प्राक्प्रोक्ते मण्डपे विद्वान् वेदिकाया बहिस्त्रिधा॥४७॥**
 
@@ -8872,8 +8449,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 अत्र पादशब्दः किञ्चिदधिकोपलक्षकः। तेन मध्यमोत्तममण्डपविषयत्वमस्य
 
-
-
 **चतुरस्रं योनिमर्द्धचन्द्रंत्र्यस्रं सुवर्त्तुलम्।  
 षड़स्रं पङ्कजाकारमष्टास्रं तानि नामतः॥४९॥**
 
@@ -8914,8 +8489,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   तत्र सर्व्वकुण्डप्रकृतिभूतत्वादादितश्चतुरस्रकुण्डलक्षणमाह हस्तेति। पूर्व्ववदिति वास्तुमण्डलचतुरस्रकरणरीत्या। समन्ताच्चतुर्दिक्षु परिकल्पयेदिति सम्बन्धः। चतुरस्रकुण्डलक्षणे हस्त उक्तः तल्लक्षणनिर्व्वाहार्थम् अङ्गुललक्षणमप्याह चतुरिति। कर्त्तुः संस्कार्य्यस्य शिष्यस्य नत्वाचार्य्यस्य। प्रयोजककर्त्तृत्वेन शिष्येपि कर्त्तृशब्दप्रयोगात्। ननु मुख्यकर्तृपदवाच्य आचार्य्य एवात्र किमिति न गृह्यते। इति चेदुच्यते। “दानवाचनान्वारम्भणवरवरणव्रत प्रमाणेषु यजमानं प्रतीयात्” इति
 
-
-
 **यवानामष्टभिः क्लृप्तं मानाङ्गुलमुदीरितम्।  
 चतुरस्त्रीकृतं क्षेत्रं पञ्चधा विभजेत् सुधीः॥५३॥**
 
@@ -8952,8 +8525,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **मात्राङ्गुलेन हस्तः स्यात् कुण्डमाने शिवेरितः।  
 मध्यमाङ्गुलिमध्यस्थपर्व्वदैर्घ्येण चोत्तमम्॥**
-
-
 
 **मात्राङ्गुलेन चानेन मेखलाकण्ठनाभयः।  
 कर्त्तव्याः कुण्डयोनिश्च। इति।**
@@ -8997,8 +8568,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **महामानाङ्गुलं यत्तन्मात्राङ्गुलमितीरितम्।  
 मानान्तराङ्गुलेनैव प्रतिमाङ्गानि कल्पयेत्॥**
 
-
-
 **प्रासादादींश्च तेनैव कुर्य्यान्मानान्तरेण वा।  
 वेदिकापीठशिविकारथादीनां विधिः पुनः॥**
 
@@ -9036,8 +8605,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   चतुरस्त्रप्रकृतितया योनिकुण्डमाह चतुरस्रीकृमिति। चतुरस्त्रीकृतं क्षेत्रं पञ्चधा विभजेत्। तत्र सर्व्वस्य क्षेत्रफलस्य विभागे प्रयोजनाभावान्मध्यसूत्रस्यैव विभागः कार्य्य इति सुधीरित्यनेनोक्तम्। तत्रायं पञ्चमः अंशःचतुरङ्गुलानि सार्द्धषड्यवाः किञ्चिदूनाः॥५३॥
 
-
-
 **न्यसेत् पुरस्तादेकांशं कोणार्द्धार्द्धप्रमाणतः।  
 भ्रमयेत् कोणमानेन तथाऽन्यदपि मन्त्रवित्।  
 सूत्रयुग्मं ततो दद्यात् कुण्डं योनिनिभं भवेत्॥५४॥**
@@ -9074,8 +8641,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **एवं कृते स्थिरं कुण्डं भवेदश्वत्थपत्रवत्॥ इति।**
 
-
-
 सिद्धान्तशेखरेऽपि —
 
 **योन्याख्यमुच्यते कुण्डमाग्नेय्यामुत्तरामुखम्।  
@@ -9099,8 +8664,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 इति भास्कराचार्य्योक्तप्रकारेण वृत्तक्षेत्रफलानयने श्रीधराचार्य्योक्तिः “त्रिंशत्यां स्थूला” इत्युपेक्षिता। तत्रैकाङ्गुलस्य चतुस्त्रिंशांशेनोनानि सप्तदशाङ्गुलानि व्यासः। तदुपपत्तिरेवं “तत्कृत्योर्योगपदम्” इत्यनेन कर्णप्रमाणमानीय तदर्द्धं व्यासो भवति। इदञ्चाग्रे द्विहस्तकुण्डकरणीकथनप्रस्तावे स्फुटीकरिष्यते। तत्र व्यासस्य न्यासो यथा १६(३३/३४) सवर्णितः ५७७/३४ अस्य यथोक्तकरणेन ज्ञातं क्षेत्रफलं २२६ एको यवश्चतस्त्रो यूकास्तिस्रो लिख्याः। न्यासांशसवर्णनादिप्रकारस्तु ग्रन्थगौरवभयान्नोक्तः। स तु पाटीगणिते लीलावत्यादौ द्रष्टव्यः। ततोऽधस्त्र्यस्रस्य फलम्।
 
  “लम्बगुणं भूम्यर्द्धंस्पष्टं त्रिभुजे फलं भवति” इति भास्कराचार्य्योक्तमार्गेण। तत्र भूः २४ अङ्गुलानि लम्बः १२ अङ्गुलानि। ततो भूम्यर्द्धं १२ लम्बः १२ गुणं १४४। इदं मध्यत्र्यस्रस्य फलम्। तत ऊर्द्ध्वत्र्यस्रस्य फलम् तस्य भूः २४ अङ्गुलानि ग्रन्थकृदुक्तप्रकारेण लम्बः तत्र मध्यसूत्रार्द्धं१२ अङ्गुलानि। ततो वर्द्धितपञ्चमोंऽशः २४/५ उभयोः समच्छेदार्थं न्यासः १२/१२४/५समच्छेदौ ६०/५ ८४/५योगः। ततो यथोक्तकरणेन जातं क्षेत्रफलं २०१ किञ्चिन्न्युनपञ्चयवाधिकम्। तेन क्षेत्रफलमध्ये सयवद्वयचतुरङ्गुलानि न्यूनानि भवन्ति। उदाहृत कादिमतादिलक्षणेष्वपि इदमेव फलं ज्ञेयम्। तत्र कश्चित् कामिकवचनं ४६९ एतावत् फलमानीय दूषितवानिति
-
-
 
 महाभ्रान्त एव। एवं सर्व्वेषामेकवाक्यत्वे सत्यपि च “मानहीने दरिद्रता” इत्यादि “न्यूनाधिकप्रमाणं यद् यजमानविनाशकृत्” इत्यादि दोषापत्तेरिति क्षेत्रफलसाम्यमत्रावश्यमपेक्षितम्। यतो भास्कराचार्य्यश्रीधराचार्य्यप्रोक्तगणितमार्गेण क्षेत्रफलानयनद्वारैवावश्यं कुण्डानि वक्तव्यानि। यत् क्रियासारे—
 
@@ -9135,8 +8698,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 इति प्रकाराद्वृत्तपरिधिः सूक्ष्मः१६०। ३०। स्थूलस्तु ५४ अङ्गुलानि कर्णसूत्र-
 
-
-
 **चतुरस्रीकृतं क्षेत्रं दशधा विभजेत् पुनः।  
 एकमेकं त्यजेदंशमध ऊर्द्धञ्च तन्त्रवित्॥५५॥**
 
@@ -9154,8 +8715,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 चतुरस्त्रश्रोण्योरपि पश्चिमतिर्य्यक्सूत्रमुभयतः तानष्टत्रिंशदंशान् अर्द्धार्द्धतया वर्द्धयेत्। एकोनविंशतिर्दक्षिणतः एकोनविंशतिरुत्तरत इति यत् तत् स्वकपोलकल्पितम्। क्रियासार-कादिमत-कामिक-सिद्धान्तशेखरादिविरोधात्। क्षेत्रफलमध्ये च किञ्चिदधिकं क्षेत्रफलमिति \[चतुर्दशाङ्गुलानि न्यूनानीति\] ज्ञात्वा महद्भिः सन्तोष्टव्यम्। अत्र भ्रमयेदिति लेखकदोषवशात् अपपाठः। मित्वात् “मितांह्रस्वः” इति ह्रस्वत्वात् भ्रमयेदित्येव पाठः॥५४॥
 
   चतुरस्रप्रकृतितया अर्द्धचन्द्रकुण्डमाह चतुरस्त्रीकृतमिति।क्षेत्रशब्देन पूर्व्ववन्मध्यसूत्रं गृह्यते। तद् दशधा विभजेत्। तत एकं भागमध उत्तरतः एक-
-
-
 
 **ज्यासूत्रं पातयेदग्रे तन्मानाद् भ्रमयेत्ततः।  
 अर्द्धचन्द्रनिभं कुण्डं रमणीयमिदं भवेत्॥५६॥**
@@ -9176,8 +8735,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 एतन्मानार्द्धभ्रमेण दलेन्द्वग्रेगुणाङ्कनात्॥**
 
 तदायं व्यासः१९ अङ्गुलानि १ यवः १ यूका ४ लिख्याः ५ बालाग्राणि ३ रेणवः १ त्रसरेणुः ४ परमाणवः। तदा २ अङ्गुले ३ यवाः ३ यूकाः१ लिख्या ५ बालाग्राणि २ रेणू ३ त्रसरेणवः २ परमाणू इममंशमूर्द्धतस्त्यजेत्। एतादृशमेवांशमधस्त्यजेत्। तत्र क्षेत्रफलानयनाय व्यासस्य न्यासः १९^(३)/_(२०)। तेन एकोनविंशत्यङ्गुलानि एकाङ्गुलस्य विंशतिधा भक्तस्य त्रयो भागाः सवर्णितो यथा ^(३८३)/_(२०) तत्र वृत्तफलानयनार्थमयं द्विगुणीकृतः। तत्र छेदस्यैवार्द्धीकरणेन उपरि ततो द्विगुणो भवत्येव तेनायं ^(३८३)/_(२०) सम्पूर्णवृत्तव्यासः। ततो “व्यासस्य वर्गे भनवाग्नि” इत्यादिना आनीतं क्षेत्रफलं सर्व्वबृत्तस्य १९५२ एतदर्द्धीकृतम् अर्द्धचन्द्रस्य क्षेत्रफलं ५७६ सूक्ष्मं ज्ञेयम्। अथवा द्विहस्तकुण्डे एतद्व्यासवर्गं द्विगुणीकृत्य तन्मूलमानेयम्। तत्र एव व्यासः। स एवमग्रेऽप्यूह्यम्। यत् कस्यचिदतिगणितज्ञाभिमानिनो लक्षणम्।
-
-
 
 **चतुरस्त्रीकृतं क्षेत्रं चतुर्विंशतिधा भजेत्।  
 एकोनविंशत्या विंशद्वादशांशाढ्यया लवेः॥**
@@ -9200,8 +8757,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 भ्रमार्द्धंतन्मानादपि शशिदलं कुण्डमिति तु॥ इति।**
 
 अत्र एकोनविंशत्यङ्गुलानि सार्द्धयवानि व्यासः। तत्र सूक्ष्मगणनायां पञ्चाङ्गुलानि न्यूनानि। तत्कृतस्थूलगणनाप्रकारेणापि सार्द्धमङ्गुलं न्यूनं भवति। यत्तु
-
-
 
 **चतुर्द्धा भेदिते क्षेत्रे न्यसेदुभयपार्श्वयोः।  
 एकैकमंशं तन्मानादग्रतो लाञ्छयेत्ततः।  
@@ -9229,8 +8784,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   अत्र क्षेत्रोपपत्तिः। भूः ३६ लम्बः ३० ततो “लम्बगुणं भूम्यर्द्धम्” इत्यादिना जातं क्षेत्रफलं ५४०। षट्त्रिंशदङ्गुलानि न्यूनानि खर्व्वञ्च त्र्यस्रम्। यतः षट्त्रिंशद्भूः भुजौ तु “तत्कृत्योर्योगपदं कर्ण” इति प्रकारेणानीतौ पञ्चत्रिंशदात्मकौ। त्र्यस्रकुण्डे तु भुजत्रयसाम्यञ्चापेक्षितम्। तदर्थं केचन अन्यथा व्याचक्षते। चतुर्द्धा क्षेत्रे भेदिते एकैकमंशं पार्श्वयोर्वर्द्धयेत्। तन्मानेन वर्द्धितानन्तरं यत् षढ्त्रिंशन्मानं तन्मानेनाग्रतो लाञ्छयेत्। तत्र लाञ्छनप्रकारः। वर्द्धितपार्श्वयोः षट्त्रिंशदङ्गुलमितसूत्रस्यादिं निधाय प्राचीसूत्राग्रे लाञ्छयेदिति। ततः पूर्व्ववत् सूत्रत्रयं दद्यादिति। एवं च सति भुजत्रयसाम्यं भवति। उभयपार्श्वे मिलित्वा यवचतुष्टयप्रक्षेपादेक-
 
-
-
 हस्तक्षेत्रफलसाम्यं भवतीति बुध इत्यनेन सूचितमिति ते वदन्ति। मया तु समत्रिभुजता अन्यूनानतिरिक्तक्षेत्रफलता च यथा भवति तथा सर्व्वानुगतप्रकार उच्यते।
 
 **चतुर्विंशतिधा भक्ते सूत्रेऽथोभयपार्श्वयोः।  
@@ -9255,8 +8808,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 इदं लक्षणद्वयं षण्णवतिपरिधिरेखाभिप्रायेण। अग्रे लिखितकादिमतेऽपि समभुजतोक्ता। मयाऽत्र लम्बस्तु गणितापटून् प्रत्युक्तः। गणितज्ञैस्तु
 
 **स्वाबाधाभुजकृत्योरन्तरमूलं प्रजायते लम्बः।**
-
-
 
 इति लम्बमानीय क्षेत्रफलं सम्पाद्य सन्तोष्टव्यम्। अथवा लम्बं विनैव
 
@@ -9308,8 +8859,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **तस्यैव षष्ठमंशन्तु पार्श्वयोः प्रविकाशयेत्।  
 प्रत्येकं पश्चिमं सूत्रं तम्मानेनाथ सूत्रयोः॥**
 
-
-
 **अष्टादशांशे क्षेत्रे च न्यसेदेकं बहिर्बुधः।  
 भ्रमयेत्तेन मानेन वृत्तं कुण्डमनुत्तमम्॥५८॥**
 
@@ -9355,8 +8904,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 अत्र त्रिंशदङ्गुलानि व्यासः तेन महत्तममन्तरम्। अतःसिद्धान्तशेखरवचनं कैश्चिदन्यथा व्याख्यायते। क्षेत्रस्याष्टमं भागं बाह्य दिक्षु विन्यसेदर्द्धार्द्धतयेति शेषः। तेनोभयपार्श्वे मिलित्वा अष्टमो भागो भवति। तदा व्यासः२७ क्षेत्रफलं चतुरङ्गुलं न्यूनम्। सूक्ष्मगणनयेति ज्ञातव्यम्। स्थूलगणनायामङ्गीक्रियमाणायां लिखितकात्यायनवचनेन महदन्तरमेव स्यादित्यलम्॥५८॥
 
-
-
 **अष्टधा विभजेत् क्षेत्रं मध्यसूत्रस्य पार्श्वयोः।  
 भागं न्यसेदेकमेकं भागेनाऽनेन मध्यतः॥५९॥**
 
@@ -9382,8 +8929,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **गर्भमध्यप्रमाणेन सूत्रेण स्रमयन्त्रकम्।  
 गर्भमध्ये बहिर्भागे विन्यस्यस्रमणाद्भवेत्॥**
-
-
 
 **उत्तरेदक्षिणे बाह्ये मत्स्ययोर्द्वितयं ततः।  
 मीने बाह्यांशके मीने मीनयुग्मे ततः क्रमात्।  
@@ -9417,8 +8962,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **मघवशिखिकृतान्तदिक्स्थकुण्डेष्वियमधिमेखलमेव मध्यभागे।  
 यमदिशि शशिदिङ्मुखीनिवेश्या वरुणदिशीतरकुण्ड ऐन्द्रवक्त्रा॥ इति।**
 
-
-
 तेन स्वग्रन्थे पूर्व्वापरविरोधोऽपि नोपलक्षित इति यत् किञ्चिदेतत्। तथा च। प्राचीमध्यसूत्रमङ्गुलत्रयं वर्द्धयेत्। ततो वर्द्धितचिह्नात् दक्षिणोत्तरतः चतुरङ्गुलमानेन चतुरस्रपूर्व्वपरिधिरेखाङ्काभ्यां मत्स्यद्वयं कुर्य्यात्। एवं पश्चिमदिश्यपि दक्षिणोदग्गतसूत्रम् अङ्गुलत्रयम् अङ्गुलस्य षष्ठांशसहितं वर्द्धयेत्। एवमपि क्षेत्रफलमन्यूनमेव। इतोऽपि बहवः प्रकाराः सम्भाव्यन्ते। क्षेत्रफलसाम्यापादनाय नतु षड्भुजसाम्यापादनाय। एवं कुण्डस्याननुगतता प्रसज्यते। तेन षड़स्रकुण्डे षण्णामपि भुजानां साम्यं क्षेत्रफलसाम्यम् अवश्यमपेक्षितम्। यतोऽत्र क्रियासारे कादिमते कामिके सिद्धान्तशेखरेऽपि षड्भुजसमताया उक्तत्वात्। तत्र सर्व्वानुगत प्रकारस्तूच्यते—
 
 **षड़स्रे मध्यसूत्रन्तु चतुर्विंशतिधा भजेत्।  
@@ -9440,8 +8983,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **तन्मध्यद्वादशांशेन विकाश्य ब्रह्मसूत्रकम्।  
 तेन मानेन च तथा कृत्वा वृत्तमपि स्फुटम् ॥**
-
-
 
 **चतुरस्रीकृतं क्षेत्रं विभज्याऽष्टादशांशतः।  
 एकं भागं बहिर्न्यस्य भ्रामयेत्तेन वर्त्तुलम्॥६१॥**
@@ -9526,8 +9067,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 स्वव्यासार्द्धमितोच्चतामिह खनेत् त्यक्त्वान्तरा कर्णिकां  
 कुर्व्वन् केशरचिह्नमष्टदलकं यद्वाचतुर्भिर्दलैः॥ इति।**
 
-
-
 **पूर्वोक्तं विभजेत् क्षेत्रं चतुर्विंशतिभागतः।  
 एकं भागं बहिर्न्यस्य चतुरस्रं प्रकल्पयेत्॥६३॥**
 
@@ -9580,8 +9119,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   चतुरस्त्रप्रकृतितया अष्टास्त्रं कुण्डमाह पूर्व्वोक्तमिति। पूर्व्वोक्तं क्षेत्रं पूर्व्वोक्त-
 
-
-
 **अन्तस्थचतुरस्रस्य कोणार्द्धार्द्धप्रमाणतः।  
 बाह्यस्य चतुरस्रस्य कोणाभ्यां परिलाञ्छयेत्॥६४॥**
 
@@ -9606,8 +9143,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 दिक्ष्वष्टसूत्रसम्पाता दष्टास्रंसमबाहुकम्॥**
 
 अत्र षड्विंशत्यङ्गुलानि यवत्रयम् एतद्विस्तारायामं बाह्यचतुरस्रम् तत्तु सप्ताङ्गुलानि पञ्चयवाः षड्यूकाः। एतम्मानेन कोणपार्श्वयोर्लाञ्छितम्। तेनात्र मध्यायतचतुरस्रस्यैको भुजः २६^(३)/८ सवर्णितः ^(२११)/_(८)। अपरो भुजः २३^(७)/_(१६)सवर्णितः ^(३७५)/_(१६) पूर्व्ववल्लब्धं क्षेत्रफलं २८८। तत ऊर्द्ध्वाधो विषमचतुरस्रद्वयस्य सवर्णिता भूः ^(२११)/^(८)। सवर्णितं मुखं ^(१७५)/_(१६)। लम्बः ७^(४६)/_(६४)सवर्णितः^(४९४)/_(६४) अत्रैकस्य फलं १४४। एतावदपरस्यापि। मिलित्वा क्षेत्रफलं ५७६। एवमत्राष्टानां भुजानां साम्यप्तपीति। इदमेवाष्टास्त्रं कुण्डमिति मन्तव्यम्। चतुर्णां भुजानां साम्यं प्रत्यक्षतः सिद्धम्। अन्येषान्तु चतुर्णां“तत्कृत्योर्योगपदं कर्ण" इत्यनेन प्रकारेणानेयम्। तच्छब्देन कोटिभुजौ बहिश्चतुरस्रगौ तत्कर्णोपरिस्थितौ तावत्रैतौ ^(४९४)/_(६४)। अथवा सुगम प्रकारान्तरमुच्यते।
-
-
 
 **कुण्डेऽष्टास्रे मध्यसूत्रं चतुर्विंशतिधा भजेत्।  
 एकत्रिदशमांशाद्यं ह्यंशवृद्ध्यातु वर्त्तुलम्।  
@@ -9650,8 +9185,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 तत्राष्ठसूत्रसम्पातादष्टास्रं कुण्डमुच्यते। इति।**
 
 अत्र महान् व्यभिचारः। अत्र चतुर्वर्गचिन्तामणिकारः कर्णशब्दस्य कर्णार्द्धमर्थमुक्त्वाकोणयोरानुकूल्य- प्रातिकूल्येनाष्टौ लाञ्छनानीति व्याख्याति स्म। तदयुक्तम्। तत्प्रतिपादकवचनाभावात् अतिविषमभुजत्वात् क्षेत्रफलव्यभिचाराच्च।
-
-
 
 अत्र सर्व्वत्र क्षेत्रोत्पत्तिवासनाः ग्रन्थगौरवभयान्न प्रपञ्चिताः। तास्तु मत्कृतायां लीलावतीगणितटीकायां सुबोधिन्यां द्रष्टव्याः।
 
@@ -9720,8 +9253,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **एकं वा शिवकाष्ठायां प्रतीच्यां कारयेद्बुधः। इति।**
 
-
-
 तत्रैककुण्डपक्षे चतुरस्रं वृत्तं वा तत् कार्य्यम्। तदुक्तं क्रियासारे —
 
 **चतुरस्रंभवेत् कुण्डं वृत्तं कुण्डमथापि वा।  
@@ -9761,8 +9292,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 एतेन ५३ अङ्गुलानि ५ यवाः २ यूके ४ लिख्याः इयतीपञ्चहस्तकरणी।
 
 **चतुरेकोनविंशोना ऊनषष्टिस्तदुत्तरे।**
-
-
 
 **यावान् कुण्डस्य विस्तारः खननं तावदीरितम्॥६६॥**
 
@@ -9829,8 +9358,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **कुण्डं जिनाङ्गुलैस्तिर्य्यगूर्द्ध्वं मेखलया सह। इति।**
 
-
-
 सिद्धान्तशेखरेऽपि—**खातं कुण्डप्रमाणं स्यादूर्द्धंमेखलया सह। इति।**
 
 एतत्पक्षद्वयमध्ये प्रथमपक्ष एव युक्तियुक्तो भाति। यतः—
@@ -9851,8 +9378,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **पञ्चत्रिमेखलोच्छ्रायं ज्ञात्वा शेषमधः खनेत्। इति।**
 
 विशेषवाक्यद्वयैकवाक्यतया “ऊर्द्ध्वं मेखलया सह” इत्यन्यानि सामान्यवचनानि व्याख्येयान्यवश्यम्। “आग्नेयं चतुर्द्धा करोति” इति विशेषविधिविषये। “पुरोडाशं चतुर्द्धा करोति” इति सामान्यविधिवत्। “सामान्यविधिरस्पष्टः संह्रियेत विशेषतः” इति वार्त्तिककृदुक्तेः। तेनानिच्छतापि त्वया एकमेखलकुण्डे मेखलया विना खातोऽङ्गीकर्त्तव्यः। मेखलया सह विधायकाभावात्। अतो मेखलया विनैव खात इति सिद्धान्तः। मेखलया सह खातवचनानि चतुररत्न्येकहस्तादिकुण्डेषु। पञ्चाशदादिहोमविधाने खाताधिक्यस्य प्रयोजनाभावात्
-
-
 
 **कुण्डानां यादृशं रूपं मेखलानाञ्च तादृशम्॥६७॥**
 
@@ -9897,8 +9422,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 तत्र सर्व्वकुण्डप्रकृतिभूतैकहस्तकुण्डमुपक्रम्य वेदाग्निनयनाङ्गुलाः इत्युक्तत्वात्सर्व्वत्र करणीषष्ठाष्टद्वादशांशैः क्रमान्मेखलाः स्युरिति गम्यते। “प्रकृतिवद्विकृतिः कार्य्या” इति भाट्टन्यायात्। तदुक्तं सोमशम्भुना —
 
-
-
 **अरत्निमात्रे कुण्डे स्युस्तास्त्रिद्व्येकाङ्गुलात्मिकाः।  
 एकहस्तमिते कुण्डे वेदाग्निनयनाङ्गुलाः॥६९॥**
 
@@ -9936,8 +9459,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **प्रधानमेखलोत्सेधमुक्तमत्र नवाङ्गुलम्।  
 तद्बाह्यमेखलोत्सेधं पञ्चाङ्गुलमिति स्मृतम्॥**
 
-
-
 **तद्बाह्यमेखलोत्सेधमङ्गुलद्वितयं क्रमात्।  
 चतुस्त्रिद्व्यङ्गुलो व्यासो मेखलात्रितयान्वितः॥ इति।**
 
@@ -9972,8 +9493,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **तस्याश्चोपरि वप्रः स्याच्चतुरङ्गुलमुन्नतः।  
 अष्टाभिरङ्गुलैः सम्यक् विस्तीर्णस्तु समन्ततः॥**
-
-
 
 **मेखलानां भवेदन्तः परितो नेमिरङ्गुलात्।  
 एकहस्तस्य कुण्डस्य वर्द्धयेत् तत् क्रमात् सुधीः।  
@@ -10032,8 +9551,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **चतुर्विंशतिभागेन कण्ठो वै परिकीर्त्तितः। इति।**
 
-
-
 **कुण्डे द्विहस्ते ता ज्ञेया रसवेदगुणागुलाः।  
 चतुर्हस्तेषु कुण्डेषु वसुतर्कयुगागुलाः॥७१॥**
 
@@ -10073,8 +9590,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **एकहस्तमितं कुण्डमेकलक्षे विधीयते।  
 लक्षाणां दशकं यावत्तावद्धस्तेन वर्द्धयेत्॥**
-
-
 
 **कुण्डे रसकरे ताः स्युर्दशाष्टर्त्वङ्गुलान्विताः।  
 वसुहस्तमिते कुण्डे भानुपङ्क्त्यष्टकाङ्गुलाः॥७२॥**
@@ -10121,8 +9636,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 पूर्व्वानना तु शेषाणां ऐशान्येऽन्यतरा तयोः॥ इति।**
 
 अत्रैशान्य इति एकदेशेन नवमं कुण्डं गृहीतम्। एतेन पूर्व्वग्नेयदक्षिणकुण्डानि नवमञ्च कुण्डमुत्तराग्रम् अन्यानि पञ्चकुण्डानि प्रागग्राणीति॥७४॥
-
-
 
 **मुष्ट्यरत्न्येकहस्तानां कुण्डानां योनिरीरिता।  
 षट्चतुर्द्व्यङ्गुलायामविस्तारोन्नतिशालिनी॥७५॥**
@@ -10181,8 +9694,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **द्वादशस्वररूपत्वाद् योनिः स्याद् द्वादशाङ्गुला।  
 उत्सेधायामतस्तुल्या। इति।**
 
-
-
 **एकाङ्गुलन्तु योन्यग्रं कुर्य्यादीषदधोमुखम्।  
 एकैकाङ्गुलतो योनिं कुण्डेष्वन्येषु वर्द्धयेत्।  
 यवद्वयक्रमेणैव योन्यग्रमपि वर्द्धयेत्॥७६॥**
@@ -10233,8 +9744,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 इति तु गणितापटून् प्रति स्थलमानेनोक्तम्। नतु सम्यग्गणनाभिप्रायमिति॥७६॥
 
-
-
 **स्थलादारभ्य नालं स्याद् योन्या मध्ये सरन्ध्रकम्।  
 नार्पयेत् कुण्डकोणेषु योनिं तां तन्त्रवित्तमः॥७७॥**
 
@@ -10266,8 +9775,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   नाभिमाह कुण्डानामिति। कुण्डानामन्तर्नाभिं कल्पयेत्। कुण्डाकारं पद्माकारं वा नाभिं कृत्वा खातमध्ये स्थापयेदित्यर्थः। “आतपे क्षत्रिये नाभिः प्राण्यङ्गेऽपि द्वयोः” इति नाभिशव्दपुंलिङ्गोऽप्यस्ति। उत्सेधतारतः उच्चत्वविस्ताराभ्याम्। अत्रापि प्राग्वदेकहस्तस्य सर्व्वकुण्डप्रकृतिभूतत्वात् कुण्डविस्तारषष्ठांशेन विस्तृता तदर्द्धोच्चाइत्युक्तं भवति। अम्बुजसादृश्यमेवाह नाभिरिति। कुर्व्वीतेति अंशेनेति शेषः। उक्तञ्च नारायणीये —
 
 **पार्श्वे यागभुवः खाते कुण्डे सन्नाभिमेखला। इति॥७८-८१॥**
-
-
 
 **मुष्टिमात्रमितं कुण्डंशतार्द्धेसंप्रचक्षते।  
 शतहोमेऽरत्निमात्रं हस्तमात्रं सहस्रके॥८२॥**
@@ -10310,8 +9817,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 दशहस्तान्न हि कुण्डं परमस्ति महीतलेऽमुष्मिन्॥ इति॥८४॥**
 
   अथ कुण्डानां फलविशेषानाह सर्व्वेति। छेदः उच्छेदः उच्चाटनमिति यावत्। अयञ्च फलविशेषः पूर्व्वोक्ततत्तद्दिशि कुण्डकरण एव ज्ञेयः। तदुक्तम्
-
-
 
 **शत्रुक्षयकरं त्र्यस्रं वर्त्तुलं शान्तिकर्म्मणि।  
 छेदमारणयोः कुण्डं षड़स्रं पद्मसन्निभम्॥८६॥**
@@ -10359,8 +9864,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 वक्ष्येकुण्डमथाष्टास्रमीशाने सर्व्वकामदम्॥ इति।**
 
 अत्र दीक्षाङ्गतया क्रियमाण्याऽष्टकुण्ड्या संयोगपृथक्तन्यायेन तत्तत्कुण्डोक्तफलसिद्धिरपि ज्ञेया।
-
-
 
 क्रियासारेऽपि —
 
@@ -10423,8 +9926,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **अधिके चासुरो भोगो मानेनाधिकमेखले।  
 व्याधयः संप्रवर्द्धन्ते विभागे स्यादपस्मृतिः॥**
 
-
-
 **नित्यं नैमित्तिकं काम्यं स्थण्डिले वा समाचरेत्।  
 हस्तमात्रेण तत् कुर्य्यात् वालुकाभिः सुशोभनम्॥९०॥**
 
@@ -10473,8 +9974,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **नवकोष्ठं समालिख्याऽथेशनिर्ऋतयोः क्रमात्।  
 वारीन्द्रैन्द्रे वायुवह्न्योर्दक्षिणोत्तरयोर्न्यसेत्॥**
 
-
-
 **प्रकल्पयेत् स्रुचं यागे वक्ष्यमाणेन वर्त्मना।  
 श्रीपर्णी शिंशपाक्षीरशाखिष्वेकतमं \[मयं\] गुरुः॥९२॥**
 
@@ -10518,8 +10017,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **सुषिरं कण्ठदेशे स्याद्विशेद् यावत् कनीयसा। इति॥९५॥**
 
-
-
 **वेदिमध्ये विधातव्या भागेनैकेन कर्णिका।  
 विदधीत बहिस्तस्या एकांशेनाऽभितोऽवटम्॥९६॥**
 
@@ -10547,8 +10044,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **मूले चाग्रे च दण्डस्य गण्डी कङ्कणवद्भवेत्। इति।**
 
 एतेनैकादशांशा जाताः। मध्ये नवांशमितो धारणार्थं दण्डोऽवशिष्यते।
-
-
 
 **स्रुचश्चतुर्विंशतिभिर्भागैरारचयेत् स्रुवम्।  
 द्वाविंशत्या दण्डमानमंशैरेतस्य कीर्त्तितम्॥१००॥**
@@ -10588,8 +10083,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **स्रुक्स्रुवौ तैजसौग्राह्यौ न कांस्यायससीसकौ।  
 यज्ञदारुमयौ वापि तान्त्रिकैः\[स्मार्त्तौवा\] शिल्पिसम्मतौ॥**
 
-
-
 **चतुरस्रे चतुःकोष्ठे कर्णसूत्रसमन्विते।  
 चतुर्ष्वपि च कोष्ठेषु कोणसूत्रचतुष्टयम्॥१०३॥**
 
@@ -10626,8 +10119,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   तेनैव विधिना इत्यस्यायमर्थः। कोणकोष्ठचतुष्के पूर्व्ववत् कर्णसूत्रचतुष्टयं दत्त्वा तदुत्पन्नमत्स्यचतुष्के हे प्रागग्रे द्वे उदगग्रे सूत्रे दद्यात्। तत एतत्सूत्र-
 
-
-
 **षट्त्रिंशता पदैर्मध्ये लिखेत् पद्मं स\[सु\]लक्षणम्।  
 बहिः पङ्क्तया भवेत् पीठं पङ्क्तियुग्मेन वीथिका॥१०८॥**
 
@@ -10653,8 +10144,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  बाह्येति। बाह्यं यत् पत्रवृत्तं तस्य यदन्तरालं तस्य मानेन सुधीः केशराग्रेषु केशरवृत्ताग्रे निधाय सूत्रादिमिति शेषः। विधिना परित उभयतः पद्ममध्य-
 
-
-
 **लिखित्वा सन्धिसंस्थानि तव सूत्राणि पातयेत्।  
 दलाग्राणाञ्च यन्मानं तन्मानं वृत्तमालिखेत्॥११३॥**
 
@@ -10678,8 +10167,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   चतुर्थं वृत्तमाह दलेति। दलाग्राणां यन्मानं बहिः त्यक्त्वाद्वादशांशरूपं तन्मानं चतुर्थं वृत्तं कुर्य्यात्। दलाग्रकरणप्रकारहमाह तदिति। तदन्तराले कृतदलाग्रवृत्तान्तराले तन्मध्यसूत्रस्य पत्रमध्यसूत्रस्योभयतः बाह्यहस्तेन समन्ततो दिक्षु विदिक्ष्वपि दलाग्राणि सुधीरालिखेदिति सम्बन्धः। तत्र प्रकारः। चतुर्थंवृतान्तराले पत्रमध्यसूत्रस्योभयतः सन्धिसूत्रस्याग्रे सूत्रादिं निधाय मध्यवृत्ततः दलाग्रवृत्त पत्रमध्यसूत्रसम्पातपर्य्यन्तं सूत्रद्वयं दद्यात्। तत्र सूत्रप्रान्त एकः पत्रस्पर्शी द्वितीयो दलाग्रमध्यसूत्रसम्पातस्पर्शी। सूत्रद्वयाग्रभागश्च परस्पराभिमुखो यथा स्यादित्येतदर्थं बाह्यहस्तेनेत्युक्तम्। ततः कर्णिकावृत्तं त्यक्त्वा बाह्यस्थत्रीणि वृत्तानि पद्मपत्रमध्य रेखाश्च सर्व्वं सम्यक् मार्जयेत् यथाऽष्टदलं पद्मं दृष्टिमनोहरं दृश्यते॥११४॥
 
-
-
 **दलमूलेषु युगशः केशराणि प्रकल्पयेत्।  
 एतत् साधारणं प्रोक्तं पङ्कजं तन्त्रवेदिभिः॥११५॥**
 
@@ -10702,8 +10189,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   द्वाराण्याह दिक्ष्विति। द्वाराद्यर्थं परितः स्थापितपङ्क्तिद्वयमध्ये चतुर्दिक्षु द्वारचतुष्टयार्थम् आन्तरपङ्क्तिस्थं मध्यसूत्रोभयपार्श्ववर्त्ति कोष्ठद्वयं तथा बाह्यपङ्क्तिस्थं मध्यसूत्रपार्श्ववर्त्ति कोष्ठचतुष्टयं द्वारार्थं मार्जयेत्। एवं चत्वारि द्वाराणि स्युः॥११६॥११७॥
 
   शोभा आह पदैरिति। अन्तः पङ्क्तिस्थानि द्वारपार्श्वद्वयगतानि त्रीणि त्रीणि कोष्ठानि बाह्यपङ्क्तिस्थं द्वारपार्श्वद्वयगमेकैकं कोष्ठं मार्जयेत्। एवमष्टौ शोभाः स्युः। उपशोभा इति। अन्तः पङ्क्तिस्थम् उभयतः शोभालग्नमेकैकं कोष्ठं त्रीणि त्रीणिबाह्यपङ्क्तिकोष्ठानि मार्जयेत्। एवमष्टावुपशोभाः स्युः। अवशिष्टैरिति। उभयत उपशोभालग्नान्यन्तःपङ्क्तिस्थानि त्रीणि कोष्ठानि बाह्यपङ्क्तिस्थानि च त्रीणि कोष्ठानि मार्जयेत्। एवं चत्वारः कोणाः स्युः॥११८॥
-
-
 
 **रञ्जयेत् पञ्चभिर्वर्णैर्मण्डलं तन्मनोहरम्।  
 पीतं हरिद्राचूर्णं स्यात् सितं तण्डुलसम्भवम्॥११९॥**
@@ -10748,8 +10233,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 तस्माद्धोमेऽभिषेके च यागे चैव विशेषतः।  
 वर्त्तयेन्मण्डलं तैस्तु देवसन्तुष्टिकारकम्॥ इति।**
 
-
-
 **रञ्जयेत् पीठगर्भाणि पादाः स्युररुणप्रभाः।  
 गात्राणि तस्य शुक्लानि वीथीषु च चतसृषु॥१२४॥**
 
@@ -10784,8 +10267,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   मण्डलान्तरमाह चतुरस्रामिति। अत्र मत्स्योत्पादनप्रकारासम्भवात्दिग्भ्यो द्वादशधेत्युक्तिः। तत्र चतुर्दिक्षु द्वादशधा भूमिं विभज्य तत्र सूत्राणि पातयेदिति। तत्र प्रकारः। पूर्व्ववत् षोड़शकोष्ठानि कृत्वा तेष्वेकं कोष्ठं समांशेन
 
-
-
 **चतुश्चत्वारिंशदाढ्यं पश्चात् षट्त्रिंशताऽम्बुजम्।  
 कोष्ठैः प्रकल्पयेत् पीठं पङ्क्त्यां नैवात्र वीथिकाः॥१२९॥**
 
@@ -10807,8 +10288,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 त्रिधा विभज्य तच्चिह्नद्वये प्रागग्रं सूत्रद्वयंदद्यात्। एतत्सूत्रद्वयसम्पातोत्पन्नप्रतिकोष्ठमत्स्यद्वन्द्वेषु द्वे द्वे उदगग्रे सूत्रे एवमुदगग्रामष्टसूत्रींपातयेत्। ततस्तत्सूत्रसम्पातोत्पन्न कोष्ठमत्स्यद्वन्द्वेषु प्रागग्रे द्वे द्वे एवं प्रागग्रां षट्सूत्रींदद्यात्। एवमेकशतचतुश्चत्वारिंशत् कोष्ठानि जायन्ते। कोष्ठैरिति पूर्व्वत्रान्वेति। अम्बुजमुक्तप्रकारेणैव। पङ्क्त्यां पीठं पूर्व्ववदेव। अवशिष्टैरिति। तत्रैकं पदमन्तःपङ्क्तिस्थं पञ्चकोष्ठानि बाह्यपङ्क्तिस्थानि। एवं षड्भिरित्यर्थः। शेषमिति रञ्जनबाह्यरेखात्रयकरणादि॥१२८- १३०॥
 
   नवनाभमण्डलमाह चतुरस्र इति। तत्र पूर्व्ववत् चतुःषष्टिकोष्ठानि कृत्वा तत्र मध्यचतुष्के पूर्व्ववत् पद्मम्। ततश्चतुर्दिक्षु अष्टाष्टकोष्ठिकाश्चतस्रो वीथीःकुर्य्यात्। एवमष्टदिक्षु चतुःकोष्ठाष्टकमवशिष्यते। तद्भित्वा षोड़शधेति पूर्व्ववदेव मार्जयेदिति। मार्जनप्रकारस्तु षोड़शधेति कोष्ठेषु मध्यचतुष्कस्यैकैकं कोष्ठं परस्परविरुद्धैकैकदिशि सम्मार्ज्य तत्संलग्नबाह्यवीथ्याः कोणकोष्ठादिकोष्ठत्रयं तद्दिक्स्थमेव मार्जयेत्। एवमुपशोभाकारवच्चत्वारि चत्वारि कोष्ठानि मार्जितानि स्वस्तिकाकाराणि सम्पद्यन्ते। केचित्त्वन्यथा मार्जनमाहुः। मध्यचतुष्कस्य पूर्व्वदिग्गतकोष्ठद्वयं पूर्व्वदिशि सम्मार्ज्य तल्लग्नं बाह्यवीथीस्थं दक्षिणदिक्पर्य्यन्तं कोष्ठद्वयं मार्जयेत्। एवं दक्षिणदिग्गतकोष्ठद्वयं दक्षिणदिशि सम्मार्ज्य तल्लग्नं बाह्य-
-
-
 
 **रजोभिः पूरयेत्तानि स्वस्तिकानि शिवादितः।  
 प्राक् प्रोक्तेनैव मार्गेण शेषमन्यत् समापयेत्।  
@@ -10839,8 +10318,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 इति शारदातिलकटीकायां सत्सम्प्रदायकृतव्याख्यायां पदार्थादर्शाभिख्यायां  
 राघवभट्टकृतायां तृतीयः पटलः॥ॐ॥
-
-
 
 **चतुर्थः पटलः।**
 
@@ -10893,8 +10370,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 इत्यादिना दीक्षागृहीतमन्त्रफलस्योक्तत्वात् तां विना अविधिप्राप्तेभ्यस्तेभ्यः फलं न सिद्ध्यतीति अवश्यवक्तव्यदीक्षांवक्तुं प्रतिजानीते अथेति। अथ मण्डलकथनानन्तरं मन्त्राणां दीक्षां प्रवक्ष्यामि। हितकाम्यया पूर्व्वप्रकृतशिष्याणामिति शेषः। यद्वावैदिकजनानामिति शेषः। अयमेव साम्प्रदायिकः पाठः। एतेन
 
-
-
 सर्व्वसामान्यरूपा मन्त्रदीक्षोच्यते इत्युक्तम्। तदुक्तमीशानशिवेन—
 
 **सा तु मन्त्र-शिव-शक्ति-विष्णुभेदाच्चतुर्विधा।**
@@ -10934,8 +10409,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **गुरोरालोकमात्रेण स्पर्शात् सम्भाषणादपि।  
 सद्यः संज्ञा भवेज्जन्तोर्दीक्षा सा शाम्भवी मता॥**
 
-
-
 **दिव्यं ज्ञानं यतो दद्यात् कुर्य्यात् पापस्य संक्षयः।  
 तस्माद् दीक्षेति संप्रोक्ता देशिकैस्तन्त्रवेदिभिः॥२॥**
 
@@ -10970,8 +10443,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 तेन दीक्षेति सा ज्ञेया पाशच्छेदाह्वया क्रिया॥ इति।**
 
 अत्रदीक्षायामेव तन्त्रेण नित्यपूजाया अपि वक्ष्यमाणत्वात् देशिकैरित्यनेन सूचितम्।स्नानात् पूर्व्वंनित्यकृत्यं किञ्चिदुच्यते। ब्राह्मे मुहूर्त्ते उत्थाय स्मृत्युक्तविधानेन शौचादिकं देहशुद्धिञ्च विधाय रात्रिवासः परित्यज्य वासोऽन्तरं परिधाय मन्त्रस्नानं कृत्वा देवगृहमागत्य सम्मार्जनोपलेपनादिकं कृत्वा देवस्य निर्माल्यमपसार्य्य पूर्व्वदिनावशिष्टपत्रादिनाऽभ्यर्च्य च नमस्कुर्य्यात्। अन्यथा दोषदर्शनात्।
-
-
 
 यदाहुः —
 
@@ -11023,8 +10494,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 इत्यादिना महाकपिलपञ्चरात्रे।
 
-
-
 **चतुर्विधा सा सन्दिष्टा क्रियावत्यादिभेदतः।  
 क्रियावती वर्णमयी कलात्मा वेधमय्यपि॥३॥**
 
@@ -11074,8 +10543,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **गङ्गे च यमुने चैव गोदावरि सरस्वति।  
 नर्म्मदेसिन्धु कावेरि जलेऽस्मिन् सन्निधिं कुरु॥**
 
-
-
 **ताः क्रमेणैव कथ्यन्ते तन्त्रेऽस्मिन् सम्पदावहाः॥ ४॥**
 
 **![](../books_images/U-IMG-1727523616Screenshot2024-08-10134504.png)**
@@ -11120,8 +10587,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **हृन्मुद्रा\[न्मन्त्रा\]ङ्कुशमुद्राभ्यां तीर्थमाकृष्य मण्डलात्।  
 आवाह्याऽम्भसि संयोज्य सोमसूर्य्याग्निमण्डलम्॥**
-
-
 
 **सञ्चिन्त्य मन्त्री तन्मध्ये निमज्जेत् सुसमाहितः।  
 मूलमन्त्रं समावर्त्त्यमनसोल्लिख्य चाकृतिम्॥**
@@ -11170,8 +10635,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **दक्षाङ्गुष्ठे पराङ्गुष्ठं क्षिप्त्वाहस्तद्वयेन तु।  
 सावकाशात्मकंमुष्टिं कुर्य्यात् कुम्भस्य मुद्रिका॥**
 
-
-
 **वामाङ्गुष्ठन्तु संगृह्य दक्षिणेन तु मुष्टिना।  
 कृत्वोत्तानं तथा मुष्टिमङ्गुष्ठन्तु प्रसारयेत्॥**
 
@@ -11218,8 +10681,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 मन्त्रस्तु। “अग्निरिति भस्म वायुरिति भस्म जलमिति भस्म स्थलमिति भस्म व्योमेति
 
-
-
 भस्म सर्व्वंह वा इदं भस्म मन एतानि चक्षूंषि भस्मानि तस्माद्व्रतमेतत् पाशुपतं यद्भस्मनाङ्गानि संस्पृशेत्। तस्मात् ब्रह्म तदेतत् पाशुपतं पशुपाशविमोक्षाय”। यजुषा पञ्चाक्षरेणेत्यर्थः।
 
 प्रकारान्तरेण वा—
@@ -11255,8 +10716,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 उद्वासने कृते यस्माच्चण्डभस्म प्रजायते॥ इति।**
 
 ततः स्वशाखोक्तसन्ध्यां कृत्वा मन्त्रसन्ध्यां कुर्य्यात्। तद्यथा। प्राणायामत्रयं कृत्वा तीर्थजलं दक्षहस्ते गृहीत्वा मूलमन्त्रेण त्रिः संजप्य तेन मूलेन त्रिराचम्य पुनस्तीर्थजलं दक्षहस्तेन सव्यहस्ते निधाय मूलेन त्रिधाऽभिमन्त्र्यतद्गलितोदकबिन्दुभिःसप्तधा मूलेनात्मानं सम्मार्ज्य अवशिष्टं जलं दक्षहस्ते गृहीत्वा नासिकासमीपं नीत्वा इड़या देहान्तराकृष्य क्षालितैः पापसञ्चयैः कृष्णवर्णं तदुदकं दक्षनाड्या विरेचितं ध्यात्वा पुरःकल्पितवज्रशिलायामन्त्रमन्त्रेण प्रक्षिपेत्। इदमघमर्षणम्। पुनरञ्जलिना जलमादाय सूर्य्यमण्डलस्थाय देवायाऽर्घ्यं कल्पयामीति तत्तद्गायत्र्यामूलेन वा
-
-
 
 **देशिको विधिवत् स्नात्वा कृत्वा पौर्वाह्णिकीःक्रियाः।  
 यायादलङ्कृतो मौनीयागार्थं यागमण्डपम्॥५॥**
@@ -11301,8 +10760,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **प्राप्य हस्तौ च पादौ च प्रक्षाल्याचम्य यत्नतः।  
 यागमण्डपमासाद्य विशेत् कृत्वा प्रदक्षिणम्॥ इति।**
-
-
 
 अन्यत्रापि—
 
@@ -11352,8 +10809,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 मण्डलस्थं महादेवं ध्यात्वाऽभ्यर्च्य यथाविधि।  
 दद्यादर्घ्यंततस्तस्मै शिवायादित्यरूपिणे॥ इति।**
 
-
-
 **आचम्य विधिना तत्र सामान्यार्घ्यं विधायच।  
 द्वारमस्त्राम्बुभिः प्रोक्ष्यद्वारपूजां समाचरेत्॥६॥**
 
@@ -11400,8 +10855,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **केशवाद्यैस्त्रिभिः पीत्वा द्वाभ्यां प्रक्षालयेत् करौ।  
 द्वाभ्यामोष्ठौ तु संमृज्येत् द्वाभ्यां मृज्यान्मुखन्तथा॥**
 
-
-
 **ऊर्द्ध्वोडुम्बरके विघ्नं महालक्ष्मीं सरस्वतीम्।  
 ततो दक्षिणशाखायां विघ्नं क्षेत्रेशमन्यतः॥७॥**
 
@@ -11443,8 +10896,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   द्वारपूजामेवाह ऊर्द्ध्वेति। द्वारशाखोपरितनतिर्य्यक्काष्ठमूर्द्ध्वोडुम्बरकं देहत्वा-
 
-
-
 **तयोः पार्श्वगते गङ्गायमुने पुष्पवारिभिः।  
 देहल्यामर्चयेदस्त्रंप्रतिद्वारमिति क्रमात्॥८॥**
 
@@ -11477,8 +10928,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 चण्डाय च प्रचण्डाय रेवां तापीञ्च पश्चिमे॥**
 
 **ॐ शङ्खपद्मनिधये वाणीं वेणींतथोत्तरे॥ इति।**
-
-
 
 **अनन्तरं देशिकेन्द्रो दिव्यदृष्ट्यवलोकनात्।  
 दिव्यानुत्सारयेद् विघ्नानस्त्राद्भिश्चान्तरीक्षगान्॥९॥**
@@ -11533,8 +10982,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  अयञ्चानन्तरमित्यनेन सूचितः। देशिकेन्द्र इत्यनेन सदाशिवमात्मानं
 
-
-
 **पार्ष्णिघातैस्त्रिभिर्भौमानिति विघ्नान्निवारयेत्॥१०॥**
 
 **किञ्चित् स्पृशन् वामशाखां देहलीं लङ्घयेद् गुरुः।  
@@ -11585,8 +11032,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **गव्येन प्रोक्षयेद्दीक्षास्थानं मन्त्रेण शोधितम्। इति॥११॥१२॥**
 
-
-
 **चतुष्पथान्तं तच्छुद्धिं विदध्याद् वीक्षणादिना।  
 वीक्षणं मूलमन्त्रेण शरेण प्रोक्षणं मतम्॥१३॥**
 
@@ -11620,8 +11065,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 इति। विकिरणमार्जने देयमन्त्रेण॥१३॥१६॥
 
   ईशस्येति। सनालं पात्रं वर्द्धनी तस्या आसनाय। ईशस्य दिशीति ऐशान्याम्। तान् विकिरान् प्रकल्पयेत् स्थापयेदिति सम्बन्धः। पुण्याहमिति। पुण्याह-
-
-
 
 **उक्तेषु मण्डलेष्वेकं वेदिकायां समालिखेत्।  
 विशेन्मृद्वासने मन्त्रीप्राङ्मुखो वाप्युदङ्मुखः॥१८॥**
@@ -11667,8 +11110,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 बद्धपद्मासन इति। पद्मासनमन्त्ये वक्ष्यति। “अङ्गुष्ठौ च निबध्नीया-
 
-
-
 **सुवासिताम्बुसम्पूर्णं सव्ये कुम्भं सुशोभनम्।  
 प्रक्षालनाय करयोः पश्चात् पात्रं निवेशयेत्॥२०॥**
 
@@ -11703,8 +11144,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 समाहितः सावधानश्चासौ जितेन्द्रियश्चेति विशेषणसमासः। पूजाद्रव्याणि पुष्पादीनि। देशिक इत्युत्तरेण सम्बध्यते। अनेनार्घ्यपाद्याचमनमधुपर्काचमनपात्राण्यपि सव्ये स्थापयेदित्युंक्तम्॥१९॥
 
   सुवासितमिति कर्पूरादिना। मनोहरमिति दर्पणादीनां चतुर्णामपि विशेषणम्। दर्पणं स्थापयेदित्यादिरन्वयः। विशेदित्यादि। एतदन्तं नित्यपूजायामपि समानम्। मङ्गलानि मङ्गलरूपाणि यानि अङ्कुरपात्राणि उक्तरीत्या उप्तवीजानि तानि दिक्षु स्थापयेत्। देशिक इत्यनेनैतदुक्तं भवति। उक्तक्रमेण पूर्व्वादिदिशि एवं त्रिरावृत्त्येति। तेषामिदमेव प्रतिपत्तिकर्म्मइदं दीक्षायामेव। क्वताञ्जलिपुटो भूत्वा वामदक्षिणपार्श्वयोः गुरुं गणेशानं नत्वेति
-
-
 
 **ऊर्द्ध्वोर्द्ध्वमस्त्रमन्त्रेण दिग्बन्धमपि देशिकः।  
 तेन सञ्जनितं तेजो रक्षां कुर्य्यात् समन्ततः॥२४॥**
@@ -11754,8 +11193,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 एषां फलमाह तेनेति॥२४॥
 
-
-
 **सुषुम्णावर्त्मनात्मानं परमात्मनि योजयेत्।  
 योगयुक्तेन विधिना चिन्मन्त्रेण समाहितः॥२५॥**
 
@@ -11800,8 +11237,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 अकारं ब्रह्मरन्ध्रे च सहस्रारे नियोजयेत्॥ इति।**
 
 चकारः पूर्व्वसमुच्चये॥२६॥
-
-
 
 **ततः संशोषयेद् देहं वायुबीजेन वायुना।  
 वह्निबीजेन तेनैव संहरेत् सकलां तनुम्॥२७॥**
@@ -11849,8 +11284,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 तावन्मात्रायमनात् कलाश्च विधृता भवन्ति तत्त्वविदा॥ इति।**
 
 केचित्तु स्थानत्रयेऽपि प्रत्येकं त्रिविधं प्राणायाममपीच्छन्ति। अमृतेनामृतबीजेन वं इत्यनेन। अमृताम्भसा तदुत्थेनामृतेन आपादतलमस्तकं देहमाप्लाव्याप्लावयेदिति सम्बन्धः॥२७॥२८॥
-
-
 
 **आत्मलीनानि तत्त्वानि स्वस्थानं प्रापयेत्तदा।  
 आत्मानं हृदयाम्भोजमानयेत् परमात्मनः॥२९॥**
@@ -11934,8 +11367,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 अव्ययब्रह्मसम्पर्काद् भूतशुद्धिरियं मता॥  
 भूतशुद्धिं विना कर्म्मजपहोमार्चनादिकम्।**
 
-
-
 **मनुना हंसदेवस्य कुर्य्यान्न्यासादिकं ततः।  
 ऋषिच्छन्दोदैवतानि न्यसेत् मन्त्रस्य मन्त्रवित्॥३०॥**
 
@@ -11968,8 +11399,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 कुर्य्याद्रेचकपूर्व्वकर्म्मनिपुणः प्राणप्रयोगं नरः॥ इति।**
 
 न्यासो यथा। अजपाया आद्यं मूले परं शिरसि। तथा दक्षवामभागयोः। तत्रायं प्रयोगः। हं पुरुषात्मने नमः सः प्रकृत्यात्मने नमः। हंसः प्रकृतिपुरुषात्मने नमः। इति व्यापकम्। तद्रूपेणान्तर्मातृकान्यासोऽपि। आदिशब्दात् पूजापूर्व्वदिनजप-
-
-
 
 **आत्मनो मूर्द्ध्निवदने हृदये च यथाक्रमात्।  
 विधाय मूलमन्त्रेण प्राणायामं यथाविधि॥३१॥**
@@ -12004,8 +11433,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 जप्यते साधितोऽप्येष तस्य तुच्छफलं भवेत्। इति॥३०॥३१॥**
 
   बहिर्मातृकान्यासमाह विदध्यादिति। मातृकान्यासं वक्ष्यमाणं प्रपञ्चयागान्तमित्यर्थः। अनन्तरं मन्त्रन्यासं भुवनेशीन्यासं विदध्यादिति सम्बन्धः। यदाहुः—
-
-
 
 **अस्त्रं तत्तलयोर्न्यस्य कुर्य्यात्तालवयादिकम्।  
 दिशस्तेनैव बध्नीयाच्छोटिकाभिः समाहितः॥३३॥**
@@ -12097,8 +11524,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **करौ शिखायां संयोज्य कृतमुष्टिपुटाकृती।**
 
-
-
 **हृदयादिषु विन्यस्येदङ्गमन्त्रांस्ततः सुधीः।  
 हृदयाय नमः पूर्व्वं शिरसे वह्निवल्लभा॥३४॥**
 
@@ -12136,8 +11561,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 गौतमेन षड़ङ्गकरणप्रयोजनमप्युक्तम्—
 
 **इज्यमानो हृदात्माऽयं हृदये स्याच्चिदात्मकः।**
-
-
 
 **कल्पयेदात्मनो देहे पीठं धर्म्मादिभिः क्रमात्।  
 अंसोरुयुग्मयोर्विद्वान् प्रादक्षिण्येन देशिकः॥३८॥**
@@ -12190,8 +11613,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  आत्मयागार्थं देहे पीठकल्पनामाह कल्पयेदिति। आत्मनो देहे न्यस्तैर्धर्म्मादिभिः
 
-
-
 **धर्म्मंज्ञानञ्च वैराग्यमैश्वर्य्यं न्यस्यतु क्रमात्।  
 मुखपार्श्वनाभिपार्श्वेऽधर्म्मादींश्चप्रकल्पयेत्॥३९॥**
 
@@ -12231,8 +11652,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   अपर इति अधर्म्मादयः। अस्मिन्नित्यनन्ते। पद्ममिति वक्ष्यमाणलक्षणम्। एतेन पूतेन(?) पूर्व्वपूर्व्वस्योत्तरोत्तरं प्रत्याधारतोक्ता। अस्मिन् पद्मे सूर्य्येन्दुपावकानिति योज्यम्॥३८॥३९॥४०॥
 
-
-
 **एषु स्वस्वकला न्यस्येन्नामाद्यक्षरपूर्व्विकाः।  
 सत्त्वादींस्त्रीन् गुणान् न्यस्येत्तथैवात्र गुरूत्तमः॥४१॥**
 
@@ -12267,8 +11686,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **इति ध्यात्वात्मानं पटुविशदधीर्नन्दतनयं  
 पुरोवुद्ध्यैवार्घ्यप्रभृतिभिरनिन्द्योपहृतिभिः।  
 यजेत्। इति।**
-
-
 
 **शङ्खमस्त्राम्बुना प्रोक्ष्य वामतो वह्निमण्डले।  
 साधारं स्थापयेद् विद्वान् बिन्दुस्रुतसुधामयैः॥४४॥**
@@ -12305,8 +11722,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   आधारमिति। आधारं पावकमण्डलत्वेन शङ्खं सूर्य्यमण्डलत्वेन तोयमिन्दुमण्डलत्वेन। तेषु मण्डलेषु तत्तत्कला अपि स्मरेत्। केचन पूजयन्त्यपि। तत्र प्रयोगः। स्ववामाग्रतः चतुरस्रवृत्तषट्कोणत्रिकोणमण्डलं कृत्वा शङ्खमुद्रयाऽवष्टभ्यः पुष्पाक्षतैः पूजाक्रमेण षड़ङ्गानि सम्पूज्य आधारमस्त्रमन्त्रेण प्रक्षाल्य मं वह्निमण्डलाय दशकलात्मने अमुकार्घ्यपात्रासनाय नमः इति आधारं प्रतिष्ठाप्य पूर्व्वादग्नेर्दशकलाः पूजयेत्। ततः शङ्खमन्त्रेण \[पुरुषोत्तमपटलोक्तशङ्खमन्त्रेण\] शङ्ख-
 
-
-
 **स्मरेद्वह्न्यर्कचन्द्राणां कलास्तास्तेष्वनुक्रमात्।  
 मूलमन्त्रं जपेत् स्पृष्ट्वा न्यसेत्तस्याङ्गमन्त्रवित्॥४६॥**
 
@@ -12340,8 +11755,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **संस्पृशन् जपतु मन्त्रमष्टशः। इति॥४४॥४५॥४६॥४७॥**
 
   संरक्ष्येति। तदिति सम्बन्धः। तच्च संरक्षणं छोटिकाभिरिति ज्ञेयम्। अवगुण्ठ्येत्यत्रापि तदिति सम्बध्यते। तच्चावगुण्ठनमुद्रया। समापाद्येत्य-
-
-
 
 **दक्षिणे प्रोक्षणीपात्रमाधायाऽद्भिः प्रपूरयेत्।  
 किञ्चिदर्घ्याम्बु संगृह्य प्रोक्षण्यम्भसि योजयेत्॥४९॥**
@@ -12388,8 +11801,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **रत्नं रौक्मंरौप्यमब्जं ताम्म्रंमृद्दारुपैत्तलम्।  
 पाद्मं पालाशमुत्कृष्टान्यमन्त्राण्यच्युतार्चने।  
 सर्व्वोत्कृष्टौ ताम्रशङ्खावर्ध्यायाऽब्जोऽतिशस्यते॥ इति॥४९॥**
-
-
 
 **अर्घ्यस्योत्तरतः कार्य्यं पाद्यं साचमनीयकम्।  
 आत्मानं यागवस्तूनि मण्डलं प्रोक्षयेद् गुरुः॥५०॥**
@@ -12439,8 +11850,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **सर्व्वदुःखपिशाचेभ्यो मुक्तो भवति नान्यथा।  
 परिव्राडविरक्तश्च विरक्तश्च गृही तथा॥**
 
-
-
 **पुष्पाद्यैः पीठमन्वन्तं तस्मिंश्च परदेवताम्।  
 पञ्चकृत्वः पुनः कुर्य्यात् पुष्पाञ्जलिमनन्यधीः॥५२॥**
 
@@ -12474,8 +11883,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   विना निवेद्यमिति। अस्यायमभिप्रायः। आसनादिदीपान्तानुपचारान् प्रदर्श्य बाह्ये नैवेद्यं न देयम्। ततो गुरूपदिष्टविधिना कुण्डलिनीमुत्थाप्य द्वादशान्तं नीत्वा तत्रत्यशिवेन समागमय्य तदुत्थामृतधारया देवं प्रीणयेदिति॥५२॥५३॥
 
   गुरूपदिष्टेति। अन्यत् शेषं मानसौ धूपदीपौ मन्त्रजपः जपनिवेदनं ब्रह्मार्पणं क्षमापनादि विसर्जनवर्जम्। यदाहुः—
-
-
 
 **विसृज्य तोयं प्रोक्षण्याः पूरयेत्तां यथा पुरा।  
 ततस्तन्मण्डलं मन्त्रीगन्धाद्यैः साधु पूजयेत्॥५५॥**
@@ -12513,8 +11920,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **सप्तविंशतिदर्भाणां वेण्यग्रे ग्रन्थिभूषितम्।  
 विष्टरे सर्व्वयज्ञेषु लक्षणं परिकीर्त्तितम्॥ इति**
-
-
 
 **कूर्च्चमक्षतसंयुक्तं न्यसेत्तेषामथोपरि।  
 आधारशक्तिमारभ्य पीठं मन्त्रमयं यजेत्॥५७॥**
@@ -12559,8 +11964,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 इत्युक्तेः अर्चयेदित्युक्तम्॥५६॥५७॥
 
   तदेवाह अध इति। अनेनैतदुक्तं भवति। कर्णिकायां महाकायं रक्तं मण्डूकं मण्डूकाय नमः इति यजेत्। तदूर्द्ध्ं दशभुजं पञ्चवक्त्रंरक्तकृष्णदक्षिणवामपार्श्वं कालाग्निरुद्रं कालाग्निरुद्राय नम इति। तदुपरि महाकायं कूर्म्मं
-
-
 
 **यजेच्चक्रधरं मूर्ध्नि धारयन्तं वसुन्धराम्।  
 तमालश्यामलां तत्र नीलेन्दीवरधारिणीम्॥६०॥**
@@ -12607,8 +12010,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 नीलेन्दीवर धारयतीति समासः। वक्ष्यति “इन्दीवरे द्वे” इति।
 
 स्फुरत्सागरमेखलामित्यनेन पृथिव्यनन्तरं सागराय नम इति समुद्रः पूज्य इत्यर्थः।
-
-
 
 **वृषकेशरिभूतेभरूपान् धर्म्मादिकान् यजेत्।  
 गात्रेषु पूजयेत्तांस्तु नञ्पूर्व्वानुक्तलक्षणान्॥६४॥**
@@ -12658,8 +12059,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 अत्र युक्तिरपि। देहे पीठदेवतान्यासावसरे मुखे अधर्म्मन्यास उक्तः। स चाग्रभागः।
 
-
-
 **सर्व्वतत्त्वात्मकं पद्ममभ्यर्च्य तदनन्तरम्।  
 मन्त्री प्रकृतिपत्राणि विकारमयकेसरान्॥६६॥**
 
@@ -12693,8 +12092,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **“अनन्तं हृदये पद्ममस्मिन्।” इति॥६५॥६६॥**
 
   कलाभिरिति। तत्र द्वादशकलात्मकसूर्य्यमण्डलाय षोड़शकलात्मकचन्द्रमण्डलाय दशकलात्मकवह्निमण्डलाय इति केचन कलाभिः सार्द्धमित्यस्यार्थं व्याचक्षते। अन्ये त्वन्यथा वर्णयन्ति। द्वादशकलादित्वमनुक्तमपि लभ्यते। तेन सुर्य्यमण्डलं सम्पूज्य तत्र द्वादशकलाः ततः सोममण्डलं तत्षोड़शकलाः ततः अग्निमण्डलं तद्दशकलाः पूजयेदिति। अयं साम्प्रदायिकः पक्षः। तस्यामिति
-
-
 
 **प्रणवस्य त्रिभिर्वर्णैरथ सत्त्वादिकान् गुणान्।  
 आत्मानमन्तरात्मानं परमात्मानमर्चयेत्॥६८॥**
@@ -12742,8 +12139,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   असव्येनाविशेषोक्तौ क्रमः सर्व्वत्र गृह्यते। इति परिभाषणात्। अत एव देहे पीठदेवतान्यासावसरे पीठशक्तिन्यास उक्तो मया। पीठशक्तयः
 
-
-
 **हेमादिरचितं कुम्भमस्त्राद्भिः क्षालितान्तरम्।  
 चन्दनागुरुकर्पूरधूपितं शोभनाकृतिम्॥७०॥**
 
@@ -12785,8 +12180,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 केचित्तु नीरन्ध्रंयथा स्थात्तथा तन्तुना आवेष्टिताङ्गमिति योजयन्ति। तन्मते सर्वोऽपि घटः तन्तुवेष्टितो भवति। तदात्राङ्गशब्दवैयर्थ्यंस्यात्। अन्यत्र विशेषः—
 
-
-
 **नवरत्नोदरं मन्त्री स्थापयेत्तारमुच्चरन्।  
 ऐक्यंसङ्कल्प्यकुम्भस्य पीठस्य च विधानवित्॥७२॥**
 
@@ -12815,8 +12208,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **अष्टमूर्त्त्यात्मकं पिष्टमष्टगन्धंविलोड्य च। इति।**
 
 अभीष्टदमित्यनेन गन्धद्वारा मित्यस्य जप उक्तः। पूजयेदिति शिरसा धेनुमुद्रां प्रदर्श्येति ज्ञेयम्। सकलाः चतुर्नवति। द्वादशात्मन इति सूर्य्यस्य। पश्चादित्यनेनैतदुक्तम्। अकारजकलानन्तरं हंस इति। उकारजानन्तरं प्रतद्विष्णुरिति। मकारजानन्तरं त्र्यम्बकमिति। बिन्दुजानन्तरं तत्पदादिकम्। नादजानन्तरं विष्णुर्योनिमिति ऋचं पठेत्। पञ्चाशत् एकपञ्चाशत्कलाः तारपञ्चभेदोत्पन्नाः।
-
-
 
 **दश वह्नेः कलाः पूर्व्वं द्वादश द्वादशात्मनः।  
 कलाः षोड़श सोमस्य पश्चात् पञ्चाशतं कलाः॥७६॥**
@@ -12865,8 +12256,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **सन्मूर्त्तौभावना मन्त्रैः प्रतिष्ठा साऽभिधीयते। इति।**
 
-
-
 **गन्धाष्टकं तत् त्रिविधं शक्तिविष्णुशिवात्मकम्।  
 चन्दनागुरुकर्पूरचोरकुङ्कुमरोचनाः॥७९॥**
 
@@ -12900,8 +12289,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   गन्धाष्टकं विलोड्य इति यदुक्तम् तदाह गन्धाष्टकमिति। शक्तिविष्णुशिवात्म-
 
-
-
 **जटामांसीकपियुताः शक्तेर्गन्धाष्टकं विदुः।  
 चन्दनागुरुह्रीवेरकुष्ठकुङ्कुमसेव्यकाः॥८०॥**
 
@@ -12927,8 +12314,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 तट्टीकायामपेक्षितार्थद्योतनिकायामेवमुक्तम्। एतच्च पुरुषोत्तममन्त्रव्यतिरिक्तस्थानेऽव-गन्तव्यम्। तत्रामुकशब्दे दुरितपदस्यालक्ष्मीपदस्य वा प्रयोगादिति।
 
-
-
 **अमुष्य सर्व्वेन्द्रियाणि भूयोऽमुष्यपदं भवेत्।  
 वाङ्मनोनयनश्रोत्रघ्राणप्राणपदान्यथ॥८३॥**
 
@@ -12948,8 +12333,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 अत्रापि टीकाकारैर्व्याख्यातम् “दृक्पदेन चक्षुःपदं गृह्यते” इति। एवञ्चेन्न स्यात् क्वचिन्नयनपदं क्वचिच्चक्षुःपदं कचिद्दृक्पदं तद्वत् क्वचिल्लोचनपदमपि स्यात्। तच्चायुक्तम्। नहि पर्य्यायेणोच्चारितो मन्त्रः स मन्त्रो भवति अन्यथा मन्त्रोद्धारश्लोका एव मन्त्रा भवेयुः। तस्मान्नयनपदं चक्षुःपदोपलक्षकमिति स्थितम्। घ्राणप्राणपदानीति। अत्र मन्त्रे प्राण इति बहुवचनान्तता ज्ञेया। वागादीनां बहूनां पदानां द्वन्द्वसमासात्। त्रयोविंशे वक्ष्यति “वायं श्रोत्रघ्राणपदे प्राणाः” इति। ठद्वयं स्वाहा।
 
   नन्वत्र मन्त्रे यदमुष्यस्थाने साध्य देवतायन्त्रादेर्नामपदप्रयोगः तस्य कथं मन्वत्वमिति चेत्। मीमांसाधिकरणसिद्धान्तसिद्धमिति ब्रुमः। तथाहि द्वितीयेऽध्याये भावार्थचरणे “अनाम्नातेष्वमन्त्रत्वमाम्नातेषु हि विभागः स्यात्” इत्यत्राधिकरणे ऊहप्रवरनामधेयानां मन्त्रत्वममन्त्रत्वं वेति संशय्यं तेषाममन्त्रत्वं सिङ्घान्तितम्। तत्प्रसङ्गेनेदमपि विचारितं यदूहप्रवरनामधेयानां प्रक्षेपे सर्व्वस्यैवामन्त्रत्वम् उत प्रक्षिप्तस्यैवेति। तत्र प्रक्षिप्तस्यैवामन्त्रत्वं सिद्धान्तितम्। तत्प्रसङ्गानुप्रसङ्गेनेदमपि चिन्तितम्। यत्र मन्त्रे “इमममुष्य पुत्रममुष्याः पुत्रमस्यै विश एष वो राजा” इत्यादौ यत् सर्व्वनामस्थाने राजादिशब्दप्रयोगः तस्यामन्त्रत्वमुत मन्त्रत्वमिति। तत्राम्नातस्य सर्व्वनाम्नो राजादिपदप्रयोगे प्रामाण्यसमर्पकत्वमात्रमिति। ऊहादिवदमन्त्रत्वमिति पूर्व्वः पक्षः। सिद्धान्तस्तु।
-
-
 
 **पश्चादश्वत्थपनसचूतकोमलपल्लवैः।  
 इन्द्रवल्लीसमाबद्धैः सुरद्रुमधिया गुरुः।  
@@ -12973,8 +12356,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  मन्त्रस्य देवतामित्येकमन्त्रदीक्षायाम्।
 
  पञ्चायतनदीक्षापक्षे पञ्चकलशान् संस्थाप्य तत्तत्कलशे तत्तद्देवतामावाहायेदिति मन्त्रीत्यनेनोक्तम्।
-
-
 
 तदुक्तमाचार्य्यैः —
 
@@ -13026,8 +12407,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **श्रीशम्भुसूर्य्याखुरथाम्बकृष्णाः प्रदक्षिणं मध्यविदिक्षु पूज्याः।  
 स्वस्थानगाः सर्व्वमनोरथाप्त्यै अर्थं विनिघ्नन्ति परत्र संस्थाः॥ इति।**
 
-
-
 अन्यत्रापि —
 
 **मध्येऽभ्यर्च्य हरिं गणेननगजाशर्व्वागणं मध्यतः  
@@ -13068,8 +12447,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 मृन्मयीचेति पञ्चैताः प्रतिमाः परिकीर्त्तिताः॥**
 
 **सर्व्वेषामेव देवानां महानीला यशः प्रदा।**
-
-
 
 **दारुजा कामदा प्रोक्ता सौवर्णी भुक्तिमुक्तिदा॥**
 
@@ -13125,8 +12502,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **कृशोदरी तु दुर्भिक्षं निर्मांसा धननाशिनी।  
 वक्रनासा तु दुःखाय सङ्क्षिप्ताङ्गी भयङ्करी॥**
 
-
-
 **चिपिटा दुःखशोकाय अनेत्रा नेत्रनाशिनी।  
 दुःखदा हीनवक्त्रातु पाणिपादकृशा तथा॥**
 
@@ -13179,8 +12554,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **ततो मूलेन मूर्द्धादिपीठान्तं संस्पृशेदपि।**
 
-
-
 **तत्त्वन्यासं लिपिन्यासं मन्त्रन्यासञ्च विन्यसेत्॥**
 
 **प्राणप्रतिष्ठामन्त्रेण प्रतिष्ठापनमाचरेत्।  
@@ -13232,8 +12605,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **स्वरूपं लक्षणं तेषां प्रभा रत्नेषु निर्मला। इति।**
 
-
-
 **मूलमन्त्रं समुच्चार्य्य सुषुम्णावर्त्मना सुधीः।  
 आनीय तेजः स्वस्थानान्नासिकारन्ध्रनिर्गतम्॥८८॥**
 
@@ -13275,8 +12646,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **आत्मसंस्थमजं शुद्धं त्वामहं परमेश्वर।  
 अरण्यामिव हव्याशं मूर्त्तावावाहयाम्यहम्॥**
-
-
 
 **संस्थापनं सन्निधानं सन्निरोधमनन्तरम्।  
 सकलीकरणं पश्चाद् विदध्यादवगुण्ठनम्॥९०॥**
@@ -13323,8 +12692,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **अनन्या तव देवेश मूर्त्तिशक्तिरियं प्रभो।  
 सान्निध्यं कुरु तस्यां त्वं भक्तानुग्रहतत्पर॥ इति।**
 
-
-
 सन्निरोधः सन्निरोधनम् अनन्यचित्तप्रार्थनम्। तत् सन्निरोधिन्या। श्लोकस्तु —
 
 **आज्ञया तव देवेश कृपाम्भोधे गुणाम्बुधे।  
@@ -13366,8 +12733,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 स्वतेजःपञ्जरेणाऽऽशु वेष्टितो भव सर्व्वतः॥ इति।**
 
 अमृतीकरणमानन्दपूर्णतावस्थितित्वम्। तद् धेनुमुद्रया। परमीकरणं सर्व्वापराधसहिष्णुत्वम्। तन्महामुद्रया। स्वमुद्राभिरिति त्रयोविंशे वक्ष्यमाणाभिः। समाहित इत्यनेन मूलमन्त्रपुटितमातृकाक्षराणि देवदेहे विन्यसेदित्युक्तम्। पूजायां वक्ष्यमाणत्वात्॥९०॥९१॥
-
-
 
 **अथोपचारान् कुर्व्वीत मन्त्रवित् स्वागतादिकान्।  
 स्वागतं कुशलप्रश्नं निगदेदग्रतो गुरुः॥९२॥**
@@ -13420,8 +12785,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **सपर्य्या पञ्चधा प्रोक्ता तासामेकां समाचरेत्। इति।**
 
-
-
 **पाद्यं पादाम्बुजे दद्याद् देवस्य हृदयाणुना।  
 एतच्छ्यामाकटूर्व्वाब्जविष्णुक्रान्ताभिरीरितम्॥९३॥**
 
@@ -13472,8 +12835,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 लवङ्गमपि कक्कोलं शस्तमाचमनीयकम्॥ इति।**
 
 महाकपिलपञ्चरात्रे आचमनीयद्रव्याण्यन्यथोक्तानि।
-
-
 
 **अर्घ्यं दिशेत्ततो मूर्द्ध्निशिरोमन्त्रेण देशिकः।  
 गन्धपुष्पाक्षतयवकुशाग्रतिलसर्षपैः॥९५॥**
@@ -13529,8 +12890,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 शुद्धिमाप्नोति तस्मै ते पुनराचमनीयकम्॥ इति**
 
 मधुपर्कान्ते आचमनमुपलक्षणम्। तेन स्मृत्युक्तनिमित्तेऽप्याचमनं दद्यात्। स्नानान्ते वासोदानान्ते उपवीतदानान्ते नैवेद्यान्ते।
-
-
 
 **गन्धाद्भिः कारयेत् स्नानं वाससी परिधापायेत्।  
 दद्याद् दिव्योपवीतञ्च हाराद्याभरणैः सह॥९८॥**
@@ -13599,8 +12958,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **महाभिषेकं सर्व्वत्र शङ्खेनैव प्रकल्पयेत्।  
 सर्व्वत्रैव प्रशस्तोऽब्जःशिवसूर्य्यार्चनं विना॥ इति।**
 
-
-
 **न्यासक्रमेण मनुना पुटितैर्मातृकाक्षरैः।  
 अभ्यर्च्य देवींगन्धाद्यैरङ्गादीन् पूजयेत् ततः॥९९॥**
 
@@ -13647,8 +13004,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   अभ्यर्च्य देवीमिति। अत्र देवीमित्युपलक्षणं स्वेष्टदेवतामित्यर्थः। क्वचिद्देवमिति पाठः। पुटितलक्षणं त्रयोविंशे वक्ष्यति। ततो गन्धाद्यैरभ्यर्च्य
 
-
-
 **गन्धश्चन्दनकर्पूरकालागुरुभिरीरितः।  
 कमले करवीरे द्वे कुमुदे तुलसीद्वयम्॥१००॥**
 
@@ -13691,8 +13046,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 देवीनाञ्चार्कमन्दारावादित्ये तगरं तथा॥**
 
 **गणेशाय च सूर्य्याय रक्तपुष्पमति प्रियम्।**
-
-
 
 **धूस्तूरं सर्जकं बिल्वमर्जुनं मुनिपुष्प\[पत्र\]कम्।  
 अन्यान्यपि सुगन्धीनि पत्रपुष्पाणि देशिकैः॥१०३॥**
@@ -13741,8 +13094,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **अधमं पत्रतोयादि मध्यमन्तु फलात्मकम्।**
 
-
-
 **अङ्गस्पृष्टं समाघ्रातं त्यजेत् पर्य्युषितं गुरुः।  
 देवस्य मस्तकं कुर्य्यात् कुसुमोपहितं सदा॥१०५॥**
 
@@ -13788,8 +13139,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 त्रिंशत्त्र्येकार्य्यरीशोदधिनिधिवसुभूभूयमा भूय एवम्॥ इति।**
 
 शता शतपत्रम्। भृङ्गं भृङ्गराजः। मन्दो मन्दारः। आहि द्रोणकलशः। ब्रह्म पलाशः। अश्वारातिः करवीरः। एषां यथायोग्यं पत्रपुष्पाणि ग्राह्याणि। अरयः षट्। यमो द्वयम्। एवम् एकावृत्त्या आहृतानां दिनसंख्या। भूय
-
-
 
 **धूपयेदाज्यसंमिश्रैर्नीचैर्देवस्य देशिकः।  
 वर्त्त्या कर्पूरगर्भिण्या सर्पिषा तिलजेन वा॥१०७॥**
@@ -13844,8 +13193,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **धूपस्य व्यजनेनैव धूपेनाङ्गविधूपने।  
 नीराजनेषु सर्व्वेषु देव\[गुण\] नामादि कीर्त्तयन्॥**
 
-
-
 **कदलीफलसंयुक्तं साज्यं मन्त्री निवेदयेत्।  
 तत्र तत्र जलं दद्यादुपचारान्तरान्तरा॥१०९॥**
 
@@ -13890,8 +13237,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 ततश्चक्रमुद्रयाऽभिरक्ष्य वायुबीजेन द्वादशवाराभिमन्त्रितजलेन हविः सम्प्रोक्ष्य तदुत्थवायुना तद्दोषं संशोष्य\[ध्य\] दक्षिणकरतलेऽग्निबीजं विचिन्त्य तत्पृष्ठलग्नं वामकरतलं कृत्वा नैवेद्ये प्रदर्श्य तदुत्थाग्निना तद्दोषं दग्ध्वा वामकरतलेऽमृतबीजं विचिन्त्य तत्पृष्ठलग्नं दक्षिणकरतलं कृत्वा नैवेद्ये प्रदर्श्य तदुत्थामृतधारया प्लावितं विभाव्य मूलमन्त्रजप्तजलेन सम्प्रोक्ष्य तदखिलममृतात्मकं ध्यात्वा तत् स्पृष्ट्वा मूलमन्त्रमष्टधा जप्त्वा धेनुमुद्रां प्रदर्श्य जलगन्धपुष्पैरभ्यर्च्य देवतायै पुष्पाञ्जलिं समर्प्य तन्मुखात्तेजो निर्गतमिति ध्यात्वा वामाङ्गुष्ठेन मुख्यं नैवेद्यपात्रं स्पृष्ट्वा
 
-
-
 दक्षिणकरेण जलं गृहीत्वा स्वाहान्तं मूलमन्त्रम्
 
 **सत्पात्रसिद्धं सुहविर्विविधानेकभक्षणम्।  
@@ -13935,8 +13280,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 गन्धादिष्वपि दत्तेषु \[भेदेषु \] मुद्राश्चेमाः प्रदर्शयेत्॥**
 
 **मुद्रया यत् कृतं कर्म्मतदक्षयफलप्रदम्॥ इति।**
-
-
 
   तत्रेति। उपचाराणाम् अन्तरान्तरा पुष्पाञ्जलिं दत्त्वा जलं दत्त्वा स्वहस्तं प्रक्षालयेदिति परमगुरवः। इदानीं तन्त्रान्तरोक्तो विशेषो लिख्यते।
 
@@ -13986,8 +13329,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **साधनाभाविनीचेति पञ्चधा भिद्यते पुनः।  
 यदि लङ्घनपर्य्यन्तो व्याधिरात्मनि दृश्यते॥**
 
-
-
 **तदा पूजा न कर्त्तव्या स्थण्डिले प्रतिमासु च।  
 न स्नानं दन्तकाष्ठं वा कुर्य्याद्धोममथापि वा॥**
 
@@ -14034,8 +13375,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **साधनञ्चाऽर्चयेद्विद्वान् स समग्रफलं लभेत्।**
 
-
-
 **अङ्गादिलोकपालान्तं यजेदावरणान्यपि।  
 केशरेष्वग्निकोणादि हृदयादीनि पूजयेत्॥११०॥**
 
@@ -14075,8 +13414,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   नेत्रमग्र इति कर्णिकायां देवस्य पुरतः।शिरःप्रभृतिमन्त्रेषु पूजायां नमोऽन्तता ज्ञेया। होमे तु हृदयादीनां स्वाहान्तता। आद्यद्वितीययोस्तज्जातियुक्तत्वादेव न तत्प्रयोगः। अधिकरणसिद्धश्चायमर्थः। तथा हि “मन्त्रे स्ववाक्यशेषत्वं गुणोपदेशात् स्यात्” इत्यत्राधिकरणे स्वाहाकारेण वषट्कारेण
 
-
-
 **वरदाभयधारिण्यः प्रधानतनवः स्त्रियः।  
 पश्चादभ्यर्चनीयाः स्युः कल्पोक्तावृतयः क्रमात्॥११२॥**
 
@@ -14102,8 +13439,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 वक्ष्यति च स्वयं नित्यामन्त्रे—
 
 **लोकपालान् यजेदन्ते वाहनायुधसंयुतान्। इति।**
-
-
 
 **इन्द्रमग्निं यमं रक्षो वरुणं पवनं विधुम्।  
 ईशानं पन्नगाधीशमध ऊर्द्ध्वंपितामहम्॥११४॥**
@@ -14158,8 +13493,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 बहिःपद्मस्य वज्राद्यान्यब्जान्तान्यायुधान्यपि॥  
 प्रसिद्धरूपास्वाशासु लोकेशानां क्रमाद् यजेत्। इति।**
 
-
-
 **वज्रं शक्तिं दण्डमसिं पाशमङ्कुशकं गदाम्।  
 शूलं चक्रं पद्ममेषामायुधानि क्रमाद्विदुः॥११६॥**
 
@@ -14196,8 +13529,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 स्वस्वायुधाभयसमुद्यतपाणिपद्माः। इति।**
 
 मूलेन मूर्त्तिं क्लृप्तेत्यादि निवेद्यान्तमिति नित्यपूजायामपि समानम्। विद्वान्विधिवत् संस्कृत्येत्यनेन वीक्षणादयश्चत्वारः संस्कारा घृतसंस्कारा अग्नेराज्याहुतिक्रमेण गर्भाधानादि संस्काराश्च कर्त्तव्या इत्युक्तं भवति॥११६॥११७॥११८॥११९॥
-
-
 
 **तारव्याहृतिभिर्हुत्वा मूलमन्त्रेण मन्त्रवित्।  
 सर्पिष्मता पायसेन पञ्चविंशतिसंख्यया॥१२०॥**
@@ -14236,8 +13567,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 देवतायाःपार्षदेभ्य इत्यत्रापि पारिषदशब्देनैषामेव ग्रहणम्। सर्व्वसम्पत्त्यै देवतायै इति व्यधिकरणे चतुर्थ्यौ।
 
  समर्पयेदिति। अत्र नित्यपूजायां ताम्बुलछत्रादर्शचामराणि समर्प्य —
-
-
 
 **बुद्धिःसवासना क्लृप्ता दर्पणं मङ्गलानि च।  
 मनोवृत्तिर्विचित्रा ते नृत्यरूपेण कल्पिता॥**
@@ -14282,8 +13611,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 ततश्चुल्लुकोदकेन “इतः पूर्व्वंप्राणबुद्धिदेहधर्म्माधिकारतो जाग्रत्स्वप्रसुषुप्त्यवस्थासु मनसा वाचा हस्ताभ्यां पद्भ्यामुदरेण शिश्नायत् स्मृतं यदुक्तं यत् कृतं तत् सर्व्वं ब्रह्मार्पणं भवतु स्वाहा। मां मदीयञ्च सकलं हरये समर्पये ॐ तत् सत्” इति ब्रह्मार्पणमन्त्रेणात्मानं समर्प्य स्वहृत्कमले संहारमुद्रया देवमुपसंहरेदिति विशेषः। संहारमुद्रालक्षणमुक्तमेव। प्रसादस्वीकारे तत्तद्देवताभक्तेन तत्तद्देवताप्रसादः स्वीकर्त्तव्य एव। पञ्चदेवतापूजायान्तु विष्णोरेव शालग्रामशिलास्पर्शादन्येषाञ्च।
 
-
-
 **ततः शम्भोर्दिशि गुरुर्विकिरे पूर्व्वसञ्चिते॥१२५॥**
 
 **हेमवस्त्रादिसंयुक्तां कर्करींतोयपूरिताम्।  
@@ -14319,8 +13646,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   शम्भोर्दिशीति ऐशान्याम्। कर्करींसनालं जलपात्रम्। तस्यां कर्कर्य्याम् एवम्भूतामस्त्रदेवतां पूजयेदित्यन्वयः। चलासनेन इत्युच्छ्रितासनेन। तामिति। गुरुस्तां कर्करीमादाय नालमुक्तेन वारिणा लोकपालानां रक्षेति देवाज्ञां श्रावयन् अन्तर्मण्डपान्तर्वेद्याः परितः प्रदक्षिणं परिवृत्त्य यथापूर्व्वं तां निवेशयेदिति सम्बन्धः। तत्र कर्कर्य्याम्। स्थिरासने निश्चलासने उपविष्ट इत्यर्थः॥१२५-१२९॥
 
   तत इति। संस्कृते वह्नाविति आचार्य्येण स्वकुण्डे संस्कृते। यतोऽग्रिमपटले वक्ष्यमाणाग्निजननकर्म्मआचार्य्येण अस्मिन्नेव काले कृतमस्ति तस्यानुवादः संस्कृते वह्नाविति। तदुक्तं प्रयोगसारे—
-
-
 
 **तण्डुलान् शालिसम्भूतान् मूलमन्त्राभिमन्त्रितान्।  
 प्रसृतीनां पञ्चदश क्षिप्त्वाचाऽस्त्रमनुं जपेत्॥१३१॥**
@@ -14359,8 +13684,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **चरोस्तृतीयभागन्तु ग्रासत्रितयसम्मितम्।  
 अष्टग्रासप्रमाणं वा दर्शनस्पर्शवर्जितम्॥**
-
-
 
 **आचान्तं शिष्यमानीय सकलीकृत्य देशिकः।  
 तालप्रमाणं हृज्जप्तं क्षीरवृक्षादिसम्भवम्॥१३६॥**
@@ -14415,8 +13738,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **त्यक्तं तद्दन्तपवनं दृश्यते गुरुणा यदि।**
 
-
-
 **यथाविधि तमाचान्तं शिखाबन्धाभिरक्षितम्।  
 विधाय सार्द्धममुना वेद्यां दर्भास्तरे गुरुः।  
 शयीत तस्यां तां रात्रिमधिवासः समीरितः॥१३८॥**
@@ -14463,8 +13784,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 स्वप्रमाणवमन्त्रो वैष्णवेषु मन्त्रतन्त्रप्रकाशे—
 
 **ॐ हृत् सकललोकाय विष्णवे प्रभविष्णवे।**
-
-
 
 **विश्वाय विश्वरूपाय स्वप्नाधिपतये नमः।  
 स्वप्नमाणवमन्त्रोयं कथितो नारदादिभिः॥ इति।**
@@ -14516,8 +13835,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **अथ प्रातः समुत्थाय स्वप्नं दृष्ट्वा विचारयेत्।  
 भद्रे भद्रं विजानीयादभद्रे जुहुयाच्छतम्॥ इत्यादि।**
 
-
-
 नारायणीये तु —
 
 **स्वप्नान् संवीक्षितान् शिष्यः प्रभाते श्रावयेद् गुरुम्।  
@@ -14543,15 +13860,7 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 इति श्रीशारदातिलकटीकायां सत्सम्प्रदायकृतव्याख्यायां  
 पदार्थादर्शाभिख्यायां चतुर्थःपटलः॥ॐ॥
 
-
-
 ![](../books_images/U-IMG-1727585228Screenshot2024-08-25122041.png)
-
-
-
-
-
-
 
 **पञ्चमः पटलः।**
 
@@ -14584,8 +13893,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 त्रिसूत्रीपरिधानञ्च वर्म्मणाऽभ्यर्चनं हृदा॥ इति।**
 
 कलारूपकल्पनमिति चन्द्रसूर्य्याग्निकलारूपकल्पनम्। त्रिसूत्रीकरणमिति सूत्रत्रयवेष्टनम्॥४॥५॥
-
-
 
 **अस्त्रेण वज्रीकरणं हृन्मन्त्रेण कुशैः शुभैः।  
 चतुष्पथं तनुत्रेण तनुयादक्षपाटनम्॥६॥**
@@ -14625,8 +13932,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **कृत्वा रेखाश्च मध्यतः। षट्कोणं त्रिकोणञ्च। इति॥८॥९॥**
 
   सर्व्वाणीति। एतानि प्रणवेनाऽभ्युक्ष्य योगपीठं वागीशीयोगपीठं मण्डूकादि-
-
-
 
 **वागीश्वरेण संयुक्तामुपचारैः प्रपूजयेत्।  
 सूर्य्यकान्तादिसम्भूतं यद्वाश्रोत्रियगेहजम्॥११॥**
@@ -14682,8 +13987,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **अस्त्रेणाऽग्निं समादाय कवचेन पिधाय च।  
 क्रव्यादांशन्तु चाऽस्त्रेण नैर्ऋत्ये संत्यजेत् प्रिये॥ इति।**
 
-
-
 **औदर्य्यबैन्दवाग्निभ्यां भौमस्यैक्यं स्मरन् वसोः।  
 योजयेद् वह्निबीजेन चैतन्यं पावके तदा॥१३॥**
 
@@ -14733,8 +14036,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 शिवबीजधियेति। इदं शैवे। शैवतन्त्रे तथोक्तेः। स एव वक्ष्यति च-
 
-
-
 **आत्मनोऽभिमुखं वह्निंजानुस्पृष्टमहीतलः।  
 शिवबीजधिया देव्या योनावेव विनिक्षिपेत्॥१६॥**
 
@@ -14783,8 +14084,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  चित्पिङ्गलमिति शब्दकर्म्मणि द्वितीया मन्त्रे तु सम्बुद्ध्यन्तम्। हनेत्यादित्रयाणां युग्मानि। ज्वालयेन्मनुनाऽनेनेति यो मन्त्रः प्रागुदीरितः उद्दिष्टः स मन्त्रोऽयमीरित इत्यर्थः।क्वचित्तु समुदीरित इत्येव पाठः। अत्र अग्निज्वालने ज्वालिनीमुद्रां प्रदर्शयेत्। तल्लक्षणन्तु —
 
-
-
 **उपतिष्ठेत विधिवन्मनुनाऽनेन पावकम्।  
 विन्यसेदात्मनो देहे मन्त्रैर्जिह्वा हविर्भूजः॥२०॥**
 
@@ -14819,8 +14118,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   वह्नीति। वह्नीरेफः इरो यः अर्घीश उकारः एतद्युक्ताः। सादियान्ताः सकारादियकारान्ताःI वैपरीत्येन एते वर्णाः सबिन्दवो मन्त्रा भवन्ति॥२०॥२१॥
 
   जिह्वानामिति त्रिविधानामपि। तत्र प्रयोगःस्र्युँहिरण्यायै नमः लिङ्गे इत्यादि। कल्याणरेतसोऽग्नेः। अधिदेवता आह अमर्त्त्येति। अत्र जिह्वानामधिदेवताकथनं तत्तत्स्थानेषु न्यासार्थम्। तेन सुरेभ्यो नम इत्यादि। अन्ये तु
-
-
 
 **लोहितान्या करालाख्या काली तामस्य ईरिताः।  
 एताः सप्त नियुज्यन्ते क्रूरकर्म्मसु मन्त्रिभिः॥२६॥**
@@ -14864,8 +14161,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  वह्नेरिति। तनौ स्वशरीरे। आत्मन इत्यनुषज्यते। एवमग्रेऽपि। उक्तेन पूर्व्वपटलोक्तेन। सहस्रार्चिरादीनां चतुर्थ्यन्तत्वं सम्प्रदायात्। प्रयोगस्तु सहस्रार्चिषे हृदयाय नम इत्यादि॥२८॥२९॥
 
-
-
 **मूर्त्तीरष्टौ तनौ न्यस्येद् देशिको जातवेदसः।  
 मूर्द्धांसपार्श्वकट्यन्धु कटिपार्श्वांसके पुनः॥३०॥**
 
@@ -14901,8 +14196,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 अन्यत्रापि —
 
 **अथ दर्भैर्हरिधनददिशाग्रैः परिस्तीर्य्यकुण्डम्। इति॥३५॥**
-
-
 
 **निक्षिपेद्दिक्षु परिधीन् प्राचीवर्जं गुरूत्तमः।  
 प्रादक्षिण्येन सम्पूज्यास्तेषु ब्रह्मादिमूर्त्तयः॥३६॥**
@@ -14946,8 +14239,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  अग्न्यावरणपूजामाह मध्य इति। अनेन षट्कोणकर्णिकमष्टदलमग्निपीठमुक्तम्। ज्वालारुच इति जिह्वाध्यानम्। तदुक्तं प्रयोगसारे —
 
 **जिह्वाः सर्व्वाः परिज्ञेया ज्वालाभासाः स्वरूपतः। इति।**
-
-
 
 अपिर्भिन्नक्रमः। तत्र षट्षु कोणेषु मध्येऽपि जिह्वा यजेदिति सम्बन्धः। तत्र षट्सु कोणेषु ईशादि वायुकोणान्तं यथान्यासं षड्जिह्वाः सम्पूज्य यथान्यस्तां बहुरूपां मध्ये पूजयेदिति सम्प्रदायविदः। तदुक्तं सोमशम्भौ —
 
@@ -14994,8 +14285,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **मारणे निगदिता भुवि कृष्णा सुप्रभा बुधवरैरथ शान्त्याम्।**
 
-
-
 **दलेषु पूजयेन्मूर्त्तीः शक्तिस्वस्तिकधारिणीः।  
 लोकपालांस्ततो दिक्षु पूजयेदुक्तलक्षणान्॥४०॥**
 
@@ -15033,8 +14322,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 उक्तलक्षणान् प्राक्पटलोक्तस्वरूपान्॥४०॥
 
  पश्चादित्यनेन सूचितः तन्त्रान्तरोक्तोऽवश्यकर्त्तव्यो विशेषो लिख्यते। स्ववामभागे प्रागग्रान् कुशानास्तीर्य्य तेषामुपरि प्रणीताप्रोक्षणीपात्रे आज्यस्थालीचरुस्थाल्यौ स्रक्स्रुवौविस्रंसितौ कुशमूलकौपञ्चपलाशसमिधः एवमुक्तान्यन्यान्यपि पात्राणि द्वन्द्वशोऽधोमुखानि निधाय मूलेन पवित्रेण प्रोक्षितानि पात्राणि उत्तानीकृत्य प्रणीतापात्रं जलेनापूर्य्य तत्र तीर्थान्यावाह्य पवित्रमक्षतादि च निक्षिप्योत्पूय उत्तरस्यां दिशि संस्थाप्य तज्जलं किञ्चित् प्रोक्षणीपात्रे निधाय तेन जलेन नमोमन्त्रेण मूलमन्त्रेण वा सर्व्वं हवनीयद्रव्यजातं प्रोक्ष्य “अत्र कर्म्मणि कृताकतावेक्षकत्वेन त्वं ब्रह्मा भवेति” ब्रह्माणमावाह्याऽभ्यर्च्यासने उपवेशयेदिति। तदुक्तं संहितायाम्—
-
-
 
 **तदग्रमध्यमूलानि शोधयेत्तैर्यथाक्रमात्।  
 गृहौत्वा वामहस्तेन प्रोक्षयेद्दक्षिणेन तौ॥४२॥**
@@ -15077,8 +14364,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   स्रुक्स्रुवसंस्कारमाह आदायेति। आदानम् ऊर्द्ध्वमुखयोरेवेति ज्ञेयम्। तावधोमुखौ तापयेदित्युक्तेः। पाणिभ्यां दक्षिणवामाभ्यां। शोधयेदिति प्रत्येकम्। यथाक्रमादित्यस्यायमर्थः। दर्भमूलैस्तन्मूलं दर्भमध्यैस्तन्मध्यं दर्भाग्रैस्तदग्रमिति। दक्षिणेन दक्षिणहस्तेन। प्रोक्षयेदिति प्रोक्षण्युदकेन॥४१॥४२॥
 
-
-
 **पुनः प्रताप्य तौ मन्त्रीदर्भानग्नौ विनिक्षिपेत्।  
 आत्मनो दक्षिणे भागे स्थापयेत्तौ कुशास्तरे॥४३॥**
 
@@ -15119,8 +14404,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 अत एव ग्रन्थकृत्तत्र तत्र वक्ष्यति गव्येन सर्पिषा इति महिषीघृतसंप्लुता इति मेषीघृताक्ता इति च॥४४॥
 
-
-
 **निरुह्य वायव्येऽङ्गारान् हृदा तेषु निवेशयेत्।  
 इदं तापनमुद्दिष्टं देशिकैस्तन्त्रवेदिभिः॥४५॥**
 
@@ -15160,8 +14443,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   सन्दीप्येति। दर्भयुगलं सन्दीप्य हृदयमन्त्रेणाज्ये क्षिप्त्वा अनले क्षिपेदित्यन्वयः। नीराज्य इत्यभितः परिभ्राभ्य। स इति गुरुः। वर्म्मणेति कवचमन्त्रेण। वर्म्मणा आज्यं स नोराज्य इति सम्बन्धः। दर्भमिति दर्भयुग्मम्। अत्र संस्कारत्रये वक्ष्यमाण संस्कारद्वयेऽपि दर्भाणामग्नौ प्रक्षेपः प्रतिपत्तिकर्म्म। अतएव मन्त्राभावोपि तत्र ततश्च केनापि कारणेन तद्दर्भनाशे जाते सति अग्निप्रक्षेपरूपं कर्म्मदर्भाणां न प्रयोजकम्। एतच्चतुर्थाध्याये प्रतिपादितम्। अग्नौ तानिति।एवं स्रुक्स्रुवसंस्कारेऽपि॥४६॥४७॥४८॥
 
-
-
 **गृहीत्वा घृतमङ्गारान् प्रत्यूह्याऽग्नौ जलं स्पृशेत्।  
 अङ्गुष्ठोपकनिष्ठाभ्यां दर्भौप्रादेशसम्मितौ॥४९॥**
 
@@ -15198,8 +14479,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   यथाविधीत्युक्तं विधिमाह स्रुवेणेति। तद्वदिति स्रुवेण हृदयाणुना वामत आदायेति सम्बन्धः। हृदयाणुना मध्यादाज्यं समादायेति सम्बन्धः। हेति सम्पातयेद् भाग इति केचन पठन्ति। तत्र हेतिराहुतिशेषः। ये तु इति
 
-
-
 **जुहुयादग्नीषोमाभ्यां स्वाहेति हृदयाणुना।  
 हृन्मन्त्रेण स्रुवेणाज्यं भागादादाय दक्षिणात्॥५६॥**
 
@@ -15228,8 +14507,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   इत्यग्नीति। तेनाहुतिचतुष्टयेन नेत्रत्रयवक्त्राणामुद्घाटनम्। क्रमेणेत्यर्थः। सताराभिर्व्याहृतिभिरिति व्यस्तसमस्ताभिः। अतएव नारायणीये “पञ्चभिर्मनुभिर्हुनेत्” इति। पुनरनन्तरमिति उत्तरेण सम्बध्यते। अग्निमन्त्रेणेति वैश्वानरेति पूर्व्वोक्तेन। प्रणवेनेति पञ्चापि प्रणवा गृहीताः। देशिकोत्तम इत्यनेन तत्तन्मन्त्रेषु यथास्वं विनियोगो विज्ञेय इत्युक्तम्॥५८॥५९॥
 
   गर्भाधानादिका इत्यादिशब्दसंगृहीतमेवाह गर्भाधानमिति। पुनरनन्तरं जातकर्म्मअनन्तरं तथा नामकरणं स्यादिति सम्बन्धः। अनन्तरमित्यस्यायमर्थः I वक्ष्यमाणं पञ्चसमिद्धोमलक्षणं नालापनयनं कर्म्मकृत्वा सूतकं विशोध्य तथा
-
-
 
 **चौलोपनयने भूयो महानाम्न्यं महाव्रतम्।  
 अथोपनिषदं पश्चाद् गोदानोद्वाहकौमृतिः॥६२॥**
@@ -15280,8 +14557,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   तत इति। नामकरणानन्तरं तस्य वह्नेःपितरौ पूर्व्वोक्तौ। समिधः पञ्च जुहुयादिति। नालापनोदाय जातकर्म्मानन्तरमित्यर्थः। तदुक्तं शैवागमे —
 
-
-
 **मन्त्रैर्जिह्वाङ्गमूर्त्तीनां क्रमाद्वह्नेर्यथाविधि।  
 प्रत्येकं जुहुयादेकामाहुतिं म\[त\]न्त्रवित्तमः॥६५॥**
 
@@ -15320,8 +14595,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **पुनः सव्येन तौ धृत्वा शङ्खसन्निभमुद्रया।  
 समुद्गतोर्द्ध्वकायश्च समपादः समुत्थितः॥**
-
-
 
 **सामान्यं सर्व्वतन्त्राणामेतदग्निम\[मु\] खं मतम्।  
 ततः पीठं समभ्यर्च्य देवताया हुताशने॥६८॥**
@@ -15368,8 +14641,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  नाड़ीसन्धानमिति। अग्निदेवतात्मनां त्रयाणां नाड्येकीकरणम्। अङ्गमुख्यानामा-वृतीनामिति प्रकृतदेयमन्त्रदेवताया इत्यर्थः। अत्राप्यङ्गेत्यादि सम्भवाभिप्रायम्। सम्यगित्यनेन यत्राङ्गावृतेराद्यत्वं नास्ति तत्र यथावृत्ति-
 
-
-
 **जुहुयादङ्गमुख्यानामावृतीनामनुक्रमात्।  
 एकैकामाहुतिंसम्यक् सर्पिषा देशिकोत्तमः॥७२॥**
 
@@ -15404,8 +14675,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **अन्धो बुधः सधूमे च जुहुयाद् यो हुताशने।  
 यजमानो भवेदन्धः सपुत्र इति च श्रुतिः॥ इति।**
-
-
 
 **ततः सुधौतदन्तास्यं स्नातं शिष्यं समाहितम्।  
 पाययित्वा पञ्चगव्यं कुण्डस्याऽन्तिकमानयेत्॥७६॥**
@@ -15450,8 +14719,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **तत्र शब्दास्त्रयो धातुस्त्रयस्त्वर्थाः समीरिताः। इति।**
 
-
-
 **निवृत्त्याद्याः कलाः पञ्च कलाध्वेति प्रकीर्त्तितः।  
 तत्त्वाध्वा बहुधा भिन्नः शिवाद्यागमभेदतः॥७९॥**
 
@@ -15495,8 +14762,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   शुद्धाशुद्धानीति। कारणत्वेन मलत्रयराहित्याच्छुद्धत्वम् कार्य्यरूपत्वेन तद्युक्तत्वादशुत्वम्। तदुक्तं वायवीयसंहितायाम्—
 
-
-
 **शैवानामिति तत्त्वानां विभागोऽत्र प्रदर्शितः।  
 जीवप्राणधियश्चित्तं ज्ञानकर्म्मेन्द्रियाण्यथ॥८५॥**
 
@@ -15538,8 +14803,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 वर्णसङ्घः सबिन्दुवर्णाः। वायवीयसंहितायान्तु —
 
-
-
 **क्रमादेतानध्वनः षट् शोधयेद् गुरुसत्तमः।  
 पदान्धुनाभिहृद्भालमूर्द्धस्वपि शिशोः स्मरेत्॥९२॥**
 
@@ -15571,8 +14834,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 ॐ अमुष्य कलाध्वानं शोधयामि स्वाहा इत्यादि॥९२॥९३॥९४॥
 
   शिवे सहस्रारस्थिते इति पूर्व्वेण सम्बध्यते। क्रमादित्यग्रिमम्। पूर्व्वस्मिन्निति शिवपर्य्यन्तम्। शिवात् सृष्टिमार्गतस्तान् जनयेदिति सम्बन्धः। सृष्टिमार्गतः
-
-
 
 **विलोकयन् दिव्यदृष्ट्या तं शिशुं देशिकोत्तमः।  
 आत्मस्थितं तच्चैतन्यं पुनः शिष्ये नियोजयेत्॥९६॥**
@@ -15612,8 +14873,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **पुनः समापयेद्धोमं महाव्याहृतिपूर्व्वकम्। इति।**
 
 विभावसोर्जिह्वादीनाम् इत्यादिशब्देन अधिदेवताङ्गमूर्त्तिलोकपालतदायुधानि। परिषिच्येति पावकमिति सम्बध्यते। अद्भिः प्रोक्षण्युदकैरित्यर्थः॥
-
-
 
 **पावकं योजयित्वा स्वे परिधीन् सपरिस्तरान्।  
 नैमित्तिके दहेन्मन्त्रीनित्ये तु न दहेदिमान्॥९९॥**
@@ -15665,8 +14924,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 अष्टोत्तरशतं शान्त्यै जुहुयादस्त्रमन्त्रतः॥ इति॥ १००॥१०१॥**
 
   आत्मयागक्रमाद्वक्ष्यमाणप्रपञ्चयागक्रमेणेति केचित्। साम्प्रदायिकास्तु आत्मयागः अन्तर्यागः तत्क्रमात् तत्रोक्तभूतशुद्धिक्रमेणेत्यर्थः। तत्र भूतसंहारस्य
-
-
 
 **तत्तन्मन्त्रोदितान् न्यासान् कुर्य्याद् देहे शिशोस्तदा।  
 पञ्चोपचारैः कुम्भस्थां पूजयित्वेष्टदेवताम्॥१०३॥**
@@ -15722,8 +14979,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 पीठस्थं चतुरस्रायां वेद्यां दर्भाग्रपाणिना।  
 अभिषिञ्चेत् स्वयं शिष्यमात्मतत्त्वानुवर्त्तिनम्॥ इति।**
 
-
-
 **नदत्सु पञ्चवाद्येषु सार्द्धंविप्राशिषा गुरुः।  
 विधिवत् कुम्भमुद्धृत्य तन्मुखस्थान् सुरद्रुमान्॥१०५॥**
 
@@ -15767,8 +15022,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 सुसाधितैरित्यनुवादमात्रम् उभयत्रापि। पूजितामित्यप्यनुवादः। अञ्जसा तत्त्वेन। ॥१०५॥१०६॥१०७॥
 
   अवशिष्टेनेति अभिषेकावशिष्टकलशस्थेन। देवतात्मानमभिषेकेन। सन्निधौ समीपे।संक्रान्तामित्यभिषेकेन। देशिकोत्तम इत्यनेनाद्यशब्देन धूपदीपे एव ग्राह्ये इत्युक्तम्। तयोरिति शिष्यदेवतयोः। तत इत्यनेन शिष्यमूर्द्धनि हस्तं दत्त्वाऽष्टोत्तरशतं मन्त्रं जपेदिति सूचितम्। तदुक्तं वशिष्ठ-
-
-
 
 **देवतामात्मनः शिष्येसंक्रान्तां देशिकोत्तमः।  
 पूजयेद् गन्धपुष्पाद्यैरैक्यं सम्भावयंस्तयोः॥११०॥**
@@ -15823,8 +15076,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **त्वत्प्रसादादहं देव कृतकृत्योऽस्मि सर्व्वतः।  
 मायामृत्युमहापाशाद् विमुक्तोऽस्मि शिवोऽस्मि च॥**
-
-
 
 **तस्य पादाम्बुजद्वन्द्वंनिजमूर्द्धनि योजयेत्।  
 शरीरमर्थं प्राणञ्च सर्व्वं तस्मै निवेदयेत्॥११३॥**
@@ -15886,8 +15137,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **स्नानसन्ध्ये सदाचारं नित्यं काम्यं तथैव च।  
 मन्त्रसिद्धिप्रकारांश्च शिष्यायाऽभिवदेद् गुरुः॥**
 
-
-
 इति मन्त्रतन्त्रप्रकाशे। अन्यत्रापि —
 
 **अभिवन्द्य ततः शृणोतु सम्यक् समयान् भक्तिभरावनम्रमूर्त्तिः। इति।**
@@ -15934,8 +15183,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 धारयेदार्जवं सत्यं सौशील्यं समतां धृतिम्॥**
 
 **क्षान्तिं दयामनास्थाञ्च दिव्यां शक्तिञ्च सर्व्वदा।**
-
-
 
 **अत्रोक्तान् यः सदा ह्येताद्वैहिकामुष्मिकोचितान्॥**
 
@@ -15987,8 +15234,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **अहङ्कारं न कुर्व्वीत नोल्वणं धारयेद्वपुः।**
 
-
-
 **ततः प्रभृति कुर्व्वीत गुरोः प्रियमनन्यधीः।  
 ऋत्विग्भ्यो दक्षिणां दत्त्वा समग्रां प्रीतमानसः॥११४॥**
 
@@ -16035,8 +15280,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   क्रमप्राप्तां वर्णात्मिकां दीक्षामाह अथेति। तत्तदिति। देशिकोत्तमः तच्चैतन्यं शिष्यचैतन्यं परमात्मनि संयोज्य देवताभावात् स्वस्य देवतात्वात् अतएव आज्ञासिद्धत्वात्। स्वस्याज्ञयाविधिना प्रतिलोमेन वर्णस्थानोभयप्रातिलोम्येन तत्तत्-
 
-
-
 **यतस्तस्मात्तनौ न्यस्येद् वर्णान् शिष्यस्य देशिकः।  
 तत्तत्स्थानयुतान् वर्णान् प्रतिलोमेन संहरेत्॥११७॥**
 
@@ -16075,8 +15318,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 सङ्कल्प्य शक्त्यात्मकमात्मरूपं तच्चिह्नमात्मन्यपि सन्दधीत॥ इति॥११६
 -१२०॥**
 
-
-
 **एषा वर्णमयीदीक्षा प्रोक्ता सम्वित्प्रदायिनी।  
 ततः कलावती दीक्षा यथावदभिधीयते॥१२१॥**
 
@@ -16107,8 +15348,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   वेधमयींदीक्षामाह तत इति। तनोर्मध्ये मूलाधारे त्रिकोणमध्ये व्यधिकरण्यः सप्तम्यः। शिष्यतनोर्मध्ये चतुर्दले मूलाधारे त्रिकोणमध्ये एवम्भूतां शक्तिं ध्यायेदिति सम्बन्धः। कीदृशीं शक्तिं वलयत्रयसंयुक्ताम्। अत्र यद्यपि शक्तेरपरिमितानि वलयानि तथापि वेदत्रयादेः प्रधानतमसृष्टेर्वलयत्रयादुत्पत्तेस्तदुक्तिः। पुनः कीदृशीम्। षट्चक्रं भित्त्वा मध्यमार्गेण सुषुम्नामार्गेण परशिवावधि
 
-
-
 **शिवशक्तिमयींदेवींचेतनामात्रविग्रहाम्।  
 सूक्ष्मां सूक्ष्मतरां शक्तिं भित्त्वा षट्चक्रमञ्जसा॥१२९॥**
 
@@ -16136,8 +15375,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **![](../books_images/U-IMG-1727693249Screenshot2024-08-10134504.png)**
 
 गच्छन्तीम्। षट्चक्राणि तु मूलाधारस्वाधिष्ठान मणिपूरकानाहत विशुद्धाज्ञाख्यानि। कमलासने ब्रह्मणि आधाराधिष्ठातृदेवतायाम्। एवं विष्ण्वादयः स्वाधिष्ठानाद्यधिष्ठातृदेवाः ज्ञेयाः। तं ब्रह्माणम्। तान् वर्णान् बादिलान्तान्। तं विष्णुं नाभिपङ्कजे मणिपूरके योजयेत्। ततो वेधयेदित्यनुषङ्गः। तान् वर्णान् डादिफान्तान्। तं रुद्रम्। अर्कपत्राट्ये द्वादशपत्राट्ये। हृदयाम्बुजे अनाहते योजयित्वा वेधयेदित्यनुषङ्गः। गुरुस्तान् वर्णान् कादिठान्तान् ईश्वरे संहरेदित्यन्वयः। भूयोऽनन्तरमीश्वरमस्मिन् कण्ठपङ्कजे विशुद्धौ योजयित्वा वेधयेदित्यनुषङ्गः। तान् स्वरान् सदाशिव संहृत्येत्यन्वयः। तं सदाशिवं भ्रूसरोरुहे आज्ञायां योजयित्वा वेधयेदित्यनुषङ्गः। अग्रे नियोजयेदित्यादेर्वेधयेदित्यर्थः। तदर्णौ हक्षौ। बिन्दौ शिवे। बिन्दुः शिवात्मकः इत्युक्तेः। तं शिवम्। कलादीनि भ्रूमध्यादु-
-
-
 
 **तमुन्मन्यां समायोज्य विधु\[ष्णु\] वक्त्रान्तरे च ताम्।  
 तां पुनर्गुरुवक्त्रे तु योजयेद् देशिकोत्तमः॥१३७॥**
@@ -16177,8 +15414,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 स्मार्त्ती मानसिको यौगीचाक्षुषी स्पार्शनी तथा॥**
 
 **वाचिकीमन्त्रिकीहौत्री शास्त्री चेत्याभिषेचिकी।**
-
-
 
 **विदेशस्थं गुरुः स्मृत्वा शिष्यं पाशत्रयं क्रमात्॥**
 
@@ -16226,8 +15461,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **शिवञ्च शिवपत्नीञ्च कुम्भे सम्पूज्य सादरम्।  
 शिवकुम्भाभिषेकात् सा दीक्षा स्यादाभिषेचिकी॥ १२७ – १४०॥**
 
-
-
 **अथाऽत्र होमद्रव्याणां प्रमाणमभिधीयते।  
 कर्षमात्रं घृतं होमे शुक्तिमात्रं पयः स्मृतम्॥१४१॥**
 
@@ -16267,8 +15500,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **विशीर्णाऽऽयुःक्षयं कुर्य्याद् द्विदला व्याधिसम्भवम्।  
 ह्रस्वायां मृत्युमाप्नोति वक्रा विघ्नकरी तथा॥**
 
-
-
 **त्रिधा कृतं फलं बिल्वं कपित्थं खण्डितं त्रिधा।  
 उर्वारुकफलं होमे चोदितं खण्डितं त्रिधा॥१४७॥**
 
@@ -16307,8 +15538,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **खण्डत्रयन्तु मूलानां सूक्ष्माणि पञ्च होमयेत्।  
 कन्दानामष्टमं भागं लतानामङ्गुलद्वयम्॥ इति। १४१-१५२॥**
-
-
 
 **वैश्वानरं स्थितं ध्यायेत् समिद्धोमेषु देशिकः।  
 शयानमाज्यहोमेषु निषण्णंशेषवस्तुषु॥१५३॥**
@@ -16357,8 +15586,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 जुहुयाच्चेत् तदा क्षिप्रं तदङ्गानि विनाशयेत्॥ इति। १५३ - १५६॥**
 
 क्षौद्रं मधु। स्वर्णकुङ्कुमक्षौद्रसन्निभो वर्णःशोभन इति। आकृष्टाविति ज्ञेयम्।
-
-
 
 **भेरीवारिदहस्तीन्द्रध्वनिर्वह्नेःशुभावहः।  
 नागचम्पकपुन्नागपाटलायूथिकानिभः॥१५८॥**
@@ -16410,8 +15637,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 छत्राभा इत्युपलक्षणम्। “छत्राकारभुजः श्रेष्ठो ध्वजचामरसन्निभः” इत्युक्तेः॥
 
-
-
 **श्वेतो राष्ट्रं निहन्त्याशु वायसस्वरसन्निभः।  
 खरस्वरसमो वह्नेः ध्वनिः सर्व्वविनाशकृत्॥१६२॥**
 
@@ -16458,8 +15683,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **स्निग्धः प्रदक्षिणावर्त्तः सुशब्दश्चापि यो भवेत्।  
 वेद्यः सोऽर्थप्रसिद्ध्यर्थमन्यथा विघ्नकारकः॥**
 
-
-
 **एवंविधेषु दोषेषु प्रायश्चित्ताय देशिकः।  
 मूलेनाज्येन जुहुयात् पञ्चविंशतिमाहुतीः॥१६५॥**
 
@@ -16478,8 +15701,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 पदार्थादर्शाभिख्यायां पञ्चमः पटलः॥ॐ॥**
 
 **![](../books_images/U-IMG-1727710866Screenshot2024-08-25122041.png)**
-
-
 
 **षष्ठः पटलः।**
 
@@ -16513,8 +15734,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   अक्लीबेति। क्लीबा नपुंसकाः ऋ ऋृ ऌ ॡ तद्रहिताः अक्लीबा ये ह्रस्वदीर्घाः अ इ उ ए ओ अं एते ह्रस्वाः परे षट् दीर्घाः तदन्तर्गतैस्तन्मध्यस्थैः। षट् च ते वर्गाश्च
 
-
-
 **पञ्चाशल्लिपिभिर्विभक्तमुखदोःपन्मध्यवक्षःस्थलां  
 भास्वन्मौलिनिबद्धचन्द्रशकलामापीनतुङ्गस्तनीम्।  
 मुद्रामक्षगुणं सुधाढ्यकलशं विद्याञ्च हस्ताम्बुजै-  
@@ -16545,8 +15764,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **वाममुष्टिः स्वाभिमुखी बद्ध्वापुस्तकमुद्रिका। इति।**
 
 विशदप्रभां शुभ्रवर्णाम्। इदं वस्त्राङ्गरागमाल्यानामुपलक्षकम्। एवमग्रेऽपि सर्व्वत्र वर्णवाचकेषु द्रष्टव्यम्। ऊर्द्ध्वादि आद्ये दक्षिणे परे वामे इत्यायुधध्यानम्। अत्र ध्यानानन्तरमायुधमुद्राः प्रदर्शयेत्। एवमग्रेऽपि सरस्वतीमन्त्रान्तं ज्ञेयम्। प्रत्यक्षरध्यानं तन्त्रान्तरोक्तं यथा—
-
-
 
 **चामीकरनिभः शूलगदाराजद्भुजाष्टकः।  
 चतुरास्योऽतिकायःस्यादकारः कूर्म्मवाहनः॥**
@@ -16593,8 +15810,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **पाशतोमरहस्तः खो मेषसंस्थो निरोधनः।  
 योजनानां सहस्रेण मितः कृष्णो विभीषणः॥**
 
-
-
 **पाशाङ्कुशकरः पद्मे फणिसंस्थोऽरुणप्रभः।  
 गकारःसर्पभूषः स्याच्छतयोजनसंस्थितः॥**
 
@@ -16640,8 +15855,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **कण्ठीरवसिताम्भोजे निषण्णश्चञ्चलः सितः।  
 षड़ास्यो द्विभुजो बः स्याद्दशकोटिमितोऽरुणः॥**
 
-
-
 **ललाटमुखवृत्ताक्षिश्रुतिघ्राणेषु गण्डयोः।  
 ओष्ठदन्तोत्तमाङ्गास्यदोःपत्सन्ध्यग्रकेषु च॥५॥**
 
@@ -16680,8 +15893,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **मूर्त्तिभेदा यथाऽर्णानां मयाऽत्र प्रतिपादिताः॥ इति॥४॥**
 
   अक्षरन्यासस्थानान्याह। ललाटे केशान्ते। केशान्ताननवृत्त इत्युक्तेः। मुखवृत्तेत्येकं स्थानम्। दक्षिणावर्त्तेन अक्ष्यादि गण्डान्तं दक्षादि। ओष्ठदन्तयोरूर्द्ध्वादि। आस्ये तदन्तः जिह्वायामित्यर्थः। दोःपदोर्दक्षादि। दोःपत्सन्ध्यग्राणि च पञ्च शेषयोरङ्गुलिसन्धित्वात्। पार्श्वयोर्दक्षादि। अंसक इति दक्षांसे। ककुदि ग्रीवायाम्। अंस इति वामे। हृत्पूर्व्वंपाणिपादयुग इति स्थानचतुष्टयम्। जठराननयोरित्यत्रापि हृत्पूर्व्वमिति सम्बध्यते। तदुक्तं
-
-
 
 **वा\[या\]दिहा\[सा\]न्तान् न्यसेदात्मपरमज्ञानपूर्व्वकान्।  
 दीक्षितः प्रोक्तमार्गेण न्यसेल्लक्षंसमाहितः॥८॥**
@@ -16725,8 +15936,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 स्थानेषु क्रमतो न्यस्य पूर्वोक्तेषु जपेल्लिपिम्॥  
 पञ्चाशत्संख्यया नित्यं यावल्लक्षं प्रपूर्य्यते। इति।**
 
-
-
 **व्योमेन्द्वौरसनार्णकर्णिक्रमचां द्वन्द्वैःस्फुरत्केशरं  
 पत्रान्तर्गतपञ्चवर्गयशलार्णादित्रिवर्गं क्रमात्।  
 आशास्वस्त्रिषु लान्तलाङ्गलियुजा क्षौणीपुरेणावृतं  
@@ -16761,8 +15970,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   पीठमन्त्रमुद्धरति वर्णाब्जेनेति। ह्सौः मातृकायोगपीठाय नमः इति मन्त्रेणासन-
 
-
-
 **आवाह्य पूजयेत् तस्यां देवीमावरणैः सह।  
 अङ्गैरावरणं पूर्व्वं द्वितीयं युग्मशः स्वरैः॥१३॥**
 
@@ -16795,8 +16002,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **वर्णमन्त्रयुताः प्रोक्तलक्षणाः सर्व्वसिद्धिदाः। इति।**
 
 अनन्तरमिति चतुर्थम्। मातृभिरिति पत्राग्रे। लोकेश्वरैरायुधैश्चेति पद्माद्बहिर्भूपुरे। \[शान्तिनीत्यत्र शङ्खिनीति पाठोऽपि दृश्यते \]॥१३॥१४॥१५॥१६॥१७॥१८॥
-
-
 
 **दण्डं कमण्डलुं पश्चादक्षसूत्रमथाऽभयम्।  
 बिभ्रतीकनकच्छाया ब्राह्मीकृष्णाजिनोज्ज्वला॥१९॥**
@@ -16832,8 +16037,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 चामुण्डायां प्रेत इति ज्ञेयम्। वाराहीवराहवक्त्रा। चामुण्डा निर्मांसा ध्येया। आसु च कौमारी-वैष्णवी-इन्द्राणी-महालक्ष्म्यो द्विनेत्राः अन्यास्त्रिनेत्राः। आसां बीजानि तन्त्रान्तरोक्तानि। यथा—
 
-
-
 **पूजयेन्मातृकामित्थं नित्यं साधकसत्तमः॥२७॥**
 
 **भ्यसेत् सर्गान्वितान् सृष्ट्या ध्यात्वा देवीं यथाविधि।  
@@ -16865,8 +16068,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 अत्र केचित् सृष्टौ अकारादि ठकारपर्य्यन्तं न्यासं कारयन्ति। स्थितौडकारादि क्षकार पर्य्यन्तं। तदविचारितरमणीयम्। समस्तमातृकावृत्तेर्न्यासत्वात्। अत्रेति स्थितिन्याये॥२८॥२९॥
 
   पार्श्वंवामम्। आयुधध्यानम् ऊर्द्ध्वादि। दक्षे अक्षमालावरौवामे मृगपोतधिक्ये
-
-
 
 **अभ्यर्चनादिकं सर्व्वं विदध्यात् पूर्व्ववर्त्मना।  
 बिन्दुयुक्तामिमां न्यस्येत् संहृत्या प्रतिलोमतः॥३१॥**
@@ -16907,8 +16108,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   कलान्यासमाह तारोत्थाभिरिति। प्रणवपञ्चभेदसमुत्पन्नाभिः तृष्णादिभिः
 
-
-
 **वर्णाद्यास्तारसंयुक्ता न्यस्तव्यास्ता नमोऽन्विताः।  
 ऋषिः प्रजापतिश्छन्दो गायत्रं समुदाहृतम्॥३५॥**
 
@@ -16931,8 +16130,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   श्रीकण्ठमातृकामाह तार्त्तीयेति। तार्त्तीयं भैरव्याः द्वादशे वक्ष्यमाणम्। केचन रेफवर्जितं तद्वदन्ति। अयमेव साम्प्रदायिकः पक्षः। यतो मातृकाब्ज-
 
-
-
 **सधातुप्राणशक्त्यात्मयुक्ता यादिषु ते क्रमात्।  
 ऋषिः स्याद्दक्षिणामूर्त्तिर्गायत्रं छन्द ईरितम्॥३९॥**
 
@@ -16941,8 +16138,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 कर्णिकाबीजमेवं संगृहीतं भवति। भैरवीत्रिंशद्भेदमध्ये एकस्य भेदस्य तार्त्तीयं रेफवर्जितं भवत्येव। ग्रन्थकृदत एव षड़ङ्गावसरे हसा षड्दीर्घयुक्तेन इति वक्ष्यति। न्यसेदित्युक्तस्थानेषु। साम्प्रदायिकास्तु प्रणवशक्तिप्रासादपञ्चाक्षरीयोगमाहुः। रुद्रसंयुतामिति सशक्तिकश्रीकण्ठादिसहिताम्। नमोऽन्तामित्यनेन चतुर्थीयोगोऽप्युक्तः। ह्सौ अं श्रीकण्ठेशपूर्णोदरीभ्यां नमः केशान्ते इत्यादि प्रयोगः। अयं साम्प्रदायिकः पक्षः। अत्र ग्रन्थकृता छन्दोऽनुरोधादीशशब्दः क्वचिन्नदत्तः। न्यासावसरे सोऽवश्यं देय इति। केचित्तु पूर्णोदरीसहिताय श्रीकण्ठाय नमः इति वदन्ति। अन्ये तु पूर्णोदर्य्यै श्रीकण्ठाय नमः इत्याहुः। तदुभयमतेऽपि रुद्राणां प्राधान्यमिति ते वदन्ति। पूर्णोदरीश्रीकण्ठाभ्यां नमः इत्यपि केचिदिच्छन्ति। तत्पक्षत्रयमप्यसाम्प्रदायिकम्। सहितशब्दस्याऽनुक्तस्याऽधिकस्य प्रथमपक्षे प्रयोगः। द्वितीयपक्षे उभयत्र चतुर्थ्यनुपपन्ना। एकत्र नमोयोगात् प्राप्यते अन्यत्र प्रापकाभावात्। पक्षत्रये च रुद्रसंयुताम् इत्युक्तत्वात् मातृकाया रुद्रैः सहाऽव्यवधानेन संयोगो न भवति। अतः साम्प्रदायिकः पक्ष एव ज्यायान्। अपेक्षितार्थद्योतनिकाकारस्तु श्रीकण्ठेशाय पूर्णोदर्य्यै नमः इति प्रयोगमाह स्म। तदप्ययुक्तम्। यतो ध्याने अग्नीषोमादिवत् समुच्चितयोरेव देवतात्वं प्रतीयते। अस्मिंश्च प्रयोगे देवतयोः समुच्चितत्वम्। पृथक्चतुर्थीनिर्देशेनेतरेतरनिरपेक्षयोरेव तत्प्रतीतेः। किञ्च। यदग्नये च प्रजापतये च सायं जुहोतीत्यत्र शब्दद्वयकृत परस्परापेक्षयोः प्रत्येकं क्रियान्वयाभावेऽपि देवतासमुच्चयस्येष्टत्वात्। अत्र तु तदभावेन प्रत्येकं नमोऽन्वयात् सुतरां तत्समुच्चया प्रतीतिः। तेन होमादावपि श्रीकण्ठेशपूर्णोदरीभ्यां स्वाहेत्येकैवाहुतिः। एवं केशवादिकामगणेशन्यासेष्वपि द्रष्टव्यम्। यत्तु क्वचित् केशवाय च कोर्त्तैचेत्युद्धारः स छन्दोऽनुरोधेनेति ज्ञेयम्॥३८॥
 
   सधात्विति। ते रुद्रा यादिषु यकारादिषु दशसु व्यापकेषु। धातवः त्वगसृङ्मांसमेदोऽस्थिमज्जाशुक्राणि प्राणःशक्तिरात्मा च एतद्युक्ताः क्रमात् ज्ञेयाः। अत्र यद्यपि रुद्रपदं समासगर्भितं तथापि सर्व्वनाम्ना परामृश्यते। “सर्व्वनाम्नानु वृत्तिर्वत्तिच्छन्नस्य” इति वामनसूत्रात्। प्रयोगस्तु। ह्सौः यं त्वगात्मभ्यां वालीशसुमुखीश्वरीभ्यां नमः हृदये इत्यादि। अन आत्मशब्दः सम्प्रदायात् प्रयुज्यते। ग्रन्थान्तरे आत्मशब्दस्थाने क्रोधशब्दमुक्त्वाआत्मशब्दः सर्व्वत्र प्रयोक्तव्य इत्युक्तम्।
-
-
 
 **अर्द्धनारीश्वरः प्रोक्तो देवता तन्त्रवेदिभिः।  
 हसा षड्दीर्घयुक्तेन कुर्य्यादङ्गानि देशिकः॥४०॥**
@@ -16960,8 +16155,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 आचार्य्यास्तु —
 
  तावपि धातवो याद्याः सप्तसमीरणश्च सपरःक्षः क्रोध इत्यम्बिके। इति। अत्र क्षकारस्य नरसिंहबीजत्वात् क्रोधशब्दोक्तिः। पद्मपादाचार्यैः प्रथमपद्यव्याख्याने विरचितेत्यादिना मातृकास्थानोक्तिराख्यायते। एभिरिति सप्त धातवः हृच्छब्देन प्राणः शक्तिश्चाभिहिता। कशब्देन सुखार्थेन परमात्मोक्त इति यादिन्यासस्थानानीत्युक्तम्। तन्मतानुसारेणेह मूलकारेण आत्मग्रहणं कृतम्। ननु त्वगादिपरमात्मान्तस्य देवतात्मनो यादिन्यासेनैव साधकशरीरे सन्निधाने सति किमवशिष्टाक्षरन्यासेनेति। देवतावयवविशेषरचनाकल्पनेति ब्रूमः। न च प्रथमं सामान्यकल्पना पूनर्विशेषकल्पनेति नियमोऽस्ति। येन लिपिन्यासस्य क्षकारादित्वं स्यात्। सर्व्वत्र नित्यमेव सामान्यविशेषरूपं हि देवताशरीरम्। तस्य साधकशरीरे सन्निधिर्न्यासेनोत्पाद्यते। अतः प्रथममकारादिन्यासेन अवयवविशेषसन्निधिस्मरणे न कश्चिद्दोषः। न च संहारक्रमेण मातृकान्यासे प्रथमं सामान्यसंहारः पश्चाद्विशेषसंहार इति क्रमकोपः। उभयोरप्यात्मन्येव संहारात्। न च सामान्यसंहारेणैव संहृतत्वात् विशेषाणां पृथक्संहरणमनर्थकम्। विशेषसंहारक्रमचिन्तायाः कर्त्तव्यत्वात्। षड्दीर्घाः आ ई ऊ ऐ औ अः। तद्युक्तेन हसा हकारसकारेण देशिक इत्यनेन मिलितेन इत्युक्तम्। प्रयोगस्तु। हसां हृदयाय नम इत्यादि। अन्ये तु हसामादिकानि मातृकाङ्गानि एवमिच्छन्ति। साम्प्रदायिकास्तु प्रणवमायालक्ष्मीपञ्चाक्षरी-ब्रह्माणिमाहेश्वरिकौमारिवैष्णविवाराहीन्द्राणीःस्वबीजाद्याः रक्षयुग्मान्ता अमुकवाहनेप्रमुखरक्षयुग्मान्ता अमुकहस्तेप्रमुखमांरक्षयुग्मान्ता दीर्घत्रयाक्रान्तमायापुटित-मातृकाङ्गानि तार्तीयञ्च सञ्जीवनि ऊर्द्ध्वकेशिनि जटिलकेशिनि विस्वरूपिणि ताराक्षिणि द्विः मारय शब्दानुच्चार्य्य हृदयादीन्युच्चारयेत् इति। प्रयोगस्तु। ॐ ह्रीँ श्रीँ नमः शिवाय नमः हँ ब्रह्माणि रक्ष रक्ष हंसवाहने रक्ष रक्ष पद्महस्ते मां रक्ष रक्ष ह्राँह्रीँ ह्रूँअं कं खं गं घं ङं आँह्राँह्रीँह्रूँ ह्सौः सञ्जीवनि हृदयाय नमः इत्यादि। बीजानि तु माँ कँ क्रोँ हुँ इँ। आयुधानि पद्मशूलशक्तिचक्रगदावज्राणि। व्यापकमन्त्रस्तु ॐ ह्रीं श्रीं नमः शिवाय हूं चामुण्डे रक्ष रक्ष वेतालवाहने रक्ष रक्ष पाशहस्ते मम सर्व्वाङ्गं रक्ष रक्ष ह्राँ ह्रीँ ह्रूँ ह्रस्वषट्कं आदिक्षान्तंदीर्घषट्कमुच्चार्यह्राँ ह्रीँ
-
-
 
 **बन्धूककाञ्चननिभं रुचिराक्षमालां  
 पाशाङ्कुशौ च वरदं निजबाहुदण्डैः।  
@@ -17003,8 +16196,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   केशवादिमातृकान्यासमाह स्मराद्यामिति कामबीजाद्याम्। साम्प्रदायिकास्तु
 
-
-
 **सधातुप्राणशक्त्यात्मयुक्ता यादिषु विष्णवः।  
 ऋषिः प्रजापतिः प्रोक्तो गायत्रं छन्द ईरितम्॥४३॥**
 
@@ -17031,8 +16222,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **केशवादिरयं न्यासान्यासमात्रेण देहिनाम्।  
 अच्युतत्वं ददात्यव सत्यं सत्यं न चान्यथा॥ इति॥४५॥**
-
-
 
 **अत्राऽर्चनादिकं सर्व्वं प्राग्वन्मन्त्रीसमाचरेत्।**  
 **शक्तिपूर्व्वांतनौ न्यस्येन्मातृकां मन्त्रवित्तमः॥४६॥**
@@ -17065,8 +16254,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   उद्यदिति। मञ्जीरो नृपुरः। जपवटीमक्षमालाम्।आयुधध्यानं दक्षे ऊर्द्ध्वादि अङ्कुशाक्षमाले परे वामे।उक्तञ्च पद्मपादाचार्य्यैः —अक्षसूत्राङ्कुशपाशपुस्तककरा ध्येया इति॥४९॥
 
   समस्तसम्पदामादिरिति विनियोगोक्तिः। प्राक्प्रस्तुतेनेति पूर्व्वाक्तेन मार्गेण षड्दीर्घयुक्तेनेत्यर्थः। बीजेन श्रीबीजेनेत्यर्थः। तेन श्रांश्रीमित्यादि षड़ङ्गम्। एतदादीनि मातृकाङ्गानि वा॥५०॥५१॥५२॥
-
-
 
 **बिभ्राणां करपङ्कजैर्जपवटींपद्मद्वयं पुस्तकं  
 भास्वद्रत्नसमुज्ज्वलां कुचनतां ध्यायेज्जगत्स्वामिनीम्॥५३॥**
@@ -17106,8 +16293,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   बालेति। विद्यां पुस्तकम्। अक्षमालां पञ्चवणान् दक्षे अधस्तनादि। वामे पुस्तकचापौ। इत्यायुधध्यानम्। तदुक्तं पद्मपादाचार्य्यैः —अक्षस्रक्शरचापपुस्तकधरा ध्येया इति॥५७॥५८॥
 
-
-
 **ऋषिःपूर्व्वोदितश्छन्दो गायत्रं देवता बुधैः।  
 सम्मोहनी समुद्दिष्टा सर्व्वलोकवशङ्करी॥५९॥**
 
@@ -17144,8 +16329,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   तारशक्त्यादिकामिति। आत्मा परमात्ममन्त्रः। अजपायाः पूर्व्वमुक्तत्वात्। द्विठःस्वाहा। प्रतिवर्णमादौ तारमाये अन्ते त्वजपादयः। ॐ ह्रीं अं हंसः
 
-
-
 **ऋषिर्ब्रह्मा समुद्दिष्टश्छन्दो गायत्रमीरितम्।  
 समस्तवर्णसव्याप्तपरं तेजोऽस्य देवता॥६५॥**
 
@@ -17171,8 +16354,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 ह्रि ह्र इति केचित्।६६॥
 
   तारादीति। तत् प्रसिद्धं परं तेजः ब्रह्म अनिशं सर्व्वदा भजत। अन्येषां तेजसामेतद्वाप्यत्वादस्य परत्वम्। सान्द्रसुधांश धाम्बु\] राशिमिति व्यस्तरूपकम्। तेन पुंलिङ्गत्वदोषोऽपि न। अङ्गुल्यः पल्लवान्यासन् इतिवत्। एतेनानन्दमयत्वं ध्वनितम्। अच्युतम् अविकारि। अविनश्वरमविध्वंसि। समस्तगं व्यापकम्। चित् स्वप्रकाशज्ञानरूपम्। सत् सत्तात्मकम्। “सद्धीदं सर्व्वं सत्सत्” इति “चिद्धीदं सर्व्वं काशते ” इति श्रुतेः। जगदेकमूलं तत्परिणामरूपत्वाद्जगतः। मानैरगम्यम्। “यतो वाचो निवर्त्तन्ते” इति श्रुतेः। अत एवाह एतैः
-
-
 
 **पञ्चभूतमया वर्णा वर्गशःप्रागुदीरिताः।  
 तस्माज्ज्ञानेन्द्रियात्मानः प्रपञ्चं तन्मयं विदुः॥६८॥**
@@ -17211,8 +16392,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 वासवादिदिशां नाथैः पञ्चमीत्वायुधैः परा॥ इति॥६७॥**
 
   प्रपञ्चयागं वक्ष्यामीत्युक्तम्। तत्र प्रपञ्च इज्यते हूयते यत्रेति प्रपञ्चयागः। तमेव होमप्रकारं वदन् न्यासान्तरमपि सूचयति पञ्चभूतेति। प्रागिति द्वितीये। ज्ञानेन्द्रियात्मान इत्युपलक्षणम्। तेनाकाशवर्णाः। ज्ञानकर्म्मेन्द्रियात्मानः वायुवर्णाः तदर्थरूपाः अग्निवर्णाः प्राणादिदशवायुरूपा इत्याद्यूह्यम्। तन्मयं पञ्चभूतमयम्। ॥६८॥
-
-
 
 **देहोऽपि तादृशस्तस्मिन् न्यस्येद् वर्णान् विलोमतः।  
 तत्तत्स्थानयुतान् मन्त्रीजुहुयात् परतेजसि॥६९॥**
@@ -17253,8 +16432,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 मन्त्रान् सद्यः कुर्व्वते तस्य सिद्धिं पापैः सार्द्धं याति नाशं जरा च॥ इति।**
 
 अनन्यधीरित्यनेन मातृकापुटितजपेन मन्त्रसिद्धिरुक्ता। तदुक्तम् —
-
-
 
 **जपेन्मन्त्रान् भजेद्देवान् यजेदग्निमनन्यधीः।  
 द्रव्यैश्च जुहुयादग्नौ मन्त्रवित् तन्त्रचोदितैः॥७१॥**
@@ -17301,8 +16478,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **स्तम्भद्वेषौ तथोत्साद उच्चाटो भ्रममारणे।  
 व्याधिश्चेति स्मृतं क्षुद्रम्। इति॥७४॥**
 
-
-
 **मन्त्राणामयथावृत्तिप्रतिपत्तिसमुद्भवान्।  
 विकारान् नाशयेदाशु होमोऽयं समुदीरितः॥७५॥**
 
@@ -17341,8 +16516,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **जुहुयाच्च कार्य्यगुरुतालाघवमभिवीक्ष्ययोग्यपरिमाणम्।**
 
 इत्युक्तेः॥७७॥७८॥७९॥८०॥
-
-
 
 **लिखित्वा पत्रखण्डेषु मातृकार्णान् पृथक् पृथक्।  
 अभ्यर्च्य जुहुयाद् वह्नौ तत्पत्राक्षरमुच्चरन्॥८१॥**
@@ -17389,8 +16562,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 ध्यानं पूर्व्वोक्तम्। तदुक्तमनुसन्धेयम्। निष्केति सुवर्णचतुष्कम्॥८१॥८२॥
 
-
-
 **अर्द्धं वा शक्तितो दद्याद् यथोक्तं फलमाप्नुयात्।  
 अनया सप्त संजप्तं पिबेत् प्रातर्दिने दिने॥८३॥**
 
@@ -17432,8 +16603,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **स्नेहस्य पाके कल्कस्तु वर्त्तितो वर्त्तिवद्भवेत्।**
 
-
-
 **अयुतं मातृकाजप्तमर्चितञ्च विधानतः।  
 पिबेत् प्रातः स मेधावी भवेद् वाक्पतिसन्निभः॥८५॥**
 
@@ -17474,8 +16643,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   पूर्वोक्तमिति। मातृकापूजावसरोक्तम्। पूर्व्ववदिति तुर्य्योक्तरीत्या। क्वाथेन कषायेण। यथावदिति चतुर्थांशावशिष्टेन सबिन्दुकां मातृकां जपन् पूरयेदिति च। क्षीरशाखिनामिति तत्त्वचामित्यर्थः। अष्टगन्धमिति शाक्तम्। नवरत्नानि वक्ष्यन्ते। सहस्रसाधितैः सहस्रसंजप्तैरित्यर्थः। भानुवारे शुभे लग्ने तोयैरभि-
 
-
-
 **सहस्रसाधितैस्तोयैरभिषिञ्चेत् प्रियं नरम्।  
 भानुवारे शुभे लग्ने ब्राह्मणानपि भोजयेत्॥८९॥**
 
@@ -17508,8 +16675,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 षिञ्चेदिति सम्बन्धः। मासमिति ज्ञेयम्। “तञ्चापि मासम्” इत्युक्तेः। नरमिति लिङ्गमविवक्षितम्। “नारी बन्ध्याऽपि नानाविधगुणनिलयं पुत्रवर्य्यंप्रसूते” इत्युक्तेः। सम्बलनं \[ सम्मोहनं ? \] इति वश्यम्॥८७॥८८॥८९॥९०॥९१॥
 
   नवपदान्वितमिति नवनाभम्। शुद्धान् व्रणकालिमादिरहितान्। सुधूपवासितानित्यन्तः यथाक्रमात् निक्षिपेदिति मध्यादितः सर्व्वत्र सर्व्वाणि। देवीमिति सहदेवीम्। निक्षिपेदिति सर्व्वत्र सर्व्वाः। वृषा इन्द्रः तदादित इति पूर्व्वादितः। वासवो वृत्रहा वृषा इति कोशः। दिक्षु कुम्भेषु इति व्यधिकरणे सप्तम्यौ। वर्गा अकाराद्याः व्यस्तसमस्ताः त एव मन्त्रास्तद्युतास्तदाद्याः। विद्यां
-
-
 
 **अर्चयेद् दिक्षु कुम्भेषु व्यापिन्याद्याः पुरोदिताः।  
 वर्गमन्त्रयुताः प्रोक्तलक्षणाः सर्व्वसिद्धिदाः॥९८॥**
@@ -17554,8 +16719,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   त्रिशक्तिमुद्रिकामाह सोमेति। लोहत्रयमिति। “सर्व्वञ्च तैजसं लोहम्” इत्युक्तत्वात् रूप्यहेमताम्राणां लोहशब्देनाभिधानम्। तथेति सोमसूर्य्याग्निरूपमित्यर्थः। तदेवाह रौप्यमिन्दुरिति। स्वरादीति। रौप्यं १६ सुवर्णं २५ ताम्रं१०। केचित्तु वर्णानां द्वादशकलात्मकत्वात् सुवर्णभागा द्वादशेति वदन्ति।
 
-
-
 **साग्रंसहस्रं संजप्य स्पृष्ट्वा तां जुहुयात् ततः।  
 तस्यां सम्पातयेन्मन्त्रीसर्पिषा पूर्व्वसंख्यया॥१०७॥**
 
@@ -17586,8 +16749,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   नवरत्नमुद्रिकामाह विभजेदिति। मन्त्रीत्यनेन नवग्रहन्यासोऽपि सूचितः। तत्र प्रकारः। स्वरानुक्त्वासोममण्डलाय नमः इति मूर्द्धादिगलपर्यन्तम् कादिमान्तमुच्चार्य्य सूर्य्यमण्डलाय नमः इति गलादि हृदयान्तम् याद्यानुक्त्वावह्निमण्डलाय नमः इति हृदयादिपादान्तं व्यापकं न्यसेदिति मण्डलत्रयन्यासः। आदिठान्तमुक्त्वासोममण्डलाय नमः इति मूर्द्धादि हृदयान्तं डादि क्षान्तमुक्त्वा
 
-
-
 **माणिक्यं मौक्तिकं चारु विद्रुमं गारुडं पुनः।  
 पुष्परागं लसद्वज्रं नीलं गोमेदकं शुभम्॥११३॥**
 
@@ -17616,8 +16777,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  धारणयन्त्रमाह तार्त्तीयेति। तार्त्तीयं पूर्व्वोक्तं कर्णिकाबीजम्। ताराधीश्वरः ठकारः। आकारसाम्यात्। गौड़लिपौ तादृक्स्वरूपस्य लिखितत्वात्। वारिवर्णो वकारः। ताभ्यां विलसन्तौ यौ दिक्कोणौ ताभ्यां संशोभितम्। तेनात्र पूर्व्वयन्त्रादयमेव विशेषः। उक्तं कादिमते “ठं वं भूदिग्विदिक्षु च” इति।
 
-
-
 **ताराधीश्वरवारिवर्णविलसद्दिक्कोणसंशोभितं  
 यन्त्रं वर्णतनोः परं निगदितं सर्व्वामयघ्नं परम्॥११८॥**
 
@@ -17633,11 +16792,7 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **इति श्रीशारदातिलकटीकायां सत्सम्प्रदायकृतव्याख्यायां  
 पदार्थादर्शाभिख्यायां षष्ठः पटलः॥ॐ॥**
 
-
-
 ![](../books_images/U-IMG-1727746436Screenshot2024-07-09101742.png)
-
-
 
 **सप्तमः पटलः।**
 
@@ -17666,8 +16821,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   नववर्गाद्यक्षराण्याह आयम्बरार्णा इति। अश्चए च अम्बरार्णश्चेति द्वन्द्वः। तत्र अ ए इत्यनयोःवृद्धिरेचीति वृद्धौ कृतायां ऐ। ततो अमित्यस्मिन् परतः एचोऽयायवावः इति आयिकृते आयम्बरार्ण इति सिध्यति। अम्बरार्णे हः। वर्गाणां अकचटतपानाम्॥४॥
 
   वर्गवर्णानां भूतात्मकतामाह व्योमेति।पृथक् प्रत्येकं नववर्गाणां प्रथमादयो वर्णा व्योमादिरूपा इत्यर्थः। क्वचिन्नव वर्णान् पृथग्विदुरिति पाठः। तत्र नवेति
-
-
 
 **विरिञ्चिविष्णुरुद्राश्विप्रजापतिदिगीश्वराः।  
 क्रियादिशक्तिसहिताः क्रमात् स्युर्वर्गदेवताः॥६॥**
@@ -17700,8 +16853,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   लिपितरोरित्युक्तं तत्स्वरूपमाह नित्यमिति। वैयाकरणभाट्टमते वर्णानां नित्यत्वात्। परसम्वित् कुण्डलिनी। परब्रह्मेति कश्चित्। शिफा मूलम्। नित्यमित्यक्तं चेत् तस्य कथं बीजादुत्पत्तिः। अभिव्यञ्जकत्वेन बीजवदुपचर्य्यते।
 
-
-
 **वेदागमादिभिः क्लृप्त समुन्नतिमनोहरम्।  
 शिवशक्तिमयं साक्षाच्छायाश्रितजगत्त्रयम्॥१३॥**
 
@@ -17731,8 +16882,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   ऊर्द्ध्वादित इति यदुक्तं तदेव विवृणोति ऊर्द्ध्वेति। स्वस्यैव पञ्चमुखकल्पनया न्यास इति सुधीरित्यनेनोक्तम्। समाहित इत्यनेन वर्णानां सबिन्दुत्वमुक्तम्। दोःपदिति। देशिकसत्तमःअग्रमूलोपमूलाग्रमध्यदेशक्रमेण दोःपत्सु जठरादिपृष्ठान्तेषु पञ्चवर्गाणां वर्णान् न्यसेदित्युत्तरेण सम्बन्धः। मूलञ्च अग्रञ्च
 
-
-
 **अग्रमूलोपमूलाग्रमध्यदेशक्रमेण तु।  
 जठरे पार्श्वयुगले नाभौ पृष्ठे समाहितः॥१९॥**
 
@@ -17755,8 +16904,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   स्थितौ बिन्दुर्गावसानिकां तां क्रमान्न्यसेदिति सम्बन्धः। कः क्रम इत्यपेक्षायामाह वह्नीति। तत्र वह्न्यादीनामेकैकं वर्णं विन्यस्य पुनस्तेनैव क्रमेण न्यसेत्। तत्रायं क्रमः। उंः इंःऋः अंः लृंःओंः ऐंःऔंःएंःइत्यादि। आगमोक्तेन कुलप्रकाशतन्त्रप्रोक्तेन। दीक्षितस्तावदिति लक्षं। तत्र एको न्यासःएका आवृत्तिश्चेति क्रम इति साधकोत्तम इत्यनेनोक्तम्॥१८॥१९॥२०॥२१॥२२॥
 
   पूजयेदिति। अत्र कश्चित् प्रागीरिते पीठे इत्युक्तेरष्टपत्र एव षोड़शशक्तीनां द्विरावृत्त्या द्वात्रिंशन्मितानां चतुरावृत्त्या चतुःषष्टिमितानामष्टावृत्त्या पूजनम् अन्यथा पीठे प्रागीरिते इति व्याहन्येतेत्युवाच। तदसाम्प्रदायिकम्। तेषां मते अष्टावृतित्वं व्याहन्येत। आवृत्तिर्नाम सर्व्वत आवरणत्वेन पूजनम्। तदेकधा अष्टशक्तिपूजनेनैव जातम्। तदतिरिक्तद्वितीयावृत्तिश्चेत् पूज्यते आवृत्त्यन्तरमेव भवति। नतु तस्यास्तत्रान्तर्भावः। मन्त्रान्तरेषु न च दृष्टपूर्व्वम्। साम्प्रदायिकपक्षे तु पीठे प्रागीरिते इत्यस्यायमर्थः। प्रागुक्तपीठशक्तिपीठमन्त्रानत्रापि पूजयेदिति।
-
-
 
 **देवींसम्पूजयेत् तस्यामङ्गाद्यावरणैः सह।  
 आदावङ्गावृतिः पश्चादम्बिकाद्याभिरीरिता॥२४॥**
@@ -17783,8 +16930,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
   अङ्गादीत्यादिशब्दं विवृणोति आदावित्यादि। अङ्गावृतेः पूजास्थानमाह स्थानेष्विति। उक्तेषु तुर्य्योक्तेषु। विधिवदित्युक्त्या ध्यानानि। अम्बिकाद्येत्यादिशब्दं विवृणोति पूजयेदिति। आसां ध्यानं स्वस्वप्रकरणेऽनुसन्धेयम्। मातृपूजाध्यानमाह उक्तेति। उक्तलक्षणाःप्राक्पटलोक्तध्यानाः। पूर्व्ववदिति पूर्व्वोक्तस्थानेषु॥२३॥२४॥२५॥२६॥२७॥२८॥
 
  द्व्यष्टशक्त्यादिशब्दान् विवृणोति करालीति। पूज्या इति षोड़श दलेषु।
-
-
 
 **खड़्गखेटकाधारिण्यः श्यामाः पूज्याः स्वलङ्कृताः।  
 विद्याह्रीपुष्टयः प्रज्ञा सिनीवाली कुहूःपुनः॥३०॥**
@@ -17837,8 +16982,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **ससप्तमुख्यथ सुरा तथाऽसुरविमर्दिनी। इति।**
 
-
-
 **विमला चामला पश्चादरुणीपुनरारुणी।  
 प्रकृतिर्विकृतिः सृष्टिः स्थितिः संहृतिरेव च॥३७॥**
 
@@ -17880,8 +17023,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 तद्वदिति चतुर्थोक्तवत्॥४५॥
 
-
-
 **श्रीवाण्योः स भवेद् भूमिर्देवैरप्यभिवन्द्यते।  
 कमलैरयुतं हुत्वा राजानं वशमानयेत्॥४६॥**
 
@@ -17919,8 +17060,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   वियद्यन्त्रमाह बिन्द्विति। गगनं हःबिन्दाढ्यंहं। तदेव सबिन्दुकं गगनं। शिव एकारस्तदयुक् तेन हें। अत्रैकादश रुद्रा इति शिवशब्देन एकादशसंख्या
 
-
-
 **पत्रेष्वक्षरशो हकारपुटितांस्तद्भूतवर्णान् लिखे-  
 च्छिष्टञ्चान्त्यदले विलिख्य मतिमान् वृत्तेन संवेष्टयेत्॥५३॥**
 
@@ -17957,8 +17096,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **वायुर्वह्निस्तथा भूमिरापः खमिति पञ्चमम्।  
 एकैकस्मिन् पञ्चसूक्ष्माण्युदयन्ति हि तेषु च॥**
 
-
-
 **यौ द्वौसाक्ष्यधरेन्दुखण्डशिरसौ स्यातां क्रमात् ङेयुतं  
 कोपेशं नमसाऽन्वितं विरचयेन्मध्ये दलेष्वष्टसु।  
 वायव्यान् यपुटान् विलिख्य विधिना शिष्टार्णमन्त्ये दले  
@@ -17994,8 +17131,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
  वायव्यं यन्त्रमाह यौ द्वाविति। अक्षि इकारः। “असव्यमविशेषोक्तौ” इति परिभाषणात्। अधर एकारः। इन्दुखण्डो बिन्दुः। अक्षि च अधरश्च अक्ष्यधरौ एताभ्यां सह वर्त्तमानौ साक्ष्यधरौ तौ च ताविन्दुखण्डशिरसौ चेति विग्रहः। क्रमादित्यस्ति तेन यिं यें इति। कोपेशं ङेयुतं कोपेशाय। नमसान्वितं नमोयुक्तमिमं मन्त्रं मध्ये कर्णिकायां रचयेल्लिखेत्। वायव्यान् एतत्पटलोक्तवायुभूतवर्णान् विधिना यपुटान् अक्षरश इत्यर्थः। बिन्द्वन्तानित्यपि। वायुगृहेण “वृत्तं दिवस्तत् षड्बिन्दुलाञ्छितं मातरिश्वनः” इत्युक्तेः षड्बिन्दुलाञ्छितेन वृत्तेन वेष्टयेत्। अत्रापि पूर्व्ववत् कर्म्मलिखनीयम्॥५५॥
 
-
-
 **स्वात्यां मन्दोदये यन्त्रं वायव्ये निखनेद्रिपोः।  
 द्वार्य्युच्चाटनकृत् तस्य मृतिर्वा भवति ध्रुवम्॥५६॥**
 
@@ -18023,8 +17158,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   वारुणयन्त्रमाह नासेति। नासा ऋःअर्द्धेन्दुर्बिन्दुस्तद्युक्तं अम्बु वः तेन वृँ। तदम्बु वः मनुरौ तद्युतं सार्द्धेन्दुः सबिन्दुः तेन वौं। अत्र मनुशब्देन चतुर्दश मनव इति चतुर्दशसंख्या लक्षिता। तया चतुर्दशस्वरः तेन औकारोमनुशब्दवाच्यः। ङेन्तो विधुर्विधवे। विध्वन्ते विधुशब्दान्ते भुवे तेन विधुभुवे
 
-
-
 **वर्णान् पत्रपुठेषु वाक्षरपुटान् साध्यस्य बन्ध्वक्षरै  
 रालिख्याप्यपुरेण वेष्टितमिदं यन्त्रंभवेद् वारुणम्॥६०॥**
 
@@ -18051,8 +17184,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  पार्थिवयन्त्रमाह गण्ड इति। बिन्दुभूषितो गण्डःऌ। वसुमती लकारः तादृशी बिन्दुमतीतेन लं। गण्डयोः वर्णयोः मध्यस्थौ जगौ वर्णौ। तत्र गण्डयोरिति। अत्र प्रथमं गकारमात्रम् उत्तरत्र परसवर्णयुक् ण्डकारः तेन गजगण्ड इति सिद्धम्। लुके स्वरूपम्। नतिर्नमः। इमं मन्त्रं मध्यतः कर्णिकायां लिखेत्। अत्रैकाक्षरन्यूनत्वाल्लान्तानीत्युक्तम्। तेनाष्टमे दले सबिन्दुलकारत्रयं लेख्यमित्यर्थः। लार्णपुटीकृतान् प्रत्यक्षरम्। सेवावर्णयुतान् “साध्यास्ते सेवकाः स्मृताः” इत्युक्तेःसाध्यस्य साध्यकोष्ठाक्षरैरित्यर्थः। यथाविधीति सबिन्दुकानित्यर्थः॥६२॥
 
   ज्येष्ठायां ज्येष्ठानक्षत्रमुहूर्त्ते सौम्ये बुधे उदिते भूमेरुदये इत्यर्थः। मृदि मृत्पात्रे। सर्व्वत्र स्तम्भकृदिति वाय्वग्निजलशुक्रखड्गधारासेनादिस्तम्भनं ज्ञेयम्। तत्र शुक्रादौधारणं सेनादौ निखननमिति यथायथं सुधीभिर्बोध्यम्॥६३॥६४॥
-
-
 
 **अद्रिर्वरुणसंरुद्धो दवाग्वादिनि ठद्वयम्।  
 वागीश्वर्य्या दशार्णोऽयं मन्त्रो वाग्विभवप्रदः॥६५॥**
@@ -18086,8 +17217,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 उद्दामकाव्यप्रकरप्रभाभिरुद्भासतेऽस्मै नतिमातनोमि॥ इति।**
 
   अन्ये सम्बोधनान्ते वागीश्वरीति सम्बुद्धिमधिकामाहुः। एषां ध्यानविशेषा गुरुमुखात् ज्ञेयाः॥६५॥
-
-
 
 **ऋषिः कण्वो विराट् छन्दो देवता वाक् समीरिता।  
 शिरःश्रवणदृङ्नासावदनान्धुगुदेष्विमान्।  
@@ -18131,8 +17260,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 पद्मपादाचार्य्यास्तु मातृकाङ्गास्ते वदहृदयाय नम इत्याद्यूचुः॥६६॥
 
-
-
 **तरुणशकलमिन्दोर्बिभ्रती शुभ्रकान्तिः  
 कुचभरनमिताङ्गी सन्निषण्णासिताब्जे।  
 निजकरकमलोद्यल्लेखनीपुस्तकश्रीः  
@@ -18167,8 +17294,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 **सपुस्तकजपस्रजो विमलहारमत्युज्ज्वलाः  
 शशाङ्कसदृशप्रभाः प्रतिदलस्थिताः शक्तयः।  
 चतुर्थवृतिगा यजेत् कथितदक्षिणाशादिकाः॥ इति।**
-
-
 
 **कवित्वं लभते धीमान् मासैर्द्वादशभिर्ध्रुवम्।  
 पीत्वा तन्मन्त्रितं तोयं सहस्रं प्रत्यहं जपेत्॥७४॥**
@@ -18212,8 +17337,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   मन्त्रान्तरमुद्धरति हृदयेति। हृदयान्ते नमोऽन्ते। भगवति स्वरूपम्।
 
-
-
 **मनुं षोड़शवर्णाढ्यं वागैश्वर्य्यफलप्रदम्।  
 मनोः षड्भिः पदैः कुर्य्यात् षड़ङ्गानि सजातिभिः॥८१॥**
 
@@ -18248,8 +17371,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 **जपतु मन्त्रमनन्यसंस्मृतिर्यथाविधि। इति।**
 
-
-
 **तर्पयेत्तां जलैः शुद्धैरतिमेधामवाप्नुयात्।  
 पुष्पगन्धादिकं सर्व्वं तज्जप्तं धारयेत् सुधीः।  
 सभायां पूज्यते सद्भिर्वादे च विजयी भवेत्॥८६॥**
@@ -18277,8 +17398,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  वाणीमिति। क्वचिन्मुद्रामिति पाठः। यदा विद्यामिति पाठःतदा आयुधध्यानं पूर्व्ववत्। द्वितीयपाठे दक्षोर्द्ध्वादि अक्षस्रक्-मुद्रे अन्यत्रान्ये॥८९॥
 
  साधकोत्तम इत्यनेन जपाव्यवधानेन नियमस्थ एवं होमं कुर्य्यादित्युक्तम्। वर्णाब्जेनेति ह्सौः हंस वागीश्वरीयोगपीठाय नम इति प्रयोगः॥९०॥
-
-
 
 **मातृकोक्ते यजेत् पीठे वक्ष्यमाणक्रमेण ताम्।  
 वर्णाब्जेनासनं कुर्य्यान्मूर्त्तिं मूलेन कल्पयेत्॥९१॥**
@@ -18318,8 +17437,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 ऐं वीजं प्लुःशक्तिः। पूर्व्वोक्तमृष्यादिकं कुर्य्यादिति। अत्र वाग्भवेन हृत् अन्यैश्चतुर्भिः पदैश्चत्वार्य्यङ्गानि। विधिवदिति। अनेन समस्तेनास्त्रमित्युक्तं भवति।
 
-
-
 **आसीना कमले करैर्जपवटींपद्मद्वयं पुस्तकं  
 बिभ्राणा तरुणेन्दुबद्धसुकुटा मुक्तेन्दुकुन्दप्रभा।  
 भालोन्मीलितलोचना कुचभराक्रान्ता भवद्भूतये  
@@ -18346,8 +17463,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
  रुद्रलक्षमेकादशलक्षम्। यथा पुरेत्येकादशाक्षर्य्युक्तमार्गेण। तद्वदिति वाक्सिद्धिमाप्नुयादित्यर्थः। अचिराद् वाचां श्रियं वाक्सम्पदं प्राप्नोतीति सम्बन्धः। नन्द्यावर्त्तोगन्धतगरः। वेति कुन्दसमुद्भवैरित्यनेन विकल्पः॥९९॥१००॥१०१॥
 
   ब्राह्मीरस इति। अत्रापि स्वरसपाक इति कृत्वा घृतस्याष्टमांशः स्वकल्कः घृत चतुर्गुणो ब्राह्मीरसः। अन्यत् पूर्व्ववत्। वचाकल्प इति क्वचित् पाठः। जपन्पचेदिति सम्बन्धः। अनया विद्यया जप्तं सप्तवासरमिति शेषः। नित्यं दिनादौ पिबेदिति त्रिवर्षं पञ्चवर्षं वा। अनया विद्ययेत्यादि सर्व्वं ब्राह्मीपत्रेऽपि योजनीयम्। सर्व्वेत्यादि मेधावीत्यादि उभयमुभयस्य फलं समयप्रमाणभेदेन। तदुक्तं
-
-
 
 **अनया विद्यया जप्तं ब्राह्मीपत्रं प्रभक्षयेत्।  
 न विस्मरति मेधावी श्रुतान् वेदागमान् पुनः।  
@@ -18381,8 +17496,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 तट्टीकाकारेण वागिति मन्त्रांश उक्तः। अन्ये तु चतुर्मुखः कः सकेवलःबिन्दुमान्तेन कां। एवं सबिन्दुकस्य बीजत्वमुपपद्यत इति ते वदन्ति।
 
   सम्प्रदायविदस्तु पूर्व्वोद्धृतं यत् वाक्पदं तल्लक्षितं वाग्भवबीजमित्याहुः। एवं बीजत्वमप्युपपन्नं सारस्वतञ्च भवति। अन्ये तु प्रकारान्तरेण वाग्भवबीजोद्धारं कुर्व्वन्ति। विष्णोस्तोयस्थं शयनम् आकारःकशब्देन शिरस्तेन अकारःइ इति स्वरूपम्। कश्च इश्चेति समासे के इति पदम्। कीदृक् शयनं सके केसहितं वलनं वलःसंमेलनं तस्मिन् जाते चतुर्मुखः कः तेन शिरः। ततो बिन्दुरिति। अर्घीश ऊ वह्नीरेफः सद्य ओकारः अम्बु वकारः भृगुः सकारः। सारस्वतार्थिनामित्यनेन विनियोग उक्तः। आद्यं बीजं अन्त्यं शक्तिः पूर्व्वोक्तमृष्यादिकम्॥१०५॥
-
-
 
 **मुक्ताहारावदातां शिरसि शशिकलालङ्कृतां बाहुभिः स्वै-  
 र्व्याख्यां वर्णाक्षमालां मणिमयकलशं पुस्तकञ्चोद्वहन्तीम्।  
@@ -18418,8 +17531,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
   सारस्वतसमयानाह सुसितैरिति। बीजाङ्कुरं यवाङ्कुरम्। सिन्धुवारो निर्गुण्डी।
 
-
-
 **उत्पलानि प्रशस्तानि सिन्धुवाराङ्कुराणि च।  
 भजन् सरस्वतीं नित्यमेतानि परिवर्जयेत्॥११४॥**
 
@@ -18453,8 +17564,6 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 सर्व्वं पर्य्युषितं घृतपक्वमपि। नाचरेन्निशि ताम्बूलमित्यस्यायमर्थः। रात्रौ मुखे ताम्बूलं कृत्वा न शयनं कार्य्यमित्यर्थः। स्मृतिरपि — “ताम्बूलं वदनात् त्यजेत्” इति। दिग्वस्त्रां नग्नां स्वीयामपि॥११३॥११४॥११५॥॥११६॥११७॥११८॥११९॥१२०॥
 
-
-
 **अन्तरा यदि गच्छेयुस्तदा व्याख्यां परित्यजेत्।  
 निशासु दीपभ्रंशे च सद्यः पाठं परित्यजेत्॥१२२॥**
 
@@ -18474,16 +17583,4 @@ composed of the five Bhūtas (existents, Ksiti, Apa, Tejas, Vāyu and Akāsha). 
 
 ![](../books_images/U-IMG-1727712770Screenshot2024-08-04235410.png)
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-

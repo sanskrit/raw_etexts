@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NDgzMzQ5NjU
 
 \[
 
-
-
 ***पाशुपतसूत्रम्***
 
 अथ प्रथमोऽध्यायः
@@ -64,7 +62,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NDgzMzQ5NjU
 भजस्व माम् ॥ १.४३ ॥  
 भवोद्भवः ॥ १.४४ ॥
 
-
 अथ द्वितीयोऽध्यायः
 
 वामः ॥ २.१ ॥  
@@ -95,7 +92,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NDgzMzQ5NjU
 सर्व-भूत-दमनाय नमः ॥ २.२६ ॥  
 मनो-ऽमनाय नमः ॥ २.२७ ॥
 
-
 अथ तृतीयोऽध्यायः
 
 अव्यक्त-लिङ्गी ॥ ३.१ ॥  
@@ -125,7 +121,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NDgzMzQ5NjU
 शर्व-सर्वेभ्यः ॥ ३.२५ ॥  
 नमस्ते अस्तु रुद्र-रूपेभ्यः ॥ ३.२६ ॥
 
-
 अथ चतुर्थोऽध्यायः
 
 गूढ-विद्या तप आनन्त्याय प्रकाशते ॥ ४.१ ॥  
@@ -152,7 +147,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NDgzMzQ5NjU
 तत्-पुरुषाय विद्महे ॥ ४.२२ ॥  
 महा-देवाय धीमहि ॥ ४.२३ ॥  
 तन्नो रुद्रः प्रचोदयात् ॥ ४.२४ ॥
-
 
 अथ पञ्चमोऽध्यायः
 
@@ -203,8 +197,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5NDgzMzQ5NjU
 शिवो मे अस्तु ॥ ५.४५ ॥  
 सदा ॥ ५.४६ ॥  
 शिवः ॥ ५.४७ ॥
-
-
-
 
 \]

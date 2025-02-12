@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYxNDkyNjQxMzc
 
 \[
 
-
-
 **बोधपञ्चदशिका**
 
 अनस्तमितभारूपस्तेजसां तमसामपि ।  
@@ -62,11 +60,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYxNDkyNjQxMzc
 इत्थमिच्छाकलाज्ञानशक्तिशूलाम्बुजाश्रितः ।  
 भैरवः सर्वभावानां स्वभावः परिशील्यते ॥ १५ ॥
 
-
 सुकुमारमतीन् शिष्यान् प्रबोधयितुमञ्जसा ।  
 इमेऽभिनवगुप्तेन श्लोकाः पञ्चदशोदिताः ॥
 
 \_\_\_\_\_\_\_\_\_\_\_\_
-
 
 \]

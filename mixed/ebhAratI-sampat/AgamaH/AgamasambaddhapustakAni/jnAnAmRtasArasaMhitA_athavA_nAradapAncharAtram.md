@@ -14,25 +14,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 श्री-नारद-पञ्च-रात्रम्
 
-
-
 प्रथमैक-रात्रे प्रथमोऽध्यायः
-
-
 
 ॐ नमो भगवते वासुदेवाय
 
-
-
 अथ मङ्गलाचरणम्
-
-
 
 नारायणं नमस् कृत्य नरं चैव नरोत्तमम् \।
 
 देवीं सरस्वतीं चैव ततो जयम् उदीरयेत् \।\।
-
-
 
 गणेश-शेष-ब्रह्मेश-दिनेश-प्रमुखाः सुराः \।
 
@@ -188,8 +178,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १.११ \।\।
 
-
-
 ॐ नारायणाश्रमे पुण्ये पुण्य-क्षेत्रे च भारत \।
 
 सिद्धे नारायण-क्षेत्रे वट-मूले सुपुण्यदे \।\।
@@ -246,8 +234,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १.१५ \।\।
 
-
-
 श्री-शुक उवाच
 
 भगवन् सर्व-तत्त्व-ज्ञ वेद-वेदाङ्ग-पारग \।
@@ -278,11 +264,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १.१७ \।\।
 
-
-
 अथ श्री-कृष्ण-भक्ति-प्रशंशा
-
-
 
 स पिता ज्ञान-दाता यो ज्ञानं तत् कृष्ण-भक्तिदम् \।
 
@@ -340,8 +322,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १.२१ \।\।
 
-
-
 पुत्रस्य वचनं श्रुत्वा व्यासदेवो जहास सः \।
 
 विज्ञाय ज्ञानिनं पुत्रं परमाह्लादम् आप ह \।\।
@@ -369,8 +349,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १.२३ \।\।
-
-
 
 श्री-व्यास उवाच
 
@@ -662,11 +640,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १.४३ \।\।
 
-
-
 अथ पञ्च-रात्र-पद-व्याख्या
-
-
 
 रात्रं च ज्ञान-वचनं ज्ञानं पञ्च-विधं स्मृतम् \।
 
@@ -864,11 +838,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १.५७ \।\।
 
-
-
 अथ ग्रन्थ-प्रशंसा
-
-
 
 षट् पञ्च-रात्रं वेदाश् च पुराणानि च सर्वशः \।
 
@@ -1234,13 +1204,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १.८३ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ग्रन्थ-प्रशंसनं नाम प्रथमोऽध्यायः
 
 प्रथमैक-रात्रे द्वितीयोऽध्यायः
-
-
 
 शुक उवाच
 
@@ -1258,11 +1224,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 २.१ \।\।
 
-
-
 अथ नारदस्य तपो-वर्णनम्
-
-
 
 व्यास उवाच
 
@@ -1322,11 +1284,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 २.५ \।\।
 
-
-
 अथ नारदं प्रति दैव-वाणी
-
-
 
 अशरीरिष्य् उवाच
 
@@ -1365,8 +1323,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 २.७ \।\।
-
-
 
 इति श्रुत्वा च स मुनिर् विमनाः स्वर्-णदी-तटे \।
 
@@ -1452,11 +1408,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 २.१३ \।\।
 
-
-
 अथ दैव-वाण्यर्थः
-
-
 
 ब्रह्मोवाच
 
@@ -1954,8 +1906,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 २.४८ \।\।
 
-
-
 ब्रह्माणश् च वचः श्रुत्वा जहास योगिनां गुरुः \।
 
 सनत्-कुमारो भगवान् उवाच पितरं शुक \।\।
@@ -1969,8 +1919,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 २.४९ \।\।
-
-
 
 सनत्-कुमार उवाच
 
@@ -2016,8 +1964,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 २.५२ \।\।
 
-
-
 पुत्रस्य वचनं श्रुत्वा सन्दिग्धो जगतां गुरुः \।
 
 दध्यौ कृष्ण-पदाम्भोजं परं कल्प-तरुं शुक \।\।
@@ -2046,11 +1992,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 २.५४ \।\।
 
-
-
 अथ नैवेद्य-प्रशंसा
-
-
 
 ब्रह्मोवाच
 
@@ -2378,19 +2320,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 २.७७ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे ब्रह्म-सनत्-कुमार-संवादे नैवेद्य-प्रशंसनं नाम द्वितीयोऽध्यायः
 
 प्रथमैक-रात्रे तृतीयोऽध्यायः
 
-
-
-
-
 सनत्-कुमार उवाच
-
-
 
 अहो तात किम् आश्चर्यं कृष्णस्य परमात्मनः \।
 
@@ -2406,11 +2340,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ३.१ \।\।
 
-
-
 अथ श्री-कृष्ण-महिम-वर्णनम्
-
-
 
 ब्रह्मोवाच
 
@@ -2511,8 +2441,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ३.८ \।\।
-
-
 
 शिशुर् उवाच
 
@@ -3046,8 +2974,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ३.४६ \।\।
 
-
-
 इत्य् एवम् उक्त्वा पितरं चन्द्र-भागा-नदी-जले \।
 
 स्नात्वा पपौ जलं स्वच्छं बुभुजे मिष्ट-मोदकम् \।\।
@@ -3552,8 +3478,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ३.८२ \।\।
 
-
-
 श्री-सुभद्र उवाच
 
 हे नाथ दर्श्नं देहि मां भक्तं शरणागतम् \।
@@ -3612,8 +3536,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ३.८६ \।\।
 
-
-
 इत्य् एवम् उक्त्वा स शिशु रुरोद च पुनः पुनः \।
 
 ध्यायेन तत्-पदाम्भोजं शरणं च चकार सः \।\।
@@ -3642,15 +3564,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ३.८८ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे ब्रह्म-सनत्-कुमार-संवादे श्री-कृष्ण-महिमोपालम्भनं नाम तृतीयोऽध्यायः
 
 प्रथमैक-रात्रे चतुर्थोऽध्यायः
-
-
-
-
 
 ब्रह्मोवाच
 
@@ -3752,8 +3668,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.७ \।\।
 
-
-
 श्री-नारायणर्षिर् उवाच
 
 अये विप्र महा-भाग सफलं जीवनं तव \।
@@ -3840,8 +3754,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.१३ \।\।
 
-
-
 नारायण-वचः श्रुत्वा तम् उवाच शिषुः स्वयम् \।
 
 पुनः कम्पित-सर्वाङ्गः साश्रु-नेत्रः पुटाञ्जलिः \।\।
@@ -3855,8 +3767,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ४.१४ \।\।
-
-
 
 सुभद्र उवाच
 
@@ -3887,8 +3797,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ४.१६ \।\।
-
-
 
 नारायणर्षिर् उवाच
 
@@ -3948,8 +3856,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.२० \।\।
 
-
-
 इत्य् एवम् उक्त्वा तत्-कर्णे कथयाम् आस दक्षिणे \।
 
 वार-त्रयं मुनि-श्रेष्ठः शुद्ध-भावेन पुत्रक \।\।
@@ -4006,8 +3912,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.२४ \।\।
 
-
-
 सुभद्र उवाच
 
 सत्यं कुरु महा-भाग वरं मे यदि दास्यसि \।
@@ -4024,8 +3928,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.२५ \।\।
 
-
-
 नारायणर्षिर् उवाच
 
 ॐ सत्यं वत्स दास्यामि वरं वृणु यथेप्सितम् \।
@@ -4041,8 +3943,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ४.२६ \।\।
-
-
 
 सुभद्र उवाच
 
@@ -4061,8 +3961,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ४.२७ \।\।
 
 कवचं देहि मे देव स्व-सत्य-रक्षणं कुरु \।
-
-
 
 विप्रस्य वचनं श्रुत्वा शुष्क-कण्ठौष्ठातालुकः \।\।
 
@@ -4103,8 +4001,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ४.३० \।\।
-
-
 
 नारायणर्षिर् उवाच
 
@@ -4163,8 +4059,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ४.३४ \।\।
-
-
 
 पुनश् च गुटिका-युक्तं कृत्वा च कवचं मुनिः \।
 
@@ -4702,8 +4596,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 श्व-भक्षितं च नैवेद्यं भुक्त्वा चेद् ईदृशी गतिः \।
 
-
-
 अकामतश् चाप्य् अज्ञातो जीर्ण-मार्ग-स्थितं सुत \।\।
 
 ज्ञा. सा. सं
@@ -4744,8 +4636,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.७५ \।\।
 
-
-
 श्री-नारद उवाच
 
 श्रुतं नैवेद्य-माहात्म्यम् अतीव सुमनोहरम् \।
@@ -4776,11 +4666,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.७७ \।\।
 
-
-
 अथ कवच-प्रश्नः
-
-
 
 सनत्-कुमार उवाच
 
@@ -4812,8 +4698,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.७९ \।\।
 
-
-
 पुत्रयोश् च वचः श्रुत्वा शुष्क-कण्ठौष्ठतालुकः \।
 
 उवाच वचनं ब्रह्मा स्मरन् कृष्ण-पदाम्बुजम् \।\।
@@ -4827,8 +4711,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ४.८० \।\।
-
-
 
 ब्रह्मोवाच
 
@@ -4902,8 +4784,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.८५ \।\।
 
-
-
 नारद उवाच
 
 पश्चात् श्रोष्यामि कवचं जगन्-मङ्गल-मङ्गलम् \।
@@ -4934,8 +4814,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.८७ \।\।
 
-
-
 ब्रह्मोवाच
 
 सुभद्र-प्राप्तं कवचं पश्चात् श्रोष्यसि पुत्रक \।
@@ -4952,21 +4830,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ४.८८ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे ब्रह्मा-नारद-संवादे
 
 प्रथमैक-रात्रे कवच-प्रश्नो नाम चतुर्थोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे पञ्चमोऽध्यायः
-
-
-
-
 
 श्री-सनत्-कुमार उवाच
 
@@ -4983,8 +4851,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ५.१ \।\।
-
-
 
 ब्रमोवाच
 
@@ -5074,8 +4940,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ५.७ \।\।
 
-
-
 श्री-सनत्कुमार उवाच
 
 ब्रूहि मे कवचं ब्रह्मन् जगन्-मङ्गल-मङ्गलम् \।
@@ -5092,11 +4956,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ५.८ \।\।
 
-
-
 अथ जगन्-मङ्गल-मङ्गल-कवचम्
-
-
 
 ब्रह्मोवाच
 
@@ -5310,8 +5170,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ५.२३ \।\।
 
-
-
 नारद उवाच
 
 नारायणर्षिणा दत्तं कवचं यत् सुदुर्लभम् \।
@@ -5327,8 +5185,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ५.२४ \।\।
-
-
 
 ब्रह्मोवाच
 
@@ -5444,8 +5300,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ५.३२ \।\।
 
-
-
 आज्ञया ब्रह्मणश् चापि नारदो गन्तुम् उद्यतः \।
 
 ब्रह्मा ययौ ब्रह्म-लोकं जन्म-मृत्यु-जरापहम् \।\।
@@ -5460,21 +5314,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ५.३३ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे
 
 पञ्चमोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे षष्ठोऽध्यायः
-
-
-
-
 
 श्री-शुक उवाच
 
@@ -5497,8 +5341,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ६.१ \।\।
-
-
 
 व्यासो उवाच
 
@@ -5916,8 +5758,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ६.३० \।\।
 
-
-
 मुनिर् उवाच
 
 किं नाम भवतो विप्र क्व यासीति क्व चागतः \।
@@ -5948,11 +5788,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ६.३२ \।\।
 
-
-
 अथ वैष्णव-दर्शन-फलम्
-
-
 
 न ह्य् अम्मयानि तीर्थानि न देवा मृच्छितामयाः \।
 
@@ -6052,11 +5888,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ६.३९ \।\।
 
-
-
 अथातिथि-पूजन-फलम्
-
-
 
 अतिथिर् यस्य पुष्टो हि तस्य पुष्टो हरिः स्वयम् \।
 
@@ -6099,8 +5931,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ६.४२ \।\।
-
-
 
 अथातिथि-विमुखे दोषाः
 
@@ -6232,8 +6062,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 तुल्यो भवति विप्रेन्द्रातिथिर् एव त्व् अनर्चितः \।
 
-
-
 इत्य एवम् उक्त्वा मुनिः पूजयाम् आस नारदम् \।
 
 मिष्टं च भोजयाम् आस शाययाम् आस भक्तितः \।\।
@@ -6247,8 +6075,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ६.५२ \।\।
-
-
 
 श्री-नारद उवाच
 
@@ -6293,8 +6119,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ६.५५ \।\।
-
-
 
 मुनिर् उवाच
 
@@ -6536,21 +6360,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ६.७२ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथ्मैक-रात्रे
 
 लोमश-नारद-संवादे षष्ठोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे सप्तमोऽध्यायः
-
-
-
-
 
 संभाष्य लोमशं तस्माज् जगाम नारदो मुनिः \।
 
@@ -6622,8 +6436,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ७.५ \।\।
 
-
-
 मार्कण्डेयो उवाच
 
 अद्य मे सफलं जन्म जीवनं चातिसार्थकम् \।
@@ -6668,8 +6480,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ७.८ \।\।
 
-
-
 मुनेश् च वचनं श्रुत्वा वीणा-पाणि स्वम् ईप्सितम् \।
 
 उवाच सस्मितं शान्तं वचः सत्यं सुधोपमम् \।\।
@@ -6683,8 +6493,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ७.९ \।\।
-
-
 
 नारद उवाच
 
@@ -6701,8 +6509,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ७.१० \।\।
-
-
 
 पूजां गृहीत्वा चेत्य् उक्त्वा प्रययौ नारदो मुनिः \।
 
@@ -7756,11 +7562,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ७.८५ \।\।
 
-
-
 अथ गणपति-स्तोत्रम्
-
-
 
 भो गणेश सुर-श्रेष्ठ लम्बोदर परात् पर \।
 
@@ -7846,8 +7648,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ७.९१ \।\।
 
-
-
 इत्य् एवम् उक्त्वा देवर्षिस् तत्रैवान्तर् दधे विभुः \।
 
 नारदः प्रययौ शीघ्रम् ईश्वराभ्यन्तरं मुदा \।\।
@@ -7906,21 +7706,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ७.९५ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे
 
 गणपति-स्तोत्रं नाम सप्तमोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे अष्टमोऽध्यायः
-
-
-
-
 
 श्री-व्यास उवाच
 
@@ -8134,8 +7924,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ८.१५ \।\।
 
-
-
 श्री-नारद उवाच
 
 नमस् तुभ्यं जगन्-नाथ मम नाथ मम प्रभो \।
@@ -8196,8 +7984,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 जगद्-आदे जयानन्द सर्वानन्द नमो ऽस्तु ते\।
 
-
-
 इत्य् एवम् उक्त्वा देवर्षिः शम्भोश् च पुरतः स्थितः \।
 
 प्रसन्न-वदनः श्रीमान् भगवांस् तम् उवाच सः \।\।
@@ -8211,8 +7997,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ८.२० \।\।
-
-
 
 श्री-महा-देव उवाच
 
@@ -8288,8 +8072,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 तन् मे ब्रूहि मुनि-श्रेष्ठ सर्वं दातुम् अहं क्षमः \।
 
-
-
 शङ्करस्य वचः श्रुत्वा तम् उवाच महा-मुनिः \।\।
 
 ज्ञा. सा. सं
@@ -8301,8 +8083,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ८.२६ \।\।
-
-
 
 श्री-नारद उवाच
 
@@ -8319,8 +8099,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ८.२७ \।\।
-
-
 
 नारदस्य वचः श्रुत्वा जहास शङ्करः स्वयम् \।
 
@@ -8436,19 +8214,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ८.३५ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे अष्टमोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे नवमोऽध्यायः
-
-
-
-
 
 श्री-व्यास उवाच
 
@@ -8494,8 +8262,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ९.३ \।\।
 
-
-
 श्री-महा-देव उवाच
 
 किं वा ते वाञ्छितं वत्स ब्रूहि मां यदि रोचते \।
@@ -8512,8 +8278,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ९.४ \।\।
 
-
-
 महा-देव-वचः श्रुत्वा तम् उवाच महा-मुनिः \।
 
 कैलासे च सभा-मध्ये यत् तन्-मनसि वाञ्छितम् \।\।
@@ -8527,8 +8291,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 ९.५ \।\।
-
-
 
 श्री-नारद उवाच
 
@@ -8672,8 +8434,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ९.१५ \।\।
 
-
-
 नारदस्य वचः श्रुत्वा सस्मितः पार्वती-पतिः \।
 
 निरीक्ष्य पार्वती-वक्त्रं गज-वक्त्रम् उवाच सः \।\।
@@ -8688,11 +8448,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ९.१६ \।\।
 
-
-
 अथ नारदोपदेश-ग्रहणम्
-
-
 
 श्री-महा-देव उवाच
 
@@ -8892,8 +8648,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ९.३० \।\।
 
-
-
 इत्य् उक्त्वा सङ्करः शीघ्रं नारदेन सहात्मजः \।
 
 ययौ मन्दाकिनी-तीरं नीरं क्षीरोपमं परम् \।\।
@@ -9022,19 +8776,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ९.३९ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे
 
 नारदोपदेश-ग्रहणं नाम नवमोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे दशमोऽध्यायः
-
-
 
 श्री-शुक उवाच
 
@@ -9065,8 +8811,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १०.२ \।\।
-
-
 
 श्री-व्यास उवाच
 
@@ -9125,8 +8869,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १०.६ \।\।
-
-
 
 श्री-नारद उवाच
 
@@ -9354,8 +9096,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १०.२२ \।\।
 
-
-
 नारदस्य वचः श्रुत्वा क्रुद्धः पुत्रम् उवाच सः \।
 
 कम्पितस् तमसा धाता कोप-रक्तास्य-लोचनः \।\।
@@ -9369,8 +9109,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १०.२३ \।\।
-
-
 
 ब्रह्मोवाच
 
@@ -9458,8 +9196,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १०.२९ \।\।
 
-
-
 तातस्य वचनं श्रुत्वा चुकोप नारदो मुनिः \।
 
 शशाप पितरं शिघ्रं दारुणं च यथोचितम् \।\।
@@ -9474,8 +9210,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १०.३० \।\।
 
-
-
 अपूज्यो भव दुष्टं त्वं त्वन्-मन्त्रोपासकः कुतः \।
 
 अगम्यागमनेच्छा ते भविष्यति न संशयः \।\।
@@ -9489,8 +9223,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १०.३१ \।\।
-
-
 
 नारदस्य तु शापेन सो ऽपूज्यो जगतां विधिः \।
 
@@ -9589,8 +9321,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १०.३८ \।\।
-
-
 
 पुष्पोद्यने तरु-द्याने नद्यां नद्यां नदे नदे \।
 
@@ -9972,8 +9702,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १०.६५ \।\।
 
-
-
 ब्रह्मोवाच
 
 श्री-कृष्ण-रस-सङ्गीतं वीणा-ध्वनि-समन्वितम् \।
@@ -10256,8 +9984,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १०.८५ \।\।
 
-
-
 इत्य् उक्त्वा जगतां धाता तत्र तूष्णीं बभूव सः \।
 
 आश्चर्यं मेनिरे श्रुत्वा देवाश् च मुनयस् तथा \।\।
@@ -10386,23 +10112,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १०.९४ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे
 
 महोत्सवारम्भो नाम दशमोऽध्यायः
 
-
-
 प्रथमैक-रात्रे एकादशोऽध्यायः
 
-
-
-
-
 अथ महोत्सव-दर्शनम्
-
-
 
 श्री-व्यास उवाच
 
@@ -10952,21 +10668,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 ११.३९ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे
 
 महोत्सव-दर्शनं नाम एकादशोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे द्वादशोऽध्यायः
-
-
-
-
 
 शुक उवाच
 
@@ -10983,8 +10689,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १२.१ \।\।
-
-
 
 श्री-व्यास उवाच
 
@@ -11380,8 +11084,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १२.२९ \।\।
 
-
-
 ब्रह्मोवाच
 
 परं ब्रह्म परं धाम परमात्मानम् ईश्वरम् \।
@@ -11411,8 +11113,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १२.३१ \।\।
-
-
 
 श्री-महादेव उवाच
 
@@ -11457,8 +11157,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १२.३४ \।\।
-
-
 
 अनन्त उवाच
 
@@ -11590,8 +11288,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १२.४३ \।\।
 
-
-
 कार्तिकेय उवाच
 
 सर्वान्तरात्मा भगवान् ज्ञानं च सर्व-जीविनां \।
@@ -11650,8 +11346,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १२.४७ \।\।
 
-
-
 धर्म उवाच
 
 अहं साक्षी च सर्वेषां विधिना निर्मितः पुरा \।
@@ -11667,8 +11361,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १२.४८ \।\।
-
-
 
 देवा ऊचुः
 
@@ -11686,8 +11378,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १२.४९ \।\।
 
-
-
 वेदा ऊचुः
 
 किं जानीमो वयं के वाप्य् अनन्तेशस्य यो गुणः \।
@@ -11703,8 +11393,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १२.५० \।\।
-
-
 
 मुनयः ऊचुः
 
@@ -11722,8 +11410,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १२.५१ \।\।
 
-
-
 सरस्वत्य् उवाच
 
 विद्याधिदेवताहं च वेदा विद्याधिदेवकाः \।
@@ -11739,8 +11425,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १२.५२ \।\।
-
-
 
 पद्मोवाच
 
@@ -11758,8 +11442,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १२.५३ \।\।
 
-
-
 सावित्र्य् उवाच
 
 सावित्री वेद-माताहं वेदानां जनको विधिः \।
@@ -11775,8 +11457,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १२.५४ \।\।
-
-
 
 श्री-पार्वत्य् उवाच
 
@@ -11920,8 +11600,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १२.६४ \।\।
 
-
-
 इति संवृतं स्तोत्रं यः पठेत् संयतः शुचिः \।
 
 इहैव च सुखं भुङ्क्ते यात्य् अन्ते श्री-हरेः पदम् \।\।
@@ -11950,11 +11628,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १२.६६ \।\।
 
-
-
 अथ गन्धर्व-कृत-स्तोत्रम्
-
-
 
 गन्धर्व उवाच
 
@@ -12086,8 +11760,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 योगिनस् तं प्रपद्यन्ते भगवन्तं सनातनम् \।
 
-
-
 इत्य् एवम् उक्त्वा गन्धर्वः पपात धरणी-तले \।\।
 
 ज्ञा. सा. सं
@@ -12130,19 +11802,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १२.७८ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे
 
 गन्धर्व-कृत-स्तोत्रं नाम द्वादशोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे त्रयोदशोऽध्यायः
-
-
 
 श्री-शुक उवाच
 
@@ -12160,8 +11824,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १३.१ \।\।
 
-
-
 श्री-व्यास उवाच
 
 स्तोत्रान्तरे च काले च गन्धर्वश् चोपवर्हणः \।
@@ -12177,8 +11839,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १३.२ \।\।
-
-
 
 सर्वैर् देवैर् अहं शप्तश् चाधुना देव-हेतुना \।
 
@@ -12236,8 +11896,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १३.६ \।\।
 
-
-
 गन्धर्वस्य वचः श्रुत्वा प्रहस्य जगद्-ईश्वरः \।
 
 उवाच श्लक्ष्णया वाचा ब्रह्मेशो ब्रह्म-संसदि \।\।
@@ -12252,11 +11910,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १३.७ \।\।
 
-
-
 अथ गन्धर्व-मोक्षणम्
-
-
 
 श्री-भगवान् उवाच
 
@@ -12626,8 +12280,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 मन्-मन्त्रं पुनर् एवेति शम्भु-वक्त्राल् लभिष्यसि \।
 
-
-
 इत्य् एवम् उक्त्वा सर्वात्मा तत्रैवान्तरधीयत \।\।
 
 ज्ञा. सा. सं
@@ -12654,21 +12306,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १३.३५ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे प्रथमैक-रात्रे
 
 गन्धर्व-मोक्षणं नाम त्रयोदशोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे चतुर्दशोऽध्यायः
-
-
-
-
 
 श्री-शुक उवाच
 
@@ -12685,8 +12327,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १४.१ \।\।
-
-
 
 श्री-व्यास उवाच
 
@@ -12717,8 +12357,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १४.३ \।\।
-
-
 
 श्री-महा-देव उवाच
 
@@ -13074,8 +12712,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.२८ \।\।
 
-
-
 ब्रह्मोवच
 
 ज्वरस् त्रि-पादस् त्रि-शिराः षड्-भुजो नव-लोचनः \।
@@ -13302,8 +12938,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.४४ \।\।
 
-
-
 स्त्रिय ऊचुः
 
 किम् अस्मान् ब्रूहि भगवन् शाधि नः करवाम किम् \।
@@ -13319,8 +12953,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १४.४५ \।\।
-
-
 
 ब्रह्मोवाच
 
@@ -13351,8 +12983,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १४.४७ \।\।
-
-
 
 स्त्रिय ऊचुः
 
@@ -13412,8 +13042,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.५१ \।\।
 
-
-
 पति-व्रता-वचः श्रुत्वा तम् उवाच शिवः स्वयम् \।
 
 हितं सत्यं निति-सारं परिणाम-सुखावहम् \।\।
@@ -13428,11 +13056,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.५२ \।\।
 
-
-
 अथ कुलटोत्पत्तिः
-
-
 
 श्री-महा-देव उवाच
 
@@ -13463,8 +13087,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १४.५४ \।\।
-
-
 
 शङ्करस्य वचः श्रुत्वा सत्वरं जगतां विधिः \।
 
@@ -13662,8 +13284,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.६८ \।\।
 
-
-
 कृत्या-कामिन्य् उवाच
 
 मां भजस्व रवेः पुत्र प्रियां रसवतीं मुदा \।
@@ -13722,8 +13342,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.७२ \।\।
 
-
-
 कुमार उवाच
 
 वचनं वद वामे माम् आत्मनो हृदयङ्गम \।
@@ -13754,8 +13372,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.७४ \।\।
 
-
-
 अश्विनीज-वचः श्रुत्वा कामार्ता तम् उवाच सा \।
 
 कामार्तानां क्व लज्जा च क्व भयं मानम् एव च \।\।
@@ -13770,11 +13386,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.७५ \।\।
 
-
-
 अथ कुलटा-स्वभाव-कथनम्
-
-
 
 कामिन्य् उवाच
 
@@ -14142,8 +13754,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.१०१ \।\।
 
-
-
 श्रुत्वा च कृत्या-स्त्री-वाक्यं जहसुर् मुनयः सुराः \।
 
 चुकुपुर् योषितः सर्वाः पद्माद्या लज्जिताः सुत \।\।
@@ -14241,8 +13851,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १४.१०८ \।\।
-
-
 
 पार्वत्य् उवाच
 
@@ -14344,8 +13952,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.११५ \।\।
 
-
-
 इत्य् एवम् उक्त्वा प्रययुर् देव्यश् च सर्व-योषितः \।
 
 देवाश् च मुनयश् चापि ये चान्ये च समागतः \।\।
@@ -14374,21 +13980,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १४.११७ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञाणामृत-सारे प्रथमैक-रात्रे
 
 कुलटोत्त्पतिर् नाम चतुर्दशोऽध्यायः
 
-
-
-
-
 प्रथमैक-रात्रे पञ्चदशोऽध्यायः
-
-
-
-
 
 गते नियमिते काले गन्धर्वश् चोपवर्हणः \।
 
@@ -14531,8 +14127,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 ,
 
 १५.१० \।\।
-
-
 
 भगवन् सर्व-धर्म-ज्ञ सर्व-ज्ञ सर्व-कारण \।
 
@@ -14800,8 +14394,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १५.२९ \।\।
 
-
-
 नारदस्य वचः श्रुत्वा योगिनां च गुरोर् गुरुः \।
 
 भगवत्या सहालोच्य ज्ञानं वक्तुं समुद्यतः \।\।
@@ -14830,13 +14422,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Mjk5NTk2MTYz
 
 १५.३१ \।\।
 
-
-
 इति श्री-नारद-पञ्च-रात्रे ज्ञानामृत-सारे
 
 प्रथमैक-रात्रे पञ्चदशोऽध्यायः
-
-
 
 समाप्तश् चेदं नारद-पञ्च-रात्रैक-रात्रम्
 

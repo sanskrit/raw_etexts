@@ -16,21 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1MjQ3MTM4Mjg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **FOREWORD**
 
@@ -55,8 +41,6 @@ K. M. PANIKKAR
 
 **———————**
 
-
-
 **INTRODUCTION**
 
  It is a proud privilege for me to associate myself with this important poetic composition of Pandita Ksama Row, the *Uttara-Satyagraha-Gita,* by writing an Introduction to it. Her name has already become well known to all Sanskrit scholars through her many previous poems. She inherited her scholarship in Sanskrit from her father, Mr S. P. Pandit, whose life she has written in the form of a beautiful poem called *Sankarajivanakhyana.* Her fascinating poem on Mirabai, called *Miralahari,* has secured for her a place among the best poets in Sanskrit, both ancient and modern.
@@ -79,8 +63,6 @@ C. KUNHAN RAJA
 
 **——————**
 
-
-
 **PREFACE**
 
 ** **I have been often asked why I do not write in a 'living' language and my reply has been that any language in which one can write on a modern subject is a living language and Sanskrit, therfore, is as much alive as any other language spoken in India. In my humble opinion Sanskrit lends itself beautifully to depict the spiritual grandeur of Bapu's creed of Truth and Ahimsa. Sanskrit has lived for thousands of years in spite of numerous foreign invasions and will live as long as India lives.
@@ -92,8 +74,6 @@ C. KUNHAN RAJA
  I had great hopes of placing this tribute at the sacred feet of the hero of my book but alas! it was not to be and my wish has to remain unfulfilled.
 
 KSAMA ROW
-
-
 
 |                       |                                      |
 |:---------------------:|:------------------------------------:|
@@ -119,8 +99,6 @@ KSAMA ROW
 |          १९           |      परदेशीययात्रिकेन सह संवादः      |
 |          २०           |     विदेशीयसन्नार्या सह संलपनम्      |
 
-
-
 |     |                                 |
 |:---:|---------------------------------|
 | २१  | राष्ट्रभाषाया विमर्शः           |
@@ -145,8 +123,6 @@ KSAMA ROW
 | ४०  | रामगडप्रदर्शनम्                 |
 | ४१  | मुग्धप्रबोधनम्                  |
 
-
-
 |     |                           |
 |:---:|---------------------------|
 | ४२  | शासनोपहारनिराकरणम्        |
@@ -160,8 +136,6 @@ KSAMA ROW
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 |                             |           |              |
 |:---------------------------:|:---------:|:------------:|
 | **उर्वरितविशुद्धिपत्रम्|** |           |              |
@@ -172,8 +146,6 @@ KSAMA ROW
 |             ૪૪              |    ३७     |   कुतोऽपि    |
 |             २०              |    ७८     |     फलति     |
 |             ४५              |     ५     |    आग्नेय    |
-
-
 
 |              |                                             |
 |:------------:|:-------------------------------------------:|
@@ -207,8 +179,6 @@ KSAMA ROW
 |      27      |             The Rajkot Incident             |
 |      28      |             Object of Fasting              |
 
-
-
 |     |                                                |
 |:---:|------------------------------------------------|
 | 29  | Opening of Temples in Delhi                    |
@@ -230,8 +200,6 @@ KSAMA ROW
 | 45  | Gandhi Repudiates Charges Against the Congress |
 | 46  | Gandhi Jinnah Meeting                          |
 | 47  | Gandhi's Return to Sevagram                    |
-
-
 
 **प्रथमोऽध्यायः।**
 
@@ -335,8 +303,6 @@ KSAMA ROW
 नाम प्रथमोऽध्यायः।
 
 **—————————**
-
-
 
 **द्वितीयोऽध्यायः।**
 
@@ -450,8 +416,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां समुद्रयानवर्णनो नाम द्वितीयोऽध्यायः।  
 **————————**
-
-
 
 **तृतीयोऽध्यायः।**
 
@@ -614,8 +578,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां चक्रगोष्ठिविजृम्भणो नाम तृतीयोऽध्यायः।  
 **—————————**
 
-
-
 **चतुर्थोऽध्यायः।**
 
 **अथ वंगप्रयागेषु भूकरो न समर्पितः।  
@@ -733,8 +695,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां भूकरविधारणो नाम चतुर्थोऽध्यायः।  
 **————————**
 
-
-
 **पञ्चमोऽध्यायः।**
 
 **राष्ट्रसंघोऽद्य शान्तार्चिरिति मेने क्वचिज्जनः।  
@@ -772,8 +732,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां दिल्लीक्षणिकसभानिर्णयघोषणोनाम पञ्चमोऽध्यायः**।  
 —————————**
-
-
 
 **षष्ठोऽध्यायः।**
 
@@ -833,8 +791,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां सत्याग्रहनिरोधनो नाम षष्ठोऽध्यायः।  
 **————————**
-
-
 
 **सप्तमोऽध्यायः।**
 
@@ -972,8 +928,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां श्वेतपत्रपरिवर्तनयत्नोनाम सप्तमोऽध्यायः।  
 **————————**
-
-
 
 **अष्टमोऽध्यायः।**
 
@@ -1118,8 +1072,6 @@ KSAMA ROW
 
 **—————————**
 
-
-
 **दशमोऽध्यायः।**
 
 **उपवासं पुनर्गान्धिरग्रहीदात्मशुद्धये।  
@@ -1185,8 +1137,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां त्रिसप्ताहिकोपोषणो नाम दशमोऽध्यायः।  
 **———————**
 
-
-
 **एकादशोऽध्यायः।**
 
 **गान्धिरुवाच।**
@@ -1235,8 +1185,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां सामूहिकसत्याग्रहप्रतिषेधको नामैकादशोऽध्यायः।  
 **————————**
-
-
 
 **द्वादशोऽध्यायः।**
 
@@ -1347,8 +1295,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां भूकम्पविप्लवो नाम द्वादशोऽध्यायः।  
 **——————**
-
-
 
 **त्रयोदशोऽध्यायः।**
 
@@ -1535,8 +1481,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां न्यायविधायकसभाप्रवेशनो नाम त्रयोदशोऽध्यायः।  
 **——————**
 
-
-
 **चतुर्दशोऽध्यायः।**
 
 **अथ वैशाखमास्येकः समाजः समजायत।  
@@ -1616,8 +1560,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां शासनभंगवारणो नाम चतुर्दशोऽध्यायः।  
 **——————**
-
-
 
 **पञ्चदशोऽध्यायः।**
 
@@ -1815,8 +1757,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां गान्धिनिर्गमनो नाम पञ्चदशोऽध्यायः।  
 **———————**
-
-
 
 **षोडशोऽध्यायः।**
 
@@ -2393,8 +2333,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां यात्रिकसंवादो नाम नवदशोऽध्यायः।  
 **—————**
 
-
-
 **विंशोऽध्यायः।**
 
 **एकदा नापितः कश्चिदस्पृश्यत्वे कृतादरः।  
@@ -2720,8 +2658,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां विदेशस्त्रीसंवादो नाम विंशोऽध्यायः।  
 **——————**
 
-
-
 **एकविंशोऽध्यायः।**
 
 **अथ माधवदेसाई नाम मन्त्री महात्मनः।  
@@ -2951,8 +2887,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां राष्ट्रभाषाविमर्शो नामैकविंशोऽध्यायः।  
 **———————**
 
-
-
 **द्वाविंशोऽध्यायः।**
 
 **अथ शार्मण्यदेशीयः सेवाग्राममुपागमत्।  
@@ -3138,8 +3072,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां शार्मण्यालापनो नाम द्वाविंशोऽध्यायः।  
 **—————**
 
-
-
 **त्रयोविंशोऽध्यायः।**
 
 **अथ हिन्दीप्रचाराय स्थापितेऽध्यापनालये।  
@@ -3315,8 +3247,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां मन्त्रिमण्डलानुशासनोनाम त्रयोविंशोऽध्यायः।  
 **—————**
-
-
 
 **चतुर्विंशोऽध्यायः।**
 
@@ -3674,8 +3604,6 @@ KSAMA ROW
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **गान्धिरुवाच**
 
 **मान्यश्चेदतिथिः सोऽयं मन्दिरान्तः प्रवेश्यते।  
@@ -3695,8 +3623,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां हरिपुरीयसंमेलनो नाम पञ्चविंशोऽध्यायः।  
 **—————————**
-
-
 
 **षड्विंशोऽध्यायः।**
 
@@ -3858,8 +3784,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां सभात्यागसाहसो नाम षड्विंशोऽध्यायः।  
 **———————**
-
-
 
 **सप्तविंशोऽध्यायः।**
 
@@ -4217,8 +4141,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां राजदुर्गसंक्षोभो नाम सप्तविंशोऽध्यायः।  
 **——————**
 
-
-
 **अष्टाविंशोऽध्यायः।**
 
 **प्रायोपवेशनत्वस्य व्याख्यानं नास्तिकान् प्रति।  
@@ -4283,8 +4205,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां प्रायोपवेशनप्रयोजनो नामाष्टाविंशोऽध्यायः।  
 **———————**
-
-
 
 **नवविंशोऽध्यायः।**
 
@@ -4434,8 +4354,6 @@ KSAMA ROW
 **तदानीं जनसम्मर्दो यानस्थाने महाद्भुतः।  
 दृश्यते स्म प्रतोलीषु गृहाणां पटलेषु च॥२५॥**
 
-
-
 **वृन्दावनप्रसङ्गाध्यायः ३१**
 
 **अहो कृतज्ञातमूला प्रीतिरेषा निसर्गजा।  
@@ -4449,8 +4367,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां चम्पारण्यकृषिकोत्साहनो नाम त्रिंशोऽध्यायः।  
 **————————**
-
-
 
 **एकत्रिंशोऽध्यायः।**
 
@@ -4638,8 +4554,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां वृन्दावनप्रसंगो नामैकत्रिंशोऽध्यायः।  
 **——————**
 
-
-
 **द्वात्रिंशोऽध्यायः।**
 
 **राष्ट्रीयध्वजमुद्दिश्य वाङ्मयं गान्धिरब्रवीत्।  
@@ -4777,8 +4691,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां राष्ट्रध्वजपूजनो नाम द्वात्रिंशोऽध्यायः।  
 **———————**
 
-
-
 **त्रयस्त्रिंशोऽध्यायः।**
 
 **अथ भाद्रपदे मासि संजज्ञे सममांगलैः।  
@@ -4871,8 +4783,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां पाश्चात्ययुद्धारंभणो नाम त्रयस्त्रिंशोऽध्यायः।  
 **———————**
-
-
 
 **राजदुर्गसंक्षोभाध्यायः ३४**
 
@@ -5045,8 +4955,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां पटीयालाभूपसान्त्वनो नाम चतुस्त्रिंशोऽध्यायः।  
 **———————**
 
-
-
 **पञ्चत्रिंशोऽध्यायः।**
 
 **साम्राट्प्रतिनिधेरग्रे गान्धिना यत्प्रपञ्चितम्।  
@@ -5150,8 +5058,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां पोलण्डनायकसान्त्वनो नाम पञ्चत्रिंशोऽध्यायः।  
 **————————**
-
-
 
 **षट्त्रिंशोऽध्यायः।**
 
@@ -5294,8 +5200,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां लक्ष्योत्तेजनो नाम षट्त्रिंशोऽध्यायः।  
 **———————**
-
-
 
 **सप्तत्रिंशोऽध्यायः।**
 
@@ -5446,8 +5350,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां मूलस्तम्भचतुष्टयो नाम सप्तत्रिंशोऽध्यायः।  
 **———————**
 
-
-
 **अष्टत्रिंशोऽध्यायः।**
 
 **कालेऽथ तदनुप्राप्ते गत्वा शान्तिनिकेतनम्।  
@@ -5532,8 +5434,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां शांतिनिकेतनागमोनामाष्टत्रिंशोऽध्यायः।  
 **—————————**
-
-
 
 **नवत्रिंशोऽध्यायः।**
 
@@ -5646,8 +5546,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां महायुद्धनिराकरणो नाम नवत्रिंशोऽध्यायः।  
 **———————**
-
-
 
 **चत्वारिंशोऽध्यायः।**
 
@@ -5984,8 +5882,6 @@ KSAMA ROW
 **इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां मुग्धप्रबोधनो नामैकचत्वारिंशोऽध्यायः।  
 \_\_\_\_\_\_\_\_\_**
 
-
-
 **शासनोपहारनिराकृतिर्नामाध्यायः ४२**
 
 **द्वाचत्वारिंशोऽध्यायः।**
@@ -6075,8 +5971,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां शासनोपहारनिराकृतिर्नामद्वाचत्वारिंशोऽध्यायः।  
 **——————**
-
-
 
 **त्रिचत्वारिंशोऽध्यायः।**
 
@@ -6168,8 +6062,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां मुञ्चभारतनिर्णयघोषणो नाम त्रिचत्वारिंशोऽध्यायः।  
 **————————**
-
-
 
 **वंगीयमहादुर्भिक्षवर्णनाध्यायः ४४**
 
@@ -6291,8 +6183,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां वंगीयमहादुर्भिक्षवर्णनोनाम चतुश्चत्वारिंशोऽध्यायः।  
 **————————**
-
-
 
 **मिथ्याभिशंसनाध्यायः ४५**
 
@@ -6437,8 +6327,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां मिथ्याभिशंसनो नाम पञ्चचत्वारिंशोऽध्यायः।  
 **————————**
-
-
 
 **षट्चत्वारिंशोऽध्यायः।**
 
@@ -6587,8 +6475,6 @@ KSAMA ROW
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां जिन्नागान्धिसमागमोनाम षट्चत्वारिंशोऽध्यायः।  
 **————————**
 
-
-
 **सप्तचत्वारिंशोऽध्यायः।**
 
 **अचिरादथ संत्यज्य गान्धिर्मोहमयीं पुरीम्।  
@@ -6660,8 +6546,6 @@ KSAMA ROW
 
 इति सौ. क्षमायाः कृतिषूत्तरसत्याग्रहगीतायां गान्धेर्जन्मोत्सवप्रस्तावोनाम सप्तचत्वारिंशोऽध्यायः।  
 **————————**
-
-
 
 **GANDHI VISITS THE VICEROY**
 
@@ -7357,8 +7241,6 @@ and silk, commencing from gathering, clearing, ginning, cleaning, carding, to sp
 
  Subhas Chandra Bose who presided at the session; duly opened the proceedings of the meeting. The first resolution about the Nation’s opposition to the Federal Government plan was moved and unanimously passed. Next was the acceptance of ministries, provided assurance was given by the Government about noninterference policy. With these two and a few other resolutions passed without much discussion, the session ended happily.
 
-
-
 **\[ 22-39 \]**
 
  In the month of March there was a shocking communal riot between Hindus and Muslims at Allahabad. With a hand to hand scuffle, followed by a fight with stones, the town was covered with hundreds of wounded and deadp eople. The ministers tried to pacify the furious crowds but failed miserably. Finally, they brought in the police and the military to quell the riot. Mahatma Gandhi was greatly distressed to hear the news and wrote in the *Harijan* his views on the subject;
@@ -7517,7 +7399,6 @@ asked the Islamia.
 **\[ 5-17 \]**
 
  Finally, an ignorant but persistent farmer who heard of the Satyagraha practised in South Africa, approached Gandhi. Moved by the heart-rending tales of woe the Mahatma hastened to Bihar to render service to the oppressed. There he had only to see the peasants' bent and emaciated bodies, their sunken eyes and tattered clothes to realize the blight that had befallen this delightfully wooded and well watered land. He asked them to stop their useless agitation for he had brought for them something more effective.  
-
 
  Gandhi's presence was like an eyesore to the ruthless planters as his fame had already preceded him. This being the very first time when one of the ryotes' countrymen had come here to befriend his woebegone brethren, they ordered him peremptorily to keep off. Gandhi hurled defiance at them. This was an awakening to the land. Ho told the ryots that Champaran must fight her own battle and not look for men or money from outside. This advice drew the brightest men of Bihar to his help. Rajendra Prasad, Kripalani, Vraj Kishore and others came to relieve the oppressed people of the beautiful Champaran. They worked day and night, taking down statements from thousands of ryots.
 
@@ -7977,8 +7858,6 @@ CHARGES AGAINST THE CONGRESS**
 BOMBAY,![](../books_images/U-IMG-1722506774Screenshot2024-08-01153405.png)![](#)  
 *Oct 1944![](../books_images/U-IMG-1722506893Screenshot2024-08-01153425.png)*
 
-
-
 |                      |                         |
 |:--------------------:|:-----------------------:|
 | **विशुद्धिपत्रम्|** |                         |
@@ -8004,8 +7883,6 @@ BOMBAY,![](../books_images/U-IMG-1722506774Screenshot2024-08-01153405.png)![](#)
 |          २०          |       श्रमा गृहाः       |
 |          ३७          |        चक्रुर्नः        |
 |          ४८          |          कला|           |
-
-
 
 |             |                                         |
 |:-----------:|-----------------------------------------|
@@ -8035,17 +7912,4 @@ BOMBAY,![](../books_images/U-IMG-1722506774Screenshot2024-08-01153405.png)![](#)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-

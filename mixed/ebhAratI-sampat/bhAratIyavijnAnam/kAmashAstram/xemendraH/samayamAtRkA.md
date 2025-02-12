@@ -18,41 +18,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 **काव्यमाला।**  
 **![](../books_images/U-IMG-1698381264Untitled_321-removebg-preview.png)**  
 **महाकविश्रीक्षेमेन्द्रकृता**  
 **समयमातृका  
 ![](../books_images/U-IMG-1698381370Untitled_3213-removebg-preview.png)**
-
-
 
 प्रथमः समयः।
 
@@ -253,8 +231,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 इति श्रीव्यासदासापराख्यक्षेमेन्द्रनिर्मितायां समयमातृकायां चिन्तापरिप्रश्नो नाम  
 प्रथमः समयः।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 द्वितीयः समयः।
 
@@ -665,7 +641,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 द्वितीयः समयः।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
 तृतीयः समयः।
 
 अथ सर्वार्थजननीं जननीं[^25] वेशयोषिताम्।  
@@ -815,7 +790,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 
 तृतीयः समयः।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
 
 चतुर्थः समयः ।
 
@@ -1294,8 +1268,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 चतुर्थः समयः।  
 \_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 पञ्चमः समयः।
 
 अथ मन्मथमत्तानां करिणामिव कामिनाम्।  
@@ -1575,8 +1547,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 इति श्रीक्षेमेन्द्रविरचितायां समयमातृकायां रागविभागोपन्यासो नाम  
 पञ्चमः समयः।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 षष्ठः समयः।
 
@@ -2301,13 +2271,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 
 **इति श्रीक्षेमेन्द्रकृता समयमातृका समाप्ता ।**
 
-
-
-
-
 ![](../books_images/U-IMG-1698494103Untitled456-removebg-preview.png)
-
-
 
 **निर्णयसागरेऽङ्कितानि विक्रेयपुस्तकानि ।**
 
@@ -2338,67 +2302,4 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 **पाण्डुरंग जावजी,**  
 **निर्णयसागर प्रेसचे मालक.**
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

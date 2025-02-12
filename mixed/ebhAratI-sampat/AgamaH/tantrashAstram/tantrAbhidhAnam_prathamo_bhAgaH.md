@@ -15,23 +15,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDQwODk3MjI
 
 \[
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
-
-[TABLE]
-
-
 
 **INTRODUCTION**  
 
@@ -43,8 +31,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDQwODk3MjI
 
   A smaller collection of some of the same Tantras has been published at Calcutta in Devanāgarī by Pandit Jīvānanda Vidyāsāgara. The latter series includes Kulārṇava, Tārā-rahasya, Tripurāsāra-samuccaya, Mahānirvāna, Yogini, Rudrayāmala (Uttara-bhāga), Syāmārahasya Tantras; the Sāradātilaka, Prāṇa-toṣiṇī, Tantramahodadhi; also a collection of smaller works on “Magic” (Indrajāla) entitled Indrajālavidya-saṃgraha.
 
-
-
    A very large amount of work has, however, yet to be done before anything like an adequate collection of the most important of extant MSS. is made. These are yearly being lost or destroyed, and if the ancient Śāstra is to be preserved, steps must be taken for that purpose at once. The extent of theTantra Śāstra may in a small degree be made apparent by a reference to the groups (of 64 Tantras each) which have been assigned to the regions known as Viṣṇu-krāntā, Ratha-krāntā and Aśva-krāntā.
 
    The following Tantras are assigned by the Mahāsiddhasāra Tantra to the several regions though there are differences of opinion as regards particular Tantras. Thus in the first list some would exclude the Tantrāntara and include the Yogārṇava.Some Tantras appear in more than one of these lists.
@@ -52,8 +38,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MDQwODk3MjI
   The Tantras of the Viṣṇu-krāntā are said to include the following :—
 
  1. Siddhiśvara, 2. Kāli-tantra, 3. Kulāraṇva, 4. Jñānārnava, 5. Nīla-tantra, 6. Phetkārī, 7. Devyāgama, 8. Uttara, 9. Śrī krama, 10. Siddhi-yamāla, 11. Matsya-sūkta, 12. Siddhasāra, 13.Siddhi-sārasvata, 14.Vārāhī, 15.Yoginī, 16.Gaṇeśavimarṣiṇī, 17.Nityā-tanra, 18. Śivāgama, 19. Cāmuṇdā 20. Muṇdamālā, 21. Haṅsa-Maheśvara,22.Niruttara, 23. Kulaprakāśaka, 24. Devīkalpa, 25. Gandharva, 26. Kriyāsāra, 27. Nibandha, 28. Svatantra, 29. Sammohana 30. Tantra-rāja, 31. Lalitā, 32. Rādhā, 33. Mālinī, 34. Rudr-yāmala, 35. Bṛhat-Śrikrama, 36. Gavākṣa, 37. Sukumudinī, 38. Vishuddheśvara, 39. Mālini-vijaya, 40. Samayācāra, 41. Bhairavī, 42. Yoginīhrdaya, 43. Bhairava, 44. Sanatkumāra45.Yoni, 46. Tantrāntara, 47. Navaratneśvara, 48. Kula-cūḍāmaṇi, 49. Bhāvacūḍāmani, 50. Deva-prakāśa, 51. Kāmākhyā, 52. Kāmadhenu, 53. Kumārī, 54. Bhūta-dāmara, 55. Yāmala, 56. Brahma-yāmala 57. Viśvasāra, 58. Mahākāla, 59. Kuloḍḍīśa, 60. Kulāmṛta, 61. Kubjikā, 62. Yantra-cintāmani, 63. Kāli-vilāsa, 64. Māyātantra.
-
-
 
 The following are given as Ratha-krāntā Tantras :—
 
@@ -63,26 +47,18 @@ The following are given as Ratha-krāntā Tantras :—
 
   1. Bhūta-śuddhi, 2 Gupta-dikṣā. 3. Bṛhat-sāra, 4. Tattva-sāra, 5. Varṇa-sāra, 6. Kriyā-sāra, 7. Gupta-tantra, 8. Gupta-sāra, 9. Bṛhattoḍala, ro. Bṛhan-nirvāṇa, 11. Bṛhat-kaṇkālinī, 12. Siddhā-tantra, 13. Kāla-tantra, 14. śiva-tantra, 15. Sārātsāra, 16. Gauri-tantra, 17Yoga-tantra, 18. Dharmaka-tantra. 19.Tattva-cintamāni, 20. Bindu-tantra, 21. Mahā-yogini, 22.BṛhatBṛhat 23. Sivārcaņa, 24. Sambara, 25. Śūlinī, 27. Moksa, 28. Brhan-mālinī, 29. Maha-mokṣa, 30. Brhan-moksa, 31. Gopi-tantra, 32. Bhūta-lipi, 33. Kāmini,
 
-
-
 34\. Mohinī, 35. Mohana, 36. Samiīraṇa, 37. Kāma-keśara 38. Mahā-vīra, 39. Cūḍāmaṇi, 40. Gurvarcana, 41. Gopya, 42. Tīkṣṇa, 53. Maṅgalā, 44. Kāmaratna, 45. Gopalilāmṛta, 46. Brahmāṇḍa, 47. Cīna, 48. Mahā-niruttara, 49. Bhuteśvara, 50. Gāyatrī, 51. Viśuddheśvara, 52.Yogārṇava, 53-Bheraṇdā, 54. Mantracintāmaṇi,55. Yantracūdāmaṇi, 56. Vidyullatā, 57. Bhubaneśvarī,58. Līlāvati, 59. Bṛhac-cīna, 60. Kurañja, 61. Jayarādhā-mādhava, 62. Ujjāsaka, 63. Dhūmāvatī, 64. Sivā.
 
  Given the rapid disappearance of MSS., the paucity ofprinted texts, and the general ignorance which prevails as to their subject matter, many at the present day are disposed to say that none of these matters have any importance, and that if the Śāstra threatens to pass into oblivion, that is where it ought to go. Few, if any, of those who take this view have any knowledge of the subject which they condemn. It will, however, be sufficient here to say that it must be universally conceded that the Tantra has firstly historical value, and is secondly the only source whence a knowledge of sādhana in all its aspects may be learnt. To the mere student of religions, therefore, who approaches the matter with an interest which is purely historical, the Śāstra will be found to be worth his study apart from the intrinsic value (if in his opinion any) which it may possess. The answer to the question whether the exposition of such sādhana has any other than an historical value, must of course depend upon the point of view of the reader. That it has such value is a personal opinion for which I have given shortly some general reasons elsewhere, which I hope to elaborate in greater detail at some future time. For many years past, however, the Śāstra has suffered neglect at the hands of both Indian and European scholars alike, thoughof course the Sādhaka has adhered to the Mantra or Sādhana-Śāstra , as it is rightly specifically called, having learnt from the Guru the key whereby it may be understood, and gained
-
-
 
 personal experience of the truth of its claims to be a pratyakṣa scripture. For it is said that it is only by such initiation (*śrī-nātha-vaktrāt*) and personal experience that certain portion of the Śāstra can be fully understood. From whom may the subtle principles of Mantra-tattva be learnt if not from the accredited exponents of Mantra-Śāstra? And the same may be said of sādhana and Yoga. For the purposes for which the Śāstra was proclaimed the written word and the knowledge gained therefrom (*pustake likhitā vidyā*) of themselves avail, it is said, but little. And so in the Ṣaṭcakra-nirupaṇa which is published in the second volume of this Series, it is said of the Yoga process there described, “It can be learnt from the Guru alone, and not from ten million Śāstras.” 
 
   If that be true, this Series will, however, at least serve a more limited purpose, namely the preservation of a written record which is now perishing, but which if saved from loss, will prove both of literary interest to the student, and of real value to the Sādhaka who reading it with faith, and by the aid of its authorised expositors, will achieve by its means some practical result. For how many ‘learned’there are who pass through life like the mule laden with books as described by the Hindu poet? Those for whom it will be so operative must ordinarily be Hindus. For whilst the general principles of all religions are, when rightly understood, fundamentally, though not formally, the same, the sādhana by which they are in practice realised must necessarily to a considerable extent vary with the individual and his race. Even here, however, it will be found that there are matters of general applicability, though the mode and terms in which they should be presented may again vary according to the language and ereed of those to whom their exposition is addressed. There are also other subjects of the Tantra-Śāstra both of theory and practice, which when understood will be found to possess a general scientific and metaphysical interest.
 
-
-
 The works which have been chosen for publication in the first volume of the series are of the Dictionary Class. It was customary with Pandits in past times to make excerpts from Tantras of such portions as might be of general importance and of current use. Thus the Prakārāntara-Mantrābhidhāna is reputed to be part of the Rudrayāmala the first portion of which, so far as I am aware, is not found. The Mātṛkāni-ghaṇṭu and the Bījanighaṇṭu or Mantra-koṣa by Bhairava Ṛṣi are dictionaries of the single vowels and consonants of the Sanskrit alphabet. Both are now published from ancient MSS.. for the first time. They give the Tāntrika meaning of the vowels and then of the consonants with a view to facilitate the understanding of the Tāntrika *bījas* or *mantras* of that These *bījas* are generally given in the texts in a covert way. Thus in the Tripuṭā-stotra cited in the Tantra-sāra it is said “Such as recite the first of thy golden *vīja*, *Bakam* placed on *Vahni* accompanied by *Tri-mūrti* combined with *Śaśāṅka(Baka**ṃ** vahnisaṃsthaṃ tri-mūrtyā prajuṣṭaṃ Śaśāṅkena yuktam)* attain all prosperity.” This standing by itself isunintelligible; but *Bakam* which ordinarily means a “crane,” in its special *bīja* sense is **श**, *Vahni* or fire is **र**, Tri-*murti* or the Trinity is **ई**and Śaśāṅkaor the moon or that in “whose lap is the hare” or man in the moon, is *Chandrabindu*. The *bīja* therefore referred to in the *stotra* is **श र ई**which is theLakṣmī-bīja “*Srim*.” The *varna*
 equivalent of the terms must thus be understood before the bīja referred to can be read.
 
     So again, the *Kali-bīja* is composed of the first of the *Kavarga,* (क) *vahni, rati* and *bindu*. The last three are terms for **र, ई**, and *candrabindu*, the *bīja* referred to being *Krīṁ*. A reference to the Koşa under **ई** will show that by Rati that vowel is referred to, and that the same vowel has other cannot ations such as Govinda, Tri-mūrti, Vāmākṣī, Kamalā, Kalā, Māyā, Lakṣmī, Śānti and Vaiṣṇavī. Similarly the
-
-
 
 meaning of Vahni (the रं *bīja*) and of bindu or *anusvāra* may be learnt.
 
@@ -92,10 +68,7 @@ meaning of Vahni (the रं *bīja*) and of bindu or *anusvāra* may be learnt.
 
   Another work of the Dictionary class which it is hoped to publish, and which may meanwhile be recommended to those students of Śāstra who are fortunate enough to possess one of the rare copies now extant, is the Prāṇakṛṣṇa-śabdāmbudhi compiled at the instance of Prāṇa-kṛṣṇaBiswās, as was the better known and published Tāntrik compendium called after him—the Praṇatoṣini. The first-named work gives the meaning of a number of terms to be found in this and other Śāstraseven though it be sometimes with a terseness which may seem inadequate to the otherwise uninformed reader. Yet another work, now out of print, is the Bījoddhārakośa by Daksiṇāmūrti-muni, printed at Benares some 45 years ago. To introduce, however, variety the second volume of this series con-
 
-
-
 tains the celebrated Ṣaṭcakranirūpaṇa of Purṇānanda-svāmī being a portion of his very extensive work the Śri-tattva-cin tāmaṇi, with notes by Kali-caraṇa and Śaṅkara; the Pādukā pañcaka with notes by the former; and notes from the Tīkā of Viśvanātha on the second Paṭala of the Kaivalya-Kalikā Tantra of which I have so far not come across a copy. This second volume is now ready. The third and fourth volumes which are in the press will contain the celebrated Prapañcasāra which though so frequently cited in Tāntrik literature has not, I believe, yet been published. It is intended to bring out later the Prapañcasāra-sambandha-dīpikā and the Prapañcasāravivaraṅa by Padmapādacārya one of the disciples of the Śaṅkara. The contents of further volumes will be notified on the appearance of the third.  
-
 
 **C**
 
@@ -111,17 +84,11 @@ tains the celebrated Ṣaṭcakranirūpaṇa of Purṇānanda-svāmī being a po
 **VALON**  
 *January, 1913.*
 
-
-
 **PREFACE TO THE SECOND EDITION**
 
   Arthur Avalon, the late editor of the Āgamānusandhāna Samiti had thought of publishing a revised second edition of the Tantrābhidhāna quite a long time ago; but this did not materialise as he was heavily engaged in editing the Śāradātilaka (Vols. XVI and XVII) and Prapañcasāra (Vols. XVIII and XIX) Tantras. Inspite of this heavy programme, he had already succeeded in securing some and was on the look out for other new Mss. of the present work. But unfortunately he passed away in the beginning of the year 1936, leaving this work unfinished. When the first edition of this work was brought out in 1913, other works of this type were rarely to be met with, and learned co-operation in the direction of its publication was also very slow in making its appearance; consequently some unfortunate inaccuracies inadvertently crept into the book. In the present edition, an attempt has been made to remove these errors as far as practicable. The text, as published in the first edition, have, in most places, been enlarged and sometimes altered in the present edition by a careful collation and comparison of the new Mss. collected. The former edition consisted of a collection of... (1) Mantrābhidhāna, (2) Prakārāntara-Mantrābhidhāna, (3) Ekākṣarakoṣa, (4) Bījanighaṇṭu, (5) Mātṛkānighaṇṭu, (6) Prakārāntara-Matrkānighaṇṭu and (7) Mudrānighaṇṭu. In the present edition besides the above mentioned seven parts, (1) another Prakārāntara-Mātṛkānighaṇṭu, (2) Varṇanighaṇṭu, (3) Bījābhidhāna as given in the Bhutaḍāmara Tantra, (4) Mantrārthābhidhāna as given in the Varadā-Tantra and (5) Varnabījakoṣa have been included. The Mss. of the two works (Prakārāntara-Matrkānighaṇṭu and Varṇanighaṇṭu) have been
 
-
-
 secured from the Sanskrit College Library, Calcutta, and the Govt. Manuscripts Library, Madras, respectively. The texts of the third and the fourth books (Bhūtaḍāmara and Varadā-Tantras) have been copied from original manuscripts. No second copies of Mss. of the first two books could be secured for the purpose of comparison. The text secured from the Govt. Manuscripts Library, Madras, was found to contain numerous errors which have been corrected as far as possible. The original texts of the Prakārāntara-Mantrābhidhāna and the Mātṛkānighanṇṭu of the first edition, have been revised and compared with the texts of the same works which are with the Sanskrit College Library, Calcutta. With the help of the two Mss. from the Sanskrit College Library, Calcutta, variants have been usually given in footnotes and sometimes in the body of the text within brackets. Possible corrections have been made in Mudrānighaṇṭu which in the first edition contained numerous mistakes and omissions. In the very end, in Varṇa-bījakośa the Artha of nearly five thousand Tantrika Śabdas have been added. This addition has been effected because a certain Artha is always associated with a definiteŚabda. This association of a definite Artha with a particular Śabda is unalterable. Hindu philosophers have bestowed different appellations on this unalterable association of Śabda and Artha. According to the followers of Vedanta and Mimāṁsa schools of philosophy this Śabdartha-jñāna is known as ‘vācyavācakabhāva’. The Naiyāyika philosophers call it ‘vṛtti’. This vṛtti is ‘saṅketa’and ‘lakṣaṇā’. Nityasanketa is Śakti. Other philosophers define it in different ways. If the significance of vācyavācakatva or saṅketa be not realised, it is not possible to understand the significance of a Śabda. For this reason a full knowledge of the association of sound and its significance is imperatively necessary before attempting to understand the meaning of some of those a sound. Abhidhana and Koṣa contain methods denoting the relationship of Śabda and Artha as are
-
-
 
 put forward in the Sāstrās^(\*). In Abhidhāna sometimes are found the Śaktirūpa and sometimes the Lakṣaṇārūpa forms of the relationship of Śabda and Artha. So when the true knowledge of this relationship is acquired, the significance of Śabda As Abhidhāna is essentially and Artha is fully realised. necessary for the understanding of other Śāstras, likewise Śabdārtha-jñāna is essential for the understanding of Tantra-Śāstras. The Upāsanā as denoted in the Āgamaśāstras, is absolutely impossible without a complete understanding of the significance of Mantras. The particular Upāsanā of a particular Devatāby means of a definite Mantra, as laid down in the Tantras, is not possible to be gone through unless and until the significance of that Mantra is at the very beginning realised. No fruit is derived from a Mantra if it is used without being understood. The understanding of a Mantra or a Bīja is never possible without the help of a Abhidhāna. As for example, the Ekākṣara Mantra of Kālī is क्रीँ. This is derived from the unification of क्+र्+ई+ ^(ꣲ). Wherever this Bījākṣara has been referred to in the Agamaśāstras no mention is made of this simple unification of (क्+र्+ई+ ^(ꣲ)) of which the Bījākṣara is constituted. Only a few apparently unintelligible Śabdas are given there. If the meaning of these Śabdas are not understood, this Ekākṣara Bīja of Kāli cannot be comprehended in its fullest significance. For this very reason the necessity of a Tāntrabhidhāna and Mantrābhidhāna is felt. A large number of vācaka Śabdas of Mātṛkā (Varṇamālā ) are given in the Mantrābhidhāna. As for example, the vācaka Śabda of **अ** is Keśava, Viṣṇu, Śrikaṇṭha etc. So with the help of this Abhidhana it is known that Kesava, Visṇu, etc., denote. Wherever the expressions Keśava, Viṣṇu etc., are found in the Tantras, it  
 ![](../books_images/U-IMG-1721794733Screenshot2024-07-10145744.png)
@@ -129,8 +96,6 @@ put forward in the Sāstrās^(\*). In Abhidhāna sometimes are found the Śaktir
 ^(\*) मन्त्रो हीनः स्वरतो वर्णतो वा मिथ्याप्रयुक्तो न तमर्थमाह ।    
  सवाग्वज्रोयजमानं हिनस्ति यथेन्द्रशत्रुःस्वरतोऽपराधात् ॥      
                          यास्क—निरुक्तम्
-
-
 
 should be known that they signify the letter **अ**. Likewise,**आ ई**, and so on, are denoted. In this way Mantroddhāra is made an easy process with the help of the Mantrābhidhāna. Otherwise, the finding out of the correct form of a Mantra appears to be an impenetrable riddle.
 
@@ -142,19 +107,9 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
   It is sincerely hoped that the Sādhaka will be easily successful to probe deep into the mysteries of the Tantra-sāstras with the help of Tantrabhidhāna and the VarṇabÍjakoṣa.
 
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 **सूचीपत्रम्**  
 
@@ -186,19 +141,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        अग्निः - ऐ         |         अजेशः ओ         |       अद्रीशः - द        |
 |        अग्निः - र        |                        |        अद्रीशः -द        |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 |                          |                             |                         |
 |:------------------------:|:---------------------------:|:-----------------------:|
 | **शब्दः    अर्थः** | **शब्दः     अर्थः |** | **शब्दः    अर्थः** |
@@ -226,14 +168,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |    अनन्तः — आ       |        अनिरुद्धः—ः         |      अभवादनम्— नमः      |
 |         अनन्तः—:         |        अनिरुद्धः—ः         |      अभ्रं  —ं      |
 |                         |                            |       अमरः— लृ        |
-
-
-
-
-
-
-
-
 
 |                         |                        |                       |
 |:-----------------------:|:----------------------:|:---------------------:|
@@ -267,10 +201,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |      अम्बिकापतिः—ह      |   अर्द्धेन्दुः—नादः    |      अहङ्कारः—फ       |
 |       (अम्भः—क)        |         अलसः—प         |       (अहेशः—झ)       |
 |       अम्भोधिः—क        |                       |                      |
-
-
-
-
 
 |                        |                         |                          |
 |:----------------------:|:-----------------------:|:------------------------:|
@@ -306,11 +236,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        आस्रजः—अ        |        इन्द्रः—ऐ        |         उग्रः—म         |
 |        आस्रजः—अ        |                        |         उग्रः—उ          |
 
-
-
-
-
-
 |                          |                          |                          |
 |:------------------------:|:------------------------:|:------------------------:|
 | **शब्दः     अर्थः** | **शब्दः     अर्थः** | **शब्दः     अर्थः** |
@@ -344,8 +269,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |          उरगः—फ          |         ऋद्धिः—ख         |        एकाकी—लृृ         |
 |        उरुभावः—ठ         |                         |      एकाक्षी—स्त्री      |
 
-
-
 |                           |                              |                             |
 |:-------------------------:|:----------------------------:|:---------------------------:|
 | **शब्दः    अर्थः |** | **शब्दः      अर्थः |** | **शब्दः     अर्थः |** |
@@ -377,8 +300,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |          कण्ठः—औ          |          कमठारिः—ख           |          कला—नादः           |
 |          कण्ठः—औ          |          कमण्डलुः—ठ          |          कला—नादः           |
 |         कण्ठकः—ः         |          कमण्डलुः—ठ          |         कलाज्ञः—ः          |
-
-
 
 |                          |                          |                           |
 |:------------------------:|:------------------------:|:-------------------------:|
@@ -414,10 +335,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |          कामः—ई          |        कामरूपी—ख         |          कालः—म           |
 |        कामः—क्लीं        |        कामरूपी—ख         |          कालः—म           |
 
-
-
-
-
 |                     |                     |                     |
 |:-------------------:|:-------------------:|:-------------------:|
 | **शब्दः  अर्थः** | **शब्दः  अर्थः** | **शब्दः  अर्थः** |
@@ -450,8 +367,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |      कीटमुखी—च      |     कुब्जिका—ं     |     कृतमण्डलः—झ     |
 |     कीर्त्तिः—अ     |     कुब्जिनी—फ      |    कृतान्तः—क्ष     |
 |     कीर्त्तिः—अ     |      कुमारः श       |     कृतान्तः—म      |
-
-
 
 |                     |                     |                        |
 |:-------------------:|:-------------------:|:----------------------:|
@@ -487,11 +402,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |       कोटरः—ई       |      क्रोधः—ऋ       |       क्लेशितः—म       |
 |       कोटरः—ई       |     क्रोधः—क्ष      |                       |
 
-
-
-
-
-
 |                         |                         |                         |
 |:-----------------------:|:-----------------------:|:-----------------------:|
 | **शब्दः    अर्थः** | **शब्दः    अर्थः** | **शब्दः    अर्थः** |
@@ -525,8 +435,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        खेचरः—ट         |        गणपालः—ल         |         गरुडः—ख         |
 |         खेचरी—ट         |        गणेशः—लॄ         |       गर्जिनी—न        |
 |         खेटः—ख          |                        |        गर्जिनी—इ        |
-
-
 
 |                       |                         |                          |
 |:---------------------:|:-----------------------:|:------------------------:|
@@ -562,11 +470,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |  गुह्यकालीबीजं—क्लीं  |        ग्रहेशः—औ        |       (घोरनायकः—घ)       |
 |                      |       ग्रमणीः—ठ        |        घोरनामा—घ         |
 
-
-
-
-
-
 |                       |                     |                          |
 |-----------------------|---------------------|--------------------------|
 | **शब्दः   अर्थः** | **शब्दः  अर्थः** | **शब्दः   अर्थः**     |
@@ -599,8 +502,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 | चतुराननः—ज            | चन्द्रमण्डलम्—ठ     | (चित्ताचारी—च)           |
 | चतुराननः—ज            | चन्द्रमण्डलः—ठ      | चित्रम्—च                |
 | चतुराननः—ज            | चन्द्रमण्डलः—ठ      | चित्रचारी—च              |
-
-
 
 |                     |                     |                     |
 |:-------------------:|:-------------------:|:-------------------:|
@@ -637,11 +538,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |                    |     जनेश्वरः—म      |        जलं—व        |
 |                    |                    |        जलं—व        |
 
-
-
-
-
-
 |                       |                        |                       |
 |-----------------------|:----------------------:|:---------------------:|
 | **शब्दः   अर्थः** | **शब्दः   अर्थः** | **शब्दः   अर्थः** |
@@ -675,11 +571,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 | जेता—ज                |       ज्वालिनी—ङ       |    ठयुगलं—स्वाहा     |
 | ज्ञप्तिः—ञ            |       ज्वालिनी—न       |                      |
 | ज्ञप्तिगः—(ञ)         |                       |                      |
-
-
-
-
-
 
 |                       |                        |                        |
 |:---------------------:|:----------------------:|:----------------------:|
@@ -715,16 +606,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        तरलः—त         |      तीक्ष्णा—प       |        तैजसः—र         |
 |                      |        तीव्रः—ओ        |        तैजसः—र         |
 
-
-
-
-
-
-
-
-
-
-
 |                       |                      |                       |
 |:---------------------:|:--------------------:|:---------------------:|
 | **शब्दः   अर्थः** | **शब्दः  अर्थः** | **शब्दः  अर्थः** |
@@ -759,8 +640,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |    त्रितत्त्वकम्—ॐ    |    त्रिमात्रकः—ओ     |      त्रिशूली—जा      |
 |     त्रितयलोचनः—च     |   त्रिमूर्त्तिः—ई    |      त्रैपुरं—ऐ      |
 
-
-
 |                       |                     |                       |
 |:---------------------:|:-------------------:|:---------------------:|
 | **शब्दः  अर्थः** | **शब्दः  अर्थः** |  **शब्दः  अर्थः**  |
@@ -792,13 +671,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |      दक्षगण्डः—ॠ      |     पक्षपादः—स      |  दक्षाङ्गल्यग्रगः—ङ  |
 |      दक्षगण्डः—ऌ      |     पक्षपादः—ह      |  दक्षाङ्गल्यग्रगः—ङ  |
 |      दक्षगण्डः—ऌ      |                    |                      |
-
-
-
-
-
-
-
 
 |                           |                            |                         |
 |:-------------------------:|:--------------------------:|:-----------------------:|
@@ -832,12 +704,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |         दन्तः—ं          |         दामोदरः—ऐ          |      दीप्तास्यः—ष       |
 |         दन्तगतः—औ         |         दामोदरः—ऐ          |        दीप्तिः—भ        |
 |       दन्तजातीशः—ख        |         दामोदरः—ऐ         |       दीप्तिः—भा        |
-
-
-
-
-
-
 
 |                        |                       |                       |
 |:----------------------:|:---------------------:|:---------------------:|
@@ -873,8 +739,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        दीर्घा—न        |     देवमाता—स्वहा     |     द्वादशस्वरः—ऐ     |
 |      दीर्घास्यः—आ      |                      |       द्वादशी—ऐ       |
 
-
-
 |                        |                         |                         |
 |:----------------------:|:-----------------------:|:-----------------------:|
 | **शब्दः  अर्थः |** | **शब्दः   अर्थः |** | **शब्दः   अर्थः |** |
@@ -909,12 +773,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |     द्विरण्डेशः—भ      |          धरा—ऐ          |       धातुरक्तः—र       |
 |     द्विरण्डेशः—भ      |          धरा—ऐ          |       धातुरक्तः—र       |
 
-
-
-
-
-
-
 |                       |                     |                       |
 |:---------------------:|:-------------------:|:---------------------:|
 | **शब्दः  अर्थः** | **शब्दः  अर्थः** | **शब्दः  अर्थः** |
@@ -948,8 +806,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        धेनुः—व        |        नखः—ङ        |        (नमः—ध)        |
 |       धैर्या—लॄ       |        नखः—ञ        |         नयः—ल         |
 |       ध्रुवं—ॐ       |        नगः—ओ        |         नयः—श         |
-
-
 
 |                       |                      |                     |
 |:---------------------:|:--------------------:|:-------------------:|
@@ -986,8 +842,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |       (नागः—ओ)        |      नारायणः—ण       |      निर्णयः—ण      |
 |                      |                     |     निर्णयः—ण      |
 
-
-
 |                      |                     |                       |
 |:--------------------:|:-------------------:|:---------------------:|
 | **शब्दः  अर्थः** | **शब्दः  अर्थः** | **शब्दः   अर्थः** |
@@ -1021,8 +875,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |      नीलकण्ठः—ङ      |      **॥ प ॥**      |      पद्मरेणुः—प      |
 |     नीलचरणः—लॄ      |    पक्षिवाहनः—ण     |      पद्मेशः—प       |
 |                     |                    |      पद्मेशः—प       |
-
-
 
 |                    |                     |                       |
 |:------------------:|:-------------------:|:---------------------:|
@@ -1058,10 +910,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |   परमेशी—ह्रीं    |    पाञ्चजन्यः—इ    |        पावकः—इ        |
 |     परमेष्ठी—ष     |    पाञ्चजन्यः—इ    |        पावकः—ई        |
 
-
-
-
-
 |                     |                      |                      |
 |:-------------------:|:--------------------:|:--------------------:|
 | **शब्दः  अर्थः** | **शब्दः  अर्थः** | **शब्दः  अर्थः** |
@@ -1095,8 +943,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |     पीतवासाः—ध      |       पुष्पं—क       |      पृथ्वी—ल       |
 |       पीता—ल        |      (पुष्पा—क)      |      पृथ्वी—ल      |
 |                    |                     |    पृथ्वीबीजम्—ल     |
-
-
 
 |                     |                      |                     |
 |:-------------------:|:--------------------:|:-------------------:|
@@ -1132,8 +978,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |     प्रणतः—ऐ      |       प्रभुः—ॐ       |    प्राणाद्यः—स     |
 |                    |                     |    प्राणिसेवकः—य    |
 
-
-
 |                     |                     |                     |
 |:-------------------:|:-------------------:|:-------------------:|
 | **शब्दः  अर्थः** | **शब्दः  अर्थः** | **शब्दः  अर्थः** |
@@ -1167,11 +1011,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |      फट्कारः—फ      |        बली—र        |     बिन्दुः—ं      |
 |        फलं—फ        |        बली—र        |      बिन्दुः—इ      |
 |       फादिः—फ       |       बली—(ल)       |      बिन्दुः—क      |
-
-
-
-
-
 
 |                     |                     |                     |
 |:-------------------:|:-------------------:|:-------------------:|
@@ -1207,11 +1046,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |      ब्रह्म—क       |      भद्रा—ः       |    भारभूतिः—(ऋ)     |
 |                    |    भद्रेशः—(ङ)     |   भाव (र)भूतिः—ऋ    |
 
-
-
-
-
-
 |                      |                      |                     |
 |:--------------------:|:--------------------:|:-------------------:|
 | **शब्दः  अर्थः** | **शब्दः  अर्थः** | **शब्दः  अर्थः** |
@@ -1245,11 +1079,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |       भूतेशः—अ       |      भेरुण्डा—ई      |    मखाङ्कुरः—इ     |
 |       भूतेशः—व       |       भैरवः—ऊ        |    मखाङ्कुरः—इ     |
 |       भूधरः—न        |       भैरवः—ङ       |    मखाङ्कुरः—इ     |
-
-
-
-
-
 
 |                     |                      |                      |
 |:-------------------:|:--------------------:|:--------------------:|
@@ -1285,8 +1114,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |     मधुसूदनः—ऊ      |       मन्मथः—उ       |      महाकालः—म       |
 |                    |       मन्मथः—क       |      महाकालः—म       |
 
-
-
 |                  |                   |                   |
 |:----------------:|:-----------------:|:-----------------:|
 | शब्दः  अर्थः | शब्दः  अर्थः  | शब्दः  अर्थः |
@@ -1320,8 +1147,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |   महासेनः—:    |     माता—लॄ      |      मानी—म       |
 |   महासेनः—:    |     माता—लॄ      |     मानुषी—ण      |
 |   महासेनः—:    |                  |     मान्तः—भ      |
-
-
 
 |                        |                         |                        |
 |:----------------------:|:-----------------------:|:----------------------:|
@@ -1357,8 +1182,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |         मीनः—ध         |        मुरारिः—औ        |       मृत्युः—श        |
 |                       |        मुरारिः—औ        |     मृत्युदेवः—(श)     |
 
-
-
 |                            |                              |                          |
 |:--------------------------:|:----------------------------:|:------------------------:|
 | **शब्दः      अर्थः** | **शब्दः      अर्थः** |  **शब्दः    अर्थः**  |
@@ -1390,11 +1213,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |         मेरुः—क्ष         |            यती—ऋ             | याम्यपादाङ्गुलाग्रस्थः—ण |
 |          मेषः—ॠ           |            यमः—ष             |    याम्यपादाङ्गुली—ढ     |
 |         मेषः—(ॠ)          |            यमः—म             |                         |
-
-
-
-
-
 
 |                      |                       |                     |
 |:--------------------:|:---------------------:|:-------------------:|
@@ -1430,8 +1248,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        रजः—र         |        रविः—म         |     रिपुघ्नः—ॠ      |
 |       रक्तं—र        |       रविः—(व)        |    रिपुघ्नः—(ॠ)     |
 
-
-
 |                      |                       |                       |
 |:--------------------:|:---------------------:|:---------------------:|
 | **शब्दः  अर्थः** | **शब्दः   अर्थः** | **शब्दः   अर्थः** |
@@ -1465,12 +1281,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        रूपं—झ        |      लक्ष्मीः—म      |       ललाटः—क्ष       |
 |        रूपं—झ        |     लक्ष्मीः—मा      |       ललाटजः—अ        |
 |        रूपं—द        |    लक्ष्मीः—श्रीं    |       ललाटजः—ह        |
-
-
-
-
-
-
 
 |                          |                          |                         |
 |:------------------------:|:------------------------:|:-----------------------:|
@@ -1506,10 +1316,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |          वकः—लृ          |         वत्सलः—ड         |       (वरुणा—न)        |
 |                         |                         |       वरेण्यः—श        |
 
-
-
-
-
 |                      |                        |                       |
 |:--------------------:|:----------------------:|:---------------------:|
 | **शब्दः   अर्थः** | **शब्दः   अर्थः** | **शब्दः   अर्थः** |
@@ -1544,8 +1350,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |       वह्निः—छ       |     वाग्विशुद्धः—ई     |                      |
 |       वह्निः—ठ       |                       |                      |
 
-
-
 |                            |                            |                          |
 |:--------------------------:|:--------------------------:|:------------------------:|
 | **शब्दः     अर्थः** | **शब्दः     अर्थः** | **शब्दः     अर्थः** |
@@ -1575,8 +1379,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        वामजानुगतः—थ        |    वामपादाङ्गुलिमुखं—न     |          वामा—आ          |
 |        वामजानुगतः—थ        |    वामपादाङ्गुलिमूलं—ध     |          वामा—छ          |
 |         वामदेवः—द          |                           |                         |
-
-
 
 |                                 |                                   |                               |
 |:-------------------------------:|:---------------------------------:|:-----------------------------:|
@@ -1610,8 +1412,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |             वायुः—च             |            वासुदेवः—ऐ             |          विघ्नराट्—ऋ          |
 |             वायुः—च             |            वासुदेवः—ओ             |        विघ्नहर्त्ता—उ         |
 |             वायुः—च             |                                  |        विघ्नहर्त्ता—ऊ         |
-
-
 
 |                         |                         |                         |
 |:-----------------------:|:-----------------------:|:-----------------------:|
@@ -1647,8 +1447,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |         विनदा—ट         |        वियत्—लॄ         |       विश्वपा—लृ        |
 |        (विनयः—उ)        |                        |      विश्वपावनी—ध       |
 
-
-
 |                      |                     |                      |
 |:--------------------:|:-------------------:|:--------------------:|
 | **शब्दः  अर्थः** | **शब्दः  अर्थः** | **शब्दः  अर्थः** |
@@ -1682,8 +1480,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |    (विषममानसः—:)     |   (वीरतन्त्रः—प)    |       वेगितः—ज       |
 |       विषयः—ङ        |     वीरभद्रा—प      |     (वेगिता—ज)      |
 
-
-
 |                        |                          |                          |
 |:----------------------:|:------------------------:|:------------------------:|
 | **शब्दः   अर्थः** | **शब्दः    अर्थः** | **शब्दः    अर्थः** |
@@ -1716,8 +1512,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |       वैनायकः—ष        |        व्रतदेवः—क        |      शक्रमाता—वषट्       |
 |       वैन्दवी—ई        |        **॥ श ॥**         |                         |
 |    वैवस्वतबीजं—हूं    |        शक्तिः—ए         |                         |
-
-
 
 |                            |                            |                             |
 |:--------------------------:|:--------------------------:|:---------------------------:|
@@ -1753,8 +1547,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |                           |       शाखिनीप्रियः—फ       |          शिखा—वषट्          |
 |                           |          शान्तः—इ          |                            |
 
-
-
 |                       |                     |                      |
 |:---------------------:|:-------------------:|:--------------------:|
 | **शब्दः  अर्थः** | **शब्दः  अर्थः** | **शब्दः  अर्थः** |
@@ -1787,8 +1579,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        शिली—थ         |       शिवा—घ        |      शुद्धः—ई       |
 |      शिलोच्चयः—थ      |       शिवा—द        |      शुद्धः—लृ      |
 |      शिलोच्चयः—थ      |     शिवा—ह्रीं      |      शुद्धः—लृ       |
-
-
 
 |                            |                           |                          |
 |:--------------------------:|:-------------------------:|:------------------------:|
@@ -1824,10 +1614,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |           शूली—ज           |          श्रीः—अ          |        श्रेष्ठः—ष        |
 |           शूली—ज           |          श्रीः—ऐ          |                         |
 
-
-
-
-
 |                           |                           |                           |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | **शब्दः     अर्थः** | **शब्दः     अर्थः** | **शब्दः     अर्थः** |
@@ -1860,11 +1646,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |       श्वेतेश्वरः—ष       |         संसर्गः—स         |          सत्यः—द          |
 |         **॥ ष ॥**         |  संस्थानकृतरूपिणी—ह्रीं   |          सत्यः—द          |
 |       षट्-स्वरः—ऊ        |        संहर्त्ता—घ        |         सत्यकः—ओ          |
-
-
-
-
-
 
 |                         |                        |                          |
 |:-----------------------:|:----------------------:|:------------------------:|
@@ -1900,8 +1681,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |         समयः—स         |     सर्वमित्रकः—ठ      |         सायकः—च         |
 |        समातृकः—ऐ        |   सर्वबीजोत्पादकः—ॐ    |         सारः—ल)          |
 
-
-
 |                          |                        |                          |
 |:------------------------:|:----------------------:|:------------------------:|
 | **शब्दः    अर्थः** | **शब्दः   अर्थः** | **शब्दः    अर्थः** |
@@ -1935,11 +1714,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |      (सुखविन्दुः—ब)      |       सुभद्रा—ई        |       सूक्ष्मं—ऊ        |
 |         सुखी—ओ          |       सुमञ्जु—ट       |        सूक्ष्मः—इ        |
 |                         |       सुमित्र—इ        |        सूक्ष्मः—इ        |
-
-
-
-
-
 
 |                         |                       |                       |
 |:-----------------------:|:---------------------:|:---------------------:|
@@ -1975,8 +1749,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |        सेनानीः—प        |       स्त्री—थ        |       स्थिरः—थ        |
 |        सेनानीः—फ        |                      |                      |
 
-
-
 |                          |                         |                        |
 |:------------------------:|:-----------------------:|:----------------------:|
 | **शब्दः   अर्थः |** | **शब्दः   अर्थः |** | **शब्दः  अर्थः |** |
@@ -2011,8 +1783,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |       स्वरादिकः—अ        |         हंसः—स          |        हरिः—त        |
 |       स्वरादिकः—अ        |         हंसः—ह          |        हरिः—त         |
 
-
-
 |                      |                        |                       |
 |:--------------------:|:----------------------:|:---------------------:|
 | **शब्दः  अर्थः |** | **शब्दः  अर्थः |**  | **शब्दः  अर्थः |** |
@@ -2046,8 +1816,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |      हिंसा—शू       |   हृदो वामपदस्थितः—स   |       क्षयः—क्ष       |
 |                     |                       |       क्षयः—क्ष       |
 
-
-
 |                       |                        |                        |
 |:---------------------:|:----------------------:|:----------------------:|
 | **शब्दः  अर्थः |** | **शब्दः  अर्थः |** | **शब्दः  अर्थः |** |
@@ -2077,8 +1845,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **(६० पृष्ठे मूलमनुसन्धेयम् )  
 ![](../books_images/U-IMG-1721621851Screenshot2024-07-10063051.png)**
-
-
 
 **वातः  मरुत्  चरः  प्राणः  वायुः  नादः  रयः  जवी
 व्याप्तं  स्पर्शः**
@@ -2111,12 +1877,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
           **लृ   लॄ   अं    ङ    ञ   
 ण    न    म    श    ह**
 
-
-
 **माया—:**  
-
-
-
 
 **मुद्रानिघण्टोः सूचीपत्रम्**
 
@@ -2150,12 +1911,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |    ज्ञानमुद्रा    |       डमरुमुद्रा        |    कुम्भमुद्रा     |
 |                  |                        |  प्रार्थनामुद्रा  |
 
-
-
-
-
-
-
 |                   |                     |                       |
 |:-----------------:|:-------------------:|:---------------------:|
 |     **विषयः**     |      **विषयः**      |       **विषयः**       |
@@ -2176,8 +1931,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 प्रकारान्तर- कादिमततन्त्रोक्त-वर्णसंज्ञोद्धारः  
 (४० पृष्ठे मुद्रितस्यास्य अशुद्धत्वात् पुररत्र मुद्रितः )  
-
-
 
 **वातः   मरुत्   अग्निः   वह्निः  धरा  क्ष्मा   
 जलं   वारि  विभुः   स्वः  
@@ -2207,8 +1960,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
  **ग्रासः  
   क्ष**
 
-
-
 ॐ नमः
 
 **श्रीतन्त्राभिधानम्**  
@@ -2216,7 +1967,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 **![](../books_images/U-IMG-1721537271Screenshot2024-07-10063051.png)**  
 
 **अथ मन्त्राभिधानम्**  
-
 
 **श्रीभैरव उवाच—**
 
@@ -2234,8 +1984,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 १२ लॄ-कारोऽपि हृषीकेशो हरोऽसौ वामगण्डकः॥६॥  
    ए-कारो विजया शक्तिर्भगसंज्ञाभिधायकः।  
    पद्मनाभो महेशानि! प्रोक्तो झिण्टीशनायकः॥७॥
-
-
 
 १  ऐ-कारो भौतिकश्चैव दामोदरोऽधराह्वयः।  
    अष्टस्वरोऽपि विज्ञेयो हिमपर्वतकन्यके !॥८॥
@@ -2270,8 +2018,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
      ठ-कारो लाङ्गली चन्द्रो नन्दयोनिर्नगात्मजै!  
      ड-कारश्च महेशानि ! खड्गार्धाकारसंज्ञकः॥१८॥
 
-
-
 १  ढ-कारश्चार्धनारीशो नवश्च परमेश्वरि!।  
    ण-कारश्चाप्युमाकान्तो विज्ञेयो नरजित्‌ प्रिये !॥१६॥
 
@@ -2305,9 +2051,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    ह-कारो नकुलीशोऽपि हंसः प्राणोऽङ्गुलं प्रिये।  
    महेशो नकुली चैव वराहो गगनं रविः॥२॥  
 
-
-
-
 १  ल-कारो विमलो जीवः शिवो भूमिर्वरानने !।  
    क्ष-कारो नरसिंहश्च मेरुः संवत्तकोऽपि च॥३०॥
 
@@ -2330,13 +2073,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    ई-कारो वेदमाता च क्लीबंऋ ॠ लृ लॄच वै।  
 १६ पतत्‌ सर्वं महेशानि ! पठनीयं प्रयलतः ॥२५॥
 
-
-
 ![](../books_images/U-IMG-1721540461Screenshot2024-07-18103322.png)  
-
-
-
-
 
 **प्रकारान्तर-**  
 
@@ -2373,9 +2110,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^1]: "प्रतिपत्तिथिरश्विनीति पाठान्तरम् ।"
 
-
-
-
 आ॥३९॥
 
 १  आकारो विजयाऽनन्तौ दीर्घच्छायो विनायकः।  
@@ -2407,9 +2141,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    शिवोत्तमः शिवा तुष्टिश्चतुर्थी बिन्दुमालिनी।  
    वैष्णवी बैन्दवी जिह्वा कामकला सनादका॥१६॥  
-
-
-
 
 १  पावकः कोटरः कीर्त्तिर्मोहिनी कालकारिका।  
    कुचद्वन्द्वं तर्जनी च शान्तिस्त्रिपुरसुन्दरी॥१७॥
@@ -2445,8 +2176,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 [^2]: "'कामलता मेषः' इति पाठान्तरम् ।"
 
    रोहिणी शिवदूती च पूर्णगिरिश्च सप्तमी॥२५॥
-
-
 
 ॠ॥३१॥
 
@@ -2484,9 +2213,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    कामिनी विश्वपा कालो नित्या शुद्धा शुचिः कृती॥  
     सूर्या धैर्या कर्षणी च एकाकी दनुजप्रसूः॥३४॥  
-
-
-
 
 ए॥३३॥
 
@@ -2526,9 +2252,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
      प्रणवांशो ब्रह्मसूत्रमजेशः सर्वमङ्गला।  
      त्रयोदशी दीर्घनासा रतिनाथ दिगम्बरा॥४४॥  
-
-
-
 
 १   त्रैलोक्यविजया प्रज्ञाप्रीतिर्वीजादिकर्षिणी॥४५॥
 
@@ -2577,9 +2300,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^12]: "दुःखसूचकौ"
 
-
-
-
 १  सुन्दरी सुयशानन्ता(न्दा) गणनाथो महेश्वरः॥५५॥
 
 क॥४२॥
@@ -2619,9 +2339,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
     सर्वसिद्धिः प्रभा धूम्रा द्विजाख्यः शिवदर्शनः।  
     विश्वात्मा गौः पृथग्रूपा बालबद्धस्त्रिलोचनः॥६४॥  
-
-
-
 
 १  गीतं सरस्वती विद्या भोगिनी नन्दनो धरा।  
   भोगवती च हृदयं ज्ञानं जालन्धरो लवः[^16]॥६५॥
@@ -2666,9 +2383,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
     दयितश्च द्विनेत्रश्च लक्ष्मीस्त्रितयलोचनः।  
     चन्दनं चन्द्रमा दैवश्चेतना वृश्चिको बुधः॥७४॥  
 
-
-
-
 १  देवी कीटमुखीच्छात्मा कौमारी पूर्वफल्गुणी।  
    अनङ्गमेखला वायुर्मेदिनी च मूलावती[^20]॥७५॥
 
@@ -2696,7 +2410,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^22]: "र्हासः"
 
-१२ जवनो [वेगितो](http://॑॑॑# "येगिता") वामो मानवाक्षःसदात्मकः।  
+१२ जवनो [वेगितो](॑॑# "येगिता") वामो मानवाक्षःसदात्मकः।  
    हृन्मारुतेश्वरो वेगी चामोदो मदविह्वलः॥८१॥
 
 झ॥३७॥
@@ -2709,9 +2423,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    दुर्मुखो नष्ट आत्मा च विकटा कुचमण्डलम्।  
    कलहंसप्रिया वामा चाङ्गुलीमध्यपूर्वकः॥८४॥  
-
-
-
 
 १  दक्षहासाट्टहासौ च पापा(था)त्मा व्यञ्जनं स्वरः॥८५॥
 
@@ -2762,9 +2473,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
      डः स्मृतिर्दारुको नन्दिरूपिणी योगिनी प्रियः।  
 
-
-
-
 १ कौमारी शङ्करस्त्रासस्त्रिवक्त्रो(क्रो)नदको ध्वनिः॥६५॥
 
   दुरूहो जटिलो(ली) भीमा द्विजिह्वःपृथिवी सती।  
@@ -2806,10 +2514,9 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^32]: "आषान्तढान्तक्षुद्रश्च "
 
-     सुगतोऽर्द्धमुखी(खा) बुद्ध(र्ध्व)जानुश्च [क्रोड़पुच्छकः](http://॑# "जानुः कोढश्च") ।  
+     सुगतोऽर्द्धमुखी(खा) बुद्ध(र्ध्व)जानुश्च क्रोड़पुच्छकः[^98] ।  
 
-
-
+[^98]: "जानुः कोढश्च"
 
 १  गन्धो बिम्बं(श्वा) मरुच्छत्रश्चानुराधा च सौरकः॥१०४॥  
    जयन्ती पुलको भ्रान्तिरनङ्गमदनातुरा॥१०५॥
@@ -2847,8 +2554,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    सन्दर्शो मोहनो लज्जा वज्रतुण्डाधरो(रं) धरा।  
 २० वामपादाङ्गलेर्मूलं ज्येष्ठा सुरपुरं भवः ॥११५॥
-
-
 
 १   स्पर्शात्मा दीर्घजङ्घा च धनेशो धनसञ्चयः॥११६॥
 
@@ -2900,9 +2605,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
     उमा विहङ्गमः कालः कुब्जिनी प्रिय-पात्रकौ ।  
     प्रलयाग्निर्नीलपादोऽक्षरः पशुपतिः शशी॥१२६॥  
 
-
-
-
 १   फुत्कारो यामिनी व्यक्ता[^40]पावनो मोहवर्द्धनः।  
    निष्फला वागहङ्कारः प्रयागो[^41] ग्रामणीः फलम्॥१२७॥
 
@@ -2949,9 +2651,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 [^45]: "वस्तुदा"
 
      कालभद्रो जया मेधा विश्वदा दीप्तसंज्ञकः।  
-
-
-
 
 १   जठरञ्चभ्रमा मानं लक्ष्मीर्मातोग्र-बन्धने॥१३६॥
 
@@ -3004,9 +2703,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 [^53]: "वेदकश्चपला"
 
 [^54]: "सुगणो + सुगलो"
-
-
-
 
 १  श्रीकण्ठ उष्मा हृदयं मुण्डी त्रिपुरसुन्दरी।  
    सविन्दुर्योनिजो ज्वाला श्रीशैलो विश्वतोमुखी॥१४७॥
@@ -3063,9 +2759,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^65]: "बाहुर्हिंसा"
 
-
-
-
              ष॥३२॥
 
 १ षः श्वेतो वासुदेवश्च पीतं[^66] प्रज्ञा विनायकः।  
@@ -3096,11 +2789,13 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 [^70]: "श्वेता"
 
   सुरूपश्च[^71] गुणेशोगौः कलकण्ठो वृकोदरः।  
-१२ प्राणाद्य[स्त्रिपुरादेवी](http://॑# "श्च पुरा देवी") लक्ष्मीः सोमो हिरण्यभूः[^72]॥१६१॥
+१२ प्राणाद्यस्त्रिपुरादेवी[^99] लक्ष्मीः सोमो हिरण्यभूः[^72]॥१६१॥
 
 [^71]: "सुरूपा च"
 
 [^72]: "हिरण्यपुः "
+
+[^99]: "श्च पुरा देवी"
 
    दुर्गेत्तारिणी सम्मोहा जीवो मूर्त्तिमनोहरः[^73]॥१६२॥
 
@@ -3122,12 +2817,11 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^77]: "क्रटकूपविराचणः + कूटकोपरिवारणः"
 
-   लक्ष्मीर्ब्रह्मा हरिः[^78]शम्भुः [प्राणशक्तिर्ललाटजः](http://॑# "प्राणशङ्किर्ललाटजः")।  
+   लक्ष्मीर्ब्रह्मा हरिः[^78]शम्भुः प्राणशक्तिर्ललाटजः[^100]।  
 
 [^78]: "र्मविहरः + हरिहरः "
 
-
-
+[^100]: "प्राणशङ्किर्ललाटजः"
 
 १  स्व(स) कोपवारणः शूली चैतन्यं पादपूरणः॥१६५॥
 
@@ -3160,9 +2854,11 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 [^83]: "पयः"
 
    परात्मा क्रोध-संहारौ वनान्तो[^84] मेरुवाचकः।  
-१२ [सर्वाङ्](http://॑# "सर्वागः")ंसागरः कामः संयोगान्तस्त्रिपूरकः॥१७१॥
+१२ सर्वाङ्[^101]ंसागरः कामः संयोगान्तस्त्रिपूरकः॥१७१॥
 
 [^84]: "बलान्तो+नलान्तः"
+
+[^101]: "सर्वागः"
 
    क्षेत्रपालो महाक्षोभो मातृकान्तोऽनल-क्षयौ।  
    मुखं कव्यं महानन्ता[^85] कालजिह्वा गणेश्वरः॥१७२॥
@@ -3179,8 +2875,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 अनुचार्या तुरीया च विश्वमातुकला परा॥ नादः ॥  
 नमो हृत् पूजनं न्यासः सन्नतिर्विनतिर्नतिः।  
 भक्तिस्तथा मन्त्ररूपं वन्दनन्त्वभिवादनम्॥नमः॥
-
-
 
 **एकाक्षरकोषः**  
 
@@ -3212,8 +2906,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 क्रोधाख्योऽहं तनुत्रञ्च शस्त्रादौ रिपुसंज्ञकः॥ हुं ॥  
 नेत्रयुग्मं तथा वौषट् शक्रदैवतमेव च॥ वौषट् ॥  
 अस्त्रादौ फट् छोटिका स्यादङ्गान्तः सुरवाचकः॥ फट् ॥
-
-
 
 १  पृथिव्यां कुः समाख्याता कुत्सायां कुः प्रकीर्त्तितः।  
    ख-मिन्द्रियं समाख्यातं खमाकाशमुदाहृतम्॥७॥
@@ -3248,8 +2940,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    वृहदध्वनौ च ठः प्रोक्तस्तथा चन्द्रस्य मण्डले।  
    ड-कारः शङ्करः प्रोक्तस्त्रासध्वन्योः प्रकीर्त्तितः॥१७॥
 
-
-
 १ ढ-कारः कीर्त्तिता ढक्का निर्गुणे च ध्वनावपि।  
   ण-कारः कीर्त्तितो ज्ञाने निर्णयेऽपि प्रकीत्तितः॥१८॥
 
@@ -3283,9 +2973,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
   माच मातरि माने च बन्धने मूःप्रकीर्त्तिता।  
   यशो यः कथितः शिष्टैर्यो वायुरिति शब्दितः॥२८॥  
 
-
-
-
 १  याने यातरि यत्यागे कथितः शब्दवेदिभिः।  
    रः स्यात् कामेऽनिले वह्नौ शब्दे रुः परिकीर्त्तितः॥२९॥
 
@@ -3316,13 +3003,9 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    क्षः क्षेत्रे रक्षसि प्रोक्तो नियतं शब्दवेदिभिः।  
 २० क्षिः क्षेत्रे चत्ररक्षे च नृसिंहे च प्रकीर्त्तितः॥३८॥
 
-
-
 **इति श्रीपुरुषोत्तमदेवविरचित-  
 एकाक्षरकोषः समाप्तः  
 ![](../books_images/U-IMG-1721563389Screenshot2024-07-09101742.png)**
-
-
 
 **बीजनिघण्टुः**  
 
@@ -3346,9 +3029,9 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
   म महाकालः, य जीवात्मा, र क्षतजोक्षितः, ल बलभेदी,  
 १२ व रक्तपटः, श चण्डीशः, ष ज्वलनध्वजः, स धूमध्वजः,  
   ह व्योमवक्त्रः, क्ष त्र्यैलोक्यग्रसनात्मकः॥  
-  [(नयनश्रोत्रास्यनासाहृत्सु न्यासे दश स्वराः।) \*](http://॑# "* ( ) बन्धनीमध्यगतपाठः क्वचिन्न दृश्यते ।")
+  (नयनश्रोत्रास्यनासाहृत्सु न्यासे दश स्वराः।) \*[^102] बन्धनीमध्यगतपाठः क्वचिन्न दृश्यते ।")
 
-
+[^102]: "* (
 
 १  विद्युज्जिह्वा कालवक्त्रा महाकालैरलङ्कृता॥ॐ॥  
    विषबीजं श्रुतिमुखं ध्रुवं हालाहलं प्रिये (च तत् )॥  
@@ -3374,8 +3057,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^86]: "माया लज्जाद्वयमिति पाठान्तरम् ।"
 
-
-
 १  संयुक्तो धूम्रभैरव्या रक्तस्थो बलिभोजनः।  
    नादबिन्दुसमायुक्तः किङ्किणीबीजमुत्तमम्॥द्रीँ॥  
    बहुरूपिणमादाय क्षतजोक्षितसंस्थितम्।  
@@ -3399,8 +3080,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    व्योमवक्त्रो धूमध्वजो वारणः प्रलयाग्निकः।  
    ऊर्ध्वकेशी क्षतारूढ़ा बिन्दुचन्द्रार्द्धसंगता॥
 
-
-
 १  बीजमानन्दभैरव्यामूकानन्दकरं परम्॥ह्स्ख्फ्रें॥  
    अ-कारे भीषणा कीर्त्तिर्विद्युज्जिह्वेति कीर्त्तिता।  
    आ-कारे तामसी कालवज्री(जिह्वा) च कालभैरवी॥  
@@ -3422,9 +3101,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    क्रोधीशो वारणश्चण्डः शङ्का तून्मत्तभैरवः।  
 २० ज्वालामुखो रक्तदंष्ट्रोऽसिताङ्गो बलयामुखः॥  
    विद्युन्मुखो महाज्वाली कपाली भीषणो गुरुः।  
-
-
-
 
 १   प्रहारी रौरवो दण्डी बलितोऽत्युग्रशूलधृक्॥  
     सिंहनादी कपर्दी च प्रलयाग्निर्भयङ्करः।  
@@ -3450,10 +3126,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^87]: "* (
 
-
-
-
-
 १ फड़ित्यस्त्रं प्रसिद्धं स्याज् ॥फट्॥ ज्वालाग्निर्व्यापकाङ्कुशः॥क्रों  
    शिरः स्वाहा द्विठो वह्निजाया ज्वलनवल्लभा॥  
    दक्षजानुद्वयं सेन्दुः देवास्यं वह्निसुन्दरी॥स्वाहा॥  
@@ -3476,8 +3148,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    आदिदेवेन निर्दिष्टाः प्रथमाधिपशक्तयः॥  
    विभ्रमो बाहुलो दण्डी भैरवो नटकः शुकः।  
    वृकोदरो जटो भीष्मः क्षोभकः खे(ख)चरो नटः॥
-
-
 
 १   निशाचरो ध्वजी भीमो विचित्रः कौषिको यमः।  
     लिङ्गी वत्साधिको भृङ्गी मणिभद्रो घटोत्कचः॥  
@@ -3502,8 +3172,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    भृङ्गिणं मेखलायुक्तं प्रेतिनीन्द्वाद्यलङ्कृतम्।  
    बीजं वैतालिकं प्रोक्तं द्विठेनोक्ता मनोहरी॥प्लें स्वाहा॥
 
-
-
 १  विभ्रमो धूमिनी विद्युच्चण्डिकाद्यस्तु काकिनी।  
    ध्वाङ्क्षवीजमिति ख्यातं सर्वतन्त्रेषु गोपितम्॥प्रीँ॥  
    नटद्वयेन धूमिन्या उर्ध्वकेश्या ह्यलङ्कृतम् (?)॥फ्रेँ॥  
@@ -3521,10 +3189,7 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 **इति श्रीभैरवविरचितो बीजनिघण्टुमन्त्रकोषः  
 समाप्तः**  
 
-
 **![](../books_images/U-IMG-1721610080Screenshot2024-07-21064941.png)**
-
-
 
 **अथ मातृकानिघण्टुः**  
 ![](../books_images/U-IMG-1721609723Screenshot2024-07-08185832.png)
@@ -3549,8 +3214,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    देवमाता रिपुघ्नश्च ऋकारस्तपनः स्मृतः॥६॥  
    अतिथीशो वामनश्च मोचिका वामनासिका ।  
 २० दैत्यमाता च दैवज्ञ ऋ-कारस्त्रिपुरान्तकः॥१०॥
-
-
 
 १  श्रीधरश्चामरः(परा)स्थाणुर्दक्षगण्डस्त्रिवेद(देव)कः।  
    एकाङ्घ्रिर्वज्रदण्डश्च व्योमार्द्धं लृ-स्वरः स्मृतः॥११॥
@@ -3597,8 +3260,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 [^94]: "भारिश्च"
 
-
-
 १  स्मृतिः पञ्चान्तकः शार्ङ्गी गणेशो मणिबन्धगः।  
    गोमुखो गजकुम्भश्च ग-कारः सिंहसंज्ञकः॥२१॥
 
@@ -3631,8 +3292,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
   नन्दी क्षान्तिर्धा(र्दा)रकश्च चा(डा)मरो दक्षगुल्फगः।  
   व्याघ्रपादः शुभाङ्घ्रिश्च ड-कारो भौमजः स्मृतः॥३१॥
-
-
 
 १  ईश्वरश्वार्द्धनारीशो नरः शङ्खान्तराकृतः (तिः)।  
    दायादोऽङ्गुलिमूलञ्च ढ-श्च सङ्कोचकारकः॥३२॥
@@ -3667,8 +3326,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    विश्वमूर्त्तिर्द्विरण्डेशो निद्रा नाभिगतस्तथा।  
    भृकुटी च भरद्वाजो भ-कारश्च भयावहः॥४२॥
 
-
-
 १  वैकुण्ठश्च महाकालस्तन्द्री(न्त्री) जठरसंस्थितः।  
    मन्त्रेशो मण्डलो मानी विषं सूर्यो म-कारकः॥४३॥
 
@@ -3701,8 +3358,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    संवर्त्तको नृसिंहश्च हृदयान्मुख संस्थितः।  
   अनन्तः परमात्मा च वज्रकायोऽन्तिमः क्ष-कः॥५३॥
-
-
 
 १  अथ कादिमते प्रोक्ताः शंकरेण शिवां प्रति।  
    अकारादिकारान्ता वर्णसंज्ञाः क्रमाद ब्रुवे॥५४॥
@@ -3739,8 +3394,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |  नभः  | व्याप्तं |  दाहः  |  रसा   | अम्बुधिः | वियत्  | स्पर्शः | रुत् |  हंसः  |  इला  |
 |   म   |    य     |   र    |   ल    |    व     |   श    |    ष    |  स   |   ह    |  क्ष  |
 
-
-
 **प्रकारान्तर-**
 
 **मातृकानिघण्टुः  
@@ -3776,8 +3429,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    याम्यगण्डस्थितः स्थाणुर्हृशीकेशस्त्रिदेवकः।  
 २० एकाङघ्रिर्वज्रदण्डश्च व्योमाद्री ऌ-स्वरः स्मृतः॥१०॥
 
-
-
 १  वामगण्डोदराद्धे च पद्मनाभः कुबेरदृक्।  
    गणेशश्च त्रिकण्ठश्च नीलाङ्घ्रिर्दशमः स्वरः॥११॥
 
@@ -3810,8 +3461,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    अङ्गुलीमूलगो मेघो मुषली च शिवोत्तमः।  
    वराहो धनकामश्च शिवाऽघो घार्णकः स्मृतः॥२१॥
-
-
 
 १  दक्षाङ्गुल्यग्रगः शूली क्लीवाख्यश्चैव रुद्रकः।  
    डामरेशो हरिः श्रीमान् रुद्रेशो ङाणकः स्मृतः॥२२॥
@@ -3846,8 +3495,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    याम्यपादाङ्गुलाग्रस्थ आषाढ़ीशस्त्रिविक्रमः।  
    त्रिरेखस्त्रिगुणाकारो निर्वाणो णार्णको मतः॥३२॥
 
-
-
 १  वामपादादिकस्तीव्रोहस्त्यश्वतरलोऽङ्घ्रिकः।  
    नीलकोऽप्यर्थको धाता तड़ित् तु तार्णको मतः॥३३॥
 
@@ -3881,8 +3528,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    यमो वरुण-वागीशौ स्वशनो यामुनेयकः।  
    मृगेन्द्रो वायुसंज्ञश्च वचनं याणकः स्मृतः॥४३॥
 
-
-
 १  असृग् यातुष ईषघ्नोभुजङ्गेशो हुताशनः।  
    तीव्रज्योतिः परं चिह्नं सुचिरो रार्णको मतः॥४४॥
 
@@ -3914,8 +3559,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 निघण्टुः समाप्तः।**  
 
 ![](../books_images/U-IMG-1721583919Screenshot2024-07-10063051.png)
-
-
 
 **प्रकारान्तर-**
 
@@ -3950,8 +3593,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
   अहीनमन्त्रं जानीयाद हीनमन्त्रञ्च मातृकाम्।  
    गोत्रहीनञ्च संस्थानं गुरुहीनं पदे पदे॥७॥
 
-
-
 **श्रीभैरव्युवाच—**
 
 १  तव स्नेहात् प्रवक्ष्यामि निर्घण्टमातृकां शृणु।  
@@ -3983,8 +3624,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    अतिथीशो वामनासा प्रतिष्ठा पतिरेव च।  
 २० अक्षाग्रजश्च मायाग्नेरूर्ध्वमूर्त्तिः प्रकीर्त्तितः॥ऋ॥१७॥
-
-
 
 १  ऌःस्थाणुर्दक्षगण्डश्च विशेषश्चैव पार्थिवः।  
    महेन्द्रो लाङ्गलिश्चैव राजा धूम्रो वकस्तथा॥ऌ॥१८॥
@@ -4019,8 +3658,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    गः पञ्चान्तः पृथग्रूपः शिवदर्शनसंज्ञकः।  
    गणेश्वरो द्विजाख्यश्च गौरवो गौश्च स्वर्गगः॥ग॥२८॥
 
-
-
 १  घः संहर्ता दक्षकरः काम(ल)रूपी शिवोत्तमः।  
    खड्गी सव्यो घोरनामा मेधा गौश्च घकारकः॥  
    शिवाख्यो लाङ्गली मूलो दन्तुरो घुर्घुरोऽपि च॥घ॥२९॥
@@ -4050,8 +3687,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    ठकारो लाङ्गली चैव दक्षोरुर्वर्त्तुलः पुनः।  
 २० पूर्णचन्द्रामृताख्यौ च तथा करतलद्वयम्॥  
    वनजो जीवनो जीवो वृषघ्नश्चन्द्रकः सुधा॥ठ॥३७॥
-
-
 
 १  ड-कारो दारुकः प्रोक्तो दक्षजानुश्च पालकः।  
    वामवाहुश्चकौमारी तथा वै योगिनीप्रियः॥ड॥३८॥
@@ -4086,8 +3721,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    ब-श्छगण्डः पृष्ठवंशः शिखिवाहो युगन्धरः।  
    मुखबिन्दुर्बलिर्घण्टी योद्धा त्रिलोचनप्रियः॥ब॥४८॥
 
-
-
 १  भो द्विरण्डो नाभिभद्रो भीमो भाषणमेव च।  
    दक्षस्कन्दो महाबाहुर्भ्रमरस्तु जयाभिधः॥भ॥४९॥
 
@@ -4120,24 +3753,15 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    हो नकुलीशः प्राणेशः प्राणः सम्बित् तथात्मजः।  
    अम्विकापतिरात्मा च जीवो हंसः प्रकीर्त्तितः॥
 
-
-
 १  नागलोकोऽमलाख्यश्च शिवः शान्तिदसंज्ञकः॥ह॥५८॥
 
   क्रोधः कोपः क्षकारश्च आत्मा स्त्री कामरूपकः।  
    संहारो नारसिंहोऽथ महातेजो युगान्तकः॥  
 ४  क्षयः संवर्त्तकः प्रोक्तः सर्वज्ञः क्षेत्रपालकः॥क्ष॥५९॥
 
-
-
 **॥ इति मातृका - निर्घण्टः समाप्तः॥**
 
-
-
 ![](../books_images/U-IMG-1721575743Screenshot2024-07-21064941.png)  
-
-
-
 
 अथ प्रकारान्तर-
 
@@ -4173,8 +3797,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 १२ नृसिंहास्त्रं शान्ति-माये गोविन्दश्च सुरेश्वरः।  
    त्रिमूर्त्तिर्वामनयनो वह्निरीकारकः स्मृतः॥६॥
-
-
 
 ॥उ॥
 
@@ -4216,8 +3838,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    ज्ञानामृता वर्म-शुची दामोदर-निरञ्जनौ।  
 १६ वागधरौ भौतिकेशो वागीशस्त्रिपुरश्च ऐ॥१४॥
 
-
-
 ॥ओ॥
 
 १  आप्यायनी वासुदेवश्चोर्ध्वदन्तस्त्रिमातृकः।  
@@ -4257,8 +3877,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    मेधा खङ्गो(ण्डी) त्रिनेत्रश्च दक्षिणाङ्गुलिमूलगः।  
 १६ शिवोत्तमो घनो गान्तो धनकामश्च घार्णकः॥२२॥
-
-
 
 ॥ङ॥
 
@@ -4300,8 +3918,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    पालिनी नन्दजः स्थायी लाङ्गलीशः कमण्डलुः।  
 १६ प्रमोदः स्थविरो वामजानुगश्चन्द्रमण्डलम्॥३०॥
 
-
-
 ॥ड॥
 
 १  एकपादो व्याघ्रपादः शुभाङ्घ्रिर्डामरेश्वरः।  
@@ -4341,8 +3957,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    वामपादाग्रगः शौरी मेषेशौ नन्दि-नाटकौ।  
 १६ वक्त्रतुण्डश्च दीर्घा च नकारो नदीनायकः॥३८॥
-
-
 
 ॥प॥
 
@@ -4384,8 +3998,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    मुण्डी ककुद्मतो मांसं पिनाकीशो बलानुजः।  
 १६ क्रियेन्द्रौ लम्पटो भूमिर्वायवीयो ल-कारकः॥४६॥
 
-
-
 ॥व॥
 
 १  बालो वामांश-खङ्गीशावुत्कारी वरुणो जलम्।  
@@ -4424,8 +4036,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    वर्णोद्भवा मूर्त्तिभेदा नामभेदास्तथैव च।  
 १६ रुद्रयामलतन्त्रोक्ता मयोक्ता गुर्वनुज्ञया॥५४॥
 
-
-
 १  अकारादि-क्षकारान्ता वर्णसंज्ञा गुरूक्तितः
 
 ।  
@@ -4447,8 +4057,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 समाप्तः**  
 
 ![](../books_images/U-IMG-1721573359Screenshot2024-07-11131326.png)
-
-
 
 अथ  
 
@@ -4473,8 +4081,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    चन्द्रबीज-समारूढं वधूबीजमिदं स्मृतम्॥  
    वधूर्वामेक्षणा योषिदेकाक्षीस्त्री च कामिनी॥स्त्रीं॥
 
-
-
 १  नादबिन्दु-समायुक्तो द्वादशस्तु स्वरो भगः।  
    योनिः सरस्वतीबीजमधरं वाग्भवं च वाक्॥ऐं॥  
    हकारो वामकर्णाढ्यो नादबिन्दु-विभूषितः।  
@@ -4497,8 +4103,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 २० शिखा वषट् च॥वषट्॥कवचं क्रोधो वर्म हुमित्यपि।  
    कोधाख्यो हूं तनुत्रञ्च शस्त्रादौ रिपुसंज्ञकः॥हूँ॥  
    अस्त्रनेत्रयुगं वौषट्॥वौषट्॥फड़स्त्रं शस्त्रमायुधम्॥फट
-
-
 
 १  तार्तीयन्तु हेसौः प्रेतबीजं॥हेसौः॥हंसोऽजपामनुः॥हंसः॥  
    गकारो विन्दुमान् विघ्नरा(बी)जं गणेशबीजकम्॥गं॥  
@@ -4525,8 +4129,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 २० संयुक्तं धूम्रभैरख्याः रक्तस्थं बलिभोजनम्।  
    नादबिन्दु-समायुक्तं किङ्किणीबीजमुत्तमम्॥द्रीं॥
 
-
-
 १  नादबिन्दु-समायुक्तं रक्तस्थं बलिभोजनम्।  
    कालरात्र्यासनोपेतं विशिखाख्यं महामनुम्॥द्रुं॥  
    विदार्यालिङ्गितो गुह्ये वलिभुक्क्षतजोक्षितः।  
@@ -4550,8 +4152,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 **समाप्तम्**  
 ![](../books_images/U-IMG-1721572241Screenshot2024-07-10063051.png)
-
-
 
 अथ  
 
@@ -4579,8 +4179,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    महालक्ष्म्यर्थकः शः स्याद् धनार्थो रेफ उच्यते।  
 १६ ईस्तुष्ट्यर्थो परो नादो विन्दुदुःखहरार्थकः॥
 
-
-
 १  लक्ष्मीदेव्या बीजमेतत्तेन देवीं प्रपूजयेत्॥श्रीं॥  
    सरस्वत्यर्थ ऐ-शब्दो बिन्दुर्दुःखहरार्थकः।  
    सरस्वत्या वीजमेतत्तेन वाणीं प्रपूजयेत्॥ऐं॥  
@@ -4604,8 +4202,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    मुक्त्यर्थो रेफ उक्तोऽत्र महामायाथकश्च ई॥  
    विश्वमात्रथको नादो बिन्दुर्दुःखहरार्थकः।
 
-
-
 १  वधूबीजार्थ उक्तोऽत्र तव स्नेहान्महेश्वरि॥स्त्रीं॥  
    यत्र बिन्दुद्वयं मन्त्रे एकं दुःखहरार्थकम्।  
    अन्यत् सुखप्रदं देवि ज्ञात्वा चार्थं विचिन्तयेत्॥  
@@ -4620,14 +4216,10 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 १२ वीप्सार्थं वा महेशानि ज्ञात्वा मन्त्रं जपेद्धिया।  
    इति ते कथितो देवि मन्त्रार्थः परमेश्वरि॥
 
-
-
 **इति वरदातन्त्रोक्त-मन्त्रार्थाभिधानं  
 समाप्तम्**
 
 ![](../books_images/U-IMG-1721569870Screenshot2024-07-09101742.png)
-
-
 
 अथ
 
@@ -4663,8 +4255,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 मोदन तू सर्वदेवानां द्वावणात् पापसन्ततेः।  
 तस्मान्मुद्रेति सा ख्याता सर्वकामार्थसाधनी॥
 
-
-
 १  काममुद्रा पराख्याता शिवस्य दशमुद्रिकाः।  
    लिङ्गयोनित्रिशूलाक्षमालेष्टाभीमृगाह्वयाः॥८॥
 
@@ -4697,8 +4287,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    दशमुद्राः समाख्यातास्त्रिपुरायाः प्रपूजने।  
    संक्षोभद्रावणाकर्षवश्योन्मादमहाऽङ्कुशाः॥१८॥
-
-
 
 १  खेचरी बीजयोन्याख्या त्रिखण्डा दश कीर्त्तिताः।  
    कुम्भमुद्राऽभिषेके स्यात् पद्ममुद्रा तथासने॥१९॥
@@ -4733,8 +4321,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    सव्यहस्तकृता मुष्टिर्दीर्घाधोमुखतर्जनी।  
    अवगुण्ठनमुद्रेयमभितो भ्रामिता मता॥२९॥
 
-
-
 १  अन्योन्याभिमुखाश्लिष्टा कनिष्ठानामिका पुनः।  
    तथैव तर्जनी मध्या धेनुमुद्रेयमीरिता॥३०॥
 
@@ -4766,8 +4352,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 २० कृत्वोत्तानां ततो मुष्टिमङ्गुष्ठन्तु प्रसारयेत्॥३८॥
 
    वामाङ्गुल्यस्तथाश्लिष्टाः संयुक्ताः सुप्रसारिताः।
-
-
 
 १  दक्षिणाङ्गुष्टसंस्पृष्टाः शङ्खमुद्रेयमीरिता॥३९॥
 
@@ -4802,8 +4386,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    चतस्रोऽप्यग्रसंलन्ना मुद्रा कौस्तुभसंज्ञिका॥४९॥  
    स्पृशेत् कण्ठादिपादान्तं तर्जन्याङ्गुष्ठनिष्ठया।
 
-
-
 ९  करद्वयेनमालावन्मुद्रेयं वनमालिका॥५०॥
 
    तर्जन्यङ्गुष्ठकौसक्तौ वक्रतो हृदि विन्यसेत्।  
@@ -4836,8 +4418,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    दक्षहस्तञ्चोर्द्धमुखं वामहस्तमधोमुखम्।  
    अङ्गुल्यग्रन्तु संयुक्तं मुद्रा वाराहसंज्ञिका॥६०॥
-
-
 
 १  वामहस्ततले कृत्वा दक्षाङ्गुलिमधोमुखीम्।  
    संरोप्य मध्यमानामे[^95]मुखस्याधो विकुञ्चयेत्॥६१॥
@@ -4877,8 +4457,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 यथा हस्तगता वाणास्तथा हस्तं कुरु प्रिये ।  
 वाणमुद्रेयमाख्याता रिपुवर्गनिकृन्तनी ॥
 
-
-
 १  अनामिकोर्द्धसंश्लिष्टदीर्घमध्यमयोरधः।  
    अङ्गुष्ठाग्रद्वयं न्यस्येद्योनिमुद्रेयमीरिता॥७०॥
 
@@ -4912,8 +4490,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    बाममुष्टस्तु तर्जन्या दक्षमुष्टिस्थतर्जनीम्।  
    संयोज्याऽङ्गुष्ठकाग्राभ्यां तर्जन्यग्रे स्वके क्षिपेत्॥८०॥
 
-
-
 १  एषा पाशाह्वया मुद्रा विद्वद्भिः परिकीर्त्तिता।  
    ऋज्वीञ्च मध्यमां कृत्वा तर्जनीं मध्यपर्वणि॥८१॥
 
@@ -4945,8 +4521,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    कनिष्ठिके तथानीय तदग्रेऽङ्गुष्ठकौ क्षिपेत्।  
 २० लक्ष्मीमुद्रा तथाह्येषा सर्वसम्पत्प्रदायिनी॥९०॥
-
-
 
 १  मुद्गरं पाशजिह्वे चाऽप्रसिद्धत्वादुपेक्षिते॥९१॥
 
@@ -4983,11 +4557,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 \*मुद्रगरभित्यादिसार्धैकपय क्वचिन्न दृश्यते
 
-
-
-
-
-
 १  अञ्जल्याऽञ्जलिमुद्रा स्याद् वासुदेवप्रियैव सा॥१०१॥
 
    अङ्गुष्ठावुन्नतौ कृत्वा मुष्ट्योः संलग्नयोर्द्वयोः।  
@@ -5020,8 +4589,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    मध्याङ्कनाऽथ तजन्या अङ्गुष्ठाग्रं तु योजयेत्।  
    दक्षिणं योजयेत् पाणिं वामुमुष्टौ तु साधकः॥
-
-
 
 १  दर्शयेद् दक्षिणे भागे मुण्डमुद्रेयमुच्यते॥१११॥
 
@@ -5056,8 +4623,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
    शृणु देवि प्रवक्ष्यामि मुद्राः सर्वार्थसिद्धिदाः।  
 २० याभिर्विरचिताभिस्तु सान्निध्या त्रिपुरा भवेत्॥१२०॥
 
-
-
 १  परिवर्त्य करौ स्पृष्टावङ्गुष्ठौ कारयेत् समौ।  
    अनामान्तर्गते कृत्वा तर्जन्यौ कुटिलाकृती॥१२१॥
 
@@ -5089,8 +4654,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    दण्डाकारौ ततोऽङ्गुष्ठौ मध्यमानखदेशगौ।  
    मुद्रेषोन्मादिनी नाम क्लेदिनी सवयोषिताम्॥१३०॥
-
-
 
 १  अस्यान्त्वनामिकायुग्ममधः कृत्वाऽङ्कुशाकृति।  
    तर्जन्यावपि तेनैव क्रमेण विनियोजयेत्॥  
@@ -5124,8 +4687,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
    एता मुद्रा महेशानि त्रिपुराया मयोदिताः।
 
-
-
 १  पूजाकाले प्रयोक्तव्या यथानुक्रमयोगतः॥१४०॥
 
    वामहस्तेन मुष्टिन्तु बद्ध्वा कर्णप्रदेशके।  
@@ -5152,224 +4713,113 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 
 ![](../books_images/U-IMG-1721543354रेखी.png)
 
-
-
-
-
-
-
 **![](../books_images/U-IMG-1721543217उपरि.......png)**
 
 **वर्णबीजकोषः  
 
 ![](../books_images/U-IMG-1721543282चित्र.png)**
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 [TABLE]
 
 **वर्णबीजकोषः समाप्तः**
-
-
 
 **_(![](../books_images/U-IMG-1721663742Screenshot2024-07-21061650.png))शुद्धिपत्रम्_(![](../books_images/U-IMG-1721663742Screenshot2024-07-21061650.png))**  
 
@@ -5405,108 +4855,6 @@ should be known that they signify the letter **अ**. Likewise,**आ ई**, and 
 |     शस्त्रादौ      | शस्त्रास्त्रे (दिः) | र्मूलगोबिन्दाबा०  |   मूलगो बिन्दुरा   |
 |      ॥ हुँ ॥      |      ॥ हूँ ॥       |   णान्तः स्था०    |     णान्तस्था०     |
 
-
-
 [TABLE]
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

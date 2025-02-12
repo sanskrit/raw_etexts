@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNzI2OTEzMjk
 
 \[
 
-
-
-
-
 **शाक्तैज्ञानम्**
-
-
 
 स्थानं प्रवेशो रूपं च लक्षं लक्षणमेव च ।  
 उत्थापनं बोधनं च चक्रविश्राममेव च ॥ १  
@@ -83,6 +77,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNzI2OTEzMjk
 \\Z
 
 --------------------------------------
-
 
 \]

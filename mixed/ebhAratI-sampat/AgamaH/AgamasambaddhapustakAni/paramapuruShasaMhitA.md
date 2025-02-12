@@ -26,8 +26,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 .
 
-
-
 मंगलम्
 
 श्लो॥
@@ -93,8 +91,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 स्संचरन्
 
 भुवनत्रयं।
-
-
 
 नानातरुलतागुल्मैः
 
@@ -555,10 +551,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 नाम
 
 प्रथमोध्यायः
-
-
-
-
 
 श्रीमत्पांचरात्रागमांतर्गत
 
@@ -2345,12 +2337,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 द्वितीयोध्यायः
 
-
-
-
-
-
-
 श्रीमत्पांचरात्रदिव्यागमांतर्गत
 
 श्रीपरमपुरुष
@@ -4088,10 +4074,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 नाम
 
 तृतीयोध्यायः
-
-
-
-
 
 श्रीमत्पांचरात्रागमांतर्गत
 
@@ -7775,8 +7757,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 चतुर्धोथ्यायः
 
-
-
 श्रीपांचरात्रागमांतर्गत
 
 श्रीपरम
@@ -9329,10 +9309,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 पंचमोथ्योयः
 
-
-
-
-
 श्रीपांच
 
 रात्रागमांतर्गत
@@ -10531,10 +10507,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 षष्टोध्यायः
 
-
-
-
-
 श्रीमत्पांचरात्रांतर्गत
 
 श्रीपरमपुरुष
@@ -10915,8 +10887,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 पशुपक्ष्यादिहसनं
 
-
-
 वनितासंगमंतधा॥
 
 15
@@ -10946,8 +10916,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 भगवद्वस्तु
 
 हरणं
-
-
 
 भगवन्निंदनंच
 
@@ -11541,8 +11509,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 क्षयंभूयान्निश्चयं
 
-
-
 मुनिसत्तमाः॥
 
 41
@@ -12085,10 +12051,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 निरूपणंनाम
 
 सप्तमोध्यायः
-
-
-
-
 
 श्रीमत्पांचरात्रागमांतर्गत
 
@@ -13721,10 +13683,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 अष्टमोध्यायः
 
 .
-
-
-
-
 
 श्रीपोंच
 
@@ -16935,10 +16893,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 म्
 
-
-
-
-
 प्र
 
 थ
@@ -17103,8 +17057,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 तस्यभूयात्सर्वनाशं सर्वदाचमुनीश्वराः॥ 30
 
-
-
 द्विदीयानुबंधः
 
 तृतीयाध्याये अर्चकाधिक्य निरूपणे
@@ -17261,8 +17213,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 पुनरावृत्तिवैतस्य नभवेन्निश्चयंबुधाः॥ 29
 
-
-
 तृतीयानुबंधः
 
 अधिकपाठ श्लोकाः
@@ -17297,8 +17247,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 तम्मिन्नेवतुदेवस्य नित्यपूजादिकंचरेत्। 5 1/2
 
-
-
 तृतीयाध्याये अर्चकादिक्य निरूपणे
 
 भगवदलंकरण योग्यवस्त्राभरणादीनां अर्चकस्य स्वीकारानर्हता
@@ -17326,8 +17274,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 धनंवाधान्यमेवापि अर्चकोनपरिग्रहेत्॥ 5
 
 एतेषां हरणेचैव वंशनाशन माप्नुयात्। 5 1/2
-
-
 
 चतुर्धोध्याये
 
@@ -17377,8 +17323,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 श्रीमंत्रंतुजपेद्यस्तुसर्पान्कामानवाप्नुयात्॥ 7
 
-
-
 श्लो 184 आरभ्यपठितव्याः
 
 श्रीवेष्णव गृहादीनां शंख चक्राद्यलंकरणं
@@ -17411,8 +17355,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 तेनपापेनमुच्येत नान्यधा मोचनंभवेत्॥ 11 1/2
 
-
-
 पंचमोथ्याये
 
 धर्माधीकारि विनिश्चयविधौ
@@ -17443,8 +17385,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 शिक्षार्हान्‌दंडयेच्चैव नोचेत्तत्पतनं भवेत्॥ 5
 
-
-
 षष्ठोध्याये
 
 संप्रोक्षणादिक समय निरूपणे
@@ -17472,8 +17412,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 चक्राब्जस्य विनाशेच यधाशास्त्रंश्रियःपतेः।
 
 संप्रोक्षणंतुकृत्वाच पुनस्तन्मंडलंलिखेत्॥ 4
-
-
 
 सप्तमोध्याये
 
@@ -17525,8 +17463,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 एवंक्रमेणवैपंच वारंतद्थारयेद्भुवि॥ 8 1/2
 
-
-
 अष्टमोथ्याये
 
 भक्तभाव विलक्षणकधने
@@ -17567,8 +17503,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 तस्य सिद्धौनमोदंस्यान्ना शेदुःखंमहद्भवेत्॥ 6 1/2
 
-
-
 नवमोथ्याये
 
 श्रीजयंत्याद्युत्सवनिर्णये
@@ -17605,8 +17539,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 
 किंत्वेतत्तु भवेत्बूर्व विद्धायां नकदापिच॥ 5
 
-
-
 दशमोध्याये
 
 एकादशीव्रतमहिमाभि वर्णने
@@ -17632,7 +17564,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjAxODA5MjQz
 द्व्रतस्यप्रभावेन मौनिशाप महाफलं॥ 3
 
 सर्वंचो पशमत्तेन सुरास्स्यान्निर्मलाभुवि। 3 1/2
-
-
 
 \]

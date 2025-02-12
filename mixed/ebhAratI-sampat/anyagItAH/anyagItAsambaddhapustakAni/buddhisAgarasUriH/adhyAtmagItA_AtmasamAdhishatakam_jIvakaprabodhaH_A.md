@@ -15,23 +15,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 
 \[
 
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 [TABLE]
 
 ![](../books_images/U-IMG-1724234057sssssssss.png)
-
-
 
 [TABLE]
 
@@ -62,8 +52,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 
 **લે. બુદ્ધિસાગર.**
 
-
-
 ![](../books_images/U-IMG-1724235252mmmnn.png)
 
 **संस्कृत ग्रन्थानुक्रमणिका.**  
@@ -77,10 +65,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 | **९५ जीवक प्रबंध. पृष्ठ १ थी**      | **३४ सुधी श्लोक. ३२८** |
 | **९६ आत्मस्वरूप ग्रन्थ. पृष्ठ. १ थी** | **४१ सुधी श्लोक. २५६** |
 | **९७ परमात्म दर्शन. पृष्ठ. १ थी**     | **४६ सुधी श्लोक. ५२९** |
-
-
-
-
 
 ![](../books_images/U-IMG-1722255497Screenshot2024-07-29164912.png)
 
@@ -122,10 +106,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 | ४८५ | सर्वात्मानो  | सर्वात्मानं |
 | २६  |   सर्गादि    |   सर्गादि   |
 
-
 ![](../books_images/U-IMG-1722253071Screenshot2024-07-29171057.png)
-
-
 
 श्री अध्यात्मज्ञानप्रसारक मंडलतरफथी
 
@@ -158,11 +139,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 | **१६ गुरुबोध.**                                | **०-९-०**  |
 | **\* १७ तत्त्वज्ञानदीपिका.**                   | **०-६-०**  |
 
-
-
 [TABLE]
-
-
 
 |                                                |        |
 |------------------------------------------------|--------|
@@ -189,8 +166,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 | ३७ स्नात्रपूना, ( बुद्धिसागरसूरिकृत )          | ०-२-०  |
 | ६८ श्रीमद्‌ देवचंद्रजी अने तेमनुंजीवनचरित्र   | ०-४-०  |
 
-
-
 |                                                                  |        |
 |------------------------------------------------------------------|--------|
 | ६९-७२ शुद्धोपयोग वि० संस्कृत ग्रंथ ४                            | ०-१२-० |
@@ -215,11 +190,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 | ९६ गुजरातीशोधविनाशः.                                           | १-०-०  |
 | ९७ तत्वविचार.                                                    | १-०-०  |
 
-
-
 ![](../books_images/U-IMG-1722344447Screenshot2024-07-28094800.png)
-
-
 
 **छपाता ग्रन्थो.**  
 
@@ -249,8 +220,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 **अध्यात्मगीता.**
 
 **![](../books_images/U-IMG-1722255005Screenshot2024-07-29174218.png)**
-
-
 
 प्रणम्य श्रीमहावीरं, ज्ञानानन्दमयं परम्‌।  
 करोम्यध्याऽऽत्मनो गीतां, स्वपरानन्दहेतवे॥१॥
@@ -2215,8 +2184,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 आचन्द्रार्क्कमहींयाव,—त्सर्वविश्वमनीषिणाम्‌।  
 शान्तितुष्टिमहापुष्टि,-समाधिसुखदोऽस्तु सः॥१२०॥
 
-
-
 ॐ अर्हं महावीर शान्तिः३
 
 ![](../books_images/U-IMG-1722352502Screenshot2024-07-30204855.png)
@@ -3230,11 +3197,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 **मंगलं वीर नाम्नाऽस्तु, चानन्तानन्दकोर्मयः।  
 सर्वत्र वर्तते शांति-,र्जैनधर्मः प्रवर्धताम्‌॥३२८॥**
 
-
-
 **इति जीवक बोधः समाप्तः**
-
-
 
 **![](../books_images/U-IMG-1722414259Screenshot2024-07-31135807.png)**
 
@@ -4325,12 +4288,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 पद्मावती पार्श्वयक्षो धरणेन्द्रो गुणालयः।  
 शंखेशपार्श्वनाथो वः कुर्वन्तु मङ्गलं सदा॥२५६॥
 
-
-
 **इति श्री आत्मस्वरूपग्रन्थः**
 
 ![](../books_images/U-IMG-1722428603Screenshot2024-07-31175747.png)  
-
 
 जैनाचार्य बुद्धिसागरसूरिकृत—  
 
@@ -5998,13 +5958,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2NTQwMjg5MjQ
 **शून्यषण्नवचन्द्रांकै (१९६०) र्मिते वैक्रमवत्सरे॥  
 आषाडशुक्लपंचम्यां रचितो मंगलप्रदः॥५२९॥**
 
-
-
 **॥इति श्री परमात्मदर्शननामा ग्रन्थः समाप्तः॥**  
-
 
    
 ![](../books_images/U-IMG-1722254677Screenshot2024-07-29173835.png)
-
 
 \]

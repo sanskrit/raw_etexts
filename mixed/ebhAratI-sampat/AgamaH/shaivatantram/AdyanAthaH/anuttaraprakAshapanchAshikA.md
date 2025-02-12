@@ -14,10 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzOTA4MzUxMTg
 
 \[
 
-
-
 आद्यनाथ अनुत्तरप्रकाशपञ्चाशिका
-
 
 ओं नमोऽनुत्तरप्रकाशशङ्कराय
 
@@ -181,6 +178,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIzOTA4MzUxMTg
 सता मुकुन्दरामेण सन्मुदेऽस्तु शिवेऽर्पिता ॥ \*१ ॥
 
 -----------------------------------
-
 
 \]

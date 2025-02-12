@@ -13,10 +13,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 \[
 
-
-
-
-
   
 
 ॐ
@@ -25,13 +21,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 :
 
-
-
  प्रथमोऽध्याय
 
 :
-
-
 
 नारायण
 
@@ -2013,8 +2005,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 श्रीविखनसे
 
 नम
@@ -2023,23 +2013,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  --------------------- ----------------------
 
-
-
-
-
-
-
 ॐ
-
-
 
 द्वितीयोऽध्याय
 
 :
 
 भूपरीक्षा
-
-
 
 अङ्कुरार्पणकादूर्ध्व
 
@@ -4067,23 +4047,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 संहितायां
 
-
-
-
-
 क्रियाधिकारे
 
-
-
 कर्षणादिपदविन्यासविधिर्नाम
-
-
 
 द्वितीयोऽध्याय
 
 :
-
-
 
 श्रीविखनसे
 
@@ -4093,27 +4063,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 -------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
 **ॐ**
-
-
-
-
 
 ** तृतीयोऽध्याय**
 
@@ -5547,15 +5499,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 सद्योविधिर्नाम
 
-
-
 तृतीयोऽध्याय
 
 :
 
 ॥
-
-
 
 श्रीविखनसे
 
@@ -5565,17 +5513,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  -------------------
 
-
-
-
-
  ॐ
 
 चतुर्थोऽध्याय
 
 :
-
-
 
 मूलागारकल्पनम्
 
@@ -7351,13 +7293,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 शान्तिकादिविमानालङ्कारविधिर्नाम
 
-
-
 चतुर्थोऽध्यायः
 
 ।
-
-
 
 श्रीविखनसे
 
@@ -7367,17 +7305,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
    --------------------------
 
-
-
-
-
  ॐ
 
 पञ्चमोऽध्याय
 
 :
-
-
 
 आद्येष्टकान्यास
 
@@ -17021,8 +16953,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 इत्यार्षे
 
 श्रीवैखानसे
@@ -17045,8 +16975,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 :
 
-
-
 श्रीविखनसे
 
 नम
@@ -17055,35 +16983,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  --------------------------- ---------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  ॐ
 
  षष्ठोऽध्याय
 
 :
-
-
 
 ध्रुवबेरलक्षणम्
 
@@ -21799,10 +21703,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
-
-
 इत्यार्षे
 
 श्रीवैखानसे
@@ -21819,15 +21719,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 संभाराहरण
 
-
-
 अक्षिमोचनाधिवासत्रयाशक्यबिम्बाधिवासाऽऽचार्यानुज्ञाऽग्निमथनाग्नि
 
 प्रणयनाग्निध्यानाग्निजिह्वास्थाननिर्णय
 
 होमद्रव्यप्रमाण
-
- 
 
 होमद्रव्याधिदेवनिर्णयो
 
@@ -21837,17 +21733,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  ----------------------
 
-
-
-
-
  ॐ
 
  सप्तमोऽध्याय
 
 :।
-
-
 
 (
 
@@ -27249,10 +27139,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
-
-
 इत्यार्षे
 
 श्रीवैखानसे
@@ -27263,8 +27149,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 संहितायां
 
-
-
 क्रियाधिकारे
 
 माहप्रतिष्ठातन्त्र
@@ -27272,8 +27156,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 शयनास्तरण
 
 प्रतिसर
-
-
 
 हौत्रप्रशंसाहवनीयादिहोम
 
@@ -27285,27 +27167,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
    ------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   ॐ
 
  अष्टमोऽध्याय
 
 :।
-
-
 
 रत्नयास
 
@@ -31069,8 +30935,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 इति
 
 :
@@ -31091,8 +30955,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 राष्ट्रान्तरानीत
 
-
-
 बेरस्थापनानुक्तकालप्रतिष्ठा
 
 प्रायश्चित्तादि
@@ -31101,21 +30963,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 --------------------------- ----------------------------
 
-
-
-
-
 नवमोऽध्यायः न उपलब्धः
-
-
 
  ॐ
 
  दशमोऽध्याय
 
 :
-
-
 
 अर्चनाङ्गोपचारा
 
@@ -32900,8 +32754,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 इत्यार्षे
 
 श्रीवैखानसे
@@ -32922,19 +32774,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ---------------------------------
 
-
-
-
-
-
-
  ॐ
 
  एकादशोऽध्याय
 
 :
-
-
 
 दशावतारकल्प
 
@@ -37614,8 +37458,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 इत्यार्षे
 
 श्रीवैरवानसे
@@ -37638,35 +37480,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  ------------------------------- 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  ॐ
 
  द्वादशोऽध्यायः।
-
-
 
 स्नापनौत्सवयो
 
@@ -38980,8 +38796,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 पूर्ववत्।
 
-
-
 इत्यार्षे
 
 श्रीवैखानसे
@@ -39003,10 +38817,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 द्वादशोऽध्यायः।
 
 -------------------------------------------------------------
-
-
-
-
 
 ॐ
 
@@ -40436,8 +40246,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 खिलोक्तवत्।
 
-
-
 इत्योर्षे
 
 श्रीवैखानसे
@@ -40450,8 +40258,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 क्रयाधिकारे
 
-
-
 महास्नपनविधिर्नाम
 
 त्रयोदशोऽध्यायः।
@@ -40460,15 +40266,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  ---------
 
-
-
  ॐ
 
  चतुर्दशोऽध्याय
 
 :
-
-
 
 महोत्सव
 
@@ -46462,8 +46264,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 इत्यार्षे
 
 श्रीवैखानसे
@@ -46490,15 +46290,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  ----------------------------------
 
-
-
-
-
  ॐ
 
  पञ्चदशोध्यायः।
-
-
 
 गृहार्चाप्रतिष्ठा
 
@@ -49124,8 +48918,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 सहितायां
 
-
-
 क्रियाकिधकारे गृहे
 
 विष्णवादित्यस्कन्दविनायकलक्ष्मीदुर्गासरस्वतीभदकाली
@@ -49142,37 +48934,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 -----------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  ॐ
 
  षोडशोऽध्याय
 
 :।
-
-
 
 क्षी
 
@@ -51326,8 +51092,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 प्रतिष्ठामर्चनादिकम्।
 
-
-
 अचलां
 
 श्रियमाप्नोति
@@ -51964,8 +51728,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 इत्यार्षे
 
 श्रीवैखानसे
@@ -51978,8 +51740,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 क्रियाधिकारे
 
-
-
 भगवदालयाश्रितश्रीप्रतिष्ठाविधिर्नाम
 
 षोडशोऽध्याय
@@ -51990,15 +51750,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  ------------------------------------
 
-
-
    ॐ
 
  सप्तदशोऽध्याय
 
 :।
-
-
 
 त्रिमूर्तिस्थापनम्
 
@@ -53404,17 +53160,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  -------------------------------
 
- 
-
-
-
    ॐ
 
  सप्तदशोऽध्याय
 
 :॥
-
-
 
 त्रिमूर्तिस्थापनम्
 
@@ -54820,17 +54570,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 --------------------------------------
 
-
-
-
-
-
-
   ॐ
 
  अष्टादशोऽध्यायः।
-
-
 
 पुण्यनक्षत्रपूजनम्
 
@@ -58346,17 +58088,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 -------------------------------------------
 
-
-
-
-
  ॐ
 
 एकोनविंशोऽध्याय
 
 :।
-
-
 
 विशेषार्चनम्
 
@@ -59858,19 +59594,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 -------------------------------------------
 
-
-
-
-
-
-
  ॐ
 
  विंशोऽध्याय
 
 :
-
-
 
 भूपरीक्षादिप्रायश्रित्तम्
 
@@ -65198,17 +64926,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  ----------------------------------
 
-
-
-
-
  ॐ
 
  एकविंशोऽध्याय
 
 :।
-
-
 
 चलितस्थापनम्
 
@@ -69084,11 +68806,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  ------------------------------
 
-
-
 द्वाविंशोऽध्यायः न उपलब्धः ।
-
-
 
  ॐ
 
@@ -72756,19 +72474,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 **-------------------------------**
 
-
-
-
-
-
-
  ॐ
 
  चतुर्विंशोऽध्याय
 
 :
-
-
 
 अर्चनायां
 
@@ -75686,21 +75396,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ----------------------------
 
-
-
-
-
-
-
-
-
 ** ॐ**
 
  पञ्चविंशोंऽध्याय
 
 :।
-
-
 
 स्नपनप्रायश्चितम्
 
@@ -77410,8 +77110,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 तद्दैवत्यञ्च
 
 हुत्वा
@@ -77816,21 +77514,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ------------------------------
 
-
-
-
-
-
-
 ॐ
-
-
 
 षड्विंशाध्याय
 
 :।
-
-
 
 उत्सवप्रायश्चित्तम्
 
@@ -83308,8 +82996,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ॥
 
-
-
 एवमेव
 
 विधाने
@@ -83378,19 +83064,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 **--------------------------------**
 
-
-
-
-
-
-
  ॐ
 
  सप्तविंशोऽध्याय
 
 :।
-
-
 
 अस्पृश्यप्रवेशप्रायश्रितम्
 
@@ -86286,15 +85964,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 **------------------------- -------------------------**
 
-
-
-
-
  ॐ
 
  अष्टाविंशोऽध्यायः
-
-
 
 पात्राणां
 
@@ -87744,21 +87416,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 -------------------------------
 
-
-
-
-
-
-
-
-
 **  ॐ**
 
  एकोनत्रिंशोऽध्याय
 
 :।
-
-
 
 महाशान्तिविधि
 
@@ -93649,17 +93311,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
  ----------------------------------------
 
-
-
-
-
  ॐ
 
  त्रिंशोऽध्याय
 
 :।
-
-
 
 दशानामवताराणां
 
@@ -97063,17 +96719,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 **---------------------------------- ** 
 
-
-
-
-
  ॐ
 
  एकत्रिंशोऽध्याय
 
 :।
-
-
 
 सामान्य
 
@@ -99543,23 +99193,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ---------------------------
 
-
-
-
-
-
-
-
-
-
-
  ॐ
 
  द्वात्रिंशोऽध्याय
 
 :।
-
-
 
 शमीपूजाविधि
 
@@ -101735,17 +101373,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ---------------------------------
 
-
-
-
-
  ॐ
 
  त्रयस्त्रिंशोऽध्याय
 
 :।
-
-
 
 पञ्चामृतस्नपनविधि
 
@@ -104791,19 +104423,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 
 ----------------------------------
 
-
-
  --------
-
-
 
  ॐ
 
  चतुस्त्रिंशोऽध्याय
 
 :।
-
-
 
 गोदाप्रतिष्ठा
 
@@ -106962,7 +106588,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDk2Njk1NDAz
 :।
 
 ------------------------------------
-
-
 
 \]

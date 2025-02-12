@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MjU3OTE4Mzg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 ॥ वेदान्त परिभाषा॥  
   by Dharmaraja Adhvarindra
 
@@ -44,9 +32,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MjU3OTE4Mzg
 
 ८ प्रयोजनम्।
 
-
     १ प्रत्यक्ष प्रमाणम्।  
-
 
 यदविद्याविलासेन भूतभौतिकसृष्टयः।
 
@@ -71,7 +57,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MjU3OTE4Mzg
 तेन बोधाय मन्दानां वेदान्तार्थावलम्बिनी।
 
 धर्मराजाध्वरीन्द्रेण परिभाषा वितन्यते ॥ ६॥
-
 
 इह खलु धर्मार्थकाममोक्षाख्येषु चतुर्विधपुरुषार्थेषु
 
@@ -2836,20 +2821,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MjU3OTE4Mzg
 इति धर्मराज अध्वरीन्द्र विरचिता
 
    वेदान्त परिभाषा समाप्ता॥
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

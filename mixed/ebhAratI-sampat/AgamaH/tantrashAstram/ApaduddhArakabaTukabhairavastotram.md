@@ -13,15 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 \[
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 **॥ श्रीगणेशाय नमः ॥  
 आपदुद्धारक बटुक भैरव स्तोत्रम्**  
@@ -48,8 +40,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 अपस्मारादिरोगानां ज्वरादीनां विशेषतः ॥  
 नाशनं स्मृतिमात्रेण मंत्रराजमिमं प्रिये
-
-
 
 ग्रहरोगभयानां च नाशनं सुखवर्द्धनम् ॥  
 स्नेहाद्वक्ष्यामि ते मन्त्रंसर्वसारमिमम्प्रिये ॥७॥
@@ -78,8 +68,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 भवति सततं तस्य पुस्तकस्यापि पूजनात्।  
 न दारिद्र्यं न दौर्भाग्यं
-
-
 
 नापदां भयमेव च ॥ १५ ॥
 
@@ -112,8 +100,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 प्रणवः कीलकं प्रोक्तमिष्टसिद्धौ नियोजयेत् ॥२३॥
 
 अष्टबाहुं त्रिनयनमिति बीजं समाहितम् ।
-
-
 
 शक्तिः कं कीलकं शेषमिष्टसिद्धौ नियोजयेत् ॥ २४ ॥
 
@@ -152,8 +138,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 पाण्योः कपालिनं न्यस्य हृदयेमुंडमालिनम् ।  
 शांतवक्षस्थलेन्यस्वस्तनयोः शमचारि-
 
-
-
 णम्॥ २८ ॥
 
 उदरे च सदा तुष्टं क्षेत्रेशं पार्श्वयोस्तथा॥  
@@ -183,8 +167,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 मांसाशिनं कराग्रे तुकरपृष्ठे दिगम्बरम् ।  
 अथ नामांगन्यासःहृदये भूतनाथाय आदि-
 
-
-
 नाथाय मूर्द्धनि ॥३७॥
 
 आनंदपादपूर्वाय नाथाय च शिखासुच ॥  
@@ -213,8 +195,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 तन्त्रान्तरे अथ सात्विकध्यान् ॥  
 वंदेवालंस्फटिकसदृशं कुंडलीद्भा-
 
-
-
 सिवक्त्रं दिव्याकल्पैनवमाणमयैः किकिणीनूपुराढ्यः।  
 दीप्ताकार विशदवदनं सुप्रसन्नंमहेशम् ।  
 हस्ताब्जाभ्यांवटुकमनिशं शूलखङ्गौ दधानम् ॥
@@ -238,8 +218,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 ध्यात्वाजपेत्सुसंहृष्टः सर्वान्कामानवानुयात् ॥  
 आयुरारोग्यमैश्वर्य सिद्ध्यर्थं विनियोजयेत् ।  
 अस्य श्रीवटुकभैरवनामाष्टशतकस्य आपदुद्धारण स्तोत्रमंत्रस्य वृहदारण्यको नाम ऋषिः ।
-
-
 
 श्रीवटुकभैरवो देवता अनुष्टुपछन्दः ।  
 ह्रीं बीजं वटुकायेति शक्तिः ॥
@@ -269,8 +247,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 नागहारो नागपाशी व्योमकेशःकपालभृत् ॥५॥
 
 कालः कपालमाली च कमनीयः कलानिधिः॥
-
-
 
 त्रिलोचनोज्ज्वलन्नेत्रस्त्रिशिखी च त्रिलोकपः ॥६॥
 
@@ -302,8 +278,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 य इदं
 
-
-
 पठते स्तोत्र नामाष्टशतमुत्तमम् ॥१५॥
 
 न तस्य दुरितं किंचिन्नैव भूतभयं तथा ।  
@@ -333,8 +307,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 पठेन्मासत्रयं देवि वारमेकन्तथानिशि ॥  
 धनं पुत्रांस्तथादा-
 
-
-
 रान् प्रप्नुयान्नात्र संशयः ॥ २४॥
 
 रोगीरोगात्प्रमुच्येत बद्धोमुच्येत बन्धनात् ॥  
@@ -358,9 +330,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 इति श्रीरुद्रयामलेईश्वरपार्वतीसम्वादे वटुकभैरवस्तोत्रं सम्पूर्णम् ॥  
 
-
-
-
 ॥ कालभैरवाष्टकम् ॥
 
 श्रीगणेशाय नमः॥
@@ -383,8 +352,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 रत्नपादुकाप्रभाभिरामपादयुग्मकं नित्यमद्वितीयमिष्टदैवतं निरंजनम् ।  
 मृत्युदर्पनाशनं
 
-
-
 करालदंश मोक्षणं काशिका०॥६॥
 
 अट्टहासभिन्नपद्मजांडकोशसंततिं दृष्टिपाहनष्टपापजालमुग्रशासनम् ।  
@@ -398,11 +365,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 इति श्रीमच्छंकराचार्यविरचितं कालभैरवाष्टकं सम्पूर्णम् ॥
 
-                   
-
 ![](../books_images/U-IMG-172095321414.07.2024_16.03.04_REC.png)
-
-                           
 
 ॥ ऋणमोचनमंगलस्तोत्रम् ॥
 
@@ -412,8 +375,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 स्थिरासनो महाकायः सर्वकर्मविरोधकः ॥ १ ॥
 
 लोहितो लोहिताक्षश्व सामगानां
-
-
 
 कृपाकरं॥  
 धरात्मजः कुजौ भौमो भूतिदो भूमिनन्दनः ॥२॥
@@ -444,8 +405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 
 पुत्रान्देहि धनं देहि त्वामस्मि शरणं गतः। ऋणदारिद्रय
 
-
-
 दुःखेन शत्रूणां च भयात्ततः ॥११॥
 
 एभिर्द्वादशभिः श्लोकैर्यः स्तोति धरासुतम् ।  
@@ -462,9 +421,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgxMzIyNjU3MzQ
 ५२७ ए। २, कक्कड़नगर ( दरियाबाद ) इलाहाबाद ।  
 ब्रांच - जानसेन गंज, इलाहाबाद ।  
 Printed by :- Kitab Mahal, (W. D.) Pvt. Ltd., Allahabad.  
-
-
-
-
 
 \]

@@ -12,18 +12,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 प्रमेयरत्नावली
 
 बलदेवविद्याभूषणप्रणीता
@@ -306,19 +294,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5
 प्रथमप्रमेयं  
 ॥ १ ॥
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ओ)०(ओ
 
 (२)  
@@ -394,12 +369,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5
 विश्वसत्यत्वप्रकरणं नाम  
 तृतीयप्रमेयम्  
 ॥ ३ ॥
-
-
-
-
-
-
 
 ओ)०(ओ
 
@@ -485,10 +454,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5
 चतुर्थप्रमेयं  
 ॥ ४ ॥
 
-
-
-
-
 ओ)०(ओ
 
 (५)  
@@ -514,20 +479,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5
 इति प्रमेयरत्नावल्यां जीवानां भगवद्दासत्वप्रकरणं नाम  
 पञ्चमप्रमेयम्  
 ॥ ५ ॥
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 (६)  
 अथ जीवानां तारतम्यम्
@@ -572,10 +523,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5
 जीवतारतम्यप्रकरणं नाम  
 षष्ठप्रमेयं  
 ॥६॥
-
-
-
-
 
 (७)  
 कृष्णप्राप्तिरूपमोक्षम्
@@ -685,12 +632,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5
 अष्टमप्रमेयम्  
 ॥८॥
 
-
-
-
-
-
-
 (९)  
 प्रमाणत्रित्वम्
 
@@ -754,15 +695,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDY5MDk2OTI5
 इति श्रीभगवत्कृष्णचैतन्यसम्प्रदायाचार्यश्रीमद्बलदेवविद्याभूषणकृता प्रमेयरत्नावली पूर्तिमगात।
 
 समाप्तोऽयं ग्रन्थः
-
-
-
-
-
-
-
-
-
-
 
 \]
