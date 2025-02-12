@@ -10,7 +10,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEyNjM1MjI1ODA
 +++
 [[सुभाषितानि अर्थसहितम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODEyNjM1MjI1ODA0NTkz&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 # 
 
@@ -24,80 +24,82 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEyNjM1MjI1ODA
 शीलं च दुर्लभं तत्र विनयस्तत्र सुदुर्लभः॥  
 In this world, to take birth in the human race is rare, wherein to obtain knowledge and wisdom is even harder. Further to have a noble character is harder and further still is modesty.
 
-*कार्तिक* *रामनेन* *प्रेषितम् — [11:03](\%20%20style=)*
-[![](\%20%20style=)](\%20%20style=)
+*कार्तिक* *रामनेन* *प्रेषितम् — [11:03[^1]*
+<MISSING_FIG href="\%20%20style="/>[^1]
+
+[^1]: \%20%20style=
 
 ## **01 मई 2006**
 
-### **20:15 [![](\%20%20style=)](\%20%20style=)**
+### **20:15 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **30 अप्रैल 2006**
 
-### **07:45 [![](\%20%20style=)](\%20%20style=)**
+### **07:45 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **29 अप्रैल 2006**
 
-### **20:30 [![](\%20%20style=)](\%20%20style=)**
+### **20:30 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **25 अप्रैल 2006**
 
-### **14:48 [![](\%20%20style=)](\%20%20style=)**
+### **14:48 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **11 अप्रैल 2006**
 
-### **18:40 [![](\%20%20style=)](\%20%20style=)**
+### **18:40 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **09 अप्रैल 2006**
 
-### **18:24 [![](\%20%20style=)](\%20%20style=)**
+### **18:24 <MISSING_FIG href="\%20%20style="/>[^1]**
 
-### **18:13 [![](\%20%20style=)](\%20%20style=)**
+### **18:13 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **06 अप्रैल 2006**
 
-### **18:30 [![](\%20%20style=)](\%20%20style=)**
+### **18:30 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **04 अप्रैल 2006**
 
-### **18:45 [![](\%20%20style=)](\%20%20style=)**
+### **18:45 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **28 मार्च 2006**
 
-### **14:17 [![](\%20%20style=)](\%20%20style=)**
+### **14:17 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **24 मार्च 2006**
 
-### **21:47 [![](\%20%20style=)](\%20%20style=)**
+### **21:47 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **16 मार्च 2006**
 
 ### **Ajamila in wiikipedia.**
 
-*कार्तिक* *रामनेन* *प्रेषितम् — [23:30](\%20%20style=)*
-[![](\%20%20style=)](\%20%20style=)
+*कार्तिक* *रामनेन* *प्रेषितम् — 23:30[^1]*
+<MISSING_FIG href="\%20%20style="/>[^1]
 
 ## **05 मार्च 2006**
 
 ### **http://en.wikipedia.org/wiki/Nine_Expressions_of_Bhakti  \[Posted on 16 MAR\]**
 
-*कार्तिक* *रामनेन* *प्रेषितम् — [23:26](\%20%20style=)*
-[![](\%20%20style=)](\%20%20style=)
+*कार्तिक* *रामनेन* *प्रेषितम् — 23:26[^1]*
+<MISSING_FIG href="\%20%20style="/>[^1]
 
 ## **28 फ़रवरी 2006**
 
-### **21:01 [![](\%20%20style=)](\%20%20style=)**
+### **21:01 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **27 फ़रवरी 2006**
 
-### **20:31 [![](\%20%20style=)](\%20%20style=)**
+### **20:31 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **22 फ़रवरी 2006**
 
-### **22:05 [![](\%20%20style=)](\%20%20style=)**
+### **22:05 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **17 फ़रवरी 2006**
 
-### **23:10 [![](\%20%20style=)](\%20%20style=)**
+### **23:10 <MISSING_FIG href="\%20%20style="/>[^1]**
 
 ## **15 फ़रवरी 2006**
 

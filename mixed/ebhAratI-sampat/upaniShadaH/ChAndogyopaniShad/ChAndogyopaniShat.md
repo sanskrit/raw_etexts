@@ -7815,6 +7815,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3Nzc2NzU4MTU
 पञ्चमः खण्डः॥५॥  
 \_\_\_\_\_\_\_\_\_**
 
+ 
 ब्रह्मप्राप्तिसाधनीभूतारण्यशब्दितार्णवद्वयप्राप्तेर्ब्रह्मचर्याधीनत्वाद्ब्रह्मचर्यमेव सर्वसाधनोत्कृष्टमिति भावः॥४॥
 
 **इति च्छान्दोग्योपनिषत्प्रकाशिकायामष्टमप्रपाठकस्य  
@@ -8448,7 +8449,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3Nzc2NzU4MTU
 **अथ च्छान्दोग्योपनिषद्विभागानां वर्णानु-  
 क्रमणिका प्रारभ्यते।**
 
-![](../books_images/U-IMG-1734931116523698741.png)
+<MISSING_FIG href="../books_images/U-IMG-1734931116523698741.png"/>
 
 [TABLE]
 
@@ -8517,7 +8518,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg3Nzc2NzU4MTU
 
 **समाप्तेयं छान्दोग्योपनिषद्विभागानां वर्णानुक्रमणिका।**
 
-![](../books_images/U-IMG-1735300962Screenshotfrom2024-12-2717-32-22.png)
+<MISSING_FIG href="../books_images/U-IMG-1735300962Screenshotfrom2024-12-2717-32-22.png"/>
 
 \]
-

@@ -12,6 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0NjY1MzE0Mjk
 
 \[
 
+
+
+
+
+
+
  
 
 **कठोपनिषत्**
@@ -89,5 +95,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0NjY1MzE0Mjk
 \</2,6-15\>
 
 ------------------------------------
+
+
+
 
 \]

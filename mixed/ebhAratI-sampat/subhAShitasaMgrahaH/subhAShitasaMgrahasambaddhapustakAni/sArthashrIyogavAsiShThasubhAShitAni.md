@@ -29,7 +29,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMjM4NjEwOTQ
 
 सार्थश्रीयोगवासिष्ठसुभाषितानि  
 
-**![](../books_images/U-IMG-1723033465Screenshot2024-08-07175352.22132.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723033465Screenshot2024-08-07175352.22132.png"/>**
 
 संपादक व भाषांतरकार  
 
@@ -57,7 +57,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMjM4NjEwOTQ
 
 सोसायटीज बिल्डिंग, गिरगांव–मुंबई
 
-**![](../books_images/U-IMG-1723034156Screenshot2024-08-07180528.8888.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723034156Screenshot2024-08-07180528.8888.png"/>**
 
 प्रकाशक**—केशव भिकाजी ढवले, (रामचंद्र बिल्डिंग)**
 
@@ -77,7 +77,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMjM4NjEwOTQ
 
 चैत्रशके १८५४
 
-![](../books_images/U-IMG-1723035447Screenshot2024-08-07182637.77477.png)
+<MISSING_FIG href="../books_images/U-IMG-1723035447Screenshot2024-08-07182637.77477.png"/>
 
 **——————**
 
@@ -95,16 +95,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMjM4NjEwOTQ
 
 **५ उपशम**
 
-![](../books_images/U-IMG-1723046832Screenshot2024-08-07213646.66.png)
+<MISSING_FIG href="../books_images/U-IMG-1723046832Screenshot2024-08-07213646.66.png"/>
 
 **——————**
 
-![](../books_images/U-IMG-1723047850Screenshot2024-08-07214141.111.png)
+<MISSING_FIG href="../books_images/U-IMG-1723047850Screenshot2024-08-07214141.111.png"/>
 
 यतः सर्वाणि भुतानि प्रतिभान्ति स्थितानि च।  
 यत्रैवोपशमं यान्ति तस्मैसत्यात्मने नमः॥
 
-**![](../books_images/U-IMG-1723047870Screenshot2024-08-07214403.33.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723047870Screenshot2024-08-07214403.33.png"/>**
 
 **१ अकृत्रिमं सुखं कोर्तिमायुश्र्चेवाभिवाञ्छता।प्र०स०श्लो०  
   सर्वाभिमतदानेन पूजनीया गुणान्विताः॥३।७७।२६**
@@ -2658,10 +2658,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMjM4NjEwOTQ
 
 सार्थश्रीयोगवासिष्ठसुभाषितानि
 
-**![](../books_images/U-IMG-1724156453Screenshot2024-08-20175022.222.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724156453Screenshot2024-08-20175022.222.png"/>**
 
 विषयसूची  
-![](../books_images/U-IMG-1724156499Screenshot2024-08-20175113.3333.3.png)
+<MISSING_FIG href="../books_images/U-IMG-1724156499Screenshot2024-08-20175113.3333.3.png"/>
 
 |                                  |                                                                 |
 |----------------------------------|-----------------------------------------------------------------|
@@ -2724,6 +2724,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzMjM4NjEwOTQ
 
 [TABLE]
 
-![](../books_images/U-IMG-1724648357Screenshot2024-08-26102836.png)
+<MISSING_FIG href="../books_images/U-IMG-1724648357Screenshot2024-08-26102836.png"/>
 
 \]

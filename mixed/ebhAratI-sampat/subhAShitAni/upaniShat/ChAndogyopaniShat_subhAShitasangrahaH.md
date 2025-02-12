@@ -12,9 +12,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5MTExNjM0NjE
 
 \[
 
+
+
+
+
+
+
  
 
 ** छान्दोग्योपनिषत्**
+
+
 
 \<1,1-10\>  
  नाना तु विद्या चाविद्या च, यदेव विद्यया करोति ।  
@@ -79,5 +87,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5MTExNjM0NjE
 \</8,6-6\>
 
 --------------------------------------------------------
+
 
 \]

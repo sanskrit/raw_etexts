@@ -11,7 +11,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI3MzkyMjA0MDg
 
 \[
 
+
+
+
+
+
+
 ** मुण्डकोपनिषत्**
+
+
 
 \<1,2-10\>  
  इष्टापूर्तं मन्यमाना वरिष्ठं  
@@ -33,5 +41,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI3MzkyMjA0MDg
 \</2,2-10\>
 
 ------------------------------------------------
+
+
+
 
 \]

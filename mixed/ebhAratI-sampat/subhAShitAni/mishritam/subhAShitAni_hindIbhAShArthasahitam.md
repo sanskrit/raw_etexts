@@ -12,9 +12,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 
 \[
 
+
+
+
+
+
+
 सुभाषितानि
 
 -हिन्दीभाषार्थसहितम् 201
+
+
 
 अल्पानामपि
 
@@ -457,6 +465,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 
 गच्छति //  
 
+
 जिस
 
 प्रकार
@@ -546,6 +555,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 पालयिष्यति
 
 कः //  
+
 
 अरे
 
@@ -1399,6 +1409,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 
 पूरूषः //  
 
+
 मनुष्य ,
 
 जिस
@@ -1827,6 +1838,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 
 सर्वमेवाभिमानः //  
 
+
 वॄद्धत्वसे
 
 रूपका
@@ -1931,6 +1943,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 
 विरलाः //  
 
+
 दुसरोंके
 
 गुण
@@ -2018,6 +2031,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 महदैश्वर्यं
 
 विनाप्यर्थेः //  
+
 
 आरोग्य,
 
@@ -2163,6 +2177,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 
 सुमहानहो //  
 
+
 सब
 
 रत्न
@@ -2246,6 +2261,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 न
 
 गच्छति //  
+
 
 यदि
 
@@ -2502,6 +2518,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 मुक्तास्तिष्ठन्ति
 
 पङ्गुवत् //  
+
 
 आशा
 
@@ -3250,6 +3267,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 
 सः //  
 
+
 गीता 3\।42
 
 इंद्रियों
@@ -3539,6 +3557,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYwMTIwNTE1MDA
 न
 
 कामकामी //  
+
 
 गीता 2\।70
 
@@ -4054,6 +4073,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 अविजानताम् //  
 
+
 रातभर
 
 जागनेवाले
@@ -4346,6 +4366,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 गॄहम् //  
 
+
 जिस
 
 घर
@@ -4446,6 +4467,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 सनातनः //  
 
+
 जो
 
 कार्य
@@ -4543,6 +4565,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 कामात्
 
 क्रोधोऽभिजायते //  
+
 
 भगवद्गीता 2\।62
 
@@ -4696,6 +4719,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 प्रााणरक्षणम् //  
 
+
 महाभारत
 
 एक
@@ -4781,6 +4805,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 स
 
 पश्यति //  
+
 
 जो
 
@@ -5014,6 +5039,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 भयङ्करः //  
 
+
 दूर्जन ,
 
 चाहे
@@ -5138,6 +5164,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 है //  
 
+
 अज्ञेभ्यो
 
 ग्रन्थिनः
@@ -5159,6 +5186,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 ज्ञानिभ्यो
 
 व्यसायिनः //  
+
 
 निरक्षर
 
@@ -5242,6 +5270,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 पदम् //  
 
+
 योगवा\। 1\।1\।7
 
 जिस
@@ -5318,6 +5347,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 जायते //  
 
+
 मनमे
 
 की
@@ -5385,6 +5415,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 नानि
 
 याचके //  
+
 
 चलते
 
@@ -5459,6 +5490,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 च
 
 धीगुणाः //  
+
 
 श्रवण
 
@@ -5544,6 +5576,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 च
 
 शाश्वतम् //  
+
 
 महाभारत
 
@@ -6028,6 +6061,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 हन्त्यलक्षणम् //  
 
+
 मनु\।4\।156
 
 अच्छे
@@ -6091,6 +6125,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 तद्धि
 
 सर्वदा //  
+
 
 मनु\। 3\।57
 
@@ -6332,6 +6367,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 आश्रमाः //  
 
+
 मनु\। 3\।77
 
 जिस
@@ -6395,6 +6431,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 बहिरेव
 
 मनोहरः //  
+
 
 सज्ज्न
 
@@ -6732,6 +6769,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 च //  
 
+
 मनु
 
 जो
@@ -6841,6 +6879,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 श्रोतारः
 
 पुण्यशालिनः //  
+
 
 योग्य
 
@@ -7076,6 +7115,8 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 सुभषित 284
 
+
+
 गौरवं
 
 प्राप्यते
@@ -7101,6 +7142,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 अधः
 
 स्थितिः //  
+
 
 दानसे
 
@@ -7180,6 +7222,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 विपरीतबुद्धिः //  
 
+
 न
 
 पहले
@@ -7235,6 +7278,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 नालोक्यां
 
 तामुदीरयेत् //  
+
 
 विदूरनीति
 
@@ -7732,6 +7776,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 कनकलतायाः //  
 
+
 हस्ते
 
 किं
@@ -7807,6 +7852,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 साधो
 
 विषमश्चित्तनिग्रहः //  
+
 
 अपने
 
@@ -8116,6 +8162,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 स्वयमेवोपशाम्यति //  
 
+
 क्षमारूपी
 
 शस्त्र
@@ -8189,6 +8236,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 त्यजेत्
 
 सर्वमशेषतः //  
+
 
 बुद्धीमान
 
@@ -8690,6 +8738,8 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 करें \।
 
+
+
 सुभाषित 301
 
 कस्यचित्
@@ -9047,6 +9097,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 शासनम् //  
 
+
 महाभारत
 
 आदरणीय
@@ -9132,6 +9183,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 श,,,,,,,
 
 ेषास्त्वन्धदिनालयाः //  
+
 
 हे!
 
@@ -9222,6 +9274,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 कुरून्
 
 व्राज //  
+
 
 यदि
 
@@ -9579,6 +9632,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 तद्वद्
 
 भूतसमागमः //  
+
 
 महाभारत
 
@@ -10272,6 +10326,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 भूतसमागमः //  
 
+
 महाभारत
 
 जैसे
@@ -10604,6 +10659,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 संपदः //  
 
+
 विदुरनीति
 
 सागर
@@ -10707,6 +10763,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 श्रामण्यस्य
 
 भवति //  
+
 
 धम्मपद 2\।19
 
@@ -10890,6 +10947,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 विपरीतार्थदर्शनम् //  
 
+
 महाभारत 2\।81\।11
 
 काल
@@ -10989,6 +11047,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 सञ्जानाना
 
 उपासते //  
+
 
 हम
 
@@ -11168,6 +11227,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 रसे //  
 
+
 श्रीमद्भागवत 11\।8\।21
 
 जब
@@ -11268,6 +11328,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 गतः //  
 
+
 भागवत 11\।9\।4
 
 इस
@@ -11342,6 +11403,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 पुरूषेषवः //  
 
+
 भागवत 11\।23\।3
 
 मनुष्य
@@ -11401,6 +11463,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 कुर्यादद्यैव
 
 बुद्धिमान //  
+
 
 कल
 
@@ -11479,6 +11542,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 को
 
 दरिद्रः //  
+
 
 एक
 
@@ -11596,6 +11660,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 साधवः //  
 
+
 भागवत 10\।48\।31
 
 नदीयों
@@ -11712,6 +11777,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 यथा //  
 
+
 भागवत 4\।14\।41
 
 समदॄष्टी
@@ -11779,6 +11845,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 दैवमेव
 
 करिष्यति //  
+
 
 अगर
 
@@ -12208,6 +12275,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 षट्पदः //  
 
+
 भवरा
 
 जैसे
@@ -12277,6 +12345,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 मातुः
 
 परदैवतम् //  
+
 
 अन्नदान
 
@@ -12353,6 +12422,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 अफलाः
 
 क्रियाः //  
+
 
 मनुस्मॄति
 
@@ -12454,6 +12524,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 समाचरन्ति //  
 
+
 जंगल
 
 मे
@@ -12544,6 +12615,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 चन्द्रमाः //  
 
+
 जब
 
 तक
@@ -12626,6 +12698,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 लभतेतराम् //  
 
+
 अच्छी
 
 व्यक्ति
@@ -12683,6 +12756,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 न
 
 किंचित्कर्मेकोटिभिः //  
+
 
 विवेकचूडामणी
 
@@ -12772,6 +12846,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 प्रामोद //  
 
+
 काम
 
 करते
@@ -12849,6 +12924,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 चरतो
 
 भगः //  
+
 
 जो
 
@@ -13052,6 +13128,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 दण्डमर्हति //  
 
+
 मनुस्मॄती,
 
 महाभारत
@@ -13150,6 +13227,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 भवान //  
 
+
 एक
 
 भिखारी
@@ -13227,6 +13305,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 सुखमया
 
 दिशः //  
+
 
 श्रीमदभागवत 9\।15\।15
 
@@ -13402,6 +13481,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 शतायुषा //  
 
+
 श्रीमदभागवत 10\।45\।5
 
 एक
@@ -13510,6 +13590,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 सत्येनापद्यतेऽमॄतम् //  
 
+
 श्री
 
 शंकराचार्य
@@ -13597,6 +13678,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 वंशः
 
 समुन्न्तिम् //  
+
 
 नितीशतक 32
 
@@ -13918,6 +14000,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 पशूनाम् //  
 
+
 नीतिशतक
 
 जिस
@@ -14172,6 +14255,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 गुणदोषयोः //  
 
+
 शिला
 
 को
@@ -14381,6 +14465,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 समूलस्तु
 
 विनश्यति //  
+
 
 कुटिलता
 
@@ -14744,6 +14829,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 शिल्पनैपुणम् //  
 
+
 विष्णुपुराण 2\।3
 
 जिस
@@ -14934,6 +15020,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 भविष्यति //  
 
+
 अन्यक्षेत्र
 
 में
@@ -15003,6 +15090,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 शेते
 
 महोदधौ //  
+
 
 इस
 
@@ -15081,6 +15169,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 वहति
 
 गर्दभी //  
+
 
 सिंहीन
 
@@ -15372,6 +15461,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 मनः //  
 
+
 युगान्तकालीन
 
 वायु
@@ -15662,6 +15752,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 पादाभिवन्दनात् //  
 
+
 रामायण 4, 6\।22
 
 रावण
@@ -15834,6 +15925,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 न
 
 अभिभाषते //  
+
 
 रामायण
 
@@ -16030,6 +16122,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 मम
 
 जीवितम् //  
+
 
 रामायण
 
@@ -16270,6 +16363,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 गौरवेण
 
 अतिरिच्यते //  
+
 
 मनुस्मॄति
 
@@ -16523,6 +16617,7 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 वेलाकुला //  
 
+
 अश्वत्थामविकर्णघोरमकरा
 
 दुर्योधनावर्तिनी \।  
@@ -16659,6 +16754,8 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 गये \।
 
+
+
 सुभाषित 389
 
 श्रियः
@@ -16696,6 +16793,8 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 किलकामधेनुः
 
 ॥
+
+
 
 शुद्ध
 
@@ -16795,6 +16894,11 @@ Background: Chanakya has uttered the above sentences. After Chanakya and Chandra
 
 है।
 
+
+
 **-------------------------------------------------------------**
+
+
+
 
 \]

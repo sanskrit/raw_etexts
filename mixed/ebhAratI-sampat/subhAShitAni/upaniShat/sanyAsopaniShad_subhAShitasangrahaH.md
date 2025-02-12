@@ -12,9 +12,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0MzYyNzgzNDY
 
 \[
 
+
+
   
 
+
+
 **सन्न्यासोपनिषत्**
+
 
 \<1\>  
  मय्यग्रे अग्निं \[गृह्णामि सह क्षत्रेण वर्चसा बलेन ।  
@@ -22,5 +27,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0MzYyNzgzNDY
 \</1\>
 
 ** -------------------**
+
 
 \]

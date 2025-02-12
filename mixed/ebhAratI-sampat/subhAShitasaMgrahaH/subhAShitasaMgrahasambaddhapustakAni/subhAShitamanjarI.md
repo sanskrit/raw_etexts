@@ -1898,9 +1898,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjE
 
 यदि अपराधी पर क्रोध करता है तो धर्म, अर्थ काम और मोक्ष—चारों के विरोधी कोष पर तुझे क्रोध क्यों नहीं आता है ?॥१३५॥ 
 
-![\#](../books_images/U-IMG-1733305115Screenshot2024-12-04150756.png)
+!\#[^2]
 
-![](#)
+[^2]: ../books_images/U-IMG-1733305115Screenshot2024-12-04150756.png
+
+<MISSING_FIG href="#"/>
 
 क्रोध निन्दा
 
@@ -2029,7 +2031,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjE
 
 नोट—यह श्लोक स्वार्थपरता प्रकरण का है।
 
-![](../books_images/U-IMG-1733307321Screenshot2024-12-04154446.png)
+<MISSING_FIG href="../books_images/U-IMG-1733307321Screenshot2024-12-04154446.png"/>
 
 **मान निषेधनम्**
 
@@ -2075,7 +2077,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjE
 
 **अर्थः—**विनयी मनुष्य समस्त सपदाओं के समूह को अपने वश कर लेता है सो ठीक है क्योंकि विनय चिन्तामणि के समान क्या नहीं करता है ?॥१५१॥
 
-![](../books_images/U-IMG-1733307918Screenshot2024-12-04155437.png)
+<MISSING_FIG href="../books_images/U-IMG-1733307918Screenshot2024-12-04155437.png"/>
 
 **माया निन्दा**
 
@@ -2374,7 +2376,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjE
 
 **अर्थः—**निष्परिग्रहता में ऐसा जान पड़ता है मानों संयमरूपीवृक्ष साक्षात् लहलहा रहा हो, निर्भीकता बढ़ रही हो,शान्ति का मार्ग उल्लास को प्राप्त हो रहा हो, सुखकारी धर्मशुद्धि को धारण कर रहा हो, समस्त विषयों का व्यामोहमूर्छित हो रहा हो भारहीनता सुशोभित हो रही हो औरस्वाधीनता कीड़ा कर रही हो॥१८८॥
 
-![](../books_images/U-IMG-1733418156ad6.png)
+<MISSING_FIG href="../books_images/U-IMG-1733418156ad6.png"/>
 
 **दया प्रशंसा**
 
@@ -2527,7 +2529,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjE
 
 **अर्थः—**जो श्रावकाचार से रहित है, हिंसामय व्यापार करते हैं दया क्षमा तथा विनय आदि गुणों के समूह से शून्य हृदयहैं, मिथ्यादृष्टियों से घिरे हुए हों. तथा स्वयं मिथ्यादृष्टि हों,ऐसे गृहस्थों के घरों में निर्दोष आहार कैसे प्राप्त हो सकता है ?
 
-![](../books_images/U-IMG-1733239013ad6.png)
+<MISSING_FIG href="../books_images/U-IMG-1733239013ad6.png"/>
 
 **ज्ञानदान प्रशंसा**
 
@@ -2739,7 +2741,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjE
 
 **अर्थः—**जिस प्रकार जन्मान्ध मनुष्य सूर्य को नहीं देखता हैउसी प्रकार ज्ञानहीन मनुष्य धर्म के गुण, पाप के अवगुणतथा हेय और उपादेय के विवेक को नहीं जानता॥२३७॥
 
-![](../books_images/U-IMG-1733656690ad6.png)
+<MISSING_FIG href="../books_images/U-IMG-1733656690ad6.png"/>
 
 उपकरणदान प्रशंसा
 
@@ -2875,7 +2877,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjE
 
 **अर्थः—**जो मनुष्य वैभव के रहते हुए भी उपर्युक्त विभागों से कम दान देता है धार्मिक पुरुष उसे किसी गणना में नहीं रखते तथा जो इन भागों को छोड़ कर बहुत दान देता हैवह यहां उदार त्यागी है तथा सूर्य के समान संसार प्रसिद्ध है॥२५४॥
 
-![](../books_images/U-IMG-1733246838ad7.png)  
+<MISSING_FIG href="../books_images/U-IMG-1733246838ad7.png"/>  
 
 विराग वाटिका
 
@@ -4240,4 +4242,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDgxNDEwMzg5MjE
  **अर्थः—**द्वार द्वार पर घूमता हुआ भिक्षुक याचना नहीं करता है किन्तु सभी को ऐसी शिक्षा देता है कि दान न देकर मेरे समान मत बनो किन्तु देकर अपने समान बनो॥४२५॥
 
 \]
-

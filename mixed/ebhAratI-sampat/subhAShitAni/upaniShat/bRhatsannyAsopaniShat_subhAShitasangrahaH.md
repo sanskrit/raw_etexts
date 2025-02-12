@@ -12,9 +12,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1OTY4OTM0MDI
 
 \[
 
+
+
+
+
+
+
  
 
 **बृहत्सन्न्यासोपनिषत्**
+
 
 \<2,35-42\>  
  न मे भोगस्थितौ वाञ्छा न मे भोगविसर्जने ।  
@@ -80,5 +87,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1OTY4OTM0MDI
 \</2,62-71,99,100\>
 
 ---------------------------------------------------------
+
+
+
 
 \]

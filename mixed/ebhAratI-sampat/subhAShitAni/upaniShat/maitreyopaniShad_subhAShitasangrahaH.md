@@ -11,9 +11,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQxNjM1ODkzNjc
 
 \[
 
+
+
+
+
+
+
   
 
 **मैत्रेय्युपनिषत्**
+
 
 \<1,3,7\>  
  यथा निरिन्धनो वह्निः स्वयोनावुपशाम्यति ।  
@@ -65,5 +72,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQxNjM1ODkzNjc
 \</2,19-22,24\>
 
 ----------------------------------------------------
+
+
+
 
 \]

@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNjkxMzcwOTA
 
 विषयानुक्रमः
 
-![](../books_images/U-IMG-1723965280Screenshot2024-08-18124407.png)
+<MISSING_FIG href="../books_images/U-IMG-1723965280Screenshot2024-08-18124407.png"/>
 
 |        |                           |
 |--------|---------------------------|
@@ -45,13 +45,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNjkxMzcwOTA
 
 **काव्यमाला।**
 
-![](../books_images/U-IMG-1723965407Screenshot2024-08-18124631.png)
+<MISSING_FIG href="../books_images/U-IMG-1723965407Screenshot2024-08-18124631.png"/>
 
 श्रीहरिहरविरचितं
 
 **हरिहरसुभाषितम्।**
 
-**![](../books_images/U-IMG-1723965594Screenshot2024-08-18124938.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723965594Screenshot2024-08-18124938.png"/>**
 
 पायाज्जाया पयोजातजन्मनो मन्मनो मुदम्।  
 शारदा पारदासारतुल्यधावल्यधारिणी॥१॥

@@ -10,7 +10,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 +++
 [[सुभाषितानि	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1Njk2NTkz)]]
 
-\[
+\
 
 **सुभाषितानि - १**
 
@@ -171,7 +171,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ------------------------------------------------------------------------
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=2\%22 "\"अयं")\]
+\[[सम्पाद्यताम्[^1]\]
+
+[^1]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=2\%22 "\"अयं"
 
 आ
 
@@ -234,7 +236,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 आस्ते भग आसीनस्य ऊध्र्वस्तिष्ठति तिष्ठतः \।  
 शेते निपद्यमानस्य चराति चरतो भगः \।\।५\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=3\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^2]\]
+
+[^2]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=3\%22 "\"अयं"
 
 इ-ई
 
@@ -244,7 +248,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 ईक्षणं द्विगुणं प्रोक्तं भाषणस्येति वेधसा \।  
 अक्षिणि द्वे मनुष्याणां जिंव्हा त्वेकैव निर्मिता \।\।२\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=4\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^3]\]
+
+[^3]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=4\%22 "\"अयं"
 
 उ-ऊ
 
@@ -269,7 +275,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 उदारस्य तृणं वित्तं शूरस्य मरणं तृणम् \।  
 विरक्तस्य तृणं भार्या निःस्पृहस्य तृणं जगत् \।\।९\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=5\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^4]\]
+
+[^4]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=5\%22 "\"अयं"
 
 ऋ
 
@@ -279,7 +287,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 ऋणशेषोऽग्निशेषश्च शत्रुशेषस्तथैव च \।  
 पुनः पुनः प्रवर्धन्ते तस्माच्छेषं न रक्षयेत् \।\।२०\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=6\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^5]\]
+
+[^5]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=6\%22 "\"अयं"
 
 ए-ऐ
 
@@ -309,7 +319,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 ऐक्यं बलं समाजस्य तदभावे स दुर्बलः \।  
 तस्मादैक्यं प्रशंसन्ति दृढं राष्ट्रहितैषिणः \।\।१७\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=7\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^6]\]
+
+[^6]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=7\%22 "\"अयं"
 
 क
 
@@ -480,7 +492,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 क्षुद्रो हि समये प्राप्ते बलिष्ठमपि रक्षति \।  
 प्राज्ञा यूयं विजानीत मा मा निन्दत कञ्चन \।\।४\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=8\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^7]\]
+
+[^7]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=8\%22 "\"अयं"
 
 ख
 
@@ -495,7 +509,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 अज्ञान् ज्ञानवतोऽप्यनेन हि वशीकर्तुं समर्थो भवेत् \।  
 कर्तव्यो हि सुभाषितस्य मनुजैरावश्यकः सङ्ग्रहः \।\।२\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=9\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^8]\]
+
+[^8]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=9\%22 "\"अयं"
 
 ग
 
@@ -544,7 +560,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 गौरवं प्राप्यते दानान्नतु वित्तस्य सञ्चयात् \।  
 स्थितिरुच्चैः पयोदानां पयोधीनामधस्थितिः \।\।१६\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=10\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^9]\]
+
+[^9]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=10\%22 "\"अयं"
 
 घ
 
@@ -556,7 +574,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 दग्धं दग्धं पुनरपि पुनः काञ्चनं कान्तवर्णम्  
 प्राणान्तेऽपि हि प्रकृतिविकृतिर्जायते नोत्तमानाम् \।\।२०\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=11\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^10]\]
+
+[^10]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=11\%22 "\"अयं"
 
 च
 
@@ -590,7 +610,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 छायामन्यस्य कुर्वन्ति तिष्ठन्ति स्वयमातपे \।  
 फलान्यपि परार्थाय वृक्षाः सत्पुरुषा इव \।\।१०\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=12\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^11]\]
+
+[^11]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=12\%22 "\"अयं"
 
 ज
 
@@ -609,7 +631,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 ज्येष्ठत्वं जन्मना नैव गुणैर्ज्येष्ठत्वमुच्यते \।  
 गुणात् गुरुत्वमायाति दुग्धं दधि घृतं क्रमात् \।\।१४\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=13\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^12]\]
+
+[^12]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=13\%22 "\"अयं"
 
 त
 
@@ -647,7 +671,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 त्याग एक गुणः श्लाघ्यः किमन्यैर्गुणराषिभिः \।  
 त्यागाज्जगति पूज्यन्ते पशुपाषाणपादपाः \।\।३\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=14\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^13]\]
+
+[^13]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=14\%22 "\"अयं"
 
 द
 
@@ -723,7 +749,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 द्वाविमौ पुरुषौ लोके सुर्यमण्दलभेदिनौ \।  
 परिव्राट् योगयुक्तश्च रणस्याभिमुखे हतः \।\।१४\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=15\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^14]\]
+
+[^14]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=15\%22 "\"अयं"
 
 ध
 
@@ -736,7 +764,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 धृतिः क्षमा दमोऽस्तेयं शौचमिन्द्रियनिग्रहः \।  
 धीर्विद्या सत्यमक्रोधो दशकं धर्मलक्षणम् \।\।२७\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=16\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^15]\]
+
+[^15]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=16\%22 "\"अयं"
 
 न
 
@@ -900,7 +930,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः \।  
 नचैनं क्लेदयत्यापो न शोषयति मारुतः \।\।३१\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=17\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^16]\]
+
+[^16]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=17\%22 "\"अयं"
 
 प
 
@@ -1051,7 +1083,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 प्रियवाक्यप्रदानेन सर्वे तुष्यन्ति जन्तवः \।  
 तस्मात् तदेव वक्तव्यं वचने किं दरिद्रता \।\।३५\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=18\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^17]\]
+
+[^17]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=18\%22 "\"अयं"
 
 फ
 
@@ -1065,7 +1099,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 सहन्ते सन्तापं तदपि धनिनां द्वारि कृपणाः \।\।२\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=19\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^18]\]
+
+[^18]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=19\%22 "\"अयं"
 
 ब
 
@@ -1088,7 +1124,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 सीतारल्लकभल्लभग्नहृदयः स्वस्थो न लंकेश्वरः \।\।७\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=20\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^19]\]
+
+[^19]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=20\%22 "\"अयं"
 
 भ
 
@@ -1120,7 +1158,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 भ्रमन् वनान्ते नवमंजरीषु न षट्पदो गन्धफलीमजिघ्रत् \।  
 सा किं न रम्या स च किं न रन्ता बलीयसी केवलमीश्वरेच्छा \।\।११\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=21\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^20]\]
+
+[^20]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=21\%22 "\"अयं"
 
 म
 
@@ -1186,7 +1226,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 सेवाधर्मः परमगहनो योगिनामप्यगम्यः \।\।१८\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=22\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^21]\]
+
+[^21]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=22\%22 "\"अयं"
 
 य
 
@@ -1295,7 +1337,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 यौवनं धनसंपत्तिः प्रभुत्त्वमविवेकिता \।  
 एकैकमप्यनर्थाय किमु यत्र चतुष्टयम् \।\।७\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=23\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^22]\]
+
+[^22]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=23\%22 "\"अयं"
 
 र
 
@@ -1355,7 +1399,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 राजा तैरुप्दिष्टमेव मनुते सत्यं तटस्थाः परे \।\।१०\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=24\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^23]\]
+
+[^23]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=24\%22 "\"अयं"
 
 ल
 
@@ -1387,7 +1433,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 लोभाविष्टो नरो वित्तम् वीक्ष्यते न तु संकटम् \।  
 दुग्धं पश्यति मार्जारी न तथा लगुडाहतिम् \।\।१८\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=25\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^24]\]
+
+[^24]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=25\%22 "\"अयं"
 
 व
 
@@ -1481,7 +1529,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 व्रजत्यधोऽधो यात्युचैर्नरः स्वैरेव कर्मभिः \।  
 खनितेव हि कूपस्य प्रासादस्येव कारकः \।\।३७\।\।
 
-\[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=26\%22 "\"अयं")\]
+\[सम्पाद्यताम्[^25]\]
+
+[^25]: \%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=26\%22 "\"अयं"
 
 श-स-ष
 

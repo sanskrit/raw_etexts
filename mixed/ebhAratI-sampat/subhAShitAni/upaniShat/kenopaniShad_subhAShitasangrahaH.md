@@ -11,9 +11,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4ODA4OTA0ODg
 
 \[
 
+
+
+
+
  
 
 **केनोपनिषत्**
+
 
 \<1-4\>  
  यद्वाचानभ्युदितं येन वागभ्युद्यते ।  
@@ -26,5 +31,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4ODA4OTA0ODg
 \</2-3\>
 
 ------------------------------------------------------------
+
+
+
 
 \]

@@ -40,7 +40,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0ODM0NTQ5Mjc
 
 अष्टकम्.
 
-![](../books_images/U-IMG-17231841108THAUG.PNG)
+<MISSING_FIG href="../books_images/U-IMG-17231841108THAUG.PNG"/>
 
 शार्दूलविक्रीडितम्
 
@@ -91,13 +91,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0ODM0NTQ5Mjc
 
 ——————
 
-![](../books_images/U-IMG-1722924338Screenshot2024-08-06113500.png)
+<MISSING_FIG href="../books_images/U-IMG-1722924338Screenshot2024-08-06113500.png"/>
 
 **॥अर्हम्॥**
 
 **॥ सुभाषित संग्रह॥**
 
-![](../books_images/U-IMG-172294415606AUGUST.PNG)
+<MISSING_FIG href="../books_images/U-IMG-172294415606AUGUST.PNG"/>
 
 धर्माराधन का फल।
 
@@ -5905,4 +5905,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0ODM0NTQ5Mjc
 **\_\_\_\_\_\_\_\_\_\_\_**
 
 \]
-

@@ -24,14 +24,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyMDI2NTMwOTY
 
 **प्रासंगिकश्लोकचरणान्तःपातिश्लोकानां संग्रहः।**
 
-![](../books_images/U-IMG-1722926710Screenshot2024-08-06121150.png)
+<MISSING_FIG href="../books_images/U-IMG-1722926710Screenshot2024-08-06121150.png"/>
 
 गंगाधर कृष्ण द्रविड इत्येतैः  
 
 **संगृहीतः।  
 (पंचमावृत्तिः)**  
 
-**![](../books_images/U-IMG-1722926745Screenshot2024-08-06121133.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722926745Screenshot2024-08-06121133.png"/>**
 
 मुम्बय्यां  
 
@@ -39,26 +39,26 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyMDI2NTMwOTY
 मुद्रणालये रामचंद्र येशू शेडगेद्वारा मुद्रयित्वा  
 प्रकाशितः
 
-![](../books_images/U-IMG-1722926782Screenshot2024-08-06121111.png)  
+<MISSING_FIG href="../books_images/U-IMG-1722926782Screenshot2024-08-06121111.png"/>  
 
 शकाब्दाः १८३६ सन १९१४.
 
-![](../books_images/U-IMG-1722926810Screenshot2024-08-06121111.png)  
+<MISSING_FIG href="../books_images/U-IMG-1722926810Screenshot2024-08-06121111.png"/>  
 
 **मूल्यं षडाणकाः**
 
 Registered for Cohy-right under the Government  
 of India's Act XXV of 1867.
 
-![](../books_images/U-IMG-1722927204Screenshot2024-08-06122245.png)  
+<MISSING_FIG href="../books_images/U-IMG-1722927204Screenshot2024-08-06122245.png"/>  
 Published by Tukaram Javaji, Proprietor “Nirnaya-  
 Sagar Press” 23, Kolbhat Lane, Bombay.
 
-![](../books_images/U-IMG-1722927229Screenshot2024-08-06122304.png)  
+<MISSING_FIG href="../books_images/U-IMG-1722927229Screenshot2024-08-06122304.png"/>  
 Printed by Ramchandra Yesu Shedge “Nirnaya-  
 Sagar Press” 23 Kolbhat Lane, Bombay.
 
-![](../books_images/U-IMG-1722927423Screenshot2024-08-06122616.png)
+<MISSING_FIG href="../books_images/U-IMG-1722927423Screenshot2024-08-06122616.png"/>
 
  या पुस्तकांत ज्या पद्यांचा संग्रह केला आहे त्यांचा उद्देश असाआहे कीं, प्रचाराचे वोलण्यांत ज्या प्रसंगीं ज्या विषयावर जें भाषणकेलें जातें त्यास अनुसरून परंपरेनें चालत आलेली एखादी ह्मणसंस्कृत किंवा प्राकृत ह्मणण्याची रीत आहे; त्यांत प्राकृताच्या ह्मणी बहुधा गद्यात्मक फार आहेत आणि संस्कृतांतील ह्मणी बहुधापद्यात्मक असून प्रसंगीं ज्या चरणाचा उपयोग असतो, तितकाचपाठ असतो. उदाहरणः—वाजवीपेक्षां फाजील काम कोणी करूंलागल्यास **“अति सर्वत्र वर्जयेत्”** असें ह्मणतात. परंतु अशाप्रकारच्या चरणाचे सर्व ह्यणीचे पुरे श्लोक बहुतेकांना येत नसतात.यास्तव ज्यांच्या पाठांत जे श्लोक पुरे होते त्यांचा, व ज्या ग्रन्थांतजितके सांपडले त्यांचा संग्रह यांत केला आहे.
 
@@ -68,7 +68,7 @@ Sagar Press” 23 Kolbhat Lane, Bombay.
 
 **गंगाधर कृष्ण.**
 
-**![](../books_images/U-IMG-1722927865Screenshot2023-11-23104623.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722927865Screenshot2023-11-23104623.png"/>**
 
 .
 
@@ -76,7 +76,7 @@ Sagar Press” 23 Kolbhat Lane, Bombay.
 
 **समयोचितपद्यमालिका।**
 
-**![](../books_images/U-IMG-1722947410Screenshot2024-08-06122245.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1722947410Screenshot2024-08-06122245.png"/>**  
 
 **अ**
 
@@ -691,7 +691,7 @@ Sagar Press” 23 Kolbhat Lane, Bombay.
 सुरतं तदेव सुरतं यत्नाल्लब्धं यदन्यनारीषु।  
 सन्तत्यै दाररतिः **कण्डूशमनाय चेटिकागमनम्**॥२०॥
 
-![](../books_images/U-IMG-1723112994Screenshot2024-08-07214421.png)
+<MISSING_FIG href="../books_images/U-IMG-1723112994Screenshot2024-08-07214421.png"/>
 
 **श्रीमद्भागवतस्कन्धः १**
 
@@ -828,7 +828,7 @@ Sagar Press” 23 Kolbhat Lane, Bombay.
 आदौ नम्राः पुनर्वक्राः स्वीयकार्येषु तत्पराः।  
 कार्यान्ते च पुनर्वकाः **काण्वास्तु प्राणघातकाः**॥५९॥
 
-![](../books_images/U-IMG-1723047290Screenshot2024-08-07214421.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723047290Screenshot2024-08-07214421.png"/>  
 
 **सप्तशती.**
 
@@ -2836,4 +2836,3 @@ Sagar Press” 23 Kolbhat Lane, Bombay.
 बकं किं वर्ण्य से राम येनाहं निष्कुलीकृतः ॥ ७३ ॥
 
 \]
-

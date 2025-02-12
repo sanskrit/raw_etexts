@@ -34,23 +34,23 @@ SRI SANKARA'S COMMENTARY
 TRANSLATED BY  
 S. SITARAMA SASTRI, B. A.
 
-![](#)![](../books_images/U-IMG-17304297191.png)  
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-17304297191.png"/>  
 PUBLISHED BY  
 
 V. C. SESHACHARRI, B.A., B.L., M.R.A.S.  
 
 Vakil, High Court, Madras  
 
-![](../books_images/U-IMG-17304297191.png)
+<MISSING_FIG href="../books_images/U-IMG-17304297191.png"/>
 
 FIFTH VOLUME  
-![](../books_images/U-IMG-17304297191.png)  
+<MISSING_FIG href="../books_images/U-IMG-17304297191.png"/>  
 MADRAS  
 THE INDIA PRINTING WORKS  
-![](../books_images/U-IMG-17304298061.png)  
+<MISSING_FIG href="../books_images/U-IMG-17304298061.png"/>  
 **1923**
 
-![](../books_images/U-IMG-17305127551.png)
+<MISSING_FIG href="../books_images/U-IMG-17305127551.png"/>
 
 **Dr. ANNIE BESANT.  
 President, Theosophical Society, Adyar, Madras, S.**
@@ -1737,4 +1737,3 @@ Original Translation by Pandit Ganga'nath Jha, M.A.
 [TABLE]
 
 \]
-

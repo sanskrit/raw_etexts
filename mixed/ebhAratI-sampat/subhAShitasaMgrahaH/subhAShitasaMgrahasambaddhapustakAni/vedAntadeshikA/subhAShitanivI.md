@@ -75,7 +75,7 @@ eagerness and devotion, the great Âchârya is said to have written three other 
 
 ** इति श्रीमदान्ध्रमहीमण्डलाधीश्वर प्रतिगण्डभैरव श्रीयनपोतनरेन्द्रनन्दन भुजबलभीम श्रीशिङ्गभूपालविरचिते रसार्णवसुधाकरनाम्नि नाट्यालङ्कारशास्त्रे—**
 
-![](../books_images/U-IMG-17230937201.png)
+<MISSING_FIG href="../books_images/U-IMG-17230937201.png"/>
 
  In this list there is mention of a *Singa-Prabhu* who was the grandfather of the author of Rasârṇavasudhâkara. A comparative study of the above dynastic list with an account of the Rajamundry Reḍḍi rulers will enable us to see that this *Singa-Prabhu* was a contemporary of Ṣri-Vedântâchârya. The following is the summary of the account of the Konḍavîḍu (Krishna District) and Rajamundry Reḍḍi Rulers as given by Mr. Vireṣalingam Pantulu:—
 
@@ -146,7 +146,7 @@ Bangalore,
 
 **॥सुभाषितनीवी॥**
 
-**![](../books_images/U-IMG-1724678610image_2024-08-26_185328671.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724678610image_2024-08-26_185328671.png"/>**
 
 **श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी।  
 वेदान्ताचार्यवर्यो मे संनिधत्तां सदा हृदि॥**
@@ -285,7 +285,7 @@ Bangalore,
 **अनिपुणपद्धतिः  
 प्रथमा ॥**  
 
-![](../books_images/U-IMG-1723127448134.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1723127448134.PNG"/>
 
 **दृप्तपद्धतिः॥**
 
@@ -397,7 +397,7 @@ Bangalore,
 **दृप्तपद्धतिः  
 द्वितीया ॥**
 
-![](../books_images/U-IMG-1723127321133.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1723127321133.PNG"/>
 
 **खलपद्धतिः**
 
@@ -513,7 +513,7 @@ Bangalore,
 **खलपद्धतिः  
 तृतीया ॥**  
 
-![](../books_images/U-IMG-1723128539135.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1723128539135.PNG"/>
 
 **दुर्वृत्तपद्धतिः॥**
 
@@ -623,7 +623,7 @@ Bangalore,
 
 **असेव्यपद्धतिः॥**
 
-**![](../books_images/U-IMG-1724829724तक.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724829724तक.PNG"/>**
 
 **कठिनः कृशमूलश्च दुर्लभो दक्षिणेतरः।  
 कश्चित्कल्याणगात्रोऽपि मनुष्यैर्नोपजीव्यते॥१॥**
@@ -715,11 +715,11 @@ Bangalore,
 **असेव्यपद्धतिः  
 पचमी॥**
 
-**![](../books_images/U-IMG-1724832804मव.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724832804मव.PNG"/>**
 
 **महापुरुषपद्धतिः॥**
 
-**![](../books_images/U-IMG-1724833698हप.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724833698हप.PNG"/>**
 
  एवमज्ञानमूलदोषविषयपद्धतीःप्रणीय अनन्तरं ज्ञानमूलगुणविषयपद्धतयः प्रणीताः। तत्र सकलगुणानामाश्रयत्वान्महापुरुषस्य महापुरुषपद्धतिः प्रथममुक्ता—
 
@@ -837,11 +837,11 @@ Bangalore,
 **महापुरुषपद्धतिः**  
 **षष्ठी॥**
 
-**![](../books_images/U-IMG-1724776526वल.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724776526वल.PNG"/>**
 
 **समचित्तपद्धतिः॥**
 
-**![](../books_images/U-IMG-1724777114VG.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724777114VG.PNG"/>**
 
 अथ समचित्तत्वं महाजनस्य धर्म इति समचित्तपद्धतिरारभ्यते—
 
@@ -1054,11 +1054,11 @@ Bangalore,
 **सदाश्रितपद्धतिः  
 अष्टमी॥**
 
-**![](../books_images/U-IMG-1724582120छवि.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724582120छवि.PNG"/>**
 
 **नीतिमत्पद्धतिः॥**
 
-**![](../books_images/U-IMG-1724605252छवि.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724605252छवि.PNG"/>**
 
 **विक्रमाक्रान्तभुवने समे षाङ्गुण्यशालिनि।  
 भजति स्थिरतां लक्ष्मीः कस्मिंश्चित्पुरुषोत्तमे॥१॥**
@@ -1154,11 +1154,11 @@ Bangalore,
 **नीतिमत्पद्धतिः।  
 नवमी॥**  
 
-![](../books_images/U-IMG-1724611040PIC.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1724611040PIC.PNG"/>
 
 **धनधान्यपद्धतिः॥**
 
-**![](../books_images/U-IMG-1724611326MN.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724611326MN.PNG"/>**
 
 **आभिमुख्यदशामात्रादादर्श इव सज्जनः।  
 शीघ्रं रक्तमरक्तं वा गृह्णाति स्वप्रसादतः॥१॥**
@@ -1253,7 +1253,7 @@ Bangalore,
 **धनधान्यपद्धतिः  
 दशमी॥**
 
-**![](../books_images/U-IMG-1724691310रर.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724691310रर.PNG"/>**
 
 **सत्कविपद्धतिः।**  
 **—————**
@@ -1369,7 +1369,7 @@ Bangalore,
 
 **परीक्षितपद्धतिः॥**
 
-**![](../books_images/U-IMG-1724735348कत.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724735348कत.PNG"/>**
 
  'सहसा विदधीत न क्रियामविवेकः परमापदां पदम्। वृणते हि विमृश्यकारिणं गुणलुब्धाः स्वयमेव सम्पदः’ इति नीतिमनुसृत्यपरीक्षितपद्धतिमाह—
 
@@ -1488,7 +1488,7 @@ Bangalore,
 **परीक्षितपद्धतिः  
 द्वादशी।**
 
-**![](../books_images/U-IMG-1724742176सल.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1724742176सल.PNG"/>**
 
 |                       |                       |
 |:---------------------:|:---------------------:|
@@ -1621,4 +1621,3 @@ Bangalore,
 ——————
 
 \]
-

@@ -24,7 +24,7 @@ stanza, copious notes, Introduction and Appendix
 BY  
 SWAMI SHARVANANDA  
 
-![](../books_images/U-IMG-1730610928SAMSKRITAM.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1730610928SAMSKRITAM.jpg"/>
 
 SRI RAMAKRISHNA MATH  
 MYLAPORE, MADRAS 4  
@@ -521,9 +521,9 @@ RECONCILIATION OF CONTRADICTIONS: ONE AND THE MANY, THE ABSOLUTE AND THE PERSONA
 
  (9) Those who are engrossed in ‘ignorance’or the perception of the many enter into blind darkness. Into darkness that *seems* to be even greater than that, enter they who are absorbed in Knowledge or mystic consciousness of the One in trance; for the former there is access to life and its possibilities while in the latter even this is *apparently* denied.[^13]
 
- (10) Thus one result, they say, is obtained by engrossment with the many (avidyā), and quite another by absorption in the One. Thus have we heard from the wise who explained it to us.  
-
 [^13]: "In this and in the 14th verse absorption in the One and the Absolute is not really condemned. It only states the apparent or popular view. That is the force of ‘iva’, as it were, in the text."
+
+ (10) Thus one result, they say, is obtained by engrossment with the many (avidyā), and quite another by absorption in the One. Thus have we heard from the wise who explained it to us.  
 
 ĪŚĀVĀSYOPANIṢAD
 

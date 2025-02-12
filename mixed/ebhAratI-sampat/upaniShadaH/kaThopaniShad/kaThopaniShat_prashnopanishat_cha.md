@@ -254,14 +254,14 @@ and the rest; when will one, who seeks higher objects: than these though difficu
 
  *Com*.— Therefore, giving up the idea of tempting me by promise of ephemeral objects, tell us, Oh Death, that which was solicited by me, i.e., the well-ascertained knowledge of the *âtman*, about which they doubt. whether it is or no, when men die, which relates to the world to come and which serves to be of great benefit. Why say much? Than the present boon about the *âtman* which goes into an inexplicable secret, no other boon which is to be craved for only by the ignorant and whose subject is something transitory, *Nachikêtas*. does crave for, even in thought. The *Sruti* itself says. this.
 
-![](../books_images/U-IMG-173052397114.png)  
+<MISSING_FIG href="../books_images/U-IMG-173052397114.png"/>  
 **Here ends the First Part.**  
-![](../books_images/U-IMG-173052397114.png)
+<MISSING_FIG href="../books_images/U-IMG-173052397114.png"/>
 
 **THE KATHÔPANISHAD.  
-![](../books_images/U-IMG-173051941714.png)  
+<MISSING_FIG href="../books_images/U-IMG-173051941714.png"/>  
 PART II.  
-![](../books_images/U-IMG-173051941714.png)**
+<MISSING_FIG href="../books_images/U-IMG-173051941714.png"/>**
 
 **अन्यच्छ्रेयोऽन्यदुतैव प्रेयस्ते उभे नानार्थे पुरुषꣳ‍सिनीतः।  
 तयोः श्रेय आददानस्य साधुर्भवति हीयतेऽर्थाद्य उ प्रेयो वृणीते॥१॥**
@@ -466,17 +466,17 @@ like *Chintâmaṇi* (a gem which appears according to the fancy of the seer). T
 
  *Com*.—As for him who is not of this description, the *ṣruti* says: Of whom *Brāhmins* and *Kshatriyas*, though the stay of all virtue and the protectors of all, are the food; and Death, though destroyer of all, is only a pickle being insufficient as food. How can one of worldly intellect, devoid of helps above described, know where that *ātman* is, in this manner,as one who is furnished with the helps above described?
 
-![](../books_images/U-IMG-173043827514.png)
+<MISSING_FIG href="../books_images/U-IMG-173043827514.png"/>
 
 **Here ends the Second Part.**
 
-![](../books_images/U-IMG-173043831577.png)
+<MISSING_FIG href="../books_images/U-IMG-173043831577.png"/>
 
 **THE KATHOPANISHAD.**  
-![](../books_images/U-IMG-173043960277.png)
+<MISSING_FIG href="../books_images/U-IMG-173043960277.png"/>
 
 **PART III.**  
-![](../books_images/U-IMG-173043962614.png)
+<MISSING_FIG href="../books_images/U-IMG-173043962614.png"/>
 
 **ऋतं पिबन्तौ सुकृतस्य लोके गुहां प्रविष्टौ परमे परार्धे।  
 छायातपौ ब्रह्मविदो वदन्ति पञ्चाग्नयो ये च त्रिणाचिकेताः॥१॥**
@@ -601,17 +601,17 @@ which is *Brahman*; attains glory\] having become the *âtman*, is fit to be wor
 
  *Com*.— Whoever causes this text, this highest secret to be recited *verbatim* and with meaning, in an assembly of *Brâhmins*, being himself clean, or causes it to be recited at the time of *Srâddha* to those who are there fed, that Srâddha is able to secure for him endless fruits. The repetition is for concluding the chapter.
 
-![](../books_images/U-IMG-173044288414.png)
+<MISSING_FIG href="../books_images/U-IMG-173044288414.png"/>
 
 Here ends the first section and the third part.
 
-![](../books_images/U-IMG-173044290414.png)
+<MISSING_FIG href="../books_images/U-IMG-173044290414.png"/>
 
 **THE KATHÔPANISHAD.**  
-![](../books_images/U-IMG-173044296314.png)
+<MISSING_FIG href="../books_images/U-IMG-173044296314.png"/>
 
 **PART IV.**  
-![](../books_images/U-IMG-173044296314.png)
+<MISSING_FIG href="../books_images/U-IMG-173044296314.png"/>
 
 **पराञ्चिखानि व्यतृणत्स्वयं भूस्तस्मात्पराङ्पश्यति नान्तरात्मन्।  
 कश्चिद्धीरः प्रत्यगात्मानमैक्षदावृत्तचक्षुरमृतत्वमिच्छन्॥१॥**
@@ -685,14 +685,14 @@ knowledge and devoid of the attributes of all *samsâra*; again, what there is c
 
  *Com*.— But how becomes the *âtman* of a thinker who has acquired knowledge, whose perception of difference due to conditions has been destroyed, and who knows the *âtman* pure, dense with knowledge unalloyed, and one without a second, is explained. As water pure poured into pure becomes of the same quality, not otherwise, the *âtman* also of the thinker becomes the same, Oh *Gautama*. Therefore, leaving the perception of difference induced by bad logic and the erroneous notion of no-here-after, the perception of the one-ness of the *âtman* inculcated by the *Vêdâs*, a better well-wisher than thousands of mothers and fathers should be anxiously respected by those whose pride has been quelled.
 
-![](../books_images/U-IMG-173045819614.png)  
+<MISSING_FIG href="../books_images/U-IMG-173045819614.png"/>  
 Here ends the Fourth Part.  
-![](../books_images/U-IMG-173045819614.png)
+<MISSING_FIG href="../books_images/U-IMG-173045819614.png"/>
 
 **THE KATHÔPANISHAD.**  
-**![](../books_images/U-IMG-173045825814.png)  
+**<MISSING_FIG href="../books_images/U-IMG-173045825814.png"/>  
 PART V.  
-![](../books_images/U-IMG-173045827614.png)**
+<MISSING_FIG href="../books_images/U-IMG-173045827614.png"/>**
 
 **पुरमेकादशद्वारमजस्यावक्रचेतसः।  
 अनुष्ठाय न शोचति विमुक्तश्च विमुच्यते। एतद्वैतत् ॥१॥**
@@ -816,15 +816,15 @@ could this fire? Him shining, all shine after.All this shines by his light. (15)
 
  *Com*.— The reply here is that it shines and is perceived as shining. The sun, though the enlightener of all, does not shine in the *Brahman*, being his *âtman*, i.e., the sun does not illumine the *Brahman*. Similarly, the moon and the stars do not ; nor do these lightnings illumine. How could this fire, perceivable by us? Why say much? All these, the sun and the rest who shine, shine only after him, the lord of all; as water, firebrand, etc., from their contact with fire, burn after the burning fire and not by their own inherent virtue. It is by his light only, that all this, the sun and the rest shine. This being so, that *Brahman* alone shines and shines variously. From the various kinds of light possessed by its effects, the self-luminosity of the Brahman is inferred. It is not possible for one to impart to another luminosity, which one does not possess, because pots, etc., are found incapable of illumining other objects and the sun and the rest, luminous in their nature, are found capable of that.
 
-![](../books_images/U-IMG-173045676214.png)  
+<MISSING_FIG href="../books_images/U-IMG-173045676214.png"/>  
 Here ends the Fifth Part.
 
-![](../books_images/U-IMG-173045677614.png)
+<MISSING_FIG href="../books_images/U-IMG-173045677614.png"/>
 
 **THE KATHÔPANISHAD.**  
-**![](../books_images/U-IMG-173045690314.png)  
+**<MISSING_FIG href="../books_images/U-IMG-173045690314.png"/>  
 PART VI.  
-![](../books_images/U-IMG-173045690314.png)**
+<MISSING_FIG href="../books_images/U-IMG-173045690314.png"/>**
 
 **ऊर्ध्वमूलोऽवाक्शाख एषोऽश्वत्थः सनातनः।  
 तदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते।  
@@ -973,19 +973,19 @@ Om! Peace! Peace! Peace!
 
  *Com*.— This *sânti* (expiatory prayer) is stated here for the purpose of removing all faults incurred by the disciple and preceptor, in the course of receiving. and imparting knowledge respectively, and caused by dereliction of rules due to oversight or excitement. Let him protect us both by illumining the nature of knowledge. Who? He alone, the Lord of all, revealed by the *Upanishads*. Again, let him protect us both. by revealing the fruits of such knowledge. Let us together acquire the strength produced by knowledge. Moreover, may what is studied by us, who are bright,. be well studied! Or may what is studied, *i.e.,* acquired by study, by us, be very potent! May we, disciple and preceptor, never hate each other, owing to blame incurred by us, by improper recital or instruction due to oversight! The repetition three times of 'Peace,' , as Peace! Peace! Peace!' is for averting all evil. The word *Om* is to show that the *Upanishad* ends here.
 
-![](../books_images/U-IMG-1731332300Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1731332300Screenshot2024-11-11190800.png"/>
 
 Here ends the Kathopanishad.
 
-![](../books_images/U-IMG-1731332300Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1731332300Screenshot2024-11-11190800.png"/>
 
 **THE PRAṢNÔPANISHAD.**
 
-![](../books_images/U-IMG-1731332300Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1731332300Screenshot2024-11-11190800.png"/>
 
 **Sri Sankara's Introduction.**
 
-![](../books_images/U-IMG-1731332300Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1731332300Screenshot2024-11-11190800.png"/>
 
 **OM TATSAT.**
 
@@ -1117,6 +1117,7 @@ the mandate that one should approach his wife during *rita*, in season, is also,
 ** तद्येह वै तत्प्रजापतिव्रतं चरन्ति ते मिथुनमुत्पादयन्ते।तेषामेवैष ब्रह्मलोको येषां तपो ब्रह्मचर्यं येषु सत्यं प्रतिष्ठितम्॥१५॥ **
 
  Thus, those who follow the vow of the lord of creation produce couples. To them alone, is this *Brahmalôka,* in whom tapas, *brahmacharyam* and truth abide. (15)                 
+                                 
 
  *Com*.—Thus, this being so. Of those householders (*Vai* and *Ha* are two particles, remembrances of wellknown things), who obey the vow of *Prajâpati* (lord of creation), *i.e.,* who approach their wives in due season, their visible fruits (in this world) is this. What? They produce a couple, *i.e.,* son and daughter. The invisible fruits (pertaining to the future world) are also to them alone, performing sacrificial and pious acts and making gifts. This *Brahmalôka,* *i.e.,* the world of the moon, to which the route of the *manes* leads, is to those in whom tapas, *i.e.,* the vow of a *snâtaka, etc.,* *Brahmacharyam,* *i.e.,* abstinence from sexual intercourse except in season, and truth, *i.e.,* abstinence from falsehood abide always without any deviation.
 
@@ -1128,19 +1129,19 @@ the mandate that one should approach his wife during *rita*, in season, is also,
 
 householders on account of play, mirth, etc.; similarly, those in whom there is no dissimulation as in householders. Dissimulation consists in disclosing one's self in one manner and acting otherwise. It is of the nature of duplicity in behaviour. To those men duly fitted, *i.e.,* the *Brahmachârin,* the hermit and the *sanyâsin* in whom, from absence of cause, these faults, such as duplicity, etc., do not exist, is this untainted *Brahmalôka*, according to the means they employ. Thus, this is the goal of those who combine *karma* with knowledge (worship). The *Brahmalôka* previously explained and marked by the moon is for those who perform mere *karma.*
 
-***![](../books_images/U-IMG-1731389005Screenshot2024-11-11190800.png)***
+***<MISSING_FIG href="../books_images/U-IMG-1731389005Screenshot2024-11-11190800.png"/>***
 
 Thus ends the First *Praṣna*.
 
-***![](../books_images/U-IMG-1731389005Screenshot2024-11-11190800.png)***
+***<MISSING_FIG href="../books_images/U-IMG-1731389005Screenshot2024-11-11190800.png"/>***
 
 **THE PRAṢNÔPANISHAD.**
 
-***![](../books_images/U-IMG-1731389005Screenshot2024-11-11190800.png)***
+***<MISSING_FIG href="../books_images/U-IMG-1731389005Screenshot2024-11-11190800.png"/>***
 
 **SECOND PRAṢNA.**
 
-***![](../books_images/U-IMG-1731389005Screenshot2024-11-11190800.png)***
+***<MISSING_FIG href="../books_images/U-IMG-1731389005Screenshot2024-11-11190800.png"/>***
 
 **  अथहैनं भार्गवो वैदर्भिः पप्रच्छ।भगवन्कत्येवदेवाः प्रजां विधारयन्ते कतर एतत्प्रकाशयन्ते कः पुनरेषां वरिष्ठ इति॥१॥**
 
@@ -1234,19 +1235,19 @@ put forth activity. Or, Oh Prâṇa, these, your creatures, being yourself and n
 
  *Com*.— In short, everything of enjoyment in this world, is under the control of *Prâṇa;* as also of all that which exists in the third heaven for the enjoyment of the *Dêvâs,* etc., *Prâṇa* alone is the lord or protector. Therefore, protect, as a mother does her sons. As all splendour pertaining to a *Brâhmin* and *Kshatriya* are due to you, give us that affluence and knowledge originating in you. It has been thus determined that Prâṇa whose greatness or glory, as being all, has thus been disclosed by the eulogy of the *prâṇas;* such as speech and the rest is the lord of the creation, the eater.
 
-**![](../books_images/U-IMG-1731420959Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731420959Screenshot2024-11-11190800.png"/>**
 
 Here ends the Second *Praṣna*.
 
-**![](../books_images/U-IMG-1731420959Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731420959Screenshot2024-11-11190800.png"/>**
 
 **THE PRASNOPANISHAD.**
 
-**![](../books_images/U-IMG-1731420959Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731420959Screenshot2024-11-11190800.png"/>**
 
 **THIRD PRAṢNA**
 
-**![](../books_images/U-IMG-1731420959Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731420959Screenshot2024-11-11190800.png"/>**
 
 ** अथ हैनं कौसल्यश्चाश्वलायनः पप्रच्छ। भगवन्कुत एष प्राणो जायते कथमायात्यस्मिञ्छरीर आत्मानं वा प्रविभज्य कथं प्रातिष्ठते केनोत्क्रतमेकथं बाह्यमभिधत्ते कथमध्यात्ममिति॥१॥ **
 
@@ -1334,19 +1335,19 @@ of the *udâna* alone, leads the enjoyer to worlds (bodies) thought of, accordin
 
 Staying\] in the lower apertures and other places.Five-fold sovereignty\] the posting, as by a sovereign, of the different aspects of *Prâṇa,* in five forms. Its external manifestation\] as the sun, &c. Within the body\] as eye, &c. Knowing *Prâṇa* thus one attains immortality (relative).
 
-**![](../books_images/U-IMG-1731424182Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731424182Screenshot2024-11-11190800.png"/>**
 
 Here ends the Third *Prasna.*
 
-**![](../books_images/U-IMG-1731424182Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731424182Screenshot2024-11-11190800.png"/>**
 
 ** THE PRAṢNÔPANISHAD**
 
-**![](../books_images/U-IMG-1731424182Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731424182Screenshot2024-11-11190800.png"/>**
 
 **FOURTH PRAṢNA**
 
-![](../books_images/U-IMG-1731424635Screenshot2024-11-12204650.png)
+<MISSING_FIG href="../books_images/U-IMG-1731424635Screenshot2024-11-12204650.png"/>
 
 ** अथ हैनं सौर्यायणी गार्ग्यः पप्रच्छ। भगवन्नेतस्मिन्पुरुषे कानि स्वपन्ति कान्यास्मिञ्जाग्रति कतर एष देवःस्वप्नान्पश्यति कस्यैतत्सुखं भवति कस्मिन्नु सर्वे संप्रतिष्ठिता भवन्तीति॥१॥ **
 
@@ -1437,19 +1438,19 @@ good-looking youth! becomes omniscient and becomes all. There is this verse.(10)
 
  *Com*.—Who knows good-looking youth! the undecaying *Âtman,* into which the knowing self with all the *Dêvâs,* such as fire and the rest, the *Prâṇas, i.e.,* the eye and the rest and the *Bhûtâs,* such as the earth, etc., enter; he being omniscient enters, indeed, into all.
 
-![](../books_images/U-IMG-1731592406Screenshot2024-11-12204650.png)
+<MISSING_FIG href="../books_images/U-IMG-1731592406Screenshot2024-11-12204650.png"/>
 
 Here ends the Fourth *Prâṣna*.
 
-![](../books_images/U-IMG-1731592464Screenshot2024-11-14192402.png)
+<MISSING_FIG href="../books_images/U-IMG-1731592464Screenshot2024-11-14192402.png"/>
 
 **THE PRAṢNÔPANISHAD.**
 
-**![](../books_images/U-IMG-1731592520Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731592520Screenshot2024-11-11190800.png"/>**
 
 **FIFTH PRAṢNA.**
 
-**![](../books_images/U-IMG-1731592520Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731592520Screenshot2024-11-11190800.png"/>**
 
 ** अथ हैनं शैब्यः सत्यकामः पप्रच्छ। स यो ह वै तद्भगवन्मनुष्येषु प्रायणान्तमोंकारमभिध्यायीत। कतमं वाव स तेन लोकं जयतीति तस्मै स होवाच॥१॥**
 
@@ -1509,19 +1510,19 @@ by the very aid of the letter 'Om,' the knower reaches these and also that which
 
  *Com*.—The second verse is intended to state the whole drift briefly. By *riks* this world where men live, by *yajus,* the *antariksha, i.e.,* the world presided over by the moon. By *sâma* that which the knowers alone and not the ignorant know as the third world, *i.e.,* the world of *Brahma.* This threefold world, pertaining to the lower *Brahman* the knower reaches by the help of the syllable *'Om.'* That, *i.e.,* the highest *Brahman,* undecaying, true, called *Purusha,* quiet, *i.e.,* devoid of all the characteristics of the universe, such as waking, dreaming, sleeping, etc., there- fore undecaying, *i.e.,* free from old age or decay, deathless, fearless, because devoid of decay and modification and supreme, *i.e.,* unsurpassable because fearless, even that, by the syllable *'Om,'* a help to that attainment, the knower reaches. The word *iti* is used to show that the sentence ends.
 
-![](../books_images/U-IMG-1731596512Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1731596512Screenshot2024-11-11190800.png"/>
 
 Here ends the Fifth *Praşna*.
 
-![](../books_images/U-IMG-1731596512Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1731596512Screenshot2024-11-11190800.png"/>
 
 **THE PRAṢNÔPANISHAD.**
 
-![](../books_images/U-IMG-1731596512Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1731596512Screenshot2024-11-11190800.png"/>
 
 **SIXTH PRAṢNA.**
 
-![](../books_images/U-IMG-1731596512Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1731596512Screenshot2024-11-11190800.png"/>
 
 ** अथ हैनं सुकेशा भारद्वाजः पप्रच्छ। भगवन्हिरण्यनाभः कौसल्यो राजपुत्रो मामुपेत्यैतं प्रश्नमपृच्छत। षोडशकलं भारद्वाज पुरुषं वेत्थ तमहं कुमारमब्रुवं नाहमिमं वेद यद्यहमिममवेदिषं कथं ते नावक्ष्यमिति समूलो वा एष परिशुष्यति योऽनृतमभिवदति तस्मान्नार्हाम्यनृतं वक्तुं स तूष्णीं रथमारुह्य प्रवव्राज। तं त्वा पृच्छामि क्वासौ पुरुष इति॥१॥ **
 
@@ -1620,21 +1621,21 @@ body is still to be worshipped most of all, in the world. What need be said of h
 
 Om Peace! Peace!! Peace!!!
 
-**![](../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png"/>**
 
 *Om Tat Sat.*
 
-**![](../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png"/>**
 
 *Harih Om.*
 
-**![](../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png"/>**
 
 Here ends the Sixth *Praṣna.*
 
-**![](../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png"/>**  
 Here ends the *Praṣnôpanishad*.
 
-**![](../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731678341Screenshot2024-11-11190800.png"/>**
 
 \]

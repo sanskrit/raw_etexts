@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MDg2NTYwMTA
 
 [TABLE]
 
-![](../books_images/U-IMG-1722686063hjhj.png)
+<MISSING_FIG href="../books_images/U-IMG-1722686063hjhj.png"/>
 
 **कविकुलगुरुः कालिदासः।**
 
@@ -68,6 +68,7 @@ sh....Jan be surpassed. But tested both by the sample and bulk, Kalidas as a poe
  Poona }                              
       **N. C. Kelkar.**  
 13-7-27.}                               
+                               
 
 —————
 
@@ -380,7 +381,7 @@ they were molested by a Demon named Taraka.
 
 —कुमारसंभवे द्वितीयः सर्गः।
 
-![](../books_images/U-IMG-1722687107gggg.png)
+<MISSING_FIG href="../books_images/U-IMG-1722687107gggg.png"/>
 
 **PART II.**
 
@@ -1828,7 +1829,7 @@ aimed at by King Dushyanta.
 
 —शाकुन्तले प्रथमोऽङ्कः।
 
-**![](../books_images/U-IMG-1722687107gggg.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722687107gggg.png"/>**
 
 PART III  
 Dialogues
@@ -5778,7 +5779,7 @@ securing Malavika for King Agnimitra.
 
 **शिवपार्वतीसंवादः**
 
-![](../books_images/U-IMG-1722921611Screenshot2024-08-06104842.png)
+<MISSING_FIG href="../books_images/U-IMG-1722921611Screenshot2024-08-06104842.png"/>
 
 Dialogue between Parvati (who was Practising  
 austerities to secure God Shiva as her husband)  
@@ -6357,7 +6358,8 @@ her abandonment.
 
 —रघुवंशे चतुर्दशः सर्गः।
 
-![](../books_images/U-IMG-1722936469Screenshot2024-08-06145642.png)
+        
+<MISSING_FIG href="../books_images/U-IMG-1722936469Screenshot2024-08-06145642.png"/>
 
 **PART V.**
 
@@ -6976,9 +6978,9 @@ SARDAR G. N. MUJUMDAR, POONA.
 
  1. Kālidāsa seems to have a good musical earWhile describing the sweetness of Pārvati's voice he records his own experience of the harsh and disagreeable sound of a discordant Veenā.[^1]
 
- 2. Kālidāsa was a musician. He knew several Rāgas. In Kumārasambhava he says thatSiva was awakened by the Kinnaras, who sang to him the **कौशिक**Rāga by means of several
-
 [^1]: "स्वरेण तस्याममृतस्रुतेव प्रजल्पितायामभिजातवाचि।  अप्यन्यपुष्टा प्रतिकूलशब्दा श्रोतुर्वितन्त्रीरिव ताड्यमाना॥                            —कुमार० I.45."
+
+ 2. Kālidāsa was a musician. He knew several Rāgas. In Kumārasambhava he says thatSiva was awakened by the Kinnaras, who sang to him the **कौशिक**Rāga by means of several
 
 **मूर्च्छनाऽ²**. Names of three other Rāgas—**भिन्नक, वलन्तिका and ककुभ** Occur in Vikramorvasiya IV.**³**I the Sākuntala In and V he mentions Rāga as a general term.**⁴**
 
@@ -7809,7 +7811,8 @@ selections of these.
 सर्पस्येव शिरोरत्नं नास्य शक्तित्रयं परः।  
 स चकर्ष परस्मात्तदयस्कान्त इवायसम्॥१७–६३॥
 
-![](../books_images/U-IMG-1723109501Screenshot2024-08-08150032.png)
+   
+<MISSING_FIG href="../books_images/U-IMG-1723109501Screenshot2024-08-08150032.png"/>
 
 K. A. Padhye B. A. LL. B. has really obliged the lovers sankrit Literatureparticularly those ofKalidas's books by
 
@@ -7870,10 +7873,13 @@ s disinterested effort of yours will increase the circle of the
 
 rs and students of the prince of Sanskrit poets.
 
+                                   
    Yours Sincerely,  
 
+                                  
 **P. V. KANE**, M. A. LL. M.,  
 
+                                   
         Vakil, High Court.
 
 Beauties from Kalidas
@@ -7882,7 +7888,7 @@ or
 
 **कालिदाससूक्तिमंजूषा.**
 
-**![](../books_images/U-IMG-1723176454Screenshot2024-08-09093625.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723176454Screenshot2024-08-09093625.png"/>**
 
 **BY**
 
@@ -7891,7 +7897,7 @@ Vakil High Court, Bombay.
 
 FIRST EDITION.
 
-![](../books_images/U-IMG-1723176605Screenshot2024-08-09093901.png)
+<MISSING_FIG href="../books_images/U-IMG-1723176605Screenshot2024-08-09093901.png"/>
 
 (All rights reserved)
 
@@ -7905,13 +7911,13 @@ Price Re. 1–8 0.
 
 [TABLE]
 
-![](../books_images/U-IMG-1722925710Screenshot2024-08-06115720.png)
+<MISSING_FIG href="../books_images/U-IMG-1722925710Screenshot2024-08-06115720.png"/>
 
 **कविकुलगुरुः कालिदासः।**
 
 **FOREWORD.**
 
-![](../books_images/U-IMG-1723253765Screenshot2024-08-10070456.png)
+<MISSING_FIG href="../books_images/U-IMG-1723253765Screenshot2024-08-10070456.png"/>
 
  I consider it an honour and a privilege to be asked to write a foreword to this book. My friend Mr. Padhye must be congratulated upon his excellent idea of presenting the reader world with select quotations and extracts from the works of Kalidas, distributed under different heads. "A thing of beauty is a joy for ever". And his readers will feel grateful to the author for supplying them, in a good handy form, so many beauties culled and selected from the writings of the greatest poet in the Sanskrit language. Few can, I think, demur to the charge brought by Mr. Padhye that, though the Indian people are proud of Kalidas, they do not study him with sufficient devotion and assiduity. No doubt such study requires time and close attention. But both these are sure to be repaid by the joy one feels while reading Kalidas even cursorily, and specially so when one enters into his spirit and sentiment.
 
@@ -7958,6 +7964,7 @@ Poona
 13-7-2                                
            **                       
                   N. C. Kelkar.**          
+                    
 
              ——————————
 
@@ -7965,23 +7972,25 @@ Poona
 
 **(The Late Mulchandra Telliwalla)**
 
-![](../books_images/U-IMG-1723021163Screenshot2024-08-07142819.png)
+<MISSING_FIG href="../books_images/U-IMG-1723021163Screenshot2024-08-07142819.png"/>
 
  श्रीमदार्यावर्त आदिकविना शब्दार्थरसिकेन ब्रह्मणा भगवतो नारायणस्य सृष्ट्यादौ गुणगानाय वेदाः प्रादुर्भाविताः। तथैवादिकविना वाल्मीकिना भगवतो रघुकुलरत्नस्य गुणगानं श्रीरामायणे कृतम्। तथैव श्रीमन्महाभारते यदुकुलचूडामणेर्गुणगानमादिकविना व्यासेनापि कृतम्। एते त्रयोप्यादिकवित्वेन प्रसिद्धाः। तेषां काव्यस्यालौकिकविषयत्वात् तेषां ख्यातिः ऋषित्वेन जाता। येषां काव्यस्य विषयो लौकिकः, ते कवित्वेन प्रसिद्धा जाताः। एतेषु कविकुलगुरोः कालिदासस्य नाम नैवाप्रसिद्धम्। एतद्देशीयैः पाश्चात्यैः पण्डितैश्चास्य कविमुकुटमणेः प्रशंसा मुक्तकण्ठैः कृता दृश्यते। तत्त्वज्ञानिभिः श्रीवल्लभाचार्यैरपि 'स्त्रीहृदयज्ञ' इत्येवमस्य कवेरुपन्यासो निजग्रन्थेषु कृतो दृश्यते। पाश्चात्यानामेतद्देशीयानां प्रशस्तयोस्मिन्नेव संग्रहे संग्रहीताः। महाकवेः कालिदासस्य परिचयो भारतवर्षीयैस्त्ववश्यमेव कर्तव्य इत्यत्र नैव संशयः। लौकिकव्यापृतिषु सर्वथा निमग्नैरस्य परिचयः कथं कर्तव्य इति प्रश्नः।कविकालिदासस्य वाङ्मयान् मणिरूपान् विभागान् संगृह्यास्मन्मित्रवरैः 'पाध्ये' इति नामधेयैरयं ग्रन्थः प्रकाशितः। एतेनातिव्यापृतानामपि कविकालिदासस्य स्वरूपपरिचयायातीव सौकर्यं भविष्यति। कविकालिदासस्य साङ्गोपाङ्गमध्ययनं यैः कर्तुमशक्यम्, तेष्यस्यावगाहनेन तत्स्वरूपे निष्ठावन्तो भविष्यन्तीति।
 
+                                   
                मूलचन्द्र तेलीवाला।
 
 **INDEX.**
 
-**![](../books_images/U-IMG-1723257740Screenshot2024-08-10081111.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723257740Screenshot2024-08-10081111.png"/>**
 
 [TABLE]
 
                           \_\_\_\_\_\_\_\_ 
+                                  
 
 **PREFACE.**
 
-![](../books_images/U-IMG-1723257617Screenshot2024-08-10080910.png)  
+<MISSING_FIG href="../books_images/U-IMG-1723257617Screenshot2024-08-10080910.png"/>  
 
  It is a disgrace to Indians in general, and to Rovers of Sanskrit language in particular, that the study of the works of Kalidasa-the greatest mastermind in Sanskrit Poetry and drama-has been so narrow that no book by an Indian Sanskrit scholar exists which in any worthy manner deals with the great Poet as a whole and traces the rise and growth of his genius from the romanticism of his early plays to the magnificence, the splendour, the divine intention which mark his best works. European scholars such as Goethe, Schlegel, Humboldt, Sir Williams Jones, Sir Monier Williams & others being struck by his poetic genius, have bestowed unstinted praise on him and have described him as the Indian Shakespeare. What is said about Shakespeare that "no age nor nation could easily in any branch of knowledge, exhibit another man in whom the riches of genius, natural endowments, original talents, and versatility of power were so great as in him", would equally apply to Kalidasa. Oriental scholars, like Dr. Bhau Daji, Vishnu.Shastri Chiplunkar, S. P. Pandit, K. T. Telang, Pathak, Dr. Dhruv & others, no doubt, made a special study of some of his works and exhibited to the world his excellence as a great poet and dramatist. But the attention paid by our Indian scholars to Kalidasa is very scanty as compared with that paid by European scholars to Shakespeare. In this short preface, it is not my purpose to dwell upon his poetic genius which brought Sanskrit Poetry to the highest elegance and refinement, or upon his pure and chaste style of upon the unaffected simplicity of his expressions Suffice it to say that Kalidasa excels all otherSanskrit poets in his description of the sublime and the beautiful.
 
@@ -8079,11 +8088,14 @@ Every student of Kalidasa knows that he was a worshipper of Shiva. All his drama
 
  My special thanks are due to Prof. H. D. Velankar M. A. and Messrs: Dinkar Vishnu Gokhale B. A., S. V. Phadnis B. A., and B. P. Adarkar B. A., for the valuable suggestions given by them to me from time to time. Mr. Teliwala whose services in the cause of Sanskrit Literature are well known to the lovers of the philosophy of Shri Vallabhacharya has written a Foreword in Sanskrit in praise of Kalidas. I am specially thankful to him for his voluntary contribution.
 
+                                   
               **K. A. Padhye.**
 
 **कालिदासप्रशस्तिः।**
 
-![](../books_images/U-IMG-1723026871Screenshot2024-08-07160324.png)
+<MISSING_FIG href="../books_images/U-IMG-1723026871Screenshot2024-08-07160324.png"/>
+
+   
 
 निर्गतासु न वा कस्य कालिदासस्य सूक्तिषु।  
 प्रीतिर्मधुरसार्द्रासु मञ्जरीष्विव जायते।
@@ -8135,10 +8147,12 @@ all at once is said.
 
 ''Kalidas is the Shakespeare of India"
 
+                                   
    ** —Sir Williams Jones.**
 
  "No composition of Kalidas displays more the richness of his poetical genius, the exhuberance of his imagination, the warmth and play of his fancy, his profound knowledge of the human heart, his delicate appreciation of its merits, refined and tender imagination, his familiarity of the workings and counter workings of its conflicting feelings, in short, more entitles him to rank as the Shakespeare of India (than Shakuntala).''
 
+                                   
      **—Sir Monier Williams.**
 
 \_\_\_\_\_\_\_\_\_
@@ -8164,6 +8178,7 @@ All's well with man, when man and woman love.
 
  I have already hinted at the wonderful balance in Kalidasa's character, by virtue of which he found himself equally at home in a palace and in a wilderness. I know not with whom to com- pare him in this; even Shakespeare, for all his magical insight into natural beauty, is primarily a poet of the human heart. That can hardly be said of Kalidasa, nor can it be said that he is. primarily a poet of natural beauty. The two characters unite in. him, it might almost be said, chemically.
 
+                                   
        **—Arthur W. Ryder.**
 
 **PART I.**
@@ -8285,7 +8300,8 @@ they were molested by a Demon named Taraka.
 
 —कुमारसंभवे द्वितीयः सर्गः।
 
-![](../books_images/U-IMG-1723080950Screenshot2024-08-08070334.png)
+                    
+<MISSING_FIG href="../books_images/U-IMG-1723080950Screenshot2024-08-08070334.png"/>
 
 **PART II.**
 
@@ -8771,7 +8787,9 @@ Kashyapa by King Dushyanta.
 
 **—शाकुन्तले प्रथमोऽङ्कः**।
 
-![](../books_images/U-IMG-1723088587Screenshot2024-08-08091201.png)
+<MISSING_FIG href="../books_images/U-IMG-1723088587Screenshot2024-08-08091201.png"/>
+
+                         
 
 Description of the hermitage of Sage Maricha.
 
@@ -9745,7 +9763,7 @@ aimed at by King Dushyanta.
 
 शाकुन्तले प्रथमोऽङ्कः ।
 
-**![](../books_images/U-IMG-1722687107gggg.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722687107gggg.png"/>**
 
 **PART III  
 Dialogues**
@@ -13790,7 +13808,7 @@ securing Malavika for King Agnimitra.
 
 **शिवपार्वतीसंवादः**
 
-**![](../books_images/U-IMG-1723521742Screenshot2024-08-13093115.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1723521742Screenshot2024-08-13093115.png"/>**  
 
 **Dialogue between Parvati (who was Practising  
 austerities to secure God Shiva as her husband)  
@@ -14361,7 +14379,7 @@ her abandonment.
 
    —रघुवंशे चतुर्दशः सर्गः।
 
-![](../books_images/U-IMG-1723537326Screenshot2024-08-13135058.png)
+<MISSING_FIG href="../books_images/U-IMG-1723537326Screenshot2024-08-13135058.png"/>
 
 **PART V.**
 
@@ -14900,9 +14918,9 @@ ine descriptions of dancing¹⁴ He makes mention of Bharat
 
 author of Nāṭyasāstra[^17]
 
- 8. Kalidāsa seems to have studied works on music. The cries of peacocks have been, for instance, mentioned as of the same pitch as the Saḍja, the first note of our musica scale[^18].
-
 [^17]: "देवदूतः— मुनिना भरतेन यः प्रयोगे भवतीष्वष्टरसाश्रयो निबद्धः। ललिताभिनयं तमद्य भर्ता मरुतां द्रष्टु– मनाः सलोकपालः॥  —विक्रमोर्य० II. 17."
+
+ 8. Kalidāsa seems to have studied works on music. The cries of peacocks have been, for instance, mentioned as of the same pitch as the Saḍja, the first note of our musica scale[^18].
 
 [^18]: "मनोभिरामाः शृण्वन्तौ रथनेमिस्वनोन्मुखैः। षड्जसंवादिनीः केका द्विधा भिन्नाः शिखण्डिभिः ॥  —रघु० 1.39."
 
@@ -15529,7 +15547,7 @@ selections of these.
 स चकर्ष परस्मात्तदयस्कान्त इवायसम्॥१७–६३॥**
 
 **         
-![](../books_images/U-IMG-1723556925Screenshot2024-08-13191738.png)**
+<MISSING_FIG href="../books_images/U-IMG-1723556925Screenshot2024-08-13191738.png"/>**
 
 K. A. Padhye B. A. LL. B. has really obliged the lovers SanskritLiterature and particularly those of Kalidasa's books 
 
@@ -15551,4 +15569,3 @@ Lovers of Sanskrit Literature and particularly of Kalidasa will thinkful to you 
            Vakil, High Court.
 
 \]
-

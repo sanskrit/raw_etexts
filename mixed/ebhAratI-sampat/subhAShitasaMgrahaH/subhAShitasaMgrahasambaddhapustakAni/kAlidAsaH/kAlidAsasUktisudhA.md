@@ -97,7 +97,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEzMzI5MTYwNzk
 |    | \* सुभाषित       |
 |    | \* प्रकीर्ण      |
 
-![](../books_images/U-IMG-1724934640FFFGGG.png)
+<MISSING_FIG href="../books_images/U-IMG-1724934640FFFGGG.png"/>
 
 **प्राक्कथन**
 

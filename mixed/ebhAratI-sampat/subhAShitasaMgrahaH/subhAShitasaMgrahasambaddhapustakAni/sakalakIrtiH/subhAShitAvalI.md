@@ -73,7 +73,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 **॥श्रीः॥**
 
 **अथ सुभाषितावली प्रारभ्यते।  
-![](../books_images/U-IMG-17243487397199सुभाषितावलिः-3-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-17243487397199सुभाषितावलिः-3-removebg-preview.png"/>**
 
 **जिनाधीशं नमस्कृत्य संसाराम्बुधितारकं॥ स्वान्य  
 स्य हितमुद्दिश्य वक्ष्ये सद्भाषितावलीम्॥१॥**
@@ -432,7 +432,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
  **हिं० अर्थ—**शरीर निर्बल होकर भी जो धीर पुरुष जिनदीक्षा गृहण करके निष्पाप तपश्चर्या करते है, उनको मुनीश्वर धन्य मानते है.
 
 **सद्भाषितावलीचें शुद्धिपत्र.**  
-![](../books_images/U-IMG-1724774194उपनिषत्2-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1724774194उपनिषत्2-removebg-preview.png"/>
 
  ह्या सद्भाषितावलीचे २ फार्म ह्मणजे १६ पृष्ठें बेलगांव येथील **"रामतत्व"** छापखान्यांत छापलीं, त्यांतील अशुद्ध त्याच्याच शेवटीं ह्मणजे १७ वे पृष्ठांत जोडिलें आहे.
 
@@ -522,7 +522,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 
 **———————————————————**
 
-**![](../books_images/U-IMG-1724702701च.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724702701च.png"/>**
 
 **चारित्रचलितो जीवो जीवन्नपि मृतोपमः॥  
 मृतश्चारित्रसंयुक्त इहामुत्र च जीवति॥४७॥**
@@ -2565,7 +2565,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 
 ** सज्जनचित्तवल्लभ**
 
-**![](../books_images/U-IMG-1723560796Screenshot2024-07-15110639.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1723560796Screenshot2024-07-15110639.png"/>**
 
 **  ॐ नमो जिनाय  
 ( शार्दूलविक्रीडितवृत्तं )**
@@ -2748,7 +2748,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 
 ( विद्वान्लोक ह्या ग्रन्थश्रवणानें मनोनिग्रह करूं शकतात. )
 
-![](../books_images/U-IMG-1723379646Screenshot2024-07-17202331.png)
+<MISSING_FIG href="../books_images/U-IMG-1723379646Screenshot2024-07-17202331.png"/>
 
 **समाप्त.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_**

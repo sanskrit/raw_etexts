@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU0MDk5MzAwNjU
 
 \[
 
+
+
+
+
+
+
 आत्मोपनिषत् ।
+
+
 
 यत्र नात्मप्रपञ्चोऽयमपह्नवपदं गतः ।
 
@@ -211,5 +219,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU0MDk5MzAwNjU
 ॥ हरिः ॐ तत्सत् ॥
 
 ---------- -------------
+
+
+
+
+
 
 \]

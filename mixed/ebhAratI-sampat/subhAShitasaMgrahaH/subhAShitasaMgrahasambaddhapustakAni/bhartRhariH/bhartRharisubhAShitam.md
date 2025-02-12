@@ -26,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 ॥नीतिशतकम्॥
 
-![](../books_images/U-IMG-1723704674pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1723704674pic3.jpg"/>
 
 **॥व्याख्यानपीठिका॥**
 
@@ -59,7 +59,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 वैखर्या वचसां कवीशहृदयं प्रख्यापयन्नन्वय-  
 द्वारैवाहमिहाखिलं प्रविवृणोम्युक्तिव्रजोज्जृम्भितम्॥**
 
-**![](../books_images/U-IMG-1723705219pic4.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1723705219pic4.jpg"/>**
 
  इह खलु तत्रभवानशेषविशेषसारपारदृश्वा विश्वातिशायि गुणगरिमावतारो भर्तृहरिनामा महायोगीश्वरो निजयोगमहिमानुसारेण करतलामलकीकृताखिलविरिञ्चिप्रपञ्चस्तृणकणमिव जगज्जालमालोकयन् परमकारुणिको लोकव्यवहारपरिज्ञानखिन्नान्तःकरणः लोकानुजिघृक्षया नीतिशृङ्गारवैराग्यवर्णनप्रख्यं सुभाषितत्रिशत्याख्यं कंचित् प्रबन्धं प्रारंभमाणस्तत्परिपन्थिनिर्मन्थनद्वारा परिसमाप्तिप्रचयगमनलक्षणं फलमाशासानः शिष्टाचारपरिप्राप्तिवि- शिष्टपरज्योतीरूपेष्टदेवतानमस्काराकारं मङ्गलमादौ निबध्नाति॥
 
@@ -224,7 +224,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतक मूर्खपद्धति स्सम्पूर्णा॥
 
-![](../books_images/U-IMG-1724240492pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724240492pic3.jpg"/>
 
 **॥ विद्वत्पद्धतिः ॥**
 
@@ -360,7 +360,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतके विद्वत्पद्धति स्सम्पूर्ण॥
 
-![](../books_images/U-IMG-1724309259pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724309259pic3.jpg"/>
 
 **॥ मानशौर्यपद्धतिः ॥**
 
@@ -478,7 +478,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतके मानशौर्यपद्धतिः सम्पूर्णे॥
 
-![](../books_images/U-IMG-1724337258pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724337258pic3.jpg"/>
 
 **॥अर्थपद्धतिः॥**
 
@@ -651,7 +651,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतके अर्थपद्धतिस्सम्पूर्णा॥
 
-![](../books_images/U-IMG-1724395681pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724395681pic3.jpg"/>
 
 **॥ दुर्जनपद्धतिः ॥**
 
@@ -758,7 +758,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतके दुर्जनपद्धति स्सम्पूर्णा॥
 
-![](../books_images/U-IMG-1724415846pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724415846pic3.jpg"/>
 
 **॥ सुजनपद्धतिः ॥**
 
@@ -907,7 +907,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतके सुजनपद्धतिस्सम्पूर्णा॥
 
-![](../books_images/U-IMG-1724480288pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724480288pic3.jpg"/>
 
 **भवन्ति नम्रास्तरवः फलोद्गमै  
 र्नवाम्बुभिर्दूरविलम्बिनो घनाः।  
@@ -1019,7 +1019,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतके परोपकारपद्धतिस्सम्पूर्ण॥
 
-![](../books_images/U-IMG-1724504190pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724504190pic3.jpg"/>
 
 **॥ धैर्यपद्धतिः ॥**
 
@@ -1118,7 +1118,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतके धैर्यपद्धतिस्सम्पूर्णा॥
 
-![](../books_images/U-IMG-1724515774pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724515774pic3.jpg"/>
 
 **नेता यस्य बृहस्पतिः प्रहरणं वज्रं सुराः सैनिकाः  
 स्वर्गो दुर्गमनुग्रहः खलु हरेरैरावणो वारणः।  
@@ -1224,7 +1224,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतके दैवपद्धतिस्सम्पूर्णा॥
 
-![](../books_images/U-IMG-1724487799pic3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1724487799pic3.jpg"/>
 
 **॥ कर्मपद्धतिः॥**
 
@@ -1323,11 +1323,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति नीतिशतके कर्मपद्धतिः सम्पूर्णा॥
 
-![](../books_images/U-IMG-1723629792Screenshot2024-08-14173400.png)
+<MISSING_FIG href="../books_images/U-IMG-1723629792Screenshot2024-08-14173400.png"/>
 
 **॥शृङ्गारशतकम्॥**
 
-![](../books_images/U-IMG-1723629993Screenshot2024-08-14173725.png)
+<MISSING_FIG href="../books_images/U-IMG-1723629993Screenshot2024-08-14173725.png"/>
 
 ** ॥स्त्रीप्रशंसा॥**
 
@@ -1605,7 +1605,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति शृङ्गारशतके स्त्रीप्रशंसा सम्पूर्णा॥
 
-![](../books_images/U-IMG-1723700699Screenshot2024-08-15131552.png)
+<MISSING_FIG href="../books_images/U-IMG-1723700699Screenshot2024-08-15131552.png"/>
 
 **॥संभोगवर्णनम्॥**
 
@@ -1795,7 +1795,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति शृङ्गारशतकेसंभोगवर्णनं सम्पूर्णम्॥
 
-![](../books_images/U-IMG-1723737864Screenshot2024-08-15233514.png)
+<MISSING_FIG href="../books_images/U-IMG-1723737864Screenshot2024-08-15233514.png"/>
 
 **॥पक्षद्वयनिरूपणम्॥**
 
@@ -1932,7 +1932,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति शृङ्गारशतके पक्षद्वयनिरूपणं सम्पूर्णम्॥
 
-![](../books_images/U-IMG-1723707260Screenshot2024-08-15150514.png)
+<MISSING_FIG href="../books_images/U-IMG-1723707260Screenshot2024-08-15150514.png"/>
 
 **॥कामिनीगर्हणम्॥**
 
@@ -2164,7 +2164,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति शृङ्गारशतके कामिनीगर्हणं सम्पूर्णम्॥
 
-![](../books_images/U-IMG-1723961292Screenshot2024-08-18133903.png)
+<MISSING_FIG href="../books_images/U-IMG-1723961292Screenshot2024-08-18133903.png"/>
 
 **॥सुविरक्तपद्धतिः॥**
 
@@ -2273,7 +2273,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति शृङ्गारशतके सुविरक्तपद्धतिः संपूर्णा॥
 
-![](../books_images/U-IMG-1723972762Screenshot2024-08-18165014.png)
+<MISSING_FIG href="../books_images/U-IMG-1723972762Screenshot2024-08-18165014.png"/>
 
 **॥दुर्विरक्तपद्धतिः॥**
 
@@ -2381,7 +2381,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति शृङ्गारशतकेदुर्विरक्तपद्धति स्संम्पूर्ण॥
 
-![](../books_images/U-IMG-1723994087Screenshot2024-08-18224530.png)
+<MISSING_FIG href="../books_images/U-IMG-1723994087Screenshot2024-08-18224530.png"/>
 
 **॥ऋतुवर्णनम्॥**
 
@@ -2643,11 +2643,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति शृङ्गारशतके ऋतुवर्णनपद्धतिः संपूर्णा॥
 
-![](../books_images/U-IMG-1724329021Screenshot2024-08-22194742.png)
+<MISSING_FIG href="../books_images/U-IMG-1724329021Screenshot2024-08-22194742.png"/>
 
 **॥वैराग्यशतकम्॥**
 
-**![](../books_images/U-IMG-1724329163Screenshot2024-08-22195012.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724329163Screenshot2024-08-22195012.png"/>**
 
 **॥तृष्णादूषणम्॥**
 
@@ -2747,7 +2747,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति शृङ्गारशतके दुर्विरक्तपद्धतिस्संम्पूर्णा॥
 
-![](../books_images/U-IMG-1724339204Screenshot2024-08-22223732.png)
+<MISSING_FIG href="../books_images/U-IMG-1724339204Screenshot2024-08-22223732.png"/>
 
 **॥विषयपरित्याग विडंबनम्॥**
 
@@ -2869,7 +2869,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति वैराग्यशतके विषयपरित्यागविडंबनं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724347720Screenshot2024-08-23005925.png)
+<MISSING_FIG href="../books_images/U-IMG-1724347720Screenshot2024-08-23005925.png"/>
 
 **दीनादीनमुखैस्तदैव शिशुकैराकृष्टजीर्णाम्बरा  
 क्रोशद्भिः क्षुधितैर्निरन्नविधुरा दृश्या न चेद्गेहिनी।  
@@ -2984,7 +2984,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति वैराग्यशतके याच्ञादैन्यदूषणं सम्पूर्णम्॥
 
-![](../books_images/U-IMG-1724425939Screenshot2024-08-23204159.png)
+<MISSING_FIG href="../books_images/U-IMG-1724425939Screenshot2024-08-23204159.png"/>
 
 **॥भोगास्थैर्यवर्णनम्॥**
 
@@ -3116,7 +3116,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति वैराग्यशतके भोगास्थैर्यवर्णनं सम्पूर्णम्॥
 
-![](../books_images/U-IMG-1724436952Screenshot2024-08-23234540.png)
+<MISSING_FIG href="../books_images/U-IMG-1724436952Screenshot2024-08-23234540.png"/>
 
 **॥ कालमहिमानुवर्णनम् ॥**
 
@@ -3276,7 +3276,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति वैराग्यशतके कालमहिमानुवर्णनं सम्पूर्णम्॥
 
-![](../books_images/U-IMG-1724513070Screenshot2024-08-24205419.png)
+<MISSING_FIG href="../books_images/U-IMG-1724513070Screenshot2024-08-24205419.png"/>
 
 **॥यतिनृपतिसंवादवर्णनम्॥**
 
@@ -3410,7 +3410,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 इति वैराग्यशतके यतिनृपतिसंवादवर्णनं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724521111Screenshot2024-08-24230820.png)
+<MISSING_FIG href="../books_images/U-IMG-1724521111Screenshot2024-08-24230820.png"/>
 
 **॥मनस्संबोधननियमनम्॥**
 
@@ -3530,7 +3530,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 ॥इति वैराग्यशतके मनस्संबोधननियमनं संपूर्णम्॥
 
-![](../books_images/U-IMG-1725207204Screenshot2024-08-04235410.png)
+<MISSING_FIG href="../books_images/U-IMG-1725207204Screenshot2024-08-04235410.png"/>
 
 **॥नित्यानित्यवस्तुविचारः॥**
 
@@ -3617,7 +3617,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 ॥इति वैराग्यशतके नित्यानित्यवस्तुविचारः संपूर्णः॥
 
-**![](../books_images/U-IMG-1724598795Screenshot2024-08-25204304.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724598795Screenshot2024-08-25204304.png"/>**
 
 **॥शिवार्चनम्॥**
 
@@ -3725,7 +3725,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 ॥इतिवैराग्यशतके शिवार्चनं संपूर्णम्॥
 
-![](../books_images/U-IMG-1724606764Screenshot2024-08-25225547.png)
+<MISSING_FIG href="../books_images/U-IMG-1724606764Screenshot2024-08-25225547.png"/>
 
 **॥अवधूतचर्या॥**
 
@@ -3829,12 +3829,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAyMTE3MDgwNzE
 
 ॥वैराग्यशतके अवधूतचर्या संपूर्ण॥
 
-![](../books_images/U-IMG-1724614660Screenshot2024-08-26010730.png)
+<MISSING_FIG href="../books_images/U-IMG-1724614660Screenshot2024-08-26010730.png"/>
 
 **इति श्रीभर्तृहरियोगींद्रविरचित सुभाषितत्रिंशती**
 
 **॥संपूर्णा॥**
 
-![](../books_images/U-IMG-1724614753Screenshot2024-08-26010900.png)
+<MISSING_FIG href="../books_images/U-IMG-1724614753Screenshot2024-08-26010900.png"/>
 
 \]

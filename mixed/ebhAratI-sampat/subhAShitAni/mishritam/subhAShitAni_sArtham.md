@@ -10,11 +10,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA
 +++
 [[सुभाषितानि सार्थम्	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA1NTkz&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 **सुभाषितानि**
 
-[सुरुचिः](\%22http://kalidasa.blogspot.com/2010/11/blog-post_10.html\%22)
+[सुरुचिः[^1]
+
+[^1]: \%22http://kalidasa.blogspot.com/2010/11/blog-post_10.html\%22
 
 वाङ्मयं
 
@@ -362,7 +364,9 @@ Share to Google Buzz
 
 Monday, October 25, 2010
 
-[सुभाषितार्थग्रहणम्](\%22http://kalidasa.blogspot.com/2010/10/blog-post_3681.html\%22)
+सुभाषितार्थग्रहणम्[^2]
+
+[^2]: \%22http://kalidasa.blogspot.com/2010/10/blog-post_3681.html\%22
 
 सर्वस्मिन्
 
@@ -752,7 +756,9 @@ Share to Google Buzz
 
 Monday, April 07, 2008
 
-[नूतनवर्षशुभाषयाः](\%22http://kalidasa.blogspot.com/2008/04/blog-post_07.html\%22)
+नूतनवर्षशुभाषयाः[^3]
+
+[^3]: \%22http://kalidasa.blogspot.com/2008/04/blog-post_07.html\%22
 
 सूर्य
 
@@ -954,7 +960,9 @@ Share to Google Buzz
 
 Thursday, April 26, 2007
 
-[चितचिन्तयोः](\%22http://kalidasa.blogspot.com/2007/04/blog-post_21.html\%22)
+चितचिन्तयोः[^4]
+
+[^4]: \%22http://kalidasa.blogspot.com/2007/04/blog-post_21.html\%22
 
 चिन्तायास्तु
 
@@ -1124,7 +1132,9 @@ Share to Google Buzz
 
 Thursday, April 12, 2007
 
-[उत्पन्नपश्चात्](\%22http://kalidasa.blogspot.com/2007/04/blog-post_2106.html\%22)
+उत्पन्नपश्चात्[^5]
+
+[^5]: \%22http://kalidasa.blogspot.com/2007/04/blog-post_2106.html\%22
 
 उत्पन्नपश्चात्
 
@@ -1388,7 +1398,9 @@ Share to Google Buzz
 
 Friday, April 06, 2007
 
-[संस्कृतज्ञः](\%22http://kalidasa.blogspot.com/2007/04/blog-post_3951.html\%22)
+संस्कृतज्ञः[^6]
+
+[^6]: \%22http://kalidasa.blogspot.com/2007/04/blog-post_3951.html\%22
 
 यस्य
 
@@ -1920,7 +1932,9 @@ Share to Google Buzz
 
 Friday, October 27, 2006
 
-[सुभाषितम् - अन्नदानम्](\%22http://kalidasa.blogspot.com/2006/10/blog-post.html\%22)
+सुभाषितम् - अन्नदानम्[^7]
+
+[^7]: \%22http://kalidasa.blogspot.com/2006/10/blog-post.html\%22
 
 अन्नदानं
 
@@ -1966,7 +1980,9 @@ Share to Google Buzz
 
 Friday, September 01, 2006
 
-[सुभाषितम् - दुर्लभः योग्यकः](\%22http://kalidasa.blogspot.com/2006/08/blog-post_13.html\%22)
+सुभाषितम् - दुर्लभः योग्यकः[^8]
+
+[^8]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_13.html\%22
 
 नाक्षरं
 
@@ -2095,7 +2111,9 @@ Share to Google Buzz
 
 Sunday, August 13, 2006
 
-[सुभाषितम् - मन्त्रः](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115547364446494240.html\%22)
+सुभाषितम् - मन्त्रः[^9]
+
+[^9]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115547364446494240.html\%22
 
 षट्कर्णो
 
@@ -2123,7 +2141,9 @@ Sunday, August 13, 2006
 
 ॥  
 
-![\\"http://photos1.blogger.com/blogger/166/590/200/upadesha.jpg\\"](\%22http://photos1.blogger.com/blogger/166/590/200/upadesha.jpg\%22)
+!\\"http://photos1.blogger.com/blogger/166/590/200/upadesha.jpg\\"[^10]
+
+[^10]: \%22http://photos1.blogger.com/blogger/166/590/200/upadesha.jpg\%22
 
 षट्कर्णः
 
@@ -2205,7 +2225,9 @@ Share to Facebook
 
 Share to Google Buzz
 
-[सुभाषितम् - शास्त्रसारम्](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115547251188722512.html\%22)
+सुभाषितम् - शास्त्रसारम्[^11]
+
+[^11]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115547251188722512.html\%22
 
 षट्पदः
 
@@ -2351,7 +2373,9 @@ Share to Facebook
 
 Share to Google Buzz
 
-[सुभाषितम् - सकृत् सकृत्](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115547153230755999.html\%22)
+सुभाषितम् - सकृत् सकृत्[^12]
+
+[^12]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115547153230755999.html\%22
 
 सकृत्
 
@@ -2496,7 +2520,9 @@ Share to Google Buzz
 
 Saturday, August 12, 2006
 
-[सुभाषितम् - सहोदरः](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115544869105601075.html\%22)
+सुभाषितम् - सहोदरः[^13]
+
+[^13]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115544869105601075.html\%22
 
 देशे
 
@@ -2632,7 +2658,9 @@ Share to Facebook
 
 Share to Google Buzz
 
-[सुभाषितम् - विवेकः](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115544787603450790.html\%22)
+सुभाषितम् - विवेकः[^14]
+
+[^14]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115544787603450790.html\%22
 
 अर्थानर्थौ
 
@@ -2728,7 +2756,9 @@ Share to Facebook
 
 Share to Google Buzz
 
-[सुभाषितम् - रामायणम्](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115544690866731038.html\%22)
+सुभाषितम् - रामायणम्[^15]
+
+[^15]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115544690866731038.html\%22
 
 शृण्वन्
 
@@ -2878,7 +2908,9 @@ Share to Google Buzz
 
 Thursday, August 03, 2006
 
-[सुभाषितम् - दुष्टा भार्या](\%22http://kalidasa.blogspot.com/2006/08/blog-post.html\%22)
+सुभाषितम् - दुष्टा भार्या[^16]
+
+[^16]: \%22http://kalidasa.blogspot.com/2006/08/blog-post.html\%22
 
 दुष्टा
 
@@ -3006,7 +3038,9 @@ Share to Facebook
 
 Share to Google Buzz
 
-[सुभाषितम् - कुलस्यार्थे](\%22http://kalidasa.blogspot.com/2006/08/blog-post_03.html\%22)
+सुभाषितम् - कुलस्यार्थे[^17]
+
+[^17]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_03.html\%22
 
 कुलस्यार्थे
 
@@ -3138,7 +3172,9 @@ Share to Facebook
 
 Share to Google Buzz
 
-[सुभाषितम् - कोऽन्धः](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115460525704709605.html\%22)
+सुभाषितम् - कोऽन्धः[^18]
+
+[^18]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115460525704709605.html\%22
 
 कोऽन्धो
 
@@ -3268,7 +3304,9 @@ Share to Facebook
 
 Share to Google Buzz
 
-[सुभाषितम् - अलि-शुक-भ्रान्तिः](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115460787866500572.html\%22)
+सुभाषितम् - अलि-शुक-भ्रान्तिः[^19]
+
+[^19]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115460787866500572.html\%22
 
 पलाशमुकुलभ्रान्त्या
 
@@ -3396,7 +3434,9 @@ Share to Facebook
 
 Share to Google Buzz
 
-[सुभाषितम् - बुद्धिः](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115460897483434588.html\%22)
+सुभाषितम् - बुद्धिः[^20]
+
+[^20]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115460897483434588.html\%22
 
 यः
 
@@ -3528,7 +3568,9 @@ Share to Facebook
 
 Share to Google Buzz
 
-[सुभाषितम् - त्रीणि रत्नानि](\%22http://kalidasa.blogspot.com/2006/08/blog-post_115460600247278591.html\%22)
+सुभाषितम् - त्रीणि रत्नानि[^21]
+
+[^21]: \%22http://kalidasa.blogspot.com/2006/08/blog-post_115460600247278591.html\%22
 
 पृथिव्याम्
 

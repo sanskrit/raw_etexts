@@ -13,7 +13,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NTc0Mjk0Njc
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **वल्लभदेवकृत-सुभाषितावलिः**
+
+
+
+
 
 ०००१-१ तां भवानीं भवानीतक्लेशनाशविशारदां ।
 
@@ -6695,6 +6715,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk1NTc0Mjk0Njc
 
 १०४०-२ ममापि जन्म तत्रैव भूयाद्यत्र गतो भवान् । ।
 
+
+
 **---------------------------------------------------------**
+
+
+
+
+
+
+
+
+
 
 \]

@@ -27,7 +27,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NzQzNDIwNzU
 किंमत ३ आणे
 
 **सार्थश्रीभागवतसुभाषितानि**  
-![](../books_images/U-IMG-1724055153Screenshot2024-08-19134209.png)
+<MISSING_FIG href="../books_images/U-IMG-1724055153Screenshot2024-08-19134209.png"/>
 
 संपादक व भाषांतरकार
 
@@ -38,14 +38,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NzQzNDIwNzU
 केशव भिकाजी ढवले, गिरगांव–मुंबई
 
 आवृत्ति तिसरी  
-![](../books_images/U-IMG-1724055191Screenshot2023-07-21172948.png)
+<MISSING_FIG href="../books_images/U-IMG-1724055191Screenshot2023-07-21172948.png"/>
 
 कार्तिक शके १८५३ सन १९३१
 
 **किंमत ३ आणे**
 
 प्रस्तावना  
-![](../books_images/U-IMG-1724055384Screenshot2024-08-19134612.png)
+<MISSING_FIG href="../books_images/U-IMG-1724055384Screenshot2024-08-19134612.png"/>
 
  श्रीभागवत हा पुराणग्रंथांमध्यें प्रसिद्ध ग्रंथ आहे. याचे १२ स्कंध असून लोकसंख्या १८ हजार आहे. यांतील निवडक १२१ संस्कृत सुभाषितवचनें प्रस्तुत पुस्तकांत घेतलीं आहेत. आणि प्रत्येक श्लोकाच्याखालीं त्याचें मराठी भाषांतर दिलें आहे. वचनें वर्णक्रमानें लाविलीं असून शेवटीं मुख्य विषयांची सूची जोडिली आहे. वचनांच्या डावीकडे क्रमांक घातले आहेत व उजवीकडे स्थलनिर्देश केला आहे. स्थलनिर्देशांत डावीकडून पहिला अंक स्कंधाचा, दुसरा अध्यायाचा व तिसरा श्लोकाचा समजावा. सूचीमध्यें विपयापुढील अंक हे वचनाचे क्रमांक आहेत.
 
@@ -56,12 +56,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NzQzNDIwNzU
 **विष्णु विनायक परांजपे**  
 **रहाणार पेण, जिल्हा कुलाबा**
 
-**![](../books_images/U-IMG-1724055443Screenshot2024-08-19134713.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724055443Screenshot2024-08-19134713.png"/>**
 
-![](../books_images/U-IMG-1723620070Screenshot(8).png)
+<MISSING_FIG href="../books_images/U-IMG-1723620070Screenshot(8"/>.png)
 
 **सार्थश्रीभागवतसुभाषितानि**  
-![](../books_images/U-IMG-1723619962Screenshot(9).png)
+<MISSING_FIG href="../books_images/U-IMG-1723619962Screenshot(9"/>.png)
 
 **कृष्णाय वासुदेवाय हरये परमात्मने।  
 प्रणतक्लेशनाशाय गोविन्दाय नमो नमः॥**
@@ -119,6 +119,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NzQzNDIwNzU
 
 **१२ आयुः श्रियं यशो धर्मं लोकानाशिष एव च।  
   हन्ति श्रेयांसि सर्वाणि पुंसो महदतिक्रमः॥१०।४।४६**
+
+ 
 
 सज्जनांचा छल केला असतां, मनुष्याचें आयुष्य, संपत्ति, यश, धर्म, उत्तमलोकप्राप्ति, आशीर्वाद, कल्याणकारक गोष्टी या सर्वांचा नाश होतो.
 
@@ -680,15 +682,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NzQzNDIwNzU
 
  सत्पुरुष तीर्थांना स्वतः पवित्र करीत असतात.
 
-![](../books_images/U-IMG-1724067407Screenshot2024-08-19170622.png)
+<MISSING_FIG href="../books_images/U-IMG-1724067407Screenshot2024-08-19170622.png"/>
 
 सार्थश्रीभागवतसुभाषितानि
 
-![](../books_images/U-IMG-1723641582Screenshot(10).png)
+<MISSING_FIG href="../books_images/U-IMG-1723641582Screenshot(10"/>.png)
 
 विषयसूची
 
-![](../books_images/U-IMG-1723641685Screenshot(11).png)
+<MISSING_FIG href="../books_images/U-IMG-1723641685Screenshot(11"/>.png)
 
 |             |                                               |
 |:-----------:|:---------------------------------------------:|
@@ -865,17 +867,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NzQzNDIwNzU
 | हर्षः     | २१                       |
 | हितम्     | ६७                      |
 
-***![](../books_images/U-IMG-1724067827Screenshot2024-08-19171316.png)***
+***<MISSING_FIG href="../books_images/U-IMG-1724067827Screenshot2024-08-19171316.png"/>***
 
 मुद्रक :— **एस्. व्ही. परुलेकर**, मुंबई वैभव प्रेस, सर्व्हंटस् ऑफ इंडिया  
 सोसायटीज् बिल्डिंग, सँढर्स्टरोड, गिरगांव—मुंबई.
 
-**![](../books_images/U-IMG-1724067757Screenshot2024-08-19134713.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724067757Screenshot2024-08-19134713.png"/>**
 
 प्रकाशक—**केशव भिकाजी ढवले**, रामचंद्र बिल्डींग गिरगांव—मुंबई.
 
 (सर्व हक्कप्रकाशकाच्या स्वाधीन)
 
-![](../books_images/U-IMG-1724067848Screenshot2024-08-19171333.png)
+<MISSING_FIG href="../books_images/U-IMG-1724067848Screenshot2024-08-19171333.png"/>
 
 \]

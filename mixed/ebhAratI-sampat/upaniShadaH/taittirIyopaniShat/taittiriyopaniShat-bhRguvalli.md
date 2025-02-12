@@ -13,6 +13,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQzNDQwMDU3NDY
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 **Bhrugu Valli  
 Anuvaka 1**
 
@@ -30,6 +42,8 @@ It is called Bhrgu Valli. Because begins with Bhrugu. For this chapter also we h
 
 What is the purpose of the story? We are interested in teaching. Somebody might have taughtsomebody else. Why should Upanishad be particular about Bhrugu approaching Varuna.These are incidental details which can be omitted. Why this detail? There is a purpose in this.
 
+
+
 It is glorification of vidya. What is the great glory of this vidya? It is not discovery of a singleindividual. It is learned by sishya from guru. It has come down from guru-sishya parampara.Its beginning we cannot trace. Sanatana dharma it is. It has not been given out by a givenindividual in a particular time.
 
 This has been taught by father to his son. So we need not doubt the validity of this teaching.We can trust it because father will never mislead his son.
@@ -44,6 +58,8 @@ In this chapter, the independent enquiry that is the tapas is going to be highli
 
 What is the definition of material cause. That from which something is born, that by whichsomething is sustained and unto which that thing goes back. Srishtimatra karanam is nimittakaranam. Pot maker is only nimitta karanam. He just creates. Sustenance is taken care of bybuyer. Clay is material cause. Brahman is upadana karanam for the entire world. That is whatis said here. Yatah+. Bhutani here means living beings. If jivanti is there, it is beings. Yatprayanti abhisamvisanti. They all go towards that Brahman. What is meant here is Nothinghappens suddenly. Everything is happening gradually. Prayanti means travelling towards theupadana karanam. Finally they merge into that. May you enquire into that material cause.Why I ask you to enquire. That material cause alone is Brahman. What was the question?Adhihi Bhagavah Brahma. I will not give all the clues. I will give some clues. It is cause ofsrishti sthiti and laya. If the teaching to be given completely, then teacher has to say that thatBrahman you are.
 
+
+
 It is called savasesha bodhanam. Student has to enquire into this statement. He comes to knowthat such Brahman is there. It is paroksha jnanam. Through enquiry he has to arrive at that itis not some Brahman. I am that Brahman. To discover this, what did he do? He was brightand brilliant. He did enquiry. Tapas is not standing on one leg etc. Having done this enquiryfor some time, he came to some conclusion. Next anuvaka will talk about this.
 
 The definition of Brahman given here is very famous. It is brahmalakshanam. This definitionhas been taken for enquiry in Brahmasutram. In the very second sutram, this mantra has beentaken for enquiry. There was another lakshanam given in second chapter. Satyam jnanam+ issaid to be svarupa lakshanam or direct definition. Here it is tatastha lakshanam. A thing isdefined in terms of its own nature in svarupa lakshanam. It is like defining a person in termsof his attributes. If I define the person as one who is sitting near the door. Through theexternal attribute, if something is pointed it is tatashtha lakshanam. World is not intrinsicnature of Brahman. So incidental definition. Bhrugu will do enquiry for ten / fifteen days.Then we will see.
@@ -55,6 +71,8 @@ Bhashya Introduction
 
 (*वृत्तानुवादपूर्वकं उत्तरवल्लीमवतारयति - सत्यंज्ञानमित्यादिना।*) सत्यं ज्ञानमनन्तं ब्रह्मआकाशादिकार्यमन्नमयान्तं सृष्ट्वा तदेवानुप्रविष्टं (*अनुप्रविष्टशब्देन विवक्षितमर्थमाह - विशेषवदिति। सांसारिकधर्मजातं विशेषः। तस्य अवास्तवत्वज्ञापनार्थः इवकारः। तथा च श्रुतिः - ध्यायतीव लेलायतीव इति)*विशेषवदिव (*टिप्पणी - कर्त्तृत्वादिधर्मकमिति यावत्*) उपलभ्यमानं (*प्रवेशवाक्येन ब्रह्मणो जीवभावोक्तेःतात्पर्यमाह - यस्मादिति। यस्माद् ब्रह्मैव संसारित्वेन उपलभ्यते इत्युक्तं तस्मादहं यथोक्तं ब्रह्म एव इति विजानीयाद् इतितात्पर्यतः प्रदर्शितं भवति। जीवभावेन अनुप्रवेशकथनस्य अहं ब्रह्म इति ज्ञानैकप्रयोजनकत्वात् इत्यर्थः*) यस्मात्,(*टिप्पणी - अन्नमयाद्युपाधिसंबन्धादेव विशेषवद् उपलभ्यते यस्मात् तस्मात् वस्तुतः सर्वकार्यविलक्षणम् अदृश्यत्वादिनाच निर्विशेषमेव विजानीयादित्यर्थः*) तस्मात् सर्वकार्यविलक्षणम् अदृश्यादिधर्मकमेव आनन्दं तदेवअहमिति विजानीयात् अनुप्रवेशस्य तदर्थत्वात्। (*अभेदज्ञानफलमपि उक्तमनुवदति - तस्यैवमिति*) तस्यैवंविजानतः शुभाशुभे कर्मणी जन्मान्तरारम्भके न भवतः इति एवमानन्दवल्ल्यांविवक्षितःअर्थः। (*इत्युपनिषदिति उपसंहारवाक्यार्थमपि अनुवदति - परिसमाप्ता च इति*) परिसमाप्ता च ब्रह्मविद्या। (*ननुएवं वक्तव्यानवशेषणाद् उत्तरवल्ली व्यर्था - नेत्याह - अतः परमिति*) अतः परं (*विद्योक्त्यनन्तरमित्यर्थः*)ब्रह्मविद्यासाधनं तपः वक्तव्यम् (*न च कोशपञ्चकविवेचनरूपस्य वक्ष्यमाणस्य तपसः अपि प्रागभिहितत्वात्पुनः तदुक्तिः व्यर्था इति वाच्यम्। तस्यैव तपसः ब्रह्मलक्षणमुखेन कर्त्तव्यत्वरूपविशेषकथनपूर्वकमुत्तरवल्ल्याः*
 
+
+
 *पौनरुक्त्याभावात्।*)। (*इतष्टा न पौनरुक्त्यमित्याशयेन आह - अन्नादीति*) अन्नादिविषयाणि च उपासनानिअनुक्तानि (*अनुक्तानि वक्तव्यानि इति वचनविपरिणामेन अनुषङ्गः*) अतः इदमारभ्यते।
 
 In the Anandavalli what is conveyed is said here briefly. Brahman which is satyam, jnanamand anantam, which is cause of space onwards and having created upto body, - all subtle andgross we have to understand - karye anupravesah then in the karya that is buddhi, the placewhere jagat is perceived or recognised - this Brahman is pointed. Vat is not like. It is matup.Brahman having visesha is veseshavat. visesha is buddhi etc. Kartrutvadi visesha. It hasattributes now. Became samsari. Brahman summa irunda sangai udi kedutthan. Like the thiefwho finished his job and found a sankha and wanted to test it. Caught. Brahman also like that.Created and got caught by entering it. Then samadhi shatka samaptti etc you have to gain. No- Visehsavat iva. It obtains in the buddhi without undergoing any change. Appears to havevisesha. Iva is the hetu. Therefore, it has no visesha. Being vivarta, therefore, it is distinctfrom all karyas. All namarupas. He brings everything here. Adrsyadi dharmakam meaningdrgsvarupam. It is anandam. (*the* *whole mimamsa is covered*). That may one recognised asoneself. Whole valli is in one sentence. Why this is so? Because the entry of Brahman ispresented only for that purpose viz. for knowing Brahman as atma. For one who hasunderstood in this form - Anandam brahman is me iti - good and bad actions - they do notbegin another janma for him. Why? They are seen in the form of self. So they are neutralised.Previously karta was seen and so they bound him. No karta is there. So badhitam bhavati.Brahmvidya was over by saying ityupnishad. Nothing is left. We can ask why the nextchapter for other texts. Not for Veda. What does it say - should be the approach. Any book,we should find out what is the vivakshita artha. An author has to prove the need for hiscommentary. They have to be defended. Not Sruti one has to defend.
@@ -62,6 +80,8 @@ In the Anandavalli what is conveyed is said here briefly. Brahman which is satya
 All that is said here is not said before. That is the argument he gives for Sruti starting the nextsection. One thing highlighted here is tapas. Tapas is a beautiful word. Alocane.Indriyanigraha is commitment to the pursuit. Anything you want to accomplish, it is done bytapas alone. Like making money. Lottery buying is not tapas. You cannot come to Vedantaclass and make money. Once you have studied Vedanta, then it is different. Commitment isimportant. Application is necessary. She will not come unless you work for. It is calledindirya nigraha. Mind is not allowed to stray away on different things. You should haveniscaya as to what you want. This is general tapas. Here alocane. One is arat upakarakammeaning successively helpful. Yatah pravrittir+ Here siddhi he gains. Means is what? Byone's karma. How does he get it? Karma is arat upakarakam. It creates purity of mind andthen moksha. Like fire is mukhya sadhana. water etc is arat upakarakam. Vicara is important.Committed enquiry becomes means moksha. Indriyanigraha is also upakarakam. Sruti wantsto convey annadi upasanas also. The reverence to the world etc is important. All are isvara -this buddhi is necessary. That is created by the upasanas. They are all upakarakas. Not thatthey should be told. If elsewhere not said, it is assumed that you have got them when youcome to Vedanta. So the third valli is begun.
 
 (*ननु तर्हि तप-आदिकमेव वक्तव्यं न तु आख्यायिकापि। तत्राह - आख्यायिकेति*) आख्यायिका विद्यास्तुतये। (*ननु आख्यायिकया कथं स्तुतिलाभः। तत्राह - प्रियाय इति। पिता पुत्राय प्रशस्तामेव विद्यामुपदिशेद् न अन्यामिति रीत्याविद्यायाः प्रकर्षः लभ्यते इत्यर्थः*) प्रियाय पुत्राय पित्रा उक्ता इति। भृगुर्वै वारुणिः। वै-शब्दः
+
+
 
 प्रसिद्धानुस्मारकः, भृगुः इति एवंनामा प्रसिद्धः अनुस्मर्यते। वारुणिः वरुणस्यापत्यं वरुणंपितरं ब्रह्मजिज्ञासुः उपससार - अधीहि (*आ. गिरि - इक्स्मरणे इति धातुपाठाद् इत्यर्थः। अध्यापय स्मारय - ण्यर्थगर्भत्वमाश्रित्याह।*) भगवो ब्रह्म इति अनेन मन्त्रेण (*टिप्पणी - अनुष्टुभा। एतेन अस्य वचसः अब्राह्मणत्वंसूच्यते*) (*हे भगवन् ब्रह्म* *अधीहि स्मर उपदिश इति यावद् इति मन्त्रार्थः*)। स च पिता विधिवदुपसन्नाय तस्मैएतत् वचनं प्रोवाच - अन्नं प्राणं चक्षुः श्रोत्रं मनो वाचमिति। अन्नं शरीरं तदभ्यन्तरं च प्राणम् अत्तारम् उपलब्धिसाधनानि चक्षुः श्रोत्रं मनो वाचम् इतयेतानि^(**१**) (*ननु अन्नप्राणयोरुक्तिः अन्नंब्रह्मेति व्यजानात् प्राणो ब्रह्मेति व्यजानात् इति करिष्यमाणे विचारे उपयुज्यते, रूपाद्युपलब्धिसाधनानां चक्षुरादीनामुक्तिःक्व उपयुज्यते। तत्राह - ब्रह्मोपलब्धौ इति। वागादीनां चक्षुरादीनां च यथायथं प्राणादिकोशेषु अन्तर्भूतानांब्रह्मोपलब्धिद्वारत्वं विवक्षितमिति न चक्षुरादिकथनवैयर्थ्यमिति भावः*) ब्रह्मोपलब्धौ द्वाराणि (*आ.गिरि - लक्ष्य-त्वम्-अर्थविवेकाय द्वाराणि शरीरादिचेष्टा-अन्यथानुपपत्त्या हि साक्षिभूतः चिद्धातुः विविच्यते इति भावः*) उक्तवान्।
 
@@ -73,6 +93,8 @@ What did he say? Annam is Brahman. Pranam is Brahman. And so on. Then he pointed
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 **१.** अन्नं शरीरमिति भोग्योक्तिः, शरीरस्य अन्नपरिणामत्वेन भोग्यत्वाविशेषात्। प्राणमत्तारमिति भोग्तोक्तिः।उपलब्धिसाधनानि भोगकरणानि इत्यर्थः। तथा च त्रितयं विचारार्थमुपदिष्टं भवति इति भावः। (टिप्पणी)
+
+
 
 upalakshana for what is not said in senses etc. The eyes etc are means for recognisingBrahman. Adhishthanam is Brahman. For recognising it, they are means.
 
@@ -86,6 +108,8 @@ Beginning from Brahma to blade of grass or a worm. Nothing is omitted. Sarvam me
 
 Why not Kena quoted? There annasya annam is not there. That which is not prana but withoutwhich there is no prana. Not that there is another respiratory system. Yasya satta spurtipradanenaadhisthanam. Uta means and. It is eye of eye, prana of prana. Means it is neithereye or prana. It is not even vritti. Those who know this. They recognise Brahman. Puranammeans existent before srishti. This sruti shows that for the recognition of Brahman, eyes etc
 
+
+
 are dvaras or means. Bhrugu having listened to. Thinking mind never understands - discoverthis. Zen like practice. So you can never think. Bhrugu thought he has to connect it. He didtapas.
 
 (*ननु पित्रा तपसा ब्रह्म विजिज्ञासस्व इत्यनुक्तत्वात् कथं तपसि ब्रह्मविज्ञानसाधनत्वं भृगुणा विनिष्ठितम्। न हि तन्निष्टायंविना तत्र प्रवृत्तिः तस्य संभवति इत शङ्कते - कुतः पुनः इति*) कुतः पुनः उपदिष्टस्य एव तपसःसाधनत्वप्रतिपत्तिः भृगोः। (*परिहरति - सावशेषः इति*) सावशेषोक्तेः। (*गुरूक्तार्थानुवादपूर्वकं तदुक्तेःसावशेषत्वं साधयति - अन्नादीत्यादिना) अन्नादिब्रह्मणः प्रतिपत्तौ द्वारम्। (ब्रह्मणः प्रतिपत्तौ द्वारभूतं अन्नादिकं“अन्नं प्राणम्” इत्यादिना उक्तवान् इत्यर्थः*) लक्षणं च यतो वा इमानि इत्याद्युक्तवान्। सावशेषं हि तत्।(*यद्भूतजन्मादिकारणं तद्ब्रह्म, तत्प्रतिपत्तौच अन्नादि द्वारम् इत्येतादृशमुपदेशनं सावशेषमिति)।*साक्षाद्ब्रह्मणोऽनिर्देशात्। *(त्वं ब्रह्म इत्यपरोक्षतया ब्रह्मणो निर्देशाभावादित्यर्थः)*। अन्यथा हि(*सावशेषत्वाभावे हि*) स्वरूपेण एव (प्रत्यक्त्वेन एव इत्यर्थः) ब्रह्म निर्देष्टव्यं (*भृगोर्वास्तवस्वरूपज्ञाने ताटस्थ्यंवारयति - जिज्ञासवे इति*) जिज्ञासवे (*गुरोर्वास्तवस्वरूपबोधने उपेक्षां वारयति - स्वपुत्राय इति*) स्वपुत्रायइदमित्थंरूपं ब्रह्म इति। (*"इदं त्वया पृष्टं ब्रह्म, इत्थं रूपं तव देहे बुद्ध्यादिसाक्षितया उपलभ्यमानचैतन्यरूपम्"इति निर्देष्टव्यमिति योजना*)। न च एवं निरदिशत्। (*अनुपलम्भात्*)। किं तर्हि। सावशेषमेवोक्तवान्।अतः अवगम्यते नूनं साधनान्तरम् (*स्वस्मिन् विधिवदुपसदनादिलक्षणं यत्साधनमस्ति तदपेक्षयाअन्यत्साधनमित्यर्थः*) अपेक्षते पिता ब्रह्मविज्ञानं प्रति इति।
@@ -96,9 +120,13 @@ How for Bhrugu, this understanding that tapas is the sadhana took place. Varuna 
 
 Tapas is most important thing. Committed pursuit is tapas. It is exalted among all tapas. In theworld it is well known that tapas is most important means for anything. Niyata... vishayanam
 
+
+
 is adjective to sadhananam. Sadhana for which vishaya is that which has definite results. Youdo not allow yourself to be distracted by other things while doing one thing. That is tapas.This is general rule. Here the end being knowledge, it is vicara. Bhrugu understood tapas asmain means for brahmavidya.
 
 What is that tapas? Samadhana of external organs is application. Disco and Ph.D cannot gotogether. You are all doing tapas only. Because there is only one thing. No TV. No Movie.Indriyas are simple reporters. They do not goad you. Fancies can raise in one's mind. Youhave to choose with which you will go along. It is lakshana. There is no control. Samadhanais the means for gaining knowledge. A smriti is quoted. Placing them in one thing is tapas.
+
+
 
 **Anuvaka 2**
 
@@ -107,6 +135,8 @@ What is that tapas? Samadhana of external organs is application. Disco and Ph.D 
 Student had two clues. The first is he has an annamaya and second is that Brahman is upadanakaranam. He tried to join this definition and annamaya. Because all beings are made up ofannamaya. So he thought over and all these annamayas are born out of annam. Annamaya isborn of, sustained and resolve back into annam alone. Annam refers to samashti annam, thecause and annamaya refers to vyashti annam, the karyam. There we saw, the maya is a suffixadded in Sanskrit and when you add maya to the word, it indicates the product of that likesvarnamaya and mrnmaya. The very word annamaya indicates it is product of annam. Whenwe say svarnamaya, svarnam is cause and it is the product of svarnam. It is upadana karanam.Maya is added only to upadana karanam. You cannot say kulalamayah ghatah. Lohamayahpithah. When you say annamayam sariram. Sariram is product and annam is the materialcause. It is clear that annat upadanakarnat, annamaya ni bhutani jayante. Annenaupadanakaranena annamayani bhutani jivanti. Anne upadanakarane eva annamayani bhutaniliyante. The definition of Brahman is perfectly fitting withannam.Brahmalaksanam is yato+So what is Brahman? Annam. Annasya sarvaupadana karanatvat sarvesham bhutanamannakaryatvat ca. Bhrugu was happy. He knew Brahman as annam. After doing tapas, herecognised. To prove that he is correct, he is trying to fit in annam with the definition ofBrahman. If he has correctly discovered, the definition must fit. So he does that. From annamalone all these beings are born. Bhutani here means annamayani. Here annam stands for alltypes of food. In the place of yatah he replaces annam. That is why annam is said to be thatwhich consumes beings ultimately. Was happy for a minute. Further thought came and hewas not satisfied. Annam itself is subject to change. Yat svaikaram tat adyantavat. Whateveris subject to change has beginning and end. Vikaram are six in number. So destruction also isthere. Adyantavat is karyam. two steps. Savikaram is karyam. It cannot be mulakaranam.Ultimate cause. My parents can not be the ultimate cause. They themselves are product. Soannam cannot be final cause as it happens to be karyam. Brahman is mulakaranam. SoBhrugu got disappointed. Like Anjaneya who got disappointed when he saw Mandodari andconcluded as Sita but immediately discovered to be not Sita. How can Sita be sleeping withRavana. Bhrugu therefore went to the next class.
 
 Again he went back to father, having taken annam to be Brahman. He asked him, father-cum-guru, please teach me Brahman. This is in quotes. Bhrugu's words. Varuna told him. Tam hauvaca. What did he say: Tapasa+ Bhrugu must have told all the details of his vicara. I thoughtannam is Brahman. Because it is cause of all beings. But I am not satisfied with thisconclusion. Therefore teach me. - All these we have to infer. Otherwise father will not know
+
+
 
 whether enquiry is in right direction or not. Here father is confirming that the enquiry is in theright direction. He asks to continue the enquiry. From this we understand, the son must havetold him everything.
 
@@ -122,7 +152,11 @@ Bhashya
 
 He understood food as Brahman. It is a level of understanding. It has brahmalakshanam.How? All pranadharis, living beings are born from food, virat. Andajam, svedajam udbijjamand jarayujam. Jivanam includes all growth etc. At the end, body goes back to virat. Virat isfive elemental world. That is why it never gets impoverished. Body cannot disappear. It goestowards food andmerges there, sastra says. Annam is badhitam. Badhayamsamanadhikaranyam. Because Prana is Brahman. And so on. Ananda is Brahman. There is nobadha. It is svarupa. In the temple there is mula deity and utsava deity. Mula is stone andutsavais bronze. Someone said, utsavar has gone out (on procession). When does mula deitywill go out. Because you have come, will he remain. he will also move out. Simialrly, wheneverything is badhayam samanadhikaranyam, do not ask ananda also similar. Having donethis tapas, applying lakshanam and upapaptti is connection. Then doubt comes. So he asks.Anna has beginning. Sruti said. So karya. 1) *smahatatvat* karyam. Again, 2) *pranam is notcovered.* That is also a basis for doubt. 3) *Annam alone does not cause* the body. Heap themtogether. Nothing is born. It has to be consumed by a live person. From life alone life is born.Without life, it is not possible. Whether it is microbe to maharaja, life from another life alone
 
+
+
 like one lit candle alone can light up another candle. Associated with prana alone annam iscause. 4) Annam causes *durgandha and waste.* How can it be pure Brahman. He thereforeasks. Tapas is praised here by saying tapa is Brahman. Stuti is not just flattering. It is atechnical word. Highlighting qualities of a given subject matter etc. Praise has no flatteryhere. Acaryavan purusho veda. Acaryavatvam is praised. Jijnasa will go away only whenunderstanding is complete. Samadhanam means tattvavicara. It implies commitment also. Itis not slipshod enquiry.
+
+
 
 **Anuvaka 3**
 
@@ -134,11 +168,15 @@ Swami Dayanandaji
 
 Bhrugu did not get angry when he repeatedly says tapasa+. Everytime he went, there issraddha. So it paid him. Father did not contradict him at all. Everytime he got his approval.
 
+
+
 **Anuvaka 4**
 
 ** मनो॒ ब्रह्मेति॒ व्यजानात्। मनसो॒ह्येव खल्वि॒मानि॒ भूतानि॒ जायन्ते। मनसा॒जातानि॒ जीवन्ति। मनः॒ प्रयन्त्य॒भिसंविश॒न्तीति। तद्वि॒ज्ञाय। पुनरे॒व वरुणं॒पितर॒मुपससार। अधीहि भगवो॒ ब्रह्मेति। तꣳहोवाच। तपसा॒ ब्रह्म॒विजिज्ञासस्व। तपो॒ ब्रह्मेति। स तपोऽतप्यत। स तपस्त॒प्त्वा।**
 
 Bhrugu does not give up. He understands vijananm to be Brahman. Mind also in the hands ofahankara. Vritti vikaras are known to ahamkara. Mahat tattvam is vijnanam. Ahamkara alsosushuptau laya darsanat. (Sw Paramarthananda - Mind here is samashti mind. In previouscases also samashti. How to differentiate between the vyashti and samasti. Maya added, it isvyashti. Here also definition fits. From the total mind, individual mind is born, sustained andgoes back. But mind also svikaram. While giving answer itself, it is changing. It cannot bemula karanam.)
+
+
 
 **Anuvaka 5**
 
@@ -147,6 +185,8 @@ Bhrugu does not give up. He understands vijananm to be Brahman. Mind also in the
 Swami Paramarthananda
 
 Here also samashti is meant. We can call HG. Here also lakshanam fitting. So vijnanamBrahman. Not satisfied. Vijnanam also in the form of vrittis. Ghatavijnanam is ghata vritti.Vijnanam keeps changing. Savikaratvat karyam. Karyatvat na mula-karanam. Again goesback. Varuna does not become wild. He asks him to enquire further.
+
+
 
 **Anuvaka 6**
 
@@ -164,6 +204,8 @@ Why not caitanyam know its own changes. No instrument can know its own changes. 
 
 Enquiry successfully completed. So no punareva. He told the king I want to teach bhagavata.King asks him to learn further as you have not completed. Few times he sent him like that.Then he does not come back. King went to him and requested him. So father must have goneto him and congratulated him. This vidya is known as Bhargavi or Varuni. This wisdombegan from anna and where was the culmination of enquiry? It came more and more interior.
 
+
+
 It culminated in atma. Parama vyoma is space in the heart which is supreme space. Brahmanis manifest as cidakasa in heart alone. It is like garbhagriha. Caitanyam is the Lord there.Even though Lord is everywhere, but in temple Lord is invoked. So too Lord is pervading thebody and everything else. In hrdayam he is manifest. Why in hrdayam? Is it not in mind?Physical heart is locus of mind according to sastra. (*No spiritual heart meant by Sankara*). Inmind cidabhasa is there. In this mind he discovered Brahman. Yo veda nihitam+
 
 Now phalam is said. It is for who ever gains the same knowledge. For any yuga it is same.One who knows thus he gains pratishtha, establishment in life. Like idol is installed insanctum, He will not go through ups and downs. He will have problems. But they do notaffect him. They lose their capacity to shake him. He is well installed. This is jivanmukti. Notonly he enjoys jivanmukti. He will enjoy even relative pleasures of life. He will have plentyof annam. He will be prosperous. He also will enjoy the food. He has no worry. He becomesgreat because of his wisdom. If sanyasi, praja is sishya. If sanyasi - ashram is wealth. Lot ofcattle, gosala. Mind is bright. So body also bright. Great by his fame also. All because ofteaching. They are not for his enjoyment.
@@ -175,6 +217,8 @@ In sleep ahamkara is not there. In ananda avastha also, there is no real ahamkar
 Here the lakshanam is complete. You cannot go further. Anantam is maximum. Yat iscompletely replaced by the word anandam. If ananda atma is born, Brahman is born. Thatcannot be. The ultimate cause has to be causeless. Why the story does not tell he came back.Did he not require father. No. The job is over. It is not a story for a movie. He came back andgave a hug to father. He said subham etrc. Story is intended for highlighting some values, thatis all. Enquiry is successful - this also is pointed out. Anyone also can discover like Bhrugu.Bhrugu must have come back and talked to his father. That is different thing.
 
 एवं तपसा विशुद्धात्मा (*विशुद्धान्तः करणः इत्यर्थः*) प्राणादिषु साकल्येन ब्रह्मलक्षणमपश्यन् शनैःशनैः अन्तरनुप्रविश्य आन्तरतमम् (*सर्वान्तरतमम्*) आनन्दं ब्रह्म विज्ञातवान् तपसा एव साधनेनभृगुः। (*भृगोः तपसा एव ज्ञानमुत्पन्नमिति वदन्त्याः श्रुतेः तात्पर्यमाह - तस्मादिति*) तस्मात् (*तपसा* *एवज्ञानोदयदर्शनात्*) ब्रह्म विजिज्ञासुना बाह्यान्तःकरणसमाधानलक्षणं परमं तपः साधनमनुष्ठेयमितिप्रकरणार्थः। अधुना आख्यायिकातः अपसृत्य (*कथारूपत्वं परित्यज्य* ) श्रुतिः स्वेन वचनेनआख्यायिकानिर्वृत्तम् अर्थमाचष्टे। सा (*पूर्ववल्ल्यां प्रकृता*) एषा (*अस्यां वल्ल्यांसंनिहिता*) भार्गवी भृगुणाविदिता (*प्राप्ता*) वारुणी वरुणेन प्रोक्ता विद्या। परमे व्योमन् हृदयाकाशे गुहायाम् (*वर्त्तमाने इतिशेषः)* आनन्दे अद्वैते प्रतिष्ठिता (*हृदयाकाशाख्ये* *परमे व्योम्नि या गुहा बुद्धिः तस्यां य आनन्दः तस्य कारणत्वाद्अद्वैतत्वम्। तस्मिन् प्रतिष्ठिता*) परिसमाप्ता (*कस्मादारभ्य प्रवृत्तायाः विद्यायाः प्रत्यगानन्दे* *परिसमाप्तिः उच्यते -तत्राह अन्नमयादिति*) अन्नमयादात्मनः अधि प्रवृत्ता (*अन्नं ब्रह्मेति आरभ्य)*। य एवम् अन्योऽपि तपसा एव
+
+
 
 साधनेन अनेनैव क्रमेण (*अन्नादिषु ब्रह्मलक्षणयोजनारूपेण एव प्रकारेण*) अनुप्रविश्य (*अन्नादिषुब्रह्मत्वबुद्धिपरित्यागपूर्वकं*) आनन्दं ब्रह्म वेद स एवं विद्याप्रतिष्ठानात् प्रतितिष्ठति आनन्दे परमेब्रह्मणि, ब्रह्मैव भवति इत्यर्थः।
 
@@ -188,6 +232,8 @@ What is the seen result. He becomes annavan. matup means plenty. He has sishyas 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  **२**.भूमनिन्दाप्रशंसासु नित्ययोगेऽतिशायने। संबन्धेऽस्तिविवक्षायां भवन्ति मतुबादयः।
+
+
 
 **Anuvaka 7**
 
@@ -205,6 +251,8 @@ By this meditation we will see the whole creation as one web where we cannot thi
 
 First we will see a value that is prescribed. A vrata is given. Then upasana. Vrata is may onenot do ninda of food. Vrata is value or discipline. Disregard or insult or disrespect. Annam is
 
+
+
 food. Why not do ninda. Any reason you can give. 1) When annam is samashti, it is Virat. Asvirat, it has to be respected.2) When you look at vyashti level, it is annamaya. Annam atvyashti level also respected as annamaya. Why annamaya to be respected. a) That is the basicrequirement. Basic instrument. Sariram adyam+ A little hunger is there, you cannot listen.Body is necessary for all pursuits. b) It is stepping stone through which one goes topranamaya etc. It is gateway to Brahman. Just as temple door is respected, they touch andtake to eyes. it is gate to the Lord. So when we serve food, if it falls on the way, they removeit immediately. So that no body trample on it. like you do not step on book.
 
 Now upasana. It is seeing the interdependence of things in the creation. As an example a pairof things are given. Prana and sariram. Prana, the life breadth and sariram the body. How theyare interrelated? prana and body are inter-related in the form of anna and annada sambandha.What do you mean by it? Literally annam is food. Annada is eater. Here who is eater and whois eaten? From one angle, prana is eater. Body is eaten. From another angle, body is eater andprana is eaten.
@@ -218,6 +266,8 @@ See text. Thus one annam is supported by another annam. Prana is one annam and b
 Phalam is given. One who meditates on this aspect of anna established in anna, he getssupport. As the upasana is, so the phalam. Since upasana is supporter-supported, I will getplenty of support. Other things are said before.
 
 किं च अन्नेन द्वारभूतेन ब्रह्म विज्ञातं यस्मात् तस्मात् गुरुमिव अन्नं न निन्द्यात् (*यदृच्छयाचोपपन्नम् अद्यात् श्रेष्ठमुतावरम् इति स्मृतिदर्शनात्*।) तत् अस्य एवं ब्रह्मविदः व्रतम् उपदिश्यते। (*ब्रह्मविदःकर्त्तव्याभावात् कथं तस्यानुष्ठेयतया व्रतम् उपदिश्यते. तत्राह - व्रतोपदेशः इति* ) व्रतोपदेशः अन्नस्तुतये। (*शरीरमनआदिरूपेण परिणतिद्वारा अन्नस्य विद्यासाधनत्वात् इत्यर्थः*) स्तुतिभाक्त्वं च अन्नस्य
+
+
 
 ब्रह्मोपलब्ध्युपायत्वात्। प्राणो वा अन्नम्।^(३) (*कथं प्राणस्य अन्नत्वमित्याशङ्क्य प्रसिद्ध-अन्न-सादृश्याद्इत्याशयेनाह - शरीरे इति*) शरीरे अन्तर्भावात् प्राणस्य। (*एतदेव* *विवृणोति - यद्यस्य इति*) यद्यस्यान्तःप्रतिष्ठितं भवति, तत्तस्यान्नं भवतीति। (*प्राणो वा अन्नं इत्यत्र हेतुप्रतिपादकत्वेन शरीरे प्राणः प्रतिष्ठितः इतिवाक्यमाकृष्य योजयति - शरीरे च इति*) शरीरे च प्राणः प्रतिष्ठितः। तस्मात् (*प्राणस्य शरीरे प्रतिष्ठितत्वात्इत्यर्थः*) प्रणः अन्नम्। शरीरमन्नादम्। (*प्राणे शरीरं प्रतिष्ठितम् इति वाक्यसंगत्यर्थं श्रुतौ अपोक्षितं पूरयति -तथेति*) तथा शरीरमप्यन्नम्। प्राणोऽन्नादः। कस्मात्। प्राणे शरीरं प्रतिष्ठितम्। (*प्राणे शरीरस्यअन्तर्भावे अपि प्रणाधीनस्थितिकत्वमात्रेण अन्नत्वविवक्षा* *इति भावः*) तन्निमित्तत्वात् शरीरस्थितेः। तस्मात्तदेतत् उभयं शरीरं प्राणष्टा अन्नमन्नादं च। येन अन्योन्यस्मिन् प्रतिष्ठितं तेन अन्नम्। येनअन्योन्यस्य प्रतिष्ठा तेन अन्नादः। तस्मात् प्राणः शरीरं च उभयमन्नमन्नादं च। स य एवं एतद्अन्नमन्ने प्रतिष्ठितं (*अन्नमन्ने प्रतिष्ठितम् अन्नादमन्नादे प्रतिष्ठितम्*) वेद प्रतितिष्ठति (*चिरं जीवति*)अन्नान्नदात्मनैव (*शरीरप्राणात्मनैव*) किं च अन्नवानन्नादो भवति इत्यादि पूर्ववत्॥
 
@@ -234,6 +284,8 @@ Outside also annam. Body also annam. Since food is means for knowing Brahman, on
 
  **३.**यथा शरीरस्य अन्तरे भुक्तमन्नं भवति तथा शरीरमध्ये अवस्थानात् प्रणः एव अन्नम्। मध्यवर्त्तिनस्तस्य प्राणरूपस्यअन्नस्य धारणात् शरीरमन्नादम् भोक्तृरूपं गृहमध्यवर्त्तिस्तम्भवत् देहमध्यवर्त्तिप्राणस्य गेहधारित्वात् प्राणे शरीरम्प्रतिष्ठितम्। शरीरस्य प्राणधारणत्वम् प्रत्यक्षम्। देहस्यापि अन्नत्वं अन्नकार्यत्वात्। (सायन)
 
+
+
 brahmaupasaka. Looking upon Jagat as Isvara, jagat as reverential is vrata i.e., niyamenaanushthitam is vow.
 
 It is for the stuti of annam. How annam gets this status of object of praise. Because, it ismeans for knowing Brahman. Also brahma-karyatvat. So brahmaupalabdhi upaya. Fromkarya you recognise karana.
@@ -241,6 +293,8 @@ It is for the stuti of annam. How annam gets this status of object of praise. Be
 Here is a magic. Annam is that which is eaten. Prana is annam. Pranapana samyuktah+ Pranais eaten. Anything inside the body is annam. Food goes inside after eaten. prana obtains in thebody. Prana itself is modified form of annam. If annam is not there, prana will go away. Pranadepends on annam. Annam to be eaten, depends upon prana. So mutual dependence. How?Because both are Brahmasraya. Both reveal Brahman as satyam. Like food, prana is insidebody. So prana is annam. Prana sustains by food. Annakarya is prana.
 
 That which obtains within something else, that becomes the anna of that other. This is a wayof looking at things. Annada becomes annam and anna becomes annada. This is what Srutiwants to say. Everything is born out of one karanam. Hence it is so. Similarly body becomesannam. Prana, the brahmatma becomes annada. Without prana, body has no existence. Sowhich is asraya and which is asrita difficult to say. So it is mithya. Anyah anyasminpratishthitam. So both are annam. Anyah anyasya pratishtha. So both are annada. Brahman isboth. One who meditates that Brahman as anna or annada is established in the other gainspratishtha. He does not get isolated. Entire jagat is annam. Viradatma. Eater-eaten bheda,separation is not there means isolation is gone. He remains as sarvatma at that level as anna-annada. Isvara as karyatma is always for uapsana. Or it is to gain attitude based onunderstanding.
+
+
 
 **Anuvaka 8**
 
@@ -256,6 +310,8 @@ The second pair was water and fire. Anna-annada smabandhavat and pratishtha-prat
 
 So too water and fire are supporter-supported. How? Water is supporter. Fire is supported.From one angle water is supporter of fire. How? If you look at your own body, body has gottemperature. You know this temperature is maintained always. If it goes high, there is feverand death. Low also you will die. There is thermostat working. Even in Kashmir, bodytemperature is maintained. In summer, in gulf, it is maintained. Water alone is maintainingthat. You keep on sweating. It is heated water removed and you keep drinking fresh water.Water serves as thermostat. A person who had defective birth and this thermostat was notworking. The child was put in special encasement and they had certain special circulation andall, and if it was not done. it would have died. Bhagavan has given beautiful system. But wedo not recognise that. Water is pratishtha and fire is pratishthita. As maintainer of body heat,it is pratishtha. As maintained, it is pratishthitam. One commentator gives another peculiarexample. He gives the phenomenon of lightning. During rainy season when clouds are full of
 
+
+
 water at that time alone lightning comes. Lightning is energy or fire only. So water in theatmosphere is maintaining lightning which is fire and so water in the clouds is supporter andfire in the form of lightning is supported. The idea is you should see the inter-relationship.
 
 Similarly in another angle, water becomes supported and fire is supporter. Roles are reversed.. From the creation angle, we can find, from fire came water. Cause is fire and water is effect.Cause sustains the effect. Fire as cause is pratishtha and water as effect is pratishthitam.
@@ -270,6 +326,8 @@ Do not throw away food. Why? It is for stuti. It is isvarasvarupam. Why people t
 
 Apa vai annam. Water taken is annam. It is inside once drunk. Again after sometimes youwant water again. It is evaporated by the fire that is there in the stomach. Jyotih is fire. Vedafollows grammar. Jyotih is neuter. So annadam. It is not ikaranta. It is sakaranta. In the formof sweat and all it goes out. Fire being cause, water is supported by fire. Body temperaturewill go away, if water is not there. So in water alone, fire is supported. In karya is karana andvice versa like seed and tree. Everything depends on one satyavastu which is free from anyrelationship. If the phalam is not gained here, next life. It is adrshtaphalam.
 
+
+
 **Anuvaka 9**
 
  **अन्नं ब॒हुकुर्वीत। तद्व्र॒तम्। पृथि॒वीवा अन्नम्। आ॒का॒शोऽन्ना॒दः।पृथि॒व्यामाका॒शः प्रतिष्ठितः। आ॒का॒शे पृथि॒वी प्रतिष्ठिता। तदे॒तदन्न॒मन्ने॒प्रतिष्ठितम्। स य ए॒तदन्न॒मन्ने॒ प्रतिष्ठित॒म् वेद॒प्रतितिष्ठति। अन्नवानन्ना॒दोभवति। म॒हान् भवति प्र॒जया प॒शुभिर्ब्रह्मवर्च॒सेन। म॒हान् की॒र्त्या।**
@@ -282,6 +340,8 @@ In reverse, space is eaten and earth is eater. From the angle of content and con
 
 Next supporter-supported sambandha. From the angle of content-container angle, earth issupporter and space is supported. Space as within is content in pot, stomach, room etc andearth is container. Space will get its value only when it is contained within. When house isbuilt, you are living in space alone which is all over but which has no benefit. What do youown, he was asked. Do you own ground? No. Do you own your floor? No, is ceiling ofanother. etc. For space we pay. But that space is useful only when there is container or fourwalls. Space value is given by the container which conditions the space. Form that angle earthis supporter, earth as building, vessel etc. You cannot bring water in space.
 
+
+
 So earth became arrogant. Space said, mind you. I am your supporter. Space is supporter fromthe angle of cause-effect relation. As effect earth is supported. It is the context of creation.Cause alone supports effect. So purvavat. Phalam of annada means he is good eater. Goodeating is sign of health. So he will be healthy. All these results will be for sakama upasaka.Result of nishkama upasaka is purity of mind and single-pointedness of mind. I will be neverarrogant.
 
 अब्ज्योतिषः अन्नान्नादगुणत्वेन उपासकस्य अन्नस्य बहूकरणं व्रतम्।
@@ -289,6 +349,8 @@ So earth became arrogant. Space said, mind you. I am your supporter. Space is su
 Pujya Swamiji
 
 May you produce lot of annam. One who is looking water and fire as anna and annada this isvrata. Earth and space is taken here. Space is contained in earth. Space is cloth for earth.Ambaram. Earth is wrapped by space. From another angle, space is in stomach all around.Space is supported by earth. All elements have been covered. All of them are Annam Brahma.Annarupam brahma or karyam brahma.
+
+
 
 **Anuvaka 10**
 
@@ -302,6 +364,8 @@ Not only that. Once accommodation is given, food also becomes necessary. They do
 
 Etat vai+ Mukhatah means in the best manner, mukhya prakara. Food prepared in the bestmanner and served in the best manner. When he is placed in the similar circumstance, he willget it that way. Raddham means prepared and served. Radhyate means he is also served in
 
+
+
 the same manner. If it is mediocre manner, he gets the same manner. Antatah means in thelowest manner. Like for giving to priests etc they have special cheap things. It is not going togive any benefit. What we eat, we give to guests. One who knows thus and practices. Vedadoes not mean upasanam. One who knows the glory of anndanam, and the one who practicesthat, - the upanishad leaves the sentence incomplete. So Sankara completes that such a personwill definitely get the result of annadanam. We are entering into some more upasanas.
 
 तथा पृथिव्याकाशोपासकस्य वसतौ वसतिनिमित्तं कंचन कञ्चिदपि न प्रत्याचक्षीत नप्रत्याख्यानं कुर्वीत। वसत्यर्थमागतं न निवारयेद् इत्यर्थः। वासे च दत्ते हि अवश्यमन्नंदातव्यम्। तद्व्रतम् (*अन्नान्नादत्वगुणकत्वेन पृथिव्याकाशद्वयोपासकस्य स्वगृहे वासार्थमागतं न निवारयेदित्येतद् व्रतमित्यर्थः*।)। तस्माद्यया कया च विधया येन केन प्रकारेण बह्वन्नं प्राप्नुयात् बह्वन्नसंग्रहं कुर्याद्इत्यर्थः। (*बह्वन्नसंग्रहे वसत्यर्थमागतानाम् अप्रत्याख्यानरूपं व्रतमेको हेतुरुक्तः। तत्रैव विद्वदाचाररूपं हेत्वन्तरमाह -यस्मादिति*) यस्माद् अन्नवन्तः विद्वांसः अभ्यागताय अन्नार्थिने अराधि (*राध् ५ प.प संसिद्धौ राध्नोति toprepare*) संसिद्धम् अस्मै अन्नमित्याचक्षते न नास्तीति प्रत्याख्यानं कुर्वन्ति, तस्माच्च हेतोःबह्वन्नं प्राप्नुयात् इति पूर्वेण संबन्धः।
@@ -313,6 +377,8 @@ When lot of annam is there, then only a vidvan can say, ‘food is ready, please
 (*एवं संगृहीतमन्नं सर्वदा पूजापुरस्सरमेव अर्थिभ्यः देयं, नान्यथा, 'श्रद्धया देयम्' इत्यादिदर्शनाद् इत्याशयेनाह - अपिचान्नदानस्य इति*) अपि च अन्नदानस्य माहात्म्यम् - यथा यत्कालं प्रयच्छत्यन्नम् तथा
 तत्कालमेवप्रत्युपनमते। (*तत्र मानं पृच्छति -* *कथमिति*) कथमिति। (*श्रुत्योत्तरमाह - तदेतदाह इति*) तदेतदाह - एतद्वै(*the fact is this:*) अन्नं मुखतः मुख्ये प्रथमे वयसि मुक्यया वृत्त्या (*मुख्यामेव वृत्तिं विवृणोति - पूजेति*)पूजापुरस्सरम् अभ्यागताय अन्नार्थिने राद्धम् संसिद्धम् (*प्रयच्छति*) इति वाक्यशेषः। तस्य किंफलं स्यादिति उच्यते - मुखतः पूर्वे वयसि मुक्यया वृत्त्या अस्मै अन्नदाय अन्नं राध्यते। यथादत्तमुपतिष्ठते इत्यर्थः। एवं मध्यतः मध्यमे वयसि मध्यमेन उपचारेण तथा अन्ततः अन्तेवयसि जघन्येन उपचारेण परिभवेन तथैव अस्मै राध्यते संसिध्यत्यन्नम् । य एवं वेद य
 
+
+
 एवमन्नस्य यथोक्तं (*कार्यकरणसंघातोपचयादिद्वारा ब्रह्मविद्यासाधनत्वरूपमित्यर्थः*) माहात्म्यं वेद तद्दानस्य चफलं (*च वेद*) तस्य यथोक्तं (*अन्नदानादि)* फलम् उपनमते।
 
 Now further, there is glorification of anna dana. There are two types of danam. One vidya andanother food. You never become poor by giving annam. So too by giving vidya. Brhamavidyadanam alone, he will say enough. Anna danam - it does not come totally. May be for the timebeing he will say enough. Purnah. Even though he may be sad that so much is there, still Icannot eat. He may not say trptah. But he will say purnosmi. I cannot take anymore iti. Invidyadanam it is always purnah. In annadana, he is ready after another three hours. It istemporary. Annadana has mahatmya. Annam is Brahman,. It does not belong to you. Whattime he gives, that time alone he gets back in the next life. In middle age some give. Thenthey get back in middle age next life. Because it is apurvam. In old age he gives because sonsare useless. I am not going to give you anything iti. He will get that time or in the next life inthe same form.
@@ -322,6 +388,8 @@ How do you say he gets it back same form. Mukhatah means at the prime age or you
 Refer to Sattvika, rajasa and tamasa danam. (*datavyamiti yat+*) (*yattu...phalamuddisya.. diyateca pari.. taddanam rajasam+) (adesa..yadanam.. apatrebhyasca..asatkrtam. tattamasamudahritam*)
 
  **क्षेम इति वाचि। योगक्षेम इति प्राणापा॒नयोः। कर्मेति ह॒स्तयोः। गतिरितिपा॒दयोः। विमुक्तिरिति पा॒यौ। इति मानुषीः समा॒ज्ञाः। अथ दै॒वीः। तृप्तिरिति**
+
+
 
 **वृ॒ष्टौ। बलमिति वि॒द्युति। यश इति प॒शुषु। ज्योतिरिति नक्षत्रे॒षु।प्रजातिरमृतमानन्द इत्युप॒स्थे। सर्वमित्याका॒शे।**
 
@@ -335,6 +403,8 @@ Here you should remember that the Upanishad does not complete the sentences. It 
 
 Karmeti hastayoh. In the hand what is the power. It is karma. If you take a note book andwrite what all things done by the hands, it is endless. So much power is there in hand. Twosmall hands. It is the glory of Brahman. Padayoh gatiriti Brahma upasita. In feet asmovement. Value of leg will become clearer when you become old. Every bone and muscleyou will become aware of. payau+ payuh means organ of excretion. Anus. Vimuktih meansevacuation. It is asaucam this is our concept. Any organ if you think is inferior, if it doesnot function, we will know its importance. It is as important as the mouth is. If that cycle is
 
+
+
 not maintained, a person cannot survive. This upasnaa is to get an idea that everything issacred in the universe. You cannot look down upon anything. So respect every organ of yourbody. Thus is concluded the upasanas pertaining to manushya. One more will come later fromthe next section. Prajatih amrtam anandah iti upasthe. In the organ of generation Brahmanmust be meditated as the creative power in the genital organ. This is also adhyatma upasana.
 
 Atha daivih. We have to supply samajnah. Samajnah means upasanani. Daivih meansadhideivata. Previously it was adhyatma. Now adhideiva. We are going to take cosmic forces.We think that these forces belong to nature. But Upanishad says they do not belong to inertnature. They belong to cetana Brahman. Each power in nature will be taken and we willmeditate on Brahman as manifesting in various places.
@@ -347,12 +417,16 @@ Bala rupena vidyuti Brahma upasita. Vidyut means lightning. You know lightning c
 
 Pasu means cattle. Cattle in olden days is the wealth of a person. The more the cattle, themore prosperous he is. He is therefore well known in the society for his prosperity. So pasu isa symbol of yasas meaning fame. Pasushu yasorupena Brahma upsita. Jyotih is brilliance orlight. Meditate on Brahman as light in the stars. Comparison of Brahman to light is only formeditation. People misunderstand and say Brahman is light. I saw Brahman and all. Nextsentence, Prajati +, should go to adhyatma upasana. Then Brahman is to be meditated upon aseverything. Sarvam khalu idam Brahma is not a sentence we should quote here. That is jnanavakyam. Where? In the space.
 
+
+
 (*प्राणो वा अन्नम् इत्यारभ्य ब्रह्मोपासनानि उक्तानि इति सूचयति - इदानीमिति*) इदानीं ब्रह्मणः उपासनप्रकारःउच्यते - क्षेम इति वाचि। क्षेमः नाम उपात्तपरिरक्षणम् (*स्थितपरिपालनम्*)। ब्रह्म वाचि क्षेमरूपेणप्रतिष्ठितम् इति उपास्यम्। योगक्षेम इति (*प्राणे योगरूपेण अपाने क्षेमरूपेण च ब्रह्म प्रतिष्ठितमितिउपास्यमिति विभागः*) योगः अनुपात्तस्य उपादानम्। (*प्राणापानयोः योगक्षेमरूपेण ब्रह्मदृष्ट्यालम्बनत्वे हेतुमाह -तौ हि इति*) तौ हि योगक्षेमौ प्राणापानयोः सतोः भवतः, (*ननु यदि प्राणापानाधीनौ योगक्षेमौ तर्हि तावेवप्राणापानयोः द्रष्टव्यौ, न तु ब्रह्म इत्याशङ्क्य आह - तथापीति*) तथापि (*प्राणापाननिमित्तकत्वे अपि*) नप्राणापाननिमित्तौ एव। किं तर्हि। ब्रह्मनिमित्तौ (ब्र*ह्मनिमित्तौ अपि इत्यर्थः। ब्रह्मणः
 सर्वफलदातृत्वस्यशास्त्रसिद्धत्वादिति भावः*)। तस्मात् ब्रह्म योगक्षेमात्मना प्राणापानयोः प्रतिष्ठितम् इति उपास्यम्।एवमुत्तरेषु अन्येषु तेन तेन आत्मना ब्रह्म एव उपास्यम्। कर्मणः ब्रह्मनिर्वर्त्यत्वात् (*ब्रह्मणःकारयितृत्वादिति भावः*) हस्तयोः कर्मात्मना ब्रह्म प्रतिष्ठितम् इति उपास्यम्। गतिरिति पादयोः।विमुक्तिरिति पायौ (*विमुक्तिः विसर्गः*)। इति एताः मानुषीः मनुष्येषु भवाः मानुष्यः समाज्ञाःआध्यात्मिक्यः (*मानुष्यः इत्यस्य पर्यवसानमाह - आध्यात्मिक्यः इति*) समाज्ञाः ज्ञानानि विज्ञानानिउपासनानि इत्यर्थः।
 
 Now the various ways of meditating on Brahman or looking upon Brahman. Brahman, karanaBrahman, or Isvara is everything. Where we have to look for him? That is said here. In thespeech, Bhagavan is there. How he is sitting? As one who protects you, your dignity, yourculture, your wealth, your health etc. Wrong talking means you get it. Look at in the vak asthe kshema. So you have to be careful in talking. Kshema means protection of what is earnedor gained. All kinds of wealth, your name, your power, your wealth and health - all these havebeen assiduously gathered by you over time. All of them are wealth. Retention of that is noteasy thing. Look at lord in the form of kshema in your vak. If you remember this, your wordswill be measured and protective. If you do not look upon so, then you become loose intalking. Lord does not protect you then. There is one iti word is there. It indicates what youhave to superimpose and where you have to superimpose. If you say vak is Brahman, that is samanadhiakranyam. Badhayam+. When you say iti, look upon mind as isvara. Iti will bethere for upasana or Upasva etc. will be there. May you look upon isvara as a blessing ofprotection in your words.
 
 Yoga+ All your yogakshema is possible only when you are healthy. Health is indicated byprana andapana. If there is no health, no yoga and kshema, not even asana yoga. The wellbeing of this person is yogakshema. Since they depend on prana and apana (*but ultimatelydepend on Brahman*) so in the prana and apana (*seventh case*) look upon Isvara asyogakshema. It is not by my wits or strength I gain yogakshema. When any phalam isaccomplished think it is due to Isvara. Similarly in the succeeding portion, look uponBrahman as in the respective forms. In the feet the locomotion is there. That function isparamesvara. See as such. When you are moving your hands, you do not recognise the giverof function. All karma is produced by Brahman. Without Isvara's manifestation askarmendriya and also of the function that is there and the adhishthana devatas involved,karma cannot be accomplished. So in the hand, in the form of karma alone Brahman exists.Hands are for karma. That means you cannot forget Brahman even when you are scratching.In the form of motion, in leg. In the anus, vimocanam or in the form of clearance Brahman is
+
+
 
 there. Thus is the adhyatma upasanas, centred on human beings. Sam + aang + jna. It meansjnanani. They are centred on human body, mind etc. Vijnanani because many forms ofmeditations are given.
 
@@ -361,6 +435,8 @@ there. Thus is the adhyatma upasanas, centred on human beings. Sam + aang + jna.
 Now adhideiva upasanas. Devih is chandasam. It should be deivyah. With reference to devas.Rains are cause for satisfaction through food etc. Etc. means water. If there is no food, anyindustrialisation will not give tripti. You have to eat nuts and bolts. Isvara alone is in the formof satisfaction that you see in food. You see rain but what you feel is tripti. So too in otherthings Brahman is to be meditated in the respective forms in those things. Not look yasas incattle. See Brahman as the yasas that is there in the cattle. Lightning can strike anythingdown. It may be winking. But when you touch, you will know the power. Cow is wealth. Youmust have land for maintaining cows. So you own land. Even now in villages they will say Ihave a cow and a buffalo. It is the real wealth. Other wealth is only a tender, a monetarysystem. It is just a paper which Governor of RBI promises that he will give you gold worth ofone rupee.That yasasis me. So ahankara is gone. Amanitvam comes. Isvara is with you insome other form, even if money which is isvara goes. In stars, na ksharati is nakshatra, I am inthe form of light. Nakshatra includes sun also. Sun also is a star. In Gita it covers moon also(*as luminaries in the sky in the night*).
 
 Vikumtiriti should go to previous section. Pathakrama is weaker to arthakramah. This ismimamsa. So it is taken to adhyatma upasana. Brahman is in the form of prajati or progeny inthe upastha or Genital. Amrtam here is in the form of relative moksha. Moksha is freedomfrom rnam or debts. Son becomes the means for gaining this moksha. So putra is calledamrtam. Father has incurred some debt. Children have to redeem them. If the debt is not paid,there is papa. So son releases father form that papa. By his rituals etc, father is released fromhalfway home. In preta sarira he hangs around. He is released. Progeny is amrtam and ananda.In India, son pays off the debts of his father. Prajatih is feminine. The capacity to procreate isprajati. Progeny becomes amrtam. Also it is sukham, the pleasure. He is in the genital inthese forms. Prajati rupena, amrta rupena and ananda rupena upasthe Brahman is there. He iseverything in space. Akasa is support for all. All that is there in it is Brahman. Akasa itself isBrahman being product of Brahman.
+
+
 
 ** तत्प्रतिष्ठेत्युपासी॒त। प्रतिष्ठावान् भ॒वति। तन्मह इत्युपासी॒त। महान् भ॒वति।तन्मन इत्युपासी॒त। मानवान् भ॒वति। तन्नम इत्युपासी॒त।नम्यन्तेऽस्मैकामाः। तद्ब्रह्मेत्युपासी॒त। ब्रह्मवान् भ॒वति। तद्ब्रह्मणः परिमर इत्युपासी॒त।पर्येणं म्रियन्ते द्विषन्तः सप॒त्नाः। परि येऽप्रिया भ्रातृ॒व्याः। स यश्चायंपु॒रुषे। यश्चासावादि॒त्ये। स एकः। स य एवं॒वित्।**
 
@@ -372,6 +448,8 @@ This whole section is dealing with akasa upasana. It is a series of akasa upasan
 
 Tat is brahmabhinna akasa. Meditate upon it as mahah, great. Pujaniyah. Mahatvagunavisishta upasana. So he becomes great. That akasa meditate as manah. Mana is intelligence.The thinking power of the mind is called manah here. Phalam is manavan+ Manam is samemeaning. He will become a good thinker. Namah is prostration. Meditate on that akasa as thesalutation. Then all the desired objects will fall at his feet. They will prostrate him as though.He will gain all objects. Asmai means for this upasaka. Kamah is karma vyutpatti. All hisdesires will be fulfilled. (*We have to do all this with nishkama.*) Tat Brahma iti upasita. Here
 
+
+
 Brahman is not absolute Brahman. Brahman means big. Meditate on the akasa as the biggestone. Brahma is common noun. Akasa is very vast. The mediator also becomes big.
 
 Parimarah means the agent of destruction. Or the medium/instrument of destruction. parimriyante asmin sarvani, resolution place like grave-yard. Who is that? Tat. That akasa alone.At the time of pralaya everything resolves from gross to subtle. (*Creation is reverse*). Allelements go back to akasa. Akasa is layasthanam. Brahman is mayasahitam Brahman orIsvara. So akasa is called parimarah. Upasaka will destroy all his enemies. Here the enemiesare divided into two types - those whom upasaka dislike and those who dislike the upasaka.Enam dvishantah sapatnah parimriyante. Sapatnah means enemies. dvishantah means whohate the upasakas. Ye apriyah bhratrvyah - bhratrvyah means enemies. Apriyah meansdisliked by upasaka. We have to add mriyante to pari. They also get destroyed.
@@ -379,6 +457,8 @@ Parimarah means the agent of destruction. Or the medium/instrument of destructio
 This mantra can create some problem. Here Upanishad is not suggesting ragadvesha forupasaka and destroying. Destruction can be two-fold. Enemies get destroyed does not meanthey should be physically killed. If they change their mind and become friendly to me, then itis as good as destruction of enemyhood in them. People dislike us for no reason. Suddenlythey start talking. So human mind is mystery. It is conversion of them. Those who are dislikedby upasaka - how? Here also we can take it as symbolic. Enemies are here inner enemies.
 
 तस्मात् (*व्यापकत्व-निर्लेपत्व-निरवयवत्व-सूक्ष्मत्व-सर्वाश्रत्वादिरूपलक्षणसाम्येन आकाशस्य ब्रह्माभिन्नत्वसंभवात् तद्ब्रह्मभूतमाकाशमित्यर्थः*।) तत् सर्वस्य प्रतिष्ठेत्युपासीत। प्रतिष्ठागुणोपासनात् प्रतिष्ठावान् भवति(*अन्नपानादिभिः स्थितिमान् इत्यर्थः*)। एवं सर्वेष्वपि। (*ननु क्षेम इति वाचि इत्यादौ फलाश्रवणात् कथं तदुपासनेषुप्रवृत्तिः इत्याशङ्क्याह - यद्यत्रेति)* यद् यत्र अधिगतं फलम्, तत् ब्रह्मैव (*यत्र वागादौ यत्फलं कार्यं क्षेमादिकंश्रुतं तद्रूपेण ब्रह्म एव उपास्यमित्युक्तमित्यर्थः*)। (*ततः किम्। अत आह* *- तदुपासनादिति*) तदुपासनात् तद्वान्भवति इति द्रष्टव्यम् *(क्षेमादिगुणेन ब्रह्मोपासनात् क्षेमादिमानेव भवति औचित्यादिति द्रष्टव्यम् इत्यर्थः*)। (*अत्रार्थेश्रुतिमप्याह - श्रुत्यन्तराच्च इति*) श्रुत्यन्तराच्च - “तं यथा यथोपासते (*plural*) तदेव (*तदनुरूपमेव फलंभवति इत्यर्थः*) भवति” (*मुद्गल. उप ३.३*) इति। तन्मह इत्युपासीत। महः महत्त्वगुणवत्तदुपासीत। मननं मनः। मानवान् भवति। मननसमर्थो भवति। तन्नम इत्युपासीत। नमनंनमः। नमनगुणवत् तदुपासीत। नम्यन्ते प्रह्वीभवन्ति अस्मै उपासित्रे कामाः काम्यन्ते इतिकामाः भोग्याः विषयाः इत्यर्थः। तदब्रह्मेत्युपासीत। ब्रह्म परिबृढतममित्युपासीत (*परिबृढतमम्विराडात्मकम्*)। ब्रह्मवान् तद्गुणो भवति (*ब्रह्मणो निराजो ये गुणः भोगः तद्वान् भवति इत्यर्थः*)। तद्ब्रह्मणःपरिमर इत्युपासीत। ब्रह्मणः परस्य (*परस्य मायोपाधिकस्य ब्रह्मणः स्वरूपतया उक्तं यदाकाशं तदाकाशंपरिमरत्वगुणकम् उपासीत इत्यर्थः*) (*आकाशस्य परिमरत्वगुणोपादानाय प्रथमं वायोः परिमरत्वमाह - परिमरइत्यादिना।*) परिमरः परिम्रियन्ते अस्मिन् पञ्च देवताः विद्युद्वृष्टिश्चन्द्रमा आदित्योऽग्निरित्येताः।अतः वायुः परिमरः श्रुत्यन्तरप्रसिद्धेः (*छा. उप ४.३.१) (वायुं प्रकृत्य “तमेताः पञ्च देवताः अपियन्ति”इत्यादिश्रुत्यन्तरप्रसिद्धेः इत्यर्थः*)। (*इदानीम् आकाशस्य परिमरत्वं साधयति - स एवायमिति*) स एवायंवायुराकाशेन अनन्यः इत्याकाशो ब्रह्मणः परिमरः (*वायुं प्रति आकाशस्य कारणत्वाद्वाय्वनन्यत्वमित्यर्थः*)। तमाकाशं वाय्वात्मानं ब्रह्मणः परिमर इत्युपासीत (*तम् वाय्वात्मानम् आकाशंब्रह्मणः स्वरूपभूतं* *परिमरत्वगुणकम् उपासीत इत्यर्थः)*। परि एनम् एवंविदं प्रतिस्पर्धिनः (*सपत्नाः द्विविधाः -*
+
+
 
 *द्विषन्तः अद्विषन्तः च। ततः सपत्नानां द्विषन्तः इति विशेषणमित्याह - द्विषन्तः इत्यादिना*) द्विषन्तः अद्विषन्तःअपि च सपत्नाः यतो भवन्ति, अतः विशेष्यन्ते द्विषन्तः सपत्नाः इति। यः एनं द्विषन्तःसपत्नाः ते परिम्रियन्ते प्राणान् जहति। किं च, ये च अप्रियाः अस्य भ्रातृव्याः अद्विषन्तःअपि (*एनम् अद्विषन्तः अपि इत्यर्थः*) ते च परिम्रियन्ते।
 
@@ -396,6 +476,8 @@ Next is in a context. If you invoke the Lord positively, you have positive gunas
 
 Here, all these positive nice things were told. Finally the opposite also. Brahman is samharakarta. If so, then how does he destroy? With the help of vayu. Prana goes away. Vayubecomes accomplice for Brahman. Vayu becomes parimara or death. Brahmanah samharasadhanam is vayu. Yama is in charge. Vayu is means. (*Parasya brahmanah*) Five devatasresolve in vayu. All aditya etc are born of vayu, gaseous form. They go back to vayu. Vayuitself is akasa. Vayorapi mrityu is akasa. Akasa is in the form of vayu. So akasa, vayvatmana,is sadhana for Brahman to do samhara.
 
+
+
 The result of this upasana is that all around, whatever enemies are there, those who hate thisupasaka, (*the other type is those who do not hate, but enemies*) those enemies die. So do notmeditate this way. Also, those whom he does not like they also die. Bhratrvyah are sons ofbrother (*nephew*). But generally there is fight between them when there is joint property. Solong as brothers are there, no problem. One brother dies means fight. This is all over theworld. Joint family is problem. Even in those days, bhratrvyah were called enemies. Eventhough they do not hate you, they also die.
 
 We saw adhyatma, deivi and akasa (*brahmabhinna*) iti three upasanas. Previous anna andannada upasanas (3). Upasanas are over with this. Now Upanishad wants to come back tojnanam topic and conclude this valli by talking about jnana phalam. Why coming back tojnanam topic. Otherwise we will say Taittiriya talks about upasanas for destroying enemies.
@@ -409,6 +491,8 @@ That is being said in the final portion.
 **
 अस्माल्लोकात्प्रे॒त्य।एतमन्नमयमात्मानमुपसङ्क्र॒म्य।एतंप्राणमयमात्मानमुपसङ्क्र॒म्य। एतंमनोमयमात्मानमुपसङ्क्र॒म्य। एतंविज्ञानमयमात्मानमुपसङ्क्र॒म्य। एतमानन्दमयमात्मानमुपसङ्क्र॒म्य। इमाँल्लोकान् कामान्नी कामरूप्यनुस॒ञ्चरन्। एतत्सामगायन्ना॒स्ते। हा३वु॒ हा३वु॒हा३वु॒। अ॒हमन्नम॒हमन्नम॒हमन्नम्। अ॒हमन्ना॒दो३हमन्ना॒दो३हमन्ना॒दः। अ॒हꣳश्लोक॒कृद॒हꣳ श्लोक॒कृद॒हꣳ श्लोक॒कृत्। अहमस्मि प्रथमजा ऋता३स्य॒। पूर्वं**
 
+
+
 **देवेभ्योऽमृतस्य ना३भा॒यि। यो माददाति स इदेव मा३वाः॒।अ॒हमन्न॒मन्नम॒दन्त॒मा३*दिम*। अ॒हं विश्वं॒ भुवन॒मभ्यभ॒वा३म्। सुव॒र्न ज्योतीः। यए॒वं वेद। इत्युप॒निषत्।**
 
 The one who is established in atma, the one who is a jivanmuktah, lives his life as describedhere. Etad+ He lives all the time singing the following songs. The word sama has twomeanings. One is it is music. He remains singing music means he is always happy. Musicindicates inner joy except in movie. If you take music as harmony, he lives his life inharmony with creation. There is no disturbance or protest. This is one meaning. The othermeaning is (*Sankara's*) samatvam or Brahman. That which is ever samam. Which is alwaysuniform, no ups and downs. He always thinks of, talks about Brahman for lokasangrahartham,for sastra rakshanartham, for paramparanirvartyartham. taccintanam+ Since he does not haveahankara or mamakara he claims nothing as his own and moves around from place to place.He becomes parivrajaka. He is not tied down to a house, a few people, but moves about. Imanlokan sancaran. He freely moves about all over the world.
@@ -420,6 +504,8 @@ Here it is said - this person is free from all acaras. He need not observe any r
 All the time what is present in his mind is I am everything. In every vyavahara triputi is there.Seen, seeing and seer. Here eating vyavahara the jivanmukta talks about. He says I am all thistriputi. With wonder he utters this. Aho indicates wonder. Aho in samaveda, since it issamaveda, is changed to havu. Thrice repeated to indicate it is the greatest wonder - advaitaappearing as dvaita. Ekam becoming aneka is not wonder like seed becoming many throughtree. Here eka does not become aneka but appear as aneka without undergoing any change.Aghatita ghatana patiyasi maya.
 
 Because anna upasana was just now completed, eating action is taken. I am annam, eaten. Iappear as annam. It indicates the object of eating action. It is representative of all objects viz.seeing, talking etc. So too I am annada, eater, the subject of the action. This is alsorepresentative. I am slokakrt. Sloka means combination. Slokakrt means one who combines
+
+
 
 them. I am the instrument which combines the eater and eaten etc. If pramata and prameyacomes together, I am pramana. Why three times repeated? To emphasise. It is truth, wholetruth and nothing but truth. Truth if we say, it may not have that emphasise. Some mixture. Oryou can say repetition is for expressing wonder. You keep talking about something wonder.Heart is so full that you keep talking about it.
 
@@ -434,6 +520,8 @@ In short, I pervade the entire universe. Aham bhuvanam abhyabhavam. I overwhelm 
 
 Introducing sa yascayam, Bhashyakara, he brings to attention what was said before in thissection on upasana to connect it to the jnanavakya. Here starting prana is annam, body isannada, upto earth and akasa it was concluded. All of them are karyas. Brahman is karana. Letit be said. What do you get out of it? So what? What is accomplished? Bhogya and bhoktaboth are falling in karya. Samsara is characterised by these two. Set up by enjoyed andenjoyer. So samsara is karya vishaya. It is set up by upadhi. So in atma there is no samsara.
 
+
+
 Even though it was upasana section, it reveals a factor. It is with reference to karya and atmabeing karana, it has no samara. If ‘I am samsari' is the experience, that samsara is imputed toatma due to ignorance.
 
 (*ननु यदि संसारस्य कार्यनिष्ठत्वं श्रुत्यभिमतं तदा जीवात्मापि शरीरप्राणादिवत्कार्यविशेष एवेति तस्य स्वाभाविकःसंसारः न भ्रान्तिसिद्ध इति शङ्कते - नन्वात्मापि इति। आत्मा कार्यं विभक्तत्वात् आकाशादिवत् इत्यर्थः*।) ननु आत्माअपि परमात्मनः कार्यम्, ततो युक्तः तस्य संसारः इति। (*आगमबाधितम् अनुमानम् इत्याशयेननिराकरोति - नेति। असंसारिणः परस्यैव जीवरूपेण प्रवेशश्रवणात् परजीवयोः एकत्वमवगम्यते, ततो नात्मनःकार्यत्वम् इत्यर्थः।*) न। असंसारिणः एव प्रवेशश्रुतेः। (*संग्रहं विवृणोति - तत्सृष्ट्वा इत्यादिना*।) तत्सृष्ट्वातदेवानुप्राविशत् इत्याकाशादिकारणस्य हि असंसारिणः एव परमात्मनः कार्येषु अनुप्रवेशःश्रूयते। तस्मात् कार्यानुप्रविष्टः जीवः आत्मा पर एव असंसारी। (*न केवलं असंसारिणः जीवरूपेणप्रवेशश्रवणात् लिङ्गात् परेतरात्मनोः एकत्वनिष्टायः, किन्तु क्त्वाश्रुतिबलादपि इत्याह - सृष्ट्वा इति*) सृष्ट्वाअनुप्राविशदिति समानकर्तृत्वोपपत्तेः च। सर्गप्रवेशक्रिययोः च एकष्टोत्कर्त्ता ततः क्त्वा प्रत्ययोयुक्तः। (*यदुक्तम् असंसारिणः एव प्रवेशश्रवणात् परेतरात्मनोः एकत्वमिति तत्र शङ्कते - प्रविष्टस्य इति)*
@@ -444,11 +532,15 @@ No. Entry sruti makes it very clear that parah atma alone having created, entere
 
 Why not we put this way. Bhagavan created the world. Jiva entered into it. Jiva is anadi. Theyare waiting for the house to built. Like Govts build hutments. People are waiting to occupy.Jivas are waiting for houses. They have applied for it. They are in waiting list. So Lordprovided the houses. So jivas entered. Why not? No. It cannot be that. Ktva suffix cannot fitin. It has to be samana karta. Refers to action of purvakala. Why Panini? You will understand.Thinking that you have studied, Sankara does not say anything else. Both creator and enterershould be same. Without creation you cannot enter. Also purvakale is there. Upapatti isexplained further.
 
+
+
 प्रविष्टस्य तु भावान्तरापत्तिरिति चेत्। (*प्रविष्टस्य बुद्ध्यादिकार्येषु उपादानतया सृष्टिसमये एव सिद्धस्य परस्यजीवरूपभावान्तरात्मना परिणतिः एव प्रवेशः विवक्षितः, अतो न प्रवेशलिङ्गात् तयोः एकत्वसिद्धिः इत्यर्थः*)। (*अस्यचोद्यस्य प्रागेव निरासपूर्वकं प्रवेशपदस्य अर्थान्तरपरत्वेन व्याख्यातत्वाद् नैवमिति परिहरति - न, प्रवेशस्य इति*) न।प्रवेशस्य अन्यार्थत्वेन प्रत्याख्यानत्वात्। (*ननु जीवरूपेण परिणामं विना एव परस्य बुद्धिसंबन्धात् संसारित्वेनभानमेव प्रवेशपदार्थ इति पूर्वव्याख्यानम् अयुक्तमिति शङ्कते - अनेन इति*) अनेन जीवेन इति विशेषश्रुतेःधर्मान्तरेण (*जीवरूपविकारान्तरात्मनैव प्रवेशः न तु अविकृतस्य एव परस्य, अन्यथा जीवेन इति विशेषणवैयर्थ्यापत्तेःइत्यर्थः)* अनुप्रवेशः इति चेत्। (*यदि जीवेन इति विशेषणबलात् जीवस्य ब्रह्मविकारत्वं तत्राभिप्रेतं स्यात् तदावाक्यशेषविरोधः प्रसज्येत इति दूषयति - न, तत्वमसि इति*) न। तत्वमसि इति पुनः तद्भावोक्तेः (*जीवस्यआकाशादिवद्विकारत्वे तस्य ब्रह्मैक्योपदेशविरोधः इत्यर्थः*)। (*अभेदोपदेशस्य अन्यथासिद्धिमाशष्टते - भावान्तरेति)*भावान्तरापन्नस्यैव तदपोहार्था संपदिति चेत्, (*जीवलक्षणं भावान्तरम् विकारान्तरमापन्नस्य एव सतः परस्य संसारित्वप्राप्तौ तदपोहार्था जीवपरयोरभेदध्यानलक्षणा संपत् तत्वमसि इत्युपदिश्यते, न पुनर्जीवस्य ब्रह्मविकारत्वविरुद्धम् ऐक्यमुपदिश्यते, अतो न वाक्यशेषविरोधः इत्यर्थः*) (*तत्वमसि इति वाक्यस्य संपदुपासनापरत्वे मानाभावाज्जीवस्यविकारत्वे नाशापत्या न जीवो म्रियते इति वाक्यशेषविरोधात् वास्तवस्य संसारस्य संपदा अपोह - असंभवाच्च तत्वमसिइति ऐक्योपदेशः एव सोयं देवदत्तः इतिवदिति परिहरति - न। तत्सत्यम् इति*) न। तत्सत्यं स आत्मा तत्वमसिइति सामानाधिकरण्यात्।
 
 Another purvapaksha. Person is never the same. Once you get into something like maritalstatus, is never the same. He has undergone change. After marriage he is never the same,undergone thorough change, put on weight. He is unemployed. He got a job. He is differentperson now. Samankarta is there. I understand. But having entered, he is not gong to be thesame. He entered into wrong place. What kind of karya he entered into? My buddhi. Mybuddhi you know what it is. I know it. He is out. He is not going to be the same. He cannotretain his svarupa. So he is samsari due to entry. This is called descent of man, they say. Itcould be descent of god. It is not right. The purpose of entry has already been explained.Pravesa is nothing but upacara pramatrtva due to association with mithya upadhi, withoutreally undergoing any change and appearing as one possessed of samsara due to thatassociation. Since he is available in buddhi upadhi, so pravesa. The word pravesa is used forachieving two things: 1) Karta has not undergone any change, having created he enteredmeans he has not undergone any change. and 2) That atma obtaining in buddhi is not separatefrom Paratma, revealing identity are the two purposes of pravesa. There is no any other entry possible we showed. It is entry iva entry like space having entered into pot. It is withoutentering. That means space outside and inside are one and the same.
 
 In Chandogya, it is seen that paratma entered in the form of jiva. Jivena iti viseshana is therefor atma. Visesha is attribute. Jivatvam is attribute for atma. Assuming another dharma, ornew dharma, it entered. Like even wearing another dress you enter office, not with pyjama.When you come to the class, you do not come with your night dress. So too paratma assumesappropriate qualities like smallness, insignificance etc when entered the body. They aredharma visesha. No. It is not so. If atma has undergone any change to become jiva, then it becomes real. Then you cannot say tattvamasi. Once upon a time, thus you have to begin.Once upon atime my grandfather was the owner of the entire district. Now who are you? The
+
+
 
 car I am driving do not belong to me. So ayam atma tat asit iti you have to say. Ayam atmaBrahma you cannot say. Atma was that once upon a time. Now you see my halat. So againbrahmabhava uktah. Such sruti being there.
 
@@ -458,6 +550,8 @@ No. The vakya you are referring has samanadhikaranya. Tat which is satyam is sa 
 
 (*ननु जीवस्य ब्रह्मत्वं संसारित्व-अनुभवविरुद्धम्। अतो जीवस्य विकारत्वाभावे अपि ब्रह्मभिन्नत्वात् संपत्परमेवतत्वमसि इति वाक्यमित्याशयेन शङ्कते - दृष्टमिति।* ) दृष्टं जीवस्य संसारित्वमिति चेत्। न। उपलब्धृरूपत्वात् (*आत्मनः संसारोपलब्धृत्वान्न संसारधर्मकत्वम्, उपलभ्यमानस्य नीलपीतादेः उपलब्धृधर्मत्व-अदर्शनादित्यर्थः*)। (*संसारस्य रूपादिवैलक्षण्यं शङ्कते - संसारधर्मेति)* संसारधर्मविशिष्टः आत्मा उपलभ्यतेइति चेत् *("अहं सुखदुःखादिमान्" इति संसारस्य आत्मधर्मत्वमनुभूयते। स च अनुभवः बाधकाभावात् प्रमैव।“गौरोहम्” “नीलोहम्” इत्याद्यनुभवस्तु जीवस्य देहव्यतिरिक्तत्वसाधकश्रुतियुक्तिबाधितः, अतो न रूपादितुल्यत्वं संसारस्यइत्यर्थः*)। (*आत्मनि संसारस्याप्यसङ्गत्वादिश्रुतिबाधितत्वस्य समानत्वाद् न आत्मनः संसारित्वं परमार्थम् अतो न अभेदश्रुत्यनुपपत्तिः इत्याशयेन परुहरति - नेति।*) न। (*किं च आत्मधर्मत्वेन अभिमतस्य सुखदुःखादेः आत्मना सहअभेदः भेदो वा। आद्ये न संसारस्य आत्मधर्मतया उपलभ्यमानता सिध्यति इत्याह - धर्माणामिति)*धर्माणांधर्मिणः अव्यतिरेकात् (*अव्यतिरेकाभ्युपगमात् इत्यर्थः)* कर्मत्वानुपपत्तेः (*अभेदपक्षे धर्माणामुपलब्धिकर्तृकोटिप्रविष्टत्वाद् उपलब्धिकर्मत्वानुपपत्तिः इत्यर्थः। भेदपक्षे न संसारस्य आत्मधर्मत्वं सिध्यति। तयोःसंबन्धानिरूपणात् समवायस्य सूत्रकारेण एव निरस्तत्वाद् इत्यन्यत्र विस्तरः*।)। (*अभेदे कर्तृकर्मभावानुपपत्तिरित्यत्रदृष्टान्तमाह - उष्णेति*) उष्णप्रकाशयोः दाह्यप्रकाश्यत्वानुपपत्तिवत्। (*तत्वमसि
 इत्यभेदोपदेशस्यात्मनिसंसारित्वग्राहक्प्रत्यक्षविरोधं परिहृत्य तत्र तद्ग्राहकानुमानविरोधमाशङ्क्य परिहरति - त्रासादिदर्शनाद् इत्यादिना*)त्रासादिदर्शनाद् दुःखित्वाद्यनुमीयते इति चेत्। (*त्रासादेः तदनुमेयदुःखादेः च दृश्यत्वेन वस्तुतःद्रष्टृधर्मत्वासंभवस्य प्रागेवोक्तत्वात् इत्याशयेनाह - न त्रासादेरिति*) न। त्रासादेः दुःखस्य च उपलभ्यमानत्वात्न उपलब्धृधर्मत्वम्।
+
+
 
 You may say anything. But my experience is mine. I do not feel I am Brahman. You shouldfeeel. It is feel argument. Argument of anubhava. The oneness between jiva and paratma iswhat is attempted by sruti to unfold. Here the argument is: The jiva is samsari because it isseen. The samsaritvam such as I am fat, I am duhkhi etc. these are known to him, experiencedby him. What is within the experience of jiva should be conformed by sruti. Sruti cannotcontradict the experience. Sruti is pramana. But it cannot hurt other pramanas. A pramana thathurts another pramana is not a pramana. How can you say an argument is not valid. Only because it hurts pramana. Suppose you make a statement that horn of a man is useful for ayaga. It is against the pramana of perception. Here also it is against my sakshi pratyakshapramana.
 
@@ -471,6 +565,8 @@ An illustration is given for this. Heat and light belong to fire. Heat does not 
 
 Samsaritva is not directly experienced by me. But it is inferred. How do you do it? Fear etc isseen. Anxiety, depression etc. From that I understand they have a basis. There is unconscious
 
+
+
 - how do you know? I am conscious. Then it is not unconscious. It cannot be seen. So it isinferred. So samsaritvam is duhkhitvam, being subject tot pain. By fear etc, this duhkhitvamis inferred. No. Feat itself is duhkham. Fear is not very pleasant. It is not basis of sorrow.Itself is sorrow. Duhkhitva is not anumana prapta. He is sad. Because he inferred. Seeing youI was afraid. So I must be duhkhi. Duhkhitva becomes paroksha. No, it is directlyexperienced. Anumeya also is pratyaksha vishaya. Why do you do anumana. You do notinfer that I am sitting here. Why? Because I hear your voice. Do you see. Yes. Then why doyou infer. I like inference. The person eating the chlorate along with the wrapper portion.Some one told you are eating with wrapper. He says I like it. So samsaritvam is not theattribute of upalabdha.
 
 (*तत्वमसि इत्यभेदोपदेशस्य शास्त्रान्तरविरोधमाशङ्क्य निराकरोति -
@@ -482,11 +578,15 @@ Tarkasastra is vaidikas. That is why they were quoted. They follow the Veda. The
 
 Tarka has no pratishtha where there is no access for them. In 2^(nd) chapter of Brahma sutra theywere dealt with. So Tarka sastra has to be defective because it is attempting to prove thenature of something that is not available for tarka and secondly, if duality is not true, anylogic employed for proving it is going to be defective. Their arguments has to be defective.My job is to see the defects. That is called mananam. First chapter is sravanam and secondchapter is mananam. Then nididhyasanam (*upasana also talked about*) and phalam.
 
+
+
 We reply that we do not care for its opposition because it is not pramana for atma. In thematter of atma, it does not have pramanya svatah, being born of human intellect.Pramanantara anadhigata alone is vishaya for sastra. So it is svatah pramana. It does notrequire the concurrence of any other pramana. It is logical and non-contradictory toperception because seer is different from seen is the basis of it. Tarka is not only notsupported by Veda but it is opposed to Veda. Anumana and anubhava is not hurt by Veda. Ifyour anubhava contradicts then it is bhranti. It is not that your servant says atma is asamsari.There is yukti also. Atma is asamsari, but how it is paramatma. Paramatma is asamsari. Soatma is also. No. Why not two asamsaris? I am one. You are another. So how can there beoneness? One is bearded and another is shaven. No. There is only one asamsari. Manynessonly in samsaritvam. Asamsaritva has no desa-kala-vastu bheda. The ekatvam is due to srutirevelation.
 
 Eka is one who is creator and who entered in the karya. Anupravishta para atma is same as theaparoksha atma (*ayam*) who obtains in the upadhi of buddhi and who obtains in sun(*samashti upadhistha*). If Devadatta atma is Yajnadatta atma, that is enough to show atma isone. Here atma of HG and atma of me are one. The identity of these two atmas (*Devadattaand Yajnadatta, one is intelligent and another fool*) are because of removing upadhidifference, then that argument equally applies to atma between HG and me.
 
 स एवमन्नमयादिक्रमेण आनन्दमयमात्मानमुपसंक्रम्य (*विद्यया कोशेषु आत्मत्वभ्रममपोह्य इति यावत्। उपसंक्रम्य इत्यस्य व्यवहितेन संबन्धमाह - एतत्साम इति*) एतत्साम गायन् आस्ते। (*इमाल्लोकान् इत्यादेःसंगतिकथनाय व्यवहितमनुवदति - सत्यमित्यादिना*) “सत्यं ज्ञानम्" इत्यस्याः ऋचः अर्थः व्याख्यातःविस्तरेण, तद्विवरणभूतायां आनन्दवल्ल्याम्। “सोऽश्नुते सर्वान् कामान् सह ब्रह्मणा विपष्टिता” इत्येतस्य फलवचनस्य अर्थः विस्तरेण नोक्तः। (*इत्थं वृत्तमनूद्य आकाङ्क्षापूर्वकं इमाल्लोकान् इत्यादिकम्अवतारयति - के ते इत्यादिना*) के ते? (*तत्र कामानां स्वरूपे आकाङ्क्षां दर्शयति - के ते इति (कामानां कारणेतां दर्शयति - किं विषया इति)* किं विषया वा सर्वे कामाः? *(साहित्ये कामानामशने च तां दर्शयति - कथंवेति*) कथं वा ब्रह्मणा सह समश्नुते? - इत्येतद्वक्तव्यम् इति इदानीमारभ्यते (*इतयाकाङ्क्षायांसत्याम् एतद्विद्याफलं विस्तरेण वक्तव्यमित्याशयेन उत्तरं वाक्यजातं पठ्यते इत्यर्थः*)। (*एवमुत्तरस्य ग्रन्थस्य व्यवहितयाआनन्दवल्ल्या संगतिमुक्त्वा अव्यवहितभृगुवल्ल्यापि संगतिं वक्तुं भृगुर्वै वारुणिः इत्यादौ वृत्तं कीर्त्तयति - तत्रेत्यादिना*)तत्र पितापुत्राख्यायिकायां पूर्वविद्याशेषभूतायां तपः ब्रह्मविद्यासाधनमुक्तम्। प्राणादेःआकाशान्तस्य च कार्यस्य अन्नान्नादत्वेन (*अन्नान्नादभावेन उपासने उपयोगष्टा उक्तः इत्यर्थः*) विनियोगष्टाउक्तः। (*क्षेम इति वाचि इत्यादौ उक्तमनुवदति - ब्रह्मविषयेति*) ब्रह्मविषयोपासनानि च। (*तेषु उपासनेषुविवक्षितान् फलविशेषान् अपि कामशब्देन अनुवदति - ये च इति*) ये च सर्वे कामाः प्रतिनियताः(*तत्तदुपासनभेदेन व्यवस्थिताः इत्यर्थः*) (*तेषां मुक्तिवैलक्षण्यं सूचयति - अनेकेति*) अनेकसाधनसाध्याः (*नानाविध-उपायसाध्याः इत्यर्थः*) (*अत एव तेषामविद्याकालिकत्वमाह - आकशादि इति*) आकशादिकार्यभेदविषयाः(*आकाशादयः ये अविद्यायाः कार्यभेदाः तद्विषयाः तत्साध्याः एव ते अविद्यावस्थायां दर्शिताः, न तु विद्यावस्थायां,विद्यावस्थायां तु अत्रापि वल्ल्यां स एकः स य एवं वित् इत्यादौ पूर्वोक्तमेव सोऽश्नुते सर्वान् कामान् सह इति फलंतात्पर्यतः दर्शितमिति भावः*) एव ते दर्शिताः।
+
+
 
 The one who recognises the one vastu between sun and jiva (*purusha means body*) he gainswhat? Atma which was presented as atma later negating as anatma by vidya, upasamkramyameans eliminating the error that it is atma. Pramaya bhramam apohya. He remains singingsama i.e., Brahman. Or it can be sama mantra. Singing the glories of Brahman. He gives theconnection here.
 
@@ -498,6 +598,8 @@ Later on told. Practical training. Karyasya viniyoga. The created objects which 
 
 (*इत्थम् अस्यामपि वल्ल्यां वृत्तानुवादेन फलवचनानुवृत्तिं सूचयित्वा तत्रानुपपत्तिम् उद्भावयति - एकत्वे पुनरिति*) एकत्वेपुनः कामकामित्वानुपपत्तिः, भेदजातस्य सर्वस्य आत्मभूतत्वात् (*स्वस्य ब्रह्मणा एकत्वे साक्षात्कृतेसति कामयितव्यस्य आकाशादिभेदजातस्य तत्साध्यकामजातस्य च सर्वस्य आत्मव्यतिरेकेण अभावात् पूर्वावस्थायामिवपुनः कामान् प्रति कामित्वानुपपत्तेः इत्यर्थः*)। (*एवमेकत्वे कामित्वानुपपत्तौ तस्यां फलितमाह - तत्र कथमिति*) तत्रकथं युगपद् ब्रह्मस्वरूपेण सर्वान् कामान् एवंवित् समश्नुते? इति उच्यते। सर्वात्मत्वापत्तेः।कथं सर्वात्मत्वापत्तिः? इति। तत्राह (*श्रुतिः) - (पूर्वग्रन्थे अपि विदुषः सार्वात्म्यमर्थसिद्धमिति दर्शयन् सयष्टायं पुरुषे इत्यादौ वृत्तं कीर्त्तयति - पुरुषेत्यादिना*) पुरुषादित्यस्थात्मैकत्वविज्ञानेन अपोह्योत्कर्षापकर्षौ
 
+
+
 अन्नमयादीन् आत्मनः अविद्याकल्पितान् क्रमेण उपसंक्रम्य आनन्दमयान्तान् (*पुरुषस्य जीवात्मनःआदित्यस्थस्य परमात्मनः च उत्कर्षापकर्षौतत्प्रयोजकोपाधी च निरस्य एकत्वविज्ञानेन अविद्याकल्पितान् अन्नमयादीन्आनन्दमयान्तान् अनात्मनः क्रमेण उपसंक्रम्य सत्यज्ञानादिलक्षणं फलभूतम् अद्वैतमापन्नः सर्वात्मा सन्निति योजना*)सत्यं ज्ञानमनन्तं ब्रह्म अदृश्यादिधर्मकं स्वाभाविकम् (*अद्वैतस्य ब्रह्मणः फलभूतत्वसिद्धये सुखरूपत्वमाह -आनन्दमिति*) आनन्दम् (*तस्य तदर्थमेव अनर्थास्पृष्टत्वमाह - अजम् अमृतम् अभयम् इति*) अजम् अमृतम्अभयम् (*तस्य परमार्थत्वमाह - स्वाभाविकमिति। तदर्थं निर्विशेषत्वमाह - अदृश्यादीति। सविशेषस्य दृश्यत्वनियमेनमिथ्यात्वादिति भावः। तस्य विकारत्वजडत्वपरिच्छेदान् व्यावर्त्तयति - सत्यं ज्ञानमनन्तमिति*) अद्वैतं फलभूतमापन्नःइमान् लोकान् भूरादीन् अनुसंचरन् इति व्यवहितेन संबन्धः।
 
 The one who has vision of oneness between jiva and isvara, what kind of result he gets? Oncethere is ekatvam there is untenability of having the status of desirer and connection to objectof desire. Connection is established with kama by eliminating the distance by karma etc.There is no karma for him. What will he desire first? You cannot desire for index finger.Because you have it already. (*One may ask for length of index finger.*) That sambandha is notpossible. There is kamin and kama sambandha. Neither he is kamin nor anything is awayfrom him. They are in the form of atma. So how do you say he enjoys all objects? Enjoyment needs duality. Further how simultaneously. Both are not possible. Only in succession he canenjoy. Further along with Brahman how? How Brahman is table partner? Because sruti saysas Brahman. How it is possible?
@@ -505,6 +607,8 @@ The one who has vision of oneness between jiva and isvara, what kind of result h
 The whole thing is possible because he gains sarvatmatva due to that vision. It is purelyupacara for sarvatmatva. By knowledge alone it is possible. He explains that. How to becomeeverything? How to gain the status of being everything. Sah evam vit means one who has theknowledge of oneness of atma (*atma in purusha and atma in sun*). By that knowledge he givesup the excellence and non-excellence of upadhi. He resolves the differences of upadhidharmas, upadhi being mithya. Giving up atma buddhi in all the five kosas, which are takenas atma (*atmanah is acc plural*) and which are set up by avidya. Doing this in krama, order.What is left out? Brahma Puccham. Adhishthanam of all kosas including anandamaya. It issatyam+ etc Svabhavikam is svarupa. It is not krtrima, created. Not born. Not die also unlikeignorance. Having gained Brahman, he wandering all the worlds (*bhuh etc*), sitting in oneplace. They take it literally. It is not so. There is no travel involved here. Then onlyyaugapatya can be shown. Evamvit goes to anusancaran. In between distance is created by somany sentences. How he moves about?
 
 कथमनुसञ्चरन्। कामान्नी कामतः अन्नमस्य इति कामान्नी। कामतः अन्नमस्य इति। तथाकामतः रूपाण्यस्य इति कामरूपी। अनुसञ्चरन् सर्वात्मना इमान् लोकान् (*ननु विदुषःसर्वलोकसंचारः न नियतः इत्याशङ्क्याह - आत्मत्वेन अनुभवन् इति*) आत्मत्वेन अनुभवन्। किम्। एतत्(*प्रकृतं ब्रह्म*) साम समत्वाद् ब्रह्म एव साम। (*समत्वमेवाह -* *सर्वानन्यत्स्वरूपम् इति।**सर्वव्यापिस्वरूपभूतमित्यर्थः*) सर्वानन्यत्स्वरूपम् गायन् शब्दयन्।आत्मैकत्वं प्रख्यापयन्(*स्वानुभवसिद्धस्य आत्मैकत्वस्य तज्ज्ञानफलस्य कृतार्थत्वस्य च ख्यापनं निष्फलम् इत्याशङ्क्य आह - लोकानुग्रहार्थम्इति। आत्मैकत्वज्ञानं विना न संसारदावानलशान्तिः अतो यत्नतः तत्संपादनीयं सर्वैः इति ज्ञापनं लोकानुग्रहः*)
+
+
 
 लोकानुग्रहार्थम् तद्विज्ञानफलं च अतीव कृतार्थत्वं गायन् आस्ते तिष्ठति। (*गानप्रकारमेवप्रश्नपूर्वकमाह - कथमित्यादिना* ) कथम्। (*हावुशब्दः विस्मयार्थः। अभ्यासस्तु तत्र अतिशयार्थः इति मत्वाह - अत्यन्तेति*) हा३वु हा३वु हा३वु। अहो इत्येतस्मिन् अर्थे अत्यन्तविस्मयख्यापनार्थम्।
 
@@ -516,6 +620,8 @@ Not only singing jnanam of Brahman, but also result of jnanaphalam. Because peop
 
 कः (*किंकृतः इत्यर्थः*) पुनः असौ विस्मयः इति (*सार्वात्म्यप्राप्तिकृतः विदुषः विस्मयः इत्याह - उच्यते इति*)उच्यते - अद्वैत आत्मा (*ननु नित्यशुद्धादिरूपस्य विदुषः कथमन्नान्नादरूपेण सार्वात्म्यमित्याशङ्क्य विक्षेपशक्तिमद्अविद्यालेशमहिम्ना इत्याशयेनाह - निरञ्जनः अपि सन्निति*) निरञ्जनः अपि सन् अहमेव अन्नमन्नादष्टा (*अन्नंभोग्यजातम्, अन्नादः भोक्ता, तयोः संघातः नाम भोक्तृभोग्यभावलक्षणः संबन्धः तत्कर्ता, सर्वकर्मफलदाता इति यावत्।तत्र सामर्थ्यं सूचयति - चेतनावानिति। सर्वज्ञ इत्यर्थः*)। किं च अहमेव श्लोककृत्। अन्नान्नादयोःसंघातस्य कर्त्ता चेतनावान्। अथवा (*अथवा अन्नस्यैव संघातकृदिति योजना*) अन्नस्यैव परार्थस्यअन्नादार्थस्य सतः (*ननु अनेकेषां मृत्तृणकाष्ठादीनां गृहप्रासादादिरूपेण संघातकरणं दृष्टम्, तत्कथमेकस्य अन्नस्यअदनीयस्य संघातकरणमित्यशङ्क्य विशिनष्टि - अनेकात्मकस्य इति। शरीरेन्द्रियादिरूपेण परिणतिद्वारा अनेकात्मकस्यतस्य संहतिकरणमुपपन्नमित्यर्थः*) अनेकात्मकस्य (*शरीरप्राणादीनां मेलनरूपं संघातं किमर्थमयं करोति। तत्राहपारार्थ्येन इति। परस्य चेतनस्य अर्थः भोगादिः तत्सिद्ध्यर्थत्वेन इत्यर्थः। ननु शरीरादिरूपेण परिणतस्य अन्नस्य परार्थत्वेसिद्धे सति तादर्थ्येन संहतिकरणमित्युपपद्यते, तदेव कुतः सिद्धम्। अत आह - परार्थस्य इति। तदेव विशदयति - अन्नादार्थस्य सतः इति। भोक्त्रर्थस्य सतः इत्यर्थः। जडस्य शरीरप्राणादेः काष्ठतृणादेः इव स्वार्थत्वायोगात् चेतनार्थत्वंवक्तव्यमिति भावः*) पारार्थ्येन हेतुना संघातकृत्। त्रिरुक्तिः विस्मयख्यापनार्था। अहमस्मि भवामिप्रथमजाः प्रथमजः प्रथमोत्मन्नः ऋतस्य सत्त्यस्य मूर्तामूर्तस्य अस्य जगतः, (*सत्त्यस्य इति सच्च त्यच्चसत्त्यम्, सन्मूर्त्तं त्यदमूर्त्तमिति मूर्तमूर्तात्मकस्य ऋतशब्दितस्य जगतः उत्पत्तेः पूर्वम् एव उत्पन्नः हिरण्यगर्भः च अहमस्मि*
 
+
+
 इत्यर्थः) देवेभ्यष्टा पूर्वम् (*हिरण्यगर्भोत्पत्यनन्तरम् इन्द्रादिदेवेभ्यः पूर्वम् उत्पन्नः विराट्पुरुषष्टाचाहमस्मि इत्यर्थः*)।अमृतस्य (*अमृतस्य नाभिः च अहमस्मि इति* *योजना*) अमृतत्वस्य नाभिः मध्यम् मत्संस्थम् अमृतत्वम्प्राणिनामित्यर्थः (*सर्वेषां मुमुक्षूणां प्राप्तव्यं यदमृतत्वं तन्मत्संस्थं मत्स्वरूपमेव मम
 परमानन्दस्वरूपत्वादित्यर्थः*)।यः कष्टात् मा मां अन्नार्थिभ्यः ददाति प्रयच्छति - (*ननु मां ददामि इति अनुपपन्नम्, चिदेकरसस्य विदुषःदेयत्वायोगात् इत्याशङ्कां वारयति - अन्नात्मना इति)* अन्नात्मना ब्रवीति (*अहमन्नम् इति प्रागुक्तत्वात् अन्नात्मनास्थित्वा तथाब्रवीदित्यर्थः*) सः इत् इत्थमेव इत्यर्थः। एवमविनष्टं (*इत्थमित्यस्य व्याख्यानम् - यथाभूतमिति।अन्नभूतमित्यर्थः*) यथाभूतं माम् आवाः अवति इत्यर्थः (*अन्नभूतं मां यो ददाति स एवं ददत्सन् मामविनष्टंयथा भवति तथा अवति इत्यर्थः। दातुरन्नं वर्धते इत्यभिप्रायः*)।
 
@@ -526,6 +632,8 @@ Further I am the slokakrt. Three times is wonder. Sloka is verse. It is also sam
 Or sloka can be taken as your physical body. It is annam, put together in a different way. Howthe food taken becomes this kind of body? Outside it is food. Here it is body. Of the foodwhich is inert and so meant for eater, who is cetanah. Any assemblage is meant for somebodyelse like even a house. He has to be conscious being. Room is for furniture you cannot say.Bed room is not meant for light. Food converted in the form of physical body has varieties ofthings like cells, tissues etc. Being anekatmaka, it is meant for conscious being called bhokta. Hand is meant for scratching. Scratching is for whom? For conscious being. That relief is thephala of scratching. It is for bhokta. So I am sanghatakrt. That Lord who put it together is me.So much knowledge has gone into it. Nothing is not there. Chemical factory (*liver*) is there.Pollution free it is. Or minimum.
 
 The three times repetition is to reveal his ascaya or wonder. There is wonder in the creation.That triputi is me. Putting together is not easy. I am prathamaja. I am the first born i.e., HG. Iam the creator. Prathamam jayate iti. I am also virat. That is told by purvam devebhyah. I amborn. Even before devas were born, I am born One who is born before devas is virat. Rtammeans sat-tyam. Sat is murta. Tyat is amurta. Before the creation of jagat that is murtamurta, Iam born. So I am HG and Virat. Devas have to preside the lokas. Previously he was prayingto Agni. Now he says I am that agni.
+
+
 
 I am nabhi of moksha. For gaining freedom from mortality, I am the source. Understandingme alone is moksha. Because I am that satyam+Brahman. Who ever gives me. How cananybody give me? He, as food, is talking.
 
@@ -539,6 +647,8 @@ Anna and annada both are set up by avidya. It is by knowledge negating them. Mit
 
 (*ननु यदि मुक्तः ब्रह्मभावमापन्नः एवोक्तरीत्या, तर्हि (वृद्धिमिच्छतः मूलमपि नष्टमितिवत्) इदं अहमन्नादः इत्यादिवचनंकेनाभिप्रायेण प्रवृत्तमिति पृच्छति - एवं तर्हि किमिति*) एवं तर्हि किमिदं-अहमन्नमहमन्नादः इति।(*ब्रह्मभावलक्षणमुक्तिस्तुत्यभिप्रायेण इदं वचनं प्रवृत्तमिति परिहरति - उच्यते इति*) उच्यते। (*प्रथममन्नादिभावस्यसंव्यवहारविषयत्वाद् इत्युक्तं मिथ्यात्वं साधयति - योऽयमित्यादिना*।) यः अयं अन्नान्नादलक्षणः संव्यवहारःकार्यभूतः स संव्यवहारमात्रमेव। न परमार्थवस्तु (*वाचारम्भणादिश्रुतेः दृश्यत्वादि युक्तेः च इति भावः।)।(इदानीं स्तुत्यभिप्रायकत्वम् अन्नादिवचनस्य विवृणोति - स एवंभूतः अपि इति* ) स एवंभूतः अपि (*मिथ्या अपि*)
 
+
+
 ब्रह्मनिमित्तः (*ब्रह्मकारणकः अन्नान्नादभावलक्षणः प्रपञ्चः व्यवह्रियमाणः अपि ब्रह्मव्यतिरेकेण वस्तुगत्या असन्नितिकृत्वा निष्ठित्य स्थितस्य विदुषः यः अयं विद्याफलभूतः ब्रह्मभावः तस्य स्तुत्यर्थम् अन्नादिवचनेन सार्वात्म्यंसर्वकामाशनरूपं उच्यते, न तु अन्नादिभावः तस्य मुख्यः इत्यर्थः) (कार्यभूतः विकल्पमात्रत्वात् निमित्तमपेक्षते*)ब्रह्मव्यतिरेकेण असन्निति कृत्वा ब्रह्मविद्याकार्यस्य ब्रह्मभावस्य स्तुत्यर्थमुच्यते -अहमन्नमहमन्नमहमन्नम्, अहमन्नादोहमन्नादोहमन्नादः इत्यादि। (*उपसंहरति - अत इति*) अतःभयादिदोषगन्धोऽपि अविद्यानिमित्तः अविद्योच्छेदात् ब्रह्मभूतस्य नास्ति इति। अहं विश्वंसमस्तं भुवनं भूतैः संभजनीयं ब्रह्मादिभिः (*ते द्वैतप्रपञ्चं वनन्ति स्वस्वकर्मफलाश्रयत्वेन*)। भवन्तीतिवा अस्मिन् भूतानि इति भुवनम्। अभ्यभवाम् अभिभवामि परेण ईश्वरेण स्वरूपेण (*सर्वजगत्संहर्तृरुद्ररूपेण अहमेव अभिभवामि संहरामि इत्यर्थः*।)। सुवर्न ज्योतीः। सुवः आदित्यः नकारः उपमार्थः। आदित्यः इव असकृद्विभातं (*असकृदिति सदा* *इत्यर्थः*) मदीयं ज्योतीः ज्योतिः प्रकाशःइत्यर्थः। इति इयं वल्लीद्वयविहिता उपनिषत् परमात्मज्ञानम्। तामेतां यथोक्ताम् उपनिषदं शान्तःदान्तः उपरतः तितिक्षुः समाहितो भूत्वा (*एवंशब्दार्थमाह - भृगुवदिति*) भृगुवत् तपो महदास्थाय यएवं वेद तस्य इदं फलं यथोक्तम् (*ब्रह्मभावलक्षणमित्यर्थः*) ओमिति (*मङ्गलार्थमोंकारमुच्चारयति - ओमिति*)।
 
 Then, why it is said I am food etc. Jagat is karya is easy to say. But annada is cetana and howto understand jiva is karya. Jiva upadhi alone is karya and not the whole thing. This anna-annada-lakshanah is kalpana only. Being karya of brahman, they are not separate from it andso brahmabhava being the result of jnanam. That is praised. Drawing your attention to a factis called praise. Bhagavan can never be praised. It is always going to fall short. It is not mereannada now. But annam also. Emotionally you beccome annam or target for some. It is notthat kind of annam. Since I cannot be both annam and annada, it is not reality. Vyakaranajnana grantha is not there. Whiff of fear.
@@ -551,6 +661,19 @@ Summary
 
 In the first six sections, it talked about panca kosa viveka in nutshell. This was not elaboratelydone because done in second valli. The main idea in them is that necessity of guru andnecessity of tapas, enquiry. Seven to nine we got three upasanas and vratams for manda andmadhyama adhikaris. Anna-annada and pratishtha-pratishthita sambandha upasana betweenthree pairs - prana and body, waters and fire and earth and space. Three vratas with respect to
 
+
+
 annam. In tenth we got the value of annadanam. Then three sets of upasanas - adhyamikabrahma, adhidevia brahma and akasa upasanas. Upanishad concluded with jnanam(mahavakya) and phalam. Phalam is going beyond mamakara and ahamkara and gainingsarvatma bhava.
+
+
+
+
+
+
+
+
+
+
+
 
 \]

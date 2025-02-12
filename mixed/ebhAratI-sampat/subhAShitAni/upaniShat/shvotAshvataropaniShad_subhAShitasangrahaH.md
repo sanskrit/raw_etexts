@@ -11,9 +11,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4NTA1MzgzMDY
 
 \[
 
+
+
+
+
  
 
 ** श्वेताश्वतरोपनिषत्**
+
 
 \<1,12\>  
  एतज्ज्ञेयं नित्यमेवात्मसंस्थं  
@@ -83,5 +88,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM4NTA1MzgzMDY
 \</3,20\>
 
  --------------------------------------------
+
 
 \]
