@@ -18,18 +18,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxODY0MjkwNDY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 .
@@ -4264,8 +4252,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxODY0MjkwNDY
 
 ![](../books_images/U-IMG-1704535388Screenshotfrom2024-01-0615-32-03.png)
 
-
-
 **श्राद्धकल्पपरिशिष्टम्[^3]।  
 ![](../books_images/U-IMG-1704535537Screenshotfrom2024-01-0615-35-26.png)**
 
@@ -4398,17 +4384,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkxODY0MjkwNDY
 तर्कालङ्कारभट्टाचार्य्यविरचितं श्राद्धकल्पपरिशिष्ट-  
 भाष्यं सम्पूर्णम्।**
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
 

@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3ODU2NDE4MDU
 
 \[
 
-
-
 apishali_shiksha  
 आपिशलि शिक्षा  
 अथ शिक्षां प्रवक्ष्यामि मतामापिशलेर्मुनेः  
@@ -197,7 +195,5 @@ apishali_shiksha
 घोषोऽल्पप्राणता चैव महाप्राणः स्वरास्त्रयः  
 बाह्यं करणमाहुस्तान् वर्णानां वर्णवेदिनः २६  
        इत्यापिशलिशिक्षा समाप्ता  
-
-
 
 \]

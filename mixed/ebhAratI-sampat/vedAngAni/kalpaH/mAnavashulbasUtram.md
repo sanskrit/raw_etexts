@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU1MzExNDYxMzI
 
 \[
 
-
-
 Mānava Shulba Sūtra  
 मानवशुल्बसूत्रम्
 
@@ -404,6 +402,5 @@ Mānava Shulba Sūtra
 अष्टषष्ट्या च चक्रस्य चितयः पञ्च पूरिताः ७  
 इति शुल्बसूत्रं समाप्तम् ८  
 १६
-
 
 \]

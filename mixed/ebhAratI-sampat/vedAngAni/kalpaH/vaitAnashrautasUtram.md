@@ -12,15 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 \[
 
-
-
-
-
 वैतान
 
 सूत्र
-
-
 
 अथ
 
@@ -344,8 +338,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 १
 
-
-
 यत्र
 
 विजानाति
@@ -661,8 +653,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 १७
 
 २
-
-
 
 येनेन्द्रा
 
@@ -1005,8 +995,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 २२
 
 ३
-
-
 
 एधोऽसीति
 
@@ -1440,10 +1428,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 समाप्तः
 
-
-
-
-
 अथाग्न्याधेयम्
 
 १
@@ -1734,8 +1718,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ५
 
-
-
 यदक्रन्दः
 
 प्रथमं
@@ -2025,8 +2007,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 २
 
 ६
-
-
 
 सायं
 
@@ -2378,8 +2358,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ७
 
-
-
 त्रयोदश्यामाग्नावैष्णवमेकादशकपालं
 
 निर्वपेद्दर्शपूर्णमासावारिप्समानोऽग्नाविष्णू
@@ -2720,8 +2698,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ८
 
-
-
 कार्त्तिक्यां
 
 साकमेधाः
@@ -3038,8 +3014,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ९
 
-
-
 अथ
 
 पशौ
@@ -3352,10 +3326,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 समाप्तः
 
-
-
-
-
 सोमेन
 
 यक्ष्यमाण
@@ -3656,8 +3626,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ११
 
-
-
 अग्निहोत्रं
 
 च
@@ -3913,8 +3881,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 २
 
 १२
-
-
 
 तिस्रो
 
@@ -4290,8 +4256,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 १३
 
-
-
 घर्मं
 
 तपाम्यमृतस्य
@@ -4598,8 +4562,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 १४
 
-
-
 उपसद्याग्नेयसौम्यवैष्णवान्
 
 १
@@ -4863,8 +4825,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 ५
 
 १५
-
-
 
 वसतीवरीः
 
@@ -5226,8 +5186,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 १६
 
-
-
 चात्वालाद्दक्षिणत
 
 उपविशन्ति
@@ -5557,8 +5515,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 ७
 
 १७
-
-
 
 आग्नीध्र
 
@@ -5952,8 +5908,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 १८
 
-
-
 सवनीयपुरोडाशानामैन्द्रा
 
 न्
@@ -6297,8 +6251,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 ९
 
 १९
-
-
 
 प्रथमोत्तमाभ्यां
 
@@ -6660,8 +6612,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 २०
 
-
-
 आ
 
 याहि
@@ -7003,8 +6953,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 ११
 
 २१
-
-
 
 यस्यां
 
@@ -7356,8 +7304,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 २२
 
-
-
 आग्नीध्रीये
 
 हविरुच्छिष्टं
@@ -7657,8 +7603,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 १३
 
 २३
-
-
 
 यत्ते
 
@@ -8019,10 +7963,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 समाप्तः
 
-
-
-
-
 अग्निष्टोमसाम्नो
 
 होत्रे
@@ -8308,8 +8248,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 १
 
 २५
-
-
 
 अतिरात्रे
 
@@ -8660,8 +8598,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 २
 
 २६
-
-
 
 वाजपेयः
 
@@ -9095,10 +9031,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 समाप्तः
 
-
-
-
-
 काममप्रथमयज्ञेऽग्निः
 
 १
@@ -9419,8 +9351,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 २८
 
-
-
 मधु
 
 वाता
@@ -9722,8 +9652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 २
 
 २९
-
-
 
 अग्निचित्सोमातिपूतः
 
@@ -10094,10 +10022,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 पञ्चमोऽध्यायः
 
 समाप्तः
-
-
-
-
 
 माध्याः
 
@@ -10552,8 +10476,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 १
 
 ३१
-
-
 
 षडहेऽभिप्लववदाज्यस्तोत्रियाः
 
@@ -11225,8 +11147,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ३२
 
-
-
 नवरात्रेऽभिजिद्विषुवान्विश्वजिच्चतुर्विंशवदुक्थवर्जम्
 
 ।
@@ -11715,8 +11635,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ३३
 
-
-
 प्रादुर्भूतेषु
 
 नक्षत्रेषु
@@ -12099,8 +12017,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ३४
 
-
-
 यथास्तुतमनुशंसति
 
 १
@@ -12292,10 +12208,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 षष्ठोऽध्यायः
 
 समाप्तः
-
-
-
-
 
 अथ
 
@@ -12620,8 +12532,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 १
 
 ३६
-
-
 
 पृच्छामि
 
@@ -13021,8 +12931,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ३७
 
-
-
 अथ
 
 भैषज्याय
@@ -13258,10 +13166,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 सप्तमोऽध्यायः
 
 समाप्तः
-
-
-
-
 
 अथ
 
@@ -13533,8 +13437,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ३९
 
-
-
 विराजि
 
 भूमिस्तोमे
@@ -13784,8 +13686,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 २
 
 ४०
-
-
 
 व्युष्ट्याङ्गिरसकापिवनचैत्ररथद्व्यहानां
 
@@ -14116,8 +14016,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 
 ४१
 
-
-
 पृष्ठस्य
 
 द्वितीय
@@ -14407,8 +14305,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 ४
 
 ४२
-
-
 
 अग्न्याधेयं
 
@@ -14777,6 +14673,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzgwOTY3NzY
 वैतानसूत्रेऽष्टमोऽध्यायः
 
 समाप्तः
-
 
 \]

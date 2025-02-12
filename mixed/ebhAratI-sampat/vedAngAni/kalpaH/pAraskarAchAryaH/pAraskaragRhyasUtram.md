@@ -17,18 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg4NzM0NzcwODQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 .
@@ -348,16 +336,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg4NzM0NzcwODQ
 
 **![](../books_images/U-IMG-1702705262321-removebg-preview.png)**
 
-
-
-
-
-
-
-
-
-
 \]
-
-
 

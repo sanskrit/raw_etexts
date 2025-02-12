@@ -14,31 +14,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU3NDY1MTY1MzU
 
 \
 
-
-
 61 तः review करणीयम्
-
-
-
-
 
 **DAIVAJNA-VALLABHA**
 
 **दैवज्ञवल्लभा**
 
-
-
-
-
-
-
 By
 
 VARAHA MIHIRA
-
-
-
-
 
 **RANJAN PUBLICATIONS**  
 
@@ -115,8 +99,6 @@ regarding objects held in the mind or in the fist.
 14.प्रकीर्णाध्यायः-Miscellaneous matters.  
 
 15.लग्नचिन्ता - Judgement fromascendant etc.
-
-
 
 ॥श्रीगणेशाय नमः ॥
 
@@ -347,8 +329,6 @@ In short the astrologer should be alert enough to watch around him. The touching
 
 Thus ends the I Chapter Prasnavatara (Beginning of the Query) in the work Daivajnavallabha of Varabamihira
 
-
-
 SECOND
 
 **Good and Bad Results**
@@ -397,8 +377,6 @@ The house which is associated or aspected by its lord flourishes and yields its 
 flourishes well. (6) The house having an abundancy of benefic vargas also flourishes well.
 
 The houses 6, 8 and 12 are generally regarded as inauspicious and their lords as damaging the prospects of the houses occupied by them. As these houses are counted from the lagna they may be inauspicious or harmful in respect of the affairs of lagna like the health, accidents and death etc. They may be auspicious and helpful in the promotion of the affair of some other house or houses. The 8th house is 11th house counted from the 10th house. It shall therefore be helpful in the advancement of career etc.
-
-
 
 The 5th house is
 
@@ -548,8 +526,6 @@ The objects that are to be judged from the different houses as proclaimed by the
 
 तत्पृच्छायां तु तल्लग्नमेव वा पूर्ववद्भवेत् ॥ १८ ॥
 
-
-
 While answering queries, whatever object is under consideration, the house representing the same should be treated as the ascendant and the results declared.
 
 यद्यद्भावेषु यत्कर्म तस्माल्लग्नव्यवस्थितिः ।  
@@ -589,8 +565,6 @@ All the desired objects are achieved if the benefics occupy the quadrants (1, 4,
 \(ii\) प्रश्नज्ञान Sloka 88  
 
 (iii)प्रश्नवैष्णव-Chapter 1, Sloka 7.
-
-
 
 केन्द्राधिनाथो यदि लग्नगः स्यात्तन्मित्रमेतस्य च केन्द्रगं वा ।  
 
@@ -662,8 +636,6 @@ query and the planetary combinations Slokas 11 and 12 in Miscellanious chapter o
 
 Here ends Chapter Il entitled "Good and Bad Results" of Daivajnavallabha.
 
-
-
 THIRD
 
 **Gains and Losses**
@@ -689,8 +661,6 @@ Prithuyas in Shatpanchashika says the same thing. Sloka 2 in Chapter 4 refers. H
 1\.
 
 Compares षट्पंचशिकChap. IV, SI. 2-3
-
-
 
 Here we need a clear definition of *labha* or gain. There are two types of gains. The one is the gain of position and rank or name and fame. The other gain is in terms of money or wealth. It may also be added here that the one is not the synonym for the other. The astrologer should be quite clear in his divination about what he means. House 11 stands for income or gains in financial terms. House 2 indicates the personal acquisition or the bank balance. The houses touched here are 10 the and 7 the. The former stands for the Karmasthana of the native indicating name, fame and honour. The 7th house is 10th to the 10th and as such may be taken to represent the same port-folio as the 10th house. The eleventh house to the 11th is 9th house and second to the second is the third house. They may also be clubbed together standing for income and personal acquisitions. There should be no ambiguity in the language. Unless the houses concerning economic or material gains are involved the material gains should not be foretold.
 
@@ -748,8 +718,6 @@ NOTES: This is the opinion of Prithuyasas and Bhattotpala also. Acharya Siddha N
 
 "अभीष्टवस्तु प्रतिश्चिरेण गमनागम बन्धमोक्षा । "
 
-
-
 ॥इति श्री दैवज्ञवल्लभाध्याय तृतीयः॥
 
 Here ends Chapter III entitled "Gains and Losses".
@@ -757,8 +725,6 @@ Here ends Chapter III entitled "Gains and Losses".
 --------------------------------------
 
 1\. प्रश्नवैष्णव, Ch. I. Sloka 45.
-
-
 
 FOURTH
 
@@ -819,8 +785,6 @@ If the ascendants fall in a fixed sign and there is aspect of malefic planets on
 चन्द्रतोऽथ यदि वा विलग्नतो द्वादशद्वितयराशिगामिनः ।  
 
 शुक्रवाक्यतिशशांकनन्दनाः का गमऽऽगमकथाऽस्ति पृच्छतः ॥ ७ ॥
-
-
 
 If Venus, Jupiter or Mercury is placed in the 2nd or 12th sign from Lagna or Chandra lagna what is there to be told about travel, to the querist.
 
@@ -911,8 +875,6 @@ Gaimini in his Gnana Pradeepika has given more detailed an account of the houses
 Here ends Chapter IV entitled "Travels in general" of the work
 
 Dalvajnavallabha.
-
-
 
 **FIFTH**
 
@@ -1040,8 +1002,6 @@ Daivajna Neelakantha has said when there will be peace between the invading and 
 Here ends Chapter V entitled "The Invasion and Retreat of Enemies" of
 Daivajnavallabha.
 
-
-
 **SIXTH**
 
 **Queries about one who is Abroad  
@@ -1166,8 +1126,6 @@ The other method that is propounded there is to find out the strongest planet in
 Here ends Chapter VI of Daivajnavallabha entitled  
 
 "Queries about who is in Asylum"
-
-
 
 **SEVENTH**
 
@@ -1418,8 +1376,6 @@ Here ends Chapter VII of Daivajnavallabha entitled
 
 "Success and Defeat"
 
-
-
 EIGHT
 
 **Recovery from Diseases  
@@ -1495,8 +1451,6 @@ to.
 
 Here ends Chapter VIII of Daivajnavallabba entitled  
 "Diseases and their cure"
-
-
 
 NINTH
 
@@ -1629,8 +1583,6 @@ NOTES: According to Madhava the direction of the lost article is indicated by th
 हतलब्धिरुक्ता ।  
 होरेन्दुयुक्तालयदिङ्मुखेषु सूर्येण लग्नाधिपराशिभूमौ ॥१० ॥
 
-
-
 If there is Venus in the second house and Jupiter in the 12th house with a benefic in the ascendant the stolen article is got back. If the Moon is in the ascendant, it is got in the direction of the sign of the ascendant and if the Sun is in the ascendant it is got in the direction of the ascendant.
 
 पूर्णः शशी यदि विलग्नगतः शुभो वा  
@@ -1676,8 +1628,6 @@ If the 7th house falls in the signs Leo, Scorpio, or Aquarius and these signs co
 
 Here ends the IX Chapter of Daivajnavallabha entitled  
 "Getting or not Getting Lost Articles"
-
-
 
 **TENTH**
 
@@ -1847,8 +1797,6 @@ If Taurus, Cancer, Sagittarius, Libra or Pisces rises as ascendant and the same 
 "Here ends the Chapter X of Dalvajnavallabha entitled Queries  
 relating to objects held in the mind or in the Fist."
 
-
-
 ELEVENTH
 
 **Queries regarding Rains  
@@ -1896,8 +1844,6 @@ If the ascendant falls in a watery sign and if the Moon is placed there, aspecte
 
 Thus ends the chapter XI of Dalvajnavallabha entitled "Queries  
 Regarding Rains"
-
-
 
 TWELFTH
 
@@ -1996,8 +1942,6 @@ If the ascendant and the Moon fall in movable sings and if both are aspected by 
 
 Here ends chapter XII of Daivajnavallabha entitled "Acquisition of marriage"
 
-
-
 THIRTEENTH
 
 **Birth of Male or Female children  
@@ -2023,8 +1967,6 @@ If Saturn occupies an odd sign, he causes the birth of a son. If he occupies an 
 
 पुरुषवर्गगते च यथोदये नरनभोगतिनाऽभिनिरीक्षिते ।  
 बलिनि निश्चितमेव सुतोद्भवो वरमपीह शुभं लभतेऽगना ॥ ३ ॥
-
-
 
 If the ascendant falls in a number of male vargas (rasi, drekkana, navamsa, dwadasamsa etc., are owned by a male planet) and be strongly aspected by male planets, surely a son will be born. If the query concerns marriage the girl will surely get a good bridegroom.
 
@@ -2147,8 +2089,6 @@ These planets cause abortion in the months pertaining to them, when they are in 
 
 Here ends Chapter XIII of Daivajnavallabba entitled  
 "Birth of Male or Female children'.
-
-
 
 FOURTEEN
 
@@ -2289,8 +2229,6 @@ cause.
 व्रणकृदशुभः षष्ठो लग्नात्तनौ भसमाश्रिते  
 तिलकमसकृदृष्टः सौम्यैर्भवेत्स च लक्ष्मवान् ॥१६॥
 
-
-
 The house wherein three planets along with Mercury are situated, produces invariably a wound or a mole in the part of the body signified by that house. If a malefic is situated in the 6th house, in the part of the body signified by sign in which the sixth house falls, wounds are caused. If that planet is aspected by benefic planets, there will be a mole or mark on that part. If it be only conjoined with benefic planets there will be just a mark.
 
 NOTES : Vide Brihat Jataka Chapter V Sloka 26 for details.
@@ -2418,8 +2356,6 @@ NOTES :
 
 **Here ends Chapter XIV of Dalvajnavallabha entitled  
 "Miscellaneous Matters"**
-
-
 
 FIFTEEN
 
@@ -2650,8 +2586,6 @@ If परिघदण्ड is on the left, the Moon in the front, Rahu at the b
 समुद्यताशाकथितानि भंतवा  
 फलानि वीर्यान्नयति स्वकाष्ठाम् ॥३७ ॥
 
-
-
 If there is a strong planet in the 5th house to the planet who is the lord of the direction of journey that planet will prevent his travel in the desired direction but will make him travel in the direction ascribed to it.
 
 एकोपि जीव
@@ -2721,18 +2655,5 @@ Here ends chapter XV of Daivajnavallabha entitled
 
 Plese attach the picture here
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
 

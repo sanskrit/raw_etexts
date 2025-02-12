@@ -12,15 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 \[
 
-
-
 मानवश्रौतसूत्रम्
 
-
-
 मानवश्रौतसूत्रम्
-
-
 
 उत्तरतउपचारो
 
@@ -689,8 +683,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ५३
 
 १
-
-
 
 चन्द्रा
 
@@ -1371,8 +1363,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ४२
 
 २
-
-
 
 वेदं
 
@@ -2104,10 +2094,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 प्रथमोऽध्यायः
 
-
-
-
-
 श्वोभूते
 
 पश्चाद्गार्हपत्यस्योदीच
@@ -2794,8 +2780,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अनिर्मृष्टायामासिच्य
 
 विष्णोर्मनसा
@@ -3197,8 +3181,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३४
 
 २
-
-
 
 निर्दग्धँ
 
@@ -3661,8 +3643,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३२
 
 ३
-
-
 
 पश्चादाहवनीयस्य
 
@@ -4209,8 +4189,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २९
 
 ४
-
-
 
 प्रत्युष्टँ
 
@@ -4786,8 +4764,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ५
 
-
-
 विष्णोः
 
 स्तुपोऽसीति
@@ -5328,8 +5304,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 द्वितीयोऽध्यायः
 
-
-
 होतर्यवस्थितेऽग्नये
 
 समिध्यमानायानुब्रूहीत्युक्त्वा
@@ -5858,8 +5832,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 घृतवती
 
 अध्वर्य
@@ -6334,8 +6306,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 प्राशित्रहरणमुत्तरस्य
 
 पश्चात्परिधिसंधेर्व्युह्यौषधीरवोक्षिते
@@ -6637,8 +6607,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २५
 
 ३
-
-
 
 आनुयाजिकीँ
 
@@ -7248,8 +7216,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 वेदोपयामोऽवद्यन्सोमायानुब्रूहीत्यनुवाचयति
 
 १
@@ -7771,8 +7737,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 प्राक्सोमे
 
 तृतीयोऽध्यायः
-
-
 
 पूर्णे
 
@@ -8304,8 +8268,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अग्निना
 
 यज्ञश्चक्षुष्मानग्नेरहं
@@ -8765,8 +8727,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २२
 
 २
-
-
 
 सोमस्याहं
 
@@ -9310,8 +9270,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 चतुर्थोऽध्यायः
 
-
-
 अग्नीनादधीत
 
 वसन्ते
@@ -9769,8 +9727,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३३
 
 १
-
-
 
 शल्कैरग्निमिन्धान
 
@@ -10270,8 +10226,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 गार्हपत्यलक्षणस्य
 
 पश्चान्मुञ्जावलोपानन्यद्वा
@@ -10555,8 +10509,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १९
 
 ३
-
-
 
 या
 
@@ -10886,8 +10838,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 दार्शपौर्णमासिकँ
 
 विधानमिष्टीनाम्
@@ -11135,8 +11085,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १९
 
 ५
-
-
 
 सँ
 
@@ -11513,8 +11461,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 प्राक्सोमे
 
 पञ्चमोऽध्यायः
-
-
 
 उद्धराहवनीयमित्युक्त्वा
 
@@ -12398,8 +12344,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 वाग्यतोऽधिश्रित
 
 उन्नीयमाने
@@ -12751,8 +12695,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १८
 
 २
-
-
 
 दशावरा
 
@@ -13280,8 +13222,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 पर्वण्याग्रयणं
 
 कुर्वीत
@@ -13774,8 +13714,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 आहितेषु
 
 व्यृध्यमानः
@@ -13941,8 +13879,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 प्राक्सोमे
 
 षष्ठोऽध्यायः
-
-
 
 चातुर्मास्यान्यारप्स्यमानः
 
@@ -14435,8 +14371,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ४८
 
 १
-
-
 
 सिद्धमा
 
@@ -15590,8 +15524,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 उत्तरतो
 
 गार्हपत्यस्य
@@ -16241,8 +16173,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 साकमेधाश्चतुर्षु
 
 मासेषु
@@ -16558,8 +16488,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३५
 
 ५
-
-
 
 प्राग्दक्षिणाचाराः
 
@@ -17175,8 +17103,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ६
 
-
-
 उत्तरतो
 
 गार्हपत्यस्यैककपालाञ्श्रपयति
@@ -17409,8 +17335,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १६
 
 ७
-
-
 
 शुनासीर्यं
 
@@ -17651,8 +17575,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 प्राक्सोमे
 
 सप्तमोऽध्यायः
-
-
 
 ऐन्द्रा
 
@@ -18031,8 +17953,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २९
 
 १
-
-
 
 उत्तरतो
 
@@ -18427,8 +18347,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३०
 
 २
-
-
 
 प्रजापतेर्जायमानाः
 
@@ -19128,8 +19046,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 नमस्त
 
 आतानेति
@@ -19728,8 +19644,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 स्रुचँ
 
 शूर्पं
@@ -20176,8 +20090,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ५
 
-
-
 आनुयाजिकीँ
 
 समिधमादायाग्नीदौपयजानङ्गारानाहरोपयष्टरुपसीद
@@ -20544,8 +20456,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 प्राक्सोमाख्यः
 
 समाप्तः
-
-
 
 अग्निष्टोमेन
 
@@ -21201,8 +21111,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ४५
 
 १
-
-
 
 आकूत्यै
 
@@ -21913,8 +21821,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ४१
 
 २
-
-
 
 याग्निहोत्रस्य
 
@@ -22660,8 +22566,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 उपमध्यमायाँ
 
 हिरण्यमाबध्यास्माकोऽसीति
@@ -23266,8 +23170,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 आतिथ्यायेध्माबर्हिः
 
 संनह्यति
@@ -23477,8 +23379,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 मानवसूत्रेऽग्निष्टोमे
 
 प्रथमोऽध्यायः
-
-
 
 तानूनप्त्रं
 
@@ -24220,8 +24120,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अर्धव्रते
 
 प्रदाय
@@ -24707,8 +24605,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३८
 
 २
-
-
 
 उत्तरतो
 
@@ -25270,8 +25166,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३९
 
 ३
-
-
 
 दक्षिणत
 
@@ -25909,8 +25803,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 षड्ढोता
 
 पाशुक्यारम्भणीया
@@ -26390,8 +26282,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 मानवसूत्रेऽग्निष्टोमे
 
 द्वितीयोऽध्यायः
-
-
 
 उपतिष्ठते
 
@@ -26880,8 +26770,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २४
 
 १
-
-
 
 देवेभ्यः
 
@@ -27435,8 +27323,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 देवस्य
 
 त्वा
@@ -27817,8 +27703,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 अभिषवायोपविशन्त्यधिषवणस्य
 
 दक्षिणतः
@@ -28142,8 +28026,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३२
 
 ४
-
-
 
 ऊर्ध्वमन्तर्यामाद्ग्रहाग्राणि
 
@@ -28514,8 +28396,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १९
 
 ५
-
-
 
 हविर्धानादध्यास्तावात्प्रहाणाः
 
@@ -28989,8 +28869,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २१
 
 ६
-
-
 
 अवकाशैर्यजमानो
 
@@ -29626,8 +29504,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ७
 
-
-
 द्विदेवत्यैः
 
 प्रचरतः
@@ -29903,8 +29779,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 मानवसूत्रेऽग्निष्टोमे
 
 तृतीयोऽध्यायः
-
-
 
 पूतभृतोऽन्ते
 
@@ -30802,8 +30676,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 ऋतुग्रहैः
 
 प्रचरतः
@@ -31430,8 +31302,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 उक्थ्यविग्रहैः
 
 प्रचरतः
@@ -31787,8 +31657,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३१
 
 ३
-
-
 
 माध्यंदिनाय
 
@@ -32192,8 +32060,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 शालामुखीये
 
 दाक्षिणौ
@@ -32557,8 +32423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २०
 
 ५
-
-
 
 मरुत्वतीयाभ्यां
 
@@ -32945,8 +32809,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 मानवसूत्रेऽग्निष्टोमे
 
 चतुर्थोऽध्यायः
-
-
 
 तृतीयसवनाय
 
@@ -33678,8 +33540,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अभ्युदाहरति
 
 सौम्यम्
@@ -34130,8 +33990,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 यद्युक्थ्य
 
 उक्थ्यो
@@ -34449,8 +34307,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३०
 
 ३
-
-
 
 आनुयाजिकीप्रभृति
 
@@ -35291,8 +35147,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 प्रायणीयेनोदयनीयो
 
 व्याख्यातः
@@ -35758,8 +35612,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 मानवसूत्रेऽग्निष्टोमः
 
 समाप्तः
-
-
 
 ब्रह्मा
 
@@ -36645,8 +36497,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अग्निहोत्राय
 
 चेदुपसृष्टा
@@ -37097,8 +36947,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 यस्याहुतेऽग्निहोत्रे
 
 पूर्वोऽग्निरनुगछेदग्निना
@@ -37324,8 +37172,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १२
 
 ३
-
-
 
 यद्यर्वाक्शम्याप्रासादग्निरपक्षायेत्
 
@@ -37576,8 +37422,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १०
 
 ४
-
-
 
 यदि
 
@@ -38071,8 +37915,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १८
 
 ५
-
-
 
 सत्त्रे
 
@@ -38640,8 +38482,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ६
 
-
-
 यद्यर्वाक्स्तुयुर्यावतीभिर्न
 
 स्तुयुस्तावतीभिरतिस्तुयुर्भूयोऽक्षरतराभिर्वा
@@ -38937,8 +38777,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १०
 
 ७
-
-
 
 यद्युख्योऽनुगछेत्प्रणीय
 
@@ -39347,8 +39185,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 प्रायश्चित्ताध्यायः
 
 समाप्तः
-
-
 
 अथातः
 
@@ -39933,8 +39769,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३३
 
 १
-
-
 
 पूर्व
 
@@ -40597,8 +40431,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३७
 
 २
-
-
 
 सावित्रेण
 
@@ -41312,8 +41144,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 अथात
 
 उत्सादनम्
@@ -41936,8 +41766,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 अथातो
 
 दधिघर्मेण
@@ -42106,8 +41934,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ५
 
-
-
 अथासुरिगव्यः
 
 १
@@ -42255,8 +42081,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ६
 
 ६
-
-
 
 अवान्तरदीक्षामुपैष्यन्नुदगयने
 
@@ -42440,8 +42264,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ७
 
-
-
 आरण्यँ
 
 स्वाध्यायमध्येष्यमाण
@@ -42539,8 +42361,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 प्रवर्ग्यकल्पः
 
 समाप्तः
-
-
 
 इष्टिभिर्यजेत
 
@@ -42968,8 +42788,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अग्न्याधेयेष्टीनां
 
 पवमानस्याग्न
@@ -43275,8 +43093,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १७
 
 २
-
-
 
 वैश्वदेवेऽग्नये
 
@@ -43658,8 +43474,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 साकमेधेष्वग्निर्वृत्राणि
 
 जङ्घनदिति
@@ -43939,8 +43753,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २८
 
 ४
-
-
 
 काम्या
 
@@ -44794,8 +44606,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ५
 
-
-
 सौमारौद्रं
 
 घृते
@@ -45319,8 +45129,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ४६
 
 ६
-
-
 
 ऐन्द्र
 
@@ -45896,8 +45704,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ७
 
-
-
 आदित्यं
 
 घृते
@@ -46177,8 +45983,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १९
 
 ८
-
-
 
 सौर्यं
 
@@ -46649,8 +46453,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३८
 
 ९
-
-
 
 अग्नये
 
@@ -47418,8 +47220,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 प्रथमोऽध्यायः
 
-
-
 आग्नेयमष्टाकपालं
 
 निर्वपेन्मैत्रावरुणीं
@@ -47770,8 +47570,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 आमयाव्यायुष्कामेष्ट्या
 
 यजेत
@@ -48119,8 +47917,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २५
 
 २
-
-
 
 सर्वपृष्ठया
 
@@ -48515,8 +48311,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २३
 
 ३
-
-
 
 ऐष्टिक्या
 
@@ -49104,8 +48898,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 द्वादशरात्रं
 
 तपस्तप्त्वा
@@ -49351,8 +49143,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २१
 
 ५
-
-
 
 राजा
 
@@ -49706,8 +49496,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ६
 
-
-
 राजसूयात्काम्यानां
 
 निर्हारः
@@ -49991,8 +49779,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २८
 
 ७
-
-
 
 अथ
 
@@ -50652,8 +50438,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ८
 
-
-
 पशुबन्धे
 
 देवतायजमानपशुवाचिनामेकवचनद्विवचनबहुवचनानि
@@ -50899,8 +50683,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ७
 
 ९
-
-
 
 ऐन्द्रा
 
@@ -51479,8 +51261,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १०
 
-
-
 कौकिल्याः
 
 सौत्रामण्याः
@@ -52052,8 +51832,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ११
 
-
-
 तन्त्रँ
 
 यूपाहुतेः
@@ -52540,8 +52318,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १२
 
-
-
 यजमानयज्ञपतिवादानूहेत्समवाये
 
 ॥
@@ -52743,8 +52519,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २
 
 १३
-
-
 
 चित्तिः
 
@@ -53135,8 +52909,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २८
 
 १४
-
-
 
 भूपते
 
@@ -53757,8 +53529,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १५
 
-
-
 दीक्षणीयाप्रभृतीन्युपास्ते
 
 १
@@ -54062,8 +53832,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 इष्टिकल्पः
 
 समाप्तः
-
-
 
 अग्निं
 
@@ -54621,8 +54389,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 वि
 
 पाजसेति
@@ -55075,8 +54841,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 पञ्च
 
 साण्डानालभते
@@ -55510,8 +55274,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३६
 
 ३
-
-
 
 सौवर्णँ
 
@@ -55982,8 +55744,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 समस्य
 
 ४
-
-
 
 अपेत
 
@@ -56663,8 +56423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ५
 
-
-
 ओषधीरारण्या
 
 ग्राम्याश्च
@@ -56968,8 +56726,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २०
 
 ६
-
-
 
 पदे
 
@@ -57551,8 +57307,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ७
 
-
-
 उत्तरस्मिन्नँ
 
 से
@@ -57876,8 +57630,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 चयने
 
 प्रथमोऽध्यायः
-
-
 
 आपराह्णिक्यौ
 
@@ -58797,8 +58549,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 महाव्रतमुपदधात्यायाहि
 
 सुषुमा
@@ -59204,8 +58954,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २०
 
 ३
-
-
 
 सौवर्णानाँ
 
@@ -59674,8 +59422,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २१
 
 ४
-
-
 
 अग्निस्तिग्मेन
 
@@ -60375,8 +60121,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ५
 
-
-
 पदलोभनप्रभृति
 
 सिद्धमा
@@ -60918,8 +60662,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 चयनकल्पः
 
 समाप्तः
-
-
 
 शरदि
 
@@ -61547,8 +61289,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 सिद्धमा
 
 रशनाकालात्
@@ -62062,8 +61802,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३९
 
 २
-
-
 
 माहेन्द्रं
 
@@ -62592,8 +62330,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 वाजपेये
 
 प्रथमोऽध्यायः
-
-
 
 उभयं
 
@@ -63205,8 +62941,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अन्वहं
 
 पृष्ठ्यः
@@ -63673,8 +63407,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 चतुर्विँ
 
 शोऽग्निष्टोमो
@@ -64123,8 +63855,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 द्वादशाहे
 
 ग्रहाग्राणि
@@ -64445,8 +64175,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 एकविँ
 
 शोऽग्निष्टोमः
@@ -64702,8 +64430,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २१
 
 ५
-
-
 
 महाव्रतं
 
@@ -65168,8 +64894,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ७
 
 ६
-
-
 
 माहेन्द्र
 
@@ -66055,8 +65779,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 समाप्तम्
 
-
-
 अथानुग्रहान्व्याख्यास्यामः
 
 १
@@ -66311,8 +66033,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 आज्यं
 
 निर्वपति
@@ -66539,8 +66259,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 यदि
 
 वत्सेष्वपाकृतेषु
@@ -66681,8 +66399,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 पुत्रे
 
 जातेऽश्वत्थस्य
@@ -66780,8 +66496,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ८
 
 ४
-
-
 
 पञ्चाग्निकँ
 
@@ -66896,8 +66610,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ७
 
 ५
-
-
 
 अथ
 
@@ -67043,8 +66755,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ६
 
-
-
 प्रवसन्तमेव
 
 समीज्योपादानमेतान्सोमार्थानग्नीनुत्पाद्य
@@ -67094,8 +66804,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ४
 
 ७
-
-
 
 अग्निहोत्राण्यग्निहोत्रेणैव
 
@@ -67150,8 +66858,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३
 
 ८
-
-
 
 वसन्ते
 
@@ -67212,8 +66918,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ४
 
 ९
-
-
 
 पयसा
 
@@ -67298,8 +67002,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ४
 
 १०
-
-
 
 पञ्चदशदाक्षायणयज्ञेन
 
@@ -67412,8 +67114,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ६
 
 ११
-
-
 
 अथ
 
@@ -67530,8 +67230,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ६
 
 १२
-
-
 
 अथ
 
@@ -67771,8 +67469,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १३
 
-
-
 अलेखो
 
 होतुश्चमस
@@ -67802,8 +67498,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १
 
 १४
-
-
 
 अथ
 
@@ -67991,8 +67685,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १५
 
-
-
 षड्ढोताग्रहपाशुक्यारम्भणीयादक्षिणादानमिति
 
 पराङ्गभूतासु
@@ -68140,8 +67832,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १०
 
 १६
-
-
 
 अथोभायाजिकल्पं
 
@@ -68339,8 +68029,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १७
 
-
-
 व्याख्यातोऽश्वमेधः
 
 पुरुषमेधश्च
@@ -68476,8 +68164,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ११
 
 १८
-
-
 
 अथाहिताग्नेः
 
@@ -68980,8 +68666,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १९
 
-
-
 अनाहिताग्नेः
 
 प्रमीतस्य
@@ -69163,8 +68847,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ११
 
 २०
-
-
 
 देशान्तरस्थे
 
@@ -69384,8 +69066,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २१
 
-
-
 अशीत्यर्धँ
 
 शिरसि
@@ -69455,8 +69135,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 स्मृतः
 
 २२
-
-
 
 पत्यौ
 
@@ -69934,8 +69612,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २३
 
-
-
 अथातस्त्रयोदशे
 
 दिवसे
@@ -70009,8 +69685,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ५
 
 २४
-
-
 
 अथातः
 
@@ -70252,8 +69926,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २५
 
-
-
 अथातस्तीर्थसंचारान्व्याख्यास्यामः
 
 १
@@ -70457,8 +70129,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 इत्यनुग्राहिकोऽध्यायः
 
 समाप्तः
-
-
 
 अथ
 
@@ -71086,8 +70756,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 मैत्राबार्हस्पत्यमभिषेचनीयस्य
 
 दीक्षणीयायाम्
@@ -71622,8 +71290,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 दर्भयोः
 
 प्रतिमुच्या
@@ -72144,8 +71810,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 इयदसीति
 
 राजतँ
@@ -72607,8 +72271,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३०
 
 ४
-
-
 
 माहेन्द्रे
 
@@ -73250,8 +72912,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 प्रथमोऽध्यायः
 
-
-
 पुण्यनाम्नि
 
 देवयजने
@@ -73650,8 +73310,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 उपाँ
 
 शु
@@ -74037,8 +73695,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३१
 
 २
-
-
 
 एकविँ
 
@@ -74515,8 +74171,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २८
 
 ३
-
-
 
 सिद्धमा
 
@@ -74998,8 +74652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 सिद्धमा
 
 दक्षिणाकालात्
@@ -75460,8 +75112,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 द्वितीयोऽध्यायः
 
-
-
 आम्नातँ
 
 विधानमेकाहानाम्
@@ -75747,8 +75397,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २५
 
 १
-
-
 
 षट्साद्यस्क्राः
 
@@ -76103,8 +75751,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३०
 
 २
-
-
 
 देवानां
 
@@ -76551,8 +76197,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ३४
 
 ३
-
-
 
 प्रजापतेरुपहव्योऽनिरुक्तः
 
@@ -77552,8 +77196,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ६
 
-
-
 पशुमद्भिश्चातुर्मास्यैर्यजेत
 
 १
@@ -77906,8 +77548,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ७
 
-
-
 सौम्यैश्चातुर्मास्यैर्यजेत
 
 १
@@ -78229,8 +77869,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 राजसूये
 
 तृतीयोऽध्यायः
-
-
 
 उपरिष्टादतिरात्रा
 
@@ -79000,8 +78638,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अत्रेश्चतुर्वीरश्चतुरात्राणां
 
 प्रथमो
@@ -79566,8 +79202,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 प्रजापतेर्व्रतवानन्नाद्यकामो
 
 यजेत
@@ -80025,8 +79659,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 राजसूये
 
 चतुर्थोऽध्यायः
-
-
 
 सत्त्रेष्वभिप्लवँ
 
@@ -80556,8 +80188,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 आ
 
 त्रयस्त्रिँ
@@ -81063,8 +80693,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २४
 
 २
-
-
 
 गवामयनं
 
@@ -81635,8 +81263,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २८
 
 ३
-
-
 
 सरस्वत्या
 
@@ -82298,8 +81924,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ४
 
-
-
 चातुर्होतृकगोनामिकमप्यनाहिताग्नेर्द्वादशरात्रं
 
 त्रिरात्रमेकरात्रँ
@@ -82709,8 +82333,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २७
 
 ५
-
-
 
 वीरवतीर्भूयास्त
 
@@ -83244,8 +82866,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 समाप्तः
 
-
-
 अथातः
 
 शुल्बँ
@@ -83462,8 +83082,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अष्टाशीतिः
 
 शतमीषा
@@ -83635,8 +83253,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ७
 
 २
-
-
 
 प्राग्वँ
 
@@ -83848,8 +83464,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 जन्मना
 
 रोगहीनो
@@ -84025,8 +83639,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 शुल्बसूत्रँ
 
 समाप्तम्
-
-
 
 अथात
 
@@ -84253,8 +83865,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १४
 
 १
-
-
 
 व्यायामस्याष्टममेकतस्तुरीयमेकत
 
@@ -84621,8 +84231,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १६
 
 २
-
-
 
 दर्भस्तम्बं
 
@@ -84992,8 +84600,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ३
 
-
-
 द्वितीयायां
 
 पुरस्तात्स्वयमातृण्णायाः
@@ -85197,8 +84803,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ६
 
 ४
-
-
 
 यावती
 
@@ -85620,8 +85224,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 समाप्तम्
 
-
-
 वैष्णवे
 
 या
@@ -85867,8 +85469,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १२
 
 १
-
-
 
 जन्मना
 
@@ -86362,8 +85962,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 प्रमाणार्धं
 
 तु
@@ -86473,8 +86071,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ६
 
 ३
-
-
 
 अवलम्बककुष्ठे
 
@@ -87029,8 +86625,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 २९
 
 ४
-
-
 
 सप्तत्रिँ
 
@@ -87630,8 +87224,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ५
 
-
-
 पुरुषस्य
 
 तृतीयपञ्चमौ
@@ -87984,8 +87576,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ६
 
-
-
 रथचक्रस्य
 
 चित्यस्य
@@ -88159,8 +87749,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ८
 
 १६
-
-
 
 अथातः
 
@@ -88422,8 +88010,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 पुरुषीँ
 
 हस्ते
@@ -88569,8 +88155,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 इति
 
 प्रतिग्रहकल्पः
-
-
 
 अथातो
 
@@ -88944,8 +88528,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 अथ
 
 यमलशान्तिः
@@ -89157,8 +88739,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 इति
 
 यमलजातिशान्तिः
-
-
 
 अथात
 
@@ -89401,8 +88981,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 मानवसूत्रे
 
 आश्लेषाविधिः
-
-
 
 शंकर
 
@@ -89683,8 +89261,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 दन्ताप्त्यतिशान्तिः
 
-
-
 अकालप्रसवा
 
 नार्यः
@@ -89770,8 +89346,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 इति
 
 प्रसवेकृतशान्तिः
-
-
 
 अथातो
 
@@ -90745,8 +90319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 नैमित्तिकस्य
 
 पुनर्वक्ष्यामि
@@ -90949,8 +90521,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 २
 
-
-
 शुचिस्नातो
 
 जितेन्द्रि
@@ -91132,8 +90702,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 जपविधानँ
 
 समाप्तम्
-
-
 
 अथातः
 
@@ -91533,8 +91101,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 १
 
-
-
 अथ
 
 जमदग्नीनाम्
@@ -91846,8 +91412,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १५
 
 २
-
-
 
 अङ्गिरसो
 
@@ -92172,8 +91736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ११
 
 ३
-
-
 
 कपिस्तरः
 
@@ -92528,8 +92090,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 १७
 
 ४
-
-
 
 विश्वामित्रान्व्याख्यास्यामः
 
@@ -93031,8 +92591,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ५
 
-
-
 वसिष्ठान्व्याख्यास्यामः
 
 १
@@ -93419,8 +92977,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ६
 
-
-
 कश्यपान्व्याख्यास्यामः
 
 १
@@ -93693,8 +93249,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 ७
 
-
-
 अत्रीन्व्याख्यास्यामः
 
 १
@@ -93874,8 +93428,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ८
 
 ८
-
-
 
 अगस्तीन्व्याख्यास्यामः
 
@@ -94491,8 +94043,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 समाप्तः
 
-
-
 अथातः
 
 श्राद्धकल्पँ
@@ -94704,8 +94254,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 ७
 
 १
-
-
 
 अपि
 
@@ -95086,8 +94634,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 मानवश्राद्धकल्पः
 
 समाप्तः
-
-
 
 अथ
 
@@ -95817,8 +95363,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 
 आभ्युदयिकश्राद्धम्
 
-
-
 अथ
 
 परिशिष्टम्
@@ -96352,6 +95896,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NTkyMDU3NzQ
 श्राद्धपरिशिष्टँ
 
 समाप्तम्
-
 
 \]

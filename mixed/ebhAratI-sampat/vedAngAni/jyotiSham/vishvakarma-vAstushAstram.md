@@ -12,9 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNzkyMjg5NTI
 
 \[
 
-
-
-
 १ अज्ञातमध्यान्तसमुद्भवाय सर्वात्मने सर्वगताय तस्मै।
 
 १ प्रणम्य देवाय मनोभवाय खलीकृतं येन जगत्समग्रम्॥
@@ -417,7 +414,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNzkyMjg5NTI
 
 Eन्दोf Vइवहपतल  
 \\\\Z  
-
-
 
 \]

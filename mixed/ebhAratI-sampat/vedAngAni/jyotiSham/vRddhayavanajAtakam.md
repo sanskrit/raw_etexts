@@ -55,7 +55,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 ३८॥ सुनफायोगाध्यायः ३१  
 ३९॥ दुर्धारायोगाध्यायः १८१  
 
-
 उत्तरखण्ड  
 ४०॥ लग्नाश्रयोगाध्यायः १४३  
 ४१॥ धनाश्रयोगाध्यायः १२०  
@@ -294,7 +293,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 द्युतीविहीनोऽनषसंज्ञितश्च ॥ ५०॥  
 इति श्रीवृद्धयवने राशिप्रभेदः प्रथमोऽध्यायः ॥  
 
-
 आध्याय ०२  
 ग्रहयोनिभेदाध्यायः  
 इनः पतङ्गे मिहिरोऽथ हिंसो  
@@ -427,7 +425,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 ॥॥।ओधिकौ भार्गवसोमपुत्रौ  
 सर्वे मनुष्यप्रकृतिं नयन्ति ॥ ३२॥  
 इति श्रीवृद्धयवने ग्रहयोनिभेदाध्यायः ॥  
-
 
 आध्याय ०३  
 आधानाध्यायः  
@@ -693,7 +690,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 कुटारके छिरयुते विरूपके ॥ २६॥  
 इति श्रीवृद्धयवने जन्माध्यायचतुर्थः ॥  
 
-
 आध्याय ०५  
 आयुर्दयाध्यायः  
 आयुः परं मानववारणानां  
@@ -933,7 +929,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 मिश्राश्च मिश्रं परिपाचयन्ति  
 नीचास्तकेन्द्रे फलपादहानिः ॥ ४३॥  
 इति श्रीवृद्धयवने दशाध्यायः ॥  
-
 
 आध्याय ०७  
 अन्तर्दशाध्यायः  
@@ -2031,7 +2026,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 सदातुरं मित्रविवर्जितं च ॥ ७२॥  
 इति श्रीवृद्धयवने सूर्यदर्शनचारफलानि ॥  
 
-
 आध्याय १०  
 चन्द्रदर्शचाराध्यायः  
 मेषे गतो रात्रिचरः प्रसूते  
@@ -2616,7 +2610,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 सुदिर्घसूत्रं व्यसनैः समेतम् ॥ ७२॥  
 इति श्रिवृद्धयवने भौमदर्शनचारः ॥  
 
-
 आध्याय १२  
 बुधदर्शनचारध्यायः  
 मेषं गतो ज्ञो रविणा च दृष्टः  
@@ -3198,7 +3191,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 विधाविहीनं सततं नृलोके ॥ ७२॥  
 इति श्रीवृद्धयवने गुरुदर्शनचारः ॥  
 
-
 आध्याय १४  
 शुक्रदर्शनचारध्यायः  
 मेषस्थितो दैत्यगुरुः प्रसूते  
@@ -3490,7 +3482,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 चौरावनीशैर्हृतवित्तसारं  
 रोगातुरं बुद्धिविवर्जितं च ॥ ७२॥  
 इति श्रीवृद्धयवने शुक्रदर्शनचारः ॥
-
 
 आध्याय १५  
 शनैश्चरदर्शनचारध्यायः  
@@ -4121,7 +4112,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 साधुप्रचारैः सकलैर्विहीनम् ॥ ८४॥  
 इति श्रीवृद्धयवने ग्रहाणां भावाध्यायः ॥  
 
-
 आध्याय १७  
 सूर्यचाराध्यायः  
 मेषं गतोऽर्कः समरप्रचण्डं  
@@ -4391,8 +4381,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 दिनाधिपो वर्षबलेन हीनो  
 दारिद्रयुक्तं कुरुते मनुष्यम् ॥ ६८॥  
 इति श्रीवृद्धयवने सूर्यचारः ॥  
-
-
 
 आध्याय १८  
 चन्द्रचाराध्यायः  
@@ -5239,7 +5227,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 खलानुरक्तं गुरुभक्तिहीनम् ॥ ६८॥  
 इति श्रीवृद्धयवने बुधचारः ॥  
 
-
 आध्याय २१  
 गुरुचाराध्यायः  
 मेषे गुरुर्देवनरं प्रसूते  
@@ -5513,8 +5500,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 प्रभूतशत्रुपरदाररक्तम् ॥ ६८॥  
 इति श्रीवृद्धयवने गुरुचारः ॥  
 
-
-
 आध्याय २१  
 गुरुचाराध्यायः  
 मेषे गुरुर्देवनरं प्रसूते  
@@ -5787,7 +5772,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 रोगाभिभूतं प्रविहीनसत्यं  
 प्रभूतशत्रुपरदाररक्तम् ॥ ६८॥  
 इति श्रीवृद्धयवने गुरुचारः ॥  
-
 
 आध्याय २२  
 शुक्रचाराध्यायः  
@@ -6061,7 +6045,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 अनार्यशीलं गतमानलभं  
 भयातुरं कापुरुषं सजिह्मम् ॥ ६८॥  
 इति श्रिवृद्धयवने शुक्रचारः ॥  
-
 
 आध्याय २४  
 तनुस्थानचिन्ताध्यायः  
@@ -6510,7 +6493,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 ॥॥॥॥॥॥॥॥॥॥॥॥॥॥ ॥ ३१॥  
 इति श्रीवृद्धयवने धनस्थानचिन्ता ॥
 
-
 आध्याय २६  
 सहजस्थानचिन्ताध्यायः  
 तृतीयसंस्थो यदि वासरेशो  
@@ -6634,7 +6616,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 स्वतुङ्गराशौ यदि वत्तमानाः  
 सर्वे ॥।उ॥।ऽतस्य वशाद्ददन्ति ॥ ३०॥  
 इति श्रीवृधयवने सहजस्थानचिन्ता ॥
-
 
 आध्याय २७  
 सुखस्थानचिन्ताध्यायः  
@@ -6880,7 +6861,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 षण्टाश्रितो स्यात् पुरुषः प्रशस्तः  
 ॥॥॥॥॥॥ंअहीनो यदि वाबलाश्च ॥ ३०॥  
 इति श्रीवृद्धयवने सुतस्थानचिन्ता ॥  
-
 
 आध्याय २९  
 रिपुस्थानचिन्ताध्यायः  
@@ -7238,7 +7218,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 मूलत्रिकोणे खरतः सकाशात् ॥ २९॥  
 इति श्रीवृद्धयवने मृत्युस्थानचिन्ता ॥
 
-
 आध्याय ३२  
 धर्मस्थानचिन्ताध्यायः  
 धर्माश्रितो वासरपः स्वतुङ्गे  
@@ -7351,7 +7330,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 तदंशस्थः परदर्शनोत्थं  
 मूलत्रिकोणे गुरुलब्धमानात् ॥ २८॥  
 इति श्रीवृद्धयवने धर्मस्थानचिन्ता ॥
-
 
 आध्याय ३३  
 कर्मस्थानचिन्ताध्यायः  
@@ -7469,7 +7447,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 मूलत्रिकोणे भिषजोद्भवं च ॥ २८॥  
 इति श्रीवृद्धयवने कर्मस्थानचिन्ता ॥
 
-
 आध्याय ३४  
 लाभस्थानचिन्ताध्यायः  
 लाभाश्रितस्तीक्ष्णकरः स्वतुङ्गे  
@@ -7585,7 +7562,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 तस्यैव भागे कृमिजं सदैव  
 मूलत्रिकोणे स्थिरधर्मजातम् ॥ २८॥  
 इति श्रीवृद्धयवने लाभस्थानचिन्ता ॥  
-
 
 आध्याय ३५  
 व्यायस्थानचिन्ताध्यायः  
@@ -7703,7 +7679,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 मूलत्रिकोणे प्रियसङ्गमाश्च ॥ २८॥  
 इति श्रीवृद्धयवने व्यायस्थानचिन्ता ॥
 
-
 आध्याय ३६  
 लग्नदर्शनचाराध्यायः  
 लग्नेऽर्कदृष्ते सुनृशंसचेष्टो  
@@ -7735,7 +7710,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 रोगान्वितः स्वल्पसु॥॥॥॥॥॥॥॥॥॥।  
 नीचानुरक्तः सततं कृतघ्नः ॥ ७॥  
 इति स्रीवृद्धयवने लग्नदर्शनचारः ॥
-
 
 आध्याय ३७  
 अनफायोगाध्यायः  
@@ -7865,7 +7839,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 नरं नितान्तं जनसंमतं च ॥ ३१॥  
 इति श्रीवृद्धयवनेऽनफायोगाध्यायः ॥  
 
-
 आध्याय ३८  
 सुनफायोगाध्यायः  
 सूर्यं विना रात्रिपतेर्धनस्थो  
@@ -7990,7 +7963,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 कुर्वन्ति राज्यं बहुवित्तलाभं  
 सुसत्यतां भोगविवृद्धिमेव ॥ ३१॥  
 इति श्रीवृद्धयवने सुनफायोगाध्यायः ॥  
-
 
 आध्याय ३९  
 दुर्धारायोगाध्यायः  
@@ -8704,6 +8676,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDI1MjQ4NDAw
 नरोऽत्र जातः प्रभवेत् सुचित्तः  
 सुदारपुत्रार्थच्तुष्पदाढ्यः ॥ १८१॥  
 इति श्रीवृद्धयवने दुर्धरायोगाध्यायः ॥  
-
 
 \]

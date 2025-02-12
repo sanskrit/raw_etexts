@@ -15,21 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMDExNjMzMzE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **॥ श्रीगणेशाय नमः ॥**
 
@@ -478,7 +464,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMDExNjMzMzE
 **इति श्रीमाधवीये कालनिर्णये संवत्सराख्यं**  
 **द्वितीयं प्रकरणम् ॥ २ ॥**
 
-
 **अथ तृतीयं प्रकरणम् ॥ ३ ॥**  
 ![](../../../books_images/1684515086.png)
 
@@ -611,8 +596,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMDExNjMzMzE
 
 **इति श्रीमाधवीये कालनिर्णये ग्रहणनिर्णयः ॥ ५ ॥**
 
-
-
 **श्रीहरिः।  
 सूचीपत्रम्।  
 ![](../../../books_images/1686646248.png)**
@@ -640,7 +623,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMDExNjMzMzE
 | प्रतिपदि पित्र्यनिर्णयः|   | व्रताऽधिकारी|              |
 | तत्रैकोद्दिष्टनिर्णयः|     | एकादशीमहिमा|               |
 | पार्वणनिर्णयः|             | द्वादशीनिर्णयः             |
-
 
 **सूचीपत्रम्।  
 ![](../../../books_images/1686647135.png)**
@@ -712,22 +694,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMDExNjMzMzE
 | ६३  | सांख्यतत्त्वकौमुदी स्वामीबालरामोदासीनकृतटीका स०                        |
 | ६४  | शाकटायनव्याकरणम्                                                       |
 
-  
 **हरिकृष्णदास**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

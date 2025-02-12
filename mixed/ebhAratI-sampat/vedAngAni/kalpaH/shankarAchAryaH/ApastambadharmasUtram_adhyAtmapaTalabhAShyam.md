@@ -13,21 +13,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 \[
 
-
-
 **(Shankaracharya’s Commentary on Adhyatma Patala**
 
 **occurring in the Apastamba Dharmasutra of Taittiriya Yajurveda)**
-
-
 
 अध्यात्मिकान् योगाननुतिष्ठेत् न्यायसंहिताननैश्चारिकान्॥
 
 1
 
 ॥
-
-
 
 ( 1) --
 
@@ -56,8 +50,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 ,
 
 कर्मक्षयहेतुत्वसामान्यात्॥
-
-
 
 ननु वर्णाश्रमविहितानां कर्मणामफलहेतुत्वात् तत्क्षयो नेष्ट इति
 
@@ -145,8 +137,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 केवलेन ज्ञानेन कर्मासंयुक्तेन वेति। न त्वारभ्या केनचिदपि क्षेमप्राप्तिः नित्यत्वात्। अतोऽसदिदं ज्ञानसंयुक्तानि कर्माणि क्षेमप्राप्तिमारभन्त इति॥
 
-
-
 ज्ञानसंयुक्तानं ज्ञानवदेव क्षेमप्राप्तिप्रतिबन्धापनयकर्तृत्वमिति चेत् -- न
 
 ,
@@ -229,8 +219,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 तत्प्रतिबन्धनिवृत्तिर्वा॥
 
-
-
 कर्मसहितात् ज्ञानादविद्यानिवृत्तिरिति चेत्
 
 ;
@@ -265,8 +253,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 '
 
-
-
 '
 
 मृत्युमुखात्प्रमुच्यते
@@ -300,8 +286,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 ,
 
 तथाऽपि सकार्यस्य ज्ञानस्य बलवत्तरत्वात् न केनचिद्वारयितुं शक्यम्॥
-
-
 
 जीवतो दुःखानिवर्तकत्वात् ज्ञानस्यानैकान्तिकं क्षेमप्रापकत्वमिति चेत् -- न
 
@@ -365,8 +349,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 अविद्वद्विषयस्य कर्मणः स्तुत्यर्थत्वोपपत्तेः। मन्दबुद्धयो हि लोके दृष्टप्रयोजनाः प्ररोचनेन प्रवर्तयितव्याः। कर्मसु न दृष्टप्रयोजना विद्वांसः। परनिन्दा हि परस्तुतिरिति केवलज्ञाननिन्दया कर्मस्तुतिपरमाचार्यवचनम्॥
 
-
-
 यत्तु
 
 '
@@ -409,8 +391,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 इत्यादेः। तस्मात् केवलादेव ज्ञानात् क्षेमप्राप्तिः। अथाध्यात्मिकान् योगानिति। अध्यात्मं भवन्तीत्यध्यात्मिकाः। छान्दसं ह्यस्वत्वम्। के ते अध्यात्मिका
 
-
-
 योगाः
 
 ?
@@ -433,21 +413,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
 पुत्रवित्तादिलाभो हि परो दृष्टो लोके। किमात्मलाभेनेत्यत आह --
-
-
-
-
 
 आत्मलाभान्न परं विद्यते॥
 
 2
 
 ॥
-
-
 
 ( 2) --
 
@@ -465,17 +437,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
-
-
 तत्रात्मलामीयान् श्लोकानुदाहरिष्यामः॥
 
 3
 
 ॥
-
-
 
 ( 3) --
 
@@ -505,21 +471,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
-
-
 पूः प्राणिनः सर्व एव गुहाशयस्याहन्यमानस्य विकल्मषस्य।
-
-
 
 अचलं चलनिकेतं येऽनुतिष्ठन्ति तेऽमृताः॥
 
 4
 
 ॥
-
-
 
 ( 4) --
 
@@ -586,8 +544,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 इति च छान्दोग्ये॥
 
-
-
 पूर्वोर्धेन ब्राहृणो याथात्म्यमुक्त्वा उत्तरार्धेन तद्विज्ञानवतस्तद्विज्ञानफलमाह -- -यस्य सर्वे प्राणिनः पुरं अहन्यमानस्य विकल्मषस्य तस्य सर्वप्राणिसंबन्धादर्थसिद्धमाकाशवत् सर्वगतत्वम्
 
 , '
@@ -606,25 +562,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
 कथं तदनुष्ठानमिति
 
 ?
 
 उच्यते --
 
-
-
-
-
 यदिदमिदिहेदिह लोके विषयमुच्यते। विधूय कविरेतदनुतिष्ठेत् गुहाशयम्॥
 
 5
 
 ॥
-
-
 
 ( 5) --
 
@@ -638,15 +586,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
 तत् क्वानुष्ठातव्यमिति
 
 ,
 
 उच्यते --
-
-
 
 आत्मन्नेवाहमलब्ध्वैतद्धितं सेवस्व नाहितम्। अथान्येषु प्रतीच्छामि साधुष्ठानमनपेक्षया।
 
@@ -655,8 +599,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 6
 
 ॥
-
-
 
 ( 6) -- -
 
@@ -685,8 +627,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 ?
 
 तत् हितमेव। तस्मात् सेवस्वेति॥
-
-
 
 किंविशिष्टश्चात्मा सेवितव्य इत्याह -- महान्तं अमितान्तं अनन्तरत्वादबाह्रत्वाच्च महानात्मा तं महान्तम्। गुणैर्वोपाधिसहचारिभिर्महान्तम्
 
@@ -726,8 +666,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
 सर्वभूतेषु यो नित्यो विपश्चिदमृतो ध्रुवः। अनङ्गोऽशब्दोऽशरीरोऽस्पर्शश्च महाञ्छुचिः।
 
 स सर्वं परमा काष्ठा स वैषुवतं स वैभाजनं पुरम्॥
@@ -735,8 +673,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 7
 
 ॥
-
-
 
 ( 7) --
 
@@ -773,8 +709,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 ,
 
 अत एव शुचिर्निरञ्जनः। अथवा शुचिः पावन इत्यर्थः। शुचि हि वस्तु पावनं दृष्टम्। यथा लोके वाय्वग्न्यादि॥
-
-
 
 किञ्च य आत्मा प्रकृतः स सर्वम्।
 
@@ -826,17 +760,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
-
-
 तं योऽनुतिष्ठेत् सर्वत्र प्राध्वं चास्य सदाचरेत्। दुर्दर्शं निपुणं युक्तो यः पश्येत् स मोदेत विष्टपे॥
 
 8
 
 ॥
-
-
 
 ( 8) --
 
@@ -862,10 +790,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
-
-
 आत्मन् पश्यन् सर्वभूतानि न मुह्रेच्चिन्तयन् कविः।
 
 आत्मानं चैव सर्वत्र यः पश्येत् स वै ब्राहृा नाकपृष्ठे विराजति॥
@@ -873,8 +797,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 9
 
 ॥
-
-
 
 ( 9) --
 
@@ -892,8 +814,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
 निपुणोऽणीयान् बिसोर्णाया यः सर्वमावृत्य तिष्ठति।
 
 वर्षीयांश्च पृथिव्या ध्रुवः सर्वमारभ्य तिष्ठति।
@@ -905,8 +825,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 10
 
 ॥
-
-
 
 ( 10) --
 
@@ -988,11 +906,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
 एवं यथोक्तमात्मानं विदितवत आध्यात्मिका योगा न्यायसहिता अप्रतिबन्धेन भविष्यन्ति। मिथ्याप्रत्ययपूर्वका हि दोषाः। दोषनिमित्तश्च धर्माधर्मजनितः संसारः दोषनिवृत्तौ अत्यन्तं विनिवर्तत इत्येतमर्थं दर्शयिष्यन्नाह -- -
-
-
 
 दोषाणां तु निर्घातो योगमूल इह जीविते।
 
@@ -1001,8 +915,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 11
 
 ॥
-
-
 
 ( 11) --
 
@@ -1064,8 +976,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 इहात्मविद्याधिकारात्॥
 
-
-
 यदि तर्हि दोषनिर्हरणं पण्डितोऽप्यपेक्षेत
 
 ,
@@ -1076,8 +986,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ब्राहृविद्यानन्तरमेव न दुःखमुपलभेत। नैष दोषः। उक्तो ह्रत्र परिहारः --
 -सम्यग्ज्ञानबलावष्टम्भात् बलिनो योगा दुर्बलान् दोषान् मिथ्याप्रत्ययभवान् निहन्तुमलमिति। तस्मात् ब्राहृविद्ययैव क्षेमप्राप्तिः। अन्यथा दोषनिर्हणकर्मक्षययोरसंभवात्॥
-
-
 
 विद्यया चेत् दोषनिर्हरणकर्मक्षयाववश्यं भवतः
 
@@ -1109,10 +1017,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 '
 
 इति॥
-
-
-
-
 
 मन्दमध्यमोत्तमविद्यापेक्षत्वाच्च। ब्राहृविदामपि न सर्वेषां समा ब्राहृप्रतिपत्तिः
 
@@ -1168,21 +1072,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 ॥
 
-
-
-
-
 अथ भूतदाहीयान् दोषानुदाहरिष्यामः॥
 
 12
 
 ॥
 
-
-
 ( 12)
-
-
 
 क्रोधो हर्षो रोषो लोभो मोहो दम्भो द्रोहो मृषोद्यमत्याशपरीवादावसूया
 
@@ -1191,8 +1087,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 13
 
 ॥
-
-
 
 ( 13) --
 
@@ -1206,23 +1100,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 
 असमाधानलक्षणो ह्रेष चेतसो विक्षेपप्रकारः। तेषां योगमूलो निर्घातः॥
 
-
-
 के पुनस्ते योगा इति
 
 ?
 
 उच्यते --
 
-
-
 अक्रोधोऽहर्षोऽरोषोऽलोभोऽमोहोऽदम्भोऽद्रोहः सत्यवचनमनत्याशोऽपैशुनमनसूया संविभागस्त्यागः आर्जवं मार्दवं शमो दमः सर्वभूतैरविरोधो योग आर्यमानृशंसं तुष्टिरिति सर्वाश्रमाणां समयपदानि। तान्यनुतिष्ठन् विधिना सार्वगामी भवति॥
 
 14
 
 ॥
-
-
 
 ( 14) -- -
 
@@ -1248,6 +1136,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgwMTg3MDE2NDY
 14
 
 ।
-
 
 \]

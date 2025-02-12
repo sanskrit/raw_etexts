@@ -11,18 +11,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 अध्याय १
 
 दैवपुरुषकार
@@ -295,7 +283,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 २.३५ सदसदिदमशेषं यानकालेऽपि चिन्त्यम्॥E३५  
 
-
 अध्याय ३
 
 तितिगुण
@@ -311,7 +298,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 ३.३ प्रतिपदि फलमेके पञ्चदश्यां च नेष्टं जगुरिदमिति तज्ज्ञैर्याप्यमेवावधार्यम्।
 
 ३.३ किमपि किमपि नूनं तैः समीक्ष्योक्तमेतत्समवचनविघाते युक्तता केन चिन्त्या॥E३  
-
 
 अध्याय ४
 
@@ -461,8 +447,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 ४.३० गुणमपि तयोः सम्यग्यातुर्जगाद भृगुर्मुनिः॥E३०  
 
-
-
 अध्याय ५
 
 वारफल
@@ -482,7 +466,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 ५.४ प्रवरयुवतिशय्यावस्त्रगन्धान्नपानस्मरसुखधनरत्रान्यह्नि भुंक्ते सितस्य्
 
 ५.४ अनुपचयगतोऽहः शस्तमप्यप्रशस्तं शुभमुपचयसंस्थः पापसंज्ञो विधत्त् ।E४
-
 
 अध्याय ५
 
@@ -535,7 +518,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 ६.७ अष्टमेऽर्धदिवसे समे शुभो यो विरिञ्चविभुसंज्ञितः क्षणः।
 
 ६.७ तेन यानमपहाय दक्षिणां सर्वदिक्ष्वभिजिता प्रशस्यत् ।E७  
-
 
 अध्याय ७
 
@@ -666,7 +648,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 ८.२० वेशिर्विलग्नोपगतो यियासोर्विनापि यत्नात्कुरुते फलाप्तिम्।
 
 ८.२० गौयानमिष्टं जलराशिलग्ने तदंशके चान्यगृहोदयेऽपि॥E२०  
-
 
 अध्याय ९
 
@@ -1031,7 +1012,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 ११.३८ तदेव तस्याखिलमह्नि यातुर्ग्रहस्य वर्गे च विलग्नसंस्थ् ।E३८
 
-
 अध्याय १२
 
 मिश्रक
@@ -1211,7 +1191,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 १४.६ तस्मात्सर्वात्मना यातुरनुमेयं सदा मनः॥E६  
 
-
 अध्याय १५
 
 गुह्यकानुष्ठान
@@ -1275,7 +1254,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 १५.१५ क्षणषष्ठिभागमात्रं प्रयतो नृपतिर्विसर्जयेत्प्रमथान्।
 
 १५.१५ दैवज्ञपुरोधोभ्यामावेदितमङ्गलो यायात् ॥E१५  
-
 
 अध्याय १६
 
@@ -1524,9 +1502,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 १७.१६ प्रागुद्धरेद्दक्षिणपादमेवं कुर्वन्नृपः सर्वरिपून् प्रशास्ति॥E१६
 
-
-
-
 अध्याय १८
 
 ग्रहयज्ञ
@@ -1627,8 +1602,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 १८.२४ प्रहरणफल्गुद्रव्याणि चैवं केतुं समुद्दिश्य् ।(केतुः)E२४  
 
-
-
 अध्याय १९ अग्निलक्षण
 
 १९.१ कृत्वैवं ग्रहपूजामृचा ततश्चाग्निलिङ्गया जुहुयात् ।
@@ -1683,7 +1656,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 १९.१० सव्येऽङ्गे नृपतिं दहन्नतिहितः शेषं च लोकाद्वदेत् ॥E१०
 
-
 अध्याय २० प्रस्थानिक
 
 २०.१ व्रजेद्दिगीशं हृदये निवेश्य यथेन्द्र मैन्र्यामपराश्च तद्वत् ।
@@ -1697,7 +1669,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 २०.३ कन्याणनामसचिवाप्तजनायुधीयदैवज्ञविप्रजनकंचुकिमध्यसंस्थः।
 
 २०.३ द्वात्रिंशतं समुपगम्य पदानि भूमौ प्रागादि नागरथवाजिन्रैः प्रयायात् ॥E३
-
 
 अध्याय २१ गजलक्षणेङ्गित
 
@@ -1851,7 +1822,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 २२.२१ आरोहति क्षितिपतौ विनयोपपन्नो यात्रानुगोऽन्यतुरगं प्रतिहेषितश्च्
 
 २२.२१ वक्त्रेण वा स्पृशति दक्षिणमात्मपार्श्वं योऽश्वः स भर्तुरचिरात्प्रतनोति लक्ष्मीम्॥E२१  
-
 
 अध्याय २३
 
@@ -2134,7 +2104,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 २३.६९ चौर्यविद्यावणिग्वित्तमुद्यतानां विशेषतः॥E६९
 
-
 अध्याय २४
 
 शिवारुत
@@ -2181,9 +2150,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 २४.११ मौनं गता प्रतिरुते नरद्विरदवाजिभिः।
 
 २४.११ या शिवा सा शिवं सैन्ये पुरे वा संप्रयच्छति॥E११  
-
-
-
 
 अध्याय २४
 
@@ -2246,7 +2212,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 २६.३ यात्राकाले सारमेयस्य शस्तं पद्भ्यां मूर्धनः स्वस्य कण्डूयनं च् ।E३
 
-
 अध्याय २७
 
 मङ्गलामङ्गल
@@ -2278,7 +2243,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 २७.६ पटुपटहमृदङ्गशंखभेरीपणवरवं सपताकतोरणाग्रम्।
 
 २७.६ प्रचुरकुसुमतोयशान्तरेणुं सुरभिसुवेषजनं व्रजेच्च मार्गम्॥E६  
-
 
 अध्याय २८
 
@@ -2312,7 +2276,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 २८.६ यद्ग्रन्थविस्तरभयादविजानतो वा नोक्तं तदन्यकथितादपि चिन्तनीयम्॥E६  
 
-
 अध्याय २९
 
 निवेश
@@ -2332,8 +2295,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 २९.४ तच्चायुक्तमिति प्राहुर्होराशास्त्रविदो जनाः।
 
 २९.४ वांछितार्थफलावाप्तौ यात्रा परिसमाप्यत् ।E४  
-
-
 
 अध्याय ३० अभियोज्य
 
@@ -2489,7 +2450,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 ३२.१८ विबुधपतिध्वजतोरणपातः फलमिदमेव करोति नृपाणाम्॥E१८
 
-
 अध्याय ३३
 
 पुरदुर्गालब्धो
@@ -2516,13 +2476,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjY1NTQxMTMw
 
 ३३.५ पातालर्क्षे राहुकेत्वोः पुरेऽरेस्तोयोच्छित्तिः सालपातश्च कार्यः।  
 ३३.५ जामित्रस्थे भूमिजेऽस्यांशके वा पुत्रेणेन्दोर्वीक्षितेऽग्निः प्रदेयः॥E५
-
-
-
-
-
-
-
-
 
 \]

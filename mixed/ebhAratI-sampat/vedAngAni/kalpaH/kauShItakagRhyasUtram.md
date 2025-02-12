@@ -12,13 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg4MTA5NjI5NTM
 
 \[
 
-
-
 kaushitaka_grihya_sutram
 
 कौषीतकगृह्यसूत्रम्
-
-
 
 कौषीतकगृह्यसूत्रम्
 
@@ -27,8 +23,6 @@ kaushitaka_grihya_sutram
 प्रथमः
 
 खण्डः
-
-
 
 उत्थाय
 
@@ -226,8 +220,6 @@ kaushitaka_grihya_sutram
 
 १०
 
-
-
 अथ
 
 द्वितीयः
@@ -357,8 +349,6 @@ kaushitaka_grihya_sutram
 च
 
 ३
-
-
 
 अथ
 
@@ -563,8 +553,6 @@ kaushitaka_grihya_sutram
 वा
 
 १३
-
-
 
 अथ
 
@@ -771,8 +759,6 @@ kaushitaka_grihya_sutram
 पात्रमर्थलक्षणग्रहणम्
 
 १०
-
-
 
 अथ
 
@@ -1270,8 +1256,6 @@ kaushitaka_grihya_sutram
 
 २९
 
-
-
 अथ
 
 षष्ठः
@@ -1408,8 +1392,6 @@ kaushitaka_grihya_sutram
 
 ७
 
-
-
 अथ
 
 सप्तमः
@@ -1531,8 +1513,6 @@ kaushitaka_grihya_sutram
 ब्राह्मणभोजनम्
 
 ४
-
-
 
 अथ
 
@@ -2258,8 +2238,6 @@ kaushitaka_grihya_sutram
 
 ३७
 
-
-
 अथ
 
 नवमः
@@ -2531,8 +2509,6 @@ kaushitaka_grihya_sutram
 परिहाप्य
 
 १८
-
-
 
 अथ
 
@@ -2934,8 +2910,6 @@ kaushitaka_grihya_sutram
 
 २५
 
-
-
 अथ
 
 एकादशः
@@ -3133,8 +3107,6 @@ kaushitaka_grihya_sutram
 सौविष्टकृत्यष्टमी
 
 ५
-
-
 
 अथ
 
@@ -3468,8 +3440,6 @@ kaushitaka_grihya_sutram
 
 ८
 
-
-
 अथ
 
 त्रयोदशः
@@ -3505,8 +3475,6 @@ kaushitaka_grihya_sutram
 प्रत्यृचमाज्यलेपेनाङ्गान्यनुविमृज्यात्
 
 २
-
-
 
 अथ
 
@@ -3730,8 +3698,6 @@ kaushitaka_grihya_sutram
 
 १२
 
-
-
 अथ
 
 पञ्चदशः
@@ -3765,8 +3731,6 @@ kaushitaka_grihya_sutram
 रक्षसामपहत्यै
 
 २
-
-
 
 अथ
 
@@ -4084,8 +4048,6 @@ kaushitaka_grihya_sutram
 
 २०
 
-
-
 अथ
 
 सप्तदशः
@@ -4244,8 +4206,6 @@ kaushitaka_grihya_sutram
 
 ७
 
-
-
 अथ
 
 अष्टादशः
@@ -4333,8 +4293,6 @@ kaushitaka_grihya_sutram
 ब्राह्मणभोजनम्
 
 ६
-
-
 
 अथ
 
@@ -4471,8 +4429,6 @@ kaushitaka_grihya_sutram
 प्राश्नीयात्
 
 ११
-
-
 
 अथ
 
@@ -4912,13 +4868,9 @@ kaushitaka_grihya_sutram
 
 प्रथमोऽध्यायः
 
-
-
 अथ
 
 द्वितीयोऽध्यायः
-
-
 
 प्रथमः
 
@@ -5237,8 +5189,6 @@ kaushitaka_grihya_sutram
 च
 
 ३५
-
-
 
 अथ
 
@@ -5574,8 +5524,6 @@ kaushitaka_grihya_sutram
 
 १७
 
-
-
 अथ
 
 तृतीयः
@@ -5825,8 +5773,6 @@ kaushitaka_grihya_sutram
 प्रीतिमावहेत्
 
 इति
-
-
 
 अथ
 
@@ -6085,8 +6031,6 @@ kaushitaka_grihya_sutram
 अथेमास्तर्पयति
 
 २५
-
-
 
 अथ
 
@@ -6522,8 +6466,6 @@ kaushitaka_grihya_sutram
 
 ६
 
-
-
 अथ
 
 षष्ठः
@@ -6825,8 +6767,6 @@ kaushitaka_grihya_sutram
 इति
 
 ९
-
-
 
 अथ
 
@@ -7226,8 +7166,6 @@ kaushitaka_grihya_sutram
 
 ३१
 
-
-
 अथ
 
 अष्टमः
@@ -7434,13 +7372,9 @@ kaushitaka_grihya_sutram
 
 द्वितीयोऽध्यायः
 
-
-
 अथ
 
 तृतीयोऽध्यायः
-
-
 
 प्रथमः
 
@@ -7587,8 +7521,6 @@ kaushitaka_grihya_sutram
 छत्रं
 
 च
-
-
 
 अथ
 
@@ -7960,8 +7892,6 @@ kaushitaka_grihya_sutram
 
 १५
 
-
-
 अथ
 
 तृतीयः
@@ -8191,8 +8121,6 @@ kaushitaka_grihya_sutram
 ब्राह्मणभोजनम्
 
 १०
-
-
 
 अथ
 
@@ -8433,8 +8361,6 @@ kaushitaka_grihya_sutram
 पाद्यप्रतिग्रहणम्
 
 ६
-
-
 
 अथ
 
@@ -8772,8 +8698,6 @@ kaushitaka_grihya_sutram
 
 १०
 
-
-
 अथ
 
 षष्ठः
@@ -8963,8 +8887,6 @@ kaushitaka_grihya_sutram
 भोजयेत्
 
 ११
-
-
 
 अथ
 
@@ -9168,8 +9090,6 @@ kaushitaka_grihya_sutram
 
 १३
 
-
-
 अथ
 
 अष्टमः
@@ -9247,8 +9167,6 @@ kaushitaka_grihya_sutram
 प्राध्ययनम्
 
 ४
-
-
 
 अथ
 
@@ -9645,8 +9563,6 @@ kaushitaka_grihya_sutram
 परमधीयीत
 
 ६०
-
-
 
 अथ
 
@@ -10336,8 +10252,6 @@ kaushitaka_grihya_sutram
 
 ३५
 
-
-
 अथ
 
 एकादशः
@@ -10736,8 +10650,6 @@ kaushitaka_grihya_sutram
 
 ५६
 
-
-
 अथ
 
 द्वादशः
@@ -11074,8 +10986,6 @@ kaushitaka_grihya_sutram
 
 ३३
 
-
-
 अथ
 
 त्रयोदशः
@@ -11290,8 +11200,6 @@ kaushitaka_grihya_sutram
 
 १७
 
-
-
 v
 
 अथ
@@ -11467,8 +11375,6 @@ v
 २०
 
 यवैस्तिलार्थः
-
-
 
 अथ
 
@@ -11814,13 +11720,9 @@ v
 
 तृतीयोऽध्यायः
 
-
-
 अथ
 
 चतुर्थोऽध्यायः
-
-
 
 प्रथमः
 
@@ -12042,8 +11944,6 @@ v
 
 १०
 
-
-
 अथ
 
 द्वितीयः
@@ -12258,8 +12158,6 @@ v
 
 ४
 
-
-
 अथ
 
 तृतीयः
@@ -12337,8 +12235,6 @@ v
 ब्राह्मणभोजनम्
 
 २
-
-
 
 अथ
 
@@ -12688,13 +12584,9 @@ v
 
 चतुर्थोऽध्यायः
 
-
-
 अथ
 
 पञ्चमोऽध्यायः
-
-
 
 प्रथमः
 
@@ -12867,8 +12759,6 @@ v
 इति
 
 १४
-
-
 
 अथ
 
@@ -13057,8 +12947,6 @@ v
 चित्वा
 
 १३
-
-
 
 अथ
 
@@ -13466,8 +13354,6 @@ v
 
 ३१
 
-
-
 अथ
 
 चतुर्थः
@@ -13609,8 +13495,6 @@ v
 कौषीतकिः
 
 १०
-
-
 
 अथ
 
@@ -13782,8 +13666,6 @@ v
 
 ६
 
-
-
 अथ
 
 षष्ठः
@@ -13916,8 +13798,6 @@ v
 
 ६
 
-
-
 अथ
 
 सप्तमः
@@ -13963,8 +13843,6 @@ v
 समानम्
 
 ३
-
-
 
 अथ
 
@@ -14211,6 +14089,5 @@ v
 कौषीतकगृह्यश्च
 
 समाप्तः
-
 
 \]
