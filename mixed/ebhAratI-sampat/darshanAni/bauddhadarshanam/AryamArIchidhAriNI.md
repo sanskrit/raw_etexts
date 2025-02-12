@@ -12,7 +12,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIxMzQxOTM5NzE
 
 \[
 
+
+
+
+
+
 **मारीचीनामधारणी**
+
+
 
 ओं नमो भगवत्यै आर्यमारीचीदेवतायै ।
 
@@ -27,5 +34,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIxMzQxOTM5NzE
 **॥ आर्यमारीची नाम धारणी समाप्ता ॥\\Z**
 
 **---------------------------------------------------**
+
+
+
 
 \]

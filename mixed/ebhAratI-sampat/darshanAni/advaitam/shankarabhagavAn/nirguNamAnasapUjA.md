@@ -14,6 +14,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0MjI3ODI5OTk
 
 \[
 
+
+
 ॥ निर्गुणमानसपूजा ॥
 
 शिष्य उवाच ॥
@@ -156,6 +158,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU0MjI3ODI5OTk
 
 विधूयाज्ञानदुःखौघं मोक्षानन्दं समश्नुते ॥३३॥
 
+
 ॥ इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविंदभगवत्पूज्यपादशिष्यस्य श्रीमच्छङ्करभगवतः विरचिता निर्गुणमानसपूजा समाप्त ॥  
+
+
+
 
 \]

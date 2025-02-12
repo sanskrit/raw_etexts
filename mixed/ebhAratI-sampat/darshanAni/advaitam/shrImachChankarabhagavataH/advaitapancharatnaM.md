@@ -14,7 +14,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzNzkyODc0NDU
 
 \[
 
+
+
 अद्वैतपञ्चरत्नम्
+
+
+
+
 
  ॥ श्रीः ॥
 
@@ -65,5 +71,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQzNzkyODc0NDU
 श्रीमच्छङ्करभगवतः कृतौ
 
 अद्वैत पञ्चरत्नं सम्पूर्णम् ॥
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

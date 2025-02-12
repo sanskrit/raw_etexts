@@ -13,6 +13,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 **॥ वैराग्य शतकम्॥**
 
 ...vairaagya shatakam...
@@ -27,6 +39,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 
 चेतःसद्मनि योगिनां विजयते ज्ञानप्रदीपो हरः॥१॥
 
+
 भ्रान्तं देशमनेकदुर्गविषमं प्राप्तं न किञ्चित्फलम्
 
 त्यक्त्वा जातिकुलाभिमानमुचितं सेवा कृता निष्फला।
@@ -34,6 +47,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 भुक्तं मानविवर्जितं परगृहेष्वाशङ्कया काकवत्
 
 तृष्णे जृम्भसि पापकर्मपिशुने नाद्यापि सन्तुष्यसि ॥ २॥
+
 
 उत्खातं निधिशङ्कया क्षितितलं ध्माता गिरेर्धातवो
 
@@ -43,6 +57,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 
 प्राप्तः काणवराटकोऽपि न मया तृष्णे सकामा भव ॥ ३॥
 
+
+
 खलालापाः सोढाः कथमपि तदाराधनपरैः
 
 निगृह्यान्तर्बाष्पं हसितमपि शून्येन मनसा ।
@@ -50,6 +66,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 कृतो वित्तस्तम्भप्रतिहतधियामञ्जलिरपि
 
 त्वमाशे मोघाशे किमपरमतो नर्तयसि माम् ॥ ४॥
+
+
 
 अमीषां प्राणानां तुलितबिसिनीपत्रपयसां
 
@@ -59,6 +77,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 
 कृतं वीतव्रीडैर्निजगुणकथापातकमपि ॥ ५॥
 
+
+
 क्षान्तं न क्षमया गृहोचितसुखं त्यक्तं न संतोषतः
 
 सोढादुःसहशीतवाततपनक्लेशा न तप्तं तपः।
@@ -66,6 +86,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 ध्यातं वित्तमहर्निशं नियमितप्राणैर्न शंभोः पदं
 
 तत्तत्कर्म कृतं यदेव मुनिभिस्तैस्तै फलैर्वञ्चिताः॥ ६॥
+
+
 
 भोगा न भुक्ता वयमेव भुक्ताः
 
@@ -75,9 +97,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 
 स्तृष्णा न जीर्णा वयमेव जीर्णाः॥ ७ ॥
 
+
+
 वलीभिर्मुखमाक्रान्तं पलितेनाङ्कितं शिरः।
 
 गात्राणि शिथिलायन्ते तृष्णैका तरुणायते ॥ ८॥
+
+
 
 निवृत्ता भोगेच्छा पुरुषबहुमानोऽपि गलितः
 
@@ -86,6 +112,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 शनैर्यष्ट्युत्थानं घनतिमिररुद्धे च नयने
 
 अहो मूढः कायस्तदपि मरणापायचकितः॥ ९॥
+
+
 
 आशा नाम नदी मनोरथजला तृष्णातरङ्गाकुला
 
@@ -802,5 +830,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg1MDQ1ODM4MzA
 युष्मत्सङ्गवशोपजातसुकृतस्फारस्फुरन्निर्मल-
 
 ज्ञानापास्तसमस्तमोहमहिमा लीये परब्रह्मणि ॥ १०० ॥
+
+
+
+
+
+
+
+
+
+
+
 
 \]

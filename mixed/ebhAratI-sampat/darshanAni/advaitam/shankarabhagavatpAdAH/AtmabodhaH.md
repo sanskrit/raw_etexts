@@ -13,9 +13,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODg
 
 \[
 
+
+
+
+
          
 
  Atma Bodhah  
+
 
 तपोभिः क्षीणपापानां शान्तानां वीतरागिणाम्
 
@@ -24,6 +29,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODg
 बोधोऽन्यसाधनेभ्यो हि साक्षान्मोक्षैकसाधनम्।
 
 पाकस्य वह्निवत्ज्ञानं विना मोक्षो न सिध्यति॥ २ ॥  
+
 
 अविरोधितया कर्म नाविद्यां विनिवर्तयेत्।
 
@@ -52,6 +58,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODg
 तद्भेदाद्भिन्नवद्भाति तन्नाशे केवलो भवेत्॥ ९ ॥
 
 नानोपाधिवशादेव जातिनामाश्रमादयः।
+
+
 
 आत्मन्यारोपितास्तोये रसवर्णादिभेदवत्॥ १० ॥
 
@@ -133,6 +141,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODg
 
 आविद्यकं शरीरादि दृश्यं बुद्बुदवत्क्षरम्।
 
+
+
 एतद्विलक्षणं विद्याद् अहं ब्रह्मेति निर्मलम्॥ ३०
 
 देहान्यत्वान्न मे जन्मजराकायॆलयादयः ।
@@ -172,6 +182,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODg
 परिपूर्णचिदानन्दस्वरूपेणावतिष्ठते॥ ३९
 
 ज्ञातृज्ञानज्ञेयभेदः परमात्मनि न विद्यते।
+
+
 
 चिदानन्दैकरूपत्वाद्दीप्यते स्वयमेव तत्। ४०
 
@@ -213,6 +225,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODg
 
 बाह्यानित्यसुखासक्तिं हित्वात्मसुखनिर्वृतः।
 
+
+
 घटस्थदीपवच्छश्वदन्तरेव प्रकाशते॥ ५०
 
 उपाधिस्थोऽपि तद्धर्मैर्नलिप्तो व्योमवन्मुनिः ।
@@ -253,6 +267,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODg
 
 यद्भासा भास्यतेऽर्कादि भास्यैर्यत्तु न भास्यते।
 
+
+
 येन सर्वमिदं भाति तद्ब्रह्मेत्यवधारयेत्॥ ६०
 
 न तद्भासयते सूर्यो न शशांको न पावकः ।
@@ -290,5 +306,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxOTgzMTEwODg
 यः स्वात्मतीर्थं भजते विनिष्क्रियः
 
 स सर्ववित्सर्वगतोऽमृतो भवेत्। ६८
+
+
+
+
+
 
 \]

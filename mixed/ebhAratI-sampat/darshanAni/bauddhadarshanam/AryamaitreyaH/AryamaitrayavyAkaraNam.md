@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MDA5MjQ5MTI
 
 \[
 
+
+
+
+
 **आर्य मैत्रेयव्याकरणम्**
+
+
 
 नमः आर्यमैत्रेयाय ।
 
@@ -245,8 +251,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA3MDA5MjQ5MTI
 तस्मादिहात्मकामेन माहात्मयमभिकांक्षताः ।  
 सद्धर्मो गुरुकर्त्तव्यः स्मरता बुद्धशासनम् ॥ १०८ ॥
 
+
+
 **॥ मैत्रेयव्याकरणं समाप्तम् ॥ \\Z**
 
 **---------------------------------------**
+
+
+
 
 \]

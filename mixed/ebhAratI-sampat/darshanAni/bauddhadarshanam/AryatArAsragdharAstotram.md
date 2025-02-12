@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5OTA4OTYyMDc
 
 \[
 
+
+
+
+
+
+
 **आर्यतारास्रग्धरास्तोत्रम्**
+
+
 
 ओं नमो भगवत्यै आर्यतारायै.
 
@@ -167,5 +175,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5OTA4OTYyMDc
 \\Z
 
 --------------------------------------------------------------------
+
 
 \]

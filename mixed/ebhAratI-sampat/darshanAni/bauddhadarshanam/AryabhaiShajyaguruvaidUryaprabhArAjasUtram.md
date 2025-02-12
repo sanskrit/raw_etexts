@@ -12,8 +12,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NDYyNzQyNjQ
 
 \[
 
+
+
+
+
 **(वैद्य १६५)  
 भैषज्यगुरुवैदूर्यप्रभराजसूत्रम् ।**
+
+
 
 ओं नमः सर्वज्ञाय । नमो भगवते भैषज्यगुरुवैदूर्यप्रभराजाय तथागताय ॥
 
@@ -81,5 +87,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1NDYyNzQyNjQ
 **आर्यभैषज्यगुरुवैदूर्यप्रभराजं नाम महायानसूत्रम् ॥ \\Z**
 
 **----------------------------------------------------**
+
+
+
 
 \]

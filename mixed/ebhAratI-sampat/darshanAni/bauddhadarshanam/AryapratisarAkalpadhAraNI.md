@@ -12,7 +12,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM4ODE3MjU4NTI
 
 \[
 
+
+
+
+
 **आर्यप्रतिसराकल्पधारणी**
+
 
 अथ विद्याधरकल्पं प्रवक्ष्ये सत्त्वानुकम्पया ।  
 नमो बुद्धाय नमो धर्माय नमः संघाय ।
@@ -23,5 +28,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM4ODE3MjU4NTI
 
 **----------------------------------------------  
 \\Z**
+
+
+
 
 \]

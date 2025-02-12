@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2NTgzOTUwNjQ
 
 \[
 
+
+
 **आर्यग्रहमातृकानामधारणी**
+
+
 
 (ग्म्ध्१७१)  
 आर्यग्रहमातृका नाम धारणी
@@ -79,5 +83,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI2NTgzOTUwNjQ
 **आर्यग्रहमातृकानाम धारणी समाप्ता ॥\\Z**
 
 **---------------------------------------------------------**
+
+
+
 
 \]

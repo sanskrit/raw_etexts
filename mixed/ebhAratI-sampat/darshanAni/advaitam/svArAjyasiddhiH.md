@@ -19,23 +19,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 मलिङ्गन्तीमचलतनयाम्
 
-[\[ed1\]](\%22#_msocom_1\%22)
+[\[ed1\]][^1]
+
+[^1]: \%22#_msocom_1\%22
 
 सस्मितम् वीक्षमाणः।
 
 लीलापाङ्गैः प्रणतजनताम्
 
-[\[ed2\]](\%22#_msocom_2\%22)
+[\[ed2\]][^2]
+
+[^2]: \%22#_msocom_2\%22
 
 नन्दयन्स्च
 
-[\[ed3\]](\%22#_msocom_3\%22)
+[\[ed3\]][^3]
+
+[^3]: \%22#_msocom_3\%22
 
 न्द्रमौलि
 
 र्मोहध्वान्तम्
 
-[\[ed4\]](\%22#_msocom_4\%22)
+[\[ed4\]][^4]
+
+[^4]: \%22#_msocom_4\%22
 
 हरतु परमानन्दमुर्ति
 
@@ -55,7 +63,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 यस्माद्विश्मु
 
-[\[ed5\]](\%22#_msocom_5\%22)
+[\[ed5\]][^5]
+
+[^5]: \%22#_msocom_5\%22
 
 देति यत्र निवसत्यन्ते यदप्येति य
 
@@ -65,7 +75,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 यज्जागृत्स्वपनप्रसुप्तिषु विभात्येकं विशोकम्
 
-[\[ed6\]](\%22#_msocom_6\%22)
+[\[ed6\]][^6]
+
+[^6]: \%22#_msocom_6\%22
 
 परं
 
@@ -81,11 +93,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 मुमुक्षूणां ह्र्द्यं
 
-[\[ed7\]](\%22#_msocom_7\%22)
+[\[ed7\]][^7]
+
+[^7]: \%22#_msocom_7\%22
 
 किमपि निगदाम्ः
 
-[\[ed8\]](\%22#_msocom_8\%22)
+[\[ed8\]][^8]
+
+[^8]: \%22#_msocom_8\%22
 
 सुमधुरम्॥ ४॥
 
@@ -93,7 +109,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 न
 
-[\[ed9\]](\%22#_msocom_9\%22)
+[\[ed9\]][^9]
+
+[^9]: \%22#_msocom_9\%22
 
 ऽन्यः पन्थाश्चेति भूयोवचोभिः।
 
@@ -107,7 +125,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 स्या
 
-[\[ed10\]](\%22#_msocom_10\%22)
+[\[ed10\]][^10]
+
+[^10]: \%22#_msocom_10\%22
 
 ऽर्थसिद्धम्॥ ५॥
 
@@ -127,7 +147,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 र्मालोद्भूता
 
-[\[ed11\]](\%22#_msocom_11\%22)
+[\[ed11\]][^11]
+
+[^11]: \%22#_msocom_11\%22
 
 ऽहिरस्तं व्रजति किमु नमस्कारमन्त्रौषधाद्यैः।
 
@@ -135,7 +157,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ज्ञानोपाये गुरुश्रीचरणमभिगतः सेवामानो यते
 
-[\[ed12\]](\%22#_msocom_12\%22)
+[\[ed12\]][^12]
+
+[^12]: \%22#_msocom_12\%22
 
 त॥ ७॥
 
@@ -145,7 +169,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 यु
 
-[\[ed13\]](\%22#_msocom_13\%22)
+[\[ed13\]][^13]
+
+[^13]: \%22#_msocom_13\%22
 
 पायं प्रतीता
 
@@ -157,7 +183,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 च मुक्तौ मिलितमथ पर
 
-[\[ed14\]](\%22#_msocom_14\%22)
+[\[ed14\]][^14]
+
+[^14]: \%22#_msocom_14\%22
 
 साधनं सङ्गिरन्ते।
 
@@ -175,7 +203,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 यज्ञेनेत्यादिवाक्याद्भवतु विविदिष
 
-[\[ed15\]](\%22#_msocom_15\%22)
+[\[ed15\]][^15]
+
+[^15]: \%22#_msocom_15\%22
 
 तत्फलं वेदनं वा
 
@@ -183,7 +213,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 अर्थी दक्षो द्विजोऽहम्
 
-[\[ed16\]](\%22#_msocom_16\%22)
+[\[ed16\]][^16]
+
+[^16]: \%22#_msocom_16\%22
 
 बुध इति मतिमान् कर्मसूक्तोऽधिकारी
 
@@ -207,13 +239,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 बुद्धिं च क्षणिकां स्थिरामत
 
-[\[ed17\]](\%22#_msocom_17\%22)
+[\[ed17\]][^17]
+
+[^17]: \%22#_msocom_17\%22
 
 परे केचिच्चितं निस्सुखाम्।
 
 आत्मानं जडचित्स्वभावमपरे चिद्वज्जडम्
 
-[\[ed18\]](\%22#_msocom_18\%22)
+[\[ed18\]][^18]
+
+[^18]: \%22#_msocom_18\%22
 
 चेतरे
 
@@ -233,7 +269,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 अन्ये शुन्यं विरिंचिं
 
-[\[ed19\]](\%22#_msocom_19\%22)
+[\[ed19\]][^19]
+
+[^19]: \%22#_msocom_19\%22
 
 कतिचन समयं केऽपि केचिद्यदृच्छां
 
@@ -249,7 +287,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 साङ्ख्यैः प्रख्यापितम्
 
-[\[ed20\]](\%22#_msocom_20\%22)
+[\[ed20\]][^20]
+
+[^20]: \%22#_msocom_20\%22
 
 न क्षममिह जगतां निर्मितौतत्प्रधानं
 
@@ -257,7 +297,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 नाणुः काणादबौद्धक्षपणकभनि
 
-[\[ed21\]](\%22#_msocom_21\%22)
+[\[ed21\]][^21]
+
+[^21]: \%22#_msocom_21\%22
 
 तो नापि निस्साक्षिशून्यं
 
@@ -275,7 +317,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 किञ्चाऽकर्तैव भोक्ता यदि तव
 
-[\[ed22\]](\%22#_msocom_22\%22)
+[\[ed22\]][^22]
+
+[^22]: \%22#_msocom_22\%22
 
 कृतहानाकृताभ्यागमः स्या
 
@@ -285,13 +329,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 किदृक्कस्याविवेकः कथमत
 
-[\[ed23\]](\%22#_msocom_23\%22)
+[\[ed23\]][^23]
+
+[^23]: \%22#_msocom_23\%22
 
 स भवेद्भोगहेतुर्विवेकः
 
 कस्य स्यत्तेन किम्
 
-[\[ed24\]](\%22#_msocom_24\%22)
+[\[ed24\]][^24]
+
+[^24]: \%22#_msocom_24\%22
 
 स्यादिति हि विमृशतो दुर्वचं ब्रह्मणोऽपि॥ १८॥
 
@@ -299,7 +347,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 स्य
 
-[\[ed25\]](\%22#_msocom_25\%22)
+[\[ed25\]][^25]
+
+[^25]: \%22#_msocom_25\%22
 
 च्चेत्तन्वक्षवत्त्वं सुचरितदुरोद्भूतभोगप्रसङ्गः।
 
@@ -307,7 +357,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 कर्मेप्सोश्चक्रकऽ
 
-[\[ed26\]](\%22#_msocom_26\%22)
+[\[ed26\]][^26]
+
+[^26]: \%22#_msocom_26\%22
 
 वस्थितिहतिविफलत्वाऽन्यथासिद्धयः
 
@@ -321,13 +373,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 बाह्योपादानवत्स्य
 
-[\[ed27\]](\%22#_msocom_27\%22)
+[\[ed27\]][^27]
+
+[^27]: \%22#_msocom_27\%22
 
 त्तनुकरणधियां विश्वसर्गे व्यपेक्षा
 
 निस्तर्क
 
-[\[ed28\]](\%22#_msocom_28\%22)
+[\[ed28\]][^28]
+
+[^28]: \%22#_msocom_28\%22
 
 चानुमानं कृतिरपिहियतश्चेष्टयऽर्थं विधत्ते॥ २०॥
 
@@ -343,7 +399,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 न्नित्यश्चाणुः कथं व
 
-[\[ed29\]](\%22#_msocom_29\%22)
+[\[ed29\]][^29]
+
+[^29]: \%22#_msocom_29\%22
 
 निरवयव इति ब्रूह्यसत्कार्यवादिन्॥ २१॥
 
@@ -351,7 +409,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 स्कंधानां पंचकञ्चेदृशमिति सुगतः पृच्च्य
 
-[\[ed30\]](\%22#_msocom_30\%22)
+[\[ed30\]][^30]
+
+[^30]: \%22#_msocom_30\%22
 
 तां वेदबाह्यः।
 
@@ -359,35 +419,47 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 किं वा मोहात्प्रलापः किमथ जद
 
-[\[ed31\]](\%22#_msocom_31\%22)
+[\[ed31\]][^31]
+
+[^31]: \%22#_msocom_31\%22
 
 जगद्विप्रलिप्सा कुबुद्धे॥ २२॥
 
 संघीभावः कथ्ंवा
 
-[\[ed32\]](\%22#_msocom_32\%22)
+[\[ed32\]][^32]
+
+[^32]: \%22#_msocom_32\%22
 
 चलनविरहिणां भङ्गुराणामणूनां
 
 संघोऽनन्यः
 
-[\[ed33\]](\%22#_msocom_33\%22)
+[\[ed33\]][^33]
+
+[^33]: \%22#_msocom_33\%22
 
 कथंव
 
-[\[ed34\]](\%22#_msocom_34\%22)
+[\[ed34\]][^34]
+
+[^34]: \%22#_msocom_34\%22
 
 विषयपदमियात्कश्च संघं विधत्ते।
 
 स्कंधान
 
-[\[ed35\]](\%22#_msocom_35\%22)
+[\[ed35\]][^35]
+
+[^35]: \%22#_msocom_35\%22
 
 सन्निपातः कथमिव कियतां भोक्तृता काच धारा
 
 कस्य स्तां भोगमोक्षौ वद जद
 
-[\[ed36\]](\%22#_msocom_36\%22)
+[\[ed36\]][^36]
+
+[^36]: \%22#_msocom_36\%22
 
 सफलं केन वा दर्शनं ते॥ २३॥
 
@@ -407,17 +479,23 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 वेद्या विज्ञानभेदाः कथमथ विविधा वासना व
 
-[\[ed37\]](\%22#_msocom_37\%22)
+[\[ed37\]][^37]
+
+[^37]: \%22#_msocom_37\%22
 
 कुतस्स्युः
 
 किंच प्र
 
-[\[ed38\]](\%22#_msocom_38\%22)
+[\[ed38\]][^38]
+
+[^38]: \%22#_msocom_38\%22
 
 गुक्तदोषाः क्षणिकचि
 
-[\[ed39\]](\%22#_msocom_39\%22)
+[\[ed39\]][^39]
+
+[^39]: \%22#_msocom_39\%22
 
 तिहतस्तेन विज्ञानवादः॥ २५॥
 
@@ -429,7 +507,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 किंच प्रागुक्तदोषाः क्षणिकचितिहतस्तेन विज्ञानवादः॥२५॥
 
-[\[ed40\]](\%22#_msocom_40\%22)
+[\[ed40\]][^40]
+
+[^40]: \%22#_msocom_40\%22
 
 नाऽभावाद्भावजन्म क्वचिदपि कलितं निर्विशेषाद्विचित्रं
 
@@ -455,15 +535,21 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 तस्मद्बर
 
-[\[ed41\]](\%22#_msocom_41\%22)
+[\[ed41\]][^41]
+
+[^41]: \%22#_msocom_41\%22
 
 ह्मैव माय
 
-[\[ed42\]](\%22#_msocom_42\%22)
+[\[ed42\]][^42]
+
+[^42]: \%22#_msocom_42\%22
 
 शबलितमुचितं श्रौतमे
 
-[\[ed43\]](\%22#_msocom_43\%22)
+[\[ed43\]][^43]
+
+[^43]: \%22#_msocom_43\%22
 
 कं निदानम्॥ २८॥
 
@@ -471,7 +557,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 कस्माद
 
-[\[ed44\]](\%22#_msocom_44\%22)
+[\[ed44\]][^44]
+
+[^44]: \%22#_msocom_44\%22
 
 द्या प्रवृत्तिस्तनुरपि च कुतः किं नवेत्ति प्रमीतः
 
@@ -501,11 +589,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 प्राणापाये मृदादिप्रमित
 
-[\[ed45\]](\%22#_msocom_45\%22)
+[\[ed45\]][^45]
+
+[^45]: \%22#_msocom_45\%22
 
 मपि च बि
 
-[\[ed46\]](\%22#_msocom_46\%22)
+[\[ed46\]][^46]
+
+[^46]: \%22#_msocom_46\%22
 
 ड्कीटभस्माऽवशेषं
 
@@ -516,7 +608,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 \-
 
 द्देहोम््म
-[\[ed47\]](\%22#_msocom_47\%22)
+[\[ed47\]][^47]
+
+[^47]: \%22#_msocom_47\%22
 
 न्थप्रसङ्गस्समुदितविषये त्वंधमूका म्रियेरन्।
 
@@ -528,13 +622,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ß
 
-[\[ed48\]](\%22#_msocom_48\%22)
+[\[ed48\]][^48]
+
+[^48]: \%22#_msocom_48\%22
 
 द्रष्टैव नस्याच्छयनमरणयोर्निर्विशेषाद्भयं स्यात्॥ ३३॥
 
 प्राणो नाऽऽत्मा जद
 
-[\[ed49\]](\%22#_msocom_49\%22)
+[\[ed49\]][^49]
+
+[^49]: \%22#_msocom_49\%22
 
 त्वादशनसिततया वृत्तिलाभात्सुषुप्ता
 
@@ -554,11 +652,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ß
 
-[\[ed50\]](\%22#_msocom_50\%22)
+[\[ed50\]][^50]
+
+[^50]: \%22#_msocom_50\%22
 
 प्रशान्तौ करणा
 
-[\[ed51\]](\%22#_msocom_51\%22)
+[\[ed51\]][^51]
+
+[^51]: \%22#_msocom_51\%22
 
 गणलये तत्प्रशान्तेस्सुषुप्ते
 
@@ -590,7 +692,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ु
 
-[\[ed52\]](\%22#_msocom_52\%22)
+[\[ed52\]][^52]
+
+[^52]: \%22#_msocom_52\%22
 
 यादाणवं वा
 
@@ -598,7 +702,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 नैकस्स्याच्चिज्जदा
 
-[\[ed53\]](\%22#_msocom_53\%22)
+[\[ed53\]][^53]
+
+[^53]: \%22#_msocom_53\%22
 
 त्मा कथमथ विषयःसस्स्वयं स्वस्य कौ ता
 
@@ -610,7 +716,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 तत्त्वं जीवस्य देवप्रियपशुभिरिदं कर्मटै
 
-[\[ed54\]](\%22#_msocom_54\%22)
+[\[ed54\]][^54]
+
+[^54]: \%22#_msocom_54\%22
 
 र्दुर्निरूपम्॥ ३८॥
 
@@ -620,13 +728,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 न्नस्याद्भोग व्यवस्था व्यक्तिकरमयते येन सर्वैर्मनोऽपि
 
-[\[ed55\]](\%22#_msocom_55\%22)
+[\[ed55\]][^55]
+
+[^55]: \%22#_msocom_55\%22
 
 ।
 
 नानात्म्यं निष्प्र
 
-[\[ed56\]](\%22#_msocom_56\%22)
+[\[ed56\]][^56]
+
+[^56]: \%22#_msocom_56\%22
 
 माणं गदसि यदि तनूपाधिभिस्त्वं व्यवस्थां
 
@@ -648,7 +760,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 य
 
-[\[ed57\]](\%22#_msocom_57\%22)
+[\[ed57\]][^57]
+
+[^57]: \%22#_msocom_57\%22
 
 बुद्धं
 
@@ -668,13 +782,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 द्रष्टाऽन्योस्त्यविपरिलुप्तदृक्तत्त्वो
 
-[\[ed58\]](\%22#_msocom_58\%22)
+[\[ed58\]][^58]
+
+[^58]: \%22#_msocom_58\%22
 
 निस्सङ्गो विहरति यः पुरत्रयेऽपि॥ ४२॥
 
 संशान्तो
 
-[\[ed59\]](\%22#_msocom_59\%22)
+[\[ed59\]][^59]
+
+[^59]: \%22#_msocom_59\%22
 
 रवि शशि वह्नि वाक्प्रकाशे
 
@@ -682,7 +800,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 स्वज्योतिः प्रकति
 
-[\[ed60\]](\%22#_msocom_60\%22)
+[\[ed60\]][^60]
+
+[^60]: \%22#_msocom_60\%22
 
 त वासनामयार्थ
 
@@ -724,11 +844,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 े
 
-[\[ed61\]](\%22#_msocom_61\%22)
+[\[ed61\]][^61]
+
+[^61]: \%22#_msocom_61\%22
 
 ऽम्बुप्रतिप
 
-[\[ed62\]](\%22#_msocom_62\%22)
+[\[ed62\]][^62]
+
+[^62]: \%22#_msocom_62\%22
 
 लिते मृषैव मोहात्॥ ४६॥
 
@@ -746,7 +870,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 निर्वाहे निजपरयोस्स्वतस्समर्था
 
-[\[ed63\]](\%22#_msocom_63\%22)
+[\[ed63\]][^63]
+
+[^63]: \%22#_msocom_63\%22
 
 ।
 
@@ -784,7 +910,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ा
 
-[\[ed64\]](\%22#_msocom_64\%22)
+[\[ed64\]][^64]
+
+[^64]: \%22#_msocom_64\%22
 
 दौ गत्यभावाद्गगनमलिनिमाऽध्यासदृष्टेर्बुधानां
 
@@ -792,7 +920,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ™
 
-[\[ed65\]](\%22#_msocom_65\%22)
+[\[ed65\]][^65]
+
+[^65]: \%22#_msocom_65\%22
 
 वहृतिरखिलाऽध्यासमूलेति सिद्धम्॥ ५१॥
 
@@ -802,7 +932,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 न्देहान्प्राप्या
 
-[\[ed66\]](\%22#_msocom_66\%22)
+[\[ed66\]][^66]
+
+[^66]: \%22#_msocom_66\%22
 
 प्रणश्यन्क्वचिदपि लभते मानुषत्वं च ताभ्याम्।
 
@@ -814,19 +946,25 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 निस्स्वातन्त्र्याऽशनाया ग्रहगदरुधिरतै
 
-[\[ed67\]](\%22#_msocom_67\%22)
+[\[ed67\]][^67]
+
+[^67]: \%22#_msocom_67\%22
 
 श्शैशवे दुःखमेव।
 
 तारुन्ये
 
-[\[ed68\]](\%22#_msocom_68\%22)
+[\[ed68\]][^68]
+
+[^68]: \%22#_msocom_68\%22
 
 ऽमर्षलोभ व्यसन परिभवोद्वेग दारिद्र्यदुःखं
 
 वार्धक्ये शोकमोहेन्द्रियविलयगदैर्दुःखमन
 
-[\[ed69\]](\%22#_msocom_69\%22)
+[\[ed69\]][^69]
+
+[^69]: \%22#_msocom_69\%22
 
 न्तेऽतिदुःखम्॥ ५३॥
 
@@ -836,13 +974,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 तं सर्वां
 
-[\[ed70\]](\%22#_msocom_70\%22)
+[\[ed70\]][^70]
+
+[^70]: \%22#_msocom_70\%22
 
 ऽनर्थमूलप्रशमनविधिना स्वात्मराज्येऽभिषेक्तुं
 
 तात्पर्येण प्रवृत्ताश्स्रु
 
-[\[ed71\]](\%22#_msocom_71\%22)
+[\[ed71\]][^71]
+
+[^71]: \%22#_msocom_71\%22
 
 तिशिखरगिरस्सूत्रभाष्यादयश्च॥ ५४॥
 
@@ -852,79 +994,117 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ------------------------------------------------------------------------
 
-[\[ed1\]](\%22#_msoanchor_1\%22)
+[\[ed1\]][^72]
+
+[^72]: \%22#_msoanchor_1\%22
 
 यां
 
-[\[ed2\]](\%22#_msoanchor_2\%22)
+[\[ed2\]][^73]
+
+[^73]: \%22#_msoanchor_2\%22
 
 तां
 
-[\[ed3\]](\%22#_msoanchor_3\%22)
+[\[ed3\]][^74]
+
+[^74]: \%22#_msoanchor_3\%22
 
 न्श्च
 
-[\[ed4\]](\%22#_msoanchor_4\%22)
+[\[ed4\]][^75]
+
+[^75]: \%22#_msoanchor_4\%22
 
 न्तम्
 
-[\[ed5\]](\%22#_msoanchor_5\%22)
+[\[ed5\]][^76]
+
+[^76]: \%22#_msoanchor_5\%22
 
 द्विश्वमु
 
-[\[ed6\]](\%22#_msoanchor_6\%22)
+[\[ed6\]][^77]
+
+[^77]: \%22#_msoanchor_6\%22
 
 कं
 
-[\[ed7\]](\%22#_msoanchor_7\%22)
+[\[ed7\]][^78]
+
+[^78]: \%22#_msoanchor_7\%22
 
 हृद्यं
 
-[\[ed8\]](\%22#_msoanchor_8\%22)
+[\[ed8\]][^79]
+
+[^79]: \%22#_msoanchor_8\%22
 
 मः
 
-[\[ed9\]](\%22#_msoanchor_9\%22)
+[\[ed9\]][^80]
+
+[^80]: \%22#_msoanchor_9\%22
 
 ना
 
-[\[ed10\]](\%22#_msoanchor_10\%22)
+[\[ed10\]][^81]
+
+[^81]: \%22#_msoanchor_10\%22
 
 बन्धनस्या
 
-[\[ed11\]](\%22#_msoanchor_11\%22)
+[\[ed11\]][^82]
+
+[^82]: \%22#_msoanchor_11\%22
 
 तो
 
-[\[ed12\]](\%22#_msoanchor_12\%22)
+[\[ed12\]][^83]
+
+[^83]: \%22#_msoanchor_12\%22
 
 ये
 
-[\[ed13\]](\%22#_msoanchor_13\%22)
+[\[ed13\]][^84]
+
+[^84]: \%22#_msoanchor_13\%22
 
 प्त्यु
 
-[\[ed14\]](\%22#_msoanchor_14\%22)
+[\[ed14\]][^85]
+
+[^85]: \%22#_msoanchor_14\%22
 
 रे
 
-[\[ed15\]](\%22#_msoanchor_15\%22)
+[\[ed15\]][^86]
+
+[^86]: \%22#_msoanchor_15\%22
 
 षा
 
-[\[ed16\]](\%22#_msoanchor_16\%22)
+[\[ed16\]][^87]
+
+[^87]: \%22#_msoanchor_16\%22
 
 हं
 
-[\[ed17\]](\%22#_msoanchor_17\%22)
+[\[ed17\]][^88]
+
+[^88]: \%22#_msoanchor_17\%22
 
 थ
 
-[\[ed18\]](\%22#_msoanchor_18\%22)
+[\[ed18\]][^89]
+
+[^89]: \%22#_msoanchor_18\%22
 
 डं
 
-[\[ed19\]](\%22#_msoanchor_19\%22)
+[\[ed19\]][^90]
+
+[^90]: \%22#_msoanchor_19\%22
 
 (
 
@@ -934,59 +1114,87 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 स्वभावं
 
-[\[ed20\]](\%22#_msoanchor_20\%22)
+[\[ed20\]][^91]
+
+[^91]: \%22#_msoanchor_20\%22
 
 तं
 
-[\[ed21\]](\%22#_msoanchor_21\%22)
+[\[ed21\]][^92]
+
+[^92]: \%22#_msoanchor_21\%22
 
 णि
 
-[\[ed22\]](\%22#_msoanchor_22\%22)
+[\[ed22\]][^93]
+
+[^93]: \%22#_msoanchor_22\%22
 
 (पाठान्तरम्) बत
 
-[\[ed23\]](\%22#_msoanchor_23\%22)
+[\[ed23\]][^94]
+
+[^94]: \%22#_msoanchor_23\%22
 
 थ
 
-[\[ed24\]](\%22#_msoanchor_24\%22)
+[\[ed24\]][^95]
+
+[^95]: \%22#_msoanchor_24\%22
 
 किं
 
-[\[ed25\]](\%22#_msoanchor_25\%22)
+[\[ed25\]][^96]
+
+[^96]: \%22#_msoanchor_25\%22
 
 स्या
 
-[\[ed26\]](\%22#_msoanchor_26\%22)
+[\[ed26\]][^97]
+
+[^97]: \%22#_msoanchor_26\%22
 
 का
 
-[\[ed27\]](\%22#_msoanchor_27\%22)
+[\[ed27\]][^98]
+
+[^98]: \%22#_msoanchor_27\%22
 
 त्स्या
 
-[\[ed28\]](\%22#_msoanchor_28\%22)
+[\[ed28\]][^99]
+
+[^99]: \%22#_msoanchor_28\%22
 
 र्कं
 
-[\[ed29\]](\%22#_msoanchor_29\%22)
+[\[ed29\]][^100]
+
+[^100]: \%22#_msoanchor_29\%22
 
 वा
 
-[\[ed30\]](\%22#_msoanchor_30\%22)
+[\[ed30\]][^101]
+
+[^101]: \%22#_msoanchor_30\%22
 
 च्छ्य
 
-[\[ed31\]](\%22#_msoanchor_31\%22)
+[\[ed31\]][^102]
+
+[^102]: \%22#_msoanchor_31\%22
 
 ड
 
-[\[ed32\]](\%22#_msoanchor_32\%22)
+[\[ed32\]][^103]
+
+[^103]: \%22#_msoanchor_32\%22
 
 कथं वा
 
-[\[ed33\]](\%22#_msoanchor_33\%22)
+[\[ed33\]][^104]
+
+[^104]: \%22#_msoanchor_33\%22
 
 (
 
@@ -996,27 +1204,39 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 नान्यः
 
-[\[ed34\]](\%22#_msoanchor_34\%22)
+[\[ed34\]][^105]
+
+[^105]: \%22#_msoanchor_34\%22
 
 वा
 
-[\[ed35\]](\%22#_msoanchor_35\%22)
+[\[ed35\]][^106]
+
+[^106]: \%22#_msoanchor_35\%22
 
 नां
 
-[\[ed36\]](\%22#_msoanchor_36\%22)
+[\[ed36\]][^107]
+
+[^107]: \%22#_msoanchor_36\%22
 
 ड
 
-[\[ed37\]](\%22#_msoanchor_37\%22)
+[\[ed37\]][^108]
+
+[^108]: \%22#_msoanchor_37\%22
 
 वा
 
-[\[ed38\]](\%22#_msoanchor_38\%22)
+[\[ed38\]][^109]
+
+[^109]: \%22#_msoanchor_38\%22
 
 प्रा
 
-[\[ed39\]](\%22#_msoanchor_39\%22)
+[\[ed39\]][^110]
+
+[^110]: \%22#_msoanchor_39\%22
 
 (
 
@@ -1026,131 +1246,195 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 त्रि
 
-[\[ed40\]](\%22#_msoanchor_40\%22)Repetition
+[\[ed40\]][^111]Repetition
 
-[\[ed41\]](\%22#_msoanchor_41\%22)
+[^111]: \%22#_msoanchor_40\%22
+
+[\[ed41\]][^112]
+
+[^112]: \%22#_msoanchor_41\%22
 
 स्माद्ब्र
 
-[\[ed42\]](\%22#_msoanchor_42\%22)
+[\[ed42\]][^113]
+
+[^113]: \%22#_msoanchor_42\%22
 
 या
 
-[\[ed43\]](\%22#_msoanchor_43\%22)
+[\[ed43\]][^114]
+
+[^114]: \%22#_msoanchor_43\%22
 
 मै
 
-[\[ed44\]](\%22#_msoanchor_44\%22)
+[\[ed44\]][^115]
+
+[^115]: \%22#_msoanchor_44\%22
 
 दा
 
-[\[ed45\]](\%22#_msoanchor_45\%22)
+[\[ed45\]][^116]
+
+[^116]: \%22#_msoanchor_45\%22
 
 तिम
 
-[\[ed46\]](\%22#_msoanchor_46\%22)
+[\[ed46\]][^117]
+
+[^117]: \%22#_msoanchor_46\%22
 
 वि
 
-[\[ed47\]](\%22#_msoanchor_47\%22)
+[\[ed47\]][^118]
+
+[^118]: \%22#_msoanchor_47\%22
 
 न्मा
 
-[\[ed48\]](\%22#_msoanchor_48\%22)
+[\[ed48\]][^119]
+
+[^119]: \%22#_msoanchor_48\%22
 
 प्न
 
-[\[ed49\]](\%22#_msoanchor_49\%22)
+[\[ed49\]][^120]
+
+[^120]: \%22#_msoanchor_49\%22
 
 ड
 
-[\[ed50\]](\%22#_msoanchor_50\%22)
+[\[ed50\]][^121]
+
+[^121]: \%22#_msoanchor_50\%22
 
 प्न
 
-[\[ed51\]](\%22#_msoanchor_51\%22)
+[\[ed51\]][^122]
+
+[^122]: \%22#_msoanchor_51\%22
 
 ण
 
-[\[ed52\]](\%22#_msoanchor_52\%22)
+[\[ed52\]][^123]
+
+[^123]: \%22#_msoanchor_52\%22
 
 प्नु
 
-[\[ed53\]](\%22#_msoanchor_53\%22)
+[\[ed53\]][^124]
+
+[^124]: \%22#_msoanchor_53\%22
 
 डा
 
-[\[ed54\]](\%22#_msoanchor_54\%22)
+[\[ed54\]][^125]
+
+[^125]: \%22#_msoanchor_54\%22
 
 ठै
 
-[\[ed55\]](\%22#_msoanchor_55\%22)
+[\[ed55\]][^126]
+
+[^126]: \%22#_msoanchor_55\%22
 
 भिः
 
-[\[ed56\]](\%22#_msoanchor_56\%22)
+[\[ed56\]][^127]
+
+[^127]: \%22#_msoanchor_56\%22
 
 चाप्र
 
-[\[ed57\]](\%22#_msoanchor_57\%22)
+[\[ed57\]][^128]
+
+[^128]: \%22#_msoanchor_57\%22
 
 प्त
 
-[\[ed58\]](\%22#_msoanchor_58\%22)
+[\[ed58\]][^129]
+
+[^129]: \%22#_msoanchor_58\%22
 
 क् सतत्वो
 
-[\[ed59\]](\%22#_msoanchor_59\%22)
+[\[ed59\]][^130]
+
+[^130]: \%22#_msoanchor_59\%22
 
 न्ते
 
-[\[ed60\]](\%22#_msoanchor_60\%22)
+[\[ed60\]][^131]
+
+[^131]: \%22#_msoanchor_60\%22
 
 टि
 
-[\[ed61\]](\%22#_msoanchor_61\%22)
+[\[ed61\]][^132]
+
+[^132]: \%22#_msoanchor_61\%22
 
 घ्ने
 
-[\[ed62\]](\%22#_msoanchor_62\%22)
+[\[ed62\]][^133]
+
+[^133]: \%22#_msoanchor_62\%22
 
 फ
 
-[\[ed63\]](\%22#_msoanchor_63\%22)
+[\[ed63\]][^134]
+
+[^134]: \%22#_msoanchor_63\%22
 
 र्थः
 
-[\[ed64\]](\%22#_msoanchor_64\%22)
+[\[ed64\]][^135]
+
+[^135]: \%22#_msoanchor_64\%22
 
 प्ना
 
-[\[ed65\]](\%22#_msoanchor_65\%22)
+[\[ed65\]][^136]
+
+[^136]: \%22#_msoanchor_65\%22
 
 त् व्य
 
-[\[ed66\]](\%22#_msoanchor_66\%22)
+[\[ed66\]][^137]
+
+[^137]: \%22#_msoanchor_66\%22
 
 प्य
 
-[\[ed67\]](\%22#_msoanchor_67\%22)
+[\[ed67\]][^138]
+
+[^138]: \%22#_msoanchor_67\%22
 
 दितै
 
-[\[ed68\]](\%22#_msoanchor_68\%22)
+[\[ed68\]][^139]
+
+[^139]: \%22#_msoanchor_68\%22
 
 ण्ये
 
-[\[ed69\]](\%22#_msoanchor_69\%22)
+[\[ed69\]][^140]
+
+[^140]: \%22#_msoanchor_69\%22
 
 न
 
 (मन्ते)
 
-[\[ed70\]](\%22#_msoanchor_70\%22)
+[\[ed70\]][^141]
+
+[^141]: \%22#_msoanchor_70\%22
 
 र्वा
 
-[\[ed71\]](\%22#_msoanchor_71\%22)
+[\[ed71\]][^142]
+
+[^142]: \%22#_msoanchor_71\%22
 
 श्रु
 
@@ -1182,13 +1466,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 श्रीमद्देशिक वर्य चारु चरणाम्भोजे भजे नित्यशः॥ ३॥
 
-[\[ed1\]](\%22#_msocom_1\%22)
+[\[ed1\]][^1]
 
 हेतुत्वं लक्षणं यद्गदितमिदमुपादान कर्तृत्वरूपं
 
 ताटस्थ्यादास्पदं स्वं गमयति परमं ब्रह्म शाखेव्
 
-[\[ed2\]](\%22#_msocom_2\%22)
+[\[ed2\]][^2]
 
 चन्द्रम्।
 
@@ -1198,13 +1482,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 कूटस्थं ब्रह्म विश्वं जनयति न विना मायया स
 
-[\[ed3\]](\%22#_msocom_3\%22)
+[\[ed3\]][^3]
 
 च मिथ्या
 
 तस्मिञ्छब्दप्रसिद्धेः परसम्धि
 
-[\[ed4\]](\%22#_msocom_4\%22)
+[\[ed4\]][^4]
 
 गमात्तन्निवृत्तिश्रुतेश्च।
 
@@ -1214,7 +1498,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 यस्माद्विश्वं सदुत्थं सदुपभृतमहो
 
-[\[ed5\]](\%22#_msocom_5\%22)
+[\[ed5\]][^5]
 
 लियते तत्र तस्मा
 
@@ -1222,13 +1506,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 त्सन्मात्रं नान्यदस्मामृ
 
-[\[ed6\]](\%22#_msocom_6\%22)
+[\[ed6\]][^6]
 
 द इव घटिकोदं चनादिर्विकारः।
 
 सद्भेदे सदसत्वं
 
-[\[ed7\]](\%22#_msocom_7\%22)
+[\[ed7\]][^7]
 
 सदथ यदि तदा नास्ति भेदः कथञ्चि
 
@@ -1240,7 +1524,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 भिने
 
-[\[ed8\]](\%22#_msocom_8\%22)
+[\[ed8\]][^8]
 
 ऽभेदश्च तद्वत्प्रभवति हि ततो न स्वतो वस्तुभेदः।
 
@@ -1254,7 +1538,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 दन्यो भ्बि
 
-[\[ed9\]](\%22#_msocom_9\%22)
+[\[ed9\]][^9]
 
 द्येत धर्माः कथमथ विविधा धर्म्यभेदादभिन्नाः।
 
@@ -1264,7 +1548,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 भेदों
 
-[\[ed10\]](\%22#_msocom_10\%22)
+[\[ed10\]][^10]
 
 यं भिन्नधर्मिप्रतिभटविषयज्ञानजज्ञानवेद्यो
 
@@ -1274,7 +1558,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 प्रादिः
 
-[\[ed11\]](\%22#_msocom_11\%22)
+[\[ed11\]][^11]
 
 ष्युः पूर्वदोषा नच गतिरपरा तेन भेदो मृषैव॥ ६॥
 
@@ -1296,13 +1580,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ß
 
-[\[ed12\]](\%22#_msocom_12\%22)
+[\[ed12\]][^12]
 
 माया नगरमिव भवेत्साधु सैषा मृषैव॥ ८॥
 
 बाह्योऽर्थो बुद्धिम
 
-[\[ed13\]](\%22#_msocom_13\%22)
+[\[ed13\]][^13]
 
 त्रान्न भवति स भवन्गोचरः स्यात्परेषा
 
@@ -1316,7 +1600,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ™
 
-[\[ed14\]](\%22#_msocom_14\%22)
+[\[ed14\]][^14]
 
 वस्था
 
@@ -1330,7 +1614,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ™
 
-[\[ed15\]](\%22#_msocom_15\%22)
+[\[ed15\]][^15]
 
 वस्थाऽनुपेतात्।
 
@@ -1352,23 +1636,23 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 सन्कुम्भः
 
-[\[ed16\]](\%22#_msocom_16\%22)
+[\[ed16\]][^16]
 
 सत्कुसूलं सदखिलमिति यद्भव
 
-[\[ed17\]](\%22#_msocom_17\%22)
+[\[ed17\]][^17]
 
 ति यच्च श्रुतं प्राक्
 
 तत्सत्यं व्याप्य विश्वं घत
 
-[\[ed18\]](\%22#_msocom_18\%22)
+[\[ed18\]][^18]
 
 पिठरमुखं मृत्तिकेवाऽवभाति।
 
 तस्मिन्रज्जाविवऽहिर्निखिलमपि
 
-[\[ed19\]](\%22#_msocom_19\%22)
+[\[ed19\]][^19]
 
 जगत्कल्पितं तत्स्वभावा
 
@@ -1380,11 +1664,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ख्यात्या
 
-[\[ed20\]](\%22#_msocom_20\%22)
+[\[ed20\]][^20]
 
 ऽद्ये सत्यमेतज्जगदिति धियमाभ्रम
 
-[\[ed21\]](\%22#_msocom_21\%22)
+[\[ed21\]][^21]
 
 बोधाद्विधत्ते।
 
@@ -1422,7 +1706,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 र्नाप्यभिन्नपदार्थकत्वमथः
 
-[\[ed22\]](\%22#_msocom_22\%22)
+[\[ed22\]][^22]
 
 पदेषु न लक्षणा।
 
@@ -1440,7 +1724,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ब्रह्म सच्चिदानन्दमे
 
-[\[ed23\]](\%22#_msocom_23\%22)
+[\[ed23\]][^23]
 
 मशेषवाङ्मनसाऽतिगं
 
@@ -1454,13 +1738,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 वेदनं च गुहान्तरं
 
-[\[ed24\]](\%22#_msocom_24\%22)
+[\[ed24\]][^24]
 
 निजस्वरूपतदाऽऽप्तये।
 
 इत्युदीयं
 
-[\[ed25\]](\%22#_msocom_25\%22)
+[\[ed25\]][^25]
 
 सदद्वयत्वसमर्थनाय समाददे
 
@@ -1746,101 +2030,101 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjI5NDUwMjg0
 
 ------------------------------------------------------------------------
 
-[\[ed1\]](\%22#_msoanchor_1\%22)Not found in pdf
+[\[ed1\]][^72]Not found in pdf
 
-[\[ed2\]](\%22#_msoanchor_2\%22)
+[\[ed2\]][^73]
 
 व
 
-[\[ed3\]](\%22#_msoanchor_3\%22)
+[\[ed3\]][^74]
 
 सा
 
-[\[ed4\]](\%22#_msoanchor_4\%22)
+[\[ed4\]][^75]
 
 मधि
 
-[\[ed5\]](\%22#_msoanchor_5\%22)
+[\[ed5\]][^76]
 
 थो (पाठान्तरं वा इति संशयः)
 
-[\[ed6\]](\%22#_msoanchor_6\%22)
+[\[ed6\]][^77]
 
 न्मृ
 
-[\[ed7\]](\%22#_msoanchor_7\%22)
+[\[ed7\]][^78]
 
 स्यादसत्त्वां
 
-[\[ed8\]](\%22#_msoanchor_8\%22)
+[\[ed8\]][^79]
 
 न्ने
 
-[\[ed9\]](\%22#_msoanchor_9\%22)
+[\[ed9\]][^80]
 
 भि
 
-[\[ed10\]](\%22#_msoanchor_10\%22)
+[\[ed10\]][^81]
 
 दो
 
-[\[ed11\]](\%22#_msoanchor_11\%22)
+[\[ed11\]][^82]
 
 दु
 
-[\[ed12\]](\%22#_msoanchor_12\%22)
+[\[ed12\]][^83]
 
 प्न
 
-[\[ed13\]](\%22#_msoanchor_13\%22)
+[\[ed13\]][^84]
 
 मा
 
-[\[ed14\]](\%22#_msoanchor_14\%22)
+[\[ed14\]][^85]
 
 द्व्य
 
-[\[ed15\]](\%22#_msoanchor_15\%22)
+[\[ed15\]][^86]
 
 द्व्य
 
-[\[ed16\]](\%22#_msoanchor_16\%22)
+[\[ed16\]][^87]
 
 कुम्भ (पाठान्तरं वा इति)
 
-[\[ed17\]](\%22#_msoanchor_17\%22)
+[\[ed17\]][^88]
 
 द्भा
 
-[\[ed18\]](\%22#_msoanchor_18\%22)
+[\[ed18\]][^89]
 
 ट
 
-[\[ed19\]](\%22#_msoanchor_19\%22)
+[\[ed19\]][^90]
 
 यि (पाठान्तरं वा इति)
 
-[\[ed20\]](\%22#_msoanchor_20\%22)
+[\[ed20\]][^91]
 
 ख्यान्त्या
 
-[\[ed21\]](\%22#_msoanchor_21\%22)
+[\[ed21\]][^92]
 
 ब्रह्म
 
-[\[ed22\]](\%22#_msoanchor_22\%22)
+[\[ed22\]][^93]
 
 तः
 
-[\[ed23\]](\%22#_msoanchor_23\%22)
+[\[ed23\]][^94]
 
 क
 
-[\[ed24\]](\%22#_msoanchor_24\%22)
+[\[ed24\]][^95]
 
 गुहान्तरस्य
 
-[\[ed25\]](\%22#_msoanchor_25\%22)
+[\[ed25\]][^96]
 
 र्य
 

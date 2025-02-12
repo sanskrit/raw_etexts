@@ -12,9 +12,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3NTgzNzAzMDE
 
 \[
 
+
+
+
+
+
 (वैद्य ३११)  
 
 **अर्थविनिश्चयसूत्रम् ।**
+
+
 
 श्रीमञ्जुगुरवे(श्रिये) नमः ।
 
@@ -168,5 +175,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY3NTgzNzAzMDE
 \\Z
 
 ------------------------------------------------------------
+
 
 \]

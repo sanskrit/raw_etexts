@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU0OTA1OTU0NDM
 
 \[
 
+
+
 निर्वाणषट्कम्
+
+
+
+
 
  मनोबुद्ध्यहंकारचित्तानि नाहं
 
@@ -64,5 +70,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU0OTA1OTU0NDM
  चिदानंदरूपः शिवोऽहं शिवोऽहम् ॥ ६॥
 
 ॥ इति श्रीमच्छङ्कराचार्यविरचितं निर्वाणषट्कं सम्पूर्णम् ॥
+
+
+
+
+
+
+
 
 \]

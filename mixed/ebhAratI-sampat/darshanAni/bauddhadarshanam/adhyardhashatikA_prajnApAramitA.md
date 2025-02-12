@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MjQxMzQ0OTg
 
 \[
 
+
+
+
+
+
+
 **अध्यर्धशतिका प्रज्ञापारमिता**
+
+
 
 नमो नमः सर्वबुद्धबोधिसत्त्वेभ्यः ॥ नमो भगवत्या आर्यप्रज्ञापारमितायै ॥
 
@@ -118,5 +126,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI4MjQxMzQ0OTg
 \\Z**
 
 **-------------------------------------------------------------**
+
+
+
+
+
 
 \]

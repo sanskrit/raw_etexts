@@ -13,7 +13,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAzNTUzNDQwMDM
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **गुरुपञ्चाशिका**
+
+
 
 ओं नमो बुद्धाय ।
 
@@ -170,5 +188,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODAzNTUzNDQwMDM
 
 **-------------------------------------------------------**  
 \\Z
+
+
+
+
+
+
+
+
+
+
+
 
 \]

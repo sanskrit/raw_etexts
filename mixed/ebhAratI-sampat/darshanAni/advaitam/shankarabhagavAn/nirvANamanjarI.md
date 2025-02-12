@@ -13,6 +13,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc4NDY5NDI5NTk
 
 \[
 
+
+
+
+
 Nirvanamanjari
 
 **॥ निर्वाणमञ्जरी॥**
@@ -97,5 +101,8 @@ Nirvanamanjari
 श्रीमच्छङ्करभगवतः कृतौ
 
 निर्वाणमञ्जरी संपूर्णा ॥
+
+
+
 
 \]

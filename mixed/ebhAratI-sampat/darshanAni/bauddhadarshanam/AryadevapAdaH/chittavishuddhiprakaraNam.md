@@ -13,7 +13,24 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MTk5MTExMjA
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **चित्तविशुद्धिप्रकरणम्**
+
 
 \[अनादिनिधनं शान्तं भावाभावविवर्जितम् ।  
 निर्विकल्पं निरालम्बमनवस्थितमद्वयम् ॥ १ ॥  
@@ -288,5 +305,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE3MTk5MTExMjA
 **॥ कृतिरियमार्यदेवपादानामिति ॥\\Z**
 
 **--------------------------------------------**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

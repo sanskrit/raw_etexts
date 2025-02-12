@@ -13,13 +13,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 
 \[
 
+
+
+
+
 ॥श्रीः॥
+
+
 
 ॥स्वरूपानुस
 
 न्धा
 
 नाष्टकम्॥
+
+
 
 तपोयज्ञदानादिभिः शुद्धबुद्धि
 
@@ -33,6 +41,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 
 ॥
 
+
+
 दयालुं गुरुं ब्राहृनिष्ठं प्रशान्तं
 
 समाराध्य मत्या विचार्य स्वरूपम्।
@@ -45,6 +55,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 
 ॥
 
+
+
 यदानन्दरूपं प्रकाशस्वरूपं
 
 निरस्तप्रपञ्चं परिच्छेदहीनम्।
@@ -54,6 +66,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 परं ब्राहृ नित्यं तदेवाहमस्मि॥ 3
 
 ॥
+
+
 
 यदज्ञानतो भाति विश्वं समस्तं
 
@@ -65,6 +79,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 
 ॥
 
+
+
 निषेधे कृते नेति नेतीति वाक्यैः
 
 समाधिस्थितानां यदाभाति पूर्णम्।
@@ -74,6 +90,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 परं ब्राहृ नित्यं तदेवाहमस्मि॥ 5
 
 ॥
+
+
 
 यदानन्दलेशैः समानन्दि विश्वं
 
@@ -85,6 +103,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 
 ॥
 
+
+
 अनन्तं विभुं निर्विकल्पं निरीहं
 
 शिवं संगहीनं यदोंकारगम्यम्।
@@ -94,6 +114,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 परं ब्राहृ नित्यं तदेवाहमस्मि॥ 7
 
 ॥
+
+
 
 यदानन्दसिन्धौ निमग्नः पुमान्स्या
 
@@ -107,6 +129,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 
 ॥
 
+
+
 स्वरूपानुसंधानरूपां स्तुतिं यः
 
 पठेदादराद्भक्तिभावो मनुष्यः।
@@ -117,6 +141,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 
 ॥
 
+
+
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
 
 श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य
@@ -126,5 +152,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ4MzY5ODgxNjQ
 स्वरूपानुसंधानाष्टकम्
 
 संपूर्णम्॥
+
+
+
 
 \]

@@ -13,7 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MjQ4MjUyNDE
 
 \[
 
+
+
 यतिपञ्चकम्
+
+
 
 वेदान्तवाक्येषु सदा रमन्तो
 
@@ -62,5 +66,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2MjQ4MjUyNDE
 श्रीमच्छङ्करभगवतः कृतौ
 
 यतिपञ्चक संपूर्णम् ॥
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

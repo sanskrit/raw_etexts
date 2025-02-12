@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4NTE0MDU5OTI
 
 \[
 
+
+
+
+
+
+
 **महाशीतवती**
+
+
 
 नमो भगवत्यै आर्यमहाशीतवत्यै ।
 
@@ -36,5 +44,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU4NTE0MDU5OTI
 
 **--------------------------------------------**  
 \\Z
+
+
+
 
 \]

@@ -14,7 +14,26 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA2OTc3MDMxMjI
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **बोधिसत्त्वादिकर्मिकमार्गावतारदेशना**
+
+
 
 परमगुरवे नमः ।
 
@@ -59,5 +78,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA2OTc3MDMxMjI
 \\Z**
 
 **-----------------------------------------------------------------**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

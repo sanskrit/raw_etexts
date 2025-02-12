@@ -12,6 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzNzAyMTI5MTk
 
 \[
 
+
+
+
+
 तत्त्वविवेकः
 
 tattvavivekah
@@ -29,6 +33,7 @@ savilāsamahāmohagrāhagrāsaikakarmane \।\। 1\।\।
 1\. Salutation to the lotus feet of my Guru Sri Sankarananda
 
 whose only work is to destroy the monster of primal nescience together with its effect, the phenomenal universe
+
 
 तत्पादाम्बुरुहद्वन्द्वसेवानिर्मलचेतसाम्।
 
@@ -60,8 +65,10 @@ are perceived in the waking state, are different from each
 other because of their peculiarities; but the consciousness of
 
 these, which is different from them, does not differ because  
+        
 
 of its homogeneity.
+
 
 तथा स्वप्नेऽत्र वेद्यन्तु न स्थिरं जागरे स्थिरम्।
 
@@ -78,6 +85,7 @@ objects are transient and in the waking state they seem
 permanent. So there is difference between them. But the
 
 (perceiving) consciousness in both the states does not differ. It is homogeneous.  
+    
 
 सुप्तोत्थितस्य सौषुप्ततमोबोधो भवेत्स्मृतिः।
 
@@ -112,6 +120,7 @@ as is the consciousness in the state of dream. Thus in all the
 three states the consciousness (being homogeneous) is the
 
 same. It is so in other days too.  
+   
 
 मासाब्दायुगकल्पेषु गतागम्येष्वनेकधा।
 
@@ -131,6 +140,7 @@ three states the consciousness (being homogeneous) is the
 
 same. It is so in other days too.
 
+
 इयमात्मा परानन्दः परप्रेमास्पदं यतः।
 
 मा न भुवं हि भूयासमिति प्रेमात्मनीक्श्यते॥ ८॥
@@ -148,6 +158,7 @@ as is the consciousness in the state of dream. Thus in all the
 three states the consciousness (being homogeneous) is the
 
 same. It is so in other days too.  
+ 
 
 तत्प्रेमात्मार्थमन्यत्र नैवमन्यार्थमात्मनि।
 
@@ -162,6 +173,7 @@ atastatparamantena paramanandatatmanah \।\। 9\।\।
 loved for none other. Therefore the love for the Self is the
 
 highest. Hence the Self is of the nature of the highest bliss.
+
 
 इत्थं सच्चित्परानन्द आत्मा युक्त्या तथाविधम्।
 
@@ -178,6 +190,7 @@ individual Self is of the nature of existence, consciousness
 and bliss. Similar is the supreme Brahman. The identity of
 
 the two is taught in the Upanishads.  
+
 
 अभाने न परं प्रेम भाने न विषयस्पृहा।
 
@@ -217,6 +230,7 @@ Because of observation, it is proper to say that the bliss 'is
 
 known yet unknown'.  
 
+
 प्रतिबन्धोऽस्ति भातीति व्यवहारार्हवस्तुनि।
 
 तं निरस्य विरुद्धस्य तस्योत्पादनमुच्यते॥ १३॥
@@ -235,6 +249,7 @@ produces the counter-experience that they are not existing,
 
 they are not revealing.
 
+
 तस्य हेतुः समानाभिहारः पुत्रध्वनिश्रुतौ।
 
 इहानादिरवियैव व्यामोहैकनिबन्धनम्॥ १४॥
@@ -251,6 +266,7 @@ voices of all the boys. Hence the one cause of all contrary
 
 experiences is indeed the beginningless Avidya.  
 
+
 चिदानन्दमयब्रह्मप्रतिबिम्बसमन्विता।
 
 तमोरजःसत्त्वगुणा प्रकृतिविविधा च सा॥ १५॥
@@ -266,6 +282,7 @@ is the reflection of Brahman, that is pure consciousness and
 bliss and is composed of sattva, rajas and tamas (in a state of homogeneity)
 
 It is of two kinds.
+
 
 सत्त्वशुद्धाविशुद्धिभ्यां मायाऽविद्य च ते मते।
 
@@ -303,6 +320,7 @@ body. When the Jiva identifies himself with this causal body
 
 he is called Prajna.
 
+
 तमः प्रधानप्रकृतेस्तद्भोगायेश्वराज्ञया।
 
 वियत्पवनतेजोऽम्बु भुवोभूतानि जज्ञिरे॥ १८॥
@@ -316,6 +334,7 @@ viyatpavanatejo'mbu bhuvobhūtāni jajñire \।\।18\।\।
 Prajna the five subtle elements, ether, air, fire, water and
 
 earth, arose from the part of Prakriti in which tamas predominates.  
+
 
 सत्त्वांशैः पञ्चभिस्तेषां क्रमाद्धीन्द्रियपञ्चकम्।
 
@@ -351,6 +370,7 @@ function is doubting and buddhi (intellect) is that whose
 
 functions are discrimination and determination.  
 
+
 रजोंऽशैः पञ्चभिस्तेषां क्रमात्कर्मेन्द्रियाणि तु।
 
 वाक्पाणिपादपायूपस्थाभिधानानि जज्ञिरे॥ २१॥
@@ -364,6 +384,7 @@ vākpāṇipādapāyūpasthābhidhānāni jajñire \।\।21\।\।
 the organs of actions known as the organ of speech, the
 
 hands, the feet, and the organs of excretion and generation.
+
 
 तैः सर्वैः सहितैः प्राणोवृत्तिभेदात्स पञ्चधा।
 
@@ -380,6 +401,7 @@ the five subtle elements) arose the vital air (Prana). Again,
 due to difference of function it is divided into five. They are
 
 Prana, Apana, Samana, Udana and Vyana.  
+
 
 बुद्धिकर्मेन्द्रियप्राणपञ्चकैर्मनसा धिया।
 
@@ -415,6 +437,7 @@ identified with a single subtle body and the other with the
 
 totality of subtle bodies).  
 
+
 समष्टिरीशः सर्वेषां स्वात्मतादात्म्यवेदनात्।
 
 तदभावात्ततोऽन्ये तु कथ्यन्ते व्यष्टिसंज्ञया॥ २५॥
@@ -448,6 +471,7 @@ the bodies fit for such enjoyment, the all-powerful Isvara
 has made each of the (subtle) elements partake of the
 
 nature of all others.
+
 
 द्विधा विधाय चैकैकं चतुर्धा प्रथमं पुनः।
 
@@ -493,6 +517,7 @@ Taijasas do so with individual gross bodies (e.g.) of the
 
 devas, men or lower animals, they are known as Visvas.  
 
+
 ते पराग्दर्शिनः प्रत्यक्तत्त्वबोधविवर्जिताः॥ २९॥
 
 te parāgdarsinaḥ pratyaktattvabodhavivarjitāḥ \।\। 29\।\।
@@ -502,6 +527,7 @@ te parāgdarsinaḥ pratyaktattvabodhavivarjitāḥ \।\। 29\।\।
 knowledge of their true inner nature. They perform actions
 
 for enjoyment, and again they enjoy for performing action.
+
 
 कुर्वते कर्म भोगाय कर्म कर्तुं च भुञ्जते।
 
@@ -569,6 +595,7 @@ vital air, the mind, the intellect and bliss. Enveloped in them,
 
 it forgets its real nature and becomes subject to transmigration.
 
+
 स्यात्पञ्चीकृतभूतोत्थो देहः स्थूलोऽन्न संज्ञकः।
 
 लिङ्गे तु राजसैः प्राणैः प्राणः कर्मेन्द्रियैः सह॥ ३४॥
@@ -586,6 +613,7 @@ portion of the subtle body which is composed of the five vital
 airs and the five organs of action, and which is the effect of
 
 the rajas aspect of Prakriti is called the vital sheath.  
+
 
 सात्त्विकै/न्द्रियैः साकं विमर्षात्मा मनोमयः।
 
@@ -618,6 +646,7 @@ with joy and other Vrittis (mental modifications), is called
 the bliss sheath. Due to identification with the different
 
 sheaths, the Self assumes their respective natures.  
+
 
 अन्वयव्यतिरेकाभ्यां पञ्चकोष विवेकतः।
 
@@ -655,6 +684,7 @@ the Self. Though the self is perceived, the physical body is
 
 not; so the latter is a variable factor.  
 
+
 लिङ्गभाने सुषुप्तौ स्यादात्मनो भानमन्वयः।
 
 व्यतिरेकस्तु तद्भाने लिङ्गस्याभानमुच्यते॥ ३९॥
@@ -670,6 +700,7 @@ not perceived, but the Self invariably witnesses that state
 While the self persists in all states the subtle body is not
 
 perceived in deep sleep and so it is called a variable factor
+
 
 तद्विवेकाद्विविक्ताः स्युः कोषाः प्राणमनोधियः।
 
@@ -706,6 +737,7 @@ subject nor object is experienced), but the Self persists in
 that state, so it is the invariable factor. But the causal body
 
 is a variable factor, for though the Self persists, it does not.
+
 
 यथामुजादिषीकैवमात्मा युक्त्या समुद्धृतः।
 
@@ -761,6 +793,7 @@ This Brahman is referred to as 'That' in the text 'That thou
 
 art'.  
 
+
 यदा मलिनसत्त्वां तां कामकर्मादिदूषितम्।
 
 आदत्ते तत्परं ब्रह्म त्वं पदेन तदोच्यते॥ ४५॥
@@ -774,6 +807,7 @@ yadā malinasattvām tām kāmakarmādidūsitam
 Avidya, that is, sattva mixed with rajas and tamas, creating
 
 desires and activities in It, then it is referred to as 'thou'.
+
 
 त्रितयीमपि तां मुक्त्वा परस्परविरोधिनीम्।
 
@@ -791,6 +825,7 @@ whose nature is existence, consciousness and bliss. This is
 
 pointed out by the great saying 'That thou art'.  
 
+
 सोऽयमित्यादिवाक्येषु विरोधात्तदिदन्त्वयोः।
 
 त्यागेन भागयोरेक आश्रयो लक्ष्यते यथा॥ ४७॥
@@ -806,6 +841,7 @@ refer to different time, place and circumstances. When the
 particular connotations of 'this' and 'that' are rejected,
 
 Devadatta remains as their common basis
+
 
 मायाविद्ये विहायैवमुपाधी परजीवयोः।
 
@@ -824,6 +860,7 @@ Brahman, and Jiva, are negated, there remains the
 indivisible supreme Brahman, whose nature is existence,
 
 consciousness and bliss.  
+
 
 सविकल्पस्य लक्ष्यत्वे लक्ष्यस्य स्यादवस्तुता।
 
@@ -859,6 +896,7 @@ the second, it involves logical fallacies of infinite regress,
 
 resting on oneself, etc.  
 
+
 इदं गुणक्रियाजातिद्रव्यसम्बन्धवस्तुषु।
 
 समन्तेन स्वरूपस्य सर्वमेतदितीष्यताम्॥ ५१ ॥
@@ -875,6 +913,7 @@ So accept all these attributes as existing (superimposed on)
 
 by the very nature of things.
 
+
 विकल्पतदभावाभ्यामसंस्पृष्टात्मवस्तुनि।
 
 विकल्पितत्वलक्ष्यत्वसम्बन्धाद्यास्तु कल्पिताः॥ ५२॥
@@ -890,6 +929,7 @@ absence of associates, connotations and other adventitious
 relationships, because they are superimposed on it
 
 phenomenally.  
+
 
 इत्थं वाक्यैस्तदर्थानुसन्धानं श्रवणं भवेत्।
 
@@ -925,6 +965,7 @@ thus ascertained Self alone, it is called unbroken meditation
 
 (nididhyasana).  
 
+
 ध्यातृध्याने परित्यज्य क्रमाद्ध्येयैकगोचरम्।
 
 निर्वातदीपवच्चित्तं समाधिरभिधीयते॥ ५५॥
@@ -943,6 +984,7 @@ the flame of a lamp in a breezeless spot, it is called the
 
 super-conscious state (samadhi).
 
+
 वृत्तयस्तु तदानीमज्ञाता अप्यात्मगोचराः।
 
 स्मरणादनुमीयन्ते व्युत्थितस्य समुत्थितात्॥ ५६॥
@@ -958,6 +1000,7 @@ the mental function having the Self as its object, its
 continued existence in that state is inferred from the
 
 recollection after coming out of samadhi.
+
 
 वृत्तीनामनुवृत्तिस्तु प्रयत्नात्प्रथमादपि।
 
@@ -977,6 +1020,7 @@ births and the strong impression created through constant
 
 efforts (at getting into samadhi).
 
+
 यथा दीपो निवातस्थ इत्यादिभिरनेकधा।
 
 भगवानिममेवार्थमर्जुनाय न्यरूपयत्॥ ५८॥
@@ -990,6 +1034,8 @@ bhagavānimamevārthamarjunāya nyarūpayat \।\। 58\॥
 various ways e.g., when he compares the steady mind to
 
 the flame of a lamp in a breezeless spot.
+
+
 
 अनादाविह संसारे सञ्चिताः कर्मकोटयः।
 
@@ -1021,6 +1067,7 @@ dharma' because it pours forth countless showers of the
 
 bliss of dharma.  
 
+
 अमुना वासनाजाले निःशेषं प्रविलापिते।
 
 समूलोन्मूलिते पुण्यपापाख्ये कर्म सञ्चये॥ ६१ ॥
@@ -1051,6 +1098,7 @@ Truth, as a fruit in one's palm - Truth which was earlier
 
 comprehended indirectly.  
 
+
 परोक्शं ब्रह्मविज्ञानं शाब्दं देशिकपूर्वकम्।
 
 बुद्धिपूर्वकृतं पापं कृत्स्नं दहति वह्निवत्॥ ६३॥
@@ -1067,6 +1115,7 @@ like fire all sins, committed upto that attainment of
 
 knowledge.
 
+
 अपरोक्शात्मविज्ञानं शाब्दं देशिकपूर्वकम्।
 
 संसारकारणाज्ञानतमसश्चण्डभास्करः॥ ६४॥
@@ -1081,6 +1130,7 @@ obtained from the Guru's teaching of the great dictum, is
 
 like the scorching sun, that dispels the very darkness of  
 Avidya, the root of all transmigratory existence.  
+
 
 इत्थं तत्त्वविवेकं विधाय विधिवन्मनः  समाधाय।
 
@@ -1101,5 +1151,11 @@ and deaths and immediately attains the supreme bliss.
 इति तत्त्वविवेकः समाप्तः॥ १॥
 
 iti tattvavivekah samaptah \।\। 1\।\।  
+
+
+
+
+
+
 
 \]

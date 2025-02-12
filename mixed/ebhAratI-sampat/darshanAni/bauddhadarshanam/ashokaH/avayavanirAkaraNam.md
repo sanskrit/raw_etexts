@@ -13,8 +13,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwMjIwMTUyMDU
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **पण्डिताशोकरचितम्  
 अवयविनिराकरणम् ।**
+
+
 
 नमः समन्तभद्राय ॥
 
@@ -62,5 +79,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwMjIwMTUyMDU
 **समाप्तञ्चेदमवयविनिराकरणमिति ॥ \\Z**
 
 **--------------------------------------------**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

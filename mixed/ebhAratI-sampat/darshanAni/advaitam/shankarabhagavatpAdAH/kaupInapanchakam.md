@@ -13,6 +13,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5NzYyMTU5MzI
 
 \[
 
+
+
 ॥ कौपीनपञ्चकम्॥
 
 वेदान्तवाक्येषु सदा रमन्तः
@@ -54,5 +56,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5NzYyMTU5MzI
 भिक्षाशिनो दिक्षु परिभ्रमन्तः
 
 कौपीनवन्तः खलु भाग्यवन्तः॥५॥
+
+
+
 
 \]

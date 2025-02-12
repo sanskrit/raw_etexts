@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5ODQ3OTE2Nzc
 
 \[
 
+
+
+
+
+
+
 **आर्यत्रिस्कन्धसूत्रम्**
+
+
 
 तत्रेयं(आपत्ति) देशना -
 
@@ -33,8 +41,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5ODQ3OTE2Nzc
 
 **आर्यत्रिस्कन्धमहायानसूत्रं समाप्तम् ।**
 
+
+
 **--------------------------------------------------------------------**
 
+
+
 \\Z
+
+
+
 
 \]

@@ -13,6 +13,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUyNDA5NDk4MzY
 
 \[
 
+
+
 साधन पञ्चकम्
 
 **वेदो नित्यमधीयतां तदुदितं कर्म स्वनुष्ठीयताम्**
@@ -54,5 +56,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUyNDA5NDk4MzY
 **प्राक्कर्म प्रविलाप्यतां चितिबलान्नाप्युत्तरैः श्लिष्यतां**
 
 **प्रारब्धं त्विह भुज्यतामथ परब्रह्मात्मना स्थीयताम् ॥ ५॥**
+
+
+
+
+
 
 \]

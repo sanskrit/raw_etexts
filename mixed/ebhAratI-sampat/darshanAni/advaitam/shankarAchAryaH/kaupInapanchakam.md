@@ -13,9 +13,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMTk2NTI0ODk
 
 \[
 
+
+
 कौपीनपंचकम् (शंकराचार्य)
 
+
+
+
+
  कौपीनपंचकम्
+
+
 
 वेदान्तवाक्येषु सदा रमन्तो
 
@@ -25,6 +33,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMTk2NTI0ODk
 
 कौपीनवन्तः खलु भाग्यवन्तः ॥ १॥
 
+
+
+
+
 मूलं तरोः केवलमाश्रयन्तः
 
 पाणिद्वयं भोक्तुममन्त्रयन्तः ।
@@ -32,6 +44,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMTk2NTI0ODk
 कन्थामिव श्रीमपि कुत्सयन्तः
 
 कौपीनवन्तः खलु भाग्यवन्तः ॥ २॥
+
+
+
+
 
 स्वानन्दभावे परितुष्टिमन्तः
 
@@ -41,6 +57,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMTk2NTI0ODk
 
 कौपीनवन्तः खलु भाग्यवन्तः ॥ ३॥
 
+
+
+
+
 देहादिभावं परिवर्तयन्तः
 
 स्वात्मानमात्मन्यवलोकयन्तः ।
@@ -48,6 +68,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMTk2NTI0ODk
 नान्तं न मध्यं न बहिः स्मरन्तः
 
 कौपीनवन्तः खलु भाग्यवन्तः ॥ ४॥
+
+
 
 ब्रह्माक्षरं पावनमुच्चरन्तो
 
@@ -57,6 +79,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMTk2NTI0ODk
 
 कौपीनवन्तः खलु भाग्यवन्तः ॥ ५॥
 
+
+
+
+
 ॥ इति श्रीमद् शङ्कराचार्यकृत कौपीन पञ्चकं संपूर्णम् ॥
+
+
+
 
 \]
