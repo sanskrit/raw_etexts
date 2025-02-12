@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNTQ0MTA2Mjk
 
 \[
 
-
-
  अनुव्यवसायमीमांसा
 
  (डाo
@@ -252,10 +250,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNTQ0MTA2Mjk
 1976.)
 
  ---------------\*\*\*\*\*\*\*\*\*\*\*\*\*-------------------
-
-
-
-
-
 
 \]

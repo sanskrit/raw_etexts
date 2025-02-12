@@ -14,15 +14,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 \[
 
-
-
 ॐ
 
-
-
 श्रीरस्तु
-
-
 
 श्री
 
@@ -32,25 +26,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 :
 
-
-
 माथुरी
 
 व्याप्तिपञ्चकम्
 
-
-
 चिन्तामणि
 
 :
-
-
-
-
-
-
-
-
 
 नन्वनुमितिहेतुव्याप्तिज्ञाने
 
@@ -64,8 +46,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरीभास्करी
 
-
-
 नत्वा
 
 गणपतिं
@@ -75,8 +55,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 भारतीं
 
 ज्ञानदायिनीम्।
-
-
 
 अन्नपूर्णां
 
@@ -90,8 +68,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ॥
 
-
-
 वेदादिविद्याविमलान्तरङ्गान्
 
 सङ्गाद्ददानान्
@@ -100,8 +76,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 गुणौघान्।
 
-
-
 अमोघवाग्वाञ्छितदानदक्षान्
 
 संस्तौमि
@@ -109,10 +83,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 विद्यागुरुपुङ्गवाँस्तान्
 
 ॥
-
-
-
-
 
 तनोमि
 
@@ -132,8 +102,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 तद्व्याप्तिसत्पञ्चकमाथुरीकृतेर्वाञ्छन्
 
 सुबोधं
@@ -145,8 +113,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ॥
 
 चिन्तामणिभास्करी
-
-
 
 नासङ्गतं
 
@@ -174,11 +140,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ॥
 
-
-
 माथुरी
-
-
 
 अनुमानप्रामाण्यं
 
@@ -195,8 +157,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 तत्र
 
@@ -266,8 +226,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -299,8 +257,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 इति।
 
 माथुरी
-
-
 
 अनुमितिहेतु
 
@@ -374,8 +330,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ज्ञापकत्वम्।
 
-
-
 केचित्तु
 
 अनुमितिपदं
@@ -437,8 +391,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 अनुमितीति।
 
@@ -740,8 +692,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 काप्यनुपपत्तिरिति।
 
-
-
 अस्यायमाशय
 
 :
@@ -867,8 +817,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 अस्तीति।
-
-
 
 व्याप्तिनिरूपणे
 
@@ -1090,8 +1038,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -1226,8 +1172,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 :
 
-
-
 न
 
 तावदव्यभिचरितत्वम्।
@@ -1239,8 +1183,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 साध्याभाववदवृत्तित्वम्।
 
 चिन्तामणिभास्करी
-
-
 
 ननु
 
@@ -1371,8 +1313,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 निरर्थकम्।
 
 माथुरीभास्कारी
-
-
 
 न
 
@@ -1692,8 +1632,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 पुनरुक्त्यादिदोषाधायकम्।
 
-
-
 अस्यायमाशय
 
 :
@@ -2008,8 +1946,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरीभास्करी
 
-
-
 उत्तरपक्षवत्पूर्वपक्षोऽपि
 
 परिष्करणीय
@@ -2264,8 +2200,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरी
 
-
-
 तदसत्।
 
 "
@@ -2377,8 +2311,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 परिगणितत्वात्।
 
 माथुरीभास्करी
-
-
 
 साध्याभाववदवृत्तित्वमित्यस्य
 
@@ -2682,8 +2614,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 स्पष्टीकृतम्।
 
-
-
 अस्यायमाशय
 
 :
@@ -2919,8 +2849,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 सर्वं
 
 समञ्जसम्।
-
-
 
 ननु
 
@@ -3166,8 +3094,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशाय
 
 :
@@ -3247,8 +3173,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ?
 
 वेति।
-
-
 
 न
 
@@ -3387,8 +3311,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 : =
 
 निरूपितत्वसम्बन्धेनान्वयासम्भवात्।
-
-
 
 अस्यायमाशय
 
@@ -3592,8 +3514,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -3675,8 +3595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 नोचितम्
 
 इति।
-
-
 
 ननु
 
@@ -3800,8 +3718,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 प्रतिपादितत्वात्।
 
-
-
 अस्ययमाशय
 
 :
@@ -3839,8 +3755,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 असङ्गतमेवेति।
 
 माथुरी
-
-
 
 वस्तुतस्तु
 
@@ -3923,8 +3837,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 साधुत्वात्।
 
 माथुरीभास्करी
-
-
 
 साध्याभाववदवृत्तितवमित्यस्य
 
@@ -4184,8 +4096,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -4283,8 +4193,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 साधुत्वात्
 
 शाब्दप्रमाजनकत्वात्।
-
-
 
 अस्यायमाशय
 
@@ -4428,8 +4336,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरी
 
-
-
 साध्याभावाधिकरणवृत्त्यभावश्च
 
 तादृश
@@ -4465,8 +4371,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 ननु
 
@@ -4632,8 +4536,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 साध्याभावेत्यादि।
 
-
-
 साध्याभावेत्यादि।
 
 साध्याभावाधिकरणनिरूपिताधेयत्वाभावश्च
@@ -4788,8 +4690,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -4877,8 +4777,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 धूमाभावाधिकरणायोगोलकनिरूपितवृत्तित्वस्यसत्त्वेन
 
 तादृशवृत्तित्वसामान्याभावस्यासत्त्वान्नातिव्याप्तिरिति।
-
-
 
 नन्वेतावता
 
@@ -5032,8 +4930,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरी
 
-
-
 साध्याभाववद्वृत्तिश्च
 
 हेतुतावच्छेदकसम्बन्धेन
@@ -5131,8 +5027,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 साध्याभाववद्वृत्तिश्च
 
@@ -5292,8 +5186,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -5361,8 +5253,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 हेतावसत्त्वेऽपि
 
 नाव्याप्तिरिति।
-
-
 
 ननु
 
@@ -5566,8 +5456,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -5682,8 +5570,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 नाव्याप्तिरिति।
 
-
-
 नन्वेतावता
 
 साध्यतावच्छेदकसंबन्धावच्छिन्नसाध्यतावच्छेदकधर्ममात्रावच्छिन्नप्रतियोगिताकसाध्याभावाधिकरणनिरूपित
@@ -5711,8 +5597,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 तथापीत्यादिना।
 
 माथुरी
-
-
 
 ननु
 
@@ -5755,8 +5639,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 नन्वितिशब्द
 
@@ -5875,8 +5757,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 =
 
 सत्त्वात्।
-
-
 
 अस्यायमाशय
 
@@ -6120,8 +6000,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ननु
 
 गुणत्ववानित्यादिनादर्शिताव्याप्तिंवारयतां
@@ -6137,8 +6015,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 साध्याभावेत्यादिना।
 
 माथुरी
-
-
 
 न
 
@@ -6185,8 +6061,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 पदार्थस्वरूपत्वात्।
 
 माथुरीभास्करी
-
-
 
 नञर्थस्याग्रेतनेन
 
@@ -6235,8 +6109,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -6337,8 +6209,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 \-
 
 सम्बन्धेनासत्त्वान्नाव्याप्तिरिति।
-
-
 
 ननु
 
@@ -6449,8 +6319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 : =
 
 अव्याप्तिप्रसङ्गात्।
-
-
 
 अस्यायमाशय
 
@@ -6614,8 +6482,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 चाव्याप्तिर्दुर्वारैवेति।
 
-
-
 ननु
 
 गुणत्ववान्
@@ -6657,8 +6523,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 तत्स्वरूपत्वात्।
-
-
 
 अस्यायमाशय
 
@@ -6730,8 +6594,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 नाव्याप्तिरिति।
 
-
-
 ननु
 
 यन्मतेऽत्यन्ताभावान्योन्याभावयोरत्यन्ताभावस्य
@@ -6759,8 +6621,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 आहऽत्यन्ताभावेत्यादि।
 
 माथुरी
-
-
 
 अत्यन्ताभावान्योन्याभावयोरत्यन्ताभावस्य
 
@@ -6815,8 +6675,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 समवायादिरेव।
 
 माथुरीभास्करी
-
-
 
 अत्यन्ताभावेत्यादि
 
@@ -7057,8 +6915,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 इति
 
 सुधीभिर्विभावनीयम्।
-
-
 
 अस्यायमाशय
 
@@ -7380,8 +7236,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अन्योन्याभावसध्यकस्थलेऽन्योन्यभावाभावस्य
 
 प्रतियोगिस्वरूपत्वमते
@@ -7518,8 +7372,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 सम्बन्ध
 
 कुक्षौ
@@ -7547,8 +7399,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 समवाय
 
@@ -7655,8 +7505,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 समवाय
 
@@ -7880,8 +7728,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -8076,8 +7922,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 तत्तनिरूपितत्वम्।
 
-
-
 अस्यायमाशय
 
 :
@@ -8224,8 +8068,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ननु
 
 साध्यसामान्यीयत्वं
@@ -8267,8 +8109,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -8576,8 +8416,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ननु
 
 सर्वत्र
@@ -8746,8 +8584,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 : 
@@ -8914,8 +8750,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -8980,8 +8814,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ननु
 
 एतावता
@@ -8993,7 +8825,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 या
 
 साध्यतावच्छेदकसम्बन्धावच्छिन्नसाध्यतावच्छेदकावच्छिन्नप्रतियोगिताकसाध्याभाववृत्ति
-
 
 साध्यसामान्यीयप्रतियोगितावच्छेदकसम्बन्धावच्छिन्नाऽधेयता
 
@@ -9028,8 +8859,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 तथापीत्यादिना
 
 ।
-
-
 
 न
 
@@ -9089,8 +8918,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 न
 
 च
@@ -9134,8 +8961,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 वाच्यम्
 
 ।
-
-
 
 यथाहि
 
@@ -9182,8 +9007,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 इति
 
 ।
-
-
 
 विनिगमाकभावेनापिघटत्वत्वावच्छिन्न
 
@@ -9300,8 +9123,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 तथापि
 
@@ -9453,8 +9274,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ननु
 
 घटान्योन्याभावाभावस्य
@@ -9600,8 +9419,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 न
 
@@ -9869,8 +9686,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 न
 
 च
@@ -9962,8 +9777,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 प्रतियोगित्वाक्रान्तत्वात्
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -10083,8 +9896,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 उक्तरीत्यादर्शिताव्याप्तिवारणं
 
 न
@@ -10094,8 +9905,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 नचान्यत्रेत्यादिना
 
 ।
-
-
 
 अन्यत्र
 
@@ -10199,8 +10008,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -10258,8 +10065,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 अव्याप्तिस्तदवस्यैवेति
 
 ।
-
-
 
 न
 
@@ -10467,8 +10272,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 असयायमाशय
 
 :
@@ -10630,8 +10433,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 बोध्यमिति
 
 ।
-
-
 
 अन्योन्याभावाभावस्य
 
@@ -10809,8 +10610,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -10884,8 +10683,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 नाव्याप्तिरिति
 
 ।
-
-
 
 नन्वभावाभावत्वस्योदयनमते
 
@@ -11033,8 +10830,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -11101,8 +10896,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 घटभेदस्य
 
 घटभेदात्यन्ताभावाभाव
@@ -11152,8 +10945,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -11222,8 +11013,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 इति
 
 ।
-
-
 
 नचैवमित्यादिनाकृताया
 
@@ -11307,8 +11096,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -11363,8 +11150,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 इष्टापत्त्याऽपि
 
 दर्शितशङ्कांवारयत्युपाध्यायैरित्यादिना
@@ -11402,8 +11187,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 घटान्योन्याभावस्वरूपत्वस्वीकारात्
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -11445,8 +11228,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 सम्बन्धांशे
 
 प्रविष्टस्य
@@ -11464,8 +11245,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 नचैवं
 
@@ -11551,8 +11330,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरीभास्करी
 
-
-
 एवम्
 
 =
@@ -11610,8 +11387,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -11722,8 +11497,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 बोद्धव्यमिति
 
 ।
-
-
 
 न
 
@@ -12001,8 +11774,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -12261,8 +12032,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 साध्यातावच्छेदकसम्बन्धावच्छिन्नसाध्यतावच्छेदकधर्मावच्छिन्नप्रतियोगिताकसाध्याभाववृत्ति
 
 साध्यसामान्यीयप्रतियोगितावच्छेदक्संबन्धेन
@@ -12290,8 +12059,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 प्रतियोगितावच्छेदकवत्प्रतियोग्यप्यन्योपाभावाभाव
 
@@ -12344,8 +12111,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 प्रतियोगितावच्छेदकवत्
 
@@ -12438,8 +12203,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -12602,8 +12365,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 हेतोरसात्वान्नाव्याप्तिरिति
 
 ।
-
-
 
 अन्योन्याभावाभावस्य
 
@@ -12777,8 +12538,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -12951,8 +12710,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 घटान्योन्याभाववान्
 
 पटत्वादित्यादौ
@@ -12972,8 +12729,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 यद्वा
 
@@ -13040,8 +12795,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 साध्यतावच्छेदकेत्यादि
 
@@ -13259,8 +13012,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -13367,8 +13118,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 नन्वेतावता
 
 साध्यतावच्छेदसंबन्धावच्छिनन
@@ -13420,8 +13169,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 न
 
@@ -13491,8 +13238,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरीभास्करी
 
-
-
 तथापि
 
 =
@@ -13512,8 +13257,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 र्योऽव्याप्यवृत्तिसाध्यकसद्धेतुस्तत्र
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -13558,8 +13301,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 स्यादिति।
-
-
 
 नचैवमित्यादिना
 
@@ -13610,8 +13351,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 साध्याभाववदवृत्तित्वपदेनाभिधानात्
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -13690,8 +13429,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 असत्त्वाच्च
 
 ।
-
-
 
 ननु
 
@@ -13821,8 +13558,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -13929,8 +13664,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 साध्याभावत्वावच्छिन्नाधेतानिरूपिताधिकरणताया
 
 लक्षणे
@@ -13948,8 +13681,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 नचैवं
 
@@ -13972,8 +13703,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 एवम्
 
@@ -14018,8 +13747,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 प्रमाविषयत्वाभावेन
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -14111,8 +13838,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -14139,8 +13864,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 केवलान्वयिभिन्न
 
 साध्यकस्थलेऽपि
@@ -14164,8 +13887,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 नच
 
@@ -14216,8 +13937,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 तथापि
 
@@ -14327,10 +14046,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
-
-
 अस्यायमाशय
 
 :
@@ -14424,8 +14139,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 निरवच्छिन्नाधिकरणताघटित
 
 लक्षणस्याऽप्रद्धित्वादव्याप्तिरिति।
-
-
 
 न
 
@@ -14527,8 +14240,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -14627,8 +14338,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 साध्यतावच्छेदकससंबन्धावच्छिन्नसाध्यतावच्छेदकावच्छिन्नसाध्याभाववृत्तिसाध्यसामन्यीय
 
 प्रतियोगिताच्छेदकसंबन्धावच्छिन्ना
@@ -14686,8 +14395,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 ननं
 
@@ -14760,8 +14467,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 सुवचत्वात्
 
 ।
-
-
 
 एवं
 
@@ -14955,8 +14660,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरीभास्करी
 
-
-
 तथापि
 
 =
@@ -15081,8 +14784,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -15122,8 +14823,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 सत्त्वेनातिव्याप्तिरिति
 
 ।
-
-
 
 वह्निमत्
 
@@ -15177,8 +14876,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -15222,8 +14919,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 लक्ष्त्वसंभवात्तत्रातिव्याप्तिदोषप्रदर्शमनुचितमिति
 
 ।
-
-
 
 नचेत्यादिनाकृतमाक्षेपं
 
@@ -15329,8 +15024,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -15392,8 +15085,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 उचितमेवेति
 
 ।
-
-
 
 उक्तलक्षणस्यातिव्याप्तिदोषमभिधायाव्याप्तिदोषमपि
 
@@ -15571,8 +15262,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -15683,8 +15372,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 द्रव्यंविशिष्टसत्त्वादित्यत्राव्याप्तिमभिधाय
 
 सत्तवन्
@@ -15773,8 +15460,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -15850,8 +15535,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ऽव्याप्तिरिति
 
 ।
-
-
 
 ननु
 
@@ -15952,7 +15635,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 =
 
 साध्यतावच्छेदक्यंबन्धावच्छिछन्नसाध्यतावच्छेदकाच्छिन्नसाध्याभाववृति
-
 
 साध्यसामान्यीयप्रतियोगितावच्छेदकसंगर्गकाधिकरणता
 
@@ -16178,8 +15860,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अव्याप्तिवारणरीतिं
 
 प्रदशर्यतिव्याप्तिवारणरीतिमपि
@@ -16276,10 +15956,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
-
-
 सम्बन्धकुक्षौप्रतिवष्टस्य
 
 हेतावच्छेदकावच्छिन्नहेत्वधकरणताप्रतियोगिकत्वविशेषणस्य
@@ -16325,8 +16001,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -16415,8 +16089,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 सद्धेतु
 
@@ -16692,8 +16364,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 वह्निमान्
 
 गगनात्
@@ -16737,8 +16407,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 वस्तुतस्तु
 
@@ -16803,8 +16471,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 वस्तुत
 
@@ -17022,8 +16688,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 नन्वेवं
 
 हेतुतावच्छेदकसंबन्धावच्छिन्नाधेयताप्रतियोगिकस्वरूपसंबन्धेन
@@ -17129,8 +16793,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -17364,8 +17026,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 साध्याताच्छेदकसंबन्धावच्छिन्नसाध्यतावच्छेदकधर्मावच्छिन्नप्रतियोगिताकसाध्याभावत्व
 
 \-
@@ -17433,8 +17093,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 तथायीत्यादिना
 
 ।
-
-
 
 ननु
 
@@ -17529,8 +17187,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 तथापि
 
@@ -17760,8 +17416,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -17857,8 +17511,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 सुलभत्वादिति
 
 ।
-
-
 
 ननु
 
@@ -18050,8 +17702,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 : 
@@ -18148,8 +17798,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 वह्निमद्
 
 गगनात्
@@ -18187,8 +17835,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 केचित्तु
 
@@ -18239,8 +17885,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 निरुक्तेत्यादि
 
@@ -18315,8 +17959,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 बोधितम्
 
 ।
-
-
 
 सामान्यपदप्रयोजनमाह
 
@@ -18405,8 +18047,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 केचित्त्वित्यादेरयमाशय
 
@@ -18610,8 +18250,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 तथाचास्मिन्
 
 कल्पे
@@ -18656,8 +18294,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ) )
 
-
-
 साध्याभाववदवृत्तित्वस्य
 
 प्रकारान्तरेणार्थं
@@ -18671,8 +18307,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 अन्येतु
 
@@ -18733,8 +18367,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 हेतुतावच्छेदकसंबन्धावच्छिन्धावच्छिन्नेत्यादि
 
@@ -18959,8 +18591,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -19194,8 +18824,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 )
 
-
-
  
 
 ?
@@ -19212,8 +18840,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
  
 
 अथ
@@ -19226,19 +18852,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरी
 
-
-
 लक्षणान्तरमाह
 
 ।
 
-
-
 चिन्तामणि
 
 :
-
-
 
  '
 
@@ -19251,8 +18871,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
- 
 
 अव्यभिचरितत्वशब्दप्रतिपाद्यसामान्यभेदसाधक
 
@@ -19277,8 +18895,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 साध्यवदिभन्नो
 
@@ -19315,8 +18931,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 परव्याख्याननिराकरणमन्तरेण
 
@@ -19468,8 +19082,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -19578,8 +19190,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 साध्यवदिभन्नो
 
 य
@@ -19598,11 +19208,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 माथुरी
-
-
 
 तदसम्
 
@@ -19619,8 +19225,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 तत्
 
@@ -19687,8 +19291,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 कपिसंयोग्येतद्वृक्षत्वादित्याद्यव्याप्यवृत्तिसाध्यकस्थलेऽप्यव्याप्तिवारणात्
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -19836,8 +19438,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 प्राचीनव्याख्याने
 
 दोषमभिधाय
@@ -19859,8 +19459,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 नव्यास्तु
 
@@ -19951,8 +19549,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 सध्यवदिभन्ने
 
@@ -20358,8 +19954,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 नव्यास्त्वित्यादेरयमाशय
 
 :
@@ -20494,8 +20088,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 एवमपि
 
 साध्याभाववदित्यस्य
@@ -20515,8 +20107,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 न
 
@@ -20553,8 +20143,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 लक्षणान्तरत्वात्।
 
 माथुरीरभास्करी
-
-
 
 तथापि
 
@@ -20609,8 +20197,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -20716,8 +20302,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -20802,8 +20386,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ननु
 
 तल्लक्षणे
@@ -20829,8 +20411,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 न
 
@@ -20871,8 +20451,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 । 
 
 माथुरीभास्करी
-
-
 
 तथापि
 
@@ -21090,8 +20668,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -21204,8 +20780,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 सप्तमपदार्थात्मकाभावस्यैवाधिकरणभेदेन
 
 भेदमभ्युपगम्य
@@ -21227,8 +20801,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 ननु
 
@@ -21419,8 +20991,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 तथापि
 
@@ -21638,8 +21208,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -21746,8 +21314,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ननु
 
 तथापीत्यादिना
@@ -21779,8 +21345,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 साध्याभावस्तद्वत्त्वम्
 
 विवक्षितम्।
-
-
 
 अस्यायमाशय
 
@@ -21852,8 +21416,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 नचेत्यादिनोक्तमर्थं
 
 निराकर्तुं
@@ -21905,8 +21467,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 निर्दुष्टत्वात्
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -21975,8 +21535,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 घटाकाशसंयोगघटत्वान्यतराभाववानित्यादावव्याप्तिर्दुवार्रैंवेति
 
 ।
-
-
 
 ननु
 
@@ -22182,8 +21740,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -22263,8 +21819,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 गगनत्वहेतोरसत्वान्नाव्याप्तिर्नवासाध्याभावपदवैयर्थ्यमिति
 
 ।
-
-
 
 साध्याभावपदस्य
 
@@ -22412,8 +21966,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -22559,8 +22111,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 व्यर्थमेवेति
 
 ।
-
-
 
 नचैवं
 
@@ -22750,8 +22300,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -22857,8 +22405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 साध्यपदमिति
 
 ।
-
-
 
 साध्यपदस्य
 
@@ -23066,8 +22612,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 यद्वेत्यादेरयमाशय
 
 :
@@ -23192,10 +22736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
-
-
  ?
 
 2
@@ -23209,10 +22749,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 समाप्ता
 
 ।
-
-
-
-
 
 ?
 
@@ -23234,17 +22770,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 :
 
-
-
 साध्यवत्प्रतियोगिकायोन्याभावासामानाधिकरणयम्
 
 ।
 
-
-
 माथुरीभास्करी
-
-
 
 लक्षणान्तरमपि
 
@@ -23257,8 +22787,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 हेतौ
 
@@ -23323,8 +22851,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ?
 
 थुरीभास्करी
-
-
 
 हेतौ
 
@@ -23400,8 +22926,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -23451,8 +22975,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 नाभ्युपेयमतोनापसिद्धान्तादिदोषप्रसक्तिरिति
 
 ।
-
-
 
 ननु
 
@@ -23602,8 +23124,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -23701,8 +23221,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 इति
 
 ।
-
-
 
 प्रतियोग्यवृत्तित्वविशेषणेन
 
@@ -23916,8 +23434,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -24048,8 +23564,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 नन्वेवमपीत्यादिनोक्तदोषं
 
 परिहरति
@@ -24063,8 +23577,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 इतिचेन्न
 
@@ -24113,10 +23625,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
-
-
 
 इति
 
@@ -24194,8 +23702,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -24255,8 +23761,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 पापैनरुक्त्यमिति
 
 ।
-
-
 
 लक्षणे
 
@@ -24434,8 +23938,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -24532,8 +24034,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 न
 
 च
@@ -24623,8 +24123,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 अनिवार्यत्वात्
 
 ।
-
-
 
 अस्यायमाशयय
 
@@ -24720,8 +24218,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 नानाधिकरणसाध्यकेत्यादिना
 
 ग्रन्थेनोक्तस्य
@@ -24741,8 +24237,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 यद्वा
 
@@ -24823,8 +24317,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 साध्यवदित्यादि
 
@@ -25004,8 +24496,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -25178,8 +24668,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ननु
 
 तृतीयलक्षणे
@@ -25248,8 +24736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -25306,10 +24792,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
-
-
 ?
 
 2
@@ -25321,12 +24803,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 व्याख्या
 
 समाप्ता।
-
-
-
-
-
-
 
 ?
 
@@ -25348,15 +24824,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 :
 
- 
-
 सकलसाध्याभाववन्निष्ठाभावप्रतियोगित्वम्
 
 ।
 
 माथुरीभास्करी
-
- 
 
 लक्षणान्तरमपि
 
@@ -25375,8 +24847,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 साकल्पं
 
@@ -25435,8 +24905,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 साकल्यम्
 
@@ -25601,8 +25069,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 विशेषणम्
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -25798,8 +25264,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ननु
 
 साध्याभावे
@@ -25962,8 +25426,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -26052,8 +25514,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 नोक्तमिति।
 
-
-
 एतावता
 
 सकलसाध्याभाववन्निष्ठात्यन्ताभावप्रतियोगित्वं
@@ -26083,8 +25543,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 न
 
@@ -26119,8 +25577,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 द्रव्यं
 
@@ -26173,8 +25629,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -26233,8 +25687,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 प्रतियोगित्वमस्तीत्यातिव्यातिव्यातिव्याप्तिरिति
 
 ।
-
-
 
 न
 
@@ -26334,8 +25786,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 सकलसाध्याभाववन्निष्ठाभावप्रतियोगतावच्छेदक
 
 हेतुतावच्छेदकधर्मवत्त्वस्य
@@ -26359,8 +25809,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 प्रतियोगिता
 
@@ -26397,8 +25845,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 कमाथुरीभास्करी
-
-
 
 प्रतियोगिता
 
@@ -26465,8 +25911,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 भाव
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -26558,8 +26002,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरी
 
-
-
 साध्याभावश्च
 
 साध्यतावच्छेदकावच्छिन्नसाध्यतावच्छेदकसम्बधावच्छिन्न
@@ -26601,9 +26043,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
-
 
 साध्याभावश्च
 
@@ -26774,8 +26213,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -26981,8 +26418,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 एतावता
 
 साध्यतावच्छेदकसंबन्धावच्छिन्नसाध्यतावच्छेदकधर्मामात्रावच्छिन्न
@@ -27015,11 +26450,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 माथुरी
-
-
 
 न
 
@@ -27076,8 +26507,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 कपिसंयोग्येतद्वृक्षत्वादित्यादौ
 
@@ -27157,8 +26586,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -27198,8 +26625,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 तन्निष्ठाभावप्रतियोगितृवस्यैतद्वृक्षत्वामकहेतावसत्त्वादव्याप्तिरिति
 
 ।
-
-
 
 न
 
@@ -27391,8 +26816,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -27477,8 +26900,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 निरवच्छिन्नत्वस्य
 
 साध्याभावाधिकरणतायां
@@ -27502,8 +26923,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 न
 
@@ -27536,8 +26955,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 कपिसंयोगाभावेति
 
@@ -27598,8 +27015,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 वक्तव्यम्
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -27663,8 +27078,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 न
 
 च
@@ -27719,8 +27132,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -27761,8 +27172,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
- 
-
 साध्यातावच्छेदकसंबन्धावच्छिन्नसाध्यतावच्छेदकधर्ममात्रावच्छिन्नप्रतियोगिताकभावत्वावच्छिन्नाधेयतानिरूपितानिरूपित
 
 निरवच्छिन्नाधिकरणताश्रयताश्रयवृत्त्यभावप्रतियोगियोगितावच्छेदकहेतुतावच्छेदकधर्मवत्त्वमिति
@@ -27798,8 +27207,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 न
 
@@ -27864,8 +27271,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 पृथिवी
 
@@ -28107,8 +27512,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -28215,8 +27618,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 एतवता
 
 साध्यतावच्छेदकसंबन्धावच्छिन्नसाध्यातावच्छेदकधर्मामात्रावच्छि
@@ -28260,8 +27661,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 न
 
@@ -28340,8 +27739,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 एवम्
 
@@ -28464,8 +27861,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 अस्यायमाशय
 
@@ -28604,8 +27999,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 वक्तव्यामिति
 
 ।
-
-
 
 न
 
@@ -28785,8 +28178,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -28915,8 +28306,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 साध्यावच्देदकसंबन्धावच्छिन्नसाध्यतावच्छेदकधर्मावच्छिन्न
 
 प्रतियोगिताकाभावत्वावच्छिन्ना
@@ -28980,8 +28369,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 वस्तुतस्तु
 
@@ -29189,8 +28576,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरीभास्करी
 
-
-
 वस्तुतस्तु
 
 =
@@ -29313,10 +28698,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 प्रसङ्गात्।
 
-
-
-
-
 अस्यायमाशय
 
 :
@@ -29372,8 +28753,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 स्वीकरणीयामिति
 
 ।
-
-
 
 उक्तदोषभिया
 
@@ -29497,8 +28876,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -29593,8 +28970,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 निरुक्तसाध्याभावाधिकरणताव्यापकाभावपदेन
 
 निरुक्तसाध्याभावाधिकरणतश्रयनिष्ठाभावप्रतियोगितानच्छेदकधर्मवदभावस्य
@@ -29618,8 +28993,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 सत्त्वादित्यादिना
 
 ।
-
-
 
 सत्त्वादिसामान्याभावस्यापि
 
@@ -29687,8 +29060,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -29754,8 +29125,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 सत्त्वादिति
 
 ।
-
-
 
 ननु
 
@@ -29931,10 +29300,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 योऽन्योन्याभावस्तत्प्रतियोगितावच्छेदकत्वात्।
 
-
-
-
-
 अस्यायमाशय
 
 :
@@ -30090,8 +29455,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 असंङ्गतमेवेति
 
 ।
-
-
 
 न
 
@@ -30427,8 +29790,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -30524,8 +29885,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 वह्निमान्
 
@@ -30669,10 +30028,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
-
-
 ?
 
 2
@@ -30686,12 +30041,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 समाप्ता
 
 ।
-
-
-
-
-
-
 
 ?
 
@@ -30713,8 +30062,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 :
 
-
-
 साध्यवदन्यावृत्तित्वं
 
 वा
@@ -30727,8 +30074,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरीभास्करी
 
-
-
 लक्षणान्तरं
 
 व्याख्यातुमुपक्रमतेऽत्रापीत्यादिना
@@ -30736,8 +30081,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 अत्रापि
 
@@ -30920,8 +30263,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरीभास्करी
-
-
 
 अत्रापि
 
@@ -31145,8 +30486,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -31297,8 +30636,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 ताटृशवृत्तित्वाभाव
 
 पदेन
@@ -31320,8 +30657,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 साध्यवदन्यत्वञ्चेत्यादिना
 
 ।
-
-
 
 साध्यवदन्यत्वञ्च
 
@@ -31424,8 +30759,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 नास्ति
 
 ।
-
-
 
 प्रतियोगितायां
 
@@ -31623,8 +30956,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -31786,8 +31117,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ग्रहणासंभवान्नाव्याप्तिरिति
 
 ।
-
-
 
 अन्योन्याभावत्वनिरूपितसाध्यवत्त्वावच्छिन्नप्रतियोगितानिरूपक
 
@@ -31951,8 +31280,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -32071,8 +31398,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 वह्निमान्
 
 गगनात्
@@ -32169,8 +31494,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 नन्वेवमस्य
 
 तृतीयलक्षणेन
@@ -32245,8 +31568,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -32281,8 +31602,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 केवलान्वयिन्याभादितिचिन्तामणिं
 
 व्याख्यानि
@@ -32292,8 +31611,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 ।
 
 माथुरी
-
-
 
 सर्वाण्येव
 
@@ -32507,8 +31824,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 माथुरीभास्करी
 
-
-
 सर्वाण्येव
 
 लक्षणानि
@@ -32680,8 +31995,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 :
 
 ।
-
-
 
 केवलान्वयिसाध्यकस्थले
 
@@ -32979,8 +32292,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -33018,8 +32329,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 सत्त्वादिति
 
 ।
-
-
 
 उक्ताव्याप्तिर्वारयितुं
 
@@ -33189,8 +32498,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -33244,8 +32551,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 दुर्वारमेवेति
 
 ।
-
-
 
 तृतीय
 
@@ -33361,8 +32666,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 अस्यायमाशय
 
 :
@@ -33441,8 +32744,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 क्वाप्यसत्त्वेनाप्रसिद्धत्वात्तटितलक्षणत्रयस्याप्य्रपसिध्द्याऽव्याप्तिरिति।
 
-
-
 अन्यत्सर्वं
 
 तत्र
@@ -33457,15 +32758,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI0ODU2NDkxMDk
 
 ।
 
-
-
 समाप्ता
 
 भास्करनाम्री 
 
 ।
-
-
-
 
 \]

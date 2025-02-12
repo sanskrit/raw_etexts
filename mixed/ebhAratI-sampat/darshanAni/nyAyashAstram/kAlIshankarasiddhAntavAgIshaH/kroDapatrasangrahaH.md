@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwMzk2MTA0OTY
 
 \[
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Registerea dccording to act XXV.  
@@ -1741,8 +1739,5 @@ T
 पातारस सिटी।
 
 ----------
-
-
-
 
 \]

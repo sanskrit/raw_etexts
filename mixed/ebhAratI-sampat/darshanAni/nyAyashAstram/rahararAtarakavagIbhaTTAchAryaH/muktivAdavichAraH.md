@@ -13,25 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxODE3NjM3NjM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ** मुक्तिवादविचारः**
-
-
 
 ** (1)कस्तावदपवर्गः**
 
@@ -806,18 +788,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxODE3NjM3NjM
 ** ॥श्रीहरये नमः॥**
 
 ** - - - - - \* \* \* - - - - - **
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

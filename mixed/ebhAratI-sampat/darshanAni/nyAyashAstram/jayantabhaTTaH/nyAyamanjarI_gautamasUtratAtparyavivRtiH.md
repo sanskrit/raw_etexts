@@ -18,8 +18,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczNDQ4NDAxMzU
 
 \[
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 M",". T  
@@ -2075,8 +2073,5 @@ Hin"
 समाप्ता चेयं न्यायमञ्जरी ॥
 
 ----------
-
-
-
 
 \]

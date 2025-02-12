@@ -13,27 +13,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxMjExODA4MjE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ** ॥ श्री ॥**
 
 ** ॥ तर्कभाषाप्रकाशः ॥**
-
-
 
 यत्तर्कभाषामनुभाषते स्म गोवर्धनस्तर्ककथासु धीरः ।
 
@@ -86,18 +68,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQxMjExODA4MjE
 **समाप्तः ।**
 
 **-------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*------------**
-
- 
-
-
-
-
-
-
-
-
-
-
-
 
 \]

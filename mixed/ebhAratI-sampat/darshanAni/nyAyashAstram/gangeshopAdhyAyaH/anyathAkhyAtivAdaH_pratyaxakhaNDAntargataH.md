@@ -19,8 +19,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5NTY5MDY2NTQ
 
 \[
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 RApoo0000  
@@ -1235,8 +1233,5 @@ A series of discourses by Sri. R Krishnaswami Aiyar on the the essence of Advait
 १२
 
 ----------
-
-
-
 
 \]

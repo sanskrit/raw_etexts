@@ -13,25 +13,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk5MTExMDY1ODQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **विशेषणम्, उपलक्षणम्, उपाधिश्च**
 
 **एन. एस्. रामानुजताताचार्यः**
-
-
 
 ** (Nirvikalpka and Savikalpaka kinds of knowledge have further been diveded into kinds---Visesanam and Upalaksanam. Besides thees two, \`Upadhi' has also been consedered as a kind of knowledge in Vedantaparibhasha and Advaita Siddhi. In this artile the writr has compiled and elucideted the various kinds of Savikalpaka and Nirvikalpaka kind of knowledge as mentioned in different works on philosophy.)**
 
@@ -112,16 +96,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk5MTExMDY1ODQ
 **इति उपलक्षणविशेषणयोर्लक्षणे अभ्यधायिषाताम्। विशेष्य विषयक प्रतीतौ विषयः सन् यः विशेष्यप्रतीतेरुपायः स विशेषणम्। विशेष्यविषयकप्रतीतावविषयः सन् यः विशेष्यप्रतीतेरुपायः स उपलक्षणमिति तदर्थ इति।**
 
 ** -------\*\*\*\*\*\*\*\*\*\*\*\*\*\*-------**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

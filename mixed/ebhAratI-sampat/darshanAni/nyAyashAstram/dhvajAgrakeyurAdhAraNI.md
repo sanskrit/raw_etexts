@@ -12,16 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3MDA5NjYwNDU
 
 \[
 
-
-
-
-
-
-
 **ध्वजाग्रकेयुराधारणी**
-
-
-
 
 ध्वजाग्रकेयुरा धारणी
 
@@ -44,8 +35,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc3MDA5NjYwNDU
 \\Z
 
 -----------------------------------------------------------
-
-
-
 
 \]

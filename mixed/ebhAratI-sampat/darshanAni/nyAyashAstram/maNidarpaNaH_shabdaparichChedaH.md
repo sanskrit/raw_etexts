@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjkwMjA2NjUzMTI
 
 \[
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 TRIVANDRUM SANSKRIT SERIES  
@@ -813,8 +811,5 @@ R625
 NI3
 
 ----------
-
-
-
 
 \]

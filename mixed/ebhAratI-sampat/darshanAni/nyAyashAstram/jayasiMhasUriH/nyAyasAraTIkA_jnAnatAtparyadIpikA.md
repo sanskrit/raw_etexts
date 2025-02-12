@@ -13,16 +13,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4NDgzNTk2
 
 \[
 
-
-
-
-
-
-
-
-
-
-
 ** न्यायतात्पर्य्यदीपिका। **
 
 ** प्रत्यक्षपरिच्छेदः।**
@@ -30,8 +20,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4NDgzNTk2
 ** --\*\*--**
 
 ** ॐनमः परमात्मने।**
-
-
 
 ** यत्सत्त्वं ध्वनयत्यनक्षविषयं चित्तारतम्यानुमा**
 
@@ -579,17 +567,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4NDgzNTk2
 
  ----\*\*\*\*----
 
-
-
-
-
-
-
 ** अनुमानपरिच्छेदः।**
 
 ** ---\*\*---**
-
-
 
 ** प्रथमपरिच्छेदे सभेदं प्रत्यक्षं लक्षयित्वा तत्पृष्ठभावित्वादिदानीमनुमानं लक्षयति।**
 
@@ -2377,12 +2357,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4NDgzNTk2
 
  ----\*\*\*\*\*----
 
-
-
-
-
-
-
 ** आगमपरिच्छेदः।**
 
 ** ---\*\*---**
@@ -3583,19 +3557,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjA4NDgzNTk2
 ** इति श्रीकृष्णर्षिगच्छमण्डनश्रीमहेन्द्रसूरिशिष्यश्रीजयसिंहसूरिविरचितायां न्यायतात्पर्य्यदीपिकाभिधानायां श्रीन्यायसारटीकायामागमपरिच्छेदस्तार्त्तीयिकः सम्पूर्णः॥**
 
 **  -----\*\*\*\*\*-----**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

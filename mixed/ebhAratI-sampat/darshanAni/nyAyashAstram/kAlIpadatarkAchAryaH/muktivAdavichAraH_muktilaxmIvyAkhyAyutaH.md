@@ -15,22 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY2MDY5NjU4NDY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   ** मुक्तिवादविचारः।  
   मुक्तिलक्ष्मीव्याख्या  
  **  
@@ -411,18 +395,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY2MDY5NjU4NDY
   **
 
 **                      - - - - - \* \* \* - - - - -**
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]
